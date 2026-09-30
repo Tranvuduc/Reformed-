@@ -90,6 +90,7 @@ function expand(d){
 }
 
 function prog(id){return st.prog[id]||{s:"todo",p:0}}
+function fold(s){return String(s).toLowerCase().replace(/đ/g,"d").normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
 function passes(b){
   var p=prog(b.id),q=st.q.toLowerCase();
   if(st.f==="saved"&&st.saved.indexOf(b.id)<0)return false;
@@ -102,8 +103,8 @@ function passes(b){
   if(st.ty!=="all"&&b.ty!==st.ty)return false;
   if(st.er!=="all"&&b.er!==st.er)return false;
   if(q){
-    var hay=[b.a,b.en.t,b.en.n,b.vi&&b.vi.t,b.vi&&b.vi.n,DESC[b.id]&&DESC[b.id][0],DESC[b.id]&&DESC[b.id][1]].join(" ").toLowerCase();
-    if(hay.indexOf(q)<0)return false;
+    var hay=fold([b.a,b.en.t,b.en.n,b.vi&&b.vi.t,b.vi&&b.vi.n,DESC[b.id]&&DESC[b.id][0],DESC[b.id]&&DESC[b.id][1]].join(" "));
+    if(hay.indexOf(fold(q))<0)return false;
   }
   return true;
 }
