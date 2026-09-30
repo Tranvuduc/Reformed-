@@ -114,3 +114,6 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
 [hidden]{display:none!important}
 #ftog{display:none}
 @media(max-width:600px){#ftog{display:inline-block}.bar:not(.open) select,.bar:not(.open) #clear{display:none}}
+
+.bar input#author{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:7px 10px;font-size:.88rem;min-width:0;width:150px}
+@media(max-width:600px){.bar input#author{flex:1 1 calc(50% - 8px);width:auto;padding:6px 8px;font-size:.82rem}.bar:not(.open) input#author{display:none}}

@@ -19,5 +19,5 @@ jobs:
       - run: |
           git config user.name "catalog-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -A ia.json a b tac-gia.html tieng-viet.html sitemap.xml
+          git add -A ia.json a b tac-gia.html tieng-viet.html sach-noi.html sitemap.xml
           git diff --cached --quiet || (git commit -m "Update Internet Archive catalog" && git push)

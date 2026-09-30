@@ -11,15 +11,15 @@ header #vo{max-width:120px;text-overflow:ellipsis}
 header .sp{flex:1}#bar{height:3px;background:var(--ln)}#bar i{display:block;height:100%;background:var(--ac);width:0}
 main{max-width:42rem;margin:0 auto;padding:24px 16px 80px;font-size:var(--fs,19px);line-height:1.7}
 main p{margin:0 0 1em;white-space:pre-wrap;overflow-wrap:anywhere}main h2{font-size:1.3em;margin:1.6em 0 .6em;color:var(--ac)}
-nav.pg{display:flex;justify-content:space-between;align-items:center;margin-top:24px;font:14px system-ui,sans-serif;color:var(--mut)}
+#trs{font:13px system-ui,sans-serif;color:var(--mut);margin:0 0 14px;padding:8px 10px;border:1px dashed var(--ln);border-radius:6px}.orig{display:block;font-size:.8em;opacity:.6;margin-top:.3em}nav.pg{display:flex;justify-content:space-between;align-items:center;margin-top:24px;font:14px system-ui,sans-serif;color:var(--mut)}
 nav.pg button{font:inherit;padding:8px 16px;border:1px solid var(--ln);border-radius:6px;background:none;color:var(--fg);cursor:pointer}
 nav.pg button:disabled{opacity:.4}#all{display:none}@media print{header,#bar,nav.pg,#msg,#txt{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}#msg{font:15px system-ui,sans-serif;color:var(--mut);padding:40px 0}
 </style></head><body>
 <header><a href="./" id="back">← Library</a><b id="ttl" style="font:600 14px system-ui"></b><span class="sp"></span>
-<button id="au" aria-label="Listen" title="Listen">🔊</button><select id="vo" aria-label="Voice" title="Voice"><option value="">Auto</option></select><select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select><button id="ep" title="Download EPUB">EPUB</button><button id="pd" title="Save as PDF">PDF</button>
+<button id="tr" title="Translate to Vietnamese (free, machine)">EN</button><button id="au" aria-label="Listen" title="Listen">🔊</button><select id="vo" aria-label="Voice" title="Voice"><option value="">Auto</option></select><select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select><button id="ep" title="Download EPUB">EPUB</button><button id="pd" title="Save as PDF">PDF</button>
 <button id="fm" aria-label="Smaller">A−</button><button id="fp" aria-label="Larger">A+</button><button id="th">◐</button></header>
 <div id="bar"><i></i></div>
-<main><div id="msg">Loading…</div><div id="txt"></div><div id="all"></div>
+<main><div id="trs" hidden></div><div id="msg">Loading…</div><div id="txt"></div><div id="all"></div>
 <nav class="pg" id="nav" hidden><button id="pv">←</button><span id="pn"></span><button id="nx">→</button></nav></main>
 <script>
 (function(){
@@ -41,12 +41,44 @@ function split(t){
   paras.forEach(function(p){ if(b.length+p.length>PAGE&&b){out.push(b);b=""} b+=(b?"\n\n":"")+p; });
   if(b)out.push(b);return out;
 }
+/* Translate to Vietnamese: Chrome built-in Translator (on-device) first, then free web services. Machine translation, may contain errors. */
+var trm=ls("rv.trm")||"0",tpage={},trp={},trTok=0,natT=null,dead={};
+function splitC(t,max){var out=[],cur="";t.split(/(?<=[.!?;:])\s+/).forEach(function(x){while(x.length>max){if(cur){out.push(cur);cur=""}var k=x.lastIndexOf(" ",max);if(k<200)k=max;out.push(x.slice(0,k));x=x.slice(k).trim()}if(cur&&cur.length+x.length+1>max){out.push(cur);cur=""}cur+=(cur?" ":"")+x});if(cur)out.push(cur);return out}
+function tmo(p,ms){return Promise.race([p,new Promise(function(_,r){setTimeout(function(){r(new Error("timeout"))},ms)})])}
+async function tr1(t){
+  if(!dead.nat&&self.Translator){try{if(!natT){var av=await tmo(self.Translator.availability({sourceLanguage:"en",targetLanguage:"vi"}),3000);if(av!=="available")throw 0;natT=await tmo(self.Translator.create({sourceLanguage:"en",targetLanguage:"vi"}),5000)}return await tmo(natT.translate(t),20000)}catch(e){dead.nat=1}}
+  if(!dead.gtx){try{var r=await tmo(fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&dt=t&q="+encodeURIComponent(t)),15000);if(!r.ok)throw 0;var j=await r.json();var o=j[0].map(function(x){return x[0]}).join("");if(!o)throw 0;return o}catch(e){dead.gtx=1}}
+  if(!dead.mm){try{var r2=await tmo(fetch("https://api.mymemory.translated.net/get?langpair=en|vi&q="+encodeURIComponent(t.slice(0,480))),15000);if(!r2.ok)throw 0;var j2=await r2.json();if(j2.responseStatus!=200)throw 0;return j2.responseData.translatedText}catch(e){dead.mm=1}}
+  throw new Error("no translator")
+}
+async function trText(t){var out=[],c=splitC(t,dead.gtx&&dead.nat?470:900);for(var i=0;i<c.length;i++)out.push(await tr1(c[i]));return out.join(" ")}
+function trKey(i){return"rv.tr."+id+"."+i}
+function runTr(i){
+  var tok=++trTok,els=[].slice.call($("txt").children),src=pages[i].split(/\n\n/).map(function(p){return p.trim()}).filter(Boolean);
+  var st=$("trs");st.hidden=false;
+  var cached=null;try{cached=JSON.parse(ls(trKey(i))||"null")}catch(e){}
+  var paint=function(k,v){var e=els[k];if(!e)return;e.innerHTML=esc(v)+(trm==="2"?'<span class="orig">'+esc(src[k])+"</span>":"")};
+  if(cached&&cached.length===src.length){cached.forEach(function(v,k){paint(k,v)});tpage[i]=cached.join("\n\n");st.textContent="Bản dịch máy · Machine translation — có thể sai sót.";return Promise.resolve()}
+  var res=[],k=0;st.textContent="Đang dịch… / Translating…";
+  return(async function(){
+    for(;k<src.length;k++){
+      if(tok!==trTok)return;
+      var v=await trText(src[k]);if(tok!==trTok)return;res.push(v);paint(k,v);st.textContent="Đang dịch… "+(k+1)+"/"+src.length;
+    }
+    tpage[i]=res.join("\n\n");st.textContent="Bản dịch máy · Machine translation — có thể sai sót.";
+    try{ls(trKey(i),JSON.stringify(res))}catch(e){}
+  })().catch(function(){if(tok===trTok){st.innerHTML='Translation service unavailable. <a href="https://translate.google.com/?sl=en&tl=vi&op=translate" target="_blank" rel="noopener">Open Google Translate</a> or try again later.'}});
+}
+function setTr(m){trm=m;ls("rv.trm",m);$("tr").textContent=m==="0"?"EN":m==="1"?"VI":"EN+VI";if(m==="0"){$("trs").hidden=true;trTok++}show(cur,false)}
+$("tr").textContent=trm==="0"?"EN":trm==="1"?"VI":"EN+VI";
+$("tr").onclick=function(){setTr(trm==="0"?"1":trm==="1"?"2":"0")};
 function show(i,top){
   cur=Math.max(0,Math.min(pages.length-1,i));
   $("txt").innerHTML=pages[cur].split(/\n\n/).map(function(p){
     var s=p.trim();if(!s)return"";
     return(s.length<80&&!/[.,;:]$/.test(s)&&/^[A-Z0-9IVXL]/.test(s))?"<h2>"+esc(s)+"</h2>":"<p>"+esc(s)+"</p>";
   }).join("");
+  trTok++;if(trm!=="0")trp[cur]=runTr(cur);else $("trs").hidden=true;
   $("pn").textContent=(cur+1)+" / "+pages.length;$("pv").disabled=cur===0;$("nx").disabled=cur===pages.length-1;
   var pct=pages.length>1?Math.round(cur/(pages.length-1)*100):100;$("bar").firstChild.style.width=pct+"%";
   ls("rv.pos."+id,cur);save(pct);if(top!==false)window.scrollTo(0,0);
@@ -93,16 +125,18 @@ function speakPiper(){
     paudio.onended=function(){URL.revokeObjectURL(u);speak()};paudio.onerror=function(){URL.revokeObjectURL(u);speak()};return paudio.play()})
   .catch(function(e){if(!playing)return;if(++pfail>=2){ls("rv.voice","");$("vo").value="";alert("Piper voice could not load (network or browser). Using the device voice.");qi=Math.max(0,qi-1);speak()}else{pc={};qi=Math.max(0,qi-1);setTimeout(speak,800)}});
 }
+function srcText(){return trm!=="0"&&tpage[cur]?tpage[cur]:pages[cur]}
+function nextQ(cb){Promise.resolve(trm!=="0"?trp[cur]:null).then(function(){if(!playing)return;queue=chunks(srcText());qi=0;cb()})}
 function speak(){
   if(!playing)return;
-  if(qi>=queue.length){if(cur<pages.length-1){show(cur+1);queue=chunks(pages[cur]);qi=0;speak()}else stopA();return}
+  if(qi>=queue.length){if(cur<pages.length-1){show(cur+1);nextQ(speak)}else stopA();return}
   if(ls("rv.voice")==="piper"){speakPiper();return}
   var t=queue[qi++],lg=lgOf(t),v=pick(lg),u=new SpeechSynthesisUtterance(t);
   u.rate=+$("sp").value;u.lang=v?v.lang:(lg==="vi"?"vi-VN":"en-US");if(v)u.voice=v;
   u.onend=function(){setTimeout(speak,/[.!?]$/.test(t)?120:40)};
   u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
 }
-function startA(){pfail=0;if(!window.speechSynthesis||!pages.length){alert("No speech voice available on this device.");return}playing=true;$("au").textContent="⏸";queue=chunks(pages[cur]);qi=0;speechSynthesis.cancel();loadVoices();speak();
+function startA(){pfail=0;if(!window.speechSynthesis||!pages.length){alert("No speech voice available on this device.");return}playing=true;$("au").textContent="⏸";speechSynthesis.cancel();loadVoices();nextQ(speak);
   clearInterval(keep);keep=setInterval(function(){if(playing&&speechSynthesis.speaking&&!speechSynthesis.paused){speechSynthesis.pause();speechSynthesis.resume()}},12000)}
 function stopA(){playing=false;try{paudio.pause()}catch(e){}clearInterval(keep);$("au").textContent="🔊";speechSynthesis.cancel()}
 if(window.speechSynthesis){loadVoices();speechSynthesis.onvoiceschanged=loadVoices}

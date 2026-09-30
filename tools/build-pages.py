@@ -29,7 +29,7 @@ def page(title, desc_, path, body, ld=None):
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{SITE}/og.png"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><style>{CSS}</style>{j}</head><body><main>
-<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a></nav>
+<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a></nav>
 {body}
 <footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · Liên hệ: reformedvn@gmail.com</footer></main></body></html>'''
 
@@ -94,6 +94,20 @@ vn = "".join(f'<li><a href="{E(r["url"])}" rel="noopener">{E(r["vi"]["t"])}</a> 
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
     "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí từ Mục vụ Tiên Phong, 9Marks và các nguồn khác.", "tieng-viet.html",
     f"<h1>Sách và bài viết tiếng Việt</h1><p>{len([r for r in mg['vn'] if not r.get('au')])} tài liệu thần học Cải Chánh bằng tiếng Việt, dẫn đến nguồn gốc của từng tài liệu. Cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p><ul>{vn}</ul>"))
+
+# Audio hub
+AUD=[("LibriVox trên Internet Archive","https://archive.org/details/librivoxaudio","Sách nói miễn phí do tình nguyện viên đọc (tiếng Anh): Bunyan, Spurgeon, Ryle, Bonar, Edwards và nhiều tác giả khác."),
+("CCEL – các tác phẩm có bản nghe MP3","https://www.ccel.org/index/format/mp3","135 tác phẩm cổ điển có bản nghe MP3: Pilgrim's Progress, Calvin, Owen, Spurgeon, Westminster Confession."),
+("Puritan Downloads – MP3 Thanh giáo và Cải Chánh","https://www.puritandownloads.com/free-puritan-reformation-mp3-audio-sermons-books/","Sách nói và bài giảng MP3 Thanh giáo miễn phí."),
+("Kinh Thánh nghe – Bible.com (Kinh Thánh Hiện Đại)","https://www.bible.com/vi/audio-bible-app-versions/1638-vcb-vietnamese-contemporary-bible","Kinh Thánh tiếng Việt có âm thanh, nghe trên điện thoại."),
+("Kinh Thánh nghe – Bản Dịch Mới (NVB)","https://www.bible.com/audio-bible-app-versions/449-nvb-kinh-th%C3%A1nh-b%E1%BA%A3n-d%E1%BB%8Bch-m%E1%BB%9Bi","Bản Dịch Mới, có âm thanh."),
+("Ligonier – loạt bài giảng của R.C. Sproul","https://www.ligonier.org/learn/series","Nhiều loạt bài giảng âm thanh miễn phí (tiếng Anh)."),
+("Desiring God – bài giảng của John Piper","https://www.desiringgod.org/messages","Bài giảng âm thanh miễn phí (tiếng Anh).")]
+lis_a = "".join(f'<li><a href="{E(u)}" rel="noopener">{E(t)}</a><br><small>{E(d)}</small></li>' for t,u,d in AUD)
+open("sach-noi.html", "w", encoding="utf-8").write(page("Sách nói và bài giảng Cải Chánh miễn phí | Reformed Vietnam",
+    "Nơi nghe sách nói, bài giảng và Kinh Thánh âm thanh miễn phí: LibriVox, CCEL, Puritan Downloads, Bible.com, Ligonier, Desiring God.", "sach-noi.html",
+    f"<h1>Sách nói và bài giảng miễn phí</h1><p>Các nguồn nghe miễn phí mà thư viện dẫn đến. Trong thư viện, lọc \"Có bản nghe\" để xem các sách có bản nghe. Trình đọc của chúng tôi cũng đọc to bằng giọng của thiết bị.</p><ul>{lis_a}</ul><p><a class=\"btn\" href=\"/?q=\">Mở thư viện</a></p>"))
+urls.append("sach-noi.html")
 
 # sitemap
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
