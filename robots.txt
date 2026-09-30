@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://reformed-vietnam.vercel.app/sitemap.xml
