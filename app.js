@@ -8,12 +8,6 @@ var T={
   er_anc:"Before 1500",er_ref:"Reformation (1500s)",er_pur:"Puritan age (1600s)",er_aw:"Awakening era (1700s)",er_mod:"1800s",er_c20:"1900 and later",
   sync:"Sync",about:"About",sh:"Sync across devices",sp:"The sync code is your secret: anyone with it can read and write your progress. Enter the same code on another device.",snew:"Create new code",suse:"Use this code",soff:"Turn off sync",sclose:"Close",sok:"Synced.",serr:"Sync failed, try again later.",sbad:"Invalid code (20–40 letters/digits).",rhere:"Read here",lede:"Free books and readings to read and listen to on your phone. Most titles are in the public domain, and every card names its source. No accounts, no fees.",h1:"Reformed books, <span>free to read</span>",start:"★ Start here",lang:"VI",theme:"◐",exp:"Export progress",imp:"Import progress",impok:"Progress imported.",imperr:"Invalid file.",search:"Search title or author",all:"All",reading:"Reading",done:"Finished",saved:"Saved",todo:"Not started",allAuthors:"All authors",other:"Classics and other",titles:"titles",of:"of",read:"Read",listen:"Listen",archive:"Archive",save:"☆ Save",saved2:"★ Saved",more:"Show more",cont:"Continue reading",cont2:"Continue",theology:"Theology",classic:"Classics",ccelnote:"Public domain. Source: CCEL.",mgnote:"Free ebook (English) at Monergism: EPUB, PDF, Kindle.",none:"No titles match that search.",nosaved:"Nothing saved yet. Tap Save on a book and it will appear here.",noreading:"Nothing here yet. Set a status on a book to track your progress.",htts:"Listen to any text",ptts:"Paste a chapter or pick a sample. Your device reads it aloud.",lsample:"Sample",ltxt:"Text",lvoice:"Voice",lrate:"Speed",bplay:"Play",bpause:"Pause",bstop:"Stop",addtext:"Add some text first.",playing:"Playing",paused:"Paused",stopped:"Stopped",fin:"Finished",nosyn:"This browser cannot read text aloud. Try Chrome, Edge or Safari.",hfile:"Play your own audio",pfile:"Open an MP3 or M4A from your device. It stays on your device.",lfile:"Audio file",own:"Your own text",foot:"Ebooks and audio link to the Christian Classics Ethereal Library (CCEL), Project Gutenberg, LibriVox and Internet Archive. Reading progress and saved books stay on your device. Translations and modern editions may still be under copyright."}
 };
-var SAMPLES=[
-{n:"Psalm 23 (KJV)",t:"The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."},
-{n:"John 1:1-5 (KJV)",t:"In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not."},
-{n:"Genesis 1:1-5 (KJV)",t:"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."},
-{n:"",t:""}
-];
 var $=function(i){return document.getElementById(i)};
 var PAGE=48;
 var DESC={},START=[];
@@ -207,12 +201,11 @@ function buildAuthors(){
 }
 function labels(){
   document.documentElement.lang=st.lang;
-  var m={h1:"h1",lede:"lede",lang:"lang",theme:"theme",exp:"exp",imp:"imp",sync:"sync",about:"about","s-h":"sh","s-p":"sp","s-new":"snew","s-use":"suse","s-off":"soff","s-x":"sclose","h-tts":"htts","p-tts":"ptts","l-sample":"lsample","l-txt":"ltxt","l-voice":"lvoice","l-rate":"lrate",play:"bplay",pause:"bpause",stop:"bstop","h-file":"hfile","p-file":"pfile","l-file":"lfile",foot:"foot"};
+  var m={h1:"h1",lede:"lede",lang:"lang",theme:"theme",sync:"sync",about:"about","s-h":"sh","s-p":"sp","s-new":"snew","s-use":"suse","s-off":"soff","s-x":"sclose",foot:"foot"};
   for(var k in m){if(k==="h1")$(k).innerHTML=tx(m[k]);else $(k).textContent=tx(m[k])}
   $("q").placeholder=tx("search");
   var c=$("fmt").children;for(var i=0;i<c.length;i++)c[i].textContent=tx(c[i].dataset.f);
-  $("sample").options[3].textContent=tx("own");
-  buildAuthors();loadVoices();
+  buildAuthors();
 }
 try{var _q=new URLSearchParams(location.search).get("q");if(_q){st.q=_q;$("q").value=_q}}catch(e){}
 $("q").addEventListener("input",function(e){st.q=e.target.value;st.limit=PAGE;render()});
@@ -254,18 +247,6 @@ $("grid").addEventListener("change",function(e){
 $("lang").addEventListener("click",function(){st.lang=st.lang==="vi"?"en":"vi";try{localStorage.setItem("rv.lang",st.lang)}catch(e){}labels();render()});
 $("theme").addEventListener("click",function(){var r=document.documentElement,d=r.getAttribute("data-theme")==="dark"||(!r.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches);r.setAttribute("data-theme",d?"light":"dark")});
 
-$("exp").addEventListener("click",function(){
-  var blob=new Blob([JSON.stringify({v:1,saved:st.saved,prog:st.prog})],{type:"application/json"}),a=document.createElement("a");
-  a.href=URL.createObjectURL(blob);a.download="reformed-vietnam-progress.json";document.body.appendChild(a);a.click();a.remove();
-});
-$("imp").addEventListener("click",function(){$("impf").click()});
-$("impf").addEventListener("change",function(){
-  var f=this.files[0];if(!f)return;var r=new FileReader();
-  r.onload=function(){try{
-    var d=JSON.parse(r.result);if(!d||typeof d.prog!=="object"||!Array.isArray(d.saved))throw 0;
-    st.prog=d.prog;st.saved=d.saved;saveLS("rv.prog",st.prog);saveLS("rv.saved",st.saved);render();alert(tx("impok"));
-  }catch(e){alert(tx("imperr"))}};r.readAsText(f);this.value="";
-});
 
 
 /* sync */
@@ -294,30 +275,6 @@ $("s-use").addEventListener("click",function(){
 $("s-off").addEventListener("click",function(){try{localStorage.removeItem(K)}catch(e){}$("s-code").value="";$("s-off").hidden=true;st2.textContent=""});
 if(code())run();
 })();
-
-/* text to speech */
-var syn=window.speechSynthesis,voices=[];
-SAMPLES.forEach(function(s,i){var o=document.createElement("option");o.value=i;o.textContent=s.n;$("sample").appendChild(o)});
-$("txt").value=SAMPLES[0].t;
-$("sample").addEventListener("change",function(){$("txt").value=SAMPLES[+this.value].t;$("txt").focus()});
-function loadVoices(){
-  if(!syn){$("tts").textContent=tx("nosyn");return}
-  voices=syn.getVoices().filter(function(v){return/^(en|vi)/i.test(v.lang)});
-  $("voice").innerHTML=voices.map(function(v,i){return'<option value="'+i+'">'+esc(v.name)+' ('+v.lang+')</option>'}).join("")||"<option>Default</option>";
-}
-if(syn)syn.onvoiceschanged=loadVoices;
-$("rate").addEventListener("input",function(){$("rateVal").textContent=(+this.value).toFixed(1)+"x"});
-$("play").addEventListener("click",function(){
-  if(!syn)return;var t=$("txt").value.trim();if(!t){$("tts").textContent=tx("addtext");return}
-  if(syn.paused&&syn.speaking){syn.resume();$("tts").textContent=tx("playing");return}
-  syn.cancel();var u=new SpeechSynthesisUtterance(t);u.rate=+$("rate").value;
-  var v=voices[+$("voice").value];if(v){u.voice=v;u.lang=v.lang}
-  u.onend=function(){$("tts").textContent=tx("fin")};u.onerror=function(){$("tts").textContent=tx("stopped")};
-  syn.speak(u);$("tts").textContent=tx("playing");
-});
-$("pause").addEventListener("click",function(){if(syn&&syn.speaking){syn.pause();$("tts").textContent=tx("paused")}});
-$("stop").addEventListener("click",function(){if(syn){syn.cancel();$("tts").textContent=tx("stopped")}});
-$("file").addEventListener("change",function(){var f=this.files[0];if(!f)return;var p=$("player");p.src=URL.createObjectURL(f);p.hidden=false;$("fileStatus").textContent=f.name+" ("+(f.size/1048576).toFixed(1)+" MB)"});
 
 labels();
 Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("lv.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];LV=x[5];if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});

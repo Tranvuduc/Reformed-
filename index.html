@@ -21,9 +21,8 @@
   <button class="btn" id="lang" type="button"></button>
   <button class="btn" id="theme" type="button"></button>
   <details class="menu"><summary class="btn" id="menu">⋯</summary><div class="pop">
-    <button class="btn" id="sync" type="button"></button><button class="btn" id="exp" type="button"></button><button class="btn" id="imp" type="button"></button><a class="btn" id="about" href="about.html"></a>
+    <button class="btn" id="sync" type="button"></button><a class="btn" id="about" href="about.html"></a>
   </div></details>
-  <input type="file" id="impf" accept="application/json" hidden>
 </nav>
 <header class="hero">
   <h1 id="h1">Sách Cải Chánh, <span>miễn phí</span></h1>
@@ -53,25 +52,7 @@
   <h2 class="sec" id="allh" hidden></h2>
   <div class="grid" id="grid" aria-live="polite"></div>
   <div class="more"><button class="btn" id="more" type="button" hidden></button></div>
-  <details class="tts"><summary id="h-tts"></summary>
-  <div class="desk">
-    <div class="panel">
-      <p class="hint" id="p-tts"></p>
-      <label for="sample" id="l-sample"></label><select id="sample"></select>
-      <label for="txt" id="l-txt"></label><textarea id="txt"></textarea>
-      <label for="voice" id="l-voice"></label><select id="voice"></select>
-      <label for="rate"><span id="l-rate"></span> <span id="rateVal">1.0x</span></label>
-      <input type="range" id="rate" min="0.6" max="1.6" step="0.1" value="1">
-      <div class="row"><button class="btn primary" id="play" type="button"></button><button class="btn" id="pause" type="button"></button><button class="btn" id="stop" type="button"></button></div>
-      <div class="status" id="tts"></div>
-    </div>
-    <div class="panel">
-      <h2 id="h-file"></h2><p class="hint" id="p-file"></p>
-      <label for="file" id="l-file"></label><input type="file" id="file" accept="audio/*">
-      <audio id="player" controls hidden></audio>
-      <div class="status" id="fileStatus"></div>
-    </div>
-  </div></details>
+  
 </main>
 <p class="foot" id="foot"></p>
 </div>

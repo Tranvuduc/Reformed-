@@ -70,9 +70,9 @@ function lgOf(t){return VI.test(t)?"vi":"en"}
 /* Rank voices: neural/online/natural first, then Google, then local. */
 function score(v){var n=v.name,s=0;if(/natural|neural/i.test(n))s+=50;if(/online/i.test(n))s+=30;if(/google/i.test(n))s+=20;if(/siri|premium|enhanced/i.test(n))s+=25;if(/compact|espeak/i.test(n))s-=20;if(!v.localService)s+=5;return s}
 function loadVoices(){
-  var all=speechSynthesis.getVoices();if(!all.length)return;
+  var all=speechSynthesis.getVoices();if(!all.length&&!$("vo").options.length)return;
   VOICES=all.filter(function(v){return /^(en|vi)/i.test(v.lang)}).sort(function(a,b){return score(b)-score(a)});
-  var sel=$("vo"),keepv=ls("rv.voice")||"";sel.innerHTML='<option value="">Auto</option>';
+  var sel=$("vo"),keepv=ls("rv.voice")||"";sel.innerHTML='<option value="">Auto</option><option value="piper">🧠 Piper AI (offline, ~60MB)</option>';
   VOICES.forEach(function(v){var o=document.createElement("option");o.value=v.name;o.textContent=v.name.replace(/^Microsoft |^Google /,"")+" ("+v.lang+")";sel.appendChild(o)});
   sel.value=keepv;if(sel.value!==keepv)sel.value="";
 }
@@ -82,21 +82,33 @@ function pick(lg){
   if(lg==="en"){var us=p.filter(function(v){return /^en[-_](us|gb)/i.test(v.lang)});if(us.length)return us[0]}
   return p[0]||null;
 }
+/* Piper: free neural voice that runs in the browser (WASM). Downloads a ~60MB model once, then works offline. */
+var PV={en:"en_US-lessac-medium",vi:"vi_VN-vais1000-medium"},pmod=null,pc={},paudio=new Audio(),pfail=0;
+function pLoad(){return pmod||(pmod=import("https://cdn.jsdelivr.net/npm/@mintplex-labs/piper-tts-web@1.0.4/+esm"))}
+function pSynth(t){var lg=lgOf(t),k=lg+t;if(!pc[k]){var ks=Object.keys(pc);if(ks.length>6)delete pc[ks[0]];pc[k]=pLoad().then(function(m){return m.predict({text:t,voiceId:PV[lg]})})}return pc[k]}
+function speakPiper(){
+  var t=queue[qi++];if(queue[qi])pSynth(queue[qi]).catch(function(){});
+  $("au").textContent="…";
+  pSynth(t).then(function(b){if(!playing)return;$("au").textContent="⏸";var u=URL.createObjectURL(b);paudio.src=u;paudio.playbackRate=+$("sp").value;
+    paudio.onended=function(){URL.revokeObjectURL(u);speak()};paudio.onerror=function(){URL.revokeObjectURL(u);speak()};return paudio.play()})
+  .catch(function(e){if(!playing)return;if(++pfail>=2){ls("rv.voice","");$("vo").value="";alert("Piper voice could not load (network or browser). Using the device voice.");qi=Math.max(0,qi-1);speak()}else{pc={};qi=Math.max(0,qi-1);setTimeout(speak,800)}});
+}
 function speak(){
   if(!playing)return;
   if(qi>=queue.length){if(cur<pages.length-1){show(cur+1);queue=chunks(pages[cur]);qi=0;speak()}else stopA();return}
+  if(ls("rv.voice")==="piper"){speakPiper();return}
   var t=queue[qi++],lg=lgOf(t),v=pick(lg),u=new SpeechSynthesisUtterance(t);
   u.rate=+$("sp").value;u.lang=v?v.lang:(lg==="vi"?"vi-VN":"en-US");if(v)u.voice=v;
   u.onend=function(){setTimeout(speak,/[.!?]$/.test(t)?120:40)};
   u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
 }
-function startA(){if(!window.speechSynthesis||!pages.length){alert("No speech voice available on this device.");return}playing=true;$("au").textContent="⏸";queue=chunks(pages[cur]);qi=0;speechSynthesis.cancel();loadVoices();speak();
+function startA(){pfail=0;if(!window.speechSynthesis||!pages.length){alert("No speech voice available on this device.");return}playing=true;$("au").textContent="⏸";queue=chunks(pages[cur]);qi=0;speechSynthesis.cancel();loadVoices();speak();
   clearInterval(keep);keep=setInterval(function(){if(playing&&speechSynthesis.speaking&&!speechSynthesis.paused){speechSynthesis.pause();speechSynthesis.resume()}},12000)}
-function stopA(){playing=false;clearInterval(keep);$("au").textContent="🔊";speechSynthesis.cancel()}
+function stopA(){playing=false;try{paudio.pause()}catch(e){}clearInterval(keep);$("au").textContent="🔊";speechSynthesis.cancel()}
 if(window.speechSynthesis){loadVoices();speechSynthesis.onvoiceschanged=loadVoices}
-$("vo").onchange=function(){try{localStorage.setItem("rv.voice",$("vo").value)}catch(e){}if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();qi=k;speak()}};
+$("vo").onchange=function(){try{localStorage.setItem("rv.voice",$("vo").value)}catch(e){}if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();try{paudio.pause()}catch(e){}qi=k;speak()}};
 $("au").onclick=function(){playing?stopA():startA()};
-$("sp").onchange=function(){if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();qi=k;speak()}};
+$("sp").onchange=function(){if(ls("rv.voice")==="piper"){paudio.playbackRate=+$("sp").value;return}if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();qi=k;speak()}};
 window.addEventListener("beforeunload",function(){try{speechSynthesis.cancel()}catch(e){}});
 /* PDF: render the whole book into a print-only block and open the print dialog. */
 $("pd").onclick=function(){
