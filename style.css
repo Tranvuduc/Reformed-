@@ -85,7 +85,19 @@ audio{width:100%;margin-top:10px}
 .foot{margin-top:32px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.8rem;max-width:72ch}
 dialog{background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:14px;padding:20px}
 dialog::backdrop{background:rgba(0,0,0,.4)}
-@media(max-width:600px){.brand{font-size:1.1rem}.nav{gap:6px}.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.spine i{font-size:1rem}.bar select{flex:1 1 calc(50% - 8px)}.count{width:100%;margin:0}.body{padding:10px}.acts a.s{display:none}.hero{padding-top:12px}}
-@media(max-width:380px){.grid{grid-template-columns:1fr}}
+@media(max-width:600px){.brand{font-size:1.1rem}.nav{gap:6px}.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.spine i{font-size:1rem}.bar select{flex:1 1 calc(50% - 8px)}.count{width:100%;margin:0}.body{padding:10px}.acts a.s{display:none}.hero{padding-top:12px}.spine{aspect-ratio:3/2;padding:10px 12px}.spine b{font-size:.58rem}.spine i{font-size:.95rem;-webkit-line-clamp:3}.book .src{display:none}.desc{-webkit-line-clamp:3;font-size:.8rem}.foot2 select{display:none}.foot2{justify-content:flex-end;padding-top:6px;margin-top:6px}.chips{flex-wrap:nowrap;overflow-x:auto;width:100%;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chip{white-space:nowrap;flex:none}.bar{padding:8px 0;gap:6px}.bar select{padding:6px 8px;font-size:.82rem}.acts a.p{padding:6px 12px;font-size:.8rem}.by{font-size:.85rem}}
 @media(prefers-reduced-motion:no-preference){.book{transition:transform .15s,box-shadow .15s}.book:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(0,0,0,.12)}}
 .desc{margin:2px 0 0;font-size:.84rem;line-height:1.45;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+
+#view{padding:5px 10px}
+.grid.list{grid-template-columns:1fr!important;gap:8px}
+.grid.list .book{flex-direction:row;align-items:stretch}
+.grid.list .spine{aspect-ratio:auto;width:104px;flex:none;padding:8px 10px}
+.grid.list .spine i{font-size:.8rem;-webkit-line-clamp:5}
+.grid.list .spine b{font-size:.55rem}
+.grid.list .body{padding:8px 10px;gap:2px}
+.grid.list .desc{-webkit-line-clamp:2}
+.grid.list .src,.grid.list .acts a.s,.grid.list .foot2 select{display:none}
+.grid.list .acts{padding-top:4px}
+.grid.list .foot2{border:0;margin:0;padding:0;position:absolute;right:8px;top:6px}
+.grid.list .book{position:relative}

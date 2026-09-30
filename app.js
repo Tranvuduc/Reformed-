@@ -139,9 +139,11 @@ function sorted(list){
   return list.slice().sort(cmp);
 }
 function filtersOn(){return st.au!=="all"||st.ty!=="all"||st.er!=="all"||st.so!=="0"||st.q!==""||st.f!=="all"}
+var VIEW=(function(){try{return localStorage.getItem("rv.view")||"grid"}catch(e){return"grid"}})();
 function render(){
   var all=sorted(BOOKS.filter(passes)),show=all.slice(0,st.limit);
   $("clear").hidden=!filtersOn();
+  $("grid").className="grid"+(VIEW==="list"?" list":"");$("view").textContent=VIEW==="list"?"▦":"☰";
   $("grid").innerHTML=show.length?show.map(card).join(""):'<div class="empty">'+(st.f==="saved"?tx("nosaved"):(st.f==="reading"||st.f==="done")?tx("noreading"):tx("none"))+'</div>';
   $("count").textContent=all.length+" "+tx("of")+" "+BOOKS.length+" "+tx("titles");
   var m=$("more"),left=all.length-show.length;
@@ -171,6 +173,7 @@ $("author").addEventListener("change",function(e){st.au=e.target.value;st.limit=
 $("type").addEventListener("change",function(e){st.ty=e.target.value;st.limit=PAGE;render()});
 $("era").addEventListener("change",function(e){st.er=e.target.value;st.limit=PAGE;render()});
 $("sort").addEventListener("change",function(e){st.so=e.target.value;st.limit=PAGE;render()});
+$("view").addEventListener("click",function(){VIEW=VIEW==="list"?"grid":"list";try{localStorage.setItem("rv.view",VIEW)}catch(e){}render()});
 $("clear").addEventListener("click",function(){
   st.q="";st.au="all";st.ty="all";st.er="all";st.so="0";st.f="all";st.limit=PAGE;
   $("q").value="";[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f==="all")});
