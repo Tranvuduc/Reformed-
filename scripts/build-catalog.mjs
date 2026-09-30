@@ -19,12 +19,12 @@ for (const a of [...new Set(AUTHORS)]) {
   }
   const [sur, rest] = a.split(",").map((x) => x.trim().toLowerCase());
   const given = (rest || "").split(/[ .]+/).filter((w) => w.length > 1)[0] || "";
-  const ok = (d) => [].concat(d.creator || []).some((c) => { const l = String(c).toLowerCase(); return l.includes(sur) && (!given || l.includes(given)); });
+  const ok = (d) => [].concat(d.creator || []).some((c) => { const l = String(c).toLowerCase().trim(); return l.startsWith(sur + ", " + given) || l.startsWith(sur + "," + given); });
   let ai = -1, n = 0;
   for (const d of docs) {
     const title = (Array.isArray(d.title) ? d.title[0] : d.title || "").replace(/\s+/g, " ").trim();
     const k = nk(title);
-    if (!title || title.length < 4 || seen.has(k) || !ok(d)) continue;
+    if (!title || title.length < 4 || seen.has(k) || !ok(d) || /travel|geograph|grammar|arithmetic|railroad|catalog|directory|almanac|genealog|visitation/i.test(title)) continue;
     const f = [].concat(d.format || []).join("|");
     const pdf = /PDF/i.test(f) ? 1 : 0, epub = /EPUB/i.test(f) ? 1 : 0;
     if (!pdf && !epub) continue;
