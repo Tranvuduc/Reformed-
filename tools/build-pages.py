@@ -90,10 +90,10 @@ open("tac-gia.html", "w", encoding="utf-8").write(page("Tác giả Cải Chánh 
     f"<h1>Tác giả Cải Chánh và Thanh giáo</h1><p>Chọn một tác giả để xem sách đọc hoặc tải miễn phí.</p><ul>{lis}</ul>"))
 
 # Vietnamese hub
-vn = "".join(f'<li><a href="{E(r["url"])}" rel="noopener">{E(r["vi"]["t"])}</a> <small>· {E(r["a"])}</small></li>' for r in mg["vn"])
+vn = "".join(f'<li><a href="{E(r["url"])}" rel="noopener">{E(r["vi"]["t"])}</a> <small>· {E(r["a"])}</small></li>' for r in mg["vn"] if not r.get("au"))
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
     "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí từ Mục vụ Tiên Phong, 9Marks và các nguồn khác.", "tieng-viet.html",
-    f"<h1>Sách và bài viết tiếng Việt</h1><p>{len(mg['vn'])} tài liệu thần học Cải Chánh bằng tiếng Việt, dẫn đến nguồn gốc của từng tài liệu. Cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p><ul>{vn}</ul>"))
+    f"<h1>Sách và bài viết tiếng Việt</h1><p>{len([r for r in mg['vn'] if not r.get('au')])} tài liệu thần học Cải Chánh bằng tiếng Việt, dẫn đến nguồn gốc của từng tài liệu. Cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p><ul>{vn}</ul>"))
 
 # sitemap
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)

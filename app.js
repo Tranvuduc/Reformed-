@@ -74,6 +74,7 @@ function expand(d){
     AUTHORS.push({id:"lv",name:"LibriVox · audiobooks"});LV.b.forEach(function(r){var k=nk(r[1]);if(out.some(function(b){return b.lvk===k}))return;var nm=LV.a[r[0]];out.push({id:"lv/"+r[2],ty:typeOf(r[1],"",null),er:eraOf(1800),y:0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"lv",url:"https://librivox.org/"+r[2],lv:"https://librivox.org/"+r[2],lvk:k,en:{t:r[1],n:"Free audiobook"+(r[3]?" ("+r[3]+")":"")+". Source: LibriVox."},vi:{t:r[1],n:"Sách nói miễn phí"+(r[3]?" ("+r[3]+")":"")+". Nguồn: LibriVox."}})})}
   if(IA&&IA.b&&IA.b.length){AUTHORS.push({id:"ia",name:"Internet Archive · scans"});IA.b.forEach(function(r){var k=nk(r[1]).slice(0,45);if(have[nk(r[1])])return;var nm=IA.a[r[0]],id=r[2],f=r[4];out.push({id:"ia/"+id,ty:typeOf(r[1],"",null),er:eraOf(r[3]||1800),y:r[3]||0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"ia",url:"https://archive.org/details/"+id,pdf:(f&1)?"https://archive.org/download/"+id+"/"+id+".pdf":"",epub:(f&2)?"https://archive.org/download/"+id+"/"+id+".epub":"",en:{t:r[1],n:"Public-domain scan. Source: Internet Archive."},vi:{t:r[1],n:"Bản quét thuộc phạm vi công cộng. Nguồn: Internet Archive."}})})}
   (d.extra||[]).forEach(function(b){b.au=b.au||(b.url?"vn":"other");b.er=eraOf(b.y);out.push(b)});
+  [["dg","Desiring God · John Piper"],["lig","Ligonier · R.C. Sproul"]].forEach(function(p){if(out.some(function(b){return b.au===p[0]}))AUTHORS.push({id:p[0],name:p[1]})});
   AUTHORS.push({id:"other",name:null});
   return out;
 }
