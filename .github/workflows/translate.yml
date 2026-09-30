@@ -1,0 +1,23 @@
+name: Translate book
+on:
+  workflow_dispatch:
+    inputs:
+      id: { description: "CCEL id, e.g. bunyan/pilgrim", required: true }
+      chunks: { description: "Max new chunks this run", default: "150" }
+permissions:
+  contents: write
+jobs:
+  tr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node tools/translate.mjs "${{ inputs.id }}" "${{ inputs.chunks }}"
+        env: { ANTHROPIC_API_KEY: "${{ secrets.ANTHROPIC_API_KEY }}" }
+      - run: |
+          git config user.name "translate-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add vi
+          git diff --cached --quiet || (git commit -m "Translate ${{ inputs.id }}" && git pull --rebase && git push)

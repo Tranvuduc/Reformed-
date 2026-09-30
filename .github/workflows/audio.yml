@@ -1,0 +1,22 @@
+name: Build audio catalog
+on:
+  workflow_dispatch:
+  push:
+    paths: ["tools/lv.mjs"]
+  schedule:
+    - cron: "0 3 5 * *"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node tools/lv.mjs
+      - run: |
+          git config user.name "catalog-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add lv.json
+          git diff --cached --quiet || (git commit -m "Update LibriVox audio catalog" && git pull --rebase && git push)
