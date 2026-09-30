@@ -12,16 +12,19 @@ books.authors.forEach((a) => a.books.forEach((b) => seen.add(nk(b[1]))));
 const names = [], rows = [];
 for (const a of [...new Set(AUTHORS)]) {
   const url = "https://archive.org/advancedsearch.php?" + new URLSearchParams({ q: Q(a), rows: "60", output: "json", sort: "downloads desc" }) +
-    ["identifier", "title", "year", "downloads", "format"].map((f) => "&fl[]=" + f).join("");
+    ["identifier", "title", "creator", "year", "downloads", "format"].map((f) => "&fl[]=" + f).join("");
   let docs = [];
   for (let t = 0; t < 3 && !docs.length; t++) {
     try { const r = await fetch(url); if (r.ok) docs = (await r.json()).response.docs; else await sleep(3000); } catch { await sleep(3000); }
   }
+  const [sur, rest] = a.split(",").map((x) => x.trim().toLowerCase());
+  const given = (rest || "").split(/[ .]+/).filter((w) => w.length > 1)[0] || "";
+  const ok = (d) => [].concat(d.creator || []).some((c) => { const l = String(c).toLowerCase(); return l.includes(sur) && (!given || l.includes(given)); });
   let ai = -1, n = 0;
   for (const d of docs) {
     const title = (Array.isArray(d.title) ? d.title[0] : d.title || "").replace(/\s+/g, " ").trim();
     const k = nk(title);
-    if (!title || title.length < 4 || seen.has(k)) continue;
+    if (!title || title.length < 4 || seen.has(k) || !ok(d)) continue;
     const f = [].concat(d.format || []).join("|");
     const pdf = /PDF/i.test(f) ? 1 : 0, epub = /EPUB/i.test(f) ? 1 : 0;
     if (!pdf && !epub) continue;
