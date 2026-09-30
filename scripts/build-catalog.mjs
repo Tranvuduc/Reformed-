@@ -38,5 +38,17 @@ for (const a of [...new Set(AUTHORS)]) {
   console.log(a, n);
   await sleep(800);
 }
+// Verify the guessed download links; keep the item (its archive.org page always works) but drop dead PDF/EPUB flags.
+const head = async (u) => { for (let t = 0; t < 2; t++) { try { const r = await fetch(u, { method: "HEAD", redirect: "follow" }); if (r.status === 404) return false; if (r.ok) return true; } catch {} await sleep(500); } return true; };
+let bad = 0, idx = 0;
+await Promise.all(Array.from({ length: 8 }, async () => {
+  while (idx < rows.length) {
+    const r = rows[idx++]; let f = r[4];
+    if (f & 1 && !(await head(`https://archive.org/download/${r[2]}/${r[2]}.pdf`))) { f &= ~1; bad++; }
+    if (f & 2 && !(await head(`https://archive.org/download/${r[2]}/${r[2]}.epub`))) { f &= ~2; bad++; }
+    r[4] = f;
+  }
+}));
+console.log("dead download links removed:", bad);
 fs.writeFileSync("ia.json", JSON.stringify({ a: names, b: rows }));
 console.log("total", rows.length);
