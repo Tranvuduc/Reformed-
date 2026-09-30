@@ -5,102 +5,38 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Reformed Vietnam · Thư viện</title>
 <meta name="description" content="Thư viện sách và sách nói miễn phí về thần học Cải Chánh. Free Reformed ebooks and audiobooks.">
-<meta property="og:type" content="website"><meta property="og:title" content="Reformed Vietnam · Thư viện sách Cải Chánh miễn phí"><meta property="og:description" content="Hơn 900 sách và tài liệu thần học Cải Chánh: đọc, tải, theo dõi tiến độ. Free Reformed books and creeds, with Vietnamese resources."><meta name="theme-color" content="#0f6b5c">
+<meta property="og:type" content="website"><meta property="og:title" content="Reformed Vietnam · Thư viện sách Cải Chánh miễn phí"><meta property="og:description" content="Hơn 900 sách và tài liệu thần học Cải Chánh: đọc, tải, theo dõi tiến độ. Free Reformed books and creeds, with Vietnamese resources."><meta name="theme-color" content="#9a3412">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<style>
-:root{--bg:#eef1ef;--surface:#fff;--fg:#14231f;--muted:#55675f;--line:#cfd8d4;--accent:#0f6b5c;--accent-fg:#fff;--mark:#e0a526;--track:#dbe3df;
---font-display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;--font-body:"Literata",Georgia,serif;--font-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;color-scheme:light}
-@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e1815;--surface:#15251f;--fg:#e6efeb;--muted:#93a8a0;--line:#27403a;--accent:#4cc4a8;--accent-fg:#06211a;--mark:#f0b83a;--track:#27403a;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#0e1815;--surface:#15251f;--fg:#e6efeb;--muted:#93a8a0;--line:#27403a;--accent:#4cc4a8;--accent-fg:#06211a;--mark:#f0b83a;--track:#27403a;color-scheme:dark}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--font-body);font-size:16px;line-height:1.55;padding-inline:16px;padding-block:0 48px}
-.wrap{max-width:1180px;margin-inline:auto}
-a{color:var(--accent)}
-:focus-visible{outline:3px solid var(--mark);outline-offset:2px}
-header.top{display:flex;flex-wrap:wrap;gap:16px 32px;align-items:end;justify-content:space-between;padding-block:36px 24px;border-bottom:2px solid var(--fg)}
-h1{font-family:var(--font-display);font-weight:700;font-size:clamp(2.4rem,7vw,4.6rem);line-height:.95;letter-spacing:-.03em;margin:0;text-wrap:balance}
-h1 span{color:var(--accent)}
-.lede{max-width:36ch;margin:0;color:var(--muted)}
-button,select,input{font:inherit}
-.btn{font-family:var(--font-display);font-weight:500;font-size:.95rem;border:1.5px solid var(--fg);background:transparent;color:var(--fg);padding:8px 14px;border-radius:6px;cursor:pointer}
-.btn:hover{background:var(--fg);color:var(--bg)}
-.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-fg)}
-.btn.primary:hover{background:var(--accent);color:var(--accent-fg);filter:brightness(1.1)}
-.tools{display:flex;gap:8px;flex-wrap:wrap}
-.bar{position:sticky;top:0;z-index:5;background:var(--bg);display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;padding-block:12px;border-bottom:1px solid var(--line)}
-.bar input[type=search]{flex:1 1 220px;min-width:0;background:var(--surface);color:var(--fg);border:1.5px solid var(--line);border-radius:6px;padding:9px 12px}
-.bar select{flex:1 1 150px;min-width:0;background:var(--surface);color:var(--fg);border:1.5px solid var(--line);border-radius:6px;padding:8px 10px}
-.bar .btn{padding:6px 12px}
-@media(max-width:600px){.bar select{flex:1 1 calc(50% - 8px)}.bar input[type=search]{flex-basis:100%}.tools .btn{padding:6px 10px;font-size:.85rem}}
-.chips{display:flex;gap:6px;flex-wrap:wrap}
-.chip{font-family:var(--font-mono);font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;border:1.5px solid var(--line);background:transparent;color:var(--muted);padding:6px 10px;border-radius:99px;cursor:pointer}
-.chip[aria-pressed=true]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
-.count{font-family:var(--font-mono);font-size:.8rem;color:var(--muted);margin-left:auto}
-main{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,380px);gap:32px;padding-top:24px;align-items:start}
-@media(max-width:900px){main{grid-template-columns:minmax(0,1fr)}}
-.cont{margin-bottom:24px}
-.cont h2{font-family:var(--font-display);font-size:1.15rem;margin:0 0 10px}
-.controw{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
-.ci{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:6px;padding:10px 12px;min-width:0}
-.ci b{display:block;font-family:var(--font-display);font-size:.98rem;line-height:1.2;margin-bottom:6px}
-.ci a{font-family:var(--font-mono);font-size:.78rem;font-weight:500}
-.meter{height:6px;background:var(--track);border-radius:99px;overflow:hidden;margin:6px 0}
-.meter i{display:block;height:100%;background:var(--accent)}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:16px}
-.book{background:var(--surface);border:1px solid var(--line);border-radius:8px;display:flex;flex-direction:column;min-width:0}
-.spine{height:96px;padding:12px 14px;border-radius:8px 8px 0 0;display:flex;flex-direction:column;justify-content:space-between;color:#fff}
-.spine b{font-family:var(--font-mono);font-weight:500;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;opacity:.9}
-.spine i{font-family:var(--font-display);font-style:normal;font-size:1.05rem;line-height:1.15;font-weight:700;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
-.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
-.book h3{font-family:var(--font-display);font-size:1.1rem;line-height:1.2;margin:0;overflow-wrap:anywhere}
-.by{color:var(--muted);font-size:.9rem;margin:0}
-.note{font-size:.88rem;margin:0;color:var(--muted)}
-.links{display:flex;flex-wrap:wrap;gap:6px 12px;margin-top:auto;padding-top:8px;font-family:var(--font-mono);font-size:.78rem}
-.links a{font-weight:500}
-.prog{display:flex;flex-direction:column;gap:4px;padding-top:6px;border-top:1px dashed var(--line);margin-top:6px}
-.prog select{background:var(--bg);color:var(--fg);border:1.5px solid var(--line);border-radius:6px;padding:5px 8px;font-size:.85rem;width:100%}
-.prog .pr{display:flex;align-items:center;gap:8px}
-.prog input[type=range]{flex:1;min-width:0;accent-color:var(--accent)}
-.prog output{font-family:var(--font-mono);font-size:.78rem;min-width:3.2em;text-align:right}
-.fav{align-self:flex-end;background:none;border:none;color:var(--muted);cursor:pointer;font-family:var(--font-mono);font-size:.75rem;padding:0}
-.fav[aria-pressed=true]{color:var(--mark)}
-.empty{grid-column:1/-1;padding:32px;border:1.5px dashed var(--line);border-radius:8px;color:var(--muted)}
-.more{display:flex;justify-content:center;margin-top:20px}
-.desk{position:sticky;top:72px;display:flex;flex-direction:column;gap:20px;min-width:0}
-@media(max-width:900px){.desk{position:static}}
-.panel{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px;min-width:0}
-.panel h2{font-family:var(--font-display);font-size:1.25rem;margin:0 0 4px}
-.hint{margin:0 0 12px;color:var(--muted);font-size:.88rem}
-label{display:block;font-family:var(--font-mono);font-size:.74rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-top:10px}
-.panel select,textarea{width:100%;background:var(--bg);color:var(--fg);border:1.5px solid var(--line);border-radius:6px;padding:8px 10px}
-textarea{font-size:.95rem;min-height:170px;resize:vertical}
-.panel input[type=range]{width:100%;accent-color:var(--accent)}
-.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
-.status{font-family:var(--font-mono);font-size:.78rem;color:var(--muted);margin-top:8px;min-height:1.2em;overflow-wrap:anywhere}
-audio{width:100%;margin-top:10px}
-.foot{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;max-width:70ch}
-@media(prefers-reduced-motion:no-preference){.book{transition:transform .15s}.book:hover{transform:translateY(-2px)}}
-</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <dialog id="sdlg"><form method="dialog" style="display:grid;gap:10px;min-width:min(340px,80vw)"><b id="s-h"></b><p id="s-p" style="margin:0;font-size:14px"></p>
-<input id="s-code" autocomplete="off" spellcheck="false" style="padding:8px;font:16px monospace"><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn" id="s-new" type="button"></button><button class="btn" id="s-use" type="button"></button><button class="btn" id="s-off" type="button"></button><button class="btn" id="s-x" value="x"></button></div><p id="s-st" style="margin:0;font-size:13px"></p></form></dialog>
+<input id="s-code" autocomplete="off" spellcheck="false" style="padding:8px;font:16px monospace;background:var(--bg);border:1px solid var(--line);border-radius:8px"><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn" id="s-new" type="button"></button><button class="btn primary" id="s-use" type="button"></button><button class="btn" id="s-off" type="button"></button><button class="btn" id="s-x" value="x"></button></div><p id="s-st" style="margin:0;font-size:13px"></p></form></dialog>
 <div class="wrap">
-<header class="top">
-  <h1>Reformed<br><span>Vietnam</span></h1>
+<nav class="nav">
+  <span class="brand"><i></i>Reformed <b>Vietnam</b></span>
+  <button class="btn" id="lang" type="button"></button>
+  <button class="btn" id="theme" type="button"></button>
+  <details class="menu"><summary class="btn" id="menu">⋯</summary><div class="pop">
+    <button class="btn" id="sync" type="button"></button><button class="btn" id="exp" type="button"></button><button class="btn" id="imp" type="button"></button><a class="btn" id="about" href="about.html"></a>
+  </div></details>
+  <input type="file" id="impf" accept="application/json" hidden>
+</nav>
+<header class="hero">
+  <h1 id="h1"></h1>
   <p class="lede" id="lede"></p>
-  <div class="tools"><button class="btn" id="lang" type="button"></button><button class="btn" id="theme" type="button"></button><button class="btn" id="exp" type="button"></button><button class="btn" id="imp" type="button"></button><button class="btn" id="sync" type="button"></button><a class="btn" id="about" href="about.html"></a><input type="file" id="impf" accept="application/json" hidden></div>
+  <div class="search"><input type="search" id="q" aria-label="Search"></div>
 </header>
 <div class="bar">
-  <input type="search" id="q" aria-label="Search">
   <select id="author" aria-label="Author"></select>
   <select id="type" aria-label="Type"></select>
   <select id="era" aria-label="Era"></select>
   <select id="sort" aria-label="Sort"></select>
   <button class="btn" id="clear" type="button" hidden></button>
   <div class="chips" id="fmt" role="group">
+    <button class="chip" type="button" data-f="start" aria-pressed="false"></button>
     <button class="chip" type="button" data-f="all" aria-pressed="true"></button>
     <button class="chip" type="button" data-f="reading" aria-pressed="false"></button>
     <button class="chip" type="button" data-f="done" aria-pressed="false"></button>
@@ -109,14 +45,13 @@ audio{width:100%;margin-top:10px}
   <span class="count" id="count"></span>
 </div>
 <main>
-  <section>
-    <div class="cont" id="cont" hidden></div>
-    <div class="grid" id="grid" aria-live="polite"></div>
-    <div class="more"><button class="btn" id="more" type="button" hidden></button></div>
-  </section>
-  <aside class="desk">
+  <div class="cont" id="cont" hidden></div>
+  <div class="grid" id="grid" aria-live="polite"></div>
+  <div class="more"><button class="btn" id="more" type="button" hidden></button></div>
+  <details class="tts"><summary id="h-tts"></summary>
+  <div class="desk">
     <div class="panel">
-      <h2 id="h-tts"></h2><p class="hint" id="p-tts"></p>
+      <p class="hint" id="p-tts"></p>
       <label for="sample" id="l-sample"></label><select id="sample"></select>
       <label for="txt" id="l-txt"></label><textarea id="txt"></textarea>
       <label for="voice" id="l-voice"></label><select id="voice"></select>
@@ -131,278 +66,10 @@ audio{width:100%;margin-top:10px}
       <audio id="player" controls hidden></audio>
       <div class="status" id="fileStatus"></div>
     </div>
-  </aside>
+  </div></details>
 </main>
 <p class="foot" id="foot"></p>
 </div>
-<script>
-var T={
- vi:{allTypes:"Mọi thể loại",allEras:"Mọi thời kỳ",clear:"Xóa bộ lọc",sort0:"Thứ tự mặc định",sort1:"Tên A–Z",sort2:"Tác giả A–Z",sort3:"Cũ nhất trước",sort4:"Mới nhất trước",
-  ty_systematic:"Thần học hệ thống",ty_commentary:"Bình giải",ty_sermons:"Bài giảng",ty_devotional:"Suy niệm và cầu nguyện",ty_doctrine:"Giáo lý và luận thuyết",ty_catechism:"Tín điều và giáo lý vấn đáp",ty_history:"Lịch sử và tiểu sử",ty_collected:"Toàn tập",ty_bible:"Kinh Thánh",ty_classic:"Văn học kinh điển",
-  er_anc:"Trước năm 1500",er_ref:"Cải Chánh (thế kỷ 16)",er_pur:"Thời Thanh giáo (thế kỷ 17)",er_aw:"Thời Phục hưng (thế kỷ 18)",er_mod:"Thế kỷ 19",er_c20:"Từ năm 1900",
-  sync:"Đồng bộ",about:"Giới thiệu",sh:"Đồng bộ giữa các thiết bị",sp:"Mã đồng bộ là bí mật của bạn: ai có mã đều đọc/ghi được tiến độ. Nhập cùng mã trên thiết bị khác.",snew:"Tạo mã mới",suse:"Dùng mã này",soff:"Tắt đồng bộ",sclose:"Đóng",sok:"Đã đồng bộ.",serr:"Lỗi đồng bộ, thử lại sau.",sbad:"Mã không hợp lệ (20–40 chữ/số).",rhere:"Đọc tại đây",lede:"Sách và sách nói miễn phí. Phần lớn là tác phẩm thuộc phạm vi công cộng; mỗi thẻ ghi rõ nguồn. Không cần tài khoản.",lang:"English",theme:"Sáng / Tối",exp:"Xuất tiến độ",imp:"Nhập tiến độ",impok:"Đã nhập tiến độ.",imperr:"Tệp không hợp lệ.",search:"Tìm theo tên hoặc tác giả",all:"Tất cả",reading:"Đang đọc",done:"Đã đọc xong",saved:"Đã lưu",todo:"Chưa đọc",allAuthors:"Tất cả tác giả",other:"Văn học và khác",titles:"tác phẩm",of:"trong",read:"Đọc",listen:"Nghe",archive:"Kho lưu trữ",save:"☆ Lưu",saved2:"★ Đã lưu",more:"Xem thêm",cont:"Tiếp tục đọc",cont2:"Đọc tiếp",theology:"Thần học",classic:"Văn học",ccelnote:"Phạm vi công cộng. Nguồn: CCEL.",mgnote:"Ebook miễn phí (tiếng Anh) trên Monergism: EPUB, PDF, Kindle.",none:"Không có tác phẩm nào khớp.",nosaved:"Bạn chưa lưu sách nào. Nhấn Lưu trên một cuốn sách để xem lại ở đây.",noreading:"Chưa có sách nào ở mục này. Chọn trạng thái trên một cuốn sách để theo dõi tiến độ.",htts:"Nghe bất kỳ văn bản nào",ptts:"Dán một chương hoặc chọn mẫu. Thiết bị của bạn sẽ đọc to.",lsample:"Mẫu",ltxt:"Văn bản",lvoice:"Giọng đọc",lrate:"Tốc độ",bplay:"Phát",bpause:"Tạm dừng",bstop:"Dừng",addtext:"Hãy nhập văn bản trước.",playing:"Đang phát",paused:"Đã tạm dừng",stopped:"Đã dừng",fin:"Đã đọc xong",nosyn:"Trình duyệt này không đọc to được. Hãy thử Chrome, Edge hoặc Safari.",hfile:"Phát tệp âm thanh của bạn",pfile:"Mở tệp MP3 hoặc M4A trên thiết bị. Tệp không rời khỏi thiết bị của bạn.",lfile:"Tệp âm thanh",own:"Văn bản của bạn",foot:"Sách điện tử và bản nghe liên kết đến Christian Classics Ethereal Library (CCEL), Project Gutenberg, LibriVox và Internet Archive. Tiến độ đọc và sách đã lưu chỉ nằm trên thiết bị của bạn. Bản dịch và ấn bản hiện đại có thể còn bản quyền."},
- en:{allTypes:"All types",allEras:"All eras",clear:"Clear filters",sort0:"Default order",sort1:"Title A–Z",sort2:"Author A–Z",sort3:"Oldest first",sort4:"Newest first",
-  ty_systematic:"Systematic theology",ty_commentary:"Commentary",ty_sermons:"Sermons",ty_devotional:"Devotional and prayer",ty_doctrine:"Doctrine and treatises",ty_catechism:"Creeds and catechisms",ty_history:"History and biography",ty_collected:"Collected works",ty_bible:"Bible",ty_classic:"Classics and literature",
-  er_anc:"Before 1500",er_ref:"Reformation (1500s)",er_pur:"Puritan age (1600s)",er_aw:"Awakening era (1700s)",er_mod:"1800s",er_c20:"1900 and later",
-  sync:"Sync",about:"About",sh:"Sync across devices",sp:"The sync code is your secret: anyone with it can read and write your progress. Enter the same code on another device.",snew:"Create new code",suse:"Use this code",soff:"Turn off sync",sclose:"Close",sok:"Synced.",serr:"Sync failed, try again later.",sbad:"Invalid code (20–40 letters/digits).",rhere:"Read here",lede:"Free books to read and hear. Most titles are in the public domain, and every card names its source. No accounts, no fees.",lang:"Tiếng Việt",theme:"Light / Dark",exp:"Export progress",imp:"Import progress",impok:"Progress imported.",imperr:"Invalid file.",search:"Search title or author",all:"All",reading:"Reading",done:"Finished",saved:"Saved",todo:"Not started",allAuthors:"All authors",other:"Classics and other",titles:"titles",of:"of",read:"Read",listen:"Listen",archive:"Archive",save:"☆ Save",saved2:"★ Saved",more:"Show more",cont:"Continue reading",cont2:"Continue",theology:"Theology",classic:"Classics",ccelnote:"Public domain. Source: CCEL.",mgnote:"Free ebook (English) at Monergism: EPUB, PDF, Kindle.",none:"No titles match that search.",nosaved:"Nothing saved yet. Tap Save on a book and it will appear here.",noreading:"Nothing here yet. Set a status on a book to track your progress.",htts:"Listen to any text",ptts:"Paste a chapter or pick a sample. Your device reads it aloud.",lsample:"Sample",ltxt:"Text",lvoice:"Voice",lrate:"Speed",bplay:"Play",bpause:"Pause",bstop:"Stop",addtext:"Add some text first.",playing:"Playing",paused:"Paused",stopped:"Stopped",fin:"Finished",nosyn:"This browser cannot read text aloud. Try Chrome, Edge or Safari.",hfile:"Play your own audio",pfile:"Open an MP3 or M4A from your device. It stays on your device.",lfile:"Audio file",own:"Your own text",foot:"Ebooks and audio link to the Christian Classics Ethereal Library (CCEL), Project Gutenberg, LibriVox and Internet Archive. Reading progress and saved books stay on your device. Translations and modern editions may still be under copyright."}
-};
-var SAMPLES=[
-{n:"Psalm 23 (KJV)",t:"The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."},
-{n:"John 1:1-5 (KJV)",t:"In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not."},
-{n:"Genesis 1:1-5 (KJV)",t:"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."},
-{n:"",t:""}
-];
-var $=function(i){return document.getElementById(i)};
-var PAGE=48;
-var BOOKS=[],AUTHORS=[],st={f:"all",q:"",au:"all",ty:"all",er:"all",so:"0",limit:PAGE,saved:[],prog:{},lang:"vi"};
-var TYPES=["systematic","commentary","sermons","devotional","doctrine","catechism","history","collected","bible","classic"];
-var ERAS=["anc","ref","pur","aw","mod","c20"];
-var ERAMID={anc:1000,ref:1550,pur:1650,aw:1750,mod:1850,c20:1950};
-try{
-  st.saved=JSON.parse(localStorage.getItem("rv.saved")||"[]");
-  st.prog=JSON.parse(localStorage.getItem("rv.prog")||"{}");
-  var l=localStorage.getItem("rv.lang");
-  if(l)st.lang=l;else if(navigator.language&&navigator.language.indexOf("vi")!==0)st.lang="en";
-}catch(e){}
-function saveLS(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
-function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
-function tx(k){return T[st.lang][k]}
-function G(q){return"https://www.gutenberg.org/ebooks/search/?query="+encodeURIComponent(q)}
-function L(q){return"https://librivox.org/search?primary_key=0&search_category=title&search_page=1&search_form=get_results&q="+encodeURIComponent(q)}
-function A(q){return"https://archive.org/search?query="+encodeURIComponent(q)+"&and[]=mediatype%3A%22texts%22"}
-function hue(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))%360;return h}
-function spurgeonYear(n){return n===8||n===9?1863:1854+n}
-function typeOf(title,key,over){
-  if(over&&over[key])return over[key];
-  var t=title.toLowerCase();
-  if(/catechism|confession of faith|creeds/.test(t))return"catechism";
-  if(/commentar|exposition|expository|harmony of|annotations|treasury of david/.test(t))return"commentary";
-  if(/sermon/.test(t))return"sermons";
-  if(/systematic theology|institutes|institutio|dogmatic|body of divinity|body of practical divinity|doctrinal divinity|summary of christian doctrine|reformed doctrine of predestination/.test(t))return"systematic";
-  if(/^works of|practical works|miscellaneous/.test(t))return"collected";
-  if(/history|martyrs|life of|christian church|philosophy of revelation|person of christ/.test(t))return"history";
-  if(/morning and evening|checkbook|daily readings|everlasting rest|prayer|meditation|letters|contentment|holiness|crook|cordial|lovely|armour|saint indeed/.test(t))return"devotional";
-  return"doctrine";
-}
-function eraOf(y){return y<1500?"anc":y<1600?"ref":y<1700?"pur":y<1800?"aw":y<1900?"mod":"c20"}
-
-/* Expand the compact catalog into full book records. */
-function expand(d){
-  var out=[],vi=d.vi||{};
-  d.authors.forEach(function(au){
-    var col="hsl("+hue(au.id)+",42%,30%)";
-    AUTHORS.push({id:au.id,name:au.name});
-    var add=function(slug,title,year){
-      var key=au.id+"/"+slug,i=au.id.charAt(0),base="https://ccel.org/ccel/"+au.id+"/"+slug+"/"+slug;
-      out.push({id:key,c:"theology",ty:typeOf(title,key,d.types),er:au.era||"mod",y:year||0,col:col,a:au.name,au:au.id,
-        en:{t:title,n:T.en.ccelnote},vi:{t:vi[key]||title,n:T.vi.ccelnote},
-        read:base,listen:base+"/mp3",
-        dl:{PDF:"https://ccel.org/ccel/"+i+"/"+au.id+"/"+slug+"/cache/"+slug+".pdf",
-            EPUB:"https://ccel.org/ccel/"+i+"/"+au.id+"/"+slug+"/cache/"+slug+".epub",
-            TXT:"https://ccel.org/ccel/"+i+"/"+au.id+"/"+slug+"/cache/"+slug+".txt"}});
-    };
-    au.books.forEach(function(b){add(b[0],b[1],b[2])});
-    if(au.seq){for(var n=au.seq.from;n<=au.seq.to;n++){
-      var nn=(n<10?"0":"")+n;
-      add(au.seq.slug+nn,au.seq.title+" "+nn+": "+spurgeonYear(n),spurgeonYear(n));
-    }}
-  });
-  AUTHORS.push({id:"vn",name:"Tiếng Việt · Vietnamese"});
-  AUTHORS.push({id:"mg",name:"Monergism · free ebooks"});
-  var nk=function(t){return t.toLowerCase().replace(/[^a-z0-9]/g,"")},have={};
-  out.forEach(function(b){have[nk(b.en.t)]=1});
-  if(d.mg)d.mg.b.forEach(function(r){if(have[nk(r[1])])return;var au=d.mg.a[r[0]];out.push({id:"mg/"+r[2],ty:typeOf(r[1],"",null),er:au[1],y:0,col:"hsl("+hue(au[0])+",42%,30%)",a:au[0],au:"mg",mg:1,url:"https://www.monergism.com/"+r[2],en:{t:r[1],n:T.en.mgnote},vi:{t:r[1],n:T.vi.mgnote}})});
-  (d.extra||[]).forEach(function(b){b.au=b.url?"vn":"other";b.er=eraOf(b.y);out.push(b)});
-  AUTHORS.push({id:"other",name:null});
-  return out;
-}
-
-function prog(id){return st.prog[id]||{s:"todo",p:0}}
-function passes(b){
-  var p=prog(b.id),q=st.q.toLowerCase();
-  if(st.f==="saved"&&st.saved.indexOf(b.id)<0)return false;
-  if(st.f==="reading"&&p.s!=="reading")return false;
-  if(st.f==="done"&&p.s!=="done")return false;
-  if(st.au!=="all"&&b.au!==st.au)return false;
-  if(st.ty!=="all"&&b.ty!==st.ty)return false;
-  if(st.er!=="all"&&b.er!==st.er)return false;
-  if(q){
-    var hay=[b.a,b.en.t,b.en.n,b.vi&&b.vi.t,b.vi&&b.vi.n].join(" ").toLowerCase();
-    if(hay.indexOf(q)<0)return false;
-  }
-  return true;
-}
-function card(b){
-  var lg=st.lang,d=b[lg]||b.en,o=b[lg==="vi"?"en":"vi"]||{};
-  var s=st.saved.indexOf(b.id)>=0,p=prog(b.id),links;
-  if(b.url){
-    links='<a href="'+b.url+'" target="_blank" rel="noopener">'+tx("read")+(b.mg?' · Monergism':' (VN)')+'</a>'+(b.pdf?'<a href="'+b.pdf+'" target="_blank" rel="noopener">PDF</a>':"");
-  }else if(b.read){
-    links='<a href="reader.html?id='+encodeURIComponent(b.id)+'">'+tx("rhere")+'</a><a href="'+b.read+'" target="_blank" rel="noopener">CCEL</a>';
-    for(var f in b.dl)links+='<a href="'+b.dl[f]+'" target="_blank" rel="noopener">'+f+'</a>';
-  }else{
-    var ks=b.q||b.en.t;
-    links='<a href="'+G(ks)+'" target="_blank" rel="noopener">'+tx("read")+'</a><a href="'+L(b.en.t)+'" target="_blank" rel="noopener">'+tx("listen")+'</a><a href="'+A(ks)+'" target="_blank" rel="noopener">'+tx("archive")+'</a>';
-  }
-  var y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
-  var alt=(lg==="vi"&&o.t&&o.t!==d.t)?" · "+esc(o.t):"";
-  var sel='<select data-pid="'+esc(b.id)+'" aria-label="'+tx("reading")+'">'+["todo","reading","done"].map(function(v){return'<option value="'+v+'"'+(p.s===v?" selected":"")+'>'+tx(v)+'</option>'}).join("")+'</select>';
-  var rng=p.s==="reading"?'<div class="pr"><input type="range" min="0" max="100" step="5" value="'+p.p+'" data-rid="'+esc(b.id)+'" aria-label="%"><output>'+p.p+'%</output></div>':"";
-  return'<article class="book"><div class="spine" style="background:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><h3>'+esc(d.t)+'</h3><p class="by">'+esc(b.a)+alt+'</p><p class="note">'+esc(d.n)+'</p><div class="links">'+links+'</div><div class="prog">'+sel+rng+'</div><button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div></article>';
-}
-function renderCont(){
-  var r=BOOKS.filter(function(b){return prog(b.id).s==="reading"}).sort(function(a,b){return(prog(b.id).t||0)-(prog(a.id).t||0)}).slice(0,4);
-  var el=$("cont");
-  if(!r.length){el.hidden=true;return}
-  el.hidden=false;
-  el.innerHTML='<h2>'+tx("cont")+'</h2><div class="controw">'+r.map(function(b){
-    var d=b[st.lang]||b.en,p=prog(b.id),href=b.read?"reader.html?id="+encodeURIComponent(b.id):(b.url||G(b.q||b.en.t));
-    return'<div class="ci"><b>'+esc(d.t)+'</b><div class="meter"><i style="width:'+p.p+'%"></i></div><a href="'+href+'">'+tx("cont2")+' · '+p.p+'%</a></div>';
-  }).join("")+'</div>';
-}
-function yr(b){return b.y||ERAMID[b.er]}
-function sorted(list){
-  var s=st.so,lg=st.lang;
-  if(s==="0")return list;
-  var n=function(b){return(b[lg]||b.en).t.toLowerCase()};
-  var cmp={"1":function(a,b){return n(a)<n(b)?-1:n(a)>n(b)?1:0},
-           "2":function(a,b){return a.a<b.a?-1:a.a>b.a?1:(n(a)<n(b)?-1:1)},
-           "3":function(a,b){return yr(a)-yr(b)},
-           "4":function(a,b){return yr(b)-yr(a)}}[s];
-  return list.slice().sort(cmp);
-}
-function filtersOn(){return st.au!=="all"||st.ty!=="all"||st.er!=="all"||st.so!=="0"||st.q!==""||st.f!=="all"}
-function render(){
-  var all=sorted(BOOKS.filter(passes)),show=all.slice(0,st.limit);
-  $("clear").hidden=!filtersOn();
-  $("grid").innerHTML=show.length?show.map(card).join(""):'<div class="empty">'+(st.f==="saved"?tx("nosaved"):(st.f==="reading"||st.f==="done")?tx("noreading"):tx("none"))+'</div>';
-  $("count").textContent=all.length+" "+tx("of")+" "+BOOKS.length+" "+tx("titles");
-  var m=$("more"),left=all.length-show.length;
-  m.hidden=left<=0;m.textContent=tx("more")+" ("+left+")";
-  renderCont();
-}
-function buildAuthors(){
-  var cnt={};BOOKS.forEach(function(b){cnt[b.au]=(cnt[b.au]||0)+1});
-  var opts=function(id,first,items,cur){var sel=$(id);sel.innerHTML='<option value="all">'+first+'</option>'+items.map(function(i){return'<option value="'+i[0]+'">'+esc(i[1])+'</option>'}).join("");sel.value=cur};
-  opts("author",tx("allAuthors"),AUTHORS.map(function(a){return[a.id,(a.name||tx("other"))+(cnt[a.id]?" ("+cnt[a.id]+")":"")]}),st.au);
-  opts("type",tx("allTypes"),TYPES.map(function(t){return[t,tx("ty_"+t)]}),st.ty);
-  opts("era",tx("allEras"),ERAS.map(function(e){return[e,tx("er_"+e)]}),st.er);
-  var so=$("sort"),cur=st.so;so.innerHTML=["0","1","2","3","4"].map(function(k){return'<option value="'+k+'">'+tx("sort"+k)+'</option>'}).join("");so.value=cur;
-  $("clear").textContent=tx("clear");
-}
-function labels(){
-  document.documentElement.lang=st.lang;
-  var m={lede:"lede",lang:"lang",theme:"theme",exp:"exp",imp:"imp",sync:"sync",about:"about","s-h":"sh","s-p":"sp","s-new":"snew","s-use":"suse","s-off":"soff","s-x":"sclose","h-tts":"htts","p-tts":"ptts","l-sample":"lsample","l-txt":"ltxt","l-voice":"lvoice","l-rate":"lrate",play:"bplay",pause:"bpause",stop:"bstop","h-file":"hfile","p-file":"pfile","l-file":"lfile",foot:"foot"};
-  for(var k in m)$(k).textContent=tx(m[k]);
-  $("q").placeholder=tx("search");
-  var c=$("fmt").children;for(var i=0;i<c.length;i++)c[i].textContent=tx(c[i].dataset.f);
-  $("sample").options[3].textContent=tx("own");
-  buildAuthors();loadVoices();
-}
-$("q").addEventListener("input",function(e){st.q=e.target.value;st.limit=PAGE;render()});
-$("author").addEventListener("change",function(e){st.au=e.target.value;st.limit=PAGE;render()});
-$("type").addEventListener("change",function(e){st.ty=e.target.value;st.limit=PAGE;render()});
-$("era").addEventListener("change",function(e){st.er=e.target.value;st.limit=PAGE;render()});
-$("sort").addEventListener("change",function(e){st.so=e.target.value;st.limit=PAGE;render()});
-$("clear").addEventListener("click",function(){
-  st.q="";st.au="all";st.ty="all";st.er="all";st.so="0";st.f="all";st.limit=PAGE;
-  $("q").value="";[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f==="all")});
-  buildAuthors();render();
-});
-$("more").addEventListener("click",function(){st.limit+=PAGE;render()});
-$("fmt").addEventListener("click",function(e){var b=e.target.closest(".chip");if(!b)return;st.f=b.dataset.f;st.limit=PAGE;[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c===b)});render()});
-$("grid").addEventListener("click",function(e){
-  var f=e.target.closest(".fav");if(!f)return;
-  var k=st.saved.indexOf(f.dataset.id);if(k<0)st.saved.push(f.dataset.id);else st.saved.splice(k,1);
-  saveLS("rv.saved",st.saved);render();
-});
-$("grid").addEventListener("change",function(e){
-  var s=e.target.closest("select[data-pid]");if(!s)return;
-  var id=s.dataset.pid,v=s.value,cur=prog(id);
-  st.prog[id]={s:v,p:v==="done"?100:v==="todo"?0:(cur.p||0),t:Date.now()};
-  if(v==="todo")delete st.prog[id];
-  saveLS("rv.prog",st.prog);render();
-});
-$("grid").addEventListener("input",function(e){
-  var r=e.target.closest("input[data-rid]");if(!r)return;
-  var id=r.dataset.rid,p=+r.value;
-  st.prog[id]={s:p>=100?"done":"reading",p:p,t:Date.now()};
-  r.nextElementSibling.textContent=p+"%";
-  saveLS("rv.prog",st.prog);renderCont();
-});
-$("grid").addEventListener("change",function(e){
-  var r=e.target.closest("input[data-rid]");if(r)render();
-});
-$("lang").addEventListener("click",function(){st.lang=st.lang==="vi"?"en":"vi";try{localStorage.setItem("rv.lang",st.lang)}catch(e){}labels();render()});
-$("theme").addEventListener("click",function(){var r=document.documentElement,d=r.getAttribute("data-theme")==="dark"||(!r.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches);r.setAttribute("data-theme",d?"light":"dark")});
-
-$("exp").addEventListener("click",function(){
-  var blob=new Blob([JSON.stringify({v:1,saved:st.saved,prog:st.prog})],{type:"application/json"}),a=document.createElement("a");
-  a.href=URL.createObjectURL(blob);a.download="reformed-vietnam-progress.json";document.body.appendChild(a);a.click();a.remove();
-});
-$("imp").addEventListener("click",function(){$("impf").click()});
-$("impf").addEventListener("change",function(){
-  var f=this.files[0];if(!f)return;var r=new FileReader();
-  r.onload=function(){try{
-    var d=JSON.parse(r.result);if(!d||typeof d.prog!=="object"||!Array.isArray(d.saved))throw 0;
-    st.prog=d.prog;st.saved=d.saved;saveLS("rv.prog",st.prog);saveLS("rv.saved",st.saved);render();alert(tx("impok"));
-  }catch(e){alert(tx("imperr"))}};r.readAsText(f);this.value="";
-});
-
-
-/* sync */
-(function(){
-var API="api/sync",K="rv.sync",st2=$("s-st"),busy=0,timer;
-function code(){try{return localStorage.getItem(K)||""}catch(e){return""}}
-function merge(r){
-  var ch=0;(r.saved||[]).forEach(function(id){if(st.saved.indexOf(id)<0){st.saved.push(id);ch=1}});
-  var rp=r.prog||{};for(var id in rp){var l=st.prog[id];if(!l||(rp[id].t||0)>(l.t||0)){st.prog[id]=rp[id];ch=1}}
-  if(ch){saveLS("rv.saved",st.saved);saveLS("rv.prog",st.prog);render();renderCont()}
-}
-function pull(c){return fetch(API+"?c="+c).then(function(r){if(!r.ok)throw 0;return r.json()}).then(merge)}
-function push(c){return fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({c:c,saved:st.saved,prog:st.prog})}).then(function(r){if(!r.ok)throw 0})}
-function run(){var c=code();if(!c||busy)return Promise.resolve();busy=1;
-  return pull(c).then(function(){return push(c)}).then(function(){st2.textContent=tx("sok")}).catch(function(){st2.textContent=tx("serr")}).then(function(){busy=0})}
-function later(){clearTimeout(timer);timer=setTimeout(run,4000)}
-var _s=window.saveLS;window.saveLS=function(k,v){_s(k,v);if(code()&&(k==="rv.prog"||k==="rv.saved"))later()};
-function ui(){var c=code();$("s-code").value=c;$("s-off").hidden=!c;$("s-code").placeholder="xxxxxxxxxxxxxxxxxxxx"}
-$("sync").addEventListener("click",function(){ui();st2.textContent="";$("sdlg").showModal()});
-$("s-new").addEventListener("click",function(){
-  var a=new Uint8Array(24);crypto.getRandomValues(a);var c="";for(var i=0;i<a.length;i++)c+="abcdefghjkmnpqrstuvwxyz23456789"[a[i]%31];
-  $("s-code").value=c});
-$("s-use").addEventListener("click",function(){
-  var c=$("s-code").value.trim().toLowerCase();if(!/^[a-z0-9]{20,40}$/.test(c)){st2.textContent=tx("sbad");return}
-  try{localStorage.setItem(K,c)}catch(e){}$("s-off").hidden=false;run()});
-$("s-off").addEventListener("click",function(){try{localStorage.removeItem(K)}catch(e){}$("s-code").value="";$("s-off").hidden=true;st2.textContent=""});
-if(code())run();
-})();
-
-/* text to speech */
-var syn=window.speechSynthesis,voices=[];
-SAMPLES.forEach(function(s,i){var o=document.createElement("option");o.value=i;o.textContent=s.n;$("sample").appendChild(o)});
-$("txt").value=SAMPLES[0].t;
-$("sample").addEventListener("change",function(){$("txt").value=SAMPLES[+this.value].t;$("txt").focus()});
-function loadVoices(){
-  if(!syn){$("tts").textContent=tx("nosyn");return}
-  voices=syn.getVoices().filter(function(v){return/^(en|vi)/i.test(v.lang)});
-  $("voice").innerHTML=voices.map(function(v,i){return'<option value="'+i+'">'+esc(v.name)+' ('+v.lang+')</option>'}).join("")||"<option>Default</option>";
-}
-if(syn)syn.onvoiceschanged=loadVoices;
-$("rate").addEventListener("input",function(){$("rateVal").textContent=(+this.value).toFixed(1)+"x"});
-$("play").addEventListener("click",function(){
-  if(!syn)return;var t=$("txt").value.trim();if(!t){$("tts").textContent=tx("addtext");return}
-  if(syn.paused&&syn.speaking){syn.resume();$("tts").textContent=tx("playing");return}
-  syn.cancel();var u=new SpeechSynthesisUtterance(t);u.rate=+$("rate").value;
-  var v=voices[+$("voice").value];if(v){u.voice=v;u.lang=v.lang}
-  u.onend=function(){$("tts").textContent=tx("fin")};u.onerror=function(){$("tts").textContent=tx("stopped")};
-  syn.speak(u);$("tts").textContent=tx("playing");
-});
-$("pause").addEventListener("click",function(){if(syn&&syn.speaking){syn.pause();$("tts").textContent=tx("paused")}});
-$("stop").addEventListener("click",function(){if(syn){syn.cancel();$("tts").textContent=tx("stopped")}});
-$("file").addEventListener("change",function(){var f=this.files[0];if(!f)return;var p=$("player");p.src=URL.createObjectURL(f);p.hidden=false;$("fileStatus").textContent=f.name+" ("+(f.size/1048576).toFixed(1)+" MB)"});
-
-labels();
-Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
-</script>
+<script src="app.js"></script>
 </body>
 </html>
