@@ -1,5 +1,5 @@
-// Builds lv.json: LibriVox audiobooks (Internet Archive collection "librivoxaudio") by authors in ia.json.
-// Needs network (archive.org). Run by .github/workflows/audio.yml.
+// Builds lv.json: LibriVox public-domain audiobooks by authors in ia.json.
+// Needs network (librivox.org). Run by .github/workflows/audio.yml.
 import fs from "node:fs";
 const ia = JSON.parse(fs.readFileSync("ia.json", "utf8"));
 const extra = ["John Bunyan","Charles Spurgeon","C. H. Spurgeon","John Calvin","Martin Luther","Jonathan Edwards","J. C. Ryle","Richard Baxter","John Newton","Andrew Murray","Thomas a Kempis","Augustine","Horatius Bonar","Isaac Watts","Matthew Henry","Brother Lawrence","John Wesley","George Whitefield","Charles Finney","D. L. Moody","Robert Murray McCheyne","Thomas Watson","John Owen","William Carey"];
@@ -11,27 +11,24 @@ for (const name of names) {
   const parts = norm(name).split(" ");
   const sur = parts[parts.length - 1], first = parts[0];
   if (!sur || sur.length < 3) continue;
-  let docs = [];
-  for (let t = 0; t < 3 && !docs.length; t++) {
+  let books = [];
+  for (let t = 0; t < 3 && !books.length; t++) {
     try {
-      const url = "https://archive.org/advancedsearch.php?" + new URLSearchParams({ q: `collection:librivoxaudio AND creator:(${sur})`, rows: "100", output: "json" }) + ["identifier", "title", "creator", "runtime", "language"].map((f) => "&fl[]=" + f).join("");
-      const r = await fetch(url, { headers: { "User-Agent": "reformed-vietnam-catalog" }, signal: AbortSignal.timeout(25000) });
-      if (r.ok) { docs = (await r.json()).response.docs || []; break; }
+      const r = await fetch(`https://librivox.org/api/feed/audiobooks/?author=%5E${encodeURIComponent(sur)}&format=json&extended=0&limit=100`, { headers: { "User-Agent": "reformed-vietnam-catalog" }, signal: AbortSignal.timeout(20000) });
+      if (r.ok) { const j = await r.json(); books = j.books || []; break; }
+      if (r.status === 404) break;
     } catch {}
     await sleep(3000);
   }
   let ai = -1, n = 0;
-  for (const d of docs) {
-    const lang = [].concat(d.language || []).join(" ");
-    if (lang && !/eng/i.test(lang)) continue;
-    const au = [].concat(d.creator || []).map(norm);
-    if (!au.some((x) => x.split(" ").includes(sur) && (x.split(" ").includes(first) || first.length === 1 && x.split(" ").some((w) => w[0] === first)))) continue;
-    const title = String([].concat(d.title || [d.identifier])[0]).replace(/\s+/g, " ").trim();
-    const link = "details/" + d.identifier;
-    if (seen.has(d.identifier)) continue;
-    seen.add(d.identifier);
+  for (const b of books) {
+    if (!/english/i.test(b.language || "English")) continue;
+    const au = (b.authors || []).map((a) => norm(a.first_name + " " + a.last_name));
+    if (!au.some((x) => x.endsWith(" " + sur) && (x.startsWith(first) || first.length === 1 && x[0] === first))) continue;
+    if (!b.url_librivox || seen.has(b.url_librivox)) continue;
+    seen.add(b.url_librivox);
     if (ai < 0) { ai = an.length; an.push(name); }
-    out.push([ai, title.slice(0, 140), link, [].concat(d.runtime || "")[0] || ""]);
+    out.push([ai, String(b.title).replace(/\s+/g, " ").trim().slice(0, 140), b.url_librivox.replace(/^https?:\/\/librivox\.org\//, ""), b.totaltime || ""]);
     n++;
   }
   console.log(name, n);

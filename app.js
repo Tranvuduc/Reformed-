@@ -51,6 +51,7 @@ function eraOf(y){return y<1500?"anc":y<1600?"ref":y<1700?"pur":y<1800?"aw":y<19
 
 /* Expand the compact catalog into full book records. */
 var IA=null,LV=null,DGJ=null;
+function lvu(p){return(p.indexOf("details/")===0?"https://archive.org/":"https://librivox.org/")+p}
 function expand(d){
   var out=[],vi=d.vi||{};
   d.authors.forEach(function(au){
@@ -76,8 +77,8 @@ function expand(d){
   var nk=function(t){return t.toLowerCase().replace(/[^a-z0-9]/g,"")},have={};
   out.forEach(function(b){have[nk(b.en.t)]=1});
   if(d.mg)d.mg.b.forEach(function(r){if(have[nk(r[1])])return;var au=d.mg.a[r[0]];out.push({id:"mg/"+r[2],ty:typeOf(r[1],"",null),er:au[1],y:0,col:"hsl("+hue(au[0])+",42%,30%)",a:au[0],au:"mg",mg:1,url:"https://www.monergism.com/"+r[2],en:{t:r[1],n:T.en.mgnote},vi:{t:r[1],n:T.vi.mgnote}})});
-  if(LV&&LV.b&&LV.b.length){var nk2=function(t){return t.toLowerCase().replace(/^(the|a|an)\s+/,"").replace(/[^a-z0-9]/g,"")};var lvm={};LV.b.forEach(function(r){lvm[nk2(r[1])]=r[2]});out.forEach(function(b){var k=nk2(b.en.t),u=lvm[k];if(u){b.lv="https://archive.org/"+u;b.lvk=k}});
-    AUTHORS.push({id:"lv",name:"LibriVox · audiobooks"});LV.b.forEach(function(r){var k=nk2(r[1]);if(out.some(function(b){return b.lvk===k}))return;var nm=LV.a[r[0]];out.push({id:"lv/"+r[2],ty:typeOf(r[1],"",null),er:eraOf(1800),y:0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"lv",url:"https://archive.org/"+r[2],lv:"https://archive.org/"+r[2],lvk:k,en:{t:r[1],n:"Free audiobook"+(r[3]?" ("+r[3]+")":"")+". Source: LibriVox."},vi:{t:r[1],n:"Sách nói miễn phí"+(r[3]?" ("+r[3]+")":"")+". Nguồn: LibriVox."}})})}
+  if(LV&&LV.b&&LV.b.length){var nk2=function(t){return t.toLowerCase().replace(/^(the|a|an)\s+/,"").replace(/[^a-z0-9]/g,"")};var lvm={};LV.b.forEach(function(r){lvm[nk2(r[1])]=r[2]});out.forEach(function(b){var k=nk2(b.en.t),u=lvm[k];if(u){b.lv=lvu(u);b.lvk=k}});
+    AUTHORS.push({id:"lv",name:"LibriVox · audiobooks"});LV.b.forEach(function(r){var k=nk2(r[1]);if(out.some(function(b){return b.lvk===k}))return;var nm=LV.a[r[0]];out.push({id:"lv/"+r[2],ty:typeOf(r[1],"",null),er:eraOf(1800),y:0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"lv",url:lvu(r[2]),lv:lvu(r[2]),lvk:k,en:{t:r[1],n:"Free audiobook"+(r[3]?" ("+r[3]+")":"")+". Source: LibriVox."},vi:{t:r[1],n:"Sách nói miễn phí"+(r[3]?" ("+r[3]+")":"")+". Nguồn: LibriVox."}})})}
   if(IA&&IA.b&&IA.b.length){AUTHORS.push({id:"ia",name:"Internet Archive · scans"});IA.b.forEach(function(r){var k=nk(r[1]).slice(0,45);if(have[nk(r[1])])return;var nm=IA.a[r[0]],id=r[2],f=r[4];out.push({id:"ia/"+id,ty:typeOf(r[1],"",null),er:eraOf(r[3]||1800),y:r[3]||0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"ia",url:"https://archive.org/details/"+id,pdf:(f&1)?"https://archive.org/download/"+id+"/"+id+".pdf":"",epub:(f&2)?"https://archive.org/download/"+id+"/"+id+".epub":"",en:{t:r[1],n:"Public-domain scan. Source: Internet Archive."},vi:{t:r[1],n:"Bản quét thuộc phạm vi công cộng. Nguồn: Internet Archive."}})})}
   (d.extra||[]).forEach(function(b){b.au=b.au||(b.url?"vn":"other");b.er=eraOf(b.y);out.push(b)});
   if(DGJ&&DGJ.b){var dgk={};out.forEach(function(b){if(b.au==="dg")dgk[nk(b.en.t)]=1});
