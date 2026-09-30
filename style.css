@@ -110,3 +110,7 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
 .srow .book{flex:0 0 172px;scroll-snap-align:start}
 #allh{margin-top:26px}
 @media(max-width:600px){.srow .book{flex-basis:150px}.srow{gap:10px}}
+
+[hidden]{display:none!important}
+#ftog{display:none}
+@media(max-width:600px){#ftog{display:inline-block}.bar:not(.open) select,.bar:not(.open) #clear{display:none}}
