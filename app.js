@@ -148,8 +148,46 @@ function render(){
   $("count").textContent=all.length+" "+tx("of")+" "+BOOKS.length+" "+tx("titles");
   var m=$("more"),left=all.length-show.length;
   m.hidden=left<=0;m.textContent=tx("more")+" ("+left+")";
-  renderCont();
+  renderCont();renderShelves();
 }
+
+/* Home shelves: curated rows shown above the full list when no filter is active. */
+var SHELVES=[
+ {k:"start",f:"start",t:["★ Bắt đầu từ đây","★ Start here"],p:function(b){return START.indexOf(b.id)>=0},o:function(a,b){return START.indexOf(a.id)-START.indexOf(b.id)}},
+ {k:"vn",au:"vn",t:["Tiếng Việt","Vietnamese readings"],p:function(b){return b.au==="vn"}},
+ {k:"ref",er:"ref",t:["Các nhà Cải Chánh","The Reformers"],p:function(b){return b.er==="ref"&&!b.mg&&b.au!=="ia"}},
+ {k:"pur",er:"pur",t:["Thanh giáo","The Puritans"],p:function(b){return b.er==="pur"&&DESC[b.id]}},
+ {k:"dev",ty:"devotional",t:["Suy niệm và cầu nguyện","Devotional and prayer"],p:function(b){return b.ty==="devotional"&&DESC[b.id]}},
+ {k:"sys",ty:"systematic",t:["Thần học hệ thống","Systematic theology"],p:function(b){return b.ty==="systematic"&&b.au!=="ia"}},
+ {k:"his",ty:"history",t:["Lịch sử và tiểu sử","History and biography"],p:function(b){return b.ty==="history"&&(DESC[b.id]||b.au==="vn")}}
+];
+function renderShelves(){
+  var el=$("shelves"),on=st.f==="all"&&!st.q&&st.au==="all"&&st.ty==="all"&&st.er==="all"&&st.so==="0";
+  $("allh").hidden=!on;$("allh").textContent=st.lang==="vi"?"Tất cả sách":"All titles";
+  if(!on){el.innerHTML="";return}
+  var i=st.lang==="vi"?0:1;
+  el.innerHTML=SHELVES.map(function(s){
+    var l=BOOKS.filter(s.p);if(s.o)l.sort(s.o);else l.sort(function(a,b){return(DESC[b.id]?1:0)-(DESC[a.id]?1:0)});
+    l=l.slice(0,12);if(l.length<3)return"";
+    return'<section class="shelf"><div class="shelfh"><h2>'+s.t[i]+'</h2><button type="button" data-sh="'+s.k+'">'+(i?"See all":"Xem tất cả")+' →</button></div><div class="srow">'+l.map(card).join("")+'</div></section>';
+  }).join("");
+}
+$("shelves").addEventListener("click",function(e){
+  var f=e.target.closest(".fav");
+  if(f){var k=st.saved.indexOf(f.dataset.id);if(k<0)st.saved.push(f.dataset.id);else st.saved.splice(k,1);saveLS("rv.saved",st.saved);render();return}
+  var b=e.target.closest("button[data-sh]");if(!b)return;
+  var s=SHELVES.filter(function(x){return x.k===b.dataset.sh})[0];
+  st.f=s.f||"all";st.au=s.au||"all";st.ty=s.ty||"all";st.er=s.er||"all";st.limit=PAGE;
+  [].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f===st.f)});
+  buildAuthors();render();window.scrollTo(0,0);
+});
+$("shelves").addEventListener("change",function(e){
+  var s=e.target.closest("select[data-pid]");if(!s)return;
+  var id=s.dataset.pid,v=s.value,cur=prog(id);
+  st.prog[id]={s:v,p:v==="done"?100:v==="todo"?0:(cur.p||0),t:Date.now()};
+  if(v==="todo")delete st.prog[id];
+  saveLS("rv.prog",st.prog);render();
+});
 function buildAuthors(){
   var cnt={};BOOKS.forEach(function(b){cnt[b.au]=(cnt[b.au]||0)+1});
   var opts=function(id,first,items,cur){var sel=$(id);sel.innerHTML='<option value="all">'+first+'</option>'+items.map(function(i){return'<option value="'+i[0]+'">'+esc(i[1])+'</option>'}).join("");sel.value=cur};
@@ -272,4 +310,4 @@ $("stop").addEventListener("click",function(){if(syn){syn.cancel();$("tts").text
 $("file").addEventListener("change",function(){var f=this.files[0];if(!f)return;var p=$("player");p.src=URL.createObjectURL(f);p.hidden=false;$("fileStatus").textContent=f.name+" ("+(f.size/1048576).toFixed(1)+" MB)"});
 
 labels();
-Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(!localStorage.getItem("rv.prog")&&!localStorage.getItem("rv.saved")&&START.length&&!location.search){st.f="start";[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f===st.f)})}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
+Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
