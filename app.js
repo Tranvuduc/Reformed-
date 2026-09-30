@@ -50,6 +50,7 @@ function typeOf(title,key,over){
 function eraOf(y){return y<1500?"anc":y<1600?"ref":y<1700?"pur":y<1800?"aw":y<1900?"mod":"c20"}
 
 /* Expand the compact catalog into full book records. */
+var IA=null;
 function expand(d){
   var out=[],vi=d.vi||{};
   d.authors.forEach(function(au){
@@ -75,7 +76,8 @@ function expand(d){
   var nk=function(t){return t.toLowerCase().replace(/[^a-z0-9]/g,"")},have={};
   out.forEach(function(b){have[nk(b.en.t)]=1});
   if(d.mg)d.mg.b.forEach(function(r){if(have[nk(r[1])])return;var au=d.mg.a[r[0]];out.push({id:"mg/"+r[2],ty:typeOf(r[1],"",null),er:au[1],y:0,col:"hsl("+hue(au[0])+",42%,30%)",a:au[0],au:"mg",mg:1,url:"https://www.monergism.com/"+r[2],en:{t:r[1],n:T.en.mgnote},vi:{t:r[1],n:T.vi.mgnote}})});
-  (d.extra||[]).forEach(function(b){b.au=b.url?"vn":"other";b.er=eraOf(b.y);out.push(b)});
+  if(IA&&IA.b&&IA.b.length){AUTHORS.push({id:"ia",name:"Internet Archive · scans"});IA.b.forEach(function(r){var k=nk(r[1]).slice(0,45);if(have[nk(r[1])])return;var nm=IA.a[r[0]],id=r[2],f=r[4];out.push({id:"ia/"+id,ty:typeOf(r[1],"",null),er:eraOf(r[3]||1800),y:r[3]||0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"ia",url:"https://archive.org/details/"+id,pdf:(f&1)?"https://archive.org/download/"+id+"/"+id+".pdf":"",epub:(f&2)?"https://archive.org/download/"+id+"/"+id+".epub":"",en:{t:r[1],n:"Public-domain scan. Source: Internet Archive."},vi:{t:r[1],n:"Bản quét thuộc phạm vi công cộng. Nguồn: Internet Archive."}})})}
+  (d.extra||[]).forEach(function(b){b.au=b.au||(b.url?"vn":"other");b.er=eraOf(b.y);out.push(b)});
   AUTHORS.push({id:"other",name:null});
   return out;
 }
@@ -100,7 +102,7 @@ function card(b){
   var lg=st.lang,d=b[lg]||b.en,o=b[lg==="vi"?"en":"vi"]||{};
   var s=st.saved.indexOf(b.id)>=0,p=prog(b.id),acts;
   if(b.url){
-    acts='<a class="p" href="'+b.url+'" target="_blank" rel="noopener">'+tx("read")+'</a>'+(b.pdf?'<a class="s" href="'+b.pdf+'" target="_blank" rel="noopener">PDF</a>':"");
+    acts='<a class="p" href="'+b.url+'" target="_blank" rel="noopener">'+tx("read")+'</a>'+(b.pdf?'<a class="s" href="'+b.pdf+'" target="_blank" rel="noopener">PDF</a>':"")+(b.epub?'<a class="s" href="'+b.epub+'" target="_blank" rel="noopener">EPUB</a>':"");
   }else if(b.read){
     acts='<a class="p" href="reader.html?id='+encodeURIComponent(b.id)+'">'+tx("rhere")+'</a>';
     for(var f in b.dl)acts+='<a class="s" href="'+b.dl[f]+'" target="_blank" rel="noopener">'+f+'</a>';
@@ -267,4 +269,4 @@ $("stop").addEventListener("click",function(){if(syn){syn.cancel();$("tts").text
 $("file").addEventListener("change",function(){var f=this.files[0];if(!f)return;var p=$("player");p.src=URL.createObjectURL(f);p.hidden=false;$("fileStatus").textContent=f.name+" ("+(f.size/1048576).toFixed(1)+" MB)"});
 
 labels();
-Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(!localStorage.getItem("rv.prog")&&!localStorage.getItem("rv.saved")&&START.length&&!location.search){st.f="start";[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f===st.f)})}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
+Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(!localStorage.getItem("rv.prog")&&!localStorage.getItem("rv.saved")&&START.length&&!location.search){st.f="start";[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f===st.f)})}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});

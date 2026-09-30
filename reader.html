@@ -12,12 +12,13 @@ main{max-width:42rem;margin:0 auto;padding:24px 16px 80px;font-size:var(--fs,19p
 main p{margin:0 0 1em;white-space:pre-wrap;overflow-wrap:anywhere}main h2{font-size:1.3em;margin:1.6em 0 .6em;color:var(--ac)}
 nav.pg{display:flex;justify-content:space-between;align-items:center;margin-top:24px;font:14px system-ui,sans-serif;color:var(--mut)}
 nav.pg button{font:inherit;padding:8px 16px;border:1px solid var(--ln);border-radius:6px;background:none;color:var(--fg);cursor:pointer}
-nav.pg button:disabled{opacity:.4}#msg{font:15px system-ui,sans-serif;color:var(--mut);padding:40px 0}
+nav.pg button:disabled{opacity:.4}#all{display:none}@media print{header,#bar,nav.pg,#msg,#txt{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}#msg{font:15px system-ui,sans-serif;color:var(--mut);padding:40px 0}
 </style></head><body>
 <header><a href="./" id="back">← Library</a><b id="ttl" style="font:600 14px system-ui"></b><span class="sp"></span>
+<button id="au" aria-label="Listen" title="Listen">🔊</button><select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select><button id="ep" title="Download EPUB">EPUB</button><button id="pd" title="Save as PDF">PDF</button>
 <button id="fm" aria-label="Smaller">A−</button><button id="fp" aria-label="Larger">A+</button><button id="th">◐</button></header>
 <div id="bar"><i></i></div>
-<main><div id="msg">Loading…</div><div id="txt"></div>
+<main><div id="msg">Loading…</div><div id="txt"></div><div id="all"></div>
 <nav class="pg" id="nav" hidden><button id="pv">←</button><span id="pn"></span><button id="nx">→</button></nav></main>
 <script>
 (function(){
@@ -59,6 +60,46 @@ function save(pct){
 }
 $("pv").onclick=function(){show(cur-1)};$("nx").onclick=function(){show(cur+1)};
 document.addEventListener("keydown",function(e){if(e.key==="ArrowRight")show(cur+1);if(e.key==="ArrowLeft")show(cur-1)});
+
+/* Audio: read the current page aloud with the device voice, then move on. */
+var playing=false,queue=[],qi=0;
+function chunks(t){var out=[];t.replace(/\s+/g," ").split(/(?<=[.!?;:])\s+/).forEach(function(x){while(x.length>220){var k=x.lastIndexOf(" ",220);if(k<80)k=220;out.push(x.slice(0,k));x=x.slice(k)}if(x.trim())out.push(x)});return out}
+function speak(){
+  if(!playing)return;
+  if(qi>=queue.length){if(cur<pages.length-1){show(cur+1);queue=chunks(pages[cur]);qi=0;speak()}else stopA();return}
+  var u=new SpeechSynthesisUtterance(queue[qi++]);u.rate=+$("sp").value;u.lang="en-US";
+  u.onend=speak;u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
+}
+function startA(){if(!window.speechSynthesis||!pages.length){alert("No speech voice available on this device.");return}playing=true;$("au").textContent="⏸";queue=chunks(pages[cur]);qi=0;speechSynthesis.cancel();speak()}
+function stopA(){playing=false;$("au").textContent="🔊";speechSynthesis.cancel()}
+$("au").onclick=function(){playing?stopA():startA()};
+$("sp").onchange=function(){if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();qi=k;speak()}};
+window.addEventListener("beforeunload",function(){try{speechSynthesis.cancel()}catch(e){}});
+/* PDF: render the whole book into a print-only block and open the print dialog. */
+$("pd").onclick=function(){
+  if(!pages.length)return;var b=$("all");
+  b.innerHTML="<h1>"+esc(name)+"</h1>"+pages.map(function(pg){return pg.split(/\n\n/).map(function(x){x=x.trim();return x?"<p>"+esc(x)+"</p>":""}).join("")}).join("");
+  window.print();
+};
+/* EPUB: build a valid EPUB 3 in the browser from the loaded text. */
+function loadZip(){return new Promise(function(ok,no){if(window.JSZip)return ok();var s=document.createElement("script");s.src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js";s.onload=ok;s.onerror=no;document.head.appendChild(s)})}
+$("ep").onclick=function(){
+  if(!pages.length)return;var btn=$("ep");btn.textContent="…";
+  loadZip().then(function(){
+    var z=new JSZip(),G=12,chs=[];
+    for(var i=0;i<pages.length;i+=G)chs.push(pages.slice(i,i+G).join("\n\n"));
+    var x=function(t){return '<?xml version="1.0" encoding="utf-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head><title>'+esc(name)+'</title></head><body>'+t+'</body></html>'};
+    z.file("mimetype","application/epub+zip",{compression:"STORE"});
+    z.file("META-INF/container.xml",'<?xml version="1.0"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>');
+    var man="",spine="",toc="";
+    chs.forEach(function(c,n){var f="c"+n+".xhtml";
+      z.file("OEBPS/"+f,x("<h2>Part "+(n+1)+"</h2>"+c.split(/\n\n/).map(function(p){p=p.trim();return p?"<p>"+esc(p)+"</p>":""}).join("")));
+      man+='<item id="c'+n+'" href="'+f+'" media-type="application/xhtml+xml"/>';spine+='<itemref idref="c'+n+'"/>';toc+='<li><a href="'+f+'">Part '+(n+1)+"</a></li>"});
+    z.file("OEBPS/nav.xhtml",x('<nav epub:type="toc"><h1>Contents</h1><ol>'+toc+"</ol></nav>"));
+    z.file("OEBPS/content.opf",'<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="u"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="u">rv-'+esc(id)+'</dc:identifier><dc:title>'+esc(name)+'</dc:title><dc:language>en</dc:language><meta property="dcterms:modified">'+new Date().toISOString().slice(0,19)+'Z</meta></metadata><manifest><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>'+man+'</manifest><spine>'+spine+'</spine></package>');
+    return z.generateAsync({type:"blob",mimeType:"application/epub+zip"});
+  }).then(function(bl){var a=document.createElement("a");a.href=URL.createObjectURL(bl);a.download=name+".epub";document.body.appendChild(a);a.click();a.remove();btn.textContent="EPUB"}).catch(function(){btn.textContent="EPUB";alert("Could not build the EPUB.")});
+};
 if(!/^[a-z0-9_-]+\/[a-z0-9_.-]+$/i.test(id)){fail();return}
 fetch("api/text?id="+encodeURIComponent(id)).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){
   if(t.length<500)throw 0;pages=split(t);$("msg").remove();$("nav").hidden=false;
