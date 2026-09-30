@@ -13,3 +13,5 @@ Static site "Reformed Vietnam" (free Reformed ebook library), live at https://re
 - api/text.js proxies CCEL plain text (`ccel.org/ccel/{letter}/{author}/{slug}/cache/{slug}.txt`); api/sync.js syncs by secret code via private Vercel Blob.
 Open items: contact email, more books, real audio, licensing check, type-label fixes.
 Deploy: connect this repo in Vercel (Settings -> Git) so each push deploys.
+
+_Auto-deploy test: 2026-09-30_
