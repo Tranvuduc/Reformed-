@@ -211,6 +211,7 @@ function labels(){
   $("sample").options[3].textContent=tx("own");
   buildAuthors();loadVoices();
 }
+try{var _q=new URLSearchParams(location.search).get("q");if(_q){st.q=_q;$("q").value=_q}}catch(e){}
 $("q").addEventListener("input",function(e){st.q=e.target.value;st.limit=PAGE;render()});
 $("author").addEventListener("change",function(e){st.au=e.target.value;st.limit=PAGE;render()});
 $("type").addEventListener("change",function(e){st.ty=e.target.value;st.limit=PAGE;render()});
