@@ -14,7 +14,7 @@ for (const name of names) {
   let books = [];
   for (let t = 0; t < 3 && !books.length; t++) {
     try {
-      const r = await fetch(`https://librivox.org/api/feed/audiobooks/?author=%5E${encodeURIComponent(sur)}&format=json&extended=0&limit=100`, { headers: { "User-Agent": "reformed-vietnam-catalog" } });
+      const r = await fetch(`https://librivox.org/api/feed/audiobooks/?author=%5E${encodeURIComponent(sur)}&format=json&extended=0&limit=100`, { headers: { "User-Agent": "reformed-vietnam-catalog" }, signal: AbortSignal.timeout(20000) });
       if (r.ok) { const j = await r.json(); books = j.books || []; break; }
       if (r.status === 404) break;
     } catch {}
