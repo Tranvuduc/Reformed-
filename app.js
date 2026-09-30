@@ -44,7 +44,7 @@ function typeOf(title,key,over){
 function eraOf(y){return y<1500?"anc":y<1600?"ref":y<1700?"pur":y<1800?"aw":y<1900?"mod":"c20"}
 
 /* Expand the compact catalog into full book records. */
-var IA=null,LV=null;
+var IA=null,LV=null,DGJ=null;
 function expand(d){
   var out=[],vi=d.vi||{};
   d.authors.forEach(function(au){
@@ -70,11 +70,14 @@ function expand(d){
   var nk=function(t){return t.toLowerCase().replace(/[^a-z0-9]/g,"")},have={};
   out.forEach(function(b){have[nk(b.en.t)]=1});
   if(d.mg)d.mg.b.forEach(function(r){if(have[nk(r[1])])return;var au=d.mg.a[r[0]];out.push({id:"mg/"+r[2],ty:typeOf(r[1],"",null),er:au[1],y:0,col:"hsl("+hue(au[0])+",42%,30%)",a:au[0],au:"mg",mg:1,url:"https://www.monergism.com/"+r[2],en:{t:r[1],n:T.en.mgnote},vi:{t:r[1],n:T.vi.mgnote}})});
-  if(LV&&LV.b&&LV.b.length){var nk=function(t){return t.toLowerCase().replace(/^(the|a|an)\s+/,"").replace(/[^a-z0-9]/g,"")};var lvm={};LV.b.forEach(function(r){lvm[nk(r[1])]=r[2]});out.forEach(function(b){var k=nk(b.en.t),u=lvm[k];if(u){b.lv="https://librivox.org/"+u;b.lvk=k}});
-    AUTHORS.push({id:"lv",name:"LibriVox · audiobooks"});LV.b.forEach(function(r){var k=nk(r[1]);if(out.some(function(b){return b.lvk===k}))return;var nm=LV.a[r[0]];out.push({id:"lv/"+r[2],ty:typeOf(r[1],"",null),er:eraOf(1800),y:0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"lv",url:"https://librivox.org/"+r[2],lv:"https://librivox.org/"+r[2],lvk:k,en:{t:r[1],n:"Free audiobook"+(r[3]?" ("+r[3]+")":"")+". Source: LibriVox."},vi:{t:r[1],n:"Sách nói miễn phí"+(r[3]?" ("+r[3]+")":"")+". Nguồn: LibriVox."}})})}
+  if(LV&&LV.b&&LV.b.length){var nk2=function(t){return t.toLowerCase().replace(/^(the|a|an)\s+/,"").replace(/[^a-z0-9]/g,"")};var lvm={};LV.b.forEach(function(r){lvm[nk2(r[1])]=r[2]});out.forEach(function(b){var k=nk2(b.en.t),u=lvm[k];if(u){b.lv="https://librivox.org/"+u;b.lvk=k}});
+    AUTHORS.push({id:"lv",name:"LibriVox · audiobooks"});LV.b.forEach(function(r){var k=nk2(r[1]);if(out.some(function(b){return b.lvk===k}))return;var nm=LV.a[r[0]];out.push({id:"lv/"+r[2],ty:typeOf(r[1],"",null),er:eraOf(1800),y:0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"lv",url:"https://librivox.org/"+r[2],lv:"https://librivox.org/"+r[2],lvk:k,en:{t:r[1],n:"Free audiobook"+(r[3]?" ("+r[3]+")":"")+". Source: LibriVox."},vi:{t:r[1],n:"Sách nói miễn phí"+(r[3]?" ("+r[3]+")":"")+". Nguồn: LibriVox."}})})}
   if(IA&&IA.b&&IA.b.length){AUTHORS.push({id:"ia",name:"Internet Archive · scans"});IA.b.forEach(function(r){var k=nk(r[1]).slice(0,45);if(have[nk(r[1])])return;var nm=IA.a[r[0]],id=r[2],f=r[4];out.push({id:"ia/"+id,ty:typeOf(r[1],"",null),er:eraOf(r[3]||1800),y:r[3]||0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"ia",url:"https://archive.org/details/"+id,pdf:(f&1)?"https://archive.org/download/"+id+"/"+id+".pdf":"",epub:(f&2)?"https://archive.org/download/"+id+"/"+id+".epub":"",en:{t:r[1],n:"Public-domain scan. Source: Internet Archive."},vi:{t:r[1],n:"Bản quét thuộc phạm vi công cộng. Nguồn: Internet Archive."}})})}
   (d.extra||[]).forEach(function(b){b.au=b.au||(b.url?"vn":"other");b.er=eraOf(b.y);out.push(b)});
-  [["dg","Desiring God · John Piper"],["lig","Ligonier · R.C. Sproul"]].forEach(function(p){if(out.some(function(b){return b.au===p[0]}))AUTHORS.push({id:p[0],name:p[1]})});
+  if(DGJ&&DGJ.b){var dgk={};out.forEach(function(b){if(b.au==="dg")dgk[nk(b.en.t)]=1});
+    DGJ.b.forEach(function(r){var k=nk(r[1]);if(dgk[k]||out.some(function(b){return b.id==="dg-"+r[2]}))return;dgk[k]=1;var u="https://www.desiringgod.org/books/"+r[2],nm=DGJ.a[r[0]];
+      out.push({id:"dg-"+r[2],ty:typeOf(r[1],"",null),er:"c20",y:2005,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"dg",url:u,pdf:(r[3]&1)?u+".pdf":"",epub:(r[3]&2)?u+".epub":"",en:{t:r[1],n:"Free ebook from Desiring God."},vi:{t:r[1],n:"Sách điện tử miễn phí (tiếng Anh) từ Desiring God."}})})}
+  [["dg","Desiring God · free books"],["lig","Ligonier · R.C. Sproul"]].forEach(function(p){if(out.some(function(b){return b.au===p[0]}))AUTHORS.push({id:p[0],name:p[1]})});
   AUTHORS.push({id:"other",name:null});
   return out;
 }
@@ -278,4 +281,4 @@ if(code())run();
 })();
 
 labels();
-Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("lv.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];LV=x[5];if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
+Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("lv.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("dg.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];LV=x[5];DGJ=x[6];if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
