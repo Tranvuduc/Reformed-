@@ -7,6 +7,7 @@
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:Georgia,"Times New Roman",serif}
 header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--ln);padding:8px 16px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;z-index:2;font:14px system-ui,sans-serif}
 header a,header button,header select{color:var(--fg);background:none;border:1px solid var(--ln);border-radius:6px;padding:5px 10px;font:inherit;text-decoration:none;cursor:pointer}
+header #vo{max-width:120px;text-overflow:ellipsis}
 header .sp{flex:1}#bar{height:3px;background:var(--ln)}#bar i{display:block;height:100%;background:var(--ac);width:0}
 main{max-width:42rem;margin:0 auto;padding:24px 16px 80px;font-size:var(--fs,19px);line-height:1.7}
 main p{margin:0 0 1em;white-space:pre-wrap;overflow-wrap:anywhere}main h2{font-size:1.3em;margin:1.6em 0 .6em;color:var(--ac)}
@@ -15,7 +16,7 @@ nav.pg button{font:inherit;padding:8px 16px;border:1px solid var(--ln);border-ra
 nav.pg button:disabled{opacity:.4}#all{display:none}@media print{header,#bar,nav.pg,#msg,#txt{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}#msg{font:15px system-ui,sans-serif;color:var(--mut);padding:40px 0}
 </style></head><body>
 <header><a href="./" id="back">← Library</a><b id="ttl" style="font:600 14px system-ui"></b><span class="sp"></span>
-<button id="au" aria-label="Listen" title="Listen">🔊</button><select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select><button id="ep" title="Download EPUB">EPUB</button><button id="pd" title="Save as PDF">PDF</button>
+<button id="au" aria-label="Listen" title="Listen">🔊</button><select id="vo" aria-label="Voice" title="Voice"><option value="">Auto</option></select><select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select><button id="ep" title="Download EPUB">EPUB</button><button id="pd" title="Save as PDF">PDF</button>
 <button id="fm" aria-label="Smaller">A−</button><button id="fp" aria-label="Larger">A+</button><button id="th">◐</button></header>
 <div id="bar"><i></i></div>
 <main><div id="msg">Loading…</div><div id="txt"></div><div id="all"></div>
@@ -62,16 +63,38 @@ $("pv").onclick=function(){show(cur-1)};$("nx").onclick=function(){show(cur+1)};
 document.addEventListener("keydown",function(e){if(e.key==="ArrowRight")show(cur+1);if(e.key==="ArrowLeft")show(cur-1)});
 
 /* Audio: read the current page aloud with the device voice, then move on. */
-var playing=false,queue=[],qi=0;
+var playing=false,queue=[],qi=0,VOICES=[],keep=null;
 function chunks(t){var out=[];t.replace(/\s+/g," ").split(/(?<=[.!?;:])\s+/).forEach(function(x){while(x.length>220){var k=x.lastIndexOf(" ",220);if(k<80)k=220;out.push(x.slice(0,k));x=x.slice(k)}if(x.trim())out.push(x)});return out}
+var VI=/[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+function lgOf(t){return VI.test(t)?"vi":"en"}
+/* Rank voices: neural/online/natural first, then Google, then local. */
+function score(v){var n=v.name,s=0;if(/natural|neural/i.test(n))s+=50;if(/online/i.test(n))s+=30;if(/google/i.test(n))s+=20;if(/siri|premium|enhanced/i.test(n))s+=25;if(/compact|espeak/i.test(n))s-=20;if(!v.localService)s+=5;return s}
+function loadVoices(){
+  var all=speechSynthesis.getVoices();if(!all.length)return;
+  VOICES=all.filter(function(v){return /^(en|vi)/i.test(v.lang)}).sort(function(a,b){return score(b)-score(a)});
+  var sel=$("vo"),keepv=ls("rv.voice")||"";sel.innerHTML='<option value="">Auto</option>';
+  VOICES.forEach(function(v){var o=document.createElement("option");o.value=v.name;o.textContent=v.name.replace(/^Microsoft |^Google /,"")+" ("+v.lang+")";sel.appendChild(o)});
+  sel.value=keepv;if(sel.value!==keepv)sel.value="";
+}
+function pick(lg){
+  var pref=ls("rv.voice"),p=VOICES.filter(function(v){return v.lang.toLowerCase().indexOf(lg)===0});
+  if(pref){var m=VOICES.filter(function(v){return v.name===pref&&v.lang.toLowerCase().indexOf(lg)===0})[0];if(m)return m}
+  if(lg==="en"){var us=p.filter(function(v){return /^en[-_](us|gb)/i.test(v.lang)});if(us.length)return us[0]}
+  return p[0]||null;
+}
 function speak(){
   if(!playing)return;
   if(qi>=queue.length){if(cur<pages.length-1){show(cur+1);queue=chunks(pages[cur]);qi=0;speak()}else stopA();return}
-  var u=new SpeechSynthesisUtterance(queue[qi++]);u.rate=+$("sp").value;u.lang="en-US";
-  u.onend=speak;u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
+  var t=queue[qi++],lg=lgOf(t),v=pick(lg),u=new SpeechSynthesisUtterance(t);
+  u.rate=+$("sp").value;u.lang=v?v.lang:(lg==="vi"?"vi-VN":"en-US");if(v)u.voice=v;
+  u.onend=function(){setTimeout(speak,/[.!?]$/.test(t)?120:40)};
+  u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
 }
-function startA(){if(!window.speechSynthesis||!pages.length){alert("No speech voice available on this device.");return}playing=true;$("au").textContent="⏸";queue=chunks(pages[cur]);qi=0;speechSynthesis.cancel();speak()}
-function stopA(){playing=false;$("au").textContent="🔊";speechSynthesis.cancel()}
+function startA(){if(!window.speechSynthesis||!pages.length){alert("No speech voice available on this device.");return}playing=true;$("au").textContent="⏸";queue=chunks(pages[cur]);qi=0;speechSynthesis.cancel();loadVoices();speak();
+  clearInterval(keep);keep=setInterval(function(){if(playing&&speechSynthesis.speaking&&!speechSynthesis.paused){speechSynthesis.pause();speechSynthesis.resume()}},12000)}
+function stopA(){playing=false;clearInterval(keep);$("au").textContent="🔊";speechSynthesis.cancel()}
+if(window.speechSynthesis){loadVoices();speechSynthesis.onvoiceschanged=loadVoices}
+$("vo").onchange=function(){try{localStorage.setItem("rv.voice",$("vo").value)}catch(e){}if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();qi=k;speak()}};
 $("au").onclick=function(){playing?stopA():startA()};
 $("sp").onchange=function(){if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();qi=k;speak()}};
 window.addEventListener("beforeunload",function(){try{speechSynthesis.cancel()}catch(e){}});
