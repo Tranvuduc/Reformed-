@@ -7,8 +7,10 @@ const extra = ["John Bunyan","Charles Spurgeon","C. H. Spurgeon","John Calvin","
 const names = [...new Set([...ia.a, ...extra])];
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const norm = (s) => String(s || "").toLowerCase().replace(/[^a-z ]/g, " ").replace(/\s+/g, " ").trim();
+const T0 = Date.now(), BUDGET = 75 * 60 * 1000; // stop early and save partial results before the job cap
 const out = [], seen = new Set(), an = [];
 for (const name of names) {
+  if (Date.now() - T0 > BUDGET) { console.log("time budget reached, saving partial"); break; }
   const parts = norm(name).split(" ");
   const sur = parts[parts.length - 1], first = parts[0];
   if (!sur || sur.length < 3) continue;
@@ -36,12 +38,12 @@ for (const name of names) {
   await sleep(600);
 }
 // Genre pass: LibriVox religious works regardless of author.
-for (const genre of ["Religion", "Christianity", "Sermons", "Bibles", "Christian Fiction", "Essays", "Philosophy"]) {
+for (const genre of Date.now() - T0 > BUDGET ? [] : ["Religion", "Christianity", "Sermons", "Bibles", "Christian Fiction", "Essays", "Philosophy"]) {
   for (let off = 0; off < 1500; off += 100) {
     let books = [];
     for (let t = 0; t < 3; t++) {
       try {
-        const r = await fetch(`https://librivox.org/api/feed/audiobooks/?genre=%5E${encodeURIComponent(genre)}&format=json&extended=0&limit=100&offset=${off}`, { headers: { "User-Agent": "reformed-vietnam-catalog" } });
+        const r = await fetch(`https://librivox.org/api/feed/audiobooks/?genre=%5E${encodeURIComponent(genre)}&format=json&extended=0&limit=100&offset=${off}`, { headers: { "User-Agent": "reformed-vietnam-catalog" }, signal: AbortSignal.timeout(20000) });
         if (r.ok) { books = (await r.json()).books || []; break; }
         if (r.status === 404) break;
       } catch {}
