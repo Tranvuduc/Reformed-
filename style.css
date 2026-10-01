@@ -163,3 +163,5 @@ body:not(.home) #bw{display:none}
 .badge.old,.bd.old{opacity:.7;font-style:italic}
 
 .lic{font-size:.85rem;margin:.6em 0;padding:.4em .7em;border-radius:8px;background:#8881}.lic.pd{border-left:3px solid #2f8f4e}.lic.ex{border-left:3px solid #d9a200}
+
+.bd.lv1{background:#2f8f4e22}.bd.lv2{background:#d9a20022}.bd.lv3{background:#c0392b22}

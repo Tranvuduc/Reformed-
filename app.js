@@ -112,6 +112,12 @@ function passes(b){
   }
   return true;
 }
+var LVL_T={catechism:1,devotional:2,sermons:2,history:2,collected:2,systematic:3,doctrine:2,commentary:3};
+var LVL_ID={"bunyan/pilgrim":1,"bonar/peace":1,"ryle/holiness":1,"flavel/lovely":1,"spurgeon/grace":1,"owen/mort":2,"watson/contentment":2,"baxter/saints_rest":2,"boston/crook":2,"edwards/affections":2,"calvin/institutes":3,"edwards/will":3,"hodge/theology1":3,"berkhof/systematictheology":3,"kuyper/holy_spirit":3};
+var TRAD={calvin:["Cải Chánh thế kỷ 16","Sixteenth-century Reformed"],knox:["Trưởng Lão Scotland","Scottish Presbyterian"],owen:["Thanh giáo (Độc lập)","Puritan (Independent)"],baxter:["Thanh giáo","Puritan"],bunyan:["Thanh giáo, Báp-tít","Puritan, Baptist"],flavel:["Thanh giáo","Puritan"],charnock:["Thanh giáo","Puritan"],watson:["Thanh giáo","Puritan"],gurnall:["Thanh giáo","Puritan"],rutherford:["Trưởng Lão Scotland","Scottish Presbyterian"],boston:["Trưởng Lão Scotland","Scottish Presbyterian"],hodge:["Trưởng Lão (Princeton)","Presbyterian (Princeton)"],alexander_a:["Trưởng Lão (Princeton)","Presbyterian (Princeton)"],edwards:["Cải Chánh Mỹ","American Reformed"],gill:["Báp-tít Cải Chánh","Reformed Baptist"],spurgeon:["Báp-tít Cải Chánh","Reformed Baptist"],boyce:["Báp-tít Cải Chánh","Reformed Baptist"],kuyper:["Cải Chánh Hà Lan","Dutch Reformed"],bavinck:["Cải Chánh Hà Lan","Dutch Reformed"],berkhof:["Cải Chánh Hà Lan-Mỹ","Dutch-American Reformed"],bonar:["Trưởng Lão Scotland","Scottish Presbyterian"],ryle:["Anh giáo Phúc Âm","Evangelical Anglican"],hooker:["Anh giáo","Anglican"],boettner:["Trưởng Lão","Presbyterian"]};
+function lvl(b){var n=LVL_ID[b.id]||LVL_T[b.ty]||0;return n}
+function lvlTxt(n){var vi=st.lang==="vi";return n===1?(vi?"🟢 Dễ đọc":"🟢 Beginner"):n===2?(vi?"🟡 Vừa":"🟡 Intermediate"):n===3?(vi?"🔴 Chuyên sâu":"🔴 Advanced"):""}
+function trad(b){var t=TRAD[b.au];return t?t[st.lang==="vi"?0:1]:""}
 function badges(b){
   var o=[];if(b.au==="vn")o.push(["VI","vi"]);
   if(b.read)o.push([st.lang==="vi"?"Đọc":"Read","r"]);
@@ -119,6 +125,7 @@ function badges(b){
   if(hasM(b,"audio"))o.push([st.lang==="vi"?"🎧 Nghe":"🎧 Audio",""]);
   if(!b.read&&b.url&&!hasM(b,"pdf")&&!hasM(b,"epub")&&!hasM(b,"audio"))o.push(["Web",""]);
   if(!b.read&&!b.url)o.push(["Web",""]);if(b.au==="ia"&&b.y&&b.y<1700)o.push([st.lang==="vi"?"Văn cổ":"Early English","old"]);
+  var L=lvl(b);if(L&&b.au!=="ia"&&b.au!=="pg"&&b.au!=="lv")o.unshift([lvlTxt(L),"lv"+L]);
   return o.map(function(x){return'<span class="bd '+x[1]+'">'+x[0]+'</span>'}).join("");
 }
 function lic(b){
@@ -161,7 +168,7 @@ function sheet(b){
   var alt=(lg==="vi"&&o.t&&o.t!==d.t)?'<p class="alt">'+esc(o.t)+'</p>':"";
   var sel='<select data-pid="'+esc(b.id)+'" aria-label="'+tx("reading")+'">'+["todo","reading","done"].map(function(v){return'<option value="'+v+'"'+(p.s===v?" selected":"")+'>'+tx(v)+'</option>'}).join("")+'</select>';
   var rng=p.s==="reading"?'<div class="pr"><input type="range" min="0" max="100" step="5" value="'+p.p+'" data-rid="'+esc(b.id)+'" aria-label="%"><output>'+p.p+'%</output></div>':"";
-  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+lic(b)+'<p class="src">'+esc(d.n)+'</p>';
+  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+(trad(b)?' · <i>'+esc(trad(b))+'</i>':'')+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+lic(b)+'<p class="src">'+esc(d.n)+'</p>';
 }
 function renderCont(){
   var r=BOOKS.filter(function(b){return prog(b.id).s==="reading"}).sort(function(a,b){return(prog(b.id).t||0)-(prog(a.id).t||0)}).slice(0,4);
