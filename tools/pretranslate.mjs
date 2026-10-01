@@ -8,7 +8,7 @@ const KEY = process.env.GEMINI_API_KEY || GKEY;
 const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const gl = JSON.parse(fs.readFileSync(new URL('./glossary.json', import.meta.url), 'utf8'));
 const SYS = `You translate public-domain Reformed Christian literature from English into natural, reverent Vietnamese for Vietnamese Protestant readers. Be faithful to the author; no additions or commentary; keep Scripture references; render Scripture in the Vietnamese Bible style (Kinh Thánh Tiếng Việt 1934 wording where possible). Use this glossary: ${JSON.stringify(gl)}. You receive a JSON array of paragraphs; return a JSON array of strings with exactly the same length and order, one translation per paragraph.`;
-let lastCall = 0;
+let lastCall = 0, lastErr = '';
 async function groq(src) {
   for (let a = 0; a < 6; a++) {
     const wait = Math.max(0, lastCall + 20000 - Date.now()); // stay under free TPM
@@ -26,7 +26,7 @@ async function groq(src) {
         })
       });
       if (r.status === 429 || r.status >= 500) { await new Promise(r => setTimeout(r, 30000 * (a + 1))); continue; }
-      if (!r.ok) throw new Error('groq ' + r.status);
+      if (!r.ok) { lastErr = 'groq ' + r.status + ' ' + (await r.text()).slice(0, 200); throw new Error(lastErr); }
       const j = await r.json();
       const arr = JSON.parse(j.choices[0].message.content).t;
       if (Array.isArray(arr) && arr.length === src.length && arr.every(x => typeof x === 'string' && x.trim())) return arr;
@@ -50,8 +50,8 @@ async function gemini(src) {
           generationConfig: { responseMimeType: 'application/json', temperature: 0.2 }
         })
       });
-      if (r.status === 429 || r.status >= 500) { await new Promise(r => setTimeout(r, 15000 * (a + 1))); continue; }
-      if (!r.ok) throw new Error('gemini ' + r.status);
+      if (r.status === 429 || r.status >= 500) { lastErr = 'gemini ' + r.status; await new Promise(r => setTimeout(r, 15000 * (a + 1))); continue; }
+      if (!r.ok) { lastErr = 'gemini ' + r.status + ' ' + (await r.text()).slice(0, 200).replace(KEY, '***'); throw new Error(lastErr); }
       const j = await r.json();
       const t = j.candidates?.[0]?.content?.parts?.map(x => x.text).join('') || '';
       const arr = JSON.parse(t);
@@ -64,6 +64,8 @@ async function gemini(src) {
 const ids = (process.argv[2] || '').split(',').map(s => s.trim()).filter(Boolean);
 const maxP = +process.argv[3] || 400;
 const site = (process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '');
+const BOT = process.env.BOT_NAME || 'bot';
+async function report(msg) { console.log(msg); try { await fetch(`${(process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
 const deadline = Date.now() + 5.5 * 3600 * 1000;
 const b = await chromium.launch();
 for (const id of ids) {
@@ -80,7 +82,7 @@ for (const id of ids) {
     await p.waitForFunction(() => document.querySelector('#txt') && document.querySelector('#txt').innerText.length > 50, null, { timeout: 60000 });
     const total = await p.evaluate(() => +document.querySelector('#sl').max);
     const n = Math.min(total, maxP);
-    console.log(`${id}: ${total} pages, doing ${n}`);
+    await report(`${id}: ${total} pages, doing ${n}`);
     for (let i = 0; i < n; i++) {
       if (Date.now() > deadline) break;
       // wait until translation of this page finishes (status shows "Bản dịch máy" or failure text)
@@ -91,12 +93,12 @@ for (const id of ids) {
         if (/Không dịch được/.test(s)) break;
         await p.waitForTimeout(500);
       }
-      if (!ok) { fails++; console.log(`  page ${i + 1} failed`); if (fails >= 3) { console.log('  too many failures, stopping book'); break; } await p.waitForTimeout(20000); continue; }
+      if (!ok) { fails++; await report(`${id} page ${i + 1} failed; status=` + (await p.evaluate(() => (document.querySelector('#trs') || {}).textContent)) + ' last=' + lastErr); if (fails >= 3) { console.log('  too many failures, stopping book'); break; } await p.waitForTimeout(20000); continue; }
       await p.waitForTimeout(1200); // let POST fly
       if (i < n - 1) await p.click('#nx');
     }
-    console.log(`${id}: done, ${posts} pages newly stored, ${fails} fails`);
-  } catch (e) { console.log(`${id}: error ${String(e.message).slice(0, 120)}`); }
+    await report(`${id}: done, ${posts} stored, ${fails} fails`);
+  } catch (e) { await report(`${id}: error ${String(e.message).slice(0, 120)}`); }
   await ctx.close();
 }
 await b.close();

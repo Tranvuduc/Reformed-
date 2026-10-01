@@ -22,7 +22,7 @@ jobs:
             tier1|tier2) IDS=$(node -e "console.log(require('./tools/priority.json')['$IDS'].join(','))") ;;
           esac
           test -n "$GROQ_API_KEY" || { echo "Missing GROQ_API_KEY secret"; exit 1; }
-          node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
+          BOT_NAME=groq node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: ${{ inputs.model }}

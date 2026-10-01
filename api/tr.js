@@ -11,9 +11,10 @@ export default async function handler(req, res) {
   try {
     if (req.method === 'GET' && req.query.stats) {
       res.setHeader('Cache-Control', 'no-store');
+      const st = {}; try { const r0 = await list({ prefix: 'status/', limit: 50 }); for (const b of r0.blobs) { const g = await get(b.pathname, { access: 'private', useCache: false }); if (g && g.statusCode === 200) st[b.pathname.slice(7, -5)] = await new Response(g.stream).text(); } } catch (e) {}
       const per = {}; let n = 0, cursor;
       do { const r = await list({ prefix: 'tr/', cursor, limit: 1000 }); for (const b of r.blobs) { n++; const k = b.pathname.split('/')[1]; per[k] = (per[k] || 0) + 1; } cursor = r.hasMore ? r.cursor : undefined; } while (cursor && n < 50000);
-      return res.status(200).json({ pages: n, books: Object.keys(per).length, per });
+      return res.status(200).json({ pages: n, books: Object.keys(per).length, per, status: st });
     }
     if (req.method === 'GET') {
       const id = String(req.query.id || ''), h = String(req.query.h || '');
@@ -27,6 +28,10 @@ export default async function handler(req, res) {
     if (req.method === 'POST') {
       res.setHeader('Cache-Control', 'no-store');
       const b = await body(req);
+      if (b.status && /^[a-z0-9-]{2,20}$/.test(String(b.status.bot || ''))) {
+        await put('status/' + b.status.bot + '.json', JSON.stringify({ t: new Date().toISOString(), msg: String(b.status.msg || '').slice(0, 600) }), { access: 'private', allowOverwrite: true, addRandomSuffix: false, contentType: 'application/json' });
+        return res.status(200).json({ ok: 1 });
+      }
       const id = String(b.id || ''), h = String(b.h || ''), t = b.t;
       if (!ID.test(id) || !H.test(h) || !Array.isArray(t) || !t.length || t.length > 400) return res.status(400).json({ error: 'bad' });
       let tot = 0;

@@ -22,7 +22,7 @@ jobs:
             tier1|tier2) IDS=$(node -e "console.log(require('./tools/priority.json')['$IDS'].join(','))") ;;
           esac
           test -n "$GEMINI_API_KEY" || { echo "Missing GEMINI_API_KEY secret"; exit 1; }
-          node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
+          BOT_NAME=gemini node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ inputs.model }}

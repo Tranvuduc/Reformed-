@@ -20,4 +20,4 @@ jobs:
           case "$IDS" in
             tier1|tier2) IDS=$(node -e "console.log(require('./tools/priority.json')['$IDS'].join(','))") ;;
           esac
-          node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
+          BOT_NAME=gtx node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
