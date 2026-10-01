@@ -17,6 +17,7 @@ for (let i = 0; i < titles.length; i += 70) jobs.push(['Vietnamese book titles (
 jobs.push(['About page text (site description and doctrinal stance)', txt('about.html').slice(0, 6000)]);
 const lo = txt('lo-trinh.html'); jobs.push(['Reading-plan page (stages and book order for new Reformed readers; judge order, pastoral wisdom, wording)', lo.slice(0, 9000)]);
 const tp = fs.readFileSync('tools/topics.py', 'utf8').match(/TOPICS\s*=\s*\[[\s\S]*?\n\]/); if (tp) jobs.push(['Topic hubs definition (names, intros, keyword regex; judge whether the topics, names and keywords are doctrinally sound)', tp[0].slice(0, 7000)]);
+let lastE = '';
 let out = `# ${P} / ${MODEL}\n\n`;
 for (const [name, body] of jobs) {
   let res = '';
@@ -24,10 +25,10 @@ for (const [name, body] of jobs) {
     try {
       const r = await fetch(C.url + '/chat/completions', { method: 'POST', headers: { 'content-type': 'application/json', authorization: 'Bearer ' + C.key }, body: JSON.stringify({ model: MODEL, temperature: 0.2, max_tokens: 3500, messages: [{ role: 'system', content: SYS }, { role: 'user', content: 'Review this: ' + name + '\n\n' + body }] }) });
       const j = await r.json();
-      res = j.choices?.[0]?.message?.content || ''; if (!res) { console.log(P, r.status, JSON.stringify(j).slice(0, 200)); await new Promise(s => setTimeout(s, 20000)); }
-    } catch (e) { console.log(P, e.message); await new Promise(s => setTimeout(s, 10000)); }
+      res = j.choices?.[0]?.message?.content || ''; if (!res) { lastE = r.status + ' ' + JSON.stringify(j).slice(0, 300); console.log(P, r.status, JSON.stringify(j).slice(0, 200)); await new Promise(s => setTimeout(s, 20000)); }
+    } catch (e) { lastE = e.message; console.log(P, e.message); await new Promise(s => setTimeout(s, 10000)); }
   }
-  out += `## ${name}\n\n${res || '(no response)'}\n\n`;
+  out += `## ${name}\n\n${res || '(no response) ' + lastE}\n\n`;
   await new Promise(s => setTimeout(s, P === 'groq' ? 25000 : 6000));
 }
 fs.mkdirSync('review', { recursive: true });
