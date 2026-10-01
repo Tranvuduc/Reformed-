@@ -13,7 +13,7 @@ books.authors.forEach((a) => a.books.forEach((b) => seen.add(nk(b[1]))));
 (books.extra || []).forEach((b) => seen.add(nk(b.en.t)));
 const names = [], rows = [];
 for (const a of [...new Set(AUTHORS)]) {
-  const url = "https://archive.org/advancedsearch.php?" + new URLSearchParams({ q: Q(a), rows: "60", output: "json", sort: "downloads desc" }) +
+  const url = "https://archive.org/advancedsearch.php?" + new URLSearchParams({ q: Q(a), rows: "300", output: "json", sort: "downloads desc" }) +
     ["identifier", "title", "creator", "year", "downloads", "format"].map((f) => "&fl[]=" + f).join("");
   let docs = [];
   for (let t = 0; t < 3 && !docs.length; t++) {
@@ -33,7 +33,7 @@ for (const a of [...new Set(AUTHORS)]) {
     seen.add(k);
     if (ai < 0) { ai = names.length; names.push(a.replace(/^(.*), (.*)$/, "$2 $1").replace(/, \d.*$/, "")); }
     rows.push([ai, title.slice(0, 140), d.identifier, +String(d.year || 0).slice(0, 4) || 0, pdf + epub * 2]);
-    if (++n >= 40) break;
+    if (++n >= 150) break;
   }
   console.log(a, n);
   await sleep(800);
