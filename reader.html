@@ -257,7 +257,24 @@ function trCachePut(i,arr){
 // translate page i with 3 parallel workers; onP(k,text) paints as it goes
 function getTr(i,onP,tok){
   var c=trCacheGet(i);if(c){if(onP)c.forEach(function(v,k){onP(k,v)});return Promise.resolve(c)}
-  var src=ptexts(i),res=new Array(src.length),next=0,done=0,fatal=false;
+  var src=ptexts(i);
+  return sharedGet(i,src).then(function(sh){
+    if(sh){trCachePut(i,sh);if(onP)sh.forEach(function(v,k){onP(k,v)});return sh}
+    return getTr2(i,src,onP,tok).then(function(r){sharedPut(src,r);return r});
+  });
+}
+function hsh(a){var s=a.join("\n"),h=5381,h2=0;for(var k=0;k<s.length;k++){h=((h<<5)+h+s.charCodeAt(k))>>>0;h2=(h2*31+s.charCodeAt(k))>>>0}return h.toString(36)+h2.toString(36)}
+function sharedGet(i,src){
+  if(!src.length||dead.sh)return Promise.resolve(null);
+  return tmo(fetch("api/tr?id="+encodeURIComponent(id)+"&h="+hsh(src)),4000).then(function(r){if(!r.ok)return null;return r.json()}).then(function(a){return Array.isArray(a)&&a.length===src.length&&a.every(function(x){return typeof x==="string"})?a:null}).catch(function(){dead.sh=1;return null});
+}
+function sharedPut(src,res){
+  if(dead.sh||!res||res.length!==src.length)return;
+  for(var k=0;k<res.length;k++)if(typeof res[k]!=="string"||!res[k].trim())return;
+  try{fetch("api/tr",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:id,h:hsh(src),t:res}),keepalive:false}).catch(function(){})}catch(e){}
+}
+function getTr2(i,src,onP,tok){
+  var res=new Array(src.length),next=0,done=0,fatal=false;
   var conc=(!dead.gtx||!dead.nat)&&!dead.mm?3:1;
   return new Promise(function(ok,no){
     function worker(){
