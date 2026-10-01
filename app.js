@@ -128,6 +128,27 @@ function badges(b){
   var L=lvl(b);if(L&&b.au!=="ia"&&b.au!=="pg"&&b.au!=="lv")o.unshift([lvlTxt(L),"lv"+L]);
   return o.map(function(x){return'<span class="bd '+x[1]+'">'+x[0]+'</span>'}).join("");
 }
+var CTX={
+"bunyan/pilgrim":["Truyện ngụ ngôn Thanh giáo thế kỷ 17, phần đầu được viết khi Bunyan ở tù. Hãy đọc như câu chuyện về đời sống đức tin, không phải sách giáo lý.","Hê-bơ-rơ 11:13-16","Gánh nặng lớn nhất của tôi là gì, và tôi đang tìm sự giải thoát nơi ai?"],
+"bonar/peace":["Horatius Bonar thuộc Hội Thánh Tự Do Scotland, thế kỷ 19. Sách giải thích rõ cách tội nhân được bình an với Đức Chúa Trời.","Rô-ma 5:1-2","Tôi đang dựa vào điều gì để được Đức Chúa Trời chấp nhận?"],
+"ryle/holiness":["J. C. Ryle là giám mục Anh giáo Phúc Âm thế kỷ 19. Sách nói thẳng về cuộc chiến với tội lỗi.","1 Phi-e-rơ 1:15-16","Hôm nay tôi cần chiến đấu với thói quen tội lỗi cụ thể nào, nhờ ân điển Chúa?"],
+"flavel/lovely":["John Flavel là mục sư Thanh giáo thế kỷ 17. Văn phong cổ, nên đọc từng đoạn ngắn.","Phi-líp 3:8","Điều gì nơi Đấng Christ làm tôi quý Ngài hơn mọi sự?"],
+"spurgeon/grace":["Spurgeon thuộc Báp-tít Cải Chánh, thế kỷ 19. Sách viết dễ hiểu cho người chưa tin và tín hữu mới.","Ê-phê-sô 2:8-9","Tôi có đang tin cậy việc làm của mình hay chỉ cậy Đấng Christ?"],
+"owen/mort":["John Owen là mục sư Thanh giáo (Độc lập) thế kỷ 17. Văn phong nặng, nên đọc khi đã có nền tảng, và ưu tiên phần nói về nhờ Đức Thánh Linh.","Rô-ma 8:13","Tôi cậy sức riêng hay cậy Đức Thánh Linh để chống lại tội lỗi?"],
+"watson/contentment":["Thomas Watson là mục sư Thanh giáo thế kỷ 17. Các ví dụ phản ánh đời sống Anh thời đó.","Phi-líp 4:11-13","Tôi bất mãn về điều gì, và Chúa đã ban cho tôi điều gì?"],
+"baxter/saints_rest":["Richard Baxter là mục sư Thanh giáo thế kỷ 17. Sách nói về hy vọng thiên đàng.","Cô-lô-se 3:1-2","Tôi suy nghĩ về thiên đàng nhiều đến mức nào trong tuần này?"],
+"boston/crook":["Thomas Boston là mục sư Trưởng Lão Scotland, thế kỷ 18. Sách an ủi người đang gặp thử thách.","Truyền đạo 7:13-14","Tôi có tin Đức Chúa Trời cai trị cả hoàn cảnh khó khăn của tôi không?"],
+"edwards/affections":["Jonathan Edwards sống ở Mỹ thế kỷ 18, trong thời Đại Tỉnh Thức. Sách giúp phân biệt xúc động thật sự và bề ngoài.","1 Phi-e-rơ 1:8","Đời sống tôi có kết quả của tình yêu thật dành cho Chúa không?"],
+"calvin/institutes":["Công trình nền tảng của Cải Chánh thế kỷ 16. Không cần đọc theo thứ tự, hãy đọc từng phần và đối chiếu Kinh Thánh.","Châm ngôn 9:10","Tôi biết gì về Đức Chúa Trời và về chính mình?"],
+"edwards/will":["Tác phẩm thế kỷ 18, nặng về lập luận triết học. Dành cho người đã quen đọc thần học.","Rô-ma 9:16","Tôi hiểu thế nào về ân điển có chủ quyền của Đức Chúa Trời?"],
+"hodge/theology1":["Charles Hodge dạy tại Princeton, Trưởng Lão, thế kỷ 19. Đây là sách giáo khoa, dùng để tra cứu từng chủ đề.","2 Ti-mô-thê 3:16-17","Tôi có để Kinh Thánh là thẩm quyền tối hậu không?"],
+"berkhof/systematictheology":["Louis Berkhof, Cải Chánh Hà Lan-Mỹ, thế kỷ 20. Sách giáo khoa dùng để tra cứu, không đọc liền một mạch.","Công vụ 17:11","Tôi đã đối chiếu điều này với Kinh Thánh chưa?"],
+"kuyper/holy_spirit":["Abraham Kuyper là thần học gia Hà Lan, thế kỷ 19. Sách dài, nên đọc từng phần.","Giăng 16:13","Tôi có nhận ra công việc của Đức Thánh Linh trong đời sống mình không?"]
+};
+function ctxBox(b){var c=CTX[b.id];
+  if(!c&&b.er==="pur")c=["Tác phẩm Thanh giáo thế kỷ 16-17. Các ví dụ về xã hội và gia đình phản ánh thời của tác giả, không nên áp dụng máy móc cho ngày nay.","",""];
+  if(!c)return"";
+  return'<div class="ctx"><b>Đọc trong bối cảnh</b><p>'+esc(c[0])+'</p>'+(c[1]?'<p><b>Đọc Kinh Thánh:</b> '+esc(c[1])+'</p><p><b>Suy ngẫm:</b> '+esc(c[2])+'</p>':'')+'<small>Ghi chú của người quản trị, chờ mục sư duyệt.</small></div>'}
 function lic(b){
   var vi=st.lang==="vi",pd=b.read||b.au==="ia"||b.au==="pg"||b.au==="lv"||/ccel\.org/.test(b.url||"");
   return pd?'<p class="lic pd">🟢 '+(vi?"Phạm vi công cộng. Bạn được đọc, tải và chia sẻ tự do.":"Public domain. Free to read, download and share.")+'</p>'
@@ -168,7 +189,7 @@ function sheet(b){
   var alt=(lg==="vi"&&o.t&&o.t!==d.t)?'<p class="alt">'+esc(o.t)+'</p>':"";
   var sel='<select data-pid="'+esc(b.id)+'" aria-label="'+tx("reading")+'">'+["todo","reading","done"].map(function(v){return'<option value="'+v+'"'+(p.s===v?" selected":"")+'>'+tx(v)+'</option>'}).join("")+'</select>';
   var rng=p.s==="reading"?'<div class="pr"><input type="range" min="0" max="100" step="5" value="'+p.p+'" data-rid="'+esc(b.id)+'" aria-label="%"><output>'+p.p+'%</output></div>':"";
-  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+(trad(b)?' · <i>'+esc(trad(b))+'</i>':'')+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+lic(b)+'<p class="src">'+esc(d.n)+'</p>';
+  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+(trad(b)?' · <i>'+esc(trad(b))+'</i>':'')+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+ctxBox(b)+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+lic(b)+'<p class="src">'+esc(d.n)+'</p>';
 }
 function renderCont(){
   var r=BOOKS.filter(function(b){return prog(b.id).s==="reading"}).sort(function(a,b){return(prog(b.id).t||0)-(prog(a.id).t||0)}).slice(0,4);
@@ -379,7 +400,7 @@ var TILES=[
 ];
 var TI={"lo-trinh.html": "<path d=\"M5 19a2 2 0 100-4 2 2 0 000 4zM19 9a2 2 0 100-4 2 2 0 000 4zM7 17h6a3 3 0 000-6h-2a3 3 0 010-6h6\"/>", "tieng-viet.html": "<path d=\"M2 5h7a3 3 0 013 3v12a2 2 0 00-2-2H2zM22 5h-7a3 3 0 00-3 3v12a2 2 0 012-2h8z\"/>", "chu-de/": "<path d=\"M12 3l9 5-9 5-9-5zM3 13l9 5 9-5M3 17.5l9 5 9-5\" transform=\"scale(.92) translate(1 -1)\"/>", "sach-noi.html": "<path d=\"M4 15v-3a8 8 0 0116 0v3M4 15h3v5H5a1 1 0 01-1-1zM20 15h-3v5h2a1 1 0 001-1z\"/>", "hom-nay.html": "<circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4\"/>", "tac-gia.html": "<circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0113 0M16 4.5a3.5 3.5 0 010 7M18 14a6.5 6.5 0 013.5 6\"/>"};
 function renderTiles(){var i=st.lang==="vi"?0:1;$("tiles").innerHTML=TILES.map(function(t){return'<a class="tile'+(t[5]?" first":"")+'" href="'+t[0]+'"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+TI[t[0]]+'</svg><b>'+t[1+i]+'</b><span>'+t[3+i]+'</span></a>'}).join("");
-  var M=[["lo-trinh.html","Lộ trình đọc","Reading path"],["chu-de/","Chủ đề","Topics"],["hom-nay.html","Hôm nay","Today"],["khoa-hoc.html","Khóa học","Courses"],["trich-dan.html","Trích dẫn","Quotes"],["thuat-ngu.html","Thuật ngữ","Glossary"],["sach-noi.html","Sách nói","Audio"],["tac-gia.html","Tác giả","Authors"],["feed.xml","RSS","RSS"]];
+  var M=[["lo-trinh.html","Lộ trình đọc","Reading path"],["chu-de/","Chủ đề","Topics"],["hom-nay.html","Hôm nay","Today"],["khoa-hoc.html","Học trực tuyến","Online study"],["trich-dan.html","Trích dẫn","Quotes"],["thuat-ngu.html","Thuật ngữ","Glossary"],["doi-song-viet-nam.html","Đời sống Việt Nam","Vietnamese life"],["sach-noi.html","Sách nói","Audio"],["tac-gia.html","Tác giả","Authors"],["feed.xml","RSS","RSS"]];
   $("mx").innerHTML=M.map(function(m){return'<a class="btn" href="'+m[0]+'">'+m[1+i]+'</a>'}).join("")}
 $("browse").addEventListener("click",function(){st.br=1;st.limit=PAGE;render();window.scrollTo(0,0)});
 $("grid").addEventListener("click",function(e){if(e.target.closest(".fav"))return;var oc=e.target.closest("[data-open]");if(oc)openBook(oc.dataset.open)});

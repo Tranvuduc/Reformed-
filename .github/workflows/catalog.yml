@@ -24,7 +24,7 @@ jobs:
             git fetch -q origin main && git reset -q --hard origin/main
             cp /tmp/ia.new.json ia.json
             python3 tools/build-pages.py
-            git add -A ia.json a b tac-gia.html tieng-viet.html sach-noi.html sitemap.xml hom-nay.html lo-trinh.html feed.xml chu-de khoa-hoc.html trich-dan.html thuat-ngu.html
+            git add -A ia.json a b tac-gia.html tieng-viet.html sach-noi.html sitemap.xml hom-nay.html lo-trinh.html feed.xml chu-de khoa-hoc.html trich-dan.html thuat-ngu.html doi-song-viet-nam.html
             git diff --cached --quiet && exit 0
             git commit -q -m "Update Internet Archive catalog"
             git push -q origin HEAD:main && exit 0

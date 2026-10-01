@@ -165,3 +165,5 @@ body:not(.home) #bw{display:none}
 .lic{font-size:.85rem;margin:.6em 0;padding:.4em .7em;border-radius:8px;background:#8881}.lic.pd{border-left:3px solid #2f8f4e}.lic.ex{border-left:3px solid #d9a200}
 
 .bd.lv1{background:#2f8f4e22}.bd.lv2{background:#d9a20022}.bd.lv3{background:#c0392b22}
+
+.ctx{margin:.8em 0;padding:.6em .9em;border-radius:8px;background:#8a3b1f12;font-size:.92rem}.ctx p{margin:.3em 0}.ctx small{opacity:.7}
