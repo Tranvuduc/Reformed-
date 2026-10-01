@@ -22,7 +22,7 @@ TOPICS = [
  ("cau-nguyen", "Cầu nguyện và thờ phượng", "Học cầu nguyện và thờ phượng theo Kinh Thánh.", r"prayer|pray\b|lord's prayer|worship|psalm|devotion|communion with god|meditat", r"cầu nguyện|thờ phượng|thi thiên|suy gẫm"),
  ("giao-uoc", "Giao ước và Thần học Cải Chánh", "Thần học giao ước, các Tín điều và Giáo lý của truyền thống Cải Chánh.", r"covenant|confession|catechism|westminster|heidelberg|canons of dort|reformed|institutes|creed|synod|dort", r"giao ước|tín điều|giáo lý|westminster|heidelberg|cải chánh"),
  ("tien-dinh", "Tiền định và Chủ quyền của Đức Chúa Trời", "Sự chọn lựa, ý chí con người và chủ quyền Đức Chúa Trời.", r"predestin|election|sovereign|free will|bondage of the will|freedom of the will|decrees|arminian|calvinis|perseverance|eternal", r"tiền định|chọn lựa|chủ quyền|ý chí|calvin"),
- ("lich-su-cai-chanh", "Lịch sử Cải Chánh", "Luther, Calvin, Puritan và sử Hội Thánh.", r"reformation|luther|calvin|puritan|history|martyr|church history|knox|zwingli|latimer|huguenot|history of the", r"cải chánh|lịch sử|luther|calvin|thanh giáo|tử đạo"),
+ ("lich-su-cai-chanh", "Lịch sử Cải Chánh", "Luther, Calvin, Puritan và sử Hội Thánh.", r"reformation|luther|calvin|puritan|history|martyr|church history|knox|zwingli|latimer|huguenot|history of the", r"cải chánh|lịch sử|luther|calvin|thanh giáo|tử vì đạo"),
  ("muc-vu-giang-dao", "Chức vụ, giảng đạo và mục vụ", "Dành cho mục sư, người hầu việc Chúa và người dạy Kinh Thánh.", r"preach|pastor|minister|sermon|shepherd|lectures to my students|ministry|evangel|missions?|soul", r"giảng|mục sư|bài giảng|truyền giáo|chăn"),
 ]
 _X = {x["id"]: x for x in books["extra"]}

@@ -55,8 +55,8 @@ STAGES = [
    ("m","dg-god-is-the-gospel","Piper: chính Đức Chúa Trời là món quà lớn nhất của Tin Lành (tiếng Anh)."),
    ("c","owen/mort","Owen về việc chiến đấu với tội lỗi (khó hơn, đọc sau cùng trong giai đoạn này).")]),
  ("Giai đoạn 3 · Tháng 5–7 · Hội Thánh, báp-têm và Tiệc Thánh", "Học sống trong cộng đồng đức tin. Rất hợp để học cùng nhóm.", [
-   ("m","9m-nine-marks-of-a-heal","Chín dấu hiệu của một Hội thánh vững mạnh (tiếng Việt)."),
-   ("m","9m-church-membership-va","Tư cách thành viên Hội thánh (tiếng Việt)."),
+   ("m","9m-nine-marks-of-a-heal","Chín dấu hiệu của một Hội Thánh vững mạnh (tiếng Việt)."),
+   ("m","9m-church-membership-va","Tư cách thành viên Hội Thánh (tiếng Việt)."),
    ("m","9m-expositional-preachi","Vì sao giảng giải Kinh Thánh là trung tâm (tiếng Việt)."),
    ("m","lig-what-is-the-church","Sproul: Hội Thánh là gì (tiếng Anh)."),
    ("m","lig-what-is-baptism","Sproul: báp-têm (tiếng Anh)."),
@@ -73,7 +73,7 @@ STAGES = [
    ("c","edwards/will","Edwards về ý chí con người (khó)."),
    ("x","bondage-of-the-will","Luther về ý chí bị trói buộc (khó).")]),
  ("Giai đoạn 5 · Năm thứ hai · Thần học hệ thống và kinh điển", "Đọc từng phần, không cần hết cuốn. Dùng mục lục và ô tìm kiếm trong trình đọc.", [
-   ("c","calvin/institutes","Cơ Đốc Giáo Yếu Lý: kinh điển nền tảng của thần học Cải Chánh."),
+   ("c","calvin/institutes","Cơ Đốc Giáo Cương Yếu: kinh điển nền tảng của thần học Cải Chánh."),
    ("c","berkhof/systematictheology","Thần học hệ thống Berkhof: sách giáo khoa tiêu chuẩn."),
    ("c","hodge/theology1","Thần học hệ thống Hodge, tập 1."),
    ("c","kuyper/lecture","Kuyper: thuyết Calvin như một lối sống."),
@@ -86,7 +86,7 @@ STAGES = [
    ("m","tp-ngoi-sao-mai-cua-phong-trao-cai-chanh","Tiên Phong: Wycliffe (tiếng Việt)."),
    ("m","dg-martin-luther","Piper về Luther (tiếng Anh)."),
    ("m","dg-portrait-of-calvin--2","Piper về Calvin (tiếng Anh)."),
-   ("c","foxe/martyrs","Sách các thánh tử đạo."),
+   ("c","foxe/martyrs","Sách những người tử vì đạo."),
    ("c","knox/history_reformation","Cải Chánh ở Scotland do chính Knox kể.")]),
 ]
 
@@ -94,8 +94,8 @@ TRACKS = [
  ("Năm Sola của Cải Chánh", "Chỉ bởi Kinh Thánh, chỉ bởi ân điển, chỉ bởi đức tin, chỉ trong Đấng Christ, chỉ vì vinh hiển Đức Chúa Trời.", [("x","vn-cambridge","Tuyên ngôn Cambridge (tiếng Việt)"),("x","vn-wsc","Giáo lý Vắn tắt Westminster")]),
  ("Giáo lý ân điển (năm điểm Calvin)", "Đọc Giáo luật Dordt trước, rồi các sách giải thích. Hãy luôn đối chiếu với Kinh Thánh.", [("x","vn-dordt","Giáo luật Dordt"),("c","owen/deathofdeath","Owen"),("c","boettner/predest","Boettner")]),
  ("Giao ước và Kinh Thánh", "Xem Tuyên xưng Westminster (chương về giao ước) và Calvin phần Cựu–Tân Ước.", [("x","westminster","Westminster"),("c","calvin/institutes","Calvin")]),
- ("Cầu nguyện và đời sống thuộc linh", "Calvin, Knox, Watson và sách nói.", [("c","calvin/prayer","Calvin"),("c","watson/prayer","Watson: Kinh Lạy Cha"),("c","knox/prayer","Knox"),("m","9m-prayer-su-cau-nguyen","9Marks: Sự cầu nguyện")]),
- ("Chức vụ và Hội Thánh", "Dành cho mục sư, trưởng lão, người hầu việc.", [("c","baxter/pastor","Baxter"),("m","9m-church-elders","Trưởng lão của Hội thánh"),("m","9m-church-discipline-ky","Kỷ luật Hội thánh")]),
+ ("Cầu nguyện và đời sống thuộc linh", "Calvin, Knox, Watson và sách nói.", [("c","calvin/prayer","Calvin"),("c","watson/prayer","Watson: Bài Cầu Nguyện Chúa Dạy"),("c","knox/prayer","Knox"),("m","9m-prayer-su-cau-nguyen","9Marks: Sự cầu nguyện")]),
+ ("Chức vụ và Hội Thánh", "Dành cho mục sư, trưởng lão, người hầu việc.", [("c","baxter/pastor","Baxter"),("m","9m-church-elders","Trưởng lão của Hội Thánh"),("m","9m-church-discipline-ky","Kỷ luật Hội Thánh")]),
 ]
 
 def sect(i, h, intro, items):
