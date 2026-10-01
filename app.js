@@ -2,11 +2,11 @@ var T={
  vi:{allTypes:"Mọi thể loại",allEras:"Mọi thời kỳ",clear:"Xóa bộ lọc",sort0:"Thứ tự mặc định",sort1:"Tên A–Z",sort2:"Tác giả A–Z",sort3:"Cũ nhất trước",sort4:"Mới nhất trước",
   ty_systematic:"Thần học hệ thống",ty_commentary:"Bình giải",ty_sermons:"Bài giảng",ty_devotional:"Suy niệm và cầu nguyện",ty_doctrine:"Giáo lý và luận thuyết",ty_catechism:"Tín điều và giáo lý vấn đáp",ty_history:"Lịch sử và tiểu sử",ty_collected:"Toàn tập",ty_bible:"Kinh Thánh",ty_classic:"Văn học kinh điển",
   er_anc:"Trước năm 1500",er_ref:"Cải Chánh (thế kỷ 16)",er_pur:"Thời Thanh giáo (thế kỷ 17)",er_aw:"Thời Phục hưng (thế kỷ 18)",er_mod:"Thế kỷ 19",er_c20:"Từ năm 1900",
-  sync:"Đồng bộ",about:"Giới thiệu",sh:"Đồng bộ giữa các thiết bị",sp:"Mã đồng bộ là bí mật của bạn: ai có mã đều đọc/ghi được tiến độ. Nhập cùng mã trên thiết bị khác.",snew:"Tạo mã mới",suse:"Dùng mã này",soff:"Tắt đồng bộ",sclose:"Đóng",sok:"Đã đồng bộ.",serr:"Lỗi đồng bộ, thử lại sau.",sbad:"Mã không hợp lệ (20–40 chữ/số).",rhere:"Đọc tại đây",lede:"Sách và tài liệu miễn phí, đọc và nghe đọc trên điện thoại. Phần lớn là tác phẩm thuộc phạm vi công cộng; mỗi thẻ ghi rõ nguồn. Không cần tài khoản.",h1:"Sách Cải Chánh, <span>miễn phí</span>",start:"★ Nên đọc trước",lang:"EN",theme:"◐",exp:"Xuất tiến độ",imp:"Nhập tiến độ",impok:"Đã nhập tiến độ.",imperr:"Tệp không hợp lệ.",search:"Tìm theo tên hoặc tác giả",all:"Tất cả",reading:"Đang đọc",done:"Đã đọc xong",saved:"Đã lưu",todo:"Chưa đọc",allAuthors:"Tất cả tác giả",other:"Văn học và khác",titles:"tác phẩm",of:"trong",read:"Đọc",listen:"Nghe",archive:"Kho lưu trữ",save:"☆ Lưu",saved2:"★ Đã lưu",more:"Xem thêm",cont:"Tiếp tục đọc",cont2:"Đọc tiếp",theology:"Thần học",classic:"Văn học",ccelnote:"Phạm vi công cộng. Nguồn: CCEL.",mgnote:"Ebook miễn phí (tiếng Anh) trên Monergism: EPUB, PDF, Kindle.",none:"Không có tác phẩm nào khớp.",nosaved:"Bạn chưa lưu sách nào. Nhấn Lưu trên một cuốn sách để xem lại ở đây.",noreading:"Chưa có sách nào ở mục này. Chọn trạng thái trên một cuốn sách để theo dõi tiến độ.",htts:"Nghe bất kỳ văn bản nào",ptts:"Dán một chương hoặc chọn mẫu. Thiết bị của bạn sẽ đọc to.",lsample:"Mẫu",ltxt:"Văn bản",lvoice:"Giọng đọc",lrate:"Tốc độ",bplay:"Phát",bpause:"Tạm dừng",bstop:"Dừng",addtext:"Hãy nhập văn bản trước.",playing:"Đang phát",paused:"Đã tạm dừng",stopped:"Đã dừng",fin:"Đã đọc xong",nosyn:"Trình duyệt này không đọc to được. Hãy thử Chrome, Edge hoặc Safari.",hfile:"Phát tệp âm thanh của bạn",pfile:"Mở tệp MP3 hoặc M4A trên thiết bị. Tệp không rời khỏi thiết bị của bạn.",lfile:"Tệp âm thanh",own:"Văn bản của bạn",foot:"Sách điện tử và bản nghe liên kết đến Christian Classics Ethereal Library (CCEL), Project Gutenberg, LibriVox và Internet Archive. Tiến độ đọc và sách đã lưu chỉ nằm trên thiết bị của bạn. Bản dịch và ấn bản hiện đại có thể còn bản quyền."},
+  sync:"Đồng bộ",about:"Giới thiệu",sh:"Đồng bộ giữa các thiết bị",sp:"Mã đồng bộ là bí mật của bạn: ai có mã đều đọc/ghi được tiến độ. Nhập cùng mã trên thiết bị khác.",snew:"Tạo mã mới",suse:"Dùng mã này",soff:"Tắt đồng bộ",sclose:"Đóng",sok:"Đã đồng bộ.",serr:"Lỗi đồng bộ, thử lại sau.",sbad:"Mã không hợp lệ (20–40 chữ/số).",rhere:"Đọc tại đây",lede:"Sách và sách nói miễn phí về thần học Cải Chánh. Không cần tài khoản.",h1:"Sách Cải Chánh, <span>miễn phí</span>",start:"★ Nên đọc trước",lang:"EN",theme:"◐",exp:"Xuất tiến độ",imp:"Nhập tiến độ",impok:"Đã nhập tiến độ.",imperr:"Tệp không hợp lệ.",search:"Tìm theo tên hoặc tác giả",all:"Tất cả",reading:"Đang đọc",done:"Đã đọc xong",saved:"Đã lưu",todo:"Chưa đọc",allAuthors:"Tất cả tác giả",other:"Văn học và khác",titles:"tác phẩm",of:"trong",read:"Đọc",listen:"Nghe",archive:"Kho lưu trữ",save:"☆ Lưu",saved2:"★ Đã lưu",more:"Xem thêm",cont:"Tiếp tục đọc",cont2:"Đọc tiếp",theology:"Thần học",classic:"Văn học",ccelnote:"Phạm vi công cộng. Nguồn: CCEL.",mgnote:"Ebook miễn phí (tiếng Anh) trên Monergism: EPUB, PDF, Kindle.",none:"Không có tác phẩm nào khớp.",nosaved:"Bạn chưa lưu sách nào. Nhấn Lưu trên một cuốn sách để xem lại ở đây.",noreading:"Chưa có sách nào ở mục này. Chọn trạng thái trên một cuốn sách để theo dõi tiến độ.",htts:"Nghe bất kỳ văn bản nào",ptts:"Dán một chương hoặc chọn mẫu. Thiết bị của bạn sẽ đọc to.",lsample:"Mẫu",ltxt:"Văn bản",lvoice:"Giọng đọc",lrate:"Tốc độ",bplay:"Phát",bpause:"Tạm dừng",bstop:"Dừng",addtext:"Hãy nhập văn bản trước.",playing:"Đang phát",paused:"Đã tạm dừng",stopped:"Đã dừng",fin:"Đã đọc xong",nosyn:"Trình duyệt này không đọc to được. Hãy thử Chrome, Edge hoặc Safari.",hfile:"Phát tệp âm thanh của bạn",pfile:"Mở tệp MP3 hoặc M4A trên thiết bị. Tệp không rời khỏi thiết bị của bạn.",lfile:"Tệp âm thanh",own:"Văn bản của bạn",foot:"Sách điện tử và bản nghe liên kết đến Christian Classics Ethereal Library (CCEL), Project Gutenberg, LibriVox và Internet Archive. Tiến độ đọc và sách đã lưu chỉ nằm trên thiết bị của bạn. Bản dịch và ấn bản hiện đại có thể còn bản quyền."},
  en:{allTypes:"All types",allEras:"All eras",clear:"Clear filters",sort0:"Default order",sort1:"Title A–Z",sort2:"Author A–Z",sort3:"Oldest first",sort4:"Newest first",
   ty_systematic:"Systematic theology",ty_commentary:"Commentary",ty_sermons:"Sermons",ty_devotional:"Devotional and prayer",ty_doctrine:"Doctrine and treatises",ty_catechism:"Creeds and catechisms",ty_history:"History and biography",ty_collected:"Collected works",ty_bible:"Bible",ty_classic:"Classics and literature",
   er_anc:"Before 1500",er_ref:"Reformation (1500s)",er_pur:"Puritan age (1600s)",er_aw:"Awakening era (1700s)",er_mod:"1800s",er_c20:"1900 and later",
-  sync:"Sync",about:"About",sh:"Sync across devices",sp:"The sync code is your secret: anyone with it can read and write your progress. Enter the same code on another device.",snew:"Create new code",suse:"Use this code",soff:"Turn off sync",sclose:"Close",sok:"Synced.",serr:"Sync failed, try again later.",sbad:"Invalid code (20–40 letters/digits).",rhere:"Read here",lede:"Free books and readings to read and listen to on your phone. Most titles are in the public domain, and every card names its source. No accounts, no fees.",h1:"Reformed books, <span>free to read</span>",start:"★ Start here",lang:"VI",theme:"◐",exp:"Export progress",imp:"Import progress",impok:"Progress imported.",imperr:"Invalid file.",search:"Search title or author",all:"All",reading:"Reading",done:"Finished",saved:"Saved",todo:"Not started",allAuthors:"All authors",other:"Classics and other",titles:"titles",of:"of",read:"Read",listen:"Listen",archive:"Archive",save:"☆ Save",saved2:"★ Saved",more:"Show more",cont:"Continue reading",cont2:"Continue",theology:"Theology",classic:"Classics",ccelnote:"Public domain. Source: CCEL.",mgnote:"Free ebook (English) at Monergism: EPUB, PDF, Kindle.",none:"No titles match that search.",nosaved:"Nothing saved yet. Tap Save on a book and it will appear here.",noreading:"Nothing here yet. Set a status on a book to track your progress.",htts:"Listen to any text",ptts:"Paste a chapter or pick a sample. Your device reads it aloud.",lsample:"Sample",ltxt:"Text",lvoice:"Voice",lrate:"Speed",bplay:"Play",bpause:"Pause",bstop:"Stop",addtext:"Add some text first.",playing:"Playing",paused:"Paused",stopped:"Stopped",fin:"Finished",nosyn:"This browser cannot read text aloud. Try Chrome, Edge or Safari.",hfile:"Play your own audio",pfile:"Open an MP3 or M4A from your device. It stays on your device.",lfile:"Audio file",own:"Your own text",foot:"Ebooks and audio link to the Christian Classics Ethereal Library (CCEL), Project Gutenberg, LibriVox and Internet Archive. Reading progress and saved books stay on your device. Translations and modern editions may still be under copyright."}
+  sync:"Sync",about:"About",sh:"Sync across devices",sp:"The sync code is your secret: anyone with it can read and write your progress. Enter the same code on another device.",snew:"Create new code",suse:"Use this code",soff:"Turn off sync",sclose:"Close",sok:"Synced.",serr:"Sync failed, try again later.",sbad:"Invalid code (20–40 letters/digits).",rhere:"Read here",lede:"Free Reformed books and audiobooks. No account needed.",h1:"Reformed books, <span>free to read</span>",start:"★ Start here",lang:"VI",theme:"◐",exp:"Export progress",imp:"Import progress",impok:"Progress imported.",imperr:"Invalid file.",search:"Search title or author",all:"All",reading:"Reading",done:"Finished",saved:"Saved",todo:"Not started",allAuthors:"All authors",other:"Classics and other",titles:"titles",of:"of",read:"Read",listen:"Listen",archive:"Archive",save:"☆ Save",saved2:"★ Saved",more:"Show more",cont:"Continue reading",cont2:"Continue",theology:"Theology",classic:"Classics",ccelnote:"Public domain. Source: CCEL.",mgnote:"Free ebook (English) at Monergism: EPUB, PDF, Kindle.",none:"No titles match that search.",nosaved:"Nothing saved yet. Tap Save on a book and it will appear here.",noreading:"Nothing here yet. Set a status on a book to track your progress.",htts:"Listen to any text",ptts:"Paste a chapter or pick a sample. Your device reads it aloud.",lsample:"Sample",ltxt:"Text",lvoice:"Voice",lrate:"Speed",bplay:"Play",bpause:"Pause",bstop:"Stop",addtext:"Add some text first.",playing:"Playing",paused:"Paused",stopped:"Stopped",fin:"Finished",nosyn:"This browser cannot read text aloud. Try Chrome, Edge or Safari.",hfile:"Play your own audio",pfile:"Open an MP3 or M4A from your device. It stays on your device.",lfile:"Audio file",own:"Your own text",foot:"Ebooks and audio link to the Christian Classics Ethereal Library (CCEL), Project Gutenberg, LibriVox and Internet Archive. Reading progress and saved books stay on your device. Translations and modern editions may still be under copyright."}
 };
 T.vi.allSources="Mọi nguồn";T.en.allSources="All sources";T.vi.allMedia="Mọi định dạng";T.en.allMedia="All formats";T.vi.authorPh="Tìm tác giả…";T.en.authorPh="Author…";
 T.vi.md_read="Đọc tại đây";T.en.md_read="Read here";T.vi.md_pdf="Có PDF";T.en.md_pdf="Has PDF";T.vi.md_epub="Có EPUB";T.en.md_epub="Has EPUB";T.vi.md_audio="Có bản nghe";T.en.md_audio="Has audio";
@@ -108,26 +108,49 @@ function passes(b){
   }
   return true;
 }
+function badges(b){
+  var o=[];if(b.au==="vn")o.push(["VI","vi"]);
+  if(b.read)o.push([st.lang==="vi"?"Đọc":"Read","r"]);
+  if(hasM(b,"pdf"))o.push(["PDF",""]);if(hasM(b,"epub"))o.push(["EPUB",""]);
+  if(hasM(b,"audio"))o.push(["🎧",""]);
+  if(!b.read&&b.url&&!hasM(b,"pdf")&&!hasM(b,"epub")&&!hasM(b,"audio"))o.push(["Web",""]);
+  if(!b.read&&!b.url)o.push(["Web",""]);
+  return o.map(function(x){return'<span class="bd '+x[1]+'">'+x[0]+'</span>'}).join("");
+}
 function card(b){
-  var lg=st.lang,d=b[lg]||b.en,o=b[lg==="vi"?"en":"vi"]||{};
-  var s=st.saved.indexOf(b.id)>=0,p=prog(b.id),acts;
-  if(b.url){
-    acts='<a class="p" href="'+b.url+'" target="_blank" rel="noopener">'+(b.au==="lv"?"🎧 "+tx("listen"):tx("read"))+'</a>'+(b.pdf?'<a class="s" href="'+b.pdf+'" target="_blank" rel="noopener">PDF</a>':"")+(b.epub?'<a class="s" href="'+b.epub+'" target="_blank" rel="noopener">EPUB</a>':"");
-  }else if(b.read){
-    acts='<a class="p" href="reader.html?id='+encodeURIComponent(b.id)+'">'+tx("rhere")+'</a>';
-    for(var f in b.dl)acts+='<a class="s" href="'+b.dl[f]+'" target="_blank" rel="noopener">'+f+'</a>';
-    acts+='<a class="s" href="'+b.read+'" target="_blank" rel="noopener">CCEL</a>';
-    if(AUDIO[b.id])acts+='<a class="s" href="'+b.read+'" target="_blank" rel="noopener" title="CCEL audio">🎧 CCEL</a>';
-    if(b.lv)acts+='<a class="s" href="'+b.lv+'" target="_blank" rel="noopener">🎧 LibriVox</a>';
+  var lg=st.lang,d=b[lg]||b.en,y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
+  return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine" style="background-color:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div></div></article>';
+}
+function sheetActs(b){
+  var lg=st.lang,vi=lg==="vi",x="",id=encodeURIComponent(b.id),ext=' target="_blank" rel="noopener"';
+  if(b.read){
+    x+='<a class="p" href="reader.html?id='+id+'">'+(vi?"Đọc tại đây":"Read here")+'</a>';
+    if(b.au!=="vn")x+='<a class="s2" href="reader.html?id='+id+'&tr=1">🌐 '+(vi?"Đọc bản dịch tiếng Việt (dịch máy)":"Read Vietnamese translation (machine)")+'</a>';
+    for(var f in b.dl)x+='<a class="s2" href="'+b.dl[f]+'"'+ext+'>⬇ '+f+'</a>';
+    x+='<a class="s2" href="'+b.read+'"'+ext+'>CCEL ↗</a>';
+    if(b.lv)x+='<a class="s2" href="'+b.lv+'"'+ext+'>🎧 LibriVox</a>';
+    if(AUDIO[b.id])x+='<a class="s2" href="'+b.read+'"'+ext+'>🎧 CCEL audio</a>';
+  }else if(b.url){
+    x+='<a class="p" href="'+b.url+'"'+ext+'>'+(b.au==="lv"?"🎧 "+tx("listen"):(vi?"Mở trang sách":"Open book page"))+' ↗</a>';
+    if(b.pdf)x+='<a class="s2" href="'+b.pdf+'"'+ext+'>⬇ PDF</a>';
+    if(b.epub)x+='<a class="s2" href="'+b.epub+'"'+ext+'>⬇ EPUB</a>';
   }else{
     var ks=b.q||b.en.t;
-    acts='<a class="p" href="'+G(ks)+'" target="_blank" rel="noopener">'+tx("read")+'</a><a class="s" href="'+L(b.en.t)+'" target="_blank" rel="noopener">'+tx("listen")+'</a><a class="s" href="'+A(ks)+'" target="_blank" rel="noopener">'+tx("archive")+'</a>';
+    x+='<a class="p" href="'+G(ks)+'"'+ext+'>'+tx("read")+' ↗</a><a class="s2" href="'+L(b.en.t)+'"'+ext+'>🎧 '+tx("listen")+'</a><a class="s2" href="'+A(ks)+'"'+ext+'>'+tx("archive")+'</a>';
   }
+  return x;
+}
+var curBk=null;
+function openBook(id){
+  var b=BOOKS.filter(function(z){return z.id===id})[0];if(!b)return;curBk=id;sheet(b);var dl=$("bk");if(!dl.open)dl.showModal();
+}
+function sheet(b){
+  var lg=st.lang,d=b[lg]||b.en,o=b[lg==="vi"?"en":"vi"]||{},p=prog(b.id),s=st.saved.indexOf(b.id)>=0;
   var y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
   var alt=(lg==="vi"&&o.t&&o.t!==d.t)?'<p class="alt">'+esc(o.t)+'</p>':"";
   var sel='<select data-pid="'+esc(b.id)+'" aria-label="'+tx("reading")+'">'+["todo","reading","done"].map(function(v){return'<option value="'+v+'"'+(p.s===v?" selected":"")+'>'+tx(v)+'</option>'}).join("")+'</select>';
   var rng=p.s==="reading"?'<div class="pr"><input type="range" min="0" max="100" step="5" value="'+p.p+'" data-rid="'+esc(b.id)+'" aria-label="%"><output>'+p.p+'%</output></div>':"";
-  return'<article class="book"><div class="spine" style="background-color:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><p class="by">'+esc(b.a)+'</p>'+alt+(DESC[b.id]?'<p class="desc">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+'<p class="src">'+esc(d.n)+'</p><div class="acts">'+acts+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+'</div></article>';
+  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+'<p class="src">'+esc(d.n)+'</p>';
 }
 function renderCont(){
   var r=BOOKS.filter(function(b){return prog(b.id).s==="reading"}).sort(function(a,b){return(prog(b.id).t||0)-(prog(a.id).t||0)}).slice(0,4);
@@ -157,10 +180,12 @@ function sorted(list){
 function nAct(){return(st.sr!=="all")+(!!st.an)+(st.md!=="all")+(st.ty!=="all")+(st.er!=="all")+(st.so!=="0")}
 function filtersOn(){return st.sr!=="all"||!!st.an||st.md!=="all"||st.ty!=="all"||st.er!=="all"||st.so!=="0"||st.q!==""||st.f!=="all"}
 var VIEW=(function(){try{return localStorage.getItem("rv.view")||"grid"}catch(e){return"grid"}})();
+function home(){return st.f==="all"&&!st.q&&st.sr==="all"&&!st.an&&st.md==="all"&&st.ty==="all"&&st.er==="all"&&st.so==="0"&&!st.br}
 function render(){
+  document.body.classList.toggle("home",home());
   var bar=document.querySelector(".bar");bar.classList.toggle("open",filtersOn()&&st.f==="all"||bar.dataset.o==="1");$("ftog").textContent=(st.lang==="vi"?"Bộ lọc":"Filters")+(nAct()?" · "+nAct():"")+(bar.classList.contains("open")?" ▴":" ▾");
   var all=sorted(BOOKS.filter(passes)),show=all.slice(0,st.limit);
-  $("clear").hidden=!filtersOn();
+  $("clear").hidden=!(filtersOn()||st.br);$("clear").textContent=filtersOn()?tx("clear"):(st.lang==="vi"?"‹ Trang chủ":"‹ Home");
   $("grid").className="grid"+(VIEW==="list"?" list":"");$("view").textContent=VIEW==="list"?"▦":"☰";
   $("grid").innerHTML=show.length?show.map(card).join(""):'<div class="empty">'+(st.f==="saved"?tx("nosaved"):(st.f==="reading"||st.f==="done")?tx("noreading"):tx("none"))+'</div>';
   $("count").textContent=all.length+" "+tx("of")+" "+BOOKS.length+" "+tx("titles");
@@ -173,25 +198,21 @@ function render(){
 var SHELVES=[
  {k:"start",f:"start",t:["★ Bắt đầu từ đây","★ Start here"],p:function(b){return START.indexOf(b.id)>=0},o:function(a,b){return START.indexOf(a.id)-START.indexOf(b.id)}},
  {k:"vn",sr:"vn",t:["Tiếng Việt","Vietnamese readings"],p:function(b){return b.au==="vn"}},
- {k:"aud",md:"audio",t:["Sách nói","Audiobooks"],p:function(b){return hasM(b,"audio")},o:function(a,b){return(a.au==="lv"?1:0)-(b.au==="lv"?1:0)}},
- {k:"ref",er:"ref",t:["Các nhà Cải Chánh","The Reformers"],p:function(b){return b.er==="ref"&&!b.mg&&b.au!=="ia"}},
- {k:"pur",er:"pur",t:["Thanh giáo","The Puritans"],p:function(b){return b.er==="pur"&&DESC[b.id]}},
- {k:"dev",ty:"devotional",t:["Suy niệm và cầu nguyện","Devotional and prayer"],p:function(b){return b.ty==="devotional"&&DESC[b.id]}},
- {k:"sys",ty:"systematic",t:["Thần học hệ thống","Systematic theology"],p:function(b){return b.ty==="systematic"&&b.au!=="ia"}},
- {k:"his",ty:"history",t:["Lịch sử và tiểu sử","History and biography"],p:function(b){return b.ty==="history"&&(DESC[b.id]||b.au==="vn")}}
+ {k:"aud",md:"audio",t:["Sách nói","Audiobooks"],p:function(b){return hasM(b,"audio")},o:function(a,b){return(a.au==="lv"?1:0)-(b.au==="lv"?1:0)}}
 ];
 function renderShelves(){
-  var el=$("shelves"),on=st.f==="all"&&!st.q&&st.sr==="all"&&!st.an&&st.md==="all"&&st.ty==="all"&&st.er==="all"&&st.so==="0";
-  $("allh").hidden=!on;$("allh").textContent=st.lang==="vi"?"Tất cả sách":"All titles";
+  var el=$("shelves"),on=home();
+  $("allh").hidden=true;$("bw").hidden=!on;$("browse").textContent=(st.lang==="vi"?"Xem toàn bộ thư viện ("+BOOKS.length+" tác phẩm)":"Browse the whole library ("+BOOKS.length+" titles)");renderTiles();
   if(!on){el.innerHTML="";return}
   var i=st.lang==="vi"?0:1;
   el.innerHTML=SHELVES.map(function(s){
     var l=BOOKS.filter(s.p);if(s.o)l.sort(s.o);else l.sort(function(a,b){return(DESC[b.id]?1:0)-(DESC[a.id]?1:0)});
-    l=l.slice(0,12);if(l.length<3)return"";
+    l=l.slice(0,8);if(l.length<3)return"";
     return'<section class="shelf"><div class="shelfh"><h2>'+s.t[i]+'</h2><button type="button" data-sh="'+s.k+'">'+(i?"See all":"Xem tất cả")+' →</button></div><div class="srow">'+l.map(card).join("")+'</div></section>';
   }).join("");
 }
 $("shelves").addEventListener("click",function(e){
+  if(e.target.closest("button[data-sh]")===null){var oc=e.target.closest("[data-open]");if(oc){openBook(oc.dataset.open);return}}
   var f=e.target.closest(".fav");
   if(f){var k=st.saved.indexOf(f.dataset.id);if(k<0)st.saved.push(f.dataset.id);else st.saved.splice(k,1);saveLS("rv.saved",st.saved);render();return}
   var b=e.target.closest("button[data-sh]");if(!b)return;
@@ -217,7 +238,6 @@ function buildAuthors(){
   opts("type",tx("allTypes"),TYPES.map(function(t){return[t,tx("ty_"+t)]}),st.ty);
   opts("era",tx("allEras"),ERAS.map(function(e){return[e,tx("er_"+e)]}),st.er);
   var so=$("sort"),cur=st.so;so.innerHTML=["0","1","2","3","4"].map(function(k){return'<option value="'+k+'">'+tx("sort"+k)+'</option>'}).join("");so.value=cur;
-  $("clear").textContent=tx("clear");
 }
 function labels(){
   document.documentElement.lang=st.lang;
@@ -238,7 +258,7 @@ $("sort").addEventListener("change",function(e){st.so=e.target.value;st.limit=PA
 $("ftog").addEventListener("click",function(){var bar=document.querySelector(".bar");bar.dataset.o=bar.dataset.o==="1"?"0":"1";render()});
 $("view").addEventListener("click",function(){VIEW=VIEW==="list"?"grid":"list";try{localStorage.setItem("rv.view",VIEW)}catch(e){}render()});
 $("clear").addEventListener("click",function(){
-  st.q="";st.sr="all";st.an="";st.md="all";st.ty="all";st.er="all";st.so="0";st.f="all";st.limit=PAGE;
+  st.br=0;st.q="";st.sr="all";st.an="";st.md="all";st.ty="all";st.er="all";st.so="0";st.f="all";st.limit=PAGE;
   $("q").value="";[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f==="all")});
   buildAuthors();render();
 });
@@ -302,3 +322,34 @@ if(code())run();
 
 labels();
 Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("lv.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("dg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("audio.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];LV=x[5];DGJ=x[6];if(x[7]&&x[7].ccel)x[7].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
+
+/* ---------- home tiles, menu links, detail sheet ---------- */
+var TILES=[
+ ["lo-trinh.html","Mới bắt đầu","New here","Lộ trình đọc từng bước","A step-by-step path",1],
+ ["tieng-viet.html","Sách tiếng Việt","Vietnamese","Đọc ngay, không cần dịch","Read right away"],
+ ["chu-de/","Theo chủ đề","By topic","Ân điển, Ba Ngôi, Hội Thánh…","Grace, Trinity, Church…"],
+ ["sach-noi.html","Sách nói","Audio","Nghe khi đi đường","Listen on the go"],
+ ["hom-nay.html","Hôm nay","Today","Bài đọc mỗi ngày","A reading for today"],
+ ["tac-gia.html","Tác giả","Authors","Calvin, Owen, Spurgeon…","Calvin, Owen, Spurgeon…"]
+];
+function renderTiles(){var i=st.lang==="vi"?0:1;$("tiles").innerHTML=TILES.map(function(t){return'<a class="tile'+(t[5]?" first":"")+'" href="'+t[0]+'"><b>'+t[1+i]+'</b><span>'+t[3+i]+'</span></a>'}).join("");
+  var M=[["lo-trinh.html","Lộ trình đọc","Reading path"],["chu-de/","Chủ đề","Topics"],["hom-nay.html","Hôm nay","Today"],["sach-noi.html","Sách nói","Audio"],["tac-gia.html","Tác giả","Authors"],["feed.xml","RSS","RSS"]];
+  $("mx").innerHTML=M.map(function(m){return'<a class="btn" href="'+m[0]+'">'+m[1+i]+'</a>'}).join("")}
+$("browse").addEventListener("click",function(){st.br=1;st.limit=PAGE;render();window.scrollTo(0,0)});
+$("grid").addEventListener("click",function(e){if(e.target.closest(".fav"))return;var oc=e.target.closest("[data-open]");if(oc)openBook(oc.dataset.open)});
+document.addEventListener("keydown",function(e){if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches(".book[data-open]")){e.preventDefault();openBook(e.target.dataset.open)}});
+$("bk").addEventListener("click",function(e){
+  if(e.target===$("bk")||e.target.closest(".bk-x")){$("bk").close();return}
+  var f=e.target.closest(".fav");
+  if(f){var k=st.saved.indexOf(f.dataset.id);if(k<0)st.saved.push(f.dataset.id);else st.saved.splice(k,1);saveLS("rv.saved",st.saved);openBook(curBk);render()}
+});
+$("bk").addEventListener("change",function(e){
+  var s=e.target.closest("select[data-pid]");
+  if(s){var id=s.dataset.pid,v=s.value,cur=prog(id);st.prog[id]={s:v,p:v==="done"?100:v==="todo"?0:(cur.p||0),t:Date.now()};if(v==="todo")delete st.prog[id];saveLS("rv.prog",st.prog);openBook(curBk);render();return}
+  var r=e.target.closest("input[data-rid]");if(r)render();
+});
+$("bk").addEventListener("input",function(e){
+  var r=e.target.closest("input[data-rid]");if(!r)return;
+  var id=r.dataset.rid,p=+r.value;st.prog[id]={s:p>=100?"done":"reading",p:p,t:Date.now()};r.nextElementSibling.textContent=p+"%";saveLS("rv.prog",st.prog);
+});
+(function(){var br=document.querySelector(".brand");br.style.cursor="pointer";br.addEventListener("click",function(){$("clear").click();window.scrollTo(0,0)})})();
