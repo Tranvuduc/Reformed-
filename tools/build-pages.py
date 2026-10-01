@@ -128,6 +128,12 @@ exec(open('tools/vn_context.py', encoding='utf-8').read())
 exec(open('tools/subscribe_page.py', encoding='utf-8').read())
 
 # sitemap
+# drop links to author pages that were not generated (authors with fewer than 2 items)
+import glob as _g
+for _f in _g.glob("b/*.html"):
+    _t = open(_f, encoding="utf-8").read()
+    _n = re.sub(r' ?<a class="btn s" href="/a/([^"]+\.html)">[^<]*</a>', lambda m: m.group(0) if os.path.exists("a/" + m.group(1)) else "", _t)
+    if _n != _t: open(_f, "w", encoding="utf-8").write(_n)
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
 open("sitemap.xml", "w", encoding="utf-8").write(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
 print("pages:", len(urls), "book pages:", count_b, "author pages:", sum(1 for a in authors.values() if "path" in a))

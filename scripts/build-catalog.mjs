@@ -95,5 +95,9 @@ await Promise.all(Array.from({ length: 16 }, async () => {
   }
 }));
 console.log("dead download links removed:", bad);
-fs.writeFileSync("ia.json", JSON.stringify(reformedOnly(names, rows, true)));
+{
+  const res = reformedOnly(names, rows, true), seen = new Set();
+  const dd = res.b.filter(r => { const k = r[0] + "|" + String(r[1]).toLowerCase().replace(/\W+/g, " ").trim().slice(0, 40); if (seen.has(k)) return false; seen.add(k); return true; });
+  fs.writeFileSync("ia.json", JSON.stringify({ ...res, b: dd }));
+}
 console.log("total", rows.length);
