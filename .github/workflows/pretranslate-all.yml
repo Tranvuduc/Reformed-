@@ -1,0 +1,38 @@
+name: Pre-translate ALL (parallel shards)
+on:
+  workflow_dispatch:
+    inputs:
+      pages: { description: "Max pages per book", default: "400" }
+      lists: { description: "Priority lists to include", default: "tier1,tier2" }
+permissions:
+  contents: read
+jobs:
+  tr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { provider: gemini, model: gemini-flash-latest, shard: "0/6", bot: g1 }
+          - { provider: gemini, model: gemini-3-flash-preview, shard: "1/6", bot: g2 }
+          - { provider: gemini, model: gemini-2.5-flash-lite, shard: "2/6", bot: g3 }
+          - { provider: groq, model: openai/gpt-oss-120b, shard: "3/6", bot: q1 }
+          - { provider: groq, model: qwen/qwen3.8-27b, shard: "4/6", bot: q2 }
+          - { provider: groq, model: openai/gpt-oss-20b, shard: "5/6", bot: q3 }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm i --no-save playwright && npx playwright install --with-deps chromium
+      - run: |
+          IDS=$(node -e "const p=require('./tools/priority.json');console.log('${{ inputs.lists }}'.split(',').flatMap(k=>p[k.trim()]||[]).filter(x=>!x.startsWith('vn-')).join(','))")
+          node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
+        env:
+          PROVIDER: ${{ matrix.provider }}
+          BOT_NAME: ${{ matrix.bot }}
+          SHARD: ${{ matrix.shard }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_MODEL_FORCE: ${{ matrix.provider == 'gemini' && matrix.model || '' }}
+          GROQ_MODEL: ${{ matrix.provider == 'groq' && matrix.model || '' }}

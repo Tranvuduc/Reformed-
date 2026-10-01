@@ -4,7 +4,7 @@ import { chromium } from 'playwright';
 import fs from 'node:fs';
 const GKEY = process.env.GROQ_API_KEY || '';
 const GROQ_MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
-const KEY = process.env.GEMINI_API_KEY || GKEY;
+const KEY = process.env.PROVIDER === 'groq' ? GKEY : (process.env.GEMINI_API_KEY || GKEY);
 const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const gl = JSON.parse(fs.readFileSync(new URL('./glossary.json', import.meta.url), 'utf8'));
 const SYS = `You translate public-domain Reformed Christian literature from English into natural, reverent Vietnamese for Vietnamese Protestant readers. Be faithful to the author; no additions or commentary; keep Scripture references; render Scripture in the Vietnamese Bible style (Kinh Thánh Tiếng Việt 1934 wording where possible). Use this glossary: ${JSON.stringify(gl)}. You receive a JSON array of paragraphs; return a JSON array of strings with exactly the same length and order, one translation per paragraph.`;
@@ -12,7 +12,7 @@ let lastCall = 0, lastErr = '';
 let gModel = MODEL, qModel = GROQ_MODEL;
 async function pickModels() {
   try {
-    if (process.env.GEMINI_API_KEY) {
+    if (process.env.PROVIDER ? process.env.PROVIDER === 'gemini' : process.env.GEMINI_API_KEY) {
       const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=100', { headers: { 'x-goog-api-key': KEY } });
       const j = await r.json();
       const ids = (j.models || []).filter(m => (m.supportedGenerationMethods || []).includes('generateContent')).map(m => m.name.replace('models/', ''));
@@ -85,21 +85,22 @@ async function gemini(src) {
   }
   throw new Error('gemini failed');
 }
-const ids = (process.argv[2] || '').split(',').map(s => s.trim()).filter(Boolean);
+let ids = (process.argv[2] || '').split(',').map(s => s.trim()).filter(Boolean);
+if (process.env.SHARD) { const [i, n] = process.env.SHARD.split('/').map(Number); ids = ids.filter((_, k) => k % n === i); }
 const maxP = +process.argv[3] || 400;
 const site = (process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '');
-const BOT = process.env.BOT_NAME || 'bot';
+const BOT = (process.env.BOT_NAME || 'bot').toLowerCase().replace(/[^a-z0-9-]/g, '-').slice(0, 20);
 const hist = [];
 async function report(msg) { console.log(msg); hist.push(msg.slice(0, 420)); if (hist.length > 6) hist.shift(); msg = hist.join(' || '); try { await fetch(`${(process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
 const deadline = Date.now() + 5.5 * 3600 * 1000;
-await report('start; models: ' + (process.env.GEMINI_API_KEY ? gModel : qModel) + ' | ' + lastErr);
+await report('start; models: ' + ((process.env.PROVIDER ? process.env.PROVIDER === 'gemini' : process.env.GEMINI_API_KEY) ? gModel : qModel) + ' | ' + lastErr);
 const b = await chromium.launch();
 for (const id of ids) {
   if (Date.now() > deadline) break;
   const ctx = await b.newContext({ viewport: { width: 420, height: 800 } });
   const p = await ctx.newPage();
   await p.addInitScript(() => { try { localStorage.setItem('rv.trm', '1'); localStorage.setItem('rv.lang', 'vi'); } catch (e) {} });
-  if (KEY) await p.exposeFunction('__trBatch', process.env.GEMINI_API_KEY ? gemini : groq);
+  if (KEY) await p.exposeFunction('__trBatch', (process.env.PROVIDER ? process.env.PROVIDER === 'gemini' : process.env.GEMINI_API_KEY) ? gemini : groq);
   let posts = 0, fails = 0;
   p.on('request', r => { if (r.method() === 'POST' && r.url().includes('/api/tr')) posts++; });
   try {
