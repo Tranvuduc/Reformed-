@@ -288,7 +288,9 @@ function getTr2(i,src,onP,tok){
     for(var w=0;w<conc;w++)worker();
   });
 }
-function paint(k,v){var e=$("txt").querySelector('[data-k="'+k+'"]');if(!e)return;e.innerHTML=esc(v)+(trm==="2"?'<span class="orig">'+esc(ptexts(cur)[k])+"</span>":"")}
+var FIX=[[/(?:Đức )?Chúa Giê-?su Ki-?tô|(?:Đức )?Chúa Giêsu Kitô|Giê-?su Ki-?tô|Giêsu Kitô/gi,"Chúa Jesus Christ"],[/Đức Chúa Giê-?xu|Đức Chúa Giê-?su|Chúa Giê-?su|Chúa Giê-?xu|Chúa Giêsu/gi,"Chúa Jesus"],[/Giê-?su|Giêsu|Giê-xu/gi,"Jesus"],[/Ki-?tô/gi,"Christ"],[/biện minh cho (tôi|chúng ta|ta|họ|người|kẻ|con)/gi,"xưng công bình cho $1"],[/(được|bị|đã|sẽ|đang) biện minh/gi,"$1 xưng công bình"],[/sự biện minh/gi,"sự xưng công bình"],[/sự thánh hóa|sự thánh hoá|thánh hóa|thánh hoá/gi,"sự nên thánh"],[/Chúa Thánh Thần|Thánh Thần/gi,"Đức Thánh Linh"],[/Thiên Chúa/gi,"Đức Chúa Trời"],[/Giáo hội/gi,"Hội Thánh"],[/Thánh Kinh|Kinh thánh/g,"Kinh Thánh"],[/Tin Mừng|Tin mừng/g,"Tin Lành"],[/ân sủng/gi,"ân điển"],[/tái sinh/gi,"tái sanh"],[/(Đức )?(Chúa )+(Chúa )/g,"Chúa "],[/Đức Đức/g,"Đức"],[/Chúa Chúa/g,"Chúa"]];
+function fixVi(t){if(!t)return t;for(var i=0;i<FIX.length;i++){t=t.replace(FIX[i][0],function(){var a=arguments,r=FIX[i][1].replace(/\$(\d)/g,function(_,n){return a[+n]||""});var c0=a[0].charAt(0);return c0!==c0.toLowerCase()?r.charAt(0).toUpperCase()+r.slice(1):r})}return t}
+function paint(k,v){v=fixVi(v);var e=$("txt").querySelector('[data-k="'+k+'"]');if(!e)return;e.innerHTML=esc(v)+(trm==="2"?'<span class="orig">'+esc(ptexts(cur)[k])+"</span>":"")}
 function runTr(i){
   var tok=trTok,st=$("trs");st.hidden=false;st.textContent=L.tr1;
   var n=pages[i].b-pages[i].a,c=0;

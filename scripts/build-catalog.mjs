@@ -26,7 +26,7 @@ for (const a of [...new Set(AUTHORS)]) {
   for (const d of docs) {
     const title = (Array.isArray(d.title) ? d.title[0] : d.title || "").replace(/\s+/g, " ").trim();
     const k = nk(title);
-    if (!title || title.length < 4 || seen.has(k) || !ok(d) || (AMBIG.has(a) && !THEO.test(title)) || /travel|geograph|grammar|arithmetic|railroad|catalog|directory|almanac|genealog|visitation/i.test(title)) continue;
+    if (!title || title.length < 4 || seen.has(k) || !ok(d) || (AMBIG.has(a) && !THEO.test(title)) || /travel|geograph|grammar|arithmetic|railroad|catalog|directory|almanac|genealog|visitation|poem|poetical|poetry|primitive remed|medicine|medical|novel|romance/i.test(title)) continue;
     const f = [].concat(d.format || []).join("|");
     const pdf = /PDF/i.test(f) ? 1 : 0, epub = /EPUB/i.test(f) ? 1 : 0;
     if (!pdf && !epub) continue;
