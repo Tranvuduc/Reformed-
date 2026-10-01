@@ -62,7 +62,7 @@ async function groq1(src) {
             { role: 'user', content: JSON.stringify({ paragraphs: src }) }]
         })
       });
-      if (r.status === 404 && PROV !== 'groq') { const C = ['openai/gpt-oss-120b', 'meta/llama-3.1-70b-instruct', 'nvidia/llama-3.3-nemotron-super-49b-v1', 'mistralai/mistral-large-2-instruct', 'qwen/qwen3-next-80b-a3b-instruct', 'meta/llama-3.3-70b-instruct', 'meta/llama-3.1-405b-instruct']; lastErr = '404 ' + qModel; qModel = C[(C.indexOf(qModel) + 1) % C.length]; continue; }
+      if ((r.status === 404 || r.status === 410) && PROV !== 'groq') { const C = ['openai/gpt-oss-120b', 'meta/llama-3.1-70b-instruct', 'nvidia/llama-3.3-nemotron-super-49b-v1', 'mistralai/mistral-large-2-instruct', 'qwen/qwen3-next-80b-a3b-instruct', 'meta/llama-3.3-70b-instruct', 'meta/llama-3.1-405b-instruct']; lastErr = '404 ' + qModel; qModel = C[(C.indexOf(qModel) + 1) % C.length]; continue; }
       if (r.status === 429 || r.status >= 500) { await new Promise(r => setTimeout(r, 30000 * (a + 1))); continue; }
       if (!r.ok) { lastErr = 'groq ' + r.status + ' ' + (await r.text()).replace(/\s+/g, ' ').replace(OAI.key, '***').slice(0, 300); throw new Error(lastErr); }
       const j = await r.json();
