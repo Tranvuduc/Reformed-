@@ -148,6 +148,6 @@ body:not(.home) #bw{display:none}
 @media(max-width:600px){.book .src{display:none}.tiles{grid-template-columns:repeat(2,1fr)}}
 .sacts{display:grid;grid-template-columns:1fr 1fr}.sacts a.p,.sacts a.s2:nth-child(2){grid-column:1/-1}
 .tile svg{color:var(--accent);margin-bottom:6px}.tile.first svg{color:inherit}
-.hero{position:relative;isolation:isolate}.hero::after{content:"";position:absolute;z-index:-1;right:-16px;top:0;bottom:0;width:min(62%,420px);background:#e8dfc9 url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dore_Bible_Sermon_on_the_Mount.jpg/500px-Dore_Bible_Sermon_on_the_Mount.jpg") 50% 14%/cover no-repeat;opacity:.2;mix-blend-mode:multiply;-webkit-mask-image:linear-gradient(to left,#000 30%,transparent);mask-image:linear-gradient(to left,#000 30%,transparent);pointer-events:none}
+.hero{position:relative;isolation:isolate}.hero::after{content:"";position:absolute;z-index:-1;right:-16px;top:0;bottom:0;width:min(62%,420px);background:#e8dfc9 url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dore_Bible_Sermon_on_the_Mount.jpg/500px-Dore_Bible_Sermon_on_the_Mount.jpg") 50% 14%/cover no-repeat;opacity:.2;mix-blend-mode:multiply;-webkit-mask-image:radial-gradient(ellipse at 55% 45%,#000 25%,transparent 72%);mask-image:radial-gradient(ellipse at 55% 45%,#000 25%,transparent 72%);pointer-events:none}
 :root[data-theme=dark] .hero::after{mix-blend-mode:screen;opacity:.1;filter:invert(1)}
 @media(prefers-color-scheme:dark){:root:not([data-theme=light]) .hero::after{mix-blend-mode:screen;opacity:.1;filter:invert(1)}}
