@@ -12,7 +12,7 @@ for (const topic of TOPICS) {
   for (let page = 0; page < 12 && url; page++) {
     let j = null;
     for (let t = 0; t < 3 && !j; t++) {
-      try { const r = await fetch(url, { headers: { "User-Agent": "reformed-vietnam-catalog" } }); if (r.ok) j = await r.json(); else await sleep(4000); } catch { await sleep(4000); }
+      try { const r = await fetch(url, { headers: { "User-Agent": "reformed-vietnam-catalog" }, signal: AbortSignal.timeout(20000) }); if (r.ok) j = await r.json(); else await sleep(4000); } catch { await sleep(4000); }
     }
     if (!j) break;
     let n = 0;
