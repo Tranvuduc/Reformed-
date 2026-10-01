@@ -48,11 +48,12 @@ for r in ia["b"]:
 
 urls = ["", "about.html", "tac-gia.html", "tieng-viet.html"]
 count_b = 0
+NR = set(books.get('noread', []))
 
 # book pages for described CCEL books
 for k, a in authors.items():
     for bid, title, yr in a["ccel"]:
-        if bid not in desc: continue
+        if bid not in desc or bid in NR: continue
         en_d, vi_d = desc[bid]; vt = vi.get(bid, title)
         bs = slug(bid.replace("/", "-")); path = f"b/{bs}.html"
         ttl = f"{vt} – {a['name']} | Đọc miễn phí"
@@ -69,7 +70,7 @@ for k, a in authors.items():
     items = []
     for bid, title, yr in a["ccel"][:80]:
         vt = vi.get(bid)
-        link = "/" + a.get("pages", {}).get(bid, f"reader.html?id={bid}")
+        link = ("https://ccel.org/ccel/" + bid) if bid in NR else "/" + a.get("pages", {}).get(bid, f"reader.html?id={bid}")
         lab = f"{E(vt)} <small>({E(title)})</small>" if vt and vt != title else E(title)
         d = f'<br><small>{E(desc[bid][1])}</small>' if bid in desc else ""
         items.append(f'<li><a href="{link}">{lab}</a>{f" <small>{yr}</small>" if yr else ""}{d}</li>')

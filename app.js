@@ -53,12 +53,14 @@ function eraOf(y){return y<1500?"anc":y<1600?"ref":y<1700?"pur":y<1800?"aw":y<19
 var IA=null,LV=null,DGJ=null;
 function lvu(p){return(p.indexOf("details/")===0?"https://archive.org/":"https://librivox.org/")+p}
 function expand(d){
+  var NR={};(d.noread||[]).forEach(function(k){NR[k]=1});
   var out=[],vi=d.vi||{};
   d.authors.forEach(function(au){
     var col="hsl("+hue(au.id)+",42%,30%)";
     AUTHORS.push({id:au.id,name:au.name});
     var add=function(slug,title,year,vt){
       var key=au.id+"/"+slug,i=au.id.charAt(0),base="https://ccel.org/ccel/"+au.id+"/"+slug+"/"+slug;
+      if(NR[key]){out.push({id:key,c:"theology",ty:typeOf(title,key,d.types),er:au.era||"mod",y:year||0,col:col,a:au.name,au:au.id,url:"https://ccel.org/ccel/"+au.id+"/"+slug,en:{t:title,n:T.en.ccelnote},vi:{t:vi[key]||vt||title,n:T.vi.ccelnote}});return}
       out.push({id:key,c:"theology",ty:typeOf(title,key,d.types),er:au.era||"mod",y:year||0,col:col,a:au.name,au:au.id,
         en:{t:title,n:T.en.ccelnote},vi:{t:vi[key]||vt||title,n:T.vi.ccelnote},
         read:base,listen:base+"/mp3",

@@ -31,6 +31,7 @@ for slug, name, intro, ren, rvi in TOPICS:
     rx, rv = re.compile(ren, re.I), re.compile(rvi, re.I)
     cc = []
     for key, (au, en) in _T.items():
+        if key in NR: continue
         if rx.search(en) or rx.search(_VI.get(key, "")) or rv.search(_VI.get(key, "")):
             cc.append((_score(key, au), en, key, au))
     cc.sort(key=lambda t: (t[0], t[1]))
