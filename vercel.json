@@ -27,5 +27,42 @@
     }
    ]
   }
+ ],
+ "redirects": [
+  {
+   "source": "/sach",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/books",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/authors",
+   "destination": "/tac-gia.html",
+   "permanent": true
+  },
+  {
+   "source": "/tac-gia",
+   "destination": "/tac-gia.html",
+   "permanent": true
+  },
+  {
+   "source": "/courses",
+   "destination": "/khoa-hoc.html",
+   "permanent": true
+  },
+  {
+   "source": "/quotes",
+   "destination": "/trich-dan.html",
+   "permanent": true
+  },
+  {
+   "source": "/topics",
+   "destination": "/chu-de/",
+   "permanent": true
+  }
  ]
 }
