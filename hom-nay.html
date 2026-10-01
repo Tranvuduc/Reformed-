@@ -22,4 +22,4 @@ document.getElementById("me").innerHTML='<h2>Spurgeon: Sáng và Tối</h2><p>B�
 document.getElementById("wq").textContent=(doy-1)%107+1;document.getElementById("hd").textContent=Math.min(52,Math.floor((doy-1)/7)+1);
 try{var p=JSON.parse(localStorage.getItem("rv.prog")||"{}"),best=null;for(var id in p)if(p[id].s==="reading"&&(!best||p[id].t>p[best].t))best=id;
 if(best){document.getElementById("cont").hidden=false;document.getElementById("contp").innerHTML='<a href="/reader.html?id='+best+'">'+best.split("/")[1]+' ('+p[best].p+'%)</a>'}}catch(e){}})()</script>
-<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · Liên hệ: reformedvn@gmail.com</footer></main></body></html>
+<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="https://reformed-vietnam.vercel.app/nhan-bai.html" rel="noopener">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</footer></main></body></html>

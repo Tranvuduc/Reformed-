@@ -125,6 +125,7 @@ exec(open('tools/courses.py', encoding='utf-8').read())
 exec(open('tools/quotes.py', encoding='utf-8').read())
 exec(open('tools/glossary.py', encoding='utf-8').read())
 exec(open('tools/vn_context.py', encoding='utf-8').read())
+exec(open('tools/subscribe_page.py', encoding='utf-8').read())
 
 # sitemap
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)

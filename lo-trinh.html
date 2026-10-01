@@ -19,4 +19,4 @@
 <script>(function(){var K="rv.plan",s={};try{s=JSON.parse(localStorage.getItem(K)||"{}")}catch(e){}
 var bx=document.querySelectorAll("input[data-k]");function upd(){var d=0;bx.forEach(function(b){if(b.checked)d++});document.getElementById("pg").textContent="Đã đọc "+d+" / "+bx.length}
 bx.forEach(function(b){b.checked=!!s[b.dataset.k];b.onchange=function(){s[b.dataset.k]=b.checked?1:0;try{localStorage.setItem(K,JSON.stringify(s))}catch(e){}upd()}});upd()})()</script>
-<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · Liên hệ: reformedvn@gmail.com</footer></main></body></html>
+<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="https://reformed-vietnam.vercel.app/nhan-bai.html" rel="noopener">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</footer></main></body></html>
