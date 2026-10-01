@@ -1,4 +1,4 @@
-import { put, get } from '@vercel/blob';
+import { put, get, list } from '@vercel/blob';
 import { Readable } from 'node:stream';
 const ID = /^[a-z0-9_-]{1,60}\/[a-z0-9_.-]{1,80}$/i, H = /^[a-z0-9]{4,16}$/;
 const key = (id, h) => 'tr/' + id.replace('/', '__') + '/' + h + '.json';
@@ -9,6 +9,12 @@ async function body(req){
 }
 export default async function handler(req, res) {
   try {
+    if (req.method === 'GET' && req.query.stats) {
+      res.setHeader('Cache-Control', 'no-store');
+      const per = {}; let n = 0, cursor;
+      do { const r = await list({ prefix: 'tr/', cursor, limit: 1000 }); for (const b of r.blobs) { n++; const k = b.pathname.split('/')[1]; per[k] = (per[k] || 0) + 1; } cursor = r.hasMore ? r.cursor : undefined; } while (cursor && n < 50000);
+      return res.status(200).json({ pages: n, books: Object.keys(per).length, per });
+    }
     if (req.method === 'GET') {
       const id = String(req.query.id || ''), h = String(req.query.h || '');
       if (!ID.test(id) || !H.test(h)) return res.status(400).json({ error: 'bad' });
