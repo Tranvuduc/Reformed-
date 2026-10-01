@@ -1,0 +1,31 @@
+{
+ "headers": [
+  {
+   "source": "/(.*)\\.(json|css|js)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=300, stale-while-revalidate=604800"
+    }
+   ]
+  },
+  {
+   "source": "/img/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=31536000, immutable"
+    }
+   ]
+  },
+  {
+   "source": "/(a|b|chu-de|doc)/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=3600, stale-while-revalidate=604800"
+    }
+   ]
+  }
+ ]
+}

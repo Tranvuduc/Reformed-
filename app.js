@@ -53,6 +53,7 @@ function eraOf(y){return y<1500?"anc":y<1600?"ref":y<1700?"pur":y<1800?"aw":y<19
 var IA=null,LV=null,DGJ=null,PG=null;
 function lvu(p){return(p.indexOf("details/")===0?"https://archive.org/":"https://librivox.org/")+p}
 function expand(d){
+  AUTHORS.length=0;
   var NR={};(d.noread||[]).forEach(function(k){NR[k]=1});
   var out=[],vi=d.vi||{};
   d.authors.forEach(function(au){
@@ -345,7 +346,13 @@ if(code())run();
 })();
 
 labels();
-Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("lv.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("dg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("audio.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("pg.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];LV=x[5];DGJ=x[6];PG=x[8];if(x[7]&&x[7].ccel)x[7].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
+var jf=function(u){return fetch(u).then(function(r){return r.json()}).catch(function(){return null})};
+/* Core data first (fast first paint); the big Internet Archive / Gutenberg catalogs stream in afterwards. */
+var rest=Promise.all([jf("ia.json"),jf("pg.json")]);
+Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"),jf("vi.json"),jf("desc.json"),jf("lv.json"),jf("dg.json"),jf("audio.json")]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}LV=x[4];DGJ=x[5];if(x[6]&&x[6].ccel)x[6].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}
+  BOOKS=expand(d);buildAuthors();render();
+  return rest.then(function(y){if(!y[0]&&!y[1])return;IA=y[0];PG=y[1];BOOKS=expand(d);buildAuthors();render()});
+}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
 
 /* ---------- home tiles, menu links, detail sheet ---------- */
 var TILES=[
