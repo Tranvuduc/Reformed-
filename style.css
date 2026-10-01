@@ -147,3 +147,5 @@ body:not(.home) #bw{display:none}
 .sheet .foot2{display:flex}.sheet .foot2 select{display:block}
 @media(max-width:600px){.book .src{display:none}.tiles{grid-template-columns:repeat(2,1fr)}}
 .sacts{display:grid;grid-template-columns:1fr 1fr}.sacts a.p,.sacts a.s2:nth-child(2){grid-column:1/-1}
+.tile svg{color:var(--accent);margin-bottom:6px}.tile.first svg{color:inherit}
+.hero{position:relative}.hero::after{content:"";position:absolute;right:0;top:6px;width:64px;height:84px;opacity:.14;background:no-repeat center/contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 52' fill='none' stroke='%239a3412' stroke-width='2.2' stroke-linecap='round'%3E%3Cpath d='M20 3v46M8 17h24'/%3E%3C/svg%3E");pointer-events:none}
