@@ -16,12 +16,18 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
       - run: node scripts/build-catalog.mjs
-      - run: python3 tools/build-pages.py
       - run: |
           git config user.name "catalog-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -A ia.json a b tac-gia.html tieng-viet.html sach-noi.html sitemap.xml hom-nay.html lo-trinh.html feed.xml chu-de
-          git diff --cached --quiet && exit 0
-          git commit -m "Update Internet Archive catalog"
-          for i in 1 2 3 4; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
+          cp ia.json /tmp/ia.new.json
+          for i in 1 2 3 4 5; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            cp /tmp/ia.new.json ia.json
+            python3 tools/build-pages.py
+            git add -A ia.json a b tac-gia.html tieng-viet.html sach-noi.html sitemap.xml hom-nay.html lo-trinh.html feed.xml chu-de khoa-hoc.html trich-dan.html
+            git diff --cached --quiet && exit 0
+            git commit -q -m "Update Internet Archive catalog"
+            git push -q origin HEAD:main && exit 0
+            sleep $((RANDOM%10+3))
+          done
           exit 1
