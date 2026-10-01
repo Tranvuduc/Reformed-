@@ -278,10 +278,12 @@ function code(){try{return localStorage.getItem(K)||""}catch(e){return""}}
 function merge(r){
   var ch=0;(r.saved||[]).forEach(function(id){if(st.saved.indexOf(id)<0){st.saved.push(id);ch=1}});
   var rp=r.prog||{};for(var id in rp){var l=st.prog[id];if(!l||(rp[id].t||0)>(l.t||0)){st.prog[id]=rp[id];ch=1}}
+  var rh=r.hl||{};for(var hid in rh){try{var lh=JSON.parse(localStorage.getItem("rv.hl."+hid)||"[]"),m={};lh.concat(rh[hid]).forEach(function(h){var o=m[h.g];if(!o||(h.t||0)>(o.t||0))m[h.g]=h});localStorage.setItem("rv.hl."+hid,JSON.stringify(Object.keys(m).map(function(k){return m[k]})))}catch(e){}}
   if(ch){saveLS("rv.saved",st.saved);saveLS("rv.prog",st.prog);render();renderCont()}
 }
+function allHl(){var o={};try{for(var i=0;i<localStorage.length;i++){var k=localStorage.key(i);if(k.indexOf("rv.hl.")===0){var v=JSON.parse(localStorage.getItem(k)||"[]");if(v.length)o[k.slice(6)]=v}}}catch(e){}return o}
 function pull(c){return fetch(API+"?c="+c).then(function(r){if(!r.ok)throw 0;return r.json()}).then(merge)}
-function push(c){return fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({c:c,saved:st.saved,prog:st.prog})}).then(function(r){if(!r.ok)throw 0})}
+function push(c){return fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({c:c,saved:st.saved,prog:st.prog,hl:allHl()})}).then(function(r){if(!r.ok)throw 0})}
 function run(){var c=code();if(!c||busy)return Promise.resolve();busy=1;
   return pull(c).then(function(){return push(c)}).then(function(){st2.textContent=tx("sok")}).catch(function(){st2.textContent=tx("serr")}).then(function(){busy=0})}
 function later(){clearTimeout(timer);timer=setTimeout(run,4000)}

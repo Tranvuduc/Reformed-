@@ -3,7 +3,7 @@ import { Readable } from 'node:stream';
 const OK = /^[a-z0-9]{20,40}$/;
 async function body(req){
   if (req.body && typeof req.body === 'object') return req.body;
-  let s=''; for await (const c of req) { s+=c; if (s.length>300000) throw new Error('big'); }
+  let s=''; for await (const c of req) { s+=c; if (s.length>700000) throw new Error('big'); }
   return s ? JSON.parse(s) : {};
 }
 export default async function handler(req, res) {
@@ -13,7 +13,7 @@ export default async function handler(req, res) {
       const c = String(req.query.c || '');
       if (!OK.test(c)) return res.status(400).json({ error: 'bad code' });
       const r = await get('sync/' + c + '.json', { access: 'private', useCache: false });
-      if (!r || r.statusCode !== 200) return res.status(200).json({ saved: [], prog: {} });
+      if (!r || r.statusCode !== 200) return res.status(200).json({ saved: [], prog: {}, hl: {} });
       res.setHeader('Content-Type', 'application/json');
       return Readable.fromWeb(r.stream).pipe(res);
     }
@@ -21,8 +21,15 @@ export default async function handler(req, res) {
       const b = await body(req);
       if (!OK.test(String(b.c || '')) || !Array.isArray(b.saved) || typeof b.prog !== 'object' || !b.prog)
         return res.status(400).json({ error: 'bad data' });
-      const data = JSON.stringify({ saved: b.saved.slice(0, 5000), prog: b.prog });
-      if (data.length > 250000) return res.status(413).json({ error: 'too big' });
+      let hl = {};
+      if (b.hl && typeof b.hl === 'object' && !Array.isArray(b.hl)) {
+        for (const k of Object.keys(b.hl).slice(0, 300)) {
+          if (!/^[a-z0-9_-]+\/[a-z0-9_.-]+$/i.test(k) || !Array.isArray(b.hl[k])) continue;
+          hl[k] = b.hl[k].slice(0, 1000).filter(h => h && Number.isInteger(h.g)).map(h => ({ g: h.g, q: String(h.q || '').slice(0, 200), c: h.c | 0, n: String(h.n || '').slice(0, 2000), d: h.d ? 1 : 0, t: +h.t || 0 }));
+        }
+      }
+      const data = JSON.stringify({ saved: b.saved.slice(0, 5000), prog: b.prog, hl });
+      if (data.length > 600000) return res.status(413).json({ error: 'too big' });
       await put('sync/' + b.c + '.json', data, { access: 'private', allowOverwrite: true, addRandomSuffix: false, contentType: 'application/json' });
       return res.status(200).json({ ok: true });
     }

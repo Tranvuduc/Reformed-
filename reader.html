@@ -46,6 +46,10 @@ main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
 .act{display:block;width:100%;text-align:left;background:var(--sf);border:1px solid var(--ln);border-radius:10px;padding:12px;margin:0 0 8px;cursor:pointer}
 @media(min-width:820px){#sheet{left:auto;top:0;bottom:0;width:400px;max-height:none;border-radius:0;border-left:1px solid var(--ln);border-top:0}#back2.on{background:#0002}}
 #all{display:none}
+#txt .hl0{background:#fde68a80}#txt .hl1{background:#bbf7d080}#txt .hl2{background:#bfdbfe80}#txt .hn::after{content:" 📝";font-size:.8em}
+#hlb{position:fixed;z-index:7;display:flex;gap:2px;background:var(--bg);border:1px solid var(--ln);border-radius:12px;box-shadow:0 4px 18px #0004;padding:4px}#hlb[hidden]{display:none}#hlb button{border:0;background:none;font-size:20px;padding:6px 9px;border-radius:8px;cursor:pointer}#hlb button:hover{background:var(--sf)}
+#nd{position:fixed;z-index:9;left:50%;top:18%;transform:translateX(-50%);width:min(92vw,420px);background:var(--bg);border:1px solid var(--ln);border-radius:14px;box-shadow:0 10px 40px #0006;padding:14px}#nd[hidden]{display:none}#nd textarea{width:100%;min-height:110px;box-sizing:border-box;font:inherit;background:var(--sf);color:inherit;border:1px solid var(--ln);border-radius:8px;padding:8px}#nd .r{display:flex;gap:8px;justify-content:flex-end;margin-top:8px}#nd button{padding:8px 14px;border-radius:8px;border:1px solid var(--ln);background:var(--sf);color:inherit;cursor:pointer}
+.nq{font-size:14px;opacity:.85;margin:0 0 4px}.nn{margin:2px 0;white-space:pre-wrap}
 @media print{#top,#foot,#pl,#sheet,#back2,#bar,#msg,#txt,#trs{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}
 </style><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#9a3412"><link rel="apple-touch-icon" href="/icon-192.png"></head><body class="ui" data-t="light">
 <div id="bar"><i></i></div>
@@ -67,6 +71,7 @@ main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
   <button class="ib" id="px" aria-label="Close player">✕</button>
 </div></div>
 <div id="foot"><div class="row"><button class="ib" id="pv" aria-label="Previous page">‹</button><input type="range" id="sl" min="1" max="1" value="1" aria-label="Page"><button class="ib" id="nx" aria-label="Next page">›</button></div><div id="info"><span id="pn"></span><span id="eta"></span></div></div>
+<div id="hlb" hidden><button data-c="0" title="Vàng">🟨</button><button data-c="1" title="Xanh lá">🟩</button><button data-c="2" title="Xanh dương">🟦</button><button data-n="1" title="Ghi chú">📝</button><button data-x="1" title="Xóa">✕</button></div><div id="nd" hidden><textarea id="ndt"></textarea><div class="r"><button id="ndc"></button><button id="nds"></button></div></div>
 <div id="back2"></div>
 <div id="sheet" role="dialog"><header><span id="sh-t"></span><button class="ib" id="sx" aria-label="Close">✕</button></header><div id="sbody"></div></div>
 <script>
@@ -76,8 +81,8 @@ function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorag
 function esc(s){return String(s).replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})}
 function fold(s){return String(s).toLowerCase().replace(/đ/g,"d").normalize("NFD").replace(/[̀-ͯ]/g,"")}
 var lang=ls("rv.lang")==="en"?"en":"vi";
-var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Chưa có dấu trang.",nores:"Không tìm thấy.",epub:"Tải EPUB",pdf:"In / lưu PDF cả cuốn",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Bản dịch máy · có thể sai sót.",trf:"Không dịch được lúc này. Hãy thử lại sau.",fail:"Không tải được sách ở đây.",open:"Mở trên CCEL",nov:"Thiết bị không có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",pfail:"Không tải được giọng Piper. Dùng giọng của thiết bị.",res:"kết quả",del:"Xóa",rep:"Báo lỗi dịch trang này"},
- en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation · may contain errors.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error"}}[lang];
+var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Chưa có dấu trang.",nores:"Không tìm thấy.",epub:"Tải EPUB",pdf:"In / lưu PDF cả cuốn",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Bản dịch máy · có thể sai sót.",trf:"Không dịch được lúc này. Hãy thử lại sau.",fail:"Không tải được sách ở đây.",open:"Mở trên CCEL",nov:"Thiết bị không có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",pfail:"Không tải được giọng Piper. Dùng giọng của thiết bị.",res:"kết quả",del:"Xóa",rep:"Báo lỗi dịch trang này",hl:"Tô sáng và ghi chú",nohl:"Chọn đoạn văn bản để tô sáng hoặc ghi chú.",note:"Ghi chú",save:"Lưu",cancel:"Hủy",cp:"Sao chép (Markdown)",dl:"Tải về (.md)",cpd:"Đã chép"},
+ en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation · may contain errors.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error",hl:"Highlights and notes",nohl:"Select text to highlight or add a note.",note:"Note",save:"Save",cancel:"Cancel",cp:"Copy (Markdown)",dl:"Download (.md)",cpd:"Copied"}}[lang];
 var name=id.split("/")[1]||"",PAGE=4200;
 $("ttl").textContent=name;document.title=name+" · Reformed Vietnam";$("back").textContent="← "+L.lib;
 var ext="https://ccel.org/ccel/"+id+"/"+name;
@@ -153,7 +158,7 @@ function render(i,scroll){
   ls("rv.pos."+id,cur);save(pct);
   if(scroll!==false)window.scrollTo(0,0);
   trTok++;if(trm!=="0")runTr(cur);else $("trs").hidden=true;
-  $("top").classList.remove("h");
+  $("top").classList.remove("h");hlPaint();
 }
 function info(){
   var left=0;for(var k=pages[cur].a;k<P.length;k++)left+=P[k].t.length;var mins=Math.round(left/1000);
@@ -186,8 +191,8 @@ function closeSheet(){$("sheet").classList.remove("on");$("back2").classList.rem
 function openSheet(k,btn){
   if(sheet===k){closeSheet();return}
   closeSheet();sheet=k;$("sheet").classList.add("on");$("back2").classList.add("on");if(btn)btn.classList.add("on");
-  var T={toc:L.toc,search:L.search,set:L.set,more:L.more},b=$("sbody");$("sh-t").textContent=T[k];
-  if(k==="toc")tocView(b);else if(k==="search")searchView(b);else if(k==="set")setView(b);else moreView(b);
+  var T={toc:L.toc,search:L.search,set:L.set,more:L.more,notes:L.hl},b=$("sbody");$("sh-t").textContent=T[k];
+  if(k==="toc")tocView(b);else if(k==="search")searchView(b);else if(k==="set")setView(b);else if(k==="notes")notesView(b);else moreView(b);
 }
 $("sx").onclick=closeSheet;$("back2").onclick=closeSheet;
 $("bT").onclick=function(){openSheet("toc",this)};$("bS").onclick=function(){openSheet("search",this)};$("bA").onclick=function(){openSheet("set",this)};$("bM").onclick=function(){openSheet("more",this)};
@@ -225,13 +230,14 @@ function setView(b){
 function bmList(){try{return JSON.parse(ls("rv.bm."+id)||"[]")}catch(e){return[]}}
 function repHref(){var t=ptexts(cur).slice(0,3).join(" ").slice(0,200);return"mailto:reformedvn@gmail.com?subject="+encodeURIComponent("Lỗi dịch: "+id+" trang "+(cur+1))+"&body="+encodeURIComponent("Sách: "+id+"\nTrang: "+(cur+1)+"\nĐoạn đầu: "+t+"\n\nLỗi / bản dịch đúng:\n")}
 function moreView(b){
-  var bm=bmList(),h='<button class="act" id="mBm">🔖 '+L.addm+'</button>';
+  var bm=bmList(),h='<button class="act" id="mBm">🔖 '+L.addm+'</button><button class="act" id="mHl">🖍 '+L.hl+" ("+hlList().length+")</button>";
   h+='<div class="lab">'+L.marks+"</div>"+(bm.length?bm.map(function(m,i){return'<button class="li" data-p="'+m.p+'" data-i="'+i+'">'+esc(m.s)+"<small>"+L.page+" "+(m.p+1)+' · <span data-del="'+i+'">'+L.del+"</span></small></button>"}).join(""):'<div style="color:var(--mut);margin-bottom:10px">'+L.nom+"</div>");
   h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>"+(trm!=="0"?'<a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+repHref()+'">⚠️ '+L.rep+"</a>":"");
   b.innerHTML=h;
   b.onclick=function(ev){
     var d=ev.target.closest("[data-del]");if(d){var a=bmList();a.splice(+d.dataset.del,1);ls("rv.bm."+id,JSON.stringify(a));moreView(b);ev.stopPropagation();return}
     var li=ev.target.closest(".li");if(li){closeSheet();go(+li.dataset.p);return}
+    if(ev.target.closest("#mHl")){closeSheet();openSheet("notes");return}
     if(ev.target.closest("#mBm")){var a2=bmList(),pt=ptexts(cur)[0]||"";a2.push({p:cur,s:pt.slice(0,70),t:Date.now()});ls("rv.bm."+id,JSON.stringify(a2));moreView(b);return}
     if(ev.target.closest("#mEp"))doEpub(ev.target.closest("#mEp"));
     if(ev.target.closest("#mPd"))doPdf();
@@ -402,6 +408,67 @@ function doEpub(btn){
   }).then(function(bl){var a=document.createElement("a");a.href=URL.createObjectURL(bl);a.download=name+".epub";document.body.appendChild(a);a.click();a.remove();btn.textContent=old}).catch(function(){btn.textContent=old;alert("EPUB error")});
 }
 
+
+/* ---------- highlights & notes ---------- */
+var hl=[];
+function hlLoad(){try{hl=JSON.parse(ls("rv.hl."+id)||"[]")}catch(e){hl=[]}}
+function hlList(){return hl.filter(function(h){return!h.d}).sort(function(a,b){return a.g-b.g})}
+function hlGet(g){for(var i=0;i<hl.length;i++)if(hl[i].g===g&&!hl[i].d)return hl[i];return null}
+function hlPut(g,f){var h=null;for(var i=0;i<hl.length;i++)if(hl[i].g===g){h=hl[i];break}if(!h){h={g:g,q:(P[g]?P[g].t:"").slice(0,160),c:0};hl.push(h)}h.d=0;for(var k in f)h[k]=f[k];h.t=Date.now();return h}
+function hlSave(){ls("rv.hl."+id,JSON.stringify(hl));hlPaint();clearTimeout(hlT);hlT=setTimeout(hlSync,3000)}
+var hlT;
+function hlPaint(){if(!pages.length)return;[].forEach.call($("txt").querySelectorAll("[data-k]"),function(e){e.classList.remove("hl0","hl1","hl2","hn");var h=hlGet(pages[cur].a+ +e.dataset.k);if(h){e.classList.add("hl"+(h.c||0));if(h.n)e.classList.add("hn")}})}
+function hlMerge(a,b){var m={};(a||[]).concat(b||[]).forEach(function(h){var o=m[h.g];if(!o||(h.t||0)>(o.t||0))m[h.g]=h});return Object.keys(m).map(function(k){return m[k]})}
+function hlSync(){
+  var c=ls("rv.sync");if(!c)return;
+  fetch("api/sync?c="+c).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(r){
+    var all=r.hl||{};hl=hlMerge(hl,all[id]);all[id]=hl;ls("rv.hl."+id,JSON.stringify(hl));
+    var lp={};try{lp=JSON.parse(ls("rv.prog")||"{}")}catch(e){}var pr=r.prog||{};for(var k in lp)if(!pr[k]||(lp[k].t||0)>(pr[k].t||0))pr[k]=lp[k];
+    hlPaint();return fetch("api/sync",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({c:c,saved:r.saved||[],prog:pr,hl:all})})
+  }).catch(function(){})
+}
+var hlCur=null;
+function elOf(n){n=n&&n.nodeType===3?n.parentNode:n;return n&&n.closest?n.closest("#txt [data-k]"):null}
+function selInfo(){
+  var s=getSelection();if(!s||s.isCollapsed||!s.rangeCount)return null;var r=s.getRangeAt(0),a=elOf(r.startContainer),b=elOf(r.endContainer);if(!a||!b)return null;
+  var ks=[];for(var k=+a.dataset.k;k<=+b.dataset.k;k++)ks.push(k);return{ks:ks,text:s.toString().trim().slice(0,160),rect:r.getBoundingClientRect()}
+}
+function showBar(rect,info){
+  var bar=$("hlb");bar.hidden=false;var w=bar.offsetWidth||220,x=Math.max(8,Math.min(innerWidth-w-8,rect.left+rect.width/2-w/2)),y=rect.top-48;if(y<8)y=rect.bottom+10;
+  bar.style.left=x+"px";bar.style.top=y+"px";hlCur=info
+}
+var selT;document.addEventListener("selectionchange",function(){clearTimeout(selT);selT=setTimeout(function(){var i=selInfo();if(i)showBar(i.rect,i);else if(hlCur&&hlCur.tap){}else $("hlb").hidden=true},180)});
+$("txt").addEventListener("click",function(e){
+  var s=getSelection();if(s&&!s.isCollapsed)return;var el=e.target.closest(".hl0,.hl1,.hl2");
+  if(el){var k=+el.dataset.k;showBar(el.getBoundingClientRect(),{ks:[k],text:"",tap:1})}else if(hlCur&&hlCur.tap){$("hlb").hidden=true;hlCur=null}
+});
+$("hlb").addEventListener("mousedown",function(e){e.preventDefault()});
+$("hlb").addEventListener("click",function(e){
+  var b=e.target.closest("button");if(!b||!hlCur)return;var base=pages[cur].a,info=hlCur;
+  if(b.dataset.c!==undefined){info.ks.forEach(function(k,i){var f={c:+b.dataset.c};if(i===0&&info.text)f.q=info.text;hlPut(base+k,f)});hlSave()}
+  else if(b.dataset.x){info.ks.forEach(function(k){var h=hlGet(base+k);if(h){h.d=1;h.t=Date.now()}});hlSave()}
+  else if(b.dataset.n){var g=base+info.ks[0],h=hlGet(g);$("nd").hidden=false;$("ndt").value=h&&h.n||"";$("ndt").focus();$("nd").dataset.g=g;$("nd").dataset.q=info.text||""}
+  if(!b.dataset.n){$("hlb").hidden=true;hlCur=null;var s=getSelection();if(s)s.removeAllRanges()}
+});
+$("ndc").textContent=L.cancel;$("nds").textContent=L.save;
+$("ndc").onclick=function(){$("nd").hidden=true};
+$("nds").onclick=function(){var g=+$("nd").dataset.g,t=$("ndt").value.trim(),q=$("nd").dataset.q,f={n:t};if(q)f.q=q;if(t||hlGet(g))hlPut(g,f);hlSave();$("nd").hidden=true;$("hlb").hidden=true;hlCur=null};
+function hlMd(){var o=["# "+name,""];hlList().forEach(function(h){o.push("> "+h.q.replace(/\n/g," "));if(h.n)o.push("","**"+L.note+":** "+h.n);o.push("","*"+L.page+" "+(pageOf(h.g)+1)+"*","")});return o.join("\n")}
+function notesView(b){
+  var a=hlList();
+  var h='<div class="lab">'+a.length+"</div>";
+  if(!a.length)h+='<div style="color:var(--mut);margin-bottom:10px">'+L.nohl+"</div>";
+  else h+=a.map(function(x,i){return'<button class="li" data-g="'+x.g+'"><div class="nq">'+esc(x.q)+"</div>"+(x.n?'<div class="nn">📝 '+esc(x.n)+"</div>":"")+"<small>"+L.page+" "+(pageOf(x.g)+1)+' · <span data-del="'+x.g+'">'+L.del+"</span></small></button>"}).join("")+'<button class="act" id="hlCp">'+L.cp+'</button><button class="act" id="hlDl">'+L.dl+"</button>";
+  b.innerHTML=h;
+  b.onclick=function(ev){
+    var d=ev.target.closest("[data-del]");if(d){var x=hlGet(+d.dataset.del);if(x){x.d=1;x.t=Date.now()}hlSave();notesView(b);ev.stopPropagation();return}
+    var li=ev.target.closest(".li");if(li){var g=+li.dataset.g,p=pageOf(g);closeSheet();go(p);flash(g-pages[p].a);return}
+    if(ev.target.closest("#hlCp")){try{navigator.clipboard.writeText(hlMd());ev.target.textContent=L.cpd}catch(e){}return}
+    if(ev.target.closest("#hlDl")){var bl=new Blob([hlMd()],{type:"text/markdown"}),a2=document.createElement("a");a2.href=URL.createObjectURL(bl);a2.download=name+"-notes.md";document.body.appendChild(a2);a2.click();a2.remove()}
+  }
+}
+hlLoad();
+
 /* ---------- load ---------- */
 if(!/^[a-z0-9_-]+\/[a-z0-9_.-]+$/i.test(id)){fail();return}
 sizeFoot();addEventListener("resize",sizeFoot);
@@ -409,7 +476,7 @@ fetch("api/text?id="+encodeURIComponent(id)).then(function(r){if(!r.ok)throw 0;r
   if(t.length<500)throw 0;build(t);if(!pages.length)throw 0;$("msg").remove();
   var pos=+ls("rv.pos."+id)||0,sc=null;try{sc=JSON.parse(ls("rv.sc."+id)||"null")}catch(e){}
   var qp=q.get("p");if(qp!==null&&!isNaN(+qp))pos=+qp;
-  render(pos,false);sizeFoot();
+  render(pos,false);sizeFoot();hlSync();
   if(sc&&sc.p===cur&&sc.y)setTimeout(function(){window.scrollTo(0,sc.y)},50);
 }).catch(fail);
 })();
