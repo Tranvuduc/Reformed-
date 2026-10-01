@@ -261,6 +261,7 @@ function getTr(i,onP,tok){
   var src=ptexts(i);
   return sharedGet(i,src).then(function(sh){
     if(sh){trCachePut(i,sh);if(onP)sh.forEach(function(v,k){onP(k,v)});return sh}
+    if(window.__trBatch)return window.__trBatch(src).then(function(r){if(!Array.isArray(r)||r.length!==src.length)throw 0;trCachePut(i,r);if(onP)r.forEach(function(v,k){onP(k,v)});sharedPut(src,r);return r});
     return getTr2(i,src,onP,tok).then(function(r){sharedPut(src,r);return r});
   });
 }
