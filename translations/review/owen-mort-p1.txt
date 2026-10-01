@@ -1,0 +1,39 @@
+THUẬT NGỮ MỚI:
+- mortify / mortification = làm chết / sự làm chết (tội lỗi) — dùng nhất quán "làm chết" cho mọi chỗ, kể cả trong Rô-ma 8:13
+- indwelling sin = tội lỗi ngự trong lòng
+- the flesh = xác thịt; the body (Rô-ma 8:13) = thân thể (nghĩa là sự bại hoại của bản tính, xác thịt)
+- the deeds of the body = các việc làm của thân thể
+- the old man = con người cũ; body of sin = thân thể của tội lỗi; body of death = thân thể sự chết
+- lust = dục vọng
+- corruption = sự bại hoại
+- professor(s) / profession = người xưng đạo / sự xưng đạo
+- unmortified = chưa được làm chết
+- means and end = phương tiện và cứu cánh
+- causa sine qua non = nguyên nhân tất yếu (causa sine qua non)
+- efficient cause = nguyên nhân thực hiện (chủ yếu)
+- case of conscience = vấn đề lương tâm
+- conviction = sự cáo trách (của lương tâm)
+- eruption (of sin) = sự bùng phát (của tội lỗi)
+- superstition = mê tín; will-worship = sự thờ phượng tự đặt
+- supererogation = công đức dư thừa (giữ nguyên dạng Latinh supererogation trong văn bản)
+- Popish / Papists = theo Giáo hoàng / người theo Giáo hoàng
+- Socinian = phái Sô-xin
+- Dean of Christ Church, Vice-Chancellor = Chủ nhiệm Christ Church, Phó Viện trưởng Đại học Oxford
+- adoption = sự làm con nuôi
+- Spirit of adoption = Thánh Linh của sự làm con nuôi
+CẦN DUYỆT:
+1. Rô-ma 8:13 và các câu Kinh Thánh khác: tôi dịch lại theo dạng văn Owen trích (bản KJV) bằng giọng Tin Lành, chưa đối chiếu từng chữ với bản Kinh Thánh tiếng Việt cụ thể (1925 / Truyền Thống Hiện Đại). Cần chọn một bản chuẩn và thống nhất, đặc biệt "làm chết" (đang dùng) so với "làm cho chết".
+2. "professors" dịch là "người xưng đạo" (người tự nhận là tín hữu); xem có cần "người mang danh Cơ Đốc" hoặc "người tuyên xưng đức tin" cho dễ hiểu với độc giả Tin Lành Việt Nam.
+3. Chương 3, "real physical efficiency": dịch là "tác động thực sự, mang tính thể chất". "Physical" ở đây theo Owen nghĩa là thực sự, thực tại (không chỉ là ẩn dụ hay đạo đức), không phải "thuộc về thể xác". Cần xem lại cách dịch.
+4. Chương 2 điểm 4, nguyên bản có dấu ngoặc của biên tập viên "[salvation?]" sau "eternal condition"; tôi giữ nguyên thành "[sự cứu rỗi?]".
+5. Chương 2 điểm 5, "Sin is as the house of David, and grace as the house of Saul": dịch sát chữ. Ý ám chỉ 2 Sa-mu-ên 3:1 (nhà Đa-vít ngày càng mạnh, nhà Sau-lơ ngày càng yếu); ở đây Owen đảo lại cho người bỏ bê làm chết (tội lỗi mạnh dần, ân điển yếu dần). Có thể cần chú thích.
+6. Chương 2, "Where almost is that professor ... " là câu dài, văn hơi khó; dịch theo ý, cần soát lại ý "hầu như ở đâu".
+7. Chương 2, "Xin Chúa nhân lành sai một thần làm chết": nguyên văn "send out a spirit of mortification"; viết thường "thần" để tránh nhầm với Thánh Linh; cần xem có nên dịch "tinh thần làm chết" hay "Thánh Linh làm chết".
+8. Chương 1, chú thích biên tập viên về "Holy Ghost" ở Rô-ma 8:14: tôi giữ trong dấu ngoặc vuông ngay giữa văn bản; cần quyết định có chuyển thành chú thích cuối trang không (khi làm EPUB).
+9. Chương 3: giọng luận chiến với "người theo Giáo hoàng" (Papists/popish) là giọng thế kỷ 17; tôi giữ nguyên độ gắt của Owen. Cần quyết định có làm dịu thuật ngữ cho độc giả hiện nay không.
+10. Chương 3: "Vicariam navare operam" của Tertullian: giữ nguyên Latinh, chưa có bản dịch nghĩa trong văn bản (khoảng "làm công việc thay thế/đại diện"). Cần quyết định có thêm chú thích.
+11. Lời tựa: "treatise of Communion with God" dịch là luận văn "Về sự thông công với Đức Chúa Trời" (tức Of Communion with God the Father, Son, and Holy Ghost, 1657); cần thống nhất tên sách nếu dự án có bản dịch khác.
+12. Đoạn mở đầu: ghi chú biên tập viên (Prefatory note) là của biên tập viên 19 thế kỷ, không phải của Owen; cần quyết định có giữ trong EPUB không. Có nhắc Clarendon, Philip Henry, Biddle, Wilberforce, "Vindiciæ Evangelicæ", "Practical View" chưa có chú thích.
+13. Ghi tác giả/dịch giả trong trang tựa EPUB: chưa thêm dòng dịch giả (nếu cần ghi bút danh David thì thêm ở khâu làm EPUB).
+14. Chương 4: "causa sine qua non" giữ Latinh kèm nghĩa; chương 4 điểm 3 trong nguyên bản dùng cả hai dạng Latinh, đã giữ.
+TIẾP: chương 6

@@ -1,5 +1,110 @@
 [
- {"id":"knox/prayer","file":"knox-prayer.txt","title":"Luận về Sự cầu nguyện","orig":"A Treatise on Prayer","author":"John Knox","by":"Claude","reviewed":false,"hold":true,"hold_reason":"Nguồn tiếng Anh là bản hiện đại hóa (Kevin Reed, 1995) còn bản quyền; cần dịch lại từ bản Laing 1895 trước khi đăng."},
- {"id":"owen/catechisms","file":"owen-catechisms.txt","title":"Hai Giáo lý vấn đáp ngắn","orig":"Two Short Catechisms","author":"John Owen","by":"Claude","reviewed":false},
- {"id":"spurgeon/catechism","file":"spurgeon-puritan-catechism.txt","title":"Giáo lý vấn đáp Thanh giáo","orig":"A Puritan Catechism","author":"C. H. Spurgeon","by":"Claude","reviewed":false}
+ {
+  "id": "knox/prayer",
+  "file": "knox-prayer.txt",
+  "title": "Luận về Sự cầu nguyện",
+  "orig": "A Treatise on Prayer",
+  "author": "John Knox",
+  "by": "Claude",
+  "reviewed": false,
+  "hold": true,
+  "hold_reason": "Nguồn tiếng Anh là bản hiện đại hóa (Kevin Reed, 1995) còn bản quyền; cần dịch lại từ bản Laing 1895 trước khi đăng."
+ },
+ {
+  "id": "owen/catechisms",
+  "file": "owen-catechisms.txt",
+  "title": "Hai Giáo lý vấn đáp ngắn",
+  "orig": "Two Short Catechisms",
+  "author": "John Owen",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "spurgeon/catechism",
+  "file": "spurgeon-puritan-catechism.txt",
+  "title": "Giáo lý vấn đáp Thanh giáo",
+  "orig": "A Puritan Catechism",
+  "author": "C. H. Spurgeon",
+  "by": "Claude",
+  "reviewed": false,
+  "note": "Giáo lý này theo lập trường Báp-tít (dìm mình, không báp-tem cho trẻ sơ sinh), khác với Westminster."
+ },
+ {
+  "id": "owen/mort",
+  "file": "owen-mort-p1.txt",
+  "title": "Làm chết tội lỗi (phần 1: lời tựa và chương 1-5)",
+  "orig": "The Mortification of Sin",
+  "author": "John Owen",
+  "by": "Claude",
+  "reviewed": false,
+  "note": "Đây mới là phần đầu của sách; các chương còn lại sẽ được đăng sau."
+ },
+ {
+  "id": "calvin/prayer",
+  "file": "calvin-prayer.txt",
+  "title": "Về sự cầu nguyện (Institutes III.20)",
+  "orig": "Of Prayer (Institutes III.20)",
+  "author": "John Calvin",
+  "by": "Claude",
+  "reviewed": false,
+  "note": "Văn bản dịch từ bản Beveridge; chưa có phần chú thích cuối trang."
+ },
+ {
+  "id": "calvin/chr_life",
+  "file": "calvin-chr-life.txt",
+  "title": "Đời sống Cơ Đốc (Institutes III.6-10)",
+  "orig": "On the Christian Life",
+  "author": "John Calvin",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "bonar/followlamb",
+  "file": "bonar-followlamb.txt",
+  "title": "Theo Chiên Con: lời khuyên dành cho người mới tin Chúa",
+  "orig": "Follow the Lamb",
+  "author": "Horatius Bonar",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "watson/contentment",
+  "file": "watson-contentment.txt",
+  "title": "Nghệ thuật thỏa lòng trong Đức Chúa Trời",
+  "orig": "The Art of Divine Contentment",
+  "author": "Thomas Watson",
+  "by": "Claude",
+  "reviewed": false,
+  "note": "Chương 5 chưa đầy đủ vì nguồn bản gốc bị lỗi; sẽ bổ sung khi có nguồn tốt."
+ },
+ {
+  "id": "david/chua-khong-hua-giau-co",
+  "file": "sach-01-chua-khong-hua-giau-co.txt",
+  "title": "Chúa Không Hứa Giàu Có",
+  "orig": "",
+  "author": "David",
+  "by": "Claude",
+  "reviewed": false,
+  "original": true
+ },
+ {
+  "id": "david/giop-giua-con-bao",
+  "file": "sach-02-giop-giua-con-bao.txt",
+  "title": "Gióp giữa cơn bão",
+  "orig": "",
+  "author": "David",
+  "by": "Claude",
+  "reviewed": false,
+  "original": true
+ },
+ {
+  "id": "david/hieu-thao-theo-kinh-thanh",
+  "file": "hieu-thao-theo-kinh-thanh.txt",
+  "title": "Hiếu thảo theo Kinh Thánh",
+  "orig": "",
+  "author": "David",
+  "by": "Claude",
+  "reviewed": false,
+  "original": true
+ }
 ]

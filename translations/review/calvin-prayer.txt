@@ -1,0 +1,21 @@
+THUẬT NGỮ MỚI:
+- Mediator = Đấng Trung Bảo (Giăng/Ti-mô-thê; thống nhất toàn văn); Advocate/Intercessor = Đấng cầu thay; intercession = sự cầu thay
+- Papists = những người theo Giáo hoàng; Popery = Giáo hoàng chế (nguyên văn mang sắc thái luận chiến của thế kỷ 16; giữ đúng giọng Calvin, cần duyệt xem có nên làm dịu khi đăng)
+- Sophists = các nhà ngụy biện (chỉ các thần học gia kinh viện)
+- invocation / invoke = sự kêu cầu / kêu cầu; supplication = lời nài xin; petition = lời xin; thanksgiving = sự tạ ơn; vow = lời nguyện
+- prayer (the Lord's Prayer) = Lời Cầu Nguyện (theo khuôn mẫu Chúa dạy); hallowed = được thánh
+- adoption = sự nhận làm con nuôi; the reprobate = kẻ bị bỏ; hidden will / secret will = ý muốn kín nhiệm
+- altar = bàn thờ (giữ sát nguyên văn Latin altare)
+CẦN DUYỆT:
+1. Nguồn: không mở được trang CCEL (calvin/prayer cho lỗi 404, còn trang Institutes của CCEL dùng JavaScript nên không đọc được). Văn bản gốc lấy từ cùng bản Beveridge đăng ở vor.org (Mục 1-28) và worthychristianbooks.com (Mục 15-52), đối chiếu chéo hai trang ở các mục trùng. Đây là Giáo Lý Cơ Đốc III.20, không phải một tác phẩm riêng tên "Treatise on Prayer".
+2. Không có trong bản dịch: các dòng tóm lược đầu mục (italic) của Beveridge và phần chú thích cuối trang. Dấu [1]-[16] trong văn bản là vị trí chú thích của bản gốc, chưa có nội dung. Cần bổ sung nếu muốn trọn bản.
+3. THUẬT NGỮ TIỀN ĐỊNH (chương này không dùng chữ "predestination" nhưng có nội dung liên quan):
+- Mục 15: "his hidden and immutable will" (Augustine) = ý muốn kín nhiệm và bất biến; "his elect" = những người được chọn của Ngài (Mục 15, 46, theo bảng: sự chọn lựa).
+- Mục 43: "that secret will by which he governs all things, and destines them to their end" (tham chiếu chương 24 mục 17) = "định đoạt chúng đến cùng đích": đây là chỗ nặng nhất về tiền định/quan phòng; "decrees" = sắc lệnh. Mục sư nên xem chữ "định đoạt", "sắc lệnh" và việc phân biệt ý muốn kín nhiệm với ý muốn bày tỏ trong lời.
+- Mục 16, 46: "the reprobate" = kẻ bị bỏ; Mục 46: Đức Chúa Trời "làm mù kẻ bị bỏ và làm cứng lòng chúng", "phó chúng ta cho một tâm trí đồi bại" (sự đoán xét công bình nhưng kín giấu). Cần xác nhận cách dịch "kẻ bị bỏ".
+- Mục 3, 52: sự quan phòng (providence) = sự quan phòng; Mục 46: "free will" = ý chí tự do.
+4. TIỆC THÁNH: chương này không bàn trực tiếp về Tiệc Thánh. Chỉ có hai chỗ chạm đến: Mục 32, đoạn Augustine về việc hát Thi-thiên "tại bàn thờ, trước khi dâng lễ vật, hoặc khi lễ vật được chia cho dân" (altar, oblation, distributed to the people): tôi dịch sát "bàn thờ", "lễ vật", "chia cho dân", chưa ghi là Tiệc Thánh hay Thánh Lễ vì đó là cách hiểu của người duyệt; và Mục 22, "prayer at the altar" (Công đồng Carthage) = tại bàn thờ. Cần quyết định có chú thích là Tiệc Thánh/Thánh Lễ hay không.
+5. [KT?]: gần như mọi câu Kinh Thánh đều dịch sát từ câu Calvin/Beveridge trích, chưa đối chiếu bản 1934. Chỉ Ma-thi-ơ 7:7 và Lời Cầu Nguyện (Ma-thi-ơ 6:9-13) theo văn bản 1934 từ trí nhớ; vẫn nên kiểm tra. Ba-rúc 2:18-19; 3:2 (Mục 8) thuộc ngoại thư, không có trong Kinh Thánh bản 1934.
+6. [?]: Mục 8 (Ba-rúc), Mục 15 (trích Augustine, Thành của Đức Chúa Trời 22:100:2: số ghi như bản gốc, có thể lỗi), Mục 20 (Augustine; Rô-ma 8:32 trong bản gốc thực ra là 8:34), Mục 21 (Ambrose), Mục 32 (Augustine, Retractationes), Mục 33 (An-ne), Mục 34 (Plato).
+7. Mục 25-27, 22, 29 chứa lời luận chiến mạnh với Công giáo La Mã ("giòi bọ", "bóng ma", "khúc gỗ"); đã dịch trung thành. Cần cân nhắc khi đăng lên trang.
+Bản dịch nháp do AI hỗ trợ soạn, chưa duyệt giáo lý.
