@@ -15,3 +15,6 @@ Open items: contact email, more books, real audio, licensing check, type-label f
 Deploy: connect this repo in Vercel (Settings -> Git) so each push deploys.
 
 _Auto-deploy test: 2026-09-30_
+
+## Our own Vietnamese translations
+EPUBs live in `sach/<slug>.epub`. `python3 tools/build-vn-books.py` builds the reading page `doc/<slug>.html`, extracts the cover `sach/<slug>.jpg`, and adds an `rv-<slug>` entry to the top of `mg.json` → `vn`. Then run `python3 tools/build-pages.py` to refresh `tieng-viet.html`, topic pages and `sitemap.xml`. To add a book: drop the EPUB in `sach/` and add one line to `BOOKS` in the script.
