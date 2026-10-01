@@ -39,6 +39,8 @@ for (const a of [...new Set(AUTHORS)]) {
   await sleep(800);
 }
 // Subject-based pass: public-domain theology texts regardless of author (quality gate: downloads, pdf/epub, title filter).
+const OFF = /liguori|ligouri|aquinas|newman|pohle|catholic church|frassinetti|nageleisen|spirago|de sales|john of the cross|bonaventure|loyola|bellarmine|batiffol|manning|fielding smith|joseph smith|brigham young|mormon|latter[- ]day|mary baker|eddy|watchtower|blavatsky|theosoph|swedenborg|machiavelli|cardinal/i;
+const OFFT = /\b(rosary|purgatory|novena|parish priest|mormon|latter[- ]day|breviary|benediction|sacred heart|our lady|immaculate|stations of the cross|roman missal|summa|spiritualis[mt]|theosoph|christian science|gout|coins|cookery|surgery|diseases|rheumat\w*)\b/i;
 const BAD = /travel|geograph|grammar|arithmetic|railroad|catalog|directory|almanac|genealog|visitation|poem|poetical|poetry|primitive remed|medicine|medical|novel|romance|periodical|magazine|report of|annual|proceedings|minutes|statutes|laws of|journal of|dictionary|lexicon|directory|school|textbook|reader\b|primer|hymn-?book|songs?\b|music|volume \d+ of \d+/i;
 const SUBJ = [
   '("Reformed Church" OR "Presbyterian Church" OR Calvinism OR Puritans OR "Reformed (Dutch) Church" OR Predestination OR "Westminster Assembly")',
@@ -66,6 +68,7 @@ for (const sj of SUBJ) {
       const pdf = /PDF/i.test(f) ? 1 : 0, epub = /EPUB/i.test(f) ? 1 : 0;
       if (!pdf && !epub) continue;
       const c0 = [].concat(d.creator || [])[0] || "Unknown";
+      if (OFF.test(String(c0)) || OFFT.test(title)) continue;
       const nm = String(c0).replace(/,\s*\d{3,4}.*$/, "").replace(/^(.*?),\s*(.*)$/, "$2 $1").replace(/\s+/g, " ").trim().slice(0, 60) || "Unknown";
       if (!nameIdx.has(nm)) { nameIdx.set(nm, names.length); names.push(nm); }
       seen.add(k); seenId.add(d.identifier);
