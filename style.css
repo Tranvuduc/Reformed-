@@ -151,3 +151,4 @@ body:not(.home) #bw{display:none}
 .hero{position:relative;isolation:isolate}.hero::after{content:"";position:absolute;z-index:-1;right:-16px;top:0;bottom:0;width:min(62%,420px);background:#e8dfc9 url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dore_Bible_Sermon_on_the_Mount.jpg/500px-Dore_Bible_Sermon_on_the_Mount.jpg") 50% 14%/cover no-repeat;opacity:.2;mix-blend-mode:multiply;-webkit-mask-image:radial-gradient(ellipse at 55% 45%,#000 25%,transparent 72%);mask-image:radial-gradient(ellipse at 55% 45%,#000 25%,transparent 72%);pointer-events:none}
 :root[data-theme=dark] .hero::after{mix-blend-mode:screen;opacity:.1;filter:invert(1)}
 @media(prefers-color-scheme:dark){:root:not([data-theme=light]) .hero::after{mix-blend-mode:screen;opacity:.1;filter:invert(1)}}
+.srow{-webkit-mask-image:linear-gradient(to right,#000 90%,transparent);mask-image:linear-gradient(to right,#000 90%,transparent);padding-right:24px}
