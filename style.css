@@ -167,3 +167,5 @@ body:not(.home) #bw{display:none}
 .bd.lv1{background:#2f8f4e22}.bd.lv2{background:#d9a20022}.bd.lv3{background:#c0392b22}
 
 .ctx{margin:.8em 0;padding:.6em .9em;border-radius:8px;background:#8a3b1f12;font-size:.92rem}.ctx p{margin:.3em 0}.ctx small{opacity:.7}
+
+.bd.pol{background:#8a3b1f22}

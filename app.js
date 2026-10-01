@@ -118,6 +118,7 @@ var TRAD={calvin:["Cải Chánh thế kỷ 16","Sixteenth-century Reformed"],kno
 function lvl(b){var n=LVL_ID[b.id]||LVL_T[b.ty]||0;return n}
 function lvlTxt(n){var vi=st.lang==="vi";return n===1?(vi?"🟢 Dễ đọc":"🟢 Beginner"):n===2?(vi?"🟡 Vừa":"🟡 Intermediate"):n===3?(vi?"🔴 Chuyên sâu":"🔴 Advanced"):""}
 function trad(b){var t=TRAD[b.au];return t?t[st.lang==="vi"?0:1]:""}
+var POL=/\b(popery|popish|papist|papism|papal|pope|jesuit|romish|rome|antichrist|wesley|arminian|unitarian|quaker)/i;
 function badges(b){
   var o=[];if(b.au==="vn")o.push(["VI","vi"]);
   if(b.read)o.push([st.lang==="vi"?"Đọc":"Read","r"]);
@@ -125,6 +126,7 @@ function badges(b){
   if(hasM(b,"audio"))o.push([st.lang==="vi"?"🎧 Nghe":"🎧 Audio",""]);
   if(!b.read&&b.url&&!hasM(b,"pdf")&&!hasM(b,"epub")&&!hasM(b,"audio"))o.push(["Web",""]);
   if(!b.read&&!b.url)o.push(["Web",""]);if(b.au==="ia"&&b.y&&b.y<1700)o.push([st.lang==="vi"?"Văn cổ":"Early English","old"]);
+  if(POL.test((b.en&&b.en.t)||""))o.unshift([st.lang==="vi"?"Tranh luận":"Polemic","pol"]);
   var L=lvl(b);if(L&&b.au!=="ia"&&b.au!=="pg"&&b.au!=="lv")o.unshift([lvlTxt(L),"lv"+L]);
   return o.map(function(x){return'<span class="bd '+x[1]+'">'+x[0]+'</span>'}).join("");
 }
