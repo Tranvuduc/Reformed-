@@ -9,6 +9,7 @@ const IS_GEMINI = PROV === 'gemini';
 const OAI = {
   groq: { url: 'https://api.groq.com/openai/v1', key: GKEY, gap: 16000, budget: 2000, max: 3600 },
   mistral: { url: 'https://api.mistral.ai/v1', key: process.env.MISTRAL_API_KEY || '', gap: 3000, budget: 5000, max: 7000 },
+  nvidia: { url: 'https://integrate.api.nvidia.com/v1', key: process.env.NVIDIA_API_KEY || '', gap: 4500, budget: 3500, max: 6000 },
   cerebras: { url: 'https://api.cerebras.ai/v1', key: process.env.CEREBRAS_API_KEY || '', gap: 7000, budget: 3500, max: 6000 }
 }[PROV] || null;
 const KEY = IS_GEMINI ? (process.env.GEMINI_API_KEY || GKEY) : (OAI ? OAI.key : GKEY);
@@ -34,8 +35,8 @@ async function pickModels() {
       const j = await r.json();
       const ids = (j.data || []).map(m => m.id);
       lastErr = 'groq models: ' + ids.join(',').slice(0, 300);
-      if (PROV === 'mistral' || PROV === 'cerebras') {
-        const want = process.env.MODEL_FORCE || (PROV === 'mistral' ? 'mistral-large-latest' : 'gpt-oss-120b');
+      if (PROV === 'mistral' || PROV === 'cerebras' || PROV === 'nvidia') {
+        const want = process.env.MODEL_FORCE || (PROV === 'mistral' ? 'mistral-large-latest' : PROV === 'nvidia' ? 'meta/llama-3.3-70b-instruct' : 'gpt-oss-120b');
         qModel = ids.includes(want) ? want : (ids.find(x => /large|120b|235b|70b|medium|small/.test(x) && !/embed|ocr|moderation|vision|code/.test(x)) || ids[0] || want);
         return;
       }
