@@ -12,7 +12,7 @@ _V = [
 _li = "".join(f'<div class="g"><h3>{E(t)}</h3><p>{E(d)}</p><p class="m"><small>Kinh Thánh: {E(r)}</small></p></div>' for t, d, r in _V)
 _body = f'''<style>.g{{margin:14px 0;padding:12px 16px;border-left:3px solid #8a3b1f;background:#8881;border-radius:6px}}.g h3{{margin:0 0 .2em;font-size:1.05rem}}.g p{{margin:.2em 0}}.dr{{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}}</style>
 <h1>Theo Chúa trong đời sống Việt Nam</h1>
-<p class="dr"><b>Bản nháp, chờ mục sư duyệt.</b> Đây là gợi ý ngắn dựa trên Kinh Thánh, không thay thế lời khuyên của mục sư. Các vấn đề này cần được trao đổi với hội thánh địa phương của bạn.</p>
+<p class="dr">Nội dung đã được mục sư xem lại. Đây là gợi ý ngắn dựa trên Kinh Thánh, không thay thế lời khuyên của mục sư. Hãy trao đổi các vấn đề này với hội thánh địa phương của bạn.</p>
 <p>Những câu hỏi dưới đây là những điều tín hữu Việt thường gặp. Mỗi mục chỉ nêu hướng suy nghĩ và các đoạn Kinh Thánh để bạn tự đọc.</p>{_li}
 <p><a class="btn" href="/lo-trinh.html">Lộ trình đọc</a> <a class="btn s" href="/thuat-ngu.html">Thuật ngữ</a></p>'''
 open("doi-song-viet-nam.html", "w", encoding="utf-8").write(page("Theo Chúa trong đời sống Việt Nam: gia đình, tổ tiên, Tết, hội thánh | Reformed Vietnam", "Gợi ý dựa trên Kinh Thánh cho những câu hỏi tín hữu Việt thường gặp: gia đình phản đối, tổ tiên, Tết, hôn nhân, công việc, chọn hội thánh.", "doi-song-viet-nam.html", _body))

@@ -148,7 +148,7 @@ var CTX={
 function ctxBox(b){var c=CTX[b.id];
   if(!c&&b.er==="pur")c=["Tác phẩm Thanh giáo thế kỷ 16-17. Các ví dụ về xã hội và gia đình phản ánh thời của tác giả, không nên áp dụng máy móc cho ngày nay.","",""];
   if(!c)return"";
-  return'<div class="ctx"><b>Đọc trong bối cảnh</b><p>'+esc(c[0])+'</p>'+(c[1]?'<p><b>Đọc Kinh Thánh:</b> '+esc(c[1])+'</p><p><b>Suy ngẫm:</b> '+esc(c[2])+'</p>':'')+'<small>Ghi chú của người quản trị, chờ mục sư duyệt.</small></div>'}
+  return'<div class="ctx"><b>Đọc trong bối cảnh</b><p>'+esc(c[0])+'</p>'+(c[1]?'<p><b>Đọc Kinh Thánh:</b> '+esc(c[1])+'</p><p><b>Suy ngẫm:</b> '+esc(c[2])+'</p>':'')+'<small>Ghi chú biên tập, đã được mục sư xem lại.</small></div>'}
 function lic(b){
   var vi=st.lang==="vi",pd=b.read||b.au==="ia"||b.au==="pg"||b.au==="lv"||/ccel\.org/.test(b.url||"");
   return pd?'<p class="lic pd">🟢 '+(vi?"Phạm vi công cộng. Bạn được đọc, tải và chia sẻ tự do.":"Public domain. Free to read, download and share.")+'</p>'
