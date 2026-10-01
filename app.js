@@ -142,9 +142,11 @@ function sheetActs(b){
     var ks=b.q||b.en.t;
     x+='<a class="p" href="'+G(ks)+'"'+ext+'>'+tx("read")+' ↗</a><a class="s2" href="'+L(b.en.t)+'"'+ext+'>🎧 '+tx("listen")+'</a><a class="s2" href="'+A(ks)+'"'+ext+'>'+tx("archive")+'</a>';
   }
+  x+='<button class="s2" type="button" data-share="'+esc(b.id)+'">↗ '+(vi?"Chia sẻ":"Share")+'</button><a class="s2" href="mailto:reformedvn@gmail.com?subject='+encodeURIComponent((vi?"Báo lỗi / góp ý: ":"Feedback: ")+b.en.t)+'">✉ '+(vi?"Báo lỗi / góp ý":"Report / feedback")+'</a>';
   return x;
 }
-var curBk=null;
+var curBk=null,deepDone=false;
+function deepLink(){if(deepDone)return;var id=new URLSearchParams(location.search).get("b");if(!id){deepDone=true;return}if(BOOKS.some(function(z){return z.id===id})){deepDone=true;openBook(id)}}
 function openBook(id){
   var b=BOOKS.filter(function(z){return z.id===id})[0];if(!b)return;curBk=id;sheet(b);var dl=$("bk");if(!dl.open)dl.showModal();
 }
@@ -350,8 +352,8 @@ var jf=function(u){return fetch(u).then(function(r){return r.json()}).catch(func
 /* Core data first (fast first paint); the big Internet Archive / Gutenberg catalogs stream in afterwards. */
 var rest=Promise.all([jf("ia.json"),jf("pg.json")]);
 Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"),jf("vi.json"),jf("desc.json"),jf("lv.json"),jf("dg.json"),jf("audio.json")]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}LV=x[4];DGJ=x[5];if(x[6]&&x[6].ccel)x[6].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}
-  BOOKS=expand(d);buildAuthors();render();
-  return rest.then(function(y){if(!y[0]&&!y[1])return;IA=y[0];PG=y[1];BOOKS=expand(d);buildAuthors();render()});
+  BOOKS=expand(d);buildAuthors();render();deepLink();
+  return rest.then(function(y){if(!y[0]&&!y[1])return;IA=y[0];PG=y[1];BOOKS=expand(d);buildAuthors();render();deepLink()});
 }).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
 
 /* ---------- home tiles, menu links, detail sheet ---------- */
@@ -365,12 +367,13 @@ var TILES=[
 ];
 var TI={"lo-trinh.html": "<path d=\"M5 19a2 2 0 100-4 2 2 0 000 4zM19 9a2 2 0 100-4 2 2 0 000 4zM7 17h6a3 3 0 000-6h-2a3 3 0 010-6h6\"/>", "tieng-viet.html": "<path d=\"M2 5h7a3 3 0 013 3v12a2 2 0 00-2-2H2zM22 5h-7a3 3 0 00-3 3v12a2 2 0 012-2h8z\"/>", "chu-de/": "<path d=\"M12 3l9 5-9 5-9-5zM3 13l9 5 9-5M3 17.5l9 5 9-5\" transform=\"scale(.92) translate(1 -1)\"/>", "sach-noi.html": "<path d=\"M4 15v-3a8 8 0 0116 0v3M4 15h3v5H5a1 1 0 01-1-1zM20 15h-3v5h2a1 1 0 001-1z\"/>", "hom-nay.html": "<circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4\"/>", "tac-gia.html": "<circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0113 0M16 4.5a3.5 3.5 0 010 7M18 14a6.5 6.5 0 013.5 6\"/>"};
 function renderTiles(){var i=st.lang==="vi"?0:1;$("tiles").innerHTML=TILES.map(function(t){return'<a class="tile'+(t[5]?" first":"")+'" href="'+t[0]+'"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+TI[t[0]]+'</svg><b>'+t[1+i]+'</b><span>'+t[3+i]+'</span></a>'}).join("");
-  var M=[["lo-trinh.html","Lộ trình đọc","Reading path"],["chu-de/","Chủ đề","Topics"],["hom-nay.html","Hôm nay","Today"],["khoa-hoc.html","Khóa học","Courses"],["sach-noi.html","Sách nói","Audio"],["tac-gia.html","Tác giả","Authors"],["feed.xml","RSS","RSS"]];
+  var M=[["lo-trinh.html","Lộ trình đọc","Reading path"],["chu-de/","Chủ đề","Topics"],["hom-nay.html","Hôm nay","Today"],["khoa-hoc.html","Khóa học","Courses"],["trich-dan.html","Trích dẫn","Quotes"],["sach-noi.html","Sách nói","Audio"],["tac-gia.html","Tác giả","Authors"],["feed.xml","RSS","RSS"]];
   $("mx").innerHTML=M.map(function(m){return'<a class="btn" href="'+m[0]+'">'+m[1+i]+'</a>'}).join("")}
 $("browse").addEventListener("click",function(){st.br=1;st.limit=PAGE;render();window.scrollTo(0,0)});
 $("grid").addEventListener("click",function(e){if(e.target.closest(".fav"))return;var oc=e.target.closest("[data-open]");if(oc)openBook(oc.dataset.open)});
 document.addEventListener("keydown",function(e){if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches(".book[data-open]")){e.preventDefault();openBook(e.target.dataset.open)}});
 $("bk").addEventListener("click",function(e){
+  var sb=e.target.closest("[data-share]");if(sb){var sbk=BOOKS.filter(function(z){return z.id===sb.dataset.share})[0],su=location.origin+"/?b="+encodeURIComponent(sb.dataset.share),stt=sbk?(sbk[st.lang]||sbk.en).t:"";if(navigator.share)navigator.share({title:stt,url:su}).catch(function(){});else if(navigator.clipboard){navigator.clipboard.writeText(su);sb.textContent="✓ "+(st.lang==="vi"?"Đã sao chép liên kết":"Link copied")}return}
   if(e.target===$("bk")||e.target.closest(".bk-x")){$("bk").close();return}
   var f=e.target.closest(".fav");
   if(f){var k=st.saved.indexOf(f.dataset.id);if(k<0)st.saved.push(f.dataset.id);else st.saved.splice(k,1);saveLS("rv.saved",st.saved);openBook(curBk);render()}
