@@ -111,6 +111,7 @@ urls.append("sach-noi.html")
 
 exec(open('tools/plan.py', encoding='utf-8').read())
 exec(open('tools/today.py', encoding='utf-8').read())
+exec(open('tools/topics.py', encoding='utf-8').read())
 
 # sitemap
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
