@@ -159,3 +159,5 @@ body:not(.home) #bw{display:none}
 .lvb button span{font-size:.78rem;opacity:.65}.lvb button[aria-pressed=true]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
 .lvr{margin-top:12px}.lvp{display:inline-block;margin-top:10px;color:var(--accent);font-weight:600;text-decoration:none}
 @media(max-width:480px){.lvb button{padding:10px}.lvb button b{font-size:.9rem}}
+
+.badge.old,.bd.old{opacity:.7;font-style:italic}

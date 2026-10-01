@@ -117,7 +117,7 @@ function badges(b){
   if(hasM(b,"pdf"))o.push(["PDF",""]);if(hasM(b,"epub"))o.push(["EPUB",""]);
   if(hasM(b,"audio"))o.push([st.lang==="vi"?"🎧 Nghe":"🎧 Audio",""]);
   if(!b.read&&b.url&&!hasM(b,"pdf")&&!hasM(b,"epub")&&!hasM(b,"audio"))o.push(["Web",""]);
-  if(!b.read&&!b.url)o.push(["Web",""]);
+  if(!b.read&&!b.url)o.push(["Web",""]);if(b.au==="ia"&&b.y&&b.y<1700)o.push([st.lang==="vi"?"Văn cổ":"Early English","old"]);
   return o.map(function(x){return'<span class="bd '+x[1]+'">'+x[0]+'</span>'}).join("");
 }
 function card(b){
@@ -170,7 +170,7 @@ function sorted(list){
   var s=st.so,lg=st.lang;
   if(s==="0"){
     if(st.f==="start")return list.slice().sort(function(a,b){return START.indexOf(a.id)-START.indexOf(b.id)});
-    var sc=function(b){return b.au==="vn"?0:(DESC[b.id]||(b.vi&&b.vi.t&&b.vi.t!==b.en.t))?1:b.au==="ia"?3:2};
+    var sc=function(b){return b.au==="vn"?0:(DESC[b.id]||(b.vi&&b.vi.t&&b.vi.t!==b.en.t))?1:b.au==="ia"?(b.y&&b.y<1700?5:b.y&&b.y<1800?4:3):2};
     return list.map(function(b,i){return[b,i]}).sort(function(x,y){return sc(x[0])-sc(y[0])||x[1]-y[1]}).map(function(x){return x[0]});
   }
   var n=function(b){return(b[lg]||b.en).t.toLowerCase()};
