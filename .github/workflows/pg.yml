@@ -1,10 +1,10 @@
-name: Build audio catalog
+name: Build Gutenberg catalog
 on:
   workflow_dispatch:
   push:
-    paths: ["tools/lv.mjs"]
+    paths: ["tools/pg.mjs"]
   schedule:
-    - cron: "0 3 5 * *"
+    - cron: "0 4 10 * *"
 permissions:
   contents: write
 jobs:
@@ -15,12 +15,12 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
-      - run: node tools/lv.mjs
+      - run: node tools/pg.mjs
       - run: |
           git config user.name "catalog-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add lv.json
+          git add pg.json
           git diff --cached --quiet && exit 0
-          git commit -m "Update LibriVox audio catalog"
+          git commit -m "Update Gutenberg catalog"
           for i in 1 2 3 4; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
           exit 1

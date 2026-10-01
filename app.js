@@ -10,8 +10,8 @@ var T={
 };
 T.vi.allSources="Mọi nguồn";T.en.allSources="All sources";T.vi.allMedia="Mọi định dạng";T.en.allMedia="All formats";T.vi.authorPh="Tìm tác giả…";T.en.authorPh="Author…";
 T.vi.md_read="Đọc tại đây";T.en.md_read="Read here";T.vi.md_pdf="Có PDF";T.en.md_pdf="Has PDF";T.vi.md_epub="Có EPUB";T.en.md_epub="Has EPUB";T.vi.md_audio="Có bản nghe";T.en.md_audio="Has audio";
-T.vi.sr_cur="Chọn lọc (không gồm bản scan)";T.en.sr_cur="Curated (no raw scans)";T.vi.sr_ccel="CCEL (đọc tại đây)";T.en.sr_ccel="CCEL (read here)";T.vi.sr_vn="Tiếng Việt";T.en.sr_vn="Vietnamese";T.vi.sr_mg="Monergism";T.en.sr_mg="Monergism";T.vi.sr_ia="Internet Archive";T.en.sr_ia="Internet Archive";T.vi.sr_lv="LibriVox (sách nói)";T.en.sr_lv="LibriVox (audio)";T.vi.sr_dg="Desiring God";T.en.sr_dg="Desiring God";T.vi.sr_lig="Ligonier";T.en.sr_lig="Ligonier";T.vi.sr_other="Khác";T.en.sr_other="Other";
-var SRCS=["ccel","vn","mg","ia","lv","dg","lig","other"],MEDIA=["read","pdf","epub","audio"],AUDIO={};
+T.vi.sr_cur="Chọn lọc (không gồm bản scan)";T.en.sr_cur="Curated (no raw scans)";T.vi.sr_ccel="CCEL (đọc tại đây)";T.en.sr_ccel="CCEL (read here)";T.vi.sr_vn="Tiếng Việt";T.en.sr_vn="Vietnamese";T.vi.sr_mg="Monergism";T.en.sr_mg="Monergism";T.vi.sr_pg="Project Gutenberg";T.en.sr_pg="Project Gutenberg";T.vi.sr_ia="Internet Archive";T.en.sr_ia="Internet Archive";T.vi.sr_lv="LibriVox (sách nói)";T.en.sr_lv="LibriVox (audio)";T.vi.sr_dg="Desiring God";T.en.sr_dg="Desiring God";T.vi.sr_lig="Ligonier";T.en.sr_lig="Ligonier";T.vi.sr_other="Khác";T.en.sr_other="Other";
+var SRCS=["ccel","vn","mg","ia","pg","lv","dg","lig","other"],MEDIA=["read","pdf","epub","audio"],AUDIO={};
 function srcOf(b){return b.read?"ccel":(b.au||"other")}
 function hasM(b,m){if(m==="read")return!!b.read;if(m==="pdf")return!!b.pdf||!!(b.dl&&(b.dl.PDF||b.dl.pdf));if(m==="epub")return!!b.epub||!!(b.dl&&(b.dl.EPUB||b.dl.epub));if(m==="audio")return b.au==="lv"||!!b.lv||!!AUDIO[b.id];return true}
 var $=function(i){return document.getElementById(i)};
@@ -50,7 +50,7 @@ function typeOf(title,key,over){
 function eraOf(y){return y<1500?"anc":y<1600?"ref":y<1700?"pur":y<1800?"aw":y<1900?"mod":"c20"}
 
 /* Expand the compact catalog into full book records. */
-var IA=null,LV=null,DGJ=null;
+var IA=null,LV=null,DGJ=null,PG=null;
 function lvu(p){return(p.indexOf("details/")===0?"https://archive.org/":"https://librivox.org/")+p}
 function expand(d){
   var NR={};(d.noread||[]).forEach(function(k){NR[k]=1});
@@ -82,6 +82,7 @@ function expand(d){
   if(LV&&LV.b&&LV.b.length){var nk2=function(t){return t.toLowerCase().replace(/^(the|a|an)\s+/,"").replace(/[^a-z0-9]/g,"")};var lvm={};LV.b.forEach(function(r){lvm[nk2(r[1])]=r[2]});out.forEach(function(b){var k=nk2(b.en.t),u=lvm[k];if(u){b.lv=lvu(u);b.lvk=k}});
     AUTHORS.push({id:"lv",name:"LibriVox · audiobooks"});LV.b.forEach(function(r){var k=nk2(r[1]);if(out.some(function(b){return b.lvk===k}))return;var nm=LV.a[r[0]];out.push({id:"lv/"+r[2],ty:typeOf(r[1],"",null),er:eraOf(1800),y:0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"lv",url:lvu(r[2]),lv:lvu(r[2]),lvk:k,en:{t:r[1],n:"Free audiobook"+(r[3]?" ("+r[3]+")":"")+". Source: LibriVox."},vi:{t:r[1],n:"Sách nói miễn phí"+(r[3]?" ("+r[3]+")":"")+". Nguồn: LibriVox."}})})}
   if(IA&&IA.b&&IA.b.length){AUTHORS.push({id:"ia",name:"Internet Archive · scans"});IA.b.forEach(function(r){var k=nk(r[1]).slice(0,45);if(have[nk(r[1])])return;var nm=IA.a[r[0]],id=r[2],f=r[4];out.push({id:"ia/"+id,ty:typeOf(r[1],"",null),er:eraOf(r[3]||1800),y:r[3]||0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"ia",url:"https://archive.org/details/"+id,pdf:(f&1)?"https://archive.org/download/"+id+"/"+id+".pdf":"",epub:(f&2)?"https://archive.org/download/"+id+"/"+id+".epub":"",en:{t:r[1],n:"Public-domain scan. Source: Internet Archive."},vi:{t:r[1],n:"Bản quét thuộc phạm vi công cộng. Nguồn: Internet Archive."}})})}
+  if(PG&&PG.b&&PG.b.length){AUTHORS.push({id:"pg",name:"Project Gutenberg · ebooks"});var pgk={};PG.b.forEach(function(r){var k=nk(r[1]),k2=k.slice(0,45);if(have[k]||have[k2]||pgk[k2])return;pgk[k2]=1;var nm=PG.a[r[0]],id=r[2];out.push({id:"pg/"+id,ty:typeOf(r[1],"",null),er:eraOf(r[3]||1800),y:r[3]||0,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"pg",url:"https://www.gutenberg.org/ebooks/"+id,epub:"https://www.gutenberg.org/ebooks/"+id+".epub3.images",en:{t:r[1],n:"Public-domain ebook. Source: Project Gutenberg."},vi:{t:r[1],n:"Sách điện tử thuộc phạm vi công cộng. Nguồn: Project Gutenberg."}})})}
   (d.extra||[]).forEach(function(b){b.au=b.au||(b.url?"vn":"other");b.er=eraOf(b.y);out.push(b)});
   if(DGJ&&DGJ.b){var dgk={};out.forEach(function(b){if(b.au==="dg")dgk[nk(b.en.t)]=1});
     DGJ.b.forEach(function(r){var k=nk(r[1]);if(dgk[k]||out.some(function(b){return b.id==="dg-"+r[2]}))return;dgk[k]=1;var u="https://www.desiringgod.org/books/"+r[2],nm=DGJ.a[r[0]];
@@ -323,7 +324,7 @@ if(code())run();
 })();
 
 labels();
-Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("lv.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("dg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("audio.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];LV=x[5];DGJ=x[6];if(x[7]&&x[7].ccel)x[7].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
+Promise.all([fetch("books.json").then(function(r){return r.json()}),fetch("mg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("vi.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("desc.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("ia.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("lv.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("dg.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("audio.json").then(function(r){return r.json()}).catch(function(){return null}),fetch("pg.json").then(function(r){return r.json()}).catch(function(){return null})]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}IA=x[4];LV=x[5];DGJ=x[6];PG=x[8];if(x[7]&&x[7].ccel)x[7].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}BOOKS=expand(d);buildAuthors();render()}).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
 
 /* ---------- home tiles, menu links, detail sheet ---------- */
 var TILES=[

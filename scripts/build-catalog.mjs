@@ -38,10 +38,49 @@ for (const a of [...new Set(AUTHORS)]) {
   console.log(a, n);
   await sleep(800);
 }
+// Subject-based pass: public-domain theology texts regardless of author (quality gate: downloads, pdf/epub, title filter).
+const BAD = /travel|geograph|grammar|arithmetic|railroad|catalog|directory|almanac|genealog|visitation|poem|poetical|poetry|primitive remed|medicine|medical|novel|romance|periodical|magazine|report of|annual|proceedings|minutes|statutes|laws of|journal of|dictionary|lexicon|directory|school|textbook|reader\b|primer|hymn-?book|songs?\b|music|volume \d+ of \d+/i;
+const SUBJ = [
+  '("Reformed Church" OR "Presbyterian Church" OR Calvinism OR Puritans OR "Reformed (Dutch) Church" OR Predestination OR "Westminster Assembly")',
+  '("Theology, Doctrinal" OR Atonement OR Justification OR Sanctification OR "Holy Spirit" OR Trinity OR "Christian life" OR "Salvation")',
+  '(Sermons OR "Bible. N.T. -- Commentaries" OR "Bible. O.T. -- Commentaries" OR "Bible -- Commentaries" OR "Bible. N.T. -- Criticism, interpretation" OR Psalms)',
+  '("Devotional literature" OR Prayer OR "Christian biography" OR Catechisms OR Reformation OR "Church history" OR Baptists OR Missions OR Evangelicalism)'
+];
+const nameIdx = new Map(names.map((n, i) => [n, i]));
+const seenId = new Set(rows.map((r) => r[2]));
+for (const sj of SUBJ) {
+  for (let page = 1; page <= 2; page++) {
+    const q = `${sj} AND mediatype:texts AND year:[1 TO 1929] AND downloads:[40 TO 99999999] AND -access-restricted-item:true AND language:eng`;
+    const url = "https://archive.org/advancedsearch.php?" + new URLSearchParams({ q, rows: "1000", page: String(page), output: "json", sort: "downloads desc" }) +
+      ["identifier", "title", "creator", "year", "downloads", "format"].map((f) => "&fl[]=" + f).join("");
+    let docs = [];
+    for (let t = 0; t < 3 && !docs.length; t++) {
+      try { const r = await fetch(url); if (r.ok) docs = (await r.json()).response.docs; else await sleep(4000); } catch { await sleep(4000); }
+    }
+    let n = 0;
+    for (const d of docs) {
+      const title = (Array.isArray(d.title) ? d.title[0] : d.title || "").replace(/\s+/g, " ").trim();
+      const k = nk(title);
+      if (!title || title.length < 5 || seen.has(k) || seenId.has(d.identifier) || BAD.test(title)) continue;
+      const f = [].concat(d.format || []).join("|");
+      const pdf = /PDF/i.test(f) ? 1 : 0, epub = /EPUB/i.test(f) ? 1 : 0;
+      if (!pdf && !epub) continue;
+      const c0 = [].concat(d.creator || [])[0] || "Unknown";
+      const nm = String(c0).replace(/,\s*\d{3,4}.*$/, "").replace(/^(.*?),\s*(.*)$/, "$2 $1").replace(/\s+/g, " ").trim().slice(0, 60) || "Unknown";
+      if (!nameIdx.has(nm)) { nameIdx.set(nm, names.length); names.push(nm); }
+      seen.add(k); seenId.add(d.identifier);
+      rows.push([nameIdx.get(nm), title.slice(0, 140), d.identifier, +String(d.year || 0).slice(0, 4) || 0, pdf + epub * 2]);
+      n++;
+    }
+    console.log("subject pass", page, n);
+    await sleep(1500);
+    if (docs.length < 1000) break;
+  }
+}
 // Verify the guessed download links; keep the item (its archive.org page always works) but drop dead PDF/EPUB flags.
 const head = async (u) => { for (let t = 0; t < 2; t++) { try { const r = await fetch(u, { method: "HEAD", redirect: "follow" }); if (r.status === 404) return false; if (r.ok) return true; } catch {} await sleep(500); } return true; };
 let bad = 0, idx = 0;
-await Promise.all(Array.from({ length: 8 }, async () => {
+await Promise.all(Array.from({ length: 16 }, async () => {
   while (idx < rows.length) {
     const r = rows[idx++]; let f = r[4];
     if (f & 1 && !(await head(`https://archive.org/download/${r[2]}/${r[2]}.pdf`))) { f &= ~1; bad++; }
