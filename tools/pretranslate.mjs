@@ -74,7 +74,7 @@ async function gemini(src) {
           generationConfig: { responseMimeType: 'application/json', temperature: 0.2 }
         })
       });
-      if (r.status === 429 || r.status >= 500) { lastErr = 'gemini ' + r.status; await new Promise(r => setTimeout(r, 15000 * (a + 1))); continue; }
+      if (r.status === 429 || r.status >= 500 || r.status === 404) { lastErr = 'gemini ' + r.status + ' ' + gModel; if (r.status !== 429) { const alt = ['gemini-flash-latest', 'gemini-3-flash-preview', 'gemini-2.5-flash-lite', 'gemini-2.5-pro']; gModel = alt[(alt.indexOf(gModel) + 1) % alt.length]; } await new Promise(r => setTimeout(r, 15000 * (a + 1))); continue; }
       if (!r.ok) { lastErr = 'gemini ' + r.status + ' ' + (await r.text()).replace(/\s+/g, ' ').replace(KEY, '***').slice(0, 300); throw new Error(lastErr); }
       const j = await r.json();
       const t = j.candidates?.[0]?.content?.parts?.map(x => x.text).join('') || '';
@@ -113,7 +113,7 @@ for (const id of ids) {
       if (Date.now() > deadline) break;
       // wait until translation of this page finishes (status shows "Bản dịch máy" or failure text)
       let ok = false;
-      for (let t = 0; t < 240; t++) {
+      for (let t = 0; t < (KEY ? 1200 : 240); t++) {
         const s = await p.evaluate(() => { const e = document.querySelector('#trs'); return e && !e.hidden ? e.textContent : ''; });
         if (/Bản dịch máy/.test(s)) { ok = true; break; }
         if (/Không dịch được/.test(s)) break;
