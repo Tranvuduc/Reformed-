@@ -26,7 +26,7 @@ async function groq(src) {
         })
       });
       if (r.status === 429 || r.status >= 500) { await new Promise(r => setTimeout(r, 30000 * (a + 1))); continue; }
-      if (!r.ok) { lastErr = 'groq ' + r.status + ' ' + (await r.text()).slice(0, 200); throw new Error(lastErr); }
+      if (!r.ok) { lastErr = 'groq ' + r.status + ' ' + (await r.text()).replace(/\s+/g, ' ').replace(GKEY, '***').slice(0, 300); throw new Error(lastErr); }
       const j = await r.json();
       const arr = JSON.parse(j.choices[0].message.content).t;
       if (Array.isArray(arr) && arr.length === src.length && arr.every(x => typeof x === 'string' && x.trim())) return arr;
@@ -51,7 +51,7 @@ async function gemini(src) {
         })
       });
       if (r.status === 429 || r.status >= 500) { lastErr = 'gemini ' + r.status; await new Promise(r => setTimeout(r, 15000 * (a + 1))); continue; }
-      if (!r.ok) { lastErr = 'gemini ' + r.status + ' ' + (await r.text()).slice(0, 200).replace(KEY, '***'); throw new Error(lastErr); }
+      if (!r.ok) { lastErr = 'gemini ' + r.status + ' ' + (await r.text()).replace(/\s+/g, ' ').replace(KEY, '***').slice(0, 300); throw new Error(lastErr); }
       const j = await r.json();
       const t = j.candidates?.[0]?.content?.parts?.map(x => x.text).join('') || '';
       const arr = JSON.parse(t);
@@ -66,7 +66,7 @@ const maxP = +process.argv[3] || 400;
 const site = (process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '');
 const BOT = process.env.BOT_NAME || 'bot';
 const hist = [];
-async function report(msg) { console.log(msg); hist.push(msg.slice(0, 160)); if (hist.length > 6) hist.shift(); msg = hist.join(' || '); try { await fetch(`${(process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
+async function report(msg) { console.log(msg); hist.push(msg.slice(0, 420)); if (hist.length > 6) hist.shift(); msg = hist.join(' || '); try { await fetch(`${(process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
 const deadline = Date.now() + 5.5 * 3600 * 1000;
 const b = await chromium.launch();
 for (const id of ids) {
