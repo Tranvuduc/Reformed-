@@ -1,6 +1,7 @@
 // Builds lv.json: LibriVox public-domain audiobooks by authors in ia.json.
 // Needs network (librivox.org). Run by .github/workflows/audio.yml.
 import fs from "node:fs";
+import { reformedOnly } from "./exclude.mjs";
 const ia = JSON.parse(fs.readFileSync("ia.json", "utf8"));
 const extra = ["John Bunyan","Charles Spurgeon","C. H. Spurgeon","John Calvin","Martin Luther","Jonathan Edwards","J. C. Ryle","Richard Baxter","John Newton","Andrew Murray","Thomas a Kempis","Augustine","Horatius Bonar","Isaac Watts","Matthew Henry","Brother Lawrence","John Wesley","George Whitefield","Charles Finney","D. L. Moody","Robert Murray McCheyne","Thomas Watson","John Owen","William Carey"];
 const names = [...new Set([...ia.a, ...extra])];
@@ -62,5 +63,5 @@ for (const genre of ["Religion", "Christianity", "Sermons", "Bibles", "Christian
     if (books.length < 100) break;
   }
 }
-fs.writeFileSync("lv.json", JSON.stringify({ a: an, b: out }));
+fs.writeFileSync("lv.json", JSON.stringify(reformedOnly(an, out, true)));
 console.log("total", out.length);
