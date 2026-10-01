@@ -169,3 +169,18 @@ body:not(.home) #bw{display:none}
 .ctx{margin:.8em 0;padding:.6em .9em;border-radius:8px;background:#8a3b1f12;font-size:.92rem}.ctx p{margin:.3em 0}.ctx small{opacity:.7}
 
 .bd.pol{background:#8a3b1f22}
+
+/* minimalist redesign: visible top nav, no tile grid, slim footer */
+.brand{color:inherit;text-decoration:none}
+.nav{flex-wrap:wrap;row-gap:6px}
+.nav .links{display:flex;gap:2px;flex:1;min-width:0;overflow-x:auto;scrollbar-width:none;margin-left:12px}
+.nav .links::-webkit-scrollbar{display:none}
+.nav .links a{white-space:nowrap;padding:7px 11px;border-radius:999px;color:var(--muted);text-decoration:none;font-size:.92rem;font-weight:500}
+.nav .links a:hover{color:var(--fg);background:var(--soft)}
+@media(max-width:760px){.nav .links{order:5;flex:1 1 100%;margin-left:-11px}.nav .brand{flex:1}}
+.tiles{display:none}
+.hero .lede{max-width:34rem}
+.foot.mini{border:0;margin:20px 0 28px;padding:0;font-size:.82rem}
+.foot.mini a{color:var(--muted)}
+
+@media(max-width:760px){.nav .links a{padding:7px 9px;font-size:.86rem}}
