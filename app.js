@@ -10,7 +10,7 @@ var T={
 };
 T.vi.allSources="Mọi nguồn";T.en.allSources="All sources";T.vi.allMedia="Mọi định dạng";T.en.allMedia="All formats";T.vi.authorPh="Tìm tác giả…";T.en.authorPh="Author…";
 T.vi.md_read="Đọc tại đây";T.en.md_read="Read here";T.vi.md_pdf="Có PDF";T.en.md_pdf="Has PDF";T.vi.md_epub="Có EPUB";T.en.md_epub="Has EPUB";T.vi.md_audio="Có bản nghe";T.en.md_audio="Has audio";
-T.vi.sr_ccel="CCEL (đọc tại đây)";T.en.sr_ccel="CCEL (read here)";T.vi.sr_vn="Tiếng Việt";T.en.sr_vn="Vietnamese";T.vi.sr_mg="Monergism";T.en.sr_mg="Monergism";T.vi.sr_ia="Internet Archive";T.en.sr_ia="Internet Archive";T.vi.sr_lv="LibriVox (sách nói)";T.en.sr_lv="LibriVox (audio)";T.vi.sr_dg="Desiring God";T.en.sr_dg="Desiring God";T.vi.sr_lig="Ligonier";T.en.sr_lig="Ligonier";T.vi.sr_other="Khác";T.en.sr_other="Other";
+T.vi.sr_cur="Chọn lọc (không gồm bản scan)";T.en.sr_cur="Curated (no raw scans)";T.vi.sr_ccel="CCEL (đọc tại đây)";T.en.sr_ccel="CCEL (read here)";T.vi.sr_vn="Tiếng Việt";T.en.sr_vn="Vietnamese";T.vi.sr_mg="Monergism";T.en.sr_mg="Monergism";T.vi.sr_ia="Internet Archive";T.en.sr_ia="Internet Archive";T.vi.sr_lv="LibriVox (sách nói)";T.en.sr_lv="LibriVox (audio)";T.vi.sr_dg="Desiring God";T.en.sr_dg="Desiring God";T.vi.sr_lig="Ligonier";T.en.sr_lig="Ligonier";T.vi.sr_other="Khác";T.en.sr_other="Other";
 var SRCS=["ccel","vn","mg","ia","lv","dg","lig","other"],MEDIA=["read","pdf","epub","audio"],AUDIO={};
 function srcOf(b){return b.read?"ccel":(b.au||"other")}
 function hasM(b,m){if(m==="read")return!!b.read;if(m==="pdf")return!!b.pdf||!!(b.dl&&(b.dl.PDF||b.dl.pdf));if(m==="epub")return!!b.epub||!!(b.dl&&(b.dl.EPUB||b.dl.epub));if(m==="audio")return b.au==="lv"||!!b.lv||!!AUDIO[b.id];return true}
@@ -97,7 +97,7 @@ function passes(b){
   if(st.f==="start"&&START.indexOf(b.id)<0)return false;
   if(st.f==="reading"&&p.s!=="reading")return false;
   if(st.f==="done"&&p.s!=="done")return false;
-  if(st.sr!=="all"&&srcOf(b)!==st.sr)return false;
+  if(st.sr==="cur"){if(srcOf(b)==="ia")return false}else if(st.sr!=="all"&&srcOf(b)!==st.sr)return false;
   if(st.an&&(b.a||"").toLowerCase()!==st.an)return false;
   if(st.md!=="all"&&!hasM(b,st.md))return false;
   if(st.ty!=="all"&&b.ty!==st.ty)return false;
@@ -210,7 +210,7 @@ $("shelves").addEventListener("change",function(e){
 function buildAuthors(){
   var cs={},ca={},cm={};BOOKS.forEach(function(b){var s=srcOf(b);cs[s]=(cs[s]||0)+1;var n=(b.a||"").trim();if(n)ca[n]=(ca[n]||0)+1;MEDIA.forEach(function(m){if(hasM(b,m))cm[m]=(cm[m]||0)+1})});
   var opts=function(id,first,items,cur){var sel=$(id);sel.innerHTML='<option value="all">'+first+'</option>'+items.map(function(i){return'<option value="'+i[0]+'">'+esc(i[1])+'</option>'}).join("");sel.value=cur};
-  opts("src",tx("allSources"),SRCS.filter(function(s){return cs[s]}).map(function(s){return[s,tx("sr_"+s)+" ("+cs[s]+")"]}),st.sr);
+  opts("src",tx("allSources"),[["cur",tx("sr_cur")+" ("+(BOOKS.length-(cs.ia||0))+")"]].concat(SRCS.filter(function(s){return cs[s]}).map(function(s){return[s,tx("sr_"+s)+" ("+cs[s]+")"]})),st.sr);
   opts("media",tx("allMedia"),MEDIA.filter(function(m){return cm[m]}).map(function(m){return[m,tx("md_"+m)+" ("+cm[m]+")"]}),st.md);
   $("authl").innerHTML=Object.keys(ca).sort(function(x,y){return ca[y]-ca[x]||x.localeCompare(y)}).map(function(n){return'<option value="'+esc(n)+'" label="'+ca[n]+'"></option>'}).join("");
   $("author").placeholder=tx("authorPh");if(!st.an)$("author").value="";
