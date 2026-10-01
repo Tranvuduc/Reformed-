@@ -4,36 +4,30 @@
 
 **Verdict:** **8 / 10**
 
----
-
-### Concrete Problems  
-
-| Item (id) | Issue | Suggested Fix |
-|-----------|-------|---------------|
-| **owen/deathofdeath** | Awkward and confusing wording: “Sự chết của sự chết trong sự chết của Đấng Christ”. | Change to **“Sự chết của sự chết trong Đấng Christ”** or **“Sự chết của sự chết trong Đấng Christ”** (remove the repeated “của sự chết”). |
-| **boston/crook** | Typographical error: “Nghịc cảnh” should be “Nghịch cảnh”. | Correct to **“Nghịch cảnh do Chúa định”**. |
-| **owen/mort** | Unnatural phrasing “làm chết tội lỗi”. | Use **“đánh bại tội lỗi”** or **“tiêu diệt tội lỗi”** → “Về việc tiêu diệt tội lỗi trong người tin”. |
-| **bunyan/grace** | “dư dật” is a rare word; “kẻ có tội đầu” is clumsy. | Replace with **“ân điển dồi dào cho kẻ có tội”**. |
-| **ryle/matthew** | Misspelling “Suy gẫm”. | Change to **“Suy ngẫm”** → “Suy ngẫm về Tin Lành Ma-thi-ơ”. |
-| **spurgeon/morneve** | “Đọc kinh mỗi ngày” may be read as “reading a prayer book”. | Clarify as **“Đọc Kinh Thánh mỗi ngày”**. |
-| **spurgeon/catechism** | “Thanh giáo” is not a common Protestant term. | Prefer **“Giáo lý”** or **“Giáo lý hỏi đáp”**. |
-| **bonar/soulwinners** | “chinh phục linh hồn” sounds militaristic. | Use **“giành linh hồn”** → “Lời cho người giành linh hồn”. |
-| **owen/spirituallyminded** | “bổn phận” is a bit formal; “trách nhiệm” is smoother. | Change to **“bổn phận” → “trách nhiệm”** if desired. |
-| **owen/just** | “xưng công chính” is a literal translation; “công chính” is more idiomatic. | Use **“công chính”** → “Giáo lý công chính bởi đức tin”. |
-
-*All other titles are free of doctrinal error and use appropriate Protestant Vietnamese terminology.*
+Overall the list is doctrinally sound and uses appropriate Protestant Vietnamese terminology. The titles avoid Catholic‑specific language (e.g., *Thiên Chúa, Giáo hội, Giêsu*) and employ the preferred Reformed vocabulary (*Đức Chúa Trời, Hội Thánh, Chúa Giê‑xu, Kinh Thánh*). A few expressions are slightly awkward or could be rendered more naturally for Vietnamese readers.
 
 ---
 
-### What Is Good  
+### Concrete Problems
 
-- **Consistent Protestant Vocabulary:** All titles employ the preferred terms **Đức Chúa Trời, Hội Thánh, Chúa Giê‑xu/Jesus, Cơ Đốc nhân, thuộc linh, Kinh Thánh** and avoid Catholic‑specific words such as *Thiên Chúa, Giáo hội, Giêsu*.  
-- **Clear Theological Focus:** Titles correctly reflect Reformed doctrines (e.g., “Giáo lý Cải Chánh về sự tiền định”, “Công việc của Đức Thánh Linh”, “Giáo lý về sự bền đỗ”).  
-- **Accurate Transliteration of Authors:** Proper Vietnamese rendering of classic Reformed authors (Calvin, Owen, Spurgeon, etc.) is maintained.  
-- **Natural Vietnamese Style:** Most titles read smoothly and are understandable to Vietnamese speakers familiar with Protestant literature.  
-- **Comprehensive Coverage:** The list includes a wide range of classic works (commentaries, systematic theology, devotional, catechism, etc.), providing a solid foundation for a Reformed library.  
+| Item | Issue | Suggested Fix |
+|------|-------|---------------|
+| **calvin/institutio1 & calvin/institutio2** | The phrase **“Cơ Đốc Giáo Cương Yếu”** is literal but sounds stilted; “Giáo Cương” is usually used for *doctrine*, not for the *Institutes*. | Change to **“Cơ Đốc giáo – Giáo Lý Cơ Bản (Quyển 1)”** and **“Cơ Đốc giáo – Giáo Lý Cơ Bản (Quyển 2)”** (or **“Giáo Lý Cơ Bản Cơ Đốc”**). |
+| **owen/communion** | **“Sự thông công với Đức Chúa Trời”** uses “thông công”, a term that is uncommon in Vietnamese Reformed circles and can be confused with Catholic *thông công* (communion). | Render as **“Thánh Thể – Giao ước với Đức Chúa Trời”** or **“Giao ước Thánh Thể với Đức Chúa Trời”**. |
+| **spurgeon/morneve** | **“Sáng và Chiều: Đọc kinh mỗi ngày”** – the word **“kinh”** (scripture) is fine, but the phrase “đọc kinh” is more typical of Catholic devotional language. | Use **“Đọc Kinh Thánh mỗi ngày”** or **“Đọc Lời Chúa mỗi ngày”**. |
+| **watson/beatitudes** | **“Các phước lành trên núi”** – literal translation works, but “phước lành” is a Buddhist‑derived term; Reformed Vietnamese usually says **“phúc âm”** or **“phúc lành”**. | Change to **“Các phúc lành trên núi”**. |
 
-Overall, the collection is well‑curated and largely linguistically appropriate, with only minor wording and typographical adjustments needed.
+*(Only the items above contain genuine language‑style problems; the rest of the titles are acceptable.)*
+
+---
+
+### What Is Good
+
+- **Doctrinal terminology** is consistently Reformed: *Đức Chúa Trời, Thánh Linh, Cơ Đốc nhân, Kinh Thánh*.
+- **Avoidance of Catholic vocabulary**: no use of *Thiên Chúa, Giáo hội, Giêsu*.
+- **Clear identification of authors** and works, making the library easy to navigate.
+- **Accurate translations** of classic titles (e.g., “The Death of Death in the Death of Christ”, “The Freedom of the Will”, “The Doctrine of the Atonement”).
+- **Consistent formatting** (author/slug → Vietnamese title) throughout the list.
 
 ## Vietnamese book titles (id => VN title; original English authors: Calvin, Owen, Edwards, Bunyan, Ryle, Spurgeon, etc.), part 2
 
@@ -41,55 +35,62 @@ Overall, the collection is well‑curated and largely linguistically appropriate
 
 ---
 
-### Problems & Suggested Fixes  
+### Concrete Problems
 
-| Item (key) | Issue | Suggested Fix |
-|------------|-------|---------------|
-| `owen/psalm130` | Uses the Catholic‑style term **“Thi Thiên”** for the Psalms. | Replace with the Protestant‑standard **“Thánh Vịnh”** → *“Giải nghĩa thực hành Thánh Vịnh 130”* |
-| `doddridge/evidences` | Typographical error **“Cơ Đạo giáo”** (should be “Cơ Đốc giáo”). | Correct to **“Cơ Đốc giáo”** → *“Các bằng chứng của Cơ Đốc giáo, tóm lược”* |
+| Item | Issue | Suggested Fix |
+|------|-------|---------------|
+| `owen/psalm130` | Uses “**Thi Thiên**” for the Psalms – a term more common in Catholic translations. | Replace with **“Thánh Vịnh”**: *“Giải nghĩa thực hành Thánh Vịnh 130”* |
+| `schaff/hcc7` / `schaff/hcc8` | “**Cải Chánh Đức**” and “**Cải Chánh Thụy Sĩ**” sound unnatural in Vietnamese Reformed usage; the word “Đức” is ambiguous. | Use **“Cải Chánh Đạo”** (or “Cải Chánh Tin Lành”) for clarity: *“Lịch sử Hội Thánh Cơ Đốc, quyển VII: Cải Chánh Đạo”* |
+| `flavel/pneum` | “**linh hồn**” (soul) is a philosophical term that can imply a dual‑ism not typical of Reformed theology. | Prefer **“tinh thần”** or **“thuộc linh”**: *“Luận về tinh thần con người”* |
+| `hodge/darwinism` | Title “**Thuyết Darwin là gì?**” uses “thuyết” (theory) which may suggest a neutral stance; Reformed perspective often treats evolution as contrary to Scripture. | Add a doctrinal qualifier: *“Thuyết Darwin – Quan điểm Cơ Đốc”* |
+| `schaff/creeds2` / `schaff/creeds3` | The phrase “**Các tín điều của Cơ Đốc giáo**” is acceptable, but “**Cơ Đốc giáo**” can be confused with “Công đoàn Cơ Đốc”. | Use **“Cơ Đốc Tin Lành”** for precision: *“Các tín điều của Cơ Đốc Tin Lành, quyển II”* |
 
-*Severity order:*  
-1. **Terminology** – “Thi Thiên” (high)  
-2. **Typographical error** – “Cơ Đạo giáo” (medium)
+*All other titles are free of Catholic vocabulary, doctrinal error, and read naturally in Protestant Vietnamese.*
+
+---
+
+### What Is Good
+
+- **Consistent use of Reformed terminology**: “Đức Chúa Trời”, “Đấng Christ”, “Tin Lành”, “Hội Thánh”, “thuộc linh”, “Kinh Thánh”.
+- **Clear author attribution** – each entry keeps the original author’s name, aiding scholarly use.
+- **Accurate theological focus** – titles such as “Bản chất và nguyên nhân của sự bội đạo khỏi Tin Lành”, “Luận về ân điển”, “Quyền năng thanh tẩy của huyết Đấng Christ” correctly reflect Reformed doctrines.
+- **Natural Vietnamese style** – most titles employ idiomatic phrasing (e.g., “Các bài giảng của John Owen”, “Kho tàng của Đa‑vít”, “Bình giải toàn bộ Kinh Thánh”).
+- **Avoidance of Catholic‑specific words** – no use of “Thiên Chúa”, “Giáo hội”, “Giêsu”, etc.
+
+Overall the library’s Vietnamese titles are doctrinally sound and largely well‑phrased for a Reformed audience, with only a few minor linguistic adjustments needed.
+
+## About page text (site description and doctrinal stance)
+
+**Verdict:** **9 / 10**
+
+---
+
+### Concrete Problems  
+
+| # | Issue | Suggested Fix |
+|---|-------|---------------|
+| 1 | **Terminology typo:** “xưng **công bình**” – the phrase is unclear and looks like a mistranslation of “justification” (công bình). | Replace with the standard Reformed term **“công bình”** or **“công bình (justification)”** to avoid confusion. |
+| 2 | **Ambiguous reference:** “các nguồn kinh điển của **Hội Thánh**” could be read as a generic church rather than the Reformed church. | Clarify as **“các nguồn kinh điển của Hội Thánh Cải Chánh”** (or “các nguồn kinh điển Reformed”). |
+| 3 | **Inconsistent hyphenation:** “báp‑têm” vs. “báp-têm”. | Standardize to **“báp-têm”** throughout the text. |
+| 4 | **Minor style issue:** “Trưởng Lão và Báp-tít Cải Chánh” – the qualifier “Cải Chánh” is redundant after each office. | Use **“Trưởng Lão và Báp-tít”** (the Reformed context is already clear). |
+
+*All other language is natural, doctrinally sound, and uses proper Protestant Vietnamese vocabulary (Đức Chúa Trời, Hội Thánh, Chúa Giê‑xu, Kinh Thánh, etc.).*
 
 ---
 
 ### What Is Good  
 
-- The majority of titles employ proper Reformed‑Protestant language: **Đức Chúa Trời**, **Hội Thánh**, **Chúa Giê‑xu/Jesus**, **Cơ Đốc nhân**, **thuộc linh**, **Kinh Thánh**.  
-- Doctrinally sound titles (e.g., *“Bản chất và nguyên nhân của sự bội đạo khỏi Tin Lành”*, *“Luận về Ba Ngôi”*, *“Thần học hệ thống”*) reflect classic Reformed theology.  
-- Use of “Đấng Christ”, “Thánh Linh”, and “Công Vụ – Khải Huyền” aligns with Protestant terminology.  
-- The translations are generally clear, natural, and consistent with Vietnamese Reformed publishing conventions.  
+- **Doctrinal disclaimer:** “Việc có mặt trong thư viện không có nghĩa là mọi điều sách nói đều được chúng tôi tán thành.” – a clear Reformed caution that inclusion ≠ endorsement.  
+- **Clear Reformed identity:** Repeated reference to “truyền thống Cải Chánh (Trưởng Lão và Báp-tít Cải Chánh)” and to classic Reformed sources (CCEL, Monergism, 9Marks).  
+- **Proper Protestant terminology:** Uses “Đức Thánh Linh”, “Hội Thánh”, “Kinh Thánh”, “Chúa Giê‑xu”, and avoids Catholic‑specific words.  
+- **Transparency about translation:** Honest note that machine translation is unauthorised and that the English text is the reference.  
+- **User‑friendly features:** Explanation of sync, export/import, and error‑reporting mechanisms is concise and helpful.  
 
-Overall, the library’s Vietnamese titles are well‑crafted and doctrinally faithful, with only minor language adjustments needed.
-
-## About page text (site description and doctrinal stance)
-
-**Verdict:** **8 / 10**
-
----
-
-### Concrete Problems
-
-| Item | Issue | Suggested Fix |
-|------|-------|---------------|
-| 1 | The phrase **“xưng công bình”** is not a standard Protestant expression in Vietnamese; it sounds more like a Catholic formulation and can cause confusion. | Replace with **“công bình”** or **“công bình theo Kinh Thánh”** (e.g., “chúng tôi tự động sửa một số thuật ngữ thường sai (ví dụ: công bình, Đức Thánh Linh, Hội Thánh) …”). |
-
-*No other doctrinal or linguistic problems were found.*
-
----
-
-### What Is Good
-
-- The overall description clearly states the library’s Reformed identity and its reliance on public‑domain works (CCEL, Monergism, 9Marks) and Vietnamese confessions.
-- The Vietnamese text uses appropriate Protestant terminology: **Đức Chúa Trời**, **Hội Thánh**, **Chúa Giê‑xu**, **Cơ Đốc nhân**, **Đức Thánh Linh**, **công bình**, etc.
-- The disclaimer about machine translation and the call to “đối chiếu Kinh Thánh và hỏi mục sư của bạn” aligns with Reformed emphasis on Scripture and pastoral guidance.
-- The copyright and removal policy is clear and consistent with Reformed ethics of respect for authors and publishers.
-- The technical instructions (Sync, Export/Import, PDF/EPUB/TXT) are concise and user‑friendly.
+Overall the page presents a faithful, Protestant‑aligned description of the library with only minor linguistic tweaks needed.
 
 ## Reading-plan page (stages and book order for new Reformed readers; judge order, pastoral wisdom, wording)
 
-**Verdict:** **8 / 10**
+**Verdict:** **7 / 10**
 
 ---
 
@@ -97,64 +98,71 @@ Overall, the library’s Vietnamese titles are well‑crafted and doctrinally fa
 
 | Item | Issue | Suggested Fix |
 |------|-------|---------------|
-| 1. “Bài Tín Điều Các Sứ Đồ” (Stage 0) | The Vietnamese title is garbled and does not convey that this is the **Shorter Catechism** of the Reformed Faith. It may confuse new readers. | Replace with a clear, standard translation: **“Kinh Thánh Tín Điều Ngắn (Shorter Catechism)”** or **“Kinh Thánh Tín Điều Ngắn (Catechism Ngắn)”.** |
-| 2. “Đức Chúa Trời là Tin Lành” (Stage 2) | The phrase can be read as “God is the Gospel,” which is theologically ambiguous and could be mis‑understood. | Re‑phrase to **“Đức Chúa Trời là Đấng ban ơn”** or **“Đức Chúa Trời là Đấng cứu chuộc”** and add a brief note that the work explains the gospel of God. |
-| 3. “Trưởng Lão” (intro paragraph) | The term is not the usual Vietnamese rendering for “Elders” in Reformed polity; the standard term is **“Trưởng lão”** (lower‑case “l”). | Change to **“Trưởng lão”** and, if needed, add a parenthetical clarification: *(các Trưởng lão trong Hội Thánh)*. |
-| 4. Formatting of the “Song song” section | The list of historical resources runs together without clear separators, making it hard to read. | Insert line breaks or bullet points and add headings (e.g., **“Lịch sử Hội Thánh & Cải Chánh”**) to improve readability. |
-| 5. “Ý chí bị trói buộc · Martin Luther” (Stage 4) | The Vietnamese phrase “bị trói buộc” is colloquial and may suggest a deterministic view not intended by Luther’s doctrine of the bound will. | Replace with **“Ý chí bị ràng buộc”** or **“Ý chí bị giới hạn”** and add a short note that the work discusses Luther’s view of the will’s bondage to sin. |
+| 1. “Đức Chúa Trời là Tin Lành” (Stage 2) | The wording suggests that God **is** the gospel, which is theologically inaccurate and can mislead readers. | Change to something like **“Đức Chúa Trời là nguồn của Tin Lành”** or **“Đức Chúa Trời là Đấng cứu độ trong Tin Lành.”** |
+| 2. “Thần học Cải Chánh có nhiều nhánh (Trưởng Lão, Báp-tít Cải Chánh, Anh giáo…)” (Stage 0) | “Anh giáo” (Anglican) is not a Reformed branch and the phrase is confusing. | Replace with **“Thần học Cải Chánh có nhiều nhánh (Trưởng Lão, Báp-tít Cải Chánh, và các nhánh Cải Chánh khác…)”.** |
+| 3. “Bài Tín Điều Các Sứ Đồ” (Stage 0) | The title appears garbled; readers may not understand what the resource is. | Verify the original title and correct it, e.g., **“Bài Tín Điều và Các Sứ Đồ”** or the proper Vietnamese title of the source. |
+| 4. “God&#x27;s Way of Peace” (Stage 0) | HTML entity (`&#x27;`) shows up in the displayed text. | Replace with the proper apostrophe: **“God's Way of Peace.”** |
+| 5. Truncated section at the end of the page (after “Tuyên ngôn Cambridge”) | The final paragraph ends abruptly with “Giáo luật” and lacks clear instruction. | Complete the sentence, e.g., **“Đọc Giáo luật Dordt trước, rồi các sách giải thích. Hãy luôn đối chiếu với Kinh Thánh.”** and remove the stray “Giáo luật.” |
+| 6. Inconsistent use of diacritics in some English‑Vietnamese mixed titles (e.g., “All of Grace” – no Vietnamese subtitle) | Minor readability issue; readers may benefit from a Vietnamese subtitle. | Add a brief Vietnamese subtitle, e.g., **“All of Grace (Tất cả ân điển).”** |
+| 7. “Song song” heading | The heading is vague and does not explain the purpose of the following list. | Rename to **“Lịch sử Cải Chánh – Đọc Song Song”** or similar to clarify. |
 
-*All other items are accurate, use appropriate Protestant terminology, and are free of Catholic vocabulary.*
+*All other items are free of Catholic terminology and use appropriate Protestant language (Đức Chúa Trời, Hội Thánh, Chúa Giê‑xu, Kinh Thánh, etc.).*
 
 ---
 
 ### What Is Good
 
-- **Doctrinal Soundness:** All selected works (Westminster Shorter Catechism, Heidelberg Catechism, Westminster Confession, Dordt Catechism, Belgic Confession, etc.) are classic Reformed confessional standards; the reading plan respects the historic order of doctrine.
-- **Pastoral Wisdom:** The suggested reading rhythm (15‑20 min daily, weekly chapters, monthly reflections, periodic review weeks) is realistic and spiritually healthy for new believers.
-- **Language Use:** The text consistently employs Protestant‑appropriate Vietnamese terms: **Đức Chúa Trời, Hội Thánh, Chúa Jesus, Cơ Đốc nhân, Kinh Thánh, Tin Lành**. No Catholic‑specific words appear.
-- **Accessibility:** Clear notices about machine translation, the need to compare with Scripture, and encouragement to consult a pastor or mentor demonstrate good shepherding.
-- **Resource Variety:** The plan balances catechetical material, devotional classics, confessional documents, and systematic theology, providing a well‑rounded formation path.
-- **Inclusivity of Languages:** English‑language works are flagged with the translation button (🌐), and Vietnamese translations are provided where available, making the library usable for both Vietnamese‑only and bilingual readers.
+- **Logical Progression:** The reading plan moves from basic foundations (Stage 0) to systematic theology (Stage 5) in a clear, step‑by‑step manner, which is pastorally wise for new believers.
+- **Reformed Confessional Emphasis:** Core Reformed documents (Westminster Catechism, Heidelberg Catechism, Dordt, Belgic, Philadelphia) are included at appropriate stages.
+- **Pastoral Warnings:** Repeated reminders to compare translations with the original Kinh Thánh and to consult a pastor or mentor are excellent safeguards.
+- **Reading Rhythm:** Practical suggestions (15‑20 min daily, weekly chapters, monthly reflections) are realistic and encourage disciplined spiritual growth.
+- **Use of Proper Protestant Vocabulary:** The text consistently employs “Đức Chúa Trời,” “Hội Thánh,” “Chúa Giê‑xu,” “Cơ Đốc,” and avoids Catholic terms such as “Thiên Chúa” or “Giáo hội.”
+- **Accessibility:** Providing free English‑language resources with a machine‑translation button makes the material reachable for Vietnamese readers who may not have Vietnamese editions.
+- **Diverse Genres:** The plan includes doctrinal works, devotional classics, historical narratives, and practical guides, offering a well‑rounded formation.
+
+Overall, the page is a solid, pastorally sound resource for newcomers to Reformed theology, needing only the minor corrections listed above.
 
 ## Topic hubs definition (names, intros, keyword regex; judge whether the topics, names and keywords are doctrinally sound)
 
-**Verdict:** **6 / 10**
+**Verdict:** **8 / 10**
 
-The topic‑hub definitions cover the essential Reformed doctrines and use generally appropriate Protestant Vietnamese terminology.  However, a number of serious typographical errors in the keyword regexes, a few inaccurate Vietnamese phrases, and a couple of Catholic‑leaning terms lower the overall quality.
+The topic‑hub list is largely doctrinally sound and uses the proper Protestant Vietnamese vocabulary.  A few language‑ and regex‑mistakes, plus a couple of terms that drift toward Catholic phrasing, need correction.
 
 ---
 
 ### Concrete Problems (ordered by severity)
 
-| Item (topic) | Issue | Suggested Fix |
-|--------------|-------|---------------|
-| **xung-cong-binh** | English regex contains `justif` (truncated). | Change to `justification`. |
-| **nen-thanh** | English regex contains `sanctif` and `mortif` (truncated). | Replace with `sanctification` and `mortification`. |
-| **ba-ngoi** | Vietnamese intro uses “quan phòng” (missing diacritic). | Correct to **“quán phòng”**. |
-| **chua‑christ** | Vietnamese intro uses “Thân vị” (typo). | Change to **“Thân thể”**. |
-| **duc‑thanh‑linh** | Vietnamese keyword list only has `thánh linh`. | Add `đức thánh linh` (or replace with it). |
-| **kinh‑thanh** | English regex has `inerran` (typo). | Replace with **`inerrancy`**. |
-| **hoi‑thanh** | English regex includes `ecclesi` (truncated). | Replace with **`ecclesiology`**. |
-| **hoi‑thanh** | English keyword `sacrament` is a Catholic term. | Replace with **`Lord’s Supper`** (or remove). |
-| **cau‑nguyen** | English regex has `meditat` (truncated). | Replace with **`meditation`**. |
-| **cau‑nguyen** | Vietnamese keyword `thi thiên` is a typo. | Remove or replace with a correct phrase (e.g., `thờ thiên` is not standard; better to omit). |
-| **giao‑uoc** | English regex contains `canons of dort` (typo) and stray `dort`. | Change to **`Canons of Dort`** and delete the extra `dort`. |
-| **tien‑dinh** | English regex has `predestin` and `calvinis` (truncated). | Replace with **`predestination`** and **`calvinist`**. |
-| **muc‑vu‑giang‑dao** | English regex includes irrelevant phrase `lectures to my students`. | Remove the phrase. |
-| **muc‑vu‑giang‑dao** | English regex has `evangel` (truncated). | Replace with **`evangelism`**. |
-| **ba‑ngoi** | English regex includes bare `god's` (ambiguous). | Use `God’s` with a word‑boundary or replace with a more precise term (e.g., `God’s attributes`). |
+| Item | Issue | Suggested Fix |
+|------|-------|---------------|
+| **duc‑thanh‑linh** | Vietnamese keyword uses “**thánh linh**” (Catholic‑styled “Thánh Linh”) instead of the Reformed‑standard **“Thánh Thần”**. | Replace `thánh linh` with `thánh thần`. |
+| **hoi‑thanh** | English keyword list contains the word **“sacrament”**, a Catholic‑laden term. | Remove `sacrament` (or replace with “báp‑têm” / “Tiệc Thánh” if a keyword is needed). |
+| **kinh‑thanh** | Regex typo **“inerran”** (should be “inerrant”). | Change `inerran` → `inerrant`. |
+| **cau‑nguyen** | Vietnamese keyword **“thi thiên”** is a misspelling / non‑standard phrase. | Replace with `thờ Chúa` or `thờ Thiên Chúa` (if a keyword is needed) – avoid Catholic “Thiên Chúa”. |
+| **giao‑uoc** | English regex typo **“canons of dort”** and **“dort”** (should be “Canons of Dordt”). | Change to `canons of dordt` (or `dordt`). |
+| **tien‑dinh** | English regex typo **“calvinis”** (should be “Calvinist”). | Replace `calvinis` → `calvinist`. |
+| **nen‑thanh** | English regex contains incomplete fragments **“sanctif”** and **“mortif”**. | Replace with full words: `sanctify`, `mortify`. |
+| **muc‑vu‑giang‑dao** | English regex includes the phrase **“lectures to my students”**, which is irrelevant to the topic. | Remove that phrase from the regex. |
+| **chua‑christ** | English regex includes the odd phrase **“death of death”**. | Remove or replace with a relevant term (e.g., `death`, `mortality`). |
+| **cau‑nguyen** | English regex fragment **“meditat”** is incomplete. | Change to `meditation`. |
+| **ba‑ngoi** | Vietnamese keyword **“quan phòng”** lacks the diacritic (should be “quán phòng”). | Update to `quán phòng`. |
+| **tien‑dinh** | Vietnamese keyword list includes **“calvin”**, which is unnecessary and could be confusing. | Remove `calvin` from the Vietnamese keyword list. |
+| **nen‑thanh** | English regex includes **“mortif”** (non‑standard). | Replace with `mortify`. |
+| **xung‑cong‑binh** | English regex includes **“bondage of the will”** – a phrase more associated with Arminian debates than core Reformed doctrine. | Consider removing if not needed for the hub. |
 
-*All other entries are free of doctrinal error and use acceptable Protestant Vietnamese vocabulary.*
+*All other entries are free of doctrinal error and use acceptable Protestant Vietnamese terminology (e.g., “Đức Chúa Trời”, “Hội Thánh”, “Chúa Jesus”, “Kinh Thánh”).*
 
 ---
 
 ### What Is Good
 
-- **Topic selection** – All core Reformed doctrines (grace, justification, sanctification, Trinity, Christology, Holy Spirit, Scripture, Church, Prayer, Covenant theology, Predestination, Church history, Ministry) are represented.
-- **Vietnamese naming** – The Vietnamese titles (`Ân điển và Tin Lành`, `Xưng công bình bởi đức tin`, `Ba Ngôi và Đức Chúa Trời`, etc.) follow Protestant conventions and avoid Catholic terminology.
-- **Core keyword coverage** – Both English and Vietnamese keyword lists capture the essential theological terms needed for search and categorisation.
-- **Consistent structure** – Each hub follows the same pattern (slug, title, intro, English regex, Vietnamese regex), making the data easy to maintain.
-- **Use of Reformed confessional language** – References to the Westminster and Heidelberg standards, the Canons of Dort, and the doctrine of sovereign grace are correctly included.
+| Aspect | Comment |
+|--------|---------|
+| **Doctrinal Coverage** | All core Reformed topics are represented: grace, justification, sanctification, Trinity, Christology, Holy Spirit, Scripture authority, Church polity, prayer & worship, covenant theology, predestination, church history, and ministry. |
+| **Protestant Vocabulary** | The Vietnamese terms consistently employ Reformed language: **Đức Chúa Trời**, **Hội Thánh**, **Chúa Jesus**, **Cơ Đốc nhân**, **thuộc linh**, **Kinh Thánh**. No Catholic‑specific words such as “Thiên Chúa” or “Giáo hội” appear. |
+| **Keyword Breadth** | The English‑language regex strings capture the major theological keywords needed for search indexing (e.g., `grace`, `justification`, `trinity`, `atonement`, `covenant`, `predestination`). |
+| **Clarity of Intros** | Each hub’s introductory sentence succinctly states the theological focus, aiding both lay readers and scholars. |
+| **Consistency of Formatting** | The tuple structure (`slug`, `title`, `intro`, `english‑regex`, `vietnamese‑regex`) is uniform, making the data easy to parse program‑matically. |
+| **Inclusivity of Tradition** | References to the Westminster and Heidelberg standards, as well as the Canons of Dordt, correctly anchor the library in the Three Forms of Unity tradition. |
 
-Overall, after
+Overall, the topic hub list is a solid foundation for a Reformed Vietnamese library; correcting the minor language and regex issues will improve both doctrinal precision and search functionality.
 
