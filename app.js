@@ -162,6 +162,7 @@ function card(b){
 }
 function sheetActs(b){
   var lg=st.lang,vi=lg==="vi",x="",id=encodeURIComponent(b.id),ext=' target="_blank" rel="noopener"';
+  if(window.VIB&&VIB[b.id])x+='<a class="p" href="'+VIB[b.id].u+'">📖 '+(vi?"Đọc bản dịch tiếng Việt":"Read Vietnamese translation")+' <small>('+(VIB[b.id].r?(vi?"đã duyệt":"reviewed"):(vi?"AI, chưa duyệt":"AI, not yet reviewed"))+')</small></a>';
   if(b.read){
     x+='<a class="p" href="reader.html?id='+id+'">'+(vi?"Đọc tại đây":"Read here")+'</a>';
     if(b.au!=="vn")x+='<a class="s2" href="reader.html?id='+id+'&tr=1">🌐 '+(vi?"Đọc bản dịch tiếng Việt (dịch máy)":"Read Vietnamese translation (machine)")+'</a>';
@@ -386,7 +387,7 @@ labels();
 var jf=function(u){return fetch(u).then(function(r){return r.json()}).catch(function(){return null})};
 /* Core data first (fast first paint); the big Internet Archive / Gutenberg catalogs stream in afterwards. */
 var rest=Promise.all([jf("ia.json"),jf("pg.json")]);
-Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"),jf("vi.json"),jf("desc.json"),jf("lv.json"),jf("dg.json"),jf("audio.json")]).then(function(x){var d=x[0];if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}LV=x[4];DGJ=x[5];if(x[6]&&x[6].ccel)x[6].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}
+Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"),jf("vi.json"),jf("desc.json"),jf("lv.json"),jf("dg.json"),jf("audio.json"),jf("vi-books.json")]).then(function(x){var d=x[0];window.VIB=x[7]||{};if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}LV=x[4];DGJ=x[5];if(x[6]&&x[6].ccel)x[6].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}
   BOOKS=expand(d);buildAuthors();render();deepLink();
   return rest.then(function(y){if(!y[0]&&!y[1])return;IA=y[0];PG=y[1];BOOKS=expand(d);buildAuthors();render();deepLink()});
 }).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});

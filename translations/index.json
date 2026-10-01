@@ -1,0 +1,5 @@
+[
+ {"id":"knox/prayer","file":"knox-prayer.txt","title":"Luận về Sự cầu nguyện","orig":"A Treatise on Prayer","author":"John Knox","by":"Claude","reviewed":false,"hold":true,"hold_reason":"Nguồn tiếng Anh là bản hiện đại hóa (Kevin Reed, 1995) còn bản quyền; cần dịch lại từ bản Laing 1895 trước khi đăng."},
+ {"id":"owen/catechisms","file":"owen-catechisms.txt","title":"Hai Giáo lý vấn đáp ngắn","orig":"Two Short Catechisms","author":"John Owen","by":"Claude","reviewed":false},
+ {"id":"spurgeon/catechism","file":"spurgeon-puritan-catechism.txt","title":"Giáo lý vấn đáp Thanh giáo","orig":"A Puritan Catechism","author":"C. H. Spurgeon","by":"Claude","reviewed":false}
+]

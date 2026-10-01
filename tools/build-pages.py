@@ -126,6 +126,7 @@ exec(open('tools/quotes.py', encoding='utf-8').read())
 exec(open('tools/glossary.py', encoding='utf-8').read())
 exec(open('tools/vn_context.py', encoding='utf-8').read())
 exec(open('tools/subscribe_page.py', encoding='utf-8').read())
+exec(open('tools/vi_books.py', encoding='utf-8').read())
 
 # sitemap
 # drop links to author pages that were not generated (authors with fewer than 2 items)
