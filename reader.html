@@ -47,7 +47,7 @@ main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
 @media(min-width:820px){#sheet{left:auto;top:0;bottom:0;width:400px;max-height:none;border-radius:0;border-left:1px solid var(--ln);border-top:0}#back2.on{background:#0002}}
 #all{display:none}
 @media print{#top,#foot,#pl,#sheet,#back2,#bar,#msg,#txt,#trs{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}
-</style></head><body class="ui" data-t="light">
+</style><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#9a3412"><link rel="apple-touch-icon" href="/icon-192.png"></head><body class="ui" data-t="light">
 <div id="bar"><i></i></div>
 <div id="top">
   <a id="back" href="./">←</a><span id="ttl"></span>
@@ -413,4 +413,4 @@ fetch("api/text?id="+encodeURIComponent(id)).then(function(r){if(!r.ok)throw 0;r
   if(sc&&sc.p===cur&&sc.y)setTimeout(function(){window.scrollTo(0,sc.y)},50);
 }).catch(fail);
 })();
-</script></body></html>
+</script><script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script></body></html>
