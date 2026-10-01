@@ -421,3 +421,5 @@ $("bk").addEventListener("input",function(e){
   var id=r.dataset.rid,p=+r.value;st.prog[id]={s:p>=100?"done":"reading",p:p,t:Date.now()};r.nextElementSibling.textContent=p+"%";saveLS("rv.prog",st.prog);
 });
 (function(){var br=document.querySelector(".brand");br.style.cursor="pointer";br.addEventListener("click",function(){$("clear").click();window.scrollTo(0,0)})})();
+
+;fetch("subscribe.json").then(function(r){return r.json()}).then(function(j){var e=document.getElementById("sub");if(j&&/^https:\/\//.test(j.url)&&e){e.href=j.url;e.hidden=false}}).catch(function(){});

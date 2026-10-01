@@ -22,6 +22,9 @@ CSS = ("body{margin:0;background:#f4efe4;color:#26211a;font:17px/1.6 Georgia,ser
        "padding:8px 16px;border-radius:8px;text-decoration:none;font:600 15px system-ui,sans-serif;margin:4px 6px 4px 0}.btn.s{background:none;color:#9a3412;border:1px solid #9a3412}"
        "footer{margin-top:40px;font:13px system-ui,sans-serif;color:#6f665a}")
 
+import json as _sj
+_su=_sj.load(open('subscribe.json')).get('url','')
+SUBL=(f' · <a href="{_su}" rel="noopener">Nhận bài qua email</a>' if _su else '')
 def page(title, desc_, path, body, ld=None):
     url = f"{SITE}/{path}"
     j = f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>' if ld else ""
@@ -31,7 +34,7 @@ def page(title, desc_, path, body, ld=None):
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><style>{CSS}</style>{j}</head><body><main>
 <nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a></nav>
 {body}
-<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · Liên hệ: reformedvn@gmail.com</footer></main></body></html>'''
+<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a>{SUBL} · Liên hệ: reformedvn@gmail.com</footer></main></body></html>'''
 
 for d in ("a", "b"):
     shutil.rmtree(d, ignore_errors=True); os.makedirs(d)
