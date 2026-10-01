@@ -29,7 +29,7 @@ def page(title, desc_, path, body, ld=None):
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{SITE}/og.png"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><style>{CSS}</style>{j}</head><body><main>
-<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a></nav>
+<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a></nav>
 {body}
 <footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · Liên hệ: reformedvn@gmail.com</footer></main></body></html>'''
 
@@ -108,6 +108,8 @@ open("sach-noi.html", "w", encoding="utf-8").write(page("Sách nói và bài gi�
     "Nơi nghe sách nói, bài giảng và Kinh Thánh âm thanh miễn phí: LibriVox, CCEL, Puritan Downloads, Bible.com, Ligonier, Desiring God.", "sach-noi.html",
     f"<h1>Sách nói và bài giảng miễn phí</h1><p>Các nguồn nghe miễn phí mà thư viện dẫn đến. Trong thư viện, lọc \"Có bản nghe\" để xem các sách có bản nghe. Trình đọc của chúng tôi cũng đọc to bằng giọng của thiết bị.</p><ul>{lis_a}</ul><p><a class=\"btn\" href=\"/?q=\">Mở thư viện</a></p>"))
 urls.append("sach-noi.html")
+
+exec(open('tools/plan.py', encoding='utf-8').read())
 
 # sitemap
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
