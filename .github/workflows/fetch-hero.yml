@@ -8,8 +8,10 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           mkdir -p img
-          curl -sSL -w "%{http_code}\n" -A "ReformedVietnam/1.0 (tranvuduc.vsec@gmail.com)" -o img/dore-sermon.jpg "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dore_Bible_Sermon_on_the_Mount.jpg/800px-Dore_Bible_Sermon_on_the_Mount.jpg"
+          curl -sSL -w "%{http_code}\n" -A "ReformedVietnam/1.0 (tranvuduc.vsec@gmail.com)" -o img/dore-sermon.jpg "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dore_Bible_Sermon_on_the_Mount.jpg/500px-Dore_Bible_Sermon_on_the_Mount.jpg"
           file img/dore-sermon.jpg | tee img/status.txt; head -c 300 img/dore-sermon.jpg | strings | head -3 >> img/status.txt
           git config user.name bot; git config user.email bot@users.noreply.github.com
+          file img/dore-sermon.jpg | grep -q JPEG || { echo BADFILE; rm -rf img; exit 1; }
+          rm -f img/status.txt
           git add img; git commit -m "Self-host Dore hero image (public domain)" || exit 0
           for i in 1 2 3 4 5; do git pull --rebase -X theirs origin main && git push && exit 0; sleep 5; done

@@ -1,4 +1,0 @@
-img/dore-sermon.jpg: HTML document, ASCII text, with very long lines (445)
-<!DOCTYPE html>
-<html lang="en">
-<meta charset="utf-8">
