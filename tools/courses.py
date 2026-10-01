@@ -1,0 +1,34 @@
+# Executed from build-pages.py (uses: page, E, urls). Builds khoa-hoc.html: free online theology courses with translate helpers.
+import urllib.parse as _up
+_C = [
+ ("Thirdmill Institute", "https://thirdmillinstitute.org/", "Chương trình chứng chỉ và văn bằng thần học miễn phí, học trực tuyến theo từng bước (Nền tảng → Kinh Thánh → Thần học → Mục vụ).", "Free certificate and diploma programs in theology, studied online step by step (Foundations → Bible → Theology → Ministry).", "EN", "Chương trình"),
+ ("Thirdmill E-Learning", "https://elearning.thirdmill.org/", "Cổng học trực tuyến của Thirdmill: đăng ký, theo dõi tiến độ và làm bài kiểm tra các khóa học.", "Thirdmill's learning portal: enroll, track progress and take course quizzes.", "EN", "Chương trình"),
+ ("Thirdmill – lớp học video", "https://thirdmill.org/watch.asp", "Các lớp thần học dạng video (Richard Pratt và nhiều giảng viên), kèm tài liệu học. Thirdmill phát hành bằng nhiều ngôn ngữ; hãy kiểm tra có bản tiếng Việt.", "Video seminary classes with study guides. Thirdmill publishes in many languages; check for Vietnamese versions.", "EN+", "Video"),
+ ("BiblicalTraining.org", "https://www.biblicaltraining.org/", "Thư viện lớp học Kinh Thánh và thần học miễn phí, nhiều giảng viên Tin Lành; học theo chương trình hoặc từng bài.", "A free library of Bible and theology classes by evangelical teachers; follow a path or pick lessons.", "EN", "Thư viện"),
+ ("TGC Courses", "https://www.thegospelcoalition.org/courses/", "Các khóa học ngắn của The Gospel Coalition về Kinh Thánh, thần học và đời sống Hội Thánh.", "Short courses from The Gospel Coalition on the Bible, theology and church life.", "EN", "Khóa ngắn"),
+ ("Learn Ligonier", "https://learn.ligonier.org/", "Chuỗi bài giảng của R.C. Sproul và các giảng viên Ligonier về thần học Cải Chánh. Một số miễn phí, một số cần trả phí.", "Lecture series by R.C. Sproul and Ligonier teachers on Reformed theology. Some free, some paid.", "EN", "Bài giảng"),
+ ("Covenant Worldwide", "https://worldwide.covenantseminary.edu/", "Bài giảng và khóa học của Covenant Theological Seminary dành cho người học trên toàn thế giới.", "Lectures and courses from Covenant Theological Seminary for learners worldwide.", "EN", "Chủng viện"),
+ ("Reformed Theological Seminary (RTS)", "https://rts.edu/", "Bài giảng chủng viện Cải Chánh miễn phí qua các chương trình trực tuyến của RTS; xem mục tài nguyên và RTS Global.", "Free Reformed seminary lectures via RTS online resources; see resources and RTS Global.", "EN", "Chủng viện"),
+ ("Monergism – thư mục lớp học chủng viện miễn phí", "https://www.monergism.com/topics/education-academia/library-free-online-seminary-courses", "Danh mục tuyển chọn các khóa học và bài giảng chủng viện miễn phí từ nhiều nơi. Điểm khởi đầu tốt để tìm thêm.", "A curated directory of free seminary courses and lectures from many schools. A good place to find more.", "EN", "Danh mục"),
+]
+def _tr(u):
+    return "https://translate.google.com/translate?sl=en&tl=vi&u=" + _up.quote(u, safe="")
+_cards = "".join(f'''<li class="cr"><div><b>{E(n)}</b> <small>{E(k)} · {E(l)}</small></div><p lang="vi">{E(v)}</p><p lang="en" hidden>{E(e)}</p><div class="ca"><a class="go" href="{E(u)}" rel="noopener" target="_blank">Mở khóa học ↗</a> <a href="{E(_tr(u))}" rel="noopener" target="_blank">🌐 Dịch trang sang tiếng Việt</a></div></li>''' for n, u, v, e, l, k in _C)
+_css = '<style>.cr{list-style:none;margin:0 0 14px;padding:14px 16px;border:1px solid #8884;border-radius:12px}.cr p{margin:6px 0}.ca{display:flex;gap:16px;flex-wrap:wrap;font-size:.95rem}.go{font-weight:700}ul.cl{padding:0}.tb{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}.tb button,.tb a{padding:8px 14px;border:1px solid #8886;border-radius:999px;background:none;color:inherit;font:inherit;cursor:pointer;text-decoration:none}.tb button[aria-pressed=true]{border-color:#9a3412;box-shadow:inset 0 0 0 1px #9a3412}.tx{width:100%;min-height:90px;padding:10px;border:1px solid #8886;border-radius:10px;font:inherit;background:none;color:inherit;box-sizing:border-box}small{opacity:.7}</style>'
+_js = '''<script>(function(){var q=function(s){return[].slice.call(document.querySelectorAll(s))};function set(l){q("[lang=vi]").forEach(function(e){if(e.tagName==="P")e.hidden=l!=="vi"});q("[lang=en]").forEach(function(e){if(e.tagName==="P")e.hidden=l!=="en"});q(".tb button[data-l]").forEach(function(b){b.setAttribute("aria-pressed",b.dataset.l===l)});try{localStorage.setItem("rv.kh",l)}catch(e){}}
+q(".tb button[data-l]").forEach(function(b){b.onclick=function(){set(b.dataset.l)}});var l="vi";try{l=localStorage.getItem("rv.kh")||"vi"}catch(e){}set(l);
+var t=document.getElementById("tx");function go(sl,tl){var v=t.value.trim();if(!v)return;window.open("https://translate.google.com/?sl="+sl+"&tl="+tl+"&op=translate&text="+encodeURIComponent(v.slice(0,4000)),"_blank","noopener")}
+document.getElementById("t1").onclick=function(){go("en","vi")};document.getElementById("t2").onclick=function(){go("vi","en")}})()</script>'''
+_body = f'''{_css}<h1>Khóa học thần học trực tuyến miễn phí</h1>
+<p>Các trường và chương trình học thần học trực tuyến, miễn phí hoặc có phần miễn phí. Phần lớn bằng tiếng Anh: dùng nút 🌐 để dịch trang, hoặc dán văn bản bên dưới để dịch.</p>
+<div class="tb" role="group" aria-label="Ngôn ngữ mô tả"><button type="button" data-l="vi" aria-pressed="true">Tiếng Việt</button><button type="button" data-l="en" aria-pressed="false">English</button></div>
+<ul class="cl">{_cards}</ul>
+<h2>Dịch nhanh một đoạn</h2>
+<p><small>Dán bài giảng, đề bài hay câu hỏi của khóa học vào đây. Văn bản sẽ mở trong Google Dịch ở tab mới.</small></p>
+<textarea class="tx" id="tx" placeholder="Paste text here / Dán văn bản vào đây"></textarea>
+<div class="tb"><button type="button" id="t1">Anh → Việt</button><button type="button" id="t2">Việt → Anh</button></div>
+<h2>Mẹo học hiệu quả</h2>
+<ul><li>Chọn một chương trình và học đều: 20–30 phút mỗi ngày tốt hơn một buổi dài mỗi tuần.</li><li>Bật phụ đề tự dịch của YouTube khi xem video; trình duyệt Chrome và Edge cũng dịch cả trang.</li><li>Bản dịch máy có thể sai thuật ngữ. Đối chiếu Kinh Thánh và hỏi mục sư hoặc người hướng dẫn của bạn.</li><li>Đọc sách liên quan trong <a href="/">thư viện</a> và <a href="/lo-trinh.html">lộ trình đọc</a> để học sâu hơn.</li></ul>
+<p><small>Các liên kết dẫn đến trang bên ngoài; nội dung, điều kiện miễn phí và ngôn ngữ có thể thay đổi. Reformed Vietnam không liên kết chính thức với các trường này.</small></p>{_js}'''
+open("khoa-hoc.html", "w", encoding="utf-8").write(page("Khóa học thần học trực tuyến miễn phí (Thirdmill, Ligonier, RTS…) | Reformed Vietnam", "Danh sách khóa học thần học trực tuyến miễn phí từ Thirdmill, Ligonier, RTS, Covenant, TGC, kèm công cụ dịch sang tiếng Việt.", "khoa-hoc.html", _body))
+urls.append("khoa-hoc.html")
