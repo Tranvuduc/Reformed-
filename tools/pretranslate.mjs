@@ -33,9 +33,9 @@ async function pickModels() {
   } catch (e) { lastErr = 'list error ' + e.message; }
 }
 await pickModels();
-async function groq(src) {
+async function groq1(src) {
   for (let a = 0; a < 6; a++) {
-    const wait = Math.max(0, lastCall + 20000 - Date.now()); // stay under free TPM
+    const wait = Math.max(0, lastCall + 16000 - Date.now()); // stay under free TPM
     if (wait) await new Promise(r => setTimeout(r, wait));
     lastCall = Date.now();
     try {
@@ -43,7 +43,7 @@ async function groq(src) {
         method: 'POST',
         headers: { 'content-type': 'application/json', authorization: 'Bearer ' + GKEY },
         body: JSON.stringify({
-          model: qModel, temperature: 0.2, max_completion_tokens: 8000, reasoning_effort: /gpt-oss/.test(qModel) ? 'low' : undefined,
+          model: qModel, temperature: 0.2, max_completion_tokens: 3600, reasoning_effort: /gpt-oss/.test(qModel) ? 'low' : undefined,
           messages: [
             { role: 'system', content: SYS + ' Reply with ONLY a JSON object {"t":[...]} where t is the array of translations, no markdown fences.' },
             { role: 'user', content: JSON.stringify({ paragraphs: src }) }]
@@ -58,6 +58,13 @@ async function groq(src) {
     } catch (e) { if (a === 5) throw e; await new Promise(r => setTimeout(r, 8000)); }
   }
   throw new Error('groq failed');
+}
+async function groq(src) {
+  // free-tier TPM is ~8k: send small sub-batches (~2000 chars of English each)
+  const out = []; let cur = [], n = 0;
+  const flush = async () => { if (cur.length) { out.push(...await groq1(cur)); cur = []; n = 0; } };
+  for (const p of src) { if (n + p.length > 2000 && cur.length) await flush(); cur.push(p); n += p.length; }
+  await flush(); return out;
 }
 async function gemini(src) {
   for (let a = 0; a < 6; a++) {
