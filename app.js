@@ -25,7 +25,7 @@ try{
   st.saved=JSON.parse(localStorage.getItem("rv.saved")||"[]");
   st.prog=JSON.parse(localStorage.getItem("rv.prog")||"{}");
   var l=localStorage.getItem("rv.lang");
-  if(l)st.lang=l;else if(navigator.language&&navigator.language.indexOf("vi")!==0)st.lang="en";
+  if(l)st.lang=l;
 }catch(e){}
 function saveLS(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
