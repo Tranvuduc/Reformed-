@@ -110,6 +110,7 @@ open("sach-noi.html", "w", encoding="utf-8").write(page("Sách nói và bài gi�
 urls.append("sach-noi.html")
 
 exec(open('tools/plan.py', encoding='utf-8').read())
+exec(open('tools/today.py', encoding='utf-8').read())
 
 # sitemap
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)

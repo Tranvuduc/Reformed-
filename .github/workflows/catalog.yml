@@ -4,7 +4,7 @@ on:
   push:
     paths: ["scripts/**"]
   schedule:
-    - cron: "0 3 1 * *"
+    - cron: "0 3 * * 1"
 permissions:
   contents: write
 jobs:
@@ -20,7 +20,7 @@ jobs:
       - run: |
           git config user.name "catalog-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -A ia.json a b tac-gia.html tieng-viet.html sach-noi.html sitemap.xml
+          git add -A ia.json a b tac-gia.html tieng-viet.html sach-noi.html sitemap.xml hom-nay.html lo-trinh.html feed.xml chu-de
           git diff --cached --quiet && exit 0
           git commit -m "Update Internet Archive catalog"
           for i in 1 2 3 4; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done

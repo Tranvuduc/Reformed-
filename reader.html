@@ -476,7 +476,9 @@ fetch("api/text?id="+encodeURIComponent(id)).then(function(r){if(!r.ok)throw 0;r
   if(t.length<500)throw 0;build(t);if(!pages.length)throw 0;$("msg").remove();
   var pos=+ls("rv.pos."+id)||0,sc=null;try{sc=JSON.parse(ls("rv.sc."+id)||"null")}catch(e){}
   var qp=q.get("p");if(qp!==null&&!isNaN(+qp))pos=+qp;
-  render(pos,false);sizeFoot();hlSync();
+  var fnd=q.get("find"),fk=-1;if(fnd){var ff=fold(fnd).trim();for(var i2=0;i2<P.length;i2++){var tt=fold(P[i2].t).trim();if(tt===ff||(tt.length<ff.length+6&&tt.indexOf(ff)===0)){fk=i2;break}}if(fk>=0)pos=pageOf(fk)}
+  if(q.get("tr")==="1"){trm="1";ls("rv.trm","1");$("tr").classList.add("on")}
+  render(pos,false);sizeFoot();hlSync();if(fk>=0)setTimeout(function(){flash(fk-pages[cur].a)},300);
   if(sc&&sc.p===cur&&sc.y)setTimeout(function(){window.scrollTo(0,sc.y)},50);
 }).catch(fail);
 })();

@@ -1,0 +1,25 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hôm nay: bài suy niệm và giáo lý mỗi ngày | Reformed Vietnam</title><meta name="description" content="Bài suy niệm Spurgeon, câu hỏi giáo lý Westminster và Heidelberg mỗi ngày, miễn phí, có dịch tiếng Việt."><link rel="canonical" href="https://reformed-vietnam.vercel.app/hom-nay.html">
+<meta property="og:type" content="article"><meta property="og:title" content="Hôm nay: bài suy niệm và giáo lý mỗi ngày | Reformed Vietnam"><meta property="og:description" content="Bài suy niệm Spurgeon, câu hỏi giáo lý Westminster và Heidelberg mỗi ngày, miễn phí, có dịch tiếng Việt."><meta property="og:url" content="https://reformed-vietnam.vercel.app/hom-nay.html"><meta property="og:image" content="https://reformed-vietnam.vercel.app/og.png"><meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><style>body{margin:0;background:#f4efe4;color:#26211a;font:17px/1.6 Georgia,serif}main{max-width:46rem;margin:0 auto;padding:24px 18px 60px}a{color:#9a3412}nav.top{font:14px system-ui,sans-serif;margin-bottom:18px}h1{font-size:1.9rem;line-height:1.2;margin:.2em 0 .5em}ul{padding-left:1.1em}li{margin:.5em 0}small,.m{color:#6f665a;font:14px system-ui,sans-serif}.btn{display:inline-block;background:#9a3412;color:#fff;padding:8px 16px;border-radius:8px;text-decoration:none;font:600 15px system-ui,sans-serif;margin:4px 6px 4px 0}.btn.s{background:none;color:#9a3412;border:1px solid #9a3412}footer{margin-top:40px;font:13px system-ui,sans-serif;color:#6f665a}</style></head><body><main>
+<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a></nav>
+<h1>Hôm nay</h1>
+<p class="m" id="dt"></p>
+<div class="card" id="me"></div>
+<div class="card"><h2>Giáo lý hôm nay</h2>
+<p><b>Giáo lý Vắn tắt Westminster:</b> câu hỏi số <b id="wq"></b>/107. Đọc câu hỏi, đáp và các câu Kinh Thánh dẫn kèm. <a href="https://godssovereigntyinvietnam.com/page-where-am-i/giao-ly-van-tat-westminster/" target="_blank" rel="noopener">Mở bản tiếng Việt</a></p>
+<p><b>Giáo lý Heidelberg:</b> tuần này là <b>Ngày Chúa nhật thứ <span id="hd"></span></b> (có 52 phần trong 1 năm). <a href="https://godssovereigntyinvietnam.com/wp-content/uploads/2022/11/heidelberg-english-vietnamese3-copy.pdf" target="_blank" rel="noopener">Mở bản Anh–Việt</a></p></div>
+<div class="card" id="cont" hidden><h2>Tiếp tục đang đọc</h2><p id="contp"></p></div>
+<div class="card"><h2>Chia sẻ</h2><p><a class="btn" id="fb" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https://reformed-vietnam.vercel.app/hom-nay.html">Chia sẻ lên Facebook</a> <a class="btn s" href="/feed.xml">RSS</a></p>
+<p class="m">Bản dịch tiếng Việt trong trình đọc là dịch máy, có thể sai sót. Hãy đối chiếu Kinh Thánh.</p></div>
+<style>.card{background:#fffdf7;border:1px solid #e3d3b6;border-radius:12px;padding:6px 16px 10px;margin:14px 0}.card h2{font-size:1.15rem;margin:.6em 0 .3em}</style>
+<script>(function(){var M=["January","February","March","April","May","June","July","August","September","October","November","December"],VM=["tháng 1","tháng 2","tháng 3","tháng 4","tháng 5","tháng 6","tháng 7","tháng 8","tháng 9","tháng 10","tháng 11","tháng 12"];
+var d=new Date(),doy=Math.floor((d-new Date(d.getFullYear(),0,0))/864e5);
+document.getElementById("dt").textContent="Ngày "+d.getDate()+" "+VM[d.getMonth()]+" "+d.getFullYear();
+var lbl=M[d.getMonth()]+" "+d.getDate(),base="/reader.html?id=spurgeon/morneve";
+function lk(w){return base+"&find="+encodeURIComponent(w+", "+lbl)}
+document.getElementById("me").innerHTML='<h2>Spurgeon: Sáng và Tối</h2><p>Bài suy niệm hôm nay (<i>Morning and Evening</i>, tiếng Anh, có nút 🌐 dịch sang tiếng Việt).</p><p><a class="btn" href="'+lk("Morning")+'">Buổi sáng</a> <a class="btn" href="'+lk("Evening")+'">Buổi tối</a> <a class="btn s" href="'+lk("Morning")+'&tr=1">Sáng (dịch tiếng Việt)</a> <a class="btn s" href="'+lk("Evening")+'&tr=1">Tối (dịch tiếng Việt)</a></p>';
+document.getElementById("wq").textContent=(doy-1)%107+1;document.getElementById("hd").textContent=Math.min(52,Math.floor((doy-1)/7)+1);
+try{var p=JSON.parse(localStorage.getItem("rv.prog")||"{}"),best=null;for(var id in p)if(p[id].s==="reading"&&(!best||p[id].t>p[best].t))best=id;
+if(best){document.getElementById("cont").hidden=false;document.getElementById("contp").innerHTML='<a href="/reader.html?id='+best+'">'+best.split("/")[1]+' ('+p[best].p+'%)</a>'}}catch(e){}})()</script>
+<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · Liên hệ: reformedvn@gmail.com</footer></main></body></html>
