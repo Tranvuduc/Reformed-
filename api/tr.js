@@ -29,7 +29,7 @@ export default async function handler(req, res) {
       res.setHeader('Cache-Control', 'no-store');
       const b = await body(req);
       if (b.status && /^[a-z0-9-]{2,20}$/.test(String(b.status.bot || ''))) {
-        await put('status/' + b.status.bot + '.json', JSON.stringify({ t: new Date().toISOString(), msg: String(b.status.msg || '').slice(0, 600) }), { access: 'private', allowOverwrite: true, addRandomSuffix: false, contentType: 'application/json' });
+        await put('status/' + b.status.bot + '.json', JSON.stringify({ t: new Date().toISOString(), msg: String(b.status.msg || '').slice(0, 1500) }), { access: 'private', allowOverwrite: true, addRandomSuffix: false, contentType: 'application/json' });
         return res.status(200).json({ ok: 1 });
       }
       const id = String(b.id || ''), h = String(b.h || ''), t = b.t;

@@ -65,7 +65,8 @@ const ids = (process.argv[2] || '').split(',').map(s => s.trim()).filter(Boolean
 const maxP = +process.argv[3] || 400;
 const site = (process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '');
 const BOT = process.env.BOT_NAME || 'bot';
-async function report(msg) { console.log(msg); try { await fetch(`${(process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
+const hist = [];
+async function report(msg) { console.log(msg); hist.push(msg.slice(0, 160)); if (hist.length > 6) hist.shift(); msg = hist.join(' || '); try { await fetch(`${(process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
 const deadline = Date.now() + 5.5 * 3600 * 1000;
 const b = await chromium.launch();
 for (const id of ids) {
