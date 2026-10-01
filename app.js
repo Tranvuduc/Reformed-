@@ -121,6 +121,11 @@ function badges(b){
   if(!b.read&&!b.url)o.push(["Web",""]);if(b.au==="ia"&&b.y&&b.y<1700)o.push([st.lang==="vi"?"Văn cổ":"Early English","old"]);
   return o.map(function(x){return'<span class="bd '+x[1]+'">'+x[0]+'</span>'}).join("");
 }
+function lic(b){
+  var vi=st.lang==="vi",pd=b.read||b.au==="ia"||b.au==="pg"||b.au==="lv"||/ccel\.org/.test(b.url||"");
+  return pd?'<p class="lic pd">🟢 '+(vi?"Phạm vi công cộng. Bạn được đọc, tải và chia sẻ tự do.":"Public domain. Free to read, download and share.")+'</p>'
+   :'<p class="lic ex">🟡 '+(vi?"Liên kết ra trang gốc. Bản quyền thuộc tác giả hoặc nhà xuất bản, chúng tôi không lưu bản sao.":"Link to the original site. Copyright stays with the author or publisher; we host no copy.")+'</p>';
+}
 function card(b){
   var lg=st.lang,d=b[lg]||b.en,y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
   return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine" style="background-color:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div></div></article>';
@@ -156,7 +161,7 @@ function sheet(b){
   var alt=(lg==="vi"&&o.t&&o.t!==d.t)?'<p class="alt">'+esc(o.t)+'</p>':"";
   var sel='<select data-pid="'+esc(b.id)+'" aria-label="'+tx("reading")+'">'+["todo","reading","done"].map(function(v){return'<option value="'+v+'"'+(p.s===v?" selected":"")+'>'+tx(v)+'</option>'}).join("")+'</select>';
   var rng=p.s==="reading"?'<div class="pr"><input type="range" min="0" max="100" step="5" value="'+p.p+'" data-rid="'+esc(b.id)+'" aria-label="%"><output>'+p.p+'%</output></div>':"";
-  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+'<p class="src">'+esc(d.n)+'</p>';
+  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+lic(b)+'<p class="src">'+esc(d.n)+'</p>';
 }
 function renderCont(){
   var r=BOOKS.filter(function(b){return prog(b.id).s==="reading"}).sort(function(a,b){return(prog(b.id).t||0)-(prog(a.id).t||0)}).slice(0,4);
