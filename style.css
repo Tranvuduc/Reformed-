@@ -152,3 +152,10 @@ body:not(.home) #bw{display:none}
 :root[data-theme=dark] .hero::after{mix-blend-mode:screen;opacity:.1;filter:invert(1)}
 @media(prefers-color-scheme:dark){:root:not([data-theme=light]) .hero::after{mix-blend-mode:screen;opacity:.1;filter:invert(1)}}
 .srow{-webkit-mask-image:linear-gradient(to right,#000 90%,transparent);mask-image:linear-gradient(to right,#000 90%,transparent);padding-right:24px}
+
+.lv{margin:0 0 18px}.lv h2{font:600 1rem var(--display,inherit);margin:0 0 10px}
+.lvb{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.lvb button{display:flex;flex-direction:column;gap:2px;text-align:left;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--fg);cursor:pointer;font:inherit}
+.lvb button span{font-size:.78rem;opacity:.65}.lvb button[aria-pressed=true]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.lvr{margin-top:12px}.lvp{display:inline-block;margin-top:10px;color:var(--accent);font-weight:600;text-decoration:none}
+@media(max-width:480px){.lvb button{padding:10px}.lvb button b{font-size:.9rem}}

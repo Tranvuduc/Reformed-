@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       pages: { description: "Max pages per book", default: "400" }
-      lists: { description: "Priority lists to include", default: "tier1,tier2" }
+      lists: { description: "Priority lists to include", default: "tier0,tier1,tier2" }
 permissions:
   contents: read
 jobs:
@@ -29,7 +29,9 @@ jobs:
         with: { node-version: 20 }
       - run: npm i --no-save playwright && npx playwright install --with-deps chromium
       - run: |
-          IDS=$(node -e "const p=require('./tools/priority.json');console.log('${{ inputs.lists }}'.split(',').flatMap(k=>p[k.trim()]||[]).filter(x=>!x.startsWith('vn-')).join(','))")
+          IDS=$(node -e "const p=require('./tools/priority.json');console.log([...new Set('${{ inputs.lists }}'.split(',').flatMap(k=>p[k.trim()]||[]).filter(x=>!x.startsWith('vn-')))].join(','))")
+          # pass 1: first 12 pages of every priority book (readers sample the opening), pass 2: go deep
+          node tools/pretranslate.mjs "$IDS" 12
           node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
         env:
           PROVIDER: ${{ matrix.provider }}

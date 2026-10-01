@@ -197,14 +197,35 @@ function render(){
   renderCont();renderShelves();
 }
 
+
+/* Start-here path: pick a level -> 5 books -> reading plan. */
+var LEVELS=[
+ {k:"new",t:["Mới tin Chúa","New believer"],d:["Đọc nhẹ, dễ vào","Gentle and clear"],ids:["bunyan/pilgrim","bonar/peace","ryle/holiness","flavel/lovely","spurgeon/grace"]},
+ {k:"grow",t:["Đang lớn lên","Growing"],d:["Đời sống thuộc linh","Deeper devotion"],ids:["owen/mort","watson/contentment","baxter/saints_rest","boston/crook","edwards/affections"]},
+ {k:"deep",t:["Học sâu","Studying"],d:["Thần học hệ thống","Systematic theology"],ids:["calvin/institutes","edwards/will","hodge/theology1","berkhof/systematictheology","kuyper/holy_spirit"]}
+];
+var lvSel="";try{lvSel=localStorage.getItem("rv.lv")||""}catch(e){}
+function renderLevels(){
+  var el=$("lv"),on=home();el.hidden=!on;if(!on)return;
+  var i=st.lang==="vi"?0:1;
+  var h='<h2>'+(i?"Where are you in your walk?":"Bạn đang ở đâu trên hành trình đức tin?")+'</h2><div class="lvb">'+LEVELS.map(function(l){return'<button type="button" data-lv="'+l.k+'" aria-pressed="'+(lvSel===l.k)+'"><b>'+l.t[i]+'</b><span>'+l.d[i]+'</span></button>'}).join("")+'</div>';
+  var L=LEVELS.filter(function(l){return l.k===lvSel})[0];
+  if(L){var l5=L.ids.map(function(id){return BOOKS.filter(function(b){return b.id===id})[0]}).filter(Boolean);
+    h+='<div class="srow lvr">'+l5.map(card).join("")+'</div><a class="lvp" href="lo-trinh.html">'+(i?"Follow the full reading plan →":"Theo lộ trình đọc đầy đủ →")+'</a>'}
+  el.innerHTML=h;
+}
+$("lv").addEventListener("click",function(e){
+  var oc=e.target.closest("[data-open]");if(oc&&!e.target.closest(".fav")){openBook(oc.dataset.open);return}
+  var b=e.target.closest("button[data-lv]");if(!b)return;lvSel=lvSel===b.dataset.lv?"":b.dataset.lv;try{localStorage.setItem("rv.lv",lvSel)}catch(x){}renderLevels();
+});
+
 /* Home shelves: curated rows shown above the full list when no filter is active. */
 var SHELVES=[
- {k:"start",f:"start",t:["★ Bắt đầu từ đây","★ Start here"],p:function(b){return START.indexOf(b.id)>=0},o:function(a,b){return START.indexOf(a.id)-START.indexOf(b.id)}},
  {k:"vn",sr:"vn",t:["Tiếng Việt","Vietnamese readings"],p:function(b){return b.au==="vn"},o:function(a,b){return(a.id.indexOf("vn-")===0?1:0)-(b.id.indexOf("vn-")===0?1:0)}},
  {k:"aud",md:"audio",t:["Sách nói","Audiobooks"],p:function(b){return hasM(b,"audio")},o:function(a,b){return(a.au==="lv"?1:0)-(b.au==="lv"?1:0)}}
 ];
 function renderShelves(){
-  var el=$("shelves"),on=home();
+  var el=$("shelves"),on=home();renderLevels();
   $("allh").hidden=true;$("bw").hidden=!on;$("browse").textContent=(st.lang==="vi"?"Xem toàn bộ thư viện ("+BOOKS.length+" tác phẩm)":"Browse the whole library ("+BOOKS.length+" titles)");renderTiles();
   if(!on){el.innerHTML="";return}
   var i=st.lang==="vi"?0:1;
