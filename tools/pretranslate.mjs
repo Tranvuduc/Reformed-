@@ -17,8 +17,10 @@ async function pickModels() {
       const j = await r.json();
       const ids = (j.models || []).filter(m => (m.supportedGenerationMethods || []).includes('generateContent')).map(m => m.name.replace('models/', ''));
       lastErr = 'gemini models: ' + ids.join(',').slice(0, 300);
-      const pref = [MODEL, 'gemini-2.5-flash', 'gemini-flash-latest', 'gemini-2.5-flash-lite', 'gemini-2.0-flash'];
-      gModel = pref.find(x => ids.includes(x)) || ids.find(x => /flash/.test(x) && !/image|tts|live|preview/.test(x)) || ids[0] || MODEL;
+      const ver = x => (x.match(/^gemini-(\d+(?:\.\d+)?)-flash$/) || [0, 0])[1] * 1;
+      const stable = ids.filter(x => ver(x) > 0).sort((a, b) => ver(b) - ver(a));
+      const pref = [process.env.GEMINI_MODEL_FORCE, stable[0], 'gemini-flash-latest', 'gemini-3-flash-preview', MODEL];
+      gModel = pref.find(x => x && ids.includes(x)) || ids.find(x => /flash/.test(x) && !/image|tts|live|preview/.test(x)) || ids[0] || MODEL;
       if (!r.ok) lastErr = 'gemini list ' + r.status + ' ' + JSON.stringify(j).slice(0, 250).replace(KEY, '***');
     } else {
       const r = await fetch('https://api.groq.com/openai/v1/models', { headers: { authorization: 'Bearer ' + GKEY } });
@@ -41,16 +43,16 @@ async function groq(src) {
         method: 'POST',
         headers: { 'content-type': 'application/json', authorization: 'Bearer ' + GKEY },
         body: JSON.stringify({
-          model: qModel, temperature: 0.2, response_format: { type: 'json_object' },
+          model: qModel, temperature: 0.2, max_completion_tokens: 8000, reasoning_effort: /gpt-oss/.test(qModel) ? 'low' : undefined,
           messages: [
-            { role: 'system', content: SYS + ' Return an object {"t":[...]} where t is the array of translations.' },
+            { role: 'system', content: SYS + ' Reply with ONLY a JSON object {"t":[...]} where t is the array of translations, no markdown fences.' },
             { role: 'user', content: JSON.stringify({ paragraphs: src }) }]
         })
       });
       if (r.status === 429 || r.status >= 500) { await new Promise(r => setTimeout(r, 30000 * (a + 1))); continue; }
       if (!r.ok) { lastErr = 'groq ' + r.status + ' ' + (await r.text()).replace(/\s+/g, ' ').replace(GKEY, '***').slice(0, 300); throw new Error(lastErr); }
       const j = await r.json();
-      const arr = JSON.parse(j.choices[0].message.content).t;
+      const c = j.choices[0].message.content || ''; const arr = JSON.parse(c.slice(c.indexOf('{'), c.lastIndexOf('}') + 1)).t;
       if (Array.isArray(arr) && arr.length === src.length && arr.every(x => typeof x === 'string' && x.trim())) return arr;
       throw new Error('bad shape');
     } catch (e) { if (a === 5) throw e; await new Promise(r => setTimeout(r, 8000)); }
