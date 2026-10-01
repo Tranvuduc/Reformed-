@@ -1,0 +1,23 @@
+name: Pre-translate books (free)
+on:
+  workflow_dispatch:
+    inputs:
+      ids: { description: "Comma-separated CCEL ids, or 'tier1' / 'tier2'", default: "tier1" }
+      pages: { description: "Max pages per book", default: "400" }
+permissions:
+  contents: read
+jobs:
+  tr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm i --no-save playwright && npx playwright install --with-deps chromium
+      - run: |
+          IDS="${{ inputs.ids }}"
+          case "$IDS" in
+            tier1|tier2) IDS=$(node -e "console.log(require('./tools/priority.json')['$IDS'].join(','))") ;;
+          esac
+          node tools/pretranslate.mjs "$IDS" "${{ inputs.pages }}"
