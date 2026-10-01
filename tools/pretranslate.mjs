@@ -9,6 +9,28 @@ const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const gl = JSON.parse(fs.readFileSync(new URL('./glossary.json', import.meta.url), 'utf8'));
 const SYS = `You translate public-domain Reformed Christian literature from English into natural, reverent Vietnamese for Vietnamese Protestant readers. Be faithful to the author; no additions or commentary; keep Scripture references; render Scripture in the Vietnamese Bible style (Kinh Thánh Tiếng Việt 1934 wording where possible). Use this glossary: ${JSON.stringify(gl)}. You receive a JSON array of paragraphs; return a JSON array of strings with exactly the same length and order, one translation per paragraph.`;
 let lastCall = 0, lastErr = '';
+let gModel = MODEL, qModel = GROQ_MODEL;
+async function pickModels() {
+  try {
+    if (process.env.GEMINI_API_KEY) {
+      const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=100', { headers: { 'x-goog-api-key': KEY } });
+      const j = await r.json();
+      const ids = (j.models || []).filter(m => (m.supportedGenerationMethods || []).includes('generateContent')).map(m => m.name.replace('models/', ''));
+      lastErr = 'gemini models: ' + ids.join(',').slice(0, 300);
+      const pref = [MODEL, 'gemini-2.5-flash', 'gemini-flash-latest', 'gemini-2.5-flash-lite', 'gemini-2.0-flash'];
+      gModel = pref.find(x => ids.includes(x)) || ids.find(x => /flash/.test(x) && !/image|tts|live|preview/.test(x)) || ids[0] || MODEL;
+      if (!r.ok) lastErr = 'gemini list ' + r.status + ' ' + JSON.stringify(j).slice(0, 250).replace(KEY, '***');
+    } else {
+      const r = await fetch('https://api.groq.com/openai/v1/models', { headers: { authorization: 'Bearer ' + GKEY } });
+      const j = await r.json();
+      const ids = (j.data || []).map(m => m.id);
+      lastErr = 'groq models: ' + ids.join(',').slice(0, 300);
+      const pref = [GROQ_MODEL, 'llama-3.3-70b-versatile', 'openai/gpt-oss-120b', 'qwen/qwen3-32b', 'meta-llama/llama-4-scout-17b-16e-instruct', 'openai/gpt-oss-20b'];
+      qModel = pref.find(x => ids.includes(x)) || ids.find(x => /llama|qwen|gpt-oss/.test(x) && !/guard|whisper|tts/.test(x)) || GROQ_MODEL;
+    }
+  } catch (e) { lastErr = 'list error ' + e.message; }
+}
+await pickModels();
 async function groq(src) {
   for (let a = 0; a < 6; a++) {
     const wait = Math.max(0, lastCall + 20000 - Date.now()); // stay under free TPM
@@ -19,7 +41,7 @@ async function groq(src) {
         method: 'POST',
         headers: { 'content-type': 'application/json', authorization: 'Bearer ' + GKEY },
         body: JSON.stringify({
-          model: GROQ_MODEL, temperature: 0.2, response_format: { type: 'json_object' },
+          model: qModel, temperature: 0.2, response_format: { type: 'json_object' },
           messages: [
             { role: 'system', content: SYS + ' Return an object {"t":[...]} where t is the array of translations.' },
             { role: 'user', content: JSON.stringify({ paragraphs: src }) }]
@@ -41,7 +63,7 @@ async function gemini(src) {
     if (wait) await new Promise(r => setTimeout(r, wait));
     lastCall = Date.now();
     try {
-      const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`, {
+      const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${gModel}:generateContent`, {
         method: 'POST',
         headers: { 'content-type': 'application/json', 'x-goog-api-key': KEY },
         body: JSON.stringify({
@@ -68,6 +90,7 @@ const BOT = process.env.BOT_NAME || 'bot';
 const hist = [];
 async function report(msg) { console.log(msg); hist.push(msg.slice(0, 420)); if (hist.length > 6) hist.shift(); msg = hist.join(' || '); try { await fetch(`${(process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
 const deadline = Date.now() + 5.5 * 3600 * 1000;
+await report('start; models: ' + (process.env.GEMINI_API_KEY ? gModel : qModel) + ' | ' + lastErr);
 const b = await chromium.launch();
 for (const id of ids) {
   if (Date.now() > deadline) break;
