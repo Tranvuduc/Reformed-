@@ -1,50 +1,246 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Reader · Reformed Vietnam</title>
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Trình đọc · Reformed Vietnam</title>
 <style>
-:root{--bg:#faf7f0;--fg:#22201c;--mut:#7a7466;--ac:#8a3b1f;--ln:#e2dccd}
-[data-t=dark]{--bg:#17150f;--fg:#e8e2d2;--mut:#9a9482;--ac:#e0946c;--ln:#332f24}
-[data-t=sepia]{--bg:#f1e6cc;--fg:#3b2f1d;--mut:#7c6a4a;--ac:#8a3b1f;--ln:#d9c9a4}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:Georgia,"Times New Roman",serif}
-header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--ln);padding:8px 16px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;z-index:2;font:14px system-ui,sans-serif}
-header a,header button,header select{color:var(--fg);background:none;border:1px solid var(--ln);border-radius:6px;padding:5px 10px;font:inherit;text-decoration:none;cursor:pointer}
-header #vo{max-width:120px;text-overflow:ellipsis}
-header .sp{flex:1}#bar{height:3px;background:var(--ln)}#bar i{display:block;height:100%;background:var(--ac);width:0}
-main{max-width:42rem;margin:0 auto;padding:24px 16px 80px;font-size:var(--fs,19px);line-height:1.7}
-main p{margin:0 0 1em;white-space:pre-wrap;overflow-wrap:anywhere}main h2{font-size:1.3em;margin:1.6em 0 .6em;color:var(--ac)}
-#trs{font:13px system-ui,sans-serif;color:var(--mut);margin:0 0 14px;padding:8px 10px;border:1px dashed var(--ln);border-radius:6px}.orig{display:block;font-size:.8em;opacity:.6;margin-top:.3em}nav.pg{display:flex;justify-content:space-between;align-items:center;margin-top:24px;font:14px system-ui,sans-serif;color:var(--mut)}
-nav.pg button{font:inherit;padding:8px 16px;border:1px solid var(--ln);border-radius:6px;background:none;color:var(--fg);cursor:pointer}
-nav.pg button:disabled{opacity:.4}#all{display:none}@media print{header,#bar,nav.pg,#msg,#txt{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}#msg{font:15px system-ui,sans-serif;color:var(--mut);padding:40px 0}
-</style></head><body>
-<header><a href="./" id="back">← Library</a><b id="ttl" style="font:600 14px system-ui"></b><span class="sp"></span>
-<button id="tr" title="Translate to Vietnamese (free, machine)">EN</button><button id="au" aria-label="Listen" title="Listen">🔊</button><select id="vo" aria-label="Voice" title="Voice"><option value="">Auto</option></select><select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select><button id="ep" title="Download EPUB">EPUB</button><button id="pd" title="Save as PDF">PDF</button>
-<button id="fm" aria-label="Smaller">A−</button><button id="fp" aria-label="Larger">A+</button><button id="th">◐</button></header>
+:root{--bg:#faf7f0;--fg:#22201c;--mut:#7a7466;--ac:#8a3b1f;--ln:#e2dccd;--sf:#f3eee1;--w:42rem;--lh:1.75}
+[data-t=dark]{--bg:#17150f;--fg:#e8e2d2;--mut:#9a9482;--ac:#e0946c;--ln:#332f24;--sf:#211e16}
+[data-t=sepia]{--bg:#f1e6cc;--fg:#3b2f1d;--mut:#7c6a4a;--ac:#8a3b1f;--ln:#d9c9a4;--sf:#e8dbb9}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:Georgia,"Times New Roman",serif}
+[data-ff=sans] #txt{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+button,select,input{font:inherit;color:inherit}
+.ui{font:14px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+#top{position:fixed;top:0;left:0;right:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--ln);display:flex;align-items:center;gap:4px;padding:6px 10px;padding-top:calc(6px + env(safe-area-inset-top));transition:transform .25s}
+#top.h{transform:translateY(-100%)}
+#top a#back{color:var(--ac);text-decoration:none;padding:6px 8px;border-radius:8px;white-space:nowrap}
+#ttl{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:600;padding:0 6px}
+.ib{background:none;border:1px solid transparent;border-radius:8px;min-width:38px;height:36px;padding:0 8px;cursor:pointer;font-size:17px;line-height:1}
+.ib:hover,.ib.on{background:var(--sf);border-color:var(--ln)}
+#bar{position:fixed;top:0;left:0;right:0;height:3px;background:var(--ln);z-index:6}#bar i{display:block;height:100%;background:var(--ac);width:0}
+main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
+#txt{font-size:var(--fs,19px);line-height:var(--lh)}
+#txt p{margin:0 0 1em;overflow-wrap:anywhere;hyphens:auto}#txt p.v{white-space:pre-line;padding-left:1em;border-left:2px solid var(--ln);font-style:italic}
+#txt h2{font-size:1.45em;margin:1.4em 0 .6em;color:var(--ac);line-height:1.25}#txt h3{font-size:1.15em;margin:1.2em 0 .5em;color:var(--ac)}
+#txt .orig{display:block;font-size:.8em;opacity:.6;margin-top:.3em}
+#txt .rd{background:color-mix(in srgb,var(--ac) 14%,transparent);border-radius:6px;box-shadow:0 0 0 6px color-mix(in srgb,var(--ac) 14%,transparent)}
+#txt .fl{animation:fl 2.2s ease-out}@keyframes fl{0%{background:color-mix(in srgb,var(--ac) 35%,transparent)}100%{background:transparent}}
+#trs{margin:0 0 14px;padding:8px 10px;border:1px dashed var(--ln);border-radius:8px;color:var(--mut)}
+#msg{padding:40px 0;color:var(--mut)}
+#foot{position:fixed;left:0;right:0;bottom:0;z-index:5;background:var(--bg);border-top:1px solid var(--ln);padding:6px 12px;padding-bottom:calc(8px + env(safe-area-inset-bottom))}
+#foot .row{max-width:var(--w);margin:0 auto;display:flex;align-items:center;gap:8px}
+#sl{flex:1;accent-color:var(--ac);min-width:0}
+#info{max-width:var(--w);margin:2px auto 0;display:flex;justify-content:space-between;color:var(--mut);font-size:12px}
+#pl{position:fixed;left:0;right:0;bottom:var(--fh,62px);z-index:5;background:var(--sf);border-top:1px solid var(--ln);padding:8px 10px;display:none}
+#pl.on{display:block}#pl .row{max-width:var(--w);margin:0 auto;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+#pl select{background:var(--bg);border:1px solid var(--ln);border-radius:8px;padding:5px 6px;max-width:130px;font-size:13px}
+#pl .play{background:var(--ac);color:#fff;border-radius:999px;min-width:44px;height:44px}
+#back2{position:fixed;inset:0;background:#0006;z-index:7;display:none}
+#sheet{position:fixed;z-index:8;left:0;right:0;bottom:0;max-height:78vh;background:var(--bg);border-top:1px solid var(--ln);border-radius:16px 16px 0 0;box-shadow:0 -8px 30px #0003;display:none;flex-direction:column}
+#sheet.on,#back2.on{display:flex}#back2.on{display:block}
+#sheet header{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-bottom:1px solid var(--ln);font-weight:600}
+#sbody{overflow:auto;padding:10px 14px 24px}
+.li{display:block;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--ln);padding:10px 4px;cursor:pointer;line-height:1.35}
+.li small{display:block;color:var(--mut)}.li.cur{color:var(--ac);font-weight:600}.li.l1{font-weight:600}.li.l2{padding-left:16px}
+.seg{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 14px}.seg button{background:var(--sf);border:1px solid var(--ln);border-radius:8px;padding:8px 12px;cursor:pointer}.seg button.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+.lab{margin:12px 0 2px;color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:.05em}
+#sq{width:100%;padding:10px 12px;border:1px solid var(--ln);border-radius:10px;background:var(--sf);font-size:16px}
+.act{display:block;width:100%;text-align:left;background:var(--sf);border:1px solid var(--ln);border-radius:10px;padding:12px;margin:0 0 8px;cursor:pointer}
+@media(min-width:820px){#sheet{left:auto;top:0;bottom:0;width:400px;max-height:none;border-radius:0;border-left:1px solid var(--ln);border-top:0}#back2.on{background:#0002}}
+#all{display:none}
+@media print{#top,#foot,#pl,#sheet,#back2,#bar,#msg,#txt,#trs{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}
+</style></head><body class="ui" data-t="light">
 <div id="bar"><i></i></div>
-<main><div id="trs" hidden></div><div id="msg">Loading…</div><div id="txt"></div><div id="all"></div>
-<nav class="pg" id="nav" hidden><button id="pv">←</button><span id="pn"></span><button id="nx">→</button></nav></main>
+<div id="top">
+  <a id="back" href="./">←</a><span id="ttl"></span>
+  <button class="ib" id="bS" aria-label="Search">🔍</button>
+  <button class="ib" id="bT" aria-label="Contents">☰</button>
+  <button class="ib" id="tr" aria-label="Translate">🌐</button>
+  <button class="ib" id="au" aria-label="Listen">🎧</button>
+  <button class="ib" id="bA" aria-label="Appearance">Aa</button>
+  <button class="ib" id="bM" aria-label="More">⋯</button>
+</div>
+<main><div id="trs" hidden></div><div id="msg">…</div><article id="txt"></article><div id="all"></div></main>
+<div id="pl"><div class="row">
+  <button class="ib" id="pp" aria-label="Previous">⏮</button><button class="ib play" id="pt" aria-label="Play/Pause">▶</button><button class="ib" id="pn2" aria-label="Next">⏭</button>
+  <select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="1.75">1.75×</option><option value="2">2×</option></select>
+  <select id="vo" aria-label="Voice"><option value="">Auto</option></select>
+  <select id="stm" aria-label="Sleep timer"><option value="0">⏲ —</option><option value="15">15′</option><option value="30">30′</option><option value="60">60′</option></select>
+  <button class="ib" id="px" aria-label="Close player">✕</button>
+</div></div>
+<div id="foot"><div class="row"><button class="ib" id="pv" aria-label="Previous page">‹</button><input type="range" id="sl" min="1" max="1" value="1" aria-label="Page"><button class="ib" id="nx" aria-label="Next page">›</button></div><div id="info"><span id="pn"></span><span id="eta"></span></div></div>
+<div id="back2"></div>
+<div id="sheet" role="dialog"><header><span id="sh-t"></span><button class="ib" id="sx" aria-label="Close">✕</button></header><div id="sbody"></div></div>
 <script>
 (function(){
 var q=new URLSearchParams(location.search),id=q.get("id")||"",$=function(x){return document.getElementById(x)};
-var PAGE=4500,pages=[],cur=0;
 function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){}}
-var fs=+ls("rv.fs")||19,th=ls("rv.th")||"light";
-function apply(){document.documentElement.style.setProperty("--fs",fs+"px");document.documentElement.setAttribute("data-t",th)}apply();
-$("fm").onclick=function(){fs=Math.max(14,fs-1);ls("rv.fs",fs);apply()};
-$("fp").onclick=function(){fs=Math.min(30,fs+1);ls("rv.fs",fs);apply()};
-$("th").onclick=function(){th=th==="light"?"sepia":th==="sepia"?"dark":"light";ls("rv.th",th);apply()};
-var name=id.split("/")[1]||"";$("ttl").textContent=name;document.title=name+" · Reformed Vietnam";
+function esc(s){return String(s).replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})}
+function fold(s){return String(s).toLowerCase().replace(/đ/g,"d").normalize("NFD").replace(/[̀-ͯ]/g,"")}
+var lang=ls("rv.lang")==="en"?"en":"vi";
+var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Chưa có dấu trang.",nores:"Không tìm thấy.",epub:"Tải EPUB",pdf:"In / lưu PDF cả cuốn",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Bản dịch máy · có thể sai sót.",trf:"Không dịch được lúc này. Hãy thử lại sau.",fail:"Không tải được sách ở đây.",open:"Mở trên CCEL",nov:"Thiết bị không có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",pfail:"Không tải được giọng Piper. Dùng giọng của thiết bị.",res:"kết quả",del:"Xóa"},
+ en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation · may contain errors.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete"}}[lang];
+var name=id.split("/")[1]||"",PAGE=4200;
+$("ttl").textContent=name;document.title=name+" · Reformed Vietnam";$("back").textContent="← "+L.lib;
 var ext="https://ccel.org/ccel/"+id+"/"+name;
-function fail(){$("msg").innerHTML='Could not load this book here. <a href="'+ext+'" target="_blank" rel="noopener">Open it on CCEL</a>.'}
-function esc(s){return s.replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})}
-function split(t){
-  t=t.replace(/\r/g,"").replace(/\n{3,}/g,"\n\n");
-  var paras=t.split(/\n\n+/),out=[],b="";
-  paras.forEach(function(p){ if(b.length+p.length>PAGE&&b){out.push(b);b=""} b+=(b?"\n\n":"")+p; });
-  if(b)out.push(b);return out;
+function fail(){$("msg").innerHTML=L.fail+' <a href="'+ext+'" target="_blank" rel="noopener">'+L.open+'</a>.'}
+
+/* ---------- appearance ---------- */
+var S={fs:+ls("rv.fs")||19,th:ls("rv.th")||"auto",ff:ls("rv.ff")||"serif",lh:ls("rv.lh")||"1.75",wd:ls("rv.wd")||"42"};
+function apply(){
+  var r=document.documentElement,th=S.th==="auto"?(matchMedia("(prefers-color-scheme:dark)").matches?"dark":"light"):S.th;
+  r.style.setProperty("--fs",S.fs+"px");r.style.setProperty("--lh",S.lh);r.style.setProperty("--w",S.wd+"rem");
+  r.setAttribute("data-t",th);r.setAttribute("data-ff",S.ff);document.body.setAttribute("data-t",th);
 }
-/* Translate to Vietnamese: Chrome built-in Translator (on-device) first, then free web services. Machine translation, may contain errors. */
-var trm=ls("rv.trm")||"0",tpage={},trp={},trTok=0,natT=null,dead={};
-function splitC(t,max){var out=[],cur="";t.split(/(?<=[.!?;:])\s+/).forEach(function(x){while(x.length>max){if(cur){out.push(cur);cur=""}var k=x.lastIndexOf(" ",max);if(k<200)k=max;out.push(x.slice(0,k));x=x.slice(k).trim()}if(cur&&cur.length+x.length+1>max){out.push(cur);cur=""}cur+=(cur?" ":"")+x});if(cur)out.push(cur);return out}
+apply();
+function sv(k,v){S[k]=v;ls("rv."+k,v);apply()}
+
+/* ---------- text model ---------- */
+var P=[],pages=[],toc=[],cur=0;
+function stripHeader(t){
+  t=t.replace(/\r/g,"");
+  var m=/^\s*_{20,}\s*$/gm,a=m.exec(t);
+  if(a&&a.index<400){var b=m.exec(t);if(b&&b.index<2500)t=t.slice(b.index+b[0].length)}
+  var s=t.indexOf("*** START OF"),e=t.indexOf("*** END OF");
+  if(s>=0&&s<4000)t=t.slice(t.indexOf("\n",s)+1);e=t.indexOf("*** END OF");if(e>0)t=t.slice(0,e);
+  return t;
+}
+var KW1=/^(book|part|volume)\b/i,KW2=/^(chapter|section|sermon|stage|lecture|preface|introduction|conclusion|appendix|prologue|epilogue|contents|the author'?s? (apology|preface)|to the reader|dedication|argument)\b/i;
+function build(t){
+  var raw=stripHeader(t).split(/\n[ \t]*\n/);P=[];
+  raw.forEach(function(r){
+    var lines=r.split("\n").map(function(x){return x.replace(/\s+$/,"")}).filter(function(x){return x.trim()});
+    if(!lines.length)return;
+    var one=lines.length===1?lines[0].trim():"",o={t:"",h:0,v:0};
+    if(one&&one.length<=80&&!/[,;]$/.test(one)){
+      var caps=/[A-Z]{3}/.test(one)&&one===one.toUpperCase();
+      if(KW1.test(one)&&(caps||one.length<40))o.h=1;
+      else if(KW2.test(one)&&(caps||one.length<48))o.h=2;
+      else if(caps&&one.length>=4)o.h=2;
+    }
+    if(!o.h&&lines.length>=3&&lines.every(function(x){return x.trim().length<52}))o.v=1;
+    o.t=o.v?lines.map(function(x){return x.trim()}).join("\n"):lines.map(function(x){return x.trim()}).join(" ").replace(/\s{2,}/g," ");
+    if(o.h===0&&o.t.length<2)return;
+    P.push(o);
+  });
+  // pages
+  pages=[];var a=0,sz=0;
+  for(var i=0;i<P.length;i++){
+    var p=P[i],hd=p.h>0&&p.h<=2;
+    if(i>a&&((sz+p.t.length>PAGE)||(hd&&sz>700))){
+      var cut=i;if(P[i-1].h&&i-1>a){cut=i-1}
+      pages.push({a:a,b:cut});a=cut;sz=0;for(var k=cut;k<i;k++)sz+=P[k].t.length}
+    sz+=p.t.length;
+  }
+  if(a<P.length)pages.push({a:a,b:P.length});
+  // toc
+  toc=[];
+  for(var j=0;j<P.length&&toc.length<700;j++){if(P[j].h){
+    var tt=P[j].t,nx=P[j+1];
+    if(nx&&!nx.h&&nx.t.length<64&&!/[.!?]$/.test(nx.t)&&/^(chapter|book|part|section|stage|sermon)\b/i.test(tt)&&tt.length<22)tt+=" — "+nx.t;
+    toc.push({t:tt.replace(/\s+/g," "),gi:j,l:P[j].h,p:pageOf(j)})}}
+  if(toc.length<2){toc=[];for(var k2=0;k2<pages.length;k2+=Math.max(1,Math.round(pages.length/20)))toc.push({t:L.page+" "+(k2+1),gi:pages[k2].a,l:1,p:k2})}
+}
+function pageOf(gi){var lo=0,hi=pages.length-1;while(lo<hi){var m=(lo+hi+1)>>1;if(pages[m].a<=gi)lo=m;else hi=m-1}return lo}
+function ptexts(i){var pg=pages[i],o=[];for(var k=pg.a;k<pg.b;k++)o.push(P[k].t);return o}
+
+/* ---------- rendering ---------- */
+var trm=ls("rv.trm")||"0",trp={},trTok=0,tdone={};
+function render(i,scroll){
+  cur=Math.max(0,Math.min(pages.length-1,i));var pg=pages[cur],h="";
+  for(var k=pg.a;k<pg.b;k++){var p=P[k];h+=p.h?"<h"+(p.h===1?2:3)+' data-k="'+(k-pg.a)+'">'+esc(p.t)+"</h"+(p.h===1?2:3)+">":'<p'+(p.v?' class="v"':"")+' data-k="'+(k-pg.a)+'">'+esc(p.t)+"</p>"}
+  $("txt").innerHTML=h;
+  $("sl").max=pages.length;$("sl").value=cur+1;
+  info();var pct=pages.length>1?Math.round(cur/(pages.length-1)*100):100;$("bar").firstChild.style.width=pct+"%";
+  ls("rv.pos."+id,cur);save(pct);
+  if(scroll!==false)window.scrollTo(0,0);
+  trTok++;if(trm!=="0")runTr(cur);else $("trs").hidden=true;
+  $("top").classList.remove("h");
+}
+function info(){
+  var left=0;for(var k=pages[cur].a;k<P.length;k++)left+=P[k].t.length;var mins=Math.round(left/1000);
+  $("pn").textContent=L.page+" "+(cur+1)+" / "+pages.length+" · "+(pages.length>1?Math.round(cur/(pages.length-1)*100):100)+"%";
+  $("eta").textContent=mins<1?"":L.left+" "+(mins>=60?Math.floor(mins/60)+" "+L.h+" "+(mins%60)+" "+L.min:mins+" "+L.min);
+}
+function save(pct){
+  try{var p=JSON.parse(ls("rv.prog")||"{}");if(pct<=0&&!p[id])return;
+    p[id]={s:pct>=100?"done":"reading",p:Math.min(100,Math.round(pct/5)*5),t:Date.now()};ls("rv.prog",JSON.stringify(p))}catch(e){}
+}
+function go(i,opt){stopA(true);render(i,opt&&opt.noscroll?false:true);if(opt&&opt.flash!=null)flash(opt.flash,opt.q)}
+function flash(k,qq){var el=$("txt").querySelector('[data-k="'+k+'"]');if(!el)return;el.classList.add("fl");el.scrollIntoView({block:"center"});setTimeout(function(){el.classList.remove("fl")},2300)}
+$("pv").onclick=function(){go(cur-1)};$("nx").onclick=function(){go(cur+1)};
+$("sl").oninput=function(){$("pn").textContent=L.page+" "+this.value+" / "+pages.length};
+$("sl").onchange=function(){go(+this.value-1)};
+document.addEventListener("keydown",function(e){if(/INPUT|SELECT|TEXTAREA/.test(e.target.tagName))return;if(e.key==="ArrowRight")go(cur+1);if(e.key==="ArrowLeft")go(cur-1);if(e.key==="Escape")closeSheet()});
+// swipe
+var tx0=0,ty0=0,tt0=0;
+document.addEventListener("touchstart",function(e){var t=e.touches[0];tx0=t.clientX;ty0=t.clientY;tt0=Date.now()},{passive:true});
+document.addEventListener("touchend",function(e){if(e.target.closest("#sheet,#pl,#foot,#top"))return;var t=e.changedTouches[0],dx=t.clientX-tx0,dy=t.clientY-ty0;if(Math.abs(dx)>70&&Math.abs(dy)<45&&Date.now()-tt0<600)go(cur+(dx<0?1:-1))},{passive:true});
+// auto-hide header + remember scroll
+var ly=0,st2;
+window.addEventListener("scroll",function(){var y=scrollY;if(!sheetOn())$("top").classList.toggle("h",y>ly&&y>90);ly=y;clearTimeout(st2);st2=setTimeout(function(){ls("rv.sc."+id,JSON.stringify({p:cur,y:Math.round(scrollY)}))},400)},{passive:true});
+function sizeFoot(){document.documentElement.style.setProperty("--fh",$("foot").offsetHeight+"px")}
+
+/* ---------- sheets ---------- */
+var sheet="";
+function sheetOn(){return $("sheet").classList.contains("on")}
+function closeSheet(){$("sheet").classList.remove("on");$("back2").classList.remove("on");sheet="";[].forEach.call(document.querySelectorAll("#top .ib"),function(b){b.classList.remove("on")})}
+function openSheet(k,btn){
+  if(sheet===k){closeSheet();return}
+  closeSheet();sheet=k;$("sheet").classList.add("on");$("back2").classList.add("on");if(btn)btn.classList.add("on");
+  var T={toc:L.toc,search:L.search,set:L.set,more:L.more},b=$("sbody");$("sh-t").textContent=T[k];
+  if(k==="toc")tocView(b);else if(k==="search")searchView(b);else if(k==="set")setView(b);else moreView(b);
+}
+$("sx").onclick=closeSheet;$("back2").onclick=closeSheet;
+$("bT").onclick=function(){openSheet("toc",this)};$("bS").onclick=function(){openSheet("search",this)};$("bA").onclick=function(){openSheet("set",this)};$("bM").onclick=function(){openSheet("more",this)};
+function tocView(b){
+  var cp=cur,h="";
+  toc.forEach(function(e,i){var nxt=toc[i+1],isCur=e.p<=cp&&(!nxt||nxt.p>cp);h+='<button class="li l'+e.l+(isCur?" cur":"")+'" data-p="'+e.p+'" data-g="'+e.gi+'">'+esc(e.t)+"<small>"+L.page+" "+(e.p+1)+"</small></button>"});
+  b.innerHTML=h;var c=b.querySelector(".cur");if(c)c.scrollIntoView({block:"center"});
+  b.onclick=function(ev){var x=ev.target.closest(".li");if(!x)return;closeSheet();go(+x.dataset.p);var k=+x.dataset.g-pages[+x.dataset.p].a;if(k>0)flash(k)};
+}
+function searchView(b){
+  b.innerHTML='<input id="sq" type="search" placeholder="'+L.ph+'" autocomplete="off"><div id="sr"></div>';
+  var inp=$("sq"),t;inp.focus();
+  inp.oninput=function(){clearTimeout(t);t=setTimeout(function(){doSearch(inp.value.trim())},250)};
+  $("sr").onclick=function(ev){var x=ev.target.closest(".li");if(!x)return;var qq=inp.value.trim();closeSheet();go(+x.dataset.p);flash(+x.dataset.k,qq)};
+}
+function doSearch(qq){
+  var out=$("sr");if(qq.length<2){out.innerHTML="";return}
+  var f=fold(qq),res=[];
+  for(var i=0;i<P.length&&res.length<150;i++){if(P[i].h&&0)continue;var tf=fold(P[i].t),k=tf.indexOf(f);if(k>=0){var pi=pageOf(i),s=P[i].t,from=Math.max(0,k-50);res.push({p:pi,k:i-pages[pi].a,s:(from?"…":"")+s.slice(from,k+f.length+80)+"…"})}}
+  out.innerHTML=res.length?'<div class="lab">'+res.length+(res.length>=150?"+":"")+" "+L.res+"</div>"+res.map(function(r){return'<button class="li" data-p="'+r.p+'" data-k="'+r.k+'">'+esc(r.s)+"<small>"+L.page+" "+(r.p+1)+"</small></button>"}).join(""):'<div class="lab">'+L.nores+"</div>";
+}
+function seg(label,key,opts){var h='<div class="lab">'+label+'</div><div class="seg" data-k="'+key+'">';opts.forEach(function(o){h+='<button data-v="'+o[0]+'"'+(String(S[key])===String(o[0])?' class="on"':"")+">"+o[1]+"</button>"});return h+"</div>"}
+function setView(b){
+  b.innerHTML='<div class="lab">'+L.size+'</div><div class="seg" id="szs"><button data-d="-1">A−</button><button data-d="1">A+</button><span style="align-self:center;color:var(--mut)" id="szv">'+S.fs+'px</span></div>'+
+   seg(L.font,"ff",[["serif",L.serif],["sans",L.sans]])+seg(L.theme,"th",[["auto",L.auto],["light",L.light],["sepia",L.sepia],["dark",L.dark]])+
+   seg(L.lh,"lh",[["1.5","1.5"],["1.75","1.75"],["2","2"]])+seg(L.wd,"wd",[["34",L.narrow],["42",L.mid],["52",L.wide]])+
+   '<div class="lab">'+L.trans+'</div><div class="seg" id="trs2">'+[["0",L.off],["1",L.vi],["2",L.bi]].map(function(o){return'<button data-v="'+o[0]+'"'+(trm===o[0]?' class="on"':"")+">"+o[1]+"</button>"}).join("")+"</div>";
+  b.onclick=function(ev){
+    var x=ev.target.closest("button");if(!x)return;
+    if(x.parentNode.id==="szs"){sv("fs",Math.max(14,Math.min(32,S.fs+(+x.dataset.d))));$("szv").textContent=S.fs+"px";return}
+    if(x.parentNode.id==="trs2"){setTr(x.dataset.v);setView(b);return}
+    var k=x.parentNode.dataset.k;if(k){sv(k,x.dataset.v);[].forEach.call(x.parentNode.children,function(c){c.classList.toggle("on",c===x)})}
+  };
+}
+function bmList(){try{return JSON.parse(ls("rv.bm."+id)||"[]")}catch(e){return[]}}
+function moreView(b){
+  var bm=bmList(),h='<button class="act" id="mBm">🔖 '+L.addm+'</button>';
+  h+='<div class="lab">'+L.marks+"</div>"+(bm.length?bm.map(function(m,i){return'<button class="li" data-p="'+m.p+'" data-i="'+i+'">'+esc(m.s)+"<small>"+L.page+" "+(m.p+1)+' · <span data-del="'+i+'">'+L.del+"</span></small></button>"}).join(""):'<div style="color:var(--mut);margin-bottom:10px">'+L.nom+"</div>");
+  h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>";
+  b.innerHTML=h;
+  b.onclick=function(ev){
+    var d=ev.target.closest("[data-del]");if(d){var a=bmList();a.splice(+d.dataset.del,1);ls("rv.bm."+id,JSON.stringify(a));moreView(b);ev.stopPropagation();return}
+    var li=ev.target.closest(".li");if(li){closeSheet();go(+li.dataset.p);return}
+    if(ev.target.closest("#mBm")){var a2=bmList(),pt=ptexts(cur)[0]||"";a2.push({p:cur,s:pt.slice(0,70),t:Date.now()});ls("rv.bm."+id,JSON.stringify(a2));moreView(b);return}
+    if(ev.target.closest("#mEp"))doEpub(ev.target.closest("#mEp"));
+    if(ev.target.closest("#mPd"))doPdf();
+  };
+}
+
+/* ---------- translate (free services) ---------- */
+var natT=null,dead={};
 function tmo(p,ms){return Promise.race([p,new Promise(function(_,r){setTimeout(function(){r(new Error("timeout"))},ms)})])}
+function splitC(t,max){var out=[],c="";t.split(/(?<=[.!?;:])\s+/).forEach(function(x){while(x.length>max){if(c){out.push(c);c=""}var k=x.lastIndexOf(" ",max);if(k<200)k=max;out.push(x.slice(0,k));x=x.slice(k).trim()}if(c&&c.length+x.length+1>max){out.push(c);c=""}c+=(c?" ":"")+x});if(c)out.push(c);return out}
 async function tr1(t){
   if(!dead.nat&&self.Translator){try{if(!natT){var av=await tmo(self.Translator.availability({sourceLanguage:"en",targetLanguage:"vi"}),3000);if(av!=="available")throw 0;natT=await tmo(self.Translator.create({sourceLanguage:"en",targetLanguage:"vi"}),5000)}return await tmo(natT.translate(t),20000)}catch(e){dead.nat=1}}
   if(!dead.gtx){try{var r=await tmo(fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&dt=t&q="+encodeURIComponent(t)),15000);if(!r.ok)throw 0;var j=await r.json();var o=j[0].map(function(x){return x[0]}).join("");if(!o)throw 0;return o}catch(e){dead.gtx=1}}
@@ -53,126 +249,147 @@ async function tr1(t){
 }
 async function trText(t){var out=[],c=splitC(t,dead.gtx&&dead.nat?470:900);for(var i=0;i<c.length;i++)out.push(await tr1(c[i]));return out.join(" ")}
 function trKey(i){return"rv.tr."+id+"."+i}
-function runTr(i){
-  var tok=++trTok,els=[].slice.call($("txt").children),src=pages[i].split(/\n\n/).map(function(p){return p.trim()}).filter(Boolean);
-  var st=$("trs");st.hidden=false;
-  var cached=null;try{cached=JSON.parse(ls(trKey(i))||"null")}catch(e){}
-  var paint=function(k,v){var e=els[k];if(!e)return;e.innerHTML=esc(v)+(trm==="2"?'<span class="orig">'+esc(src[k])+"</span>":"")};
-  if(cached&&cached.length===src.length){cached.forEach(function(v,k){paint(k,v)});tpage[i]=cached.join("\n\n");st.textContent="Bản dịch máy · Machine translation — có thể sai sót.";return Promise.resolve()}
-  var res=[],k=0;st.textContent="Đang dịch… / Translating…";
-  return(async function(){
-    for(;k<src.length;k++){
-      if(tok!==trTok)return;
-      var v=await trText(src[k]);if(tok!==trTok)return;res.push(v);paint(k,v);st.textContent="Đang dịch… "+(k+1)+"/"+src.length;
+function trCacheGet(i){try{var v=JSON.parse(ls(trKey(i))||"null");return v&&v.length===pages[i].b-pages[i].a?v:null}catch(e){return null}}
+function trCachePut(i,arr){
+  try{ls(trKey(i),JSON.stringify(arr));var idx=JSON.parse(ls("rv.tr.idx")||"[]");idx=idx.filter(function(k){return k!==trKey(i)});idx.push(trKey(i));
+    while(idx.length>40){try{localStorage.removeItem(idx.shift())}catch(e){}}ls("rv.tr.idx",JSON.stringify(idx))}catch(e){}
+}
+// translate page i with 3 parallel workers; onP(k,text) paints as it goes
+function getTr(i,onP,tok){
+  var c=trCacheGet(i);if(c){if(onP)c.forEach(function(v,k){onP(k,v)});return Promise.resolve(c)}
+  var src=ptexts(i),res=new Array(src.length),next=0,done=0,fatal=false;
+  var conc=(!dead.gtx||!dead.nat)&&!dead.mm?3:1;
+  return new Promise(function(ok,no){
+    function worker(){
+      if(fatal||(tok!=null&&tok!==trTok))return;
+      var k=next++;if(k>=src.length)return;
+      trText(src[k]).then(function(v){res[k]=v;done++;if(onP&&(tok==null||tok===trTok))onP(k,v);if(done===src.length){trCachePut(i,res);ok(res)}else worker()}).catch(function(e){fatal=true;no(e)});
     }
-    tpage[i]=res.join("\n\n");st.textContent="Bản dịch máy · Machine translation — có thể sai sót.";
-    try{ls(trKey(i),JSON.stringify(res))}catch(e){}
-  })().catch(function(){if(tok===trTok){st.innerHTML='Translation service unavailable. <a href="https://translate.google.com/?sl=en&tl=vi&op=translate" target="_blank" rel="noopener">Open Google Translate</a> or try again later.'}});
+    if(!src.length)return ok([]);
+    for(var w=0;w<conc;w++)worker();
+  });
 }
-function setTr(m){trm=m;ls("rv.trm",m);$("tr").textContent=m==="0"?"EN":m==="1"?"VI":"EN+VI";if(m==="0"){$("trs").hidden=true;trTok++}show(cur,false)}
-$("tr").textContent=trm==="0"?"EN":trm==="1"?"VI":"EN+VI";
+function paint(k,v){var e=$("txt").querySelector('[data-k="'+k+'"]');if(!e)return;e.innerHTML=esc(v)+(trm==="2"?'<span class="orig">'+esc(ptexts(cur)[k])+"</span>":"")}
+function runTr(i){
+  var tok=trTok,st=$("trs");st.hidden=false;st.textContent=L.tr1;
+  var n=pages[i].b-pages[i].a,c=0;
+  trp[i]=getTr(i,function(k,v){if(tok!==trTok)return;paint(k,v);c++;if(c<n)st.textContent=L.tr1+" "+c+"/"+n},tok);
+  trp[i].then(function(){if(tok!==trTok)return;st.textContent=L.trd;if(i+1<pages.length&&trm!=="0"&&!trCacheGet(i+1)){var nt=trTok;setTimeout(function(){if(nt===trTok)getTr(i+1,null,nt).catch(function(){})},1500)}})
+   .catch(function(){if(tok===trTok)st.innerHTML=L.trf+' <a href="https://translate.google.com/?sl=en&tl=vi&op=translate" target="_blank" rel="noopener">Google Translate</a>'});
+}
+function setTr(m){if(!pages.length)return;trm=m;ls("rv.trm",m);$("tr").classList.toggle("on",m!=="0");stopA(true);render(cur,false)}
+$("tr").classList.toggle("on",trm!=="0");
 $("tr").onclick=function(){setTr(trm==="0"?"1":trm==="1"?"2":"0")};
-function show(i,top){
-  cur=Math.max(0,Math.min(pages.length-1,i));
-  $("txt").innerHTML=pages[cur].split(/\n\n/).map(function(p){
-    var s=p.trim();if(!s)return"";
-    return(s.length<80&&!/[.,;:]$/.test(s)&&/^[A-Z0-9IVXL]/.test(s))?"<h2>"+esc(s)+"</h2>":"<p>"+esc(s)+"</p>";
-  }).join("");
-  trTok++;if(trm!=="0")trp[cur]=runTr(cur);else $("trs").hidden=true;
-  $("pn").textContent=(cur+1)+" / "+pages.length;$("pv").disabled=cur===0;$("nx").disabled=cur===pages.length-1;
-  var pct=pages.length>1?Math.round(cur/(pages.length-1)*100):100;$("bar").firstChild.style.width=pct+"%";
-  ls("rv.pos."+id,cur);save(pct);if(top!==false)window.scrollTo(0,0);
-}
-function save(pct){
-  try{
-    var p=JSON.parse(ls("rv.prog")||"{}");
-    if(pct<=0&&!p[id])return;
-    p[id]={s:pct>=100?"done":"reading",p:Math.min(100,Math.round(pct/5)*5),t:Date.now()};
-    ls("rv.prog",JSON.stringify(p));
-  }catch(e){}
-}
-$("pv").onclick=function(){show(cur-1)};$("nx").onclick=function(){show(cur+1)};
-document.addEventListener("keydown",function(e){if(e.key==="ArrowRight")show(cur+1);if(e.key==="ArrowLeft")show(cur-1)});
+$("tr").title=L.trans;
 
-/* Audio: read the current page aloud with the device voice, then move on. */
-var playing=false,queue=[],qi=0,VOICES=[],keep=null;
+/* ---------- listen (device voice or Piper) ---------- */
+var playing=false,paused=false,queue=[],qi=0,VOICES=[],keep=null,sleepT=null;
 function chunks(t){var out=[];t.replace(/\s+/g," ").split(/(?<=[.!?;:])\s+/).forEach(function(x){while(x.length>220){var k=x.lastIndexOf(" ",220);if(k<80)k=220;out.push(x.slice(0,k));x=x.slice(k)}if(x.trim())out.push(x)});return out}
 var VI=/[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 function lgOf(t){return VI.test(t)?"vi":"en"}
-/* Rank voices: neural/online/natural first, then Google, then local. */
 function score(v){var n=v.name,s=0;if(/natural|neural/i.test(n))s+=50;if(/online/i.test(n))s+=30;if(/google/i.test(n))s+=20;if(/siri|premium|enhanced/i.test(n))s+=25;if(/compact|espeak/i.test(n))s-=20;if(!v.localService)s+=5;return s}
 function loadVoices(){
-  var all=speechSynthesis.getVoices();if(!all.length&&!$("vo").options.length)return;
-  VOICES=all.filter(function(v){return /^(en|vi)/i.test(v.lang)}).sort(function(a,b){return score(b)-score(a)});
-  var sel=$("vo"),keepv=ls("rv.voice")||"";sel.innerHTML='<option value="">Auto</option><option value="piper">🧠 Piper AI (offline, ~60MB)</option>';
+  var all=window.speechSynthesis?speechSynthesis.getVoices():[];
+  VOICES=all.filter(function(v){return/^(en|vi)/i.test(v.lang)}).sort(function(a,b){return score(b)-score(a)});
+  var sel=$("vo"),kv=ls("rv.voice")||"";sel.innerHTML='<option value="">Auto</option><option value="piper">'+L.piper+"</option>";
   VOICES.forEach(function(v){var o=document.createElement("option");o.value=v.name;o.textContent=v.name.replace(/^Microsoft |^Google /,"")+" ("+v.lang+")";sel.appendChild(o)});
-  sel.value=keepv;if(sel.value!==keepv)sel.value="";
+  sel.value=kv;if(sel.value!==kv)sel.value="";
 }
 function pick(lg){
   var pref=ls("rv.voice"),p=VOICES.filter(function(v){return v.lang.toLowerCase().indexOf(lg)===0});
   if(pref){var m=VOICES.filter(function(v){return v.name===pref&&v.lang.toLowerCase().indexOf(lg)===0})[0];if(m)return m}
-  if(lg==="en"){var us=p.filter(function(v){return /^en[-_](us|gb)/i.test(v.lang)});if(us.length)return us[0]}
+  if(lg==="en"){var us=p.filter(function(v){return/^en[-_](us|gb)/i.test(v.lang)});if(us.length)return us[0]}
   return p[0]||null;
 }
-/* Piper: free neural voice that runs in the browser (WASM). Downloads a ~60MB model once, then works offline. */
 var PV={en:"en_US-lessac-medium",vi:"vi_VN-vais1000-medium"},pmod=null,pc={},paudio=new Audio(),pfail=0;
 function pLoad(){return pmod||(pmod=import("https://cdn.jsdelivr.net/npm/@mintplex-labs/piper-tts-web@1.0.4/+esm"))}
 function pSynth(t){var lg=lgOf(t),k=lg+t;if(!pc[k]){var ks=Object.keys(pc);if(ks.length>6)delete pc[ks[0]];pc[k]=pLoad().then(function(m){return m.predict({text:t,voiceId:PV[lg]})})}return pc[k]}
-function speakPiper(){
-  var t=queue[qi++];if(queue[qi])pSynth(queue[qi]).catch(function(){});
-  $("au").textContent="…";
-  pSynth(t).then(function(b){if(!playing)return;$("au").textContent="⏸";var u=URL.createObjectURL(b);paudio.src=u;paudio.playbackRate=+$("sp").value;
-    paudio.onended=function(){URL.revokeObjectURL(u);speak()};paudio.onerror=function(){URL.revokeObjectURL(u);speak()};return paudio.play()})
-  .catch(function(e){if(!playing)return;if(++pfail>=2){ls("rv.voice","");$("vo").value="";alert("Piper voice could not load (network or browser). Using the device voice.");qi=Math.max(0,qi-1);speak()}else{pc={};qi=Math.max(0,qi-1);setTimeout(speak,800)}});
+function mark(k){[].forEach.call($("txt").querySelectorAll(".rd"),function(e){e.classList.remove("rd")});var el=$("txt").querySelector('[data-k="'+k+'"]');if(el){el.classList.add("rd");var r=el.getBoundingClientRect();if(r.top<80||r.bottom>innerHeight-160)el.scrollIntoView({block:"center",behavior:"smooth"})}}
+async function buildQueue(startK){
+  var texts=ptexts(cur);
+  if(trm!=="0"){try{var t=await trp[cur];if(t&&t.length===texts.length)texts=t}catch(e){}}
+  queue=[];texts.forEach(function(tx,k){if(k<startK)return;chunks(tx).forEach(function(c){queue.push({t:c,k:k})})});qi=0;
 }
-function srcText(){return trm!=="0"&&tpage[cur]?tpage[cur]:pages[cur]}
-function nextQ(cb){Promise.resolve(trm!=="0"?trp[cur]:null).then(function(){if(!playing)return;queue=chunks(srcText());qi=0;cb()})}
+function firstVisibleK(){var els=$("txt").children;for(var i=0;i<els.length;i++){if(els[i].getBoundingClientRect().bottom>90)return+els[i].dataset.k}return 0}
 function speak(){
-  if(!playing)return;
-  if(qi>=queue.length){if(cur<pages.length-1){show(cur+1);nextQ(speak)}else stopA();return}
-  if(ls("rv.voice")==="piper"){speakPiper();return}
-  var t=queue[qi++],lg=lgOf(t),v=pick(lg),u=new SpeechSynthesisUtterance(t);
+  if(!playing||paused)return;
+  if(qi>=queue.length){if(cur<pages.length-1){render(cur+1);buildQueue(0).then(function(){if(playing)speak()})}else stopA();return}
+  var it=queue[qi++];mark(it.k);
+  if(ls("rv.voice")==="piper"){
+    $("pt").textContent="…";
+    var nx=queue[qi];if(nx)pSynth(nx.t).catch(function(){});
+    pSynth(it.t).then(function(b){if(!playing||paused)return;$("pt").textContent="⏸";var u=URL.createObjectURL(b);paudio.src=u;paudio.playbackRate=+$("sp").value;paudio.onended=function(){URL.revokeObjectURL(u);speak()};paudio.onerror=function(){URL.revokeObjectURL(u);speak()};return paudio.play()})
+     .catch(function(){if(!playing)return;if(++pfail>=2){ls("rv.voice","");$("vo").value="";alert(L.pfail);qi=Math.max(0,qi-1);speak()}else{pc={};qi=Math.max(0,qi-1);setTimeout(speak,800)}});
+    return;
+  }
+  var lg=lgOf(it.t),v=pick(lg),u=new SpeechSynthesisUtterance(it.t);
   u.rate=+$("sp").value;u.lang=v?v.lang:(lg==="vi"?"vi-VN":"en-US");if(v)u.voice=v;
-  u.onend=function(){setTimeout(speak,/[.!?]$/.test(t)?120:40)};
+  u.onend=function(){setTimeout(speak,/[.!?]$/.test(it.t)?120:40)};
   u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
 }
-function startA(){pfail=0;if(!window.speechSynthesis||!pages.length){alert("No speech voice available on this device.");return}playing=true;$("au").textContent="⏸";speechSynthesis.cancel();loadVoices();nextQ(speak);
-  clearInterval(keep);keep=setInterval(function(){if(playing&&speechSynthesis.speaking&&!speechSynthesis.paused){speechSynthesis.pause();speechSynthesis.resume()}},12000)}
-function stopA(){playing=false;try{paudio.pause()}catch(e){}clearInterval(keep);$("au").textContent="🔊";speechSynthesis.cancel()}
-if(window.speechSynthesis){loadVoices();speechSynthesis.onvoiceschanged=loadVoices}
-$("vo").onchange=function(){try{localStorage.setItem("rv.voice",$("vo").value)}catch(e){}if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();try{paudio.pause()}catch(e){}qi=k;speak()}};
-$("au").onclick=function(){playing?stopA():startA()};
-$("sp").onchange=function(){if(ls("rv.voice")==="piper"){paudio.playbackRate=+$("sp").value;return}if(playing){var k=Math.max(0,qi-1);speechSynthesis.cancel();qi=k;speak()}};
-window.addEventListener("beforeunload",function(){try{speechSynthesis.cancel()}catch(e){}});
-/* PDF: render the whole book into a print-only block and open the print dialog. */
-$("pd").onclick=function(){
-  if(!pages.length)return;var b=$("all");
-  b.innerHTML="<h1>"+esc(name)+"</h1>"+pages.map(function(pg){return pg.split(/\n\n/).map(function(x){x=x.trim();return x?"<p>"+esc(x)+"</p>":""}).join("")}).join("");
-  window.print();
-};
-/* EPUB: build a valid EPUB 3 in the browser from the loaded text. */
+function cancelSpeech(){try{speechSynthesis.cancel()}catch(e){}try{paudio.pause()}catch(e){}}
+function startA(){
+  if(!window.speechSynthesis&&ls("rv.voice")!=="piper"){alert(L.nov);return}
+  pfail=0;playing=true;paused=false;$("pl").classList.add("on");$("au").classList.add("on");$("pt").textContent="⏸";sizeFoot();
+  cancelSpeech();loadVoices();
+  buildQueue(firstVisibleK()).then(function(){speak()});
+  clearInterval(keep);keep=setInterval(function(){if(playing&&!paused&&window.speechSynthesis&&speechSynthesis.speaking&&!speechSynthesis.paused&&ls("rv.voice")!=="piper"){speechSynthesis.pause();speechSynthesis.resume()}},12000);
+}
+function stopA(soft){
+  playing=false;paused=false;clearInterval(keep);cancelSpeech();$("pt").textContent="▶";
+  [].forEach.call($("txt").querySelectorAll(".rd"),function(e){e.classList.remove("rd")});
+  if(!soft){$("pl").classList.remove("on");$("au").classList.remove("on");clearTimeout(sleepT)}
+}
+function pauseToggle(){
+  if(!playing){startA();return}
+  if(paused){paused=false;$("pt").textContent="⏸";qi=Math.max(0,qi-1);speak()}else{paused=true;cancelSpeech();$("pt").textContent="▶"}
+}
+function jump(d){
+  if(!playing)return;var k=queue[Math.max(0,qi-1)]?queue[Math.max(0,qi-1)].k:0,t=Math.max(0,k+d);cancelSpeech();
+  if(t>=pages[cur].b-pages[cur].a){if(cur<pages.length-1){render(cur+1);t=0}else t=k}
+  buildQueue(t).then(function(){paused=false;speak()});
+}
+$("au").onclick=function(){if(playing||$("pl").classList.contains("on"))stopA();else startA()};
+$("pt").onclick=pauseToggle;$("px").onclick=function(){stopA()};
+$("pp").onclick=function(){jump(-1)};$("pn2").onclick=function(){jump(1)};
+$("sp").onchange=function(){if(ls("rv.voice")==="piper"){paudio.playbackRate=+$("sp").value;return}if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speak()}};
+$("vo").onchange=function(){ls("rv.voice",$("vo").value);if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speak()}};
+$("stm").onchange=function(){clearTimeout(sleepT);var m=+$("stm").value;if(m)sleepT=setTimeout(function(){stopA();$("stm").value="0"},m*60000)};
+if(window.speechSynthesis){loadVoices();speechSynthesis.onvoiceschanged=loadVoices}else loadVoices();
+window.addEventListener("beforeunload",function(){cancelSpeech()});
+
+/* ---------- export ---------- */
+function doPdf(){
+  var b=$("all");b.innerHTML="<h1>"+esc(name)+"</h1>"+P.map(function(p){return p.h?"<h2>"+esc(p.t)+"</h2>":"<p>"+esc(p.t)+"</p>"}).join("");closeSheet();window.print();
+}
 function loadZip(){return new Promise(function(ok,no){if(window.JSZip)return ok();var s=document.createElement("script");s.src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js";s.onload=ok;s.onerror=no;document.head.appendChild(s)})}
-$("ep").onclick=function(){
-  if(!pages.length)return;var btn=$("ep");btn.textContent="…";
+function doEpub(btn){
+  var old=btn.textContent;btn.textContent="…";
   loadZip().then(function(){
-    var z=new JSZip(),G=12,chs=[];
-    for(var i=0;i<pages.length;i+=G)chs.push(pages.slice(i,i+G).join("\n\n"));
-    var x=function(t){return '<?xml version="1.0" encoding="utf-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head><title>'+esc(name)+'</title></head><body>'+t+'</body></html>'};
+    var z=new JSZip(),secs=[],hs=P.map(function(p,i){return p.h&&p.h<=2?i:-1}).filter(function(i){return i>=0});
+    if(hs.length>=3&&hs.length<=400){if(hs[0]>0)secs.push({t:name,a:0,b:hs[0]});hs.forEach(function(g,n){secs.push({t:P[g].t,a:g,b:hs[n+1]||P.length})})}
+    else for(var i=0;i<P.length;i+=150)secs.push({t:L.page+" "+(secs.length+1),a:i,b:Math.min(P.length,i+150)});
+    var x=function(t){return'<?xml version="1.0" encoding="utf-8"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head><title>'+esc(name)+"</title></head><body>"+t+"</body></html>"};
     z.file("mimetype","application/epub+zip",{compression:"STORE"});
     z.file("META-INF/container.xml",'<?xml version="1.0"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>');
-    var man="",spine="",toc="";
-    chs.forEach(function(c,n){var f="c"+n+".xhtml";
-      z.file("OEBPS/"+f,x("<h2>Part "+(n+1)+"</h2>"+c.split(/\n\n/).map(function(p){p=p.trim();return p?"<p>"+esc(p)+"</p>":""}).join("")));
-      man+='<item id="c'+n+'" href="'+f+'" media-type="application/xhtml+xml"/>';spine+='<itemref idref="c'+n+'"/>';toc+='<li><a href="'+f+'">Part '+(n+1)+"</a></li>"});
-    z.file("OEBPS/nav.xhtml",x('<nav epub:type="toc"><h1>Contents</h1><ol>'+toc+"</ol></nav>"));
-    z.file("OEBPS/content.opf",'<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="u"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="u">rv-'+esc(id)+'</dc:identifier><dc:title>'+esc(name)+'</dc:title><dc:language>en</dc:language><meta property="dcterms:modified">'+new Date().toISOString().slice(0,19)+'Z</meta></metadata><manifest><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>'+man+'</manifest><spine>'+spine+'</spine></package>');
+    var man="",spine="",tc="";
+    secs.forEach(function(s,n){var f="c"+n+".xhtml",body="";for(var k=s.a;k<s.b;k++){var p=P[k];body+=p.h?"<h2>"+esc(p.t)+"</h2>":"<p>"+esc(p.t).replace(/\n/g,"<br/>")+"</p>"}
+      z.file("OEBPS/"+f,x(body));man+='<item id="c'+n+'" href="'+f+'" media-type="application/xhtml+xml"/>';spine+='<itemref idref="c'+n+'"/>';tc+='<li><a href="'+f+'">'+esc(s.t)+"</a></li>"});
+    z.file("OEBPS/nav.xhtml",x('<nav epub:type="toc"><h1>Contents</h1><ol>'+tc+"</ol></nav>"));
+    z.file("OEBPS/content.opf",'<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="u"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="u">rv-'+esc(id)+"</dc:identifier><dc:title>"+esc(name)+"</dc:title><dc:language>en</dc:language><meta property=\"dcterms:modified\">"+new Date().toISOString().slice(0,19)+'Z</meta></metadata><manifest><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>'+man+"</manifest><spine>"+spine+"</spine></package>");
     return z.generateAsync({type:"blob",mimeType:"application/epub+zip"});
-  }).then(function(bl){var a=document.createElement("a");a.href=URL.createObjectURL(bl);a.download=name+".epub";document.body.appendChild(a);a.click();a.remove();btn.textContent="EPUB"}).catch(function(){btn.textContent="EPUB";alert("Could not build the EPUB.")});
-};
+  }).then(function(bl){var a=document.createElement("a");a.href=URL.createObjectURL(bl);a.download=name+".epub";document.body.appendChild(a);a.click();a.remove();btn.textContent=old}).catch(function(){btn.textContent=old;alert("EPUB error")});
+}
+
+/* ---------- load ---------- */
 if(!/^[a-z0-9_-]+\/[a-z0-9_.-]+$/i.test(id)){fail();return}
+sizeFoot();addEventListener("resize",sizeFoot);
 fetch("api/text?id="+encodeURIComponent(id)).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){
-  if(t.length<500)throw 0;pages=split(t);$("msg").remove();$("nav").hidden=false;
-  show(+ls("rv.pos."+id)||0,false);
+  if(t.length<500)throw 0;build(t);if(!pages.length)throw 0;$("msg").remove();
+  var pos=+ls("rv.pos."+id)||0,sc=null;try{sc=JSON.parse(ls("rv.sc."+id)||"null")}catch(e){}
+  var qp=q.get("p");if(qp!==null&&!isNaN(+qp))pos=+qp;
+  render(pos,false);sizeFoot();
+  if(sc&&sc.p===cur&&sc.y)setTimeout(function(){window.scrollTo(0,sc.y)},50);
 }).catch(fail);
 })();
 </script></body></html>
