@@ -100,5 +100,23 @@
   "westminster",
   "kuyper/lecture",
   "rutherford/letters"
+ ],
+ "core": [
+  "calvin/chr_life",
+  "bonar/peace",
+  "spurgeon/grace",
+  "watson/contentment",
+  "watson/prayer",
+  "watson/beatitudes",
+  "owen/mort",
+  "boston/crook",
+  "flavel/lovely",
+  "spurgeon/checkbook",
+  "bonar/followlamb",
+  "calvin/prayer",
+  "bunyan/grace",
+  "ryle/holiness",
+  "flavel/fountain",
+  "bunyan/pilgrim"
  ]
 }
