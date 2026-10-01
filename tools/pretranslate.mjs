@@ -2,11 +2,39 @@
 // Usage: node tools/pretranslate.mjs "id1,id2" [maxPagesPerBook] [site]
 import { chromium } from 'playwright';
 import fs from 'node:fs';
-const KEY = process.env.GEMINI_API_KEY || '';
+const GKEY = process.env.GROQ_API_KEY || '';
+const GROQ_MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
+const KEY = process.env.GEMINI_API_KEY || GKEY;
 const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const gl = JSON.parse(fs.readFileSync(new URL('./glossary.json', import.meta.url), 'utf8'));
 const SYS = `You translate public-domain Reformed Christian literature from English into natural, reverent Vietnamese for Vietnamese Protestant readers. Be faithful to the author; no additions or commentary; keep Scripture references; render Scripture in the Vietnamese Bible style (Kinh Thánh Tiếng Việt 1934 wording where possible). Use this glossary: ${JSON.stringify(gl)}. You receive a JSON array of paragraphs; return a JSON array of strings with exactly the same length and order, one translation per paragraph.`;
 let lastCall = 0;
+async function groq(src) {
+  for (let a = 0; a < 6; a++) {
+    const wait = Math.max(0, lastCall + 20000 - Date.now()); // stay under free TPM
+    if (wait) await new Promise(r => setTimeout(r, wait));
+    lastCall = Date.now();
+    try {
+      const r = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+        method: 'POST',
+        headers: { 'content-type': 'application/json', authorization: 'Bearer ' + GKEY },
+        body: JSON.stringify({
+          model: GROQ_MODEL, temperature: 0.2, response_format: { type: 'json_object' },
+          messages: [
+            { role: 'system', content: SYS + ' Return an object {"t":[...]} where t is the array of translations.' },
+            { role: 'user', content: JSON.stringify({ paragraphs: src }) }]
+        })
+      });
+      if (r.status === 429 || r.status >= 500) { await new Promise(r => setTimeout(r, 30000 * (a + 1))); continue; }
+      if (!r.ok) throw new Error('groq ' + r.status);
+      const j = await r.json();
+      const arr = JSON.parse(j.choices[0].message.content).t;
+      if (Array.isArray(arr) && arr.length === src.length && arr.every(x => typeof x === 'string' && x.trim())) return arr;
+      throw new Error('bad shape');
+    } catch (e) { if (a === 5) throw e; await new Promise(r => setTimeout(r, 8000)); }
+  }
+  throw new Error('groq failed');
+}
 async function gemini(src) {
   for (let a = 0; a < 6; a++) {
     const wait = Math.max(0, lastCall + 4500 - Date.now()); // ~13 req/min
@@ -43,7 +71,7 @@ for (const id of ids) {
   const ctx = await b.newContext({ viewport: { width: 420, height: 800 } });
   const p = await ctx.newPage();
   await p.addInitScript(() => { try { localStorage.setItem('rv.trm', '1'); localStorage.setItem('rv.lang', 'vi'); } catch (e) {} });
-  if (KEY) await p.exposeFunction('__trBatch', gemini);
+  if (KEY) await p.exposeFunction('__trBatch', process.env.GEMINI_API_KEY ? gemini : groq);
   let posts = 0, fails = 0;
   p.on('request', r => { if (r.method() === 'POST' && r.url().includes('/api/tr')) posts++; });
   try {
