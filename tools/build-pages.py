@@ -120,6 +120,7 @@ exec(open('tools/today.py', encoding='utf-8').read())
 exec(open('tools/topics.py', encoding='utf-8').read())
 exec(open('tools/courses.py', encoding='utf-8').read())
 exec(open('tools/quotes.py', encoding='utf-8').read())
+exec(open('tools/glossary.py', encoding='utf-8').read())
 
 # sitemap
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
