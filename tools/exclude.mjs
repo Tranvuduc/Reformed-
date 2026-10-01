@@ -1,6 +1,8 @@
 // Shared Reformed-only filter (rules in tools/exclude.json). rows: [authorIdx, title, ...]
 import fs from "node:fs";
 const ex = JSON.parse(fs.readFileSync(new URL("./exclude.json", import.meta.url), "utf8"));
+const XA = JSON.parse(fs.readFileSync(new URL("./authors.json", import.meta.url), "utf8"));
+for (const a of XA.authors) ex.allow_ia.push(a.replace(/^(.*), (.*)$/, "$2 $1"));
 const DA = new RegExp(ex.deny_au, "i"), DT = new RegExp(ex.deny_ti, "i"), AL = new Set(ex.allow_ia), ALR = new RegExp(ex.allow_ia_re, "i");
 export function reformedOnly(names, rows, allowOnly) {
   const keep = rows.filter((r) => { const nm = names[r[0]] || ""; if (DA.test(nm) || DT.test(r[1])) return false; return !allowOnly || AL.has(nm) || ALR.test(nm); });

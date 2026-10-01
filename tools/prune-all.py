@@ -1,7 +1,8 @@
 # Apply tools/exclude.json to ia.json, lv.json, mg.json, books.json (keeps the library Reformed).
 import json,re,sys
 ex=json.load(open('tools/exclude.json'));DA=re.compile(ex['deny_au'],re.I);DT=re.compile(ex['deny_ti'],re.I)
-AL=set(ex['allow_ia']);ALR=re.compile(ex['allow_ia_re'],re.I)
+import re as _r
+AL=set(ex['allow_ia'])|{_r.sub(r'^(.*), (.*)$',r'\2 \1',a) for a in json.load(open('tools/authors.json'))['authors']};ALR=re.compile(ex['allow_ia_re'],re.I)
 def compact(d,strict_idx=0):
     used=sorted({r[0] for r in d['b']});m={o:i for i,o in enumerate(used)}
     d['a']=[d['a'][o] for o in used]
