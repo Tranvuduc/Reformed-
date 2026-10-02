@@ -1,7 +1,5 @@
 (function () {
-  var utils = window.RV_UTILS = window.RV_UTILS || {};
-  window.RV_STATE_UTILS = window.RV_STATE_UTILS || utils;
-  var util = window.RV_STATE_UTILS;
+  var util = window.RV_UTILS = window.RV_UTILS || {};
 
   util.getInitialState = function () {
     var state = {
