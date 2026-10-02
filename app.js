@@ -1,5 +1,5 @@
 var util = window.RV_UTILS || {};
-var stateUtil = window.RV_STATE_UTILS || {};
+var stateUtil = window.RV_STATE_UTILS || window.RV_UTILS || {};
 var T={
   vi:{allTypes:"Mọi thể loại",allEras:"Mọi thời kỳ",clear:"Xóa bộ lọc",sort0:"Mặc định",sort1:"Tên sách A–Z",sort2:"Tên tác giả A–Z",sort3:"Xưa nhất trước",sort4:"Mới nhất trước",
    ty_systematic:"Thần học hệ thống",ty_commentary:"Bình giải",ty_sermons:"Bài giảng",ty_devotional:"Suy niệm và cầu nguyện",ty_doctrine:"Giáo lý và luận thuyết",ty_catechism:"Kinh Thánh, tín điều",ty_history:"Lịch sử và nhân vật",ty_collected:"Tuyển tập",ty_bible:"Kinh Thánh",ty_classic:"Cổ điển",
