@@ -32,6 +32,10 @@ _AB = [  # slugs, name, years, tradition, bio, works, hosted vn slugs
  (["thomas-goodwin"], "Thomas Goodwin", "1600–1680", "Thanh giáo Anh (Hội Chúng)", "Nhà thần học Thanh giáo, thành viên Hội đồng Westminster, viết về lòng của Đấng Christ đối với tội nhân.", ["The Heart of Christ in Heaven", "Christ Set Forth"], []),
  (["john-gill"], "John Gill", "1697–1771", "Báp-tít Cải Chánh", "Mục sư Báp-tít ở London, tác giả bộ chú giải Kinh Thánh đồ sộ và bộ thần học hệ thống.", ["Exposition of the Entire Bible", "Body of Doctrinal Divinity"], []),
 ]
+import json as _json
+for _s, _d in _json.load(open("tools/author_bios_more.json", encoding="utf-8")).items():
+    if not any(_s in x[0] for x in _AB):
+        _AB.append(([_s], _d["name"], _d.get("years", ""), _d.get("tradition", ""), _d["bio"], _d.get("works", []), []))
 _VT = {}
 for _f in _os.listdir("txt"):
     if _f.endswith(".txt"):
@@ -40,7 +44,8 @@ for _f in _os.listdir("txt"):
 def _min(s): return max(1, round(_VT[s][1] / 1100))
 _apage = '<style>.bio{margin:12px 0 18px;padding:14px 16px;border-radius:10px;background:#8881}.bio p{margin:.3em 0}.bio dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin:.6em 0;font-size:.92rem}.bio dt{opacity:.7}.bio dd{margin:0}.bio ul{margin:.3em 0 .3em 1.2em;padding:0}</style>'
 for _sl, _nm, _yr, _tr, _bio, _wk, _vn in _AB:
-    _blk = (f'<div class="bio"><p>{E(_bio)}</p><dl><dt>Sống</dt><dd>{E(_yr)}</dd><dt>Truyền thống</dt><dd>{E(_tr)}</dd><dt>Tác phẩm tiêu biểu</dt><dd>{E("; ".join(_wk))}</dd></dl>'
+    _dl = (f'<dt>Sống</dt><dd>{E(_yr)}</dd>' if _yr else '') + (f'<dt>Truyền thống</dt><dd>{E(_tr)}</dd>' if _tr else '') + (f'<dt>Tác phẩm tiêu biểu</dt><dd>{E("; ".join(_wk))}</dd>' if _wk else '')
+    _blk = (f'<div class="bio"><p>{E(_bio)}</p><dl>{_dl}</dl>'
             + ('<p><b>Đọc tiếng Việt ngay:</b></p><ul>' + "".join(f'<li><a href="/reader.html?id=vn/{s}">{E(_VT[s][0])}</a> (khoảng {_min(s)} phút, bản dịch AI chưa duyệt)</li>' for s in _vn if s in _VT) + '</ul>' if _vn else '')
             + '<p><small>Tiểu sử tóm tắt do AI soạn, chưa được mục sư duyệt. Hãy đối chiếu với nguồn lịch sử đáng tin cậy.</small></p></div>')
     for _s in _sl:

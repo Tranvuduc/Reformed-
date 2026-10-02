@@ -1,0 +1,598 @@
+{
+ "cotton-mather": {
+  "name": "Cotton Mather",
+  "years": "1663–1728",
+  "tradition": "Thanh giáo New England (Hội Thánh Tự Trị/Congregational)",
+  "bio": "Cotton Mather là mục sư Thanh giáo ở Boston, phục vụ tại nhà thờ Old North cùng với cha là Increase Mather. Ông viết rất nhiều sách thần học và lịch sử Hội Thánh New England, và cũng là nhân vật gây tranh cãi vì đã biện hộ cho các phiên tòa phù thủy ở Salem.",
+  "works": [
+   "Magnalia Christi Americana",
+   "Bonifacius, or Essays to Do Good",
+   "The Wonders of the Invisible World"
+  ]
+ },
+ "joseph-hall": {
+  "name": "Joseph Hall",
+  "years": "1574–1656",
+  "tradition": "Anh giáo (Giám mục Norwich)",
+  "bio": "Joseph Hall là giám mục Anh giáo, nhà văn trào phúng và tác giả sách tu đức. Ông giữ lập trường trung dung giữa các phe Calvin và Arminius, và bênh vực chế độ giám mục.",
+  "works": [
+   "Contemplations on the Historical Passages of the Old and New Testaments",
+   "Characters of Virtues and Vices",
+   "Virgidemiarum"
+  ]
+ },
+ "william-perkins": {
+  "name": "William Perkins",
+  "years": "1558–1602",
+  "tradition": "Thanh giáo Calvin trong Giáo hội Anh",
+  "bio": "William Perkins là nhà thần học ở Cambridge, được xem là một lãnh đạo hàng đầu của phong trào Thanh giáo thời nữ hoàng Elizabeth. Ông viết nhiều về thần học Cải Chánh, sự tiền định và phương pháp giảng dạy Lời Chúa.",
+  "works": [
+   "A Golden Chaine",
+   "The Arte of Prophesying",
+   "The Foundation of Christian Religion"
+  ]
+ },
+ "john-preston": {
+  "name": "John Preston",
+  "years": "1587–1628",
+  "tradition": "Thanh giáo trong Giáo hội Anh (Calvin)",
+  "bio": "John Preston là mục sư Anh giáo theo khuynh hướng Thanh giáo, làm Viện trưởng Emmanuel College, Cambridge, và nổi tiếng với việc giảng đạo. Các bài giảng của ông được xuất bản sau khi ông qua đời.",
+  "works": [
+   "The New Covenant",
+   "The Breastplate of Faith and Love",
+   "Life Eternal"
+  ]
+ },
+ "james-ussher": {
+  "name": "James Ussher",
+  "years": "1581–1656",
+  "tradition": "Giáo hội Ireland (Cải Chánh, Anh giáo)",
+  "bio": "James Ussher là Tổng giám mục Armagh, Primate của toàn Ireland từ năm 1625. Ông là học giả nổi tiếng, được biết đến nhờ việc xác định các thư tín thật của Ignatius ở Antioch và bảng niên đại tính ngày sáng tạo là năm 4004 trước Chúa Cứu Thế.",
+  "works": [
+   "Annales veteris testamenti",
+   "Britannicarum ecclesiarum antiquitates"
+  ]
+ },
+ "edward-reynolds": {
+  "name": "Edward Reynolds",
+  "years": "1599–1676",
+  "tradition": "Anh giáo (từng có khuynh hướng Trưởng Lão)",
+  "bio": "Edward Reynolds là Giám mục Norwich, từng nghiêng về Trưởng Lão trong thời Nội chiến Anh và trở thành nhân vật quan trọng của Giáo hội Anh sau thời Phục hồi. Ông là tác giả bản Lời Tạ Ơn Chung (General Thanksgiving) trong Sách Cầu Nguyện Chung.",
+  "works": [
+   "A Treatise of the Passions and Faculties of the Soul of Man",
+   "An Explication of the Hundred and Tenth Psalm"
+  ]
+ },
+ "edmund-calamy": {
+  "name": "Edmund Calamy the Elder",
+  "years": "1600–1666",
+  "tradition": "Trưởng Lão Anh",
+  "bio": "Edmund Calamy (bậc cha) là mục sư Trưởng Lão người Anh, bênh vực chế độ Trưởng Lão trong thời Nội chiến Anh và là người đầu tiên trong bốn thế hệ mục sư bất tuân giáo cùng tên. Ông là một trong các tác giả của tập sách Smectymnuus.",
+  "works": [
+   "An Answer to a Book entitled An Humble Remonstrance (Smectymnuus)",
+   "The Souldier's Pocket Bible",
+   "Jus Divinum Ministerii Evangelici"
+  ]
+ },
+ "thomas-shepard": {
+  "name": "Thomas Shepard",
+  "years": "1605–1649",
+  "tradition": "Thanh giáo New England (Hội Thánh Tự Trị)",
+  "bio": "Thomas Shepard là mục sư Thanh giáo, đến Boston năm 1635 và làm mục sư Hội Thánh tại Cambridge, Massachusetts. Ông nổi tiếng với lối giảng thấm thía về kinh nghiệm đức tin và sự thật lòng của người tin Chúa.",
+  "works": [
+   "The Sincere Convert",
+   "The Sound Believer",
+   "The Parable of the Ten Virgins"
+  ]
+ },
+ "philip-doddridge": {
+  "name": "Philip Doddridge",
+  "years": "1702–1751",
+  "tradition": "Bất tuân giáo Anh (Hội Thánh Tự Trị/Congregational)",
+  "bio": "Philip Doddridge là mục sư Hội Thánh Castle Hill ở Northampton từ năm 1729, đồng thời điều hành một học viện đào tạo mục sư và giảng dạy bằng tiếng Anh. Ông là tác giả nhiều bài thánh ca và cuốn sách tu đức nổi tiếng.",
+  "works": [
+   "The Rise and Progress of Religion in the Soul",
+   "The Family Expositor"
+  ]
+ },
+ "isaac-watts": {
+  "name": "Isaac Watts",
+  "years": "1674–1748",
+  "tradition": "Hội Thánh Tự Trị Anh (Congregational)",
+  "bio": "Isaac Watts là mục sư và nhà thần học Hội Thánh Tự Trị, được gọi là 'cha đẻ của thánh ca Anh ngữ'. Ông viết nhiều bài thánh ca còn được hát đến nay, như 'When I Survey the Wondrous Cross' và 'Our God, Our Help in Ages Past'.",
+  "works": [
+   "Hymns and Spiritual Songs",
+   "The Psalms of David Imitated in the Language of the New Testament"
+  ]
+ },
+ "lewis-bayly": {
+  "name": "Lewis Bayly",
+  "years": "khoảng 1575–1631",
+  "tradition": "Anh giáo mang khuynh hướng Cải Chánh/Thanh giáo",
+  "bio": "Lewis Bayly là giáo sĩ gốc xứ Wales và Giám mục Bangor. Sách hướng dẫn đời sống đạo đức của ông được in rất nhiều lần qua nhiều thế kỷ và nhiều thứ tiếng, và ảnh hưởng đến John Bunyan cũng như người Thanh giáo ở New England.",
+  "works": [
+   "The Practice of Piety"
+  ]
+ },
+ "thomas-chalmers": {
+  "name": "Thomas Chalmers",
+  "years": "1780–1847",
+  "tradition": "Trưởng Lão Scotland",
+  "bio": "Thomas Chalmers là mục sư và giáo sư thần học Trưởng Lão người Scotland, được xem là một nhà lãnh đạo Hội Thánh lớn của thế kỷ 19 ở Scotland. Ông tiên phong trong công tác mục vụ đô thị và lãnh đạo phong trào dẫn đến cuộc Ly khai năm 1843, lập nên Hội Thánh Tự Do Scotland.",
+  "works": [
+   "A Series of Discourses on the Christian Revelation, Viewed in Connection with the Modern Astronomy",
+   "The Christian and Civic Economy of Large Towns"
+  ]
+ },
+ "benjamin-keach": {
+  "name": "Benjamin Keach",
+  "years": "1640–1704",
+  "tradition": "Báp-tít Đặc Định Anh (Particular Baptist)",
+  "bio": "Benjamin Keach là mục sư Báp-tít Đặc Định ở Horsleydown, Luân Đôn, phục vụ khoảng 36 năm và chịu bắt bớ thời Phục hồi. Ông ủng hộ việc hát thánh ca trong thờ phượng của người Báp-tít.",
+  "works": [
+   "Tropologia: A Key to Open Scripture Metaphors",
+   "An Exposition of the Parables",
+   "Spiritual Songs"
+  ]
+ },
+ "john-howe": {
+  "name": "John Howe",
+  "years": "1630–1705",
+  "tradition": "Thanh giáo Anh (bất tuân giáo)",
+  "bio": "John Howe là nhà thần học Thanh giáo, từng làm tuyên úy cho Oliver Cromwell và sau đó là mục sư bất tuân giáo hàng đầu thời Phục hồi. Ông cố gắng nối kết giữa những người theo và không theo Giáo hội Anh.",
+  "works": [
+   "The Living Temple",
+   "Delighting in God",
+   "The Redeemer's Tears Wept over Lost Souls"
+  ]
+ },
+ "john-brown": {
+  "name": "John Brown of Haddington",
+  "years": "1722–1787",
+  "tradition": "Hội Thánh Ly Khai Scotland (Burgher Seceder, Trưởng Lão)",
+  "bio": "Mục sư tại Haddington từ năm 1751 và là giáo sư thần học của Hội Thánh Ly Khai (Burgher) từ năm 1768 để đào tạo mục sư. Ông gần như tự học và nổi tiếng với các tác phẩm chú giải và biên soạn Kinh Thánh.",
+  "works": [
+   "The Self-Interpreting Bible",
+   "A Dictionary of the Bible",
+   "A General History of the Christian Church"
+  ]
+ },
+ "philip-schaff": {
+  "name": "Philip Schaff",
+  "years": "1819–1893",
+  "tradition": "Cải Chánh Thụy Sĩ - Mỹ (Hội Thánh Cải Chánh Đức, sau là Trưởng Lão)",
+  "bio": "Thần học gia và sử gia Hội Thánh sinh tại Thụy Sĩ, sống và giảng dạy tại Hoa Kỳ. Ông sáng lập Hội Sử học Hội Thánh Hoa Kỳ năm 1888 và tham gia công trình Bản Kinh Thánh Hiệu đính (Revised Version).",
+  "works": [
+   "History of the Christian Church",
+   "Creeds of Christendom",
+   "Schaff-Herzog Encyclopaedia of Religious Knowledge"
+  ]
+ },
+ "archibald-alexander": {
+  "name": "Archibald Alexander",
+  "years": "1772–1851",
+  "tradition": "Trưởng Lão Mỹ",
+  "bio": "Mục sư Trưởng Lão và là giáo sư đầu tiên của Chủng viện Thần học Princeton từ năm 1812 cho đến khi qua đời. Trước đó ông làm hiệu trưởng Hampden–Sydney College (1797–1806).",
+  "works": [
+   "Evidences of the Authenticity, Inspiration, and Canonical Authority of the Holy Scriptures",
+   "Thoughts on Religious Experience",
+   "Canon of the Old and New Testaments Ascertained"
+  ]
+ },
+ "james-hervey": {
+  "name": "James Hervey",
+  "years": "1714–1758",
+  "tradition": "Anh giáo theo thần học Calvin",
+  "bio": "Mục sư thuộc Hội Thánh Anh quốc, chịu ảnh hưởng nhóm Methodist ở Oxford rồi theo thần học Calvin nhưng vẫn ở trong Hội Thánh quốc giáo. Các sách suy gẫm của ông được đọc rất rộng rãi vào thế kỷ 18.",
+  "works": [
+   "Meditations and Contemplations",
+   "Theron and Aspasio"
+  ]
+ },
+ "robert-fleming": {
+  "name": "Robert Fleming the Elder",
+  "years": "1630–1694",
+  "tradition": "Trưởng Lão Scotland (Covenanter)",
+  "bio": "Mục sư Trưởng Lão Scotland, từng coi sóc Cambuslang (1653–1662) và Hội Thánh Scotland tại Rotterdam (1677–1694); ông không chấp nhận chế độ giám mục sau cuộc Phục hồi triều đại. Ông được nhớ đến nhất qua sách về sự quan phòng của Đức Chúa Trời.",
+  "works": [
+   "The Fulfilling of the Scripture"
+  ]
+ },
+ "samuel-miller": {
+  "name": "Samuel Miller",
+  "years": "1769–1850",
+  "tradition": "Trưởng Lão Mỹ",
+  "bio": "Mục sư Trưởng Lão, giáo sư Lịch sử Hội Thánh và Chính thể Hội Thánh tại Chủng viện Thần học Princeton (1813–1849) và là một trong những người góp phần lập nên chủng viện này. Ông viết nhiều về chính thể Trưởng Lão và các cuộc tranh luận thần học đương thời.",
+  "works": [
+   "Letters on Unitarianism",
+   "The Primitive and Apostolical Order of the Church of Christ Vindicated",
+   "A Brief Retrospect of the Eighteenth Century"
+  ]
+ },
+ "john-cotton": {
+  "name": "John Cotton",
+  "years": "1585–1652",
+  "tradition": "Thanh giáo (Hội Thánh Tự Trị) New England",
+  "bio": "Mục sư Thanh giáo, năm 1633 sang Boston thuộc xứ Massachusetts Bay và trở thành một trong những mục sư, nhà thần học có ảnh hưởng nhất tại đó. Ông biện hộ cho chính thể Hội Thánh Tự Trị (Congregational) ở New England.",
+  "works": [
+   "The Keyes of the Kingdom of Heaven",
+   "Spiritual Milk for Boston Babes",
+   "The Way of Congregational Churches Cleared"
+  ]
+ },
+ "samuel-rutherford": {
+  "name": "Samuel Rutherford",
+  "years": "khoảng 1600–1661",
+  "tradition": "Trưởng Lão Scotland (Covenanter)",
+  "bio": "Mục sư và thần học gia Hội Thánh Scotland, là đại biểu Scotland tại Hội nghị Westminster. Ông được biết đến qua các thư tín thuộc linh và luận thuyết chính trị Lex, Rex.",
+  "works": [
+   "Lex, Rex",
+   "Letters",
+   "A Free Disputation against Pretended Liberty of Conscience"
+  ]
+ },
+ "arthur-dent": {
+  "name": "Arthur Dent",
+  "years": "mất năm 1607",
+  "tradition": "Thanh giáo Anh",
+  "bio": "Mục sư Thanh giáo, làm rector tại South Shoebury, Essex, nổi tiếng với các bài giảng được in và tái bản nhiều lần. Sách The Plain Man's Pathway to Heaven của ông được biết là đã ảnh hưởng đến John Bunyan.",
+  "works": [
+   "The Plain Man's Pathway to Heaven",
+   "The Ruine of Rome"
+  ]
+ },
+ "alexander-maclaren": {
+  "name": "Alexander Maclaren",
+  "years": "1826–1910",
+  "tradition": "Báp-tít Anh",
+  "bio": "Mục sư Báp-tít, nổi tiếng là nhà giảng giải Kinh Thánh theo lối giảng câu theo câu, dựa trên nguyên văn Hê-bơ-rơ và Hy Lạp. Ông được gọi là \"vua của các nhà giảng giải\".",
+  "works": [
+   "Expositions of Holy Scripture",
+   "The Expositor's Bible: The Psalms"
+  ]
+ },
+ "thomas-gataker": {
+  "name": "Thomas Gataker",
+  "years": "1574–1654",
+  "tradition": "Thanh giáo Anh",
+  "bio": "Mục sư và học giả Anh, giảng đạo tại Lincoln's Inn và làm rector tại Rotherhithe, có tham dự Hội nghị Westminster. Ông không tán thành việc đưa Giao Ước (Covenant) vào và ủng hộ chế độ giám mục.",
+  "works": [
+   "Of the Nature and Use of Lots",
+   "Dissertatio de stylo Novi Testamenti"
+  ]
+ },
+ "john-robinson": {
+  "name": "John Robinson",
+  "years": "1576–1625",
+  "tradition": "Thanh giáo Ly khai (Hội Thánh Tự Trị)",
+  "bio": "Mục sư của nhóm Tín hữu Hành hương (Pilgrim Fathers) tại Leiden trước chuyến đi của tàu Mayflower năm 1620, bản thân ông ở lại Leiden. Ông được xem là một trong những người đặt nền cho Hội Thánh Tự Trị (Congregational).",
+  "works": [
+   "A Justification of Separation from the Church of England",
+   "A Defence of the Doctrine Propounded by the Synod of Dort"
+  ]
+ },
+ "edward-dering": {
+  "name": "Edward Dering",
+  "years": "khoảng 1540–1576",
+  "tradition": "Thanh giáo Anh",
+  "bio": "Mục sư và học giả Anh, năm 1570 giảng một bài trước Nữ hoàng Elizabeth chỉ trích hàng giáo phẩm nên bị đình chỉ giảng đạo. Từ năm 1572 ông giảng giải thư Hê-bơ-rơ tại Nhà thờ St. Paul, Luân Đôn.",
+  "works": [
+   "Workes (collected edition, 1614)"
+  ]
+ },
+ "ralph-erskine": {
+  "name": "Ralph Erskine",
+  "years": "1685–1752",
+  "tradition": "Hội Thánh Ly Khai Scotland (Burgher Seceder, Trưởng Lão)",
+  "bio": "Mục sư tại Dunfermline từ năm 1711, em của Ebenezer Erskine; năm 1737 ông gia nhập Hội Thánh Ly Khai (nhánh Burgher). Ông để lại nhiều bài giảng và thơ thuộc linh.",
+  "works": [
+   "Gospel Sonnets"
+  ]
+ },
+ "john-jewel": {
+  "name": "John Jewel",
+  "years": "1522–1571",
+  "tradition": "Anh giáo thời Cải Chánh",
+  "bio": "Giám mục Salisbury từ năm 1559 đến khi qua đời, bênh vực sự thiết lập của Hội Thánh Anh quốc thời Elizabeth trước Hội Thánh La Mã. Sách Apology của ông là bản trình bày có hệ thống đầu tiên lập trường của Hội Thánh Anh quốc.",
+  "works": [
+   "Apology of the Church of England"
+  ]
+ },
+ "john-bradford": {
+  "name": "John Bradford",
+  "years": "khoảng 1510–1555",
+  "tradition": "Cải Chánh Anh (Anh giáo thời Edward VI)",
+  "bio": "Mục sư Tin Lành người Anh, thầy giảng của vua Edward VI và là thành viên chức sắc tại Nhà thờ St Paul, Luân Đôn. Ông bị bắt giam và bị thiêu tại Smithfield năm 1555 dưới triều nữ vương Mary I vì đức tin Tin Lành.",
+  "works": [
+   "The Writings of John Bradford (ấn bản 1853)"
+  ]
+ },
+ "increase-mather": {
+  "name": "Increase Mather",
+  "years": "1639–1723",
+  "tradition": "Thanh giáo New England (Hội Chúng)",
+  "bio": "Mục sư của Hội Thánh North Church ở Boston và là Viện trưởng thứ sáu của Harvard College (1685–1701). Ông là một lãnh đạo Thanh giáo có ảnh hưởng ở Massachusetts, từng kêu gọi thận trọng về bằng chứng trong các vụ xét xử phù thủy ở Salem.",
+  "works": [
+   "A Brief History of the War with the Indians in New-England",
+   "Remarkable Providences",
+   "Cases of Conscience Concerning Evil Spirits"
+  ]
+ },
+ "william-plumer": {
+  "name": "William Swan Plumer",
+  "years": "1802–1880",
+  "tradition": "Trưởng Lão Mỹ (phái Old School)",
+  "bio": "Mục sư và nhà thần học Trưởng Lão Hoa Kỳ, từng hầu việc Chúa tại Richmond, Baltimore, Philadelphia và giảng dạy tại các chủng viện Pittsburgh và Columbia. Ông làm Chủ tọa Đại Hội Đồng Trưởng Lão các năm 1838 và 1871.",
+  "works": [
+   "Vital Godliness",
+   "The Law of God",
+   "Studies in the Book of Psalms"
+  ]
+ },
+ "richard-hooker": {
+  "name": "Richard Hooker",
+  "years": "1554–1600",
+  "tradition": "Anh giáo (Giáo Hội Anh thời Elizabeth)",
+  "bio": "Linh mục và nhà thần học Anh giáo, từng làm Master của Temple Church tại Luân Đôn. Ông bênh vực Giáo Hội Anh trước cả Công giáo La Mã lẫn phái Thanh giáo, đặt nền trên Kinh Thánh, truyền thống Hội Thánh và lý trí.",
+  "works": [
+   "Of the Lawes of Ecclesiasticall Politie"
+  ]
+ },
+ "william-romaine": {
+  "name": "William Romaine",
+  "years": "1714–1795",
+  "tradition": "Phúc Âm Anh giáo",
+  "bio": "Mục sư Phúc Âm của Giáo Hội Anh và là học giả tiếng Hê-bơ-rơ, từ khoảng năm 1748 giảng dạy giáo lý Phúc Âm cho nhiều hội chúng ở Luân Đôn. Từ năm 1766 ông làm rector tại St Andrew by the Wardrobe và là tuyên úy của Nữ Bá tước Huntingdon.",
+  "works": [
+   "The Life of Faith",
+   "The Walk of Faith",
+   "The Triumph of Faith"
+  ]
+ },
+ "john-willison": {
+  "name": "John Willison",
+  "years": "1680–1750",
+  "tradition": "Trưởng Lão Scotland (Church of Scotland)",
+  "bio": "Mục sư Phúc Âm của Church of Scotland, hầu việc tại Brechin từ năm 1703 và tại Dundee từ năm 1718. Ông viết nhiều sách thuộc linh và sách giáo lý cho gia đình và Hội Thánh.",
+  "works": [
+   "The Afflicted Man's Companion",
+   "The Balm of Gilead",
+   "Sacramental Meditations and Advices"
+  ]
+ },
+ "thomas-hooker": {
+  "name": "Thomas Hooker",
+  "years": "1586–1647",
+  "tradition": "Thanh giáo New England (Hội Chúng)",
+  "bio": "Mục sư Thanh giáo người Anh, rời Anh quốc để tránh sự áp bức dưới thời Tổng Giám mục Laud, đến Massachusetts năm 1633 rồi dẫn hội chúng đến lập Hartford, Connecticut năm 1636. Ông là mục sư tại Hartford cho đến khi qua đời và được biết đến qua các bài giảng về sự chuẩn bị tâm linh và công cuộc cứu chuộc.",
+  "works": [
+   "A Survey of the Summe of Church Discipline",
+   "The Application of Redemption"
+  ]
+ },
+ "adoniram-judson": {
+  "name": "Adoniram Judson",
+  "years": "1788–1850",
+  "tradition": "Báp-tít Hoa Kỳ",
+  "bio": "Giáo sĩ Báp-tít người Mỹ, đến Miến Điện năm 1812 và hầu việc Chúa tại đó gần bốn mươi năm. Ông dịch trọn Kinh Thánh sang tiếng Miến Điện (hoàn tất năm 1834) và chịu cảnh tù tội mười bảy tháng trong cuộc chiến Anh–Miến lần thứ nhất.",
+  "works": [
+   "Burmese Bible (bản dịch Kinh Thánh tiếng Miến Điện)",
+   "Burmese–English dictionary"
+  ]
+ },
+ "william-buell-sprague": {
+  "name": "William Buell Sprague",
+  "years": "1795–1876",
+  "tradition": "Hội Chúng và Trưởng Lão Mỹ",
+  "bio": "Mục sư người Mỹ, hầu việc tại West Springfield rồi tại Second Presbyterian Church ở Albany, New York trong khoảng bốn mươi năm. Ông nổi tiếng là người biên soạn bộ tiểu sử các mục sư Tin Lành Hoa Kỳ.",
+  "works": [
+   "Annals of the American Pulpit",
+   "Life of Timothy Dwight",
+   "Memoir of the late Rev. Edward Dorr Griffin"
+  ]
+ },
+ "joseph-alleine": {
+  "name": "Joseph Alleine",
+  "years": "1634–1668",
+  "tradition": "Bất tùng quốc giáo Anh (Nonconformist, Thanh giáo)",
+  "bio": "Mục sư tại Taunton, bị cách chức sau Đạo luật Thống nhất năm 1662 vì không chịu tuân theo, rồi nhiều lần bị bắt bớ vì tiếp tục nhóm họp và giảng dạy. Ông qua đời ở tuổi 34, và cuốn sách nổi tiếng nhất của ông được lưu hành rộng rãi nhiều nơi.",
+  "works": [
+   "An Alarm to the Unconverted",
+   "Remains",
+   "A Most Familiar Explanation of the Assemblies Shorter Catechism"
+  ]
+ },
+ "john-downame": {
+  "name": "John Downame (Downham)",
+  "years": "1571–1652",
+  "tradition": "Thanh giáo Anh",
+  "bio": "Mục sư Thanh giáo tại Luân Đôn, có liên hệ với Hội Đồng Westminster trong thập niên 1640. Ông là người chủ biên chính bộ chú giải Kinh Thánh English Annotations (1645) và là tác giả nhiều sách luân lý, thuộc linh.",
+  "works": [
+   "The Christian Warfare Against the Devil, World and Flesh",
+   "A Guide to Godlynesse",
+   "A Brief Concordance to the Bible"
+  ]
+ },
+ "edward-bickersteth": {
+  "name": "Edward Bickersteth",
+  "years": "1786–1850",
+  "tradition": "Phúc Âm Anh giáo",
+  "bio": "Nguyên là luật sư, sau thọ phong và hầu việc Chúa; từ năm 1830 làm rector tại Watton. Ông phục vụ nhiều năm cho Church Missionary Society, góp phần lập Evangelical Alliance và viết nhiều sách giúp đọc Kinh Thánh.",
+  "works": [
+   "Christian Psalmody",
+   "A Scripture Help",
+   "Testimony of the Reformers"
+  ]
+ },
+ "ebenezer-erskine": {
+  "name": "Ebenezer Erskine",
+  "years": "1680–1754",
+  "tradition": "Trưởng Lão Scotland (Hội Thánh Ly Khai - Secession)",
+  "bio": "Mục sư Church of Scotland, bị đình chức năm 1732 sau bài giảng phản đối chế độ bảo trợ giáo sĩ (lay patronage). Ông cùng ba đồng sự lập Associate Presbytery, khởi đầu Hội Thánh Ly Khai (Secession) tại Scotland, và sau đó hầu việc tại Stirling.",
+  "works": [
+   "Works (ấn bản 1785, chủ yếu là các bài giảng)"
+  ]
+ },
+ "william-fenner": {
+  "name": "William Fenner",
+  "years": "1600–1640",
+  "tradition": "Thanh giáo Anh",
+  "bio": "Mục sư Thanh giáo, từng là tuyên úy của Bá tước Warwick, mục sư tại Sedgley rồi tại Rochford, Essex cho đến khi qua đời. Các bài giảng của ông được xuất bản sau khi ông mất.",
+  "works": [
+   "The Soul's Looking Glass, with a treatise of Conscience",
+   "A Treatise of Affections, or the Soul's Pulse",
+   "Hidden Manna"
+  ]
+ },
+ "william-ames": {
+  "name": "William Ames",
+  "years": "1576–1633",
+  "tradition": "Thanh giáo Anh, hoạt động tại Hà Lan (Cải Chánh)",
+  "bio": "Mục sư Thanh giáo người Anh, học tại Cambridge, bị cấm giảng vì chống đối các nghi lễ trong Hội Thánh Anh nên sang Hà Lan. Từ năm 1622 ông giảng dạy thần học tại Đại học Franeker và qua đời tại Rotterdam.",
+  "works": [
+   "The Marrow of Theology (Medulla Theologiae)",
+   "Conscience with the Power and Cases Thereof (De Conscientia)",
+   "A Fresh Suit against Human Ceremonies in God's Worship"
+  ]
+ },
+ "james-janeway": {
+  "name": "James Janeway",
+  "years": "1636–1674",
+  "tradition": "Thanh giáo Anh (bất tùng quốc giáo)",
+  "bio": "Mục sư Thanh giáo người Anh, bị cấm giảng sau Đạo luật Thống nhất năm 1662 và sau đó giảng tại Rotherhithe gần Luân Đôn. Ông nổi tiếng với tập sách kể về đời sống đức tin và sự qua đời của các trẻ em tin Chúa.",
+  "works": [
+   "A Token for Children",
+   "Heaven upon Earth",
+   "Invisible Realities"
+  ]
+ },
+ "isaac-ambrose": {
+  "name": "Isaac Ambrose",
+  "years": "1604–1664",
+  "tradition": "Thanh giáo Anh (Trưởng Lão)",
+  "bio": "Mục sư Thanh giáo tại Lancashire, học tại Brasenose College, Oxford, từng là một trong bốn người giảng đạo lưu động của nhà vua tại Lancashire. Ông bị loại khỏi chức vụ năm 1662 vì không tuân theo Đạo luật Thống nhất.",
+  "works": [
+   "Looking unto Jesus",
+   "The Christian Warrior",
+   "Prima, Media & Ultima"
+  ]
+ },
+ "alexander-whyte": {
+  "name": "Alexander Whyte",
+  "years": "1836–1921",
+  "tradition": "Trưởng Lão Scotland (Free Church of Scotland)",
+  "bio": "Mục sư của Hội Thánh Free St George's tại Edinburgh, được bầu làm Chủ tọa Đại hội đồng Free Church năm 1898. Từ 1909 đến 1918 ông là Hiệu trưởng New College, Edinburgh.",
+  "works": [
+   "Bible Characters",
+   "John Bunyan Characters",
+   "The Walk, Conversation and Character of Jesus Christ Our Lord"
+  ]
+ },
+ "robert-bolton": {
+  "name": "Robert Bolton",
+  "years": "1572–1631",
+  "tradition": "Anh giáo mang tinh thần Thanh giáo",
+  "bio": "Mục sư người Anh, học tại Oxford, từ năm 1610 làm mục sư xứ Broughton, Northamptonshire. Ông được biết đến qua việc giảng dạy và khuyên dạy những người có lương tâm bị dằn vặt.",
+  "works": [
+   "Some General Directions for a Comfortable Walking with God",
+   "The Four Last Things",
+   "Instructions for a Right Comforting Afflicted Consciences"
+  ]
+ },
+ "david-dickson": {
+  "name": "David Dickson",
+  "years": "1583–1663",
+  "tradition": "Trưởng Lão Scotland (Covenanter)",
+  "bio": "Mục sư tại Irvine, sau là giáo sư thần học tại Glasgow và Edinburgh, hai lần làm Chủ tọa Đại hội đồng (1639, 1652). Ông bị loại khỏi chức vụ năm 1662 vì không chấp nhận lời thề tối thượng của nhà vua.",
+  "works": [
+   "Therapeutica Sacra",
+   "The Sum of Saving Knowledge (cùng với James Durham)"
+  ]
+ },
+ "robert-leighton": {
+  "name": "Robert Leighton",
+  "years": "1611–1684",
+  "tradition": "Giám mục Scotland (Episcopal)",
+  "bio": "Sinh tại Luân Đôn trong gia đình người Scotland, từng làm Hiệu trưởng Đại học Edinburgh, Giám mục Dunblane (1661–1671) và Tổng Giám mục Glasgow (1671–1674). Ông cố gắng hòa giải giữa phe Trưởng Lão và phe Giám Mục.",
+  "works": [
+   "A Practical Commentary upon the First Epistle of St. Peter",
+   "Rules and Instructions for a Holy Life",
+   "An Exposition of the Creed, Lord's Prayer and Ten Commandments"
+  ]
+ },
+ "ralph-venning": {
+  "name": "Ralph Venning",
+  "years": "khoảng 1621–1673/1674",
+  "tradition": "Thanh giáo Anh (bất tùng quốc giáo)",
+  "bio": "Mục sư Thanh giáo người Anh, học tại Emmanuel College, Cambridge, giảng tại Southwark. Sau khi bị loại khỏi chức vụ năm 1662, ông phục vụ tại một Hội Thánh độc lập ở Pewterers' Hall.",
+  "works": [
+   "Orthodox Paradoxes",
+   "Sin, the Plague of Plagues (The Sinfulness of Sin)",
+   "The Beauty of Holiness"
+  ]
+ },
+ "andrew-murray": {
+  "name": "Andrew Murray",
+  "years": "1828–1917",
+  "tradition": "Cải Chánh Hà Lan tại Nam Phi, ảnh hưởng phong trào Higher Life",
+  "bio": "Mục sư, nhà giáo dục và tác giả người Nam Phi, sinh tại Graaff-Reinet. Ông viết hơn 240 sách và tài liệu bằng tiếng Hà Lan và tiếng Anh, chủ yếu về đời sống cầu nguyện và thuộc linh.",
+  "works": [
+   "With Christ in the School of Prayer",
+   "Abide in Christ",
+   "Humility"
+  ]
+ },
+ "william-gouge": {
+  "name": "William Gouge",
+  "years": "1575–1653",
+  "tradition": "Thanh giáo Anh",
+  "bio": "Mục sư Thanh giáo tại St Ann Blackfriars, Luân Đôn, trong khoảng 45 năm từ 1608. Ông là thành viên Hội nghị Westminster từ 1643 và làm chủ tịch ủy ban soạn Tín Điều Westminster.",
+  "works": [
+   "Of Domesticall Duties",
+   "The Whole Armor of God",
+   "A Commentary on the Whole Epistle to the Hebrews"
+  ]
+ },
+ "william-bates": {
+  "name": "William Bates",
+  "years": "1625–1699",
+  "tradition": "Thanh giáo Anh (Trưởng Lão, bất tùng quốc giáo)",
+  "bio": "Mục sư người Anh, học tại King's College, Cambridge, từng làm mục sư tại St Dunstan's-in-the-West, Luân Đôn. Sau Đạo luật Thống nhất 1662 ông trở thành mục sư bất tùng quốc giáo, và là tuyên úy hoàng gia.",
+  "works": [
+   "The Harmony of the Divine Attributes",
+   "Considerations on the Existence of God and the Immortality of the Soul",
+   "The Four Last Things"
+  ]
+ },
+ "william-guthrie": {
+  "name": "William Guthrie",
+  "years": "1620–1665",
+  "tradition": "Trưởng Lão Scotland (Covenanter)",
+  "bio": "Mục sư đầu tiên của Hội Thánh Fenwick tại Ayrshire, được phong chức năm 1644 và nổi tiếng với việc giảng dạy giản dị và chăm sóc mục vụ. Ông bị tước chức vụ năm 1664 vì không chấp nhận chế độ Giám Mục.",
+  "works": [
+   "The Christian's Great Interest"
+  ]
+ },
+ "james-durham": {
+  "name": "James Durham",
+  "years": "1622–1658",
+  "tradition": "Trưởng Lão Scotland (Covenanter)",
+  "bio": "Mục sư Scotland, được cấp phép giảng năm 1646 và làm giáo sư thần học tại Glasgow từ 1650. Ông mất vì bệnh lao năm 1658, và phần lớn các tác phẩm được xuất bản sau khi ông qua đời.",
+  "works": [
+   "A Commentary upon the Book of Revelation",
+   "The Law Unsealed",
+   "Christ Crucified"
+  ]
+ },
+ "thomas-vincent": {
+  "name": "Thomas Vincent",
+  "years": "1634–1678",
+  "tradition": "Thanh giáo Anh (bất tùng quốc giáo)",
+  "bio": "Mục sư Thanh giáo người Anh, bị loại khỏi chức vụ năm 1662 và sau đó giảng tại Hoxton. Ông vẫn tiếp tục giảng tại Luân Đôn trong dịch hạch năm 1665 và viết lại biến cố dịch hạch cùng trận hỏa hoạn 1666.",
+  "works": [
+   "God's Terrible Voice in the City",
+   "An Explanation of the Assembly's Shorter Catechism",
+   "The True Christian's Love to the Unseen Christ"
+  ]
+ }
+}
