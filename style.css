@@ -196,3 +196,10 @@ body:not(.home) #bw{display:none}
 .home .bar{display:none!important}
 
 .inf{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;margin:12px 0;padding:10px 12px;border:1px solid var(--line);border-radius:10px;font-size:.85rem}.inf dt{color:var(--muted)}.inf dd{margin:0}
+
+.jr{list-style:none;margin:0;padding:0;display:grid;gap:10px}.jr .tile{flex-direction:row;align-items:center;gap:14px;min-height:0;padding:14px 16px}.jr .tile.first{padding:18px 18px}
+.jr .n{flex:none;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;border:1.5px solid var(--accent);color:var(--accent);font:600 1rem var(--display,inherit)}.jr .tile.first .n{border-color:currentColor;color:inherit}
+.jr .tx{display:grid;gap:2px}.jr .tx b{font-size:1.05rem}.jr .tile.first .tx b{font-size:1.2rem}
+.dly{display:flex;flex-wrap:wrap;gap:8px 18px;margin:14px 2px 6px;font-size:.92rem}.dly a{color:var(--accent)}
+.tiles{display:block!important}.tiles .gh{margin:0 0 10px}
+@media(min-width:760px){.jr{grid-template-columns:repeat(2,minmax(0,1fr))}.jr li:first-child{grid-column:1/-1}}
