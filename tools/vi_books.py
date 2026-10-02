@@ -32,7 +32,7 @@ for _b in _idx:
     _by = _b.get("by", "AI")
     _orig_book = bool(_b.get("original"))
     _label = ((f'<p class="dr">Bản nháp do AI ({E(_by)}) hỗ trợ soạn, chưa được mục sư duyệt giáo lý. Trích Kinh Thánh chưa đối chiếu bản 1934. Hãy đọc với tinh thần Bê-rê và hỏi mục sư của bạn.</p>' if not _rev else '<p class="dr">Sách đã được mục sư xem lại.</p>') if _orig_book else'<p class="dr">Bản dịch đã được mục sư xem lại. Hãy luôn đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>' if _rev else
-              f'<p class="dr">Bản dịch do AI ({E(_by)}) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể sai; hãy đối chiếu bản gốc và Kinh Thánh, và hỏi mục sư của bạn.</p>')
+              f'<p class="dr">Bản dịch do AI ({E(_by)}) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.</p>')
     _toc = "".join(f'<li><a href="#c{i+1}">{E(s[0])}</a></li>' for i, s in enumerate(_secs))
     _body_secs = ""
     for i, (h, ps) in enumerate(_secs):

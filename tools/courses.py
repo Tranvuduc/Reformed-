@@ -14,12 +14,12 @@ _C = [
   rows=[("Chi phí","Miễn phí khi học các chương trình của Thirdmill."),("Ngôn ngữ","Tiếng Anh (cùng các ngôn ngữ mà từng khóa hỗ trợ)."),("Hình thức","Tài khoản học viên, bài học, bài kiểm tra trực tuyến."),("Phù hợp","Người đã chọn học chương trình của Thirdmill Institute và cần nơi làm bài, lưu tiến độ.")],
   tip="Dùng cùng trang Thirdmill Institute: chọn khóa ở Institute, học và làm bài ở E-Learning."),
  dict(n="Thirdmill – lớp học video", u="https://thirdmill.org/watch.asp", kind="Video",
-  d="Thư viện lớp thần học dạng video do Thirdmill thực hiện, xem tự do không cần đăng ký.",
+  d="Thư viện lớp thần học dạng video do Thirdmill làm, xem tự do không cần đăng ký.",
   rows=[("Chi phí","Miễn phí."),("Ngôn ngữ","Tiếng Anh; Thirdmill có bản nhiều ngôn ngữ cho một số khóa, hãy kiểm tra trên trang."),("Hình thức","Video bài giảng kèm tài liệu học."),("Phù hợp","Người muốn xem thử một chủ đề trước khi theo cả chương trình.")],
   tip="Có thể bật phụ đề tự dịch của YouTube hoặc trình duyệt khi xem."),
  dict(n="BiblicalTraining.org", u="https://www.biblicaltraining.org/", kind="Thư viện lớp học",
   d="Thư viện lớp học Kinh Thánh và thần học miễn phí lớn nhất của giới Tin Lành, phần lớn quay trong lớp học chủng viện thật.",
-  rows=[("Quy mô","Khoảng 150 khóa, hơn 1.000 giờ học."),("Chi phí","Hoàn toàn miễn phí, không có gói trả phí; sống nhờ quyên góp."),("Giảng viên","Wayne Grudem, Bruce Ware, Gerald Bray, Tim Mackie, Bill Mounce và nhiều người khác."),("Hình thức","Video và âm thanh, có bản chép lời và ghi chú lớp; ứng dụng di động xem ngoại tuyến."),("Chứng nhận","Có chương trình chứng chỉ miễn phí (cần làm bài kiểm tra) nhưng không được kiểm định và không chuyển đổi thành tín chỉ."),("Quan điểm","Tin Lành, nghiêng về Cải Chánh."),("Lưu ý","Chất lượng quay là quay lớp học, không có tương tác với giảng viên, khá khó tìm khóa nếu không theo chương trình.")],
+  rows=[("Quy mô","Khoảng 150 khóa, hơn 1.000 giờ học."),("Chi phí","Hoàn toàn miễn phí, không có gói trả phí; sống nhờ quyên góp."),("Giảng viên","Wayne Grudem, Bruce Ware, Gerald Bray, Tim Mackie, Bill Mounce và nhiều người khác."),("Hình thức","Video và âm thanh, có bản chép lời và ghi chú lớp; ứng dụng di động xem ngoại tuyến."),("Chứng nhận","Có chương trình chứng chỉ miễn phí (cần làm bài kiểm tra) nhưng không được kiểm định và không chuyển đổi thành tín chỉ."),("Quan điểm","Tin Lành, nghiêng về Cải Chánh."),("Lưu ý","Đây là video quay trong lớp học thật, không có tương tác với giảng viên, và khá khó tìm khóa nếu không đi theo chương trình có sẵn.")],
   tip="Theo ba chương trình có sẵn (Nền tảng, Nghề nghiệp, Lãnh đạo) thay vì chọn từng khóa lẻ. Có cả chuỗi Hy Lạp và Hê-bơ-rơ."),
  dict(n="TGC Courses", u="https://www.thegospelcoalition.org/courses/", kind="Khóa ngắn",
   d="Các khóa học ngắn của The Gospel Coalition, thiết kế gọn, dễ xem trên điện thoại, mỗi phần có đường dẫn riêng.",
@@ -55,6 +55,6 @@ _body = f'''{_css}<h1>Học thần học trực tuyến miễn phí</h1><p class
 <ul class="cl">{_cards}</ul>
 <h2>Mẹo học hiệu quả</h2>
 <ul><li>Chọn một chương trình và học đều: 20–30 phút mỗi ngày tốt hơn một buổi dài mỗi tuần.</li><li>Bài giảng dùng thuật ngữ Cải Chánh nhiều; đối chiếu Kinh Thánh và hỏi mục sư hoặc người hướng dẫn của bạn.</li><li>Đọc sách liên quan trong <a href="/">thư viện</a> và <a href="/lo-trinh.html">lộ trình đọc</a> để học sâu hơn.</li></ul>
-<p><small>Thông tin lấy từ chính các trang và đánh giá công khai, có thể đã thay đổi; hãy kiểm tra trên trang gốc. Các liên kết dẫn đến trang bên ngoài. Reformed Vietnam không liên kết chính thức với các trường này.</small></p>'''
+<p><small>Thông tin được lấy từ chính các trang này và các đánh giá công khai, nên có thể đã thay đổi; xin kiểm tra lại trên trang gốc. Các liên kết dẫn đến trang bên ngoài. Reformed Vietnam không liên kết chính thức với các trường này.</small></p>'''
 open("khoa-hoc.html", "w", encoding="utf-8").write(page("Khóa học thần học trực tuyến miễn phí (Thirdmill, Ligonier, RTS…) | Reformed Vietnam", "Chín nguồn học thần học trực tuyến miễn phí: Thirdmill, BiblicalTraining, Ligonier, Covenant, RTS, TGC. Chi phí, nội dung, hình thức và chứng nhận của từng nơi.", "khoa-hoc.html", _body))
 urls.append("khoa-hoc.html")

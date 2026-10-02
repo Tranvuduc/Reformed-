@@ -61,7 +61,7 @@ for k, a in authors.items():
         bs = slug(bid.replace("/", "-")); path = f"b/{bs}.html"
         ttl = f"{vt} – {a['name']} | Đọc miễn phí"
         body = (f'<h1>{E(vt)}</h1><p class="m">{E(title)} · {E(a["name"])}{f" · {yr}" if yr else ""}</p><p>{E(vi_d)}</p><p><small lang="en">{E(en_d)}</small></p>'
-                f'<p><a class="btn" href="/reader.html?id={bid}">Đọc ngay</a> <a class="btn s" href="/a/{k}.html">Thêm sách của {E(a["name"])}</a></p>'
+                f'<p><a class="btn" href="/reader.html?id={bid}">Đọc ngay</a> <a class="btn s" href="/a/{k}.html">Xem thêm sách của {E(a["name"])}</a></p>'
                 '<p class="m">Tác phẩm thuộc phạm vi công cộng. Nguồn: Christian Classics Ethereal Library (CCEL). Đọc trực tuyến, tải EPUB/PDF và nghe đọc thành tiếng trong thư viện.</p>')
         ld = {"@context": "https://schema.org", "@type": "Book", "name": title, "alternateName": vt, "author": {"@type": "Person", "name": a["name"]},
               "inLanguage": "en", "isAccessibleForFree": True, "description": vi_d, "url": f"{SITE}/{path}"}
@@ -101,7 +101,7 @@ vn = "".join(f'<li><a href="{E(r["url"])}" rel="noopener">{E(r["vi"]["t"])}</a> 
 rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{len(rv)} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc tải EPUB. Bản dịch sơ thảo, chưa hiệu đính.</p><ul>{rvl}</ul><h2>Từ các nguồn khác</h2>") if rv else ""
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
     "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí: bản dịch của Reformed Vietnam, Mục vụ Tiên Phong, 9Marks và các nguồn khác.", "tieng-viet.html",
-    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}<p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, dẫn đến nguồn gốc của từng tài liệu. Cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p><ul>{vn}</ul>"))
+    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}<p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p><ul>{vn}</ul>"))
 urls += [r["url"].lstrip("/") for r in rv]
 
 # Audio hub
@@ -115,7 +115,7 @@ AUD=[("LibriVox trên Internet Archive","https://archive.org/details/librivoxaud
 lis_a = "".join(f'<li><a href="{E(u)}" rel="noopener">{E(t)}</a><br><small>{E(d)}</small></li>' for t,u,d in AUD)
 open("sach-noi.html", "w", encoding="utf-8").write(page("Sách nói và bài giảng Cải Chánh miễn phí | Reformed Vietnam",
     "Nơi nghe sách nói, bài giảng và Kinh Thánh âm thanh miễn phí: LibriVox, CCEL, Puritan Downloads, Bible.com, Ligonier, Desiring God.", "sach-noi.html",
-    f"<h1>Sách nói và bài giảng miễn phí</h1><p>Các nguồn nghe miễn phí mà thư viện dẫn đến. Trong thư viện, lọc \"Có bản nghe\" để xem các sách có bản nghe. Trình đọc của chúng tôi cũng đọc to bằng giọng của thiết bị.</p><ul>{lis_a}</ul><p><a class=\"btn\" href=\"/?q=\">Mở thư viện</a></p>"))
+    f"<h1>Sách nói và bài giảng miễn phí</h1><p>Đây là những nguồn nghe miễn phí mà thư viện giới thiệu. Trong thư viện, hãy chọn bộ lọc \"Có bản nghe\" để xem các sách có bản nghe. Trình đọc của chúng tôi cũng có thể đọc to bằng giọng đọc của thiết bị.</p><ul>{lis_a}</ul><p><a class=\"btn\" href=\"/?q=\">Mở thư viện</a></p>"))
 urls.append("sach-noi.html")
 
 exec(open('tools/plan.py', encoding='utf-8').read())
