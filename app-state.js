@@ -1,7 +1,9 @@
 (function () {
   var util = window.RV_UTILS = window.RV_UTILS || {};
+  window.RV_STATE_UTILS = window.RV_STATE_UTILS || util;
+  var stateUtil = window.RV_STATE_UTILS;
 
-  util.getInitialState = function () {
+  stateUtil.getInitialState = function () {
     var state = {
       f: 'all',
       q: '',
@@ -27,24 +29,24 @@
     return state;
   };
 
-  util.setStateValue = function (state, key, value) {
+  stateUtil.setStateValue = function (state, key, value) {
     state[key] = value;
     return state;
   };
 
-  util.trimToLower = function (text) {
+  stateUtil.trimToLower = function (text) {
     return String(text || '').trim().toLowerCase();
   };
 
-  util.isHomeView = function (state) {
+  stateUtil.isHomeView = function (state) {
     return state.f === 'all' && !state.q && state.sr === 'all' && !state.an && state.md === 'all' && state.ty === 'all' && state.er === 'all' && state.so === '0' && !state.br;
   };
 
-  util.filtersOn = function (state) {
+  stateUtil.filtersOn = function (state) {
     return state.sr !== 'all' || !!state.an || state.md !== 'all' || state.ty !== 'all' || state.er !== 'all' || state.so !== '0' || state.q !== '' || state.f !== 'all';
   };
 
-  util.nAct = function (state) {
+  stateUtil.nAct = function (state) {
     return (state.sr !== 'all') + (!!state.an) + (state.md !== 'all') + (state.ty !== 'all') + (state.er !== 'all') + (state.so !== '0');
   };
 })();
