@@ -341,7 +341,7 @@ function firstVisibleK(){var els=$("txt").children;for(var i=0;i<els.length;i++)
 var gc={};function gU(t,l){return"api/tts?tl="+l+"&q="+encodeURIComponent(t.slice(0,200))}
 function gP(t,l){var u=gU(t,l);if(gc[u])return;gc[u]=1;try{fetch(u).catch(function(){})}catch(e){}}
 /* TTS pronunciation dictionary: spoken form only, displayed text is unchanged */
-var PRON=[["Jesus Christ","Giê xu Cờ rít"],["Christ Jesus","Cờ rít Giê xu"],["Jesus","Giê xu"],["Christ","Cờ rít"],["Christianity","Cơ Đốc giáo"],["Christian","Cơ Đốc nhân"],["John Calvin","Giăng Cal-vin"],["Martin Luther","Mác-tin Lu-thơ"],["Charles Spurgeon","Sạc-lơ Sơ-giơn"],["Spurgeon","Sơ-giơn"],["Jonathan Edwards","Giô-na-than Éc-oớt"],["Augustine","Ô-gút-tinh"],["Westminster","Oét-min-xtơ"],["Heidelberg","Hai-đen-bẹc"],["Calvin","Cal-vin"],["Puritan","Pu-ri-tan"]].map(function(x){return[new RegExp("\\b"+x[0]+"\\b","g"),x[1]]});
+var PRON=[["Jesus","Giê xu"],["Christianity","Cơ Đốc giáo"],["Christian","Cơ Đốc nhân"],["John Calvin","Giăng Cal-vin"],["Martin Luther","Mác-tin Lu-thơ"],["Charles Spurgeon","Sạc-lơ Sơ-giơn"],["Spurgeon","Sơ-giơn"],["Jonathan Edwards","Giô-na-than Éc-oớt"],["Augustine","Ô-gút-tinh"],["Westminster","Oét-min-xtơ"],["Heidelberg","Hai-đen-bẹc"],["Calvin","Cal-vin"],["Puritan","Pu-ri-tan"]].map(function(x){return[new RegExp("\\b"+x[0]+"\\b","g"),x[1]]});
 function pron(t){for(var i=0;i<PRON.length;i++)t=t.replace(PRON[i][0],PRON[i][1]);return t}
 function speak(){
   if(!playing||paused)return;
