@@ -196,7 +196,7 @@ function sheetActs(b){
     var ks=b.q||b.en.t;
     x+='<a class="p" href="'+G(ks)+'"'+ext+'>'+tx("read")+' ↗</a><a class="s2" href="'+L(b.en.t)+'"'+ext+'>🎧 '+tx("listen")+'</a><a class="s2" href="'+A(ks)+'"'+ext+'>'+tx("archive")+'</a>';
   }
-  x+='<button class="s2" type="button" data-share="'+esc(b.id)+'">↗ '+(vi?"Chia sẻ":"Share")+'</button><a class="s2" href="mailto:reformedvn@gmail.com?subject='+encodeURIComponent((vi?"Báo lỗi / góp ý: ":"Feedback: ")+b.en.t)+'">✉ '+(vi?"Báo lỗi / góp ý":"Report / feedback")+'</a>';
+  x+='<button class="s2" type="button" data-share="'+esc(b.id)+'">↗ '+(vi?"Chia sẻ":"Share")+'</button><button class="s2" type="button" data-fb="'+esc(b.id)+'">f Facebook</button><a class="s2" href="mailto:reformedvn@gmail.com?subject='+encodeURIComponent((vi?"Báo lỗi / góp ý: ":"Feedback: ")+b.en.t)+'">✉ '+(vi?"Báo lỗi / góp ý":"Report / feedback")+'</a>';
   return x;
 }
 var curBk=null,deepDone=false;
@@ -440,6 +440,7 @@ $("browse").addEventListener("click",function(){st.br=1;st.limit=PAGE;render();w
 $("grid").addEventListener("click",function(e){if(e.target.closest(".fav"))return;var oc=e.target.closest("[data-open]");if(oc)openBook(oc.dataset.open)});
 document.addEventListener("keydown",function(e){if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches(".book[data-open]")){e.preventDefault();openBook(e.target.dataset.open)}});
 $("bk").addEventListener("click",function(e){
+  var fbb=e.target.closest("[data-fb]");if(fbb){var fid=fbb.dataset.fb,fw=window.open("","_blank"),fu=location.origin+"/?b="+encodeURIComponent(fid),fgo=function(u){var x="https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(u);if(fw)fw.location.href=x;else location.href=x};fetch("bp.json").then(function(r){return r.json()}).then(function(L){var c=fid.replace(/\//g,"-"),k=[c,c.replace(/^vn-/,"")],o=["b/","ban-dich/"];for(var i=0;i<o.length;i++)for(var j=0;j<k.length;j++)if(L.indexOf(o[i]+k[j]+".html")>-1){fu=location.origin+"/"+o[i]+k[j]+".html";return}}).catch(function(){}).then(function(){fgo(fu)});return}
   var sb=e.target.closest("[data-share]");if(sb){var sbk=BOOKS.filter(function(z){return z.id===sb.dataset.share})[0],su=location.origin+"/?b="+encodeURIComponent(sb.dataset.share),stt=sbk?(sbk[st.lang]||sbk.en).t:"";if(navigator.share)navigator.share({title:stt,url:su}).catch(function(){});else if(navigator.clipboard){navigator.clipboard.writeText(su);sb.textContent="✓ "+(st.lang==="vi"?"Đã sao chép liên kết":"Link copied")}return}
   if(e.target===$("bk")||e.target.closest(".bk-x")){$("bk").close();return}
   var f=e.target.closest(".fav");

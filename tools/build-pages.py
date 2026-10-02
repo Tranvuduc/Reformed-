@@ -20,12 +20,26 @@ CSS = ("body{margin:0;background:#f4efe4;color:#26211a;font:17px/1.6 'Noto Serif
        "a{color:#9a3412}nav.top{font:14px system-ui,sans-serif;margin-bottom:18px}h1{font-size:1.9rem;line-height:1.2;margin:.2em 0 .5em}"
        "ul{padding-left:1.1em}li{margin:.5em 0}small,.m{color:#6f665a;font:14px system-ui,sans-serif}.btn{display:inline-block;background:#9a3412;color:#fff;"
        "padding:8px 16px;border-radius:8px;text-decoration:none;font:600 15px system-ui,sans-serif;margin:4px 6px 4px 0}.btn.s{background:none;color:#9a3412;border:1px solid #9a3412}"
+       ".shr{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:28px 0 0;font:14px system-ui,sans-serif}.shr span{color:#6f665a}.shr a,.shr button{border:1px solid #9a3412;color:#9a3412;background:none;border-radius:8px;padding:6px 12px;font:600 14px system-ui,sans-serif;text-decoration:none;cursor:pointer}.shr a.fb{background:#1877f2;border-color:#1877f2;color:#fff}"
        "footer{margin-top:40px;font:13px system-ui,sans-serif;color:#6f665a}")
 
+exec(open("tools/og_images.py", encoding="utf-8").read())
 import json as _sj
 _su=_sj.load(open('subscribe.json')).get('url','')
 SUBL=(f' · <a href="{_su}" rel="noopener">Nhận bài qua email</a>' if _su else '')
 import re as _re_bc
+
+from urllib.parse import quote as _q
+def _share(url, title):
+    t = re.split(r"\s+[|–]\s+", title)[0]
+    return (f'<div class="shr" data-u="{E(url)}" data-t="{E(t)}"><span>Chia sẻ:</span>'
+            f'<a class="fb" href="https://www.facebook.com/sharer/sharer.php?u={_q(url, safe="")}" target="_blank" rel="noopener">Facebook</a>'
+            f'<a href="https://twitter.com/intent/tweet?url={_q(url, safe="")}&amp;text={_q(t)}" target="_blank" rel="noopener">X</a>'
+            '<button type="button" data-cp>Sao chép liên kết</button></div>'
+            '<script>(function(){var s=document.querySelector(".shr");if(!s)return;var c=s.querySelector("[data-cp]");c.onclick=function(){var u=s.dataset.u;'
+            'if(navigator.share){navigator.share({title:s.dataset.t,url:u}).catch(function(){});return}'
+            'if(navigator.clipboard){navigator.clipboard.writeText(u);c.textContent="✓ Đã sao chép"}};})()</script>')
+
 def page(title, desc_, path, body, ld=None):
     url = f"{SITE}/{path}"
     j = f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>' if ld else ""
@@ -37,12 +51,15 @@ def page(title, desc_, path, body, ld=None):
             {"@type": "ListItem", "position": 2, "name": _mid[0], "item": _mid[1]},
             {"@type": "ListItem", "position": 3, "name": _nm, "item": url}]}
         j += f'<script type="application/ld+json">{json.dumps(_bc, ensure_ascii=False)}</script>'
+    _og = f"{SITE}/{og_image(path, title, desc_)}"
+    _sh = _share(url, title)
     return f'''<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
-<meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{SITE}/og.png"><meta name="twitter:card" content="summary_large_image">
+<meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{_og}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN"><meta name="twitter:image" content="{_og}"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"><style>{CSS}</style>{j}</head><body><main>
 <nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a></nav>
 {body}
+{_sh}
 <footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a>{SUBL} · Liên hệ: reformedvn@gmail.com</footer></main></body></html>'''
 
 for d in ("a", "b"):
@@ -142,6 +159,16 @@ exec(open('tools/vn_context.py', encoding='utf-8').read())
 exec(open('tools/subscribe_page.py', encoding='utf-8').read())
 exec(open('tools/vi_books.py', encoding='utf-8').read())
 
+# shared home image; author pages without a bio share it instead of getting their own file
+_h = og_image("", "Thư Viện Cơ Đốc & Thần Học Cải Chánh Tiếng Việt", "Sách Cải Chánh miễn phí: đọc, nghe, tải. Từng bước nhỏ, từ Tin Lành đến một đời sống theo Chúa.")
+os.replace(_h, "og.jpg")
+for _fn in os.listdir("a"):
+    _pp = f"a/{_fn}"; _t = open(_pp, encoding="utf-8").read()
+    if 'class="bio"' in _t: continue
+    _n = "og/" + re.sub(r"[^a-z0-9]+", "-", _pp.lower().replace(".html", "")).strip("-") + ".jpg"
+    if os.path.exists(_n): os.remove(_n)
+    open(_pp, "w", encoding="utf-8").write(_t.replace(f"{SITE}/{_n}", f"{SITE}/og.jpg"))
+json.dump(sorted(u for u in urls if u.startswith(("b/", "ban-dich/")) and not u.endswith("index.html")), open("bp.json", "w"))
 # sitemap
 # drop links to author pages that were not generated (authors with fewer than 2 items)
 import glob as _g
