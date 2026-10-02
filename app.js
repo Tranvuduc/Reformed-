@@ -405,10 +405,13 @@ labels();
 var jf=function(u){return fetch(u).then(function(r){return r.json()}).catch(function(){return null})};
 /* Core data first (fast first paint); the big Internet Archive / Gutenberg catalogs stream in afterwards. */
 var jl=function(u){return fetch(u,{priority:"low"}).then(function(r){return r.json()}).catch(function(){return null})};
-var rest=Promise.all([jl("ia.json"),jl("pg.json")]);
+var rest=null,restGo=function(){return rest||(rest=Promise.all([jl("ia.json"),jl("pg.json")]))};
 Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"),jf("vi.json"),jf("desc.json"),jf("lv.json"),jf("dg.json"),jf("audio.json"),jf("vi-books.json")]).then(function(x){var d=x[0];window.VIB=x[7]||{};if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}LV=x[4];DGJ=x[5];if(x[6]&&x[6].ccel)x[6].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}
   BOOKS=expand(d);buildAuthors();render();deepLink();
-  return rest.then(function(y){if(!y[0]&&!y[1])return;IA=y[0];PG=y[1];BOOKS=expand(d);buildAuthors();render();deepLink()});
+  var dl=new URLSearchParams(location.search).get("b")||"",applied=0,apply=function(){if(applied)return;applied=1;restGo().then(function(y){if(!y[0]&&!y[1])return;IA=y[0];PG=y[1];BOOKS=expand(d);buildAuthors();render();deepLink()})};
+  /* Big scan catalogs (~1 MB) are not needed to paint or read; fetch when the person starts searching/filtering, opens an ia/pg book, or after a quiet moment. */
+  if(/^(ia|pg)\//.test(dl))apply();else{["input","change"].forEach(function(ev){document.addEventListener(ev,apply,{once:true,passive:true})});setTimeout(apply,6000)}
+  return;
 }).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
 
 /* ---------- home tiles, menu links, detail sheet ---------- */
