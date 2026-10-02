@@ -41,14 +41,24 @@ _D = [
  ("Chúa gìn giữ đến cùng", "Giăng 10:27-30; Phi-líp 1:6", _bk(_C, "Calvin, Đời sống Cơ Đốc")),
  ("Bước tiếp theo", "Hê-bơ-rơ 13:7, 17", ("/lo-trinh.html", "Lộ trình đọc đầy đủ")),
 ]
-_rows = "".join(
-    f'<li><b>Ngày {i+1}: {E(t)}</b><br><span class="m">Kinh Thánh: {E(s)}</span>' + (f'<br><a href="{E(r[0])}">Đọc thêm: {E(r[1])}</a>' if r else "") + "</li>"
-    for i, (t, s, r) in enumerate(_D))
-_body = ('<style>.dp li{margin:0 0 1em;line-height:1.5}.dp{padding-left:1.2em}.dr{padding:.6em .9em;border-radius:8px;background:#d9a41e22}</style>'
+_W = [("Tuần 1: Phúc Âm", 0, 8), ("Tuần 2: Kinh Thánh, cầu nguyện và đời sống mới", 8, 15), ("Tuần 3: Hội Thánh và gia đình", 15, 22), ("Tuần 4: Sống như môn đồ", 22, 30)]
+def _day(i, t, s_, r):
+    return (f'<li class="dy" data-d="{i+1}"><label><input type="checkbox" data-d="{i+1}"> <b>Ngày {i+1}: {E(t)}</b></label><br><span class="m">Kinh Thánh: {E(s_)}</span>'
+            + (f'<br><a href="{E(r[0])}">Đọc thêm: {E(r[1])}</a>' if r else "") + '</li>')
+_rows = "".join(f'<section class="wk"><h2>{E(n)}</h2><ol class="dp" start="{a_+1}">' + "".join(_day(i, *_D[i]) for i in range(a_, b_)) + '</ol></section>' for n, a_, b_ in _W)
+_js = """<script>(function(){var K="rv.mt",d={};try{d=JSON.parse(localStorage.getItem(K)||"{}")}catch(e){}
+var bx=document.querySelectorAll('input[data-d]'),bar=document.getElementById("pb"),tx=document.getElementById("pt"),nx=document.getElementById("nx");
+function upd(){var n=0,first=0;bx.forEach(function(c){var k=c.dataset.d;c.checked=!!d[k];c.closest("li").classList.toggle("ok",c.checked);if(c.checked)n++;else if(!first)first=+k});
+bar.style.width=Math.round(n/bx.length*100)+"%";tx.textContent=n+" / "+bx.length+" ngày";
+if(first){nx.hidden=false;nx.textContent="Tiếp tục: Ngày "+first;nx.href="#d"+first}else{nx.hidden=true;tx.textContent+=" · Chúc mừng bạn đã hoàn thành!"}}
+bx.forEach(function(c){c.closest("li").id="d"+c.dataset.d;c.addEventListener("change",function(){if(c.checked)d[c.dataset.d]=1;else delete d[c.dataset.d];try{localStorage.setItem(K,JSON.stringify(d))}catch(e){}upd()})});upd()})()</script>"""
+_body = ('<style>.dp li{margin:0 0 1em;line-height:1.5}.dp{padding-left:1.4em}.dp li.ok b{opacity:.55;text-decoration:line-through}.wk h2{margin:1.6em 0 .6em;font-size:1.15rem}.pbar{height:8px;border-radius:8px;background:#8882;overflow:hidden;margin:6px 0}.pbar i{display:block;height:100%;width:0;background:var(--accent,#9a3412)}.pg{position:sticky;top:0;background:var(--bg,#fff);padding:8px 0;z-index:2}.rf{padding:.6em .9em;border-left:3px solid #9a3412;background:#8881;border-radius:6px}input[type=checkbox]{width:20px;height:20px;vertical-align:-4px}.dr{padding:.6em .9em;border-radius:8px;background:#d9a41e22}</style>'
  '<h1>Tôi mới tin Chúa: 30 ngày đầu tiên</h1>'
  '<p>Mỗi ngày chỉ khoảng 10 phút: đọc đoạn Kinh Thánh, rồi đọc phần gợi ý (nếu có), và cầu nguyện ngắn. Bạn không cần hiểu hết. Hãy đi chậm và hỏi mục sư hoặc người hướng dẫn của bạn khi có thắc mắc.</p>'
  '<p class="dr">Phần "Đọc thêm" gồm nhiều bản dịch và sách do AI hỗ trợ, <b>chưa được mục sư duyệt giáo lý</b>. Kinh Thánh là thẩm quyền tối hậu. Hãy đọc Kinh Thánh trong bản bạn quen dùng, và đối chiếu mọi điều bạn đọc với Kinh Thánh. Thư viện này hỗ trợ việc học, nhưng không thay thế Hội Thánh địa phương.</p>'
- f'<ol class="dp">{_rows}</ol>'
+ '<div class="pg"><div class="pbar"><i id="pb"></i></div><span id="pt"></span> <a class="btn" id="nx" href="#" hidden></a></div>'
+ '<p class="rf"><b>Mỗi ngày, hãy tự hỏi:</b> Đoạn này nói gì về Đức Chúa Trời? Tôi sẽ vâng theo điều gì hôm nay? Tôi cầu nguyện cho ai và điều gì?</p>'
+ f'{_rows}{_js}'
  '<p><a class="btn" href="/">Về thư viện</a> · <a class="btn" href="/lo-trinh.html">Lộ trình đọc đầy đủ</a></p>')
 open("moi-tin-chua.html", "w", encoding="utf-8").write(page("Tôi mới tin Chúa: 30 ngày đầu tiên | Reformed Vietnam", "Lộ trình 30 ngày cho người mới tin Chúa: mỗi ngày một đoạn Kinh Thánh và một bài đọc ngắn. Miễn phí.", "moi-tin-chua.html", _body))
 urls.append("moi-tin-chua.html")
