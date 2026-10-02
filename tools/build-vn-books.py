@@ -128,7 +128,7 @@ def main():
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">{FONT}<style>{CSS}</style><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head><body><main id="top">
 <nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tieng-viet.html">Sách tiếng Việt</a> · <a href="/tac-gia.html">Tác giả</a></nav>
 <h1>{E(vi_t)}</h1><p class="m">{E(author)} · {year} · Nguyên tác: <i>{E(en_t)}</i></p>
-<div class="acts"><a class="btn" href="/sach/{slug}.epub" download>⬇ Tải EPUB</a><a class="btn s" href="#{chs[0][0]}">Đọc ngay</a></div>
+<div class="acts"><a class="btn" href="/sach/{slug}.epub" download>⬇ Tải EPUB</a><a class="btn s" href="/reader.html?id=vn/{slug}&amp;pid=rv-{slug}">Mở trong trình đọc</a></div>
 <p class="warn">Bản dịch tiếng Việt của Reformed Vietnam từ nguyên tác thuộc phạm vi công cộng. Đây là bản dịch sơ thảo, chưa được hiệu đính. Thấy lỗi? <a href="{mail}">Góp ý bản dịch</a>.</p>
 <nav class="toc" aria-label="Mục lục"><b>Mục lục</b><ol>{toc}</ol></nav>
 {body}

@@ -13,7 +13,7 @@ T.vi.md_read="Đọc tại đây";T.en.md_read="Read here";T.vi.md_pdf="Có PDF"
 T.vi.sr_cur="Chọn lọc (không gồm bản scan)";T.en.sr_cur="Curated (no raw scans)";T.vi.sr_ccel="CCEL (đọc tại đây)";T.en.sr_ccel="CCEL (read here)";T.vi.sr_vn="Tiếng Việt";T.en.sr_vn="Vietnamese";T.vi.sr_mg="Monergism";T.en.sr_mg="Monergism";T.vi.sr_pg="Project Gutenberg";T.en.sr_pg="Project Gutenberg";T.vi.sr_ia="Internet Archive";T.en.sr_ia="Internet Archive";T.vi.sr_lv="LibriVox (sách nói)";T.en.sr_lv="LibriVox (audio)";T.vi.sr_dg="Desiring God";T.en.sr_dg="Desiring God";T.vi.sr_lig="Ligonier";T.en.sr_lig="Ligonier";T.vi.sr_other="Khác";T.en.sr_other="Other";
 var SRCS=["ccel","vn","mg","ia","pg","lv","dg","lig","other"],MEDIA=["read","pdf","epub","audio"],AUDIO={};
 function srcOf(b){return b.read?"ccel":(b.au||"other")}
-function hasM(b,m){if(m==="read")return!!b.read;if(m==="pdf")return!!b.pdf||!!(b.dl&&(b.dl.PDF||b.dl.pdf));if(m==="epub")return!!b.epub||!!(b.dl&&(b.dl.EPUB||b.dl.epub));if(m==="audio")return b.au==="lv"||!!b.lv||!!AUDIO[b.id];return true}
+function hasM(b,m){if(m==="read")return!!b.read||!!rdr(b);if(m==="pdf")return!!b.pdf||!!(b.dl&&(b.dl.PDF||b.dl.pdf));if(m==="epub")return!!b.epub||!!(b.dl&&(b.dl.EPUB||b.dl.epub));if(m==="audio")return b.au==="lv"||!!b.lv||!!AUDIO[b.id];return true}
 var $=function(i){return document.getElementById(i)};
 var PAGE=48;
 var DESC={},START=[];
@@ -122,7 +122,7 @@ var POL=/\b(popery|popish|papist|papism|papal|pope|jesuit|romish|rome|antichrist
 function badges(b){
   var o=[];if(b.au==="vn")o.push(["VI","vi"]);
   if(String(b.id).indexOf("rv-")===0)o.push([st.lang==="vi"?"AI, chưa duyệt":"AI, unreviewed",""]);
-  if(b.read)o.push([st.lang==="vi"?"Đọc":"Read","r"]);
+  if(b.read||rdr(b))o.push([st.lang==="vi"?"Đọc":"Read","r"]);
   if(hasM(b,"pdf"))o.push(["PDF",""]);if(hasM(b,"epub"))o.push(["EPUB",""]);
   if(hasM(b,"audio"))o.push([st.lang==="vi"?"🎧 Nghe":"🎧 Audio",""]);
   if(!b.read&&b.url&&!hasM(b,"pdf")&&!hasM(b,"epub")&&!hasM(b,"audio"))o.push(["Web",""]);
@@ -161,9 +161,10 @@ function card(b){
   var lg=st.lang,d=b[lg]||b.en,y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
   return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine" style="background-color:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div></div></article>';
 }
+function rdr(b){var m=/^\/doc\/([a-z0-9_-]+)\.html$/i.exec(b.url||"");return m?"reader.html?id=vn/"+m[1]+"&pid="+encodeURIComponent(b.id):""}
 function sheetActs(b){
   var lg=st.lang,vi=lg==="vi",x="",id=encodeURIComponent(b.id),ext=' target="_blank" rel="noopener"';
-  if(window.VIB&&VIB[b.id])x+='<a class="p" href="'+VIB[b.id].u+'">📖 '+(vi?"Đọc bản dịch tiếng Việt":"Read Vietnamese translation")+' <small>('+(VIB[b.id].r?(vi?"đã duyệt":"reviewed"):(vi?"AI, chưa duyệt":"AI, not yet reviewed"))+')</small></a>';
+  if(window.VIB&&VIB[b.id])x+='<a class="p" href="'+(VIB[b.id].rd||VIB[b.id].u)+'">📖 '+(vi?"Đọc bản dịch tiếng Việt":"Read Vietnamese translation")+' <small>('+(VIB[b.id].r?(vi?"đã duyệt":"reviewed"):(vi?"AI, chưa duyệt":"AI, not yet reviewed"))+')</small></a>';
   if(b.read){
     x+='<a class="p" href="reader.html?id='+id+'">'+(vi?"Đọc tại đây":"Read here")+'</a>';
     if(b.au!=="vn")x+='<a class="s2" href="reader.html?id='+id+'&tr=1">🌐 '+(vi?"Đọc bản dịch tiếng Việt (dịch máy)":"Read Vietnamese translation (machine)")+'</a>';
@@ -171,6 +172,10 @@ function sheetActs(b){
     x+='<a class="s2" href="'+b.read+'"'+ext+'>CCEL ↗</a>';
     if(b.lv)x+='<a class="s2" href="'+b.lv+'"'+ext+'>🎧 LibriVox</a>';
     if(AUDIO[b.id])x+='<a class="s2" href="'+b.read+'"'+ext+'>🎧 CCEL audio</a>';
+  }else if(rdr(b)){
+    x+='<a class="p" href="'+rdr(b)+'">'+(vi?"Đọc tại đây":"Read here")+' <small>('+(vi?"AI, chưa duyệt":"AI, not yet reviewed")+')</small></a>';
+    if(b.epub)x+='<a class="s2" href="'+b.epub+'" download>⬇ EPUB</a>';
+    x+='<a class="s2" href="'+b.url+'">'+(vi?"Trang sách":"Book page")+'</a>';
   }else if(b.url){
     x+='<a class="p" href="'+b.url+'"'+ext+'>'+(b.au==="lv"?"🎧 "+tx("listen"):(vi?"Mở trang sách":"Open book page"))+' ↗</a>';
     if(b.pdf)x+='<a class="s2" href="'+b.pdf+'"'+ext+'>⬇ PDF</a>';
@@ -201,7 +206,7 @@ function renderCont(){
   if(!r.length){el.hidden=true;return}
   el.hidden=false;
   el.innerHTML='<h2>'+tx("cont")+'</h2><div class="controw">'+r.map(function(b){
-    var d=b[st.lang]||b.en,p=prog(b.id),href=b.read?"reader.html?id="+encodeURIComponent(b.id):(b.url||G(b.q||b.en.t));
+    var d=b[st.lang]||b.en,p=prog(b.id),href=b.read?"reader.html?id="+encodeURIComponent(b.id):(rdr(b)||b.url||G(b.q||b.en.t));
     return'<div class="ci"><b>'+esc(d.t)+'</b><div class="meter"><i style="width:'+p.p+'%"></i></div><a href="'+href+'">'+tx("cont2")+' · '+p.p+'%</a></div>';
   }).join("")+'</div>';
 }

@@ -140,3 +140,4 @@ open("sitemap.xml", "w", encoding="utf-8").write(f'<?xml version="1.0" encoding=
 print("pages:", len(urls), "book pages:", count_b, "author pages:", sum(1 for a in authors.values() if "path" in a))
 exec(open('tools/moi_tin.py', encoding='utf-8').read())
 exec(open('tools/reformed101.py', encoding='utf-8').read())
+exec(open('tools/static_txt.py', encoding='utf-8').read())

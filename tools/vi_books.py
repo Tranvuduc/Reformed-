@@ -1,5 +1,5 @@
 # Executed from build-pages.py. Builds ban-dich/*.html from translations/*.txt (hand/AI translations pasted from chats).
-import json as _j, os as _o, re as _r, shutil as _s
+import urllib.parse as _ul, json as _j, os as _o, re as _r, shutil as _s
 _TD = "translations"
 _idx = _j.load(open(f"{_TD}/index.json", encoding="utf-8")) if _o.path.exists(f"{_TD}/index.json") else []
 _s.rmtree("ban-dich", ignore_errors=True)
@@ -43,11 +43,11 @@ for _b in _idx:
              f'<h1>{E(_b["title"])}</h1><p>{E(_au)}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f'</p>{_label}' +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
              f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}'
-             f'<p><a class="btn" href="/">Về thư viện</a></p>')
+             f'<p><a class="btn" href="/reader.html?id=vn/{_slug}&pid=' + _ul.quote(_b["id"], safe="") + '">Mở trong trình đọc</a> <a class="btn s" href="/">Về thư viện</a></p>')
     _path = f"ban-dich/{_slug}.html"
     open(_path, "w", encoding="utf-8").write(page(f'{_b["title"]} · bản dịch tiếng Việt | Reformed Vietnam', f'Bản dịch tiếng Việt "{_b["title"]}" của {_au}. Miễn phí.', _path, _body))
     urls.append(_path)
-    VIBOOKS[_b["id"]] = {"u": "/" + _path, "by": _by, "r": _rev}
+    VIBOOKS[_b["id"]] = {"u": "/" + _path, "by": _by, "r": _rev, "rd": f"reader.html?id=vn/{_slug}&pid=" + _ul.quote(_b["id"], safe="")}
     _hub.append((_b["title"], _au, _b.get("orig", ""), "/" + _path, _rev, _orig_book))
 open("vi-books.json", "w", encoding="utf-8").write(_j.dumps(VIBOOKS, ensure_ascii=False))
 

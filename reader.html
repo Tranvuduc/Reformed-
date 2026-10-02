@@ -83,9 +83,9 @@ function fold(s){return String(s).toLowerCase().replace(/đ/g,"d").normalize("NF
 var lang=ls("rv.lang")==="en"?"en":"vi";
 var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Chưa có dấu trang.",nores:"Không tìm thấy.",epub:"Tải EPUB",pdf:"In / lưu PDF cả cuốn",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Bản dịch máy, không có thẩm quyền: thuật ngữ giáo lý có thể sai. Hãy đối chiếu bản gốc và Kinh Thánh, và hỏi mục sư.",trf:"Không dịch được lúc này. Hãy thử lại sau.",fail:"Không tải được sách ở đây.",open:"Mở trên CCEL",nov:"Thiết bị không có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",pfail:"Không tải được giọng Piper. Dùng giọng của thiết bị.",res:"kết quả",del:"Xóa",rep:"Báo lỗi dịch trang này",bible:"Kinh Thánh Tiếng Việt 1934 (phạm vi công cộng) · getBible",bfail:"Không tải được đoạn Kinh Thánh.",hl:"Tô sáng và ghi chú",nohl:"Chọn đoạn văn bản để tô sáng hoặc ghi chú.",note:"Ghi chú",save:"Lưu",cancel:"Hủy",cp:"Sao chép (Markdown)",dl:"Tải về (.md)",cpd:"Đã chép"},
  en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation, not authoritative: doctrinal terms may be wrong. Check the original, Scripture and your pastor.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error",bible:"Vietnamese Bible 1934 (public domain) · getBible",bfail:"Could not load the passage.",hl:"Highlights and notes",nohl:"Select text to highlight or add a note.",note:"Note",save:"Save",cancel:"Cancel",cp:"Copy (Markdown)",dl:"Download (.md)",cpd:"Copied"}}[lang];
-var name=id.split("/")[1]||"",PAGE=4200;
+var name=id.split("/")[1]||"",PAGE=4200,SV=id.indexOf("vn/")===0,pid=q.get("pid")||id;
 $("ttl").textContent=name;document.title=name+" · Reformed Vietnam";$("back").textContent="← "+L.lib;
-var ext="https://ccel.org/ccel/"+id+"/"+name;
+var ext=SV?"/":"https://ccel.org/ccel/"+id+"/"+name;
 function fail(){$("msg").innerHTML=L.fail+' <a href="'+ext+'" target="_blank" rel="noopener">'+L.open+'</a>.'}
 
 /* ---------- appearance ---------- */
@@ -108,7 +108,7 @@ function stripHeader(t){
   if(s>=0&&s<4000)t=t.slice(t.indexOf("\n",s)+1);e=t.indexOf("*** END OF");if(e>0)t=t.slice(0,e);
   return t;
 }
-var KW1=/^(book|part|volume)\b/i,KW2=/^(chapter|section|sermon|stage|lecture|preface|introduction|conclusion|appendix|prologue|epilogue|contents|the author'?s? (apology|preface)|to the reader|dedication|argument)\b/i;
+var KW1=/^(book|part|volume|phần)\b/i,KW2=/^(chapter|section|sermon|stage|lecture|preface|introduction|conclusion|appendix|prologue|epilogue|contents|the author'?s? (apology|preface)|to the reader|dedication|argument|chương|lời tựa|lời nói đầu|mục|bài|ngày|kết luận|phụ lục|đọc thêm)\b/i;
 function build(t){
   var raw=stripHeader(t).split(/\n[ \t]*\n/);P=[];
   raw.forEach(function(r){
@@ -166,8 +166,8 @@ function info(){
   $("eta").textContent=mins<1?"":L.left+" "+(mins>=60?Math.floor(mins/60)+" "+L.h+" "+(mins%60)+" "+L.min:mins+" "+L.min);
 }
 function save(pct){
-  try{var p=JSON.parse(ls("rv.prog")||"{}");if(pct<=0&&!p[id])return;
-    p[id]={s:pct>=100?"done":"reading",p:Math.min(100,Math.round(pct/5)*5),t:Date.now()};ls("rv.prog",JSON.stringify(p))}catch(e){}
+  try{var p=JSON.parse(ls("rv.prog")||"{}");if(pct<=0&&!p[pid])return;
+    p[pid]={s:pct>=100?"done":"reading",p:Math.min(100,Math.round(pct/5)*5),t:Date.now()};ls("rv.prog",JSON.stringify(p))}catch(e){}
 }
 function go(i,opt){stopA(true);render(i,opt&&opt.noscroll?false:true);if(opt&&opt.flash!=null)flash(opt.flash,opt.q)}
 function flash(k,qq){var el=$("txt").querySelector('[data-k="'+k+'"]');if(!el)return;el.classList.add("fl");el.scrollIntoView({block:"center"});setTimeout(function(){el.classList.remove("fl")},2300)}
@@ -485,8 +485,8 @@ hlLoad();
 /* ---------- load ---------- */
 if(!/^[a-z0-9_-]+\/[a-z0-9_.-]+$/i.test(id)){fail();return}
 sizeFoot();addEventListener("resize",sizeFoot);
-fetch("api/text?id="+encodeURIComponent(id)).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){
-  if(t.length<500)throw 0;build(t);if(!pages.length)throw 0;$("msg").remove();
+fetch(SV?"txt/"+name+".txt":"api/text?id="+encodeURIComponent(id)).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){
+  if(t.length<500)throw 0;if(SV){var f1=t.split("\n",1)[0].trim();if(f1){name=f1;$("ttl").textContent=f1.toLowerCase().replace(/(^|\s)\S/g,function(c){return c.toUpperCase()});document.title=$("ttl").textContent+" · Reformed Vietnam"}trm="0";$("tr").hidden=true}build(t);if(!pages.length)throw 0;$("msg").remove();
   var pos=+ls("rv.pos."+id)||0,sc=null;try{sc=JSON.parse(ls("rv.sc."+id)||"null")}catch(e){}
   var qp=q.get("p");if(qp!==null&&!isNaN(+qp))pos=+qp;
   var fnd=q.get("find"),fk=-1;if(fnd){var ff=fold(fnd).trim();for(var i2=0;i2<P.length;i2++){var tt=fold(P[i2].t).trim();if(tt===ff||(tt.length<ff.length+6&&tt.indexOf(ff)===0)){fk=i2;break}}if(fk>=0)pos=pageOf(fk)}
