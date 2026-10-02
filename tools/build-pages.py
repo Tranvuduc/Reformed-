@@ -82,21 +82,26 @@ for _a in authors.values(): _a["name"] = _pretty(_a["name"])
 
 urls = ["", "about.html", "tac-gia.html", "tieng-viet.html"]
 count_b = 0
+PLAIN_B = []
 NR = set(books.get('noread', []))
 
 # book pages for described CCEL books
 for k, a in authors.items():
     for bid, title, yr in a["ccel"]:
-        if bid not in desc or bid in NR: continue
-        en_d, vi_d = desc[bid]; vt = vi.get(bid, title)
+        if bid in NR: continue
+        _plain = bid not in desc
+        en_d, vi_d = desc[bid] if not _plain else ("", f"{title} của {a['name']}, sách thuộc phạm vi công cộng. Đọc trực tuyến miễn phí, nghe đọc thành tiếng hoặc tải EPUB/PDF trong thư viện Reformed Vietnam.")
+        vt = vi.get(bid, title)
+        _en_p = ('<p><small lang="en">' + E(en_d) + "</small></p>") if en_d else ""
         bs = slug(bid.replace("/", "-")); path = f"b/{bs}.html"
         ttl = f"{vt} – {a['name']} | Đọc miễn phí"
-        body = (f'<h1>{E(vt)}</h1><p class="m">{E(title)} · {E(a["name"])}{f" · {yr}" if yr else ""}</p><p>{E(vi_d)}</p><p><small lang="en">{E(en_d)}</small></p>'
+        body = (f'<h1>{E(vt)}</h1><p class="m">{E(title)} · {E(a["name"])}{f" · {yr}" if yr else ""}</p><p>{E(vi_d)}</p>{_en_p}'
                 f'<p><a class="btn" href="/reader.html?id={bid}">Đọc ngay</a> <a class="btn s" href="/a/{k}.html">Xem thêm sách của {E(a["name"])}</a></p>'
                 '<p class="m">Tác phẩm thuộc phạm vi công cộng. Nguồn: Christian Classics Ethereal Library (CCEL). Đọc trực tuyến, tải EPUB/PDF và nghe đọc thành tiếng trong thư viện.</p>')
         ld = {"@context": "https://schema.org", "@type": "Book", "name": title, "alternateName": vt, "author": {"@type": "Person", "name": a["name"]},
               "inLanguage": "en", "isAccessibleForFree": True, "description": vi_d, "url": f"{SITE}/{path}"}
         open(path, "w", encoding="utf-8").write(page(ttl, vi_d, path, body, ld)); urls.append(path); count_b += 1
+        if _plain: PLAIN_B.append(path)
         a.setdefault("pages", {})[bid] = path
 
 # author pages
@@ -169,6 +174,10 @@ for _fn in os.listdir("a"):
     if os.path.exists(_n): os.remove(_n)
     open(_pp, "w", encoding="utf-8").write(_t.replace(f"{SITE}/{_n}", f"{SITE}/og.jpg"))
 json.dump(sorted(u for u in urls if u.startswith(("b/", "ban-dich/")) and not u.endswith("index.html")), open("bp.json", "w"))
+for _pp in PLAIN_B:  # books without a hand-written description share the home image
+    _t = open(_pp, encoding="utf-8").read(); _n = "og/" + re.sub(r"[^a-z0-9]+", "-", _pp.lower().replace(".html", "")).strip("-") + ".jpg"
+    if os.path.exists(_n): os.remove(_n)
+    open(_pp, "w", encoding="utf-8").write(_t.replace(f"{SITE}/{_n}", f"{SITE}/og.jpg"))
 # sitemap
 # drop links to author pages that were not generated (authors with fewer than 2 items)
 import glob as _g
