@@ -115,9 +115,11 @@ function passes(b){
 var LVL_T={catechism:1,devotional:2,sermons:2,history:2,collected:2,systematic:3,doctrine:2,commentary:3};
 var LVL_ID={"bunyan/pilgrim":1,"bonar/peace":1,"ryle/holiness":1,"flavel/lovely":1,"spurgeon/grace":1,"owen/mort":2,"watson/contentment":2,"baxter/saints_rest":2,"boston/crook":2,"edwards/affections":2,"calvin/institutes":3,"edwards/will":3,"hodge/theology1":3,"berkhof/systematictheology":3,"kuyper/holy_spirit":3};
 var TRAD={calvin:["Cải Chánh thế kỷ 16","Sixteenth-century Reformed"],knox:["Trưởng Lão Scotland","Scottish Presbyterian"],owen:["Thanh giáo (Độc lập)","Puritan (Independent)"],baxter:["Thanh giáo","Puritan"],bunyan:["Thanh giáo, Báp-tít","Puritan, Baptist"],flavel:["Thanh giáo","Puritan"],charnock:["Thanh giáo","Puritan"],watson:["Thanh giáo","Puritan"],gurnall:["Thanh giáo","Puritan"],rutherford:["Trưởng Lão Scotland","Scottish Presbyterian"],boston:["Trưởng Lão Scotland","Scottish Presbyterian"],hodge:["Trưởng Lão (Princeton)","Presbyterian (Princeton)"],alexander_a:["Trưởng Lão (Princeton)","Presbyterian (Princeton)"],edwards:["Cải Chánh Mỹ","American Reformed"],gill:["Báp-tít Cải Chánh","Reformed Baptist"],spurgeon:["Báp-tít Cải Chánh","Reformed Baptist"],boyce:["Báp-tít Cải Chánh","Reformed Baptist"],kuyper:["Cải Chánh Hà Lan","Dutch Reformed"],bavinck:["Cải Chánh Hà Lan","Dutch Reformed"],berkhof:["Cải Chánh Hà Lan-Mỹ","Dutch-American Reformed"],bonar:["Trưởng Lão Scotland","Scottish Presbyterian"],ryle:["Anh giáo Phúc Âm","Evangelical Anglican"],hooker:["Anh giáo","Anglican"],boettner:["Trưởng Lão","Presbyterian"]};
-function lvl(b){var n=LVL_ID[b.id]||LVL_T[b.ty]||0;return n}
+function lvl(b){var n=LVL_ID[b.id]||RVL[b.id]||LVL_T[b.ty]||(String(b.id).indexOf("rv-")===0?2:0);return n}
 function lvlTxt(n){var vi=st.lang==="vi";return n===1?(vi?"🟢 Dễ đọc":"🟢 Beginner"):n===2?(vi?"🟡 Vừa":"🟡 Intermediate"):n===3?(vi?"🔴 Chuyên sâu":"🔴 Advanced"):""}
-function trad(b){var t=TRAD[b.au];return t?t[st.lang==="vi"?0:1]:""}
+var RVT={"Charles Spurgeon":["Báp-tít Cải Chánh","Reformed Baptist"],"J.C. Ryle":["Anh giáo, Tin Lành","Anglican evangelical"],"Jonathan Edwards":["Cải Chánh, Hội Chúng","Reformed Congregational"],"Robert Murray M'Cheyne":["Trưởng Lão Scotland","Scottish Presbyterian"],"George Whitefield":["Anh giáo, Calvin","Anglican, Calvinistic"],"John Newton":["Anh giáo, Tin Lành","Anglican evangelical"],"Thomas Chalmers":["Trưởng Lão Scotland","Scottish Presbyterian"]};
+var RVL={"rv-compel-them-to-come-in":1,"rv-do-you-pray":1,"rv-mccheyne-banh-hang-ngay":1,"rv-newton-cay-non-bong-lua-hot-chac":1,"rv-whitefield-con-duong-cua-an-dien":1};
+function trad(b){var t=TRAD[b.au]||(String(b.id).indexOf("rv-")===0&&RVT[b.a]);return t?t[st.lang==="vi"?0:1]:""}
 var POL=/\b(popery|popish|papist|papism|papal|pope|jesuit|romish|rome|antichrist|wesley|arminian|unitarian|quaker)/i;
 function badges(b){
   var o=[];if(b.au==="vn")o.push(["VI","vi"]);
@@ -152,6 +154,16 @@ function ctxBox(b){var c=CTX[b.id];
   if(!c&&b.er==="pur")c=["Tác phẩm Thanh giáo thế kỷ 16-17. Các ví dụ về xã hội và gia đình phản ánh thời của tác giả, không nên áp dụng máy móc cho ngày nay.","",""];
   if(!c)return"";
   return'<div class="ctx"><b>Đọc trong bối cảnh</b><p>'+esc(c[0])+'</p>'+(c[1]?'<p><b>Đọc Kinh Thánh:</b> '+esc(c[1])+'</p><p><b>Suy ngẫm:</b> '+esc(c[2])+'</p>':'')+'<small>Ghi chú biên tập, đã được mục sư xem lại.</small></div>'}
+function infoBox(b){
+  var vi=st.lang==="vi",rv=String(b.id).indexOf("rv-")===0,vb=window.VIB&&VIB[b.id],pd=b.read||b.au==="ia"||b.au==="pg"||b.au==="lv"||/ccel\.org/.test(b.url||"")||rv||vb;
+  var L=lvl(b),T=trad(b),R=[];
+  var src=rv?(vi?"Reformed Vietnam (dịch từ nguyên tác phạm vi công cộng)":"Reformed Vietnam (from public-domain original)"):vb?"Reformed Vietnam":b.read||/ccel\.org/.test(b.url||"")?"CCEL":b.au==="ia"?"Internet Archive":b.au==="pg"?"Project Gutenberg":b.au==="lv"?"LibriVox":b.au==="mg"?"Monergism":(b.url||"").replace(/^https?:\/\/(www\.)?/,"").split("/")[0];
+  var st2=rv||vb?(vi?"AI hỗ trợ dịch, chưa được mục sư duyệt":"AI-assisted, not pastor-reviewed"):b.au==="vn"?(vi?"Bản tiếng Việt của nhà xuất bản":"Publisher's Vietnamese edition"):(vi?"Tiếng Anh gốc (có nút dịch máy, không có thẩm quyền)":"English original (machine translation is unofficial)");
+  R.push([vi?"Nguồn":"Source",src],[vi?"Tình trạng bản dịch":"Translation",st2]);
+  if(T)R.unshift([vi?"Truyền thống":"Tradition",T]);
+  if(L)R.push([vi?"Mức độ":"Level",lvlTxt(L)]);
+  R.push([vi?"Bản quyền":"Copyright",pd?(vi?"🟢 Phạm vi công cộng":"🟢 Public domain"):(vi?"🟡 Thuộc tác giả hoặc nhà xuất bản":"🟡 Author or publisher")]);
+  return'<dl class="inf">'+R.map(function(r){return'<dt>'+r[0]+'</dt><dd>'+esc(r[1])+'</dd>'}).join("")+'</dl>'}
 function lic(b){
   var vi=st.lang==="vi",pd=b.read||b.au==="ia"||b.au==="pg"||b.au==="lv"||/ccel\.org/.test(b.url||"");
   return pd?'<p class="lic pd">🟢 '+(vi?"Phạm vi công cộng. Bạn được đọc, tải và chia sẻ tự do.":"Public domain. Free to read, download and share.")+'</p>'
@@ -198,7 +210,7 @@ function sheet(b){
   var alt=(lg==="vi"&&o.t&&o.t!==d.t)?'<p class="alt">'+esc(o.t)+'</p>':"";
   var sel='<select data-pid="'+esc(b.id)+'" aria-label="'+tx("reading")+'">'+["todo","reading","done"].map(function(v){return'<option value="'+v+'"'+(p.s===v?" selected":"")+'>'+tx(v)+'</option>'}).join("")+'</select>';
   var rng=p.s==="reading"?'<div class="pr"><input type="range" min="0" max="100" step="5" value="'+p.p+'" data-rid="'+esc(b.id)+'" aria-label="%"><output>'+p.p+'%</output></div>':"";
-  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+(trad(b)?' · <i>'+esc(trad(b))+'</i>':'')+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+ctxBox(b)+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+lic(b)+'<p class="src">'+esc(d.n)+'</p>';
+  $("bk-c").innerHTML='<button class="bk-x" type="button" aria-label="Close">×</button><p class="k">'+tx("ty_"+b.ty)+y+'</p><h2>'+esc(d.t)+'</h2>'+alt+'<p class="by">'+esc(b.a)+(trad(b)?' · <i>'+esc(trad(b))+'</i>':'')+'</p><div class="bds">'+badges(b)+'</div>'+(DESC[b.id]?'<p class="desc2">'+esc(DESC[b.id][lg==="vi"?1:0])+'</p>':"")+ctxBox(b)+infoBox(b)+'<div class="sacts">'+sheetActs(b)+'</div><div class="foot2">'+sel+'<button type="button" class="fav" data-id="'+esc(b.id)+'" aria-pressed="'+s+'">'+(s?tx("saved2"):tx("save"))+'</button></div>'+rng+lic(b)+'<p class="src">'+esc(d.n)+'</p>';
 }
 function renderCont(){
   var r=BOOKS.filter(function(b){return prog(b.id).s==="reading"}).sort(function(a,b){return(prog(b.id).t||0)-(prog(a.id).t||0)}).slice(0,4);
@@ -407,10 +419,14 @@ var TILES=[
 ];
 var TI={"lo-trinh.html": "<path d=\"M5 19a2 2 0 100-4 2 2 0 000 4zM19 9a2 2 0 100-4 2 2 0 000 4zM7 17h6a3 3 0 000-6h-2a3 3 0 010-6h6\"/>", "tieng-viet.html": "<path d=\"M2 5h7a3 3 0 013 3v12a2 2 0 00-2-2H2zM22 5h-7a3 3 0 00-3 3v12a2 2 0 012-2h8z\"/>", "chu-de/": "<path d=\"M12 3l9 5-9 5-9-5zM3 13l9 5 9-5M3 17.5l9 5 9-5\" transform=\"scale(.92) translate(1 -1)\"/>", "sach-noi.html": "<path d=\"M4 15v-3a8 8 0 0116 0v3M4 15h3v5H5a1 1 0 01-1-1zM20 15h-3v5h2a1 1 0 001-1z\"/>", "hom-nay.html": "<circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4\"/>", "tac-gia.html": "<circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0113 0M16 4.5a3.5 3.5 0 010 7M18 14a6.5 6.5 0 013.5 6\"/>"};
 TI["moi-tin-chua.html"]=TI["lo-trinh.html"];
+function mtTxt(i){var n=0,k=1;try{var d=JSON.parse(localStorage.getItem("rv.mt")||"{}");n=Object.keys(d).length;while(d[k])k++}catch(e){}
+  if(n>0&&n<30)return i?"Done "+n+"/30 days. Continue with day "+k+".":"Đã xong "+n+"/30 ngày. Tiếp tục ngày "+k+".";
+  if(n>=30)return i?"You finished all 30 days!":"Bạn đã hoàn thành 30 ngày!";
+  return i?"A gentle 30-day path, 10 minutes a day. Start here if you are unsure.":"Lộ trình 30 ngày nhẹ nhàng, mỗi ngày 10 phút. Hãy bắt đầu ở đây nếu bạn chưa biết đọc gì."}
 function renderTiles(){var i=st.lang==="vi"?0:1;
   var ic=function(k){return'<svg class="ti" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+(TI[k]||"")+'</svg>'};
   $("tiles").innerHTML='<h2 class="gh">'+(i?"Where would you like to start?":"Bạn muốn bắt đầu từ đâu?")+'</h2>'
-   +'<a class="tile first" href="moi-tin-chua.html">'+ic("moi-tin-chua.html")+'<span class="step">'+(i?"Step 1":"Bước 1")+'</span><b>'+(i?"I\u2019m new to faith":"Tôi mới tin Chúa")+'</b><span>'+(i?"A gentle 30-day path, 10 minutes a day. Start here if you are unsure.":"Lộ trình 30 ngày nhẹ nhàng, mỗi ngày 10 phút. Hãy bắt đầu ở đây nếu bạn chưa biết đọc gì.")+'</span></a>'
+   +'<a class="tile first" href="moi-tin-chua.html">'+ic("moi-tin-chua.html")+'<span class="step">'+(i?"Step 1":"Bước 1")+'</span><b>'+(i?"I\u2019m new to faith":"Tôi mới tin Chúa")+'</b><span>'+mtTxt(i)+'</span></a>'
    +TILES.map(function(t){return'<a class="tile" href="'+t[0]+'">'+ic(t[0])+'<b>'+t[1+i]+'</b><span>'+t[3+i]+'</span></a>'}).join("");
   var P=[["moi-tin-chua.html","Mới tin Chúa","New believer"],["lo-trinh.html","Lộ trình đọc","Reading path"],["tieng-viet.html","Sách tiếng Việt","Vietnamese"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"]];
   $("nl").innerHTML=P.map(function(m){return'<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");

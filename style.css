@@ -194,3 +194,5 @@ body:not(.home) #bw{display:none}
 .lv{margin:0 0 22px;padding-top:6px}
 @media(min-width:760px){.tiles{grid-template-columns:repeat(4,minmax(0,1fr))}}
 .home .bar{display:none!important}
+
+.inf{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;margin:12px 0;padding:10px 12px;border:1px solid var(--line);border-radius:10px;font-size:.85rem}.inf dt{color:var(--muted)}.inf dd{margin:0}
