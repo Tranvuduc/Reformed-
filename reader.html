@@ -340,24 +340,27 @@ async function buildQueue(startK){
 function firstVisibleK(){var els=$("txt").children;for(var i=0;i<els.length;i++){if(els[i].getBoundingClientRect().bottom>90)return+els[i].dataset.k}return 0}
 var gc={};function gU(t,l){return"api/tts?tl="+l+"&q="+encodeURIComponent(t.slice(0,200))}
 function gP(t,l){var u=gU(t,l);if(gc[u])return;gc[u]=1;try{fetch(u).catch(function(){})}catch(e){}}
+/* TTS pronunciation dictionary: spoken form only, displayed text is unchanged */
+var PRON=[["Jesus Christ","Giê xu Cờ rít"],["Christ Jesus","Cờ rít Giê xu"],["Jesus","Giê xu"],["Christ","Cờ rít"],["Christianity","Cơ Đốc giáo"],["Christian","Cơ Đốc nhân"],["John Calvin","Giăng Cal-vin"],["Martin Luther","Mác-tin Lu-thơ"],["Charles Spurgeon","Sạc-lơ Sơ-giơn"],["Spurgeon","Sơ-giơn"],["Jonathan Edwards","Giô-na-than Éc-oớt"],["Augustine","Ô-gút-tinh"],["Westminster","Oét-min-xtơ"],["Heidelberg","Hai-đen-bẹc"],["Calvin","Cal-vin"],["Puritan","Pu-ri-tan"]].map(function(x){return[new RegExp("\\b"+x[0]+"\\b","g"),x[1]]});
+function pron(t){for(var i=0;i<PRON.length;i++)t=t.replace(PRON[i][0],PRON[i][1]);return t}
 function speak(){
   if(!playing||paused)return;
   if(qi>=queue.length){if(cur<pages.length-1){render(cur+1);buildQueue(0).then(function(){if(playing)speak()})}else stopA();return}
-  var it=queue[qi++];mark(it.k);
+  var it=queue[qi++];mark(it.k);var tx=lgOf(it.t)==="vi"?pron(it.t):it.t;
   var vv=ls("rv.voice"),lg0=lgOf(it.t);if(!vv&&lg0==="vi"&&!pick("vi"))vv="gtts";
   if(vv==="gtts"){
-    var ga=paudio;ga.src=gU(it.t,lg0);var nq=queue[qi];if(nq)gP(nq.t,lgOf(nq.t));ga.playbackRate=+$("sp").value;
+    var ga=paudio;ga.src=gU(tx,lg0);var nq=queue[qi];if(nq)gP(lgOf(nq.t)==="vi"?pron(nq.t):nq.t,lgOf(nq.t));ga.playbackRate=+$("sp").value;
     ga.onended=function(){gfail=0;speak()};ga.onerror=function(){if(!playing)return;if(++gfail>=2){gfail=0;ls("rv.voice","");$("vo").value="";alert(L.gfail);stopA();return}qi=Math.max(0,qi-1);setTimeout(speak,500)};
     ga.play().catch(function(){});return;
   }
   if(vv==="piper"){
     $("pt").textContent=pready?"…":(pprog?pprog+"%":"…");if(!pready){$("pt").title=L.pload;var pi=setInterval(function(){if(pready||!playing){clearInterval(pi);return}$("pt").textContent=pprog?pprog+"%":"…"},500)}
-    var nx=queue[qi];if(nx)pSynth(nx.t).catch(function(){});
-    pSynth(it.t).then(function(b){if(!playing||paused)return;$("pt").textContent="⏸";var u=URL.createObjectURL(b);paudio.src=u;paudio.playbackRate=+$("sp").value;paudio.onended=function(){URL.revokeObjectURL(u);speak()};paudio.onerror=function(){URL.revokeObjectURL(u);speak()};return paudio.play()})
+    var nx=queue[qi];if(nx)pSynth(lgOf(nx.t)==="vi"?pron(nx.t):nx.t).catch(function(){});
+    pSynth(tx).then(function(b){if(!playing||paused)return;$("pt").textContent="⏸";var u=URL.createObjectURL(b);paudio.src=u;paudio.playbackRate=+$("sp").value;paudio.onended=function(){URL.revokeObjectURL(u);speak()};paudio.onerror=function(){URL.revokeObjectURL(u);speak()};return paudio.play()})
      .catch(function(){if(!playing)return;if(++pfail>=2){ls("rv.voice","");$("vo").value="";alert(L.pfail);qi=Math.max(0,qi-1);speak()}else{pc={};qi=Math.max(0,qi-1);setTimeout(speak,800)}});
     return;
   }
-  var lg=lgOf(it.t),v=pick(lg),u=new SpeechSynthesisUtterance(it.t);
+  var lg=lgOf(it.t),v=pick(lg),u=new SpeechSynthesisUtterance(tx);
   u.rate=+$("sp").value;u.lang=v?v.lang:(lg==="vi"?"vi-VN":"en-US");if(v)u.voice=v;
   u.onend=function(){setTimeout(speak,0)};
   u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
