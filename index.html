@@ -5,16 +5,16 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Reformed Vietnam · Thư viện</title>
 <meta name="description" content="Thư viện sách và sách nói miễn phí về thần học Cải Chánh. Free Reformed ebooks and audiobooks.">
-<meta property="og:type" content="website"><meta property="og:title" content="Reformed Vietnam · Thư viện sách Cải Chánh miễn phí"><meta property="og:description" content="Hơn 3.500 sách và tài liệu thần học Cải Chánh: đọc, tải, theo dõi tiến độ. Free Reformed books and creeds, with Vietnamese resources."><meta name="theme-color" content="#9a3412">
+<meta property="og:type" content="website"><meta property="og:title" content="Reformed Vietnam · Thư viện sách Cải Chánh miễn phí"><meta property="og:description" content="Hơn 3.500 sách và tài liệu miễn phí về thần học Cải Chánh.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap">
-<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://reformed-vietnam.vercel.app/"><meta name="twitter:card" content="summary_large_image"><meta property="og:image" content="https://reformed-vietnam.vercel.app/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:image" content="https://reformed-vietnam.vercel.app/og.png"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Reformed Vietnam","url":"https://reformed-vietnam.vercel.app/","inLanguage":["vi","en"],"description":"Thư viện sách Cải Chánh miễn phí: đọc, nghe, tải.","potentialAction":{"@type":"SearchAction","target":"https://reformed-vietnam.vercel.app/?q={q}","query-input":"required name=q"}}</script><meta property="og:url" content="https://reformed-vietnam.vercel.app/"><meta property="og:site_name" content="Reformed Vietnam">
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://reformed-vietnam.vercel.app/"><meta name="twitter:card" content="summary_large_image"><meta property="og:image" content="https://reformed-vietnam.vercel.app/og.png">
 <link rel="stylesheet" href="style.css">
-<link rel="preload" href="books.json" as="fetch" crossorigin><link rel="preload" href="mg.json" as="fetch" crossorigin><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#9a3412"><link rel="apple-touch-icon" href="/icon-192.png"></head>
+<link rel="preload" href="books.json" as="fetch" crossorigin><link rel="preload" href="mg.json" as="fetch" crossorigin><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#1a1b1d">
 <body>
 <dialog id="sdlg"><form method="dialog" style="display:grid;gap:10px;min-width:min(340px,80vw)"><b id="s-h"></b><p id="s-p" style="margin:0;font-size:14px"></p>
-<input id="s-code" autocomplete="off" spellcheck="false" style="padding:8px;font:16px monospace;background:var(--bg);border:1px solid var(--line);border-radius:8px"><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn" id="s-new" type="button"></button><button class="btn primary" id="s-use" type="button"></button><button class="btn" id="s-off" type="button"></button><button class="btn" id="s-x" value="x"></button></div><p id="s-st" style="margin:0;font-size:13px"></p></form></dialog>
+<input id="s-code" autocomplete="off" spellcheck="false" style="padding:8px;font:16px monospace;background:var(--bg);border:1px solid var(--line);border-radius:8px"><div style="display:flex;gap:8px"><button class="btn" type="button" id="s-new"></button><button class="btn" type="button" id="s-use"></button></div><button class="btn" type="button" id="s-off" hidden></button><p style="margin:0" id="s-st"></p></form></dialog>
 <dialog id="bk" class="sheet"><div id="bk-c"></div></dialog>
 <div class="wrap">
 <nav class="nav">
@@ -28,7 +28,7 @@
 </nav>
 <header class="hero">
   <h1 id="h1">Sách Cải Chánh, <span>miễn phí</span></h1>
-  <p class="lede" id="lede">Sách và tài liệu miễn phí, đọc và nghe đọc trên điện thoại. Phần lớn là tác phẩm thuộc phạm vi công cộng; mỗi thẻ ghi rõ nguồn. Không cần tài khoản.</p>
+  <p class="lede" id="lede">Sách và tài liệu miễn phí, đọc và nghe đọc trên điện thoại. Phần lớn là tác phẩm thuộc phạm vi công cộng; mỗi thẻ ghi rõ nguồn, mức độ, và bản quyền.</p>
   <div class="search"><input type="search" id="q" aria-label="Search"></div>
 </header>
 <div class="cont" id="cont" hidden></div>
@@ -62,10 +62,11 @@
   
 </main>
 <p class="foot" id="foot"></p>
-<p class="foot mini"><a href="/about.html">Giới thiệu</a> · <a href="mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch">Góp ý</a> · <a href="/ban-dich/">Bản dịch &amp; sách mới</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · <a href="/feed.xml">RSS</a></p>
+<p class="foot mini"><a href="/about.html">Giới thiệu</a> · <a href="mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch">Góp ý</a> · <a href="/ban-dich/">Bản dịch</a> · <a href="https://github.com/Tranvuduc/Reformed-">GitHub</a></p>
 </div>
 <noscript><nav class="foot"><p>Sách Cải Chánh miễn phí. <a href="/tieng-viet.html">Sách tiếng Việt</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/about.html">Giới thiệu</a></p></nav></noscript>
+<script src="app-config.js"></script>
 <script src="app.js"></script>
 <script defer src="/_vercel/insights/script.js"></script>
-<script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script><script>var _ip;addEventListener("beforeinstallprompt",function(e){e.preventDefault();_ip=e;var a=document.getElementById("inst");if(a)a.hidden=false});document.addEventListener("click",function(e){if(e.target.id==="inst"&&_ip){_ip.prompt();_ip=null;e.target.hidden=true}})</script></body>
+<script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script><script>var _ip;addEventListener("beforeinstallprompt",function(e){e.preventDefault();_ip=e})</script>
 </html>
