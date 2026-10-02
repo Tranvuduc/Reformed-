@@ -25,9 +25,18 @@ CSS = ("body{margin:0;background:#f4efe4;color:#26211a;font:17px/1.6 'Noto Serif
 import json as _sj
 _su=_sj.load(open('subscribe.json')).get('url','')
 SUBL=(f' · <a href="{_su}" rel="noopener">Nhận bài qua email</a>' if _su else '')
+import re as _re_bc
 def page(title, desc_, path, body, ld=None):
     url = f"{SITE}/{path}"
     j = f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>' if ld else ""
+    if path.startswith(("a/", "b/")):
+        _nm = _re_bc.split(r"\s+[–|]\s+", title)[0]
+        _mid = ("Tác giả", f"{SITE}/tac-gia.html") if path.startswith("a/") else ("Sách tiếng Việt", f"{SITE}/tieng-viet.html")
+        _bc = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": f"{SITE}/"},
+            {"@type": "ListItem", "position": 2, "name": _mid[0], "item": _mid[1]},
+            {"@type": "ListItem", "position": 3, "name": _nm, "item": url}]}
+        j += f'<script type="application/ld+json">{json.dumps(_bc, ensure_ascii=False)}</script>'
     return f'''<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{SITE}/og.png"><meta name="twitter:card" content="summary_large_image">
@@ -48,6 +57,11 @@ for r in ia["b"]:
     nm = ia["a"][r[0]]; k = slug(nm)
     a = authors.setdefault(k, {"name": nm, "ccel": [], "ia": [], "id": ""})
     a["ia"].append(r)
+import re as _re
+def _pretty(n):
+    m = _re.match(r"^(\d{3,4})\s*-\s*(\d{3,4})?\s*([^,]+),\s*(.+)$", n)
+    return f"{m.group(4)} {m.group(3)} ({m.group(1)}\u2013{m.group(2) or ''})" if m else n
+for _a in authors.values(): _a["name"] = _pretty(_a["name"])
 
 urls = ["", "about.html", "tac-gia.html", "tieng-viet.html"]
 count_b = 0
