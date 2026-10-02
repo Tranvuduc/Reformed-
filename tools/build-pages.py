@@ -16,7 +16,7 @@ def slug(s):
     s = "".join(c for c in s if not unicodedata.combining(c)).lower()
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:70]
 
-CSS = ("body{margin:0;background:#f4efe4;color:#26211a;font:17px/1.6 "Noto Serif",Georgia,serif}main{max-width:46rem;margin:0 auto;padding:24px 18px 60px}"
+CSS = ("body{margin:0;background:#f4efe4;color:#26211a;font:17px/1.6 'Noto Serif',Georgia,serif}main{max-width:46rem;margin:0 auto;padding:24px 18px 60px}"
        "a{color:#9a3412}nav.top{font:14px system-ui,sans-serif;margin-bottom:18px}h1{font-size:1.9rem;line-height:1.2;margin:.2em 0 .5em}"
        "ul{padding-left:1.1em}li{margin:.5em 0}small,.m{color:#6f665a;font:14px system-ui,sans-serif}.btn{display:inline-block;background:#9a3412;color:#fff;"
        "padding:8px 16px;border-radius:8px;text-decoration:none;font:600 15px system-ui,sans-serif;margin:4px 6px 4px 0}.btn.s{background:none;color:#9a3412;border:1px solid #9a3412}"
