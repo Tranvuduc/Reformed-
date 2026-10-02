@@ -124,8 +124,7 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
 .tile b{font-family:var(--display);font-size:1.05rem;font-weight:600}.tile span{font-size:.8rem;color:var(--muted)}
 .tile.first{background:var(--accent);border-color:var(--accent);color:var(--accent-fg)}.tile.first span{color:inherit;opacity:.85}
 .tile:hover{border-color:var(--accent)}
-body:not(.home) .tiles{display:none}
-.home .bar,.home #grid,.home #allh,.home .more:not(#bw){display:none}
+body:not(.home) .home .bar,.home #grid,.home #allh,.home .more:not(#bw){display:none}
 body:not(.home) #bw{display:none}
 #bw{margin:26px 0}
 .mx{display:contents}.mx .btn{border:0;background:none;text-align:left;padding:9px 12px}.mx .btn:hover{background:var(--soft)}
@@ -178,9 +177,20 @@ body:not(.home) #bw{display:none}
 .nav .links a{white-space:nowrap;padding:7px 11px;border-radius:999px;color:var(--muted);text-decoration:none;font-size:.92rem;font-weight:500}
 .nav .links a:hover{color:var(--fg);background:var(--soft)}
 @media(max-width:760px){.nav .links{order:5;flex:1 1 100%;margin-left:-11px}.nav .brand{flex:1}}
-.tiles{display:none}
 .hero .lede{max-width:34rem}
 .foot.mini{border:0;margin:20px 0 28px;padding:0;font-size:.82rem}
 .foot.mini a{color:var(--muted)}
 
 @media(max-width:760px){.nav .links a{padding:7px 9px;font-size:.86rem}}
+
+/* guided home */
+.tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:8px 0 26px}
+.tiles .gh{grid-column:1/-1;font:600 1.15rem var(--display,inherit);margin:0}
+.tile{position:relative;padding:16px 18px;min-height:96px}
+.tile .ti{color:var(--accent);margin-bottom:4px}
+.tile.first{grid-column:1/-1;padding:22px 22px;min-height:0}.tile.first .ti{color:inherit}.tile.first b{font-size:1.4rem}.tile.first .step{font-size:.72rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;opacity:.85}
+.tile:hover{border-color:var(--accent);transform:translateY(-1px)}
+.cont{margin:0 0 18px}
+.lv{margin:0 0 22px;padding-top:6px}
+@media(min-width:760px){.tiles{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.home .bar{display:none!important}
