@@ -96,7 +96,7 @@ open("tac-gia.html", "w", encoding="utf-8").write(page("Tác giả Cải Chánh 
 # Vietnamese hub: our own translations first, then partner sources
 rv = [r for r in mg["vn"] if r["id"].startswith("rv-")]
 oth = [r for r in mg["vn"] if not r.get("au") and not r["id"].startswith("rv-")]
-rvl = "".join(f'<li><a href="{E(r["url"])}">{E(r["vi"]["t"])}</a> <small>· {E(r["a"])} · <a href="{E(r["epub"])}" download>EPUB</a></small></li>' for r in rv)
+rvl = "".join(f'<li><a href="{E(r["url"])}">{E(r["vi"]["t"])}</a> <small>· {E(r["a"])} · AI, chưa duyệt · <a href="{E(r["epub"])}" download>EPUB</a></small></li>' for r in rv)
 vn = "".join(f'<li><a href="{E(r["url"])}" rel="noopener">{E(r["vi"]["t"])}</a> <small>· {E(r["a"])}</small></li>' for r in oth)
 rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{len(rv)} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc tải EPUB. Bản dịch sơ thảo, chưa hiệu đính.</p><ul>{rvl}</ul><h2>Từ các nguồn khác</h2>") if rv else ""
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
@@ -138,3 +138,4 @@ for _f in _g.glob("b/*.html"):
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
 open("sitemap.xml", "w", encoding="utf-8").write(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
 print("pages:", len(urls), "book pages:", count_b, "author pages:", sum(1 for a in authors.values() if "path" in a))
+exec(open('tools/moi_tin.py', encoding='utf-8').read())

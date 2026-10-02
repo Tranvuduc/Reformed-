@@ -121,6 +121,7 @@ function trad(b){var t=TRAD[b.au];return t?t[st.lang==="vi"?0:1]:""}
 var POL=/\b(popery|popish|papist|papism|papal|pope|jesuit|romish|rome|antichrist|wesley|arminian|unitarian|quaker)/i;
 function badges(b){
   var o=[];if(b.au==="vn")o.push(["VI","vi"]);
+  if(String(b.id).indexOf("rv-")===0)o.push([st.lang==="vi"?"AI, chưa duyệt":"AI, unreviewed",""]);
   if(b.read)o.push([st.lang==="vi"?"Đọc":"Read","r"]);
   if(hasM(b,"pdf"))o.push(["PDF",""]);if(hasM(b,"epub"))o.push(["EPUB",""]);
   if(hasM(b,"audio"))o.push([st.lang==="vi"?"🎧 Nghe":"🎧 Audio",""]);
@@ -394,7 +395,7 @@ Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"
 
 /* ---------- home tiles, menu links, detail sheet ---------- */
 var TILES=[
- ["lo-trinh.html","Mới bắt đầu","New here","Lộ trình đọc từng bước","A step-by-step path",1],
+ ["moi-tin-chua.html","Tôi mới tin Chúa","I'm new to faith","30 ngày đầu tiên, mỗi ngày 10 phút","The first 30 days, 10 minutes a day",1],
  ["tieng-viet.html","Sách tiếng Việt","Vietnamese","Đọc ngay, không cần dịch","Read right away"],
  ["chu-de/","Theo chủ đề","By topic","Ân điển, Ba Ngôi, Hội Thánh…","Grace, Trinity, Church…"],
  ["sach-noi.html","Sách nói","Audio","Nghe khi đi đường","Listen on the go"],
@@ -402,8 +403,9 @@ var TILES=[
  ["tac-gia.html","Tác giả","Authors","Calvin, Owen, Spurgeon…","Calvin, Owen, Spurgeon…"]
 ];
 var TI={"lo-trinh.html": "<path d=\"M5 19a2 2 0 100-4 2 2 0 000 4zM19 9a2 2 0 100-4 2 2 0 000 4zM7 17h6a3 3 0 000-6h-2a3 3 0 010-6h6\"/>", "tieng-viet.html": "<path d=\"M2 5h7a3 3 0 013 3v12a2 2 0 00-2-2H2zM22 5h-7a3 3 0 00-3 3v12a2 2 0 012-2h8z\"/>", "chu-de/": "<path d=\"M12 3l9 5-9 5-9-5zM3 13l9 5 9-5M3 17.5l9 5 9-5\" transform=\"scale(.92) translate(1 -1)\"/>", "sach-noi.html": "<path d=\"M4 15v-3a8 8 0 0116 0v3M4 15h3v5H5a1 1 0 01-1-1zM20 15h-3v5h2a1 1 0 001-1z\"/>", "hom-nay.html": "<circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4\"/>", "tac-gia.html": "<circle cx=\"9\" cy=\"8\" r=\"3.5\"/><path d=\"M2.5 20a6.5 6.5 0 0113 0M16 4.5a3.5 3.5 0 010 7M18 14a6.5 6.5 0 013.5 6\"/>"};
+TI["moi-tin-chua.html"]=TI["lo-trinh.html"];
 function renderTiles(){var i=st.lang==="vi"?0:1;$("tiles").innerHTML="";
-  var P=[["lo-trinh.html","Lộ trình đọc","Reading path"],["tieng-viet.html","Sách tiếng Việt","Vietnamese"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"]];
+  var P=[["moi-tin-chua.html","Mới tin Chúa","New believer"],["lo-trinh.html","Lộ trình đọc","Reading path"],["tieng-viet.html","Sách tiếng Việt","Vietnamese"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"]];
   $("nl").innerHTML=P.map(function(m){return'<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");
   var M=[["hom-nay.html","Hôm nay","Today"],["khoa-hoc.html","Học trực tuyến","Online study"],["trich-dan.html","Trích dẫn","Quotes"],["thuat-ngu.html","Thuật ngữ","Glossary"],["doi-song-viet-nam.html","Đời sống Việt Nam","Vietnamese life"],["nhan-bai.html","Nhận bài qua email","Email updates"],["mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch","Góp ý","Feedback"],["feed.xml","RSS","RSS"]];
   $("mx").innerHTML=M.map(function(m){return'<a class="btn" href="'+m[0]+'">'+m[1+i]+'</a>'}).join("")}
