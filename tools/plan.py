@@ -65,9 +65,7 @@ STAGES = [
  ("Giai đoạn 4 · Tháng 8–12 · Giáo lý Cải Chánh sâu hơn", "Bây giờ đọc các tuyên xưng đức tin và những lập luận kinh điển.", [
    ("x","westminster","Tuyên xưng đức tin Westminster (1646): sách tham khảo chính."),
    ("x","vn-dordt","Giáo luật Dordt (1619): nguồn gốc của năm điểm Calvin, bằng tiếng Việt."),
-   ("x","vn-belgic","Xưng nhận đức tin Belgic (tiếng Việt)."),
    ("x","vn-baptist1689","Giáo lý Baptist 1689 (tiếng Việt), dành cho truyền thống Báp-tít Cải Chánh."),
-   ("x","vn-philadelphia","Tuyên xưng Philadelphia 1742 (tiếng Việt)."),
    ("c","berkhof/summary","Tóm lược giáo lý Cải Chánh của Berkhof; đọc cạnh các tuyên xưng."),
    ("c","owen/deathofdeath","Owen về sự chuộc tội (khó)."),
    ("c","edwards/will","Edwards về ý chí con người (khó)."),
@@ -91,7 +89,7 @@ STAGES = [
 ]
 
 TRACKS = [
- ("Năm Sola của Cải Chánh", "Chỉ bởi Kinh Thánh, chỉ bởi ân điển, chỉ bởi đức tin, chỉ trong Đấng Christ, chỉ vì vinh hiển Đức Chúa Trời.", [("x","vn-cambridge","Tuyên ngôn Cambridge (tiếng Việt)"),("x","vn-wsc","Giáo lý Vắn tắt Westminster")]),
+ ("Năm Sola của Cải Chánh", "Chỉ bởi Kinh Thánh, chỉ bởi ân điển, chỉ bởi đức tin, chỉ trong Đấng Christ, chỉ vì vinh hiển Đức Chúa Trời.", [("x","vn-wsc","Giáo lý Vắn tắt Westminster")]),
  ("Giáo lý ân điển (năm điểm Calvin)", "Đọc Giáo luật Dordt trước, rồi các sách giải thích. Hãy luôn đối chiếu với Kinh Thánh.", [("x","vn-dordt","Giáo luật Dordt"),("c","owen/deathofdeath","Owen"),("c","boettner/predest","Boettner")]),
  ("Giao ước và Kinh Thánh", "Xem Tuyên xưng Westminster (chương về giao ước) và Calvin phần Cựu–Tân Ước.", [("x","westminster","Westminster"),("c","calvin/institutes","Calvin")]),
  ("Cầu nguyện và đời sống thuộc linh", "Calvin, Knox, Watson và sách nói.", [("c","calvin/prayer","Calvin"),("c","watson/prayer","Watson: Bài Cầu Nguyện Chúa Dạy"),("c","knox/prayer","Knox"),("m","9m-prayer-su-cau-nguyen","9Marks: Sự cầu nguyện")]),

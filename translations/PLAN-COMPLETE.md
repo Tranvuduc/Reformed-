@@ -19,3 +19,6 @@
 1. Mỗi sách đăng phải đủ cả cuốn, hoặc ghi rõ "chọn lọc" ở tựa đề.
 2. Không dùng bìa sách.
 3. Nhãn "AI, chưa duyệt" giữ đến khi mục sư duyệt từng sách.
+
+## Tín điều tiếng Việt cần thay link chết (2 tháng 10)
+Các bản tiếng Việt của Belgic, Athanasius (host cũ cprf.co.uk đã 404) và Philadelphia 1742, Cambridge 1996 (doanhatan.com không còn trang) đã bị gỡ khỏi danh mục. Belgic và Athanasius thuộc phạm vi công cộng, có thể nhờ Claude dịch và đăng ở /ban-dich/ (chưa duyệt). Philadelphia và Cambridge cần tìm nguồn tiếng Việt mới hoặc dịch.
