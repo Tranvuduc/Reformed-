@@ -2,7 +2,7 @@ const V = "rv-v2";
 const SHELL = ["/", "/index.html", "/style.css", "/app.js", "/reader.html", "/favicon.svg", "/manifest.webmanifest", "/lo-trinh.html", "/hom-nay.html"];
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(V).then((c) => Promise.allSettled(SHELL.map((u) => c.add(u)))).then(() => self.skipWaiting())); });
 self.addEventListener("activate", (e) => { e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== V && k !== "rv-books").map((k) => caches.delete(k)))).then(() => self.clients.claim())); });
-const NETONLY = /\/api\/(sync|tr)/;
+const NETONLY = /\/api\/(sync|tr|tts)/;
 self.addEventListener("fetch", (e) => {
   const r = e.request;
   if (r.method !== "GET") return;

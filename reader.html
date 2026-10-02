@@ -344,7 +344,7 @@ function speak(){
   var it=queue[qi++];mark(it.k);
   var vv=ls("rv.voice"),lg0=lgOf(it.t);if(!vv&&lg0==="vi"&&!pick("vi"))vv="gtts";
   if(vv==="gtts"){
-    var ga=paudio;ga.src="https://translate.googleapis.com/translate_tts?ie=UTF-8&client=gtx&tl="+lg0+"&q="+encodeURIComponent(it.t.slice(0,200));ga.playbackRate=+$("sp").value;
+    var ga=paudio;ga.src="api/tts?tl="+lg0+"&q="+encodeURIComponent(it.t.slice(0,200));ga.playbackRate=+$("sp").value;
     ga.onended=function(){gfail=0;speak()};ga.onerror=function(){if(!playing)return;if(++gfail>=2){gfail=0;ls("rv.voice","");$("vo").value="";alert(L.gfail);stopA();return}qi=Math.max(0,qi-1);setTimeout(speak,500)};
     ga.play().catch(function(){});return;
   }
