@@ -37,7 +37,9 @@
   "author": "John Owen",
   "by": "Claude",
   "reviewed": false,
-  "note": "Đây mới là phần đầu của sách; các chương còn lại sẽ được đăng sau."
+  "note": "Đây mới là phần đầu của sách; các chương còn lại sẽ được đăng sau.",
+  "hold": true,
+  "hold_reason": "Chưa trọn sách: sẽ đăng lại khi dịch đủ."
  },
  {
   "id": "calvin/prayer",
@@ -75,7 +77,9 @@
   "author": "Thomas Watson",
   "by": "Claude",
   "reviewed": false,
-  "note": "Chương 5 chưa đầy đủ vì nguồn bản gốc bị lỗi; sẽ bổ sung khi có nguồn tốt."
+  "note": "Chương 5 chưa đầy đủ vì nguồn bản gốc bị lỗi; sẽ bổ sung khi có nguồn tốt.",
+  "hold": true,
+  "hold_reason": "Chưa trọn sách: sẽ đăng lại khi dịch đủ."
  },
  {
   "id": "david/chua-khong-hua-giau-co",
@@ -260,7 +264,7 @@
  {
   "id": "david/nam-solas-song-ngu",
   "file": "sach-19-nam-solas-song-ngu.txt",
-  "title": "Năm solas song ngữ",
+  "title": "Năm Solas song ngữ",
   "orig": "",
   "author": "David",
   "by": "Claude",
@@ -280,7 +284,7 @@
  {
   "id": "david/kinh-thanh-va-nghe-nghiep",
   "file": "sach-21-kinh-thanh-va-nghe-nghiep.txt",
-  "title": "Kinh thánh và nghề nghiệp",
+  "title": "Kinh Thánh và nghề nghiệp",
   "orig": "",
   "author": "David",
   "by": "Claude",

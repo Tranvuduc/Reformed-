@@ -3,7 +3,7 @@
 
 For every book listed in BOOKS below this script:
   1. builds an in-site reading page doc/<slug>.html from the EPUB's chapters,
-  2. extracts the cover to sach/<slug>.jpg,
+  2. (no cover images: covers were removed),
   3. upserts a catalog entry "rv-<slug>" at the top of mg.json["vn"]
      (url = reading page, epub = download), so the library app shows it.
 
@@ -111,7 +111,6 @@ def main():
     for slug, (author, year, ty, col, en_t, vi_d, en_d) in BOOKS.items():
         epub = f"sach/{slug}.epub"
         z, chs = chapters(epub)
-        open(f"sach/{slug}.jpg", "wb").write(z.read("OEBPS/cover.jpg"))
         opf = z.read("OEBPS/content.opf").decode()
         vi_t = re.search(r"<dc:title>([^<]+)</dc:title>", opf).group(1)
         toc = "".join(f'<li><a href="#{sid}">{E(t)}</a></li>' for sid, t, _ in chs if sid != "colophon")
@@ -122,13 +121,12 @@ def main():
         mail = f"mailto:{EMAIL}?subject=" + E(f"Góp ý bản dịch: {vi_t}")
         ld = {"@context": "https://schema.org", "@type": "Book", "name": vi_t, "inLanguage": "vi",
               "author": {"@type": "Person", "name": author}, "translationOfWork": {"@type": "Book", "name": en_t},
-              "url": url, "image": f"{SITE}/sach/{slug}.jpg", "isAccessibleForFree": True}
+              "url": url, "isAccessibleForFree": True}
         page = f"""<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(vi_d)}"><link rel="canonical" href="{url}">
-<meta property="og:type" content="book"><meta property="og:title" content="{E(vi_t)} – {E(author)}"><meta property="og:description" content="{E(vi_d)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{SITE}/sach/{slug}.jpg"><meta name="twitter:card" content="summary_large_image">
+<meta property="og:type" content="book"><meta property="og:title" content="{E(vi_t)} – {E(author)}"><meta property="og:description" content="{E(vi_d)}"><meta property="og:url" content="{url}"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">{FONT}<style>{CSS}</style><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head><body><main id="top">
 <nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tieng-viet.html">Sách tiếng Việt</a> · <a href="/tac-gia.html">Tác giả</a></nav>
-<div class="hero"><img src="/sach/{slug}.jpg" alt="Bìa sách {E(vi_t)}" width="360" height="540"></div>
 <h1>{E(vi_t)}</h1><p class="m">{E(author)} · {year} · Nguyên tác: <i>{E(en_t)}</i></p>
 <div class="acts"><a class="btn" href="/sach/{slug}.epub" download>⬇ Tải EPUB</a><a class="btn s" href="#{chs[0][0]}">Đọc ngay</a></div>
 <p class="warn">Bản dịch tiếng Việt của Reformed Vietnam từ nguyên tác thuộc phạm vi công cộng. Đây là bản dịch sơ thảo, chưa được hiệu đính. Thấy lỗi? <a href="{mail}">Góp ý bản dịch</a>.</p>
