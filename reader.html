@@ -81,8 +81,8 @@ function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorag
 function esc(s){return String(s).replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})}
 function fold(s){return String(s).toLowerCase().replace(/đ/g,"d").normalize("NFD").replace(/[̀-ͯ]/g,"")}
 var lang=ls("rv.lang")==="en"?"en":"vi";
-var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Chưa có dấu trang.",nores:"Không tìm thấy.",epub:"Tải EPUB",pdf:"In / lưu PDF cả cuốn",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Bản dịch máy, không có thẩm quyền: thuật ngữ giáo lý có thể sai. Hãy đối chiếu bản gốc và Kinh Thánh, và hỏi mục sư.",trf:"Không dịch được lúc này. Hãy thử lại sau.",fail:"Không tải được sách ở đây.",open:"Mở trên CCEL",nov:"Thiết bị không có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",pfail:"Không tải được giọng Piper. Dùng giọng của thiết bị.",res:"kết quả",del:"Xóa",rep:"Báo lỗi dịch trang này",bible:"Kinh Thánh Tiếng Việt 1934 (phạm vi công cộng) · getBible",bfail:"Không tải được đoạn Kinh Thánh.",hl:"Tô sáng và ghi chú",nohl:"Chọn đoạn văn bản để tô sáng hoặc ghi chú.",note:"Ghi chú",save:"Lưu",cancel:"Hủy",cp:"Sao chép (Markdown)",dl:"Tải về (.md)",cpd:"Đã chép"},
- en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation, not authoritative: doctrinal terms may be wrong. Check the original, Scripture and your pastor.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error",bible:"Vietnamese Bible 1934 (public domain) · getBible",bfail:"Could not load the passage.",hl:"Highlights and notes",nohl:"Select text to highlight or add a note.",note:"Note",save:"Save",cancel:"Cancel",cp:"Copy (Markdown)",dl:"Download (.md)",cpd:"Copied"}}[lang];
+var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Chưa có dấu trang.",nores:"Không tìm thấy.",epub:"Tải EPUB",pdf:"In / lưu PDF cả cuốn",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Bản dịch máy, không có thẩm quyền: thuật ngữ giáo lý có thể sai. Hãy đối chiếu bản gốc và Kinh Thánh, và hỏi mục sư.",trf:"Không dịch được lúc này. Hãy thử lại sau.",fail:"Không tải được sách ở đây.",open:"Mở trên CCEL",nov:"Thiết bị không có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",gt:"🌐 Giọng Google (nhanh, cần mạng)",novi:"— Máy chưa có giọng tiếng Việt —",pload:"Đang tải giọng Piper lần đầu (~60MB), vui lòng chờ…",gfail:"Không phát được giọng Google. Dùng giọng của thiết bị.",pfail:"Không tải được giọng Piper. Dùng giọng của thiết bị.",res:"kết quả",del:"Xóa",rep:"Báo lỗi dịch trang này",bible:"Kinh Thánh Tiếng Việt 1934 (phạm vi công cộng) · getBible",bfail:"Không tải được đoạn Kinh Thánh.",hl:"Tô sáng và ghi chú",nohl:"Chọn đoạn văn bản để tô sáng hoặc ghi chú.",note:"Ghi chú",save:"Lưu",cancel:"Hủy",cp:"Sao chép (Markdown)",dl:"Tải về (.md)",cpd:"Đã chép"},
+ en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation, not authoritative: doctrinal terms may be wrong. Check the original, Scripture and your pastor.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",gt:"🌐 Google voice (fast, needs internet)",novi:"— No Vietnamese voice on this device —",pload:"Downloading the Piper voice for the first time (~60MB)…",gfail:"Google voice failed. Using the device voice.",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error",bible:"Vietnamese Bible 1934 (public domain) · getBible",bfail:"Could not load the passage.",hl:"Highlights and notes",nohl:"Select text to highlight or add a note.",note:"Note",save:"Save",cancel:"Cancel",cp:"Copy (Markdown)",dl:"Download (.md)",cpd:"Copied"}}[lang];
 var name=id.split("/")[1]||"",PAGE=4200,SV=id.indexOf("vn/")===0,pid=q.get("pid")||id;
 $("ttl").textContent=name;document.title=name+" · Reformed Vietnam";$("back").textContent="← "+L.lib;
 var ext=SV?"/":"https://ccel.org/ccel/"+id+"/"+name;
@@ -311,14 +311,14 @@ $("tr").title=L.trans;
 
 /* ---------- listen (device voice or Piper) ---------- */
 var playing=false,paused=false,queue=[],qi=0,VOICES=[],keep=null,sleepT=null;
-function chunks(t){var out=[];t.replace(/\s+/g," ").split(/(?<=[.!?;:])\s+/).forEach(function(x){while(x.length>220){var k=x.lastIndexOf(" ",220);if(k<80)k=220;out.push(x.slice(0,k));x=x.slice(k)}if(x.trim())out.push(x)});return out}
+function chunks(t){var out=[];t.replace(/\s+/g," ").split(/(?<=[.!?;:])\s+/).forEach(function(x){while(x.length>190){var k=x.lastIndexOf(" ",190);if(k<80)k=190;out.push(x.slice(0,k));x=x.slice(k)}if(x.trim())out.push(x)});return out}
 var VI=/[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 function lgOf(t){return VI.test(t)?"vi":"en"}
 function score(v){var n=v.name,s=0;if(/natural|neural/i.test(n))s+=50;if(/online/i.test(n))s+=30;if(/google/i.test(n))s+=20;if(/siri|premium|enhanced/i.test(n))s+=25;if(/compact|espeak/i.test(n))s-=20;if(!v.localService)s+=5;return s}
 function loadVoices(){
   var all=window.speechSynthesis?speechSynthesis.getVoices():[];
   VOICES=all.filter(function(v){return/^(en|vi)/i.test(v.lang)}).sort(function(a,b){return score(b)-score(a)});
-  var sel=$("vo"),kv=ls("rv.voice")||"";sel.innerHTML='<option value="">Auto</option><option value="piper">'+L.piper+"</option>";
+  var sel=$("vo"),kv=ls("rv.voice")||"";sel.innerHTML='<option value="">Auto</option><option value="gtts">'+L.gt+'</option><option value="piper">'+L.piper+"</option>"+(VOICES.some(function(v){return/^vi/i.test(v.lang)})?"":'<option disabled>'+L.novi+"</option>");
   VOICES.forEach(function(v){var o=document.createElement("option");o.value=v.name;o.textContent=v.name.replace(/^Microsoft |^Google /,"")+" ("+v.lang+")";sel.appendChild(o)});
   sel.value=kv;if(sel.value!==kv)sel.value="";
 }
@@ -328,9 +328,9 @@ function pick(lg){
   if(lg==="en"){var us=p.filter(function(v){return/^en[-_](us|gb)/i.test(v.lang)});if(us.length)return us[0]}
   return p[0]||null;
 }
-var PV={en:"en_US-lessac-medium",vi:"vi_VN-vais1000-medium"},pmod=null,pc={},paudio=new Audio(),pfail=0;
+var gfail=0,PV={en:"en_US-lessac-medium",vi:"vi_VN-vais1000-medium"},pmod=null,pprog=0,pready=0,pc={},paudio=new Audio(),pfail=0;
 function pLoad(){return pmod||(pmod=import("https://cdn.jsdelivr.net/npm/@mintplex-labs/piper-tts-web@1.0.4/+esm"))}
-function pSynth(t){var lg=lgOf(t),k=lg+t;if(!pc[k]){var ks=Object.keys(pc);if(ks.length>6)delete pc[ks[0]];pc[k]=pLoad().then(function(m){return m.predict({text:t,voiceId:PV[lg]})})}return pc[k]}
+function pSynth(t){var lg=lgOf(t),k=lg+t;if(!pc[k]){var ks=Object.keys(pc);if(ks.length>6)delete pc[ks[0]];pc[k]=pLoad().then(function(m){return m.predict({text:t,voiceId:PV[lg]},function(p){if(p&&p.total&&!pready)pprog=Math.round(p.loaded/p.total*100);if(p&&p.total&&p.loaded>=p.total)pready=1})})}return pc[k]}
 function mark(k){[].forEach.call($("txt").querySelectorAll(".rd"),function(e){e.classList.remove("rd")});var el=$("txt").querySelector('[data-k="'+k+'"]');if(el){el.classList.add("rd");var r=el.getBoundingClientRect();if(r.top<80||r.bottom>innerHeight-160)el.scrollIntoView({block:"center",behavior:"smooth"})}}
 async function buildQueue(startK){
   var texts=ptexts(cur);
@@ -342,8 +342,14 @@ function speak(){
   if(!playing||paused)return;
   if(qi>=queue.length){if(cur<pages.length-1){render(cur+1);buildQueue(0).then(function(){if(playing)speak()})}else stopA();return}
   var it=queue[qi++];mark(it.k);
-  if(ls("rv.voice")==="piper"){
-    $("pt").textContent="…";
+  var vv=ls("rv.voice"),lg0=lgOf(it.t);if(!vv&&lg0==="vi"&&!pick("vi"))vv="gtts";
+  if(vv==="gtts"){
+    var ga=paudio;ga.src="https://translate.googleapis.com/translate_tts?ie=UTF-8&client=gtx&tl="+lg0+"&q="+encodeURIComponent(it.t.slice(0,200));ga.playbackRate=+$("sp").value;
+    ga.onended=function(){gfail=0;speak()};ga.onerror=function(){if(!playing)return;if(++gfail>=2){gfail=0;ls("rv.voice","");$("vo").value="";alert(L.gfail);stopA();return}qi=Math.max(0,qi-1);setTimeout(speak,500)};
+    ga.play().catch(function(){});return;
+  }
+  if(vv==="piper"){
+    $("pt").textContent=pready?"…":(pprog?pprog+"%":"…");if(!pready){$("pt").title=L.pload;var pi=setInterval(function(){if(pready||!playing){clearInterval(pi);return}$("pt").textContent=pprog?pprog+"%":"…"},500)}
     var nx=queue[qi];if(nx)pSynth(nx.t).catch(function(){});
     pSynth(it.t).then(function(b){if(!playing||paused)return;$("pt").textContent="⏸";var u=URL.createObjectURL(b);paudio.src=u;paudio.playbackRate=+$("sp").value;paudio.onended=function(){URL.revokeObjectURL(u);speak()};paudio.onerror=function(){URL.revokeObjectURL(u);speak()};return paudio.play()})
      .catch(function(){if(!playing)return;if(++pfail>=2){ls("rv.voice","");$("vo").value="";alert(L.pfail);qi=Math.max(0,qi-1);speak()}else{pc={};qi=Math.max(0,qi-1);setTimeout(speak,800)}});
@@ -356,8 +362,8 @@ function speak(){
 }
 function cancelSpeech(){try{speechSynthesis.cancel()}catch(e){}try{paudio.pause()}catch(e){}}
 function startA(){
-  if(!window.speechSynthesis&&ls("rv.voice")!=="piper"){alert(L.nov);return}
-  pfail=0;playing=true;paused=false;$("pl").classList.add("on");$("au").classList.add("on");$("pt").textContent="⏸";sizeFoot();
+  if(!window.speechSynthesis&&ls("rv.voice")!=="piper"&&ls("rv.voice")!=="gtts"){alert(L.nov);return}
+  pfail=0;gfail=0;playing=true;paused=false;$("pl").classList.add("on");$("au").classList.add("on");$("pt").textContent="⏸";sizeFoot();
   cancelSpeech();loadVoices();
   buildQueue(firstVisibleK()).then(function(){speak()});
   clearInterval(keep);keep=setInterval(function(){if(playing&&!paused&&window.speechSynthesis&&speechSynthesis.speaking&&!speechSynthesis.paused&&ls("rv.voice")!=="piper"){speechSynthesis.pause();speechSynthesis.resume()}},12000);
@@ -379,7 +385,7 @@ function jump(d){
 $("au").onclick=function(){if(playing||$("pl").classList.contains("on"))stopA();else startA()};
 $("pt").onclick=pauseToggle;$("px").onclick=function(){stopA()};
 $("pp").onclick=function(){jump(-1)};$("pn2").onclick=function(){jump(1)};
-$("sp").onchange=function(){if(ls("rv.voice")==="piper"){paudio.playbackRate=+$("sp").value;return}if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speak()}};
+$("sp").onchange=function(){if(ls("rv.voice")==="piper"||ls("rv.voice")==="gtts"||(!ls("rv.voice")&&paudio.src&&!paudio.paused)){paudio.playbackRate=+$("sp").value;return}if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speak()}};
 $("vo").onchange=function(){ls("rv.voice",$("vo").value);if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speak()}};
 $("stm").onchange=function(){clearTimeout(sleepT);var m=+$("stm").value;if(m)sleepT=setTimeout(function(){stopA();$("stm").value="0"},m*60000)};
 if(window.speechSynthesis){loadVoices();speechSynthesis.onvoiceschanged=loadVoices}else loadVoices();
