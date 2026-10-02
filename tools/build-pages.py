@@ -152,6 +152,7 @@ for _f in _g.glob("b/*.html"):
 print("pages:", len(urls), "book pages:", count_b, "author pages:", sum(1 for a in authors.values() if "path" in a))
 exec(open('tools/moi_tin.py', encoding='utf-8').read())
 exec(open('tools/pillars.py', encoding='utf-8').read())
+exec(open('tools/authors_plus.py', encoding='utf-8').read())
 exec(open('tools/reformed101.py', encoding='utf-8').read())
 exec(open('tools/static_txt.py', encoding='utf-8').read())
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
