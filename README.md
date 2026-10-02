@@ -3,7 +3,7 @@ Static site + two Vercel functions. Catalog: books.json (CCEL), mg.json (Monergi
 - api/sync.js: cross-device progress sync by secret code (Vercel Blob, env BLOB_READ_WRITE_TOKEN)
 - api/text.js: serves CCEL plain text for reader.html
 - about.html: set CONTACT to show a takedown email
-Deploy: push to a Git-connected Vercel project, or use the Vercel CLI.
+- Deploy: push to a Git-connected Vercel project, or use the Vercel CLI.
 
 ## Handoff brief
 Static site "Reformed Vietnam" (free Reformed ebook library), live at https://reformed-vietnam.vercel.app (Vercel Hobby).
@@ -11,10 +11,16 @@ Static site "Reformed Vietnam" (free Reformed ebook library), live at https://re
 - reader.html: in-site reader. about.html: About + takedown (set `CONTACT` for an email).
 - books.json, mg.json, vi.json (Vietnamese titles keyed "author/slug"), desc.json (descriptions + start list).
 - api/text.js proxies CCEL plain text (`ccel.org/ccel/{letter}/{author}/{slug}/cache/{slug}.txt`); api/sync.js syncs by secret code via private Vercel Blob.
-Open items: contact email, more books, real audio, licensing check, type-label fixes.
-Deploy: connect this repo in Vercel (Settings -> Git) so each push deploys.
+- Open items: contact email, more books, real audio, licensing check, type-label fixes.
+- Deploy: connect this repo in Vercel (Settings -> Git) so each push deploys.
+
+## Developer quick guide
+
+For local development and future maintenance, see [docs/DEVELOPER.md](docs/DEVELOPER.md).
+
+This repo is intentionally lightweight and static, but the main app logic is concentrated in `app.js`. The next cleanup step is to split that file into smaller modules and centralize state/constants to make the app easier to maintain safely.
 
 _Auto-deploy test: 2026-09-30_
 
 ## Our own Vietnamese translations
-EPUBs live in `sach/<slug>.epub`. `python3 tools/build-vn-books.py` builds the reading page `doc/<slug>.html`, extracts the cover `sach/<slug>.jpg`, and adds an `rv-<slug>` entry to the top of `mg.json` → `vn`. Then run `python3 tools/build-pages.py` to refresh `tieng-viet.html`, topic pages and `sitemap.xml`. To add a book: drop the EPUB in `sach/` and add one line to `BOOKS` in the script.
+EPUBs live in `sach/<slug>.epub`. `python3 tools/build-vn-books.py` builds the reading page `doc/<slug>.html`, extracts the cover `sach/<slug>.jpg`, and adds an `rv-<slug>` entry to the top of `mg.json`.
