@@ -98,6 +98,16 @@
   "original": true
  },
  {
+  "id": "david/an-dien-trong-nuoc-mat",
+  "file": "sach-03-an-dien-trong-nuoc-mat.txt",
+  "title": "Ân điển trong nước mắt",
+  "orig": "",
+  "author": "David",
+  "by": "Claude",
+  "reviewed": false,
+  "original": true
+ },
+ {
   "id": "david/hieu-thao-theo-kinh-thanh",
   "file": "sach-04-hieu-thao-theo-kinh-thanh.txt",
   "title": "Hiếu thảo theo Kinh Thánh",
@@ -278,9 +288,39 @@
   "original": true
  },
  {
+  "id": "david/an-ui-tu-thanh-vinh",
+  "file": "sach-22-an-ui-tu-thanh-vinh.txt",
+  "title": "An ủi từ thánh vịnh",
+  "orig": "",
+  "author": "David",
+  "by": "Claude",
+  "reviewed": false,
+  "original": true
+ },
+ {
   "id": "david/khi-nao-can-gap-bac-si-va-vai-tro-cua-hoi-thanh",
   "file": "sach-23-khi-nao-can-gap-bac-si-va-vai-tro-cua-hoi-thanh.txt",
   "title": "Khi nào cần gặp bác sĩ và vai trò của Hội Thánh",
+  "orig": "",
+  "author": "David",
+  "by": "Claude",
+  "reviewed": false,
+  "original": true
+ },
+ {
+  "id": "david/nam-solas-cho-nguoi-viet",
+  "file": "sach-24-nam-solas-cho-nguoi-viet.txt",
+  "title": "Năm solas cho người Việt",
+  "orig": "",
+  "author": "David",
+  "by": "Claude",
+  "reviewed": false,
+  "original": true
+ },
+ {
+  "id": "david/giao-uoc-duc-chua-troi-giu-loi-hua",
+  "file": "sach-25-giao-uoc-duc-chua-troi-giu-loi-hua.txt",
+  "title": "Giao ước: đức Chúa trời giữ lời hứa",
   "orig": "",
   "author": "David",
   "by": "Claude",
