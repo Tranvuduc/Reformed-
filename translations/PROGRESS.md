@@ -4,7 +4,7 @@
 - [ ] not started | [~] in progress (worker) | [T] translated, awaiting QA
 - [Q] QA done | [I] integrated (ban-dich + txt + vi-books.json) | [D] deployed
 
-## Priority 1 (30)
+## Priority 1 (30) — 19 deployed, 1 on hold
 - [D] flavel/christlovely — Đấng Christ Đáng Yêu Trọn Vẹn (6k) — DEPLOYED 2026-10-07
 - [T] knox/prayer — Luận Về Sự Cầu Nguyện (11k) — translated, HOLD (copyright check)
 - [~] spurgeon/grace — Tất Cả Bởi Ân Điển (31k) — ME, 19% done (paused for coordination)
