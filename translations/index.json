@@ -738,5 +738,14 @@
   "author": "Westminster Assembly",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "creeds/heidelberg",
+  "file": "heidelberg.txt",
+  "title": "Giáo Lý Heidelberg",
+  "orig": "Heidelberg Catechism",
+  "author": "Zacharius Ursinus",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
