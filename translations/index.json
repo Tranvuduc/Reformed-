@@ -486,5 +486,14 @@
   "author": "John Flavel",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "baxter/pastor",
+  "file": "baxter-pastor.txt",
+  "title": "Người Chăn Bầy Cải Chánh",
+  "orig": "The Reformed Pastor",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
