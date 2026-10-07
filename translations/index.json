@@ -495,5 +495,14 @@
   "author": "Richard Baxter",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "berkhof/summary",
+  "file": "berkhof-summary.txt",
+  "title": "Tóm Tắt Giáo Lý Cơ Đốc",
+  "orig": "Summary of Christian Doctrine",
+  "author": "Louis Berkhof",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
