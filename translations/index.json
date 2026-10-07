@@ -1044,5 +1044,14 @@
   "author": "Thomas Watson",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "edwards/affections",
+  "file": "edwards-affections.txt",
+  "title": "Các Cảm Xúc Thuộc Linh",
+  "orig": "A Treatise Concerning Religious Affections",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
