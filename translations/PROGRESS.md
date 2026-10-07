@@ -15,7 +15,7 @@
 - [D] charnock/cleansing — Quyền Năng Tẩy Sạch Của Huyết Đấng Christ (28k) — DEPLOYED 2026-10-07
 - [D] owen/mort — Giết Chết Tội Lỗi (56k, full, replaces partial) — DEPLOYED 2026-10-07
 - [D] owen/temptation — Về Sự Cám Dỗ (42k) — DEPLOYED 2026-10-07
-- [~] watson/contentment — Thỏa Lòng (43k) — worker
+- [D] watson/contentment — Nghệ Thuật Sống Thỏa Lòng (49k, full, replaces partial) — DEPLOYED 2026-10-07
 - [D] bunyan/grace — Ân Điển Dư Dật (53k) — DEPLOYED 2026-10-07
 - [ ] charnock/nec_regen — Tái Sinh (57k)
 - [ ] bonar/rentveil — Bức Màn Xé Rách (40k)
