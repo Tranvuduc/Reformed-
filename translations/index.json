@@ -468,5 +468,14 @@
   "author": "Stephen Charnock",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "rutherford/letters",
+  "file": "rutherford-letters.txt",
+  "title": "Tuyển Thư Rutherford",
+  "orig": "Selection from His Letters",
+  "author": "Samuel Rutherford",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
