@@ -31,15 +31,12 @@
  },
  {
   "id": "owen/mort",
-  "file": "owen-mort-p1.txt",
-  "title": "Làm chết tội lỗi (phần 1: lời tựa và chương 1-5)",
-  "orig": "The Mortification of Sin",
+  "file": "owen-mort.txt",
+  "title": "Giết Chết Tội Lỗi",
+  "orig": "Of the Mortification of Sin in Believers",
   "author": "John Owen",
-  "by": "Claude",
-  "reviewed": false,
-  "note": "Đây mới là phần đầu của sách; các chương còn lại sẽ được đăng sau.",
-  "hold": true,
-  "hold_reason": "Chưa trọn sách: sẽ đăng lại khi dịch đủ."
+  "by": "Muse",
+  "reviewed": false
  },
  {
   "id": "calvin/prayer",
@@ -355,6 +352,42 @@
   "title": "Luận Về Sự Xưng Công Chính",
   "orig": "Learned Discourse on Justification",
   "author": "Richard Hooker",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "edwards/treatiseongrace",
+  "file": "edwards-grace.txt",
+  "title": "Luận Về Ân Điển",
+  "orig": "Treatise on Grace",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "baxter/causes",
+  "file": "baxter-causes.txt",
+  "title": "Nguyên Nhân Khinh Lờn Đấng Christ",
+  "orig": "Causes and Danger of Slighting Christ",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "owen/temptation",
+  "file": "owen-temptation.txt",
+  "title": "Về Sự Cám Dỗ",
+  "orig": "Of Temptation",
+  "author": "John Owen",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "bunyan/grace",
+  "file": "bunyan-grace.txt",
+  "title": "Ân Điển Dư Dật",
+  "orig": "Grace Abounding to the Chief of Sinners",
+  "author": "John Bunyan",
   "by": "Muse",
   "reviewed": false
  }

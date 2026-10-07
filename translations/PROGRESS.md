@@ -8,7 +8,7 @@
 - [D] flavel/christlovely — Đấng Christ Đáng Yêu Trọn Vẹn (6k) — DEPLOYED 2026-10-07
 - [T] knox/prayer — Luận Về Sự Cầu Nguyện (11k) — translated, HOLD (copyright check)
 - [~] spurgeon/grace — Tất Cả Bởi Ân Điển (31k) — ME, 19% done (paused for coordination)
-- [~] hooker/just — Luận Về Sự Xưng Công Chính (23k) — worker
+- [D] hooker/just — Luận Về Sự Xưng Công Chính (26k) — DEPLOYED 2026-10-07
 - [~] edwards/treatiseongrace — Luận Về Ân Điển (23k) — worker
 - [~] baxter/causes — Nguyên Nhân Khinh Lờn (12k) — worker
 - [D] bonar/peace — Con Đường Bình An Của Đức Chúa Trời (38k) — DEPLOYED 2026-10-07
