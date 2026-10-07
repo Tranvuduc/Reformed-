@@ -56,3 +56,6 @@ KẾT LUẬN: 10/10 cuốn CÓ THỂ DỊCH, với điều kiện dịch từ ng
 
 ## HOLD — Kuyper "Các Ngươi Sẽ Làm Những Việc Lớn Hơn" (kuyper/greater) — 2026-10-08
 Bản dịch hoàn tất (44,756 từ, translations/kuyper-greater.txt) nhưng KHÔNG xuất bản. Lý do: văn bản tiếng Anh trên CCEL là bản dịch tiếng Anh có bản quyền của J.H. Boer (Copyright 1991), dịch từ nguyên tác tiếng Hà Lan Pro Rege (1911). Dịch từ bản tiếng Anh này = tác phẩm phái sinh của bản dịch có bản quyền. Nguyên tác tiếng Hà Lan (Kuyper mất 1920) thì public domain, nhưng cần dịch từ tiếng Hà Lan mới hợp lệ. Tạm giữ như trường hợp knox-prayer.
+
+## HOLD — Ryle "The Upper Room" (ryle/upper_room) — 2026-10-08
+Không tìm được nguồn public-domain đầy đủ cho cuốn này (1888). Gutenberg/CCEL không có; archive.org chỉ có 2 bản scan tái bản 1970 (borrow-restricted); Google Books/HathiTrust không truy cập được; gracegems.org chỉ có 5/21 chương; monergism.com có full eBook nhưng thuộc diện cần kiểm tra bản quyền từng cuốn (chưa dùng). Tạm giữ như knox-prayer và kuyper-greater. Sẽ mở lại khi có bản scan 1888 hoặc David duyệt dùng bản monergism.
