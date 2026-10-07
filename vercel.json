@@ -63,6 +63,56 @@
    "source": "/topics",
    "destination": "/chu-de/",
    "permanent": true
+  },
+  {
+   "source": "/a/jean-calvin.html",
+   "destination": "/a/john-calvin.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/1616-1683-owen-john.html",
+   "destination": "/a/john-owen.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/1628-1688-bunyan-john.html",
+   "destination": "/a/john-bunyan.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/theodore-de-beze.html",
+   "destination": "/a/theodore-beza.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/b-b-warfield.html",
+   "destination": "/a/benjamin-warfield.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/benjamin-palmer.html",
+   "destination": "/a/benjamin-morgan-palmer.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/saint-bishop-of-hippo-augustine.html",
+   "destination": "/a/augustine-of-hippo.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/saint-patriarch-of-alexandria-d-373-athanasius.html",
+   "destination": "/a/athanasius-of-alexandria.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/paul-d-1617-baynes.html",
+   "destination": "/a/paul-baynes.html",
+   "permanent": true
+  },
+  {
+   "source": "/a/thomas-d-1632-beard.html",
+   "destination": "/a/thomas-beard.html",
+   "permanent": true
   }
  ]
 }

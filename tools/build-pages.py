@@ -70,8 +70,24 @@ for au in books["authors"]:
     k = slug(au["name"]); a = authors.setdefault(k, {"name": au["name"], "ccel": [], "ia": [], "id": au["id"]})
     for b in au["books"]:
         a["ccel"].append((f'{au["id"]}/{b[0]}', b[1], b[2] if len(b) > 2 else 0))
+# Normalize duplicate/malformed Internet Archive author names to canonical forms.
+# Without this, "Jean Calvin" vs "John Calvin", dated variants like
+# "1616-1683 Owen, John", and authority strings like "Saint, Bishop of Hippo
+# Augustine" each become separate author pages.
+AUTHOR_ALIASES = {
+    "Jean Calvin": "John Calvin",
+    "1616-1683 Owen, John": "John Owen",
+    "1628-1688 Bunyan, John": "John Bunyan",
+    "Théodore de Bèze": "Theodore Beza",
+    "B. B. Warfield": "Benjamin Warfield",
+    "Benjamin Palmer": "Benjamin Morgan Palmer",
+    "Saint, Bishop of Hippo Augustine": "Augustine of Hippo",
+    "Saint, Patriarch of Alexandria, d. 373 Athanasius": "Athanasius of Alexandria",
+    "Paul, d. 1617 Baynes": "Paul Baynes",
+    "Thomas, d. 1632 Beard": "Thomas Beard",
+}
 for r in ia["b"]:
-    nm = ia["a"][r[0]]; k = slug(nm)
+    nm = AUTHOR_ALIASES.get(ia["a"][r[0]], ia["a"][r[0]]); k = slug(nm)
     a = authors.setdefault(k, {"name": nm, "ccel": [], "ia": [], "id": ""})
     a["ia"].append(r)
 import re as _re
@@ -123,6 +139,19 @@ for k, a in authors.items():
     ld = {"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{a['name']} – sách miễn phí", "inLanguage": "vi", "url": f"{SITE}/{path}"}
     open(path, "w", encoding="utf-8").write(page(f"{a['name']} – sách miễn phí, đọc và tải | Reformed Vietnam", intro, path, body, ld)); urls.append(path); a["path"] = path
 
+# redirect pages for merged/renamed author slugs (old bookmarks, search engines)
+for _alias, _canon in AUTHOR_ALIASES.items():
+    _ak, _ck = slug(_alias), slug(_canon)
+    if _ak != _ck and _ck in authors and "path" in authors[_ck]:
+        _cn = authors[_ck]["name"]
+        open(f"a/{_ak}.html", "w", encoding="utf-8").write(
+            '<!doctype html><html lang="vi"><head><meta charset="utf-8">\n'
+            f'<title>{E(_cn)} – Reformed Vietnam</title>\n'
+            f'<link rel="canonical" href="{SITE}/a/{_ck}.html">\n'
+            f'<meta http-equiv="refresh" content="0; url=/a/{_ck}.html">\n'
+            '<meta name="robots" content="noindex">\n'
+            f'</head><body><p>Trang này đã chuyển đến <a href="/a/{_ck}.html">{E(_cn)}</a>.</p></body></html>\n')
+
 # author index
 lis = "".join(f'<li><a href="/{a["path"]}">{E(a["name"])}</a> <small>({len(a["ccel"]) + len(a["ia"])})</small></li>' for a in sorted(authors.values(), key=lambda x: x["name"]) if "path" in a)
 open("tac-gia.html", "w", encoding="utf-8").write(page("Tác giả Cải Chánh và Thanh giáo – sách miễn phí | Reformed Vietnam",
@@ -165,7 +194,7 @@ exec(open('tools/subscribe_page.py', encoding='utf-8').read())
 exec(open('tools/vi_books.py', encoding='utf-8').read())
 
 # shared home image; author pages without a bio share it instead of getting their own file
-_h = og_image("", "Thư Viện Cơ Đốc & Thần Học Cải Chánh Tiếng Việt", "Sách Cải Chánh miễn phí: đọc, nghe, tải. Từng bước nhỏ, từ Tin Lành đến một đời sống theo Chúa.")
+_h = og_image("", "Thư Viện Cơ Đốc & Thần Học Cải Chánh Tiếng Việt", "Sách Cải Chánh miễn phí: đọc, nghe, tải. Từng bước nhỏ, từ Phúc Âm đến một đời sống theo Chúa.")
 os.replace(_h, "og.jpg")
 for _fn in os.listdir("a"):
     _pp = f"a/{_fn}"; _t = open(_pp, encoding="utf-8").read()

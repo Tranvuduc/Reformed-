@@ -1,7 +1,7 @@
 # Executed from build-pages.py after book pages exist. Adds "Về cuốn sách" card (level, audience, topics, where to start). Draft, AI-assisted, not pastor-reviewed.
 _BI = {
  "bavinck-revelation": (3, "Sinh viên thần học, người quen đọc triết học", "Mặc khải, nhận thức, thần học nền tảng", "Hãy đọc Reformed Dogmatics hoặc một tóm lược trước nếu bạn mới."),
- "baxter-causes": (2, "Người muốn tự xét lòng mình", "Xem thường Tin Lành, ăn năn", "Đọc từng chương ngắn, mỗi ngày một chương."),
+ "baxter-causes": (2, "Người muốn tự xét lòng mình", "Xem thường Phúc Âm, ăn năn", "Đọc từng chương ngắn, mỗi ngày một chương."),
  "baxter-pastor": (2, "Mục sư và người hầu việc Chúa", "Chức vụ mục sư, chăm sóc con chiên", "Bắt đầu với phần lời kêu gọi mục sư tự xét mình."),
  "baxter-practical": (3, "Người đọc nhiều, muốn tra cứu", "Mục vụ, đời sống đạo, Thanh giáo", "Đây là tuyển tập lớn; hãy chọn từng bài thay vì đọc từ đầu."),
  "baxter-saints-rest": (2, "Tín hữu đang mệt mỏi hoặc đau yếu", "Thiên đàng, sự trông cậy", "Đọc phần mở đầu về sự yên nghỉ đời đời trước."),
@@ -68,7 +68,7 @@ _BI = {
  "rutherford-letters": (1, "Người đang chịu khổ hoặc bị cô lập", "An ủi, tình yêu dành cho Đấng Christ", "Đọc từng thư, mỗi ngày một thư."),
  "rutherford-triumph": (3, "Người đọc nhiều sách Thanh giáo", "Đức tin bị thử thách", "Đọc chậm."),
  "ryle-holiness": (1, "Người mới và người lâu năm", "Nên thánh, chiến đấu thuộc linh", "Chương 'Sự thánh khiết' để bắt đầu."),
- "ryle-matthew": (1, "Người đọc Tin Lành Ma-thi-ơ", "Chú giải Tin Lành Ma-thi-ơ", "Đọc song song với từng đoạn Ma-thi-ơ."),
+ "ryle-matthew": (1, "Người đọc Phúc Âm Ma-thi-ơ", "Chú giải Phúc Âm Ma-thi-ơ", "Đọc song song với từng đoạn Ma-thi-ơ."),
  "schaff-creeds1": (3, "Người học lịch sử giáo lý", "Lịch sử các tín điều", "Dùng để tra cứu."),
  "schaff-creeds3": (3, "Người muốn đọc nguyên văn các tín điều", "Westminster, Heidelberg", "Dùng để tra cứu."),
  "spurgeon-catechism": (1, "Gia đình, nhóm nhỏ, người mới", "Giáo lý vấn đáp", "Học thuộc từng câu hỏi."),

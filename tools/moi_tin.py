@@ -7,7 +7,7 @@ def _bk(slug, label, at=None):
     return (_rd(slug, at), label) if ok else None
 _B = "bonar-followlamb"; _S = "spurgeon-puritan-catechism"; _C = "calvin-chr-life"
 _D = [
- ("Tin Lành là gì?", "1 Cô-rinh-tô 15:1-4", _bk(_B, "Bonar, Theo Chiên Con, mở đầu", "THEO")),
+ ("Phúc Âm là gì?", "1 Cô-rinh-tô 15:1-4", _bk(_B, "Bonar, Theo Chiên Con, mở đầu", "THEO")),
  ("Chúa Giê-xu là ai?", "Giăng 1:1-18", _bk(_S, "Giáo lý Thanh giáo, câu 19-21", "19 H.")),
  ("Tội lỗi là gì?", "Rô-ma 3:9-26", _bk(_S, "Giáo lý Thanh giáo, câu 14-18", "14 H.")),
  ("Ân điển là gì?", "Ê-phê-sô 2:1-10", _bk(_B, "Bonar, chương I: hãy mạnh mẽ trong ân điển", "I. HÃY MẠNH")),
@@ -30,7 +30,7 @@ _D = [
  ("Gia đình còn thờ cúng tổ tiên", "Xuất Ê-díp-tô Ký 20:3-6; Rô-ma 13:7", _bk("sach-05-nguoi-moi-tin-trong-gia-dinh-tho-cung", "David, Người mới tin trong nhà có bàn thờ")),
  ("Khi đau khổ và bệnh tật", "Rô-ma 8:28-39", _bk("sach-02-giop-giua-con-bao", "David, Gióp giữa cơn bão")),
  ("Sợ hãi, lo lắng và bình an", "Phi-líp 4:6-7; Giăng 14:27", _bk("sach-09-so-hai-va-binh-an-duc-tin-so-voi-bua-chu", "David, Sợ hãi và bình an")),
- ("Tiền bạc và Tin Lành thịnh vượng", "Ma-thi-ơ 6:19-24; 1 Ti-mô-thê 6:6-10", _bk("sach-01-chua-khong-hua-giau-co", "David, Chúa không hứa giàu có")),
+ ("Tiền bạc và Phúc Âm thịnh vượng", "Ma-thi-ơ 6:19-24; 1 Ti-mô-thê 6:6-10", _bk("sach-01-chua-khong-hua-giau-co", "David, Chúa không hứa giàu có")),
  ("Làm chứng cho người thân", "Ma-thi-ơ 5:13-16; 1 Phi-e-rơ 3:15", (_rd("compel-them-to-come-in"), "Spurgeon, Hãy ép người ta phải vào")),
  ("Phục vụ trong Hội Thánh", "Rô-ma 12:3-8", ("/doi-song-viet-nam.html", "Theo Chúa trong đời sống Việt Nam")),
  ("Làm việc cho Chúa", "Cô-lô-se 3:23-24", _bk("sach-21-kinh-thanh-va-nghe-nghiep", "David, Kinh Thánh và nghề nghiệp")),

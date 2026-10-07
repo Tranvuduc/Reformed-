@@ -11,7 +11,7 @@ def _score(key, name):
     a = key.split("/")[0]
     return _PRI.index(a) if a in _PRI else 99
 TOPICS = [
- ("an-dien-tin-lanh", "Ân điển và Tin Lành", "Tin Lành là gì, ân điển của Đức Chúa Trời, đức tin và sự ăn năn.", r"\bgrace\b|gospel|good news|faith|repent|saving|salvation|born again|regenerat|new birth", r"ân điển|tin lành|đức tin|ăn năn|cứu rỗi|tái sinh|tái sanh|cứu chuộc"),
+ ("an-dien-tin-lanh", "Ân điển và Phúc Âm", "Phúc Âm là gì, ân điển của Đức Chúa Trời, đức tin và sự ăn năn.", r"\bgrace\b|gospel|good news|faith|repent|saving|salvation|born again|regenerat|new birth", r"ân điển|tin lành|phúc âm|đức tin|ăn năn|cứu rỗi|tái sinh|tái sanh|cứu chuộc"),
  ("xung-cong-binh", "Xưng công bình bởi đức tin", "Giáo lý trung tâm của Cải Chánh: được kể là công chính chỉ nhờ ân điển.", r"justif|righteous|imputed|romans|galatians|bondage of the will|faith alone", r"xưng công bình|công chính|công bình|rô-ma|ga-la-ti"),
  ("nen-thanh", "Nên thánh và đời sống Cơ Đốc", "Lớn lên trong sự thánh khiết, chiến đấu với tội lỗi, học biết bằng lòng và vác thập tự giá.", r"holiness|sanctif|mortif|sin\b|temptation|contentment|christian life|self-denial|pilgrim|godliness|humility", r"nên thánh|thánh khiết|tội lỗi|bằng lòng|đời sống|môn đồ|khiêm nhường"),
  ("ba-ngoi", "Ba Ngôi và Đức Chúa Trời", "Bản tính, các thuộc tính và sự quan phòng của Đức Chúa Trời.", r"trinity|attributes|existence and attributes|nature of god|providence|knowledge of god|holiness of god|god's|names of god", r"ba ngôi|đức chúa trời|thuộc tính|quan phòng"),

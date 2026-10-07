@@ -31,11 +31,11 @@ def item(kind, key, why):
 STAGES = [
  ("Giai đoạn 0 · Tuần 1–2 · Nền tảng cho người mới", "Nếu bạn mới tin Chúa hoặc mới nghe về thần học Cải Chánh, hãy bắt đầu ở đây. Mỗi ngày 15–20 phút.", [
    ("x","vn-apostles","Bản tín điều ngắn nhất của đức tin Cơ Đốc. Đọc chậm, đối chiếu với Kinh Thánh."),
-   ("m","9m-what-is-the-gospel-t","Tin Lành là gì, nói ngắn gọn và rõ ràng (tiếng Việt)."),
+   ("m","9m-what-is-the-gospel-t","Phúc Âm là gì, nói ngắn gọn và rõ ràng (tiếng Việt)."),
    ("m","9m-who-is-jesus-chua-je","Chúa Jesus là ai? Cơ sở của mọi giáo lý khác (tiếng Việt)."),
    ("m","tp-ba-thanh-phan-thiet-yeu-de-doc-kinh-than","Cách đọc Kinh Thánh mỗi ngày (tiếng Việt)."),
    ("c","spurgeon/grace","Spurgeon giải thích ân điển cho người tìm hiểu; ấm áp, dễ đọc."),
-   ("c","bonar/peace","Làm sao có bình an với Đức Chúa Trời, giải thích Tin Lành rõ ràng.")]),
+   ("c","bonar/peace","Làm sao có bình an với Đức Chúa Trời, giải thích Phúc Âm rõ ràng.")]),
  ("Giai đoạn 1 · Tuần 3–10 · Giáo lý căn bản", "Học theo dạng hỏi–đáp: mỗi tuần 3–5 câu, đọc phân đoạn Kinh Thánh kèm theo.", [
    ("x","vn-newcity","Giáo lý vấn đáp hiện đại 52 câu, thích hợp cho gia đình và nhóm nhỏ."),
    ("x","vn-wsc","Giáo lý Vắn tắt Westminster: 107 câu hỏi, cô đọng nhất của truyền thống Cải Chánh."),
@@ -52,7 +52,7 @@ STAGES = [
    ("c","flavel/lovely","Chiêm ngưỡng vẻ đẹp của Đấng Christ."),
    ("c","calvin/chr_life","Calvin về sự từ bỏ mình và vác thập tự."),
    ("c","calvin/prayer","Calvin về sự cầu nguyện."),
-   ("m","dg-god-is-the-gospel","Piper: chính Đức Chúa Trời là món quà lớn nhất của Tin Lành (tiếng Anh)."),
+   ("m","dg-god-is-the-gospel","Piper: chính Đức Chúa Trời là món quà lớn nhất của Phúc Âm (tiếng Anh)."),
    ("c","owen/mort","Owen về việc chiến đấu với tội lỗi (khó hơn, đọc sau cùng trong giai đoạn này).")]),
  ("Giai đoạn 3 · Tháng 5–7 · Hội Thánh, báp-têm và Tiệc Thánh", "Học sống trong cộng đồng đức tin. Rất hợp để học cùng nhóm.", [
    ("m","9m-nine-marks-of-a-heal","Chín dấu hiệu của một Hội Thánh vững mạnh (tiếng Việt)."),
