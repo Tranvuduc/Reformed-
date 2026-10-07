@@ -330,5 +330,14 @@
   "by": "Claude",
   "reviewed": false,
   "original": true
+ },
+ {
+  "id": "flavel/christlovely",
+  "file": "flavel-christlovely.txt",
+  "title": "Đấng Christ Đáng Yêu Trọn Vẹn",
+  "orig": "Christ Altogether Lovely",
+  "author": "John Flavel",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
