@@ -702,5 +702,14 @@
   "author": "John Bunyan",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "schaff/person",
+  "file": "schaff-person.txt",
+  "title": "Nhân Cách Của Đấng Christ",
+  "orig": "The Person of Christ",
+  "author": "Philip Schaff",
+  "by": "Muse",
+  "reviewed": false
  }
 ]

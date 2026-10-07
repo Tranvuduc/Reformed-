@@ -37,3 +37,19 @@
 
 ## Priority 2 (40) — not started
 ## Priority 3 (30) — not started
+
+## Kiểm tra bản quyền 10 sách Monergism (Ưu tiên 1, mục 21–30) — 2026-10-08
+Phát hiện: các ấn bản Monergism Books mang thông báo "All rights reserved... No part of this text may be reproduced... without the express written permission of Monergism Books" (vd: The Bruised Reed ©2018; A Rebuke to Backsliders ghi "Copyright Monergism"). Đây là các ấn bản hiện đại hóa/biên tập — tác phẩm phái sinh có bản quyền.
+KẾT LUẬN: 10/10 cuốn CÓ THỂ DỊCH, với điều kiện dịch từ nguồn public-domain (văn bản gốc, CCEL, Gutenberg, archive.org), KHÔNG dịch từ ấn bản Monergism Books. Bỏ qua lời tựa/giới thiệu của biên tập viên hiện đại nếu có.
+| # | Sách | Tác giả | Tình trạng |
+|---|---|---|---|
+| 21 | Cây Sậy Dập (The Bruised Reed, 1630) | Richard Sibbes (d.1635) | CLEAR — PD, dùng nguồn PD |
+| 22 | Phương Thuốc Quý Chống Mưu Chước Sa-tan (Precious Remedies, 1652) | Thomas Brooks (d.1680) | CLEAR — PD, dùng nguồn PD |
+| 23 | Báu Vật Hiếm: Sự Thỏa Lòng (Rare Jewel, 1648) | Jeremiah Burroughs (d.1646) | CLEAR — PD, dùng nguồn PD |
+| 24 | Sự Kính Sợ Chúa (Fear of God, 1679) | John Bunyan (d.1688) | CLEAR — PD, dùng nguồn PD |
+| 25 | Tiếng Chuông Báo Động (Alarm to the Unconverted, 1671) | Joseph Alleine (d.1668) | CLEAR — PD, dùng nguồn PD |
+| 26 | Thực Hành Sự Tin Kính (Practice of Piety, 1613) | Lewis Bayly (d.1631) | CLEAR — PD, dùng nguồn PD |
+| 27 | Giáo Lý Vấn Đáp Ngắn Westminster (1647) | — | CLEAR — PD |
+| 28 | Giáo Lý Heidelberg (1563) | — | CLEAR — PD |
+| 29 | Lời Quở Trách Kẻ Thối Lui (A Rebuke to Backsliders) | Richard Alleine (d.1681) | CLEAR — PD, dùng nguồn PD (không dùng bản biên tập Monergism) |
+| 30 | Hướng Dẫn Về Công Việc Của Lòng (Instructions about Heart-Work) | Richard Alleine (d.1681) | CLEAR — PD, dùng nguồn PD |
