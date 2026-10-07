@@ -1035,5 +1035,14 @@
   "author": "J. C. Ryle",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "watson/tencommandments",
+  "file": "watson-tencommandments.txt",
+  "title": "Mười Điều Răn",
+  "orig": "The Ten Commandments",
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
