@@ -24,7 +24,7 @@
 - [ ] doddridge/evidences — Bằng Chứng (38k)
 - [ ] owen/faith — Đức Tin (31k)
 - [ ] owen/sin_grace — Tội Lỗi & Ân Điển (34k)
-- [ ] charnock/instr_regen — Lời Chúa (23k)
+- [D] charnock/instr_regen — Lời Chúa: Khí Cụ Của Sự Tái Sinh (26k) — DEPLOYED 2026-10-07
 - [ ] sibbes/bruisedreed — Cây Sậy Dập (mg)
 - [ ] brooks/remedies — Phương Thuốc Quý (mg)
 - [ ] burroughs/contentment — Báu Vật Hiếm (mg)
