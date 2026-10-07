@@ -414,5 +414,23 @@
   "author": "Stephen Charnock",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "baxter/unconverted",
+  "file": "baxter-unconverted.txt",
+  "title": "Lời Kêu Gọi Người Chưa Cải Đạo",
+  "orig": "Call to the Unconverted to Turn and Live",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "owen/sin_grace",
+  "file": "owen-sin-grace.txt",
+  "title": "Quyền Cai Trị Của Tội Lỗi Và Ân Điển",
+  "orig": "Treatise of the Dominion of Sin and Grace",
+  "author": "John Owen",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
