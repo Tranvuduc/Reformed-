@@ -349,9 +349,12 @@ function speak(){
   var it=queue[qi++];mark(it.k);var tx=lgOf(it.t)==="vi"?pron(it.t):it.t;
   var vv=ls("rv.voice"),lg0=lgOf(it.t);if(!vv&&lg0==="vi"&&!pick("vi"))vv="gtts";
   if(vv==="gtts"){
-    var ga=paudio;ga.src=gU(tx,lg0);var nq=queue[qi];if(nq)gP(lgOf(nq.t)==="vi"?pron(nq.t):nq.t,lgOf(nq.t));ga.playbackRate=+$("sp").value;
+    var ga=paudio;var nq=queue[qi];if(nq)gP(lgOf(nq.t)==="vi"?pron(nq.t):nq.t,lgOf(nq.t));ga.playbackRate=+$("sp").value;
     ga.onended=function(){gfail=0;speak()};ga.onerror=function(){if(!playing)return;if(++gfail>=2){gfail=0;ls("rv.voice","");$("vo").value="";alert(L.gfail);stopA();return}qi=Math.max(0,qi-1);setTimeout(speak,500)};
-    ga.play().catch(function(){});return;
+    var tried=false,go=function(){if(tried||!playing||paused)return;tried=true;try{ga.play().catch(function(){})}catch(e){}};
+    ga.oncanplay=function(){ga.oncanplay=null;go()};
+    setTimeout(go,8000);
+    ga.src=gU(tx,lg0);return;
   }
   if(vv==="piper"){
     $("pt").textContent=pready?"…":(pprog?pprog+"%":"…");if(!pready){$("pt").title=L.pload;var pi=setInterval(function(){if(pready||!playing){clearInterval(pi);return}$("pt").textContent=pprog?pprog+"%":"…"},500)}
