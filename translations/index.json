@@ -1071,5 +1071,14 @@
   "author": "John Flavel",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "edwards/sermons",
+  "file": "edwards-sermons.txt",
+  "title": "Tuyển Bài Giảng Edwards",
+  "orig": "Selected Sermons of Jonathan Edwards",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
