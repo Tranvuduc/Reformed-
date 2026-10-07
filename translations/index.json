@@ -729,5 +729,14 @@
   "author": "Archibald Alexander",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "westminster/shorter",
+  "file": "westminster-shorter.txt",
+  "title": "Giáo Lý Vấn Đáp Ngắn Westminster",
+  "orig": "Westminster Shorter Catechism",
+  "author": "Westminster Assembly",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
