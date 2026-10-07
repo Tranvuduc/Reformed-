@@ -864,5 +864,14 @@
   "author": "Richard Alleine",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "watson/beatitudes",
+  "file": "watson-beatitudes.txt",
+  "title": "Tám Mối Phúc",
+  "orig": "The Beatitudes",
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
