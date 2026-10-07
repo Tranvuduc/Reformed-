@@ -693,5 +693,14 @@
   "author": "John Owen",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "bunyan/badman",
+  "file": "bunyan-badman.txt",
+  "title": "Đời Và Cái Chết Của Ông Badman",
+  "orig": "The Life and Death of Mr. Badman",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
