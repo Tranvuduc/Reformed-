@@ -999,5 +999,14 @@
   "author": "Tuyển Tập",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "boston/beauties",
+  "file": "boston-beauties.txt",
+  "title": "Nét Đẹp Của Thomas Boston",
+  "orig": "The Beauties of Thomas Boston",
+  "author": "Thomas Boston",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
