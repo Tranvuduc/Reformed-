@@ -936,5 +936,14 @@
   "author": "John Owen",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "baxter/practical",
+  "file": "baxter-practical.txt",
+  "title": "Tuyển Tác Phẩm Thực Hành",
+  "orig": "Practical Works Selection",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
