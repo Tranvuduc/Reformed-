@@ -549,5 +549,14 @@
   "author": "John Owen",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "bunyan/holy_war",
+  "file": "bunyan-holyw.txt",
+  "title": "Cuộc Chiến Thánh",
+  "orig": "The Holy War",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
