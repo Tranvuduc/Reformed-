@@ -12,7 +12,7 @@
 - [D] edwards/treatiseongrace — Luận Về Ân Điển (24k) — DEPLOYED 2026-10-07
 - [D] baxter/causes — Nguyên Nhân Khinh Lờn Đấng Christ (15k) — DEPLOYED 2026-10-07
 - [D] bonar/peace — Con Đường Bình An Của Đức Chúa Trời (38k) — DEPLOYED 2026-10-07
-- [~] charnock/cleansing — Huyết Đấng Christ (26k) — worker
+- [D] charnock/cleansing — Quyền Năng Tẩy Sạch Của Huyết Đấng Christ (28k) — DEPLOYED 2026-10-07
 - [D] owen/mort — Giết Chết Tội Lỗi (56k, full, replaces partial) — DEPLOYED 2026-10-07
 - [D] owen/temptation — Về Sự Cám Dỗ (42k) — DEPLOYED 2026-10-07
 - [~] watson/contentment — Thỏa Lòng (43k) — worker

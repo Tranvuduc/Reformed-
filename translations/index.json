@@ -69,14 +69,11 @@
  {
   "id": "watson/contentment",
   "file": "watson-contentment.txt",
-  "title": "Nghệ thuật thỏa lòng trong Đức Chúa Trời",
+  "title": "Nghệ Thuật Sống Thỏa Lòng",
   "orig": "The Art of Divine Contentment",
   "author": "Thomas Watson",
-  "by": "Claude",
-  "reviewed": false,
-  "note": "Chương 5 chưa đầy đủ vì nguồn bản gốc bị lỗi; sẽ bổ sung khi có nguồn tốt.",
-  "hold": true,
-  "hold_reason": "Chưa trọn sách: sẽ đăng lại khi dịch đủ."
+  "by": "Muse",
+  "reviewed": false
  },
  {
   "id": "david/chua-khong-hua-giau-co",
