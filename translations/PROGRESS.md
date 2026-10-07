@@ -59,3 +59,6 @@ Bản dịch hoàn tất (44,756 từ, translations/kuyper-greater.txt) nhưng K
 
 ## HOLD — Ryle "The Upper Room" (ryle/upper_room) — 2026-10-08
 Không tìm được nguồn public-domain đầy đủ cho cuốn này (1888). Gutenberg/CCEL không có; archive.org chỉ có 2 bản scan tái bản 1970 (borrow-restricted); Google Books/HathiTrust không truy cập được; gracegems.org chỉ có 5/21 chương; monergism.com có full eBook nhưng thuộc diện cần kiểm tra bản quyền từng cuốn (chưa dùng). Tạm giữ như knox-prayer và kuyper-greater. Sẽ mở lại khi có bản scan 1888 hoặc David duyệt dùng bản monergism.
+
+## HOLD — Kuyper "The Ascent of Christ" (kuyper/ascentofchrist) — 2026-10-08
+Không dịch. Văn bản tiếng Anh trên CCEL: "Rights: Copyright by J.H. Boer" — bản dịch tiếng Anh có bản quyền của bản dịch tiếng Hà Lan gốc của Kuyper (giống trường hợp kuyper/greater). Tạm giữ như knox-prayer và kuyper-greater.
