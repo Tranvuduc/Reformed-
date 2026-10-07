@@ -504,5 +504,14 @@
   "author": "Louis Berkhof",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "watson/cordial",
+  "file": "watson-cordial.txt",
+  "title": "Liều Thuốc Bổ Thiêng Liêng",
+  "orig": "A Divine Cordial",
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
