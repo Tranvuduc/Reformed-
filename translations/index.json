@@ -612,5 +612,14 @@
   "author": "Stephen Charnock",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "doddridge/regen",
+  "file": "doddridge-regen.txt",
+  "title": "Bài Giảng Thực Tiễn Về Sự Tái Sinh",
+  "orig": "Practical Discourses on Regeneration",
+  "author": "Philip Doddridge",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
