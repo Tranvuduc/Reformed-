@@ -53,3 +53,6 @@ KẾT LUẬN: 10/10 cuốn CÓ THỂ DỊCH, với điều kiện dịch từ ng
 | 28 | Giáo Lý Heidelberg (1563) | — | CLEAR — PD |
 | 29 | Lời Quở Trách Kẻ Thối Lui (A Rebuke to Backsliders) | Richard Alleine (d.1681) | CLEAR — PD, dùng nguồn PD (không dùng bản biên tập Monergism) |
 | 30 | Hướng Dẫn Về Công Việc Của Lòng (Instructions about Heart-Work) | Richard Alleine (d.1681) | CLEAR — PD, dùng nguồn PD |
+
+## HOLD — Kuyper "Các Ngươi Sẽ Làm Những Việc Lớn Hơn" (kuyper/greater) — 2026-10-08
+Bản dịch hoàn tất (44,756 từ, translations/kuyper-greater.txt) nhưng KHÔNG xuất bản. Lý do: văn bản tiếng Anh trên CCEL là bản dịch tiếng Anh có bản quyền của J.H. Boer (Copyright 1991), dịch từ nguyên tác tiếng Hà Lan Pro Rege (1911). Dịch từ bản tiếng Anh này = tác phẩm phái sinh của bản dịch có bản quyền. Nguyên tác tiếng Hà Lan (Kuyper mất 1920) thì public domain, nhưng cần dịch từ tiếng Hà Lan mới hợp lệ. Tạm giữ như trường hợp knox-prayer.
