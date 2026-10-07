@@ -62,3 +62,6 @@ Không tìm được nguồn public-domain đầy đủ cho cuốn này (1888). 
 
 ## HOLD — Kuyper "The Ascent of Christ" (kuyper/ascentofchrist) — 2026-10-08
 Không dịch. Văn bản tiếng Anh trên CCEL: "Rights: Copyright by J.H. Boer" — bản dịch tiếng Anh có bản quyền của bản dịch tiếng Hà Lan gốc của Kuyper (giống trường hợp kuyper/greater). Tạm giữ như knox-prayer và kuyper-greater.
+
+## HOLD — Kuyper "The Mystery of Islam" (kuyper/islam) — 2026-10-08
+Không dịch. Văn bản tiếng Anh trên CCEL: "Rights: Copyright by J.H. Boer" / "Copyright Jan H. Boer 2010" — bản dịch tiếng Anh có bản quyền của bản dịch tiếng Hà Lan gốc (giống kuyper/greater, kuyper/ascentofchrist). Chỉ có thể mở lại nếu dịch trực tiếp từ tiếng Hà Lan (ngoài phạm vi pipeline Anh→Việt).
