@@ -11,7 +11,7 @@
 - [~] hooker/just — Luận Về Sự Xưng Công Chính (23k) — worker
 - [~] edwards/treatiseongrace — Luận Về Ân Điển (23k) — worker
 - [~] baxter/causes — Nguyên Nhân Khinh Lờn (12k) — worker
-- [~] bonar/peace — Con Đường Bình An (31k) — worker
+- [D] bonar/peace — Con Đường Bình An Của Đức Chúa Trời (38k) — DEPLOYED 2026-10-07
 - [~] charnock/cleansing — Huyết Đấng Christ (26k) — worker
 - [~] owen/mort — Giết Chết Tội Lỗi (48k) — worker
 - [~] owen/temptation — Về Sự Cám Dỗ (36k) — worker
