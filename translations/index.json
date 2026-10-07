@@ -558,5 +558,14 @@
   "author": "John Bunyan",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "spurgeon/checkbook",
+  "file": "spurgeon-checkbook.txt",
+  "title": "Sổ Séc Của Đức Tin",
+  "orig": "Faith's Checkbook",
+  "author": "Charles Spurgeon",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
