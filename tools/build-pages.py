@@ -256,11 +256,12 @@ oth = [r for r in mg["vn"] if not r.get("au") and not r["id"].startswith("rv-") 
 rvl = "".join(bcard(r["vi"]["t"], r["a"], r["url"], badge="AI, ch\u01b0a duy\u1ec7t", kicker="B\u1ea3n d\u1ecbch RV", dl=(r["epub"], "EPUB")) for r in rv)
 vnbl = "".join(bcard(r["vi"]["t"], r["a"], r["url"], badge="AI, ch\u01b0a duy\u1ec7t", kicker="B\u1ea3n d\u1ecbch") for r in vnb)
 vn = "".join(bcard(r["vi"]["t"], r["a"], r["url"], kicker="Li\u00ean k\u1ebft ngo\u00e0i", ext=True) for r in oth)
-rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{len(rv)} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc tải EPUB. Bản dịch sơ thảo, chưa hiệu đính.</p>" + bkgrid(rvl)) if rv else ""
-vnb_sec = (f"<h2>Bản dịch sách tiếng Việt</h2><p>{len(vnb)} cuốn sách cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc trong trình đọc của thư viện. Bản dịch do AI hỗ trợ, chưa được mục sư duyệt giáo lý.</p>" + bkgrid(vnbl)) if vnb else ""
+_allrv = rvl + vnbl
+nrv = len(rv) + len(vnb)
+rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{nrv} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc trong trình đọc của thư viện; một số cuốn có bản EPUB để tải. Bản dịch do AI hỗ trợ, chưa được mục sư duyệt giáo lý.</p>" + bkgrid(_allrv)) if _allrv else ""
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
     "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí: bản dịch của Reformed Vietnam, Mục vụ Tiên Phong, 9Marks và các nguồn khác.", "tieng-viet.html",
-    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}{vnb_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p>" + bkgrid(vn)))
+    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p>" + bkgrid(vn)))
 urls += [r["url"].lstrip("/") for r in rv]
 
 # Audio hub
