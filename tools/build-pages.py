@@ -40,8 +40,9 @@ CSS = (":root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a
        ".bk-foot{padding:6px 12px 10px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}"
        ".bk-foot span{font:600 .68rem system-ui,sans-serif;background:var(--bg);border:1px solid var(--line);color:var(--mut);border-radius:6px;padding:2px 7px}"
        ".bk-dl{font:600 .75rem system-ui,sans-serif;color:var(--acc);text-decoration:none}"
-       ".bk-filter{display:flex;gap:8px;align-items:center;margin:10px 0 4px;max-width:28rem}"
+       ".bk-filter{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:10px 0 4px;max-width:34rem}"
        ".bk-filter input{flex:1;min-width:0;padding:9px 14px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--fg);font:15px system-ui,sans-serif}"
+       ".bk-filter select{padding:9px 10px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--fg);font:14px system-ui,sans-serif;max-width:11rem}"
        ".bk-count{font:13px system-ui,sans-serif;color:var(--mut);white-space:nowrap}"
        ".rel{margin:.6em 0;font-size:.92rem}.rel a{display:inline-block;margin:0 8px 6px 0;padding:4px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;font-size:.85rem}"
        "@media(max-width:600px){.bk-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}}")
@@ -51,28 +52,38 @@ def bcolor(title):
     """Deterministic muted cover color from title."""
     h = int(_hl.md5(title.encode("utf-8")).hexdigest(), 16)
     return f"hsl({h % 360},36%,{33 + (h >> 9) % 13}%)"
-def bcard(title, author, url, badge="", kicker="", color=None, ext=False, dl=None, desc_=None):
+def bcard(title, author, url, badge="", kicker="", color=None, ext=False, dl=None, desc_=None, fmt=""):
     """Rich book card HTML. badge: '|' separated labels. dl: (href, label) download link."""
     c = color or bcolor(title)
     rel = ' target="_blank" rel="noopener"' if ext else ""
     dln = f'<a class="bk-dl" href="{E(dl[0])}" download>\u2b07 {E(dl[1])}</a>' if dl else ""
     bdg = "".join(f"<span>{E(b)}</span>" for b in badge.split("|") if b)
     ds = f'<p class="bk-d">{E(str(desc_))}</p>' if desc_ else ""
-    return (f'<article class="bk-card"><a class="bk-main" href="{E(url)}"{rel}>'
+    da = f' data-au="{E(author)}"' if author else ""
+    df = f' data-fmt="{E(fmt)}"' if fmt else ""
+    return (f'<article class="bk-card"{da}{df}><a class="bk-main" href="{E(url)}"{rel}>'
             f'<span class="bk-spine" style="background-color:{c}">' + (f"<b>{E(kicker)}</b>" if kicker else "") + f"<i>{E(title)}</i></span>"
             f'<span class="bk-body"><span class="bk-by">{E(author)}</span>{ds}</span></a>'
             f'<div class="bk-foot">{dln}{bdg}</div></article>')
-FILTER_JS = ("<script>(function(){var n='__N__';var q=document.getElementById('bkq'+n),g=document.getElementById('bkg'+n),c=document.getElementById('bkc'+n);"
+FILTER_JS = ("<script>(function(){var n='__N__';var q=document.getElementById('bkq'+n),g=document.getElementById('bkg'+n),c=document.getElementById('bkc'+n),fa=document.getElementById('bkfa'+n),ff=document.getElementById('bkff'+n);"
              "if(!q||!g)return;function norm(s){return s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/\u0111/g,'d')}"
              "var cards=g.querySelectorAll('.bk-card'),tot=cards.length;"
-             "function upd(){var f=norm(q.value.trim()),v=0;cards.forEach(function(cd){var ok=!f||norm(cd.textContent).indexOf(f)>-1;cd.style.display=ok?'':'none';if(ok)v++});"
-             "if(c)c.textContent='Hi\u1ec3n th\u1ecb '+v+' / '+tot}q.addEventListener('input',upd);upd()})()</script>")
+             "function upd(){var f=norm(q.value.trim()),va=fa?fa.value:'',vf=ff?ff.value:'',v=0;cards.forEach(function(cd){var ok=!f||norm(cd.textContent).indexOf(f)>-1;if(ok&&va)ok=cd.getAttribute('data-au')===va;if(ok&&vf)ok=cd.getAttribute('data-fmt')===vf;cd.style.display=ok?'':'none';if(ok)v++});"
+             "if(c)c.textContent='Hi\u1ec3n th\u1ecb '+v+' / '+tot}q.addEventListener('input',upd);if(fa)fa.addEventListener('change',upd);if(ff)ff.addEventListener('change',upd);upd()})()</script>")
 _bk_n = [0]
-def bkgrid(cards_html, placeholder="T\u00ecm theo t\u00ean s\u00e1ch ho\u1eb7c t\u00e1c gi\u1ea3\u2026"):
-    """Wrap card HTML in a filterable grid. One search box per section."""
+def bkgrid(cards_html, placeholder="T\u00ecm theo t\u00ean s\u00e1ch ho\u1eb7c t\u00e1c gi\u1ea3\u2026", authors=None, formats=None):
+    """Wrap card HTML in a filterable grid. Optional author/format dropdown filters."""
     _bk_n[0] += 1
     n = str(_bk_n[0])
-    return (f'<div class="bk-filter"><input id="bkq{n}" type="search" placeholder="{E(placeholder)}" aria-label="T\u00ecm s\u00e1ch">'
+    fa = ""
+    if authors:
+        opts = "".join(f'<option value="{E(a)}">{E(a)}</option>' for a in sorted(set(authors)))
+        fa = f'<select id="bkfa{n}" aria-label="T\u00e1c gi\u1ea3"><option value="">T\u1ea5t c\u1ea3 t\u00e1c gi\u1ea3</option>{opts}</select>'
+    ff = ""
+    if formats:
+        opts = "".join(f'<option value="{E(v)}">{E(l)}</option>' for v, l in formats)
+        ff = f'<select id="bkff{n}" aria-label="\u0110\u1ecbnh d\u1ea1ng"><option value="">T\u1ea5t c\u1ea3</option>{opts}</select>'
+    return (f'<div class="bk-filter"><input id="bkq{n}" type="search" placeholder="{E(placeholder)}" aria-label="T\u00ecm s\u00e1ch">{fa}{ff}'
             f'<span class="bk-count" id="bkc{n}"></span></div>'
             f'<div class="bk-grid" id="bkg{n}">{cards_html}</div>' + FILTER_JS.replace("__N__", n))
 
@@ -265,15 +276,18 @@ open("tac-gia.html", "w", encoding="utf-8").write(page("Tác giả Cải Chánh 
 rv = [r for r in mg["vn"] if r["id"].startswith("rv-")]
 vnb = [r for r in mg["vn"] if r.get("vnb")]
 oth = [r for r in mg["vn"] if not r.get("au") and not r["id"].startswith("rv-") and not r.get("vnb")]
-rvl = "".join(bcard(r["vi"]["t"], r["a"], r["url"], badge="AI, ch\u01b0a duy\u1ec7t", kicker="B\u1ea3n d\u1ecbch RV", dl=(r["epub"], "EPUB")) for r in rv)
-vnbl = "".join(bcard(r["vi"]["t"], r["a"], r["url"], badge="AI, ch\u01b0a duy\u1ec7t", kicker="B\u1ea3n d\u1ecbch") for r in vnb)
-vn = "".join(bcard(r["vi"]["t"], r["a"], r["url"], kicker="Li\u00ean k\u1ebft ngo\u00e0i", ext=True) for r in oth)
+rvl = "".join(bcard(r["vi"]["t"], r["a"], r["url"], badge="AI, ch\u01b0a duy\u1ec7t", kicker="B\u1ea3n d\u1ecbch RV", dl=(r["epub"], "EPUB"), fmt="epub") for r in rv)
+vnbl = "".join(bcard(r["vi"]["t"], r["a"], r["url"], badge="AI, ch\u01b0a duy\u1ec7t", kicker="B\u1ea3n d\u1ecbch", fmt="app") for r in vnb)
+vn = "".join(bcard(r["vi"]["t"], r["a"], r["url"], kicker="Li\u00ean k\u1ebft ngo\u00e0i", ext=True, fmt="ext") for r in oth)
 _allrv = rvl + vnbl
 nrv = len(rv) + len(vnb)
-rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{nrv} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc trong trình đọc của thư viện; một số cuốn có bản EPUB để tải. Bản dịch do AI hỗ trợ, chưa được mục sư duyệt giáo lý.</p>" + bkgrid(_allrv)) if _allrv else ""
+_rv_aus = [r["a"] for r in rv] + [r["a"] for r in vnb]
+_rv_fmts = [("epub", "C\u00f3 EPUB"), ("app", "\u0110\u1ecdc trong app")]
+rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{nrv} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc trong trình đọc của thư viện; một số cuốn có bản EPUB để tải. Bản dịch do AI hỗ trợ, chưa được mục sư duyệt giáo lý.</p>" + bkgrid(_allrv, authors=_rv_aus, formats=_rv_fmts)) if _allrv else ""
+_oth_aus = [r["a"] for r in oth]
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
     "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí: bản dịch của Reformed Vietnam, Mục vụ Tiên Phong, 9Marks và các nguồn khác.", "tieng-viet.html",
-    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p>" + bkgrid(vn)))
+    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p>" + bkgrid(vn, authors=_oth_aus)))
 urls += [r["url"].lstrip("/") for r in rv]
 
 # Audio hub
