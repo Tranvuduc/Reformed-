@@ -1,0 +1,21 @@
+name: check
+on:
+  push:
+    branches-ignore: [main]
+  pull_request:
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install pillow
+      - name: Build generated pages
+        run: python3 tools/build-pages.py
+      - name: Generated files are committed
+        run: git diff --exit-code --stat || (echo "Run python3 tools/build-pages.py and commit the result" && exit 1)
+      - name: Check links, sitemap, titles
+        run: python3 tools/check_site.py
+      - name: JS syntax
+        run: node --check app.js

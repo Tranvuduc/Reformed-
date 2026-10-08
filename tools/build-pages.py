@@ -303,7 +303,8 @@ _rv_css = ("<style>.rv-row{display:flex;align-items:center;gap:10px;padding:8px 
 open("duyet.html", "w", encoding="utf-8").write(page("Duyệt bản dịch tiếng Việt | Reformed Vietnam",
     "Trang theo dõi tiến độ duyệt các bản dịch tiếng Việt của Reformed Vietnam.", "duyet.html",
     f"<h1>Duyệt bản dịch</h1><p>Bật <b>Chế độ duyệt</b> trong trình đọc (menu ⋯) rồi đánh dấu từng trang đã duyệt. Tiến độ lưu trên thiết bị này.</p>{_rv_css}{_rv_rows}{_rv_js}"))
-urls.append("duyet.html")
+_d = open("duyet.html", encoding="utf-8").read().replace("<head>", '<head><meta name="robots" content="noindex">', 1)
+open("duyet.html", "w", encoding="utf-8").write(_d)  # internal review dashboard: reachable, but not indexed or in the sitemap
 rv = [r for r in mg["vn"] if r["id"].startswith("rv-")]
 vnb = [r for r in mg["vn"] if r.get("vnb")]
 oth = [r for r in mg["vn"] if not r.get("au") and not r["id"].startswith("rv-") and not r.get("vnb")]
