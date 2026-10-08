@@ -1,0 +1,1937 @@
+[
+ {
+  "id": "alexander_jw/crucible",
+  "title_en": "Breaking Crucible: and Other Translations of German Hymns",
+  "author_en": "Alexander, James Waddell (1804–1859)",
+  "bytes": 18997,
+  "capped": false,
+  "words": 3166,
+  "batch": 1
+ },
+ {
+  "id": "clarkson/owenfuneral",
+  "title_en": "Funeral Sermon on Dr John Owen",
+  "author_en": "Clarkson, David (1622-1682)",
+  "bytes": 33673,
+  "capped": false,
+  "words": 5612,
+  "batch": 1
+ },
+ {
+  "id": "flavel/lovely",
+  "title_en": "Christ Altogether Lovely",
+  "author_en": "Flavel, John (1627-1691) <b>(6 classics)</b>",
+  "bytes": 37687,
+  "capped": false,
+  "words": 6281,
+  "batch": 1
+ },
+ {
+  "id": "calvin/institutio1",
+  "title_en": "Institutio Christianae Religionis vol. 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 40428,
+  "capped": false,
+  "words": 6738,
+  "batch": 1
+ },
+ {
+  "id": "bunyan/miscellaneous",
+  "title_en": "Miscellaneous Pieces",
+  "author_en": "Bunyan, John (1628-1688)",
+  "bytes": 41719,
+  "capped": false,
+  "words": 6953,
+  "batch": 1
+ },
+ {
+  "id": "calvin/institutio2",
+  "title_en": "Institutio Christianae Religionis vol. 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 43162,
+  "capped": false,
+  "words": 7194,
+  "batch": 1
+ },
+ {
+  "id": "flavel/life",
+  "title_en": "Life of the late Rev. Mr. John Flavel",
+  "author_en": "Flavel, John (1627-1691) <b>(6 classics)</b>",
+  "bytes": 43405,
+  "capped": false,
+  "words": 7234,
+  "batch": 1
+ },
+ {
+  "id": "strong/theology3",
+  "title_en": "Systematic Theology: The Doctrine of Salvation (Volume III)",
+  "author_en": "Strong, Augustus Hopkins (1836-1921)",
+  "bytes": 45911,
+  "capped": false,
+  "words": 7652,
+  "batch": 1
+ },
+ {
+  "id": "strong/theology2",
+  "title_en": "Systematic Theology: The Doctrine of Man (Volume II)",
+  "author_en": "Strong, Augustus Hopkins (1836-1921)",
+  "bytes": 47326,
+  "capped": false,
+  "words": 7888,
+  "batch": 1
+ },
+ {
+  "id": "pink/godhood",
+  "title_en": "Godhood of God",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 47789,
+  "capped": false,
+  "words": 7965,
+  "batch": 1
+ },
+ {
+  "id": "pink/tithing",
+  "title_en": "Tithing",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 48226,
+  "capped": false,
+  "words": 8038,
+  "batch": 1
+ },
+ {
+  "id": "spurgeon/treasury1",
+  "title_en": "Treasury of David: Volume I",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 50885,
+  "capped": false,
+  "words": 8481,
+  "batch": 1
+ },
+ {
+  "id": "spurgeon/treasury5",
+  "title_en": "Treasury of David: Volume V",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 52386,
+  "capped": false,
+  "words": 8731,
+  "batch": 1
+ },
+ {
+  "id": "spurgeon/treasury6",
+  "title_en": "Treasury of David: Volume VI",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 55944,
+  "capped": false,
+  "words": 9324,
+  "batch": 1
+ },
+ {
+  "id": "spurgeon/treasury4",
+  "title_en": "Treasury of David: Volume IV",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 56178,
+  "capped": false,
+  "words": 9363,
+  "batch": 1
+ },
+ {
+  "id": "spurgeon/treasury2",
+  "title_en": "Treasury of David: Volume II",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 57877,
+  "capped": false,
+  "words": 9646,
+  "batch": 1
+ },
+ {
+  "id": "spurgeon/treasury3",
+  "title_en": "Treasury of David: Volume III",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 58436,
+  "capped": false,
+  "words": 9739,
+  "batch": 1
+ },
+ {
+  "id": "whyte/behmen",
+  "title_en": "Jacob Behmen, An Appreciation",
+  "author_en": "Whyte, Alexander (1836-1921)",
+  "bytes": 70217,
+  "capped": false,
+  "words": 11703,
+  "batch": 1
+ },
+ {
+  "id": "spurgeon/comment",
+  "title_en": "Commenting and Commentaries",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 100888,
+  "capped": false,
+  "words": 16815,
+  "batch": 1
+ },
+ {
+  "id": "whyte/teresa",
+  "title_en": "Santa Teresa, An Appreciation",
+  "author_en": "Whyte, Alexander (1836-1921)",
+  "bytes": 118039,
+  "capped": false,
+  "words": 19673,
+  "batch": 1
+ },
+ {
+  "id": "pink/law",
+  "title_en": "Law and the Saint",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 124700,
+  "capped": false,
+  "words": 20783,
+  "batch": 1
+ },
+ {
+  "id": "owen/grotius",
+  "title_en": "Review of the Annotations of Hugo Grotius",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 128992,
+  "capped": false,
+  "words": 21499,
+  "batch": 1
+ },
+ {
+  "id": "knox/blast",
+  "title_en": "First Blast of the Trumpet Against the Monstrous Regiment of Women.",
+  "author_en": "Knox, John (c. 1505-1572)",
+  "bytes": 177682,
+  "capped": false,
+  "words": 29614,
+  "batch": 1
+ },
+ {
+  "id": "pink/comfort",
+  "title_en": "Comfort for Christians",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 194840,
+  "capped": false,
+  "words": 32473,
+  "batch": 1
+ },
+ {
+  "id": "pink/inspiration",
+  "title_en": "Divine Inspiration of the Bible",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 197509,
+  "capped": false,
+  "words": 32918,
+  "batch": 1
+ },
+ {
+  "id": "pink/just",
+  "title_en": "Doctrine of Justification",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 213078,
+  "capped": false,
+  "words": 35513,
+  "batch": 2
+ },
+ {
+  "id": "hodge/theology4",
+  "title_en": "Systematic Theology - Index",
+  "author_en": "Hodge, Charles (1797-1878) <b>(6 classics)</b>",
+  "bytes": 264054,
+  "capped": false,
+  "words": 44009,
+  "batch": 2
+ },
+ {
+  "id": "alexander_a/outlines",
+  "title_en": "Outlines of Moral Science.",
+  "author_en": "Alexander, Archibald (1772-1851)",
+  "bytes": 302365,
+  "capped": false,
+  "words": 50394,
+  "batch": 2
+ },
+ {
+  "id": "maclaren/david",
+  "title_en": "Life of David",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 347944,
+  "capped": false,
+  "words": 57991,
+  "batch": 2
+ },
+ {
+  "id": "pink/gospels",
+  "title_en": "Why Four Gospels?",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 360305,
+  "capped": false,
+  "words": 60051,
+  "batch": 2
+ },
+ {
+  "id": "guthrie/interest2",
+  "title_en": "Christian's Great Interest. In Two Parts.",
+  "author_en": "Guthrie, William (1620-1665)",
+  "bytes": 413151,
+  "capped": false,
+  "words": 68859,
+  "batch": 2
+ },
+ {
+  "id": "whyte/pray",
+  "title_en": "Lord Teach Us To Pray",
+  "author_en": "Whyte, Alexander (1836-1921)",
+  "bytes": 450676,
+  "capped": false,
+  "words": 75113,
+  "batch": 2
+ },
+ {
+  "id": "calvin/treatise_relics",
+  "title_en": "Treatise on Relics",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 499965,
+  "capped": false,
+  "words": 83328,
+  "batch": 2
+ },
+ {
+  "id": "newton/olneyhymns",
+  "title_en": "Olney Hymns",
+  "author_en": "Newton, John (1725-1807)",
+  "bytes": 553611,
+  "capped": false,
+  "words": 92269,
+  "batch": 2
+ },
+ {
+  "id": "pink/sovereignty",
+  "title_en": "Sovereignty of God",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 573153,
+  "capped": false,
+  "words": 95526,
+  "batch": 2
+ },
+ {
+  "id": "newton/messiah2",
+  "title_en": "Messiah Vol. 2",
+  "author_en": "Newton, John (1725-1807)",
+  "bytes": 581578,
+  "capped": false,
+  "words": 96930,
+  "batch": 2
+ },
+ {
+  "id": "owen/truthinnocence",
+  "title_en": "Truth and Innocence Vindicated",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 593615,
+  "capped": false,
+  "words": 98936,
+  "batch": 2
+ },
+ {
+  "id": "newton/messiah1",
+  "title_en": "Messiah Vol. 1",
+  "author_en": "Newton, John (1725-1807)",
+  "bytes": 596592,
+  "capped": false,
+  "words": 99432,
+  "batch": 2
+ },
+ {
+  "id": "baxter/saints_rest",
+  "title_en": "Saints' Everlasting Rest",
+  "author_en": "Baxter, Richard (1615-1691)",
+  "bytes": 655264,
+  "capped": false,
+  "words": 109211,
+  "batch": 2
+ },
+ {
+  "id": "bunyan/pilgrim",
+  "title_en": "Pilgrim's Progress",
+  "author_en": "Bunyan, John (1628-1688)",
+  "bytes": 673202,
+  "capped": false,
+  "words": 112200,
+  "batch": 2
+ },
+ {
+  "id": "spurgeon/sermons63",
+  "title_en": "Spurgeon's Sermons Volume 63: 1917",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 677928,
+  "capped": false,
+  "words": 112988,
+  "batch": 2
+ },
+ {
+  "id": "maclaren/expositorpsalms1",
+  "title_en": "Expositor's Bible: The Psalms, Volume I",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 720813,
+  "capped": false,
+  "words": 120136,
+  "batch": 2
+ },
+ {
+  "id": "maclaren/john2",
+  "title_en": "Expositions of Holy Scripture: St John Chs. XV to XXI",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 750261,
+  "capped": false,
+  "words": 125044,
+  "batch": 2
+ },
+ {
+  "id": "pink/antichrist",
+  "title_en": "Antichrist",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 768068,
+  "capped": false,
+  "words": 128011,
+  "batch": 2
+ },
+ {
+  "id": "berkhof/newtestament",
+  "title_en": "Introduction to the New Testament",
+  "author_en": "Berkhof, Louis (1873-1957)",
+  "bytes": 768569,
+  "capped": false,
+  "words": 128095,
+  "batch": 2
+ },
+ {
+  "id": "calvin/calcom35",
+  "title_en": "Commentary on John - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 805767,
+  "capped": false,
+  "words": 134295,
+  "batch": 2
+ },
+ {
+  "id": "maclaren/expositorpsalms3",
+  "title_en": "Expositor's Bible: The Psalms, Volume III",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 819496,
+  "capped": false,
+  "words": 136583,
+  "batch": 2
+ },
+ {
+  "id": "pink/return",
+  "title_en": "Redeemer’s Return",
+  "author_en": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "bytes": 844433,
+  "capped": false,
+  "words": 140739,
+  "batch": 2
+ },
+ {
+  "id": "maclaren/expositorcolphm",
+  "title_en": "Expositor's Bible: Colossians and Philemon",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 884931,
+  "capped": false,
+  "words": 147489,
+  "batch": 2
+ },
+ {
+  "id": "hopkins_samuel/21sermons",
+  "title_en": "Twenty-one Sermons, on a Variety of Interesting Subjects, Sentimental and Practical.",
+  "author_en": "Hopkins, Samuel (1721-1803)",
+  "bytes": 886789,
+  "capped": false,
+  "words": 147798,
+  "batch": 2
+ },
+ {
+  "id": "ryle/upper_room",
+  "title_en": "Upper Room: Being a Few Truths for the Times",
+  "author_en": "Ryle, John Charles (1816-1900)",
+  "bytes": 901375,
+  "capped": false,
+  "words": 150229,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom07",
+  "title_en": "Commentary on Joshua",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 912888,
+  "capped": false,
+  "words": 152148,
+  "batch": 3
+ },
+ {
+  "id": "maclaren/expositorpsalms2",
+  "title_en": "Expositor's Bible: The Psalms, Volume II",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 928026,
+  "capped": false,
+  "words": 154671,
+  "batch": 3
+ },
+ {
+  "id": "watson/commandments",
+  "title_en": "Ten Commandments",
+  "author_en": "Watson, Thomas (c. 1620-1686) <b>(6 classics)</b>",
+  "bytes": 935713,
+  "capped": false,
+  "words": 155952,
+  "batch": 3
+ },
+ {
+  "id": "hodge/ephesians",
+  "title_en": "Commentary on the Epistle to the Ephesians",
+  "author_en": "Hodge, Charles (1797-1878) <b>(6 classics)</b>",
+  "bytes": 938844,
+  "capped": false,
+  "words": 156474,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom43",
+  "title_en": "Commentary on Timothy, Titus, Philemon",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 992599,
+  "capped": false,
+  "words": 165433,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom41",
+  "title_en": "Commentary on Galatians and Ephesians",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 995872,
+  "capped": false,
+  "words": 165979,
+  "batch": 3
+ },
+ {
+  "id": "boettner/predest_de",
+  "title_en": "Die reformierte Lehre von der Vorherbestimmung",
+  "author_en": "Boettner, Loraine (1901-1990)",
+  "bytes": 1018562,
+  "capped": false,
+  "words": 169760,
+  "batch": 3
+ },
+ {
+  "id": "boettner/predest",
+  "title_en": "Reformed Doctrine of Predestination",
+  "author_en": "Boettner, Loraine (1901-1990)",
+  "bytes": 1028219,
+  "capped": false,
+  "words": 171370,
+  "batch": 3
+ },
+ {
+  "id": "knox/history_reformation",
+  "title_en": "History of the Reformation of Religion in Scotland",
+  "author_en": "Knox, John (c. 1505-1572)",
+  "bytes": 1038262,
+  "capped": false,
+  "words": 173044,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom29",
+  "title_en": "Commentary on Habakkuk, Zephaniah, Haggai",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1050419,
+  "capped": false,
+  "words": 175070,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom42",
+  "title_en": "Commentary on Philippians, Colossians, and Thessalonians",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1066139,
+  "capped": false,
+  "words": 177690,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom22",
+  "title_en": "Commentary on Ezekiel - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1072395,
+  "capped": false,
+  "words": 178733,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom37",
+  "title_en": "Commentary on Acts - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1096033,
+  "capped": false,
+  "words": 182672,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom33",
+  "title_en": "Commentary on Matthew, Mark, Luke - Volume 3",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1101922,
+  "capped": false,
+  "words": 183654,
+  "batch": 3
+ },
+ {
+  "id": "watson/divinity",
+  "title_en": "Body of Divinity",
+  "author_en": "Watson, Thomas (c. 1620-1686) <b>(6 classics)</b>",
+  "bytes": 1127241,
+  "capped": false,
+  "words": 187874,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom",
+  "title_en": "Calvin: Commentaries",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1132249,
+  "capped": false,
+  "words": 188708,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom06",
+  "title_en": "Harmony of the Law - Volume 4",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1134102,
+  "capped": false,
+  "words": 189017,
+  "batch": 3
+ },
+ {
+  "id": "flavel/pneum",
+  "title_en": "Pneumatologia: A Treatise of the Soul of Man",
+  "author_en": "Flavel, John (1627-1691) <b>(6 classics)</b>",
+  "bytes": 1148032,
+  "capped": false,
+  "words": 191339,
+  "batch": 3
+ },
+ {
+  "id": "watson/prayer",
+  "title_en": "Lord's Prayer",
+  "author_en": "Watson, Thomas (c. 1620-1686) <b>(6 classics)</b>",
+  "bytes": 1177281,
+  "capped": false,
+  "words": 196214,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom44",
+  "title_en": "Commentary on Hebrews",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1188413,
+  "capped": false,
+  "words": 198069,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom24",
+  "title_en": "Commentary on Daniel - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1191460,
+  "capped": false,
+  "words": 198577,
+  "batch": 3
+ },
+ {
+  "id": "maclaren/mark",
+  "title_en": "Expositions of Holy Scripture: Mark",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1192592,
+  "capped": false,
+  "words": 198765,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom34",
+  "title_en": "Commentary on John - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1206378,
+  "capped": false,
+  "words": 201063,
+  "batch": 3
+ },
+ {
+  "id": "calvin/calcom23",
+  "title_en": "Commentary on Ezekiel - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1235925,
+  "capped": false,
+  "words": 205988,
+  "batch": 3
+ },
+ {
+  "id": "fisher_e/marrow",
+  "title_en": "Marrow of Modern Divinity",
+  "author_en": "Fisher, Edward (1627-1655)",
+  "bytes": 1245979,
+  "capped": false,
+  "words": 207663,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom25",
+  "title_en": "Commentary on Daniel - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1246970,
+  "capped": false,
+  "words": 207828,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom12",
+  "title_en": "Commentary on Psalms - Volume 5",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1251950,
+  "capped": false,
+  "words": 208658,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom27",
+  "title_en": "Commentary on Joel, Amos, Obadiah",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1257637,
+  "capped": false,
+  "words": 209606,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom16",
+  "title_en": "Commentary on Isaiah - Volume 4",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1258590,
+  "capped": false,
+  "words": 209765,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom45",
+  "title_en": "Commentaries on the Catholic Epistles",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1282332,
+  "capped": false,
+  "words": 213722,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom18",
+  "title_en": "Commentary on Jeremiah and Lamentations - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1286044,
+  "capped": false,
+  "words": 214341,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom14",
+  "title_en": "Commentary on Isaiah - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1287988,
+  "capped": false,
+  "words": 214665,
+  "batch": 4
+ },
+ {
+  "id": "orr/view",
+  "title_en": "Christian View of God and the World",
+  "author_en": "Orr, James (1844-1913)",
+  "bytes": 1307990,
+  "capped": false,
+  "words": 217998,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom26",
+  "title_en": "Commentary on Hosea",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1319132,
+  "capped": false,
+  "words": 219855,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom19",
+  "title_en": "Commentary on Jeremiah and Lamentations - Volume 3",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1321326,
+  "capped": false,
+  "words": 220221,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom40",
+  "title_en": "Commentary on Corinthians - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1321361,
+  "capped": false,
+  "words": 220227,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom05",
+  "title_en": "Harmony of the Law - Volume 3",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1345651,
+  "capped": false,
+  "words": 224275,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom02",
+  "title_en": "Commentary on Genesis - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1353306,
+  "capped": false,
+  "words": 225551,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom32",
+  "title_en": "Commentary on Matthew, Mark, Luke - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1360809,
+  "capped": false,
+  "words": 226802,
+  "batch": 4
+ },
+ {
+  "id": "maclaren/gen_num",
+  "title_en": "Expositions of Holy Scripture: Genesis, Exodus, Leviticus and Numbers",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1380025,
+  "capped": false,
+  "words": 230004,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom09",
+  "title_en": "Commentary on Psalms - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1387162,
+  "capped": false,
+  "words": 231194,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom03",
+  "title_en": "Harmony of the Law - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1387334,
+  "capped": false,
+  "words": 231222,
+  "batch": 4
+ },
+ {
+  "id": "maclaren/isa_jer",
+  "title_en": "Expositions of Holy Scripture: Isaiah and Jeremiah",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1390262,
+  "capped": false,
+  "words": 231710,
+  "batch": 4
+ },
+ {
+  "id": "maclaren/john1",
+  "title_en": "Expositions of Holy Scripture: St John Ch. I to XIV",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1390270,
+  "capped": false,
+  "words": 231712,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom15",
+  "title_en": "Commentary on Isaiah - Volume 3",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1398559,
+  "capped": false,
+  "words": 233093,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom36",
+  "title_en": "Commentary on Acts - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1405690,
+  "capped": false,
+  "words": 234282,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom39",
+  "title_en": "Commentary on Corinthians - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1410353,
+  "capped": false,
+  "words": 235059,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom28",
+  "title_en": "Commentary on Jonah, Micah, Nahum",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1414017,
+  "capped": false,
+  "words": 235670,
+  "batch": 4
+ },
+ {
+  "id": "calvin/calcom04",
+  "title_en": "Harmony of the Law - Volume 2",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1420802,
+  "capped": false,
+  "words": 236800,
+  "batch": 4
+ },
+ {
+  "id": "maclaren/psalms",
+  "title_en": "Expositions of Holy Scripture: Psalms",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1425613,
+  "capped": false,
+  "words": 237602,
+  "batch": 5
+ },
+ {
+  "id": "knox/works1",
+  "title_en": "Works of John Knox, Vol. 1 (of 6)",
+  "author_en": "Knox, John (c. 1505-1572)",
+  "bytes": 1431721,
+  "capped": false,
+  "words": 238620,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom11",
+  "title_en": "Commentary on Psalms - Volume 4",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1446748,
+  "capped": false,
+  "words": 241125,
+  "batch": 5
+ },
+ {
+  "id": "maclaren/matt2",
+  "title_en": "Expositions of Holy Scripture: Matthew IX to XVIII",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1457778,
+  "capped": false,
+  "words": 242963,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom31",
+  "title_en": "Commentary on Matthew, Mark, Luke - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1474235,
+  "capped": false,
+  "words": 245706,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom17",
+  "title_en": "Commentary on Jeremiah and Lamentations - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1483663,
+  "capped": false,
+  "words": 247277,
+  "batch": 5
+ },
+ {
+  "id": "maclaren/rom_cor",
+  "title_en": "Expositions of Holy Scripture: Romans and Corinthians",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1484603,
+  "capped": false,
+  "words": 247434,
+  "batch": 5
+ },
+ {
+  "id": "maclaren/acts",
+  "title_en": "Expositions of Holy Scripture: The Acts",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1493922,
+  "capped": false,
+  "words": 248987,
+  "batch": 5
+ },
+ {
+  "id": "maclaren/luke",
+  "title_en": "Expositions of Holy Scripture: Luke",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1498226,
+  "capped": false,
+  "words": 249704,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom21",
+  "title_en": "Commentary on Jeremiah and Lamentations - Volume 5",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1499860,
+  "capped": false,
+  "words": 249977,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom10",
+  "title_en": "Commentary on Psalms - Volume 3",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1505962,
+  "capped": false,
+  "words": 250994,
+  "batch": 5
+ },
+ {
+  "id": "maclaren/ezek_matt1",
+  "title_en": "Expositions of Holy Scripture: Ezekiel, Daniel and the Minor Prophets; and Matthew Chaps. I to VIII",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1517904,
+  "capped": false,
+  "words": 252984,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom01",
+  "title_en": "Commentary on Genesis - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1524783,
+  "capped": false,
+  "words": 254131,
+  "batch": 5
+ },
+ {
+  "id": "owen/just",
+  "title_en": "Doctrine of Justification by Faith",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 1554223,
+  "capped": false,
+  "words": 259037,
+  "batch": 5
+ },
+ {
+  "id": "flavel/grace",
+  "title_en": "Method of Grace in the Gospel Redemption",
+  "author_en": "Flavel, John (1627-1691) <b>(6 classics)</b>",
+  "bytes": 1556183,
+  "capped": false,
+  "words": 259364,
+  "batch": 5
+ },
+ {
+  "id": "maclaren/2kings_eccl",
+  "title_en": "Expositions of the Holy Scriptures: Second Kings from Chap. VIII, and Chronicles, Ezra, and Nehemiah, Esther, Job, Proverbs and Ecclesiastes",
+  "author_en": "MacLaren, Alexander (1826-1910) <b>(19 classics)</b>",
+  "bytes": 1578286,
+  "capped": false,
+  "words": 263048,
+  "batch": 5
+ },
+ {
+  "id": "boyce/theology",
+  "title_en": "Abstract of Systematic Theology",
+  "author_en": "Boyce, James Petigru (1827-1888)",
+  "bytes": 1593443,
+  "capped": false,
+  "words": 265574,
+  "batch": 5
+ },
+ {
+  "id": "spurgeon/proverbs",
+  "title_en": "Sermons on Proverbs",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1610771,
+  "capped": false,
+  "words": 268462,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom13",
+  "title_en": "Commentary on Isaiah - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1652911,
+  "capped": false,
+  "words": 275485,
+  "batch": 5
+ },
+ {
+  "id": "flavel/fountain",
+  "title_en": "Fountain of Life Opened Up",
+  "author_en": "Flavel, John (1627-1691) <b>(6 classics)</b>",
+  "bytes": 1653511,
+  "capped": false,
+  "words": 275585,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom20",
+  "title_en": "Commentary on Jeremiah and Lamentations - Volume 4",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1734373,
+  "capped": false,
+  "words": 289062,
+  "batch": 5
+ },
+ {
+  "id": "owen/evangelicalchurches",
+  "title_en": "Inquiry into the Original, Nature, Institution, Power, Order, and Communion of Evangelical Churches",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 1741956,
+  "capped": false,
+  "words": 290326,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom30",
+  "title_en": "Commentary on Zechariah, Malachi",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1748041,
+  "capped": false,
+  "words": 291340,
+  "batch": 5
+ },
+ {
+  "id": "spurgeon/sermons62",
+  "title_en": "Spurgeon's Sermons Volume 62: 1916",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1752087,
+  "capped": false,
+  "words": 292015,
+  "batch": 5
+ },
+ {
+  "id": "calvin/calcom08",
+  "title_en": "Commentary on Psalms - Volume 1",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1757112,
+  "capped": false,
+  "words": 292852,
+  "batch": 5
+ },
+ {
+  "id": "spurgeon/morneve",
+  "title_en": "Morning and Evening: Daily Readings",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1802969,
+  "capped": false,
+  "words": 300495,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons02",
+  "title_en": "Spurgeon's Sermons Volume 02: 1856",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1808817,
+  "capped": false,
+  "words": 301470,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons01",
+  "title_en": "Spurgeon's Sermons Volume 01: 1855",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1847591,
+  "capped": false,
+  "words": 307932,
+  "batch": 6
+ },
+ {
+  "id": "calvin/calcom38",
+  "title_en": "Commentary on Romans",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 1876171,
+  "capped": false,
+  "words": 312695,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons57",
+  "title_en": "Spurgeon's Sermons Volume 57: 1911",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1904988,
+  "capped": false,
+  "words": 317498,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons58",
+  "title_en": "Spurgeon's Sermons Volume 58: 1912",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1926476,
+  "capped": false,
+  "words": 321079,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons59",
+  "title_en": "Spurgeon's Sermons Volume 59: 1913",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1931532,
+  "capped": false,
+  "words": 321922,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons61",
+  "title_en": "Spurgeon's Sermons Volume 61: 1915",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1967761,
+  "capped": false,
+  "words": 327960,
+  "batch": 6
+ },
+ {
+  "id": "whitefield/sermons",
+  "title_en": "Selected Sermons of George Whitefield",
+  "author_en": "Whitefield, George (1714-1770)",
+  "bytes": 1977844,
+  "capped": false,
+  "words": 329641,
+  "batch": 6
+ },
+ {
+  "id": "manton/manton02",
+  "title_en": "Complete Works of Thomas Manton, D.D. Vol. II",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 1990268,
+  "capped": false,
+  "words": 331711,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons03",
+  "title_en": "Spurgeon's Sermons Volume 03: 1857",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1990290,
+  "capped": false,
+  "words": 331715,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons56",
+  "title_en": "Spurgeon's Sermons Volume 56: 1910",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1994102,
+  "capped": false,
+  "words": 332350,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons60",
+  "title_en": "Spurgeon's Sermons Volume 60: 1914",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 1997637,
+  "capped": false,
+  "words": 332940,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons38",
+  "title_en": "Spurgeon's Sermons Volume 38: 1892",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2000024,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons21",
+  "title_en": "Spurgeon's Sermons Volume 21: 1875",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2000064,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons18",
+  "title_en": "Spurgeon's Sermons Volume 18: 1872",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2001066,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "owen/perseverance",
+  "title_en": "Doctrine of the Saints' Perseverance Explained and Confirmed",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 2001244,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "berkhof/systematictheology",
+  "title_en": "Systematic Theology",
+  "author_en": "Berkhof, Louis (1873-1957)",
+  "bytes": 2001463,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "edwards/works2",
+  "title_en": "Works of Jonathan Edwards, Volume Two",
+  "author_en": "Edwards, Jonathan (1703-1758) <b>(7 classics)</b>",
+  "bytes": 2001463,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons41",
+  "title_en": "Spurgeon's Sermons Volume 41: 1895",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2001489,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons09",
+  "title_en": "Spurgeon's Sermons Volume 09: 1863",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2001736,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons47",
+  "title_en": "Spurgeon's Sermons Volume 47: 1901",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2001871,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons19",
+  "title_en": "Spurgeon's Sermons Volume 19: 1873",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2001909,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "owen/sermons",
+  "title_en": "Sermons of John Owen",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 2002653,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons27",
+  "title_en": "Spurgeon's Sermons Volume 27: 1881",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2002770,
+  "capped": true,
+  "words": 333333,
+  "batch": 6
+ },
+ {
+  "id": "spurgeon/sermons08",
+  "title_en": "Spurgeon's Sermons Volume 08: 1863",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2002888,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons52",
+  "title_en": "Spurgeon's Sermons Volume 52: 1906",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2003316,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons45",
+  "title_en": "Spurgeon's Sermons Volume 45: 1899",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2003606,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "manton/manton05",
+  "title_en": "Complete Works of Thomas Manton, D.D. Vol. V",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 2003916,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons53",
+  "title_en": "Spurgeon's Sermons Volume 53: 1907",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2004107,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons26",
+  "title_en": "Spurgeon's Sermons Volume 26: 1880",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2005326,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons55",
+  "title_en": "Spurgeon's Sermons Volume 55: 1909",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2005551,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons22",
+  "title_en": "Spurgeon's Sermons Volume 22: 1876",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2006169,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons25",
+  "title_en": "Spurgeon's Sermons Volume 25: 1879",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2006245,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons05",
+  "title_en": "Spurgeon's Sermons Volume 05: 1859",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2006347,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons11",
+  "title_en": "Spurgeon's Sermons Volume 11: 1865",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2006656,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons20",
+  "title_en": "Spurgeon's Sermons Volume 20: 1874",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2006923,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons36",
+  "title_en": "Spurgeon's Sermons Volume 36: 1890",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2007661,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons54",
+  "title_en": "Spurgeon's Sermons Volume 54: 1908",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2008062,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons07",
+  "title_en": "Spurgeon's Sermons Volume 07: 1861",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2008420,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons49",
+  "title_en": "Spurgeon's Sermons Volume 49: 1903",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2008681,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons06",
+  "title_en": "Spurgeon's Sermons Volume 06: 1860",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2009027,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "hodge/theology2",
+  "title_en": "Systematic Theology - Volume II",
+  "author_en": "Hodge, Charles (1797-1878) <b>(6 classics)</b>",
+  "bytes": 2009858,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons04",
+  "title_en": "Spurgeon's Sermons Volume 04: 1858",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2010203,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "hodge/theology1",
+  "title_en": "Systematic Theology - Volume I",
+  "author_en": "Hodge, Charles (1797-1878) <b>(6 classics)</b>",
+  "bytes": 2010692,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons42",
+  "title_en": "Spurgeon's Sermons Volume 42: 1896",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2010712,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons43",
+  "title_en": "Spurgeon's Sermons Volume 43: 1897",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2011087,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons29",
+  "title_en": "Spurgeon's Sermons Volume 29: 1883",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2011290,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons37",
+  "title_en": "Spurgeon's Sermons Volume 37: 1891",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2011414,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "spurgeon/sermons28",
+  "title_en": "Spurgeon's Sermons Volume 28: 1882",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2011619,
+  "capped": true,
+  "words": 333333,
+  "batch": 7
+ },
+ {
+  "id": "calvin/institutes",
+  "title_en": "Institutes of the Christian Religion",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 2012257,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "owen/vindicevang",
+  "title_en": "Vindiciae Evangelicae or, the Mystery of the Gospel Vindicated and Socinianism Examined",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 2012291,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "spurgeon/sermons40",
+  "title_en": "Spurgeon's Sermons Volume 40: 1894",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2012425,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "gill/doctrinal",
+  "title_en": "Doctrinal Divinity",
+  "author_en": "Gill, John (1697-1771)",
+  "bytes": 2013067,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "hodge/theology3",
+  "title_en": "Systematic Theology - Volume III",
+  "author_en": "Hodge, Charles (1797-1878) <b>(6 classics)</b>",
+  "bytes": 2013124,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "gill/song",
+  "title_en": "Exposition of the Book of Solomon's Song",
+  "author_en": "Gill, John (1697-1771)",
+  "bytes": 2013137,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "spurgeon/sermons34",
+  "title_en": "Spurgeon's Sermons Volume 34: 1888",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2013345,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "spurgeon/sermons50",
+  "title_en": "Spurgeon's Sermons Volume 50: 1904",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2014443,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "spurgeon/sermons46",
+  "title_en": "Spurgeon's Sermons Volume 46: 1900",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2014980,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "calvin/sermons",
+  "title_en": "Three Volumes of Sermons",
+  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "edwards/works1",
+  "title_en": "Works of Jonathan Edwards, Volume One",
+  "author_en": "Edwards, Jonathan (1703-1758) <b>(7 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "gill/practical",
+  "title_en": "Body of Practical Divinity",
+  "author_en": "Gill, John (1697-1771)",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "manton/manton01",
+  "title_en": "Complete Works of Thomas Manton, D.D. Vol. I",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "manton/manton03",
+  "title_en": "Complete Works of Thomas Manton, D.D. Vol. III",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "manton/manton04",
+  "title_en": "Complete Works of Thomas Manton, D.D. Vol. IV",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "manton/manton06",
+  "title_en": "Works of Thomas Manton, D.D. Vol. VI",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "manton/manton07",
+  "title_en": "Works of Thomas Manton, D.D. Vol. VII",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "owen/communion",
+  "title_en": "Of Communion with God the Father, Son and Holy Ghost",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "manton/manton08",
+  "title_en": "Complete Works of Thomas Manton, D.D. Vol. VIII",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "manton/manton20",
+  "title_en": "Works of Thomas Manton, D.D. Vol. XX",
+  "author_en": "Manton, Thomas (1620-1677) <b>(9 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "owen/deathofdeath",
+  "title_en": "Death of Death in the Death of Christ",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "owen/pneum",
+  "title_en": "Pneumatologia",
+  "author_en": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "spurgeon/sermons10",
+  "title_en": "Spurgeon's Sermons Volume 10: 1864",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "spurgeon/sermons12",
+  "title_en": "Spurgeon's Sermons Volume 12: 1866",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "spurgeon/sermons13",
+  "title_en": "Spurgeon's Sermons Volume 13: 1867",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 8
+ },
+ {
+  "id": "spurgeon/sermons14",
+  "title_en": "Spurgeon's Sermons Volume 14: 1868",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons17",
+  "title_en": "Spurgeon's Sermons Volume 17: 1871",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons15",
+  "title_en": "Spurgeon's Sermons Volume 15: 1869",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons23",
+  "title_en": "Spurgeon's Sermons Volume 23: 1877",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons16",
+  "title_en": "Spurgeon's Sermons Volume 16: 1870",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons24",
+  "title_en": "Spurgeon's Sermons Volume 24: 1878",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons30",
+  "title_en": "Spurgeon's Sermons Volume 30: 1884",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons31",
+  "title_en": "Spurgeon's Sermons Volume 31: 1885",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons32",
+  "title_en": "Spurgeon's Sermons Volume 32: 1886",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons33",
+  "title_en": "Spurgeon's Sermons Volume 33: 1887",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons35",
+  "title_en": "Spurgeon's Sermons Volume 35: 1889",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons39",
+  "title_en": "Spurgeon's Sermons Volume 39: 1893",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons44",
+  "title_en": "Spurgeon's Sermons Volume 44: 1898",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons48",
+  "title_en": "Spurgeon's Sermons Volume 48: 1902",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ },
+ {
+  "id": "spurgeon/sermons51",
+  "title_en": "Spurgeon's Sermons Volume 51: 1905",
+  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "bytes": 2015232,
+  "capped": true,
+  "words": 333333,
+  "batch": 9
+ }
+]
