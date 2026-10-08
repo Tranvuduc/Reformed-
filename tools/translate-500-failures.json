@@ -1,27 +1,23 @@
 [
  {
-  "id": "alexander_jw/crucible",
-  "error": "gemini call failed: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
- },
- {
   "id": "clarkson/owenfuneral",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flas"
  },
  {
   "id": "flavel/lovely",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flas"
  },
  {
   "id": "calvin/institutio1",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flas"
  },
  {
   "id": "bunyan/miscellaneous",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/ge"
  },
  {
   "id": "calvin/institutio2",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash-lite is no longer available. Please update your code to use models/gemini-3.5"
  },
  {
   "id": "flavel/life",
@@ -33,11 +29,11 @@
  },
  {
   "id": "strong/theology2",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/ge"
  },
  {
   "id": "pink/godhood",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/ge"
  },
  {
   "id": "pink/tithing",
@@ -45,7 +41,7 @@
  },
  {
   "id": "spurgeon/treasury1",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flas"
  },
  {
   "id": "spurgeon/treasury5",
@@ -53,7 +49,7 @@
  },
  {
   "id": "spurgeon/treasury6",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use mode"
  },
  {
   "id": "spurgeon/treasury4",
@@ -61,7 +57,7 @@
  },
  {
   "id": "spurgeon/treasury2",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flas"
  },
  {
   "id": "spurgeon/treasury3",
@@ -69,11 +65,11 @@
  },
  {
   "id": "whyte/behmen",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/ge"
  },
  {
   "id": "spurgeon/comment",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash-lite is no longer available. Please update your code to use models/gemini-3.5"
  },
  {
   "id": "whyte/teresa",
@@ -85,11 +81,11 @@
  },
  {
   "id": "owen/grotius",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/ge"
  },
  {
   "id": "knox/blast",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 404 {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.0-flash-lite is no longer available. Please update your code to use models/gemini-3.5"
  },
  {
   "id": "pink/comfort",
@@ -97,6 +93,6 @@
  },
  {
   "id": "pink/inspiration",
-  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
+  "error": "gemini call failed: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
  }
 ]
