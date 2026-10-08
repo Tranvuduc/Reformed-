@@ -1168,5 +1168,32 @@
   "author": "J. C. Ryle",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "kuyper/ascent",
+  "file": "kuyper-ascent.txt",
+  "title": "Sự Thăng Thiên Của Đấng Christ",
+  "orig": "De Hemelvaart van Christus (from Dagen van Goede Boodschap)",
+  "author": "Abraham Kuyper",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "kuyper/greater",
+  "file": "kuyper-greater-pd.txt",
+  "title": "Các Ngươi Sẽ Làm Những Việc Lớn Hơn",
+  "orig": "Pro Rege (selection)",
+  "author": "Abraham Kuyper",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "kuyper/islam",
+  "file": "kuyper-islam.txt",
+  "title": "Huyền Nhiệm Hồi Giáo",
+  "orig": "Het Raadsel van den Islam (from Om de Oude Wereldzee)",
+  "author": "Abraham Kuyper",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
