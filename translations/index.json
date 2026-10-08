@@ -1,14 +1,12 @@
 [
  {
   "id": "knox/prayer",
-  "file": "knox-prayer.txt",
-  "title": "Luận về Sự cầu nguyện",
+  "file": "knox-prayer-pd.txt",
+  "title": "Luận Về Sự Cầu Nguyện",
   "orig": "A Treatise on Prayer",
   "author": "John Knox",
-  "by": "Claude",
-  "reviewed": false,
-  "hold": true,
-  "hold_reason": "Nguồn tiếng Anh là bản hiện đại hóa (Kevin Reed, 1995) còn bản quyền; cần dịch lại từ bản Laing 1895 trước khi đăng."
+  "by": "Muse",
+  "reviewed": false
  },
  {
   "id": "owen/catechisms",
