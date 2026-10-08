@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: pip install edge-tts
       - run: python3 tools/tts_gen.py "${{ inputs.slug }}" --voice "${{ inputs.voice }}" --limit "${{ inputs.limit }}" --out tts
         env:
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Tạo sách nói giọng tự nhiên (Azure Speech) theo từng đoạn của trình đọc.
 
-Chạy trên MÁY BẠN hoặc GitHub Actions với khóa của bạn (không đưa khóa vào mã):
+Có khóa Azure thì dùng Azure; không có khóa thì tự dùng edge-tts (pip install edge-tts).
+Chạy trên máy bạn hoặc GitHub Actions (không đưa khóa vào mã):
   export AZURE_SPEECH_KEY=...   AZURE_SPEECH_REGION=southeastasia
   python3 tools/tts_gen.py <slug> [--voice vi-VN-HoaiMyNeural] [--limit N] [--dry-run]
 
@@ -89,6 +90,26 @@ def synth(text, voice, key, region, rate):
     raise SystemExit("Azure không phản hồi")
 
 
+def synth_edge(text, voice, rate):
+    """Không cần tài khoản/khóa: dùng giọng Microsoft Edge (cùng giọng thần kinh vi-VN)."""
+    import asyncio, tempfile, edge_tts
+    r = rate if rate[0] in "+-" else "+" + rate
+    async def go():
+        with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as f:
+            name = f.name
+        await edge_tts.Communicate(text, voice, rate=r).save(name)
+        b = open(name, "rb").read(); os.remove(name); return b
+    for a in range(4):
+        try:
+            b = asyncio.run(go())
+            if len(b) > 200:
+                return b
+        except Exception as e:
+            err = e
+        time.sleep(2 ** a * 2)
+    raise SystemExit("Edge TTS lỗi: %s" % err)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("slug")
@@ -111,7 +132,7 @@ def main():
         return
     key, region = os.environ.get("AZURE_SPEECH_KEY"), os.environ.get("AZURE_SPEECH_REGION", "southeastasia")
     if not key:
-        raise SystemExit("Thiếu biến môi trường AZURE_SPEECH_KEY")
+        print("Không có AZURE_SPEECH_KEY → dùng edge-tts (miễn phí, không cần tài khoản)")
     od = os.path.join(a.out, a.slug)
     os.makedirs(od, exist_ok=True)
     for k, p in enumerate(paras):
@@ -121,7 +142,7 @@ def main():
         txt = speakable(p, pairs)
         if not re.search(r"\w", txt):
             continue
-        data = b"".join(synth(c, a.voice, key, region, a.rate) for c in split(txt))
+        data = b"".join((synth(c, a.voice, key, region, a.rate) if key else synth_edge(c, a.voice, a.rate)) for c in split(txt))
         open(fn, "wb").write(data)
         if k % 20 == 0:
             print("  %d/%d" % (k, len(paras)), flush=True)
