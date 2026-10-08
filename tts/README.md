@@ -1,5 +1,3 @@
-# Sách nói giọng tự nhiên (tạo sẵn)
-1. Azure Speech (gói F0 miễn phí ≈500K ký tự/tháng) → tạo khóa; đặt secret `AZURE_SPEECH_KEY`, `AZURE_SPEECH_REGION` trong GitHub (hoặc biến môi trường trên máy).
-2. `python3 tools/tts_gen.py do-you-pray --dry-run` (đếm ký tự) rồi chạy thật; hoặc Actions → "Tạo sách nói (Azure)".
-3. Tải `tts_out/<slug>/` lên nơi lưu trữ có link công khai (Cloudflare R2, repo GitHub Pages riêng...).
-4. Sửa `tts/index.json`: `{"base":"https://.../","books":{"do-you-pray":30}}` (số = số đoạn). Trình đọc sẽ có giọng "Giọng tự nhiên (tạo sẵn)" cho sách đó, lỗi thì tự quay về giọng cũ.
+# Sách nói giọng tự nhiên
+Chỉ cần 2 secret (`AZURE_SPEECH_KEY`, `AZURE_SPEECH_REGION`) rồi vào Actions → "Tạo sách nói (Azure)" → Run workflow → nhập tên sách. Bot tự tạo âm thanh, đưa lên site và cập nhật `index.json`.
+Chỉ dùng cho sách ngắn (mỗi 10.000 ký tự ≈ 4MB âm thanh).

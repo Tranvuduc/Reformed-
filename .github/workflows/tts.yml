@@ -2,19 +2,30 @@ name: Tạo sách nói (Azure)
 on:
   workflow_dispatch:
     inputs:
-      slug: {description: "slug trong txt/ (vd do-you-pray)", required: true}
+      slug: {description: "Tên sách (vd do-you-pray)", required: true, default: "do-you-pray"}
       voice: {description: "Giọng", default: "vi-VN-HoaiMyNeural"}
       limit: {description: "Chỉ N đoạn đầu (0 = cả sách)", default: "0"}
+permissions:
+  contents: write
 jobs:
   gen:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 tools/tts_gen.py "${{ inputs.slug }}" --voice "${{ inputs.voice }}" --limit "${{ inputs.limit }}"
+      - run: python3 tools/tts_gen.py "${{ inputs.slug }}" --voice "${{ inputs.voice }}" --limit "${{ inputs.limit }}" --out tts
         env:
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
-      - uses: actions/upload-artifact@v4
-        with:
-          name: tts-${{ inputs.slug }}
-          path: tts_out/${{ inputs.slug }}
+      - name: Cập nhật danh sách và đẩy lên site
+        run: |
+          python3 - <<'PY'
+          import json, os
+          s = "${{ inputs.slug }}"
+          n = len([f for f in os.listdir("tts/" + s) if f.endswith(".mp3")])
+          j = json.load(open("tts/index.json"))
+          j["base"] = j.get("base") or "tts/"
+          j["books"][s] = max(int(f[:-4]) for f in os.listdir("tts/" + s) if f.endswith(".mp3")) + 1
+          json.dump(j, open("tts/index.json", "w"), indent=1)
+          PY
+          git config user.name "tts-bot"; git config user.email "tts-bot@users.noreply.github.com"
+          git add tts && git commit -m "Sách nói giọng tự nhiên: ${{ inputs.slug }}" && git push

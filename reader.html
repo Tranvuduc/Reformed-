@@ -364,7 +364,7 @@ function preOn(){var v=ls("rv.voice");return!!PRE&&!PREBAD&&trm==="0"&&(!v||v===
 async function buildQueue(startK){
   var texts=ptexts(cur);
   if(trm!=="0"){try{var t=await trp[cur];if(t&&t.length===texts.length)texts=t}catch(e){}}
-  queue=[];var pre=preOn(),pg0=pages[cur].a;texts.forEach(function(tx,k){if(k<startK)return;if(pre&&/\w/.test(tx)){queue.push({t:tx,k:k,g:pg0+k});return}chunks(tx).forEach(function(c){queue.push({t:c,k:k})})});qi=0;
+  queue=[];var pre=preOn(),pg0=pages[cur].a;texts.forEach(function(tx,k){if(k<startK)return;if(pre&&pg0+k<PRE.n&&/\w/.test(tx)){queue.push({t:tx,k:k,g:pg0+k});return}chunks(tx).forEach(function(c){queue.push({t:c,k:k})})});qi=0;
 }
 function firstVisibleK(){var els=$("txt").children;for(var i=0;i<els.length;i++){if(els[i].getBoundingClientRect().bottom>90)return+els[i].dataset.k}return 0}
 var sid=0,gb={},gbk=[];function gBlob(u){if(!gb[u]){gb[u]=fetch(u).then(function(r){if(!r.ok)throw 0;return r.blob()}).then(function(b){return URL.createObjectURL(b)});gb[u].catch(function(){delete gb[u]});gbk.push(u);while(gbk.length>10){var o=gbk.shift();if(gb[o])gb[o].then(function(x){try{URL.revokeObjectURL(x)}catch(e){}});delete gb[o]}}return gb[u]}
