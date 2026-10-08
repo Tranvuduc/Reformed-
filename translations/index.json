@@ -1152,5 +1152,14 @@
   "author": "C. H. Spurgeon",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "knox/history",
+  "file": "knox-history.txt",
+  "title": "Lịch Sử Cải Chánh Scotland",
+  "orig": "The History of the Reformation in Scotland",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
