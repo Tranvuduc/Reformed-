@@ -3087,15 +3087,6 @@
   "batch": 15
  },
  {
-  "id": "arch/101175929.nlm.nih.gov",
-  "title_en": "Emmenagogues : their indications and uses",
-  "author_en": "Bovée, J. Wesley (John Wesley), 1861-1927, author",
-  "year": 1899,
-  "words": 4496,
-  "src": "https://archive.org/download/101175929.nlm.nih.gov/101175929_djvu.txt",
-  "batch": 15
- },
- {
   "id": "arch/101741194.nlm.nih.gov",
   "title_en": "Treatment of chronic inflammation of the mucous membrane of the eye, ear, and throat",
   "author_en": "Bates, William Horatio, 1860-1931, author",
@@ -3201,7 +3192,7 @@
   "year": 1777,
   "words": 4842,
   "src": "https://archive.org/download/bim_eighteenth-century_moral-and-political-mode_toplady-augustus-montag_1777/bim_eighteenth-century_moral-and-political-mode_toplady-augustus-montag_1777_djvu.txt",
-  "batch": 16
+  "batch": 15
  },
  {
   "id": "arch/bim_eighteenth-century_letters-written-in-mdcc_atkey-anthony_1745",
@@ -3426,7 +3417,7 @@
   "year": 1757,
   "words": 5248,
   "src": "https://archive.org/download/bim_eighteenth-century_the-duty-of-praying-for-_romaine-william_1757/bim_eighteenth-century_the-duty-of-praying-for-_romaine-william_1757_djvu.txt",
-  "batch": 17
+  "batch": 16
  },
  {
   "id": "arch/bim_eighteenth-century_a-testimony-left-by-mr-_rutherford-samuel_1739",
@@ -3651,7 +3642,7 @@
   "year": 1760,
   "words": 5662,
   "src": "https://archive.org/download/bim_eighteenth-century_the-dissenters-reasons-f_gill-john_1760/bim_eighteenth-century_the-dissenters-reasons-f_gill-john_1760_djvu.txt",
-  "batch": 18
+  "batch": 17
  },
  {
   "id": "arch/presentdayconcep00warf",
@@ -3876,7 +3867,7 @@
   "year": 1740,
   "words": 6032,
   "src": "https://archive.org/download/bim_eighteenth-century_christ-the-only-preserva_whitefield-george_1740/bim_eighteenth-century_christ-the-only-preserva_whitefield-george_1740_djvu.txt",
-  "batch": 19
+  "batch": 18
  },
  {
   "id": "arch/bim_eighteenth-century_the-best-security-agains_boston-thomas_1764",
@@ -4101,7 +4092,7 @@
   "year": 1764,
   "words": 6493,
   "src": "https://archive.org/download/bim_eighteenth-century_the-ministry-of-reconcil_hervey-james_1764/bim_eighteenth-century_the-ministry-of-reconcil_hervey-james_1764_djvu.txt",
-  "batch": 20
+  "batch": 19
  },
  {
   "id": "arch/bim_eighteenth-century_a-treatise-on-the-religi_hervey-james_1765",
@@ -4326,7 +4317,7 @@
   "year": 1760,
   "words": 6829,
   "src": "https://archive.org/download/bim_eighteenth-century_a-fragment-of-the-true-r_berridge-john_1760/bim_eighteenth-century_a-fragment-of-the-true-r_berridge-john_1760_djvu.txt",
-  "batch": 21
+  "batch": 20
  },
  {
   "id": "arch/bim_eighteenth-century_a-sermon-preached-on-the_goodwin-thomas_1702",
@@ -4551,7 +4542,7 @@
   "year": 1607,
   "words": 7408,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_epigrammatum-ioannis-owe_owen-john_1607/bim_early-english-books-1475-1640_epigrammatum-ioannis-owe_owen-john_1607_djvu.txt",
-  "batch": 22
+  "batch": 21
  },
  {
   "id": "arch/calltopersonalla00plum",
@@ -4776,7 +4767,7 @@
   "year": 1741,
   "words": 7814,
   "src": "https://archive.org/download/bim_eighteenth-century_the-method-of-grace-a-s_whitefield-george_1741/bim_eighteenth-century_the-method-of-grace-a-s_whitefield-george_1741_djvu.txt",
-  "batch": 23
+  "batch": 22
  },
  {
   "id": "arch/bim_eighteenth-century_a-monument-to-the-praise_newton-john_1785",
@@ -5001,7 +4992,7 @@
   "year": 1755,
   "words": 8191,
   "src": "https://archive.org/download/bim_eighteenth-century_a-discourse-upon-the-sel_romaine-william_1755_1/bim_eighteenth-century_a-discourse-upon-the-sel_romaine-william_1755_1_djvu.txt",
-  "batch": 24
+  "batch": 23
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_notable-and-comfortable-_knox-john_1583",
@@ -5184,15 +5175,6 @@
   "batch": 24
  },
  {
-  "id": "arch/b31908561",
-  "title_en": "A probationary surgical essay on cancer : submitted ... to the examination of the Royal College of Surgeons of Edinburgh",
-  "author_en": "Law, William, 1785-1825?",
-  "year": 1818,
-  "words": 8620,
-  "src": "https://archive.org/download/b31908561/b31908561_djvu.txt",
-  "batch": 24
- },
- {
   "id": "arch/bim_eighteenth-century_gwybodaeth-o-iechydwriae_romaine-william_1759",
   "title_en": "Gwybodaeth o iechydwriaeth yn werthfawr yn awr angeu. Gwedi ei wirio mewn pregeth. Bregethwyd Jonawr 4, 1759. ar farwola",
   "author_en": "Romaine, William",
@@ -5226,7 +5208,7 @@
   "year": 1704,
   "words": 8687,
   "src": "https://archive.org/download/bim_eighteenth-century_a-sermon-preached-novemb_howe-john_1704/bim_eighteenth-century_a-sermon-preached-novemb_howe-john_1704_djvu.txt",
-  "batch": 25
+  "batch": 24
  },
  {
   "id": "arch/sinnersinhandsof1920edwa",
@@ -5235,7 +5217,7 @@
   "year": 1920,
   "words": 8702,
   "src": "https://archive.org/download/sinnersinhandsof1920edwa/sinnersinhandsof1920edwa_djvu.txt",
-  "batch": 25
+  "batch": 24
  },
  {
   "id": "arch/dejectedchristia00palm",
@@ -5451,7 +5433,7 @@
   "year": 1788,
   "words": 9039,
   "src": "https://archive.org/download/bim_eighteenth-century_thoughts-upon-the-africa_newton-john_1788/bim_eighteenth-century_thoughts-upon-the-africa_newton-john_1788_djvu.txt",
-  "batch": 26
+  "batch": 25
  },
  {
   "id": "arch/bim_eighteenth-century_a-letter-to-his-excellen_whitefield-george_1768",
@@ -5460,7 +5442,7 @@
   "year": 1768,
   "words": 9039,
   "src": "https://archive.org/download/bim_eighteenth-century_a-letter-to-his-excellen_whitefield-george_1768/bim_eighteenth-century_a-letter-to-his-excellen_whitefield-george_1768_djvu.txt",
-  "batch": 26
+  "batch": 25
  },
  {
   "id": "arch/bim_eighteenth-century_tystiolaeth-o-ffydd-ac-y_gill-john_1782",
@@ -5676,7 +5658,7 @@
   "year": 1817,
   "words": 9499,
   "src": "https://archive.org/download/sermonpreachedin00chal/sermonpreachedin00chal_djvu.txt",
-  "batch": 27
+  "batch": 26
  },
  {
   "id": "arch/bim_eighteenth-century_the-scriptures-the-only-_gill-john_1751",
@@ -5685,7 +5667,7 @@
   "year": 1751,
   "words": 9501,
   "src": "https://archive.org/download/bim_eighteenth-century_the-scriptures-the-only-_gill-john_1751/bim_eighteenth-century_the-scriptures-the-only-_gill-john_1751_djvu.txt",
-  "batch": 27
+  "batch": 26
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-peace-maker_bates-william_1662",
@@ -5901,7 +5883,7 @@
   "year": 1850,
   "words": 9888,
   "src": "https://archive.org/download/sermonpreachedat00shed/sermonpreachedat00shed_djvu.txt",
-  "batch": 28
+  "batch": 27
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-sermon-preachd-febr-_howe-john_1698",
@@ -5910,7 +5892,7 @@
   "year": 1698,
   "words": 9891,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-sermon-preachd-febr-_howe-john_1698/bim_early-english-books-1641-1700_a-sermon-preachd-febr-_howe-john_1698_djvu.txt",
-  "batch": 28
+  "batch": 27
  },
  {
   "id": "arch/bim_eighteenth-century_the-glorious-state-of-th_gill-john_1756_0",
@@ -6126,7 +6108,7 @@
   "year": 1742,
   "words": 10203,
   "src": "https://archive.org/download/bim_eighteenth-century_some-remarks-on-a-late-p_whitefield-george_1742/bim_eighteenth-century_some-remarks-on-a-late-p_whitefield-george_1742_djvu.txt",
-  "batch": 29
+  "batch": 28
  },
  {
   "id": "arch/preparationforde00knox",
@@ -6135,7 +6117,7 @@
   "year": 1838,
   "words": 10209,
   "src": "https://archive.org/download/preparationforde00knox/preparationforde00knox_djvu.txt",
-  "batch": 29
+  "batch": 28
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-only-deliverer-from-_vincent-thomas_1671",
@@ -6351,7 +6333,7 @@
   "year": 1845,
   "words": 10600,
   "src": "https://archive.org/download/cihm_16713/cihm_16713_djvu.txt",
-  "batch": 30
+  "batch": 29
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-funeral-sermon-for_howe-john_1699",
@@ -6360,7 +6342,7 @@
   "year": 1699,
   "words": 10620,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-funeral-sermon-for_howe-john_1699/bim_early-english-books-1641-1700_a-funeral-sermon-for_howe-john_1699_djvu.txt",
-  "batch": 30
+  "batch": 29
  },
  {
   "id": "arch/bim_eighteenth-century_the-sure-performance-of-_gill-john_1755",
@@ -6576,7 +6558,7 @@
   "year": 1704,
   "words": 11132,
   "src": "https://archive.org/download/bim_eighteenth-century_a-church-in-the-house-a_henry-matthew_1704/bim_eighteenth-century_a-church-in-the-house-a_henry-matthew_1704_djvu.txt",
-  "batch": 31
+  "batch": 30
  },
  {
   "id": "arch/bim_eighteenth-century_the-cruel-watchmen-a-se_rutherford-samuel_1728",
@@ -6585,7 +6567,7 @@
   "year": 1728,
   "words": 11148,
   "src": "https://archive.org/download/bim_eighteenth-century_the-cruel-watchmen-a-se_rutherford-samuel_1728/bim_eighteenth-century_the-cruel-watchmen-a-se_rutherford-samuel_1728_djvu.txt",
-  "batch": 31
+  "batch": 30
  },
  {
   "id": "arch/balm-for-wounded-spirits-plumer",
@@ -6801,7 +6783,7 @@
   "year": 1770,
   "words": 11668,
   "src": "https://archive.org/download/bim_eighteenth-century_the-doctrine-of-predesti_gill-john_1770/bim_eighteenth-century_the-doctrine-of-predesti_gill-john_1770_djvu.txt",
-  "batch": 32
+  "batch": 31
  },
  {
   "id": "arch/bim_eighteenth-century_the-mutual-gain-of-chris_gill-john_1758",
@@ -6810,7 +6792,7 @@
   "year": 1758,
   "words": 11723,
   "src": "https://archive.org/download/bim_eighteenth-century_the-mutual-gain-of-chris_gill-john_1758/bim_eighteenth-century_the-mutual-gain-of-chris_gill-john_1758_djvu.txt",
-  "batch": 32
+  "batch": 31
  },
  {
   "id": "arch/bim_eighteenth-century_the-christian-triumph-b_booth-abraham_1796",
@@ -7026,7 +7008,7 @@
   "year": 1733,
   "words": 12185,
   "src": "https://archive.org/download/bim_eighteenth-century_a-discourse-on-prayer-f_gill-john_1733/bim_eighteenth-century_a-discourse-on-prayer-f_gill-john_1733_djvu.txt",
-  "batch": 33
+  "batch": 32
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-copie-of-a-letter-s_knox-john_1558",
@@ -7035,7 +7017,7 @@
   "year": 1558,
   "words": 12200,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-copie-of-a-letter-s_knox-john_1558/bim_early-english-books-1475-1640_the-copie-of-a-letter-s_knox-john_1558_djvu.txt",
-  "batch": 33
+  "batch": 32
  },
  {
   "id": "arch/bim_eighteenth-century_divine-emblems-or-tempo_bunyan-john_1792",
@@ -7251,7 +7233,7 @@
   "year": 1856,
   "words": 12631,
   "src": "https://archive.org/download/whatisyourhopequ00ryle/whatisyourhopequ00ryle_djvu.txt",
-  "batch": 34
+  "batch": 33
  },
  {
   "id": "arch/bim_eighteenth-century_a-sermon-occasioned-by-t_gill-john_1751",
@@ -7260,7 +7242,7 @@
   "year": 1751,
   "words": 12656,
   "src": "https://archive.org/download/bim_eighteenth-century_a-sermon-occasioned-by-t_gill-john_1751/bim_eighteenth-century_a-sermon-occasioned-by-t_gill-john_1751_djvu.txt",
-  "batch": 34
+  "batch": 33
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-funeral-sermon-on-the-_howe-john_1681",
@@ -7476,7 +7458,7 @@
   "year": 1784,
   "words": 13275,
   "src": "https://archive.org/download/bim_eighteenth-century_a-plan-of-academical-pre_newton-john_1784/bim_eighteenth-century_a-plan-of-academical-pre_newton-john_1784_djvu.txt",
-  "batch": 35
+  "batch": 34
  },
  {
   "id": "arch/bim_eighteenth-century_the-redeemers-ability-t_boston-thomas_1755",
@@ -7485,7 +7467,7 @@
   "year": 1755,
   "words": 13346,
   "src": "https://archive.org/download/bim_eighteenth-century_the-redeemers-ability-t_boston-thomas_1755/bim_eighteenth-century_the-redeemers-ability-t_boston-thomas_1755_djvu.txt",
-  "batch": 35
+  "batch": 34
  },
  {
   "id": "arch/hearsouthstateof00thor",
@@ -7701,7 +7683,7 @@
   "year": 1854,
   "words": 14039,
   "src": "https://archive.org/download/addressesdeliver00plum/addressesdeliver00plum_djvu.txt",
-  "batch": 36
+  "batch": 35
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_amintae-gaudia_watson-thomas_1592",
@@ -7710,7 +7692,7 @@
   "year": 1592,
   "words": 14086,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_amintae-gaudia_watson-thomas_1592/bim_early-english-books-1475-1640_amintae-gaudia_watson-thomas_1592_djvu.txt",
-  "batch": 36
+  "batch": 35
  },
  {
   "id": "arch/bim_eighteenth-century_popery-a-spiritual-tyran_henry-matthew_1712",
@@ -7926,7 +7908,7 @@
   "year": 1799,
   "words": 14685,
   "src": "https://archive.org/download/bim_eighteenth-century_the-being-and-attributes_etherington-thomas_1799/bim_eighteenth-century_the-being-and-attributes_etherington-thomas_1799_djvu.txt",
-  "batch": 37
+  "batch": 36
  },
  {
   "id": "arch/keyadaptedtoques00grim",
@@ -7935,7 +7917,7 @@
   "year": 1824,
   "words": 14704,
   "src": "https://archive.org/download/keyadaptedtoques00grim/keyadaptedtoques00grim_djvu.txt",
-  "batch": 37
+  "batch": 36
  },
  {
   "id": "arch/englandamerica00hodg",
@@ -8151,7 +8133,7 @@
   "year": 1755,
   "words": 15529,
   "src": "https://archive.org/download/mysteryofchristi00bost/mysteryofchristi00bost_djvu.txt",
-  "batch": 38
+  "batch": 37
  },
  {
   "id": "arch/gospelofincarnat00warf",
@@ -8160,7 +8142,7 @@
   "year": 1893,
   "words": 15550,
   "src": "https://archive.org/download/gospelofincarnat00warf/gospelofincarnat00warf_djvu.txt",
-  "batch": 38
+  "batch": 37
  },
  {
   "id": "arch/continuationofre00whit",
@@ -8376,7 +8358,7 @@
   "year": 1681,
   "words": 16503,
   "src": "https://archive.org/download/seenglish00baxt/seenglish00baxt_djvu.txt",
-  "batch": 39
+  "batch": 38
  },
  {
   "id": "arch/watsonianserial23wats",
@@ -8385,7 +8367,7 @@
   "year": 1927,
   "words": 16566,
   "src": "https://archive.org/download/watsonianserial23wats/watsonianserial23wats_djvu.txt",
-  "batch": 39
+  "batch": 38
  },
  {
   "id": "arch/cihm_64516",
@@ -8601,7 +8583,7 @@
   "year": 1922,
   "words": 17220,
   "src": "https://archive.org/download/CAT31448347/CAT31448347_djvu.txt",
-  "batch": 40
+  "batch": 39
  },
  {
   "id": "arch/stateofcountry00hodg",
@@ -8610,7 +8592,7 @@
   "year": 1861,
   "words": 17229,
   "src": "https://archive.org/download/stateofcountry00hodg/stateofcountry00hodg_djvu.txt",
-  "batch": 40
+  "batch": 39
  },
  {
   "id": "arch/bim_eighteenth-century_the-mutual-duty-of-pasto_gill-john_1734",
@@ -8826,7 +8808,7 @@
   "year": 1667,
   "words": 18226,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-sinfulnesse-of-sinne_bridge-william_1667/bim_early-english-books-1641-1700_the-sinfulnesse-of-sinne_bridge-william_1667_djvu.txt",
-  "batch": 41
+  "batch": 40
  },
  {
   "id": "arch/strayingstatecon00bost",
@@ -8835,7 +8817,7 @@
   "year": 1761,
   "words": 18280,
   "src": "https://archive.org/download/strayingstatecon00bost/strayingstatecon00bost_djvu.txt",
-  "batch": 41
+  "batch": 40
  },
  {
   "id": "arch/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1775",
@@ -9051,7 +9033,7 @@
   "year": 1642,
   "words": 18976,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-wounded-conscience-c_bridge-william_1642/bim_early-english-books-1641-1700_the-wounded-conscience-c_bridge-william_1642_djvu.txt",
-  "batch": 42
+  "batch": 41
  },
  {
   "id": "arch/bim_eighteenth-century_the-distinguishing-marks_edwards-jonathan_1742",
@@ -9060,7 +9042,7 @@
   "year": 1742,
   "words": 18989,
   "src": "https://archive.org/download/bim_eighteenth-century_the-distinguishing-marks_edwards-jonathan_1742/bim_eighteenth-century_the-distinguishing-marks_edwards-jonathan_1742_djvu.txt",
-  "batch": 42
+  "batch": 41
  },
  {
   "id": "arch/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1766",
@@ -9276,7 +9258,7 @@
   "year": 1853,
   "words": 19752,
   "src": "https://archive.org/download/lettertohisexcel00thor/lettertohisexcel00thor_djvu.txt",
-  "batch": 43
+  "batch": 42
  },
  {
   "id": "arch/useofchr00bona",
@@ -9285,7 +9267,7 @@
   "year": 1863,
   "words": 19762,
   "src": "https://archive.org/download/useofchr00bona/useofchr00bona_djvu.txt",
-  "batch": 43
+  "batch": 42
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_eschol-a-cluster-_owen-john-dd_1655",
@@ -9501,7 +9483,7 @@
   "year": 1692,
   "words": 21181,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-funeral-sermon-for-the_bates-william_1692/bim_early-english-books-1641-1700_a-funeral-sermon-for-the_bates-william_1692_djvu.txt",
-  "batch": 44
+  "batch": 43
  },
  {
   "id": "arch/childspilgrimspr02buny",
@@ -9510,7 +9492,7 @@
   "year": 1860,
   "words": 21183,
   "src": "https://archive.org/download/childspilgrimspr02buny/childspilgrimspr02buny_djvu.txt",
-  "batch": 44
+  "batch": 43
  },
  {
   "id": "arch/bibletrueinfidel00plum",
@@ -9726,7 +9708,7 @@
   "year": 1920,
   "words": 22255,
   "src": "https://archive.org/download/indianapoliscent00bate/indianapoliscent00bate_djvu.txt",
-  "batch": 45
+  "batch": 44
  },
  {
   "id": "arch/layelementininte00broo",
@@ -9735,7 +9717,7 @@
   "year": 1922,
   "words": 22268,
   "src": "https://archive.org/download/layelementininte00broo/layelementininte00broo_djvu.txt",
-  "batch": 45
+  "batch": 44
  },
  {
   "id": "arch/bim_eighteenth-century_mr-wesleys-principles-d_hervey-james_1765",
@@ -9951,7 +9933,7 @@
   "year": 1763,
   "words": 23003,
   "src": "https://archive.org/download/bim_eighteenth-century_the-water-of-life-or-a-_bunyan-john_1763/bim_eighteenth-century_the-water-of-life-or-a-_bunyan-john_1763_djvu.txt",
-  "batch": 46
+  "batch": 45
  },
  {
   "id": "arch/bim_eighteenth-century_the-existence-and-attrib_knowles-thomas_1746",
@@ -9960,7 +9942,7 @@
   "year": 1746,
   "words": 23099,
   "src": "https://archive.org/download/bim_eighteenth-century_the-existence-and-attrib_knowles-thomas_1746/bim_eighteenth-century_the-existence-and-attrib_knowles-thomas_1746_djvu.txt",
-  "batch": 46
+  "batch": 45
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-counterfeit-christia_keach-benjamin_1691",
@@ -10176,7 +10158,7 @@
   "year": 1887,
   "words": 24343,
   "src": "https://archive.org/download/nagravnligaordtil00ryle/nagravnligaordtil00ryle_djvu.txt",
-  "batch": 47
+  "batch": 46
  },
  {
   "id": "arch/personsinlesscha0000plum",
@@ -10185,7 +10167,7 @@
   "year": 1876,
   "words": 24373,
   "src": "https://archive.org/download/personsinlesscha0000plum/personsinlesscha0000plum_djvu.txt",
-  "batch": 47
+  "batch": 46
  },
  {
   "id": "arch/plainthoughtsabo00plum",
@@ -10401,7 +10383,7 @@
   "year": 1904,
   "words": 25276,
   "src": "https://archive.org/download/reminiscencesoff00gill/reminiscencesoff00gill_djvu.txt",
-  "batch": 48
+  "batch": 47
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-vanity-of-this-morta_howe-john_1678",
@@ -10410,7 +10392,7 @@
   "year": 1678,
   "words": 25294,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-vanity-of-this-morta_howe-john_1678/bim_early-english-books-1641-1700_the-vanity-of-this-morta_howe-john_1678_djvu.txt",
-  "batch": 48
+  "batch": 47
  },
  {
   "id": "arch/apologyforlatech00full",
@@ -10419,15 +10401,6 @@
   "year": 1808,
   "words": 25499,
   "src": "https://archive.org/download/apologyforlatech00full/apologyforlatech00full_djvu.txt",
-  "batch": 48
- },
- {
-  "id": "arch/chemistryoflinse00frierich",
-  "title_en": "The chemistry of linseed oil",
-  "author_en": "Friend, J. Newton (John Newton), b. 1881",
-  "year": 1917,
-  "words": 25508,
-  "src": "https://archive.org/download/chemistryoflinse00frierich/chemistryoflinse00frierich_djvu.txt",
   "batch": 48
  },
  {
@@ -10602,15 +10575,6 @@
   "batch": 48
  },
  {
-  "id": "arch/chemistryofcombu00frierich",
-  "title_en": "The chemistry of combustion",
-  "author_en": "Friend, J. Newton (John Newton), b. 1881",
-  "year": 1922,
-  "words": 26390,
-  "src": "https://archive.org/download/chemistryofcombu00frierich/chemistryofcombu00frierich_djvu.txt",
-  "batch": 48
- },
- {
   "id": "arch/onlovetochristch00vinc",
   "title_en": "On love to Christ : chiefly extracted from the true Christian's love of the unseen Christ",
   "author_en": "Vincent, Thomas",
@@ -10626,7 +10590,7 @@
   "year": 1669,
   "words": 26453,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-art-of-practical-gau_newton-john_1669/bim_early-english-books-1641-1700_the-art-of-practical-gau_newton-john_1669_djvu.txt",
-  "batch": 49
+  "batch": 48
  },
  {
   "id": "arch/journalofvoyagef00whit",
@@ -10635,7 +10599,7 @@
   "year": 1743,
   "words": 26572,
   "src": "https://archive.org/download/journalofvoyagef00whit/journalofvoyagef00whit_djvu.txt",
-  "batch": 49
+  "batch": 48
  },
  {
   "id": "arch/bim_eighteenth-century_an-earnest-and-serious-a_law-william_1772",
@@ -10644,7 +10608,7 @@
   "year": 1772,
   "words": 26660,
   "src": "https://archive.org/download/bim_eighteenth-century_an-earnest-and-serious-a_law-william_1772/bim_eighteenth-century_an-earnest-and-serious-a_law-william_1772_djvu.txt",
-  "batch": 49
+  "batch": 48
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_patience-and-its-perfect_goodwin-thomas_1667",
@@ -10653,7 +10617,7 @@
   "year": 1667,
   "words": 26673,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_patience-and-its-perfect_goodwin-thomas_1667/bim_early-english-books-1641-1700_patience-and-its-perfect_goodwin-thomas_1667_djvu.txt",
-  "batch": 49
+  "batch": 48
  },
  {
   "id": "arch/dredwinaabbotton00warf",
@@ -10851,7 +10815,7 @@
   "year": 1782,
   "words": 27831,
   "src": "https://archive.org/download/bim_eighteenth-century_crook-in-the-lot-or-the_boston-thomas_1782/bim_eighteenth-century_crook-in-the-lot-or-the_boston-thomas_1782_djvu.txt",
-  "batch": 50
+  "batch": 49
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-christians-portion-_sibbes-richard_1638",
@@ -10860,7 +10824,7 @@
   "year": 1638,
   "words": 27863,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-christians-portion-_sibbes-richard_1638/bim_early-english-books-1641-1700_the-christians-portion-_sibbes-richard_1638_djvu.txt",
-  "batch": 50
+  "batch": 49
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_words-whereby-we-may-be-_vincent-thomas_1668",
@@ -10869,7 +10833,7 @@
   "year": 1668,
   "words": 28050,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_words-whereby-we-may-be-_vincent-thomas_1668/bim_early-english-books-1641-1700_words-whereby-we-may-be-_vincent-thomas_1668_djvu.txt",
-  "batch": 50
+  "batch": 49
  },
  {
   "id": "arch/bim_eighteenth-century_a-relation-of-thf-sic-_bunyan-john_1765",
@@ -10878,7 +10842,7 @@
   "year": 1765,
   "words": 28058,
   "src": "https://archive.org/download/bim_eighteenth-century_a-relation-of-thf-sic-_bunyan-john_1765/bim_eighteenth-century_a-relation-of-thf-sic-_bunyan-john_1765_djvu.txt",
-  "batch": 50
+  "batch": 49
  },
  {
   "id": "arch/11347875bsb",
@@ -11076,7 +11040,7 @@
   "year": 1883,
   "words": 29211,
   "src": "https://archive.org/download/hopculturepracti00full/hopculturepracti00full_djvu.txt",
-  "batch": 51
+  "batch": 50
  },
  {
   "id": "arch/bim_eighteenth-century_a-dissertation-concernin_gill-john_1771",
@@ -11085,7 +11049,7 @@
   "year": 1771,
   "words": 29212,
   "src": "https://archive.org/download/bim_eighteenth-century_a-dissertation-concernin_gill-john_1771/bim_eighteenth-century_a-dissertation-concernin_gill-john_1771_djvu.txt",
-  "batch": 51
+  "batch": 50
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1660",
@@ -11094,7 +11058,7 @@
   "year": 1660,
   "words": 29234,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1660/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1660_djvu.txt",
-  "batch": 51
+  "batch": 50
  },
  {
   "id": "arch/argumentapriori03gillgoog",
@@ -11103,7 +11067,7 @@
   "year": 1865,
   "words": 29236,
   "src": "https://archive.org/download/argumentapriori03gillgoog/argumentapriori03gillgoog_djvu.txt",
-  "batch": 51
+  "batch": 50
  },
  {
   "id": "arch/bim_eighteenth-century_the-government-and-disci_goodwin-thomas_1722",
@@ -11301,7 +11265,7 @@
   "year": 1685,
   "words": 30642,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-one-thing-necessary_baxter-richard_1685/bim_early-english-books-1641-1700_the-one-thing-necessary_baxter-richard_1685_djvu.txt",
-  "batch": 52
+  "batch": 51
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-preservative-against-s_edwards-jonathan_1698_0",
@@ -11310,7 +11274,7 @@
   "year": 1698,
   "words": 30673,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-preservative-against-s_edwards-jonathan_1698_0/bim_early-english-books-1641-1700_a-preservative-against-s_edwards-jonathan_1698_0_djvu.txt",
-  "batch": 52
+  "batch": 51
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_a-breathing-after-god-o_sibbes-richard_1639",
@@ -11319,7 +11283,7 @@
   "year": 1639,
   "words": 30720,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_a-breathing-after-god-o_sibbes-richard_1639/bim_early-english-books-1475-1640_a-breathing-after-god-o_sibbes-richard_1639_djvu.txt",
-  "batch": 52
+  "batch": 51
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-treatise-of-the-domini_owen-john_1688",
@@ -11328,7 +11292,7 @@
   "year": 1688,
   "words": 30822,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-the-domini_owen-john_1688/bim_early-english-books-1641-1700_a-treatise-of-the-domini_owen-john_1688_djvu.txt",
-  "batch": 52
+  "batch": 51
  },
  {
   "id": "arch/a581812900fletuoft",
@@ -11511,22 +11475,13 @@
   "batch": 52
  },
  {
-  "id": "arch/IA41546811_0051",
-  "title_en": "Geology of the Serpentine Belt Coleraine Sheet Thetford-Black Lake Mining District Quebec",
-  "author_en": "Knox, John Knox",
-  "year": 1918,
-  "words": 32081,
-  "src": "https://archive.org/download/IA41546811_0051/IA41546811_0051_djvu.txt",
-  "batch": 52
- },
- {
   "id": "arch/allofgraceearnes00spur_1",
   "title_en": "All of grace : an earnest word for those who are seeking salvation by the Lord Jesus Christ",
   "author_en": "Spurgeon, C. H. (Charles Haddon), 1834-1892",
   "year": 1900,
   "words": 32214,
   "src": "https://archive.org/download/allofgraceearnes00spur_1/allofgraceearnes00spur_1_djvu.txt",
-  "batch": 53
+  "batch": 52
  },
  {
   "id": "arch/romeagainstbible00plum",
@@ -11535,7 +11490,7 @@
   "year": 1854,
   "words": 32256,
   "src": "https://archive.org/download/romeagainstbible00plum/romeagainstbible00plum_djvu.txt",
-  "batch": 53
+  "batch": 52
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-feast-of-fat-things-_keach-benjamin_1696",
@@ -11544,7 +11499,7 @@
   "year": 1696,
   "words": 32267,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-feast-of-fat-things-_keach-benjamin_1696/bim_early-english-books-1641-1700_a-feast-of-fat-things-_keach-benjamin_1696_djvu.txt",
-  "batch": 53
+  "batch": 52
  },
  {
   "id": "arch/gri_33125008121184",
@@ -11553,7 +11508,7 @@
   "year": 1921,
   "words": 32341,
   "src": "https://archive.org/download/gri_33125008121184/gri_33125008121184_djvu.txt",
-  "batch": 53
+  "batch": 52
  },
  {
   "id": "arch/vol1hymnsoffaith00bona",
@@ -11562,7 +11517,7 @@
   "year": 1876,
   "words": 32356,
   "src": "https://archive.org/download/vol1hymnsoffaith00bona/vol1hymnsoffaith00bona_djvu.txt",
-  "batch": 53
+  "batch": 52
  },
  {
   "id": "arch/cihm_47086",
@@ -11751,7 +11706,7 @@
   "year": 1783,
   "words": 33172,
   "src": "https://archive.org/download/bim_eighteenth-century_the-gleanings-of-the-vin_toplady-augustus_1783/bim_eighteenth-century_the-gleanings-of-the-vin_toplady-augustus_1783_djvu.txt",
-  "batch": 54
+  "batch": 53
  },
  {
   "id": "arch/bim_eighteenth-century_an-authentic-narrative-o_newton-john_1799",
@@ -11760,7 +11715,7 @@
   "year": 1799,
   "words": 33201,
   "src": "https://archive.org/download/bim_eighteenth-century_an-authentic-narrative-o_newton-john_1799/bim_eighteenth-century_an-authentic-narrative-o_newton-john_1799_djvu.txt",
-  "batch": 54
+  "batch": 53
  },
  {
   "id": "arch/MN5122ucmf_6",
@@ -11769,7 +11724,7 @@
   "year": 1869,
   "words": 33219,
   "src": "https://archive.org/download/MN5122ucmf_6/MN5122ucmf_6_djvu.txt",
-  "batch": 54
+  "batch": 53
  },
  {
   "id": "arch/bim_eighteenth-century_the-death-of-legal-hope-_booth-abraham_1778",
@@ -11778,7 +11733,7 @@
   "year": 1778,
   "words": 33234,
   "src": "https://archive.org/download/bim_eighteenth-century_the-death-of-legal-hope-_booth-abraham_1778/bim_eighteenth-century_the-death-of-legal-hope-_booth-abraham_1778_djvu.txt",
-  "batch": 54
+  "batch": 53
  },
  {
   "id": "arch/firsope00bona",
@@ -11787,7 +11742,7 @@
   "year": 1861,
   "words": 33243,
   "src": "https://archive.org/download/firsope00bona/firsope00bona_djvu.txt",
-  "batch": 54
+  "batch": 53
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-everlasting-covenant_keach-benjamin_1693",
@@ -11976,7 +11931,7 @@
   "year": 1681,
   "words": 34215,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-pilgrims-progress-f_bunyan-john_1681/bim_early-english-books-1641-1700_the-pilgrims-progress-f_bunyan-john_1681_djvu.txt",
-  "batch": 55
+  "batch": 54
  },
  {
   "id": "arch/bim_eighteenth-century_the-argument-from-aposto_gill-john_1751",
@@ -11985,7 +11940,7 @@
   "year": 1751,
   "words": 34218,
   "src": "https://archive.org/download/bim_eighteenth-century_the-argument-from-aposto_gill-john_1751/bim_eighteenth-century_the-argument-from-aposto_gill-john_1751_djvu.txt",
-  "batch": 55
+  "batch": 54
  },
  {
   "id": "arch/treatiseonkeepin01flav_0",
@@ -11994,7 +11949,7 @@
   "year": 1813,
   "words": 34372,
   "src": "https://archive.org/download/treatiseonkeepin01flav_0/treatiseonkeepin01flav_0_djvu.txt",
-  "batch": 55
+  "batch": 54
  },
  {
   "id": "arch/bim_eighteenth-century_socinianism-indefensible_fuller-andrew_1797",
@@ -12003,7 +11958,7 @@
   "year": 1797,
   "words": 34399,
   "src": "https://archive.org/download/bim_eighteenth-century_socinianism-indefensible_fuller-andrew_1797/bim_eighteenth-century_socinianism-indefensible_fuller-andrew_1797_djvu.txt",
-  "batch": 55
+  "batch": 54
  },
  {
   "id": "arch/aithhope00bona",
@@ -12012,7 +11967,7 @@
   "year": 1861,
   "words": 34429,
   "src": "https://archive.org/download/aithhope00bona/aithhope00bona_djvu.txt",
-  "batch": 55
+  "batch": 54
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-discourse-concerning-t_howe-john_1699",
@@ -12201,7 +12156,7 @@
   "year": 1637,
   "words": 35469,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_aggravation-of-sinne-an_goodwin-thomas_1637/bim_early-english-books-1475-1640_aggravation-of-sinne-an_goodwin-thomas_1637_djvu.txt",
-  "batch": 56
+  "batch": 55
  },
  {
   "id": "arch/bim_eighteenth-century_marweiddiad-pechod-mewn-_owen-john_1796",
@@ -12210,7 +12165,7 @@
   "year": 1796,
   "words": 35521,
   "src": "https://archive.org/download/bim_eighteenth-century_marweiddiad-pechod-mewn-_owen-john_1796/bim_eighteenth-century_marweiddiad-pechod-mewn-_owen-john_1796_djvu.txt",
-  "batch": 56
+  "batch": 55
  },
  {
   "id": "arch/bim_eighteenth-century_a-faithful-narrative-of-_edwards-jonathan_1738",
@@ -12219,7 +12174,7 @@
   "year": 1738,
   "words": 35524,
   "src": "https://archive.org/download/bim_eighteenth-century_a-faithful-narrative-of-_edwards-jonathan_1738/bim_eighteenth-century_a-faithful-narrative-of-_edwards-jonathan_1738_djvu.txt",
-  "batch": 56
+  "batch": 55
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_sion-in-distress-_keach-benjamin_1692",
@@ -12228,7 +12183,7 @@
   "year": 1692,
   "words": 35619,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_sion-in-distress-_keach-benjamin_1692/bim_early-english-books-1641-1700_sion-in-distress-_keach-benjamin_1692_djvu.txt",
-  "batch": 56
+  "batch": 55
  },
  {
   "id": "arch/1385-gervei-1782-nadgrobnyia-razmyshleniia",
@@ -12237,7 +12192,7 @@
   "year": 1782,
   "words": 35638,
   "src": "https://archive.org/download/1385-gervei-1782-nadgrobnyia-razmyshleniia/1385_Gervei_1782_Nadgrobnyia-razmyshleniia_djvu.txt",
-  "batch": 56
+  "batch": 55
  },
  {
   "id": "arch/cu31924024688156",
@@ -12426,7 +12381,7 @@
   "year": 1859,
   "words": 36669,
   "src": "https://archive.org/download/fictionnodefence00dabn/fictionnodefence00dabn_djvu.txt",
-  "batch": 57
+  "batch": 56
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_a-glance-of-heaven_sibbes-richard_1618",
@@ -12435,7 +12390,7 @@
   "year": 1618,
   "words": 36684,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_a-glance-of-heaven_sibbes-richard_1618/bim_early-english-books-1475-1640_a-glance-of-heaven_sibbes-richard_1618_djvu.txt",
-  "batch": 57
+  "batch": 56
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_-or-the-art-of_watson-thomas_1654",
@@ -12444,7 +12399,7 @@
   "year": 1654,
   "words": 36699,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_-or-the-art-of_watson-thomas_1654/bim_early-english-books-1641-1700_-or-the-art-of_watson-thomas_1654_djvu.txt",
-  "batch": 57
+  "batch": 56
  },
  {
   "id": "arch/ballotact1872wit00glenuoft",
@@ -12453,7 +12408,7 @@
   "year": 1873,
   "words": 36735,
   "src": "https://archive.org/download/ballotact1872wit00glenuoft/ballotact1872wit00glenuoft_djvu.txt",
-  "batch": 57
+  "batch": 56
  },
  {
   "id": "arch/clergychoir00hodg",
@@ -12462,7 +12417,7 @@
   "year": 1891,
   "words": 36809,
   "src": "https://archive.org/download/clergychoir00hodg/clergychoir00hodg_djvu.txt",
-  "batch": 57
+  "batch": 56
  },
  {
   "id": "arch/preparati00baxt",
@@ -12651,7 +12606,7 @@
   "year": 1742,
   "words": 37916,
   "src": "https://archive.org/download/bim_eighteenth-century_the-distinguishing-marks_edwards-jonathan_1742_0/bim_eighteenth-century_the-distinguishing-marks_edwards-jonathan_1742_0_djvu.txt",
-  "batch": 58
+  "batch": 57
  },
  {
   "id": "arch/mannacrumbsforhu00ruth",
@@ -12660,7 +12615,7 @@
   "year": 1865,
   "words": 37949,
   "src": "https://archive.org/download/mannacrumbsforhu00ruth/mannacrumbsforhu00ruth_djvu.txt",
-  "batch": 58
+  "batch": 57
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-defence-of-the-doctrin_bunyan-john_1673",
@@ -12669,7 +12624,7 @@
   "year": 1673,
   "words": 37965,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-defence-of-the-doctrin_bunyan-john_1673/bim_early-english-books-1641-1700_a-defence-of-the-doctrin_bunyan-john_1673_djvu.txt",
-  "batch": 58
+  "batch": 57
  },
  {
   "id": "arch/appellationofioh00knox",
@@ -12678,7 +12633,7 @@
   "year": 1558,
   "words": 38190,
   "src": "https://archive.org/download/appellationofioh00knox/appellationofioh00knox_djvu.txt",
-  "batch": 58
+  "batch": 57
  },
  {
   "id": "arch/bim_eighteenth-century_the-greatness-of-the-sou_bunyan-john_1730",
@@ -12687,7 +12642,7 @@
   "year": 1730,
   "words": 38241,
   "src": "https://archive.org/download/bim_eighteenth-century_the-greatness-of-the-sou_bunyan-john_1730/bim_eighteenth-century_the-greatness-of-the-sou_bunyan-john_1730_djvu.txt",
-  "batch": 58
+  "batch": 57
  },
  {
   "id": "arch/jacobleislerplay00bateiala",
@@ -12876,7 +12831,7 @@
   "year": 1682,
   "words": 39787,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_diocesan-churches-not-ye_clarkson-david_1682/bim_early-english-books-1641-1700_diocesan-churches-not-ye_clarkson-david_1682_djvu.txt",
-  "batch": 59
+  "batch": 58
  },
  {
   "id": "arch/cihm_89732",
@@ -12885,7 +12840,7 @@
   "year": 1877,
   "words": 39797,
   "src": "https://archive.org/download/cihm_89732/cihm_89732_djvu.txt",
-  "batch": 59
+  "batch": 58
  },
  {
   "id": "arch/galwadirannychwe00baxt",
@@ -12894,7 +12849,7 @@
   "year": 1846,
   "words": 39831,
   "src": "https://archive.org/download/galwadirannychwe00baxt/galwadirannychwe00baxt_djvu.txt",
-  "batch": 59
+  "batch": 58
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-scale-of-interest-_newton-john_1668",
@@ -12903,7 +12858,7 @@
   "year": 1668,
   "words": 39880,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-scale-of-interest-_newton-john_1668/bim_early-english-books-1641-1700_the-scale-of-interest-_newton-john_1668_djvu.txt",
-  "batch": 59
+  "batch": 58
  },
  {
   "id": "arch/hope03bona",
@@ -12912,7 +12867,7 @@
   "year": 1886,
   "words": 39921,
   "src": "https://archive.org/download/hope03bona/hope03bona_djvu.txt",
-  "batch": 59
+  "batch": 58
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-counter-antidote-_keach-benjamin_1694",
@@ -13101,7 +13056,7 @@
   "year": 1879,
   "words": 40965,
   "src": "https://archive.org/download/b3376752x/b3376752x_djvu.txt",
-  "batch": 60
+  "batch": 59
  },
  {
   "id": "arch/cainabelmalignit00baxt",
@@ -13110,7 +13065,7 @@
   "year": 1689,
   "words": 41001,
   "src": "https://archive.org/download/cainabelmalignit00baxt/cainabelmalignit00baxt_djvu.txt",
-  "batch": 60
+  "batch": 59
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1672",
@@ -13119,7 +13074,7 @@
   "year": 1672,
   "words": 41020,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1672/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1672_djvu.txt",
-  "batch": 60
+  "batch": 59
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_war-with-the-devil-_keach-benjamin_1675",
@@ -13128,7 +13083,7 @@
   "year": 1675,
   "words": 41031,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_war-with-the-devil-_keach-benjamin_1675/bim_early-english-books-1641-1700_war-with-the-devil-_keach-benjamin_1675_djvu.txt",
-  "batch": 60
+  "batch": 59
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_a-glance-of-heaven-or-_sibbes-richard_1638",
@@ -13137,7 +13092,7 @@
   "year": 1638,
   "words": 41044,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_a-glance-of-heaven-or-_sibbes-richard_1638/bim_early-english-books-1475-1640_a-glance-of-heaven-or-_sibbes-richard_1638_djvu.txt",
-  "batch": 60
+  "batch": 59
  },
  {
   "id": "arch/cihm_48262",
@@ -13326,7 +13281,7 @@
   "year": 1671,
   "words": 41526,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_an-introduction-to-the-a_newton-john_1671/bim_early-english-books-1641-1700_an-introduction-to-the-a_newton-john_1671_djvu.txt",
-  "batch": 61
+  "batch": 60
  },
  {
   "id": "arch/bim_eighteenth-century_heaven-taken-by-storm-o_watson-thomas_1788",
@@ -13335,7 +13290,7 @@
   "year": 1788,
   "words": 41547,
   "src": "https://archive.org/download/bim_eighteenth-century_heaven-taken-by-storm-o_watson-thomas_1788/bim_eighteenth-century_heaven-taken-by-storm-o_watson-thomas_1788_djvu.txt",
-  "batch": 61
+  "batch": 60
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1786",
@@ -13344,7 +13299,7 @@
   "year": 1786,
   "words": 41560,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1786/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1786_djvu.txt",
-  "batch": 61
+  "batch": 60
  },
  {
   "id": "arch/bim_eighteenth-century_observations-on-the-nort_knox-john_1786",
@@ -13353,7 +13308,7 @@
   "year": 1786,
   "words": 41616,
   "src": "https://archive.org/download/bim_eighteenth-century_observations-on-the-nort_knox-john_1786/bim_eighteenth-century_observations-on-the-nort_knox-john_1786_djvu.txt",
-  "batch": 61
+  "batch": 60
  },
  {
   "id": "arch/publiceducation00obegoog",
@@ -13362,7 +13317,7 @@
   "year": 1817,
   "words": 41622,
   "src": "https://archive.org/download/publiceducation00obegoog/publiceducation00obegoog_djvu.txt",
-  "batch": 61
+  "batch": 60
  },
  {
   "id": "arch/bim_eighteenth-century_the-reasonableness-of-ch_dickinson-jonathan_1732",
@@ -13551,7 +13506,7 @@
   "year": 1736,
   "words": 42618,
   "src": "https://archive.org/download/bim_eighteenth-century_a-summary-of-natural-rel_johnson-thomas_1736/bim_eighteenth-century_a-summary-of-natural-rel_johnson-thomas_1736_djvu.txt",
-  "batch": 62
+  "batch": 61
  },
  {
   "id": "arch/hymnssacredpoems00topl",
@@ -13560,7 +13515,7 @@
   "year": 1860,
   "words": 42644,
   "src": "https://archive.org/download/hymnssacredpoems00topl/hymnssacredpoems00topl_djvu.txt",
-  "batch": 62
+  "batch": 61
  },
  {
   "id": "arch/bim_eighteenth-century_the-dying-thoughts-of-th_baxter-richard_1761",
@@ -13569,7 +13524,7 @@
   "year": 1761,
   "words": 42783,
   "src": "https://archive.org/download/bim_eighteenth-century_the-dying-thoughts-of-th_baxter-richard_1761/bim_eighteenth-century_the-dying-thoughts-of-th_baxter-richard_1761_djvu.txt",
-  "batch": 62
+  "batch": 61
  },
  {
   "id": "arch/31383041405609",
@@ -13578,7 +13533,7 @@
   "year": 1879,
   "words": 42810,
   "src": "https://archive.org/download/31383041405609/31383041405609_djvu.txt",
-  "batch": 62
+  "batch": 61
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1635",
@@ -13587,7 +13542,7 @@
   "year": 1635,
   "words": 42981,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1635/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1635_djvu.txt",
-  "batch": 62
+  "batch": 61
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_war-with-the-devil-_keach-benjamin_1676",
@@ -13776,7 +13731,7 @@
   "year": 1560,
   "words": 44352,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_bullinger-heinrich_1560_0/bim_early-english-books-1641-1700_bullinger-heinrich_1560_0_djvu.txt",
-  "batch": 63
+  "batch": 62
  },
  {
   "id": "arch/treatiseuponlife00roma",
@@ -13785,7 +13740,7 @@
   "year": 1809,
   "words": 44406,
   "src": "https://archive.org/download/treatiseuponlife00roma/treatiseuponlife00roma_djvu.txt",
-  "batch": 63
+  "batch": 62
  },
  {
   "id": "arch/3132458.0001.001.umich.edu",
@@ -13794,7 +13749,7 @@
   "year": 1874,
   "words": 44483,
   "src": "https://archive.org/download/3132458.0001.001.umich.edu/3132458.0001.001.umich.edu_djvu.txt",
-  "batch": 63
+  "batch": 62
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1788",
@@ -13803,7 +13758,7 @@
   "year": 1788,
   "words": 44551,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1788/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1788_djvu.txt",
-  "batch": 63
+  "batch": 62
  },
  {
   "id": "arch/companachdoluchd00flav",
@@ -13812,7 +13767,7 @@
   "year": 1849,
   "words": 44599,
   "src": "https://archive.org/download/companachdoluchd00flav/companachdoluchd00flav_djvu.txt",
-  "batch": 63
+  "batch": 62
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-returne-of-prayers_goodwin-thomas_1636_1",
@@ -14001,7 +13956,7 @@
   "year": 1781,
   "words": 45572,
   "src": "https://archive.org/download/bim_eighteenth-century_the-time-of-danger-the-_hervey-james_1781/bim_eighteenth-century_the-time-of-danger-the-_hervey-james_1781_djvu.txt",
-  "batch": 64
+  "batch": 63
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_john-owens-latine-epigr_owen-john-epigrammatis_1678",
@@ -14010,7 +13965,7 @@
   "year": 1678,
   "words": 45651,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_john-owens-latine-epigr_owen-john-epigrammatis_1678/bim_early-english-books-1641-1700_john-owens-latine-epigr_owen-john-epigrammatis_1678_djvu.txt",
-  "batch": 64
+  "batch": 63
  },
  {
   "id": "arch/10065690bsb",
@@ -14019,7 +13974,7 @@
   "year": 1835,
   "words": 45687,
   "src": "https://archive.org/download/10065690bsb/10065690bsb_djvu.txt",
-  "batch": 64
+  "batch": 63
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-returne-of-prayers-_goodwin-thomas_1651",
@@ -14028,7 +13983,7 @@
   "year": 1651,
   "words": 45868,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-returne-of-prayers-_goodwin-thomas_1651/bim_early-english-books-1641-1700_the-returne-of-prayers-_goodwin-thomas_1651_djvu.txt",
-  "batch": 64
+  "batch": 63
  },
  {
   "id": "arch/crookinlotordisp00bost_0",
@@ -14037,7 +13992,7 @@
   "year": 1839,
   "words": 45889,
   "src": "https://archive.org/download/crookinlotordisp00bost_0/crookinlotordisp00bost_0_djvu.txt",
-  "batch": 64
+  "batch": 63
  },
  {
   "id": "arch/bim_eighteenth-century_letters-to-a-wife-by-th_newton-john_1793_2",
@@ -14226,7 +14181,7 @@
   "year": 1771,
   "words": 47012,
   "src": "https://archive.org/download/bim_eighteenth-century_solomons-temple-spritua_bunyan-john_1771/bim_eighteenth-century_solomons-temple-spritua_bunyan-john_1771_djvu.txt",
-  "batch": 65
+  "batch": 64
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-tryal-of-a-christian_goodwin-thomas_1650",
@@ -14235,7 +14190,7 @@
   "year": 1650,
   "words": 47031,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-tryal-of-a-christian_goodwin-thomas_1650/bim_early-english-books-1641-1700_the-tryal-of-a-christian_goodwin-thomas_1650_djvu.txt",
-  "batch": 65
+  "batch": 64
  },
  {
   "id": "arch/morningofjoy00bona",
@@ -14244,7 +14199,7 @@
   "year": 1854,
   "words": 47051,
   "src": "https://archive.org/download/morningofjoy00bona/morningofjoy00bona_djvu.txt",
-  "batch": 65
+  "batch": 64
  },
  {
   "id": "arch/sketchesimpressi0000unse",
@@ -14253,7 +14208,7 @@
   "year": 1887,
   "words": 47073,
   "src": "https://archive.org/download/sketchesimpressi0000unse/sketchesimpressi0000unse_djvu.txt",
-  "batch": 65
+  "batch": 64
  },
  {
   "id": "arch/navigationspirit00flav",
@@ -14262,7 +14217,7 @@
   "year": 1796,
   "words": 47153,
   "src": "https://archive.org/download/navigationspirit00flav/navigationspirit00flav_djvu.txt",
-  "batch": 65
+  "batch": 64
  },
  {
   "id": "arch/bim_eighteenth-century_works-selections-the_hervey-james_1796",
@@ -14451,7 +14406,7 @@
   "year": 1872,
   "words": 48529,
   "src": "https://archive.org/download/india.history.resource.87060/87060_djvu.txt",
-  "batch": 66
+  "batch": 65
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_epigrammatum_owen-john-epigrammatis_1671",
@@ -14460,7 +14415,7 @@
   "year": 1671,
   "words": 48551,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_epigrammatum_owen-john-epigrammatis_1671/bim_early-english-books-1641-1700_epigrammatum_owen-john-epigrammatis_1671_djvu.txt",
-  "batch": 66
+  "batch": 65
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1695",
@@ -14469,7 +14424,7 @@
   "year": 1695,
   "words": 48559,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1695/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1695_djvu.txt",
-  "batch": 66
+  "batch": 65
  },
  {
   "id": "arch/bim_eighteenth-century_astro-theology-or-a-de_derham-w_1755",
@@ -14478,7 +14433,7 @@
   "year": 1755,
   "words": 48570,
   "src": "https://archive.org/download/bim_eighteenth-century_astro-theology-or-a-de_derham-w_1755/bim_eighteenth-century_astro-theology-or-a-de_derham-w_1755_djvu.txt",
-  "batch": 66
+  "batch": 65
  },
  {
   "id": "arch/questionsonepi00hodg",
@@ -14487,7 +14442,7 @@
   "year": 1846,
   "words": 48620,
   "src": "https://archive.org/download/questionsonepi00hodg/questionsonepi00hodg_djvu.txt",
-  "batch": 66
+  "batch": 65
  },
  {
   "id": "arch/astrotheologyor00derhgoog",
@@ -14676,7 +14631,7 @@
   "year": 1689,
   "words": 49564,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_primitive-episcopacy-_clarkson-david_1689/bim_early-english-books-1641-1700_primitive-episcopacy-_clarkson-david_1689_djvu.txt",
-  "batch": 67
+  "batch": 66
  },
  {
   "id": "arch/bim_eighteenth-century_astro-theology-or-a-de_derham-w-william_1738",
@@ -14685,7 +14640,7 @@
   "year": 1738,
   "words": 49592,
   "src": "https://archive.org/download/bim_eighteenth-century_astro-theology-or-a-de_derham-w-william_1738/bim_eighteenth-century_astro-theology-or-a-de_derham-w-william_1738_djvu.txt",
-  "batch": 67
+  "batch": 66
  },
  {
   "id": "arch/bim_eighteenth-century_the-heidelberg-catechism_1773",
@@ -14694,7 +14649,7 @@
   "year": 1773,
   "words": 49598,
   "src": "https://archive.org/download/bim_eighteenth-century_the-heidelberg-catechism_1773/bim_eighteenth-century_the-heidelberg-catechism_1773_djvu.txt",
-  "batch": 67
+  "batch": 66
  },
  {
   "id": "arch/bim_eighteenth-century_sacramental-meditations-_flavel-john_1729",
@@ -14703,7 +14658,7 @@
   "year": 1729,
   "words": 49693,
   "src": "https://archive.org/download/bim_eighteenth-century_sacramental-meditations-_flavel-john_1729/bim_eighteenth-century_sacramental-meditations-_flavel-john_1729_djvu.txt",
-  "batch": 67
+  "batch": 66
  },
  {
   "id": "arch/inquirerdirected00wins_0",
@@ -14712,7 +14667,7 @@
   "year": 1845,
   "words": 49697,
   "src": "https://archive.org/download/inquirerdirected00wins_0/inquirerdirected00wins_0_djvu.txt",
-  "batch": 67
+  "batch": 66
  },
  {
   "id": "arch/sermonsissue00spurgoog",
@@ -14901,7 +14856,7 @@
   "year": 1677,
   "words": 50926,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-true-christians-love_vincent-thomas_1677/bim_early-english-books-1641-1700_the-true-christians-love_vincent-thomas_1677_djvu.txt",
-  "batch": 68
+  "batch": 67
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-returne-of-prayers_goodwin-thomas_1641",
@@ -14910,7 +14865,7 @@
   "year": 1641,
   "words": 50929,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-returne-of-prayers_goodwin-thomas_1641/bim_early-english-books-1641-1700_the-returne-of-prayers_goodwin-thomas_1641_djvu.txt",
-  "batch": 68
+  "batch": 67
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_-or-the-art-of_watson-thomas-d-1689_1668",
@@ -14919,7 +14874,7 @@
   "year": 1668,
   "words": 50936,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_-or-the-art-of_watson-thomas-d-1689_1668/bim_early-english-books-1641-1700_-or-the-art-of_watson-thomas-d-1689_1668_djvu.txt",
-  "batch": 68
+  "batch": 67
  },
  {
   "id": "arch/solomonstemplesp00bunyuoft",
@@ -14928,7 +14883,7 @@
   "year": 1824,
   "words": 50944,
   "src": "https://archive.org/download/solomonstemplesp00bunyuoft/solomonstemplesp00bunyuoft_djvu.txt",
-  "batch": 68
+  "batch": 67
  },
  {
   "id": "arch/jannekermansfrls00spur",
@@ -14937,7 +14892,7 @@
   "year": 1890,
   "words": 50973,
   "src": "https://archive.org/download/jannekermansfrls00spur/jannekermansfrls00spur_djvu.txt",
-  "batch": 68
+  "batch": 67
  },
  {
   "id": "arch/bim_eighteenth-century_the-church-of-england-vi_toplady-augustus_1769",
@@ -15126,7 +15081,7 @@
   "year": 1731,
   "words": 52172,
   "src": "https://archive.org/download/bim_eighteenth-century_astro-theology-or-a-dem_derham-w_1731/bim_eighteenth-century_astro-theology-or-a-dem_derham-w_1731_djvu.txt",
-  "batch": 69
+  "batch": 68
  },
  {
   "id": "arch/thepilgrimsprogr00bunyuoft",
@@ -15135,7 +15090,7 @@
   "year": 1678,
   "words": 52189,
   "src": "https://archive.org/download/thepilgrimsprogr00bunyuoft/thepilgrimsprogr00bunyuoft_djvu.txt",
-  "batch": 69
+  "batch": 68
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1795",
@@ -15144,7 +15099,7 @@
   "year": 1795,
   "words": 52257,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1795/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1795_djvu.txt",
-  "batch": 69
+  "batch": 68
  },
  {
   "id": "arch/poeticalfragment00baxt",
@@ -15153,7 +15108,7 @@
   "year": 1821,
   "words": 52276,
   "src": "https://archive.org/download/poeticalfragment00baxt/poeticalfragment00baxt_djvu.txt",
-  "batch": 69
+  "batch": 68
  },
  {
   "id": "arch/dli.bengal.10689.7187",
@@ -15162,7 +15117,7 @@
   "year": 1822,
   "words": 52325,
   "src": "https://archive.org/download/dli.bengal.10689.7187/10689.7187_djvu.txt",
-  "batch": 69
+  "batch": 68
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_aggravation-of-sinne-an_goodwin-thomas_1638",
@@ -15351,7 +15306,7 @@
   "year": 1800,
   "words": 53259,
   "src": "https://archive.org/download/bim_eighteenth-century_memoirs-of-the-late-rev_fuller-andrew_1800/bim_eighteenth-century_memoirs-of-the-late-rev_fuller-andrew_1800_djvu.txt",
-  "batch": 70
+  "batch": 69
  },
  {
   "id": "arch/collectionofhymn00whit",
@@ -15360,7 +15315,7 @@
   "year": 1801,
   "words": 53377,
   "src": "https://archive.org/download/collectionofhymn00whit/collectionofhymn00whit_djvu.txt",
-  "batch": 70
+  "batch": 69
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-dialogue-between-a-pop_poole-matthew_1667_0",
@@ -15369,7 +15324,7 @@
   "year": 1667,
   "words": 53417,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-dialogue-between-a-pop_poole-matthew_1667_0/bim_early-english-books-1641-1700_a-dialogue-between-a-pop_poole-matthew_1667_0_djvu.txt",
-  "batch": 70
+  "batch": 69
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-heavenly-conference-be_sibbes-richard_1654",
@@ -15378,7 +15333,7 @@
   "year": 1654,
   "words": 53425,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-heavenly-conference-be_sibbes-richard_1654/bim_early-english-books-1641-1700_a-heavenly-conference-be_sibbes-richard_1654_djvu.txt",
-  "batch": 70
+  "batch": 69
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-sermons-_hervey-james_1774",
@@ -15387,7 +15342,7 @@
   "year": 1774,
   "words": 53430,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-sermons-_hervey-james_1774/bim_eighteenth-century_a-collection-of-sermons-_hervey-james_1774_djvu.txt",
-  "batch": 70
+  "batch": 69
  },
  {
   "id": "arch/10065434bsb",
@@ -15576,7 +15531,7 @@
   "year": 1718,
   "words": 54230,
   "src": "https://archive.org/download/bim_eighteenth-century_the-everlasting-rest-of-_bates-william_1718/bim_eighteenth-century_the-everlasting-rest-of-_bates-william_1718_djvu.txt",
-  "batch": 71
+  "batch": 70
  },
  {
   "id": "arch/b30541219",
@@ -15585,7 +15540,7 @@
   "year": 1755,
   "words": 54275,
   "src": "https://archive.org/download/b30541219/b30541219_djvu.txt",
-  "batch": 71
+  "batch": 70
  },
  {
   "id": "arch/bim_eighteenth-century_a-dialogue-between-a-pop_poole-matthew_1735",
@@ -15594,7 +15549,7 @@
   "year": 1735,
   "words": 54336,
   "src": "https://archive.org/download/bim_eighteenth-century_a-dialogue-between-a-pop_poole-matthew_1735/bim_eighteenth-century_a-dialogue-between-a-pop_poole-matthew_1735_djvu.txt",
-  "batch": 71
+  "batch": 70
  },
  {
   "id": "arch/diarygeneralexpe00cunn_0",
@@ -15603,7 +15558,7 @@
   "year": 1887,
   "words": 54624,
   "src": "https://archive.org/download/diarygeneralexpe00cunn_0/diarygeneralexpe00cunn_0_djvu.txt",
-  "batch": 71
+  "batch": 70
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-wells-of-salvation-o_vincent-thomas_1668",
@@ -15612,7 +15567,7 @@
   "year": 1668,
   "words": 54630,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-wells-of-salvation-o_vincent-thomas_1668/bim_early-english-books-1641-1700_the-wells-of-salvation-o_vincent-thomas_1668_djvu.txt",
-  "batch": 71
+  "batch": 70
  },
  {
   "id": "arch/bim_eighteenth-century_the-living-temple-part-_howe-john_1702_1",
@@ -15801,7 +15756,7 @@
   "year": 1793,
   "words": 56314,
   "src": "https://archive.org/download/bim_eighteenth-century_letters-to-a-wife-by-th_newton-john_1793_1/bim_eighteenth-century_letters-to-a-wife-by-th_newton-john_1793_1_djvu.txt",
-  "batch": 72
+  "batch": 71
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-treatise-of-the-fear-o_bunyan-john_1679",
@@ -15810,7 +15765,7 @@
   "year": 1679,
   "words": 56427,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-the-fear-o_bunyan-john_1679/bim_early-english-books-1641-1700_a-treatise-of-the-fear-o_bunyan-john_1679_djvu.txt",
-  "batch": 72
+  "batch": 71
  },
  {
   "id": "arch/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1734_0",
@@ -15819,7 +15774,7 @@
   "year": 1734,
   "words": 56437,
   "src": "https://archive.org/download/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1734_0/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1734_0_djvu.txt",
-  "batch": 72
+  "batch": 71
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-dialogue-between-a-pop_poole-matthew_1687",
@@ -15828,7 +15783,7 @@
   "year": 1687,
   "words": 56459,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-dialogue-between-a-pop_poole-matthew_1687/bim_early-english-books-1641-1700_a-dialogue-between-a-pop_poole-matthew_1687_djvu.txt",
-  "batch": 72
+  "batch": 71
  },
  {
   "id": "arch/experimentalprac00wins",
@@ -15837,7 +15792,7 @@
   "year": 1838,
   "words": 56506,
   "src": "https://archive.org/download/experimentalprac00wins/experimentalprac00wins_djvu.txt",
-  "batch": 72
+  "batch": 71
  },
  {
   "id": "arch/10263489bsb",
@@ -16026,7 +15981,7 @@
   "year": 1680,
   "words": 58358,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-soveraign-and-final-_bates-william_1680/bim_early-english-books-1641-1700_the-soveraign-and-final-_bates-william_1680_djvu.txt",
-  "batch": 73
+  "batch": 72
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-pilgrims-progress-_bunyan-john_1696",
@@ -16035,7 +15990,7 @@
   "year": 1696,
   "words": 58460,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-pilgrims-progress-_bunyan-john_1696/bim_early-english-books-1641-1700_the-pilgrims-progress-_bunyan-john_1696_djvu.txt",
-  "batch": 73
+  "batch": 72
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_naked-popery-_baxter-richard_1677",
@@ -16044,7 +15999,7 @@
   "year": 1677,
   "words": 58585,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_naked-popery-_baxter-richard_1677/bim_early-english-books-1641-1700_naked-popery-_baxter-richard_1677_djvu.txt",
-  "batch": 73
+  "batch": 72
  },
  {
   "id": "arch/humoristorentert00owen",
@@ -16053,7 +16008,7 @@
   "year": 1752,
   "words": 58586,
   "src": "https://archive.org/download/humoristorentert00owen/humoristorentert00owen_djvu.txt",
-  "batch": 73
+  "batch": 72
  },
  {
   "id": "arch/bim_eighteenth-century_the-christian-world-unma_berridge-john_1773_0",
@@ -16062,7 +16017,7 @@
   "year": 1773,
   "words": 58592,
   "src": "https://archive.org/download/bim_eighteenth-century_the-christian-world-unma_berridge-john_1773_0/bim_eighteenth-century_the-christian-world-unma_berridge-john_1773_0_djvu.txt",
-  "batch": 73
+  "batch": 72
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-reason-of-faith-_owen-john_1677",
@@ -16134,15 +16089,6 @@
   "year": 1774,
   "words": 59246,
   "src": "https://archive.org/download/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1774/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1774_djvu.txt",
-  "batch": 73
- },
- {
-  "id": "arch/b28138090",
-  "title_en": "Animal physiology for beginners",
-  "author_en": "Murché, Vincent T. (Vincent Thomas)",
-  "year": 1880,
-  "words": 59255,
-  "src": "https://archive.org/download/b28138090/b28138090_djvu.txt",
   "batch": 73
  },
  {
@@ -16251,7 +16197,7 @@
   "year": 1918,
   "words": 60152,
   "src": "https://archive.org/download/eveofelectionfac00howe/eveofelectionfac00howe_djvu.txt",
-  "batch": 74
+  "batch": 73
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1758_1",
@@ -16260,7 +16206,7 @@
   "year": 1758,
   "words": 60180,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1758_1/bim_eighteenth-century_meditations-and-contempl_hervey-james_1758_1_djvu.txt",
-  "batch": 74
+  "batch": 73
  },
  {
   "id": "arch/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1755",
@@ -16269,7 +16215,7 @@
   "year": 1755,
   "words": 60224,
   "src": "https://archive.org/download/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1755/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1755_djvu.txt",
-  "batch": 74
+  "batch": 73
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-discourse-upon-the-pha_bunyan-john_1685",
@@ -16278,7 +16224,7 @@
   "year": 1685,
   "words": 60340,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-discourse-upon-the-pha_bunyan-john_1685/bim_early-english-books-1641-1700_a-discourse-upon-the-pha_bunyan-john_1685_djvu.txt",
-  "batch": 74
+  "batch": 73
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-vain-religion-of-the_baxter-richard_1660",
@@ -16287,7 +16233,7 @@
   "year": 1660,
   "words": 60394,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-vain-religion-of-the_baxter-richard_1660/bim_early-english-books-1641-1700_the-vain-religion-of-the_baxter-richard_1660_djvu.txt",
-  "batch": 74
+  "batch": 73
  },
  {
   "id": "arch/bim_eighteenth-century_the-beauties-of-henry-a_henry-matthew_1797_3",
@@ -16296,7 +16242,7 @@
   "year": 1797,
   "words": 60415,
   "src": "https://archive.org/download/bim_eighteenth-century_the-beauties-of-henry-a_henry-matthew_1797_3/bim_eighteenth-century_the-beauties-of-henry-a_henry-matthew_1797_3_djvu.txt",
-  "batch": 74
+  "batch": 73
  },
  {
   "id": "arch/eveofelection0000unse",
@@ -16476,7 +16422,7 @@
   "year": 1897,
   "words": 61564,
   "src": "https://archive.org/download/truestoriesgrea00meekgoog/truestoriesgrea00meekgoog_djvu.txt",
-  "batch": 75
+  "batch": 74
  },
  {
   "id": "arch/bim_eighteenth-century_the-christian-world-unma_berridge-john_1774",
@@ -16485,7 +16431,7 @@
   "year": 1774,
   "words": 61683,
   "src": "https://archive.org/download/bim_eighteenth-century_the-christian-world-unma_berridge-john_1774/bim_eighteenth-century_the-christian-world-unma_berridge-john_1774_djvu.txt",
-  "batch": 75
+  "batch": 74
  },
  {
   "id": "arch/discoursesonchri00char_0",
@@ -16494,7 +16440,7 @@
   "year": 1830,
   "words": 61757,
   "src": "https://archive.org/download/discoursesonchri00char_0/discoursesonchri00char_0_djvu.txt",
-  "batch": 75
+  "batch": 74
  },
  {
   "id": "arch/10772268bsb",
@@ -16503,16 +16449,7 @@
   "year": 1721,
   "words": 61932,
   "src": "https://archive.org/download/10772268bsb/10772268bsb_djvu.txt",
-  "batch": 75
- },
- {
-  "id": "arch/practiceofgyneco0000bove",
-  "title_en": "The practice of gynecology",
-  "author_en": "Bovée, J. Wesley (John Wesley), 1861-1927",
-  "year": 1906,
-  "words": 62042,
-  "src": "https://archive.org/download/practiceofgyneco0000bove/practiceofgyneco0000bove_djvu.txt",
-  "batch": 75
+  "batch": 74
  },
  {
   "id": "arch/remainsnithsdal00gillgoog",
@@ -16521,7 +16458,7 @@
   "year": 1880,
   "words": 62098,
   "src": "https://archive.org/download/remainsnithsdal00gillgoog/remainsnithsdal00gillgoog_djvu.txt",
-  "batch": 75
+  "batch": 74
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-breach-repaired-_keach-benjamin_1700",
@@ -16530,7 +16467,7 @@
   "year": 1700,
   "words": 62196,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-breach-repaired-_keach-benjamin_1700/bim_early-english-books-1641-1700_the-breach-repaired-_keach-benjamin_1700_djvu.txt",
-  "batch": 75
+  "batch": 74
  },
  {
   "id": "arch/evidenceauthorit00chal",
@@ -16701,7 +16638,7 @@
   "year": 1786,
   "words": 64125,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1786_1/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1786_1_djvu.txt",
-  "batch": 76
+  "batch": 75
  },
  {
   "id": "arch/gardenofspices00ruth",
@@ -16710,7 +16647,7 @@
   "year": 1869,
   "words": 64145,
   "src": "https://archive.org/download/gardenofspices00ruth/gardenofspices00ruth_djvu.txt",
-  "batch": 76
+  "batch": 75
  },
  {
   "id": "arch/dli.ministry.00041",
@@ -16719,7 +16656,7 @@
   "year": 1921,
   "words": 64246,
   "src": "https://archive.org/download/dli.ministry.00041/460.175.D.521_djvu.txt",
-  "batch": 76
+  "batch": 75
  },
  {
   "id": "arch/in.ernet.dli.2015.128223",
@@ -16728,7 +16665,7 @@
   "year": 1916,
   "words": 64286,
   "src": "https://archive.org/download/in.ernet.dli.2015.128223/2015.128223.Way-Of-Life_djvu.txt",
-  "batch": 76
+  "batch": 75
  },
  {
   "id": "arch/bwb_T5-CCE-265",
@@ -16737,7 +16674,7 @@
   "year": 1904,
   "words": 64467,
   "src": "https://archive.org/download/bwb_T5-CCE-265/bwb_T5-CCE-265_djvu.txt",
-  "batch": 76
+  "batch": 75
  },
  {
   "id": "arch/principlesoftrue00grim",
@@ -16746,7 +16683,7 @@
   "year": 1846,
   "words": 64479,
   "src": "https://archive.org/download/principlesoftrue00grim/principlesoftrue00grim_djvu.txt",
-  "batch": 76
+  "batch": 75
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-glorious-lover-_keach-benjamin_1679",
@@ -16755,7 +16692,7 @@
   "year": 1679,
   "words": 64541,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-glorious-lover-_keach-benjamin_1679/bim_early-english-books-1641-1700_the-glorious-lover-_keach-benjamin_1679_djvu.txt",
-  "batch": 76
+  "batch": 75
  },
  {
   "id": "arch/bim_eighteenth-century_poems-on-divine-subjects_vida-marco-girolamo_1732",
@@ -16926,7 +16863,7 @@
   "year": 1854,
   "words": 66992,
   "src": "https://archive.org/download/christianworld00berr/christianworld00berr_djvu.txt",
-  "batch": 77
+  "batch": 76
  },
  {
   "id": "arch/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1781",
@@ -16935,7 +16872,7 @@
   "year": 1781,
   "words": 67097,
   "src": "https://archive.org/download/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1781/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1781_djvu.txt",
-  "batch": 77
+  "batch": 76
  },
  {
   "id": "arch/10263488bsb",
@@ -16944,7 +16881,7 @@
   "year": 1766,
   "words": 67484,
   "src": "https://archive.org/download/10263488bsb/10263488bsb_djvu.txt",
-  "batch": 77
+  "batch": 76
  },
  {
   "id": "arch/dli.bengal.10689.7437",
@@ -16953,7 +16890,7 @@
   "year": 1840,
   "words": 67804,
   "src": "https://archive.org/download/dli.bengal.10689.7437/10689.7437_djvu.txt",
-  "batch": 77
+  "batch": 76
  },
  {
   "id": "arch/stricturesonsand00full",
@@ -16962,16 +16899,7 @@
   "year": 1811,
   "words": 67925,
   "src": "https://archive.org/download/stricturesonsand00full/stricturesonsand00full_djvu.txt",
-  "batch": 77
- },
- {
-  "id": "arch/cu31924015335981",
-  "title_en": "An introduction to the chemistry of paints",
-  "author_en": "Friend, J. Newton (John Newton), b. 1881",
-  "year": 1910,
-  "words": 68018,
-  "src": "https://archive.org/download/cu31924015335981/cu31924015335981_djvu.txt",
-  "batch": 77
+  "batch": 76
  },
  {
   "id": "arch/bim_eighteenth-century_scripture-catechism-in-_henry-matthew-nonconfo_1780",
@@ -16980,7 +16908,7 @@
   "year": 1780,
   "words": 68034,
   "src": "https://archive.org/download/bim_eighteenth-century_scripture-catechism-in-_henry-matthew-nonconfo_1780/bim_eighteenth-century_scripture-catechism-in-_henry-matthew-nonconfo_1780_djvu.txt",
-  "batch": 77
+  "batch": 76
  },
  {
   "id": "arch/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1780",
@@ -16989,7 +16917,7 @@
   "year": 1780,
   "words": 68056,
   "src": "https://archive.org/download/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1780/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1780_djvu.txt",
-  "batch": 77
+  "batch": 76
  },
  {
   "id": "arch/catholickunityor00baxt",
@@ -17151,7 +17079,7 @@
   "year": 1671,
   "words": 70100,
   "src": "https://archive.org/download/divineapp00baxt/divineapp00baxt_djvu.txt",
-  "batch": 78
+  "batch": 77
  },
  {
   "id": "arch/inqcompl00cand",
@@ -17160,7 +17088,7 @@
   "year": 1845,
   "words": 70180,
   "src": "https://archive.org/download/inqcompl00cand/inqcompl00cand_djvu.txt",
-  "batch": 78
+  "batch": 77
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_bullinger-heinrich_1557",
@@ -17169,7 +17097,7 @@
   "year": 1557,
   "words": 70303,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_bullinger-heinrich_1557/bim_early-english-books-1641-1700_bullinger-heinrich_1557_djvu.txt",
-  "batch": 78
+  "batch": 77
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-christians-charter-_watson-thomas-d-1689_1665",
@@ -17178,7 +17106,7 @@
   "year": 1665,
   "words": 70387,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-christians-charter-_watson-thomas-d-1689_1665/bim_early-english-books-1641-1700_the-christians-charter-_watson-thomas-d-1689_1665_djvu.txt",
-  "batch": 78
+  "batch": 77
  },
  {
   "id": "arch/memoirofmrsmaryh00howe",
@@ -17187,7 +17115,7 @@
   "year": 1843,
   "words": 70393,
   "src": "https://archive.org/download/memoirofmrsmaryh00howe/memoirofmrsmaryh00howe_djvu.txt",
-  "batch": 78
+  "batch": 77
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1797_2",
@@ -17196,7 +17124,7 @@
   "year": 1797,
   "words": 70457,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1797_2/bim_eighteenth-century_meditations-and-contempl_hervey-james_1797_2_djvu.txt",
-  "batch": 78
+  "batch": 77
  },
  {
   "id": "arch/priestpuritanpre00ryle",
@@ -17205,7 +17133,7 @@
   "year": 1856,
   "words": 70612,
   "src": "https://archive.org/download/priestpuritanpre00ryle/priestpuritanpre00ryle_djvu.txt",
-  "batch": 78
+  "batch": 77
  },
  {
   "id": "arch/saviourofworldse00warf",
@@ -17214,7 +17142,7 @@
   "year": 1913,
   "words": 70812,
   "src": "https://archive.org/download/saviourofworldse00warf/saviourofworldse00warf_djvu.txt",
-  "batch": 78
+  "batch": 77
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1774_1_0",
@@ -17376,7 +17304,7 @@
   "year": 1772,
   "words": 72466,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1772_1/bim_eighteenth-century_meditations-and-contempl_hervey-james_1772_1_djvu.txt",
-  "batch": 79
+  "batch": 78
  },
  {
   "id": "arch/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1737",
@@ -17385,7 +17313,7 @@
   "year": 1737,
   "words": 72496,
   "src": "https://archive.org/download/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1737/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1737_djvu.txt",
-  "batch": 79
+  "batch": 78
  },
  {
   "id": "arch/heidelbergcatec00harbgoog",
@@ -17394,7 +17322,7 @@
   "year": 1849,
   "words": 72541,
   "src": "https://archive.org/download/heidelbergcatec00harbgoog/heidelbergcatec00harbgoog_djvu.txt",
-  "batch": 79
+  "batch": 78
  },
  {
   "id": "arch/anintroductionto00warfuoft",
@@ -17403,7 +17331,7 @@
   "year": 1887,
   "words": 72591,
   "src": "https://archive.org/download/anintroductionto00warfuoft/anintroductionto00warfuoft_djvu.txt",
-  "batch": 79
+  "batch": 78
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1768_1",
@@ -17412,7 +17340,7 @@
   "year": 1768,
   "words": 72631,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1768_1/bim_eighteenth-century_meditations-and-contempl_hervey-james_1768_1_djvu.txt",
-  "batch": 79
+  "batch": 78
  },
  {
   "id": "arch/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1770",
@@ -17421,7 +17349,7 @@
   "year": 1770,
   "words": 72760,
   "src": "https://archive.org/download/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1770/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1770_djvu.txt",
-  "batch": 79
+  "batch": 78
  },
  {
   "id": "arch/bookcommonorder01laugoog",
@@ -17430,7 +17358,7 @@
   "year": 1873,
   "words": 72874,
   "src": "https://archive.org/download/bookcommonorder01laugoog/bookcommonorder01laugoog_djvu.txt",
-  "batch": 79
+  "batch": 78
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_seasonable-truths-in-evi_bridge-william_1668",
@@ -17439,7 +17367,7 @@
   "year": 1668,
   "words": 72881,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_seasonable-truths-in-evi_bridge-william_1668/bim_early-english-books-1641-1700_seasonable-truths-in-evi_bridge-william_1668_djvu.txt",
-  "batch": 79
+  "batch": 78
  },
  {
   "id": "arch/bim_eighteenth-century_a-view-of-the-british-em_knox-john-bookseller_1784",
@@ -17601,7 +17529,7 @@
   "year": 1792,
   "words": 73600,
   "src": "https://archive.org/download/bim_eighteenth-century_gwledd-ir-eglwys-neu-d_romaine-william_1792/bim_eighteenth-century_gwledd-ir-eglwys-neu-d_romaine-william_1792_djvu.txt",
-  "batch": 80
+  "batch": 79
  },
  {
   "id": "arch/bim_eighteenth-century_navigation-spiritualizd_flavel-john_1733",
@@ -17610,7 +17538,7 @@
   "year": 1733,
   "words": 73660,
   "src": "https://archive.org/download/bim_eighteenth-century_navigation-spiritualizd_flavel-john_1733/bim_eighteenth-century_navigation-spiritualizd_flavel-john_1733_djvu.txt",
-  "batch": 80
+  "batch": 79
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1797_1",
@@ -17619,7 +17547,7 @@
   "year": 1797,
   "words": 73664,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1797_1/bim_eighteenth-century_meditations-and-contempl_hervey-james_1797_1_djvu.txt",
-  "batch": 80
+  "batch": 79
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1774_1",
@@ -17628,7 +17556,7 @@
   "year": 1774,
   "words": 73675,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1774_1/bim_eighteenth-century_meditations-and-contempl_hervey-james_1774_1_djvu.txt",
-  "batch": 80
+  "batch": 79
  },
  {
   "id": "arch/bishopsclergyofo00ryle",
@@ -17637,7 +17565,7 @@
   "year": 1868,
   "words": 73679,
   "src": "https://archive.org/download/bishopsclergyofo00ryle/bishopsclergyofo00ryle_djvu.txt",
-  "batch": 80
+  "batch": 79
  },
  {
   "id": "arch/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_6_0",
@@ -17646,7 +17574,7 @@
   "year": 1787,
   "words": 73807,
   "src": "https://archive.org/download/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_6_0/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_6_0_djvu.txt",
-  "batch": 80
+  "batch": 79
  },
  {
   "id": "arch/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1784",
@@ -17655,7 +17583,7 @@
   "year": 1784,
   "words": 73825,
   "src": "https://archive.org/download/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1784/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1784_djvu.txt",
-  "batch": 80
+  "batch": 79
  },
  {
   "id": "arch/the-old-rabbinic-doctrine-of-god-the-names-attributes-of-god",
@@ -17664,7 +17592,7 @@
   "year": 1927,
   "words": 73846,
   "src": "https://archive.org/download/the-old-rabbinic-doctrine-of-god-the-names-attributes-of-god/Marmorstein_A_The-Old-Rabbinic-Doctrine-of-God-Volume-1-1927_djvu.txt",
-  "batch": 80
+  "batch": 79
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1759_2",
@@ -17826,7 +17754,7 @@
   "year": 1761,
   "words": 74921,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1761_2/bim_eighteenth-century_meditations-and-contempl_hervey-james_1761_2_djvu.txt",
-  "batch": 81
+  "batch": 80
  },
  {
   "id": "arch/unitedstatesnot01knoxgoog",
@@ -17835,7 +17763,7 @@
   "year": 1899,
   "words": 75020,
   "src": "https://archive.org/download/unitedstatesnot01knoxgoog/unitedstatesnot01knoxgoog_djvu.txt",
-  "batch": 81
+  "batch": 80
  },
  {
   "id": "arch/spurgeonsgold00spur",
@@ -17844,7 +17772,7 @@
   "year": 1888,
   "words": 75162,
   "src": "https://archive.org/download/spurgeonsgold00spur/spurgeonsgold00spur_djvu.txt",
-  "batch": 81
+  "batch": 80
  },
  {
   "id": "arch/thigagussedobhea1894buny",
@@ -17853,7 +17781,7 @@
   "year": 1894,
   "words": 75203,
   "src": "https://archive.org/download/thigagussedobhea1894buny/thigagussedobhea1894buny_djvu.txt",
-  "batch": 81
+  "batch": 80
  },
  {
   "id": "arch/comfortinafflict00buch",
@@ -17862,7 +17790,7 @@
   "year": 1844,
   "words": 75216,
   "src": "https://archive.org/download/comfortinafflict00buch/comfortinafflict00buch_djvu.txt",
-  "batch": 81
+  "batch": 80
  },
  {
   "id": "arch/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1750",
@@ -17871,7 +17799,7 @@
   "year": 1750,
   "words": 75221,
   "src": "https://archive.org/download/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1750/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1750_djvu.txt",
-  "batch": 81
+  "batch": 80
  },
  {
   "id": "arch/bookcommonorder02laugoog",
@@ -17880,7 +17808,7 @@
   "year": 1873,
   "words": 75245,
   "src": "https://archive.org/download/bookcommonorder02laugoog/bookcommonorder02laugoog_djvu.txt",
-  "batch": 81
+  "batch": 80
  },
  {
   "id": "arch/bim_eighteenth-century_sermons-and-miscellaneou_hervey-james_1784",
@@ -17889,7 +17817,7 @@
   "year": 1784,
   "words": 75297,
   "src": "https://archive.org/download/bim_eighteenth-century_sermons-and-miscellaneou_hervey-james_1784/bim_eighteenth-century_sermons-and-miscellaneou_hervey-james_1784_djvu.txt",
-  "batch": 81
+  "batch": 80
  },
  {
   "id": "arch/mutechristianun00broo",
@@ -18051,7 +17979,7 @@
   "year": 1851,
   "words": 76117,
   "src": "https://archive.org/download/livingordead00ryle/livingordead00ryle_djvu.txt",
-  "batch": 82
+  "batch": 81
  },
  {
   "id": "arch/livingordeadser00ryle",
@@ -18060,7 +17988,7 @@
   "year": 1851,
   "words": 76241,
   "src": "https://archive.org/download/livingordeadser00ryle/livingordeadser00ryle_djvu.txt",
-  "batch": 82
+  "batch": 81
  },
  {
   "id": "arch/hymnsforchurchon00ryl",
@@ -18069,7 +17997,7 @@
   "year": 1883,
   "words": 76248,
   "src": "https://archive.org/download/hymnsforchurchon00ryl/hymnsforchurchon00ryl_djvu.txt",
-  "batch": 82
+  "batch": 81
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-holy-city-_bunyan-john_1665_0",
@@ -18078,7 +18006,7 @@
   "year": 1665,
   "words": 76297,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-holy-city-_bunyan-john_1665_0/bim_early-english-books-1641-1700_the-holy-city-_bunyan-john_1665_0_djvu.txt",
-  "batch": 82
+  "batch": 81
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1770_2_0",
@@ -18087,7 +18015,7 @@
   "year": 1770,
   "words": 76307,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1770_2_0/bim_eighteenth-century_meditations-and-contempl_hervey-james_1770_2_0_djvu.txt",
-  "batch": 82
+  "batch": 81
  },
  {
   "id": "arch/soulwinner00guer",
@@ -18096,7 +18024,7 @@
   "year": 1896,
   "words": 76365,
   "src": "https://archive.org/download/soulwinner00guer/soulwinner00guer_djvu.txt",
-  "batch": 82
+  "batch": 81
  },
  {
   "id": "arch/hymnsforchurch00ryle",
@@ -18105,7 +18033,7 @@
   "year": 1883,
   "words": 76393,
   "src": "https://archive.org/download/hymnsforchurch00ryle/hymnsforchurch00ryle_djvu.txt",
-  "batch": 82
+  "batch": 81
  },
  {
   "id": "arch/divineconductorm00flav",
@@ -18114,7 +18042,7 @@
   "year": 1840,
   "words": 76431,
   "src": "https://archive.org/download/divineconductorm00flav/divineconductorm00flav_djvu.txt",
-  "batch": 82
+  "batch": 81
  },
  {
   "id": "arch/india.history.resource.117499",
@@ -18123,15 +18051,6 @@
   "year": 1833,
   "words": 76474,
   "src": "https://archive.org/download/india.history.resource.117499/117499_djvu.txt",
-  "batch": 82
- },
- {
-  "id": "arch/b28138089",
-  "title_en": "An elementary text-book of physiology",
-  "author_en": "Murché, Vincent T. (Vincent Thomas)",
-  "year": 1880,
-  "words": 76553,
-  "src": "https://archive.org/download/b28138089/b28138089_djvu.txt",
   "batch": 82
  },
  {
@@ -18276,7 +18195,7 @@
   "year": 1790,
   "words": 77684,
   "src": "https://archive.org/download/bim_eighteenth-century_discourses-upon-solomon_romaine-william_1790/bim_eighteenth-century_discourses-upon-solomon_romaine-william_1790_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/fvndamentvmfirvm00bull",
@@ -18285,7 +18204,7 @@
   "year": 1563,
   "words": 77925,
   "src": "https://archive.org/download/fvndamentvmfirvm00bull/fvndamentvmfirvm00bull_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1751",
@@ -18294,7 +18213,7 @@
   "year": 1751,
   "words": 78024,
   "src": "https://archive.org/download/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1751/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1751_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1777_1_0",
@@ -18303,7 +18222,7 @@
   "year": 1777,
   "words": 78088,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1777_1_0/bim_eighteenth-century_meditations-and-contempl_hervey-james_1777_1_0_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1686",
@@ -18312,7 +18231,7 @@
   "year": 1686,
   "words": 78135,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1686/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1686_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1779",
@@ -18321,7 +18240,7 @@
   "year": 1779,
   "words": 78136,
   "src": "https://archive.org/download/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1779/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1779_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/orthodoxyheterod00shed_0",
@@ -18330,7 +18249,7 @@
   "year": 1893,
   "words": 78190,
   "src": "https://archive.org/download/orthodoxyheterod00shed_0/orthodoxyheterod00shed_0_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1792",
@@ -18339,7 +18258,7 @@
   "year": 1792,
   "words": 78327,
   "src": "https://archive.org/download/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1792/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1792_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-treatise-of-divine-pro_charnock-stephen_1683",
@@ -18348,7 +18267,7 @@
   "year": 1683,
   "words": 78389,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-divine-pro_charnock-stephen_1683/bim_early-english-books-1641-1700_a-treatise-of-divine-pro_charnock-stephen_1683_djvu.txt",
-  "batch": 83
+  "batch": 82
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1750_2",
@@ -18501,7 +18420,7 @@
   "year": 1677,
   "words": 79352,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_considerations-of-the-ex_bates-william_1677/bim_early-english-books-1641-1700_considerations-of-the-ex_bates-william_1677_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1758_2",
@@ -18510,7 +18429,7 @@
   "year": 1758,
   "words": 79605,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1758_2/bim_eighteenth-century_meditations-and-contempl_hervey-james_1758_2_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1776",
@@ -18519,7 +18438,7 @@
   "year": 1776,
   "words": 79609,
   "src": "https://archive.org/download/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1776/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1776_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/bim_eighteenth-century_the-calvinistic-and-soci_fuller-andrew_1793",
@@ -18528,7 +18447,7 @@
   "year": 1793,
   "words": 79686,
   "src": "https://archive.org/download/bim_eighteenth-century_the-calvinistic-and-soci_fuller-andrew_1793/bim_eighteenth-century_the-calvinistic-and-soci_fuller-andrew_1793_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/bim_eighteenth-century_a-discourse-concerning-t_clarke-samuel_1711",
@@ -18537,7 +18456,7 @@
   "year": 1711,
   "words": 79830,
   "src": "https://archive.org/download/bim_eighteenth-century_a-discourse-concerning-t_clarke-samuel_1711/bim_eighteenth-century_a-discourse-concerning-t_clarke-samuel_1711_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/in.ernet.dli.2015.44736",
@@ -18546,7 +18465,7 @@
   "year": 1888,
   "words": 79842,
   "src": "https://archive.org/download/in.ernet.dli.2015.44736/2015.44736.Art-Of-Teaching--Ed-6_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1782_2",
@@ -18555,7 +18474,7 @@
   "year": 1782,
   "words": 79923,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1782_2/bim_eighteenth-century_meditations-and-contempl_hervey-james_1782_2_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/bim_eighteenth-century_selections-a-collecti_hervey-james_1761",
@@ -18564,7 +18483,7 @@
   "year": 1761,
   "words": 79929,
   "src": "https://archive.org/download/bim_eighteenth-century_selections-a-collecti_hervey-james_1761/bim_eighteenth-century_selections-a-collecti_hervey-james_1761_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/bim_eighteenth-century_the-cause-of-god-and-tru_gill-john_1735_3",
@@ -18573,7 +18492,7 @@
   "year": 1735,
   "words": 79998,
   "src": "https://archive.org/download/bim_eighteenth-century_the-cause-of-god-and-tru_gill-john_1735_3/bim_eighteenth-century_the-cause-of-god-and-tru_gill-john_1735_3_djvu.txt",
-  "batch": 84
+  "batch": 83
  },
  {
   "id": "arch/bim_eighteenth-century_an-account-of-the-life-a_henry-matthew_1797",
@@ -18726,7 +18645,7 @@
   "year": 1864,
   "words": 81433,
   "src": "https://archive.org/download/naturalhistoryof00good/naturalhistoryof00good_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1780",
@@ -18735,7 +18654,7 @@
   "year": 1780,
   "words": 81449,
   "src": "https://archive.org/download/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1780/bim_eighteenth-century_the-sovereignty-and-wisd_boston-thomas_1780_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/mosesaaroncivile00good",
@@ -18744,7 +18663,7 @@
   "year": 1641,
   "words": 81455,
   "src": "https://archive.org/download/mosesaaroncivile00good/mosesaaroncivile00good_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1770_2",
@@ -18753,7 +18672,7 @@
   "year": 1770,
   "words": 81733,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1770_2/bim_eighteenth-century_meditations-and-contempl_hervey-james_1770_2_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/bim_eighteenth-century_glad-tidings-to-perishin_booth-abraham_1800",
@@ -18762,7 +18681,7 @@
   "year": 1800,
   "words": 81843,
   "src": "https://archive.org/download/bim_eighteenth-century_glad-tidings-to-perishin_booth-abraham_1800/bim_eighteenth-century_glad-tidings-to-perishin_booth-abraham_1800_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-breach-repaired-in-g_keach-benjamin_1691",
@@ -18771,7 +18690,7 @@
   "year": 1691,
   "words": 81886,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-breach-repaired-in-g_keach-benjamin_1691/bim_early-english-books-1641-1700_the-breach-repaired-in-g_keach-benjamin_1691_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1737",
@@ -18780,7 +18699,7 @@
   "year": 1737,
   "words": 82029,
   "src": "https://archive.org/download/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1737/bim_eighteenth-century_a-method-for-prayer-wit_henry-matthew_1737_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/personaldeclensi00wins",
@@ -18789,7 +18708,7 @@
   "year": 1845,
   "words": 82072,
   "src": "https://archive.org/download/personaldeclensi00wins/personaldeclensi00wins_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/cu31924003401381",
@@ -18798,7 +18717,7 @@
   "year": 1887,
   "words": 82486,
   "src": "https://archive.org/download/cu31924003401381/cu31924003401381_djvu.txt",
-  "batch": 85
+  "batch": 84
  },
  {
   "id": "arch/bim_eighteenth-century_sermons-on-the-being-and_hunt-jeremiah_1748_3",
@@ -18951,7 +18870,7 @@
   "year": 1928,
   "words": 83668,
   "src": "https://archive.org/download/godinfinitereaso0000will/godinfinitereaso0000will_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/expositorydisco00full",
@@ -18960,7 +18879,7 @@
   "year": 1806,
   "words": 83811,
   "src": "https://archive.org/download/expositorydisco00full/expositorydisco00full_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/romanhistoriaean00good",
@@ -18969,7 +18888,7 @@
   "year": 1642,
   "words": 84006,
   "src": "https://archive.org/download/romanhistoriaean00good/romanhistoriaean00good_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/amidsummernight01shakgoog",
@@ -18978,7 +18897,7 @@
   "year": 1905,
   "words": 84062,
   "src": "https://archive.org/download/amidsummernight01shakgoog/amidsummernight01shakgoog_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_a-collection-of-certaine_ursinus-zacharias_1600",
@@ -18987,7 +18906,7 @@
   "year": 1600,
   "words": 84090,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_a-collection-of-certaine_ursinus-zacharias_1600/bim_early-english-books-1475-1640_a-collection-of-certaine_ursinus-zacharias_1600_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/glimpsesoftrutha01wins",
@@ -18996,7 +18915,7 @@
   "year": 1849,
   "words": 84121,
   "src": "https://archive.org/download/glimpsesoftrutha01wins/glimpsesoftrutha01wins_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-holy-citie_bunyan-john_1669",
@@ -19005,7 +18924,7 @@
   "year": 1669,
   "words": 84165,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-holy-citie_bunyan-john_1669/bim_early-english-books-1641-1700_the-holy-citie_bunyan-john_1669_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/bim_eighteenth-century_a-demonstration-of-the-e_fnelon-franois-de-sal_1720",
@@ -19014,7 +18933,7 @@
   "year": 1720,
   "words": 84228,
   "src": "https://archive.org/download/bim_eighteenth-century_a-demonstration-of-the-e_fnelon-franois-de-sal_1720/bim_eighteenth-century_a-demonstration-of-the-e_fnelon-franois-de-sal_1720_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/allweddddirgelyn00broo",
@@ -19023,7 +18942,7 @@
   "year": 1845,
   "words": 84259,
   "src": "https://archive.org/download/allweddddirgelyn00broo/allweddddirgelyn00broo_djvu.txt",
-  "batch": 86
+  "batch": 85
  },
  {
   "id": "arch/difficultiesofpr00flet",
@@ -19176,7 +19095,7 @@
   "year": 1895,
   "words": 85564,
   "src": "https://archive.org/download/soulwinner0000chsp/soulwinner0000chsp_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1796_2",
@@ -19185,7 +19104,7 @@
   "year": 1796,
   "words": 85578,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1796_2/bim_eighteenth-century_meditations-and-contempl_hervey-james_1796_2_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/bim_eighteenth-century_the-cause-of-god-and-tru_gill-john_1735_2",
@@ -19194,7 +19113,7 @@
   "year": 1735,
   "words": 85639,
   "src": "https://archive.org/download/bim_eighteenth-century_the-cause-of-god-and-tru_gill-john_1735_2/bim_eighteenth-century_the-cause-of-god-and-tru_gill-john_1735_2_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_bullinger-heinrich_1569",
@@ -19203,7 +19122,7 @@
   "year": 1569,
   "words": 85732,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_bullinger-heinrich_1569/bim_early-english-books-1641-1700_bullinger-heinrich_1569_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/dialoguesletters00full",
@@ -19212,7 +19131,7 @@
   "year": 1811,
   "words": 85940,
   "src": "https://archive.org/download/dialoguesletters00full/dialoguesletters00full_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/bim_eighteenth-century_the-doctrine-of-the-law-_bunyan-john_1781",
@@ -19221,7 +19140,7 @@
   "year": 1781,
   "words": 86001,
   "src": "https://archive.org/download/bim_eighteenth-century_the-doctrine-of-the-law-_bunyan-john_1781/bim_eighteenth-century_the-doctrine-of-the-law-_bunyan-john_1781_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-excellencie-of-the-g_sibbes-richard_1639",
@@ -19230,7 +19149,7 @@
   "year": 1639,
   "words": 86020,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-excellencie-of-the-g_sibbes-richard_1639/bim_early-english-books-1475-1640_the-excellencie-of-the-g_sibbes-richard_1639_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_certaine-select-cases-_goodwin-thomas_1644",
@@ -19239,7 +19158,7 @@
   "year": 1644,
   "words": 86038,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_certaine-select-cases-_goodwin-thomas_1644/bim_early-english-books-1641-1700_certaine-select-cases-_goodwin-thomas_1644_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_3_0",
@@ -19248,7 +19167,7 @@
   "year": 1787,
   "words": 86069,
   "src": "https://archive.org/download/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_3_0/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_3_0_djvu.txt",
-  "batch": 87
+  "batch": 86
  },
  {
   "id": "arch/cu31924029458696",
@@ -19401,7 +19320,7 @@
   "year": 1825,
   "words": 88189,
   "src": "https://archive.org/download/onnaturepowerdec00owen/onnaturepowerdec00owen_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/heidelbergcatech00newy",
@@ -19410,7 +19329,7 @@
   "year": 1863,
   "words": 88268,
   "src": "https://archive.org/download/heidelbergcatech00newy/heidelbergcatech00newy_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/bim_eighteenth-century_several-discourses-upon-_tillotson-john_1704",
@@ -19419,7 +19338,7 @@
   "year": 1704,
   "words": 88487,
   "src": "https://archive.org/download/bim_eighteenth-century_several-discourses-upon-_tillotson-john_1704/bim_eighteenth-century_several-discourses-upon-_tillotson-john_1704_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/bim_eighteenth-century_two-discourses-concernin_owen-john_1792",
@@ -19428,7 +19347,7 @@
   "year": 1792,
   "words": 88590,
   "src": "https://archive.org/download/bim_eighteenth-century_two-discourses-concernin_owen-john_1792/bim_eighteenth-century_two-discourses-concernin_owen-john_1792_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-display-of-glorious-_keach-benjamin_1698",
@@ -19437,7 +19356,7 @@
   "year": 1698,
   "words": 88613,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-display-of-glorious-_keach-benjamin_1698/bim_early-english-books-1641-1700_the-display-of-glorious-_keach-benjamin_1698_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/put00buny",
@@ -19446,7 +19365,7 @@
   "year": 1910,
   "words": 88734,
   "src": "https://archive.org/download/put00buny/put00buny_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1755_3_0",
@@ -19455,7 +19374,7 @@
   "year": 1755,
   "words": 88925,
   "src": "https://archive.org/download/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1755_3_0/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1755_3_0_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/gospelitsownwitn01full",
@@ -19464,7 +19383,7 @@
   "year": 1801,
   "words": 88964,
   "src": "https://archive.org/download/gospelitsownwitn01full/gospelitsownwitn01full_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/b30322649",
@@ -19473,7 +19392,7 @@
   "year": 1641,
   "words": 89061,
   "src": "https://archive.org/download/b30322649/b30322649_djvu.txt",
-  "batch": 88
+  "batch": 87
  },
  {
   "id": "arch/smallfruitcultur01full",
@@ -19626,7 +19545,7 @@
   "year": 1687,
   "words": 91168,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_an-explicatory-catechism_vincent-thomas_1687/bim_early-english-books-1641-1700_an-explicatory-catechism_vincent-thomas_1687_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/bim_eighteenth-century_christs-certain-and-sud_vincent-thomas_1739",
@@ -19635,7 +19554,7 @@
   "year": 1739,
   "words": 91174,
   "src": "https://archive.org/download/bim_eighteenth-century_christs-certain-and-sud_vincent-thomas_1739/bim_eighteenth-century_christs-certain-and-sud_vincent-thomas_1739_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/unitedstatesnote00knox_0",
@@ -19644,7 +19563,7 @@
   "year": 1894,
   "words": 91174,
   "src": "https://archive.org/download/unitedstatesnote00knox_0/unitedstatesnote00knox_0_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/crookinlotorsove",
@@ -19653,7 +19572,7 @@
   "year": 1791,
   "words": 91201,
   "src": "https://archive.org/download/crookinlotorsove/crookinlotorsove_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1793",
@@ -19662,7 +19581,7 @@
   "year": 1793,
   "words": 91261,
   "src": "https://archive.org/download/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1793/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1793_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/objectlessonsine02murciala",
@@ -19671,7 +19590,7 @@
   "year": 1800,
   "words": 91286,
   "src": "https://archive.org/download/objectlessonsine02murciala/objectlessonsine02murciala_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-excellency-of-a-grac_burroughs-jeremiah_1640",
@@ -19680,7 +19599,7 @@
   "year": 1640,
   "words": 91306,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-excellency-of-a-grac_burroughs-jeremiah_1640/bim_early-english-books-1475-1640_the-excellency-of-a-grac_burroughs-jeremiah_1640_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/bim_eighteenth-century_the-living-temple-or-a_howe-john_1702",
@@ -19689,7 +19608,7 @@
   "year": 1702,
   "words": 91401,
   "src": "https://archive.org/download/bim_eighteenth-century_the-living-temple-or-a_howe-john_1702/bim_eighteenth-century_the-living-temple-or-a_howe-john_1702_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/bim_eighteenth-century_cardiphonia-or-the-utt_newton-john_1782_2",
@@ -19698,7 +19617,7 @@
   "year": 1782,
   "words": 91450,
   "src": "https://archive.org/download/bim_eighteenth-century_cardiphonia-or-the-utt_newton-john_1782_2/bim_eighteenth-century_cardiphonia-or-the-utt_newton-john_1782_2_djvu.txt",
-  "batch": 89
+  "batch": 88
  },
  {
   "id": "arch/heidelbergcatech0000jame",
@@ -19851,7 +19770,7 @@
   "year": 1807,
   "words": 92852,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_13/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_13_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/wayoflife00hodg_0",
@@ -19860,7 +19779,7 @@
   "year": 1869,
   "words": 92906,
   "src": "https://archive.org/download/wayoflife00hodg_0/wayoflife00hodg_0_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/bub_gb_KDxRAAAAcAAJ",
@@ -19869,7 +19788,7 @@
   "year": 1786,
   "words": 92943,
   "src": "https://archive.org/download/bub_gb_KDxRAAAAcAAJ/bub_gb_KDxRAAAAcAAJ_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/sermonnotesasele00spuruoft",
@@ -19878,7 +19797,7 @@
   "year": 1888,
   "words": 92956,
   "src": "https://archive.org/download/sermonnotesasele00spuruoft/sermonnotesasele00spuruoft_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_23",
@@ -19887,7 +19806,7 @@
   "year": 1807,
   "words": 93008,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_23/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_23_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/india.history.resource.18059",
@@ -19896,7 +19815,7 @@
   "year": 1823,
   "words": 93025,
   "src": "https://archive.org/download/india.history.resource.18059/18059_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/cu31924013681584",
@@ -19905,7 +19824,7 @@
   "year": 1878,
   "words": 93071,
   "src": "https://archive.org/download/cu31924013681584/cu31924013681584_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/bim_eighteenth-century_the-doctrines-of-the-gos_whitefield-george_1739",
@@ -19914,7 +19833,7 @@
   "year": 1739,
   "words": 93093,
   "src": "https://archive.org/download/bim_eighteenth-century_the-doctrines-of-the-gos_whitefield-george_1739/bim_eighteenth-century_the-doctrines-of-the-gos_whitefield-george_1739_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1786_6",
@@ -19923,7 +19842,7 @@
   "year": 1786,
   "words": 93118,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1786_6/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1786_6_djvu.txt",
-  "batch": 90
+  "batch": 89
  },
  {
   "id": "arch/dissertationconc00edwa_0",
@@ -20076,7 +19995,7 @@
   "year": 1634,
   "words": 95602,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-saints-safetie-in-ev_sibbes-richard_1634/bim_early-english-books-1475-1640_the-saints-safetie-in-ev_sibbes-richard_1634_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/TheInquirerDirected",
@@ -20085,7 +20004,7 @@
   "year": 1856,
   "words": 95648,
   "src": "https://archive.org/download/TheInquirerDirected/TheInquirerDirected_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_2_0",
@@ -20094,7 +20013,7 @@
   "year": 1760,
   "words": 95741,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_2_0/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_2_0_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/bim_eighteenth-century_twelve-discourses-upon-t_romaine-william_1788",
@@ -20103,7 +20022,7 @@
   "year": 1788,
   "words": 95760,
   "src": "https://archive.org/download/bim_eighteenth-century_twelve-discourses-upon-t_romaine-william_1788/bim_eighteenth-century_twelve-discourses-upon-t_romaine-william_1788_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/discoursesonchri00char",
@@ -20112,7 +20031,7 @@
   "year": 1836,
   "words": 95775,
   "src": "https://archive.org/download/discoursesonchri00char/discoursesonchri00char_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_two-and-twentie-sermons-_calvin-john_1580",
@@ -20121,7 +20040,7 @@
   "year": 1580,
   "words": 95971,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_two-and-twentie-sermons-_calvin-john_1580/bim_early-english-books-1475-1640_two-and-twentie-sermons-_calvin-john_1580_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/appssinm00henr",
@@ -20130,7 +20049,7 @@
   "year": 1797,
   "words": 96121,
   "src": "https://archive.org/download/appssinm00henr/appssinm00henr_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-saints-safetie-in-ev_sibbes-richard_1633",
@@ -20139,7 +20058,7 @@
   "year": 1633,
   "words": 96293,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-saints-safetie-in-ev_sibbes-richard_1633/bim_early-english-books-1475-1640_the-saints-safetie-in-ev_sibbes-richard_1633_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/derhamsphysicoa00derhgoog",
@@ -20148,7 +20067,7 @@
   "year": 1786,
   "words": 96605,
   "src": "https://archive.org/download/derhamsphysicoa00derhgoog/derhamsphysicoa00derhgoog_djvu.txt",
-  "batch": 91
+  "batch": 90
  },
  {
   "id": "arch/10259963bsb",
@@ -20301,7 +20220,7 @@
   "year": 1911,
   "words": 98122,
   "src": "https://archive.org/download/corrosionironan00friegoog/corrosionironan00friegoog_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/bim_eighteenth-century_twelve-discourses-upon-t_romaine-william_1760",
@@ -20310,7 +20229,7 @@
   "year": 1760,
   "words": 98285,
   "src": "https://archive.org/download/bim_eighteenth-century_twelve-discourses-upon-t_romaine-william_1760/bim_eighteenth-century_twelve-discourses-upon-t_romaine-william_1760_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/thechequebookoft00purguoft",
@@ -20319,7 +20238,7 @@
   "year": 1893,
   "words": 98374,
   "src": "https://archive.org/download/thechequebookoft00purguoft/thechequebookoft00purguoft_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/earnesthours00plum",
@@ -20328,7 +20247,7 @@
   "year": 1869,
   "words": 98561,
   "src": "https://archive.org/download/earnesthours00plum/earnesthours00plum_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/sketchesoflifela0000whit",
@@ -20337,7 +20256,7 @@
   "year": 1849,
   "words": 98563,
   "src": "https://archive.org/download/sketchesoflifela0000whit/sketchesoflifela0000whit_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/expositionofasse00flav",
@@ -20346,7 +20265,7 @@
   "year": 1853,
   "words": 98613,
   "src": "https://archive.org/download/expositionofasse00flav/expositionofasse00flav_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/pilgrimsprogr00buny",
@@ -20355,7 +20274,7 @@
   "year": 1914,
   "words": 98662,
   "src": "https://archive.org/download/pilgrimsprogr00buny/pilgrimsprogr00buny_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/dli.ministry.18928",
@@ -20364,7 +20283,7 @@
   "year": 1874,
   "words": 98666,
   "src": "https://archive.org/download/dli.ministry.18928/E01049_Precious_Things_of_God_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/bim_eighteenth-century_dydd-y-farn-fawr-neu-sa_vincent-thomas_1727",
@@ -20373,7 +20292,7 @@
   "year": 1727,
   "words": 98689,
   "src": "https://archive.org/download/bim_eighteenth-century_dydd-y-farn-fawr-neu-sa_vincent-thomas_1727/bim_eighteenth-century_dydd-y-farn-fawr-neu-sa_vincent-thomas_1727_djvu.txt",
-  "batch": 92
+  "batch": 91
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_christ-set-forth-_goodwin-thomas_1653",
@@ -20526,7 +20445,7 @@
   "year": 1716,
   "words": 99751,
   "src": "https://archive.org/download/bim_eighteenth-century_an-explicatory-catechism_vincent-thomas_1716/bim_eighteenth-century_an-explicatory-catechism_vincent-thomas_1716_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1668",
@@ -20535,7 +20454,7 @@
   "year": 1668,
   "words": 100100,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1668/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1668_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/bim_eighteenth-century_eleven-letters-from-the-_hervey-james_1765",
@@ -20544,7 +20463,7 @@
   "year": 1765,
   "words": 100379,
   "src": "https://archive.org/download/bim_eighteenth-century_eleven-letters-from-the-_hervey-james_1765/bim_eighteenth-century_eleven-letters-from-the-_hervey-james_1765_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1755_2_0",
@@ -20553,7 +20472,7 @@
   "year": 1755,
   "words": 100389,
   "src": "https://archive.org/download/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1755_2_0/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1755_2_0_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/calvinisticsocin00full",
@@ -20562,7 +20481,7 @@
   "year": 1796,
   "words": 100403,
   "src": "https://archive.org/download/calvinisticsocin00full/calvinisticsocin00full_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/11778652bsb",
@@ -20571,7 +20490,7 @@
   "year": 1834,
   "words": 100419,
   "src": "https://archive.org/download/11778652bsb/11778652bsb_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/b30331869",
@@ -20580,7 +20499,7 @@
   "year": 1628,
   "words": 100463,
   "src": "https://archive.org/download/b30331869/b30331869_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/bim_eighteenth-century_the-godlymans-picture-_watson-thomas_1758",
@@ -20589,7 +20508,7 @@
   "year": 1758,
   "words": 100624,
   "src": "https://archive.org/download/bim_eighteenth-century_the-godlymans-picture-_watson-thomas_1758/bim_eighteenth-century_the-godlymans-picture-_watson-thomas_1758_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_1",
@@ -20598,7 +20517,7 @@
   "year": 1796,
   "words": 100624,
   "src": "https://archive.org/download/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_1/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_1_djvu.txt",
-  "batch": 93
+  "batch": 92
  },
  {
   "id": "arch/bim_eighteenth-century_the-cause-of-god-and-tru_gill-john_1735_4",
@@ -20751,7 +20670,7 @@
   "year": 1708,
   "words": 101702,
   "src": "https://archive.org/download/bim_eighteenth-century_an-explicatory-catechism_vincent-thomas_1708/bim_eighteenth-century_an-explicatory-catechism_vincent-thomas_1708_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_2",
@@ -20760,7 +20679,7 @@
   "year": 1796,
   "words": 101779,
   "src": "https://archive.org/download/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_2/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_2_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/india.history.resource.18050",
@@ -20769,7 +20688,7 @@
   "year": 1819,
   "words": 101806,
   "src": "https://archive.org/download/india.history.resource.18050/18050_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/secondseriesofle00spuriala",
@@ -20778,7 +20697,7 @@
   "year": 1885,
   "words": 102022,
   "src": "https://archive.org/download/secondseriesofle00spuriala/secondseriesofle00spuriala_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/bim_eighteenth-century_an-essay-towards-establi_buchanan-james_1766",
@@ -20787,7 +20706,7 @@
   "year": 1766,
   "words": 102068,
   "src": "https://archive.org/download/bim_eighteenth-century_an-essay-towards-establi_buchanan-james_1766/bim_eighteenth-century_an-essay-towards-establi_buchanan-james_1766_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/bim_eighteenth-century_the-holy-war-made-by-sh_bunyan-john_1775",
@@ -20796,7 +20715,7 @@
   "year": 1775,
   "words": 102131,
   "src": "https://archive.org/download/bim_eighteenth-century_the-holy-war-made-by-sh_bunyan-john_1775/bim_eighteenth-century_the-holy-war-made-by-sh_bunyan-john_1775_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/chequebookofbank00spur",
@@ -20805,7 +20724,7 @@
   "year": 1889,
   "words": 102146,
   "src": "https://archive.org/download/chequebookofbank00spur/chequebookofbank00spur_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_6",
@@ -20814,7 +20733,7 @@
   "year": 1796,
   "words": 102202,
   "src": "https://archive.org/download/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_6/bim_eighteenth-century_works-of-the-late-revere_romaine-william_1796_6_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/bim_eighteenth-century_the-communicants-compan_henry-matthew_1734",
@@ -20823,7 +20742,7 @@
   "year": 1734,
   "words": 102281,
   "src": "https://archive.org/download/bim_eighteenth-century_the-communicants-compan_henry-matthew_1734/bim_eighteenth-century_the-communicants-compan_henry-matthew_1734_djvu.txt",
-  "batch": 94
+  "batch": 93
  },
  {
   "id": "arch/alpshannibal04lawgoog",
@@ -20976,7 +20895,7 @@
   "year": 1845,
   "words": 103590,
   "src": "https://archive.org/download/MN41535ucmf_0/MN41535ucmf_0_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/talkstofarmers00spur",
@@ -20985,7 +20904,7 @@
   "year": 1882,
   "words": 103626,
   "src": "https://archive.org/download/talkstofarmers00spur/talkstofarmers00spur_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_1",
@@ -20994,7 +20913,7 @@
   "year": 1760,
   "words": 103702,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_1/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_1_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/bim_eighteenth-century_the-reign-of-grace-from_booth-abraham_1771",
@@ -21003,7 +20922,7 @@
   "year": 1771,
   "words": 103737,
   "src": "https://archive.org/download/bim_eighteenth-century_the-reign-of-grace-from_booth-abraham_1771/bim_eighteenth-century_the-reign-of-grace-from_booth-abraham_1771_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/sermonspreacheda0000spur",
@@ -21012,7 +20931,7 @@
   "year": 1892,
   "words": 103774,
   "src": "https://archive.org/download/sermonspreacheda0000spur/sermonspreacheda0000spur_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_christ-set-forth-_goodwin-thomas_1643",
@@ -21021,7 +20940,7 @@
   "year": 1643,
   "words": 103774,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_christ-set-forth-_goodwin-thomas_1643/bim_early-english-books-1641-1700_christ-set-forth-_goodwin-thomas_1643_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/bim_eighteenth-century_the-two-first-parts-of-h_whitefield-george_1756",
@@ -21030,7 +20949,7 @@
   "year": 1756,
   "words": 103814,
   "src": "https://archive.org/download/bim_eighteenth-century_the-two-first-parts-of-h_whitefield-george_1756/bim_eighteenth-century_the-two-first-parts-of-h_whitefield-george_1756_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/bim_eighteenth-century_the-holy-war-made-by-sh_bunyan-john_1738",
@@ -21039,7 +20958,7 @@
   "year": 1738,
   "words": 103925,
   "src": "https://archive.org/download/bim_eighteenth-century_the-holy-war-made-by-sh_bunyan-john_1738/bim_eighteenth-century_the-holy-war-made-by-sh_bunyan-john_1738_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/letterssermonsin0004john",
@@ -21048,7 +20967,7 @@
   "year": 1807,
   "words": 104001,
   "src": "https://archive.org/download/letterssermonsin0004john/letterssermonsin0004john_djvu.txt",
-  "batch": 95
+  "batch": 94
  },
  {
   "id": "arch/bim_eighteenth-century_the-holy-war-made-by-sh_bunyan-john_1763",
@@ -21201,7 +21120,7 @@
   "year": 1834,
   "words": 104867,
   "src": "https://archive.org/download/spiritualperfect00bate/spiritualperfect00bate_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/heidelbergcatech00good",
@@ -21210,7 +21129,7 @@
   "year": 1914,
   "words": 104911,
   "src": "https://archive.org/download/heidelbergcatech00good/heidelbergcatech00good_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/secondseriesofle00spur",
@@ -21219,7 +21138,7 @@
   "year": 1889,
   "words": 105101,
   "src": "https://archive.org/download/secondseriesofle00spur/secondseriesofle00spur_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/systemsofeducati0000gill",
@@ -21228,7 +21147,7 @@
   "year": 1887,
   "words": 105119,
   "src": "https://archive.org/download/systemsofeducati0000gill/systemsofeducati0000gill_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_directions-and-perswasio_baxter-richard_1670",
@@ -21237,7 +21156,7 @@
   "year": 1670,
   "words": 105178,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_directions-and-perswasio_baxter-richard_1670/bim_early-english-books-1641-1700_directions-and-perswasio_baxter-richard_1670_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/livingtempleorgo00howe",
@@ -21246,7 +21165,7 @@
   "year": 1830,
   "words": 105180,
   "src": "https://archive.org/download/livingtempleorgo00howe/livingtempleorgo00howe_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_an-explicatory-catechism_vincent-thomas_1674",
@@ -21255,7 +21174,7 @@
   "year": 1674,
   "words": 105205,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_an-explicatory-catechism_vincent-thomas_1674/bim_early-english-books-1641-1700_an-explicatory-catechism_vincent-thomas_1674_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1785_0",
@@ -21264,7 +21183,7 @@
   "year": 1785,
   "words": 105247,
   "src": "https://archive.org/download/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1785_0/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1785_0_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/bim_eighteenth-century_the-being-and-attributes_knight-henry_1747",
@@ -21273,7 +21192,7 @@
   "year": 1747,
   "words": 105373,
   "src": "https://archive.org/download/bim_eighteenth-century_the-being-and-attributes_knight-henry_1747/bim_eighteenth-century_the-being-and-attributes_knight-henry_1747_djvu.txt",
-  "batch": 96
+  "batch": 95
  },
  {
   "id": "arch/preciousthingsof00wins",
@@ -21426,7 +21345,7 @@
   "year": 1890,
   "words": 106688,
   "src": "https://archive.org/download/lecturestomystu00unkngoog/lecturestomystu00unkngoog_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_3",
@@ -21435,7 +21354,7 @@
   "year": 1807,
   "words": 106698,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_3/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_3_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_2",
@@ -21444,7 +21363,7 @@
   "year": 1760,
   "words": 106805,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_2/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1760_2_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/bim_eighteenth-century_travels-into-different-p_owen-john_1796_2",
@@ -21453,7 +21372,7 @@
   "year": 1796,
   "words": 106829,
   "src": "https://archive.org/download/bim_eighteenth-century_travels-into-different-p_owen-john_1796_2/bim_eighteenth-century_travels-into-different-p_owen-john_1796_2_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/twostudiesinhist00warf_0",
@@ -21462,7 +21381,7 @@
   "year": 1897,
   "words": 106952,
   "src": "https://archive.org/download/twostudiesinhist00warf_0/twostudiesinhist00warf_0_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1784_1",
@@ -21471,7 +21390,7 @@
   "year": 1784,
   "words": 107158,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1784_1/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1784_1_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_several-discourses-tendi_manton-thomas_1685",
@@ -21480,7 +21399,7 @@
   "year": 1685,
   "words": 107163,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_several-discourses-tendi_manton-thomas_1685/bim_early-english-books-1641-1700_several-discourses-tendi_manton-thomas_1685_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/bim_eighteenth-century_the-communicants-compan_henry-matthew_1704",
@@ -21489,7 +21408,7 @@
   "year": 1704,
   "words": 107255,
   "src": "https://archive.org/download/bim_eighteenth-century_the-communicants-compan_henry-matthew_1704/bim_eighteenth-century_the-communicants-compan_henry-matthew_1704_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/reignofgracefrom00boot_0",
@@ -21498,7 +21417,7 @@
   "year": 1854,
   "words": 107276,
   "src": "https://archive.org/download/reignofgracefrom00boot_0/reignofgracefrom00boot_0_djvu.txt",
-  "batch": 97
+  "batch": 96
  },
  {
   "id": "arch/lecturestomystu00spuruoft",
@@ -21651,7 +21570,7 @@
   "year": 1823,
   "words": 109132,
   "src": "https://archive.org/download/sermonspreachedi00chal/sermonspreachedi00chal_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_xviii-sermons_manton-thomas_1679",
@@ -21660,7 +21579,7 @@
   "year": 1679,
   "words": 109206,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_xviii-sermons_manton-thomas_1679/bim_early-english-books-1641-1700_xviii-sermons_manton-thomas_1679_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/dli.bengal.10689.15322",
@@ -21669,7 +21588,7 @@
   "year": 1802,
   "words": 109237,
   "src": "https://archive.org/download/dli.bengal.10689.15322/10689.15322_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/prophet00bona",
@@ -21678,7 +21597,7 @@
   "year": 1860,
   "words": 109321,
   "src": "https://archive.org/download/prophet00bona/prophet00bona_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/explicatorycate00vinc",
@@ -21687,7 +21606,7 @@
   "year": 1784,
   "words": 109560,
   "src": "https://archive.org/download/explicatorycate00vinc/explicatorycate00vinc_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/bim_eighteenth-century_an-explicatory-catechism_vincent-thomas_1752",
@@ -21696,7 +21615,7 @@
   "year": 1752,
   "words": 109570,
   "src": "https://archive.org/download/bim_eighteenth-century_an-explicatory-catechism_vincent-thomas_1752/bim_eighteenth-century_an-explicatory-catechism_vincent-thomas_1752_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/b30327957",
@@ -21705,7 +21624,7 @@
   "year": 1678,
   "words": 109837,
   "src": "https://archive.org/download/b30327957/b30327957_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_12",
@@ -21714,7 +21633,7 @@
   "year": 1807,
   "words": 109986,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_12/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_12_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1638",
@@ -21723,7 +21642,7 @@
   "year": 1638,
   "words": 110030,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1638/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1638_djvu.txt",
-  "batch": 98
+  "batch": 97
  },
  {
   "id": "arch/discoursesonchri00chaluoft",
@@ -21876,7 +21795,7 @@
   "year": 1784,
   "words": 112303,
   "src": "https://archive.org/download/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1784_2/bim_eighteenth-century_a-collection-of-the-lett_hervey-james_1784_2_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_22",
@@ -21885,7 +21804,7 @@
   "year": 1807,
   "words": 112351,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_22/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_22_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/lawofforcibleent00cunn",
@@ -21894,7 +21813,7 @@
   "year": 1895,
   "words": 112441,
   "src": "https://archive.org/download/lawofforcibleent00cunn/lawofforcibleent00cunn_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/shouldourrailwa00cunngoog",
@@ -21903,7 +21822,7 @@
   "year": 1906,
   "words": 112444,
   "src": "https://archive.org/download/shouldourrailwa00cunngoog/shouldourrailwa00cunngoog_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/sketchesofthelif00whituoft",
@@ -21912,7 +21831,7 @@
   "year": 1770,
   "words": 112495,
   "src": "https://archive.org/download/sketchesofthelif00whituoft/sketchesofthelif00whituoft_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/bim_eighteenth-century_sermons-and-tracts-on-s_hervey-james_1790",
@@ -21921,7 +21840,7 @@
   "year": 1790,
   "words": 112587,
   "src": "https://archive.org/download/bim_eighteenth-century_sermons-and-tracts-on-s_hervey-james_1790/bim_eighteenth-century_sermons-and-tracts-on-s_hervey-james_1790_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/explanationofas00vinc",
@@ -21930,7 +21849,7 @@
   "year": 1837,
   "words": 112599,
   "src": "https://archive.org/download/explanationofas00vinc/explanationofas00vinc_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/firstepistleofjo01cand",
@@ -21939,7 +21858,7 @@
   "year": 1870,
   "words": 112685,
   "src": "https://archive.org/download/firstepistleofjo01cand/firstepistleofjo01cand_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/treatiseonrelig00edwa",
@@ -21948,7 +21867,7 @@
   "year": 1824,
   "words": 112700,
   "src": "https://archive.org/download/treatiseonrelig00edwa/treatiseonrelig00edwa_djvu.txt",
-  "batch": 99
+  "batch": 98
  },
  {
   "id": "arch/worksoflaterever02roma",
@@ -22101,7 +22020,7 @@
   "year": 1786,
   "words": 115476,
   "src": "https://archive.org/download/bim_eighteenth-century_derhams-physico-and-ast_derham-w-william_1786_2/bim_eighteenth-century_derhams-physico-and-ast_derham-w-william_1786_2_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-soules-conflict-_sibbes-richard_1658",
@@ -22110,7 +22029,7 @@
   "year": 1658,
   "words": 115519,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-soules-conflict-_sibbes-richard_1658/bim_early-english-books-1641-1700_the-soules-conflict-_sibbes-richard_1658_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/sacredrhetoric00pabnuoft",
@@ -22119,7 +22038,7 @@
   "year": 1870,
   "words": 115636,
   "src": "https://archive.org/download/sacredrhetoric00pabnuoft/sacredrhetoric00pabnuoft_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/attributesgodas00wishgoog",
@@ -22128,7 +22047,7 @@
   "year": 1835,
   "words": 115639,
   "src": "https://archive.org/download/attributesgodas00wishgoog/attributesgodas00wishgoog_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/bim_eighteenth-century_the-communicants-compan_henry-matthew_1715",
@@ -22137,7 +22056,7 @@
   "year": 1715,
   "words": 115806,
   "src": "https://archive.org/download/bim_eighteenth-century_the-communicants-compan_henry-matthew_1715/bim_eighteenth-century_the-communicants-compan_henry-matthew_1715_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/RedemptionDrawingNighADefenceOfThe",
@@ -22146,7 +22065,7 @@
   "year": 1847,
   "words": 115954,
   "src": "https://archive.org/download/RedemptionDrawingNighADefenceOfThe/Redemption_drawing_nigh_A_defence_of_the_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/MN40256ucmf_6",
@@ -22155,7 +22074,7 @@
   "year": 1918,
   "words": 116175,
   "src": "https://archive.org/download/MN40256ucmf_6/MN40256ucmf_6_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/dli.bengal.10689.7255",
@@ -22164,7 +22083,7 @@
   "year": 1789,
   "words": 116386,
   "src": "https://archive.org/download/dli.bengal.10689.7255/10689.7255_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/compendiumexplai00beet",
@@ -22173,7 +22092,7 @@
   "year": 1915,
   "words": 116455,
   "src": "https://archive.org/download/compendiumexplai00beet/compendiumexplai00beet_djvu.txt",
-  "batch": 100
+  "batch": 99
  },
  {
   "id": "arch/b29349813",
@@ -22326,7 +22245,7 @@
   "year": 1910,
   "words": 117741,
   "src": "https://archive.org/download/elizabethandram00shakgoog/elizabethandram00shakgoog_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/sketchesofhistor00buch",
@@ -22335,7 +22254,7 @@
   "year": 1824,
   "words": 117781,
   "src": "https://archive.org/download/sketchesofhistor00buch/sketchesofhistor00buch_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/truerelationofh00buny",
@@ -22344,7 +22263,7 @@
   "year": 1806,
   "words": 117833,
   "src": "https://archive.org/download/truerelationofh00buny/truerelationofh00buny_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/counterfeitmirac0000warf",
@@ -22353,7 +22272,7 @@
   "year": 1918,
   "words": 118099,
   "src": "https://archive.org/download/counterfeitmirac0000warf/counterfeitmirac0000warf_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/selectpracticalw00knox",
@@ -22362,7 +22281,7 @@
   "year": 1845,
   "words": 118184,
   "src": "https://archive.org/download/selectpracticalw00knox/selectpracticalw00knox_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/selectpracticalw00knoxuoft",
@@ -22371,7 +22290,7 @@
   "year": 1845,
   "words": 118256,
   "src": "https://archive.org/download/selectpracticalw00knoxuoft/selectpracticalw00knoxuoft_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_1",
@@ -22380,7 +22299,7 @@
   "year": 1761,
   "words": 118424,
   "src": "https://archive.org/download/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_1/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_1_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/historyofsoutham00grim",
@@ -22389,7 +22308,7 @@
   "year": 1830,
   "words": 118674,
   "src": "https://archive.org/download/historyofsoutham00grim/historyofsoutham00grim_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-blessedness-of-the-r_howe-john_1668",
@@ -22398,7 +22317,7 @@
   "year": 1668,
   "words": 118826,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-blessedness-of-the-r_howe-john_1668/bim_early-english-books-1641-1700_the-blessedness-of-the-r_howe-john_1668_djvu.txt",
-  "batch": 101
+  "batch": 100
  },
  {
   "id": "arch/soulsconflictvic00sibb",
@@ -22551,7 +22470,7 @@
   "year": 1863,
   "words": 120421,
   "src": "https://archive.org/download/saintmark0000ryle/saintmark0000ryle_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/dailycommunionwi00henr",
@@ -22560,7 +22479,7 @@
   "year": 1848,
   "words": 120656,
   "src": "https://archive.org/download/dailycommunionwi00henr/dailycommunionwi00henr_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_an-exposition-of-the-thi_sibbes-richard_1647",
@@ -22569,7 +22488,7 @@
   "year": 1647,
   "words": 120776,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_an-exposition-of-the-thi_sibbes-richard_1647/bim_early-english-books-1475-1640_an-exposition-of-the-thi_sibbes-richard_1647_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_11",
@@ -22578,7 +22497,7 @@
   "year": 1807,
   "words": 120963,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_11/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_11_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/cu31924029450982",
@@ -22587,7 +22506,7 @@
   "year": 1869,
   "words": 120971,
   "src": "https://archive.org/download/cu31924029450982/cu31924029450982_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/bim_eighteenth-century_primiti-ultima-or-t_boston-thomas_1800_1",
@@ -22596,7 +22515,7 @@
   "year": 1800,
   "words": 121466,
   "src": "https://archive.org/download/bim_eighteenth-century_primiti-ultima-or-t_boston-thomas_1800_1/bim_eighteenth-century_primiti-ultima-or-t_boston-thomas_1800_1_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/bim_eighteenth-century_the-saints-everlasting-_baxter-richard_1798",
@@ -22605,7 +22524,7 @@
   "year": 1798,
   "words": 121565,
   "src": "https://archive.org/download/bim_eighteenth-century_the-saints-everlasting-_baxter-richard_1798/bim_eighteenth-century_the-saints-everlasting-_baxter-richard_1798_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/dailycommunionwi00henruoft",
@@ -22614,7 +22533,7 @@
   "year": 1847,
   "words": 121727,
   "src": "https://archive.org/download/dailycommunionwi00henruoft/dailycommunionwi00henruoft_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-blessedness-of-the-r_howe-john_1673",
@@ -22623,7 +22542,7 @@
   "year": 1673,
   "words": 121853,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-blessedness-of-the-r_howe-john_1673/bim_early-english-books-1641-1700_the-blessedness-of-the-r_howe-john_1673_djvu.txt",
-  "batch": 102
+  "batch": 101
  },
  {
   "id": "arch/somethought00edwa",
@@ -22776,7 +22695,7 @@
   "year": 1808,
   "words": 123413,
   "src": "https://archive.org/download/soulsconflictwit00sibb/soulsconflictwit00sibb_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-soules-conflict-with_sibbes-richard_1632",
@@ -22785,7 +22704,7 @@
   "year": 1632,
   "words": 123567,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-soules-conflict-with_sibbes-richard_1632/bim_early-english-books-1641-1700_the-soules-conflict-with_sibbes-richard_1632_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/soulsconflictvic00sibbrich",
@@ -22794,7 +22713,7 @@
   "year": 1837,
   "words": 123567,
   "src": "https://archive.org/download/soulsconflictvic00sibbrich/soulsconflictvic00sibbrich_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/bim_eighteenth-century_sermons-on-several-occas_howe-john_1744_2",
@@ -22803,7 +22722,7 @@
   "year": 1744,
   "words": 123695,
   "src": "https://archive.org/download/bim_eighteenth-century_sermons-on-several-occas_howe-john_1744_2/bim_eighteenth-century_sermons-on-several-occas_howe-john_1744_2_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/sermonsonseveral01howe",
@@ -22812,7 +22731,7 @@
   "year": 1744,
   "words": 123798,
   "src": "https://archive.org/download/sermonsonseveral01howe/sermonsonseveral01howe_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/MN41487ucmf_5",
@@ -22821,7 +22740,7 @@
   "year": 1870,
   "words": 123807,
   "src": "https://archive.org/download/MN41487ucmf_5/MN41487ucmf_5_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/bim_eighteenth-century_primiti-ultima-or-t_boston-thomas_1800_3",
@@ -22830,7 +22749,7 @@
   "year": 1800,
   "words": 123899,
   "src": "https://archive.org/download/bim_eighteenth-century_primiti-ultima-or-t_boston-thomas_1800_3/bim_eighteenth-century_primiti-ultima-or-t_boston-thomas_1800_3_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-nullity-of-the-romis_poole-matthew_1666",
@@ -22839,7 +22758,7 @@
   "year": 1666,
   "words": 123967,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-nullity-of-the-romis_poole-matthew_1666/bim_early-english-books-1641-1700_the-nullity-of-the-romis_poole-matthew_1666_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-nullity-of-the-romis_poole-matthew_1671",
@@ -22848,7 +22767,7 @@
   "year": 1671,
   "words": 124115,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-nullity-of-the-romis_poole-matthew_1671/bim_early-english-books-1641-1700_the-nullity-of-the-romis_poole-matthew_1671_djvu.txt",
-  "batch": 103
+  "batch": 102
  },
  {
   "id": "arch/gpl_1830531",
@@ -23001,7 +22920,7 @@
   "year": 1830,
   "words": 127396,
   "src": "https://archive.org/download/discoursesonvari0003adam/discoursesonvari0003adam_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/bim_eighteenth-century_the-works-of-the-late-re_hervey-james_1769_6",
@@ -23010,7 +22929,7 @@
   "year": 1769,
   "words": 127489,
   "src": "https://archive.org/download/bim_eighteenth-century_the-works-of-the-late-re_hervey-james_1769_6/bim_eighteenth-century_the-works-of-the-late-re_hervey-james_1769_6_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/explicatorycateceasc00vinc",
@@ -23019,7 +22938,7 @@
   "year": 1810,
   "words": 127619,
   "src": "https://archive.org/download/explicatorycateceasc00vinc/explicatorycateceasc00vinc_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/meditationsco00herv",
@@ -23028,7 +22947,7 @@
   "year": 1850,
   "words": 127849,
   "src": "https://archive.org/download/meditationsco00herv/meditationsco00herv_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_2",
@@ -23037,7 +22956,7 @@
   "year": 1761,
   "words": 128096,
   "src": "https://archive.org/download/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_2/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_2_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/administrationon00buchuoft",
@@ -23046,7 +22965,7 @@
   "year": 1865,
   "words": 128126,
   "src": "https://archive.org/download/administrationon00buchuoft/administrationon00buchuoft_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-true-and-only-way-of_baxter-richard_1680",
@@ -23055,7 +22974,7 @@
   "year": 1680,
   "words": 128175,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-true-and-only-way-of_baxter-richard_1680/bim_early-english-books-1641-1700_the-true-and-only-way-of_baxter-richard_1680_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/christianloveasm00edw",
@@ -23064,7 +22983,7 @@
   "year": 1874,
   "words": 128314,
   "src": "https://archive.org/download/christianloveasm00edw/christianloveasm00edw_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_1_0",
@@ -23073,7 +22992,7 @@
   "year": 1787,
   "words": 128347,
   "src": "https://archive.org/download/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_1_0/bim_eighteenth-century_letters-and-sermons-wit_newton-john_1787_1_0_djvu.txt",
-  "batch": 104
+  "batch": 103
  },
  {
   "id": "arch/10776890bsb",
@@ -23226,7 +23145,7 @@
   "year": 1852,
   "words": 131400,
   "src": "https://archive.org/download/charityitsfruits00edw/charityitsfruits00edw_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/peopleschristoth00spur",
@@ -23235,7 +23154,7 @@
   "year": 1903,
   "words": 131415,
   "src": "https://archive.org/download/peopleschristoth00spur/peopleschristoth00spur_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_3",
@@ -23244,7 +23163,7 @@
   "year": 1761,
   "words": 131440,
   "src": "https://archive.org/download/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_3/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1761_3_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/watsonsmagazines53wats",
@@ -23253,7 +23172,7 @@
   "year": 1906,
   "words": 131521,
   "src": "https://archive.org/download/watsonsmagazines53wats/watsonsmagazines53wats_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/charityanditsfr01edwagoog",
@@ -23262,7 +23181,7 @@
   "year": 1852,
   "words": 131777,
   "src": "https://archive.org/download/charityanditsfr01edwagoog/charityanditsfr01edwagoog_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-supplement-to-the-seve_charnock-stephen_1683",
@@ -23271,7 +23190,7 @@
   "year": 1683,
   "words": 131911,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-supplement-to-the-seve_charnock-stephen_1683/bim_early-english-books-1641-1700_a-supplement-to-the-seve_charnock-stephen_1683_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/twofirst00whit",
@@ -23280,7 +23199,7 @@
   "year": 1756,
   "words": 131933,
   "src": "https://archive.org/download/twofirst00whit/twofirst00whit_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_4",
@@ -23289,7 +23208,7 @@
   "year": 1807,
   "words": 132006,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_4/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_4_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_8",
@@ -23298,7 +23217,7 @@
   "year": 1807,
   "words": 132281,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_8/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_8_djvu.txt",
-  "batch": 105
+  "batch": 104
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-cure-of-church-divi_baxter-richard_1670",
@@ -23451,7 +23370,7 @@
   "year": 1844,
   "words": 133495,
   "src": "https://archive.org/download/gracedutyofbe00owen/gracedutyofbe00owen_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/phronematopneuma00owen",
@@ -23460,7 +23379,7 @@
   "year": 1813,
   "words": 133631,
   "src": "https://archive.org/download/phronematopneuma00owen/phronematopneuma00owen_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_sermons-preached-by-the-_manton-thomas_1678",
@@ -23469,7 +23388,7 @@
   "year": 1678,
   "words": 133688,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_sermons-preached-by-the-_manton-thomas_1678/bim_early-english-books-1641-1700_sermons-preached-by-the-_manton-thomas_1678_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/etymologicaldict00gr",
@@ -23478,7 +23397,7 @@
   "year": 1826,
   "words": 133971,
   "src": "https://archive.org/download/etymologicaldict00gr/etymologicaldict00gr_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/counterfeitmir00warf",
@@ -23487,7 +23406,7 @@
   "year": 1918,
   "words": 134096,
   "src": "https://archive.org/download/counterfeitmir00warf/counterfeitmir00warf_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/india.history.resource.17561",
@@ -23496,7 +23415,7 @@
   "year": 1816,
   "words": 134102,
   "src": "https://archive.org/download/india.history.resource.17561/17561_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/bim_eighteenth-century_the-works-of-james-herve_hervey-james_1797_6",
@@ -23505,7 +23424,7 @@
   "year": 1797,
   "words": 134296,
   "src": "https://archive.org/download/bim_eighteenth-century_the-works-of-james-herve_hervey-james_1797_6/bim_eighteenth-century_the-works-of-james-herve_hervey-james_1797_6_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_7",
@@ -23514,7 +23433,7 @@
   "year": 1807,
   "words": 134342,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_7/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_7_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1789_1-2",
@@ -23523,7 +23442,7 @@
   "year": 1789,
   "words": 134627,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1789_1-2/bim_eighteenth-century_meditations-and-contempl_hervey-james_1789_1-2_djvu.txt",
-  "batch": 106
+  "batch": 105
  },
  {
   "id": "arch/dli.bengal.10689.20620",
@@ -23676,7 +23595,7 @@
   "year": 1641,
   "words": 137056,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_bowels-opened-_sibbes-richard_1641/bim_early-english-books-1641-1700_bowels-opened-_sibbes-richard_1641_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/pneumatologiaor01burdgoog",
@@ -23685,7 +23604,7 @@
   "year": 1827,
   "words": 137132,
   "src": "https://archive.org/download/pneumatologiaor01burdgoog/pneumatologiaor01burdgoog_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/bim_eighteenth-century_derhams-physico-and-ast_derham-w-william_1786_1",
@@ -23694,7 +23613,7 @@
   "year": 1786,
   "words": 137259,
   "src": "https://archive.org/download/bim_eighteenth-century_derhams-physico-and-ast_derham-w-william_1786_1/bim_eighteenth-century_derhams-physico-and-ast_derham-w-william_1786_1_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/in.ernet.dli.2015.514310",
@@ -23703,7 +23622,7 @@
   "year": 1790,
   "words": 137548,
   "src": "https://archive.org/download/in.ernet.dli.2015.514310/2015.514310.Sermons-and_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/wellingtonregimentnzef",
@@ -23712,7 +23631,7 @@
   "year": 1928,
   "words": 137617,
   "src": "https://archive.org/download/wellingtonregimentnzef/WellingtonRegimentNZEF_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/bim_eighteenth-century_a-view-of-this-and-the-o_boston-thomas_1790",
@@ -23721,7 +23640,7 @@
   "year": 1790,
   "words": 137843,
   "src": "https://archive.org/download/bim_eighteenth-century_a-view-of-this-and-the-o_boston-thomas_1790/bim_eighteenth-century_a-view-of-this-and-the-o_boston-thomas_1790_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/historyoffrancef00grim_0",
@@ -23730,7 +23649,7 @@
   "year": 1840,
   "words": 138168,
   "src": "https://archive.org/download/historyoffrancef00grim_0/historyoffrancef00grim_0_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/expositorythough02ryle",
@@ -23739,7 +23658,7 @@
   "year": 1857,
   "words": 138402,
   "src": "https://archive.org/download/expositorythough02ryle/expositorythough02ryle_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/posthumousworkso0000chal",
@@ -23748,7 +23667,7 @@
   "year": 1860,
   "words": 138483,
   "src": "https://archive.org/download/posthumousworkso0000chal/posthumousworkso0000chal_djvu.txt",
-  "batch": 107
+  "batch": 106
  },
  {
   "id": "arch/catechizingoffam00baxt",
@@ -23901,7 +23820,7 @@
   "year": 1775,
   "words": 140589,
   "src": "https://archive.org/download/bim_eighteenth-century_a-view-of-this-and-the-o_boston-thomas_1775_2/bim_eighteenth-century_a-view-of-this-and-the-o_boston-thomas_1775_2_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_divers-sermons-conce_calvin-john_1581",
@@ -23910,7 +23829,7 @@
   "year": 1581,
   "words": 141042,
   "src": "https://archive.org/download/bim_early-english-books-1475-1640_divers-sermons-conce_calvin-john_1581/bim_early-english-books-1475-1640_divers-sermons-conce_calvin-john_1581_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-returning-backslider_sibbes-richard_1650",
@@ -23919,7 +23838,7 @@
   "year": 1650,
   "words": 141244,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-returning-backslider_sibbes-richard_1650/bim_early-english-books-1641-1700_the-returning-backslider_sibbes-richard_1650_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_bowels-opened-_sibbes-richard_1658",
@@ -23928,7 +23847,7 @@
   "year": 1658,
   "words": 141450,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_bowels-opened-_sibbes-richard_1658/bim_early-english-books-1641-1700_bowels-opened-_sibbes-richard_1658_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/japancountrycour00newt",
@@ -23937,7 +23856,7 @@
   "year": 1900,
   "words": 141469,
   "src": "https://archive.org/download/japancountrycour00newt/japancountrycour00newt_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/lifeworkofrevgth00bona",
@@ -23946,7 +23865,7 @@
   "year": 1884,
   "words": 141575,
   "src": "https://archive.org/download/lifeworkofrevgth00bona/lifeworkofrevgth00bona_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/peacea00ruth",
@@ -23955,7 +23874,7 @@
   "year": 1642,
   "words": 141801,
   "src": "https://archive.org/download/peacea00ruth/peacea00ruth_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_light-broke-forth-in-wal_keach-benjamin_1696",
@@ -23964,7 +23883,7 @@
   "year": 1696,
   "words": 141957,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_light-broke-forth-in-wal_keach-benjamin_1696/bim_early-english-books-1641-1700_light-broke-forth-in-wal_keach-benjamin_1696_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/sensualisticphil00dabniala",
@@ -23973,7 +23892,7 @@
   "year": 1876,
   "words": 142054,
   "src": "https://archive.org/download/sensualisticphil00dabniala/sensualisticphil00dabniala_djvu.txt",
-  "batch": 108
+  "batch": 107
  },
  {
   "id": "arch/vitalgodlinesstrws00plum",
@@ -24126,7 +24045,7 @@
   "year": 1799,
   "words": 144325,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1799/bim_eighteenth-century_meditations-and-contempl_hervey-james_1799_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/rightmese00baxt",
@@ -24135,7 +24054,7 @@
   "year": 1653,
   "words": 144355,
   "src": "https://archive.org/download/rightmese00baxt/rightmese00baxt_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1792_0",
@@ -24144,7 +24063,7 @@
   "year": 1792,
   "words": 144533,
   "src": "https://archive.org/download/bim_eighteenth-century_meditations-and-contempl_hervey-james_1792_0/bim_eighteenth-century_meditations-and-contempl_hervey-james_1792_0_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/discoursesonvari02clar",
@@ -24153,7 +24072,7 @@
   "year": 1830,
   "words": 144628,
   "src": "https://archive.org/download/discoursesonvari02clar/discoursesonvari02clar_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1767_2",
@@ -24162,7 +24081,7 @@
   "year": 1767,
   "words": 144852,
   "src": "https://archive.org/download/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1767_2/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1767_2_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/bim_eighteenth-century_the-works-of-the-late-re_hervey-james_1769_4",
@@ -24171,7 +24090,7 @@
   "year": 1769,
   "words": 144946,
   "src": "https://archive.org/download/bim_eighteenth-century_the-works-of-the-late-re_hervey-james_1769_4/bim_eighteenth-century_the-works-of-the-late-re_hervey-james_1769_4_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/commentaryhosea00sibbuoft",
@@ -24180,7 +24099,7 @@
   "year": 1641,
   "words": 144987,
   "src": "https://archive.org/download/commentaryhosea00sibbuoft/commentaryhosea00sibbuoft_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/redeemerstears00howe",
@@ -24189,7 +24108,7 @@
   "year": 1846,
   "words": 145050,
   "src": "https://archive.org/download/redeemerstears00howe/redeemerstears00howe_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/10263499bsb",
@@ -24198,7 +24117,7 @@
   "year": 1763,
   "words": 145059,
   "src": "https://archive.org/download/10263499bsb/10263499bsb_djvu.txt",
-  "batch": 109
+  "batch": 108
  },
  {
   "id": "arch/historyofuniteds00dgrim",
@@ -24351,7 +24270,7 @@
   "year": 1684,
   "words": 147403,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_a-practical-exposition-o_manton-thomas_1684/bim_early-english-books-1641-1700_a-practical-exposition-o_manton-thomas_1684_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/MN40099ucmf_6",
@@ -24360,7 +24279,7 @@
   "year": 1867,
   "words": 147439,
   "src": "https://archive.org/download/MN40099ucmf_6/MN40099ucmf_6_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/discoursesonvari03clar",
@@ -24369,7 +24288,7 @@
   "year": 1830,
   "words": 147595,
   "src": "https://archive.org/download/discoursesonvari03clar/discoursesonvari03clar_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/divinerightofchu00owen",
@@ -24378,7 +24297,7 @@
   "year": 1799,
   "words": 147619,
   "src": "https://archive.org/download/divinerightofchu00owen/divinerightofchu00owen_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_6",
@@ -24387,7 +24306,7 @@
   "year": 1807,
   "words": 147674,
   "src": "https://archive.org/download/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_6/bim_eighteenth-century_a-system-of-divinity-in_davy-william_1807_6_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/bim_eighteenth-century_sermons-on-various-impor_edwards-jonathan_1795",
@@ -24396,7 +24315,7 @@
   "year": 1795,
   "words": 147917,
   "src": "https://archive.org/download/bim_eighteenth-century_sermons-on-various-impor_edwards-jonathan_1795/bim_eighteenth-century_sermons-on-various-impor_edwards-jonathan_1795_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1789_2",
@@ -24405,7 +24324,7 @@
   "year": 1789,
   "words": 147928,
   "src": "https://archive.org/download/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1789_2/bim_eighteenth-century_theron-and-aspasio-or-_hervey-james_1789_2_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-right-method-for-a-s_baxter-richard_1653",
@@ -24414,7 +24333,7 @@
   "year": 1653,
   "words": 147984,
   "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-right-method-for-a-s_baxter-richard_1653/bim_early-english-books-1641-1700_the-right-method-for-a-s_baxter-richard_1653_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/lightfro00sibb",
@@ -24423,7 +24342,7 @@
   "year": 1638,
   "words": 148045,
   "src": "https://archive.org/download/lightfro00sibb/lightfro00sibb_djvu.txt",
-  "batch": 110
+  "batch": 109
  },
  {
   "id": "arch/evidencesofchris00dagg",
