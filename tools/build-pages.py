@@ -16,10 +16,11 @@ def slug(s):
     s = "".join(c for c in s if not unicodedata.combining(c)).lower()
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:70]
 
-CSS = (":root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf7;--line:#e3d3b6}"
+CSS_CRIT = (":root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf7;--line:#e3d3b6}"
        "@media (prefers-color-scheme:dark){:root{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--accbtn:#b45a26;--card:#241f17;--line:#3a3325}}"
        "html[data-theme=dark]{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--accbtn:#b45a26;--card:#241f17;--line:#3a3325}"
-       "html[data-theme=light]{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf7;--line:#e3d3b6}"
+       "html[data-theme=light]{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf7;--line:#e3d3b6}")
+_CSS_REST = (
        "body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 'Noto Serif',Georgia,serif}main{max-width:46rem;margin:0 auto;padding:24px 18px 60px}"
        "a{color:var(--acc)}nav.top{font:14px system-ui,sans-serif;margin-bottom:18px}h1{font-size:1.9rem;line-height:1.2;margin:.2em 0 .5em}"
        "ul{padding-left:1.1em}li{margin:.5em 0}small,.m{color:var(--mut);font:14px system-ui,sans-serif}.btn{display:inline-block;background:var(--accbtn);color:#fff;"
@@ -46,6 +47,8 @@ CSS = (":root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a
        ".bk-count{font:13px system-ui,sans-serif;color:var(--mut);white-space:nowrap}"
        ".rel{margin:.6em 0;font-size:.92rem}.rel a{display:inline-block;margin:0 8px 6px 0;padding:4px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;font-size:.85rem}"
        "@media(max-width:600px){.bk-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}}")
+CSS = CSS_CRIT + _CSS_REST
+with open("s.css", "w", encoding="utf-8") as _sf: _sf.write("".join(_CSS_REST))
 
 import hashlib as _hl
 def bcolor(title):
@@ -120,7 +123,7 @@ def page(title, desc_, path, body, ld=None):
     return f'''<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{_og}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN"><meta name="twitter:image" content="{_og}"><meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"><script>try{{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}}catch(e){{}}</script><style>{CSS}</style>{j}</head><body><main>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"><script>try{{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}}catch(e){{}}</script><style>{CSS_CRIT}</style><link rel="stylesheet" href="/s.css">{j}</head><body><main>
 <nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a> · <a href="/bai-viet/">Bài viết</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
 {body}
 {_sh}

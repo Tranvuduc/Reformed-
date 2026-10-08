@@ -34,6 +34,12 @@ _o.makedirs("txt", exist_ok=True)
 for _d in ("doc", "ban-dich"):
     for _f in sorted(_o.listdir(_d)):
         if not _f.endswith(".html") or _f == "index.html": continue
-        _x = _X(); _x.feed(open(f"{_d}/{_f}", encoding="utf-8").read()); _x.flush()
+        _src = f"{_d}/{_f}"; _dst = f"txt/{_f[:-5]}.txt"
+        try:
+            if _o.path.exists(_dst) and _o.path.getmtime(_dst) >= _o.path.getmtime(_src):
+                continue
+        except OSError:
+            pass
+        _x = _X(); _x.feed(open(_src, encoding="utf-8").read()); _x.flush()
         if len(" ".join(_x.out)) < 800: continue
-        open(f"txt/{_f[:-5]}.txt", "w", encoding="utf-8").write("\n\n".join(_x.out) + "\n")
+        open(_dst, "w", encoding="utf-8").write("\n\n".join(_x.out) + "\n")

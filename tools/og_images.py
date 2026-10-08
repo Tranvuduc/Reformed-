@@ -1,5 +1,5 @@
 # Per-page social share images (1200x630 JPEG) rendered with PIL. exec'd by build-pages.py.
-import os, re
+import hashlib, os, re
 from PIL import Image, ImageDraw, ImageFont
 _OGFD = "/usr/share/fonts/truetype/dejavu/"
 def _ogf(n, s): return ImageFont.truetype(_OGFD + n, s)
@@ -30,6 +30,14 @@ def _ogkick(path):
 def og_image(path, title, desc=""):
     name = re.sub(r"[^a-z0-9]+", "-", path.lower().replace(".html", "")).strip("-") or "home"
     out = f"og/{name}.jpg"
+    # skip regeneration if inputs unchanged (hash of path+title+desc)
+    sig = hashlib.md5(f"{path}|{title}|{desc}".encode("utf-8")).hexdigest()[:12]
+    sigf = out + ".sig"
+    try:
+        if os.path.exists(out) and open(sigf).read().strip() == sig:
+            return out
+    except OSError:
+        pass
     _p = [x.strip() for x in re.split(r"\s+[|–]\s+", title)]; t = _p[0]; by = _p[1] if len(_p) > 2 or (len(_p) == 2 and path.startswith("b/")) else ""
     im = Image.new("RGB", (1200, 630), _OGBG); a = _ogart()
     if a and not path.startswith("a/"): im.paste(a[0], (780, 0), a[1])
@@ -55,4 +63,8 @@ def og_image(path, title, desc=""):
     d.text((1120, 576), "Sách Cải Chánh miễn phí · reformed-vietnam.vercel.app", font=_ogf("DejaVuSans.ttf", 20), fill=(255, 235, 220), anchor="ra")
     os.makedirs("og", exist_ok=True)
     im.save(out, "JPEG", quality=62, optimize=True, progressive=True)
+    try:
+        open(sigf, "w").write(sig)
+    except OSError:
+        pass
     return out
