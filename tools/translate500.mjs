@@ -190,6 +190,18 @@ for (const e of items) {
       if (imgLines > lines.length * 0.3 || proseWords < 1500)
         throw new Error(`source has no real text (img:${imgLines}/${lines.length} words:${proseWords})`);
     }
+    // verify CCEL served the right book (its cache sometimes returns wrong documents)
+    if (!e.src) {
+      const m = src.match(/^\s*Title:\s*(.+)$/m);
+      if (m) {
+        const norm = (s) => s.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').split(/\s+/).filter((w) => w.length > 3);
+        const want = new Set(norm(e.title_en));
+        const got = norm(m[1]);
+        const hit = got.filter((w) => want.has(w)).length;
+        if (want.size > 2 && hit < Math.min(2, want.size))
+          throw new Error(`source title mismatch: got "${m[1].slice(0, 60)}", want "${e.title_en.slice(0, 60)}"`);
+      }
+    }
     const chunks = [];
     let cur = '';
     for (const p of splitLong(src.split(/\n\s*\n/))) {
