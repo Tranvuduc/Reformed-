@@ -344,7 +344,7 @@ exec(open('tools/glossary.py', encoding='utf-8').read())
 exec(open('tools/vn_context.py', encoding='utf-8').read())
 exec(open('tools/subscribe_page.py', encoding='utf-8').read())
 exec(open('tools/vi_books.py', encoding='utf-8').read())
-exec(open('tools/collections.py', encoding='utf-8').read())
+exec(open('tools/suu_tap.py', encoding='utf-8').read())
 exec(open('tools/articles.py', encoding='utf-8').read())
 
 # shared home image; author pages without a bio share it instead of getting their own file
