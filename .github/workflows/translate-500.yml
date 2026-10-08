@@ -1,0 +1,35 @@
+# 500-book pipeline: hybrid Muse (Anthropic API) + Gemini (free tier).
+# Batch 1-4 -> Muse (shortest/most-read books, best quality). Batch 5-20 -> Gemini ($0).
+# IMPORTANT: scheduled runs execute the workflow file as it exists on MAIN.
+# If you edit this file on the translate-500 branch, merge it to main too.
+name: Translate 500 (Muse + Gemini)
+on:
+  workflow_dispatch:
+    inputs:
+      batch: { description: "Batch 1-20, or 'auto' for next unfinished", default: "auto" }
+      engine: { description: "muse | gemini | auto (auto: batch<=4 muse, else gemini)", default: "auto" }
+  schedule:
+    - cron: "0 2 * * *" # 09:00 +07 daily
+permissions:
+  contents: write
+concurrency:
+  group: translate-500
+  cancel-in-progress: false
+jobs:
+  tr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: translate-500 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node tools/translate500.mjs "${{ inputs.batch || 'auto' }}" "${{ inputs.engine || 'auto' }}"
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - run: |
+          git config user.name "translate-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add translations tools/translate-500.json tools/translate-500-failures.json
+          git diff --cached --quiet || (git commit -m "500-pipeline: batch ${{ inputs.batch || 'auto' }} (${{ inputs.engine || 'auto' }})" && git pull --rebase && git push)
