@@ -1330,5 +1330,905 @@
   "author": "Flavel, John (1627-1691) <b>(6 classics)</b>",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-case-of-protestants-_clarkson-david_1689",
+  "file": "arch-clarkson-case-protestants.txt",
+  "title": "Trường Hợp Của Người Tin Lành Tại Anh Dưới Một Vị Vua Công Giáo",
+  "orig": "The case of Protestants in England under a Popish prince:... 1689",
+  "author": "Clarkson, David",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-doctrine-of-predesti_gill-john_1770",
+  "file": "arch-gill-predestination-1770.txt",
+  "title": "Giáo Lý Về Sự Tiền Định",
+  "orig": "The doctrine of predestination stated, and set in the scripture-light; in opposition to Mr. Wesley's Predestination calm",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-doctrine-of-predesti_gill-john_1752",
+  "file": "arch-gill-predestination-1752.txt",
+  "title": "TRÌNH BÀY GIÁO LÝ TIỀN ĐỊNH",
+  "orig": "The doctrine of predestination stated, and set in the scripture-light; in opposition to Mr. Wesley's Predestination calm",
+  "author": "Gill, John.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/whatisyourhopequ00ryle",
+  "file": "arch-ryle-what-is-your-hope.txt",
+  "title": "HY VỌNG CỦA BẠN LÀ GÌ?",
+  "orig": "What is your hope? : a question for 1857",
+  "author": "Ryle, J. C. (John Charles), 1816-1900",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/dissertationonim00hodg",
+  "file": "arch-dissertationonim00hodg.txt",
+  "title": "Tầm Quan Trọng Của Văn Học Kinh Thánh",
+  "orig": "A dissertation on the importance of Biblical literature",
+  "author": "Hodge, Charles, 1797-1878",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-discourse-of-the-unspe_flavel-john_1750",
+  "file": "arch-flavel-unspeakable-misery.txt",
+  "title": "NỖI KHỐN KHỔ KHÔN TẢ CỦA LINH HỒN ĐÃ QUA ĐỜI",
+  "orig": "A discourse of the unspeakable misery of the departed spirits of the unregenerate in the prison of hell while reserved t",
+  "author": "Flavel, John.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-brief-and-impartial-ac_owen-john-dd_1690",
+  "file": "arch-owen-brief-impartial-account.txt",
+  "title": "LƯỢC THUẬT VỀ BẢN CHẤT ĐẠO TIN LÀNH",
+  "orig": "A brief and impartial account of the nature of the Protestant religion: ... 1690",
+  "author": "Owen, John, D.D.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-letter-to-the-rev-mr_toplady-augustus_1771",
+  "file": "arch-toplady-letter-wesley-1771.txt",
+  "title": "Thư Gửi Mục Sư John Wesley",
+  "orig": "A letter to the Rev. Mr. John Wesley: relative to his pretended abridgment of Zanchius on predestination. By Augustus To",
+  "author": "Toplady, Augustus",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-further-account-of-god_whitefield-george_1747",
+  "file": "arch-whitefield-further-account.txt",
+  "title": "Đức Chúa Trời Đối Đãi Với Whitefield",
+  "orig": "A further account of God's dealings with the Reverend Mr. George Whitefield, from the time of his ordination to his emba",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-church-in-the-house-a_henry-matthew_1714",
+  "file": "arch-henry-church-in-the-house.txt",
+  "title": "HỘI THÁNH TRONG NHÀ",
+  "orig": "A church in the house. A sermon concerning family-religion. Publish'd at the request of some who heard the substance of ",
+  "author": "Henry, Matthew",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-subject-and-temper-o_newton-john_1780",
+  "file": "arch-newton-subject-temper-ministry.txt",
+  "title": "CHỦ ĐỀ VÀ TINH THẦN CỦA CHỨC VỤ PHÚC ÂM",
+  "orig": "The subject and temper of the gospel ministry: a sermon",
+  "author": "Newton, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/rutherford-samuel-the-efficacy-of-the-sacraments",
+  "file": "arch-rutherford-efficacy-sacraments.txt",
+  "title": "SỰ HIỆU QUẢ CỦA CÁC THÁNH LỄ",
+  "orig": "The Efficacy of the Sacraments",
+  "author": "Rutherford, Samuel",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_an-advertisement-_poole-matthew_1674",
+  "file": "arch-poole-advertisement-1674.txt",
+  "title": "Lời Thông Báo Về Phần Thứ Tư Của Ông Poole",
+  "orig": "An advertisement ... 1674",
+  "author": "Poole, Matthew",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-letter-from-the-late-r_hervey-james_1763",
+  "file": "arch-hervey-letter-1763.txt",
+  "title": "BỨC THƯ CẢNH TỈNH VÀ CÁI CHẾT CỦA ALTAMONT",
+  "orig": "A letter from the late Rev. Mr H-, to Richard N-, Esq. 1763",
+  "author": "Hervey, James",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/fourhymns00warf",
+  "file": "arch-warfield-four-hymns.txt",
+  "title": "BỐN BÀI THÁNH CA VÀ MỘT SỐ BÀI THƠ ĐẠO",
+  "orig": "Four hymns and some religious verses",
+  "author": "Warfield, Benjamin Breckinridge",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-seamans-monitor-ex_flavel-john_1799",
+  "file": "arch-flavel-seamans-monitor.txt",
+  "title": "Lời Cảnh Tỉnh Cho Người Đi Biển",
+  "orig": "The seaman's monitor, extracted from the works of the late R",
+  "author": "Flavel, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_short-instructions-for-t_baxter-richard_1665",
+  "file": "arch-baxter-short-instructions-sick.txt",
+  "title": "Lời Chỉ Dẫn Ngắn Cho Người Bệnh",
+  "orig": "Short instructions for the sick: ... 1665",
+  "author": "Baxter, Richard",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-political-sentiments_bunyan-john_1798",
+  "file": "arch-bunyan-political-sentiments.txt",
+  "title": "Tư Tưởng Chính Trị Của John Bunyan",
+  "orig": "The political sentiments of John Bunyan",
+  "author": "Bunyan, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/canonofnewtestam00warf",
+  "file": "arch-warfield-canon-nt.txt",
+  "title": "Sự Hình Thành Kinh Điển Tân Ước: Như Thế Nào Và Khi Nào",
+  "orig": "The canon of the New Testament: how and when formed",
+  "author": "Warfield, Benjamin Breckinridge",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-preached-at-pl_watson-thomas-jun_1785",
+  "file": "arch-watson-sermon-plymouth.txt",
+  "title": "MỘT BÀI GIẢNG, GIẢNG TẠI PLYMOUTH, NGÀY 7 THÁNG 8 NĂM 1785",
+  "orig": "A sermon, preached at Plymouth, August 7, 1785",
+  "author": "Watson, Thomas, Jun",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-letter-from-the-rev-m_whitefield-george_1740_0",
+  "file": "arch-whitefield-letter-georgia.txt",
+  "title": "Thư Whitefield Từ Georgia",
+  "orig": "A letter from the Rev. Mr. Whitefield from Georgia",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_unto-the-questions-sent-_owen-john_1659",
+  "file": "arch-owen-unto-questions.txt",
+  "title": "TRẢ LỜI CÁC CÂU HỎI GỬI TÔI ĐÊM QUA",
+  "orig": "Unto the questions sent me last night, ... 1659",
+  "author": "Owen, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_richard-baxters-sence-o_baxter-richard_1689",
+  "file": "arch-baxter-sence-articles.txt",
+  "title": "Quan Điểm Của Baxter Về Các Điều Khoản Đức Tin",
+  "orig": "Richard Baxter's sence of the subscribed articles",
+  "author": "Baxter, Richard",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_directions-how-to-hear-s_whitefield-george_1739",
+  "file": "arch-whitefield-directions-hear-sermons.txt",
+  "title": "Hướng Dẫn Cách Nghe Giảng",
+  "orig": "Directions how to hear sermons",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-catechism-for-children_henry-matthew_1747",
+  "file": "arch-henry-catechism-children.txt",
+  "title": "Một Giáo Lý Vấn Đáp Đơn Giản Cho Trẻ Em",
+  "orig": "A catechism for children",
+  "author": "Henry, Matthew",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/nomorecryingaddr00ryle",
+  "file": "arch-ryle-no-more-crying.txt",
+  "title": "Không Còn Khóc Nữa",
+  "orig": "No more crying: an address to children",
+  "author": "Ryle, J. C.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-brief-account-of-the-o_whitefield-george_1748",
+  "file": "arch-whitefield-brief-account-1748.txt",
+  "title": "Tường Thuật Ngắn Gọn Về Duyên Cớ, Diễn Tiến Và Kết Quả",
+  "orig": "A brief account of the occasion, process, and issue",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_some-considerations-abou_owen-john_1680",
+  "file": "arch-owen-considerations-union.txt",
+  "title": "Một Số Suy Xét Về Hiệp Nhất Tin Lành",
+  "orig": "Some considerations about union... 1680",
+  "author": "Owen, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-judgment-and-advice-_baxter-richard_1658_0",
+  "file": "arch-baxter-judgment-advice-assembly.txt",
+  "title": "PHÁN ĐOÁN VÀ LỜI KHUYÊN CỦA HỘI ĐỒNG MỤC SƯ",
+  "orig": "The judgment and advice of the Assembly ... 1658",
+  "author": "Baxter, Richard",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/the-sun-rising-upon-a-dark-world-newton",
+  "file": "arch-newton-sun-rising-dark-world.txt",
+  "title": "Mặt Trời Mọc Trên Thế Giới Tối Tăm",
+  "orig": "The Sun Rising Upon a Dark World",
+  "author": "Newton, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_directions-to-justices-o_baxter-richard_1657",
+  "file": "arch-baxter-directions-justices.txt",
+  "title": "LỜI CHỈ DẪN CHO CÁC QUAN TƯ PHÁP",
+  "orig": "Directions to justices of peace,... 1657",
+  "author": "Baxter, Richard",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-short-address-to-perso_whitefield-george_1756_3",
+  "file": "arch-whitefield-short-address.txt",
+  "title": "Lời Kêu Gọi Ngắn Gửi Mọi Người Thuộc Mọi Giáo Phái",
+  "orig": "A short address to persons of all denominations",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_intercession-every-chris_whitefield-george_1738",
+  "file": "arch-whitefield-intercession-duty.txt",
+  "title": "Cầu Thay: Bổn Phận Của Mọi Cơ Đốc Nhân",
+  "orig": "Intercession every Christian's duty: a sermon",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_jepthahs-vow-fulfilled-_romaine-william_1747",
+  "file": "arch-romaine-jepthah-vow.txt",
+  "title": "Lời Khấn Giép-thê Và Con Gái Không Bị Hiến Tế",
+  "orig": "Jepthah's vow fulfilled, and his daughter not sacrificed",
+  "author": "Romaine, William",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-case-of-the-protesta_howe-john_1689",
+  "file": "arch-howe-case-dissenters.txt",
+  "title": "TRƯỜNG HỢP CỦA NGƯỜI TIN LÀNH LY KHAI",
+  "orig": "The case of the Protestant Dissenters, ... 1689",
+  "author": "Howe, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_christ-the-support-of-th_whitefield-george_1740",
+  "file": "arch-whitefield-christ-support-tempted.txt",
+  "title": "Chúa Giê-xu Christ, Đấng Nâng Đỡ Người Bị Cám Dỗ",
+  "orig": "Christ the support of the tempted",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/howtobringupchil08plum",
+  "file": "arch-plumer-bring-up-children.txt",
+  "title": "CÁCH NUÔI DẠY CON CÁI",
+  "orig": "How to bring up children",
+  "author": "Plumer, William S.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-putting-on-the-new-m_whitefield-george_1770",
+  "file": "arch-whitefield-putting-new-man.txt",
+  "title": "MẶC LẤY NGƯỜI MỚI",
+  "orig": "The putting on the new man",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_an-exhortation-at-a-comm_rutherford-samuel_1746",
+  "file": "arch-rutherford-exhortation-communion.txt",
+  "title": "Lời Khuyên Tại Tiệc Thánh",
+  "orig": "An exhortation at a communion to a Scots congregation",
+  "author": "Rutherford, Samuel",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-pastors-love-expresse_watson-thomas_1662",
+  "file": "arch-watson-pastors-love.txt",
+  "title": "TÌNH YÊU CỦA MỘT MỤC SƯ ĐƯỢC BÀY TỎ",
+  "orig": "A pastor's love expressed ... 1662",
+  "author": "Watson, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-marks-of-the-new-bir_whitefield-george_1739",
+  "file": "arch-whitefield-marks-new-birth.txt",
+  "title": "DẤU HIỆU CỦA SỰ TÁI SINH",
+  "orig": "The marks of the new birth",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-cry-from-the-dead-fro_rutherford-samuel_1765",
+  "file": "arch-rutherford-cry-from-dead.txt",
+  "title": "Tiếng Kêu Từ Kẻ Chết",
+  "orig": "A cry from the dead, from the flower of the Church",
+  "author": "Rutherford, Samuel",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_an-expostulatory-letter-_whitefield-george_1753_0",
+  "file": "arch-whitefield-expostulatory-lewis.txt",
+  "title": "Thư Khuyên Bảo Gửi Bá Tước Zinzendorf",
+  "orig": "An expostulatory letter, addressed to Nicholas Lewis",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_christ-the-only-rest-for_whitefield-george_1740",
+  "file": "arch-whitefield-christ-only-rest.txt",
+  "title": "ĐẤNG CHRIST, NƠI AN NGHỈ DUY NHẤT CHO NGƯỜI MỆT MỎI VÀ GÁNH NẶNG",
+  "orig": "Christ the only rest for the weary and heavy laden",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-observation-of-the-b_whitefield-george_1740",
+  "file": "arch-whitefield-observation-birth-christ.txt",
+  "title": "CÁCH ĐÚNG ĐỂ MỪNG LỄ GIÁNG SINH",
+  "orig": "The observation of the birth of Christ, the duty of Christians",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-letter-to-the-reverend_whitefield-george_1744_0",
+  "file": "arch-whitefield-letter-thomas-church.txt",
+  "title": "Thư Gửi Mục Sư Thomas Church",
+  "orig": "A letter to the Reverend Mr. Thomas Church",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-dissenters-reasons-_gill-john_1795",
+  "file": "arch-gill-dissenters-reasons.txt",
+  "title": "LÝ DO NGƯỜI LY KHAI TÁCH KHỎI HỘI THÁNH ANH",
+  "orig": "The Dissenters' reasons for separating from the Church",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/consolation-newton",
+  "file": "arch-newton-consolation.txt",
+  "title": "SỰ AN ỦI",
+  "orig": "The Consolation",
+  "author": "Newton, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-heinous-sin-of-profa_whitefield-george_1738",
+  "file": "arch-whitefield-heinous-cursing.txt",
+  "title": "Tội Ghê Tởm Của Việc Chửi Thề Phạm Thượng",
+  "orig": "The heinous sin of profane cursing and swearing",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-benefits-of-an-early_whitefield-george_1737_0",
+  "file": "arch-whitefield-benefits-early-piety.txt",
+  "title": "Những Lợi Ích Của Một Sự Đạo Đức Sớm",
+  "orig": "The benefits of an early piety",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-great-duty-of-charit_whitefield-george_1740",
+  "file": "arch-whitefield-great-duty-charity.txt",
+  "title": "Bổn Phận Lớn Lao Của Lòng Bác Ái",
+  "orig": "The great duty of charity recommended",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-discourse-directing-wh_howe-john_1714",
+  "file": "arch-howe-discourse-directing.txt",
+  "title": "Phải Làm Gì Sau Khi Xét Mình Có Yêu Chúa Không",
+  "orig": "A discourse directing what we are to do",
+  "author": "Howe, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-heinous-sin-of-drunk_whitefield-george_1739",
+  "file": "arch-whitefield-heinous-drunkenness.txt",
+  "title": "Tội Say Rượu Ghê Tởm",
+  "orig": "The heinous sin of drunkenness",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_prayers-on-several-occas_whitefield-george_1739",
+  "file": "arch-whitefield-prayers-occasions.txt",
+  "title": "Những Lời Cầu Nguyện Cho Nhiều Dịp",
+  "orig": "Prayers on several occasions",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/a-letter-on-the-death-of-a-child-plumer",
+  "file": "arch-plumer-letter-death-child.txt",
+  "title": "Thư Gửi Người Bạn Mất Con",
+  "orig": "A letter on the death of a child",
+  "author": "Plumer, William S.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-barren-fig-tree-a-s_whitefield-george_1787",
+  "file": "arch-whitefield-barren-fig-tree.txt",
+  "title": "CÂY VẢ KHÔNG TRÁI: LỜI CẢNH BÁO CHO HỘI THÁNH",
+  "orig": "The barren fig-tree: a sermon",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/beautiful-robe-plumer-myers",
+  "file": "arch-plumer-beautiful-robe.txt",
+  "title": "Chiếc Áo Đẹp Đẽ",
+  "orig": "A beautiful robe",
+  "author": "Plumer, William S.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/angels-and-men-plumer-myers",
+  "file": "arch-plumer-angels-men.txt",
+  "title": "THIÊN SỨ VÀ LOÀI NGƯỜI",
+  "orig": "Angels and men",
+  "author": "Plumer, William S.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-cross-of-christ-the_hervey-james_1760",
+  "file": "arch-hervey-cross-christ-glory.txt",
+  "title": "Thập Tự Giá Đấng Christ, Vinh Quang Cơ Đốc Nhân",
+  "orig": "The cross of Christ, the Christian's glory",
+  "author": "Hervey, James",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-grounds-and-duty-of-_hervey-james_1770",
+  "file": "arch-hervey-grounds-duty-rejoicing.txt",
+  "title": "NỀN TẢNG VÀ BỔN PHẬN CỦA SỰ VUI MỪNG",
+  "orig": "The grounds and duty of Christian rejoicing",
+  "author": "Hervey, James",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_an-earnest-invitation-to_romaine-william_1757",
+  "file": "arch-romaine-earnest-invitation.txt",
+  "title": "LỜI MỜI THA THIẾT GỬI BẠN CỦA HỘI THÁNH ANH",
+  "orig": "An earnest invitation to the friends of the established church",
+  "author": "Romaine, William",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-divine-call-to-leave_boston-thomas_1784",
+  "file": "arch-boston-divine-call-leave.txt",
+  "title": "HÃY RA KHỎI GIA ĐÌNH MA QUỶ",
+  "orig": "The divine call to leave the devil's family",
+  "author": "Boston, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-modest-apology-for-the_romaine-william_1753",
+  "file": "arch-romaine-modest-apology.txt",
+  "title": "LỜI BIỆN HỘ KHIÊM TỐN VỀ LUẬT NHẬP TỊCH",
+  "orig": "A modest apology for the citizens and merchants",
+  "author": "Romaine, William",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/cihm_40623",
+  "file": "arch-only-one-way-tract.txt",
+  "title": "CHỈ CÓ MỘT CON ĐƯỜNG",
+  "orig": "Only one way: a tract for the times",
+  "author": "Ryle, J. C.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/spurgeonsfastday00spur",
+  "file": "arch-spurgeon-fast-day-sermon.txt",
+  "title": "Bài Giảng Ngày Kiêng Ăn Của Spurgeon",
+  "orig": "Spurgeon's fast-day sermon",
+  "author": "Spurgeon, C. H.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/crowdingtotouchs00spur",
+  "file": "arch-spurgeon-crowding-touch-saviour.txt",
+  "title": "CHEN LẤN ĐỂ CHẠM ĐẾN ĐẤNG CỨU THẾ",
+  "orig": "Crowding to touch the saviour",
+  "author": "Spurgeon, C. H.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/whattimeisitbein00ryle",
+  "file": "arch-ryle-what-time-is-it.txt",
+  "title": "MẤY GIỜ RỒI?",
+  "orig": "What time is it? Being thoughts on Rom. XIII. 12",
+  "author": "Ryle, J. C.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/revchspurgeonsmi00spur",
+  "file": "arch-spurgeon-missionary-sermon.txt",
+  "title": "Bài Giảng Truyền Giáo Của Spurgeon",
+  "orig": "Rev. C.H. Spurgeon's missionary sermon",
+  "author": "Spurgeon, C. H.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/richpoortractfor00ryle",
+  "file": "arch-ryle-rich-and-poor.txt",
+  "title": "GIÀU VÀ NGHÈO!",
+  "orig": "Rich and poor: a tract for the times",
+  "author": "Ryle, J. C.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-excellency-of-the-kn_boston-thomas_1762",
+  "file": "arch-boston-excellency-knowledge-christ.txt",
+  "title": "SỰ CAO TRỌNG: BIẾT ĐẤNG CHRIST BỊ ĐÓNG ĐINH",
+  "orig": "The excellency of the knowledge of Christ",
+  "author": "Boston, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/spiritualsongsfo00ryle",
+  "file": "arch-ryle-spiritual-songs-month.txt",
+  "title": "NHỮNG BÀI HÁT THIÊNG LIÊNG CHO MỘT THÁNG",
+  "orig": "Spiritual songs for a month",
+  "author": "Ryle, J. C.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/dabneys-last-lecture-on-stonewall-jackson-davidson-magazine-1899",
+  "file": "arch-dabney-last-lecture-jackson.txt",
+  "title": "BÀI GIẢNG CUỐI CÙNG CỦA DABNEY VỀ STONEWALL JACKSON",
+  "orig": "Dabney's last lecture on Stonewall Jackson",
+  "author": "Dabney, R. L.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/paulonwomenspeak00warf",
+  "file": "arch-warfield-paul-women-speaking.txt",
+  "title": "Phao-lô Về Việc Phụ Nữ Phát Biểu Trong Hội Thánh",
+  "orig": "Paul on women speaking in church",
+  "author": "Warfield, B. B.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/presbyterianism-with-the-modern-improvements-dabney-1873",
+  "file": "arch-dabney-presbyterianism-modern.txt",
+  "title": "TRƯỞNG LÃO GIÁO, VỚI NHỮNG CẢI TIẾN HIỆN ĐẠI",
+  "orig": "Presbyterianism, with the modern improvements",
+  "author": "Dabney, R. L.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/a-discourse-delivered-at-the-funeral-of-mrs.-martha-rice-hodge",
+  "file": "arch-hodge-funeral-martha-rice.txt",
+  "title": "ĐẤNG CHRIST LÀ SỰ SỐNG LẠI VÀ SỰ SỐNG",
+  "orig": "A discourse delivered at the funeral of Mrs. Martha Rice",
+  "author": "Hodge, Charles",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/cihm_63395",
+  "file": "arch-on-conversion-letter.txt",
+  "title": "THƯ VỀ SỰ CẢI ĐẠO",
+  "orig": "On conversion: a letter",
+  "author": "Berridge, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-full-answer-to-a-falla_romaine-william_1753",
+  "file": "arch-romaine-full-answer-apology.txt",
+  "title": "LỜI ĐÁP TRỌN VẸN CHO MỘT LỜI BIỆN HỘ SAI LẦM",
+  "orig": "A full answer to a fallacious apology",
+  "author": "Romaine, William",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-serious-and-affectiona_hervey-james_1759",
+  "file": "arch-hervey-serious-affectionate-address.txt",
+  "title": "LỜI KÊU GỌI THÂN ÁI GỬI NHÂN LOẠI",
+  "orig": "A serious and affectionate address to mankind",
+  "author": "Hervey, James",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/b30341152",
+  "file": "arch-goodwin-principles-faith.txt",
+  "title": "NHỮNG NGUYÊN TẮC CỦA ĐỨC TIN",
+  "orig": "The principles of faith",
+  "author": "Goodwin, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_satans-devices-a-sermo_whitefield-george_1739",
+  "file": "arch-whitefield-satans-devices.txt",
+  "title": "MƯU KẾ CỦA SA-TAN",
+  "orig": "Satan's devices",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_persecution-the-christi_whitefield-george_1741",
+  "file": "arch-whitefield-persecution-christians-lot.txt",
+  "title": "SỰ BẮT BỚ, PHẦN CỦA CƠ ĐỐC NHÂN",
+  "orig": "Persecution, the Christian's lot",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-discourse-on-the-benef_romaine-william_1759",
+  "file": "arch-romaine-benefit-holy-spirit.txt",
+  "title": "ÍCH LỢI CỦA ĐỨC THÁNH LINH CHO ĐỜI NGƯỜI",
+  "orig": "A discourse on the benefit which the Holy Spirit",
+  "author": "Romaine, William",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_gods-free-grace-in-the-_whitefield-george_1740",
+  "file": "arch-whitefield-gods-free-grace.txt",
+  "title": "ÂN ĐIỂN TỰ DO CỨU RỖI KẺ CÓ TỘI",
+  "orig": "God's free grace in the salvation of sinners",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-constraining-influen_newton-john_1800",
+  "file": "arch-newton-constraining-love-christ.txt",
+  "title": "TÌNH YÊU CỦA ĐẤNG CHRIST CẢM THÚC CHÚNG TA",
+  "orig": "The constraining influence of the love of Christ",
+  "author": "Newton, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-danger-of-man-result_whitefield-george_1740",
+  "file": "arch-whitefield-danger-man-sin.txt",
+  "title": "SỰ NGUY HIỂM CỦA LOÀI NGƯỜI DO TỘI LỖI",
+  "orig": "The danger of man resulting from sin",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-free-grace-of-god-ex_gill-john_1765",
+  "file": "arch-gill-free-grace-exalted.txt",
+  "title": "ÂN ĐIỂN CHÚA ĐƯỢC TÔN CAO TRONG ĐỜI PHAO-LÔ",
+  "orig": "The free grace of God exalted in the character",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-duty-of-a-gospel-min_whitefield-george_1741",
+  "file": "arch-whitefield-duty-gospel-minister.txt",
+  "title": "BỔN PHẬN CỦA NGƯỜI GIẢNG PHÚC ÂM",
+  "orig": "The duty of a gospel minister",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-glory-of-gods-grace_gill-john_1764",
+  "file": "arch-gill-glory-gods-grace.txt",
+  "title": "VINH QUANG ÂN ĐIỂN CHÚA BÀY TỎ",
+  "orig": "The glory of God's grace displayed",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_christ-the-physician-of-_whitefield-george_1750",
+  "file": "arch-whitefield-christ-physician-soul.txt",
+  "title": "ĐẤNG CHRIST, THẦY THUỐC CỦA LINH HỒN",
+  "orig": "Christ the physician of the soul",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-kingdom-of-god-a-se_whitefield-george_1741",
+  "file": "arch-whitefield-kingdom-of-god.txt",
+  "title": "VƯƠNG QUỐC ĐỨC CHÚA TRỜI",
+  "orig": "The kingdom of God",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-faithful-minister-of_gill-john_1767",
+  "file": "arch-gill-faithful-minister-crowned.txt",
+  "title": "NGƯỜI HẦU VIỆC TRUNG TÍN ĐƯỢC ĐỘI MÃO",
+  "orig": "The faithful minister of Christ crowned",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-law-establishd-by-t_gill-john_1739",
+  "file": "arch-gill-law-established-gospel-1739.txt",
+  "title": "LUẬT PHÁP ĐƯỢC CỦNG CỐ BỞI PHÚC ÂM",
+  "orig": "The law establish'd by the gospel",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-necessity-of-christ_gill-john_1766",
+  "file": "arch-gill-necessity-christ-satisfaction.txt",
+  "title": "SỰ CẦN THIẾT CỦA VIỆC ĐẤNG CHRIST ĐỀN TỘI",
+  "orig": "The necessity of Christ's making satisfaction",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_faith-in-god-and-his-wor_gill-john_1754",
+  "file": "arch-gill-faith-god-word.txt",
+  "title": "ĐỨC TIN NƠI ĐỨC CHÚA TRỜI VÀ LỜI NGÀI",
+  "orig": "Faith in God and his word",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-redeemers-ability-t_boston-thomas_1755",
+  "file": "arch-boston-redeemer-ability-save.txt",
+  "title": "ĐẤNG CỨU CHUỘC CỨU KẺ CÓ TỘI ĐẾN TỘT CÙNG",
+  "orig": "The Redeemer's ability to save sinners to the uttermost",
+  "author": "Boston, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_christ-the-saviour-of-th_boston-thomas_1790",
+  "file": "arch-boston-christ-saviour-world.txt",
+  "title": "Đấng Christ, Đấng Cứu Thế Của Thế Gian",
+  "orig": "Christ the saviour of the world",
+  "author": "Boston, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-best-security-agains_boston-thomas_1764",
+  "file": "arch-boston-best-security-wrath.txt",
+  "title": "SỰ AN TOÀN NHẤT CHỐNG LẠI NGÀY THỊNH NỘ",
+  "orig": "The best security against the day of wrath",
+  "author": "Boston, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-short-address-to-perso_whitefield-george_1756_0",
+  "file": "arch-whitefield-short-address.txt",
+  "title": "Lời Ngỏ Ngắn Gửi Mọi Người Thuộc Mọi Giáo Phái",
+  "orig": "A short address to persons of all denominations",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-duty-of-praying-for-_romaine-william_1757",
+  "file": "arch-romaine-duty-praying-others.txt",
+  "title": "BỔN PHẬN CẦU NGUYỆN CHO KẺ KHÁC",
+  "orig": "The duty of praying for others",
+  "author": "Romaine, William",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-preached-on-the_goodwin-thomas_1702",
+  "file": "arch-goodwin-funeral-sermon.txt",
+  "title": "BÀI GIẢNG NHÂN CÁI CHẾT CỦA VUA WILLIAM III",
+  "orig": "A sermon preached on the sad occasion of the death",
+  "author": "Goodwin, Thomas",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
