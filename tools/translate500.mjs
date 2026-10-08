@@ -182,6 +182,14 @@ for (const e of items) {
     if (src.length < 1000) throw new Error('source too short');
     if (e.src) src = cleanOcr(src); // archive.org OCR cleanup
     if (src.length < 1000) throw new Error('source too short after cleanup');
+    // pre-flight: reject sources with no real text (scan placeholders / page indexes)
+    {
+      const lines = src.split('\n');
+      const imgLines = lines.filter((l) => /Image of page/i.test(l)).length;
+      const proseWords = (src.match(/[A-Za-z]{3,}/g) || []).length;
+      if (imgLines > lines.length * 0.3 || proseWords < 1500)
+        throw new Error(`source has no real text (img:${imgLines}/${lines.length} words:${proseWords})`);
+    }
     const chunks = [];
     let cur = '';
     for (const p of splitLong(src.split(/\n\s*\n/))) {
