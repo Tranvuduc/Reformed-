@@ -26,6 +26,7 @@ TOPICS = [
  ("muc-vu-giang-dao", "Chức vụ, giảng đạo và mục vụ", "Được Chúa kêu gọi hầu việc Ngài là đặc ân lớn, cũng là trách nhiệm nặng: rao giảng Lời Chúa cách trung thực và chăn dắt bầy chiên bằng tình yêu thương. Chuyên mục này dành cho mục sư, người giảng dạy Kinh Thánh, trưởng nhóm nhỏ và mọi tín hữu muốn phục vụ: nghệ thuật giảng đạo, chăm sóc linh hồn, truyền giáo và đời sống gương mẫu của người hầu việc Chúa.", r"preach|pastor|minister|sermon|shepherd|lectures to my students|ministry|evangel|missions?|soul", r"giảng|mục sư|bài giảng|truyền giáo|chăn"),
 ]
 _X = {x["id"]: x for x in books["extra"]}
+_TOPIC_LIST = [(s, n) for s, n, i, ren, rvi in TOPICS]
 _pages = []
 for slug, name, intro, ren, rvi in TOPICS:
     rx, rv = re.compile(ren, re.I), re.compile(rvi, re.I)
@@ -49,15 +50,19 @@ for slug, name, intro, ren, rvi in TOPICS:
     def li_c(c):
         _, en, key, au = c
         vt = _VI.get(key)
-        t = f'{E(vt)} <small>({E(en)})</small>' if vt else E(en)
-        return f'<li><a href="/reader.html?id={E(key)}"><b>{t}</b></a> <small>· {E(au)}</small></li>'
+        t = vt if vt else en
+        return bcard(t, au, f"/reader.html?id={key}", kicker="Đọc trong thư viện", desc_=None if t == en else en)
+    _vv_cards = "".join(bcard(t, a, u, kicker="Liên kết ngoài", ext=True) for t, u, a in vv)
+    _cc_cards = "".join(li_c(c) for c in cc)
+    _rel = " ".join(f'<a href="/chu-de/{s}.html">{E(n)}</a>' for s, n in _TOPIC_LIST if s != slug)
     body = f'''<p class="m"><a href="/chu-de/">← Tất cả chủ đề</a> · <a href="/lo-trinh.html">Lộ trình đọc</a></p>
 <h1>{E(name)}</h1><p>{E(intro)}</p>
 <div class="note"><b>Lưu ý:</b> danh sách này do máy lọc theo từ khóa, ưu tiên các tác giả Cải Chánh kinh điển, và chưa được mục sư thẩm định. Sách tiếng Anh có nút 🌐 để dịch máy sang tiếng Việt trong trình đọc (có thể còn sai sót).</div>
 <h2>Sách tiếng Việt ({len(vv)})</h2>
-<ul>{"".join(f'<li><a href="{E(u)}" target="_blank" rel="noopener"><b>{E(t)}</b></a> <small>· {E(a)}</small></li>' for t, u, a in vv) or "<li>Chưa có.</li>"}</ul>
+{("<p>Chưa có.</p>" if not vv else bkgrid(_vv_cards))}
 <h2>Sách kinh điển miễn phí, đọc trong thư viện ({len(cc)})</h2>
-<ul>{"".join(li_c(c) for c in cc)}</ul>'''
+{bkgrid(_cc_cards)}
+<h2>Chủ đề liên quan</h2><p class="rel">{_rel}</p>'''
     p = f"chu-de/{slug}.html"
     open(p, "w", encoding="utf-8").write(page(f"{name} – sách Cải Chánh miễn phí | Reformed Vietnam", intro + " Sách miễn phí tiếng Việt và tiếng Anh.", p, body))
     urls.append(p); _pages.append((slug, name, intro, len(cc) + len(vv)))

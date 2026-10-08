@@ -58,10 +58,10 @@ for _b in _idx:
     _hub.append((_b["title"], _au, _b.get("orig", ""), "/" + _path, _rev, _orig_book))
 open("vi-books.json", "w", encoding="utf-8").write(_j.dumps(VIBOOKS, ensure_ascii=False))
 
-_li = lambda x: f'<li><a href="{x[3]}"><b>{E(x[0])}</b></a> · {E(x[1])}' + (f' · <i>{E(x[2])}</i>' if x[2] else '') + (' · <small>đã duyệt</small>' if x[4] else ' · <small>AI, chưa duyệt</small>') + '</li>'
+_li = lambda x: bcard(x[0], x[1], x[3], badge=("đã duyệt" if x[4] else "AI, chưa duyệt"), kicker=x[2] or "Bản dịch")
 _tr = "".join(_li(x) for x in _hub if not x[5]); _nw = "".join(_li(x) for x in _hub if x[5])
 _hb = ('<h1>Bản dịch và sách mới</h1><p class="dr" style="padding:.6em .9em;border-radius:8px;background:#d9a41e22">Các sách dưới đây do AI hỗ trợ dịch hoặc soạn và <b>chưa được mục sư duyệt giáo lý</b>. Hãy đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>'
-       + (f'<h2>Bản dịch tiếng Việt</h2><ul>{_tr}</ul>' if _tr else '') + (f'<h2>Sách mới (tác giả David)</h2><ul>{_nw}</ul>' if _nw else '') + '<p><a class="btn" href="/">Về thư viện</a></p>')
+       + (f'<h2>Bản dịch tiếng Việt</h2>' + bkgrid(_tr) if _tr else '') + (f'<h2>Sách mới (tác giả David)</h2>' + bkgrid(_nw) if _nw else '') + '<p><a class="btn" href="/">Về thư viện</a></p>')
 if _hub:
     open("ban-dich/index.html", "w", encoding="utf-8").write(page("Bản dịch và sách mới | Reformed Vietnam", "Các bản dịch tiếng Việt và sách mới do AI hỗ trợ, chưa duyệt giáo lý. Miễn phí.", "ban-dich/index.html", _hb))
     urls.append("ban-dich/index.html")

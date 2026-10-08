@@ -42,12 +42,32 @@ for _f in _os.listdir("txt"):
         _L = [l.strip() for l in open("txt/" + _f, encoding="utf-8").read().split("\n", 6)[:5] if l.strip()]
         _VT[_f[:-4]] = (_L[0].title() if _L else _f, len(open("txt/" + _f, encoding="utf-8").read()))
 def _min(s): return max(1, round(_VT[s][1] / 1100))
-_apage = '<style>.bio{margin:12px 0 18px;padding:14px 16px;border-radius:10px;background:#8881}.bio p{margin:.3em 0}.bio dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin:.6em 0;font-size:.92rem}.bio dt{opacity:.7}.bio dd{margin:0}.bio ul{margin:.3em 0 .3em 1.2em;padding:0}</style>'
+def _initials(nm):
+    ps = [p for p in nm.replace(".", " ").split() if p and p[0].isalpha()]
+    return (ps[0][0] + (ps[-1][0] if len(ps) > 1 else "")).upper()
+def _monogram(nm):
+    ini = _initials(nm)
+    return (f'<svg class="au-pic" viewBox="0 0 96 96" aria-hidden="true"><circle cx="48" cy="48" r="44" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="48" cy="48" r="37" fill="none" stroke="currentColor" stroke-width="1" opacity=".35"/><text x="48" y="61" text-anchor="middle" font-size="30" fill="currentColor" font-family="Georgia,serif">{ini}</text></svg>')
+# related authors: share a tradition keyword
+def _rel(slugs, trad, nm):
+    if not trad: return []
+    keys = [w.lower() for w in trad.replace("(", " ").replace(")", " ").split() if len(w) > 3]
+    out = []
+    for _sl2, _nm2, _yr2, _tr2, _b2, _w2, _v2 in _AB:
+        if _nm2 == nm or not _tr2: continue
+        t2 = _tr2.lower()
+        if any(k in t2 for k in keys):
+            out.append((_sl2[0], _nm2))
+            if len(out) >= 5: break
+    return out
+_apage = '<style>.bio{margin:12px 0 18px;padding:14px 16px;border-radius:10px;background:#8881}.bio p{margin:.3em 0}.bio dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin:.6em 0;font-size:.92rem}.bio dt{opacity:.7}.bio dd{margin:0}.bio ul{margin:.3em 0 .3em 1.2em;padding:0}.au-pic{width:84px;height:84px;color:var(--acc);float:left;margin:2px 14px 8px 0}.rel{margin:.8em 0 0;font-size:.92rem}.rel a{margin-right:10px}</style>'
 for _sl, _nm, _yr, _tr, _bio, _wk, _vn in _AB:
     _dl = (f'<dt>Sống</dt><dd>{E(_yr)}</dd>' if _yr else '') + (f'<dt>Truyền thống</dt><dd>{E(_tr)}</dd>' if _tr else '') + (f'<dt>Tác phẩm tiêu biểu</dt><dd>{E("; ".join(_wk))}</dd>' if _wk else '')
-    _blk = (f'<div class="bio"><p>{E(_bio)}</p><dl>{_dl}</dl>'
+    _rel_l = _rel(_sl, _tr, _nm)
+    _blk = (f'<div class="bio">{_monogram(_nm)}<p>{E(_bio)}</p><dl>{_dl}</dl>'
+            + ('<p class="rel"><b>Tác giả liên quan:</b> ' + " ".join(f'<a href="/a/{s}.html">{E(n)}</a>' for s, n in _rel_l) + '</p>' if _rel_l else '')
             + ('<p><b>Đọc tiếng Việt ngay:</b></p><ul>' + "".join(f'<li><a href="/reader.html?id=vn/{s}">{E(_VT[s][0])}</a> (khoảng {_min(s)} phút, bản dịch AI chưa duyệt)</li>' for s in _vn if s in _VT) + '</ul>' if _vn else '')
-            + '<p><small>Tiểu sử tóm tắt do AI soạn, chưa được mục sư duyệt. Hãy đối chiếu với nguồn lịch sử đáng tin cậy.</small></p></div>')
+            + '<p style="clear:both"><small>Tiểu sử tóm tắt do AI soạn, chưa được mục sư duyệt. Hãy đối chiếu với nguồn lịch sử đáng tin cậy.</small></p></div>')
     for _s in _sl:
         _p = f"a/{_s}.html"
         if not _os.path.exists(_p): continue
