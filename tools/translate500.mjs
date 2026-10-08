@@ -37,7 +37,7 @@ async function probeModel(m) {
 // call and use the first that answers. Never trust a name blindly.
 async function pickGeminiModel() {
   if (MOCK) return;
-  const cands = ['gemini-2.5-flash', 'gemini-2.0-flash'];
+  const cands = ['gemini-3.8-flash', 'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash'];
   if (process.env.GEMINI_MODEL && !cands.includes(process.env.GEMINI_MODEL)) cands.push(process.env.GEMINI_MODEL);
   try {
     const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=100',
@@ -48,7 +48,7 @@ async function pickGeminiModel() {
     for (const m of ids.filter((x) => ver(x) > 0).sort((a, b) => ver(b) - ver(a)))
       if (!cands.includes(m)) cands.push(m);
   } catch (e) { console.error('model list failed:', e.message); }
-  for (const m of ['gemini-2.5-flash-lite', 'gemini-2.0-flash-lite'])
+  for (const m of ['gemini-3.8-flash-lite', 'gemini-3.5-flash-lite'])
     if (!cands.includes(m)) cands.push(m);
   for (const m of cands) {
     if (await probeModel(m)) { GCANDS = [m, ...cands.filter((x) => x !== m)]; gIdx = 0; GMODEL = m; console.log('gemini model:', m); return; }
@@ -109,14 +109,17 @@ async function geminiCall(text) {
         lastErr = 'empty response';
       } else {
         lastErr = `HTTP ${r.status} ${(await r.text().catch(() => '')).slice(0, 160)}`;
-        // rotate to next candidate model on quota/overload/not-found
-        if ([429, 503, 404].includes(r.status) && GCANDS.length > 1) {
+        // 404: model is dead -> rotate to next candidate. 429/503: same key quota,
+        // rotating models does NOT help -> just back off longer on the same model.
+        if (r.status === 404 && GCANDS.length > 1) {
           gIdx = (gIdx + 1) % GCANDS.length;
           if (GCANDS[gIdx] !== GMODEL) { GMODEL = GCANDS[gIdx]; console.log('switching gemini model:', GMODEL); }
         }
       }
     } catch (e) { lastErr = e.message; }
-    await new Promise((s) => setTimeout(s, 10000 * (t + 1)));
+    // backoff: longer when quota-related (429/503), else standard
+    const q = /HTTP (429|503)/.test(lastErr);
+    await new Promise((s) => setTimeout(s, (q ? 60000 : 10000) * (t + 1)));
   }
   throw new Error('gemini call failed: ' + lastErr);
 }
@@ -149,7 +152,7 @@ function splitLong(paras, maxLen = 2800) {
   }
   return out.filter((s) => s.length > 0);
 }
-const pace = MOCK ? 0 : engineArg === 'gemini' ? 5000 : 1200; // stay under free-tier RPM
+const pace = MOCK ? 0 : engineArg === 'gemini' ? 10000 : 1200; // stay under free-tier RPM
 let lastCall = 0;
 async function paced(text) {
   const wait = Math.max(0, lastCall + pace - Date.now());
@@ -164,8 +167,11 @@ const idx = JSON.parse(fs.readFileSync(idxPath, 'utf8'));
 const failures = [];
 let chunksTotal = 0;
 const MAXCHUNKS = 950;
+let consecFail = 0; // circuit breaker: stop run if API keeps failing
+let abortRun = false;
 
 for (const e of items) {
+  if (abortRun) break;
   const slug = slugOf(e);
   const tmpDir = `translations/.tmp500/${slug}`;
   fs.mkdirSync(tmpDir, { recursive: true });
@@ -187,9 +193,18 @@ for (const e of items) {
     for (let k = 0; k < chunks.length && chunksTotal < MAXCHUNKS; k++) {
       const f = path.join(tmpDir, String(k + 1).padStart(4, '0') + '.txt');
       if (!fs.existsSync(f)) {
-        const tr = await paced(chunks[k]);
-        fs.writeFileSync(f, tr);
-        chunksTotal++;
+        try {
+          const tr = await paced(chunks[k]);
+          fs.writeFileSync(f, tr);
+          chunksTotal++;
+          consecFail = 0;
+        } catch (err) {
+          if (++consecFail >= 6) {
+            console.log('circuit breaker: 6 consecutive chunk failures, stopping run (completed books are kept)');
+            abortRun = true;
+          }
+          throw err;
+        }
       }
       done++;
     }
