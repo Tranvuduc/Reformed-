@@ -20,7 +20,7 @@ _SP = {
  "do-you-pray": (None, None,
    ["Bạn cầu nguyện riêng mỗi ngày không? Điều gì cản trở bạn?", "Trong bảy lý do của bài, lý do nào làm bạn suy nghĩ nhất?", "Bạn sẽ dành thời gian nào trong ngày để cầu nguyện, bắt đầu từ tuần này?"]),
 }
-_scss = '<style>.q{margin:12px 0;padding:10px 16px;border-left:3px solid #8a3b1f;background:#8881;border-radius:6px}.q p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}.bc{font-size:.85rem;opacity:.8}</style>'
+_scss = '<style>.q{margin:12px 0;padding:10px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}.q p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}.bc{font-size:.85rem;opacity:.8}</style>'
 _sdesc = {s: d for g, L in _SG for s, a, d in L}
 _sauth = {s: a for g, L in _SG for s, a, d in L}
 os.makedirs("bai-giang", exist_ok=True)

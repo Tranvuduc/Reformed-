@@ -206,18 +206,15 @@ body:not(.home) #bw{display:none}
 
 /* update banner + welcome */
 .updbanner{position:fixed;left:50%;transform:translateX(-50%);bottom:18px;z-index:99;background:var(--accent,#b3541e);color:#fff;border:0;border-radius:999px;padding:12px 22px;font-size:.95rem;font-weight:600;box-shadow:0 6px 24px rgba(0,0,0,.25);cursor:pointer}
-.welc{position:fixed;left:12px;right:12px;bottom:12px;z-index:98;background:var(--card,#fff);border:1px solid var(--line,#ddd);border-radius:14px;padding:14px 16px;display:grid;gap:6px;box-shadow:0 8px 30px rgba(0,0,0,.18)}
+.welc{position:fixed;left:12px;right:12px;bottom:12px;z-index:98;background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:14px;padding:14px 16px;display:grid;gap:6px;box-shadow:0 8px 30px rgba(0,0,0,.18)}
 .welc b{font-size:1rem}.welc span{font-size:.88rem;opacity:.85}.welc a{color:var(--accent);font-weight:600}.welc button{position:absolute;top:6px;right:10px;border:0;background:none;font-size:1rem;cursor:pointer;opacity:.6}
 /* rendering perf: skip offscreen cards */
 .grid .book{content-visibility:auto;contain-intrinsic-size:120px}
 /* reader loading skeleton */
-.rdskel{padding:24px;display:grid;gap:12px}.rdskel i{display:block;height:14px;border-radius:7px;background:linear-gradient(90deg,#eee 25%,#e0e0e0 50%,#eee 75%);background-size:200% 100%;animation:sk 1.2s infinite}
+.rdskel{padding:24px;display:grid;gap:12px}.rdskel i{display:block;height:14px;border-radius:7px;background:linear-gradient(90deg,var(--soft) 25%,var(--line) 50%,var(--soft) 75%);background-size:200% 100%;animation:sk 1.2s infinite}
 @keyframes sk{to{background-position:-200% 0}}
 
-/* ===== Visual upgrade 2026-10-08: hero images + book covers (appended only) ===== */
-.hero-img{width:100%;aspect-ratio:16/7;object-fit:cover;border-radius:14px;display:block;box-shadow:0 14px 34px rgba(60,40,20,.22)}
-.hero:has(.hero-img)::after{display:none}
-@media(max-width:600px){.hero-img{aspect-ratio:16/10;border-radius:10px}}
+/* ===== Visual upgrade 2026-10-08: book covers (appended only; hero images removed per user) ===== */
 
 /* Book covers: layered sheen + paper texture + shade over the inline
    background color, double-rule frame, spine strip, faint cross watermark */

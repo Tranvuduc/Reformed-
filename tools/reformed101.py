@@ -19,7 +19,7 @@ _G = [
  ("Tín điều và giáo lý", "Hội Thánh qua các thời đại đã tóm tắt giáo huấn Kinh Thánh trong các tín điều: Sứ đồ, Nicene, Heidelberg, Westminster, Báp-tít 1689.", "Giu-đe 3; 2 Ti-mô-thê 1:13"),
 ]
 def _blk(L): return "".join(f'<div class="g"><h3>{E(t)}</h3><p>{E(d)}</p><p class="m"><small>Kinh Thánh: {E(r)}</small></p></div>' for t, d, r in L)
-_css = '<style>.g{margin:14px 0;padding:12px 16px;border-left:3px solid #8a3b1f;background:#8881;border-radius:6px}.g h3{margin:0 0 .2em;font-size:1.05rem}.g p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}</style>'
+_css = '<style>.g{margin:14px 0;padding:12px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}.g h3{margin:0 0 .2em;font-size:1.05rem}.g p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}</style>'
 _b1 = f'''{_css}<h1>Cải Chánh là gì?</h1>
 <p class="dr">Bản nháp do AI hỗ trợ soạn, chưa được mục sư duyệt giáo lý. Kinh Thánh là thẩm quyền tối hậu. Hãy đối chiếu với Kinh Thánh và hỏi mục sư của bạn.</p>
 <p>“Cải Chánh” (Reformed) là truyền thống Tin Lành bắt nguồn từ cuộc Cải cách thế kỷ XVI, với những người như Calvin, Zwingli, Knox. Truyền thống này nhấn mạnh Kinh Thánh, ân điển của Đức Chúa Trời và sự vinh hiển của Ngài. Bạn không cần hiểu hết mọi điều ấy mới theo Chúa được. Hãy bắt đầu với <a href="/moi-tin-chua.html">lộ trình 30 ngày</a>.</p>

@@ -16,12 +16,17 @@ def slug(s):
     s = "".join(c for c in s if not unicodedata.combining(c)).lower()
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:70]
 
-CSS = ("body{margin:0;background:#f4efe4;color:#26211a;font:17px/1.6 'Noto Serif',Georgia,serif}main{max-width:46rem;margin:0 auto;padding:24px 18px 60px}"
-       "a{color:#9a3412}nav.top{font:14px system-ui,sans-serif;margin-bottom:18px}h1{font-size:1.9rem;line-height:1.2;margin:.2em 0 .5em}"
-       "ul{padding-left:1.1em}li{margin:.5em 0}small,.m{color:#6f665a;font:14px system-ui,sans-serif}.btn{display:inline-block;background:#9a3412;color:#fff;"
-       "padding:8px 16px;border-radius:8px;text-decoration:none;font:600 15px system-ui,sans-serif;margin:4px 6px 4px 0}.btn.s{background:none;color:#9a3412;border:1px solid #9a3412}"
-       ".shr{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:28px 0 0;font:14px system-ui,sans-serif}.shr span{color:#6f665a}.shr a,.shr button{border:1px solid #9a3412;color:#9a3412;background:none;border-radius:8px;padding:6px 12px;font:600 14px system-ui,sans-serif;text-decoration:none;cursor:pointer}.shr a.fb{background:#1877f2;border-color:#1877f2;color:#fff}"
-       "footer{margin-top:40px;font:13px system-ui,sans-serif;color:#6f665a}")
+CSS = (":root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf7;--line:#e3d3b6}"
+       "@media (prefers-color-scheme:dark){:root{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--accbtn:#b45a26;--card:#241f17;--line:#3a3325}}"
+       "html[data-theme=dark]{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--accbtn:#b45a26;--card:#241f17;--line:#3a3325}"
+       "html[data-theme=light]{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf7;--line:#e3d3b6}"
+       "body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 'Noto Serif',Georgia,serif}main{max-width:46rem;margin:0 auto;padding:24px 18px 60px}"
+       "a{color:var(--acc)}nav.top{font:14px system-ui,sans-serif;margin-bottom:18px}h1{font-size:1.9rem;line-height:1.2;margin:.2em 0 .5em}"
+       "ul{padding-left:1.1em}li{margin:.5em 0}small,.m{color:var(--mut);font:14px system-ui,sans-serif}.btn{display:inline-block;background:var(--accbtn);color:#fff;"
+       "padding:8px 16px;border-radius:8px;text-decoration:none;font:600 15px system-ui,sans-serif;margin:4px 6px 4px 0}.btn.s{background:none;color:var(--acc);border:1px solid var(--acc)}"
+       ".shr{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:28px 0 0;font:14px system-ui,sans-serif}.shr span{color:var(--mut)}.shr a,.shr button{border:1px solid var(--acc);color:var(--acc);background:none;border-radius:8px;padding:6px 12px;font:600 14px system-ui,sans-serif;text-decoration:none;cursor:pointer}.shr a.fb{background:#1877f2;border-color:#1877f2;color:#fff}"
+       "footer{margin-top:40px;font:13px system-ui,sans-serif;color:var(--mut)}"
+       "#th{border:1px solid var(--acc);color:var(--acc);background:none;border-radius:8px;padding:4px 10px;font:600 13px system-ui,sans-serif;cursor:pointer;margin-left:6px}")
 
 exec(open("tools/og_images.py", encoding="utf-8").read())
 import json as _sj
@@ -56,11 +61,11 @@ def page(title, desc_, path, body, ld=None):
     return f'''<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{_og}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN"><meta name="twitter:image" content="{_og}"><meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"><style>{CSS}</style>{j}</head><body><main>
-<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a> · <a href="/bai-viet/">Bài viết</a></nav>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"><script>try{{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}}catch(e){{}}</script><style>{CSS}</style>{j}</head><body><main>
+<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a> · <a href="/bai-viet/">Bài viết</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
 {body}
 {_sh}
-<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a>{SUBL} · Liên hệ: reformedvn@gmail.com</footer></main></body></html>'''
+<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a>{SUBL} · Liên hệ: reformedvn@gmail.com</footer></main><script>(function(){{var b=document.getElementById("th");if(!b)return;b.onclick=function(){{var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{{localStorage.setItem("rv.ptheme",c)}}catch(e){{}}}}}})()</script></body></html>'''
 
 for d in ("a", "b"):
     shutil.rmtree(d, ignore_errors=True); os.makedirs(d)
@@ -187,6 +192,7 @@ for _alias, _canon in AUTHOR_ALIASES.items():
             f'<link rel="canonical" href="{SITE}/a/{_ck}.html">\n'
             f'<meta http-equiv="refresh" content="0; url=/a/{_ck}.html">\n'
             '<meta name="robots" content="noindex">\n'
+            '<style>body{background:#f4efe4;color:#26211a}@media(prefers-color-scheme:dark){body{background:#1b1712;color:#e9e1cd}}a{color:#9a3412}@media(prefers-color-scheme:dark){a{color:#d97b4a}}</style>\n'
             f'</head><body><p>Trang này đã chuyển đến <a href="/a/{_ck}.html">{E(_cn)}</a>.</p></body></html>\n')
 
 # author index

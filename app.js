@@ -388,7 +388,7 @@ $("grid").addEventListener("change",function(e){
   var r=e.target.closest("input[data-rid]");if(r)render();
 });
 $("lang").addEventListener("click",function(){st.lang=st.lang==="vi"?"en":"vi";try{localStorage.setItem("rv.lang",st.lang)}catch(e){}labels();render()});
-$("theme").addEventListener("click",function(){var r=document.documentElement,d=r.getAttribute("data-theme")==="dark"||(!r.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches);r.setAttribute("data-theme",d?"light":"dark")});
+$("theme").addEventListener("click",function(){var r=document.documentElement,d=r.getAttribute("data-theme")==="dark"||(!r.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches);var nt=d?"light":"dark";r.setAttribute("data-theme",nt);try{localStorage.setItem("rv.theme",nt)}catch(e){}var mc=document.querySelector('meta[name="theme-color"]');if(mc)mc.setAttribute("content",nt==="dark"?"#14171c":"#9a3412")});
 
 
 

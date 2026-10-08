@@ -11,7 +11,7 @@ _body = f'''<h1>Hôm nay</h1>
 <div class="card" id="cont" hidden><h2>Đọc tiếp nơi bạn dừng lại</h2><p id="contp"></p></div>
 <div class="card"><h2>Chia sẻ</h2><p><a class="btn" id="fb" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={SITE}/hom-nay.html">Chia sẻ lên Facebook</a> <a class="btn s" href="/feed.xml">RSS</a></p>
 <p class="m">Bản dịch tiếng Việt trong trình đọc là bản dịch máy nên có thể còn sai sót. Hãy đối chiếu với Kinh Thánh.</p></div>
-<style>.card{{background:#fffdf7;border:1px solid #e3d3b6;border-radius:12px;padding:6px 16px 10px;margin:14px 0}}.card h2{{font-size:1.15rem;margin:.6em 0 .3em}}</style>
+<style>.card{{background:var(--card,#fffdf7);border:1px solid var(--line,#e3d3b6);border-radius:12px;padding:6px 16px 10px;margin:14px 0}}.card h2{{font-size:1.15rem;margin:.6em 0 .3em}}</style>
 <script>(function(){{var M=["January","February","March","April","May","June","July","August","September","October","November","December"],VM=["tháng 1","tháng 2","tháng 3","tháng 4","tháng 5","tháng 6","tháng 7","tháng 8","tháng 9","tháng 10","tháng 11","tháng 12"];
 var d=new Date(),doy=Math.floor((d-new Date(d.getFullYear(),0,0))/864e5);
 document.getElementById("dt").textContent="Ngày "+d.getDate()+" "+VM[d.getMonth()]+" "+d.getFullYear();

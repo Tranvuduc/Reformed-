@@ -73,7 +73,7 @@ _SG = [
    ("mccheyne-banh-hang-ngay", "Robert Murray M’Cheyne, 1842", "Lịch đọc Kinh Thánh cả năm để đi hết Kinh Thánh.")]),
 ]
 _bg = "".join(f'<h2>{E(g)}</h2>' + "".join(f'<div class="sm"><h3><a href="/reader.html?id=vn/{s}">{E(_VT[s][0])}</a></h3><p class="m"><small>{E(a)} · khoảng {_min(s)} phút đọc</small></p><p>{E(d)}</p></div>' for s, a, d in L if s in _VT) for g, L in _SG)
-_bgp = ('<style>.sm{margin:12px 0;padding:10px 14px;border-left:3px solid #8a3b1f;background:#8881;border-radius:6px}.sm h3{margin:0 0 .2em;font-size:1.05rem}.sm p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}</style>'
+_bgp = ('<style>.sm{margin:12px 0;padding:10px 14px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}.sm h3{margin:0 0 .2em;font-size:1.05rem}.sm p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}</style>'
         '<h1>Tuyển tập bài giảng</h1><p class="dr">Các bài giảng dưới đây thuộc phạm vi công cộng. Bản tiếng Việt do AI hỗ trợ dịch và chưa được mục sư duyệt. Hãy đọc với tinh thần Bê-rê và đối chiếu Kinh Thánh.</p>'
         '<p>Mỗi bài đọc được trong khoảng 10 đến 60 phút. Hãy bắt đầu với bài đầu tiên của nhóm bạn quan tâm.</p>' + _bg
         + '<h2>Nghe thêm bài giảng</h2><p>Thư viện chưa lưu bài giảng của người khác để tôn trọng bản quyền. Các nguồn nghe bài giảng miễn phí được giới thiệu ở trang <a href="/sach-noi.html">Sách nói và bài giảng</a>.</p>')

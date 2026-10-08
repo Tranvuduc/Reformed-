@@ -15,7 +15,7 @@ _Q = [
  ("Tôi không thuộc về chính mình, nhưng cả thân thể lẫn linh hồn, lúc sống cũng như lúc chết, đều thuộc về Cứu Chúa thành tín của tôi là Chúa Jesus Christ.", "That I am not my own, but belong, body and soul, in life and in death, to my faithful Savior Jesus Christ.", "Giáo lý Heidelberg", "Câu hỏi 1"),
 ]
 _data = _j.dumps([{"v": v, "e": e, "a": a, "s": s} for v, e, a, s in _Q], ensure_ascii=False)
-_css = '<style>.qc{margin:18px 0;padding:22px;border:1px solid #8884;border-radius:14px;background:#9a34120a}.qv{font:600 1.35rem/1.5 Georgia,serif;margin:0 0 10px}.qe{opacity:.7;font-style:italic;margin:0 0 10px}.qa{font-weight:700}.qb{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}.qb button{padding:9px 16px;border:1px solid #8886;border-radius:999px;background:none;color:inherit;font:inherit;cursor:pointer}.qb button.p{background:#9a3412;color:#fff;border-color:#9a3412}canvas{display:none}</style>'
+_css = '<style>.qc{margin:18px 0;padding:22px;border:1px solid #8884;border-radius:14px;background:#9a34120a}.qv{font:600 1.35rem/1.5 Georgia,serif;margin:0 0 10px}.qe{opacity:.7;font-style:italic;margin:0 0 10px}.qa{font-weight:700}.qb{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}.qb button{padding:9px 16px;border:1px solid #8886;border-radius:999px;background:none;color:inherit;font:inherit;cursor:pointer}.qb button.p{background:var(--acc);color:#fff;border-color:var(--acc)}canvas{display:none}</style>'
 _body = f'''{_css}<h1>Trích dẫn hôm nay</h1>
 <p>Một câu ngắn từ các tác giả Cải Chánh, kèm ảnh để tải về và chia sẻ trên Facebook, Zalo hay nhóm của bạn.</p>
 <div class="qc"><p class="qv" id="qv"></p><p class="qe" id="qe"></p><p class="qa" id="qa"></p></div>

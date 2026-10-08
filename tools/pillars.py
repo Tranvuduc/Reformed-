@@ -1,5 +1,5 @@
 # Executed from build-pages.py. Pillar pages (Phúc Âm, Ân điển, Xưng công bình). Draft, pending pastor review. Scripture = Vietnamese 1934.
-_PC = '<style>.q{margin:12px 0;padding:10px 16px;border-left:3px solid #8a3b1f;background:#8881;border-radius:6px}.q p{margin:.2em 0}.q small{opacity:.75}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}.rl a{display:block;margin:.3em 0}.bc{font-size:.85rem;opacity:.8}</style>'
+_PC = '<style>.q{margin:12px 0;padding:10px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}.q p{margin:.2em 0}.q small{opacity:.75}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}.rl a{display:block;margin:.3em 0}.bc{font-size:.85rem;opacity:.8}</style>'
 _DR = '<p class="dr">Bản nháp do AI hỗ trợ soạn, chưa được mục sư duyệt giáo lý. Kinh Thánh là thẩm quyền tối hậu. Hãy đối chiếu với Kinh Thánh và hỏi mục sư của bạn.</p>'
 def _v(ref, txt): return f'<blockquote class="q"><p>{E(txt)}</p><p><small>{E(ref)} (Kinh Thánh Tiếng Việt 1934)</small></p></blockquote>'
 def _rel(L): return '<div class="rl">' + "".join(f'<a href="{u}">{E(t)}</a>' for u, t in L) + '</div>'
