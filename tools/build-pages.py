@@ -57,7 +57,7 @@ def page(title, desc_, path, body, ld=None):
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{_og}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN"><meta name="twitter:image" content="{_og}"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"><style>{CSS}</style>{j}</head><body><main>
-<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a></nav>
+<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a> · <a href="/bai-viet/">Bài viết</a></nav>
 {body}
 {_sh}
 <footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a>{SUBL} · Liên hệ: reformedvn@gmail.com</footer></main></body></html>'''
@@ -102,6 +102,42 @@ PLAIN_B = []
 NR = set(books.get('noread', []))
 
 # book pages for described CCEL books
+# One-line significance notes for the most-read Reformed/Puritan authors (SEO + reader orientation)
+_AUTH_SIG = {
+ "john-owen": "Được mệnh danh là 'vị vương tử của các nhà Thanh giáo', John Owen (1616–1683) là nhà thần học Thanh giáo có ảnh hưởng sâu rộng nhất, nổi tiếng với các luận thuyết về tội lỗi, sự nên thánh và Đức Thánh Linh.",
+ "john-calvin": "John Calvin (1509–1564), nhà cải chánh Geneva, là kiến trúc sư của thần học Cải Chánh với bộ 'Thể chế Cơ Đốc giáo' (Institutes) làm nền tảng cho toàn bộ truyền thống Trưởng Lão và Cải Chánh.",
+ "martin-luther": "Martin Luther (1483–1546) là người khơi mào cuộc Cải Chánh với 95 luận đề năm 1517, khôi phục giáo lý xưng công chính bởi đức tin cho Hội Thánh.",
+ "charles-spurgeon": "Charles Spurgeon (1834–1892), 'vị vương tử của các nhà giảng đạo', là nhà giảng thuyết Baptist vĩ đại nhất thế kỷ 19 với hàng ngàn bài giảng đầy ân điển và quyền năng.",
+ "jonathan-edwards": "Jonathan Edwards (1703–1758), nhà thần học vĩ đại nhất của Mỹ, là linh hồn của cuộc Đại Tỉnh Thức với những phân tích sâu sắc về ân điển, ý chí và cảm xúc thuộc linh.",
+ "john-bunyan": "John Bunyan (1628–1688), người thợ thiếc trở thành nhà văn, là tác giả 'Thiên lộ lịch trình' — cuốn sách Cơ Đốc được đọc nhiều thứ hai sau Kinh Thánh.",
+ "j-c-ryle": "J. C. Ryle (1816–1900), giám mục Liverpool, nổi tiếng với lối viết rõ ràng, thực tiễn và đầy lòng yêu mến bầy chiên qua các sách linh tu kinh điển.",
+ "thomas-watson": "Thomas Watson (khoảng 1620–1686) là một trong những nhà Thanh giáo được yêu mến nhất, với lối giảng ấm áp, đầy hình ảnh minh họa và ứng dụng thực tiễn cho đời sống hằng ngày.",
+ "richard-baxter": "Richard Baxter (1615–1691) là mục sư chăn bầy mẫu mực của Kidderminster và tác giả nhiều tác phẩm thực tiễn sâu sắc về đời sống Cơ Đốc.",
+ "john-flavel": "John Flavel (khoảng 1630–1691) là nhà Thanh giáo nổi tiếng với những trang viết đầy cảm xúc về vẻ đẹp và vinh hiển của Đấng Christ.",
+ "richard-sibbes": "Richard Sibbes (1577–1635), 'người nhỏ giọt mật ngọt', là tiếng nói êm dịu nhất của phong trào Thanh giáo, chuyên an ủi những tâm hồn tan vỡ.",
+ "thomas-brooks": "Thomas Brooks (1608–1680) là nhà Thanh giáo thực tiễn, sắc bén trong việc vạch trần mưu chước của Sa-tan và hướng dẫn đời sống thánh khiết.",
+ "jeremiah-burroughs": "Jeremiah Burroughs (1599–1646) để lại kiệt tác về sự thỏa lòng trong Đấng Christ — 'món báu vật hiếm có' cho mọi tín hữu.",
+ "thomas-boston": "Thomas Boston (1676–1732), mục sư Scotland khiêm nhường, được yêu mến qua những suy ngẫm sâu sắc về chủ quyền Chúa và ân điển trong hoạn nạn.",
+ "samuel-rutherford": "Samuel Rutherford (1600–1661), mục sư Scotland bị lưu đày, để lại những lá thư đầy lửa yêu mến Đấng Christ, được xem là kho tàng an ủi của Hội Thánh.",
+ "john-knox": "John Knox (khoảng 1514–1572) là nhà cải chánh Scotland can đảm, người đặt nền móng cho Hội Thánh Trưởng Lão và viết nên lịch sử Cải Chánh Scotland.",
+ "herman-bavinck": "Herman Bavinck (1854–1921) là nhà thần học Cải Chánh Hà Lan vĩ đại, với bộ 'Giáo lý Cải Chánh' (Reformed Dogmatics) được xem là đỉnh cao của thần học hệ thống hiện đại.",
+ "abraham-kuyper": "Abraham Kuyper (1837–1920), vừa là nhà thần học vừa là thủ tướng Hà Lan, là người đặt nền cho thế giới quan Cải Chánh về mọi lãnh vực đời sống.",
+ "charles-hodge": "Charles Hodge (1797–1878), giáo sư Princeton, là người bảo vệ đức tin Cải Chánh trước trào lưu tự do thần học thế kỷ 19.",
+ "loraine-boettner": "Loraine Boettner (1901–1990) nổi tiếng với khả năng trình bày giáo lý tiền định và năm điểm Calvin một cách rõ ràng, có hệ thống cho độc giả hiện đại.",
+ "james-p-boyce": "James P. Boyce (1827–1888), người sáng lập Chủng viện Southern Baptist, để lại bản tóm tắt thần học hệ thống súc tích và trung thành với Kinh Thánh.",
+ "louis-berkhof": "Louis Berkhof (1873–1957) là tác giả các giáo trình thần học hệ thống được dùng rộng rãi nhất trong các chủng viện Cải Chánh thế kỷ 20.",
+ "horatius-bonar": "Horatius Bonar (1808–1889), mục sư Scotland, nổi tiếng với những trang viết đơn sơ mà sâu sắc về Phúc Âm cho người mới tin.",
+ "stephen-charnock": "Stephen Charnock (1628–1680) là nhà Thanh giáo uyên bác, với các luận thuyết kinh điển về thuộc tính Đức Chúa Trời và sự tái sinh.",
+ "archibald-alexander": "Archibald Alexander (1772–1851), giáo sư đầu tiên của Chủng viện Princeton, là người đặt nền cho thần học Princeton với các tác phẩm biện giáo và chính điển học.",
+ "lewis-bayly": "Lewis Bayly (khoảng 1565–1631), giám mục Bangor, là tác giả 'Thực hành lòng tin kính' — cuốn sách linh tu được yêu mến suốt nhiều thế kỷ.",
+ "joseph-alleine": "Joseph Alleine (1634–1668) là nhà truyền giảng Thanh giáo đầy lửa, với 'Tiếng chuông báo động' kêu gọi tội nhân ăn năn.",
+ "philip-doddridge": "Philip Doddridge (1702–1751) là mục sư và nhà giáo dục với những tác phẩm hướng dẫn đời sống Cơ Đốc từng bước rõ ràng, dễ hiểu.",
+}
+def _auth_sig(k):
+    for frag, note in _AUTH_SIG.items():
+        if frag in k: return note
+    return ""
+
 for k, a in authors.items():
     for bid, title, yr in a["ccel"]:
         if bid in NR: continue
@@ -134,7 +170,8 @@ for k, a in authors.items():
     n = len(items)
     if n < 2: continue
     path = f"a/{k}.html"
-    intro = f"{n} tác phẩm của {a['name']} có thể đọc hoặc tải miễn phí: sách thần học, bài giảng và tài liệu Cải Chánh thuộc phạm vi công cộng."
+    _sig = _auth_sig(k)
+    intro = ((_sig + " ") if _sig else "") + f"Trang này tập hợp {n} tác phẩm của {a['name']} thuộc phạm vi công cộng: sách thần học, bài giảng, luận thuyết và tài liệu linh tu của truyền thống Cải Chánh và Thanh giáo. Tất cả đều có thể đọc trực tuyến, nghe đọc thành tiếng hoặc tải EPUB/PDF miễn phí trong thư viện Reformed Vietnam."
     body = f'<h1>{E(a["name"])} – sách miễn phí</h1><p>{E(intro)}</p><p><a class="btn" href="/?q={E(a["name"].split()[-1])}">Mở trong thư viện</a></p><ul>{"".join(items)}</ul>'
     ld = {"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{a['name']} – sách miễn phí", "inLanguage": "vi", "url": f"{SITE}/{path}"}
     open(path, "w", encoding="utf-8").write(page(f"{a['name']} – sách miễn phí, đọc và tải | Reformed Vietnam", intro, path, body, ld)); urls.append(path); a["path"] = path
@@ -195,6 +232,7 @@ exec(open('tools/glossary.py', encoding='utf-8').read())
 exec(open('tools/vn_context.py', encoding='utf-8').read())
 exec(open('tools/subscribe_page.py', encoding='utf-8').read())
 exec(open('tools/vi_books.py', encoding='utf-8').read())
+exec(open('tools/articles.py', encoding='utf-8').read())
 
 # shared home image; author pages without a bio share it instead of getting their own file
 _h = og_image("", "Thư Viện Cơ Đốc & Thần Học Cải Chánh Tiếng Việt", "Sách Cải Chánh miễn phí: đọc, nghe, tải. Từng bước nhỏ, từ Phúc Âm đến một đời sống theo Chúa.")

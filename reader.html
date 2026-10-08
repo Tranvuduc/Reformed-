@@ -8,6 +8,7 @@
 body{margin:0;background:var(--bg);color:var(--fg);font-family:"Noto Serif","Source Serif 4",Georgia,"Times New Roman",serif}
 [data-ff=sans] #txt{font-family:"Noto Sans","Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 button,select,input{font:inherit;color:inherit}
+.rdskel{padding:24px 4px;display:grid;gap:12px;max-width:var(--w);margin:0 auto}.rdskel i{display:block;height:14px;border-radius:7px;background:linear-gradient(90deg,var(--sf) 25%,var(--ln) 50%,var(--sf) 75%);background-size:200% 100%;animation:sk 1.2s infinite}@keyframes sk{to{background-position:-200% 0}}
 .ui{font:14px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 #top{position:fixed;top:0;left:0;right:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--ln);display:flex;align-items:center;gap:4px;padding:6px 10px;padding-top:calc(6px + env(safe-area-inset-top));transition:transform .25s}
 #top.h{transform:translateY(-100%)}
@@ -62,7 +63,7 @@ main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
   <button class="ib" id="bA" aria-label="Appearance">Aa</button>
   <button class="ib" id="bM" aria-label="More">⋯</button>
 </div>
-<main><div id="trs" hidden></div><div id="msg">…</div><article id="txt"></article><div id="all"></div></main>
+<main><div id="trs" hidden></div><div id="msg"><div class="rdskel"><i style="width:60%"></i><i></i><i></i><i style="width:85%"></i><i></i><i style="width:70%"></i></div></div><article id="txt"></article><div id="all"></div></main>
 <div id="pl"><div class="row">
   <button class="ib" id="pp" aria-label="Previous">⏮</button><button class="ib play" id="pt" aria-label="Play/Pause">▶</button><button class="ib" id="pn2" aria-label="Next">⏭</button>
   <select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="1.75">1.75×</option><option value="2">2×</option></select>

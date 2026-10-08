@@ -203,3 +203,28 @@ body:not(.home) #bw{display:none}
 .dly{display:flex;flex-wrap:wrap;gap:8px 18px;margin:14px 2px 6px;font-size:.92rem}.dly a{color:var(--accent)}
 .tiles{display:block!important}.tiles .gh{margin:0 0 10px}
 @media(min-width:760px){.jr{grid-template-columns:repeat(2,minmax(0,1fr))}.jr li:first-child{grid-column:1/-1}}
+
+/* update banner + welcome */
+.updbanner{position:fixed;left:50%;transform:translateX(-50%);bottom:18px;z-index:99;background:var(--accent,#b3541e);color:#fff;border:0;border-radius:999px;padding:12px 22px;font-size:.95rem;font-weight:600;box-shadow:0 6px 24px rgba(0,0,0,.25);cursor:pointer}
+.welc{position:fixed;left:12px;right:12px;bottom:12px;z-index:98;background:var(--card,#fff);border:1px solid var(--line,#ddd);border-radius:14px;padding:14px 16px;display:grid;gap:6px;box-shadow:0 8px 30px rgba(0,0,0,.18)}
+.welc b{font-size:1rem}.welc span{font-size:.88rem;opacity:.85}.welc a{color:var(--accent);font-weight:600}.welc button{position:absolute;top:6px;right:10px;border:0;background:none;font-size:1rem;cursor:pointer;opacity:.6}
+/* rendering perf: skip offscreen cards */
+.grid .book{content-visibility:auto;contain-intrinsic-size:120px}
+/* reader loading skeleton */
+.rdskel{padding:24px;display:grid;gap:12px}.rdskel i{display:block;height:14px;border-radius:7px;background:linear-gradient(90deg,#eee 25%,#e0e0e0 50%,#eee 75%);background-size:200% 100%;animation:sk 1.2s infinite}
+@keyframes sk{to{background-position:-200% 0}}
+
+/* ===== Visual upgrade 2026-10-08: hero images + book covers (appended only) ===== */
+.hero-img{width:100%;aspect-ratio:16/7;object-fit:cover;border-radius:14px;display:block;box-shadow:0 14px 34px rgba(60,40,20,.22)}
+.hero:has(.hero-img)::after{display:none}
+@media(max-width:600px){.hero-img{aspect-ratio:16/10;border-radius:10px}}
+
+/* Book covers: layered sheen + paper texture + shade over the inline
+   background color, double-rule frame, spine strip, faint cross watermark */
+.spine{overflow:hidden;background-image:linear-gradient(165deg,rgba(255,255,255,.20),rgba(255,255,255,0) 42%),repeating-linear-gradient(45deg,rgba(255,255,255,.028) 0 2px,rgba(0,0,0,.028) 2px 4px),linear-gradient(200deg,rgba(0,0,0,.45),rgba(0,0,0,.10) 60%,rgba(255,255,255,.06));box-shadow:inset 0 0 0 1px rgba(255,255,255,.30),inset 0 0 0 4px rgba(0,0,0,.10),inset 0 0 0 5px rgba(255,255,255,.13),inset 12px 0 20px -10px rgba(0,0,0,.6)}
+.spine::before{content:"\271D";position:absolute;right:8px;top:-8px;font-family:Georgia,'Times New Roman',serif;font-size:76px;line-height:1;color:rgba(255,255,255,.10);pointer-events:none}
+.spine::after{background:linear-gradient(90deg,rgba(0,0,0,.38),rgba(255,255,255,.14) 55%,rgba(0,0,0,.30));width:10px}
+.spine b{opacity:.92;text-shadow:0 1px 2px rgba(0,0,0,.45)}
+.spine i{text-shadow:0 1px 3px rgba(0,0,0,.5),0 0 24px rgba(0,0,0,.28)}
+.grid.list .spine::before{display:none}
+@media(max-width:600px){.spine::before{font-size:54px;right:4px}}

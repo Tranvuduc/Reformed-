@@ -196,7 +196,7 @@ function sheetActs(b){
     var ks=b.q||b.en.t;
     x+='<a class="p" href="'+G(ks)+'"'+ext+'>'+tx("read")+' ↗</a><a class="s2" href="'+L(b.en.t)+'"'+ext+'>🎧 '+tx("listen")+'</a><a class="s2" href="'+A(ks)+'"'+ext+'>'+tx("archive")+'</a>';
   }
-  x+='<button class="s2" type="button" data-share="'+esc(b.id)+'">↗ '+(vi?"Chia sẻ":"Share")+'</button><button class="s2" type="button" data-fb="'+esc(b.id)+'">f Facebook</button><a class="s2" href="mailto:reformedvn@gmail.com?subject='+encodeURIComponent((vi?"Báo lỗi / góp ý: ":"Feedback: ")+b.en.t)+'">✉ '+(vi?"Báo lỗi / góp ý":"Report / feedback")+'</a>';
+  x+='<button class="s2" type="button" data-share="'+esc(b.id)+'">↗ '+(vi?"Chia sẻ":"Share")+'</button><button class="s2" type="button" data-zalo="'+esc(b.id)+'">💬 Zalo</button><button class="s2" type="button" data-fb="'+esc(b.id)+'">f Facebook</button><a class="s2" href="mailto:reformedvn@gmail.com?subject='+encodeURIComponent((vi?"Báo lỗi / góp ý: ":"Feedback: ")+b.en.t)+'">✉ '+(vi?"Báo lỗi / góp ý":"Report / feedback")+'</a>';
   return x;
 }
 var curBk=null,deepDone=false;
@@ -330,10 +330,11 @@ function labels(){
   buildAuthors();
 }
 try{var _q=new URLSearchParams(location.search).get("q");if(_q){st.q=_q;$("q").value=_q}}catch(e){}
-$("q").addEventListener("input",function(e){st.q=e.target.value;st.limit=PAGE;render()});
+function debounce(fn,ms){var t;return function(){var a=arguments,c=this;clearTimeout(t);t=setTimeout(function(){fn.apply(c,a)},ms)}}
+$("q").addEventListener("input",debounce(function(e){st.q=e.target.value;st.limit=PAGE;render()},180));
 $("src").addEventListener("change",function(e){st.sr=e.target.value;st.limit=PAGE;render()});
 $("media").addEventListener("change",function(e){st.md=e.target.value;st.limit=PAGE;render()});
-$("author").addEventListener("input",function(e){st.an=e.target.value.trim().toLowerCase();st.limit=PAGE;render()});
+$("author").addEventListener("input",debounce(function(e){st.an=e.target.value.trim().toLowerCase();st.limit=PAGE;render()},180));
 $("type").addEventListener("change",function(e){st.ty=e.target.value;st.limit=PAGE;render()});
 $("era").addEventListener("change",function(e){st.er=e.target.value;st.limit=PAGE;render()});
 $("sort").addEventListener("change",function(e){st.so=e.target.value;st.limit=PAGE;render()});
@@ -345,6 +346,24 @@ $("clear").addEventListener("click",function(){
   buildAuthors();render();
 });
 $("more").addEventListener("click",function(){st.limit+=PAGE;render()});
+/* Infinite scroll: auto-load more as the user nears the bottom. */
+if("IntersectionObserver" in window){var _io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){var m=$("more");if(m&&!m.hidden)m.click()}})},{rootMargin:"800px"});_io.observe($("more"));}
+/* New app version ready: one-tap reload instead of the old reload-twice dance. */
+if("serviceWorker" in navigator){navigator.serviceWorker.getRegistration().then(function(reg){
+if(!reg)return;
+reg.addEventListener("updatefound",function(){
+var w=reg.installing;if(!w)return;
+w.addEventListener("statechange",function(){
+if(w.state!=="installed"||!navigator.serviceWorker.controller)return;
+var b=document.createElement("button");b.className="updbanner";
+b.textContent=st.lang==="vi"?"✨ Đã có bản mới — chạm để tải lại":"✨ New version available — tap to reload";
+b.onclick=function(){try{reg.waiting.postMessage("skipWaiting")}catch(e){}setTimeout(function(){location.reload()},400)};
+document.body.appendChild(b);
+});
+});
+}).catch(function(){})}
+/* First-visit welcome: 3 steps + pointer to the 30-day path. */
+(function(){var seen="";try{seen=localStorage.getItem("rv.welc")||""}catch(e){}if(seen)return;var vi=st.lang==="vi",d=document.createElement("div");d.className="welc";d.innerHTML="<b>"+(vi?"Chào bạn! Thư viện sách Cải Chánh miễn phí.":"Welcome! Free Reformed library.")+"</b><span>"+(vi?"① Tìm sách ② Lọc “Tiếng Việt” ③ Lưu & theo dõi tiến độ. Người mới?":"① Search ② Filter Vietnamese ③ Save & track. New?")+'</span><a href="moi-tin-chua.html">'+(vi?"Bắt đầu lộ trình 30 ngày →":"Start the 30-day path →")+'</a><button aria-label="close">✕</button>';d.querySelector("button").onclick=function(){d.remove();try{localStorage.setItem("rv.welc","1")}catch(e){}};document.body.appendChild(d)})();
 $("fmt").addEventListener("click",function(e){var b=e.target.closest(".chip");if(!b)return;st.f=b.dataset.f;st.limit=PAGE;[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c===b)});render()});
 $("grid").addEventListener("click",function(e){
   var f=e.target.closest(".fav");if(!f)return;
@@ -438,7 +457,7 @@ function renderTiles(){var i=st.lang==="vi"?0:1;
    +'<div class="dly">'+[["hom-nay.html","Bài đọc hôm nay","Today\u2019s reading"],["sach-noi.html","Nghe sách nói","Listen"]].map(function(t){return'<a href="'+t[0]+'">'+t[1+i]+'</a>'}).join("")+'</div>';
   var P=[["moi-tin-chua.html","Mới tin Chúa","New believer"],["lo-trinh.html","Lộ trình đọc","Reading path"],["tieng-viet.html","Sách tiếng Việt","Vietnamese"]];
   $("nl").innerHTML=P.map(function(m){return'<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");
-  var M=[["hom-nay.html","Hôm nay","Today"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"],["khoa-hoc.html","Học trực tuyến","Online study"],["bai-giang.html","Bài giảng","Sermons"],["video.html","Video","Videos"],["trich-dan.html","Trích dẫn","Quotes"],["thuat-ngu.html","Thuật ngữ","Glossary"],["cai-chanh-la-gi.html","Cải Chánh là gì?","What is Reformed?"],["doi-song-viet-nam.html","Đời sống Việt Nam","Vietnamese life"],["cho-muc-su.html","Cho mục sư &amp; nhóm nhỏ","For pastors & groups"],["nhan-bai.html","Nhận bài qua email","Email updates"],["mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch","Góp ý","Feedback"],["feed.xml","RSS","RSS"]];
+  var M=[["hom-nay.html","Hôm nay","Today"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"],["khoa-hoc.html","Học trực tuyến","Online study"],["bai-giang.html","Bài giảng","Sermons"],["video.html","Video","Videos"],["trich-dan.html","Trích dẫn","Quotes"],["bai-viet/","Bài viết","Articles"],["thuat-ngu.html","Thuật ngữ","Glossary"],["cai-chanh-la-gi.html","Cải Chánh là gì?","What is Reformed?"],["doi-song-viet-nam.html","Đời sống Việt Nam","Vietnamese life"],["cho-muc-su.html","Cho mục sư &amp; nhóm nhỏ","For pastors & groups"],["nhan-bai.html","Nhận bài qua email","Email updates"],["mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch","Góp ý","Feedback"],["feed.xml","RSS","RSS"]];
   $("mx").innerHTML=M.map(function(m){return'<a class="btn" href="'+m[0]+'">'+m[1+i]+'</a>'}).join("")}
 $("browse").addEventListener("click",function(){st.br=1;st.limit=PAGE;render();window.scrollTo(0,0)});
 $("grid").addEventListener("click",function(e){if(e.target.closest(".fav"))return;var oc=e.target.closest("[data-open]");if(oc)openBook(oc.dataset.open)});
@@ -446,6 +465,7 @@ document.addEventListener("keydown",function(e){if((e.key==="Enter"||e.key===" "
 $("bk").addEventListener("click",function(e){
   var fbb=e.target.closest("[data-fb]");if(fbb){var fid=fbb.dataset.fb,fw=window.open("","_blank"),fu=location.origin+"/?b="+encodeURIComponent(fid),fgo=function(u){var x="https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(u);if(fw)fw.location.href=x;else location.href=x};fetch("bp.json").then(function(r){return r.json()}).then(function(L){var c=fid.replace(/\//g,"-"),k=[c,c.replace(/^vn-/,"")],o=["b/","ban-dich/"];for(var i=0;i<o.length;i++)for(var j=0;j<k.length;j++)if(L.indexOf(o[i]+k[j]+".html")>-1){fu=location.origin+"/"+o[i]+k[j]+".html";return}}).catch(function(){}).then(function(){fgo(fu)});return}
   var sb=e.target.closest("[data-share]");if(sb){var sbk=BOOKS.filter(function(z){return z.id===sb.dataset.share})[0],su=location.origin+"/?b="+encodeURIComponent(sb.dataset.share),stt=sbk?(sbk[st.lang]||sbk.en).t:"";if(navigator.share)navigator.share({title:stt,url:su}).catch(function(){});else if(navigator.clipboard){navigator.clipboard.writeText(su);sb.textContent="✓ "+(st.lang==="vi"?"Đã sao chép liên kết":"Link copied")}return}
+  var zl=e.target.closest("[data-zalo]");if(zl){var zbk=BOOKS.filter(function(z){return z.id===zl.dataset.zalo})[0],zu=location.origin+"/?b="+encodeURIComponent(zl.dataset.zalo),zt=zbk?(zbk[st.lang]||zbk.en).t:"",zmsg=(st.lang==="vi"?"Mình đang đọc cuốn này trên Thư viện Cải Chánh, hay lắm — bạn đọc thử nhé: ":"I'm reading this on the Reformed Vietnam library — take a look: ")+zu;if(navigator.share){navigator.share({title:zt,text:zmsg,url:zu}).catch(function(){})}else if(navigator.clipboard){navigator.clipboard.writeText(zmsg);zl.textContent="✓ "+(st.lang==="vi"?"Đã sao chép — mở Zalo để gửi":"Copied — open Zalo to send")}return}
   if(e.target===$("bk")||e.target.closest(".bk-x")){$("bk").close();return}
   var f=e.target.closest(".fav");
   if(f){var k=st.saved.indexOf(f.dataset.id);if(k<0)st.saved.push(f.dataset.id);else st.saved.splice(k,1);saveLS("rv.saved",st.saved);openBook(curBk);render()}
