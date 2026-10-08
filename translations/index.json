@@ -1204,5 +1204,131 @@
   "author": "Alexander, James Waddell (1804–1859)",
   "by": "Gemini",
   "reviewed": false
+ },
+ {
+  "id": "flavel/life",
+  "file": "flavel-life.txt",
+  "title": "Tiểu Sử Mục Sư John Flavel",
+  "orig": "Life of the late Rev. Mr. John Flavel",
+  "author": "Flavel, John (1627-1691) <b>(6 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "pink/godhood",
+  "file": "pink-godhood.txt",
+  "title": "Thần Tính Của Đức Chúa Trời",
+  "orig": "Godhood of God",
+  "author": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "clarkson/owenfuneral",
+  "file": "clarkson-owenfuneral.txt",
+  "title": "Bài Giảng Tang Lễ Cho Tiến Sĩ John Owen",
+  "orig": "Funeral Sermon on Dr John Owen",
+  "author": "Clarkson, David (1622-1682)",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "bunyan/miscellaneous",
+  "file": "bunyan-miscellaneous.txt",
+  "title": "Những Bài Viết Ngắn Của Bunyan",
+  "orig": "Miscellaneous Pieces",
+  "author": "Bunyan, John (1628-1688)",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "pink/tithing",
+  "file": "pink-tithing.txt",
+  "title": "DÂNG MỘT PHẦN MƯỜI",
+  "orig": "Tithing",
+  "author": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "owen/grotius",
+  "file": "owen-grotius.txt",
+  "title": "Bài Đánh Giá Các Chú Thích Của Hugo Grotius",
+  "orig": "Review of the Annotations of Hugo Grotius",
+  "author": "Owen, John (1616-1683) <b>(32 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "whyte/behmen",
+  "file": "whyte-behmen.txt",
+  "title": "Jacob Behmen — Một Lời Ngợi Ca",
+  "orig": "Jacob Behmen, An Appreciation",
+  "author": "Whyte, Alexander (1836-1921)",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "pink/law",
+  "file": "pink-law.txt",
+  "title": "Luật Pháp và Thánh Đồ",
+  "orig": "Law and the Saint",
+  "author": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "pink/inspiration",
+  "file": "pink-inspiration.txt",
+  "title": "Sự Cảm Thúc Thiêng Liêng của Kinh Thánh",
+  "orig": "Divine Inspiration of the Bible",
+  "author": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "spurgeon/comment",
+  "file": "spurgeon-comment.txt",
+  "title": "Chú Giải và Các Sách Chú Giải",
+  "orig": "Commenting and Commentaries",
+  "author": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "whyte/teresa",
+  "file": "whyte-teresa.txt",
+  "title": "Thánh Tê-rê-sa: Lời Ngợi Ca",
+  "orig": "Santa Teresa, An Appreciation",
+  "author": "Whyte, Alexander (1836-1921)",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "pink/comfort",
+  "file": "pink-comfort.txt",
+  "title": "Sự An Ủi Cho Cơ Đốc Nhân",
+  "orig": "Comfort for Christians",
+  "author": "Pink, Arthur Walkington (1886-1952) <b>(10 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "knox/blast",
+  "file": "knox-blast.txt",
+  "title": "HỒI KÈN ĐẦU TIÊN CHỐNG LẠI CHẾ ĐỘ PHỤ NỮ",
+  "orig": "First Blast of the Trumpet Against the Monstrous Regiment of Women.",
+  "author": "Knox, John (c. 1505-1572)",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "flavel/lovely",
+  "file": "flavel-lovely.txt",
+  "title": "CHÚA GIÊ-XU CHRIST — ĐẤNG ĐÁNG MẾN TRỌN VẸN",
+  "orig": "Christ Altogether Lovely",
+  "author": "Flavel, John (1627-1691) <b>(6 classics)</b>",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
