@@ -60,7 +60,7 @@ open("vi-books.json", "w", encoding="utf-8").write(_j.dumps(VIBOOKS, ensure_asci
 
 _li = lambda x: f'<li><a href="{x[3]}"><b>{E(x[0])}</b></a> · {E(x[1])}' + (f' · <i>{E(x[2])}</i>' if x[2] else '') + (' · <small>đã duyệt</small>' if x[4] else ' · <small>AI, chưa duyệt</small>') + '</li>'
 _tr = "".join(_li(x) for x in _hub if not x[5]); _nw = "".join(_li(x) for x in _hub if x[5])
-_hb = ('<img class="hero-img" src="/img/hero-bandich.jpg" alt="Bàn viết cổ với bản thảo, bút lông ngỗng và ánh nến ấm áp" loading="lazy">'
+_hb = ('<img class="hero-img" src="/img/hero-bandich-800.jpg" srcset="/img/hero-bandich-800.jpg 800w, /img/hero-bandich.jpg 1600w" sizes="(max-width: 760px) 100vw, 1100px" width="1600" height="900" alt="Bàn viết cổ với bản thảo, bút lông ngỗng và ánh nến ấm áp" loading="lazy">'
        '<h1>Bản dịch và sách mới</h1><p class="dr" style="padding:.6em .9em;border-radius:8px;background:#d9a41e22">Các sách dưới đây do AI hỗ trợ dịch hoặc soạn và <b>chưa được mục sư duyệt giáo lý</b>. Hãy đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>'
        + (f'<h2>Bản dịch tiếng Việt</h2><ul>{_tr}</ul>' if _tr else '') + (f'<h2>Sách mới (tác giả David)</h2><ul>{_nw}</ul>' if _nw else '') + '<p><a class="btn" href="/">Về thư viện</a></p>')
 if _hub:
