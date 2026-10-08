@@ -165,7 +165,7 @@ function infoBox(b){
   R.push([vi?"Bản quyền":"Copyright",pd?(vi?"🟢 Phạm vi công cộng":"🟢 Public domain"):(vi?"🟡 Thuộc tác giả hoặc nhà xuất bản":"🟡 Author or publisher")]);
   return'<dl class="inf">'+R.map(function(r){return'<dt>'+r[0]+'</dt><dd>'+esc(r[1])+'</dd>'}).join("")+'</dl>'}
 function lic(b){
-  var vi=st.lang==="vi",pd=b.read||b.au==="ia"||b.au==="pg"||b.au==="lv"||/ccel\.org/.test(b.url||"");
+  var vi=st.lang==="vi",pd=b.read||b.vnb||b.au==="ia"||b.au==="pg"||b.au==="lv"||/ccel\.org/.test(b.url||"");
   return pd?'<p class="lic pd">🟢 '+(vi?"Phạm vi công cộng. Bạn được đọc, tải và chia sẻ tự do.":"Public domain. Free to read, download and share.")+'</p>'
    :'<p class="lic ex">🟡 '+(vi?"Liên kết ra trang gốc. Bản quyền thuộc tác giả hoặc nhà xuất bản, chúng tôi không lưu bản sao.":"Link to the original site. Copyright stays with the author or publisher; we host no copy.")+'</p>';
 }
@@ -173,7 +173,7 @@ function card(b){
   var lg=st.lang,d=b[lg]||b.en,y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
   return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine" style="background-color:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div></div></article>';
 }
-function rdr(b){var m=/^\/doc\/([a-z0-9_-]+)\.html$/i.exec(b.url||"");return m?"reader.html?id=vn/"+m[1]+"&pid="+encodeURIComponent(b.id):""}
+function rdr(b){var m=/^\/(?:doc|ban-dich)\/([a-z0-9_-]+)\.html$/i.exec(b.url||"");return m?"reader.html?id=vn/"+m[1]+"&pid="+encodeURIComponent(b.id):""}
 function sheetActs(b){
   var lg=st.lang,vi=lg==="vi",x="",id=encodeURIComponent(b.id),ext=' target="_blank" rel="noopener"';
   if(window.VIB&&VIB[b.id])x+='<a class="p" href="'+(VIB[b.id].rd||VIB[b.id].u)+'">📖 '+(vi?"Đọc bản dịch tiếng Việt":"Read Vietnamese translation")+' <small>('+(VIB[b.id].r?(vi?"đã duyệt":"reviewed"):(vi?"AI, chưa duyệt":"AI, not yet reviewed"))+')</small></a>';

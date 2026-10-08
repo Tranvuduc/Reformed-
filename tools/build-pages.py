@@ -160,13 +160,16 @@ open("tac-gia.html", "w", encoding="utf-8").write(page("Tác giả Cải Chánh 
 
 # Vietnamese hub: our own translations first, then partner sources
 rv = [r for r in mg["vn"] if r["id"].startswith("rv-")]
-oth = [r for r in mg["vn"] if not r.get("au") and not r["id"].startswith("rv-")]
+vnb = [r for r in mg["vn"] if r.get("vnb")]
+oth = [r for r in mg["vn"] if not r.get("au") and not r["id"].startswith("rv-") and not r.get("vnb")]
 rvl = "".join(f'<li><a href="{E(r["url"])}">{E(r["vi"]["t"])}</a> <small>· {E(r["a"])} · AI, chưa duyệt · <a href="{E(r["epub"])}" download>EPUB</a></small></li>' for r in rv)
+vnbl = "".join(f'<li><a href="{E(r["url"])}">{E(r["vi"]["t"])}</a> <small>· {E(r["a"])} · AI, chưa duyệt</small></li>' for r in vnb)
 vn = "".join(f'<li><a href="{E(r["url"])}" rel="noopener">{E(r["vi"]["t"])}</a> <small>· {E(r["a"])}</small></li>' for r in oth)
-rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{len(rv)} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc tải EPUB. Bản dịch sơ thảo, chưa hiệu đính.</p><ul>{rvl}</ul><h2>Từ các nguồn khác</h2>") if rv else ""
+rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{len(rv)} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc tải EPUB. Bản dịch sơ thảo, chưa hiệu đính.</p><ul>{rvl}</ul>") if rv else ""
+vnb_sec = (f"<h2>Bản dịch sách tiếng Việt</h2><p>{len(vnb)} cuốn sách cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc trong trình đọc của thư viện. Bản dịch do AI hỗ trợ, chưa được mục sư duyệt giáo lý.</p><ul>{vnbl}</ul>") if vnb else ""
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
     "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí: bản dịch của Reformed Vietnam, Mục vụ Tiên Phong, 9Marks và các nguồn khác.", "tieng-viet.html",
-    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}<p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p><ul>{vn}</ul>"))
+    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}{vnb_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p><ul>{vn}</ul>"))
 urls += [r["url"].lstrip("/") for r in rv]
 
 # Audio hub
