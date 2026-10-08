@@ -55,7 +55,7 @@ const slugOf = (e) => `${e.id.split('/')[0]}-${e.id.split('/')[1]}`.toLowerCase(
 const doneFile = (e) => `translations/${slugOf(e)}.txt`;
 
 function nextBatch() {
-  for (let b = 1; b <= 20; b++) {
+  for (let b = 1; b <= 200; b++) {
     const items = LIST.filter((e) => e.batch === b);
     if (items.length && items.some((e) => !fs.existsSync(doneFile(e)))) return b;
   }
