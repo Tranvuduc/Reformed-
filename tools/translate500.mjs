@@ -19,13 +19,26 @@ const AMODEL = process.env.MODEL || 'claude-sonnet-5-5';
 let GMODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const SOURCE_BASE = (process.env.SOURCE_BASE || 'https://ccel.org').replace(/\/$/, '');
 const MOCK = process.env.MOCK_TRANSLATE === '1'; // test hook: no API calls
+// Candidate gemini models, best-known first. The repo's other workflows
+// standardize on gemini-2.5-flash; exotic/preview models often have no free quota.
+let GCANDS = [];
+let gIdx = 0;
+async function probeModel(m) {
+  try {
+    const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${m}:generateContent`,
+      { method: 'POST', headers: { 'x-goog-api-key': GKEY, 'content-type': 'application/json' },
+        body: JSON.stringify({ contents: [{ parts: [{ text: 'ping' }] }], generationConfig: { maxOutputTokens: 1 } }) });
+    if (r.ok) return true;
+    console.error(`model ${m} probe: HTTP ${r.status}`);
+  } catch (e) { console.error(`model ${m} probe error:`, e.message); }
+  return false;
+}
 // Pick a working gemini model: probe candidates with a real tiny generateContent
-// call and use the first that answers. Priority: GEMINI_MODEL env, models-list
-// API (newest stable flash), hardcoded fallbacks. Never trust a name blindly.
+// call and use the first that answers. Never trust a name blindly.
 async function pickGeminiModel() {
   if (MOCK) return;
-  const cands = [];
-  if (process.env.GEMINI_MODEL) cands.push(process.env.GEMINI_MODEL);
+  const cands = ['gemini-2.5-flash', 'gemini-2.0-flash'];
+  if (process.env.GEMINI_MODEL && !cands.includes(process.env.GEMINI_MODEL)) cands.push(process.env.GEMINI_MODEL);
   try {
     const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=100',
       { headers: { 'x-goog-api-key': GKEY } });
@@ -35,16 +48,10 @@ async function pickGeminiModel() {
     for (const m of ids.filter((x) => ver(x) > 0).sort((a, b) => ver(b) - ver(a)))
       if (!cands.includes(m)) cands.push(m);
   } catch (e) { console.error('model list failed:', e.message); }
-  for (const m of ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite'])
+  for (const m of ['gemini-2.5-flash-lite', 'gemini-2.0-flash-lite'])
     if (!cands.includes(m)) cands.push(m);
   for (const m of cands) {
-    try {
-      const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${m}:generateContent`,
-        { method: 'POST', headers: { 'x-goog-api-key': GKEY, 'content-type': 'application/json' },
-          body: JSON.stringify({ contents: [{ parts: [{ text: 'ping' }] }], generationConfig: { maxOutputTokens: 1 } }) });
-      if (r.ok) { GMODEL = m; console.log('gemini model:', m); return; }
-      console.error(`model ${m} probe: HTTP ${r.status}`);
-    } catch (e) { console.error(`model ${m} probe error:`, e.message); }
+    if (await probeModel(m)) { GCANDS = [m, ...cands.filter((x) => x !== m)]; gIdx = 0; GMODEL = m; console.log('gemini model:', m); return; }
   }
   throw new Error('no working gemini model found');
 }
@@ -86,9 +93,9 @@ async function museCall(text) {
   throw new Error('muse call failed');
 }
 async function geminiCall(text) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GMODEL}:generateContent`;
   let lastErr = 'unknown';
-  for (let t = 0; t < 4; t++) {
+  for (let t = 0; t < 6; t++) {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${GMODEL}:generateContent`;
     try {
       const r = await fetch(url, {
         method: 'POST',
@@ -102,9 +109,14 @@ async function geminiCall(text) {
         lastErr = 'empty response';
       } else {
         lastErr = `HTTP ${r.status} ${(await r.text().catch(() => '')).slice(0, 160)}`;
+        // rotate to next candidate model on quota/overload/not-found
+        if ([429, 503, 404].includes(r.status) && GCANDS.length > 1) {
+          gIdx = (gIdx + 1) % GCANDS.length;
+          if (GCANDS[gIdx] !== GMODEL) { GMODEL = GCANDS[gIdx]; console.log('switching gemini model:', GMODEL); }
+        }
       }
     } catch (e) { lastErr = e.message; }
-    await new Promise((s) => setTimeout(s, 8000 * (t + 1)));
+    await new Promise((s) => setTimeout(s, 10000 * (t + 1)));
   }
   throw new Error('gemini call failed: ' + lastErr);
 }
@@ -137,7 +149,7 @@ function splitLong(paras, maxLen = 2800) {
   }
   return out.filter((s) => s.length > 0);
 }
-const pace = MOCK ? 0 : engineArg === 'gemini' ? 4000 : 1200; // stay under free-tier RPM
+const pace = MOCK ? 0 : engineArg === 'gemini' ? 5000 : 1200; // stay under free-tier RPM
 let lastCall = 0;
 async function paced(text) {
   const wait = Math.max(0, lastCall + pace - Date.now());
