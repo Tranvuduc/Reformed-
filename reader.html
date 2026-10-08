@@ -358,7 +358,7 @@ function pLoad(){return pmod||(pmod=import("https://cdn.jsdelivr.net/npm/@mintpl
 function pSynth(t){var lg=lgOf(t),k=lg+t;if(!pc[k]){var ks=Object.keys(pc);if(ks.length>6)delete pc[ks[0]];pc[k]=pLoad().then(function(m){return m.predict({text:t,voiceId:PV[lg]},function(p){if(p&&p.total&&!pready)pprog=Math.round(p.loaded/p.total*100);if(p&&p.total&&p.loaded>=p.total)pready=1})})}return pc[k]}
 function mark(k){[].forEach.call($("txt").querySelectorAll(".rd"),function(e){e.classList.remove("rd")});var el=$("txt").querySelector('[data-k="'+k+'"]');if(el){el.classList.add("rd");var r=el.getBoundingClientRect();if(r.top<80||r.bottom>innerHeight-160)el.scrollIntoView({block:"center",behavior:"smooth"})}}
 /* giọng tự nhiên tạo sẵn (tts/index.json) */
-var PRE=null,PREBAD=0;if(SV)fetch("tts/index.json").then(function(r){return r.ok?r.json():null}).then(function(j){if(j&&j.books&&j.books[name]){PRE={b:j.base+name+"/",n:j.books[name]};loadVoices()}}).catch(function(){});
+var PRE=null,PREBAD=0;if(SV)fetch("tts/index.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null}).then(function(j){if(j&&j.books&&j.books[name]){PRE={b:j.base+name+"/",n:j.books[name]};loadVoices()}}).catch(function(){});
 function it0(){return PRE&&!PREBAD&&queue[Math.max(0,qi-1)]&&queue[Math.max(0,qi-1)].g!=null}
 function preOn(){var v=ls("rv.voice");return!!PRE&&!PREBAD&&trm==="0"&&(!v||v==="pre")}
 async function buildQueue(startK){
