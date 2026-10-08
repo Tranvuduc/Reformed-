@@ -102,7 +102,6 @@ Bệnh tội lỗi của các ngươi sẽ làm hư các ngươi, nếu các ng�
 
 Động cơ 5. Cuối cùng, các ngươi hoặc phải tiếp nhận Ngài làm Đấng Cứu Thế mình khỏi tội lỗi và cơn thạnh nộ, theo sắc lệnh của Ngài; hoặc các ngươi sẽ bị coi là những kẻ khước từ Ngài làm Đấng Cứu Thế mình, là Đấng mà Cha Ngài đã chỉ định và ủy nhiệm, trước tòa phán xét. Ta sẽ tiếp nhận Ngài thế nào, và dùng đến Ngài? Hãy tin nơi Ngài làm Đấng Cứu Thế mình theo sự bổ nhiệm của Đức Chúa Cha; hãy thánh khiết tin cậy nơi Ngài như Đấng bị đóng đinh, để được sự cứu rỗi trọn vẹn của Ngài, nương cậy nơi sự thành tín của Ngài trong lời Ngài. A-men.
 
-TRANSLATION STATUS: COMPLETE
 TERMINOLOGY ISSUES:
 1. "Saviour" → "Đấng Cứu Thế"/"Cứu Chúa" theo văn phong 1934 (1 Giăng 4:14: "Cứu Chúa thế gian").
 2. "gospel" → "Phúc Âm" xuyên suốt; "Tin Lành" chỉ xuất hiện trong trích dẫn Mác 16:15 theo văn 1934 ("giảng Tin Lành"), đúng quy tắc dự án.
@@ -116,3 +115,5 @@ TERMINOLOGY ISSUES:
 10. "official saviour" vs "actual and eventual saviour" → "Đấng Cứu Thế theo chức vụ" vs "Đấng Cứu Thế thực sự và cuối cùng" — phân biệt thần học quan trọng của Boston, giữ nguyên.
 11. OCR: chữ ſ dài (long-s) chuẩn hóa toàn bộ; các dòng rác ký hiệu in ấn loại bỏ.
 12. [NEEDS REVIEW: OCR] Một vài câu ở phần giữa bị hỏng nặng đã dựng lại theo ngữ cảnh; phần kết nguồn bị cắt cụt ("...the LoRD Jesus CHRIST will...") dịch trung thực không bịa thêm.
+
+TRANSLATION STATUS: COMPLETE

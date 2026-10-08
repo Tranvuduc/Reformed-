@@ -118,7 +118,6 @@ Tôi kết thúc với hai ba lời khuyên cho những ai quyết tâm quản l
 
 (4.) Cuối cùng, đừng quả quyết và chi li về phần tai họa chung nào có thể đến với mình; nhưng hãy phó thác điều đó cho Chúa. Chỉ hãy chi li về điều này, là nọc của sự rủa sả phải được cất đi, và vì thế các ngươi phải đặt mình vào đáy của giao ước đời đời, và phó mình cho Đấng Christ như người lái tàu vĩ đại qua biển thế gian này, phó thác điều đó cho Ngài... [NEEDS REVIEW: đoạn cuối OCR hỏng nặng, không dịch được trọn vẹn]
 
-TRANSLATION STATUS: COMPLETE
 TERMINOLOGY ISSUES:
 1. Nguồn: bản in năm 1764, OCR chữ ſ (s dài) thế kỷ 18 đã được chuẩn hóa trong quá trình dịch.
 2. "bunch of hyssop" → "bó rau kinh giới" (theo Kinh Thánh 1934, Xuất 12:22).
@@ -135,3 +134,5 @@ TERMINOLOGY ISSUES:
 13. "sealing ordinance" → "thánh lễ niêm ấn".
 14. "the white side of the cloud" → "mặt trắng của đám mây" (ám chỉ Xuất 14:20, đám mây sáng cho Y-sơ-ra-ên, tối cho Ai Cập).
 15. Thuật ngữ đúng chuẩn 16 thuật ngữ dự án; không vi phạm.
+
+TRANSLATION STATUS: COMPLETE

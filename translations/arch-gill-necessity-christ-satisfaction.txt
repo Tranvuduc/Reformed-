@@ -85,7 +85,6 @@ Có nhiều sự phản đối khác nhau được đưa ra chống lại giáo 
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
 
 TERMINOLOGY ISSUES:
 1. "Satisfaction" (thuật ngữ thần học chính của bài giảng: sự đền tội) được dịch là "sự đền tội" xuyên suốt, phân biệt với "sự chuộc tội" (atonement) theo bảng thuật ngữ.
@@ -100,3 +99,5 @@ TERMINOLOGY ISSUES:
 10. Đoạn OCR hỏng nặng ở trang bìa (tên nhà in, địa chỉ) đã bỏ qua vì không phải nội dung; năm 1766 và ngày giảng 19/6/1766 lấy từ phần còn đọc được.
 11. Vài câu bị hỏng do OCR đã dựng lại theo ngữ cảnh và văn phong Gill; không có cờ [NEEDS REVIEW] nào về nội dung thần học.
 12. Danh mục sách quảng cáo của nhà xuất bản ở cuối nguồn đã loại bỏ vì không phải nội dung bài giảng.
+
+TRANSLATION STATUS: COMPLETE

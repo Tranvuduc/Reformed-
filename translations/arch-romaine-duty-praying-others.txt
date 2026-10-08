@@ -60,7 +60,6 @@ Xin để lại trong tâm trí anh em một suy niệm này. Khi các buổi th
 
 Để được khích lệ thêm mà thực hành bổn phận được khuyên trong bài giảng này, xin xem một tập sách nhỏ tựa là — Lời Mời Tha Thiết gửi các bạn hữu của Hội Thánh quốc gia hãy dành riêng một giờ mỗi tuần để cầu nguyện và nài xin trong thời buổi rối ren hiện nay, v.v. In tại J. Worrall ở Bell-yard, và E. Withers ở Fleet Street. Giá một xu, hay sáu shilling một trăm cuốn.
 
-TRANSLATION STATUS: COMPLETE
 
 TERMINOLOGY ISSUES:
 1. "Herod" — OCR "7 NERO D" và "Here's purpoſe" đã chuẩn hóa thành Hê-rốt.
@@ -80,3 +79,5 @@ TERMINOLOGY ISSUES:
 15. [NEEDS REVIEW: OCR] — câu "...there was not a christian in Jerusalem, but had been praying for him, and yet still he [was in chains]" bị mất chữ do OCR, đã phục hồi theo văn cảnh.
 16. [NEEDS REVIEW: OCR] — câu "Pass the guard, [here is another barrier]... Get through it, there is an iron gate" bị nhiễu OCR nặng, đã phục hồi theo văn cảnh.
 17. [NEEDS REVIEW: OCR] — câu "Let us pray more, and talk less; and [when we speak] of them, let it be in prayer to God for them" bị nhiễu OCR, đã phục hồi theo văn cảnh.
+
+TRANSLATION STATUS: COMPLETE

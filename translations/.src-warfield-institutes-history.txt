@@ -1,0 +1,2746 @@
+
+
+THE LITERARY HISTORY
+
+OF
+
+THE INSTITUTES OF THE CHRISTIAN
+RELIGION
+
+BY
+
+JOHN CALVIN
+
+BY
+
+BENJAMIN B. WARFIELD, D.D., LL.D.,
+
+PROFESSOR OF DIDACTIC AND POLEMIC THEOLOGY IN THE THEOLOGICAL SEMINARY
+AT PRINCETON, N. J.
+
+PHILADELPHIA
+
+PRESBYTERIAN BOARD OF PUBLICATION
+
+I
+
+Return this book on or before the
+Latest Date stamped below.
+
+University of Illinois Library
+
+; J n
+
+JAN
+
+L161— H41
+
+THE LIBRARY
+
+Digitized by the Internet Archive
+in 2017 with funding from
+
+University of Illinois Urbana-Champaign Alternates
+
+https://archive.org/details/literaryhistoryoOOwarf
+
+First Edition of the Institutes— Title Page
+
+ON THE LITERARY HISTORY OF
+CALVIN’S INSTITUTES
+
+By Professor Benjamin B. Warfield, D.D., LL.D.
+
+John Calvin was born on the tenth of July, 1509. The Institutes of the Christian Religion was thrown off in the first draft
+in 1534 or 1535, but did not finally leave its author’s hands in
+its definitive edition until a quarter of a century afterwards, in
+the late summer of 1559. The four hundredth anniversary of
+Calvin’s birth is, therefore, also the three hundred and fiftieth
+of the completion of the Institutes , and may be fitly marked by
+the issue of a new edition of the Institutes in English.
+
+Certainly the publication of this great work in its completed shape
+is well worth commemorating on its own account. It was the first
+serious attempt to cast into systematic form that body of truth
+to which the Reformed churches adhered as taught in the Holy
+Scriptures; and as such it met a crisis and created an epoch
+in the history of those churches. In the immense upheaval
+of the Reformation movement, the foundations of the faith
+seemed to many to be broken up, and the most important
+questions to be set adrift; extravagances of all sorts sprang up
+on every side; and we can scarcely wonder that a feeling of
+uneasiness was abroad, and men were asking with concern for
+some firm standing-ground for their feet. It was Calvin’s Institutes which, with its calm, clear, positive exposition of the
+evangelical faith on the irrefragable authority of the Holy
+Scriptures, gave stability to wavering minds, and confidence to
+sinking hearts, and placed upon the lips of all a brilliant apology
+in the face of the calumnies of the enemies of the Reformation.*
+
+As the fundamental treatise in the development of a truly
+evangelical theology its mission has stretched, however, far
+beyond its own day. All subsequent attempts to state and
+
+* Cf. T. M. Lindsay, A History of the Reformation, ii, 156-157, 159 ; and especially the
+fine pages in F. Buisson, Sebastien Castellion, I. 96 sq., on the effect of the publication
+of this book, "at once an apology, a manifesto and a confession of faith,” in 1536.
+
+V
+
+VI
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+defend that theology necessarily go back to it as their startingpoint, and its impress upon the' history of evangelical thinking
+is ineffaceable. Even from the point of view of mere literature,
+it holds a position so supreme in its class that every one who
+would fain know the world’s best books, must make himself
+familiar with it. What Thucydides is among Greek, or Gibbon
+among eighteenth-century English historians, what Plato is
+among philosophers, or the Iliad among epics, or Shakespeare
+among dramatists, that Calvin’s Institutes is among theological
+treatises. “The Institutes of Calvin,” says Dr. William Cunningham, to whom will be conceded the right to an opinion on such
+a matter, “is the most important work in the history of theological science, that which is more than any other creditable
+to its author, and has exerted, directly or indirectly, the greatest
+and most beneficial influence upon the opinions of intelligent
+men on theological subjects. It may be said to occupy in the
+science of theology the place which it requires both the Novum
+Organum of Bacon and the Principia of Newton to fill up in
+physical science, — at once conveying, though not in formal
+didactic precepts and rules, the finest idea of the way and manner
+in which the truths of God’s Word ought to be classified and
+systematized, and at the same time actually classifying and
+systematizing them, in a way that has not yet received any very
+material or essential improvement.”* We should indeed be
+scarcely flying beyond the mark if we gave enthusiasm itself
+the reins and adopted as sober criticism the famous distich
+of the Hungarian reformer and poet, Paul Thuri, which — so
+the editors of the great Brunswick edition tell usf — many of the
+old owners and readers of the Institutes have written lovingly
+on its front:
+
+Praeter apostolicas post Christi tempora chartas,
+
+Huic perperere libro ssecula nulla parem.J
+
+* The Reformers and the Theology of the Reformation, second edition, 1866, p. 295.
+
+t Corpus Reformatorum, vol. xxix: Joannis Calvini Opera, v ol. i, Brunswick, 1863,
+p. xxi, note. i.
+
+t This famous distich was first mentioned by Thuri’s countryman and fellow-student
+at the feet of Stephen Szegedin, Matthew Skaricza, in his Vita et Obitus Stephani Szegedini, prefixed to Szegedin’s Loci Communes Theologies Sincerce, published at Basle, 1585,
+and at least four times subsequently. Skaricza, who was Reformed pastor at Keri,
+visited Geneva and wrote before 1571. He tells how, at his request, Beza “showed him,
+under the simple sod, the grave of the great Calvin, who had commanded that he should
+be buried thus without any monument” — and, after praising Calvin’s doctrine of the
+Lord’s Supper and the general adamantine character of his reasoning, proceeds: “And
+especially what work was ever more vigorous, more acute, more exact than the Institutes, whether it be the language or the matter that you consider and weigh? So
+that our Paul Thuri has not unjustly said, Proeter,” etc. Thence probably the distich
+was derived by Gerdesius ( Scrinium Antiquarium, II, i, 451) and Du Buc ( Institutions
+Theological, 1630, prsef.). Du Buc, in apologizing for writing, enumerates his predecessors in the field of Protestant dogmatics: such as, he says, the works of those
+great theologians, Melanchthon, Musculus and Peter Martyr, and “that truly golden
+Institutes of the Christian Religion of John Calvin’s concerning which Paul Thuri said
+
+SUPREME EXCELLENCE OF THE INSTITUTES
+
+Vll
+
+It is this, in effect, which the greatest scholar of Calvin’s
+own age did — that Joseph Scaliger (1520-1609) whose caustic
+criticisms have made so many scholars writhe. “ Oh, what a
+good book Calvin’s Institutes is,” he exclaims; “Oh, what a great
+man! There is none of the ancients to compare with him.
+. . . Calvin stands alone among theologians.”* And, indeed,
+
+it is none other than this that the Strasburg editors of Calvin’s
+works have done. Certainly among the most widely learned
+and least extravagant of the scholars of our day, they yet do
+not scruple to adopt Thuri’s expression into the well-weighed
+language of their prolegomena, and to repeat it as their deliberate
+judgment upon the merits of the Institutes. Among the other
+reasons which have led them to devote their time and labor
+to an edition of Calvin’s works, they tell us, is the unique preeminence and high authority enjoyed by this Lycurgus of the
+Reformed churches. They continue:
+
+“For, though Luther was supremely great as a man and Zwingli was
+second to none as a Christian citizen, and Melanchthon well deserves
+the appellation of the most learned of teachers, Calvin may justly
+be called the leader and standard-bearer of theologians. For who will
+not marvel at his command of language and letters, at his control of
+the entire sphere of learning? The abundance of his learning, the admirable disposition of his material, the force and validity of his reasoning in
+dogmatics, the acuteness and subtlety of his mind, and the alternating
+gay and biting saltness of his polemics, the felicitous perspicuity, sobriety
+and sagacity of his exegetics, the nervous eloquence and freedom of his
+paraenetics, his incomparable legislative prudence and wisdom in the constitution, ordering and governing of the churches — all this is fully recognized among men of learning and candor. Even among Romish controversialists themselves, there is none to-day possessed of even a moderate
+knowledge of these matters or endowed with the least fairness in judgment,
+who does not admire the richness of his reasoning and ideas, the precision
+of his language, the weight and clearness of his diction, whether in Latin
+or French. All these qualities are, of course, present in his other writings, but they are especially striking in that immortal Institutes of the
+Christian Religion, which beyond all controversy far excels all expositions
+of the kind that have been written from the days of the apostles down,
+including, of course, Melanchthon’s Loci Theologici; and which captivates
+
+most truly, Prceter,” etc. The essential facts concerning Thuri (one of five of the name
+who achieved fame in Hungary in the sixteenth century) are summed up in the epitaph
+written by his son, the learned poet, George Thuri:
+
+“Turinum genuit, docuit Witeberga Philippo
+Doctore, ossa tenet Szantovia, Astra animam.”
+
+Having studied (1551) at Tur (where there is still a strong Reformed church and a
+gymnasium) under Szegedin (whom he calls a second Cicero), and afterward (1553) at
+Wittenberg, he became a professor at the Reformed School at Talna (1556-1560),
+where (1557) he wrote his book, Idea Christianorum Ungaricorum sub Tyrannide Turcica,
+which lay in MS. until it was published by Molnar at Oppenheim in 1616. In 1560 he
+became pastor at Sajo Szent P4ter, and finally (after 1565) at Szantd, where he died in
+1574 or 1575. While at the former place he engaged in the controversy between the
+Reformed and Lutherans, and while at the latter in the great controversy with the
+Unitarians. He enjoyed a high reputation as a poet and is ranked by Lotichius among
+the best Latin poets of the age. Notices of him are generally accessible in Bod, His -
+toria Hungarorum Ecclesiastica (Lugduni, 1888, i, p. 263) and in Andr. Schmalii Adversaria, p. 125 (in Monumenta Aug. Conf. in Hungaria Historica, vol. ii).
+
+* Scaligeriana, being the second part, with separate pagination of Prima Scaligeriana, nusguam antehac edita cum praefatione T. Fabri, etc. Groningse, 1669, p. 41.
+
+Vlll
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+even to-day the learned and candid reader, even though he may be committed to different opinions, and wrests from him an unwilling admiration.”*
+
+So estimating the Institutes , it is no wonder that these learned
+editors wished to begin their edition with this work. This is
+how they explain their procedure :
+
+“In undertaking a new collection of the works of John Calvin, of immortal memory — a body of writings worthy of his great name — we have
+determined to begin with the Institutes of the Christian Religion. That
+work does not, to be sure, hold the first place among his writings in the
+order of composition, though very few of them preceded it: but none of
+them is superior to it in the fame it enjoys. It has often happened that a
+book distinguished by the great applause of men has afterwards fallen into
+neglect through the harsher judgment or the careless indifference of a
+later time; often, too, that one which reached few minds at first, and
+almost escaped notice, has, as time proceeded, emerged from obscurity and
+is daily celebrated with increasing praise. But with regard to this book,
+seized upon from its very cradle with great and widespread avidity, and
+scrutinized by its very adversaries with a zeal born of envy, its glory has
+abided the same, intact now through three centuries, without the least
+diminution or fading, despite the frequent changes which successive
+schools of theology have introduced into the treatment of Christian doctrine. If it were the custom of our time, as it was formerly, to collect at
+the beginning of volumes eulogies pronounced on their writers by various
+authors, we could gather here a great harvest of laudations, and time
+and paper would fail us before the material at our disposal would be exhausted.”'}'
+
+I
+
+One of the marvels connected with this remarkable book is the
+youth of its author when it was written. It is true we do not
+know with certainty precisely when it was written. But, as
+the colophon of the first edition tells us, it was published
+at Basle in March, 1536, and the Prefatory Letter to the King
+of France, which was written, as we know, some time after the
+book itself, is dated on the 23d of the preceding August. In the
+opening words of this preface, Calvin explicitly declares that
+when the work was written he had no thought of presenting
+it to Francis. “When I first put hand to this work,” he says,
+“nothing was less in my thoughts, most illustrious king, than
+to write a book which should be presented to your Majesty.
+My intention was only to inculcate some elementary truths,
+by which those interested in religion might be trained to true
+piety — and at this task I toiled chiefly for our French, multitudes of whom I saw to be hungering and thirsting after Christ,
+
+* Corpus Reformatorum, xxix ( Calvini Opera, i), p. x. Cf. Cunningham, as cited,
+p. 299
+
+T Ibid., p. xxi. Those who would see the omission of the Strasburg editors partly
+supplied may consult Calvin’s Commentary on Joshua as published by the “Calvin
+Translation Society,” Edinburgh, 1854, pp. 376-464. Compare Schaff, History of the
+Christian Church, vii, 1892, pp. 272-295.
+
+TIME AND PLACE OF WRITING
+
+IX
+
+but very few to be possessed of even a slight knowledge of Him.
+That this was my purpose, the book itself shows by its simple
+and elementary manner of teaching.” It would seem natural
+to suppose, therefore, that the book was composed some weeks
+or possibly even months before the middle of 1535 — perhaps even
+in 1534.
+
+There are not lacking some further considerations which
+support this supposition. A direct statement to this effect is
+made, indeed, by an. almost contemporary author — Florimond
+de Raemond (1540-1602), counsellor of the Parlement of Bordeaux, who wrote from the Romish point of view a Histoire
+de la Naissance, Progrez et Decadence de VHeresie de ce Siecle
+(Paris, 1605, and again 1623). His statements are, to be sure,
+scarcely worthy of credence when unsupported; but when, as in
+the present case, they are corroborative of what is otherwise
+probable, they may be worth attention. Pie represents Calvin
+as, on leaving Paris, sojourning three years at Angouleme — a
+manifest error* — and continues as follows:
+
+“Angouleme was the forge where this new Vulcan beat out the strange
+opinions which he afterwards published; for it was there that he wove to
+the astonishment of Christendom the fabric of his Institutes, which may be
+called the Koran or rather the Talmud of heresy, being, as it is, a mass of
+all the errors that have ever existed in the past, or ever will exist, I verily
+
+believe, in the future . He was commonly called the Greek of
+
+Claix, from the name of his patron, the cur6 of Claix, because he made a
+constant parade of his Greek, without, to be sure, knowing very much of
+it . This Greek of Claix, then, held in high esteem and reputation, and loved by all who loved letters, would weave into his speech
+remarks about religion and continually drop piquant words against the
+authority and traditions of the church. He enjoyed the favor of many
+persons of authority, especially of Anthony Chaillou, Prior of Bouteville,
+who has since been called the Pope of the Lutherans, and of the Abbe de
+Bassac, two men of letters, eager to gather together all the good books
+they could meet with, and of the Sieur de Torsac, brother of President la
+Place, who afterwards became the historian of Calvinism. Calvin was
+often with these two, in the company of du Tillet also. Their rendezvous
+was in a house outside the town of Angouleme, named Girac, where the
+Prior of Bouteville ordinarily made his dwelling. There he entertained
+them with the sketches for his Institutes, laying’ open to them all the secrets
+of his theology, and read to them the chapters of his book as he composed
+them, laboring so assiduously on it that he often passed entire nights without sleeping and whole days without eating. It is a pleasure to me to
+follow step by step the course of this man fatal to our France, and to touch
+upon all the details of his training, because no one has written it down
+before. And as I have taken the trouble to inform myself of the truth,
+I make no complaint of the trouble of writing it.”|
+
+This picture of Calvin working out his treatise in his retirement at Angouleme seems rather overdrawn. It is quite clear,
+
+* Cf. Schaff. History of the Christian Church, vii, p. 325, note 2.
+
+t P. 883 et sq. of book cited, ed. of 1623, as extracted by Reuss, Calvini Opera, etc.,
+
+X
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+moreover, not only that the author has wrongly given to Angouleme the whole three years that extended between Calvin’s
+flight from Paris late in 1533 and his arrival in Geneva late in
+July, 1536, but also that he has in mind the Institutes , not as
+first published in the spring of 1536, but in the elaborated form
+which it took only later. That the book may have been written
+at Angouleme, where Calvin seems to have spent the greater
+part of the year from the autumn of 1533 to the autumn of 1534,
+in the house of his wealthy friend, Louis du Tillet, is in itself,
+however, certainly possible. And such a supposition may
+account for Beza’s placing it, in the chronological list of Calvin’s works which he published immediately after Calvin’s
+death, directly after his first work, the commentary on Seneca’s
+de Clementia , which was published in April, 1532, and before
+his next book, the Psychopannychia, which was written in 1534.*
+It may, indeed, be said that Beza was certainly laboring under
+a misapprehension as to the date of the publication of the Institutes, and that it is due to this error that he so places it in
+his catalogue, and not to the influence of knowledge on his
+part that the book was written earlier than the date of its publication. He certainly says in the first edition of his Life of Calvin
+that Calvin “left France in 1534, and had his first Institutes
+printed that same year at Basle, as an apology addressed to King
+Francis, first of the name, in behalf of the poor persecuted
+believers upon whom the name of Anabaptists was imposed in
+order to excuse the persecution of the Gospel in the eyes of the
+Protestant princes.” And he was certainly wrong in so saying —
+as is evident, were there nothing else to show it, from the fact
+that the persecutions in question did not begin until early in
+1535. Nevertheless, it is not clear that knowledge on Beza’s
+part that the Institutes was written in 1534 may not be rather
+the cause of his error here as to the date of its publication;
+an error of which he seems subsequently to have become aware,
+as he suppressed the whole passage in the second edition of his
+book.f
+
+Whatever support may come from these doubtful passages,
+however, the main ground for supposing that the Institutes was
+composed at some point earlier than the middle of 1535, when
+the Introductory Epistle was written, must be drawn from the
+
+* The Psychopannychia was written in Orleans in 1534, but not published until
+1542: see Reuss, Calvini Opera, x, ii, 38; Doumergue, Jean Calvin, i, 466, 584, etc.;
+W. Walker, John Calvin, 123.
+
+t For this whole matter see Reuss, Calvini Opera, iii, p. xvii; Doumergue, Jean
+Calvin, i, 595.
+
+MOTIVE OF PUBLICATION
+
+XI
+
+pointed discrimination that is made by both Calvin and Beza
+between the writing and the publishing of the book — as determined by wholly different motives, arising out of changing
+circumstances, and, therefore, arguing different times. As we
+have seen, this is plainly asserted in the opening words of the
+Epistle itself, where his motives in writing his Institutes are
+declared by Calvin himself. This account is supplemented by
+the full account of his motives in 'publishing the book, given in
+that precious autobiographical fragment which is included in
+the Preface to his Commentary on the Psalms., It will be wise
+to have this pretty fully before us, as it will be of use in the
+discussion of more than one point in the history of the Institutes.
+
+“Leaving my native country, France/’ says Calvin, “I in fact retired
+into Germany, expressly for the purpose of being able there to enjoy in
+some obscure corner the repose which I had always desired, and which
+had been so long denied me. But lo! whilst I lay hidden at Basle and
+known only to a few people, many faithful and holy people were burnt
+alive in France; and the report of these burnings having reached foreign
+nations, they excited the strongest disapprobation among a great part of
+the Germans, whose indignation was kindled against the authors of such
+tyranny. In order to allay this indignation, certain wicked and lying
+pamphlets were circulated, stating that none were treated with such
+cruelty but Anabaptists and seditious persons, who, by their perverse
+railings and false opinions, were overthrowing not only religion, but also
+all civil order. Observing that the object which these instruments of the
+court aimed at by their disguises was not only that the disgrace of shedding
+so much innocent blood might remain buried under the false charges and
+calumnies which they brought against the holy martyrs after their death,
+but also that afterwards they might be able to proceed to the utmost
+extremity in murdering the poor saints without exciting compassion
+toward them in the breasts of any, it appeared to me, that, unless I opposed
+them to the uttermost of my ability, my silence could not be vindicated
+from the charge of cowardice and treachery. This was the consideration
+which induced me to publish my Institutes of the Christian Religion. My
+objects were, first, to prove that these reports were false and calumnious,
+and thus to vindicate my brethren, whose death was so precious in the
+sight of the Lord; and next, that as the same cruelties might very soon
+after be exercised against many unhappy individuals, foreign nations
+might be touched with at least some compassion toward them and solicitude about them. When it was then published, it was not that copious and
+labored work which it now is, but only a small treatise, containing a
+summary of the principal truths of the Christian religion; and it was
+published with no other design but that men might know what was the
+faith held by those whom I saw basely and wickedly defamed by those
+flagitious and perfidious flatterers. That my object was not to acquire
+fame, appeared from this, that immediately afterwards I left Basle, and
+particularly from the fact that nobody there knew that I was the author.
+Wherever else I have gone, I have taken care to conceal that I was the
+author of that performance; and I had resolved to continue in the same
+privacy and obscurity, until at length William Farel detained me at
+Geneva, not so much by counsel and exhortation, as by a dreadful imprecation, which I felt to be as if God had from heaven laid His mighty hand
+upon me to arrest me.”*
+
+The plain implication of this passage is that Calvin had the
+
+♦Calvin Society translation, i, pp. xli, xlii.
+
+Xll
+
+LITERARY HISTORY OF CALVIN S INSTITUTES
+
+manuscript of his Institutes by him, and was led to publish it as
+an apologetical document by the malignant aspersions on the
+character of the saints slain in France as if they were a body of
+mere fanatics; by reading it the world would know the sort of
+doctrine held by the French martyrs. How long he had had it
+by him we have no means of certainly divining; but the persecutions in France had begun early in 1535, and it does not seem
+as if the book could have been so spoken of if it had been written
+subsequently to this. Whether, however, it was written in
+Angouleme in 1534 or in Basle in 1535 makes little difference.
+Calvin was born July 10, 1509. His dedicatory letter to Francis
+I is dated August 23, 1535 — twenty-six years afterwards. The
+Institutes was beyond question written, then, before he had
+completed his twenty-sixth year, and possibly before he had
+completed his twenty-fifth year. It was in the hands of the
+public before he had completed his twenty-seventh year.
+
+II
+
+In estimating the nature of this performance, there are two
+other facts which we should take into consideration, one of an
+enhancing, the other of a moderating character. We must bear
+in mind, on the one hand, that the young Calvin’s book had practically no predecessors, but broke out a new path for itself; but
+also, on the other hand, that when it was first given to the public it
+was far from being the complete treatise in dogmatic theology
+which we know, but was, as he himself describes it, in the extract
+already quoted from the Preface to his Commentary on the
+Psalms, doubtless with some exaggeration of its unimportance,
+not “densum hoc et laboriosum opus, quale nunc exstat, sed
+breve duntaxat enchiridion” — “seulement un petit livret contenant sommairement les principales matieres” — “a brief handbook,” a “little booklet.” From that small beginning it grew
+under his hand from edition to edition, and was transformed
+from a short handbook on religion for the people into a scientific
+treatise in dogmatic theology for students of theology.
+
+When we say it had “practically no predecessors,” we do not
+mean to obscure the fact that before it certain attempts had
+been made to set forth the fundamental articles of the Christian
+religion as the Protestants conceived them. As a matter of fact,
+Calvin’s Institutes was preceded by three such earlier attempts,
+two of which at least were of considerable importance. The very
+
+First Edition of the Institutes— Specimen Page
+
+EARLY PROTESTANT DOGMATICS
+
+Xlll
+
+nature of the Reformed movement imposed on the Protestant
+party the necessity of giving a definite account of itself. As
+Reuss admirably puts it,* such a declaration of principles was
+necessary in the face of adversaries armed with an authority
+consecrated by ten centuries, and charging the new movement
+with blasphemy, with the destruction of all order, human and
+divine, with the overthrow of the whole social fabric; it was
+necessary in the face of troubled friends who gave the reform
+their sympathy, but were frightened at the uproar it caused
+and the very efforts which were required to sustain it; it was
+necessary, above all, in the face of the radical party which always
+accompanies the advance of the great movements which agitate
+humanity, and is always ready to compromise the good cause
+and to alienate those who judge things according to their first
+results. It was inevitable, therefore, that even the very first
+steps of the Reformation should produce attempts to state in
+some methodical way the recovered truths of the Gospel.
+
+The first Protestant Dogmatics accordingly saw the light
+scarcely four years after Luther nailed up his theses on indulgences (1521). It did not, indeed, come from the hand of
+Luther himself; but it came from the hand of his chief helper
+in the Gospel, the saintly and learned Melanchthon. Thus,
+as Reuss says, “the first attempt to formulate the evangelical
+doctrine according to the methods of the schools was the work
+of a young professor of the humanities scarcely twenty-three
+years old, who by this publication laid the foundations of Lutheran dogmatics and impressed on them the direction which they
+did not cease to follow for a whole century.” The Loci Theologici of Melanchthon in its first form scarcely exceeded in size
+one of our catechisms, and, owing its composition to a course
+of lectures on the Epistle to the Romans given to a private
+class, followed in its order the emergence of the topics in that
+epistle, and thus lacked all systematic arrangement, f But it
+was written in a classic style of great simplicity, which deserved
+its great popularity, and was gradually wrought by its author
+into an ever-improving arrangement of topics. Four years after
+
+* Calvini Opera , etc., iii, p. vii sq., from which the substance of this whole paragraph
+is derived.
+
+fCf. Dr. William Cunningham, Reformers, etc., p. 295: “The first edition of Melanchthon’s Commonplaces — the only one published before Calvin produced the first
+edition of his Institutes — was not to be compared to Calvin’s work, in the accuracy of
+its representation of the doctrines of Scripture, in the fullness and completeness of its
+materials, or in the skill and ability with which they were digested and arranged;
+and in the subsequent editions, while the inaccuracy of its statements increased in
+some respects rather than diminished, it still continued, to a considerable extent, a
+defective and ill-digested work, characterized by a good deal of prolixity and wearisome repetition.”
+
+XIV
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+the publication of Melanchthon’s Loci Theologici, the far better
+ordered and more penetrating work of Zwingli appeared (1525),
+entitled Commentarius de vera et falsa religione, written at the
+solicitation of the Italian and French refugees, and, like Calvin’s
+Institutes, introduced with a noble dedicatory letter to Francis
+I. Of much less importance than either of these is the manual
+of William Farel — the first theological treatise written in the
+French language — entitled Summaire brief ue declaration daucuns
+lieux fort necessaires a ung chascun Chrestien pour mettre sa
+con fiance en Dieu et ayder son prochain, etc., a treatise distinguished by simplicity of language, a truly Biblical popularity
+and a pervasive application to the Christian life.* Whether
+Calvin was acquainted with these works or not, we have no direct
+evidence to show. It may be assumed. But in any event he
+wrote with independence, and with an unexcelled command
+of this special field which showed itself ever greater with each
+new edition.
+
+Were indeed the comparison with his predecessors made only
+with the first edition of Calvin’s Institutes, his superiority, though
+marked, would be less great. But the first edition of the Institutes
+was, as we have said, only the first stage in a development,!
+and was a less satisfactory stage to its author than to any of
+his readers. He himself speaks almost with contempt of his
+own production. In the Preface to the second edition, which
+was published in 1539, he says: “In the first edition of this
+work of ours, because I had not the least expectation of that
+success which God in His goodness has given it, I had, for the
+greater part, performed my office perfunctorily, as is customary
+in trivial undertakings (in minutis operibus).” Accordingly
+the title of this second edition, on which he had bestowed much
+labor and for the late appearance of which he apologizes, is
+made to run: Institutio Christianas Religionis nunc vere demum
+suo titulo respondens. In it the text is swelled to something
+more than double its original bulk; and its character is so
+
+* Farel’ s Summaire was published first in 1524, an edition no exemplar of which
+remains; the second edition was published in 1534, and has been reprinted by Baum
+in 1867.
+
+t On the editions of the Institutes published during Calvin’s life, see Reuss, Calvini
+Opera, I, xxii, and III, xxviii. In the former place, he says: “Ten times in all, so far
+as we know, the Institutes came from the press in its Latin form during the author’s
+life, first at Basle, then at Strasburg and Geneva. These editions differ among themselves variously and may be distributed into three families, or, as one would say to-day,
+recensions. In the first of these we place only the Princeps, published ‘per Thomam
+Platterum et Baltharsarem Lasium,’ at Basle, in 1536. The second is represented by
+six issues” — belonging certainly together, but distributed into three subfamilies, viz.,
+(1) 1539, (2) 1543 and 1545, (3) 1550, 1553, 1554. The third family is introduced by
+Stevens’ second edition, that of 1559, mere copies of which are the two editions of
+1561. In the latter place Reuss presents this same classification in tabular form,
+adding the editions of the French version in their places. See below, p. 16; also p. 21.
+
+FINAL PURPOSE OF INSTITUTES
+
+XV
+
+changed that the reworked volume is put forth as a totally new
+book with a different purpose from that had in view when it
+was first composed. The book was written, as we are told in the
+dedicatory letter to Francis I, solely to supply rudimentary
+instruction in religion to the neglected multitudes, and was,
+therefore, “ composed in a 'simple and elementary form, suitable
+for instruction.” It was 'published, as we are told in the Preface to the Psalms, to exhibit to the world what the French
+Protestants really believed, and to render incredible the calumnies by which their judicial murder was excused. It was now
+revised or rather elaborated, in order to fit it to be a text-book in
+theology. “I may add,” continues Calvin in his Preface, “that
+my object in this labor” of re-working the Institutes “was this:
+so to prepare and train candidates in sound theology for the
+reading of the divine Word that they might both have an easy
+introduction to it and proceed in it with unfaltering step, seeing
+I have endeavored to give such a summary of religion in all its
+parts, and have digested it into such an order as to make it not
+difficult for any one who is rightly acquainted with it, to ascertain what he ought properly to look for in Scripture, and also
+to what head he ought to refer whatever is contained in it.”
+In other words, Calvin now designed his Institutes to be a doctrinal introduction to the study of the Scriptures; and he goes
+on to explain that the fact that this book was accessible would
+enable him, when commenting on Scripture, to pass over
+doctrinal points without long discussion. To this conception
+he kept, throughout the labor of subsequent revision. For
+not even the enlarged Institutes of 1539 satisfied him. Six
+additional revisions were made by him before what we may call
+the definitive edition of 1559 was reached. In this the Institutes
+appears not only once more doubled in length — now about
+five times the size of the “booklet” of 1536* — but entirely
+altered in arrangement, and presenting, at last, that excellent
+disposition of its material in which it has come down to us,
+and by which it has won the unalloyed admiration of subsequent
+ages.f
+
+* In the Brunswick edition the Institutes of 1536 occupies about 220 columns; the
+edition of 1559 about 1086.
+
+t Even the Jesuit, Cornelis Schultingh (1540-1604), says ( Bibliotheca Catholica contra
+Calvinianam theologiam, 1602, cf. Gerdes, Scrinium Antiquarium, ii, 470, Bayle Encyc.,
+E. T., v, 86), that the method of the book is so fine and artistic that it is worthy of comparison on this score with the Institutes of Justinian, which the lawyers justly consider
+the most methodical of books. “Calvin,” says he, “seems to me from the moment when
+he began to write on to the end of his life to have bent all his zeal and all his labor
+and powers to elaborating and enriching these Institutes, so that they might perfectly
+set forth his theology.” For Schultingh see Migne’s Nouvelle Encyc. Theol., 2nd
+Series, iii, 1046; and especially Bayle, as just cited, who remarks on the prevailing extravagance of his language.
+
+XVI
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+In the Preface to this edition, Calvin, speaking of the labor he
+had expended in bringing the book as first published to a worthier
+form, says: “This I attempted not only in the second edition,
+but in every subsequent one the work has received some improvement. But though I do not regret the labor previously expended, I never felt satisfied until the work was arranged in the
+order in which it now appears.” On the title-page, accordingly,
+we read: “ Institutio Christiana Religionis, in libros quatuor
+nunc primum digesta, certisque distincta capitibus ad aptissimam methodum: aucta etiam tarn magna accessione ut propemodum opus novum haberi possit.” The first edition was
+divided into six chapters — on the Law, Faith, Prayer, the
+Sacraments, Spurious Sacraments and Christian Liberty, the
+first three chapters being essentially expositions of the Decalogue,
+the Apostles’ Creed and the Lord’s Prayer, while the concluding
+three treated the matters chiefly in dispute at the time. As
+the material grew, these six chapters were increased partly by
+division, partly by insertion of additional topics, to seventeen
+in the second edition and twenty-one in subsequent editions,
+but remained somewhat artificially ordered. With the edition
+of 1559, however, a totally new arrangement was introduced,
+which reduced the whole to a simple and beautiful order —
+redacted into four books, each with its own chapter divisions
+(from seventeen to twenty-five), subdivided into sections. These
+four books treat in turn of the Father, Son and Holy Ghost, and
+the Holy Catholic Church — “of the knowledge of God the Creator,” “of the knowledge of God the Redeemer,” “of the mode of
+receiving the grace of Christ,” and “of the external means of
+salvation.” The order was suggested by the consecution of
+topics in the Apostles’ Creed, and follows what is called the Trinitarian method of arrangement, or the order of God’s revelation as
+Father, Son and Holy Ghost. The discovery of this simple principle of arrangement gave the final touch to the Institutes as
+a work of art and permitted it to make its due impression upon
+the mind of the reader. What kind of impression it makes on
+a spirit sensitive to form and artistic effect, Mr. Peter Bayne may
+teach us. “The Institutes ,” he says, “are in all, save material
+form, a great religious poem, as imaginative in general scheme,
+and as sustained in emotional heat, as Paradise Lost , though, of
+course, not to be compared, for beauty of language or picturesqueness of detail, with Milton’s poem. Calvin treats, in four successive books, of Christ the Creator, Christ the Redeemer, Christ
+
+Definitive Edition of the Institutes — Title Page
+
+DEVELOPMENT OF INSTITUTES
+
+XVII
+
+the Inspirer, and Christ the King; if he had written in verse,
+avoided argumentative discussion, and called his work The
+Christiad, it would have been the most symmetrical epic in
+existence.”*
+
+It was only, then, in 1559 that the Institutes as we know the
+book was finished. Throughout the whole quarter of a century
+from the stay in Angouleme in 1534 to the appearance of this, its
+eighth edition, it was in a true sense in the making, and not until
+its appearance in this form was it completed. The changes it had
+undergone since its composition were immense — quintupling its
+size, revolutionizing its arrangement, changing its very purpose
+and proposed audience. And yet through all these changes it
+remained in a true sense the same book, and bore in its bosom
+precisely the same message. In the case of others of the great
+writers of the Reformation period, Reuss strikingly remarks,
+their several publications may mark the stations of their gradual
+growth in knowledge or conviction; in Calvin’s case the successive editions mark only stages in the perfection of his exposition
+of principles already firmly grasped and clearly stated:!
+
+“The masterpiece of Calvin offers in this respect an interest altogether
+peculiar. We have seen how often it was reworked, how in each rewriting
+it was enriched and transformed, how from the little sketch it had been
+at first it ended by becoming a thick volume, how the simple popular outline was changed into a learned system, and nevertheless, through all these
+metamorphoses, which left no single page unaffected, the idea, the theological conception, remained the same, the principles never varied. Its
+adversaries, in whose eyes change was in itself the worst of errors, vainly
+strove to discover variations in the doctrine taught in this book. Calvin
+added, developed, defined — he did not retrench or retract anything.
+And it was before he had finished his twenty-sixth year that he found
+himself in full possession of all the productive truths of his theology and
+never afterwards, during a life of thought and of incessant mental labor,
+did he find in his work either principles to abjure or elements fundamentally to alter.”:}:
+
+* The Puritan Revolution, pp. 15-16. Some such poem as Bayne here suggests Calvin
+did write — his Epinicion Christo Cantatum {Opera, v, 423-428) — in sixty-one distichs
+written at Worms in 1541, “for his private solace, not for publication.” But he did
+not consider himself a poet. He says of himself: “Quod natura negat, studii pius
+efficit ardor, Ut coner laudes, Christe, sonare tuas.” (Cf. Schaff, vii, 380.)
+
+t Almost the sole mark of undeveloped Protestant ideas to be found in the first
+edition of the Institutes is the quotation {Cal. opp. i, 82) of Baruch ii, 18, with the
+formula, “Alter vero propheta scribit,” the reference in the “alter” going back to a
+quotation from Daniel. In the edition of 1539 this has become (i, p. 906, cf. ii, 632)
+“Verissime enim simul ac sanctissime scriptum est, a quocunque tandem sit, quod ab
+incerto auctore scriptum, Prophet* Baruch tribuitur.” It may be worth noting that
+in the Psychopannychia (written in 1534 but published in 1542) there seems to be
+some wavering as to Baruch. On one occasion {Cal. opp., v, p. 205) it is quoted with
+the formula, “sic enim loquitur propheta,” and on a subsequent one (p. 227) with
+“in prophetia Baruch,” altered in ed. 1542, to “hanc sententiatn plane confirmat
+oratio, quae est in libro Baruch (saltern qui ejus nomine inscribitur”). (Cf. Beveridge’s
+translation of Institutes, I, xxxii). Cf. Cal. opp., v, 271 (1537); vi, 560 (1545)); vi, 638
+(1546) where the dealing with Baruch is ad hominem.
+
++ Calvini Opera, iii, p. xi; cf. Cunningham, Reformers, etc., p. 294, and the quotation from Beza’s Abstersio Calumniarum p. 263, note. Compare also what Dr. A. M.
+Fairbairn says in The Cambridge Modern History, ii , 363: “Few men may have changed
+less; but few also have developed more.”
+
+LITERARY HISTORY OF CALVINGS INSTITUTES
+
+xviii
+
+III
+
+Another of the notable facts about the Institutes is that it was
+published by its author in two languages — Latin and French.
+The honor of priority has been a matter of perennial dispute
+between the two. The earliest French edition, copies of which
+have as yet come to light, however, is that of 1541; and it speaks
+of itself in such a manner as apparently to exclude an earlier
+French edition, and certainly to exclude a French original
+for the work. It bears on the title-page the declaration that
+the book was “ composed in Latin by John Calvin and translated
+into French by the same.” And in the Preface the following
+explicit statement occurs : “ Seeing, then, how necessary it was in
+
+this manner to aid those who desire to be instructed in the doctrine
+of salvation, I have endeavored, according to the ability which
+God has given me, to employ myself in so doing, and with this
+view have composed the present book. And first I wrote it in
+Latin (et primierement Y ay mis en latin), that it might be serviceable to all studious persons, of what nation soever they might
+be; and afterwards (puis apres), desiring to communicate any
+fruit that might be in it to my French countrymen, I translated
+it into our own tongue (Pay aussi translate en nostre langue).”
+It is, of course, true that the mere fact that no copy of an earlier
+French edition has as yet turned up does not in itself exclude
+the possibility that such a one may be some day chanced upon;
+and it may even be allowed that the language just quoted may
+possibly be pressed to refer to the Latin edition of 1539 alone —
+which Calvin considered the first edition worthy of the name,*
+and of which the French is certainly a translation. But in the
+absence of any trace of an earlier French edition, we submit,
+the natural implication of the words is that the Latin Institutes
+is the fundamental and the French the derived Institutes.
+
+We are pointed, indeed, to certain facts which are said to imply an earlier French edition. But these seem capable of plausible explanation without this assumption. The most important
+of them consist of passages from Calvin’s own writings, notably
+the autobiographical passage in the Preface to his Commentary
+on the Psalms, where he says that when he published his Insti-
+
+* So, e. g„ J. Vielles, in the Montauban Revue de Theologie, March, 1895, p. 127:
+“That proves nothing in favor of the edition of 1541 [being the first French edition],
+seeing that that edition is only the translation word for word of the Latin edition of
+1539. It only amounts to saying: ‘I have composed a new edition of the Institutes
+in 1539. I have myself translated this book in 1541.’ ”
+
+PRIORITY OF THE LATIN INSTITUTES
+
+XIX
+
+tutes nobody at Basle knew that he was the author of the book,
+and a sentence in a letter to Francis Daniel, written on the 13th
+October, 1536, in which he speaks of contemplating “a French
+edition of our little book.” It is argued with respect to the
+former passage that it must mean that the first edition of the
+Institutes was published anonymously, and that this cannot be
+said of the Latin edition of 1536, since it bore Calvin’s name
+conspicuously on its front; therefore the reference must be to a
+previous French issue, published without the name of its author
+appearing. A careful reading of the passage, however, will
+convince us that this explanation cannot stand. The ignorance
+ascribed to the people of Basle as to Calvin’s authorship of the
+book is evidently represented as continuing until Calvin had left
+that city, and as shared by others outside the city at a later
+date; in any event, therefore, the Latin edition published before
+he left Basle comes into account, and it is plain that it is not
+anonymous publication that he is speaking of, but cautious
+conduct on the part of the author — perhaps with a reference
+to the further fact that he lived in Basle under an assumed
+name.* The statement in the letter to Daniel, on the other
+hand, does seem to show that already in the autumn of 1536
+Calvin was contemplating a French version of “his little book;”f
+and this is a very interesting piece of information; but it is clear
+enough that, for some reason, the project was abandoned or
+perhaps we should better say was fulfilled only in the edition of
+1541. In any event, the reference cannot point to an original
+edition of the Institutes in French, as it distinctly speaks of the
+project as of a French edition of an already existent Latin
+libellus.% It would seem, then, pretty certain that the French
+editions of the Institutes begin with that of 1541, which is a close
+rendering of the Latin of 1539.
+
+The first French edition of the Institutes, then, that of 1541, is
+a careful translation by Calvin himself (as the title-page and
+Preface alike inform us) of the second Latin edition of 1539.
+The subsequent revisions of the Latin text repeat themselves in
+
+* So both Reuss (Opp., i, xxvi) and Beveridge (i, xiii sq.), apparently independently.
+Cf. Doumergue, Jean Calvin, i, 591.
+
+t The passage is discussed by Reuss in Opp., iii, pp. xxi, xxii.
+
++ The latest effort to revive the belief in a French first edition is made by J. Vielles
+in the Revue de Theologie, March, 1895. He bases his case on three facts: the place
+given by Beza to the Institutes in his list of Calvin’s works; Beza’s statement that Calvin
+published his Institutes in the same year he left France, viz., in 1534; and the statement
+in the first edition of La France Protcstante (column 519), that “Calvin did not put his
+name to his Institutes, but so strong an interest was awakened that people were not
+slow in recognizing the author” — a statement doubtless derived by misunderstanding
+from the Preface to the Psalm3.
+
+XX
+
+LITERARY HISTORY OF CALVINGS INSTITUTES
+
+editions of the French — the Latin of 1543 (repeated in 1545) in
+the French of 1545; the Latin of 1550 (repeated in 1553 and
+1554) in the French of 1551 (repeated in 1553 and 1554); and,
+finally, the definitive Latin of 1559 (repeated twice in 1561) in
+the French of 1560 (repeated twice in 1561, three times in 1562,
+and again in 1563 and 1564). There is a remarkable fact about
+the final, French edition, however, which requires notice. The
+former editions had repeated, with only the necessary revisions,
+the original translation of 1541. But the definitive edition of
+the Latin of 1559 evidently seemed to Calvin a new beginning —
+increased as it was to nearly twice the bulk of its immediate
+predecessor; it announces itself, indeed, on its title-page, as
+“ augmented by such additions that it could almost be considered
+a new work.”* So looking upon it, Calvin began an entirely
+new translation of it — a translation corresponding to nothing
+in the previous editions even in the parts and phrases where the
+Latin had not been changed. This new translation was continued, however, only to the seventh chapter of the first book.
+The rest of the volume (except those portions of it merely taken
+over from the earlier editions — about half of the whole) is by
+another hand than Calvin's, as its frequent inexactitudes and
+even occasional misapprehensions of the Latin text show. It
+would seem that Calvin did not even oversee the proofs of this
+portion — nearly the whole — of the volume. The French
+translation of the completed Institutes cannot, therefore, be
+treated, as it often is treated, as a second original, f but, in large
+part, must take its secondary rank as a mere translation of
+the Institutes. Its primary value lies only, like other versions,
+in its giving the great book which it represents a wider circulation
+and a greater influence than it could have had in its Latin form
+alone.
+
+The French Institutes being, of course, in contents, only a
+reproduction of the Latin Institutes , adds nothing to its significance for the history of thought, or for the development of
+theology. It must not be rashly concluded, however, that it,
+therefore, possesses in itself little importance. It holds a very
+
+* The title-page runs: “Institutio Christian® religionis, in libros quatuor nunc
+primum digesta, certisque distincta capitibus, ad aptissimam methodum: aucta etiam
+tam magna accessione ut propemodum opus novum haberi possit.”
+
+t Beveridge, therefore, is entirely mistaken when he says (Introductory notice to
+his translation, p. li): “Calvin in preparing it [the French translation of 1562] combined the double character of Author and Translator,” and “has occasionally availed
+himself of his privilege in this respect, and sunk the Translator in the Author,” so that
+“the French edition of 1562 partakes somewhat of the character of an original work,
+and becomes indispensable in translating the Institutes into any other language.”
+It is a good enough translation, but not in any sense a second original.
+
+WIDE CIRCULATION OF THE FRENCH VERSION
+
+XXI
+
+great place, for instance, in the history of French literature and
+even in the development of the French language as a literary
+vehicle. And, above all, it is the visible symbol and evidence
+of one of the greatest achievements of the Reformation movement — the popularization of religious thought. The Latin
+Institutes was for the learned; the French Institutes was made
+for the unlearned, and the marvel of marvels is that it found or
+made for itself apparently a great constituency.* Who could
+have believed that in the middle of the sixteenth century a
+body of vernacular readers could be created so numerous and
+so avid of theological instruction as to take up in the twentyfive years between 1541, when the first French edition of the
+Institutes was published, and 1566, no less than twenty-one
+editions of this theological treatise? During Calvin’s lifetime,
+we perceive, the publication of a new edition of the Institutes
+in French was almost an annual affair.
+
+We require to add, however, that after his death, its publication stopped abruptly. Three editions were published, indeed, in 1565, and another in 1566; but then the series comes to
+an end. Only a single edition was published in the seventeenth
+century (1609), until as it drew near its close a French pastor at
+Bremen, Charles Icard by name, began the publication of a new
+French version, or, perhaps we should rather say, a renewed French
+version. f The first Book of this new version appeared in 1696,
+the second in 1697, the whole not until 1713, in a fine folio; it was
+reprinted at Geneva in three octavo volumes in 1818. The publication of Icard’s version in 1713 alone, however, breaks the
+barrenness of the eighteenth century. And the nineteenth has
+only a little better record. Icard’s version was reissued, as
+we have seen, in 1818. The French Institutes was, of course,
+given a place, and that in the best of forms for the student,
+in the great Brunswick edition of Calvin’s Opera prepared by
+
+* Compare Reuss, Calvim Opera, iii, xxv: “The Reformers had very strong motives for
+writing in the language of the people, or, at least, for having their works, written in defense
+of the cause they had embraced, translated into it. If the learned and men of letters could
+be gained only by speaking the language most familiar to them, another medium was
+necessary for reaching the masses, for taking hold upon the middle classes already
+filled with a desire for instruction, for the satisfaction of the religious needs which
+contemporary society had begun to feel more and more generally. To attain this end
+the Reformers chose at once the surest and the most legitimate means, — instruction by
+the living word and by the written word in the common speech. Thus they became,
+without the least purely literary intention, the fathers and creators of the modern language, in all the lands where the religious reformation took root.”
+
++ The anonymous editor of the Meyrueis edition, 1859, writes: “In 1696 Charles
+Icard, pastor at Bremen, published the two first books, and completed the work in
+1713, dedicating the work to the King of Prussia. Icard had the unhappy idea of
+wishing to retouch {rajeunir) Calvin’s style, and yet it is this edition which was reprinted at Geneva, in 1818, 3 vols., 8vo.” It should be borne in mind, however, that
+Calvin is only in a very remote degree responsible for the French style of the completed
+Institutes.
+
+XXII
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+the Strasburg theologians, Baum, Cunitz and Reuss (1865).
+But of hand editions for popular use, there seem to have been
+only three issues in the nineteenth century. The earliest of
+these, in two handsome octavo volumes, was printed at Paris
+by Charles Meyrueis and Company in 1859, with an interesting
+Introduction.* It has especial claims upon our attention, as it
+was frankly published not so much to meet a demand as to
+fulfill a duty of love, and partly by the aid of an appropriation
+for the purpose voted by “the Presbyterian Committee of
+Publication at Philadelphia.”! In 1888 a new edition in two
+octavo volumes was published at Geneva, “revised and corrected from the edition of 1560 by Frank Baumgartner;” and
+later this has been placed on the market compacted into a
+single large volume. |
+
+Of course, it is possible, or rather altogether likely, that the
+early editions of the French Institutes, which followed one another
+so rapidly, were small editions, while the modern editions
+have been large editions. There may be less disparity in
+the number of copies issued in the nineteenth century as compared with the sixteenth, than in the number of editions. But,
+after all allowances of this sort are made, the appearance remains
+strong that Calvin’s theology has found fewer eager readers
+among his compatriots — whether in France or Geneva — in
+the nineteenth than it did in the sixteenth century. Calvin’s
+theology, we say, not Calvin’s French; for we must bear in
+mind, as we have already pointed out, that the French of the
+Institutes as it has been circulated since 1560 is not Calvin’s.
+There can confidently be attributed to Calvin himself only the
+French of the first French edition of 1541. § As the book grew
+
+* Institution de la Religion Chrestienne, nouvellement mise en quatre livrea: et
+distingu^e par chapitres, en ordre et m^thode bien propre: augments aussi de tel
+accroissement qu’on la peut presque estimer un livre nouveau. Par Jehan Calvin.
+Nous avons aussi ajoust6 deux indices, l’un des matiferes principales; l’autre, des passages de l’Escriture, exposez en icelle, recueillis par A. Marlorat. Paris: Librarie de
+Ch. Meyrueis et Compagnie, Rue de Rivoli 174, 1859, 2 vols., 8vo. The publisher
+tells us, p. ii, that in the preparation of this edition, designed to be, in a sense, the
+definitive edition for the nineteenth century, no pains were spared to secure accuracy
+of text: “One has no idea,” he remarks, “of the inaccuracy of the old editions. The
+one we have selected for copy, the best” [he unfortunately does not tell us which he
+selected], “was nevertheless crowded (criblde) with errors; errors of printing, erroneous
+citations, erroneous references to passages, inaccuracies of all kinds. To give only one
+example, in about four thousand citations of the Scriptures which have been verified,
+about a thousand have been found inexact and have been corrected ”
+
+t P. i : “Without the aid long generously afforded by the Presbyterian Committee of
+Publication at Philadelphia it would have been impossible to undertake and to
+bring to a happy ending the work ” of republishing Calvin’s Commentaries and Institutes.
+
+t Nouvelle Edition, revue sur cette de 1560, par Frank Baumgartner. Preface de
+L. Durand, prof. Un vol. gr. in 8vo, imprim6 sur deux colonnes avec caracteres
+neufs.
+
+§ Reuss ( Calvini Opera, iii, xxi) remarks: “Only the first French edition of the
+Institutes” was translated by Calvin himself; and again (xxv), “We have reached
+the result that there can be attributed to the author himself with entire confidence,
+only the first reduction of the French text, as it appeared in 1541; perhaps also the remarkable and altogether exceptional fragment of the earlier chapters of the last
+edition published in 1560.”
+
+calyin’s french style xxiii
+
+under his hand, the French text grew pari passu with the Latin
+text, but the rendering of the successive additions may quite
+possibly have been left to the labors of others. And this may be
+one of the reasons why, when the definitive Latin edition was
+published in 1559, Calvin, as we have seen, began to make
+an entirely new French version of it. Had he completed this
+new version, no doubt his place in the history of French letters
+and in the development of the French language might have
+been much more distinguished than it is. For not only was the
+Institutes of 1559-1560 a greater book than the Institutes of
+1539-1541, — more thoroughly worked out, more symmetrically
+developed, more finely ordered, — but Calvin had in the course
+of the intervening twenty years been steadily perfecting his
+French style and purifying his French vocabulary.*
+
+Even on the basis of the French Institutes of 1541 alone, however, Calvin takes his place in the first rank of French prose
+writers. f The Institutes of Calvin, says M. Ferdinand Brunetiere, J
+is “ one of the great books of French prose, and the first, in point
+of time, of which we can say that the proportions, the arrangement, and the construction are monumental;” in a word, it is
+“the first of our books which we can call classic.” This position
+it achieves, he suggests, by virtue of the greatness of its conception, the dignity of its plan, the unity of its treatment, the
+close concatenation of its thought, its rhetorical grace, the
+sustained gravity of its style, rising even to majesty, and the
+
+* Cf. what is said by A. Bossert, Calvin, 1906, pp. 211 sq “Calvin sought above
+everything to persuade, but he was no stranger to the effort to speak well, although
+this effort is less apparent in the discourses taken down from his lips than in the words
+written by his hand or from his dictation. If he observed the excellencies of the style
+of others, why should he disdain them for himself? In the midst of his multiplied
+labors he yet found time to correct his Institutes from edition to edition, in order to keep
+up with the progress of the language. A detailed comparison of the editions of 1541
+and 1560 would be an interesting contribution to the history of the French language in
+the sixteenth century. It would, of course, be necessary to take account, in the comparison, only of the earlier pages of the edition of 1560 which alone were prepared by him.
+The corrections that Calvin made in his text consist especially in replacing a Latin
+word or turn of speech by a French equivalent. All have not been sanctioned by usage,
+not all indeed are felicitous; but the principle which dictated them is worthy of remark.”
+Bossert gives a brief list of variations in language between the editions of 1541
+and 1560, which well illustrate his remarks. We may be pardoned for reminding
+ourselves, however, that too little of the French of the edition of 1560 is Calvin’s to
+justify the expectations which Bossert cherishes from a detailed comparison of
+the editions.
+
+t The “Bibliophile Jacob” (Paul Lacroix) in 1842, regretting that Calvin’s French
+works (as distinguished from those translated into French, often by the hands of others)
+were inaccessible, undertook to bring the chief of them together in a single small
+volume: (Euvrres Francoises de J. Calvin, recuellies pour la premiere fois." The Institutes — “that master-work of theological science, religious philosophy and style” — is
+omitted from this collection, because of its bulk, — “although it contains the best
+pages of French which Calvin wrote in different varieties of dialectic.”
+
+X L’QEuvre Litteraire de Calvin, in the Revue des Deux Mondes for Oct. 15, 1900
+(898--923); E. T., The Presbyterian and Reformed Review, July, 1901 (xii, 392-414).
+On Calvin’s place in the history of French literature Reuss speaks with notable
+caution ( Calvini Opera, iii, xxiii-xxv): but even he remarks that he “is justly regarded
+as one of the best French writers of his time and his Institutes as one of the greatest
+monuments of French prose of that age.”
+
+XXIV
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+purity of its language. To dwell only on the last-mentioned
+quality, in the purity of his French style Calvin was far in advance of his age. A Latinist of the severest taste, instead of
+carrying over his Latin into his French, as did most of the writers
+of the day, he carried over instead the purity of his taste.
+
+“In the schools of that time,” writes A. Bossert,* “either a barbarous
+Latin was spoken, or an unpolished French, or a mixture of the two, the
+type of which is given by Rabelais in the speeches of Janotus demanding
+in the name of the Parisians the restoration of the bells of Notre Dame.
+Those who wished to speak the mother-tongue correctly, affected to use
+only Frenchified Latin words, or as Olivetan puts it, ‘obscure and unaccustomed barbarous terms, which are peeled off from the Latin.’ Calvin
+writes in turn and with equal facility in Latin and in French, in Latin
+when he addresses himself to the learned, or the theologians, in French
+when he wishes to be read by all the world. But he keeps the two
+languages rigorously apart; he does not permit one to encroach on the
+
+other . The French prose of his day, when it was applied
+
+to serious subjects, was modeled on the Latin period, and was naturally
+filled with Latin words of which it only gradually freed itself. Calvin,
+so pure a Latinist when he wrote in Latin, is in his French style the
+least Latinizing of the great prose writers of the Renaissance. Much
+more than his contemporary Rabelais, more even than Montaigne, who
+came forty years later, he approaches the prose of the seventeenth
+century. From the point of view of the development of the language,
+he rises out of the chronological sequence and takes his place immediately
+before Pascal.”!-
+
+IV
+
+The French version, although addressed to a popular audience,
+had the disadvantage of appealing only to a single nationality.
+After all, the real extension of the influence of the Institutes
+lay in the hands of the Latin original, which made its appeal to
+every educated circle in the civilized world. Wings were given
+to it by the nobility of its form and the unwonted elegance of
+its language. For Calvin’s Latin is as fine in its way as his
+French; and the Latin Institutes, too, deserves to be called a
+classic. Scaliger speaks of it as almost too good in its Latinity
+for a theologian; J and, indeed, its Latinity is not that of a theologian, but that of a humanist. Modeled, as all of the Latin of
+the day was, on Cicero, its basis is the Ciceronian period; but the
+Ciceronian period appears in it emancipated from its too carefully calculated balance, and given a new rapidity of movement
+
+* Calvin, pp. 201, 213.
+
+t A. M. Fairbairn, The Cambridge Modern History, ii, 376, may be compared. For
+the literature of the subject see A. Erichson, Bibliographia Calviniana, 1900, pp. 136-138,
+and cf. the short list in The Cambridge Modern History, ii, 783. Paul Lacroix opens the
+preface to his collection of Calvin’s French writings with a striking paragraph in which
+he seeks to bring out the precise characteristics of Calvin’s French style in comparison with that of Rabelais, Amyott and Montaigne.
+
+t Prima Scaligeriana, etc., Groningen, 1669, p. 39: Calvinus, solidus theologus et
+doctus, styli sat purgati et elegantioris quam theologum deceat.
+
+GREAT DEMAND FOR LATIN INSTITUTES
+
+XXV
+
+and an energetic brevity to which all superfluity of words is
+alien. “To say that the language of Calvin is clear, sharp,
+precise, is not enough,” remarks Bossert,* “it is striking
+and expressive; it abounds in original turns and happy forms.”
+
+The demand for the book seems to have been from the first
+very large. Perhaps edition did not follow edition with quite
+the same rapidity as was the case with the French version, but
+the difference is not great, the editions were themselves, no
+doubt, larger — at least more copies of the Latin editions have
+survived until our day — and they continued to be published
+after the publication of the French version had ceased. Ten or
+twelve editions were issued in Calvin's lifetime,! the most
+beautiful of which were those of 1553 and 1559 from the press of
+Robert Stevens; and although his death did not cause a temporarily increased demand for them to spring up as it apparently
+did for the French — of which there were published no less than
+three editions in 1565 and another in 1566 — yet they went
+steadily on: 1568, 1569, 1576 (twice), 1577, 1585, 1586, 1590,
+1592 (twice), 1602, 1607, 1609, 1612, 1617, 1618, 1637,
+
+1654, 1667 — quite to the middle of the seventeenth century.
+We are struck, as we look over the list, by the completeness
+with which the Genevan presses monopolized the supply of the
+world. The first edition (1536) was, of course, printed at Basle,
+where Calvin had found refuge in his flight from France; and
+the second, third and fourth (1539, 1543, 1545) were printed
+at Strasburg, whither Calvin had retired when driven from
+Geneva in 1538. But by 1550 the Institutes had come back to
+Geneva with Calvin and they had come to stay. One subsequent edition was printed at Strasburg (1561), but except that,
+none during Calvin’s life were printed elsewhere than at Geneva
+(six editions). After his death, Geneva still remained the center
+whence the Institutes issued. Three editions were soon to be
+printed at Lausanne (1576, 1577, 1586); otherwise the whole
+series up to 1637, fifteen in all, was printed at Geneva — with one
+exception. This single exception interests us very much, for
+it is the only edition of the Institutes in Latin which has ever
+been printed on English-speaking soil. It was issued at London
+in 1576 from the printing house of Thomas Vautrollier, a learned
+
+* A. Bossert, Calvin, Paris, 1906, p. 209; cf. p. 201.
+
+t W’hen Reuss says ten, he is omitting from the enumeration the variant form
+of the edition of 1539 which bears “Alcuin” instead of “Calvin” on the title-page;
+and the variant form of the edition of 1554, which bears no imprint on the title-page. A
+facsimile of the title-page of the edition of 1539 “Auctore Alcuino,” may be seen in
+Beveridge, vol. i, ad init.
+
+XXVI
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+Huguenot who had come to England from Paris or Rouen,
+and with many vicissitudes, in London or in Edinburgh, now
+basking in the royal favor, now suffering under the inquisition
+of the Star Chamber, carried on the printer’s trade until his
+death, somewhere about 1587.* The last edition printed in
+Geneva came from the press in 1637. From that day to this,
+no edition of the Latin Institutes has been published on the
+scene of the author’s life-work, where also the book was given
+its final form and sent out appropriately clothed in the splendid
+typography of Robert Stevens. From that day, to be sure,
+the Latin Institutes has been printed anywhere but seldom. In
+1654 the splendid Elzevir edition appeared and this was reprinted in the ninth volume of the fine Amsterdam edition of
+Calvin’s works (1667). After that no further editions were
+issued until the nineteenth century, when (1834, reprinted
+1846) Tholuck published his admirable hand-edition which has
+supplied readers ever since. Last of all, in 1863-4, the great critical
+edition of Baum, Cunitz and Reuss, forming the first two volumes
+of their splendid edition of Calvin’s works, was published at
+Brunswick, reprinted in a separate issue in 1869.
+
+On the whole, Calvin’s Institutes has been given a worthy
+external presentment. Even the first edition, though it was the
+work of an unknown man, is a very pretty little book, — a little
+book, for, though it is an octavo in the folding of the sheets, the
+block of type (excluding headline and catch-word) measures
+only 2f by 4J inches. The type of the Epistola Nuncupatoria
+(pp. 5-41) is a really fine Roman; while that of the Institutes itself
+(pp. 42-514) is a sufficiently good italic, f The two fine folio
+editions published by Robert Stevens (the second Genevan edition,
+1553, and the definitive edition — the fourth Genevan — 1559) are
+among the notable specimens of the printer’s art. The former
+of these, Reuss praises as the most splendid of all, with its ample
+page, elegant type and wonderful accuracy in printing. But
+the latter is splendid enough worthily to close the career of the
+distinguished printer whose last work it was — for Robert Stevens
+died only a few days after this edition was finished. It is a beautiful folio, the block of type (exclusive of headline, there being no
+catch- word) measuring 5-f by 10f inches, printed in an elegant,
+bold Roman character, with the notes in the outer side-margin.
+
+* A sketch of Vautrollier (by'E. Irving Carlyle) is included in the (English) Dictionary of National Biography (edited by Sidney Lee), vol. lviii, p. 189, with references to
+further sources of information.
+
+t This use of italic type was introduced by Aldus, followed first by Colines.
+
+mnrcmiB/
+
+ibicntmav
+
+sdcvuJcijj
+
+’'.indicejn
+•S't.tnijm
+
+•aaccipctj
+
+uctimpof.
+inii cjujjj,
+'Ircuritjjj
+1 'Uiicnta,:
+
+rarfanium.
+
+in cmsvtr.;
+mplctotpe
+cipicndaa
+l.ituri Vtii
+ondidit.n
+
+pg MODO PF.RCIP. CHRIST! GRAT. 'ao*
+
+arceribusdcficiat.Denique afliducrenouandoSt inftaurando.facii Vi feipfafub.
+
+*ium!n -efcuerantiam vegetior emergat, Arqueomninoquotnomimbus ncceffaria Tint
+bfidu a<J fidemftabiiienJam.mdiuspatebit ficogitemiis qtiottcmationum formis
+0*’ BJBtur5; cDcntiantur qui ycrbum Dei ample’! i lout. Priniimt Domimrs,promt(Tioiin s Jifferedo, diutius farpe quam provotis noftris, fufpenfcfaoimi nos tenet, hie offi-
+^ aJ(Hpei,prs:ftarequcidiubetPropbcta: vt fimori illsrfcce»»ttt>cxpcdicmus tamrn.In-
+^Xni oo modb languere nos fmit.fcd apertammd ignatiooevh pr* lefen.bic (pern mui
+,a Ini fupeur rcrc necclTceft.quo.fccundu jlteriusProphetatdiaum.poflimus cxpcGarc hf,.t.d ,7.
+n raiuum.qui abiebderit faciem fitam a Iacob-Infiirgum etiam iilufiorcstqticniadmodii
+. pf(,uj)qui rogant, V-bi eft promtftio vel aduentus ciusiquado.ex quo pat res donnierur, t.p«
+
+^mnia & pcrfcucrant - 1> initio creatiouis. Imb cade hate nobis infafurr.it Caro & modus.
+
+Fit Mem Ipei tolcramu fuffulram, in i-rernnatiscomemplationedtfixamrctinciiopot- pfai.,3 , 4.
+,£tauoini|leannos,mftardici vmusreputet. ».
+
+Propter banc turn coniu&ioncm.tnm aftmitatem.Scriptura lntefdtmi Fidei & Spei vo-
+^ tabula coltfundit. Nam quurrt Petrus docet.virtute Dei nos per fide cuftodin vfqueadia- s.
+luiii rciielationemiquod ipei magis quadra bat fidei tribuicmcqueimmeritbiquandoum
+ioaiinius.iubil aliud Ipern efte quim fidei alitncmumSt robur. Inrerdum fiinu! iungun -
+eur.fi cut i eadcmcpillola , quo fi ties veftraS: Ipcseffer m Deo. Paulus verb ad Philippenfes Hude-'d.it.
+eifpededucitexpcdiationcmiquiafperandopatiemer.yotanoftrafufpcndimus^oncc pa- i’wl'P-'c-|oi
+, ffjftafuerit Dei opporumitas. Quod to turn melius inrcltigcrc licet ex dec miocap.ad Hei>izos,quod iam ciiaui.PauJusalibi.quanuisirnpropricloquatur.hocipfum tamen intclJiait.his vcrbis,Nos fpiritg ex fide fpem iuftuitceitpediatnusitietr.pe quia Euigclii teftimo- Calat j.a tsisun degratuito aniorearoplexi , expefiamusdum pal am oftendat Deusqttod nunc fob
+1 1* (ft jblcoditum Nequeiam obfeurum eft quam mlolic Petrus Lombardiis duplex fpci
+flndatnentum iaciatjDei gratiatn,& operum mcritutn. Non huicaiius ftopus qnam fidei
+dltpoieft-fidei autem iam clariffimccxpofuimus vninimeffefcopum.Deimifencordia:
+joqua ytroque (vt ita Ioquar) oculo refpiccrc debeat. Scd opetaptctiu eftaulcultarc quam
+eiertProJ tiuidaaffcrat rations. Si quippu(inquit)iincmeriti« fprnre audeas, non fpes ilta.fcdpriefemptiodfccndj erit. Quis non meritb, amice Ic&or.talcs beftias cxecretur.quartcmerc &
+iWumptuofe fieri pronuntiant fiquis Dcuin veracern effc confidat: Nam qua Domtnut
+jjitfl r,6 a ftia boti itatr t x pedbri velit , prsrfumptionecrte dicut inca recumbcrcS acquicfccre.Omagiftru talibus dignumdifcipulisqualcsin infanisrabiilarufchoiisnafluscfU
+Jiios verb, quaudo vidcrous Deioracuiis iuberi peccatorcs fpem (alutis cocipetc, Iibenter
+titum pradiimamis dc veritatceius, vt fola eiusmifericordia freti.abiecta operum fiducia,
+tent fperareaudeamus. Non fallct ipfe, qui dixit, Secundum fidern veftram fiat vobis.
+
+Fide nos rtgenerari . vbi dcpocnitcntia. CAP. III.
+
+T S 1 iam aliquacx parte docuimus quomodofidcs Cbrifttim poffidcat.St
+per ipfam fruamurcius bonis: hoc tamen adhucobfcuru cflet mfi tffefluum
+V quosfemimus acccdcretcxplicatio. Nonabs re fumma Euangelii ftatuitur in poemtentia & re mifTione peccaiorum. Ergoduobus ilSisrapiribusnmift*is> iciunaS: mutila erit adebque propcinutilis qtwhlxt dc §de difpuralio. !am quum vtrunque nobis conferat Chriftus,& vtrunque fide confcquamur, Vita' fci-
+;kttnouitatrm,8! rcconctliationem gratuitamiratio Adoccndiferits poftuiat vt dc vrro.
+weboc locodiflerere incipiam. Proximusautcmii fide ad petnirenriatn tiobiserittranfij»i:quiahoccapiteprobecognitOjtncIiuspatcbit quomodo fola fide A mera vema iuftifi.
+Rwrboroo.nequc tamen agratuitaiuftitix imputationcfepareturreaiis(vr iu loquarjviufanftitas. Poenitcntuo) veto non modb fidem continuo fubfequi, fed ex ca nafci, extra
+tontroucifiameffc debet. Quumcnim vcnia& rcmiffio per Euangelii prardicanoncideo
+efferatur, yta tyranideSaranat.pecCati iugo, St miftra feruitu te vitiorum liberates peccaKnmrcgnum Dei trail featicertc Euangelii gratia tiemoamplcdii poteft quin ex erroribus
+nti priorismrcaamvumiertcipiat, totumque fuumftudium applicctad pcemtentia;
+Eediuiionem. Qinbut autem videtur fidem potius pratcedcre pocnitcntia quam abipfa
+sunare vef proferri .tanquam fruflus abarbore, nuquam vis eius fuse cognita.Sr nimium
+buiargumento ad id lentiendum moutntur.
+
+i Ckrtftusfinquiunt)*.’ Iohanncsin fuisconcionibus populura ad refipifeemia primum Maiib.pa.i. |
+knaotur:deindercgnumcatlorumappropinqua(fcfubiiciunt. Talcprxdicandi manda- a :• 1
+WDaccipiunt Apoftoliiulem ordioem fequutus eft Paulus.quemadinodum Lucas referr. Aa.io.d.m
+
+quoinat.1
+Fma r tpi
+t Scbobi.,
+icm folatS
+imoniuin(l
+
+•Nectflet.
+
+nifi peris,
+cdcritipfel
+!t illj.hu:
+peccataso:
+ritusfanat;
+•re.Verinsi
+iciat. j
+utiscomimiibtidi-:
+p(vt audit]
+c irrita tfSt
+fionesfua
+il aliud k
+i m versa j
+nobisdfe
+rnamers-j
+ntifpelSi eiutproiftincria
+i noftraa I
+nirmrft*
+rate dnbir
+icurfuau?
+
+Atquidumin fyllabarunicomcxtu fupetftitiofc baacm.nonanimaducmit quofenfu i..-
+irtfeyeibaiJla cobarreant. Nara dumin hunc raoduna concionatur Chrtftus Dorn in us St
+
+Definitive Edition of the Institutes— Specimen Page
+
+WIDE USE OF THE INSTITUTES
+
+XXVII
+
+Among the splendid editions of the Institutes must be mentioned
+also the great Leiden folio of 1654, which gathered into itself
+all the adventitious matter that — chiefly in the form of indices
+and arguments — had grown up gradually around the Institutes
+as aids to its more ready use, evidently intending itself to stand
+as the final edition of the book. This indeed it, in fact, remained
+for a hundred and sixty-seven years. The Institutes in the
+Amsterdam Opera of 1667 is a literal reprint of it — reproducing
+even its “admonition to the reader, about this edition’7 (but
+omitting Beza’s life of Calvin which also is found in ed. 1654) —
+and no other edition was published until Tholuck’s handedition appeared in 1834. This great Leiden edition was the
+work of the famous printers, John and Daniel Elzevir, but it
+occurs also with no less than five other imprints, only the titlepage being changed and the dedication to Professor Heidanus
+omitted. The explanation of this odd circumstance is that it
+was a custom of the times to issue portions of an edition in the
+names of the several booksellers who handled it. Thus this noble
+edition was sent out not only in the name of its real printers, but
+also severally in those of Adrianus Wijngaerden, David Lopez de
+Haro, Franciscus Haack, Petrus Leffen, and Franciscus Moyard.*
+
+There are few modern books which have received the honor of
+having had expended upon them all the art of two such printers as Stevens and Elzevir. And they merely stand at the head
+of a list which includes with them many another printer of
+note, f
+
+V
+
+Calvin intended the Institutes (in its later form) as a textbook in theology. It quickly took its place as such, not only
+among the students at Geneva, but throughout the Reformed
+world. Francis Junius, in commending it to his pupils at
+Leiden, used to tell them that he himself had devoted two
+entire years to its study 4 Kaspar Olevianus at Heidelberg
+and Herborn based his theological lectures upon it, going over
+
+* Cf. C. Sepp, Von de Letterkundige Geschiedenis van Calvijn’s Institutio in Godgeleerde Bijdragen, xlii (1858), p. 865. Reuss says he possessed also copies of the
+Mill-Kuster New Testament, 1710, with a like variety of imprints — from Amsterdam,
+Rotterdam, Leiden.
+
+f On the printers of Calvin see Appendix No. XV, in the first volume of Doumergue,
+Jean Calvin (pp. 596-008).
+
+t Schultingh, in his exaggerating way, declares that everybody in Holland, clerical and
+lay, down to the very laborer (usque ad infimum aurigamet nautam), was deeply versed
+in “the Calvinian theology,” studying the Institutes day and night, and deciding all
+controversies from it as if it were a treasure fallen from heaven.
+
+XXV111
+
+LITERARY HISTORY OF CALVIN S INSTITUTES
+
+one book each year and thus completing the course in four years.
+What Olevianus was doing in Germany the professors at both
+Oxford and Cambridge were doing in England. A no doubt
+somewhat hysterical Jesuit observer of the day, himself not
+altogether insensible to the excellences of the book, complains
+that prelections on the Institutes constituted the fundamental
+training in theology at both universities.* Even in far-away
+Hungary it was serving a similar purpose. It was by reading the
+first edition (1536) of the Institutes that Mathias Biro of Devaf
+was brought to the acceptance of the Reformed faith, and his
+summary of Christian doctrine — “A Short Explanation of the
+Ten Commandments, the Creed, the Lord’s Prayer, and the
+Seals of the Creed,” — the first doctrinal treatise, written in
+Hungary (1538), seems to have been at least inspired by the Institutes; while the Catechism of the protagonist of the Reformed
+faith of the next generation, Peter Juhasz — or as he Graecised his
+name, Peter Melius,} — published in 1562 (ed. 2, 1569) as a textbook for the use of schools, was expressly modeled upon and
+even drawn from the Institutes .§
+
+If we may look upon Juhasz ’s Catechism as a sort of abridgment of the Institutes , it provides us with the earliest example
+of a type of literature which, in the interests of sound instruction
+in the fundamentals of religion, soon became quite common. Unless, indeed, we prefer to consider as the first abridgment of
+the Institutes Calvin’s own earliest Catechism , so-called, which
+was published in its French form in 1537 and in its Latin form
+
+* “The books of the Institutes are so highly valued in England that exact English
+versions of them are kept in the several churches for reading, and in both universities
+there, when the philosophical course is finished, prelections on them are above everything
+else given to the future theologians” (Schultingh). “What wonder,” asks the high-church
+historian H. O. Wakefield with similar regret ( An Introduction to the History of the
+Church of England, 1896, p. 330) — “what wonder was it, when all was vague and indeterminate, when learning was depressed and libraries destroyed, that men eagerly turned
+to the one Protestant treatise which contained a logical and simple system of theology,
+and that the Institutes of Calvin became the acknowledged text-book of the English
+universities, the mould in which the religious opinions of the English clergy for half a
+century were formed?” Cf. W. Walker, John Calvin, p. 391. Nelson in his Life of Dr.
+George Bull (London, 1713) tells how, in the decadence in the later seventeenth century, Calvin’s Institutes gave way in the universities to Episcopius’.
+
+t For him see Bod, Historia Hungararum Ecclesiastica, Leiden, 1888, i, 237 sq.
+Prof. Francis Balogh says: “The Institutes, the fundamental work of Calvin, produced
+in Hungary as everywhere else a great effect on the mind. It caught D£va and he
+became the first Apostle of the Helvetic Reformation” ( History of the Reformed Church
+of Hungary, §11 in The Reformed Church Review, July, 1906, p. 311). Huszdr Gal wrote
+to Bullinger, Oct. 26, 1557, “Domini Johannis Calvini scripta plurismum imitantur.’’
+
+X For him see Bod, as cited, p. 256-7.
+
+§ The book is an 8vo of 9£ sheets, containing 76 unnumbered leaves, having the
+following title: Catekismus. Az Egdsz Keresztieni tudomannac fundamentoma
+es sommaja a szent irasbol ezue szedettetett, es megemendaltott. Calvinus Janus irassa
+szerint. Az Somogi Melius Petertol. Jaroljatoc en hozzam fiaim, hallgassatok engemet, az Urnak felelmere tanitlac en titeket. Psal. 34. Dobroczonbe MDLXII. That
+is to say: Catechism. Outline and Sum of the Whole Christian Knowledge from Holy
+Scripture, collected and emended. After the writings of John Calvin. By Peter
+Melius of Somogy. “Come, ye children, hearken unto me; I will teach you the fear
+of the Lord,” Psalm 34. Debreczen, MDLXII.
+
+ABBREVIATIONS OF THE INSTITUTES
+
+XXIX
+
+in 1538, to serve as a “book of instruction ” for the infant church
+of Geneva. The first professed abridgment of the Institutes,
+formally set forth as such, was probably, however, the Institutionis Christiance Religionis a Jo. Calvino Conscriptce Compendium by Edmund Bunney,* published at London by the
+Huguenot printer Vautrollier in 1579 and reprinted at Antwerp
+in 1582, and in an English translation in 1580, as follows:
+Edm. Bunnie, his abridgment of Calvin’s Institutes, translated by
+Edw. May : London, For William Norton, 1580. f This abridgment was, however, very soon superceded by another, also of
+English origin. This was the Institutionis Christiance Religionis a Joanne Calvino conscriptce Epitome, in qua adversariorum objectionibus responsiones annotantur, per G. Launceum, London, Vautrollerius, 1583, reprinted in 1584. The
+author, Guillaume Delaune,J was a learned pastor of the French
+church in London, and his book was printed by the learned
+Huguenot printer, Vautrollier. As Delaune’s object was to
+make the contents of the Institutes accessible to wider circles than
+would or could approach it in its original form, he was very
+eager to have his abridgment put into English, a task which he
+could not himself undertake as he was not “thoroughly acquainted with our language.” It was, therefore, distributed
+into four hands to do the translating; but in the end the whole
+was rendered into English by Christopher Fetherstone, and
+published as An Abridgment of the Institution of Christian
+Religion written by M. Jhon Calvin. By William Lawne, Minister of the Word of God. Faithfully translated out of Latine into
+English by Christopher Fetherstone, Minister of the Word of God.
+Edinburgh: Thomas Vautrollier, 1585 (8vo., pp. [32], 398 [30]).
+New editions of this English version were issued in 1686 and
+1687 : it was even revived in the nineteenth century and republished by different printers in 1837, 1853, and in an undated
+edition. Delaune stood in close relations with Holland and had
+been vainly sought as a professor at Leiden. It is not surprising, therefore, that a Dutch version of his book was published
+in 1594, § the work of Joris (i. e., George) de Raedt, pastor of the
+
+* An account of Edmund Bunney, with references to sources of information, is given
+in the (English) Dictionary of National Biography, vii, 271-2.
+
+t “ This abridgment of Calvin’s Institutes,” we read in the article on Bunney in the
+Diet, of Nat. Biog. just cited, “ was translated into English by Edward May, 1580,
+8vo, but had not so much vogue as the abridgment by William Lawne, 1584, translated
+by 0. Fetherstone, 1585.”
+
+t See the notice of him in the (English) Dictionary of National Biography, xiv, 315.
+sub nom. “Delaune, William.” Further references are given at the end of the article.
+
+§ Institutie ofte onderwijsinghe in de Christelijke religie, uittreksel door G. Delaunay. vert, door Joris de Raed. Amsterdam, 8 min.
+
+XXX
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+Hoedekenskerke in South Beveland, which was reprinted in 1611,
+1650, 1739, 1837. Almost contemporaneously with Delaune’s
+book (1586) Olevianus issued at Herborn his own Institutions
+religionis Christiana epitome ex Institutiones Joh. Calvini
+excerpta to serve as a succinct handbook for his students*; and
+there appeared at the same place, the same year, the German
+Summa der wahren christlichen Religion. At about the same
+time must have appeared also the first issue of Johannes Piscator’s
+Aphorismi doctrince Christiania maximum portem ex Institutioiie
+Calvini excerpti, the earliest edition of which listed by Steubing
+was printed at Herborn in 1589, and the earliest edition of
+which listed by Erichson not until 1605.f Three editions of it
+at any rate had already appeared when Henry Holland { in 1596
+issued his English version of it, Aphorismes of Christian religion
+or a verie compendious abridgement of M. J. Calvin’s Institutions,
+set forth in short sentences methodically by M. J. Piscator, and now
+engleshed according to the author’s third and last edition, (London,
+Field, 1596). A new edition of this version, to which was
+added Calvin’s “ letter to Francis I in defense of the Reformation” was published at London as late as 1844. Possibly,
+the little book in German which appeared at Herborn in 1600
+may also be connected with Piscator’s Aphorisms, Kurtzer Bericht
+von den filrnembsten Artikeln der wahren Christlichen Religion,
+auss den vier Bilchern der Institution J. Calvini in ein Buchlein
+zusamen gezogen. It is a new book, however, which Joh. Jezler,
+Rector and Pastor at Schafhausen, published in 1610 under
+the title, Schediasmus succinctus lemmatibus universum complectens Christianismum, desumpta ex solida Joh. Calvini de
+Relig. Chr. Instit., quo sublevari potest non tarn memoria quarn
+intellectus earn legentium.
+
+The abridgments of the Institutes reach their culmination
+
+*Cf. J. H. Steubing, in Illgen’s Zeitschrift fur die historische Theologie, 1841, iv, pp.
+
+t Steubing (Illgen’s Zeitschrift fur die historische Theologie , 1841, iv, 132) gives the
+following editions: Herborn, 1589, 1592; Siegen, 1597; Herborn, 1599, 1600, 1611,
+1619, (= ed. 9); 1622, 1626, 1627. Erichson adds, Herborn, 1605, and Oxford, 1630.
+Holland tells us, however, that three editions had been published before 1596, and
+Bayle {sub nom. “Schultingius,” E. T., v. 86) says the book was first published in 1586.
+In 1622 Piscator published an expanded commentary on his Aphorisms; Johan. Piscatoris Exegesis, sire Explicatio, Aphorismorum Doctrinae Christiance (Herborn, 1622, reprinted 1650) at the end of which is printed a series of Tabellae, reducing the Aphorisms
+to tabular form. These Tabellae were prepared by Piscator’s son Philippus Ludovicus,
+who, in a Dedication to a friend, dated January 12, 1622, reminds him how, when they
+were studying theology together at Heidelberg, eight years before — that is in 1614 — he
+had privately studied “aphorismos locorum communicum, qui vocantur, h patre meo
+Joh. Piscatore ex Calvini Christiana institutione in certos ordines congestos,” and drawn
+up these tables. Piscator began his work at Herborn in 1584, and doubtless drew up
+these Aphorisms then; they were probably first printed in 1586.
+
+I For Holland see the (English) Dictionary of National Biography, xxvii, 140-1.
+His book was dedicated to Dr. Goodman, dean of Westminster.
+
+Colonius’ Abridgment of the INSTITUTES— Title Page
+
+Distvtat. Thioioc. ; ex Inst. C a t v i n. Lib. III. yjf
+
+i houtu obftrvatio, ne vickamut quafi 105. V. Vbi veropoftlongam ex(pe£tacionem
+
+Colonius’ Abridgment of the INSTITUTES— Specimen Page
+
+COLONIUS’ PARAPHRASE
+
+XXXI
+
+in the admirable Analysis Paraphrastica of Daniel Colonius,
+rector of the Walloon College at Leiden, which was published,
+first, in quarto in 1628,* and then in a beautiful duodecimo
+from the Elzevir press in 1636. Colonius was born at Metz
+in 1566 and died of the plague at Leiden in 1635: his daughter
+Sara (Van Ceulen) was married in 1625 to Bonaventura Elsevier
+who, with his nephew Abraham, was head of the Elzevir firm at
+the time of Colonius’ death, f The issue of this beautiful edition
+of his book the following year (1636) was thus apparently an
+act of pious commemoration of the dead author. In any event
+it affords as fine a specimen of the minute Elzevir typography
+as the edition of the Institutes of 1654 provides of the
+larger style, t The title-page' runs: Analysis Paraphrastica
+Institutionum Theologicarum Joh. Calvini , Disputationibus XLI
+contexta auctore Daniele Colonio. Lugd. Batavorum. Ex Officina
+Elzeveriana. Anno M DC XXXVI. Cum Privilegio (12mo.,
+pp. [8], 950). The text is apparently exactly reproduced from
+the edition of 1628. The dedication to Daniel Heinsius is repeated, as also the approbatio of the Faculty of Theology at
+Leiden signed by Polyander as dean pro-tempore, and dated
+the 6 July, 1628. The character of the work itself is very well
+described by its title: it is an excellent paraphrastic analysis
+of the Institutes, and well adapted, to aid the student in mastering
+the contents of the great work, to study which day and night
+Colonius advises him in some verses inscribed, In Calvini Institutions :
+
+Aureus hie liber est, hunc tu studiosa ju vent us,
+
+Si cupis optatam studiorum attingere metam,
+
+Noctes atque dies in succum verte legendo.
+
+It was not for two hundred years after the publication of
+Colonius’ Paraphrastic Analysis that a fresh attempt was
+made to set forth the gist of the Institutes in condensed form.
+H. P. Kalthoffs’ Christliche Unterweisung in einem kernhaften
+Auszug, however, was published at Elberfeld in 1828, and was
+reprinted in 1858 (Barmen) under the title: Catichismus der
+Christlichen Lehre. In 1837 there appeared in London, Christian
+Theology, selected and systematically arranged by Samuel Dunn;
+reprinted in 1843 and translated into Welsh in 1840: Duwinyd-
+
+* This edition seems to be very rare. There is a copy of it in the Bodleian Library
+at Oxford ( Catalog . libr. Impr. Bibl. Bodleiancn [1845], i, p. 578).
+
+*j* See Sepp, Godgeleerde Bijdragen, vol. xliii (1869), p. 485, note 1.
+
+t Cf. Ch. Pieters, Annales de I’Imprimerie Elseverienne, p. 95: “This edition is printed
+with great care and is in one of the prettiest of the Elzevirs, though it is omitted in a
+great number of catalogues.”
+
+XXX11
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+diaeth Cristonogol, a ysgrifenwyd yn ureiddiol gan J. Calvin. . . . .
+gan S. Dunn ac a gymreigiwyd gan Evan Meredith ( levan Grygg).
+Crughywel, Williams. In 1903 there appeared from the printing house of J. H. Kok, Kampen, Calvijn’s Institutie of onderwijzing in den Christlijken Godsdienst. Ein uittreksel door G.
+Elzenga. These are the latest abridgments of the Institutes
+which have met our eye.
+
+VI
+
+The object of the abridgments of the Institutes was to
+bring the contents of the book within the reach of wider
+circles of students; and the zeal with which vernacular versions
+of these abridgments were published — in German, Dutch,
+most numerously in English, even in Welsh — bears witness to
+the eagerness with which the Institutes was sought by a constituency to which Latin was, at best, a difficult medium. The
+important task of diffusing the knowledge of the Institutes among
+this class of readers was not left, however, to versions of abridgments of it alone. The book itself was fortunate in securing
+translation almost at once into most of the languages of Europe.*
+And, we may add, it was fortunate in the translators it secured.
+Translations are not ordinarily undertaken by men of high
+powers of original expression. Such a task is usually left to
+literary talents of distinctly the second rank. Only when
+some other and deeper impulse than a literary one is present
+do men of great gifts of expression turn to such work. This
+deeper impulse was in operation in the case of the Institutes. Its
+earlier translators were all men of mark, seriously engaged in
+propagating the truths to which the Institutes gave such uniquely
+attractive expression; and their versions were not mere mechanical pieces of work but were informed with vitality and gave the
+book a place, therefore, in the literatures of the several tongues
+into which they transfused it.
+
+These translations, we have said, began very early. The
+Italian version, indeed, did not wait even for the definitive
+edition of the Institutes (1559), but (depending mainly on the
+French) appeared as early as 1557. It was the work of Giulio
+Csesare Paschali, an excellent poet, who subsequently (1592)
+
+* These translations are, of course, enumerated in A. Erichson’s Bibliographia
+Calviniana, in vol. lix of the Brunswick ed. of Calvini Opera and, with additions, separately printed, Berlin, 1900. See also the lists in Haag, La France Protestante, iii,
+553, and Henry, Leben Calvins, iii, 185. When Stahelin, Johannes Calvin, i, 59, says:
+“It has been translated into all the languages of Europe, as well as into Arabic, if the
+notices of the Bibliographers are accurate,” the exaggeration is pardonable.
+
+EARLY VERSIONS OF THE INSTITUTES
+
+XXX111
+
+published a metrical Italian version of the Psalms.* It was
+introduced by a dedicatory letter addressed to Galeazzo Caraccioli, Marquis of Vico, one of the band of nobles who formed
+the nucleus of the Protestant church at Naples, f So soon,
+however, as the Institutes was completed and its definitive
+edition (1559) published, the rendering of it into the vernaculars
+of Europe began apace. The Dutch version was first in the
+field. In less than eighteen months after the publication of
+the definitive Latin edition (August, 1559) the Dutch version left
+the press (December 5, 1560, is the date of the preface), published
+in two forms, the one bearing no indication of place, but known to
+have been published at Emden, the other issued at Dort, by Verhaghen.J The translator signs his preface by the initials “ I. D.,”
+and seems otherwise unknown. Next in turn to the Dutch
+comes the English version (1561 and five times repeated before
+1600). It was the work of a very capable man, Thomas Norton
+(1532-1584), a ripe scholar, able jurist, wise statesman, ardent
+reformer and no mean poet, most generally known, doubtless,
+as co-author with his friend Thomas Sackville of The Tragedy
+of Gorbuduc, a piece which plays a part in the history of the
+English drama. § The theological faculty at Heidelberg gave
+its united care to the preparation of a German version, which
+was published at that place in 1572. In 1597 a Spanish version
+appeared from the pen of Cipriano de Valera, one of the most
+notable of the Spanish literary reformers, and the translator of
+the Spanish Bible which is still in use by Spanish-speaking Protestants. 1 1 A Bohemian version also was made before the end of
+
+* A brief account of him (by Escher) may be found in Ersch and Gruber, sub nom.
+(1840). The following is the notice in Bayle (English ed., London, 1737 sub nomine):
+“Paschali ( Giulio Coesare) was one of those Italians who left their country in the sixteenth century for the sake of the Protestant religion. He was a good poet in his
+mother-tongue, and published the Psalms in Italian verse at Geneva in the year 1592.
+He was then sixty-five years of age. He added to it a collection of Rime Spirituali,
+and the first canto of an epic poem entitled Universo. This poem was finished and contained in thirty-two cantos the whole history of Moses, from the creation of the world
+to the entry of the Israelites into the land of Canaan. I do not think he ought to be
+distinguished from the Giulio Coesare P. who caused to be printed at Geneva in 1557 in
+4to his Italian version of Calvin’s Institutes, and dedicated it to Galeas Carraciol, Marquis del Vico. The epistle dedicatory is dated from Geneva, the 4th of August, 1558.”
+Henry (Leben Calvins, Vol. iii, n. 185,) adds that his translation of the Institutes depends largely on the French and that he translated several others of the works of the
+Reformers into Italian — Viret’s and others. For the suspicions of his orthodoxy and
+other details, see F. Buisson, Sibastien Castellion, 1892, ii, 125, note.
+
+t See Herzog 3 (and The New S chaff -Herzog) sub nom. Also McCrie, Reformation in
+Italy, pp. 148 and 484; The Cambridge Modern History, ii, 387 sq.
+
+t The book is a small folio of 735 pages, two columns to the page. The Dedicatory
+Letter to Francis I is omitted on account of the great size of the book. Le Long in
+the Catalogue of his books indicates the place of publication as Emden.
+
+§ A full account is given of him (by Sidney Lee) in the (English) Dictionary of National Biography, vol. xli, sub nom.
+
+|| An account of Cipriano de Valera may be found in The Spanish Protestants and
+Their Persecution by Philip II, by Senor Don Adolfo de Castro, E. T., by T. Parker,
+London 1851, ch. xviii, (pp. 253-268). Also in C. A. Wilkens, Geschichte des spanischen
+Protestanlismus in xvi Jahrhundcrt, ed. 2, 1897, pp. 159-163, esp. 161 where other
+references are given. Cf. also McCrie, Reformation in Spain, Index.
+
+XXXIV
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+the century by the learned scholar and hymnologist Jink
+Strejc, or Georg Vetter in the Germanized form of his name
+(ordained priest in the Unitas Fratrum 1567, died 1599),* the
+manuscript of which is still preserved in the “ Mahrisches Landesarchiv” at Briino w. It was not printed, however, until early
+in the next century (1617, by Johann Opsimates) and then
+apparently only partially, (the first two books only).f To these
+versions was added in 1624 a Hungarian translation made by
+Albert Molnar “for the edification of the Hungarian nation in
+divine truth,” which recites on its title-page that the book had
+already been translated into “French, English, Dutch, Italian,
+German, Bohemian and other languages” — truly enough,
+if we may understand by the “ other languages” only the Spanish,
+which seems to be the only “other language” into which the
+Institutes had been rendered. A Greek version of the Institutes ,
+printed at Frankfort in 1618, has, indeed, been spoken of, and
+even an Arabic one;t but no copies of them seem to be accessible
+to attest their reality. § Later, in 1626, there was published
+a Polish translation, not indeed of the Institutes, but of a portion
+of it, — the portion of it which deals with the very controverted
+subject of the sacraments. This excerpt had been given separate publication in German at Heidelberg in 1572, and again at
+Neustadt a. d. Hardt in 1592: it was now rendered into Polish
+by Blastus Kmita and published at Lubeck. 1 1
+
+* For Strejc see E. De Schweinitz, History of the Unitas Fratrum, ed. 2, p. 411.
+For his Calvinism, see E . Charvdriat, Les Affaires Religieuses en Boheme au 16 me
+Siecle, 1886, pp. 237-8.
+
+f The book is a very rare one. There is a copy in the Royal Public Library at Dresden, a description of which has been kindly furnished by the Chief Librarian, Herr P.
+E. Richter, also by Dr. J. Th. Muller of Herrnhut. Another copy was in the possession
+of the late Lie. Theol. Fr. Sebesta, and is now owned by his son, Pastor John Sebesta.
+Jungmann, Historie literatury cezke, 2, wydany, W. Praze, 1849, iv, No. 1346, enters
+the book, and under No. 1894 mistakenly enters it again, giving as title the opening
+words of the preface. He seems to have had before him only the Dresden copy.
+This copy lacks the title-page of Book I. That of Book II remains and begins: “Skladu Welik^ho zbozj, Mandrosti Nebeslce,” and ends: “Ad. Jana Opsimatesa. W poslednjm neyhorssjm Weku.” That is: “The Great Treasure of Heavenly Wisdom . . . .
+Published by John Opsimates, In the last and worst age.” The general title of the
+book is generally given: “Knihy ctyry skladu velik^ho zbozi mandrosti nebesk^;”
+that is, “Four Books of the Great Treasure of Heavenly Wisdom,” and this may very
+likely have stood on the general title-page. It is without indication of place of publication or date, but it is confidently assigned to 1617. The paper measures 290 x 195 mm.;
+the printed space 215 x 150 mm.; the print is disposed in double columns. The
+translation is exact (from ed., 1559).
+
+t “Finally,” we read in Haag, La France Protestante, ed. 2, iii, 553, “it is said that
+the Institutes has been translated also into Bohemian, into Greek and even into Arabic.”
+
+§ Erichson, as cited, p. 68, says: “A Greek translation of the Institutes which Dorn
+in his Bihl. Theol. Crit., ii, 784, says was published at Frankfort on the Main, in 1618,
+exists in none of the libraries, whether in the West or the East to which I have access.”
+
+|| The titles of the Polish and German tracts alike may be seen in Erichson as cited,
+under their years. Among the portions of the Institutes published separately should
+be mentioned the chapters De preedestinatione et providentia Dei , De libertate Christiana, and De vita hominis christiani extracted by Crespin, the Genevan printer, in
+1550 from the edition of the Institutes published that year, followed in 1552 by a similar
+extract: Disputatio de cognitione hominis (Ch. ii of that edition). In 1594 an English
+translation by J. Shutte of the chapter on the Christian Life (Ch. xxi) was published
+under the title: “A Treatise of Christian Life.” In 1695 there appeared at AmsterFORTUNES OF THE VERSIONS
+
+XXXV
+
+The versions of the Institutes in the languages of southern
+Europe, which ultimately remained Catholic, naturally have
+only a brief history. It does not appear, for example, that the
+Italian version of 1557 was ever reissued. The Spanish version of 1597 also has apparently been reprinted only in 1858
+and that as “an antiquity ” — as part of the Reformistas antiguos
+espanoles issued by B. B. Wiffen and Luis de Usoz y Rio
+(XIV, 2 parts, Madrid, 8vo).* Evil fortune also followed the Bohemian translation. We have seen that, although from the hand of one of the most influential scholars
+of the Unitas Fratrum , a member of the executive council, and
+the author of a metrical version of the Psalms upon the model
+of Marot’s, Strejc’s version lay in manuscript for years and never
+was more than half printed. It was not until the end of the
+nineteenth century that a renewed attempt was made to provide
+the Bohemians with the Institutes in their own tongue; and
+this attempt met with a similar fate. The maker of the new version was Lie. Theol. Frantisek Sebesta, an author of note, who at
+the time of his death was pastor at Hustopec in Moravia. f Only
+two books of his version, however, were published (1890, 1895),
+his death (July 22, 1896) bringing his work to a sudden close
+as he was engaged on the third book.t The Hungarian version
+of 1624§ also has remained unreprinted until to-day. Its transdam, the Traite de la justification par J. Calvin, traduit du latin de son Institution par
+Jean de Labrune, and a new edition of this was issued in 1755. The significance of the
+extract on Predestination is adverted to by A. F. Mitchell, Baird Lecture on The Westminster Assembly, ed. 2, p. 519; of that on the Christian Life may be gathered from
+the remarks ofE. Doumergue, Princeton Theological Review, January, 1909, vii, i, p. 97;
+of that on the sacraments is obvious in view of the controversies of the time.
+
+* A description of this series, which extends to twenty volumes (the fourteenth of
+which contains the Institutes), is given by Wilkens in Brieger’s Zeitschrift fur Kirchengeschichte, ix, 341 (esp. pp. 370-372).
+
+t Frantisek Sebesta was born Dec. 14, 1844, at Klobouky, Moravia, and educated
+at the Gymnasium at Teschen, Silesia. For two years he acted as assistant to Kohlbriigge at Elberfeld; then he was pastor 1868-1880 at Mykolcice, in Moravia, where he
+organized the church; he repeated this at Hustopec in 1881 and remained pastor there
+till his death July 22, 1896, having in the meanwhile established stations at Breclav
+and Hodonin. His literary product was large; it included a History of the Christian
+Church, a Dogmatic for the House and School, a Life of Farel, and especially a
+metrical version of the Psalms.
+
+% The two parts were published separately (8vo pp. xx, 119 and 183) without Preface or Introduction. The title-page of the first part, which is a general title, runs as
+follows: “Johannis Calvini, theologi magni, Institutio ^Christianae Religionis. — Jana
+Kalvina, Bohoslovce velikdhovUcenl Ndbozenstvf Krestanskeho. Z jazyka Latinskdho prelozil Lie. Theol. F. Sebesta, Fardr Hustopeci. V. Pardubich. N&kladem
+Firmy F. Hoblik, 1890.”
+
+§ The Hungarian title is given with sufficient fullness by Erichson. It runs: “Instruction in the Christian Religion and True Faith, which John Calvin wrote in Latin .
+And afterward was translated into French, English, Dutch, Italian, Bohemian, and
+other languages; but now translated by Albert Molndr into the Hungarian tongue
+for the edification of the Hungarian nation in Divine Truth. Together with useful
+and complete Indices. Printed in Hanover at the expense of Daniel and David Anbrius and Kelemen Sleikius, 1624.” It is a 4to of 1538 pages with 24 pages of
+preliminary matter and at the end 17 unnumbered leaves of Index. It is dedicated
+to Prince Gabriel Bethlen.
+
+XXXVI
+
+LITERARY HISTORY OF CALVINGS INSTITUTES
+
+lator, Albert Molnar,* was one of the greatest scholars of his
+time, long resident in Germany where he served as professor
+in the school at Oppenheim. Like so many others of the early
+translators of the Institutes — Paschali, Norton, Strejc, — he was
+a poet and, indeed, gave (1607) the Hungarian church the version
+of the Psalms which continues in use up to to-day. His rendering of the Institutes remains one of the great monuments of Hungarian literature, but has, of course, long passed out of use. Nothing has come, however, to take its place, although there has
+lately (1903) been published, by the “Hungarian Protestant
+Literary Society,” at Budapest a version of the first edition of
+the Institutes (1536) by Charles Nagy, formerly professor in the
+Reformed Faculty at Kolozsvar, with the aid as revisers of
+Louis Eross, formerly professor at Debreczen, and Dr. George
+Bartok, Reformed Bishop of Transylvania, t This work was
+prepared in accordance with the commission of Domakos Szasz, Reformed Bishop of Transylvania, who set aside in 1898 a thousand
+florins for the purpose. Thus, the first edition of the Institutes
+has been rendered into Hungarian alone, with one exception, of
+vernacular languages. The exception is the German, not even
+the French having it in their own tongue. The German version
+bears this title: Joh. Calvins christliche Glaubenslehre nach der
+altesten Ausgabe vom Jahr 1536 zum erstenmal ins Deutsche iibersetzt von Bernhard Spiess (Wiesbaden, 1887, 8vo, pp. xvi, 432).
+
+A richer history has been wrought out by the Dutch, German
+and English Institutes.
+
+As we have noted the first Dutch version appeared in twin
+issues at Emden and Dort, as early as 1560, with no other indication of the personality of the translator than is supplied by
+the initials “ I. D.,” with which the preface is signed. Because
+of the great bulk of the book, the “ long epistle of Calvin to the
+King of France” was omitted from this edition, as from its
+repetition, Dort, 1566; it was inserted, however, in the new
+issue printed at Dort by C. Jans and P. Verhaghen in 1578, as
+was also Marolatus’ Index. The edition issued at Leiden by
+
+* Moln&r was born at Szencini in 1574, and is hence called Albert Molnar Scenczi.
+An account of him, enumerating his publications, may be seen in Bod, as cited, vol.
+ii, pp. 278-9. He was educated in Germany, particularly at Heidelberg. Besides his
+version of the Institutes and his translation of the Psalms, he busied himself with the
+version of the Hungarian Bible, that is to say the version of Kaspar Karolyi first published in 1590 and remaining till to-day in general use. Moln&r’s revisions were not
+very extensive, and his Bible was printed first at Hanover (1608) and then at Oppenheim (1612). Cf. F. Balogh in Herzog3, Art. Bxbelubersetzungen, No. 15 (p. 176 of the
+separate reprint, Urtext und U ebersetzungen der Bibel, 1897).
+
+t Kalvin JAnos, A. Keresztyen Vallds Alapvonalai (Institutio Religionis Christian®).
+Az 15C6-iki elso latin kiadds utdn. Forditotta Nagy Kdroly, ny. r. tandr a Kolozsvari
+ev. ref. theol. facolt&son. — Budapesten: 1903.
+
+THE DUTCH AND GERMAN VERSIONS
+
+XXXV11
+
+Jan Paetz Jacobsz. and Jan Bowwensz in 1596 is also a reprint
+of the version of 1560. At this point, however, a new hand
+comes in, that of Charles Agricola, a native apparently of Antwerp, — from which place he is at least registered as a student
+at Heidelberg in 1572 — and from 1592 to 1624 minister at Rijnsburg. His work seems to have been rather a revision of the
+earlier version than an entirely new translation. It was first
+issued by Paetz Jacobsz. and Bowwensz in a small folio of 286
+pages, double columns, in 1602. It contains as a kind of supplement to the Institutes also a Dutch version of Calvin’s Supplex
+exhortatio for a needed reformation, — a separate print of which
+seems to have been simultaneously issued. Agricola’s version
+was repeated, Rotterdam 1610, Dort, 1610, Amsterdam 1614,
+1617, Dort 1617, Amsterdam 1645. Then comes another change.
+In 1650 there appeared from the press of P. van Ravensteyn at
+Amsterdam a very noble Dutch edition of the Institutes , in folio,
+to which was added not merely the Supplex exhortatio but certain others of Calvin’s works; a fine portrait of Calvin engraved
+by Vischer formed the frontispiece. The version of the Institutes
+here printed was a new one from the hand of William Corsman,
+minister from 1622 to his death in 1646 at Baardwijk; and it
+is spoken of as of the highest quality both as a rendering of
+Calvin’s thought and for the purity and force of its handling of
+the Dutch language. It appears to have been reprinted in 1739;
+and certainly a new edition of it ,with a preface by Dr. A. Kuyper,
+— also a folio — was issued in 1889 by van Schenk Brill at Doesburg. Occasion was taken from the publication (in 1864) of
+the Institutes in the great Brunswick edition, to make yet another
+new translation, which was issued — the first part in 1865, the
+second in 1867, and the whole afresh in 1889-1891 — from the press
+of G. Ph. Zalsman at Kampen. The translation, we are told,
+was done “by Wyenberg, under the oversight of de Cock,”
+and it is described as very competently done.
+
+The German translation of the Institutes undertaken by the
+theologians of Heidelberg was first published, as we have seen,
+at Heidelberg (Meyer) in folio form, in 1572. It was reissued at
+the same place in 1582, in the same form; and then in quarto
+in 1597 at Hanau (Casar und Anthoni), and in 1608 at Heidelberg (Steinmeyer). As also has already been noted, there was
+simultaneously with the issue of the first edition (1572) published
+separately the portion of the Fourth Book containing Calvin’s
+doctrine of the sacraments; and several issues in German were
+
+XXXviii LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+made of abridgments of the Institutes. A modem German
+version by F. A. Krummacher, of Elberfeld, was begun in 1823,
+when the first two books were published at Elberfeld. The
+completed work was published in two octavo volumes in 1834.
+We have already noted the translation of the first edition of the
+Institutes (1536) into German, by B. Spiess (1887), — the first
+translation ever made of the first edition of the Institutes into
+a modern tongue.*
+
+VII
+
+We naturally feel a special interest in the English translations.
+The Institutes has been thrice translated into English: by
+Thomas Norton (1561, and often afterwards: London, 1562,
+1574, 1578, 1582, 1587, 1599, 1611, 1634; Glasgow, 1762),
+by John Allen (London, 1813, 3 vols.; 2nd ed., London, 1838,
+2 vols.; 3d ed., London, 1844, 2 vols.; 1st American edition,
+1816, 3 vols.; 6th Am. ed. n. d., but 1841-1842, 2 vols), and by
+Henry Beveridge (Edinburgh, 1845-6, 3 vols.; 2d ed., 1863,
+2 vols.). Besides these versions of the complete Institutes ,
+at least four abridgments of the Institutes have been printed
+in English: Edward May’s version of Edmund Bunney’s
+Compendium (1580) ; C. Fetherstone’s version of Laune’s Epitome
+(1585, 1586, 1587, 1600, 1837, 1853, n. d.); Henry Holland’s
+version of Piscator’s Aphorisms (1596, 1844); and S. Dunn’s
+Selection (1837).
+
+Norton’s translation of the whole work, early as it was, was
+yet almost preceded by a yet earlier one. A note from “The
+Printers to the Reders,” printed on the reverse of the title-page
+of the edition of 1561, which is identified as Norton’s only by
+the initials “T. N.” with which the last page of the book is
+signed, tells us of a previous translation which had been made,
+but was not published. Here is the note in full :
+
+“ Whereas some men haue thought and reported it to be a faulte and
+negligence in vs for that we haue so long kept backe from you this boke
+being so profitable a woorke for you, namely sithe maister John Dawes
+had translated it and deliuered it into our handes more than a twelvemoneth past: you shall understande for our excuse in that behalfe, that
+we could not well imprinte it soner. For we haue ben by diuerse necessarie causes constrayned with our earnest entreatance to procure an other
+frende of oures to translate it whole agayn. This translation, we trust,
+you shal well allow. For it hath not only ben faythfully done by the
+translater himself, but also hath ben wholly perused by such men, whose
+iugement and credit al the godly learned in Englande well knowe and
+
+* An article on “Die deutsche Ausgabe von Calvin’s Institutio,” by W. G. Goeters,
+which we have not seen, was printed in the Reformierte Kirchenzeitung for 1907 (XXX
+no. 29).
+
+j^THE'INSTITVTION of
+
+Chriftian Religion, vvrytten in Lai
+
+tine by maffter Ihon Caluin.and tranffa*
+ted into Englyfh according to the aiu >
+
+thorsiaft edition.
+
+Sfffl rfffc? allotted according to the order appointed in the
+Quenes mate flies injunctions.
+
+5*> Imprinted at London by
+
+Remolds 'JS'voljc <&• Richarde Marifon.
+Anno. I 5 6 J .
+
+Cum priuileofo ad imprimcndum fo!um.
+
+First Edition of the English Institutes— Title Page
+
+NORTON S ENGLISH VERSION
+
+XXXIX
+
+esteme. But sithe it is now come foorth, we pray you accept it, and use
+it. If any faultes have passed us by ouersight, we beseche you let us haue
+your patience, as you haue had our diligence.”
+
+The bare allusion we are given to it rouses our curiosity as to why
+Maister Dawes’ translation was set aside; certainly the Preface
+is a model document — it seems to take the reader into full
+confidence, and yet says nothing derogatory to any one.
+
+No one better fitted for the task of retranslating the book
+could easily have been found at any rate than Thomas Norton.
+His name appears for the first time on the title-page of the
+third edition, while to the fourth he prefixes a nobly written
+Preface — uT[homas] N[orton,] the Translator to the Reader” —
+in which is included an account of how he was led to translate
+the book, of the care he took to do a proper piece of work in the
+translating, and of the subsequent means adopted to perfect
+the printed text. After a brief account of Calvin and his purpose in the Institutes, the Preface continues :*
+
+“So great a iewel was meete to be made most beneficiall, that is to say,
+applied to most common vse. Therefore, in the very beginning of the
+Queenes Maiesties most blessed reigne, I translated it out of Latine into
+English, for the commoditie of the Church of Christ, at the speciall request
+of my deere friends of worthy memorie, Reginald Wolfe f and Edward
+Whitchurch, % the one her Maiesties Printer for the Hebrew, Greeke and
+Latin toongs, the other her Highnes Printer of the bookes of common
+praier. I performed my worke in the house of my said friend, Edward
+Whitchurch, a man well knowen of vpright hart and dealing, an ancient
+zealous Gospeller, as piaine and true a friend as euer I knew living, and
+as desirous to do any thing to common good, specially by the aduauncement of true religion.”
+
+He then explains why he chose the method of literal rather than
+of paraphrastic translation and continues:
+
+“In the doing hereof , I did not only trust mine ownewit or abilitie, but
+examined my whole doing from sentence to sentence throughout the whole
+booke with conference and ouerlooking of such learned men, as my translation being allowed by their iudgement, I did both satisfie mine owne conscience that I had done truly, and their approouing of it might be a good
+warrant to the reader, that nothing should herein be deliuered him but
+sound, vnmingled, and vncorrupted doctrine, euen in such sort as the
+author himselfe had first framed it. All that I wrote, the graue, learned
+and vertuous man M. David Whitehead § (whome I name with honorable
+remembrance) did among other, compare with the Latine, examining
+euery sentence throughout the whole booke.”
+
+The care taken to bring the text of the book in its new editions
+to greater correctness in the printing being next noted, the
+Preface concludes thus:
+
+* The quotations are made from the edition of 1599.
+
+t The printers of the first edition were “Reinolde Wolfe and Richarde Harison ”
+
+t Whitechurch, “the Calvinistic printer,” was Norton’s wife’s stepfather. Norton’s first wife was Margery, Archbishop Cranmer’s third daughter, and his second
+wife her cousin, Alice, daughter of Edmund Cranmer, Archdeacon of Canterbury.
+
+§ He had been nominated both to an Irish bishopric and to the See of Canterbury.
+
+xl
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+“Thus on the Printers behalf e and mine, your ease and commoditie
+(good Readers) is prouided for. Now resteth your owne diligence for your
+owne profit in studying it. To spend many words in commending the
+worke it selfe were needelesse: yet thus much I thinke I may both not
+vntruly and not vainly say, that though many great learned men haue
+written bookes of common places of our religion, as Melanchton, Sarcerius*
+and other, whose works are very good and profitable to the Church of God:
+yet by the consenting iudgement of those that vnderstande the same,
+there is none to be compared to this worke of Caluine, both for his substantiall sufficiencie of doctrine, the sound declaration of truth in articles
+of our religion, the large and learned confirmation of the same, and the
+most deepe and strong confutation of all olde and new heresies: so that
+(the holy Scriptures excepted) this is one of the most profitable bookes
+for all students of Christian diuinitie. Wherein (good Readers) as I am
+glad for the glorie of God, and for your benefite, that you have this profite of my trauell, so I beseech you let me haue this vse of your gentlenesse, that my doings may be construed to such good ende as I haue
+meant them: and that if anything mislike you by reason of hardnesse,
+or any other cause that may seem to be my default, you will not foorthwith condemne the worke, but reade it of ter: in which doing you will
+finde (as many haue confessed to me that they have founde by experience)
+that those things which at the first reading shall displease you for hardnesse, shall be found so easie as so harde matter would suffer, and for the
+most part, more easie than some other phrase which shoulde with greater
+loosenesse and smoother sliding away deceiue your vnderstanding. I
+confesse in deede it is not finely and pleasantly written, nor carieth
+with it such delightfull grace of speech as some great wise men have
+bestowed vppon some foolisher things, yet it conteineth sound truth set
+foorth with faithful plainnesse, without wrong done to the authors meaning: and so if you accept and vse it, you shall not faile to haue great
+profite thereby, and I shall thinke my labour very well imployed.”
+
+We have quoted largely from this Preface, because it appears
+to us an admirable document, altogether worthy of its place
+in the forefront of the Institutes and of the hand of its author, one
+of the most notable figures in the literary world of his day.
+Born in 1532, bred to the law, in which profession he gained
+high distinction, Thomas Norton lived on terms of intimacy
+with the leaders of the religious Reformation in England, and
+did his part to further it by voice and pen. A ripe scholar, he
+prepared translations of some of the best books in circulation
+expository of Christian truth, f and sent forth a number of
+writings of his own. A “wise, bold and eloquent” member of
+Parliament, he championed there the movements that tended
+to the religious settlement of the land on the lines of a complete reformation. Possessed of a poetic gift, he contributed
+some twenty-eight translations of Psalms to Sternhold and
+Hopkins’ collection, J as well as wrought for the advancement
+
+* Erasmus Sarcerius (1501-1559), Lutheran divine, lived in Nassau and afterwards
+in Leipszig. His works are voluminous and include a Loci Communes Theologies.
+
+t His translation of Nowell’s “Middle” Catechism, along with the original, was
+edited for the Parker Society by G. E. Corrie (1853). Cf. Schaff, Creeds, etc., i, 687;
+Jacob, The Lutheran Movement in England, p. 332; Churton’s Life of Nowell, p. 183.
+
+t For his place in the history of English poetry, cf., besides the references given
+by Sidney Lee, the Cambridge Hist, of English Lit., iii, 324, 342; Baker’s Biographia
+Drammatica: Ellis’ Specimens of Ancient Poetry, ii, 136.
+
+3 aw, *4
+
+Of the manner ho#c to receiue
+
+of Death, bicaufe be hath offenDeb againfl the maiedic of <Sob. Chere*
+ftie there out fume argtter* Do Humble, for that t^et mack not tint tab
+eng of 1ame*,that he which tome th to one, is mabe gylty of aMncanft
+bctbathatb forbtDDen to irihbath alfo forbtDDen to ftealr.ac.'Ctjecfore
+ft ought to feerne no abfurDttte when hoe fate ttjat Death to the ntSe re*
+toarbeofeuery toine.bicaure tiict ate euety one too?t|)? of [¥ tuOe Dyf*
+picafucf snD bttiQt&iwt of ©ofiJSuttljouCbfilt tc&fon fooiiftlfjtfonp
+«>«ttarte ftDe tfjoti gather that by one gooD toorke man maybe reran/
+eileD to <SoD,t»I;tche torth many fume* Defetueth hto toratbe.
+
+Chapter.
+
+ot» toe mud entreate of Chridian libertienhe Detfarario*
+whereof he mud not omftt tohofe putpofe t* to compre hto
+i fn an abriDgment the fumtne of t!>e Doctrine of the ©ofpei.
+
+jfor ft is: a thing principally neceffarie.ft Without p bnotoe*
+icDgtohcrof conrcienccDaretn a mSnetenterpafe nothing
+Without Doubting , thei ftumble anD dart bach in many thing*, thn at*
+toay dagger n teemblcrbut fpettally tt to an appenDant of htfttftcattoti,
+anD attafleri) not a little to the btiDctdanDingof the dtengtlj thereof,
+pea thei that earnedly feate <50D,lbai hereby reteiue an incomparable
+Sudan,® fnitc 0f tijat Doctrine tohith the bnckep a •Luctameall men Do plearant*
+jB&idfc {p taunt (heir fccde*,btcaufe to p fptritual Darfeencffe tohettoyth
+
+m<m* thei be taken ,euety toanton ratling to latoful fot them.HDh etfore it Chal
+
+note come forth to fitfeafon: a it toa* profitable to Differ to thy* place
+p plainer Wfcoucftng of it, (for toe Ijaue alreaDy in Diner* places light*
+ly toucheD it)bieaufc to tone a* any mention is brought to of Chrifttan
+!ibcrtie,then either ftithyitides Do boyle,or maD motion* bo arife, bn*
+leffe there toanton toitte* be ftmely met withall, tohichc Doe otijertotfe
+mod naughtily ccrrtipte the bedethtnge*. for, tome men by prerenfe
+or thto libetttesEhafte of all obeDience of <SoD,anD breafee forthe into an
+totbrinieD licenrioufneircranD tome men DtfDatoe it, thinking that by yt
+all moDetattomorbre anD choife of thinge* t* taken atoaie.HOhat d»lD
+toe here Do.bctnge compaftcD to fttchc natrotoe OteightfS^halltoee
+htDDe Chridtan ithertte faretoeiUnD to cutt of all fitf oceafion for ruche
+perHe*e58ut,a* toe haue faiDe,buleffe p be fad holDen, neither Chrift,
+nor the ttuthe of the ©ofpei ,nor the tntoarD peace of the tonic i* right*
+ly fcnotocn.ttathettoe mud enDeuoure that to necelfarie a part of Doe*
+rane be not fuppreffeD, anD yet that to the meane time there fcnDe oto
+iecrion* may be mett e withal! tohtc he ate toont to rife therebpon .
+
+, Chridtan lihettte(a* J th»nfe)conftfteth in three parte*. Che fitde,
+
+that the conrctence* of the fauhful, tohen the affiance of their iuftffiea*
+tfon before (SoD i* to be fought, may tatfc a aDuaunce thSfelue* abeue
+the lato,anD forget the tohole righteoufnelTe of the latoe.for fithe the
+latoe ( a* toe haue alreaDy in an other place DeclareO ) leauetb no man
+righteousreither toe are ercluDeD ft8 all hope of todiftcatifi ,m toe mode
+be loofeD from the latoe, anD to that there be no tegarDe at al bftDDe of
+toorftes.f or tohofo thtoketh that he mud bring tomtohat be it nf net fo
+little of goob toorfee * to obteine ttgbteoufneffe, he can not apomte any
+
+enbe ojmeafure of them, butte mafertb btoi frlfebettmotbe tohole
+
+Utoe.
+
+MM
+
+B5&CO
+atttCl
+how i
+
+atteij
+anyt
+toho
+ttarS
+no pi
+tltua
+itfee
+raafe
+the ll
+rami
+tout)
+toha
+tone
+fetft
+nip
+eala
+there
+the pi
+maDc
+
+3fJU
+
+ftie,i
+
+pan
+
+yctr
+
+Star
+
+reccj
+
+btcat
+
+agat
+
+aboli
+
+then
+
+deot
+
+Wd
+
+bcrij
+
+tiou
+
+thrift
+
+rtpi,
+
+othe
+
+toC
+
+Wat
+
+they
+
+First Edition of the English Institutes— Specimen Page
+
+allen’s translation
+
+xli
+
+of more secular species of English poetry. In every way he
+seemed glad to use his high powers freely in the cause of religion.
+Assuredly, we will say Calvin’s Institutes was introduced byv
+fit hands to its English public; and the excellence of the performance seems to be attested by the rapidly repeated issue of
+editions of the translation during the latter years of the sixteenth
+century, and its long-continued hold on the religious public.
+
+It was not until the early years of the nineteenth century that
+Norton’s was superseded by a modernized translation. This
+was made by John Allen, and appeared first in 1813. John
+Allen* was a layman like Thomas Norton — a nonconformist
+school-teacher, born at Truro, in Cornwall, in 1771, and for
+thirty years master of a private school at Hackney, near London,
+where he died in 1839. His principal work was a treatise on
+Modern Judaism (1816), though he published also a Memoir
+of Major General Burn (1815), and a translation of some sermons of D. de Saperville (1816) and William Durham’s Two
+Dissertations on Sacrifice (1817). He tells us in the Preface
+to his translation of the Institutes , that one of the circumstances
+which led him to publish it was “ the recent controversy respecting
+Calvinism, commenced by Dr. Tomline, the present Bishop of
+Lincoln.” His interest in that controversy had already been
+shown by the anonymous publication in 1812 of a reply to
+Tomline’s Refutation of the Charge of Calvinism against the
+Church of England, which appeared in 1811. Allen’s book bore
+the title, The Fathers, the Reformers, and the Public Formularies
+of England in Harmony with Calvin and against the Bishop of
+Lincoln.
+
+It does not predispose the reader favorably to Allen’s work
+that he speaks with scant appreciation of Norton’s translation — though that, perhaps, was not unnatural in the Preface
+of a work designed to supersede it. This Preface is plainly written, and gives an appreciative account of the book being rendered,
+and a statement of the translator’s method of translating —
+which, declining both “a servile adherence to the letter” and “a
+mere attention to -the ideas and sentiments,” “ aimed at a medium
+between servility and looseness and endeavored to follow the
+style of the original as far as the respective idioms of the Latin
+and English would admit.” The translation is certainly so far
+successful that it conveys with plain directness the meaning
+
+* See the (English) Diet, of Nat. Biog., sub nom., and additional references there
+given.
+
+xlii
+
+LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+of the original author, and so far, at least as we have observed,
+never either misses it or obscures it.
+
+If Allen is chargeable with underestimating the merits of his
+predecessor’s work, he certainly was called on to repay his fault
+a hundredfold by the treatment he received at the hands of his
+successor — Henry Beveridge.* Beveridge simply passes by
+Allen’s translation without any mention at all. Allen’s judgment on Norton’s translation, however, Beveridge repeats with
+interest — the gravamen of his charge turning on its excessive
+literalness. “ Instead of the pure English of the period at which
+he wrote,” he remarks, “the utmost he could give was English
+words in a Latin idiom. In this way the translation, which must
+often have seemed rugged and harsh to his contemporaries, has
+become in great measure unfit for modern use.” Beveridge,
+for his part, avoiding “overstraining after such scrupulosity
+as Norton aimed at,” hopes that, in his own translation “the
+true meaning of the author has been given in plain English, and
+so made accessible to every class of readers.” Beveridge’s
+translation was issued by the Calvin Translation Societyf in
+1845, and has probably superseded in Britain the earlier work of
+Allen.
+
+Meanwhile, however, already in 1816, Allen’s translation had
+been reissued in America as the “First American from the
+last London Edition,” bearing the imprint: “Philadelphia:
+Published by Philip H. Nicklin, and by Hezekiah Howe, New
+Haven. William Fry, Printer, 1816.” And in 1841 and 1842, J
+the Presbyterian Board of Publication at Philadelphia had
+stereotyped a somewhat revised edition of Allen’s translation,
+issuing it as the sixth American edition. This has accordingly
+become the most accessible translation in America. The edition
+
+* Henry Beveridge was born June 19, 1799, at Dunfermline; acted as tutor in the
+family of Mr. Erskine (afterwards Earl of Buchan) from 1821; was licensed as probationer of the Church of Scotland, 1827, but never took a charge; served as an elder
+in the church at Tonyburn for a number of years and sat as an elder in the Assembly of
+1837; was called to the bar in 1838, but never practiced the profession; died March 18,
+1863. The greater portion of his life was given to literary labor: as a young advocate
+he reported the cases decided in Court of Session for the Scottish Jurist (1838 sq.);
+he contributed largely (1848 sq.) to the Imperial Gazetteer and the Popular Encyclopaedia, published by Messrs. Blaikie & Son, of Glasgow (1848 sq.)’, and he served as
+editor of The Banner of Ulster of Belfast (1855-57). His chief original work was a
+Comprehensive History of India, 3 vols. (1858-1862); and he made the translation of
+the first three volumes of D’Aubignd’s History of the Reformation (1844 sq.). He
+published also a translation of Pascal’s Provincial Letters (1857). He became connected with the “Calvin Translation Society” early in its history, and besides editing
+for it Fetherstone’s translation of the Commentary on Acts (1844), and Rosdell’s translation of that on Romans (1844), he translated for it the following: On the Necessity
+of Reforming the Church (1843), Tracts Relating to the Reformation, (3 vols., 1844),
+Institutes (3 vols., 1845), Four sermons, Commentary on Joshua (1854).
+
+f It was founded in 1842 and issued its first installment of translations in 1843.
+
+t So we were kindly informed by Dr. Willard M. Rice, Recording Clerk of the Board,
+who was connected with the Board for a half century.
+
+MISTAKEN USE OF THE FRENCH
+
+xliii
+
+of the Presbyterian Board was brought out at the expense of
+the First and Second Presbyterian churches of Baltimore, of
+which the Revs. John C. Backus and Robert J. Breckinridge
+were then pastors, and was introduced by a Preface written
+by Dr. William M. Engles, then editor of the Board. How far
+the revision of the text extended we have not been careful to
+investigate. Dr. Engles says: “Under the direction of the
+Executive Committee of the Board, the translation has been
+diligently compared throughout with the original Latin and
+French, and various corrections have been made to convey the
+meaning of the author more distinctly and accurately. This
+laborious duty has been performed by a member of the Publishing Committee.” This “member of the Publishing Committee”
+was Mr. Joseph Patterson Engles (1793—1861), a man of varied
+and high culture, master of the Classical Institute at Philadelphia
+from 1817 to 1845, and from 1845 to his death publishing agent
+of the Board. He was, perhaps, most widely known as the editor
+of an American reprint, with many corrections, of the so-called
+Polymicrion Greek Testament (1838, and often afterwards), and
+was a man who, by habits of exact accuracy and by thorough
+classical scholarship, was eminently fitted to correct a translation
+from the Latin.*
+
+It should not pass without notice that all three of the later
+rehandlings of the English Institutes plume themselves on their
+use of the French text — treating it as a second original, of equal
+or almost equal authority, as a witness to Calvin’s meaning,
+with the Latin. Allen says:
+
+“ After the greater part of the work had been translated, he [the translator] had the happiness to meet with an edition in French, of which he has
+availed himself in translating the remainder, and in the revision of what
+he had translated before. Every person, who understands any two
+languages, will be aware that the ambiguity of one will sometimes be
+explained by the precision of another; and notwithstanding the acknowledged superiority of the Latin to the French in most of the qualities
+which constitute the excellence of a language, the case of the article is
+not the only one in which Calvin’s French elucidates his Latin.”
+
+Beveridge says:
+
+“ Constant use has also been made of the last French translation,
+revised by Calvin himself, and printed at Geneva in 1562. The Latin
+text is in general perfectly clear, and where there is a competent knowledge of the language, there is little danger of mistaking the meaning.
+Ambiguities, however, do occur, and it was considered that there could not
+
+* See, especially for his work on the Greek Testament, I. H. Hall, A Critical Bibliography of the Greek New Testament as Published in America (1883), p. 14 sq. A brief
+notice of him also occurs in The Presbyterian Encyclopaedia , sub nom. Dr. Rice writes:
+“ His revision of the Institutes was thorough and laborious. Some of the proof sheets
+passed under my eye and gave evidence of the care with which it was done.”
+
+Xliv LITERARY HISTORY OF CALVIN’S INSTITUTES
+
+be a more legitimate and effectual mode of explaining them than to make
+the Author his own expositor, and hold the meaning to be what he himself
+has made it, in his vernacular tongue. It has already been observed
+that Calvin, in his translation, occasionally avails himself of his privilege
+as an Author. Due attention has been paid to the changes thus made in
+the original, any difference of meaning or of expression which seemed
+deserving of notice being given in footnotes. In this respect it is hoped
+that the present Translation possesses a very decided advantage.”
+
+Dr. Engles says:
+
+“The translation has been diligently compared throughout with the
+original Latin and French,” etc.
+
+This use of the French, except in the first few pages of the first
+book (to the seventh chapter), as already pointed out, is liable
+to some danger when carried through uncritically. For the rest
+of the book, that alone is certainly Calvin’s which has been
+preserved from the first French translation (1541). The text is
+composed, as Reuss puts it, “of fragments of the old translation, where the Latin text remains the same (although there, too,
+the changes are somewhat frequent), and a new translation of
+the complementary additions which form nearly half the text
+. . . . Here,” he adds, “we meet with not only a great number of inexactitudes, omissions, meaningless and embarrassing
+additions, but even passages where it is evident that the translator did not even understand the Latin text.” Striking examples
+of this are given by Reuss. It is obvious that an uncritical
+use of this French translation, as in all its parts of equal authority
+for Calvin’s meaning with the Latin original, is scarcely a
+commendation of a version; and we need no further evidence
+that, so far as it was used at all, it must have been used uncritically by our English translators, than the fact that though
+each of them compared the French diligently with the Latin,
+no one of them discovered those glaring faults in the French
+which render it impossible to attribute it to Calvin’s own hand.
+
+It would be interesting to compare the texts of the several
+English translations, with a view to discovering how far the
+later translations are really independent of the earlier, and which
+represent the original most faithfully, clearly and happily. We
+cannot undertake that task now; but we can at least give a
+specimen of their rendering of a typical passage, from which we
+may, perhaps, catch something of the flavor of each. Here is
+the opening section of the treatise in its three English forms
+(Book i, chap, i, § 1) :
+
+COMPARISON OF ENGLISH VERSIONS
+
+xlv
+
+Norton, 1599.
+
+The whole summe in
+a maner of all our
+wisedome, which onely
+ought to be accounted
+true and perfect wisedome,
+consisteth in two partes,
+that is to say, the knowledge of God, and of our
+selves. But where as
+these two knowledges
+be with many bondes
+linked togither: yet
+whether goeth before or
+engendreth the other, it
+is hard to discerne. For,
+first no man can looke
+vpon himselfe, but he
+must needes by and by
+turne all his senses to the
+beholding of God, in whom
+he liueth and is mooued: bicause it is plaine, that
+those giftes wherewith
+we be indued, are not of
+our selues, yea, euen that
+we haue being is nothing
+els but an essense in
+the one God. Finally, by
+these good things that are
+as by dropmeale powred
+into us from heauen, we
+are led as it were by certaine streames to the
+spring head. And so by our
+owne needinesse, better
+appeereth that infinite
+plentie of good things
+that abideth in God. Specially that miserable
+mine, whereinto the
+fall of the first man
+hath throwne vs, compel -
+leth vs to lift vp our eies,
+not onely being foodelesse
+and hungrie, to craue
+from thence that which we
+lacke, but also being
+awakened with feare, to
+learne humilitie. For
+as there is found in man
+a certaine worlde of all
+miseries, and since we haue
+beene spoyled of the diuine
+apparell, our shamefull
+naked nesse discloseth an
+infinite heape of filthie
+disgracements:, it must
+needes be that euery man be
+pricked with knowledge in
+conscience of his owne vnhappinesse to make him come
+
+Allen, 1813.
+
+True and substantial wisdom
+principally consists of two
+parts, the knowledge of God and the knowledge
+of ourselves. But while
+these two branches of knowledge are so intimately
+connected,
+
+which of them precedes and
+
+produces the other,
+
+is not easy to discover. For,
+
+in the first place, no man can
+
+take a survey of himself, but he
+
+must immediately
+
+turn to the
+
+contemplation of God, in whom
+he “lives and moves:” since
+it is evident that
+the talents which
+we possess are not from
+ourselves, and that
+our very existence is nothing
+but a subsistence in
+God alone.
+
+These bounties,
+distilling to us by drops
+from heaven,
+form, as it were, so many
+streams conducting us to
+the fountain-head.
+
+Our poverty conduces to a
+clearer display of the infinite
+fulness of God.
+
+Especially, the miserable
+ruin, into which we have
+been plunged by the defection of the first man, compels
+us to raise our eyes towards
+heaven, not only as hungry
+and famished, to seek
+thence a supply for our
+wants, but,
+aroused with fear, to
+learn humility. For
+since man is subject to
+a world of miseries,
+and has
+
+been spoiled of his divine
+array, this melancholy
+exposure discovers an
+immense mass of
+deformity:
+
+every one therefore must be
+so impressed with a
+consciousness of his own infelicity, as to arrive
+
+Beveridge, 1845.
+
+Our wisdom, in so far
+as it ought to be deemed
+true and solid wisdom,
+consists almost entirely of
+two parts: the knowledge of God and of ourselves. But as
+these are connected together
+by many ties, it is not
+easy to determine which
+of the two precedes, and
+gives birth to the other.
+
+For, in the
+
+first place, no man can survey
+himself
+
+without forthwith
+turning
+
+his thoughts towards the God
+in whom he lives and moves;
+because it is perfectly obvious,
+that the endowments which
+we possess cannot possibly be
+from ourselves; nay, that
+our very being is nothing
+else than subsistence in
+God alone. In the second place,
+those blessings which unceasingly distil to us
+from heaven,
+are like streams
+conducting us to
+the fountain. Here,
+again, the infinitude of
+good which resides in God
+becomes more apparent
+from our poverty. In particular, the miserable
+ruin into which the revolt
+of the first man
+hath plunged us, compels
+us to turn our eyes upwards;
+not only that while hungry and
+famishing we may
+thence ask
+what we want,
+but being aroused by fear
+we may learn humility. For
+as there exists in man something like a world of misery,
+and ever since we were
+stript of the divine
+attire our naked shame
+discloses an
+immense series of
+disgraceful properties,
+every man,
+being stung by the
+consciousness of his own
+unhappiness, in this way
+
+xlvi
+
+LITERARY HISTORY OF CALVIN S INSTITUTES
+
+Norton, 1599.
+at the least vnto some knowledge of God. So by the vnderstanding of our ignorance,
+vanitie, beggerie, weaknesse,
+peruersenesse, and corruption,
+we learne to reknowledge
+that no where else but in the
+Lord abideth the true light
+of wisdome, sound vertue, perfect abundance of all good
+things, and puritie of righteousnes. And so by our owne
+euils we are stirred to consider the good things of God:
+and we cannot earnestly aspire toward him, vntill we
+begin to mislike our selues.
+For of all men what one is
+there, that would not willingly rest in himself e?
+yea, who doth not rest, so
+long as he knoweth not himselfe, that is to say, so long
+as he is contented with his
+owne giftes; and ignorant or
+vnmindfull of his owne
+miserie? Therefore euery
+man is by the knowledge
+of himselfe, not onely pricked
+forward to seeke God, but
+also led as it were by the
+hand to finde him.
+
+Allen, 1813.
+at some knowledge
+of God. Thus a sense
+of our ignorance,
+vanity, poverty, infirmity,
+depravity, and corruption,
+leads us to perceive and acknowledge that in the Lord
+alone are to be found true
+wisdom, solid strength, perfect goodness,
+and unspotted righteousness; and so, by our imperfections, we are excited to a
+consideration of the perfections
+of God. Nor can we really asspire toward him, till we have
+begun to be displeased with
+ourselves. For who would
+not gladly
+
+rest satisfied with himself?
+where is the man not actually absorbed in selfcomplacency, while he remains
+unacquainted with his true
+situation, or content with his
+own endowments, and ignorant
+or forgetful of his own misery?
+The knowledge of ourselves,
+therefore, is not only an incitement to seek after God, but
+likewise a considerable
+assistance towards finding him.
+
+Beveridge, 1845.
+necessarily obtains at least
+some knowledge
+of God. Thus,
+our feeling of ignorance, vanity, want, weakness, in short,
+depravity and corruption,
+reminds us that in the Lord,
+and none but He,
+dwell the true light
+of wisdom, solid virtue,
+exuberant goodness.
+
+We are accordingly urged
+by our own evil things to
+consider the good things of
+God; and, indeed, we cannot
+aspire to Him in earnest until
+we have begun to be displeased
+with ourselves. For what man
+is not disposed to rest
+in himself? Who, in fact,
+does not thus rest, so long
+as he is unknown to himself; that is, so long as he is
+contented with his own
+endowments, and unconscious or unmindful
+of his misery? Every person, therefore, on coming
+to the knowledge of himself,
+is not only urged to seek
+God, but is also led as by
+the hand to find him.
+
+So far as one may judge from so brief an extract, it would
+seem that Allen’s version is entirely independent of Norton’s,
+and that Beveridge worked with his predecessors’ versions before
+him, indeed, but with a conscious effort to give a fresh rendering
+of the original. Any one of the three would appear to provide
+a plain and sufficiently clear and faithful rendering of the original,
+while the “perfect version,” or the version which conveys the
+sense of delight and satisfaction with which Calvin’s Latin
+affects the reader, is yet to seek.
+
+T3E I,! :M
+
+c
+
+THE LITERARY HISTORY
+
+OF
+
+THE INSTITUTES OF THE CHRISTIAN
+RELIGION
+
+BY
+
+JOHN CALVIN
+
+BY
+
+BENJAMIN B. WARFIELD, D.D., LL.D.,
+
+PROFESSOR OF DIDACTIC AND POLEMIC THEOLOGY IN THE THEOLOGICAL SEMINARY
+AT PRINCETON, N. J.
+
+PHILADELPHIA
+
+PRESBYTERIAN BOARD OF PUBLICATION
+
+r
+
+'R-s.s.
+
+ZW
+
+c -
+
+THE LITERARY HISTORY
+
+OF THE
+
+INSTITUTES
+
+BY
+
+BENJAMIN B. WARFIELD, D.D., LL.D.,
+
+Professor of Didactic and Polemic Theology in the Theological Seminary at Princeton, N. J.
+

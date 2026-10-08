@@ -134,7 +134,6 @@ CHÚ THÍCH CỦA TÁC GIẢ (về Sáng Thế Ký 4:13):
 Theo tiếng Hê-bơ-rơ, câu nầy đọc như sau: "Ca-in thưa cùng Đức Giê-hô-va rằng: Tội lỗi tôi lớn quá, không thể cất lên được" — tức là cất mặt lên. Kẻ đáng rủa ấy nhắm đến điều đã nói với hắn về sự sầm mặt và ngước mặt lên (câu 6-7), và đáp lại cách phạm thượng. Hắn muốn nói mặt của ai, hắn tỏ ra ở câu 14, dầu hắn chẳng hề ao ước được hưởng mặt ấy. Đó là một phần của lời chúc phước long trọng cho dân Chúa: "Cầu xin Đức Giê-hô-va nhấc mặt Ngài lên trên ngươi" (Dân Số Ký 6:26). Ca-in nói tội lỗi hắn còn lớn hơn điều đó. "Ngài gánh vác và nâng đỡ muôn vật, cao cả và thấp hèn, nhưng chẳng thể gánh nổi tội lỗi tôi." [NEEDS REVIEW: OCR — đoạn nầy trong nguồn bị hỏng nặng; đã dựng lại theo ngữ cảnh và các trích dẫn Kinh Thánh còn đọc được.]
 
 ---
-TRANSLATION STATUS: COMPLETE
 
 TERMINOLOGY ISSUES:
 1. Nguồn là bản OCR archive.org của bài giảng Thomas Boston (1755) với nhiễu chữ ſ dài đặc trưng thế kỷ 18; đã chuẩn hóa trong lúc dịch. Các trang đầu (tựa đề, văn bản Hê-bơ-rơ 7:25) bị mất do OCR hỏng; văn bản được dựng lại từ phần thân còn đọc được và đã ghi chú.
@@ -150,3 +149,5 @@ TERMINOLOGY ISSUES:
 11. Một số câu trong nguồn bị mất chữ do OCR (ví dụ "ability of #g« zure" → "khả năng về bản tính"); đã dựng lại theo ngữ cảnh thần học của đoạn.
 12. "Immanuel's land" → "đất của Im-ma-nu-ên."
 13. Không có thuật ngữ nào trong 16 thuật ngữ chuẩn bị dùng sai; đã kiểm tra "sự xưng công bình"/"sự chọn lựa"/"Tin Lành" (trong văn xuôi) không xuất hiện sai chỗ.
+
+TRANSLATION STATUS: COMPLETE

@@ -64,7 +64,6 @@ Chúng ta đừng tranh giành xem ai sẽ lớn nhất, ai sẽ sớm thăng ti
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
 TERMINOLOGY ISSUES:
 1. [NEEDS REVIEW: authorship] Trang bìa ghi "By Tho. Goodwin" và hồ sơ lưu trữ ghi tác giả Thomas Goodwin, nhưng bài giảng được giảng năm 1702 nhân cái chết của Vua William III (băng hà 8/3/1702), trong khi Thomas Goodwin nhà Thanh giáo nổi tiếng đã qua đời năm 1680. Đây có thể là một Thomas Goodwin khác, hoặc ghi nhầm tác giả. Nội dung bài giảng hoàn toàn chính thống theo thần học Cải Chánh (chủ quyền Đức Chúa Trời, sắc lệnh, cứu chuộc, đức tin nơi Đấng Christ, Kinh Thánh), nên vẫn được dịch trọn vẹn.
 2. Trang bìa OCR bị hư hại nặng; phần tái dựng ("A Sermon Preached on the Sad Occasion of the Death of the Best of Kings, William the III, &c. Who Died in a Palace at Kensington... London: Printed by R. Tookey, for John Clark at the Bible in the Old Change, near St. Austin's Church. 1702.") được suy từ các mảnh chữ còn đọc được.
@@ -81,3 +80,5 @@ TERMINOLOGY ISSUES:
 13. Câu Phi-líp 1:23-24, Khải Huyền 14:13, Ê-sai 57:1, Rô-ma 7:24, 2 Cô-rinh-tô 5:2 được dịch theo văn phong Kinh Thánh Việt Nam 1934.
 14. Các câu trích dẫn Kinh Thánh trong nguyên tác theo bản KJV; bản dịch giữ ý nghĩa chính xác, diễn đạt theo văn phong 1934.
 15. Một mệnh đề trong Nhận xét 3, điểm 1 bị OCR làm hư hại ("till further [orders]... [entrust]ed Commission"); đã dịch theo ngữ cảnh và đánh dấu [NEEDS REVIEW: OCR] tại chỗ.
+
+TRANSLATION STATUS: COMPLETE

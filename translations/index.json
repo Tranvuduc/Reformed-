@@ -1611,15 +1611,6 @@
   "reviewed": false
  },
  {
-  "id": "arch/bim_eighteenth-century_a-short-address-to-perso_whitefield-george_1756_3",
-  "file": "arch-whitefield-short-address.txt",
-  "title": "Lời Kêu Gọi Ngắn Gửi Mọi Người Thuộc Mọi Giáo Phái",
-  "orig": "A short address to persons of all denominations",
-  "author": "Whitefield, George",
-  "by": "Muse",
-  "reviewed": false
- },
- {
   "id": "arch/bim_eighteenth-century_intercession-every-chris_whitefield-george_1738",
   "file": "arch-whitefield-intercession-duty.txt",
   "title": "Cầu Thay: Bổn Phận Của Mọi Cơ Đốc Nhân",
@@ -2228,6 +2219,929 @@
   "title": "BÀI GIẢNG NHÂN CÁI CHẾT CỦA VUA WILLIAM III",
   "orig": "A sermon preached on the sad occasion of the death",
   "author": "Goodwin, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/childspilgrimspr02buny",
+  "file": "arch-bunyan-child-pilgrim.txt",
+  "title": "CUỘC HÀNH TRÌNH CỦA CHRISTIANA VÀ CÁC CON",
+  "orig": "The child's Pilgrim's progress",
+  "author": "Bunyan, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-end-of-time-and-the_boston-thomas_1756",
+  "file": "arch-boston-end-of-time.txt",
+  "title": "SỰ TẬN CÙNG CỦA THỜI GIAN",
+  "orig": "The end of time, and the mystery of God finished",
+  "author": "Boston, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bibletrueinfidel00plum",
+  "file": "arch-plumer-bible-true.txt",
+  "title": "KINH THÁNH CHÂN THẬT, SỰ VÔ ĐẠO GIAN ÁC",
+  "orig": "The Bible true, and infidelity wicked",
+  "author": "Plumer, William S.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/backslide00full",
+  "file": "arch-fuller-backslider.txt",
+  "title": "KẺ LUI ĐI",
+  "orig": "Backslider",
+  "author": "Fuller, Andrew",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-doctrine-of-justific_gill-john_1730",
+  "file": "arch-gill-doctrine-justification-1730.txt",
+  "title": "ĐẠO LÝ XƯNG CÔNG CHÍNH BỞI ĐẤNG CHRIST",
+  "orig": "The doctrine of justification by the righteousness of Christ",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_preservatives-against-me_baxter-richard_1716",
+  "file": "arch-baxter-preservatives-melancholy.txt",
+  "title": "THUỐC NGỪA BỆNH ƯU PHIỀN VÀ SẦU MUỘN QUÁ ĐỘ",
+  "orig": "Preservatives against melancholy and overmuch sorrow",
+  "author": "Baxter, Richard",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/lightforjourneyf00ruth",
+  "file": "arch-rutherford-light-journey.txt",
+  "title": "ÁNH SÁNG CHO HÀNH TRÌNH TỪ NGỌN ĐÈN CỦA RUTHERFORD",
+  "orig": "Light for the journey from Rutherford's lamp",
+  "author": "Rutherford, Samuel (ed. Seymour, Robert G.)",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-discourse-relating-to-_howe-john_1705",
+  "file": "arch-howe-expectation-blessedness.txt",
+  "title": "NHẪN NẠI TRONG LÚC TRÔNG ĐỢI PHƯỚC HẠNH TƯƠNG LAI",
+  "orig": "A discourse relating to the expectation of future blessedness",
+  "author": "Howe, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_mr-wesleys-principles-d_hervey-james_1765",
+  "file": "arch-hervey-wesley-principles.txt",
+  "title": "NHỮNG NGUYÊN TẮC CỦA ÔNG WESLEY BỊ PHÁT HIỆN",
+  "orig": "Mr Wesley's principles detected",
+  "author": "Hervey, James",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-communion-mornings-co_whitefield-george_1760",
+  "file": "arch-whitefield-communion-morning.txt",
+  "title": "BẠN ĐỒNG HÀNH BUỔI DỰ TIỆC THÁNH",
+  "orig": "A communion morning's companion",
+  "author": "Whitefield, George",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_two-discourses-the-one-_gill-john_1751",
+  "file": "arch-gill-two-discourses-prayer.txt",
+  "title": "HAI BÀI GIẢNG: VỀ SỰ CẦU NGUYỆN",
+  "orig": "Two discourses: on prayer (and on singing of psalms)",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/aviewcovenantgr01bostgoog",
+  "file": "arch-boston-view-covenant-grace.txt",
+  "title": "CÁI NHÌN VỀ GIAO ƯỚC CỦA ÂN ĐIỂN",
+  "orig": "A view of the covenant of grace",
+  "author": "Boston, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/deathofdeathinde00owen_0",
+  "file": "arch-owen-death-of-death.txt",
+  "title": "CÁI CHẾT CỦA SỰ CHẾT TRONG CHÚA GIÊ-XU CHRIST",
+  "orig": "The death of death in the death of Christ",
+  "author": "Owen, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_four-sermons-on-the-divi_hervey-james_1779",
+  "file": "arch-hervey-divinity-christ.txt",
+  "title": "BỐN BÀI GIẢNG VỀ THẦN TÍNH CỦA ĐẤNG CHRIST",
+  "orig": "Four sermons on the divinity of Christ",
+  "author": "Hervey, James",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/soliloquyonartof00bost",
+  "file": "arch-boston-art-man-fishing.txt",
+  "title": "ĐỘC THOẠI VỀ NGHỆ THUẬT ĐÁNH LƯỚI NGƯỜI",
+  "orig": "A soliloquy on the art of man-fishing",
+  "author": "Boston, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-water-of-life-or-a_bunyan-john_1795",
+  "file": "arch-bunyan-water-of-life.txt",
+  "title": "NƯỚC SỰ SỐNG",
+  "orig": "The water of life",
+  "author": "Bunyan, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/funeralsermonfor00bate",
+  "file": "arch-bates-funeral-sermon-jacomb.txt",
+  "title": "BÀI GIẢNG TANG LỄ CHO RICHARD BAXTER",
+  "orig": "A funeral sermon for the Reverend, holy and excellent Mr. Richard Baxter (1692; archive.org item funeralsermonfor00bate — NOTE: requested as \"for Mr. Thomas Jacomb\", but the item is Bates's sermon for Richard Baxter; the Jacomb sermon appears only in the printer's advertisement)",
+  "author": "Bates, William",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/wordsoftruthlove00plum",
+  "file": "arch-plumer-words-truth-love.txt",
+  "title": "LỜI CHÂN THẬT VÀ YÊU THƯƠNG",
+  "orig": "Words of truth and love",
+  "author": "Plumer, William S.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/touchstoneofsinc00flav",
+  "file": "arch-flavel-touchstone-sincerity.txt",
+  "title": "HÒN ĐÁ THỬ LÒNG THÀNH THẬT",
+  "orig": "The touchstone of sincerity",
+  "author": "Flavel, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/personsinlesscha0000plum",
+  "file": "arch-plumer-person-christ.txt",
+  "title": "NHÂN VỊ VÀ SỰ VÔ TỘI CỦA CHÚA GIÊ-XU CHRIST",
+  "orig": "The person and sinless character of our Lord Jesus Christ",
+  "author": "Plumer, William S.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/plainthoughtsabo00plum",
+  "file": "arch-plumer-plain-thoughts.txt",
+  "title": "NHỮNG SUY NGHĨ GIẢN DỊ VỀ ĐIỀU VĨ ĐẠI",
+  "orig": "Plain thoughts about great and good things",
+  "author": "Plumer, William S.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-doctrines-of-gods-e_gill-john_1739",
+  "file": "arch-gill-doctrines-everlasting-love.txt",
+  "title": "Tình Yêu Đời Đời Của Đức Chúa Trời",
+  "orig": "The doctrines of God's everlasting love to his elect",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_an-abridgement-of-a-disc_howe-john_1785",
+  "file": "arch-howe-self-dedication.txt",
+  "title": "SỰ DÂNG MÌNH CHO ĐỨC CHÚA TRỜI",
+  "orig": "An abridgement of a discourse on self-dedication",
+  "author": "Howe, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-preachd-at-the_henry-matthew_1712",
+  "file": "arch-henry-funeral-benion.txt",
+  "title": "BÀI GIẢNG TẠI LỄ TANG MỤC SƯ SAMUEL LAWRENCE",
+  "orig": "A sermon preach'd at the funeral of Mr. Samuel Lawrence",
+  "author": "Henry, Matthew",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-doctrine-of-the-resu_gill-john_1750",
+  "file": "arch-gill-doctrine-resurrection.txt",
+  "title": "SỰ SỐNG LẠI ĐƯỢC TRÌNH BÀY VÀ BÊNH VỰC",
+  "orig": "The doctrine of the resurrection, stated and defended",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bloodofcross00bona",
+  "file": "arch-bonar-blood-cross.txt",
+  "title": "HUYẾT CỦA THẬP TỰ GIÁ",
+  "orig": "The blood of the cross",
+  "author": "Bonar, Horatius",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/apologyforlatech00full",
+  "file": "arch-fuller-apology-missions.txt",
+  "title": "LỜI BIỆN HỘ CHO CUỘC TRUYỀN GIÁO TẠI ẤN ĐỘ",
+  "orig": "Apology for the late Christian missions to India",
+  "author": "Fuller, Andrew",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_instructions-for-childre_keach-benjamin_1763",
+  "file": "arch-keach-instructions-children.txt",
+  "title": "LỜI DẠY CHO TRẺ EM",
+  "orig": "Instructions for children",
+  "author": "Keach, Benjamin",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bunyanchristianbehaviour",
+  "file": "arch-bunyan-christian-behaviour.txt",
+  "title": "CÁCH ĂN Ở CỦA CƠ ĐỐC NHÂN",
+  "orig": "Christian behaviour",
+  "author": "Bunyan, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-life-of-the-reverend_hervey-james_1770",
+  "file": "arch-hervey-life.txt",
+  "title": "CUỘC ĐỜI CỦA MỤC SƯ JAMES HERVEY",
+  "orig": "The life of the Reverend Mr. James Hervey",
+  "author": "Hervey, James",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/calvinsdoctrineo00warf",
+  "file": "arch-warfield-calvin-doctrine-god.txt",
+  "title": "GIÁO LÝ CỦA CALVIN VỀ ĐỨC CHÚA TRỜI",
+  "orig": "Calvin's doctrine of God",
+  "author": "Warfield, Benjamin B.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/christourpenalsu0000dabn",
+  "file": "arch-dabney-christ-penal-substitute.txt",
+  "title": "ĐẤNG CHRIST CHỊU HÌNH PHẠT THAY CHÚNG TA",
+  "orig": "Christ our penal substitute",
+  "author": "Dabney, Robert Lewis",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/heavenlyspringsp0000bona",
+  "file": "arch-bonar-heavenly-springs.txt",
+  "title": "SUỐI NGUỒN TRÊN TRỜI",
+  "orig": "Heavenly springs",
+  "author": "Bonar, Andrew A.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/christiansabbath00dabn",
+  "vi": "NGÀY SA-BÁT CỦA CƠ ĐỐC NHÂN",
+  "orig": "The Christian Sabbath: its nature, design and proper observance",
+  "author": "Robert Lewis Dabney",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "translations/arch-dabney-christian-sabbath.txt"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-short-account-of-the-l_henry-matthew_1710",
+  "file": "arch-henry-life-illidge.txt",
+  "title": "Cuộc Đời Vắn Tắt Của Trung Úy Illidge",
+  "orig": "A short account of the life of Lieutenant Illidge",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-full-account-of-the-_whitefield-george_1747",
+  "file": "arch-whitefield-life-dealings.txt",
+  "title": "ĐỜI TÔI VÀ CÔNG VIỆC ĐỨC CHÚA TRỜI TRÊN TÔI",
+  "orig": "A Full Account of the Life and Dealings of God with the Reverend Mr. George Whitefield",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/dredwinaabbotton00warf",
+  "file": "arch-warfield-second-peter.txt",
+  "title": "2 Phi-e-rơ Và Lập Luận Của Tiến Sĩ Abbott",
+  "orig": "Dr. Edwin A. Abbott on the Genuineness of Second Peter",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_divine-meditations-and-_sibbes-richard_1800",
+  "file": "arch-sibbes-divine-meditations.txt",
+  "title": "Suy Gẫm Thiêng Liêng Và Mặc Tưởng Thánh Khiết",
+  "orig": "Divine meditations, and holy contemplations",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/universal00baxt",
+  "title": "SỰ HIỆP NHẤT PHỔ QUÁT",
+  "orig": "Universal Concord",
+  "author": "Richard Baxter",
+  "file": "arch-baxter-universal-concord.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 32138
+ },
+ {
+  "id": "arch/rightsystematic00orrgoog",
+  "file": "arch-warfield-right-systematic.txt",
+  "title": "QUYỀN CỦA THẦN HỌC HỆ THỐNG",
+  "orig": "The Right of Systematic Theology",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/reverendrichardb00baxt",
+  "file": "arch-baxter-last-treatise.txt",
+  "title": "BẢN TUYÊN NGÔN CUỐI CÙNG CỦA RICHARD BAXTER",
+  "orig": "The Reverend Richard Baxter's Last Treatise",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/obperfect00warf",
+  "file": "arch-warfield-oberlin-perfectionism.txt",
+  "title": "CHỦ NGHĨA HOÀN HẢO OBERLIN: BÀI MỘT",
+  "orig": "Oberlin Perfectionism: Article One",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/dli.bengal.10689.13660",
+  "file": "arch-gill-sermon-society.txt",
+  "title": "BA BÀI GIẢNG CHO HỘI ỦNG HỘ BUỔI GIẢNG TỐI",
+  "orig": "A Sermon Preached to the Society (3 sermons: 1755, 1753, 1752)",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-french-impostour-det_keach-benjamin_1702",
+  "title": "Kẻ Giả Mạo Pháp Bị Vạch Trần",
+  "orig": "The French Impostour Detected",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-keach-french-impostour.txt",
+  "words": 35402
+ },
+ {
+  "id": "arch/gospelworthyofal0000full",
+  "file": "arch-fuller-gospel-acceptation.txt",
+  "title": "PHÚC ÂM XỨNG ĐÁNG ĐƯỢC MỌI NGƯỜI ĐÓN NHẬN",
+  "orig": "The Gospel Worthy of All Acceptation",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-relation-of-thf-sic-_bunyan-john_1765",
+  "file": "arch-bunyan-imprisonment.txt",
+  "title": "Tường Thuật Về Việc Tôi Bị Tù Đày",
+  "orig": "A relation of the imprisonment of Mr. John Bunyan",
+  "author": "John Bunyan",
+  "year": 1660,
+  "by": "Muse",
+  "reviewed": false,
+  "words": 12904
+ },
+ {
+  "id": "arch/11347875bsb",
+  "file": "arch-baxter-spiritual-peace.txt",
+  "title": "HƯỚNG DẪN ĐẠT ĐƯỢC VÀ GIỮ VỮNG BÌNH AN THUỘC LINH",
+  "orig": "Directions for getting and keeping spiritual peace and comfort",
+  "author": "Richard Baxter",
+  "year": 1658,
+  "by": "Muse",
+  "reviewed": false,
+  "words": 39652
+ },
+ {
+  "id": "arch/bim_eighteenth-century_crook-in-the-lot-or-the_boston-thomas_1782",
+  "file": "arch-boston-crook-lot.txt",
+  "title": "CHỖ CONG TRONG SỐ PHẬN",
+  "orig": "Crook in the Lot; or, the Sovereignty and Wisdom of God Displayed in the Afflictions of Men",
+  "author": "Thomas Boston",
+  "year": 1782,
+  "by": "Muse",
+  "reviewed": false,
+  "words": 35528
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-time-of-danger-and-_hervey-james_1757",
+  "file": "arch-hervey-time-danger.txt",
+  "title": "THỜI KỲ NGUY HIỂM VÀ PHƯƠNG CÁCH AN TOÀN",
+  "orig": "The time of danger, and the means of safety; to which is added, The way of holiness. 1757",
+  "author": "Hervey, James",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-memorial-concerning-pe_boston-thomas_1756",
+  "file": "arch-boston-memorial-fasting.txt",
+  "title": "Tưởng Trình Về Kiêng Ăn Cá Nhân Và Gia Đình",
+  "orig": "A Memorial concerning Personal and Family-Fasting",
+  "author": "Thomas Boston",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/literaryhistoryo00warf",
+  "file": "arch-warfield-institutes-history.txt",
+  "title": "Lịch Sử Văn Bản Chế Độ Của Calvin",
+  "orig": "The Literary History of the Institutes of the Christian Religion",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_war-with-the-devil-or-t_keach-benjamin_1760",
+  "title": "Chiến Tranh Với Ma Quỷ",
+  "orig": "War with the Devil: or the Young Man's Conflict with the Powers of Darkness",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-keach-war-devil.txt",
+  "words": 37224
+ },
+ {
+  "id": "arch/bim_eighteenth-century_reflections-on-a-flower-_hervey-james_1747",
+  "file": "arch-hervey-flower-garden.txt",
+  "title": "SUY NGẪM VỀ MỘT VƯỜN HOA",
+  "orig": "Reflections on a Flower-Garden",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/the-works-of-the-rev-john-newton-cecil",
+  "title": "TỰ THUẬT CHÂN THỰC CỦA JOHN NEWTON",
+  "orig": "The works of the Rev. John Newton",
+  "author": "John Newton",
+  "file": "arch-newton-works.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-dissertation-concernin_gill-john_1771",
+  "title": "PHÉP BÁP-TÊM CỦA NGƯỜI CẢI ĐẠO DO THÁI",
+  "orig": "A Dissertation Concerning the Baptism of Jewish Proselytes",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-gill-baptism-proselytes.txt",
+  "words": 29759
+ },
+ {
+  "id": "arch/calltounconverte01baxt",
+  "title": "TIẾNG GỌI KẺ CHƯA ĐƯỢC BIẾN ĐỔI",
+  "orig": "A Call to the Unconverted",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-baxter-call-unconverted.txt",
+  "words": 36546
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-government-and-disci_goodwin-thomas_1722",
+  "title": "SỰ CAI TRỊ VÀ KỶ LUẬT CỦA CÁC HỘI THÁNH CỦA ĐẤNG CHRIST",
+  "orig": "The government and discipline of the Churches of Christ",
+  "author": "Thomas Goodwin",
+  "file": "arch-goodwin-government-discipline.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-preached-to-th_rutherford-samuel_1709",
+  "title": "BÀI GIẢNG TRƯỚC HẠ VIỆN ANH",
+  "orig": "A Sermon Preached to the Honourable House of Commons",
+  "author": "Samuel Rutherford",
+  "file": "arch-rutherford-sermon-commons.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/martyrssufferers00plum",
+  "title": "NHỮNG VỊ TỬ ĐẠO VÀ NGƯỜI CHỊU KHỔ VÌ LẼ THẬT",
+  "orig": "Martyrs and Sufferers for the Truth",
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-plumer-martyrs-sufferers.txt"
+ },
+ {
+  "id": "arch/onrevisionofconf00warf",
+  "title": "VỀ VIỆC XEM XÉT LẠI BẢN TUYÊN XƯNG ĐỨC TIN",
+  "orig": "On the revision of the confession of faith",
+  "author": "Benjamin B. Warfield",
+  "file": "arch-warfield-revision-confession.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "date": "2026-10-08"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_remarks-on-lord-bolingbr_hervey-james_1752",
+  "title": "NHẬN XÉT VỀ CÁC THƯ CỦA HUÂN TƯỚC BOLINGBROKE",
+  "orig": "Remarks on Lord Bolingbroke's Letters on the study and use of history",
+  "author": "James Hervey",
+  "file": "arch-hervey-bolingbroke.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "date": "2026-10-08"
+ },
+ {
+  "id": "arch/questionsadapted00hodg",
+  "title": "CÁC CÂU HỎI VỀ THƯ I CÔ-RINH-TÔ THEO HODGE",
+  "orig": "Questions adapted to Dr. Hodge's Exposition of the First Epistle to the Corinthians",
+  "author": "Charles Hodge",
+  "file": "arch-hodge-questions-confession.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "date": "2026-10-09"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-obligations-from-nat_howe-john_1726",
+  "title": "BỔN PHẬN THỜ PHƯỢNG CHÚA TRONG GIA ĐÌNH",
+  "orig": "The Obligations from Nature and Revelation to Family-Religion and Worship",
+  "author": "John Howe",
+  "file": "arch-howe-obligations-family.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "date": "2026-10-09"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-brief-enquiry-into-the_henry-matthew_1717",
+  "title": "BẢN CHẤT THẬT CỦA SỰ LY GIÁO",
+  "orig": "A brief enquiry into the true nature of schism",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-henry-nature-schism.txt",
+  "words": 13030
+ },
+ {
+  "id": "arch/bim_eighteenth-century_infant-baptism-a-part-a_gill-john_1769",
+  "title": "BÁP-TÊM TRẺ EM: TRỤ CỘT CỦA CHỦ NGHĨA GIÁO HOÀNG",
+  "orig": "Infant-baptism, a part and pillar of popery",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-gill-infant-baptism-popery.txt",
+  "words": 11961
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-law-in-the-hand-of-c_gill-john_1761",
+  "file": "arch-gill-law-hand-christ.txt",
+  "title": "LUẬT PHÁP TRONG TAY ĐẤNG CHRIST",
+  "orig": "The law in the hand of Christ",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_levis-urim-and-thummim-_gill-john_1725",
+  "file": "arch-gill-urim-thummim.txt",
+  "title": "U-RIM VÀ THU-MIM Ở NƠI ĐẤNG CHRIST",
+  "orig": "Levi's Urim and Thummim found with Christ",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-true-way-to-loyalty_owen-john-chaplain_1684",
+  "file": "arch-owen-true-loyalty.txt",
+  "title": "CON ĐƯỜNG TRUNG THÀNH CHÂN THẬT",
+  "orig": "The True Way to Loyalty: A Sermon Preached (Titus 3:1)",
+  "author": "Owen, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_instruction-for-the-igno_bunyan-john_1675",
+  "orig": "Instruction for the ignorant",
+  "title": "SỰ DẠY DỖ CHO KẺ DỐT NÁT",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-bunyan-instruction-ignorant.txt",
+  "words": 11880
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-occasiond-by-_gill-john_1739",
+  "file": "arch-gill-funeral-margaret.txt",
+  "title": "BÀI GIẢNG NHÂN LỄ TANG BÀ MARY FALL",
+  "orig": "A sermon occasion'd by the death of Mrs. Mary Fall",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/scripturedoctrin01plum",
+  "file": "arch-plumer-call-ministry.txt",
+  "title": "SỰ KÊU GỌI VÀO CHỨC VỤ PHÚC ÂM",
+  "orig": "Scripture Doctrine of a Call to the Work of the Gospel Ministry",
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-preached-at-bro_henry-matthew_1712",
+  "file": "arch-henry-sermon-broadoak.txt",
+  "title": "BÀI GIẢNG TẠI LỄ TANG BÀ KATHARINE HENRY",
+  "orig": "A sermon preached at Broad-Oak, June 4, 1707, on the occasion of the death of Mrs. Katharine Henry",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_pedo-baptism-disproved-_keach-benjamin_1691",
+  "orig": "Pedo-Baptism Disproved",
+  "title": "PHÉP BÁP-TÊM TRẺ EM BỊ BÁC BỎ",
+  "author": "Benjamin Keach",
+  "file": "arch-keach-pedobaptism.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 10586
+ },
+ {
+  "id": "arch/ASPC0001866600",
+  "file": "arch-edwards-slave-trade.txt",
+  "title": "SỰ BẤT CÔNG CỦA VIỆC BUÔN BÁN NÔ LỆ",
+  "orig": "The Injustice and Impolicy of the Slave Trade",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_disputes-reviewd-in-a-_henry-matthew_1710",
+  "title": "XÉT LẠI CÁC CUỘC TRANH CÃI",
+  "orig": "Disputes Review'd",
+  "author": "Matthew Henry",
+  "file": "arch-henry-disputes-reviewed.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-saints-privilege-_sibbes-richard_1641",
+  "file": "arch-sibbes-saints-privilege.txt",
+  "title": "Đặc Quyền Của Các Thánh",
+  "orig": "The Saints Priviledge",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-sure-performance-of-_gill-john_1755",
+  "file": "arch-gill-sure-prophecy.txt",
+  "title": "SỰ ỨNG NGHIỆM CHẮC CHẮN CỦA LỜI TIÊN TRI",
+  "orig": "The sure performance of prophecy",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 12158,
+  "lang": "vi"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-watchmans-answer-to_gill-john_1754",
+  "title": "LỜI ĐÁP CỦA NGƯỜI CANH GIỮ",
+  "orig": "The Watchman's Answer to the Question, What of the Night?",
+  "author": "John Gill",
+  "file": "arch-gill-watchman-answer.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 12529,
+  "lang": "vi"
+ },
+ {
+  "id": "arch/truecouragedisco00dabn",
+  "file": "arch-dabney-true-courage.txt",
+  "title": "LÒNG CAN ĐẢM CHÂN THẬT",
+  "orig": "True courage: a discourse commemorative of Lieut. General T. J. Jackson",
+  "author": "Dabney, R. L.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-concerning-the-_henry-matthew_1711",
+  "title": "Sự Tha Thứ Tội Lỗi Như Một Món Nợ",
+  "orig": "A sermon concerning the forgiveness of sin",
+  "author": "Matthew Henry",
+  "file": "arch-henry-forgiveness-sin.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-preachd-at-che_henry-matthew_1726",
+  "title": "Bài Giảng Tại Chester",
+  "orig": "A sermon preach'd at Chester",
+  "author": "Matthew Henry",
+  "file": "arch-henry-sermon-chester.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_-the-sha_owen-john_1649",
+  "title": "Sự Rúng Động Và Sự Cất Đi Của Trời Và Đất",
+  "orig": "The shaking and translating of heaven and earth",
+  "author": "John Owen",
+  "file": "arch-owen-shaking-heaven-earth.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_two-sermons-_sibbes-richard_1639",
+  "title": "Hai Bài Giảng",
+  "orig": "Two sermons (1639)",
+  "author": "Richard Sibbes",
+  "file": "arch-sibbes-two-sermons.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-advantage-of-the-kin_owen-john-dd_1651",
+  "orig": "The advantage of the kingdome of Christ",
+  "author": "John Owen",
+  "title": "LỢI ÍCH CỦA VƯƠNG QUỐC ĐẤNG CHRIST",
+  "file": "translations/arch-owen-advantage-kingdom.txt",
+  "words": 14773,
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/hodge-charles-emancipation",
+  "file": "arch-hodge-emancipation.txt",
+  "title": "Sự Giải Phóng Nô Lệ",
+  "orig": "Emancipation",
+  "author": "Charles Hodge",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-quiet-and-easy-passa_gill-john_1760",
+  "file": "arch-gill-quiet-easy-passage.txt",
+  "title": "Cuộc Vượt Qua Bình An Của Dân Chúa Đã Mua",
+  "orig": "The quiet and easy passage of Christ's purchased people",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-blessed-estate-_manton-thomas_1656",
+  "file": "arch-manton-blessed-estate.txt",
+  "title": "Phước Hạnh Của Kẻ Chết Trong Chúa",
+  "orig": "The blessed estate of them that die in the Lord",
+  "author": "Thomas Manton",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_indvlgence-and-toleratio_owen-john_1667",
+  "file": "arch-owen-indulgence-toleration.txt",
+  "title": "SỰ NHÂN NHƯỢNG VÀ KHOAN DUNG ĐƯỢC XÉT ĐẾN",
+  "orig": "Indulgence and toleration considered",
+  "author": "John Owen",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-moral-nature-and-fit_gill-john_1738",
+  "file": "translations/arch-gill-moral-nature.txt",
+  "orig": "The Moral Nature and Fitness of Things Considered",
+  "title": "BẢN CHẤT ĐẠO ĐỨC VÀ SỰ THÍCH HỢP CỦA SỰ VẬT",
+  "author_en": "John Gill",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 13911,
+  "src": "https://archive.org/download/bim_eighteenth-century_the-moral-nature-and-fit_gill-john_1738/bim_eighteenth-century_the-moral-nature-and-fit_gill-john_1738_djvu.txt"
+ },
+ {
+  "id": "arch/calvin-as-a-theologian-and-calvinism-to-day",
+  "file": "translations/arch-warfield-calvin-theologian.txt",
+  "orig": "Calvin as a Theologian and Calvinism To-day",
+  "title": "CALVIN LÀ NHÀ THẦN HỌC VÀ CHỦ NGHĨA CALVIN NGÀY NAY",
+  "author_en": "Benjamin B. Warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 16314,
+  "src": "https://archive.org/download/calvin-as-a-theologian-and-calvinism-to-day/Calvin as a Theologian and Calvinism To-day_djvu.txt"
+ },
+ {
+  "id": "arch/balm-for-wounded-spirits-plumer",
+  "file": "translations/arch-plumer-balm-wounded-spirits.txt",
+  "orig": "Balm for Wounded Spirits",
+  "title": "DẦU XOA DỊU CHO NHỮNG TÂM HỒN BỊ THƯƠNG",
+  "author": "William S. Plumer",
+  "words": 15610,
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-cruel-watchmen-a-se_rutherford-samuel_1728",
+  "file": "arch-rutherford-cruel-watchmen.txt",
+  "title": "NHỮNG NGƯỜI CANH GIỮ TÀN NHẪN",
+  "orig": "The Cruel Watchmen: A Sermon on Song v. 7,8,9",
+  "author": "Samuel Rutherford",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-doctrine-of-the-cher_gill-john_1764",
+  "file": "arch-gill-doctrine-cherubim.txt",
+  "title": "GIÁO LÝ VỀ CÁC CHÊ-RU-BIM",
+  "orig": "The Doctrine of the Cherubim Opened and Explained",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-call-to-weeping-_keach-benjamin_1699",
+  "file": "arch-keach-call-weeping.txt",
+  "title": "LỜI KÊU GỌI HÃY KHÓC",
+  "orig": "A Call to Weeping: or, A Warning touching Approaching Miseries",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_encouragements-to-faith_goodwin-thomas_1650",
+  "title_vi": "SỰ KHUYẾN KHÍCH ĐỨC TIN",
+  "orig": "Encouragements to Faith (London, 1650)",
+  "author_vi": "Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "translations/arch-goodwin-encouragements-faith.txt",
+  "src": "https://archive.org/download/bim_early-english-books-1641-1700_encouragements-to-faith_goodwin-thomas_1650/bim_early-english-books-1641-1700_encouragements-to-faith_goodwin-thomas_1650_djvu.txt"
+ },
+ {
+  "author": "Charles Hodge",
+  "by": "Muse",
+  "file": "arch-hodge-what-is-presbyterianism.txt",
+  "id": "arch/whatispresbyteri0000hodg",
+  "orig": "What is Presbyterianism? An address",
+  "reviewed": false,
+  "title": "Trưởng Lão Là Gì?"
+ },
+ {
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "file": "arch-warfield-difficult-passages.txt",
+  "id": "arch/somedifficultp00warf",
+  "orig": "Some Difficult Passages in the First Chapter of 2 Corinthians",
+  "reviewed": false,
+  "title": "Những Đoạn Khó Trong Chương Đầu Của 2 Cô-rinh-tô"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_hope-and-fear-balancd-_henry-matthew_1711",
+  "file": "arch-henry-hope-fear-balanced.txt",
+  "title": "Sự Trông Cậy Và Sự Kính Sợ Được Giữ Thăng Bằng",
+  "orig": "Hope and fear balanc'd: a sermon preach'd at the Tuesday lecture at Salters Hall (1711)",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-sermon-concerning-the-_henry-matthew_1705",
+  "file": "arch-henry-friendly-visits.txt",
+  "title": "SỰ QUẢN LÝ ĐÚNG ĐẮN CÁC CUỘC THĂM VIẾNG THÂN HỮU",
+  "orig": "A sermon concerning the right management of friendly visits",
+  "author": "Matthew Henry",
   "by": "Muse",
   "reviewed": false
  }

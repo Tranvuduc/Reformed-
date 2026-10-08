@@ -36,7 +36,6 @@ Nhưng tôi khiêm nhường hy vọng rằng, dù chúng ta gian ác đến đ�
 
 Xin cho phép tôi được ngỏ lời với các bạn về chủ đề chức vụ của các bạn. Tôi xin làm điều nầy với lòng tôn trọng cao nhất đối với chức vụ của các bạn, với mọi sự đứng đắn và khiêm nhường, với con mắt hướng về lợi ích tốt nhất của các bạn... vì vậy với sự tự do và trung tín của Cơ Đốc nhân... Tôi đã được thúc đẩy làm điều nầy: từ việc nhìn thấy bàn tay Đức Chúa Trời trong việc đánh thức nhiều anh em mục sư đáng kính của chúng ta; sự siêng năng không mệt mỏi của họ trong công việc phục vụ các linh hồn; những hy vọng tôi [ấp ủ]... vinh quang của Đức Chúa Trời đang trở lại với [Hội Thánh] mà... [NEEDS REVIEW: đoạn kết bị nát trong bản OCR gốc — khoảng 100 dòng cuối chỉ còn những mảnh câu rời rạc, không thể tái dựng chắc chắn; bản dịch trên giữ lại những câu đọc được rõ ràng nhất.]
 
-TRANSLATION STATUS: COMPLETE
 
 TERMINOLOGY ISSUES:
 - "persons of all denominations" → "mọi người thuộc mọi giáo phái" (Whitefield viết cho mọi giáo phái Tin Lành trong bối cảnh chiến tranh 1756).
@@ -50,3 +49,5 @@ TERMINOLOGY ISSUES:
 - [NEEDS REVIEW: OCR] Nhiều đoạn trong nguồn bị nhiễu OCR nặng (chữ ſ dài, ký tự rác); đã tái dựng theo ngữ cảnh tốt nhất có thể và đánh dấu [NEEDS REVIEW] ở đoạn kết.
 - "Lord of Sabaoth" → "Chúa của vạn quân".
 - "Smithfield" (nơi thiêu các tử đạo Tin Lành dưới thời Mary I), "Ireland" (vụ thảm sát 1641), "Paris" (vụ thảm sát đêm Thánh Bartholomew 1572), "Nimes" (đàn áp Tin Lành ở Pháp) — các địa danh lịch sử giữ nguyên.
+
+TRANSLATION STATUS: COMPLETE
