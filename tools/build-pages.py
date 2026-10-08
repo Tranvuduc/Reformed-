@@ -33,6 +33,7 @@ CSS = (":root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a
        ".bk-spine{aspect-ratio:4/3;padding:12px;display:flex;flex-direction:column;justify-content:flex-end;gap:2px;color:#fff;position:relative;background-image:linear-gradient(160deg,rgba(255,255,255,.14),rgba(0,0,0,.30))}"
        ".bk-spine b{font-size:.62rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;opacity:.85}"
        ".bk-spine i{font-style:normal;font-weight:700;font-size:1.02rem;line-height:1.22;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}"
+       ".au-spine{aspect-ratio:16/9!important;align-items:center;justify-content:center!important}.au-spine svg{width:64px;height:64px}"
        ".bk-body{padding:10px 12px 4px;display:flex;flex-direction:column;gap:4px}"
        ".bk-by{font-weight:600;font-size:.85rem;margin:0;color:var(--fg)}"
        ".bk-d{font-size:.78rem;color:var(--mut);margin:0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}"
@@ -249,10 +250,16 @@ for _alias, _canon in AUTHOR_ALIASES.items():
             f'</head><body><p>Trang này đã chuyển đến <a href="/a/{_ck}.html">{E(_cn)}</a>.</p></body></html>\n')
 
 # author index
-lis = "".join(f'<li><a href="/{a["path"]}">{E(a["name"])}</a> <small>({len(a["ccel"]) + len(a["ia"])})</small></li>' for a in sorted(authors.values(), key=lambda x: x["name"]) if "path" in a)
+def _acard(name, path, n):
+    ips = [p for p in name.replace('.', ' ').split() if p and p[0].isalpha()]
+    ini = ((ips[0][0] + (ips[-1][0] if len(ips) > 1 else '')) or '?').upper()
+    return (f'<article class="bk-card"><a class="bk-main" href="/{path}">'
+            f'<div class="bk-spine au-spine" style="background-color:{bcolor(name)}"><svg viewBox="0 0 96 96" aria-hidden="true"><circle cx="48" cy="48" r="40" fill="none" stroke="rgba(255,255,255,.85)" stroke-width="3"/><text x="48" y="62" text-anchor="middle" font-size="32" fill="rgba(255,255,255,.92)" font-family="Georgia,serif">{E(ini)}</text></svg></div>'
+            f'<div class="bk-body"><p class="by">{E(name)}</p><div class="bk-d">{n} tác phẩm</div></div></a></article>')
+_alis = "".join(_acard(a["name"], a["path"], len(a["ccel"]) + len(a["ia"])) for a in sorted(authors.values(), key=lambda x: x["name"]) if "path" in a)
 open("tac-gia.html", "w", encoding="utf-8").write(page("Tác giả Cải Chánh và Thanh giáo – sách miễn phí | Reformed Vietnam",
     "Danh sách tác giả Cải Chánh, Thanh giáo và Trưởng Lão: Calvin, Owen, Spurgeon, Ryle, Bunyan và nhiều người khác, với sách đọc miễn phí.", "tac-gia.html",
-    f"<h1>Tác giả Cải Chánh và Thanh giáo</h1><p>Chọn một tác giả để xem sách đọc hoặc tải miễn phí.</p><ul>{lis}</ul>"))
+    f"<h1>Tác giả Cải Chánh và Thanh giáo</h1><p>Chọn một tác giả để xem sách đọc hoặc tải miễn phí.</p>" + bkgrid(_alis, "Tìm tác giả...")))
 
 # Vietnamese hub: our own translations first, then partner sources
 rv = [r for r in mg["vn"] if r["id"].startswith("rv-")]
