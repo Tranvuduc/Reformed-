@@ -1,0 +1,20 @@
+name: Tạo sách nói (Azure)
+on:
+  workflow_dispatch:
+    inputs:
+      slug: {description: "slug trong txt/ (vd do-you-pray)", required: true}
+      voice: {description: "Giọng", default: "vi-VN-HoaiMyNeural"}
+      limit: {description: "Chỉ N đoạn đầu (0 = cả sách)", default: "0"}
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/tts_gen.py "${{ inputs.slug }}" --voice "${{ inputs.voice }}" --limit "${{ inputs.limit }}"
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: tts-${{ inputs.slug }}
+          path: tts_out/${{ inputs.slug }}
