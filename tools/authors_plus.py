@@ -64,10 +64,10 @@ _apage = '<style>.bio{margin:12px 0 18px;padding:14px 16px;border-radius:10px;ba
 for _sl, _nm, _yr, _tr, _bio, _wk, _vn in _AB:
     _dl = (f'<dt>Sống</dt><dd>{E(_yr)}</dd>' if _yr else '') + (f'<dt>Truyền thống</dt><dd>{E(_tr)}</dd>' if _tr else '') + (f'<dt>Tác phẩm tiêu biểu</dt><dd>{E("; ".join(_wk))}</dd>' if _wk else '')
     _rel_l = _rel(_sl, _tr, _nm)
-    _blk = (f'<div class="bio">{_monogram(_nm)}<p>{E(_bio)}</p><dl>{_dl}</dl>'
+    _blk = (f'<div class="bio"><p>{E(_bio)}</p><dl>{_dl}</dl>'
             + ('<p class="rel"><b>Tác giả liên quan:</b> ' + " ".join(f'<a href="/a/{s}.html">{E(n)}</a>' for s, n in _rel_l) + '</p>' if _rel_l else '')
             + ('<p><b>Đọc tiếng Việt ngay:</b></p><ul>' + "".join(f'<li><a href="/reader.html?id=vn/{s}">{E(_VT[s][0])}</a> (khoảng {_min(s)} phút, bản dịch AI chưa duyệt)</li>' for s in _vn if s in _VT) + '</ul>' if _vn else '')
-            + '<p style="clear:both"><small>Tiểu sử tóm tắt do AI soạn, chưa được mục sư duyệt. Hãy đối chiếu với nguồn lịch sử đáng tin cậy.</small></p></div>')
+            + '<p><small>Tiểu sử tóm tắt do AI soạn, chưa được mục sư duyệt. Hãy đối chiếu với nguồn lịch sử đáng tin cậy.</small></p></div>')
     for _s in _sl:
         _p = f"a/{_s}.html"
         if not _os.path.exists(_p): continue

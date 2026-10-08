@@ -224,8 +224,13 @@ for k, a in authors.items():
     if n < 2: continue
     path = f"a/{k}.html"
     _sig = _auth_sig(k)
-    intro = ((_sig + " ") if _sig else "") + f"Trang này tập hợp {n} tác phẩm của {a['name']} thuộc phạm vi công cộng: sách thần học, bài giảng, luận thuyết và tài liệu linh tu của truyền thống Cải Chánh và Thanh giáo. Tất cả đều có thể đọc trực tuyến, nghe đọc thành tiếng hoặc tải EPUB/PDF miễn phí trong thư viện Reformed Vietnam."
-    body = f'<h1>{E(a["name"])} – sách miễn phí</h1><p>{E(intro)}</p><p><a class="btn" href="/?q={E(a["name"].split()[-1])}">Mở trong thư viện</a></p>' + bkgrid("".join(items))
+    _nm = a['name']
+    _ips = [p for p in _nm.replace('.', ' ').split() if p and p[0].isalpha()]
+    _ini = ((_ips[0][0] + (_ips[-1][0] if len(_ips) > 1 else '')) or '?').upper()
+    _mono = (f'<svg class="au-pic" viewBox="0 0 96 96" aria-hidden="true"><circle cx="48" cy="48" r="44" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="48" cy="48" r="37" fill="none" stroke="currentColor" stroke-width="1" opacity=".35"/><text x="48" y="61" text-anchor="middle" font-size="30" fill="currentColor" font-family="Georgia,serif">{E(_ini)}</text></svg>')
+    _ahead = '<style>.au-pic{width:84px;height:84px;color:var(--acc);float:left;margin:2px 14px 8px 0}.au-head{overflow:hidden}</style>'
+    intro = ((_sig + " ") if _sig else "") + f"Trang này tập hợp {n} tác phẩm của {_nm} thuộc phạm vi công cộng: sách thần học, bài giảng, luận thuyết và tài liệu linh tu của truyền thống Cải Chánh và Thanh giáo. Tất cả đều có thể đọc trực tuyến, nghe đọc thành tiếng hoặc tải EPUB/PDF miễn phí trong thư viện Reformed Vietnam."
+    body = f'<div class="au-head">{_ahead}{_mono}<h1>{E(_nm)} – sách miễn phí</h1></div><p style="clear:both">{E(intro)}</p><p><a class="btn" href="/?q={E(_nm.split()[-1])}">Mở trong thư viện</a></p>' + bkgrid("".join(items))
     ld = {"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{a['name']} – sách miễn phí", "inLanguage": "vi", "url": f"{SITE}/{path}"}
     open(path, "w", encoding="utf-8").write(page(f"{a['name']} – sách miễn phí, đọc và tải | Reformed Vietnam", intro, path, body, ld)); urls.append(path); a["path"] = path
 
