@@ -333,7 +333,10 @@ $("tr").title=L.trans;
 
 /* ---------- listen (device voice or Piper) ---------- */
 var playing=false,paused=false,queue=[],qi=0,VOICES=[],keep=null,sleepT=null;
-function chunks(t){var out=[],vv=ls("rv.voice"),M=(vv==="gtts"||(!vv&&lgOf(t)==="vi"&&!pick("vi")))?190:(vv==="piper"?260:380),buf="";t.replace(/\s+/g," ").split(/(?<=[.!?])\s+/).forEach(function(x){if(buf&&(buf+" "+x).length<=M){buf+=" "+x;return}if(buf)out.push(buf);buf="";x=x;if(x.length<=M){buf=x;return}while(x.length>M){var k=x.lastIndexOf(", ",M);if(k<80)k=x.lastIndexOf(" ",M);if(k<80)k=M;out.push(x.slice(0,k+1).trim());x=x.slice(k+1).trim()}buf=x});if(buf)out.push(buf);return out.filter(function(z){return z.trim()})}
+/* Phones suspend device speech (speechSynthesis) when the screen locks or the app is backgrounded; real audio files keep playing. So Auto = audio on phones. */
+var MOB=/Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent);
+function useG(lg){var v=ls("rv.voice");return v==="gtts"||(!v&&((lg==="vi"&&!pick("vi"))||MOB))}
+function chunks(t){var out=[],vv=ls("rv.voice"),M=useG(lgOf(t))?190:(vv==="piper"?260:380),buf="";t.replace(/\s+/g," ").split(/(?<=[.!?])\s+/).forEach(function(x){if(buf&&(buf+" "+x).length<=M){buf+=" "+x;return}if(buf)out.push(buf);buf="";x=x;if(x.length<=M){buf=x;return}while(x.length>M){var k=x.lastIndexOf(", ",M);if(k<80)k=x.lastIndexOf(" ",M);if(k<80)k=M;out.push(x.slice(0,k+1).trim());x=x.slice(k+1).trim()}buf=x});if(buf)out.push(buf);return out.filter(function(z){return z.trim()})}
 var VI=/[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 function lgOf(t){return VI.test(t)?"vi":"en"}
 function score(v){var n=v.name,s=0;if(/natural|neural/i.test(n))s+=50;if(/online/i.test(n))s+=30;if(/google/i.test(n))s+=20;if(/siri|premium|enhanced/i.test(n))s+=25;if(/compact|espeak/i.test(n))s-=20;if(!v.localService)s+=5;return s}
@@ -360,6 +363,7 @@ async function buildQueue(startK){
   queue=[];texts.forEach(function(tx,k){if(k<startK)return;chunks(tx).forEach(function(c){queue.push({t:c,k:k})})});qi=0;
 }
 function firstVisibleK(){var els=$("txt").children;for(var i=0;i<els.length;i++){if(els[i].getBoundingClientRect().bottom>90)return+els[i].dataset.k}return 0}
+var sid=0,gb={},gbk=[];function gBlob(u){if(!gb[u]){gb[u]=fetch(u).then(function(r){if(!r.ok)throw 0;return r.blob()}).then(function(b){return URL.createObjectURL(b)});gb[u].catch(function(){delete gb[u]});gbk.push(u);while(gbk.length>10){var o=gbk.shift();if(gb[o])gb[o].then(function(x){try{URL.revokeObjectURL(x)}catch(e){}});delete gb[o]}}return gb[u]}
 var gc={};function gU(t,l){return"api/tts?tl="+l+"&q="+encodeURIComponent(t.slice(0,200))}
 function gP(t,l){var u=gU(t,l);if(gc[u])return;gc[u]=1;try{fetch(u).catch(function(){})}catch(e){}}
 /* TTS pronunciation dictionary: spoken form only, displayed text is unchanged */
@@ -368,15 +372,15 @@ function pron(t){for(var i=0;i<PRON.length;i++)t=t.split(PRON[i][0]).join(PRON[i
 function speak(){
   if(!playing||paused)return;
   if(qi>=queue.length){if(cur<pages.length-1){render(cur+1);buildQueue(0).then(function(){if(playing)speak()})}else stopA();return}
-  var it=queue[qi++];mark(it.k);var tx=lgOf(it.t)==="vi"?pron(it.t):it.t;
-  var vv=ls("rv.voice"),lg0=lgOf(it.t);if(!vv&&lg0==="vi"&&!pick("vi"))vv="gtts";
+  sid++;var it=queue[qi++];mark(it.k);var tx=lgOf(it.t)==="vi"?pron(it.t):it.t;
+  var vv=ls("rv.voice"),lg0=lgOf(it.t);if(useG(lg0))vv="gtts";
   if(vv==="gtts"){
-    var ga=paudio;var nq=queue[qi];if(nq)gP(lgOf(nq.t)==="vi"?pron(nq.t):nq.t,lgOf(nq.t));ga.playbackRate=+$("sp").value;
+    var ga=paudio,my=sid;for(var j=0;j<3;j++){var nq=queue[qi+j];if(nq)gBlob(gU(lgOf(nq.t)==="vi"?pron(nq.t):nq.t,lgOf(nq.t))).catch(function(){})}ga.playbackRate=+$("sp").value;
     ga.onended=function(){gfail=0;speak()};ga.onerror=function(){if(!playing)return;if(++gfail>=2){gfail=0;ls("rv.voice","");$("vo").value="";alert(L.gfail);stopA();return}qi=Math.max(0,qi-1);setTimeout(speak,500)};
     var tried=false,go=function(){if(tried||!playing||paused)return;tried=true;try{ga.play().catch(function(){})}catch(e){}};
     ga.oncanplay=function(){ga.oncanplay=null;go()};
     setTimeout(go,8000);
-    ga.src=gU(tx,lg0);return;
+    var gu=gU(tx,lg0);gBlob(gu).then(function(b){if(my===sid&&playing&&!paused)ga.src=b}).catch(function(){if(my===sid&&playing&&!paused)ga.src=gu});return;
   }
   if(vv==="piper"){
     $("pt").textContent=pready?"…":(pprog?pprog+"%":"…");if(!pready){$("pt").title=L.pload;var pi=setInterval(function(){if(pready||!playing){clearInterval(pi);return}$("pt").textContent=pprog?pprog+"%":"…"},500)}
@@ -391,21 +395,23 @@ function speak(){
   u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
 }
 function cancelSpeech(){try{speechSynthesis.cancel()}catch(e){}try{paudio.pause()}catch(e){}}
+function msSet(){if(!("mediaSession" in navigator))return;try{navigator.mediaSession.metadata=new MediaMetadata({title:document.title.replace(/\s*·\s*Reformed Vietnam$/,""),artist:"Reformed Vietnam",album:"Sách nói",artwork:[{src:"/icon-512.png",sizes:"512x512",type:"image/png"}]});var h=function(a,f){try{navigator.mediaSession.setActionHandler(a,f)}catch(e){}};h("play",function(){if(!playing||paused)pauseToggle()});h("pause",function(){if(playing&&!paused)pauseToggle()});h("nexttrack",function(){jump(1)});h("previoustrack",function(){jump(-1)})}catch(e){}}
+function msState(v){try{if("mediaSession" in navigator)navigator.mediaSession.playbackState=v}catch(e){}}
 function startA(){
   if(!window.speechSynthesis&&ls("rv.voice")!=="piper"&&ls("rv.voice")!=="gtts"){alert(L.nov);return}
   pfail=0;gfail=0;playing=true;paused=false;$("pl").classList.add("on");$("au").classList.add("on");$("pt").textContent="⏸";sizeFoot();
-  cancelSpeech();loadVoices();
+  cancelSpeech();loadVoices();msSet();msState("playing");
   buildQueue(firstVisibleK()).then(function(){speak()});
   clearInterval(keep);keep=setInterval(function(){if(playing&&!paused&&window.speechSynthesis&&speechSynthesis.speaking&&!speechSynthesis.paused&&ls("rv.voice")!=="piper"){speechSynthesis.pause();speechSynthesis.resume()}},12000);
 }
 function stopA(soft){
-  playing=false;paused=false;clearInterval(keep);cancelSpeech();$("pt").textContent="▶";
+  playing=false;paused=false;clearInterval(keep);cancelSpeech();msState("none");$("pt").textContent="▶";
   [].forEach.call($("txt").querySelectorAll(".rd"),function(e){e.classList.remove("rd")});
   if(!soft){$("pl").classList.remove("on");$("au").classList.remove("on");clearTimeout(sleepT)}
 }
 function pauseToggle(){
   if(!playing){startA();return}
-  if(paused){paused=false;$("pt").textContent="⏸";qi=Math.max(0,qi-1);speak()}else{paused=true;cancelSpeech();$("pt").textContent="▶"}
+  if(paused){paused=false;msState("playing");$("pt").textContent="⏸";qi=Math.max(0,qi-1);speak()}else{paused=true;msState("paused");cancelSpeech();$("pt").textContent="▶"}
 }
 function jump(d){
   if(!playing)return;var k=queue[Math.max(0,qi-1)]?queue[Math.max(0,qi-1)].k:0,t=Math.max(0,k+d);cancelSpeech();

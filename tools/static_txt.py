@@ -27,7 +27,7 @@ class _X(_HP):
             if t.lower() in ("mục lục", "tải về", "sách liên quan"): return
             t = t.upper()
             if s.out and t == s.out[0]: return
-        elif _re.match(r"^(Tải EPUB|Đọc ngay|Về thư viện)", t): return
+        elif _re.match(r"^(📖|Tải EPUB|Đọc ngay|Về thư viện)", t): return
         if _re.match(r"^[=_\-]{5,}$", t): return
         s.out.append(t)
 _o.makedirs("txt", exist_ok=True)
