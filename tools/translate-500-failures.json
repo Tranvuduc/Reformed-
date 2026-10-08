@@ -1,102 +1,102 @@
 [
  {
   "id": "alexander_jw/crucible",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
  },
  {
   "id": "clarkson/owenfuneral",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "flavel/lovely",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "calvin/institutio1",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "bunyan/miscellaneous",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "calvin/institutio2",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "flavel/life",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "strong/theology3",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "strong/theology2",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "pink/godhood",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "pink/tithing",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "spurgeon/treasury1",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "spurgeon/treasury5",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "spurgeon/treasury6",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "spurgeon/treasury4",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "spurgeon/treasury2",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "spurgeon/treasury3",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "whyte/behmen",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "spurgeon/comment",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "whyte/teresa",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "pink/law",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "owen/grotius",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "knox/blast",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "pink/comfort",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  },
  {
   "id": "pink/inspiration",
-  "error": "gemini call failed"
+  "error": "gemini call failed: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error,"
  }
 ]
