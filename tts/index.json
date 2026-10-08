@@ -1,1 +1,6 @@
-{"base":"","books":{}}
+{
+ "base": "tts/",
+ "books": {
+  "do-you-pray": 30
+ }
+}
