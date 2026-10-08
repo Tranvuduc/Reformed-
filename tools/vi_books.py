@@ -39,11 +39,13 @@ for _b in _idx:
         _paras = [p.strip() for p in "\n".join(ps).split("\n\n") if p.strip()]
         _body_secs += f'<h2 id="c{i+1}">{E(h)}</h2>' + "".join(f"<p>{E(p).replace(chr(10), '<br>')}</p>" for p in _paras)
     _orig = _b.get("orig", ""); _au = _b.get("author", "")
-    _body = (f'<style>.dr{{padding:.6em .9em;border-radius:8px;background:#d9a41e22}}.bt{{columns:1}}main h2{{margin-top:1.8em}}</style>'
+    _rd = f'/reader.html?id=vn/{_slug}&pid=' + _ul.quote(_b["id"], safe="")
+    _body = (f'<style>.dr{{padding:.6em .9em;border-radius:8px;background:#d9a41e22}}.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}</style>'
              f'<h1>{E(_b["title"])}</h1><p>{E(_au)}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f'</p>{_label}' +
+             f'<p class="rd-top"><a class="btn" href="{_rd}">📖 Đọc trong trình đọc</a></p>' +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
              f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}'
-             f'<p><a class="btn" href="/reader.html?id=vn/{_slug}&pid=' + _ul.quote(_b["id"], safe="") + '">Mở trong trình đọc</a> <a class="btn s" href="/">Về thư viện</a></p>')
+             f'<p><a class="btn" href="{_rd}">Mở trong trình đọc</a> <a class="btn s" href="/">Về thư viện</a></p>')
     _path = f"ban-dich/{_slug}.html"
     _ld = {"@context": "https://schema.org", "@type": "Book", "name": _b["title"],
            "author": {"@type": "Person", "name": _au},
