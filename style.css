@@ -225,3 +225,87 @@ body:not(.home) #bw{display:none}
 .spine i{text-shadow:0 1px 3px rgba(0,0,0,.5),0 0 24px rgba(0,0,0,.28)}
 .grid.list .spine::before{display:none}
 @media(max-width:600px){.spine::before{font-size:54px;right:4px}}
+
+/* ===== Design polish pass 2026-10-08: typography, rhythm, micro-interactions (CSS only, no images) ===== */
+
+/* 1. Typography: hero + headings rhythm */
+.hero{padding:44px 0 28px;gap:18px}
+.hero h1{font-size:clamp(2.4rem,7vw,4rem);line-height:1.02;letter-spacing:-.025em;font-weight:800}
+.hero .lede{font-size:1.08rem;line-height:1.65;max-width:36rem}
+.shelfh h2,.sec,.cont h2,.tiles .gh{letter-spacing:-.01em}
+.shelfh h2{font-size:1.35rem}
+.sec{margin:26px 0 12px}
+/* card type hierarchy: tighter title, clearer author/badges rhythm */
+.book .body{padding:14px 15px 14px;gap:5px}
+.by{font-size:.98rem;letter-spacing:-.005em;line-height:1.35}
+.bds{margin-top:8px;gap:5px}
+.desc{line-height:1.55}
+.alt{line-height:1.5}
+
+/* 2. Spacing & rhythm: generous home whitespace */
+.home .hero{padding-bottom:34px}
+.shelf{margin:30px 0 8px}
+.shelfh{margin-bottom:14px}
+.tiles{margin:10px 0 32px;gap:14px}
+.tile{padding:18px 20px;min-height:104px;border-radius:14px}
+#allh{margin-top:34px}
+.foot{margin-top:48px;padding:24px 0 8px}
+.foot.mini{margin:28px 0 36px}
+.grid{margin-top:22px}
+
+/* 3. Micro-interactions: press states, smooth transitions */
+.btn{transition:transform .12s ease,box-shadow .15s ease,border-color .15s ease,background-color .15s ease}
+.btn:active{transform:scale(.96)}
+.chip{transition:background-color .15s ease,color .15s ease,border-color .15s ease,transform .12s ease}
+.chip:active{transform:scale(.95)}
+.tile{transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
+.tile:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(0,0,0,.10)}
+.tile:active{transform:translateY(0) scale(.99)}
+.acts a.p,.acts a.s{transition:transform .12s ease,filter .15s ease}
+.acts a.p:active,.acts a.s:active{transform:scale(.95)}
+.acts a.p:hover{filter:brightness(1.07)}
+.bar{transition:box-shadow .2s ease}
+.sacts a{transition:transform .12s ease,filter .15s ease}
+.sacts a:active{transform:scale(.97)}
+.bk-x,.lvb button,.shelfh button,.fav{transition:transform .12s ease,opacity .15s ease}
+.bk-x:active,.fav:active{transform:scale(.9)}
+.updbanner{transition:transform .15s ease,box-shadow .2s ease;animation:uprise .35s cubic-bezier(.2,.9,.3,1.2)}
+.updbanner:active{transform:translateX(-50%) scale(.95)}
+@keyframes uprise{from{opacity:0;transform:translateX(-50%) translateY(16px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
+.welc{animation:uprise2 .4s ease}
+@keyframes uprise2{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){.updbanner,.welc{animation:none}.btn,.chip,.tile{transition:none}}
+
+/* 4. Book cards: refined spine/cover depth */
+.book{border-radius:14px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.spine{padding:16px 18px}
+.spine b{letter-spacing:.1em;font-size:.66rem}
+.spine i{font-size:1.28rem;line-height:1.18;letter-spacing:-.01em}
+.book .body{border-top:1px solid var(--line)}
+.grid.list .book .body{border-top:0}
+@media(prefers-reduced-motion:no-preference){.book{transition:transform .18s ease,box-shadow .2s ease}.book:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(0,0,0,.14)}}
+
+/* 5. Empty states */
+.empty{padding:52px 24px;border-radius:16px;font-size:.95rem;line-height:1.7}
+.empty::before{content:"\2726";display:block;font-size:1.6rem;margin-bottom:10px;color:var(--accent);opacity:.7}
+
+/* 6. Focus states: elegant, visible */
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:6px}
+.search input:focus-visible{outline:none}
+.book:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+.tile:focus-visible,.chip:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+
+/* 7. Small premium details */
+::selection{background:var(--accent);color:var(--accent-fg)}
+.nav .links a{transition:color .15s ease,background-color .15s ease}
+.brand{letter-spacing:-.015em}
+.more .btn{border-radius:999px}
+.search input{transition:border-color .18s ease,box-shadow .18s ease}
+.sheet{box-shadow:0 24px 70px rgba(0,0,0,.28)}
+.sheet h2{letter-spacing:-.015em}
+dialog{box-shadow:0 24px 70px rgba(0,0,0,.28)}
+.bd{letter-spacing:.04em}
+.count{font-variant-numeric:tabular-nums}
+.meter{height:6px}
+.pr output{font-variant-numeric:tabular-nums}
+@media(max-width:600px){.hero{padding:30px 0 22px}.hero h1{font-size:clamp(2.1rem,9vw,2.8rem)}.tile{padding:16px}.book .body{padding:12px 13px}}

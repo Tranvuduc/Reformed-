@@ -10,6 +10,22 @@ VIBOOKS = {}
 _hub = []
 _o.makedirs("ban-dich", exist_ok=True); _o.makedirs(f"{_TD}/review", exist_ok=True)
 open("ban-dich/.gitkeep", "w").close()
+# related-books lookup: (slug, title, author, url, orig) for all published translations
+_vn_rel = []
+for _b2 in _idx:
+    if _b2.get("hold") or not _o.path.exists(f"{_TD}/{_b2['file']}"): continue
+    _s2 = _o.path.splitext(_b2["file"])[0]
+    _vn_rel.append((_s2, _b2.get("title", ""), _b2.get("author", ""), f"/ban-dich/{_s2}.html", _b2.get("orig", "")))
+def _vn_related(slug, author, orig):
+    _okw = set(_r.findall(r"[a-zA-Z]{4,}", orig or ""))
+    _rel = [x for x in _vn_rel if x[2] == author and x[0] != slug][:6]
+    if len(_rel) < 6:
+        _rest = [x for x in _vn_rel if x[0] != slug and x not in _rel]
+        _rest.sort(key=lambda x: (-len(_okw & set(_r.findall(r"[a-zA-Z]{4,}", x[4] or ""))), x[1]))
+        _rel += _rest[:6 - len(_rel)]
+    if not _rel: return ""
+    _cards = "".join(bcard(t, a2, u2, kicker="Bản dịch") for _, t, a2, u2, _ in _rel)
+    return '<h2>Sách liên quan</h2><div class="bk-grid">' + _cards + '</div>'
 for _b in _idx:
     _f = f"{_TD}/{_b['file']}"
     if _b.get("hold") or not _o.path.exists(_f): continue
@@ -44,7 +60,7 @@ for _b in _idx:
              f'<h1>{E(_b["title"])}</h1><p>{E(_au)}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f'</p>{_label}' +
              f'<p class="rd-top"><a class="btn" href="{_rd}">📖 Đọc trong trình đọc</a></p>' +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
-             f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}'
+             f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}' + _vn_related(_slug, _au, _orig) +
              f'<p><a class="btn" href="{_rd}">Mở trong trình đọc</a> <a class="btn s" href="/">Về thư viện</a></p>')
     _path = f"ban-dich/{_slug}.html"
     _ld = {"@context": "https://schema.org", "@type": "Book", "name": _b["title"],

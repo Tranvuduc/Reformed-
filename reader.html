@@ -9,6 +9,8 @@ body{margin:0;background:var(--bg);color:var(--fg);font-family:"Noto Serif","Sou
 [data-ff=sans] #txt{font-family:"Noto Sans","Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 button,select,input{font:inherit;color:inherit}
 .rdskel{padding:24px 4px;display:grid;gap:12px;max-width:var(--w);margin:0 auto}.rdskel i{display:block;height:14px;border-radius:7px;background:linear-gradient(90deg,var(--sf) 25%,var(--ln) 50%,var(--sf) 75%);background-size:200% 100%;animation:sk 1.2s infinite}@keyframes sk{to{background-position:-200% 0}}
+.rdprog{margin-top:6px}.rdprog i{display:block;height:6px;border-radius:3px;background:var(--ac);width:0;transition:width .2s;animation:none}.rdprog span{font:12px system-ui,sans-serif;color:var(--mut)}
+#revb{position:fixed;left:50%;transform:translateX(-50%);bottom:86px;z-index:60;padding:10px 18px;border-radius:999px;border:none;background:var(--ac,#7a4a21);color:#fff;font:600 14px system-ui,sans-serif;box-shadow:0 4px 14px rgba(0,0,0,.25)}
 .ui{font:14px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 #top{position:fixed;top:0;left:0;right:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--ln);display:flex;align-items:center;gap:4px;padding:6px 10px;padding-top:calc(6px + env(safe-area-inset-top));transition:transform .25s}
 #top.h{transform:translateY(-100%)}
@@ -156,7 +158,7 @@ function render(i,scroll){
   $("txt").innerHTML=h;
   $("sl").max=pages.length;$("sl").value=cur+1;
   info();var pct=pages.length>1?Math.round(cur/(pages.length-1)*100):100;$("bar").firstChild.style.width=pct+"%";
-  ls("rv.pos."+id,cur);save(pct);
+  ls("rv.pos."+id,cur);save(pct);revCount();
   if(scroll!==false)window.scrollTo(0,0);
   trTok++;if(trm!=="0")runTr(cur);else $("trs").hidden=true;
   $("top").classList.remove("h");hlPaint();
@@ -232,6 +234,7 @@ function bmList(){try{return JSON.parse(ls("rv.bm."+id)||"[]")}catch(e){return[]
 function repHref(){var t=ptexts(cur).slice(0,3).join(" ").slice(0,200);return"mailto:reformedvn@gmail.com?subject="+encodeURIComponent("Lỗi dịch: "+id+" trang "+(cur+1))+"&body="+encodeURIComponent("Sách: "+id+"\nTrang: "+(cur+1)+"\nĐoạn đầu: "+t+"\n\nLỗi / bản dịch đúng:\n")}
 function moreView(b){
   var bm=bmList(),h='<button class="act" id="mBm">🔖 '+L.addm+'</button><button class="act" id="mHl">🖍 '+L.hl+" ("+hlList().length+")</button>";
+  if(SV)h+='<button class="act" id="mRev">'+(REV?"✅ Chế độ duyệt: BẬT":"✓ Chế độ duyệt bản dịch")+"</button>";
   h+='<div class="lab">'+L.marks+"</div>"+(bm.length?bm.map(function(m,i){return'<button class="li" data-p="'+m.p+'" data-i="'+i+'">'+esc(m.s)+"<small>"+L.page+" "+(m.p+1)+' · <span data-del="'+i+'">'+L.del+"</span></small></button>"}).join(""):'<div style="color:var(--mut);margin-bottom:10px">'+L.nom+"</div>");
   h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>"+(trm!=="0"?'<a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+repHref()+'">⚠️ '+L.rep+"</a>":"");
   b.innerHTML=h;
@@ -242,7 +245,25 @@ function moreView(b){
     if(ev.target.closest("#mBm")){var a2=bmList(),pt=ptexts(cur)[0]||"";a2.push({p:cur,s:pt.slice(0,70),t:Date.now()});ls("rv.bm."+id,JSON.stringify(a2));moreView(b);return}
     if(ev.target.closest("#mEp"))doEpub(ev.target.closest("#mEp"));
     if(ev.target.closest("#mPd"))doPdf();
+    if(ev.target.closest("#mRev")){REV=!REV;try{localStorage.setItem("rv.revmode",REV?"1":"0")}catch(e){}closeSheet();revUI();return}
   };
+}
+/* Review mode: mark pages approved (vn books only) */
+var REV=false;
+try{REV=location.search.indexOf("rev=1")>=0||localStorage.getItem("rv.revmode")==="1"}catch(e){}
+function revList(){try{var v=JSON.parse(ls("rv.rev."+id)||"[]");return Array.isArray(v)?v:(v.a||[])}catch(e){return[]}}
+function revSave(a){ls("rv.rev."+id,JSON.stringify({a:a,t:pages.length}))}
+function revUI(){
+  var b=document.getElementById("revb");
+  if(!(SV&&REV)){if(b)b.hidden=true;return}
+  if(!b){b=document.createElement("button");b.id="revb";document.body.appendChild(b);
+    b.onclick=function(){var a=revList();if(a.indexOf(cur)<0){a.push(cur);revSave(a)}revUI();go(cur+1)};}
+  b.hidden=false;revCount();
+}
+function revCount(){
+  var b=document.getElementById("revb");if(!b||b.hidden)return;
+  var a=revList(),done=a.indexOf(cur)>=0;
+  b.innerHTML=done?("✅ Đã duyệt "+a.length+"/"+pages.length):("✓ Duyệt trang này · "+a.length+"/"+pages.length);
 }
 
 /* ---------- translate (free services) ---------- */
@@ -502,8 +523,29 @@ hlLoad();
 /* ---------- load ---------- */
 if(!/^[a-z0-9_-]+\/[a-z0-9_.-]+$/i.test(id)){fail();return}
 sizeFoot();addEventListener("resize",sizeFoot);
-fetch(SV?"txt/"+name+".txt":"api/text?id="+encodeURIComponent(id)).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){
-  if(t.length<500)throw 0;if(SV){var f1=t.split("\n",1)[0].trim();if(f1){name=f1;$("ttl").textContent=f1.toLowerCase().replace(/(^|\s)\S/g,function(c){return c.toUpperCase()});document.title=$("ttl").textContent+" · Reformed Vietnam"}trm="0";$("tr").hidden=true}build(t);if(!pages.length)throw 0;$("msg").remove();
+/* Progressive load with progress bar for big books */
+function loadText(url){
+  return fetch(url).then(function(r){
+    if(!r.ok)throw 0;
+    var total=+r.headers.get("content-length")||0,got=0;
+    var bar=$("msg").querySelector(".rdskel");
+    var pw=document.createElement("div");pw.className="rdprog";pw.innerHTML="<i></i><span></span>";
+    if(bar)bar.appendChild(pw);
+    var rd=r.body.getReader(),dec=new TextDecoder(),chunks=[];
+    function pump(){
+      return rd.read().then(function(x){
+        if(x.done)return chunks.join("");
+        chunks.push(dec.decode(x.value,{stream:true}));got+=x.value.length;
+        if(total&&pw){var pc=Math.min(99,Math.round(got/total*100));pw.firstChild.style.width=pc+"%";pw.lastChild.textContent=pc+"%"}
+        else if(pw){pw.lastChild.textContent=Math.round(got/1024)+" KB"}
+        return pump();
+      });
+    }
+    return pump().then(function(t){return t+dec.decode()});
+  });
+}
+loadText(SV?"txt/"+name+".txt":"api/text?id="+encodeURIComponent(id)).then(function(t){
+  if(t.length<500)throw 0;if(SV){var f1=t.split("\n",1)[0].trim();if(f1){name=f1;$("ttl").textContent=f1.toLowerCase().replace(/(^|\s)\S/g,function(c){return c.toUpperCase()});document.title=$("ttl").textContent+" · Reformed Vietnam"}trm="0";$("tr").hidden=true}build(t);if(!pages.length)throw 0;$("msg").remove();revUI();
   var pos=+ls("rv.pos."+id)||0,sc=null;try{sc=JSON.parse(ls("rv.sc."+id)||"null")}catch(e){}
   var qp=q.get("p");if(qp!==null&&!isNaN(+qp))pos=+qp;
   var fnd=q.get("find"),fk=-1;if(fnd){var ff=fold(fnd).trim();for(var i2=0;i2<P.length;i2++){var tt=fold(P[i2].t).trim();if(tt===ff||(tt.length<ff.length+6&&tt.indexOf(ff)===0)){fk=i2;break}}if(fk>=0)pos=pageOf(fk)}

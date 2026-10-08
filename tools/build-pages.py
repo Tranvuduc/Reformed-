@@ -211,8 +211,13 @@ for k, a in authors.items():
         _en_p = ('<p><small lang="en">' + E(en_d) + "</small></p>") if en_d else ""
         bs = slug(bid.replace("/", "-")); path = f"b/{bs}.html"
         ttl = f"{vt} – {a['name']} | Đọc miễn phí"
+        _brel = [(ob, ot, oy) for ob, ot, oy in a["ccel"] if ob != bid and ob not in NR][:6]
+        _brel_html = ""
+        if _brel:
+            _brel_cards = "".join(bcard(vi.get(ob, ot), a["name"], "/b/" + slug(ob.replace("/", "-")) + ".html", kicker=str(oy) if oy else "CCEL") for ob, ot, oy in _brel)
+            _brel_html = '<h2>Sách liên quan</h2><div class="bk-grid">' + _brel_cards + '</div>'
         body = (f'<h1>{E(vt)}</h1><p class="m">{E(title)} · {E(a["name"])}{f" · {yr}" if yr else ""}</p><p>{E(vi_d)}</p>{_en_p}'
-                f'<p><a class="btn" href="/reader.html?id={bid}">Đọc ngay</a> <a class="btn s" href="/a/{k}.html">Xem thêm sách của {E(a["name"])}</a></p>'
+                f'<p><a class="btn" href="/reader.html?id={bid}">Đọc ngay</a> <a class="btn s" href="/a/{k}.html">Xem thêm sách của {E(a["name"])}</a></p>' + _brel_html +
                 '<p class="m">Tác phẩm thuộc phạm vi công cộng. Nguồn: Christian Classics Ethereal Library (CCEL). Đọc trực tuyến, tải EPUB/PDF và nghe đọc thành tiếng trong thư viện.</p>')
         ld = {"@context": "https://schema.org", "@type": "Book", "name": title, "alternateName": vt, "author": {"@type": "Person", "name": a["name"]},
               "inLanguage": "en", "isAccessibleForFree": True, "description": vi_d, "url": f"{SITE}/{path}"}
@@ -272,7 +277,30 @@ open("tac-gia.html", "w", encoding="utf-8").write(page("Tác giả Cải Chánh 
     "Danh sách tác giả Cải Chánh, Thanh giáo và Trưởng Lão: Calvin, Owen, Spurgeon, Ryle, Bunyan và nhiều người khác, với sách đọc miễn phí.", "tac-gia.html",
     f"<h1>Tác giả Cải Chánh và Thanh giáo</h1><p>Chọn một tác giả để xem sách đọc hoặc tải miễn phí.</p>" + bkgrid(_alis, "Tìm tác giả...")))
 
-# Vietnamese hub: our own translations first, then partner sources
+# review dashboard for VN translations
+_vnb_all = [r for r in mg["vn"] if r.get("vnb") or r["id"].startswith("rv-")]
+_rv_rows = ""
+for r in sorted(_vnb_all, key=lambda x: x["a"]):
+    _slug = r["url"].rsplit("/", 1)[-1].replace(".html", "")
+    _rv_rows += (f'<div class="rv-row" data-rid="vn/{_slug}"><div class="rv-t"><a href="reader.html?id=vn/{_slug}&pid={E(r["id"])}&rev=1">{E(r["vi"]["t"])}</a>'
+                 f'<span class="rv-au">{E(r["a"])}</span></div><div class="rv-bar"><i></i></div><span class="rv-pc">–</span></div>')
+_rv_js = ("<script>(function(){document.querySelectorAll('.rv-row').forEach(function(row){"
+          "var k='rv.rev.'+row.dataset.rid,v=null;try{v=JSON.parse(localStorage.getItem(k))}catch(e){}"
+          "var a=Array.isArray(v)?v:(v&&v.a?v.a:[]),t=v&&v.t?v.t:0;"
+          "var pc=t?Math.round(a.length/t*100):0;"
+          "row.querySelector('.rv-bar i').style.width=pc+'%';"
+          "row.querySelector('.rv-pc').textContent=t?(a.length+'/'+t+' · '+pc+'%'):'chưa đọc';"
+          "if(pc>=100)row.classList.add('done')})})()</script>")
+_rv_css = ("<style>.rv-row{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}"
+           ".rv-t{flex:1;min-width:0}.rv-t a{font-weight:600}.rv-au{display:block;font-size:.82rem;color:var(--mut)}"
+           ".rv-bar{width:90px;height:8px;border-radius:4px;background:var(--ln,#e7ddc9);overflow:hidden;flex:none}"
+           ".rv-bar i{display:block;height:100%;width:0;background:#2e7d32}"
+           ".rv-pc{font-size:.8rem;color:var(--mut);min-width:7rem;text-align:right;flex:none}"
+           ".rv-row.done .rv-t a{color:#2e7d32}</style>")
+open("duyet.html", "w", encoding="utf-8").write(page("Duyệt bản dịch tiếng Việt | Reformed Vietnam",
+    "Trang theo dõi tiến độ duyệt các bản dịch tiếng Việt của Reformed Vietnam.", "duyet.html",
+    f"<h1>Duyệt bản dịch</h1><p>Bật <b>Chế độ duyệt</b> trong trình đọc (menu ⋯) rồi đánh dấu từng trang đã duyệt. Tiến độ lưu trên thiết bị này.</p>{_rv_css}{_rv_rows}{_rv_js}"))
+urls.append("duyet.html")
 rv = [r for r in mg["vn"] if r["id"].startswith("rv-")]
 vnb = [r for r in mg["vn"] if r.get("vnb")]
 oth = [r for r in mg["vn"] if not r.get("au") and not r["id"].startswith("rv-") and not r.get("vnb")]
@@ -287,7 +315,7 @@ rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{nrv} tác phẩm c�
 _oth_aus = [r["a"] for r in oth]
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
     "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí: bản dịch của Reformed Vietnam, Mục vụ Tiên Phong, 9Marks và các nguồn khác.", "tieng-viet.html",
-    f"<h1>Sách và bài viết tiếng Việt</h1>{rv_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p>" + bkgrid(vn, authors=_oth_aus)))
+    f"<h1>Sách và bài viết tiếng Việt</h1><p>Xem thêm <a href=\"/suu-tap/\">các bộ sưu tập sách được chọn lọc</a> theo nhu cầu: người mới tin Chúa, kinh điển, cầu nguyện, thần học hệ thống.</p>{rv_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p>" + bkgrid(vn, authors=_oth_aus)))
 urls += [r["url"].lstrip("/") for r in rv]
 
 # Audio hub
@@ -313,6 +341,7 @@ exec(open('tools/glossary.py', encoding='utf-8').read())
 exec(open('tools/vn_context.py', encoding='utf-8').read())
 exec(open('tools/subscribe_page.py', encoding='utf-8').read())
 exec(open('tools/vi_books.py', encoding='utf-8').read())
+exec(open('tools/collections.py', encoding='utf-8').read())
 exec(open('tools/articles.py', encoding='utf-8').read())
 
 # shared home image; author pages without a bio share it instead of getting their own file
