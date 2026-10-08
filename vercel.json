@@ -114,5 +114,6 @@
    "destination": "/a/thomas-beard.html",
    "permanent": true
   }
- ]
+ ],
+ "ignoreCommand": "test \"$VERCEL_GIT_COMMIT_REF\" != \"main\""
 }
