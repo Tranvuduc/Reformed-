@@ -27,15 +27,6 @@
   "batch": 1
  },
  {
-  "id": "calvin/institutio1",
-  "title_en": "Institutio Christianae Religionis vol. 1",
-  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
-  "bytes": 40428,
-  "capped": false,
-  "words": 6738,
-  "batch": 1
- },
- {
   "id": "bunyan/miscellaneous",
   "title_en": "Miscellaneous Pieces",
   "author_en": "Bunyan, John (1628-1688)",
@@ -45,39 +36,12 @@
   "batch": 1
  },
  {
-  "id": "calvin/institutio2",
-  "title_en": "Institutio Christianae Religionis vol. 2",
-  "author_en": "Calvin, John (1509-1564) <b>(54 classics)</b>",
-  "bytes": 43162,
-  "capped": false,
-  "words": 7194,
-  "batch": 1
- },
- {
   "id": "flavel/life",
   "title_en": "Life of the late Rev. Mr. John Flavel",
   "author_en": "Flavel, John (1627-1691) <b>(6 classics)</b>",
   "bytes": 43405,
   "capped": false,
   "words": 7234,
-  "batch": 1
- },
- {
-  "id": "strong/theology3",
-  "title_en": "Systematic Theology: The Doctrine of Salvation (Volume III)",
-  "author_en": "Strong, Augustus Hopkins (1836-1921)",
-  "bytes": 45911,
-  "capped": false,
-  "words": 7652,
-  "batch": 1
- },
- {
-  "id": "strong/theology2",
-  "title_en": "Systematic Theology: The Doctrine of Man (Volume II)",
-  "author_en": "Strong, Augustus Hopkins (1836-1921)",
-  "bytes": 47326,
-  "capped": false,
-  "words": 7888,
   "batch": 1
  },
  {
@@ -96,60 +60,6 @@
   "bytes": 48226,
   "capped": false,
   "words": 8038,
-  "batch": 1
- },
- {
-  "id": "spurgeon/treasury1",
-  "title_en": "Treasury of David: Volume I",
-  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
-  "bytes": 50885,
-  "capped": false,
-  "words": 8481,
-  "batch": 1
- },
- {
-  "id": "spurgeon/treasury5",
-  "title_en": "Treasury of David: Volume V",
-  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
-  "bytes": 52386,
-  "capped": false,
-  "words": 8731,
-  "batch": 1
- },
- {
-  "id": "spurgeon/treasury6",
-  "title_en": "Treasury of David: Volume VI",
-  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
-  "bytes": 55944,
-  "capped": false,
-  "words": 9324,
-  "batch": 1
- },
- {
-  "id": "spurgeon/treasury4",
-  "title_en": "Treasury of David: Volume IV",
-  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
-  "bytes": 56178,
-  "capped": false,
-  "words": 9363,
-  "batch": 1
- },
- {
-  "id": "spurgeon/treasury2",
-  "title_en": "Treasury of David: Volume II",
-  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
-  "bytes": 57877,
-  "capped": false,
-  "words": 9646,
-  "batch": 1
- },
- {
-  "id": "spurgeon/treasury3",
-  "title_en": "Treasury of David: Volume III",
-  "author_en": "Spurgeon, Charles Haddon (1834-1892) <b>(76 classics)</b>",
-  "bytes": 58436,
-  "capped": false,
-  "words": 9739,
   "batch": 1
  },
  {
@@ -26926,5 +26836,13 @@
   "words": 149976,
   "src": "https://archive.org/download/expositorythough00ryleiala/expositorythough00ryleiala_djvu.txt",
   "batch": 121
+ },
+ {
+  "id": "calvin/institutes",
+  "title_en": "The Institutes of the Christian Religion",
+  "author_en": "Calvin, John (1509-1564)",
+  "year": 1845,
+  "words": 770000,
+  "batch": 122
  }
 ]
