@@ -71,7 +71,10 @@ function nextBatch() {
 const batch = batchArg === 'auto' ? nextBatch() : +batchArg;
 if (!batch) { console.log('all 20 batches complete'); process.exit(0); }
 if (engineArg === 'auto') engineArg = batch <= 4 ? 'muse' : 'gemini';
-if (engineArg === 'muse' && !AKEY && !MOCK) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
+if (engineArg === 'muse' && !AKEY && !MOCK) {
+  if (GKEY) { console.log('ANTHROPIC_API_KEY missing, falling back to gemini (no Anthropic key by owner decision)'); engineArg = 'gemini'; }
+  else { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
+}
 if (engineArg === 'gemini' && !GKEY && !MOCK) { console.error('GEMINI_API_KEY missing'); process.exit(1); }
 console.log(`batch ${batch}, engine ${engineArg}`);
 
