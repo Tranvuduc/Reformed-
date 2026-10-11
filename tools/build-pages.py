@@ -318,8 +318,8 @@ _rv_fmts = [("epub", "C\u00f3 EPUB"), ("app", "\u0110\u1ecdc trong app")]
 rv_sec = (f"<h2>Bản dịch của Reformed Vietnam</h2><p>{nrv} tác phẩm cổ điển thuộc phạm vi công cộng, do Reformed Vietnam dịch sang tiếng Việt. Đọc ngay trên trang hoặc trong trình đọc của thư viện; một số cuốn có bản EPUB để tải. Bản dịch do AI hỗ trợ, chưa được mục sư duyệt giáo lý.</p>" + bkgrid(_allrv, authors=_rv_aus, formats=_rv_fmts)) if _allrv else ""
 _oth_aus = [r["a"] for r in oth]
 open("tieng-viet.html", "w", encoding="utf-8").write(page("Sách và bài viết tiếng Việt về thần học Cải Chánh | Reformed Vietnam",
-    "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí: bản dịch của Reformed Vietnam, Mục vụ Tiên Phong, 9Marks và các nguồn khác.", "tieng-viet.html",
-    f"<h1>Sách và bài viết tiếng Việt</h1><p>Xem thêm <a href=\"/suu-tap/\">các bộ sưu tập sách được chọn lọc</a> theo nhu cầu: người mới tin Chúa, kinh điển, cầu nguyện, thần học hệ thống.</p>{rv_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn Mục vụ Tiên Phong và 9Marks đã chia sẻ.</p>" + bkgrid(vn, authors=_oth_aus)))
+    "Tuyển chọn sách, tín điều, giáo lý và bài viết thần học Cải Chánh bằng tiếng Việt, đọc miễn phí: bản dịch của Reformed Vietnam, 9Marks và các nguồn khác.", "tieng-viet.html",
+    f"<h1>Sách và bài viết tiếng Việt</h1><p>Xem thêm <a href=\"/suu-tap/\">các bộ sưu tập sách được chọn lọc</a> theo nhu cầu: người mới tin Chúa, kinh điển, cầu nguyện, thần học hệ thống.</p>{rv_sec}<h2>Từ các nguồn khác</h2><p>{len(oth)} tài liệu thần học Cải Chánh bằng tiếng Việt, mỗi tài liệu đều có liên kết về nguồn gốc. Xin cảm ơn 9Marks và các nguồn đã chia sẻ.</p>" + bkgrid(vn, authors=_oth_aus)))
 urls += [r["url"].lstrip("/") for r in rv]
 
 # Audio hub
