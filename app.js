@@ -51,7 +51,7 @@ function typeOf(title,key,over){
 function eraOf(y){return y<1500?"anc":y<1600?"ref":y<1700?"pur":y<1800?"aw":y<1900?"mod":"c20"}
 
 /* Expand the compact catalog into full book records. */
-var IA=null,LV=null,DGJ=null,PG=null;
+var IA=null,LV=null,DGJ=null,PG=null,TI=null;
 function lvu(p){return(p.indexOf("details/")===0?"https://archive.org/":"https://librivox.org/")+p}
 function expand(d){
   AUTHORS.length=0;
@@ -91,6 +91,22 @@ function expand(d){
       out.push({id:"dg-"+r[2],ty:typeOf(r[1],"",null),er:"c20",y:2005,col:"hsl("+hue(nm)+",42%,30%)",a:nm,au:"dg",url:u,pdf:(r[3]&1)?u+".pdf":"",epub:(r[3]&2)?u+".epub":"",en:{t:r[1],n:"Free ebook from Desiring God."},vi:{t:r[1],n:"Sách điện tử miễn phí (tiếng Anh) từ Desiring God."}})})}
   [["dg","Desiring God · free books"],["lig","Ligonier · R.C. Sproul"]].forEach(function(p){if(out.some(function(b){return b.au===p[0]}))AUTHORS.push({id:p[0],name:p[1]})});
   AUTHORS.push({id:"other",name:null});
+  /* Vietnamese translations (translations/index.json) with no English catalog entry
+     become their own searchable cards; the rest are already linked via VIB. */
+  if(TI&&TI.length){
+    var haveId={},erByAu={};
+    out.forEach(function(b){haveId[b.id]=1;if(b.a&&b.er&&!erByAu[b.a])erByAu[b.a]=b.er});
+    TI.forEach(function(t){
+      if(!t||t.hold||!t.file||!t.id||haveId[t.id])return;
+      haveId[t.id]=1;
+      var slug=String(t.file).replace(/\.txt$/i,"");
+      out.push({id:t.id,c:"theology",ty:typeOf(t.orig||t.title,t.id,null),
+        er:erByAu[t.author]||"c20",y:0,col:"hsl("+hue("vn")+",42%,30%)",
+        a:t.author||"",au:"vn",url:"/ban-dich/"+slug+".html",
+        en:{t:t.orig||t.title,n:""},
+        vi:{t:t.title,n:"Bản dịch tiếng Việt · AI, chưa duyệt"}});
+    });
+  }
   return out;
 }
 
@@ -398,7 +414,7 @@ var jf=function(u){return fetch(u).then(function(r){return r.json()}).catch(func
 /* Core data first (fast first paint); the big Internet Archive / Gutenberg catalogs stream in afterwards. */
 var jl=function(u){return fetch(u,{priority:"low"}).then(function(r){return r.json()}).catch(function(){return null})};
 var rest=null,restGo=function(){return rest||(rest=Promise.all([jl("ia.json"),jl("pg.json")]))};
-Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"),jf("vi.json"),jf("desc.json"),jf("lv.json"),jf("dg.json"),jf("audio.json"),jf("vi-books.json")]).then(function(x){var d=x[0];window.VIB=x[7]||{};if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}LV=x[4];DGJ=x[5];if(x[6]&&x[6].ccel)x[6].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}
+Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"),jf("vi.json"),jf("desc.json"),jf("lv.json"),jf("dg.json"),jf("audio.json"),jf("vi-books.json"),jf("translations/index.json")]).then(function(x){var d=x[0];window.VIB=x[7]||{};TI=x[8]||null;if(x[3]){DESC=x[3].d;START=x[3].start}if(x[2]){d.vi=d.vi||{};for(var k in x[2])d.vi[k]=x[2][k]}LV=x[4];DGJ=x[5];if(x[6]&&x[6].ccel)x[6].ccel.forEach(function(i){AUDIO[i]=1});if(x[1]){d.mg=x[1];d.extra=(d.extra||[]).concat(x[1].vn||[])}
   BOOKS=expand(d);buildAuthors();render();deepLink();
   var dl=new URLSearchParams(location.search).get("b")||"",applied=0,apply=function(){if(applied)return;applied=1;restGo().then(function(y){if(!y[0]&&!y[1])return;IA=y[0];PG=y[1];BOOKS=expand(d);buildAuthors();render();deepLink()})};
   /* Big scan catalogs (~1 MB) are not needed to paint or read; fetch when the person starts searching/filtering, opens an ia/pg book, or after a quiet moment. */
