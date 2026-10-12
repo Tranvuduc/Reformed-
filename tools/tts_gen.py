@@ -117,6 +117,7 @@ def main():
     ap.add_argument("--rate", default="0%", help="vd -5%% cho chậm hơn")
     ap.add_argument("--limit", type=int, default=0, help="chỉ làm N đoạn đầu (để thử)")
     ap.add_argument("--dry-run", action="store_true", help="chỉ đếm ký tự, không gọi Azure")
+    ap.add_argument("--suffix", default="", help='đuôi thư mục, vd -m cho giọng nam')
     ap.add_argument("--out", default=os.path.join(ROOT, "tts_out"))
     a = ap.parse_args()
     src = os.path.join(ROOT, "txt", a.slug + ".txt")
@@ -133,7 +134,7 @@ def main():
     key, region = os.environ.get("AZURE_SPEECH_KEY"), os.environ.get("AZURE_SPEECH_REGION", "southeastasia")
     if not key:
         print("Không có AZURE_SPEECH_KEY → dùng edge-tts (miễn phí, không cần tài khoản)")
-    od = os.path.join(a.out, a.slug)
+    od = os.path.join(a.out, a.slug + a.suffix)
     os.makedirs(od, exist_ok=True)
     for k, p in enumerate(paras):
         fn = os.path.join(od, "%d.mp3" % k)

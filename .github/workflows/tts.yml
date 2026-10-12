@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       slug: {description: "Tên sách (vd do-you-pray)", required: true, default: "do-you-pray"}
-      voice: {description: "Giọng", default: "vi-VN-HoaiMyNeural"}
+      voice: {description: "Giọng (nữ: vi-VN-HoaiMyNeural, nam: vi-VN-NamMinhNeural)", default: "vi-VN-HoaiMyNeural"}
       limit: {description: "Chỉ N đoạn đầu (0 = cả sách)", default: "0"}
 permissions:
   contents: write
@@ -13,7 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install edge-tts
-      - run: python3 tools/tts_gen.py "${{ inputs.slug }}" --voice "${{ inputs.voice }}" --limit "${{ inputs.limit }}" --out tts
+      - name: Tạo âm thanh
+        run: |
+          SUF=""; case "${{ inputs.voice }}" in *NamMinh*) SUF="-m";; esac
+          echo "SUF=$SUF" >> $GITHUB_ENV
+          python3 tools/tts_gen.py "${{ inputs.slug }}" --voice "${{ inputs.voice }}" --limit "${{ inputs.limit }}" --suffix "$SUF" --out tts
         env:
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
@@ -21,12 +25,13 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, os
-          s = "${{ inputs.slug }}"
-          n = len([f for f in os.listdir("tts/" + s) if f.endswith(".mp3")])
+          s = "${{ inputs.slug }}"; suf = os.environ.get("SUF", "")
+          d = "tts/" + s + suf
+          n = max(int(f[:-4]) for f in os.listdir(d) if f.endswith(".mp3")) + 1
           j = json.load(open("tts/index.json"))
           j["base"] = j.get("base") or "tts/"
-          j["books"][s] = max(int(f[:-4]) for f in os.listdir("tts/" + s) if f.endswith(".mp3")) + 1
+          (j.setdefault("male", {}) if suf else j.setdefault("books", {}))[s] = n
           json.dump(j, open("tts/index.json", "w"), indent=1)
           PY
           git config user.name "tts-bot"; git config user.email "tts-bot@users.noreply.github.com"
-          git add tts && git commit -m "Sách nói giọng tự nhiên: ${{ inputs.slug }}" && git push
+          git add tts && git commit -m "Sách nói giọng tự nhiên: ${{ inputs.slug }} ${{ inputs.voice }}" && git push
