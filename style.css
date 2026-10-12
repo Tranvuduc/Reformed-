@@ -108,7 +108,7 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
 body:not(.home) .home .bar,.home #grid,.home #allh,.home .more:not(#bw){display:none}
 body:not(.home) #bw{display:none}
 #bw{margin:26px 0}
-.mx{display:contents}.mx .btn{border:0;background:none;text-align:left;padding:9px 12px}.mx .btn:hover{background:var(--soft)}
+.mx{display:contents}.mx .btn{border:0;background:none;text-align:left;padding:9px 12px}.mx .btn:hover{background:var(--soft)}.mx summary{cursor:pointer;list-style:none}.mx summary::-webkit-details-marker{display:none}.mx details .btn{display:block;padding-left:24px}
 .bds{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
 .bd{font-size:.68rem;font-weight:600;letter-spacing:.03em;padding:2px 7px;border-radius:99px;border:1px solid var(--line);color:var(--muted);background:var(--bg);white-space:nowrap}
 .bd.r{color:var(--accent);border-color:var(--accent)}.bd.vi{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
