@@ -107,7 +107,7 @@ def synth_edge(text, voice, rate):
         except Exception as e:
             err = e
         time.sleep(2 ** a * 2)
-    raise SystemExit("Edge TTS lỗi: %s" % err)
+    print("::error::Edge TTS lỗi: %r" % (err,), flush=True); raise SystemExit(1)
 
 
 def main():
