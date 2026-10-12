@@ -32,5 +32,9 @@ for (const topic of TOPICS) {
     url = j.next; await sleep(700);
   }
 }
+if (!rows.length) {
+  console.error("pg.mjs: no books fetched (network/API down?) — keeping existing pg.json unchanged");
+  process.exit(1);
+}
 fs.writeFileSync("pg.json", JSON.stringify(reformedOnly(names, rows, true)));
 console.log("total", rows.length);
