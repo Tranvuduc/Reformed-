@@ -26,6 +26,17 @@ def _vn_related(slug, author, orig):
     if not _rel: return ""
     _cards = "".join(bcard(t, a2, u2, kicker="Bản dịch") for _, t, a2, u2, _ in _rel)
     return '<h2>Sách liên quan</h2><div class="bk-grid">' + _cards + '</div>'
+# Sách nói tiếng Việt do thư viện tự sản xuất (host MP3 trên Internet Archive, miễn phí).
+# Map: book id (translations/index.json) -> direct MP3 URL (phát trực tiếp trong app, không cần qua archive.org).
+_AUDIO = {
+    "anthology/gospel-promises": "https://archive.org/download/audiobook-pilot-gospel-promises/audiobook-pilot-gospel-promises.mp3",
+}
+def _audio_player(_b):
+    _u = _AUDIO.get(_b.get("id", ""))
+    if not _u: return ""
+    return (f'<div class="aud"><h2>🎧 Sách nói</h2>'
+            f'<p>Nghe sách nói tiếng Việt (giọng đọc AI) ngay trong app — không cần rời trang.</p>'
+            f'<audio controls preload="none" src="{_u}" style="width:100%"></audio></div>')
 for _b in _idx:
     _f = f"{_TD}/{_b['file']}"
     if _b.get("hold") or not _o.path.exists(_f): continue
@@ -58,7 +69,7 @@ for _b in _idx:
     _rd = f'/reader.html?id=vn/{_slug}&pid=' + _ul.quote(_b["id"], safe="")
     _body = (f'<style>.dr{{padding:.6em .9em;border-radius:8px;background:#d9a41e22}}.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}</style>'
              f'<h1>{E(_b["title"])}</h1><p>{E(_au)}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f'</p>{_label}' +
-             f'<p class="rd-top"><a class="btn" href="{_rd}">📖 Đọc trong trình đọc</a> <a class="btn" href="/api/epub?id={_ul.quote(_b["id"], safe="")}">⬇ Tải EPUB</a> <button class="btn" id="offb" data-slug="{_slug}">📥 Tải offline</button></p>' +
+             f'<p class="rd-top"><a class="btn" href="{_rd}">📖 Đọc trong trình đọc</a> <a class="btn" href="/api/epub?id={_ul.quote(_b["id"], safe="")}">⬇ Tải EPUB</a> <button class="btn" id="offb" data-slug="{_slug}">📥 Tải offline</button></p>' + _audio_player(_b) +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
              f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}' + _vn_related(_slug, _au, _orig) +
              f'<p><a class="btn" href="{_rd}">Mở trong trình đọc</a> <a class="btn s" href="/">Về thư viện</a></p>' +
