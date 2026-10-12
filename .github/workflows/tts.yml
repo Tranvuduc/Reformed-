@@ -17,7 +17,7 @@ jobs:
         run: |
           SUF=""; case "${{ inputs.voice }}" in *NamMinh*) SUF="-m";; esac
           echo "SUF=$SUF" >> $GITHUB_ENV
-          python3 tools/tts_gen.py "${{ inputs.slug }}" --voice "${{ inputs.voice }}" --limit "${{ inputs.limit }}" --suffix "$SUF" --out tts
+          python3 tools/tts_gen.py "${{ inputs.slug }}" --voice "${{ inputs.voice }}" --limit "${{ inputs.limit }}" --suffix="$SUF" --out tts
         env:
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
