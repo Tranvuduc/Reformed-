@@ -124,7 +124,7 @@ def page(title, desc_, path, body, ld=None):
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{_og}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN"><meta name="twitter:image" content="{_og}"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"><script>try{{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}}catch(e){{}}</script><style>{CSS_CRIT}</style><link rel="stylesheet" href="/s.css">{j}</head><body><main>
-<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a> · <a href="/bai-viet/">Bài viết</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
+<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/trich-dan.html">Trích dẫn</a> · <a href="/bai-viet/">Bài viết</a> · <a href="/kinh-thanh-index.html">Theo Kinh Thánh</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
 {body}
 {_sh}
 <footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a>{SUBL} · Liên hệ: reformedvn@gmail.com</footer></main><script>(function(){{var b=document.getElementById("th");if(!b)return;b.onclick=function(){{var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{{localStorage.setItem("rv.ptheme",c)}}catch(e){{}}}}}})()</script></body></html>'''
@@ -339,7 +339,9 @@ urls.append("sach-noi.html")
 exec(open('tools/plan.py', encoding='utf-8').read())
 exec(open('tools/today.py', encoding='utf-8').read())
 exec(open('tools/topics.py', encoding='utf-8').read())
+exec(open('tools/scripture_index.py', encoding='utf-8').read())
 exec(open('tools/courses.py', encoding='utf-8').read())
+exec(open('tools/courses_vn.py', encoding='utf-8').read())
 exec(open('tools/quotes.py', encoding='utf-8').read())
 exec(open('tools/glossary.py', encoding='utf-8').read())
 exec(open('tools/vn_context.py', encoding='utf-8').read())

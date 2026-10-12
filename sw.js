@@ -1,8 +1,23 @@
 const V = "rv-v3";
+const OFFLINE = "rv-offline-v1"; // explicit user downloads (kept separate from auto cache)
 const SHELL = ["/", "/index.html", "/style.css", "/app.js", "/reader.html", "/favicon.svg", "/manifest.webmanifest", "/lo-trinh.html", "/hom-nay.html"];
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(V).then((c) => Promise.allSettled(SHELL.map((u) => c.add(u)))).then(() => self.skipWaiting())); });
-self.addEventListener("activate", (e) => { e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== V && k !== "rv-books").map((k) => caches.delete(k)))).then(() => self.clients.claim())); });
-self.addEventListener("message", (e) => { if (e.data === "skipWaiting") self.skipWaiting(); });
+self.addEventListener("activate", (e) => { e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== V && k !== "rv-books" && k !== OFFLINE).map((k) => caches.delete(k)))).then(() => self.clients.claim())); });
+self.addEventListener("message", (e) => {
+  if (e.data === "skipWaiting") { self.skipWaiting(); return; }
+  const d = e.data || {};
+  if (d.type === "offline-dl" && d.url) {
+    e.waitUntil(caches.open(OFFLINE).then((c) => fetch(d.url).then((r) => {
+      if (!r.ok) throw new Error("bad");
+      return c.put(d.url, r);
+    })).then(() => (e.source && e.source.postMessage({ ok: 1, url: d.url })))
+      .catch(() => (e.source && e.source.postMessage({ ok: 0, url: d.url }))));
+  } else if (d.type === "offline-rm" && d.url) {
+    e.waitUntil(caches.open(OFFLINE).then((c) => c.delete(d.url)).then(() => (e.source && e.source.postMessage({ ok: 1, url: d.url }))));
+  } else if (d.type === "offline-has" && d.url) {
+    e.waitUntil(caches.open(OFFLINE).then((c) => c.match(d.url)).then((m) => (e.source && e.source.postMessage({ ok: 1, url: d.url, has: !!m }))));
+  }
+});
 const NETONLY = /\/api\/(sync|tr|tts)/;
 self.addEventListener("fetch", (e) => {
   const r = e.request;
@@ -17,10 +32,23 @@ self.addEventListener("fetch", (e) => {
     return;
   }
   // Static assets, JSON, book text: stale-while-revalidate — instant load, refresh in background.
-  e.respondWith(caches.open(store).then(async (c) => {
+  // Explicitly downloaded books (rv-offline-v1) are served first when present.
+  e.respondWith((async () => {
+    const c = await caches.open(store);
     const hit = await c.match(r, { ignoreSearch: false });
-    const net = fetch(r).then((res) => { if (res.ok) c.put(r, res.clone()); return res; }).catch(() => null);
+    let offHit = null;
+    if (store === "rv-books") {
+      try { offHit = await caches.open(OFFLINE).then((oc) => oc.match(r, { ignoreSearch: false })); } catch (e2) {}
+    }
+    const net = fetch(r).then((res) => {
+      if (res.ok) {
+        c.put(r, res.clone());
+        if (store === "rv-books") caches.open(OFFLINE).then((oc) => oc.match(r, { ignoreSearch: false }).then((m) => { if (m) oc.put(r, res.clone()); }).catch(() => {}));
+      }
+      return res;
+    }).catch(() => null);
+    if (offHit) { e.waitUntil(net); return offHit; }
     if (hit) { e.waitUntil(net); return hit; }
     return (await net) || new Response("", { status: 504 });
-  }));
+  })());
 });

@@ -2,11 +2,11 @@ var T={
  vi:{allTypes:"Mọi thể loại",allEras:"Mọi thời kỳ",clear:"Xóa bộ lọc",sort0:"Mặc định",sort1:"Tên sách A–Z",sort2:"Tên tác giả A–Z",sort3:"Xưa nhất trước",sort4:"Mới nhất trước",
   ty_systematic:"Thần học hệ thống",ty_commentary:"Bình giải",ty_sermons:"Bài giảng",ty_devotional:"Suy niệm và cầu nguyện",ty_doctrine:"Giáo lý và luận thuyết",ty_catechism:"Tín điều và giáo lý vấn đáp",ty_history:"Lịch sử và tiểu sử",ty_collected:"Toàn tập",ty_bible:"Kinh Thánh",ty_classic:"Văn học kinh điển",
   er_anc:"Trước năm 1500",er_ref:"Cải Chánh (thế kỷ 16)",er_pur:"Thời Thanh giáo (thế kỷ 17)",er_aw:"Thời Phục hưng (thế kỷ 18)",er_mod:"Thế kỷ 19",er_c20:"Từ năm 1900",
-  sync:"Đồng bộ",about:"Giới thiệu",sh:"Đồng bộ giữa các thiết bị",sp:"Mã này giống như chìa khóa riêng của bạn: ai biết mã đều xem và sửa được tiến độ đọc. Nhập cùng mã trên máy khác để đọc tiếp.",snew:"Tạo mã mới",suse:"Dùng mã này",soff:"Tắt đồng bộ",sclose:"Đóng",sok:"Đã đồng bộ.",serr:"Chưa đồng bộ được. Bạn thử lại sau nhé.",sbad:"Mã chưa đúng. Mã gồm 20–40 chữ cái hoặc số.",lede:"Từng bước nhỏ, từ Phúc Âm đến một đời sống theo Chúa. Sách Cải Chánh miễn phí, không cần tài khoản.",h1:"Lớn lên trong <span>đức tin</span>",start:"★ Nên đọc trước",lang:"EN",theme:"◐",search:"Tìm theo tên hoặc tác giả",all:"Tất cả",reading:"Đang đọc",done:"Đã đọc xong",saved:"Đã lưu",todo:"Chưa đọc",titles:"tác phẩm",of:"trong",read:"Đọc",listen:"Nghe",archive:"Kho lưu trữ",save:"☆ Lưu",saved2:"★ Đã lưu",more:"Xem thêm",cont:"Tiếp tục đọc",cont2:"Đọc tiếp",ccelnote:"Sách thuộc phạm vi công cộng, lấy từ CCEL.",mgnote:"Sách điện tử miễn phí (tiếng Anh) trên Monergism, tải được EPUB, PDF, Kindle.",none:"Không tìm thấy sách nào phù hợp.",nosaved:"Bạn chưa lưu cuốn nào. Bấm ☆ Lưu trên một cuốn sách để xem lại ở đây.",noreading:"Chưa có cuốn nào ở đây. Hãy chọn trạng thái cho một cuốn sách để theo dõi tiến độ đọc.",bandich:"Bản dịch & sách mới",nhanbai:"Nhận bài qua email",foot:"Nguồn sách: CCEL, Project Gutenberg, LibriVox, Internet Archive. Tiến độ đọc chỉ lưu trên máy bạn. Bản dịch và ấn bản hiện đại có thể còn bản quyền."},
+  sync:"Đồng bộ",about:"Giới thiệu",sh:"Đồng bộ giữa các thiết bị",sp:"Mã này giống như chìa khóa riêng của bạn: ai biết mã đều xem và sửa được tiến độ đọc. Nhập cùng mã trên máy khác để đọc tiếp.",snew:"Tạo mã mới",suse:"Dùng mã này",soff:"Tắt đồng bộ",sclose:"Đóng",sok:"Đã đồng bộ.",serr:"Chưa đồng bộ được. Bạn thử lại sau nhé.",sbad:"Mã chưa đúng. Mã gồm 20–40 chữ cái hoặc số.",sexp:"⬇ Xuất dữ liệu",simp:"⬆ Nhập dữ liệu",sok2:"Đã tải file sao lưu.",siok:"Đã nhập xong",sibad:"File không đúng định dạng sao lưu.",lede:"Từng bước nhỏ, từ Phúc Âm đến một đời sống theo Chúa. Sách Cải Chánh miễn phí, không cần tài khoản.",h1:"Lớn lên trong <span>đức tin</span>",start:"★ Nên đọc trước",lang:"EN",theme:"◐",search:"Tìm theo tên hoặc tác giả",all:"Tất cả",reading:"Đang đọc",done:"Đã đọc xong",saved:"Đã lưu",todo:"Chưa đọc",titles:"tác phẩm",of:"trong",read:"Đọc",listen:"Nghe",archive:"Kho lưu trữ",save:"☆ Lưu",saved2:"★ Đã lưu",more:"Xem thêm",cont:"Tiếp tục đọc",cont2:"Đọc tiếp",ccelnote:"Sách thuộc phạm vi công cộng, lấy từ CCEL.",mgnote:"Sách điện tử miễn phí (tiếng Anh) trên Monergism, tải được EPUB, PDF, Kindle.",none:"Không tìm thấy sách nào phù hợp.",nosaved:"Bạn chưa lưu cuốn nào. Bấm ☆ Lưu trên một cuốn sách để xem lại ở đây.",noreading:"Chưa có cuốn nào ở đây. Hãy chọn trạng thái cho một cuốn sách để theo dõi tiến độ đọc.",bandich:"Bản dịch & sách mới",nhanbai:"Nhận bài qua email",foot:"Nguồn sách: CCEL, Project Gutenberg, LibriVox, Internet Archive. Tiến độ đọc chỉ lưu trên máy bạn. Bản dịch và ấn bản hiện đại có thể còn bản quyền."},
  en:{allTypes:"All types",allEras:"All eras",clear:"Clear filters",sort0:"Default order",sort1:"Title A–Z",sort2:"Author A–Z",sort3:"Oldest first",sort4:"Newest first",
   ty_systematic:"Systematic theology",ty_commentary:"Commentary",ty_sermons:"Sermons",ty_devotional:"Devotional and prayer",ty_doctrine:"Doctrine and treatises",ty_catechism:"Creeds and catechisms",ty_history:"History and biography",ty_collected:"Collected works",ty_bible:"Bible",ty_classic:"Classics and literature",
   er_anc:"Before 1500",er_ref:"Reformation (1500s)",er_pur:"Puritan age (1600s)",er_aw:"Awakening era (1700s)",er_mod:"1800s",er_c20:"1900 and later",
-  sync:"Sync",about:"About",sh:"Sync across devices",sp:"The sync code is your secret: anyone with it can read and write your progress. Enter the same code on another device.",snew:"Create new code",suse:"Use this code",soff:"Turn off sync",sclose:"Close",sok:"Synced.",serr:"Sync failed, try again later.",sbad:"Invalid code (20–40 letters/digits).",lede:"Small steps, from the gospel to a life following Christ. Free Reformed books, no account needed.",h1:"Grow in <span>faith</span>",start:"★ Start here",lang:"VI",theme:"◐",search:"Search title or author",all:"All",reading:"Reading",done:"Finished",saved:"Saved",todo:"Not started",titles:"titles",of:"of",read:"Read",listen:"Listen",archive:"Archive",save:"☆ Save",saved2:"★ Saved",more:"Show more",cont:"Continue reading",cont2:"Continue",ccelnote:"Public domain. Source: CCEL.",mgnote:"Free ebook (English) at Monergism: EPUB, PDF, Kindle.",none:"No titles match that search.",nosaved:"Nothing saved yet. Tap Save on a book and it will appear here.",noreading:"Nothing here yet. Set a status on a book to track your progress.",bandich:"Translations & new books",nhanbai:"Email updates",foot:"Sources: CCEL, Project Gutenberg, LibriVox, Internet Archive. Reading progress stays on your device. Translations and modern editions may be under copyright."}
+  sync:"Sync",about:"About",sh:"Sync across devices",sp:"The sync code is your secret: anyone with it can read and write your progress. Enter the same code on another device.",snew:"Create new code",suse:"Use this code",soff:"Turn off sync",sclose:"Close",sok:"Synced.",serr:"Sync failed, try again later.",sbad:"Invalid code (20–40 letters/digits).",sexp:"⬇ Export data",simp:"⬆ Import data",sok2:"Backup downloaded.",siok:"Import done",sibad:"Not a valid backup file.",lede:"Small steps, from the gospel to a life following Christ. Free Reformed books, no account needed.",h1:"Grow in <span>faith</span>",start:"★ Start here",lang:"VI",theme:"◐",search:"Search title or author",all:"All",reading:"Reading",done:"Finished",saved:"Saved",todo:"Not started",titles:"titles",of:"of",read:"Read",listen:"Listen",archive:"Archive",save:"☆ Save",saved2:"★ Saved",more:"Show more",cont:"Continue reading",cont2:"Continue",ccelnote:"Public domain. Source: CCEL.",mgnote:"Free ebook (English) at Monergism: EPUB, PDF, Kindle.",none:"No titles match that search.",nosaved:"Nothing saved yet. Tap Save on a book and it will appear here.",noreading:"Nothing here yet. Set a status on a book to track your progress.",bandich:"Translations & new books",nhanbai:"Email updates",foot:"Sources: CCEL, Project Gutenberg, LibriVox, Internet Archive. Reading progress stays on your device. Translations and modern editions may be under copyright."}
 };
 T.vi.allSources="Mọi nguồn";T.en.allSources="All sources";T.vi.allMedia="Mọi định dạng";T.en.allMedia="All formats";T.vi.authorPh="Tìm tác giả…";T.en.authorPh="Author…";
 T.vi.md_read="Đọc tại đây";T.en.md_read="Read here";T.vi.md_pdf="Có PDF";T.en.md_pdf="Has PDF";T.vi.md_epub="Có EPUB";T.en.md_epub="Has EPUB";T.vi.md_audio="Có sách nói";T.en.md_audio="Has audio";T.vi.ctxT="Đọc trong bối cảnh";T.en.ctxT="Read in context";T.vi.ctxB="Đọc Kinh Thánh:";T.en.ctxB="Read Scripture:";T.vi.ctxR="Suy ngẫm:";T.en.ctxR="Reflect:";T.vi.ctxN="Ghi chú biên tập, đã được mục sư xem lại.";T.en.ctxN="Editorial note, reviewed by a pastor.";
@@ -277,7 +277,7 @@ function buildAuthors(){
 }
 function labels(){
   document.documentElement.lang=st.lang;
-  var m={h1:"h1",lede:"lede",lang:"lang",theme:"theme",sync:"sync",about:"about","s-h":"sh","s-p":"sp","s-new":"snew","s-use":"suse","s-off":"soff","s-x":"sclose",foot:"foot"};
+  var m={h1:"h1",lede:"lede",lang:"lang",theme:"theme",sync:"sync",about:"about","s-h":"sh","s-p":"sp","s-new":"snew","s-use":"suse","s-off":"soff","s-x":"sclose","s-exp":"sexp","s-imp":"simp",foot:"foot"};
   for(var k in m){if(k==="h1")$(k).innerHTML=tx(m[k]);else $(k).textContent=tx(m[k])}
   $("q").placeholder=tx("search");
   var c=$("fmt").children;for(var i=0;i<c.length;i++)c[i].textContent=tx(c[i].dataset.f);
@@ -351,6 +351,45 @@ $("s-use").addEventListener("click",function(){
   var c=$("s-code").value.trim().toLowerCase();if(!/^[a-z0-9]{20,40}$/.test(c)){st2.textContent=tx("sbad");return}
   try{localStorage.setItem(K,c)}catch(e){}$("s-off").hidden=false;run()});
 $("s-off").addEventListener("click",function(){try{localStorage.removeItem(K)}catch(e){}$("s-code").value="";$("s-off").hidden=true;st2.textContent=""});
+/* backup: export/import JSON (manual alternative to code sync; schema ready for future server sync) */
+function devId(){try{var d=localStorage.getItem("rv.dev");if(!d){d="d"+Date.now().toString(36)+Math.random().toString(36).slice(2,10);localStorage.setItem("rv.dev",d)}return d}catch(e){return"web"}}
+function lsKeys(pfx){var o={};try{for(var i=0;i<localStorage.length;i++){var k=localStorage.key(i);if(k.indexOf(pfx)===0){var v=JSON.parse(localStorage.getItem(k)||"null");if(v&&(Array.isArray(v)?v.length:1))o[k.slice(pfx.length)]=v}}}catch(e){}return o}
+$("s-exp").addEventListener("click",function(){
+  var d={app:"reformed-vietnam",v:1,deviceId:devId(),updatedAt:new Date().toISOString(),
+    data:{prog:st.prog||{},saved:st.saved||[],hl:allHl(),bm:lsKeys("rv.bm."),rev:lsKeys("rv.rev."),
+      settings:(function(){var o={};["rv.fs","rv.th","rv.ff","rv.lh","rv.wd","rv.lang"].forEach(function(k){try{var v=localStorage.getItem(k);if(v!==null)o[k]=v}catch(e){}});return o})()}};
+  var bl=new Blob([JSON.stringify(d)],{type:"application/json"}),a=document.createElement("a");
+  a.href=URL.createObjectURL(bl);a.download="reformed-vietnam-backup.json";document.body.appendChild(a);a.click();
+  setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},4000);
+  st2.textContent=tx("sok2");
+});
+$("s-imp").addEventListener("click",function(){$("s-file").click()});
+$("s-file").addEventListener("change",function(){
+  var f=this.files&&this.files[0];if(!f)return;var rd=new FileReader();
+  rd.onload=function(){
+    try{
+      var d=JSON.parse(rd.result);
+      if(!d||d.app!=="reformed-vietnam"||typeof d.v!=="number"||!d.data||typeof d.data!=="object")throw 0;
+      var dd=d.data,n={prog:0,hl:0,bm:0,rev:0,saved:0};
+      var lp={};try{lp=JSON.parse(localStorage.getItem("rv.prog")||"{}")}catch(e){}
+      for(var k in (dd.prog||{})){var a=lp[k],b=dd.prog[k];if(b&&typeof b==="object"&&(!a||((b.t||0)>(a.t||0)))){lp[k]=b;n.prog++}}
+      for(var hid in (dd.hl||{})){try{var lh=JSON.parse(localStorage.getItem("rv.hl."+hid)||"[]"),m={};
+        lh.concat(dd.hl[hid]||[]).forEach(function(h){if(!h||typeof h.g!=="number")return;var o=m[h.g];if(!o||((h.t||0)>(o.t||0)))m[h.g]=h});
+        var arr=Object.keys(m).map(function(k2){return m[k2]});if(arr.length>lh.length)n.hl++;
+        localStorage.setItem("rv.hl."+hid,JSON.stringify(arr))}catch(e){}}
+      for(var bid in (dd.bm||{})){try{var lb=JSON.parse(localStorage.getItem("rv.bm."+bid)||"[]"),seen={};
+        lb.forEach(function(x){seen[x.p]=1});(dd.bm[bid]||[]).forEach(function(x){if(x&&!seen[x.p]){lb.push(x);seen[x.p]=1;n.bm++}});
+        localStorage.setItem("rv.bm."+bid,JSON.stringify(lb))}catch(e){}}
+      for(var rid in (dd.rev||{})){try{var lr=JSON.parse(localStorage.getItem("rv.rev."+rid)||"null"),nr=dd.rev[rid];
+        if(nr&&(!lr||((nr.t||0)>(lr.t||0)))){localStorage.setItem("rv.rev."+rid,JSON.stringify(nr));n.rev++}}catch(e){}}
+      var sv=st.saved||[];(dd.saved||[]).forEach(function(x){if(sv.indexOf(x)<0){sv.push(x);n.saved++}});
+      st.prog=lp;st.saved=sv;saveLS("rv.prog",lp);saveLS("rv.saved",sv);render();
+      st2.textContent=tx("siok")+": "+n.prog+" prog, "+n.hl+" hl, "+n.bm+" bm, "+n.rev+" rev, "+n.saved+" saved";
+    }catch(e){st2.textContent=tx("sibad")}
+    $("s-file").value="";
+  };
+  rd.readAsText(f);
+});
 if(code())run();
 })();
 
@@ -382,7 +421,7 @@ function renderTiles(){var i=st.lang==="vi"?0:1;
    +'<div class="dly">'+[["hom-nay.html","Bài đọc hôm nay","Today\u2019s reading"],["sach-noi.html","Nghe sách nói","Listen"]].map(function(t){return'<a href="'+t[0]+'">'+t[1+i]+'</a>'}).join("")+'</div>';
   var P=[["moi-tin-chua.html","Mới tin Chúa","New believer"],["lo-trinh.html","Lộ trình đọc","Reading path"],["tieng-viet.html","Sách tiếng Việt","Vietnamese"]];
   $("nl").innerHTML=P.map(function(m){return'<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");
-  var M=[["hom-nay.html","Hôm nay","Today"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"],["duyet.html","Duyệt bản dịch","Review"],["khoa-hoc.html","Học trực tuyến","Online study"],["bai-giang.html","Bài giảng","Sermons"],["video.html","Video","Videos"],["trich-dan.html","Trích dẫn","Quotes"],["bai-viet/","Bài viết","Articles"],["suu-tap/","Bộ sưu tập","Collections"],["thuat-ngu.html","Thuật ngữ","Glossary"],["cai-chanh-la-gi.html","Cải Chánh là gì?","What is Reformed?"],["doi-song-viet-nam.html","Đời sống Việt Nam","Vietnamese life"],["cho-muc-su.html","Cho mục sư &amp; nhóm nhỏ","For pastors & groups"],["doc-chung.html","Nhóm đọc chung 4 tuần","4-week group plan"],["nhan-bai.html","Nhận bài qua email","Email updates"],["mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch","Góp ý","Feedback"],["feed.xml","RSS","RSS"]];
+  var M=[["hom-nay.html","Hôm nay","Today"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"],["duyet.html","Duyệt bản dịch","Review"],["khoa-hoc.html","Học trực tuyến","Online study"],["bai-giang.html","Bài giảng","Sermons"],["video.html","Video","Videos"],["trich-dan.html","Trích dẫn","Quotes"],["bai-viet/","Bài viết","Articles"],["kinh-thanh-index.html","Theo Kinh Thánh","Scripture index"],["suu-tap/","Bộ sưu tập","Collections"],["thuat-ngu.html","Thuật ngữ","Glossary"],["cai-chanh-la-gi.html","Cải Chánh là gì?","What is Reformed?"],["doi-song-viet-nam.html","Đời sống Việt Nam","Vietnamese life"],["cho-muc-su.html","Cho mục sư &amp; nhóm nhỏ","For pastors & groups"],["doc-chung.html","Nhóm đọc chung 4 tuần","4-week group plan"],["nhan-bai.html","Nhận bài qua email","Email updates"],["mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch","Góp ý","Feedback"],["feed.xml","RSS","RSS"]];
   $("mx").innerHTML=M.map(function(m){return'<a class="btn" href="'+m[0]+'">'+m[1+i]+'</a>'}).join("")}
 $("browse").addEventListener("click",function(){st.br=1;st.limit=PAGE;render();window.scrollTo(0,0)});
 $("grid").addEventListener("click",function(e){var oc=e.target.closest("[data-open]");if(oc)openBook(oc.dataset.open)});

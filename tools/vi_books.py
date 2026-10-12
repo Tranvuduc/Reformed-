@@ -58,10 +58,22 @@ for _b in _idx:
     _rd = f'/reader.html?id=vn/{_slug}&pid=' + _ul.quote(_b["id"], safe="")
     _body = (f'<style>.dr{{padding:.6em .9em;border-radius:8px;background:#d9a41e22}}.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}</style>'
              f'<h1>{E(_b["title"])}</h1><p>{E(_au)}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f'</p>{_label}' +
-             f'<p class="rd-top"><a class="btn" href="{_rd}">📖 Đọc trong trình đọc</a></p>' +
+             f'<p class="rd-top"><a class="btn" href="{_rd}">📖 Đọc trong trình đọc</a> <a class="btn" href="/api/epub?id={_ul.quote(_b["id"], safe="")}">⬇ Tải EPUB</a> <button class="btn" id="offb" data-slug="{_slug}">📥 Tải offline</button></p>' +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
              f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}' + _vn_related(_slug, _au, _orig) +
-             f'<p><a class="btn" href="{_rd}">Mở trong trình đọc</a> <a class="btn s" href="/">Về thư viện</a></p>')
+             f'<p><a class="btn" href="{_rd}">Mở trong trình đọc</a> <a class="btn s" href="/">Về thư viện</a></p>' +
+             f'<script>(function(){{var b=document.getElementById("offb");if(!b)return;var slug=b.dataset.slug,key="rv.off.vn/"+slug,url="txt/"+slug+".txt";' +
+             'function has(){try{return !!localStorage.getItem(key)}catch(e){return false}}' +
+             'function paint(){b.textContent=has()?"✓ Đã tải offline":"📥 Tải offline"}' +
+             'function done(ok){b.disabled=false;if(ok){try{localStorage.setItem(key,String(Date.now()))}catch(e){}}paint();if(!ok)alert("Tải thất bại. Bạn thử lại khi có mạng nhé.")}' +
+             'function direct(){if(!window.caches){done(false);return}caches.open("rv-offline-v1").then(function(c){return c.add(url)}).then(function(){done(true)}).catch(function(){done(false)})}' +
+             'b.onclick=function(){if(has()){try{localStorage.removeItem(key)}catch(e){}if(navigator.serviceWorker&&navigator.serviceWorker.controller)navigator.serviceWorker.controller.postMessage({type:"offline-rm",url:url});if(window.caches)caches.open("rv-offline-v1").then(function(c){return c.delete(url)});paint();return}' +
+             'b.disabled=true;b.textContent="⏳ Đang tải…";' +
+             'if(navigator.serviceWorker&&navigator.serviceWorker.controller){var to=setTimeout(function(){direct()},6000),got=false;' +
+             'var onmsg=function(e){var m=e.data||{};if(m.url!==url)return;got=true;clearTimeout(to);navigator.serviceWorker.removeEventListener("message",onmsg);done(m.ok===1)};' +
+             'navigator.serviceWorker.addEventListener("message",onmsg);' +
+             'try{navigator.serviceWorker.controller.postMessage({type:"offline-dl",url:url})}catch(e){clearTimeout(to);direct()}}else{direct()}};' +
+             'paint()})();</script>')
     _path = f"ban-dich/{_slug}.html"
     _ld = {"@context": "https://schema.org", "@type": "Book", "name": _b["title"],
            "author": {"@type": "Person", "name": _au},
