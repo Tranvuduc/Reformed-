@@ -9064,5 +9064,50 @@
   "orig": "The pleasantness of a religious life, open'd and prov'd (1714)",
   "reviewed": false,
   "title": "Sự ngọt ngào của đời sống đạo"
+ },
+ {
+  "id": "arch-bim_eighteenth-century_a-treat",
+  "file": "arch-bim_eighteenth-century_a-treat-doi-song-duc-tin-romaine.txt",
+  "title": "LUẬN VỀ ĐỜI SỐNG ĐỨC TIN",
+  "orig": "A Treatise upon the Life of Faith",
+  "author": "William Romaine",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-910",
+  "file": "list-910-con-duong-binh-an-bonar.txt",
+  "title": "CON ĐƯỜNG BÌNH AN CỦA ĐỨC CHÚA TRỜI",
+  "orig": "God's Way of Peace",
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-911",
+  "file": "list-911-kien-nghi-hoa-binh-baxter.txt",
+  "title": "KIẾN NGHỊ VÌ HÒA BÌNH: KÈM VIỆC CẢI CÁCH SÁCH LỄ",
+  "orig": "A Petition for Peace: with the Reformation of the Liturgy",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-913",
+  "file": "list-913-cain-abel-ac-doc-baxter.txt",
+  "title": "CA-IN VÀ A-BÊN ÁC ĐỘC, TỨC LÀ SỰ THÙ GHÉT ĐỐI VỚI SỰ TIN KÍNH SỐT SẮNG",
+  "orig": "Cain and Abel Malignity, that is Enmity to Serious Godliness",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-914",
+  "file": "list-914-luan-ve-su-chet-baxter.txt",
+  "title": "LUẬN VỀ SỰ CHẾT, KẺ THÙ CUỐI CÙNG BỊ HỦY DIỆT",
+  "orig": "A Treatise of Death, the Last Enemy to be Destroyed",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
