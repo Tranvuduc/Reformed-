@@ -8650,5 +8650,59 @@
   "author": "Robert Lewis Dabney",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "author": "John Calvin",
+  "by": "Muse",
+  "file": "arch-calvin-sermons-1581-bai-giang-calvin.txt",
+  "id": "arch-calvin-sermons-1581-deut",
+  "orig": "Sermons of M. John Calvin ... 1581",
+  "reviewed": false,
+  "title": "CÁC BÀI GIẢNG CỦA GIĂNG CAN-VIN"
+ },
+ {
+  "author": "John Gill",
+  "by": "Muse",
+  "file": "list-752-gill-resurrection-giao-ly-su-song-lai.txt",
+  "id": "list-752-gill-resurrection",
+  "orig": "The doctrine of the resurrection, stated and defended; in two sermons, preached at a lecture in Lime-Street (1750)",
+  "reviewed": false,
+  "title": "GIÁO LÝ VỀ SỰ SỐNG LẠI ĐƯỢC TRÌNH BÀY VÀ BẢO VỆ"
+ },
+ {
+  "author": "Warfield. Benjamin Breckinridge",
+  "by": "Muse",
+  "file": "list-760-tinh-xac-thuc-thu-ii-phi-e-ro-warfield.txt",
+  "id": "list-760",
+  "orig": "Dr. Edwin A. Abbott on the genuineness of Second Peter",
+  "reviewed": false,
+  "title": "TÍNH XÁC THỰC CỦA THƯ II PHI-E-RƠ: ĐÁP LỜI TIẾN SĨ EDWIN A. ABBOTT"
+ },
+ {
+  "author": "Dabney. Robert Lewis. 1820-1898",
+  "by": "Muse",
+  "file": "list-761-ngay-sa-bat-co-doc-dabney.txt",
+  "id": "list-761",
+  "orig": "The Christian Sabbath: its nature, design and proper observance",
+  "reviewed": false,
+  "title": "NGÀY SA-BÁT CƠ ĐỐC: BẢN CHẤT, MỤC ĐÍCH VÀ CÁCH GIỮ CHO ĐÚNG"
+ },
+ {
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "file": "list-762-bai-giang-phong-chuc-atkinson-henry.txt",
+  "id": "list-762",
+  "orig": "A Sermon Preach'd at the Ordination of Mr. Atkinson",
+  "reviewed": false,
+  "title": "Bài Giảng Trong Lễ Phong Chức Cho Ông Atkinson"
+ },
+ {
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "file": "list-763-cuoc-doi-trung-uy-illidge-henry.txt",
+  "id": "list-763",
+  "orig": "A Short Account of the Life of Lieutenant Illidge",
+  "reviewed": false,
+  "title": "Cuộc Đời Trung Úy Richard Illidge — Một Bản Tường Thuật Vắn Tắt"
  }
 ]
