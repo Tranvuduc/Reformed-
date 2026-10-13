@@ -8704,5 +8704,50 @@
   "orig": "A Short Account of the Life of Lieutenant Illidge",
   "reviewed": false,
   "title": "Cuộc Đời Trung Úy Richard Illidge — Một Bản Tường Thuật Vắn Tắt"
+ },
+ {
+  "author": "John Bunyan",
+  "by": "Muse",
+  "file": "list-753-nep-song-co-doc-bunyan.txt",
+  "id": "list-753",
+  "orig": "Christian Behaviour; or The Fruits of True Christianity (1663)",
+  "reviewed": false,
+  "title": "Nếp Sống Cơ Đốc; Hay Trái Của Đạo Cơ Đốc Chân Thật"
+ },
+ {
+  "author": "George Whitefield",
+  "by": "Muse",
+  "file": "list-764-thuat-lai-doi-song-whitefield.txt",
+  "id": "list-764",
+  "orig": "A Short Account of God's Dealings with the Reverend Mr. George Whitefield, A.B., Late of Pembroke-College, Oxford (1747)",
+  "reviewed": false,
+  "title": "THUẬT LẠI NGẮN GỌN VỀ SỰ ĐỐI ĐÃI CỦA ĐỨC CHÚA TRỜI VỚI ÔNG GEORGE WHITEFIELD"
+ },
+ {
+  "id": "list-765",
+  "file": "list-765-suy-ngam-thanh-sibbes.txt",
+  "title": "Suy Ngẫm Thiêng Liêng Và Mặc Tưởng Thánh",
+  "orig": "Divine Meditations and Holy Contemplations",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-767",
+  "file": "list-767-hai-bai-giang-gill.txt",
+  "title": "Hai Bài Giảng: Sự Vận Dụng Lời Đáp Của Người Canh & Vinh Hiển Của Hội Thánh",
+  "orig": "The Practical Improvement of the Watchman's Answer; The Glory of the Church in the latter Day",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-768",
+  "file": "list-768-quyen-than-hoc-he-thong-warfield.txt",
+  "title": "Quyền Của Thần Học Hệ Thống",
+  "orig": "The Right of Systematic Theology",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
