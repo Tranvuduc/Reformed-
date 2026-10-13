@@ -81,7 +81,7 @@ _b10 = _NC3 + f'''<h1>Công cụ cho mục sư và người dẫn nhóm</h1>
 open("cong-cu-muc-vu.html", "w", encoding="utf-8").write(page("Công cụ cho mục sư và người dẫn nhóm | Reformed Vietnam", "Chuẩn bị bài giảng từ một đoạn Kinh Thánh, dạy giáo lý và dẫn nhóm nhỏ với các công cụ của thư viện Reformed Vietnam.", "cong-cu-muc-vu.html", _b10)); urls.append("cong-cu-muc-vu.html")
 
 # ---- Hub: cong cu hoc ----
-_HUB = [("Tra cứu theo Kinh Thánh", "/tra-kinh-thanh.html", "Chọn chương Kinh Thánh để thấy sách nào giảng giải."),
+_HUB = [("Tải sách về máy (EPUB)", "/tai-sach.html", "Tải từng sách hoặc tất cả để đọc khi không có mạng."), ("Tra cứu theo Kinh Thánh", "/tra-kinh-thanh.html", "Chọn chương Kinh Thánh để thấy sách nào giảng giải."),
         ("Giáo lý mỗi ngày", "/giao-ly-hang-ngay.html", "Một câu hỏi Heidelberg và một câu Westminster mỗi ngày."),
         ("Kế hoạch đọc cá nhân", "/ke-hoach-doc.html", "Chia một sách thành các phần theo ngày."),
         ("Sách cho nhóm nhỏ", "/nhom-nho.html", "Buổi học, Kinh Thánh cùng đọc và câu hỏi thảo luận."),
