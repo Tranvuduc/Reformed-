@@ -9334,5 +9334,61 @@
   "author": "Matthew Henry",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "arch-gardenofspices00ruth",
+  "file": "arch-gardenofspices00ruth-khu-vuon-huong-lieu-rutherford.txt",
+  "title": "KHU VƯỜN HƯƠNG LIỆU",
+  "orig": "A Garden of Spices: Extracts from the religious letters of Rev. Samuel Rutherford",
+  "author": "Rutherford, Samuel",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-bim_eighteenth-century_the-mut",
+  "file": "arch-bim_eighteenth-century_the-mut-nguoi-co-doc-cam-nin-brooks.txt",
+  "title": "NGƯỜI CƠ ĐỐC CÂM NÍN DƯỚI NGỌN ROI ĐAU ĐỚN",
+  "orig": "The Mute Christian, under the Smarting Rod",
+  "author": "Brooks, Thomas",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-trutherrororlett00bona",
+  "file": "arch-trutherrororlett00bona-chan-ly-va-sai-lam-bonar.txt",
+  "title": "CHÂN LÝ VÀ SAI LẦM",
+  "orig": "Truth and Error: or, Letters to a Friend on some of the Controversies of the Day (1851)",
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 87531
+ },
+ {
+  "id": "arch-in.ernet.dli.2015.237161",
+  "file": "arch-in-ernet-dli-2015-237161-lich-su-hoi-truyen-giao-an-do.txt",
+  "title": "LỊCH SỬ HỘI TRUYỀN GIÁO ẤN ĐỘ",
+  "orig": "Historical Sketches of the India Missions of the Presbyterian Church in the United States of America (1886)",
+  "author": "Presbyterian Church in the U.S.A.",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 78183
+ },
+ {
+  "id": "arch-bim_eighteenth-century_a-metho",
+  "file": "arch-bim_eighteenth-century_a-metho-phuong-phap-cau-nguyen-henry.txt",
+  "title": "PHƯƠNG PHÁP CẦU NGUYỆN VỚI NHỮNG LỜI DIỄN ĐẠT THEO KINH THÁNH",
+  "orig": "A Method for Prayer, with Scripture-Expressions proper to be used under each head (1781)",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-dli.bengal.10689.7437",
+  "file": "arch-dli.bengal.10689.7437-dua-con-anh-sang-buoc-di-trong-toi-tam-goodwin.txt",
+  "title": "ĐỨA CON CỦA ÁNH SÁNG BƯỚC ĐI TRONG TỐI TĂM",
+  "orig": "A Child of Light Walking in Darkness: A Treatise, shewing the causes, circumstances, and purposes for which God leaves His children to distress of conscience (1810)",
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
