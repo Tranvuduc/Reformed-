@@ -38,7 +38,7 @@ for _si, _s in enumerate(_stems5):
 _N5 = len(_SEC5)
 _stop5 = sorted(w for w, p in _post5.items() if len(p) > _N5 * 0.45)
 _shards = _c5.defaultdict(bytearray)
-for w, pl in _post5.items():
+for w, pl in sorted(_post5.items()):
     if len(pl) > _N5 * 0.45: continue
     wb = w.encode(); b = bytearray([len(wb)]) + wb + _vi5(len(pl)); prev = 0
     for x in pl: b += _vi5(x - prev); prev = x
@@ -49,7 +49,7 @@ for k, v in _shards.items(): open(f"s/{k}.bin", "wb").write(bytes(v))
 _o3.makedirs("s2", exist_ok=True)
 for _f in _o3.listdir("s2"): _o3.remove("s2/" + _f)
 _sh2 = _c5.defaultdict(bytearray)
-for w, pl in _bi5.items():
+for w, pl in sorted(_bi5.items()):
     if len(pl) > _N5 * 0.08 or len(pl) < 2: continue
     wb = w.encode(); b = bytearray([len(wb)]) + wb + _vi5(len(pl)); prev = 0
     for x in pl: b += _vi5(x - prev); prev = x
