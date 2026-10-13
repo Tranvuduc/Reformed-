@@ -5428,5 +5428,131 @@
   "author": "Richard Baxter",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "author": "Gill. John",
+  "by": "Muse",
+  "file": "665-loi-dap-tac-gia-doi-thoai-birmingham.txt",
+  "id": 665,
+  "orig": "An answer to the Birmingham dialogue writer's",
+  "reviewed": false,
+  "title": "Lời Đáp Cho Tác Giả Đối Thoại Birmingham"
+ },
+ {
+  "author": "John Howe",
+  "by": "Muse",
+  "file": "668-bai-giang-ve-su-hiep-nhat-giua-cac-tin-lanh.txt",
+  "id": "668-bai-giang-ve-su-hiep-nhat-giua-cac-tin-lanh",
+  "orig": "A sermon concerning union among Protestants",
+  "reviewed": false,
+  "title": "BÀI GIẢNG VỀ SỰ HIỆP NHẤT GIỮA CÁC TÍN HỮU TIN LÀNH"
+ },
+ {
+  "author": "Thomas Boston",
+  "by": "Muse",
+  "file": "671-tinh-trang-lam-lac-cua-ke-co-toi.txt",
+  "id": "671-tinh-trang-lam-lac-cua-ke-co-toi",
+  "orig": "The straying state and condition of mankind sinners",
+  "reviewed": false,
+  "title": "TÌNH TRẠNG LANG THANG LẠC LỐI CỦA KẺ CÓ TỘI"
+ },
+ {
+  "author": "John Newton",
+  "by": "Muse",
+  "file": "672-hai-muoi-sau-buc-thu-ve-cac-chu-de-ton-giao.txt",
+  "id": "672-hai-muoi-sau-buc-thu-ve-cac-chu-de-ton-giao",
+  "orig": "Twenty six letters on religious subjects",
+  "reviewed": false,
+  "title": "HAI MƯƠI SÁU BỨC THƯ VỀ CÁC CHỦ ĐỀ TÔN GIÁO"
+ },
+ {
+  "id": 676,
+  "file": "676-muc-dich-ban-chat-tieu-chuan-tham-quyen-hoi-thanh.txt",
+  "title": "Mục Đích, Bản Chất và Tiêu Chuẩn của Thẩm Quyền Hội Thánh",
+  "orig": "The objects, nature, and standard of ecclesiastical authority",
+  "author": "William Cunningham",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": 677,
+  "file": "677-john-humphrey-noyes-va-nhung-nguoi-cong-san-kinh-thanh.txt",
+  "title": "John Humphrey Noyes và Những \"Người Cộng Sản Kinh Thánh\" của Ông",
+  "orig": "John Humphrey Noyes and his \"Bible communists\"",
+  "author": "Benjamin Breckinridge Warfield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": 679,
+  "file": "679-nhung-dau-hieu-phan-biet-cua-mot-cong-viec-cua-duc-thanh-linh.txt",
+  "title": "Những Dấu Hiệu Phân Biệt của một Công Việc của Đức Thánh Linh",
+  "orig": "The distinguishing marks of a work of the spirit of God",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": 681,
+  "file": "681-tuong-thuat-ve-cong-viec-cua-duc-chua-troi-tai-northampton.txt",
+  "title": "Tường Thuật về Công Việc của Đức Chúa Trời tại và gần Northampton",
+  "orig": "A narrative of the late work of God at and near Northampton",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": 684,
+  "file": "684-cau-hoi-lon-duoc-giai-dap.txt",
+  "title": "Câu Hỏi Lớn Được Giải Đáp: Chúng Ta Phải Làm Gì Để Được Cứu",
+  "orig": "The grand question resolved, what we must do to be saved",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "Newton. John",
+  "by": "Muse",
+  "file": "686-apologia-bon-buc-thu.txt",
+  "id": 686,
+  "orig": "Apologia. Four letters to a minister of an independent church: by a minister of the Church of England. 1784",
+  "reviewed": false,
+  "title": "LỜI BIỆN HỘ: Bốn bức thư gửi một mục sư của Hội Thánh độc lập, bởi một mục sư của Hội Thánh Anh"
+ },
+ {
+  "author": "Plumer. William S.",
+  "by": "Muse",
+  "file": "687-short-sermons-to-little-children.txt",
+  "id": 687,
+  "orig": "Short sermons to little children",
+  "reviewed": false,
+  "title": "NHỮNG BÀI GIẢNG NGẮN CHO THIẾU NHI"
+ },
+ {
+  "author": "Henry. Matthew",
+  "by": "Muse",
+  "file": "692-sober-mindedness-pressd-upon-young-people.txt",
+  "id": 692,
+  "orig": "Sober-mindedness press'd upon young people. In a discourse on Titus II.6. By Matthew Henry, ... 1715",
+  "reviewed": false,
+  "title": "SỰ TIẾT ĐỘ ĐƯỢC KHUYÊN NHỦ NƠI NGƯỜI TRẺ — Bài giảng về Tít 2:6"
+ },
+ {
+  "id": "693-nguoi-chay-dua-tren-troi-bunyan",
+  "file": "693-nguoi-chay-dua-tren-troi-bunyan.txt",
+  "title": "Người Chạy Đua Trên Trời",
+  "orig": "The Heavenly Footman; or, A Description of the Man that gets to Heaven",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "695-nen-tang-vung-chac-romaine",
+  "file": "695-nen-tang-vung-chac-romaine.txt",
+  "title": "Nền Tảng Vững Chắc",
+  "orig": "The Sure Foundation. Two discourses, preached before the University of Oxford",
+  "author": "William Romaine",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
