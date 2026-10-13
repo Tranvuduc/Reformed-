@@ -6031,5 +6031,140 @@
   "orig": "A continuation of the Reverend Mr. Whitefield's journal: from his arrival at London",
   "reviewed": false,
   "title": "TIẾP TỤC NHẬT KÝ CỦA MỤC SƯ WHITEFIELD (Từ khi ông đến London đến khi ông rời đó lên đường sang Georgia)"
+ },
+ {
+  "id": "960-suy-ngam-giua-cac-ngoi-mo-hervey",
+  "file": "960-suy-ngam-giua-cac-ngoi-mo-hervey.txt",
+  "title": "SUY NGẪM GIỮA CÁC NGÔI MỘ",
+  "orig": "Meditations among the Tombs. In a letter to a lady",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "978-luan-ve-su-hien-lanh-henry",
+  "file": "978-luan-ve-su-hien-lanh-henry.txt",
+  "title": "LUẬN VỀ SỰ HIỀN LÀNH VÀ SỰ YÊN LẶNG CỦA TÂM HỒN",
+  "orig": "A discourse concerning meekness, ... 1699",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "981-den-tho-salomom-thuoc-linh-hoa-bunyan",
+  "file": "981-den-tho-salomom-thuoc-linh-hoa-bunyan.txt",
+  "title": "ĐỀN THỜ SA-LÔ-MÔN THUỘC LINH HÓA",
+  "orig": "Solomon's temple spiritualized: or, gospel-light fetched out of the temple at Jerusalem",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "999-ghi-chep-ve-nguoi-do-thai-gill",
+  "file": "999-ghi-chep-ve-nguoi-do-thai-gill.txt",
+  "title": "GHI CHÉP VỀ NGƯỜI DO THÁI VÀ XỨ SỞ HỌ QUA CÁC TÁC GIẢ CỔ ĐIỂN",
+  "orig": "Notices of the Jews and their Country by the Classic Writers of Antiquity",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1003-sau-bai-giang-whitefield",
+  "file": "1003-sau-bai-giang-whitefield.txt",
+  "title": "SÁU BÀI GIẢNG",
+  "orig": "Six sermons on the following subjects",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "C. H. Spurgeon",
+  "by": "Muse",
+  "file": "1014-spurgeon-sermons-tome-1.txt",
+  "id": "1014-spurgeon-sermons-tome-1",
+  "orig": "Sermons preached and revised by the Rev. C. H. Spurgeon",
+  "reviewed": false,
+  "title": "Những Bài Giảng của Mục Sư C. H. Spurgeon — Tập I"
+ },
+ {
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "file": "1057-the-christ-of-god-bonar.txt",
+  "id": "1057-the-christ-of-god",
+  "orig": "The Christ of God",
+  "reviewed": false,
+  "title": "ĐẤNG CHRIST CỦA ĐỨC CHÚA TRỜI"
+ },
+ {
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "file": "1060-the-return-of-prayers.txt",
+  "id": "1060-the-return-of-prayers",
+  "orig": "The return of prayers",
+  "reviewed": false,
+  "title": "SỰ ĐÁP LỜI CẦU NGUYỆN: MỘT LUẬN VĂN VỀ CÁCH NHẬN BIẾT CÂU TRẢ LỜI CỦA ĐỨC CHÚA TRỜI ĐỐI VỚI LỜI CẦU NGUYỆN CỦA CHÚNG TA"
+ },
+ {
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "file": "1064-the-bruised-reed-and-smoking-flax.txt",
+  "id": "1064-the-bruised-reed-and-smoking-flax",
+  "orig": "The bruised reed, and smoking flax",
+  "reviewed": false,
+  "title": "CÂY SẬY BỊ GIẬP VÀ TIM ĐÈN LEO LÉT"
+ },
+ {
+  "id": "1092-obedient-patience-in-general",
+  "file": "1092-obedient-patience-in-general.txt",
+  "title": "Sự nhẫn nhục vâng phục nói chung",
+  "orig": "Obedient patience in general",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1093",
+  "file": "1093-bai-giang-va-cac-luan-van-hervey.txt",
+  "title": "Bài Giảng Và Các Luận Văn",
+  "orig": "Sermons and miscellaneous tracts",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1096",
+  "file": "1096-luan-ve-nguoi-pha-ri-si-va-nguoi-thu-thue.txt",
+  "title": "Bài Luận Về Người Pha-Ri-Si Và Người Thu Thuế",
+  "orig": "A discourse upon the Pharisee",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1097",
+  "file": "1097-ton-giao-hu-khong-cua-ke-gia-hinh-baxter.txt",
+  "title": "Tôn Giáo Hư Không Của Kẻ Giả Hình Hình Thức",
+  "orig": "The vain religion of the formal hypocrite",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1098",
+  "file": "1098-nhung-doan-van-hay-cua-henry.txt",
+  "title": "Những Đoạn Văn Hay Nhất Của Henry",
+  "orig": "The beauties of Henry: a selection",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1100",
+  "file": "1100-loi-keu-goi-cau-nguyen-hiep-nhat-edwards.txt",
+  "title": "Lời Kêu Gọi Cầu Nguyện Hiệp Nhất",
+  "orig": "An humble attempt to promote explicit agreement",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
