@@ -9244,5 +9244,32 @@
   "orig": "The Church of England Vindicated from the Charge of Arminianism",
   "reviewed": false,
   "title": "GIÁO HỘI ANH ĐƯỢC MINH OAN KHỎI CÁO BUỘC ARMINIAN"
+ },
+ {
+  "id": "arch-artofillustratio00spur",
+  "file": "arch-artofillustratio00spur-nghe-thuat-minh-hoa-spurgeon.txt",
+  "title": "NGHỆ THUẬT MINH HOẠ",
+  "orig": "The Art of Illustration",
+  "author": "C. H. Spurgeon",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-bim_eighteenth-century_come-an",
+  "file": "arch-bim_eighteenth-century_come-an-hay-den-voi-christ-bunyan.txt",
+  "title": "HÃY ĐẾN VÀ ĐƯỢC HOAN NGHÊNH ĐẾN VỚI CHÚA GIÊ-XU CHRIST",
+  "orig": "Come and Welcome to Jesus Christ",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-studentscompendi00beet",
+  "file": "arch-studentscompendi00beet-tom-luoc-heidelberg-beets.txt",
+  "title": "TÓM LƯỢC GIÁO LÝ HEIDELBERG CHO HỌC SINH",
+  "orig": "Students' Compendium of the Heidelberg Catechism",
+  "author": "Henry Beets",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
