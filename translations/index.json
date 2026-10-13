@@ -5248,5 +5248,185 @@
   "author": "Benjamin Keach",
   "by": "DeepSeek",
   "reviewed": false
+ },
+ {
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "file": "618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.txt",
+  "id": "618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry",
+  "orig": "Select passages of peculiar instruction and weight, from the Rev. Mr. Henry's Exposition. 1781",
+  "reviewed": false,
+  "title": "CHỌN LỌC NHỮNG ĐOẠN SÁNG QUÝ TỪ CHÚ GIẢI CỦA MATTHEW HENRY"
+ },
+ {
+  "author": "Thomas Boston",
+  "by": "Muse",
+  "file": "620-giao-ly-ve-toi-loi-nguyen-to.txt",
+  "id": "620-giao-ly-ve-toi-loi-nguyen-to",
+  "orig": "The doctrine of original sin. Extracted from a late author. 1784",
+  "reviewed": false,
+  "title": "GIÁO LÝ VỀ TỘI LỖI NGUYÊN TỔ"
+ },
+ {
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "file": "621-su-khon-do-ban-tinh-va-duong-loi-duc-chua-troi.txt",
+  "id": "621-su-khon-do-ban-tinh-va-duong-loi-duc-chua-troi",
+  "orig": "The incomprehensibility of God's nature and ways",
+  "reviewed": false,
+  "title": "SỰ KHÔN DÒ BẢN TÍNH VÀ ĐƯỜNG LỐI ĐỨC CHÚA TRỜI"
+ },
+ {
+  "author": "George Whitefield",
+  "by": "Muse",
+  "file": "624-hai-bai-giang-ve-chien-con-va-phi-e-ro-choi-chua.txt",
+  "id": "624-hai-bai-giang-ve-chien-con-va-phi-e-ro-choi-chua",
+  "orig": "The true nature of beholding the lamb of God, and Peter's denial of his Lord… in two sermons",
+  "reviewed": false,
+  "title": "Hai Bài Giảng Về Chiên Con Và Phi-e-rơ Chối Chúa"
+ },
+ {
+  "author": "Charles Hodge",
+  "by": "Muse",
+  "file": "625-nuoc-anh-va-nuoc-my.txt",
+  "id": "625-nuoc-anh-va-nuoc-my",
+  "orig": "England and America",
+  "reviewed": false,
+  "title": "NƯỚC ANH VÀ NƯỚC MỸ"
+ },
+ {
+  "author": "John Gill",
+  "by": "Muse",
+  "file": "626-su-ben-do-cuoi-cung-cua-cac-thanh-do.txt",
+  "id": "626-su-ben-do-cuoi-cung-cua-cac-thanh-do",
+  "orig": "The doctrine of the saints final perseverance, asserted and vindicated",
+  "reviewed": false,
+  "title": "Sự Bền Đỗ Cuối Cùng Của Các Thánh Đồ"
+ },
+ {
+  "author": "John Bunyan",
+  "by": "Muse",
+  "file": "627-bieu-tuong-thieng-lieng.txt",
+  "id": "627-bieu-tuong-thieng-lieng",
+  "orig": "Divine emblems; or Temporal things spiritualized, &c.",
+  "reviewed": false,
+  "title": "Biểu Tượng Thiêng Liêng"
+ },
+ {
+  "author": "James Hervey",
+  "by": "Muse",
+  "file": "628-suy-ngam-ve-ban-dem.txt",
+  "id": "628-suy-ngam-ve-ban-dem",
+  "orig": "Mr. Hervey's Contemplations on the night, done into blank verse",
+  "reviewed": false,
+  "title": "Suy Ngẫm Về Ban Đêm"
+ },
+ {
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "file": "629-nhan-xet-ve-an-pham-cua-ong-martin.txt",
+  "id": "629-nhan-xet-ve-an-pham-cua-ong-martin",
+  "orig": "Remarks on Mr. Martin's publication, entitled \"Thoughts on the duty of man, relative to faith in Jesus Christ\"",
+  "reviewed": false,
+  "title": "Nhận Xét Về Ấn Phẩm Của Ông Martin"
+ },
+ {
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "file": "630-loi-cho-ke-met-moi.txt",
+  "id": "630-loi-cho-ke-met-moi",
+  "orig": "A word to the weary",
+  "reviewed": false,
+  "title": "Lời Cho Kẻ Mệt Mỏi"
+ },
+ {
+  "id": "633-bai-hoc-lich-su-hoi-thanh-anh",
+  "file": "633-bai-hoc-lich-su-hoi-thanh-anh.txt",
+  "title": "NHỮNG BÀI HỌC TỪ LỊCH SỬ HỘI THÁNH ANH",
+  "orig": "The Lessons of English Church History",
+  "author": "J. C. Ryle",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "John Gill",
+  "by": "Muse",
+  "file": "635-chong-bap-tem-tre-so-sinh.txt",
+  "id": "635-chong-bap-tem-tre-so-sinh",
+  "orig": "Antipædo-baptism; or, Infant-baptism an Innovation",
+  "reviewed": false,
+  "title": "CHỐNG LỄ BÁP-TÊM TRẺ SƠ SINH; hay, Việc Báp-têm Trẻ Sơ Sinh Là Một Sự Canh Tân"
+ },
+ {
+  "author": "Thomas Boston",
+  "by": "Muse",
+  "file": "636-huyen-nhiem-dang-christ-toi-toi.txt",
+  "id": "636-huyen-nhiem-dang-christ-toi-toi",
+  "orig": "The Mystery of Christ in the Form of a Servant",
+  "reviewed": false,
+  "title": "Huyền Nhiệm Của Đấng Christ Trong Hình Dạng Tôi Tớ"
+ },
+ {
+  "author": "Benjamin Breckinridge Warfield",
+  "by": "Muse",
+  "file": "637-phuc-am-ve-su-nhap-the.txt",
+  "id": "637-phuc-am-ve-su-nhap-the",
+  "orig": "The Gospel of the Incarnation",
+  "reviewed": false,
+  "title": "Phúc Âm của Sự Nhập Thể"
+ },
+ {
+  "author": "Benjamin Breckinridge Warfield",
+  "by": "Muse",
+  "file": "638-giao-ly-ve-su-cuu-roi-tre-tho.txt",
+  "id": "638-giao-ly-ve-su-cuu-roi-tre-tho",
+  "orig": "The Development of the Doctrine of Infant Salvation",
+  "reviewed": false,
+  "title": "Sự Phát Triển của Giáo Lý về Sự Cứu Rỗi của Trẻ Thơ"
+ },
+ {
+  "id": "640-trich-yeu-cham-ngon-baxter-xung-cong-chinh",
+  "file": "640-trich-yeu-cham-ngon-baxter-xung-cong-chinh.txt",
+  "title": "Trích Yếu Châm Ngôn Về Sự Xưng Công Chính Của Richard Baxter",
+  "orig": "An extract of Mr Richard Baxter's aphorisms of justification",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "642-khuc-ca-mua-dong-hervey",
+  "file": "642-khuc-ca-mua-dong-hervey.txt",
+  "title": "KHÚC CA MÙA ĐÔNG VÀ SUY NGẪM VỀ SỰ SÁNG TẠO",
+  "orig": "A winter-piece, and a descant on creation",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "643-nam-diem-calvin-dabney",
+  "file": "643-nam-diem-calvin-dabney.txt",
+  "title": "NĂM ĐIỂM CỦA CHỦ NGHĨA CALVIN",
+  "orig": "The five points of Calvinism",
+  "author": "Robert Lewis Dabney",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "644-hon-uoc-doi-doi-boston",
+  "file": "644-hon-uoc-doi-doi-boston.txt",
+  "title": "HÔN ƯỚC ĐỜI ĐỜI",
+  "orig": "The everlasting espousals",
+  "author": "Thomas Boston",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "645-tim-kiem-ke-ly-giao-baxter",
+  "file": "645-tim-kiem-ke-ly-giao-baxter.txt",
+  "title": "TÌM KIẾM KẺ LY GIÁO NƯỚC ANH",
+  "orig": "A search for the English schismatick",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
