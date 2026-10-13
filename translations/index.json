@@ -8452,5 +8452,113 @@
   "author": "Unknown",
   "by": "Claude",
   "reviewed": false
+ },
+ {
+  "author": "John Owen (chaplain)",
+  "by": "Muse",
+  "file": "arch-bim_early-english-books-1641-1-than-khoc-thai-qua-owen.txt",
+  "id": "arch-bim_early-english-books-1641-1",
+  "orig": "Immoderate Mourning for the Dead, Prov'd Unreasonable and Unchristian (1680)",
+  "reviewed": false,
+  "title": "Sự Than Khóc Thái Quá Cho Kẻ Chết — Được Chứng Minh Là Phi Lý Và Không Theo Tinh Thần Cơ Đốc"
+ },
+ {
+  "author": "John Flavel",
+  "by": "Muse",
+  "file": "list-738-da-thu-long-chan-that-flavel.txt",
+  "id": "list-738",
+  "orig": "The Touchstone of Sincerity; or, Trial of True and False Religion",
+  "reviewed": false,
+  "title": "ĐÁ THỬ LÒNG CHÂN THẬT"
+ },
+ {
+  "author": "John Howe; B. Grosvenor",
+  "by": "Muse",
+  "file": "list-739-dang-minh-cho-chua-howe.txt",
+  "id": "list-739",
+  "orig": "An Abridgement of a Discourse on Self-Dedication (John Howe) and The Temper of Jesus towards His Enemies (B. Grosvenor)",
+  "reviewed": false,
+  "title": "Sự Dâng Mình Cho Đức Chúa Trời (John Howe) Và Tâm Tình Của Chúa Giê-xu Đối Với Kẻ Thù Ngài (B. Grosvenor)"
+ },
+ {
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "file": "arch-untilday00bona-cho-den-luc-binh-minh-bonar.txt",
+  "id": "arch-untilday00bona",
+  "orig": "Until the Day Break: and Other Hymns and Poems Left Behind",
+  "reviewed": false,
+  "title": "Cho Đến Lúc Bình Minh: và các Thánh Ca cùng Bài Thơ để lại"
+ },
+ {
+  "author": "Watson, Thomas",
+  "by": "Muse",
+  "file": "arch-watson-witnesses-anatomized-1661.txt",
+  "id": "arch-watson-witnesses-anatomized-1661",
+  "orig": "The witnesses anatomiz'd: or, Sanctitie in its sufferings (1661)",
+  "reviewed": false,
+  "title": "NHÂN CHỨNG BỊ MỔ XẺ: HAY, SỰ THÁNH KHIẾT TRONG LÚC CHỊU KHỔ"
+ },
+ {
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "file": "list-745-huong-dan-tre-em-keach.txt",
+  "id": "list-745-huong-dan-tre-em-keach",
+  "orig": "Instructions for Children: or, the Child's and Youth's Delight",
+  "reviewed": false,
+  "title": "HƯỚNG DẪN CHO TRẺ EM"
+ },
+ {
+  "author": "John Howe",
+  "by": "Muse",
+  "file": "arch-bim_early-english-books-1641-1-the-vanity-of-this-mortal-life-howe.txt",
+  "id": "arch-bim_early-english-books-1641-1-the-vanity-of-this-mortal-life-howe",
+  "orig": "The Vanity of this Mortal Life",
+  "reviewed": false,
+  "title": "SỰ HƯ KHÔNG CỦA ĐỜI TẠM NÀY"
+ },
+ {
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "file": "list-748-bien-ho-truyen-giao-an-do-fuller.txt",
+  "id": "list-748-bien-ho-truyen-giao-an-do-fuller",
+  "orig": "An Apology for the Late Christian Missions to India",
+  "reviewed": false,
+  "title": "LỜI BIỆN HỘ CHO CÔNG CUỘC TRUYỀN GIÁO CƠ ĐỐC GẦN ĐÂY TẠI ẤN ĐỘ"
+ },
+ {
+  "id": "list-749",
+  "file": "list-749-hai-bai-giang-ve-cau-nguyen-va-hat-thanh-ca-gill.txt",
+  "title": "HAI BÀI GIẢNG: MỘT VỀ SỰ CẦU NGUYỆN, MỘT VỀ VIỆC HÁT THÁNH CA",
+  "orig": "Two Discourses: the one on Prayer, the other on Singing of Psalms (John Gill, 1751)",
+  "author": "Gill, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-bim_early-english-books-1641-1-b",
+  "file": "arch-bim_early-english-books-1641-1-luan-ve-ba-ngoi-howe.txt",
+  "title": "LUẬN VỀ KHẢ NĂNG CỦA BA NGÔI TRONG THẦN TÍNH",
+  "orig": "A Calm and Sober Enquiry Concerning the Possibility of a Trinity in the Godhead (John Howe, 1694)",
+  "author": "Howe, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-sermons-of-m-john-calvin-1581",
+  "file": "arch-sermons-of-m-john-calvin-1581-bai-giang-calvin.txt",
+  "title": "CÁC BÀI GIẢNG CỦA THẦY JOHN CALVIN",
+  "orig": "Sermons of M. John Calvin (English translation, 1581)",
+  "author": "Calvin, John",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-godly-letter-knox-1581",
+  "file": "arch-godly-letter-knox-1581-thu-gui-tin-huu-london-knox.txt",
+  "title": "THƯ GỬI CÁC TÍN HỮU TẠI LUÂN ĐÔN",
+  "orig": "A Godly Letter sent to the Faithful in London (John Knox, 1581)",
+  "author": "Knox, John",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
