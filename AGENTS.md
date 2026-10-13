@@ -21,5 +21,7 @@ Free Vietnamese Reformed ebook/audio library. Static site on Vercel (+ `api/*.js
 - `tools/moi_tin.py`: 30-day new-believer path. `tools/reformed101.py`: "Cải Chánh là gì?", pastor page.
 - Data: `books.json`, `mg.json`, `vi-books.json`, `audio.json`. API: `api/text.js`, `sync.js`, `tr.js`, `tts.js`.
 
+- Learning tools (Oct 2026): `tools/nang_cap3.py` (tra-kinh-thanh, giao-ly-hang-ngay, nhom-nho/*, ke-hoach-doc, kt/*.json), `nang_cap3b.py` (so-sanh, dong-thoi-gian, hoi-dap, cong-cu-*), `nang_cap4.py` (tai-sach + `tai-sach.js`: EPUB built in the browser from `txt/`), `nang_cap5.py` (full-text search index `s/`, `s2/`, `search-meta.json` + `tim-kiem.js`; sections use BYTE offsets for Range requests), `nang_cap6.py` (doc-kinh-thanh, hoc-thuoc-long, gia-dinh-tho-phuong, hoi-thanh-nha, lich-su-hom-nay, so-hoc + their `*.js`). `feed.xml` changes daily, so CI "Generated files are committed" fails on a new day until rebuilt.
+
 ## Open work
 - Pastor review of translations (`translations/review/`); Bible-first lessons; Android test; verify `api/tts`; EPUB (`rv-`) Vietnamese polish. See `translations/PLAN-COMPLETE.md`.

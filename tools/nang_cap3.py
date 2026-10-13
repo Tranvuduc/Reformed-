@@ -41,7 +41,7 @@ for _s, _d in _B3.items():
             _bk = _bkv3[_m.group(1).lower()]; _ch = int(_m.group(2)); _vs = _m.group(3) + (("–" + _m.group(4)) if _m.group(4) else "")
             _e = _kt.setdefault(_bk, {}).setdefault(_ch, {}).setdefault(_s, [0, [], _anchor3(_t)])
             _e[0] += 1
-            if _vs not in _e[1] and len(_e[1]) < 8: _e[1].append(_vs)
+            if _vs not in _e[1] and len(_e[1]) < 60: _e[1].append(_vs)
 _o3.makedirs("kt", exist_ok=True)
 _stems3 = sorted(_B3, key=lambda s: (_B3[s]["author"], _B3[s]["title"]))
 _six3 = {s: i for i, s in enumerate(_stems3)}
