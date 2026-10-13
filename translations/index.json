@@ -5734,5 +5734,167 @@
   "author": "Benjamin B. Warfield",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "822-tieu-su-margaret-baxter",
+  "file": "822-tieu-su-margaret-baxter.txt",
+  "title": "TIỂU SỬ VẮN TẮT VỀ ĐỜI SỐNG CỦA BÀ MARGARET BAXTER",
+  "orig": "A breviate of the life of Mrs. Margaret Baxter (1681)",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "824-khac-biet-ve-bap-tem-bunyan",
+  "file": "824-khac-biet-ve-bap-tem-bunyan.txt",
+  "title": "SỰ KHÁC BIỆT VỀ PHÁN ĐOÁN TRONG BÁP-TÊM BẰNG NƯỚC KHÔNG LÀ RÀO CẢN CỦA SỰ THÔNG CÔNG",
+  "orig": "Differences in judgment about water-baptism, no bar to communion",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "827-an-dien-va-dao-duc-baxter",
+  "file": "827-an-dien-va-dao-duc-baxter.txt",
+  "title": "PHÁN XÉT CỦA NHỮNG NGƯỜI BẤT ĐỒNG CHÍNH KIẾN VỀ SỰ KHÁC BIỆT GIỮA ÂN ĐIỂN VÀ ĐẠO ĐỨC",
+  "orig": "The judgment of Non-conformists about the difference between grace and morality (1676)",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "828-niem-vui-thuoc-linh-watson",
+  "file": "828-niem-vui-thuoc-linh-watson.txt",
+  "title": "NIỀM VUI THUỘC LINH CỦA THÁNH ĐỒ VÀ NGƯỜI CƠ ĐỐC TRÊN NÚI",
+  "orig": "The saint's spiritual delight and a Christian on the mount (1687)",
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "Robert Lewis Dabney",
+  "by": "Muse",
+  "file": "830-review-theodosia-ernest-heroine-of-faith-dabney.txt",
+  "id": "830-review-theodosia-ernest-heroine-of-faith-dabney",
+  "orig": "A review of Theodosia Ernest, or, The heroine of faith",
+  "reviewed": false,
+  "title": "Phê Bình Cuốn \"Theodosia Ernest, Hay, Nữ Anh Hùng Của Đức Tin\""
+ },
+ {
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "file": "831-everlasting-covenant-keach.txt",
+  "id": "831-everlasting-covenant-keach",
+  "orig": "The everlasting covenant, a sweet cordial for a drooping soul",
+  "reviewed": false,
+  "title": "GIAO ƯỚC ĐỜI ĐỜI, MỘT LIỀU THUỐC BỔ NGỌT NGÀO CHO LINH HỒN RŨ RƯỢI"
+ },
+ {
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "file": "832-di-cao-bai-giang-watson.txt",
+  "id": "832-di-cao-bai-giang-watson",
+  "orig": "Watson's Remains: being a collection of some of his last sermons upon several subjects",
+  "reviewed": false,
+  "title": "DI CẢO CỦA WATSON: TUYỂN TẬP BÀI GIẢNG"
+ },
+ {
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "file": "833-self-consideration-necessary-to-self-preservation.txt",
+  "id": "833-self-consideration-necessary-to-self-preservation",
+  "orig": "Self-consideration necessary to self-preservation",
+  "reviewed": false,
+  "title": "TỰ XÉT MÌNH — ĐIỀU CẦN THIẾT CHO SỰ BẢO TỒN CHÍNH MÌNH"
+ },
+ {
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "file": "835-seven-sermons-on-several-select-subjects.txt",
+  "id": "835-seven-sermons-on-several-select-subjects",
+  "orig": "Seven sermons on several select subjects, ... 1689",
+  "reviewed": false,
+  "title": "Bảy Bài Giảng Về Nhiều Chủ Đề Chọn Lọc"
+ },
+ {
+  "id": "836-loi-giai-thich-cua-giam-muc-sarum",
+  "file": "836-loi-giai-thich-cua-giam-muc-sarum.txt",
+  "title": "Sự Xem Xét Lời Diễn Giải Của Đức Giám Mục Sarum Về Điều Thứ Hai Của Tôn Giáo Chúng Ta",
+  "orig": "The exposition given by my lord Bishop of Sarum [microform]",
+  "author": "Edwards, Jonathan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "842-chu-nghia-socinus-khong-the-bao-chua-duoc",
+  "file": "842-chu-nghia-socinus-khong-the-bao-chua-duoc.txt",
+  "title": "Chủ Nghĩa Socinus Không Thể Bào Chữa Được, Xét Trên Xu Hướng Đạo Đức Của Nó",
+  "orig": "Socinianism indefensible, on the ground of its moral tendency: containing a repl",
+  "author": "Fuller, Andrew",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "853-su-tram-trong-cua-toi-loi-goodwin",
+  "file": "853-su-tram-trong-cua-toi-loi-goodwin.txt",
+  "title": "Sự Nghiêm Trọng Của Tội Lỗi, Và Việc Phạm Tội Nghịch Lại Sự Hiểu Biết",
+  "orig": "Aggravation of sinne: and sinning against knowledge. 1637",
+  "author": "Goodwin, Thomas.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "858-su-hinh-thanh-ban-tin-nguong-westminster",
+  "file": "858-su-hinh-thanh-ban-tin-nguong-westminster.txt",
+  "title": "Sự Hình Thành Bản Tuyên Xưng Westminster, Và Đặc Biệt Chương Về Sắc Chỉ Của Đức Chúa Trời",
+  "orig": "The making of the Westminster Confession ..",
+  "author": "Warfield, Benjamin Breckinridge",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "864-bai-giang-trong-nen-spurgeon",
+  "file": "864-bai-giang-trong-nen-spurgeon.txt",
+  "title": "Bài Giảng Trong Cây Nến",
+  "orig": "Sermons in candles: two lectures upon the illustrations which may be found in co",
+  "author": "Spurgeon, C. H.",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "867-ve-doan-tru-cot-cua-schmiedel-warfield",
+  "file": "867-ve-doan-tru-cot-cua-schmiedel-warfield.txt",
+  "title": "BÀN VỀ NHỮNG \"ĐOẠN TRỤ CỘT\" CỦA SCHMIEDEL",
+  "orig": "Concerning Schmiedel's \"Pillar-passages.\"",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "869-he-thong-than-hoc-cau-hoi-hodge",
+  "file": "869-he-thong-than-hoc-cau-hoi-hodge.txt",
+  "title": "THẦN HỌC HỆ THỐNG: MỘT LOẠT CÂU HỎI",
+  "orig": "Systematic theology: a series of questions upon the lectures delivered to the students in Princeton Theological Seminary",
+  "author": "Charles Hodge",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "870-tieu-thuyet-khong-bao-ve-chan-ly-dabney",
+  "file": "870-tieu-thuyet-khong-bao-ve-chan-ly-dabney.txt",
+  "title": "TIỂU THUYẾT KHÔNG PHẢI LÀ SỰ BÊNH VỰC LẼ THẬT",
+  "orig": "Fiction, no defence of truth, or, A review of Theodosia Ernest",
+  "author": "Robert Lewis Dabney",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "873-giao-si-va-ca-doan-hodge",
+  "file": "873-giao-si-va-ca-doan-hodge.txt",
+  "title": "GIÁO SĨ VÀ CA ĐOÀN",
+  "orig": "Clergy and choir",
+  "author": "Charles R. Hodge",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
