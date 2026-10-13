@@ -1,5 +1,22 @@
 [
- {"d": "2026-10-12", "t": "Thêm tiểu sử và tác phẩm tiêu biểu cho hơn 200 tác giả (bản nháp, chưa mục sư duyệt)", "u": "/tac-gia.html"},
- {"d": "2026-10-12", "t": "Trang Bắt đầu ở đây, Về chúng tôi, Trạng thái bản dịch và Đọc theo sách Kinh Thánh", "u": "/bat-dau.html"},
- {"d": "2026-10-08", "t": "Giọng đọc tự nhiên tạo sẵn cho sách “Bạn có cầu nguyện không?” (chọn “Giọng tự nhiên” trong trình đọc)", "u": "/reader.html?id=vn/do-you-pray"}
+ {
+  "d": "2026-10-13",
+  "t": "Công cụ học mới: tra cứu theo Kinh Thánh, giáo lý mỗi ngày, kế hoạch đọc, sách cho nhóm nhỏ, hỏi đáp, so sánh các truyền thống và dòng thời gian (bản nháp, chưa mục sư duyệt)",
+  "u": "/cong-cu-hoc.html"
+ },
+ {
+  "d": "2026-10-12",
+  "t": "Thêm tiểu sử và tác phẩm tiêu biểu cho hơn 200 tác giả (bản nháp, chưa mục sư duyệt)",
+  "u": "/tac-gia.html"
+ },
+ {
+  "d": "2026-10-12",
+  "t": "Trang Bắt đầu ở đây, Về chúng tôi, Trạng thái bản dịch và Đọc theo sách Kinh Thánh",
+  "u": "/bat-dau.html"
+ },
+ {
+  "d": "2026-10-08",
+  "t": "Giọng đọc tự nhiên tạo sẵn cho sách “Bạn có cầu nguyện không?” (chọn “Giọng tự nhiên” trong trình đọc)",
+  "u": "/reader.html?id=vn/do-you-pray"
+ }
 ]
