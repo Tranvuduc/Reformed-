@@ -9271,5 +9271,32 @@
   "author": "Henry Beets",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "author": "Romaine, William",
+  "by": "Muse",
+  "file": "arch-bim_eighteenth-century_a-pract-chu-giai-thi-thien-107-romaine.txt",
+  "id": "arch-bim_eighteenth-century_a-pract",
+  "orig": "A Practical Comment on the 107th Psalm. The third edition. By William Romaine, 1756",
+  "reviewed": false,
+  "title": "CHÚ GIẢI THỰC HÀNH VỀ THI THIÊN 107"
+ },
+ {
+  "author": "Poole, Matthew",
+  "by": "Muse",
+  "file": "arch-bim_eighteenth-century_a-dialo-doi-thoai-linh-muc-tin-lanh-anh-poole.txt",
+  "id": "arch-bim_eighteenth-century_a-dialo",
+  "orig": "A Dialogue between a Popish priest, and an English protestant. Wherein the principal points and arguments of both religions are truly proposed, and fully examined. By Matthew Poole, 1735",
+  "reviewed": false,
+  "title": "CUỘC ĐỐI THOẠI GIỮA MỘT LINH MỤC CÔNG GIÁO VÀ MỘT NGƯỜI TIN LÀNH ANH"
+ },
+ {
+  "id": "arch-bim_eighteenth-century_the-liv",
+  "file": "arch-bim_eighteenth-century_the-liv-den-tho-song-dong-howe.txt",
+  "title": "ĐỀN THỜ SỐNG ĐỘNG",
+  "orig": "The Living Temple (Part II, 1702)",
+  "author": "John Howe",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
