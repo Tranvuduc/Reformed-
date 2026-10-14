@@ -1,0 +1,645 @@
+# Nhật Ký Hành Trình Từ Luân Đôn Đến Savannah
+
+**Nguyên tác:** "A Journal of a Voyage from London to Savannah in Georgia. In Two Parts. Part I. From London to Gibraltar. Part II. From Gibraltar to Savannah. By George Whitefield, A.B. of Pembroke-College, Oxford. With a short Preface" — George Whitefield (Luân Đôn: in cho James Hutton, tại Kinh Thánh và Mặt Trời ở Temple-Bar; ấn bản thứ năm, 1739)
+**Tác giả:** George Whitefield (1714–1770), mục sư, Tuyên úy của Nữ Bá tước Huntingdon
+**Nguồn:** https://archive.org/download/bim_eighteenth-century_a-journal-of-a-voyage-fr_whitefield-george_1739_0/bim_eighteenth-century_a-journal-of-a-voyage-fr_whitefield-george_1739_0_djvu.txt
+*(Ghi chú: Tác phẩm thật gồm trang tựa + Lời Tựa ngắn của nhà in James Hutton + toàn bộ Nhật Ký gồm hai phần: Phần I. Từ Luân Đôn đến Gibraltar; Phần II. Từ Gibraltar đến Savannah, kết thúc bằng bản dịch Thi Thiên 23 của ông Addison. Đây là tác phẩm KHÁC với các nhật ký Whitefield đã dịch trong thư viện: #582 là Nhật Ký Tiếp Theo (từ khi đến Savannah đến khi trở về Luân Đôn), #330 là phần bổ sung cho #582, #362 là Nhật Ký trong thời gian bị Lệnh Cấm Tàu giữ lại Anh (tháng 6–8 năm 1739), #814 là nhật ký năm 1740. Bản OCR nguồn bị hỏng nhiều chỗ (chữ ſ dài, dòng vỡ, đoạn rác, tiêu đề bị xáo trộn); những lỗi hiển nhiên đã được sửa lặng lẽ theo mạch văn; những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW], không bịa thêm. Các câu trích Kinh Thánh theo văn phong Việt ngữ 1934.)*
+**Trạng thái duyệt:** AI, chưa duyệt (chưa được mục sư duyệt)
+
+---
+
+## Lời Tựa Ngắn
+
+Nhật Ký sau đây sẽ không bao giờ được xuất bản, nếu không phải vì một bản sao lậu của một phần trong đó đã được in mà Tác giả không hề biết hay đồng ý. Ông tự biết mình quá rõ nên không phô bày những việc riêng tư nhỏ nhặt của mình ra trước thế gian; nhất là khi xen lẫn với những đoạn liên quan đến [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "những người khác"] mà chỉ có một Người [NEEDS REVIEW: câu bị hỏng trong OCR] mới thấy là thích hợp để tiết lộ.
+
+Nếu tôi (người mà một mình ông W. đã giao quyền in những gì mà Bạn Bè của ông thấy là thích hợp) đã được hỏi ý kiến về việc xuất bản Nhật Ký này, thì chắc chắn mọi tên riêng đều đã được bỏ đi, cùng với những hoàn cảnh ít quan trọng hơn vốn làm lộ rõ các nhân vật. Và chính nhờ sự khẩn cầu tha thiết của nhiều Bạn Bè của ông W. mà tôi đã quyết định in toàn bộ, kẻo có điều gì bị bịa đặt ra cho một Chuyến Đi từ Luân Đôn đến Gibraltar. — Những ai được nhắc đến trong bản sao lậu, chúng tôi không nghi ngờ gì, sẽ hoàn toàn minh oan cho ông W. và Bạn Bè của ông về việc đó; và nhiều người trong số họ, chúng tôi hy vọng, lần này không cho rằng bị kết án vì Đấng Christ là một điều nhục nhã.
+
+Ông Cooper, dường như, cảm thấy bị xúc phạm vì tôi gọi ấn bản Nhật Ký của ông W. của ông là ấn bản lậu. Nhưng vì nó đã lén lút len lỏi vào thế gian, mà không có bất kỳ giấy phép hay quyền hạn chính đáng nào, tôi không biết làm sao để gọi nó bằng một cái tên nhẹ nhàng hơn. Ông W. và mọi Tác giả đều có quyền không nghi ngờ gì để giữ lại bất kỳ Tác phẩm nào của mình, bao lâu tùy ý; và nếu ông thấy thích hợp để in nó, thì chính ông là người quyết định ai sẽ in nó. Ông cũng có quyền đệ trình Tác phẩm của mình cho sự phán xét và sửa chữa của những Bạn Bè do chính ông chọn, hoặc giữ lại hoàn toàn nếu họ thấy thích hợp; hoặc nếu họ thấy thích hợp hơn để xuất bản, thì chuẩn bị nó cho nhà in.
+
+Giờ đây ông W. đã không cho ông Cooper phép in Nhật Ký của mình, cũng không cho bất kỳ Người nào mà ông Cooper đã nhận nó từ đó. Ông đã gửi Nhật Ký cho tôi, để được truyền đạt riêng tư cho Bạn Bè của ông; nhưng không được công bố mà không có Lời Khuyên và Sự Sửa Chữa của một số Người nhất định mà tôi biết rõ, mà phán đoán của họ ông có ý kiến tốt hơn là của chính mình. Nhưng cả những Bạn Bè đó của ông W. cũng không tán thành việc xuất bản Nhật Ký này bởi Cooper, cũng không đưa cho ông bất kỳ bản sao nào đã được chuẩn bị cho nhà in.
+
+Tôi nghĩ điều này đã đủ biện minh cho việc tôi gọi ấn bản của ông là lậu.
+
+Ông Cooper cũng biết rằng ông W. đã công bố (trong một Quảng Cáo có tên ông ký kèm) rằng về sau mọi thứ do ông viết sẽ chỉ được xuất bản bởi tôi mà thôi, và không bởi ai khác. Vậy nên nếu ông Cooper đã có sự tôn trọng đúng đắn đối với Công Lý và Tài Sản của Người Lân Cận, ông đã hỏi Người đã chào bán bản sao đó câu hỏi này, vốn rất thường được những Thương Nhân trung thực hỏi: Ông lấy nó từ đâu? Ông có quyền gì để bán nó? Một chút tìm hiểu đã có thể làm ông thỏa mãn rằng Người đó, dù là ai, cũng không thể đưa cho ông bất kỳ giấy phép chính đáng nào để in nó.
+
+[NEEDS REVIEW: một đoạn bị hỏng nặng trong OCR — dường như nói về việc ông Cooper đã phạm một sự sơ suất lớn; những Người mua các bản sao lậu sẽ khuyến khích những hành vi hoàn toàn không phù hợp với sự Buôn Bán Công Bằng.]
+
+Ngày 18 tháng 8 năm 1738, James Hutton.
+
+---
+
+## Nhật Ký Hành Trình Từ Luân Đôn Đến Savannah Ở Georgia
+
+### Phần I. Từ Luân Đôn Đến Gibraltar
+
+Các Bạn thân mến của tôi,
+
+Theo yêu cầu của các bạn, tôi xin gửi kèm đây một Bản Tường Thuật về những gì ĐỨC CHÚA TRỜI đã làm cho linh hồn tôi từ khi tôi rời nước Anh. — Động cơ duy nhất (nếu lòng tôi không lừa dối tôi) đã khiến tôi rời khỏi quê hương mình là một sự tin chắc đầy đủ rằng đó là Ý Muốn Thiêng Liêng tôi phải làm như vậy. Tôi có thể viện dẫn những lý do gì cho sự thuyết phục này, thì không cần phải nhắc đến, vì ít người trong trường hợp này sẽ phán xét một cách vô tư; và điều dường như là lý do đối với tôi, có thể không được coi là như vậy bởi người khác. Chỉ cần cho các bạn biết rằng sau khi cầu nguyện tha thiết trong một năm rưỡi, rằng nếu kế hoạch này không phải từ Đức Chúa Trời, nó có thể trở thành hư không, mặc dù bị thúc giục mạnh mẽ hành động theo cách ngược lại, tôi thấy mình vẫn háo hức lên đường ra nước ngoài như bao giờ.
+
+Theo đó, thứ Tư, ngày 28 tháng 12 năm 1737, sau khi tiếp tục khẩn thiết cầu nguyện với Bạn Bè của tôi tại nhà ông F. H., và sau đó lãnh nhận Bí Tích Thánh tại St. Dunstan's, được giới thiệu cho Ân Điển của Đức Chúa Trời bởi một số đông Anh Em Cơ Đốc đang khóc tại nhà Mục sư H., tôi lên đường vào ban đêm đi Deptford trong một cỗ xe, cùng với bốn Người Bạn, và đến đó lúc mười giờ. Tại đây một Người Góa Phụ đã vui vẻ tiếp đón chúng tôi vào nhà bà; và nhiều Bạn Bè của tôi đã đến gặp tôi, những người đã đi bộ từ Luân Đôn, với ý định đi cùng tôi đến Tàu; và cùng với họ, tôi đã dùng một chút đồ ăn để bồi bổ thân thể, dành hai hoặc ba giờ để cầu thay đặc biệt cho Bạn Bè và Kẻ Thù của chúng tôi, và cho toàn thể Nhân Loại; hát Thi Thiên, Thánh Ca và các Bài Hát Thuộc Linh, rồi sau đó đi nghỉ; và CHÚA đã khiến chúng tôi được ở yên ổn. [Ôi, ai có thể diễn tả niềm vui không thể nói hết của những Bạn Bè tôn giáo?]
+
+Thứ Năm, ngày 29 tháng 12. Dậy sớm buổi sáng, và tiếp tục khẩn thiết cầu thay, hát và xướng Thi Thiên, mà lòng chúng tôi rất được [NEEDS REVIEW: câu bị hỏng trong OCR]. Sau đó chúng tôi đi tìm Tàu của mình, nhưng thấy nó đã trôi xuống Purfleet, và sẽ không dời đến Gravesend trong một thời gian, chúng tôi trở về Deptford, ngợi khen Đức Chúa Trời, và cầu nguyện cho một Phước Lành trên Chuyến Đi dự định của chúng tôi. Nguyện CHÚA làm trọn mọi lời cầu xin của chúng tôi!
+
+Khi trở về Deptford với Bạn Bè của tôi, chúng tôi ăn trưa thoải mái cùng nhau, cùng hát một Thi Thiên, đọc các Bài Học trong ngày, và kết thúc bằng Cầu Nguyện. Một số người sau đó buộc phải khởi hành về Luân Đôn. Sau khi họ đi rồi, tôi tiếp tục cầu thay đặc biệt gần hai giờ, và sau đó Đức Chúa Trời vui lòng an ủi lòng tôi: Nếu việc chia tay với một vài người bạn trần gian trong một thời gian đã đau buồn như vậy, thì Kẻ Ác sẽ chịu đựng thế nào khi bị chia lìa khỏi ĐỨC CHÚA TRỜI và những người tốt trong cả cõi đời đời!
+
+Xảy ra một cách quan phòng rằng một Bài Giảng sẽ được giảng tối hôm đó tại Deptford, và nhiều người đã nài nỉ tôi giảng nó. Ban đầu tôi sợ hãi (ôi tôi, kẻ ít đức tin) vì không có ghi chú. Nhưng sau đó (đã được sự đồng ý của Mục sư), tôi bước lên, nương cậy vào Lời Hứa: "Nầy, Ta ở cùng các ngươi luôn cho đến tận thế"; và đã được giúp sức giảng cho một hội chúng đông đảo mà không hề do dự chút nào. Có ai đã từng tin cậy nơi CHÚA mà bị bỏ rơi chưa? Điều đã đem lại cho tôi sự an ủi lớn, và khiến tôi biết ơn hơn, là cơ hội đó, tôi tin, đã được ban cho để đáp lời Cầu Nguyện.
+
+Thứ Sáu, ngày 30 tháng 12. Đi cùng Hành Lý và chín hoặc mười người Bạn trong một chiếc thuyền đi Gravesend đến Purfleet, nơi chiếc Whitaker đã trôi xuống. Dành thời gian chúng tôi ở trên mặt nước để hát Thi Thiên và cầu thay đặc biệt; và lên tàu khoảng mười giờ sáng.
+
+Tôi đã nói vài điều với đoàn người mới của mình, dành phần còn lại của ngày trên bờ với Bạn Bè của tôi, hát Thi Thiên, Cầu Nguyện, và khích lệ lẫn nhau yêu thương và làm việc lành. Trở về tàu vào ban đêm, và nằm cùng Bạn H. của tôi trên mặt đất trên một tấm nệm, trong khoang lớn. Và Đức Chúa Trời vui lòng ban cho tôi một bằng chứng rằng Ngài ở cùng tôi trong Tàu.
+
+Thứ Bảy, ngày 31 tháng 12. Bắt đầu sáng nay có Cầu Nguyện công khai trên boong tàu, mà các Sĩ Quan và Lính đã tham dự với sự trang nghiêm và kính cẩn. Sau Cầu Nguyện, tôi đã giảng giải thêm một chút về những Lời của Thánh Phao-lô: "Tôi đã quyết định không biết gì giữa anh em, ngoại trừ CHÚA GIÊ-XU CHRIST và Ngài bị đóng đinh," nói với họ về cách cư xử trong tương lai của tôi; đưa ra một số lời tuyên bố về tình yêu chân thành và lòng trìu mến chân thật của tôi đối với linh hồn họ; rồi sau đó giải tán họ, tôi tin là có phần cảm động. Ôi, nguyện tôi có Ân Điển để hành động xứng hợp với lời tuyên bố này!
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc giảng luận về sự không chắc chắn của Đời Sống, và sự chắc chắn của một Sự Phán Xét trong tương lai, cho những người xung quanh tôi; và Đức Chúa Trời vui lòng không để Lời tôi rơi xuống đất.]
+
+Khoảng mười hai giờ, tôi đi thăm Bạn Bè của tôi đang ở trên bờ, và dành hai hoặc ba [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "giờ"] để ngợi khen và chúc tụng Đức Chúa Trời.
+
+Chẳng bao lâu, một Người Bạn khác đến cùng hai người đàn ông trung thực từ Gravesend, mong muốn tôi, nhân danh Mục sư, đến giảng cho họ vào Ngày Chúa Nhật tiếp theo. Ban đầu tôi không muốn rời đoàn chiên của mình trong Tàu, nhưng những lý lẽ của Bạn Bè tôi đã thắng hơn lý lẽ của tôi, và tôi lên tàu, đọc Cầu Nguyện công khai, thăm người Bệnh, đưa cho các Lính một Lời Khuyên Bảo (mà các Lính đã vô cùng cảm động); rồi sau đó lên thuyền cùng họ đi Gravesend. Lòng tôi rất được mở rộng trong Cầu Thay. Buổi tối vô cùng yên tĩnh, bầu trời trong sáng, và mọi vật đều hòa hợp để ngợi khen Đấng vinh hiển và cao cả, Đấng ngự trong cõi đời đời, Đấng giương các tầng trời ra như một bức màn, và nắm giữ chúng trong lòng bàn tay Ngài.
+
+Khoảng bảy giờ tối, Đức Chúa Trời đã đưa chúng tôi an toàn đến Gravesend, nơi ông H. đã tiếp đón cả tôi và Bạn Bè tôi một cách rất lịch thiệp, và ban cho chúng tôi nhiều ân huệ. Nguyện CHÚA tốt lành thương xót ông trong ngày đó.
+
+Chúng tôi đã dành buổi tối rất vui vẻ trong Cầu Nguyện và Hát, rồi sau đó đi ngủ, trước đó đã khích lệ lẫn nhau chuẩn bị các Gia Vị và Thuốc Thơm của sự Ngợi Khen và Tạ Ơn, và nghỉ ngơi vào ngày Sa-bát sắp đến theo Điều Răn.
+
+Chủ Nhật, ngày 1 tháng 1. Ngợi khen Đức Chúa Trời về sự bắt đầu của một năm mới! Vì đó là một ngày của những điều lớn lao. Chúng tôi dậy buổi sáng, và lui về một ngọn đồi gần đó cùng Bạn Bè của tôi để Cầu Nguyện; và sau đó đã vô cùng ngạc nhiên một cách vui vẻ bởi sự đến của nhiều Bạn Bè Luân Đôn nữa (những người tôi yêu như linh hồn mình), những người đã đến bằng đường thủy để gặp tôi.
+
+Khoảng mười giờ, chúng tôi đến Nhà Thờ, nơi tôi đã giảng; và Mục sư Phó đã tử tế, theo yêu cầu của chúng tôi, ban cho chúng tôi Bí Tích. Buổi chiều, tôi lại giảng cho một Hội Chúng đông đảo hơn buổi sáng. Và vì chỉ ở đó một Ngày Chúa Nhật, tôi đã bị thúc giục giảng và đọc Cầu Nguyện lần thứ ba, lúc sáu giờ tối. Đó là một điều hoàn toàn mới đối với tôi; nhưng khi Mục sư Phó sẵn lòng cho mượn Bục Giảng, và Bạn Bè tôi cùng Dân Chúng [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "thúc giục"], tôi coi đó là một Lời Kêu Gọi của Sự Quan Phòng, và theo đó đã đọc [NEEDS REVIEW: số chương bị hỏng trong OCR] cho một thính giả rất đông đảo; và điều này tôi đã làm mà không có ghi chú, vì tôi chỉ mang theo hai bài giảng đã viết. Ôi, ai có thể diễn tả lòng nhân từ đầy dẫy của CHÚA, hay tỏ ra mọi lời ngợi khen của Ngài?
+
+Thứ Hai, ngày 2 tháng 1 năm 1737-8. Ngồi đến mười hai giờ đêm để chia tay một số Bạn Bè của tôi, mà công việc của họ buộc họ phải ở Luân Đôn vào sáng hôm sau; và sau đó, sau ba hoặc bốn giờ nghỉ ngơi, dậy và đi bộ đến Greenhithe cùng phần còn lại của Bạn Bè tôi, định lấy một chiếc thuyền ở đó, và như vậy trở về với đoàn chiên của tôi tại Purfleet. Nhưng ngay khi chúng tôi đang bước vào thuyền, một cách quan phòng, một Cậu Bé đến, báo cho chúng tôi rằng chiếc Whitaker đang trôi xuống Gravesend, và sẵn sàng ra khơi, nếu chưa thực sự căng buồm; chúng tôi lập tức vội vã quay lại từ nơi chúng tôi đến, và đi trên đường vui mừng.
+
+Khoảng mười một giờ, chúng tôi đến Gravesend, và vui mừng thấy Tàu sẽ không ra khơi cho đến ngày mai. Điều này đã đem lại niềm vui cho lòng tôi, vì nó đã cho tôi cơ hội giải quyết một số công việc quan trọng, và trò chuyện lâu hơn một chút với Bạn Bè thân yêu của tôi.
+
+Khoảng mười hai giờ, tôi lên tàu, để Bạn Bè của tôi ăn trưa trên bờ. Và khi tôi đi dọc đường, Đức Chúa Trời vui lòng cho tôi thấy Ngài đã ban phước cho các Bài Giảng của tôi; Dân Chúng dường như rất xúc động, và chúc tôi một chuyến đi tốt lành một cách chân thành, và ngay cả các Thủy Thủ cũng vô cùng trìu mến. Ngợi khen Đức Chúa Trời vì đã đóng ấn của Ngài trên chức vụ không xứng đáng của tôi!
+
+Dành phần còn lại của ngày để sắp xếp mọi việc trên tàu, thăm người Bệnh, dạy Trẻ Em, và đọc Cầu Nguyện, và Giảng. Mọi Tình Yêu, mọi Vinh Hiển đều thuộc về ĐỨC CHÚA TRỜI qua ĐẤNG CHRIST.
+
+Buổi tối, tôi lại lên bờ gặp Bạn Bè của tôi, cầu nguyện, hát Thi Thiên, và giải thích (tôi nghĩ) một chương trong Kinh Thánh cho họ, và đã không ít được an ủi. Ngợi khen CHÚA, hỡi linh hồn ta!
+
+Thứ Ba, ngày 3 tháng 1. Lên tàu, đọc Cầu Nguyện và Giảng, thăm người Bệnh, rồi sau đó chia tay lần cuối, như tôi nghĩ, với Bạn Bè của tôi. Dành buổi chiều để viết Thư, và sắp xếp mọi việc. Và (điều tôi coi là một phước lớn) mặc dù tôi đã quen với một phạm vi hành động rộng lớn như vậy, nhưng sự thay đổi Đời Sống của tôi đã không gây cho tôi chút bất an nào, mà lòng tôi được làm mới bằng Niềm Vui không thể nói hết, và đầy dẫy Vinh Hiển.
+
+Tối nay, bắt đầu đọc Cầu Nguyện giữa các boong tàu, vì cho rằng ở trên sẽ quá lạnh.
+
+Ban đêm, tôi đi, theo thói quen, lên bờ đến Gravesend, nơi tôi đã ngạc nhiên một cách vui vẻ khi thấy Bạn Bè của tôi. Tôi đã chia tay họ vào buổi sáng một lần nữa, vì thời tiết ngăn cản họ đi Luân Đôn. Tại đây, ông C. W. và ông N. H. cũng đã đến gặp tôi, cùng với họ, chúng tôi đã cầu nguyện, hát Thi Thiên, phó thác lẫn nhau cho Đức Chúa Trời, và chia tay vào sáng hôm sau như Anh Em Cơ Đốc.
+
+Thứ Tư, ngày 4 tháng 1. Lên tàu lúc mười giờ sáng; nhưng không thể có Cầu Nguyện công khai, vì các Lính đã bận với Sĩ Quan của họ. Nhưng tôi đã thăm người Bệnh, và nhận thấy các Lính chú ý lắng nghe tôi, khi tôi áp dụng mình cho những người xung quanh những Người Bệnh. Tôi cũng đã phân phát cho những Người Bệnh một số quà tặng tử tế của Bạn Bè Luân Đôn của tôi, để thuyết phục họ rằng tôi có tình yêu dành cho họ, và để có được sự tiếp cận đến linh hồn họ. Tôi đã thăm người Bệnh, đọc Cầu Nguyện, và giảng ứng khẩu (như tôi thường làm buổi sáng và buổi tối) và đi cùng ông H. vào buổi tối lên bờ đến Gravesend, nơi chúng tôi đã cầu thay cho Bạn Bè, giải thích một chương, và đi ngủ, với sự bình an trong tâm trí vượt quá mọi sự hiểu biết. Ôi, nguyện những kẻ xác thịt, bất cẩn, nửa Cơ Đốc có thể biết được những sự an ủi của Tôn Giáo!
+
+Thứ Năm, ngày 5 tháng 1. Ngày nay Đức Chúa Trời thật sự ở cùng tôi. Tôi đã được làm mới trong tâm linh, khi nghe tin từ một số Bạn Bè Luân Đôn, và nhận được một số quà tặng tử tế từ những Người mà tôi không bao giờ có thể nghĩ tới; đã được giúp đỡ nhiều trong việc viết Thư; lên tàu, đọc Cầu Nguyện, và giảng; thăm người Bệnh, và có Đức Chúa Trời ở cùng tôi suốt cả ngày. Bắt đầu dạy giáo lý cho sáu hoặc bảy người Lính trẻ trên boong tàu. Tôi đã ngạc nhiên khi họ chịu phục tùng; nhưng Đức Chúa Trời có lòng của mọi người trong tay Ngài.
+
+Sự lịch thiệp lớn đã được bày tỏ với tôi trên tàu bởi các Sĩ Quan; và Thuyền Trưởng V. đã gửi thuyền của ông đến đón tôi đến Gravesend, nơi tôi đã đi; trước đó đã đọc Cầu Nguyện, và giảng trên boong tàu.
+
+Khi lên bờ, tôi đã viết nhiều Thư, giải thích một chương cho một phòng đầy Người. Dạy giáo lý cho Trẻ Em trong nhà, và ba người bạn đồng hành của tôi; rồi sau đó đi ngủ, đầy dẫy Bình An và Niềm Vui trong Đức Thánh Linh.
+
+Sức khỏe thân thể của tôi, tôi có thể nhận thấy, đã tăng lên, và linh hồn tôi rất được làm mới. Tôi lại bắt đầu một lần nữa cảm nhận những sự an ủi của một Đời Sống ẩn dật, và chúc tụng Đức Chúa Trời từ lòng tôi, vì Ngài đã kêu gọi tôi đến nơi tôi đang đi.
+
+Thứ Sáu, ngày 6 tháng 1. Khoảng chín giờ, tôi lên tàu, đọc Cầu Nguyện, và giảng giữa các boong tàu; và ông H. đã hát một Thi Thiên, như ông thường làm. Trong lúc đó, Tàu đã rời Gravesend, và ra khơi lúc mười hai giờ đến Nore. Chúng tôi đã có một cơn gió mạnh rất tốt.
+
+Đức Chúa Trời đã ban cho tôi sự an ủi lớn, và tôi đã đi giữa các boong tàu,
+
+Tàu đã tiếp tục ở Nore suốt cả ngày hôm nay; nhưng tôi hy vọng chúng tôi đã có một số tiến bộ hướng về cõi đời đời.
+
+Buổi tối, gió thổi rất mạnh thật; và nếu Tàu của chúng tôi đã ở Downs, chúng tôi hẳn đã gặp nguy hiểm lớn. Đức Chúa Trời cung ứng cho chúng tôi một cách khôn ngoan biết bao! Hầu hết mọi người bắt đầu bị say sóng, đặc biệt là J. D., một trong những người bạn đồng hành của tôi, đã bị hành hạ nặng nề.
+
+Chủ Nhật, ngày 8 tháng 1. Bạn H. của tôi và tôi có lý do lớn để tạ ơn Đức Chúa Trời; vì chúng tôi đã ngủ ngon như chúng tôi mong muốn, mặc dù gió thổi rất mạnh, và các Thủy Thủ rất bận rộn chăm sóc Tàu, mà đến sáng đã kéo neo đi hai dặm.
+
+Đi sớm và thăm các Lính bị say sóng và gia đình họ giữa các boong tàu, cho họ một ít Trà Xô Thơm và Đường, v.v., và khích lệ tất cả họ biết ơn và ăn năn, vì lòng biết ơn về sự bảo toàn của họ khỏi cơn bão đêm qua; và đã dâng lời tạ ơn công khai tại Cầu Nguyện buổi sáng.
+
+Nghĩ nhiều về Bạn Bè Luân Đôn thân yêu của tôi; mặc dù vắng mặt về thân thể, nhưng hiện diện trong tâm linh trong các Nghi Lễ thiêng liêng; và đã cầu thay cho họ và toàn thể Nhân Loại một cách tha thiết nhất. Đọc Cầu Nguyện công khai và giảng hai lần cho các Lính; và đọc Cầu Nguyện một lần trong Khoang Lớn cho các Sĩ Quan, theo yêu cầu của họ, mà tôi rất thích. Dạy giáo lý cho các bạn đồng hành của tôi, nhưng không có thời gian để dạy giáo lý cho [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "những người khác"] vì phải chăm sóc Người Bệnh.
+
+Hôm nay là Ngày Chúa Nhật đầu tiên tôi đã trải qua trong một thời gian dài này một cách riêng tư như vậy, tôi không thể tránh khỏi việc suy ngẫm về những dòng sau:
+
+> Than thở mỗi khi những suy nghĩ trầm tư của tôi
+> Nhớ lại những ngày hạnh phúc đó,
+> Khi tôi cùng [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "đoàn"] Bạn Bè mộ đạo
+> Thường xuyên đến Đền Thờ của Ngài,
+> [NEEDS REVIEW: câu bị hỏng trong OCR]
+> Tôi tiến lên với những Bài Hát Ngợi Khen,
+> Để dâng những Lời Thề trang trọng của tôi,
+> Và dẫn đầu đoàn đông vui mừng thiêng liêng
+> Đã giữ Ngày Lễ.
+
+Nhưng tôi đã suy xét rằng đó là Ý Muốn Thiêng Liêng đã đặt tôi [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "ở đây"], và vì vậy tôi đã vui mừng. Kẻ nào không sẵn lòng ẩn mình như Đức Chúa Trời truyền lệnh, cũng như hành động trong khả năng công khai, thì không xứng đáng với danh hiệu Cơ Đốc Nhân.
+
+Bắt đầu sống một chút theo Quy Tắc, và kiểm tra nội tâm của những người đi cùng tôi; điều này tôi thấy là một bài tập rất hữu ích cho cả họ và tôi. Tiếp tục ở Nore suốt cả ngày hôm nay, vì hoàn toàn lặng gió; và ban đêm đã có một sự cầu thay rất thoải mái cho tất cả Bạn Bè, v.v.
+
+Thứ Hai, ngày 9 tháng 1. Ông H. bắt đầu học tiếng La-tinh. Có gần hai mươi Học Viên Giáo Lý cùng với tôi, mà tôi tin rằng chúng tôi đã có một số tiến bộ.
+
+Cân neo rời Nore, và ra khơi trước gió cùng với nhiều tàu khác, đưa chúng tôi đi nhanh đến nỗi chúng tôi đã ở trước Margate khoảng một giờ. Tại đây, tôi đã tận hưởng một [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "cơ hội"] được mong muốn để viết thư cho một số Bạn Bè Luân Đôn của tôi, và [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "lòng tôi đã mở rộng rất nhiều"] hướng về họ.
+
+Sau bữa trưa, vì có [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "đồ dùng cần thiết"] để mua, ông H. và tôi đã lên bờ đến Margate. Gió [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "thổi"] rất mạnh, và biển gầm thét khủng khiếp, nhưng Đấng ngự trên cao thì mạnh mẽ hơn, và đã giữ chúng tôi khỏi sự sợ hãi nhỏ nhất, và làm tôi đầy dẫy niềm vui lớn, và đưa chúng tôi an toàn lên bờ. Chúng tôi đã có người đàn ông bị bỏ rơi nhất mà tôi từng thấy đi cùng chúng tôi, người đã đến từ một Tàu Đông Ấn. Ông ta có nhiều ma quỷ trong mình đến nỗi ngay cả những Người Chèo Thuyền, dù tục tĩu như họ, cũng ghê tởm ông ta. Từ đó, tôi suy ra rằng nếu ma quỷ tự xuất hiện như nó vốn là, những tội nhân gian ác nhất cũng không thể không ghét nó.
+
+Chiều nay, tôi bắt đầu cảm nhận Quyền Năng của Đức Tin hơn bao giờ hết, và thấy rằng ngày nào, sức lực sẽ như ngày đó. Khi tôi bước vào thuyền, biển dâng cao một cách nguy hiểm; nhưng tôi có thể mạnh dạn nói:
+
+> Đức Chúa Trời là Nơi Nương Náu của chúng tôi trong lúc khốn khổ,
+> Một sự giúp đỡ hiện tại khi nguy hiểm ập đến;
+> Trong Ngài, chúng tôi không hề nao núng [NEEDS REVIEW: câu bị hỏng trong OCR]
+> Dù đất bị quăng khỏi trung tâm của nó,
+> Và núi bị mất trong đại dương,
+> Bị xé thành từng mảnh bởi thủy triều gầm thét.
+
+Khoảng năm giờ, chúng tôi đến Margate an toàn, nơi sau khi nhận được một chút đồ ăn để bồi bổ thân thể, và phó thác mình cho Đức Chúa Trời trong Cầu Nguyện, chúng tôi đi khắp thị trấn để mua những thứ chúng tôi đến để mua. Phần lớn Dân Chúng chúng tôi gặp đều lịch sự và dễ dạy.
+
+Sau khi chúng tôi đã làm xong công việc trần gian, chúng tôi đã đến thăm Mục sư Phó, vì Mục sư đang ở Canterbury. Ông đã tiếp đón chúng tôi rất lịch thiệp. Cuộc trò chuyện của chúng tôi là những gì có xu hướng dùng để gây dựng; nó chủ yếu xoay quanh tầm quan trọng lớn của Chức Vụ Mục sư; sự cần thiết của việc Giảng dạy Giáo Lý về Sự Tái Sinh; và sự cần thiết và lợi ích của việc Thăm Viếng từ Nhà này sang Nhà khác.
+
+Khoảng mười giờ, chúng tôi rời ông, rất được làm mới trong tâm linh, và biết ơn Đức Chúa Trời vì đã khích lệ những Người ở khắp mọi nơi tiếp đón chúng tôi.
+
+Ngày hôm sau, tôi đã gửi cho ông cuốn *Lời Kêu Gọi Nghiêm Túc* và *Sự Hoàn Hảo Cơ Đốc* của ông Law, cùng với một số sách khác; và cũng một vài cuốn Giáo Lý Vấn Đáp và Bài Giảng cho một số người nghiêm túc khác, mà Sự Quan Phòng đã đặt trên đường chúng tôi. Giờ đây, tạ ơn Đức Chúa Trời, như Sứ Đồ nói, Đấng luôn khiến chúng tôi đắc thắng trong Đấng Christ, và làm cho hương thơm của sự hiểu biết về Ngài tỏ ra qua chúng tôi ở mọi nơi.
+
+Thứ Ba, ngày 10 tháng 1. Khoảng bốn giờ sáng nay, ông H. và tôi dậy, định lên tàu ngay lập tức; nhưng gió thổi rất dữ dội, nên theo lời khuyên của những Người Chèo Thuyền, chúng tôi đã hoãn việc lên tàu cho đến khi trời sáng; và vì vậy, sau khi chúng tôi đã quỳ trên bờ, và cầu nguyện cho chính mình và những người khác, chúng tôi quay lại quán trọ; và đã tận dụng cơ hội đó để viết thư cho một hoặc hai Người Bạn.
+
+Khoảng bảy giờ, chúng tôi lên thuyền và ngợi khen và chúc tụng Đức Chúa Trời khi thấy các dòng nước lũ vỗ tay. Khoảng tám giờ, chúng tôi lên tàu, và thấy chúng tôi có lý do lớn để biết ơn vì chúng tôi đã ở trên bờ đêm qua. Các Thủy Thủ nói với chúng tôi rằng tia chớp đã chiếu sáng trên biển suốt đêm; rằng cơn bão rất lớn, và thuyền dài của Tàu đã bị mất.
+
+[NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Tôi đã"] đọc Cầu Nguyện công khai, dâng lời tạ ơn công khai về sự giải cứu của chúng tôi, và giảng giải bằng cách giảng luận Điều thứ hai của Tín Điều, mà tôi đã bắt đầu hôm qua. Đã làm điều tương tự sau Cầu Nguyện buổi tối. Dành phần còn lại của ngày để viết Thư; và đã không tận hưởng một trạng thái tâm trí bình tĩnh và vui vẻ hơn trong một thời gian dài.
+
+Người Bệnh tăng lên trong tay tôi, nhưng họ rất biết ơn vì được cung cấp Trà Xô Thơm, Đường, Nước Dùng, v.v. Khi nhìn thấy nhiều đối tượng đáng thương như vậy, tôi đã cảm động một cách sâu sắc với cảm giác đồng cảm về những đau khổ của họ. Tôi không thể không đảo ngược lời phàn nàn của Người Con Hoang Đàng: Có bao nhiêu con cái của Cha tôi sắp chết vì đói, nhưng tôi có đủ và dư thừa. Đã có cảm nhận rất thoải mái về sự hiện diện thiêng liêng của Đức Chúa Trời với tôi trong nhiều chi tiết. Và buổi tối, đã cùng cầu thay với các bạn đồng hành khác của tôi trên boong tàu, thay mặt cho Bạn Bè vắng mặt và toàn thể Nhân Loại.
+
+Thứ Tư, ngày 11 tháng 1. Cân neo rời đường Margate, và thả neo ở Downs, Tàu chạy trước gió một cách rất dễ chịu. Viết nhiều Thư trong khi Tàu đang căng buồm. Tinh thần tôi đã được làm mới mạnh mẽ khi đến Downs, khi nghe tin từ hai hoặc ba Anh Em Cơ Đốc tại Luân Đôn; và đã mong muốn chúc tụng Đức Chúa Trời về một cơ hội quan phòng đã được trao để gửi cả một gói thư cho họ và một số Bạn Bè khác, để cho họ biết Đức Chúa Trời đã đối xử yêu thương với tôi như thế nào. Ôi, nguyện những lòng thương xót đã đổ xuống tôi, qua sự tạ ơn của nhiều người, sẽ làm vinh hiển Đức Chúa Trời!
+
+Không có Cầu Nguyện công khai sáng nay, vì tôi bận rộn nhiều trong việc viết Thư để gửi đi bằng Bưu Điện; và khi tôi đi đọc, các Lính đang bận rộn với công việc quân sự của họ trên boong tàu, nên tôi đã không làm gì ngoài việc thăm người Bệnh. Tôi e rằng tôi đã hành động một cách ngu xuẩn; Cha ơi, xin tha thứ cho con vì Con yêu dấu của Cha.
+
+Tiếp tục giải thích [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "Tín Điều"] sau Cầu Nguyện buổi tối, và đã được giúp sức nói về Sự Đóng Đinh của CHÚA chúng ta. Tôi tin rằng điều đó đã đâm thấu lòng họ. Ôi, nguyện tôi có thể nghe họ kêu lên: Chúng tôi phải làm gì để được cứu?
+
+Đã có sự an ủi khi nghe điều tốt đã được làm giữa các Lính; và Thuyền Trưởng đã vui lòng bày tỏ sự tán thành của ông. Đức Chúa Trời ban cho tôi có thể với một con mắt đơn thuần tìm cách làm hài lòng Thuyền Trưởng của sự cứu rỗi của tôi!
+
+Sau Cầu Nguyện buổi tối và thăm người Bệnh, đã lên bờ cùng ông H. đến Deal; và đã rất vui mừng với cảnh tượng của Downs, đến nỗi chúng tôi đã bày tỏ lòng biết ơn của mình bằng cách hát Thi Thiên suốt đường. Những Người Chèo Thuyền, tôi tin, lúc đầu đã ngạc nhiên về điều đó, nhưng họ đã không xấu hổ khi báng bổ, và tôi nghĩ họ không có lý do gì để xấu hổ khi ngợi khen Đức Chúa Trời.
+
+Tôi đã có sự thỏa mãn trước khi chúng tôi đến Deal, khi nghe một trong số họ tham gia một cách nghiêm túc với chúng tôi; và nhận thấy một sự thay đổi đáng ngạc nhiên trong cách cư xử của họ luôn luôn sau đó. Ngợi khen Đức Chúa Trời!
+
+Khoảng năm giờ, chúng tôi đến Deal, và không biết một Người nào, đã đi (như ở Margate) để bày tỏ lòng kính trọng của tôi với hai Mục sư của nơi đó. Nhưng vì thấy không ai trong số họ ở nhà, đã dành phần còn lại của buổi tối cùng Bạn H. của tôi rất thoải mái trong cuộc trò chuyện tôn giáo, Cầu Nguyện Gia Đình, cầu thay cho Bạn Bè vắng mặt và toàn thể Nhân Loại, và viết thư cho Anh Em Cơ Đốc. Và ngay cả ở đây, Đức Chúa Trời đã không để chức vụ của tôi không có chứng cớ; vì Ngài đã vui lòng ghi khắc điều gì đó tôi đã nói vào lòng một Người Phụ Nữ nghèo, người đã tình cờ đến, và cùng chúng tôi trong Cầu Nguyện Gia Đình. Vì điều đó, chúng tôi đã cố gắng cảm tạ Ngài. Hãy xem một ngọn lửa lớn biết bao mà một tia lửa nhỏ này đã nhóm lên trước khi chúng tôi rời Deal.
+
+Thứ Năm, ngày 12 tháng 1. Dành phần lớn buổi sáng để viết Thư. Đi khoảng mười một giờ lên tàu, và đã rất vui mừng với cảnh tượng ở Downs, vô cùng yên tĩnh; và rất nhiều Tàu đẹp đang đậu ở đây đã làm tăng thêm cảnh tượng. Ôi, nguyện những người làm công việc của họ trên biển cả, sẽ (vì họ không thể không) ngưỡng mộ những kỳ công của Đức Chúa Trời trong vực sâu!
+
+Đọc Cầu Nguyện và tiếp tục giải thích Tín Điều cho các Lính; thăm và cầu nguyện với người Bệnh; và bắt đầu chiều nay giải thích Giáo Lý Vấn Đáp cho các Phụ Nữ riêng biệt. Tôi thấy họ có khoảng mười sáu người; và ngợi khen Đức Chúa Trời, họ đã rất cảm động. Nguyện CHÚA, xin Ngài làm cho công việc của tay tôi trên tôi được thịnh vượng.
+
+Đã có một số cuộc trò chuyện tôn giáo với Bác Sĩ Phẫu Thuật của các Lính, người dường như rất có khuynh hướng tốt. Tôi hiếm khi (nếu có) thấy ông nhàn rỗi, và thấy ông có nhiều phẩm chất tốt. Đức Chúa Trời ban cho Cơ Đốc Giáo có thể được cấy ghép trong ông!
+
+Sau Cầu Nguyện buổi tối và giảng giải Tín Điều, lại đi Deal cùng ông H. để mua một số [NEEDS REVIEW: từ bị hỏng trong OCR] cho các bạn đồng hành của tôi. Dành phần còn lại của buổi tối để viết Thư, và đọc và cầu nguyện với tám hoặc chín người nghèo, những người đã đến, tôi cho rằng vì nghe tin về người Phụ Nữ nghèo kia, để nghe tôi.
+
+Thứ Sáu, ngày 13 tháng 1. Ở lại trên bờ suốt cả ngày, vì thời tiết quá xấu để lên tàu. Đã lo lắng về việc rời đoàn chiên của tôi quá lâu; nhưng hy vọng sự vắng mặt ngắn ngủi này sẽ khiến cuộc gặp gỡ của chúng tôi ngày mai dễ chịu hơn. Đã có niềm vui tham gia Thờ Phượng công khai tại Deal, trong một Nhà Nguyện khá đẹp; điều này càng dễ chịu hơn vì chúng tôi đã bị giam giữ trong một thời gian trong giới hạn chật hẹp của một con Tàu.
+
+Dành riêng ngày này làm Ngày Hạ Mình, Kiêng Ăn, và Cầu Thay cho Bạn Bè và toàn thể Nhân Loại, và thấy lòng tôi được mở rộng rất nhiều trong bài tập thiêng liêng đó. Cầu thay là một phương tiện vinh hiển để làm ngọt ngào tấm lòng!
+
+Dành phần còn lại của ngày, và thức đến một giờ sáng để viết thư cho Bạn Bè.
+
+Có hai hoặc ba người được thêm vào nhóm của tôi vào ban đêm, những người dường như rất chú ý, và đã cầu nguyện cho tôi một cách chân thành nhất. Người Nghèo nhận được Phúc Âm. Tôi đã phân phát một số sách trong số họ, như tôi thấy thích hợp. Tôi hy vọng Đức Chúa Trời sẽ ban phước của Ngài cho họ.
+
+Đã mong đợi Thư tối nay từ Luân Đôn, nhưng đã thất vọng. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Nguyện ĐỨC CHÚA TRỜI giúp tôi trong mọi sự dâng lời tạ ơn!"]
+
+Tôi tưởng tượng mình suốt cả ngày hôm nay ở trong phòng nhỏ của tôi tại Oxford. Vì tôi đã không dành nhiều giờ trong sự ẩn dật ngọt ngào như vậy kể từ khi rời Đại Học. Niềm vui tôi cảm nhận là không thể diễn tả.
+
+Thứ Bảy, ngày 14 tháng 1. Dành buổi sáng để viết Thư, và đã rất vui với cuộc trò chuyện mộ đạo của một người nghèo
+
+[NEEDS REVIEW: phần lớn các mục nhật ký từ ngày 15 đến 18 tháng 1 đã bị mất trong OCR — chỉ còn lại các đoạn rời rạc sau đây.]
+
+... và giảng như thường lệ vào buổi chiều. Dạy giáo lý cho cả các bạn đồng hành của tôi và các Lính; và đã vui mừng khi thấy nhiều người khác rất chú ý lắng nghe.
+
+Đã có sự an ủi lớn trong việc đọc Kinh Thánh. Sau đó, đã hơi nghiêng về sự nặng nề, nhưng đã xua tan nó bằng một sự cầu thay dài. Cầu Nguyện là thuốc giải độc chống lại mọi điều ác.
+
+Khi kiểm tra, đã có lý do để hy vọng các bạn đồng hành của tôi lớn lên trong Ân Điển; ngợi khen Đức Chúa Trời về điều đó.
+
+Khoảng mười một giờ đêm, đã đi và ngồi xuống giữa các Thủy Thủ trong khoang lái, và lý luận với họ về sự công chính, tiết độ, và một sự phán xét sắp đến; mà một số người trong số họ gần như run rẩy.
+
+Thứ Năm, ngày 19 tháng 1. Đã rất được an ủi khi nghe tin từ Bạn Bè của tôi. Bắt đầu, sau Cầu Nguyện sáng nay, giải thích Giáo Lý Vấn Đáp cho các Lính, và rút ra những suy luận thích hợp bằng cách giảng luận. Tôi thấy điều này rất được tán thành, và đối với họ, là cách hướng dẫn phù hợp nhất.
+
+[NEEDS REVIEW: một câu bị hỏng trong OCR — có lẽ "Dành buổi chiều để trả lời thư từ."] Đã được giúp đỡ nhiều trong bài giảng giải buổi tối về Giáo Lý Vấn Đáp; và đã có hy vọng lớn về việc hai Lính trở thành Cơ Đốc Nhân thật sự. Nguyện Đức Chúa Trời cho tất cả các Lính của Vua đều như vậy!
+
+Đã được giúp sức soạn phần lớn một Bài Giảng mới tối nay. Mở rộng trong Cầu Thay, và sau đó đã rất vui mừng bởi ba Lá Thư nữa, và thức đến một giờ sáng để trả lời chúng. "Bất cứ việc gì tay ngươi tìm được để làm, hãy làm hết sức mình," người khôn ngoan nói.
+
+Chúng tôi giờ đây đã có một biển lặng và êm ả đến nỗi mọi người ở khắp mọi nơi đều bày tỏ sự ngưỡng mộ về điều đó. Đức Chúa Trời ban cho chúng tôi trong lúc bình lặng chuẩn bị cho cơn bão, và, như các Cơ Đốc Nhân nguyên thủy, khi các Hội Thánh được nghỉ ngơi, bước đi trong sự an ủi của Đức Thánh Linh, và được gây dựng!
+
+Thứ Sáu, ngày 20 tháng 1. Dậy với sự bình an lớn trong tâm trí, dành cả buổi sáng để soạn một Bài Giảng.
+
+Đã hòa giải một cách hạnh phúc sự bất đồng giữa một Lính và vợ anh ta, những người là một trong bốn cặp tôi đã cưới khi lần đầu tiên tôi lên tàu. Người đàn ông đã quyết định rời bỏ vợ, nhưng khi tôi nhắc anh ta về Lời Thề Hôn Nhân của anh ta, và khẩn khoản với anh ta bằng tình yêu, anh ta lập tức quay lại với vợ. Một Mục sư có thể làm gì qua Đấng Christ, khi đoàn chiên của ông yêu mến ông? Gần như hoàn thành Bài Giảng tôi đã bắt đầu hôm qua, ngợi khen Đức Chúa Trời.
+
+Tiếp tục giảng giải Giáo Lý Vấn Đáp sau Cầu Nguyện buổi tối; [NEEDS REVIEW: một câu bị hỏng trong OCR — dường như về việc trước đây không dám làm điều gì đó, không biết họ có chịu đựng được không, và sẵn lòng bắt chước Gia-cốp, người đã cẩn thận với những con nhỏ của mình để không thúc ép chúng quá mức.]
+
+Đề nghị với Thuyền Trưởng đọc một vài lời Cầu Nguyện trong Khoang Lớn mỗi đêm, mà ông đã thật sự đồng ý, và [NEEDS REVIEW: câu bị hỏng trong OCR] bắt đầu đọc Bài Học đầu tiên, mà tôi đã cố ý bỏ qua [NEEDS REVIEW: phần còn lại bị hỏng trong OCR].
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như Thuyền Trưởng nói ông sẽ vui lòng nghe tôi giảng, bất cứ khi nào tôi thấy thích hợp.]
+
+Đã ngạc nhiên giữa bài giảng buổi tối của tôi bởi Thuyền Phó, người đã đến và [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "báo"] rằng Mục sư của Upper Deal đã gửi một chiếc thuyền đến cho tôi, mong muốn tôi lập tức lên bờ. Theo đó, sau khi tôi đã kết thúc, ông H. và tôi đã đi và gặp Mục sư, người đã được để lại để [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "phục vụ"], người đã mong muốn tôi, theo yêu cầu của Cư Dân, giảng vào Chủ Nhật tiếp theo. Sau đó, chúng tôi lui về chỗ trọ của mình tại Deal; [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "sau một Bài Giảng và sự cầu thay dài,"] đã được an ủi một cách không thể nói hết bởi việc nhận được nhiều Thư từ những Người mà tôi tin là thật sự kính sợ Đức Chúa Trời. Mà lòng tôi đã đầy dẫy đến nỗi tôi không thể không quỳ xuống, cầu nguyện, và dâng lời tạ ơn Đức Chúa Trời về họ.
+
+Thấy số lượng người nghe của tôi đã tăng lên rất nhiều tối nay, và rất vui mừng khi thấy tôi một lần nữa trên bờ. Tôi đã thức đến một giờ sáng, trả lời các thư từ của tôi, và sau đó nằm xuống; đầy dẫy niềm vui mà không ai có thể lấy đi, cũng như người lạ không thể xen vào. Ôi, nguyện mọi người đều biết những sự an ủi của Tôn Giáo!
+
+Thứ Bảy, ngày 21 tháng 1. Dành cả ngày để viết Thư, và trò chuyện vui vẻ với ông R.
+
+Ban đêm, số lượng người nghe của tôi đã tăng lên đến nỗi cầu thang cũng đầy, cũng như phòng của tôi. Tôi đã giảng giải cho họ Ma-thi-ơ 25, mà họ đã rất cảm động, và dường như yêu mến và cầu nguyện cho tôi một cách tha thiết nhất. Và tôi không mong muốn có phần lớn hơn là những lời cầu nguyện của Người Nghèo.
+
+Ngồi đến một giờ, viết Thư; dâng lời tạ ơn về Phước Lành của tuần, rồi sau đó nằm xuống trong bình an, hy vọng dậy sớm sáng hôm sau, thích hợp hơn cho công việc của Chủ tôi.
+
+Chủ Nhật, ngày 22 tháng 1. Khoảng chín giờ, lên tàu cùng Thuyền Trưởng W., người luôn vô cùng lịch sự. Thăm người Bệnh, và đọc Cầu Nguyện trong Khoang Lớn. Đọc Cầu Nguyện, và giảng Bài Giảng của tôi về *Sự Mộ Đạo* của Bayly, trên boong tàu cho các Lính; các Sĩ Quan, và [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "Quý Ông"] tham dự một cách rất nghiêm túc. Thời tiết rất lạnh, nhưng Giảng đã làm ấm lòng tôi.
+
+Khoảng giữa trưa, lên bờ cùng Thuyền Trưởng W. và ông H. Ăn trưa tại [NEEDS REVIEW: tên bị hỏng trong OCR], người đã tiếp đón chúng tôi một cách hiếu khách.
+
+Buổi chiều, giảng tại Upper Deal, trên Công Vụ 28:26. Nhiều người dường như bị đâm thấu lòng, và một số đã được thúc giục đến nỗi họ đã bày tỏ mong muốn đi theo tôi bất cứ nơi nào tôi đi. Ôi, ân điển tự do trong CHÚA GIÊ-XU CHRIST! Tôi hiếm khi biết một thời gian nào tôi đã giảng ở đâu, mà tôi không thấy một số hiệu quả của Giáo Lý của tôi. Từ lòng của những người mạnh mẽ, Lời của CHÚA đã không quay lại, Gươm của Thánh Linh đã không trở về tay không. Đây là một bằng chứng, tôi hy vọng, rằng những Lời đó không phải của tôi, nhưng Đức Chúa Trời thật sự ở cùng tôi. Nguyện tôi không bao giờ, bởi Kiêu Ngạo và Vinh Quang Hư Không, khiêu khích Ngài rời khỏi tôi!
+
+Ở lại trên bờ suốt đêm, để giảng giải Kinh Lạy Cha, và đã có một nhóm đông đảo đến nghe tôi, và lẽ ra đã có bảy trăm người, như chủ nhà của tôi đã nói với tôi, nếu nhà có thể chứa được họ. Lời của Đức Chúa Trời đã lan tràn và đắc thắng như vậy.
+
+Lại được làm mới bởi việc nhận được năm Lá Thư. Ngồi đến mười giờ, để trả lời một số trong đó; rồi sau đó đi nghỉ, với những suy ngẫm thoải mái về sự [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "nhân từ không xứng đáng"] của Đức Chúa Trời đối với tôi.
+
+> Mười ngàn ngàn món quà quý giá
+> Thu hút lòng biết ơn mộ đạo của tôi;
+> Và không phải điều nhỏ nhất là một tấm lòng biết ơn
+> Nếm trải những điều đó với niềm vui.
+> Trong suốt cõi đời đời, ôi Đức Chúa Trời,
+> Bài hát biết ơn của tôi sẽ [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "vang lên"];
+> Nhưng ôi! Cõi đời đời quá ngắn
+> Để [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "tỏ ra mọi lời ngợi khen của Ngài"].
+
+Thứ Hai, ngày 23 tháng 1. Đã rất được an ủi khi nhận được [NEEDS REVIEW: số bị hỏng trong OCR — có lẽ "chín"] Lá Thư nữa; trả lời một số trong đó; và khoảng mười một giờ sáng, lên tàu Amy, để bày tỏ lòng kính trọng của tôi với Đại Tá C., và thăm các Lính, những người tôi coi là một phần trong đoàn chiên của tôi. Tôi đã được các Sĩ Quan tiếp đón rất lịch sự; đi giữa các Lính, hỏi han về tình trạng linh hồn của họ, đưa cho họ một hoặc hai lời Khuyên Bảo; hứa sẽ mang cho họ một số sách [tôi đã thấy nhu cầu của họ], và (theo yêu cầu của Sĩ Quan) sẽ đến giảng cho họ, nếu có cơ hội, trước khi chúng tôi rời Downs.
+
+Sau đó, tôi đã thăm chiếc Lightfoot, Tàu Vận Tải khác của chúng tôi, trong đó có khoảng mười hai Lính và một Trung Sĩ. Họ đã tiếp đón tôi một cách tử tế. Tôi đã ngồi xuống và trò chuyện với họ; hứa sẽ gửi cho họ một số sách, và sẽ đến giảng cho họ nữa, nếu Sự Quan Phòng cho phép. Downs yên tĩnh, và thời tiết quang đãng, việc đi từ Tàu này sang Tàu khác rất dễ chịu. Đoàn chiên của tôi chỉ là những bầy nhỏ, ôi, nguyện Cha trên trời của tôi vui lòng ban cho họ Vương Quốc.
+
+Khoảng hai giờ, lại lên tàu Amy, để ăn trưa với [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "các Sĩ Quan"], vì đã được họ mời một cách tử tế khi tôi đã ở đó trước. [NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc được đối xử rất tử tế, và giữa bữa ăn đã ngạc nhiên một cách vui vẻ bởi sự đến của hai Bạn Bè Luân Đôn, những người đã thực hiện một chuyến hành trình từ đó.]
+
+Ăn trưa xong, tôi đã đi và phân phát một số sách cho các Lính; chia tay và vội vã lên tàu của mình; đọc Cầu Nguyện, giảng, rồi sau đó lên bờ cùng Bạn Bè của tôi, không ít vui mừng khi thấy họ.
+
+Ngày 23 tháng 1. Đêm nay Đức Chúa Trời đã cho tôi thấy những điều lớn lao hơn trước, vì có quá nhiều người đến nghe tôi đến nỗi bà chủ nhà nghèo, người sở hữu ngôi nhà nơi tôi trọ, đã gửi đến những người thuê nhà của bà, nài nỉ họ không để ai vào thêm nữa vì sợ sàn nhà sẽ sập dưới họ; và thật sự đã có đông đảo đến nỗi tôi đã giảng giải Tín Điều cho khoảng tám mươi người trước, rồi sau đó Bài Học thứ hai cho nhiều người như vậy nữa; trong số đó, tôi nhận thấy có nhiều cư dân chính. Khoảng mười một giờ, họ đã đi, và sau đó tôi đã vui mừng cùng Bạn Bè của tôi về những gì Đức Chúa Trời đã làm cho linh hồn tôi, ăn một chút thức ăn, cầu thay cho Bạn Bè vắng mặt, và toàn thể Nhân Loại, và đi ngủ khoảng hai giờ sáng. Ôi, tôi sẽ dâng gì cho CHÚA về mọi lòng thương xót Ngài đổ xuống tôi?
+
+Thứ Ba, ngày 24 tháng 1. Dành cả buổi sáng để viết Thư, đi bộ, hát Thi Thiên, và Cầu Thay dọc theo bờ biển, từ nơi đó chúng tôi đã có một cảnh tượng thú vị nhất của Downs, mà đã đem lại cho tôi và Bạn Bè của tôi đề tài cao quý nhất cho sự Ngợi Khen và Tạ Ơn. Gặp một chút chống đối hôm nay; nhưng tôi lẽ ra đã ngạc nhiên thật sự, nếu một cánh cửa hiệu quả như vậy đã được mở ra để giảng Đấng Christ, mà không có kẻ thù nào. Không có gì đã gây hại cho Hội Thánh Cơ Đốc nhiều hơn việc nghĩ rằng những tấm gương được ghi lại trong Kinh Thánh, chỉ được viết để đọc mà không phải để chúng ta bắt chước.
+
+Nhiều người đã đến nghe tôi tối nay hơn bao giờ hết, đến nỗi tôi đã chia họ thành hai nhóm nữa, và một cách quan phòng, từ Bài Học thứ hai cho buổi sáng, đã có một cơ hội vinh hiển để bày tỏ sự bất hợp pháp tuyệt đối của việc chạy trốn hoặc mua hàng lậu, một tội lỗi dễ dàng bao vây người dân Deal nhất.
+
+Sau khi giảng giải, đã thăm ông E., người đã tiếp đón chúng tôi một cách tử tế nhất, và đề nghị cho tôi thuyền của ông để đi hoặc lên bờ khi tôi muốn, điều này sẽ giúp tôi tiết kiệm nhiều chi phí. Sau khi chúng tôi trở về từ nhà ông, chúng tôi đã quỳ xuống trên bờ biển, và cầu nguyện cho những người đã chống đối mình; rồi sau đó đi ngủ, chúc tụng và ngợi khen Đức Chúa Trời.
+
+Thứ Tư, ngày 25 tháng 1. Lên tàu buổi sáng cùng Bạn Bè của tôi, định đọc Cầu Nguyện và giảng cho các Lính, nhưng họ đang bận rộn với công việc của mình, và tôi không thể ở lại lâu. Đã nhận được sự lịch thiệp lớn [NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc Thuyền Trưởng, theo yêu cầu của tôi, đã tha thứ cho một Người Phụ Nữ mà nếu không đã bị gửi lên bờ.]
+
+Sau bữa sáng, trở lại bờ cùng Bạn Bè của tôi, và đọc Cầu Nguyện, và giảng tại Upper-Deal cho một Hội Chúng đông đảo; tôi đã ngạc nhiên khi thấy nhiều Người như vậy, nhưng toàn bộ Deal dường như đang ở trong một ngọn lửa thánh, và nếu tôi đã được chuẩn bị cho điều đó, tôi sẽ thấy những điều lớn lao hơn nữa.
+
+Ăn trưa tại nhà ông R., một Người Bán Tạp Hóa tại Deal, cùng Bạn Bè của tôi; chúng tôi đã được tiếp đón một cách hiếu khách nhất, và điều còn tốt hơn nhiều, đã có một cơ hội tuyệt vời để trò chuyện trong một thời gian đáng kể về sự sa ngã của chúng ta trong A-đam, và sự cần thiết
+
+[NEEDS REVIEW: các mục nhật ký từ ngày 26 đến 28 tháng 1 phần lớn đã bị mất trong OCR. Đoạn sau đây còn sót lại — dường như thuộc về Chúa Nhật, ngày 29 tháng 1, vì có nhắc đến việc lãnh Bí Tích và giảng tại nhà thờ.]
+
+... người Bệnh; rồi sau đó trở lại bờ, và cùng với một đoàn Bạn Bè mộ đạo, vội vã đến Nhà Thờ Shroulden, cách Deal khoảng một dặm rưỡi. Nơi đó, tôi đã giảng cho một Hội Chúng đông đúc đang khóc, theo yêu cầu của Mục sư, người đã, theo yêu cầu của tôi, ban cho tôi và Bạn Bè của tôi Bí Tích Phước Hạnh. Những người khác cũng ở lại, đến số mười sáu. Và (điều tôi chưa bao giờ quan sát trước đây) Người Thư Ký đã tuyên bố một tiếng A-men lớn cho mỗi Người lãnh nhận Bánh hoặc Rượu. Một phong tục tuyệt vời, và theo ý kiến của tôi, đáng được bắt chước trong mọi Hội Thánh.
+
+Sau đó, tôi và Bạn Bè của tôi đã đi trên đường vui mừng, ăn trưa thoải mái tại nhà ông R., và buổi chiều đã giảng tại Upper-Deal. Nhà Thờ đã chật cứng, và nhiều người đã ra về vì thiếu chỗ; một số đã đứng trên mái Nhà Thờ ở bên ngoài, và nhìn vào qua các cửa sổ trên cao, và tất cả dường như háo hức nghe Lời của Đức Chúa Trời. Tôi đã giảng chống lại [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "tội lỗi"] và đã có lý do lớn để nghĩ rằng Đức Chúa Trời đã ban phước cho nó.
+
+Thời tiết vô cùng dễ chịu, và việc thấy Dân Chúng đến từng đoàn qua các cánh đồng, đã khiến tôi nhớ đến Lời của CHÚA chúng ta, khi Ngài thấy Dân Chúng đến từng đoàn từ Sa-ma-ri: "Các cánh đồng đã trắng xóa để gặt hái." Sau đó, tôi đã cầu nguyện rằng Ngài sẽ vui lòng giúp tôi thu thập lúa mì vào kho thóc trên trời của Ngài.
+
+Buổi tối, đông đảo người đã đến nghe tôi đến nỗi tôi đã buộc phải chia họ thành bốn nhóm; và Đức Chúa Trời đã giúp tôi giảng giải cho họ từ sáu giờ đến mười giờ. Một số người đã thuyết phục tôi giải tán nhóm cuối cùng mà không giảng giải, nhưng tôi không thể chịu đựng để nhiều người như vậy ra về tay không. Và tôi thấy càng làm nhiều cho Đức Chúa Trời, chúng ta càng có thể làm nhiều hơn. Sức lực của tôi đã giữ vững một cách đáng ngạc nhiên; tôi chỉ mệt mỏi rất ít nếu có; hoặc nếu tôi đã mệt, tôi lẽ ra đã được đền bù đầy đủ bởi một số Thư mà tôi đã nhận được từ Bạn Bè thân yêu của tôi, mà đã đem lại cho tôi sự thỏa mãn không thể nói hết. Và sau khi tôi đã đọc chúng, tôi đã dùng một chút đồ ăn, vui mừng và dâng lời tạ ơn cùng Bạn Bè của tôi về những Phước Lành của ngày, và đi đến giường của mình khoảng mười hai giờ đêm. Ôi, ai có thể diễn tả lòng nhân từ của CHÚA, hay tỏ ra mọi lời ngợi khen của Ngài?
+
+Thứ Hai, ngày 30 tháng 1. Theo yêu cầu của Cư Dân, và sự cho phép của ông R. (người đã gửi từ Canterbury một thông điệp rất tử tế), tôi lại giảng tại Upper-Deal cho một Thính Giả chú ý như tôi đã có hôm qua; và sau đó, tôi cùng ông H. đã đến thăm Mục sư R., người đã đọc Cầu Nguyện, và mời tôi một cách rất lịch thiệp đến gặp ông. Cuộc trò chuyện của chúng tôi chủ yếu xoay quanh tính hợp lý của việc [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Rửa Báp-têm cho Trẻ Em tại Nhà Thờ"]. Tôi đã ở với ông khoảng một [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "giờ"], rồi theo yêu cầu của ông, đã thăm một Người Phụ Nữ nghèo trong Giáo Xứ, người đã bị đau khổ nặng nề trong tâm trí. Và Đức Chúa Trời đã vui lòng dùng chức vụ của tôi để an ủi bà. Vinh hiển thuộc về Ngài!
+
+> Tôi nghèo nàn, mong manh biết bao!
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Thật là một công cụ yếu đuối"]
+> Đủ để Ngài dùng,
+> Đã là lời ngợi khen đủ để được Ngài sử dụng,
+> Phần thưởng đủ nếu Ngài tha thứ.
+> Nếu Ngài tha thứ, thì hãy làm trọn công việc của Ngài,
+> Bằng một công cụ không xứng hợp như vậy;
+> Điều đó sẽ cùng lúc tỏ ra lòng tốt của Ngài,
+> Và chứng minh quyền năng toàn năng của Ngài.
+
+Ngay sau đó, chúng tôi đã đến nhà ông R., [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "để chào tạm biệt ông"]. Nhưng chúng tôi chưa ở đó lâu, trước khi gió đột nhiên đổi chiều, và một tiếng kêu vang lên: Gió thuận rồi, hãy chuẩn bị ra khơi. Tôi đã nhận tin tức với một niềm vui khiêm nhường. Nhưng nỗi buồn, tôi nhận thấy, đã lấp đầy lòng Bạn Bè thân yêu của tôi, những người đã đến từ Luân Đôn để gặp tôi. Chúng tôi lập tức lui về, định cầu thay cho mọi người trước khi chia tay. Nhưng Dân Chúng vội vã quá, vì sợ biển sẽ trở nên quá dữ dội để ra khơi, đến nỗi chúng tôi đã buộc phải rất ngắn gọn. Sau khi đã phó thác mình cho Đức Chúa Trời, tôi đã chia tay. Nhưng ôi, Dân Chúng Deal đã bày tỏ tình cảm gì đối với con người không xứng đáng của tôi! Vì ngay khi họ được báo rằng gió thuận, họ đã chạy thành đoàn đến bờ biển theo tôi, chúc tôi may mắn nhân danh CHÚA; và với nước mắt, và những biểu hiện khác của lòng tốt, cầu nguyện cho sự thành công và sự trở về an toàn của tôi. Tôi đã bối rối với cảm nhận về lòng thương xót của Đức Chúa Trời đối với tôi.
+
+Biển rất dữ dội, và sóng dâng cao như núi. Nhưng Đức Chúa Trời đã vui lòng ban cho ông H. và tôi một mức độ đức tin bất thường, [NEEDS REVIEW: câu bị hỏng trong OCR — dường như "chúng tôi đã hát Thi Thiên và ngợi khen Đức Chúa Trời, nước bắn vào mặt chúng tôi suốt đường"]. Chắc chắn chúng tôi đã gặp nguy hiểm, nhưng chúng tôi có thể sợ hãi sao, khi có nhiều người trên bờ đang cầu nguyện cho chúng tôi?
+
+Khoảng năm giờ, chúng tôi lên tàu, và đã được tiếp đón với niềm vui, vì Tàu đang căng buồm, và Dân Chúng sợ tôi sẽ bị bỏ lại phía sau. Khi tôi đang đi vào khoang lớn, tôi đã ngã xuống cầu thang khoang lái; nhưng chỉ bị thương nhẹ hoặc không bị thương.
+
+Sau khi chúng tôi đã ra khơi một đoạn ngắn, Tàu Chiến không di chuyển [NEEDS REVIEW: câu bị hỏng trong OCR]; chúng tôi lại thả neo. Ông H. đã bị say sóng nặng nề bởi chuyển động của Tàu sau khi chúng tôi [NEEDS REVIEW: câu bị hỏng trong OCR].
+
+Thứ Ba, ngày 31 tháng 1. Dành buổi sáng để viết Thư, thăm người Bệnh, đọc Cầu Nguyện, và giảng cho các Lính.
+
+Khoảng mười hai giờ, đã ngạc nhiên một cách vui vẻ với một lần nhìn thấy nữa Bạn Bè Luân Đôn của tôi, những người đã ở lại Deal suốt đêm, và thấy Tàu không ra khơi, đã đến cùng một số Bạn Bè thân yêu nữa để đưa tôi lên bờ, để tôi có thể chào tạm biệt họ một lần nữa. Ban đầu tôi hơi không muốn, nhưng bởi sự nài nỉ và những lời khẩn cầu trìu mến của họ, họ đã gần như ép buộc tôi. Theo đó, tôi đã đi cùng [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "hát Thi Thiên và ngợi khen Đức Chúa Trời"] suốt đường.
+
+Nhưng tôi vừa mới lên bờ chưa lâu, trước khi Tàu Chiến ra hiệu ra khơi; và vì vậy chúng tôi đã buộc phải vội vã quay lại tàu. Dân Chúng đã bày tỏ nhiều niềm vui khi thấy tôi đến Deal lần nữa, và đã đi cùng tôi đến [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "bờ biển"], như trước.
+
+Thời tiết tốt, chúng tôi đã lên tàu với niềm vui. Tàu đang căng buồm, nhưng chúng tôi đã gặp nó, và đã được tiếp đón một cách trìu mến. Tôi hy vọng những lần di chuyển thường xuyên và đột ngột này sẽ nhắc tôi rằng tôi không có thành phố còn lại ở đây; và thúc giục tôi sống thánh khiết đến nỗi nếu Đức Chúa Trời bất cứ lúc nào nói: "Đêm nay linh hồn ngươi sẽ bị đòi lại," tôi có thể vui mừng nói: Nầy, tôi đến!
+
+Một điều khác tôi không thể không suy ngẫm hôm qua, khi tôi thấy Deal hoàn toàn bối rối khi gió đột nhiên đổi chiều, một số kêu lên vì điều này, một số vì điều khác, nhưng tất cả đều lo lắng kẻo Tàu của họ sẽ ra khơi mà không có họ. Than ôi! Dân Cư trên thế gian sẽ bối rối biết bao, khi trong một khoảnh khắc, trong nháy mắt, tất cả đều nghe tiếng của Thiên Sứ Trưởng và [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Tiếng Kèn của ĐỨC CHÚA TRỜI"]:
+
+> Hỡi kẻ chết, hãy trỗi dậy, và đến sự phán xét!
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc đọc Cầu Nguyện cho các Lính, thăm người Bệnh, viết một số Thư, và cầu thay cho toàn thể Nhân Loại trên boong tàu; và lui về giường khoảng mười hai giờ.]
+
+Tàu của chúng tôi đã ra khơi nhanh trong vài giờ; nhưng gió lại đổi chiều, đã buộc phải quay lại một lần nữa, và chúng tôi đã thả neo ở Downs khoảng chín giờ tối.
+
+Sau đó, tôi đã vui vẻ làm công việc mục vụ của mình, thăm người Bệnh, đọc Cầu Nguyện và giảng cho các Lính, trả lời một số Thư tôi đã nhận được vào buổi sáng. Gửi một số sách cho các Lính trên tàu Lightfoot, và ban đêm đã lên bờ tại Deal cùng ông H., nơi chúng tôi đã được tiếp đón một cách tử tế nhất, và được tiếp đãi và cho trọ một cách lịch thiệp tại nhà ông R. Nguyện CHÚA thưởng cho ông gấp ngàn lần.
+
+[NEEDS REVIEW: các mục nhật ký cho ngày 1 tháng 2 phần lớn đã bị mất trong OCR — chỉ còn lại các đoạn rời rạc: dường như đã thăm [NEEDS REVIEW: từ bị hỏng] và Mục sư, và [NEEDS REVIEW: câu bị hỏng] về lợi ích của [NEEDS REVIEW: từ bị hỏng]; đã trả lời hai hoặc ba Thư tôi đã nhận được; đã trò chuyện với một số người có khuynh hướng tốt; khoảng mười hai giờ đã đi ngủ; sáng hôm sau đã đi thuyền, định [NEEDS REVIEW: câu bị hỏng]; lúc mười giờ, có một cơn gió thuận dễ chịu nổi lên, đưa chúng tôi ra khỏi Downs [NEEDS REVIEW: câu bị hỏng]; đã giảng giải và dạy giáo lý; đã viết một số Thư; khi chúng tôi đi qua Dover, tôi đã [NEEDS REVIEW: câu bị hỏng].]
+
+Bất cứ ai cũng phải nghĩ rằng tôi lẽ ra đã nghe tin từ ông Wesley, khi ông đi qua Deal; nhưng Đức Chúa Trời đã sắp đặt mọi sự vì điều tốt nhất; và vì vậy, tôi đã vui vẻ ra đi, nhưng không biết mình đi đâu; và không nghi ngờ gì, Đấng đã đánh bại Gô-li-át, cũng sẽ tăng cường sức mạnh cho tôi chống lại mọi kẻ thù thuộc linh của tôi, và gửi Đức Thánh Linh của Ngài để hướng dẫn tôi. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Nguyện tôi luôn luôn có tâm trí như vậy!"]
+
+Thứ Năm, ngày 2 tháng 2. [NEEDS REVIEW: OCR đọc "Thứ Sáu", nhưng theo lịch Julian dùng ở Anh thời đó, ngày 2 tháng 2 năm 1738 là Thứ Năm — ngày 5 tháng 2 là Chủ Nhật, phù hợp với cả nhật ký và lịch. Có thể bản in hoặc OCR đã nhầm.] Hãy để ngày này được ghi chú trong Sách của tôi; vì Đức Chúa Trời đã làm cho chúng tôi một sự giải cứu kỳ diệu! Khoảng bảy giờ sáng, những người trên boong tàu không giữ một sự canh gác cẩn thận, một trong những Tàu Đông Ấn, khi đổi chiều gió, đã chạy gần chúng tôi đến nỗi nếu Thuyền Trưởng [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "không nhanh chóng ra lệnh"], cả hai Tàu hẳn đã không thể tránh khỏi [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "va chạm"]. Chúng đã ở trong vòng bốn thước Anh [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "và ông chưa bao giờ gặp nguy hiểm lớn như vậy trong đời"]. Nhưng khi tôi được báo về điều đó, tôi đã cố gắng khích lệ mọi người biết ơn, và đã dâng lời tạ ơn công khai tại Cầu Nguyện.
+
+> Vì Đức Chúa Trời đã mở rộng tình yêu kỳ diệu như vậy
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Để kéo dài mọi đời sống của chúng tôi"],
+> Những đời sống đó, chúng ta hãy dâng cho Ngài,
+> Và dùng trong sự phục vụ Ngài.
+
+Đọc Cầu Nguyện công khai và giảng cho các Lính; giải thích Giáo Lý Vấn Đáp cho các Phụ Nữ, khuyên bảo họ đặc biệt phải vâng phục chồng mình, điều mà [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "trước đây đã thiếu"]. Và đã vui mừng khi nghe Thuyền Trưởng, khi tôi lên boong tàu, nhắc tôi về đề nghị tôi đã đưa ra cho ông một thời gian trước, về việc có Cầu Nguyện hằng ngày trong Khoang Lớn; và đồng thời mong muốn rằng từ nay trở đi, tôi sẽ đọc Cầu Nguyện buổi sáng và buổi tối cho họ. Điều này tôi đã đồng ý một cách sẵn sàng nhất, vì đó là điều tôi đã lâu mong muốn và cầu nguyện, và điều mà tôi vừa sắp đề nghị lại với ông. Theo đó, tôi đã lập tức đi và thông báo cho Trung Úy, v.v., về mong muốn của Thuyền Trưởng, và chúng tôi đã bắt đầu tối nay có Cầu Nguyện công khai đầy đủ. Và theo yêu cầu của Thuyền Trưởng, tôi đã giảng giải Bài Học thứ hai; và thật vinh hiển biết bao! Ngợi khen Đức Chúa Trời! Vì tôi hy vọng chúng tôi giờ đây sẽ bắt đầu sống như Cơ Đốc Nhân, và kêu cầu Danh của CHÚA hằng ngày. Chính suy nghĩ về việc Đức Chúa Trời ban cho tôi lời cầu xin này đã làm tôi đầy dẫy niềm vui.
+
+Thứ Bảy, ngày 4 tháng 2. [NEEDS REVIEW: OCR đọc "Thứ Bảy, tháng 2" — số ngày bị mất; theo lịch Julian, Thứ Bảy sau ngày 2 tháng 2 là ngày 4 tháng 2.] Bắt đầu có Cầu Nguyện trong Khoang Lớn vào buổi sáng; đọc Cầu Nguyện và giảng hai lần cho các Lính như thường lệ; và giảng giải Bài Học thứ hai vào buổi tối cho các Quý Ông, sau Cầu Nguyện trong Khoang Lớn, mà từ nay trở đi, tôi dự định, nếu Đức Chúa Trời muốn, sẽ tiếp tục. Không thể nói hết là lợi ích của nó sẽ là gì và sẽ là gì; vì nó cho tôi cơ hội nói nhiều lẽ thật có lợi, và đem lại cho chúng tôi đề tài cho cuộc trò chuyện nghiêm túc trên bàn ăn sau đó.
+
+Đã rất vui khi thấy Tàu của chúng tôi chạy thẳng trước gió; đã được mở rộng trong Cầu Thay; đã cung cấp sách cho ba Lính, những người đã bắt đầu hôm nay học đọc. Đức Chúa Trời giúp họ không chỉ đọc, mà còn làm bổn phận của họ!
+
+Số học trò của ông H. tăng lên. Nguyện CHÚA tăng thêm sức lực của ông!
+
+Chủ Nhật, ngày 5 tháng 2. Hiệp nhất trong tâm linh với Bạn Bè vắng mặt trong các Nghi Lễ thánh; dành một thời gian rất vui vẻ để đọc Lời của Đức Chúa Trời. Đọc Cầu Nguyện, và đưa ra một số nhận xét về cả hai Bài Học trong Khoang Lớn; rồi sau đó đọc Cầu Nguyện và giảng giải cả hai Bài Học cho các Lính. Ôi, nguyện CHÚA mở sự hiểu biết của chúng tôi, vì chúng chỉ là chữ chết nếu không có sự soi sáng của Đức Thánh Linh Ngài!
+
+[NEEDS REVIEW: các mục nhật ký từ ngày 6 đến 15 tháng 2 phần lớn đã bị mất trong OCR. Đoạn sau đây còn sót lại — dường như thuộc về một cơn bão lớn trên biển.]
+
+... các Lính, những người nằm gần cửa hầm chính. Ông H. và tôi đã biết về điều đó, nhưng nhận thấy mình bồn chồn, và không thể ngủ được chút nào; ông phàn nàn về một cơn đau đầu dữ dội. Tôi đã dậy và kêu cầu Đức Chúa Trời cho chính tôi và những người đi biển cùng tôi, Bạn Bè vắng mặt, và toàn thể Nhân Loại. Sau đó, đi lên boong tàu; nhưng chắc chắn một cảnh tượng cao quý và đáng sợ hơn mà mắt tôi chưa bao giờ thấy! Vì sóng dâng cao hơn núi và đôi khi tràn lên boong sau. Tôi đã cố gắng trong lúc đó để tôn vinh Đức Chúa Trời, vì đã khiến quyền năng của Ngài được biết đến. Và sau đó, bò trên đầu gối (vì tôi không biết làm sao để đứng), tôi đã theo Bạn H. của tôi xuống giữa các boong tàu, và đã an ủi những người nghèo ướt át. Sau đó, tôi đã đọc Cầu Nguyện trong khoang lớn; nhưng [NEEDS REVIEW: câu bị hỏng trong OCR].
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc bị buộc phải [NEEDS REVIEW] suốt thời gian; nghĩ rằng mình không có khả năng làm gì, tôi đã nằm ngang qua ghế; nhưng Đức Chúa Trời đã tốt lành đến nỗi giúp đỡ tôi bởi Thánh Linh Ngài. Mặc dù mọi thứ đang đổ vỡ, Tàu đang chao đảo, và những người ngã xuống không thể đứng vững; và người bệnh xung quanh tôi; nhưng tôi chưa bao giờ vui vẻ hơn trong đời, và đã được giúp sức, mặc dù giữa đám đông, hoàn thành một Bài Giảng trước khi đi ngủ, mà tôi đã bắt đầu vài ngày trước. Quyền năng của Đức Chúa Trời đã được tôn vinh trong sự yếu đuối của tôi biết bao! Ngợi khen CHÚA, hỡi linh hồn ta, và mọi điều trong ta ngợi khen Danh thánh Ngài!]
+
+[NEEDS REVIEW: ngày bị mất trong OCR — theo lịch, là Thứ Năm, ngày 16 tháng 2.] Đã làm như thường lệ trong Tàu; chỉ thay vì dạy giáo lý, đã kiểm tra sự tiến bộ của các học trò của Bạn [NEEDS REVIEW: chữ cái bị hỏng trong OCR]; đã cho họ những gì tôi thấy họ cần; và đã hy vọng một số trong số họ sẽ trở thành thành viên của CHÚA GIÊ-XU CHRIST.
+
+Đã hiệp nhất với những người vào ban đêm, những người đã dành riêng ngày này làm Ngày Hạ Mình, để cầu xin Đức Chúa Trời tránh khỏi những sự phán xét mà tội lỗi quốc gia của chúng ta đáng phải chịu. Lạy CHÚA, xin nghe lời cầu nguyện của chúng tôi, và tiếng kêu của chúng tôi đến cùng Ngài.
+
+Thứ Sáu, ngày 17 tháng 2. Đọc Cầu Nguyện, giảng giải Bài Học, và tiếp tục giải thích Giáo Lý Vấn Đáp cho các Phụ Nữ. Giảng giải một phần Kinh Lạy Cha, sau Cầu Nguyện buổi tối, trong Khoang Lớn; và dự định, sau đó, tiếp tục với Tín Điều và Mười Điều Răn. Đức Chúa Trời ban cho mọi người tấm lòng cầu nguyện, tin cậy, vâng lời.
+
+Thấy ông D. trung thực đặc biệt hữu ích cho tôi, vì tôi hơi ốm bởi sự rung lắc gần đây của Tàu, và hơi nóng và mùi hôi của Dân Chúng giữa các boong tàu, những người, cho đến nay, hầu như chưa có thời gian để hồi phục sau cơn bão. Ôi, những đền tạm mong manh này của chúng ta bị rối loạn nhanh biết bao! Hạnh phúc thay người phục vụ Đức Chúa Trời trong sức khỏe của mình, và không có gì để làm khi bệnh tật ập đến, ngoại trừ lặng lẽ nằm xuống và chết.
+
+Thứ Bảy, ngày 18 tháng 2. Thực hiện bổn phận thường lệ, và hoàn thành Kinh Lạy Cha. Nhận thấy các rối loạn thân thể của tôi đã qua đi, và đã được giúp sức giảng cho các Lính với sự mở rộng hơn tôi đã có trong bốn ngày qua. Thuyền Trưởng nhận thấy tôi hơi rối loạn, và đã đưa cho ông H. một liều thuốc bổ cho tôi. Nguyện CHÚA tốt lành ghi chú ân huệ này trong sách của Ngài.
+
+Sau bữa trưa, tôi đã càng ngày càng khá hơn; đã vô cùng vui vẻ khi ngồi trên boong tàu, ngợi khen Đức Chúa Trời về sự dễ chịu của thời tiết, và đọc *Đời Sống của Tổng Giám Mục Cranmer*. Ông là một người công chính. Bản tường thuật về sự sa ngã của ông đã khiến lòng tôi run rẩy trong tôi; nhưng tại sao ngươi lại bị chán nản, hỡi linh hồn ta? Hãy vẫn tin cậy nơi Đức Chúa Trời. Đấng đã bắt đầu sẽ tiếp tục và hoàn thành công việc tốt lành. Thậm chí vậy, Chúa Giê-xu hãy đến mau chóng.
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc Tàu chạy với tốc độ một trăm bốn mươi dặm trong hai mươi bốn giờ, và thả neo khoảng hai giờ [NEEDS REVIEW] trong Cảng Gibraltar.]
+
+[NEEDS REVIEW: phần còn lại của một lá thư gửi Bạn Bè, viết từ Gibraltar — phần lớn đã bị mất trong OCR. Các đoạn còn sót lại:]
+
+... [Tôi đã thức] đến sáng, với mục đích dâng lời tạ ơn trong Cảng Gibraltar. Ôi, nguyện Bạn Bè của tôi sẽ [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "cùng tôi tạ ơn"]. Đức Chúa Trời sẽ vui lòng định đoạt về tôi ở đây như thế nào, tôi vẫn chưa thể biết; nhưng tôi nghĩ thích hợp để gửi cho các bạn Bản Tường Thuật này về chuyến đi ngắn của tôi đã qua, để cho các bạn thấy Đức Chúa Trời đã nghe lời cầu nguyện của các bạn như thế nào, để khích lệ các bạn kiên trì cầu nguyện thay cho tôi. Và nếu các bạn quan sát (như chắc chắn các bạn có thể) bất cứ điều gì sai trái hoặc không khôn ngoan trong cách cư xử của tôi, tôi nài xin các bạn, bởi lòng thương xót của Đức Chúa Trời, hãy nói thẳng với tôi. Vì vì lý do đó, [NEEDS REVIEW: câu bị hỏng trong OCR] tôi là một con sâu, và không phải là người, và đáng bị là kẻ bị loại bỏ khỏi Dân Chúng. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Nhưng bởi ân điển tự do, tôi là những gì tôi là."]
+
+> [NEEDS REVIEW: một bài thánh ca về cơn bão — phần lớn đã bị hỏng trong OCR. Các đoạn còn sót lại:]
+>
+> Làm sao [NEEDS REVIEW: câu bị hỏng] hỡi CHÚA!
+> Sự bảo vệ của họ chắc chắn biết bao!
+> Sự khôn ngoan là sự bảo vệ của họ;
+> Sự giúp đỡ của họ là Toàn Năng.
+> Hãy suy nghĩ, hỡi linh hồn ta, hãy suy nghĩ một cách mộ đạo,
+> [NEEDS REVIEW: câu bị hỏng trong OCR]
+> Ngươi đã thấy [NEEDS REVIEW: câu bị hỏng]
+> Với mọi nỗi kinh hoàng của nó dâng lên!
+> Sự bối rối ngự trong mọi khuôn mặt,
+> Và nỗi sợ hãi trong mọi tấm lòng;
+> Khi sóng chồng lên sóng, [NEEDS REVIEW: câu bị hỏng]
+> Đã vượt qua nghệ thuật của Người Lái Tàu.
+> [NEEDS REVIEW: câu bị hỏng trong OCR]
+> Lòng thương xót của Ngài đã giải thoát tôi
+> [NEEDS REVIEW: câu bị hỏng trong OCR]
+> Linh hồn tôi đã bám chặt vào [NEEDS REVIEW: câu bị hỏng]
+> Mặc dù trong [NEEDS REVIEW: câu bị hỏng]
+> Cao trên [NEEDS REVIEW: câu bị hỏng]
+> Tôi biết Ngài không chậm nghe,
+> Cũng không bất lực để cứu.
+> Các cơn bão đã lắng xuống, gió [NEEDS REVIEW: câu bị hỏng]
+> Vâng phục ý muốn của Ngài:
+> Biển, [NEEDS REVIEW: câu bị hỏng]
+> Theo lệnh của Ngài đã yên lặng.
+> Giữa những nguy hiểm, sợ hãi, và [NEEDS REVIEW: câu bị hỏng]
+> Lòng tốt của Ngài tôi tôn thờ;
+> Và ngợi khen Ngài về [NEEDS REVIEW: câu bị hỏng]
+> Và khiêm nhường hy vọng nhiều hơn.
+
+### Phần II. Từ Gibraltar Đến Savannah
+
+Các Bạn thân mến của tôi,
+
+Mặc dù [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "các bạn không"] lo lắng về bất cứ điều gì xảy ra cho một con chó chết như tôi, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "và những ân huệ không xứng đáng mà Đức Chúa Trời đã ban cho tôi"]; vì vậy, tôi đã gửi cho các bạn một Bản Tường Thuật đầy đủ và chi tiết về phần còn lại của Chuyến Đi của tôi, như chút thời gian rảnh rỗi mà các chức vụ mục vụ của tôi cho phép tôi đưa ra.
+
+Thứ Hai, ngày 20 tháng 2 năm 1737 [lịch cũ, tức 1738]. Dành buổi sáng trên tàu, để viết Thư cho Bạn Bè thân yêu của tôi ở Anh, để thông báo cho họ về sự đến nơi an toàn của tôi. Đi buổi chiều lên Gibraltar, và đã vô cùng vui mừng với cảnh tượng của nơi đó. [NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc nhìn thấy những người thuộc các quốc gia và [NEEDS REVIEW] khác nhau.]
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc nhìn thấy hình ảnh của Đức Trinh Nữ Ma-ri, được trang điểm, [NEEDS REVIEW] và mặt nạ. Thật đáng buồn khi dân chúng này lại [NEEDS REVIEW] sự đơn giản của Đấng Christ, và chạy theo những phát minh của riêng họ! Chắc chắn, nếu Thánh Phao-lô vĩ đại sống lại từ kẻ chết, và đến xem Giáo Hội La Mã, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "ông sẽ nói gì"], cũng như tại Athens, khi thấy họ hoàn toàn dâng mình cho sự thờ hình tượng.]
+
+Thứ Ba, ngày 21 tháng 2. Sau khi đã đọc Cầu Nguyện, và viết thêm một số Thư cho Bạn Bè của tôi ở Anh, lại đi Gibraltar, để bày tỏ lòng kính trọng của tôi với Thống Đốc S., vì được Thuyền Trưởng [NEEDS REVIEW: chữ cái bị hỏng trong OCR] nói rằng ông mong muốn gặp tôi. Vị quý ông già đáng kính, như Sẹt-giút Phao-lút, đã tiếp đón tôi với sự thẳng thắn nhất, và đã đưa ra một lời mời chung để đến ăn trưa với ông mỗi ngày, trong thời gian tôi ở Gibraltar. Tôi đã cảm ơn ông về lòng tốt của ông; đã có khoảng một phần tư giờ trò chuyện với ông, và đã chia tay ông lần đó.
+
+Lúc một giờ, tôi đã trở lại ăn trưa với ông, theo cuộc hẹn của ông; và đã rất hài lòng với cách cư xử của các Sĩ Quan tại bàn. Chúng tôi đã có những gì người ta gọi là *Cæna Dubia* [bữa ăn không chắc chắn]. Lúc ba giờ, tôi đã chia tay, đi bộ xung quanh cùng Thuyền Trưởng W. và các Bạn Bè khác, để xem Pháo Đài lần thứ hai; lên tàu khoảng [NEEDS REVIEW: số bị hỏng trong OCR]; đọc Cầu Nguyện, và bắt đầu giảng giải Tín Điều trong khoang; đã viết thêm một số Thư, và đã đi ngủ [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "tạ ơn Đức Chúa Trời vì đã gửi tôi ra nước ngoài"].
+
+Thứ Tư, ngày 22 tháng 2. Ngày nay, tôi định ở lại trên tàu, để viết Thư, nhưng Đức Chúa Trời vui lòng cho tôi thấy đó không phải là ý muốn của Ngài, tôi đã lại lên bờ, và đã thăm cả hai Mục sư của Gibraltar, những người đã tiếp đón tôi một cách rất trìu mến, và đã đề nghị cho tôi sử dụng Bục Giảng. Ôi, thật là một điều phước hạnh khi các Mục sư sống hòa hợp với nhau trong sự hiệp nhất!
+
+Lúc mười một giờ, đi đến Cầu Nguyện công khai, và đã rất vui khi thấy nhiều Sĩ Quan và Lính tham dự. Tôn Giáo trông càng đáng yêu gấp đôi trong một người Lính.
+
+Sau Cầu Nguyện, lại ăn trưa với Tướng Quân, người đã đưa cho tôi một lời mời đặc biệt khác, khi tôi đi ra khỏi Nhà Thờ. Ông đã đối xử với tôi với sự lịch thiệp không thường, và [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đã mời tôi giảng vào Chủ Nhật"].
+
+Đã có cơ hội gửi một gói Thư cùng với Nhật Ký của tôi cho Bạn Bè thân yêu của tôi ở Anh. Nguyện CHÚA ban phước cho chúng!
+
+Buổi chiều, đã đi thăm một Kẻ Đào Ngũ, người đã gửi cho tôi một Lá Thư, mong muốn tôi cầu thay cho anh ta với Thống Đốc, vì anh ta e sợ sẽ chết vì tội đào ngũ. Tôi định đáp ứng yêu cầu của anh ta, nhưng Thống Đốc đã thương xót đến nỗi ông đã ra lệnh chỉ đánh roi anh ta, mà tôi nghĩ là hình phạt đủ nhẹ. Ôi, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Chúa sẽ làm gì trong thế gian đó!"]
+
+Buổi tối, trở lại tàu như thường lệ; [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đã giảng giải trong khoang lớn"], chôn cất một Đứa Trẻ, đưa ra một Lời Khuyên Bảo cho các Lính thích hợp cho dịp đó, viết thư cho một số Bạn Bè tại Deal; và đi ngủ với những suy nghĩ và sự thuyết phục bất thường rằng Đức Chúa Trời sẽ làm một số điều lớn lao tại Gibraltar. Ôi, nguyện tôi là một bình chứa tinh sạch thích hợp cho Chủ tôi!
+
+Thứ Năm, ngày 23 tháng 2. Ở lại trên tàu suốt cả ngày, làm bổn phận thường lệ của tôi trong Tàu, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đã đưa bài giảng của Bạn thân yêu của tôi vào tay một người tại Gibraltar"], người đã đến ăn trưa trên tàu cùng Trung Úy D. Họ đã cư xử rất giống Quý Ông, và dường như hài lòng với cuộc trò chuyện nghiêm túc. Nguyện Đức Chúa Trời mà tôi phục vụ, thêm Cơ Đốc Nhân vào Quý Ông!
+
+Thứ Sáu, ngày 24 tháng 2. Ngợi khen Đức Chúa Trời, Đấng hôm nay đã cho tôi thấy Ngài đã nghe lời cầu nguyện của tôi, và không lấy đi lòng nhân từ của Ngài khỏi tôi! Từ lâu trước khi tôi đến Gibraltar, tôi đã cầu nguyện rằng Đức Chúa Trời sẽ mở một cánh cửa hiệu quả, tại nơi chúng tôi đang đi đến, và chỉ dẫn tôi nơi tôi nên trọ; và này, hôm nay Ngài đã đáp lời tôi. — Khoảng mười giờ sáng, Thuyền Trưởng M. lên tàu, báo cho tôi rằng một Thiếu Tá S. (một Người tôi chưa bao giờ gặp) đã chuẩn bị cho tôi một chỗ trọ tiện lợi tại nhà một Thương Gia B., và mong muốn tôi lên bờ. Tôi coi đây là một Lời Kêu Gọi từ Sự Quan Phòng, đã nhận nó với mọi lòng biết ơn, và đã đi cùng Bạn H. lên bờ, nhưng không phải mà không cầu nguyện trước rằng Đức Chúa Trời sẽ chỉ dẫn chúng tôi cách cư xử.
+
+Khoảng giữa thị trấn, Thiếu Tá S. đã đến gặp chúng tôi, dẫn chúng tôi đến chỗ trọ mới của chúng tôi (rất tiện lợi)
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc giảng cho các Lính mộ đạo trong Nhà Thờ, và đã được mở rộng rất nhiều. Ngợi khen Đức Chúa Trời.]
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc định đi giảng cho đoàn chiên của mình, nhưng đã bị ngăn cản bởi gió dữ dội; nhưng đã vui mừng khi nghe từ một số Sĩ Quan Gibraltar, những người đã ăn trưa hôm đó trên tàu Whitaker, rằng một số trong đoàn chiên của tôi đã có can đảm đọc Cầu Nguyện và hát Thi Thiên tự mình, và (như tôi thấy sau đó) đã tiếp tục làm như vậy, trong thời gian tôi vắng mặt. Ngợi khen Đức Chúa Trời! Tôi hy vọng tôi sẽ có một số người dám tốt một cách đặc biệt, và sẽ không bị [NEEDS REVIEW: câu bị hỏng trong OCR].]
+
+Thứ Bảy, ngày 25 tháng 2. [NEEDS REVIEW: phần lớn mục này đã bị mất trong OCR — chỉ còn lại đoạn trên.]
+
+Chủ Nhật, ngày 26 tháng 2. Giảng buổi sáng tại Gibraltar, trước một Hội Chúng Sĩ Quan và Lính như tôi chưa bao giờ thấy trước đây. Nhà Thờ, mặc dù rất lớn, đã chật cứng. Và Đức Chúa Trời đã vui lòng cho tôi thấy Ngài đã ban thành công phi thường cho Bài Giảng của tôi. Ôi, sức mạnh thiêng liêng được tôn vinh trong sự yếu đuối của tôi biết bao! Ôi, nguyện tôi có thể như một tinh thể tinh khiết truyền tải mọi ánh sáng Ngài đổ xuống tôi; và không bao giờ nhận lấy điều gì thuộc về quyền sở hữu duy nhất của Ngài!
+
+Ăn trưa cùng Bạn H. tại nhà Thống Đốc S., người đã gửi lời mời chúng tôi một cách tử tế nhất. Luật lệ tại bàn của ông cũng giống như luật của A-ha-suê-rơ: "Không ai bị ép buộc." Và tất cả các Sĩ Quan đã cư xử một cách đứng đắn và vô tội trong suốt thời gian tôi ăn trưa ở đó, đến nỗi họ đã làm tôi rất vui. Chắc chắn có một chút kính sợ Đức Chúa Trời ở nơi đó!
+
+Sau Cầu Nguyện buổi tối (vì không có Bài Giảng buổi chiều), tôi đã đi và giảng giải, cầu nguyện và hát Thi Thiên cùng Hội, và đã có gần ba mươi người nghe. Nguyện CHÚA tốt lành ban phước cho nó.
+
+Ban đêm, đã có một số cuộc trò chuyện mộ đạo, với Chủ Nhà và Bà Chủ Nhà của tôi, những người dường như yêu mến tôi như con trai của họ; cầu nguyện cho Bạn Bè vắng mặt, và đi ngủ, xấu hổ vì tôi đã làm quá ít cho Đức Chúa Trời trong một ngày Sa-bát. Nhưng khi chúng ta không thể làm như chúng ta muốn, chúng ta phải làm như chúng ta có thể.
+
+Thứ Hai, ngày 27 tháng 2. Đi Nhà Thờ, và đã làm như hôm qua. [NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc khuyên bảo họ yêu thương và hiệp nhất, và không để một sự khác biệt nhỏ về một vài điều bên ngoài gây ra bất kỳ tinh thần hẹp hòi nào nảy sinh trong lòng họ. Tôi đã khuyên họ đến nghe tôi giảng giải trong Nhà Thờ, mà họ đã làm; và một cách quan phòng, Bài Học là Ê-phê-sô 4, từ đó tôi đã nhân cơ hội thúc giục họ về sự cần thiết phải yêu thương lẫn nhau bằng một tình yêu phổ quát không vị kỷ; trở nên một lòng và một ý, và hiệp nhất mà không thiên vị trong việc thúc đẩy Vương Quốc của Chúa Giê-xu Christ chúng ta. Tôi hy vọng Đức Chúa Trời đã ban phước cho những gì đã được nói. Vì tôi đã quan sát họ đến thường xuyên sau đó, và đã được báo rằng có một sự hòa hợp hoàn hảo giữa họ. Những sự chia rẽ không cần thiết đã gây ra bao nhiêu tai họa vô hạn trong thế gian Cơ Đốc! *Divide et Impera* [chia rẽ và cai trị] là châm ngôn của ma quỷ.]
+
+Ăn trưa và ăn tối tại nhà Tướng Quân C. cùng ông H., và đã được tiếp đón một cách lịch thiệp nhất. Nguyện CHÚA thưởng cho ông trong ngày đó! Sĩ Quan dường như chăm chỉ làm hài lòng tôi, và lo lắng cho việc tôi ở lại Gibraltar. Nhưng mặt tôi đã hướng về Georgia. Nguyện CHÚA chỉ dẫn đường đi của tôi theo cách của Ngài.
+
+Thứ Ba, ngày 28 tháng 2. Giảng giải trong Nhà Thờ như thường lệ; lên tàu, đọc Cầu Nguyện và giảng giải cho đoàn chiên của tôi; ăn trưa cùng Bạn H. tại nhà Thống Đốc S., người đã gửi lời mời chúng tôi; và giảng giải cho một số đông Lính, vào buổi tối, tại Nhà Thờ.
+
+Đã được Bác Sĩ C. hỏi, nhân danh Thống Đốc, Đại Tá C., giảng mỗi Ngày Cầu Nguyện trong khi tôi ở Gibraltar, mà tôi đã hứa sẽ làm, và nhận thấy Lời của Đức Chúa Trời chạy rất nhanh. Nhiều Cư Dân đã thúc giục tôi ở lại với họ, và đã vô cùng tử tế với những người đi cùng tôi, vì cớ tôi. Ngợi khen Đức Chúa Trời, vì đã ban cho tôi ân huệ trong mắt Dân Ngài! Lạy CHÚA, tôi là gì, hay trong tôi có gì, mà Ngài lại tôn vinh tôi cao như vậy? Nguyện, hỡi CHÚA, càng tôn cao tôi, tôi càng hạ thấp mình, và luôn luôn nhìn đến Vầng Đá mà tôi đã được đẽo ra!
+
+Đã trò chuyện với một trong những Lính mộ đạo, người đang chịu những thử thách thuộc linh mạnh mẽ; và Đức Chúa Trời đã vui lòng ban cho anh ta sự an ủi. Tôi thấy ngày càng cần thiết hơn mỗi ngày, rằng các Mục sư nên bị cám dỗ trong mọi sự như Anh Em của họ, để họ có thể giúp đỡ một cách thực nghiệm những người bị cám dỗ.
+
+Thứ Tư, ngày 1 tháng 3. Giảng giải vào buổi sáng, và đã rất vui khi bước vào Nhà Thờ, khi thấy nhiều Lính đang quỳ ở nhiều phần trong Nhà của Đức Chúa Trời để cầu nguyện riêng. Ôi, Gibraltar hạnh phúc, có một đoàn người cầu nguyện như vậy! Một số người tôi nghe thường đến vào [NEEDS REVIEW: giờ bị hỏng trong OCR — có lẽ "năm giờ"] sáng, để trút lòng họ ra trước Đức Chúa Trời. Và đã được thăm sau đó bởi hai người của Hội Bất Đồng Chính Kiến, những người dường như là người Y-sơ-ra-ên thật sự. Tôi đã khích lệ họ [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "yêu thương và hiệp nhất"].
+
+Giảng, theo lời hứa của tôi, cho một Thính Giả đông đảo và cảm động gồm các Sĩ Quan, Lính, v.v. Ăn trưa (theo lời mời của ông) tại nhà Thống Đốc S., và giảng giải vào ban đêm cho gần 200 người, trong số đó có nhiều Sĩ Quan, và không ít Phụ Nữ danh giá. Ôi, nguyện họ với sự nhu mì tiếp nhận Lời đã được gieo, và nguyện nó có thể là phương tiện cứu linh hồn họ!
+
+Thứ Năm, ngày 2 tháng 3. Dành một phần trong ngày để viết Thư. Ăn trưa và ăn tối tại nhà ông A., Chánh Án Dân Sự tại Gibraltar, và đã được tiếp đãi với tình yêu và lòng trìu mến không thường. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Đã giảng hai lần trong Nhà Thờ, như thường lệ,"] và ban đêm đã có hơn ba trăm người nghe; trong số đó có nhiều Sĩ Quan, Quý Bà, và chính Bác Sĩ C., Mục sư của Nhà Thờ, người lẽ ra đã muốn tôi lên Bục Đọc, để tôi có thể chỉ huy Dân Chúng tốt hơn; nhưng tôi đã từ chối đêm đó. Đức Chúa Trời được ngợi khen vì đã gửi tôi ra nước ngoài, và làm thịnh vượng công việc của tay Ngài trên tôi.
+
+> Trên mọi lòng thương xót của Ngài, hỡi Đức Chúa Trời của tôi,
+> Linh hồn đang trỗi dậy của tôi chiêm ngưỡng;
+> Được đưa đi bởi tình yêu của Ngài, tôi bị mất
+> Trong sự kinh ngạc, niềm vui và lời ngợi khen!
+
+Thứ Sáu, ngày 3 tháng 3. Đức Chúa Trời vẫn cho tôi thấy những điều lớn lao hơn trước. Ôi, nguyện lòng biết ơn của tôi tăng lên tương ứng! Sáng nay, ngoài một số đông Lính, gần nếu không hơn một tá Người Dân trong thị trấn đã đến Nhà Thờ để nghe tôi giảng giải. Sau đó, chúng tôi đã ăn sáng cùng một Quý Bà, người đã gửi Thiếu Tá S. đến mời chúng tôi, và đã tiếp đón chúng tôi một cách vui vẻ nhất vào nhà bà. Khoảng mười giờ, tôi đã giảng Bài Giảng của tôi chống lại việc Thề Thốt, và đã đưa ra một Lời Ứng Dụng chia tay cho các Lính sắp đi Georgia ra khỏi đồn trú đó. Thống Đốc đã duyệt binh họ sáng đó; và vì tôi không thể ở cùng Tàu với họ, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "tôi đã mong muốn họ được ra lệnh đến Nhà Thờ"], để tôi có thể có cơ hội nói với họ cách cư xử trong vùng đất mà họ sắp vượt biển để bảo vệ. Đại Tá và Thống Đốc đã đồng ý một cách sẵn sàng nhất; đã có một Thính Giả chật cứng nhất, và Đức Chúa Trời đã vui lòng đóng ấn của Ngài trên Bài Giảng của tôi. Nhiều Sĩ Quan và Lính đã khóc một cách đau đớn, và một sự thay đổi rõ ràng đã được quan sát trong Đồn Trú trong một số ngày sau đó. Ôi, nguyện những sự thuyết phục của họ kết thúc trong sự cải đạo của họ, và nguyện họ sinh ra những bông trái của Thánh Linh!
+
+Đã mua một ít Rượu bằng số tiền tôi đã thu thập cho việc sử dụng những Người Nghèo bị bệnh tại Georgia. Nhà Mục Sư phải là kho chứa của Người Nghèo.
+
+Đã có hơn năm trăm người nghe tôi giảng giải tối nay, và đã lên Bục, theo lời khuyên của Bác Sĩ C., người giờ đây thường xuyên là một trong những người nghe của tôi. Sau đó, chúng tôi đã ăn tối tại nhà ông B. của Văn Phòng Cung Cấp, với [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "niềm vui và sự vui mừng lớn trong lòng"]. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Ngợi khen CHÚA, tỏ ra mọi lời ngợi khen của Ngài!"]
+
+Thứ Bảy, ngày 4 tháng 3. Giảng giải vào buổi sáng [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "cho nhiều người nghe hơn hôm qua"], mà nhiều người trong số họ đã khóc. Ăn trưa và ăn tối cùng Tướng Quân C., người đã gửi lời mời tôi và Bạn tôi đêm qua, và đã đối xử với chúng tôi với sự tôn trọng đặc biệt.
+
+Buổi chiều, đã đi đến Hội Đường Do Thái, và đã ngạc nhiên khi thấy một trong những người đứng đầu của họ đến từ đầu xa nhất, và đặt tôi vào một trong những ghế chính của họ. Nhưng sau đó, ông nói với tôi rằng ông đã nghe Bài Giảng của tôi hôm qua chống lại việc thề thốt, và cảm ơn tôi về điều đó. Chẳng phải cho tôi, chẳng phải cho tôi, hỡi CHÚA, nhưng cho Danh Ngài mọi lời tạ ơn và vinh hiển.
+
+[NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Tôi đã ở lại với họ trong toàn bộ buổi lễ của họ,"] và dành phần lớn thời gian của tôi ở đó trong Cầu Nguyện thầm kín với Đức Chúa Trời, rằng tấm màn có thể được cất khỏi lòng họ, và thời gian phước hạnh đó có thể đến khi dân được chọn của Ngài sẽ lại được tháp vào cây ô-liu của họ, và toàn thể Y-sơ-ra-ên sẽ được cứu.
+
+Đã thăm một Người đàn ông bất hạnh trong Tù, người đêm qua, trong một cơn say rượu, đã giết một Người Lính đồng đội. Tôi đã tình cờ gặp anh ta ngay khi anh ta bị bắt, và đã đặt trước anh ta những sự kinh hoàng của CHÚA. Ban đầu, anh ta dường như không quan tâm; nhưng trong một thời gian ngắn, anh ta đã bị đâm thấu lòng, mong muốn tôi đến và gặp anh ta, và hôm nay đã run rẩy và khóc một cách cay đắng. Ôi, sự say rượu, ngươi đã gây ra tai họa gì? Tên ngươi là Quân Đoàn; vì này, một đoàn tội lỗi đi cùng ngươi.
+
+Và buổi tối, tôi đã có gần, nếu không hơn, một ngàn người nghe; và tôi đã nhân cơ hội, từ việc kiểm tra Người đàn ông nghèo đã đề cập trước đó, để cảnh báo các Lính không say rượu, trong đó có sự quá độ, một tội lỗi dễ dàng bao vây nhất những người đàn ông Gibraltar. Nguyện họ nghe và sợ hãi, và không phạm tội một cách kiêu ngạo nữa. Tôi đã bị khàn giọng nhiều, nhưng tuy nhiên, đã được giúp sức nói với quyền năng. Khi chúng ta yếu đuối, thì chúng ta mạnh mẽ. Những lòng thương xót nào Đức Chúa Trời đã bày tỏ cho tôi trong tuần vừa qua! Ôi, nguyện Bạn Bè của tôi, khi họ nghe, có thể ngợi khen Ngài! Vì chắc chắn Đức Chúa Trời đã lắng nghe lời cầu nguyện của họ.
+
+Chủ Nhật, ngày 5 tháng 3. Sau khi giảng giải buổi sáng trong Nhà Thờ, tôi đã đi và xem người Công Giáo La Mã tại Thánh Lễ cao của họ; và chỉ đưa ra nhận xét này: Rằng không cần lập luận nào khác chống lại Giáo Hoàng, ngoài việc nhìn thấy sự phô trương, mê tín, và [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "sự phô trương"] trong sự thờ phượng của họ.
+
+Khoảng mười giờ, đã đi đến [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "Nhà Thờ"] thuộc Đồn Trú; giảng cho một Thính Giả [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "đông đảo nhất"], và đã nhận được (điều mà linh hồn tôi khao khát) Bí Tích của Thân Thể và Máu phước hạnh nhất của Đấng Christ. Cả hai Tướng Quân đều ở đó, và gần năm mươi Người Thông Công nữa. Số tiền quyên góp hàng tuần cho Người Nghèo lớn hơn bao giờ đã biết. Và [NEEDS REVIEW: tên bị hỏng trong OCR] đã cảm động đến nỗi ông ước mình là một Người theo Phương Pháp bị khinh miệt. Chúng ta không thích hợp để Đức Chúa Trời làm việc qua, cho đến khi chúng ta bị con người khinh miệt, để sự xuất sắc và quyền năng của việc giảng dạy có thể được thấy là chỉ từ Đức Chúa Trời mà thôi.
+
+Ăn trưa tại nhà Thống Đốc S., và, theo yêu cầu của Cư Dân và Quý Ông của Đồn Trú, đã giảng buổi chiều. Giảng giải vào buổi tối cho hơn một ngàn người nghe, thuộc mọi giáo phái; ăn tối cùng Tướng Quân C., về nhà đúng giờ, đầy dẫy sự an ủi không thể nói hết. Tôi không bao giờ tốt hơn khi tôi đang căng thẳng hết sức vì Đức Chúa Trời. Đức Chúa Trời ban cho tôi không, như Giê-hu, lái xe một cách điên cuồng lúc đầu, và sau đó lùi lại; nhưng quên đi những điều ở phía sau, tôi có thể vươn tới những điều ở phía trước, và tiến về phía trước hướng tới dấu đích, để đạt giải thưởng của sự kêu gọi cao cả trong ĐẤNG CHRIST GIÊ-XU! Tôi dường như nghe Bạn Bè thân yêu của tôi nói A-men. Và nguyện Đức Chúa Trời vĩ đại phán như vậy.
+
+Thứ Hai, ngày 6 tháng 3. Đã có gần, nếu không hơn, một trăm người tại buổi giảng giải buổi sáng; và vì là ngày cuối cùng tôi lưu trú tại Gibraltar, nhiều người đã đến gặp tôi khóc lóc, nói với tôi những gì Đức Chúa Trời đã làm cho linh hồn họ, mong muốn lời cầu nguyện của tôi, và hứa lời cầu nguyện của họ để đáp lại. Những người khác đã cho và gửi cho tôi những dấu hiệu tình yêu của họ, như Bánh, Quả Sung, Rượu, Trứng, và những thứ cần thiết khác cho Chuyến Đi của tôi, và dường như thiếu từ ngữ để bày tỏ tình cảm của họ. Nguyện CHÚA tốt lành ghi chú lòng tốt của họ trong sách của Ngài, và thưởng cho họ gấp ngàn lần!
+
+Khoảng mười hai giờ, đã đi đến Nhà Thờ, theo cuộc hẹn, và đã đưa ra một Lời Khuyên Bảo chia tay, như Đức Chúa Trời đã ban cho tôi lời nói, cho một số đông Lính, Phụ Nữ đang khóc, v.v., sau đó chúng tôi đã quỳ xuống, và sau khi đã phó thác lẫn nhau cho sự chăm sóc của Đức Chúa Trời, tôi đã rời họ, đi và chia tay hai Tướng Quân; thăm Tù Nhân bị giam giữ; ăn trưa tại nhà một Quý Bà trong thị trấn; để lại gần [NEEDS REVIEW: số bị hỏng trong OCR — có lẽ "nhiều"] Thư để gửi đến Anh; và khoảng bốn giờ, đã lên tàu, được đi cùng đến bờ biển với gần hai trăm Lính, Phụ Nữ, Sĩ Quan, v.v., những người đều buồn bã về sự ra đi của tôi, và chúc tôi may mắn nhân danh CHÚA. Chắc chắn giờ đây tôi có thể mong đợi thành công lớn hơn ở nước ngoài, khi có một đội quân cầu thay như vậy thay cho tôi. Hỡi CHÚA, hãy đặt nước mắt của họ vào bình của Ngài, và để tiếng kêu của họ đến cùng Ngài.
+
+Câu đố của Sam-sôn đã được ứng nghiệm tại Gibraltar: Từ kẻ ăn đã ra thức ăn; từ kẻ mạnh đã ra sự ngọt ngào. Ai ít có khả năng được tác động hơn các Lính? Và tuy nhiên, tôi chưa bao giờ ở giữa bất kỳ nhóm người nào, nơi Đức Chúa Trời đã khiến quyền năng của Ngài được biết đến nhiều hơn. Nhiều người đã hoàn toàn mù lòa, đã nhận được thị lực; nhiều người đã sa ngã, đã ăn năn, và quay lại với CHÚA; nhiều người đã xấu hổ khi công khai xưng Đấng Christ, đã trở nên táo bạo; và nhiều người là Thánh Đồ đã có lòng đầy dẫy niềm vui và đầy dẫy Vinh Hiển. Đây là việc của CHÚA, và thật kỳ diệu trong mắt chúng tôi. Nguyện Ngài ban phước cho những cuốn sách đã được phân phát trong số họ, và hoàn thiện công việc tốt lành đã bắt đầu trong lòng họ, cho đến ngày của Chúa Giê-xu chúng ta! Nguyện họ là niềm vui và mão triều thiên vui mừng của tôi trong ngày cuối cùng; và nguyện lòng thương xót của Đức Chúa Trời đối với tôi ở mọi nơi khiến tôi khiêm nhường hơn, nhiệt thành hơn, biết ơn hơn, và sẵn sàng hơn để làm hoặc chịu đựng bất cứ điều gì Đấng Cứu Chuộc thân yêu của tôi đã định cho tôi. Vào tay Ngài, tôi phó thác linh hồn tôi, như vào tay một Đấng toàn năng.
+
+Khoảng năm giờ, đã lên tàu, và đã được đoàn chiên của tôi tiếp đón một cách vui mừng, những người tôi hy vọng sẽ yêu thương hơn vì đã xa họ một chút. Đã cầu thay và dâng lời tạ ơn như thường lệ, ban đêm trên boong tàu; và đã vui mừng vì tôi lại lui về khỏi thế gian. Trời mưa nhiều, nhưng điều đó khiến chúng tôi càng nhiệt thành hơn. Xin tưới nước cho chúng tôi, hỡi CHÚA, chúng tôi nài xin Ngài, bằng sương của phước lành trên trời của Ngài.
+
+[NEEDS REVIEW: các mục nhật ký từ ngày 8 đến 18 tháng 3 phần lớn đã bị mất trong OCR. Các đoạn sau đây còn sót lại — dường như thuộc về ngày 7 tháng 3 và những ngày sau đó.]
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc cầu nguyện ngợi khen Đức Chúa Trời về những lòng thương xót đã nhận được trong tuần.]
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như "đã đi cùng Thuyền Trưởng [NEEDS REVIEW] lên tàu Amy; đọc Cầu Nguyện và giảng cho hơn hai trăm hai mươi người nghe; và cưới một cặp đôi, những người đã không cư xử tốt như tôi mong muốn. Chú Rể đã cười nhiều lần giữa buổi lễ trang trọng, mà tôi đã đóng Sách Cầu Nguyện lại. Nhưng khi anh ta bày tỏ sự lo lắng bằng cách khóc, tôi đã tặng anh ta và Cô Dâu một cuốn Kinh Thánh, — món quà tốt nhất tôi có thể tặng họ; và [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "khuyên bảo họ về sự thánh khiết của đời sống"]. Đức Chúa Trời ban cho họ một tai biết nghe, và một tấm lòng vâng lời!"]
+
+Ăn trưa cùng Đại Tá C., người đã đối xử với tôi với sự lịch thiệp nhất, và đã chăm sóc phân phát một số sách tôi đã mang theo cho những người thích hợp.
+
+Khoảng ba giờ, chúng tôi trở về tàu Whitaker, đọc Cầu Nguyện và giảng Bài Giảng của tôi chống lại sự say rượu; sau đó Thuyền Trưởng [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đã đưa ra một bài phát biểu hữu ích cho mọi người"], và khuyên bảo họ chú ý đến những điều đã được nói. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Công việc có khả năng tiến triển tốt, khi cả quyền lực Dân Sự và Giáo Hội đều tham gia giữ gìn sự tinh sạch của nó. Nhưng, Lạy CHÚA, trừ khi Ngài giúp đỡ chúng tôi, mọi nỗ lực của chúng tôi đều vô ích. Nguyện Ngài ban phước cho chúng tôi!"]
+
+Đã có hơn một giờ trò chuyện thân mật với [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "các bạn đồng hành của tôi"] về nội tâm của họ; và đã đi bộ cùng Bạn H. trên boong tàu đến mười hai giờ đêm, ngưỡng mộ những kỳ công của Đức Chúa Trời trong vực sâu. Ngợi khen Đức Chúa Trời vì đã gửi chúng tôi ra nước ngoài.
+
+Thứ Hai, ngày 20 tháng 3. Hôm nay Đại Tá C. đã đến ăn trưa với chúng tôi, và giữa bữa ăn, chúng tôi đã được đãi ngộ với một cảnh tượng rất dễ chịu; đó là một con Cá Mập dài bằng một người đàn ông, đã theo Tàu của chúng tôi, cùng với năm con cá nhỏ gọi là Cá Hoa Tiêu, rất giống Cá Thu, nhưng lớn hơn. Những con này, tôi được bảo, luôn đi cùng Cá Mập; và điều đáng ngạc nhiên nhất là, mặc dù Cá Mập là một sinh vật háu ăn như vậy, nhưng dù nó có đói đến đâu, nó cũng không bao giờ chạm vào một con nào trong số chúng. Cũng không phải chúng ít trung thành với nó hơn. Vì nếu bất cứ lúc nào Cá Mập bị móc câu, những sinh vật nhỏ bé này sẽ không bỏ rơi nó, mà bám chặt vào vây của nó, và thường bị bắt lên cùng với nó. Hãy đến với Cá Hoa Tiêu, hỡi kẻ bỏ rơi Bạn trong nghịch cảnh, hãy xem xét đường lối của nó và xấu hổ. Cảnh tượng đơn giản này, người ta sẽ nghĩ, đủ để bác bỏ bất kỳ người vô thần nào (nếu có một kẻ ngu như một người vô thần suy đoán) trên thế gian.
+
+Sau bữa trưa, tôi đã đọc Cầu Nguyện và giảng giải cho dân của tôi, rồi sau đó đã lên tàu Amy cùng Đại Tá C., người đã đối xử với tôi một cách không thường [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "tử tế; đã cưới một cặp đôi"], và trở về tàu Whitaker, vui mừng khi thấy các công việc của CHÚA, và vẻ đẹp của [NEEDS REVIEW: câu bị hỏng trong OCR].
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về một người trong đó xuất hiện nhiều dấu hiệu của Sự Tái Sinh. Chắc chắn anh ta sẽ chứng tỏ là một [NEEDS REVIEW: câu bị hỏng].]
+
+[NEEDS REVIEW: ngày bị mất trong OCR — theo lịch, là Thứ Ba, ngày 21 tháng 3.] Đã có lý do mới để biết ơn. Ông M. đã tặng tôi một món quà tử tế; thời tiết vô cùng dễ chịu; và điều là phước lớn nhất trong tất cả, Đức Chúa Trời [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "dường như đang vận hành trên khuôn mặt của một số người"].
+
+Thời tiết trở nên ấm hơn, Bạn H. đã treo một số vải bạt để che trường học của ông. Các con của ông đến rất đều đặn để học và đọc Cầu Nguyện vào ban đêm. Thuyền Trưởng W. rất vui thích với chúng. Thuyền Trưởng M. rất khích lệ các Lính học đọc và viết; đến nỗi chúng tôi bắt đầu sống đều đặn như chúng tôi mong muốn khi ở trên bờ. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Ngợi khen Đức Chúa Trời vì đã khiến quyền năng của Ngài được biết đến."]
+
+Mặc dù Đức Chúa Trời ban cho tôi nhiều sự an ủi như vậy, nhưng Bạn Bè ở Anh của tôi hiếm khi ra khỏi tâm trí tôi; mặc dù vắng mặt về thân thể, tôi hiện diện với họ trong tâm linh. Nguyện CHÚA chỉ dẫn đường của tôi đến với họ, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "với phước hạnh của Phúc Âm bình an!"]
+
+Thứ Tư, ngày 22 tháng 3. Đã thấy một con Cá Voi lớn lăn và phun nước trong một thời gian dài, ở một khoảng cách ngắn từ Tàu của chúng tôi. Nó khiến tôi nhớ đến Bê-hê-mốt mà Gióp đã nói đến, và Lê-vi-a-than [NEEDS REVIEW: câu bị hỏng trong OCR]. Ôi Đức Chúa Trời, ai giống như Ngài?
+
+Thứ Năm, ngày 23 tháng 3. Sáng nay, chúng tôi [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đã bắt đầu có Cầu Nguyện lúc sáu giờ"], [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "trở nên đều đặn hơn mỗi ngày"]. Đức Chúa Trời được ngợi khen!
+
+Đã rất nhiệt thành trong Cầu Thay cho Bạn Bè vắng mặt và toàn thể Nhân Loại. Ôi, Cầu Thay là một bài tập thú vị nhất! Nó làm ngọt ngào và thanh tẩy tấm lòng biết bao!
+
+Đã thăm gần mười hai hoặc mười bốn người bệnh; và tuy nhiên, lòng thương xót của Đức Chúa Trời đối với tôi là như vậy, mặc dù nơi họ nằm rất chật hẹp, và họ lây sốt cho nhau, nhưng Đức Chúa Trời giữ tôi khỏi bị lây nhiễm. Con đường của bổn phận là con đường của sự an toàn. Giờ đây, Đức Chúa Trời đã gửi sự thăm viếng của Ngài ra nước ngoài giữa chúng tôi, tôi hy vọng chúng tôi sẽ học sự công chính.
+
+Thứ Sáu, ngày 24 tháng 3. Hôm nay, người Bệnh vẫn tăng lên, và Bạn H. đã rất sẵn lòng giúp đỡ và mang đến cho họ. Không có gì hữu ích hơn việc thăm giường bệnh? [NEEDS REVIEW: một đoạn bị hỏng trong OCR.]
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như "Vẫn có lý do mới để chúc tụng Đức Chúa Trời về sự thành công của [NEEDS REVIEW]. Vinh hiển thuộc về CHÚA!"]
+
+[NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Chúng tôi bắt đầu sống hạnh phúc trên tàu đến nỗi tôi [NEEDS REVIEW]."]
+
+Đã đi một trăm năm mươi bốn dặm trong hai mươi bốn giờ qua. Và đã rất vui khi thấy nhiều Cá Heo chơi đùa xung quanh Tàu, một con trong số đó Thuyền Trưởng [NEEDS REVIEW: chữ cái bị hỏng trong OCR] đã bắt được; và một phần gan của nó, chúng tôi đã nấu cho bữa trưa. Nó có đầu rất giống Heo, và dài khoảng sáu bộ. Các công việc của CHÚA vô cùng vĩ đại, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "được tìm kiếm bởi mọi người có niềm vui trong đó"].
+
+Đã làm lễ tạ ơn cho một Người Phụ Nữ vừa mới [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "sinh một đứa con đã chết"], và sau đó đã đưa cho bà một Lời Khuyên Bảo áp dụng cho hoàn cảnh của bà. Đức Chúa Trời ban cho bà có thể áp dụng nó vào lòng bà!
+
+Chủ Nhật, ngày 26 tháng 3. Ngày nay, tôi tin rằng Đức Chúa Trời đã tôn vinh quyền năng của Ngài trong sự cải đạo của một Quý Ông trẻ trên tàu, người mà Ngài đã vui lòng thăm viếng bằng một cơn sốt. Những sự thuyết phục của anh ta rất mạnh mẽ, và, theo như tôi có thể thấy, một sự đổi mới triệt để đã bắt đầu trong lòng anh ta. Nguyện CHÚA tốt lành hoàn thiện nó cho đến ngày anh ta qua đời. Giờ đây, Đức Chúa Trời bắt đầu cho tôi thấy tại sao Ngài đã gửi tôi. Ôi, nguyện tôi khiêm nhường, để tôi có thể [NEEDS REVIEW: câu bị hỏng trong OCR]!
+
+Đã giảng một Bài Giảng [NEEDS REVIEW: câu bị hỏng trong OCR] về Lu-ca 3: "Và các Lính cũng đến với ông, và hỏi, nói rằng: Chúng tôi phải làm gì? Và ông nói với họ: Đừng hà hiếp ai, cũng đừng vu cáo ai cách giả dối, và hãy bằng lòng với tiền lương của các ngươi." Tôi đã giảng nó theo yêu cầu của Thuyền Trưởng M., người dường như nghiêm túc về công việc lớn lao của sự cứu rỗi của ông. Ông đã đọc [NEEDS REVIEW: tựa sách bị hỏng trong OCR — có lẽ "Một Cơ Đốc Nhân Thật"], và giờ đây đang đọc [NEEDS REVIEW: tựa sách bị hỏng trong OCR — có lẽ "các sách của Law"]. Những cuốn sách đáng giá bằng vàng, và Đức Chúa Trời đã chúc tụng chúng cho sự cải đạo của nhiều người. Nhưng sách là gì nếu không có [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Thánh Linh của Ngài"]?
+
+Đã đổi một số sách xấu trên tàu (mà tôi đã ném ngay xuống biển) lấy một số sách tốt, ngợi khen Đức Chúa Trời; tất cả những gì tôi đã thấy họ có, cho đến nay, đều đã sẵn lòng từ bỏ chúng. Và tôi thấy qua kinh nghiệm hằng ngày ngày càng nhiều rằng những người thật sự được đánh thức đến cảm nhận về Đời Sống Thiêng Liêng, không thể chịu đựng đọc bất cứ điều gì tầm thường; nhưng vứt bỏ những cuốn sách vô dụng của họ, như những người đã làm với những cuốn sách [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "ma thuật", Công Vụ 19:19].
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về đêm qua, Đức Chúa Trời đã vui lòng lấy đi một Cậu Bé da đen của Thuyền Trưởng sau khi cậu đã bị bệnh sốt dữ dội trong một số ngày. Cậu chưa bao giờ được rửa báp-têm, nhưng tôi đã có ủy quyền từ Chủ của cậu, người dường như rất xúc động bởi cái chết của cậu, để hướng dẫn, và rửa báp-têm cho cậu, nếu Đức Chúa Trời vui lòng cho cậu hồi phục; nhưng Đức Chúa Trời thấy thích hợp để sắp đặt khác. Ý muốn thánh của Ngài được thực hiện. Khoảng mười giờ sáng, cậu đã được khâu trong một chiếc võng và ném xuống biển. Tôi không thể đọc Nghi Thức trên cậu vì cậu chưa được rửa báp-têm, nhưng Thuyền Trưởng V. đã ra lệnh đánh trống, và tôi đã khuyên bảo tất cả các Lính, Thủy Thủ, v.v., như Đức Chúa Trời đã ban cho tôi lời nói, hãy nhớ đến Đấng Tạo Hóa của mình trong những ngày tuổi trẻ, và chuẩn bị cho thời gian đó, khi biển sẽ trả lại những người chết của nó, và mọi quốc gia sẽ được kêu gọi xuất hiện trước [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "ngai phán xét của Đức Chúa Trời"]. Ôi, nguyện họ có thể được khôn ngoan bởi điều đó!]
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như "Nếu vùng đất phước hạnh của chúng ta đã ở đây, tôi tin rằng ông sẽ thấy sự tàn phá mà tội lỗi đã gây ra giữa chúng ta. Lạy CHÚA, xin dạy chúng tôi đếm các ngày của chúng tôi, để chúng tôi áp dụng lòng mình vào sự khôn ngoan."]
+
+Thứ Ba, ngày 28 tháng 3. Ngày nay, Thuyền Trưởng M. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đã bắt đầu"] đến và tham gia Cầu Nguyện trên boong tàu, thay vì có Cầu Nguyện trong khoang lớn. Chắc chắn các Lính của chúng tôi sẽ không có cớ, vì Thuyền Trưởng của họ dẫn dắt một tấm gương tốt như vậy. Ngợi khen Đức Chúa Trời, tôi không có lý do gì để phàn nàn về [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "việc họ đến Cầu Nguyện hai lần một ngày"], [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "trong sự hòa hợp và bình an hoàn hảo, yêu thương và được yêu thương lẫn nhau"]. Chắc chắn, Bạn Bè của tôi, lời cầu nguyện của các bạn đã được nghe. Hãy tiếp tục khẩn thiết trong chúng, và các bạn sẽ thấy những điều lớn lao hơn nữa. Vì Đức Chúa Trời vui thích trong sự thịnh vượng của các đầy tớ Ngài.
+
+Thứ Tư, ngày 29 tháng 3. Đã đi gần một trăm sáu mươi dặm mỗi hai mươi bốn giờ, trong nhiều ngày, thời tiết vô cùng dễ chịu; và đã có nhiều [NEEDS REVIEW: câu bị hỏng trong OCR].
+
+> Thiên đàng, hỡi CHÚA thân yêu, là nơi nào Ngài ở.
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Xin đừng bao giờ rời khỏi chúng tôi,"]
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Linh hồn tôi, đó là địa ngục khi"]
+> Nhưng trong một khoảnh khắc không có Ngài!
+
+[NEEDS REVIEW: ngày bị mất trong OCR — theo lịch, là Thứ Năm, ngày 30 tháng 3.] Vẫn có thêm bằng chứng về một sự cải đạo [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "thật"] đang được thực hiện trong một số người trên Tàu. Tôi hy vọng nhiều người trong chúng tôi sẽ có lý do để chúc tụng Đức Chúa Trời vì đã lên tàu Whitaker. Đức Chúa Trời ban cho, trong khi tôi giảng cho người khác, chính tôi có thể không bị loại bỏ. Nhưng Đức Chúa Trời là Tình Yêu, và Ngài sẽ không, nếu mắt tôi đơn thuần, để phước lành của Ngài hủy diệt tôi. Ôi, nguyện quyền năng của Ngài được thể hiện trong việc bảo toàn tôi, ngay cả tôi luôn luôn, hỡi Đấng Cứu Rỗi của tôi!
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về một đứa trẻ được hỏi có thể đọc Cầu Nguyện của mình không, nó đã trả lời [NEEDS REVIEW]; và về một bài thánh ca:]
+
+> Hãy đổi mới hình ảnh của Ngài, Lạy CHÚA, trong tôi,
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Nguyện tôi dịu dàng và hiền lành"]
+> Không có sự quyến rũ nào ngoài những điều này đối với Ngài là quý giá;
+> Không có sự giận dữ nào [NEEDS REVIEW: câu bị hỏng trong OCR]
+> Không có sự kiêu ngạo nào trong tâm trí không bị vấy bẩn của tôi,
+> Nhưng đức tin và bình an từ trời sinh ra ở đó;
+> Một tâm trí kiên nhẫn, chiến thắng,
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Quên đi mọi thứ phía sau"]
+> Vươn ra vâng lời lời kêu gọi của Ngài;
+> Một tấm lòng mà không mong muốn nào có thể [NEEDS REVIEW: câu bị hỏng]
+> Nhưng vẫn tôn thờ, ngợi khen, và [NEEDS REVIEW: câu bị hỏng]
+> Xin ban cho tôi, Lạy CHÚA của tôi, đời sống của tôi, [NEEDS REVIEW: câu bị hỏng]
+
+Thứ Sáu, ngày 31 tháng 3. Hôm nay là sự đóng đinh của CHÚA phước hạnh của chúng ta, tôi đã giảng một Bài Giảng về Tên Trộm Ăn Năn, và hy vọng Đức Chúa Trời đã ban phước cho nó. Chúng tôi đã bắt đầu Cầu Nguyện muộn hơn [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "thường lệ"], đến nỗi trước khi tôi kết thúc, bóng tối đã bao phủ chúng tôi, điều này đã khiến tôi nhớ đến bóng tối đã bao phủ thế gian, khi Đức Chúa Trời của thiên nhiên chịu khổ. Ôi, nguyện lòng chúng tôi rách ra như những tảng đá, và linh hồn chúng tôi trỗi dậy từ cái chết của [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "tội lỗi"] như thân thể của những Thánh Đồ đó đã trỗi dậy từ mồ mả của họ [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "và đi vào Thành Thánh"], sau sự phục sinh của CHÚA chúng ta.
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về một đứa trẻ khoảng bốn tuổi, từ chối đọc Kinh Lạy Cha. Người mẹ không thể khiến nó làm. Sau đó, tôi đã [NEEDS REVIEW: câu bị hỏng — có lẽ "giữ chân nó và ép nó xuống"]. Sau đó, tôi bảo nó đọc Kinh Lạy Cha; (được mẹ nó cho biết rằng nó biết nếu nó muốn) nhưng nó đã từ chối, cho đến khi cuối cùng tôi đã cho nó một số Quả Sung làm phần thưởng. Và đứa trẻ này, mặc dù không quá bốn tuổi, đã đến boong tàu vào ban đêm, khi những đứa trẻ khác đến đọc Cầu Nguyện của chúng cho Bạn H. của tôi, và đã bật khóc thành dòng nước mắt, và không chịu đi cho đến khi nó cũng đã đọc. Tôi nhắc đến điều này vì sự cần thiết của việc sửa chữa sớm: Trẻ em nhạy cảm với điều đó sớm hơn Cha Mẹ tưởng tượng. Và nếu họ chỉ có quyết tâm phá vỡ ý chí của chúng một cách triệt để khi còn trẻ, công việc cải đạo sẽ dễ dàng hơn nhiều, và họ sẽ không bị phiền toái với những đứa trẻ ngang bướng khi chúng đã lớn.]
+
+[NEEDS REVIEW: ngày bị mất trong OCR — theo lịch, là Thứ Bảy, ngày 1 tháng 4. Phần lớn mục này đã bị mất — chỉ còn lại các đoạn rời rạc: dường như về "sự đặt tay lần thứ hai", [NEEDS REVIEW: câu bị hỏng]; "đã tốt hơn vô hạn, đã có lý do để nghĩ rằng nhiều người đã tiến lên trong công việc lớn lao của sự cứu rỗi của họ. Ôi, nguyện chúng tôi có thể được chôn cùng [Đấng Christ bằng] Báp-têm, và sống lại cùng Ngài để [NEEDS REVIEW: câu bị hỏng — có lẽ "sự mới mẻ của đời sống"]."]
+
+Chủ Nhật, ngày 2 tháng 4. Dậy sớm sáng nay, và hiệp nhất trong tâm linh với Bạn Bè vắng mặt thân yêu của tôi, những người đang lãnh nhận [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Bí Tích Thánh"], và kỷ niệm [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "sự phục sinh của CHÚA phước hạnh của chúng ta"].
+
+[NEEDS REVIEW: các mục nhật ký từ ngày 3 đến 15 tháng 4 phần lớn đã bị mất trong OCR. Đoạn sau đây còn sót lại — dường như thuộc về tối ngày 2 hoặc 3 tháng 4.]
+
+... đã thi hành một chút kỷ luật tối nay đối với một Cậu Bé, mà Thuyền Trưởng M. đã để ý hơn một tuần trước vì cư xử không tốt tại Nhà Thờ, và nói rằng ông sẽ giao cậu cho tôi. Vì vậy, theo lời khuyên của Chủ của cậu, tôi đã ra lệnh trói cậu lại, cho đến khi cậu có thể đọc Thi Thiên 51, mà cậu đã đọc lại tối nay một cách rất trang trọng giữa Hội Chúng. Nguyện điều đó là một lời cảnh báo [NEEDS REVIEW: câu bị hỏng trong OCR].
+
+Chủ Nhật, ngày 16 tháng 4. Đọc Cầu Nguyện và giảng giải lúc sáu giờ sáng [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đã giảng cho dân của tôi"]. Sau đó, đã đi và giảng trên tàu Lightfoot; và sau đó đã ăn trưa, đọc Cầu Nguyện, và giảng trên tàu Amy. Trở về khoảng năm giờ chiều đến tàu Whitaker; đọc Cầu Nguyện và [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "giảng"], và đi ngủ, chúc tụng Đức Chúa Trời.
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc được gọi bởi một Thủy Thủ, người đã là một kẻ chửi thề khét tiếng trên tàu; và người mà tôi đã cảnh báo một cách [NEEDS REVIEW] khoảng hai ngày trước, nói với anh ta rằng tôi tin Đức Chúa Trời sẽ thăm viếng anh ta một cách đáng chú ý, cũng như những người khác. Anh ta đã cười, và [NEEDS REVIEW: câu bị hỏng]. Nhưng tối nay, anh ta [NEEDS REVIEW: câu bị hỏng — có lẽ "bị sốt"], đã xuống giữa các boong tàu một hoặc hai lần để gặp anh ta. Và tôi đã dùng lời cầu nguyện cuối cùng nhiều lần. Khoảng chín giờ [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "anh ta đã cảm nhận được sự khốn khổ của con người sa ngã"]. [NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc anh ta bị sốt, thú nhận những tội lỗi nghiêm trọng của mình, và cầu nguyện [NEEDS REVIEW] cho sự ăn năn. Hai hoặc ba người khác đã bị bắt cùng cách. Đức Chúa Trời [NEEDS REVIEW: câu bị hỏng — có lẽ "cứu chúng ta khỏi cơn thịnh nộ sắp đến"]. Tội nhân [NEEDS REVIEW: câu bị hỏng].]
+
+Thứ Ba, ngày 18 tháng 4. [NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc thấy những vòi rồng nước, chạy [NEEDS REVIEW] trong khoảng sáu phút xung quanh [NEEDS REVIEW]. Nhưng [NEEDS REVIEW: câu bị hỏng — có lẽ "Sự Quan Phòng của Đức Chúa Trời đã bảo vệ chúng tôi"]. [NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về một quyền năng cai trị tối cao.]
+
+[NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về gió trong những ngày qua: đôi khi [NEEDS REVIEW] dặm, đôi khi một trăm dặm trong hai mươi bốn giờ. [NEEDS REVIEW: câu bị hỏng — có lẽ "Đức Chúa Trời gửi cho chúng tôi những cơn gió mạnh nhất khi chúng tôi gần cảng nhất"]. Nguyện từ đó rút ra một bài học hướng dẫn; và càng gần bến cảng nghỉ ngơi đời đời của tôi, tôi càng di chuyển nhanh hơn!]
+
+Dành phần lớn [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "những ngày này để viết thư cho Bạn Bè ở Anh"], và đặc biệt [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "suy nghĩ về cách hành động trong vùng đất tôi sắp đến"]. Những suy nghĩ về sự yếu đuối của chính tôi, và những [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "khó khăn lớn"] mà tôi nhất thiết phải gặp, lấp đầy tôi với một nỗi sợ thánh. Nhưng tại sao tôi lại sợ hãi? [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Đấng đã dẫn dắt tôi cho đến nay sẽ không bỏ rơi tôi!"]
+
+Chủ Nhật, ngày 23 tháng 4. Giảng hai lần cho dân của tôi [NEEDS REVIEW: phần lớn mục này đã bị mất trong OCR — chỉ còn lại các đoạn rời rạc về "công việc còn lại của [NEEDS REVIEW] trong cầu nguyện" và "sự giúp đỡ thiêng liêng trong [NEEDS REVIEW] của tôi"].
+
+[NEEDS REVIEW: các mục nhật ký từ ngày 24 đến 30 tháng 4 phần lớn đã bị mất trong OCR. Đoạn sau đây còn sót lại — dường như thuộc về ngày 1 tháng 5.]
+
+Thứ Hai, ngày 1 tháng 5. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Hôm nay"] bị giam trong giường một tuần [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "vì bệnh, mà tất cả ngoại trừ ba hoặc bốn người trong Tàu đều đã bị thăm viếng"]. Tôi đã được chích máu ba lần, và dán cao một lần và nôn một lần, và, ngợi khen Đức Chúa Trời, tôi có thể nói: Thật tốt cho tôi khi tôi đã bị đau khổ. [NEEDS REVIEW: một đoạn bị hỏng trong OCR — dường như về việc các sự thăm viếng của Đức Chúa Trời càng dồi dào hơn, khiến tôi vui mừng với niềm vui không thể nói hết và đầy dẫy Vinh Hiển. Sa-tan đã muốn sàng sảy chúng tôi như lúa mì, nhưng Đấng Christ đã cầu nguyện cho tôi, và đức tin của tôi đã không thất bại. Tôi đã có mọi tiện nghi tôi có thể mong muốn! Thuyền Trưởng [NEEDS REVIEW: chữ cái bị hỏng trong OCR] đã [NEEDS REVIEW: câu bị hỏng]; J. D. và Bạn H. đã thức cùng tôi mỗi [NEEDS REVIEW: câu bị hỏng] để làm cho bệnh tật của tôi thoải mái. Ngợi khen Đức Chúa Trời về những lòng thương xót dồi dào này trong Đấng Christ.]
+
+Tôi hy vọng giờ đây tôi sẽ [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đồng cảm với những người bệnh"], và học cách trở nên dịu dàng hơn đối với Anh Em Cơ Đốc của tôi. Tôi giờ đây đã được chữa lành. Nguyện tôi không phạm tội nữa, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "hãy khiêm nhường hơn trong tâm linh, phục vụ CHÚA"], kẻo một điều ác tệ hơn xảy đến với tôi.
+
+Thứ Sáu, ngày 5 tháng 5. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Lúc mười giờ sáng nay"] đã chôn cất Người Đầu Bếp của Tàu, người đã chết đêm qua. Tôi đã có thể [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "mong muốn đã gióng lên một tiếng chuông báo động lớn"], nhưng [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "sự yếu đuối của thân thể tôi chỉ vừa đủ cho phép tôi đọc Nghi Thức"]. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đọc Nghi Thức cho Dân Chúng"].
+
+Lạy CHÚA, con người là gì? Ôi, tại sao những người khác bị lấy đi và tôi được để lại, ngoài việc sự nhẫn nại lâu dài của Đức Chúa Trời nên dẫn tôi đến sự ăn năn? Nguyện điều đó xảy ra, hỡi CHÚA, vì Con yêu dấu của Ngài!
+
+Buổi chiều, đã rửa báp-têm riêng tư cho một Đứa Trẻ Sơ Sinh. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Thật vậy, hãy xem những người khác đang ra khỏi thế gian liên tục. Đức Chúa Trời tốt lành! Ai có thể mong muốn sống ở đây mãi mãi?"] Chiều nay, sau khi đã nằm khoảng một tuần trên bờ biển này, chúng tôi đã thấy Sông Savannah, và đã gửi đi tìm một Người Hoa Tiêu. Ôi, niềm vui nào đã xuất hiện trên khuôn mặt của mọi người! Niềm vui vô hạn hơn nữa sẽ là của con cái Đức Chúa Trời, khi đã vượt qua những con sóng của thế gian đầy rắc rối này, họ đến [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "bến cảng của sự nghỉ ngơi đời đời"]! Hãy mau đến, hỡi CHÚA, thời gian phước hạnh đó, và để Vương Quốc của Ngài đến!
+
+Chủ Nhật, ngày 7 tháng 5. Đêm qua, bởi phước lành của Đức Chúa Trời, chúng tôi đã [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "neo"] gần Đảo Tybee, cách Savannah khoảng mười bốn dặm; và hôm nay Đức Chúa Trời đã cho tôi giảng Bài Giảng chia tay của tôi, (mà tôi đã gửi cho các bạn,) tại đó nhiều người đã khóc. Sau đó, tôi đã lên thuyền cùng Bạn H. của tôi và đã đến Savannah an toàn, có một chuyến đi vô cùng dễ chịu, khoảng bảy [NEEDS REVIEW: từ bị hỏng trong OCR — có lẽ "tuần"].
+
+"Đức Chúa Trời vui lòng đối xử với tôi ở đó như thế nào, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "sẽ được kể trong phần tiếp theo"]."
+
+Trong khi đó, [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "đừng quên dâng lời tạ ơn về những lòng thương xót tôi đã nhận được"]. [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Chuyến đi vô cùng dễ chịu. Đức Chúa Trời, trong sự yếu đuối của tôi, đã gửi cho tôi nhưng ít thử thách; và những thử thách Ngài đã gửi"]. Tôi giờ đây sắp đi [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "giữa bầy sói"]; nhưng Đấng đã bảo vệ Áp-ra-ham khi ông ra đi mà không biết mình đi đâu, cũng sẽ hướng dẫn tôi. Tôi không thể kết thúc phần này của Nhật Ký của tôi tốt hơn bằng bản dịch Thi Thiên 23 của ông Addison:
+
+> [NEEDS REVIEW: bản dịch Thi Thiên 23 của Addison — phần lớn đã bị hỏng trong OCR. Các đoạn còn sót lại:]
+>
+> CHÚA sẽ chuẩn bị [NEEDS REVIEW: câu bị hỏng — có lẽ "đồng cỏ của tôi"],
+> Và cho tôi ăn [NEEDS REVIEW: câu bị hỏng — có lẽ "suốt cả ngày"];
+> Sự hiện diện của Ngài sẽ cung cấp, [NEEDS REVIEW: câu bị hỏng]
+> Và bảo vệ tôi bằng một [NEEDS REVIEW: câu bị hỏng — có lẽ "con mắt cảnh giác"].
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Những bước đi buổi trưa của tôi sẽ"]
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Và những giờ nửa đêm của tôi"]
+> [NEEDS REVIEW: câu bị hỏng trong OCR]
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Hoặc trên núi khô cằn"]
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Đến thung lũng và đồng cỏ màu mỡ"]
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Ngài dẫn dắt những bước đi lang thang mệt mỏi của tôi"];
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Và dẫn tôi đi"]
+> [NEEDS REVIEW: câu bị hỏng trong OCR — có lẽ "Trong các đường lối của sự công chính"]
+> Với những nỗi kinh hoàng u ám bao phủ, [NEEDS REVIEW: câu bị hỏng]
+> Lòng kiên định của tôi sẽ [NEEDS REVIEW: câu bị hỏng — có lẽ "không sợ hãi"],
+> Vì Ngài, hỡi CHÚA, ở cùng tôi.
+
+---
+
+## TRANSLATION STATUS
+
+- **Tác phẩm:** "A Journal of a Voyage from London to Savannah in Georgia. In Two Parts. Part I. From London to Gibraltar. Part II. From Gibraltar to Savannah" — George Whitefield, ấn bản thứ năm, Luân Đôn: in cho James Hutton, 1739. Nhật Ký ghi lại chuyến đi ra nước ngoài đầu tiên của Whitefield, từ khi rời Luân Đôn (thứ Tư, ngày 28 tháng 12 năm 1737) đến khi đến Savannah (Chủ Nhật, ngày 7 tháng 5 năm 1738).
+- **Tính đầy đủ:** Tác phẩm thật gồm trang tựa + Lời Tựa ngắn của nhà in James Hutton (ký ngày 18 tháng 8 năm 1738) + toàn bộ Nhật Ký gồm hai phần, kết thúc bằng bản dịch Thi Thiên 23 của ông Addison. Không có FINIS trong bản scan; văn bản kết thúc đầy đủ bằng bài thánh ca Thi Thiên 23. Dòng "Đức Chúa Trời vui lòng đối xử với tôi ở đó như thế nào" là câu chuyển tiếp sang Nhật Ký Tiếp Theo (#582), không phải là phần bị thiếu của tác phẩm này.
+- **Phân biệt với các nhật ký khác:** Tác phẩm này là chuyến đi RA NGOÀI (Luân Đôn → Savannah, tháng 12 năm 1737 – tháng 5 năm 1738). #582 là Nhật Ký Tiếp Theo (từ khi đến Savannah đến khi trở về Luân Đôn); #330 là phần bổ sung cho #582; #362 là Nhật Ký trong thời gian bị Lệnh Cấm Tàu giữ lại Anh (tháng 6–8 năm 1739); #814 là nhật ký năm 1740. Không trùng lặp với bất kỳ tác phẩm nào trong số đó.
+- **Lời Tựa của Hutton:** Lời Tựa ngắn là của nhà in James Hutton (người được Whitefield ủy quyền in ấn), không phải của Whitefield. Lời Tựa giải thích ấn bản này được in để thay thế bản sao lậu của Cooper, và được dịch như phần mở đầu của ấn bản, với tác giả được ghi rõ.
+- **Lịch:** Các ngày trong nhật ký theo lịch Julian (lịch cũ) đang dùng ở Anh thời đó (Anh chỉ chuyển sang lịch Gregorian vào tháng 9 năm 1752). Ngày 28 tháng 12 năm 1737 (Julian) = ngày 8 tháng 1 năm 1738 (Gregorian). Ngày 20 tháng 2 được ghi là "1737" theo cách tính năm cũ (năm mới bắt đầu ngày 25 tháng 3), tức 1738 theo cách tính hiện đại. Hai ngày đã được sửa theo lịch với ghi chú [NEEDS REVIEW]: ngày 2 tháng 2 OCR đọc "Thứ Sáu" nhưng theo lịch là Thứ Năm; mục "Thứ Bảy, tháng 2" có số ngày bị mất, được xác định là ngày 4 tháng 2.
+- **Mất mát trong OCR:** Bản OCR nguồn bị hỏng nặng suốt toàn văn (chữ ſ dài, dòng vỡ, đoạn rác, tiêu đề bị xáo trộn). Các mục nhật ký sau đây phần lớn đã bị mất và chỉ còn lại các đoạn rời rạc, đã được dịch tới mức đọc được và đánh dấu rõ: ngày 15–18 tháng 1; ngày 26–28 tháng 1; ngày 1 tháng 2; ngày 8–18 tháng 3; ngày 3–15 tháng 4; ngày 17–22 tháng 4; ngày 24–30 tháng 4. Các đoạn rời rạc còn sót lại đã được dịch tới mức đọc được; không có đoạn nào được bịa thêm. Bản dịch Thi Thiên 23 của Addison ở cuối sách phần lớn đã bị hỏng trong OCR — chỉ dịch những dòng đọc được, phần còn lại được nêu rõ là mất.
+- **Phương pháp:** Những lỗi hiển nhiên đã được sửa lặng lẽ theo mạch văn. Những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW], không bịa thêm. Tên riêng giữ nguyên dạng Anh (Whitaker, Gibraltar, Savannah, Deptford, Gravesend, Purfleet, Greenhithe, Nore, Margate, Deal, Shroulden, Tybee). Các nhân vật được nhắc đến bằng chữ cái đầu trong bản gốc (ông H., ông F. H., ông C. W., ông N. H., Thuyền Trưởng V., Thuyền Trưởng M., Thuyền Trưởng W., Đại Tá C., Thống Đốc S., Tướng Quân C., Bác Sĩ C., Thiếu Tá S., Thương Gia B., ông D., ông R., ông E., ông A.) được giữ nguyên như bản in, vì bản gốc đã ẩn danh họ.
+- **Nguồn:** Bản scan ấn bản 1739 (ấn bản thứ năm). Bản OCR của archive.org bị hỏng nặng; bản dịch dựa trên bản OCR đó, với các chỗ hỏng được đánh dấu. Nguồn tiếng Anh: 25.353 chữ (theo `wc -w`; con số ~22.905 trong hướng dẫn là thấp hơn, vì OCR chứa nhiều ký tự rác và trang lặp).
+
+## TERMINOLOGY ISSUES
+
+- **Thuật ngữ:** Bảng thuật ngữ cố định được áp dụng xuyên suốt. "Journal" = "Nhật Ký"; "Voyage" = "Chuyến Đi"; "Savannah" giữ nguyên; "Gibraltar" giữ nguyên; "Sacrament" = "Bí Tích"; "Communion" = "Sự Thông Công / Tiệc Thánh" theo ngữ cảnh; "Intercession" = "Cầu Thay"; "Providence" = "Sự Quan Phòng"; "New Birth" = "Sự Tái Sinh"; "Catechism" = "Giáo Lý Vấn Đáp"; "Creed" = "Tín Điều"; "Conviction" = "Sự Thuyết Phục / Sự Kết Tội" theo ngữ cảnh; "Conversion" = "Sự Cải Đạo"; "Methodist" = "Người theo Phương Pháp"; "Popery" = "Giáo Hoàng"; "Deserter" = "Kẻ Đào Ngũ"; "Churching" = "Lễ Tạ Ơn sau sinh" (dịch theo nghĩa).
+- **Vấn đề thuật ngữ:** Các bài thánh ca trích dẫn trong nhật ký (Thánh Ca Thi Thiên 42, 46, 23 của Watts/Addison và các bài thánh ca khác) được dịch theo nghĩa, không theo bản dịch thánh ca Việt Nam hiện có, vì bản gốc là bản dịch thơ tiếng Anh của thế kỷ 18. Tên tàu "Whitaker" và "Amy", "Lightfoot" giữ nguyên. "Cæna Dubia" giữ nguyên tiếng La-tinh kèm dịch nghĩa "bữa ăn không chắc chắn". "Divide et Impera" giữ nguyên tiếng La-tinh kèm dịch nghĩa "chia rẽ và cai trị".
+- **NEEDS REVIEW còn lại:** Các đoạn được đánh dấu [NEEDS REVIEW] trong thân bài — tất cả đều là những chỗ bản OCR bị hỏng không đọc được, chờ soát lần cuối.

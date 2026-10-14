@@ -9390,5 +9390,985 @@
   "author": "Thomas Goodwin",
   "by": "Muse",
   "reviewed": false
+ },
+ {
+  "id": "1000-041-heir-followeth-the-coppie-of-the-ressoning-knox",
+  "file": "1000-041-heir-followeth-the-coppie-of-the-ressoning-knox.txt",
+  "title": "Bản Sao Cuộc Tranh Luận Với Viện Trưởng Crossraguel",
+  "orig": "Heir followeth the coppie of the ressoning which was betuix the Abbote of Crossraguell and John Knox, in Mayboill concerning the Masse, in the yeare of God, a thousand five hundreth thre scoir and two",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 28947
+ },
+ {
+  "id": "1000-072-loving-hearts-and-happy-homes-watson",
+  "file": "1000-072-loving-hearts-and-happy-homes-watson.txt",
+  "title": "Trái Tim Yêu Thương Và Mái Ấm Hạnh Phúc",
+  "orig": "Loving Hearts and Happy Homes",
+  "author": "T. Watson",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 7017
+ },
+ {
+  "id": "1000-088-of-the-happiness-of-princes-goodwin",
+  "file": "1000-088-of-the-happiness-of-princes-goodwin.txt",
+  "title": "Hạnh Phúc Của Các Vua Được Chúa Dẫn Dắt",
+  "orig": "Of the Happiness of Princes led",
+  "author": "Thomas Goodwin of Pinner",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 7650
+ },
+ {
+  "id": "1000-110-the-present-day-conception-of-evolution-warfield",
+  "file": "1000-110-the-present-day-conception-of-evolution-warfield.txt",
+  "title": "Quan Niệm Hiện Nay Về Thuyết Tiến Hóa",
+  "orig": "The Present Day Conception of Evolution",
+  "author": "Benjamin Breckinridge Warfield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 7195
+ },
+ {
+  "id": "1000-112-morality-and-religion-hodge",
+  "file": "1000-112-morality-and-religion-hodge.txt",
+  "title": "Đạo Đức Và Tôn Giáo",
+  "orig": "Morality and Religion",
+  "author": "Archibald Alexander Hodge",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 5511
+ },
+ {
+  "id": "1000-115-the-duty-of-watchfulness-enforced-romaine",
+  "file": "1000-115-the-duty-of-watchfulness-enforced-romaine.txt",
+  "title": "Bổn Phận Tỉnh Thức Được Thúc Giục",
+  "orig": "The Duty of Watchfulness enforced. In a Discourse, Preached December 14, 1755, being the Third Sunday in Advent, at St. Dunstan's in the West. The Third Edition",
+  "author": "William Romaine",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 11379
+ },
+ {
+  "id": "1000-116-our-danger-and-our-duty-thornwell",
+  "file": "1000-116-our-danger-and-our-duty-thornwell.txt",
+  "title": "Nguy Hiểm Và Bổn Phận Của Chúng Ta",
+  "orig": "Our Danger and Our Duty",
+  "author": "James Henley Thornwell",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 7942
+ },
+ {
+  "id": "1000-121-the-baptist-catechism-keach",
+  "file": "1000-121-the-baptist-catechism-keach.txt",
+  "title": "Giáo Lý Vấn Đáp Báp-tít",
+  "orig": "The Baptist Catechism, commonly called Keach's Catechism: or, A Brief Instruction in the Principles of the Christian Religion",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8242
+ },
+ {
+  "id": "1000-122-the-serpents-beguiling-eve-explained-whitefield",
+  "file": "1000-122-the-serpents-beguiling-eve-explained-whitefield.txt",
+  "title": "Con Rắn Lừa Dối Ê-va Được Giải Nghĩa",
+  "orig": "The Serpent's beguiling Eve explained, considered, and applied to all under Temptation. A Sermon Preached at Blackheath, Newington, &c.",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8574
+ },
+ {
+  "id": "1000-123-christ-the-best-husband-whitefield",
+  "file": "1000-123-christ-the-best-husband-whitefield.txt",
+  "title": "Đấng Christ Là Người Chồng Tốt Nhất",
+  "orig": "Christ the Best Husband: Or an earnest Invitation to Young Women to come and see Christ. A Sermon Preached to a Society of Young Women, in Fetter-Lane",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8227
+ },
+ {
+  "id": "1000-124-the-indwelling-of-the-spirit-whitefield",
+  "file": "1000-124-the-indwelling-of-the-spirit-whitefield.txt",
+  "title": "Sự Ngự Trong Của Đức Thánh Linh",
+  "orig": "The Indwelling of the Spirit, the Common Privilege of All Believers. A Sermon Preached at the Parish-Church of Bexley",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9245
+ },
+ {
+  "id": "1000-125-light-in-darkness-watson",
+  "file": "1000-125-light-in-darkness-watson.txt",
+  "title": "Ánh Sáng Trong Bóng Tối",
+  "orig": "Light in Darkness; or, Deliverance of the Church, in the midst of all her Despondencies and Discouragements. A Sermon Preached",
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9429
+ },
+ {
+  "id": "1000-132-christ-the-only-preservative-against-a-reprobate-spirit-whitefield",
+  "file": "1000-132-christ-the-only-preservative-against-a-reprobate-spirit-whitefield.txt",
+  "title": "Christ, Đấng Bảo Vệ Khỏi Tâm Thần Bị Bỏ",
+  "orig": "Christ the only Preservative against a Reprobate Spirit. A Sermon Preached at Blackheath",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 10538
+ },
+ {
+  "id": "1000-134-a-sermon-preached-charnock",
+  "file": "1000-134-a-sermon-preached-charnock.txt",
+  "title": "Đức Chúa Trời Trong Đấng Christ Hòa Giải Thế Gian",
+  "orig": "A Sermon Preached ... on 2 Cor. V. XIX",
+  "author": "Stephen Charnock",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9961
+ },
+ {
+  "id": "1000-135-the-saint-and-the-sinner-plumer",
+  "file": "1000-135-the-saint-and-the-sinner-plumer.txt",
+  "title": "Người Thánh Và Kẻ Tội Lỗi",
+  "orig": "The Saint and the Sinner",
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8165
+ },
+ {
+  "id": "1000-137-a-sermon-preached-at-black-friars-burroughs",
+  "file": "1000-137-a-sermon-preached-at-black-friars-burroughs.txt",
+  "title": "Đặt Tình Cảm Vào Những Sự Ở Trên",
+  "orig": "A Sermon Preach'd at Black Friars, to a Society of Young Men, on January 1. 1715.",
+  "author": "Jeremiah Burroughs",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9874
+ },
+ {
+  "id": "1000-141-the-christian-soldier-dabney",
+  "file": "1000-141-the-christian-soldier-dabney.txt",
+  "title": "Người Lính Cơ Đốc",
+  "orig": "The Christian Soldier. A Sermon Commemorative of the Death of Abram C. Carrington",
+  "author": "Robert Lewis Dabney",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8743
+ },
+ {
+  "id": "1000-142-a-short-view-of-popery-burroughs",
+  "file": "1000-142-a-short-view-of-popery-burroughs.txt",
+  "title": "Sơ Lược Về Chủ Nghĩa Giáo Hoàng",
+  "orig": "A Short View of Popery: In a Sermon Preach'd at Black-Fryars, On November 5. 1715",
+  "author": "Jeremiah Burroughs",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8701
+ },
+ {
+  "id": "1000-146-false-doctrines-and-false-teachers-plumer",
+  "file": "1000-146-false-doctrines-and-false-teachers-plumer.txt",
+  "title": "Giáo Lý Sai Lầm Và Giáo Sư Giả",
+  "orig": "False Doctrines and False Teachers: How to Know Them, and How to Treat Them",
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9496
+ },
+ {
+  "id": "1000-151-a-post-script-to-the-late-letter-howe",
+  "file": "1000-151-a-post-script-to-the-late-letter-howe.txt",
+  "title": "Hậu Ký Về Sự Tiền Tri Của Đức Chúa Trời",
+  "orig": "Post-Script to the late Letter, of the Reconcileableness of God's Prescience, &c.",
+  "author": "John Howe",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9904
+ },
+ {
+  "id": "1000-153-the-doctrine-of-imputed-righteousness-without-works-gill",
+  "file": "1000-153-the-doctrine-of-imputed-righteousness-without-works-gill.txt",
+  "title": "Sự Công Chính Được Kể Không Cần Việc Làm",
+  "orig": "The Doctrine of Imputed Righteousness without Works Asserted and Proved",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 10028
+ },
+ {
+  "id": "1000-155-the-articles-of-the-faith-keach",
+  "file": "1000-155-the-articles-of-the-faith-keach.txt",
+  "title": "Các Điều Khoản Đức Tin",
+  "orig": "The Articles of the Faith of the Church of Christ, meeting at Horsley-down",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8964
+ },
+ {
+  "id": "1000-157-a-sermon-preached-july-2-watson",
+  "file": "1000-157-a-sermon-preached-july-2-watson.txt",
+  "title": "Sự Ngắn Ngủi Của Thời Gian",
+  "orig": "A Sermon Preached July 2, at the Funeral of Mr John Wells, Late Pastor of Olave-Jury, London",
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9776
+ },
+ {
+  "id": "1000-158-the-blessedness-of-the-dead-fuller",
+  "file": "1000-158-the-blessedness-of-the-dead-fuller.txt",
+  "title": "Phước Hạnh Của Người Chết Trong Chúa",
+  "orig": "The Blessedness of the Dead, who die in the Lord. A Sermon delivered at Kettering, in Northamptonshire, at the funeral of Mr. Beeby Wallis, who departed this life April 24, 1792",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8708
+ },
+ {
+  "id": "1000-160-the-prodigal-son-whitefield",
+  "file": "1000-160-the-prodigal-son-whitefield.txt",
+  "title": "Người Con Trai Hoang Đàng",
+  "orig": "The Prodigal Son. A Lecture, Preached on Friday Afternoon, September 11th, 1741, in the High-Church-Yard of Glasgow",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9090
+ },
+ {
+  "id": "1000-164-a-winding-sheet-for-popery-baxter",
+  "file": "1000-164-a-winding-sheet-for-popery-baxter.txt",
+  "title": "Tấm Vải Liệm Cho Chủ Nghĩa Giáo Hoàng",
+  "orig": "A Winding Sheet for Popery",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 10453
+ },
+ {
+  "id": "1000-173-a-sermon-preached-on-the-death-of-william-iii-goodwin",
+  "file": "1000-173-a-sermon-preached-on-the-death-of-william-iii-goodwin.txt",
+  "title": "Bài Giảng Về Cái Chết Của Vua William III",
+  "orig": "A Sermon Preached on the Sad Occasion of the Death of the Best of Kings, William the IIId. who Died in his own Palace at Kensington",
+  "author": "Thomas Goodwin of Pinner",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8754
+ },
+ {
+  "id": "1000-179-the-nature-and-necessity-of-our-new-birth-whitefield",
+  "file": "1000-179-the-nature-and-necessity-of-our-new-birth-whitefield.txt",
+  "title": "Bản Chất Và Sự Cần Thiết Của Sự Tái Sinh",
+  "orig": "The Nature and Necessity of our New Birth in Christ Jesus, in order to Salvation. A Sermon Preached in the Church of St. Mary Redcliffe",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 8998
+ },
+ {
+  "id": "1000-192-a-sermon-preached-in-st-pauls-deptford-newton",
+  "file": "1000-192-a-sermon-preached-in-st-pauls-deptford-newton.txt",
+  "title": "Bài Giảng Tưởng Niệm Mục Sư Conyers",
+  "orig": "A Sermon, Preached in the Parish Church of St. Paul's, Deptford, on Sunday, the 7th of May, 1786, on the Lamented Occasion of the Death of Richard Conyers, Late Rector of that Parish.",
+  "author": "John Newton",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 9778
+ },
+ {
+  "id": "1000-201-supplement-to-whitefields-answer-whitefield",
+  "file": "1000-201-supplement-to-whitefields-answer-whitefield.txt",
+  "title": "Phụ Lục Cho Lời Đáp Giám Mục Luân Đôn",
+  "orig": "Supplement to The Rev. Mr. Whitefield's Answer, to the Bishop of London's Last Pastoral Letter. Containing, I. Notes on the Pastoral Letter. II. A Remark on the Weekly Miscellany of August 18th, 1739;",
+  "author": "Một Người Bạn của Hội Thánh Anh",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 4873
+ },
+ {
+  "id": "1000-223-the-guilt-and-danger-of-such-a-nation-as-this-newton",
+  "file": "1000-223-the-guilt-and-danger-of-such-a-nation-as-this-newton.txt",
+  "title": "Tội Lỗi Và Nguy Hiểm Của Một Quốc Gia Như Thế",
+  "orig": "The Guilt and Danger of Such a Nation as This! A Sermon Preached in the Parish Church of St. Mary Woolnoth, on Wednesday, Feb. 21, 1781, the Day appointed for a General Fast.",
+  "author": "John Newton",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 12161
+ },
+ {
+  "id": "1000-224-short-remarks-annexed-to-justification-by-faith-alone",
+  "file": "1000-224-short-remarks-annexed-to-justification-by-faith-alone.txt",
+  "title": "Nhận Xét Ngắn Về Các Nguyên Tắc Giám Lý",
+  "orig": "Short Remarks upon the above-mention'd Pamphlet [The Principles and Practices of the Methodists Considered], with a Word or two upon Justification",
+  "author": "Vô danh",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 5120
+ },
+ {
+  "id": "1000-225-evangelical-worship-is-spiritual-worship-poole",
+  "file": "1000-225-evangelical-worship-is-spiritual-worship-poole.txt",
+  "title": "Thờ Phượng Tin Lành Là Thờ Phượng Thuộc Linh",
+  "orig": "Evangelical Worship is Spiritual Worship, As it was Discussed in a Sermon Preached before the Right Honourable the Lord Mayor, At St. Paul's Church, Aug. 26. 1660.",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 13207
+ },
+ {
+  "id": "1000-229-the-believers-golden-chain-whitefield",
+  "file": "1000-229-the-believers-golden-chain-whitefield.txt",
+  "title": "Sợi Dây Xích Vàng Của Người Tin",
+  "orig": "The Believers Golden Chain. A Farewel Sermon preached on Tuesday afternoon Sept. 15th, 1741, in the High-Church-Yard of Glasgow. By the Rev. Mr. George Whitefield. Taken from his own Mouth, and publis",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 11111
+ },
+ {
+  "id": "1000-264-the-best-wisdom-newton",
+  "file": "1000-264-the-best-wisdom-newton.txt",
+  "title": "Sự Khôn Ngoan Tốt Nhất",
+  "orig": "The Best Wisdom. A Sermon Preached in the Parish Church of St. Mary Woolnoth, on Wednesday, the 21st of November, 1787, the Day of the Annual Meeting of the Society for promoting Christian Knowledge a",
+  "author": "John Newton",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 14798
+ },
+ {
+  "id": "1000-319-a-sermon-preached-at-the-funeral-of-baxter",
+  "file": "1000-319-a-sermon-preached-at-the-funeral-of-baxter.txt",
+  "title": "Bài Giảng Tang Lễ Cho Mục Sư John Corbet",
+  "orig": "A Sermon Preached at the Funeral of that Faithful Minister of Christ Mr. John Corbet, With his True and Exemplary Character",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 20838
+ },
+ {
+  "id": "1000-323-two-sermons-upon-the-first-words-of-christs-last-sermon-sibbes",
+  "file": "1000-323-two-sermons-upon-the-first-words-of-christs-last-sermon-sibbes.txt",
+  "title": "Đừng Để Lòng Các Ngươi Bối Rối",
+  "orig": "Two Sermons upon the First Words of Christs Last Sermon, John XIV. 1",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 16748
+ },
+ {
+  "id": "1000-325-two-sermons-preached-at-thurlow-howe",
+  "file": "1000-325-two-sermons-preached-at-thurlow-howe.txt",
+  "title": "Hãy Dâng Mình Cho Đức Chúa Trời",
+  "orig": "Two Sermons Preached at Thurlow in Suffolk, On those words, Rom. 6. 13.",
+  "author": "John Howe",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 19288
+ },
+ {
+  "id": "1000-326-a-miracle-of-miracles-sibbes",
+  "file": "1000-326-a-miracle-of-miracles-sibbes.txt",
+  "title": "Phép Lạ Của Các Phép Lạ",
+  "orig": "A Miracle of Miracles, or Christ in our nature. Wherein is stated The Wonderfull Conception, Birth, and Life of Christ, who in the fulnesse of time was made man to satisfie divine Justice, and to make",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 17581
+ },
+ {
+  "id": "1000-327-a-sermon-of-repentance-baxter",
+  "file": "1000-327-a-sermon-of-repentance-baxter.txt",
+  "title": "Bài Giảng Về Sự Ăn Năn",
+  "orig": "A Sermon of Repentance, Preached before the Honourable House of Commons, Assembled in Parliament at Westminster, at their late solemn Fast for the settling of these Nations, April 30. 1660",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 20063
+ },
+ {
+  "id": "1000-333-the-spirituall-mans-aime-sibbes",
+  "file": "1000-333-the-spirituall-mans-aime-sibbes.txt",
+  "title": "Mục Đích Của Người Thuộc Linh",
+  "orig": "The Spirituall-Mans Aime. Guiding a Christian in his Affections & Actions, through the sundry passages of this Life. So that his Salvation may be the end of all.",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 16473
+ },
+ {
+  "id": "1000-335-the-vanitie-of-thoughts-discovered-goodwin",
+  "file": "1000-335-the-vanitie-of-thoughts-discovered-goodwin.txt",
+  "title": "Sự Hư Không Của Tư Tưởng Được Phơi Bày",
+  "orig": "The Vanitie of Thoughts Discovered: Their Danger and Cure",
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 20508
+ },
+ {
+  "id": "1000-337-the-ordoure-of-excommunicatioun-knox",
+  "file": "1000-337-the-ordoure-of-excommunicatioun-knox.txt",
+  "title": "Trật Tự Khai Trừ Và Ăn Năn Công Khai",
+  "orig": "The Ordoure of Excommunicatioun and of Publict Repentance, vsed in the Church of Scotland, and commanded to be prented by the Generall Assemblie of the same, in the Moneth of Junij. 1569",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 15379
+ },
+ {
+  "id": "1000-338-a-fair-prospect-goodwin",
+  "file": "1000-338-a-fair-prospect-goodwin.txt",
+  "title": "Một Viễn Cảnh Tươi Sáng",
+  "orig": "A Fair Prospect, Shewing clearly The difference between things that are Seen; & things that are not Seen. IN A SERMON Preached at the FUNERAL Of the HONOURABLE LADY JUDITH BARRINGTON At KNEBWORTH in H",
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 20308
+ },
+ {
+  "id": "1000-340-the-nature-and-immortality-of-the-soul-baxter",
+  "file": "1000-340-the-nature-and-immortality-of-the-soul-baxter.txt",
+  "title": "Bản Chất Và Sự Bất Diệt Của Linh Hồn",
+  "orig": "The Nature and Immortality of the Soul Proved. In Answer to one who professed perplexing Doubtfulness",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 20096
+ },
+ {
+  "id": "1000-344-an-answer-to-mr-marlows-appendix-keach",
+  "file": "1000-344-an-answer-to-mr-marlows-appendix-keach.txt",
+  "title": "Lời Đáp Cho Phụ Lục Của Marlow",
+  "orig": "An Answer to Mr. Marlow's Appendix. Wherein his Arguments to prove that Singing of Psalms, Hymns, and Spiritual Songs, was performed in the Primitive Church by a Special or an Extraordinary Gift, and ",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 15510
+ },
+ {
+  "id": "1000-350-the-rights-and-the-duties-of-masters-thornwell",
+  "file": "1000-350-the-rights-and-the-duties-of-masters-thornwell.txt",
+  "title": "Quyền Lợi Và Bổn Phận Của Người Chủ",
+  "orig": "The Rights and the Duties of Masters. A Sermon Preached at the Dedication of a Church Erected in Charleston, S.C., for the Benefit and Instruction of the Coloured Population",
+  "author": "James Henley Thornwell",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 21474
+ },
+ {
+  "id": "1000-360-a-summons-to-the-grave-keach",
+  "file": "1000-360-a-summons-to-the-grave-keach.txt",
+  "title": "Lời Triệu Gọi Đến Mồ Mả",
+  "orig": "A Summons to the Grave: or, The Necessity of a Preparation for Death, Demonstrated in a Sermon Preached at the Funeral of Mr. John Norcot, March the 28th, 1676",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 20499
+ },
+ {
+  "id": "1000-363-the-quakers-catechism-baxter",
+  "file": "1000-363-the-quakers-catechism-baxter.txt",
+  "title": "Giáo Lý Vấn Đáp Của Người Quaker",
+  "orig": "*The Quakers Catechism, or, The Quakers Questions Answered* (Giáo Lý Vấn Đáp Của Người Quaker, hay, Các Câu Hỏi Của Người Quaker Được Trả Lời)",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 20641
+ },
+ {
+  "id": "1000-369-a-peace-offering-in-an-apology-owen",
+  "file": "1000-369-a-peace-offering-in-an-apology-owen.txt",
+  "title": "Lễ Vật Hòa Bình Trong Lời Biện Hộ",
+  "orig": "A Peace-Offering in an Apology and Humble Plea for Indulgence and Liberty of Conscience",
+  "author": "John Owen",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 22039
+ },
+ {
+  "id": "1000-371-national-sins-a-fast-day-sermon-thornwell",
+  "file": "1000-371-national-sins-a-fast-day-sermon-thornwell.txt",
+  "title": "Tội Lỗi Quốc Gia",
+  "orig": "National Sins: A Fast-Day Sermon Preached in the Presbyterian Church, Columbia, S.C., Wednesday, November 21, 1860",
+  "author": "James Henley Thornwell",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 21148
+ },
+ {
+  "id": "1000-372-a-view-of-that-part-of-the-late-considerations-howe",
+  "file": "1000-372-a-view-of-that-part-of-the-late-considerations-howe.txt",
+  "title": "Cái Nhìn Về Những Suy Xét Về Ba Ngôi",
+  "orig": "A View of that Part of the late Considerations Addrest to H. H. about the Trinity. Which concerns the Sober Enquiry, On that Subject. In a Letter to the former Friend",
+  "author": "John Howe",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 23227
+ },
+ {
+  "id": "1000-377-missionary-exertion-knox",
+  "file": "1000-377-missionary-exertion-knox.txt",
+  "title": "Sự Nỗ Lực Truyền Giáo",
+  "orig": "Missionary Exertion: Its Principle, Mode and Motives. The Annual Sermon, Preached Before the Board of Missions",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 20187
+ },
+ {
+  "id": "1000-379-the-right-use-of-that-argument-howe",
+  "file": "1000-379-the-right-use-of-that-argument-howe.txt",
+  "title": "Lập Luận Từ Danh Chúa Trong Cầu Nguyện",
+  "orig": "The Right Use of that Argument in Prayer, from the Name of God; On behalf of a People that professes it",
+  "author": "John Howe",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 23954
+ },
+ {
+  "id": "1000-380-a-caveat-against-unsound-doctrines-toplady",
+  "file": "1000-380-a-caveat-against-unsound-doctrines-toplady.txt",
+  "title": "Cảnh Báo Chống Giáo Lý Không Lành Mạnh",
+  "orig": "A Caveat Against Unsound Doctrines: Being the Substance of a Sermon Preached in the Parish Church of St. Ann, Blackfryars; on Sunday, April 29, 1770",
+  "author": "Augustus Toplady",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 16392
+ },
+ {
+  "id": "1000-382-god-acknowledged-keach",
+  "file": "1000-382-god-acknowledged-keach.txt",
+  "title": "Đức Chúa Trời Được Nhìn Nhận",
+  "orig": "God Acknowledged: OR THE TRUE INTEREST of the NATION, and all that Fear GOD: Opened in a Sermon, &c.",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 19668
+ },
+ {
+  "id": "1000-384-the-copie-of-an-epistle-sent-by-john-knox",
+  "file": "1000-384-the-copie-of-an-epistle-sent-by-john-knox.txt",
+  "title": "Thư Gửi Newcastle Và Nước Anh",
+  "orig": "The copie of an epistle sent",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 21381
+ },
+ {
+  "id": "1000-387-zerubbabels-encouragement-to-finish-the-temple-goodwin",
+  "file": "1000-387-zerubbabels-encouragement-to-finish-the-temple-goodwin.txt",
+  "title": "Sự Khích Lệ Của Xô-rô-ba-bên Hoàn Thành Đền Thờ",
+  "orig": "Zerubbabels Encouragement to Finish the Temple. A Sermon Preached before the Honourable House of Commons, at their late Solemne Fast, Apr. 27. 1642,",
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 23005
+ },
+ {
+  "id": "1000-389-a-letter-written-out-of-the-countrey-howe",
+  "file": "1000-389-a-letter-written-out-of-the-countrey-howe.txt",
+  "title": "Thư Gửi Người Quý Phái Ở Thành Phố",
+  "orig": "A Letter Written out of the Countrey to a Person of Quality in the City: Who Took Offence at the late Sermon of Dr. Stillingfleet, Dean of S. Pauls, Before the Lord Mayor",
+  "author": "John Howe",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 25653
+ },
+ {
+  "id": "1000-390-the-sea-mans-direction-in-time-of-storme-burroughs",
+  "file": "1000-390-the-sea-mans-direction-in-time-of-storme-burroughs.txt",
+  "title": "Hướng Dẫn Cho Người Đi Biển Trong Lúc Bão Tố",
+  "orig": "The Sea-man's Direction in Time of Storme. Delivered in a Sermon on occasion of a strong Wind lately...",
+  "author": "Jeremiah Burroughs",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 14840
+ },
+ {
+  "id": "1000-391-the-glorious-kingdom-of-christ-baxter",
+  "file": "1000-391-the-glorious-kingdom-of-christ-baxter.txt",
+  "title": "Vương Quốc Vinh Hiển Của Đấng Christ",
+  "orig": "The Glorious Kingdom of Christ, described",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 16269
+ },
+ {
+  "id": "1000-394-joy-in-heaven-and-the-creed-of-devils-toplady",
+  "file": "1000-394-joy-in-heaven-and-the-creed-of-devils-toplady.txt",
+  "title": "Niềm Vui Trên Thiên Đàng Và Tín Điều Của Ma Quỷ",
+  "orig": "Joy in Heaven. & The Creed of Devils. With a Word concerning Apparitions. Two Sermons, preached October 29, 1775",
+  "author": "Augustus Toplady",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 24166
+ },
+ {
+  "id": "1000-403-the-ax-laid-to-the-root-keach",
+  "file": "1000-403-the-ax-laid-to-the-root-keach.txt",
+  "title": "Cái Rìu Đặt Nơi Gốc Cây",
+  "orig": "The Ax Laid to the Root. OR, One Blow more at the Foundation of Infant Baptism, and Church-Membership",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 23778
+ },
+ {
+  "id": "1000-404-supplement-advertisement-and-letter-to-bethnal-green-toplady",
+  "file": "1000-404-supplement-advertisement-and-letter-to-bethnal-green-toplady.txt",
+  "title": "Lời Quảng Cáo Và Thư Bethnal Green",
+  "orig": "Hai phần mới trong ấn bản thứ tư (Fourth Edition) của \"A Caveat Against Unsound Doctrines\" — Augustus Toplady (Perth: in bởi R. Morison Junior, cho R. Morison & Son, Perth; J. Guthrie, Edinburgh; và V",
+  "author": "Augustus Toplady",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 2611
+ },
+ {
+  "id": "1000-405-an-answer-to-a-letter-of-a-jesuit-named-tyrie-knox",
+  "file": "1000-405-an-answer-to-a-letter-of-a-jesuit-named-tyrie-knox.txt",
+  "title": "Lời Đáp Thư Của Tu Sĩ Dòng Tên Tyrie",
+  "orig": "An Answer to a Letter of a Jesuit named Tyrie,",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 23646
+ },
+ {
+  "id": "1000-408-blasphemoktonia-the-blasphemer-slaine-poole",
+  "file": "1000-408-blasphemoktonia-the-blasphemer-slaine-poole.txt",
+  "title": "Kẻ Báng Bổ Bị Giết Chết",
+  "orig": "Blasphemoktonia: The Blasphemer Slain, Or a Plea for the Godhead of the Holy Ghost. Wherein the Deity of the Spirit of God is proved in the demonstration of the Spirit, and vindicated from the Cavils ",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 25631
+ },
+ {
+  "id": "1000-410-the-life-of-faith-baxter",
+  "file": "1000-410-the-life-of-faith-baxter.txt",
+  "title": "Đời Sống Đức Tin",
+  "orig": "The Life of Faith",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 26663
+ },
+ {
+  "id": "1000-411-words-to-the-winners-of-souls-bonar",
+  "file": "1000-411-words-to-the-winners-of-souls-bonar.txt",
+  "title": "Lời Gửi Những Người Đắc Thắng Linh Hồn",
+  "orig": "Words to the Winners of Souls",
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 23437
+ },
+ {
+  "id": "1000-416-the-great-interest-of-states-and-kingdomes-goodwin",
+  "file": "1000-416-the-great-interest-of-states-and-kingdomes-goodwin.txt",
+  "title": "Lợi Ích Lớn Nhất Của Các Quốc Gia",
+  "orig": "The Great Interest of States & Kingdomes",
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 24432
+ },
+ {
+  "id": "1000-417-the-brides-longing-for-her-bridegroomes-second-coming-sibbes",
+  "file": "1000-417-the-brides-longing-for-her-bridegroomes-second-coming-sibbes.txt",
+  "title": "Cô Dâu Khao Khát Chàng Rể Đến Lần Hai",
+  "orig": "The Brides Longing for her Bride-groomes second comming, A Sermon preached at the funerall of the right Worshipfull, Sir Thomas Crew, Knight, Sergeant at Law to his Majestie,",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 23033
+ },
+ {
+  "id": "1000-418-the-marrow-of-true-justification-keach",
+  "file": "1000-418-the-marrow-of-true-justification-keach.txt",
+  "title": "Cốt Tủy Của Sự Xưng Công Chính Thật",
+  "orig": "The Marrow of True Justification, OR, Justification without Works",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 22854
+ },
+ {
+  "id": "1000-421-a-fort-for-the-afflicted-knox",
+  "file": "1000-421-a-fort-for-the-afflicted-knox.txt",
+  "title": "Pháo Đài Cho Người Bị Hoạn Nạn",
+  "orig": "A Fort for the Afflicted. Wherein are ministered many notable & excellent remedies against the stormes of tribulation. Written chiefly for the comfort of Christes little flock, which is the small numb",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 18678
+ },
+ {
+  "id": "1000-442-transubstantiation-a-peculiar-article-goodwin",
+  "file": "1000-442-transubstantiation-a-peculiar-article-goodwin.txt",
+  "title": "Hóa Thể: Giáo Điều Riêng Của Công Giáo La Mã",
+  "orig": "Transubstantiation, A peculiar ARTICLE OF THE Roman Catholick Faith, Which was never own'd by the Ancient Church Or any of the Reform'd CHURCHES. In Answer to a late DISCOURSE call'd, Reasons for Abro",
+  "author": "Ẩn danh — KHÔNG phải Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 28958
+ },
+ {
+  "id": "1000-443-a-seasonable-apology-poole",
+  "file": "1000-443-a-seasonable-apology-poole.txt",
+  "title": "Lời Biện Hộ Đúng Lúc Cho Tôn Giáo",
+  "orig": "A Seasonable Apology for Religion",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 29006
+ },
+ {
+  "id": "1000-446-a-faythfull-admonition-knox",
+  "file": "1000-446-a-faythfull-admonition-knox.txt",
+  "title": "Lời Khuyên Nhủ Trung Tín",
+  "orig": "A Faithfull Admonition, made",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 32035
+ },
+ {
+  "id": "1000-447-the-carnality-of-religious-contention-howe",
+  "file": "1000-447-the-carnality-of-religious-contention-howe.txt",
+  "title": "Tính Xác Thịt Của Sự Tranh Cãi Tôn Giáo",
+  "orig": "The Carnality of Religious Contention. In Two Sermons Preach'd at the Merchant's Lecture in Broadstreet",
+  "author": "John Howe",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 28624
+ },
+ {
+  "id": "1000-451-jesus-seen-of-angels-and-gods-mindfulness-of-man-toplady",
+  "file": "1000-451-jesus-seen-of-angels-and-gods-mindfulness-of-man-toplady.txt",
+  "title": "Chúa Giê-xu Được Thiên Sứ Nhìn Thấy",
+  "orig": "Jesus seen of Angels; and God's Mindfulness of Man. Considered in Three Discourses: The Substance of which was [preached] in [the] Parish Church of [—] on Tuesday, December 23",
+  "author": "Augustus Toplady",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 26873
+ },
+ {
+  "id": "1000-454-reprobation-asserted-bunyan",
+  "file": "1000-454-reprobation-asserted-bunyan.txt",
+  "title": "Sự Bỏ Qua Được Khẳng Định",
+  "orig": "Reprobation Asserted: The Doctrine Of Eternal Election & Reprobation Promiscuously handled, In Eleven Chapters. WHEREIN The most material Objections made by the Opposers of this Doctrine, are fully An",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 31306
+ },
+ {
+  "id": "1000-465-supplement-preface-whitefield",
+  "file": "1000-465-supplement-preface-whitefield.txt",
+  "title": "Lời Tựa Sách Bạn Đồng Hành Tiệc Thánh",
+  "orig": "PREFACE",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 2013
+ },
+ {
+  "id": "1000-468-the-balm-of-the-covenant-flavel",
+  "file": "1000-468-the-balm-of-the-covenant-flavel.txt",
+  "title": "Dầu Thơm Của Giao Ước",
+  "orig": "The Balm of the Covenant Applied to the Bleeding Wounds of Afflicted Saints",
+  "author": "John Flavel",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 25389
+ },
+ {
+  "id": "1000-472-a-confession-of-my-faith-bunyan",
+  "file": "1000-472-a-confession-of-my-faith-bunyan.txt",
+  "title": "Lời Xưng Đức Tin Của Tôi",
+  "orig": "A Confession of My Faith, and a Reason of My Practice in the Worship of God",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 22864
+ },
+ {
+  "id": "1000-473-a-journal-of-a-voyage-from-london-to-savannah-whitefield",
+  "file": "1000-473-a-journal-of-a-voyage-from-london-to-savannah-whitefield.txt",
+  "title": "Nhật Ký Hành Trình Từ Luân Đôn Đến Savannah",
+  "orig": "A Journal of a Voyage from London to Savannah in Georgia. In Two Parts. Part I. From London to Gibraltar. Part II. From Gibraltar to Savannah.",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 24896
+ },
+ {
+  "id": "1000-474-supplement-to-the-reader-and-prison-meditations-bunyan",
+  "file": "1000-474-supplement-to-the-reader-and-prison-meditations-bunyan.txt",
+  "title": "Lời Gửi Độc Giả Và Suy Ngẫm Trong Tù",
+  "orig": "TO THE READER",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 3886
+ },
+ {
+  "id": "1000-475-the-counterfeit-christian-keach",
+  "file": "1000-475-the-counterfeit-christian-keach.txt",
+  "title": "Cơ Đốc Nhân Giả Tạo",
+  "orig": "The Counterfeit Christian, OR, The Danger of Hypocrisy: Opened in Two Sermons in an Exposition of that Parabolical Speech of our Blessed Saviour, Matth. xii. 43, 44, 45. When the Unclean Spirit is gon",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 32684
+ },
+ {
+  "id": "1000-486-the-christians-end-sibbes",
+  "file": "1000-486-the-christians-end-sibbes.txt",
+  "title": "Mục Đích Của Người Cơ Đốc",
+  "orig": "The Christians End: Or, The Sweet Sovereignty of Christ over his Members in Life and Death, wherein is contained the whole scope of the godly Man's life, with divers Rules, Motives and Incouragements,",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 21156
+ },
+ {
+  "id": "1000-489-supplement-letter-on-candour-and-hymn-newton",
+  "file": "1000-489-supplement-letter-on-candour-and-hymn-newton.txt",
+  "title": "Thư Về Sự Thẳng Thắn Và Thánh Ca Nhiệt Thành",
+  "orig": "A Letter on Candour",
+  "author": "John Newton",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 3786
+ },
+ {
+  "id": "1000-490-truth-defended-gill",
+  "file": "1000-490-truth-defended-gill.txt",
+  "title": "Chân Lý Được Bảo Vệ",
+  "orig": "Truth Defended: Being an Answer to an Anonymous Pamphlet, Intitled, Some Doctrines in the Superlapsarian Scheme impartially examined by the Word of God.",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 32192
+ },
+ {
+  "id": "630",
+  "file": "630.txt",
+  "title": "Một Lời Cho Kẻ Mệt Mỏi",
+  "orig": "A word to the weary",
+  "author": "William S. Plumer",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 16892
+ },
+ {
+  "id": "637",
+  "file": "637.txt",
+  "title": "Phúc Âm Của Sự Nhập Thể",
+  "orig": "The Gospel of the Incarnation",
+  "author": "B. B. Warfield",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 18953
+ },
+ {
+  "id": "640",
+  "file": "640.txt",
+  "title": "Các Châm Ngôn Về Sự Xưng Công Chính Của Baxter",
+  "orig": "An Extract of Mr Richard Baxter's Aphorisms of Justification, Publish'd by John Wesley",
+  "author": "Richard Baxter",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 16601
+ },
+ {
+  "id": "644",
+  "file": "644.txt",
+  "title": "Lễ Hứa Hôn Đời Đời",
+  "orig": "Everlasting Espousals",
+  "author": "Thomas Boston",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 17378
+ },
+ {
+  "id": "801",
+  "file": "801.txt",
+  "title": "Cây Vả Không Trái: Số Phận Kẻ Xưng Đạo Suông",
+  "orig": "The barren fig-tree: or, the doom and downfal of the fruitless professor",
+  "author": "John Bunyan",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 28661
+ },
+ {
+  "id": "804",
+  "file": "804.txt",
+  "title": "Sự Giàu Có của Lòng Thương Xót",
+  "orig": "The Riches of Mercie",
+  "author": "Richard Sibbes",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 32056
+ },
+ {
+  "id": "832",
+  "file": "832.txt",
+  "title": "Di cảo của Watson",
+  "orig": "Watson's remains",
+  "author": "Thomas Watson",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 35908
+ },
+ {
+  "id": "842",
+  "file": "842.txt",
+  "title": "Thuyết Socinus Không Thể Biện Hộ Được",
+  "orig": "Socinianism Indefensible",
+  "author": "Andrew Fuller",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 41786
+ },
+ {
+  "id": "864",
+  "file": "864.txt",
+  "title": "Bài Giảng Trong Những Cây Nến",
+  "orig": "Sermons in Candles",
+  "author": "C. H. Spurgeon",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 34711
+ },
+ {
+  "id": "878",
+  "file": "878.txt",
+  "title": "Chương Trình Cứu Rỗi",
+  "orig": "The Plan of Salvation",
+  "author": "B. B. Warfield",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 43010
+ },
+ {
+  "id": "891",
+  "file": "891.txt",
+  "title": "Sự Tối Tăm Bị Đánh Bại",
+  "orig": "Darkness vanquish'd, or, Truth in its primitive purity",
+  "author": "Benjamin Keach",
+  "by": "External-AI",
+  "reviewed": false,
+  "words_vi": 44796
  }
 ]
