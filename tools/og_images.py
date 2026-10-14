@@ -9,7 +9,7 @@ def _ogart():
     global _OGART
     if _OGART is None and os.path.exists("img/dore-sermon.jpg"):
         a = Image.open("img/dore-sermon.jpg").convert("L").resize((420, 560))
-        a = Image.blend(Image.new("L", a.size, 244), a, 0.2).convert("RGB")
+        a = Image.blend(Image.new("L", a.size, 244), a, 0.34).convert("RGB")
         m = Image.new("L", a.size, 255); md = ImageDraw.Draw(m)
         for x in range(160): md.line([(x, 0), (x, 560)], fill=int(255 * x / 160))
         _OGART = (a, m)
@@ -27,18 +27,23 @@ def _ogkick(path):
                  ("chu-de", "CHỦ ĐỀ"), ("video", "VIDEO"), ("moi-tin", "NGƯỜI MỚI TIN CHÚA"), ("phuc-am", "TÌM HIỂU")):
         if path.startswith(p): return k
     return "THƯ VIỆN CẢI CHÁNH"
+_OGVER = "v3"
+_SUFFIX = re.compile(r"\s*[·|–-]\s*(bản dịch tiếng Việt|sách miễn phí.*|đọc và tải.*)$", re.I)
 def og_image(path, title, desc=""):
     name = re.sub(r"[^a-z0-9]+", "-", path.lower().replace(".html", "")).strip("-") or "home"
     out = f"og/{name}.jpg"
     # skip regeneration if inputs unchanged (hash of path+title+desc)
-    sig = hashlib.md5(f"{path}|{title}|{desc}".encode("utf-8")).hexdigest()[:12]
+    sig = hashlib.md5(f"{_OGVER}|{path}|{title}|{desc}".encode("utf-8")).hexdigest()[:12]
     sigf = out + ".sig"
     try:
         if os.path.exists(out) and open(sigf).read().strip() == sig:
             return out
     except OSError:
         pass
-    _p = [x.strip() for x in re.split(r"\s+[|–]\s+", title)]; t = _p[0]; by = _p[1] if len(_p) > 2 or (len(_p) == 2 and path.startswith("b/")) else ""
+    _p = [x.strip() for x in re.split(r"\s+[|–]\s+", title)]; t = _SUFFIX.sub("", _p[0]).strip() or _p[0]; by = _p[1] if len(_p) > 2 or (len(_p) == 2 and path.startswith("b/")) else ""
+    if not by and path.startswith("ban-dich"):
+        _m = re.search(r"của ([^.\n]{3,60}?)(?:\.|$)", desc or ""); by = _m.group(1).strip() if _m else ""
+    if desc.startswith("Bản dịch tiếng Việt"): desc = ""  # just repeats the title
     im = Image.new("RGB", (1200, 630), _OGBG); a = _ogart()
     if a and not path.startswith("a/"): im.paste(a[0], (780, 0), a[1])
     d = ImageDraw.Draw(im)
@@ -51,7 +56,7 @@ def og_image(path, title, desc=""):
     L = L[:4]; y = 125
     for ln in L: d.text((80, y), ln, font=fo, fill=_OGINK); y += int(sz * 1.22)
     if by:
-        d.text((80, y + 6), by, font=_ogf("DejaVuSans-Bold.ttf", 30), fill=_OGRUST); y += 56
+        d.text((80, y + 10), by, font=_ogf("DejaVuSans-Bold.ttf", 40), fill=_OGRUST); y += 72
     ds = re.sub(r"\s+", " ", desc).strip()
     if ds and y < 400:
         fs = _ogf("DejaVuSerif.ttf", 28); DL = _ogwrap(d, ds, fs, W)[:3 if y < 330 else 2]
@@ -62,7 +67,7 @@ def og_image(path, title, desc=""):
     d.text((80, 570), "Reformed Vietnam", font=_ogf("DejaVuSerif-Bold.ttf", 32), fill=(255, 255, 255))
     d.text((1120, 576), "Sách Cải Chánh miễn phí · reformed-vietnam.vercel.app", font=_ogf("DejaVuSans.ttf", 20), fill=(255, 235, 220), anchor="ra")
     os.makedirs("og", exist_ok=True)
-    im.save(out, "JPEG", quality=62, optimize=True, progressive=True)
+    im.save(out, "JPEG", quality=86, subsampling=0, optimize=True, progressive=True)
     try:
         open(sigf, "w").write(sig)
     except OSError:

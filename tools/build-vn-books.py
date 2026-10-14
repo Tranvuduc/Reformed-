@@ -57,7 +57,7 @@ BOOKS = {
         "Spurgeon on how he learned the doctrines of grace, answering common charges against them."),
 }
 
-FONT = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">'
+FONT = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" media="print" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"></noscript>'
 CSS = """
 :root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--ac:#9a3412;--ln:#ddd3c2;--card:#fbf8f1}
 @media (prefers-color-scheme:dark){:root{--bg:#1c1915;--fg:#ebe4d6;--mut:#a59a89;--ac:#f0a374;--ln:#3a342b;--card:#24201b}}
