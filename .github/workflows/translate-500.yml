@@ -8,8 +8,9 @@ on:
     inputs:
       batch: { description: "Batch 1-20, or 'auto' for next unfinished", default: "auto" }
       engine: { description: "muse | gemini | auto (auto: batch<=4 muse, else gemini)", default: "auto" }
-  schedule:
-    - cron: "0 2 * * *" # 09:00 +07 daily
+  # Lịch chạy hằng ngày đã tắt (14/10/2026): Gemini hết hạn mức (HTTP 429). Bật lại bằng:
+  # schedule:
+  #   - cron: "0 2 * * *" # 09:00 +07 daily
 permissions:
   contents: write
 concurrency:
