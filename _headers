@@ -1,0 +1,27 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+/a/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800
+/b/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800
+/chu-de/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800
+/doc/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800
+/og/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/tts/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/suu-tap/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/ban-dich/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800
+/txt/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800
+/bai-viet/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800
+/bai-giang/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800
+/img/*
+  Cache-Control: public, max-age=31536000, immutable
