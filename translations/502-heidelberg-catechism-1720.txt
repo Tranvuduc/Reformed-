@@ -1,0 +1,588 @@
+# Giáo Lý Vấn Đáp Heidelberg
+
+**Nguyên tác:** "The Heidelberg Catechism: containing the principles of the Christian religion, for which the Protestants in the Palatinate have been long persecuted by the Jesuits..." — Giáo lý vấn đáp Heidelberg (soạn thảo bởi Zacharias Ursinus và Caspar Olevianus, 1563); bản dịch Anh ngữ do Thomas Corbett ấn hành tại London, 1720 (danh sách nguồn ghi tác giả "Unknown (1720)")
+**Nguồn:** https://archive.org/download/bim_eighteenth-century_the-heidelberg-catechism_1720/bim_eighteenth-century_the-heidelberg-catechism_1720_djvu.txt
+*(Ghi chú: nguồn là file OCR (djvu.txt) của ấn bản 1720, chữ in cổ (ſ = s) nên OCR nhiều chỗ hỏng. File OCR bị thiếu hẳn các câu hỏi 3–29 — phần này được bổ sung từ bản dịch Anh ngữ chuẩn (public domain) của Giáo lý Heidelberg và được đánh dấu rõ ràng. Nhiều câu chữ OCR hỏng đã được phục dựng theo văn bản chuẩn, đánh dấu [NEEDS REVIEW]. Boilerplate archive.org, số trang và ký tự rác đã loại bỏ. Vài chỗ số câu hỏi bị OCR sai (vd "Q. 54" thực là Q.94) đã được sửa lại.)*
+
+---
+
+## Trang tựa
+
+GIÁO LÝ VẤN ĐÁP HEIDELBERG: Chứa đựng các nguyên tắc của đạo Cơ Đốc, vì cớ đó những người Tin Lành tại vùng Palatinate đã lâu bị các tu sĩ Dòng Tên bách hại. Là bản tóm tắt cùng những nguyên tắc chính thống được Hội Thánh Anh giảng dạy, và được những người Calvin giảng dạy trong các Hội Thánh và trường học tại Phổ, Ba Lan, Hung Gia Lợi, Transylvania, Hòa Lan, Thụy Sĩ, v.v. Kèm theo Lời Đề Tặng khiêm nhường dâng lên Đức Vua nước Đại Anh.
+
+LONDON: In cho T. Corbett tại Addison's-Head gần quán Rose-Tavern ngoài Temple-Bar, và bán bởi J. Roberts tại Warwick-Lane. 1720. Giá sáu xu.
+
+## Lời đề tặng [NEEDS REVIEW: phục dựng từ OCR hỏng nặng — nội dung là lời đề tặng của Thomas Corbett dâng ấn bản Anh ngữ này lên Đức Vua nước Anh, Đấng mang tước hiệu "Người Bảo Vệ Đức Tin"]
+
+Tâu Đức Vua,
+
+Cuốn Giáo lý vấn đáp này lần đầu ra đời dưới sự bảo trợ thuận lợi của các bậc tiên vương của Bệ Hạ tại Đức; vì vậy kẻ bề tôi này cả gan khiêm nhường dâng ấn bản Anh ngữ này lên trước Bệ Hạ. Cuốn sách được soạn ra để giải thích cho dân chúng các nguyên tắc của đức tin Cơ Đốc; còn nơi nào an toàn hơn để nương náu, nếu không phải dưới bóng danh cao quý của một vị Quân vương mang tước hiệu vinh hiển là ĐẤNG BẢO VỆ ĐỨC TIN? Tước hiệu mà Bệ Hạ đã chứng tỏ trong mọi dịp rằng mình không mang một cách hư danh.
+
+Chúng thần có bằng chứng rực rỡ về điều này, tâu Đức Vua, trong lòng nhiệt thành mà Bệ Hạ đã bày tỏ để cứu giúp những người Tin Lành tại vùng Palatinate; những người ấy, ngoài các đặc ân khác, gần đây đã bị tước mất quyền sử dụng cuốn Giáo lý vấn đáp này, mà họ đã sở hữu suốt gần hai thế kỷ. Mọi người Tin Lành biết suy nghĩ, và có lòng yêu mến chân thành đối với đạo của mình, đều xem Bệ Hạ, tâu Đức Vua, như thành lũy vững chắc nhất của đạo; vì vinh quang của Bệ Hạ không chỉ giới hạn trong niềm vui và hạnh phúc của thần dân mình, mà còn mở rộng sự chăm sóc từ phụ và sự bảo vệ đầy quyền năng đến cả những người không có liên hệ nào khác với Bệ Hạ, ngoài việc cùng xưng nhận một đức tin với Bệ Hạ.
+
+Nguyện các ý định công chính và tin kính của Bệ Hạ, trong việc này cũng như mọi việc khác, luôn được đội vương miện của kết quả tốt lành; nguyện Bệ Hạ mãi là nỗi kinh hoàng của kẻ thù mình, là niềm hy vọng và nơi nương náu của Hội Thánh, và là sự ngưỡng mộ của cả thế gian — đó là những ước nguyện chân thành và tha thiết nhất của kẻ, với lòng tôn kính sâu xa nhất, là bề tôi khiêm nhường và vâng phục nhất của Bệ Hạ,
+
+Thomas Corbett.
+
+## Lời nói đầu
+
+Cuốn Giáo lý vấn đáp này đã có tuổi đời trên một trăm năm mươi sáu năm, được soạn thảo và in lần đầu tại Heidelberg bằng tiếng Đức từ năm 1563. Cùng thời ấy, Tuyển hầu tước vùng Palatinate là Friedrich III, người có trí nhớ tin kính và vinh hiển, đã cho dịch sang tiếng La-tinh, tiếng Pháp, tiếng Tây Ban Nha và tiếng Ý. Tác phẩm được mọi người Calvin đón nhận nồng nhiệt, đến nỗi năm 1618, nó được Hội đồng Dort phê chuẩn và công nhận như một biểu tượng hiệp nhất giữa các Hội Thánh Tin Lành.
+
+Từ đó đến nay, Giáo lý vấn đáp này đã được dùng liên tục, không chỉ trong các Hội Thánh và trường học Calvin thuộc Đế quốc và Thụy Sĩ. Nhưng vì một quyền lực nào đó cho là phải, vào năm ngoái, đã cho trấn áp bản xưng nhận đức tin chung của người Tin Lành này, ngay tại quê hương nơi nó ra đời; và vì các cuộc thương thuyết do bước đi ấy gây ra đang là đề tài bàn tán của cả thế giới: nên người ta thấy là phải (theo lời thỉnh cầu của một số linh hồn tin kính, và với sự chấp thuận của một Phu nhân rất cao quý, cả về địa vị lẫn lòng tin kính và nhiệt thành vì đạo) ấn hành cuốn Giáo lý vấn đáp này, nhằm thỏa mãn sự tò mò của những độc giả Anh chưa từng thấy nó, và cho những ai thành kiến với người Calvin có cơ hội nhận ra và gạt bỏ những ý niệm vô căn cứ mà họ đã hình thành về họ.
+
+Những ai chân thành yêu mến lẽ thật, sẽ tìm được ở đây cơ hội để tìm kiếm lẽ thật trong Kinh Thánh thiêng liêng — nền tảng và chuẩn mực duy nhất trong việc soạn thảo Giáo lý vấn đáp này. Họ có lời hứa của Con Đức Chúa Trời để nương cậy (Ma-thi-ơ 7:7): *"Hãy xin, sẽ được; hãy tìm, sẽ gặp; hãy gõ cửa, sẽ mở cho."* Họ sẽ biết rằng Đức Chúa Trời là Thần, và ai thờ lạy Ngài phải lấy tâm thần và lẽ thật mà thờ lạy (Giăng 4:24). Và họ sẽ cùng sứ đồ Phao-lô tin chắc rằng: kẻ đến gần Đức Chúa Trời phải tin rằng có Đức Chúa Trời, và Ngài là Đấng hay thưởng cho kẻ tìm kiếm Ngài (Hê-bơ-rơ 11:6). Vậy chúng ta hãy cùng sứ đồ của dân ngoại tìm kiếm Ngài: hãy xem xét mọi việc, điều chi lành thì giữ lấy (1 Tê-sa-lô-ni-ca 5:21).
+
+---
+
+# GIÁO LÝ VẤN ĐÁP
+
+## Phần thứ nhất: Về sự khốn khổ của con người
+
+**Câu 1. Điều an ủi duy nhất của ngươi là gì, khi ngươi còn sống và lúc ngươi qua đời?**
+
+*Đáp.* Ấy là thân thể cũng như linh hồn tôi, dù sống hay chết, đều không thuộc về chính tôi, mà thuộc về Đấng Cứu Chúa thành tín của tôi là Chúa Giê-xu Christ; Ngài đã lấy huyết báu của Ngài mà đền tội trọn vẹn cho mọi tội lỗi tôi, đã giải cứu tôi khỏi quyền lực của ma quỷ, và gìn giữ tôi cẩn thận đến nỗi không một sợi tóc nào rụng khỏi đầu tôi mà không có ý muốn của Cha tôi trên trời; và mọi sự đều hiệp lại làm ích cho sự cứu rỗi tôi; vì cớ đó Ngài đã bảo đảm cho tôi sự sống đời đời bởi Đức Thánh Linh Ngài, và khiến tôi sẵn lòng hết lòng yêu mến mà sống cho Ngài.
+
+**Câu 2. Ngươi cần biết mấy điều, để khi hưởng sự an ủi cứu rỗi này, ngươi được sống và chết một cách vui mừng?** [NEEDS REVIEW: câu hỏi và đáp án phục dựng từ OCR hỏng]
+
+*Đáp.* Ba điều: Thứ nhất, tội lỗi và sự khốn khổ của tôi lớn là dường nào. Thứ hai, tôi được giải cứu khỏi mọi tội lỗi và sự khốn khổ ấy thể nào. Thứ ba, tôi phải bày tỏ lòng biết ơn Đức Chúa Trời về sự giải cứu ấy ra sao.
+
+*[NEEDS REVIEW: Các câu 3–29 bị thiếu trong file OCR nguồn; phần dưới đây được bổ sung từ bản dịch Anh ngữ chuẩn (public domain) của Giáo lý Heidelberg để bản dịch được toàn vẹn.]*
+
+**Câu 3. Ngươi biết sự khốn khổ mình bởi đâu?**
+
+*Đáp.* Bởi luật pháp của Đức Chúa Trời.
+
+**Câu 4. Luật pháp của Đức Chúa Trời đòi hỏi chúng ta điều gì?**
+
+*Đáp.* Đấng Christ dạy chúng ta vắn tắt trong Ma-thi-ơ chương 22: *"Ngươi hãy hết lòng, hết linh hồn, hết ý mà yêu mến Chúa, là Đức Chúa Trời ngươi. Ấy là điều răn thứ nhứt và lớn hơn hết. Còn điều răn thứ hai đây, cũng như vậy: Ngươi hãy yêu kẻ lân cận như mình. Hết thảy luật pháp và lời tiên tri đều bởi hai điều răn đó mà ra."*
+
+**Câu 5. Ngươi có thể giữ trọn vẹn mọi điều ấy chăng?**
+
+*Đáp.* Không; vì tôi có khuynh hướng tự nhiên ghét Đức Chúa Trời và ghét người lân cận.
+
+**Câu 6. Đức Chúa Trời có dựng nên con người gian ác và hư hoại như vậy chăng?**
+
+*Đáp.* Không; Đức Chúa Trời đã dựng nên con người tốt lành, theo hình ảnh Ngài, nghĩa là trong sự công chính và thánh khiết thật, để con người thật biết Đức Chúa Trời là Đấng Tạo Hóa mình, hết lòng yêu mến Ngài, và sống với Ngài trong hạnh phúc đời đời, để tôn vinh và ngợi khen Ngài.
+
+**Câu 7. Vậy bản tính hư hoại này của con người từ đâu mà ra?**
+
+*Đáp.* Từ sự sa ngã và bất tuân của tổ phụ chúng ta là A-đam và Ê-va trong vườn Ê-đen. Sự sa ngã ấy đã đầu độc bản tính chúng ta đến nỗi tất cả chúng ta đều được hoài thai và sinh ra trong tội lỗi.
+
+**Câu 8. Nhưng chúng ta có hư hoại đến nỗi hoàn toàn không thể làm điều lành, và nghiêng về mọi điều ác chăng?**
+
+*Đáp.* Phải, trừ khi chúng ta được tái sinh bởi Đức Thánh Linh.
+
+**Câu 9. Nhưng Đức Chúa Trời há chẳng bất công khi đòi hỏi trong luật pháp Ngài điều mà con người không thể làm được sao?**
+
+*Đáp.* Không; Đức Chúa Trời đã dựng nên con người có khả năng giữ luật pháp. Nhưng con người, bị ma quỷ cám dỗ, trong sự bất tuân liều lĩnh, đã tự cướp mất mình và cả dòng dõi mình những ân tứ ấy.
+
+**Câu 10. Đức Chúa Trời há để sự bất tuân và phản nghịch ấy không bị phạt sao?**
+
+*Đáp.* Chắc chắn không. Đức Chúa Trời nổi giận kinh khiếp với tội lỗi bẩm sinh của chúng ta cũng như với những tội chúng ta tự mình phạm. Là Đấng phán xét công chính, Ngài phạt chúng cả đời này lẫn đời đời. Ngài đã phán: *"Đáng rủa sả thay cho kẻ không giữ theo mọi lời của luật pháp nầy, để làm theo!"*
+
+**Câu 11. Nhưng Đức Chúa Trời há chẳng cũng đầy lòng thương xót sao?**
+
+*Đáp.* Đức Chúa Trời quả thật đầy lòng thương xót, nhưng Ngài cũng công chính. Sự công chính Ngài đòi hỏi tội lỗi phạm nghịch cùng Đấng chí cao phải bị phạt bằng hình phạt chí cao — tức hình phạt đời đời cả thân thể lẫn linh hồn.
+
+## Phần thứ hai: Về sự cứu chuộc của con người
+
+**Câu 12. Vì theo sự phán xét công chính của Đức Chúa Trời, chúng ta đáng chịu hình phạt đời này và đời đời, thì làm sao chúng ta thoát khỏi hình phạt ấy và trở lại được ơn của Đức Chúa Trời?**
+
+*Đáp.* Đức Chúa Trời đòi hỏi sự công chính Ngài phải được thỏa mãn. Vì vậy những đòi hỏi của sự công chính ấy phải được trả trọn, hoặc bởi chính chúng ta, hoặc bởi một Đấng khác.
+
+**Câu 13. Chúng ta có thể tự trả món nợ ấy chăng?**
+
+*Đáp.* Chắc chắn không; thật ra, mỗi ngày chúng ta càng thêm tội.
+
+**Câu 14. Có thọ tạo nào khác — bất kỳ thọ tạo nào — trả nợ thay chúng ta được chăng?**
+
+*Đáp.* Không. Trước hết, Đức Chúa Trời sẽ không phạt một thọ tạo khác vì tội mà con người phạm. Hơn nữa, không một thọ tạo tầm thường nào có thể gánh nổi sức nặng cơn thịnh nộ đời đời của Đức Chúa Trời nghịch cùng tội lỗi, và giải cứu người khác khỏi cơn thịnh nộ ấy.
+
+**Câu 15. Vậy chúng ta phải tìm Đấng Trung Gian và Đấng Giải Cứu thế nào?**
+
+*Đáp.* Một Đấng vừa là người thật và công chính, vừa quyền năng hơn mọi thọ tạo, tức là Đấng cũng là Đức Chúa Trời thật.
+
+**Câu 16. Vì sao Đấng Trung Gian phải là người thật và công chính?**
+
+*Đáp.* Vì sự công chính của Đức Chúa Trời đòi hỏi bản tính con người đã phạm tội phải trả giá cho tội mình; nhưng một kẻ có tội không bao giờ trả thay cho người khác được.
+
+**Câu 17. Vì sao Đấng Trung Gian cũng phải là Đức Chúa Trời thật?**
+
+*Đáp.* Để Đấng Trung Gian, bởi quyền năng thần tính Ngài, có thể trong nhân tính gánh nổi sức nặng cơn thịnh nộ của Đức Chúa Trời, mà chinh phục và phục hồi cho chúng ta sự công chính và sự sống.
+
+**Câu 18. Đấng Trung Gian ấy là ai — vừa là Đức Chúa Trời thật, đồng thời là người thật và công chính thật?**
+
+*Đáp.* Là Chúa Giê-xu Christ, Chúa chúng ta, Đấng đã được ban cho chúng ta để giải phóng chúng ta hoàn toàn và khiến chúng ta được hòa thuận với Đức Chúa Trời.
+
+**Câu 19. Ngươi biết điều ấy bởi đâu?**
+
+*Đáp.* Bởi Phúc Âm thánh. Chính Đức Chúa Trời đã bắt đầu bày tỏ Phúc Âm ngay trong vườn Ê-đen; về sau Ngài công bố qua các thánh tổ phụ và tiên tri, và phác họa qua các của lễ cùng nghi thức của luật pháp; cuối cùng Ngài đã làm trọn qua chính Con yêu dấu của Ngài.
+
+**Câu 20. Mọi người đều được cứu qua Đấng Christ như mọi người đều hư mất qua A-đam chăng?**
+
+*Đáp.* Không. Chỉ những ai bởi đức tin thật được tháp vào Đấng Christ và nhận lấy mọi ơn phước của Ngài mới được cứu.
+
+**Câu 21. Đức tin thật là gì?**
+
+*Đáp.* Đức tin thật không chỉ là sự hiểu biết chắc chắn, nhờ đó tôi coi là thật mọi điều Đức Chúa Trời đã bày tỏ cho chúng ta trong Kinh Thánh; mà còn là sự tin cậy hết lòng, do Đức Thánh Linh tạo nên trong tôi bởi Phúc Âm, rằng Đức Chúa Trời đã ban không cho tôi — chẳng những cho người khác mà cho cả tôi — sự tha tội, sự công chính đời đời, và sự cứu rỗi. Ấy là những ân tứ của ân điển thuần khiết, ban cho duy bởi công đức của Đấng Christ.
+
+**Câu 22. Vậy một Cơ Đốc nhân phải tin điều gì?**
+
+*Đáp.* Mọi điều đã hứa cho chúng ta trong Phúc Âm, mà các điều khoản của đức tin Cơ Đốc phổ thông và chắc chắn của chúng ta dạy chúng ta một cách vắn tắt.
+
+**Câu 23. Các điều khoản ấy là gì?**
+
+*Đáp.* Tôi tin Đức Chúa Trời, là Cha Toàn Năng, Đấng dựng nên trời và đất. Tôi tin Chúa Giê-xu Christ, Con độc sinh của Ngài, Chúa chúng ta, Đấng chịu thai bởi Đức Thánh Linh, sinh bởi trinh nữ Ma-ri. Ngài chịu khổ hình dưới tay Bôn-xơ Phi-lát, chịu đóng đinh, chịu chết và chịu chôn; Ngài xuống âm phủ. Ngày thứ ba Ngài từ kẻ chết sống lại. Ngài thăng thiên, ngồi bên hữu Đức Chúa Trời là Cha Toàn Năng. Từ đó Ngài sẽ đến phán xét kẻ sống và kẻ chết. Tôi tin Đức Thánh Linh, Hội Thánh phổ thông thánh, sự thông công của các thánh đồ, sự tha tội, sự sống lại của thân thể, và sự sống đời đời. A-men.
+
+**Câu 24. Các điều khoản ấy được chia làm mấy phần?**
+
+*Đáp.* Ba phần: Đức Chúa Trời Cha và sự sáng tạo của chúng ta; Đức Chúa Trời Con và sự giải cứu của chúng ta; Đức Chúa Trời Thánh Linh và sự nên thánh của chúng ta.
+
+**Câu 25. Vì chỉ có một Đức Chúa Trời, sao ngươi lại nói đến ba: Cha, Con và Thánh Linh?**
+
+*Đáp.* Vì Đức Chúa Trời đã bày tỏ chính Ngài như vậy trong Lời Ngài: ba Ngôi riêng biệt ấy là một Đức Chúa Trời thật và đời đời.
+
+**Câu 26. Ngươi tin gì khi nói: "Tôi tin Đức Chúa Trời, là Cha Toàn Năng, Đấng dựng nên trời và đất"?**
+
+*Đáp.* Rằng Cha đời đời của Chúa Giê-xu Christ chúng ta, Đấng từ hư không đã dựng nên trời đất và mọi vật trong đó, Đấng vẫn nâng đỡ và cai trị chúng bởi mưu định và sự quan phòng đời đời của Ngài, là Đức Chúa Trời và Cha tôi vì cớ Đấng Christ là Con. Tôi tin cậy Đức Chúa Trời đến nỗi không nghi ngờ rằng Ngài sẽ cung cấp mọi điều tôi cần cho thân thể và linh hồn, và sẽ biến mọi nghịch cảnh Ngài giáng trên tôi trong thế gian buồn thảm này thành điều ích cho tôi. Đức Chúa Trời có thể làm điều ấy vì Ngài là Đức Chúa Trời Toàn Năng; Ngài muốn làm điều ấy vì Ngài là Cha thành tín.
+
+**Câu 27. Ngươi hiểu sự quan phòng của Đức Chúa Trời là gì?**
+
+*Đáp.* Là quyền năng toàn năng và hằng hiện của Đức Chúa Trời, nhờ đó Ngài nâng đỡ, như trong tay Ngài, trời đất và mọi thọ tạo, và cai trị chúng đến nỗi lá cây, ngọn cỏ, mưa nắng, năm được mùa năm mất mùa, đồ ăn thức uống, sức khỏe bệnh tật, thịnh vượng nghèo khó — mọi sự, thật vậy, đều đến với chúng ta chẳng phải bởi tình cờ, mà bởi bàn tay từ phụ của Ngài.
+
+**Câu 28. Sự hiểu biết về công cuộc sáng tạo và sự quan phòng của Đức Chúa Trời giúp chúng ta thế nào?**
+
+*Đáp.* Chúng ta có thể nhẫn nại khi gặp nghịch cảnh, biết ơn khi gặp thuận cảnh, và về tương lai chúng ta có thể vững tin nơi Đức Chúa Trời và Cha thành tín của mình rằng không điều gì phân rẽ chúng ta khỏi tình yêu Ngài. Mọi thọ tạo đều hoàn toàn trong tay Đức Chúa Trời đến nỗi không có ý muốn Ngài, chúng chẳng thể động đậy hay bị lay động.
+
+**Câu 29. Vì sao Con Đức Chúa Trời được gọi là "Giê-xu", nghĩa là "Đấng Cứu"?**
+
+*Đáp.* Vì Ngài cứu chúng ta khỏi tội lỗi mình. Ngoài Ngài không thể tìm được sự cứu rỗi nơi ai khác; tìm sự cứu rỗi nơi nào khác đều vô ích.
+
+**Câu 30. Những ai tìm sự cứu rỗi và hạnh phúc mình nơi các thánh, nơi chính mình, hay nơi nào khác, có tin Đấng Cứu Chúa duy nhất là Chúa Giê-xu Christ chăng?** [NEEDS REVIEW: câu hỏi phục dựng từ OCR hỏng]
+
+*Đáp.* Không; vì họ thật ra chối bỏ Đấng Cứu Chúa là Chúa Giê-xu Christ, dù môi miệng họ xưng nhận Ngài. Vì trong hai điều này ắt phải có một: hoặc Chúa Giê-xu Christ không phải là Đấng Cứu Chúa trọn vẹn, hoặc nếu chúng ta đón nhận Ngài như vậy bởi đức tin thật, chúng ta chỉ trông đợi nơi một mình Ngài mọi điều cần thiết cho sự cứu rỗi chúng ta.
+
+**Câu 31. Vì sao Ngài được gọi là Christ, tức là Đấng Được Xức Dầu?**
+
+*Đáp.* Vì Ngài đã được Đức Chúa Trời Cha chỉ định, và được Đức Thánh Linh xức dầu, làm Đấng Tiên Tri và Thầy Dạy tối cao của chúng ta, Đấng đã bày tỏ trọn vẹn cho chúng ta mưu định và ý muốn kín nhiệm của Đức Chúa Trời về sự cứu chuộc chúng ta; làm Thầy Tế Lễ cả của chúng ta, Đấng bởi dâng thân thể Ngài một lần vì chúng ta, đã giải cứu chúng ta, và bởi sự cầu thay, cũng hằng dâng lời khẩn nguyện cho chúng ta lên Đức Chúa Trời là Cha Ngài; và sau hết, làm Vua đời đời của chúng ta, Đấng cai trị chúng ta bằng Lời và Thánh Linh Ngài, và dành sẵn cho chúng ta sự cứu chuộc Ngài đã mua chuộc.
+
+**Câu 32. Nhưng vì sao ngươi được gọi là Cơ Đốc nhân?**
+
+*Đáp.* Vì bởi đức tin, tôi được làm chi thể của Chúa Giê-xu Christ, và do đó được dự phần sự xức dầu của Ngài, để xưng nhận danh Ngài, dâng chính mình cho Ngài như của lễ sống, chiến đấu trong đời này với lương tâm tự do và tốt lành nghịch cùng tội lỗi và ma quỷ, và sau hết được trị vì đời đời với Chúa Giê-xu Christ trên mọi thọ tạo.
+
+**Câu 33. Vì sao Chúa Giê-xu Christ được gọi là Con độc sinh của Đức Chúa Trời, nếu quả thật chúng ta cũng là con cái Ngài?**
+
+*Đáp.* Vì chỉ một mình Chúa Giê-xu Christ là Con Đức Chúa Trời bởi bản tính Ngài, còn chúng ta chỉ là con cái bởi Ngài, nhờ ân điển và sự nhận làm con nuôi.
+
+**Câu 34. Vì sao ngươi gọi Ngài là Chúa chúng ta?**
+
+*Đáp.* Vì Ngài đã chuộc thân thể và linh hồn chúng ta khỏi tội lỗi, chẳng phải bằng vàng hay bạc, mà bằng huyết báu của Ngài; và vì Ngài đã giải cứu chúng ta khỏi ách bạo ngược của ma quỷ, và do đó đã chiếm hữu chúng ta làm cơ nghiệp riêng của Ngài.
+
+**Câu 35. Lời "Ngài chịu thai bởi Đức Thánh Linh, sinh bởi trinh nữ Ma-ri" có nghĩa gì?**
+
+*Đáp.* Rằng Con đời đời của Đức Chúa Trời, Đấng từ đời đời là Đức Chúa Trời thật và vẫn như vậy, đã mặc lấy bản tính loài người thật, từ thịt và huyết của trinh nữ Ma-ri bởi sự vận hành của Đức Thánh Linh, để Ngài là dòng dõi thật của Đa-vít, trở nên giống anh em mình trong mọi sự, ngoại trừ tội lỗi.
+
+**Câu 36. Sự thai nghén và giáng sinh thánh của Chúa Giê-xu Christ đem lại ích gì cho chúng ta?**
+
+*Đáp.* Rằng Ngài là Đấng Trung Gian của chúng ta, và bởi sự vô tội và thánh khiết trọn vẹn của Ngài, Ngài che giấu trước mặt Đức Chúa Trời những tội lỗi mà tôi đã được hoài thai trong đó, và đã đem vào thế gian.
+
+**Câu 37. Ngươi hiểu gì bởi lời "Ngài đã chịu khổ"?**
+
+*Đáp.* Rằng trong suốt thời gian Ngài sống trên đất, nhưng đặc biệt về cuối đời Ngài, Ngài đã gánh trong cả thân thể lẫn tâm trí sức nặng cơn thịnh nộ của Đức Chúa Trời vì tội lỗi của cả nhân loại; để bởi sự thương khó Ngài, như của lễ chuộc tội, Ngài cứu chuộc thân thể và linh hồn chúng ta khỏi sự đoán phạt đời đời, và mua chuộc cho chúng ta ân điển của Đức Chúa Trời, sự xưng công chính và sự sống đời đời.
+
+**Câu 38. Vì sao Ngài chịu khổ dưới tay quan tổng đốc Bôn-xơ Phi-lát?** [NEEDS REVIEW: đáp án phục dựng từ OCR hỏng]
+
+*Đáp.* Để Đấng vô tội, khi bị một quan án thế gian đoán phạt, nhờ đó giải thoát chúng ta khỏi sự phán xét nghiêm khắc của Đức Chúa Trời, là sự phán xét treo trên đầu chúng ta.
+
+**Câu 39. Việc Ngài chịu đóng đinh có ý nghĩa gì hơn, so với việc Ngài chết cách khác?**
+
+*Đáp.* Có, chắc chắn; vì nhờ đó tôi được bảo đảm rằng Ngài đã gánh lấy lời rủa sả mà tôi đáng chịu; vì cái chết trên cây thập tự đã bị chính Đức Chúa Trời rủa sả.
+
+**Câu 40. Vì sao Chúa Giê-xu Christ vui lòng hạ mình xuống đến nỗi chịu chết?** [NEEDS REVIEW: đáp án phục dựng từ OCR hỏng]
+
+*Đáp.* Vì theo sự định đặt và lẽ thật của Đức Chúa Trời, không thể có sự đền tội nào cho tội lỗi chúng ta, ngoài sự chết của Con Đức Chúa Trời.
+
+**Câu 41. Vì sao Ngài chịu chôn?** [NEEDS REVIEW: đáp án phục dựng từ OCR hỏng]
+
+*Đáp.* Để tỏ ra rằng Ngài thật sự đã chết.
+
+**Câu 42. Vậy, vì Chúa Giê-xu Christ đã chết vì chúng ta, sao chúng ta vẫn còn phải chịu chết?**
+
+*Đáp.* Sự chết của chúng ta không phải là sự đền tội cho tội lỗi chúng ta, mà chỉ là phương tiện khiến tội lỗi chết đi trong chúng ta, và là lối đi vào sự sống đời đời.
+
+**Câu 43. Chúng ta được ích gì bởi của lễ của Chúa Giê-xu Christ và sự chết của Ngài trên thập tự?**
+
+*Đáp.* Bởi quyền năng Ngài, con người cũ của chúng ta bị đóng đinh với Ngài, chết và chịu chôn; để những dục vọng xác thịt không còn cai trị chúng ta nữa, và để chúng ta dâng chính mình cho Ngài làm của lễ tạ ơn.
+
+**Câu 44. Vì sao lại thêm lời "Ngài xuống âm phủ"?**
+
+*Đáp.* Để tôi được thêm sức trong những thử thách và cám dỗ lớn nhất, và được an ủi trọn vẹn khi suy ngẫm rằng Chúa Giê-xu Christ, Chúa tôi, bởi những cơn hấp hối, đau đớn, kinh hoàng và sầu khổ khôn tả mà Ngài đã chìm vào trong suốt cuộc thương khó, nhất là khi Ngài chịu đóng đinh, đã giải cứu tôi khỏi những cơn hấp hối và hình khổ của âm phủ.
+
+**Câu 45. Chúng ta được ích gì bởi sự sống lại của Chúa Giê-xu Christ?**
+
+*Đáp.* Thứ nhất, bởi sự sống lại Ngài đã thắng sự chết, để khiến chúng ta dự phần sự xưng công chính mà Ngài đã mua chuộc cho chúng ta bởi sự chết Ngài. Thứ hai, bởi quyền năng của sự sống lại ấy, chúng ta được dấy lên trong sự mới mẻ của đời sống. Và sau hết, đó là bảo chứng chắc chắn cho chúng ta về sự sống lại vinh hiển của chính chúng ta.
+
+**Câu 46. Ngươi hiểu gì bởi lời "Ngài thăng thiên"?**
+
+*Đáp.* Rằng Chúa Giê-xu Christ đã được cất lên trời khỏi đất, trước mắt các môn đồ Ngài, và rằng hiện nay Ngài ở đó vì ích lợi chúng ta, cho đến khi Ngài trở lại phán xét kẻ sống và kẻ chết.
+
+**Câu 47. Vậy há Chúa Giê-xu Christ không ở cùng chúng ta đến tận thế, theo lời hứa Ngài sao?**
+
+*Đáp.* Chúa Giê-xu Christ là Đức Chúa Trời thật và người thật, và theo bản tính loài người, Ngài không còn trên đất nữa; nhưng theo bản tính thần linh, theo sự oai nghi, ân điển và Thánh Linh Ngài, Ngài không bao giờ xa cách chúng ta.
+
+**Câu 48. Nhưng nếu nhân tính của Chúa Giê-xu Christ không ở khắp mọi nơi như thần tính Ngài, thì hai bản tính há chẳng bị phân rẽ trong Chúa Giê-xu Christ sao?**
+
+*Đáp.* Chẳng hề; vì thần tính Ngài khôn dò và hiện diện khắp mọi nơi, nên ắt phải như vậy: thần tính thật khác biệt với nhân tính mà nó đã nhận lấy, nhưng đồng thời vẫn ở trong và hiệp nhất trọn vẹn với nhân tính ấy.
+
+**Câu 49. Sự thăng thiên của Chúa Giê-xu Christ đem lại ích gì cho chúng ta?**
+
+*Đáp.* Thứ nhất, Ngài ở trên trời trước mặt Cha Ngài vì chúng ta, như Đấng Biện Hộ cho chúng ta. Thứ hai, trong thân vị Ngài, chúng ta có xác thịt mình trên trời, như bảo chứng chắc chắn rằng Đấng là Đầu chúng ta sẽ đem chúng ta là chi thể Ngài đến với Ngài; và Ngài sai Thánh Linh Ngài đến như bảo chứng, nhờ quyền năng đó chúng ta chẳng tìm kiếm điều thuộc về đất, mà tìm điều ở trên trời, nơi Chúa Giê-xu đang ngồi bên hữu Đức Chúa Trời.
+
+**Câu 50. Vì sao lại thêm lời "Ngồi bên hữu Đức Chúa Trời"?**
+
+*Đáp.* Để tỏ rằng Chúa Giê-xu Christ đã thăng thiên, để ở đó Ngài tỏ mình là Đầu của Hội Thánh Cơ Đốc, Đấng mà nhờ đó Đức Chúa Trời Cha cai trị mọi sự.
+
+**Câu 51. Chúng ta được lợi gì bởi sự vinh hiển ấy của Chúa Giê-xu Christ, Đấng là Đầu hay Chủ chúng ta?**
+
+*Đáp.* Thứ nhất, bởi Đức Thánh Linh Ngài, Ngài ban phát mọi ân tứ trên trời cho chúng ta là chi thể Ngài; rồi bởi quyền năng Ngài, Ngài bênh vực và gìn giữ chúng ta khỏi kẻ thù chúng ta.
+
+**Câu 52. Sự trở lại của Đấng Cứu Chúa chúng ta để phán xét kẻ sống và kẻ chết đem lại sự an ủi gì cho chúng ta?**
+
+*Đáp.* Rằng trong mọi hoạn nạn và bách hại, tôi vui mừng trông đợi Đấng đã vì tôi mà đứng trước tòa án Đức Chúa Trời, và đã cất khỏi tôi mọi lời rủa sả: tôi trông đợi Ngài, tôi nói, như Đấng Phán Xét, sẽ đoán phạt mọi kẻ thù của Ngài và của tôi vào sự hư mất đời đời; nhưng trái lại, sẽ tiếp nhận tôi và mọi kẻ được chọn vào niềm vui và vinh hiển của thiên đàng.
+
+**Câu 53. Ngươi tin gì về Đức Thánh Linh?**
+
+*Đáp.* Thứ nhất, Ngài cũng như Cha và Con, là Đức Chúa Trời thật và đời đời. Thứ hai, Ngài cũng được ban cho tôi, để bởi đức tin thật, Ngài khiến tôi dự phần Chúa Giê-xu Christ và mọi ơn phước của Ngài, để Ngài an ủi tôi, và ở với tôi đời đời.
+
+**Câu 54. Ngươi tin gì về Hội Thánh phổ thông thánh?** [NEEDS REVIEW: "Holy Catholick Church" — "catholic" nghĩa là phổ thông/hoàn vũ, dịch theo cách xưng nhận trong Kinh Tin Kính truyền thống]
+
+*Đáp.* Rằng Con Đức Chúa Trời đã chọn cho Ngài từ giữa nhân loại, cho sự sống đời đời, một Hội Thánh; mà từ buổi sáng thế đến tận thế, Ngài nhóm họp, bênh vực và duy trì bởi Thánh Linh và Lời Ngài, trong sự hiệp nhất của đức tin thật; và rằng tôi là chi thể sống của Hội Thánh ấy, và sẽ mãi mãi như vậy.
+
+**Câu 55. Ngươi hiểu gì bởi "sự thông công của các thánh đồ"?**
+
+*Đáp.* Thứ nhất, mọi tín hữu nói chung, và mỗi người nói riêng, đều thông công với Chúa Giê-xu Christ như chi thể Ngài; và họ dự phần sự giàu có và các ân tứ của Ngài. Thứ hai, mỗi người phải biết mình có bổn phận dùng mọi ân tứ đã nhận, với lòng thành thật và vui vẻ, vì ích lợi và sự cứu rỗi của các chi thể khác.
+
+**Câu 56. Ngươi tin gì về sự tha tội?** [NEEDS REVIEW: đáp án phục dựng từ OCR hỏng]
+
+*Đáp.* Rằng vì cớ sự đền tội của Chúa Giê-xu Christ, Đức Chúa Trời sẽ không còn nhớ đến tội lỗi tôi hay bản tính hư hoại của tôi — mà tôi phải chiến đấu trọn đời; nhưng Ngài nhân từ kể cho tôi sự xưng công chính của Chúa Giê-xu Christ, để tôi không bao giờ bị đoán xét.
+
+**Câu 57. Sự sống lại của thân thể đem lại sự an ủi gì cho ngươi?**
+
+*Đáp.* Rằng chẳng những linh hồn tôi, khi lìa đời này, sẽ lập tức được đưa lên trời, hiệp với Chúa Giê-xu Christ là Đầu nó; mà thân thể tôi cũng sẽ được dấy lên bởi quyền năng của Đấng Cứu Chuộc thần linh ấy, sẽ hiệp lại với linh hồn tôi, và được biến hóa giống thân thể vinh hiển của Chúa Giê-xu Christ.
+
+**Câu 58. Và ngươi nhận được sự an ủi gì từ điều khoản "sự sống đời đời"?**
+
+*Đáp.* Rằng như hiện nay tôi cảm nhận trong lòng khởi đầu của niềm vui đời đời, tôi cũng sẽ sau đời này hưởng hạnh phúc trọn vẹn mà mắt chưa thấy, tai chưa nghe, và lòng người chưa hề nghĩ đến, bởi ngợi khen Đức Chúa Trời đến đời đời.
+
+**Câu 59. Nhưng tin mọi điều ấy có ý nghĩa gì đối với ngươi?**
+
+*Đáp.* Rằng khi tin như vậy, tôi được xưng công chính trước mặt Đức Chúa Trời, và được làm kẻ thừa hưởng sự sống đời đời.
+
+**Câu 60. Ngươi được xưng công chính trước mặt Đức Chúa Trời thể nào?** [NEEDS REVIEW: "as if I myself had lg that perfect Obedience" — OCR hỏng, phục dựng là "đã trọn vâng phục"]
+
+*Đáp.* Bởi đức tin thật nơi một mình Chúa Giê-xu Christ; đến nỗi dù lương tâm tôi cáo trách tôi đã phạm tội nặng nghịch cùng mọi điều răn của Đức Chúa Trời, rằng tôi chẳng giữ được một điều nào trong chúng, và hơn nữa tôi hằng nghiêng về mọi điều ác; Đức Chúa Trời tuy vậy, không vì công đức nào của tôi, nhưng như hiệu quả của ân điển Ngài, ban cho và kể cho tôi sự đền tội trọn vẹn của Chúa Giê-xu Christ, sự xưng công chính và thánh khiết của Ngài, một cách như thể tôi chưa hề phạm tội, và như thể chính tôi đã trọn vâng phục như Chúa Giê-xu Christ đã vâng trọn vì tôi — miễn là tôi đón nhận ơn ấy với lòng thành tín.
+
+**Câu 61. Vì sao ngươi nói rằng ngươi chỉ được xưng công chính bởi đức tin?** [NEEDS REVIEW: "apply or appropriate them to myself" — OCR hỏng, phục dựng]
+
+*Đáp.* Chẳng phải vì cớ sự xứng đáng của đức tin tôi mà tôi được đẹp lòng Đức Chúa Trời; nhưng vì sự đền tội của Chúa Giê-xu Christ, sự xưng công chính và thánh khiết của Ngài, thay thế cho sự xưng công chính của tôi trước mặt Đức Chúa Trời, và tôi không thể áp dụng hay nhận lấy chúng cho mình bằng cách nào khác ngoài đức tin.
+
+**Câu 62. Nhưng vì sao việc lành của chúng ta không thể xưng công chính chúng ta trước mặt Đức Chúa Trời, hay ít là một phần?** [NEEDS REVIEW: "sullied with ..." — OCR hỏng, phục dựng "vấy bẩn bởi tội lỗi"]
+
+*Đáp.* Vì sự công chính có giá trị trước tòa phán xét của Đức Chúa Trời phải trọn vẹn hoàn hảo, và phù hợp trong mọi phần với luật pháp Đức Chúa Trời; còn vì những việc tốt nhất của chúng ta trong đời này đều không trọn vẹn, và vấy bẩn bởi tội lỗi.
+
+**Câu 63. Việc lành của chúng ta chẳng đáng chi, sao Đức Chúa Trời lại thưởng chúng cả đời này lẫn đời sau?**
+
+*Đáp.* Phần thưởng ấy không phải là thưởng theo công đáng, mà là ban cho bởi ân điển.
+
+**Câu 64. Nhưng giáo lý này há chẳng khiến loài người sa vào lười biếng và vô đạo sao?** [NEEDS REVIEW: "Fruits of Thanksgiving" — OCR hỏng, phục dựng]
+
+*Đáp.* Không; vì những ai đã được tháp vào Chúa Giê-xu Christ bởi đức tin thật, không thể nào không sinh ra bông trái của lòng biết ơn.
+
+**Câu 65. Vậy, vì chỉ bởi đức tin chúng ta mới dự phần Chúa Giê-xu Christ và mọi ơn phước của Ngài, thì đức tin ấy từ đâu mà có?**
+
+*Đáp.* Từ Đức Thánh Linh, Đấng tạo nên đức tin trong lòng chúng ta bởi sự rao giảng Phúc Âm thánh, và xác nhận đức tin ấy trong chúng ta bởi việc dùng các thánh lễ.
+
+**Câu 66. Các thánh lễ ấy là gì?**
+
+*Đáp.* Là những dấu hiệu và ấn chứng thấy được do Đức Chúa Trời lập nên, để bởi việc dùng thường xuyên, Ngài khiến chúng ta hiểu rõ hơn và đóng ấn cho chúng ta những lời hứa trong Phúc Âm Ngài; tức là, vì cớ một mình của lễ của Chúa Giê-xu Christ đã dâng một lần trên thập tự, Ngài ban cho chúng ta sự tha tội, và ban không cho chúng ta sự sống đời đời.
+
+**Câu 67. Vậy Lời và các thánh lễ đã được lập nên và định cho mục đích ấy, để dẫn đức tin chúng ta đến của lễ của Chúa Giê-xu Christ trên thập tự, như nền tảng duy nhất của sự cứu rỗi chúng ta chăng?**
+
+*Đáp.* Phải, chắc chắn; vì Đức Thánh Linh dạy chúng ta trong Phúc Âm, và bảo đảm cho chúng ta bởi các thánh lễ, rằng toàn bộ sự cứu rỗi chúng ta đặt nền trên một mình của lễ của Chúa Giê-xu Christ đã dâng vì chúng ta trên thập tự.
+
+**Câu 68. Chúa Giê-xu Christ đã lập mấy thánh lễ trong Giao Ước Mới?**
+
+*Đáp.* Hai: Báp-tem và Tiệc Thánh.
+
+**Câu 69. Báp-tem dạy ngươi và đóng ấn cho ngươi thể nào rằng một mình của lễ của Chúa Giê-xu Christ dâng trên thập tự có ích cho ngươi?**
+
+*Đáp.* Bởi điều này: Chúa Giê-xu Christ đã lập nên sự rửa bên ngoài này, thêm vào đó lời hứa này: chắc chắn như tôi được rửa bởi báp-tem bên ngoài này, là sự rửa sạch ô uế thân thể tôi, Ngài sẽ rửa tôi bằng huyết và Thánh Linh Ngài, để tẩy sạch tôi khỏi những ô uế của linh hồn tôi, tức là khỏi tội lỗi tôi.
+
+**Câu 70. Ngươi hiểu gì bởi được rửa bằng huyết và Thánh Linh của Chúa Giê-xu Christ?**
+
+*Đáp.* Tức là được Đức Chúa Trời ban sự tha tội nhân từ bởi huyết mà Chúa Giê-xu Christ đã đổ ra vì chúng ta trong của lễ thập tự. Cũng có nghĩa là được Đức Thánh Linh đổi mới, và được nên thánh để trở nên chi thể của Chúa Giê-xu Christ, ngày càng chết đi đối với tội lỗi, và bước đi trước mặt Đức Chúa Trời cách không chỗ trách được.
+
+**Câu 71. Chúa Giê-xu Christ đã hứa với chúng ta ở đâu rằng Ngài sẽ rửa chúng ta bằng huyết và Thánh Linh Ngài, chắc chắn như chúng ta được rửa bằng nước báp-tem?**
+
+*Đáp.* Ngay trong sự lập nên thánh lễ này, với những lời này: *"Hãy đi dạy dỗ muôn dân, hãy nhân danh Đức Cha, Đức Con, và Đức Thánh Linh mà làm phép báp-tem cho họ"*; và: *"Ai tin và chịu phép báp-tem, sẽ được rỗi; nhưng ai chẳng tin, sẽ bị đoán phạt."* Lời hứa này cũng được nhắc đến ở những chỗ Kinh Thánh gọi báp-tem là sự rửa của sự tái sinh, và sự tẩy sạch chúng ta khỏi tội lỗi. (Ma-thi-ơ 28:19; Mác 16:16)
+
+**Câu 72. Vậy sự rửa bên ngoài bằng nước có tẩy sạch tội lỗi chúng ta chăng?**
+
+*Đáp.* Không; vì chỉ có huyết của Chúa Giê-xu Christ và Đức Thánh Linh mới tẩy sạch chúng ta khỏi tội lỗi.
+
+**Câu 73. Vậy sao Đức Thánh Linh gọi báp-tem là sự rửa của sự tái sinh, và sự tẩy sạch chúng ta khỏi tội lỗi?**
+
+*Đáp.* Đức Chúa Trời bày tỏ như vậy chẳng phải vô cớ; vì Ngài không chỉ dạy chúng ta từ đó rằng như ô uế thân thể được tẩy sạch bởi nước, tội lỗi chúng ta cũng được tẩy sạch bởi huyết và Thánh Linh của Chúa Giê-xu Christ; mà hơn nữa Ngài bởi đó bảo đảm cho chúng ta, như bởi một bảo chứng và dấu thánh, rằng chúng ta thật được rửa sạch thuộc linh khỏi tội lỗi mình, chắc chắn như chúng ta được rửa bên ngoài bằng nước báp-tem.
+
+**Câu 74. Trẻ nhỏ cũng phải chịu báp-tem chăng?**
+
+*Đáp.* Phải; vì chúng cũng như người lớn, thuộc về giao ước với Đức Chúa Trời, và được kể vào Hội Thánh Ngài, và cũng vì sự tha tội bởi huyết của Chúa Giê-xu Christ, và Đức Thánh Linh là Đấng tạo nên đức tin, được hứa cho chúng chẳng kém gì người lớn; chúng cũng phải được tháp vào Hội Thánh Cơ Đốc bởi báp-tem, như dấu hiệu của giao ước, và được phân biệt bởi đó khỏi con cái của kẻ vô tín; như đã thực hành dưới Giao Ước Cũ bởi phép cắt bì, mà báp-tem đã được lập nên trong Tân Ước để thay thế.
+
+**Câu 75. Tiệc Thánh dạy ngươi và bảo đảm cho ngươi thể nào rằng ngươi thông công với một mình của lễ mà Chúa Giê-xu Christ đã dâng trên thập tự, và với mọi ơn ích của nó?** [NEEDS REVIEW: "as the true Signs of the Lord's Body and Blood" — OCR hỏng, phục dựng]
+
+*Đáp.* Ở chỗ Chúa Giê-xu Christ đã truyền cho tôi, và mọi tín hữu Ngài, ăn bánh bẻ ra ấy, và uống chén ấy để nhớ đến Ngài; và hơn nữa, ở chỗ Ngài bảo đảm cho tôi: Thứ nhất, thân thể Ngài đã thật bị dâng trên thập tự, bị bẻ ra vì tôi, và huyết Ngài đã đổ ra vì tội lỗi tôi, chắc chắn như tôi tận mắt thấy trong Tiệc Thánh bánh của Chúa bị bẻ ra vì tôi, và chén được trao cho tôi. Và thứ hai, Ngài sẽ nuôi dưỡng linh hồn tôi trong sự sống đời đời bằng thân thể bị đóng đinh và huyết đã đổ ra của Ngài, chắc chắn như tôi nhận từ tay người hầu việc, và ăn uống bằng miệng mình bánh và rượu, là những dấu thật của thân thể và huyết Chúa.
+
+**Câu 76. Ăn thân thể của Chúa Giê-xu Christ chịu đóng đinh, và uống huyết Ngài đã đổ ra, có nghĩa gì?** [NEEDS REVIEW: một số cụm từ phục dựng từ OCR hỏng]
+
+*Đáp.* Chẳng những đón nhận với đức tin thật sự thương khó và sự chết của Chúa Giê-xu Christ, và nhờ đó được sự tha tội và sự sống đời đời; mà còn ngày càng hiệp nhất với thân thể thánh của Đấng Christ bởi Đức Thánh Linh, Đấng ngự cả trong Ngài lẫn trong chúng ta, đến nỗi dù Chúa Giê-xu Christ ở trên trời, còn chúng ta ở dưới đất, chúng ta vẫn là thịt của thịt Ngài, xương của xương Ngài; và chúng ta được cùng một Thánh Linh làm cho sống và dẫn dắt đời đời, như các chi thể của một thân thể được cùng một linh hồn cai quản.
+
+**Câu 77. Chúa Giê-xu Christ đã hứa ở đâu rằng Ngài sẽ ban cho những ai tin Ngài thân thể Ngài để ăn, và huyết Ngài để uống, chắc chắn như họ ăn bánh bẻ ra ấy và uống chén ấy?**
+
+*Đáp.* Trong sự lập nên Tiệc Thánh, với những lời này: *"Đức Chúa Giê-xu, trong đêm Ngài bị nộp, lấy bánh, tạ ơn, rồi bẻ ra mà phán rằng: Hãy lấy, hãy ăn, nầy là thân thể ta, vì các ngươi mà phó cho; hãy làm điều nầy để nhớ ta. Cũng một thể ấy, sau khi ăn bữa tối rồi, Ngài lấy chén và phán rằng: Chén nầy là sự giao ước mới trong huyết ta; hễ khi nào các ngươi uống, hãy làm điều nầy để nhớ ta: vì mỗi lần anh em ăn bánh nầy, uống chén nầy, thì rao sự chết của Chúa cho tới lúc Ngài đến."* Lời hứa này cũng được sứ đồ Phao-lô nhắc đến khi ông nói: *"Cái chén phước lành mà chúng ta chúc phước, há chẳng phải là thông với huyết của Đấng Christ sao? Cái bánh mà chúng ta bẻ, há chẳng phải là thông với thân thể của Đấng Christ sao? Vì có một bánh, chúng ta dẫu nhiều, cũng chỉ một thân thể; bởi chưng chúng ta đều có phần chung trong một bánh."* (1 Cô-rinh-tô 11:23–26; 10:16–17)
+
+**Câu 78. Vậy bánh và rượu có thật biến hóa thành thân thể và huyết của Chúa Giê-xu Christ chăng?**
+
+*Đáp.* Không; nhưng như trong báp-tem, nước chẳng biến thành huyết của Đấng Christ, và nước ấy cũng chẳng phải là sự rửa sạch tội lỗi chúng ta, mà chỉ là sự bảo đảm cho điều ấy, và là thánh lễ do Đức Chúa Trời định; thì trong Tiệc Thánh cũng vậy, bánh chẳng biến thành thân thể của Đấng Christ, dù theo bản tính và tính chất của các thánh lễ, nó được gọi là thân thể Ngài.
+
+**Câu 79. Vậy sao Chúa Giê-xu Christ gọi bánh là thân thể Ngài, và chén là huyết Ngài, hay giao ước mới trong huyết Ngài; và sao thánh Phao-lô gọi đó là sự thông công thân thể và huyết của Chúa Giê-xu Christ?**
+
+*Đáp.* Chúa Giê-xu Christ nói với chúng ta như vậy chẳng phải vô cớ; vì Ngài muốn dạy chúng ta rằng: chẳng những như bánh và rượu nuôi dưỡng chúng ta trong đời tạm này, thân thể bị đóng đinh của Ngài và huyết Ngài đã đổ ra thật là đồ ăn thức uống nuôi dưỡng linh hồn chúng ta trong sự sống đời đời; mà còn muốn bởi những dấu hiệu và bảo chứng thấy được này, bảo đảm cho chúng ta càng chắc rằng chúng ta thật dự phần thân thể và huyết Ngài bởi sự vận hành của Đức Thánh Linh, chắc chắn như chúng ta nhận bằng miệng thân thể mình những dấu đã biệt riêng thánh để nhớ đến Ngài; và do đó mọi sự thương khó và vâng phục của Ngài chắc chắn thuộc về chúng ta, như thể chúng ta đã chịu mọi sự trong chính thân mình, và đã tự mình đền tội với Đức Chúa Trời vì tội lỗi chúng ta.
+
+**Câu 80. Có gì khác biệt giữa Tiệc Thánh của Chúa và lễ Mi-sa của người Công giáo Rô-ma?**
+
+*Đáp.* Tiệc Thánh của Chúa là chứng cớ cho chúng ta rằng chúng ta được tha trọn mọi tội lỗi bởi một mình của lễ của Chúa Giê-xu Christ, mà chính Ngài đã dâng trọn một lần trên thập tự; và rằng chúng ta được tháp vào Chúa Giê-xu Christ bởi Đức Thánh Linh, Đấng với thân thể thật hiện đang ở trên trời bên hữu Đức Chúa Trời Cha, và đòi hỏi sự thờ phượng của chúng ta. Nhưng lễ Mi-sa của người Công giáo Rô-ma dạy rằng kẻ sống lẫn kẻ chết đều không được tha tội bởi sự chết của Chúa Giê-xu Christ, trừ khi Ngài lại được dâng lên hằng ngày vì họ bởi tay các thầy tế lễ. Nó cũng dạy rằng Chúa Giê-xu Christ hiện diện về thân thể dưới hình bánh và rượu, và do đó phải được thờ lạy ở đó: đến nỗi lễ Mi-sa, xét cho cùng, chẳng khác gì phạm thượng đến một mình của lễ của Chúa Giê-xu Christ, và là sự thờ hình tượng đáng rủa sả.
+
+*(Ghi chú: giọng văn tranh luận gay gắt trong đáp án này là của nguyên tác 1720.)*
+
+**Câu 81. Tiệc Thánh của Chúa được lập nên cho những ai?** [NEEDS REVIEW: đoạn giữa đáp án phục dựng từ OCR hỏng]
+
+*Đáp.* Cho những ai bất mãn với chính mình vì cớ tội lỗi mình; nhưng vẫn vững tin rằng mình sẽ được tha thứ vì tình yêu của Chúa Giê-xu Christ, và rằng những yếu đuối còn lại trong mình sẽ được che phủ bởi công đức của sự chết và sự thương khó Ngài; những người càng ngày càng khao khát thêm sức cho đức tin mình, và sửa đổi đời sống mình. Kẻ giả hình, và những ai không thật lòng trở lại cùng Đức Chúa Trời, ăn uống sự đoán phạt cho chính mình.
+
+**Câu 82. Những kẻ bởi nguyên tắc và việc làm mình là kẻ vô tín và gian ác, có nên được cho dự Tiệc Thánh chăng?** [NEEDS REVIEW: "by virtue of the Keys of the Kingdom of Heaven, by the Ordinance of JESUS CHRIST and his Apostles" — OCR hỏng, phục dựng]
+
+*Đáp.* Không; vì làm vậy là phạm đến giao ước của Đức Chúa Trời, và chuốc lấy cơn thịnh nộ Ngài trên cả Hội Thánh. Vì vậy Hội Thánh Cơ Đốc có bổn phận, theo sự định đặt của Chúa Giê-xu Christ và các sứ đồ Ngài, bởi chìa khóa Nước Trời, loại trừ tất cả những kẻ như vậy, cho đến khi họ tỏ ra sửa đổi đời sống mình.
+
+**Câu 83. Chìa khóa Nước Trời là gì?** [NEEDS REVIEW: "the Christian Discipline" — OCR hỏng, phục dựng]
+
+*Đáp.* Là sự rao giảng Phúc Âm, và kỷ luật Hội Thánh; bởi hai điều này, Nước Trời được mở ra cho mọi tín hữu, và đóng lại nghịch cùng kẻ vô tín và gian ác.
+
+**Câu 84. Nước Trời được mở ra hay đóng lại bởi sự rao giảng Phúc Âm thể nào?** [NEEDS REVIEW: "their Sins are truly forgiven them" và "in this Life, and in the Life to come" — OCR hỏng, phục dựng]
+
+*Đáp.* Vì theo mạng lệnh của Chúa Giê-xu Christ, có lời tuyên bố và chứng nhận công khai cho mọi tín hữu nói chung, và cho mỗi người nói riêng, rằng mỗi khi họ đón nhận các lời hứa trong Phúc Âm với đức tin thật, tội lỗi họ thật được Đức Chúa Trời tha thứ bởi công đức của Chúa Giê-xu Christ; và trái lại, có lời tuyên bố cho kẻ vô tín và không ăn năn rằng cơn thịnh nộ của Đức Chúa Trời và sự đoán phạt đời đời ở trên họ, bao lâu họ còn trì hoãn sự trở lại. Và Đức Chúa Trời, theo lời phán đã tuyên trong Phúc Âm thánh, sẽ phán xét cả hai hạng người ấy trong đời này, và trong đời sau.
+
+**Câu 85. Nước Trời được đóng lại và mở ra bởi kỷ luật Hội Thánh thể nào?**
+
+*Đáp.* Như vầy: khi có những người mang danh Cơ Đốc nhân mà dạy một giáo lý hay sống một đời sống chẳng phải Cơ Đốc, nếu sau khi đã nhiều lần được khuyên bảo cách anh em mà họ vẫn không chịu từ bỏ những sai lầm và đời sống gây gương xấu, họ bị triệu ra trước Hội Thánh, hay trước những người được chỉ định cho việc ấy, theo mạng lệnh của Chúa Giê-xu Christ; và nếu họ khinh dể lời khuyên bảo, những người ấy loại trừ họ, bởi sự cấm dự các thánh lễ, khỏi sự thông công của Hội Thánh Đức Chúa Trời và Nước của Chúa Giê-xu Christ. Và nếu sau đó họ hứa nguyện và tỏ ra sửa đổi cách nghiêm túc, họ được tiếp nhận làm chi thể của Chúa Giê-xu Christ và Hội Thánh Ngài.
+
+## Phần thứ ba: Về lòng biết ơn
+
+**Câu 86. Vì chúng ta được giải cứu khỏi sự khốn khổ mình bởi ân điển của Chúa Giê-xu Christ mà thôi, chẳng kể đến công đức chúng ta; sao chúng ta còn phải làm việc lành?**
+
+*Đáp.* Vì Chúa Giê-xu Christ, sau khi đã chuộc chúng ta bởi huyết Ngài và khiến chúng ta được tự do, cũng bởi Thánh Linh Ngài biến hóa chúng ta theo hình ảnh Ngài, để chúng ta bày tỏ lòng biết ơn Đức Chúa Trời vì các ơn phước Ngài, và ngợi khen Ngài trọn đời; và mặt khác, để mỗi tín hữu được bảo đảm về đức tin mình bởi những bông trái nó sinh ra, và để bởi cách ăn ở thánh khiết, người lân cận chúng ta được chinh phục về với Chúa Giê-xu Christ.
+
+**Câu 87. Vậy những kẻ cứ tiếp tục trong sự vô đạo và vong ân, không chịu trở lại cùng Đức Chúa Trời, có thể được cứu chăng?**
+
+*Đáp.* Không, chắc chắn không; vì Kinh Thánh chép rằng kẻ ô uế, kẻ thờ hình tượng, kẻ tà dâm, kẻ trộm cướp, kẻ tham lam, kẻ say sưa, kẻ chưởi rủa, kẻ lường gạt, và những kẻ như vậy, đều chẳng được hưởng Nước Đức Chúa Trời. (1 Cô-rinh-tô 6:9–10)
+
+**Câu 88. Sự trở lại thật của con người gồm mấy phần?**
+
+*Đáp.* Hai phần: giết chết (hay lột bỏ) con người cũ, và làm cho sống lại (hay mặc lấy) con người mới.
+
+**Câu 89. Giết chết con người cũ là gì?**
+
+*Đáp.* Là có lòng bất mãn sâu sắc vì đã chọc giận Đức Chúa Trời bởi tội lỗi chúng ta, và ngày càng ghét và lánh xa chúng hơn.
+
+**Câu 90. Làm cho con người mới sống lại là gì?**
+
+*Đáp.* Là vui mừng trong Đức Chúa Trời nhờ Chúa Giê-xu Christ, và hết lòng chuyên tâm làm mọi việc lành với lòng yêu mến và vui thích, theo ý muốn Đức Chúa Trời.
+
+**Câu 91. Những việc lành ấy là gì?**
+
+*Đáp.* Chỉ là những việc làm bởi đức tin thật, theo luật pháp Đức Chúa Trời, và chỉ vì vinh hiển Ngài; chứ chẳng phải những việc đặt nền trên ý riêng chúng ta, hay sự định đặt của loài người.
+
+**Câu 92. Hãy đọc lại luật pháp Đức Chúa Trời.**
+
+*Đáp.* Khi Đức Chúa Trời ban luật pháp cho loài người, Ngài phán mọi lời này rằng: *"Ta là Giê-hô-va Đức Chúa Trời ngươi, đã rút ngươi ra khỏi xứ Ê-díp-tô, là nhà nô lệ.*
+
+*1. Trước mặt ta, ngươi chớ có các thần khác.*
+
+*2. Ngươi chớ làm tượng chạm cho mình, cũng chớ làm tượng nào giống như những vật trên trời cao kia, hoặc nơi đất thấp nầy, hoặc trong nước dưới đất. Ngươi chớ quì lạy trước các hình tượng đó, và cũng đừng hầu việc chúng nó; vì ta là Giê-hô-va Đức Chúa Trời ngươi, tức là Đức Chúa Trời kỵ tà, hễ ai ghét ta, ta sẽ nhân tội tổ phụ phạt lại con cháu đến ba bốn đời, và sẽ làm ơn đến ngàn đời cho những kẻ yêu mến ta và giữ các điều răn ta.*
+
+*3. Ngươi chớ lấy danh Giê-hô-va Đức Chúa Trời ngươi mà làm chơi, vì Đức Giê-hô-va chẳng cầm bằng vô tội kẻ nào lấy danh Ngài mà làm chơi.*
+
+*4. Hãy nhớ ngày nghỉ đặng làm nên ngày thánh. Ngươi hãy làm hết công việc mình trong sáu ngày; nhưng ngày thứ bảy là ngày nghỉ của Giê-hô-va Đức Chúa Trời ngươi: trong ngày đó, ngươi, con trai, con gái, tôi trai tớ gái, súc vật của ngươi, và khách ngoại bang ở trong nhà ngươi đều chớ làm công việc chi hết; vì trong sáu ngày Đức Giê-hô-va đã dựng nên trời, đất, biển, và muôn vật ở trong đó, qua ngày thứ bảy thì Ngài nghỉ: vậy nên Đức Giê-hô-va đã ban phước cho ngày nghỉ và làm nên ngày thánh.*
+
+*5. Hãy hiếu kính cha mẹ ngươi, hầu cho ngươi được sống lâu trên đất mà Giê-hô-va Đức Chúa Trời ngươi ban cho.*
+
+*6. Ngươi chớ giết người.*
+
+*7. Ngươi chớ phạm tội tà dâm.*
+
+*8. Ngươi chớ trộm cướp.*
+
+*9. Ngươi chớ nói chứng dối cho kẻ lân cận mình.*
+
+*10. Ngươi chớ tham nhà kẻ lân cận ngươi, cũng đừng tham vợ người, hoặc tôi trai tớ gái, bò, lừa, hay là vật chi thuộc về kẻ lân cận ngươi."* (Xuất Ê-díp-tô Ký 20:2–17 — dịch theo phong cách Kinh Thánh 1934)
+
+**Câu 93. Mười điều răn ấy được chia làm mấy phần?**
+
+*Đáp.* Hai bảng; bảng thứ nhất dạy chúng ta trong bốn điều răn bổn phận đối với Đức Chúa Trời, và bảng thứ hai dạy chúng ta trong sáu điều răn cách ăn ở đối với người lân cận.
+
+**Câu 94. Đức Chúa Trời truyền dạy gì trong điều răn thứ nhất?**
+
+*Đáp.* Rằng tôi phải hết lòng lo cho sự cứu rỗi linh hồn mình, tránh xa và giữ mình khỏi mọi thứ thờ hình tượng, phù thủy, bùa chú, ma thuật và mê tín, cùng sự cầu khẩn các thánh hay các thọ tạo khác; và trái lại, tôi phải học biết Đức Chúa Trời thật, chỉ đặt lòng tin cậy nơi Ngài, phục tùng một mình Ngài với mọi khiêm nhường và nhẫn nại, chỉ trông đợi mọi điều lành từ Ngài, yêu mến Ngài, tôn kính Ngài và kính sợ Ngài hết lòng; đến nỗi thà từ bỏ mọi thọ tạo, còn hơn làm điều gì nghịch ý Ngài, dù nhỏ mọn.
+
+**Câu 95. Thờ hình tượng là gì?** [NEEDS REVIEW: câu hỏi và đáp án phục dựng từ OCR hỏng]
+
+*Đáp.* Là tự tạo cho mình, hay có — thay cho Đức Chúa Trời thật, hay bên cạnh Đức Chúa Trời thật, Đấng bày tỏ chính Ngài cho chúng ta trong Lời Ngài — một đối tượng nào khác để đặt lòng tin cậy vào.
+
+**Câu 96. Đức Chúa Trời đòi hỏi gì trong điều răn thứ hai?**
+
+*Đáp.* Rằng chúng ta chớ tự tạo cho mình hình tượng nào về Đấng Thần Linh, và chớ dâng cho Đức Chúa Trời sự tôn kính nào khác ngoài điều Ngài đã truyền dạy chúng ta trong Lời Ngài.
+
+**Câu 97. Vậy chúng ta không được có hình tượng nào cả sao?**
+
+*Đáp.* Chúng ta không thể, cũng chẳng nên, mô tả Đức Chúa Trời bằng cách nào; còn về các thọ tạo, dù chúng ta có thể mô tả chúng, Đức Chúa Trời vẫn cấm chúng ta làm hay có hình tượng nào của chúng để tôn kính hay dùng trong sự thờ phượng Ngài.
+
+**Câu 98. Nhưng há không thể dung hình tượng trong các nhà thờ, như sách cho kẻ tầm thường và dốt nát sao?** [NEEDS REVIEW: đáp án phục dựng từ OCR hỏng]
+
+*Đáp.* Không; vì chúng ta chớ nên cho mình khôn hơn Đức Chúa Trời, Đấng không muốn Cơ Đốc nhân được dạy bởi hình tượng câm, mà bởi sự rao giảng sống động của Lời Ngài.
+
+**Câu 99. Điều răn thứ ba có ý nghĩa gì?**
+
+*Đáp.* Rằng chúng ta chẳng những chớ làm ô danh Đức Chúa Trời bởi lời phạm thượng, lời thề dối và thề thốt vô ích, mà cũng chớ bởi im lặng hay dung túng mà dự phần vào tội ghê gớm ấy. Nói tóm lại, chúng ta chẳng bao giờ để danh thánh của Đức Chúa Trời trên môi miệng mình mà không có lòng kính sợ; và do đó danh Ngài phải được xưng nhận, kêu cầu và tôn vinh cách thánh sạch bởi mọi lời nói và mọi việc làm của chúng ta.
+
+**Câu 100. Phạm đến danh Đức Chúa Trời bởi lời thề và phạm thượng có phải là tội lớn đến nỗi Đức Chúa Trời sẽ giáng cơn giận Ngài cả trên những ai không ngăn cấm và ngăn trở những lời phạm thượng và thề thốt ấy, hết sức mình chăng?** [NEEDS REVIEW: "punish'd with Death" — OCR hỏng, phục dựng]
+
+*Đáp.* Phải, chắc chắn lắm; vì không có tội nào lớn hơn, hay chọc giận Đức Chúa Trời hơn, việc phạm đến danh Ngài; vì cớ đó Ngài đã truyền phải phạt tội ấy bằng sự chết.
+
+**Câu 101. Nhưng chúng ta há không được thề cách tin kính nhân danh Đức Chúa Trời sao?**
+
+*Đáp.* Được; khi quan quyền, hay có sự cần thiết nào khác, đòi hỏi để xác nhận lòng trung tín và chân thật của người ta, vì vinh hiển Đức Chúa Trời và sự an toàn của người lân cận. Vì cách thề ấy đặt nền trên Lời Đức Chúa Trời, và chúng ta thấy các thánh đồ đã dùng dưới cả Giao Ước Cũ lẫn Giao Ước Mới.
+
+**Câu 102. Chúng ta há cũng chẳng được thề bởi các thánh, hay bởi thọ tạo nào khác sao?** [NEEDS REVIEW: "bear Testimony of the Truth" — OCR hỏng, phục dựng]
+
+*Đáp.* Không; vì thề cách hợp pháp là cầu khẩn Đức Chúa Trời, Đấng một mình biết lòng người, xin Ngài làm chứng cho lẽ thật, và phạt tôi nếu tôi thề dối; đó là sự tôn kính chẳng thuộc về thọ tạo nào.
+
+**Câu 103. Đức Chúa Trời truyền dạy gì trong điều răn thứ tư?**
+
+*Đáp.* Thứ nhất, sự thờ phượng của Hội Thánh, hay chức vụ rao giảng Lời, phải được duy trì cẩn thận, cũng như các trường học. Tôi chớ nên vắng mặt, nhất là trong ngày Sa-bát, tức ngày nghỉ, khỏi Hội Thánh của Đức Chúa Trời, để nghe Lời Ngài, dự phần các thánh lễ, công khai kêu cầu danh Đức Chúa Trời, và đưa tay giúp đỡ người nghèo cách Cơ Đốc. Thứ hai, suốt mọi ngày đời tôi, tôi phải thôi làm các việc ác, để nhường chỗ cho công việc Đức Chúa Trời trong lòng tôi bởi Thánh Linh Ngài, và nhờ đó tôi bắt đầu ngay trong đời này ngày Sa-bát đời đời.
+
+**Câu 104. Đức Chúa Trời khuyên dạy ngươi gì trong điều răn thứ năm?**
+
+*Đáp.* Rằng tôi phải dâng cho cha mẹ tôi, và mọi bề trên tôi, mọi sự tôn kính, yêu mến và trung tín; rằng tôi phải phục tùng với mọi lòng tôn trọng những lời dạy dỗ tốt của họ, và vâng phục xứng đáng những sự sửa phạt của họ; và nếu họ có yếu đuối và khuyết điểm nào, tôi phải nhẫn nại chịu đựng, vì Đức Chúa Trời đã vui lòng dùng họ để dẫn dắt tôi.
+
+**Câu 105. Đức Chúa Trời đòi hỏi gì trong điều răn thứ sáu?**
+
+*Đáp.* Rằng tôi chớ, hoặc trong tư tưởng, lời nói, nét mặt, huống chi trong việc làm, hoặc bởi chính mình hay bởi kẻ khác, làm ô danh, ghét, làm thương tổn, hay giết người lân cận mình; nhưng phải gạt bỏ mọi ý muốn báo thù. Ngài cũng cấm tôi làm hại chính mình, hay cố ý dấn mình vào hiểm nguy; vì Đức Chúa Trời đã trao gươm vào tay quan quyền, để phạt kẻ giết người.
+
+**Câu 106. Nhưng điều răn này dường như chỉ cấm giết người?**
+
+*Đáp.* Đức Chúa Trời, khi cấm giết người, tỏ cho chúng ta rằng Ngài ghét mọi điều có thể là gốc rễ của nó; như ganh ghét, giận dữ, và ý muốn báo thù: và Ngài coi tất cả những điều ấy là giết người.
+
+**Câu 107. Nhưng há chẳng đủ sao, nếu chúng ta không cướp mạng sống người lân cận, như vừa nói?**
+
+*Đáp.* Không; vì Đức Chúa Trời, khi cấm chúng ta ganh ghét, thù hận và giận dữ, truyền chúng ta yêu người lân cận như chính mình, và đối đãi họ với mọi nhẫn nại, hòa bình, hiền hòa, thương xót và thiện chí; hết sức mình ngăn cản điều hại mà kẻ khác muốn làm cho họ, và thậm chí làm ơn cho kẻ thù mình.
+
+**Câu 108. Điều răn thứ bảy dạy gì?**
+
+*Đáp.* Rằng mọi sự ô uế đều bị Đức Chúa Trời rủa sả, và do đó, ghét nó từ đáy lòng, chúng ta phải sống cách thanh sạch và nề nếp, dù trong bậc hôn nhân thánh hay ngoài bậc ấy.
+
+**Câu 109. Đức Chúa Trời trong điều răn này há chẳng cấm tà dâm và những gương xấu tương tự sao?**
+
+*Đáp.* Vì thân thể và linh hồn chúng ta là đền thờ của Đức Thánh Linh, Đức Chúa Trời muốn chúng ta giữ cả hai được tinh sạch và thánh khiết; và vì cớ đó Ngài cấm chúng ta mọi thứ ô uế, dù trong hành động, cử chỉ, tư tưởng, lời nói, ước muốn, và mọi điều có thể khiến con người nghiêng về đó.
+
+**Câu 110. Đức Chúa Trời cấm chúng ta điều gì trong điều răn thứ tám?**
+
+*Đáp.* Nó chẳng những cấm chúng ta trộm cướp, là những tội bị luật pháp phạt, mà còn coi như nhiều thứ trộm cướp mọi cách gian ác mà chúng ta dùng để chiếm đoạt của cải người lân cận, dù bằng sức mạnh công khai, hay dưới vỏ bọc công lý, hoặc bằng cân non đong thiếu, hàng hóa và tiền bạc gian lận, cho vay nặng lãi, hay bất kỳ cách nào khác mà Đức Chúa Trời cấm; và nó cũng cấm mọi thứ tham lam, và việc dùng sai hay hoang phí những của tốt lành mà Ngài vui lòng ban cho chúng ta.
+
+**Câu 111. Nhưng Đức Chúa Trời truyền ngươi điều gì ở đây?**
+
+*Đáp.* Ngài truyền tôi hết sức mình lo ích lợi cho người lân cận, và đối đãi với họ cũng như tôi muốn họ đối đãi với tôi. Và hơn nữa, Ngài khuyên tôi siêng năng làm việc, để tôi có thể giúp đỡ người nghèo trong lúc túng thiếu.
+
+**Câu 112. Điều răn thứ chín, xét về thực chất, có ý nghĩa gì?**
+
+*Đáp.* Rằng tôi chớ làm chứng dối nghịch cùng ai, chớ xuyên tạc lời nói họ; rằng tôi chớ làm kẻ nói hành hay vu khống; rằng tôi chớ đoán xét ai, chớ vội giúp đoán phạt họ khi chưa nghe họ: nhưng phải tránh mọi thứ dối trá và lừa gạt, như những việc của ma quỷ, kẻo tôi chuốc lấy những hậu quả nghiêm khắc nhất của cơn thịnh nộ Đức Chúa Trời. Nó cũng truyền tôi, dù trong tòa án hay dịp nào khác, phải yêu lẽ thật, và nói cùng xưng nhận lẽ thật cách thành thật. Sau hết, khi có dịp, tôi phải giữ gìn danh dự và tiếng tốt của người lân cận, và hết sức mình làm cho rạng rỡ.
+
+**Câu 113. Điều răn thứ mười cấm chúng ta điều gì?**
+
+*Đáp.* Rằng chẳng bao giờ để vào lòng chúng ta ước muốn hay tư tưởng nhỏ mọn nào nghịch cùng luật pháp Đức Chúa Trời; nhưng chúng ta hằng ghét tội lỗi từ đáy lòng, và lấy làm vui thích mà làm điều công chính.
+
+**Câu 114. Nhưng những ai đã trở lại cùng Đức Chúa Trời có thể giữ trọn các điều răn ấy chăng?**
+
+*Đáp.* Không; vì ngay những người thánh khiết nhất, bao lâu còn sống trong đời này, cũng chỉ có khởi đầu nhỏ bé của sự vâng phục ấy; tuy vậy họ bắt đầu sống với lòng chuyên tâm nghiêm túc, chẳng những theo một vài, mà theo mọi điều răn của Đức Chúa Trời.
+
+**Câu 115. Vậy sao Đức Chúa Trời vui lòng khuyên dạy chúng ta vâng giữ các điều răn Ngài cách nghiêm nhặt, nếu chẳng ai trong đời này làm trọn được?**
+
+*Đáp.* Thứ nhất, để suốt đời chúng ta ngày càng biết mình nghiêng về tội lỗi là dường nào, và để thôi thúc chúng ta càng sốt sắng khao khát Đức Chúa Trời tha thứ, và tìm sự xưng công chính mình trong Chúa Giê-xu Christ. Và cũng để chúng ta không ngừng cầu xin Đức Chúa Trời ban ân điển của Đức Thánh Linh Ngài, hầu ngày càng trở nên giống hình ảnh Ngài; để khi lìa đời này, chúng ta đạt được sự trọn vẹn đã hứa.
+
+**Câu 116. Vì sao cầu nguyện cần thiết cho Cơ Đốc nhân?** [NEEDS REVIEW: "the chief Part of the Acknowledgment" — OCR hỏng, phục dựng]
+
+*Đáp.* Vì đó là phần chính yếu của lòng biết ơn mà Đức Chúa Trời đòi hỏi nơi chúng ta, và Ngài sẽ chẳng ban ân điển và Đức Thánh Linh Ngài, ngoài cho những ai cầu xin với tiếng than thở và lời cầu nguyện sốt sắng liên tục, và dâng lời tạ ơn Ngài sau khi đã nhận được.
+
+**Câu 117. Lời cầu nguyện phải thế nào để đẹp lòng Đức Chúa Trời, và Ngài đoái nghe?**
+
+*Đáp.* Trước hết, chúng ta phải hết lòng kêu cầu một mình Đức Chúa Trời thật, Đấng đã bày tỏ chính Ngài cho chúng ta bởi Lời Ngài, để chúng ta được từ Ngài mọi điều Ngài truyền chúng ta cầu xin. Thứ hai, chúng ta phải thành thật và thấu đáo biết những nhu cầu và sự khốn khổ của mình, để chúng ta hạ mình sâu xa trước mặt oai nghi Ngài. Và sau hết, chúng ta phải đặt nền tảng này: chẳng kể đến sự không xứng đáng của chúng ta, Ngài chắc chắn sẽ nghe lời cầu nguyện chúng ta vì tình yêu của Chúa Giê-xu Christ, như Ngài đã hứa với chúng ta trong Lời Ngài.
+
+**Câu 118. Đức Chúa Trời muốn chúng ta cầu xin Ngài điều gì trong lời cầu nguyện?**
+
+*Đáp.* Mọi điều cần thiết cho chúng ta cả về thân thể lẫn linh hồn, và điều mà Chúa Giê-xu Christ, Chúa chúng ta, đã tóm lại trong bài cầu nguyện mà chính Ngài đã dạy chúng ta.
+
+**Câu 119. Hãy đọc lại bài ấy.**
+
+*Đáp.* *"Lạy Cha chúng tôi ở trên trời; Danh Cha được thánh; Nước Cha được đến; Ý Cha được nên, ở đất như trời! Xin cho chúng tôi hôm nay đồ ăn đủ ngày; Xin tha tội lỗi cho chúng tôi, như chúng tôi cũng tha kẻ phạm tội nghịch cùng chúng tôi; Xin chớ để chúng tôi bị cám dỗ, mà cứu chúng tôi khỏi điều ác! Vì nước, quyền, vinh hiển đều thuộc về Cha đời đời. A-men."* (Ma-thi-ơ 6:9–13)
+
+**Câu 120. Vì sao Chúa Giê-xu Christ đã truyền chúng ta dùng lời "Cha chúng tôi" khi thưa với Đức Chúa Trời?**
+
+*Đáp.* Để ngay lúc khởi đầu lời cầu nguyện, khơi dậy trong chúng ta lòng kính sợ hiếu thảo và lòng tin chắc vững vàng nơi Đức Chúa Trời, là hai nền tảng của sự cầu nguyện; vì thật vậy, Đức Chúa Trời đã trở nên Cha chúng ta nhờ Chúa Giê-xu Christ, và là Cha như vậy, chúng ta phải tin chắc rằng Ngài sẽ dễ dàng ban cho chúng ta điều chúng ta cầu xin với đức tin, hơn cha mẹ chúng ta ban cho chúng ta điều chúng ta xin họ.
+
+**Câu 121. Vì sao lại thêm lời "ở trên trời"?**
+
+*Đáp.* Để chúng ta chớ có tư tưởng trần tục nào về sự oai nghi của Đức Chúa Trời, và để chúng ta trông đợi từ quyền năng toàn năng của Ngài mọi điều cần thiết cho cả thân thể lẫn linh hồn.
+
+**Câu 122. Lời cầu xin thứ nhất là gì?** [NEEDS REVIEW: "to sanctify and to Praise thee in all thy Works" — OCR hỏng, phục dựng]
+
+*Đáp.* *"Danh Cha được thánh."* Tức là: Xin trước hết cho chúng con biết Cha cách đúng đắn, tôn thánh và ngợi khen Cha trong mọi công việc Ngài, là những việc mà trong đó Cha bày tỏ rực rỡ quyền năng, khôn ngoan, nhân từ, công chính, thương xót và lẽ thật của Cha. Cũng xin cho chúng con điều chỉnh tư tưởng, lời nói và hành động mình, và tóm lại cả đời sống chúng con, đến nỗi danh Cha chẳng bao giờ bị phạm thượng vì cớ chúng con, mà luôn được tôn kính và tôn vinh.
+
+**Câu 123. Lời cầu xin thứ hai là gì?**
+
+*Đáp.* *"Nước Cha được đến."* Tức là: Xin dẫn dắt chúng con bởi Thánh Linh Cha, để chúng con ngày càng phục tùng Cha hơn. Xin gìn giữ Hội Thánh Cha, và gia tăng Hội Thánh; hủy phá mọi công việc của ma quỷ, và mọi quyền lực nào dấy lên nghịch cùng sự oai nghi Cha; lật đổ mọi mưu định chống nghịch Lời thánh của Cha, cho đến khi Nước Cha được bày tỏ trọn vẹn, khi Cha là mọi sự trong mọi sự.
+
+**Câu 124. Lời cầu xin thứ ba là gì?**
+
+*Đáp.* *"Ý Cha được nên, ở đất như trời."* Tức là: Xin khiến chúng con và cả nhân loại từ bỏ ý riêng mình, chỉ làm theo ý Cha, là ý chỉ lành; và chúng con phục tùng ý ấy không cãi lại, và mỗi người trong chức phận mình chu toàn bổn phận, làm theo ý Cha với lòng sẵn sàng và trung tín như các thiên sứ trên trời.
+
+**Câu 125. Lời cầu xin thứ tư là gì?** [NEEDS REVIEW: "without thy Blessing... place it only in thee" — OCR hỏng, phục dựng]
+
+*Đáp.* *"Xin cho chúng tôi hôm nay đồ ăn đủ ngày."* Tức là: Xin vui lòng cung cấp cho chúng con mọi điều cần thiết cho thân thể, để chúng con hằng biết Cha là nguồn duy nhất của mọi hạnh phúc, và rằng những lo lắng, lao nhọc của chúng con, hay ngay cả những của tốt lành Cha đã ban, đều chẳng ích gì cho chúng con nếu thiếu phước lành Cha; và do đó chúng con phải rút lòng tin cậy khỏi mọi thọ tạo, chỉ đặt nơi một mình Cha.
+
+**Câu 126. Lời cầu xin thứ năm là gì?**
+
+*Đáp.* *"Xin tha tội lỗi cho chúng tôi, như chúng tôi cũng tha kẻ phạm tội nghịch cùng chúng tôi."* Tức là: Xin vui lòng tha thứ cho chúng con là kẻ có tội khốn khổ mọi lỗi lầm, và vì cớ huyết của Chúa Giê-xu Christ, xin chớ kể cho chúng con sự độc ác hằng gắn liền với bản tính chúng con. Và cũng xin cho chúng con tìm thấy trong mình chứng cớ này của ân điển Cha: có quyết tâm vững vàng hết lòng tha thứ lỗi lầm của người lân cận.
+
+**Câu 127. Lời cầu xin thứ sáu là gì?**
+
+*Đáp.* *"Xin chớ để chúng tôi bị cám dỗ, mà cứu chúng tôi khỏi điều ác."* Tức là: Vì chúng con tự mình yếu đuối đến nỗi chẳng đứng vững được một khắc, và hơn nữa ma quỷ, thế gian và xác thịt chúng con, là kẻ thù không đội trời chung, hằng giao chiến nghịch cùng chúng con, xin Đức Chúa Trời vui lòng gìn giữ và thêm sức cho chúng con bởi quyền năng Đức Thánh Linh Ngài, để chúng con chẳng chìm đắm trong trận chiến thuộc linh này, nhưng hằng can đảm kháng cự, cho đến sau hết chúng con được toàn thắng.
+
+**Câu 128. Lời kết của bài cầu nguyện ấy là gì?**
+
+*Đáp.* *"Vì nước, quyền, vinh hiển đều thuộc về Cha đời đời."* Tức là: Chúng con cầu xin Cha mọi điều ấy, vì là Vua chúng con, và có mọi sự trong quyền Cha, Cha vừa có khả năng vừa có ý muốn ban cho chúng con mọi điều lành; vinh hiển về điều ấy chẳng thuộc về chúng con, mà thuộc về danh thánh Cha, là danh phải được ngợi khen đời đời vì cớ ấy.
+
+**Câu 129. Lời "A-men" có nghĩa gì?** [NEEDS REVIEW: toàn bộ câu 129 bổ sung từ bản dịch Anh ngữ chuẩn, vì phần OCR cuối file hỏng hoàn toàn]
+
+*Đáp.* Tức là: Thật vậy và chắc chắn vậy. Vì lời cầu nguyện của tôi được Đức Chúa Trời nghe chắc chắn hơn nhiều điều tôi cảm thấy trong lòng rằng mình khao khát những điều ấy nơi Ngài.
+
+---
+
+TRANSLATION STATUS: COMPLETE
+TERMINOLOGY ISSUES: Nguồn OCR thiếu hẳn câu 3–29 (đã bổ sung từ bản dịch Anh ngữ chuẩn public domain, đánh dấu rõ); câu 129 phục dựng tương tự do OCR cuối file hỏng. Nhiều cụm từ OCR hỏng được phục dựng theo văn bản chuẩn, mỗi chỗ đều có [NEEDS REVIEW]. Thuật ngữ: "Satisfaction" → "sự đền tội"; "Mediator" → "Đấng Trung Gian"; "Consolation" → "sự an ủi"; "Holy Catholick Church" → "Hội Thánh phổ thông" (theo nghĩa "catholic" = phổ thông, cách xưng trong Kinh Tin Kính truyền thống); "the Mass of the Papists" → "lễ Mi-sa của người Công giáo Rô-ma" (giữ giọng tranh luận gay gắt của nguyên tác 1720); "Christian Discipline" → "kỷ luật Hội Thánh"; "Providence" → "sự quan phòng"; "Holy Ghost" → "Đức Thánh Linh" theo bảng thuật ngữ cố định. Câu Kinh Thánh trích dẫn dịch theo phong cách Kinh Thánh 1934 (Ma-thi-ơ 7:7; Giăng 4:24; Hê-bơ-rơ 11:6; 1 Tê-sa-lô-ni-ca 5:21; Ma-thi-ơ 28:19; Mác 16:16; 1 Cô-rinh-tô 11:23–26; 10:16–17; 6:9–10; Xuất Ê-díp-tô Ký 20:2–17; Ma-thi-ơ 6:9–13). Tên tác giả trong danh sách là "Unknown (1720)"; thực tế đây là Giáo lý Heidelberg của Ursinus & Olevianus (1563), bản dịch Anh ngữ do Thomas Corbett ấn hành tại London 1720.
