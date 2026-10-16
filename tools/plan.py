@@ -30,10 +30,8 @@ def item(kind, key, why):
 
 STAGES = [
  ("Giai đoạn 0 · Tuần 1–2 · Nền tảng cho người mới", "Nếu bạn mới tin Chúa hoặc mới nghe về thần học Cải Chánh, hãy bắt đầu ở đây. Mỗi ngày 15–20 phút.", [
-   ("x","vn-apostles","Bản tín điều ngắn nhất của đức tin Cơ Đốc. Đọc chậm, đối chiếu với Kinh Thánh."),
    ("m","9m-what-is-the-gospel-t","Phúc Âm là gì, nói ngắn gọn và rõ ràng (tiếng Việt)."),
    ("m","9m-who-is-jesus-chua-je","Chúa Jesus là ai? Cơ sở của mọi giáo lý khác (tiếng Việt)."),
-   ("m","tp-ba-thanh-phan-thiet-yeu-de-doc-kinh-than","Cách đọc Kinh Thánh mỗi ngày (tiếng Việt)."),
    ("c","spurgeon/grace","Spurgeon giải thích ân điển cho người tìm hiểu; ấm áp, dễ đọc."),
    ("c","bonar/peace","Làm sao có bình an với Đức Chúa Trời, giải thích Phúc Âm rõ ràng.")]),
  ("Giai đoạn 1 · Tuần 3–10 · Giáo lý căn bản", "Học theo dạng hỏi–đáp: mỗi tuần 3–5 câu, đọc phân đoạn Kinh Thánh kèm theo.", [
@@ -42,9 +40,7 @@ STAGES = [
    ("x","vn-heidelberg","Giáo lý Heidelberg: ấm áp, cá nhân, chia theo ba phần: tội, cứu chuộc, biết ơn (Anh–Việt)."),
    ("m","lig-what-is-faith","Sproul: đức tin là gì (sách ngắn, tiếng Anh)."),
    ("m","lig-what-is-the-trinity","Sproul: giáo lý Ba Ngôi (sách ngắn, tiếng Anh)."),
-   ("m","tp-than-hoc-de-hieu-bitesize-theology","Thần học dễ hiểu (tiếng Việt)."),
-   ("m","lig-what-does-it-mean-to-be-born-again","Sproul về sự tái sanh (sách ngắn, tiếng Anh)."),
-   ("x","vn-nicene","Tín điều Nicene: giáo lý về Ba Ngôi và thân vị Đấng Christ.")]),
+   ("m","lig-what-does-it-mean-to-be-born-again","Sproul về sự tái sanh (sách ngắn, tiếng Anh)."),]),
  ("Giai đoạn 2 · Tháng 3–5 · Đời sống Cơ Đốc", "Sách thuộc linh để nuôi đức tin: mỗi tuần một chương, ghi lại một điều áp dụng.", [
    ("c","bunyan/pilgrim","Hành trình của người hành hương: truyện ngụ ngôn về đời sống đức tin."),
    ("c","ryle/holiness","Ryle viết thẳng thắn về sự nên thánh và cuộc chiến thuộc linh."),
@@ -79,9 +75,6 @@ STAGES = [
    ("c","owen/communion","Owen về sự thông công với Cha, Con và Thánh Linh."),
    ("c","owen/just","Owen về sự xưng công chính bởi đức tin.")]),
  ("Song song · Lịch sử Hội Thánh và Cải Chánh", "Đọc xen kẽ bất cứ lúc nào để hiểu bối cảnh.", [
-   ("m","tp-thien-tai-cua-geneva","Tiên Phong: Calvin (tiếng Việt)."),
-   ("m","tp-ngon-nen-cua-nuoc-anh","Tiên Phong: Tyndale (tiếng Việt)."),
-   ("m","tp-ngoi-sao-mai-cua-phong-trao-cai-chanh","Tiên Phong: Wycliffe (tiếng Việt)."),
    ("m","dg-martin-luther","Piper về Luther (tiếng Anh)."),
    ("m","dg-portrait-of-calvin--2","Piper về Calvin (tiếng Anh)."),
    ("c","foxe/martyrs","Sách những người tử vì đạo."),
