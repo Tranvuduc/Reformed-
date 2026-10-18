@@ -535,7 +535,7 @@
   "file": "spurgeon-till-he-come.txt",
   "title": "Cho Đến Khi Ngài Đến",
   "orig": "Till He Come",
-  "author": "Charles Spurgeon",
+  "author": "C. H. Spurgeon",
   "by": "Muse",
   "reviewed": false
  },
@@ -562,7 +562,7 @@
   "file": "spurgeon-checkbook.txt",
   "title": "Sổ Séc Của Đức Tin",
   "orig": "Faith's Checkbook",
-  "author": "Charles Spurgeon",
+  "author": "C. H. Spurgeon",
   "by": "Muse",
   "reviewed": false
  },
@@ -1930,7 +1930,7 @@
   "file": "arch-plumer-letter-death-child.txt",
   "title": "Thư Gửi Người Bạn Mất Con",
   "orig": "A letter on the death of a child",
-  "author": "William S Plumer",
+  "author": "William S. Plumer",
   "by": "Muse",
   "reviewed": false
  },
@@ -2039,7 +2039,7 @@
   "file": "arch-plumer-beautiful-robe.txt",
   "title": "Chiếc Áo Đẹp Đẽ",
   "orig": "A beautiful robe",
-  "author": "William S Plumer",
+  "author": "William S. Plumer",
   "by": "Muse",
   "reviewed": false
  },
@@ -2211,7 +2211,7 @@
   "file": "arch-plumer-angels-men.txt",
   "title": "THIÊN SỨ VÀ LOÀI NGƯỜI",
   "orig": "Angels and men",
-  "author": "William S Plumer",
+  "author": "William S. Plumer",
   "by": "Muse",
   "reviewed": false
  },
@@ -2600,7 +2600,7 @@
   "file": "arch-plumer-bring-up-children.txt",
   "title": "CÁCH NUÔI DẠY CON CÁI",
   "orig": "How to bring up children",
-  "author": "William S Plumer",
+  "author": "William S. Plumer",
   "by": "Muse",
   "reviewed": false
  },
@@ -7842,6 +7842,1500 @@
   "orig": "A Child of Light Walking in Darkness: A Treatise, shewing the causes, circumstances, and purposes for which God leaves His children to distress of conscience (1810)",
   "author": "Thomas Goodwin",
   "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "066-the-canon-of-the-new-testament-warfield",
+  "file": "066-the-canon-of-the-new-testament-warfield.txt",
+  "title": "QUY ĐIỂN TÂN ƯỚC: ĐƯỢC HÌNH THÀNH THẾ NÀO VÀ KHI NÀO",
+  "orig": "066-the-canon-of-the-new-testament-warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "080-a-sermon-preached-at-plymouth-watson",
+  "file": "080-a-sermon-preached-at-plymouth-watson.txt",
+  "title": "HÃY LÀM THEO LỜI, ĐỪNG CHỈ NGHE",
+  "orig": "080-a-sermon-preached-at-plymouth-watson",
+  "author": "Thomas Watson",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "081-the-one-hundred-and-third-general-assembly-warfield",
+  "file": "081-the-one-hundred-and-third-general-assembly-warfield.txt",
+  "title": "ĐẠI HỘI ĐỒNG LẦN THỨ 103",
+  "orig": "081-the-one-hundred-and-third-general-assembly-warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "270-christs-napkin-rutherford",
+  "file": "270-christs-napkin-rutherford.txt",
+  "title": "CHIẾC KHĂN LAU CỦA ĐẤNG CHRIST",
+  "orig": "270-christs-napkin-rutherford",
+  "author": "Samuel Rutherford",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "273-an-alarm-to-a-careless-world-romaine",
+  "file": "273-an-alarm-to-a-careless-world-romaine.txt",
+  "title": "TIẾNG CẢNH BÁO CHO THẾ GIAN VÔ TÂM",
+  "orig": "273-an-alarm-to-a-careless-world-romaine",
+  "author": "William Romaine",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "276-a-fragment-of-the-true-religion-berridge",
+  "file": "276-a-fragment-of-the-true-religion-berridge.txt",
+  "title": "MẢNH VỠ CỦA TÔN GIÁO THẬT",
+  "orig": "276-a-fragment-of-the-true-religion-berridge",
+  "author": "John Berridge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "279-the-last-farewell-sermon-berridge",
+  "file": "279-the-last-farewell-sermon-berridge.txt",
+  "title": "BÀI GIẢNG TỪ BIỆT CUỐI CÙNG",
+  "orig": "279-the-last-farewell-sermon-berridge",
+  "author": "John Berridge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "280-a-method-for-preventing-robberies-and-murders-romaine",
+  "file": "280-a-method-for-preventing-robberies-and-murders-romaine.txt",
+  "title": "PHƯƠNG PHÁP NGĂN CHẶN TRỘM CƯỚP VÀ GIẾT NGƯỜI",
+  "orig": "280-a-method-for-preventing-robberies-and-murders-romaine",
+  "author": "William Romaine",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "282-the-christian-doctrine-of-reward-fuller",
+  "file": "282-the-christian-doctrine-of-reward-fuller.txt",
+  "title": "GIÁO LÝ CƠ ĐỐC VỀ PHẦN THƯỞNG",
+  "orig": "282-the-christian-doctrine-of-reward-fuller",
+  "author": "Andrew Fuller",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "290-socialism-and-christianity-cunningham",
+  "file": "290-socialism-and-christianity-cunningham.txt",
+  "title": "CHỦ NGHĨA XÃ HỘI VÀ CƠ ĐỐC GIÁO",
+  "orig": "290-socialism-and-christianity-cunningham",
+  "author": "William Cunningham",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "291-how-far-holinesse-is-the-design-of-christianity-baxter",
+  "file": "291-how-far-holinesse-is-the-design-of-christianity-baxter.txt",
+  "title": "SỰ NÊN THÁNH LÀ MỤC ĐÍCH CƠ ĐỐC ĐẾN ĐÂU",
+  "orig": "291-how-far-holinesse-is-the-design-of-christianity-baxter",
+  "author": "Richard Baxter",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "297-the-folly-and-danger-of-being-not-righteous-enough-whitefield",
+  "file": "297-the-folly-and-danger-of-being-not-righteous-enough-whitefield.txt",
+  "title": "DẠI DỘT VÀ NGUY HIỂM KHI THIẾU SỰ CÔNG BÌNH",
+  "orig": "297-the-folly-and-danger-of-being-not-righteous-enough-whitefield",
+  "author": "George Whitefield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "308-sinners-in-the-hands-of-an-angry-god-edwards",
+  "file": "308-sinners-in-the-hands-of-an-angry-god-edwards.txt",
+  "title": "KẺ CÓ TỘI TRONG TAY ĐỨC CHÚA TRỜI THỊNH NỘ",
+  "orig": "308-sinners-in-the-hands-of-an-angry-god-edwards",
+  "author": "Jonathan Edwards",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "311-a-model-for-the-maintaining-of-students-poole",
+  "file": "311-a-model-for-the-maintaining-of-students-poole.txt",
+  "title": "MẪU CHO VIỆC NUÔI DƯỠNG SINH VIÊN",
+  "orig": "311-a-model-for-the-maintaining-of-students-poole",
+  "author": "Matthew Poole",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "312-a-sermon-on-the-death-of-queen-mary-bates",
+  "file": "312-a-sermon-on-the-death-of-queen-mary-bates.txt",
+  "title": "BÀI GIẢNG VỀ CÁI CHẾT CỦA NỮ HOÀNG MARY",
+  "orig": "312-a-sermon-on-the-death-of-queen-mary-bates",
+  "author": "William Bates",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "319-free-thoughts-on-the-abolition-of-ecclesiastical-subscriptions-toplady",
+  "file": "319-free-thoughts-on-the-abolition-of-ecclesiastical-subscriptions-toplady.txt",
+  "title": "SUY NGHĨ TỰ DO VỀ VIỆC BÃI BỎ KÝ TÊN",
+  "orig": "319-free-thoughts-on-the-abolition-of-ecclesiastical-subscriptions-toplady",
+  "author": "Augustus Toplady",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "321-a-discourse-upon-the-self-existence-of-jesus-christ-romaine",
+  "file": "321-a-discourse-upon-the-self-existence-of-jesus-christ-romaine.txt",
+  "title": "BÀI GIẢNG VỀ SỰ TỰ HỮU CỦA CHÚA GIÊ-XU CHRIST",
+  "orig": "321-a-discourse-upon-the-self-existence-of-jesus-christ-romaine",
+  "author": "William Romaine",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "324-the-teaching-office-of-the-church-hodge",
+  "file": "324-the-teaching-office-of-the-church-hodge.txt",
+  "title": "CHỨC VỤ GIẢNG DẠY CỦA HỘI THÁNH",
+  "orig": "324-the-teaching-office-of-the-church-hodge",
+  "author": "Charles Hodge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "328-observations-on-some-fatal-mistakes-whitefield",
+  "file": "328-observations-on-some-fatal-mistakes-whitefield.txt",
+  "title": "NHẬN XÉT VỀ MỘT SỐ SAI LẦM TAI HẠI",
+  "orig": "328-observations-on-some-fatal-mistakes-whitefield",
+  "author": "George Whitefield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "329-the-lord-our-righteousness-romaine",
+  "file": "329-the-lord-our-righteousness-romaine.txt",
+  "title": "CHÚA LÀ SỰ CÔNG BÌNH CỦA CHÚNG TA",
+  "orig": "329-the-lord-our-righteousness-romaine",
+  "author": "William Romaine",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "333-the-parable-of-the-dry-bones-romaine",
+  "file": "333-the-parable-of-the-dry-bones-romaine.txt",
+  "title": "ẨN DỤ VỀ NHỮNG XƯƠNG KHÔ",
+  "orig": "333-the-parable-of-the-dry-bones-romaine",
+  "author": "William Romaine",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "336-christ-the-great-example-of-gospel-ministers-edwards",
+  "file": "336-christ-the-great-example-of-gospel-ministers-edwards.txt",
+  "title": "ĐẤNG CHRIST — GƯƠNG MẪU LỚN CHO MỤC SƯ",
+  "orig": "336-christ-the-great-example-of-gospel-ministers-edwards",
+  "author": "Jonathan Edwards",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "337-a-sermon-on-the-death-of-richard-adams-howe",
+  "file": "337-a-sermon-on-the-death-of-richard-adams-howe.txt",
+  "title": "BÀI GIẢNG VỀ CÁI CHẾT CỦA MỤC SƯ RICHARD ADAMS",
+  "orig": "337-a-sermon-on-the-death-of-richard-adams-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "346-africa-and-the-beginnings-of-christian-latin-literature-warfield",
+  "file": "346-africa-and-the-beginnings-of-christian-latin-literature-warfield.txt",
+  "title": "CHÂU PHI VÀ KHỞI NGUỒN VĂN HỌC LA-TINH CƠ ĐỐC",
+  "orig": "346-africa-and-the-beginnings-of-christian-latin-literature-warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "347-chearful-piety-berridge",
+  "file": "347-chearful-piety-berridge.txt",
+  "title": "LÒNG ĐẠO VUI VẺ",
+  "orig": "347-chearful-piety-berridge",
+  "author": "John Berridge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "349-baptism-a-divine-commandment-to-be-observed-gill",
+  "file": "349-baptism-a-divine-commandment-to-be-observed-gill.txt",
+  "title": "BÁP-TÊM LÀ ĐIỀU RĂN THIÊN THƯỢNG CẦN TUÂN GIỮ",
+  "orig": "349-baptism-a-divine-commandment-to-be-observed-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "350-the-fulness-of-the-mediator-gill",
+  "file": "350-the-fulness-of-the-mediator-gill.txt",
+  "title": "SỰ ĐẦY DẪY CỦA ĐẤNG TRUNG BẢO",
+  "orig": "350-the-fulness-of-the-mediator-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "352-notable-and-comfortable-exposition-knox",
+  "file": "352-notable-and-comfortable-exposition-knox.txt",
+  "title": "LỜI GIẢNG GIẢI VỀ CÁM DỖ CỦA ĐẤNG CHRIST",
+  "orig": "352-notable-and-comfortable-exposition-knox",
+  "author": "John Knox",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "353-christ-the-best-husband-vincent",
+  "file": "353-christ-the-best-husband-vincent.txt",
+  "title": "ĐẤNG CHRIST — NGƯỜI CHỒNG TỐT NHẤT",
+  "orig": "353-christ-the-best-husband-vincent",
+  "author": "Thomas Vincent",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "364-a-reverse-to-mr-olivers-sermon-poole",
+  "file": "364-a-reverse-to-mr-olivers-sermon-poole.txt",
+  "title": "SỰ THỜ PHƯỢNG TIN LÀNH LÀ THỜ PHƯỢNG THUỘC LINH",
+  "orig": "364-a-reverse-to-mr-olivers-sermon-poole",
+  "author": "Matthew Poole",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "366-an-apologeticall-narration-goodwin",
+  "file": "366-an-apologeticall-narration-goodwin.txt",
+  "title": "LỜI TRÌNH BÀY BIỆN HỘ",
+  "orig": "366-an-apologeticall-narration-goodwin",
+  "author": "Thomas Goodwin",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "373-what-think-ye-of-christ-whitefield",
+  "file": "373-what-think-ye-of-christ-whitefield.txt",
+  "title": "CÁC NGƯƠI NGHĨ GÌ VỀ ĐẤNG CHRIST?",
+  "orig": "373-what-think-ye-of-christ-whitefield",
+  "author": "George Whitefield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "374-the-bible-the-book-of-mankind-warfield",
+  "file": "374-the-bible-the-book-of-mankind-warfield.txt",
+  "title": "KINH THÁNH, SÁCH CỦA NHÂN LOẠI",
+  "orig": "374-the-bible-the-book-of-mankind-warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "375-a-sermon-preached-november-5-1703-howe",
+  "file": "375-a-sermon-preached-november-5-1703-howe.txt",
+  "title": "BÀI GIẢNG NGÀY 5 THÁNG 11 NĂM 1703",
+  "orig": "375-a-sermon-preached-november-5-1703-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "378-the-millennium-and-the-apocalypse-warfield",
+  "file": "378-the-millennium-and-the-apocalypse-warfield.txt",
+  "title": "THIÊN NIÊN KỶ VÀ KHẢI HUYỀN",
+  "orig": "378-the-millennium-and-the-apocalypse-warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "380-an-account-of-money-received-and-disbursed-for-the-orphan-house-in-georgia-whitefield",
+  "file": "380-an-account-of-money-received-and-disbursed-for-the-orphan-house-in-georgia-whitefield.txt",
+  "title": "SỔ THU CHI CÔ NHI VIỆN GEORGIA",
+  "orig": "380-an-account-of-money-received-and-disbursed-for-the-orphan-house-in-georgia-whitefield",
+  "author": "George Whitefield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "382-a-discourse-of-the-building-bunyan",
+  "file": "382-a-discourse-of-the-building-bunyan.txt",
+  "title": "LUẬN VỀ NHÀ CỦA ĐỨC CHÚA TRỜI",
+  "orig": "382-a-discourse-of-the-building-bunyan",
+  "author": "John Bunyan",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "383-christ-and-the-doves-heavenly-salutations-rutherford",
+  "file": "383-christ-and-the-doves-heavenly-salutations-rutherford.txt",
+  "title": "ĐẤNG CHRIST VÀ LỜI CHÀO CỦA BỒ CÂU",
+  "orig": "383-christ-and-the-doves-heavenly-salutations-rutherford",
+  "author": "Samuel Rutherford",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "385-what-is-a-call-to-the-gospel-ministry-dabney",
+  "file": "385-what-is-a-call-to-the-gospel-ministry-dabney.txt",
+  "title": "LỜI KÊU GỌI VÀO CHỨC VỤ PHÚC ÂM",
+  "orig": "385-what-is-a-call-to-the-gospel-ministry-dabney",
+  "author": "Robert Lewis Dabney",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "386-the-fight-of-faith-crowned-watson",
+  "file": "386-the-fight-of-faith-crowned-watson.txt",
+  "title": "CUỘC CHIẾN ĐỨC TIN ĐƯỢC ĐỘI MÃO",
+  "orig": "386-the-fight-of-faith-crowned-watson",
+  "author": "Thomas Watson",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "387-arminianism-and-grace-hodge",
+  "file": "387-arminianism-and-grace-hodge.txt",
+  "title": "CHỦ NGHĨA ARMINIUS VÀ ÂN ĐIỂN",
+  "orig": "387-arminianism-and-grace-hodge",
+  "author": "Charles Hodge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "388-christ-the-saviour-from-the-tempest-gill",
+  "file": "388-christ-the-saviour-from-the-tempest-gill.txt",
+  "title": "ĐẤNG CHRIST ĐẤNG CỨU KHỎI BÃO TỐ",
+  "orig": "388-christ-the-saviour-from-the-tempest-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "389-the-medium-betwixt-two-extremes-keach",
+  "file": "389-the-medium-betwixt-two-extremes-keach.txt",
+  "title": "CON ĐƯỜNG GIỮA HAI THÁI CỰC",
+  "orig": "389-the-medium-betwixt-two-extremes-keach",
+  "author": "Benjamin Keach",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "390-a-discourse-delivered-at-the-re-opening-of-the-chapel-hodge",
+  "file": "390-a-discourse-delivered-at-the-re-opening-of-the-chapel-hodge.txt",
+  "title": "BÀI GIẢNG KHI MỞ LẠI NHÀ NGUYỆN",
+  "orig": "390-a-discourse-delivered-at-the-re-opening-of-the-chapel-hodge",
+  "author": "Charles Hodge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "391-a-reply-to-mr-tho-beverleys-answer-baxter",
+  "file": "391-a-reply-to-mr-tho-beverleys-answer-baxter.txt",
+  "title": "ĐÁP LẠI BEVERLEY VỀ VƯƠNG QUỐC NGÀN NĂM",
+  "orig": "391-a-reply-to-mr-tho-beverleys-answer-baxter",
+  "author": "Richard Baxter",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "395-a-short-account-of-the-life-and-conversion-of-the-rev-john-berridge",
+  "file": "395-a-short-account-of-the-life-and-conversion-of-the-rev-john-berridge.txt",
+  "title": "CUỘC ĐỜI VÀ SỰ CẢI ĐẠO CỦA BERRIDGE",
+  "orig": "395-a-short-account-of-the-life-and-conversion-of-the-rev-john-berridge",
+  "author": "John Berridge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "397-the-faithful-manifestation-of-the-truth-edwards",
+  "file": "397-the-faithful-manifestation-of-the-truth-edwards.txt",
+  "title": "BÀY TỎ LẼ THẬT: MỤC ĐÍCH GIẢNG PHÚC ÂM",
+  "orig": "397-the-faithful-manifestation-of-the-truth-edwards",
+  "author": "Jonathan Edwards",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "398-two-great-instruments-appointed-for-the-propagation-of-the-gospel-chalmers",
+  "file": "398-two-great-instruments-appointed-for-the-propagation-of-the-gospel-chalmers.txt",
+  "title": "HAI CÔNG CỤ LỚN TRUYỀN BÁ PHÚC ÂM",
+  "orig": "398-two-great-instruments-appointed-for-the-propagation-of-the-gospel-chalmers",
+  "author": "Thomas Chalmers",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "400-a-letter-to-his-excellency-governor-wright-whitefield",
+  "file": "400-a-letter-to-his-excellency-governor-wright-whitefield.txt",
+  "title": "THƯ GỬI THỐNG ĐỐC WRIGHT VỀ TRƯỜNG BÊ-TẾT-ĐA",
+  "orig": "400-a-letter-to-his-excellency-governor-wright-whitefield",
+  "author": "George Whitefield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "402-two-papers-of-proposals-concerning-the-discipline-and-ceremonies-of-the-church-of-england-baxter",
+  "file": "402-two-papers-of-proposals-concerning-the-discipline-and-ceremonies-of-the-church-of-england-baxter.txt",
+  "title": "HAI BẢN ĐỀ XUẤT VỀ KỶ LUẬT VÀ NGHI LỄ",
+  "orig": "402-two-papers-of-proposals-concerning-the-discipline-and-ceremonies-of-the-church-of-england-baxter",
+  "author": "Richard Baxter",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "408-world-white-to-harvest-dabney",
+  "file": "408-world-white-to-harvest-dabney.txt",
+  "title": "THẾ GIAN TRẮNG XÓA SẴN SÀNG CHO MÙA GẶT",
+  "orig": "408-world-white-to-harvest-dabney",
+  "author": "Robert Lewis Dabney",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "409-a-second-sheet-for-the-ministry-baxter",
+  "file": "409-a-second-sheet-for-the-ministry-baxter.txt",
+  "title": "TỜ THỨ HAI CHO CHỨC VỤ",
+  "orig": "409-a-second-sheet-for-the-ministry-baxter",
+  "author": "Richard Baxter",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "411-the-doctrine-of-grace-cleared-from-the-charge-of-licentiousness-gill",
+  "file": "411-the-doctrine-of-grace-cleared-from-the-charge-of-licentiousness-gill.txt",
+  "title": "GIÁO LÝ ÂN ĐIỂN ĐƯỢC MINH OAN",
+  "orig": "411-the-doctrine-of-grace-cleared-from-the-charge-of-licentiousness-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "413-the-agreement-of-the-old-and-the-new-testament-gill",
+  "file": "413-the-agreement-of-the-old-and-the-new-testament-gill.txt",
+  "title": "SỰ HÒA HỢP CỦA CỰU ƯỚC VÀ TÂN ƯỚC",
+  "orig": "413-the-agreement-of-the-old-and-the-new-testament-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "417-the-significance-of-westminster-standards-as-a-creed-warfield",
+  "file": "417-the-significance-of-westminster-standards-as-a-creed-warfield.txt",
+  "title": "Ý NGHĨA CỦA TIÊU CHUẨN WESTMINSTER NHƯ MỘT TÍN ĐIỀU",
+  "orig": "417-the-significance-of-westminster-standards-as-a-creed-warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "421-a-discourse-of-an-unconverted-mans-enmity-against-god-howe",
+  "file": "421-a-discourse-of-an-unconverted-mans-enmity-against-god-howe.txt",
+  "title": "SỰ THÙ NGHỊCH CỦA NGƯỜI CHƯA ĐƯỢC CẢI ĐẠO",
+  "orig": "421-a-discourse-of-an-unconverted-mans-enmity-against-god-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "422-the-french-revolution-foreseen-in-1639-goodwin",
+  "file": "422-the-french-revolution-foreseen-in-1639-goodwin.txt",
+  "title": "CÁCH MẠNG PHÁP ĐƯỢC TIÊN BÁO NĂM 1639",
+  "orig": "422-the-french-revolution-foreseen-in-1639-goodwin",
+  "author": "Thomas Goodwin",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "423-a-sermon-preached-in-st-andrews-church-edinburgh-chalmers",
+  "file": "423-a-sermon-preached-in-st-andrews-church-edinburgh-chalmers.txt",
+  "title": "PHƯỚC CHO NGƯỜI NGHĨ ĐẾN KẺ NGHÈO",
+  "orig": "423-a-sermon-preached-in-st-andrews-church-edinburgh-chalmers",
+  "author": "Thomas Chalmers",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "425-the-peace-maker-bates",
+  "file": "425-the-peace-maker-bates.txt",
+  "title": "NGƯỜI LÀM CHO HÒA THUẬN",
+  "orig": "425-the-peace-maker-bates",
+  "author": "William Bates",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "433-the-best-gift-vincent",
+  "file": "433-the-best-gift-vincent.txt",
+  "title": "MÓN QUÀ TỐT NHẤT CHO THANH NIÊN",
+  "orig": "433-the-best-gift-vincent",
+  "author": "Thomas Vincent",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "436-a-funeral-sermon-on-the-death-of-mrs-judith-hamond-howe",
+  "file": "436-a-funeral-sermon-on-the-death-of-mrs-judith-hamond-howe.txt",
+  "title": "BÀI GIẢNG TANG LỄ CHO BÀ JUDITH HAMOND",
+  "orig": "436-a-funeral-sermon-on-the-death-of-mrs-judith-hamond-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "439-the-glory-of-a-true-church-keach",
+  "file": "439-the-glory-of-a-true-church-keach.txt",
+  "title": "VINH QUANG CỦA MỘT HỘI THÁNH THẬT",
+  "orig": "439-the-glory-of-a-true-church-keach",
+  "author": "Benjamin Keach",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "441-introductory-lecture-delivered-in-the-theological-seminary-princeton-hodge",
+  "file": "441-introductory-lecture-delivered-in-the-theological-seminary-princeton-hodge.txt",
+  "title": "BÀI GIẢNG KHAI GIẢNG TẠI CHỦNG VIỆN PRINCETON",
+  "orig": "441-introductory-lecture-delivered-in-the-theological-seminary-princeton-hodge",
+  "author": "Charles Hodge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "443-an-essay-on-the-original-of-funeral-sermons-gill",
+  "file": "443-an-essay-on-the-original-of-funeral-sermons-gill.txt",
+  "title": "LUẬN VỀ NGUỒN GỐC BÀI GIẢNG TANG LỄ",
+  "orig": "443-an-essay-on-the-original-of-funeral-sermons-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "449-a-sermon-preached-febr-14-1698-howe",
+  "file": "449-a-sermon-preached-febr-14-1698-howe.txt",
+  "title": "BÀI GIẢNG CHO VIỆC CẢI CÁCH PHONG TỤC",
+  "orig": "449-a-sermon-preached-febr-14-1698-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "453-the-blessedness-of-living-and-dying-in-the-lord-romaine",
+  "file": "453-the-blessedness-of-living-and-dying-in-the-lord-romaine.txt",
+  "title": "PHƯỚC HẠNH SỐNG VÀ CHẾT TRONG CHÚA",
+  "orig": "453-the-blessedness-of-living-and-dying-in-the-lord-romaine",
+  "author": "William Romaine",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "458-the-practical-improvement-of-the-watchmans-answer-gill",
+  "file": "458-the-practical-improvement-of-the-watchmans-answer-gill.txt",
+  "title": "ỨNG DỤNG THỰC TIỄN CÂU TRẢ LỜI CỦA NGƯỜI CANH",
+  "orig": "458-the-practical-improvement-of-the-watchmans-answer-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "467-the-knowledge-of-salvation-precious-in-the-hour-of-death-romaine",
+  "file": "467-the-knowledge-of-salvation-precious-in-the-hour-of-death-romaine.txt",
+  "title": "SỰ CỨU RỖI QUÝ BÁU TRONG GIỜ CHẾT",
+  "orig": "467-the-knowledge-of-salvation-precious-in-the-hour-of-death-romaine",
+  "author": "William Romaine",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "472-gods-terrible-voice-vincent",
+  "file": "472-gods-terrible-voice-vincent.txt",
+  "title": "TIẾNG ĐÁNG SỢ CỦA ĐỨC CHÚA TRỜI TRONG THÀNH PHỐ",
+  "orig": "472-gods-terrible-voice-vincent",
+  "author": "Thomas Vincent",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "474-preparation-for-death-knox",
+  "file": "474-preparation-for-death-knox.txt",
+  "title": "SỰ CHUẨN BỊ CHO SỰ CHẾT",
+  "orig": "474-preparation-for-death-knox",
+  "author": "John Knox",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "475-the-only-deliverer-from-wrath-to-come-vincent",
+  "file": "475-the-only-deliverer-from-wrath-to-come-vincent.txt",
+  "title": "ĐẤNG CỨU DUY NHẤT KHỎI CƠN THẠNH NỘ",
+  "orig": "475-the-only-deliverer-from-wrath-to-come-vincent",
+  "author": "Thomas Vincent",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "501-true-courage-dabney",
+  "file": "501-true-courage-dabney.txt",
+  "title": "DŨNG KHÍ THẬT",
+  "orig": "501-true-courage-dabney",
+  "author": "Robert Lewis Dabney",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "503-shaking-and-translating-owen",
+  "file": "503-shaking-and-translating-owen.txt",
+  "title": "TRỜI ĐẤT RÚNG ĐỘNG VÀ DỜI ĐỔI",
+  "orig": "503-shaking-and-translating-owen",
+  "author": "John Owen",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "505-reformation-principles-knox",
+  "file": "505-reformation-principles-knox.txt",
+  "title": "NGUYÊN TẮC CẢI CHÁNH CHO CHÍNH QUYỀN HOA KỲ",
+  "orig": "505-reformation-principles-knox",
+  "author": "John Knox",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "506-sermon-at-chester-henry",
+  "file": "506-sermon-at-chester-henry.txt",
+  "title": "BÀI GIẢNG KHÁNH THÀNH NHÀ NGUYỆN CHESTER",
+  "orig": "506-sermon-at-chester-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "507-two-sermons-sibbes",
+  "file": "507-two-sermons-sibbes.txt",
+  "title": "HAI BÀI GIẢNG CỦA RICHARD SIBBES",
+  "orig": "507-two-sermons-sibbes",
+  "author": "Richard Sibbes",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "508-forgiveness-of-sin-henry",
+  "file": "508-forgiveness-of-sin-henry.txt",
+  "title": "TỘI LỖI ĐƯỢC THA NHƯ MÓN NỢ",
+  "orig": "508-forgiveness-of-sin-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "510-quiet-passage-through-death-gill",
+  "file": "510-quiet-passage-through-death-gill.txt",
+  "title": "QUA SỰ CHẾT VÀO VINH HIỂN",
+  "orig": "510-quiet-passage-through-death-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "511-indulgence-and-toleration-owen",
+  "file": "511-indulgence-and-toleration-owen.txt",
+  "title": "NHÌN LẠI VẤN ĐỀ KHOAN DUNG TÔN GIÁO",
+  "orig": "511-indulgence-and-toleration-owen",
+  "author": "John Owen",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "514-glory-of-gods-grace-gill",
+  "file": "514-glory-of-gods-grace-gill.txt",
+  "title": "VINH QUANG ÂN ĐIỂN ĐỨC CHÚA TRỜI HIỂN LỘ",
+  "orig": "514-glory-of-gods-grace-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "515-president-lincoln-hodge",
+  "file": "515-president-lincoln-hodge.txt",
+  "title": "TỔNG THỐNG LINCOLN",
+  "orig": "515-president-lincoln-hodge",
+  "author": "Charles Hodge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "516-advantage-of-christs-kingdom-owen",
+  "file": "516-advantage-of-christs-kingdom-owen.txt",
+  "title": "ƯU THẾ CỦA VƯƠNG QUỐC ĐẤNG CHRIST",
+  "orig": "516-advantage-of-christs-kingdom-owen",
+  "author": "John Owen",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "517-roman-catholics-in-america-watson",
+  "file": "517-roman-catholics-in-america-watson.txt",
+  "title": "CÔNG GIÁO LA MÃ Ở MỸ XUYÊN TẠC LỊCH SỬ",
+  "orig": "517-roman-catholics-in-america-watson",
+  "author": "Thomas Watson",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "519-emancipation-hodge",
+  "file": "519-emancipation-hodge.txt",
+  "title": "VỀ SỰ GIẢI PHÓNG NÔ LỆ",
+  "orig": "519-emancipation-hodge",
+  "author": "Charles Hodge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "520-blessed-estate-manton",
+  "file": "520-blessed-estate-manton.txt",
+  "title": "TÌNH TRẠNG PHƯỚC HẠNH CỦA NGƯỜI CHẾT TRONG CHÚA",
+  "orig": "520-blessed-estate-manton",
+  "author": "Thomas Manton",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "521-of-charity-howe",
+  "file": "521-of-charity-howe.txt",
+  "title": "LÒNG YÊU THƯƠNG TRƯỚC TỘI LỖI NGƯỜI KHÁC",
+  "orig": "521-of-charity-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "523-cruel-watchmen-rutherford",
+  "file": "523-cruel-watchmen-rutherford.txt",
+  "title": "NHỮNG NGƯỜI CANH TÀN NHẪN",
+  "orig": "523-cruel-watchmen-rutherford",
+  "author": "Samuel Rutherford",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "524-sermon-1698-howe",
+  "file": "524-sermon-1698-howe.txt",
+  "title": "BÀI GIẢNG TRONG NGÀY TẠ ƠN 1697",
+  "orig": "524-sermon-1698-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "525-moral-nature-and-fitness-gill",
+  "file": "525-moral-nature-and-fitness-gill.txt",
+  "title": "BẢN TÍNH ĐẠO ĐỨC VÀ SỰ THÍCH HỢP",
+  "orig": "525-moral-nature-and-fitness-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "527-doctrine-of-the-cherubim-gill",
+  "file": "527-doctrine-of-the-cherubim-gill.txt",
+  "title": "GIÁO LÝ CHÊ-RU-BIM ĐƯỢC MỞ RA VÀ GIẢI THÍCH",
+  "orig": "527-doctrine-of-the-cherubim-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "529-injustice-of-slave-trade-edwards",
+  "file": "529-injustice-of-slave-trade-edwards.txt",
+  "title": "BẤT CÔNG VÀ TAI HẠI CỦA BUÔN BÁN NÔ LỆ",
+  "orig": "529-injustice-of-slave-trade-edwards",
+  "author": "Jonathan Edwards Jr.",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "531-scriptures-only-guide-gill",
+  "file": "531-scriptures-only-guide-gill.txt",
+  "title": "KINH THÁNH: KIM CHỈ NAM DUY NHẤT",
+  "orig": "531-scriptures-only-guide-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "532-synopsis-design-poole",
+  "file": "532-synopsis-design-poole.txt",
+  "title": "ĐỀ ÁN TUYỂN TẬP CHÚ GIẢI KINH THÁNH",
+  "orig": "532-synopsis-design-poole",
+  "author": "Matthew Poole",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "534-disputes-reviewed-henry",
+  "file": "534-disputes-reviewed-henry.txt",
+  "title": "XEM XÉT LẠI CÁC CUỘC TRANH LUẬN",
+  "orig": "534-disputes-reviewed-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "535-letter-to-friend-knox",
+  "file": "535-letter-to-friend-knox.txt",
+  "title": "THƯ GỬI NGƯỜI BẠN TRONG ĐẤNG CHRIST",
+  "orig": "535-letter-to-friend-knox",
+  "author": "John Knox",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "536-heavenly-footman-bunyan",
+  "file": "536-heavenly-footman-bunyan.txt",
+  "title": "NGƯỜI CHẠY BỘ TRÊN TRỜI",
+  "orig": "536-heavenly-footman-bunyan",
+  "author": "John Bunyan",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "537-glory-of-the-church-gill",
+  "file": "537-glory-of-the-church-gill.txt",
+  "title": "VINH QUANG CỦA HỘI THÁNH TRONG NGÀY SAU RỐT",
+  "orig": "537-glory-of-the-church-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "538-course-of-prayer-toplady",
+  "file": "538-course-of-prayer-toplady.txt",
+  "title": "TUYỂN TẬP LỜI CẦU NGUYỆN CHO MỖI NGÀY TRONG TUẦN",
+  "orig": "538-course-of-prayer-toplady",
+  "author": "Augustus Toplady",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "539-watchmans-answer-gill",
+  "file": "539-watchmans-answer-gill.txt",
+  "title": "CÂU TRẢ LỜI CỦA NGƯỜI CANH",
+  "orig": "539-watchmans-answer-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "542-spiritual-songs-keach",
+  "file": "542-spiritual-songs-keach.txt",
+  "title": "NHỮNG BÀI THÁNH CA THIÊNG LIÊNG",
+  "orig": "542-spiritual-songs-keach",
+  "author": "Benjamin Keach",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "543-mutual-gain-gill",
+  "file": "543-mutual-gain-gill.txt",
+  "title": "LỢI ÍCH TƯƠNG HỖ CỦA CHRIST VÀ CƠ ĐỐC NHÂN",
+  "orig": "543-mutual-gain-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "544-christian-triumph-1796-booth",
+  "file": "544-christian-triumph-1796-booth.txt",
+  "title": "SỰ ĐẮC THẮNG CỦA CƠ ĐỐC NHÂN",
+  "orig": "544-christian-triumph-1796-booth",
+  "author": "Abraham Booth",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "545-funeral-sermon-vink-howe",
+  "file": "545-funeral-sermon-vink-howe.txt",
+  "title": "BÀI GIẢNG TANG LỄ CHO MỤC SƯ PETER VINK",
+  "orig": "545-funeral-sermon-vink-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "546-friendly-visits-henry",
+  "file": "546-friendly-visits-henry.txt",
+  "title": "QUẢN TRỊ ĐÚNG ĐẮN CÁC CUỘC THĂM VIẾNG THÂN HỮU",
+  "orig": "546-friendly-visits-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "547-trumpet-blown-in-zion-keach",
+  "file": "547-trumpet-blown-in-zion-keach.txt",
+  "title": "TIẾNG KÈN THỔI TRONG SI-ÔN",
+  "orig": "547-trumpet-blown-in-zion-keach",
+  "author": "Benjamin Keach",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "549-difficult-passages-warfield",
+  "file": "549-difficult-passages-warfield.txt",
+  "title": "NHỮNG ĐOẠN KHÓ TRONG 2 CÔ-RINH-TÔ CHƯƠNG 1",
+  "orig": "549-difficult-passages-warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "550-funeral-sermon-sampson-howe",
+  "file": "550-funeral-sermon-sampson-howe.txt",
+  "title": "BÀI GIẢNG TANG LỄ CHO BÀ ESTHER SAMPSON",
+  "orig": "550-funeral-sermon-sampson-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "551-hope-and-fear-balanced-henry",
+  "file": "551-hope-and-fear-balanced-henry.txt",
+  "title": "HY VỌNG VÀ KÍNH SỢ ĐƯỢC CÂN BẰNG",
+  "orig": "551-hope-and-fear-balanced-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "552-call-to-weeping-keach",
+  "file": "552-call-to-weeping-keach.txt",
+  "title": "LỜI KÊU GỌI KHÓC LÓC",
+  "orig": "552-call-to-weeping-keach",
+  "author": "Benjamin Keach",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "553-what-is-presbyterianism-hodge",
+  "file": "553-what-is-presbyterianism-hodge.txt",
+  "title": "TRƯỞNG LÃO GIÁO LÀ GÌ?",
+  "orig": "553-what-is-presbyterianism-hodge",
+  "author": "Charles Hodge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "555-zion-in-distress-keach",
+  "file": "555-zion-in-distress-keach.txt",
+  "title": "SI-ÔN TRONG CƠN KHỐN KHÓ",
+  "orig": "555-zion-in-distress-keach",
+  "author": "Benjamin Keach",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "557-doctrines-of-grace-toplady",
+  "file": "557-doctrines-of-grace-toplady.txt",
+  "title": "GIÁO LÝ ÂN ĐIỂN TRONG HỘI THÁNH ANH GIÁO",
+  "orig": "557-doctrines-of-grace-toplady",
+  "author": "Augustus Toplady",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "558-funeral-sermon-howe",
+  "file": "558-funeral-sermon-howe.txt",
+  "title": "BÀI GIẢNG TANG LỄ CHO TÔI TỚ TRUNG TÍN",
+  "orig": "558-funeral-sermon-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "559-state-of-the-country-thornwell",
+  "file": "559-state-of-the-country-thornwell.txt",
+  "title": "TÌNH HÌNH ĐẤT NƯỚC",
+  "orig": "559-state-of-the-country-thornwell",
+  "author": "James Henley Thornwell",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "560-of-justification-gill",
+  "file": "560-of-justification-gill.txt",
+  "title": "BÀI GIẢNG NHÂN CÁI CHẾT CỦA MỤC SƯ SAMUEL WILSON",
+  "orig": "560-of-justification-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "561-gods-afflicting-hand-booth",
+  "file": "561-gods-afflicting-hand-booth.txt",
+  "title": "SỰ KHẢI HOÀN CỦA NGƯỜI CƠ ĐỐC",
+  "orig": "561-gods-afflicting-hand-booth",
+  "author": "Abraham Booth",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "562-discourse-goodwin",
+  "file": "562-discourse-goodwin.txt",
+  "title": "NHỮNG LỜI KHÍCH LỆ ĐỨC TIN",
+  "orig": "562-discourse-goodwin",
+  "author": "Thomas Goodwin",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "564-bible-study-today-knox",
+  "file": "564-bible-study-today-knox.txt",
+  "title": "BÀI GIẢNG CỦA JOHN KNOX TẠI EDINBURGH",
+  "orig": "564-bible-study-today-knox",
+  "author": "John Knox",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "565-a-discourse-on-prayer-gill",
+  "file": "565-a-discourse-on-prayer-gill.txt",
+  "title": "MỘT BÀI GIẢNG VỀ SỰ CẦU NGUYỆN",
+  "orig": "565-a-discourse-on-prayer-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "567-divine-emblems-bunyan",
+  "file": "567-divine-emblems-bunyan.txt",
+  "title": "NHỮNG BIỂU TƯỢNG THIÊNG LIÊNG",
+  "orig": "567-divine-emblems-bunyan",
+  "author": "John Bunyan",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "569-the-divine-legation-of-moses-romaine",
+  "file": "569-the-divine-legation-of-moses-romaine.txt",
+  "title": "SỨ MẠNG THIÊNG LIÊNG CỦA MÔI-SE",
+  "orig": "569-the-divine-legation-of-moses-romaine",
+  "author": "William Romaine",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "579-the-life-of-the-reverend-mr-james-hervey",
+  "file": "579-the-life-of-the-reverend-mr-james-hervey.txt",
+  "title": "CUỘC ĐỜI VÀ THƯ TÍN CỦA MỤC SƯ JAMES HERVEY",
+  "orig": "579-the-life-of-the-reverend-mr-james-hervey",
+  "author": "James Hervey",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "591-a-funeral-sermon-on-the-decease-of-mrs-margaret-baxter",
+  "file": "591-a-funeral-sermon-on-the-decease-of-mrs-margaret-baxter.txt",
+  "title": "BÀI GIẢNG TRONG TANG LỄ BÀ MARGARET BAXTER",
+  "orig": "591-a-funeral-sermon-on-the-decease-of-mrs-margaret-baxter",
+  "author": "Richard Baxter",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "601-the-promises-of-god-plumer",
+  "file": "601-the-promises-of-god-plumer.txt",
+  "title": "NHỮNG LỜI HỨA CỦA ĐỨC CHÚA TRỜI",
+  "orig": "601-the-promises-of-god-plumer",
+  "author": "William S. Plumer",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "606-funeral-sermon-for-daniel-burgess-henry",
+  "file": "606-funeral-sermon-for-daniel-burgess-henry.txt",
+  "title": "BÀI GIẢNG LỄ TANG ÔNG DANIEL BURGESS",
+  "orig": "606-funeral-sermon-for-daniel-burgess-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "608-the-evil-and-danger-of-schism-boston",
+  "file": "608-the-evil-and-danger-of-schism-boston.txt",
+  "title": "SỰ ÁC VÀ HIỂM NGUY CỦA SỰ CHIA RẼ",
+  "orig": "608-the-evil-and-danger-of-schism-boston",
+  "author": "Thomas Boston",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "609-a-short-account-of-gods-dealings-with-george-whitefield",
+  "file": "609-a-short-account-of-gods-dealings-with-george-whitefield.txt",
+  "title": "VIỆC ĐỨC CHÚA TRỜI ĐỐI ĐÃI WHITEFIELD",
+  "orig": "609-a-short-account-of-gods-dealings-with-george-whitefield",
+  "author": "George Whitefield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "611-addresses-at-plumers-inauguration-plumer",
+  "file": "611-addresses-at-plumers-inauguration-plumer.txt",
+  "title": "HAI BÀI PHÁT BIỂU LỄ NHẬM CHỨC PLUMER",
+  "orig": "611-addresses-at-plumers-inauguration-plumer",
+  "author": "William S. Plumer",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "612-popery-a-spiritual-tyranny-henry",
+  "file": "612-popery-a-spiritual-tyranny-henry.txt",
+  "title": "GIÁO HOÀNG GIÁO LÀ SỰ BẠO NGƯỢC THUỘC LINH",
+  "orig": "612-popery-a-spiritual-tyranny-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "613-thoughts-on-the-religious-instruction-of-the-negroes-plumer",
+  "file": "613-thoughts-on-the-religious-instruction-of-the-negroes-plumer.txt",
+  "title": "SUY NGHĨ VỀ VIỆC DẠY ĐẠO CHO NGƯỜI DA ĐEN",
+  "orig": "613-thoughts-on-the-religious-instruction-of-the-negroes-plumer",
+  "author": "William S. Plumer",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "614-farewell-sermon-northampton-edwards",
+  "file": "614-farewell-sermon-northampton-edwards.txt",
+  "title": "BÀI GIẢNG TỪ BIỆT TẠI NORTHAMPTON",
+  "orig": "614-farewell-sermon-northampton-edwards",
+  "author": "Jonathan Edwards",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "616-the-doctrine-of-original-sin-boston",
+  "file": "616-the-doctrine-of-original-sin-boston.txt",
+  "title": "GIÁO LÝ VỀ TỘI TỔ TÔNG",
+  "orig": "616-the-doctrine-of-original-sin-boston",
+  "author": "Thomas Boston",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "648-bai-giang-le-tang-samuel-lawrence-henry",
+  "file": "648-bai-giang-le-tang-samuel-lawrence-henry.txt",
+  "title": "BÀI GIẢNG TRONG LỄ TANG ÔNG SAMUEL LAWRENCE",
+  "orig": "648-bai-giang-le-tang-samuel-lawrence-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "650-self-dedication-howe",
+  "file": "650-self-dedication-howe.txt",
+  "title": "DÂNG MÌNH CHO ĐỨC CHÚA TRỜI",
+  "orig": "650-self-dedication-howe",
+  "author": "John Howe",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "651-two-farewell-sermons-whitefield",
+  "file": "651-two-farewell-sermons-whitefield.txt",
+  "title": "HAI BÀI GIẢNG TỪ BIỆT",
+  "orig": "651-two-farewell-sermons-whitefield",
+  "author": "George Whitefield",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "655-the-stedfastness-of-promises-owen",
+  "file": "655-the-stedfastness-of-promises-owen.txt",
+  "title": "LỜI HỨA VỮNG VÀNG, LÒNG TIN CHỚ DAO ĐỘNG",
+  "orig": "655-the-stedfastness-of-promises-owen",
+  "author": "John Owen",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "658-the-state-of-the-country-hodge",
+  "file": "658-the-state-of-the-country-hodge.txt",
+  "title": "TÌNH HÌNH ĐẤT NƯỚC — CHARLES HODGE",
+  "orig": "658-the-state-of-the-country-hodge",
+  "author": "Charles Hodge",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "659-the-mutual-duty-of-pastor-and-people-gill",
+  "file": "659-the-mutual-duty-of-pastor-and-people-gill.txt",
+  "title": "BỔN PHẬN LẪN NHAU CỦA MỤC SƯ VÀ HỘI CHÚNG",
+  "orig": "659-the-mutual-duty-of-pastor-and-people-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "661-attendance-in-places-of-religious-worship-gill",
+  "file": "661-attendance-in-places-of-religious-worship-gill.txt",
+  "title": "HÃY SIÊNG NHÓM LẠI NƠI THỜ PHƯỢNG CHÚA",
+  "orig": "661-attendance-in-places-of-religious-worship-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "662-funeral-sermon-for-james-owen-henry",
+  "file": "662-funeral-sermon-for-james-owen-henry.txt",
+  "title": "BÀI GIẢNG TANG LỄ ÔNG JAMES OWEN",
+  "orig": "662-funeral-sermon-for-james-owen-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "665-an-answer-to-the-birmingham-dialogue-writers-second-part-gill",
+  "file": "665-an-answer-to-the-birmingham-dialogue-writers-second-part-gill.txt",
+  "title": "ĐÁP LẠI PHẦN HAI CỦA NGƯỜI VIẾT ĐỐI THOẠI BIRMINGHAM",
+  "orig": "665-an-answer-to-the-birmingham-dialogue-writers-second-part-gill",
+  "author": "John Gill",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "667-the-childs-delight-keach",
+  "file": "667-the-childs-delight-keach.txt",
+  "title": "NIỀM VUI CỦA TRẺ THƠ",
+  "orig": "667-the-childs-delight-keach",
+  "author": "Benjamin Keach",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "670-a-funeral-sermon-richard-stretton-henry",
+  "file": "670-a-funeral-sermon-richard-stretton-henry.txt",
+  "title": "BÀI GIẢNG ĐÁM TANG MỤC SƯ RICHARD STRETTON",
+  "orig": "670-a-funeral-sermon-richard-stretton-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "675-navigation-spiritualized-flavel",
+  "file": "675-navigation-spiritualized-flavel.txt",
+  "title": "LA BÀN THUỘC LINH CHO NGƯỜI ĐI BIỂN",
+  "orig": "675-navigation-spiritualized-flavel",
+  "author": "John Flavel",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "676-objects-nature-standard-ecclesiastical-authority-cunningham",
+  "file": "676-objects-nature-standard-ecclesiastical-authority-cunningham.txt",
+  "title": "ĐỐI TƯỢNG, BẢN CHẤT VÀ CHUẨN MỰC CỦA QUYỀN GIÁO HỘI",
+  "orig": "676-objects-nature-standard-ecclesiastical-authority-cunningham",
+  "author": "William Cunningham",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "680-the-pilgrims-progress-abridged-wesley",
+  "file": "680-the-pilgrims-progress-abridged-wesley.txt",
+  "title": "HÀNH TRÌNH NGƯỜI LỮ HÀNH — BẢN RÚT GỌN CỦA WESLEY",
+  "orig": "680-the-pilgrims-progress-abridged-wesley",
+  "author": "John Wesley",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "681-narrative-of-the-work-of-god-northampton-edwards",
+  "file": "681-narrative-of-the-work-of-god-northampton-edwards.txt",
+  "title": "THUẬT LẠI CÔNG VIỆC ĐỨC CHÚA TRỜI TẠI NORTHAMPTON",
+  "orig": "681-narrative-of-the-work-of-god-northampton-edwards",
+  "author": "Jonathan Edwards",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "684-the-grand-question-resolved-baxter",
+  "file": "684-the-grand-question-resolved-baxter.txt",
+  "title": "CÂU HỎI LỚN ĐƯỢC GIẢI ĐÁP",
+  "orig": "684-the-grand-question-resolved-baxter",
+  "author": "Richard Baxter",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "686-apologia-four-letters-newton",
+  "file": "686-apologia-four-letters-newton.txt",
+  "title": "LỜI BIỆN HỘ: BỐN BỨC THƯ",
+  "orig": "686-apologia-four-letters-newton",
+  "author": "John Newton",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "692-sober-mindedness-pressd-upon-young-people-henry",
+  "file": "692-sober-mindedness-pressd-upon-young-people-henry.txt",
+  "title": "KHUYÊN NGƯỜI TRẺ SỐNG TIẾT ĐỘ",
+  "orig": "692-sober-mindedness-pressd-upon-young-people-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "803-a-treatise-of-death-baxter",
+  "file": "803-a-treatise-of-death-baxter.txt",
+  "title": "LUẬN VỀ SỰ CHẾT: KẺ THÙ CUỐI CÙNG",
+  "orig": "803-a-treatise-of-death-baxter",
+  "author": "Richard Baxter",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "807-christian-behaviour-bunyan",
+  "file": "807-christian-behaviour-bunyan.txt",
+  "title": "CÁCH ĂN NẾT Ở CỦA CƠ ĐỐC NHÂN",
+  "orig": "807-christian-behaviour-bunyan",
+  "author": "John Bunyan",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "816-all-of-grace-spurgeon",
+  "file": "816-all-of-grace-spurgeon.txt",
+  "title": "HOÀN TOÀN BỞI ÂN ĐIỂN",
+  "orig": "816-all-of-grace-spurgeon",
+  "author": "C. H. Spurgeon",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "817-rome-against-the-bible-and-the-bible-against-rome-plumer",
+  "file": "817-rome-against-the-bible-and-the-bible-against-rome-plumer.txt",
+  "title": "RÔ-MA CHỐNG KINH THÁNH, KINH THÁNH CHỐNG RÔ-MA",
+  "orig": "817-rome-against-the-bible-and-the-bible-against-rome-plumer",
+  "author": "William S. Plumer",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "818-feast-of-fat-things-full-of-marrow-keach",
+  "file": "818-feast-of-fat-things-full-of-marrow-keach.txt",
+  "title": "BỮA TIỆC CÁC VẬT BÉO ĐẦY TỦY",
+  "orig": "818-feast-of-fat-things-full-of-marrow-keach",
+  "author": "Benjamin Keach",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "820-fountain-sealed-sibbes",
+  "file": "820-fountain-sealed-sibbes.txt",
+  "title": "SUỐI NIÊM PHONG",
+  "orig": "820-fountain-sealed-sibbes",
+  "author": "Richard Sibbes",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "837-divine-meditations-and-holy-contemplations-sibbes",
+  "file": "837-divine-meditations-and-holy-contemplations-sibbes.txt",
+  "title": "SUY NGẪM THIÊNG LIÊNG VÀ CHIÊM NIỆM THÁNH",
+  "orig": "837-divine-meditations-and-holy-contemplations-sibbes",
+  "author": "Richard Sibbes",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "849-su-nhu-mi-va-tam-than-binh-tinh-henry",
+  "file": "849-su-nhu-mi-va-tam-than-binh-tinh-henry.txt",
+  "title": "SỰ NHU MÌ VÀ TÂM THẦN BÌNH TĨNH",
+  "orig": "849-su-nhu-mi-va-tam-than-binh-tinh-henry",
+  "author": "Matthew Henry",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "861-meditations-and-contemplations-hervey",
+  "file": "861-meditations-and-contemplations-hervey.txt",
+  "title": "SUY NIỆM VÀ CHIÊM NIỆM CỦA ÔNG HERVEY",
+  "orig": "861-meditations-and-contemplations-hervey",
+  "author": "James Hervey",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "865-time-of-danger-hervey",
+  "file": "865-time-of-danger-hervey.txt",
+  "title": "THỜI NGUY HIỂM, PHƯƠNG AN TOÀN, ĐƯỜNG NÊN THÁNH",
+  "orig": "865-time-of-danger-hervey",
+  "author": "James Hervey",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "871-glance-of-heaven-sibbes",
+  "file": "871-glance-of-heaven-sibbes.txt",
+  "title": "MỘT CÁI NHÌN VỀ THIÊN ĐÀNG",
+  "orig": "871-glance-of-heaven-sibbes",
+  "author": "Richard Sibbes",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "881-mortification-of-sin-owen",
+  "file": "881-mortification-of-sin-owen.txt",
+  "title": "GIẾT CHẾT TỘI LỖI TRONG TÍN HỮU",
+  "orig": "881-mortification-of-sin-owen",
+  "author": "John Owen",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "883-manna-crumbs-rutherford",
+  "file": "883-manna-crumbs-rutherford.txt",
+  "title": "VỤN MA-NA CHO LINH HỒN ĐÓI KHÁT",
+  "orig": "883-manna-crumbs-rutherford",
+  "author": "Samuel Rutherford",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "884-a-defence-of-the-doctrine-of-justification-bunyan",
+  "file": "884-a-defence-of-the-doctrine-of-justification-bunyan.txt",
+  "title": "BIỆN HỘ SỰ XƯNG CÔNG CHÍNH BỞI ĐỨC TIN",
+  "orig": "884-a-defence-of-the-doctrine-of-justification-bunyan",
+  "author": "John Bunyan",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "885-the-appellation-of-john-knox",
+  "file": "885-the-appellation-of-john-knox.txt",
+  "title": "LỜI KHÁNG NGHỊ CỦA JOHN KNOX CHỐNG BẢN ÁN BẤT CÔNG",
+  "orig": "885-the-appellation-of-john-knox",
+  "author": "John Knox",
+  "by": "Claude",
+  "reviewed": false
+ },
+ {
+  "id": "886-greatness-of-the-soul-bunyan",
+  "file": "886-greatness-of-the-soul-bunyan.txt",
+  "title": "LINH HỒN VĨ ĐẠI VÀ MẤT MÁT KHÔN TẢ",
+  "orig": "886-greatness-of-the-soul-bunyan",
+  "author": "John Bunyan",
+  "by": "Claude",
   "reviewed": false
  }
 ]

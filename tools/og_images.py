@@ -27,7 +27,7 @@ def _ogkick(path):
                  ("chu-de", "CHỦ ĐỀ"), ("video", "VIDEO"), ("moi-tin", "NGƯỜI MỚI TIN CHÚA"), ("phuc-am", "TÌM HIỂU")):
         if path.startswith(p): return k
     return "THƯ VIỆN CẢI CHÁNH"
-_OGVER = "v3"
+_OGVER = "v4"
 _SUFFIX = re.compile(r"\s*[·|–-]\s*(bản dịch tiếng Việt|sách miễn phí.*|đọc và tải.*)$", re.I)
 def og_image(path, title, desc=""):
     name = re.sub(r"[^a-z0-9]+", "-", path.lower().replace(".html", "")).strip("-") or "home"
@@ -67,7 +67,7 @@ def og_image(path, title, desc=""):
     d.text((80, 570), "Reformed Vietnam", font=_ogf("DejaVuSerif-Bold.ttf", 32), fill=(255, 255, 255))
     d.text((1120, 576), "Sách Cải Chánh miễn phí · reformed-vietnam.vercel.app", font=_ogf("DejaVuSans.ttf", 20), fill=(255, 235, 220), anchor="ra")
     os.makedirs("og", exist_ok=True)
-    im.save(out, "JPEG", quality=86, subsampling=0, optimize=True, progressive=True)
+    im.save(out, "JPEG", quality=72, optimize=True, progressive=True)
     try:
         open(sigf, "w").write(sig)
     except OSError:

@@ -181,7 +181,7 @@ function sheetActs(b){
   if(window.VIB&&VIB[b.id])x+='<a class="p" href="'+(VIB[b.id].rd||VIB[b.id].u)+'">📖 '+(vi?"Đọc bản dịch tiếng Việt":"Read Vietnamese translation")+' <small>('+(VIB[b.id].r?(vi?"đã duyệt":"reviewed"):(vi?"AI, chưa duyệt":"AI, not yet reviewed"))+')</small></a>';
   if(b.read){
     x+='<a class="p" href="reader.html?id='+id+'">'+(vi?"Đọc tại đây":"Read here")+'</a>';
-    if(b.au!=="vn")x+='<a class="s2" href="reader.html?id='+id+'&tr=1">🌐 '+(vi?"Đọc bản dịch tiếng Việt (dịch máy)":"Read Vietnamese translation (machine)")+'</a>';
+    if(b.au!=="vn"&&!(window.VIB&&VIB[b.id]))x+='<a class="s2" href="reader.html?id='+id+'&tr=1">🌐 '+(vi?"Đọc bản dịch tiếng Việt (dịch máy)":"Read Vietnamese translation (machine)")+'</a>';
     for(var f in b.dl)x+='<a class="s2" href="'+b.dl[f]+'"'+ext+'>⬇ '+f+'</a>';
     x+='<a class="s2" href="'+b.read+'"'+ext+'>CCEL ↗</a>';
     if(b.lv)x+='<a class="s2" href="'+b.lv+'"'+ext+'>🎧 LibriVox</a>';

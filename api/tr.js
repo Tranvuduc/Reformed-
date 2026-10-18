@@ -10,11 +10,10 @@ async function body(req){
 export default async function handler(req, res) {
   try {
     if (req.method === 'GET' && req.query.stats) {
-      res.setHeader('Cache-Control', 'no-store');
       const st = {}; try { const r0 = await list({ prefix: 'status/', limit: 50 }); for (const b of r0.blobs) { const g = await get(b.pathname, { access: 'private', useCache: false }); if (g && g.statusCode === 200) st[b.pathname.slice(7, -5)] = await new Response(g.stream).text(); } } catch (e) {}
-      const per = {}; let n = 0, cursor;
-      do { const r = await list({ prefix: 'tr/', cursor, limit: 1000 }); for (const b of r.blobs) { n++; const k = b.pathname.split('/')[1]; per[k] = (per[k] || 0) + 1; } cursor = r.hasMore ? r.cursor : undefined; } while (cursor && n < 50000);
-      return res.status(200).json({ pages: n, books: Object.keys(per).length, per, status: st });
+      // Không còn liệt kê toàn bộ blob tr/ (tốn nhiều thao tác Blob nâng cao); chỉ trả trạng thái bot.
+      res.setHeader('Cache-Control', 'public, s-maxage=3600');
+      return res.status(200).json({ status: st });
     }
     if (req.method === 'GET') {
       const id = String(req.query.id || ''), h = String(req.query.h || '');
