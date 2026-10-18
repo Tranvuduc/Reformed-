@@ -6712,5 +6712,1136 @@
   "orig": "A Treatise on Keeping the Heart",
   "reviewed": false,
   "title": "LUẬN VỀ VIỆC GIỮ GÌN TẤM LÒNG"
+ },
+ {
+  "id": "arch/aviewcovenantgr01bostgoog",
+  "file": "arch-boston-view-covenant-grace.txt",
+  "title": "CÁI NHÌN VỀ GIAO ƯỚC CỦA ÂN ĐIỂN",
+  "orig": "A view of the covenant of grace",
+  "author": "Thomas Boston",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_crook-in-the-lot-or-the_boston-thomas_1782",
+  "file": "arch-boston-crook-lot.txt",
+  "title": "CHỖ CONG TRONG SỐ PHẬN",
+  "orig": "Crook in the Lot; or, the Sovereignty and Wisdom of God Displayed in the Afflictions of Men",
+  "author": "Thomas Boston",
+  "year": 1782,
+  "by": "Muse",
+  "reviewed": false,
+  "words": 35528
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-time-of-danger-and-_hervey-james_1757",
+  "file": "arch-hervey-time-danger.txt",
+  "title": "THỜI KỲ NGUY HIỂM VÀ PHƯƠNG CÁCH AN TOÀN",
+  "orig": "The time of danger, and the means of safety; to which is added, The way of holiness. 1757",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_war-with-the-devil-or-t_keach-benjamin_1760",
+  "title": "Chiến Tranh Với Ma Quỷ",
+  "orig": "War with the Devil: or the Young Man's Conflict with the Powers of Darkness",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-keach-war-devil.txt",
+  "words": 37224
+ },
+ {
+  "id": "arch/calltounconverte01baxt",
+  "title": "TIẾNG GỌI KẺ CHƯA ĐƯỢC BIẾN ĐỔI",
+  "orig": "A Call to the Unconverted",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-baxter-call-unconverted.txt",
+  "words": 36546
+ },
+ {
+  "id": "arch/tokenformourners00flav",
+  "title": "LỜI NHẮN NHỦ CHO KẺ THAN KHÓC",
+  "orig": "A Token for Mourners",
+  "author": "John Flavel",
+  "file": "arch-flavel-token-mourners.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/MN41387ucmf_4",
+  "title": "SỰ GIÚP ĐỠ HẰNG NGÀY",
+  "orig": "Daily Help",
+  "author": "C. H. Spurgeon",
+  "file": "arch-spurgeon-daily-help.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/johnploughmansta0000spur_o5e2",
+  "file": "arch-spurgeon-john-ploughman-talk.txt",
+  "title": "CHUYỆN TRÒ CỦA JOHN PLOUGHMAN",
+  "orig": "John Ploughman's Talk; or, Plain Advice for Plain People",
+  "author": "C. H. Spurgeon",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/tractondoctrines00thor",
+  "file": "arch-thornwell-election-reprobation.txt",
+  "title": "LUẬN VỀ SỰ TUYỂN CHỌN VÀ SỰ BỎ RƠI",
+  "orig": "A tract on the doctrines of election and reprobation",
+  "author": "James Henley Thornwell",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_a-vindication-of-the-boo_bunyan-john_1657",
+  "file": "arch-bunyan-vindication-gospel-truths.txt",
+  "title": "SỰ BIỆN HỘ CHO CUỐN SÁCH \"NHỮNG LẼ THẬT PHÚC ÂM ĐƯỢC MỞ RA\"",
+  "orig": "A vindication of the book called Some gospel-truths opened",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/memoirsoflater00full",
+  "file": "arch-fuller-memoirs-pearce.txt",
+  "title": "HỒI KÝ VỀ MỤC SƯ SAMUEL PEARCE",
+  "orig": "Memoirs of the late Rev. Samuel Pearce",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/sixsermons00spur",
+  "file": "arch-spurgeon-six-sermons.txt",
+  "title": "SÁU BÀI GIẢNG",
+  "orig": "Six sermons",
+  "author": "C. H. Spurgeon",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_war-with-the-devil-or-_keach-benjamin_1728",
+  "file": "arch-keach-war-devil.txt",
+  "title": "CUỘC CHIẾN VỚI MA QUỶ",
+  "orig": "War with the devil: or, the young man's conflict with the powers of darkness",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-petition-for-peace-wi_baxter-richard_1661_0",
+  "file": "arch-baxter-petition-peace.txt",
+  "title": "LỜI THỈNH NGUYỆN VÌ HÒA BÌNH",
+  "orig": "A petition for peace: with the reformation of the liturgy",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/cainabelmalignit00baxt",
+  "file": "arch-baxter-cain-abel.txt",
+  "title": "SỰ ÁC TÂM CỦA CA-IN VÀ A-BÊN",
+  "orig": "Cain and Abel malignity, that is enmity to serious piety",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_of-the-nature-of-spirits_baxter-richard_1682",
+  "file": "arch-baxter-nature-spirits.txt",
+  "title": "BẢN CHẤT CỦA CÁC THẦN LINH",
+  "orig": "Of the nature of spirits, especially man's soul",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1672",
+  "file": "arch-baxter-treatise-death.txt",
+  "title": "MỘT LUẬN VỀ SỰ CHẾT",
+  "orig": "A Treatise of Death",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/morningofjoybei00bona",
+  "title": "BUỔI SÁNG CỦA NIỀM VUI",
+  "orig": "The Morning of Joy: Being a Sequel to The Night of Weeping",
+  "author": "Horatius Bonar",
+  "file": "arch-bonar-morning-joy.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "src": "https://archive.org/download/morningofjoybei00bona/morningofjoybei00bona_djvu.txt"
+ },
+ {
+  "id": "arch/compassionatewar00baxtuoft",
+  "title": "LỜI CẢNH BÁO ĐẦY THƯƠNG XÓT",
+  "orig": "Compassionate Warning and Advice to All, Especially to Young Persons",
+  "author": "Richard Baxter",
+  "file": "arch-baxter-compassionate-warning.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "src": "https://archive.org/download/compassionatewar00baxtuoft/compassionatewar00baxtuoft_djvu.txt"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_heaven-taken-by-storm-o_watson-thomas_1788",
+  "title": "Thiên Đàng Đoạt Bằng Sự Sốt Sắng",
+  "orig": "Heaven taken by storm: or, the holy violence a Christian is to put forth in the pursuit after glory",
+  "author": "Thomas Watson",
+  "file": "arch-watson-heaven-taken-storm.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "src": "https://archive.org/download/bim_eighteenth-century_heaven-taken-by-storm-o_watson-thomas_1788/bim_eighteenth-century_heaven-taken-by-storm-o_watson-thomas_1788_djvu.txt"
+ },
+ {
+  "id": "arch/nightofweepingor00bonaiala",
+  "file": "arch-bonar-night-weeping.txt",
+  "title": "ĐÊM KHÓC LÓC",
+  "orig": "The Night of Weeping; or, Words for the Suffering Family of God",
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_now-or-never-_baxter-richard_1662",
+  "file": "arch-baxter-now-or-never.txt",
+  "title": "NGAY BÂY GIỜ HOẶC KHÔNG BAO GIỜ",
+  "orig": "Now or Never",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_navigation-spiritualized_flavel-john_1797",
+  "title": "HÀNG HẢI ĐƯỢC THUỘC LINH HÓA",
+  "author": "John Flavel",
+  "file": "arch-flavel-navigation-spiritualized.txt",
+  "words": 53501,
+  "by": "Muse",
+  "reviewed": false,
+  "src": "https://archive.org/download/bim_eighteenth-century_navigation-spiritualized_flavel-john_1797/bim_eighteenth-century_navigation-spiritualized_flavel-john_1797_djvu.txt",
+  "orig": "Navigation Spiritualized; or, A New Compass for Seamen (1797)"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-string-of-pearles_brooks-thomas_1668",
+  "file": "arch-brooks-string-pearles.txt",
+  "title": "CHUỖI NGỌC TRAI: Những Điều Tốt Nhất Được Nhận Thấy Trên Thiên Đàng",
+  "orig": "A string of pearles (1668)",
+  "author": "Thomas Brooks",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-time-of-danger-the-_hervey-james_1789",
+  "title": "LÚC NGUY HIỂM, CÁCH AN TOÀN, ĐƯỜNG THÁNH KHIẾT",
+  "author": "James Hervey",
+  "file": "arch-hervey-time-danger.txt",
+  "words": 56452,
+  "by": "Muse",
+  "reviewed": false,
+  "src": "https://archive.org/download/bim_eighteenth-century_the-time-of-danger-the-_hervey-james_1789/bim_eighteenth-century_the-time-of-danger-the-_hervey-james_1789_djvu.txt",
+  "orig": "The Time of Danger, the Means of Safety, and the Way of Holiness (1789, 6th ed.)"
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1635",
+  "title": "Cuộc Xung Đột Của Linh Hồn Với Chính Mình",
+  "author": "Richard Sibbes",
+  "file": "arch-sibbes-souls-conflict-1635.txt",
+  "words": 47302,
+  "by": "Muse",
+  "reviewed": false,
+  "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1635/bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1635_djvu.txt",
+  "orig": "The Soul's Conflict with Itself (1635)"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-power-and-prevalency_rutherford-samuel_1713",
+  "title": "Sức Mạnh Của Đức Tin Và Lời Cầu Nguyện",
+  "author": "Samuel Rutherford",
+  "orig": "The Power and Prevalency of Faith and Prayer (1713)",
+  "file": "arch-rutherford-power-prayer.txt",
+  "src": "https://archive.org/download/bim_eighteenth-century_the-power-and-prevalency_rutherford-samuel_1713/bim_eighteenth-century_the-power-and-prevalency_rutherford-samuel_1713_djvu.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 57994
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_the-saints-comforts-_sibbes-richard_1638",
+  "file": "arch-sibbes-saints-comforts-1638.txt",
+  "title": "SỰ AN ỦI CỦA CÁC THÁNH",
+  "orig": "The Saints Comforts",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/viewofcovenantof00bost",
+  "title": "CÁI NHÌN VỀ GIAO ƯỚC ÂN ĐIỂN",
+  "author": "Thomas Boston",
+  "orig": "A View of the Covenant of Grace from the Sacred Records (1734)",
+  "file": "arch-boston-view-covenant-grace.txt",
+  "src": "https://archive.org/download/viewofcovenantof00bost/viewofcovenantof00bost_djvu.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_thoughts-concerning-the-_edwards-jonathan_1798",
+  "title": "SUY NGHĨ VỀ SỰ PHỤC HƯNG TÔN GIÁO TẠI NEW ENGLAND",
+  "author": "Jonathan Edwards",
+  "orig": "Thoughts concerning the Revival of Religion in New-England (1798, abridged by John Wesley)",
+  "file": "arch-edwards-thoughts-revival.txt",
+  "src": "https://archive.org/download/bim_eighteenth-century_thoughts-concerning-the-_edwards-jonathan_1798/bim_eighteenth-century_thoughts-concerning-the-_edwards-jonathan_1798_djvu.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_solomons-temple-spritua_bunyan-john_1771",
+  "file": "arch-bunyan-solomons-temple.txt",
+  "title": "ĐỀN THỜ SA-LÔ-MÔN ĐƯỢC THIÊNG HÓA",
+  "orig": "Solomon's Temple Spiritualized (1771)",
+  "author": "John Bunyan",
+  "src": "https://archive.org/download/bim_eighteenth-century_solomons-temple-spritua_bunyan-john_1771/bim_eighteenth-century_solomons-temple-spritua_bunyan-john_1771_djvu.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-tryal-of-a-christian_goodwin-thomas_1650",
+  "file": "arch-goodwin-tryal-growth.txt",
+  "title": "PHÉP THỬ SỰ TĂNG TRƯỞNG CỦA CƠ ĐỐC NHÂN",
+  "orig": "The Tryal of a Christian's Growth (1650)",
+  "author": "Thomas Goodwin",
+  "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-tryal-of-a-christian_goodwin-thomas_1650/bim_early-english-books-1641-1700_the-tryal-of-a-christian_goodwin-thomas_1650_djvu.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-saint-indeed-or-the-_flavel-john_1768",
+  "file": "arch-flavel-saint-indeed.txt",
+  "title": "THÁNH ĐỒ ĐÍCH THỰC",
+  "orig": "A Saint Indeed: or, the Great Work of a Christian in Keeping the Heart (1768)",
+  "author": "John Flavel",
+  "src": "https://archive.org/download/bim_eighteenth-century_a-saint-indeed-or-the-_flavel-john_1768/bim_eighteenth-century_a-saint-indeed-or-the-_flavel-john_1768_djvu.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-pleasantness-of-a-re_henry-matthew_1771",
+  "title": "SỰ NGỌT NGÀO CỦA ĐỜI SỐNG TIN KÍNH",
+  "author": "Matthew Henry",
+  "orig": "The Pleasantness of a Religious Life, Opened and Proved (1771)",
+  "file": "arch-henry-pleasantness-religious-life.txt",
+  "src": "https://archive.org/download/bim_eighteenth-century_the-pleasantness-of-a-re_henry-matthew_1771/bim_eighteenth-century_the-pleasantness-of-a-re_henry-matthew_1771_djvu.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/chspurgeonspraye00spur",
+  "title": "LỜI CẦU NGUYỆN CỦA C. H. SPURGEON",
+  "author": "C. H. Spurgeon",
+  "orig": "C. H. Spurgeon's Prayers (1905)",
+  "file": "arch-spurgeon-prayers.txt",
+  "src": "https://archive.org/download/chspurgeonspraye00spur/chspurgeonspraye00spur_djvu.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_two-funeral-sermons-one_henry-matthew_1709",
+  "file": "arch-henry-two-funeral-sermons.txt",
+  "title": "Hai Bài Giảng Lễ Tang",
+  "orig": "Two funeral sermons: one on Dr. Samuel Benion, and another on the Reverend Mr. Francis Tallents: 1709",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-defence-of-the-nonco_baxter-richard_1680",
+  "file": "arch-baxter-defence-nonconformists.txt",
+  "title": "Sự Bênh Vực Lời Cầu Xin Hòa Bình Của Người Không Tuân Thủ",
+  "orig": "The defence of the Nonconformists plea for peace: an account of the matter of their nonconformity, against Mr. J. Cheney's answer: 1680",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/predestinationin00warf",
+  "file": "arch-warfield-predestination-confessions.txt",
+  "title": "Sự Tiền Định Trong Các Tín Điều Cải Chánh",
+  "orig": "Predestination in the Reformed Confessions (1901)",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-triumph-of-faith-by_romaine-william_1795",
+  "file": "arch-romaine-triumph-faith.txt",
+  "title": "Sự Chiến Thắng Của Đức Tin",
+  "orig": "The Triumph of Faith",
+  "author": "William Romaine",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-travels-of-true-godl_keach-benjamin_1684",
+  "file": "arch-keach-travels-godliness.txt",
+  "title": "Hành Trình Của Sự Tin Kính Chân Thật",
+  "orig": "The travels of true godliness, from the beginning of the world to this present day, in an apt and pleasant allegory: 1684",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_letters-to-a-wife-by-th_newton-john_1793_2",
+  "file": "arch-newton-letters-wife.txt",
+  "title": "THƯ GỬI NGƯỜI VỢ",
+  "orig": "Letters to a wife. Vol. II. Written from 1755 to 1785: 1793",
+  "author": "John Newton",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_foure-godlye-sermons-_calvin-john_1561",
+  "title": "BỐN BÀI GIẢNG CHỐNG SỰ Ô UẾ CỦA THẦN TƯỢNG",
+  "author": "John Calvin",
+  "file": "arch-calvin-foure-sermons-idolatry.txt",
+  "orig": "Foure godlye sermons against the pollution of idolatries: 1561",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-true-christians-love_vincent-thomas_1680",
+  "file": "arch-vincent-true-christians-love.txt",
+  "title": "Tình Yêu Cơ Đốc Nhân Dành Cho Christ Vô Hình",
+  "orig": "The true Christians love to the unseen Christ: a discourse... 1680",
+  "author": "Thomas Vincent",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/treatiseuponlife00roma",
+  "title": "ĐỜI SỐNG CỦA ĐỨC TIN",
+  "author": "William Romaine",
+  "orig": "A Treatise upon the Life of Faith",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-romaine-treatise-life-faith2.txt"
+ },
+ {
+  "id": "arch/doctrineofendles00shed",
+  "title": "GIÁO LÝ VỀ HÌNH PHẠT ĐỜI ĐỜI",
+  "author": "William G. T. Shedd",
+  "orig": "The Doctrine of Endless Punishment",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-shedd-doctrine-endless-punishment.txt"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_christs-certain-and-sud_vincent-thomas_1695",
+  "title": "ĐẤNG CHRIST HIỆN ĐẾN PHÁN XÉT: CHẮC CHẮN, THÌNH LÌNH",
+  "author": "Thomas Vincent",
+  "orig": "Christ's Certain and Sudden Appearance to Judgment",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-vincent-christs-appearance.txt"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_seven-sermons-by-that-l_bridge-william_1789",
+  "title": "Bảy Bài Giảng Của William Bridge",
+  "author": "William Bridge",
+  "file": "arch-bridge-seven-sermons.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "orig": "Seven Sermons, by that learned and laborious Servant of Christ, the Rev. William Bridge (1789 reprint of 17th-century Puritan sermons)"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_letters-from-the-late-re_romaine-william_1795",
+  "title": "Thư Của Mục Sư William Romaine",
+  "author": "William Romaine",
+  "file": "arch-romaine-letters.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "orig": "Letters from the late Rev. William Romaine, A.M., to a Friend, on the Most Important Subjects, during a Correspondence of Twenty Years. Published from the original manuscripts by Thomas Wills. London, 1795."
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-reasonableness-of-ch_dickinson-jonathan_1732",
+  "title": "Tính Hợp Lý Của Đạo Cơ Đốc",
+  "author": "Jonathan Dickinson",
+  "file": "arch-dickinson-reasonableness-christianity.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "orig": "The Reasonableness of Christianity, in Four Sermons. Wherein the Being and Attributes of God, the Apostasy of Man, and the Credibility of the Christian Religion, are demonstrated by rational Considerations. By Jonathan Dickinson, M.A., Minister of the Gospel at Elisabeth-Town, New Jersey. Boston, 1732."
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-progress-of-sin-or-_keach-benjamin_1715",
+  "title": "Sự Tiến Triển Của Tội Lỗi",
+  "author": "Benjamin Keach",
+  "file": "arch-keach-progress-sin.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "orig": "The Progress of Sin; or, The Travels of Ungodliness. Wherein the Pedigree, Rise, (or Original) Antiquity, Subtilty, Evil Nature, and prevailing Power of Sin is fully discover'd; in an Apt and Pleasant Allegory (London, 1715, 3rd ed.)"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_-or-the-art-of_watson-thomas_1658",
+  "file": "arch-watson-art-contentment.txt",
+  "title": "Nghệ Thuật Của Sự Thỏa Lòng",
+  "orig": "The Art of Divine Contentment",
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/artofillustratio00spur",
+  "file": "arch-spurgeon-art-illustration.txt",
+  "title": "Nghệ Thuật Minh Họa",
+  "orig": "The Art of Illustration",
+  "author": "C. H. Spurgeon",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_sermons-on-various-subje_whitefield-george_1739_1",
+  "file": "arch-whitefield-sermons-1739.txt",
+  "title": "CÁC BÀI GIẢNG VỀ NHIỀU CHỦ ĐỀ",
+  "orig": "Sermons on Various Subjects (1739)",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_christian-biography-or-_baxter-richard_1768_1",
+  "file": "arch-baxter-christian-biography.txt",
+  "title": "Tiểu Sử Cơ Đốc",
+  "orig": "Christian Biography: or, A Collection of the Lives of several Excellent Persons",
+  "author": "Richard Baxter và William Bates",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-vindication-of-some-pa_owen-john_1674",
+  "title": "Lời Biện Hộ Cho Một Số Đoạn Văn Trong Một Bài Giảng Về Sự Thông Công Với Đức Chúa Trời",
+  "author": "John Owen",
+  "orig": "A vindication of some passages in a discourse concerning Communion with God (1674)",
+  "file": "arch-owen-vindication-communion.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_christian-concord-_baxter-richard_1653",
+  "title": "Sự Hiệp Nhất Cơ Đốc",
+  "author": "Richard Baxter",
+  "orig": "Christian concord: or, the agreement of the associated pastors and churches of Worcestershire (1653)",
+  "file": "arch-baxter-christian-concord.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-collection-of-sermons-_hervey-james_1774",
+  "file": "arch-hervey-collection-sermons.txt",
+  "title": "Tuyển Tập Bài Giảng Và Luận Văn",
+  "orig": "https://archive.org/download/bim_eighteenth-century_a-collection-of-sermons-_hervey-james_1774/bim_eighteenth-century_a-collection-of-sermons-_hervey-james_1774_djvu.txt",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1715_0",
+  "file": "arch-bunyan-come-welcome.txt",
+  "title": "Hãy Đến Với Chúa Giê-xu Christ",
+  "orig": "https://archive.org/download/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1715_0/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1715_0_djvu.txt",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-treatise-of-the-fear-o_bunyan-john_1679",
+  "title": "Luận Về Sự Kính Sợ Đức Chúa Trời",
+  "author": "John Bunyan",
+  "orig": "A Treatise of the Fear of God (1679)",
+  "file": "arch-bunyan-treatise-fear-god.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_yea-and-amen-or-pretiou_sibbes-richard_1638",
+  "title": "Vâng Và A-Men: Những Lời Hứa Quý Báu",
+  "author": "Richard Sibbes",
+  "orig": "Yea and Amen: or, Pretious Promises (1638)",
+  "file": "arch-sibbes-yea-amen.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-fountain-of-life-ope_flavel-john_1729",
+  "title": "Suối Nguồn Sự Sống Được Mở Ra",
+  "author": "John Flavel",
+  "orig": "The Fountain of Life Open'd (1729)",
+  "file": "arch-flavel-fountain-life.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-treatise-on-assurance_brooks-thomas_1777",
+  "file": "arch-brooks-treatise-assurance.txt",
+  "title": "Luận Về Sự Chắc Chắn",
+  "orig": "A Treatise on Assurance (1777)",
+  "author": "Thomas Brooks",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_distressed-sion-relieved_keach-benjamin_1689",
+  "file": "arch-keach-distressed-sion.txt",
+  "title": "Si-ôn Khốn Khổ Được Giải Cứu",
+  "orig": "Distressed Sion Relieved (1689)",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/godswayofholines00bona",
+  "title": "Đường Nên Thánh Của Đức Chúa Trời",
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-bonar-gods-way-holiness.txt",
+  "orig": "God's Way of Holiness"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-reason-of-faith-_owen-john_1677",
+  "title": "Lý Do Của Đức Tin",
+  "author": "John Owen",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-owen-reason-faith.txt",
+  "orig": "The Reason of Faith"
+ },
+ {
+  "id": "arch/jehovahjirehtrea00plum",
+  "title": "Giê-hô-va Di-rê: Luận Về Sự Quan Phòng",
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-plumer-jehovah-jireh.txt",
+  "orig": "Jehovah-Jireh; a treatise of providence"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-certainty-of-the-wor_baxter-richard_1691",
+  "file": "arch-baxter-certainty-spirits.txt",
+  "title": "Sự Chắc Chắn Về Thế Giới Các Linh Hồn",
+  "orig": "https://archive.org/download/bim_early-english-books-1641-1700_the-certainty-of-the-wor_baxter-richard_1691/bim_early-english-books-1641-1700_the-certainty-of-the-wor_baxter-richard_1691_djvu.txt",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_full-and-easie-satisfact_baxter-richard_1674_0",
+  "file": "arch-baxter-full-satisfaction.txt",
+  "title": "Sự Thỏa Mãn Đầy Đủ Và Dễ Dàng",
+  "orig": "https://archive.org/download/bim_early-english-books-1641-1700_full-and-easie-satisfact_baxter-richard_1674_0/bim_early-english-books-1641-1700_full-and-easie-satisfact_baxter-richard_1674_0_djvu.txt",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_naked-popery-_baxter-richard_1677",
+  "file": "arch-baxter-naked-popery.txt",
+  "title": "Sự Trần Trụi Của Chủ Nghĩa Giáo Hoàng",
+  "orig": "https://archive.org/download/bim_early-english-books-1641-1700_naked-popery-_baxter-richard_1677/bim_early-english-books-1641-1700_naked-popery-_baxter-richard_1677_djvu.txt",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "alexander/family-worship",
+  "file": "alexander-family-worship.txt",
+  "title": "SUY NGẪM VỀ SỰ THỜ PHƯỢNG TRONG GIA ĐÌNH",
+  "orig": "Thoughts on Family Worship",
+  "author": "James W. Alexander",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "John Newton",
+  "by": "Muse",
+  "file": "672-twenty-six-letters-on-religious-subjects-newton.txt",
+  "id": "672-twenty-six-letters-on-religious-subjects-newton",
+  "orig": "Twenty six letters on religious subjects",
+  "reviewed": false,
+  "title": "HAI MƯƠI SÁU BỨC THƯ VỀ CÁC CHỦ ĐỀ TÔN GIÁO"
+ },
+ {
+  "author": "John Owen",
+  "by": "Muse",
+  "file": "673-a-sermon-preached-to-the-house-of-commons-owen.txt",
+  "id": "673-a-sermon-preached-to-the-house-of-commons-owen",
+  "orig": "A sermon preach'd to the Honourable House of Commons, in Parliament assembled, on January 31st, 1648/49. A day of solemn humiliation",
+  "reviewed": false,
+  "title": "Bài Giảng Trước Hạ Viện Anh Quốc (31/1/1648)"
+ },
+ {
+  "id": "827-an-dien-va-dao-duc-baxter",
+  "file": "827-an-dien-va-dao-duc-baxter.txt",
+  "title": "PHÁN XÉT CỦA NHỮNG NGƯỜI BẤT ĐỒNG CHÍNH KIẾN VỀ SỰ KHÁC BIỆT GIỮA ÂN ĐIỂN VÀ ĐẠO ĐỨC",
+  "orig": "The judgment of Non-conformists about the difference between grace and morality (1676)",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "file": "898-con-duong-that-dan-den-thien-dang-baxter.txt",
+  "id": "898-con-duong-that-dan-den-thien-dang-baxter",
+  "orig": "Man's true guide to Heaven",
+  "reviewed": false,
+  "title": "HƯỚNG DẪN ĐÍCH THỰC CỦA CON NGƯỜI VỀ THIÊN ĐÀNG"
+ },
+ {
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "file": "900-counter-antidote-keach.txt",
+  "id": "900-counter-antidote-keach",
+  "orig": "A counter-antidote",
+  "reviewed": false,
+  "title": "THUỐC GIẢI ĐỘC CHO MỘT THỨ THUỐC GIẢ"
+ },
+ {
+  "id": "960-suy-ngam-giua-cac-ngoi-mo-hervey",
+  "file": "960-suy-ngam-giua-cac-ngoi-mo-hervey.txt",
+  "title": "SUY NGẪM GIỮA CÁC NGÔI MỘ",
+  "orig": "Meditations among the Tombs. In a letter to a lady",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "978-luan-ve-su-hien-lanh-henry",
+  "file": "978-luan-ve-su-hien-lanh-henry.txt",
+  "title": "LUẬN VỀ SỰ HIỀN LÀNH VÀ SỰ YÊN LẶNG CỦA TÂM HỒN",
+  "orig": "A discourse concerning meekness, ... 1699",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "981-den-tho-salomom-thuoc-linh-hoa-bunyan",
+  "file": "981-den-tho-salomom-thuoc-linh-hoa-bunyan.txt",
+  "title": "ĐỀN THỜ SA-LÔ-MÔN THUỘC LINH HÓA",
+  "orig": "Solomon's temple spiritualized: or, gospel-light fetched out of the temple at Jerusalem",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "999-ghi-chep-ve-nguoi-do-thai-gill",
+  "file": "999-ghi-chep-ve-nguoi-do-thai-gill.txt",
+  "title": "GHI CHÉP VỀ NGƯỜI DO THÁI VÀ XỨ SỞ HỌ QUA CÁC TÁC GIẢ CỔ ĐIỂN",
+  "orig": "Notices of the Jews and their Country by the Classic Writers of Antiquity",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1003-sau-bai-giang-whitefield",
+  "file": "1003-sau-bai-giang-whitefield.txt",
+  "title": "SÁU BÀI GIẢNG",
+  "orig": "Six sermons on the following subjects",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "C. H. Spurgeon",
+  "by": "Muse",
+  "file": "1014-spurgeon-sermons-tome-1.txt",
+  "id": "1014-spurgeon-sermons-tome-1",
+  "orig": "Sermons preached and revised by the Rev. C. H. Spurgeon",
+  "reviewed": false,
+  "title": "Những Bài Giảng của Mục Sư C. H. Spurgeon — Tập I"
+ },
+ {
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "file": "1057-the-christ-of-god-bonar.txt",
+  "id": "1057-the-christ-of-god",
+  "orig": "The Christ of God",
+  "reviewed": false,
+  "title": "ĐẤNG CHRIST CỦA ĐỨC CHÚA TRỜI"
+ },
+ {
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "file": "1060-the-return-of-prayers.txt",
+  "id": "1060-the-return-of-prayers",
+  "orig": "The return of prayers",
+  "reviewed": false,
+  "title": "SỰ ĐÁP LỜI CẦU NGUYỆN: MỘT LUẬN VĂN VỀ CÁCH NHẬN BIẾT CÂU TRẢ LỜI CỦA ĐỨC CHÚA TRỜI ĐỐI VỚI LỜI CẦU NGUYỆN CỦA CHÚNG TA"
+ },
+ {
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "file": "1064-the-bruised-reed-and-smoking-flax.txt",
+  "id": "1064-the-bruised-reed-and-smoking-flax",
+  "orig": "The bruised reed, and smoking flax",
+  "reviewed": false,
+  "title": "CÂY SẬY BỊ GIẬP VÀ TIM ĐÈN LEO LÉT"
+ },
+ {
+  "id": "1092-obedient-patience-in-general",
+  "file": "1092-obedient-patience-in-general.txt",
+  "title": "Sự nhẫn nhục vâng phục nói chung",
+  "orig": "Obedient patience in general",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1093",
+  "file": "1093-bai-giang-va-cac-luan-van-hervey.txt",
+  "title": "Bài Giảng Và Các Luận Văn",
+  "orig": "Sermons and miscellaneous tracts",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1096",
+  "file": "1096-luan-ve-nguoi-pha-ri-si-va-nguoi-thu-thue.txt",
+  "title": "Bài Luận Về Người Pha-Ri-Si Và Người Thu Thuế",
+  "orig": "A discourse upon the Pharisee",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1097",
+  "file": "1097-ton-giao-hu-khong-cua-ke-gia-hinh-baxter.txt",
+  "title": "Tôn Giáo Hư Không Của Kẻ Giả Hình Hình Thức",
+  "orig": "The vain religion of the formal hypocrite",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1098",
+  "file": "1098-nhung-doan-van-hay-cua-henry.txt",
+  "title": "Những Đoạn Văn Hay Nhất Của Henry",
+  "orig": "The beauties of Henry: a selection",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "1100",
+  "file": "1100-loi-keu-goi-cau-nguyen-hiep-nhat-edwards.txt",
+  "title": "Lời Kêu Gọi Cầu Nguyện Hiệp Nhất",
+  "orig": "An humble attempt to promote explicit agreement",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "file": "arch-bim_eighteenth-century_directi-huong-dan-tuong-giao-hang-ngay-voi-duc-chua-troi-henry.txt",
+  "id": "arch-bim_eighteenth-century_directi",
+  "orig": "Directions for daily communion with God. In three discourses (1715)",
+  "reviewed": false,
+  "title": "Hướng dẫn tương giao hằng ngày với Đức Chúa Trời"
+ },
+ {
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "file": "arch-bim_eighteenth-century_the-ple-su-ngot-ngao-cua-doi-song-dao-henry.txt",
+  "id": "arch-bim_eighteenth-century_the-ple",
+  "orig": "The pleasantness of a religious life, open'd and prov'd (1714)",
+  "reviewed": false,
+  "title": "Sự ngọt ngào của đời sống đạo"
+ },
+ {
+  "id": "list-911",
+  "file": "list-911-kien-nghi-hoa-binh-baxter.txt",
+  "title": "KIẾN NGHỊ VÌ HÒA BÌNH: KÈM VIỆC CẢI CÁCH SÁCH LỄ",
+  "orig": "A Petition for Peace: with the Reformation of the Liturgy",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-913",
+  "file": "list-913-cain-abel-ac-doc-baxter.txt",
+  "title": "CA-IN VÀ A-BÊN ÁC ĐỘC, TỨC LÀ SỰ THÙ GHÉT ĐỐI VỚI SỰ TIN KÍNH SỐT SẮNG",
+  "orig": "Cain and Abel Malignity, that is Enmity to Serious Godliness",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "William Romaine",
+  "by": "Muse",
+  "file": "arch-10266905bsb-letters-romaine.txt",
+  "id": "arch-10266905bsb",
+  "orig": "Letters from the late Rev. William Romaine, A.M., to a friend, on the most important subjects, during a correspondence of twenty years",
+  "reviewed": false,
+  "title": "THƯ CỦA MỤC SƯ WILLIAM ROMAINE GỬI MỘT NGƯỜI BẠN VỀ NHỮNG VẤN ĐỀ QUAN TRỌNG NHẤT"
+ },
+ {
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "file": "list-918-ban-chat-cac-linh-baxter.txt",
+  "id": "list-918",
+  "orig": "Of the Nature of Spirits, especially Man's Soul (1682)",
+  "reviewed": false,
+  "title": "BẢN CHẤT CÁC LINH, ĐẶC BIỆT LINH HỒN CON NGƯỜI"
+ },
+ {
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "file": "list-930-noi-dung-lap-luan-chong-cong-nhan-phap-nhan-plumer.txt",
+  "id": "list-930",
+  "orig": "The Substance of an Argument Against the Indiscriminate Incorporation of Churches and Religious Societies",
+  "reviewed": false,
+  "title": "NỘI DUNG BẢN LẬP LUẬN CHỐNG LẠI VIỆC CÔNG NHẬN PHÁP NHÂN BỪA BÃI CHO CÁC HỘI THÁNH VÀ CÁC HỘI TÔN GIÁO — WILLIAM S. PLUMER"
+ },
+ {
+  "author": "John Newton",
+  "by": "Muse",
+  "file": "arch-letterstoawifeb00newtgoog-thu-gui-vo-newton.txt",
+  "id": "arch-letterstoawifeb00newtgoog",
+  "orig": "Letters to a Wife",
+  "reviewed": false,
+  "title": "THƯ GỬI VỢ — JOHN NEWTON"
+ },
+ {
+  "id": "list-940",
+  "file": "list-940-cuoc-hanh-trinh-cua-dao-that-keach.txt",
+  "title": "CUỘC HÀNH TRÌNH CỦA ĐẠO THẬT",
+  "orig": "The Travels of True Godliness",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-955",
+  "file": "list-955-luan-ve-su-hien-lanh-henry.txt",
+  "title": "Luận Về Sự Hiền Lành Và Sự Bình Tĩnh Của Tâm Thần",
+  "orig": "A Discourse on Meekness and Quietness of Spirit",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-954",
+  "file": "list-954-su-tro-lai-cua-loi-cau-nguyen-goodwin.txt",
+  "title": "Sự Trở Lại Của Những Lời Cầu Nguyện",
+  "orig": "The Returne of Prayers",
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "list-956",
+  "file": "list-956-huong-dan-tho-phuong-duc-chua-troi-owen.txt",
+  "title": "Sự Hướng Dẫn Vắn Tắt Về Sự Thờ Phượng Đức Chúa Trời",
+  "orig": "A Brief Instruction in the Worship of God",
+  "author": "John Owen",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "Samuel Rutherford",
+  "by": "Muse",
+  "file": "list-971-quyen-nang-duc-tin-va-loi-cau-nguyen-rutherford.txt",
+  "id": "list-971",
+  "orig": "The power and prevalency of faith and prayer evidenced, in a practical discourse upon Matth. 21.22 and Luke 18.1",
+  "reviewed": false,
+  "title": "QUYỀN NĂNG VÀ SỰ THẮNG THẾ CỦA ĐỨC TIN VÀ SỰ CẦU NGUYỆN"
+ },
+ {
+  "author": "John Newton",
+  "by": "Muse",
+  "file": "arch-bub_gb_elo7aaaayaaj-cuoc-doi-john-newton.txt",
+  "id": "arch-bub_gb_elo7aaaayaaj",
+  "orig": "The life of John Newton, once a sailor, afterwards captain of a slave ship, and subsequently rector of St. Mary Woolnoth",
+  "reviewed": false,
+  "title": "CUỘC ĐỜI CỦA MỤC SƯ JOHN NEWTON"
+ },
+ {
+  "author": "John Newton (thư); John Campbell (sưu tập)",
+  "by": "Muse",
+  "file": "arch-lettersandconve01campgoog-thu-va-loi-dam-dao-newton.txt",
+  "id": "arch-lettersandconve01campgoog",
+  "orig": "Letters and Conversational Remarks",
+  "reviewed": false,
+  "title": "THƯ VÀ LỜI ĐÀM ĐẠO"
+ },
+ {
+  "author": "John Howe",
+  "by": "Muse",
+  "file": "arch-redeemerstearswe00howe-nhung-giot-le-cua-dang-cuu-chuoc-howe.txt",
+  "id": "arch-redeemerstearswe00howe",
+  "orig": "The Redeemer's Tears Wept Over Lost Souls. A treatise on Luke XIX. 41, 42. With an appendix concerning the blasphemy against the Holy Ghost, and how God is said to will the salvation of them that perish.",
+  "reviewed": false,
+  "title": "NHỮNG GIỌT LỆ CỦA ĐẤNG CỨU CHUỘC KHÓC THƯƠNG NHỮNG LINH HỒN HƯ MẤT"
+ },
+ {
+  "author": "Augustus Toplady",
+  "by": "Muse",
+  "file": "arch-bim_eighteenth-century_the-chu-giao-hoi-anh-minh-oan-toplady.txt",
+  "id": "arch-bim_eighteenth-century_the-chu",
+  "orig": "The Church of England Vindicated from the Charge of Arminianism",
+  "reviewed": false,
+  "title": "GIÁO HỘI ANH ĐƯỢC MINH OAN KHỎI CÁO BUỘC ARMINIAN"
+ },
+ {
+  "id": "arch-artofillustratio00spur",
+  "file": "arch-artofillustratio00spur-nghe-thuat-minh-hoa-spurgeon.txt",
+  "title": "NGHỆ THUẬT MINH HOẠ",
+  "orig": "The Art of Illustration",
+  "author": "C. H. Spurgeon",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-bim_eighteenth-century_come-an",
+  "file": "arch-bim_eighteenth-century_come-an-hay-den-voi-christ-bunyan.txt",
+  "title": "HÃY ĐẾN VÀ ĐƯỢC HOAN NGHÊNH ĐẾN VỚI CHÚA GIÊ-XU CHRIST",
+  "orig": "Come and Welcome to Jesus Christ",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-studentscompendi00beet",
+  "file": "arch-studentscompendi00beet-tom-luoc-heidelberg-beets.txt",
+  "title": "TÓM LƯỢC GIÁO LÝ HEIDELBERG CHO HỌC SINH",
+  "orig": "Students' Compendium of the Heidelberg Catechism",
+  "author": "Henry Beets",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "William Romaine",
+  "by": "Muse",
+  "file": "arch-bim_eighteenth-century_a-pract-chu-giai-thi-thien-107-romaine.txt",
+  "id": "arch-bim_eighteenth-century_a-pract",
+  "orig": "A Practical Comment on the 107th Psalm. The third edition. By William Romaine, 1756",
+  "reviewed": false,
+  "title": "CHÚ GIẢI THỰC HÀNH VỀ THI THIÊN 107"
+ },
+ {
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "file": "arch-bim_eighteenth-century_a-dialo-doi-thoai-linh-muc-tin-lanh-anh-poole.txt",
+  "id": "arch-bim_eighteenth-century_a-dialo",
+  "orig": "A Dialogue between a Popish priest, and an English protestant. Wherein the principal points and arguments of both religions are truly proposed, and fully examined. By Matthew Poole, 1735",
+  "reviewed": false,
+  "title": "CUỘC ĐỐI THOẠI GIỮA MỘT LINH MỤC CÔNG GIÁO VÀ MỘT NGƯỜI TIN LÀNH ANH"
+ },
+ {
+  "id": "arch-bim_eighteenth-century_the-liv",
+  "file": "arch-bim_eighteenth-century_the-liv-den-tho-song-dong-howe.txt",
+  "title": "ĐỀN THỜ SỐNG ĐỘNG",
+  "orig": "The Living Temple (Part II, 1702)",
+  "author": "John Howe",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-schemeofchristia00topl",
+  "file": "arch-schemeofchristia00topl-so-do-su-tat-yeu-co-doc-va-triet-hoc-toplady.txt",
+  "title": "Sơ Đồ Của Sự Tất Yếu Cơ Đốc Và Triết Học Được Khẳng Định",
+  "orig": "The Scheme of Christian and Philosophical Necessity Asserted (1775)",
+  "author": "Augustus Toplady",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "author": "John Berridge",
+  "by": "Muse",
+  "file": "arch-bim_eighteenth-century_the-chr-the-gioi-co-doc-vach-tran-berridge.txt",
+  "id": "arch-bim_eighteenth-century_the-chr",
+  "orig": "The Christian World Unmasked. Pray come and peep. (1773)",
+  "reviewed": false,
+  "title": "THẾ GIỚI CƠ ĐỐC BỊ VẠCH TRẦN"
+ },
+ {
+  "id": "arch-discoursesonchri00char_0",
+  "file": "arch-discoursesonchri00char_0-bai-giang-ve-christ-bi-dong-dinh-charnock.txt",
+  "title": "CÁC BÀI GIẢNG VỀ ĐẤNG CHRIST BỊ ĐÓNG ĐINH",
+  "orig": "Discourses on Christ Crucified",
+  "author": "Stephen Charnock",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-bim_eighteenth-century_a-scrip",
+  "file": "arch-bim_eighteenth-century_a-scrip-giao-ly-van-dap-kinh-thanh-henry.txt",
+  "title": "GIÁO LÝ VẤN ĐÁP KINH THÁNH THEO PHƯƠNG PHÁP CỦA HỘI ĐỒNG",
+  "orig": "A Scripture-Catechism, in the method of the Assemblies",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-gardenofspices00ruth",
+  "file": "arch-gardenofspices00ruth-khu-vuon-huong-lieu-rutherford.txt",
+  "title": "KHU VƯỜN HƯƠNG LIỆU",
+  "orig": "A Garden of Spices: Extracts from the religious letters of Rev. Samuel Rutherford",
+  "author": "Samuel Rutherford",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-bim_eighteenth-century_the-mut",
+  "file": "arch-bim_eighteenth-century_the-mut-nguoi-co-doc-cam-nin-brooks.txt",
+  "title": "NGƯỜI CƠ ĐỐC CÂM NÍN DƯỚI NGỌN ROI ĐAU ĐỚN",
+  "orig": "The Mute Christian, under the Smarting Rod",
+  "author": "Thomas Brooks",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-trutherrororlett00bona",
+  "file": "arch-trutherrororlett00bona-chan-ly-va-sai-lam-bonar.txt",
+  "title": "CHÂN LÝ VÀ SAI LẦM",
+  "orig": "Truth and Error: or, Letters to a Friend on some of the Controversies of the Day (1851)",
+  "author": "Horatius Bonar",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 87531
+ },
+ {
+  "id": "arch-in.ernet.dli.2015.237161",
+  "file": "arch-in-ernet-dli-2015-237161-lich-su-hoi-truyen-giao-an-do.txt",
+  "title": "LỊCH SỬ HỘI TRUYỀN GIÁO ẤN ĐỘ",
+  "orig": "Historical Sketches of the India Missions of the Presbyterian Church in the United States of America (1886)",
+  "author": "Presbyterian Church in the U.S.A.",
+  "by": "Muse",
+  "reviewed": false,
+  "words_vi": 78183
+ },
+ {
+  "id": "arch-bim_eighteenth-century_a-metho",
+  "file": "arch-bim_eighteenth-century_a-metho-phuong-phap-cau-nguyen-henry.txt",
+  "title": "PHƯƠNG PHÁP CẦU NGUYỆN VỚI NHỮNG LỜI DIỄN ĐẠT THEO KINH THÁNH",
+  "orig": "A Method for Prayer, with Scripture-Expressions proper to be used under each head (1781)",
+  "author": "Matthew Henry",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch-dli.bengal.10689.7437",
+  "file": "arch-dli.bengal.10689.7437-dua-con-anh-sang-buoc-di-trong-toi-tam-goodwin.txt",
+  "title": "ĐỨA CON CỦA ÁNH SÁNG BƯỚC ĐI TRONG TỐI TĂM",
+  "orig": "A Child of Light Walking in Darkness: A Treatise, shewing the causes, circumstances, and purposes for which God leaves His children to distress of conscience (1810)",
+  "author": "Thomas Goodwin",
+  "by": "Muse",
+  "reviewed": false
  }
 ]
