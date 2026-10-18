@@ -9337,5 +9337,325 @@
   "author": "John Bunyan",
   "by": "Claude",
   "reviewed": false
+ },
+ {
+  "id": "arch/christiansabbath00dabn",
+  "vi": "NGÀY SA-BÁT CỦA CƠ ĐỐC NHÂN",
+  "orig": "The Christian Sabbath: its nature, design and proper observance",
+  "author": "Robert Lewis Dabney",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-dabney-christian-sabbath.txt",
+  "title": "NGÀY SA-BÁT CỦA CƠ ĐỐC NHÂN"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-advantage-of-the-kin_owen-john-dd_1651",
+  "orig": "The advantage of the kingdome of Christ",
+  "author": "John Owen",
+  "title": "LỢI ÍCH CỦA VƯƠNG QUỐC ĐẤNG CHRIST",
+  "file": "arch-owen-advantage-kingdom.txt",
+  "words": 14773,
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-moral-nature-and-fit_gill-john_1738",
+  "file": "arch-gill-moral-nature.txt",
+  "orig": "The Moral Nature and Fitness of Things Considered",
+  "title": "BẢN CHẤT ĐẠO ĐỨC VÀ SỰ THÍCH HỢP CỦA SỰ VẬT",
+  "author_en": "John Gill",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 13911,
+  "src": "https://archive.org/download/bim_eighteenth-century_the-moral-nature-and-fit_gill-john_1738/bim_eighteenth-century_the-moral-nature-and-fit_gill-john_1738_djvu.txt"
+ },
+ {
+  "id": "arch/calvin-as-a-theologian-and-calvinism-to-day",
+  "file": "arch-warfield-calvin-theologian.txt",
+  "orig": "Calvin as a Theologian and Calvinism To-day",
+  "title": "CALVIN LÀ NHÀ THẦN HỌC VÀ CHỦ NGHĨA CALVIN NGÀY NAY",
+  "author_en": "Benjamin B. Warfield",
+  "author": "Benjamin B. Warfield",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 16314,
+  "src": "https://archive.org/download/calvin-as-a-theologian-and-calvinism-to-day/Calvin as a Theologian and Calvinism To-day_djvu.txt"
+ },
+ {
+  "id": "arch/balm-for-wounded-spirits-plumer",
+  "file": "arch-plumer-balm-wounded-spirits.txt",
+  "orig": "Balm for Wounded Spirits",
+  "title": "DẦU XOA DỊU CHO NHỮNG TÂM HỒN BỊ THƯƠNG",
+  "author": "William S. Plumer",
+  "words": 15610,
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/substanceofargum00plum",
+  "file": "arch-plumer-substance-argument.txt",
+  "title": "Chống Việc Hợp Nhất Hội Thánh Không Phân Biệt",
+  "orig": "The substance of an argument against the indiscriminate incorporation of churches and religious societies",
+  "author": "William S. Plumer",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-collection-of-sermons-_boston-thomas_1772",
+  "file": "arch-boston-collection-sermons.txt",
+  "title": "Tuyển Tập Các Bài Giảng Của Thomas Boston",
+  "orig": "A collection of sermons, shewing the Lord's controversy with this church and land (1772)",
+  "author": "Thomas Boston",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas-d-1689_1678",
+  "file": "arch-watson-divine-cordial.txt",
+  "title": "Một Liều Thuốc Bổ Thiêng Liêng",
+  "orig": "A divine cordial: or, the transcendent privilege of those that love God and are savingly called (1678)",
+  "author": "Thomas Watson",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_foure-sermons-of-maister_calvin-john_1579",
+  "file": "arch-calvin-foure-sermons-1579.txt",
+  "title": "Bốn Bài Giảng Của Giăng Can-vinh",
+  "orig": "Foure Sermons of Maister John Calvin (1579)",
+  "author": "John Calvin",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-christians-converse_baxter-richard_1693",
+  "file": "arch-baxter-christians-converse.txt",
+  "title": "Tương Giao Với Đức Chúa Trời",
+  "orig": "The Christian's Converse with God, or the Insufficiency of Human Friendship (1693)",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/faithfulnarrativ00edwa",
+  "title": "Tường Thuật Trung Thực Về Công Việc Lạ Lùng Của Đức Chúa Trời",
+  "author": "Jonathan Edwards",
+  "src": "https://archive.org/download/faithfulnarrativ00edwa/faithfulnarrativ00edwa_djvu.txt",
+  "file": "arch-edwards-faithful-narrative.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 52359,
+  "orig": "A Faithful Narrative of the Surprising Work of God (1736)"
+ },
+ {
+  "id": "arch/discourseonmeekn00henr_0",
+  "title": "Bài Luận Về Sự Hiền Lành Và Sự Bình Tĩnh Của Tâm Linh",
+  "author": "Matthew Henry",
+  "src": "https://archive.org/download/discourseonmeekn00henr_0/discourseonmeekn00henr_0_djvu.txt",
+  "file": "arch-henry-discourse-meekness.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 53669,
+  "orig": "A Discourse on Meekness, and Quietness of Spirit"
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_the-returne-of-prayers_goodwin-thomas_1636_1",
+  "title": "Sự Trả Lời Của Lời Cầu Nguyện",
+  "author": "Thomas Goodwin",
+  "src": "https://archive.org/download/bim_early-english-books-1475-1640_the-returne-of-prayers_goodwin-thomas_1636_1/bim_early-english-books-1475-1640_the-returne-of-prayers_goodwin-thomas_1636_1_djvu.txt",
+  "file": "arch-goodwin-returne-prayers.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 50638,
+  "orig": "The Returne of Prayers"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_a-dissertation-concernin_gill-john_1767",
+  "title": "Luận Văn Về Tính Cổ Xưa Của Tiếng Hê-bơ-rơ",
+  "author": "John Gill",
+  "src": "https://archive.org/download/bim_eighteenth-century_a-dissertation-concernin_gill-john_1767/bim_eighteenth-century_a-dissertation-concernin_gill-john_1767_djvu.txt",
+  "file": "arch-gill-dissertation-hebrew.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 49707,
+  "orig": "A Dissertation concerning the Antiquity of the Hebrew Language"
+ },
+ {
+  "id": "arch/bim_early-english-books-1475-1640_a-brief-instruction-in-t_owen-john-dd_1688",
+  "title": "HƯỚNG DẪN NGẮN VỀ SỰ THỜ PHƯỢNG ĐỨC CHÚA TRỜI",
+  "author": "John Owen",
+  "src": "https://archive.org/download/bim_early-english-books-1475-1640_a-brief-instruction-in-t_owen-john-dd_1688/bim_early-english-books-1475-1640_a-brief-instruction-in-t_owen-john-dd_1688_djvu.txt",
+  "file": "arch-owen-brief-instruction-worship.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 53921,
+  "orig": "A Brief Instruction in the Worship of God"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-silent-soul-_brooks-thomas_1659",
+  "title": "Linh Hồn Im Lặng: Cơ Đốc Nhân Với Lá Ô-liu",
+  "author": "Thomas Brooks",
+  "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-silent-soul-_brooks-thomas_1659/bim_early-english-books-1641-1700_the-silent-soul-_brooks-thomas_1659_djvu.txt",
+  "file": "arch-brooks-silent-soul.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 26163,
+  "orig": "The Silent Soul: A Christian with an Olive-Leaf in his mouth (1659)"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_meditations-among-the-to_hervey-james_1746",
+  "title": "SUY GẪM GIỮA CÁC NẤM MỒ",
+  "author": "James Hervey",
+  "src": "https://archive.org/download/bim_eighteenth-century_meditations-among-the-to_hervey-james_1746/bim_eighteenth-century_meditations-among-the-to_hervey-james_1746_djvu.txt",
+  "file": "arch-hervey-meditations-tombs.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 57685,
+  "orig": "The Silent Soul: A Christian with an Olive-Leaf in his mouth (1659)"
+ },
+ {
+  "id": "arch/protreligi00baxt",
+  "title": "Đạo Tin Lành Được Trình Bày Và Biện Hộ",
+  "author": "Richard Baxter",
+  "src": "https://archive.org/download/protreligi00baxt/protreligi00baxt_djvu.txt",
+  "file": "arch-baxter-protestant-religion.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 58040,
+  "orig": "The Protestant Religion Truly Stated and Justified (1692)"
+ },
+ {
+  "id": "arch/workjesuschrist00bunygoog",
+  "title": "CHÚA GIÊ-XU CHRIST LÀ ĐẤNG CẦU THAY",
+  "author": "John Bunyan",
+  "src": "https://archive.org/download/workjesuschrist00bunygoog/workjesuschrist00bunygoog_djvu.txt",
+  "file": "arch-bunyan-work-christ-advocate.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 65651,
+  "orig": "The Work of Jesus Christ, as an Advocate, Clearly Explain'd and Largely Improv'd (1725)"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-bruised-reed-_sibbes-richard_1658",
+  "title": "CÂY SẬY BỊ DẬP",
+  "author": "Richard Sibbes",
+  "src": "https://archive.org/download/bim_early-english-books-1641-1700_the-bruised-reed-_sibbes-richard_1658/bim_early-english-books-1641-1700_the-bruised-reed-_sibbes-richard_1658_djvu.txt",
+  "file": "arch-sibbes-bruised-reed-1658.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 56097,
+  "orig": "The Bruised Reed (1658)"
+ },
+ {
+  "id": "arch/bim_eighteenth-century_sighs-from-hell-or-the_bunyan-john_1704",
+  "title": "TIẾNG THỞ DÀI TỪ ĐỊA NGỤC",
+  "author": "John Bunyan",
+  "src": "https://archive.org/download/bim_eighteenth-century_sighs-from-hell-or-the_bunyan-john_1704/bim_eighteenth-century_sighs-from-hell-or-the_bunyan-john_1704_djvu.txt",
+  "file": "arch-bunyan-sighs-hell.txt",
+  "by": "Muse",
+  "reviewed": false,
+  "words": 54911,
+  "orig": "Sighs from hell: or, the groans of a dying soul"
+ },
+ {
+  "id": "arch/everlastingright00bona",
+  "title": "SỰ CÔNG BÌNH ĐỜI ĐỜI",
+  "author": "Horatius Bonar",
+  "orig": "The Everlasting Righteousness: or, How Shall Man Be Just With God? (1873)",
+  "file": "arch-bonar-everlasting-righteousness.txt",
+  "src": "https://archive.org/download/everlastingright00bona/everlastingright00bona_djvu.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_the-greatness-of-the-sou_bunyan-john_1691",
+  "title": "Sự Vĩ Đại Của Linh Hồn",
+  "author": "John Bunyan",
+  "orig": "The Greatness of the Soul (1691)",
+  "file": "arch-bunyan-greatness-soul.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/CAT10984549",
+  "title": "Những Nét Đẹp Của Hervey",
+  "author": "James Hervey",
+  "orig": "The Beauties of Hervey",
+  "file": "arch-hervey-beauties.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_the-doctrine-of-the-trin_gill-john_1731",
+  "title": "Giáo Lý Về Ba Ngôi Đức Chúa Trời",
+  "author": "John Gill",
+  "orig": "The Doctrine of the Trinity, Stated and Vindicated",
+  "file": "arch-gill-doctrine-trinity.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_sacramental-meditations-_flavel-john_1729",
+  "title": "Suy Gẫm Về Lễ Tiệc Thánh",
+  "author": "John Flavel",
+  "orig": "Sacramental Meditations",
+  "file": "arch-flavel-sacramental-meditations.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_antichrist-stormed_keach-benjamin_1689",
+  "title": "Kẻ Chống Christ Bị Đánh Đổ",
+  "orig": "Antichrist Stormed",
+  "author": "Benjamin Keach",
+  "file": "arch-keach-antichrist-stormed.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/powergoduntosal00warf",
+  "title": "Quyền Năng Của Đức Chúa Trời Cho Sự Cứu Rỗi",
+  "orig": "The Power of God unto Salvation",
+  "author": "Benjamin B. Warfield",
+  "file": "arch-warfield-power-god-salvation.txt",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1748_2",
+  "file": "arch-hervey-meditations-vol2.txt",
+  "title": "Suy Gẫm Về Ban Đêm Và Bầu Trời Đầy Sao",
+  "orig": "Meditations and Contemplations. In Two Volumes. Vol. II: Contemplations on the Night; Contemplations on the Starry Heavens (1748)",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_christs-eternal-existenc_manton-thomas_1685",
+  "title": "Sự Hiện Hữu Đời Đời Của Đấng Christ",
+  "author": "Thomas Manton",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-manton-christs-eternal-existence.txt",
+  "orig": "https://archive.org/download/bim_early-english-books-1641-1700_christs-eternal-existenc_manton-thomas_1685/bim_early-english-books-1641-1700_christs-eternal-existenc_manton-thomas_1685_djvu.txt"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-heavenly-conference-be_sibbes-richard_1654",
+  "title": "Cuộc Hội Ngộ Thiên Thượng Giữa Đấng Christ Và Ma-ri",
+  "author": "Richard Sibbes",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-sibbes-heavenly-conference.txt",
+  "orig": "https://archive.org/download/bim_early-english-books-1641-1700_a-heavenly-conference-be_sibbes-richard_1654/bim_early-english-books-1641-1700_a-heavenly-conference-be_sibbes-richard_1654_djvu.txt"
+ },
+ {
+  "id": "arch/bim_early-english-books-1641-1700_a-preservative-against-s_edwards-jonathan_1694",
+  "title": "Thuốc Phòng Ngừa Chống Chủ Nghĩa Socinian",
+  "author": "Jonathan Edwards",
+  "by": "Muse",
+  "reviewed": false,
+  "file": "arch-edwards-preservative-socinianism.txt",
+  "orig": "https://archive.org/download/bim_early-english-books-1641-1700_a-preservative-against-s_edwards-jonathan_1694/bim_early-english-books-1641-1700_a-preservative-against-s_edwards-jonathan_1694_djvu.txt"
  }
 ]
