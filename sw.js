@@ -1,4 +1,4 @@
-const V = "rv-v6";
+const V = "rv-v7";
 const SHELL = ["/", "/index.html", "/style.css", "/app.js", "/reader.html", "/favicon.svg", "/manifest.webmanifest", "/lo-trinh.html", "/hom-nay.html","/s.css"];
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(V).then((c) => Promise.allSettled(SHELL.map((u) => c.add(u)))).then(() => self.skipWaiting())); });
 self.addEventListener("activate", (e) => { e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== V && k !== "rv-books").map((k) => caches.delete(k)))).then(() => self.clients.claim())); });
@@ -19,7 +19,7 @@ self.addEventListener("fetch", (e) => {
   // Static assets, JSON, book text: stale-while-revalidate — instant load, refresh in background.
   e.respondWith(caches.open(store).then(async (c) => {
     const hit = await c.match(r, { ignoreSearch: false });
-    const net = fetch(r).then((res) => { if (res.ok) c.put(r, res.clone()); return res; }).catch(() => null);
+    const net = fetch(r, {cache:"reload"}).then((res) => { if (res.ok) c.put(r, res.clone()); return res; }).catch(() => null);
     if (hit) { e.waitUntil(net); return hit; }
     return (await net) || new Response("", { status: 504 });
   }));
