@@ -1,0 +1,939 @@
+THÁNH CA GIA ĐÌNH
+
+Matthew Henry · Family-Hymns. [Translations of David's Psalms, gather'd (mostly) out of the Psalms]
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+Thánh Ca Gia Đình
+
+Nguyên tác: "Family-Hymns. [Translations of David's Psalms, gather'd (mostly) out of the Psalms]" — Matthew Henry (Luân Đôn: in cho Tho. Parkhurst tại Kinh Thánh và Ba Vương Miện, cuối phố Cheapside, 1695) [NEEDS REVIEW: trang tựa bản OCR bị vỡ nát nặng; nhan đề, lời đề tặng bằng tiếng La-tinh, nhà in và năm in được khôi phục theo nội dung và danh mục.] Tác giả: Matthew Henry (1662–1714), mục sư Trưởng Lão, tác giả bộ chú giải Kinh Thánh nổi tiếng Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_family-hymns_henry-matthew_1695/bim_early-english-books-1641-1700_family-hymns_henry-matthew_1695_djvu.txt (Ghi chú: Bản OCR nguồn bị hỏng nhiều chỗ (chữ ſ dài, dòng vỡ, đoạn rác, thứ tự câu bị xáo trộn); những lỗi hiển nhiên đã được sửa lặng lẽ theo mạch văn; những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW]. Đây là tuyển tập 60 thánh ca gia đình — phần lớn là bản dịch theo thể thơ từ các Thi Thiên của Đa-vít, gộp nhiều đoạn Thi Thiên lại với nhau — kèm một Lời Tựa dài bằng văn xuôi. Danh mục sách của nhà in Parkhurst ở cuối sách là quảng cáo nên không dịch.) Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
+
+In Lỗi (Errata)
+
+Trong Lời Tựa, tr. 3, dòng 13, đọc "cap. 9". Tr. 6, dòng 21, đọc "pronunciation". Tr. 4, dòng 11, thay "th'" bằng "the". Tr. 5, dòng 27, thêm "I" vào đầu dòng. Tr. 9, dòng 17, thay "Thou art then" bằng "This art thou". Tr. 13, dòng 21, thay "wo" bằng "who". Tr. 19, dòng 14, thay "fulness" bằng "fatness". Tr. 19, dòng 24, thay "on" bằng "in". Tr. 22, dòng 13, thay "will be perform'd" bằng "will we perform". Tr. 23, dòng 17, thay "adorn'd" bằng "advanc'd". Tr. 29, dòng 6, thay "Ages" bằng "Age". Tr. 53, dòng 9, thay "wa" bằng "waft". [NEEDS REVIEW: phần còn lại của danh sách In Lỗi bị vỡ nát nặng trong OCR, không khôi phục được.]
+
+Thư Gửi Độc Giả
+
+Mục đích của tôi trong Tiểu Luận này là thúc đẩy việc hát Thi Thiên trong sự Thờ Phượng Hằng Ngày, đặc biệt là trong sự Thờ Phượng Ngày Sa-bát; một thực hành mà (dù ngày nay nó bị sao lãng bởi các trường hợp khác của lòng sùng kính nồng nhiệt nhất) xưa kia đã được phần lớn các Cơ Đốc nhân nghiêm túc thực hành, những người đã biến nhà của họ thành Hội Thánh (những Hội Thánh như điều mà Thánh Phao-lô nói đến, Rô-ma 16:5; I Cô-rinh-tô 16:19), cùng nhau ngợi khen Đức Chúa Trời, và dạy dỗ, khuyên bảo lẫn nhau bằng việc hát Thi Thiên. Nếu chúng ta hỏi về con đường xưa tốt lành, chúng ta sẽ thấy dấu chân của nó đã được các Cơ Đốc nhân Thời Nguyên Thủy bước đi trong những ngày đầu của Hội Thánh; trong số các chi tiết của tôn giáo của họ, Pê-rơ, người đã viết về Cơ Đốc giáo Thời Nguyên Thủy, vạch ra những bước chân đáng chú ý của Thực Hành Gia Đình này, Phần 1, Ch. 9.
+
+Âm thanh của Giai Điệu này không chỉ được nghe trong các Hội Đồng Trọng Thể của họ, nơi mà theo nhiều đoạn văn (đặc biệt là bản tường thuật nổi tiếng mà Pliny đưa ra cho Trajan về các Cơ Đốc nhân, Thư 10) nó dường như đã là một phần đáng kể trong sự Thờ Phượng Công Khai của họ, mà còn trong các Nhà Riêng của họ nữa, nơi mà dường như đó đã là phong tục chung để hát Thi Thiên cùng với vợ và con của họ, đặc biệt là tại và sau các bữa ăn; một thực hành được Clemens Alexandrinus khen ngợi, Paedag. lib. 2, c. 4, bởi Chrysostom, trên Thi Thiên 41, điều đã khiến các Thi Thiên trở nên quen thuộc với họ đến nỗi, như Jerome nói với chúng ta (Thư gửi Marcella), tại nơi ông sống, bạn không thể đi vào đồng ruộng mà không nghe những người cày, những người gặt, và những người trồng nho làm việc này: Sonet Psalmos convivium sobrium, Cyprian nói. Socrates, Hist. Eccles. lib. 7, cap. 22, nói về nó như là thực hành của Hoàng Đế Theodosius, dậy sớm mỗi buổi sáng để hát Thi Thiên cùng với các chị em của mình; đến nỗi cung điện của ông (đối với ông) giống như một Tu Viện, hay Nhà Tôn Giáo. Và đôi khi tôi đã nghĩ rằng việc Phụng Vụ của các Tu Viện trong các thời đại suy đồi của Hội Thánh (được biết là đã bao gồm rất nhiều trong việc Hát) chỉ là hình thức và xác còn lại của sự Sống và Quyền Năng của lòng tin kính và sự Thờ Phượng tôn giáo mà ban đầu đã ngự trị trong hầu hết các Gia Đình Cơ Đốc. Đó là một gợi ý hay của Tertullian trong sách của ông gửi vợ (ad Uxorem, viết khoảng năm 205), lib. 2, cap. — nơi cảnh báo các Phụ Nữ Cơ Đốc không nên kết hôn với những người Không Tin, ông thúc giục điều này chống lại nó, rằng những người bị ràng buộc như vậy không thể có chồng của họ hát Thi Thiên cùng với họ trong nhà của họ; trong khi, khi những người trong mối quan hệ đó cùng nhau kéo trong Ách của Đấng Christ, sonant inter eos Psalmi & Hymni, & mutuo provocant quis melius Deo suo canet — sự tranh đua duy nhất của họ khi ấy là ai sẽ sốt sắng và nghiêm túc nhất trong việc hát Thi Thiên.
+
+Và để đến gần ngày của chúng ta hơn, điều đáng chúng ta chú ý là điều mà Ông Quick trong Lời Giới Thiệu cho Synodicon của ông nói với chúng ta, Quyển 1, tr. 5, rằng việc hát Thi Thiên trong các Gia Đình, ngay cả những gia đình thuộc hạng tốt nhất, không chỉ tại sự Thờ Phượng Buổi Sáng và Buổi Tối của họ, mà còn tại các Bữa Ăn của họ, đã góp phần rất nhiều vào sức mạnh và sự tăng trưởng của Tôn Giáo Cải Chánh tại Pháp trong những ngày đầu tiên và tốt nhất của nó. Và trang tựa của bản dịch cũ của chúng ta về các Thi Thiên thành thể thơ, được đưa ra và cho phép vào lúc bắt đầu Cải Chánh của chúng ta, trong thời của Vua Edward VI, khuyên chúng nên được hát trong các nhà riêng để được an ủi và yên ủi thánh khiết. Và các nhà của những người Tin Lành tốt lành xưa đã được ướp hương bằng hương này hằng ngày, đặc biệt vào các Ngày của Chúa, chúng ta đã nghe bằng tai của chúng ta, và cha ông chúng ta đã kể cho chúng ta. Vì vậy, tôi vui lòng đóng góp điều gì đó hướng tới việc phục hưng bổn phận này trong các Gia Đình Cơ Đốc, mà nếu chúng là (như chúng nên là) những Vườn Ươm và Chủng Viện của lòng tin kính, chắc chắn sẽ đón nhận điều này như một phương tiện tuyệt vời để gieo Tôn Giáo sớm vào tâm trí của con cái nhỏ của họ, những người, như họ thường chú ý nhất đến bổn phận này, sẽ sớm nhận được những ấn tượng tốt của nó hơn bất kỳ điều nào khác; và như vậy, từ miệng của trẻ thơ và trẻ còn bú, lời ngợi khen sẽ được hoàn thành, để vinh hiển Đức Chúa Trời và an ủi các Gia Đình; so sánh Ma-thi-ơ 21:16 với Thi Thiên 8:2. Augustine (Prolog. in Lib. Psalm.) gợi ý rằng các Thi Thiên đã được viết ra, và việc hát Thi Thiên được chỉ định, rất nhiều vì lợi ích của Tuổi Trẻ: Propterea Psalmorum (ông nói) nobis per modulos aptata sunt Carmina, ut vel aetate puerili, vel qui adolescentes sunt moribus, quasi cantilena quadam psallentes delectari videantur.
+
+Tôi sẽ nói gì để thuyết phục các Chủ Gia Đình, những người cho đến nay đã sao lãng bổn phận của họ, bắt đầu nó ngay bây giờ? Thà muộn còn hơn không bao giờ. Kinh nghiệm của nhiều người làm lương tâm về nó sẽ làm chứng cả về sự ngọt ngào lẫn lợi ích của nó. Nếu các Thi Thiên được hát nhiều hơn trong các Gia Đình, chúng sẽ được hát tốt hơn trong các Hội Chúng. Đừng để ai viện cớ thiếu thời gian; vì thời gian có thể được dùng tốt hơn việc ngợi khen Đức Chúa Trời như thế nào? Và chẳng phải có rất nhiều thời gian quý báu của chúng ta bị ném đi mỗi ngày cho những việc khác ít phục vụ cho mục đích của một Cơ Đốc nhân hơn sao? Cũng sẽ không còn chỗ cho cớ này, nếu cẩn thận không trì hoãn sự Thờ Phượng Gia Đình quá muộn, buổi sáng hay buổi tối, để dồn nó vào một góc (như nhiều người làm bởi những điều vụn vặt và vô ích), cũng như phân bổ các phần khác của bổn phận sao cho chúng không chen lấn điều này ra. Đó là sự khôn ngoan của các Chủ Gia Đình, quản lý sự Thờ Phượng Gia Đình của họ sao cho họ có thể biến nó, càng nhiều càng tốt, thành một niềm vui, chứ không phải một gánh nặng cho con cái và đầy tớ của họ. Cũng đừng để thiếu kỹ năng là một cái cớ; có thể có nhiều Tình Cảm chấp nhận được, nơi mà chỉ xuất hiện ít Nghệ Thuật. Ca hát đơn giản phù hợp nhất với những người Y-sơ-ra-ên đơn giản. Một trình độ nhỏ về kỹ năng (và điều đó dễ dàng đạt được bởi bất kỳ ai chú tâm vào nó) sẽ đủ cho việc quản lý bổn phận này một cách đứng đắn và có trật tự, và không cần thêm nữa; vì trong các Gia Đình riêng, cách hát nhanh nhất dường như là phù hợp nhất; việc hát như vậy mà Athanasius vĩ đại đã chỉ định trong Hội Thánh Alexandria, ut pronuntiationi vicinior esset quam canenti, giống việc đọc hơn là việc hát, như Augustine nói với chúng ta, Confess. lib. 10, Cap. 33, và chấp thuận nó như một phương tiện tốt để giữ gìn niềm vui thuộc linh nên có trong Lễ Nghi này khỏi thoái hóa thành một niềm vui giác quan, điều mà nó dễ bị khi các Giai Điệu và Nốt Nhạc được nghiên cứu và phô trương quá mức, và tai được làm cho thích thú bởi chúng.
+
+Đừng để ai sợ rằng những người Lân Cận của họ sẽ lấn át họ: Chúng ta phục vụ một Chủ mà chúng ta không có lý do gì để xấu hổ về Ngài, Đấng mà chúng ta đã cam kết rằng dù người khác làm gì, chúng ta và nhà của chúng ta sẽ phục vụ Ngài; và Đấng nắm giữ lương tâm của ngay cả những người xấu đến nỗi những người mà các bạn sợ sự khinh miệt và sỉ nhục của họ, ngay cả họ có lẽ sẽ coi các bạn là đáng tôn trọng, II Sa-mu-ên 6:22. Không, Ánh Sáng của các bạn nhờ đó có thể soi sáng trước mặt người ta, để người khác có thể được đưa đến tôn vinh Cha của các bạn ở trên trời, Ma-thi-ơ 5:16.
+
+Nếu ai viện cớ rằng họ không sẵn sàng tìm ra những Thi Thiên, hay những đoạn trong các Thi Thiên, thích hợp nhất cho việc sử dụng trong Gia Đình, những người như vậy có lẽ sẽ nhận được một số giúp đỡ từ Tuyển Tập nhỏ này.
+
+Nó được lấy ra từ các Thi Thiên của Đa-vít, và chúng ta hiếm khi cần đi xa hơn để tìm Thánh Ca và Bài Hát Thuộc Linh, mặc dù các Kinh Thánh khác không nghi ngờ gì có thể được dùng theo cách này nhiều để gây dựng. Nolite cantare nisi quod legitis esse cantandum, là một Quy Tắc tốt mà Augustine đưa ra, Thư 119 [NEEDS REVIEW: bản OCR ghi "Epist. 109" — số thư được khôi phục theo nội dung; một số bản ghi là Thư 119]. Tuyển Tập này sẽ hữu ích hơn (và đó là điều tôi chủ yếu nhắm đến trong nó) nếu mỗi người trong Gia Đình có một Cuốn Sách, để Thi Thiên và Thánh Ca (vì sự phân biệt chỉ là danh nghĩa) có thể được hát mà không cần đọc từng câu chen vào, đó là thực hành chung của các Hội Thánh Cải Chánh ở nước ngoài, và làm cho bổn phận trở nên dễ chịu và có lợi hơn, và tốn ít thời gian hơn, và thực tế là khả thi trong Gia Đình, nếu không phải trong các Hội Chúng lớn. Việc gom các câu từ nhiều Thi Thiên khác nhau, và đặt chúng lại với nhau, có thể dường như là vi phạm sự liên kết tự nhiên của chúng. Nhưng tôi hy vọng nó sẽ không xúc phạm ai, vì nó không hơn gì việc nối nhiều đoạn Kinh Thánh xa nhau lại với nhau, và đặt chúng lại với nhau trong các Lời Cầu Nguyện và Bài Giảng của chúng ta, điều mà thường được thực hành: Bên cạnh đó, đó là một sự tự do thường được các Thư Ký cho ra các Thi Thiên nơi công cộng lấy; Và tôi nghĩ những người không ghét nó ở đó, sẽ sẵn lòng cho phép nó trong các Gia Đình riêng. Không, tôi hy vọng rằng sự tham chiếu tôi đã thực hiện suốt dọc đến các Thi Thiên và các câu sẽ làm tăng và dẫn đến sự quen thuộc với Sách Thi Thiên nói chung, điều mà tôi không muốn Tiểu Luận này làm giảm bớt hay thay thế chút nào.
+
+Tôi đã dùng các bản dịch được chấp thuận tốt nhất, đặc biệt là của Ông Patrick, và Ông Barton; cũng như của Giám Mục King, Ông Smith, Tiến Sĩ Ford, và Ông Baxter, những người mỗi người đã lao động tốt trong Tỉnh này; tôi cũng không bỏ qua Bản Dịch Cũ, mà xét theo thời đại mà nó đã được thực hiện, và rằng nó đã phá băng, không phải là một tác phẩm đáng khinh như một số người muốn làm cho nó như vậy. Tôi đã lấy từ mỗi người những gì tôi xét là tốt nhất và phù hợp nhất với mục đích của tôi, hành động ở đây không như một nhà Phê Bình, mà như một người Mót Lúa. Các sách được biết là có số phận của chúng, ad captum lectoris, và vì vậy tôi hy vọng sự tha thứ của tôi vì đã dùng công lao của người khác như thế này sẽ dễ dàng được ban cho, và sự thừa nhận chung này sẽ đủ để minh oan cho tôi khỏi tội Đạo Văn. Tôi đã không thay đổi bất kỳ lúc nào khỏi các tác giả của tôi chỉ vì muốn thay đổi, tuy nhiên trong suốt quá trình, tôi đã thấy nguyên nhân rất thường xuyên để sửa đổi, và ở nhiều chỗ để xây dựng lại (đặc biệt là nơi tôi sẵn lòng rút ngắn), theo khả năng tốt nhất của tôi. Việc thực hiện quả thật rất nhỏ, nhưng Mục Đích là trung thực, và nó sẽ có kết quả dồi dào để có một tài khoản tốt, nếu nó chỉ giúp thúc đẩy công việc hát Thi Thiên, trong đó ý muốn của Đức Chúa Trời được thực hiện trên Đất phần nào giống như nó được thực hiện trên Thiên Đàng, nơi mà việc hát Hallelujah cho Đấng ngồi trên Ngôi, và cho Chiên Con, vừa là công việc đời đời, vừa là hạnh phúc đời đời của những hữu thể được vinh hiển đó.
+
+Ngày 14 tháng Giêng, 1694/5 [NEEDS REVIEW: năm trong bản OCR bị vỡ nát; được khôi phục theo trang tựa (1695) và giấy phép (15 tháng Giêng 1694/5)].
+
+Cho Sự Thờ Phượng Buổi Sáng
+
+Thánh Ca I. Thi Thiên 57:7, 8
+
+Lòng tôi nay đã sẵn sàng ngợi khen, Đã vững chắc cho Chúa; Tôi sẽ hát cho Ngài, hỡi Chúa, Và chúc tụng Danh Thánh của Ngài. Hãy tỉnh thức, Vinh Quang của tôi, Đàn Lute và Đàn Hạc, Những nhạc cụ đồng thanh ngợi khen, Nay buổi sáng chính tôi Sẽ tỉnh thức cho công việc này.
+
+—— Thi Thiên 19:1–6.
+
+Các tầng trời, khắp cả bao la của chúng, Tuyên bố lời ngợi khen Đấng Tạo Hóa của chúng; Bầu trời đầy sao lấp lánh Bày tỏ công việc của tay Ngài. Ngày này sang ngày khác ăn mừng, Đêm này sang đêm khác rao truyền, Không cần sự giúp đỡ của lời nói hay lưỡi, Danh tiếng phổ quát của Ngài.
+
+Tại đó Mặt Trời với niềm vui và sức mạnh Hoàn thành hành trình đều đặn của mình, Trái đất vui mừng trong Ánh Sáng của nó, Và trong Hơi Ấm làm sống lại của nó.
+
+—— Thi Thiên 90:17.
+
+Nguyện Chúa chiếu sáng trên linh hồn chúng con, Làm sáng và sưởi ấm chúng con như vậy. Hỡi Đức Chúa Trời, xin làm cho thịnh vượng công việc của tay chúng con, Và lập vững chúng cho chúng con.
+
+Thánh Ca II. Thi Thiên 118:1, 3, 5
+
+Tiếng của sự cứu rỗi, sức khỏe và niềm vui Ở trong nhà của người công chính; Tay hữu của Chúa hành động mạnh mẽ, Tay hữu mạnh mẽ đó của Ngài. Tôi đã nằm xuống, và ngủ ngon lành, Và thức dậy an toàn trở lại, Vì chính Chúa đã giữ gìn tôi, Và đã nâng đỡ linh hồn tôi.
+
+—— Thi Thiên 30:5.
+
+Phước cho Danh rất thánh của Đức Chúa Trời, Đấng đã tỏ ra những kỳ công như vậy, Những kỳ công của Tình Yêu bảo đảm tôi, Như trong một thành có tường vây. Cơn giận của Ngài chỉ qua trong chốc lát, Sự sống từ ơn của Ngài mà ra; Dù khóc lóc có thể kéo dài suốt đêm, Buổi sáng đem đến sự an ủi.
+
+—— Thi Thiên 33:20–22.
+
+Vì vậy chúng con chờ đợi Ngài, hỡi Chúa, Đấng vẫn là sự phòng thủ của chúng con; Trong mọi hoàn cảnh chúng con tin cậy Ngài, Với sự vui mừng. Hỡi Chúa, xin cho ân điển của Ngài giáng xuống trên chúng con, Như một cơn mưa mát mẻ; Vì mọi Hy Vọng và Niềm Vui của chúng con đều lệ thuộc Vào Quyền Năng Toàn Năng của Ngài.
+
+Thánh Ca III. Thi Thiên 74:16, 17
+
+Hỡi Chúa, Ngài đã sắm sẵn Ánh Sáng, Và khiến Mặt Trời chiếu sáng. Trái đất với mọi đầu cùng và bờ cõi của nó; Bàn tay quyền năng của Ngài đã tạo nên, Cả sức nóng của mùa hè, và giá lạnh của mùa đông, Đều đến theo sự chỉ định của Ngài.
+
+—— Thi Thiên 33:6, 7; 119:91.
+
+Bởi Lời Vĩ Đại của Ngài các tầng trời đã được tạo nên; Và mọi đạo binh của chúng đều thuộc về Ngài; Những dòng nước tụ lại của biển Ngài giam giữ trong giới hạn. Theo mạng lệnh của Ngài, những điều này Còn tồn tại đến ngày nay; Vì tất cả đều là đầy tớ của Ngài, Và vâng theo Lời của Ngài.
+
+—— Khải Huyền 4:11; Thi Thiên 124:8.
+
+Vinh quang và tôn trọng phải, hỡi Chúa, Thuộc về Ngài một cách chính đáng, Vì mọi điều này đều bởi quyền năng của Ngài, Và vì sự vui lòng của Ngài mà được tạo nên. Và Hy Vọng và Sự Giúp Đỡ vững chắc của chúng con, Đứng trong Danh Vĩ Đại của Ngài, Đấng đã dựng nên cả trời và đất Bởi bàn tay Toàn Năng của Ngài.
+
+Thánh Ca IV. Thi Thiên 121:1–8
+
+Tôi ngước mắt lên các đồi, Từ đó tôi trông đợi sự giúp đỡ; Nơi Đức Chúa Trời duy nhất sự cứu giúp của tôi nằm, Đấng đã dựng nên đất và trời.
+
+Ngài sẽ nâng đỡ các năng lực yếu đuối của ngươi, Với Cánh Tay Toàn Năng của Ngài, Và giữ gìn ngươi với sự chăm sóc liên tục, Khỏi mọi tai hại bất ngờ.
+
+Đấng Bảo Vệ vĩ đại của các thánh đồ, Ngài không ngủ gật, cũng không ngủ; Chúa là bóng mát bên tay hữu của ngươi, Giữ gìn linh hồn ngươi trong an toàn;
+
+Đến nỗi đầu ngươi, mặt trời thiêu đốt Ban ngày sẽ không bao giờ đánh ngươi, Cũng không ảnh hưởng có hại của mặt trăng Làm ngươi rối loạn ban đêm.
+
+Chúa sẽ cứu ngươi khỏi mọi điều ác, Và giữ gìn linh hồn ngươi khỏi tội lỗi, Ngài sẽ gìn giữ ngươi đi ra, Và ban phước cho ngươi đi vào.
+
+Thánh Ca V. Thi Thiên 115:1, 8, 9
+
+Hỡi Chúa, chẳng phải cho chúng con, nhưng cho Danh Ngài Xin ban lời ngợi khen chúng con mắc nợ, Ôi sự nhân từ phong phú của Ngài, và lẽ thật của Ngài, Từ đó mọi phước lành của chúng con tuôn chảy. Trong khi dân ngoại thờ lạy những thần vô tri, Những kẻ ngu dại vô tri như vậy chúng là; Nguyện Y-sơ-ra-ên tin cậy Đức Chúa Trời Hằng Sống, Sự giúp đỡ và khiên của chúng ta là Ngài.
+
+—— Thi Thiên 115:12–14.
+
+Chúa đã nhớ đến chúng ta trong tâm trí Ngài, Và Ngài sẽ còn ban phước cho chúng ta, Ngay cả nhà Y-sơ-ra-ên, và nhà A-rôn nữa, Ngài sẽ đổ đầy phước lành. Những người kính sợ Chúa, Ngài sẽ ban phước cho họ, lớn và nhỏ; Đức Chúa Trời sẽ làm cho các ngươi tăng thêm càng hơn, Các ngươi và con cái của các ngươi.
+
+—— Thi Thiên 115:17, 18.
+
+Kẻ chết thật không ngợi khen Chúa, Chúng không dâng cho Ngài sự tôn vinh, Cũng không tuyên bố Danh Ngài như vậy Cho sự im lặng mà chúng đi xuống. Vì vậy chúng ta là những người còn sống, Sẽ ghi lại lời ngợi khen của Ngài, Từ nay trở đi cho đến đời đời A-men. Hãy ngợi khen Chúa.
+
+Thánh Ca VI. Thi Thiên 101:1–7
+
+Lòng thương xót và sự phán xét trong bài hát của tôi, Hợp nhất (hỡi Chúa) sẽ là; Và vì cả hai đều từ Ngài mà tuôn chảy; Tôi sẽ hát cả hai cho Ngài. Tôi sẽ bước đi khôn ngoan trong các đường lối trọn vẹn; Khi nào Ngài sẽ đến với tôi, Để ở, và cai trị (hỡi Chúa) trong nhà tôi, Và ban phước cho Gia Đình tôi?
+
+Và để Ngài vẫn là khách của tôi, Tôi sẽ không dung thứ tội lỗi nào, Nhưng sẽ từ bỏ mọi công việc Của những kẻ xây bỏ. Kẻ nào kiên trì trong các đường lối gian ác Tôi sẽ loại khỏi nhà tôi, Không kết bạn với kẻ kiêu ngạo hay khinh miệt nào, Hay coi trọng chút nào.
+
+Tôi sẽ tìm ra những người trung tín, Để họ có thể ở với tôi, Và những người bước đi trong các đường lối công chính, Đầy tớ của tôi họ sẽ là. Tôi sẽ không có kẻ gian dối nào Ở trong tường của tôi, Cũng không chịu đựng trước mặt tôi Người nói dối.
+
+—— Thi Thiên 119:45.
+
+Để chúng ta càng tuân giữ tốt hơn Các luật lệ của Lời Ngài, Và không sai lệch khỏi các điều răn của Ngài, Ôi, hãy tôn cao Chúa!
+
+Thánh Ca VII. Thi Thiên 127:1, 2
+
+Trừ khi Chúa xây dựng nhà, Những quy tắc của con người là vô ích; Trừ khi Chúa canh giữ thành, Không người canh gác nào khác có thể. Việc các ngươi dậy sớm sẽ không làm được gì, Thức đêm canh giữ là vô ích, Và [bánh] của sự lo lắng [NEEDS REVIEW: câu này bị vỡ nát trong OCR], Vì Đức Chúa Trời ban giấc ngủ cho người yêu dấu của Ngài.
+
+—— Thi Thiên 37:4, 5.
+
+Vì vậy hãy vui thích trong Đức Chúa Trời, Đến với Ngài bằng đức tin, Và Ngài sẽ khôn ngoan thực hiện Chính ước muốn của lòng ngươi; Hãy phó thác đường lối ngươi cho Chúa, Nương cậy Ngài bằng đức tin, Và Ngài sẽ đưa các kế hoạch công chính của ngươi Đến một kết thúc hạnh phúc.
+
+—— Thi Thiên 37:16, 23, 24.
+
+Một ít mà người công chính hưởng [Quý hơn mọi của cải bất chính của kẻ ác — câu bị vỡ nát trong OCR, khôi phục theo mạch văn] [NEEDS REVIEW]. Chúa dẫn dắt các bước của người tốt, Ngài vui thích trong đường lối của người; Người không bị hủy hoại bởi sự vấp ngã của mình, Vì Đức Chúa Trời sẽ là chỗ dựa của người.
+
+—— Thi Thiên 37:25, 35, 36.
+
+Trong suốt đời tôi, tôi chưa bao giờ thấy Người rộng rãi nào, Mà của bố thí của mình đã khiến mình thiếu thốn, Hay con cháu mình phải ăn xin. Tôi đã thấy kẻ ác dấy lên và lan rộng Như cây nguyệt quế tươi và xanh, Cho đến khi sự hủy hoại hoàn toàn quét sạch hắn, Như thể hắn chưa từng có. Hãy đánh dấu và nhìn xem người trọn vẹn Ngay thẳng trong các đường lối của mình, Lòng thương xót đi theo đời hạnh phúc của người, Và sự bình an kết thúc những ngày của người.
+
+Thánh Ca VIII. Thi Thiên 16:1–3
+
+Hỡi Chúa, xin cứu tôi, vì tôi tin cậy Ngài Với tất cả tâm trí và [lòng tôi] [NEEDS REVIEW: câu này bị vỡ nát trong OCR]; Với Ngài linh hồn tôi thường đã nói: Chúa của tôi, Đức Chúa Trời của tôi là Ngài. Sự tốt lành của tôi không bao giờ có thể mở rộng Đến Ngài, hỡi Chúa, ở trên cao; Nhưng đến các thánh đồ xuất sắc của Ngài trên đất, Những người mà [tôi] yêu mến hoàn toàn.
+
+[NEEDS REVIEW: một khổ thơ ở đây bị vỡ nát nặng trong OCR — chỉ còn các mảnh rời rạc về "Đức Chúa Trời là phần của tôi", "sự quan phòng nhân từ của Ngài", "các phước lành Ngài mang đến" — đã dịch theo ý chính có thể khôi phục được.]
+
+Tôi không ghen tị với địa vị của người vĩ đại, Cũng không hao mòn khi thấy của cải của hắn; Với những gì tôi có, tôi rất hài lòng, Với những gì tôi hy vọng, còn hơn nữa.
+
+—— Thi Thiên 16:7, 8.
+
+Tôi chúc tụng Chúa, Đấng đã hướng dẫn Linh hồn tôi chọn lựa đúng đắn, Mà những suy nghĩ thầm kín của tôi suy ngẫm Với sự an ủi mỗi đêm. Tôi vẫn quan niệm Chúa đứng Trước mặt tôi như Đấng Dẫn Dắt của tôi, Trong khi Ngài đứng bên tay hữu tôi, Tôi biết tôi sẽ không trượt ngã.
+
+—— Thi Thiên 16:9–11.
+
+Vì vậy lòng và lưỡi tôi vui mừng, Trong Ngài xác thịt tôi sẽ tin cậy; Linh hồn tôi sẽ không ở lại trong âm phủ, Cũng không thân thể trong bụi đất: Cả hai sẽ tìm thấy Con Đường của Sự Sống, Và trong sự hiện diện của Ngài nếm trải Những thú vui đến sự trọn vẹn đầy đủ, Và những niềm vui còn mãi đời đời.
+
+Thánh Ca IX. Thi Thiên 112:1, 2
+
+Hãy ngợi khen Chúa, vì phước thay những người Kính sợ Chúa đúng đắn, Yêu mến lớn lao các luật thánh của Ngài, Và làm theo chúng với niềm vui. Dòng dõi thành công của người ngay thẳng Trên đất sẽ trở nên hùng mạnh, Đến mọi người từ hông của người mà ra Những phước lành đặc biệt sẽ tuôn chảy.
+
+—— Thi Thiên 112:3–5.
+
+Sự giàu có và của cải sẽ ở trong nhà người Dồi dào ngày qua ngày, Trong khi các ân điển tô điểm linh hồn người, Bền vững hơn chúng. Giữa bóng tối, đối với người công chính Một ánh sáng vui mừng bừng lên; Nhân từ người là, thương xót, Và ngay thẳng mọi đường.
+
+—— Thi Thiên 112:6, 7.
+
+Người cho người nghèo mượn sự giúp đỡ, Hướng dẫn đường lối mình một cách khôn ngoan; Không điều gì sẽ lay động người công chính, Cũng không làm cho danh người suy tàn: Vì tin tức xấu được kể lại [Người] sẽ không sợ hãi, Nhưng tin cậy duy nhất nơi Chúa, Lòng người vững chắc và đứng yên.
+
+—— Thi Thiên 128:4–6.
+
+Vậy ngươi là người có phước, kẻ kính sợ Đức Chúa Trời, Và Ngài sẽ cho ngươi thấy Giê-ru-sa-lem đã hứa, Và hạnh phúc của nó. Ngươi sẽ thấy con của con ngươi, Để niềm vui lớn của ngươi tăng thêm, Trong khi trên Y-sơ-ra-ên của Đức Chúa Trời sẽ an nghỉ Sự thịnh vượng và bình an.
+
+Thánh Ca X. Thi Thiên 5:3; 130:3, 4
+
+Hỡi Chúa, Ngài sẽ nghe tiếng kêu buổi sáng của tôi; Vào buổi sáng [nó sẽ dâng lên Ngài], Rằng tôi sẽ hướng lời cầu nguyện của tôi bằng đức tin, Và sẽ ngước lên Ngài. Nếu Ngài ghi nhớ các tội ác, Thì [ai có thể đứng vững], hỡi Chúa? [NEEDS REVIEW: câu này bị vỡ nát trong OCR; khôi phục theo Thi Thiên 130:3.] Nhưng có sự tha thứ (hỡi Chúa) nơi Ngài, Để Ngài được tôn thờ.
+
+—— Thi Thiên 51:9, 10, 17.
+
+Hỡi Chúa, xin giấu mắt Ngài khỏi mọi tội lỗi của tôi, Và xóa bỏ các việc làm sai trái của tôi; Hỡi Đức Chúa Trời, xin làm sạch lòng tôi bên trong, Đổi mới tâm trí tôi bằng ân điển. Xin nâng đỡ các bước đi của tôi, hỡi Chúa, chân tôi, Trong mọi đường lối thiêng liêng của Ngài, Để tôi không bao giờ bước lệch, Ra khỏi những đường lối đó của Ngài.
+
+—— Thi Thiên 27:11; 141:3.
+
+Hỡi Chúa, xin cho tôi thấy rõ đường lối của Ngài, Nơi tôi có thể bước đi an toàn, Giữa mọi cạm bẫy xảo quyệt Mà kẻ thù của tôi đã giăng: Và đặt một người canh gác liên tục trước Miệng vội vàng của tôi, hỡi Chúa, Và giữ cửa môi tôi, Chống lại mọi lời ác.
+
+—— Thi Thiên 19:12–14.
+
+Vì ai có thể thấy mọi lỗi lầm của mình, Và những gì ẩn giấu bên trong? Hỡi Chúa, xin thanh tẩy tôi, và giải cứu tôi Khỏi mọi tội lỗi thầm kín của tôi. [NEEDS REVIEW: một khổ thơ ở đây bị vỡ nát nặng trong OCR — về việc giữ tôi khỏi các tội kiêu ngạo — chỉ dịch những gì còn đọc được.] Xin chấp nhận miệng tôi, và lòng tôi; Lời nói và suy nghĩ của tôi, mỗi một; Vì Đấng Cứu Chuộc tôi và Sức Mạnh của tôi, Hỡi Chúa, chỉ một mình Ngài là vậy.
+
+Thánh Ca XI. Theo Giai Điệu của Thi Thiên 67. Thi Thiên 25:5, 7
+
+Hỡi Chúa, xin dẫn dắt tôi trong lẽ thật của Ngài, Và dạy tôi trong đường lối của Ngài; Vì Ngài là Đức Chúa Trời và Đấng Cứu Rỗi của tôi, Nơi Ngài tôi chờ đợi suốt ngày. Các tội lỗi và lỗi lầm tuổi trẻ của tôi, Xin đừng ghi vào sổ; Trong lòng thương xót, vì cớ sự nhân từ của Ngài, Xin nhớ đến tôi, hỡi Chúa.
+
+—— Thi Thiên 25:8, 10.
+
+Chúa là tốt lành và công chính, Và vì vậy Ngài vui thích Dạy dỗ những tội nhân nghèo khổ trong đường lối của Ngài, Để họ có thể bước đi ngay thẳng. Vì mọi đường lối của Đức Chúa Trời Đều là Lòng Thương Xót, Lẽ Thật và Ân Điển, Cho những người giữ giao ước của Ngài, Và đón nhận các điều răn của Ngài.
+
+—— Thi Thiên 25:12, 13.
+
+Chính Chúa sẽ chọn đường lối của Ngài; Và hướng dẫn các bước của Ngài trong đó, Được sở hữu bởi những suy nghĩ yên tĩnh, Linh hồn người sẽ ở trong sự dễ chịu; Dòng dõi hạnh phúc của người sẽ sở hữu Miền đất bình an đã hứa.
+
+—— Thi Thiên 25:14, 21, 22.
+
+Bí mật của Chúa Mọi người kính sợ Ngài sẽ biết, Lời khuyên và giao ước của Ngài Ngài sẽ tỏ cho các thánh đồ của Ngài. Nguyện sự liêm chính của tôi Và sự ngay thẳng bênh vực Và giữ gìn tôi; vì trong đức tin và hy vọng Nơi Ngài tôi nương cậy. Hỡi Chúa, bởi quyền năng của Ngài xin cứu chuộc, Và đưa dân Ngài ra Khỏi mọi sự chật hẹp và khốn khổ Bao quanh họ.
+
+Cho Sự Thờ Phượng Buổi Tối
+
+Thánh Ca XII. Thi Thiên 23:1–3
+
+Đấng Chăn Chiên của tôi là Chúa tối cao, Tôi sẽ được cung cấp đầy đủ, Trong đồng cỏ xanh Ngài khiến tôi nằm, Bên dòng nước lặng lẽ. Ngài phục hồi linh hồn tôi hay lạc lối, Và sau đó Ngài dẫn dắt tôi, Bước đi trong các đường lối công chính nhất của Ngài, Chỉ vì cớ Danh Ngài.
+
+—— Thi Thiên 23:4–6.
+
+Phải, dù tôi đi qua thung lũng tối của sự chết, Tôi sẽ không sợ tai họa nào, Cây gậy và cây trượng của Ngài nâng đỡ tôi như vậy, Và Ngài vẫn ở với tôi. Bàn của tôi Ngài đã dọn sẵn Trước mặt kẻ thù của tôi; Với dầu Ngài xức đầu tôi, Chén tôi đầy tràn. Chắc chắn sự nhân từ và ân điển của Ngài, Sẽ luôn theo tôi, Và nơi ở vĩnh viễn của tôi Nhà Thánh của Ngài sẽ là.
+
+—— Thi Thiên 28, câu cuối.
+
+Hỡi Chúa, xin cứu dân Ngài cách mạnh mẽ, Và ban phước cho cơ nghiệp của Ngài; Xin nuôi dưỡng họ cũng vậy, và nâng họ lên cao, Từ nay trở đi từ đời này sang đời khác.
+
+Thánh Ca XIII. Thi Thiên 68:19, 20
+
+Phước cho Đức Chúa Trời, Đấng chất đầy chúng ta Với những ơn hằng ngày như vậy; Ngay cả Đức Chúa Trời đó, Đấng đã ban tặng Sự cứu rỗi cho chúng ta. Vì Đức Chúa Trời của chúng ta là Đức Chúa Trời duy nhất Từ đó sự cứu rỗi đến; Những lối thoát và sự giải cứu khỏi sự chết Đều thuộc về Ngài và chỉ Ngài.
+
+—— Thi Thiên 34:3–6.
+
+Hãy tôn cao Chúa cùng với tôi, Ôi, chúng ta hãy ngợi khen Danh Ngài, Đấng đã nghe lời cầu nguyện của tôi, quan sát nỗi sợ của tôi, Và cứu tôi khỏi chúng. Đấng đoái xem với ơn những người Đoái xem Ngài bằng đức tin; Đấng đã cứu những linh hồn nghèo khổ bị hoạn nạn, Và đã nghe mọi tiếng kêu của họ.
+
+—— Thi Thiên 66:1, 20; 34:10.
+
+Đấng gạt mọi nguy hiểm sang một bên, Giữ linh hồn chúng ta trong sự sống, Và không để chân chúng ta trượt ngã, Nâng đỡ chúng ta trong đường lối của chúng ta. Đấng giữ gìn mọi xương của dân Ngài, Để chúng không bị gãy; Vì vậy mọi xương của tôi sẽ xưng nhận, Hỡi Chúa, ai giống như Ngài?
+
+Thánh Ca XIV. Thi Thiên 34:7–9
+
+Thiên sứ của Chúa tối cao Đóng trại khắp mọi nơi, Quanh các thánh đồ, giải cứu họ, Những người bước đi trong sự kính sợ thật của Đức Chúa Trời. Ôi, hãy nếm và xem Đức Chúa Trời là tốt lành, Và tin cậy trong ân điển của Ngài; Vì đối với những người kính sợ Danh Ngài, Không điều tốt nào sẽ bị từ chối.
+
+—— Thi Thiên 116:7; 31:5.
+
+Hãy trở về, hỡi linh hồn tôi, đã được giải phóng, Hãy trở về nơi an nghỉ của ngươi; Vì Chúa đã bày tỏ cho ngươi Lòng rộng rãi của Ngài một cách nhân từ. Hỡi Chúa, Đức Chúa Trời của lẽ thật, linh hồn quý báu của tôi Tôi phó thác vào tay Ngài, Thần linh đó mà bởi sự mua chuộc là của Ngài, Vì Ngài đã chuộc nó.
+
+—— Thi Thiên 17:8, 14, 15.
+
+Xin gìn giữ tôi, hỡi Chúa, khỏi những điều có hại Như con ngươi của mắt Ngài, Và dưới bóng cánh của Ngài Bảo vệ tôi một cách kín đáo. Tôi sẽ trong sự công chính nhìn thấy Khuôn mặt hòa giải của Ngài; Và khi thức dậy sẽ được thỏa mãn Với hình ảnh của ân điển Ngài.
+
+Thánh Ca XV. Thi Thiên 91:1, 4, 5
+
+Người đã chọn Đấng Tối Cao Làm nơi ẩn náu an toàn cho mình, Sẽ ở dưới bóng của Đấng Toàn Năng Ở lại liên tục. Được che giấu dưới đôi cánh che chở của Ngài, Ngươi sẽ an toàn và ấm áp; Những kinh hoàng ban đêm ngươi sẽ không sợ, Cũng không sợ hãi tai hại ban trưa.
+
+—— Thi Thiên 91:9, 10.
+
+Vì ngươi đã khiến Chúa Tối Cao Hy vọng liên tục của ngươi, Đấng mà tôi luôn chạy đến, Để che chở và cứu giúp tôi; Không điều ác nào sẽ xảy đến cho ngươi, Dù điều gì xảy ra; Cũng không có dịch bệnh nào Đến gần chỗ ở của ngươi.
+
+—— Thi Thiên 91:11, 12, 14–16.
+
+Các thiên sứ sẽ là những người bảo vệ trung tín của ngươi, Được truyền lệnh bởi mệnh lệnh của Ngài Để giữ ngươi an toàn trong mọi đường lối của ngươi; Và nâng ngươi trong tay họ. Vì người đã biết và yêu mến Danh Ta, Vì vậy, Đức Chúa Trời phán, Ta sẽ Đáp lời cầu nguyện của người, giải cứu người, Và đặt người lên cao. Ta sẽ ở với người trong nỗi đau buồn của người, Tôn vinh người bằng tình yêu của Ta, Làm cho người thỏa mãn với sự sống lâu dài trên đất, Và những niềm vui vô tận ở trên.
+
+Thánh Ca XVI. Thi Thiên 4:1, 2
+
+Hỡi Đức Chúa Trời, Đấng là sự công chính của tôi, Xin nghe khi tôi kêu cầu Ngài; Vì trong ngày khốn khổ của tôi Ngài đã mở rộng tôi. Hỡi loài người hay chết, các ngươi sẽ bao lâu Khinh miệt vinh quang của tôi như vậy? Tại sao các ngươi lang thang trong sự hư không, Và chạy theo những điều dối trá!
+
+—— Thi Thiên 4:3, 4.
+
+Hãy biết rằng [Đức Chúa Trời] và những người tin kính Chúa lấy và chọn lựa, Và khi tôi kêu cầu Ngài Ngài không từ chối tôi. Vậy hãy đứng trong sự kính sợ, và đừng phạm tội, Nhưng hãy tách mình ra, Và lặng lẽ trên giường của các ngươi bắt đầu Trò chuyện với lòng mình.
+
+—— Thi Thiên 4:6–8.
+
+Hãy dâng cho Đức Chúa Trời của lễ Của tình yêu và sự công chính, Và sau đó hãy đặt mọi sự tin cậy của các ngươi nơi Ngài Để được cứu giúp trong hoạn nạn. Nhiều người bằng lòng với bất kỳ điều tốt nào, Và ôm lấy những điều thế gian, Nhưng chúng con mong muốn nơi Ngài, hỡi Đức Chúa Trời, Ánh sáng của mặt Ngài. Vì Ngài nhờ đó sẽ khiến lòng tôi Vui mừng và hoan hỉ hơn, Hơn những người có lúa mì và rượu Tăng lên rất nhiều. Vì vậy trong bình an tôi sẽ nằm xuống, Để lấy giấc ngủ và nghỉ ngơi, Vì chỉ một mình Ngài, hỡi Chúa, Giữ tôi an toàn một mình.
+
+Thánh Ca XVII. Thi Thiên 141:1, 2
+
+Hỡi Chúa, tôi kêu cầu và khóc than cùng Ngài, Xin mau đến với tôi; Xin lắng nghe tiếng khiêm nhường của tôi, Ngay khi tôi kêu cầu Ngài. Ôi, xin cho lời cầu nguyện của tôi nay được dâng lên Như hương trước mắt Ngài; Và sự giơ tay của tôi lên Như của lễ buổi tối.
+
+—— Thi Thiên 119:147, 148, 162; 130:6; 63:5, 7.
+
+[NEEDS REVIEW: khổ thơ này bị xáo trộn nặng trong OCR — các mảnh còn lại thuộc về Thi Thiên 119:147–148 (đón trước bình minh để kêu cầu và suy gẫm Lời Chúa), Thi Thiên 130:6 (chờ đợi Chúa hơn người canh đợi sáng), Thi Thiên 63:5, 7 (linh hồn thỏa mãn như với tủy béo, vui mừng dưới bóng cánh Ngài). Đã dịch theo ý chính có thể khôi phục được.] Tôi đã đón trước bình minh, Kêu cầu Chúa, Để suy gẫm trong Lời Ngài. Trong đêm tối, lặng lẽ, Tôi chờ đợi Ngài hơn là thấy Ánh Sáng. Như thể được thỏa mãn với sự béo tốt, Miệng tôi sẽ luôn dâng lời ngợi khen biết ơn Với đôi môi vui mừng. Sự giúp đỡ của tôi đến và nảy sinh Dưới bóng cánh của Ngài.
+
+Thánh Ca XVIII. Thi Thiên 106:4; 118:2
+
+Những điều mà dân Ngài tìm thấy; Xin thăm viếng chúng con với sự cứu rỗi của Ngài, Và nhớ đến chúng con trong tâm trí Ngài. Xin cứu ngay bây giờ, chúng con nài xin Ngài, hỡi Chúa, Chúng con cầu nguyện Ngài một cách tha thiết, Và xin ban sự thịnh vượng.
+
+—— Thi Thiên 144:12, 13.
+
+Để các con trai chúng con có thể thịnh vượng nhanh chóng, Như cây cối lớn lên trong tuổi trẻ, Như những viên đá được đánh bóng của một nơi đẹp đẽ, Các con gái chúng con cũng sẽ tỏ ra như vậy. Để các kho thóc mở rộng của chúng con có thể Được đổ đầy với các kho báu quý giá; Và trong các đường phố của chúng con, các bầy chiên màu mỡ Có thể sinh ra nhiều ngàn.
+
+—— Thi Thiên 144:14, 15.
+
+Xin cho các con bò lao động của chúng con không kiệt sức, Cũng không kẻ thù xâm lược; Không bị dẫn đi làm tù binh, không than phiền Được tạo ra trong các đường phố của chúng con. Ôi, dân hạnh phúc, chúng ta sẽ nói, Với mọi phước lành này được chất đầy; Phải, hạnh phúc hơn là dân Mà Đức Chúa Trời của họ là Chúa.
+
+—— Thi Thiên 148, câu cuối.
+
+Đức Chúa Trời này đời đời là Đức Chúa Trời của chúng ta, Ngài là Đức Chúa Trời giao ước của chúng ta, Ngay cả đến sự chết, và vượt qua sự chết, Ngài sẽ là Đấng Dẫn Dắt trung tín của chúng ta.
+
+Thánh Ca XIX. Thi Thiên 116:1, 2, 7, 8
+
+Đức Chúa Trời, Đấng đã đoái xem một cách nhân từ Đến các lời thỉnh cầu của tôi, Sẽ có tình yêu và sự phục vụ tốt nhất và chọn lọc nhất của tôi Trong khi tôi sống. Hỡi linh hồn tôi, hãy hưởng Đức Chúa Trời và chính mình; Yên tĩnh và thoát khỏi nỗi sợ; Ngài đã cứu mạng sống của ngươi; nâng đỡ các bước của ngươi, Và đã lau khô mọi nước mắt của ngươi.
+
+—— Thi Thiên 116:12–16.
+
+Tôi sẽ dâng gì, hỡi Chúa, cho mọi Lòng nhân từ Ngài đã tỏ ra? [NEEDS REVIEW: hai câu ở đây bị vỡ nát trong OCR — về việc dâng của lễ ngợi khen và tạ ơn.] Thật vậy, tôi là đầy tớ của Ngài, hỡi Chúa, Tôi sẽ là đầy tớ của Ngài, Sinh ra trong nhà Ngài, và khỏi các xiềng xích của tôi Bởi bàn tay tốt lành của Ngài được giải phóng.
+
+—— Thi Thiên 42:8, 11.
+
+Vì vậy Đức Chúa Trời sẽ truyền lệnh cho tôi Tình yêu nhân từ nhất của Ngài ban ngày; Bài hát của Ngài sẽ ở với tôi ban đêm, Tôi sẽ cầu nguyện cùng Đức Chúa Trời, Sự Sống của tôi. Tại sao ngươi lại chán nản, hỡi linh hồn tôi, Với những nỗi buồn đè nặng? Tại sao những suy nghĩ tuyệt vọng lại quấy rối Sự bình an của ngươi, và phá vỡ sự nghỉ ngơi của tôi?
+
+Hãy có đức tin nơi Đức Chúa Trời, vì tôi vẫn sẽ Hát lên lời ngợi khen thiêng liêng của Ngài; Ngài là sức khỏe cho khuôn mặt tôi, Ngài là Đức Chúa Trời, và sẽ là của tôi.
+
+Thánh Ca XX. Thi Thiên 138:1, 2, 3, 5
+
+Với cả lòng tôi trước mặt các thần Tôi sẽ công bố với lời ngợi khen Lời của Tình Yêu và Lẽ Thật đó, mà Vĩ đại hơn mọi Danh Ngài. Với sức mạnh thuộc linh Ngài đáp lời tôi, Và Ngài sẽ có lời ngợi khen của Ngài Từ mọi vua chúa nghe Lời Ngài, Và hát trên mọi đường lối của Ngài.
+
+—— Thi Thiên 138:6–8.
+
+Dù Đức Chúa Trời cao, Ngài yêu thích người thấp hèn, Nhưng người kiêu ngạo Ngài khinh miệt, Vì vậy giữa những nguy hiểm lớn Hy vọng làm sống lại của tôi vẫn còn. Chúa sẽ hoàn thành các công việc của tôi, Lòng thương xót của Ngài đứng vững chắc chắn; Hỡi Chúa, xin đừng bỏ rơi, nhưng vẫn cứu giúp Công việc của chính tay Ngài.
+
+—— Thi Thiên 97:11, 12.
+
+Vì những hạt giống bất diệt của Ánh Sáng Cho người ngay thẳng đã được gieo; Một mùa gặt vui mừng cuối cùng sẽ Vương miện công việc và nỗi buồn của họ. Vậy hãy để những niềm vui liên tục của chúng ta tuyên bố Đức Chúa Trời chúng ta phục vụ là nhân từ, Chúng ta sẽ ngợi khen Ngài về những lòng thương xót đã qua Và chờ đợi những điều phía sau.
+
+[NEEDS REVIEW: một câu kết về Thi Thiên 27:14 ("Hãy chờ đợi Chúa") bị vỡ nát trong OCR; đã khôi phục theo mạch văn.]
+
+Thánh Ca XXI. Thi Thiên 139:1–5
+
+Hỡi Chúa, Ngài đã dò xét các phần trong của tôi Và biết mọi suy nghĩ của tôi; Ngài thấy tôi ngồi, Ngài thấy tôi đứng dậy, Đi lại và nằm xuống. Mọi đường lối kín của tôi, mọi lời nói nhanh của tôi Ngài, hỡi Chúa, đều hiểu, Phía sau, phía trước Ngài đã bao vây, Và đặt tay Ngài trên tôi.
+
+—— Thi Thiên 139:8–10.
+
+Tôi có thể rút lui khỏi Ngài đi đâu, Hay trốn khỏi sự hiện diện của Ngài? Vì cả Thiên Đàng lẫn Âm Phủ đều không thể giấu Khỏi Mắt Toàn Thấy của Ngài. Tôi có thể dời đến biển xa nhất Có cánh với tia sáng buổi sáng, Bàn tay Ngài phải nâng đỡ chuyến bay của tôi, Sẽ tiết lộ nơi ở của tôi.
+
+—— Thi Thiên 139:11–15.
+
+Vô ích tôi tìm cách nằm ẩn mình Trong bóng tối của ban đêm, Vì bóng tối nửa đêm chiếu sáng cho Ngài Rõ ràng như ánh sáng ban trưa. Đấng Tạo Hóa và Chủ của thận tôi Ngài đã trở thành cùng một lúc; Hỡi Chúa phước hạnh, tôi đã được tạo nên kỳ diệu biết bao Và được hình thành trong lòng mẹ!
+
+—— Thi Thiên 139:17, 18, 23, 24.
+
+Những suy nghĩ của Tình Yêu quý giá biết bao, Ngài bày tỏ cho tôi! Sâu sắc trong chính chúng, nhưng thân yêu đối với tôi, Và chúng không đếm được. Khi tôi thức dậy, tôi vẫn ở với Ngài, Và như vậy tôi kêu cầu Ngài, Xin dò xét tôi, hỡi Đức Chúa Trời, và biết lòng tôi, Thử thách suy nghĩ và lương tâm của tôi; Và xem tôi có đi lạc Trong bất kỳ đường lối tội lỗi nào không; Xin chỉ cho tôi con đường đời đời, Và dẫn dắt tôi, hỡi Chúa, trong đó.
+
+Thánh Ca XXII. Thi Thiên 103:1–3
+
+Hãy chúc tụng Chúa hằng sống, hỡi linh hồn tôi, Công bố lời ngợi khen vinh hiển của Ngài, Nguyện mọi năng lực trong của tôi tôn cao Và chúc tụng Danh thánh của Ngài. Đừng quên mọi lợi ích của Ngài, Nhưng hãy chúc tụng Chúa, hỡi linh hồn tôi, Đấng tha thứ mọi sự vi phạm của ngươi, Và khiến ngươi lành mạnh và toàn vẹn.
+
+—— Thi Thiên 103:4, 5, 8–10.
+
+Đấng đã cứu chuộc mạng sống ngươi khỏi sự chết, Và đội mão ngươi bằng tình yêu của Ngài; Đã đổi mới tuổi trẻ của ngươi, và đổ đầy miệng ngươi Với sự tốt lành từ trên cao. Chúa là nhân từ, chậm giận, Sẵn sàng tha thứ tội lỗi, Không đối xử với chúng ta trong cơn thịnh nộ liên tục Như những gì chúng ta đáng phải chịu.
+
+—— Thi Thiên 103:11, 12; 94:19.
+
+Như trời cao trên đất, Tình yêu giao ước của Ngài cũng vậy; Xa hơn phía đông cách phía tây Ngài loại bỏ tội lỗi của chúng ta. Như vậy trong đám đông và vô số Những suy nghĩ khác nhau, cuộn tròn, Trong lòng tôi những sự an ủi này an nghỉ, Và làm cho linh hồn tôi vui thích.
+
+Thánh Ca XXIII. Theo Giai Điệu của Thi Thiên 65. Thi Thiên 65:1–3
+
+Hỡi Đức Chúa Trời, lời ngợi khen vẫn chờ đợi Cho Ngài trên đồi Si-ôn; Lời thề chúng con sẽ thực hiện cho Ngài, Và sẵn sàng hoàn thành. Hỡi Đấng mà các danh hiệu là, Đức Chúa Trời nghe lời cầu nguyện, Đức Chúa Trời mà mọi xác thịt sẽ đến, Chúng con đến với Ngài.
+
+Tội lỗi của chúng con đã thống trị lớn lao, Và nói nhiều chống lại chúng con, Nhưng về những điều này, hỡi Chúa, Ngài sẽ vui lòng Thanh tẩy tất cả chúng đi. [NEEDS REVIEW: hai câu ở đây bị vỡ nát trong OCR — về việc được dẫn dắt trong tình yêu trước khi trời sáng và biết đường lối phải đi — đã khôi phục theo Thi Thiên 143:8.]
+
+—— Thi Thiên 56:12, 13.
+
+Các lời thề của Ngài đặt trên tôi; Hỡi Chúa, tôi sẽ trả chúng; Và tôi sẽ luôn dâng lời ngợi khen Cho Danh rất thánh của Ngài. Vì Ngài đã cứu linh hồn tôi Khỏi sự chết gần kề, Và Ngài sẽ không nâng đỡ tôi bây giờ sao, Và khiến chân tôi đứng vững? Để tôi vẫn tiếp tục Bước đi như trước mặt Ngài, Và dùng những ngày của tôi cho lời ngợi khen Ngài, Với những người sống trong Ánh Sáng.
+
+—— Thi Thiên 150:6.
+
+Nguyện mọi vật thở Sẵn sàng ghi lại Lời ngợi khen và danh tiếng của Danh vĩ đại của Đức Chúa Trời; A-men. Hãy ngợi khen Chúa.
+
+Thánh Ca XXIV. Thi Thiên 8:1, 2
+
+Hỡi Chúa, Chúa chúng con, khắp cả đất, Danh Ngài tuyệt vời biết bao! Đấng đã nâng vinh quang của Ngài Trên khung cao của các tầng trời. Trẻ thơ và trẻ còn bú Ngài đã định Để tỏ ra quyền năng và lời ngợi khen của Ngài; Nhờ đó để làm im lặng kẻ thù, Và kẻ thù báo thù.
+
+—— Thi Thiên 8:3–5.
+
+Khi tôi ngước mắt lên các tầng trời của Ngài, Cung điện Ngài đã dựng, Và quan sát mặt trăng sáng và các ngôi sao Được định để cai trị ở đó: Hỡi Chúa, con người là gì mà nó nên có Một chỗ trong những suy nghĩ nhân từ của Ngài, Rằng Ngài nên nâng cao và ban phước như vậy Cho giống loài thấp hèn và hay chết của nó! Thấp hơn các thiên sứ trên cao một chút Nó đứng được đặt trong vinh quang; Trong khi mọi tạo vật dưới đây Bị quăng dưới chân nó.
+
+—— Thi Thiên 73:25, 26.
+
+Nhưng tôi có ai trên trời ngoài Ngài? Cũng không có ai Trên khắp đất mà tôi mong muốn, Ngoại trừ chính Ngài. Vì khi xác thịt và lòng tôi suy tàn, Đức Chúa Trời nâng đỡ lòng tôi; Ngài là sức mạnh của tôi đời đời, Phần của tôi và phần của tôi.
+
+—— Thi Thiên 73:27, 28.
+
+Vì những người xa cách, Kìa, họ, và mỗi người Đi làm điếm, hỡi Chúa, khỏi Ngài, Sẽ hoàn toàn bị lật đổ. Nhưng tốt cho tôi luôn luôn Là tôi đến gần Đức Chúa Trời, Khi ấy tôi sẽ ngợi khen lẽ thật và tình yêu của Ngài, Khi tôi nương cậy Ngài.
+
+Cho Buổi Sáng Ngày Của Chúa
+
+Thánh Ca XXV. Thi Thiên 118:1–4
+
+Tôi dâng lời tạ ơn Đức Chúa Trời, vì Ngài là tốt lành, Lòng thương xót của Ngài còn tồn tại; Nguyện mọi dòng dõi của Y-sơ-ra-ên nói, Các lời hứa của Ngài là chắc chắn. Nguyện nhà A-rôn xưng nhận ngày nay, Sự nhân từ của Ngài vẫn thắng thế; Và những người kính sợ Chúa nay nói [Lòng thương xót của Ngài] không bao giờ thất bại.
+
+—— Thi Thiên 118:22, 23.
+
+Vì chính hòn đá mà người ta đã từ chối, Khinh miệt và giày đạp, Đã được chọn và ưu tiên trở thành Đầu, và Đá Góc Nhà. Đây là công việc của Đức Chúa Trời vĩ đại của chúng ta, Ngài đã nghĩ ra điều đó, Và Ngài đã thực hiện sự cứu rỗi vĩ đại này Thật kỳ diệu trong mắt chúng ta.
+
+—— Thi Thiên 118:24, 25.
+
+Đây thật là ngày vui mừng, Mà Đức Chúa Trời đã thánh hóa, Đã tạo ra cho con người, và chúng ta sẽ nay Vui mừng với niềm vui thánh. Chúng ta sẽ hòa cùng những tiếng tung hô nay, Và hát lớn tiếng Hô-sa-na, Ước mong sự thịnh vượng có thể chờ đợi Trên Vua Được Xức Dầu của chúng ta.
+
+—— Thi Thiên 118:26–29.
+
+Đấng Cứu Rỗi phước hạnh! Đấng từ Đức Chúa Trời đến với chúng ta Trong sứ mạng nhân từ này, Chúng con chào đón Ngài, và chúc phước cho tất cả những người Truyền bá Danh vinh hiển của Ngài. Đức Chúa Trời là Chúa, Đấng ban Ánh Sáng Mà ngày cao trọng này trang điểm, Hãy đến buộc của lễ bằng dây Vào các sừng của bàn thờ. Ngài là Đức Chúa Trời của tôi mà tôi sẽ tôn cao, Đức Chúa Trời của tôi mà tôi sẽ ngợi khen; Hãy dâng lời tạ ơn Đức Chúa Trời vì Ngài là tốt lành, Lòng thương xót của Ngài tồn tại luôn luôn.
+
+Thánh Ca XXVI. Thi Thiên 84:1–3
+
+Ôi, nơi Ngài ban sự hiện diện (hỡi Chúa) đáng yêu biết bao! Ôi, tôi khao khát đến gần các sân của Ngài biết bao, Không kiên nhẫn với sự kiềm chế! Tôi ghen tị nhiều với chỗ của chim sẻ, Và [hạnh phúc] của chim én, [Những con] làm tổ trong chính các sân của Đức Chúa Trời, [Ngài là] Đức Chúa Trời của tôi.
+
+—— Thi Thiên 84:4–6.
+
+Hạnh phúc thay những người ở trong nhà Ngài, Vì họ sẽ ngợi khen Ngài luôn; Hạnh phúc gấp ba những người mà sức mạnh là Ngài, Mà lòng họ đầy [các đường lối Si-ôn]. Những người tận dụng tốt nhất các đường lối Si-ôn, Và đi từ sức mạnh đến sức mạnh, Cho đến khi họ xuất hiện trước mặt Chúa Trên đồi Si-ôn cuối cùng.
+
+—— Thi Thiên 84:8–10.
+
+Hỡi Chúa, Đức Chúa Trời của các đạo binh, xin nghe lời cầu nguyện của tôi, Hỡi Đức Chúa Trời của Gia-cốp, xin lắng nghe, Hỡi Chúa, khiên của chúng con, xin nhìn mặt Đấng Được Xức Dầu yêu dấu của Ngài. Vì trong các sân Ngài [một ngày], Tôi tính một ngày đã qua Tốt hơn ngàn ngày, Ngàn ngày ở nơi khác. Tại đó tôi thà bị giam giữ, Và nằm ở ngưỡng cửa Hơn là ở trong lều của kẻ tội lỗi với sự dễ dàng Và tự do vô biên.
+
+—— Thi Thiên 84:11, 12.
+
+Vì Đức Chúa Trời là Mặt Trời và Khiên, Ngài ban ân điển và vinh quang, Và không điều tốt nào Ngài sẽ giữ lại Khỏi những người sống thanh sạch. Hỡi Chúa của các đạo binh, người đó được phước, Và chắc chắn hạnh phúc là người Mà lòng bằng đức tin luôn an nghỉ Với sự tin cậy nơi Ngài.
+
+Thánh Ca XXVII. Thi Thiên 27:4
+
+Đây là lời thỉnh cầu lớn của tôi, hỡi Đức Chúa Trời, Mà tôi trình bày ở đây, Rằng mọi ngày tôi còn sống Có thể được dùng trong nhà Ngài. Tại đó để suy ngẫm và nhìn thấy Vẻ đẹp của Chúa, Và trong đền thờ của Ngài để tìm hiểu Vào Lời thánh của Ngài.
+
+—— Thi Thiên 27:8, 9.
+
+Khi Ngài phán: Hãy tìm kiếm mặt Ta; Được hướng dẫn bởi ân điển của Ngài, Lòng sẵn sàng của tôi với niềm vui đáp lại, Hỡi Chúa, tôi sẽ tìm kiếm mặt Ngài. Đừng giấu mặt Ngài khỏi tôi trong cơn thịnh nộ; Hỡi Chúa, xin đừng quay khỏi tôi. Đấng Cứu Rỗi của tôi, Ngài đã là sự giúp đỡ của tôi; Xin vẫn là sức mạnh và chỗ dựa của tôi.
+
+—— Thi Thiên 43:3, 4.
+
+Ôi, xin sai Ánh Sáng và Lẽ Thật thiêng liêng Để dẫn dắt và đưa tôi đến gần, Đến đồi thánh của Ngài, Và các đền tạm ở đó. Khi ấy tôi sẽ đến bàn thờ của Đức Chúa Trời, Niềm vui mừng của niềm vui tôi, Hỡi Đức Chúa Trời, Đức Chúa Trời của tôi, để tỏ ra lời ngợi khen Ngài, Tôi sẽ dùng đàn hạc của tôi.
+
+—— Thi Thiên 119:32.
+
+Và tôi sẽ chạy với sự đồng ý đầy đủ Đường lối Ngài giao phó, Khi với sự khích lệ ngọt ngào của Ngài Ngài đã mở rộng lòng tôi.
+
+Thánh Ca XXVIII. Thi Thiên 92:1, 2, 4
+
+Thật là một công việc dễ chịu biết bao Để ngợi khen Chúa ở trên, Buổi sáng và buổi tối công bố Sự thành tín và tình yêu của Ngài! Các công việc của Ngài, hỡi Chúa, với niềm vui thiêng liêng, Làm say đắm lòng tôi, Và trong vinh quang của các hành động của Ngài Tôi sẽ dựng lên những chiến thắng của tôi.
+
+—— Thi Thiên 92:5–8.
+
+Hỡi Chúa, các công việc của Ngài vĩ đại biết bao! Các suy nghĩ của Ngài đều sâu sắc; Những người ngu dại hiểu lầm đường lối của Ngài, Những vực sâu này họ không thể dò. Khi những kẻ tội lỗi thịnh vượng nở rộ nhất, Và mọc lên như cỏ, Đó là để chúng có thể tự mang lại cho mình Một sự hủy hoại nhanh chóng.
+
+—— Thi Thiên 92:12–15.
+
+Nhưng các thánh đồ như cây cọ đầy trái sẽ thịnh vượng, Thật nở rộ và tiến lên, Lớn mạnh và cao, như cây tuyết tùng Trong Li-ban màu mỡ. Những cây được trồng trong Nơi Thánh Nơi Đức Chúa Trời ngự trị, Vẫn được tưới bằng sương của ân điển, Sẽ thịnh vượng và phát triển tốt; Phải, (ngay cả khi sức mạnh của thiên nhiên suy tàn) Trong tuổi già sẽ mang nhiều trái, Và trong mùa đông của những ngày của họ Sẽ béo tốt và nở hoa, Để tỏ ra rằng Đức Chúa Trời là Đức Chúa Trời ngay thẳng, Ngài là Vầng Đá cho tôi; Và không có sự bất chính nào Trong Ngài, cũng không thể có.
+
+Thánh Ca XXIX. Thi Thiên 96:1, 2
+
+Hãy hát với lời ngợi khen cho Chúa, Những bài hát mới của niềm vui và sự vui mừng: Hãy hát cho Chúa với một lòng, Mọi dân tộc trên đất. Hãy hát cho Chúa, Đấng ngự trên cao, Chúc tụng Danh được tôn thờ của Ngài, Sự cứu rỗi vĩ đại Ngài đã thực hiện Từ ngày này sang ngày khác công bố.
+
+—— Thi Thiên 98:1, 2.
+
+Hãy đổi mới các bài hát của các ngươi cho Đức Chúa Trời, và kể lại Những kỳ công Ngài đã làm; Chúng ta hãy cùng ngưỡng mộ các chiến thắng Cánh tay thánh của Ngài đã giành được. Lòng thương xót của Ngài mà trước đây được giữ Một bí mật và khép kín, Nay đối với cái nhìn rõ ràng và công khai Của dân ngoại được phơi bày.
+
+—— Thi Thiên 98:3–6.
+
+Sự nhân từ đã hứa của Ngài và lẽ thật của Ngài Trước tiên được tỏ cho Y-sơ-ra-ên, Nhưng nay các đầu cùng của trái đất đã thấy Sự cứu rỗi vĩ đại của Ngài. Nguyện cả trái đất tin mừng chào đón này Vỗ tay với tiếng ồn lớn nhất, Hòa nhạc vào các thánh ca ngợi khen của họ Để làm chứng cho niềm vui của họ.
+
+—— Thi Thiên 98:7–9.
+
+Nguyện biển cả cuộn trào gầm thét, và khơi dậy Niềm vui của các vùng đất lân cận; Nguyện các đồi vang vọng lặp lại tiếng ồn, Và các sông vỗ tay. Cả thiên nhiên cũng có thể cảm thấy một sự thay đổi, Khi Đức Chúa Trời đến gần, Đấng đến để phán xét và cai trị thế gian Với lẽ thật và công bằng.
+
+Thánh Ca XXX. Thi Thiên 68:4, 17
+
+Hãy hát cho Đức Chúa Trời, hát lên lời ngợi khen của Ngài, Tôn cao Ngài bằng tiếng của các ngươi, Đấng cưỡi trên các tầng trời bằng Danh JAH của Ngài, Trong đó chúng ta sẽ vui mừng. Các xe của Đức Chúa Trời hai mươi ngàn, Luôn trước mặt Ngài; Hàng triệu thiên sứ tham dự, Như trong Nơi Thánh.
+
+—— Thi Thiên 68:18.
+
+Ngài đã lên cao trên cao, Và Ngài, hỡi Đấng Christ, đã khi ấy Dẫn tù binh của chúng ta bị bắt, Nhận các ân tứ cho loài người: Phải, ngay cả cho những người nổi loạn Ngài đã nhận những ân tứ đó, Để Đức Chúa Trời có thể ở với họ, Và họ từ bỏ sự nổi loạn.
+
+—— Thi Thiên 68:24, 29.
+
+Vì họ đã thấy quyền năng của Ngài, hỡi Đức Chúa Trời, Họ đã thấy các bước ân điển của Ngài, Các bước đi của Đức Chúa Trời tôi, Vua tôi, Trong Nơi Thánh của Ngài. Đức Chúa Trời của ngươi bởi mệnh lệnh tối cao của Ngài Đã củng cố ngươi như vậy; Hỡi Đức Chúa Trời, xin củng cố, bởi bàn tay tốt lành của Ngài, Điều Ngài đã thực hiện cho chúng ta.
+
+—— Thi Thiên 68:34, 35.
+
+Hãy gán sức mạnh cho Đức Chúa Trời vĩ đại của chúng ta, Đấng mà sự xuất sắc hiếm có, Được bày tỏ trên đất Y-sơ-ra-ên, Mà sức mạnh các đám mây tuyên bố. Những người trong các Nơi Thánh thấy Vinh quang của Ngài, đều kinh ngạc, Đức Chúa Trời của Y-sơ-ra-ên ban cho chúng ta sức mạnh, Danh Thánh của Ngài được ngợi khen.
+
+Thánh Ca XXXI. Thi Thiên 95:1–4
+
+Ôi, hãy đến, chúng ta hãy hát với tiếng ồn vui mừng Cho Vầng Đá cứu rỗi của chúng ta, Với các Thi Thiên ngợi khen, và niềm vui biết ơn, Tụ tập vào sự hiện diện của Ngài. Một Đức Chúa Trời, một Vua của mệnh lệnh vĩ đại, Một Vua của các thần Ngài là; Các vực sâu vĩ đại của trái đất ở trong tay Ngài, Sức mạnh của các đồi là của Ngài.
+
+—— Thi Thiên 95:5–7.
+
+Đất khô và biển, ngay cả cả hai Bàn tay Ngài đã tạo nên và định hình; Ôi, hãy đến thờ lạy với đầu gối cúi xuống Danh của Chúa, Đấng Tạo Hóa của chúng ta. Vì Ngài là Đức Chúa Trời của chúng ta, và chúng ta là bầy chiên Mà Ngài có quyền chỉ huy, Dân Ngài, và bầy chiên đồng cỏ của Ngài, Và chiên của chính tay Ngài.
+
+—— Thi Thiên 95:8–11.
+
+Vì vậy chúng ta hãy nghe tiếng Ngài ngày nay, Và đừng chứng tỏ lòng cứng cỏi, Như những người trong đồng vắng Đã chọc giận Đức Chúa Trời ở trên. Họ đã thử quyền năng của Ngài, và thấy các công việc của Ngài, Và lâu dài họ đã làm Ngài buồn ở đó, Cho đến khi mệt mỏi với giống nòi lầm bầm đó Ngài không thể chịu đựng lâu hơn: Nhưng đã trong cơn thịnh nộ công chính và thánh Bằng lời thề trang trọng phản đối, Rằng họ sẽ không bao giờ vào Nơi An Nghỉ Ca-na-an Phước Hạnh.
+
+—— Hê-bơ-rơ 4:1.
+
+Vậy chúng ta hãy sợ rằng một Nơi An Nghỉ tương tự Được đề xuất cho chúng ta, Bất kỳ ai trong chúng ta qua sự không tin Đến thiếu, và hư mất như vậy.
+
+Thánh Ca XXXII. Thi Thiên 36:7, 8
+
+Ôi, tuyệt vời biết bao, hỡi Chúa, là ân điển đó, Và tình yêu từ Ngài tuôn chảy, Vì vậy các con trai của loài người đặt Sự tin cậy của họ trong đôi cánh xòe rộng của Ngài! Với sự béo tốt của nhà Ngài trên cao Ngài sẽ làm cho các thánh đồ của Ngài thỏa mãn, Và khiến họ uống dồi dào Dòng sông của niềm vui của Ngài.
+
+—— Thi Thiên 36:9, 10.
+
+Vì các suối của sự sống rất tinh khiết Luôn tuôn chảy từ Ngài; Và trong Ánh Sáng của Ngài chúng ta sẽ chắc chắn Thấy Ánh Sáng đời đời. Đối với những người đánh giá cao tình yêu của Ngài như vậy, Xin vẫn ban lòng nhân từ của Ngài, Và thực hiện mọi lời hứa của Ngài Cho những người có lòng ngay thẳng.
+
+—— Thi Thiên 89:15, 16.
+
+Phước thay dân biết Và nghe âm thanh vui mừng, Các tia sáng của Ngài sẽ soi sáng họ khi họ đi, Và chiếu sáng xung quanh họ. Những biểu hiện của tình yêu kỳ diệu của Ngài Sẽ tạo ra niềm vui liên tục. Và Ngài, Vinh Quang của sức mạnh của họ, Sẽ đội mão trạng thái thấp hèn của họ.
+
+—— Thi Thiên 65:4; 41:13.
+
+Họ với sự nhân từ của nhà Ngài Sẽ đãi tiệc cho sự thèm muốn của họ; Đầy những niềm vui mà đền thờ của Ngài mang lại, Và say mê với những thú vui. Nguyện Chúa, Đức Chúa Trời của Y-sơ-ra-ên Được ngợi khen đời đời, Từ đời này sang đời khác cho đến đời đời, A-men, A-men, tôi nói.
+
+Thánh Ca XXXIII. Thi Thiên 123:1; 26:8; 5:7
+
+Hỡi Chúa, hỡi Chúa, chỉ một mình Ngài Tôi ngước mắt lên, Ôi, Đấng cao và cao cả Đấng ngự trên các tầng trời. Nơi ở của nhà Ngài, Hỡi Chúa, tôi đã yêu mến lắm, Và nơi ngọt ngào vinh hiển đó, Nơi danh tiếng của Ngài ngự trị.
+
+Và đến nhà đó tôi sẽ đến gần Trong ân điển dồi dào của Ngài, Và thờ lạy với sự kính sợ Hướng về Nơi Thánh của Ngài. Xin giúp đỡ tôi, hỡi Đức Chúa Trời của tôi, Và hướng dẫn đường lối tôi như vậy, Để tôi có thể giữ Lời thánh của Ngài, Và không bao giờ đi lạc.
+
+—— Thi Thiên 119:4, 11, 12, 18, 19.
+
+Nguyện nó được giấu trong lòng tôi, Để giữ tôi khỏi tội lỗi, Một Đấng phước hạnh, hỡi Chúa, Ngài là, Xin dạy tôi các luật lệ của Ngài. Xin mở mắt tôi để tôi có thể thấy Những kỳ công của luật pháp Ngài, Vì là một người lạ ở đây, tôi phải Từ đó rút ra sự an ủi của tôi.
+
+—— Thi Thiên 119:24, 54.
+
+Và những lời chứng này của Ngài là Niềm vui trọn vẹn của lòng tôi, Tôi cũng không cần cố vấn viên nào khác Để hướng dẫn các đường lối của tôi đúng đắn. Vì khắp mọi nơi các luật lệ của Ngài là Những bài hát an ủi của tôi, Trong khi trong [hoàn cảnh] của tôi [NEEDS REVIEW: một câu ở đây bị vỡ nát trong OCR] tôi Bị phơi bày cho những nỗi buồn và sai trái.
+
+Thánh Ca XXXIV. Thi Thiên 119:68, 73
+
+Hỡi Chúa, Ngài là tốt lành, và Ngài làm điều tốt; Mọi ân điển tuôn chảy từ Ngài; Xin dạy tôi biết các giao ước của Ngài, Chúng tốt lành và công chính biết bao. Bàn tay Ngài đã tạo nên, và nắn tôi, Xin ban ân điển của Ngài trên tôi, Để biết các điều răn của Ngài là gì, Và thực hành những gì tôi biết.
+
+—— Thi Thiên 119:105, 106, 108.
+
+Vì chúng là Người Dẫn Đường của đời sống tôi, Và cho ánh sáng cho các đường lối của tôi; Tôi đã thề giữ các luật công chính của Ngài, Mà tôi sẽ thực hiện đúng đắn. Các của lễ tự nguyện của miệng tôi Tôi cầu xin Ngài, hỡi Chúa, chấp nhận, Và dạy tôi nay, cách nào và làm sao Các phán quyết của Ngài có thể được giữ.
+
+—— Thi Thiên 119:109, 111.
+
+Linh hồn tôi luôn ở trong tay tôi, Phơi bày cho những nguy hiểm lớn, Vì vậy các điều răn của Lời Ngài Tôi sẽ không bao giờ quên. Các luật lệ của Ngài là cơ nghiệp Mà tôi đã chọn, Đến ngày cuối cùng của tôi, vì đó là chúng Làm cho lòng tôi vui mừng.
+
+—— Thi Thiên 119:112, 96.
+
+Tôi đã nghiêng lòng tôi để giữ Các luật Ngài đã ra lệnh, Và bởi ân điển của Ngài sẽ bám vào chúng Ngay cả cho đến khi tôi đến với Ngài. Vì, hỡi Chúa, của mọi sự trọn vẹn ở đây Tôi sớm nhận thấy một sự kết thúc; Nhưng đến mọi thời gian và trạng thái của đời sống Các luật trọn vẹn của Ngài mở rộng.
+
+Thánh Ca XXXV. Thi Thiên 119:137, 138, 162, 163
+
+Bản chất của Ngài, hỡi Chúa, và các điều răn của Ngài Hoàn toàn đồng ý; Thánh khiết, và công chính, và chân thật; Ngài là, Và các điều răn của Ngài cũng vậy. Tôi đã vui mừng trong Lời Ngài, Như người tìm thấy một giải thưởng; Và tôi yêu luật pháp của Ngài, hỡi Chúa, Nhưng ghét đường lối của sự dối trá.
+
+—— Thi Thiên 119:164, 165, 140.
+
+Bảy lần một ngày tôi sẽ dâng lời ngợi khen Ngài, Vì cớ các phán quyết công chính của Ngài, Bình an lớn có những người yêu đường lối Ngài, Và không có sự xúc phạm nào họ nhận. Lời Ngài thật rất tinh khiết, Như bạc được thử bằng lửa, Vì vậy đầy tớ Ngài sẽ chắc chắn Yêu nó hoàn toàn nhất.
+
+—— Thi Thiên 119:17, 132.
+
+Xin đối xử rộng rãi trong các ân tứ của ân điển Với tôi, đầy tớ Ngài, hỡi Chúa, Để tôi có thể sống và chạy đua của tôi, Và giữ Lời Thánh của Ngài. Xin nhìn tôi trong lòng thương xót, hỡi Chúa, Và ban cho tôi điều tương tự, Như Ngài thường đối xử với những người Yêu và kính sợ Danh Ngài.
+
+—— Thi Thiên 119:133, 171.
+
+Nguyện mọi bước của tôi bởi Lời công chính của Ngài Được sắp xếp chính xác, Để không sự bất chính nào có thể có Quyền thống trị trên tôi. Và khi ấy môi tôi sẽ được chuẩn bị Để dâng lời ngợi khen biết ơn, Khi Ngài đã tuyên bố cho tôi Và dạy tôi mọi đường lối của Ngài.
+
+Thánh Ca XXXVI. Theo Giai Điệu của Thi Thiên 67. Thi Thiên 63:1, 2
+
+Hỡi Đức Chúa Trời, Ngài là Đức Chúa Trời của tôi, Tôi tìm kiếm Ngài một cách tha thiết. Linh hồn tôi trong tôi khát khao Ngài Ở đây trong sa mạc khô. Để tôi có thể thấy quyền năng của Ngài, Và ân điển vinh hiển nhất của Ngài, Như tôi đôi khi đã thấy nó chiếu sáng Trong Nơi Thánh của Ngài.
+
+—— Thi Thiên 63:3, 4, 8.
+
+Lòng nhân từ đó, hỡi Chúa, Mà tôi sẽ luôn ngợi khen, Tốt hơn nhiều so với chính sự sống, Dù đầy những ngày thịnh vượng. Như vậy trong khi sự sống của tôi còn kéo dài Tôi sẽ tôn cao danh tiếng của Ngài, Lòng và tay tôi tôi sẽ giơ lên Trong Danh rất thánh của Ngài. Linh hồn tôi đang tiến lên Để theo sau Ngài, Và tôi vẫn đứng bởi tay hữu Ngài, Vì điều đó nâng đỡ tôi.
+
+—— Thi Thiên 122:1, 2, 4–6.
+
+Vì vậy tôi sẽ vui mừng Khi họ nói với tôi, Chúng ta hãy cùng nhau đến nhà của Đức Chúa Trời Đi theo đường lối của chúng ta. Vì tại đó chúng ta sẽ được tìm thấy, Nơi [các] chi phái tham dự Trên các lời tiên tri sống động Gửi lời ngợi khen chung lên trời. Tôi cầu nguyện cho sự bình an của Giê-ru-sa-lem, Và cho các anh em thân yêu của tôi; Nguyện bình an ở trong các bức tường thánh của Si-ôn, Sự thịnh vượng ở đó.
+
+Cho Buổi Trưa Và Buổi Tối Ngày Của Chúa
+
+Thánh Ca XXXVII. Thi Thiên 33:1–4
+
+Hỡi những người công chính, hãy vui mừng trong Chúa, Vì lời ngợi khen trở nên phù hợp với các thánh đồ; Hãy ngợi khen Đức Chúa Trời với đàn Psaltery, đàn Hạc và giọng hát; Và các nhạc cụ mười dây. Hãy hát cho Chúa lớn tiếng với lời ngợi khen, Với các bài hát khéo léo và mới, Vì Lời Ngài, các công việc Ngài và các đường lối Ngài Đều thánh khiết, công chính và chân thật.
+
+—— Thi Thiên 40:5.
+
+Nhiều là những công việc kỳ diệu nhất Mà Ngài (Đức Chúa Trời của tôi) đã thực hiện; Nhiều là những mục đích nhân từ của Ngài Được nghĩ đến hướng về chúng ta. Tôi đã được giao phó cho sự chăm sóc của Ngài Ngay từ khi sinh ra cho đến nay, Và từ lòng mẹ đã sinh ra tôi, Đức Chúa Trời và Đấng Dẫn Dắt của tôi là Ngài.
+
+—— Thi Thiên 104:33–35.
+
+Phải, từ thời thơ ấu mềm mại của tôi Tôi đã được Ngài dạy dỗ, Và vì vậy tôi đã kể liên tục Những kỳ công Ngài đã thực hiện. Vì vậy tôi sẽ hát ngợi khen Đức Chúa Trời, Trong khi tôi có sự sống và hơi thở, Và tôn vinh Ngài mọi ngày của tôi, Và tôn trọng Ngài cho đến chết. Những suy nghĩ của tôi về Ngài sẽ ngọt ngào Như không gì khác có thể, Và mọi dòng suối của niềm vui sẽ gặp nhau Khi, hỡi Chúa, tôi nghĩ về Ngài.
+
+Nguyện tội nhân diệt vong khỏi đất, Và kẻ ác không còn nữa: Nhưng hỡi linh hồn tôi, hãy rao truyền lời ngợi khen của Đức Chúa Trời, Vậy hãy ngợi khen Chúa.
+
+Thánh Ca XXXVIII. Thi Thiên 71:8, 14
+
+Hỡi Chúa, xin cho miệng tôi được đổ đầy lời ngợi khen, Để tôi với niềm vui có thể Công bố danh dự của Ngài cho thế gian, Và xuất bản suốt cả ngày. Vì tôi với hy vọng không bao giờ mệt mỏi Sẽ cầu xin lòng thương xót của Ngài, Và ăn mừng với lòng biết ơn Những lời ngợi khen của Ngài càng hơn.
+
+—— Thi Thiên 71:15, 16.
+
+Các hành động công chính của Ngài và ân điển cứu rỗi Hằng ngày [tôi] sẽ tuyên bố, Dù một nửa không thể được kể, Số lượng chúng nhiều như vậy. Nương cậy vào sức mạnh của Ngài, hỡi Chúa, Tôi sẽ tiến lên một cách dạn dĩ; Sự công chính của Ngài sẽ là lời biện hộ của tôi, Chỉ sự công chính của Ngài.
+
+—— Thi Thiên 71:19–21.
+
+Sự công chính của Ngài, hỡi Đức Chúa Trời, vượt quá Ở mức độ cao nhất; Ngài đã thực hiện những việc kỳ diệu, Ai có thể sánh với Ngài? Ngài, Đấng đã cho tôi thấy những rắc rối nặng nề, Sẽ nâng tôi lên khỏi mặt đất, Với những niềm vui vô biên và bình an vô tận: Ngài sẽ bao quanh tôi.
+
+—— Thi Thiên 71:22, 23.
+
+Tôi sẽ hướng dẫn mỗi dây đàn rung Để làm cho lời ngợi khen của Ngài được biết; Lẽ thật và sự nhân từ của Ngài tôi sẽ hát, Hỡi Đấng Thánh của Y-sơ-ra-ên! Một đám đông niềm vui sẽ chen chúc Trên môi tôi để ngồi, Trong khi linh hồn vui mừng của tôi thở thường xuyên một bài hát Cho Đấng đã chuộc nó.
+
+Thánh Ca XXXIX. Thi Thiên 105:1, 2
+
+Hãy dâng lời tạ ơn Chúa, Vì Ngài nhân từ và tốt lành; Lòng thương xót của Ngài vẫn tiếp tục chắc chắn, Như chúng đã từng đứng. Ngôn ngữ nào có thể công bố xứng đáng Các việc làm quyền năng của Ngài? Lưỡi nào có thể hát lời ngợi khen bất diệt Do Danh Thánh của Ngài?
+
+—— Thi Thiên 105:2, 3.
+
+Vì vậy chúng ta hãy trong các bài hát biết ơn Chúc tụng Đấng Cứu Chuộc vĩ đại của chúng ta: Và những gì bàn tay quyền năng của Ngài đã thực hiện, Với lưỡi vui mừng bày tỏ. Ôi, hãy khoe khoang với một lòng Trong Danh rất thánh của Đức Chúa Trời; Nguyện mỗi linh hồn tìm kiếm Chúa Vui mừng trong điều tương tự.
+
+—— Thi Thiên 105:7, 8.
+
+Ôi, nguyện các công việc Ngài đã làm Lay động sự ngưỡng mộ của các ngươi; Hãy nghĩ về các phán quyết của miệng Ngài, Và các kỳ công của tình yêu Ngài. Đó là vinh quang và niềm vui của chúng ta Rằng Đức Chúa Trời vĩ đại này là của chúng ta, Các phán quyết của Ngài đi qua khắp trái đất Với quyền năng không bao giờ thất bại.
+
+Giao ước của Ngài với dân Ngài đã niêm phong, Ngài luôn nhớ đến, Và sẽ thực hiện các lời hứa của Ngài Cho các thời đại còn phía sau.
+
+Thánh Ca XL. Thi Thiên 115:1–3; 107:21
+
+[NEEDS REVIEW: khổ thơ đầu của Thánh Ca XL bị vỡ nát trong OCR — chỉ còn Thi Thiên 107:21 ("Ôi, nguyện mọi người ngợi khen Chúa vì sự nhân từ lớn của Ngài, và vì các công việc kỳ diệu của Ngài đối với con cái loài người").]
+
+Ôi, nguyện mọi người ngợi khen Chúa Vì sự nhân từ lớn của Ngài khi ấy, Và vì các công việc kỳ diệu nhất Đối với con cái loài người.
+
+—— Thi Thiên 113:1–3.
+
+Hãy tôn cao Chúa, hãy ngợi khen Danh Ngài, Hỡi các đầy tớ của Chúa; Danh Ngài được chúc tụng nay và đời đời, Của mọi người với một lòng. Ngay cả từ lúc mặt trời mọc, Cho đến khi nó lặn, Chúng ta phải công bố lời ngợi khen cao của Chúa, Và dâng danh tiếng cho Danh Ngài.
+
+—— Thi Thiên 113:4–6.
+
+Trên mọi dân tộc Ngài được nâng cao; Danh tiếng Ngài vượt qua bầu trời, Và ai giống như Chúa, Đức Chúa Trời của chúng ta, Đấng ngự trên cao? Tuy nhiên Ngài hạ mình xuống để thấy Những việc làm trên trời ở trên, Và những gì được làm trên đất ở dưới Nơi chúng ta là những người hay chết di chuyển.
+
+—— Thi Thiên 111:2, 7, 8.
+
+Vĩ đại là các công việc của Đức Chúa Trời vĩ đại của chúng ta, Và mọi người không nghi ngờ, Người lấy niềm vui thật trong chúng, Với sự cẩn thận tìm kiếm chúng. Thành tín và công chính là mọi đường lối của Ngài, Lời Ngài đời đời chắc chắn, Khi lời hứa của Ngài một khi đã cam kết, Việc thực hiện là an toàn.
+
+—— Thi Thiên 111:9, 10.
+
+Thánh khiết và đáng kính là Danh Ngài, Và phải được tôn kính; Sự kính sợ tôn giáo chân thật này của Đức Chúa Trời Là nguồn của sự khôn ngoan. Sự hiểu biết tốt có tất cả những người Cẩn thận [tuân giữ] Để thực hành các điều răn của Ngài; Lời ngợi khen của Ngài tồn tại đời đời.
+
+Thánh Ca XLI. Thi Thiên 135:1, 2
+
+Ôi, Hallelujah, hỡi các ngươi phục vụ Đức Chúa Trời mà chúng ta tôn thờ; Ôi, hãy chúc tụng Danh cao và vinh hiển Của Chúa Toàn Năng của chúng ta. Ôi, các ngươi được nhận vào như vậy Để đứng trong nhà Ngài, Và trong các sân thánh của Ngài tham dự Lời của mệnh lệnh Ngài.
+
+—— Thi Thiên 135:3, 4.
+
+Hãy ngợi khen Chúa vì Ngài là tốt lành; Hãy hát ngợi khen Danh Ngài; Vì thật ngọt ngào khi được sử dụng, Công bố lời ngợi khen của Ngài. Vì Đức Chúa Trời đã chọn cho chính Ngài Dòng dõi Gia-cốp yêu dấu, Và Y-sơ-ra-ên là kho báu chính Của ân điển đặc biệt của Ngài.
+
+—— Thi Thiên 135:5, 6.
+
+Vì tôi biết rõ Chúa là vĩ đại, Và Chúa này của chúng ta Vượt trên mọi thần, và có ngai của Ngài Trên mọi quyền tối cao. Lời Ngài đã tạo nên mọi sự lúc đầu, Ý muốn Ngài cai trị chúng; Tâm trí tối cao không bị kiểm soát của Ngài Trời, đất, và biển cả thực hiện.
+
+—— Thi Thiên 135:19–21.
+
+Hỡi nhà Y-sơ-ra-ên, hãy chúc tụng Chúa Với những người thuộc chi phái Lê-vi; Mọi người kính sợ Chúa một cách sùng kính Hãy dâng lời ngợi khen cho Ngài. Chúng ta tất cả nay trong các sân của Si-ôn Hãy ghi lại lời ngợi khen cao của Chúa, Đấng ngự tại Giê-ru-sa-lem: Hãy ngợi khen, hãy ngợi khen Chúa.
+
+Thánh Ca XLII. Theo Giai Điệu của Thi Thiên 67. Thi Thiên 136:1–3
+
+Hãy dâng lời tạ ơn Đức Chúa Trời, Vì Ngài rất tốt lành; Lòng thương xót chắc chắn của Ngài vẫn tồn tại, Và đã đứng vững đời đời. Đức Chúa Trời của các thần hãy công bố, Danh của Chúa của các chúa; Lòng thương xót chắc chắn của Ngài vẫn tồn tại, Đời đời như vậy.
+
+—— Thi Thiên 136:4–9.
+
+Đấng đã làm những điều kỳ diệu, Đã tạo nên đất và trời một mình; Lòng thương xót chắc chắn của Ngài vẫn tồn tại Đến mọi thời đại được biết đến. Đã ban cho mặt trời và mặt trăng ánh sáng của chúng, Để cai trị cả ngày và đêm; Lòng thương xót chắc chắn của Ngài vẫn tồn tại, Vì chúng là vô hạn.
+
+—— Thi Thiên 136:10–16.
+
+Đấng đã giết con đầu lòng của Ai Cập, Và từ đó dẫn Y-sơ-ra-ên của Ngài ra; Lòng thương xót chắc chắn của Ngài vẫn tồn tại, Và sẽ luôn như vậy. Đã dẫn họ qua biển đã rẽ, Và các sa mạc, những đường lối không biết; Lòng thương xót chắc chắn của Ngài vẫn tồn tại, Đáng lời ngợi khen đời đời.
+
+—— Thi Thiên 136:17–24.
+
+Đấng đã hủy diệt các vua nổi tiếng, Mà đất của họ Y-sơ-ra-ên hưởng; Lòng thương xót chắc chắn của Ngài vẫn tồn tại, Và đời đời còn lại. Trạng thái đã mất của chúng ta Ngài biết, Cứu chuộc chúng ta khỏi kẻ thù của chúng ta; Lòng thương xót chắc chắn của Ngài vẫn tồn tại, Một suối tuôn trào.
+
+—— Thi Thiên 136:25, 26.
+
+Đấng vẫn cung cấp thịt Mà mọi xác thịt có thể ăn; Lòng thương xót chắc chắn của Ngài vẫn tồn tại, Đời đời đầy đủ và vĩ đại. Vì vậy Đức Chúa Trời của thiên đàng Hãy tôn thờ với những suy nghĩ biết ơn; Lòng thương xót chắc chắn của Ngài vẫn tồn tại Từ nay trở đi cho đến đời đời.
+
+Thánh Ca XLIII. Thi Thiên 146:1–4
+
+Hãy hát Hallelujah, hỡi linh hồn tôi, Cho Vua Đời Đời; Phải, trong khi tôi có bất kỳ sự hiện hữu nào, Tôi sẽ hát lời ngợi khen của Ngài. Đừng tin cậy nơi các vua, dù vĩ đại đến đâu, Cũng đừng tin cậy nơi dòng dõi hay chết của con người, Mà quyền năng không đủ Để giúp các ngươi trong nhu cầu của mình. Vì hơi thở của hắn sớm ra đi, Khi ấy hắn trở về đất sét của mình, Và mọi mưu kế của lòng hắn Diệt vong trong ngày đó.
+
+—— Thi Thiên 146:5, 6.
+
+Hạnh phúc là người mà sự giúp đỡ chắc chắn Từ Đức Chúa Trời của Gia-cốp giáng xuống; Hạnh phúc gấp ba người mà hy vọng cố định Nương cậy vào Đức Chúa Trời, Đức Chúa Trời của mình. Đấng đã tạo nên đất, và khung cao của các tầng trời, Đấng đã tạo nên biển cả dâng trào, Và mọi thứ trong đó; Đấng luôn giữ lẽ thật.
+
+—— Thi Thiên 146:7, 8.
+
+Đấng vẫn tiến hành với sự phán xét đúng đắn Cho những người bị áp bức, Chăm sóc để những linh hồn đói được cho ăn; Và tù nhân được thả ra. [Đấng] nâng người cúi xuống; Ngài vui thích trong người công chính, Và yêu thương họ luôn luôn.
+
+—— Thi Thiên 146:9, 10.
+
+Người lạ và góa phụ Ngài bảo vệ, Nguyên nhân của trẻ mồ côi Ngài nhận, Nhưng về trạng thái thịnh vượng của tội nhân, Ngài lật nó ngược lại. Chúa sẽ trị vì đời đời; Đức Chúa Trời của ngươi, hỡi đồi Si-ôn, Sẽ trị vì đến mọi hậu thế; Ôi, hãy ngợi khen Ngài, hãy ngợi khen Ngài.
+
+Thánh Ca XLIV. Thi Thiên 147:1–3
+
+Hãy tôn cao Chúa, vì thật thích hợp Để hát lời ngợi khen phải cho Đức Chúa Trời của chúng ta, Vì công việc là ngọt ngào nhất, Và lời ngợi khen là một điều đẹp đẽ. Chúa xây dựng Giê-ru-sa-lem, Những người bị ruồng bỏ của Ngài Ngài khôi phục; Với sự an ủi chữa lành những tấm lòng tan vỡ, Và băng bó vết thương của họ.
+
+—— Thi Thiên 147:5, 6, 11.
+
+Sự khôn ngoan của Ngài không thể dò được, Quyền năng của Ngài không thừa nhận giới hạn; Ngài nâng những linh hồn khiêm nhường lên, Giày đạp tội nhân xuống đất. Niềm vui trọn vẹn của Chúa Luôn ở trong người công chính, Trong những người kính sợ Ngài một cách trung tín, Và tin cậy trong lòng thương xót của Ngài.
+
+—— Thi Thiên 146:8; 147:12–14.
+
+Chúa ban cho người mù thị lực của họ, [NEEDS REVIEW: một câu ở đây bị vỡ nát trong OCR.] Ôi, hãy ngợi khen Chúa, hỡi Giê-ru-sa-lem, Đức Chúa Trời của ngươi, hỡi Si-ôn, hãy ngợi khen, Đấng làm cho các thanh chắn của ngươi và củng cố chúng, Mà các cổng của ngươi Ngài giữ. Con cái của ngươi trong ngươi Ngài đã ban phước, Khiến các biên giới của ngươi bình an; Ngài đổ đầy ngươi với điều tốt nhất Của mọi sự tăng trưởng của đồng ruộng.
+
+—— Thi Thiên 147:19, 20.
+
+Các sắc lệnh thánh của môi Ngài Ngài đã tỏ cho Gia-cốp; Các luật lệ và phán quyết của Ngài Được biết cho Y-sơ-ra-ên được chọn. Ngài đã không đối xử thuận lợi như vậy Với bất kỳ đất nào khác, Họ cũng không biết các phán quyết của Ngài như vậy, Nguyện Chúa được tôn cao.
+
+Thánh Ca XLV. Thi Thiên 148:1–3
+
+Hallelujah, hãy ngợi khen Chúa Ngay từ các tầng trời cao, Và từ các độ cao công bố lời ngợi khen của Ngài, Trên bầu trời đầy sao; Mọi thiên sứ của Ngài bắt đầu lời ngợi khen của Ngài, Và mọi đạo binh quyền năng của Ngài; Hãy ngợi khen Ngài cả mặt trời và mặt trăng; hãy ngợi khen Ngài, Hỡi mọi ngôi sao của ánh sáng.
+
+—— Thi Thiên 148:4–10.
+
+Hỡi trời của các tầng trời và các dòng nước ở đó, Hãy ngợi khen Danh của Đấng Tạo Hóa của các ngươi, Vì bởi sắc lệnh vĩ đại của Ngài các ngươi Vẫn tiếp tục như vậy. Hãy ngợi khen Đức Chúa Trời từ đất, hỡi cá voi và vực sâu, Lửa, mưa đá, và gió bão, Đồi, cây, và gia súc, sâu bọ và chim, Mỗi loài theo loại của mình.
+
+—— Thi Thiên 148:11–13.
+
+Các vua của đất và dân chúng ở đó, Các hoàng tử và quan xét tất cả, Thanh niên, và trinh nữ ở khắp mọi nơi, Người già, và trẻ nhỏ: Ôi, nguyện họ ngợi khen Danh Vĩ Đại của Chúa, Vì điều đó vượt trội một mình; Vinh quang của Ngài ở trên khung Của đất, và ngai cao của các tầng trời.
+
+—— Thi Thiên 149:1, 2, 4, 5.
+
+Nhưng trên hết, nguyện các thánh đồ của Y-sơ-ra-ên Hát về Đấng Cứu Chuộc của họ, Và nguyện các con trai của đồi Si-ôn Vui mừng trong Vua của họ, Vì Đức Chúa Trời vui thích trong các thánh đồ của Ngài, Sẽ đội mão cho những đầu khiêm nhường, Vì vậy nguyện họ chiến thắng trong Ngài Và hát trên giường của họ.
+
+—— Thi Thiên 148:14.
+
+Vì Ngài tôn cao sừng của Y-sơ-ra-ên, Và nâng mọi thánh đồ của Ngài lên; Dân gần gũi và thân yêu với Ngài, Ôi, hãy dâng cho Chúa lời ngợi khen của Ngài.
+
+Thánh Ca XLVI. Thi Thiên 47:6, 7, 9
+
+Hãy hát ngợi khen Đức Chúa Trời, hãy hát ngợi khen với niềm vui, Hãy hát ngợi khen cho Vua của chúng ta, Vì Đấng Christ là Vua của cả thế gian, Hãy hát mọi lời ngợi khen khéo léo. Với tiếng reo vui Ngài đã lên Đến ngai đế vương của Ngài; Chúa chúng ta với tiếng kèn Đã về trời trong chiến thắng.
+
+—— Thi Thiên 2:8; 22:27.
+
+Theo lời thỉnh cầu của Ngài được ban cho Ngài Đặc quyền của sự sinh ra của Ngài, Vì các đất của dân ngoại sẽ thuộc về Ngài, Và các phần xa nhất trên đất. Các họ hàng của mọi dân tộc Sẽ thờ lạy trước mặt Ngài; Vì Ngài phải cai trị lớn và nhỏ; Mọi dân tộc đều là quyền của Ngài.
+
+—— Thi Thiên 72:2, 4, 6, 7, 11.
+
+Với sự công chính Ngài sẽ phán xét người nghèo, Giải phóng người bị áp bức, Như những cơn mưa rào xuống mặt đất khô cằn Sự thống trị của Ngài sẽ là. Người công chính sẽ nở rộ trong những ngày của Ngài, Và mọi sự sẽ bình an, Cho đến khi chính mặt trăng suy tàn, Và mọi chuyển động của nó chấm dứt.
+
+Phải, mọi vua và quyền cao hơn Sẽ quỳ trước ngai của Ngài. Mọi dân tộc và các nhà cầm quyền của họ Sẽ phục vụ một mình Vua này.
+
+—— Thi Thiên 72:18, 19.
+
+Hãy ngợi khen Chúa của các đạo binh, và hát Cho Đức Chúa Trời của Y-sơ-ra-ên mỗi người; Vì Ngài làm mọi điều kỳ diệu, Ngay cả chính Ngài một mình. Và phước cho Danh vinh hiển của Ngài Mọi thời đại đời đời; Nguyện đất được đổ đầy danh tiếng của Ngài; A-men, A-men, tôi nói.
+
+Thánh Ca XLVII. Thi Thiên 89:1, 19
+
+Lòng thương xót đời đời của Chúa Bài hát của tôi sẽ luôn bày tỏ; Miệng tôi đến các thời đại sẽ ghi lại Lẽ thật và sự thành tín của Ngài; Vì Ngài đã đặt sự giúp đỡ của chúng ta trên Một Hoàng Tử có quyền năng hùng mạnh; Một người được chọn Ngài đã nâng cao Để trở thành Đấng Cứu Rỗi.
+
+—— Thi Thiên 89:20, 21, 27–29.
+
+Với dầu thánh Ngài đã xức Đa-vít, người mà Ngài đã tìm thấy; Người được thắt lưng bằng sức mạnh cho công việc cứu rỗi, Đầu người được đội mão bằng vinh quang. Lòng thương xót qua Ngài được giữ cho chúng ta, Và các lời hứa là chắc chắn; Dòng dõi thánh của Ngài và ngai tối cao Đời đời sẽ tồn tại.
+
+—— Thi Thiên 89:30–34.
+
+Nhưng nếu dòng dõi của Ngài vi phạm các luật Và luật lệ của Đức Chúa Trời của họ, Khi ấy Ngài sẽ thăm viếng sự vi phạm của họ Với một cây gậy sửa phạt. Tuy nhiên Ngài sẽ không hoàn toàn rút lại tình yêu của Ngài, Cũng không để lời hứa của Ngài phai nhạt; Giao ước của Ngài Ngài sẽ không bao giờ phá vỡ, Cũng không thay đổi điều Ngài đã phán.
+
+—— Thi Thiên 89:35, 52.
+
+Đã xác nhận nó bằng một lời thề, Một lời thề thánh và cao; Những người trung tín của Ngài được đảm bảo tốt Ngài sẽ không, không thể nói dối. Phước đời đời cho Chúa, Và phước cho Đức Chúa Trời một lần nữa; Và nguyện Hội Thánh với một lòng Vang lên A-men, A-men.
+
+Thánh Ca XLVIII. Thi Thiên 110:1–3
+
+[Chúa] đã phán với Chúa tôi như vậy, Hãy ngồi bên tay hữu Ta, Cho đến khi Ta khiến các kẻ thù bị đánh bại của ngươi Phục tùng mệnh lệnh của ngươi. Đức Chúa Trời sẽ từ Si-ôn sai cây gậy đó Trong đó sức mạnh của ngươi xuất hiện; Dân Ngài trong ngày quyền năng đó Sẽ tất cả là những người tình nguyện.
+
+Được lay động bởi vẻ đẹp của Hội Thánh Ngài Những người mới cải đạo trẻ tuổi khi ấy sẽ đến, Nhiều như những viên ngọc sương Rơi xuống từ lòng của buổi sáng.
+
+—— Thi Thiên 110:4–7.
+
+Chúa đã thề một lời thề trang trọng, Mà Ngài sẽ không bao giờ phá vỡ, Ngài là một Thầy Tế Lễ đời đời, Như đã từng là Mên-chi-xê-đéc. Và được nâng lên ngai của Ngài như vậy, Các vua chống đối triều đại của Ngài Với mọi quyền lực dân ngoại đối nghịch Sẽ diệt vong như kẻ thù của Ngài.
+
+Vì Ngài sẽ hạ mình nếm trải Dòng suối trên đường; Như vậy Chúa sẽ ngẩng đầu Ngài lên Để chiến thắng và cai trị.
+
+—— Khải Huyền 5:12, 9, 13.
+
+Vì vậy cho Ngài, hỡi Chiên Con của Đức Chúa Trời, Sự giàu có và quyền năng thuộc về, Sự khôn ngoan và tôn trọng, vinh quang, sức mạnh, Và mọi bài hát ngợi khen. Ngài như của lễ của chúng ta đã bị đặt xuống, Và bởi huyết quý báu của Ngài, Từ mọi lưỡi và dân tộc đã Chuộc chúng ta cho Đức Chúa Trời.
+
+Phước lành và tôn trọng, vinh quang, quyền năng Từ mọi người trên đất và trên trời, Cho Đấng ngồi trên ngai, Và cho Chiên Con được ban.
+
+Các Thánh Ca Cho Một Số Dịp Đặc Biệt, Thích Hợp Để Hát Sau Bữa Ăn
+
+Thánh Ca XLIX. Thi Thiên 104:24, 27, 28
+
+Ôi, nhiều biết bao các công việc của Ngài, hỡi Chúa, Tất cả được soạn trong sự khôn ngoan? Trái đất bởi Ngài được lưu trữ giàu có Với các kho báu được bao bọc ở đó. Mọi tạo vật đều chờ đợi Ngài, Và đứng như những người mong đợi, Để có thức ăn đúng mùa của chúng Từ bàn tay phân phát của Ngài. Điều mà Ngài ban cho như Ngài thấy tốt nhất, Chúng thu thập cho thức ăn của chúng; Bàn tay rộng rãi của Ngài Ngài mở ra, Và chúng được đổ đầy với điều tốt.
+
+—— Thi Thiên 104:14, 15.
+
+Vì gia súc Ngài khiến cỏ mọc lên, Và các loại thảo mộc cho sự sử dụng riêng của con người; Thức ăn thuận tiện cho mọi thứ Ngài khiến đất sản xuất, Để làm vui lòng con người, đất màu mỡ Mang ra nho cho rượu, Bánh củng cố lòng, và dầu quý giá, Làm cho khuôn mặt của nó sáng lên.
+
+—— Thi Thiên 22:26; 103:22.
+
+Người nhu mì sẽ ăn và được thỏa mãn, Và những người cố gắng Biết Chúa, sẽ ngợi khen Danh Ngài, Lòng các ngươi sẽ sống đời đời. Ôi, hãy chúc tụng Chúa, hỡi các công việc của Ngài, Mà thế gian được lưu trữ, Bất cứ nơi nào sự thống trị của Ngài, Hỡi linh hồn tôi, hãy chúc tụng Chúa.
+
+Thánh Ca L. [Cho cùng dịp.] Thi Thiên 145:1, 2, 9
+
+Danh Thánh của Ngài tôi sẽ nâng cao, Vua và Đức Chúa Trời của tình yêu của tôi; Tôi sẽ chúc tụng Ngài nay, đó sẽ là công việc của tôi Đời đời ở trên. Chúa rất tốt lành với mọi người, Như chúng ta thấy hằng ngày, Vì mọi công việc của Ngài ở mọi nơi Nếm thử lòng thương xót nhân từ của Ngài.
+
+—— Thi Thiên 145:10, 15, 16.
+
+Vì vậy từ mọi công việc của Ngài Ngài nhận Những cống phẩm của lời ngợi khen; Nhưng các thánh đồ hơn nữa với lòng biết ơn Dâng sự thờ lạy của họ. Mọi tạo vật đều mong đợi từ Ngài Nguồn cung cấp thức ăn phải, Lòng rộng rãi mở tay của Ngài đổ đầy Mọi mong muốn của chúng với điều tốt.
+
+—— Thi Thiên 40:11; 111:9.
+
+Đặc biệt cho những người kính sợ Danh Ngài Ngài ban thịt dồi dào, Ngài sẽ nhớ đến Giao ước của Ngài đời đời. Họ sẽ không hổ thẹn trong những điều xấu, Cũng không cúi đầu rũ xuống; Khi nạn đói trở lại họ sẽ không thiếu, Nhưng được thỏa mãn với bánh.
+
+—— Thi Thiên 145:21.
+
+Miệng biết ơn của tôi sẽ được sử dụng Để công bố lời ngợi khen của Đức Chúa Trời; Nguyện cả thế gian tôn thờ quyền năng của Ngài, Và luôn chúc tụng Danh Ngài.
+
+Thánh Ca LI. [Thích hợp để hát tại việc dạy giáo lý gia đình.] Thi Thiên 34:11–14; 2 Cô-rinh-tô 13:11
+
+[NEEDS REVIEW: khổ thơ đầu của Thánh Ca LI bị vỡ nát trong OCR — chỉ còn lại các mảnh: "Kính sợ Đức Chúa Trời đời đời", "Người nào muốn sống lâu và dẫn một đời sống phước hạnh", "Hãy kiềm chế lưỡi vội vàng của ngươi khỏi mọi sự lừa dối và tranh cãi", "Hãy tránh xa điều ác và làm điều tốt, tìm kiếm bình an, và theo đuổi bình an; hãy cùng một tâm trí, và ở trong tình yêu, và Đức Chúa Trời sẽ ở với các ngươi."]
+
+—— Thi Thiên 2:11; [Thi Thiên 119:9].
+
+Hãy xem các ngươi tự sử dụng mình Trong sự phục vụ thật của Đức Chúa Trời ở đây; Hỡi các con cái, với một lòng sẵn sàng Hãy lắng nghe lời của tôi, Tôi sẽ hướng dẫn các ngươi điều đó là gì [Để kính sợ Chúa]. Hãy luôn trộn sự run rẩy với niềm vui của các ngươi, Và thờ lạy Ngài trong sự kính sợ.
+
+Vì làm sao thanh niên sẽ thanh tẩy đường lối của họ, Để bước đi trước mặt Chúa? Chắc chắn bằng cách chú ý đến đó Theo Lời Ngài.
+
+—— Phần Thứ Hai. Thi Thiên 90:16; 102:28.
+
+[NEEDS REVIEW: câu đầu của Phần Thứ Hai bị vỡ nát trong OCR — về việc tỏ ra công việc phước hạnh của Đức Chúa Trời cho các đầy tớ Ngài và cho con cái mềm mại của họ.] Và nguyện các con cái mềm mại của họ cũng vậy Biết ân điển và vinh quang của Ngài. Như vậy dòng dõi vui mừng của các đầy tớ Ngài Trong trạng thái hạnh phúc sẽ còn lại, Và dòng dõi phước hạnh của hông họ Ân điển của Ngài sẽ nâng đỡ.
+
+—— Thi Thiên 22:30, 31.
+
+Và như vậy một dòng dõi sẽ phục vụ Chúa Được tính và biết trước, Một thế hệ của Chúa Mà chính Ngài sở hữu. Họ sẽ trỗi dậy với niềm vui để kể lại Sự công chính của Ngài cho những người Sẽ được sinh ra khi chúng ta đã đi Rằng Đức Chúa Trời đã sắp đặt như vậy.
+
+—— Thi Thiên 89:29.
+
+Và như vậy dòng dõi thuộc linh của Đa-vít Sẽ được khiến tồn tại luôn luôn: Và ngai đã thành lập của Ngài sẽ còn lại Như những ngày đời đời của trời.
+
+Thánh Ca LII. [Thích hợp để hát khi một đứa trẻ được sinh ra trong gia đình.] Thi Thiên 128:1–3
+
+Phước thay người kính sợ Chúa, Và vì vậy vâng lời Ngài, Người giữ chân mình trong các đường lối Của các đường Ngài đã quy định. Ngươi sẽ ăn với niềm vui vị ngọt Của những gì đau khổ của ngươi đã có; Sự thịnh vượng Sẽ mạ vàng những ngày của ngươi, Và đội mão cho số phận hạnh phúc của ngươi. Vợ ngươi sẽ như cây nho lan rộng Với trái chọn lọc nhất dồi dào; Con cái của ngươi như cây ô-liu xanh Trang điểm quanh bàn của ngươi.
+
+—— Thi Thiên 127:3–5.
+
+Vì con cái là một cơ nghiệp Đến từ Chúa; Và phần thưởng của Ngài bởi hôn nhân Là mỗi lòng mẹ màu mỡ, Như những mũi tên phù hợp với cung Ở trong tay người mạnh mẽ; Vì vậy con cái của tuổi trẻ đang lớn Đứng là vinh quang của cha mẹ họ.
+
+Người đó hưởng một trạng thái hạnh phúc Mà ống tên của mình được cung cấp như vậy; Người đó không cần sợ khi nào nguyên nhân của mình Sẽ được thử trong cổng.
+
+—— Thi Thiên 107:41; 113:9.
+
+Như vậy Đức Chúa Trời đặt người nghèo lên cao, Và giữ khỏi mọi tổn hại, Và nhân lên gia đình của người Như một bầy chiên. Người vợ cô đơn Ngài khiến Một người giữ nhà được lưu trữ tốt, Với niềm vui để nuôi dạy dòng dõi trung tín của nàng; Vì vậy hãy ngợi khen Chúa.
+
+Thánh Ca LIII. [Thích hợp để hát khi sự chết ở trong gia đình, hoặc trong gia đình của bất kỳ người hàng xóm hoặc người thân nào.] Thi Thiên 102:11; 103:16
+
+Những ngày mà đời sống của tôi trôi qua Giống như bóng buổi tối, Và tôi giống như cỏ héo úa Mà đột ngột héo tàn: Vì nó đã đi và cũng nhanh chóng, Khi một cơn gió lạnh lùng đi qua, Và sau đó nơi mà nó đã lớn lên Sẽ không bao giờ biết nó nữa.
+
+—— Thi Thiên 39:4–6.
+
+Hỡi Chúa, xin khiến tôi hiểu sự kết thúc của tôi Và ngày không chắc chắn của những ngày của tôi, Để tôi có thể rõ ràng hiểu Sự yếu đuối của trạng thái của tôi, Kìa, Ngài đã giảm các ngày của tôi Xuống một khoảng hẹp; Tuổi của tôi đối với Ngài như không là gì, Con người tốt nhất cũng là hư không. Người thế gian bước đi trong một sự hư không, Vex và lao động trong sự hư không; Hắn chất đống của cải, nhưng không biết Nó sẽ thuộc về ai.
+
+—— Phần Thứ Hai. Thi Thiên 39:7, 8.
+
+Và nay, hỡi Chúa, tôi chờ đợi điều gì, Những hy vọng này là gì tốt nhất? Hy vọng của tôi chỉ ở nơi Ngài, hỡi Chúa, Linh hồn tôi an nghỉ nơi Ngài. Xin bẻ gãy những dây của tội lỗi và cảm giác tội lỗi, Mà linh hồn tôi bị trói buộc; Xin cho tôi không trở thành sự chế nhạo của những kẻ ngu, Những người chế nhạo lòng mộ đạo.
+
+—— Thi Thiên 39:9, 11.
+
+Khi Ngài loại bỏ những sự an ủi của tôi Tôi đã không nói gì nhưng đã im lặng, Vì tôi biết những đau khổ của tôi, hỡi Chúa, Từ bàn tay tốt lành của Ngài đã đến. Khi Ngài sửa phạt con người vì tội lỗi, Vẻ đẹp của hắn phai nhạt và chết Như quần áo bị sâu bướm ăn mòn; Chắc chắn mọi người đều là hư không.
+
+—— Thi Thiên 39:12, 13.
+
+Trạng thái đau buồn của tôi, hỡi Chúa, hãy đoái xem, Và lắng nghe tiếng kêu của tôi; Tôi là một người lạ ở đây trên đất Như mọi tổ phụ của tôi đã từng. Ôi, xin tha thứ cho tôi, hỡi Chúa, và cho tôi không gian, Khôi phục sức mạnh và bình an của tôi, Trước khi tôi ra đi khỏi đây, Và sẽ không còn được thấy nữa.
+
+Thánh Ca LIV. [Cho cùng dịp.] Thi Thiên 90:1–4
+
+Hỡi Chúa, Ngài đã là trong những thay đổi đã qua Nơi trú ẩn và nơi ở của chúng ta; Từ đời này sang đời khác, vượt qua mọi thời gian Ngài là Đức Chúa Trời đời đời. Khi Ngài gọi con người trở về bụi đất, Hắn không thể ở lại lâu hơn, Một ngàn năm ở trong mắt Ngài Đã qua như ngày hôm qua.
+
+—— Thi Thiên 90:5–9.
+
+Được quét đi bởi một dòng thác vội vàng Như một giấc mơ hư không chúng ta trôi qua, Nảy lên, và lớn lên, và héo tàn sớm Như cỏ ngắn ngủi. Vì trong cơn thịnh nộ của Ngài những ngày tội lỗi của chúng ta Hướng đến một kết thúc nhanh chóng. Những năm của chúng ta, bởi chúng ta không chú ý, như Một câu chuyện lười biếng kết thúc.
+
+—— Thi Thiên 90:10, 12, 14.
+
+Tuổi của chúng ta được đặt đến bảy mươi năm, Hoặc nếu chúng ta đạt đến Tám mươi năm, tất cả chỉ là nỗi buồn, Chúng ta thà chết hơn sống. Hỡi Chúa, xin dạy chúng ta nghệ thuật tôn giáo này Của việc đếm các ngày của chúng ta, Để chúng ta có thể áp dụng lòng mình Vào các đường lối của sự khôn ngoan thánh. Ôi, xin đổ đầy chúng con sớm với ân điển của Ngài, Để chúng con có thể vui mừng, Và mọi ngày của chúng con, đến hơi thở cuối cùng, Chiến thắng trong lòng và giọng nói.
+
+Thánh Ca LV. [Lời cầu nguyện cho Hội Thánh của Đức Chúa Trời, và cho quốc gia.] Thi Thiên 74:12; 44:4; 7:9
+
+Hỡi Chúa, Ngài là Vua của Y-sơ-ra-ên từ xưa, Đấng đã mang sự cứu rỗi đến; Xin truyền lệnh Rằng sự giải cứu nay có thể được thực hiện cho Gia-cốp. Nguyện tội lỗi của kẻ tội lỗi đến một sự kết thúc, Nhưng hãy thiết lập một cách vững chắc Những người công chính, hỡi Đức Chúa Trời công chính, Đấng thử lòng và thận.
+
+—— Thi Thiên 85:5, 9; 80:3.
+
+Nguyện sự cứu rỗi của Ngài ở gần Những người kính sợ Ngài, Để vinh quang có thể trang điểm đất của chúng ta, Và là một cư dân ở đó. Xin quay chúng con, hỡi Đức Chúa Trời, trở về với Ngài, Vì chúng con đã lạc lối quá lâu; Xin khiến mặt Ngài chiếu sáng trên chúng con, Và chúng con sẽ được bảo vệ.
+
+—— Thi Thiên 126:4–6.
+
+Các hội thánh bị bắt của Ngài, hỡi Chúa, hãy khôi phục Như các dòng suối ở các vùng phía nam; Vì những người gieo trong nước mắt chắc chắn Sẽ gặt với lòng vui mừng. Người mang hạt giống quý giá của mình ra, Và để lại nước mắt phía sau mình, Sẽ trở lại với niềm vui, không nghi ngờ, Và mang theo các bó lúa của mình.
+
+—— Thi Thiên 14:6.
+
+Ôi, nguyện sự cứu rỗi ngọt ngào khi ấy Mà Y-sơ-ra-ên vẫn chờ đợi, Đã hoàn toàn đến với mọi người tốt, Từ đồi Si-ôn. Khi Đức Chúa Trời quay sự nô lệ của dân Ngài Sự tự do đó một khi đã có, Khi ấy Gia-cốp sẽ vui mừng vì đã than khóc, Và Y-sơ-ra-ên sẽ vui mừng.
+
+Thánh Ca LVI. Thi Thiên 133. [Thường được hát trong các gia đình.]
+
+Các gia đình hạnh phúc trên đất Giống với gia đình ở trên, Nơi anh em hòa hợp một cách hòa bình Trong sự đồng ý ngọt ngào và tình yêu. Nó giống như dầu quý giá đổ xuống Trên đầu thánh của A-rôn, Mà xuống mặt và quần áo giàu có của người Lan tỏa hương thơm của nó.
+
+Nó như sương mà những đám mây tan chảy Nhỏ giọt trên đỉnh Hẹt-môn, Hoặc những cơn mưa màu mỡ mà các tầng trời để rơi Trên đồi thánh của Si-ôn.
+
+Vì tại đó Đức Chúa Trời của tình yêu ra lệnh Và đổ ra các phước lành dồi dào, Những sự an ủi của đời sống hiện tại này, Và sự sống đời đời.
+
+Bốn Thánh Ca Ngợi Khen, Hát Theo Giai Điệu của Thi Thiên 100
+
+Thánh Ca LVII. Thi Thiên 9:1, 7, 8
+
+Với cả lòng tôi tôi sẽ chúc tụng Ngài, hỡi Chúa, Và công bố mọi công việc quyền năng của Ngài, Niềm vui của tôi trong Ngài sẽ đổ đầy linh hồn tôi, Trong khi tôi hát ngợi khen Danh Ngài. Đức Chúa Trời Toàn Năng Hằng Sống Đã đặt ngai của Ngài trong Ánh Sáng Thiên Đàng, Khi Ngài xuất hiện để phán xét thế gian Phán quyết của Ngài sẽ công chính và đúng đắn.
+
+—— Thi Thiên 9:10, 11, 14.
+
+Mọi người biết Danh thành tín của Ngài Sẽ đặt hy vọng và sự tin cậy của họ nơi Ngài; Vì Ngài chưa bao giờ, hỡi Chúa, bỏ rơi Bất kỳ ai đã tìm kiếm mặt Ngài một cách đúng đắn. Hãy hát ngợi khen Đấng Thánh, Đấng đã phán Ngài sẽ ngự trong Si-ôn; Vì vậy trong các cổng của con gái Si-ôn Với niềm vui hãy kể lại sự cứu rỗi vĩ đại của Ngài.
+
+—— Thi Thiên 130:7, 8.
+
+Chúng ta hãy nương cậy chỉ một mình Đức Chúa Trời, Vì với Ngài có lòng thương xót phong phú, Và sự cứu chuộc đầy đủ khỏi mọi tội lỗi Ngài ban cho dân Ngài với ân điển dồi dào.
+
+Thánh Ca LVIII. Thi Thiên 45:2–4
+
+Hỡi Vua Vinh Hiển, hình thức thiêng liêng của Ngài [Vượt qua] mọi vẻ đẹp trần gian; Vào môi Ngài mọi ân điển được đổ ra, Trên Ngài các phước lành đời đời tuôn đổ. Hãy thắt gươm của Ngài, và trong quyền năng Ngài Vì [lẽ thật] và công lý chiến đấu, Để cả thế gian có thể hiểu Sự kinh hoàng của bàn tay chinh phục của Ngài.
+
+—— Thi Thiên 45:6, 7.
+
+Ngai của Ngài, hỡi Đức Chúa Trời, vẫn tồn tại Một vương trượng công chính và tinh khiết nhất. [Sự gian ác] Ngài ghét bỏ. [Sự công chính] Ngài yêu thích nhất. Và vì vậy Đức Chúa Trời, Đức Chúa Trời của Ngài đã đổ Dầu vui mừng như vậy trên đầu Ngài, Như đã ưu tiên Ngài xa hơn Các thiên sứ cao nhất đời đời.
+
+—— Thi Thiên 45:9, 11, 13, 17.
+
+Nữ hoàng và các người hầu của nàng đứng Để thờ lạy Ngài, bên tay hữu Ngài. Áo của nàng bằng vàng đã dệt được thấy, Nhưng mọi vinh quang của nàng ở trong. Trong mọi thời gian kế tiếp Danh Ngài Sẽ được bảo tồn với danh tiếng bền lâu: Trong khi những người theo dõi vui mừng sẽ đội mão Với lời ngợi khen vô tận danh tiếng cao của Ngài.
+
+Thánh Ca LIX. Thi Thiên 46:1, 2
+
+Đức Chúa Trời là nơi trú ẩn và sự bảo vệ của chúng ta, Hy vọng của chúng ta ở trong sự quan phòng của Ngài, Mà vẫn cung cấp một sự trợ giúp hiện tại, Khi những rắc rối lớn nhất xâm nhập. Vì vậy chúng ta sẽ không cần sợ hãi, Không, dù trái đất bị dời đi: Hoặc dù các đồi và núi dốc Nằm bị chôn vùi trong vực sâu giận dữ.
+
+—— Thi Thiên 46:3–5.
+
+Dù các dòng nước hung dữ khiến Các núi với sự dâng cao [rung chuyển]; Tuy nhiên các dòng sông bình lặng ôm ấp Thành của Đức Chúa Trời, nơi ở công bằng của Ngài. Mà các đền tạm của Ngài bởi tình yêu của Ngài Được giữ để chúng không bao giờ di chuyển; Vì Ngài, trong những thời gian khốn khổ lớn Bởi sự cứu giúp sẽ giải quyết.
+
+—— Thi Thiên 46:7, 9–11.
+
+Cơn bão đe dọa Ngài [làm lặng], Và là sức mạnh và lời ngợi khen của dân Ngài. Ngài khiến sự tranh chấp và chiến tranh chấm dứt, Và đội mão cho trái đất run rẩy với bình an. Đây là Đức Chúa Trời của chúng ta, mà quyền cai trị đáng sợ Cả trời và đất vẫn phải vâng theo. Chúa của các đạo binh ở với dân Ngài, Và Đức Chúa Trời của Gia-cốp được biết là nơi trú ẩn của họ.
+
+Thánh Ca LX. Thi Thiên 93:1, 2
+
+Chúa cai trị, và như một Vua, Mặc áo choàng của Ánh Sáng Vinh Hiển: Hãy run rẩy, hỡi trái đất, khi Ngài xuất hiện Mặc và thắt lưng với quyền năng vô biên. Dưới sự cai trị của Ngài [toàn] thế gian Sẽ đạt được sự thành lập và bình an; Từ xưa đế quốc của Ngài đã bắt đầu, Và, như chính Ngài, sẽ không bao giờ chấm dứt.
+
+—— Thi Thiên 93:3, 4.
+
+Vô ích quyền lực nổi loạn của thế gian Trong những cuộc náo động và xáo trộn trỗi dậy, Như những dòng lũ giận dữ dâng cao Và thách thức các tầng trời. Chúa trên cao quyền năng hơn nhiều So với mọi tiếng ồn lớn và đe dọa này; Và những con sóng unruly kiêu ngạo của biển Được làm lặng bởi giọng nói ra lệnh của Ngài.
+
+—— Thi Thiên 93:5.
+
+Hỡi Chúa, như quyền năng của Ngài không bao giờ thất bại, Vì vậy mọi lời hứa của Ngài đều chắc chắn. Như sự trọn vẹn của Ngài [là] chân thật, Và của những người phục vụ Ngài là tinh khiết.
+
+FINIS.
+
+TRANSLATION STATUS
+
+- Nguyên tác: Family-Hymns (London: Tho. Parkhurst, 1695) — Matthew Henry (1662–1714), tác giả bản giải thích Kinh Thánh nổi tiếng. - Nguồn dịch: bản scan EEBO / archive.org (`bim_early-english-books-1641-1700_family-hymns_henry-matthew_1695_djvu.txt`), 16,372 chữ Anh OCR, 4,662 dòng. - Phạm vi: dịch toàn văn tác phẩm thật — Lời Tựa (Epistle to the Reader) + 60 thánh ca (Thánh Ca I–LX) + FINIS. Trang tiêu đề được khôi phục từ các mảnh OCR và ghi chú [NEEDS REVIEW]. Danh mục sách của nhà in Parkhurst sau FINIS đã được loại bỏ vì là quảng cáo. - Số lượng thánh ca: OCR ghi "Hymn LIX" ở cuối, nhưng phần "Bốn Thánh Ca Ngợi Khen" thực sự chứa bốn bài (LVII–LX); tổng cộng là 60 thánh ca. Số La Mã trong OCR bị sai lệch/duplicated nhiều chỗ (XVI hai lần, XX*/XXL/XXTII, v.v.) — bản dịch đánh số tuần tự theo thứ tự trong sách, không theo số OCR. - Chất lượng OCR: bản scan OCR bị hỏng nặng ở nhiều chỗ (trang tiêu đề, Errata, nhiều khổ thơ). Mọi chỗ khôi phục không chắc chắn đều được đánh dấu [NEEDS REVIEW] tại chỗ, và các khổ thơ mất hoàn toàn được ghi rõ là không khôi phục được thay vì bịa ra. Các trích dẫn Thi Thiên trong tiêu đề mỗi thánh ca được giữ nguyên theo bản gốc. - Thuật ngữ: áp dụng bảng thuật ngữ cố định của thư viện (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). Các trích dẫn Kinh Thánh được dịch theo văn phong Việt ngữ 1934. - Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt).
+
+TERMINOLOGY ISSUES
+
+- Các chỗ đánh dấu [NEEDS REVIEW] trong bản dịch: xem số lượng ở cuối báo cáo. Nhóm chính: 1. Trang tiêu đề — khôi phục từ các mảnh OCR ("Family-Hymns. [Translations of David's Psalms, gather'd (mostly) out of the Psalms]"), nhà in Tho. Parkhurst, 1695; các đề từ Latinh bị vỡ nát. 2. Errata — phần còn lại sau ~15 mục đầu không khôi phục được (OCR vỡ nát). 3. Lời Tựa — năm ký tên (1694/5); số thư của Augustine (109 hay 119); một vài tên tác giả Latinh bị vỡ nát. 4. Thánh Ca VII — vài dòng bị vỡ nát (bánh của sự lo lắng; khôi phục "quý hơn mọi của cải bất chính"; "không bị hủy hoại bởi sự vấp ngã"). 5. Thánh Ca VIII — một khổ thơ chỉ còn mảnh ("Đức Chúa Trời là phần của tôi", "sự quan phòng nhân từ", "các phước lành") + một dòng bị vỡ trong khổ đầu. 6. Thánh Ca X — vài dòng bị vỡ (khôi phục Thi Thiên 130:3; khổ thơ về tội kiêu ngạo phần lớn đã mất). 7. Thánh Ca XVII — một khổ thơ bị xáo trộn nặng (Thi Thiên 119:147–148; 130:6; 63:5, 7) — dịch theo ý chính khôi phục được. 8. Thánh Ca XIX (Thi Thiên 116) — hai dòng về dâng của lễ ngợi khen và tạ ơn bị vỡ nát. 9. Thánh Ca XX (Thi Thiên 138) — câu kết về Thi Thiên 27:14 ("Hãy chờ đợi Chúa") bị vỡ nát. 10. Thánh Ca XXIII (Thi Thiên 65) — hai dòng bị vỡ nát (về được dẫn dắt trong tình yêu trước khi trời sáng — khôi phục theo Thi Thiên 143:8). 11. Thánh Ca XXVI (Thi Thiên 84) — vài dòng bị vỡ nát trong khổ đầu và khổ thứ hai. 12. Thánh Ca XXXIII (Thi Thiên 119) — một dòng bị vỡ nát trong khổ cuối. 13. Thánh Ca XL (Thi Thiên 115) — khổ thơ đầu bị vỡ nát; chỉ còn Thi Thiên 107:21. 14. Thánh Ca XLIV (Thi Thiên 147) — một dòng bị vỡ nát giữa khổ về Thi Thiên 146:8. 15. Thánh Ca LI (Giáo lý gia đình) — khổ thơ đầu bị vỡ nát (chỉ còn mảnh); câu đầu Phần Thứ Hai bị vỡ nát. 16. Thánh Ca LVIII (Thi Thiên 45) — hai dòng bị vỡ nát ("vượt qua mọi vẻ đẹp trần gian"; "[lẽ thật] và công lý"; "[sự gian ác]... [sự công chính]..."). 17. Thánh Ca LIX (Thi Thiên 46) — hai dòng bị vỡ nát ("[rung chuyển]"; "[làm lặng]"). 18. Thánh Ca LX (Thi Thiên 93) — hai dòng bị vỡ nát ("[toàn] thế gian"; "[là] chân thật"). - Ghi chú dịch thuật: "Psaltry" trong bản gốc được dịch là "đàn Psaltery". "JAH" (Thi Thiên 68:4) được giữ nguyên. Các tên riêng trong Lời Tựa (Patrick, Barton, Bishop King, Mr. Smith, Dr. Ford, Mr. Baxter, Sternhold & Hopkins) được giữ nguyên. Một số câu trong OCR bị ngắt dòng giữa chừng đã được nối lại theo mạch văn và đánh dấu [NEEDS REVIEW] khi không chắc chắn.
+
+Mở trong trình đọc Về thư viện
