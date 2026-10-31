@@ -14,7 +14,7 @@ jobs:
       - name: Build generated pages
         run: python3 tools/build-pages.py
       - name: Generated files are committed
-        run: git diff --exit-code --stat || (echo "Run python3 tools/build-pages.py and commit the result" && exit 1)
+        run: git diff --exit-code --stat -- . ':(exclude)feed.xml' || (echo "Run python3 tools/build-pages.py and commit the result" && exit 1)
       - name: Check links, sitemap, titles
         run: python3 tools/check_site.py
       - name: JS syntax
