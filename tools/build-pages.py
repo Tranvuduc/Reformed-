@@ -16,18 +16,18 @@ def slug(s):
     s = "".join(c for c in s if not unicodedata.combining(c)).lower()
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:70]
 
-CSS_CRIT = (":root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf7;--line:#e3d3b6}"
-       "@media (prefers-color-scheme:dark){:root{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--accbtn:#b45a26;--card:#241f17;--line:#3a3325}}"
-       "html[data-theme=dark]{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--accbtn:#b45a26;--card:#241f17;--line:#3a3325}"
-       "html[data-theme=light]{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf7;--line:#e3d3b6}")
+CSS_CRIT = (":root{--bg:#f4efe4;--fg:#1d2430;--mut:#5a5f68;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf8;--line:#e0d8c6}"
+       "@media (prefers-color-scheme:dark){:root{--bg:#14171c;--fg:#ece7dc;--mut:#9a9ea6;--acc:#e58a5b;--accbtn:#e58a5b;--card:#1c2027;--line:#2c323b}}"
+       "html[data-theme=dark]{--bg:#14171c;--fg:#ece7dc;--mut:#9a9ea6;--acc:#e58a5b;--accbtn:#e58a5b;--card:#1c2027;--line:#2c323b}"
+       "html[data-theme=light]{--bg:#f4efe4;--fg:#1d2430;--mut:#5a5f68;--acc:#9a3412;--accbtn:#9a3412;--card:#fffdf8;--line:#e0d8c6}")
 _CSS_REST = (
        "body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 'Noto Serif',Georgia,serif}main{max-width:46rem;margin:0 auto;padding:24px 18px 60px}"
-       "a{color:var(--acc)}nav.top{font:14px system-ui,sans-serif;margin-bottom:18px}h1{font-size:1.9rem;line-height:1.2;margin:.2em 0 .5em}"
+       "a{color:var(--acc)}nav.top{display:flex;flex-wrap:wrap;align-items:center;gap:2px;font-size:0;margin-bottom:18px;padding:14px 0;border-bottom:1px solid var(--line)}nav.top a{font:500 .92rem system-ui,sans-serif;white-space:nowrap;padding:7px 11px;border-radius:999px;color:var(--mut);text-decoration:none}nav.top a:hover{color:var(--fg);background:rgba(128,128,128,.12)}nav.top a:first-child{font-family:Fraunces,Newsreader,Georgia,serif;font-weight:700;font-size:1.3rem;color:var(--fg);padding:7px 11px 7px 0;margin-right:auto;letter-spacing:-.01em}nav.top a:first-child::before{content:"";display:inline-block;width:10px;height:22px;background:var(--acc);border-radius:2px;margin-right:8px;vertical-align:-3px}h1{font-size:1.9rem;line-height:1.2;margin:.2em 0 .5em}"
        "ul{padding-left:1.1em}li{margin:.5em 0}small,.m{color:var(--mut);font:14px system-ui,sans-serif}.btn{display:inline-block;background:var(--accbtn);color:#fff;"
        "padding:8px 16px;border-radius:8px;text-decoration:none;font:600 15px system-ui,sans-serif;margin:4px 6px 4px 0}.btn.s{background:none;color:var(--acc);border:1px solid var(--acc)}"
        ".shr{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:28px 0 0;font:14px system-ui,sans-serif}.shr span{color:var(--mut)}.shr a,.shr button{border:1px solid var(--acc);color:var(--acc);background:none;border-radius:8px;padding:6px 12px;font:600 14px system-ui,sans-serif;text-decoration:none;cursor:pointer}.shr a.fb{background:#1877f2;border-color:#1877f2;color:#fff}"
        "footer{margin-top:40px;font:13px system-ui,sans-serif;color:var(--mut)}"
-       "#th{border:1px solid var(--acc);color:var(--acc);background:none;border-radius:8px;padding:4px 10px;font:600 13px system-ui,sans-serif;cursor:pointer;margin-left:6px}"
+       "#th{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:8px;padding:7px 12px;font:500 .85rem system-ui,sans-serif;cursor:pointer;margin-left:6px}"
        ".bk-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin:12px 0}"
        ".bk-card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;min-width:0}"
        ".bk-main{display:flex;flex-direction:column;flex:1;text-decoration:none;color:inherit}"
@@ -46,7 +46,7 @@ _CSS_REST = (
        ".bk-filter select{padding:9px 10px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--fg);font:14px system-ui,sans-serif;max-width:11rem}"
        ".bk-count{font:13px system-ui,sans-serif;color:var(--mut);white-space:nowrap}"
        ".rel{margin:.6em 0;font-size:.92rem}.rel a{display:inline-block;margin:0 8px 6px 0;padding:4px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;font-size:.85rem}"
-       "@media(max-width:600px){.bk-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}}")
+       "@media(max-width:600px){.bk-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}nav.top a{font-size:.84rem;padding:6px 9px}nav.top a:first-child{font-size:1.1rem}}")
 CSS = CSS_CRIT + _CSS_REST
 with open("s.css", "w", encoding="utf-8") as _sf: _sf.write("".join(_CSS_REST))
 
