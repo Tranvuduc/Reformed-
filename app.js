@@ -261,7 +261,17 @@ function render(){
 
 function renderShelves(){
   var on=home();
-  $("allh").hidden=true;$("bw").hidden=!on;$("browse").textContent=(st.lang==="vi"?"Đã biết mình cần gì? Duyệt toàn bộ thư viện":"Know what you want? Browse the whole library");renderTiles();
+  $("allh").hidden=true;$("bw").hidden=!on;$("browse").textContent=(st.lang==="vi"?"Đã biết mình cần gì? Duyệt toàn bộ thư viện":"Know what you want? Browse the whole library");renderTiles();heroStats();
+}
+
+function heroStats(){
+  var l=document.getElementById("lede");if(!l||!window.BOOKS)return;
+  var e=document.getElementById("hstats");
+  if(!e){e=document.createElement("p");e.id="hstats";e.className="lede";e.style.cssText="font-weight:600;margin:0";l.parentNode.insertBefore(e,l.nextSibling)}
+  var n=BOOKS.length,t=Object.keys(window.VIB||{}).length,a={};BOOKS.forEach(function(b){var k=(b.a||"").trim();if(k)a[k]=1});
+  var f=function(x){return x.toLocaleString(st.lang==="vi"?"vi-VN":"en-US")},vi=st.lang==="vi";
+  e.innerHTML=f(n)+(vi?" sách · ":" books · ")+f(t)+(vi?" bản dịch tiếng Việt · ":" Vietnamese translations · ")+f(Object.keys(a).length)+(vi?" tác giả":" authors")+' — <a href="#" id="hbrowse">'+(vi?"Duyệt toàn bộ thư viện":"Browse the whole library")+'</a>';
+  document.getElementById("hbrowse").onclick=function(ev){ev.preventDefault();$("browse").click()};
 }
 
 function buildAuthors(){
