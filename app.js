@@ -124,16 +124,20 @@ var RVL={"rv-compel-them-to-come-in":1,"rv-do-you-pray":1,"rv-mccheyne-banh-hang
 function trad(b){var t=TRAD[b.au]||(String(b.id).indexOf("rv-")===0&&RVT[b.a]);return t?t[st.lang==="vi"?0:1]:""}
 var POL=/\b(popery|popish|papist|papism|papal|pope|jesuit|romish|rome|antichrist|wesley|arminian|unitarian|quaker)/i;
 function badges(b){
-  var o=[];if(b.au==="vn")o.push(["VI","vi"]);
-  if(String(b.id).indexOf("rv-")===0)o.push([st.lang==="vi"?"AI, chưa duyệt":"AI, unreviewed",""]);
+  var o=[],L=lvl(b);
+  if(L&&b.au!=="ia"&&b.au!=="pg"&&b.au!=="lv")o.push([lvlTxt(L),"lv"+L]);
   if(b.read||rdr(b))o.push([st.lang==="vi"?"Đọc":"Read","r"]);
-  if(hasM(b,"pdf"))o.push(["PDF",""]);if(hasM(b,"epub"))o.push(["EPUB",""]);
-  if(hasM(b,"audio"))o.push([st.lang==="vi"?"🎧 Nghe":"🎧 Audio",""]);
-  if(!b.read&&b.url&&!hasM(b,"pdf")&&!hasM(b,"epub")&&!hasM(b,"audio"))o.push(["Web",""]);
-  if(!b.read&&!b.url)o.push(["Web",""]);if(b.au==="ia"&&b.y&&b.y<1700)o.push([st.lang==="vi"?"Văn cổ":"Early English","old"]);
-  if(POL.test((b.en&&b.en.t)||""))o.unshift([st.lang==="vi"?"Tranh luận":"Polemic","pol"]);
-  var L=lvl(b);if(L&&b.au!=="ia"&&b.au!=="pg"&&b.au!=="lv")o.unshift([lvlTxt(L),"lv"+L]);
+  else if(hasM(b,"pdf"))o.push(["PDF",""]);
+  else if(hasM(b,"epub"))o.push(["EPUB",""]);
+  else if(hasM(b,"audio"))o.push([st.lang==="vi"?"🎧 Nghe":"🎧 Audio",""]);
+  else o.push(["Web",""]);
   return o.map(function(x){return'<span class="bd '+x[1]+'">'+x[0]+'</span>'}).join("");
+}
+function quietLine(b){
+  var q=[];
+  if(b.au==="vn")q.push(st.lang==="vi"?"Tiếng Việt":"Vietnamese");
+  if(String(b.id).indexOf("rv-")===0)q.push(st.lang==="vi"?"AI, chưa duyệt":"AI, unreviewed");
+  return q.length?'<p class="quiet">'+q.join(" · ")+'</p>':"";
 }
 var CTX={
 "bunyan/pilgrim":["Truyện ngụ ngôn Thanh giáo thế kỷ 17, phần đầu được viết khi Bunyan ở tù. Hãy đọc như câu chuyện về đời sống đức tin, không phải sách giáo lý.","Hê-bơ-rơ 11:13-16","Gánh nặng lớn nhất của tôi là gì, và tôi đang tìm sự giải thoát nơi ai?"],
@@ -173,7 +177,7 @@ function lic(b){
 }
 function card(b){
   var lg=st.lang,d=b[lg]||b.en,y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
-  return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine" style="background-color:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div></div></article>';
+  return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine" style="background-color:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+quietLine(b)+'</div></article>';
 }
 function rdr(b){var m=/^\/(?:doc|ban-dich)\/([a-z0-9_-]+)\.html$/i.exec(b.url||"");return m?"reader.html?id=vn/"+m[1]+"&pid="+encodeURIComponent(b.id):""}
 function sheetActs(b){
@@ -267,18 +271,27 @@ function renderShelves(){
   if(!on){sh.innerHTML="";return}
   var feat=BOOKS.filter(function(b){return b.ty==="catechism"}).slice(0,6);
   if(!feat.length)feat=BOOKS.slice(0,6);
-  sh.innerHTML='<section class="shelf"><div class="shelfh"><h2>'+(st.lang==="vi"?"Sách nổi bật":"Featured books")+'</h2><button type="button" id="featBrowse">'+(st.lang==="vi"?"Xem tất cả":"See all")+'</button></div><div class="grid">'+feat.map(card).join("")+'</div></section>';
+  var vi=st.lang==="vi";
+  sh.innerHTML='<section class="shelf"><div class="shelfh"><h2>'+(vi?"Sách nổi bật":"Featured books")+'</h2><button type="button" id="featBrowse">'+(vi?"Xem tất cả":"See all")+'</button></div><div class="grid">'+feat.map(card).join("")+'</div></section>'
+  +'<section class="home-sec"><h2>'+(vi?"Hôm nay":"Today")+'</h2><div class="home-cards">'
+  +'<a class="home-card" href="hom-nay.html"><b>'+(vi?"Bài đọc hôm nay":"Today\u2019s reading")+'</b><span>'+(vi?"Một đoạn ngắn mỗi ngày":"A short reading each day")+'</span></a>'
+  +'<a class="home-card" href="sach-noi.html"><b>'+(vi?"Nghe sách nói":"Listen")+'</b><span>'+(vi?"Sách nói và nguồn nghe":"Audiobooks and listening sources")+'</span></a></div></section>'
+  +'<section class="home-sec"><h2>'+(vi?"Bộ sưu tập":"Collections")+'</h2><div class="home-cards">'
+  +'<a class="home-card" href="suu-tap/"><b>'+(vi?"Bộ sưu tập":"Collections")+'</b><span>'+(vi?"Chọn lọc theo chủ đề":"Curated sets")+'</span></a>'
+  +'<a class="home-card" href="chu-de/"><b>'+(vi?"Chủ đề":"Topics")+'</b><span>'+(vi?"Duyệt theo chủ đề":"Browse by topic")+'</span></a>'
+  +'<a class="home-card" href="tac-gia.html"><b>'+(vi?"Tác giả":"Authors")+'</b><span>'+(vi?"Duyệt theo tác giả":"Browse by author")+'</span></a></div></section>'
+  +'<section class="audio-strip"><b>'+(vi?"Sách nói":"Audiobooks")+'</b><span>'+(vi?"Nghe trên trang Sách nói, hoặc trên YouTube":"Listen on the audio page, or on YouTube")+'</span><a href="sach-noi.html">'+(vi?"Mở trang Sách nói":"Open the audio page")+'</a> · <a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube @reformedvietnam ↗</a></section>'
+  +'<section class="home-sec"><h2>'+(vi?"Thư tuần":"Weekly letter")+'</h2><div class="home-cards"><a class="home-card" href="nhan-bai.html"><b>'+(vi?"Nhận bài qua email":"Get new posts by email")+'</b><span>'+(vi?"Bài mới, sách mới, mỗi tuần":"New posts and books, weekly")+'</span></a></div></section>';
   var fb=$("featBrowse");if(fb)fb.onclick=function(){$("browse").click()};
 }
 
 function heroStats(){
-  var l=document.getElementById("lede");if(!l||!window.BOOKS)return;
-  var e=document.getElementById("hstats");
-  if(!e){e=document.createElement("p");e.id="hstats";e.className="lede";e.style.cssText="font-weight:600;margin:0";l.parentNode.insertBefore(e,l.nextSibling)}
-  var n=BOOKS.length,t=Object.keys(window.VIB||{}).length,a={};BOOKS.forEach(function(b){var k=(b.a||"").trim();if(k)a[k]=1});
+  var e=document.getElementById("hstats");if(e)e.remove();
+  if(!window.BOOKS)return;
+  var fc=document.getElementById("footcounts");if(!fc)return;
+  var n=BOOKS.length,tt=Object.keys(window.VIB||{}).length,a={};BOOKS.forEach(function(b){var k=(b.a||"").trim();if(k)a[k]=1});
   var f=function(x){return x.toLocaleString(st.lang==="vi"?"vi-VN":"en-US")},vi=st.lang==="vi";
-  e.innerHTML=f(n)+(vi?" sách · ":" books · ")+f(t)+(vi?" bản dịch tiếng Việt · ":" Vietnamese translations · ")+f(Object.keys(a).length)+(vi?" tác giả":" authors")+' — <a href="#" id="hbrowse">'+(vi?"Duyệt toàn bộ thư viện":"Browse the whole library")+'</a>';
-  document.getElementById("hbrowse").onclick=function(ev){ev.preventDefault();$("browse").click()};
+  fc.textContent=f(n)+(vi?" tác phẩm · ":" works · ")+f(tt)+(vi?" bản dịch tiếng Việt · ":" Vietnamese translations · ")+f(Object.keys(a).length)+(vi?" tác giả":" authors");
 }
 
 function buildAuthors(){
@@ -398,7 +411,7 @@ function renderTiles(){var i=st.lang==="vi"?0:1;
   $("tiles").innerHTML='<h2 class="gh">'+(i?"Your next step":"Bước tiếp theo của bạn")+'</h2><ol class="jr">'
    +ST.map(function(t,k){return'<li><a class="tile'+(k===0?" first":"")+'" href="'+t[0]+'"><span class="n">'+(k+1)+'</span><span class="tx"><b>'+t[1+i]+'</b><span>'+(k===0?t[3]:t[3+i])+'</span></span></a></li>'}).join("")+'</ol>'
    +'<div class="dly">'+[["hom-nay.html","Bài đọc hôm nay","Today\u2019s reading"],["sach-noi.html","Nghe sách nói","Listen"]].map(function(t){return'<a href="'+t[0]+'">'+t[1+i]+'</a>'}).join("")+'</div>';
-  var P=[["moi-tin-chua.html","Mới tin Chúa","New believer"],["lo-trinh.html","Lộ trình đọc","Reading path"],["tieng-viet.html","Sách tiếng Việt","Vietnamese"]];
+  var P=[["moi-tin-chua.html","Mới tin Chúa","New believer"],["lo-trinh.html","Lộ trình đọc","Reading path"],["tieng-viet.html","Sách tiếng Việt","Vietnamese"],["sach-noi.html","Sách nói","Audio"],["suu-tap/","Bộ sưu tập","Collections"]];
   $("nl").innerHTML=P.map(function(m){return'<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");
   var M=[["bat-dau.html","Bắt đầu ở đây","Start here"],["hom-nay.html","Hôm nay","Today"],["moi-cap-nhat.html","Mới cập nhật","What's new"],["kinh-thanh.html","Theo sách Kinh Thánh","By Bible book"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"],["bai-giang.html","Bài giảng","Sermons"],["ve-chung-toi.html","Về chúng tôi","About us"],["tai-sach.html","Tải sách về máy","Download books"]],M2=[["duyet.html","Duyệt bản dịch","Review"],["cong-cu-hoc.html","Công cụ học","Study tools"],["hoi-dap.html","Hỏi đáp người mới tin","New believer Q&A"],["khoa-hoc.html","Học trực tuyến","Online study"],["video.html","Video","Videos"],["trich-dan.html","Trích dẫn","Quotes"],["bai-viet/","Bài viết","Articles"],["suu-tap/","Bộ sưu tập","Collections"],["thuat-ngu.html","Thuật ngữ","Glossary"],["cai-chanh-la-gi.html","Cải Chánh là gì?","What is Reformed?"],["doi-song-viet-nam.html","Đời sống Việt Nam","Vietnamese life"],["cho-muc-su.html","Cho mục sư &amp; nhóm nhỏ","For pastors & groups"],["doc-chung.html","Nhóm đọc chung 4 tuần","4-week group plan"],["nhan-bai.html","Nhận bài qua email","Email updates"],["mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch","Góp ý","Feedback"],["feed.xml","RSS","RSS"]],mk=function(a){return a.map(function(m){return'<a class="btn" href="'+m[0]+'">'+m[1+i]+'</a>'}).join("")};
   $("mx").innerHTML=mk(M)+'<details><summary class="btn">'+(i?"More":"Thêm")+"</summary>"+mk(M2)+"</details>"}

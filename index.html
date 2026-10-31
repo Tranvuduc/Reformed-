@@ -11,7 +11,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap">
 <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://reformed-vietnam.vercel.app/"><meta name="twitter:card" content="summary_large_image"><meta property="og:image" content="https://reformed-vietnam.vercel.app/og.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:image" content="https://reformed-vietnam.vercel.app/og.jpg"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Reformed Vietnam","url":"https://reformed-vietnam.vercel.app/","inLanguage":["vi","en"],"description":"Thư viện sách Cải Chánh miễn phí: đọc, nghe, tải.","potentialAction":{"@type":"SearchAction","target":"https://reformed-vietnam.vercel.app/?q={q}","query-input":"required name=q"}}</script><meta property="og:url" content="https://reformed-vietnam.vercel.app/"><meta property="og:site_name" content="Reformed Vietnam">
-<link rel="stylesheet" href="style.css?v=20261101">
+<link rel="stylesheet" href="style.css?v=20261102">
 <link rel="preload" href="books.json" as="fetch" crossorigin><link rel="preload" href="mg.json" as="fetch" crossorigin><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#9a3412"><link rel="apple-touch-icon" href="/icon-192.png"></head>
 <body>
 <dialog id="sdlg"><form method="dialog" style="display:grid;gap:10px;min-width:min(340px,80vw)"><b id="s-h"></b><p id="s-p" style="margin:0;font-size:14px"></p>
@@ -22,7 +22,7 @@
   <a class="brand" href="/"><i></i>Reformed <b>Vietnam</b></a>
   <nav class="links" id="nl" aria-label="Main"></nav>
   <button class="btn" id="lang" type="button"></button>
-  <button class="btn" id="theme" type="button"></button>
+  <button class="btn" id="theme" type="button" aria-label="Dark mode" title="Dark mode"></button>
   <details class="menu"><summary class="btn" id="menu">⋯</summary><div class="pop">
     <div class="mx" id="mx"></div><button class="btn" id="sync" type="button"></button><a class="btn" id="about" href="about.html"></a>
   </div></details>
@@ -63,11 +63,13 @@
   <div class="more" id="bw"><button class="btn primary" id="browse" type="button"></button></div>
   
 </main>
+<div class="footgrid"><div><b>Thư viện</b><a href="/">Trang chính</a><a href="tieng-viet.html">Sách tiếng Việt</a><a href="suu-tap/">Bộ sưu tập</a><a href="tac-gia.html">Tác giả</a></div><div><b>Nguồn</b><a href="https://www.ccel.org/" target="_blank" rel="noopener">CCEL ↗</a><a href="https://www.gutenberg.org/" target="_blank" rel="noopener">Project Gutenberg ↗</a><a href="https://librivox.org/" target="_blank" rel="noopener">LibriVox ↗</a><a href="https://archive.org/" target="_blank" rel="noopener">Internet Archive ↗</a></div><div><b>Theo dõi</b><a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube @reformedvietnam ↗</a><a href="nhan-bai.html">Nhận bài qua email</a><a href="feed.xml">RSS</a></div></div>
+<p class="foot" id="footcounts"></p>
 <p class="foot" id="foot"></p>
 <p class="foot mini"><a href="/about.html" data-i="about">Giới thiệu</a> · <a href="/ban-dich/" data-i="bandich">Bản dịch &amp; sách mới</a> · <a href="/nhan-bai.html" data-i="nhanbai">Nhận bài qua email</a></p>
 </div>
 <noscript><nav class="foot"><p>Sách Cải Chánh miễn phí. <a href="/tieng-viet.html">Sách tiếng Việt</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/about.html">Giới thiệu</a></p></nav></noscript>
-<script src="app.js?v=20261101"></script>
+<script src="app.js?v=20261102"></script>
 <script defer src="/_vercel/insights/script.js"></script>
 <script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script><script>var _ip;addEventListener("beforeinstallprompt",function(e){e.preventDefault();_ip=e;var a=document.getElementById("inst");if(a)a.hidden=false});document.addEventListener("click",function(e){if(e.target.id==="inst"&&_ip){_ip.prompt();_ip=null;e.target.hidden=true}})</script></body>
 </html>
