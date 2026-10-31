@@ -251,6 +251,7 @@ function render(){
   $("grid").className="grid"+(VIEW==="list"?" list":"");$("view").textContent=VIEW==="list"?"▦":"☰";
   $("grid").innerHTML=show.length?show.map(card).join(""):'<div class="empty">'+(st.f==="saved"?tx("nosaved"):(st.f==="reading"||st.f==="done")?tx("noreading"):tx("none"))+'</div>';
   $("count").textContent=all.length+" "+tx("of")+" "+BOOKS.length+" "+tx("titles");
+  var ss=$("statusSel");if(ss){var opts=[["all",tx("all")],["start",tx("start")],["reading",tx("reading")],["done",tx("done")],["saved",tx("saved")]];ss.innerHTML=opts.map(function(o){return'<option value="'+o[0]+'">'+o[1]+'</option>'}).join("");ss.value=st.f;}
   var m=$("more"),left=all.length-show.length;
   m.hidden=left<=0;m.textContent=tx("more")+" ("+left+")";
   renderCont();renderShelves();
@@ -262,6 +263,12 @@ function render(){
 function renderShelves(){
   var on=home();
   $("allh").hidden=true;$("bw").hidden=!on;$("browse").textContent=(st.lang==="vi"?"Đã biết mình cần gì? Duyệt toàn bộ thư viện":"Know what you want? Browse the whole library");renderTiles();heroStats();
+  var sh=$("shelves");if(!sh)return;
+  if(!on){sh.innerHTML="";return}
+  var feat=BOOKS.filter(function(b){return b.ty==="catechism"}).slice(0,6);
+  if(!feat.length)feat=BOOKS.slice(0,6);
+  sh.innerHTML='<section class="shelf"><div class="shelfh"><h2>'+(st.lang==="vi"?"Sách nổi bật":"Featured books")+'</h2><button type="button" id="featBrowse">'+(st.lang==="vi"?"Xem tất cả":"See all")+'</button></div><div class="grid">'+feat.map(card).join("")+'</div></section>';
+  var fb=$("featBrowse");if(fb)fb.onclick=function(){$("browse").click()};
 }
 
 function heroStats(){
@@ -329,6 +336,7 @@ document.body.appendChild(b);
 }).catch(function(){})}
 /* First-visit welcome: 3 steps + pointer to the 30-day path. */
 $("fmt").addEventListener("click",function(e){var b=e.target.closest(".chip");if(!b)return;st.f=b.dataset.f;st.limit=PAGE;[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c===b)});render()});
+$("statusSel").addEventListener("change",function(e){st.f=e.target.value;st.limit=PAGE;[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f===st.f)});render()});
 $("lang").addEventListener("click",function(){st.lang=st.lang==="vi"?"en":"vi";try{localStorage.setItem("rv.lang",st.lang)}catch(e){}labels();render()});
 $("theme").addEventListener("click",function(){var r=document.documentElement,d=r.getAttribute("data-theme")==="dark"||(!r.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches);var nt=d?"light":"dark";r.setAttribute("data-theme",nt);try{localStorage.setItem("rv.theme",nt)}catch(e){}var mc=document.querySelector('meta[name="theme-color"]');if(mc)mc.setAttribute("content",nt==="dark"?"#14171c":"#9a3412")});
 
