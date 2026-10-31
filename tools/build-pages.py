@@ -46,7 +46,7 @@ _CSS_REST = (
        ".bk-filter select{padding:9px 10px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--fg);font:14px system-ui,sans-serif;max-width:11rem}"
        ".bk-count{font:13px system-ui,sans-serif;color:var(--mut);white-space:nowrap}"
        ".rel{margin:.6em 0;font-size:.92rem}.rel a{display:inline-block;margin:0 8px 6px 0;padding:4px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;font-size:.85rem}"
-       "@media(max-width:600px){.bk-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}nav.top a{font-size:.84rem;padding:6px 9px}nav.top a:first-child{font-size:1.1rem}}main ul li{margin:.75em 0}main ul li>a{display:inline-block;padding:6px 0;text-decoration:none}main ul li>a:hover{text-decoration:underline}")
+       "@media(max-width:600px){.bk-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}nav.top{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding:10px 0;gap:4px}nav.top::-webkit-scrollbar{display:none}nav.top a{flex:none;font-size:.84rem;padding:6px 9px}nav.top a:first-child{order:1;font-size:1.1rem;margin-right:8px}#th{order:2;flex:none;margin-left:0}nav.top a:not(:first-child){order:3}}main ul li{margin:.75em 0}main ul li>a{display:inline-block;padding:6px 0;text-decoration:none}main ul li>a:hover{text-decoration:underline}")
 CSS = CSS_CRIT + _CSS_REST
 with open("s.css", "w", encoding="utf-8") as _sf: _sf.write("".join(_CSS_REST))
 
