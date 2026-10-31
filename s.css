@@ -24,10 +24,10 @@ main ul li>a:hover{text-decoration:underline}
 .pbar{height:12px!important}
 
 @media(max-width:600px){
-  nav.top{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding:10px 0;gap:4px}
-  nav.top::-webkit-scrollbar{display:none}
-  nav.top a{flex:none;font-size:.84rem;padding:6px 9px}
-  nav.top a:first-child{order:1;font-size:1.1rem;margin-right:8px}
+  nav.top{flex-wrap:wrap;overflow:visible;padding:10px 0 8px;gap:2px}
+  nav.top a{font-size:.82rem;padding:6px 8px}
+  nav.top a:first-child{order:1;flex:1 1 auto;font-size:1.1rem;margin-right:8px}
   #th{order:2;flex:none;margin-left:0}
   nav.top a:not(:first-child){order:3}
+  nav.top a:nth-of-type(6),nav.top a:nth-of-type(7),nav.top a:nth-of-type(8){display:none}
 }
