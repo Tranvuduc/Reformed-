@@ -11,3 +11,14 @@ nav.top a:first-child{font-family:Fraunces,Newsreader,Georgia,serif;font-weight:
 nav.top a:first-child::before{content:"";display:inline-block;width:10px;height:22px;background:var(--acc);border-radius:2px;margin-right:8px;vertical-align:-3px}
 #th{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:8px;padding:7px 12px;font:500 .85rem system-ui,sans-serif;cursor:pointer;margin-left:6px}
 @media(max-width:600px){nav.top a{font-size:.84rem;padding:6px 9px}nav.top a:first-child{font-size:1.1rem}}
+
+/* Remaining port: share, inner lists, tap targets */
+.shr a,.shr button{border-color:var(--line);color:var(--fg);background:var(--card)}
+.shr a.fb{background:none;border-color:var(--line);color:var(--fg)}
+main ul li{margin:.75em 0}
+main ul li>a{display:inline-block;padding:6px 0;text-decoration:none}
+main ul li>a:hover{text-decoration:underline}
+.dp li{margin:0 0 1.2em}
+.dp li label{display:block;padding:10px 0;min-height:44px;box-sizing:border-box}
+.dp li input[type=checkbox]{width:24px;height:24px;vertical-align:-6px;margin-right:8px}
+.pbar{height:12px!important}

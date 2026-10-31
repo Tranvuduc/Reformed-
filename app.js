@@ -281,6 +281,10 @@ function renderShelves(){
   +'<a class="home-card" href="chu-de/"><b>'+(vi?"Chủ đề":"Topics")+'</b><span>'+(vi?"Duyệt theo chủ đề":"Browse by topic")+'</span></a>'
   +'<a class="home-card" href="tac-gia.html"><b>'+(vi?"Tác giả":"Authors")+'</b><span>'+(vi?"Duyệt theo tác giả":"Browse by author")+'</span></a></div></section>'
   +'<section class="audio-strip"><b>'+(vi?"Sách nói":"Audiobooks")+'</b><span>'+(vi?"Nghe trên trang Sách nói, hoặc trên YouTube":"Listen on the audio page, or on YouTube")+'</span><a href="sach-noi.html">'+(vi?"Mở trang Sách nói":"Open the audio page")+'</a> · <a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube @reformedvietnam ↗</a></section>'
+  +'<section class="home-sec"><h2>'+(vi?"Sách nói nổi bật: Sự Nên Thánh":"Featured audiobook: Holiness")+'</h2><div class="home-cards">'
+  +'<a class="home-card" href="https://www.youtube.com/playlist?list=PLDUPCEt_myzA" target="_blank" rel="noopener"><b>'+(vi?"Sự Nên Thánh – J. C. Ryle | Sách nói đầy đủ":"Holiness – J. C. Ryle | Full audiobook")+'</b><span>'+(vi?"Danh sách phát YouTube — bắt đầu với mẫu sách nói":"YouTube playlist — starting with the sample")+'</span></a>'
+  +'<a class="home-card" href="https://youtu.be/PGezG7Asl9M" target="_blank" rel="noopener"><b>'+(vi?"Nghe mẫu (1:53)":"Listen to the sample (1:53)")+'</b><span>'+(vi?"Mẫu sách nói, không phải toàn bộ sách":"Sample only, not the full book")+'</span></a>'
+  +'<a class="home-card" href="https://archive.org/details/su-nen-thanh-00-intro" target="_blank" rel="noopener"><b>'+(vi?"Mở đầu — Archive.org":"Intro — Archive.org")+'</b><span>'+(vi?"MP3 Mở đầu, miễn phí":"Free intro MP3")+'</span></a></div></section>'
   +'<section class="home-sec"><h2>'+(vi?"Thư tuần":"Weekly letter")+'</h2><div class="home-cards"><a class="home-card" href="nhan-bai.html"><b>'+(vi?"Nhận bài qua email":"Get new posts by email")+'</b><span>'+(vi?"Bài mới, sách mới, mỗi tuần":"New posts and books, weekly")+'</span></a></div></section>';
   var fb=$("featBrowse");if(fb)fb.onclick=function(){$("browse").click()};
 }
@@ -323,7 +327,7 @@ $("author").addEventListener("input",debounce(function(e){st.an=e.target.value.t
 $("type").addEventListener("change",function(e){st.ty=e.target.value;st.limit=PAGE;render()});
 $("era").addEventListener("change",function(e){st.er=e.target.value;st.limit=PAGE;render()});
 $("sort").addEventListener("change",function(e){st.so=e.target.value;st.limit=PAGE;render()});
-$("ftog").addEventListener("click",function(){var bar=window.bar();bar.dataset.o=bar.dataset.o==="1"?"0":"1";render()});
+$("ftog").addEventListener("click",function(){var bar=window.bar();bar.dataset.o=bar.dataset.o==="1"?"0":"1";render();if(bar.dataset.o==="1")setTimeout(function(){bar.scrollIntoView({behavior:"smooth",block:"start"})},0)});
 $("view").addEventListener("click",function(){VIEW=VIEW==="list"?"grid":"list";try{localStorage.setItem("rv.view",VIEW)}catch(e){}render()});
 $("clear").addEventListener("click",function(){
   st.br=0;st.q="";st.sr="all";st.an="";st.md="all";st.ty="all";st.er="all";st.so="0";st.f="all";st.limit=PAGE;
@@ -350,6 +354,11 @@ document.body.appendChild(b);
 /* First-visit welcome: 3 steps + pointer to the 30-day path. */
 $("fmt").addEventListener("click",function(e){var b=e.target.closest(".chip");if(!b)return;st.f=b.dataset.f;st.limit=PAGE;[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c===b)});render()});
 $("statusSel").addEventListener("change",function(e){st.f=e.target.value;st.limit=PAGE;[].forEach.call($("fmt").children,function(c){c.setAttribute("aria-pressed",c.dataset.f===st.f)});render()});
+var _menu=document.querySelector(".menu");
+if(_menu){var _mc=$("menuClose");if(_mc)_mc.addEventListener("click",function(){_menu.removeAttribute("open")});
+document.addEventListener("click",function(e){if(_menu.hasAttribute("open")&&!_menu.contains(e.target))_menu.removeAttribute("open")});
+document.addEventListener("keydown",function(e){if(e.key==="Escape"&&_menu.hasAttribute("open"))_menu.removeAttribute("open")});}
+
 $("lang").addEventListener("click",function(){st.lang=st.lang==="vi"?"en":"vi";try{localStorage.setItem("rv.lang",st.lang)}catch(e){}labels();render()});
 $("theme").addEventListener("click",function(){var r=document.documentElement,d=r.getAttribute("data-theme")==="dark"||(!r.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches);var nt=d?"light":"dark";r.setAttribute("data-theme",nt);try{localStorage.setItem("rv.theme",nt)}catch(e){}var mc=document.querySelector('meta[name="theme-color"]');if(mc)mc.setAttribute("content",nt==="dark"?"#14171c":"#9a3412")});
 
