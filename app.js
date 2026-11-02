@@ -130,7 +130,7 @@ function badges(b){
   else if(hasM(b,"pdf"))o.push(["PDF",""]);
   else if(hasM(b,"epub"))o.push(["EPUB",""]);
   else if(hasM(b,"audio"))o.push([st.lang==="vi"?"🎧 Nghe":"🎧 Audio",""]);
-  else o.push(["Web",""]);
+  else o.push([b.au==="mg"?"Monergism":b.au==="dg"?"Desiring God":b.au==="ia"?"Archive":b.au==="pg"?"Gutenberg":b.au==="lv"?"LibriVox":"Web",""]);
   return o.map(function(x){return'<span class="bd '+x[1]+'">'+x[0]+'</span>'}).join("");
 }
 function quietLine(b){
@@ -160,12 +160,25 @@ function ctxBox(b){var c=CTX[b.id];
   if(!c&&b.er==="pur")c=["Tác phẩm Thanh giáo thế kỷ 16-17. Các ví dụ về xã hội và gia đình phản ánh thời của tác giả, không nên áp dụng máy móc cho ngày nay.","",""];
   if(!c)return"";
   return'<div class="ctx"><b>'+tx("ctxT")+'</b><p>'+esc(c[0])+'</p>'+(c[1]?'<p><b>'+tx("ctxB")+'</b> '+esc(c[1])+'</p><p><b>'+tx("ctxR")+'</b> '+esc(c[2])+'</p>':'')+'<small>'+tx("ctxN")+'</small></div>'}
+function accessLabel(b){
+  var vi=st.lang==="vi",rv=String(b.id).indexOf("rv-")===0,vb=window.VIB&&VIB[b.id];
+  if(vb||rv)return vi?"Đọc bản dịch tiếng Việt tại đây — không cần tài khoản":"Read the Vietnamese translation here — no account needed";
+  if(b.read)return vi?"Đọc tại đây — không cần tài khoản, có PDF/EPUB/TXT":"Read here — no account needed, with PDF/EPUB/TXT";
+  if(rdr(b))return vi?"Đọc tại đây — không cần tài khoản":"Read here — no account needed";
+  if(b.au==="mg")return vi?"Mở trang Monergism — chọn ePub hoặc PDF trên trang đó, miễn phí, không cần tài khoản":"Open the Monergism page — pick ePub or PDF there, free, no account needed";
+  if(b.au==="dg")return vi?"Mở trang Desiring God — sách miễn phí trên trang đó, xem nút đọc/tải":"Open the Desiring God page — free book there, see its read/download button";
+  if(b.au==="ia")return vi?"Đọc bản quét trên Internet Archive — đọc online hoặc tải PDF/EPUB":"Read the scan on Internet Archive — read online or download PDF/EPUB";
+  if(b.au==="pg")return vi?"Tải EPUB trực tiếp từ Project Gutenberg — không cần tài khoản":"Download the EPUB directly from Project Gutenberg — no account needed";
+  if(b.au==="lv")return vi?"Nghe trực tiếp trên LibriVox — không cần tài khoản":"Listen directly on LibriVox — no account needed";
+  if(b.url)return vi?"Mở trang sách gốc — trang ngoài, có thể cần tải về":"Open the original book page — external site, may require a download";
+  return vi?"Chưa có trang sách trực tiếp — các liên kết dưới là tìm kiếm trên Gutenberg, LibriVox và Archive":"No direct book page yet — the links below search Gutenberg, LibriVox and Archive";
+}
 function infoBox(b){
   var vi=st.lang==="vi",rv=String(b.id).indexOf("rv-")===0,vb=window.VIB&&VIB[b.id],pd=b.read||b.au==="ia"||b.au==="pg"||b.au==="lv"||/ccel\.org/.test(b.url||"")||rv||vb;
   var L=lvl(b),TR=trad(b),R=[];
   var src=rv?(vi?"Reformed Vietnam (dịch từ nguyên tác phạm vi công cộng)":"Reformed Vietnam (from public-domain original)"):vb?"Reformed Vietnam":b.read||/ccel\.org/.test(b.url||"")?"CCEL":b.au==="ia"?"Internet Archive":b.au==="pg"?"Project Gutenberg":b.au==="lv"?"LibriVox":b.au==="mg"?"Monergism":(b.url||"").replace(/^https?:\/\/(www\.)?/,"").split("/")[0];
   var st2=rv||vb?(vi?"AI hỗ trợ dịch, chưa được mục sư duyệt":"AI-assisted, not pastor-reviewed"):b.au==="vn"?(vi?"Bản tiếng Việt của nhà xuất bản":"Publisher's Vietnamese edition"):(vi?"Tiếng Anh gốc (có nút dịch máy, không có thẩm quyền)":"English original (machine translation is unofficial)");
-  R.push([vi?"Nguồn":"Source",src],[vi?"Tình trạng bản dịch":"Translation",st2]);
+  R.push([vi?"Nguồn":"Source",src],[vi?"Tình trạng bản dịch":"Translation",st2],[vi?"Cách đọc":"How to read",accessLabel(b)]);
   if(TR)R.unshift([vi?"Truyền thống":"Tradition",TR]);
   if(L)R.push([vi?"Mức độ":"Level",lvlTxt(L)]);
   R.push([vi?"Bản quyền":"Copyright",pd?(vi?"🟢 Phạm vi công cộng":"🟢 Public domain"):(vi?"🟡 Thuộc tác giả hoặc nhà xuất bản":"🟡 Author or publisher")]);
@@ -195,7 +208,7 @@ function sheetActs(b){
     if(b.epub)x+='<a class="s2" href="'+b.epub+'" download>⬇ EPUB</a>';
     x+='<a class="s2" href="'+b.url+'">'+(vi?"Trang sách":"Book page")+'</a>';
   }else if(b.url){
-    x+='<a class="p" href="'+b.url+'"'+ext+'>'+(b.au==="lv"?"🎧 "+tx("listen"):(vi?"Mở trang sách":"Open book page"))+' ↗</a>';
+    x+='<a class="p" href="'+b.url+'"'+ext+'>'+(b.au==="lv"?"🎧 "+tx("listen"):b.au==="mg"?(vi?"Monergism — chọn ePub/PDF":"Monergism — pick ePub/PDF"):b.au==="dg"?(vi?"Desiring God — sách miễn phí":"Desiring God — free book"):(vi?"Mở trang sách":"Open book page"))+' ↗</a>';
     if(b.pdf)x+='<a class="s2" href="'+b.pdf+'"'+ext+'>⬇ PDF</a>';
     if(b.epub)x+='<a class="s2" href="'+b.epub+'"'+ext+'>⬇ EPUB</a>';
   }else{
