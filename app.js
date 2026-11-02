@@ -297,7 +297,8 @@ function renderShelves(){
   +'<section class="home-sec"><h2>'+(vi?"Sách nói nổi bật: Sự Nên Thánh":"Featured audiobook: Holiness")+'</h2><div class="home-cards">'
   +'<a class="home-card" href="https://www.youtube.com/playlist?list=PLDUPCEt_myzA" target="_blank" rel="noopener"><b>'+(vi?"Sự Nên Thánh – J. C. Ryle | Sách nói đầy đủ":"Holiness – J. C. Ryle | Full audiobook")+'</b><span>'+(vi?"Danh sách phát YouTube — sách nói đầy đủ":"YouTube playlist — full audiobook")+'</span></a>'
   +'<a class="home-card" href="https://youtu.be/5RLzxwrwLok" target="_blank" rel="noopener"><b>'+(vi?"Mở đầu — YouTube (39:23)":"Intro — YouTube (39:23)")+'</b><span>'+(vi?"Video Mở đầu, sách nói đầy đủ":"Intro video, full audiobook")+'</span></a>'
-  +'<a class="home-card" href="https://archive.org/details/su-nen-thanh-00-intro" target="_blank" rel="noopener"><b>'+(vi?"Mở đầu — Archive.org":"Intro — Archive.org")+'</b><span>'+(vi?"MP3 Mở đầu, miễn phí":"Free intro MP3")+'</span></a></div></section>'
+  +'<a class="home-card" href="https://archive.org/details/su-nen-thanh-00-intro" target="_blank" rel="noopener"><b>'+(vi?"Mở đầu — Archive.org":"Intro — Archive.org")+'</b><span>'+(vi?"MP3 Mở đầu, miễn phí":"Free intro MP3")+'</span></a>'
+  +'<a class="home-card" href="sach-noi.html#su-nen-thanh"><b>'+(vi?"Nghe theo chương — 22 phần":"Listen by chapter — 22 parts")+'</b><span>'+(vi?"Mở đầu, chương I–XX và trích đoạn bổ sung":"Intro, chapters I–XX and supplementary extracts")+'</span></a></div></section>'
   +'<section class="home-sec"><h2>'+(vi?"Thư tuần":"Weekly letter")+'</h2><div class="home-cards"><a class="home-card" href="nhan-bai.html"><b>'+(vi?"Nhận bài qua email":"Get new posts by email")+'</b><span>'+(vi?"Bài mới, sách mới, mỗi tuần":"New posts and books, weekly")+'</span></a></div></section>';
   var fb=$("featBrowse");if(fb)fb.onclick=function(){$("browse").click()};
 }
