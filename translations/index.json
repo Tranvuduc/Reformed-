@@ -25627,5 +25627,521 @@
   "author": "Horatius Bonar",
   "by": "AI-2",
   "reviewed": false
+ },
+ {
+  "id": "mg1-088-alive-or-dead-ryle",
+  "file": "mg1-088-alive-or-dead-ryle.txt",
+  "a": "J. C. Ryle",
+  "by": "MG-3",
+  "en": {
+   "t": "Alive or Dead?"
+  },
+  "vi": {
+   "t": "SỐNG HAY CHẾT?"
+  }
+ },
+ {
+  "id": "mg1-104-sanctification-reformed-theology-ebook-ryle",
+  "file": "mg1-104-sanctification-reformed-theology-ebook-ryle.txt",
+  "a": "J. C. Ryle",
+  "by": "MG-3",
+  "en": {
+   "t": "Sanctification"
+  },
+  "vi": {
+   "t": "SỰ NÊN THÁNH"
+  }
+ },
+ {
+  "id": "mg1-253-experimental-and-practical-views-of-the-atonement-winslow",
+  "file": "mg1-253-experimental-and-practical-views-of-the-atonement-winslow.txt",
+  "a": "Octavius Winslow",
+  "by": "MG-3",
+  "en": {
+   "t": "Experimental and Practical Views of the Atonement"
+  },
+  "vi": {
+   "t": "NHỮNG QUAN ĐIỂM VỀ SỰ CHUỘC TỘI THEO KINH NGHIỆM THUỘC LINH VÀ THỰC HÀNH"
+  }
+ },
+ {
+  "id": "mg1-259-personal-declension-and-revival-of-religion-in-the-winslow",
+  "file": "mg1-259-personal-declension-and-revival-of-religion-in-the-winslow.txt",
+  "a": "Octavius Winslow",
+  "by": "MG-3",
+  "en": {
+   "t": "Personal Declension and Revival of Religion in the Soul"
+  },
+  "vi": {
+   "t": "SỰ SA SÚT CÁ NHÂN VÀ SỰ PHỤC HỒI CỦA TÔN GIÁO TRONG LINH HỒN"
+  }
+ },
+ {
+  "id": "mg1-322-the-returning-backslider-bible-commentary-ebook-sibbes",
+  "file": "mg1-322-the-returning-backslider-bible-commentary-ebook-sibbes.txt",
+  "a": "Richard Sibbes",
+  "by": "MG-3",
+  "en": {
+   "t": "The Returning Backslider"
+  },
+  "vi": {
+   "t": "KẺ BỘI ĐẠO TRỞ LẠI"
+  }
+ },
+ {
+  "id": "mg1-447-an-exposition-of-the-second-epistle-to-the-corinth-hodge",
+  "file": "mg1-447-an-exposition-of-the-second-epistle-to-the-corinth-hodge.txt",
+  "a": "Charles Hodge",
+  "by": "MG-3",
+  "en": {
+   "t": "An Exposition of the Second Epistle to the Corinthians"
+  },
+  "vi": {
+   "t": "SỰ GIẢI NGHĨA VỀ THƯ THỨ HAI GỬI NGƯỜI CÔ-RINH-TÔ"
+  }
+ },
+ {
+  "id": "mg1-570-a-treatise-of-delighting-in-god-howe",
+  "file": "mg1-570-a-treatise-of-delighting-in-god-howe.txt",
+  "a": "John Howe",
+  "by": "MG-3",
+  "en": {
+   "t": "A Treatise of Delighting in God"
+  },
+  "vi": {
+   "t": "LUẬN VĂN VỀ SỰ VUI THÍCH TRONG ĐỨC CHÚA TRỜI"
+  }
+ },
+ {
+  "id": "mg1-597-acts-and-monuments-books-vvi-church-history-ebook-foxe",
+  "file": "mg1-597-acts-and-monuments-books-vvi-church-history-ebook-foxe.txt",
+  "a": "John Foxe",
+  "by": "MG-3",
+  "en": {
+   "t": "Acts and Monuments: Books V–VI"
+  },
+  "vi": {
+   "t": "CÁC CÔNG VIỆC VÀ TƯỢNG ĐÀI"
+  }
+ },
+ {
+  "id": "mg1-695-earnest-hours-plumer",
+  "file": "mg1-695-earnest-hours-plumer.txt",
+  "a": "William S. Plumer",
+  "by": "MG-3",
+  "en": {
+   "t": "Earnest Hours!"
+  },
+  "vi": {
+   "t": "NHỮNG GIỜ PHÚT THIẾT THA!"
+  }
+ },
+ {
+  "id": "mg1-739-god-s-terrible-voice-in-the-city-sermons-ebook-vincent",
+  "file": "mg1-739-god-s-terrible-voice-in-the-city-sermons-ebook-vincent.txt",
+  "a": "Thomas Vincent",
+  "by": "MG-3",
+  "en": {
+   "t": "God's Terrible Voice in the City!"
+  },
+  "vi": {
+   "t": "TIẾNG ĐÁNG SỢ CỦA ĐỨC CHÚA TRỜI TRONG THÀNH PHỐ!"
+  }
+ },
+ {
+  "id": "mg1-789-kelso-tracts-bonar",
+  "file": "mg1-789-kelso-tracts-bonar.txt",
+  "a": "Horatius Bonar",
+  "by": "MG-3",
+  "en": {
+   "t": "Kelso Tracts"
+  },
+  "vi": {
+   "t": "CÁC BÀI LUẬN NGẮN TẠI KELSO"
+  }
+ },
+ {
+  "id": "376",
+  "file": "mg1-1129-the-reasonable-service-of-god-reformed-theology-eb-a-brakel.txt",
+  "a": "Wilhelmus à Brakel",
+  "by": "MG-3",
+  "en": {
+   "t": "The Reasonable Service of God"
+  },
+  "vi": {
+   "t": "SỰ THỜ PHƯỢNG PHẢI LẼ CỦA ĐỨC CHÚA TRỜI"
+  }
+ },
+ {
+  "id": "378",
+  "file": "mg1-1135-the-riches-of-grace-sermons-ebook-fenner.txt",
+  "a": "William Fenner",
+  "by": "MG-3",
+  "en": {
+   "t": "The Riches of Grace"
+  },
+  "vi": {
+   "t": "SỰ GIÀU CÓ CỦA ÂN ĐIỂN"
+  }
+ },
+ {
+  "id": "379",
+  "file": "mg1-1137-the-right-use-of-philosophy-and-scholasticism-refo-hoornbeeck.txt",
+  "a": "Johannes Hoornbeeck",
+  "by": "MG-3",
+  "en": {
+   "t": "The Right Use of Philosophy and Scholasticism"
+  },
+  "vi": {
+   "t": "CÁCH SỬ DỤNG ĐÚNG ĐẮN TRIẾT HỌC VÀ THẦN HỌC KINH VIỆN"
+  }
+ },
+ {
+  "id": "380",
+  "file": "mg1-1138-the-rock-of-our-salvation-a-treatise-respecting-th-plumer.txt",
+  "a": "William S. Plumer",
+  "by": "MG-3",
+  "en": {
+   "t": "The Rock of Our Salvation"
+  },
+  "vi": {
+   "t": "VẦNG ĐÁ CỨU RỖI CỦA CHÚNG TA"
+  }
+ },
+ {
+  "id": "381",
+  "file": "mg1-1143-the-sacred-diary-select-meditations-for-every-part-gearing.txt",
+  "a": "William Gearing",
+  "by": "MG-3",
+  "en": {
+   "t": "The Sacred Diary"
+  },
+  "vi": {
+   "t": "NHẬT KÝ THIÊNG LIÊNG"
+  }
+ },
+ {
+  "id": "382",
+  "file": "mg1-1146-the-saint-s-sure-and-perpetual-guide-reformed-theo-bolton.txt",
+  "a": "Robert Bolton",
+  "by": "MG-3",
+  "en": {
+   "t": "The Saint's Sure and Perpetual Guide"
+  },
+  "vi": {
+   "t": "SỰ HƯỚNG DẪN CHẮC CHẮN VÀ LÂU DÀI CỦA CÁC THÁNH ĐỒ"
+  }
+ },
+ {
+  "id": "383",
+  "file": "mg1-1151-the-scots-worthies-church-history-ebook-howie.txt",
+  "a": "John Howie",
+  "by": "MG-3",
+  "en": {
+   "t": "The Scots Worthies"
+  },
+  "vi": {
+   "t": "NHỮNG NHÂN VẬT XỨNG ĐÁNG CỦA SCOTLAND"
+  }
+ },
+ {
+  "id": "384",
+  "file": "mg1-1152-the-scriptures-sufficiency-to-determine-all-matter-twisse.txt",
+  "a": "William Twisse",
+  "by": "MG-3",
+  "en": {
+   "t": "The Scriptures Sufficiency To Determine All Matters of Faith"
+  },
+  "vi": {
+   "t": "SỰ ĐẦY ĐỦ CỦA KINH THÁNH ĐỂ XÁC ĐỊNH MỌI VẤN ĐỀ THUỘC ĐỨC TIN, ĐƯỢC BÊNH VỰC CHỐNG LẠI NGƯỜI CÔNG GIÁO LA MÃ:"
+  }
+ },
+ {
+  "id": "385",
+  "file": "mg1-1158-the-shorter-catechism-explained-from-scripture-cat-vincent.txt",
+  "a": "Thomas Vincent",
+  "by": "MG-3",
+  "en": {
+   "t": "The Shorter Catechism Explained from Scripture"
+  },
+  "vi": {
+   "t": "GIÁO LÝ VẤN ĐÁP NGẮN ĐƯỢC GIẢI THÍCH TỪ KINH THÁNH"
+  }
+ },
+ {
+  "id": "386",
+  "file": "mg1-1159-the-shorter-works-of-vavasor-powell-sermons-ebook-powell.txt",
+  "a": "Vavasor Powell",
+  "by": "MG-3",
+  "en": {
+   "t": "The Shorter Works of Vavasor Powell"
+  },
+  "vi": {
+   "t": "CÁC TÁC PHẨM NGẮN CỦA VAVASOR POWELL"
+  }
+ },
+ {
+  "id": "387",
+  "file": "mg1-1160-the-sick-mans-comfort-book-power.txt",
+  "a": "Philip Bennett Power",
+  "by": "MG-3",
+  "en": {
+   "t": "The Sick Man's Comfort Book"
+  },
+  "vi": {
+   "t": "SÁCH AN ỦI CHO NGƯỜI BỆNH"
+  }
+ },
+ {
+  "id": "388",
+  "file": "mg1-1165-the-sinner-s-last-sentence-sermons-ebook-swinnock.txt",
+  "a": "George Swinnock",
+  "by": "MG-3",
+  "en": {
+   "t": "The Sinner's Last Sentence"
+  },
+  "vi": {
+   "t": "BẢN ÁN CUỐI CÙNG CỦA KẺ CÓ TỘI ĐẾN HÌNH PHẠT ĐỜI ĐỜI, VÌ NHỮNG TỘI THIẾU SÓT, TRONG ĐÓ PHƠI BÀY BẢN CHẤT, NGUYÊN NHÂN VÀ PHƯƠNG THUỐC CHỮA NHỮNG TỘI ẤY"
+  }
+ },
+ {
+  "id": "389",
+  "file": "mg1-1167-the-socinian-controversy-reformed-theology-ebook-cunningham.txt",
+  "a": "William Cunningham",
+  "by": "MG-3",
+  "en": {
+   "t": "The Socinian Controversy"
+  },
+  "vi": {
+   "t": "CUỘC TRANH LUẬN VỀ CHỦ NGHĨA SOCINUS"
+  }
+ },
+ {
+  "id": "390",
+  "file": "mg1-1168-the-souls-evidence-for-its-own-immortality-reforme-de-mornay.txt",
+  "a": "Philippe De Mornay",
+  "by": "MG-3",
+  "en": {
+   "t": "The Soul's Evidence for Its Own Immortality"
+  },
+  "vi": {
+   "t": "BẰNG CHỨNG CỦA LINH HỒN VỀ SỰ BẤT TỬ CỦA CHÍNH MÌNH"
+  }
+ },
+ {
+  "id": "391",
+  "file": "mg1-1175-the-spring-time-of-life-advice-to-youth-magie.txt",
+  "a": "David Magie",
+  "by": "MG-3",
+  "en": {
+   "t": "The Spring-Time of Life: Advice to Youth"
+  },
+  "vi": {
+   "t": "MÙA XUÂN CỦA ĐỜI NGƯỜI HAY, LỜI KHUYÊN DÀNH CHO TUỔI TRẺ"
+  }
+ },
+ {
+  "id": "392",
+  "file": "mg1-1177-the-story-of-grace-bonar.txt",
+  "a": "Horatius Bonar",
+  "by": "MG-3",
+  "en": {
+   "t": "The Story of Grace"
+  },
+  "vi": {
+   "t": "CÂU CHUYỆN VỀ ÂN ĐIỂN"
+  }
+ },
+ {
+  "id": "393",
+  "file": "mg1-1182-the-surety-s-cross-reformed-theology-ebook-bonar.txt",
+  "a": "Horatius Bonar",
+  "by": "MG-3",
+  "en": {
+   "t": "The Surety's Cross"
+  },
+  "vi": {
+   "t": "THẬP TỰ GIÁ CỦA ĐẤNG BẢO LÃNH"
+  }
+ },
+ {
+  "id": "394",
+  "file": "mg1-1183-the-sword-of-the-lord-and-of-gideon-sermons-ebook-walker.txt",
+  "a": "George Walker",
+  "by": "MG-3",
+  "en": {
+   "t": "The Sword of the Lord and of Gideon"
+  },
+  "vi": {
+   "t": "GƯƠM CỦA ĐỨC GIÊ-HÔ-VA VÀ CỦA GHI-ĐÊ-ÔN"
+  }
+ },
+ {
+  "id": "395",
+  "file": "mg1-1184-the-synod-of-dort-and-the-remonstrants-articles-ch-pareus.txt",
+  "a": "David Pareus",
+  "by": "MG-3",
+  "en": {
+   "t": "The Synod of Dort and the Remonstrants' Articles"
+  },
+  "vi": {
+   "t": "CÔNG ĐỒNG DORT VÀ CÁC ĐIỀU KHOẢN CỦA PHÁI REMONSTRANT"
+  }
+ },
+ {
+  "id": "396",
+  "file": "mg1-1187-the-temple-sermons-ebook-adams.txt",
+  "a": "Thomas Adams",
+  "by": "MG-3",
+  "en": {
+   "t": "The Temple"
+  },
+  "vi": {
+   "t": "ĐỀN THỜ"
+  }
+ },
+ {
+  "id": "397",
+  "file": "mg1-1191-the-three-harangues-of-theodore-beza-delivered-at-beza.txt",
+  "a": "Theodore Beza",
+  "by": "MG-3",
+  "en": {
+   "t": "The Three Harangues of Theodore Beza: Delivered at Poissy in 1561"
+  },
+  "vi": {
+   "t": "BA BÀI DIỄN VĂN CỦA THEODORE BEZA ĐƯỢC ĐỌC TẠI POISSY NĂM 1561"
+  }
+ },
+ {
+  "id": "398",
+  "file": "mg1-1192-the-training-of-the-twelve-biblical-studies-ebook-bruce.txt",
+  "a": "A. B. Bruce",
+  "by": "MG-3",
+  "en": {
+   "t": "The Training of the Twelve"
+  },
+  "vi": {
+   "t": "SỰ HUẤN LUYỆN MƯỜI HAI SỨ ĐỒ"
+  }
+ },
+ {
+  "id": "399",
+  "file": "mg1-1198-the-true-scripture-doctrine-concerning-some-import-dickinson.txt",
+  "a": "Jonathan Dickinson",
+  "by": "MG-3",
+  "en": {
+   "t": "The True Scripture Doctrine Concerning Some Important Points of Christian Faith"
+  },
+  "vi": {
+   "t": "GIÁO LÝ THẬT TRONG KINH THÁNH VỀ MỘT SỐ NHỮNG ĐIỂM QUAN TRỌNG CỦA ĐỨC TIN CƠ ĐỐC: ĐẶC BIỆT LÀ SỰ TUYỂN CHỌN ĐỜI ĐỜI, TỘI LỖI NGUYÊN THỦY, ÂN ĐIỂN TRONG SỰ CẢI ĐẠO, SỰ XƯNG CÔNG CHÍNH BỞI ĐỨC TIN, VÀ SỰ BỀN ĐỖ CỦA CÁC THÁNH ĐỒ."
+  }
+ },
+ {
+  "id": "400",
+  "file": "mg1-1200-the-typology-of-scripture-viewed-in-connection-wit-fairbairn.txt",
+  "a": "Patrick Fairbairn",
+  "by": "MG-3",
+  "en": {
+   "t": "The Typology of Scripture Viewed in Connection with the Whole Series of the Divine Dispensations"
+  },
+  "vi": {
+   "t": "HÌNH BÓNG HỌC TRONG KINH THÁNH ĐƯỢC XEM XÉT TRONG MỐI LIÊN HỆ VỚI TOÀN BỘ CHUỖI CÁC KỲ CỦA ĐỨC CHÚA TRỜI"
+  }
+ },
+ {
+  "id": "401",
+  "file": "mg1-1202-the-unshakeable-kingdom-of-the-eternal-god-sermons-rutherford.txt",
+  "a": "Samuel Rutherford",
+  "by": "MG-3",
+  "en": {
+   "t": "The Unshakeable Kingdom of the Eternal God"
+  },
+  "vi": {
+   "t": "VƯƠNG QUỐC KHÔNG THỂ LAY CHUYỂN CỦA ĐỨC CHÚA TRỜI ĐỜI ĐỜI"
+  }
+ },
+ {
+  "id": "402",
+  "file": "mg1-1204-the-vanity-of-this-world-sermons-ebook-hopkins.txt",
+  "a": "Ezekiel Hopkins",
+  "by": "MG-3",
+  "en": {
+   "t": "The Vanity of This World"
+  },
+  "vi": {
+   "t": "SỰ HƯ KHÔNG CỦA THẾ GIAN"
+  }
+ },
+ {
+  "id": "403",
+  "file": "mg1-1211-the-whole-armor-of-god-or-a-christians-spiritual-f-gouge.txt",
+  "a": "William Gouge",
+  "by": "MG-3",
+  "en": {
+   "t": "The Whole Armor of God: Or A Christian's Spiritual Furniture to Keep Him Safe from All the Assaults of Satan"
+  },
+  "vi": {
+   "t": "TOÀN BỘ ÁO GIÁP CỦA ĐỨC CHÚA TRỜI: HAY TRANG BỊ THUỘC LINH CỦA MỘT CƠ ĐỐC NHÂN ĐỂ GIỮ NGƯỜI ẤY AN TOÀN KHỎI MỌI SỰ TẤN CÔNG CỦA SA-TAN."
+  }
+ },
+ {
+  "id": "404",
+  "file": "mg1-1212-the-wiles-of-satan-spurstowe.txt",
+  "a": "William Spurstowe",
+  "by": "MG-3",
+  "en": {
+   "t": "The Wiles of Satan"
+  },
+  "vi": {
+   "t": "NHỮNG MƯU CHƯỚC CỦA SA-TAN"
+  }
+ },
+ {
+  "id": "405",
+  "file": "mg1-1217-the-works-of-augustus-toplady-6-volume-set-reforme-toplady.txt",
+  "a": "Augustus Toplady",
+  "by": "MG-3",
+  "en": {
+   "t": "The Works of Augustus Toplady (6 Volume Set)"
+  },
+  "vi": {
+   "t": "TÁC PHẨM CỦA AUGUSTUS TOPLADY"
+  }
+ },
+ {
+  "id": "406",
+  "file": "mg1-1218-the-works-of-david-clarkson-sermons-ebook-clarkson.txt",
+  "a": "David Clarkson",
+  "by": "MG-3",
+  "en": {
+   "t": "The Works of David Clarkson (Sermons eBook)"
+  },
+  "vi": {
+   "t": "CÁC TÁC PHẨM CỦA DAVID CLARKSON"
+  }
+ },
+ {
+  "id": "407",
+  "file": "mg1-1222-the-very-pernicious-and-detestable-doctrine-of-inc-reymond.txt",
+  "a": "Robert L. Reymond",
+  "by": "MG-3",
+  "en": {
+   "t": "The \"Very Pernicious and Detestable\" Doctrine of Inclusivism (Reformed Theology eBook)"
+  },
+  "vi": {
+   "t": "GIÁO LÝ VỀ CHỦ NGHĨA BAO HÀM \"RẤT TAI HẠI VÀ ĐÁNG GHÊ TỞM\""
+  }
+ },
+ {
+  "id": "408",
+  "file": "mg1-1223-theological-commonplaces-reformed-theology-ebook-maccovius.txt",
+  "a": "Johannes Maccovius",
+  "by": "MG-3",
+  "en": {
+   "t": "Theological Commonplaces (Reformed Theology eBook)"
+  },
+  "vi": {
+   "t": "CÁC LUẬN ĐỀ THẦN HỌC CHUNG"
+  }
  }
 ]
