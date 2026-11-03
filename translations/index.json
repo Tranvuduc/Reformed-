@@ -1773,7 +1773,7 @@
   "title": "SỰ HƯ KHÔNG CỦA ĐỜI TẠM NÀY"
  },
  {
-  "author": "Gioan Calvin",
+  "author": "John Calvin",
   "by": "Muse",
   "file": "arch-calvin-sermons-1581-bai-giang-muoi-dieu-ran.txt",
   "id": "arch-calvin-sermons-1581",
@@ -1782,7 +1782,7 @@
   "title": "CÁC BÀI GIẢNG CỦA ÔNG GIOAN CALVIN VỀ MƯỜI ĐIỀU RĂN"
  },
  {
-  "author": "Gioan Knox",
+  "author": "John Knox",
   "by": "Muse",
   "file": "arch-knox-godly-letter-1581-thu-gui-tin-huu-london.txt",
   "id": "arch-knox-godly-letter-1581",
@@ -1863,7 +1863,7 @@
   "reviewed": false
  },
  {
-  "author": "Robert L. Dabney",
+  "author": "Robert Lewis Dabney",
   "by": "Muse",
   "file": "list-792-dang-christ-dang-chiu-thay-hinh-phat-dabney.txt",
   "id": "list-792",
@@ -2282,7 +2282,7 @@
   "id": "81-dai-hoi-dong-103-warfield-vi",
   "file": "81-dai-hoi-dong-103-warfield-vi.txt",
   "title": "ĐẠI HỘI ĐỒNG 103",
-  "orig": "Book #81",
+  "orig": "The 103rd General Assembly",
   "author": "Warfield",
   "by": "Claude",
   "reviewed": false
@@ -2330,7 +2330,7 @@
   "file": "arch-dabney-last-lecture-jackson.txt",
   "title": "BÀI GIẢNG CUỐI CÙNG CỦA DABNEY VỀ STONEWALL JACKSON",
   "orig": "Dabney's last lecture on Stonewall Jackson",
-  "author": "R. L Dabney",
+  "author": "Robert Lewis Dabney",
   "by": "Muse",
   "reviewed": false
  },
@@ -2660,15 +2660,6 @@
   "reviewed": false
  },
  {
-  "id": "cat/boys-girls",
-  "file": "catechism-boys-girls.txt",
-  "title": "GIÁO LÝ VẤN ĐÁP CHO THIẾU NHI",
-  "orig": "A Catechism for Boys and Girls",
-  "author": "Erroll Hulse",
-  "by": "Muse",
-  "reviewed": false
- },
- {
   "id": "1000-224-short-remarks-annexed-to-justification-by-faith-alone",
   "file": "1000-224-short-remarks-annexed-to-justification-by-faith-alone.txt",
   "title": "Nhận Xét Ngắn Về Các Nguyên Tắc Giám Lý",
@@ -2801,7 +2792,7 @@
   "file": "arch-dabney-presbyterianism-modern.txt",
   "title": "TRƯỞNG LÃO GIÁO, VỚI NHỮNG CẢI TIẾN HIỆN ĐẠI",
   "orig": "Presbyterianism, with the modern improvements",
-  "author": "R. L Dabney",
+  "author": "Robert Lewis Dabney",
   "by": "Muse",
   "reviewed": false
  },
@@ -3017,7 +3008,7 @@
   "file": "flavel-lovely.txt",
   "title": "CHÚA GIÊ-XU CHRIST — ĐẤNG ĐÁNG MẾN TRỌN VẸN",
   "orig": "Christ Altogether Lovely",
-  "author": "John <b></b> Flavel",
+  "author": "John Flavel",
   "by": "Muse",
   "reviewed": false
  },
@@ -3034,7 +3025,7 @@
   "id": "209-hiem-nguy-va-bon-phan-cua-chung-ta-thornwell",
   "file": "209-hiem-nguy-va-bon-phan-cua-chung-ta-thornwell.txt",
   "title": "HIỂM NGUY VÀ BỔN PHẬN CỦA CHÚNG TA",
-  "orig": "Book #209",
+  "orig": "Our Danger and Our Duty",
   "author": "Thornwell",
   "by": "Claude",
   "reviewed": false
@@ -3080,7 +3071,7 @@
   "id": "235-bai-giang-ve-di-cung-duc-chua-troi-ban-wales-whitefield-1777",
   "file": "235-bai-giang-ve-di-cung-duc-chua-troi-ban-wales-whitefield-1777.txt",
   "title": "BÀI GIẢNG VỀ ĐI CÙNG ĐỨC CHÚA TRỜI",
-  "orig": "Book #235",
+  "orig": "Walking with God",
   "author": "Whitefield",
   "by": "Claude",
   "reviewed": false
@@ -3144,7 +3135,7 @@
   "id": "223-bai-giang-chia-tay-cuoi-cung-berridge-1792",
   "file": "223-bai-giang-chia-tay-cuoi-cung-berridge-1792.txt",
   "title": "BÀI GIẢNG CHIA TAY CUỐI CÙNG",
-  "orig": "Book #223",
+  "orig": "A Farewell Sermon",
   "author": "Berridge",
   "by": "Claude",
   "reviewed": false
@@ -3153,7 +3144,7 @@
   "id": "222-loi-gui-nguoi-cao-nien-bridge-1679",
   "file": "222-loi-gui-nguoi-cao-nien-bridge-1679.txt",
   "title": "LỜI GỬI NGƯỜI CAO NIÊN",
-  "orig": "Book #222",
+  "orig": "A Word to the Aged",
   "author": "Bridge",
   "by": "Claude",
   "reviewed": false
@@ -3180,7 +3171,7 @@
   "id": "216-chua-la-nguoi-chong-tot-nhat-whitefield-1740",
   "file": "216-chua-la-nguoi-chong-tot-nhat-whitefield-1740.txt",
   "title": "CHÚA LÀ NGƯỜI CHỒNG TỐT NHẤT",
-  "orig": "Book #216",
+  "orig": "Christ the Best Husband",
   "author": "Whitefield",
   "by": "Claude",
   "reviewed": false
@@ -3189,7 +3180,7 @@
   "id": "218-anh-sang-trong-bong-toi-watson-1679",
   "file": "218-anh-sang-trong-bong-toi-watson-1679.txt",
   "title": "ÁNH SÁNG TRONG BÓNG TỐI",
-  "orig": "Book #218",
+  "orig": "Light in Darkness",
   "author": "Watson",
   "by": "Claude",
   "reviewed": false
@@ -3217,7 +3208,7 @@
   "id": "237-cai-nhin-tom-luoc-ve-giao-hoang-che-burroughs-1716",
   "file": "237-cai-nhin-tom-luoc-ve-giao-hoang-che-burroughs-1716.txt",
   "title": "CÁI NHÌN TÓM LƯỢC VỀ GIÁO HOÀNG CHẾ",
-  "orig": "Book #237",
+  "orig": "A Brief View of Popery",
   "author": "Burroughs",
   "by": "Claude",
   "reviewed": false
@@ -3253,7 +3244,7 @@
   "id": "231-bai-giang-hay-huong-long-ve-nhung-su-tren-troi-burroughs-1715",
   "file": "231-bai-giang-hay-huong-long-ve-nhung-su-tren-troi-burroughs-1715.txt",
   "title": "HÃY HƯỚNG LÒNG VỀ NHỮNG SỰ TRÊN TRỜI",
-  "orig": "Book #231",
+  "orig": "Set Your Affections on Things Above",
   "author": "Burroughs",
   "by": "Claude",
   "reviewed": false
@@ -3262,7 +3253,7 @@
   "id": "214-sach-giao-ly-bap-tit-keach-1851",
   "file": "214-sach-giao-ly-bap-tit-keach-1851.txt",
   "title": "SÁCH GIÁO LÝ BÁP-TÍT",
-  "orig": "Book #214",
+  "orig": "Keach's Catechism (The Baptist Catechism)",
   "author": "Keach",
   "by": "Claude",
   "reviewed": false
@@ -3308,7 +3299,7 @@
   "id": "265-tiec-cuoi-tai-ca-na-whitefield-1740",
   "file": "265-tiec-cuoi-tai-ca-na-whitefield-1740.txt",
   "title": "TIỆC CƯỚI TẠI CA-NA",
-  "orig": "Book #265",
+  "orig": "The Marriage at Cana",
   "author": "Whitefield",
   "by": "Claude",
   "reviewed": false
@@ -3385,7 +3376,7 @@
   "file": "flavel-life.txt",
   "title": "Tiểu Sử Mục Sư John Flavel",
   "orig": "Life of the late Rev. Mr. John Flavel",
-  "author": "John <b></b> Flavel",
+  "author": "John Flavel",
   "by": "Muse",
   "reviewed": false
  },
@@ -3411,7 +3402,7 @@
   "id": "263-tam-khan-liem-cho-giao-hoang-che-baxter-1657",
   "file": "263-tam-khan-liem-cho-giao-hoang-che-baxter-1657.txt",
   "title": "TẤM KHĂN LIỆM CHO GIÁO HOÀNG CHẾ",
-  "orig": "Book #263",
+  "orig": "A Winding-Sheet for Popery",
   "author": "Baxter",
   "by": "Claude",
   "reviewed": false
@@ -3918,7 +3909,7 @@
   "file": "arch-gill-predestination-1752.txt",
   "title": "TRÌNH BÀY GIÁO LÝ TIỀN ĐỊNH",
   "orig": "The doctrine of predestination stated, and set in the scripture-light; in opposition to Mr. Wesley's Predestination calm",
-  "author": "John. Gill",
+  "author": "John Gill",
   "by": "Muse",
   "reviewed": false
  },
@@ -4133,7 +4124,7 @@
   "file": "arch-dabney-true-courage.txt",
   "title": "LÒNG CAN ĐẢM CHÂN THẬT",
   "orig": "True courage: a discourse commemorative of Lieut. General T. J. Jackson",
-  "author": "R. L. Dabney",
+  "author": "Robert Lewis Dabney",
   "by": "Muse",
   "reviewed": false
  },
@@ -4318,7 +4309,7 @@
   "file": "arch-owen-brief-impartial-account.txt",
   "title": "LƯỢC THUẬT VỀ BẢN CHẤT ĐẠO TIN LÀNH",
   "orig": "A brief and impartial account of the nature of the Protestant religion: ... 1690",
-  "author": "John, D.D. Owen",
+  "author": "John Owen",
   "by": "Muse",
   "reviewed": false
  },
@@ -4356,7 +4347,7 @@
   "file": "arch-flavel-unspeakable-misery.txt",
   "title": "NỖI KHỐN KHỔ KHÔN TẢ CỦA LINH HỒN ĐÃ QUA ĐỜI",
   "orig": "A discourse of the unspeakable misery of the departed spirits of the unregenerate in the prison of hell while reserved t",
-  "author": "John. Flavel",
+  "author": "John Flavel",
   "by": "Muse",
   "reviewed": false
  },
@@ -4636,7 +4627,7 @@
   "file": "owen-grotius.txt",
   "title": "Bài Đánh Giá Các Chú Thích Của Hugo Grotius",
   "orig": "Review of the Annotations of Hugo Grotius",
-  "author": "John (1616-1683) <b>(32 classics)</b> Owen",
+  "author": "John Owen",
   "by": "Muse",
   "reviewed": false
  },
@@ -4668,7 +4659,7 @@
   "reviewed": false
  },
  {
-  "author": "Plumer. William S.",
+  "author": "William S. Plumer",
   "by": "Muse",
   "file": "687-short-sermons-to-little-children.txt",
   "id": "687",
@@ -4776,7 +4767,7 @@
   "file": "723-dau-giao-uoc-cho-vet-thuong-flavel.txt",
   "title": "DẦU GIAO ƯỚC CHO VẾT THƯƠNG CỦA CÁC THÁNH ĐỒ ĐAU KHỔ",
   "orig": "The Balm of the Covenant Applied to the Bleeding Wounds of Afflicted Saints",
-  "author": "Flavel. John",
+  "author": "John Flavel",
   "by": "Muse",
   "reviewed": false
  },
@@ -4906,7 +4897,7 @@
   "words_vi": 21148
  },
  {
-  "author": "Newton. John",
+  "author": "John Newton",
   "by": "Muse",
   "file": "686-apologia-bon-buc-thu.txt",
   "id": "686",
@@ -5000,7 +4991,7 @@
   "words_vi": 21381
  },
  {
-  "author": "Gill. John",
+  "author": "John Gill",
   "by": "Muse",
   "file": "665-loi-dap-tac-gia-doi-thoai-birmingham.txt",
   "id": "665",
@@ -5131,7 +5122,7 @@
   "words_vi": 23437
  },
  {
-  "author": "Henry. Matthew",
+  "author": "Matthew Henry",
   "by": "Muse",
   "file": "692-sober-mindedness-pressd-upon-young-people.txt",
   "id": "692",
@@ -5249,7 +5240,7 @@
   "file": "704-ke-lui-di-trong-duc-tin-fuller.txt",
   "title": "KẺ LUI ĐI TRONG ĐỨC TIN",
   "orig": "Backslider",
-  "author": "Fuller. Andrew. 1754-1815",
+  "author": "Andrew Fuller",
   "by": "Muse",
   "reviewed": false
  },
@@ -5408,12 +5399,12 @@
   "file": "727-nhat-ky-hanh-trinh-whitefield.txt",
   "title": "NHẬT KÝ HÀNH TRÌNH TỪ LUÂN ĐÔN ĐẾN SAVANNAH XỨ GEORGIA CỦA GEORGE WHITEFIELD (1739)",
   "orig": "A Journal of a Voyage from London to Savannah in Georgia",
-  "author": "Whitefield. George.",
+  "author": "George Whitefield",
   "by": "Muse",
   "reviewed": false
  },
  {
-  "author": "Warfield. Benjamin Breckinridge",
+  "author": "Benjamin B. Warfield",
   "by": "Muse",
   "file": "list-760-tinh-xac-thuc-thu-ii-phi-e-ro-warfield.txt",
   "id": "list-760",
@@ -5431,7 +5422,7 @@
   "title": "Cho Đến Lúc Bình Minh: và các Thánh Ca cùng Bài Thơ để lại"
  },
  {
-  "author": "John Owen (chaplain)",
+  "author": "John Owen",
   "by": "Muse",
   "file": "arch-bim_early-english-books-1641-1-than-khoc-thai-qua-owen.txt",
   "id": "arch-bim_early-english-books-1641-1",
@@ -5532,7 +5523,7 @@
   "reviewed": false
  },
  {
-  "author": "Dabney. Robert Lewis. 1820-1898",
+  "author": "Robert Lewis Dabney",
   "by": "Muse",
   "file": "list-761-ngay-sa-bat-co-doc-dabney.txt",
   "id": "list-761",
@@ -5657,7 +5648,7 @@
   "file": "729-dap-loi-to-trinh-romaine.txt",
   "title": "ĐÁP LỜI TỜ TRÌNH, CÓ TỰA ĐỀ: NHỮNG CÂN NHẮC VỀ DỰ LUẬT CHO PHÉP NHỮNG NGƯỜI TUYÊN NHẬN TÔN GIÁO DO THÁI ĐƯỢC NHẬP TỊCH",
   "orig": "An Answer to a Pamphlet, entitled, Considerations on the Bill to Permit Persons Professing the Jewish Religion to be Naturalized",
-  "author": "Romaine. William",
+  "author": "William Romaine",
   "by": "Muse",
   "reviewed": false
  },
@@ -5666,7 +5657,7 @@
   "file": "733-chan-ly-duoc-bao-ve-gill.txt",
   "title": "CHÂN LÝ ĐƯỢC BẢO VỆ: LÀ LỜI ĐÁP LẠI MỘT CUỐN SÁCH NHỎ NẶC DANH MANG TỰA ĐỀ \"MỘT SỐ GIÁO LÝ TRONG LẬP TRƯỜNG SIÊU-LẬP ĐƯỢC KHẢO XÉT MỘT CÁCH VÔ TƯ THEO LỜI ĐỨC CHÚA TRỜI\"",
   "orig": "Truth Defended: Being an Answer to an Anonymous Pamphlet",
-  "author": "Gill. John.",
+  "author": "John Gill",
   "by": "Muse",
   "reviewed": false
  },
@@ -6410,7 +6401,7 @@
   "file": "853-su-tram-trong-cua-toi-loi-goodwin.txt",
   "title": "Sự Nghiêm Trọng Của Tội Lỗi, Và Việc Phạm Tội Nghịch Lại Sự Hiểu Biết",
   "orig": "Aggravation of sinne: and sinning against knowledge. 1637",
-  "author": "Thomas. Goodwin",
+  "author": "Thomas Goodwin",
   "by": "Muse",
   "reviewed": false
  },
@@ -6515,7 +6506,7 @@
   "words_vi": 43010
  },
  {
-  "author": "Robert Lewis, 1820-1898 Dabney",
+  "author": "Robert Lewis Dabney",
   "by": "Muse",
   "file": "arch-memorialofchrist00dabn-tuong-niem-sampson-dabney.txt",
   "id": "arch-memorialofchrist00dabn",
@@ -6651,7 +6642,7 @@
   "reviewed": false
  },
  {
-  "author": "John (1616–1683) Owen",
+  "author": "John Owen",
   "by": "Muse",
   "file": "arch-bim_eighteenth-century_of-the-_giet-chet-toi-loi-owen.txt",
   "id": "arch-bim_eighteenth-century_of-the-",
@@ -6678,7 +6669,7 @@
   "reviewed": false
  },
  {
-  "author": "John Flavel (1630-1691)",
+  "author": "John Flavel",
   "by": "Muse",
   "file": "arch-treatiseonkeepin01flav_0-luan-ve-viec-giu-gin-tam-long-flavel.txt",
   "id": "arch-treatiseonkeepin01flav_0",
@@ -13111,7 +13102,7 @@
   "id": "ai3-076-sensualistic-philosophy-nineteenth-century-dabney",
   "title": "TRIẾT HỌC DUY CẢM CỦA THẾ KỶ MƯỜI CHÍN, ĐƯỢC XEM XÉT",
   "orig": "The sensualistic philosophy of the nineteenth century",
-  "author": "Robert L. Dabney",
+  "author": "Robert Lewis Dabney",
   "by": "AI-3",
   "reviewed": false,
   "file": "076-sensualistic-philosophy-nineteenth-century-dabney.txt"
@@ -13327,7 +13318,7 @@
   "id": "ai3-173-sacred-rhetoric-course-lectures-preaching-delivered-dabney",
   "title": "HÙNG BIỆN THÁNH: MỘT LOẠT BÀI GIẢNG VỀ SỰ GIẢNG ĐẠO",
   "orig": "Sacred rhetoric : or a course of lectures on preaching",
-  "author": "Robert L. Dabney",
+  "author": "Robert Lewis Dabney",
   "by": "AI-3",
   "reviewed": false,
   "file": "173-sacred-rhetoric-course-lectures-preaching-delivered-dabney.txt"
@@ -13939,7 +13930,7 @@
   "file": "573-hanh-phuc-cua-cac-thanh-do-trong-vinh-hien.txt",
   "title": "Hạnh Phúc Của Các Thánh Đồ Trong Vinh Hiển",
   "orig": "The Happinesſe of the Saints in Glory: Or, A Treatise of Heaven. On Rom. 8.18",
-  "author": "Tho. Goodwin",
+  "author": "Thomas Goodwin",
   "by": "AI-2",
   "reviewed": false,
   "words_vi": 13872
@@ -26099,7 +26090,7 @@
   "file": "arch-acommentarycrit00owengoog.txt",
   "title": "BÌNH GIẢI PHÊ BÌNH, GIẢI NGHĨA VÀ THỰC HÀNH VỀ CÁC PHÚC ÂM MA-THI-Ơ VÀ MÁC, DÀNH CHO MỤC SƯ, SINH VIÊN THẦN HỌC, CƠ ĐỐC NHÂN, LỚP KINH THÁNH VÀ TRƯỜNG CHÚA NHẬT",
   "orig": "A commentary, critical, expository and practical, on the Gospels of Ma",
-  "author": "John J. Owen",
+  "author": "John Owen",
   "by": "AI-2",
   "reviewed": false
  },
@@ -26261,7 +26252,7 @@
   "file": "arch-commentarycritic0000owen.txt",
   "title": "BÌNH GIẢI PHÊ BÌNH, GIẢI NGHĨA VÀ THỰC HÀNH VỀ PHÚC ÂM GIĂNG, DÀNH CHO MỤC SƯ, SINH VIÊN THẦN HỌC, CƠ ĐỐC NHÂN, LỚP KINH THÁNH VÀ TRƯỜNG CHÚA NHẬT",
   "orig": "A commentary, critical, expository, and practical, on the Gospel of Jo",
-  "author": "John J. Owen",
+  "author": "John Owen",
   "by": "AI-2",
   "reviewed": false
  },
@@ -26270,7 +26261,7 @@
   "file": "arch-commentarycritic0000owen_p7g4.txt",
   "title": "BÌNH GIẢI PHÊ BÌNH, GIẢI KINH VÀ THỰC HÀNH VỀ PHÚC ÂM LU-CA, DÀNH CHO MỤC SƯ, SINH VIÊN THẦN HỌC, TÍN HỮU, CÁC LỚP KINH THÁNH VÀ TRƯỜNG CHÚA NHẬT",
   "orig": "A commentary, critical, expository, and practical on the gospel of Luk",
-  "author": "John J. Owen",
+  "author": "John Owen",
   "by": "AI-2",
   "reviewed": false
  },
