@@ -16375,15 +16375,6 @@
   "title": "NHỮNG LỜI CẦU NGUYỆN RIÊNG THÁNH THIÊNG CHO CHỦ GIA ĐÌNH SUY NGẪM"
  },
  {
-  "author": "Geerhardus Vos",
-  "by": "Muse",
-  "file": "translations/mg1-749-grace-and-glory-vos.txt",
-  "id": "mg1-749-grace-and-glory-vos",
-  "orig": "Grace and Glory",
-  "reviewed": false,
-  "title": "ÂN ĐIỂN VÀ VINH HIỂN"
- },
- {
   "author": "Theodorus van der Groe",
   "by": "Muse",
   "file": "translations/mg1-750-he-who-overcomes-vandergroe.txt",
@@ -16481,24 +16472,6 @@
   "orig": "Instruction in Christian Love",
   "reviewed": false,
   "title": "SỰ DẠY DỖ TRONG TÌNH YÊU THƯƠNG CƠ ĐỐC"
- },
- {
-  "author": "Martyn Lloyd-Jones",
-  "by": "Muse",
-  "file": "translations/mg1-785-effectual-calling-regeneration-lloydjones.txt",
-  "id": "mg1-785-effectual-calling-regeneration-lloydjones",
-  "orig": "Effectual Calling & Regeneration",
-  "reviewed": false,
-  "title": "SỰ KÊU GỌI HỮU HIỆU VÀ SỰ TÁI SINH"
- },
- {
-  "author": "Martyn Lloyd-Jones",
-  "by": "Muse",
-  "file": "translations/mg1-786-plight-of-man-lloyd-jones.txt",
-  "id": "mg1-786-plight-of-man-lloyd-jones",
-  "orig": "The Plight of Man and the Power of God",
-  "reviewed": false,
-  "title": "TÌNH CẢNH KHỐN KHỔ CỦA CON NGƯỜI VÀ QUYỀN NĂNG CỦA ĐỨC CHÚA TRỜI"
  },
  {
   "author": "Samuel Rutherford",
@@ -17219,15 +17192,6 @@
   "desc": "",
   "by": "Muse",
   "reviewed": false
- },
- {
-  "author": "Geerhardus Vos",
-  "by": "Muse",
-  "file": "translations/mg1-1029-eschatology-vos.txt",
-  "id": "mg1-1029-eschatology-vos",
-  "orig": "The Eschatology of the New Testament",
-  "reviewed": false,
-  "title": "THẦN HỌC VỀ THỜI KỲ CUỐI CÙNG TRONG TÂN ƯỚC"
  },
  {
   "author": "W. J. Seaton",
@@ -19705,15 +19669,6 @@
   "file": "mg1-627-beneath-the-cross-everard.txt"
  },
  {
-  "id": "mg1-630-biblical-theology-old-and-new-testaments-biblical-vos",
-  "title": "THẦN HỌC KINH THÁNH: CỰU ƯỚC VÀ TÂN ƯỚC",
-  "orig": "Biblical Theology: Old and New Testaments (Biblical Studies eBook)",
-  "author": "Geerhardus Vos",
-  "by": "MG-2",
-  "reviewed": false,
-  "file": "mg1-630-biblical-theology-old-and-new-testaments-biblical-vos.txt"
- },
- {
   "id": "mg1-637-cases-of-conscience-answered-in-an-evangelical-man-pike",
   "title": "NHỮNG TRƯỜNG HỢP LƯƠNG TÂM: ĐƯỢC TRẢ LỜI THEO CÁCH TIN LÀNH",
   "orig": "Cases of Conscience: Answered in an Evangelical Manner",
@@ -19919,15 +19874,6 @@
   "by": "MG-2",
   "reviewed": false,
   "file": "mg1-703-eternal-or-extinguished-a-biblical-response-to-con-monergism.txt"
- },
- {
-  "id": "mg1-706-evil-and-theodicy-reformed-theology-ebook-van-til",
-  "title": "SỰ ÁC VÀ THẦN NGHĨA HỌC",
-  "orig": "Evil and Theodicy (Reformed Theology eBook)",
-  "author": "Cornelius Van Til",
-  "by": "MG-2",
-  "reviewed": false,
-  "file": "mg1-706-evil-and-theodicy-reformed-theology-ebook-van-til.txt"
  },
  {
   "id": "mg1-709-exposition-of-psalm-119-bible-commentary-ebook-bridges",
@@ -24268,15 +24214,6 @@
   "file": "mg1-501-what-is-faith-reformed-theology-ebook-machen.txt"
  },
  {
-  "id": "mg1-502-the-covenant-of-grace-reformed-theology-ebook-murray",
-  "title": "GIAO ƯỚC ÂN ĐIỂN",
-  "orig": "The Covenant of Grace",
-  "author": "John Murray",
-  "by": "MG-3",
-  "reviewed": false,
-  "file": "mg1-502-the-covenant-of-grace-reformed-theology-ebook-murray.txt"
- },
- {
   "id": "mg1-508-a-body-of-doctrinal-divinity-reformed-theology-ebo-gill",
   "title": "HỆ THỐNG THẦN HỌC GIÁO LÝ",
   "orig": "A Body of Doctrinal Divinity",
@@ -24779,15 +24716,6 @@
   "by": "MG-3",
   "reviewed": false,
   "file": "mg1-680-death-disarmed-of-its-sting-from-several-considera-hopkins.txt"
- },
- {
-  "id": "mg1-681-defending-the-faith-reformed-theology-ebook-van-til",
-  "title": "BẢO VỆ ĐỨC TIN",
-  "orig": "Defending the Faith",
-  "author": "Cornelius Van Til",
-  "by": "MG-3",
-  "reviewed": false,
-  "file": "mg1-681-defending-the-faith-reformed-theology-ebook-van-til.txt"
  },
  {
   "id": "mg1-687-discussions-on-church-principles-popish-erastian-a-cunningham",
@@ -25744,15 +25672,6 @@
   "file": "mg1-1007-the-doctrine-of-justification-an-outline-of-its-hi-buchanan.txt"
  },
  {
-  "id": "338",
-  "title": "GIÁO LÝ VỀ GIAO ƯỚC TRONG THẦN HỌC CẢI CHÁNH",
-  "orig": "The Doctrine of the Covenant in Reformed Theology",
-  "author": "Geerhardus Vos",
-  "by": "MG-3",
-  "reviewed": false,
-  "file": "mg1-1013-the-doctrine-of-the-covenant-in-reformed-theology-vos.txt"
- },
- {
   "id": "339",
   "title": "GIÁO LÝ CỦA CÔNG ĐỒNG DORT",
   "orig": "The Doctrine of the Synod of Dort",
@@ -26057,15 +25976,6 @@
   "by": "MG-3",
   "reviewed": false,
   "file": "mg1-1117-the-pathway-to-salvation-vandergroe.txt"
- },
- {
-  "id": "373",
-  "title": "CÁNH CHUNG LUẬN CỦA PHAO-LÔ",
-  "orig": "The Pauline Eschatology",
-  "author": "Geerhardus Vos",
-  "by": "MG-3",
-  "reviewed": false,
-  "file": "mg1-1118-the-pauline-eschatology-biblical-studies-ebook-vos.txt"
  },
  {
   "id": "374",
