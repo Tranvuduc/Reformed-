@@ -97,7 +97,7 @@ function expand(d){
 
 function prog(id){return st.prog[id]||{s:"todo",p:0}}
 function fold(s){return String(s).toLowerCase().replace(/đ/g,"d").normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
-var _qf=null;
+var SYN=[["phuc am","tin lanh"],["an dien","an sung"],["su xung cong chinh","xung nghia"],["duc thanh linh","thanh linh"],["hoi thanh","giao hoi"]];
 function passes(b){
   var p=prog(b.id),q=st.q.toLowerCase();
   if(st.f==="saved"&&st.saved.indexOf(b.id)<0)return false;
@@ -110,8 +110,11 @@ function passes(b){
   if(st.ty!=="all"&&b.ty!==st.ty)return false;
   if(st.er!=="all"&&b.er!==st.er)return false;
   if(q){
+    var qf=fold(q),alts=[qf],si,sa,sc;
+    for(si=0;si<SYN.length;si++){sa=SYN[si][0];sc=SYN[si][1];if(qf.indexOf(sa)>=0)alts.push(qf.split(sa).join(sc));else if(qf.indexOf(sc)>=0)alts.push(qf.split(sc).join(sa))}
     var hay=b._hay||(b._hay=fold([b.a,b.en.t,b.en.n,b.vi&&b.vi.t,b.vi&&b.vi.n,DESC[b.id]&&DESC[b.id][0],DESC[b.id]&&DESC[b.id][1]].join(" ")));
-    if(hay.indexOf(_qf||(_qf=fold(q)))<0)return false;
+    var ok=false,ai;for(ai=0;ai<alts.length;ai++){if(hay.indexOf(alts[ai])>=0){ok=true;break}}
+    if(!ok)return false;
   }
   return true;
 }
