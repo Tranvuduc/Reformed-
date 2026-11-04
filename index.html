@@ -130,7 +130,7 @@ html[data-theme="dark"] .rv-tchip[aria-pressed="true"]{color:var(--accent-fg)}
 <nav class="nav">
   <a class="brand" href="/"><i></i>Reformed <b>Vietnam</b></a>
   <nav class="links" id="nl" aria-label="Main"></nav>
-  <button class="btn" id="lang" type="button" aria-label="Language"></button>
+  <!-- TẠM ẨN 2026-11-04: language switcher --><button class="btn" id="lang" type="button" aria-label="Language" style="display:none"></button>
   <button class="btn" id="theme" type="button" aria-label="Dark mode" title="Dark mode"></button>
   <details class="menu"><summary class="btn" id="menu" aria-label="Menu">⋯</summary><div class="pop"><button class="btn" id="menuClose" type="button">✕ Đóng</button>
     <div class="mx" id="mx"></div><button class="btn" id="sync" type="button"></button><a class="btn" id="about" href="about.html"></a>
@@ -359,7 +359,7 @@ if("IntersectionObserver" in window){
 /* Review fixes 2026-11-04: 5-item main nav + "Sách mới cập nhật" footer label (app.js owns #nl via renderTiles and data-i labels; this enforces the approved set after it runs) */
 (function(){
 var NAV=[["index.html","Trang chính","Home"],["tieng-viet.html","Sách","Books"],["sach-noi.html","Sách nói","Audiobooks"],["bat-dau.html","Bắt đầu","Start here"],["cong-cu-hoc.html","Học","Study"]];
-function lang(){try{return localStorage.getItem("rv.lang")==="en"?1:0}catch(e){return 0}}
+function lang(){return 0/* TẠM ẨN 2026-11-04: English hidden - Vietnamese only */}
 function apply(){
   var nl=document.getElementById("nl");
   if(nl){var i=lang(),h=NAV.map(function(m){return '<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");if(nl.innerHTML!==h)nl.innerHTML=h;}
