@@ -1,0 +1,118 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lọc sách theo chủ đề, cấp độ, độ dài | Reformed Vietnam</title><meta name="description" content="Lọc 2.863 sách Cải Chánh tiếng Việt theo chủ đề, cấp độ (Mới tin Chúa / Đang lớn lên / Học sâu) và độ dài."><link rel="canonical" href="https://reformed-vietnam.vercel.app/loc-sach.html">
+<meta property="og:type" content="article"><meta property="og:title" content="Lọc sách theo chủ đề, cấp độ, độ dài | Reformed Vietnam"><meta property="og:description" content="Lọc 2.863 sách Cải Chánh tiếng Việt theo chủ đề, cấp độ và độ dài."><meta property="og:url" content="https://reformed-vietnam.vercel.app/loc-sach.html"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<script>try{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
+<style>:root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--card:#fffdf7;--line:#e3d3b6}@media (prefers-color-scheme:dark){:root{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--card:#241f17;--line:#3a3325}}html[data-theme=dark]{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--card:#241f17;--line:#3a3325}html[data-theme=light]{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--card:#fffdf7;--line:#e3d3b6}</style>
+<link rel="stylesheet" href="/s.css?v=20261106">
+<style>
+.ls-wrap{max-width:960px;margin:0 auto;padding:0 14px}
+.ls-filters{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:14px 0}
+.ls-q{width:100%;box-sizing:border-box;padding:10px 12px;font-size:1rem;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg);margin-bottom:12px}
+.ls-flabel{font-size:.82rem;color:var(--mut);margin:10px 0 6px;text-transform:uppercase;letter-spacing:.04em}
+.ls-chips{display:flex;flex-wrap:wrap;gap:8px}
+.ls-chip{border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:999px;padding:6px 12px;font-size:.88rem;cursor:pointer}
+.ls-chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:#fff}
+.ls-count{color:var(--mut);font-size:.9rem;margin:12px 0 8px}
+.ls-list{display:grid;gap:8px}
+.ls-row{display:block;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;text-decoration:none;color:var(--fg)}
+.ls-t{font-weight:600}
+.ls-a{font-size:.85rem;color:var(--mut)}
+.ls-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.ls-tag{font-size:.75rem;border:1px solid var(--line);border-radius:999px;padding:2px 8px;color:var(--mut)}
+.ls-more{display:block;width:100%;margin:14px 0;padding:12px;border:1px solid var(--acc);background:transparent;color:var(--acc);border-radius:10px;font-size:1rem;cursor:pointer}
+.ls-empty{color:var(--mut);padding:24px 0;text-align:center}
+</style></head><body><main>
+<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/bat-dau.html">Bắt đầu</a> · <a href="/loc-sach.html" aria-current="page">Lọc sách</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
+<div class="ls-wrap">
+<h1>Lọc sách</h1>
+<p class="ls-count" id="ls-status">Đang tải danh sách sách…</p>
+<div class="ls-filters">
+<input class="ls-q" id="ls-q" type="search" placeholder="Tìm theo tên sách hoặc tác giả (không cần dấu)…" aria-label="Tìm sách">
+<div class="ls-flabel">Chủ đề</div>
+<div class="ls-chips" id="ls-topics" role="group" aria-label="Chủ đề"></div>
+<div class="ls-flabel">Cấp độ</div>
+<div class="ls-chips" id="ls-levels" role="group" aria-label="Cấp độ"></div>
+<div class="ls-flabel">Độ dài</div>
+<div class="ls-chips" id="ls-lengths" role="group" aria-label="Độ dài"></div>
+</div>
+<div class="ls-list" id="ls-list"></div>
+<button class="ls-more" id="ls-more" type="button" hidden>Xem thêm</button>
+<p class="ls-empty" id="ls-empty" hidden>Không tìm thấy sách nào phù hợp. Thử nới rộng điều kiện lọc.</p>
+</div>
+<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · Liên hệ: reformedvn@gmail.com</footer>
+</main>
+<script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script>
+<script>(function(){
+var LEVELS={1:"Mới tin Chúa",2:"Đang lớn lên",3:"Học sâu"};
+var LENGTHS={ngan:"Sách ngắn (dưới 1 giờ)",vua:"Dài vừa",dai:"Rất dài"};
+var state={q:"",topic:"",level:"",length:""};
+var BOOKS=[],shown=0,PAGE=60;
+function unorm(s){return (s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/đ/g,"d").replace(/Đ/g,"d")}
+function chip(parent,label,val,cur,cb){var b=document.createElement("button");b.type="button";b.className="ls-chip";b.textContent=label;b.setAttribute("aria-pressed",val===cur?"true":"false");b.onclick=function(){cb(val)};parent.appendChild(b)}
+function renderChips(){
+  var tp=document.getElementById("ls-topics");tp.innerHTML="";
+  chip(tp,"Tất cả","",state.topic,function(v){state.topic=v;reset()});
+  TOPICS.forEach(function(t){chip(tp,t,t,state.topic,function(v){state.topic=v;reset()})});
+  var lv=document.getElementById("ls-levels");lv.innerHTML="";
+  chip(lv,"Tất cả","",state.level,function(v){state.level=v;reset()});
+  [1,2,3].forEach(function(l){chip(lv,LEVELS[l],String(l),state.level,function(v){state.level=v;reset()})});
+  var ln=document.getElementById("ls-lengths");ln.innerHTML="";
+  chip(ln,"Tất cả","",state.length,function(v){state.length=v;reset()});
+  Object.keys(LENGTHS).forEach(function(k){chip(ln,LENGTHS[k],k,state.length,function(v){state.length=v;reset()})});
+}
+function matches(b){
+  if(state.topic&&(b.topics||[]).indexOf(state.topic)<0)return false;
+  if(state.level&&String(b.level)!==state.level)return false;
+  if(state.length&&b.length!==state.length)return false;
+  if(state.q){var hay=unorm(b.short+" "+b.author);if(hay.indexOf(unorm(state.q))<0)return false}
+  return true;
+}
+function row(b){
+  var a=document.createElement("a");a.className="ls-row";a.href="/ban-dich/"+b.slug+".html";
+  var t=document.createElement("div");t.className="ls-t";t.textContent=b.short;a.appendChild(t);
+  var au=document.createElement("div");au.className="ls-a";au.textContent=b.author;a.appendChild(au);
+  var tags=document.createElement("div");tags.className="ls-tags";
+  (b.topics||[]).slice(0,3).forEach(function(x){var s=document.createElement("span");s.className="ls-tag";s.textContent=x;tags.appendChild(s)});
+  if(b.level&&LEVELS[b.level]){var s2=document.createElement("span");s2.className="ls-tag";s2.textContent=LEVELS[b.level];tags.appendChild(s2)}
+  if(b.length&&LENGTHS[b.length]){var s3=document.createElement("span");s3.className="ls-tag";s3.textContent=LENGTHS[b.length];tags.appendChild(s3)}
+  a.appendChild(tags);return a;
+}
+function reset(){shown=0;renderChips();render(true)}
+function render(clear){
+  var list=document.getElementById("ls-list"),more=document.getElementById("ls-more"),empty=document.getElementById("ls-empty"),status=document.getElementById("ls-status");
+  if(clear)list.innerHTML="";
+  var res=BOOKS.filter(matches);
+  status.textContent="Tìm thấy "+res.length.toLocaleString("vi-VN")+" sách";
+  var slice=res.slice(shown,shown+PAGE);
+  slice.forEach(function(b){list.appendChild(row(b))});
+  shown+=slice.length;
+  more.hidden=shown>=res.length;
+  empty.hidden=res.length>0;
+}
+document.getElementById("ls-more").onclick=function(){render(false)};
+var qbox=document.getElementById("ls-q"),qt=null;
+qbox.addEventListener("input",function(){clearTimeout(qt);qt=setTimeout(function(){state.q=qbox.value;reset()},200)});
+var TOPICS=[];
+function init(books){
+  BOOKS=books;
+  var seen={};books.forEach(function(b){(b.topics||[]).forEach(function(t){seen[t]=1})});
+  TOPICS=Object.keys(seen).sort(function(a,b){return a.localeCompare(b,"vi")});
+  try{var p=new URLSearchParams(location.search);
+    if(p.get("topic"))state.topic=p.get("topic");
+    if(p.get("level"))state.level=p.get("level");
+    if(p.get("length"))state.length=p.get("length");
+    if(p.get("q")){state.q=p.get("q");qbox.value=state.q}
+  }catch(e){}
+  reset();
+}
+function load(urls,i){
+  if(i>=urls.length){document.getElementById("ls-status").textContent="Không tải được danh sách sách.";return}
+  fetch(urls[i]).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+    if(!Array.isArray(d)||!d.length)throw 0;
+    init(d.map(function(b){return{id:b.id,short:b.short||b.title,author:b.author||"",slug:b.slug||((b.file||"").replace(/\.txt$/,"")),level:b.level,length:b.length,topics:b.topics||[]}}));
+  }).catch(function(){load(urls,i+1)});
+}
+load(["/translations/index-lite.json","/translations/index.min.json","/translations/index.json"],0);
+})();</script>
+</body></html>
