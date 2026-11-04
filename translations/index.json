@@ -8636,21 +8636,6 @@
   "short": "Cây Vả Không Trái: Số Phận"
  },
  {
-  "id": "arch/bim_eighteenth-century_preservatives-against-me_baxter-richard_1716",
-  "file": "arch-baxter-preservatives-melancholy.txt",
-  "title": "THUỐC NGỪA BỆNH ƯU PHIỀN VÀ SẦU MUỘN QUÁ ĐỘ",
-  "orig": "Preservatives against melancholy and overmuch sorrow",
-  "author": "Richard Baxter",
-  "by": "Muse",
-  "reviewed": false,
-  "topics": [
-   "Đức Tin"
-  ],
-  "level": 2,
-  "length": "vua",
-  "short": "Thuốc Ngừa Bệnh Ưu Phiền Và"
- },
- {
   "id": "arch/touchstoneofsinc00flav",
   "file": "arch-flavel-touchstone-sincerity.txt",
   "title": "HÒN ĐÁ THỬ LÒNG THÀNH THẬT",
@@ -10638,22 +10623,6 @@
   "level": 1,
   "length": "vua",
   "short": "Buổi Sáng Của Niềm Vui"
- },
- {
-  "id": "arch/compassionatewar00baxtuoft",
-  "title": "LỜI CẢNH BÁO ĐẦY THƯƠNG XÓT",
-  "orig": "Compassionate Warning and Advice to All, Especially to Young Persons",
-  "author": "Richard Baxter",
-  "file": "arch-baxter-compassionate-warning.txt",
-  "by": "Muse",
-  "reviewed": false,
-  "src": "https://archive.org/download/compassionatewar00baxtuoft/compassionatewar00baxtuoft_djvu.txt",
-  "topics": [
-   "Đức Tin"
-  ],
-  "level": 2,
-  "length": "vua",
-  "short": "Lời Cảnh Báo Đầy Thương Xót"
  },
  {
   "id": "arch/bim_eighteenth-century_heaven-taken-by-storm-o_watson-thomas_1788",
@@ -43733,5 +43702,35 @@
   "level": 3,
   "length": "dai",
   "short": "Các Luận Đề Thần Học Chung"
+ },
+ {
+  "id": "baxter/melancholy",
+  "file": "baxter-melancholy.txt",
+  "title": "Sự Chữa Lành Nỗi Buồn Rầu Và Sự Đau Buồn Quá Độ",
+  "orig": "The Cure of Melancholy and Overmuch Sorrow",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Sự Chữa Lành Nỗi Buồn Rầu"
+ },
+ {
+  "id": "baxter/compassionate-counsel",
+  "file": "baxter-compassionate-counsel.txt",
+  "title": "Lời Khuyên Thương Xót Gửi Đến Tất Cả Thanh Niên",
+  "orig": "Compassionate Counsel to All Young Men",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Lời Khuyên Thương Xót Gửi Thanh Niên"
  }
 ]
