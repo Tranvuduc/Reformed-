@@ -25,8 +25,8 @@ var ERAMID={anc:1000,ref:1550,pur:1650,aw:1750,mod:1850,c20:1950};
 try{
   st.saved=JSON.parse(localStorage.getItem("rv.saved")||"[]");
   st.prog=JSON.parse(localStorage.getItem("rv.prog")||"{}");
-  var l=localStorage.getItem("rv.lang");
-  if(l)st.lang=l;
+  try{localStorage.setItem("rv.lang","vi")}catch(e){}
+  st.lang="vi";/* TẠM ẨN 2026-11-04: English hidden - Vietnamese only */
 }catch(e){}
 function saveLS(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
