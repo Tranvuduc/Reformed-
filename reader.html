@@ -236,7 +236,7 @@ function moreView(b){
   var bm=bmList(),h='<button class="act" id="mBm">🔖 '+L.addm+'</button><button class="act" id="mHl">🖍 '+L.hl+" ("+hlList().length+")</button>";
   if(SV)h+='<button class="act" id="mRev">'+(REV?"✅ Chế độ duyệt: BẬT":"✓ Chế độ duyệt bản dịch")+"</button>";
   h+='<div class="lab">'+L.marks+"</div>"+(bm.length?bm.map(function(m,i){return'<button class="li" data-p="'+m.p+'" data-i="'+i+'">'+esc(m.s)+"<small>"+L.page+" "+(m.p+1)+' · <span data-del="'+i+'">'+L.del+"</span></small></button>"}).join(""):'<div style="color:var(--mut);margin-bottom:10px">'+L.nom+"</div>");
-  h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>"+(trm!=="0"?'<a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+repHref()+'">⚠️ '+L.rep+"</a>":"");
+  h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>"+'<a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+repHref()+'">'+L.rep+"</a>";
   b.innerHTML=h;
   b.onclick=function(ev){
     var d=ev.target.closest("[data-del]");if(d){var a=bmList();a.splice(+d.dataset.del,1);ls("rv.bm."+id,JSON.stringify(a));moreView(b);ev.stopPropagation();return}
