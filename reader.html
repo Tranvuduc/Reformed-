@@ -84,8 +84,8 @@ function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorag
 function esc(s){return String(s).replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})}
 function fold(s){return String(s).toLowerCase().replace(/đ/g,"d").normalize("NFD").replace(/[̀-ͯ]/g,"")}
 var lang=ls("rv.lang")==="en"?"en":"vi";
-var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Bạn chưa đánh dấu trang nào.",nores:"Không tìm thấy kết quả.",epub:"Tải EPUB",pdf:"In hoặc lưu cả cuốn thành PDF",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Đây là bản dịch máy, chưa có thẩm quyền, nên một số thuật ngữ giáo lý có thể sai. Bạn hãy đối chiếu với bản gốc và Kinh Thánh, và hỏi mục sư khi cần.",trf:"Chưa dịch được lúc này. Bạn thử lại sau nhé.",fail:"Chưa mở được sách này ở đây.",open:"Mở trên CCEL",nov:"Máy của bạn chưa có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",gt:"🌐 Giọng Google (nhanh, cần mạng)",novi:"— Máy chưa có giọng tiếng Việt —",pload:"Lần đầu cần tải giọng Piper (~60MB), bạn chờ một lát nhé…",gfail:"Chưa phát được giọng Google, đang chuyển sang giọng có sẵn trong máy.",pfail:"Chưa tải được giọng Piper, đang chuyển sang giọng có sẵn trong máy.",res:"kết quả",del:"Xóa",rep:"Báo lỗi bản dịch ở trang này",bible:"Kinh Thánh Tiếng Việt 1934 (phạm vi công cộng) · getBible",bfail:"Chưa mở được đoạn Kinh Thánh này.",hl:"Tô sáng và ghi chú",nohl:"Bôi đen một đoạn văn để tô sáng hoặc ghi chú.",note:"Ghi chú",save:"Lưu",cancel:"Hủy",cp:"Sao chép (Markdown)",dl:"Tải về (.md)",cpd:"Đã chép"},
- en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation, not authoritative: doctrinal terms may be wrong. Check the original, Scripture and your pastor.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",gt:"🌐 Google voice (fast, needs internet)",novi:"— No Vietnamese voice on this device —",pload:"Downloading the Piper voice for the first time (~60MB)…",gfail:"Google voice failed. Using the device voice.",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error",bible:"Vietnamese Bible 1934 (public domain) · getBible",bfail:"Could not load the passage.",hl:"Highlights and notes",nohl:"Select text to highlight or add a note.",note:"Note",save:"Save",cancel:"Cancel",cp:"Copy (Markdown)",dl:"Download (.md)",cpd:"Copied"}}[lang];
+var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Bạn chưa đánh dấu trang nào.",nores:"Không tìm thấy kết quả.",epub:"Tải EPUB",pdf:"In hoặc lưu cả cuốn thành PDF",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Đây là bản dịch máy, chưa có thẩm quyền, nên một số thuật ngữ giáo lý có thể sai. Bạn hãy đối chiếu với bản gốc và Kinh Thánh, và hỏi mục sư khi cần.",trf:"Chưa dịch được lúc này. Bạn thử lại sau nhé.",fail:"Chưa mở được sách này ở đây.",open:"Mở trên CCEL",nov:"Máy của bạn chưa có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",gt:"🌐 Giọng Google (nhanh, cần mạng)",novi:"— Máy chưa có giọng tiếng Việt —",pload:"Lần đầu cần tải giọng Piper (~60MB), bạn chờ một lát nhé…",gfail:"Chưa phát được giọng Google, đang chuyển sang giọng có sẵn trong máy.",pfail:"Chưa tải được giọng Piper, đang chuyển sang giọng có sẵn trong máy.",res:"kết quả",del:"Xóa",rep:"Báo lỗi bản dịch ở trang này",bible:"Kinh Thánh Tiếng Việt 1934 (phạm vi công cộng) · getBible",bfail:"Chưa mở được đoạn Kinh Thánh này.",hl:"Tô sáng và ghi chú",nohl:"Bôi đen một đoạn văn để tô sáng hoặc ghi chú.",note:"Ghi chú",save:"Lưu",cancel:"Hủy",cp:"Sao chép (Markdown)",dl:"Tải về (.md)",cpd:"Đã chép",expt:"Xuất tiến trình",impt:"Nhập tiến trình"},
+ en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation, not authoritative: doctrinal terms may be wrong. Check the original, Scripture and your pastor.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",gt:"🌐 Google voice (fast, needs internet)",novi:"— No Vietnamese voice on this device —",pload:"Downloading the Piper voice for the first time (~60MB)…",gfail:"Google voice failed. Using the device voice.",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error",bible:"Vietnamese Bible 1934 (public domain) · getBible",bfail:"Could not load the passage.",hl:"Highlights and notes",nohl:"Select text to highlight or add a note.",note:"Note",save:"Save",cancel:"Cancel",cp:"Copy (Markdown)",dl:"Download (.md)",cpd:"Copied",expt:"Export progress",impt:"Import progress"}}[lang];
 var name=id.split("/")[1]||"",PAGE=4200,SV=id.indexOf("vn/")===0,pid=q.get("pid")||id;
 $("ttl").textContent=name;document.title=name+" · Reformed Vietnam";$("back").textContent="← "+L.lib;
 var ext=SV?"/":"https://ccel.org/ccel/"+id+"/"+name;
@@ -232,12 +232,52 @@ function setView(b){
 }
 function bmList(){try{return JSON.parse(ls("rv.bm."+id)||"[]")}catch(e){return[]}}
 function repHref(){var t=ptexts(cur).slice(0,3).join(" ").slice(0,200);return"mailto:reformedvn@gmail.com?subject="+encodeURIComponent("Lỗi dịch: "+id+" trang "+(cur+1))+"&body="+encodeURIComponent("Sách: "+id+"\nTrang: "+(cur+1)+"\nĐoạn đầu: "+t+"\n\nLỗi / bản dịch đúng:\n")}
+function progExport(){
+  var o={},i,k;
+  try{for(i=0;i<localStorage.length;i++){k=localStorage.key(i);if(k&&k.indexOf("rv.")===0&&k!=="rv.sync")o[k]=localStorage.getItem(k)}}catch(e){}
+  var a=document.createElement("a");
+  a.href=URL.createObjectURL(new Blob([JSON.stringify(o)],{type:"application/json"}));
+  a.download="rv-progress.json";document.body.appendChild(a);a.click();
+  setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},800);
+}
+function progImport(f){
+  var r=new FileReader();
+  r.onload=function(){
+    var n=0;
+    try{
+      var o=JSON.parse(r.result),k,x;
+      for(k in o){
+        if(k.indexOf("rv.")!==0||k==="rv.sync"||typeof o[k]!=="string")continue;
+        var ex=localStorage.getItem(k),nv=o[k];
+        try{
+          var ea=JSON.parse(ex||"null"),na=JSON.parse(nv);
+          if(ea&&na&&typeof ea==="object"&&typeof na==="object"){
+            if(Array.isArray(ea)&&Array.isArray(na)){
+              var seen={},mg=ea.slice();
+              ea.forEach(function(h){seen[JSON.stringify(h)]=1});
+              na.forEach(function(h){var s2=JSON.stringify(h);if(!seen[s2]){seen[s2]=1;mg.push(h)}});
+              nv=JSON.stringify(mg);
+            }else if(!Array.isArray(ea)&&!Array.isArray(na)){
+              var m2={};for(x in ea)m2[x]=ea[x];for(x in na)m2[x]=na[x];nv=JSON.stringify(m2);
+            }
+          }
+        }catch(e2){}
+        if(ex===nv)continue;
+        localStorage.setItem(k,nv);n++;
+      }
+      alert((lang==="vi"?"Đã nhập ":"Imported ")+n+(lang==="vi"?" mục. Tải lại trang để xem.":" items. Reloading."));
+      setTimeout(function(){location.reload()},600);
+    }catch(e){alert(lang==="vi"?"Tệp không hợp lệ.":"Invalid file.")}
+  };
+  r.readAsText(f);
+}
 function moreView(b){
   var bm=bmList(),h='<button class="act" id="mBm">🔖 '+L.addm+'</button><button class="act" id="mHl">🖍 '+L.hl+" ("+hlList().length+")</button>";
   if(SV)h+='<button class="act" id="mRev">'+(REV?"✅ Chế độ duyệt: BẬT":"✓ Chế độ duyệt bản dịch")+"</button>";
   h+='<div class="lab">'+L.marks+"</div>"+(bm.length?bm.map(function(m,i){return'<button class="li" data-p="'+m.p+'" data-i="'+i+'">'+esc(m.s)+"<small>"+L.page+" "+(m.p+1)+' · <span data-del="'+i+'">'+L.del+"</span></small></button>"}).join(""):'<div style="color:var(--mut);margin-bottom:10px">'+L.nom+"</div>");
-  h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>"+'<a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+repHref()+'">'+L.rep+"</a>";
+  h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>"+'<a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+repHref()+'">'+L.rep+'</a><button class="act" id="mEx">'+L.expt+'</button><button class="act" id="mIm">'+L.impt+'</button><input type="file" id="mImF" accept="application/json,.json" hidden>';
   b.innerHTML=h;
+  var imf=document.getElementById("mImF");if(imf)imf.onchange=function(){if(this.files&&this.files[0])progImport(this.files[0])};
   b.onclick=function(ev){
     var d=ev.target.closest("[data-del]");if(d){var a=bmList();a.splice(+d.dataset.del,1);ls("rv.bm."+id,JSON.stringify(a));moreView(b);ev.stopPropagation();return}
     var li=ev.target.closest(".li");if(li){closeSheet();go(+li.dataset.p);return}
@@ -245,6 +285,8 @@ function moreView(b){
     if(ev.target.closest("#mBm")){var a2=bmList(),pt=ptexts(cur)[0]||"";a2.push({p:cur,s:pt.slice(0,70),t:Date.now()});ls("rv.bm."+id,JSON.stringify(a2));moreView(b);return}
     if(ev.target.closest("#mEp"))doEpub(ev.target.closest("#mEp"));
     if(ev.target.closest("#mPd"))doPdf();
+    if(ev.target.closest("#mEx"))progExport();
+    if(ev.target.closest("#mIm")){var ff=document.getElementById("mImF");if(ff)ff.click();return}
     if(ev.target.closest("#mRev")){REV=!REV;try{localStorage.setItem("rv.revmode",REV?"1":"0")}catch(e){}closeSheet();revUI();return}
   };
 }
