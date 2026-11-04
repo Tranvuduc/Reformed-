@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Thư Viện Cơ Đốc &amp; Thần Học Cải Chánh Tiếng Việt | Reformed Vietnam</title>
 <meta name="description" content="Sách Cơ Đốc miễn phí, Kinh Thánh, thần học Cải Chánh, sách nói và lộ trình học dành cho người Việt. Đọc miễn phí, nghe sách, học theo lộ trình.">
-<meta property="og:type" content="website"><meta property="og:title" content="Thư Viện Cơ Đốc &amp; Thần Học Cải Chánh Tiếng Việt"><meta property="og:description" content="Hơn 3.500 sách và tài liệu thần học Cải Chánh: đọc, tải, theo dõi tiến độ. Free Reformed books and creeds, with Vietnamese resources."><meta name="theme-color" content="#9a3412">
+<meta property="og:type" content="website"><meta property="og:title" content="Thư Viện Cơ Đốc &amp; Thần Học Cải Chánh Tiếng Việt"><meta property="og:description" content="2.863 sách tiếng Việt và tài liệu thần học Cải Chánh: đọc, tải, theo dõi tiến độ. Free Reformed books and creeds, with Vietnamese resources."><meta name="theme-color" content="#9a3412">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap">
@@ -16,6 +16,9 @@
 <link rel="preload" href="books.json" as="fetch" crossorigin><link rel="preload" href="mg.json" as="fetch" crossorigin><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#9a3412"><link rel="apple-touch-icon" href="/icon-192.png">
 <style>
 /* ===== Reformed Vietnam homepage redesign (2026-11-04) ===== */
+:root{--accent:var(--acc);--muted:var(--mut)}
+.trustline{font-size:.8rem;color:var(--mut);margin:.35rem 0 0}
+.foot.mini{margin:.3rem 0}
 .rv-sec{max-width:60rem;margin:30px auto 0;padding:0 18px}
 .rv-sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:14px}
 .rv-sec-head h2{font-family:'Playfair Display',Georgia,serif;font-size:1.45rem;font-weight:700;letter-spacing:-.01em;margin:0;color:var(--fg)}
@@ -113,6 +116,7 @@ html[data-theme="dark"] .rv-go{color:#fffdf8}
 </nav>
 <header class="hero">
   <h1 id="h1">Sách Cải Chánh, <span>miễn phí</span></h1>
+  <p class="trustline">Miễn phí · Bản dịch AI, chưa được mục sư duyệt</p>
   <p class="lede" id="lede">Sách và tài liệu miễn phí, đọc và nghe đọc trên điện thoại. Phần lớn là tác phẩm thuộc phạm vi công cộng; mỗi thẻ ghi rõ nguồn. Không cần tài khoản.</p>
   <div class="search"><input type="search" id="q" aria-label="Search"></div>
 </header>
@@ -153,6 +157,9 @@ html[data-theme="dark"] .rv-go{color:#fffdf8}
 <p class="foot" id="footcounts"></p>
 <p class="foot" id="foot"></p>
 <p class="foot mini"><a href="/about.html" data-i="about">Giới thiệu</a> · <a href="/ban-dich/" data-i="bandich">Bản dịch &amp; sách mới</a> · <a href="/nhan-bai.html" data-i="nhanbai">Nhận bài qua email</a></p>
+<p class="foot mini">Khám phá thêm: <a href="/moi-tin-chua.html">Mới tin Chúa</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/doi-song-viet-nam.html">Đời sống</a> · <a href="/nhom-nho.html">Nhóm nhỏ</a></p>
+<p class="foot mini">Các liên kết Kindle là liên kết tiếp thị Amazon — chúng tôi có thể nhận hoa hồng nhỏ khi bạn mua. Điều này không làm tăng giá của bạn.</p>
+<p class="foot mini">Báo vi phạm bản quyền / yêu cầu gỡ sách: <a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></p>
 </div>
 <noscript><nav class="foot"><p>Sách Cải Chánh miễn phí. <a href="/tieng-viet.html">Sách tiếng Việt</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/about.html">Giới thiệu</a></p></nav></noscript>
 <script src="app.js?v=20261107"></script>
@@ -245,5 +252,24 @@ syncUI();render();
 })();
 </script>
 <script defer src="/_vercel/insights/script.js"></script>
-<script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script><script>var _ip;addEventListener("beforeinstallprompt",function(e){e.preventDefault();_ip=e;var a=document.getElementById("inst");if(a)a.hidden=false});document.addEventListener("click",function(e){if(e.target.id==="inst"&&_ip){_ip.prompt();_ip=null;e.target.hidden=true}})</script></body>
+<script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script><script>var _ip;addEventListener("beforeinstallprompt",function(e){e.preventDefault();_ip=e;var a=document.getElementById("inst");if(a)a.hidden=false});document.addEventListener("click",function(e){if(e.target.id==="inst"&&_ip){_ip.prompt();_ip=null;e.target.hidden=true}})</script><script>
+/* Review fixes 2026-11-04: 5-item main nav + "Sách mới cập nhật" footer label (app.js owns #nl via renderTiles and data-i labels; this enforces the approved set after it runs) */
+(function(){
+var NAV=[["index.html","Trang chính","Home"],["tieng-viet.html","Sách","Books"],["sach-noi.html","Sách nói","Audiobooks"],["bat-dau.html","Bắt đầu","Start here"],["cong-cu-hoc.html","Học","Study"]];
+function lang(){try{return localStorage.getItem("rv.lang")==="en"?1:0}catch(e){return 0}}
+function apply(){
+  var nl=document.getElementById("nl");
+  if(nl){var i=lang(),h=NAV.map(function(m){return '<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");if(nl.innerHTML!==h)nl.innerHTML=h;}
+  var b=document.querySelector('a[data-i="bandich"]');
+  if(b){var t=lang()?"New books":"Sách mới cập nhật";if(b.textContent!==t)b.textContent=t;}
+}
+var t=null;function sched(){clearTimeout(t);t=setTimeout(apply,120)}
+apply();
+var nl0=document.getElementById("nl");
+if(nl0&&window.MutationObserver)new MutationObserver(sched).observe(nl0,{childList:true});
+if(window.MutationObserver)new MutationObserver(sched).observe(document.documentElement,{attributes:true,attributeFilter:["lang"]});
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",apply);
+})();
+</script>
+</body>
 </html>
