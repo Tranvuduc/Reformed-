@@ -1,5 +1,7 @@
 translations/*
 !translations/index.json
+!translations/index-lite.json
+!translations/index.min.json
 tools
 scripts
 review
