@@ -35,6 +35,10 @@ export default async function handler(req, res) {
     }
     res.status(405).end();
   } catch (e) {
-    res.status(500).json({ error: String(e && e.message || e) });
+    // Vercel Blob free-tier pause: fail silently so the reader UI never shows sync errors.
+    // Reads degrade to an empty state; writes are acknowledged but not persisted until the pause lifts.
+    // Local progress in the browser is unaffected.
+    if (req.method === 'GET') return res.status(200).json({ saved: [], prog: {}, hl: {} });
+    return res.status(200).json({ ok: true });
   }
 }
