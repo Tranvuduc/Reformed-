@@ -43747,5 +43747,20 @@
   "level": 2,
   "length": "vua",
   "short": "Lời Khuyên Cho Cơ Đốc Nhân Trẻ"
+ },
+ {
+  "id": "baxter/directions-sinful-fear",
+  "file": "baxter-directions-sinful-fear.txt",
+  "title": "Những Lời Hướng Dẫn Chống Lại Nỗi Sợ Hãi Tội Lỗi",
+  "orig": "Directions Against Sinful Fear",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "ngan",
+  "short": "Chống Lại Nỗi Sợ Hãi Tội Lỗi"
  }
 ]
