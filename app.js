@@ -286,25 +286,8 @@ function renderShelves(){
   $("allh").hidden=true;$("bw").hidden=!on;$("browse").textContent=(st.lang==="vi"?"Đã biết mình cần gì? Duyệt toàn bộ thư viện":"Know what you want? Browse the whole library");renderTiles();heroStats();
   var sh=$("shelves");if(!sh)return;
   if(!on){sh.innerHTML="";return}
-  var feat=BOOKS.filter(function(b){return b.ty==="catechism"}).slice(0,6);
-  if(!feat.length)feat=BOOKS.slice(0,6);
   var vi=st.lang==="vi";
-  sh.innerHTML='<section class="shelf"><div class="shelfh"><h2>'+(vi?"Sách nổi bật":"Featured books")+'</h2><button type="button" id="featBrowse">'+(vi?"Xem tất cả":"See all")+'</button></div><div class="grid">'+feat.map(card).join("")+'</div></section>'
-  +'<section class="home-sec"><h2>'+(vi?"Hôm nay":"Today")+'</h2><div class="home-cards">'
-  +'<a class="home-card" href="hom-nay.html"><b>'+(vi?"Bài đọc hôm nay":"Today\u2019s reading")+'</b><span>'+(vi?"Một đoạn ngắn mỗi ngày":"A short reading each day")+'</span></a>'
-  +'<a class="home-card" href="sach-noi.html"><b>'+(vi?"Nghe sách nói":"Listen")+'</b><span>'+(vi?"Sách nói và nguồn nghe":"Audiobooks and listening sources")+'</span></a></div></section>'
-  +'<section class="home-sec"><h2>'+(vi?"Bộ sưu tập":"Collections")+'</h2><div class="home-cards">'
-  +'<a class="home-card" href="suu-tap/"><b>'+(vi?"Bộ sưu tập":"Collections")+'</b><span>'+(vi?"Chọn lọc theo chủ đề":"Curated sets")+'</span></a>'
-  +'<a class="home-card" href="chu-de/"><b>'+(vi?"Chủ đề":"Topics")+'</b><span>'+(vi?"Duyệt theo chủ đề":"Browse by topic")+'</span></a>'
-  +'<a class="home-card" href="tac-gia.html"><b>'+(vi?"Tác giả":"Authors")+'</b><span>'+(vi?"Duyệt theo tác giả":"Browse by author")+'</span></a></div></section>'
-  +'<section class="audio-strip"><b>'+(vi?"Sách nói":"Audiobooks")+'</b><span>'+(vi?"Nghe trên trang Sách nói, hoặc trên YouTube":"Listen on the audio page, or on YouTube")+'</span><a href="sach-noi.html">'+(vi?"Mở trang Sách nói":"Open the audio page")+'</a> · <a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube @reformedvietnam ↗</a></section>'
-  +'<section class="home-sec"><h2>'+(vi?"Sách nói nổi bật: Sự Nên Thánh":"Featured audiobook: Holiness")+'</h2><div class="home-cards">'
-  +'<a class="home-card" href="https://www.youtube.com/playlist?list=PLDUPCEt_myzA" target="_blank" rel="noopener"><b>'+(vi?"Sự Nên Thánh – J. C. Ryle | Sách nói đầy đủ":"Holiness – J. C. Ryle | Full audiobook")+'</b><span>'+(vi?"Danh sách phát YouTube — sách nói đầy đủ":"YouTube playlist — full audiobook")+'</span></a>'
-  +'<a class="home-card" href="https://youtu.be/5RLzxwrwLok" target="_blank" rel="noopener"><b>'+(vi?"Mở đầu — YouTube (39:23)":"Intro — YouTube (39:23)")+'</b><span>'+(vi?"Video Mở đầu, sách nói đầy đủ":"Intro video, full audiobook")+'</span></a>'
-  +'<a class="home-card" href="https://archive.org/details/su-nen-thanh-00-intro" target="_blank" rel="noopener"><b>'+(vi?"Mở đầu — Archive.org":"Intro — Archive.org")+'</b><span>'+(vi?"MP3 Mở đầu, miễn phí":"Free intro MP3")+'</span></a>'
-  +'<a class="home-card" href="sach-noi.html#su-nen-thanh"><b>'+(vi?"Nghe theo chương — 22 phần":"Listen by chapter — 22 parts")+'</b><span>'+(vi?"Mở đầu, chương I–XX và trích đoạn bổ sung":"Intro, chapters I–XX and supplementary extracts")+'</span></a></div></section>'
-  +'<section class="home-sec"><h2>'+(vi?"Thư tuần":"Weekly letter")+'</h2><div class="home-cards"><a class="home-card" href="nhan-bai.html"><b>'+(vi?"Nhận bài qua email":"Get new posts by email")+'</b><span>'+(vi?"Bài mới, sách mới, mỗi tuần":"New posts and books, weekly")+'</span></a></div></section>';
-  var fb=$("featBrowse");if(fb)fb.onclick=function(){$("browse").click()};
+  sh.innerHTML='<section class="audio-strip"><b>'+(vi?"Sách nói":"Audiobooks")+'</b><span>'+(vi?"Nghe trên trang Sách nói, hoặc trên YouTube":"Listen on the audio page, or on YouTube")+'</span><a href="sach-noi.html">'+(vi?"Mở trang Sách nói":"Open the audio page")+'</a> · <a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube @reformedvietnam ↗</a></section>';
 }
 
 function heroStats(){
@@ -314,7 +297,7 @@ function heroStats(){
   var f=function(x){return x.toLocaleString(vi?"vi-VN":"en-US")};
   var done=function(n,tt,na){fc.textContent=f(n)+(vi?" tác phẩm · ":" works · ")+f(tt)+(vi?" bản dịch tiếng Việt · ":" Vietnamese translations · ")+f(na)+(vi?" tác giả":" authors")};
   var fb=function(){if(!window.BOOKS)return;var n=BOOKS.length,tt=Object.keys(window.VIB||{}).length,a={};BOOKS.forEach(function(b){var k=(b.a||"").trim();if(k)a[k]=1});done(n,tt,Object.keys(a).length)};
-  fetch("translations/index.json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(ix){
+  fetch("translations/index-lite.json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(ix){
     var arr=Array.isArray(ix)?ix:Object.keys(ix).map(function(k){return ix[k]}),a={};
     arr.forEach(function(b){var k=String(b.author||"").trim();if(k)a[k]=1});
     done(arr.length,arr.length,Object.keys(a).length);
@@ -431,18 +414,7 @@ Promise.all([fetch("books.json").then(function(r){return r.json()}),jf("mg.json"
 }).catch(function(){$("grid").innerHTML='<div class="empty">books.json</div>'});
 
 /* ---------- home tiles, menu links, detail sheet ---------- */
-var _mtd=null;function mtTxt(i){var n=0,k=1;try{var d=_mtd||(_mtd=JSON.parse(localStorage.getItem("rv.mt")||"{}"));n=Object.keys(d).length;while(d[k])k++}catch(e){}
-  if(n>0&&n<30)return i?"Done "+n+"/30 days. Continue with day "+k+".":"Đã xong "+n+"/30 ngày. Tiếp tục ngày "+k+".";
-  if(n>=30)return i?"You finished all 30 days!":"Bạn đã hoàn thành 30 ngày!";
-  return i?"A gentle 30-day path, 10 minutes a day. Start here if you are unsure.":"Lộ trình 30 ngày nhẹ nhàng, mỗi ngày 10 phút. Hãy bắt đầu ở đây nếu bạn chưa biết đọc gì."}
 function renderTiles(){var i=st.lang==="vi"?0:1;
-  var ST=[["moi-tin-chua.html","Mới tin Chúa","I\u2019m new to faith",mtTxt(i)],
-   ["lo-trinh.html","Nuôi dưỡng đời sống thuộc linh","Nourish your walk","Kinh Thánh, cầu nguyện, thờ phượng: mỗi tuần một bước nhỏ.","Scripture, prayer, worship: one small step a week."],
-   ["cai-chanh-la-gi.html","Hiểu đức tin Cải Chánh","Understand the Reformed faith","Mười phút để hiểu giáo lý nền tảng, rồi đọc sâu hơn.","Ten minutes to grasp the basics, then read deeper."],
-   ["cho-muc-su.html","Dẫn dắt và phục vụ","Lead and serve","Dành cho mục sư, người hướng dẫn nhóm nhỏ và gia đình.","For pastors, small-group leaders and families."]];
-  $("tiles").innerHTML='<h2 class="gh">'+(i?"Your next step":"Bước tiếp theo của bạn")+'</h2><ol class="jr">'
-   +ST.map(function(t,k){return'<li><a class="tile'+(k===0?" first":"")+'" href="'+t[0]+'"><span class="n">'+(k+1)+'</span><span class="tx"><b>'+t[1+i]+'</b><span>'+(k===0?t[3]:t[3+i])+'</span></span></a></li>'}).join("")+'</ol>'
-   +'<div class="dly">'+[["hom-nay.html","Bài đọc hôm nay","Today\u2019s reading"],["sach-noi.html","Nghe sách nói","Listen"]].map(function(t){return'<a href="'+t[0]+'">'+t[1+i]+'</a>'}).join("")+'</div>';
   var P=[["moi-tin-chua.html","Mới tin Chúa","New believer"],["lo-trinh.html","Lộ trình đọc","Reading path"],["tieng-viet.html","Sách tiếng Việt","Vietnamese"],["sach-noi.html","Sách nói","Audio"],["suu-tap/","Bộ sưu tập","Collections"]];
   $("nl").innerHTML=P.map(function(m){return'<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");
   var M=[["bat-dau.html","Bắt đầu ở đây","Start here"],["hom-nay.html","Hôm nay","Today"],["moi-cap-nhat.html","Mới cập nhật","What's new"],["kinh-thanh.html","Theo sách Kinh Thánh","By Bible book"],["sach-noi.html","Sách nói","Audio"],["chu-de/","Chủ đề","Topics"],["tac-gia.html","Tác giả","Authors"],["bai-giang.html","Bài giảng","Sermons"],["ve-chung-toi.html","Về chúng tôi","About us"],["tai-sach.html","Tải sách về máy","Download books"]],M2=[["duyet.html","Duyệt bản dịch","Review"],["cong-cu-hoc.html","Công cụ học","Study tools"],["hoi-dap.html","Hỏi đáp người mới tin","New believer Q&A"],["khoa-hoc.html","Học trực tuyến","Online study"],["video.html","Video","Videos"],["trich-dan.html","Trích dẫn","Quotes"],["bai-viet/","Bài viết","Articles"],["suu-tap/","Bộ sưu tập","Collections"],["thuat-ngu.html","Thuật ngữ","Glossary"],["cai-chanh-la-gi.html","Cải Chánh là gì?","What is Reformed?"],["doi-song-viet-nam.html","Đời sống Việt Nam","Vietnamese life"],["cho-muc-su.html","Cho mục sư &amp; nhóm nhỏ","For pastors & groups"],["doc-chung.html","Nhóm đọc chung 4 tuần","4-week group plan"],["nhan-bai.html","Nhận bài qua email","Email updates"],["mailto:reformedvn@gmail.com?subject=G%C3%B3p%20%C3%BD%20%2F%20G%E1%BB%A3i%20%C3%BD%20s%C3%A1ch","Góp ý","Feedback"],["feed.xml","RSS","RSS"]],mk=function(a){return a.map(function(m){return'<a class="btn" href="'+m[0]+'">'+m[1+i]+'</a>'}).join("")};
