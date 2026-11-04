@@ -306,11 +306,16 @@ function renderShelves(){
 
 function heroStats(){
   var e=document.getElementById("hstats");if(e)e.remove();
-  if(!window.BOOKS)return;
   var fc=document.getElementById("footcounts");if(!fc)return;
-  var n=BOOKS.length,tt=Object.keys(window.VIB||{}).length,a={};BOOKS.forEach(function(b){var k=(b.a||"").trim();if(k)a[k]=1});
-  var f=function(x){return x.toLocaleString(st.lang==="vi"?"vi-VN":"en-US")},vi=st.lang==="vi";
-  fc.textContent=f(n)+(vi?" tác phẩm · ":" works · ")+f(tt)+(vi?" bản dịch tiếng Việt · ":" Vietnamese translations · ")+f(Object.keys(a).length)+(vi?" tác giả":" authors");
+  var vi=st.lang==="vi";
+  var f=function(x){return x.toLocaleString(vi?"vi-VN":"en-US")};
+  var done=function(n,tt,na){fc.textContent=f(n)+(vi?" tác phẩm · ":" works · ")+f(tt)+(vi?" bản dịch tiếng Việt · ":" Vietnamese translations · ")+f(na)+(vi?" tác giả":" authors")};
+  var fb=function(){if(!window.BOOKS)return;var n=BOOKS.length,tt=Object.keys(window.VIB||{}).length,a={};BOOKS.forEach(function(b){var k=(b.a||"").trim();if(k)a[k]=1});done(n,tt,Object.keys(a).length)};
+  fetch("translations/index.json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(ix){
+    var arr=Array.isArray(ix)?ix:Object.keys(ix).map(function(k){return ix[k]}),a={};
+    arr.forEach(function(b){var k=String(b.author||"").trim();if(k)a[k]=1});
+    done(arr.length,arr.length,Object.keys(a).length);
+  }).catch(fb);
 }
 
 function buildAuthors(){
