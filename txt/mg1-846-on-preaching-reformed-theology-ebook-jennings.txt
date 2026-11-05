@@ -1,5 +1,12 @@
 VỀ GIẢNG ĐẠO
-John Jennings
+
+John Jennings · On Preaching (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+VỀ GIẢNG ĐẠO John Jennings
 
 KÍNH GỞI CÁC MỤC SƯ
 
@@ -395,10 +402,4 @@ Ngày 25 tháng Năm, 1725.
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- [NEEDS REVIEW x4 trong bài diễn văn II] Nguồn tiếng Anh có 4 chỗ in sai được giữ nguyên văn và đánh dấu tại chỗ: PARA 7 "fit under it" (có lẽ là "sit"); PARA 42 trích dẫn "Rom. xvi" nhưng nội dung trích là Rô-ma 14; PARA 43 trích dẫn "Rom. vi" nhưng nội dung trích là Rô-ma 7; PARA 60 lặp từ "name, name".
-- Lá thư Francke (phần 1): nguồn in "the conclusion of the rear 1731" — đọc là lỗi in của "year"; đã dịch là "cuối năm 1731" (bốn năm sau khi Franck qua đời năm 1727 = 1731).
-- Lá thư Francke (phần 2): chú thích nguồn ghi "2 Cor. v. 11" nhưng câu trích thực tế là 2 Cô-rinh-tô 5:20 — giữ nguyên như nguồn in.
-- LOẠI TRỪ (đã loại, không dịch): khối tiêu đề của EPUB (đã gộp vào dòng tiêu đề file), mục lục điều hướng (tên các chương đều xuất hiện trong thân bài), trang tiêu đề riêng của lá thư Francke (đã gộp), và dòng colophon của bản OCR "OCR Edit by Thomas M Witte / 10-11-2019".
-- Bối cảnh xuất bản: ấn bản London 1736 — hai bài diễn văn của John Jennings (lời tựa của Isaac Watts, tháng 6/1723; lời đề tặng cho các mục sư Bất Đồng giáo), kèm lá thư của Augustus Hermannus Francke do chính em trai tác giả là David Jennings dịch sang tiếng Anh (lời giới thiệu của David Jennings, ngày 24/8/1736). Bản tiếng Anh của Monergism là văn bản sạch (không phải OCR).
+Mở trong trình đọc Về thư viện

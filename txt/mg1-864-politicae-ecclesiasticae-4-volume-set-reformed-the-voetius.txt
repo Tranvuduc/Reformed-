@@ -1,5 +1,12 @@
 POLITICAE ECCLESIASTICAE HAY VỀ CHÍNH THỂ HỘI THÁNH - TẬP 1.
-Gisbertus Voetius
+
+Gisbertus Voetius · Politicae Ecclesiasticae (4 Volume Set)
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+POLITICAE ECCLESIASTICAE HAY VỀ CHÍNH THỂ HỘI THÁNH - TẬP 1. Gisbertus Voetius
 
 MỤC LỤC.
 
@@ -151,7 +158,7 @@ QUYỂN II. LUẬN VĂN IV. VỀ CÁC LỄ KỶ NIỆM CÔNG CỘNG ĐẶC BIỆ
 
 GHI CHÚ CỦA BAN BIÊN TẬP.
 
-Tác phẩm sau đây đã được phiên âm đầy đủ, nguyên văn, bằng Claude Opus 4.6. Sau đó nó đã được rà soát để loại bỏ bất cứ điều gì tìm thấy trong bản sao mà không liên quan đến bản dịch; chẳng hạn như các tiêu đề trang, dấu in, từ nối trang, v.v. Rồi nó đã được dịch đầy đủ bằng Claude Opus 4.8. Như bạn sẽ thấy ở cuối sách, có một chỗ ghi các lỗi in. Tất cả các lỗi in, ngoại trừ những lỗi được in đậm và đánh dấu bằng dấu “***”, đều đã được sửa sau khi phiên âm và trước khi dịch. Chúng tôi đã liệt kê chúng để độc giả có thể thấy những gì đã được sửa. Trong bản dịch, có vẻ Claude đã thêm một số lời giúp hiểu ngữ cảnh, nằm trong dấu ngoặc “[...].” Dù chúng tôi đã cố tránh điều này, số lượng của chúng (hơn 30 đối với Tập 1 và hơn 15 đối với Tập 2) là tương đối không đáng kể trong mỗi tác phẩm chứa hơn 500.000 từ. Xin cứ tự do bỏ qua chúng. Ngoài ra, trong tác phẩm này bạn sẽ thấy các ký hiệu <H&G>. Những ký hiệu này chỉ nơi văn bản có tiếng Hê-bơ-rơ và Hy Lạp. Hiện tại chúng tôi không thể dành nguồn lực để giải mã và chuyển đổi tất cả các chữ ghép cổ xưa trong văn bản. Chúng tôi đã quyết định tiếp tục với bản dịch này mặc dù vậy, vì hầu hết mọi người không biết tiếng Hê-bơ-rơ và Hy Lạp đủ lưu loát để dùng chúng nhiều ngay từ đầu. Nếu Chúa muốn, một ngày nào đó chúng tôi có thể đưa chúng vào.
+Tác phẩm sau đây đã được phiên âm đầy đủ, nguyên văn, bằng Claude Opus 4.6. Sau đó nó đã được rà soát để loại bỏ bất cứ điều gì tìm thấy trong bản sao mà không liên quan đến bản dịch; chẳng hạn như các tiêu đề trang, dấu in, từ nối trang, v.v. Rồi nó đã được dịch đầy đủ bằng Claude Opus 4.8. Như bạn sẽ thấy ở cuối sách, có một chỗ ghi các lỗi in. Tất cả các lỗi in, ngoại trừ những lỗi được in đậm và đánh dấu bằng dấu “*”, đều đã được sửa sau khi phiên âm và trước khi dịch. Chúng tôi đã liệt kê chúng để độc giả có thể thấy những gì đã được sửa. Trong bản dịch, có vẻ Claude đã thêm một số lời giúp hiểu ngữ cảnh, nằm trong dấu ngoặc “[...].” Dù chúng tôi đã cố tránh điều này, số lượng của chúng (hơn 30 đối với Tập 1 và hơn 15 đối với Tập 2) là tương đối không đáng kể trong mỗi tác phẩm chứa hơn 500.000 từ. Xin cứ tự do bỏ qua chúng. Ngoài ra, trong tác phẩm này bạn sẽ thấy các ký hiệu <H&G>. Những ký hiệu này chỉ nơi văn bản có tiếng Hê-bơ-rơ và Hy Lạp. Hiện tại chúng tôi không thể dành nguồn lực để giải mã và chuyển đổi tất cả các chữ ghép cổ xưa trong văn bản. Chúng tôi đã quyết định tiếp tục với bản dịch này mặc dù vậy, vì hầu hết mọi người không biết tiếng Hê-bơ-rơ và Hy Lạp đủ lưu loát để dùng chúng nhiều ngay từ đầu. Nếu Chúa muốn, một ngày nào đó chúng tôi có thể đưa chúng vào.
 
 Một ghi chú về các đoạn văn. Phần thân văn bản trong tác phẩm này nhiều lần dài cả trang mà không có chỗ ngắt. Với công nghệ AI hiện nay, việc tự động dịch toàn bộ tài liệu bằng các hệ thống API của các mô hình tốt nhất là không thể. Trong tình trạng đó, các thân văn bản dài phải được chia nhỏ, để “tách đoạn” thành một lượng ký tự giới hạn. Thật không may, điều này đã khiến một số chỗ ngắt đoạn trở nên không tự nhiên. Xin thứ lỗi cho điều này. Bản dịch là toàn bộ tác phẩm, đúng như nó được trình bày trong bản sao, ngoại trừ các chỗ ngắt bắt buộc.
 
@@ -2765,7 +2772,7 @@ HẾT.
 
 SỰ SỬA LỖI IN.
 
-TẬP 1 – TẤT CẢ NHỮNG MỤC NÀY, TRỪ NHỮNG MỤC ĐƯỢC ĐÁNH DẤU BẰNG CHỮ ĐẬM/***, ĐÃ ĐƯỢC SỬA TRONG BẢN VĂN TRƯỚC KHI DỊCH.
+TẬP 1 – TẤT CẢ NHỮNG MỤC NÀY, TRỪ NHỮNG MỤC ĐƯỢC ĐÁNH DẤU BẰNG CHỮ ĐẬM/*, ĐÃ ĐƯỢC SỬA TRONG BẢN VĂN TRƯỚC KHI DỊCH.
 
 Trang 1, dòng 22: thay I Các Vua 4 bằng I Các Vua 3:11–12.
 
@@ -2843,7 +2850,7 @@ Trang 171, dòng 17: đọc punctum.
 
 Trang 171, dòng 23: đọc facta.
 
-Trang 172, dòng 20: xóa semel. ***
+Trang 172, dòng 20: xóa semel. *
 
 Trang 172, dòng 36: đọc bản văn Hy Lạp được chỉ rõ.
 
@@ -2905,7 +2912,7 @@ Trang 227, dòng 25: đọc quomodocunque.
 
 Trang 233, dòng 20: đọc adiaphororum.
 
-Trang 240, dòng 15: đọc imminuitur. ***
+Trang 240, dòng 15: đọc imminuitur. *
 
 Trang 245, dòng 4: đọc I Ti-mô-thê 3:15.
 
@@ -3023,7 +3030,7 @@ Trang 479, dòng 19: đọc Papatu.
 
 Trang 492, dòng 34: đọc Ma-thi-ơ 5.
 
-Trang 506, dòng 10: xóa armis aliquet và thay bằng annis aliquot post.***
+Trang 506, dòng 10: xóa armis aliquet và thay bằng annis aliquot post.*
 
 Trang 512, dòng 1: đọc Công Vụ 4.
 
@@ -3143,7 +3150,7 @@ Trang 639, dòng 37: đọc fiant.
 
 Trang 640, dòng 5: đọc fastidium.
 
-Trang 642, dòng 34: đọc proferat.***(proferat đã được đưa vào rồi)
+Trang 642, dòng 34: đọc proferat.*(proferat đã được đưa vào rồi)
 
 Trang 644, dòng 6: đọc nullus.
 
@@ -3609,7 +3616,7 @@ QUYỂN IV. LUẬN VĂN IV. MỤC III. VỀ CÁC ĐỒ DÙNG VÀ VẬT DỤNG KH
 
 GHI CHÚ CỦA NGƯỜI BIÊN TẬP.
 
-Tác phẩm sau đây đã được sao chép đầy đủ, nguyên văn, bằng Claude Opus 4.6. Sau đó nó được rà soát để loại bỏ bất cứ điều gì tìm thấy trong bản facsimile mà không liên quan đến bản dịch; chẳng hạn như các tiêu đề trang, dấu in, từ nối dòng, v.v. Sau đó nó được dịch đầy đủ bằng Claude Opus 4.8. Như quý vị sẽ thấy ở cuối sách, có một chỗ ghi Bảng đính chính. Tất cả các Bảng đính chính, trừ những mục được in đậm và đánh dấu bằng "***", đều đã được sửa sau khi sao chép và trước khi dịch. Chúng tôi đã liệt kê chúng để độc giả có thể thấy những gì đã được sửa. Trong văn bản đã dịch, dường như Claude đã thêm một số trợ giúp về ngữ cảnh, nằm trong dấu ngoặc "[...]". Dù chúng tôi đã cố tránh điều này, số lượng của chúng (hơn 30 cho Quyển 1 và hơn 15 cho Quyển 2) là tương đối không đáng kể trong mỗi tác phẩm chứa hơn 500.000 từ. Xin quý vị cứ bỏ qua chúng. Ngoài ra, trong tác phẩm này quý vị sẽ nhận thấy các ký hiệu <H&G>. Chúng chỉ những chỗ văn bản có tiếng Hê-bơ-rơ và Hy Lạp. Hiện tại chúng tôi không thể dành nguồn lực để giải mã và chuyển đổi tất cả các chữ ghép cổ xưa trong văn bản. Chúng tôi đã quyết định tiến hành bản dịch này mặc dù vậy, vì hầu hết mọi người vốn không biết tiếng Hê-bơ-rơ và Hy Lạp đủ thông thạo để sử dụng chúng nhiều ngay từ đầu. Nếu Chúa muốn, một ngày nào đó chúng tôi có thể đưa chúng vào.
+Tác phẩm sau đây đã được sao chép đầy đủ, nguyên văn, bằng Claude Opus 4.6. Sau đó nó được rà soát để loại bỏ bất cứ điều gì tìm thấy trong bản facsimile mà không liên quan đến bản dịch; chẳng hạn như các tiêu đề trang, dấu in, từ nối dòng, v.v. Sau đó nó được dịch đầy đủ bằng Claude Opus 4.8. Như quý vị sẽ thấy ở cuối sách, có một chỗ ghi Bảng đính chính. Tất cả các Bảng đính chính, trừ những mục được in đậm và đánh dấu bằng "*", đều đã được sửa sau khi sao chép và trước khi dịch. Chúng tôi đã liệt kê chúng để độc giả có thể thấy những gì đã được sửa. Trong văn bản đã dịch, dường như Claude đã thêm một số trợ giúp về ngữ cảnh, nằm trong dấu ngoặc "[...]". Dù chúng tôi đã cố tránh điều này, số lượng của chúng (hơn 30 cho Quyển 1 và hơn 15 cho Quyển 2) là tương đối không đáng kể trong mỗi tác phẩm chứa hơn 500.000 từ. Xin quý vị cứ bỏ qua chúng. Ngoài ra, trong tác phẩm này quý vị sẽ nhận thấy các ký hiệu <H&G>. Chúng chỉ những chỗ văn bản có tiếng Hê-bơ-rơ và Hy Lạp. Hiện tại chúng tôi không thể dành nguồn lực để giải mã và chuyển đổi tất cả các chữ ghép cổ xưa trong văn bản. Chúng tôi đã quyết định tiến hành bản dịch này mặc dù vậy, vì hầu hết mọi người vốn không biết tiếng Hê-bơ-rơ và Hy Lạp đủ thông thạo để sử dụng chúng nhiều ngay từ đầu. Nếu Chúa muốn, một ngày nào đó chúng tôi có thể đưa chúng vào.
 
 Một lưu ý về các đoạn văn. Phần thân văn bản trong tác phẩm này nhiều lần dài hàng trang mà không có chỗ ngắt. Với công nghệ AI hiện nay, không thể tự động dịch toàn bộ tài liệu bằng các hệ thống API của các mô hình tốt nhất. Vì vậy, các thân văn bản dài phải được chia nhỏ, để "cắt" thành một lượng "ký tự" giới hạn. Thật không may, điều này đã khiến một số chỗ ngắt đoạn trở nên không tự nhiên. Xin tha thứ cho điều này. Bản dịch là toàn bộ tác phẩm, đúng như nó được trình bày trong bản facsimile, ngoại trừ các chỗ ngắt bị ép buộc.
 
@@ -5045,7 +5052,7 @@ Vào năm 1643, vào tháng Chín, khi một dịp đã được đưa ra, và t
 
 Trong các bài giảng của chúng ta về điều răn thứ năm của Mười Điều Răn, dưới danh hiệu "Về Quan Cai Trị", chúng ta đã giải thích quyền lực và chức vụ của ông về các vấn đề thiêng liêng và thuộc Hội Thánh: mà chúng ta đã quy về đó cuộc tranh luận về sự cho phép các tôn giáo khác nhau trong Khối Thịnh Vượng Chung. Nay chúng ta trình bày bộ khung của những quan niệm và quyết định ấy về sự cho phép, đã bị tước bỏ — trái với phong tục của chúng ta — các bằng chứng, bác bỏ và trích dẫn tác giả dài dòng hơn; để, khi các nghi ngờ của các sinh viên của chúng ta và các chỉ dẫn cùng phán đoán của bạn bè đã được nhận thấy nhân dịp này, một ngày nào đó chúng ta có thể bàn luận cuộc tranh luận này một cách đầy đủ và chính xác hơn <H&G>. Trước hết đã đặt trước, do đó, 1. một sự giải thích và phân biệt các thuật ngữ; 2. một sự trình bày và đề xuất các câu hỏi và các ý kiến khác nhau; 3. bằng một số kết luận chúng ta sẽ quyết định một cách ngắn gọn toàn bộ cuộc tranh luận.
 
-Mục 1.
+MỤC 1.
 
 §. 1. Các thuật ngữ thường được dùng và bàn luận trong cuộc tranh luận này là những thuật ngữ sau: sự tự do tôn giáo, sự tự do lương tâm, sự cho phép tôn giáo, sự dung chịu tôn giáo, sự làm ngơ hay khoan dung, <H&G>, hòa bình tôn giáo; mà thuật ngữ cuối cùng này được dùng nhiều nhất trong Đế quốc Đức. Ở phía đối lập là các thuật ngữ sau: việc thẩm tra lương tâm, sự cưỡng ép lương tâm, sự bách hại lương tâm, sự chuyên chế đối với lương tâm, sự bách hại vì tôn giáo, các hình phạt của những kẻ dị giáo, sự kiềm chế các giáo phái, sự cấm đoán các tôn giáo khác nhau, sự cho phép bừa bãi bất kỳ giáo phái và tôn giáo nào, sự phóng túng hay một mớ hỗn độn rối rắm của các giáo phái. Cần phải quan sát hai loại phân biệt về các thuật ngữ này. Loại trước là chung, hay phổ thông; loại sau là riêng biệt. Loại trước là: 1. Sự tự do và cho phép, hay dung chịu, tôn giáo hoặc là thuộc Hội Thánh hoặc là chính trị. Loại trước được Hội Thánh ban cấp và trong Hội Thánh, và trong sự thông công của nó, mà thường được biểu thị bằng các thuật ngữ sự tự do tiên tri, sự ôn hòa, sự dung chịu lẫn nhau và huynh đệ, chủ nghĩa đồng bộ, sự hiệp nhất, hay sự hòa giải của các Hội Thánh bất đồng: mà chúng ta không quan tâm tại đây; nhưng trong Chính Thể Hội Thánh, phần 3, quyển 3, 11. Sự tự do và cho phép tôn giáo mang tính chính trị có thể được xét theo hai cách, hoặc liên quan đến các thần dân, những người hưởng nó, hay tự lấy nó cho mình, tìm kiếm nó, đòi hỏi nó, dù chính đáng hay bất công: hoặc liên quan đến Quan Cai Trị, người ban cấp nó hay chu cấp nó. Về mặt trước, xét về tôn giáo chân thật, chúng ta không bàn luận tại đây; vì nó thuộc về các chủ đề chung về các đặc quyền của các tín hữu, và về Hội Thánh: cũng không xét về tôn giáo giả dối; vì nó là sự phóng túng xác thịt và một sự tự do xác thịt giả dối cả về sai lầm lẫn tội lỗi; về điều này xem các chủ đề chung về tội lỗi và về tà thuyết. Về mặt sau, do đó, chúng ta phải bàn luận tại đây, trong chừng mực, cụ thể là, sự cho phép thuộc về quyền lực và chức vụ công cộng của Quan Cai Trị.
 
@@ -7341,7 +7348,7 @@ IV. Khi các ca đoàn đã bị lật đổ bởi lửa hay một tai họa nà
 
 V. Khi các đền thờ được xây dựng mới, có lợi ích gì khi bắt chước hình thức thuộc Giáo hoàng và chất nặng chúng bằng các ca đoàn và các lối đi có vòm và quanh co cùng các nơi ẩn náu? Đáp: Tôi phủ nhận điều đó. Vì chúng không có ích gì cho chúng tôi, vì các tế lễ của lễ mass, các lời xưng tội qua tai, các lời cầu cho người chết, các cuộc rước, các việc thực hành ca đoàn, các cuộc nhóm họp của các hội đoàn và huynh đệ đoàn, v.v., đã bị trục xuất. Tóm lại, trang bị, và kích thước, và hình thức, cả bên trong lẫn bên ngoài, cả của toàn thể lẫn của từng bộ phận, phải như thế nào để phục vụ tốt nhất cho Hội Thánh mà đền thờ được xây dựng vì Hội Thánh ấy. Về điểm này, một số đền thờ mới được xây dựng cách đây vài năm tại Amsterdam đáng được khen ngợi; và đền thờ mới (như họ gọi) tại Dordrecht. Nhưng nơi các thính giả được phân phối qua các khu phố và các giáo xứ nhỏ hơn (như được làm ở nơi khác), thì cần một kích thước đền thờ nhỏ hơn nhiều; cũng không cần phải lao nhọc quá nhiều về hình oval, hay hình tròn, hay hình bát giác, hay hình dạng hay hình thể tương tự (điều thích hợp nhất cho việc truyền âm thanh đến mọi tai, và cho việc cho mọi người hay hầu hết người nghe thấy người giảng đạo), vì tiếng của người giảng đạo có thể dễ dàng được mỗi người nghe thấy.
 
-VI. Bước vào và xem xét các đền thờ thờ thần tượng của dân ngoại hay của người theo Giáo hoàng có hợp pháp hay không? Đáp: Hợp pháp, miễn là việc đó được làm mà không gây vấp phạm cho người lân cận và không dự phần vào sự thờ thần tượng, tức là, vì một mục đích tốt — như để chiêm ngưỡng bằng chính mắt mình một số điều đáng ngưỡng mộ ở đó; những điều đáng ngưỡng mộ, tôi nói, dù thuộc về tự nhiên, hay nghệ thuật, hay mê tín. Tôi nghĩ điều tương tự cũng không hoàn toàn bất hợp pháp trong bất cứ trường hợp nào, ngay cả khi các nghi lễ thánh đang được thực hiện ở đó, nhất là nếu việc này được làm bởi những người mà việc đã tự mình thấy chúng là quan trọng nhất đối với họ. Nhưng nếu người ta phải thông đồng với những kẻ thờ thần tượng bằng cách bỏ mũ ra, hay bằng một dấu hiệu tôn kính nào khác, hay nếu gây vấp phạm cho người lân cận, thì chúng tôi cho là hoàn toàn bất hợp pháp. Về điều này chúng tôi bàn trong phần 3 của các luận văn chọn lọc, dưới tựa về sự thờ thần tượng gián tiếp và dự phần. Trong lúc này, xin các sinh viên tham khảo luận văn của Teellingius đã xuất bản bằng tiếng bản xứ, Về Cảnh Tượng của Các Thần Tượng; và lời biện hộ của ông chống lại tu sĩ Dòng Tên John David, dưới tựa Những Balaam Đeo Mặt Nạ.
+VI. BƯỚC VÀO VÀ XEM XÉT CÁC ĐỀN THỜ THỜ THẦN TƯỢNG CỦA DÂN NGOẠI HAY CỦA NGƯỜI THEO GIÁO HOÀNG CÓ HỢP PHÁP HAY KHÔNG? ĐÁP: HỢP PHÁP, MIỄN LÀ VIỆC ĐÓ ĐƯỢC LÀM MÀ KHÔNG GÂY VẤP PHẠM CHO NGƯỜI LÂN CẬN VÀ KHÔNG DỰ PHẦN VÀO SỰ THỜ THẦN TƯỢNG, TỨC LÀ, VÌ MỘT MỤC ĐÍCH TỐT — NHƯ ĐỂ CHIÊM NGƯỠNG BẰNG CHÍNH MẮT MÌNH MỘT SỐ ĐIỀU ĐÁNG NGƯỠNG MỘ Ở ĐÓ; NHỮNG ĐIỀU ĐÁNG NGƯỠNG MỘ, TÔI NÓI, DÙ THUỘC VỀ TỰ NHIÊN, HAY NGHỆ THUẬT, HAY MÊ TÍN. TÔI NGHĨ ĐIỀU TƯƠNG TỰ CŨNG KHÔNG HOÀN TOÀN BẤT HỢP PHÁP TRONG BẤT CỨ TRƯỜNG HỢP NÀO, NGAY CẢ KHI CÁC NGHI LỄ THÁNH ĐANG ĐƯỢC THỰC HIỆN Ở ĐÓ, NHẤT LÀ NẾU VIỆC NÀY ĐƯỢC LÀM BỞI NHỮNG NGƯỜI MÀ VIỆC ĐÃ TỰ MÌNH THẤY CHÚNG LÀ QUAN TRỌNG NHẤT ĐỐI VỚI HỌ. NHƯNG NẾU NGƯỜI TA PHẢI THÔNG ĐỒNG VỚI NHỮNG KẺ THỜ THẦN TƯỢNG BẰNG CÁCH BỎ MŨ RA, HAY BẰNG MỘT DẤU HIỆU TÔN KÍNH NÀO KHÁC, HAY NẾU GÂY VẤP PHẠM CHO NGƯỜI LÂN CẬN, THÌ CHÚNG TÔI CHO LÀ HOÀN TOÀN BẤT HỢP PHÁP. VỀ ĐIỀU NÀY CHÚNG TÔI BÀN TRONG PHẦN 3 CỦA CÁC LUẬN VĂN CHỌN LỌC, DƯỚI TỰA VỀ SỰ THỜ THẦN TƯỢNG GIÁN TIẾP VÀ DỰ PHẦN. TRONG LÚC NÀY, XIN CÁC SINH VIÊN THAM KHẢO LUẬN VĂN CỦA TEELLINGIUS ĐÃ XUẤT BẢN BẰNG TIẾNG BẢN XỨ, VỀ CẢNH TƯỢNG CỦA CÁC THẦN TƯỢNG; VÀ LỜI BIỆN HỘ CỦA ÔNG CHỐNG LẠI TU SĨ DÒNG TÊN JOHN DAVID, DƯỚI TỰA NHỮNG BALAAM ĐEO MẶT NẠ.
 
 VII. Trong bất cứ trường hợp nào, một nhà cải cách hay một người giảng đạo cải cách có được giảng đạo, hay một thính giả có được nghe giảng, trong một đền thờ vẫn còn trang trí bằng các đồ đạc thờ thần tượng hay không? Đáp: Tôi khẳng định điều đó khi người ta đang tham gia vào các sự chuẩn bị cho cuộc cải cách, hay trong cuộc cải cách đầu tiên cả về giáo lý lẫn về toàn thể Hội Thánh; và việc đền thờ không được tẩy sạch thuộc về những người mà trong tay họ thẩm quyền tối cao vẫn còn nằm, đến nỗi những điều ấy trước hết phải được loại bỏ khỏi tâm trí của Hội Thánh và Quan Cai Trị bằng việc giảng đạo, trước khi chúng có thể được loại bỏ khỏi các đền thờ bởi họ. Ngoài ra còn có một trường hợp khác mà điều tương tự là hợp pháp: đó là, khi không có đền thờ nào khác, và hoàn toàn thích hợp để trong một thời gian các cuộc nhóm họp cải cách được tổ chức ở cùng nơi với các cuộc nhóm họp thuộc Giáo hoàng, theo sắc lệnh hay sự nhượng bộ của Quan Cai Trị, là Đấng tuy vậy không ban cho sự thay đổi hay tẩy sạch nào. Hầu hết các nhà cải cách đầu tiên đã đưa ra một ví dụ về sự khoan dung này; và thậm chí cho đến ngày nay, nếu tôi không lầm, các Hội Thánh của chúng tôi đưa ra ví dụ ấy trong các quận hay lãnh thổ chịu sự cai trị chung của các Bang Thụy Sĩ.
 
@@ -7895,7 +7902,7 @@ HẾT.
 
 CÁC LỖI IN.
 
-TẬP 2 – TẤT CẢ CÁC MỤC NÀY, TRỪ NHỮNG MỤC ĐƯỢC GHI BẰNG CHỮ ĐẬM/***, ĐÃ ĐƯỢC SỬA TRONG BẢN VĂN TRƯỚC KHI DỊCH.
+TẬP 2 – TẤT CẢ CÁC MỤC NÀY, TRỪ NHỮNG MỤC ĐƯỢC GHI BẰNG CHỮ ĐẬM/*, ĐÃ ĐƯỢC SỬA TRONG BẢN VĂN TRƯỚC KHI DỊCH.
 
 Trang 22, dòng 27: đọc Phục Truyền Luật Lệ Ký 21.
 
@@ -7929,7 +7936,7 @@ Trang 311, dòng 14: đọc cur à Paulo.
 
 Trang 311, dòng 33: đọc dictas.
 
-Trang 321, các dòng 19–20: xóa hai quy tắc này.***
+Trang 321, các dòng 19–20: xóa hai quy tắc này.*
 
 Trang 372, dòng 20: đọc sui.
 
@@ -8259,7 +8266,7 @@ QUYỂN IV. LUẬN VĂN IV. MỤC III. VỀ CÁC TƯƠNG TỰ VÀ CÁC HỌ HÀN
 
 GHI CHÚ CỦA NGƯỜI BIÊN TẬP.
 
-Tác phẩm sau đây đã được sao chép đầy đủ, nguyên văn, bằng Claude Opus 4.6. Sau đó nó đã được rà soát để loại bỏ bất cứ điều gì tìm thấy trong bản sao chụp mà không liên quan đến bản dịch; chẳng hạn như các tiêu đề trang, các dấu của người in, các từ chuyển dòng, v.v. Sau đó nó đã được dịch đầy đủ bằng Claude Opus 4.8. Như bạn sẽ thấy ở cuối sách, có một chỗ ghi các lỗi in. Tất cả các lỗi in, trừ những lỗi được in đậm và đánh dấu bằng dấu “***”, đã được sửa sau khi sao chép/trước khi dịch. Chúng tôi đã liệt kê chúng để độc giả có thể thấy những gì đã được sửa. Trong bản dịch, có vẻ như Claude đã thêm một số trợ giúp về ngữ cảnh, sẽ nằm trong dấu ngoặc “[...].” Mặc dù chúng tôi đã cố gắng tránh điều này, số lượng của chúng (hơn 30 cho Tập 1, hơn 15 cho Tập 2, hơn 40 cho Tập 3) là tương đối không đáng kể trong mỗi tác phẩm chứa hơn 500.000 từ. Xin cứ tự do bỏ qua chúng. Ngoài ra, trong tác phẩm này bạn sẽ nhận thấy các ký hiệu <H&G>. Những ký hiệu này chỉ nơi mà bản văn có tiếng Hê-bơ-rơ và tiếng Hy Lạp. Hiện tại chúng tôi không thể dành nguồn lực để giải mã và chuyển đổi tất cả các chữ nối cổ xưa trong bản văn. Chúng tôi đã quyết định tiếp tục với bản dịch này mặc dù vậy, vì hầu hết mọi người đều không biết tiếng Hê-bơ-rơ và tiếng Hy Lạp đủ lưu loát để có thể sử dụng chúng nhiều ngay từ đầu. Nếu Chúa muốn, một ngày nào đó chúng tôi có thể đưa chúng vào.
+Tác phẩm sau đây đã được sao chép đầy đủ, nguyên văn, bằng Claude Opus 4.6. Sau đó nó đã được rà soát để loại bỏ bất cứ điều gì tìm thấy trong bản sao chụp mà không liên quan đến bản dịch; chẳng hạn như các tiêu đề trang, các dấu của người in, các từ chuyển dòng, v.v. Sau đó nó đã được dịch đầy đủ bằng Claude Opus 4.8. Như bạn sẽ thấy ở cuối sách, có một chỗ ghi các lỗi in. Tất cả các lỗi in, trừ những lỗi được in đậm và đánh dấu bằng dấu “*”, đã được sửa sau khi sao chép/trước khi dịch. Chúng tôi đã liệt kê chúng để độc giả có thể thấy những gì đã được sửa. Trong bản dịch, có vẻ như Claude đã thêm một số trợ giúp về ngữ cảnh, sẽ nằm trong dấu ngoặc “[...].” Mặc dù chúng tôi đã cố gắng tránh điều này, số lượng của chúng (hơn 30 cho Tập 1, hơn 15 cho Tập 2, hơn 40 cho Tập 3) là tương đối không đáng kể trong mỗi tác phẩm chứa hơn 500.000 từ. Xin cứ tự do bỏ qua chúng. Ngoài ra, trong tác phẩm này bạn sẽ nhận thấy các ký hiệu <H&G>. Những ký hiệu này chỉ nơi mà bản văn có tiếng Hê-bơ-rơ và tiếng Hy Lạp. Hiện tại chúng tôi không thể dành nguồn lực để giải mã và chuyển đổi tất cả các chữ nối cổ xưa trong bản văn. Chúng tôi đã quyết định tiếp tục với bản dịch này mặc dù vậy, vì hầu hết mọi người đều không biết tiếng Hê-bơ-rơ và tiếng Hy Lạp đủ lưu loát để có thể sử dụng chúng nhiều ngay từ đầu. Nếu Chúa muốn, một ngày nào đó chúng tôi có thể đưa chúng vào.
 
 Một ghi chú về các đoạn văn. Phần thân văn trong tác phẩm này nhiều lần dài hàng trang mà không có đoạn ngắt. Với công nghệ AI hiện nay, không thể tự động dịch toàn bộ tài liệu bằng các hệ thống API của các mô hình tốt nhất. Trong trường hợp này, các thân văn dài phải được tách ra, để “chia nhỏ” thành một lượng ký tự giới hạn. Thật không may, điều này đã dẫn đến một số đoạn ngắt trong các đoạn văn trở nên không tự nhiên. Xin thứ lỗi cho điều này. Bản dịch là toàn bộ tác phẩm, đúng như nó được trình bày trong bản sao chụp, ngoại trừ các đoạn ngắt bị ép buộc.
 
@@ -8527,7 +8534,7 @@ IX. Họ đã ở khắp nơi ngăn cản các sự kêu gọi hợp pháp, dù 
 
 X. Họ đã thăng tiến bất kỳ ai mà họ đề cử, miễn là những người như vậy ủng hộ nguyên nhân và phe phái của họ — thậm chí nếu trong giáo lý họ không đủ năng lực, hay vượt ra ngoài Năm Tín điều là dị giáo, hay trong đời sống và cách cư xử <H&G>, hay không được các Hội Thánh hoan nghênh — trong chừng mực nằm trong quyền lực của họ, thúc đẩy họ bằng bất kỳ phương tiện nào, để gia tăng số lượng của chính họ. Trong số này có Engelbert Pot tại Transisulania, Nicolaus Lodingius tại tỉnh này, Henricus Welsingius tại Holland — người cuối cùng trong số này xuất hiện trong các thư của một số môn đồ của Vorstius được xuất bản bởi thẩm quyền công khai tại Frisia, như bạn có thể biết. Hãy thêm Henricus Slaetsius, người về giáo lý thì kém cỏi, tuy nhiên lại dị giáo cách quái gở, và trong đời sống và cách cư xử thì gian ác: người này, khi đang tìm kiếm một sứ mạng tới Đông Ấn, những người Remonstrant Utrecht thời ấy đã nhận vào kỳ thi, mặc dù Casparus Wiltens vô cùng uyên bác và, theo tuổi tác của mình, thận trọng đã khẩn thiết cảnh báo trước cho họ — Wiltens, người, được đốt cháy bởi lòng nhiệt thành đáng khen để trồng Phúc Âm trong số các dân Ngoại, từ lâu đã dâng công lao của mình cho hạm đội Amsterdam và cho các giám đốc của Công ty Đông Ấn, và nay đã sẵn sàng đảm nhận hành trình tới đó ngay khi có cơ hội đầu tiên. Ông, sau khi đã giảng Phúc Âm ở đó bằng tiếng Bỉ trong các giờ buổi sáng trong nhiều năm, và bằng tiếng Mã Lai (mà ông đã học trong một thời gian ngắn và thành công) trong các giờ buổi chiều, đã ngủ trong Chúa tại nơi ấy: như tôi nhớ được một người an ủi kẻ bệnh thông thường nào đó, một người bạn trở về từ Ấn Độ, đã nói với tôi, người đã có mặt với ông trong khi ông sống, giảng đạo, nằm bệnh, và qua đời. Một điều tôi không thể bỏ qua trong dịp này, tức là đơn thỉnh cầu của các sinh viên thần học tại Đại học Leiden, phản đối chức giáo sư của Conrad Vorstius, trình bày cho các Quản đốc đáng kính và cho Quốc Hội danh tiếng Holland, đã được chính Casparus Wiltens này thai nghén và soạn thảo khi ông đang chuẩn bị cho hành trình Phúc Âm-Ấn Độ, và đã được tám sinh viên được chỉ định cho mục đích ấy đọc, đọc lại, và chấp thuận. Từ đơn này, về sau được xuất bản in, người ta sẽ có thể ở một mức độ nào đó phán xét tài năng và sự thận trọng của chàng trai trẻ ấy.
 
-XI. Dưới cái cớ hòa bình, ôn hòa, và khoan dung lẫn nhau, họ đã tiến hành chiến tranh mạnh mẽ bằng các lời vu khống, chửi rủa, và mắng nhiếc, để khuấy động sự căm ghét và khinh rẻ cả giáo lý chính thống lẫn các mục sư chính thống. Các nhân chứng là các sách nhỏ đã xuất bản, một số vô danh, một số dưới tên tác giả. Về các lời vu khống chống lại giáo lý, nổi bật có một số bảng hay bảng nhỏ, trong đó họ đã so sánh giáo lý của những người Cải Chánh với chủ nghĩa Manichaeus, chủ nghĩa Thổ Nhĩ Kỳ, v.v., hoặc bằng cách trình bày các trích đoạn từ một tác giả Cải Chánh nào đó (Calvin, Marlorat, Martyr, Beza, Pareus, Piscator, v.v.), hoặc bằng cách gán cho những người Cải Chánh một giáo lý bịa đặt hay vu khống bịa ra. Trong số những người đã làm điều này cách công khai và dưới tên của chính mình, không kém ai là Petrus Bertius, về sau là một kẻ bội đạo đáng buồn sang chế độ Giáo hoàng, trong một cuộc tranh luận về thần học ẩn giấu và tỏ tường, và trong một lời nói đầu nào đó gửi một tác phẩm hậu thế của Arminius: nơi ông kể lại việc làm của Tiberius, người đã giao một trinh nữ nào đó, mà ông đã định cho hình phạt tử hình, trước tiên cho đao phủ làm nhục. Sự so sánh vu khống này, với sự tiền định tuyệt đối của Đức Chúa Trời, về sau ông đã bênh vực trong một tác phẩm riêng biệt chống lại sự bác bỏ đã xuất bản của Piscator. Về các lời mắng nhiếc, hạ thấp, và vu khống chống lại các mục sư và các hành vi của họ được thực hiện thay cho chính thống, thay cho quyền lực, chính quyền, <H&G> của Hội Thánh; <H&G> Casparus Barlaeus đã làm điều này trong một bài diễn thuyết Philippic nào đó chống lại các mục sư: mà J. Daemius, Tiến sĩ Y khoa, đã đáp lại như đáng phải. Tôi thêm Grevinckhovius vào Barlaeus. Các sách và sách nhỏ của Johannes Wttenbogardus, Petrus Cupus, và những người khác bằng tiếng bản xứ, tôi nay bỏ qua.
+XI. DƯỚI CÁI CỚ HÒA BÌNH, ÔN HÒA, VÀ KHOAN DUNG LẪN NHAU, HỌ ĐÃ TIẾN HÀNH CHIẾN TRANH MẠNH MẼ BẰNG CÁC LỜI VU KHỐNG, CHỬI RỦA, VÀ MẮNG NHIẾC, ĐỂ KHUẤY ĐỘNG SỰ CĂM GHÉT VÀ KHINH RẺ CẢ GIÁO LÝ CHÍNH THỐNG LẪN CÁC MỤC SƯ CHÍNH THỐNG. CÁC NHÂN CHỨNG LÀ CÁC SÁCH NHỎ ĐÃ XUẤT BẢN, MỘT SỐ VÔ DANH, MỘT SỐ DƯỚI TÊN TÁC GIẢ. VỀ CÁC LỜI VU KHỐNG CHỐNG LẠI GIÁO LÝ, NỔI BẬT CÓ MỘT SỐ BẢNG HAY BẢNG NHỎ, TRONG ĐÓ HỌ ĐÃ SO SÁNH GIÁO LÝ CỦA NHỮNG NGƯỜI CẢI CHÁNH VỚI CHỦ NGHĨA MANICHAEUS, CHỦ NGHĨA THỔ NHĨ KỲ, V.V., HOẶC BẰNG CÁCH TRÌNH BÀY CÁC TRÍCH ĐOẠN TỪ MỘT TÁC GIẢ CẢI CHÁNH NÀO ĐÓ (CALVIN, MARLORAT, MARTYR, BEZA, PAREUS, PISCATOR, V.V.), HOẶC BẰNG CÁCH GÁN CHO NHỮNG NGƯỜI CẢI CHÁNH MỘT GIÁO LÝ BỊA ĐẶT HAY VU KHỐNG BỊA RA. TRONG SỐ NHỮNG NGƯỜI ĐÃ LÀM ĐIỀU NÀY CÁCH CÔNG KHAI VÀ DƯỚI TÊN CỦA CHÍNH MÌNH, KHÔNG KÉM AI LÀ PETRUS BERTIUS, VỀ SAU LÀ MỘT KẺ BỘI ĐẠO ĐÁNG BUỒN SANG CHẾ ĐỘ GIÁO HOÀNG, TRONG MỘT CUỘC TRANH LUẬN VỀ THẦN HỌC ẨN GIẤU VÀ TỎ TƯỜNG, VÀ TRONG MỘT LỜI NÓI ĐẦU NÀO ĐÓ GỬI MỘT TÁC PHẨM HẬU THẾ CỦA ARMINIUS: NƠI ÔNG KỂ LẠI VIỆC LÀM CỦA TIBERIUS, NGƯỜI ĐÃ GIAO MỘT TRINH NỮ NÀO ĐÓ, MÀ ÔNG ĐÃ ĐỊNH CHO HÌNH PHẠT TỬ HÌNH, TRƯỚC TIÊN CHO ĐAO PHỦ LÀM NHỤC. SỰ SO SÁNH VU KHỐNG NÀY, VỚI SỰ TIỀN ĐỊNH TUYỆT ĐỐI CỦA ĐỨC CHÚA TRỜI, VỀ SAU ÔNG ĐÃ BÊNH VỰC TRONG MỘT TÁC PHẨM RIÊNG BIỆT CHỐNG LẠI SỰ BÁC BỎ ĐÃ XUẤT BẢN CỦA PISCATOR. VỀ CÁC LỜI MẮNG NHIẾC, HẠ THẤP, VÀ VU KHỐNG CHỐNG LẠI CÁC MỤC SƯ VÀ CÁC HÀNH VI CỦA HỌ ĐƯỢC THỰC HIỆN THAY CHO CHÍNH THỐNG, THAY CHO QUYỀN LỰC, CHÍNH QUYỀN, <H&G> CỦA HỘI THÁNH; <H&G> CASPARUS BARLAEUS ĐÃ LÀM ĐIỀU NÀY TRONG MỘT BÀI DIỄN THUYẾT PHILIPPIC NÀO ĐÓ CHỐNG LẠI CÁC MỤC SƯ: MÀ J. DAEMIUS, TIẾN SĨ Y KHOA, ĐÃ ĐÁP LẠI NHƯ ĐÁNG PHẢI. TÔI THÊM GREVINCKHOVIUS VÀO BARLAEUS. CÁC SÁCH VÀ SÁCH NHỎ CỦA JOHANNES WTTENBOGARDUS, PETRUS CUPUS, VÀ NHỮNG NGƯỜI KHÁC BẰNG TIẾNG BẢN XỨ, TÔI NAY BỎ QUA.
 
 XII. Những người nay gia nhập phe phái ấy đã hăng hái thăng tiến cả các mục sư lẫn các ứng viên cho chức vụ mục sư; họ đã giới thiệu và ca ngợi họ về tài năng, uyên bác, và hùng biện, như là thích hợp nhất cách nổi bật; mặc dù trước đây, khi họ vẫn còn đứng về phía chính thống, họ đã coi họ như không có gì hay ít giá trị: đến nỗi lúc bấy giờ đã trở thành một câu nói chung rằng nếu có ai muốn được tôn trọng, người ấy nên giao mình cho giáo lý mới. Vì những người ấy, qua sự giới thiệu và ca ngợi của một số người Remonstrant, là những người có thể làm mọi sự với những người có cánh tay dài, nay đã được đặt lên cỗ xe thăng tiến.
 
@@ -9975,13 +9982,13 @@ III. Theo sinh quán và dòng dõi, họ là người Y-sơ-ra-ên, hay ngườ
 
 IV. Họ là những nhân chứng mắt thấy tai nghe về đời sống, giáo lý, và sự sống lại của Đấng Christ, Công Vụ 1:3, I Cô-rinh-tô 15:4, 9, cùng với I Giăng 1:1, 2, và được chọn và chỉ định một cách đặc biệt để làm chứng như vậy, Công Vụ 1:8, mà họ cũng đã làm chứng một cách trung tín, Công Vụ 8:33. Về lời chứng của Phao-lô bởi sự hiện ra phi thường và trực tiếp của Đấng Christ, và bởi <H&G> và sự mặc khải không thể sai lầm, hãy đọc I Cô-rinh-tô 15:8, Công Vụ 9:3, 8, cùng với 22:14, 15, 17, 18, và I Cô-rinh-tô 9:1. Do đó ông cũng là nhân chứng mắt thấy tai nghe. Ngoài ra, vì chắc chắn bởi sự mặc khải của Đấng Christ về những điều ông giảng, ông đã giảng một cách không thể sai lầm, và đã không nhận chức sứ đồ cách trung gian qua bất kỳ người nào, Ga-la-ti 1:1, 12, và 2:2, 6, cùng với II Cô-rinh-tô 11:7.
 
-V. Được Đấng Christ chọn, kêu gọi, sai đi, và lập làm ủy viên một cách trực tiếp. Xem các đoạn vừa trích dẫn, Ma-thi-ơ 10, Mác 3, Lu-ca 6, Giăng 6; và sau sự sống lại, Giăng 20:21; và ngay lúc thăng thiên lên trời, Ma-thi-ơ 28:19, Mác 16:15, Công Vụ 1:4, 9. Về Phao-lô, xem các đoạn được trích dẫn trong số trước.
+V. ĐƯỢC ĐẤNG CHRIST CHỌN, KÊU GỌI, SAI ĐI, VÀ LẬP LÀM ỦY VIÊN MỘT CÁCH TRỰC TIẾP. XEM CÁC ĐOẠN VỪA TRÍCH DẪN, MA-THI-Ơ 10, MÁC 3, LU-CA 6, GIĂNG 6; VÀ SAU SỰ SỐNG LẠI, GIĂNG 20:21; VÀ NGAY LÚC THĂNG THIÊN LÊN TRỜI, MA-THI-Ơ 28:19, MÁC 16:15, CÔNG VỤ 1:4, 9. VỀ PHAO-LÔ, XEM CÁC ĐOẠN ĐƯỢC TRÍCH DẪN TRONG SỐ TRƯỚC.
 
-VI. Được chuẩn bị cho chức vụ này dưới sự rèn luyện trực tiếp của Đấng Christ, đã trò chuyện thân mật với Ngài khoảng ba năm: mà từ đó họ được gọi là <H&G>, các môn đồ của Ngài; mặc dù những người khác cũng được gọi bằng danh này (như chúng ta suy ra từ Lu-ca 6:13 cùng với 10:1, 17, nơi có 70 môn đồ), và nhiều người khác nữa, nhưng là những người bí mật, như Giô-sép thành A-ri-ma-thê, Giăng 19:38. Và sau khi các sứ đồ đã chuẩn bị mình để thi hành mệnh lệnh của Đấng Christ, Ma-thi-ơ 28:19, <H&G>, vân vân, tất cả những ai được khai tâm vào Cơ Đốc giáo đều được gọi là môn đồ, Công Vụ 6:1, 2, và 9:26, và 11:26. Mặc dù Ma-thia và Phao-lô không phải là những người dự phần vào sự tương giao và trò chuyện thân mật với Đấng Christ, và do đó vào sự dạy dỗ, sự thấy, và sự nghe trực tiếp, theo cùng cách như mười một người còn lại; tuy nhiên Đức Chúa Trời đã bù đắp điều này bằng sự mặc khải trực tiếp, để họ làm chứng về Ngài không kém gì những người khác, như chúng ta suy ra về Ma-thia, Công Vụ 2:14, 40, 42, 43, và 5:12, 32, 42; và về Phao-lô, Công Vụ 22:18 và 26:16, 22. Ma-thia cũng vậy, trong số 70 người, có thể đã gần gũi Chúa hơn bởi một sự thân mật nào đó.
+VI. ĐƯỢC CHUẨN BỊ CHO CHỨC VỤ NÀY DƯỚI SỰ RÈN LUYỆN TRỰC TIẾP CỦA ĐẤNG CHRIST, ĐÃ TRÒ CHUYỆN THÂN MẬT VỚI NGÀI KHOẢNG BA NĂM: MÀ TỪ ĐÓ HỌ ĐƯỢC GỌI LÀ <H&G>, CÁC MÔN ĐỒ CỦA NGÀI; MẶC DÙ NHỮNG NGƯỜI KHÁC CŨNG ĐƯỢC GỌI BẰNG DANH NÀY (NHƯ CHÚNG TA SUY RA TỪ LU-CA 6:13 CÙNG VỚI 10:1, 17, NƠI CÓ 70 MÔN ĐỒ), VÀ NHIỀU NGƯỜI KHÁC NỮA, NHƯNG LÀ NHỮNG NGƯỜI BÍ MẬT, NHƯ GIÔ-SÉP THÀNH A-RI-MA-THÊ, GIĂNG 19:38. VÀ SAU KHI CÁC SỨ ĐỒ ĐÃ CHUẨN BỊ MÌNH ĐỂ THI HÀNH MỆNH LỆNH CỦA ĐẤNG CHRIST, MA-THI-Ơ 28:19, <H&G>, VÂN VÂN, TẤT CẢ NHỮNG AI ĐƯỢC KHAI TÂM VÀO CƠ ĐỐC GIÁO ĐỀU ĐƯỢC GỌI LÀ MÔN ĐỒ, CÔNG VỤ 6:1, 2, VÀ 9:26, VÀ 11:26. MẶC DÙ MA-THIA VÀ PHAO-LÔ KHÔNG PHẢI LÀ NHỮNG NGƯỜI DỰ PHẦN VÀO SỰ TƯƠNG GIAO VÀ TRÒ CHUYỆN THÂN MẬT VỚI ĐẤNG CHRIST, VÀ DO ĐÓ VÀO SỰ DẠY DỖ, SỰ THẤY, VÀ SỰ NGHE TRỰC TIẾP, THEO CÙNG CÁCH NHƯ MƯỜI MỘT NGƯỜI CÒN LẠI; TUY NHIÊN ĐỨC CHÚA TRỜI ĐÃ BÙ ĐẮP ĐIỀU NÀY BẰNG SỰ MẶC KHẢI TRỰC TIẾP, ĐỂ HỌ LÀM CHỨNG VỀ NGÀI KHÔNG KÉM GÌ NHỮNG NGƯỜI KHÁC, NHƯ CHÚNG TA SUY RA VỀ MA-THIA, CÔNG VỤ 2:14, 40, 42, 43, VÀ 5:12, 32, 42; VÀ VỀ PHAO-LÔ, CÔNG VỤ 22:18 VÀ 26:16, 22. MA-THIA CŨNG VẬY, TRONG SỐ 70 NGƯỜI, CÓ THỂ ĐÃ GẦN GŨI CHÚA HƠN BỞI MỘT SỰ THÂN MẬT NÀO ĐÓ.
 
 VII. Những người của Đức Chúa Trời được dạy dỗ đầy đủ trong Kinh Thánh và trong giáo lý của sự cứu rỗi, và được làm thành những giáo sư không thể sai lầm vào ngày Lễ Ngũ Tuần, theo lời hứa của Giăng 16:13, cùng với Công Vụ 1:4, 8, và 2:33. Phao-lô làm chứng về ân tứ <H&G> này của ông, I Cô-rinh-tô 7:4, vân vân, cùng với I Tê-sa-lô-ni-ca 2:13 và 4:8, Ga-la-ti 1:12. Về sự miễn trừ khỏi sai lầm và sự không thể sai lầm của các sứ đồ, xin xem Tertullian tranh luận cho điều đó trong quyển Về Sự Ngăn Chặn của ông, chương 21, 30.
 
-VIII. Được dạy dỗ trong cùng ngày Lễ Ngũ Tuần với mọi thứ ân tứ của ân điển; cũng với quyền năng và ân tứ, qua việc đặt tay như bởi một ấn chứng hay thánh lễ phi thường, để xác nhận những người khác trong các ân tứ của ân điển do Đức Chúa Trời ban cho. Công Vụ 8:14, 18. Đối chiếu phần 2 của các cuộc tranh luận chọn lọc, dưới tiêu đề Về Các Ân Tứ Của Ân Điển.
+VIII. ĐƯỢC DẠY DỖ TRONG CÙNG NGÀY LỄ NGŨ TUẦN VỚI MỌI THỨ ÂN TỨ CỦA ÂN ĐIỂN; CŨNG VỚI QUYỀN NĂNG VÀ ÂN TỨ, QUA VIỆC ĐẶT TAY NHƯ BỞI MỘT ẤN CHỨNG HAY THÁNH LỄ PHI THƯỜNG, ĐỂ XÁC NHẬN NHỮNG NGƯỜI KHÁC TRONG CÁC ÂN TỨ CỦA ÂN ĐIỂN DO ĐỨC CHÚA TRỜI BAN CHO. CÔNG VỤ 8:14, 18. ĐỐI CHIẾU PHẦN 2 CỦA CÁC CUỘC TRANH LUẬN CHỌN LỌC, DƯỚI TIÊU ĐỀ VỀ CÁC ÂN TỨ CỦA ÂN ĐIỂN.
 
 IX. Họ là những kiến trúc sư đầu tiên của các Hội Thánh Tân Ước tại Giê-ru-sa-lem, và từ đó khắp Giu-đê, Sa-ma-ri, và các dân tộc và vùng khác trên thế gian, theo mệnh lệnh nhận được từ Đấng Christ, Ma-thi-ơ 28:19, cùng với Công Vụ 1:8. Phao-lô làm chứng điều này một cách đặc biệt về chính mình, I Cô-rinh-tô 3:6, Rô-ma 15:19, 20.
 
@@ -12019,11 +12026,11 @@ Mật độ dân số, ngôn ngữ và cách phát âm của thổ ngữ của n
 
 IX. VỀ HỌC THUẬT HỌC. Các ký tự chữ viết đặc biệt của vùng ấy, như các chữ Gothic xưa, người bán sách, thư viện, sách hiếm và bí mật, các bản thảo cổ, chưa in. Các dấu vết cổ khắc vào vách đá và đá. Và các cổ vật khác và những điều đáng nhớ để ngắm nhìn, như các giường nằm của người khổng lồ, mà trong công quốc Mecklenburg được gọi là các nghĩa địa của người Vandal. Tiền cổ. Tranh vẽ cổ hay gần đây khéo léo nhất. Cũng vậy các bản khắc của cột, tượng, tháp nhọn, kim tự tháp, mộ, và các di tích khác. Thi phẩm ngắn, thơ tiễn đưa, bài ca cưới, bia mộ, điếu văn, bi ca, châm biếm, bi kịch, rhapsody, cento, thơ hình. Thơ Leonine, thơ rắn, thơ hòa hợp, thơ đối đáp, thơ tương hỗ hay ngược, thơ tương quan, thơ bí ẩn, câu đố. Vần, lời dí dỏm, châm ngôn, tục ngữ, cách ngôn. Bài hát và giai điệu khéo léo, ngọt ngào, cũ và mới, thuộc thể diatonic, chromatic, và enharmonic. Các phần ngọt ngào gồm 2, 3, 4, 5, 6 giọng, v.v. Nhạc cụ riêng đủ loại, xưởng âm nhạc và nhạc cụ, người chơi organ, nhạc sĩ thực hành và nhạc cụ. Dụng cụ hình học, thiên văn, toán học, cơ học. Các công trình cơ học xuất sắc, máy tự động, máy thủy lực. Thợ thủ công xuất sắc trong các nghề cơ học, họa sĩ cao quý, nhà điêu khắc tượng, nhà điêu khắc, thợ mộc, kiến trúc sư, thợ kim hoàn khéo léo, và các thợ thủ công khác. Cũng vậy nghề làm len. Trường học cho bé trai, cho bé gái, giảng đường, học viện, đám đông sinh viên. Các nghệ thuật tự do, các bài giảng công khai trong trường học và học viện, việc học, cách thức giảng dạy, chính quyền học đường, kỷ luật học đường, sư phạm, hiệu trưởng các Gymnasia, giám đốc các trò chơi, thầy giáo, hiệu trưởng, giáo sư các học viện, lương của các tiến sĩ. Các học giả, triết gia, toán học, số học, hình học, thiên văn, chiêm tinh, nhạc sĩ lý thuyết, nhà soạn nhạc như người ta gọi, thi sĩ, hùng biện gia, sử gia, nhà giả kim, thầy thuốc, thú y. Người săn chim — người bắn thú — ngư dân, để điều tra lịch sử và bản chất của thú hoang, chim, và sinh vật dưới nước, các loại chim và cá khác nhau.
 
-X. THUỘC VỀ GIÁO HỘI. Hội Thánh, cộng đồng giáo hội, các ngày lễ, tôn giáo, sự thờ phượng thiêng liêng; mê tín, thờ hình tượng. Các bài tập thiêng liêng, các lễ nghi, các nghi thức khác nhau cùng nguồn gốc và tiến trình của chúng, các thánh lễ. Các bài thánh ca. Các bài giảng, các giáo lý. Đám đông thính giả, lòng sùng kính, lòng đạo đức, sự thánh khiết, các kỳ kiêng ăn, việc bố thí. Các cuộc hành hương vì cớ tôn giáo — Hành hương. Các phẩm trật và chức vụ trong giáo hội, các nhà giảng đạo, các giáo sư danh tiếng, các nhà thần học, các mục sư của Hội Thánh, Tổng Giám mục, Giám mục Phụ tá, Viện trưởng, các tu sĩ, các kinh sĩ, Viện phụ, Viện trưởng tu viện, Giám đốc, Giám mục, Hồng y, Giáo hoàng, những kẻ dị giáo, các tiên tri, các thánh đồ. Các lương bổng và trợ cấp hậu hĩnh của các mục sư trong hội thánh, các bổng lộc phong phú, các thu nhập và tài sản của giới giáo sĩ, các đặc quyền của hàng giáo sĩ, kỷ luật giáo hội, các luật về việc kết hôn, các phán quyết, hay các Consistory giáo hội.
+X. THUỘC VỀ GIÁO HỘI. HỘI THÁNH, CỘNG ĐỒNG GIÁO HỘI, CÁC NGÀY LỄ, TÔN GIÁO, SỰ THỜ PHƯỢNG THIÊNG LIÊNG; MÊ TÍN, THỜ HÌNH TƯỢNG. CÁC BÀI TẬP THIÊNG LIÊNG, CÁC LỄ NGHI, CÁC NGHI THỨC KHÁC NHAU CÙNG NGUỒN GỐC VÀ TIẾN TRÌNH CỦA CHÚNG, CÁC THÁNH LỄ. CÁC BÀI THÁNH CA. CÁC BÀI GIẢNG, CÁC GIÁO LÝ. ĐÁM ĐÔNG THÍNH GIẢ, LÒNG SÙNG KÍNH, LÒNG ĐẠO ĐỨC, SỰ THÁNH KHIẾT, CÁC KỲ KIÊNG ĂN, VIỆC BỐ THÍ. CÁC CUỘC HÀNH HƯƠNG VÌ CỚ TÔN GIÁO — HÀNH HƯƠNG. CÁC PHẨM TRẬT VÀ CHỨC VỤ TRONG GIÁO HỘI, CÁC NHÀ GIẢNG ĐẠO, CÁC GIÁO SƯ DANH TIẾNG, CÁC NHÀ THẦN HỌC, CÁC MỤC SƯ CỦA HỘI THÁNH, TỔNG GIÁM MỤC, GIÁM MỤC PHỤ TÁ, VIỆN TRƯỞNG, CÁC TU SĨ, CÁC KINH SĨ, VIỆN PHỤ, VIỆN TRƯỞNG TU VIỆN, GIÁM ĐỐC, GIÁM MỤC, HỒNG Y, GIÁO HOÀNG, NHỮNG KẺ DỊ GIÁO, CÁC TIÊN TRI, CÁC THÁNH ĐỒ. CÁC LƯƠNG BỔNG VÀ TRỢ CẤP HẬU HĨNH CỦA CÁC MỤC SƯ TRONG HỘI THÁNH, CÁC BỔNG LỘC PHONG PHÚ, CÁC THU NHẬP VÀ TÀI SẢN CỦA GIỚI GIÁO SĨ, CÁC ĐẶC QUYỀN CỦA HÀNG GIÁO SĨ, KỶ LUẬT GIÁO HỘI, CÁC LUẬT VỀ VIỆC KẾT HÔN, CÁC PHÁN QUYẾT, HAY CÁC CONSISTORY GIÁO HỘI.
 
-XI. THUỘC VỀ LỊCH SỬ. Cổ xưa hay nguồn gốc của thành phố. Khi thành phố bắt đầu được xây dựng lần đầu, và các khu vực của thành phố, các đền thờ, các triều đình, các thành trì. Những người sáng lập đầu tiên, các tên gọi và danh xưng xưa hơn và gần đây hơn, từ nguyên hay lý do của các tên gọi. Huy hiệu của vùng, của thành phố, và lý do cùng ý nghĩa của huy hiệu. Những cư dân đầu tiên, những người dân từng giữ các vùng đất ấy. Các gia đình có nguồn gốc cổ xưa nhất trong quê hương, đức hạnh của giới quý tộc, của cư dân cổ xưa và các bậc trưởng giả. Các việc làm lừng lẫy nhất do cư dân cổ xưa thực hiện trong thời bình và thời chiến, các lịch sử đáng ghi nhớ. Các nhà cai trị lừng lẫy, các Giáo hoàng, các Hoàng đế, các Hồng y, các vị vua cổ xưa trổi vượt về đức hạnh, từng cai trị, các Bá tước, các Nam tước, các Hầu tước, các Bá tước vùng đất. Hoàng đế, Vua, Công tước, Lãnh chúa, Tổng đốc, Thái thú, các Quan chấp chính, các Thượng nghị sĩ lừng lẫy hiện đang cai trị. Những người lừng lẫy, các quý tộc, các tiên tri, những kẻ dị giáo, các thánh đồ, từng thịnh vượng, mà vùng đất ấy đã sản sinh. Những người cao quý, các trinh nữ lừng lẫy, phụ nữ, các cụ già suy yếu, các bậc hiền triết — những người khôn ngoan theo đời — và các sự đáng ghi nhớ khác.
+XI. THUỘC VỀ LỊCH SỬ. CỔ XƯA HAY NGUỒN GỐC CỦA THÀNH PHỐ. KHI THÀNH PHỐ BẮT ĐẦU ĐƯỢC XÂY DỰNG LẦN ĐẦU, VÀ CÁC KHU VỰC CỦA THÀNH PHỐ, CÁC ĐỀN THỜ, CÁC TRIỀU ĐÌNH, CÁC THÀNH TRÌ. NHỮNG NGƯỜI SÁNG LẬP ĐẦU TIÊN, CÁC TÊN GỌI VÀ DANH XƯNG XƯA HƠN VÀ GẦN ĐÂY HƠN, TỪ NGUYÊN HAY LÝ DO CỦA CÁC TÊN GỌI. HUY HIỆU CỦA VÙNG, CỦA THÀNH PHỐ, VÀ LÝ DO CÙNG Ý NGHĨA CỦA HUY HIỆU. NHỮNG CƯ DÂN ĐẦU TIÊN, NHỮNG NGƯỜI DÂN TỪNG GIỮ CÁC VÙNG ĐẤT ẤY. CÁC GIA ĐÌNH CÓ NGUỒN GỐC CỔ XƯA NHẤT TRONG QUÊ HƯƠNG, ĐỨC HẠNH CỦA GIỚI QUÝ TỘC, CỦA CƯ DÂN CỔ XƯA VÀ CÁC BẬC TRƯỞNG GIẢ. CÁC VIỆC LÀM LỪNG LẪY NHẤT DO CƯ DÂN CỔ XƯA THỰC HIỆN TRONG THỜI BÌNH VÀ THỜI CHIẾN, CÁC LỊCH SỬ ĐÁNG GHI NHỚ. CÁC NHÀ CAI TRỊ LỪNG LẪY, CÁC GIÁO HOÀNG, CÁC HOÀNG ĐẾ, CÁC HỒNG Y, CÁC VỊ VUA CỔ XƯA TRỔI VƯỢT VỀ ĐỨC HẠNH, TỪNG CAI TRỊ, CÁC BÁ TƯỚC, CÁC NAM TƯỚC, CÁC HẦU TƯỚC, CÁC BÁ TƯỚC VÙNG ĐẤT. HOÀNG ĐẾ, VUA, CÔNG TƯỚC, LÃNH CHÚA, TỔNG ĐỐC, THÁI THÚ, CÁC QUAN CHẤP CHÍNH, CÁC THƯỢNG NGHỊ SĨ LỪNG LẪY HIỆN ĐANG CAI TRỊ. NHỮNG NGƯỜI LỪNG LẪY, CÁC QUÝ TỘC, CÁC TIÊN TRI, NHỮNG KẺ DỊ GIÁO, CÁC THÁNH ĐỒ, TỪNG THỊNH VƯỢNG, MÀ VÙNG ĐẤT ẤY ĐÃ SẢN SINH. NHỮNG NGƯỜI CAO QUÝ, CÁC TRINH NỮ LỪNG LẪY, PHỤ NỮ, CÁC CỤ GIÀ SUY YẾU, CÁC BẬC HIỀN TRIẾT — NHỮNG NGƯỜI KHÔN NGOAN THEO ĐỜI — VÀ CÁC SỰ ĐÁNG GHI NHỚ KHÁC.
 
-XII. THUỘC VỀ NIÊN ĐẠI. Các lịch sử riêng biệt, các biên niên, các quái vật, các điềm lạ, các điềm báo, các sự kỳ dị thấy tại những nơi ấy, các sao chổi, các nhật thực lớn. Các đợt lạnh dữ dội, các mùa đông lạnh giá nhất, các mùa hè thiêu đốt. Các tia chớp, sấm sét, sét đánh. Các đám cháy, các cơn bão lớn, các trận lụt, các trận đại hồng thủy, các trận mưa xối xả. Các trận mưa đá lớn và gây hại. Các trận tuyết sâu nhất, các trận động đất; châu chấu, khan hiếm ngũ cốc, nạn đói, dịch bệnh: về các điều này cần ghi chú đã có bao nhiêu lần, thuộc loại nào, bắt đầu khi nào, hoành hành bao lâu, chấm dứt khi nào, từ những vùng nào mà chúng phát sinh, đã mang đi bao nhiêu người và những ai khỏi cõi sống, bằng cách nào và bằng những phương thuốc mới mẻ và chắc chắn nào mà một số người đã được cứu trong cơn dịch ấy. Các cuộc chiến tranh, các trận đánh, các cuộc xung đột, các cuộc đấu tay đôi, các cuộc vây hãm, việc công phá và tàn phá các thành phố cùng các tai họa khác, từ những nguyên nhân nào mà chúng phát sinh, và bởi ai mà chúng bị xúi giục. Các cuộc nổi loạn, các cuộc hòa giải, các hiệp ước, và đã ký kết với ai. Các quý tộc xuất sắc. Các bậc trưởng giả ưu tú, các quý tộc gian ác, các hải tặc — những kẻ cướp — và tội ác của chúng. Và những người đã thiệt mạng bởi các tai nạn khủng khiếp, dù do lỗi của chính mình mà họ chuốc lấy hình phạt, hay dù do số phận mà họ rơi vào các tai họa ấy. Người ấy hãy mang về nhà những điều tốt nhất, và thu lấy hoa trái từ chuyến du hành của mình. Vì thật trống rỗng, và đáng gọi là hư không, sẽ là hành trình và sự lang thang của những người bước ra khỏi cửa mà không có ánh sáng của sự khôn ngoan, và thực hiện các chuyến đi ngoại quốc chỉ với niềm vui này, rằng họ cho mắt mình ăn no bằng cảnh tượng của các thành phố, thành trì, lùm cây và sông ngòi, hay rằng họ mang về một kiểu y phục, cử chỉ và dáng điệu mới. Vì người lữ khách khôn ngoan, trong những khoảng không gian quan sát của mình, bắt chước những dòng sông mà chúng ta nghe nói trôi giữa biển cả, mà không hề pha chút muối nào, rất kiên trì giữ vị ngọt và màu sắc riêng của mình. Từ người lữ khách, chúng ta cho rằng những điều cần được quan sát là những điều hướng đến mục đích của chuyến du hành, tức là việc đạt được sự khôn ngoan chính trị, điều phải đóng góp cho phúc lợi của Tổ quốc và lợi ích công cộng; bằng không người ấy sẽ du hành vô ích. Vì cũng như không ai tin rằng người không có kiến thức về thảo mộc là giỏi nghề y, hay một kiến trúc sư lỗi lạc mà không phân biệt được tượng Doric với tượng Corinthian: thì cũng vậy, người ta không đánh giá rằng người đã sắp xếp tốt thời gian và công sức của mình, mà người ấy đã tiêu tốn trong việc du hành, nếu bởi chuyến du hành của mình người ấy đã không tiến bộ và tăng trưởng trong những điều mà người ấy lẽ ra phải biết trước. Ví dụ, nếu có một người làm chính trị, và làm cố vấn cho một Hoàng tử hay trong cộng đồng, và nói rằng mình đã sống một thời gian tại xứ Gaul: hãy hỏi người ấy xứ Gaul, hay Tây Ban Nha, dài hay rộng bao nhiêu dặm? Có những pháo đài nào? Nơi nào dễ hay khó tiếp cận? Có bao nhiêu con sông không thể lội qua? Đức hạnh chính của người Tây Ban Nha là gì? Và cũng vậy của người Gaul? Tật xấu lớn nhất của mỗi dân tộc là gì? Những người này hay những người kia thích thú nhất về điều gì? Quý tộc xứ Gaul khác quý tộc Tây Ban Nha ở điểm nào? Và cũng vậy dân thường khác nhau ra sao, và nghề nghiệp của họ là gì, phong tục của họ là gì? Sự khác biệt giữa các công trình kiến trúc của các dân tộc này là gì? Vị vua nào trong hai vua thắng thế với quyền lực lớn hơn trong mỗi vương quốc. Các thần dân trong các vương quốc ấy hoặc vâng phục Hoàng tử của mình, hoặc chống lại người, bằng cách nào? Sự nô lệ của người Gaul khác sự nô lệ của người Tây Ban Nha ra sao. Bằng phương tiện nào mà sự khan hiếm ngũ cốc được tránh khỏi trong các vương quốc này? Phong cách triều đình trong mỗi vương quốc ra sao, và người ta lo liệu cho nông dân thế nào, để trong thời chiến họ không bị tai hại? Nếu vậy, người ấy đã đáp những điều này một cách thích đáng, thì mọi sự đều tốt: nhưng nếu không, đó là dấu hiệu lớn cho thấy người ấy đã chú tâm vào những điều khác hơn là học hỏi bởi chuyến du hành của mình những vấn đề mà một người làm chính trị, hay một cố vấn, lẽ ra phải biết, dù người ấy biết người Gaul hay người Tây Ban Nha dùng những kiểu khiêu vũ nào: Vì những điều chủ yếu cần được quan sát là những điều hướng đến mục đích chính, chứ không phải những điều nhẹ nhàng hơn hướng đến một mục đích không được định trước, mặc dù ngay cả một số công dụng của những điều ấy vẫn có thể tồn tại trong các vấn đề khác.
+XII. THUỘC VỀ NIÊN ĐẠI. CÁC LỊCH SỬ RIÊNG BIỆT, CÁC BIÊN NIÊN, CÁC QUÁI VẬT, CÁC ĐIỀM LẠ, CÁC ĐIỀM BÁO, CÁC SỰ KỲ DỊ THẤY TẠI NHỮNG NƠI ẤY, CÁC SAO CHỔI, CÁC NHẬT THỰC LỚN. CÁC ĐỢT LẠNH DỮ DỘI, CÁC MÙA ĐÔNG LẠNH GIÁ NHẤT, CÁC MÙA HÈ THIÊU ĐỐT. CÁC TIA CHỚP, SẤM SÉT, SÉT ĐÁNH. CÁC ĐÁM CHÁY, CÁC CƠN BÃO LỚN, CÁC TRẬN LỤT, CÁC TRẬN ĐẠI HỒNG THỦY, CÁC TRẬN MƯA XỐI XẢ. CÁC TRẬN MƯA ĐÁ LỚN VÀ GÂY HẠI. CÁC TRẬN TUYẾT SÂU NHẤT, CÁC TRẬN ĐỘNG ĐẤT; CHÂU CHẤU, KHAN HIẾM NGŨ CỐC, NẠN ĐÓI, DỊCH BỆNH: VỀ CÁC ĐIỀU NÀY CẦN GHI CHÚ ĐÃ CÓ BAO NHIÊU LẦN, THUỘC LOẠI NÀO, BẮT ĐẦU KHI NÀO, HOÀNH HÀNH BAO LÂU, CHẤM DỨT KHI NÀO, TỪ NHỮNG VÙNG NÀO MÀ CHÚNG PHÁT SINH, ĐÃ MANG ĐI BAO NHIÊU NGƯỜI VÀ NHỮNG AI KHỎI CÕI SỐNG, BẰNG CÁCH NÀO VÀ BẰNG NHỮNG PHƯƠNG THUỐC MỚI MẺ VÀ CHẮC CHẮN NÀO MÀ MỘT SỐ NGƯỜI ĐÃ ĐƯỢC CỨU TRONG CƠN DỊCH ẤY. CÁC CUỘC CHIẾN TRANH, CÁC TRẬN ĐÁNH, CÁC CUỘC XUNG ĐỘT, CÁC CUỘC ĐẤU TAY ĐÔI, CÁC CUỘC VÂY HÃM, VIỆC CÔNG PHÁ VÀ TÀN PHÁ CÁC THÀNH PHỐ CÙNG CÁC TAI HỌA KHÁC, TỪ NHỮNG NGUYÊN NHÂN NÀO MÀ CHÚNG PHÁT SINH, VÀ BỞI AI MÀ CHÚNG BỊ XÚI GIỤC. CÁC CUỘC NỔI LOẠN, CÁC CUỘC HÒA GIẢI, CÁC HIỆP ƯỚC, VÀ ĐÃ KÝ KẾT VỚI AI. CÁC QUÝ TỘC XUẤT SẮC. CÁC BẬC TRƯỞNG GIẢ ƯU TÚ, CÁC QUÝ TỘC GIAN ÁC, CÁC HẢI TẶC — NHỮNG KẺ CƯỚP — VÀ TỘI ÁC CỦA CHÚNG. VÀ NHỮNG NGƯỜI ĐÃ THIỆT MẠNG BỞI CÁC TAI NẠN KHỦNG KHIẾP, DÙ DO LỖI CỦA CHÍNH MÌNH MÀ HỌ CHUỐC LẤY HÌNH PHẠT, HAY DÙ DO SỐ PHẬN MÀ HỌ RƠI VÀO CÁC TAI HỌA ẤY. NGƯỜI ẤY HÃY MANG VỀ NHÀ NHỮNG ĐIỀU TỐT NHẤT, VÀ THU LẤY HOA TRÁI TỪ CHUYẾN DU HÀNH CỦA MÌNH. VÌ THẬT TRỐNG RỖNG, VÀ ĐÁNG GỌI LÀ HƯ KHÔNG, SẼ LÀ HÀNH TRÌNH VÀ SỰ LANG THANG CỦA NHỮNG NGƯỜI BƯỚC RA KHỎI CỬA MÀ KHÔNG CÓ ÁNH SÁNG CỦA SỰ KHÔN NGOAN, VÀ THỰC HIỆN CÁC CHUYẾN ĐI NGOẠI QUỐC CHỈ VỚI NIỀM VUI NÀY, RẰNG HỌ CHO MẮT MÌNH ĂN NO BẰNG CẢNH TƯỢNG CỦA CÁC THÀNH PHỐ, THÀNH TRÌ, LÙM CÂY VÀ SÔNG NGÒI, HAY RẰNG HỌ MANG VỀ MỘT KIỂU Y PHỤC, CỬ CHỈ VÀ DÁNG ĐIỆU MỚI. VÌ NGƯỜI LỮ KHÁCH KHÔN NGOAN, TRONG NHỮNG KHOẢNG KHÔNG GIAN QUAN SÁT CỦA MÌNH, BẮT CHƯỚC NHỮNG DÒNG SÔNG MÀ CHÚNG TA NGHE NÓI TRÔI GIỮA BIỂN CẢ, MÀ KHÔNG HỀ PHA CHÚT MUỐI NÀO, RẤT KIÊN TRÌ GIỮ VỊ NGỌT VÀ MÀU SẮC RIÊNG CỦA MÌNH. TỪ NGƯỜI LỮ KHÁCH, CHÚNG TA CHO RẰNG NHỮNG ĐIỀU CẦN ĐƯỢC QUAN SÁT LÀ NHỮNG ĐIỀU HƯỚNG ĐẾN MỤC ĐÍCH CỦA CHUYẾN DU HÀNH, TỨC LÀ VIỆC ĐẠT ĐƯỢC SỰ KHÔN NGOAN CHÍNH TRỊ, ĐIỀU PHẢI ĐÓNG GÓP CHO PHÚC LỢI CỦA TỔ QUỐC VÀ LỢI ÍCH CÔNG CỘNG; BẰNG KHÔNG NGƯỜI ẤY SẼ DU HÀNH VÔ ÍCH. VÌ CŨNG NHƯ KHÔNG AI TIN RẰNG NGƯỜI KHÔNG CÓ KIẾN THỨC VỀ THẢO MỘC LÀ GIỎI NGHỀ Y, HAY MỘT KIẾN TRÚC SƯ LỖI LẠC MÀ KHÔNG PHÂN BIỆT ĐƯỢC TƯỢNG DORIC VỚI TƯỢNG CORINTHIAN: THÌ CŨNG VẬY, NGƯỜI TA KHÔNG ĐÁNH GIÁ RẰNG NGƯỜI ĐÃ SẮP XẾP TỐT THỜI GIAN VÀ CÔNG SỨC CỦA MÌNH, MÀ NGƯỜI ẤY ĐÃ TIÊU TỐN TRONG VIỆC DU HÀNH, NẾU BỞI CHUYẾN DU HÀNH CỦA MÌNH NGƯỜI ẤY ĐÃ KHÔNG TIẾN BỘ VÀ TĂNG TRƯỞNG TRONG NHỮNG ĐIỀU MÀ NGƯỜI ẤY LẼ RA PHẢI BIẾT TRƯỚC. VÍ DỤ, NẾU CÓ MỘT NGƯỜI LÀM CHÍNH TRỊ, VÀ LÀM CỐ VẤN CHO MỘT HOÀNG TỬ HAY TRONG CỘNG ĐỒNG, VÀ NÓI RẰNG MÌNH ĐÃ SỐNG MỘT THỜI GIAN TẠI XỨ GAUL: HÃY HỎI NGƯỜI ẤY XỨ GAUL, HAY TÂY BAN NHA, DÀI HAY RỘNG BAO NHIÊU DẶM? CÓ NHỮNG PHÁO ĐÀI NÀO? NƠI NÀO DỄ HAY KHÓ TIẾP CẬN? CÓ BAO NHIÊU CON SÔNG KHÔNG THỂ LỘI QUA? ĐỨC HẠNH CHÍNH CỦA NGƯỜI TÂY BAN NHA LÀ GÌ? VÀ CŨNG VẬY CỦA NGƯỜI GAUL? TẬT XẤU LỚN NHẤT CỦA MỖI DÂN TỘC LÀ GÌ? NHỮNG NGƯỜI NÀY HAY NHỮNG NGƯỜI KIA THÍCH THÚ NHẤT VỀ ĐIỀU GÌ? QUÝ TỘC XỨ GAUL KHÁC QUÝ TỘC TÂY BAN NHA Ở ĐIỂM NÀO? VÀ CŨNG VẬY DÂN THƯỜNG KHÁC NHAU RA SAO, VÀ NGHỀ NGHIỆP CỦA HỌ LÀ GÌ, PHONG TỤC CỦA HỌ LÀ GÌ? SỰ KHÁC BIỆT GIỮA CÁC CÔNG TRÌNH KIẾN TRÚC CỦA CÁC DÂN TỘC NÀY LÀ GÌ? VỊ VUA NÀO TRONG HAI VUA THẮNG THẾ VỚI QUYỀN LỰC LỚN HƠN TRONG MỖI VƯƠNG QUỐC. CÁC THẦN DÂN TRONG CÁC VƯƠNG QUỐC ẤY HOẶC VÂNG PHỤC HOÀNG TỬ CỦA MÌNH, HOẶC CHỐNG LẠI NGƯỜI, BẰNG CÁCH NÀO? SỰ NÔ LỆ CỦA NGƯỜI GAUL KHÁC SỰ NÔ LỆ CỦA NGƯỜI TÂY BAN NHA RA SAO. BẰNG PHƯƠNG TIỆN NÀO MÀ SỰ KHAN HIẾM NGŨ CỐC ĐƯỢC TRÁNH KHỎI TRONG CÁC VƯƠNG QUỐC NÀY? PHONG CÁCH TRIỀU ĐÌNH TRONG MỖI VƯƠNG QUỐC RA SAO, VÀ NGƯỜI TA LO LIỆU CHO NÔNG DÂN THẾ NÀO, ĐỂ TRONG THỜI CHIẾN HỌ KHÔNG BỊ TAI HẠI? NẾU VẬY, NGƯỜI ẤY ĐÃ ĐÁP NHỮNG ĐIỀU NÀY MỘT CÁCH THÍCH ĐÁNG, THÌ MỌI SỰ ĐỀU TỐT: NHƯNG NẾU KHÔNG, ĐÓ LÀ DẤU HIỆU LỚN CHO THẤY NGƯỜI ẤY ĐÃ CHÚ TÂM VÀO NHỮNG ĐIỀU KHÁC HƠN LÀ HỌC HỎI BỞI CHUYẾN DU HÀNH CỦA MÌNH NHỮNG VẤN ĐỀ MÀ MỘT NGƯỜI LÀM CHÍNH TRỊ, HAY MỘT CỐ VẤN, LẼ RA PHẢI BIẾT, DÙ NGƯỜI ẤY BIẾT NGƯỜI GAUL HAY NGƯỜI TÂY BAN NHA DÙNG NHỮNG KIỂU KHIÊU VŨ NÀO: VÌ NHỮNG ĐIỀU CHỦ YẾU CẦN ĐƯỢC QUAN SÁT LÀ NHỮNG ĐIỀU HƯỚNG ĐẾN MỤC ĐÍCH CHÍNH, CHỨ KHÔNG PHẢI NHỮNG ĐIỀU NHẸ NHÀNG HƠN HƯỚNG ĐẾN MỘT MỤC ĐÍCH KHÔNG ĐƯỢC ĐỊNH TRƯỚC, MẶC DÙ NGAY CẢ MỘT SỐ CÔNG DỤNG CỦA NHỮNG ĐIỀU ẤY VẪN CÓ THỂ TỒN TẠI TRONG CÁC VẤN ĐỀ KHÁC.
 
 Và cho đến đây là Rantzovius, và sau ông là Canonherius, về các chuyến du hành của những người làm chính trị. Còn chúng tôi, khi đặc biệt nhắm đến các chuyến du hành của sinh viên thần học, ứng viên chức vụ mục sư, các mục sư, và các giáo sư thần học, xin đáp hai câu hỏi sau. Câu hỏi thứ nhất: Nên thực hiện chuyến du hành thần học qua những vùng đất nào là tốt nhất? Đáp: Qua những vùng đất châu Âu nơi có các hội thánh Tin Lành hay Cải Chánh và các trường đại học. Như vậy, trước kia không ít sinh viên người Bỉ, sau khi hoàn tất khóa học tại Đại học Leiden, trước hết đến Franeker vì cớ việc nghiên cứu tiếng Hê-bơ-rơ rất thịnh vượng tại đó; và khi lên đường ra nước ngoài, họ đã thăm Heidelberg, Herborn, Basel, Zurich, Geneva, Sedan, hay Saumur, London, Oxford, Cambridge. Có một số người với lòng dũng cảm anh hùng đã thăm các vùng đất và các hội thánh ở phương Đông, trong số đó tôi biết hai người, vốn đã tiến bộ không phải tầm thường trong việc nghiên cứu thần học cùng tiếng Hê-bơ-rơ và các ngôn ngữ phương Đông có họ hàng với nó, là Adam Boreel và David de Willem: tuy nhiên, sau đó trở về từ các chuyến du hành, họ đã dấn thân vào việc nghiên cứu và thực hành chính trị và luật pháp, và được thăng lên những chức vụ rất cao trọng và rất danh dự. Người trước trở thành Cố vấn và Syndic của tỉnh Zeeland; người sau trở thành Cố vấn của Hoàng tử Orange rất cao quý, và được bổ nhiệm làm Thượng nghị sĩ tại tòa án tối cao của Brabant. Sự khôn ngoan, đức tin, và sự cần mẫn của người trước trong việc thi hành chức vụ gian nan ấy, cũng như kiến thức xuất sắc của ông cả về ngôn ngữ lẫn về những sự thuộc về Đức Chúa Trời và loài người, sẽ được những người khác đã khảo sát các vấn đề này kỹ lưỡng hơn mô tả: vì tôi chỉ có một lần, nhân một dịp nào đó, được gặp và trò chuyện với người danh tiếng ấy tại Middelburg vào năm 1626. Các công trình nghiên cứu và học vấn của ông được bày tỏ qua việc đọc bản dịch La-tinh của bình giải của Hugh Broughton về Đa-ni-ên, vốn được soạn bằng tiếng Anh, do ông thực hiện trong các chuyến du hành và thời tuổi trẻ của mình, và được in tại Basel. Người sau, khi đã an vị trong các phẩm trật vừa kể, thường xuyên ghé thăm Utrecht, đã vinh dự cho tôi được trò chuyện với ông, và trao đổi thân mật về các vấn đề văn chương và công cộng, cả thuộc về giáo hội lẫn chính trị, cũng như bằng những bức thư viết cho tôi. Các chuyến du hành của ông và thành quả của chúng đã được nhà thần học rất danh tiếng Andreas Rivetus ca ngợi công khai trong thư đề tặng đặt trước các Bài giảng của ông về Mười Điều Răn.
 
@@ -13589,7 +13596,7 @@ Danh mục các tác giả viết về các hiệp sĩ nay được trình bày.
 
 SỰ SỬA LỖI IN.
 
-TẬP 3 – TẤT CẢ NHỮNG MỤC NÀY, TRỪ NHỮNG MỤC ĐƯỢC ĐÁNH DẤU BẰNG CHỮ ĐẬM/***, ĐÃ ĐƯỢC SỬA TRONG BẢN VĂN TRƯỚC KHI DỊCH.
+TẬP 3 – TẤT CẢ NHỮNG MỤC NÀY, TRỪ NHỮNG MỤC ĐƯỢC ĐÁNH DẤU BẰNG CHỮ ĐẬM/*, ĐÃ ĐƯỢC SỬA TRONG BẢN VĂN TRƯỚC KHI DỊCH.
 
 Trang 3, dòng 29: đọc văn bản Hy Lạp được chỉ định.
 
@@ -13835,7 +13842,7 @@ Trang 179, dòng thứ chín từ cuối: thay adhibite bằng allegatione adhib
 
 Trang 182, dòng 12: thay bằng văn bản Hy Lạp đã sửa.
 
-Trang 183, dòng 14: thay habent bằng habeant. ***
+Trang 183, dòng 14: thay habent bằng habeant. *
 
 Trang 185, dòng 3: thay bằng văn bản Hy Lạp đã sửa.
 
@@ -13885,7 +13892,7 @@ Trang 239, dòng 23: thay non tantum augeri bằng non augeri.
 
 Trang 239, dòng 9: thay offeret bằng offerret.
 
-Trang 239, dòng 23: thay pictotur bằng putetur. ***
+Trang 239, dòng 23: thay pictotur bằng putetur. *
 
 Trang 240, dòng 9: thay ministerii bằng ministris.
 
@@ -14035,7 +14042,7 @@ Trang 417, dòng 24: thay curatum bằng curarum.
 
 Trang 425, dòng 12: thay novum bằng novam.
 
-Trang 425, dòng 34: extollantur. ***
+Trang 425, dòng 34: extollantur. *
 
 Trang 426, dòng 3: sửa in thành me.
 
@@ -14121,7 +14128,7 @@ Trang 509, dòng 29: thay appellant bằng appellat.
 
 Trang 512, dòng 30: thay unius uxoris vir bằng unius viri uxor.
 
-Trang 514, dòng 20: thay inter bằng iter. ***
+Trang 514, dòng 20: thay inter bằng iter. *
 
 Trang 515, dòng 11: thay proponentiam bằng proponentium.
 
@@ -14205,7 +14212,7 @@ Trang 630, dòng 16: thay ipsi bằng ipsis.
 
 Trang 631, dòng 32: thay reformatis bằng reformatos.
 
-Trang 633, dòng 34: thay Christianam bằng Christianis. ***
+Trang 633, dòng 34: thay Christianam bằng Christianis. *
 
 Trang 634, dòng 1: thay bằng văn bản Hy Lạp đã sửa.
 
@@ -14233,7 +14240,7 @@ Trang 656, dòng 2: thay peridone bằng peridoneè.
 
 Trang 656, dòng 32: thay extraneum bằng extremum.
 
-Trang 78, dòng 4: thay præcedunt bằng prætendunt. ***?
+Trang 78, dòng 4: thay præcedunt bằng prætendunt. *?
 
 Trang 657, dòng 13: thay epscopi bằng episcopi.
 
@@ -14261,7 +14268,7 @@ Trang 706, dòng 26: thay taxit bằng traxit.
 
 Trang 708, dòng 1: thay dicitur bằng ducitur.
 
-Trang 712, dòng 14: thay absolure bằng absolute.***
+Trang 712, dòng 14: thay absolure bằng absolute.*
 
 Trang 713, dòng 7: thay bằng văn bản Hy Lạp đã sửa.
 
@@ -14289,7 +14296,7 @@ Trang 733, dòng 23: thay opponensi bằng opponente.
 
 Trang 736, dòng 17: thay bằng văn bản Hy Lạp đã sửa.
 
-Trang 737, dòng 22: thay esp. bằng Resp. ***
+Trang 737, dòng 22: thay esp. bằng Resp. *
 
 Trang 738, dòng 8: thay vata bằng vato.
 
@@ -14345,7 +14352,7 @@ Trang 766, dòng 31: thay vaporarla bằng vaporaria.
 
 Trang 767, dòng 18: thay fabulosa bằng sabulosa.
 
-Trang 769, dòng 1: thay ptæpar bằng præpar. ***
+Trang 769, dòng 1: thay ptæpar bằng præpar. *
 
 Trang 769, dòng 7: thay Iarmack bằng Jaermarkt.
 
@@ -14455,9 +14462,9 @@ Trang 839, dòng 15: thay infarcta bằng inserta.
 
 Trang 841, dòng cuối: sửa thành regimen.
 
-Trang 841, dòng 9: thay Cardinalem bằng carnalem. ***
+Trang 841, dòng 9: thay Cardinalem bằng carnalem. *
 
-Trang 841, dòng 14: thay inserti bằng inferri. ***
+Trang 841, dòng 14: thay inserti bằng inferri. *
 
 Trang 844, dòng 30: thay prædiccat bằng prædicat.
 
@@ -14663,7 +14670,7 @@ Trang 1031, dòng 35: thay văn bản hỏng bắt đầu bằng se non militum 
 
 Trang 1032, dòng 3: thay ipso bằng ipsi.
 
-Trang 1032, dòng 33: thay curus bằng cuias. ***
+Trang 1032, dòng 33: thay curus bằng cuias. *
 
 Trang 1036, dòng 23: thay faculatum bằng facultatum.
 
@@ -14707,7 +14714,7 @@ Trang 1089, dòng 15: thay immaculara bằng immaculatæ.
 
 Trang 1093, dòng 35: thay comitti bằng committi.
 
-Trang 1095, dòng 27: thay appropriari bằng appropriarsi. ***
+Trang 1095, dòng 27: thay appropriari bằng appropriarsi. *
 
 Trang 1101, dòng 6: thay repabl. bằng reipubl.
 
@@ -14738,5 +14745,5 @@ Trang 1126, dòng 20: thay possit bằng posset.
 Trang 1129, dòng 33: xóa dấu chấm.
 
 LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch theo bộ ba tập năm 2026 (chỉ có ba tập; tên bộ bốn tập ngoài bìa không có tập thứ tư đi kèm), được phiên âm nguyên văn rồi dịch nguyên văn bằng công cụ trí tuệ nhân tạo theo ghi chú của ban biên tập; mọi từ Hê-bơ-rơ và Hy Lạp trong nguyên bản đều đã được thay bằng ký hiệu giữ chỗ trong bản in và được giữ nguyên như vậy; các bảng đính chính được dịch tại chỗ, không áp dụng vào các chương; các bảng đính chính của tập ba, trừ những mục đã được đánh dấu đặc biệt, đã được sửa trong bản văn trước khi dịch; các dấu kết thúc giữa sách, các trang tựa của tập hai và tập ba, và cách đánh số chương của nguyên bản (kể cả việc bỏ qua chương VII trong Mục Lục tập ba) được giữ nguyên; 69 chỗ từ gốc bị thiếu được giữ nguyên kèm ghi chú để duyệt lại.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+
+Mở trong trình đọc Về thư viện

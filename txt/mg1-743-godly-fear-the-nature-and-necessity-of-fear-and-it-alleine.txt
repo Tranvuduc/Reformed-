@@ -1,5 +1,12 @@
 SỰ KÍNH SỢ TIN KÍNH
-Richard Alleine
+
+Richard Alleine · Godly Fear: The Nature and Necessity of Fear, and Its Usefulness
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ KÍNH SỢ TIN KÍNH Richard Alleine
 
 Gửi bạn đọc,
 
@@ -2107,13 +2114,4 @@ Nhưng chúng ta chẳng có thể đạt được sao? Chẳng phải một tr�
 
 FINIS.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Justification = sự xưng công chính; Righteousness = sự công chính; Faith = đức tin; Grace = ân điển; Mercy = sự thương xót; Covenant = giao ước; Atonement = sự chuộc tội; Redemption = sự cứu chuộc; Sanctification = sự nên thánh; Repentance = sự ăn năn; Gospel = Phúc Âm; Kingdom of God = Nước Đức Chúa Trời; Holy Spirit = Đức Thánh Linh; Lord = Chúa; God = Đức Chúa Trời; Jesus Christ = Chúa Giê-xu Christ; Scripture = Kinh Thánh; Church = Hội Thánh.
-- Các câu Kinh Thánh được dịch theo phong cách bản dịch Kinh Thánh Việt ngữ 1934.
-- Loại khỏi bản dịch (không phải nội dung tác phẩm): trang bìa, trang tựa, trang bản quyền Project Puritas/Monergism, Lời của Người Biên Tập (Editor's Note), mục lục điều hướng, và khối bản quyền Monergism Books ở cuối sách (đúng theo quy tắc hàng loạt: chỉ dịch tác phẩm thật, loại bỏ bản quyền/quảng cáo của nhà phát hành).
-- [NEEDS REVIEW: ...] đánh dấu mọi chỗ bản nguồn chữ in mờ/khó đọc — giữ nguyên cách in của bản nguồn, kèm đọc có thể là bên cạnh; không đoán chữ.
-- Nguồn tiếng Anh lấy từ file EPUB của Monergism; bản in gốc là ấn bản Anh ngữ cổ (chính tả lỗi thời nhiều), được giữ nguyên + ghi chú trong bản dịch.
-- Lưu ý một số chỗ bản nguồn ghi sai số câu Kinh Thánh (ví dụ: Ma-thi-ơ 12.33–35 thực ra là Ma-thi-ơ 12.43–45; Gia-cơ 1.25 thực ra là Gia-cơ 1.27; Tít 2.13–14 thực ra là Tít 2.11–12; Phi-líp 1.21 thực ra là Phi-líp 1.23; 1 Sa-mu-ên 4.24 thực ra là 1 Sa-mu-ên 2.24; Châm-ngôn 3.17; Hê-bơ-rơ 10.31; Truyền-đạo 8.11) — được giữ nguyên theo bản in, ghi chú trong ngoặc [NEEDS REVIEW].
-- [NEEDS REVIEW: trang tựa file EPUB của nhà phát hành ghi sai tác giả (nghi nhận "Thomas Manton"); danh mục ghi tác giả Richard Alleine, giữ theo danh mục.]
+Mở trong trình đọc Về thư viện

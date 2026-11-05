@@ -1,5 +1,12 @@
 CÁC BÀI LUẬN VỀ LUẬT PHÁP VÀ TỘI LỖI
-Ezekiel Hopkins
+
+Ezekiel Hopkins · Discourses on the Law and Sin (Sermons eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+CÁC BÀI LUẬN VỀ LUẬT PHÁP VÀ TỘI LỖI Ezekiel Hopkins
 
 Các Bài Luận về Luật Pháp và Tội Lỗi
 
@@ -721,7 +728,7 @@ Và, đó là bấy nhiêu, về Mệnh đề Thứ nhất.
 
 MỆNH ĐỀ THỨ HAI
 
-II. MỆNH ĐỀ THỨ HAI, mà tôi đã rút ra từ lời Kinh Thánh, là điều này:
+II. MỆNH ĐỀ THỨ HAI, MÀ TÔI ĐÃ RÚT RA TỪ LỜI KINH THÁNH, LÀ ĐIỀU NÀY:
 
 Rằng ĐẤNG CHRIST, KHI ĐÃ CHỊU LÀM SỰ RỦA SẢ VÌ CHÚNG TA DƯỜNG ẤY, VÀ CHỊU MỌI CƠN THỊNH NỘ VÀ HÌNH PHẠT ĐÁNG RA THUỘC VỀ CHÚNG TA, BỞI ĐÓ ĐÃ CHUỘC CHÚNG TA KHỎI SỰ RỦA SẢ VÀ SỰ ĐỊNH TỘI MÀ LUẬT PHÁP ĐÃ ĐE DỌA.
 
@@ -1001,13 +1008,13 @@ Câu Kinh Thánh mà tôi vừa đọc, là một trong những viên ngọc ấ
 
 Trong đó, chúng ta có những điều đáng lưu ý này.
 
-I. ĐẶC ĐIỂM hay cách diễn giải gián tiếp về những người gian ác và vô đạo: và họ được nói là những kẻ chế nhạo tội lỗi.
+I. ĐẶC ĐIỂM HAY CÁCH DIỄN GIẢI GIÁN TIẾP VỀ NHỮNG NGƯỜI GIAN ÁC VÀ VÔ ĐẠO: VÀ HỌ ĐƯỢC NÓI LÀ NHỮNG KẺ CHẾ NHẠO TỘI LỖI.
 
 II. Đây là LỜI PHÁN XÉT về họ bởi Đức Chúa Trời toàn tri, và bởi người khôn ngoan nhất trong loài người: họ là Kẻ ngu dại vì làm như vậy: Kẻ ngu dại chế nhạo tội lỗi.
 
 ĐẶC ĐIỂM
 
-I. ĐẶC ĐIỂM của họ: họ chế nhạo tội lỗi.
+I. ĐẶC ĐIỂM CỦA HỌ: HỌ CHẾ NHẠO TỘI LỖI.
 
 Các lời lẽ thì rõ ràng và hiển nhiên: chỉ có cụm từ, chế nhạo, có vẻ chịu nhiều nghĩa mơ hồ và nhiều cách hiểu khác nhau; và quả thật, Kinh Thánh dùng nó với nhiều nghĩa khác nhau.
 
@@ -3009,12 +3016,4 @@ Thật buồn thảm là tình trạng của Kẻ Tội Nhân Có Tội: vì, d�
 
 Bấy nhiêu cho lúc này và đoạn văn này.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Nguồn: EPUB sạch từ trang Monergism (~116.161 chữ Anh), không OCR; dịch theo 16 chunk tại ranh giới đoạn văn, ráp lại sau khi kiểm tra từng chunk (1.504/1.504 đoạn, 0 từ cấm).
-- Đã loại trừ theo quy tắc chỉ-dịch-tác-phẩm-thật: 5 đoạn bản quyền/pháp lý của Monergism Books sau dấu phân cách "-----" ở cuối sách.
-- Thống nhất thuật ngữ lúc ráp: "presumptuous sins" dịch nhất quán là "tội cố ý" (theo cách Kinh Thánh 1934 dịch Thi thiên 19:13, chính đoạn văn của bài luận); 28 chỗ "tội kiêu căng" ở một chunk đã chuẩn hóa thành "tội cố ý".
-- Chunk 08: một đoạn nguồn ("(2) When men sin upon small or no temptations...") bị sót lúc dịch chunk; đã khôi phục và kiểm tra (69/69).
-- Chunk 01: "tin mừng" dịch "glad tidings" đã đổi thành "tin vui" theo quy tắc không-khoan-nhượng của batch đối với từ này.
-- Lỗi in/OCR trong nguồn: giữ nguyên hoặc đọc theo nghĩa rõ ràng mà không đoán mò; các chỗ không chắc đã gắn [NEEDS REVIEW] trong văn bản ("gift" có lẽ là "guilt", "I motions" có lẽ là "inward motions", "bell" là "hell", "trangressions" là "transgressions"). Nguồn trích "5:18" cho câu Giăng 3:18 giữ nguyên như bản in.
-- Các trích dẫn Kinh Thánh theo văn phong Kinh Thánh Việt 1934; các mảnh tiếng La-tinh/Hy Lạp/Hê-bơ-rơ giữ nguyên văn.
+Mở trong trình đọc Về thư viện

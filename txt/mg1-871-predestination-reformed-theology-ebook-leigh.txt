@@ -1,5 +1,12 @@
 VỀ SỰ TIỀN ĐỊNH
-Edward Leigh
+
+Edward Leigh · Predestination (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+VỀ SỰ TIỀN ĐỊNH Edward Leigh
 
 Đã nói về Kinh Thánh và Đức Chúa Trời, nay tiếp đến là các công việc của Đức Chúa Trời, mà có người chia làm hai loại: sắc lệnh và sự thực hiện sắc lệnh ấy; người khác chia làm ba: sắc lệnh, sự sáng tạo, và sự quan phòng. Các công việc của Đức Chúa Trời, bởi đó Ngài hướng đến các tạo vật của Ngài, là ba: sắc lệnh, sự sáng tạo, và sự quan phòng — không phải ba cá thể riêng lẻ, vì chúng vô số, nhưng là ba loài và ba loại.
 
@@ -235,11 +242,4 @@ Ngọt ngào vô cùng: hãy vui mừng vì tên các ngươi đã được ghi 
 
 Một sự đảm bảo không trọn vẹn: sự đảm bảo của đức tin, không phải của sự thấy; nó có thể bị che khuất.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Không có thuật ngữ bị cấm nào trong thân bài ("sự xưng công bình", "ân sủng", "tin mừng", "Thiên Chúa", "bí tích", "rửa tội", "hà linh", "sự xưng công chính" đều bằng 0); "sự xưng công chính" được dùng cho justification; "ân điển" được dùng cho grace.
-- Nguồn: EPUB Monergism (không OCR), khoảng 4.388 chữ Anh là tác phẩm thật (đoạn 5–121); các đoạn 0–4 là mục lục điều hướng, các đoạn 122–126 là khối bản quyền/pháp lý của nhà xuất bản — đã loại theo quy tắc chỉ dịch tác phẩm thật.
-- Hai tiểu đề rời rạc trong nguồn ("Sự biết trước của Đức Chúa Trời là:" và "Có hai loại sự biết trước của Đức Chúa Trời:") không có phần triển khai tiếp trong ấn bản này — dịch nguyên như in.
-- Các cụm La-tinh giữ nguyên với nghĩa tiếng Việt trong ngoặc vuông.
-- Số liệu thống kê tôn giáo ở đoạn về "ba mươi phần" là con số của tác giả thế kỷ 17 — giữ nguyên như in, không cập nhật.
-- Các trích dẫn Kinh Thánh theo văn phong Kinh Thánh 1934 (văn phong, không đối chiếu từng chữ).
+Mở trong trình đọc Về thư viện

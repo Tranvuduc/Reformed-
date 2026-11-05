@@ -1,5 +1,12 @@
 LÀM SAO TÔI ĐẾN ĐƯỢC VỚI ĐỨC CHÚA TRỜI?
-Horatius Bonar
+
+Horatius Bonar · How Shall I Approach God?
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+LÀM SAO TÔI ĐẾN ĐƯỢC VỚI ĐỨC CHÚA TRỜI? Horatius Bonar
 
 LÀM SAO TÔI ĐẾN ĐƯỢC VỚI ĐỨC CHÚA TRỜI?
 
@@ -613,14 +620,4 @@ Sự đến của tất cả những điều này có thể gần hơn chúng ta
 
 Điều gì làm cho chúng ta nên thánh? Sự thân mật gần gũi với Chúa Giê-xu. Điều gì làm cho đức tin lớn lên? Thường xuyên giao thiệp với Chúa Giê-xu. Điều gì làm cho chúng ta đầy niềm vui? Nhìn vào mặt Chúa Giê-xu. Điều gì giữ chúng ta vững vàng? Nương mình trên cánh tay của Chúa Giê-xu. Điều gì an ủi chúng ta trong sầu khổ? Nghỉ ngơi trên lòng Chúa Giê-xu. Vì Christ là mọi sự và trong mọi sự; và chúng ta có mọi sự trong Ngài. Chúng ta hãy tìm cách tôn vinh sự đầy dẫy của Ngài bằng cách nhận lấy nó trọn vẹn, và vui hưởng tình yêu của Ngài.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- "sự xưng công chính" dùng xuyên suốt cho justification (thay cho "sự xưng công bình" bị cấm); "favour" dịch "ân huệ" (phân biệt với "grace" = "ân điển"); "good news"/"glad tidings" dịch "tin lành" (tránh "tin mừng" bị cấm cho gospel); Gospel dịch "Phúc Âm".
-- Tên mục trong danh sách MG-2 là "How Shall I Approach God?", nhưng trang tựa của chính bản gốc ghi "How Shall I Go to God?" — đã dịch theo tựa sách thật; tựa Việt của tập tin dựa trên tựa thật này.
-- Trích dẫn Kinh Thánh theo phong cách Kinh Thánh 1934 (chỉ phong cách, không đối chiếu từng chữ với bản in).
-- Đã loại bỏ phần boilerplate của nhà xuất bản theo quy tắc chỉ dịch tác phẩm thật: dòng bản quyền trang đầu, khối tựa/trang bìa, mục lục điều hướng (TOC), khối bản quyền Monergism Books cuối sách, và đoạn mã CSS còn sót trong bản EPUB.
-- [NEEDS REVIEW: bản gốc ghi "Our internal future is no dream nor fable" — "internal" có thể là lỗi in của "eternal"; đã dịch theo nghĩa "eternal".]
-- Dấu mở ngoặc kép của trích dẫn Judson không có ngoặc đóng trong bản gốc; bản dịch giữ nguyên như vậy.
-- Các dòng thơ trong thánh ca của John Newton được dịch thành thơ tiếng Việt tự nhiên, mỗi dòng giữ một đoạn riêng như bản gốc.
-- Tên riêng phi Kinh Thánh giữ nguyên tiếng Anh; tên Kinh Thánh theo quy ước bản 1934 (Xa-chê, Na-a-man, Ê-li-sê, Giô-đanh, Ba-by-lôn, Đa-vít, Phi-e-rơ).
+Mở trong trình đọc Về thư viện

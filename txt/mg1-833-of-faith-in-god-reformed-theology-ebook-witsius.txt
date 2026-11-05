@@ -1,5 +1,12 @@
 VỀ ĐỨC TIN NƠI ĐỨC CHÚA TRỜI
-Herman Witsius
+
+Herman Witsius · Of Faith in God (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+VỀ ĐỨC TIN NƠI ĐỨC CHÚA TRỜI Herman Witsius
 
 Mục lục
 
@@ -15,7 +22,7 @@ LUẬN ĐỀ I
 
 VỀ ĐỨC TIN NƠI SỰ HIỆN HỮU CỦA ĐỨC CHÚA TRỜI
 
-I. ĐỨC CHÚA TRỜI vừa là đối tượng chính, vừa là đối tượng tối hậu của đức tin; Chúa chúng ta đã phán với các môn đồ rằng: "Các ngươi tin Đức Chúa Trời"; và sứ đồ Phi-e-rơ nói: "là kẻ bởi Ngài", tức là Đấng Christ, "mà tin đến Đức Chúa Trời."b Kẻ tin nhận xem Đức Chúa Trời là chân lý tự hữu, vô tạo,* Đấng mà họ có thể nương dựa với sự an toàn trọn vẹn nhất; và là hạnh phúc tối thượng, khi nhờ đức tin được kết hiệp với Ngài, họ có thể trở nên hạnh phúc khôn xiết. Vì thế, Bản Tuyên Xưng Đức Tin bắt đầu bằng những lời này: TÔI TIN ĐỨC CHÚA TRỜI.
+I. ĐỨC CHÚA TRỜI VỪA LÀ ĐỐI TƯỢNG CHÍNH, VỪA LÀ ĐỐI TƯỢNG TỐI HẬU CỦA ĐỨC TIN; CHÚA CHÚNG TA ĐÃ PHÁN VỚI CÁC MÔN ĐỒ RẰNG: "CÁC NGƯƠI TIN ĐỨC CHÚA TRỜI"; VÀ SỨ ĐỒ PHI-E-RƠ NÓI: "LÀ KẺ BỞI NGÀI", TỨC LÀ ĐẤNG CHRIST, "MÀ TIN ĐẾN ĐỨC CHÚA TRỜI."B KẺ TIN NHẬN XEM ĐỨC CHÚA TRỜI LÀ CHÂN LÝ TỰ HỮU, VÔ TẠO,* ĐẤNG MÀ HỌ CÓ THỂ NƯƠNG DỰA VỚI SỰ AN TOÀN TRỌN VẸN NHẤT; VÀ LÀ HẠNH PHÚC TỐI THƯỢNG, KHI NHỜ ĐỨC TIN ĐƯỢC KẾT HIỆP VỚI NGÀI, HỌ CÓ THỂ TRỞ NÊN HẠNH PHÚC KHÔN XIẾT. VÌ THẾ, BẢN TUYÊN XƯNG ĐỨC TIN BẮT ĐẦU BẰNG NHỮNG LỜI NÀY: TÔI TIN ĐỨC CHÚA TRỜI.
 
 II. Nhiều người đã cho rằng ba cụm từ: Credere Deum, tin Đức Chúa Trời, credere Deo, tin Đức Chúa Trời,† và credere in Deum, tin nơi Đức Chúa Trời, phải được phân biệt như sau: thứ nhất nghĩa là tin chắc về sự hiện hữu của Ngài;‡ thứ hai là đặt lòng tin nơi Đức Chúa Trời khi Ngài chứng về bất cứ điều gì; thứ ba là nương dựa nơi Đức Chúa Trời với sự tin cậy cứu rỗi của linh hồn.
 
@@ -297,12 +304,4 @@ XXXIX. 4, Sự tôn kính và vâng lời của con cái. Điều này nảy sin
 
 XL. 5, Tình yêu anh em không giả dối, mà người ấy mang cho mọi kẻ mà trong đó người ấy nhận biết hình ảnh thánh, và sự dự phần cùng ân điển với chính mình. Trong khi những bằng chứng khác thường không nhận biết được, tình yêu anh em này cung cấp cho linh hồn nghi ngờ một dấu an ủi về tình trạng của nó. Tình yêu anh em không thể tách khỏi tình yêu Đức Chúa Trời. Ai yêu nguyên bản, cũng sẽ yêu bản sao. Ai yêu Đức Chúa Trời, sẽ yêu kẻ thuộc về Đức Chúa Trời, là kẻ mà trong đó người ấy nhận ra những sự xuất sắc của Đức Chúa Trời, và là kẻ mà người ấy tin được Đức Chúa Trời yêu.h Phước cho người mà thần của người ấy làm chứng với Thánh Linh của Đức Chúa Trời, rằng những tính cách phân biệt này của con cái Đức Chúa Trời, được tìm thấy trong chính mình.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Nguồn là EPUB sạch (không OCR) của Monergism, nội dung chính 151 đoạn (P000–P150). Đoạn P151–P155 là boilerplate của nhà xuất bản (dải phân cách "-----", khối "MONERGISM BOOKS", trang bản quyền/pháp lý) — đã loại khỏi bản dịch.
-- Khối tiêu đề của nguồn bị trùng lặp (P000 = P001 = "On Faith in God", P002 = dòng tác giả) — đã cô đọng thành dòng tiêu đề và tên tác giả ở đầu file, không lặp lại trong nội dung.
-- Mục lục của nguồn (P004–P007) đánh số các bài luận là IV, V, VI, VII, nhưng tiêu đề trong nội dung là DISSERTATION I (P008), II (P042), III (P071), IV (P108) — giữ nguyên như bản in.
-- Số mục "XXVI" xuất hiện hai lần trong Luận đề III (P103 và P104) — giữ nguyên như bản in.
-- Các từ Hê-bơ-rơ và Hy-lạp trong nguồn bị mã hóa lỗi một phần ở tầng văn bản EPUB — giữ nguyên trong dấu trích dẫn, dịch quanh chúng.
-- P121: bản in ghi "Now Christ is the Sol of God" (có lẽ là lỗi in của "Son"); dịch là "Con của Đức Chúa Trời" và đánh dấu [NEEDS REVIEW].
-- Các trích dẫn Kinh Thánh theo phong cách bản dịch Việt 1934 (kiểu văn, không đối chiếu từng chữ).
+Mở trong trình đọc Về thư viện

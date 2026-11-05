@@ -1,5 +1,12 @@
 SỰ AN ỦI CHO MỌI KẺ ĐANG BỊ HOẠN NẠN
-Nicholas Bownd
+
+Nicholas Bownd · Consolation for All that are Afflicted: Which Armeth Us Against Impatience Under Any Cross
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ AN ỦI CHO MỌI KẺ ĐANG BỊ HOẠN NẠN Nicholas Bownd
 
 SỰ AN ỦI CHO MỌI KẺ ĐANG BỊ HOẠN NẠN
 
@@ -9,9 +16,7 @@ Nicholas Bownd
 
 MỤC LỤC
 
-- Gửi đến Quý Ông Khả Kính.
-- 1.
-- Một Luận Thuyết Đầy Sự An Ủi cho Mọi Kẻ Đang Bị Hoạn Nạn; trong Tâm Trí, Thân Thể, hay Bất Kỳ Cách Nào Khác; Vũ Trang Chúng Ta Chống Lại Sự Thiếu Kiên Nhẫn Dưới Mọi Thập Tự Giá.
+- Gửi đến Quý Ông Khả Kính. - 1. - Một Luận Thuyết Đầy Sự An Ủi cho Mọi Kẻ Đang Bị Hoạn Nạn; trong Tâm Trí, Thân Thể, hay Bất Kỳ Cách Nào Khác; Vũ Trang Chúng Ta Chống Lại Sự Thiếu Kiên Nhẫn Dưới Mọi Thập Tự Giá.
 
 GỬI ĐẾN QUÝ ÔNG KHẢ KÍNH.
 
@@ -27,8 +32,7 @@ Và như vậy, cầu nguyện Đức Chúa Trời ban phước cho cả hai v�
 
 Norton ở Suffolk, ngày 24 tháng 6, 1608.
 
-Kính dâng quý Ngài trong mọi tình yêu chân thật vì cớ Đấng Christ,
-Nicholas Bownd.
+Kính dâng quý Ngài trong mọi tình yêu chân thật vì cớ Đấng Christ, Nicholas Bownd.
 
 MỘT LUẬN THUYẾT ĐẦY SỰ AN ỦI CHO MỌI KẺ ĐANG BỊ HOẠN NẠN; TRONG TÂM TRÍ, THÂN THỂ, HAY BẤT KỲ CÁCH NÀO KHÁC; VŨ TRANG CHÚNG TA CHỐNG LẠI SỰ THIẾU KIÊN NHẪN DƯỚI MỌI THẬP TỰ GIÁ.
 
@@ -322,12 +326,4 @@ Và thấy Chúa đã kiên nhẫn trong việc đợi sự sửa đổi chúng 
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Nguồn: EPUB từ trang Monergism (link thethreshold), văn bản Anh ~28.540 chữ do Project Puritas cập nhật từ EEBO-TCP, không phải OCR.
-- Đã loại trừ (không thuộc tác phẩm thật): dòng "Monergism Books", khối ghi chú bản quyền/sửa chữa của Project Puritas–Monergism, và "Editor's Note" về quá trình chép EEBO-TCP.
-- Các đoạn đầu dòng bị tách rời trong trích xuất EPUB (ví dụ "T/o/the/Right", "L/ikewise/the/Spirit") đã được ráp lại thành "To the Right Worshipful", "Likewise the Spirit" trước khi dịch.
-- 10 dấu [NEEDS REVIEW: …] đánh dấu các lỗi in sai hiển nhiên trong nguồn (giữ nguyên như bản in, ghi khả năng đúng trong ngoặc): "poured them our"→"out", "make hast"→"haste", "fear God"→"love God" (Rô-ma 8:28), "fearing"→"searing", "now thin hand"→"thine hand", "Shabeans"/"Sabaeans" (Job 1:15), "blue down"→"blew down", "heard of swine"→"herd", "consecrate the price" (có thể là "prince"/"consecrated"), "was out a type"→"but a type".
-- Bảng 16 thuật ngữ áp dụng nhất quán: Justification = sự xưng công chính, Grace = ân điển, Gospel = Phúc Âm, Church = Hội Thánh, v.v.; "Sacraments" = "nghi thức thánh"; "baptism" = "báp-têm"; "inspiration" (Kinh Thánh) = "sự thần cảm". Không dùng các từ cấm ("sự xưng công bình", "ân sủng", "tin mừng" cho gospel, "Thiên Chúa", "bí tích", "rửa tội", "hà linh") trong thân bài.
-- Trích dẫn Kinh Thánh theo phong cách bản dịch Việt 1934 (phong cách, không đối chiếu từng ký tự).
+Mở trong trình đọc Về thư viện

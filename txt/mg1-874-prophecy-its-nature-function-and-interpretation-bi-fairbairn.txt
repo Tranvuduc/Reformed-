@@ -1,5 +1,12 @@
 LỜI TIÊN TRI: XÉT VỀ BẢN CHẤT ĐẶC THÙ, CHỨC NĂNG RIÊNG BIỆT VÀ CÁCH DIỄN GIẢI ĐÚNG ĐẮN
-Patrick Fairbairn
+
+Patrick Fairbairn · Prophecy: Its Nature, Function and Interpretation (Biblical Studies eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+LỜI TIÊN TRI: XÉT VỀ BẢN CHẤT ĐẶC THÙ, CHỨC NĂNG RIÊNG BIỆT VÀ CÁCH DIỄN GIẢI ĐÚNG ĐẮN Patrick Fairbairn
 
 LỜI NÓI ĐẦU.
 
@@ -967,12 +974,4 @@ Người ta có thể đi qua một phần đáng kể của lời tiên tri v�
 
 HẾT
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Xuất xứ: bản EPUB của Monergism (ProphecyPatrickFairbairn.epub, ấn bản Edinburgh T. & T. Clark, MDCCCLVI = 1856). Văn bản Anh sạch, không OCR.
-- Các phần bị loại trừ (theo quy tắc chỉ dịch tác phẩm thật): khối tiêu đề/bìa (đã rút gọn vào tiêu đề file), Mục lục điều hướng (P0016–P0052), mục "Notes" cuối sách P0537–P0680 (bộ máy chú thích cuối theo tiền lệ #254, chủ yếu là tham chiếu chéo "See Appendix ..."), dòng chữ OCR "OCR Edit by Thomas M Witte" (P0536).
-- Bản văn nguồn có các ghi chú "(Heb. excluded)" / "(Grk. excluded)" nơi lớp văn bản EPUB đã làm mất chữ Hê-bơ-rơ/Hy Lạp gốc; các đoạn này được giữ nguyên trong ngoặc kép và đánh dấu [NEEDS REVIEW] thay vì đoán mò.
-- Quy ước thuật ngữ: sự xưng công chính (justification; không dùng "sự xưng công chính"), ân điển (grace), Phúc Âm (gospel), Đức Chúa Trời (God), báp-têm (baptism), sự thần cảm (inspiration của Kinh Thánh), "Thiên Chúa giáo" là tên riêng của Giáo hội La Mã (được phép), nghi thức thánh (sacrament), dẫn Kinh Thánh theo phong cách bản 1934 (không đối chiếu từng chữ).
-- Các lỗi in trong bản nguồn được giữ nguyên như in: "the (Grk. excluded)" (P0073), "personelle" (P0472, có lẽ là lỗi in của "personality"), "arid" cho "and" trong tên sách của Dr Turner (P0517); các chú thích nội tuyến ghi rõ.
-- [NEEDS REVIEW] nội tuyến: 12 điểm (xem bản văn), đều là vấn đề của nguồn in, không phải suy đoán của người dịch.
+Mở trong trình đọc Về thư viện

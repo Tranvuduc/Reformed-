@@ -1,5 +1,12 @@
 HƯỚNG DẪN CHO MỘT ĐỜI SỐNG TIN KÍNH
-Henry Tozer
+
+Henry Tozer · Directions for a Godly Life
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+HƯỚNG DẪN CHO MỘT ĐỜI SỐNG TIN KÍNH Henry Tozer
 
 Hướng Dẫn cho một Đời Sống Tin Kính [NEEDS REVIEW: bản gốc in "Directionsfora Godly life" — thiếu dấu cách, có lẽ là "Directions for a Godly Life"]
 
@@ -8,7 +15,6 @@ Hướng Dẫn cho một Đời Sống Tin Kính [NEEDS REVIEW: bản gốc in "
 Trước hết soạn ra cho mục đích riêng tư; nay xuất bản vì ích lợi của những ai mong muốn sự an toàn cho linh hồn mình, và sẽ vui lòng sử dụng sách này.
 
 Bởi Henry Tozer (1602-1650)
-
 
 Mục Lục
 
@@ -650,12 +656,4 @@ Kẻ, sẽ hết lòng phục vụ Chúa bởi từ bỏ sự không tin kính v
 
 HẾT.
 
-
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Nguồn: EPUB Monergism (thethreshold), trích xuất theo thứ tự spine, ~22.189 chữ Anh, văn bản sạch (EEBO-TCP qua Project Puritas, không OCR).
-- Loại trừ theo quy tắc true-work-only: trang ghi công Project Puritas, giấy phép CC BY-NC-ND, trang bản quyền © 2024 Aaron Sturgill / Crowdedship Publications (không thuộc tác phẩm của Tozer).
-- Các tiêu đề H1/H2 trong EPUB được dịch thành đoạn văn tiêu đề độc lập, giữ nguyên cấu trúc 12 chương + Mục lục + Lời đề tặng.
-- "Papists" dịch là "những người theo Thiên Chúa giáo" — dùng ngoại lệ tên riêng Thiên Chúa giáo, không vi phạm từ cấm.
-- 18 dấu [NEEDS REVIEW] trong văn bản: lỗi in của bản nguồn giữ nguyên văn kèm ghi chú sửa có thể (trích dẫn sai như Acts 3:2→3:21, Heb 11:26→11:6, Rom 11:21→12:20–21, Ecc 7:21, 1 Tim 2:6→2:4, Jas 4:16→5:16, Ps 37:38→37:37, Ps 16:9→16:8, 1 Cor 11:28; lỗi chữ như "Directionsfora", "two forts"→sorts); trích dẫn Ngụy thư Sirach 33:27 không có trong Kinh Thánh 1934 — dịch theo văn phong 1934 và gắn cờ.
-- Thuật ngữ theo bảng hướng dẫn MG-2: justification = sự xưng công chính, sacrament = nghi thức thánh, grace = ân điển, gospel = Phúc Âm; Kinh Thánh trích dẫn theo văn phong 1934; không dùng "hà linh" (inspiration = sự thần cảm).
+Mở trong trình đọc Về thư viện

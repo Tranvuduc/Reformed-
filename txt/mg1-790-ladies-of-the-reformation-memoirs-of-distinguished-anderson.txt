@@ -1,5 +1,12 @@
 CÁC PHU NHÂN CỦA CUỘC CẢI CHÁNH: HỒI KÝ VỀ NHỮNG NGƯỜI PHỤ NỮ XUẤT CHÚNG CỦA CUỘC CẢI CHÁNH
-James Anderson
+
+James Anderson · Ladies of the Reformation: Memoirs of Distinguished Women of the Reformation (Biography eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+CÁC PHU NHÂN CỦA CUỘC CẢI CHÁNH: HỒI KÝ VỀ NHỮNG NGƯỜI PHỤ NỮ XUẤT CHÚNG CỦA CUỘC CẢI CHÁNH James Anderson
 
 MỤC LỤC. LỜI TỰA.
 
@@ -9233,11 +9240,4 @@ Cảnh tượng tại vụ hành quyết một số kẻ âm mưu Amboise, đư�
 
 18. De Thou, Histoire, tom. ii. tr. 773. Mrs. Marsh’s Hist. Ref. in France, vol. i. tr. 132, 133.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Nguồn: hai EPUB Monergism riêng biệt — "Ladies of the Reformation - Vol 1" và "Vol 2" (James Anderson) — được gộp thành một file duy nhất theo danh sách MG-2; trong thân bài đã chèn tiêu đề "[H1] TẬP 2" tại điểm nối hai tập.
-- Phần bị loại (chỉ là phần phụ của nhà xuất bản, ở cả hai tập): trang bìa/tựa, ghi chú ghi công chuyển văn bản của Monergism, và khối bản quyền/pháp lý © 2026 của Monergism Books. Toàn bộ nội dung tác phẩm đã được dịch: mục lục, lời tựa, các phần 1–8 (Anh, Scotland, Hà Lan, Đức, Thụy Sĩ, Pháp, Ý, Tây Ban Nha), phụ lục và toàn bộ chú thích cuối sách của cả hai tập.
-- Nguồn tiếng Anh tự nó là bản chuyển văn bản nguyên văn bằng Claude Opus 4.6/API theo ghi chú của Monergism, nên đôi chỗ còn lỗi in/lỗi chuyển văn bản của nguyên bản.
-- Có 16 marker [NEEDS REVIEW: ...] trong thân bài tại các chỗ nguyên bản in lỗi hoặc mơ hồ (ví dụ "16008" thay vì 1600, "1583" thay vì 1483, ngày tháng mâu thuẫn trong nguyên bản, chú thích in hỏng); mọi chỗ đều giữ nguyên như in kèm ghi chú, không đoán thầm.
-- Trích dẫn Kinh Thánh dịch theo phong cách bản tiếng Việt 1934; tên nhân vật Kinh Thánh dùng dạng 1934 (Giê-ru-sa-lem, Phao-lô...), các tên riêng lịch sử khác giữ nguyên dạng gốc Anh/Pháp/Đức.
-- Thuật ngữ: justification = "sự xưng công chính"; "Roman Catholicism" dịch "Thiên Chúa giáo La Mã" (dạng "Thiên Chúa giáo" được phép cho tên riêng tôn giáo này); sacrament/ordinance = "nghi thức thánh"; baptism = "báp-têm"/"lễ báp-têm"; martyr = "người tuận đạo"; thơ ca và thư từ trong nguyên bản (tiếng Latin, Pháp, Scots...) được dịch hoặc giữ nguyên văn theo đúng cách trình bày của nguyên bản.
+Mở trong trình đọc Về thư viện

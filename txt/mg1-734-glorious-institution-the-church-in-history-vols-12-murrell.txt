@@ -1,5 +1,12 @@
 THỂ CHẾ VINH HIỂN: HỘI THÁNH TRONG LỊCH SỬ, TẬP 1–2 (NĂM 100–1516)
-Stanford E. Murrell
+
+Stanford E. Murrell · Glorious Institution: The Church in History, Vols. 1–2 (AD 100–1516)
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+THỂ CHẾ VINH HIỂN: HỘI THÁNH TRONG LỊCH SỬ, TẬP 1–2 (NĂM 100–1516) Stanford E. Murrell
 
 MỤC LỤC
 
@@ -7,7 +14,7 @@ Phần Một: Khi Hội Thánh Còn Trẻ
 
 33 - 754 SCN
 
-Chương 1 Sự Ra Đời của Hội Thánh Tân Ước
+CHƯƠNG 1 SỰ RA ĐỜI CỦA HỘI THÁNH TÂN ƯỚC
 
 Bối Cảnh của Hội Thánh
 
@@ -21,7 +28,7 @@ Các Lãnh Đạo Hội Thánh Đầu Tiên Được Tuyển Chọn
 
 Các Tác Phẩm Đầu Tiên Được Tuyển Chọn của các “Giáo phụ”
 
-Chương 2 Các Thánh Đồ Chịu Khổ 33 – 313 SCN
+CHƯƠNG 2 CÁC THÁNH ĐỒ CHỊU KHỔ 33 – 313 SCN
 
 Thời Đại của các Anh Hùng
 
@@ -41,7 +48,7 @@ Những Nỗ Lực Hủy Diệt Được Tái Diễn
 
 Ân Điển của Galerius
 
-Chương 3 Những Nền Tảng của Đức Tin 33 – 325 SCN
+CHƯƠNG 3 NHỮNG NỀN TẢNG CỦA ĐỨC TIN 33 – 325 SCN
 
 Giáo Lý và Tổ Chức của Hội Thánh
 
@@ -59,7 +66,7 @@ Một Tín Điều cho Cơ Đốc Giáo: Tín Điều Các Sứ Đồ
 
 Những Hình Thức Mới của Chính Quyền Hội Thánh
 
-Chương 4 Dấu Hiệu của Đấng Cứu Rỗi năm 313 SCN
+CHƯƠNG 4 DẤU HIỆU CỦA ĐẤNG CỨU RỖI NĂM 313 SCN
 
 Constantine Đại Đế
 
@@ -67,7 +74,7 @@ Phái Donatist
 
 Julian Kẻ Bội Giáo
 
-Chương 5 Trong Các Công Đồng của Hội Thánh năm 325 – 451 SCN
+CHƯƠNG 5 TRONG CÁC CÔNG ĐỒNG CỦA HỘI THÁNH NĂM 325 – 451 SCN
 
 Các Loại Công Đồng Khác Nhau
 
@@ -95,7 +102,7 @@ Phái Pelagian
 
 Các Công Đồng Đại Kết
 
-Chương 6 Gieo Hạt Giống Tự Hủy Hoại 100 – 461 SCN
+CHƯƠNG 6 GIEO HẠT GIỐNG TỰ HỦY HOẠI 100 – 461 SCN
 
 Tội Lỗi của các Thánh Đồ
 
@@ -103,7 +110,7 @@ Sự Trỗi Dậy của Chủ Nghĩa Tu Viện
 
 Chrysostom
 
-Chương 7 Những Thử Thách Mới Và Những Chiến Thắng Vĩ Đại 376 – 754 SCN
+CHƯƠNG 7 NHỮNG THỬ THÁCH MỚI VÀ NHỮNG CHIẾN THẮNG VĨ ĐẠI 376 – 754 SCN
 
 Các Bộ Tộc German Xâm Lăng Đế Quốc
 
@@ -123,7 +130,7 @@ Phúc Âm cho Đức và Hà Lan
 
 Gregory Đại Đế
 
-Chương 8 Vinh Quang Suy Tàn
+CHƯƠNG 8 VINH QUANG SUY TÀN
 
 Người Ả Rập Tấn Công Phần Phía Đông của Đế Quốc
 
@@ -135,7 +142,7 @@ Trận Tours
 
 Thập Tự Giá và Gươm Giáo: Sự Bành Trướng của Hồi Giáo
 
-Chương 9 Các Liên Minh Chính Trị Mới Năm 751 – 800 SCN
+CHƯƠNG 9 CÁC LIÊN MINH CHÍNH TRỊ MỚI NĂM 751 – 800 SCN
 
 Người Lombard
 
@@ -145,7 +152,7 @@ Pepin Lùn
 
 Charles Đại Đế (Charlemagne)
 
-Chương 10 Quyền Lực Ngày Càng Tăng Của Chế Độ Giáo Hoàng năm 461 – 1073 SCN
+CHƯƠNG 10 QUYỀN LỰC NGÀY CÀNG TĂNG CỦA CHẾ ĐỘ GIÁO HOÀNG NĂM 461 – 1073 SCN
 
 Tăng Trưởng Nhờ Tổ Chức
 
@@ -155,7 +162,7 @@ Tăng Trưởng Nhờ Lừa Dối
 
 Tăng Trưởng Nhờ Những Tuyên Bố Viển Vông
 
-Chương 11 Hội Thánh Trong Thế Gian; Thế Gian Trong Hội Thánh năm 885 – 1049 SCN
+CHƯƠNG 11 HỘI THÁNH TRONG THẾ GIAN; THẾ GIAN TRONG HỘI THÁNH NĂM 885 – 1049 SCN
 
 Chế Độ Phong Kiến
 
@@ -163,7 +170,7 @@ Sự Lệ Thuộc vào Các Hoàng Đế
 
 Simony: Việc Mua Bán Chức Vụ Giáo Hoàng
 
-Chương 12 Một Ngôi Nhà Bị Chia Rẽ năm 1054 SCN
+CHƯƠNG 12 MỘT NGÔI NHÀ BỊ CHIA RẼ NĂM 1054 SCN
 
 Hội Thánh Phương Đông
 
@@ -173,13 +180,13 @@ Phần Hai: Hội Thánh Trong Thời Trung Cổ
 
 754 - 1517 SCN
 
-Chương 13 Chủ Nghĩa Tu Viện Và Các Cuộc Cải Cách Cluny
+CHƯƠNG 13 CHỦ NGHĨA TU VIỆN VÀ CÁC CUỘC CẢI CÁCH CLUNY
 
 Khổ Hạnh
 
 Cải Cách tại Tu Viện Cluny
 
-Chương 14 Hội Thánh Kêu Cầu Cải Cách Thuộc Linh năm 1049 – 1073 SCN
+CHƯƠNG 14 HỘI THÁNH KÊU CẦU CẢI CÁCH THUỘC LINH NĂM 1049 – 1073 SCN
 
 Các Cuộc Cải Cách Cluny: 1049–1058 SCN
 
@@ -191,7 +198,7 @@ Hildebrand: Quyền Lực Đằng Sau Ngai Vàng
 
 Tiến Tới Sự Trưởng Thành: 1059–1073 SCN
 
-Chương 15 Cuộc Đấu Tranh Giành Độc Lập Khỏi Nhà Nước 1073 – 1122 SCN
+CHƯƠNG 15 CUỘC ĐẤU TRANH GIÀNH ĐỘC LẬP KHỎI NHÀ NƯỚC 1073 – 1122 SCN
 
 Cuộc Chiến Giành Quyền Phong Chức
 
@@ -199,7 +206,7 @@ Henry IV Thách Thức Hội Thánh
 
 Hòa Ước Worms
 
-Chương 16 Giết Nhân Danh Đấng Christ: Các Cuộc Thập Tự Chinh 1096 – 1291 SCN
+CHƯƠNG 16 GIẾT NHÂN DANH ĐẤNG CHRIST: CÁC CUỘC THẬP TỰ CHINH 1096 – 1291 SCN
 
 Huy Động Một Đạo Quân của Đức Chúa Trời
 
@@ -213,7 +220,7 @@ Kết Quả của Các Cuộc Thập Tự Chinh
 
 Các Cuộc Thập Tự Chinh Lớn
 
-Chương 17 Đỉnh Cao Quyền Lực Trần Thế 1198 – 1216
+CHƯƠNG 17 ĐỈNH CAO QUYỀN LỰC TRẦN THẾ 1198 – 1216
 
 Innocent III
 
@@ -225,7 +232,7 @@ Các Giáo Sư của Hội Thánh
 
 Tóm Lược
 
-Chương 18 Sự Suy Tàn Quyền Lực 1294 – 1417
+CHƯƠNG 18 SỰ SUY TÀN QUYỀN LỰC 1294 – 1417
 
 Boniface VIII
 
@@ -233,7 +240,7 @@ Các Yếu Tố Góp Phần Vào Sự Suy Tàn
 
 Cuộc Ly Giáo của Giáo Hoàng (1378–1417 SCN)
 
-Chương 19 Cuộc Tìm Kiếm Sự Nên Thánh 1200 – 1517 SCN
+CHƯƠNG 19 CUỘC TÌM KIẾM SỰ NÊN THÁNH 1200 – 1517 SCN
 
 Phái Albigensian
 
@@ -269,7 +276,7 @@ Phần Một: Khi Hội Thánh Còn Trẻ
 
 33 - 754 SCN
 
-Chương 1 Sự Ra Đời của Hội Thánh Tân Ước
+CHƯƠNG 1 SỰ RA ĐỜI CỦA HỘI THÁNH TÂN ƯỚC
 
 Bối Cảnh của Hội Thánh
 
@@ -405,7 +412,7 @@ Concerning the Trinity, Concerning Doctrine Augustin
 
 The City of God Augustin
 
-Chương 2 Các Thánh Đồ Chịu Khổ 33 – 313 SCN
+CHƯƠNG 2 CÁC THÁNH ĐỒ CHỊU KHỔ 33 – 313 SCN
 
 Thời Đại của các Anh Hùng
 
@@ -745,7 +752,7 @@ Luôn luôn, dân của Đức Chúa Trời thoát khỏi hoạn nạn một cá
 
 8. Bất kỳ sự dạy dỗ nào tìm cách miễn trừ dân của Đức Chúa Trời khỏi hoạn nạn trong bất kỳ thời kỳ nào của lịch sử nhân loại, sẽ không tìm thấy sự ủng hộ từ hai mươi sáu đoạn trong Kinh Thánh dùng từ này.
 
-Chương 3 Những Nền Tảng của Đức Tin 33 – 325 SCN
+CHƯƠNG 3 NHỮNG NỀN TẢNG CỦA ĐỨC TIN 33 – 325 SCN
 
 Giáo Lý và Tổ Chức của Hội Thánh
 
@@ -965,7 +972,7 @@ Khi Hội Thánh tăng trưởng về số lượng và công việc của Hội
 
 Một giáo trưởng hay một hoàng đế có thể triệu tập các giám mục và tổng giám mục họp lại trong các hội đồng, hay công đồng, để thảo luận những vấn đề quan trọng và ban hành những quy tắc và quy định có tính ràng buộc. Nếu một công đồng chỉ đại diện cho một tỉnh, nó được gọi là công đồng tỉnh; nếu chỉ đại diện miền Đông hay miền Tây, nó được gọi là công đồng toàn thể; nếu đại diện cả hai, nó là công đồng chung. Nếu các sắc lệnh của công đồng được chấp nhận là ràng buộc đối với mọi Cơ Đốc nhân, nó là một công đồng đại kết. Bằng cách này, Hội Thánh đã tăng trưởng trong sự phức tạp về tổ chức.
 
-Chương 4 Dấu Hiệu của Đấng Cứu Rỗi năm 313 SCN
+CHƯƠNG 4 DẤU HIỆU CỦA ĐẤNG CỨU RỖI NĂM 313 SCN
 
 Constantine Đại Đế
 
@@ -1009,7 +1016,7 @@ Năm 361, vị hoàng đế mới là Julian, cháu của Constantine Đại Đ�
 
 Trong sự thù địch với Hội Thánh, Julian đã bắt bớ các Cơ Đốc nhân. Vũ khí chính của ông chống lại Hội Thánh là ngòi bút. Là một tác giả tài năng, Julian đã tấn công Cơ Đốc giáo bằng châm biếm và chế giễu. Trong khi đó, Julian cố khôi phục việc thờ phượng ngoại giáo. Có một truyền thuyết tuyệt vời rằng Julian đã thừa nhận thất bại của mình năm 363 SCN, khi ông bị thương chí mạng trong trận chiến chống lại người Ba Tư. Một ngọn giáo đâm vào đùi ông. Khi máu phun ra, Julian lấy một ít máu trong tay, ném lên trời và kêu lên: "Vậy là Ngài đã chiến thắng sau cùng, hỡi người Ga-li-lê." Ông được 32 tuổi.
 
-Chương 5 Trong Các Công Đồng của Hội Thánh năm 325 – 451 SCN
+CHƯƠNG 5 TRONG CÁC CÔNG ĐỒNG CỦA HỘI THÁNH NĂM 325 – 451 SCN
 
 Các Loại Công Đồng Khác Nhau
 
@@ -1253,7 +1260,7 @@ Các Công Đồng Đại Kết
 
 21. Từ năm 1962 đến năm 1965 SCN, Công Đồng Vatican Thứ Hai đã họp để canh tân phụng vụ Công Giáo, và để đáp ứng những mối quan tâm hiện đại như chiến tranh hạt nhân, tự do tôn giáo, và sự cởi mở đối với các Cơ Đốc nhân khác.
 
-Chương 6 Gieo Hạt Giống Tự Hủy Hoại 100 – 461 SCN
+CHƯƠNG 6 GIEO HẠT GIỐNG TỰ HỦY HOẠI 100 – 461 SCN
 
 Tội Lỗi Của Các Thánh Đồ
 
@@ -1303,7 +1310,7 @@ Chrysostom (khoảng năm 347–407), thượng phụ thành Constantinople, là
 
 Là một nhà giảng thuyết tài năng, Chrysostom thu hút đông đảo người theo. Khi thượng phụ thành Constantinople qua đời năm 397, Chrysostom được bổ nhiệm thay thế ông. Miễn cưỡng, ông được phong làm giám mục. Trong những năm sau đó, Chrysostom đã mạnh dạn giảng chống lại các thói xấu của hội chúng và sự tham nhũng tại những nơi cao của chính quyền. Ông thậm chí còn chỉ trích hoàng hậu Eudoxia và sự vô luân của triều đình. Bị xúc phạm, Eudoxia đã lôi kéo sự ủng hộ của giám mục thành Alexandria để cách chức Chrysostom dựa trên những cáo buộc tầm phào. Bị lưu đày năm 403, ông được triệu hồi, nhưng chẳng bao lâu lại xúc phạm hoàng hậu và một lần nữa bị đày đến Pontus. Bị buộc phải đi bộ qua cát nóng mà không có vật che đầu, ông đã chết trên đường đi. Những đau khổ không cần thiết như vậy đã sinh ra quả đắng trong những năm về sau.
 
-Chương 7 Những Thử Thách Mới Và Những Chiến Thắng Vĩ Đại 376 – 754 SCN
+CHƯƠNG 7 NHỮNG THỬ THÁCH MỚI VÀ NHỮNG CHIẾN THẮNG VĨ ĐẠI 376 – 754 SCN
 
 Đến thế kỷ thứ năm SCN, Hội Thánh đã lớn mạnh về quyền lực, sự giàu có, và sức mạnh về số lượng. Đạo quân thuộc linh của Đấng Christ đã hành quân chiến thắng qua nhiều vùng đất: Hy Lạp, Ý, Gaul, Ai Cập, và Bắc Phi. Tại nhiều thành phố, Phúc Âm đã bắt nhiều tấm lòng làm tù nhân cho Đấng Christ. Các Cơ Đốc nhân có thể được tìm thấy tại Jerusalem, Samaria, Caesarea, Antioch, Smyrna, Nicea, Chalcedon, Constantinople, Rome, Milan, Bethlehem, Lyons, Alexandria, Carthage, Tagaste, và Hippo.
 
@@ -1401,7 +1408,7 @@ Bất chấp điều tốt mà ông đã làm, Gregory cũng mang lại nhiều 
 
 Bản đồ Đế quốc La Mã
 
-Chương 8 Vinh Quang Suy Tàn
+CHƯƠNG 8 VINH QUANG SUY TÀN
 
 Người Ả Rập Tấn Công Phần Phía Đông của Đế Quốc
 
@@ -1469,7 +1476,7 @@ Cuối cùng, ở một mức độ nào đó, muối của đất đã mất v�
 
 Bản đồ Lưỡi Liềm Hồi Giáo
 
-Chương 9 Các Liên Minh Chính Trị Mới Năm 751 – 800 SCN
+CHƯƠNG 9 CÁC LIÊN MINH CHÍNH TRỊ MỚI NĂM 751 – 800 SCN
 
 Người Lombard
 
@@ -1515,7 +1522,7 @@ Mặc dù tự xem mình là Cơ Đốc nhân, Charlemagne không phải lúc n�
 
 Ngoài ra, trong triều đại của ông, chế độ phong kiến đã đạt đến nhiều đặc điểm trung cổ đặc trưng của nó. Charlemagne được xem là người sáng lập châu Âu. Khi Charlemagne qua đời năm 814, trên thế giới có ba đế quốc lớn. Đế quốc cổ xưa nhất là Đế Quốc La Mã Đông Phương gồm vùng Balkan, Tiểu Á, và miền nam nước Ý. Đế quốc lớn nhất là đế quốc của người Ả Rập theo Hồi giáo. Nó trải dài từ biên giới Ấn Độ qua Ba Tư, Sy-ri-a, Pa-lét-tin ở châu Á, và toàn bộ miền bắc châu Phi cho đến sông Ebro ở châu Âu. Đế quốc mới nhất và mạnh nhất là đế quốc của Charlemagne, gồm nửa phía bắc nước Ý; góc đông bắc Tây Ban Nha; toàn bộ nước Pháp, Bỉ, và Hà Lan; và một phần lớn nước Đức và Áo.
 
-Chương 10 Quyền Lực Ngày Càng Tăng Của Chế Độ Giáo Hoàng năm 461 – 1073 SCN
+CHƯƠNG 10 QUYỀN LỰC NGÀY CÀNG TĂNG CỦA CHẾ ĐỘ GIÁO HOÀNG NĂM 461 – 1073 SCN
 
 Tăng Trưởng Nhờ Tổ Chức
 
@@ -1551,7 +1558,7 @@ Nhiệm kỳ Giáo hoàng của ông đầy tranh cãi và sóng gió, khi ông 
 
 Nicholas sẽ thành công hơn trong cuộc tranh cãi lớn khác trong nhiệm kỳ của ông: quyền kiểm soát chức vụ giám mục tại Soissons (miền tây bắc xứ Gaul). Năm 861, Rothad, giám mục Soissons, đã bị Hincmar, nhân vật hàng đầu của Hội Thánh tại Gaul, cách chức. Rothad đã kháng cáo quyết định này lên Nicholas, người đã phán quyết có lợi cho ông. Hincmar chấp nhận quyết định của Giáo hoàng, nhờ đó trong vấn đề này và các vấn đề khác, Nicholas đã gia tăng quyền lực của chế độ Giáo hoàng.
 
-Chương 11 Hội Thánh Trong Thế Gian; Thế Gian Trong Hội Thánh năm 885 – 1049 SCN
+CHƯƠNG 11 HỘI THÁNH TRONG THẾ GIAN; THẾ GIAN TRONG HỘI THÁNH NĂM 885 – 1049 SCN
 
 Chế Độ Phong Kiến
 
@@ -1591,7 +1598,7 @@ Vấn đề này cuối cùng đã được giải quyết bởi Henry III của
 
 Bản đồ Đế Quốc La Mã Thần Thánh
 
-Chương 12 Một Ngôi Nhà Bị Chia Rẽ năm 1054 SCN
+CHƯƠNG 12 MỘT NGÔI NHÀ BỊ CHIA RẼ NĂM 1054 SCN
 
 Hội Thánh Đông Phương
 
@@ -1637,7 +1644,7 @@ Phần Hai: Hội Thánh Trong Thời Trung Cổ
 
 năm 754 - 1517 SCN
 
-Chương 13 Chủ Nghĩa Tu Viện Và Các Cuộc Cải Cách Cluny
+CHƯƠNG 13 CHỦ NGHĨA TU VIỆN VÀ CÁC CUỘC CẢI CÁCH CLUNY
 
 Chủ Nghĩa Khổ Hạnh
 
@@ -1703,7 +1710,7 @@ e. để tìm kiếm ân điển của Chúa (Ê-xơ-tê 4:15).
 
 8. Mặc dù Luật pháp của Môi-se chỉ truyền lệnh một kỳ kiêng ăn vào Ngày Chuộc Tội (Lê-vi Ký 16:29tt), các kỳ kiêng ăn khác đã được thêm vào để tưởng niệm những thời khắc đau thương trong lịch sử Hê-bơ-rơ, chẳng hạn như cuộc vây hãm Giê-ru-sa-lem bởi Nebuchadnezzar và vụ sát hại Gedaliah.
 
-Chương 14 Hội Thánh Kêu Cầu Cải Cách Thuộc Linh năm 1049 – 1073 SCN
+CHƯƠNG 14 HỘI THÁNH KÊU CẦU CẢI CÁCH THUỘC LINH NĂM 1049 – 1073 SCN
 
 Các Cuộc Cải Cách Cluny: năm 1049-1058 SCN
 
@@ -1765,7 +1772,7 @@ Là một nhà lãnh đạo đầy tham vọng và mạnh mẽ, Hildebrand (tên
 
 Để bảo đảm những điều này, Hildebrand đã ban hành hai sắc lệnh chung khác: việc tái khẳng định quyền tối cao của các sắc lệnh Giáo hoàng, và việc bãi bỏ hoàn toàn mọi sự phong chức vào chức vụ trong Hội Thánh bởi những người không thuộc hàng giáo sĩ. Mặc dù ban đầu có sự chống đối các hành động của ông, các thành viên quan tâm đến thuộc linh trong Hội Thánh có thể hy vọng rằng nơi Hildebrand, các cuộc cải cách sâu rộng hơn sẽ đến.
 
-Chương 15 Cuộc Đấu Tranh Giành Độc Lập Khỏi Nhà Nước 1073 – 1122
+CHƯƠNG 15 CUỘC ĐẤU TRANH GIÀNH ĐỘC LẬP KHỎI NHÀ NƯỚC 1073 – 1122
 
 Cuộc Đấu Tranh Giành Quyền Phong Chức
 
@@ -1983,7 +1990,7 @@ Sự ăn năn có khiến con người ghét tội lỗi chăng? Những kẻ c�
 
 Trích từ Self-Delusion, Bài Giảng 475, Metropolitan Tabernacle Pulpit, tập 8, trang 577.
 
-Chương 16 Giết Nhân Danh Đấng Christ: Các Cuộc Thập Tự Chinh 1096 – 1291
+CHƯƠNG 16 GIẾT NHÂN DANH ĐẤNG CHRIST: CÁC CUỘC THẬP TỰ CHINH 1096 – 1291
 
 Dấy Lên Một Đạo Quân Của Đức Chúa Trời
 
@@ -2103,7 +2110,7 @@ Cuộc Thập Tự Chinh Thứ Sáu 1248-1254
 
 Cuộc Thập Tự Chinh Thứ Bảy 1270-1272
 
-Chương 17 Đỉnh Cao Quyền Lực Trần Thế 1198 – 1216
+CHƯƠNG 17 ĐỈNH CAO QUYỀN LỰC TRẦN THẾ 1198 – 1216
 
 Innocent III
 
@@ -2219,7 +2226,7 @@ Tóm Tắt
 
 Cùng nhau, những người này và những người khác được gọi là các nhà kinh viện, đã truyền đạt tri thức được biết đến là chủ nghĩa kinh viện. Sự nhấn mạnh vào học vấn đã ảnh hưởng đến các lĩnh vực khác như kiến trúc và nghệ thuật. Chính những cá nhân thời trung cổ đã xây dựng các nhà thờ chính tòa nguy nga như những nhà thờ tại Milan, Ý; Rheims, Pháp; và Cologne, Đức, có lẽ là nhà thờ chính tòa công phu và xinh đẹp nhất từng được dựng lên.
 
-Chương 18 Sự Suy Tàn Quyền Lực 1294 – 1417
+CHƯƠNG 18 SỰ SUY TÀN QUYỀN LỰC 1294 – 1417
 
 Boniface VIII
 
@@ -2261,7 +2268,7 @@ Các đảng phái cải cách đã phát triển nhanh chóng giữa cảnh h�
 
 Cuối cùng, vào năm 1417, Công Đồng Constance đã xoay xở bầu Martin V làm giáo hoàng, một hồng y người Ý. Ba giáo hoàng đối thủ còn lại, mệt mỏi vì tình trạng bất ổn xã hội và chính trị, đã ủng hộ Martin, để một lần nữa Hội Thánh ở Phương Tây lại có một lãnh đạo thuộc linh duy nhất. Cuộc Đại Ly Giáo đã được hàn gắn. Nhưng những vết thương gây ra cho chế độ Giáo hoàng về sau đã chứng tỏ là có những hậu quả sâu xa.
 
-Chương 19 Cuộc Tìm Kiếm Sự Nên Thánh 1200 – 1517
+CHƯƠNG 19 CUỘC TÌM KIẾM SỰ NÊN THÁNH 1200 – 1517
 
 Phái Albigensian
 
@@ -3213,7 +3220,6 @@ Chú Thích
 
 17 các giám mục – các lãnh đạo Hội Thánh có cấp bậc cao hơn, chẳng hạn như các giám mục hay viện trưởng.
 
-18 giáo sĩ – trong ngữ cảnh này: một giáo sĩ thuộc ban nhân sự của một nhà thờ chính tòa hay nhà thờ đại học.
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch này được thực hiện từ tập tin điện tử do Thư Viện Chapel phát hành (qua trang Monergism), chứa cả Phần Một và Phần Hai trong một tập tin duy nhất; niên đại in trong sách là 2013–2014. Tựa in trên trang tựa có mạo từ "A" và ghi "Phần Một và Phần Hai", trong khi tựa trong danh mục ghi "Tập 1–2 (Năm 100–1516)"; phạm vi niên đại in cho từng phần là năm 33–754 và năm 754–1517, và tiêu đề của bản dịch dùng tựa trong danh mục. Trang quảng bá của nhà phát hành đã được lược bỏ vì không thuộc nội dung tác phẩm. Các chú thích cuối sách (18 chú thích) được giữ nguyên tại cuối sách, tương ứng với các con số chú thích in kèm trong bài; số trang trong phần chỉ mục là số trang của bản in, được giữ nguyên như in. Thông tin liên hệ của tác giả trong phần tiểu sử được giữ nguyên. Phần giới thiệu trước về Tập Hai (Phần Ba và Phần Bốn) ở cuối sách được giữ nguyên như in, dù không thuộc nội dung tường thuật của tập này. Một mục chỉ mục bị lỗi, dạng rút gọn của mục đầy đủ đứng ngay sau nó và cùng số trang, đã được lược bỏ. Sách không có dòng kết thúc in sẵn. Không có đoạn nào không đọc được trong bản nguồn điện tử này; một trích dẫn in sai đã được sửa nơi nội dung xác định duy nhất một câu khác, và các mâu thuẫn về niên đại hay sự kiện trong phần tường thuật lịch sử được giữ nguyên như in.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+18 giáo sĩ – trong ngữ cảnh này: một giáo sĩ thuộc ban nhân sự của một nhà thờ chính tòa hay nhà thờ đại học. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch này được thực hiện từ tập tin điện tử do Thư Viện Chapel phát hành (qua trang Monergism), chứa cả Phần Một và Phần Hai trong một tập tin duy nhất; niên đại in trong sách là 2013–2014. Tựa in trên trang tựa có mạo từ "A" và ghi "Phần Một và Phần Hai", trong khi tựa trong danh mục ghi "Tập 1–2 (Năm 100–1516)"; phạm vi niên đại in cho từng phần là năm 33–754 và năm 754–1517, và tiêu đề của bản dịch dùng tựa trong danh mục. Trang quảng bá của nhà phát hành đã được lược bỏ vì không thuộc nội dung tác phẩm. Các chú thích cuối sách (18 chú thích) được giữ nguyên tại cuối sách, tương ứng với các con số chú thích in kèm trong bài; số trang trong phần chỉ mục là số trang của bản in, được giữ nguyên như in. Thông tin liên hệ của tác giả trong phần tiểu sử được giữ nguyên. Phần giới thiệu trước về Tập Hai (Phần Ba và Phần Bốn) ở cuối sách được giữ nguyên như in, dù không thuộc nội dung tường thuật của tập này. Một mục chỉ mục bị lỗi, dạng rút gọn của mục đầy đủ đứng ngay sau nó và cùng số trang, đã được lược bỏ. Sách không có dòng kết thúc in sẵn. Không có đoạn nào không đọc được trong bản nguồn điện tử này; một trích dẫn in sai đã được sửa nơi nội dung xác định duy nhất một câu khác, và các mâu thuẫn về niên đại hay sự kiện trong phần tường thuật lịch sử được giữ nguyên như in.
+
+Mở trong trình đọc Về thư viện

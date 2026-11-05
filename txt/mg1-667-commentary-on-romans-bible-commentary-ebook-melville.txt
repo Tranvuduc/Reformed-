@@ -1,5 +1,12 @@
 BÌNH GIẢI THƯ RÔ-MA
-Andrew Melville
+
+Andrew Melville · Commentary on Romans
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+BÌNH GIẢI THƯ RÔ-MA Andrew Melville
 
 MỤC LỤC
 
@@ -12,54 +19,71 @@ LỜI NÓI ĐẦU CỦA NGƯỜI HIỆU ĐÍNH
 LUẬN ĐỀ CỦA THƯ
 
 1.
-CHƯƠNG I (Phần 1)
+
+CHƯƠNG I (PHẦN 1)
 
 2.
-CHƯƠNG I (Phần 2)
+
+CHƯƠNG I (PHẦN 2)
 
 3.
+
 CHƯƠNG II
 
 4.
+
 CHƯƠNG III
 
 5.
+
 CHƯƠNG IV
 
 6.
+
 CHƯƠNG V
 
 7.
+
 CHƯƠNG VI
 
 8.
+
 CHƯƠNG VII
 
 9.
+
 CHƯƠNG VIII
 
 10.
+
 CHƯƠNG IX
 
 11.
+
 CHƯƠNG X
 
 12.
+
 CHƯƠNG XI
 
 13.
+
 CHƯƠNG XII
 
 14.
+
 CHƯƠNG XIII
 
 15.
+
 CHƯƠNG XIV
 
 16.
+
 CHƯƠNG XV
 
 17.
+
 CHƯƠNG XVI
 
 Ghi Chú của Người Hiệu Đính
@@ -126,7 +150,7 @@ Tiếp theo là phần thứ ba và cuối cùng của thư, mà chúng ta đã 
 
 Lời chào thăm mang tính tôn giáo hơn — hay lời từ biệt, nếu bạn thích — gồm một hoặc hai lời cầu nguyện thánh mà nhờ đó ông giao phó người Rô-ma cho ân điển của Đức Chúa Trời trong Đấng Christ, và một lời cầu nguyện thứ ba có phần công phu hơn, trong đó, truy ngược về mầu nhiệm của Phúc Âm từ những cội rễ sâu xa của nó, ông kết thúc thư.
 
-CHƯƠNG I (Phần 1)
+CHƯƠNG I (PHẦN 1)
 
 Ἔλεγχοι [“Những Lời Bác Bỏ/Chứng Minh”]
 
@@ -204,16 +228,13 @@ Nhân dịp này, ngài trình bày và giải thích bản án của mệnh đ�
 
 Τέλος [“Hết”].
 
-1.
-Bổ sung: “như đã lập Hội Thánh này”; vì thiếu những lời như vậy hoặc những lời tương tự, tác giả đã viết với lối đứt đoạn (anacoluthon).
+1. Bổ sung: “như đã lập Hội Thánh này”; vì thiếu những lời như vậy hoặc những lời tương tự, tác giả đã viết với lối đứt đoạn (anacoluthon).
 
-2.
-Thắc mắc: divitatione — sự tống tiền hay sự áp bức bằng của cải.
+2. Thắc mắc: divitatione — sự tống tiền hay sự áp bức bằng của cải.
 
-3.
-Trong bản thảo thì như vậy; nhưng tác giả tìm thấy từ ấy ở đâu thì tôi không sao đoán được bằng bất kỳ sự phỏng đoán nào. Nếu bạn thay bằng “sắc sảo” hay “mắt tinh” thì có lẽ bạn theo đúng ý thật của tác giả.
+3. Trong bản thảo thì như vậy; nhưng tác giả tìm thấy từ ấy ở đâu thì tôi không sao đoán được bằng bất kỳ sự phỏng đoán nào. Nếu bạn thay bằng “sắc sảo” hay “mắt tinh” thì có lẽ bạn theo đúng ý thật của tác giả.
 
-CHƯƠNG I (Phần 2)
+CHƯƠNG I (PHẦN 2)
 
 Thư của Phao-lô gửi người Rô-ma là một bản tóm lược thiêng liêng về toàn bộ Cơ Đốc giáo. Nó gồm ba phần — προλόγῳ [“trong lời nói đầu”], λόγῳ [“trong bài luận”], và ἐπιλόγῳ [“trong lời kết”]; hay đầu, thân, và kết luận — theo cách của một sinh vật sống hoàn hảo, như Plato nói về mọi bài diễn văn hoàn hảo. Lời nói đầu hay lời tựa kéo dài đến câu 17, và nói về sự kêu gọi của ngài và lòng nhiệt thành của ngài đối với người Rô-ma — nhờ đó ngài được thúc đẩy để viết thư. Ngài bàn về sự kêu gọi của mình trong mệnh đề đầu tiên, nơi cần lưu ý sự lược bỏ động từ nhằm diễn tả cảm xúc — cũng như trong lời chào thăm. “Phao-lô gửi người Rô-ma” — bổ sung ἐπιστέλλει [“ngài gửi thư”] hoặc γράφει [“ngài viết”]. Chủ đề của mệnh đề này được khuếch đại và minh họa bằng nhiều luận cứ — từ thuộc tính chức vụ hay bổn phận nói chung, tức là ngài là đầy tớ của Đấng Christ, mang một chức vụ công khai dưới Đấng Christ là vua và chúa; nói riêng, ngài là sứ đồ, mà ngài đã được kêu gọi cách hợp pháp và hiệu quả cho chức vụ ấy — qua hội đồng trưởng lão tại Antioch và ἀμέσως [“trực tiếp”] từ Đức Chúa Trời từ trong lòng mẹ, tức là từ đời đời (Ga-la-ti i.) — (tuy nhiên κλητός [“được gọi”] không phải luôn biểu thị “được kêu gọi cách hiệu quả”: Ma-thi-ơ xx. 16: πολλοὶ γάρ εἰσι κλητοί, ὀλίγοι δ᾽ ἐκλεκτοί [“vì nhiều người được gọi nhưng ít người được chọn”] — chống lại sự phân biệt đã được thừa nhận). Ngài cũng không chỉ được kêu gọi mà còn ἀφορισμένος [“được biệt riêng”] — bởi tác quyền của Đức Thánh Linh (Công Vụ xiii., nơi Đức Thánh Linh phân biệt rõ ràng giữa ἀφορισμόν [“sự biệt riêng”] và κλῆσιν [“sự kêu gọi”] và dạy rằng sự kêu gọi sau đi trước sự biệt riêng trước) — bổ sung: và điều này là vì sự rao giảng Phúc Âm, vốn là chủ đề hay vấn đề mà chức sứ đồ bận rộn với nó, cũng như sự kêu gọi và sự biệt riêng thuộc về các nguyên nhân hiệu quả của sứ đồ.
 
@@ -285,17 +306,13 @@ Thêm vào 23 thói xấu quái gở này, sứ đồ nói thêm trong câu cu�
 
 Sự thừa nhận luật thiêng liêng này có nguồn gốc, không còn nghi ngờ gì nữa, từ những quan niệm được gieo trồng bởi tự nhiên, những quan niệm này tiến triển qua lý trí và cảm giác, và tăng trưởng theo tuổi tác, thành sự thừa nhận công lý thiêng liêng ấy — và tâm trí con người bị trói buộc bởi ý thức về sự gian ác. Và đây là sự xác tín chung của nhân loại, bị quật ngã trong sự đổ nát đáng thương của sự sa ngã này: rằng, vì có tội trước mặt Đức Chúa Trời về sự bất kính bất chính đối với Đấng mà họ biết bởi tự nhiên — qua sự quay lưng của ý chí khỏi Đức Chúa Trời, sự lang thang của tâm trí về Đức Chúa Trời, và sự méo mó hay phi lý bên ngoài của lời nói và việc làm chống lại Đức Chúa Trời qua εἰδωλομανίας [sự thờ hình tượng] bên ngoài — họ chuốc lấy cho mình, và như thể bóp nặn từ vị Thẩm Phán tối cao, một ἀντιμισθίαν [“sự báo trả”] ba phần cho sự bất kính bất chính ba phần đối với Đức Chúa Trời, nhờ đó họ hành hạ và trừng phạt chính mình như bằng chính những đao phủ của mình. Thế nhưng, theo cách mà hình phạt, tương ứng với tội lỗi, lại làm tăng thêm tội lỗi và chồng chất sự bất kính và bất chính lên đến mức không đo lường được, với một sự gia tăng mới của sự bất kính và bất chính; và vì con người biết rõ mà vẫn cố ý phạm tội như vậy chống lại Đức Chúa Trời và chống lại chính mình, nên họ không thể không là ἀναπολόγητοι [“không thể bào chữa”].4 Từ đây, sứ đồ suy ra ở đầu chương thứ hai, từ tiền đề này — “mọi người đều bất chính” — “Vậy nên, hỡi kẻ giả hình, là người khéo che giấu các thói xấu của mình và phô trương vẻ đạo đức trong khi gay gắt và cay đắng công kích, quở trách các thói xấu của người khác, dù ngươi là ai đi nữa, ngươi cũng không thể bào chữa.”
 
-1.
-Xem Whately’s Logic, chương iii. § 4.
+1. Xem Whately’s Logic, chương iii. § 4.
 
-2.
-Claude đã cung cấp từ Hy Lạp này chỉ sự tham lam.
+2. Claude đã cung cấp từ Hy Lạp này chỉ sự tham lam.
 
-3.
-Claude đã cung cấp các từ Hy Lạp trong đoạn văn này.
+3. Claude đã cung cấp các từ Hy Lạp trong đoạn văn này.
 
-4.
-Claude đã cung cấp từ Hy Lạp chỉ sự không thể bào chữa.
+4. Claude đã cung cấp từ Hy Lạp chỉ sự không thể bào chữa.
 
 CHƯƠNG II
 
@@ -317,8 +334,7 @@ Câu 21 — lời bác bỏ: “Vậy nên, hỡi ngươi là người dạy d�
 
 Vì vậy, ở câu 25, ông nói phép cắt bì trở thành sự không cắt bì — tức là, một Do Thái giáo bề ngoài thuộc loại này, với luật pháp bị vi phạm, phải được kể như tính Dân Ngoại, và cả hai đều không đóng góp gì hơn cho sự xưng công chính bởi việc làm trước mặt Đức Chúa Trời. Như vậy, ở câu 26, khi ông quy cho sự không cắt bì — tức là, cho một Dân Ngoại và một người không cắt bì — việc giữ luật pháp hay các lễ nghi của luật pháp, ông không khẳng định gì ngoại trừ có điều kiện: nếu có một người như vậy, tính Dân Ngoại của người ấy sẽ được kể cho người ấy như Do Thái giáo, và Dân Ngoại ấy sẽ đúng đắn được kể là người Giu-đa. Điều kiện ở câu 27 cũng tương tự: “điều vốn bởi tự nhiên là sự không cắt bì” — tức là, một người vốn không cắt bì mà làm trọn hay thi hành luật pháp. Không phải rằng có ai làm trọn hay thi hành luật pháp ngoại trừ trong Đấng Christ được nắm lấy bởi đức tin, như mọi Cơ Đốc nhân chân thật đều làm — nhưng điều này không liên quan gì đến sự công chính của việc làm, vốn là điều đang được tranh luận tại đây. Ông gọi người Giu-đa là τὸν διὰ γράμματος καὶ περιτομῆς [“kẻ nhờ chữ viết và phép cắt bì”], tức là, người được trang bị hay nương cậy vào chữ viết và phép cắt bì, và phạm tội chống lại luật pháp trong sự tự tin vào luật pháp bề ngoài và phép cắt bì. Vậy nên, khi ông nói rằng Dân Ngoại giữ luật pháp sẽ kết án người Giu-đa vi phạm luật pháp, ông nói điều này trên giả thuyết — trừ khi có lẽ bạn hiểu đó là một tín hữu từ trong Dân Ngoại và một Cơ Đốc nhân. Vì vậy, ở câu 28, ông định nghĩa người Giu-đa chân thật và phép cắt bì chân thật — không phải bởi dấu hiệu bề ngoài của sự xưng nhận, hay bởi luật pháp và phép cắt bì, mà bởi hiệu năng bên trong của Đức Thánh Linh, tức là, bởi sự ăn năn và đức tin. Chống lại điều này, ông đặt γράμμα [“chữ viết”], tức là, chữ viết của luật pháp đã chết và giết chết nếu không có Đấng Christ, như II Cô-rinh-tô iii. giải thích với sự rõ ràng lớn lao. Như vậy, ông đối lập xác thịt với tấm lòng, như chữ viết đối lập với Đức Thánh Linh (câu 29) — [οὗ ὁ ἔπαινος] [“sự khen ngợi của người ấy”] — lời khen ngợi của người Giu-đa xứng đáng với tên gọi ấy không đến từ loài người, những người chỉ nhìn vào những điều bề ngoài, mà đến từ Đức Chúa Trời, Đấng nhìn vào và chấp nhận sự biến đổi bên trong của tấm lòng.
 
-1.
-Claude đã cung cấp từ Hy Lạp chỉ người.
+1. Claude đã cung cấp từ Hy Lạp chỉ người.
 
 CHƯƠNG III
 
@@ -360,17 +376,13 @@ Từ câu 29 ông trở lại giải thích tính chung của sự xưng công c
 
 Với sự công chính của Đức Chúa Trời — vốn cũng thuộc về đức tin, và chung không phân biệt — đã được thiết lập như vậy, ông đáp lại sự phản đối nảy sinh từ kết luận chung và từ danh xưng luật pháp, đã được nhắc đến nhiều lần và bị loại khỏi sự công chính. “Nếu chúng ta được xưng công chính bởi đức tin mà không có việc làm của luật pháp, thì đức tin dường như làm cho luật pháp ra vô hiệu và khiến sức mạnh của nó trở nên bất lực và nhàn rỗi” — vì đó là ý nghĩa của καταργεῖν [“làm cho ra vô hiệu / hủy bỏ / khiến cho không còn hiệu lực”], và như vậy là hủy bỏ luật pháp hoàn toàn. Sự phản đối này ông loại bỏ bằng cách gạt nó sang một bên như điều phi lý và phạm thượng, và bằng cách thay thế hiệu quả ngược lại của đức tin — tức là luật pháp được thiết lập, nghĩa là giáo lý sứ đồ về sự công chính theo Phúc Âm của đức tin này càng thúc đẩy và làm sáng tỏ giáo lý và sức mạnh của luật pháp, và của Đấng Christ, như đã được nói sau đó.
 
-1.
-Claude đã cung cấp λόγια θεοῦ.
+1. Claude đã cung cấp λόγια θεοῦ.
 
-2.
-Claude đã chèn các từ Hy Lạp trong dấu ngoặc vuông; bản gốc chỉ trích καὶ μή.
+2. Claude đã chèn các từ Hy Lạp trong dấu ngoặc vuông; bản gốc chỉ trích καὶ μή.
 
-3.
-Tiêu đề bằng tiếng Syriac trước câu 19.
+3. Tiêu đề bằng tiếng Syriac trước câu 19.
 
-4.
-Claude đã cung cấp các từ Hy Lạp.
+4. Claude đã cung cấp các từ Hy Lạp.
 
 CHƯƠNG IV
 
@@ -432,8 +444,7 @@ Và đây là về sự so sánh những điều không bằng nhau. Phép so s�
 
 Từ những điều này có thể suy ra A-đam được gọi là hình bóng của Đấng Christ theo nghĩa nào. Câu 20: “Nhưng luật pháp lại bước vào” — παρὰ τὴν εὐαγγελίαν [“bên cạnh lời hứa của ân điển”], như Piscator nói: bên cạnh lời hứa của ân điển. “Nếu sự bất chính của A-đam đã đủ để định tội mọi người, thì cần gì luật pháp?” Ông đáp: để sự ngoan cố của bản tính, bị luật pháp khiêu khích, làm tăng thêm tội lỗi — và, khi tội lỗi đã tăng thêm như vậy, ân điển càng tăng thêm. Vì những điều được tha thứ càng nhiều và càng nặng nề thì sự dồi dào của ân điển càng phong phú. Tuy nhiên, mục đích là sự sử dụng của ân điển tràn đầy (Câu 21): “để ân điển cai trị qua sự công chính đưa đến sự sống đời đời” — trong những lời này ông dường như gọi ân điển qua sự công chính là sự công chính nhưng không của Đấng Christ, như trên đây. Ông minh họa sự cai trị của sự công chính này bằng phép so sánh về tội lỗi, vốn đã cai trị trong sự chết — vì dường như ἐν τῷ θανάτῳ [“trong sự chết”] nên được hiểu như vậy. Vậy các nguyên nhân của sự sống và sự chết được so sánh với nhau đến nỗi mọi điều trong Đấng Christ từ ân điển của Đức Chúa Trời đều kỳ diệu hơn nhiều về hiệu năng cho sự sống so với những điều trong A-đam theo bản tính đối với sự chết đời đời. Từ đó cũng có thể hiểu rằng phần thứ hai này của chương từ Câu 11 trở đi không kém phần thuộc về việc chứng minh sự chắc chắn của sự cứu rỗi so với phần thứ nhất — như tôi đã nói lúc mở đầu. Đến nỗi toàn bộ chương thứ năm này quan tâm đến sự cứu rỗi được ban qua Phúc Âm, như các chương trước quan tâm đến sự công chính được bày tỏ qua Phúc Âm — như đã được đề ra trong chương i. Các câu 16 và 17.
 
-1.
-Claude đã bổ sung ἐστὶν.
+1. Claude đã bổ sung ἐστὶν.
 
 CHƯƠNG VI
 
@@ -469,11 +480,9 @@ Tiền đề nhỏ (Câu 17) được minh họa bằng một lời tạ ơn, nh
 
 Và đây là về lời khuyên nhủ thứ nhất theo đuổi sự thánh khiết, được minh họa xuyên suốt bằng phép so sánh kéo dài về chủ và đầy tớ. Tiếp theo là lời khuyên nhủ thứ hai, từ phép so sánh về hôn nhân cũ và hôn nhân mới, trong chương 7.
 
-1.
-Nghĩa là, một khi một tội phạm đã chết, quyền lực của tội ác trên người ấy được giải trừ.
+1. Nghĩa là, một khi một tội phạm đã chết, quyền lực của tội ác trên người ấy được giải trừ.
 
-2.
-Xem Camerarius.
+2. Xem Camerarius.
 
 CHƯƠNG VII
 
@@ -509,8 +518,7 @@ Câu hỏi nảy sinh trong tâm trí: há tâm trí, ý chí, sự vui thích v
 
 Ông kết luận rằng từ cuộc xung đột và đấu tranh của xác thịt và Đức Thánh Linh, ông có sẵn một lập luận cho hy vọng tốt lành — vì từ đó được xác lập rằng ông thuộc về số những người được tái sinh mà ông đang giữ vai trò — và vì vậy tạ ơn Đức Chúa Trời trong Đấng Christ.
 
-1.
-Xem Junius về Xuất Ê-díp-tô Ký chương 20.
+1. Xem Junius về Xuất Ê-díp-tô Ký chương 20.
 
 CHƯƠNG VIII
 
@@ -598,8 +606,7 @@ Khi những điều này đã được xác lập, ông suy ra trong câu 30 ngu
 
 Vậy tóm lại của chương thứ chín là như sau: người Do Thái phần lớn đã bị loại bỏ, nhưng Đức Chúa Trời không thất bại trong việc giữ những lời hứa đã ban cho dòng dõi của Áp-ra-ham và cho người Y-sơ-ra-ên — vì dòng dõi thật của Áp-ra-ham và Y-sơ-ra-ên thật, là những người mà các lời hứa thuộc về, phải được tính không phải theo bản tính mà theo ân điển; bởi ân điển ấy mà từ đời đời Đức Chúa Trời đã định trong chính Ngài và tuyển chọn trong Đấng Christ, theo ý muốn tốt lành của ý chí Ngài, những người mà Ngài sẽ cứu vì vinh quang của ân điển và lòng thương xót của Ngài. Ngài cũng đã định từ đời đời, bởi ý chí công chính nhất của Ngài, để định tội đời đời và làm cứng lòng trong cặn bã của sự ô uế của họ những người mà Ngài sẽ hủy diệt cách công chính — vừa vì cớ bày tỏ vinh quang của quyền năng và sự công chính của Ngài trên họ, vừa vì cớ minh họa vinh quang của lòng thương xót Ngài đối với những người được tuyển chọn. Mưu định đời đời này của Ngài, Ngài đã bày tỏ trong thời gian bằng cách kêu gọi Áp-ra-ham từ dòng dõi của Sem, và con trai của Áp-ra-ham là Y-sác, và con trai của Y-sác là Gia-cốp, và dòng dõi của ông là người Y-sơ-ra-ên — trong khi đó các dân tộc khác, xa lạ với quốc gia Y-sơ-ra-ên và bị loại khỏi Hội Thánh hữu hình, đã biến mất trong những sự mê tín của họ. Tuy nhiên, qua các tiên tri, Đức Chúa Trời đã tiên báo cả sự kêu gọi dân Ngoại lẫn sự loại bỏ người Do Thái — vì những người sau sẽ ngoan cố loại bỏ Đấng Christ khi Ngài được dâng lên trong Phúc Âm, trong khi những người trước sẽ ôm lấy Ngài bằng đức tin bởi ân điển, theo những lời sấm của các Tiên Tri.
 
-1.
-Claude đã cung cấp từ Hy Lạp.
+1. Claude đã cung cấp từ Hy Lạp.
 
 CHƯƠNG X
 
@@ -633,14 +640,11 @@ Từ điều này, ông trình bày ἀντίθεσιν [“sự đối lập”
 
 Ông kết thúc toàn bộ sự trình bày này — kéo dài từ chương 9 trở đi — về sự tuyển chọn và sự định tội đời đời, sự kêu gọi và sự loại bỏ của cả người Do Thái lẫn Dân Ngoại, bằng một lời thốt lên kinh ngạc trước sự khôn ngoan, sự công chính, và αὐταρκείας [“sự tự đủ”] của Đức Chúa Trời — kẻo có ai tranh luận với Đức Chúa Trời về sự nghiêm khắc của các sự phán xét Ngài, hoặc đo lường các mưu định của Ngài bằng khả năng nhỏ bé của lý trí mình. Đức Chúa Trời còn xa mới mắc nợ bất kỳ ai điều gì, đến nỗi mọi vật đều nợ Ngài cả sự sáng tạo lẫn sự bảo tồn của chúng. Vì vậy, thật là công bằng nhất khi mọi vật đều được quy về vinh hiển Ngài. Ἀνεξερεύνητα [“không thể dò thấu”] và ἀνεξιχνίαστα [“không thể lần theo”] — sự chuyển nghĩa thứ nhất là từ các mỏ vàng hay vàng chôn giấu; sự thứ hai là từ những thợ săn hay những kẻ trộm gia súc, mà dấu chân của chúng được những con chó đánh hơi theo dấu dùng để lần theo. Hãy lưu ý rằng các giới từ ἐξ [“từ”] và διά [“qua”] được quy cho Đức Chúa Trời, Đấng hơn cả nguyên nhân tác thành — vừa là nguyên nhân sinh thành vừa là nguyên nhân bảo tồn của mọi vật. Giới từ trước thuộc về hiệu năng của Đức Chúa Trời trong việc sinh thành, giới từ sau thuộc về hiệu năng của Đức Chúa Trời trong việc bảo tồn; cũng như giới từ thứ ba — εἰς 3[“đến”] — được nói về mục đích, là mục đích cao nhất và tối hậu của mọi vật: tức là vinh hiển của Đức Chúa Trời. Vì chỉ một mình Ngài xứng đáng trọn vẹn mọi vinh hiển, chắc chắn Ngài không cho ai dự phần vinh hiển với Ngài — như trong Đấng Tiên Tri: “Ta sẽ chẳng nhường vinh hiển Ta cho kẻ khác.” Vậy thì, điều gì sẽ được thiết lập trong ἀκροάσει [“một khóa giảng”] về chất thể và hình thức cùng các nguyên nhân vật lý? Chúng là những nguyên lý của bản thể hay những nguyên nhân của sự chuyển động hay nghỉ ngơi trong các vật tự nhiên? Nhưng về những vấn đề này, xin nói ở nơi khác.
 
-1.
-Nghĩa là, một trường hợp, nhờ đó một ý kiến nào đó — δόξα τις — thích hợp để thuyết phục được đưa ra. Xem Aristot. Rhet. ii. 25, 26.
+1. Nghĩa là, một trường hợp, nhờ đó một ý kiến nào đó — δόξα τις — thích hợp để thuyết phục được đưa ra. Xem Aristot. Rhet. ii. 25, 26.
 
-2.
-Như trong bản thảo; nhưng tôi rất nghi ngờ có một lỗi nào đó hoặc ở tác giả hoặc ở người sao chép tại điểm này: từ này, theo như tôi biết, không xuất hiện ở bất cứ nơi nào trong Cicero.
+2. Như trong bản thảo; nhưng tôi rất nghi ngờ có một lỗi nào đó hoặc ở tác giả hoặc ở người sao chép tại điểm này: từ này, theo như tôi biết, không xuất hiện ở bất cứ nơi nào trong Cicero.
 
-3.
-Claude đã cung cấp từ Hy Lạp.
+3. Claude đã cung cấp từ Hy Lạp.
 
 CHƯƠNG XII
 
@@ -686,8 +690,7 @@ Tiêu đề thứ tư thuộc về lòng nhân từ: đối với mọi thánh �
 
 Và điều này là về điều răn phổ quát của sự nên thánh, được áp dụng cho các chức vụ trong Hội Thánh và các đức hạnh đạo đức. Tiếp theo là sự áp dụng của nó cho các bổn phận chính trị và chức tế lễ. Παραγγέλματα περὶ ἠθικῶν ἀρετῶν ἐστι, περὶ τῆς εἰς ἀλλήλους ὁμονοίας καὶ περὶ τῆς πρὸς θεὸν λατρείας, καὶ περὶ τῆς πρὸς ἀντικειμένους ἀνεξικακίας [“Đây là những điều răn về các đức hạnh đạo đức — về sự hòa thuận lẫn nhau, về sự thờ phượng đối với Đức Chúa Trời, và về sự nhẫn nhịn đối với kẻ chống đối”].
 
-1.
-Claude đã cung cấp từ Hy Lạp.
+1. Claude đã cung cấp từ Hy Lạp.
 
 CHƯƠNG XIII
 
@@ -779,8 +782,7 @@ Cũng lưu ý từ λειτουργῆσαι [“phục vụ”] trong câu 27 �
 
 Cuối cùng, ông kết thúc lời biện hộ thứ hai này bằng những lời cầu nguyện. Ở đây lưu ý rằng trong câu 5 ở trên, “Đức Chúa Trời của sự nhịn nhục và sự an ủi”; trong câu 13, “Đức Chúa Trời của sự trông cậy”; và nay trong câu 33, “Đức Chúa Trời của sự bình an” — là danh xưng được dùng, chỉ Đấng là tác giả và là Đấng ban cho từng điều ấy. Và trong tất cả những chỗ này, một danh xưng khác nhau của Đức Chúa Trời được dùng phù hợp với chính luận đề của lời cầu nguyện — tùy theo sự khác biệt của chúng — đến nỗi Đức Chúa Trời không hề được gọi tên hay được xưng bằng những danh xưng khác nhau một cách cẩu thả ở bất cứ chỗ nào. Vì các danh thiêng liêng được dùng phù hợp một cách khôn ngoan nhất và thích hợp nhất với bản chất của luận đề đang được bàn đến.
 
-1.
-Claude đã cung cấp từ Hy Lạp này.
+1. Claude đã cung cấp từ Hy Lạp này.
 
 CHƯƠNG XVI
 
@@ -842,11 +844,8 @@ HẾT
 
 Hết, được in bởi Daniel Demetrius, người đã theo bản chép của Andrew Melville trong vòng tám ngày, tại St Andrews ở Scotland, ngày 26 tháng Bảy năm 1601.
 
-1.
-Claude đã cung cấp từ Hy Lạp này.
+1. Claude đã cung cấp từ Hy Lạp này.
 
-2.
-Claude đã cung cấp từ Hy Lạp này.
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ văn bản điện tử duy nhất do Monergism Books cung cấp (định dạng EPUB/PDF); không có bản in đối chiếu khác. Văn bản tiếng Anh do Daniel Ritchie hiệu đính, theo bản chép tay năm 1601 của Daniel Demetrius (học trò của Melville tại St Andrews) và bản in của Hội Wodrow (1849); theo Ghi Chú của Người Hiệu Đính, bản dịch tiếng Anh được tạo ra với sự hỗ trợ của Claude. Nguyên văn kèm theo hệ thống chú thích có nội dung đầy đủ, được dịch theo thứ tự như in. Tác phẩm kết thúc bằng dòng 'HẾT' cho nguyên văn 'FINIS', tiếp theo là lời bạt của Demetrius và các chú thích cuối như in. Không có đoạn nào cần đánh dấu. Tám trích dẫn Kinh Thánh in sai trong nguyên văn đã được sửa tại khâu biên tập cuối, chỉ khi lời trích dẫn xác định duy nhất một câu Kinh Thánh; các trích dẫn khác, dù có vẻ lệch, vẫn được giữ nguyên như in vì không xác định được duy nhất.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+2. Claude đã cung cấp từ Hy Lạp này. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ văn bản điện tử duy nhất do Monergism Books cung cấp (định dạng EPUB/PDF); không có bản in đối chiếu khác. Văn bản tiếng Anh do Daniel Ritchie hiệu đính, theo bản chép tay năm 1601 của Daniel Demetrius (học trò của Melville tại St Andrews) và bản in của Hội Wodrow (1849); theo Ghi Chú của Người Hiệu Đính, bản dịch tiếng Anh được tạo ra với sự hỗ trợ của Claude. Nguyên văn kèm theo hệ thống chú thích có nội dung đầy đủ, được dịch theo thứ tự như in. Tác phẩm kết thúc bằng dòng 'HẾT' cho nguyên văn 'FINIS', tiếp theo là lời bạt của Demetrius và các chú thích cuối như in. Không có đoạn nào cần đánh dấu. Tám trích dẫn Kinh Thánh in sai trong nguyên văn đã được sửa tại khâu biên tập cuối, chỉ khi lời trích dẫn xác định duy nhất một câu Kinh Thánh; các trích dẫn khác, dù có vẻ lệch, vẫn được giữ nguyên như in vì không xác định được duy nhất.
+
+Mở trong trình đọc Về thư viện

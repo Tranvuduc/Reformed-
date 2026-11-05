@@ -1,5 +1,12 @@
 YÊU ĐỨC CHÚA TRỜI BẰNG CẢ TÂM TRÍ: PHÁC THẢO ĐỨC TIN CƠ ĐỐC
-Matthew Everhard
+
+Matthew Everhard · Love God with All Your Mind: An Outline of the Christian Faith (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+YÊU ĐỨC CHÚA TRỜI BẰNG CẢ TÂM TRÍ: PHÁC THẢO ĐỨC TIN CƠ ĐỐC Matthew Everhard
 
 Lời Nói Đầu
 
@@ -37,7 +44,7 @@ Ngài đáp rằng: Ngươi phải hết lòng, hết linh hồn, hết ý mà y
 
 3. Thần học chỉ đơn thuần là một nỗ lực để biết Đức Chúa Trời rõ hơn. Đây chính là cốt lõi của đức tin Cơ Đốc.
 
-Thần học đặt câu hỏi: ‘toàn bộ Kinh Thánh nói gì về ________.’ Nhưng cuộc tìm kiếm của chúng ta còn hơn cả tri thức – chúng ta muốn biết chính Đức Chúa Trời!
+Thần học đặt câu hỏi: ‘toàn bộ Kinh Thánh nói gì về .’ Nhưng cuộc tìm kiếm của chúng ta còn hơn cả tri thức – chúng ta muốn biết chính Đức Chúa Trời!
 
 “Mọi người đều cảnh báo tôi đừng nói với bạn điều tôi sắp nói trong cuốn sách cuối cùng này. Họ đều nói ‘độc giả bình thường không muốn thần học; hãy cho họ đạo Cơ Đốc thực tế đơn giản.’ Tôi đã bác bỏ lời khuyên của họ. Tôi không nghĩ độc giả bình thường lại ngốc nghếch đến thế. Thần học có nghĩa là ‘khoa học về Đức Chúa Trời,’ và tôi nghĩ bất cứ ai muốn suy nghĩ về Đức Chúa Trời đều muốn có những ý niệm rõ ràng và chính xác nhất về Ngài mà họ có thể có.”[1]
 
@@ -1087,11 +1094,11 @@ Substantia
 
 *Hyposteses
 
-**Prosopon
+Prosopon
 
 * Thật khó hiểu, Hyposteses đôi khi cũng được dùng để mô tả sự hợp nhất của Đức Chúa Trời. Sau này nó thường được dùng nhiều hơn cho Ba Ngôi Vị của Đức Chúa Trời.
 
-** Prosopon (theo nghĩa đen, khuôn mặt) về sau bị phản đối vì nó được những người theo phái Sabellius dùng, là những người dạy thuyết hình thức (modalism).
+Prosopon (theo nghĩa đen, khuôn mặt) về sau bị phản đối vì nó được những người theo phái Sabellius dùng, là những người dạy thuyết hình thức (modalism).
 
 "Nếu ai đó không thể theo kịp kiểu diễn ngôn kinh viện này, thì cứ đơn giản tin theo Kinh Thánh rằng các ngôi vị được phân biệt thành ba và tuyên bố rằng mình không biết đó là sự phân biệt kiểu gì, vì Kinh Thánh đã không mặc khải những điều này, hay rằng họ được phân biệt một cách siêu nhiên, không phải theo cách tự nhiên." (Peter Van Mastricht).[24]
 
@@ -7885,15 +7892,4 @@ Watson, Thomas. The Ten Commandments. (Carlisle, PA: Banner of Truth Trust), 199
 
 Wesley, John. Hymns of the United Methodist Church. The United Methodist Church, (Abington Press), 1989.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Nguồn: EPUB từ Monergism (https://www.monergism.com/love-god-all-your-mind-outline-christian-faith-ebook); sách của Rev. Dr. Matthew Everhard, Independent Reformed Media, bản in 2025 (theo trang bản quyền). Tác phẩm là phác thảo hệ thống thần học Cải Chánh đương đại — đích thực Cải Chánh, dịch toàn văn, không bỏ qua.
-- Loại trừ (theo quy tắc chỉ dịch tác phẩm thật): bìa, trang tựa, trang bản quyền/pháp lý, ghi chú phiên bản Kinh Thánh, mục lục điều hướng (TOC), khối "About the Author" và liên kết mạng xã hội, cùng toàn bộ phần ghi chú cuối sách [1]–[145] (chỉ là danh mục trích dẫn tham khảo, không phải văn xuôi).
-- Phần Bibliography (danh mục sách tham khảo) được dịch đầy đủ; tên sách, tên tác giả, nhà xuất bản, năm giữ nguyên tiếng Anh.
-- Trích dẫn Kinh Thánh theo phong cách bản dịch Việt 1934; tên sách và tên riêng Kinh Thánh theo dạng 1934. Trong các trích dẫn trực tiếp giữ cách viết 1934 nguyên gốc (ví dụ "Đức Chúa Jêsus", "Đức Giê-hô-va"), còn văn xuôi tuân thủ bảng thuật ngữ (Chúa Giê-xu Christ, Đức Chúa Trời...).
-- Các lỗi in/sai sót trích dẫn của nguyên tác được giữ nguyên như in, không đoán mò: "Economic (or Imminent) Trinity" (có lẽ là Immanent) — dịch kèm ghi chú trong ngoặc; "1 Cor. 2:10-1" (có lẽ 2:10-11); Ma-thi-ơ 20:40 cho câu trích Ma-thi-ơ 12:40; Công-vụ 2:38–29 (có lẽ 2:38–39); Công-vụ 16:25-24 [NEEDS REVIEW: có thể là 16:25-34]; "(2 Cor. 4:5)" cho nội dung 1 Cô-rinh-tô 4:5; "Giăng 1:26" (có lẽ 13:26); "Matthew 28:187-20"; Lê-vi Ký 16:6 ghi "con chiên đực" trong khi bản 1934 là "con bò đực"; Xuất Ê-díp-tô Ký 12:12 cho nội dung 12:11; Lu-ca 24:45 (bản hiện đại: câu 44); "(1 Cor. 7:39; 9:5; 1 Peter 3:7;" thiếu dấu ngoặc đóng; Cô-lô-se 3:19-21 cho nội dung 3:18; Ma-thi-ơ 19:10 cho nội dung 19:12; "2 John 2:18" cho nội dung 1 Giăng 2:18; "1 Tê-sa-lô-ni-ca 5:6-7" cho nội dung 1:6-7; "Ma-thi-ơ 2;2"; "Giăng 13:1-" gạch nối lửng.
-- Các lỗi chính tả trong nguyên tác được giữ nguyên: "Immanual Kant", "Gehennah", "Deitrich Bonhoeffer", "Guanilo" (Gaunilo), "Mohilinism" (Molinism), "Hindi" trong danh sách (hiểu là Ấn Độ giáo), "start relief" (hiểu là stark relief), "gardner/helper", "QHL", "Gregory Nazainzus", "Julian of Norwhich", "seperation", "pursuoit", "deterance", "leverite marriage"; "Frame, John.." (hai dấu chấm), "Lewis. C.S.", thiếu dấu chấm sau "Schaeffer, Francis", lỗi in tựa sách "the Devine".
-- Từ "Heath" trong bảng Kierkegaard [NEEDS REVIEW: có thể là lỗi chính tả của "Health"].
-- "glad tidings"/"good news" (không phải gospel) dịch "tin vui"/"tin lành"; "favour" dịch "ân huệ" (phân biệt với grace = ân điển).
-- Số lượng [NEEDS REVIEW] nội tuyến trong thân bài: 2.
+Mở trong trình đọc Về thư viện

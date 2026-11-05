@@ -1,5 +1,12 @@
 THÚC ĐẨY SỰ CẢI CÁCH GIA ĐÌNH
-Daniel Cawdrey
+
+Daniel Cawdrey · Family Reformation Promoted
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+THÚC ĐẨY SỰ CẢI CÁCH GIA ĐÌNH Daniel Cawdrey
 
 Xuất bản lần đầu năm 1656
 
@@ -35,8 +42,7 @@ Tôi đã dựa ấn bản này trên lần in gốc năm 1656 của tác phẩm
 
 Các phần vấn đáp của tác phẩm đòi hỏi thêm một quyết định biên tập nữa. Cawdrey chỉ xác định các câu hỏi bằng “Q.” và các câu trả lời bằng “A.,” mà không đánh số các câu hỏi. Để dễ đọc và dễ tra cứu, tôi đã đánh số các câu hỏi theo thứ tự và mở rộng các chữ viết tắt này thành “Question” và “Answer.” Ở những chỗ Cawdrey chia một câu trả lời thành nhiều điểm riêng biệt được đánh số, tôi đã giữ nguyên các sự phân chia ấy đồng thời đưa các con số vào trong câu trả lời dưới dạng các số trong ngoặc đơn. Ở những chỗ ông trước tiên nêu số điểm rồi ngay sau đó liệt kê chúng, tôi đã lược bỏ phần đếm mở đầu thừa thãi ấy. Những thay đổi này ảnh hưởng đến cách trình bày các phần vấn đáp chứ không ảnh hưởng đến nội dung hay thứ tự của chúng.
 
-Tôi tớ của quý vị trong Đấng Christ,
-Aaron Sturgill
+Tôi tớ của quý vị trong Đấng Christ, Aaron Sturgill
 
 GIỚI THIỆU
 
@@ -174,7 +180,7 @@ Lợi ích của việc dạy dỗ và mài giũa các nguyên tắc này một 
 
 Một điều nữa, rồi tôi sẽ xong. Vì các bổn phận sẽ không dễ dàng được tiếp nhận hay tiêu hóa, nếu chúng không được chứng tỏ là do thẩm quyền thiêng liêng áp đặt, tôi đã (noi theo vị Tiến sĩ đáng kính trong việc này) củng cố hầu hết chúng bằng các đoạn Kinh Thánh, trong đó nêu ra, hoặc các mệnh lệnh rõ ràng, hoặc những gương nổi bật của các thánh đồ, những lời bình giải tốt nhất về các mệnh lệnh, hoặc những sự thái quá đáng chú ý của những kẻ gian ác, chống lại quy tắc của Lời Chúa, mà trong việc mở ra và giải thích các đáp án, gia chủ chính phải lưu ý và áp dụng. Tôi không cần nói thêm gì nữa để thuyết phục các người cai quản gia đình bắt tay vào việc thực hành và thi hành các chỉ dẫn này, ngoài những gì tôi đã nói trong bài giảng. Tôi chỉ thêm lời cầu nguyện ngắn gọn này cho họ và những người thuộc về họ: Nguyện Đức Chúa Trời của mọi ân điển ban phước và làm thịnh vượng họ, để vinh hiển danh Ngài, tôn trọng đạo đức, lợi ích chung của Hội Thánh và nhà nước, và để gia tăng sự an ủi của họ ở đây, cùng sự cứu rỗi và vinh hiển đời đời về sau. A-men.
 
-Chương 1
+CHƯƠNG 1
 
 1. Các Bổn Phận của Con Cái Đối với Cha Mẹ
 
@@ -256,7 +262,7 @@ Câu hỏi 19. Chúng nợ người giám hộ và gia sư, v.v., bổn phận g
 
 Đáp. Sự phục tùng và tôn kính, vì họ có sự tín thác và trách nhiệm của cha mẹ đối với chúng (Ê-xơ-tê 2:20; II Các Vua 2:12, 15; Ga-la-ti 4:2).
 
-Chương 2
+CHƯƠNG 2
 
 2. Các Bổn Phận của Cha Mẹ Đối với Con Cái
 
@@ -330,7 +336,7 @@ Câu hỏi 17. Bổn phận của gia sư, v.v., là gì?
 
 Đáp. (1) Dạy dỗ chúng tốt về đạo đức hay tôn giáo. (2) Về học vấn. (3) Về phong cách tốt.
 
-Chương 3
+CHƯƠNG 3
 
 3. Các Bổn Phận của Đầy Tớ Đối với Chủ
 
@@ -396,7 +402,7 @@ Câu hỏi 15. Còn có động cơ nào khác không?
 
 Đáp. Có: (1) Nếu chủ không thưởng cho họ, Đức Chúa Trời sẽ thưởng; nếu chủ đối xử bất công với họ, Đức Chúa Trời sẽ bênh vực họ trước chủ mình. Kẻ làm điều sai trái (dù là chủ) sẽ nhận lấy điều sai trái mình đã làm. Nơi Đức Chúa Trời không có sự thiên vị (Cô-lô-se 3:25). (2) Nhờ làm đầy tớ tốt, họ sẽ được chuẩn bị để làm chủ tốt. (3) Và chứng tỏ mình là đầy tớ tốt của Đức Chúa Trời, và thật sự có ân điển (Tít 2:10–11), và làm sáng danh Phúc Âm cùng đạo đức.
 
-Chương 4
+CHƯƠNG 4
 
 4. Các Bổn Phận của Chủ Đối với Đầy Tớ
 
@@ -440,7 +446,7 @@ Câu hỏi 9. Có những động cơ nào để thúc giục họ làm các b�
 
 Đáp. (1) Họ có một Chúa ở trên họ; điều này sẽ là cái thúc giục họ làm bổn phận, và là cái kìm giữ họ khỏi làm điều sai trái với đầy tớ, vì Ngài để ý đến cả hai. (2) Sự bình đẳng của họ, đối với Đức Chúa Trời; các ngươi cũng có một Chúa, nên cũng là bạn đầy tớ (Ma-thi-ơ 24:49). (3) Ở trên trời, đầy tớ cũng được nhận vào; nơi Đức Chúa Trời không có sự thiên vị. Thế mà khoảng cách giữa Đức Chúa Trời với họ còn lớn hơn nhiều so với khoảng cách giữa họ với đầy tớ mình.
 
-Chương 5
+CHƯƠNG 5
 
 5. Về Hôn Nhân Nói Chung
 
@@ -548,7 +554,7 @@ Câu hỏi 25. Những bổn phận nào liên quan đến cả hai, đối vớ
 
 Đến đây là các bổn phận chung cho cả hai; các bổn phận riêng của mỗi bên tiếp theo sau.
 
-Chương 6
+CHƯƠNG 6
 
 6. Các Bổn Phận của Người Vợ Đối với Chồng
 
@@ -674,7 +680,7 @@ Câu hỏi 30. Làm sao đó là một động cơ?
 
 Đáp. (1) Khi làm bổn phận của nàng đối với chồng, nàng làm điều đó cho Đấng Christ; và Ngài nhận lấy như vậy. (2) Khi từ chối hay bỏ bê bổn phận đối với chồng, nàng cũng làm như vậy đối với Đấng Christ.
 
-Chương 7
+CHƯƠNG 7
 
 7. Các Bổn Phận của Người Chồng Đối với Vợ
 
@@ -748,7 +754,6 @@ Câu hỏi 17. Người chồng có những động cơ nào để yêu vợ mì
 
 Đáp. Ngoài mệnh lệnh của Đức Chúa Trời, hai điều này: (1) Gương của Đấng Christ trong việc yêu Hội Thánh của Ngài, và trong đó là chính họ, nếu tin kính (Ê-phê-sô 5:25). Nay Đấng Christ yêu trước (I Giăng 4:19). Thật và chân thật, phó chính mình vì Hội Thánh (Ê-phê-sô 5:25). Một cách nhưng không (Phục Truyền Luật Lệ Ký 7:7–8). Một cách tinh sạch, để nên thánh cho Hội Thánh (Ê-phê-sô 5:26–27). Một cách bền vững (Giăng 13:1; Ô-sê 2:19). Các chồng cũng có thể làm như vậy. (2) Gương của chính mình (Ê-phê-sô 5:28–29). Vợ là chính mình; họ là một thịt.
 
-HẾT.
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch này được thực hiện từ ấn bản điện tử Monergism Books (năm 2026) của tác phẩm Family Reformation Promoted của Daniel Cawdrey, một ấn bản hiện đại hóa dựa trên bản in gốc năm 1656, với các câu hỏi giáo lý được đánh số theo thứ tự bởi người hiệu đính. Không có hệ thống chú thích nào trong nguồn. Không có dòng kết ngoài từ kết cuối sách. Một đoạn trong nguồn chỉ còn lại ghi chú thay cho một cụm từ bằng chữ cái không phải La-tinh; đoạn ấy được giữ nguyên như in kèm dấu lưu ý thay vì phỏng đoán. Một số trích dẫn in sai đã được sửa nơi nội dung đoạn trích dẫn hoặc ví dụ xác định duy nhất một câu khác; các trích dẫn đáng ngờ khác được giữ nguyên nơi không xác định được cách sửa duy nhất. Các câu Kinh Thánh được trích theo lối dịch năm 1934.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+HẾT. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch này được thực hiện từ ấn bản điện tử Monergism Books (năm 2026) của tác phẩm Family Reformation Promoted của Daniel Cawdrey, một ấn bản hiện đại hóa dựa trên bản in gốc năm 1656, với các câu hỏi giáo lý được đánh số theo thứ tự bởi người hiệu đính. Không có hệ thống chú thích nào trong nguồn. Không có dòng kết ngoài từ kết cuối sách. Một đoạn trong nguồn chỉ còn lại ghi chú thay cho một cụm từ bằng chữ cái không phải La-tinh; đoạn ấy được giữ nguyên như in kèm dấu lưu ý thay vì phỏng đoán. Một số trích dẫn in sai đã được sửa nơi nội dung đoạn trích dẫn hoặc ví dụ xác định duy nhất một câu khác; các trích dẫn đáng ngờ khác được giữ nguyên nơi không xác định được cách sửa duy nhất. Các câu Kinh Thánh được trích theo lối dịch năm 1934.
+
+Mở trong trình đọc Về thư viện

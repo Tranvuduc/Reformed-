@@ -1,5 +1,12 @@
 ĐÊM KHÓC LÓC: KHI CON CÁI ĐỨC CHÚA TRỜI CHỊU KHỔ
-Horatius Bonar
+
+Horatius Bonar · Night of Weeping; When God's People Suffer
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+ĐÊM KHÓC LÓC: KHI CON CÁI ĐỨC CHÚA TRỜI CHỊU KHỔ Horatius Bonar
 
 “Sự khóc-lóc đến trọ ban đêm, nhưng buổi sáng bèn có sự vui-mừng”—Thi-thiên 30:5.
 
@@ -781,10 +788,4 @@ Và điều này là đủ. Nó an ủi và làm chúng ta vui mừng trên con 
 
 1 Phi-e-rơ 4:13
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Loại trừ theo quy tắc chỉ dịch tác phẩm thật: khối trang tựa của EPUB (gộp vào hai dòng đầu theo định dạng chuẩn của đợt dịch); Mục lục điều hướng (Table of Contents) ở đầu sách — các tiêu đề chương đều xuất hiện đầy đủ trong thân bài; khối bản quyền/pháp lý của Monergism Books ở cuối EPUB (dòng bản quyền của nguồn còn in sai "Nnight of Weeping").
-- 1 điểm [NEEDS REVIEW] nội tuyến: tại Chương IX, nguồn in "Am I loving my worldliness of spirit..." — rất có thể là lỗi in, lẽ ra là "losing"; bản dịch giữ theo bản in và gắn cờ tại chỗ, không đoán sửa.
-- Một cước chú trong nguồn trích "Song of Solomon 26:3" (sách Nhã-ca chỉ có 8 chương) — lỗi trích dẫn của nguồn; giữ nguyên như in trong bản dịch ("19 Nhã-ca 26:3").
-- Tựa sách: danh sách MG-2 ghi "When God's People Suffer", nhưng trang tựa của sách in "When God's Children Suffer" — tựa Việt dịch theo trang tựa của sách.
-- Trích dẫn Kinh Thánh dùng phong cách bản dịch 1934; tên sách và tên riêng Kinh Thánh dùng dạng 1934 (Thi-thiên, Khải-huyền, Hê-bơ-rơ...); tên riêng ngoài Kinh Thánh giữ nguyên tiếng Anh. Các dòng cước chú dạng số (ví dụ "1 Thi-thiên 66:11, 12") được dịch tại chỗ theo đúng vị trí trong nguồn.
+Mở trong trình đọc Về thư viện

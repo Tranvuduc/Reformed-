@@ -1,5 +1,12 @@
 PHI-LA-ĐEN-PHI: BÀI LUẬN VỀ TÌNH YÊU THƯƠNG ANH EM
-William Gearing
+
+William Gearing · Philadelphia: A Treatise of Brotherly Love (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+PHI-LA-ĐEN-PHI: BÀI LUẬN VỀ TÌNH YÊU THƯƠNG ANH EM William Gearing
 
 [H] GỬI ĐẤNG RẤT ĐÁNG KÍNH:
 
@@ -879,10 +886,4 @@ Giờ đây (để kết luận) xin tôi khuyên mọi Cơ Đốc nhân hãy gi
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bản dịch theo đúng bảng thuật ngữ của đợt MG-2; justification = "sự xưng công chính"; grace = "ân điển"; gospel = "Phúc Âm"; God = "Đức Chúa Trời"; baptism = "báp-têm"/"lễ báp-têm"; ordinances/sacrament = "nghi thức thánh" (không dùng "bí tích"). Bible quotes rendered in 1934-Vietnamese-Bible style only; no character-by-character verification claimed.
-- LOẠI TRỪ (theo quy tắc true-work-only, đã công bố): khối tựa đề/sách xuất bản P0000–P0021 (tựa sách, trang bìa, ghi chú bản quyền Project Puritas/Monergism, Editor's Note về quá trình chép tay TCP) — ngưng tụ vào header; Mục lục điều hướng P0022–P0085 (các chương đều xuất hiện trong thân sách); khối bản quyền/pháp lý của Monergism Books ở cuối (P1127–P1138).
-- VẤN ĐỀ NGUỒN (giữ nguyên như bản in, không đoán): PARA 898 — "morning" ("aversion, and morning the heart from them") gần như chắc chắn là lỗi OCR của "turning" — [NEEDS REVIEW]; PARA 948 — ký hiệu "<H&G>" trong nguồn (chỗ từ Hy Lạp/Hê-bơ-rơ không chép được) — [NEEDS REVIEW]; các ký hiệu "<H&G>" khác (PARA 192, 554 và trong chunk_05) được giữ nguyên trong bản dịch, không đoán.
-- CÁC SỬA LỖI IN RÕ RÀNG ĐƯỢC ĐIỀU CHỈNH (ghi nhận, không đánh dấu NEEDS REVIEW): chunk_02 — "Psal. 139.27.22" → dịch "Thi thiên 139:21, 22"; "1 Job. 5.1" → "1 Giăng 5:1". chunk_04 — "wrs" → "was" (P0874); "1 Job. 3.12/15" → "1 Giăng" (P0866, P0942); "left their own conscience" → "lest" (P0944); "of Cod" → "of God" (P0922). chunk_05 — "2 Tim. 1.17" giữ nguyên như bản in (văn bản dường như muốn nói 1:7).
-- Các cụm Latin của tác giả được giữ nguyên kèm bản dịch trong ngoặc; các tiêu đề [H2]/[H3] của nguồn được chuẩn hóa thành [H]; các thẻ cấu trúc [P] trống bị loại bỏ.
+Mở trong trình đọc Về thư viện

@@ -1,6 +1,12 @@
 GIẢNG GIẢI KINH LẠY CHA
-Ezekiel Hopkins
-GIẢNG GIẢI KINH LẠY CHA
+
+Ezekiel Hopkins · Exposition of the Lord’s Prayer (Catechism eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+GIẢNG GIẢI KINH LẠY CHA Ezekiel Hopkins GIẢNG GIẢI KINH LẠY CHA
 
 GIẢNG GIẢI KINH LẠY CHA
 
@@ -112,13 +118,13 @@ Và, đối với bất cứ ai nói rằng Kinh Lạy Cha là một miếng qu�
 
 Vì vậy, như tôi hy vọng, đã rõ ràng và hiển nhiên rằng chúng ta có thể thường cầu nguyện bằng những lời này, và chúng ta phải luôn cầu nguyện theo cách này; bây giờ chúng ta hãy tiến đến xem xét chính Bài Cầu Nguyện. Trong đó có Bốn Phần này.
 
-I. LỜI MỞ ĐẦU, hay PHẦN DẪN NHẬP, của bài cầu nguyện.
+I. LỜI MỞ ĐẦU, HAY PHẦN DẪN NHẬP, CỦA BÀI CẦU NGUYỆN.
 
-II. CÁC LỜI CẦU XIN, hay LỜI KHẨN CẦU, chúng ta trình lên Đức Chúa Trời; mà phần lớn của bài cầu nguyện gồm có.
+II. CÁC LỜI CẦU XIN, HAY LỜI KHẨN CẦU, CHÚNG TA TRÌNH LÊN ĐỨC CHÚA TRỜI; MÀ PHẦN LỚN CỦA BÀI CẦU NGUYỆN GỒM CÓ.
 
-III. LỜI TÔN VINH, hay SỰ NGỢI KHEN: vì ngợi khen là một phần cần thiết của sự cầu nguyện.
+III. LỜI TÔN VINH, HAY SỰ NGỢI KHEN: VÌ NGỢI KHEN LÀ MỘT PHẦN CẦN THIẾT CỦA SỰ CẦU NGUYỆN.
 
-IV. PHẦN KẾT LUẬN, hay SỰ XÁC NHẬN tất cả, trong tiểu từ đóng ấn, A-men.
+IV. PHẦN KẾT LUẬN, HAY SỰ XÁC NHẬN TẤT CẢ, TRONG TIỂU TỪ ĐÓNG ẤN, A-MEN.
 
 Tôi sẽ nói đôi chút về những điều này một cách tổng quát; rồi, sau đó, chi tiết hơn về từng phần, như phân đoạn Kinh Thánh của tôi hướng dẫn.
 
@@ -3490,10 +3496,4 @@ H. Ai phải làm Lời Cầu Nguyện Riêng Tư hay Gia Đình?
 
 Đ. Mọi Chủ và Người cai quản Gia đình: và người ấy không được làm việc này thưa thớt hơn, mỗi buổi sáng và buổi tối. Buổi sáng, cầu nguyện là chiếc chìa khóa, mở kho tàng sự thương xót của Đức Chúa Trời: buổi tối, nó là chiếc chìa khóa, đóng chúng ta lại dưới sự bảo vệ và gìn giữ của Ngài.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Full work translated from the clean Monergism EPUB (spine-order extraction, ~86,792 English words, no OCR), paragraph-for-paragraph (1,745 paragraphs) with seams spot-checked at every chunk joint. Scripture rendered in 1934-style Vietnamese with Vietnamese book names; Greek/Latin phrases kept verbatim as in the source.
-- Excluded per the true-work-only rule: the 5 trailing Monergism Books copyright/legal boilerplate paragraphs after the "-----" separator at the end of the EPUB (© 2022 notice, eBook license terms, PO Box contact).
-- Q./A. prefixes rendered H./Đ. per Vietnamese catechism convention; "the Lord" in Psalm quotations rendered "Đức Giê-hô-va".
-- Terminology per the batch table: sự xưng công chính, ân điển, Phúc Âm, Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Hội Thánh, nghi thức thánh (sacraments), báp-têm/lễ báp-têm; no banned terms in the body.
-- [NEEDS REVIEW] flags: honest source-side flags, nothing guessed — see inline markers.
+Mở trong trình đọc Về thư viện

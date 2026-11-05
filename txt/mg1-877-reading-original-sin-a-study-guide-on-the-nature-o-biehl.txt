@@ -1,5 +1,12 @@
 ĐỌC HIỂU TỘI NGUYÊN THỦY: HƯỚNG DẪN NGHIÊN CỨU TÁC PHẨM KINH ĐIỂN VỀ BẢN CHẤT CỦA SỰ BẠI HOẠI BẨM SINH
-Craig Biehl
+
+Craig Biehl · Reading Original Sin: A Study Guide on the Nature of Inborn Depravity (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+ĐỌC HIỂU TỘI NGUYÊN THỦY: HƯỚNG DẪN NGHIÊN CỨU TÁC PHẨM KINH ĐIỂN VỀ BẢN CHẤT CỦA SỰ BẠI HOẠI BẨM SINH Craig Biehl
 
 Lời Tựa Của Tác Giả
 
@@ -27,14 +34,11 @@ Các trích dẫn từ cuốn Original Sin được lấy từ tập ba của �
 
 Tôi biết ơn Kenneth Minkema của Trung Tâm Jonathan Edwards tại Đại học Yale vì sự hỗ trợ liên tục của ông đối với các dự án Edwards khác nhau. Xin cảm ơn Robert Boss, Giám đốc JESociety, vì sự khích lệ và quan tâm của ông trong việc xuất bản tác phẩm này, và cảm ơn Sam Storms vì lời giới thiệu xuất sắc của ông cho cẩm nang. Lời cảm ơn đặc biệt dành cho người vợ yêu dấu của tôi, Angelica, nếu không có nàng tôi đã không thể viết cẩm nang học tập này. Sau hết, mọi lời cảm tạ đều thuộc về Đức Chúa Trời và Đấng Cứu Rỗi kỳ diệu của chúng ta, Đấng bằng quyền năng, sự khôn ngoan, và tình yêu lớn lao đã cung ứng cho chúng ta một phương thuốc vô hạn cho sự yếu đuối lớn lao của chúng ta. Nguyện rằng một sự hiểu biết sâu hơn về nhu cầu của chúng ta về Christ sẽ gia tăng lòng trân trọng của chúng ta đối với sự cứu rỗi trong và qua Ngài. Nguyện mọi vinh hiển đều thuộc về Ngài.
 
-1.
-Edwards, Original Sin, Yale Works, 3:103; Xem thêm, Jonathan Edwards and Sereno Edwards Dwight, The Works of Jonathan Edwards, ed. Edward Hickman, vol. 1 (1974; reprint, Edinburgh: Banner of Truth Trust, 1834), 145. Mọi trích dẫn từ cuốn Original Sin trong cẩm nang học tập này đều sẽ được lấy từ tập 3 của ấn bản Yale của tuyển tập The Works of Jonathan Edwards, sau đây trích dẫn là “Yale”; hoặc, từ tập 1 của ấn bản Banner of Truth của tuyển tập The Works of Jonathan Edwards, sau đây trích dẫn là “BT.” Các trích dẫn từ một ấn bản sẽ được đối chiếu chéo với ấn bản kia.
+1. Edwards, Original Sin, Yale Works, 3:103; Xem thêm, Jonathan Edwards and Sereno Edwards Dwight, The Works of Jonathan Edwards, ed. Edward Hickman, vol. 1 (1974; reprint, Edinburgh: Banner of Truth Trust, 1834), 145. Mọi trích dẫn từ cuốn Original Sin trong cẩm nang học tập này đều sẽ được lấy từ tập 3 của ấn bản Yale của tuyển tập The Works of Jonathan Edwards, sau đây trích dẫn là “Yale”; hoặc, từ tập 1 của ấn bản Banner of Truth của tuyển tập The Works of Jonathan Edwards, sau đây trích dẫn là “BT.” Các trích dẫn từ một ấn bản sẽ được đối chiếu chéo với ấn bản kia.
 
-2.
-Xem Jonathan Edwards, Freedom of the Will, ed. Paul Ramsey, The Works of Jonathan Edwards, vol. 1 (New Haven: Yale University Press, 1957); “The Nature of True Virtue,” trong Jonathan Edwards, Ethical Writings, ed. Paul Ramsey, vol. 8 of The Works of Jonathan Edwards (New Haven: Yale University Press, 1989), 537-627; “Justification by Faith Alone,” trong Jonathan Edwards, Sermons and Discourses, 1734-1738, ed. M. X. Lesser, vol. 19 of The Works of Jonathan Edwards (New Haven: Yale University Press, 2001), 147-242; Jonathan Edwards, Religious Affections, ed. John Edwin Smith, vol. 2 of The Works of Jonathan Edwards (New Haven: Yale University Press, 1959). Các tác phẩm trên cũng được tìm thấy trong Jonathan Edwards and Sereno Edwards Dwight, The Works of Jonathan Edwards, ed. Edward Hickman, vol. 1 (1974; reprint, Edinburgh: Banner of Truth Trust, 1834). Xem thêm bản bìa mềm Jonathan Edwards, The Religious Affections (Edinburgh: Banner of Truth Trust, 1986). Tất cả các tác phẩm trên đều dễ dàng truy cập và tìm kiếm trực tuyến tại edwards.yale.edu, trang web của Trung Tâm Jonathan Edwards tại Đại học Yale. Các tham chiếu đến cuốn The Religious Affections sẽ được trích dẫn sau đây lần lượt là Affections, Yale; Affections, BT, Works; và, Affections, BT, paperback.
+2. Xem Jonathan Edwards, Freedom of the Will, ed. Paul Ramsey, The Works of Jonathan Edwards, vol. 1 (New Haven: Yale University Press, 1957); “The Nature of True Virtue,” trong Jonathan Edwards, Ethical Writings, ed. Paul Ramsey, vol. 8 of The Works of Jonathan Edwards (New Haven: Yale University Press, 1989), 537-627; “Justification by Faith Alone,” trong Jonathan Edwards, Sermons and Discourses, 1734-1738, ed. M. X. Lesser, vol. 19 of The Works of Jonathan Edwards (New Haven: Yale University Press, 2001), 147-242; Jonathan Edwards, Religious Affections, ed. John Edwin Smith, vol. 2 of The Works of Jonathan Edwards (New Haven: Yale University Press, 1959). Các tác phẩm trên cũng được tìm thấy trong Jonathan Edwards and Sereno Edwards Dwight, The Works of Jonathan Edwards, ed. Edward Hickman, vol. 1 (1974; reprint, Edinburgh: Banner of Truth Trust, 1834). Xem thêm bản bìa mềm Jonathan Edwards, The Religious Affections (Edinburgh: Banner of Truth Trust, 1986). Tất cả các tác phẩm trên đều dễ dàng truy cập và tìm kiếm trực tuyến tại edwards.yale.edu, trang web của Trung Tâm Jonathan Edwards tại Đại học Yale. Các tham chiếu đến cuốn The Religious Affections sẽ được trích dẫn sau đây lần lượt là Affections, Yale; Affections, BT, Works; và, Affections, BT, paperback.
 
-3.
-Các bản BT và Yale đôi khi khác nhau ở những điểm nhỏ, không quan trọng, như những điều chỉnh nhỏ về ngữ pháp, hay về những từ được in nghiêng hay viết hoa để nhấn mạnh.
+3. Các bản BT và Yale đôi khi khác nhau ở những điểm nhỏ, không quan trọng, như những điều chỉnh nhỏ về ngữ pháp, hay về những từ được in nghiêng hay viết hoa để nhấn mạnh.
 
 Phần Một: Bằng Chứng Về Tội Nguyên Thủy Trong Kinh Nghiệm, Kinh Thánh, Và Các Khẳng Định Của Những Người Phản Đối Giáo Lý
 
@@ -668,617 +672,413 @@ Nói cách khác, quan điểm của Turnbull rằng ý chí không có bản t�
 
 8. Nếu tội nguyên thủy không có thật, há chẳng phải sẽ có một số người trên thế gian chưa từng phạm tội, không chịu sự đoán phạt của Đức Chúa Trời, và do đó không cần sự cứu rỗi bởi Đấng Christ sao?
 
-1.
- BT, 146.1; Yale, 107.
+1. BT, 146.1; Yale, 107.
 
-2.
- Ibid.
+2. Ibid.
 
-3.
- Ibid.
+3. Ibid.
 
-4.
- BT, 146.1ff.; Yale, 107ff.
+4. BT, 146.1ff.; Yale, 107ff.
 
-5.
- BT, 146.1-2; Yale, 108.
+5. BT, 146.1-2; Yale, 108.
 
-6.
- BT, 146.2; Yale, 108-109.
+6. BT, 146.2; Yale, 108-109.
 
-7.
- Yale, 108-109; BT, 146.2. Edwards đã trích dẫn sai câu nói nầy là của Turnbull, nhưng trong mục của ông trong "Sách Các Cuộc Tranh Luận," Edwards đã trích dẫn đúng là của Hutcheson từ tác phẩm The Nature and Conduct of the Passions (London, 1728, ấn bản thứ 3, 1742), 185-87. Xem Works of Jonathan Edwards Online, Quyển 27, Sổ tay "Controversies" (Trung tâm Jonathan Edwards, Đại học Yale, 2008), 96.
+7. Yale, 108-109; BT, 146.2. Edwards đã trích dẫn sai câu nói nầy là của Turnbull, nhưng trong mục của ông trong "Sách Các Cuộc Tranh Luận," Edwards đã trích dẫn đúng là của Hutcheson từ tác phẩm The Nature and Conduct of the Passions (London, 1728, ấn bản thứ 3, 1742), 185-87. Xem Works of Jonathan Edwards Online, Quyển 27, Sổ tay "Controversies" (Trung tâm Jonathan Edwards, Đại học Yale, 2008), 96.
 
-8.
- John Taylor, The Scripture-Doctrine of Original Sin, Proposed to Free and Candid Examination (ấn bản thứ 3, Belfast, 1746), 353. Sau đây trích dẫn là Taylor, Original Sin. Được trích trong BT, 146.2; Yale, 109.
+8. John Taylor, The Scripture-Doctrine of Original Sin, Proposed to Free and Candid Examination (ấn bản thứ 3, Belfast, 1746), 353. Sau đây trích dẫn là Taylor, Original Sin. Được trích trong BT, 146.2; Yale, 109.
 
-9.
- BT, 147.1-2; Yale, 109-111.
+9. BT, 147.1-2; Yale, 109-111.
 
-10.
- Chúng ta đều quen thuộc với châm ngôn, "quyền lực làm bại hoại." Thật ra, quyền lực không làm bại hoại, tự nó. Đúng hơn, quyền lực cất bỏ những sự kiềm chế đối với hành vi xấu, cho phép sự bại hoại bẩm sinh và trước đó bị kiềm chế trong lòng được biểu lộ mà không có hậu quả tiêu cực tức thì. Hitler đã gian ác trước khi hắn có được quyền lực cho phép hắn hành động mà không có hậu quả tiêu cực tức thì cho chính mình.
+10. Chúng ta đều quen thuộc với châm ngôn, "quyền lực làm bại hoại." Thật ra, quyền lực không làm bại hoại, tự nó. Đúng hơn, quyền lực cất bỏ những sự kiềm chế đối với hành vi xấu, cho phép sự bại hoại bẩm sinh và trước đó bị kiềm chế trong lòng được biểu lộ mà không có hậu quả tiêu cực tức thì. Hitler đã gian ác trước khi hắn có được quyền lực cho phép hắn hành động mà không có hậu quả tiêu cực tức thì cho chính mình.
 
-11.
- BT, 147.1-2; Yale, 109-111.
+11. BT, 147.1-2; Yale, 109-111.
 
-12.
- BT, 147.2-148.1; Yale, 111-113.
+12. BT, 147.2-148.1; Yale, 111-113.
 
-13.
- BT, 147.2ff.; Yale, 111ff.
+13. BT, 147.2ff.; Yale, 111ff.
 
-14.
- BT, 147.2; Yale, 111.
+14. BT, 147.2; Yale, 111.
 
-15.
- Ibid. Ở đây Edwards khéo léo dùng chính Taylor để chống lại Taylor, cho thấy sự không nhất quán giữa sự phủ nhận tội nguyên thủy của Taylor với sự khẳng định của Taylor về sự cần thiết của ân điển Đức Chúa Trời trong Đấng Christ cho sự cứu rỗi. Edwards lưu ý rằng nhiều luận chứng của Taylor về Phúc Âm tùy thuộc vào "sự giả định" về tội nguyên thủy, dù Taylor không thấy mối liên hệ. Xem BT, 147.1-2, chú thích; Yale, 111-112, và chú thích 6.
+15. Ibid. Ở đây Edwards khéo léo dùng chính Taylor để chống lại Taylor, cho thấy sự không nhất quán giữa sự phủ nhận tội nguyên thủy của Taylor với sự khẳng định của Taylor về sự cần thiết của ân điển Đức Chúa Trời trong Đấng Christ cho sự cứu rỗi. Edwards lưu ý rằng nhiều luận chứng của Taylor về Phúc Âm tùy thuộc vào "sự giả định" về tội nguyên thủy, dù Taylor không thấy mối liên hệ. Xem BT, 147.1-2, chú thích; Yale, 111-112, và chú thích 6.
 
-16.
- BT, 148.1; Yale, 113.
+16. BT, 148.1; Yale, 113.
 
-17.
- BT, 148.1; Yale, 114.
+17. BT, 148.1; Yale, 114.
 
-18.
- BT, 148.1ff.; Yale, 114ff.
+18. BT, 148.1ff.; Yale, 114ff.
 
-19.
- BT, 148.1; Yale, 114-115.
+19. BT, 148.1; Yale, 114-115.
 
-20.
- BT, 148.1-149.2; Yale, 115-119.
+20. BT, 148.1-149.2; Yale, 115-119.
 
-21.
- Edwards đưa ra một loạt trích dẫn từ tác phẩm Key to the Apostolic Writings, with a Paraphrase and Notes on the Epistle to the Romans (Dublin, 1746) của Taylor, sau đây gọi là Key, ở đó Taylor khẳng định rằng luật pháp đạo đức vẫn còn hiệu lực, rằng nó đòi hỏi sự vâng lời trọn vẹn, rằng nó bắt "mọi sự vi phạm phải chịu hình phạt của sự chết," và rằng nó chẳng cung cấp "sự giúp đỡ hay hy vọng nào cho kẻ có tội; mà để mặc hắn dưới quyền năng của tội lỗi, và án chết" (tr. 207). Xem Yale 116-18; BT, 148.2-149.1. Edwards chứng minh rằng trong nhiều trường hợp Taylor rõ ràng khẳng định trong Key của mình điều mà ông phủ nhận trong luận văn về Tội Nguyên Thủy. Edwards lưu ý, "Tôi ý thức những điều nầy hoàn toàn không nhất quán với những gì ông ta nói ở chỗ khác, về khả năng đầy đủ trong mọi nhân loại để hằng làm trọn bổn phận mà Đức Chúa Trời đòi hỏi nơi 'họ,' mà không cần phải vi phạm luật pháp Đức Chúa Trời chút nào (tr. 339, 340, 344, 348). Nhưng tôi hy vọng, độc giả sẽ không cho rằng tôi phải chịu trách nhiệm về những sự không nhất quán của ông ta." Yale, 117, chú thích 7; BT, 149.1-2, chú thích. Các số trang tham chiếu là theo tác phẩm Original Sin của Taylor.
+21. Edwards đưa ra một loạt trích dẫn từ tác phẩm Key to the Apostolic Writings, with a Paraphrase and Notes on the Epistle to the Romans (Dublin, 1746) của Taylor, sau đây gọi là Key, ở đó Taylor khẳng định rằng luật pháp đạo đức vẫn còn hiệu lực, rằng nó đòi hỏi sự vâng lời trọn vẹn, rằng nó bắt "mọi sự vi phạm phải chịu hình phạt của sự chết," và rằng nó chẳng cung cấp "sự giúp đỡ hay hy vọng nào cho kẻ có tội; mà để mặc hắn dưới quyền năng của tội lỗi, và án chết" (tr. 207). Xem Yale 116-18; BT, 148.2-149.1. Edwards chứng minh rằng trong nhiều trường hợp Taylor rõ ràng khẳng định trong Key của mình điều mà ông phủ nhận trong luận văn về Tội Nguyên Thủy. Edwards lưu ý, "Tôi ý thức những điều nầy hoàn toàn không nhất quán với những gì ông ta nói ở chỗ khác, về khả năng đầy đủ trong mọi nhân loại để hằng làm trọn bổn phận mà Đức Chúa Trời đòi hỏi nơi 'họ,' mà không cần phải vi phạm luật pháp Đức Chúa Trời chút nào (tr. 339, 340, 344, 348). Nhưng tôi hy vọng, độc giả sẽ không cho rằng tôi phải chịu trách nhiệm về những sự không nhất quán của ông ta." Yale, 117, chú thích 7; BT, 149.1-2, chú thích. Các số trang tham chiếu là theo tác phẩm Original Sin của Taylor.
 
-22.
- Yale, 119; BT, 149.2.
+22. Yale, 119; BT, 149.2.
 
-23.
- BT, 149.2ff.; Yale, 120ff.
+23. BT, 149.2ff.; Yale, 120ff.
 
-24.
- BT, 149.2; Yale, 120-121.
+24. BT, 149.2; Yale, 120-121.
 
-25.
- BT, 149.2; Yale, 120.
+25. BT, 149.2; Yale, 120.
 
-26.
- BT, 149.2-150.1; Yale, 121-122.
+26. BT, 149.2-150.1; Yale, 121-122.
 
-27.
- BT, 150.1; Yale, 121-122.
+27. BT, 150.1; Yale, 121-122.
 
-28.
- BT, 150.1; Yale, 121.
+28. BT, 150.1; Yale, 121.
 
-29.
- BT, 150.1-2; Yale, 123-124. Ở đây nữa, như trong toàn luận văn, Edwards khéo léo dùng chính giáo lý của Tiến sĩ Taylor để chứng minh giáo lý về tội nguyên thủy.
+29. BT, 150.1-2; Yale, 123-124. Ở đây nữa, như trong toàn luận văn, Edwards khéo léo dùng chính giáo lý của Tiến sĩ Taylor để chứng minh giáo lý về tội nguyên thủy.
 
-30.
- Yale, 124; BT, 150.2.
+30. Yale, 124; BT, 150.2.
 
-31.
- BT, 150.2-151.1; Yale, 124-125.
+31. BT, 150.2-151.1; Yale, 124-125.
 
-32.
- BT, 150.2; Yale, 124.
+32. BT, 150.2; Yale, 124.
 
-33.
- BT, 151.1ff.; Yale, 125ff.
+33. BT, 151.1ff.; Yale, 125ff.
 
-34.
- Yale, 125; BT, 151.1.
+34. Yale, 125; BT, 151.1.
 
-35.
- Yale, 126; BT, 151.1.
+35. Yale, 126; BT, 151.1.
 
-36.
- Yale, 126-127; BT, 151.1-2.
+36. Yale, 126-127; BT, 151.1-2.
 
-37.
- Ibid.
+37. Ibid.
 
-38.
- Yale, 127; BT, 151.2.
+38. Yale, 127; BT, 151.2.
 
-39.
- BT, 151.2ff.; Yale, 128ff.
+39. BT, 151.2ff.; Yale, 128ff.
 
-40.
- BT, 151.2; Yale, 128.
+40. BT, 151.2; Yale, 128.
 
-41.
- BT, 151.2ff.; Yale, 128ff.
+41. BT, 151.2ff.; Yale, 128ff.
 
-42.
- BT, 151.2-152.1; Yale, 128-129.
+42. BT, 151.2-152.1; Yale, 128-129.
 
-43.
- Yale, 128; BT, 152.1.
+43. Yale, 128; BT, 152.1.
 
-44.
- Yale, 129; BT, 152.1.
+44. Yale, 129; BT, 152.1.
 
-45.
- Ibid.
+45. Ibid.
 
-46.
- BT, 152.1-153.1; Yale, 130-133.
+46. BT, 152.1-153.1; Yale, 130-133.
 
-47.
- BT, 152.1; Yale, 130.
+47. BT, 152.1; Yale, 130.
 
-48.
- Ibid.
+48. Ibid.
 
-49.
- BT, 152.1-2; Yale, 130.
+49. BT, 152.1-2; Yale, 130.
 
-50.
- BT, 152.2-153.1; Yale, 130-133.
+50. BT, 152.2-153.1; Yale, 130-133.
 
-51.
- BT, 153.1; Yale, 132-133.
+51. BT, 153.1; Yale, 132-133.
 
-52.
- Yale, 134ff.; BT, 153.1ff.
+52. Yale, 134ff.; BT, 153.1ff.
 
-53.
- Yale, 136ff.; BT, 153.2ff.
+53. Yale, 136ff.; BT, 153.2ff.
 
-54.
- Yale, 136; BT, 153.2.
+54. Yale, 136; BT, 153.2.
 
-55.
- Yale, 137ff.; BT, 154.1ff.
+55. Yale, 137ff.; BT, 154.1ff.
 
-56.
- BT, 154.2ff.; Yale, 139ff.
+56. BT, 154.2ff.; Yale, 139ff.
 
-57.
- BT, 154.2; Yale, 140.
+57. BT, 154.2; Yale, 140.
 
-58.
- Ibid.
+58. Ibid.
 
-59.
- BT, 154.2ff; Yale, 140ff.
+59. BT, 154.2ff; Yale, 140ff.
 
-60.
- Yale, 140-141; BT, 155.1.
+60. Yale, 140-141; BT, 155.1.
 
-61.
- Yale, 141; BT, 155.1.
+61. Yale, 141; BT, 155.1.
 
-62.
- BT, 155.2ff; Yale, 142ff.
+62. BT, 155.2ff; Yale, 142ff.
 
-63.
- BT, 155.2; Yale, 142-143.
+63. BT, 155.2; Yale, 142-143.
 
-64.
- BT, 155.2; Yale, 143.
+64. BT, 155.2; Yale, 143.
 
-65.
- BT, 155.2-156.1; Yale, 144-145.
+65. BT, 155.2-156.1; Yale, 144-145.
 
-66.
- BT, 156.1; Yale, 144. Để thảo luận thêm về bản chất của tình yêu chân thật đối với Đức Chúa Trời vì sự tuyệt hảo của Ngài, không đặt lợi ích bản thân lên hàng đầu, xem Affections, Yale, 2:240-253; BT, Works, 1:274-278; BT, paperback, 165-179.
+66. BT, 156.1; Yale, 144. Để thảo luận thêm về bản chất của tình yêu chân thật đối với Đức Chúa Trời vì sự tuyệt hảo của Ngài, không đặt lợi ích bản thân lên hàng đầu, xem Affections, Yale, 2:240-253; BT, Works, 1:274-278; BT, paperback, 165-179.
 
-67.
- BT, 156.1; Yale, 144-145.
+67. BT, 156.1; Yale, 144-145.
 
-68.
- BT, 156.1ff.; Yale, 145ff.
+68. BT, 156.1ff.; Yale, 145ff.
 
-69.
- BT, 156.1; Yale, 145.
+69. BT, 156.1; Yale, 145.
 
-70.
- Yale, 145-146; BT, 156.1-2.
+70. Yale, 145-146; BT, 156.1-2.
 
-71.
- Yale, 146; BT, 156.2.
+71. Yale, 146; BT, 156.2.
 
-72.
- BT, 156.2; Yale, 146.
+72. BT, 156.2; Yale, 146.
 
-73.
- BT, 156.2-158.1; Yale, 148-152.
+73. BT, 156.2-158.1; Yale, 148-152.
 
-74.
- BT, 156.2-157.1; Yale, 147-148.
+74. BT, 156.2-157.1; Yale, 147-148.
 
-75.
- BT, 156.2; Yale, 147.
+75. BT, 156.2; Yale, 147.
 
-76.
- BT, 156.2-157.2; Yale, 147-151.
+76. BT, 156.2-157.2; Yale, 147-151.
 
-77.
- Yale, 147; BT, 156.2-157.1.
+77. Yale, 147; BT, 156.2-157.1.
 
-78.
- Yale, 148; BT, 157.1.
+78. Yale, 148; BT, 157.1.
 
-79.
- BT, 157.1; Yale, 148.
+79. BT, 157.1; Yale, 148.
 
-80.
- BT, 157.1-158.1; Yale, 148-152.
+80. BT, 157.1-158.1; Yale, 148-152.
 
-81.
- BT, 157.1; Yale, 148.
+81. BT, 157.1; Yale, 148.
 
-82.
- Edwards trích dẫn Taylor, Turnbull và Locke, ba người chống đối giáo lý về tội nguyên thủy, như những người vô tình xác nhận tội nguyên thủy khi thừa nhận sự điên dại của việc thờ hình tượng trước bằng chứng rõ ràng về Đức Chúa Trời.
+82. Edwards trích dẫn Taylor, Turnbull và Locke, ba người chống đối giáo lý về tội nguyên thủy, như những người vô tình xác nhận tội nguyên thủy khi thừa nhận sự điên dại của việc thờ hình tượng trước bằng chứng rõ ràng về Đức Chúa Trời.
 
-83.
- Yale, 148; BT, 157.1.
+83. Yale, 148; BT, 157.1.
 
-84.
- John Locke, Essay Concerning Human Understanding (ấn bản 1, 1690), sau đây gọi tắt là Lock, Essay. Được Edwards trích dẫn trong BT, 157.1; Yale, 149. Edwards cũng trích dẫn Turnbull và Taylor như những người thừa nhận rằng thờ hình tượng là không thể bào chữa được, dù họ phủ nhận nguyên nhân phổ quát của nó — tội nguyên thủy. Xem BT, 157.1-158.1; Yale, 148-151.
+84. John Locke, Essay Concerning Human Understanding (ấn bản 1, 1690), sau đây gọi tắt là Lock, Essay. Được Edwards trích dẫn trong BT, 157.1; Yale, 149. Edwards cũng trích dẫn Turnbull và Taylor như những người thừa nhận rằng thờ hình tượng là không thể bào chữa được, dù họ phủ nhận nguyên nhân phổ quát của nó — tội nguyên thủy. Xem BT, 157.1-158.1; Yale, 148-151.
 
-85.
- Yale, 151-152; BT, 158.1.
+85. Yale, 151-152; BT, 158.1.
 
-86.
- BT, 158.1ff.; Yale, 152ff.
+86. BT, 158.1ff.; Yale, 152ff.
 
-87.
- Yale, 153; BT, 158.1.
+87. Yale, 153; BT, 158.1.
 
-88.
- BT, 158.2; Yale, 153-154.
+88. BT, 158.2; Yale, 153-154.
 
-89.
- BT, 158.2-159.2; Yale, 154-157. Chú ý, trong luận điểm hiện tại, Edwards dùng “reason” (lý trí) và “reasonable” (hợp lý) để chỉ cách con người thường suy nghĩ về những lợi ích thuộc đời tạm này. Như các luận điểm của luận văn này cho thấy, Edwards không tin rằng con người sa ngã suy nghĩ hay lập luận theo cách “trung lập” hay “vô tội”, vì sự hiểu biết và ý chí sa ngã (tâm lòng, tâm trí) đã hư hoại và chống nghịch Đức Chúa Trời.
+89. BT, 158.2-159.2; Yale, 154-157. Chú ý, trong luận điểm hiện tại, Edwards dùng “reason” (lý trí) và “reasonable” (hợp lý) để chỉ cách con người thường suy nghĩ về những lợi ích thuộc đời tạm này. Như các luận điểm của luận văn này cho thấy, Edwards không tin rằng con người sa ngã suy nghĩ hay lập luận theo cách “trung lập” hay “vô tội”, vì sự hiểu biết và ý chí sa ngã (tâm lòng, tâm trí) đã hư hoại và chống nghịch Đức Chúa Trời.
 
-90.
- Locke, Essay, được Edwards trích dẫn trong Yale, 153; BT, 158.1.
+90. Locke, Essay, được Edwards trích dẫn trong Yale, 153; BT, 158.1.
 
-91.
- Yale, 156-157; BT, 159.2. Locke, được Edwards trích dẫn trong Yale, 153; BT, 158.1. Một lần nữa, Edwards dùng một người chống đối tội nguyên thủy để chứng minh sự hiện hữu của tội nguyên thủy. Locke thừa nhận rằng giống như con người khước từ bằng chứng rõ ràng về Đức Chúa Trời, họ cũng hành động trái ngược với những rủi ro hiển nhiên liên quan đến lựa chọn không tìm kiếm Đức Chúa Trời bằng đời sống nhân đức. Theo Edwards, việc con người hành động trái ngược với sự hiểu biết ấy là bằng chứng của một “khuynh hướng bại hoại.” Đoạn văn của Locke gợi nhớ đến “Vụ Cược của Pascal,” dù Locke dùng luận điểm này như động lực cho đời sống nhân đức trong việc theo đuổi Đức Chúa Trời, trong khi luận điểm của Pascal hướng đến những người chưa tin để theo đuổi các phương tiện của ân điển hầu họ có thể đến với đức tin nơi Đấng Christ.
+91. Yale, 156-157; BT, 159.2. Locke, được Edwards trích dẫn trong Yale, 153; BT, 158.1. Một lần nữa, Edwards dùng một người chống đối tội nguyên thủy để chứng minh sự hiện hữu của tội nguyên thủy. Locke thừa nhận rằng giống như con người khước từ bằng chứng rõ ràng về Đức Chúa Trời, họ cũng hành động trái ngược với những rủi ro hiển nhiên liên quan đến lựa chọn không tìm kiếm Đức Chúa Trời bằng đời sống nhân đức. Theo Edwards, việc con người hành động trái ngược với sự hiểu biết ấy là bằng chứng của một “khuynh hướng bại hoại.” Đoạn văn của Locke gợi nhớ đến “Vụ Cược của Pascal,” dù Locke dùng luận điểm này như động lực cho đời sống nhân đức trong việc theo đuổi Đức Chúa Trời, trong khi luận điểm của Pascal hướng đến những người chưa tin để theo đuổi các phương tiện của ân điển hầu họ có thể đến với đức tin nơi Đấng Christ.
 
-92.
- Yale, 153; BT, 158.1-2.
+92. Yale, 153; BT, 158.1-2.
 
-93.
- BT, 159.1; Yale, 156.
+93. BT, 159.1; Yale, 156.
 
-94.
- BT, 158.2-159.1; Yale, 154-155.
+94. BT, 158.2-159.1; Yale, 154-155.
 
-95.
- BT, 159.1; Yale, 155.
+95. BT, 159.1; Yale, 155.
 
-96.
- BT, 159.2; Yale, 157.
+96. BT, 159.2; Yale, 157.
 
-97.
- Yale, 156; BT, 159.1.
+97. Yale, 156; BT, 159.1.
 
-98.
- Yale, 158-162; BT, 159.1-160.2.
+98. Yale, 158-162; BT, 159.1-160.2.
 
-99.
- Taylor, được Edwards trích dẫn, Yale, 158-159; BT, 159.2.
+99. Taylor, được Edwards trích dẫn, Yale, 158-159; BT, 159.2.
 
-100.
- Taylor, Key, 147; được Edwards trích dẫn trong Yale, 160-161; BT160.1-2.
+100. Taylor, Key, 147; được Edwards trích dẫn trong Yale, 160-161; BT160.1-2.
 
-101.
- Edwards trích dẫn Key, 259. Yale, 161; BT, 160.2. Ở đây, một lần nữa, như xuyên suốt luận văn, Edwards đưa ra bằng chứng thuyết phục về tính chân thật của giáo lý tội nguyên thủy bằng cách sử dụng chính những luận điểm mà Taylor và Turnbull dùng để phủ nhận nó, cho thấy tính thiếu nhất quán và tự mâu thuẫn trong các luận điểm của họ.
+101. Edwards trích dẫn Key, 259. Yale, 161; BT, 160.2. Ở đây, một lần nữa, như xuyên suốt luận văn, Edwards đưa ra bằng chứng thuyết phục về tính chân thật của giáo lý tội nguyên thủy bằng cách sử dụng chính những luận điểm mà Taylor và Turnbull dùng để phủ nhận nó, cho thấy tính thiếu nhất quán và tự mâu thuẫn trong các luận điểm của họ.
 
-102.
- Yale, 161; BT, 160.2.
+102. Yale, 161; BT, 160.2.
 
-103.
- Yale, 161-162; BT, 160.2.
+103. Yale, 161-162; BT, 160.2.
 
-104.
- BT, 160.2; Yale, 162-164.
+104. BT, 160.2; Yale, 162-164.
 
-105.
- Yale, 162; BT, 160.2-161.1.
+105. Yale, 162; BT, 160.2-161.1.
 
-106.
- Sđd.
+106. Sđd.
 
-107.
- Yale, 163; BT, 161.1.
+107. Yale, 163; BT, 161.1.
 
-108.
- BT, 161.1ff.; Yale, 164ff.
+108. BT, 161.1ff.; Yale, 164ff.
 
-109.
- Yale, 167-168; BT, 162.1-2.
+109. Yale, 167-168; BT, 162.1-2.
 
-110.
- Taylor, Key, 190. Được Edwards trích dẫn trong Yale, 165; BT, 161.1.
+110. Taylor, Key, 190. Được Edwards trích dẫn trong Yale, 165; BT, 161.1.
 
-111.
- Taylor, Original Sin, 168. Được Edwards trích dẫn trong Yale, 167; BT, 162.1.
+111. Taylor, Original Sin, 168. Được Edwards trích dẫn trong Yale, 167; BT, 162.1.
 
-112.
- Taylor, Original Sin, 259. Được Edwards trích dẫn trong Yale, 167; BT, 162.1. Taylor còn lưu ý thêm (dù Edwards không trích dẫn ở đây): “Có quan niệm nào phá hoại đức hạnh hơn là quan niệm cho rằng mình nhất thiết, ở mức độ nào đó, phải trở nên xấu xa? Và giáo lý phổ biến về Tội Nguyên Thủy chẳng phải có khuynh hướng rõ ràng là lan truyền quan niệm như vậy sao? Và chẳng đáng lo ngại sao khi nhiều con cái của những cha mẹ tốt đã suy đồi, bởi vì trong các hình thức giáo dục tôn giáo, chúng đã thấm nhuần những nguyên tắc xấu, những nguyên tắc thật sự trái ngược với sự thánh khiết?” Taylor, Original Sin, 259. Edwards sẽ đáp lại lời cáo buộc cho rằng giáo lý này cổ vũ tội lỗi ở phần sau.
+112. Taylor, Original Sin, 259. Được Edwards trích dẫn trong Yale, 167; BT, 162.1. Taylor còn lưu ý thêm (dù Edwards không trích dẫn ở đây): “Có quan niệm nào phá hoại đức hạnh hơn là quan niệm cho rằng mình nhất thiết, ở mức độ nào đó, phải trở nên xấu xa? Và giáo lý phổ biến về Tội Nguyên Thủy chẳng phải có khuynh hướng rõ ràng là lan truyền quan niệm như vậy sao? Và chẳng đáng lo ngại sao khi nhiều con cái của những cha mẹ tốt đã suy đồi, bởi vì trong các hình thức giáo dục tôn giáo, chúng đã thấm nhuần những nguyên tắc xấu, những nguyên tắc thật sự trái ngược với sự thánh khiết?” Taylor, Original Sin, 259. Edwards sẽ đáp lại lời cáo buộc cho rằng giáo lý này cổ vũ tội lỗi ở phần sau.
 
-113.
- BT, 162.2; Yale, 168.
+113. BT, 162.2; Yale, 168.
 
-114.
- Sđd.
+114. Sđd.
 
-115.
- Yale, 169; BT, 162.2.
+115. Yale, 169; BT, 162.2.
 
-116.
- BT, 162.2ff.; Yale, 169ff.
+116. BT, 162.2ff.; Yale, 169ff.
 
-117.
- BT, 162.2-163.1; Yale, 169-170.
+117. BT, 162.2-163.1; Yale, 169-170.
 
-118.
- Yale, 169; BT, 162.2.
+118. Yale, 169; BT, 162.2.
 
-119.
- Yale, 170; BT, 163.1.
+119. Yale, 170; BT, 163.1.
 
-120.
- Taylor, Original Sin, 122. Được Edwards trích dẫn trong Yale, 170; BT 163.1.
+120. Taylor, Original Sin, 122. Được Edwards trích dẫn trong Yale, 170; BT 163.1.
 
-121.
- BT, 163.1; Yale, 170.
+121. BT, 163.1; Yale, 170.
 
-122.
- BT, 163.1; Yale, 170-171.
+122. BT, 163.1; Yale, 170-171.
 
-123.
- Taylor, Original Sin, 68. Được Edwards trích dẫn trong Yale, 171; BT, 163.1.
+123. Taylor, Original Sin, 68. Được Edwards trích dẫn trong Yale, 171; BT, 163.1.
 
-124.
- Yale, 171; BT, 163.1.
+124. Yale, 171; BT, 163.1.
 
-125.
- BT, 163.1ff.; Yale, 171ff.
+125. BT, 163.1ff.; Yale, 171ff.
 
-126.
- BT, 163.1-2; Yale, 172.
+126. BT, 163.1-2; Yale, 172.
 
-127.
- BT, 163.1-164.2; Yale, 171-176.
+127. BT, 163.1-164.2; Yale, 171-176.
 
-128.
- BT, 163.2; Yale, 172-173.
+128. BT, 163.2; Yale, 172-173.
 
-129.
- BT, 163.2; Yale, 173.
+129. BT, 163.2; Yale, 173.
 
-130.
- BT, 163.2-164.1; Yale, 173.
+130. BT, 163.2-164.1; Yale, 173.
 
-131.
- BT, 164.1; Yale, 173-174.
+131. BT, 164.1; Yale, 173-174.
 
-132.
- BT, 164.1; Yale, 174.
+132. BT, 164.1; Yale, 174.
 
-133.
- BT, 164.1; Yale, 174-175.
+133. BT, 164.1; Yale, 174-175.
 
-134.
- BT, 164.1-2; Yale, 175-176.
+134. BT, 164.1-2; Yale, 175-176.
 
-135.
- Tiến sĩ Winder, được Edwards trích dẫn; BT, 164.2; Yale, 176. Dường như Taylor đồng ý. Nói về thời điểm Phúc Âm xuất hiện, ông nói: “Tình trạng đạo đức và tôn giáo của người ngoại đạo thật đáng thương, nói chung chìm đắm trong sự ngu muội lớn, sự thờ hình tượng thô tục, và những thói xấu gớm ghiếc.” Key, tr. 151, số 257, được Edwards trích dẫn trong Yale, 176; BT, 164.2.
+135. Tiến sĩ Winder, được Edwards trích dẫn; BT, 164.2; Yale, 176. Dường như Taylor đồng ý. Nói về thời điểm Phúc Âm xuất hiện, ông nói: “Tình trạng đạo đức và tôn giáo của người ngoại đạo thật đáng thương, nói chung chìm đắm trong sự ngu muội lớn, sự thờ hình tượng thô tục, và những thói xấu gớm ghiếc.” Key, tr. 151, số 257, được Edwards trích dẫn trong Yale, 176; BT, 164.2.
 
-136.
- BT, 164.2-166.1; Yale, 176-181.
+136. BT, 164.2-166.1; Yale, 176-181.
 
-137.
- BT, 164.2; Yale, 177.
+137. BT, 164.2; Yale, 177.
 
-138.
- BT, 165.1; Yale, 177.
+138. BT, 165.1; Yale, 177.
 
-139.
- BT, 165.1; Yale, 177-178.
+139. BT, 165.1; Yale, 177-178.
 
-140.
- BT, 165.1-2; Yale, 178-180.
+140. BT, 165.1-2; Yale, 178-180.
 
-141.
- BT, 165.2; Yale, 180.
+141. BT, 165.2; Yale, 180.
 
-142.
- BT, 165.2-166.1; Yale, 170.
+142. BT, 165.2-166.1; Yale, 170.
 
-143.
- Yale, 181; BT, 166.1.
+143. Yale, 181; BT, 166.1.
 
-144.
- BT, 166.1ff.; Yale, 181ff. Edwards trích dẫn Taylor để ủng hộ. Nói về Đấng Christ, Taylor viết: “chưa bao giờ có những động cơ thiêng liêng và mạnh mẽ như vậy được đưa ra, để thúc đẩy chúng ta thực hành mọi đức hạnh và điều tốt lành.” Được Edwards trích dẫn trong Yale, 182; BT, 166.1-2.
+144. BT, 166.1ff.; Yale, 181ff. Edwards trích dẫn Taylor để ủng hộ. Nói về Đấng Christ, Taylor viết: “chưa bao giờ có những động cơ thiêng liêng và mạnh mẽ như vậy được đưa ra, để thúc đẩy chúng ta thực hành mọi đức hạnh và điều tốt lành.” Được Edwards trích dẫn trong Yale, 182; BT, 166.1-2.
 
-145.
- BT, 166.2; Yale, 182-183.
+145. BT, 166.2; Yale, 182-183.
 
-146.
- BT, 166.2; Yale, 182.
+146. BT, 166.2; Yale, 182.
 
-147.
- BT, 166.2; Yale, 183.
+147. BT, 166.2; Yale, 183.
 
-148.
- Yale, 183; BT, 166.2.
+148. Yale, 183; BT, 166.2.
 
-149.
- Sđd.
+149. Sđd.
 
-150.
- Sđd.
+150. Sđd.
 
-151.
- BT, 166.2-167.1; Yale, 183-184.
+151. BT, 166.2-167.1; Yale, 183-184.
 
-152.
- Yale, 184; BT, 167.1.
+152. Yale, 184; BT, 167.1.
 
-153.
- Yale, 184-185; BT, 167.1.
+153. Yale, 184-185; BT, 167.1.
 
-154.
- Taylor, được Edwards trích dẫn trong Yale, 185; BT, 167.1.
+154. Taylor, được Edwards trích dẫn trong Yale, 185; BT, 167.1.
 
-155.
- Yale, 186; BT, 167.2.
+155. Yale, 186; BT, 167.2.
 
-156.
- BT, 167.2-168.1; Yale, 187-188.
+156. BT, 167.2-168.1; Yale, 187-188.
 
-157.
- Yale, 187; BT, 168.1.
+157. Yale, 187; BT, 168.1.
 
-158.
- Yale, 187-188; BT, 168.1.
+158. Yale, 187-188; BT, 168.1.
 
-159.
- BT, 168.1; Yale, 189.
+159. BT, 168.1; Yale, 189.
 
-160.
- BT, 168.1-2; Yale, 190-191.
+160. BT, 168.1-2; Yale, 190-191.
 
-161.
- BT, 168.2; Yale, 190.
+161. BT, 168.2; Yale, 190.
 
-162.
- Sđd.
+162. Sđd.
 
-163.
- BT, 168.2-169.2; Yale, 191-193.
+163. BT, 168.2-169.2; Yale, 191-193.
 
-164.
- BT, 168.2-169.1; Yale, 191-192.
+164. BT, 168.2-169.1; Yale, 191-192.
 
-165.
- BT, 169.1; Yale, 191-192.
+165. BT, 169.1; Yale, 191-192.
 
-166.
- Yale, 191; BT, 168.2-169.1.
+166. Yale, 191; BT, 168.2-169.1.
 
-167.
- BT, 169.1-2; Yale, 192-193.
+167. BT, 169.1-2; Yale, 192-193.
 
-168.
- BT, 169.1; Yale, 193.
+168. BT, 169.1; Yale, 193.
 
-169.
- BT, 169.2; Yale, 194.
+169. BT, 169.2; Yale, 194.
 
-170.
- Sđd.
+170. Sđd.
 
-171.
- BT, 169.2; Yale, 194-195.
+171. BT, 169.2; Yale, 194-195.
 
-172.
- BT, 170.1; Yale, 195.
+172. BT, 170.1; Yale, 195.
 
-173.
- BT, 170.1; Yale, 196.
+173. BT, 170.1; Yale, 196.
 
-174.
- Sđd.
+174. Sđd.
 
-175.
- BT, 170.1; Yale, 196.
+175. BT, 170.1; Yale, 196.
 
-176.
- BT, 170.1; Yale, 196-197.
+176. BT, 170.1; Yale, 196-197.
 
-177.
- BT, 170.1-2; Yale, 197.
+177. BT, 170.1-2; Yale, 197.
 
-178.
- Yale, 197; BT, 170.2.
+178. Yale, 197; BT, 170.2.
 
-179.
- Sđd.
+179. Sđd.
 
-180.
- Yale, 197-198; BT, 170.2.
+180. Yale, 197-198; BT, 170.2.
 
-181.
- Yale, 198; BT, 170.2.
+181. Yale, 198; BT, 170.2.
 
-182.
- Sđd.
+182. Sđd.
 
-183.
- BT, 171.1; Yale, 199-200.
+183. BT, 171.1; Yale, 199-200.
 
-184.
- Sđd.
+184. Sđd.
 
-185.
- Yale, 200; BT, 171.1.
+185. Yale, 200; BT, 171.1.
 
-186.
- BT, 171.1; Yale, 200.
+186. BT, 171.1; Yale, 200.
 
-187.
- Yale, 200-201; BT, 171.1-2.
+187. Yale, 200-201; BT, 171.1-2.
 
-188.
- Taylor, Original Sin, 348. Được Edwards trích dẫn trong Yale, 200-201; BT, 171.1-2.
+188. Taylor, Original Sin, 348. Được Edwards trích dẫn trong Yale, 200-201; BT, 171.1-2.
 
-189.
- BT, 171.2; Yale, 201.
+189. BT, 171.2; Yale, 201.
 
-190.
- Edwards trích dẫn Turnbull, Christian Philosophy, 282, 283. Được Edwards trích dẫn trong Yale, 201; BT, 171.2. Giống như Taylor, Turnbull dường như xác nhận điều tương đương với tội nguyên thủy, dù ở chỗ khác, ông phủ nhận tội nguyên thủy là đúng. Đồng thời, ông thừa nhận rằng một số người, dù ít, là công chính và không cần ăn năn: “Và có mấy ai trên thế gian này thoát khỏi sự ô uế của nó, để không sớm thuộc về hạng người ấy, hay để được kể vào số người công chính không cần ăn năn?” Sđd.
+190. Edwards trích dẫn Turnbull, Christian Philosophy, 282, 283. Được Edwards trích dẫn trong Yale, 201; BT, 171.2. Giống như Taylor, Turnbull dường như xác nhận điều tương đương với tội nguyên thủy, dù ở chỗ khác, ông phủ nhận tội nguyên thủy là đúng. Đồng thời, ông thừa nhận rằng một số người, dù ít, là công chính và không cần ăn năn: “Và có mấy ai trên thế gian này thoát khỏi sự ô uế của nó, để không sớm thuộc về hạng người ấy, hay để được kể vào số người công chính không cần ăn năn?” Sđd.
 
-191.
- BT, 171.2; Yale, 202.
+191. BT, 171.2; Yale, 202.
 
-192.
- Yale, 202; BT, 171.1.
+192. Yale, 202; BT, 171.1.
 
-193.
- BT, 172.1; Yale, 202-203.
+193. BT, 172.1; Yale, 202-203.
 
-194.
- Yale, 203; BT, 172.1.
+194. Yale, 203; BT, 172.1.
 
-195.
- Sđd.
+195. Sđd.
 
-196.
- Sđd.
+196. Sđd.
 
-197.
- Sđd. Điều này không phủ nhận thực tế về những câu hỏi và mầu nhiệm sâu xa hơn bao quanh sự xâm nhập của tội lỗi vào thế gian. Nhưng nó chứng tỏ rằng lời phản bác ấy khẳng định điều mà nó định phủ nhận.
+197. Sđd. Điều này không phủ nhận thực tế về những câu hỏi và mầu nhiệm sâu xa hơn bao quanh sự xâm nhập của tội lỗi vào thế gian. Nhưng nó chứng tỏ rằng lời phản bác ấy khẳng định điều mà nó định phủ nhận.
 
-198.
- BT, 172.1; Yale, 204.
+198. BT, 172.1; Yale, 204.
 
-199.
- BT, 172.2; Yale, 204-205.
+199. BT, 172.2; Yale, 204-205.
 
-200.
- Yale, 205; BT, 172.2.
+200. Yale, 205; BT, 172.2.
 
-201.
- Sđd.
+201. Sđd.
 
-202.
- Sđd.
+202. Sđd.
 
-203.
- Sđd. Edwards trích dẫn Christian Philosophy của Turnbull, 113-115. Như Edwards sẽ làm rõ sau này, Taylor mắc phải cùng một sự mâu thuẫn bắt nguồn từ quan điểm của ông về ý chí tự do. Ông cho rằng để các hành vi của ý chí con người được tự do, chúng không thể bị quyết định bởi một khuynh hướng có sẵn. Đồng thời, ông cho rằng một hành động chỉ có thể là nhân đức nếu nó bắt nguồn từ một động cơ hay khuynh hướng nhân đức.
+203. Sđd. Edwards trích dẫn Christian Philosophy của Turnbull, 113-115. Như Edwards sẽ làm rõ sau này, Taylor mắc phải cùng một sự mâu thuẫn bắt nguồn từ quan điểm của ông về ý chí tự do. Ông cho rằng để các hành vi của ý chí con người được tự do, chúng không thể bị quyết định bởi một khuynh hướng có sẵn. Đồng thời, ông cho rằng một hành động chỉ có thể là nhân đức nếu nó bắt nguồn từ một động cơ hay khuynh hướng nhân đức.
 
-204.
- Đây là một ví dụ sắc bén về sự cần thiết của một nền thần học toàn diện và mạch lạc, trong đó các phần được liên hệ đúng đắn với nhau và với toàn thể. Một lần nữa, Edwards cho thấy rằng việc phủ nhận tội nguyên thủy, dựa trên quan niệm cho rằng một ý chí tự do không thể bị gây nên bởi một khuynh hướng có sẵn, dẫn đến những sự thiếu nhất quán, mâu thuẫn nghiêm trọng, và là một trở ngại lớn cho một nền thần học Kinh Thánh mạch lạc.
+204. Đây là một ví dụ sắc bén về sự cần thiết của một nền thần học toàn diện và mạch lạc, trong đó các phần được liên hệ đúng đắn với nhau và với toàn thể. Một lần nữa, Edwards cho thấy rằng việc phủ nhận tội nguyên thủy, dựa trên quan niệm cho rằng một ý chí tự do không thể bị gây nên bởi một khuynh hướng có sẵn, dẫn đến những sự thiếu nhất quán, mâu thuẫn nghiêm trọng, và là một trở ngại lớn cho một nền thần học Kinh Thánh mạch lạc.
 
 Chương Hai: Bằng Chứng từ Sự Chết Phổ Quát, Đặc Biệt là Sự Chết của Trẻ Thơ
 
@@ -1412,86 +1212,59 @@ Châm Ngôn 18:5: “Lấy làm chẳng tốt mà nể kẻ ác, đặng lườn
 
 7. Theo Edwards, sự chết có phổ quát không nếu con người không sinh ra với tội nguyên thủy?
 
-1.
- Yale, 206; BT, 173.1.
+1. Yale, 206; BT, 173.1.
 
-2.
- BT, 173.1ff.; Yale, 206ff.
+2. BT, 173.1ff.; Yale, 206ff.
 
-3.
- BT, 173.1; Yale, 206-207.
+3. BT, 173.1; Yale, 206-207.
 
-4.
- Yale, 206; BT, 173.1.
+4. Yale, 206; BT, 173.1.
 
-5.
- Yale, 207; BT, 173.1.
+5. Yale, 207; BT, 173.1.
 
-6.
- BT, 173.1; Yale, 207.
+6. BT, 173.1; Yale, 207.
 
-7.
- BT, 173.2; Yale, 207-208.
+7. BT, 173.2; Yale, 207-208.
 
-8.
- BT, 173.2; Yale, 208-209.
+8. BT, 173.2; Yale, 208-209.
 
-9.
- Sđd.
+9. Sđd.
 
-10.
- BT, 173.2-174.1; Yale, 209.
+10. BT, 173.2-174.1; Yale, 209.
 
-11.
- Yale, 209; BT, 174.1.
+11. Yale, 209; BT, 174.1.
 
-12.
- Sđd. Edwards mô tả quan điểm của Taylor. Edwards trích dẫn Taylor, Original Sin, 21, 67, v.v.
+12. Sđd. Edwards mô tả quan điểm của Taylor. Edwards trích dẫn Taylor, Original Sin, 21, 67, v.v.
 
-13.
- BT, 174.1-2; Yale, 209-211.
+13. BT, 174.1-2; Yale, 209-211.
 
-14.
- BT, 174.1; Yale, 209-210.
+14. BT, 174.1; Yale, 209-210.
 
-15.
- Yale, 210; BT, 174.1.
+15. Yale, 210; BT, 174.1.
 
-16.
- BT, 174.1; Yale, 210-211.
+16. BT, 174.1; Yale, 210-211.
 
-17.
- BT, 174.1-2; Yale, 211.
+17. BT, 174.1-2; Yale, 211.
 
-18.
- BT, 174.2; Yale, 211-212.
+18. BT, 174.2; Yale, 211-212.
 
-19.
- BT, 174.2; Yale, 212.
+19. BT, 174.2; Yale, 212.
 
-20.
- BT, 174.2-175.1; Yale, 212-213.
+20. BT, 174.2-175.1; Yale, 212-213.
 
-21.
- BT, 175.1-177.2; Yale, 214-219.
+21. BT, 175.1-177.2; Yale, 214-219.
 
-22.
- BT, 175.1-2; Yale, 214-215. Xem thêm Thi Thiên 30:2-3, 9; 88:9-11; 103:9, 14-15; 143:7; Gióp 33:22-24.
+22. BT, 175.1-2; Yale, 214-215. Xem thêm Thi Thiên 30:2-3, 9; 88:9-11; 103:9, 14-15; 143:7; Gióp 33:22-24.
 
-23.
- BT, 175.2; Yale, 215.
+23. BT, 175.2; Yale, 215.
 
-24.
- Yale, 215; BT, 175.2.
+24. Yale, 215; BT, 175.2.
 
-25.
- Sđd.
+25. Sđd.
 
-26.
- BT, 175.2-177.2; Yale, 215-219.
+26. BT, 175.2-177.2; Yale, 215-219.
 
-27.
- Yale, 217; BT, 176.1.
+27. Yale, 217; BT, 176.1.
 
 Phần Hai: Các Bằng Chứng Kinh Thánh về Tội Nguyên Thủy
 
@@ -1629,71 +1402,49 @@ D. Các giáo lý được Đức Chúa Trời mặc khải phải được ch�
 
 6. Những giáo lý quan trọng nào được dạy rõ ràng trong Tân Ước mà không được dạy rõ ràng trong Cựu Ước hoặc chỉ được ngụ ý trong Cựu Ước?
 
-1.
- BT, 187.2ff.; Yale, 262ff.
+1. BT, 187.2ff.; Yale, 262ff.
 
-2.
- Yale, 264; BT, 188.1.
+2. Yale, 264; BT, 188.1.
 
-3.
- Yale, 262; BT, 187.2.
+3. Yale, 262; BT, 187.2.
 
-4.
- BT, 188.1ff.; Yale, 265ff.
+4. BT, 188.1ff.; Yale, 265ff.
 
-5.
- Yale, 265; BT, 188.2.
+5. Yale, 265; BT, 188.2.
 
-6.
- Sđd.
+6. Sđd.
 
-7.
- BT, 188.2ff.; Yale, 265ff.
+7. BT, 188.2ff.; Yale, 265ff.
 
-8.
- Xem Giô-suê 6:21, Ê-xơ-tê 3:13, và Sáng Thế Ký 19:4. Yale, 267; BT, 189.1.
+8. Xem Giô-suê 6:21, Ê-xơ-tê 3:13, và Sáng Thế Ký 19:4. Yale, 267; BT, 189.1.
 
-9.
- BT, 189.1; Yale, 267-270.
+9. BT, 189.1; Yale, 267-270.
 
-10.
- Taylor, nhận thức được những hàm ý của nó liên quan đến tội nguyên thủy, giải nghĩa sự không sạch là “sự yếu đuối chung,” chứ không phải sự hư hoại về đạo đức. Yale, 270; BT, 189.2.
+10. Taylor, nhận thức được những hàm ý của nó liên quan đến tội nguyên thủy, giải nghĩa sự không sạch là “sự yếu đuối chung,” chứ không phải sự hư hoại về đạo đức. Yale, 270; BT, 189.2.
 
-11.
- Edwards lưu ý rằng Taylor “khăng khăng cho rằng những cách diễn đạt như ‘sinh ra trong tội lỗi,’ ‘là kẻ vi phạm từ trong lòng mẹ,’ và những điều tương tự, chỉ là những cụm từ theo nghĩa bóng để chỉ sự trầm trọng thêm, và mức độ gian ác cao,” thêm rằng Kinh Thánh đưa ra nhiều trường hợp ngược lại, và rằng Taylor đã không đưa ra bất cứ ví dụ Kinh Thánh nào cho thấy cách giải nghĩa của ông. Yale, 270; BT, 190.1.
+11. Edwards lưu ý rằng Taylor “khăng khăng cho rằng những cách diễn đạt như ‘sinh ra trong tội lỗi,’ ‘là kẻ vi phạm từ trong lòng mẹ,’ và những điều tương tự, chỉ là những cụm từ theo nghĩa bóng để chỉ sự trầm trọng thêm, và mức độ gian ác cao,” thêm rằng Kinh Thánh đưa ra nhiều trường hợp ngược lại, và rằng Taylor đã không đưa ra bất cứ ví dụ Kinh Thánh nào cho thấy cách giải nghĩa của ông. Yale, 270; BT, 190.1.
 
-12.
- BT, 190.1; Yale, 271.
+12. BT, 190.1; Yale, 271.
 
-13.
- BT, 190.1; Yale, 271-272.
+13. BT, 190.1; Yale, 271-272.
 
-14.
- BT, 190.1; Yale, 272.
+14. BT, 190.1; Yale, 272.
 
-15.
- BT, 190.1-2; Yale, 272.
+15. BT, 190.1-2; Yale, 272.
 
-16.
- BT, 190.2; Yale, 272.
+16. BT, 190.2; Yale, 272.
 
-17.
- Sđd.
+17. Sđd.
 
-18.
- Sđd.
+18. Sđd.
 
-19.
- BT, 190.2; Yale, 272-273.
+19. BT, 190.2; Yale, 272-273.
 
-20.
- BT, 190.2; Yale, 272.
+20. BT, 190.2; Yale, 272.
 
-21.
- BT, 190.2; Yale, 272-273.
+21. BT, 190.2; Yale, 272-273.
 
-22.
- BT, 190.2; Yale, 273.
+22. BT, 190.2; Yale, 273.
 
 Chương Hai: Các Bằng Chứng về Tội Nguyên Thủy, Chủ Yếu từ Cựu Ước
 
@@ -1827,71 +1578,49 @@ D. Các giáo lý do Đức Chúa Trời mặc khải phải được chấp nh�
 
 6. Những giáo lý quan trọng nào được dạy rõ ràng trong Tân Ước mà không được dạy rõ ràng trong Cựu Ước, hoặc chỉ được ngụ ý trong Cựu Ước?
 
-1.
-BT, 187.2ff.; Yale, 262ff.
+1. BT, 187.2ff.; Yale, 262ff.
 
-2.
-Yale, 264; BT, 188.1.
+2. Yale, 264; BT, 188.1.
 
-3.
-Yale, 262; BT, 187.2.
+3. Yale, 262; BT, 187.2.
 
-4.
-BT, 188.1ff.; Yale, 265ff.
+4. BT, 188.1ff.; Yale, 265ff.
 
-5.
-Yale, 265; BT, 188.2.
+5. Yale, 265; BT, 188.2.
 
-6.
-Ibid.
+6. Ibid.
 
-7.
-BT, 188.2ff.; Yale, 265ff.
+7. BT, 188.2ff.; Yale, 265ff.
 
-8.
-Xem Giô-suê 6:21, Ê-xơ-tê 3:13, và Sáng Thế Ký 19:4. Yale, 267; BT, 189.1.
+8. Xem Giô-suê 6:21, Ê-xơ-tê 3:13, và Sáng Thế Ký 19:4. Yale, 267; BT, 189.1.
 
-9.
-BT, 189.1; Yale, 267-270.
+9. BT, 189.1; Yale, 267-270.
 
-10.
-Taylor, nhận biết những hàm ý của nó về tội nguyên thủy, giải nghĩa sự ô uế là "sự yếu đuối thông thường," chứ không phải sự bại hoại về đạo đức. Yale, 270; BT, 189.2.
+10. Taylor, nhận biết những hàm ý của nó về tội nguyên thủy, giải nghĩa sự ô uế là "sự yếu đuối thông thường," chứ không phải sự bại hoại về đạo đức. Yale, 270; BT, 189.2.
 
-11.
-Edwards lưu ý rằng Taylor "khăng khăng cho rằng những cách diễn đạt như 'sanh ra trong tội lỗi,' 'là kẻ phạm tội từ trong lòng mẹ,' và những cách tương tự, chỉ là những cụm từ theo nghĩa bóng để chỉ sự trầm trọng, và mức độ gian ác cao," và nói thêm rằng Kinh Thánh đưa ra nhiều trường hợp ngược lại, và Taylor đã không đưa ra được bất kỳ ví dụ nào trong Kinh Thánh cho thấy cách giải nghĩa của ông. Yale, 270; BT, 190.1.
+11. Edwards lưu ý rằng Taylor "khăng khăng cho rằng những cách diễn đạt như 'sanh ra trong tội lỗi,' 'là kẻ phạm tội từ trong lòng mẹ,' và những cách tương tự, chỉ là những cụm từ theo nghĩa bóng để chỉ sự trầm trọng, và mức độ gian ác cao," và nói thêm rằng Kinh Thánh đưa ra nhiều trường hợp ngược lại, và Taylor đã không đưa ra được bất kỳ ví dụ nào trong Kinh Thánh cho thấy cách giải nghĩa của ông. Yale, 270; BT, 190.1.
 
-12.
-BT, 190.1; Yale, 271.
+12. BT, 190.1; Yale, 271.
 
-13.
-BT, 190.1; Yale, 271-272.
+13. BT, 190.1; Yale, 271-272.
 
-14.
-BT, 190.1; Yale, 272.
+14. BT, 190.1; Yale, 272.
 
-15.
-BT, 190.1-2; Yale, 272.
+15. BT, 190.1-2; Yale, 272.
 
-16.
-BT, 190.2; Yale, 272.
+16. BT, 190.2; Yale, 272.
 
-17.
-Ibid.
+17. Ibid.
 
-18.
-Ibid.
+18. Ibid.
 
-19.
-BT, 190.2; Yale, 272-273.
+19. BT, 190.2; Yale, 272-273.
 
-20.
-BT, 190.2; Yale, 272.
+20. BT, 190.2; Yale, 272.
 
-21.
-BT, 190.2; Yale, 272-273.
+21. BT, 190.2; Yale, 272-273.
 
-22.
-BT, 190.2; Yale, 273.
+22. BT, 190.2; Yale, 273.
 
 Chương Ba: Những Bằng Chứng về Tội Nguyên Thủy, Chủ Yếu từ Tân Ước
 
@@ -2647,278 +2376,187 @@ III. Rô-ma 5:12-21 dạy tội nguyên thủy một cách "rõ ràng, minh bạ
 
 6. Cách giải thích của Edwards về Rô-ma 5:14 như chỉ về các trẻ thơ có phù hợp với bối cảnh và lập luận của bản văn không? Sự nhấn mạnh về tính phổ quát của tội lỗi trong các chương 1-3 của sách Rô-ma có ủng hộ cách giải thích của Edwards không?
 
-1. 
-BT, 199.2; Yale, 306.
+1. BT, 199.2; Yale, 306.
 
-2. 
-BT, 199.2-200.1; Yale, 306-309.
+2. BT, 199.2-200.1; Yale, 306-309.
 
-3. 
-Yale, 306-307; BT, 199.2. Edwards trích dẫn Taylor, Key, 396. Phần Diễn Giải và Chú Thích về sách Rô-ma của Taylor được bao gồm trong tác phẩm Key.
+3. Yale, 306-307; BT, 199.2. Edwards trích dẫn Taylor, Key, 396. Phần Diễn Giải và Chú Thích về sách Rô-ma của Taylor được bao gồm trong tác phẩm Key.
 
-4. 
-Edwards tỏ ra thích thú trước luận điểm của Taylor rằng "ắt hẳn phải như vậy một cách không thể sai lầm" rằng Rô-ma 5:12tt. chỉ có thể nói về sự chết thuộc thể, khi ông chỉ ra sự tự mâu thuẫn của Taylor, nói rằng, "Nhưng dù điều này không thể sai lầm đến đâu, nếu chúng ta tin những gì Tiến sĩ Taylor nói ở nơi khác, thì ắt hẳn phải khác đi," và sau đó chỉ ra rằng chính Taylor đã bác bỏ "bằng chứng không thể sai lầm" của mình! Ibid.
+4. Edwards tỏ ra thích thú trước luận điểm của Taylor rằng "ắt hẳn phải như vậy một cách không thể sai lầm" rằng Rô-ma 5:12tt. chỉ có thể nói về sự chết thuộc thể, khi ông chỉ ra sự tự mâu thuẫn của Taylor, nói rằng, "Nhưng dù điều này không thể sai lầm đến đâu, nếu chúng ta tin những gì Tiến sĩ Taylor nói ở nơi khác, thì ắt hẳn phải khác đi," và sau đó chỉ ra rằng chính Taylor đã bác bỏ "bằng chứng không thể sai lầm" của mình! Ibid.
 
-5. 
-BT, 199.2; Yale, 307. Xem thêm các chú thích, BT, 199.2-200.2; Yale, 307.
+5. BT, 199.2; Yale, 307. Xem thêm các chú thích, BT, 199.2-200.2; Yale, 307.
 
-6. 
-BT, 199.2-200.1; Yale, 307-308.
+6. BT, 199.2-200.1; Yale, 307-308.
 
-7. 
-Yale, 308; BT, 200.1.
+7. Yale, 308; BT, 200.1.
 
-8. 
-BT, 200.1; Yale, 308-309.
+8. BT, 200.1; Yale, 308-309.
 
-9. 
-Yale, 309-310; BT, 200.1-2.
+9. Yale, 309-310; BT, 200.1-2.
 
-10. 
-BT, 200.1-2; Yale, 309-310.
+10. BT, 200.1-2; Yale, 309-310.
 
-11. 
-Yale, 309; BT, 200.1.
+11. Yale, 309; BT, 200.1.
 
-12. 
-BT, 200.1-2; Yale, 309-310.
+12. BT, 200.1-2; Yale, 309-310.
 
-13. 
-Yale, 310; BT, 200.2.
+13. Yale, 310; BT, 200.2.
 
-14. 
-Ibid. Không thể tránh né sự dạy dỗ rõ ràng của đoạn văn, Taylor đã thừa nhận rằng Đức Chúa Trời xem A-đam như một hình bóng của Đấng Christ. Tuy nhiên, như sẽ được bàn đến dưới đây, quan điểm của Taylor cho rằng A-đam chỉ hành động cho riêng mình khiến cho A-đam như một hình bóng của Đấng Christ trở nên vô nghĩa, vì Taylor không xem A-đam như đứng ở vị trí đầu giao ước của nhân loại theo cách mà Đấng Christ đã đứng ở vị trí đầu giao ước của dân sự Ngài.
+14. Ibid. Không thể tránh né sự dạy dỗ rõ ràng của đoạn văn, Taylor đã thừa nhận rằng Đức Chúa Trời xem A-đam như một hình bóng của Đấng Christ. Tuy nhiên, như sẽ được bàn đến dưới đây, quan điểm của Taylor cho rằng A-đam chỉ hành động cho riêng mình khiến cho A-đam như một hình bóng của Đấng Christ trở nên vô nghĩa, vì Taylor không xem A-đam như đứng ở vị trí đầu giao ước của nhân loại theo cách mà Đấng Christ đã đứng ở vị trí đầu giao ước của dân sự Ngài.
 
-15. 
-BT, 200.2ff.; Yale, 310ff.
+15. BT, 200.2ff.; Yale, 310ff.
 
-16. 
-Yale, 310; BT, 200.2.
+16. Yale, 310; BT, 200.2.
 
-17. 
-Yale, 311; BT, 201.1.
+17. Yale, 311; BT, 201.1.
 
-18. 
-BT, 201.1ff.; Yale, 311ff.
+18. BT, 201.1ff.; Yale, 311ff.
 
-19. 
-BT, 201.1; Yale, 311.
+19. BT, 201.1; Yale, 311.
 
-20. 
-Ibid.
+20. Ibid.
 
-21. 
-Ibid.
+21. Ibid.
 
-22. 
-BT, 201.1; Yale, 312.
+22. BT, 201.1; Yale, 312.
 
-23. 
-BT, 201.1-2; Yale, 313-314.
+23. BT, 201.1-2; Yale, 313-314.
 
-24. 
-Yale, 313-314; BT, 201.2.
+24. Yale, 313-314; BT, 201.2.
 
-25. 
-Yale, 313; BT, 201.1-2. "Giao ước này với A-đam đã bị hủy bỏ ngay sau khi A-đam phạm tội. Ngay trước khi Đức Chúa Trời tuyên án trên A-đam, ân điển đã được đưa vào." Taylor, Original Sin, 389. Xem thêm tr. 389-395.
+25. Yale, 313; BT, 201.1-2. "Giao ước này với A-đam đã bị hủy bỏ ngay sau khi A-đam phạm tội. Ngay trước khi Đức Chúa Trời tuyên án trên A-đam, ân điển đã được đưa vào." Taylor, Original Sin, 389. Xem thêm tr. 389-395.
 
-26. 
-Taylor, Original Sin, tr. 395 và 396, theo thứ tự. Ibid.
+26. Taylor, Original Sin, tr. 395 và 396, theo thứ tự. Ibid.
 
-27. 
-BT, 201.2ff.; Yale, 314ff.
+27. BT, 201.2ff.; Yale, 314ff.
 
-28. 
-Yale, 314; BT, 201.2.
+28. Yale, 314; BT, 201.2.
 
-29. 
-Ibid.
+29. Ibid.
 
-30. 
-BT, 202.1; Yale, 315.
+30. BT, 202.1; Yale, 315.
 
-31. 
-Key, 216. Được Edwards trích dẫn, Yale, 315; BT, 202.1. Trong cách giải thích Rô-ma 4:5 của mình, Taylor cũng lưu ý rằng Áp-ra-ham, người sống trước khi luật pháp Môi-se được ban cho, chỉ được xưng công chính bởi lòng thương xót của Đức Chúa Trời mà thôi. Key, 230-231. Ibid.
+31. Key, 216. Được Edwards trích dẫn, Yale, 315; BT, 202.1. Trong cách giải thích Rô-ma 4:5 của mình, Taylor cũng lưu ý rằng Áp-ra-ham, người sống trước khi luật pháp Môi-se được ban cho, chỉ được xưng công chính bởi lòng thương xót của Đức Chúa Trời mà thôi. Key, 230-231. Ibid.
 
-32. 
-BT, 202.1; Yale, 316.
+32. BT, 202.1; Yale, 316.
 
-33. 
-BT, 202.1-2; Yale, 316-317.
+33. BT, 202.1-2; Yale, 316-317.
 
-34. 
-BT, 202.2; Yale, 317.
+34. BT, 202.2; Yale, 317.
 
-35. 
-BT, 202.2ff.; Yale, 317ff.
+35. BT, 202.2ff.; Yale, 317ff.
 
-36. 
-BT, 202.2-203.1; Yale, 318.
+36. BT, 202.2-203.1; Yale, 318.
 
-37. 
-BT, 203.1ff.; Yale, 319ff.
+37. BT, 203.1ff.; Yale, 319ff.
 
-38. 
-BT, 203.1; Yale, 319.
+38. BT, 203.1; Yale, 319.
 
-39. 
-Ibid.
+39. Ibid.
 
-40. 
-BT, 203.1; Yale, 319-320.
+40. BT, 203.1; Yale, 319-320.
 
-41. 
-BT, 203.1; Yale, 320.
+41. BT, 203.1; Yale, 320.
 
-42. 
-BT, 203.2; Yale, 320.
+42. BT, 203.2; Yale, 320.
 
-43. 
-BT, 203.2; Yale, 320-321.
+43. BT, 203.2; Yale, 320-321.
 
-44. 
-Yale, 321; BT, 203.2. Theo Edwards, chính Taylor đã giải thích các thuật ngữ ấy một cách đúng đắn ở những chỗ khác trong sách Rô-ma, trong phần trình bày sách Rô-ma của ông trong tác phẩm Key.
+44. Yale, 321; BT, 203.2. Theo Edwards, chính Taylor đã giải thích các thuật ngữ ấy một cách đúng đắn ở những chỗ khác trong sách Rô-ma, trong phần trình bày sách Rô-ma của ông trong tác phẩm Key.
 
-45. 
-Yale, 322; BT, 203.2.
+45. Yale, 322; BT, 203.2.
 
-46. 
-Yale, 323; BT, 204.1.
+46. Yale, 323; BT, 204.1.
 
-47. 
-Ibid.
+47. Ibid.
 
-48. 
-Ibid.
+48. Ibid.
 
-49. 
-Ibid.
+49. Ibid.
 
-50. 
-BT, 204.1-2; Yale, 323-325.
+50. BT, 204.1-2; Yale, 323-325.
 
-51. 
-BT, 204.2; Yale, 325-326.
+51. BT, 204.2; Yale, 325-326.
 
-52. 
-BT, 204.1; Yale, 324.
+52. BT, 204.1; Yale, 324.
 
-53. 
-Ibid.
+53. Ibid.
 
-54. 
-Yale, 325; 204.2. Taylor đồng ý rằng sự sống lại được nói đến trong 1 Cô-rinh-tô 15 chỉ là của các tín hữu mà thôi.
+54. Yale, 325; 204.2. Taylor đồng ý rằng sự sống lại được nói đến trong 1 Cô-rinh-tô 15 chỉ là của các tín hữu mà thôi.
 
-55. 
-BT, 204.2; Yale, 325-326.
+55. BT, 204.2; Yale, 325-326.
 
-56. 
-BT, 205.1; Yale, 326.
+56. BT, 205.1; Yale, 326.
 
-57. 
-BT, 205.1; Yale, 326-327.
+57. BT, 205.1; Yale, 326-327.
 
-58. 
-BT, 205.2; Yale, 328.
+58. BT, 205.2; Yale, 328.
 
-59. 
-BT, 205.2-206.1; Yale, 330-332.
+59. BT, 205.2-206.1; Yale, 330-332.
 
-60. 
-BT, 205.2-206.1; Yale, 330.
+60. BT, 205.2-206.1; Yale, 330.
 
-61. 
-BT, 205.2-206.1; Yale, 330-331. Tại đây Edwards vạch trần cách Taylor sử dụng các nguyên tắc giải thích một cách mâu thuẫn để phục vụ cho sự phủ nhận tội nguyên thủy của ông. Taylor khăng khăng rằng từ "sự chết" phải được giải thích một cách nhất quán trong đoạn văn, trong khi lại thuận tiện gán cho từ "tội lỗi" những ý nghĩa khác nhau trong cùng một đoạn văn.
+61. BT, 205.2-206.1; Yale, 330-331. Tại đây Edwards vạch trần cách Taylor sử dụng các nguyên tắc giải thích một cách mâu thuẫn để phục vụ cho sự phủ nhận tội nguyên thủy của ông. Taylor khăng khăng rằng từ "sự chết" phải được giải thích một cách nhất quán trong đoạn văn, trong khi lại thuận tiện gán cho từ "tội lỗi" những ý nghĩa khác nhau trong cùng một đoạn văn.
 
-62. 
-Yale, 330; BT, 205.2.
+62. Yale, 330; BT, 205.2.
 
-63. 
-Yale, 330; BT, 206.1.
+63. Yale, 330; BT, 206.1.
 
-64. 
-BT, 206.1; Yale, 332.
+64. BT, 206.1; Yale, 332.
 
-65. 
-BT, 206.1-2; Yale, 332-334.
+65. BT, 206.1-2; Yale, 332-334.
 
-66. 
-Yale, 332-333; BT, 206.1-2.
+66. Yale, 332-333; BT, 206.1-2.
 
-67. 
-Yale, 333; BT, 206.2.
+67. Yale, 333; BT, 206.2.
 
-68. 
-BT, 207.1ff.; Yale, 335ff.
+68. BT, 207.1ff.; Yale, 335ff.
 
-69. 
-Ibid.
+69. Ibid.
 
-70. 
-BT, 207.1; Yale, 335-336.
+70. BT, 207.1; Yale, 335-336.
 
-71. 
-BT, 207.1; Yale, 336.
+71. BT, 207.1; Yale, 336.
 
-72. 
-Yale, 336; BT, 207.1-2.
+72. Yale, 336; BT, 207.1-2.
 
-73. 
-BT, 207.2; Yale, 337-338.
+73. BT, 207.2; Yale, 337-338.
 
-74. 
-Yale, 339; BT, 208.1.
+74. Yale, 339; BT, 208.1.
 
-75. 
-Yale, 340; BT, 208.1.
+75. Yale, 340; BT, 208.1.
 
-76. 
-BT, 208.1; Yale, 339-340.
+76. BT, 208.1; Yale, 339-340.
 
-77. 
-BT, 208.2; Yale, 340-341.
+77. BT, 208.2; Yale, 340-341.
 
-78. 
-Yale, 341; BT, 208.2.
+78. Yale, 341; BT, 208.2.
 
-79. 
-BT, 208.2; Yale, 341.
+79. BT, 208.2; Yale, 341.
 
-80. 
-Yale, 242-244; BT, 209.1-2.
+80. Yale, 242-244; BT, 209.1-2.
 
-81. 
-Yale, 343; BT, 209.1.
+81. Yale, 343; BT, 209.1.
 
-82. 
-Yale, 343-344; BT, 209.1-2.
+82. Yale, 343-344; BT, 209.1-2.
 
-83. 
-Yale, 344-345; BT, 209.2.
+83. Yale, 344-345; BT, 209.2.
 
-84. 
-BT, 210.1-2; Yale, 345-349.
+84. BT, 210.1-2; Yale, 345-349.
 
-85. 
-BT, 210.1; Yale, 346.
+85. BT, 210.1; Yale, 346.
 
-86. 
-Ibid.
+86. Ibid.
 
-87. 
-Ibid.
+87. Ibid.
 
-88. 
-Ibid.
+88. Ibid.
 
-89. 
-Yale, 347; BT, 210.2.
+89. Yale, 347; BT, 210.2.
 
-90. 
-Yale, 348; BT, 210.2.
+90. Yale, 348; BT, 210.2.
 
-91. 
-Yale, 348-349; BT, 210.2.
+91. Yale, 348-349; BT, 210.2.
 
 Phần Ba: Sự Cứu Chuộc của Đấng Christ như Bằng Chứng cho Tội Nguyên Thủy
 
@@ -3012,7 +2650,7 @@ Giăng 3:3: "Đức Chúa Jêsus cất tiếng đáp rằng: Quả thật, quả
 
 Công vụ các Sứ đồ 26:18: "đặng mở mắt họ, hầu cho họ từ tối tăm mà đến sáng láng, từ quyền lực của quỉ Sa-tan mà đến Đức Chúa Trời, và cho họ bởi đức tin nơi ta được sự tha tội, cùng phần gia tài với các thánh đồ."
 
-IV. Được ban cho "lòng mới và tâm thần mới" cũng chính là sự thay đổi diễn ra khi một người ăn năn, trở lại, được sanh lại, được cắt bì trong lòng, và được "sống lại về thuộc linh từ kẻ chết."13
+IV. ĐƯỢC BAN CHO "LÒNG MỚI VÀ TÂM THẦN MỚI" CŨNG CHÍNH LÀ SỰ THAY ĐỔI DIỄN RA KHI MỘT NGƯỜI ĂN NĂN, TRỞ LẠI, ĐƯỢC SANH LẠI, ĐƯỢC CẮT BÌ TRONG LÒNG, VÀ ĐƯỢC "SỐNG LẠI VỀ THUỘC LINH TỪ KẺ CHẾT."13
 
 Ê-xê-chi-ên 36:25-27: "Ta sẽ rưới nước trong trên các ngươi, và các ngươi sẽ trở nên sạch; ta sẽ làm sạch hết mọi sự ô uế và mọi thần tượng của các ngươi. Ta sẽ ban lòng mới cho các ngươi, và đặt thần mới trong các ngươi. Ta sẽ cất lòng bằng đá khỏi thịt các ngươi, và ban cho các ngươi lòng bằng thịt. Ta sẽ đặt Thần ta trong các ngươi, và khiến các ngươi noi theo luật lệ ta, thì các ngươi sẽ giữ mạng lịnh ta và làm theo." Chú thích: Edwards xem đoạn này đứng đằng sau sự ngạc nhiên của Đấng Christ về việc Ni-cô-đem không biết sự cần thiết của sự sanh lại: "Ngươi là giáo sư của dân Y-sơ-ra-ên, mà không biết những điều đó sao?" (Giăng 3:10).14
 
@@ -3052,7 +2690,7 @@ Rô-ma 7:22: "Vì theo người bề trong, tôi vẫn lấy làm đẹp lòng v
 
 Ê-phê-sô 4:22-24 (Xem ở trên.)
 
-VI. Được "dựng nên mới" hay trở thành "vật dựng nên mới" cũng chính là sự sanh lại, v.v.21
+VI. ĐƯỢC "DỰNG NÊN MỚI" HAY TRỞ THÀNH "VẬT DỰNG NÊN MỚI" CŨNG CHÍNH LÀ SỰ SANH LẠI, V.V.21
 
 A. Như một trẻ sơ sinh là một sự sáng tạo mới, thì người được sanh lại từ sự chết thuộc linh đến sự sống cũng là một sự sáng tạo mới.22
 
@@ -3128,110 +2766,75 @@ Rô-ma 6:4-6: "Vậy chúng ta đã bị chôn với Ngài bởi phép báp-têm
 
 5. Kế hoạch của Taylor có ngụ ý rằng một số tín hữu đã không từng chết trong tội lỗi mình như đã phán trong Ê-phê-sô 2:1 không? Nếu không, thì điều đó nói gì về nhu cầu phổ quát của sự tái sanh và do đó về tính tội lỗi phổ quát của nhân loại?
 
-1. 
-BT, 213.1; Yale, 361.
+1. BT, 213.1; Yale, 361.
 
-2. 
-BT, 213.1ff.; Yale, 361ff.
+2. BT, 213.1ff.; Yale, 361ff.
 
-3. 
-Yale, 362; BT, 213.1.
+3. Yale, 362; BT, 213.1.
 
-4. 
-BT, 213.1-2; Yale, 362.
+4. BT, 213.1-2; Yale, 362.
 
-5. 
-BT, 213.2; Yale, 362-363.
+5. BT, 213.2; Yale, 362-363.
 
-6. 
-BT, 213.2; Yale, 363-364.
+6. BT, 213.2; Yale, 363-364.
 
-7. 
-BT, 213.2; Yale, 363.
+7. BT, 213.2; Yale, 363.
 
-8. 
-BT, 213.2; Yale, 363-364.
+8. BT, 213.2; Yale, 363-364.
 
-9. 
-BT, 213.2ff.; Yale, 364ff.
+9. BT, 213.2ff.; Yale, 364ff.
 
-10. 
-BT, 213.2-214.1; Yale, 364.
+10. BT, 213.2-214.1; Yale, 364.
 
-11. 
-BT, 214.1; Yale, 364-365. Trong chú thích của mình về Rô-ma 1:4, Taylor đồng ý, lưu ý về Thi thiên 2 rằng, "Sanh ra là ban cho một tình trạng mới và hạnh phúc; một người con là một người được đặt vào tình trạng ấy. Phù hợp với điều này, những người tốt được gọi là con cái của Đức Chúa Trời, vì họ là con cái của sự sống lại đến sự sống đời đời, sự sống lại được trình bày như...được sanh ra hay sanh lại, được tái sanh." Taylor, Key, 315. Được Edwards trích dẫn, Yale, 365; BT, 214.1.
+11. BT, 214.1; Yale, 364-365. Trong chú thích của mình về Rô-ma 1:4, Taylor đồng ý, lưu ý về Thi thiên 2 rằng, "Sanh ra là ban cho một tình trạng mới và hạnh phúc; một người con là một người được đặt vào tình trạng ấy. Phù hợp với điều này, những người tốt được gọi là con cái của Đức Chúa Trời, vì họ là con cái của sự sống lại đến sự sống đời đời, sự sống lại được trình bày như...được sanh ra hay sanh lại, được tái sanh." Taylor, Key, 315. Được Edwards trích dẫn, Yale, 365; BT, 214.1.
 
-12. 
-BT, 214.1; Yale, 365.
+12. BT, 214.1; Yale, 365.
 
-13. 
-BT, 214.1ff.; Yale.
+13. BT, 214.1ff.; Yale.
 
-14. 
-Yale, 366; BT, 214.1-2.
+14. Yale, 366; BT, 214.1-2.
 
-15. 
-BT, 214.2-215.1; Yale, 366-369.
+15. BT, 214.2-215.1; Yale, 366-369.
 
-16. 
-BT, 214.2; Yale, 367.
+16. BT, 214.2; Yale, 367.
 
-17. 
-Ibid.
+17. Ibid.
 
-18. 
-Ibid.
+18. Ibid.
 
-19. 
-BT, 214.2-215.1; Yale, 367-368.
+19. BT, 214.2-215.1; Yale, 367-368.
 
-20. 
-BT, 215.1; Yale, 368. Taylor giải thích người cũ và người mới một cách phi cá nhân, như chỉ về dân ngoại và Hội thánh Cơ Đốc, tương ứng nhau. Edwards thừa nhận rằng "các tập thể, các dân tộc, các dân, các thành phố, được trình bày một cách hình bóng như những cá nhân," nhưng nói thêm rằng các thuật ngữ này hầu hết được dùng theo nghĩa cá nhân, như ông đã trình bày ở đây. Yale, 368-369; BT, 215.1.
+20. BT, 215.1; Yale, 368. Taylor giải thích người cũ và người mới một cách phi cá nhân, như chỉ về dân ngoại và Hội thánh Cơ Đốc, tương ứng nhau. Edwards thừa nhận rằng "các tập thể, các dân tộc, các dân, các thành phố, được trình bày một cách hình bóng như những cá nhân," nhưng nói thêm rằng các thuật ngữ này hầu hết được dùng theo nghĩa cá nhân, như ông đã trình bày ở đây. Yale, 368-369; BT, 215.1.
 
-21. 
-BT, 215.1ff.; Yale, 369ff.
+21. BT, 215.1ff.; Yale, 369ff.
 
-22. 
-BT, 215.1; Yale, 369.
+22. BT, 215.1; Yale, 369.
 
-23. 
-BT, 215.2; Yale, 369.
+23. BT, 215.2; Yale, 369.
 
-24. 
-BT, 215.2; Yale, 369-370.
+24. BT, 215.2; Yale, 369-370.
 
-25. 
-BT, 215.2; Yale, 370ff.
+25. BT, 215.2; Yale, 370ff.
 
-26. 
-Yale, 370; BT, 215.2.
+26. Yale, 370; BT, 215.2.
 
-27. 
-Ibid.
+27. Ibid.
 
-28. 
-Ibid.
+28. Ibid.
 
-29. 
-Ibid.
+29. Ibid.
 
-30. 
-Yale ghi Giăng 3:25, BT ghi Giăng 3:5, là câu tham chiếu đúng.
+30. Yale ghi Giăng 3:25, BT ghi Giăng 3:5, là câu tham chiếu đúng.
 
-31. 
-Yale, 370; BT, 215.2.
+31. Yale, 370; BT, 215.2.
 
-32. 
-Yale ghi 1 Giăng 3:1, 5; BT ghi 1 Giăng 3:1, 3.
+32. Yale ghi 1 Giăng 3:1, 5; BT ghi 1 Giăng 3:1, 3.
 
-33. 
-Yale, 370; BT, 215.2.
+33. Yale, 370; BT, 215.2.
 
-34. 
-BT, 215.2; Yale, 370-371.
+34. BT, 215.2; Yale, 370-371.
 
-35. 
-BT, 215.2; Yale, 371.
+35. BT, 215.2; Yale, 371.
 
 Chương Hai: Bằng Chứng từ Sự Cần Thiết của Việc Được Sanh Lại
 
@@ -3321,7 +2924,7 @@ Giăng 3:3: "Đức Chúa Jêsus cất tiếng đáp rằng: Quả thật, quả
 
 Công vụ các Sứ đồ 26:18: "đặng mở mắt họ, hầu cho họ từ tối tăm mà đến sáng láng, từ quyền lực của quỉ Sa-tan mà đến Đức Chúa Trời, và cho họ bởi đức tin nơi ta được sự tha tội, cùng phần gia tài với các thánh đồ."
 
-IV. Được ban cho "lòng mới và tâm thần mới" cũng chính là sự thay đổi diễn ra khi một người ăn năn, trở lại, được sanh lại, được cắt bì trong lòng, và được "sống lại về thuộc linh từ kẻ chết."13
+IV. ĐƯỢC BAN CHO "LÒNG MỚI VÀ TÂM THẦN MỚI" CŨNG CHÍNH LÀ SỰ THAY ĐỔI DIỄN RA KHI MỘT NGƯỜI ĂN NĂN, TRỞ LẠI, ĐƯỢC SANH LẠI, ĐƯỢC CẮT BÌ TRONG LÒNG, VÀ ĐƯỢC "SỐNG LẠI VỀ THUỘC LINH TỪ KẺ CHẾT."13
 
 Ê-xê-chi-ên 36:25-27: "Ta sẽ rưới nước trong trên các ngươi, và các ngươi sẽ trở nên sạch; ta sẽ làm sạch hết mọi sự ô uế và mọi thần tượng của các ngươi. Ta sẽ ban lòng mới cho các ngươi, và đặt thần mới trong các ngươi. Ta sẽ cất lòng bằng đá khỏi thịt các ngươi, và ban cho các ngươi lòng bằng thịt. Ta sẽ đặt Thần ta trong các ngươi, và khiến các ngươi noi theo luật lệ ta, thì các ngươi sẽ giữ mạng lịnh ta và làm theo." Chú thích: Edwards xem đoạn này đứng đằng sau sự ngạc nhiên của Đấng Christ về việc Ni-cô-đem không biết sự cần thiết của sự sanh lại: "Ngươi là giáo sư của dân Y-sơ-ra-ên, mà không biết những điều đó sao?" (Giăng 3:10).14
 
@@ -3437,110 +3040,75 @@ Rô-ma 6:4–6: "Vậy chúng ta đã bị chôn với Ngài bởi phép báp-t�
 
 5. Lược đồ của Taylor có hàm ý rằng một số tín hữu trước kia đã không từng chết trong tội lỗi mình như Ê-phê-sô 2:1 đã phán không? Nếu không, thì điều đó nói lên điều gì về nhu cầu phổ quát của sự tái sanh và do đó về tính tội lỗi phổ quát của loài người?
 
-1.
-BT, 213.1; Yale, 361.
+1. BT, 213.1; Yale, 361.
 
-2.
-BT, 213.1ff.; Yale, 361ff.
+2. BT, 213.1ff.; Yale, 361ff.
 
-3.
-Yale, 362; BT, 213.1.
+3. Yale, 362; BT, 213.1.
 
-4.
-BT, 213.1-2; Yale, 362.
+4. BT, 213.1-2; Yale, 362.
 
-5.
-BT, 213.2; Yale, 362-363.
+5. BT, 213.2; Yale, 362-363.
 
-6.
-BT, 213.2; Yale, 363-364.
+6. BT, 213.2; Yale, 363-364.
 
-7.
-BT, 213.2; Yale, 363.
+7. BT, 213.2; Yale, 363.
 
-8.
-BT, 213.2; Yale, 363-364.
+8. BT, 213.2; Yale, 363-364.
 
-9.
-BT, 213.2ff.; Yale, 364ff.
+9. BT, 213.2ff.; Yale, 364ff.
 
-10.
-BT, 213.2-214.1; Yale, 364.
+10. BT, 213.2-214.1; Yale, 364.
 
-11.
-BT, 214.1; Yale, 364-365. Trong chú thích của ông về Rô-ma 1:4, Taylor đồng ý, nhận xét về Thi Thiên 2 rằng: "Sanh ra là ban cho một tình trạng mới và phước hạnh; một người con là một người được đặt vào trong tình trạng ấy. Phù hợp với điều này, những người tốt được gọi là con cái Đức Chúa Trời, vì họ là những người con của sự sống lại cho sự sống đời đời, điều được mô tả như... được sanh ra hay được sanh lại, được tái sanh." Taylor, Key, 315. Được Edwards trích dẫn, Yale, 365; BT, 214.1.
+11. BT, 214.1; Yale, 364-365. Trong chú thích của ông về Rô-ma 1:4, Taylor đồng ý, nhận xét về Thi Thiên 2 rằng: "Sanh ra là ban cho một tình trạng mới và phước hạnh; một người con là một người được đặt vào trong tình trạng ấy. Phù hợp với điều này, những người tốt được gọi là con cái Đức Chúa Trời, vì họ là những người con của sự sống lại cho sự sống đời đời, điều được mô tả như... được sanh ra hay được sanh lại, được tái sanh." Taylor, Key, 315. Được Edwards trích dẫn, Yale, 365; BT, 214.1.
 
-12.
-BT, 214.1; Yale, 365.
+12. BT, 214.1; Yale, 365.
 
-13.
-BT, 214.1ff.; Yale.
+13. BT, 214.1ff.; Yale.
 
-14.
-Yale, 366; BT, 214.1-2.
+14. Yale, 366; BT, 214.1-2.
 
-15.
-BT, 214.2-215.1; Yale, 366-369.
+15. BT, 214.2-215.1; Yale, 366-369.
 
-16.
-BT, 214.2; Yale, 367.
+16. BT, 214.2; Yale, 367.
 
-17.
-Ibid.
+17. Ibid.
 
-18.
-Ibid.
+18. Ibid.
 
-19.
-BT, 214.2-215.1; Yale, 367-368.
+19. BT, 214.2-215.1; Yale, 367-368.
 
-20.
-BT, 215.1; Yale, 368. Taylor giải thích người cũ và người mới một cách phi cá nhân, như chỉ về dân Ngoại và hội thánh Cơ Đốc, tương ứng. Edwards thừa nhận rằng "các tập thể, các dân tộc, dân chúng, các thành phố, được mô tả một cách bóng bẩy bằng những con người," nhưng thêm rằng các thuật ngữ này phần lớn được dùng một cách cá nhân, như ông đã trình bày chúng ở đây. Yale, 368-369; BT, 215.1.
+20. BT, 215.1; Yale, 368. Taylor giải thích người cũ và người mới một cách phi cá nhân, như chỉ về dân Ngoại và hội thánh Cơ Đốc, tương ứng. Edwards thừa nhận rằng "các tập thể, các dân tộc, dân chúng, các thành phố, được mô tả một cách bóng bẩy bằng những con người," nhưng thêm rằng các thuật ngữ này phần lớn được dùng một cách cá nhân, như ông đã trình bày chúng ở đây. Yale, 368-369; BT, 215.1.
 
-21.
-BT, 215.1ff.; Yale, 369ff.
+21. BT, 215.1ff.; Yale, 369ff.
 
-22.
-BT, 215.1; Yale, 369.
+22. BT, 215.1; Yale, 369.
 
-23.
-BT, 215.2; Yale, 369.
+23. BT, 215.2; Yale, 369.
 
-24.
-BT, 215.2; Yale, 369-370.
+24. BT, 215.2; Yale, 369-370.
 
-25.
-BT, 215.2; Yale, 370ff.
+25. BT, 215.2; Yale, 370ff.
 
-26.
-Yale, 370; BT, 215.2.
+26. Yale, 370; BT, 215.2.
 
-27.
-Ibid.
+27. Ibid.
 
-28.
-Ibid.
+28. Ibid.
 
-29.
-Ibid.
+29. Ibid.
 
-30.
-Yale ghi Giăng 3:25, BT ghi Giăng 3:5, là câu Kinh Thánh đúng.
+30. Yale ghi Giăng 3:25, BT ghi Giăng 3:5, là câu Kinh Thánh đúng.
 
-31.
-Yale, 370; BT, 215.2.
+31. Yale, 370; BT, 215.2.
 
-32.
-Yale ghi 1 Giăng 3:1, 5; BT ghi 1 Giăng 3:1, 3.
+32. Yale ghi 1 Giăng 3:1, 5; BT ghi 1 Giăng 3:1, 3.
 
-33.
-Yale, 370; BT, 215.2.
+33. Yale, 370; BT, 215.2.
 
-34.
-BT, 215.2; Yale, 370-371.
+34. BT, 215.2; Yale, 370-371.
 
-35.
-BT, 215.2; Yale, 371.
+35. BT, 215.2; Yale, 371.
 
 Phần Bốn: Những Câu Trả Lời Cho Các Sự Phản Đối Tội Nguyên Thủy
 
@@ -3572,17 +3140,13 @@ Bằng cách so sánh các phát biểu khác nhau của Taylor về chủ đề
 
 5. Quan điểm của Taylor về sự tự do của ý chí "lật đổ các giáo lý về quyền tối cao của ân điển, sự tuyển chọn, sự cứu chuộc, sự ăn năn trở lại, sự vận hành hữu hiệu của Đức Thánh Linh, bản chất của đức tin cứu rỗi, và sự bền đỗ" như thế nào? Tất cả các giáo lý này liên hệ với bản chất của ý chí sa ngã của con người ra sao?
 
-1.
-Taylor, trích dẫn bởi Edwards trong Yale, 380; BT, 217.1-2.
+1. Taylor, trích dẫn bởi Edwards trong Yale, 380; BT, 217.1-2.
 
-2.
-Yale, 376; BT, 216.1.
+2. Yale, 376; BT, 216.1.
 
-3.
-Taylor, Original Sin, 442. Được Edwards trích dẫn trong Yale, 378; BT, 217.1.
+3. Taylor, Original Sin, 442. Được Edwards trích dẫn trong Yale, 378; BT, 217.1.
 
-4.
-Đối với Edwards, quan niệm "A-mi-ni-út" và "Pê-la-giút" rằng một ý chí tự do là điều cần thiết cho đạo đức hay tội lỗi, và rằng một ý chí không thể là tự do nếu nó bị quyết định bởi một khuynh hướng có trước, đứng đằng sau "hầu hết mọi cuộc tranh luận chúng ta có với những nhà thần học như thế." "Nếu họ có thể duy trì quan niệm đặc thù của mình về sự tự do, gồm trong quyền năng tự quyết định của ý chí, như điều cần thiết cho tác nhân luân lý, và có thể thiết lập nó một cách triệt để để chống lại các lập luận nghịch cùng nó, thì họ có một tòa thành bất khả xâm phạm, nơi họ có thể lui về, và giữ vững bất khả chiến bại, trong mọi cuộc tranh luận họ có với các nhà thần học cải chánh, về tội nguyên thủy, quyền tối cao của ân điển, sự tuyển chọn, sự cứu chuộc, sự ăn năn trở lại, sự vận hành hữu hiệu của Đức Thánh Linh, bản chất của đức tin cứu rỗi, sự bền đỗ của các thánh đồ, và các nguyên tắc khác cùng loại." Yale, 376; BT, 216.1. Đây là một vấn đề trung tâm của cuộc Cải Chánh mà vì đó Luther đã viết tác phẩm nổi tiếng của ông, Sự Nô Lệ Của Ý Chí (Bondage of the Will).
+4. Đối với Edwards, quan niệm "A-mi-ni-út" và "Pê-la-giút" rằng một ý chí tự do là điều cần thiết cho đạo đức hay tội lỗi, và rằng một ý chí không thể là tự do nếu nó bị quyết định bởi một khuynh hướng có trước, đứng đằng sau "hầu hết mọi cuộc tranh luận chúng ta có với những nhà thần học như thế." "Nếu họ có thể duy trì quan niệm đặc thù của mình về sự tự do, gồm trong quyền năng tự quyết định của ý chí, như điều cần thiết cho tác nhân luân lý, và có thể thiết lập nó một cách triệt để để chống lại các lập luận nghịch cùng nó, thì họ có một tòa thành bất khả xâm phạm, nơi họ có thể lui về, và giữ vững bất khả chiến bại, trong mọi cuộc tranh luận họ có với các nhà thần học cải chánh, về tội nguyên thủy, quyền tối cao của ân điển, sự tuyển chọn, sự cứu chuộc, sự ăn năn trở lại, sự vận hành hữu hiệu của Đức Thánh Linh, bản chất của đức tin cứu rỗi, sự bền đỗ của các thánh đồ, và các nguyên tắc khác cùng loại." Yale, 376; BT, 216.1. Đây là một vấn đề trung tâm của cuộc Cải Chánh mà vì đó Luther đã viết tác phẩm nổi tiếng của ông, Sự Nô Lệ Của Ý Chí (Bondage of the Will).
 
 Chương Hai: "Nếu con người sanh ra đã tội lỗi, thì Đức Chúa Trời, Đấng đã dựng nên chúng ta, đáng bị quở trách."
 
@@ -3662,92 +3226,63 @@ III. Đức Chúa Trời không thể bị chứng minh là nguyên nhân của 
 
 6. Trong thần học của Edwards, mối quan hệ giữa các nguyên tắc "thuộc linh, thánh khiết và thiêng liêng" mà ông đã đánh mất khi phạm tội với điều ông đã nhận lại khi được cứu là gì? Để có thêm cái nhìn sâu sắc về tư tưởng của Edwards về điều này, xin xem dấu hiệu tích cực đầu tiên trong mười hai dấu hiệu của một công việc đầy ân điển của Đức Chúa Trời nơi một tín hữu trong luận văn của ông, Những Tình Cảm Tôn Giáo (The Religious Affections).29
 
-1.
-Taylor, trích dẫn bởi Edwards trong Yale, 380; BT, 217.1-2.
+1. Taylor, trích dẫn bởi Edwards trong Yale, 380; BT, 217.1-2.
 
-2.
-BT, 217.2ff.; Yale, 380ff.
+2. BT, 217.2ff.; Yale, 380ff.
 
-3.
-BT, 217.2; Yale, 381.
+3. BT, 217.2; Yale, 381.
 
-4.
-BT, 217.2-218.1; Yale, 381.
+4. BT, 217.2-218.1; Yale, 381.
 
-5.
-Yale, 381; BT, 217.2.
+5. Yale, 381; BT, 217.2.
 
-6.
-Yale, 381-382; BT, 217.2-218.1.
+6. Yale, 381-382; BT, 217.2-218.1.
 
-7.
-BT, 218.1-219.1; Yale, 382-383.
+7. BT, 218.1-219.1; Yale, 382-383.
 
-8.
-BT, 218.1; Yale, 382.
+8. BT, 218.1; Yale, 382.
 
-9.
-Ibid.
+9. Ibid.
 
-10.
-BT, 218.1-219.1; Yale, 382-383.
+10. BT, 218.1-219.1; Yale, 382-383.
 
-11.
-BT, 218.1-2; Yale, 382.
+11. BT, 218.1-2; Yale, 382.
 
-12.
-BT, 218.2; Yale, 382.
+12. BT, 218.2; Yale, 382.
 
-13.
-Ibid.
+13. Ibid.
 
-14.
-Yale, 383; BT, 219.1.
+14. Yale, 383; BT, 219.1.
 
-15.
-Để thảo luận thêm về điểm này và các điểm liên quan khác, xin xem những nhận xét của người biên tập trong các chú thích của BT, 217.1-218.2. Để thảo luận ngắn gọn về quan điểm của Edwards về sự gian ác vô hạn của tội lỗi, xin xem Craig Biehl, The Infinite Merit of Christ (Jackson, MS: Reformed Academic Press, 2009), 113-119. Chúng ta khôn ngoan khi thừa nhận rằng trong việc cố gắng giải thích bản chất của tội lỗi và linh hồn, đặc biệt trong ánh sáng của việc A-đam đã được dựng nên với một khuynh hướng công chính bởi một Đức Chúa Trời hoàn hảo, chúng ta bị giới hạn bởi những hạn chế của con người mình. Đức Chúa Trời đã phán rõ cho chúng ta biết nguồn gốc, bản chất, và kết quả của tội lỗi, nhưng ngoài những gì Ngài đã bày tỏ cho chúng ta trong Kinh Thánh, chúng ta nhất thiết phải đối diện với sự mầu nhiệm.
+15. Để thảo luận thêm về điểm này và các điểm liên quan khác, xin xem những nhận xét của người biên tập trong các chú thích của BT, 217.1-218.2. Để thảo luận ngắn gọn về quan điểm của Edwards về sự gian ác vô hạn của tội lỗi, xin xem Craig Biehl, The Infinite Merit of Christ (Jackson, MS: Reformed Academic Press, 2009), 113-119. Chúng ta khôn ngoan khi thừa nhận rằng trong việc cố gắng giải thích bản chất của tội lỗi và linh hồn, đặc biệt trong ánh sáng của việc A-đam đã được dựng nên với một khuynh hướng công chính bởi một Đức Chúa Trời hoàn hảo, chúng ta bị giới hạn bởi những hạn chế của con người mình. Đức Chúa Trời đã phán rõ cho chúng ta biết nguồn gốc, bản chất, và kết quả của tội lỗi, nhưng ngoài những gì Ngài đã bày tỏ cho chúng ta trong Kinh Thánh, chúng ta nhất thiết phải đối diện với sự mầu nhiệm.
 
-16.
-BT, 219.1ff.; Yale, 383ff.
+16. BT, 219.1ff.; Yale, 383ff.
 
-17.
-BT, 219.1; Yale, 383.
+17. BT, 219.1; Yale, 383.
 
-18.
-Yale, 383; BT, 219.1. Tuy nhiên, những năng lực cấu thành A-đam và dòng dõi người thành những "tác nhân luân lý" có trách nhiệm trước Đức Chúa Trời vẫn còn sau tội lỗi của A-đam. Xem những nhận xét của người biên tập BT, 217.1, chú thích.
+18. Yale, 383; BT, 219.1. Tuy nhiên, những năng lực cấu thành A-đam và dòng dõi người thành những "tác nhân luân lý" có trách nhiệm trước Đức Chúa Trời vẫn còn sau tội lỗi của A-đam. Xem những nhận xét của người biên tập BT, 217.1, chú thích.
 
-19.
-BT, 219.1; Yale, 385.
+19. BT, 219.1; Yale, 385.
 
-20.
-Yale, 385; BT, 219.2.
+20. Yale, 385; BT, 219.2.
 
-21.
-BT, 219.2; Yale, 386.
+21. BT, 219.2; Yale, 386.
 
-22.
-BT, 219.2-220.1; Yale, 386-387.
+22. BT, 219.2-220.1; Yale, 386-387.
 
-23.
-BT, 219.2-220.1; Yale, 386.
+23. BT, 219.2-220.1; Yale, 386.
 
-24.
-Ibid.
+24. Ibid.
 
-25.
-BT, 220.1; Yale, 386.
+25. BT, 220.1; Yale, 386.
 
-26.
-BT, 220.1; Yale, 386-387.
+26. BT, 220.1; Yale, 386-387.
 
-27.
-BT, 220.1; Yale, 387-388.
+27. BT, 220.1; Yale, 387-388.
 
-28.
-Ibid.
+28. Ibid.
 
-29.
-Affections, BT, Works, 1:264-274; Yale, 2:197-239; BT, bản bìa mềm, 124-165.
+29. Affections, BT, Works, 1:264-274; Yale, 2:197-239; BT, bản bìa mềm, 124-165.
 
 Chương Ba: "Sự quy tội của A-đam cho dòng dõi người là bất công vì A-đam và dòng dõi người không phải là một."
 
@@ -4385,12 +3920,4 @@ II. Đức Chúa Trời "có khả năng khiến chính lẽ thật của Ngài 
 
 4. Tài liệu đã dẫn.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- No [NEEDS REVIEW] flags were needed: the Monergism EPUB (clean non-OCR text) was fully legible throughout.
-- Exclusions (true-work-only rule): EPUB title block (condensed into the file header), copyright/legal block, navigational table of contents, and the Foreword by Dr. Sam Storms (Bridgeway Church, Oklahoma City) — another author's front matter, not the author's own work. The Author's Preface and all four parts, chapters, and conclusion are translated in full in source order.
-- Source print artifacts kept verbatim as printed: the source heading typo "theNew Testament" (P0808) translated normally as "Tân Ước"; the heading "[H] , Ephesians 2:3, and Romans 7" (P0903) kept with its leading comma; the source typo "f ye know..." (P1499) rendered as the clearly intended "Ví bằng anh em biết"; "Ephesians 4:22:24" (P1484/P1507) rendered "Ê-phê-sô 4:22–24"; "Respectfully" in a Taylor quotation footnote (P1536) rendered "tương ứng" (clearly "respectively" in Edwards' wording).
-- Corrupted Greek in source P0934 ("from φυω") rendered as φυω per the parallel forms in P0935 (τεκνα/υἱοι); no guesswork beyond that.
-- Bible quotations are rendered in 1934 Vietnamese Bible style (style only, not character-verified). Where the authentic 1934 wording would use "sự xưng công bình" or "Tin Lành", the batch terminology rule takes precedence: "sự xưng công chính" is used everywhere.
-- Monergism edition: clean EPUB text, no OCR layer; genuinely Reformed work (study guide to Jonathan Edwards' Original Sin) — translated in full, no skip.
+Mở trong trình đọc Về thư viện

@@ -1,5 +1,12 @@
 BA MƯƠI MỐT BÀI SUY GẪM VỀ PHÚC ÂM
-Robert Hawker
+
+Robert Hawker · One Meditations on the Gospel (eBook) | Robert Hawker
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+BA MƯƠI MỐT BÀI SUY GẪM VỀ PHÚC ÂM Robert Hawker
 
 [H] 1. "Lời Ở Gần Ngươi"
 
@@ -491,11 +498,4 @@ countenance – mặt, dung mạo.
 
 comely – đáng yêu, xinh đẹp.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Tiêu đề trong danh sách MG-2 ghi "One Meditations on the Gospel (eBook) | Robert Hawker", trường tác giả "Thirty" — bị cắt/trích sai khi soạn danh sách. Trang tựa sách và siêu dữ liệu EPUB (dc:title/dc:creator) xác nhận tên thật: "Thirty-One Meditations on the Gospel" của Robert Hawker. Tiêu đề Việt dịch từ tên thật của sách.
-- Đã loại trừ (không dịch): khối tựa P0000–P0001 (gộp vào dòng tiêu đề), Mục lục điều hướng P0002–P0033 (31 tựa chương đều có trong nội dung), quảng cáo "Other Devotional Literature"/"Chapel Library Resources" P0034–P0035, và khối quảng cáo + thông tin liên lạc của nhà xuất bản Chapel Library P0225–P0253.
-- Phần "Ghi chú" (P0254–P0309): chú giải của nhà xuất bản Chapel Library (giải thích từ cổ/từ khó), không phải văn bản của Hawker — đã dịch toàn bộ, đặt cuối bản dịch, đánh dấu "[H] Ghi chú".
-- Các số chú thích trên dòng trong văn bản (1–55) giữ nguyên như bản in, ứng với mục tương ứng trong phần Ghi chú.
-- Bản tiếng Anh là ấn bản đã hiện đại hóa nhẹ của Chapel Library (không phải nguyên văn thế kỷ 19 của Hawker).
-- Nguồn P0036 in "Gave Himsel f ?" và "itsel f", P0220 in "31. The Praise of All His Saints" thiếu dấu ngoặc mở — đều là lỗi chữ bản in/bản điện tử, đã chuẩn hóa nhẹ khi dịch (không ảnh hưởng ý nghĩa).
+Mở trong trình đọc Về thư viện
