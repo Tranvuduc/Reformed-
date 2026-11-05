@@ -1,5 +1,12 @@
 LUẬT PHÁP VÀ PHÚC ÂM HÒA HỢP, HAY ĐỨC TIN PHÚC ÂM VÀ LUẬT LUÂN LÝ
-Henry Burton
+
+Henry Burton · The Law and the Gospel Reconciled, or The Evangelical Faith and the Moral Law (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+LUẬT PHÁP VÀ PHÚC ÂM HÒA HỢP, HAY ĐỨC TIN PHÚC ÂM VÀ LUẬT LUÂN LÝ Henry Burton
 
 Kính gửi Đức Vương Tử Cao Cả và Quyền Uy, Charles,
 
@@ -359,13 +366,4 @@ Hãy đọc 1 Tê-sa-lô-ni-ca 4:1, Cô-lô-se 1:10, 1 Cô-rinh-tô 7:22, Hê-b�
 
 HẾT.
 
----
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng nghiêm theo HUONG-DAN-DICH.md (16 từ): gospel = "Phúc Âm", justification = "sự xưng công chính", atonement = "sự chuộc tội", grace = "ân điển", Holy Spirit = "Đức Thánh Linh", church = "Hội Thánh", Scripture = "Kinh Thánh"; "inspiration" (của Kinh Thánh) = "sự thần cảm". Không có thuật ngữ bị cấm nào trong thân bài ("sự xưng công bình", "ân sủng", "tin mừng" cho gospel, "Thiên Chúa" ngoài tên riêng "Thiên Chúa giáo", "bí tích" — các thánh lễ được dịch là "nghi thức thánh", "rửa tội" — báp-têm dịch là "báp-têm"/"lễ báp-têm", "hà linh", "sự xưng công chính" đều = 0 lần xuất hiện ngoài phần ghi chú này).
-- Các trích dẫn Kinh Thánh được dịch theo văn phong bản Kinh Thánh tiếng Việt 1934 (chỉ theo văn phong, không đối chiếu từng chữ). Ngoại lệ theo quy ước đợt dịch: trong các câu Kinh Thánh trích nguyên văn, cách dùng chữ nguyên thủy của bản 1934 được giữ nguyên — tại Phi-líp 1:27 giữ "Tin Lành" như bản 1934; từ "Tin Lành" còn xuất hiện một lần trong ngữ cảnh Tin Lành giáo ("các Tác Giả Tin Lành", tức các tác giả Kháng Cách), không phải dịch cho "gospel".
-- Thuật ngữ "Moral Law" được thống nhất dịch là "Luật Luân Lý" trong toàn bài.
-- Không có đoạn nào trong thân bài cần gắn cờ [NEEDS REVIEW]: bản EPUB sạch, không qua OCR, văn bản dễ đọc toàn bộ; các câu Latin trích dẫn (Ambrose, Tertullian, Augustine) được giữ nguyên văn kèm lời chú giải tiếng Việt.
-- Loại trừ (đã kê khai): trang tựa gốc năm 1631 (file split_000 của EPUB: trang tựa với phụ đề, câu gốc 1 Ti-mô-thê 1:5, câu trích của Ambrose và dòng in ấn "LONDON, Printed by J. N. for Thomas Slatter, 1631") — rút gọn thành hai dòng đầu tệp; khối tên sách và mục lục điều hướng (split_001, các đoạn 0–5; mọi tiêu đề đều xuất hiện trong thân bài); dấu phân cách và khối bản quyền Monergism ở cuối sách (split_001, các đoạn 185–188).
-- Ghi chú nguồn: bản dịch dựa trên ấn bản tiếng Anh đã hiện đại hóa (modernized English) của Monergism (EPUB, tháng 10/2023) cho tiểu luận gốc năm 1631 của Henry Burton. Tác phẩm thật gồm: thư kính dâng Vua Charles I, lời "Gửi Độc Giả" của tác giả, luận văn chính "Luật Pháp và Phúc Âm Hòa Hợp", và phần cuối "Các lập trường của những kẻ Phản Luật..." (tổng 179 đoạn, P0006–P0184), dịch toàn văn; chữ "FINIS." cuối sách được dịch là "HẾT."
-- Nguồn: https://www.monergism.com/law-and-gospel-reconciled-ebook (Monergism, EPUB).
+Mở trong trình đọc Về thư viện

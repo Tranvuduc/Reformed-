@@ -1,5 +1,12 @@
 PHÚC ÂM TRONG SÁCH LÊ-VI KÝ
-Henry Law
+
+Henry Law · The Gospel in Leviticus (Bible Commentary eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+PHÚC ÂM TRONG SÁCH LÊ-VI KÝ Henry Law
 
 CỦA LỄ THIÊU
 
@@ -1311,14 +1318,4 @@ Hãy học càng hơn nữa những bài học làm cho sống động của Sá
 
 “Lạy Thánh Linh Vĩ Đại của Đức Chúa Trời hằng sống, chúng con cảm tạ Ngài vì sách Phúc Âm nầy. Xin nghe một lời cầu nguyện khẩn nài, và làm cho sách Lê-vi Ký thành một hạt giống của sự sống—một tia hy vọng—một trận lụt bình an—một đồng cỏ vui thích—một khu vườn an ủi tinh sạch—một bước hướng tới thiên đàng—một sách giáo khoa về tình yêu thương cứu chuộc—một bức tranh về tấm lòng của Đấng Christ, cho nhiều người lữ hành qua thế giới bệnh hoạn vì tội lỗi nầy. Xin nghe, vì cớ Đấng Christ. A-men.”
 
----
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ 16 từ theo hướng dẫn dịch HUONG-DAN-DICH.md được áp dụng nhất quán trong toàn bộ bản dịch: God = "Đức Chúa Trời", Jesus Christ = "Chúa Giê-xu Christ", Holy Spirit = "Đức Thánh Linh", gospel = "Phúc Âm", grace = "ân điển", faith = "đức tin", justification = "sự xưng công chính", sanctification = "sự nên thánh", redemption = "sự cứu chuộc", atonement = "sự chuộc tội", covenant = "giao ước", election = "sự tuyển chọn", predestination = "sự tiền định", salvation = "sự cứu rỗi", church = "Hội Thánh", Scripture = "Kinh Thánh"; "inspiration" của Kinh Thánh = "sự thần cảm".
-- Các thuật ngữ bị cấm không xuất hiện trong thân bài: "sự xưng công bình", "ân sủng", "tin mừng" (cho gospel), "Thiên Chúa", "bí tích" (thay bằng "nghi thức thánh"), "rửa tội" cho baptism (thay bằng "báp-têm"/"lễ báp-têm"), "hà linh", "sự xưng công chính". Các tên riêng "Thiên Chúa giáo"/"Thiên chúa giáo" (chỉ Công Giáo La Mã) không xuất hiện trong tác phẩm này.
-- Các trích dẫn Kinh Thánh được dịch theo văn phong bản Kinh Thánh 1934 (chỉ theo văn phong, không đối chiếu từng chữ với bản 1934).
-- Phần bị loại trừ (không dịch): phần đầu của EPUB (trang tên sách và mục lục điều hướng — mọi tiêu đề chương đều xuất hiện trong thân bài; tên sách và tác giả được rút gọn thành hai dòng đầu tệp) và khối bản quyền của Monergism (© 2019) ở cuối sách.
-- Ghi chú về nguồn: tiêu đề chương trong EPUB in sai "The Plague of Leprocy" (thay cho "Leprosy") — đã dịch theo nghĩa đúng là phong cùi. Một vài lỗi in nhỏ trong bản nguồn (ví dụ "the Sprit" thay cho "the Spirit", "a unauthorized service", từ bị tách "y ours") được đọc theo nghĩa rõ ràng của ngữ cảnh.
-- Bản nguồn dễ đọc trong toàn bộ tác phẩm; thân bài không có đoạn nào phải đánh dấu [NEEDS REVIEW].
+Mở trong trình đọc Về thư viện

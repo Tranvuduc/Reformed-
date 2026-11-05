@@ -1284,12 +1284,4 @@ CŨNG VẬY,
 
 Mọi loại Kinh Thánh và hộp đựng Kinh Thánh, và mọi [sách?] …, sách giáo khoa, v.v. đều có bán tại đó.
 
----
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - "True Godliness" (nhân vật ngụ ngôn) dịch là "Sự Tin Kính Thật" / "Đạo Thật" theo ngữ cảnh; các nhân vật ngụ ngôn khác Việt hóa giữ tính cách (Ông Luật Pháp, Ông Hình Thức, Giả Hình, A-bô-ly-ôn, Lão Nhân, Trầm Tư, Suy Xét, Thỏa Lòng Cơ Đốc...). - 177 cờ [NEEDS REVIEW]: chỗ OCR tiếng Anh thế kỷ 17 hỏng nặng không khôi phục được (số câu Kinh Thánh OCR sai liệt kê riêng, tên riêng trong danh sách kẻ thù, vài cụm trong diễn thuyết và thơ). David nên duyệt kỹ. - OCR gốc đánh số hai chương liên tiếp đều là "CHAP. II." — giữ nguyên trung thực; có thể bản in 1684 in nhầm. - Chú thích lề (margin notes) đã hòa vào câu văn.
-
-Nguyên tác: "The Travels of True Godliness" — Benjamin Keach (1640–1704), ấn bản thứ ba, London 1684 (ngụ ngôn thần học Báp-tít Cải Chánh). Nguồn OCR: archive.org (bim_early-english-books-1641-1700_the-travels-of-true-godl_keach-benjamin_1684).
-
 Mở trong trình đọc Về thư viện

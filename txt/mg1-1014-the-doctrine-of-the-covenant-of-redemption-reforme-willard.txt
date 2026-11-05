@@ -1,5 +1,12 @@
 GIÁO LÝ VỀ GIAO ƯỚC CỨU CHUỘC
-Samuel Willard
+
+Samuel Willard · The Doctrine of the Covenant of Redemption (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+GIÁO LÝ VỀ GIAO ƯỚC CỨU CHUỘC Samuel Willard
 
 CHƯƠNG I.
 
@@ -557,13 +564,4 @@ Và giờ đây, anh em còn có thể làm gì ít hơn là kỷ niệm sự t�
 
 HẾT.
 
----
-
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng: 16 từ theo HUONG-DAN-DICH.md (gospel = "Phúc Âm"; justification = "sự xưng công chính"; atonement = "sự chuộc tội"; các từ bị cấm "sự xưng công bình", "ân sủng", "tin mừng", "Thiên Chúa", "bí tích", "rửa tội", "hà linh", "sự xưng công chính" không xuất hiện trong thân bài).
-- Trích dẫn Kinh Thánh theo phong cách bản dịch 1934 (chỉ theo phong cách, không đối chiếu từng chữ).
-- 6 ghi chú [NEEDS REVIEW] trong thân bài, đều là lỗi in/đánh máy của bản nguồn được giữ nguyên văn, không suy đoán: (1) "Supralapsarians" nhưng mô tả của chính nguồn lại hợp với phái hạ-lập (infralapsarianism), có lẽ in nhầm nhãn; (2) "it Past into a Futurition"; (3) "Dtcree" thay vì "Decree"; (4) trích dẫn in "Rô-ma 8:8" nhưng nội dung là Rô-ma 5:8; (5) trích dẫn in "Khải Huyền 22:27" trong khi Khải Huyền 22 chỉ có 21 câu (nội dung hợp Khải Huyền 22:17); (6) ký hiệu 〈◊〉 bị hỏng trong "put under a 〈◊〉" (ngữ cảnh gợi ý "giao ước (việc làm)").
-- Ghi chú nguồn: đoạn mở đầu P0059 trong EPUB bắt đầu giữa câu (đoạn văn khuyết đầu như bản in), được dịch nguyên văn.
-- Các phần loại trừ (theo tiền lệ của đợt): khối tên sách (rút gọn thành 2 dòng đầu tệp), mục lục điều hướng, "Lời Tựa Cho Bạn Đọc" của Increase Mather (lời tựa của tác giả khác), dòng phân cách "-----" và khối bản quyền Monergism.
-- Bài viết là công trình chính thống của Samuel Willard (1693) về giao ước cứu chuộc giữa Đức Chúa Cha và Đức Chúa Con; bản EPUB Monergism sạch, không OCR.
+Mở trong trình đọc Về thư viện

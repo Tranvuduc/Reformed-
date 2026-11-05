@@ -1,5 +1,12 @@
 THƯ AN ỦI
-Juan Pérez de Pineda
+
+Juan Pérez de Pineda · The Epistle of Consolation (Church History eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+THƯ AN ỦI Juan Pérez de Pineda
 
 Thư Đề Tặng
 
@@ -439,22 +446,4 @@ Vậy chúng ta đừng đổi lòng thương xót và sự bình an đời đ�
 
 Hết
 
----
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng: 16 từ theo HUONG-DAN-DICH.md (God = Đức Chúa Trời; Jesus Christ = Chúa Giê-xu Christ; Holy Spirit = Đức Thánh Linh; gospel = "Phúc Âm"; grace = ân điển; faith = đức tin; justification = "sự xưng công chính"; sanctification = "sự nên thánh"; redemption = "sự cứu chuộc"; atonement = "sự chuộc tội"; covenant = giao ước; election = "sự tuyển chọn"; predestination = "sự tiền định"; salvation = "sự cứu rỗi"; church = Hội Thánh; Scripture = Kinh Thánh). Các thuật ngữ bị cấm ("sự xưng công bình", "ân sủng", "tin mừng", "Thiên Chúa", "bí tích", "rửa tội", "hà linh", "sự xưng công chính") không xuất hiện trong thân bài.
-- Các câu Kinh Thánh được diễn đạt theo văn phong bản dịch 1934 (chỉ theo văn phong, không đối chiếu từng chữ với bản in 1934).
-- 1 ghi chú [NEEDS REVIEW] trong thân bài: bản nguồn in lặp chữ "give them give them" (P0246) — giữ nguyên như bản in.
-
-EXCLUSIONS (đã loại trừ, theo quy ước đợt):
-- P0000–P0026: bìa, khối tên sách, thông tin nhà xuất bản ReformedBooksOnline, tiểu sử dịch giả — khối tên sách được rút gọn thành 2 dòng đầu tệp.
-- P0027–P0051: mục lục điều hướng (mọi tiêu đề chương đều xuất hiện trong thân bài).
-- P0052–P0106: "Biographical Preface" của dịch giả Charles F. Johnson (tác giả khác — loại trừ theo tiền lệ).
-- P0326–P0845: bộ chú thích cuối sách [1]–[519] của dịch giả (loại trừ theo tiền lệ chú thích; các số chú thích [n] trong bài được giữ nguyên vị trí).
-
-SOURCE NOTES:
-- Nguồn: EPUB Monergism (bản dịch tiếng Anh của Charles F. Johnson từ bản tiếng Tây Ban Nha 1874, in lại từ nguyên tác 1560 của Juan Pérez de Pineda).
-- "Thư Đề Tặng" (Dedicatory Epistle, P0107–P0118) là của chính tác giả — đã dịch đầy đủ.
-- Các từ vay mượn tiếng Tây Ban Nha ("sanbenito") và tên riêng giữ nguyên như bản in.
+Mở trong trình đọc Về thư viện

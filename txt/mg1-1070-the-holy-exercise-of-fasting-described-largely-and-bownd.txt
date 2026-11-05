@@ -1,5 +1,12 @@
 SỰ KIÊNG ĂN THÁNH: ĐƯỢC TRÌNH BÀY RỘNG RÃI VÀ RÕ RÀNG TỪ LỜI ĐỨC CHÚA TRỜI
-Nicholas Bownd
+
+Nicholas Bownd · The Holy Exercise of Fasting: Described Largely and Plainly out of the Word of God (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ KIÊNG ĂN THÁNH: ĐƯỢC TRÌNH BÀY RỘNG RÃI VÀ RÕ RÀNG TỪ LỜI ĐỨC CHÚA TRỜI Nicholas Bownd
 
 LỜI NÓI ĐẦU I. GỬI ĐỨC CHA ĐÁNG KÍNH NHẤT.
 
@@ -412,18 +419,5 @@ BẢN VĂN & LỜI DIỄN GIẢI.
 MỘT SỰ GIÚP ĐỠ TỐT CHO MỘT TRÍ NHỚ KÉM.
 
 HẾT.
----
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng theo HUONG-DAN-DICH.md (16 từ, không ngoại lệ): justification = "sự xưng công chính", gospel = "Phúc Âm", atonement = "sự chuộc tội", fasting = "sự kiêng ăn". Các thuật ngữ bị cấm không xuất hiện trong thân bài ("sự xưng công bình", "ân sủng", "tin mừng", "Thiên Chúa", "bí tích", "rửa tội", "hà linh", "sự xưng công chính"); các lần xuất hiện "Thiên Chúa giáo"/"người Thiên Chúa giáo"/"người Công giáo" là tên riêng chỉ Giáo hội Rô-ma (ngoại lệ cho phép), "người Tin Lành" chỉ dùng trong ngữ cảnh nói về đạo Tin Lành. Trong các trích dẫn Kinh Thánh theo văn phong 1934, giữ nguyên văn 1934 ("xưng công bình", "Tin Lành") không ép theo bảng thuật ngữ, theo tiền lệ các cuốn #271, #304, #333.
-- Các câu Kinh Thánh được dịch theo văn phong 1934 (chỉ theo văn phong, không đối chiếu từng chữ).
-- [NEEDS REVIEW: ...] đánh dấu các chỗ bản nguồn in sai hoặc khó đọc, được giữ nguyên văn, không đoán. Tổng cộng có 24 ghi chú NEEDS REVIEW trong thân bài và 2 lần tự nhắc ở footer này.
-
-GHI CHÚ NGUỒN VÀ PHẠM VI:
-- Nguồn: EPUB Monergism (2025), bản văn EEBO-TCP do Project Puritas đánh máy lại và Monergism hiệu đính thêm; không phải bản OCR.
-- Tác phẩm thật được dịch toàn văn: P0040–P0245 (Lời nói đầu I, Lời nói đầu II, 9 Bài giảng, Hướng dẫn cầu nguyện, FINIS), 206 đoạn văn.
-- Loại trừ (đã công bố): bìa/tên sách/khối bản quyền/lời ghi của biên tập viên (P0000–P0014); mục lục điều hướng (P0015–P0039, mọi tiêu đề chương đều có trong thân bài); Phụ lục Danh mục câu Kinh Thánh tham chiếu (P0246–P0266, danh sách định vị câu, theo tiền lệ loại trừ danh sách định vị).
-- Tiêu đề "PREF. I. TO THE RIGHT REVERAND." giữ nguyên chính tả bản in ("REVERAND" = REVEREND).
-- Các lỗi in rõ ràng được đọc theo nghĩa rõ và ghi chú tại chỗ (ví dụ "deer years" → "những năm đói kém"; "three loves" → "three loaves"); các câu trích dẫn sai được giữ nguyên văn.
+Mở trong trình đọc Về thư viện

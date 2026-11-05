@@ -1,5 +1,12 @@
 BỔN PHẬN ĐỌC KINH THÁNH VÀ CÁC SÁCH TIN KÍNH KHÁC
-Theodorus van der Groe
+
+Theodorus van der Groe · The Duty of Reading Holy Scripture and Other Godly Books
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+BỔN PHẬN ĐỌC KINH THÁNH VÀ CÁC SÁCH TIN KÍNH KHÁC Theodorus van der Groe
 
 Đặc ân lớn lao mà Đức Chúa Trời đã ban cho loài người Lời của Ngài cùng nhiều sách hữu ích vì lợi ích và sự cứu rỗi của họ
 
@@ -304,12 +311,5 @@ Với chìa khóa tri thức này họ phải liên tục mở khóa và mở c�
 Kralingen, ngày 12 tháng 5 năm 1747
 
 Th. van der Groe
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ theo hướng dẫn dịch HUONG-DAN-DICH.md (16 từ bắt buộc): Đức Chúa Trời; Chúa Giê-xu Christ; Đức Thánh Linh; "Phúc Âm"; ân điển; đức tin; sự xưng công chính; sự nên thánh; sự cứu chuộc; sự chuộc tội; giao ước; sự tuyển chọn; sự tiền định; sự cứu rỗi; Hội Thánh; Kinh Thánh. "inspiration" (của Kinh Thánh) = "sự thần cảm".
-- Các thuật ngữ bị cấm không xuất hiện trong thân bài: "sự xưng công bình", "ân sủng", "tin mừng" (cho gospel), "Thiên Chúa", "bí tích", "rửa tội" (báp-têm), "hà linh", "sự xưng công chính". "Tin Lành" chỉ xuất hiện trong ngữ cảnh "đạo Tin Lành" (chỉ phái Tin Lành), không phải cách dịch của gospel.
-- Quy ước ghi chú: [NEEDS REVIEW: …] được dùng để đánh dấu chỗ văn bản nguồn bị lỗi in hoặc không đọc được, không bao giờ đoán nghĩa.
-- Nguồn dịch: bản EPUB của Monergism, trích theo thứ tự spine. Lời Tòa soạn ghi: bản tiếng Anh này là bản dịch do Claude thực hiện từ bản tiếng Hà Lan hiện đại của văn bản gốc (Theodorus van der Groe viết bằng tiếng Hà Lan năm 1747); bản đánh máy được Claude sao chép nguyên văn. Vì vậy bản dịch tiếng Việt này được dịch từ một bản tiếng Anh do máy dịch — không đối chiếu với nguyên bản tiếng Hà Lan.
-- Trích dẫn Kinh Thánh được dịch theo phong cách bản 1934 (phong cách, không đối chiếu từng chữ). Các ghi chú "[Dutch numbering]" trong nguồn được giữ dưới dạng "[cách đánh số của bản Hà Lan]".
-- Đã loại trừ (tất cả đã kê ở đây): bìa sách, khối trang tên (rút gọn thành 2 dòng đầu tệp; trang tên gốc còn ghi phụ đề "Làm thế nào chúng ta phải, bởi ân điển của Đức Chúa Trời, mỗi ngày thực hiện việc này với ích lợi lớn nhất cho linh hồn"), khối bản quyền/pháp lý, mục lục điều hướng, Lời Tòa soạn của người biên tập (một bàn tay khác, trong đó ghi nguồn gốc bản dịch máy của Claude), và mục lục nội dung (mọi tiêu đề chương đều xuất hiện trong thân bài).
-- Các tiêu đề chương bị trùng lặp trong lớp văn bản của EPUB đã được dịch một lần (bỏ bản trùng).
+
+Mở trong trình đọc Về thư viện

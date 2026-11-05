@@ -1,9 +1,16 @@
 GIÁO LÝ VỀ NGÀY SA-BÁT: ĐƯỢC TRÌNH BÀY RÕ RÀNG VÀ CHỨNG MINH VỮNG CHẮC
-Nicholas Bownd
 
-LỜI TỰA II. Kính gửi Ngài Đáng Kính.
+Nicholas Bownd · The Doctrine of the Sabbath: Plainly laid Forth, and Soundly Proved (Reformed Theology eBook)
 
-LỜI TỰA II. Kính gửi Ngài Đáng Kính.
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+GIÁO LÝ VỀ NGÀY SA-BÁT: ĐƯỢC TRÌNH BÀY RÕ RÀNG VÀ CHỨNG MINH VỮNG CHẮC Nicholas Bownd
+
+LỜI TỰA II. KÍNH GỬI NGÀI ĐÁNG KÍNH.
+
+LỜI TỰA II. KÍNH GỬI NGÀI ĐÁNG KÍNH.
 
 Kính gửi vị Chúa công rất tốt của tôi, Robert Devoreux, Bá tước xứ Essex và Ewe, Tử tước xứ Hereford, Huân tước Ferrers xứ Chartley, v.v., Ngự mã quan của Nữ hoàng Bệ hạ, Hiệp sĩ của Huân chương Garter cao quý nhất, và một trong các vị Cố vấn cơ mật đáng kính nhất của Bệ hạ — cầu xin cho ngài được thêm lên mọi vinh dự chân thật và ân huệ trước mặt Đức Chúa Trời và loài người.
 
@@ -15,9 +22,9 @@ Nicholas Bownd.
 
 Norton, Suffolk, tháng Sáu, 1595.
 
-LỜI TỰA III. Gửi các Độc giả Tin kính và Cơ Đốc.
+LỜI TỰA III. GỬI CÁC ĐỘC GIẢ TIN KÍNH VÀ CƠ ĐỐC.
 
-LỜI TỰA III. Gửi các Độc giả Tin kính và Cơ Đốc.
+LỜI TỰA III. GỬI CÁC ĐỘC GIẢ TIN KÍNH VÀ CƠ ĐỐC.
 
 Và đặc biệt gửi các vị Cha và anh em đáng kính, khôn ngoan và tin kính có học thức, là các Mục sư và những người giảng Phúc Âm — cầu xin ân điển và sự bình an được thêm lên cho quý vị.
 
@@ -955,13 +962,4 @@ Và vì vậy tôi có thể nói với Thầy Bucer, nếu chúng ta thật s�
 
 FINIS.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng theo HUONG-DAN-DICH.md: God = "Đức Chúa Trời"; Jesus Christ = "Chúa Giê-xu Christ"; Holy Spirit = "Đức Thánh Linh"; gospel = "Phúc Âm"; grace = "ân điển"; faith = "đức tin"; justification = "sự xưng công chính"; sanctification = "sự nên thánh"; redemption = "sự cứu chuộc"; atonement = "sự chuộc tội"; covenant = "giao ước"; election = "sự tuyển chọn"; predestination = "sự tiền định"; salvation = "sự cứu rỗi"; church = "Hội Thánh"; Scripture = "Kinh Thánh"; "inspiration" (của Kinh Thánh) = "sự thần cảm"; Sabbath = "ngày Sa-bát"; sacrament = "nghi thức thánh"; baptism = "báp-têm"/"lễ báp-têm". Không dùng "sự xưng công bình", "ân sủng", "tin mừng" (cho gospel), "Thiên Chúa", "bí tích", "rửa tội", "hà linh", "sự xưng công chính".
-- Các trích dẫn Kinh Thánh được dịch theo kiểu Kinh Thánh Việt ngữ 1934 (chỉ là kiểu văn phong, không khẳng định từng chữ).
-- Nguồn: bản EPUB của Monergism Books (2025), văn kiện được sao chép từ EEBO-TCP bởi Project Puritas và được Monergism hiệu đính nhẹ (văn bản sạch, không OCR); đây là ấn bản đầu 1595 "The Doctrine of the Sabbath" (không phải ấn bản mở rộng 1606 "Sabbathum Veteris et Novi Testamenti"); tác phẩm thật = P0044–P0526 (477 đoạn, gồm Lời Tựa II, Lời Tựa III của tác giả, Sách I và Sách II, kết thúc bằng "FINIS." giữ nguyên văn).
-- Loại trừ (theo quy tắc chỉ dịch tác phẩm thật, đã khai báo tại đây): P0000–P0016 bìa/trang tựa/trang bản quyền (tóm tắt vào hai dòng đầu tệp); P0017–P0038 mục lục điều hướng (mọi tiêu đề đều xuất hiện trong thân bài); P0039–P0043 Lời Tựa I — lời tựa của biên tập viên hiện đại (Monergism Books, tay người khác); P0270–P0275 PHỤ LỤC I và P0527–P0531 PHỤ LỤC II — danh sách tra cứu các câu Kinh Thánh trích trong lề bản in gốc (danh mục tra cứu, không phải văn xuôi của tác giả).
-- Các tiêu đề phần bị lặp hai lần trong nguồn (một dòng tiêu đề chạy đầu trang + một dòng tiêu đề phần, ví dụ P0059/P0060) được dịch giữ nguyên như bản in; các cụm La-tinh tác giả trích (ví dụ "Convinci non potest") được giữ nguyên văn kèm bản dịch; các lỗi in rõ ràng trong nguồn ("thar" thay "that", "loe" thay "lo", "missing" trong P0431) được dịch theo nghĩa rõ ràng của ngữ cảnh như bản in dự định.
-- Không có đoạn nào trong thân bài phải gắn cờ [NEEDS REVIEW]: văn bản nguồn đọc được trong toàn bộ; không có ký hiệu <H&G> nào xuất hiện trong phần tác phẩm thật.
-- Tác giả: Nicholas Bownd (mục sư Thanh Giáo) — luận thuyết Cải Chánh kinh điển về Điều Răn Thứ Tư (1595), đích thực Cải Chánh; dịch toàn văn, không bỏ qua.
+Mở trong trình đọc Về thư viện

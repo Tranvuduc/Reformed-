@@ -394,6 +394,4 @@ Bốn là, dù người ấy có thể trở lại, nhưng chẳng phải ngay: 
 
 HẾT
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "bí tích" không xuất hiện trong bản dịch này (bản gốc dùng "ordinance" — đã dịch là "thánh lễ" theo quy ước Hội Thánh Việt Nam cho các nghi thức thờ phượng chung; trong ngữ cảnh bài giảng, "ordinance" chỉ sự cầu nguyện như một thể chế Đức Chúa Trời đã lập). - "sự xưng công chính", "sự nên thánh", "sự cứu chuộc", "sự chuộc tội", "sự tuyển chọn", "sự tiền định" không xuất hiện trực tiếp trong bản gốc (bài giảng về sự cầu nguyện, không bàn các giáo lý ấy); các thuật ngữ còn lại (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, giao ước, sự cứu rỗi, Hội Thánh, Kinh Thánh) được dùng nhất quán. - "Ân điển tự do" (free grace) và "tình yêu tự do" (free love) được giữ nguyên như trong bản gốc, không lẫn với "ân điển" trong bảng thuật ngữ. - Các tham chiếu Kinh Thánh bị OCR làm sai đã được sửa theo ngữ cảnh và gắn cờ [NEEDS REVIEW] tại chỗ (khoảng 60 vị trí), không bịa chi tiết cho các đoạn OCR nát.
-
 Mở trong trình đọc Về thư viện

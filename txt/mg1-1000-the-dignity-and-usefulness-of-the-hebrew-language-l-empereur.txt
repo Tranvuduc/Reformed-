@@ -1,5 +1,12 @@
 PHẨM GIÁ VÀ TÍNH HỮU ÍCH CỦA TIẾNG HÊ-BƠ-RƠ
-Constantijn l'Empereur
+
+Constantijn l'Empereur · The Dignity and Usefulness of the Hebrew Language
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+PHẨM GIÁ VÀ TÍNH HỮU ÍCH CỦA TIẾNG HÊ-BƠ-RƠ Constantijn l'Empereur
 
 MỤC LỤC
 
@@ -157,7 +164,6 @@ TÔI ĐÃ NÓI XONG.
 
 2. Claude đã cung cấp ghi chú sau đây: tiếng Hy Lạp ở đây bị méo mó nặng trong bản quét nguồn; đây là bản đọc nỗ lực tối đa.
 
-3. Các trích dẫn tiếng Hy Lạp trong đoạn này hầu như không đọc được trong bản gốc. Claude đã cố gắng đưa ra cách đọc và bản dịch có khả năng đúng nhất.
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch giữ nguyên ghi chú của ban biên tập, trang tựa gốc, thư gửi các giám quản và thư dâng tặng như bản nguồn; các dòng in ấn và thông tin xuất bản đã được lược bỏ khi tách đoạn. Bài diễn văn và ba ghi chú cuối sách được giữ nguyên vị trí; các từ Hê-bơ-rơ và Hy Lạp được giữ nguyên văn kèm theo phần chú giải trong ngoặc. Bản tiếng Anh của sách được tạo ra từ nguyên tác La-tinh.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+3. Các trích dẫn tiếng Hy Lạp trong đoạn này hầu như không đọc được trong bản gốc. Claude đã cố gắng đưa ra cách đọc và bản dịch có khả năng đúng nhất. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch giữ nguyên ghi chú của ban biên tập, trang tựa gốc, thư gửi các giám quản và thư dâng tặng như bản nguồn; các dòng in ấn và thông tin xuất bản đã được lược bỏ khi tách đoạn. Bài diễn văn và ba ghi chú cuối sách được giữ nguyên vị trí; các từ Hê-bơ-rơ và Hy Lạp được giữ nguyên văn kèm theo phần chú giải trong ngoặc. Bản tiếng Anh của sách được tạo ra từ nguyên tác La-tinh.
+
+Mở trong trình đọc Về thư viện

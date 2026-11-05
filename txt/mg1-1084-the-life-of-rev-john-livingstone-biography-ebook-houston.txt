@@ -1,5 +1,12 @@
 CUỘC ĐỜI MỤC SƯ JOHN LIVINGSTONE
-Thomas Houston
+
+Thomas Houston · The Life of Rev. John Livingstone (Biography eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+CUỘC ĐỜI MỤC SƯ JOHN LIVINGSTONE Thomas Houston
 
 LỜI GIỚI THIỆU LỊCH SỬ
 
@@ -823,11 +830,4 @@ Nói về những người bạn đặc biệt của mình ở miền nam, ông 
 
 Vợ ông, nhận thấy ông không thể nói thêm vào [lúc] ấy, và linh cảm điều sắp xảy ra, đã yêu cầu ông từ biệt các bạn mình. "Tôi không hối tiếc," ông nói, với một sự trìu mến dịu dàng; "và có lẽ sự chia tay của chúng ta sẽ chỉ trong một thời gian ngắn."
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bản dịch giữ đúng bảng 16 thuật ngữ của đợt MG-2: Phúc Âm (gospel), ân điển, sự xưng công chính, báp-têm/lễ báp-têm, nghi thức thánh, Hội Thánh, Kinh Thánh.
-- Nguồn: ấn bản Monergism (EPUB). Theo ghi chú của chính ấn bản này, văn bản tiếng Anh được chép lại bởi Grok từ tập 4 của *Works: Doctrinal and Practical* của Thomas Houston (Edinburgh, 1876), chỉ hiệu đính nhẹ.
-- Loại trừ: khối trang bìa/tiêu đề, mục lục dẫn hướng (tên các chương đều có trong thân sách), ghi chú của biên tập viên hiện đại và khối bản quyền cuối sách.
-- Các chú thích đánh số của tác giả được dịch ngay tại chỗ trong thân văn.
-- Trích dẫn Kinh Thánh theo văn phong bản 1934; những câu trích nguyên văn 1934 giữ đúng chữ 1934 ("xưng công bình", "Tin Lành") và được ghi chú tại chỗ.
-- [NEEDS REVIEW] 1: P0176 (chú thích về ước tính của Sir William Petty về cuộc thảm sát Ireland 1641) — con số trong nguồn đọc không được, giữ nguyên trạng có ghi chú.
+Mở trong trình đọc Về thư viện

@@ -1,5 +1,12 @@
 HUYỀN BÍ PHÚC ÂM VỀ SỰ NÊN THÁNH
-Walter Marshall
+
+Walter Marshall · The Gospel Mystery of Sanctification (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+HUYỀN BÍ PHÚC ÂM VỀ SỰ NÊN THÁNH Walter Marshall
 
 Hầu cho chúng ta có thể làm trọn cách đẹp lòng những bổn phận thánh khiết và công chính mà luật pháp đòi buộc
 
@@ -1281,17 +1288,4 @@ Sống như một người vui hưởng ân huệ Đức Chúa Trời trong Đ�
 
 Hết.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Nguồn: ấn bản "Modernized Edition" (EPUB) từ trang Monergism của tác phẩm; trang cũng cung cấp "Original Edition" — chọn bản hiện đại hóa vì văn bản sạch. Phần việc thật = P0031–P0670, dịch toàn văn 640 đoạn.
-- Loại trừ (không dịch): P0000–P0030 — bìa, trang tiêu đề, trang bản quyền, mục lục điều hướng liệt kê 15 mục, trang "Start reading".
-- Tác phẩm thứ hai cùng tác giả đóng kèm trong ấn bản này — "Giáo lý về sự xưng công chính được mở ra và áp dụng" (đầu đề "Chương mười lăm", P0578–P0670) — đã dịch toàn văn.
-- Thuật ngữ theo bảng 16 từ của HUONG-DAN-DICH.md: "endowments" = "sự ban cho"; "Papists" = "những người Thiên Chúa giáo"; "Lord's Supper" = "Tiệc Thánh của Chúa"; "baptism" = "phép báp-têm"; "sacrament" = "nghi thức thánh".
-- Các câu Kinh Thánh trích dẫn được diễn đạt theo văn phong Kinh Thánh 1934 (chỉ văn phong, không đối chiếu từng chữ).
-- Trong các trích dẫn Kinh Thánh 1934 NGUYÊN VĂN, giữ nguyên cách diễn đạt 1934 ("xưng công bình", "Tin Lành") mà không ép theo thuật ngữ hướng dẫn (Rô-ma 3:24; Rô-ma 4:5; Rô-ma 10:16; Rô-ma 1:16–17; 2 Tê-sa-lô-ni-ca 1:8; 2 Cô-rinh-tô 4:4; Gia-cơ 2:24); một cách nói ám chỉ Rô-ma 4:5 trong văn xuôi (P0184) giữ cách diễn đạt 1934 vì kề ngay trích dẫn đầy đủ câu ấy.
-- Lỗi chính tả nguồn "W alter Marshall" được diễn đạt theo nghĩa rõ là "Walter Marshall".
-- P0561 kết thúc giữa câu ("And that") trong nguồn — giữ nguyên như in (tiếp nối ở P0562).
-- Các từ bị cấm trong thân bài ("sự xưng công bình", "ân sủng", "tin mừng" cho gospel, "Thiên Chúa", "bí tích", "rửa tội", "hà linh", "sự xưng công chính"): 0 lần xuất hiện trong thân bài; một cách dùng "xưng công bình" trong văn xuôi (P0209) đã được sửa thành "xưng công chính" lúc ráp bản.
-- "Thiên Chúa" chỉ xuất hiện trong danh xưng riêng "Thiên Chúa giáo" (39 lần) — không vi phạm.
-- "Tin Lành" chỉ xuất hiện trong ngữ cảnh Tin Lành giáo (tôn giáo Tin Lành, giáo lý Tin Lành, đức tin Tin Lành...) và trong các trích dẫn 1934 nguyên văn — không bao giờ là bản dịch của "gospel" ("Phúc Âm": 222 lần).
-- 3 cờ [NEEDS REVIEW] nội tuyến ghi lại những chỗ đọc chưa chắc trong nguồn (P0077 "spiritual preference/presence"; một số câu Kinh Thánh 5:4/5:41 và Ê-phê-sô 5:18, 6:10/6:20).
+Mở trong trình đọc Về thư viện

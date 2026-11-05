@@ -1,5 +1,12 @@
 PHÚC ÂM TRONG SÁCH PHỤC TRUYỀN LUẬT LỆ KÝ
-Henry Law
+
+Henry Law · The Gospel in Deuteronomy (Bible Commentary eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+PHÚC ÂM TRONG SÁCH PHỤC TRUYỀN LUẬT LỆ KÝ Henry Law
 
 VỊ TIÊN TRI
 
@@ -763,13 +770,4 @@ Khôn ngoan thật là trau dồi sự suy gẫm Bít-ga này. Như vậy sức 
 
 Như vậy sự nên thánh tiến triển. Làm sao người có linh hồn luôn giao du với sự thánh khiết lại có thể yêu tội lỗi? Làm sao người có tai luôn uống lấy những lời ha-lê-lu-gia của những người được cứu lại có thể bị quyến rũ bởi những khúc ca mỹ nhân ngư của lạc thú trần gian?
 
----
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Áp dụng bảng 16 thuật ngữ theo HUONG-DAN-DICH.md: God = Đức Chúa Trời; Jesus Christ = Chúa Giê-xu Christ; Holy Spirit = Đức Thánh Linh; gospel = "Phúc Âm"; grace = ân điển; faith = đức tin; justification = sự xưng công chính; sanctification = sự nên thánh; redemption = sự cứu chuộc; atonement = sự chuộc tội; covenant = giao ước; election = sự tuyển chọn; predestination = sự tiền định; salvation = sự cứu rỗi; church = Hội Thánh; Scripture = Kinh Thánh. "inspiration" (của Kinh Thánh) = "sự thần cảm".
-- Không có thuật ngữ bị cấm nào trong thân bài ("sự xưng công bình", "ân sủng", "tin mừng" [cho gospel], "Thiên Chúa", "bí tích", "rửa tội", "hà linh", "sự xưng công chính") — các từ này chỉ được nhắc trong chính gạch đầu dòng tài liệu này.
-- Trong các trích dẫn Kinh Thánh nguyên văn, giữ nguyên văn phong 1934 (kể cả chỗ 1934 dùng "xưng công bình"/"Tin Lành") — đúng quy ước đợt dịch (tiền lệ #271, #304, #333).
-- "Tin Lành" chỉ xuất hiện trong các ngữ cảnh "đạo Tin Lành"/"người Tin Lành" (Tin Lành giáo), không bao giờ là bản dịch của "gospel".
-- Các trích dẫn Kinh Thánh dịch theo văn phong 1934 (văn phong, không đối chiếu từng chữ).
-- Loại trừ (đã công bố): khối tiêu đề (P0000–P0001, rút gọn thành 2 dòng đầu tệp); mục lục điều hướng (P0002–P0016 — mọi tiêu đề chương đều xuất hiện trong thân bài); khối bản quyền Monergism (P0398–P0401).
-- Nội dung là tác phẩm suy gẫm Cơ Đốc Cải Chánh chân chính (Henry Law, tìm Đấng Christ trong Phục Truyền Luật Lệ Ký), dịch toàn văn, không bỏ qua.
+Mở trong trình đọc Về thư viện

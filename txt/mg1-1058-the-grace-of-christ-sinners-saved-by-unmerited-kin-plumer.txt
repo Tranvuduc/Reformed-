@@ -1,5 +1,12 @@
 ÂN ĐIỂN CỦA ĐẤNG CHRIST: TỘI NHÂN ĐƯỢC CỨU BỞI SỰ NHÂN TỪ NHƯNG-KHÔNG
-William S. Plumer
+
+William S. Plumer · The Grace of Christ: Sinners Saved by Unmerited Kindness (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+ÂN ĐIỂN CỦA ĐẤNG CHRIST: TỘI NHÂN ĐƯỢC CỨU BỞI SỰ NHÂN TỪ NHƯNG-KHÔNG William S. Plumer
 
 LỜI GIỚI THIỆU
 
@@ -2023,12 +2030,4 @@ Với John Brown ở Whitburn chúng ta mạnh dạn nói rằng "những kẻ �
 
 Bạn có tin không? Bạn sẽ được cứu bởi Chúa Giê-xu Christ chứ? BẠN CÓ CHỊU KHÔNG?
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Nguồn: file EPUB tải từ trang Monergism của sách (The Grace of Christ: Sinners Saved by Unmerited Kindness); tác phẩm thật được dịch là các đoạn P0061–P1071 (1.011 đoạn, khoảng 119.922 chữ Anh). Đã loại khỏi bản dịch và được ghi nhận ở đây: khối tiêu đề P0000–P0004, mục lục điều hướng P0006–P0059, trang bản quyền P0060, phần boilerplate/kết thúc của Monergism P1073–P1075.
-- Thuật ngữ theo bảng 16 từ của HUONG-DAN-DICH.md §2: gospel = "Phúc Âm", justification = "sự xưng công chính", atonement = "sự chuộc tội"; "satisfaction" dịch "sự đền tội", "expiation" dịch "sự tẩy sạch tội lỗi". Các từ cấm không xuất hiện trong thân bản dịch, ngoại trừ cách viết gốc của Kinh Thánh 1934 bên trong các trích dẫn nguyên văn (xem dưới).
-- Các trích dẫn Kinh Thánh theo phong cách Việt ngữ 1934 (chỉ phong cách, không đối chiếu từng chữ); bên trong các trích dẫn 1934 nguyên văn, giữ nguyên cách viết 1934 thật ("xưng công bình", "Tin Lành") mà không ép theo bảng thuật ngữ.
-- Lỗi in của bản gốc được giữ nguyên văn kèm cờ inline: P0869 ghi "Num. 25:24" (văn mạch chỉ Số ký 26:24); P1055 ghi "1 Kings 17:21" trong khi nội dung trích dẫn thuộc 1 Các Vua 18:21 [NEEDS REVIEW: giữ nguyên như in]. Các lỗi đánh máy cơ học đọc theo nghĩa rõ và ghi nhận ở đây: P0158 "bf" đọc "of", P0557 "arc" đọc "are", P0560 "regeneratiorn" đọc "regeneration".
-- "Tin Lành" chỉ xuất hiện trong các ngữ cảnh Tin Lành giáo ("người Tin Lành", "Hội Thánh Giám Lý Tin Lành") và một trích dẫn 1934 nguyên văn (Mác 16:15); "rửa tội lỗi" (rửa sạch tội, Xa-cha-ri 13:1) là cách dùng hợp lệ, không phải từ cấm.
-- Tổng số cờ [NEEDS REVIEW: …] trong file (kể cả dòng ghi nhận này): xem báo cáo tiến độ.
+Mở trong trình đọc Về thư viện

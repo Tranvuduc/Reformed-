@@ -1,5 +1,12 @@
 Ý CHÍ THÁNH ĐƯỢC XÉT ĐẾN TRONG CÁC SẮC LỆNH ĐỜI ĐỜI CỦA NÓ
-Edward Polhill
+
+Edward Polhill · The Divine Will Considered in its Eternal Decrees (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+Ý CHÍ THÁNH ĐƯỢC XÉT ĐẾN TRONG CÁC SẮC LỆNH ĐỜI ĐỜI CỦA NÓ Edward Polhill
 
 CHƯƠNG I: VỀ VIỆC ĐỨC CHÚA TRỜI HIỆN HỮU
 
@@ -1345,10 +1352,4 @@ Thắc mắc 3. Ý muốn của Đức Chúa Trời liên quan đến sự hoán
 
 Đã trình bày rộng rãi như vậy sự phân biệt này cùng các phần của nó, câu trả lời của tôi cho thắc mắc được đề xuất là: Ý muốn của Đức Chúa Trời về sự hoán cải, xét như có hiệu quả và quyết định kết quả, được hoàn thành trong sự hoán cải thực tế của mọi kẻ được chọn bởi ân điển không thể kháng cự được; và ý muốn của Đức Chúa Trời về sự hoán cải, xét như tiềm ẩn và sắp đặt các phương tiện, được hoàn thành trong điều này, Rằng có một sự trưng bày nghiêm túc các phương tiện nhằm sự hoán cải, như mục đích đích thực của chúng, và, rằng mục đích ấy, nếu không vì sự bại hoại tự nguyện của con người, sẽ bởi đó được đạt đến, ngay cả trong mọi người.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng theo HUONG-DAN-DICH.md (16 từ: God = Đức Chúa Trời; Jesus Christ = Chúa Giê-xu Christ; Holy Spirit = Đức Thánh Linh; gospel = "Phúc Âm"; grace = ân điển; faith = đức tin; justification = "sự xưng công chính"; sanctification = sự nên thánh; redemption = sự cứu chuộc; atonement = "sự chuộc tội"; covenant = giao ước; election = sự tuyển chọn; predestination = sự tiền định; salvation = sự cứu rỗi; church = Hội Thánh; Scripture = Kinh Thánh).
-- Các thuật ngữ bị cấm không xuất hiện trong thân bài: "sự xưng công bình", "ân sủng", "tin mừng" (cho gospel), "Thiên Chúa" (ngoại trừ danh xưng riêng "Thiên Chúa giáo" cho Giáo hội Công giáo Rô-ma), "bí tích" (→ "nghi thức thánh"), "rửa tội" (rửa tội → "báp-têm"/"lễ báp-têm"), "hà linh", "sự xưng công chính". "Tin Lành" chỉ xuất hiện trong ngữ cảnh "đạo Tin Lành"/"người Tin Lành" (Protestantism), không phải bản dịch của "gospel". Các trích dẫn Kinh Thánh được diễn đạt theo văn phong Kinh Thánh 1934 (chỉ mượn văn phong, không đối chiếu từng chữ với bản 1934). "inspiration" (về Kinh Thánh) = "sự thần cảm".
-- Số ghi chú kiểm tra (inline flags) trong thân bài: 38. Các ghi chú này đánh dấu trích dẫn sai hoặc lỗi in trong nguyên văn (giữ nguyên văn, không đoán bừa): trích dẫn sai trong nguồn (2 Sam. 15:29 cho nội dung 1 Sa-mu-ên 15:29; Thi thiên 18:12 cho Thi thiên 81:12; Giăng 1:6–7 cho Đấng Bảo Trợ; Giăng 6:36; 2 Cô-rinh-tô 2:14; Giăng 4:44; Ma-thi-ơ 14:21; Công vụ 24:24; 2 Cô-rinh-tô 5:21) và lỗi in chính tả ("antomy", "casua", "Monus", "Reedeemer", "waky", "fife", "Tins", "displiceney", "nave", "godliliness", "init" v.v.).
-- Nguồn loại trừ khỏi bản dịch: khối tiêu đề và mục lục điều hướng (P0000–P0014, đã cô đọng vào dòng tiêu đề), khối bản quyền/khối boilerplate của Monergism (P0687–P0690).
-- Lưu ý nguồn: đoạn P0664 kết thúc giữa chừng câu trong bản EPUB gốc (giữ nguyên như in); các cụm tiếng La-tinh/Hy-lạp/Hê-bơ-rơ được giữ nguyên văn với chú thích tiếng Việt trong ngoặc.
+Mở trong trình đọc Về thư viện

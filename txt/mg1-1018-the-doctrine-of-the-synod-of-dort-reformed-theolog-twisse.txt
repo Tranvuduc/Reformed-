@@ -1,5 +1,12 @@
 GIÁO LÝ CỦA CÔNG ĐỒNG DORT
-William Twisse
+
+William Twisse · The Doctrine of the Synod of Dort
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+GIÁO LÝ CỦA CÔNG ĐỒNG DORT William Twisse
 
 được triển khai trên thực tế.
 
@@ -41,7 +48,7 @@ Lời Tựa
 
 "Giáo Lý của Công Đồng Dort" của William Twisse là một khảo luận thấu đáo và một sự bênh vực các quyết định thần học của Công Đồng Dort (1618–1619). Tác phẩm này trình bày một cách có hệ thống các vấn đề giáo lý then chốt như sự tiền định, phạm vi của sự chuộc tội của Đấng Christ, và ý chí tự do của con người, dưới ánh sáng của cuộc tranh luận với thần học Arminian. Twisse, một nhà thần học Thanh Giáo nổi tiếng, đưa ra một sự giải nghĩa Kinh Thánh tỉ mỉ để ủng hộ các lập trường Calvin mà Công Đồng Dort đã giữ vững. Ông đối diện với các phản đối và quan điểm khác, nhằm làm sáng tỏ và củng cố những khẳng định của Công Đồng. Bạn đọc sẽ được lợi từ sự phân tích toàn diện về các giáo lý Cải Chánh nền tảng này, hiểu thêm về bối cảnh lịch sử và thần học của Công Đồng, cũng như ảnh hưởng lâu dài của nó đối với thần học Tin Lành. Tác phẩm này là một nguồn tài liệu quan trọng cho những ai nghiên cứu thần học Cải Chánh, lịch sử Hội Thánh, hay những phức tạp của các cuộc tranh luận thần học đầu thế kỷ XVII.
 
-Lời nói đầu của "Giáo Lý của Công Đồng Dort" của William Twisse giới thiệu một tác giả vô danh mà Twisse phê bình xuyên suốt cuốn sách. Tác giả vô danh này đóng vai trò đối trọng với các lập luận của Twisse, đại diện cho những quan điểm khác về các vấn đề thần học then chốt. Bằng cách đối chiếu lập trường Calvin của mình với những ý kiến khác biệt của tác giả ấy, Twisse làm nổi bật một cách hiệu quả những điểm mạnh và lý lẽ đằng sau các giáo lý mà Công Đồng Dort đã khẳng định. Phương pháp này giúp bạn đọc thấy rõ ranh giới giữa thần học Calvin và các quan điểm khác, nhờ đó củng cố tính đúng đắn của các quyết định của Công Đồng. Sự hiện diện của những quan điểm của tác giả vô danh này xuyên suốt luận văn mang lại một sự hiểu biết toàn diện về các cuộc tranh luận thần học trong thời đại ấy.
+LỜI NÓI ĐẦU CỦA "GIÁO LÝ CỦA CÔNG ĐỒNG DORT" CỦA WILLIAM TWISSE GIỚI THIỆU MỘT TÁC GIẢ VÔ DANH MÀ TWISSE PHÊ BÌNH XUYÊN SUỐT CUỐN SÁCH. TÁC GIẢ VÔ DANH NÀY ĐÓNG VAI TRÒ ĐỐI TRỌNG VỚI CÁC LẬP LUẬN CỦA TWISSE, ĐẠI DIỆN CHO NHỮNG QUAN ĐIỂM KHÁC VỀ CÁC VẤN ĐỀ THẦN HỌC THEN CHỐT. BẰNG CÁCH ĐỐI CHIẾU LẬP TRƯỜNG CALVIN CỦA MÌNH VỚI NHỮNG Ý KIẾN KHÁC BIỆT CỦA TÁC GIẢ ẤY, TWISSE LÀM NỔI BẬT MỘT CÁCH HIỆU QUẢ NHỮNG ĐIỂM MẠNH VÀ LÝ LẼ ĐẰNG SAU CÁC GIÁO LÝ MÀ CÔNG ĐỒNG DORT ĐÃ KHẲNG ĐỊNH. PHƯƠNG PHÁP NÀY GIÚP BẠN ĐỌC THẤY RÕ RANH GIỚI GIỮA THẦN HỌC CALVIN VÀ CÁC QUAN ĐIỂM KHÁC, NHỜ ĐÓ CỦNG CỐ TÍNH ĐÚNG ĐẮN CỦA CÁC QUYẾT ĐỊNH CỦA CÔNG ĐỒNG. SỰ HIỆN DIỆN CỦA NHỮNG QUAN ĐIỂM CỦA TÁC GIẢ VÔ DANH NÀY XUYÊN SUỐT LUẬN VĂN MANG LẠI MỘT SỰ HIỂU BIẾT TOÀN DIỆN VỀ CÁC CUỘC TRANH LUẬN THẦN HỌC TRONG THỜI ĐẠI ẤY.
 
 Công Đồng Dort, họp tại Dordrecht, Hà Lan, từ năm 1618 đến năm 1619, được triệu tập chủ yếu để giải quyết một cuộc tranh cãi nghiêm trọng trong các Hội Thánh Hà Lan, khởi phát từ sự nổi lên của chủ nghĩa Arminian. Jacobus Arminius, một nhà thần học Hà Lan, đã thách thức giáo lý của Hội Thánh Cải Chánh, đặc biệt về sự tiền định cùng bản chất của ân điển và ý chí tự do. Điều này dẫn đến những tranh luận thần học đáng kể và sự chia rẽ trong Hội Thánh.
 
@@ -999,7 +1006,6 @@ Hơn nữa, vì ông ta đã đạt được uy tín và danh tiếng như vậy
 
 Theo cách này, tôi đã xem xét sự khôn ngoan mà Tác giả này đã áp dụng các nguyên tắc của hai Hội đồng Dort và Arles vào các vấn đề thực tiễn.
 
-HẾT.
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch giữ nguyên cấu trúc luận văn và các trích dẫn như bản nguồn; năm đoạn cuối sách mang tính chất xuất bản đã được lược bỏ. Một số trích dẫn đã được sửa theo đúng bản văn được trích; một lỗi in trong bản nguồn đã được sửa theo đúng ngữ cảnh. Một số thuật ngữ đã được thống nhất theo cách dùng của sách.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+HẾT. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch giữ nguyên cấu trúc luận văn và các trích dẫn như bản nguồn; năm đoạn cuối sách mang tính chất xuất bản đã được lược bỏ. Một số trích dẫn đã được sửa theo đúng bản văn được trích; một lỗi in trong bản nguồn đã được sửa theo đúng ngữ cảnh. Một số thuật ngữ đã được thống nhất theo cách dùng của sách.
+
+Mở trong trình đọc Về thư viện
