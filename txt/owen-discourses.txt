@@ -6,7 +6,11 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Một Số Bài Giảng Và Suy Ngẫm ## Về Tiệc Thánh Của Chúa Tác giả: John Owen (1616–1683)
+MỘT SỐ BÀI GIẢNG VÀ SUY NGẪM
+
+VỀ TIỆC THÁNH CỦA CHÚA
+
+Tác giả: John Owen (1616–1683)
 
 Các Bài Giảng Xuất Bản Sau Khi Tác Giả Qua Đời.
 
@@ -1266,7 +1270,7 @@ I Giăng
 
 Khải Huyền
 
-[195]1:5 [196]1:5 [197]1:5-6 [198]1:5-6 [199]5:9 [200]5:13 __________________________________________________________________
+[195]1:5 [196]1:5 [197]1:5-6 [198]1:5-6 [199]5:9 [200]5:13
 
 Index of Scripture Commentary
 
@@ -1312,10 +1316,8 @@ Phi-líp
 
 I Phi-e-rơ
 
-[225]3:18 __________________________________________________________________
+[225]3:18
 
 Index of Greek Words and Phrases
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Many Scripture quotations are rendered in Bản Dịch Mới 2010 style by sense (not verbatim-verified against a printed BDM2010); several carry inline [NEEDS REVIEW] flags — a pastor review pass on verse wording is recommended before publication. - "justice" vs "righteousness" of God rendered distinctly as "sự công bình" vs "sự công chính" to preserve the author's distinction (ch.1 worker). - "The Lord God" in Isaiah quotes → "Chúa Giê-hô-va" (BDM2010 convention). - "synecdochically" (Heb. 10:5 discussion) → "nghĩa đề dụ (một phần thay cho toàn thể)"; Greek/Latin phrases kept as in source. - Source citation quirks preserved as printed (editorial footnotes [14], [15] translated as metadata). - Non-glossary terms: "Saviour" → Đấng Cứu Rỗi; "propitiation" → của lễ chuộc tội; "mediator" → Đấng trung bảo; "ordinance" → nghi lễ/lễ nghi.
 
 Mở trong trình đọc Về thư viện

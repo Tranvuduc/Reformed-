@@ -1,5 +1,12 @@
 NHỮNG BÀI GIẢNG CHỌN LỌC VỀ SỰ HIỆP NHẤT
-Anthony Burgess
+
+Anthony Burgess · Select Sermons on Unity (Sermons eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+NHỮNG BÀI GIẢNG CHỌN LỌC VỀ SỰ HIỆP NHẤT Anthony Burgess
 
 SERM. 59. Rằng ấy là một sự thương xót đặc biệt cho những người hầu việc Phúc Âm được hiệp làm một; sự hiệp nhất của họ nên ở trong những điều nào; và các lý do của những sự khác biệt giữa vòng họ.
 
@@ -477,13 +484,4 @@ Cuối cùng, việc Đấng Christ ở trong chúng ta, là nguyên nhân của
 
 Áp dụng để dạy dỗ. Do đâu mà ngay cả giữa những người tin kính cũng có biết bao sự bất đồng, sự oán giận, v.v.? Ấy là vì Đấng Christ không ở trong họ một cách mạnh mẽ và hiệu nghiệm như Ngài có thể. Đêm tối và sương mù dày đặc không thể chịu nổi trước những tia sáng vinh hiển của mặt trời, hơn là những dục vọng bại hoại và sự tranh cạnh có thể đứng vững trước Mặt Trời Công Bình này, khi đã lên đến đỉnh thiên. Dưới vùng nhiệt đới không thể có sương giá lạnh, thì dưới sự hiện diện hiệu nghiệm của Đấng Christ cũng không thể có những sự rạn nứt tội lỗi như vậy.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Nguồn: bản văn điện tử sạch của Monergism (ấn bản Project Puritas dựa trên EEBO-TCP, tiếng Anh hiện đại hoá nhẹ từ bản in thế kỷ 17). Không phải OCR.
-- Loại trừ (theo quy tắc chỉ dịch tác phẩm thật): khối tựa đề EPUB (gộp vào tiêu đề file), trang bản quyền/pháp lý của Monergism Books, Mục lục điều hướng, và lời chú thích của người biên tập hiện đại về cách đánh số bài giảng (S.D.G./Monergism).
-- Các bài giảng giữ nguyên số thứ tự trong tác phẩm lớn hơn ("Christ's Prayer Before His Passion"): 59, 60, 112–116, 119, 125, 129.
-- Hai tiêu đề bài giảng trùng nhau (P0036/P0037) giữ nguyên như bản in.
-- 5 cờ [NEEDS REVIEW] nội tuyến (giữ nguyên như in, không phỏng đoán): "Pilate's" (có lẽ "pilots"), "month" (có lẽ "mouth"), "they he unum" (có lẽ "they be unum"), "Cadman brethren" (có lẽ "Cadmian brethren"), "Cyen" (có lẽ "scion").
-- Các trích dẫn câu Kinh Thánh giữ nguyên đúng như bản in, không hiện đại hoá/sửa chữa.
-- Các trích dẫn Kinh Thánh theo văn phong Bản Truyền Thống 1934 (chỉ văn phong, không đối chiếu từng chữ); cụm Latinh/Hy Lạp giữ nguyên kèm chú giải tiếng Việt trong ngoặc.
-- Thuật ngữ: "sự xưng công chính" (justification), "ân điển" (grace), "Phúc Âm" (gospel), "Đức Chúa Trời" (God), "báp-têm" (baptism), "nghi thức thánh" (ordinance/sacrament). Cụm "Thiên Chúa" chỉ xuất hiện trong danh xưng riêng "Thiên Chúa giáo" (chỉ Giáo hội La Mã). Các thuật ngữ cấm khác không xuất hiện trong thân bài.
+Mở trong trình đọc Về thư viện

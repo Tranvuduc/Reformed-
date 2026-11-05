@@ -1,5 +1,12 @@
 SỰ TỈNH TÁO KHÁC BIỆT
-Rowland Stedman
+
+Rowland Stedman · Sober Singularity
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ TỈNH TÁO KHÁC BIỆT Rowland Stedman
 
 LỜI TỰA GỬI ĐỘC GIẢ.
 
@@ -714,13 +721,5 @@ HỎI 1. Chúng ta nên dùng gương mẫu của số đông trong việc làm 
 4. Cuối cùng, nếu Đức Chúa Trời đã ban cho anh em những hy vọng tốt bởi ân điển, rằng anh em được cải đạo, và được đem đến gần chính Ngài bởi huyết của giao ước đời đời; hãy lợi dụng sự ngang bướng và bại hoại của số đông, để tôn thờ những sự giàu có không dò được của ân điển Đức Chúa Trời, và tôn cao sự dư dật của những sự nhân từ của Ngài. Hãy nói như Đa-vít, 2 Sa-mu-ên 7:18: Lạy Chúa Giê-hô-va, tôi là ai, và tôi đã đáng gì? mà Ngài đem tôi từ giữa số đông kẻ gian ác, và đem tôi đến đây, vào tình trạng thông công và tương giao với chính Ngài? Vì, như có chép, Phục truyền 7:7, 8: Đức Giê-hô-va chẳng phải vì cớ các ngươi đông hơn các dân khác mà trìu mến các ngươi, và chọn lựa các ngươi đâu; vì các ngươi ít hơn hết thảy các dân: nhưng vì Đức Giê-hô-va yêu thương các ngươi nên Ngài đã chọn lựa các ngươi, và đem các ngươi vào giao ước với chính Ngài: nguyện danh Ngài được tôn cao, và những lời ngợi khen cao cả của Đức Chúa Trời này ở trong lòng, môi, và đời sống anh em đời đời.
 
 HẾT.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- "Thiên Chúa" chỉ xuất hiện dưới dạng tên riêng "Thiên Chúa giáo" (5 lần, chỉ Giáo hội Công giáo La Mã) — được phép theo quy tắc đợt; mọi nghĩa khác đều dùng "Đức Chúa Trời".
-- 18 dấu [NEEDS REVIEW] trong thân bài: các đoạn tiếng Hê-bơ-rơ/Hy Lạp bị mất trong bản điện tử Monergism (đánh dấu <H&G>), giữ nguyên như in, không đoán mò.
-- Các câu trích Kinh Thánh dịch theo phong cách bản 1934 (văn phong, không đối chiếu từng chữ).
-- "justification" dịch là "sự xưng công chính"; không dùng "sự xưng công chính"/"sự xưng công bình" trong thân bài.
-- Các cụm Latin giữ nguyên tiếng Latin + chú thích tiếng Việt trong ngoặc đơn (vd. "Hic est digitus Dei (quả thật đây là ngón tay của Đức Chúa Trời)").
-- ĐÃ LOẠI TRỪ (chỉ tác phẩm thật được dịch): khối tiêu đề bản in 1668 (rút gọn vào đầu đề), mục lục điều hướng (tên các phần đều có trong thân bài), Editor's Note về lỗi phiên âm EEBO-TCP, khối bản quyền Monergism ở cuối sách.
 
-GHI CHÚ NGUỒN: Bản điện tử Monergism (EPUB, tháng 2/2023) là bản phiên âm hiện đại hóa từ ấn bản 1668 của Thomas Parkhurst, được Project Puritas khởi thảo từ EEBO-TCP và Monergism hiệu đính thêm. Một số lỗi in trong nguồn (vd. "Thon" thay "Thou", "hardon" thay "harden") đã được dịch theo nghĩa đúng, không đánh dấu.
+Mở trong trình đọc Về thư viện

@@ -1,5 +1,12 @@
 SỰ THỰC HÀNH ĐẠO HẰNG NGÀY CỦA CƠ ĐỐC NHÂN: BƯỚC ĐI THÁNH VỚI ĐỨC CHÚA TRỜI
-Richard Alleine
+
+Richard Alleine · The Christian’s Daily Practice of Piety: Holy Walking with God
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ THỰC HÀNH ĐẠO HẰNG NGÀY CỦA CƠ ĐỐC NHÂN: BƯỚC ĐI THÁNH VỚI ĐỨC CHÚA TRỜI Richard Alleine
 
 Sự Thực Hành Đạo Hằng Ngày
 
@@ -239,13 +246,4 @@ Cũng có nhiều kẻ làm nghề tà thuật, nhóm sách của mình lại v�
 
 HẾT.
 
----
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Không có vấn đề thuật ngữ chưa giải quyết. Bảng thuật ngữ áp dụng: justification = "sự xưng công chính" (không dùng "sự xưng công chính"); Gospel = "Phúc Âm"/"Tin Lành"; grace = "ân điển"; baptism = "lễ báp-têm"; sacrament = "nghi thức thánh"; "inspiration" (Kinh Thánh) = "sự thần cảm"; Đức Chúa Trời, Đức Thánh Linh.
-- 4 ghi chú [NEEDS REVIEW] trong thân bài: P0026 "always in thy fight" (có thể là lỗi in của "thy sight") giữ nguyên văn; P0109 hai đoạn mờ không đọc được trong nguồn ("your common [selling houses]", "[S ops] of [ocean] trades") giữ nguyên văn; P0115 bản gốc ghi "They are fit to be sold" – mâu thuẫn với ngữ cảnh Công Vụ 19:19, giữ nguyên văn (có thể thiếu chữ "not").
-- Phạm vi dịch (như phần chân trang ghi trong bản gốc): tập hợp hai tác phẩm của Richard Alleine trong ấn bản Monergism – (1) "Daily Practice of Piety" (18 quy tắc thực hành đạo hằng ngày); (2) "Prayers for the Family" (lời cầu nguyện buổi sáng, buổi tối, tạ ơn trước/sau bữa ăn, có ký tên "By yours R. Alleine"); (3) "Scripture Rules to be Observed in Buying and Selling" (quy tắc Kinh Thánh khi mua và bán), cùng tác giả, đóng chung trong cùng ấn bản.
-- Phần loại trừ (không phải nội dung chính): trang bìa/tựa (tóm vào dòng tiêu đề), mục lục điều hướng, khối bản quyền Monergism, ghi chú biên tập Project Puritas, các dấu trang trí "***".
-- Bản EPUB Monergism (EPUB sạch, không OCR), chuyển tự từ ấn bản 1698 (J. Deacon, London) qua Project Puritas; không có chú thích biên tập.
-- Các câu Kinh Thánh được diễn ý theo văn phong Kinh Thánh Việt ngữ 1934 (chỉ theo phong cách, không đối chiếu từng chữ).
+Mở trong trình đọc Về thư viện

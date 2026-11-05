@@ -1,5 +1,12 @@
 NGHIÊN CỨU VỀ THẦN HỌC
-James Denney
+
+James Denney · Studies in Theology (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+NGHIÊN CỨU VỀ THẦN HỌC James Denney
 
 [H2] BÀI GIẢNG I — Ý NIỆM VỀ THẦN HỌC
 
@@ -405,21 +412,6 @@ Những gì đã được nói sẽ chỉ đủ cho thấy tôi nên nhìn lý t
 
 Thưa quý ông, hội nghị của chúng ta kết thúc tại đây. Tôi xem đó là một vinh dự và đặc ân lớn lao rằng các nhà chức trách của chủng viện này đã cho tôi những cơ hội này để nói với quý vị về những điều vĩ đại của Đức Chúa Trời. Tôi ý thức về sự bất toàn mà với đó công việc đã được thực hiện; nhưng tôi đã nói với quý vị từ tấm lòng mình, nói với quý vị không mơ hồ và không dè dặt về cách tôi đã được dẫn dắt để suy nghĩ và cảm nhận về chúng. Tôi không thể tưởng tượng rằng quý vị đã đi với tôi trong từng lời; có thể đã có những chủ đề mà trên đó tư tưởng hay những thành kiến của chúng ta quá xa nhau để chúng ta có thể đánh giá đúng nhau; nhưng tôi đã cố gắng phục vụ quý vị, và tôi hết lòng cảm ơn quý vị về sự kiên nhẫn và bền bỉ mà với đó quý vị đã đến nghe tôi.
 
----
 GHI CHÚ DỊCH THUẬT
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- "justification" dịch là "sự xưng công chính" (không dùng "sự xưng công chính"); "grace" (thần học) là "ân điển" (không dùng "ân sủng"); "gospel" là "Phúc Âm" (không dùng "tin mừng"); "God" là "Đức Chúa Trời" (không dùng "Thiên Chúa", trừ danh xưng "Thiên Chúa giáo" khi chỉ Giáo hội La Mã); "sacrament" là "nghi thức thánh"; "baptism" là "báp-têm"/"lễ báp-têm"; "inspiration" (của Kinh Thánh) là "sự thần cảm"; không dùng "hà linh" ở bất cứ đâu.
-- Cụm "xưng công bình" trong hai câu trích dẫn Rô-ma 8:33 theo bản Kinh Thánh Việt 1934 là văn nguyên bản của bản 1934, không phải dùng sai thuật ngữ.
-- Các thuật ngữ La-tinh/Đức/Hy-lạp trong nguyên bản (Werthurtheil, Hülfsvorstellung, theologoumena, ipso Paulo paulinior, ἐκένωσεν ἑαυτόν…) được giữ nguyên theo bản gốc.
-
-GHI CHÚ NGUỒN VÀ PHẠM VI:
-- Nguồn: EPUB "Studies in Theology - Denney.epub" do Monergism Books phát hành (tháng 2/2023), trích xuất văn bản sạch từ XHTML, không qua OCR.
-- Tác phẩm chân chính gồm 10 bài giảng (Lecture I–X) của James Denney, dịch toàn văn.
-- Các phần không dịch (không thuộc tác phẩm): khối tiêu đề sách (đã tóm vào dòng tiêu đề), danh sách điều hướng (TOC, các tên bài giảng đều có trong thân văn), khối pháp lý/bản quyền của Monergism.
-- Khối bản quyền trong bản EPUB ghi nhầm tác giả là "Jeremiah Burroughs"; tác phẩm là của James Denney, đã đối chiếu với danh mục.
-- Các trích dẫn Kinh Thánh dịch theo phong cách bản Việt 1934 (chỉ phong cách, không đối chiếu ký tự).
-- Một số lỗi in nhỏ trong bản gốc được xử lý minh bạch: "muchcriticized" hiểu là "much-criticized"; "for cur sins" (P0087) hiểu là "for our sins"; chỗ "the Hebrew ," (P0147) để trống trong bản gốc được giữ nguyên, không suy đoán; các đoạn văn kết thúc giữa câu trong bản gốc được giữ nguyên cấu trúc đoạn.
-- Không có ghi chú [NEEDS REVIEW] nào trong thân bản dịch.
+Mở trong trình đọc Về thư viện

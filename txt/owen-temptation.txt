@@ -6,9 +6,11 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Về Sự Cám Dỗ ## Bản chất và quyền lực của nó; sự nguy hiểm khi bước vào nó; và phương cách ngăn ngừa hiểm nguy ấy; cùng với lời giải đáp nhiều trường hợp liên quan. John Owen (1616–1683)
+BẢN CHẤT VÀ QUYỀN LỰC CỦA NÓ; SỰ NGUY HIỂM KHI BƯỚC VÀO NÓ; VÀ PHƯƠNG CÁCH NGĂN NGỪA HIỂM NGUY ẤY; CÙNG VỚI LỜI GIẢI ĐÁP NHIỀU TRƯỜNG HỢP LIÊN QUAN.
 
-## Lời nói đầu của nhà xuất bản
+John Owen (1616–1683)
+
+LỜI NÓI ĐẦU CỦA NHÀ XUẤT BẢN
 
 Tác phẩm nhỏ này của Tiến sĩ Owen về "Cám dỗ" xuất hiện vào năm 1658. Ông đã được bạn bè tha thiết nài nỉ mới chịu cho xuất bản; với ý kiến của họ, ông vẫn thường kính trọng. Có lẽ họ đã nghe phần cốt yếu của tác phẩm này trong những bài giảng trên tòa giảng; và từ một câu nói trong phần khích lệ ở cuối (xem tr. 150), các bài giảng ấy hẳn đã được thuyết giảng tại Oxford. Các động cơ thúc đẩy tác giả đưa tác phẩm ra in ấn càng được chứng tỏ rõ hơn qua một vài ám chỉ đến đặc điểm của thời đại, sẽ thấy cả trong lời nói đầu lẫn trong chính bản luận văn. Con mắt tinh anh của Owen đã nhận ra một số ảnh hưởng tai hại phát sinh từ sự thành công rực rỡ mà cho đến lúc ấy đã đến với nỗ lực của đảng phái mà ông cùng hành động. Nỗi sợ một hiểm họa chung trước đây đã giữ họ hiệp một trong quan điểm và hành động, đồng thời khiến họ nương cậy vào nguồn sức mạnh và hy vọng thật. Giờ đây họ đang chìm vào những tranh chấp và chia rẽ mở đường cho sự phục hồi chế độ quân chủ; và Owen nói về "một sự suy giảm rõ rệt khỏi công cuộc cải chánh đang xâm chiếm nhóm người xưng đạo của các quốc gia này." Có một giọng vừa nghiêm khắc đầy phẫn nộ, vừa thiết tha, đầy lòng trung tín trong lời lẽ của ông, khi ông nhắc lại chủ đề về sự suy giảm này trong thân bài của luận văn: "Người nào nhìn thấy đảng phái đang thịnh hành của các quốc gia này, nhiều người trong họ đang ở trong quyền cai trị, quyền lực, và ân huệ, cùng với tất cả những kẻ theo họ, và nhớ rằng họ từng là một thuộc địa của những người Thanh Giáo, 'nơi ở của họ là một chốn thấp hèn,' như lời tiên tri nói về thành của Đức Chúa Trời, được một bàn tay cao cả dời đi đến các núi đồi họ đang chiếm giữ, không thể không ngạc nhiên trước việc họ đã sớm quên mất phong tục, tập quán, đường lối, của dân tộc xưa của mình, và bị nắn đúc theo khuôn mẫu của những kẻ đã đi trước họ trong những nơi họ được dời đến." Owen có lẽ đã sợ hậu quả của những chia rẽ đang lộng hành, và đoán trước sự phục sinh của hệ thống độc đoán mà lòng yêu nước của Quốc hội Trường kỳ (Long Parliament) và thiên tài quân sự của Cromwell đã lật đổ. Với ấn tượng rằng một giờ cám dỗ đã đến, và rằng sự bảo đảm tốt nhất cho các nguyên tắc tôn giáo là sự tấn tới trong đời sống tin kính cá nhân, ông đã cho xuất bản luận văn sau đây.
 
@@ -16,7 +18,7 @@ Dù động cơ nào đã thôi thúc ông soạn thảo tác phẩm này, toàn
 
 Từ bản văn Ma-thi-ơ 26:41, tác giả xét đến lần lượt ba đề tài rút ra từ đó:—cám dỗ, phương tiện mà nó dùng để thắng thế, và cách ngăn ngừa nó. Phần lớn luận văn dành cho đề tài cuối cùng,—phương tiện ngăn ngừa. Nó được chia nhỏ thành các câu hỏi tìm hiểu,—về bằng chứng mà qua đó một người có thể biết rằng mình đã sa vào cám dỗ, những chỉ dẫn cần thiết để ngăn ngừa việc sa vào, và các thời kỳ mà cám dỗ có thể bị bắt gặp. Việc thảo luận về câu hỏi tìm hiểu cuối cùng này phần lớn hòa vào việc minh họa bổn phận tỉnh thức của Cơ Đốc nhân, và luận văn kết thúc bằng một lời khích lệ chung về bổn phận này. Những khuyết điểm nhỏ trong cách sắp xếp, việc thảo luận lại một điểm sau khi đã bỏ qua, và không gian quá lớn dành cho một số phần của đề tài, có lẽ được giải thích bởi hoàn cảnh rằng luận văn nguyên thủy là một loạt các bài giảng.—Ban biên tập.
 
-## Gửi độc giả
+GỬI ĐỘC GIẢ
 
 Độc giả Cơ Đốc,
 
@@ -28,7 +30,7 @@ Nguyện Đấng Thượng Tế trung tín và nhân từ của chúng ta, Đấ
 
 John Owen.
 
-## Chương I.
+CHƯƠNG I.
 
 Những lời của bản văn, vốn là nền tảng của bài luận sau đây—Dịp lời được nói, cùng với mối liên hệ của chúng—Những điều được nhắm đặc biệt đến trong chúng—Những điều đáng suy xét trong các lời ấy đối với mục đích chung trong tay—Về bản chất chung của cám dỗ, nó gồm những gì—Bản chất đặc biệt của cám dỗ—Cám dỗ hiểu theo nghĩa chủ động và thụ động—Đức Chúa Trời cám dỗ bất cứ ai thế nào—Mục đích của Ngài khi làm như vậy—Cách Ngài thực hiện—Về cám dỗ trong bản chất đặc biệt của nó; về các hành động của nó—Bản chất thật của cám dỗ được trình bày.
 
@@ -102,7 +104,7 @@ Nói riêng, điều ấy là một cám dỗ đối với bất cứ người n
 
 [3] Ma-thi-ơ 4:8.
 
-## Chương II.
+CHƯƠNG II.
 
 Việc "bước vào sự cám dỗ" nghĩa là gì--Không phải chỉ đơn giản là bị cám dỗ--Không phải là bị nó thắng phục--Là sa vào nó--Sức mạnh của cách diễn đạt ấy--Những điều đòi hỏi để bước vào sự cám dỗ--Sa-tan hay dục vọng thúc giục dai dẳng hơn bình thường--Linh hồn bị vướng mắc--Những thời điểm xảy ra sự vướng mắc như vậy được chỉ ra--Về "giờ thử thách," Khải Huyền iii. 10, đó là gì--Một sự cám dỗ đến giờ của nó như thế nào--Làm sao nhận biết khi nào giờ ấy đã đến--Phương cách phòng tránh do Đấng Cứu Rỗi chúng ta dạy--Về việc tỉnh thức, và ý nghĩa của nó--Về sự cầu nguyện.
 
@@ -152,7 +154,7 @@ III. Có những phương cách phòng tránh do Đấng Cứu Rỗi chúng ta d
 
 2. Về lời hướng dẫn thứ hai, là cầu nguyện, tôi không cần phải nói về nó. Bổn phận và những điều liên quan đến nó đều được mọi người biết. Tôi chỉ thêm rằng, hai điều này bao gồm toàn bộ sự gắng sức của đức tin cho việc bảo toàn linh hồn khỏi sự cám dỗ.
 
-## Chương III.
+CHƯƠNG III.
 
 Giáo lý--Các nền tảng của nó; lời hướng dẫn của Đấng Cứu Rỗi chúng ta trong trường hợp này--Lời hứa bảo toàn của Ngài--Những kết quả của việc con người bước vào sự cám dỗ--1. Của những người tuyên xưng đức tin không có nền tảng--2. Của những thánh đồ được chọn kỹ nhất, A-đam, Áp-ra-ham, Đa-vít--Sự tự xem xét về sự yếu đuối của chính mình--Quyền lực của lòng người chống lại sự cám dỗ được xem xét--Những sự suy xét mà nó dùng cho mục đích ấy--Quyền lực của sự cám dỗ; nó làm mờ tối tâm trí--Nhiều cách mà nó làm điều ấy--1. Bằng cách cố định những tưởng tượng--2. Bằng cách vướng mắc những tình cảm--3. Những sự cám dỗ thêm nhiên liệu cho dục vọng--Mục đích của sự cám dỗ được xem xét, cùng với kết quả của những sự cám dỗ trước--Một số phản đối được giải đáp.
 
@@ -274,7 +276,7 @@ Trả lời. Tôi rất nghi ngờ người nào cố ý bước vào sự cám 
 
 (3.) Bước vào sự cám dỗ vì lý do này là liều mình vào tội lỗi (điều này cũng như "tiếp tục trong tội lỗi") "để ân điển được dư dật," Rô-ma vi. 1, 2; điều mà sứ đồ loại bỏ ý nghĩ ấy với sự ghê tởm lớn nhất. Há chẳng phải là điên rồ, khi một người cố ý để con tàu mình đang ở tự vỡ trên đá ngầm, đến sự mất mát không thể cứu vãn của hàng hóa mình, vì cho rằng đích thân mình sẽ bơi an toàn vào bờ trên một tấm ván? Há chẳng phải cũng thế với kẻ liều mình đắm tàu mọi sự yên ủi, bình an, vui mừng của mình, và biết bao vinh quang của Đức Chúa Trời và danh dự của Phúc Âm mà người ấy được giao phó, chỉ vì cho rằng linh hồn mình rồi cũng sẽ thoát? Những điều này một người hẳn nghĩ không đáng được nhắc đến, mà thế mà những linh hồn khốn khổ đôi khi lại tự lừa dối mình bằng những điều như thế.
 
-## Chương IV.
+CHƯƠNG IV.
 
 Những trường hợp riêng biệt được đề ra để suy xét—Trường hợp thứ nhất, giải pháp của nó trong nhiều điểm riêng biệt—Nhiều dấu hiệu bày tỏ tình trạng của một linh hồn đang bước vào sự cám dỗ.
 
@@ -306,7 +308,7 @@ Con người có thể bị vướng mắc như vậy trong những điều tố
 
 Tôi đề ra điều này để cất đi sự an toàn mà chúng ta dễ sa vào, và để bày tỏ bổn phận riêng biệt mà chúng ta phải chuyên tâm vào trong những mùa vụ đặc biệt của sự cám dỗ; vì kẻ đã bước vào sự cám dỗ rồi thì phải chuyên tâm vào các phương tiện để gỡ mình ra, chứ không phải gắng sức để ngăn ngừa việc mình bước vào. Điều này có thể được làm thế nào tôi sẽ tuyên bố sau.
 
-## Chương V.
+CHƯƠNG V.
 
 Trường hợp thứ hai được đề cập, hay những câu hỏi được giải đáp — Những chỉ dẫn tốt nhất để tránh sa vào sự cám dỗ là gì — Các chỉ dẫn đó được trình bày — Chỉ dẫn của Đấng Cứu Thế chúng ta: "Hãy tỉnh thức và cầu nguyện" — Điều gì được bao hàm trong đó — (1.) Nhận thức về sự nguy hiểm của sự cám dỗ — (2.) Chính chúng ta không có quyền năng để giữ mình — (3.) Đức tin vào các lời hứa về sự gìn giữ — Về sự cầu nguyện nói riêng.
 
@@ -338,7 +340,7 @@ Vậy thì, hãy để lòng trò chuyện với chính mình và nói: "Ta ngh�
 
 Không có điều này, mọi điều còn lại sẽ không có hiệu nghiệm cho mục đích đã đề ra. Và vì vậy hãy xem ông đặt trọng tâm thế nào trên nó: "Luôn cầu nguyện,"--tức là, trong mọi thời điểm và mùa, hay luôn sẵn sàng và chuẩn bị cho sự thi hành bổn phận đó, Lu-ca 18:1, Ê-phê-sô 6:18; "bằng mọi lời cầu nguyện và nài xin trong Đức Thánh Linh,"--đưa ra mọi thứ ước muốn lên Đức Chúa Trời, phù hợp với tình trạng của chúng ta, theo ý muốn Ngài, e rằng chúng ta bị bất cứ điều gì làm xao lãng; và điều đó không phải trong một thời gian ngắn, nhưng "với mọi sự bền đỗ,"--sự tiếp tục kéo dài đến tột cùng: như vậy chúng ta sẽ đứng vững. Linh hồn được khuôn đúc như vậy đang ở trong một tư thế chắc chắn; và đây là một trong những phương tiện mà nếu không có nó công việc này sẽ không được làm xong. Nếu chúng ta không ở trong sự cầu nguyện, chúng ta sẽ ở trong những sự cám dỗ đáng nguyền rủa. Vậy thì, hãy để đây là một chỉ dẫn nữa:--Hãy ở trong sự cầu nguyện, và điều đó cách rõ ràng cho mục đích này, rằng chúng ta "chớ sa vào sự cám dỗ." Hãy để đây là một phần trong sự tranh đấu hằng ngày của chúng ta với Đức Chúa Trời,--rằng Ngài sẽ gìn giữ linh hồn chúng ta, và giữ lòng chúng ta cùng đường lối chúng ta, để chúng ta không bị vướng víu; rằng sự quan phòng tốt lành và khôn ngoan của Ngài sẽ sắp đặt đường lối và công việc của chúng ta, để không có sự cám dỗ ép buộc nào ập đến chúng ta; rằng Ngài sẽ ban cho chúng ta sự siêng năng, cẩn thận, và tỉnh thức trên đường lối của chính mình. Như vậy chúng ta sẽ được giải cứu khi những người khác bị giữ chặt bởi dây của chính sự dại dột của họ.
 
-## Chương VI.
+CHƯƠNG VI.
 
 Về sự tỉnh thức để chúng ta chớ sa vào sự cám dỗ—Bản chất và hiệu nghiệm của bổn phận đó—Phần thứ nhất của nó, về những mùa đặc biệt của sự cám dỗ—Mùa thứ nhất, trong sự thịnh vượng bất thường—Mùa thứ hai, trong giấc ngủ của ân điển—Thứ ba, một mùa của sự hưởng thụ thuộc linh lớn lao—Mùa thứ tư, một mùa của sự tự tin.
 
@@ -374,7 +376,7 @@ Ngoài ra, thường có một sự lừa dối lớn hơn và tệ hơn nằm t
 
 Trường hợp của Phi-e-rơ rõ ràng về điều này: "Tôi sẽ không chối bỏ Thầy; dù mọi người chối bỏ Thầy tôi cũng không; dù tôi phải chết vì điều đó, tôi cũng không làm." Người đàn ông đáng thương này đã nói điều đó khi ông đang đứng ngay trên bờ vực của sự cám dỗ mà rốt cuộc đã khiến ông phải khóc đắng cay. Và điều này đã dạy ông biết mình suốt mọi ngày, và cho ông sự hiểu biết về tình trạng của mọi tín đồ, đến nỗi khi ông đã nhận được nhiều hơn về Đức Thánh Linh và quyền năng, ông lại có ít sự tự tin hơn, và thấy rằng người khác cũng nên như vậy là phải, và vì vậy khuyên mọi người "hãy ăn ở trong sự kính sợ suốt thời gian tạm trú ở đây," 1 Phi-e-rơ 1:17; chớ tự tin và kiêu ngạo như ông đã từng, kẻo, như ông đã làm, họ ngã. Lúc thử thách đầu tiên ông so sánh mình với người khác, và khoe mình hơn họ: "Dù mọi người lìa bỏ Thầy, nhưng tôi thì không." Ông sợ mọi người hơn chính mình. Nhưng khi Đấng Cứu Thế sau đó đến với ông, và đặt ông trực tiếp vào sự so sánh, "Si-môn, con Giô-na, ngươi yêu Ta hơn những kẻ này chăng?" Giăng 21:15, ông đã thôi so sánh mình với người khác, và chỉ kêu lên, "Lạy Chúa, Chúa biết rằng tôi yêu Chúa." Ông sẽ không nâng mình lên trên người khác nữa. Một mùa như vậy thường xảy đến. Những sự cám dỗ lan tràn trong thế gian, những giáo lý sai lạc, cùng vô số sự lôi cuốn và khiêu khích khác: mỗi người chúng ta sẵn sàng rất tự tin rằng mình sẽ không bị bất ngờ với chúng: dù mọi người sa vào những sự dại dột này nhưng chúng ta thì không: chắc chắn chúng ta sẽ không bao giờ lìa khỏi sự bước đi với Đức Chúa Trời; lòng chúng ta không thể ngu muội đến thế. Nhưng sứ đồ nói, "Chớ kiêu ngạo, nhưng hãy sợ; ai tưởng mình đứng, hãy giữ kẻo ngã." Ngươi có nghĩ rằng Phi-e-rơ, người đã bước đi trên mặt biển với Đấng Christ, đã xưng Ngài là Con Đức Chúa Trời, đã ở với Ngài trên núi, khi ông nghe tiếng phán từ sự vinh hiển tuyệt vời, lại có thể, trước lời của một đầy tớ gái, khi không có sự tra xét hợp pháp nào về ông, không có vụ kiện nào chống lại ông, cũng không có ai trong tình trạng của ông, lập tức ngã xuống mà rủa sả và thề rằng mình không biết Ngài? Hãy để những ai có ý muốn đề phòng tội lỗi thì đề phòng sự tự tin. Và đây là điều thứ nhất trong sự tỉnh thức của chúng ta, là suy xét kỹ những mùa mà sự cám dỗ thường tiếp cận linh hồn, và được trang bị chống lại chúng. Và đây là một số mùa mà sự cám dỗ ở gần kề.
 
-## Chương VII.
+CHƯƠNG VII.
 
 Một số hành động tỉnh thức chống lại sự cám dỗ được đề ra—Hãy tỉnh thức giữ lòng—Tỉnh thức về điều gì trong và xung quanh nó—Về những cái bẫy nằm trong khí chất tự nhiên của con người—Về những dục vọng riêng—Về những dịp phù hợp với chúng—Sự tỉnh thức để tích trữ lương thực chống lại sự cám dỗ—Những chỉ dẫn để tỉnh thức trong những tiếp cận đầu tiên của sự cám dỗ—Những chỉ dẫn sau khi đã sa vào sự cám dỗ.
 
@@ -428,7 +430,7 @@ Thứ ba. Hãy trông cậy Đấng đã hứa sự giải cứu. Hãy suy xét 
 
 Thứ tư. Hãy suy xét sự cám dỗ mà ngươi bị bất ngờ đã vào chỗ nào, và bởi phương tiện nào, và với mọi tốc độ hãy vá lại chỗ vỡ. Hãy chặn lối mà nước đã xông vào. Hãy đối xử với linh hồn mình như một thầy thuốc khôn ngoan. Hãy tra hỏi khi nào, thế nào, bởi phương tiện nào, ngươi đã ngã vào bệnh tật này; và nếu ngươi thấy sự bất cẩn, cẩu thả, thiếu giữ sự tỉnh thức trên chính mình, đã nằm ở gốc rễ của nó, hãy gắn lòng ngươi ở đó,--than khóc điều đó trước mặt Chúa,--vá lại chỗ vỡ đó,--rồi tiến hành công việc nằm trước mặt ngươi.
 
-## Chương VIII.
+CHƯƠNG VIII.
 
 Lời hướng dẫn chung cuối cùng, Khải Huyền 3:10: Hãy canh chừng chống lại sự cám dỗ bằng cách "giữ vững lời kiên nhẫn của Đấng Christ" — Lời ấy là gì — Giữ nó bằng cách nào — Việc giữ nó sẽ giữ chúng ta khỏi "giờ thử thách" ra sao.
 
@@ -542,7 +544,7 @@ Vậy thì, trong một mùa như vậy, sự bỏ bê đặc biệt lời kiên
 
 (2.) Trong tình trạng này hãy thúc ép Chúa Giê-xu Christ bằng những lời hứa phước hạnh của Ngài, bằng mọi điều xét có thể thích hợp để nắm giữ và giữ Vua trong cung điện Ngài, có thể tác động trên tấm lòng của Thầy Tế Lễ Thượng Phẩm phước hạnh và thương xót của chúng ta, để ban sự cứu giúp thích hợp trong lúc cần.
 
-## Chương IX.
+CHƯƠNG IX.
 
 Lời khuyên chung về bổn phận đã quy định.
 
@@ -555,7 +557,5 @@ Chúng ta há chẳng có kinh nghiệm về sự yếu đuối của mình, s�
 2. Hãy xét rằng anh em luôn ở dưới mắt Đấng Christ, Đấng làm đầu vĩ đại của sự cứu rỗi chúng ta, Đấng đã truyền chúng ta phải canh chừng như vậy, và cầu nguyện để chúng ta không bước vào sự cám dỗ. Anh em nghĩ gì là những ý tưởng và tấm lòng của Đấng Christ, khi Ngài thấy một sự cám dỗ vội vã tiến về phía chúng ta, một cơn bão dấy lên quanh chúng ta, mà chúng ta đang ngủ say? Há chẳng làm Ngài buồn khi thấy chúng ta phơi mình ra trước nguy hiểm như vậy, sau khi Ngài đã ban cho chúng ta lời cảnh báo này đến lời cảnh báo khác sao? Trong những ngày Ngài còn trong xác thịt, Ngài đã xét sự cám dỗ của mình khi nó còn đang đến, và trang bị mình chống lại nó. "Vua chúa của thế gian này đến," Ngài phán, "nhưng chẳng có phần gì trong ta." Và chúng ta sẽ cẩu thả dưới mắt Ngài sao? Đừng tưởng rằng anh em thấy Ngài đến cùng anh em như Ngài đã đến cùng Phi-e-rơ, khi ông đang ngủ trong vườn, với cùng lời quở trách: "Sao! các ngươi không thể canh chừng với ta một giờ sao?" Há chẳng phải là một sự buồn rầu cho anh em khi bị quở trách như vậy, hay khi nghe Ngài sấm sét chống lại sự bỏ bê của anh em từ trời, như chống lại Hội Thánh Sạt-đe sao? Khải Huyền 3:2.
 
 3. Hãy xét rằng nếu anh em bỏ bê bổn phận này, và vì vậy sa vào sự cám dỗ — điều chắc chắn anh em sẽ làm — rằng khi anh em bị vướng mắc, Đức Chúa Trời cũng có thể đem một hoạn nạn hay sự đoán phạt nặng nề nào đó trên anh em, mà, vì cớ sự vướng mắc của mình, anh em sẽ không thể nhìn nó cách nào khác ngoài như một bằng chứng về cơn giận và sự ghét bỏ của Ngài; và bấy giờ anh em sẽ làm gì với sự cám dỗ và hoạn nạn của mình cùng một lúc? Mọi xương anh em sẽ bị gãy, và sự bình an cùng sức mạnh của anh em sẽ mất đi trong một giây phút. Điều này hiện nay có vẻ chỉ như tiếng ồn của lời nói; nhưng nếu bao giờ đó là tình trạng của anh em, anh em sẽ thấy nó đầy dẫy tai họa và cay đắng. Ôi! vậy chúng ta hãy cố gắng giữ linh hồn mình không vướng mắc, tránh mọi hình thức của sự dữ và mọi đường lối dẫn đến đó; đặc biệt mọi đường lối, công việc, hội đoàn, và nghề nghiệp mà chúng ta đã thấy gây bất lợi cho mình.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 13 [NEEDS REVIEW] flags on direct Scripture quotations (mostly Chương I: Ma-thi-ơ 26:40-41, Lu-ca 22:46, Gia-cơ 1:2/1:13, Giăng 14:30, 1 Phi-e-rơ 1:6-7, Châm Ngôn 23:34) — translated for sense in natural Vietnamese; reviewer should align to exact Bản Dịch Mới 2010 wording.
 
 Mở trong trình đọc Về thư viện

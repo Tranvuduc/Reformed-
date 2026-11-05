@@ -6,7 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Liều Thuốc Bổ Thiêng Liêng ## Đặc ân siêu việt của những người yêu mến Đức Chúa Trời và được kêu gọi cách cứu rỗi Tác giả: Thomas Watson (1663)
+ĐẶC ÂN SIÊU VIỆT CỦA NHỮNG NGƯỜI YÊU MẾN ĐỨC CHÚA TRỜI VÀ ĐƯỢC KÊU GỌI CÁCH CỨU RỖI
+
+Tác giả: Thomas Watson (1663)
 
 Trích lời tựa
 
@@ -859,7 +861,5 @@ Hê-bơ-rơ [366]1:14 [367]2:10 [368]2:18 [369]3:1 [370]9:24 [371]10:24 [372]10:
 Gia-cơ [381]1:12 [382]1:21 [383]2:5 [384]5:11 [385]5:15 [386]1:6 [387]2:3 [388]2:8 [389]2:9 [390]2:9 [391]2:25 [392]3:4 [393]3:8 [394]4:14 [395]5:4 [396]5:10 [397]1:3 [398]1:4 [399]1:10 [400]1:10 [401]2:7 [402]3:18 [403]1:3 [404]2:15 [405]2:15 [406]3:2 [407]3:14 [408]4:16 [409]4:16 [410]4:19 [411]5:1
 
 Khải Huyền [412]2:4 [413]2:7 [414]3:4 [415]3:7 [416]3:12 [417]14:2 [418]19:9 [419]20:6 [420]22:17 [421]22:17 [422]22:20 Ghi chú: Phần "References" trong bản gốc CCEL chỉ là danh sách 422 liên kết nội bộ (file://...) trỏ đến các câu Kinh Thánh, không phải nội dung sách; bản dịch lược bỏ phần này.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none
 
 Mở trong trình đọc Về thư viện

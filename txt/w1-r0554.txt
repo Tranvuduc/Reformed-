@@ -1,6 +1,12 @@
-AI, chưa duyệt
 HỘI THÁNH THỊ TRẤN MANCHESTER
-Thomas Chalmers
+
+Thomas Chalmers · The town church of Manchester
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt HỘI THÁNH THỊ TRẤN MANCHESTER Thomas Chalmers
 
 LỜI NÓI ĐẦU.
 
@@ -548,6 +554,4 @@ Mục sư Thomas Chalmers, chủ tịch; George Winch, Charles B. Wingate, Frank
 
 Một dịp thú vị khác mà Hội Thánh đang mong đợi trong tương lai gần là lễ kỷ niệm Song hỷ Kim cương kép. Không gì có thể cho thấy rõ hơn những niềm vui được mong đợi trong tuần lễ ấy bằng chính chương trình, mà chúng tôi xin chèn vào đây:
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: none
-GHI CHÚ DỊCH THUẬT: Dịch toàn văn phần tường thuật (Lời Nói Đầu và các Phần I–IV, chương I–XIII, 273 đoạn) từ bản quét OCR archive.org, ấn bản Manchester 1903. Tác giả là Thomas Chalmers, mục sư Hội Thánh Congregational Đầu Tiên tại Manchester, New Hampshire — không phải nhà thần học Scotland Thomas Chalmers (1780–1847). Chương XIII do Mary Frances Dana viết tiếp về nhiệm kỳ mục sư đương thời, dịch kèm như một phần của sách. Loại trừ (đã công khai): mục lục, danh mục tranh minh họa, chương trình Double Diamond Jubilee, các bảng danh sách viên chức Hội Thánh/hội đoàn, bảng tiến triển hằng năm, bảng tiền thuê ghế ngồi, danh sách di sản/quỹ, mẫu di chúc, chỉ mục; cùng tiêu đề chạy trang, số trang, rác quét, dấu thư viện và boilerplate archive.org. Các tiêu đề bị OCR hỏng đã dịch theo nghĩa hiển nhiên; các câu bị ngắt trang đã nối lại; tiêu đề chạy trang "PREFACE." lặp ở trang 6 và các tiêu đề chạy trang lặp khác đã bỏ; số chương "XL" đọc là "XI." theo trình tự. Các phán đoán của dịch giả theo chứng cứ nội tại (ghi rõ, không đoán lặng): P0198 năm 1811 → 1841 (gần hai năm sau sự hiệp nhất 1839), P0224 năm 1812 → 1842 (bối cảnh nhà thờ phố Hanover), P0208 mức lương $050 → $650 (dãy tăng $50 một bậc). Các chỗ OCR không đọc được đã đánh dấu cờ xem lại, không đoán: P0066 tên "Eidiel", P0083 dòng rác, P0091 "oles"/"Enm" (dịch tạm là lươn/rượu rum kèm cờ), P0100–P0106 mảnh sơ đồ nhà thờ, P0228 họ "liell" (đọc tạm là Bell kèm cờ).
+Mở trong trình đọc Về thư viện

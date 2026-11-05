@@ -1,5 +1,12 @@
 CÁC TÁC PHẨM TÂM LINH CỦA DAVID HARSHA
-David Harsha
+
+David Harsha · The Devotional Works of David Harsha
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+CÁC TÁC PHẨM TÂM LINH CỦA DAVID HARSHA David Harsha
 
 XỨ IM-MA-NU-ÊN
 
@@ -1163,7 +1170,7 @@ Như vậy Cơ Đốc nhân theo đuổi cuộc hành trình mình và dựng l�
 
 Chúng tôi thiết tha mời bạn, độc giả thân mến, đồng hành cùng chúng tôi trong cuộc hành hương đến quê hương trên trời. Chúng tôi nài xin bạn, với lòng thương xót tột cùng đối với linh hồn bất diệt của bạn, hãy lìa bỏ đường sự chết, và theo đường sự sống—đường đến vinh quang và phước hạnh bất diệt. Nói tóm lại, chúng tôi trìu mến nói cùng bạn như Môi-se đã nói với Hô-báp: "Chúng tôi đi đến Xứ Hứa. Hãy đi với chúng tôi, chúng tôi sẽ làm ơn cho ngươi, vì Đức Giê-hô-va đã hứa ban những lời hứa diệu kỳ cho Y-sơ-ra-ên!" Dân Số Ký 10:29
 
-Sự Khởi Đầu Cuộc Hành Trình       của Cơ Đốc Nhân—Những Khó Khăn Trên Đường Đi
+Sự Khởi Đầu Cuộc Hành Trình của Cơ Đốc Nhân—Những Khó Khăn Trên Đường Đi
 
 "...mà giục lòng các môn đồ vững vàng trong đạo, và khuyên phải bền đổ trong đức tin, và rằng phải trải qua nhiều nỗi khó khăn mới vào được nước Đức Chúa Trời." Công Vụ Các Sứ Đồ 14:22
 
@@ -1297,7 +1304,7 @@ Và hát ngợi khen Ngài đời đời tại đó,
 
 Với lòng biết ơn và kinh ngạc."
 
-Sự Khích Lệ—       Sự Cung Ứng Dọc Đường
+Sự Khích Lệ— Sự Cung Ứng Dọc Đường
 
 "Ấy là kẻ sẽ ở nơi cao. Vầng đá bền vững sẽ là đồn lũy nó; bánh nó sẽ được ban cho; nước nó sẽ không bao giờ thiếu." Ê-sai 33:16
 
@@ -5169,7 +5176,7 @@ Xin chiếu sáng đường tôi, trong lòng thương xót xin chiếu sáng,
 
 Xin làm thịnh vượng công việc tôi, và khiến nó thuộc về Ngài.
 
-Chương 1: ĐẤNG CỨU THẾ, SAO MAI SÁNG CHÓI, MẶT TRỜI CÔNG CHÍNH, VÀ SỰ SÁNG CỦA THẾ GIAN.
+CHƯƠNG 1: ĐẤNG CỨU THẾ, SAO MAI SÁNG CHÓI, MẶT TRỜI CÔNG CHÍNH, VÀ SỰ SÁNG CỦA THẾ GIAN.
 
 Đấng Christ, Chiên Con, trong hào quang ngự trên ngai,
 
@@ -9884,13 +9891,5 @@ Và qua bão và sự giam cầm của nguy hiểm
 Nó dẫn tôi đến bến bình an.
 
 Nó dẫn tôi đến bến bình an.
-TRANSLATION STATUS: COMPLETE
 
-TERMINOLOGY ISSUES:
-- Bản dịch tuân thủ bảng 16 thuật ngữ trong HUONG-DAN-DICH.md mục 2: Đức Chúa Trời; Chúa Giê-xu Christ; Đức Thánh Linh; Phúc Âm; ân điển; đức tin; sự xưng công chính; sự nên thánh; sự cứu chuộc; sự chuộc tội; giao ước; sự tuyển chọn; sự tiền định; sự cứu rỗi; Hội Thánh; Kinh Thánh; "sự thần cảm" cho "inspiration" (về Kinh Thánh).
-- Các trích dẫn Kinh Thánh được dịch theo văn phong Kinh Thánh 1934 (chỉ theo phong cách, không đối chiếu từng chữ với bản in 1934). Trong các trích dẫn đặt trong ngoặc kép, bản dịch giữ nguyên văn phong 1934, kể cả những chỗ bản 1934 dùng "xưng công bình", "công bình", "Tin Lành" (ví dụ Rô-ma 5:1; 5:9; 8:33; Ê-sai 45:24-25; Mác 16:15; Ê-phê-sô 4:11) — đây là nguyên văn 1934, không phải cách dùng thuật ngữ bị cấm (quy ước của đợt dịch, xem các mục #271, #304).
-- "sacrament"/"ordinance" → "nghi thức thánh"; "Lord's Supper"/"sacramental supper" → "Tiệc Thánh"/"bữa Tiệc Thánh"; "baptism" → "báp-têm"/"lễ báp-têm". "Tin Lành" chỉ xuất hiện trong "đạo Tin Lành" (chỉ đạo Tin Lành nói chung) và trong các trích dẫn 1934 nguyên văn nêu trên.
-- Các dấu [NEEDS REVIEW: …] trong bài đánh dấu những lỗi in rõ ràng của bản nguồn (đã sửa theo nghĩa rõ ràng và ghi lại nguyên văn nguồn) hoặc những chỗ chữ nguồn bị rối không đọc được (giữ nguyên văn, không đoán).
-- Loại trừ khỏi bản dịch (đã công bố): trang bìa/tiêu đề/tác giả của EPUB, mục lục điều hướng, trang colophon đầu sách, các dòng boilerplate của Monergism ("A free eBook from Monergism.com", số trang, đầu trang/cuối trang lặp lại), và khối bản quyền Monergism ở cuối sách. Toàn bộ 4.942 đoạn của tác phẩm gốc (P0063–P5004, khoảng 51.300 chữ Anh) đã được dịch đầy đủ, gồm các bài suy ngẫm: "Xứ Im-ma-nu-ên", "Thế gian là đồng vắng, Cơ Đốc nhân là khách hành hương", "Tình yêu của Đấng Christ khi đến thế gian cứu kẻ có tội", "Ngôi sao Bết-lê-hem", và các bài suy ngẫm, bài thánh ca khác trong ấn bản (thơ của Rutherford, Cousin, Cowper và các tác giả khác được dịch trọn vẹn trong mạch văn).
-- Các chỗ ngắt đoạn do chia chunk (cuối thánh ca Cousin ở P0583, cuối thánh ca Cowper ở P1249) được nối liền mạch ở chunk tiếp theo, không mất nội dung.
-- Nguồn: ấn bản EPUB của Monergism (devotional-works-david-harsha-ebook); nội dung là văn bản Cơ Đốc Cải Chánh, đã dịch toàn văn.
+Mở trong trình đọc Về thư viện

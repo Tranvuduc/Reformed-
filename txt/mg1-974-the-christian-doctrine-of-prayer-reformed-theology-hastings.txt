@@ -1,5 +1,12 @@
 GIÁO LÝ CƠ ĐỐC VỀ SỰ CẦU NGUYỆN
-James Hastings
+
+James Hastings · The Christian Doctrine of Prayer (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+GIÁO LÝ CƠ ĐỐC VỀ SỰ CẦU NGUYỆN James Hastings
 
 LỜI TỰA
 
@@ -4925,13 +4932,4 @@ Khi sâu sắc tha thiết về, một phần nào đó của công việc hằn
 
 Khi kết thúc sự cầu nguyện, hãy kết thúc nó bằng sự im lặng. "Chính trong khoảnh khắc nán lại đó Chúa của tôi đến với tôi."
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Thuật ngữ theo bảng 16 từ của đợt MG-2 (justification = "sự xưng công chính"; inspiration của Kinh Thánh = "sự thần cảm"). Các từ bị cấm — "sự xưng công bình", "ân sủng", "tin mừng" (cho gospel), "Thiên Chúa" (ngoài tên riêng "Thiên Chúa giáo"), "bí tích" (thay bằng "nghi thức thánh"), "rửa tội" (thay bằng "báp-têm"), "hà linh", "sự xưng công chính" — không xuất hiện trong thân bài; chúng chỉ được nhắc ở đây để ghi lại quy ước.
-- Các trích dẫn Kinh Thánh dịch theo phong cách bản dịch tiếng Việt 1934 (chỉ theo phong cách, không đối chiếu từng ký tự với bản 1934).
-- Phần bị loại khỏi nguồn EPUB và không dịch: dữ liệu bìa/CSS (P0000); khối tên sách (P0001–P0003, đã rút gọn thành hai dòng đầu của tệp); mục lục điều hướng (P0004–P0094 — mọi tiêu đề chương đều xuất hiện trong thân bài). Nguồn không có bảng tra cứu (index) ở cuối sách.
-- Các danh mục "TÀI LIỆU THAM KHẢO" (Literature) ở đầu mỗi chương giữ nguyên tiếng Anh, vì là thông tin xuất bản để tra cứu, không phải văn xuôi.
-- Dòng tên sách chạy đầu một số chương ("The Christian Doctrine of Prayer") giữ nguyên tiếng Anh như trong nguồn.
-- Đoạn trích tiếng Scotland cổ của John Knox ở cuối chương XV dịch theo nghĩa; chính tả cổ trong nguồn không còn được dùng.
-- Thân bài không có đoạn nào phải đánh dấu [NEEDS REVIEW: …]: toàn văn EPUB rõ ràng, không có chỗ không đọc được.
+Mở trong trình đọc Về thư viện

@@ -1,5 +1,12 @@
 VIỆC CHIẾM LẠI BREDA VÀ THÀNH PHỐ TRÊN TRỜI
-André Rivet
+
+André Rivet · The Capture of Breda and the Heavenly City (Church History eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+VIỆC CHIẾM LẠI BREDA VÀ THÀNH PHỐ TRÊN TRỜI André Rivet
 
 TRƯỚC TRẠI QUÂN TRƯỚC THÀNH BREDA, TRONG LỀU CỦA HOÀNG TỬ ORANGE
 
@@ -51,12 +58,4 @@ Vậy chúng ta hãy trở về với chính mình và suy gẫm về những �
 
 Trong lúc ấy chúng ta có thể hưởng các sự vật hiện tại và thuộc thể chừng nào Đức Chúa Trời đẹp lòng và dưới quyền Đức Chúa Trời — tùy thuộc ý muốn của Ngài để lìa bỏ chúng khi Ngài đẹp lòng, bắt ý muốn của mình phải phục tùng các sắc lệnh và quy định của Ngài; và phụng sự Ngài ở đây trong sự thánh khiết và công chính suốt các ngày của đời mình, chúng ta sẽ vui mừng chờ đợi phước lành được trông mong và sự hiện ra của sự vinh hiển của Đức Chúa Trời vĩ đại và Cứu Chúa Giê-xu Christ của chúng ta, Đấng cùng với Đức Chúa Cha và Đức Thánh Linh được dâng vinh hiển và tạ ơn đời đời. A-MEN.
 
----
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Không có vấn đề thuật ngữ chưa giải quyết. Bảng thuật ngữ của đợt MG-2 được tuân thủ trong toàn bài: justification = "sự xưng công chính" (không dùng "sự xưng công chính"); atonement = "sự chuộc tội"; gospel = "Phúc Âm" (khi là danh từ chỉ Tin Lành); grace = "ân điển"; Scripture inspiration = "sự thần cảm"; baptism = "báp-têm"/"lễ báp-têm"; sacraments = "nghi thức thánh"; thuật ngữ vô nghĩa "hà linh" không được dùng ở bất cứ đâu.
-- Các câu trích Kinh Thánh được diễn đạt theo phong cách Kinh Thánh Tiếng Việt 1934 (chỉ theo phong cách, không đối chiếu từng chữ).
-- Vấn đề nguồn văn (ghi chú cho báo cáo đợt): bản tiếng Anh của Monergism là BẢN DỊCH MÁY — lời tựa của chính ấn bản ghi rõ "We generated this translation of André Rivet's Sermon faict au camp devant Breda... from the original French using Grok. Copilot reviewed Grok's work and concluded that the English text 'is highly accurate...'." Bản dịch Việt ngữ này vì vậy được dịch từ một bản tiếng Anh do AI dịch từ nguyên tác tiếng Pháp của Rivet (1637); không đối chiếu được với nguyên tác Pháp.
-- Các phần bị loại khỏi phạm vi bản dịch thật (ghi trong chân trang theo quy định): khối tiêu đề đầu sách (tóm gọn vào dòng tiêu đề), "Editor's Note" của ban biên tập (do tay khác viết, về quá trình dịch thuật), khối bản quyền Monergism Books, và dấu "***" ngăn đoạn trong bản EPUB đã được bỏ; nội dung thật được dịch toàn văn = 25 đoạn thân bài giảng.
-- Các sự kiện lịch sử trong bài giảng (quân Hà Lan chiếm lại Breda từ tay Tây Ban Nha sau cuộc vây hãm tháng 7–10/1637; Frederick Henry, Hoàng tử Orange, 1584–1647) được giữ nguyên như trong bản nguồn, không thêm bình luận.
+Mở trong trình đọc Về thư viện

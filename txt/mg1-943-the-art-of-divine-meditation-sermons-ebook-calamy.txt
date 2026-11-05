@@ -1,5 +1,12 @@
 NGHỆ THUẬT SUY GẪM THÁNH
-Edmund Calamy
+
+Edmund Calamy · The Art of Divine Meditation (Sermons eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+NGHỆ THUẬT SUY GẪM THÁNH Edmund Calamy
 
 PHẦN DẪN NHẬP.
 
@@ -803,11 +810,4 @@ Chúa ban Phước cho nó.
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng theo hướng dẫn dịch: God = "Đức Chúa Trời"; gospel = "Phúc Âm"; grace = "ân điển"; justification = "sự xưng công chính"; sanctification = "sự nên thánh"; redemption = "sự cứu chuộc"; atonement = "sự chuộc tội"; covenant = "giao ước"; election = "sự tuyển chọn"; predestination = "sự tiền định"; salvation = "sự cứu rỗi"; church = "Hội Thánh"; Scripture = "Kinh Thánh"; inspiration = "sự thần cảm"; baptism = "báp-têm"/"lễ báp-têm". Không dùng các từ bị cấm: "sự xưng công bình", "ân sủng", "tin mừng" (cho gospel), "Thiên Chúa", "bí tích", "rửa tội", "hà linh", "sự xưng công chính".
-- "The Sacrament" trong sách này (Tiệc Thánh) dịch là "lễ Tiệc Thánh"; "sacrament" theo nghĩa chung dịch là "nghi thức thánh". "Meditation" dịch thống nhất là "sự suy gẫm".
-- Thân bài có 1 chỗ đánh dấu [NEEDS REVIEW]: tại đoạn về Giô-suê, văn bản nguồn bị cụt thành "the C&" (lỗi sao chép trong bản EPUB của Monergism); giữ nguyên như in và đánh dấu, không đoán.
-- Các lỗi trích dẫn trong nguồn được giữ nguyên như in, không sửa: Thi Thiên 106 câu 6–7 được nguồn ghi là "câu 3"; câu trích Giê-rê-mi 12:11 được nguồn ghi là "Ê-sai 12:11"; một câu trích sách Truyền Đạo được nguồn ghi là "Truyền Đạo 1:3". Các lỗi in rõ ràng được đọc theo nghĩa hiển nhiên (ví dụ "Egyyt" = Ê-díp-tô; ký tự lạ "Eccles▪").
-- Phần bị loại trừ (không dịch): khối tiêu đề và ghi chú sản xuất ở đầu sách; Mục lục điều hướng (các tiêu đề mục đều xuất hiện trong thân bài); thư ngỏ "Gửi các độc giả Cơ Đốc" của người biên tập (một tay khác viết về tác giả ở ngôi thứ ba — các bài giảng này được ghi tốc ký từ lời giảng của Calamy và xuất bản sau khi ông qua đời); khối bản quyền/pháp lý của Monergism Books ở cuối sách.
-- Nguồn: EPUB của Monergism (văn bản sạch, không phải OCR), chuyển từ EEBO-TCP qua Project Puritas và được Monergism hiệu đính thêm. Các câu Kinh Thánh dịch theo phong cách bản dịch tiếng Việt 1934 (chỉ theo phong cách, không đối chiếu từng ký tự).
+Mở trong trình đọc Về thư viện

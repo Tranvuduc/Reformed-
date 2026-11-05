@@ -1,5 +1,12 @@
 NHỮNG NỮ ANH HÙNG TÔ CÁCH LAN CỦA ĐỨC TIN
-Donald Beaton
+
+Donald Beaton · Scottish Heroines of the Faith (Biography eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+NHỮNG NỮ ANH HÙNG TÔ CÁCH LAN CỦA ĐỨC TIN Donald Beaton
 
 Lời Tựa.
 
@@ -789,10 +796,4 @@ Bà cũng đến thăm ông Robert Baillie xứ Jerviswood, và theo Wodrow— "
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Exclusions: EPUB title block (P0000–P0003, condensed into header), the transcription note (P0004), Monergism copyright/legal block (P0005–P0011), navigational Contents list (P0012–P0033, chapter titles all appear in the body).
-- Source notes: the Monergism edition's English text was "fully transcribed, verbatim, using Claude Opus 4.6/API" from a 19th-century edition (a transcription, not a machine translation); spelling of the 1909 original left unchanged unless correcting obvious errors. Minor source print slips kept as printed: "Plellands"/"John Broun" (P0096), "Moorkirk"/"shire of Air" (P0097), "behavionr" read as "behaviour" (P0278), "residnece" read as "residence" (P0398).
-- Terminology: justification = "sự xưng công chính"; no banned terms in the body; one "Thiên Chúa" occurrence is the allowed proper name "Thiên Chúa giáo"; Bible quotations in 1934 Vietnamese style (style only, not character-verified).
-- No [NEEDS REVIEW] flags were needed — the English source was fully legible throughout.
+Mở trong trình đọc Về thư viện

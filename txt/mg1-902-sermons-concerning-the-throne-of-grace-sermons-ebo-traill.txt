@@ -1,5 +1,12 @@
 CÁC BÀI GIẢNG VỀ NGÔI ÂN ĐIỂN
-Robert Traill
+
+Robert Traill · Sermons Concerning the Throne of Grace (Sermons eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+CÁC BÀI GIẢNG VỀ NGÔI ÂN ĐIỂN Robert Traill
 
 [h3]BÀI GIẢNG THỨ NHẤT
 
@@ -1109,12 +1116,4 @@ Có bốn điều, mà nếu chúng là kết quả của việc tôi giảng v�
 
 "Và cho đến khi ngày phước hạnh ấy đến, (và nó sẽ đến; vì nó đã được hứa và thề bởi Đấng không thể nói dối. Nó không còn xa; vì đã hơn một ngàn sáu trăm năm kể từ khi Ngài làm chứng, Quả thật, ta đến mau chóng, Khải-huyền 22:20. Đó là lời hứa cuối cùng của Ngài cho cô dâu Ngài), nguyện danh rất tốt đẹp của Ngài được đổ ra như dầu thơm; và nguyện mùi thơm của sự hiểu biết Ngài được tỏ bày khắp mọi nơi. Nguyện cái chết cứu rỗi phước hạnh của Ngài được tưởng nhớ, được khoe mình trong, và được nuôi mình bởi, mọi tín hữu: (dấu chứng lớn nhất của tình yêu Ngài đối với chúng ta, giá duy nhất của sự cứu chuộc chúng ta, 1 Phi-e-rơ 1:19.) và là lương thực duy nhất của linh hồn chúng ta.) Nguyện sự công chính xưng công chính của Ngài chỉ được nhắc đến trước mặt Đức Chúa Trời trên đất bởi những tội nhân tin cậy, như nó sẽ chỉ được nhắc đến bởi những thánh đồ được vinh hiển đang ngợi khen trên trời. Nguyện ngai ân điển, được Cha dựng lên trong Con Ngài, và được biệt riêng thánh bởi huyết của Con Ngài, là Đức Chúa Trời hiện ra trong xác thịt, được tỏ ra cho thế gian tối tăm, và được dựng lên giữa các dân tộc mù lòa: và nguyện ân điển từ đó được ban ra cho nhiều ngàn tội nhân đang hư mất. Nguyện vinh quang của ân điển nhưng không, rất nhưng không, mọi bề nhưng không của Đức Chúa Trời trong Chúa Giê-xu Christ, chiếu sáng trong các dân tộc, đến nỗi nó có thể (và khi vinh quang ấy chiếu sáng, nó sẽ) làm lu mờ, làm bối rối, và làm hổ thẹn, mọi sự tối tăm Chống-Đấng-Christ, (và những giấc mơ về các Christ giả do loài người tạo ra, và về công việc, tiền công, và công đức, dưới mọi tên gọi và cớ của chúng), và làm cho tất cả đều đáng ghét trong mắt tội nhân, như nó có hại cho linh hồn họ, và như nó đáng ghét trước mặt Đức Chúa Trời. Nguyện lời ngợi khen của Chúa tôi và Đức Chúa Trời tôi, như Thô-ma đã được phục hồi gọi Ngài, Giăng 20:28 đầy dẫy trời và đất; và đầy dẫy lòng, và đầy dẫy miệng, và chiếu sáng trong đời sống của mọi tín hữu trên danh Ngài; và nguyện lời ngợi khen Ngài đầy dẫy mọi sự thờ phượng theo Phúc Âm trong mọi Hội Thánh, cho đến ngày hiện ra vinh hiển của Đức Chúa Trời vĩ đại, và Đấng Cứu Chuộc chúng ta là Chúa Giê-xu Christ, Tít 2:13. Và đối với những ước nguyện này nguyện mọi tín hữu nơi, và kẻ yêu mến chân thành Chúa Giê-xu Christ, nói (và mọi kẻ như vậy, sẽ nói) A-men. Nguyện như vậy, sẽ như vậy."
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ theo hướng dẫn dịch: justification = "sự xưng công chính" (không dùng "sự xưng công chính" đã bị cấm); grace = "ân điển"; gospel = "Phúc Âm"; God = "Đức Chúa Trời"; baptism = "báp-têm"/"lễ báp-têm"; ordinance/sacrament = "nghi thức thánh"; inspiration (của Kinh Thánh) = "sự thần cảm". Không có từ bị cấm nào trong phần nội dung chính; không còn "sự xưng công chính"; không có ký tự U+FFFD.
-- Trích dẫn Kinh Thánh theo văn phong Bản Truyền Thống 1934 (chỉ theo phong cách, không kiểm chứng từng chữ).
-- Vấn đề bản nguồn: các lỗi in giữ nguyên như in hoặc đọc theo nghĩa rõ ràng, đã ghi trong chú thích cuối: "throne of grate" (lỗi in của "throne of grace"); "chain mercy" trong Rô-ma 11:31 (rõ ràng là "obtain mercy", dịch theo nghĩa của câu Kinh Thánh); "lam pure" trong Châm ngôn 20:9 (rõ ràng là "am pure"); "Acts 4:15" (đáng ra Công vụ 9:15) và "John 3:9" (đáng ra Giăng 3:19) — các trích dẫn câu Kinh Thánh sai trong bản in được giữ nguyên như in, không tự sửa.
-- Loại trừ (theo quy tắc chỉ dịch tác phẩm thật): khối tựa và tác giả đầu EPUB (đã rút gọn vào đầu file), dấu phân cách "-----", khối bản quyền/pháp lý của Monergism Books cuối sách, và Mục lục điều hướng (các tựa chương đều có trong thân bài).
-- Nguồn: EPUB từ monergism.com (file "Throne of Grace - Robert Traill.epub", văn bản sạch không OCR), tác phẩm thật gồm 554 đoạn (từ tựa "SERMON I" đến lời kết của Sermon XIII), ~95.084 chữ tiếng Anh.
-- Không có đoạn nào cần đánh dấu [NEEDS REVIEW]; toàn bộ văn bản nguồn rõ ràng.
+Mở trong trình đọc Về thư viện

@@ -1,5 +1,12 @@
 NHÀ CHIẾN SĨ CƠ ĐỐC: VẬT LỘN VỚI TỘI LỖI, SA-TAN, THẾ GIAN, VÀ XÁC THỊT
-Isaac Ambrose
+
+Isaac Ambrose · The Christian Warrior: Wrestling with Sin, Satan, the World, and the Flesh
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+NHÀ CHIẾN SĨ CƠ ĐỐC: VẬT LỘN VỚI TỘI LỖI, SA-TAN, THẾ GIAN, VÀ XÁC THỊT Isaac Ambrose
 
 NHÀ CHIẾN SĨ CƠ ĐỐC.
 
@@ -829,11 +836,4 @@ Nếu ai trong chúng ta bị cám dỗ như ông đã bị, chúng ta hãy hàn
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Không có vấn đề thuật ngữ chưa giải quyết. Bảng thuật ngữ của đợt MG-2 được áp dụng xuyên suốt: justification = "sự xưng công chính" (không dùng "sự xưng công chính" hay "sự xưng công bình"), gospel = "Phúc Âm", grace = "ân điển", sacraments = "nghi thức thánh", baptism = "lễ báp-têm".
-- Các trích dẫn Kinh Thánh theo phong cách bản dịch 1934 (chỉ theo phong cách, không đối chiếu từng chữ với bản in 1934).
-- 1 ghi chú [NEEDS REVIEW] nội tuyến (chunk_06, P0431): câu trong nguồn bị lỗi in, giữ nguyên văn bản dịch mà không đoán mò.
-- Các lỗi in rõ ràng trong nguồn được dịch theo nghĩa hiển nhiên và ghi lại ở đây: "saving fath" → "đức tin cứu rỗi"; "find Ost truth" → "lẽ thật"; "Impute pot unto me" → "Impute not unto me"; "Trust to nothing in yourself}" (ngoặc thừa bị bỏ); "bruise the serpent's bead" → "đạp đầu con rắn" (Sáng 3:15); "under the mighty band of God" → "dưới tay quyền năng của Đức Chúa Trời" (1 Phi 5:6); "Hash and hasty vows" → "lời thề hấp tấp"; "lest be should lose his prey" → "lest he should lose his prey"; "tild the hearts of Ananias and Sapphira" → "chất đầy lòng A-na-nia và Sa-phi-ra".
-- Bản dịch dựa trên ấn bản 1837 "được rút gọn, sắp xếp lại, và cải thiện" bởi Rev. Thomas Jones (T. J.), không phải bản in gốc của Ambrose; địa chỉ "ADDRESS TO CHRISTIAN WARRIORS" của Jones (một người khác) bị loại khỏi bản dịch theo quy tắc chỉ dịch tác phẩm gốc.
-- Các phần bị loại (ghi nhận đầy đủ): đoạn CSS bìa (P0000–P0002), khối tiêu đề (P0003–P0018, đã rút gọn vào đầu trang), mục lục điều hướng (P0019–P0033), địa chỉ mở đầu của Thomas Jones (P0034–P0037), dấu phân cách và khối bản quyền Monergism (P0453–P0457).
+Mở trong trình đọc Về thư viện

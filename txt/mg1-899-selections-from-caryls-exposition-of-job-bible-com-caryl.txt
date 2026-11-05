@@ -1,5 +1,12 @@
 TUYỂN CHỌN TỪ BÌNH GIẢI SÁCH GIÓP CỦA CARYL
-Joseph Caryl
+
+Joseph Caryl · Selections from Caryl’s Exposition of Job (Bible Commentary eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+TUYỂN CHỌN TỪ BÌNH GIẢI SÁCH GIÓP CỦA CARYL Joseph Caryl
 
 PHÂN TÍCH SÁCH GIÓP.
 
@@ -1425,11 +1432,4 @@ Chúng ta đừng nên khinh thường điều người trẻ nói chỉ vì tu�
 
 Sự khiêm tốn nên kìm hãm người trẻ khỏi vội vàng phô mình; nhưng nó không được khóa hay bịt miệng họ lại.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Bản dịch tuân thủ bảng thuật ngữ hướng dẫn: sự xưng công chính (justification), ân điển (grace), Phúc Âm (gospel), Đức Chúa Trời (God), báp-têm (baptism), nghi thức thánh (ordinance/sacrament), sự thần cảm (inspiration of Scripture). Các trích dẫn Kinh Thánh theo văn phong Bản Truyền Thống 1934 (văn phong, không đối chiếu từng chữ).
-- [NEEDS REVIEW] nội tuyến: 1 — tại [P0681], bản nguồn in "for God signifies someone near to us in blood" (ngữ cảnh: kinsman-redeemer); có vẻ là lỗi OCR của chữ "goel"; giữ nguyên như in, đánh dấu, không đoán.
-- Loại trừ (theo quy tắc chỉ dịch tác phẩm thật): mã CSS trang bìa; khối tựa P0001–P0020 (gộp vào đầu file); Mục lục điều hướng P0021–P0116 (các tiêu đề mục đều có trong thân bài); LỜI GIỚI THIỆU của J. E. Rockwell P0118–P0165 (tác giả khác, lời giới thiệu của biên tập viên); các mốc số trang gốc [NNN] đứng riêng; các khối "Unknown" là di tích chuyển đổi HTML; dòng tiêu đề chạy "Seed Thoughts," P0211; toàn bộ apparatus GHI CHÚ của biên tập viên P1049–P1136 (44 ghi chú chú giải của W. H. Gross) — theo tiền lệ xử lý chú thích cuối của đợt.
-- Nguồn: ấn bản điện tử Monergism ("Seed Thoughts – Joseph Caryl"), do William H. Gross hiện đại hoá, định dạng và chú giải từ bản in 1869 của Presbyterian Board of Publication (nguồn scan archive.org); văn bản sạch, không OCR. Bản tiếng Việt dịch từ nhan đề sách "Selections from Caryl's Exposition of Job" trong danh sách; nhan đề ấn bản "Seed Thoughts" được ghi nhận ở đây.
-- Các số chú thích gốc (2–44) được giữ nguyên vị trí trong thân bài.
+Mở trong trình đọc Về thư viện

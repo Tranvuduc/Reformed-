@@ -1,5 +1,12 @@
 SỰ CHUỘC TỘI: HIỆU QUẢ VÀ PHẠM VI CỦA NÓ
-Robert Candlish
+
+Robert Candlish · The Atonement: Its Efficacy and Extent (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ CHUỘC TỘI: HIỆU QUẢ VÀ PHẠM VI CỦA NÓ Robert Candlish
 
 PHẦN I
 
@@ -989,15 +996,4 @@ II. Đoạn còn lại là một đoạn trong đó Tiến sĩ Anderson trả l�
 
 “ ‘Quyền năng và đặc quyền kỳ diệu như vậy là điều Đức Chúa Trời ban cho đức tin thật, rằng Ngài làm cho mọi sự trở thành của riêng một người cách cá nhân và cứu rỗi; đúng như người ấy đang lấy mọi sự cho chính mình, và làm cho mọi sự thành của mình, bởi một sự thuyết phục chiếm hữu của đức tin.’ ”
 
-TRANSLATION STATUS: COMPLETE
-
-Ghi chú về bản dịch:
-- Nguồn: EPUB của Monergism Books (ấn bản tháng 10 năm 2020) — "The Atonement: Its Efficacy and Extent" của Robert Candlish; văn bản điện tử sạch, không phải OCR, trích xuất theo thứ tự spine của EPUB.
-- Phần đã loại trừ, không dịch: khối bìa và trang tựa (đã rút gọn thành đầu đề của bản dịch); mục lục điều hướng (tên các phần và chương đều xuất hiện trong thân bài); dấu phân cách cùng khối bản quyền/pháp lý của Monergism Books ở cuối sách.
-- Các dấu * trong thân bài là ký hiệu chú thích của nguyên bản, được giữ nguyên như in; bản EPUB này không kèm nội dung các chú thích tương ứng.
-- Một đoạn trong Phần I, Chương III của nguyên bản bị ngắt giữa câu ngay tại ranh giới đoạn trong bản EPUB; bản dịch giữ nguyên như in, không tự ý bổ sung.
-
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng: justification = "sự xưng công chính" (không dùng "sự xưng công chính"); gospel = "Tin Lành"; grace = "ân điển"; atonement = "sự chuộc tội"; propitiation = "của lễ chuộc tội"; redemption = "sự cứu chuộc"; baptism = "báp-têm"/"lễ báp-têm"; sacrament = "nghi thức thánh"; inspiration (của Kinh Thánh) = "sự thần cảm". Không dùng các thuật ngữ bị cấm trong thân bài: "sự xưng công bình", "ân sủng", "tin mừng", "bí tích", "rửa tội", "hà linh".
-- Các trích dẫn Kinh Thánh được dịch theo phong cách bản dịch năm 1934 (chỉ phỏng theo phong cách, không đối chiếu từng ký tự với bản 1934).
-- Không có đoạn nào ghi [NEEDS REVIEW] trong thân bài; toàn bộ văn bản nguồn đều đọc được.
+Mở trong trình đọc Về thư viện

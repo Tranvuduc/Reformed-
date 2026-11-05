@@ -1,5 +1,12 @@
 VẺ ĐẸP CỦA SỰ THÁNH KHIẾT
-Ralph Venning
+
+Ralph Venning · The Beauty of Holiness
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+VẺ ĐẸP CỦA SỰ THÁNH KHIẾT Ralph Venning
 
 Lấy từ Thi Thiên 93:5, phần sau.
 
@@ -155,11 +162,4 @@ Nguyện mọi dân sự nói, A-men; và, như bản Ả-rập thêm, A-lê-lu-
 
 HẾT.
 
----
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ áp dụng: justification = "sự xưng công chính" (không dùng "sự xưng công chính"); inspiration (về Kinh Thánh) = "sự thần cảm"; ân điển (không dùng "ân sủng"); báp-têm/lễ báp-têm (không dùng "rửa tội"); nghi thức thánh (không dùng "bí tích"); Tin Lành (không dùng "tin mừng" cho gospel).
-- Một ghi chú [NEEDS REVIEW] nội tuyến: ở đoạn tương ứng P0070, bản nguồn in "〈 in non-Latin alphabet 〉" (một từ Hy Lạp bị mất trong lớp chữ của bản điện tử) — giữ nguyên chỗ trống, không đoán.
-- Loại trừ (theo quy tắc chỉ dịch tác phẩm thật): dấu phân cách và khối bản quyền Monergism Books ở cuối sách (các đoạn P0080–P0083 trong bản trích); dòng ghi tên tác giả ở đầu sách đã gộp vào dòng tiêu đề theo định dạng chuẩn; các số trang gốc của bản in (nếu có) đã bỏ.
-- Các trích dẫn Kinh Thánh theo văn phong Kinh Thánh Việt Ngữ 1934 (chỉ theo phong cách, không đối chiếu từng chữ); các trích dẫn sai trong nguồn (nếu có) giữ nguyên như in, không tự sửa.
-- Nguồn: bản EPUB của Monergism (ấn bản tháng 8/2025); văn bản tiếng Anh sạch, không OCR.
+Mở trong trình đọc Về thư viện

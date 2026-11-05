@@ -1,6 +1,12 @@
-AI, chưa duyệt
 NGƯỜI BẠN ĐỒNG HÀNH CỦA CƠ ĐỐC NHÂN: CÁC BÀI GIẢNG VỀ NHIỀU CHỦ ĐỀ
-George Whitefield
+
+George Whitefield · The Christian's companion: or, sermons on several subjects. viz I. Aga
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt NGƯỜI BẠN ĐỒNG HÀNH CỦA CƠ ĐỐC NHÂN: CÁC BÀI GIẢNG VỀ NHIỀU CHỦ ĐỀ George Whitefield
 
 BÀI GIẢNG
 
@@ -752,10 +758,4 @@ Và giờ đây, hỡi anh em, tôi phó thác anh em cho Đức Chúa Trời, v
 
 A-men! A-men!
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: none
-- Nguồn: bản scan archive.org 1738 (djvu.txt, OCR); dịch toàn văn 9 bài giảng của Whitefield.
-- Loại trừ: trang tiêu đề và mục lục đầu sách; bộ sưu tập "Forms of Prayer" kèm theo (21.891 chữ Anh) cùng Lời Tựa của bộ sưu tập và dòng tiêu đề chạy của nó — không phải bài giảng của Whitefield (bản dịch Lời Tựa này vẫn giữ trong thư mục làm việc, không đưa vào file).
-- Đã nối các câu bị ngắt ở ranh giới chunk (câu Ê-sai 1:5-6; câu Ga-la-ti 6:1; câu "trong danh Chúa chúng ta...") và bỏ từ "THẬM CHÍ" lặp do lỗi lặp từ cuối trang, cùng các dòng tiêu đề chạy/số trang do OCR tạo ra.
-- Quy ước trích dẫn: lời Kinh Thánh trích nguyên văn giữ đúng lối văn 1934, không ép thuật ngữ bảng vào trong trích dẫn; trong đó có 1 Cô-rinh-tô 6:11 giữ nguyên văn 1934 ("được xưng công bình").
-- 11 điểm cần xem lại trong thân bài (đánh dấu nội tuyến), đều do OCR hỏng, không đoán mò.
+Mở trong trình đọc Về thư viện

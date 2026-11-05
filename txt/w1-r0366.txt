@@ -1,6 +1,12 @@
-AI, chưa duyệt
 SỰ BẢO VỆ CÁC NGUYÊN TẮC CỦA TÌNH YÊU, LÀ NHỮNG NGUYÊN TẮC CẦN THIẾT CHO SỰ HIỆP MỘT VÀ HÒA THUẬN CỦA CÁC CƠ ĐỐC NHÂN, VÀ ĐƯỢC TRÌNH BÀY TRONG MỘT CUỐN SÁCH CÓ TÊN LÀ PHƯƠNG THUỐC CHỮA SỰ CHIA RẼ HỘI THÁNH
-Richard Baxter
+
+Richard Baxter · A defence of the principles of love, which are necessary to the unity
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt SỰ BẢO VỆ CÁC NGUYÊN TẮC CỦA TÌNH YÊU, LÀ NHỮNG NGUYÊN TẮC CẦN THIẾT CHO SỰ HIỆP MỘT VÀ HÒA THUẬN CỦA CÁC CƠ ĐỐC NHÂN, VÀ ĐƯỢC TRÌNH BÀY TRONG MỘT CUỐN SÁCH CÓ TÊN LÀ PHƯƠNG THUỐC CHỮA SỰ CHIA RẼ HỘI THÁNH Richard Baxter
 
 I. Mời gọi mọi Cơ Đốc nhân vững vàng và tỉnh táo, (dù mang tên gọi nào đi nữa), hãy tiếp nhận nhau vào sự thông công trong cùng các Hội Thánh.
 
@@ -102,13 +108,13 @@ Lời tựa gửi những độc giả theo ý của những người phản bi�
 
 1. Phần chung, hay Lời giới thiệu.
 
-Chương 1. Một bản tường thuật về những hành động gần đây đã gây ra sự không hài lòng của cả hai bên đối với tôi: Lý do tôi bỏ qua bản tường thuật về những hành động trước kia mà ông Durel
+CHƯƠNG 1. MỘT BẢN TƯỜNG THUẬT VỀ NHỮNG HÀNH ĐỘNG GẦN ĐÂY ĐÃ GÂY RA SỰ KHÔNG HÀI LÒNG CỦA CẢ HAI BÊN ĐỐI VỚI TÔI: LÝ DO TÔI BỎ QUA BẢN TƯỜNG THUẬT VỀ NHỮNG HÀNH ĐỘNG TRƯỚC KIA MÀ ÔNG DUREL
 
 và
 
 và nhiều người khác đã thuật lại đầy đủ, vì họ đã viết về điều mà họ biết rõ: Những lý do cho những nỗ lực hòa giải và hiệp một tha thiết của tôi với các giám mục, vào năm 1669. Lời tuyên xưng chung của chúng tôi về một phụng vụ vào thời điểm này, và về phụng vụ này, và kinh nghiệm đau buồn của tôi. Những người không tuân phục phải hiệp một với nhau như thế nào. Về phán đoán của chúng tôi về việc thông công trong phụng vụ và nghi thức thánh với các Hội Thánh giáo xứ vào năm 1663. Mục đích của tôi khi mở ra điều này. 27. Những lý do cho việc viết và xuất bản cuốn sách của tôi, có tên là Phương Thuốc Chữa Sự Chia Rẽ Hội Thánh. Một lời về người gây tranh luận. Về những lời đồn sai trái đã được tung ra về tôi và sách của tôi, và về một số suy luận cần lưu ý bởi những người tung tin đồn.
 
-Chương 3. Những phản đối và thắc mắc về chủ đề này.
+CHƯƠNG 3. NHỮNG PHẢN ĐỐI VÀ THẮC MẮC VỀ CHỦ ĐỀ NÀY.
 
 Thắc mắc 1. Điều răn thứ hai và lòng ghen tuông mà Đức Chúa Trời thường bày tỏ trong các vấn đề thờ phượng của Ngài, có làm cho việc thông công trong
 
@@ -2848,15 +2854,6 @@ Ban hành tại Boston ngày 10 tháng 3 năm 1668, bởi Thống đốc và H�
 
 Edward Rawson, Thư ký,
 
-GHI CHÚ BẢN DỊCH:
-- Nguồn: bản OCR trên archive.org (defenceofprincip00baxt_djvu.txt) của bản in 1671; nhiều đoạn mờ, hỏng do OCR đã được đánh dấu xem lại ngay trong văn bản, không đoán mò.
-- Dịch toàn văn từ trang tiêu đề đến cuối sách, gồm Phần I (Bảo vệ Phương Thuốc Chữa Sự Chia Rẽ Hội Thánh) và Phần II (Lời đáp các phản đối của Antidote). Tài liệu của Thống đốc và Hội đồng Boston ngày 10 tháng 3 năm 1668 ở cuối sách là phần trích dẫn trong chính văn bản nên được dịch đầy đủ.
-- Loại trừ: số trang, tiêu đề chạy, chữ ký in, từ bắt trang và nhiễu quét trước trang tiêu đề; không cắt nội dung nào khác.
-- Quy ước trích dẫn: lời Kinh Thánh trích nguyên văn giữ đúng lối văn 1934, không ép thuật ngữ bảng vào trong trích dẫn.
-- Kỹ thuật ráp nối: các đoạn của chunk 05 đã được sắp lại theo đúng số thứ tự; các mảnh câu tách trang được giữ nguyên hoặc gộp vào đoạn kề theo đúng văn bản nguồn.
+GHI CHÚ BẢN DỊCH: - Nguồn: bản OCR trên archive.org (defenceofprincip00baxt_djvu.txt) của bản in 1671; nhiều đoạn mờ, hỏng do OCR đã được đánh dấu xem lại ngay trong văn bản, không đoán mò. - Dịch toàn văn từ trang tiêu đề đến cuối sách, gồm Phần I (Bảo vệ Phương Thuốc Chữa Sự Chia Rẽ Hội Thánh) và Phần II (Lời đáp các phản đối của Antidote). Tài liệu của Thống đốc và Hội đồng Boston ngày 10 tháng 3 năm 1668 ở cuối sách là phần trích dẫn trong chính văn bản nên được dịch đầy đủ. - Loại trừ: số trang, tiêu đề chạy, chữ ký in, từ bắt trang và nhiễu quét trước trang tiêu đề; không cắt nội dung nào khác. - Quy ước trích dẫn: lời Kinh Thánh trích nguyên văn giữ đúng lối văn 1934, không ép thuật ngữ bảng vào trong trích dẫn. - Kỹ thuật ráp nối: các đoạn của chunk 05 đã được sắp lại theo đúng số thứ tự; các mảnh câu tách trang được giữ nguyên hoặc gộp vào đoạn kề theo đúng văn bản nguồn.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Không có thuật ngữ cấm trong thân bài (đã quét toàn văn).
-- "Thiên Chúa giáo" chỉ dùng với nghĩa tên riêng của Công giáo La Mã, đã kiểm chứng từng ngữ cảnh; "Tin Lành" chỉ dùng cho ngữ cảnh Tin Lành giáo, không dùng để dịch "gospel".
-- "sacrament" dịch là "nghi thức thánh"; "baptism" dịch là "báp-têm"/"lễ báp-têm".
+Mở trong trình đọc Về thư viện
