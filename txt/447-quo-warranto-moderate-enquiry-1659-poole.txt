@@ -1242,6 +1242,4 @@ Những khẳng định mới lạ và kỳ quái:
 
 [NEEDS REVIEW: bản scan gốc kết thúc đột ngột giữa câu — thiếu trang cuối của ấn bản 1659]
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Các trích dẫn Kinh Thánh theo văn phong Kinh Thánh 1934 (không đối chiếu từng chữ với bản in). - OCR của bản scan 1659 bị hỏng nặng (chữ ſ in cổ, trang mờ, dòng chữ xô lệch) — các đoạn không đọc được đã đánh dấu [NEEDS REVIEW], không đoán mò. - Bản scan gốc thiếu trang cuối: văn bản kết thúc đột ngột giữa câu ("when he re...") — đã đánh dấu [NEEDS REVIEW] ở cuối bản dịch. - Trong tác phẩm này, "election" hầu hết chỉ sự bầu chọn chức viên Hội Thánh nên dịch là "sự bầu chọn"; "sự tuyển chọn" chỉ dùng cho giáo lý về sự tuyển chọn trong thần học. - Phần giữa (chương XI–XII) được dịch từ bản văn EEBO-TCP sạch của cùng ấn bản 1659 (A55393, earlyprint.org), đã đối chiếu khớp từng chữ với bản scan — cùng nội dung, độ trung thực cao hơn bản OCR hỏng. - Bản dịch AI, chưa được mục sư duyệt lại.
-
 Mở trong trình đọc Về thư viện

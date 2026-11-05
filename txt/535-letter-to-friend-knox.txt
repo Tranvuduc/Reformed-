@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Thư Gửi Người Bạn Trong Đấng Christ
+Nguyên tác: "To his singuler goode frendt and brother in Christ Master" — John Knox (1554) Nguồn: https://archive.org/download/bim_early-english-books-1475-1640_to-his-singuler-goode-fr_knox-john_1554/bim_early-english-books-1475-1640_to-his-singuler-goode-fr_knox-john_1554_djvu.txt (Ghi chú: nguồn là tập sách nhỏ (pamphlet) in năm 1554, gồm nhiều phần liên quan nhau: lời tựa phản biện chống lễ mi-sa, một đoạn đối thoại bằng thơ ("The Author" và "The Treatous"), một bài ai ca, luận đề và bài chú giải Thi Thiên 6, thư an ủi gửi kẻ bị bách hại tại Anh (ký tại Dieppe, cuối tháng Năm 1553), bản sao thư của Giám mục Ridley gửi từ Oxford, và thư của một tín hữu lưu vong gửi các chị em tại Anh. Một số trang được OCR quét trùng lặp nên chỉ dịch một lần. Chính tả tiếng Anh thế kỷ 16 (như "singuler", "goode", "frendt") được dịch theo nghĩa hiện đại; chỗ chữ OCR hỏng không đọc được thì đánh dấu [NEEDS REVIEW].)
 
-**Nguyên tác:** "To his singuler goode frendt and brother in Christ Master" — John Knox (1554) **Nguồn:** https://archive.org/download/bim_early-english-books-1475-1640_to-his-singuler-goode-fr_knox-john_1554/bim_early-english-books-1475-1640_to-his-singuler-goode-fr_knox-john_1554_djvu.txt *(Ghi chú: nguồn là tập sách nhỏ (pamphlet) in năm 1554, gồm nhiều phần liên quan nhau: lời tựa phản biện chống lễ mi-sa, một đoạn đối thoại bằng thơ ("The Author" và "The Treatous"), một bài ai ca, luận đề và bài chú giải Thi Thiên 6, thư an ủi gửi kẻ bị bách hại tại Anh (ký tại Dieppe, cuối tháng Năm 1553), bản sao thư của Giám mục Ridley gửi từ Oxford, và thư của một tín hữu lưu vong gửi các chị em tại Anh. Một số trang được OCR quét trùng lặp nên chỉ dịch một lần. Chính tả tiếng Anh thế kỷ 16 (như "singuler", "goode", "frendt") được dịch theo nghĩa hiện đại; chỗ chữ OCR hỏng không đọc được thì đánh dấu [NEEDS REVIEW].)*
-
----
-
-## Lời tựa
+LỜI TỰA
 
 ...được gây dựng trong lẽ thật, và lấy lời của sự sống mà làm gươm giáo của sự chết, trái với mọi lẽ thật) mà Kinh Thánh gọi họ là những giáo sư giả, và những kẻ lén đưa vào các bè đảng đáng hư mất, chối bỏ cả Chúa đã chuộc mình, và chuốc lấy sự hư mất mau chóng trên đầu mình, vì đã dẫn dắt nhiều người vào đường lối hư mất của họ. [NEEDS REVIEW: câu mở đầu bị OCR làm hỏng một phần, dường như còn thiếu mệnh đề chủ ngữ]
 
@@ -28,53 +24,47 @@ Hơn nữa, trong cuộc đối thoại tiếp theo, hay màn kịch ngắn, l�
 
 Một chút men làm cho cả đống bột dậy lên. Một chi thể ô uế làm ô uế cả thân thể. Tóm lại, tôi tin chắc điều này: mặc cho kẻ ác gầm thét... ngọn lửa mà Đấng Christ đến để nhen lên trên đất, không thể không cháy. Nghĩa là, lời thánh của Ngài sẽ đời đời gia tăng và còn mãi. Vậy nên, hỡi anh em yêu dấu, nếu có thêm những que củi nhỏ nào đến tay anh em, mà anh em xét là thích hợp để làm cho ngọn lửa này thêm lớn, thì xin gửi đến cho tôi (nếu tại Anh không thể xuất bản được); và bởi ân điển của Đức Chúa Trời, tôi sẽ hết sức hết lòng mà cố gắng nhen chúng lên, hầu cho mọi kẻ thuộc dòng dõi Áp-ra-ham đều được... và bởi đó mà tôn vinh Cha mình... Mặc cho chó sủa ầm ĩ đến đâu, ngọn lửa... [NEEDS REVIEW: đoạn cuối lời tựa bị OCR làm hỏng nặng, ý chính là xin gửi bài vở về để xuất bản, mặc cho kẻ thù chống đối]
 
----
+CUỘC ĐỐI THOẠI, HAY MÀN KỊCH NGẮN
 
-## Cuộc đối thoại, hay màn kịch ngắn
-
-**Bài Luận (The Treatous).**
+Bài Luận (The Treatous).
 
 ...Tôi thật táo bạo, Đứng trước... mặt tôi, Mọi giáo sĩ đều theo phe hắn, Và được ơn của đức vua, Chúng sẽ ghét tôi với bản án dữ tợn, Nếu có ai đọc tôi... Vậy nên, hỡi tác giả yêu dấu của tôi, điều ấy không thể được.
 
-**Tác Giả (The Author).**
+Tác Giả (The Author).
 
-Ngươi biết rất rõ đời này là thế nào... ...đáng ghê tởm lắm trước mặt mọi người, ...xui nhiều người làm điều sai trái, Gương hắn thật gớm ghiếc. Vậy nên chẳng có gì đáng chê trách, Khi vạch trần sự gian ác và tà dâm của hắn, *Ut inveniatur iniquitas eius ad odium.* ("Hầu cho sự gian ác hắn bị tìm thấy là đáng ghét." — Thi Thiên 36:2)
+Ngươi biết rất rõ đời này là thế nào... ...đáng ghê tởm lắm trước mặt mọi người, ...xui nhiều người làm điều sai trái, Gương hắn thật gớm ghiếc. Vậy nên chẳng có gì đáng chê trách, Khi vạch trần sự gian ác và tà dâm của hắn, Ut inveniatur iniquitas eius ad odium. ("Hầu cho sự gian ác hắn bị tìm thấy là đáng ghét." — Thi Thiên 36:2)
 
-**Bài Luận.**
+Bài Luận.
 
-Dầu đời hắn bị mọi người ghét bỏ, Trong lễ mi-sa chúng đặt nhiều... *Ut inveniatur iniquitas eius ad odium.* Các thầy tế lễ cũng vậy, Những kẻ học rộng, có cớ lớn để ganh ghét... ...sự huy hoàng đơn chiếc, Được tôn kính, Những người thuộc giới tu sĩ... Vậy nên, hỡi tác giả yêu dấu của tôi, điều ấy không thể được. Tôi uốn lòng mình trong sự dốt nát, Bởi đó cả thế gian, xa gần, Đã bị vướng mắc với... Và để đuổi kẻ chống Đấng Christ ra khỏi... Vì tôi có vẻ như sỉ nhục, Chắc chắn giáo sĩ sẽ xét đoán tôi, Rằng tôi bởi một thần... Thật xấu xa khi dùng những lời sỉ vả như thế, Điều ấy không xứng với lòng bác ái Cơ Đốc. Vậy nên, hỡi tác giả yêu dấu của tôi, điều ấy không thể được.
+Dầu đời hắn bị mọi người ghét bỏ, Trong lễ mi-sa chúng đặt nhiều... Ut inveniatur iniquitas eius ad odium. Các thầy tế lễ cũng vậy, Những kẻ học rộng, có cớ lớn để ganh ghét... ...sự huy hoàng đơn chiếc, Được tôn kính, Những người thuộc giới tu sĩ... Vậy nên, hỡi tác giả yêu dấu của tôi, điều ấy không thể được. Tôi uốn lòng mình trong sự dốt nát, Bởi đó cả thế gian, xa gần, Đã bị vướng mắc với... Và để đuổi kẻ chống Đấng Christ ra khỏi... Vì tôi có vẻ như sỉ nhục, Chắc chắn giáo sĩ sẽ xét đoán tôi, Rằng tôi bởi một thần... Thật xấu xa khi dùng những lời sỉ vả như thế, Điều ấy không xứng với lòng bác ái Cơ Đốc. Vậy nên, hỡi tác giả yêu dấu của tôi, điều ấy không thể được.
 
-**Tác Giả.**
+Tác Giả.
 
-Bài luận ơi, đó là sự phán xét của Đức Chúa Trời, Để báo trả sự phạm thượng điên cuồng của chúng, Vì chúng đã đốt Kinh Thánh thánh của Ngài, Bởi sự bạo ngược của hồng y kiêu ngạo. ... *Ut inveniatur iniquitas eius ad odium.*
+Bài luận ơi, đó là sự phán xét của Đức Chúa Trời, Để báo trả sự phạm thượng điên cuồng của chúng, Vì chúng đã đốt Kinh Thánh thánh của Ngài, Bởi sự bạo ngược của hồng y kiêu ngạo. ... Ut inveniatur iniquitas eius ad odium.
 
-**Bài Luận.**
+Bài Luận.
 
 Tôi cả gan thuật lại, Những việc kín nhiệm chẳng chắc chắn, Chúng sẽ cho là vu khống, Hay là điều bịa đặt bởi một đầu óc ngang bướng. Mô tả lỗi lầm của chúng chỉ là vô ích, Trừ khi tôi có thẩm quyền nào đó. Vậy nên, hỡi tác giả yêu dấu của tôi, điều ấy không thể được.
 
-**Tác Giả.**
+Tác Giả.
 
-Về điều ấy, ngươi chớ nản lòng, Lẽ thật sẽ là sự bảo tồn của ngươi, Miễn là ngươi không cả gan vạch lỗi, Ngoại trừ nơi ngươi đã có chứng cớ, Sự hiểu biết và tin tức chắc chắn, ...những kẻ đã lìa bỏ con điếm Rô-ma, *Ut inveniatur iniquitas eius ad odium.*
+Về điều ấy, ngươi chớ nản lòng, Lẽ thật sẽ là sự bảo tồn của ngươi, Miễn là ngươi không cả gan vạch lỗi, Ngoại trừ nơi ngươi đã có chứng cớ, Sự hiểu biết và tin tức chắc chắn, ...những kẻ đã lìa bỏ con điếm Rô-ma, Ut inveniatur iniquitas eius ad odium.
 
-**Bài Luận.**
+Bài Luận.
 
 Than ôi, trong cơn thịnh nộ dữ dội của chúng, Chúng sẽ... hay ghét với bản án tàn nhẫn, Mọi kẻ nào ưa thích tôi, Hoặc tin lời tôi nói. Trong địa ngục và thiên đàng chúng đều có quyền cao, Muốn làm gì thì làm, tự do phóng túng. Vậy nên, hỡi tác giả yêu dấu của tôi, điều ấy không thể được.
 
-**Tác Giả.**
+Tác Giả.
 
-Hỡi bài luận, cứ để kẻ chống Đấng Christ la hét gầm thét, Đe dọa bằng những lời nguyền rủa... Người ta biết sự gớm ghiếc của hắn, Sự tàn nhẫn của hắn sẽ chẳng còn ai sợ nữa. Khinh bỉ những lời nguyền rủa giả dối của hắn, Vì sự bạo ngược của hắn đã bị thắng hơn, *Ut inveniatur iniquitas eius ad odium.* Khinh bỉ những lệnh cấm tà ác của hắn, Với chìa khóa của hắn khóa xiềng xích cùm kẹp, Khinh bỉ mọi quyền tài phán của hắn, Và những kẻ mắc nợ hắn, Khinh bỉ các sắc lệnh, chiếu chỉ và thư từ của hắn, Trong đó hắn được gọi là *servus servorum* (đầy tớ của các đầy tớ), *Ut inveniatur iniquitas eius ad odium.* Khinh bỉ chiếc vương miện ba tầng cũ kỹ của hắn, Mà hắn quen đội trên đầu, Khinh bỉ sự uy nghi và danh vọng của hắn, Kẻ xưng mình trên đất này thay cho Đấng Christ, Khinh bỉ... cả hai... đã chết, *Ex hoc nunc et usque in seculum* ("Từ nay cho đến đời đời"), *Ut inveniatur iniquitas eius ad odium.* Phước cho những kẻ bị... rủa sả... [NEEDS REVIEW: nhiều dòng thơ trong phần đối thoại bị OCR làm hỏng nặng, chỉ dịch được ý chính của các khổ còn đọc được]
+Hỡi bài luận, cứ để kẻ chống Đấng Christ la hét gầm thét, Đe dọa bằng những lời nguyền rủa... Người ta biết sự gớm ghiếc của hắn, Sự tàn nhẫn của hắn sẽ chẳng còn ai sợ nữa. Khinh bỉ những lời nguyền rủa giả dối của hắn, Vì sự bạo ngược của hắn đã bị thắng hơn, Ut inveniatur iniquitas eius ad odium. Khinh bỉ những lệnh cấm tà ác của hắn, Với chìa khóa của hắn khóa xiềng xích cùm kẹp, Khinh bỉ mọi quyền tài phán của hắn, Và những kẻ mắc nợ hắn, Khinh bỉ các sắc lệnh, chiếu chỉ và thư từ của hắn, Trong đó hắn được gọi là servus servorum (đầy tớ của các đầy tớ), Ut inveniatur iniquitas eius ad odium. Khinh bỉ chiếc vương miện ba tầng cũ kỹ của hắn, Mà hắn quen đội trên đầu, Khinh bỉ sự uy nghi và danh vọng của hắn, Kẻ xưng mình trên đất này thay cho Đấng Christ, Khinh bỉ... cả hai... đã chết, Ex hoc nunc et usque in seculum ("Từ nay cho đến đời đời"), Ut inveniatur iniquitas eius ad odium. Phước cho những kẻ bị... rủa sả... [NEEDS REVIEW: nhiều dòng thơ trong phần đối thoại bị OCR làm hỏng nặng, chỉ dịch được ý chính của các khổ còn đọc được]
 
----
-
-## Ai ca
+AI CA
 
 Chúng ta đã chết, than ôi, than ôi! Khốn thay cho thì giờ chúng ta đã sinh ra, Để thấy vận rủi của ý chí đau thương này, Vì nay chúng ta bị nhạo cười khinh dể... Chúng ta có thể hát "than ôi" và "khốn thay", Vì lễ mi-sa đã qua rồi!
 
 Hỡi các thượng phụ kiêu ngạo, hãy trỗi dậy, với... Giám mục... Mọi giáo trưởng đã đặt hy vọng mình, Được nuôi dưỡng bởi lễ mi-sa đời đời... Vì lễ mi-sa đã qua rồi! [NEEDS REVIEW: bài ai ca là lời than vãn châm biếm của phe giáo hoàng khi lễ mi-sa bị dẹp bỏ; nhiều dòng OCR hỏng]
 
----
-
-## Luận đề
+LUẬN ĐỀ
 
 Rằng Đa-vít đã sa vào một cơn bệnh nặng và nguy hiểm, trong đó ông bị hành hạ: chẳng phải bởi sự yếu đuối của thân thể cho bằng bởi sự chịu đựng và uống một phần lớn chén thạnh nộ của Đức Chúa Trời. Và dầu rằng lúc ấy ông được giải cứu khỏi sự chết về phần xác, nhưng rõ ràng là lâu về sau, phải, suốt cả đời mình, ông vẫn còn cảm biết và nhớ lại nỗi kinh khiếp mà trước kia ông đã chịu trong lúc bệnh hoạn.
 
@@ -82,7 +72,7 @@ Bởi đó Đức Thánh Linh phán qua ông, cho chúng ta thấy những lời
 
 Và Đức Thánh Linh cũng vậy, [đặt vào miệng ông lời cầu nguyện]: "Hỡi Đức Giê-hô-va, xin chớ quở trách tôi trong cơn giận Ngài, chớ sửa phạt tôi trong cơn thạnh nộ Ngài" (Thi Thiên 6:1) — người bị sầu khổ cả thân thể lẫn tâm linh, thảm thiết cầu nguyện cùng Đức Chúa Trời...
 
-## Thi Thiên được chú giải
+THI THIÊN ĐƯỢC CHÚ GIẢI
 
 ...Đức Thánh Linh bày tỏ cho chúng ta những lời than thở của kẻ được chọn của Đức Chúa Trời dưới thập tự giá là thế nào: họ bị hành hạ nhiều cách khác nhau, họ dường như chẳng còn nắm chắc Đức Chúa Trời, nhưng vẫn là kẻ được chọn của Đức Chúa Trời.
 
@@ -114,9 +104,7 @@ Và Môi-se nói với họ: "Hãy coi chừng, kẻo ngươi quên Giê-hô-va 
 
 Sự chết chẳng thể phân rẽ chúng ta. Lời cầu nguyện hằng ngày của tôi là cho những kẻ bị hoạn nạn nặng nề trong các xứ ấy.
 
----
-
-## Lời an ủi cho kẻ bị bách hại tại Anh
+LỜI AN ỦI CHO KẺ BỊ BÁCH HẠI TẠI ANH
 
 ...Tôi từng nghĩ rằng chẳng có tình cảm nào từ vương quốc Scotland có thể sánh bằng... đối với tôi. Nhưng tôi lấy Đức Chúa Trời làm chứng... [NEEDS REVIEW: OCR hỏng]
 
@@ -126,7 +114,7 @@ Hỡi người yêu dấu, hãy cùng tôi suy ngẫm: Hội Thánh thật của
 
 Nhưng trở lại sự gìn giữ Hội Thánh của Đấng Christ trong lúc ấy: rõ ràng là Hội Thánh đã bị bách hại gay gắt nhất, vậy mà hằng ngày vẫn gia tăng và nhân lên. Hội Thánh bị ép phải chạy trốn từ thành này sang thành khác, từ vương quốc này sang vương quốc khác, từ dân tộc này sang dân tộc khác; vậy mà được gìn giữ cách lạ lùng, đến nỗi rất nhiều người trong những kẻ mà các thầy tế lễ gian ác bởi sự bạo ngược đẫm máu đã đày ải khỏi Giê-ru-sa-lem, vẫn được sống sót... Nhớ lại điều này...
 
-## Một lời an ủi cho kẻ bị bách hại
+MỘT LỜI AN ỦI CHO KẺ BỊ BÁCH HẠI
 
 ...sự an ủi và nâng đỡ lớn lao đến nỗi lưỡi hay bút của tôi đều không diễn tả nổi. Vì đây là điều tôi chắc chắn hy vọng và trông đợi: cũng như Chúa Giê-xu Christ đã hiện ra với các môn đồ Ngài, khi trong lòng họ chẳng còn gì ngoài sầu khổ và tuyệt vọng; và cũng như Ngài đã gìn giữ một Hội Thánh, làm cho số người nhân lên dưới cơn bách hại tột cùng tại xứ Giu-đa, thì Ngài cũng sẽ làm như vậy cho bầy chiên bị hoạn nạn của Ngài trong vương quốc Anh ngày nay, bất chấp mọi kẻ thù của Ngài. Tôi nói rằng đây là hy vọng của tôi trong Đấng Christ: rằng sự báo thù công chính sẽ giáng trên những bạo chúa khát máu, bởi tay chúng mà Chúa Giê-xu Christ trong các chi thể Ngài hiện đang bị đóng đinh giữa anh em. Và về sau lẽ thật của Ngài sẽ hiện ra để an ủi những kẻ hiện đang than khóc...
 
@@ -142,7 +130,7 @@ Và một sự tự tin táo bạo như thế (hay đúng hơn là một sự th
 
 ...đã tìm thấy xỉ bã và sự tin cậy hư không đến nỗi cả khối dường như bị thiêu rụi. Vì nay ai còn nhớ rằng cùng một tiếng nói đã thấy trước nỗi sầu khổ của chúng ta cũng đã thấy trước sự an ủi đời đời của chúng ta với Chúa Giê-xu Christ: nay ai vui thích trong lời hứa đáng yêu của Ngài: ai vui mừng dưới thập tự giá? Hay đúng hơn, ai lại chẳng sợ hãi, run rẩy, oán trách và than khóc, như thể chẳng có sự giúp đỡ nào nơi Đức Chúa Trời, và như thể Ngài chẳng đoái đến hoạn nạn chúng ta đang chịu? Ấy là những sự bất toàn cứ còn mãi trong bản tánh hư hỏng của chúng ta: sự hiểu biết về chúng phải thúc giục chúng ta tha thiết kêu cầu: "Lạy Chúa, xin thêm đức tin cho chúng tôi, xin thương xót... tấm lòng chai cứng... thì Chúa Giê-xu Christ sẽ lại hiện ra để an ủi chúng ta: quyền năng Ngài sẽ được biết đến, để ngợi khen và tôn vinh danh Ngài, bất chấp mọi kẻ thù đã thề nguyền nghịch cùng Ngài. Và đây là...
 
-## Một lời an ủi cho kẻ bị bách hại
+MỘT LỜI AN ỦI CHO KẺ BỊ BÁCH HẠI
 
 ...sự nâng đỡ và an ủi trong những ngày đau thương nhất này, đến nỗi cả sự bất toàn lẫn sự tuyệt vọng hằng ngày của chúng ta đều chẳng thể ngăn trở hay cản trở Đấng Christ trở lại với chúng ta.
 
@@ -174,9 +162,7 @@ Vậy nên (hỡi người yêu dấu trong Đấng Cứu Thế Giê-xu chúng t
 
 Viết tại Dieppe, ngày cuối tháng Năm, năm 1553.
 
----
-
-## Bản sao bức thư mà B. Ridley, nguyên Giám mục Luân Đôn, đã gửi từ Oxford để trả lời cho B. Carne, nay là B. của Bath
+BẢN SAO BỨC THƯ MÀ B. RIDLEY, NGUYÊN GIÁM MỤC LUÂN ĐÔN, ĐÃ GỬI TỪ OXFORD ĐỂ TRẢ LỜI CHO B. CARNE, NAY LÀ B. CỦA BATH
 
 Nguyện anh em được ân điển trong Đức Chúa Trời, và lòng yêu mến lẽ thật, mà nếu không có nó được thiết lập thật sự trong lòng loài người, thì chẳng thể nào đứng vững vì lẽ thật trong việc của Đấng Christ giữa lúc hoạn nạn, cũng như sáp chẳng thể chịu được sức nóng của lửa. Anh em biết điều này, rằng tôi (ngợi khen Đức Chúa Trời) tin chắc rằng đời này chỉ là tạm bợ như thánh Giăng nói: "Thế gian với sự tham dục nó đều qua đi" (1 Giăng 2:17). Tôi tin chắc lời Đấng Christ là thật: ai xưng ta trước mặt thiên hạ, thì ta cũng sẽ xưng họ trước mặt Cha ta ở trên trời (Ma-thi-ơ 10:32). Và tôi tin rằng chẳng có loài thọ tạo nào dưới đất được cứu, nếu chối bỏ Đấng chuộc tội và Đấng Cứu Thế của thế gian trước mặt Cha Ngài. Nguyện Chúa ban cho điều ấy được trồng, thiết lập và đâm rễ trong lòng tôi đến nỗi chẳng sự gì... hay sự chết, có thể lay chuyển tôi khỏi đó...
 
@@ -200,9 +186,7 @@ Tôi rất ưng sự nói thẳng của anh em, trong đó anh em nói tôi ph�
 
 [NEEDS REVIEW: đoạn kết thư Ridley bị OCR hỏng] ...điều tôi nói, vì người này... có thể là lần cuối... Từ Oxford... Của anh em... Nicolas Ridley.
 
----
-
-## Thư của một tín hữu đạo đức đang lưu vong, gửi cho một số chị em của ông còn ở tại Anh
+THƯ CỦA MỘT TÍN HỮU ĐẠO ĐỨC ĐANG LƯU VONG, GỬI CHO MỘT SỐ CHỊ EM CỦA ÔNG CÒN Ở TẠI ANH
 
 Dầu Đức Chúa Trời chẳng định cho tôi làm mẹ tự nhiên của anh chị em để sinh anh chị em ra trong đời này, nhưng lòng nhân từ của Đức Chúa Trời toàn năng đã vui lòng ban cho tôi một chút quan tâm, ngay trong những điểm chính mà một người mẹ Cơ Đốc theo tự nhiên phải dành cho con cái mình. Ấy là anh chị em được bước đi trước mặt Đức Chúa Trời với lương tâm trong sạch suốt mọi ngày của đời mình. Và nay vì tôi đang rất lo sợ, e rằng lương tâm anh chị em... bị ô uế, xét đến thời kỳ hiểm nghèo và nguy hiểm này, tôi xin nhắc anh chị em nhớ đến... thiện ý của tôi đối với anh chị em, là vì... lời được rao giảng dồi dào tại Anh, như hiện nay chúng ta...
 
@@ -225,9 +209,5 @@ Có lẽ anh chị em sẽ nói về điểm ấy rằng phần đông những n
 ...trong đó... sự thực hành... điểm mà... chịu đựng... chớ đoán xét... những người hiện nay... và mọi... đã chịu khổ vì lời Ngài từ... yêu dấu... nghi ngờ... ở đâu... tôi đã... mạng sống họ, chỉ vì... Đức Chúa Trời, và ban nó cho một loài thọ tạo dưới đất; về điều này, hiện nay chúng ta có kinh nghiệm... trong những người khác... là những người đã quyết định chịu sự chết tàn nhẫn nhất, còn hơn chối bỏ một điểm nào trong sự hiểu biết mà Đức Chúa Trời đã ban cho họ, là những người được Thánh Linh của Ngài... nghịch cùng mọi sự cám dỗ...
 
 [NEEDS REVIEW: nhiều đoạn trong thư này bị OCR làm hỏng nặng, chỉ dịch được ý chính của các phần còn đọc được]
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: (1) "singuler goode frendt" (chính tả Anh thế kỷ 16) được dịch là "người bạn đặc biệt" theo nghĩa hiện đại; (2) Điệp khúc La-tinh "Ut inveniatur iniquitas eius ad odium" (Thi Thiên 36:2, bản Vulgate) được giữ nguyên và chú thích nghĩa tiếng Việt trong ngoặc; (3) "Ex hoc nunc et usque in seculum" và "servus servorum" giữ nguyên La-tinh kèm chú thích; (4) Nhiều đoạn OCR hỏng nặng (đặc biệt phần thơ đối thoại và thư cuối) đã dịch theo ý chính còn đọc được và đánh dấu [NEEDS REVIEW]; các trang bị quét trùng lặp trong nguồn chỉ dịch một lần; (5) Tham chiếu Kinh Thánh ở lề (Rom, Ac., Ebre, mar., In. iii, j. Jo., Cu. v, Ma, Pet., Pe. iij, ii. Tim. ii, Jem., Tune. ll. 3) được địa phương hóa theo quy tắc (Rô-ma, Công vụ, Hê-bơ-rơ, Mác, Giăng 3, 1 Giăng, Lu-ca 5, Ma-thi-ơ, 1 Phi-e-rơ, 2 Phi-e-rơ 3, 2 Ti-mô-thê 3, Giê-rê-mi, Lu-ca 2).
 
 Mở trong trình đọc Về thư viện

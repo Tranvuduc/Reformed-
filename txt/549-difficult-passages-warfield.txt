@@ -6,11 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Những Đoạn Khó Trong 2 Cô-rinh-tô Chương 1
-
-**Nguyên tác:** "Some difficult passages in the first chapter of 2 Corinthians" — B. B. Warfield (1886) **Nguồn:** https://archive.org/download/somedifficultp00warf/somedifficultp00warf_djvu.txt *(Ghi chú: nguồn là bản OCR trích từ Tạp chí của Hội Giải Kinh (Journal of the Exegetical Society), trang 27–40. Bản OCR bị thiếu các trang 31–39 của bài gốc, nên phần dịch chỉ bao gồm nội dung hiện có: đề mục I về 2 Cô-rinh-tô 1:6, phần thảo luận về 1:15–16 và phụ chú về 1:23; 2:1 cùng nhận xét về 12:1, 12:14, 13:1. Bài viết của Isaac H. Hall đứng sau trong cùng file không thuộc tác phẩm nên không dịch. Chữ Hy Lạp trong bản OCR bị lỗi nhận dạng nặng; các từ Hy Lạp trong bản dịch được xác định dựa theo phần luận giải bằng tiếng Anh của tác giả.)*
-
----
+Nguyên tác: "Some difficult passages in the first chapter of 2 Corinthians" — B. B. Warfield (1886) Nguồn: https://archive.org/download/somedifficultp00warf/somedifficultp00warf_djvu.txt (Ghi chú: nguồn là bản OCR trích từ Tạp chí của Hội Giải Kinh (Journal of the Exegetical Society), trang 27–40. Bản OCR bị thiếu các trang 31–39 của bài gốc, nên phần dịch chỉ bao gồm nội dung hiện có: đề mục I về 2 Cô-rinh-tô 1:6, phần thảo luận về 1:15–16 và phụ chú về 1:23; 2:1 cùng nhận xét về 12:1, 12:14, 13:1. Bài viết của Isaac H. Hall đứng sau trong cùng file không thuộc tác phẩm nên không dịch. Chữ Hy Lạp trong bản OCR bị lỗi nhận dạng nặng; các từ Hy Lạp trong bản dịch được xác định dựa theo phần luận giải bằng tiếng Anh của tác giả.)
 
 Những Đoạn Khó Trong Chương Đầu
 
@@ -18,7 +14,7 @@ của 2 Cô-rinh-tô.
 
 CỦA GIÁO SƯ B. B. WARFIELD, TIẾN SĨ.
 
-**I. 2 Cô-rinh-tô 1:6.**
+I. 2 Cô-rinh-tô 1:6.
 
 Khó khăn trong câu này nằm ở vấn đề văn bản — các biến thể vừa khá phức tạp, vừa khó phân định. Để trình bày cho rõ ràng, câu này nên được chia thành ba mệnh đề như sau: (1) εἴτε δὲ θλιβόμεθα, ὑπὲρ τῆς ὑμῶν παρακλήσεως [καὶ σωτηρίας]; (2) εἴτε παρακαλούμεθα, ὑπὲρ τῆς ὑμῶν παρακλήσεως; (3) τῆς ἐνεργουμένης ἐν ὑπομονῇ, v.v. [NEEDS REVIEW: chữ Hy Lạp trong bản OCR bị lỗi nhận dạng nặng, không thể khôi phục chắc chắn]
 
@@ -39,9 +35,5 @@ Nhưng nếu, một lần nữa, đây là ý nghĩa của cụm từ ấy, thì
 Dù điều này có phần vượt ra ngoài giới hạn chúng ta đã đặt ra, cũng đáng nhận xét rằng sự bất lực tai hại đối với những suy luận đặt trên chúng cũng đeo bám mọi đoạn văn được viện dẫn để chứng minh rằng Phao-lô đã đến thăm Cô-rinh-tô hai lần. 2 Cô-rinh-tô 12:1, nói ít nhất, là hoàn toàn mơ hồ, trong khi về mặt giải kinh, 2 Cô-rinh-tô 12:14, và đặc biệt là 13:1, dường như chất chứa hàm ý ngược lại. Vì không thể chối cãi rằng về mặt ngữ pháp, cụm τρίτον τοῦτο ("lần thứ ba này") đều uyển chuyển như nhau đối với hai nghĩa: "đây là lần thứ ba tôi đến", và "trong lần thứ ba chuẩn bị đến thăm này, tôi thực sự sẽ đến". Và về mặt giải kinh, mọi lý lẽ đều không đứng vững cho lời khẳng định rất nhấn mạnh (xin lưu ý vị trí đặt chữ) rằng lần tới Phao-lô đến thăm các con cái Cô-rinh-tô của ông sẽ là lần thăm thứ ba; trong khi toàn bộ thư tín dẫy đầy một lý do rất quan trọng khiến ông cần khẳng định rằng trong lần thứ ba chuẩn bị đến thăm họ này, ông thực sự sẽ thực hiện ý định của mình — mà về điều này chúng ta chẳng cần đi đâu xa hơn đoạn văn chúng ta vừa xét, 1:15 trở đi.
 
 Theo tôi, đây là điểm then chốt quyết định ý nghĩa của hai đoạn văn ấy, và nếu vậy, chúng khẳng định rằng lần đến thăm tới của Phao-lô sẽ là lần thứ hai, chứ không phải lần thứ ba. Tuy nhiên, một vấn đề phức tạp như vậy không thể bàn luận trong một phụ chú về 1:23 và 2:1.
-
----
-
-TRANSLATION STATUS: COMPLETE — dịch toàn văn phần bài của Warfield hiện có trong bản OCR (trang 27–30 và 39–40 của tạp chí); các trang 31–39 của bài gốc bị thiếu trong nguồn nên không thể dịch. TERMINOLOGY ISSUES: Chữ Hy Lạp trong bản OCR bị lỗi nhận dạng nặng (ghi chú NEEDS REVIEW tại các chỗ liên quan); "Aposde's" được sửa thành "Apostle's" (lỗi OCR hiển nhiên); "dack" được sửa thành "back" (lỗi OCR hiển nhiên); "xapav" không thể xác định chắc chắn là χαράν hay χάριν. Thuật ngữ cố định được giữ: salvation=sự cứu rỗi, consolation=sự yên ủi, Apostle=Sứ đồ, affliction=hoạn nạn.
 
 Mở trong trình đọc Về thư viện

@@ -480,6 +480,4 @@ Chúng ta muốn biết điều liên quan đến bổn phận mình chăng? Ch�
 
 FINIS.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Các trích dẫn Kinh Thánh theo văn phong Kinh Thánh 1934 (không đối chiếu từng chữ với bản in 1681). - Một số chữ Hoa trong OCR bản in 1681 bị mờ (chữ s dài ſ, dòng gãy, lề Latin/Hy Lạp) → đánh dấu [NEEDS REVIEW], không đoán. - Một vài số câu Kinh Thánh trong bản in có lỗi in (đã dịch theo nội dung trích dẫn và ghi chú flag). - Ấn bản gốc kèm phụ lục "Sự Ham Muốn Quá Độ Biết Trước Những Việc Sắp Đến"; tiêu đề trang, số trang, đầu trang lặp lại, vật trang trí in ấn và rác OCR đã lược bỏ theo nguyên tắc chỉ dịch tác phẩm thật. - Bản dịch AI, chưa được mục sư duyệt lại.
-
 Mở trong trình đọc Về thư viện

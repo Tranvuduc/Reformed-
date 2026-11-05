@@ -6,11 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lòng Yêu Thương Trước Tội Lỗi Người Khác
-
-**Nguyên tác:** "Of charity in reference to other mens sins: ... 1681" — John Howe (1681) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_of-charity-in-reference-_howe-john_1681/bim_early-english-books-1641-1700_of-charity-in-reference-_howe-john_1681_djvu.txt *(Ghi chú: nguồn là file OCR _djvu.txt của bản in năm 1681 (~11.100 chữ Anh). Đã loại bỏ phần "Advertisement by the Bookseller" (quảng cáo các sách khác của cùng tác giả) và bảng "Errata" vì là boilerplate, không thuộc tác phẩm. Phần lời tựa và luận văn chính được dịch toàn văn.)*
-
----
+Nguyên tác: "Of charity in reference to other mens sins: ... 1681" — John Howe (1681) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_of-charity-in-reference-_howe-john_1681/bim_early-english-books-1641-1700_of-charity-in-reference-_howe-john_1681_djvu.txt (Ghi chú: nguồn là file OCR _djvu.txt của bản in năm 1681 (~11.100 chữ Anh). Đã loại bỏ phần "Advertisement by the Bookseller" (quảng cáo các sách khác của cùng tác giả) và bảng "Errata" vì là boilerplate, không thuộc tác phẩm. Phần lời tựa và luận văn chính được dịch toàn văn.)
 
 LÒNG YÊU THƯƠNG
 
@@ -22,7 +18,7 @@ Bởi JOHN HOWE, Tôi Tớ rao giảng Lời Đức Chúa Trời.
 
 LONDON: In cho Tho. Parkhurst, tại hiệu Kinh Thánh và Ba Vương Miện ở Cheapside, gần nhà nguyện Mercers. 1681.
 
-## Lời Tựa
+LỜI TỰA
 
 Một số bạn hữu đã đề nghị với tôi việc xuất bản những trang viết này; tôi không nghi ngờ rằng đề nghị ấy xuất phát từ lòng yêu thương, cả đối với độc giả — vì họ mong điều tốt lành cho độc giả qua việc này; lẫn đối với tác giả — vì họ có thể nghĩ rằng một tác phẩm mỏng manh dường ấy lại có thể phục vụ cho điều tốt lành ấy.
 
@@ -58,7 +54,7 @@ Chúng ta chẳng bao giờ thiếu những dịp, ngay cả trong phương di�
 
 John Howe.
 
-## Về Lòng Yêu Thương Đối Với Tội Lỗi Của Người Khác
+VỀ LÒNG YÊU THƯƠNG ĐỐI VỚI TỘI LỖI CỦA NGƯỜI KHÁC
 
 1 Cô-rinh-tô 13:6 — Chẳng vui về điều không công bình.
 
@@ -78,7 +74,7 @@ II. Chúng ta phải trình bày đôi điều về cả nguyên tắc này — 
 
 4. Một điều nữa không thể tách rời khỏi lòng yêu thương là sự khiêm nhường sâu xa. Chúng ta thấy chúng được nối kết với nhau, và được truyền phải mặc lấy cả hai cùng lúc, trong đoạn Kinh Thánh thường được nhắc đến ấy: Hãy mặc lấy sự nhân từ, khiêm nhường...; nhưng trên hết mọi sự đó, hãy mặc lấy tình yêu thương (Cô-lô-se 3:12, 14). Và chúng ta cũng thấy trong những lời ca ngợi lòng yêu thương này rằng nó chẳng khoe mình, chẳng lên mình kiêu ngạo (câu 4). Chúng ta cũng chẳng bao giờ có thể, với lòng yêu thương xứng đáng, thương xót những thiếu thốn và yếu đuối của người khác, nếu chúng ta không cảm nhận được những thiếu thốn yếu đuối của chính mình. Mà nếu cảm nhận được, thì dù chính chúng ta không phạm những điều ác ghê gớm, chúng ta cũng sẽ hoàn toàn quy điều ấy cho ân điển gìn giữ của Đức Chúa Trời, đến nỗi chẳng còn mấy khuynh hướng vui mừng vì người khác phạm tội.
 
-### Phần Áp Dụng
+PHẦN ÁP DỤNG
 
 Vậy, xét chung, chúng ta có thể học được từ đây cách cư xử của mình đối với tội lỗi của người khác.
 
@@ -86,7 +82,7 @@ Chắc chắn là như lòng yêu thương truyền bảo và đòi hỏi. Ít n
 
 Rõ ràng chúng ta có bổn phận không xúc phạm đến một điều thiêng liêng như thế; và chúng ta sẽ được an toàn khỏi việc ấy bằng những cách này. Vậy chúng ta có thể, dưới hai đề mục này, lấy hướng dẫn cho cách cư xử của mình trong những dịp như thế: tức là tội lỗi thực tế của người khác, hay khuynh hướng phạm tội dễ thấy hơn của họ.
 
-**I.** Chúng ta phải trung tín thực hành, trong trường hợp này, những điều mà lòng yêu thương, và chính luật pháp của tình yêu thương, truyền bảo rõ ràng và bắt buộc chúng ta. Như chúng ta phải:
+I. Chúng ta phải trung tín thực hành, trong trường hợp này, những điều mà lòng yêu thương, và chính luật pháp của tình yêu thương, truyền bảo rõ ràng và bắt buộc chúng ta. Như chúng ta phải:
 
 1. Coi chừng kẻo cám dỗ khuynh hướng của họ, và xui khiến người khác phạm tội, dù bằng lời nói hay bằng gương mẫu. Bằng không, chúng ta đã có bổn phận tránh làm như thế, và điều này càng làm tăng thêm bổn phận ấy. Điều mà chúng ta không được vui mừng về, vì cớ lòng yêu thương; thì cũng vì cớ ấy, chúng ta càng không được gây ra. Đặc biệt hãy coi chừng kẻo góp phần vào tội lỗi của người khác bằng gương mẫu của chính mình. Quyền lực của nó, dù thầm lặng và khó nhận biết, lại vô cùng hiệu quả trong kinh nghiệm của mọi người. Có lẽ một người sẽ nghe lời đề nghị bằng lời về điều ác ấy với sự kinh hãi và ghê tởm, nhưng lại dần dần, ít do dự mà bị lôi cuốn vào nó, khi quan sát thấy nó trong cách thực hành của người khác. Một lời khuyên giục sớm sủa, đơn độc về điều ấy hẳn sẽ làm người ấy giật mình. Nhưng sự giao tiếp với những kẻ quen dùng nó thì nhẹ nhàng thấm vào, và từng chút một làm thay đổi thói quen của tâm trí người ấy; âm thầm truyền một sự lây nhiễm, một căn bệnh dịch hạch; đến nỗi người ấy bị đánh gục chết người trước khi kịp cảm nhận, và khi chẳng ngờ có nguy hiểm.
 
@@ -108,7 +104,7 @@ Nhưng nếu việc ấy, ngay từ đầu, rõ ràng là tội lỗi, thì nh�
 
 8. Chúng ta phải coi chừng, vì cớ một người, mà lên án những người khác; vì cớ những kẻ mà chúng ta biết là có lỗi, mà lên án những kẻ, theo chỗ chúng ta biết (và vì thế phải hy vọng), là vô tội. Một thói xấu hết sức phi lý và bất công, trái với lý trí và công lý thông thường, cũng như trái với lòng yêu thương. Thế mà có người lại cho mình được phép làm thế, với một cớ mỏng manh và vô nghĩa, tức là: vì một số kẻ, dưới vỏ bọc đạo đức, đã che giấu sự ô uế của một đời sống gian ác kín đáo; còn những kẻ công khai trụy lạc, sống một đời trác táng, ô danh rõ ràng (dù xấu xa, nhưng thành thật hơn ở điểm này) thì thêm vào mọi sự gian ác khác của mình sự dại dột và điên rồ là cho rằng mọi người đều là kẻ giả hình nếu không xấu như mình. Và cho rằng trên đời này chẳng có cái gọi là tôn giáo thật. Cũng giống như trường hợp: vì đôi khi có bóng ma xuất hiện dưới hình người, mà kết luận rằng trên đất này chẳng hề có loài thụ tạo nào là con người thật.
 
-**II.** Nhưng cũng có những điều khác phải được đem vào thực hành, trong trường hợp người khác phạm tội, rất phù hợp với trường hợp, và không trái với lòng yêu thương. Những điều ấy, dù xuất phát trực tiếp hơn từ một nguyên tắc khác, nhưng không bất nhất với nguyên tắc này (vì các ân tứ của Đức Thánh Linh, và các bổn phận của Cơ Đốc nhân chẳng bao giờ xung đột nhau đến nỗi cản trở hay ngăn trở nhau). Những điều mà, dù lòng yêu thương không truyền bảo rõ ràng, nhưng lại được truyền bảo bởi cách khác, và lòng yêu thương không cấm đoán. Như:
+II. Nhưng cũng có những điều khác phải được đem vào thực hành, trong trường hợp người khác phạm tội, rất phù hợp với trường hợp, và không trái với lòng yêu thương. Những điều ấy, dù xuất phát trực tiếp hơn từ một nguyên tắc khác, nhưng không bất nhất với nguyên tắc này (vì các ân tứ của Đức Thánh Linh, và các bổn phận của Cơ Đốc nhân chẳng bao giờ xung đột nhau đến nỗi cản trở hay ngăn trở nhau). Những điều mà, dù lòng yêu thương không truyền bảo rõ ràng, nhưng lại được truyền bảo bởi cách khác, và lòng yêu thương không cấm đoán. Như:
 
 1. Chúng ta phải cố gắng tránh sự lây nhiễm của gương mẫu họ. Đừng lấy cớ phạm tội từ việc họ phạm tội. Họ không phải là chuẩn mực của chúng ta. "Nhưng anh em học cho biết Đấng Christ thì chẳng phải như vậy" (Ê-phê-sô 4:20).
 
@@ -124,7 +120,7 @@ Nhưng cũng đừng ai tự mãn nếu thiếu ân điển có thể chặn đ�
 
 4. Lòng yêu thương không cấm, và chính trường hợp đòi hỏi, rằng khi người khác công khai, ô danh mà phạm tội, chúng ta, sau cùng, trên bằng chứng rõ ràng, phải chấp nhận sự xác tín về sự việc. Vì bằng không, chúng ta không thể làm tròn các bổn phận khác đối với họ, mà lòng yêu thương bắt buộc rõ ràng nhất; cũng không làm tròn một bổn phận cao hơn, mà một tình yêu khác đòi hỏi, phải vượt trên mọi tình yêu khác. Không lòng yêu thương nào có thể bắt tôi phải mù quáng, thiên vị, bất công, bất trung với lợi ích của Đức Chúa Trời và tôn giáo. Khi câu Kinh Thánh bảo chúng ta rằng nó chẳng vui về điều không công bình, thì ngay hơi thở tiếp theo lại thêm rằng nó vui trong lẽ thật: tức là trong sự công bằng, và cách đối xử ngay thẳng. Chúng ta không được đối xử như nhau với người tốt và kẻ xấu: vậy đôi khi chúng ta phải phân biệt họ, nếu có căn cứ rõ ràng, hay để ý khi họ tự phân biệt mình rõ ràng; vì điều ấy cần thiết cho điều tiếp theo: tức là
 
-5. Chúng ta phải tránh giao thiệp với họ: tức là khi tội lỗi ghê gớm của họ lộ ra, và trong khi sự ăn năn của họ chưa lộ ra. Kinh Thánh rõ ràng và dồi dào về mục đích này đến nỗi ai cần trích dẫn câu Kinh Thánh hẳn là người rất dốt Kinh Thánh. Chúng ta phải tránh họ vì chính mình, kẻo bị lây nhiễm, hay dự phần vào tội lỗi và sự đoán phạt của họ. Vì cớ họ (và lòng yêu thương cũng đòi hỏi thế), để họ hổ thẹn, điều có thể là phương tiện đem họ trở lại và được cứu; và (điều đáng kể nhất) vì danh dự của tôn giáo Cơ Đốc, để nó được minh oan, và cứu khỏi sự sỉ nhục, hết sức chúng ta. Hẳn phải rất đau đớn cho chúng ta, khi sự sỉ nhục của tôn giáo chúng ta không thể gạt đi, mà không đổ lên tội lỗi của người này hay người kia, nhất là người vốn có giá trị. Nhưng danh tiếng nào đáng giá với chúng ta bằng danh của Đấng đã mua chúng ta bằng huyết Ngài? Đức Chúa Trời vĩ đại là gương mẫu của chúng ta, Đấng từ chối sự thông công với những kẻ bội đạo, phải, và cả các Hội Thánh bội đạo: Ngài lìa khỏi, và rút vinh hiển bị xúc phạm của Ngài đi. Ngài là thánh khiết, và tránh mọi vết nhơ. Khi những sự sỉ nhục lớn lao được dâng lên, Ngài lấy làm phật ý chính đáng, và với sự e dè uy nghiêm mà rút lui. Chẳng ai từng được Chúa của sự vinh hiển công khai nhìn nhận đến nỗi Ngài sẽ dung túng họ trong sự gian ác. Dù Cô-nia (Ngài phán với chúng ta, bày tỏ sự khinh miệt bằng cách gọi tắt tên ông) là ấn tín trên tay hữu Ta, Ta cũng sẽ lột nó khỏi đó (Giê-rê-mi 22:24). Phải, và Đấng Cứu Rỗi truyền rằng: nếu chính tay hữu làm cớ vấp phạm cho ngươi, hãy chặt nó mà ném đi (Ma-thi-ơ 5:29) [NEEDS REVIEW: bản OCR ghi "Mat. 5. 20", có lẽ là 5:29-30]. Và cùng mục đích ấy (chương 18) [NEEDS REVIEW: bản OCR ghi "Chap. 13", có lẽ là Ma-thi-ơ 18:7-8], trong những lời ngay sau khi Ngài phán: "Khốn nạn cho thế gian vì cớ những sự gây vấp phạm! Vì sự gây vấp phạm phải có; song khốn nạn thay cho ai là kẻ gây vấp phạm đến! Vậy, nếu tay ngươi làm cớ cho ngươi sa ngã..." (câu 7, 8). Việc ấy phải làm ngay cả với bàn tay, một chi thể của thân thể chúng ta, với sự dịu dàng, cảm thông và ý thức đau đớn lớn lao; nhưng phải làm. *Dilectionem audio, non Communicationem* — Tôi nghe nói về tình yêu, chứ không phải sự thông công, một bậc tiền bối đã nói trong dịp này [Tertullian].
+5. Chúng ta phải tránh giao thiệp với họ: tức là khi tội lỗi ghê gớm của họ lộ ra, và trong khi sự ăn năn của họ chưa lộ ra. Kinh Thánh rõ ràng và dồi dào về mục đích này đến nỗi ai cần trích dẫn câu Kinh Thánh hẳn là người rất dốt Kinh Thánh. Chúng ta phải tránh họ vì chính mình, kẻo bị lây nhiễm, hay dự phần vào tội lỗi và sự đoán phạt của họ. Vì cớ họ (và lòng yêu thương cũng đòi hỏi thế), để họ hổ thẹn, điều có thể là phương tiện đem họ trở lại và được cứu; và (điều đáng kể nhất) vì danh dự của tôn giáo Cơ Đốc, để nó được minh oan, và cứu khỏi sự sỉ nhục, hết sức chúng ta. Hẳn phải rất đau đớn cho chúng ta, khi sự sỉ nhục của tôn giáo chúng ta không thể gạt đi, mà không đổ lên tội lỗi của người này hay người kia, nhất là người vốn có giá trị. Nhưng danh tiếng nào đáng giá với chúng ta bằng danh của Đấng đã mua chúng ta bằng huyết Ngài? Đức Chúa Trời vĩ đại là gương mẫu của chúng ta, Đấng từ chối sự thông công với những kẻ bội đạo, phải, và cả các Hội Thánh bội đạo: Ngài lìa khỏi, và rút vinh hiển bị xúc phạm của Ngài đi. Ngài là thánh khiết, và tránh mọi vết nhơ. Khi những sự sỉ nhục lớn lao được dâng lên, Ngài lấy làm phật ý chính đáng, và với sự e dè uy nghiêm mà rút lui. Chẳng ai từng được Chúa của sự vinh hiển công khai nhìn nhận đến nỗi Ngài sẽ dung túng họ trong sự gian ác. Dù Cô-nia (Ngài phán với chúng ta, bày tỏ sự khinh miệt bằng cách gọi tắt tên ông) là ấn tín trên tay hữu Ta, Ta cũng sẽ lột nó khỏi đó (Giê-rê-mi 22:24). Phải, và Đấng Cứu Rỗi truyền rằng: nếu chính tay hữu làm cớ vấp phạm cho ngươi, hãy chặt nó mà ném đi (Ma-thi-ơ 5:29) [NEEDS REVIEW: bản OCR ghi "Mat. 5. 20", có lẽ là 5:29-30]. Và cùng mục đích ấy (chương 18) [NEEDS REVIEW: bản OCR ghi "Chap. 13", có lẽ là Ma-thi-ơ 18:7-8], trong những lời ngay sau khi Ngài phán: "Khốn nạn cho thế gian vì cớ những sự gây vấp phạm! Vì sự gây vấp phạm phải có; song khốn nạn thay cho ai là kẻ gây vấp phạm đến! Vậy, nếu tay ngươi làm cớ cho ngươi sa ngã..." (câu 7, 8). Việc ấy phải làm ngay cả với bàn tay, một chi thể của thân thể chúng ta, với sự dịu dàng, cảm thông và ý thức đau đớn lớn lao; nhưng phải làm. Dilectionem audio, non Communicationem — Tôi nghe nói về tình yêu, chứ không phải sự thông công, một bậc tiền bối đã nói trong dịp này [Tertullian].
 
 6. Chúng ta phải coi chừng sự ngã lòng, vì cớ tội lỗi của người khác, hay bị nản chí trên đường tin kính; huống chi là bị lìa khỏi đường ấy. Quả thật, sự cám dỗ lớn nhất mà trường hợp này gây ra cho việc ấy, đối với mục đích này, là rất không đáng kể và đáng khinh, tức là: vì cớ những cách dâm dục của một số người — như từ ấy có nghĩa, và đọc như thế là hợp nhất; ám chỉ sự ô uế của phái Ngộ Đạo [NEEDS REVIEW: bản OCR "Inoſticks", có lẽ là "Gnosticks"] (như sau này họ được gọi) — mà đạo của lẽ thật (tức chính Cơ Đốc giáo) bị dèm pha (2 Phi-e-rơ 2:2). Nhưng điều này phải được nghe (đối với chính những kẻ chế giễu, với lòng thương xót lớn, nhưng) đối với mưu đồ của họ muốn làm cho Cơ Đốc nhân nghiêm túc lìa khỏi đường mình, với sự khinh miệt. Và với ít sự quan tâm, hay xao động trong tâm trí, như một lữ khách, chăm chú vào hành trình mình, trước những cái nhăn mặt, làm trò của khỉ hay đười ươi.
 
@@ -132,7 +128,7 @@ Há tôi phải xao động, mệt mỏi, và bỏ đường mình, vì một ng
 
 Còn những kẻ hay làm thế nhất, những kẻ có tâm trí và cách sống trụy lạc, mà đối với họ, không phải phe này hay phe kia, nhưng chính tôn giáo là điều đáng sỉ nhục. Tôi khuyên mọi Cơ Đốc nhân nghiêm túc, tỉnh táo, thuộc bất cứ đường lối hay tín ngưỡng nào, nếu bị châm chọc về sự gian ác của kẻ nào có vẻ như thế mà không phải, hãy nói với những kẻ chê bai: "Chúng nó bà con với các ngươi hơn là với chúng ta, và thuộc về phe các ngươi (dù chúng ngụy trang thế nào) hơn là bất cứ phe nào khác mà chúng ta biết."
 
-### Lời Kết
+LỜI KẾT
 
 Và nếu sau tất cả những điều này, còn ai tự cho mình được phép vui mừng về tội lỗi của người khác, và lấy chúng làm trò tiêu khiển, vui đùa, hay lấy chút vui thích nào khi quan sát chúng, thì tôi chỉ có hai điều này, sau hết, để nói với họ:
 
@@ -187,9 +183,5 @@ Hãy suy nghĩ điều trái ngược với Đức Chúa Trời và thiên đàn
 Nếu còn ai, bất chấp chính tình yêu thiêng liêng, cứ cười mãi trước một điều ô uế, kinh khiếp như thế, thì rất có thể đó sẽ chứng tỏ là nụ cười Xạt-đô-ni-a của họ [NEEDS REVIEW: "Sardonian laughter" — tục ngữ chỉ nụ cười của kẻ chết trong khi cười; bản OCR đoạn cuối lỗi, không phục hồi nguyên văn được]; tức là (như một số người giải thích câu tục ngữ ấy) nụ cười của những kẻ chết trong khi cười: đời họ và tiếng cười của họ sẽ cùng kết thúc với nhau; và họ chỉ ngừng cười, ngừng phạm tội trong cùng một hơi thở cuối cùng.
 
 HẾT
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "charity" được dịch nhất quán là "lòng yêu thương" (theo 1 Cô-rinh-tô 13, bản KJV dùng "charity"; Kinh Thánh 1934 dùng "tình yêu thương"). "Succedaneous providence" dịch là "sự quan phòng phụ trợ" (thuật ngữ Howe tự đặt, đã giải thích trong văn bản). Các NEEDS REVIEW trong bản dịch: (1) vài đoạn OCR lỗi nặng không phục hồi được nguyên văn (cuối Lời Tựa; ví dụ "giữa trận chiến" ở mục 1; mục 5 của phần I vắng mặt — văn bản nhảy từ 4 sang 6; đoạn lập luận quy nạp về phe phái ở phần Kết; đoạn "nụ cười Xạt-đô-ni-a" cuối sách); (2) tham chiếu "Mat. 5. 20" có lẽ là Ma-thi-ơ 5:29-30, "Chap. 13" có lẽ là Ma-thi-ơ 18:7-8; (3) từ Hy Lạp chỉ "thiện tính tự nhiên" trong OCR không đọc được; (4) "Inoſticks" đọc là "Gnosticks" (phái Ngộ Đạo). Các câu Kinh Thánh trích dẫn đã được địa phương hóa theo Kinh Thánh tiếng Việt 1934 (Ê-sai, Giăng, Ma-thi-ơ, Lu-ca, Giê-rê-mi, Châm Ngôn, Rô-ma, 1 Cô-rinh-tô, Ga-la-ti, Ê-phê-sô, Cô-lô-se, 1 Ti-mô-thê, Gia-cơ, 1-2 Phi-e-rơ, Thi Thiên).
 
 Mở trong trình đọc Về thư viện

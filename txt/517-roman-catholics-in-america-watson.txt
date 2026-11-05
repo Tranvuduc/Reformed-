@@ -6,11 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Công Giáo La Mã Ở Mỹ Xuyên Tạc Lịch Sử
-
-**Nguyên tác:** "Roman Catholics in America Falsifying History and Poisoning the Minds of Protestant School Children" — Thomas E. Watson (1928) **Nguồn:** https://archive.org/download/romancatholicsin00wats/romancatholicsin00wats_djvu.txt *(Ghi chú bối cảnh và giọng văn: Thomas E. Watson (1856–1922) là chính trị gia và dân biểu người Mỹ, tác giả của nhiều sách lịch sử phổ thông ("The Story of France", "Napoleon", "Life and Times of Andrew Jackson", "Life and Times of Thomas Jefferson", "The Roman Catholic Hierarchy"...), KHÔNG phải nhà thần học hay mục sư. Cuốn sách nhỏ này do công ty sách của gia đình ông tại Thomson, Georgia xuất bản năm 1928 — sáu năm sau khi ông qua đời (bản quyền 1928 thuộc Georgia Watson Lee Brown). Đây là một văn phẩm luận chiến chống Công giáo La-mã (anti-Catholic polemic) theo quan điểm Tin Lành, với giọng văn gay gắt, miệt thị và nhiều cáo buộc lịch sử của tác giả về Giáo hội La-mã. Bản dịch giữ trung thành giọng văn gốc, không làm mềm đi; các luận điểm và cáo buộc lịch sử là của tác giả, người dịch không chứng thực tính đúng đắn của chúng. Độc giả Tin Lành ngày nay nên đọc với tinh thần phân định.)* *(Ghi chú trích xuất: bản OCR (file _djvu.txt) gồm toàn cuốn sách; đã loại bỏ trang tựa lặp lại, dấu thư viện, số trang, và phần quảng cáo "Bảng giá sách của Watson"/tạp chí "The Watsonian" ở cuối cuốn; dịch toàn văn phần nội dung tác phẩm. Tác phẩm xuất bản 1928, thuộc phạm vi công cộng — public domain.)*
-
----
+Nguyên tác: "Roman Catholics in America Falsifying History and Poisoning the Minds of Protestant School Children" — Thomas E. Watson (1928) Nguồn: https://archive.org/download/romancatholicsin00wats/romancatholicsin00wats_djvu.txt (Ghi chú bối cảnh và giọng văn: Thomas E. Watson (1856–1922) là chính trị gia và dân biểu người Mỹ, tác giả của nhiều sách lịch sử phổ thông ("The Story of France", "Napoleon", "Life and Times of Andrew Jackson", "Life and Times of Thomas Jefferson", "The Roman Catholic Hierarchy"...), KHÔNG phải nhà thần học hay mục sư. Cuốn sách nhỏ này do công ty sách của gia đình ông tại Thomson, Georgia xuất bản năm 1928 — sáu năm sau khi ông qua đời (bản quyền 1928 thuộc Georgia Watson Lee Brown). Đây là một văn phẩm luận chiến chống Công giáo La-mã (anti-Catholic polemic) theo quan điểm Tin Lành, với giọng văn gay gắt, miệt thị và nhiều cáo buộc lịch sử của tác giả về Giáo hội La-mã. Bản dịch giữ trung thành giọng văn gốc, không làm mềm đi; các luận điểm và cáo buộc lịch sử là của tác giả, người dịch không chứng thực tính đúng đắn của chúng. Độc giả Tin Lành ngày nay nên đọc với tinh thần phân định.) (Ghi chú trích xuất: bản OCR (file _djvu.txt) gồm toàn cuốn sách; đã loại bỏ trang tựa lặp lại, dấu thư viện, số trang, và phần quảng cáo "Bảng giá sách của Watson"/tạp chí "The Watsonian" ở cuối cuốn; dịch toàn văn phần nội dung tác phẩm. Tác phẩm xuất bản 1928, thuộc phạm vi công cộng — public domain.)
 
 NĂM nay vừa tròn 400 năm kể từ khi một vị giáo hoàng mắc bệnh hoa liễu, cuộc sống phóng đãng của ông ta đã làm cạn kiệt ngân khố Vatican, sai các nhà sư rao hàng đi khắp châu Âu để rao bán công khai giấy tha tội của giáo hoàng, tức là "Ân xá" (Indulgences).
 
@@ -66,7 +62,7 @@ Nếu im lặng, ông được lợi mọi bề.
 
 Nếu cố ý gây chuyện với Tetzel và Giáo hoàng, ông mất hết mọi bề.
 
-## SÁCH GIÁO KHOA CÔNG GIÁO VÀ GIÁO VIÊN CÔNG GIÁO TRONG TRƯỜNG TIN LÀNH
+SÁCH GIÁO KHOA CÔNG GIÁO VÀ GIÁO VIÊN CÔNG GIÁO TRONG TRƯỜNG TIN LÀNH
 
 Trong các Trường Công, người Công giáo đã lén lút đưa vào những sách giáo khoa do các tu sĩ Dòng Tên viết; và con cái các bạn đang được dạy rằng Giáo hội La-mã đã bị hiểu lầm trong quá khứ; rằng giáo lý của nó không gây chết người cho nhân loại và tôn giáo Phúc Âm; rằng hồ sơ của nó không đẫm máu của hàng triệu người vô tội bị các kẻ bách hại của giáo hoàng giết hại; và rằng chưa từng có quái thai nào như chuyện bịa đặt về việc giáo hoàng bán giấy tha tội.
 
@@ -110,7 +106,7 @@ Giờ thì bạn nghĩ sao về thứ thuốc phiện giáo hoàng ấy, đang �
 
 Những giáo viên đĩ điếm như thế có thể làm lợi cho giáo hoàng hơn tất cả các linh mục cộng lại, vì những sách giáo khoa và giáo viên như thế có thể gieo mầm giáo hoàng, nơi mà các linh mục không bao giờ có thể chạm tới mảnh đất màu mỡ của tuổi trẻ!
 
-## ÂN XÁ LÀ GÌ?
+ÂN XÁ LÀ GÌ?
 
 Lời tuyên bố trong cuốn "Lịch sử" của Trường Công này là một lời dối trá trơ trẽn nhất, và nó có thể bị vạch trần dễ dàng như lời dối trá giáo hoàng kia về Nữ hoàng Elizabeth và các tín hữu Anh giáo.
 
@@ -156,7 +152,7 @@ Nếu cuộc tranh cãi của Luther với Giáo hoàng Lê-ô X không xoay qua
 
 Nếu các giáo hoàng không bán giấy tha tội, thì sao Lê-ô lại làm thế; và nếu Lê-ô không làm thế, thì điều gì đã khuấy động Martin Luther?
 
-## ĐIỀU GÌ ĐÃ KHỞI ĐẦU CUỘC CẢI CHÁNH?
+ĐIỀU GÌ ĐÃ KHỞI ĐẦU CUỘC CẢI CHÁNH?
 
 Theo sách giáo khoa Công giáo được dạy trong các trường công, cuộc Cải Chánh đã khởi đầu... vì chẳng có gì cả.
 
@@ -176,7 +172,7 @@ Cuốn "History of the Reformation" của D'Aubigne, trang 72, cũng chép lại
 
 Không một tờ Ân xá nào từng được cho không: tất cả đều bị bán.
 
-## BIỂU GIÁ GIÁO HOÀNG VỀ TỘI LỖI
+BIỂU GIÁ GIÁO HOÀNG VỀ TỘI LỖI
 
 Bảng giá giấy tha tội của giáo hoàng có thể tìm thấy trong cuốn "History of Auricular Confession" của Bá tước C. P. Lasteyrie. Tập II, trang 132 trở đi.
 
@@ -188,7 +184,7 @@ Một bản gốc của lần in đầu tiên của Bảng Giá Tội Lỗi nổ
 
 Bản thân cuốn sách và bảng giá đều có thể chứng minh được như Luật Habeas Corpus, hay Biểu thuế đầu tiên của nước Mỹ.
 
-## NGƯỜI CÔNG GIÁO TRONG LỊCH SỬ NƯỚC MỸ
+NGƯỜI CÔNG GIÁO TRONG LỊCH SỬ NƯỚC MỸ
 
 Tờ Fort Worth Record, Texas, hớn hở in một chuỗi những lời dối trá do "Cha" Frank Park nói ra, trong bài diễn văn gần đây trước đám người Mỹ hôn chân giáo hoàng của ông ta, tức Hội Hiệp sĩ Columbus (Knights of Columbus).
 
@@ -266,7 +262,7 @@ Lời thề của họ ràng buộc họ với vị chúa tể ngoại quốc ca
 
 Họ là thần dân của giáo hoàng trước, và thần dân Mỹ sau.
 
-## ĐẦU ĐỘC NGUỒN NƯỚC, ĐỂ GIÁO HOÀNG HÓA DÒNG SÔNG
+ĐẦU ĐỘC NGUỒN NƯỚC, ĐỂ GIÁO HOÀNG HÓA DÒNG SÔNG
 
 Công ty Sách Mỹ (American Book Company) thực chất là Trust Sách giáo khoa; và nó bị người Công giáo La-mã ở New York và Chicago kiểm soát.
 
@@ -324,7 +320,7 @@ Một học sinh Tin Lành như thế, khi trưởng thành, thực tế sẽ l�
 
 Giờ đây nó không thể còn như xưa, nếu không thì người Tin Lành có học này đã chẳng khinh miệt thù địch với những người vận động chống Công giáo như vậy.
 
-## SÁCH GIÁO KHOA BỊ GIÁO HOÀNG HÓA!
+SÁCH GIÁO KHOA BỊ GIÁO HOÀNG HÓA!
 
 Vài ngày trước, tôi nhận được một lá thư của một cậu học sinh ở Atlanta, chứa đoạn văn dưới đây:
 
@@ -380,13 +376,13 @@ Trong số các nạn nhân có "các giám mục, thần học gia, quý ông n
 
 (Sanderson, "History of England", trang 455. Xuất bản năm 1893.)
 
-## "HIỆP HỘI GIÁO DÂN CÔNG GIÁO" VIẾT LẠI LỊCH SỬ, ĐẶT TRUYỆN HOANG ĐƯỜNG VÀO CHỖ CỦA SỰ THẬT
+"HIỆP HỘI GIÁO DÂN CÔNG GIÁO" VIẾT LẠI LỊCH SỬ, ĐẶT TRUYỆN HOANG ĐƯỜNG VÀO CHỖ CỦA SỰ THẬT
 
 Thật buồn cười khi thấy những người như các thành viên của Hiệp hội Giáo dân Công giáo tự biến mình thành loa phóng thanh, qua đó các linh mục Dòng Tên có thể nói "lịch sử" cho những kẻ chưa được khai sáng nghe [NEEDS REVIEW: bản OCR ghi "to the un-" (mất chữ); ngữ cảnh cho thấy có thể là "to the uninitiated"].
 
 Hãy xét vài điểm trong các bài diễn thuyết lịch sử của các Giáo dân, và xem chúng khớp với sự thật lịch sử ra sao.
 
-## WYCLIFFE CHẾT TRÊN GIƯỜNG CỦA MÌNH
+WYCLIFFE CHẾT TRÊN GIƯỜNG CỦA MÌNH
 
 Gửi thư vòng cho bạn tôi, Mục sư S. G. Woodall, của tờ Graphic ở LaGrange, Ga., chủ tịch của các Giáo dân, J. J. Farrell, đã lặp lại như sau bài học mà linh mục Dòng Tên của ông ta đã dạy:
 
@@ -434,7 +430,7 @@ Mạng sống của Wycliffe "luôn gặp nguy hiểm" (trang 417), nhưng ông 
 
 Khi bạn xét những sự thật lịch sử không thể chối cãi này, dễ dàng kiểm chứng bằng cách tham khảo các Lịch sử nước Anh chuẩn mực, Lịch sử Cải Chánh, Lịch sử các Tử đạo, Tiểu sử các Nhà Cải Chánh, và các Bách khoa toàn thư chưa bị giáo hoàng hóa, bạn nghĩ sao về sự lương thiện của những "Giáo dân Công giáo" này, những kẻ đã tự phong làm thầy dạy của bạn, trong lĩnh vực tín điều và hồ sơ của Công giáo La-mã?
 
-## GIÁO HOÀNG CÓ "CHÚC PHƯỚC" CHO COPERNICUS VÀ CUỐN SÁCH VĨ ĐẠI CỦA ÔNG KHÔNG?
+GIÁO HOÀNG CÓ "CHÚC PHƯỚC" CHO COPERNICUS VÀ CUỐN SÁCH VĨ ĐẠI CỦA ÔNG KHÔNG?
 
 Hãy xét lời tuyên bố tiếp theo của những kẻ tự phong là xua tan "dốt nát và thành kiến" này.
 
@@ -492,7 +488,7 @@ Chúng ta phải nghĩ gì về những Giáo dân Công giáo như thế?
 
 Họ là những kẻ bị lừa vô tội của các linh mục mình sao?
 
-## THẾ CÒN CRANMER VÀ LATIMER, NHỮNG TỬ ĐẠO TIN LÀNH THÌ SAO?
+THẾ CÒN CRANMER VÀ LATIMER, NHỮNG TỬ ĐẠO TIN LÀNH THÌ SAO?
 
 Chủ tịch của Ủy ban Giáo dân Công giáo hài lòng với việc sửa sai cho chúng ta về Wycliffe và Copernicus đến nỗi, ông ta tiếp tục, với vẻ hăng hái vui vẻ, tái cấu trúc quan niệm của chúng ta về Cranmer và Latimer, những người đã bị thiêu trên cọc bởi kiểu mẫu đáng yêu của Cơ Đốc giáo Công giáo, Nữ hoàng Mary:
 
@@ -544,7 +540,7 @@ Tôi bác bỏ họ bằng nhà sử học Công giáo; nhưng nếu bạn tham 
 
 (Hãy đọc Knight, Green, Aubrey, Turner, Hume, Froude, Hallam, Harmsworth, Foxe, Strickland, Burnett, Sanderson, hay bất kỳ tác phẩm chuẩn mực nào khác.)
 
-## "HÀNG NGHÌN" NẠN NHÂN CỦA CRANMER "TRONG SỐ TỔ TIÊN CỦA BẠN VÀ TÔI"
+"HÀNG NGHÌN" NẠN NHÂN CỦA CRANMER "TRONG SỐ TỔ TIÊN CỦA BẠN VÀ TÔI"
 
 Cranmer là giáo sĩ Công giáo đã ban cho Vua Công giáo, Henry VIII, một cuộc ly hôn với người vợ Công giáo của ông, Catherine xứ Aragon, sau khi Giáo hoàng Ý đã chơi trò chính trị với đơn xin của nhà vua suốt mấy năm.
 
@@ -587,9 +583,5 @@ Luật địa ngục ấy vẫn còn trong bộ luật của giáo hội ngoại
 Không có vương quốc nào ở châu Âu mà không đỏ máu, do hậu quả của luật giết người và Tòa Dị giáo của La-mã.
 
 Từ Bồ Đào Nha và Tây Ban Nha, đến Quần đảo Anh; từ biên giới phía Bắc của Bohemia, đến những đồng bằng nắng ấm của miền Nam nước Pháp; từ bờ Biển Địa Trung Hải, đến những con sóng bão tố của Biển Baltic, hệ thống địa ngục của Chủ nghĩa Giáo hoàng của các bạn đã no nê trên nỗi đau và máu người.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: Lỗi OCR đã sửa và ghi chú NEEDS REVIEW trong thân bài: (1) đoạn văn trích tiểu sử "John Wycliffe" của Giáo sư Lechler (trang 19 bản in) bị méo chữ nặng, không thể phục dựng nguyên văn — đã dịch các mảnh đọc được và đánh dấu, phần còn lại bỏ qua chứ không đoán mò; (2) "Einxipcan church" → có thể là "European church"; (3) "with the a. k." → có thể là "with the o.k." (sự chấp thuận); (4) "to the un-" (mất chữ) → có thể là "to the uninitiated"; (5) các lỗi OCR hiển nhiên khác (S}-stem→system, Qod→God, relii:(ion→religion, nothing hut→nothing but, sozv→sow, unbkishing→unblushing, Papal dope/dope, papalized, zeal, practically, cannot now, days, text, haled→hauled, having, Catholic, Mrs. Bocher's, Tom Watson Book Company, page 72, "the very poor", "you see") đã sửa lặng lẽ vì hiển nhiên. Thuật ngữ tôn giáo: Indulgence="Ân xá", purgatory="luyện ngục", Transubstantiation="Biến thể", Mass="Thánh lễ", sacrament="bí tích" (khi đối lập với "hy lễ"/sacrifice trong luận đề Wycliffe), Gospel religion="tôn giáo Phúc Âm", Popery="Chủ nghĩa Giáo hoàng", Romanism="Chủ nghĩa La-mã", papist="kẻ giáo hoàng" (giữ giọng miệt thị của nguyên tác). Các luận điểm lịch sử và cáo buộc của tác giả được dịch trung thành, không chứng thực tính đúng đắn.
 
 Mở trong trình đọc Về thư viện

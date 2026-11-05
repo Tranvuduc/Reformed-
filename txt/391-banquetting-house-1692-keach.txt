@@ -740,7 +740,7 @@ Nhưng những ai chưa từng thấy mình đau ốm, Hoặc chưa từng thấ
 
 Trước hết Ngài khiến chúng con thấy tội lỗi mình; Rồi khi chúng con kêu cầu, Ngài đổ dầu và rượu của Ngài vào, Điều ấy chữa lành chúng con ngay lập tức.
 
-Nhưng có kẻ không thích chịu đau đớn, Chỉ muốn được chữa [NEEDS REVIEW: dòng gốc "But would slight ___ be" không đọc được trong bản OCR] Và chỉ muốn vết thương được phủ da non, Những linh hồn ấy bị Ngài bỏ lại.
+Nhưng có kẻ không thích chịu đau đớn, Chỉ muốn được chữa [NEEDS REVIEW: dòng gốc "But would slight _ be" không đọc được trong bản OCR] Và chỉ muốn vết thương được phủ da non, Những linh hồn ấy bị Ngài bỏ lại.
 
 Vì mỗi chi thể chết phải bị cắt bỏ, Mắt phải phải bị móc ra; Nếu không cả hồn lẫn xác Chắc chắn sẽ xuống địa ngục.
 
@@ -812,7 +812,7 @@ Những hiểm nguy của họ Ngài cũng nhận biết, Mọi sự đều bày
 
 Và như con nai, Ngài nhanh chóng lắng nghe, Dù chúng con chỉ than thở; Tiếng thở dài nhỏ nhất cũng lên đến Ngài; Nó thấu đến ngai Ngài,
 
-Ngài đầy yêu thương đối với [NEEDS REVIEW: "unto thy ___" không đọc được trong bản OCR] Ngài vượt trội hơn con nai cái, Ngài khiến nàng trở nên thật đáng quý, Và ghi nhớ nàng trong tâm trí Ngài.
+Ngài đầy yêu thương đối với [NEEDS REVIEW: "unto thy _" không đọc được trong bản OCR] Ngài vượt trội hơn con nai cái, Ngài khiến nàng trở nên thật đáng quý, Và ghi nhớ nàng trong tâm trí Ngài.
 
 Và như con nai chạy nhanh nhẹn, Và có thể leo núi; Ngài cũng nhanh chóng giúp đỡ các thánh đồ Ngài, Mọi sự đều kịp thời tốt lành.
 
@@ -5259,7 +5259,5 @@ THÁNH CA 222. Thi thiên 148. Mọi tạo vật hãy ngợi khen Đức Chúa T
 8 Ôi nguyện chúng ngợi khen Danh Giê-hô-va! Ai có Danh giống như Danh Ngài, Danh ấy được tôn cao; danh tiếng vinh hiển Ngài Trên cả đất và trời.
 
 9 Và Ngài đã nâng cao sừng của [dân sự Ngài], Và đặt lên cao. Hãy ngợi khen Chúa, hỡi Y-sơ-ra-ên yêu dấu, [Hãy ngợi khen] Đấng gần gũi dường ấy, [NEEDS REVIEW: khổ 9 bị lỗi OCR, dịch theo ý Thi thiên 148:14]
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Bản quét 1692 bị hỏng OCR nặng (chữ ſ, ký hiệu rác, số thứ tự thánh ca bị sai/lặp); các chỗ không đọc được đã đánh dấu [NEEDS REVIEW], không đoán mò. - Số thứ tự một số thánh ca trong bản in bị sai hoặc trùng lặp; đã giữ nguyên hoặc hiệu chỉnh theo trình tự với ghi chú NEEDS REVIEW. - Một số tham chiếu Kinh Thánh trong bản in không khớp với nội dung trích dẫn; đã dịch theo nội dung trích dẫn và ghi chú. - Các thánh ca bị lặp trong OCR đã chỉ dịch một lần. - Quảng cáo của nhà xuất bản ở cuối bản quét đã loại trừ theo quy tắc chỉ dịch tác phẩm thật. - Các trích dẫn Kinh Thánh theo văn phong Kinh Thánh 1934 (không đối chiếu từng chữ với bản in). - Bản dịch AI, chưa được mục sư duyệt lại.
 
 Mở trong trình đọc Về thư viện

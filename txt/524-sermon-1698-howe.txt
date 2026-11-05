@@ -6,19 +6,15 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Bài Giảng Trong Ngày Tạ Ơn 1697
+Nguyên tác: "A Sermon, on the Late Day of Thanksgiving, December 2, 1697" — John Howe (1698) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_a-sermon-preachd-_howe-john_1698/bim_early-english-books-1641-1700_a-sermon-preachd-_howe-john_1698_djvu.txt (Ghi chú: nguồn là bản OCR toàn văn của ấn bản Luân Đôn, in bởi S. Bridge cho Tho. Parkhurst (trang tựa ghi MDCXCVII [NEEDS REVIEW: danh sách nguồn ghi năm 1698]); tác phẩm thật là bài giảng của John Howe giảng trong ngày lễ tạ ơn 2 tháng 12 năm 1697 vì hòa bình sau cuộc chiến, cùng với thư đề tặng gửi Huân tước Haversham và bài diễn từ chúc mừng của Tiến sĩ Bates được đính kèm trước bài giảng theo đúng ấn bản. Phần quảng cáo các sách khác in ở cuối sách không thuộc tác phẩm nên không dịch. Chữ "ſ" (s dài) và các lỗi OCR hiển nhiên đã được chuẩn hóa khi dịch.)
 
-**Nguyên tác:** "A Sermon, on the Late Day of Thanksgiving, December 2, 1697" — John Howe (1698) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_a-sermon-preachd-_howe-john_1698/bim_early-english-books-1641-1700_a-sermon-preachd-_howe-john_1698_djvu.txt *(Ghi chú: nguồn là bản OCR toàn văn của ấn bản Luân Đôn, in bởi S. Bridge cho Tho. Parkhurst (trang tựa ghi MDCXCVII [NEEDS REVIEW: danh sách nguồn ghi năm 1698]); tác phẩm thật là bài giảng của John Howe giảng trong ngày lễ tạ ơn 2 tháng 12 năm 1697 vì hòa bình sau cuộc chiến, cùng với thư đề tặng gửi Huân tước Haversham và bài diễn từ chúc mừng của Tiến sĩ Bates được đính kèm trước bài giảng theo đúng ấn bản. Phần quảng cáo các sách khác in ở cuối sách không thuộc tác phẩm nên không dịch. Chữ "ſ" (s dài) và các lỗi OCR hiển nhiên đã được chuẩn hóa khi dịch.)*
-
----
-
-## Trang tựa
+TRANG TỰA
 
 BÀI GIẢNG, GIẢNG TRONG NGÀY LỄ TẠ ƠN VỪA QUA, ngày 2 tháng 12 năm 1697. Bởi JOHN HOWE, Mục sư của Phúc Âm. Đính kèm trước là Diễn từ chúc mừng của Tiến sĩ BATES gửi NHÀ VUA, ngày 22 tháng 11 năm 1697, nhân danh các Mục sư Bất Đồng Giáo tại Luân Đôn và vùng lân cận.
 
 LUÂN ĐÔN: In bởi S. Bridge, tại Austin-Fryers, cho Tho. Parkhurst, tại hiệu sách Bible and Three Crowns ở Cheapside, gần Mercers Chapel. MDCXCVII.
 
-## Thư đề tặng
+THƯ ĐỀ TẶNG
 
 Kính gửi Huân tước Haversham đáng kính.
 
@@ -42,7 +38,7 @@ Và khi liệt kê những điều và những người thật sự thuộc về
 
 Ngài đáng kính nhất của tôi, Người đầy tớ khiêm nhường, trung tín, hết lòng tận hiến cho Ngài một cách chính đáng nhất, John Howe.
 
-## Diễn từ chúc mừng của Tiến sĩ Bates gửi Nhà Vua, ngày 22 tháng 11 năm 1697, nhân danh các Mục sư Bất Đồng Giáo tại Luân Đôn và vùng lân cận
+DIỄN TỪ CHÚC MỪNG CỦA TIẾN SĨ BATES GỬI NHÀ VUA, NGÀY 22 THÁNG 11 NĂM 1697, NHÂN DANH CÁC MỤC SƯ BẤT ĐỒNG GIÁO TẠI LUÂN ĐÔN VÀ VÙNG LÂN CẬN
 
 Kính tâu Bệ Hạ!
 
@@ -58,7 +54,7 @@ Và vì có những giáo lý thường xuyên được xuất bản, gây tổn
 
 Chúng thần khiêm nhường tái khẳng định lòng trung thành bất khả xâm phạm của mình, và những lời cầu nguyện liên tục của chúng thần, rằng Đức Chúa Trời sẽ bảo toàn thân thể thánh khiết của Bệ Hạ, và khiến Bệ Hạ luôn hạnh phúc trong sự cai trị của mình, và thần dân của Ngài hạnh phúc trong sự vâng phục của họ.
 
-## Bài giảng
+BÀI GIẢNG
 
 THI THIÊN XXIX. Phần cuối của câu cuối cùng.
 
@@ -166,7 +162,7 @@ Và nếu điều ấy không phải là hậu quả hiện tại hay chóng đ�
 
 Một tác giả tài tình về những việc ấy nhận xét rằng: Scipio đời trước đã mở đường cho quyền lực La Mã; Scipio đời sau, mở đường cho sự xa hoa của họ. Đức hạnh của họ suy yếu, và họ đã bị chính những tật xấu của mình chinh phục — những người trước kia có thể chinh phục cả thế giới.
 
-Nhà luân lý nổi tiếng ấy nói: *Infirmi est animi, non posse pati divitias* — tâm trí yếu đuối là tâm trí không thể chịu đựng một hoàn cảnh thịnh vượng. Nhưng ở đâu có những tâm trí đủ mạnh để chịu đựng nó, nếu chúng không được ban phước từ trên cao bằng điều gì tốt hơn chính sự thịnh vượng ấy?
+Nhà luân lý nổi tiếng ấy nói: Infirmi est animi, non posse pati divitias — tâm trí yếu đuối là tâm trí không thể chịu đựng một hoàn cảnh thịnh vượng. Nhưng ở đâu có những tâm trí đủ mạnh để chịu đựng nó, nếu chúng không được ban phước từ trên cao bằng điều gì tốt hơn chính sự thịnh vượng ấy?
 
 4. CON NGƯỜI có thể, bất chấp hòa bình thuần túy bên ngoài, vẫn khốn khổ trong đời này và đời sau, như thể họ chưa từng biết đến nó; và càng hơn nữa, nếu bởi nó họ đã trở nên gian ác hơn. Tôi nài xin quý vị hãy suy xét: họ có phải là một dân được phước không? Hay đó có phải là một người được phước không, giữa người ấy và sự khốn khổ đời đời chỉ cách nhau một hơi thở? Người ấy chỉ cần thở thêm một hơi nữa, là đã ở giữa ngọn lửa; người ấy có hạnh phúc lúc này không, khi ngay lúc sau có thể khốn khổ như bất cứ ma quỷ nào?
 
@@ -196,7 +192,7 @@ Tôi nài xin quý vị, chúng ta hãy học cách phân biệt giữa một đ
 
 Điều thiện thuộc linh — thuộc về tâm trí và tâm linh, và làm cho điều ấy tốt hơn, nhất là điều đi kèm với sự cứu rỗi, Hê-bơ-rơ 6:9; điều chạy vào cõi đời đời, và đi với chúng ta vào thế giới khác — thuộc về loại trước.
 
-Điều thiện bên ngoài, chỉ là *res media* [NEEDS REVIEW: tiếng La-tinh, nghĩa là "điều trung gian"] — có thể đối với chúng ta, khi thì thiện, khi thì ác, tùy trường hợp thay đổi. Những phước hạnh thuộc loại này có thể trở thành sự rủa sả. Ma-la-chi 2:2: Ta sẽ rủa sả những phước lành của các ngươi — phải, Ta đã rủa sả chúng nó rồi. Bàn tiệc của nó có thể trở thành cái bẫy cho nó, và điều vốn vì sự bình an của nó trở thành cái lưới, Thi Thiên 69:22.
+Điều thiện bên ngoài, chỉ là res media [NEEDS REVIEW: tiếng La-tinh, nghĩa là "điều trung gian"] — có thể đối với chúng ta, khi thì thiện, khi thì ác, tùy trường hợp thay đổi. Những phước hạnh thuộc loại này có thể trở thành sự rủa sả. Ma-la-chi 2:2: Ta sẽ rủa sả những phước lành của các ngươi — phải, Ta đã rủa sả chúng nó rồi. Bàn tiệc của nó có thể trở thành cái bẫy cho nó, và điều vốn vì sự bình an của nó trở thành cái lưới, Thi Thiên 69:22.
 
 Những phước hạnh thuần túy bên ngoài, là những sự rủa sả, khi chúng trở thành nhiên liệu cho những dục vọng, khi chúng xúi giục con người tranh đấu chống lại thiên đàng, nổi loạn chống lại sự cai trị của Đức Chúa Trời; khi, như Giê-su-run, con người trở nên mập béo bởi chúng, và đá ngược lại thiên đàng, Phục Truyền 32:15. Chúng ta luôn dễ mắc phải điều này, cho đến khi những phước hạnh thuộc linh hòa lẫn với những phước hạnh khác của chúng ta.
 
@@ -243,9 +239,5 @@ Khi ấy sự bình an của chúng ta sẽ như sông, và sự công bình c�
 Nhưng nếu những điều này không có chỗ trong chúng ta, thì chúng ta có cớ để lo sợ rằng những điều thuộc về hòa bình của chúng ta vẫn còn bị giấu khỏi mắt chúng ta.
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "True Catholiciſm" được dịch là "tinh thần phổ quát đích thực" (nghĩa là tính phổ quát, bao dung giữa các Cơ Đốc nhân — không phải Công giáo La Mã); "Tutelar God" → "vị thần hộ mệnh (của thế gian này)"; "res media" và "amplexus" giữ nguyên tiếng La-tinh kèm chú thích nghĩa; "Aceldama's" → "A-chên-đa-ma (ruộng máu)"; "Jeshurun" → "Giê-su-run" theo Kinh Thánh 1934. Các chữ Hy Lạp trong bản OCR bị hỏng hoàn toàn nên không khôi phục được nguyên văn, đã đánh dấu [NEEDS REVIEW] tại chỗ (câu về "sự đẹp ý của ý muốn Ngài" Ê-phê-sô 1:3-5 và câu trích Aristotle về hạnh phúc). Bản in ghi "Rom. 7" cho câu "tâm trí xác thịt là thù nghịch với Đức Chúa Trời" (thật ra là Rô-ma 8:7), ghi "1 John 2" cho câu "Kẻ ghét anh em mình, ở trong sự chết" (thật ra là 1 Giăng 3:15), và ghi "If. 1.4. 7" cho câu "cả đất nghỉ ngơi và yên lặng" (khôi phục là Ê-sai 14:7) — đều đã giữ nguyên tham chiếu gốc kèm chú thích NEEDS REVIEW. Một đoạn bản OCR bị hỏng nặng ở phần bàn về sự thông công Cơ Đốc (cuối trang 17) đã được khôi phục theo ý Rô-ma 15:7 và đánh dấu NEEDS REVIEW. Trang tựa gốc ghi MDCXCVII (1697) trong khi danh sách nguồn ghi năm 1698 — đã ghi chú trong phần nguồn.
 
 Mở trong trình đọc Về thư viện

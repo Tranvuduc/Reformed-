@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Sự Chuẩn Bị Cho Sự Chết
+Nguyên tác: "Preparation for Death: A Sermon on the Occasion of the Death of Lt. Col. Alexander Ramsay Thompson, of the U. S. Army, who was killed in battle with the Indians, at Okee-cho-bee, Florida, December 25, 1837" — John Knox (1838) Tác giả: John Knox (1790–1858), Tiến sĩ Thần học, Mục sư trưởng Hội Thánh Cải Chánh Hà Lan (Reformed Protestant Dutch Church) tại thành phố New York Nguồn: https://archive.org/download/preparationforde00knox/preparationforde00knox_djvu.txt (New York: In bởi William Osborn, 88 William-street, 1838) (Ghi chú: Cuốn sách nhỏ này gồm bài giảng của John Knox giảng tại Nhà thờ Middle Dutch, ngày 11 tháng 2 năm 1838, kèm theo ba bức thư xin phép in ấn, và một Diễn văn phụ thêm của Isaac Ferris, giảng ngày 25 tháng 5 năm 1838 trước Đoàn Học viên Sĩ quan tại Nhà nguyện Học viện Quân sự West Point, nhân lễ an táng Trung tá Thompson. Cả hai bài đều được dịch toàn văn. Bản OCR nguồn nhiễu (chữ bị tách, vài từ bị hỏng); các lỗi rõ ràng đã phục dựng theo ngữ cảnh và nêu rõ ở cuối file. Đã loại bỏ số trang, dấu thư viện và các mảnh OCR rời.)
 
-**Nguyên tác:** "Preparation for Death: A Sermon on the Occasion of the Death of Lt. Col. Alexander Ramsay Thompson, of the U. S. Army, who was killed in battle with the Indians, at Okee-cho-bee, Florida, December 25, 1837" — John Knox (1838) **Tác giả:** John Knox (1790–1858), Tiến sĩ Thần học, Mục sư trưởng Hội Thánh Cải Chánh Hà Lan (Reformed Protestant Dutch Church) tại thành phố New York **Nguồn:** https://archive.org/download/preparationforde00knox/preparationforde00knox_djvu.txt (New York: In bởi William Osborn, 88 William-street, 1838) *(Ghi chú: Cuốn sách nhỏ này gồm bài giảng của John Knox giảng tại Nhà thờ Middle Dutch, ngày 11 tháng 2 năm 1838, kèm theo ba bức thư xin phép in ấn, và một Diễn văn phụ thêm của Isaac Ferris, giảng ngày 25 tháng 5 năm 1838 trước Đoàn Học viên Sĩ quan tại Nhà nguyện Học viện Quân sự West Point, nhân lễ an táng Trung tá Thompson. Cả hai bài đều được dịch toàn văn. Bản OCR nguồn nhiễu (chữ bị tách, vài từ bị hỏng); các lỗi rõ ràng đã phục dựng theo ngữ cảnh và nêu rõ ở cuối file. Đã loại bỏ số trang, dấu thư viện và các mảnh OCR rời.)*
-
----
-
-## THƯ XIN PHÉP IN ẤN
+THƯ XIN PHÉP IN ẤN
 
 New York, ngày 15 tháng 2 năm 1838.
 
@@ -28,8 +24,6 @@ Tôi là, thưa Ông,
 
 Với lòng kính trọng và quý mến cao nhất, Mary W. Thompson. Kính gửi Mục sư John Knox, Tiến sĩ.
 
----
-
 Thưa Mục sư thân mến,
 
 Chúng tôi hết lòng hiệp cùng với chị em chúng tôi, người vợ góa đau buồn của cố Đại tá A. R. Thompson, Quân đội Hoa Kỳ, trong việc xin Ông một bản sao của Bài Giảng hùng hồn và tuyệt vời của Ông, giảng nhân sự qua đời của ông ấy, để in ấn.
@@ -39,8 +33,6 @@ Chúng tôi là, thưa Ông,
 Những người bạn mang ơn và biết ơn của Ông, William R. Thompson, Elias Nexsen. Kính gửi Mục sư Knox, Tiến sĩ.
 
 New York, ngày 15 tháng 2 năm 1838.
-
----
 
 Gửi Bà Đại tá Thompson, William R. Thompson, Esq., và Elias Nexsen, Esq.
 
@@ -52,9 +44,7 @@ Xin nhận lấy lời đảm bảo về lòng kính trọng và quý mến châ
 
 Từ người bạn chân thành của các bạn, John Knox, Ngày 16 tháng 2 năm 1838.
 
----
-
-## BÀI GIẢNG
+BÀI GIẢNG
 
 > "Vậy, các ngươi cũng hãy sẵn sàng, vì Con người sẽ đến trong giờ các ngươi không ngờ." — Ma-thi-ơ 24:44
 
@@ -62,7 +52,7 @@ Không làm mất thời gian của các bạn bằng những nhận xét mở �
 
 1. Sự kiện mà câu Kinh Thánh nhắc đến. 2. Sự chuẩn bị cần thiết để đối diện với sự kiện đó. 3. Tính cấp bách của lời khuyên bảo.
 
-### I. Sự kiện — sự đến của Con Người
+I. SỰ KIỆN — SỰ ĐẾN CỦA CON NGƯỜI
 
 Sau sự nhập thể của Đấng Cứu Chuộc, nhiều trường hợp khác về sự đến của Ngài được nói đến; và những sự đến khác nhau thường xuyên được loan báo trong một lời tiên tri duy nhất. Những sự kiện có tính chất tương ứng thường lần lượt được bày tỏ, trong sự ứng nghiệm dần dần và nảy nở của cùng một lời tiên tri.
 
@@ -82,7 +72,7 @@ Dưới quyền năng không thể cưỡng lại, không khoan nhượng của 
 
 Ôi, những mất mát tan nát biết bao đã phải chịu đựng! Thiên nhiên chảy máu biết bao, và những tình cảm ngọt ngào của tấm lòng khiến chúng ta phải chịu đau đớn biết bao! "Người ta đi về nhà dài của mình, và những kẻ than khóc đi vòng quanh đường phố." Trái tim của ai mà chưa từng bị đâm thủng! Nó tách rời linh hồn và thân thể, cắt đứt sự liên hệ của người phàm với đất, phá vỡ mọi kế hoạch của họ, dập tắt những niềm vui thế gian của họ, đứt đoạn mọi ràng buộc, xé họ ra khỏi những đối tượng của tình cảm tha thiết nhất của họ, giao thân thể cho sự hư nát và bụi đất, và linh hồn cho tài khoản cuối cùng của nó, để nhận lãnh theo những việc đã làm trong thân thể; và đối diện với sự báo trả của cõi đời đời — những vinh quang kỳ diệu của nó, hoặc những kinh hoàng áp đảo của nó — những niềm vui không thể diễn tả, hoặc những ngọn lửa không hề tắt. Vì sự chết, do đó, chúng ta được khuyên bảo — ôi, chúng ta được khuyên bảo một cách ấn tượng biết bao! — hãy sẵn sàng.
 
-### II. Sự chuẩn bị cần thiết để đối diện với sự chết
+II. SỰ CHUẨN BỊ CẦN THIẾT ĐỂ ĐỐI DIỆN VỚI SỰ CHẾT
 
 Sự chuẩn bị đó không được tìm thấy trong bất kỳ đối tượng nào mà người phàm dễ khao khát nhất và theo đuổi hăng hái nhất; trong bất kỳ thành tựu nào thuần túy thuộc về thế gian. Không phải trong của cải — người ta có thể tích lũy những gia tài lớn, mà không trở nên giàu có đối với Đức Chúa Trời, hoặc là người thừa hưởng một cơ nghiệp đời đời; và khi sự chết đến, nó đến để tước đoạt tất cả những gì họ sở hữu. Việc theo đuổi và sở hữu của cải, mà vì để bảo đảm chúng mà biết bao người trì hoãn mọi điều khác, thay vì chuẩn bị con người để đối diện với kẻ thù cuối cùng, thường chứng tỏ là những trở ngại tai hại nhất cho sự chuẩn bị như vậy, và khiến sự chết mang thêm nhiều kinh hoàng. "Sự tham lam là sự thờ hình tượng, và các ngươi biết rằng không một kẻ thờ hình tượng nào có sự sống đời đời ở trong mình." "Kẻ giàu vào nước thiên đàng là khó dường bao!" Người ta có thể mặc áo tía và vải gai mịn, và ăn uống sung sướng mỗi ngày, và hưởng những điều tốt của mình trong đời này, và cuối cùng, sự chết đưa họ vào những cơn đau đớn không hề giảm bớt và không còn hy vọng. Họ có thể sống trong khoái lạc trên đất, và rồi nằm xuống trong sầu khổ.
 
@@ -98,7 +88,7 @@ Trong "sự ăn năn đối với Đức Chúa Trời, và đức tin trong Chú
 
 Nhưng để thực sự sẵn sàng cho các sự kiện sắp đến, để được bảo vệ khỏi sự bất ngờ, và được chuẩn bị để đối diện với chúng với sự tự tin vui vẻ và hân hoan, cần thiết là các ân điển của Đức Thánh Linh phải ở trong sự vận dụng sống động. Phải có sự tự xét thường xuyên và cẩn thận, sự siêng năng theo thói quen, sự thận trọng thánh khiết, sự sốt sắng trong cầu nguyện, và sự trông đợi tha thiết, và vội vàng đến, sự đến của Chúa chúng ta, để ngày đó không đến trên chúng ta một cách bất ngờ. Chúng ta phải sống, không phải cho chính mình, nhưng cho Đấng đã yêu thương chúng ta và đã phó chính mình vì chúng ta; giữ mục đích cuối cùng của hành trình của chúng ta luôn ở trong tầm nhìn; và như những người khách lạ và lữ khách trên đất, chạy đua hướng về đích để giật giải của sự kêu gọi cao cả của Đức Chúa Trời trong Đấng Christ Giê-xu; mỗi người trong vị trí và các mối quan hệ được giao cho mình, làm và chịu đựng ý muốn của Đức Chúa Trời. "Phước thay cho đầy tớ mà chủ đến, sẽ thấy làm như vậy." "Hãy xem người trọn vẹn, và nhìn người ngay thẳng, vì cuối cùng của người ấy là bình an."
 
-### III. Tính cấp bách của lời khuyên bảo
+III. TÍNH CẤP BÁCH CỦA LỜI KHUYÊN BẢO
 
 Vẫn còn lại là chúng ta xem xét, thứ ba, tính cấp bách của lời khuyên bảo: "Hãy sẵn sàng, vì trong giờ các ngươi không ngờ, Con Người sẽ đến."
 
@@ -122,7 +112,7 @@ Tôi xin phép được nhắc đến một trong những sự phân phát này,
 
 Tôi nhận thức đầy đủ sự tế nhị và nguy hiểm của việc thường xuyên đưa vào các buổi thờ phượng công khai của bục giảng, tên tuổi và lịch sử của những Cơ Đốc nhân đã qua đời. Tuy nhiên, sự kiện là Đại tá Thompson đã sống và chết như một người của công chúng; những hoàn cảnh đặc biệt của cái chết đáng tiếc của ông; và tính cách Cơ Đốc quyết định của ông trong một nghề nghiệp, mà nói ít nhất, không thể được xem là thuận lợi cho việc trau dồi lòng tin kính, được tin là đã đưa trường hợp của ông ra khỏi phạm vi của tiền lệ nguy hiểm, trong khi nó có thể cung cấp một sự áp dụng thực tế hữu ích cho chủ đề của chúng ta.
 
-### TIỂU SỬ CỦA ĐẠI TÁ THOMPSON
+TIỂU SỬ CỦA ĐẠI TÁ THOMPSON
 
 Alexander R. Thompson là người gốc New York, và là con trai của Đại úy Alexander Thompson, một sĩ quan đã phục vụ với vinh dự và danh tiếng trong quân đội của cuộc cách mạng; và sau đó đã chết, trong khi phục vụ Hoa Kỳ, tại West Point, năm 1809. Mẹ của ông, Amelia De Hart, là con gái của Bác sĩ Mathias De Hart, ở Elizabethtown, New Jersey.
 
@@ -188,13 +178,11 @@ Bạn của chúng ta, đã trông đợi với ước muốn lớn lao sự tr�
 
 "Các ngươi cũng hãy sẵn sàng, vì trong giờ các ngươi không ngờ, Con Người sẽ đến."
 
----
-
-## DIỄN VĂN
+DIỄN VĂN
 
 Tại Lễ An Táng Của Trung Tá Alexander R. Thompson, Quân Đội Hoa Kỳ, Giảng Ngày 25 Tháng 5 Năm 1838, Trước Đoàn Học Viên Sĩ Quan, Trong Nhà Nguyện Của Học Viện Quân Sự, West Point, Bởi Isaac Ferris, Tiến Sĩ, Mục Sư Của Nhà Thờ Market-street, New York.
 
-### Diễn Văn.
+DIỄN VĂN.
 
 Hỡi các bạn của tôi:
 
@@ -263,9 +251,5 @@ Có bao nhiêu người, dưới ảnh hưởng thiên đàng của nó đã tì
 Nhưng nếu tôn giáo thuộc về các bạn, số phận của các bạn sẽ khác xa và vô cùng tốt hơn; ở đây con đường của các bạn sẽ được rải đầy những lòng thương xót vượt xa vô cùng lợi ích lớn nhất của người thuần túy thế gian, và trong sự ra đi của các bạn, các bạn sẽ có một cơ nghiệp không hư nát, và không phai tàn. Hãy để tôi cầu xin sự chú ý của các bạn đến vấn đề quan trọng này — hãy để tôi thứ hai như vậy những lời kêu gọi, mà những người bạn tin kính yêu dấu, và trong không ít trường hợp, có lẽ tình mẫu tử đã đưa ra. Hãy đi, bắt chước sự xuất sắc của người bạn đã qua đời của chúng ta, tìm kiếm sự bình an cho linh hồn của chính các bạn như ông đã làm, trong huyết của Chúa Giê-xu, Chiên Con của lễ: trau dồi những nguyên tắc thánh của Đấng Cứu Rỗi mà ông đã phục vụ như Đấng Chỉ huy của sự cứu rỗi — và giống như ông, hãy để các bạn, rải phước lành ra mọi phía, — nếu các bạn muốn mãi mãi được ướp thơm trong tình cảm thuần khiết nhất và vào lúc cuối đời đội một mão triều thiên không hề tàn phai.
 
 Và những người bạn đang than khóc này có sự an ủi gì? Thật vậy, họ đã không phục vụ những khoảnh khắc cuối cùng của bạn chúng ta, họ đã không nghe lời cầu nguyện nửa nói, họ đã không nhắm mắt ông — nhưng họ có điều này, đặc ân quan trọng hơn nhiều, để biết rằng ông đã tìm thấy sự bình an trong việc tin tưởng, và đã chứng minh thực tại và sự xuất sắc của hy vọng của mình giữa những cám dỗ và khó khăn — rằng sự chết đã không tìm thấy ông chưa chuẩn bị. Ở đây họ sẽ không gặp lại ông nữa; nhưng họ sẽ gặp ông sau này. Thời gian không xa, khi những người bạn tin kính sẽ gặp nhau để không bao giờ chia lìa nữa. Khoảnh khắc đó sẽ là gì! Khi đó thời gian chia ly sẽ ngắn ngủi biết bao — khi đó những hoạn nạn đã chia lìa chúng ta sẽ nhẹ nhàng biết bao — khi đó mọi sự sẽ tốt đẹp. Chúng ta không than khóc như những người không có hy vọng — nhưng đức tin của chúng ta nghỉ ngơi trên triển vọng vinh quang, và chúng ta nói: "Xin hãy đến, Chúa Giê-xu, hãy đến mau chóng."
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: Không có [NEEDS REVIEW]. Các lỗi OCR rõ ràng đã được phục dựng theo ngữ cảnh và không đánh dấu riêng: "w7on" → "won" (đạt được); "wTas" → "was"; "jost" → "just" (công chính); "religioiic" → "religion"; "fiend's" → "friend's" (bạn của chúng ta); "strewe4" → "strewed" (rải đầy); "balmed" → "embalmed" (được ướp thơm, theo ngữ cảnh "ướp thơm trong tình cảm thuần khiết nhất"); "bless'drthe" → "bless'd the"; "denominated i: the glory of the English nation" → "được mệnh danh là 'vinh quang của quốc gia Anh'"; "Okee-cho-bee" → Okeechobee (Florida); "Col. Tay-lor" → Đại tá Taylor (Zachary Taylor). Đã loại bỏ: số trang, dấu thư viện ("RC 10-5"), và mảnh OCR rời cuối bản quét ("ST. AUGUSTINE ..."). Cuốn sách nhỏ gồm bài giảng của John Knox (giảng 11/2/1838) và Diễn văn phụ thêm của Isaac Ferris (giảng 25/5/1838 tại West Point) — cả hai đều được dịch toàn văn. Bài thơ "In that lone land of deep despair" (khổ thơ trong phần III của bài giảng Knox) và hai đoạn thơ trích (Shakespeare, *Measure for Measure*, và Edward Young, *Night Thoughts*) được dịch như thơ, không ghi nguồn vì bản gốc không ghi. "Hammock" giữ nguyên (vùng rừng rậm nổi trên đầm lầy ở Florida). "Middle Dutch Church" dịch "Nhà thờ Middle Dutch"; "Reformed Protestant Dutch Church" dịch "Hội Thánh Cải Chánh Hà Lan". Các trích dẫn Kinh Thánh dịch theo phong cách 1934: Ma-thi-ơ 24:44, 24:37, 24:42, 24:46; Mác 13:19; Lu-ca 21:24, 21:34, 21:36, 19:43–44; Rô-ma 14:12, 3:20, 8:1, 8:38–39; Giăng 5:22, 14:2–3; Công vụ 17:31; 2 Cô-rinh-tô 5:10, 5:1; 2 Phi-e-rơ 3:10; Khải Huyền 1:18, 6:16, 14:13, 22:11, 22:20; Truyền Đạo 8:8, 12:5, 9:10; Thi Thiên 89:48, 37:37, 18:10; Ê-phê-sô 5:5; Mác 10:23, 16:16; 1 Phi-e-rơ 3:18; Hê-bơ-rơ 2:14; Ê-phê-sô 1:7; 1 Giăng 5:12; 1 Cô-rinh-tô 15:57; Công vụ 16:31; Châm Ngôn 27:1, 18:10; Ê-xê-chi-ên 22:14; Phi-líp 2:12–13; Dân Số Ký 23:10; 2 Ti-mô-thê 4:7–8; Ê-sai 2:4. Thuật ngữ cố định giữ đúng bảng mẫu (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). "Son of Man" dịch "Con Người"; "propitiation" dịch "của lễ chuộc tội"; "the debt of nature" dịch "món nợ của thiên nhiên" (cách gọi sai mà Knox bác bỏ).
 
 Mở trong trình đọc Về thư viện

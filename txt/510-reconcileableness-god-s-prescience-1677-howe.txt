@@ -640,6 +640,4 @@ Rằng Đức Chúa Trời không bằng một ảnh hưởng hiệu quả phổ
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Các trích dẫn Kinh Thánh theo văn phong Kinh Thánh 1934 (không đối chiếu từng chữ với bản in). - Bản in 1677: các dấu mục § XII, § XVII, § XVIII không xuất hiện rõ trong phần thân văn (bản in nhảy từ XI sang XIII; nội dung tương ứng vẫn được dịch đầy đủ theo văn bản). - Châm ngôn La-tinh "facienti quod in se est": bản OCR đọc "god", đã dùng dạng chuẩn "quod" (châm ngôn kinh viện quen thuộc) — xem [NEEDS REVIEW] trong bài. - Các trích dẫn lề (marginalia) bị hỏng trong bản OCR được đánh dấu [NEEDS REVIEW], không đoán mò; các chi tiết trang trí in, số trang, chữ bắt dòng (catchwords) đã lược bỏ. - Bản dịch AI, chưa được mục sư duyệt lại.
-
 Mở trong trình đọc Về thư viện

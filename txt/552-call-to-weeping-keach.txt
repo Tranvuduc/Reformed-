@@ -6,17 +6,13 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lời Kêu Gọi Khóc Lóc
+Nguyên tác: "A Call to Weeping: or, a Warning Touching Approaching Miseries" — Benjamin Keach (1699) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_a-call-to-weeping-_keach-benjamin_1699/bim_early-english-books-1641-1700_a-call-to-weeping-_keach-benjamin_1699_djvu.txt (Ghi chú: nguồn là file OCR _djvu.txt của cuốn sách in tại London năm 1699; tác phẩm thật là thư đề tặng và toàn văn bài giảng mà Benjamin Keach giảng tại lễ tang bà Elizabeth Western ngày 20 tháng 3 năm 1699. Trang quảng cáo sách khác ở cuối file nguồn không thuộc tác phẩm nên không dịch. Bản in thế kỷ XVII dùng ký tự ſ (s dài) và file OCR có nhiều lỗi nhận dạng; những chỗ sửa lỗi hiển nhiên hoặc tham chiếu Kinh Thánh bị OCR sai đều được ghi chú [NEEDS REVIEW].)
 
-**Nguyên tác:** "A Call to Weeping: or, a Warning Touching Approaching Miseries" — Benjamin Keach (1699) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_a-call-to-weeping-_keach-benjamin_1699/bim_early-english-books-1641-1700_a-call-to-weeping-_keach-benjamin_1699_djvu.txt *(Ghi chú: nguồn là file OCR _djvu.txt của cuốn sách in tại London năm 1699; tác phẩm thật là thư đề tặng và toàn văn bài giảng mà Benjamin Keach giảng tại lễ tang bà Elizabeth Western ngày 20 tháng 3 năm 1699. Trang quảng cáo sách khác ở cuối file nguồn không thuộc tác phẩm nên không dịch. Bản in thế kỷ XVII dùng ký tự ſ (s dài) và file OCR có nhiều lỗi nhận dạng; những chỗ sửa lỗi hiển nhiên hoặc tham chiếu Kinh Thánh bị OCR sai đều được ghi chú [NEEDS REVIEW].)*
+TRANG TỰA
 
----
+LỜI KÊU GỌI KHÓC LÓC: hay, LỜI CẢNH BÁO về Những Tai Họa Đang Đến Gần. Trong một bài giảng được giảng ngày 20 tháng 3 năm 1699, tại lễ tang của bà Elizabeth Westen [NEEDS REVIEW: bản OCR ghi "Westen"/"Weſten"; thư đề tặng và bài giảng đều ghi "Western"], vợ quá cố của ông John Western, người đã lìa đời ngày 17 cùng tháng, hưởng dương 38 tuổi.
 
-## Trang Tựa
-
-**LỜI KÊU GỌI KHÓC LÓC: hay, LỜI CẢNH BÁO về Những Tai Họa Đang Đến Gần.** Trong một bài giảng được giảng ngày 20 tháng 3 năm 1699, tại lễ tang của bà Elizabeth Westen [NEEDS REVIEW: bản OCR ghi "Westen"/"Weſten"; thư đề tặng và bài giảng đều ghi "Western"], vợ quá cố của ông John Western, người đã lìa đời ngày 17 cùng tháng, hưởng dương 38 tuổi.
-
-**Tác giả: Benjamin Keach.**
+Tác giả: Benjamin Keach.
 
 "Vả, Ra-chên qua đời, được chôn dọc đường đi Ép-ra-ta, tức là Bết-lê-hem. Gia-cốp dựng một cây trụ trên mộ nàng; đó là cây trụ mộ Ra-chên cho đến ngày nay." (Sáng Thế Ký 35:19–20) [NEEDS REVIEW: bản OCR ghi tham chiếu "Gen. 46. 35, 39", rõ ràng là lỗi nhận dạng; nội dung câu trích tương ứng với Sáng Thế Ký 35:19–20]
 
@@ -24,7 +20,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 London: In và bán bởi John Marshal, tại hiệu sách Kinh Thánh ở phố Grace-Church.
 
-## Thư Đề Tặng
+THƯ ĐỀ TẶNG
 
 Gửi người bạn đáng kính (dù đang sầu thương), ông John Western.
 
@@ -36,11 +32,11 @@ Thưa ông, người anh em trong Đấng Christ hết lòng yêu mến ông, ng
 
 Horsly-Down, ngày 23 tháng 3 năm 1699. Benj. Keach.
 
-## Lời Kêu Gọi Khóc Lóc, hay Lời Cảnh Báo về Những Tai Họa Đang Đến Gần
+LỜI KÊU GỌI KHÓC LÓC, HAY LỜI CẢNH BÁO VỀ NHỮNG TAI HỌA ĐANG ĐẾN GẦN
 
 Được chứng minh trong một bài giảng tại lễ tang của bà Elizabeth Western, vợ quá cố của ông John Western.
 
-**LU-CA 23:28.**
+LU-CA 23:28.
 
 *"Hỡi con gái thành Giê-ru-sa-lem, đừng khóc về ta, song khóc về chính mình các ngươi và về con cái các ngươi."*
 
@@ -50,9 +46,9 @@ Trong số nhiều động cơ thúc đẩy một đời sống thánh khiết v
 
 Tôi sẽ rút ra hai điểm giáo lý từ câu Kinh Thánh đã được mở ra như vậy.
 
-**Giáo lý I. Không có lý do thật nào để khóc thương những người đã được chuẩn bị sẵn sàng để chết.**
+Giáo lý I. Không có lý do thật nào để khóc thương những người đã được chuẩn bị sẵn sàng để chết.
 
-**Giáo lý II. Có thể có lý do để khóc thương chính mình và con cái mình, là những người còn sống sót.**
+Giáo lý II. Có thể có lý do để khóc thương chính mình và con cái mình, là những người còn sống sót.
 
 Tôi sẽ nói vắn tắt về từng mệnh đề này. Khi nói về mệnh đề thứ nhất, tôi sẽ:
 
@@ -70,15 +66,15 @@ Xin giải thích sơ qua.
 
 Về phần phủ định, tức lời can ngăn, có điều dường như khó hiểu, vì há chúng ta chẳng phải khóc lóc và than van khi suy ngẫm nghiêm túc về những gì Chúa Giê-xu, Chúa chúng ta, đã chịu đựng và gánh chịu vì chúng ta sao? Há chẳng rơi một giọt lệ nào cho một Chúa Giê-xu đẫm máu ư!
 
-**Đáp:** Chắc chắn bổn phận của chúng ta là phải khóc lóc đắng cay; như tôi sẽ chỉ cho quý vị sau đây. Vì vậy lời của Chúa chúng ta phải được hiểu trong giới hạn.
+Đáp: Chắc chắn bổn phận của chúng ta là phải khóc lóc đắng cay; như tôi sẽ chỉ cho quý vị sau đây. Vì vậy lời của Chúa chúng ta phải được hiểu trong giới hạn.
 
-**Thứ nhất,** họ không được khóc lóc thái quá; mọi cảm xúc mất chừng mực vì sự thương khó của Đấng Christ (có lẽ nảy sinh trong một số người đàn bà ấy từ tình yêu thương và trìu mến tự nhiên) đều bị cấm ở đây; há chẳng phải một số người đàn bà ấy có thể vừa có tình yêu tự nhiên vừa có tình yêu thiêng liêng đối với Chúa Christ sao; Ngài có quan hệ huyết thống gần gũi với một số người trong họ, và há một người bạn như thế, một người thân như thế, lại qua đời mà không ai thương khóc ư? Không! Không! Ngài không cấm họ khóc như thế, nhưng Ngài không muốn họ vượt quá chừng mực trong việc ấy; vì chữ "đừng" không hàm ý "hoàn toàn không" trong nhiều chỗ của Kinh Thánh, nhưng phải được hiểu trong giới hạn.
+Thứ nhất, họ không được khóc lóc thái quá; mọi cảm xúc mất chừng mực vì sự thương khó của Đấng Christ (có lẽ nảy sinh trong một số người đàn bà ấy từ tình yêu thương và trìu mến tự nhiên) đều bị cấm ở đây; há chẳng phải một số người đàn bà ấy có thể vừa có tình yêu tự nhiên vừa có tình yêu thiêng liêng đối với Chúa Christ sao; Ngài có quan hệ huyết thống gần gũi với một số người trong họ, và há một người bạn như thế, một người thân như thế, lại qua đời mà không ai thương khóc ư? Không! Không! Ngài không cấm họ khóc như thế, nhưng Ngài không muốn họ vượt quá chừng mực trong việc ấy; vì chữ "đừng" không hàm ý "hoàn toàn không" trong nhiều chỗ của Kinh Thánh, nhưng phải được hiểu trong giới hạn.
 
-**Thứ hai,** họ không được khóc lóc mà không có hy vọng, về sự sống lại của Chúa phước hạnh của chúng ta; "đừng khóc vì ta" (như thể Ngài phán): vì dầu ta phải chết, ta sẽ (như ta đã nói với các ngươi) sống lại từ kẻ chết vào ngày thứ ba; và các ngươi sẽ lại thấy ta; và ta sẽ không chết nữa.
+Thứ hai, họ không được khóc lóc mà không có hy vọng, về sự sống lại của Chúa phước hạnh của chúng ta; "đừng khóc vì ta" (như thể Ngài phán): vì dầu ta phải chết, ta sẽ (như ta đã nói với các ngươi) sống lại từ kẻ chết vào ngày thứ ba; và các ngươi sẽ lại thấy ta; và ta sẽ không chết nữa.
 
-**Thứ ba,** họ bị cấm khóc lóc mà không có đức tin, và không biết chắc mục đích và ý định lớn lao của sự chết Ngài, điều mà rõ ràng trong một thời gian họ (hoặc ít ra một số người trong họ) đã không biết; vì khi Chúa chúng ta nói với các môn đồ rằng Ngài sẽ chết, Phi-e-rơ đáp: "Lạy Chúa, Đức Chúa Trời nào nỡ vậy! Sự đó sẽ không xảy đến cho Chúa đâu"; và điều này càng rõ hơn qua lời Ngài phán với một số người trong họ sau khi Ngài từ kẻ chết sống lại, Lu-ca 24:25–26: "Hỡi những kẻ dại dột, có lòng chậm tin lời các đấng tiên tri nói! Há chẳng phải Đấng Christ phải chịu thương khó dường ấy, rồi mới được vào sự vinh hiển mình sao?"
+Thứ ba, họ bị cấm khóc lóc mà không có đức tin, và không biết chắc mục đích và ý định lớn lao của sự chết Ngài, điều mà rõ ràng trong một thời gian họ (hoặc ít ra một số người trong họ) đã không biết; vì khi Chúa chúng ta nói với các môn đồ rằng Ngài sẽ chết, Phi-e-rơ đáp: "Lạy Chúa, Đức Chúa Trời nào nỡ vậy! Sự đó sẽ không xảy đến cho Chúa đâu"; và điều này càng rõ hơn qua lời Ngài phán với một số người trong họ sau khi Ngài từ kẻ chết sống lại, Lu-ca 24:25–26: "Hỡi những kẻ dại dột, có lòng chậm tin lời các đấng tiên tri nói! Há chẳng phải Đấng Christ phải chịu thương khó dường ấy, rồi mới được vào sự vinh hiển mình sao?"
 
-**Thứ tư,** họ không được khóc lóc như thể Ngài không thể cứu chính mình khỏi sự chết, hoặc với giả định rằng người ta đã cất mạng sống Ngài bằng sức mạnh, hay trái ý Ngài; không, "đừng khóc" (như thể Ngài phán), vì không ai cất mạng sống ta khỏi ta; ta tự nguyện phó nó; ta tự ý dâng chính mình để chịu chết. Thật vậy, nếu mạng sống Ngài bị cất đi trái ý Ngài, hoặc nếu Ngài không có quyền cứu chính mình khỏi sự chết, thì điều đó hẳn khiến Ngài thành kẻ khốn khổ; thậm chí, những hậu quả tệ hại hơn cũng sẽ theo sau; vì vậy, xin cho tôi thêm vào đây vài lý lẽ để chứng minh Ngài đã chết một cách tự nguyện.
+Thứ tư, họ không được khóc lóc như thể Ngài không thể cứu chính mình khỏi sự chết, hoặc với giả định rằng người ta đã cất mạng sống Ngài bằng sức mạnh, hay trái ý Ngài; không, "đừng khóc" (như thể Ngài phán), vì không ai cất mạng sống ta khỏi ta; ta tự nguyện phó nó; ta tự ý dâng chính mình để chịu chết. Thật vậy, nếu mạng sống Ngài bị cất đi trái ý Ngài, hoặc nếu Ngài không có quyền cứu chính mình khỏi sự chết, thì điều đó hẳn khiến Ngài thành kẻ khốn khổ; thậm chí, những hậu quả tệ hại hơn cũng sẽ theo sau; vì vậy, xin cho tôi thêm vào đây vài lý lẽ để chứng minh Ngài đã chết một cách tự nguyện.
 
 1. Không có sự cần thiết nào buộc Đức Chúa Trời phải cứu chuộc loài người hơn là cứu chuộc các thiên sứ sa ngã; Ngài cũng chẳng vì thế mà hạnh phúc hay vinh hiển hơn nơi chính mình, dầu sự vinh hiển Ngài tỏ ra lớn lao biết bao nơi các tạo vật mà Ngài đã dựng nên trước mặt họ.
 
@@ -98,13 +94,13 @@ Về phần phủ định, tức lời can ngăn, có điều dường như khó
 
 6. Ngài cũng không hề không biết sự vô tình và lạm dụng tình yêu thương cùng ân huệ vô hạn của Ngài nơi chúng ta, sau khi chúng ta đến nhận lấy và chấp nhận những lời mời của ân điển Ngài, và gắn bó với Ngài; thế mà dù tất cả những điều ấy, Ngài vẫn tự nguyện bắt tay với Cha trong giao ước phước hạnh ấy.
 
-**Vấn nạn.** Nhưng há Chúa chúng ta chẳng phán rằng Ngài buộc phải chết như thế, hay Ngài phải chết sao? Vậy há Ngài chẳng bị ép buộc phải làm thế ư, vì có lời chép rằng Đấng Christ phải chịu thương khó, v.v. (Lu-ca 24:46).
+Vấn nạn. Nhưng há Chúa chúng ta chẳng phán rằng Ngài buộc phải chết như thế, hay Ngài phải chết sao? Vậy há Ngài chẳng bị ép buộc phải làm thế ư, vì có lời chép rằng Đấng Christ phải chịu thương khó, v.v. (Lu-ca 24:46).
 
-**Đáp:** Điều này nói về Đấng Christ khi đã mặc lấy bản tính chúng ta, và như một Đấng đã cam kết chịu khổ thay chúng ta; xét như Đấng Trung Bảo, Ngài đã trở nên tôi tớ Đức Chúa Trời, và khi ấy quả thật là cần thiết. Xin xem Charnock [NEEDS REVIEW: tham chiếu tác giả, có lẽ là Stephen Charnock]. Đức Chúa Trời (như một người nhận xét rất đúng) không thể bị ép buộc làm điều gì trái ý muốn Ngài, và nếu Đấng Christ bị ép buộc như thế, thì quả thật những người đàn bà tốt lành kia đã có lý do để khóc. Hơn nữa, không ai bị hay có thể bị ép buộc trái ý muốn mình để trở nên người bảo lãnh; sự cam kết đòi hỏi hành động ấy phải tự do và tự nguyện, và người ấy phải được tự do định đoạt trong việc đó, như tôi còn có thể chỉ ra thêm.
+Đáp: Điều này nói về Đấng Christ khi đã mặc lấy bản tính chúng ta, và như một Đấng đã cam kết chịu khổ thay chúng ta; xét như Đấng Trung Bảo, Ngài đã trở nên tôi tớ Đức Chúa Trời, và khi ấy quả thật là cần thiết. Xin xem Charnock [NEEDS REVIEW: tham chiếu tác giả, có lẽ là Stephen Charnock]. Đức Chúa Trời (như một người nhận xét rất đúng) không thể bị ép buộc làm điều gì trái ý muốn Ngài, và nếu Đấng Christ bị ép buộc như thế, thì quả thật những người đàn bà tốt lành kia đã có lý do để khóc. Hơn nữa, không ai bị hay có thể bị ép buộc trái ý muốn mình để trở nên người bảo lãnh; sự cam kết đòi hỏi hành động ấy phải tự do và tự nguyện, và người ấy phải được tự do định đoạt trong việc đó, như tôi còn có thể chỉ ra thêm.
 
-**Vấn nạn.** Nhưng há Đấng Cứu Thế của chúng ta chẳng tỏ ra có chút miễn cưỡng nào trong cơn hấp hối đẫm máu của Ngài sao? "Cha ơi! Nếu có thể được, xin cho chén này lìa khỏi Con!"
+Vấn nạn. Nhưng há Đấng Cứu Thế của chúng ta chẳng tỏ ra có chút miễn cưỡng nào trong cơn hấp hối đẫm máu của Ngài sao? "Cha ơi! Nếu có thể được, xin cho chén này lìa khỏi Con!"
 
-**Đáp:** [NEEDS REVIEW: phần đáp cho vấn nạn này bị hỏng nặng trong bản OCR, không đọc được]
+Đáp: [NEEDS REVIEW: phần đáp cho vấn nạn này bị hỏng nặng trong bản OCR, không đọc được]
 
 Hỡi Ngài phải chịu khốn khổ bởi trời, đất và địa ngục, mà chúng ta lại không đau buồn sao? Há Giu-đa, một trong các môn đồ Ngài, lại phản Ngài, Phi-e-rơ chối Ngài, và Cha lìa bỏ Ngài, mà chúng ta lại không than khóc sao?
 
@@ -112,23 +108,23 @@ Hỡi Ngài phải chịu khốn khổ bởi trời, đất và địa ngục, m
 
 5. Há tiệc thánh chẳng được lập ra, một phần để lay động tình cảm chúng ta, và làm tan chảy linh hồn chúng ta thành nước mắt sao? Há Ngài đã lập một thánh lễ để tượng trưng cho sự thương khó đẫm máu của Ngài, và bày ra trước mắt chúng ta thể nào thân thể Ngài đã bị bẻ ra, và huyết Ngài đã đổ ra; mà Ngài lại không muốn chúng ta khóc khi nhìn thấy và suy ngẫm điều đó sao? Chắc chắn không, và há Ngài lại muốn điều này được lặp lại thường xuyên, mà lại không muốn linh hồn chúng ta xúc động sao? Chắc chắn đó không thể là ý Ngài. Xin dừng ở đây về điều này.
 
-Nhưng **thứ ba,** việc Chúa chúng ta phán "đừng khóc vì ta" có thể hàm ý ba điều:
+Nhưng thứ ba, việc Chúa chúng ta phán "đừng khóc vì ta" có thể hàm ý ba điều:
 
 1. Sự sẵn sàng chịu chết của Ngài. [NEEDS REVIEW: mục số 1 bị hỏng trong bản OCR, chỉ còn chữ "Chết."; suy từ đoạn sau về người bạn quá cố ("bà đã sẵn sàng chết, bà đã vui lòng chết, và bà hạnh phúc trong sự chết"), mục này hẳn là "sự sẵn sàng chịu chết"] 2. Sự vui lòng chịu chết của Ngài. 3. Sự hạnh phúc của Ngài trong sự chết.
 
 Và tôi chắc rằng, người bạn yêu dấu đã qua đời của chúng ta cũng đã được như thế phần nào. Bà đã sẵn sàng chết, bà đã vui lòng chết, và bà hạnh phúc trong sự chết của mình, vì vậy bà có thể nói: "Đừng khóc vì ta, song khóc vì chính mình các ngươi, và vì con cái các ngươi."
 
-### Giáo lý I: Không có lý do thật nào để khóc thương những người đã được chuẩn bị sẵn sàng để chết
+GIÁO LÝ I: KHÔNG CÓ LÝ DO THẬT NÀO ĐỂ KHÓC THƯƠNG NHỮNG NGƯỜI ĐÃ ĐƯỢC CHUẨN BỊ SẴN SÀNG ĐỂ CHẾT
 
 Việc không có lý do để than khóc hay khóc thương những người đã được chuẩn bị sẵn sàng để chết (tôi muốn nói là về phần họ) có thể thấy rõ và được chứng minh đầy đủ từ sự suy xét những ích lợi lớn lao mà những người như thế nhận được trong sự chết. Hỡi anh em, hầu hết những gì một tín hữu trông mong thì người ấy nhận được khi chết, chứ không phải trước đó; sự an ủi tốt nhất của tín hữu bắt đầu khi đời sống người ấy kết thúc. "Nếu chúng ta chỉ có sự trông cậy trong Đấng Christ về đời nầy mà thôi, thì trong cả mọi người, chúng ta là kẻ khốn nạn hơn hết." (1 Cô-rinh-tô 15:19) "Kẻ ác bị đánh đổ trong sự gian ác mình; nhưng kẻ công bình vẫn có nơi nương cậy, dầu trong sự chết." (Châm Ngôn 14:32) Sự an ủi tốt nhất của tín hữu bắt đầu khi đời sống người ấy chấm dứt; "ngày chết còn hơn ngày sanh" (Truyền Đạo 7:1). Nhưng khốn thay cho kẻ ác: sự chết là cánh cổng kinh khiếp mở ra cho chúng một cõi đời đời ghê rợn, vô tận, và lột sạch mọi kho báu và danh dự của chúng. "Song khốn cho các ngươi là người giàu có!" (kẻ giàu mà vô đạo) "vì đã được sự yên ủi của mình rồi." (Lu-ca 6:24–25) [NEEDS REVIEW: bản OCR ghi "Lu-ca 6:28", nhưng câu trích là Lu-ca 6:24–25] Tôi có đọc về một nữ hoàng của vương quốc này, bà nói bà thích quan tài mình hơn nôi mình, nhưng mọi tín hữu thật đều có thể thích quan tài hơn vương miện và vương quốc trần gian.
 
 Một tín hữu trong sự chết nhận được ích lợi và sự miễn trừ lớn lao. Lịch sử kể về một người, sau khi đã lập những chiến công hiển hách theo đường lối tin kính, đã cầu xin Đức Chúa Trời điều gì sẽ ích lợi nhất cho mình; người ấy lên giường và ngủ giấc ngủ cuối cùng; điều này khiến bạn bè người ấy nói: sự chết là điều ích lợi nhất. Nhưng xin đi vào chi tiết.
 
-**Thứ nhất,** một thánh đồ trong sự chết được tự do. Những kẻ học việc và nô lệ mong cho hết thời hạn; thời gian nô lệ và phục dịch của chúng ta chưa hết cho đến khi sự chết đến, bấy giờ chúng ta mãn hạn trong cõi đời đời, và được tự do đời đời.
+Thứ nhất, một thánh đồ trong sự chết được tự do. Những kẻ học việc và nô lệ mong cho hết thời hạn; thời gian nô lệ và phục dịch của chúng ta chưa hết cho đến khi sự chết đến, bấy giờ chúng ta mãn hạn trong cõi đời đời, và được tự do đời đời.
 
-**Thứ hai,** bấy giờ tín hữu được giải thoát khỏi thân thể của tội lỗi và sự chết; có thể gọi là một "thân thể", vì sức nặng của nó; và là "thân thể của sự chết", vì sự gớm ghiếc của nó; đó là phần cặn bã của sự ô uế tệ hại nhất. "Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết nầy?" (Phao-lô nói, Rô-ma 7:24)
+Thứ hai, bấy giờ tín hữu được giải thoát khỏi thân thể của tội lỗi và sự chết; có thể gọi là một "thân thể", vì sức nặng của nó; và là "thân thể của sự chết", vì sự gớm ghiếc của nó; đó là phần cặn bã của sự ô uế tệ hại nhất. "Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết nầy?" (Phao-lô nói, Rô-ma 7:24)
 
-**Thứ ba,** nó như một kẻ gieo rắc chia rẽ đê hèn, khiến một người chống lại chính mình; người ta gieo rắc chia rẽ giữa người lân cận với nhau, điều ấy đã là ghê tởm; nhưng kẻ gieo rắc chia rẽ này khiến một người bất hòa với chính mình, nó làm mọi sự rối loạn và hỗn độn trong linh hồn một người; đến nỗi sự bình an của người ấy liên tục bị gián đoạn. [NEEDS REVIEW: cách đánh số trong bản in dường như không nhất quán — "Thứ ba" ở đây rồi tiếp theo là các mục đánh số 2–6]
+Thứ ba, nó như một kẻ gieo rắc chia rẽ đê hèn, khiến một người chống lại chính mình; người ta gieo rắc chia rẽ giữa người lân cận với nhau, điều ấy đã là ghê tởm; nhưng kẻ gieo rắc chia rẽ này khiến một người bất hòa với chính mình, nó làm mọi sự rối loạn và hỗn độn trong linh hồn một người; đến nỗi sự bình an của người ấy liên tục bị gián đoạn. [NEEDS REVIEW: cách đánh số trong bản in dường như không nhất quán — "Thứ ba" ở đây rồi tiếp theo là các mục đánh số 2–6]
 
 2. Nó như một kẻ trọ bị rủa sả, liên tục quấy rầy chúng ta, mà chúng ta không thể đuổi đi; hắn chẳng bao giờ bị tống ra cho đến khi sự chết đến.
 
@@ -140,7 +136,7 @@ Một tín hữu trong sự chết nhận được ích lợi và sự miễn tr
 
 6. Hay nó như một bệnh tật xấu xa làm suy yếu và hao mòn mọi chi thể cùng năng lực của con người mới; đến nỗi một tín hữu có thể nói với Đa-vít (nhờ đó mà): "Ngày nay, dầu đã chịu xức dầu làm vua, ta hãy còn yếu đuối" (2 Sa-mu-ên 3:39). "Những con trai Xê-ru-gia này thật quá mạnh đối với ta; điều lành tôi muốn, tôi không làm, nhưng điều dữ tôi không muốn, tôi lại làm." Hỡi anh em, chúng ta chưa được, không thể được giải thoát khỏi thân thể tội lỗi này cho đến khi sự chết đến, bấy giờ chúng ta được giải thoát khỏi nó đời đời; chúng ta cởi bỏ cả thân thể xác thịt lẫn thân thể tội lỗi cùng một lúc.
 
-**Thứ hai** [NEEDS REVIEW: chữ "Thứ hai" được ghép từ hai trang, bản OCR bị hỏng ở chỗ nối trang], vì trong sự chết một tín hữu được giải thoát khỏi mọi nỗi sợ hãi. Thật, người ấy được giải thoát khỏi nỗi sợ nô lệ khi còn sống; Đấng Christ đã giải thoát mọi kẻ tin Ngài khỏi nỗi sợ sự chết đầy tôi mọi và hành hạ, là phước lành họ sở hữu tùy theo mức độ, hay lượng, và sự thực hành đức tin; nhưng dù vậy, họ vẫn chưa được giải thoát khỏi mọi thứ sợ hãi quấy rầy cho đến khi họ chết.
+Thứ hai [NEEDS REVIEW: chữ "Thứ hai" được ghép từ hai trang, bản OCR bị hỏng ở chỗ nối trang], vì trong sự chết một tín hữu được giải thoát khỏi mọi nỗi sợ hãi. Thật, người ấy được giải thoát khỏi nỗi sợ nô lệ khi còn sống; Đấng Christ đã giải thoát mọi kẻ tin Ngài khỏi nỗi sợ sự chết đầy tôi mọi và hành hạ, là phước lành họ sở hữu tùy theo mức độ, hay lượng, và sự thực hành đức tin; nhưng dù vậy, họ vẫn chưa được giải thoát khỏi mọi thứ sợ hãi quấy rầy cho đến khi họ chết.
 
 I. Chính tội lỗi mình khiến họ sợ, e rằng Đức Chúa Trời sẽ rút lại, hay giấu mặt Ngài khỏi họ.
 
@@ -158,7 +154,7 @@ VI. Trong sự chết một tín hữu được giải thoát khỏi mọi đám
 
 VII. Bấy giờ người ấy cũng được giải thoát khỏi mọi lao khổ; mọi sự ở đây đều đầy lao khổ: "muôn vật đều lao khổ" (Truyền Đạo 1:8). Loài người phải ăn bánh mình bằng mồ hôi trán; có sự lao khổ của tay, và sự lao khổ của lòng; tâm trí loài người đầy những suy tư nhọc nhằn để đạt điều mình theo đuổi. Phao-lô "đã làm việc nhiều hơn hết thảy" (1 Cô-rinh-tô 15:10). Công việc của một Cơ Đốc nhân thật nhọc nhằn, nhưng "công khó của anh em trong Chúa chẳng phải là vô ích đâu" (1 Cô-rinh-tô 15:58). Các mục sư được gọi là những người lao khổ: "chúng tôi chịu khó nhọc và chịu sỉ nhục là vì...", "hãy biết những kẻ làm việc khó nhọc trong vòng anh em" (1 Tê-sa-lô-ni-ca 5:12). Mọi người kính sợ Đức Chúa Trời đều thấy tay mình đầy lao khổ; đây là thời gian làm việc của chúng ta; nhưng trong sự chết chúng ta đi ngủ [NEEDS REVIEW: nguyên tác "we go to Bed", có lẽ ý nói sự chết như giấc ngủ]: "Phước thay cho những người chết là chết trong Chúa từ nay! Đức Thánh Linh phán: Phải, vì những người ấy nghỉ ngơi khỏi sự khó nhọc, và việc làm mình theo sau." (Khải Huyền 14:13)
 
-**Thứ hai,** chúng ta không nên khóc lóc thái quá vì những người đã được chuẩn bị sẵn sàng để chết; vì sự chết là ích lợi cho họ: họ được, như một người nói, một tờ lệnh miễn trừ mọi hoạn nạn; nhưng, đó chưa phải là tất cả. Vì:
+Thứ hai, chúng ta không nên khóc lóc thái quá vì những người đã được chuẩn bị sẵn sàng để chết; vì sự chết là ích lợi cho họ: họ được, như một người nói, một tờ lệnh miễn trừ mọi hoạn nạn; nhưng, đó chưa phải là tất cả. Vì:
 
 1. Họ được một trạng thái trọn vẹn. Sự trọn vẹn không thể đạt được trong đời này, nhưng linh hồn các tín hữu được nên trọn vẹn trong sự chết, không phải trước sự chết, cũng không phải sau sự chết, nhưng là trong khi chết; hơi thở chúng ta và sự ô uế của linh hồn chúng ta cùng ra đi một lúc. Chúng ta đọc về "linh hồn của người công bình đã được nên trọn lành" (Hê-bơ-rơ 12:23). Họ được nên trọn vẹn trong sự thánh khiết: ở đây chúng ta được giải thoát khỏi sự đoán phạt, quyền lực và hình phạt của tội lỗi; nhưng trong sự chết được giải thoát khỏi chính sự hiện hữu của tội lỗi; dầu khi còn sống chúng ta được nên thánh trong mọi phần, nhưng chỉ là từng phần, còn trong sự chết thì trọn vẹn. Vì vậy sự chết làm cho tín hữu nhiều hơn mọi thánh lễ làm được, hay có thể làm được cho họ: họ chẳng những đạt được sự trong sạch vinh hiển trọn vẹn; không một ý nghĩ hư không nào nữa làm phiền linh hồn họ, cũng không một sự cám dỗ nào của Sa-tan. Kẻ đã chết thì thôi phạm tội; sự chết là lối vào Ca-na-an thật, là xứ đượm sữa và mật, với sự vô tội và hạnh phúc đời đời; chẳng có gì có thể khuấy động sự bình an, hay làm hư hoại sự trong sạch của những người phước hạnh chết trong Chúa. Mọi năng lực của linh hồn được nâng lên mức cao nhất của sự trọn vẹn tự nhiên và thiêng liêng: giờ đây chúng chỉ được đổi mới, nhưng trong sự chết được nâng lên tột đỉnh; sự hiểu biết sáng tỏ, trí nhớ vững chắc, ý chí và tình cảm nồng cháy và mạnh mẽ.
 
@@ -176,7 +172,7 @@ Họ rời một túp lều nghèo để ở trong một cung điện nguy nga. 
 
 7. Họ không đói nữa, không khát nữa; mọi nước mắt đã được lau khỏi mặt họ; họ không phạm tội nữa, không chịu khổ nữa, và không chết nữa. Sự ích lợi và phước hạnh của họ vượt quá mọi suy nghĩ và lời diễn tả của chúng ta; có sự hùng biện và kinh nghiệm nào kém thiên sứ mà diễn tả được những gì họ được và sở hữu trên kia? Ngoài ra, điều làm trọn mọi sự là sự sống trên kia đời đời; vì họ được thông công đời đời với Đấng Christ, hưởng nguồn sự sống, và bơi lội trong các sông khoái lạc; vậy điều gì có thể gián đoạn hay chấm dứt hạnh phúc đời đời của họ? Từ toàn bộ những điều ấy, chúng ta có thể nói: Đừng khóc vì họ; xét những điều này thì không có lý do gì; nhưng xin nói sơ qua về phần áp dụng.
 
-### Phần Áp Dụng (của Giáo lý I)
+PHẦN ÁP DỤNG (CỦA GIÁO LÝ I)
 
 1. Chúng ta suy ra rằng có một sự khác biệt lớn lao giữa tình trạng của các thánh đồ trên đất và các thánh đồ trên trời; những người nam người nữ tốt nhất ở đây vừa có đắng vừa có ngọt, vừa sầu khổ vừa vui mừng, vừa tội lỗi vừa ân điển; họ có những "nhưng", những bất toàn; chúng ta chưa cởi bỏ áo giáp; nhưng dầu vậy, há các đức hạnh của các thánh đồ không đáng được nhắc đến sao? Há họ không đáng được khen ngợi sao? Vì trong một vài điều họ có thể không đáng khen ư? Kinh Thánh ghi lại tội lỗi và sự sa ngã của những người đầy ân điển như Nô-ê, Lót, Gia-cốp, Môi-se, Đa-vít, Phi-e-rơ, và nhiều người khác nữa; nhưng há Kinh Thánh không ghi lại các đức hạnh của họ, hay những gì đáng khen nơi họ sao? Một thánh đồ mang mọi sự lên trời với mình; đó là sự giàu có của người ấy: người ấy mang vàng mình lên đó, và bỏ lại mọi xỉ bã phía sau.
 
@@ -202,17 +198,17 @@ Kẻ ác trong sự chết mất mát lớn:
 
 Điều này đưa tôi đến mệnh đề thứ hai.
 
-### Giáo lý II: Có thể có lý do để khóc thương chính mình và con cái mình, là những người còn sống sót
+GIÁO LÝ II: CÓ THỂ CÓ LÝ DO ĐỂ KHÓC THƯƠNG CHÍNH MÌNH VÀ CON CÁI MÌNH, LÀ NHỮNG NGƯỜI CÒN SỐNG SÓT
 
 1. Điều này tôi cũng sẽ cố gắng chứng minh và trình bày. 2. Áp dụng nó.
 
-**Thứ nhất,** có thể có lý do để khóc về những điều ác bên trong mà chúng ta đang rên siết gánh chịu.
+Thứ nhất, có thể có lý do để khóc về những điều ác bên trong mà chúng ta đang rên siết gánh chịu.
 
-**Thứ hai,** về những điều ác bên ngoài mà chúng ta cảm nhận và có lý do để sợ hãi.
+Thứ hai, về những điều ác bên ngoài mà chúng ta cảm nhận và có lý do để sợ hãi.
 
 "Hãy khóc vì chính mình các ngươi" (như thể Chúa chúng ta phán), vì các ngươi còn phải tiếp tục chiến đấu với những kẻ thù thuộc linh mình, tức là xác thịt, thế gian và ma quỷ: các ngươi chưa cởi bỏ áo giáp; các ngươi vẫn còn và sẽ còn bị thân thể của tội lỗi và sự chết làm khốn khổ: "chúng ta than thở, đang nặng nề" (2 Cô-rinh-tô 5:4) [NEEDS REVIEW: bản OCR ghi "2 Cô-rinh-tô 2:5, 4", hẳn là 2 Cô-rinh-tô 5:4]. Chúng ta có bình an nhưng không phải không hoạn nạn, có ánh sáng nhưng không phải không tối tăm, có vui mừng nhưng không phải không sầu khổ, có danh dự nhưng không phải không sỉ nhục và nhục nhã; chúng ta có đức tin nhưng không phải không nghi ngờ, nhất là với một số người trong chúng ta thì như vậy; chúng ta có ân điển nhưng không phải không tội lỗi; chúng ta gặp những thử thách và cám dỗ nặng nề, đôi khi có thể ở dưới sự giấu mặt của Đức Chúa Trời và sự rút lui của Chúa Giê-xu Christ, bị quăng quật như trong cơn bão mà không được an ủi.
 
-**Thứ hai,** chúng ta có thể có lý do để khóc vì chính mình và vì con cái mình, về những điều ác bên ngoài [NEEDS REVIEW: bản OCR ghi "Eternal evils", hẳn là lỗi in của "external evils", phù hợp với phân loại ở đầu phần này] mà chúng ta cảm nhận và có thể sợ hãi.
+Thứ hai, chúng ta có thể có lý do để khóc vì chính mình và vì con cái mình, về những điều ác bên ngoài [NEEDS REVIEW: bản OCR ghi "Eternal evils", hẳn là lỗi in của "external evils", phù hợp với phân loại ở đầu phần này] mà chúng ta cảm nhận và có thể sợ hãi.
 
 1. Từ những mất mát và thất vọng buồn thảm mà chúng ta gặp và có thể gặp phải. Có lẽ chúng ta đã gieo nhiều mà thu ít; chúng ta ăn mà có thể vẫn không đủ: "Các ngươi gieo nhiều mà gặt ít; ăn mà không no; uống mà không đủ; mặc mà không ấm; và kẻ nào làm thuê, đựng tiền công mình trong túi lủng." (A-ghê 1:6) Đức Chúa Trời đã giáng sự tàn phá lạ lùng trên nghề nghiệp, công việc và sự trông mong của loài người. Ôi, một người nói: nếu thời thế cứ thế này thì ta sẽ lấy gì nuôi gia đình? Người khác nói: ta sẽ lấy tiền đâu trả nợ? Hỡi các ông, sự khốn khổ của các dân tộc đã đến và đang đến, và điều này có thể là lý do để những kẻ còn sống sót phải khóc.
 
@@ -244,7 +240,7 @@ Kẻ ác trong sự chết mất mát lớn:
 
 10. Và cuối cùng, hãy nhìn quanh: há chẳng còn những dấu hiệu khác trên chúng ta về cơn thịnh nộ mà Đức Chúa Trời đã đe dọa sao? Xét toàn bộ, há chẳng có lý do để chúng ta khóc thương chính mình và con cái mình sao?
 
-### Phần Áp Dụng (của Giáo lý II)
+PHẦN ÁP DỤNG (CỦA GIÁO LÝ II)
 
 1. Chúng ta hãy than khóc sự bội đạo lớn của thời nay. Chúng ta báo đáp Đấng Toàn Năng như vậy sao, vì mọi ân huệ tuyển chọn, tình yêu thương và nhân từ vô hạn của Ngài? Ngài còn có thể làm gì hơn cho chúng ta, và chúng ta còn có thể làm gì hơn chống lại Ngài?
 
@@ -261,9 +257,5 @@ Kẻ ác trong sự chết mất mát lớn:
 7. Cuối cùng, chúng ta hãy mang nước Anh đáng thương trong lòng, và cầu nguyện cho vua và quốc hội, xin Đức Chúa Trời ban cho họ sự khôn ngoan và lòng sốt sắng vì cớ và quyền lợi Ngài; chúng ta hãy kêu cầu vì London, và vì Si-ôn của Đức Chúa Trời; phải, và vì chính mình cùng con cái chúng ta; nhưng chúng ta hãy chừng mực trong việc khóc thương những người đang ở trên trời, hay những người đã sẵn sàng để chết; và như thế tôi sẽ kết thúc như lúc bắt đầu: "Đừng khóc vì ta, song khóc vì chính mình các ngươi, và vì con cái các ngươi."
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "Blessed Saviour"/"Blessed Lord" được dịch là "Đấng Cứu Thế phước hạnh"/"Chúa phước hạnh" theo văn phong thế kỷ XVII; "peculiar people" (Tít 2:14) dịch là "dân thuộc riêng về Ngài"; "Make-bate" (kẻ gieo rắc chia rẽ) và "Evil-seed" giữ nguyên hình ảnh ẩn dụ của nguyên tác. Các câu Kinh Thánh trích dẫn được dịch theo phong cách Kinh Thánh tiếng Việt 1934. Toàn bộ các ghi chú [NEEDS REVIEW] trong bài đều do lỗi OCR hoặc lỗi in trong bản gốc 1699, không phải do nội dung mơ hồ về mặt thần học.
 
 Mở trong trình đọc Về thư viện
