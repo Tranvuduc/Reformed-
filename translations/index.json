@@ -75,7 +75,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Về sự cầu nguyện"
+  "short": "Về sự cầu nguyện…"
  },
  {
   "id": "calvin/chr_life",
@@ -90,7 +90,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Đời sống Cơ Đốc"
+  "short": "Đời sống Cơ Đốc…"
  },
  {
   "id": "bonar/followlamb",
@@ -105,7 +105,7 @@
   ],
   "level": 1,
   "length": "vua",
-  "short": "Theo Chiên Con: lời khuyên dành"
+  "short": "Theo Chiên Con: lời khuyên dành…"
  },
  {
   "id": "david/chua-khong-hua-giau-co",
@@ -185,7 +185,7 @@
   ],
   "level": 1,
   "length": "vua",
-  "short": "Người mới tin trong nhà có"
+  "short": "Người mới tin trong nhà có…"
  },
  {
   "id": "david/tang-le-gio-tet-song-lam-chung",
@@ -281,7 +281,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Dẫn dắt và kỷ luật Hội"
+  "short": "Dẫn dắt và kỷ luật Hội…"
  },
  {
   "id": "david/giao-ly-van-dap-cho-lop-nhom-nho",
@@ -297,7 +297,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Giáo lý vấn đáp cho lớp"
+  "short": "Giáo lý vấn đáp cho lớp…"
  },
  {
   "id": "david/cham-soc-tin-huu-trong-khung-hoang",
@@ -313,7 +313,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Chăm sóc tín hữu trong khủng"
+  "short": "Chăm sóc tín hữu trong khủng…"
  },
  {
   "id": "david/day-giao-ly-o-nha",
@@ -346,7 +346,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Danh dự, xấu hổ và ân"
+  "short": "Danh dự, xấu hổ và ân…"
  },
  {
   "id": "david/hon-nhan-da-the-he",
@@ -378,7 +378,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cha mẹ và con cái ở"
+  "short": "Cha mẹ và con cái ở…"
  },
  {
   "id": "david/duc-tin-cai-chanh-trong-15-phut",
@@ -395,7 +395,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Đức tin Cải Chánh trong 15"
+  "short": "Đức tin Cải Chánh trong 15…"
  },
  {
   "id": "david/nam-solas-song-ngu",
@@ -475,7 +475,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Khi nào cần gặp bác sĩ"
+  "short": "Khi nào cần gặp bác sĩ…"
  },
  {
   "id": "david/nam-solas-cho-nguoi-viet",
@@ -507,7 +507,7 @@
   ],
   "level": 1,
   "length": "vua",
-  "short": "Giao ước: Đức Chúa Trời giữ"
+  "short": "Giao ước: Đức Chúa Trời giữ…"
  },
  {
   "id": "bonar/peace",
@@ -523,7 +523,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Con Đường Bình An Của Đức"
+  "short": "Con Đường Bình An Của Đức…"
  },
  {
   "id": "hooker/just",
@@ -613,7 +613,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Quyền Năng Tẩy Sạch Của Huyết"
+  "short": "Quyền Năng Tẩy Sạch Của Huyết…"
  },
  {
   "id": "owen/faith",
@@ -629,7 +629,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Nền Tảng Phúc Âm Và Bằng"
+  "short": "Nền Tảng Phúc Âm Và Bằng…"
  },
  {
   "id": "charnock/instr_regen",
@@ -645,7 +645,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Lời Chúa: Khí Cụ Của Sự"
+  "short": "Lời Chúa: Khí Cụ Của Sự…"
  },
  {
   "id": "baxter/unconverted",
@@ -660,7 +660,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Lời Kêu Gọi Người Chưa Cải"
+  "short": "Lời Kêu Gọi Người Chưa Cải…"
  },
  {
   "id": "owen/sin_grace",
@@ -675,7 +675,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Quyền Cai Trị Của Tội Lỗi"
+  "short": "Quyền Cai Trị Của Tội Lỗi…"
  },
  {
   "id": "doddridge/evidences",
@@ -735,7 +735,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Sự Cần Thiết Của Sự Tái"
+  "short": "Sự Cần Thiết Của Sự Tái…"
  },
  {
   "id": "rutherford/letters",
@@ -796,7 +796,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Tuyên Bố Và Biện Hộ Giáo"
+  "short": "Tuyên Bố Và Biện Hộ Giáo…"
  },
  {
   "id": "owen/indwellingsin",
@@ -811,7 +811,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Tội Lỗi Ngự Trị Trong Tín"
+  "short": "Tội Lỗi Ngự Trị Trong Tín…"
  },
  {
   "id": "spurgeon/till_he_come",
@@ -841,7 +841,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Suy Ngẫm Về Vinh Quang Của"
+  "short": "Suy Ngẫm Về Vinh Quang Của…"
  },
  {
   "id": "bunyan/holy_war",
@@ -888,7 +888,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Ân Điển Và Bổn Phận Sống"
+  "short": "Ân Điển Và Bổn Phận Sống…"
  },
  {
   "id": "doddridge/rise",
@@ -903,7 +903,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sự Dấy Lên Và Tiến Triển"
+  "short": "Sự Dấy Lên Và Tiến Triển…"
  },
  {
   "id": "charnock/nat_regen",
@@ -918,7 +918,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Bàn Về Bản Chất Của Sự"
+  "short": "Bàn Về Bản Chất Của Sự…"
  },
  {
   "id": "charnock/efficient_regeneration",
@@ -933,7 +933,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Tác Nhân Hiệu Quả Của Sự"
+  "short": "Tác Nhân Hiệu Quả Của Sự…"
  },
  {
   "id": "charnock/reconcil",
@@ -963,7 +963,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Bài Giảng Thực Tiễn Về Sự"
+  "short": "Bài Giảng Thực Tiễn Về Sự…"
  },
  {
   "id": "owen/worship",
@@ -979,7 +979,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Hướng Dẫn Ngắn Gọn Về Sự"
+  "short": "Hướng Dẫn Ngắn Gọn Về Sự…"
  },
  {
   "id": "owen/schism",
@@ -1010,7 +1010,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Bàn Về Tình Yêu Thương Phúc"
+  "short": "Bàn Về Tình Yêu Thương Phúc…"
  },
  {
   "id": "owen/apostasy",
@@ -1025,7 +1025,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Bản Chất Và Nguyên Nhân Của"
+  "short": "Bản Chất Và Nguyên Nhân Của…"
  },
  {
   "id": "owen/display",
@@ -1055,7 +1055,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Bài Giảng Và Suy Ngẫm Về"
+  "short": "Bài Giảng Và Suy Ngẫm Về…"
  },
  {
   "id": "owen/psalm130",
@@ -1070,7 +1070,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Bài Giảng Giải Thực Tiễn Về"
+  "short": "Bài Giảng Giải Thực Tiễn Về…"
  },
  {
   "id": "owen/justice",
@@ -1085,7 +1085,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Luận Về Sự Công Bình Của"
+  "short": "Luận Về Sự Công Bình Của…"
  },
  {
   "id": "bunyan/badman",
@@ -1100,7 +1100,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Đời Và Cái Chết Của Ông"
+  "short": "Đời Và Cái Chết Của Ông…"
  },
  {
   "id": "schaff/person",
@@ -1235,7 +1235,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Phương Thuốc Quý Báu Chống Mưu"
+  "short": "Phương Thuốc Quý Báu Chống Mưu…"
  },
  {
   "id": "alexander_a/canon",
@@ -1250,7 +1250,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Chính Điển Kinh Thánh Cựu Ước"
+  "short": "Chính Điển Kinh Thánh Cựu Ước…"
  },
  {
   "id": "alleine_j/alarm",
@@ -1280,7 +1280,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Bổn Phận Của Mục Sư Và"
+  "short": "Bổn Phận Của Mục Sư Và…"
  },
  {
   "id": "edwards/will",
@@ -1371,7 +1371,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Thử Thách Và Thắng Lợi Của"
+  "short": "Thử Thách Và Thắng Lợi Của…"
  },
  {
   "id": "alleine_r/heartwork",
@@ -1446,7 +1446,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Giải Đáp Các Vấn Đề Lương"
+  "short": "Giải Đáp Các Vấn Đề Lương…"
  },
  {
   "id": "owen/eshcol",
@@ -1536,7 +1536,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Tuyển Tập Lời Hứa Của Phúc"
+  "short": "Tuyển Tập Lời Hứa Của Phúc…"
  },
  {
   "id": "anthology/lordsprayer-meditations",
@@ -1566,7 +1566,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Suy Ngẫm Và Cầu Nguyện Hằng"
+  "short": "Suy Ngẫm Và Cầu Nguyện Hằng…"
  },
  {
   "id": "boston/beauties",
@@ -1748,7 +1748,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Giáo Lý Xưng Công Chính Bởi"
+  "short": "Giáo Lý Xưng Công Chính Bởi…"
  },
  {
   "id": "kuyper/holyspirit",
@@ -1853,7 +1853,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Các Ngươi Sẽ Làm Những Việc"
+  "short": "Các Ngươi Sẽ Làm Những Việc…"
  },
  {
   "id": "kuyper/islam",
@@ -1883,7 +1883,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Sự Bất Công Của Buôn Bán"
+  "short": "Sự Bất Công Của Buôn Bán…"
  },
  {
   "id": "495-vinh-quang-cua-hoi-thanh-trong-ky-sau",
@@ -1898,7 +1898,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Vinh Quang Của Hội Thánh Trong"
+  "short": "Vinh Quang Của Hội Thánh Trong…"
  },
  {
   "id": "492-xem-xet-lai-nhung-cuoc-tranh-luan-trong-hoi-thanh",
@@ -1913,7 +1913,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Xem Xét Lại Những Tranh Luận"
+  "short": "Xem Xét Lại Những Tranh Luận…"
  },
  {
   "id": "194-ba-buc-thu-muc-vu",
@@ -1943,7 +1943,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Giảng Táng Lễ Và Hy"
+  "short": "Bài Giảng Táng Lễ Và Hy…"
  },
  {
   "id": "496-dac-quyen-cua-cac-thanh-do",
@@ -1973,7 +1973,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Ích Lợi Thực Hành Của Phép"
+  "short": "Ích Lợi Thực Hành Của Phép…"
  },
  {
   "id": "182-long-biet-on-la-bon-phan-can-thiet",
@@ -1988,7 +1988,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lòng Biết Ơn Là Bổn Phận"
+  "short": "Lòng Biết Ơn Là Bổn Phận…"
  },
  {
   "id": "486-cau-tra-loi-cua-nguoi-canh-ban-ve-dem-toi",
@@ -2003,7 +2003,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Câu Trả Lời Của Người Canh"
+  "short": "Câu Trả Lời Của Người Canh…"
  },
  {
   "id": "184-su-suy-xet-khong-the-do-luong-cua-duc-chua-troi",
@@ -2018,7 +2018,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Suy Xét Không Thể Đo"
+  "short": "Sự Suy Xét Không Thể Đo…"
  },
  {
   "id": "187-su-xung-cong-chinh-boi-chua-gie-xu-christ",
@@ -2034,7 +2034,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Xưng Công Chính Bởi Chúa"
+  "short": "Sự Xưng Công Chính Bởi Chúa…"
  },
  {
   "id": "178-bai-giang-tuong-nhiem-samuel-wilson",
@@ -2049,7 +2049,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Bài Giảng Tưởng Nhiệm Mục Sư"
+  "short": "Bài Giảng Tưởng Nhiệm Mục Sư…"
  },
  {
   "id": "177-loi-chung-de-lai-cua-samuel-rutherford",
@@ -2064,7 +2064,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Chứng Để Lại Của Samuel"
+  "short": "Lời Chứng Để Lại Của Samuel…"
  },
  {
   "id": "197-thu-tra-loi-giam-muc-luandonn",
@@ -2079,7 +2079,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Trả Lời Giám Mục Luân"
+  "short": "Thư Trả Lời Giám Mục Luân…"
  },
  {
   "id": "192-bai-giang-tu-biet-cuoi-cung-tai-tabernacle",
@@ -2094,7 +2094,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Giảng Từ Biệt Cuối Cùng"
+  "short": "Bài Giảng Từ Biệt Cuối Cùng…"
  },
  {
   "id": "190-ky-luat-trong-hoi-thanh-so-kai",
@@ -2109,7 +2109,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Kỷ Luật Trong Hội Thánh Sơ"
+  "short": "Kỷ Luật Trong Hội Thánh Sơ…"
  },
  {
   "id": "162-mac-lay-nguoi-moi-la-dau-hieu-cua-tin-huu-chan-that",
@@ -2124,7 +2124,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Mặc Lấy Người Mới Là Dấu"
+  "short": "Mặc Lấy Người Mới Là Dấu…"
  },
  {
   "id": "159-su-day-do-cua-su-ap-pau-ve-vai-tro-trong-hoi-thanh",
@@ -2139,7 +2139,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sứ Đồ Phao-lô Và Trật Tự"
+  "short": "Sứ Đồ Phao-lô Và Trật Tự…"
  },
  {
   "id": "176-bon-phan-cau-thay-cho-nguoi-khac",
@@ -2154,7 +2154,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bổn Phận Cầu Thay Cho Người"
+  "short": "Bổn Phận Cầu Thay Cho Người…"
  },
  {
   "id": "195-bieu-hien-cua-tinh-yeu-thuong-va-su-ton-trong",
@@ -2169,7 +2169,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Biểu Hiện Của Tình Yêu Thương"
+  "short": "Biểu Hiện Của Tình Yêu Thương…"
  },
  {
   "id": "158-chua-gie-xu-christ-la-su-nang-do-cho-nguoi-bi-thu-thach",
@@ -2186,7 +2186,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Chúa Giê-xu Christ Là Sự Nâng"
+  "short": "Chúa Giê-xu Christ Là Sự Nâng…"
  },
  {
   "id": "485-buon-ban-con-nguoi-va-luat-phap-chua",
@@ -2201,7 +2201,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Việc Buôn Bán Con Người Và"
+  "short": "Việc Buôn Bán Con Người Và…"
  },
  {
   "id": "483-bai-giang-tuong-nhiem-ba-katharine-henry",
@@ -2216,7 +2216,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Giảng Tưởng Nhiệm Bà Katharine"
+  "short": "Bài Giảng Tưởng Nhiệm Bà Katharine…"
  },
  {
   "id": "165-bon-phan-lon-la-long-bac-ai-co-doc",
@@ -2231,7 +2231,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bổn Phận Lớn Lập Lòng Bác"
+  "short": "Bổn Phận Lớn Lập Lòng Bác…"
  },
  {
   "id": "148-thu-ve-su-bien-doi-tam-linh",
@@ -2246,7 +2246,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Về Sự Biến Đổi Tâm"
+  "short": "Thư Về Sự Biến Đổi Tâm…"
  },
  {
   "id": "161-tinh-yeu-thuong-cua-nguoi-muc-su-bay-to-cho-bay-cuu",
@@ -2261,7 +2261,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Tình Yêu Thương Của Người Mục"
+  "short": "Tình Yêu Thương Của Người Mục…"
  },
  {
   "id": "199-nhan-xet-ve-cac-luan-thuyet-dao-duc-va-ton-giai-tu-nhien",
@@ -2276,7 +2276,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Nhận Xét Về Các Luận Thuyết"
+  "short": "Nhận Xét Về Các Luận Thuyết…"
  },
  {
   "id": "185-su-tinh-thuc-la-bon-phan-dac-biet-cua-tin-huu",
@@ -2291,7 +2291,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Tỉnh Thức Là Bổn Phận"
+  "short": "Sự Tỉnh Thức Là Bổn Phận…"
  },
  {
   "id": "156-su-cau-thay-la-bon-phan-cua-moi-tin-huu",
@@ -2306,7 +2306,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Sự Cầu Thay Là Bổn Phận"
+  "short": "Sự Cầu Thay Là Bổn Phận…"
  },
  {
   "id": "180-su-hinh-phat-doi-doi-trong-dia-nguc",
@@ -2321,7 +2321,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Hình Phạt Đời Đời Trong"
+  "short": "Sự Hình Phạt Đời Đời Trong…"
  },
  {
   "id": "191-bon-phan-lon-ve-ton-giai-gia-dinh",
@@ -2336,7 +2336,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bổn Phận Lớn Về Sùng Kính"
+  "short": "Bổn Phận Lớn Về Sùng Kính…"
  },
  {
   "id": "152-cac-thu-gui-tien-si-samuel-clarke-ve-chuyen-quyen-cua-duc-chua-troi",
@@ -2351,7 +2351,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Các Thư Gửi Tiến Sĩ Samuel"
+  "short": "Các Thư Gửi Tiến Sĩ Samuel…"
  },
  {
   "id": "157-cac-dau-hieu-cua-su-tai-sinh",
@@ -2366,7 +2366,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Các Dấu Hiệu Của Sự Tái"
+  "short": "Các Dấu Hiệu Của Sự Tái…"
  },
  {
   "id": "172-su-phan-xet-cong-chinh-cua-duc-chua-troi",
@@ -2381,7 +2381,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Sự Phán Xét Công Chính Của"
+  "short": "Sự Phán Xét Công Chính Của…"
  },
  {
   "id": "170-su-phuoc-hanh-vinh-cuu-cua-nguoi-cong-chinh",
@@ -2396,7 +2396,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Phước Hạnh Vĩnh Cửu Của"
+  "short": "Sự Phước Hạnh Vĩnh Cửu Của…"
  },
  {
   "id": "154-toi-nghiem-trong-cua-su-say-sua",
@@ -2411,7 +2411,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Tội Nghiêm Trọng Của Sự Say"
+  "short": "Tội Nghiêm Trọng Của Sự Say…"
  },
  {
   "id": "151-su-tiet-che-dao-duc-va-trung-dung-trong-hoi-thanh",
@@ -2426,7 +2426,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Tiết Chế Đạo Đức Và"
+  "short": "Sự Tiết Chế Đạo Đức Và…"
  },
  {
   "id": "188-cuoc-chay-dua-cho-su-song-doi-doi",
@@ -2441,7 +2441,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Cuộc Chạy Đua Cho Sự Sống"
+  "short": "Cuộc Chạy Đua Cho Sự Sống…"
  },
  {
   "id": "174-nhung-ly-do-de-giu-vung-phuc-am-thuan-tuy",
@@ -2457,7 +2457,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Những Lý Do Để Giữ Vung"
+  "short": "Những Lý Do Để Giữ Vung…"
  },
  {
   "id": "489-ban-tanh-con-nguoi-trong-bon-trang-thai",
@@ -2472,7 +2472,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bản Tánh Con Người Trong Bốn"
+  "short": "Bản Tánh Con Người Trong Bốn…"
  },
  {
   "id": "153-loi-ich-cua-su-kinh-doanh-xuan-tre",
@@ -2488,7 +2488,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lợi Ích Của Sự Kính Sợ"
+  "short": "Lợi Ích Của Sự Kính Sợ…"
  },
  {
   "id": "164-su-phuoc-hanh-cua-cac-nha-cam-quyen-kinh-so-duc-chua-troi",
@@ -2503,7 +2503,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Sự Phước Hạnh Của Các Nhà"
+  "short": "Sự Phước Hạnh Của Các Nhà…"
  },
  {
   "id": "175-muu-ke-cua-ma-quy-va-cach-de-khang",
@@ -2518,7 +2518,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Mưu Kế Của Ma Quỷ Và"
+  "short": "Mưu Kế Của Ma Quỷ Và…"
  },
  {
   "id": "167-chua-gie-xu-christ-ngu-tren-may-troi-lai-trong-su-phan-xet",
@@ -2533,7 +2533,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Chúa Giê-xu Christ Ngự Trên Mây"
+  "short": "Chúa Giê-xu Christ Ngự Trên Mây…"
  },
  {
   "id": "150-toi-nghiem-trong-cua-su-nguyen-ruc-va-the-thot",
@@ -2548,7 +2548,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Tội Nghiêm Trọng Của Sự Nguyền"
+  "short": "Tội Nghiêm Trọng Của Sự Nguyền…"
  },
  {
   "id": "147-loi-moi-tha-thiet-gui-con-dan-hoi-thanh",
@@ -2563,7 +2563,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Mời Tha Thiết Gửi Con"
+  "short": "Lời Mời Tha Thiết Gửi Con…"
  },
  {
   "id": "138-su-an-ui-thuoc-linh",
@@ -2579,7 +2579,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự An Ủi Thuộc Linh Trong"
+  "short": "Sự An Ủi Thuộc Linh Trong…"
  },
  {
   "id": "131-loi-canh-bao-chan-that-25-ly-do",
@@ -2594,7 +2594,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Cảnh Báo Chân Thật: 25"
+  "short": "Lời Cảnh Báo Chân Thật: 25…"
  },
  {
   "id": "132-su-ky-niem-chua-giang-sinh-bon-phan-cua-moi-tin-huu",
@@ -2609,7 +2609,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Kỷ Niệm Chúa Giáng Sinh"
+  "short": "Sự Kỷ Niệm Chúa Giáng Sinh…"
  },
  {
   "id": "133-huong-dan-cho-nguoi-xet-minh-co-that-long-yeu-duc-chua-troi",
@@ -2624,7 +2624,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Hướng Dẫn Cho Người Xét Mình"
+  "short": "Hướng Dẫn Cho Người Xét Mình…"
  },
  {
   "id": "141-su-tien-trien-cua-toi-loi-va-hanh-trinh-cua-su-bat-khiet",
@@ -2639,7 +2639,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Tiến Triển Của Tội Lỗi"
+  "short": "Sự Tiến Triển Của Tội Lỗi…"
  },
  {
   "id": "145-cac-bai-cau-nguyen-trong-nhieu-dip-khac-nhau",
@@ -2654,7 +2654,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Các Bài Cầu Nguyện Trong Nhiều"
+  "short": "Các Bài Cầu Nguyện Trong Nhiều…"
  },
  {
   "id": "002-the-masters-touch-bonar",
@@ -2684,7 +2684,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Phản Bác Quan Điểm Chính Trị"
+  "short": "Phản Bác Quan Điểm Chính Trị…"
  },
  {
   "id": "129-chuc-vu-hoa-giai-khuynh-huong-tot-lanh-cua-phuc-am",
@@ -2700,7 +2700,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Chức Vụ Hòa Giải: Khuynh Hướng"
+  "short": "Chức Vụ Hòa Giải: Khuynh Hướng…"
  },
  {
   "id": "126-nhung-suy-tuong-ve-su-hiep-mot-trong-hoi-thanh",
@@ -2715,7 +2715,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Những Suy Tưởng Về Sự Hiệp"
+  "short": "Những Suy Tưởng Về Sự Hiệp…"
  },
  {
   "id": "127-cac-nguyen-tac-cot-loi-cua-duc-tin",
@@ -2730,7 +2730,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Các Nguyên Tắc Cốt Lõi Của"
+  "short": "Các Nguyên Tắc Cốt Lõi Của…"
  },
  {
   "id": "128-phan-quyet-va-loi-khuyen-cua-hoi-dong-muc-su-worcestershire",
@@ -2745,7 +2745,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Phán Quyết Và Lời Khuyên Của"
+  "short": "Phán Quyết Và Lời Khuyên Của…"
  },
  {
   "id": "124-su-mang-phuc-am-va-chung-nhan-cua-duc-thanh-linh",
@@ -2761,7 +2761,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Sứ Mạng Phúc Âm Và Sự"
+  "short": "Sứ Mạng Phúc Âm Và Sự…"
  },
  {
   "id": "120-thu-tranh-luan-gui-cong-tuoc-zinzendorf",
@@ -2776,7 +2776,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Tranh Luận Gửi Công Tước"
+  "short": "Thư Tranh Luận Gửi Công Tước…"
  },
  {
   "id": "118-thu-gui-muc-su-thomas-church",
@@ -2792,7 +2792,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Gửi Mục Sư Thomas Church"
+  "short": "Thư Gửi Mục Sư Thomas Church…"
  },
  {
   "author": "John Howe",
@@ -2913,7 +2913,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Của Mục Sư Luân-đôn Gửi"
+  "short": "Thư Của Mục Sư Luân-đôn Gửi…"
  },
  {
   "author": "Andrew Fuller",
@@ -2973,7 +2973,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Đơn Giản trong Việc Rao"
+  "short": "Sự Đơn Giản trong Việc Rao…"
  },
  {
   "id": "011-a-letter-to-the-bishop-of-london-whitefield",
@@ -3003,7 +3003,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Cột Kỷ Niệm Người Vợ Yêu"
+  "short": "Cột Kỷ Niệm Người Vợ Yêu…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-barren-fig-tree-a-s_whitefield-george_1787",
@@ -3049,7 +3049,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Tựa Sách Bạn Đồng Hành"
+  "short": "Lời Tựa Sách Bạn Đồng Hành…"
  },
  {
   "id": "293-bai-giang-nhan-dip-qua-doi-cua-benjamin-seward-esq",
@@ -3064,7 +3064,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Bài Giảng Nhân Dịp Qua Đời"
+  "short": "Bài Giảng Nhân Dịp Qua Đời…"
  },
  {
   "author": "John Gill",
@@ -3110,7 +3110,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Những Lời Nói Thánh Khiết Và"
+  "short": "Những Lời Nói Thánh Khiết Và…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-cry-from-the-dead-fro_rutherford-samuel_1765",
@@ -3155,7 +3155,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Phao-lô Về Việc Phụ Nữ Phát"
+  "short": "Phao-lô Về Việc Phụ Nữ Phát…"
  },
  {
   "id": "arch/beautiful-robe-plumer-myers",
@@ -3186,7 +3186,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Quảng Cáo Và Thư Bethnal"
+  "short": "Lời Quảng Cáo Và Thư Bethnal…"
  },
  {
   "id": "arch/rutherford-samuel-the-efficacy-of-the-sacraments",
@@ -3231,7 +3231,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Thông Báo Về Phần Thứ"
+  "short": "Lời Thông Báo Về Phần Thứ…"
  },
  {
   "id": "017-mr-matthew-pool-his-late-sayings-poole",
@@ -3246,7 +3246,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Những Lời Dạy Cuối Cùng Của"
+  "short": "Những Lời Dạy Cuối Cùng Của…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-letter-from-the-late-r_hervey-james_1763",
@@ -3306,7 +3306,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Chỉ Dẫn Ngắn Cho Người"
+  "short": "Lời Chỉ Dẫn Ngắn Cho Người…"
  },
  {
   "id": "arch/bim_eighteenth-century_an-expostulatory-letter-_whitefield-george_1753_0",
@@ -3321,7 +3321,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Khuyên Bảo Gửi Bá Tước"
+  "short": "Thư Khuyên Bảo Gửi Bá Tước…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-seamans-monitor-ex_flavel-john_1799",
@@ -3336,7 +3336,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Cảnh Tỉnh Cho Người Đi"
+  "short": "Lời Cảnh Tỉnh Cho Người Đi…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-subject-and-temper-o_newton-john_1780",
@@ -3367,7 +3367,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Hai Bài Giảng: Sự Vận Dụng"
+  "short": "Hai Bài Giảng: Sự Vận Dụng…"
  },
  {
   "id": "arch/angels-and-men-plumer-myers",
@@ -3397,7 +3397,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Những Dấu Hiệu Phân Biệt của"
+  "short": "Những Dấu Hiệu Phân Biệt của…"
  },
  {
   "id": "037-a-letter-from-the-late-rev-mr-h-hervey",
@@ -3412,7 +3412,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Của Mục Sư H— Gửi"
+  "short": "Thư Của Mục Sư H— Gửi…"
  },
  {
   "id": "051-the-subject-and-temper-of-the-gospel-ministry-newton",
@@ -3428,7 +3428,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Chủ Đề Và Tâm Tình Của"
+  "short": "Chủ Đề Và Tâm Tình Của…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-political-sentiments_bunyan-john_1798",
@@ -3443,7 +3443,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Tư Tưởng Chính Trị Của John"
+  "short": "Tư Tưởng Chính Trị Của John…"
  },
  {
   "id": "052-a-letter-from-georgia-whitefield",
@@ -3458,7 +3458,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sai Lầm Căn Bản Của Sách"
+  "short": "Sai Lầm Căn Bản Của Sách…"
  },
  {
   "id": "049-the-seamans-monitor-flavel",
@@ -3473,7 +3473,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Cảnh Tỉnh Cho Người Thủy"
+  "short": "Lời Cảnh Tỉnh Cho Người Thủy…"
  },
  {
   "author": "Benjamin Keach",
@@ -3503,7 +3503,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Hình Thành Kinh Điển Tân"
+  "short": "Sự Hình Thành Kinh Điển Tân…"
  },
  {
   "id": "044-short-instructions-for-the-sick-baxter",
@@ -3518,7 +3518,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Hướng Dẫn Ngắn Dành Cho"
+  "short": "Lời Hướng Dẫn Ngắn Dành Cho…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_directions-to-justices-o_baxter-richard_1657",
@@ -3563,7 +3563,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Chúa là Sự Công Chính của"
+  "short": "Chúa là Sự Công Chính của…"
  },
  {
   "id": "1000-474-supplement-to-the-reader-and-prison-meditations-bunyan",
@@ -3579,7 +3579,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Lời Gửi Độc Giả Và Suy"
+  "short": "Lời Gửi Độc Giả Và Suy…"
  },
  {
   "id": "048-directions-to-justices-of-peace-baxter",
@@ -3594,7 +3594,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Chỉ Dẫn Cho Các Quan"
+  "short": "Lời Chỉ Dẫn Cho Các Quan…"
  },
  {
   "id": "1000-489-supplement-letter-on-candour-and-hymn-newton",
@@ -3610,7 +3610,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Về Sự Thẳng Thắn Và"
+  "short": "Thư Về Sự Thẳng Thắn Và…"
  },
  {
   "id": "arch/dabneys-last-lecture-on-stonewall-jackson-davidson-magazine-1899",
@@ -3640,7 +3640,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Quan Điểm Của Baxter Về Các"
+  "short": "Quan Điểm Của Baxter Về Các…"
  },
  {
   "id": "025-the-upright-christian-discovered-bates",
@@ -3655,7 +3655,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Người Cơ Đốc Ngay Thẳng Được"
+  "short": "Người Cơ Đốc Ngay Thẳng Được…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-communion-mornings-co_whitefield-george_1760",
@@ -3685,7 +3685,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Cách Richard Baxter Hiểu Các Điều"
+  "short": "Cách Richard Baxter Hiểu Các Điều…"
  },
  {
   "id": "059-an-answer-to-the-first-part-whitefield",
@@ -3715,7 +3715,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Giảng Trong Lễ Phong Chức"
+  "short": "Bài Giảng Trong Lễ Phong Chức…"
  },
  {
   "id": "arch/nomorecryingaddr00ryle",
@@ -3746,7 +3746,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Giáo Lý Vấn Đáp Đơn Giản"
+  "short": "Giáo Lý Vấn Đáp Đơn Giản…"
  },
  {
   "id": "071-a-catechism-for-children-henry",
@@ -3762,7 +3762,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Giáo Lý Vấn Đáp Cho Trẻ"
+  "short": "Giáo Lý Vấn Đáp Cho Trẻ…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-sermon-preached-at-pl_watson-thomas-jun_1785",
@@ -3792,7 +3792,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Luận Chứng Tiên Nghiệm Về Sự"
+  "short": "Luận Chứng Tiên Nghiệm Về Sự…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-catechism-for-children_henry-matthew_1747",
@@ -3808,7 +3808,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Một Giáo Lý Vấn Đáp Đơn"
+  "short": "Một Giáo Lý Vấn Đáp Đơn…"
  },
  {
   "id": "arch/bim_eighteenth-century_directions-how-to-hear-s_whitefield-george_1739",
@@ -3838,7 +3838,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Quan Điểm Chính Trị Của John"
+  "short": "Quan Điểm Chính Trị Của John…"
  },
  {
   "id": "100-character-a-discourse-to-young-men-edwards",
@@ -3853,7 +3853,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Nhân Cách: Bài Giảng Cho Thanh"
+  "short": "Nhân Cách: Bài Giảng Cho Thanh…"
  },
  {
   "id": "arch/bim_eighteenth-century_jepthahs-vow-fulfilled-_romaine-william_1747",
@@ -3868,7 +3868,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Khấn Giép-thê Và Con Gái"
+  "short": "Lời Khấn Giép-thê Và Con Gái…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_unto-the-questions-sent-_owen-john_1659",
@@ -3899,7 +3899,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Trả Lời Các Câu Hỏi Gửi"
+  "short": "Trả Lời Các Câu Hỏi Gửi…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-short-address-to-perso_whitefield-george_1756_0",
@@ -3914,7 +3914,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Ngỏ Ngắn Gửi Mọi Người"
+  "short": "Lời Ngỏ Ngắn Gửi Mọi Người…"
  },
  {
   "id": "084-address-at-the-funeral-of-general-maxcy-gregg-palmer",
@@ -3929,7 +3929,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Diễn Văn Tại Tang Lễ"
+  "short": "Bài Diễn Văn Tại Tang Lễ…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-brief-account-of-the-o_whitefield-george_1748",
@@ -3944,7 +3944,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Tường Thuật Ngắn Gọn Về Duyên"
+  "short": "Tường Thuật Ngắn Gọn Về Duyên…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-letter-to-the-reverend_whitefield-george_1744_0",
@@ -3975,7 +3975,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Cách Nghe Bài Giảng Cho Được"
+  "short": "Cách Nghe Bài Giảng Cho Được…"
  },
  {
   "id": "arch/howtobringupchil08plum",
@@ -4021,7 +4021,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Phụ Lục Cho Lời Đáp Giám"
+  "short": "Phụ Lục Cho Lời Đáp Giám…"
  },
  {
   "id": "089-a-brief-account-of-the-tryal-at-gloucester-whitefield",
@@ -4051,7 +4051,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Mặt Trời Mọc Trên Thế Gian"
+  "short": "Mặt Trời Mọc Trên Thế Gian…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-case-of-the-protesta_howe-john_1689",
@@ -4096,7 +4096,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Nhận Định Và Lời Khuyên Của"
+  "short": "Nhận Định Và Lời Khuyên Của…"
  },
  {
   "id": "094-the-case-of-the-protestant-dissenters",
@@ -4111,7 +4111,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Vụ Kiện Của Người Tin Lành"
+  "short": "Vụ Kiện Của Người Tin Lành…"
  },
  {
   "id": "arch/the-sun-rising-upon-a-dark-world-newton",
@@ -4126,7 +4126,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Mặt Trời Mọc Trên Thế Giới"
+  "short": "Mặt Trời Mọc Trên Thế Giới…"
  },
  {
   "id": "1000-224-short-remarks-annexed-to-justification-by-faith-alone",
@@ -4142,7 +4142,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Nhận Xét Ngắn Về Các Nguyên"
+  "short": "Nhận Xét Ngắn Về Các Nguyên…"
  },
  {
   "id": "arch/bim_eighteenth-century_an-exhortation-at-a-comm_rutherford-samuel_1746",
@@ -4232,7 +4232,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Cầu Thay: Bổn Phận Của Mọi"
+  "short": "Cầu Thay: Bổn Phận Của Mọi…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-cross-of-christ-the_hervey-james_1760",
@@ -4247,7 +4247,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thập Tự Giá Đấng Christ, Vinh"
+  "short": "Thập Tự Giá Đấng Christ, Vinh…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_some-considerations-abou_owen-john_1680",
@@ -4262,7 +4262,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Một Số Suy Xét Về Hiệp"
+  "short": "Một Số Suy Xét Về Hiệp…"
  },
  {
   "author": "Thomas Watson",
@@ -4369,7 +4369,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Khuyên Nhủ Tại Bàn Tiệc"
+  "short": "Lời Khuyên Nhủ Tại Bàn Tiệc…"
  },
  {
   "id": "list-749",
@@ -4414,7 +4414,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Phải Làm Gì Sau Khi Xét"
+  "short": "Phải Làm Gì Sau Khi Xét…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-heinous-sin-of-drunk_whitefield-george_1739",
@@ -4489,7 +4489,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Luận Thuyết về Giáo Dục Tôn"
+  "short": "Luận Thuyết về Giáo Dục Tôn…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-heinous-sin-of-profa_whitefield-george_1738",
@@ -4504,7 +4504,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Tội Ghê Tởm Của Việc Chửi"
+  "short": "Tội Ghê Tởm Của Việc Chửi…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-great-duty-of-charit_whitefield-george_1740",
@@ -4519,7 +4519,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bổn Phận Lớn Lao Của Lòng"
+  "short": "Bổn Phận Lớn Lao Của Lòng…"
  },
  {
   "id": "249-su-nguy-hiem-cua-con-nguoi-do-toi-loi-va-phuong-thuoc-cua-nguoi-trong",
@@ -4534,7 +4534,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Nguy Hiểm của Con Người"
+  "short": "Sự Nguy Hiểm của Con Người…"
  },
  {
   "id": "arch/bim_eighteenth-century_prayers-on-several-occas_whitefield-george_1739",
@@ -4549,7 +4549,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Những Lời Cầu Nguyện Cho Nhiều"
+  "short": "Những Lời Cầu Nguyện Cho Nhiều…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-dissenters-reasons-_gill-john_1795",
@@ -4579,7 +4579,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Giảng Tang Lễ Cho Tiến"
+  "short": "Bài Giảng Tang Lễ Cho Tiến…"
  },
  {
   "id": "266-su-can-thiet-cua-viec-tiep-nhan-dang-christ-trong-long-chung-ta",
@@ -4594,7 +4594,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Cần Thiết của Việc Tiếp"
+  "short": "Sự Cần Thiết của Việc Tiếp…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-benefits-of-an-early_whitefield-george_1737_0",
@@ -4609,7 +4609,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Những Lợi Ích Của Một Sự"
+  "short": "Những Lợi Ích Của Một Sự…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-modest-apology-for-the_romaine-william_1753",
@@ -4655,7 +4655,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Chúa Giê-xu Christ, Đấng Nâng Đỡ"
+  "short": "Chúa Giê-xu Christ, Đấng Nâng Đỡ…"
  },
  {
   "id": "arch/cihm_63395",
@@ -4776,7 +4776,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Trái Tim Yêu Thương Và Mái"
+  "short": "Trái Tim Yêu Thương Và Mái…"
  },
  {
   "id": "arch/a-discourse-delivered-at-the-funeral-of-mrs.-martha-rice-hodge",
@@ -4806,7 +4806,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Nồi Nung Tan Vỡ và Thánh"
+  "short": "Nồi Nung Tan Vỡ và Thánh…"
  },
  {
   "id": "235-bai-giang-ve-di-cung-duc-chua-troi-ban-wales-whitefield-1777",
@@ -4866,7 +4866,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Đấng Christ, Đấng Cứu Thế Của"
+  "short": "Đấng Christ, Đấng Cứu Thế Của…"
  },
  {
   "id": "1000-110-the-present-day-conception-of-evolution-warfield",
@@ -4882,7 +4882,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Quan Niệm Hiện Nay Về Thuyết"
+  "short": "Quan Niệm Hiện Nay Về Thuyết…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-best-security-agains_boston-thomas_1764",
@@ -5035,7 +5035,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Hạnh Phúc Của Các Vua Được"
+  "short": "Hạnh Phúc Của Các Vua Được…"
  },
  {
   "id": "237-cai-nhin-tom-luoc-ve-giao-hoang-che-burroughs-1716",
@@ -5095,7 +5095,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Ân Điển và Bổn Phận của"
+  "short": "Ân Điển và Bổn Phận của…"
  },
  {
   "id": "231-bai-giang-hay-huong-long-ve-nhung-su-tren-troi-burroughs-1715",
@@ -5141,7 +5141,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Nguy Hiểm Và Bổn Phận Của"
+  "short": "Nguy Hiểm Và Bổn Phận Của…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-saints-privilege-_sibbes-richard_1641",
@@ -5171,7 +5171,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Những Cuộc Rước Kiệu Mùa Chay"
+  "short": "Những Cuộc Rước Kiệu Mùa Chay…"
  },
  {
   "id": "285-cau-hoi-lon-da-duoc-giai-dap",
@@ -5186,7 +5186,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Câu Hỏi Lớn Đã Được Giải"
+  "short": "Câu Hỏi Lớn Đã Được Giải…"
  },
  {
   "id": "265-tiec-cuoi-tai-ca-na-whitefield-1740",
@@ -5232,7 +5232,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Kinh Thánh Dưới Ánh Sáng của"
+  "short": "Kinh Thánh Dưới Ánh Sáng của…"
  },
  {
   "id": "1000-123-christ-the-best-husband-whitefield",
@@ -5248,7 +5248,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Đấng Christ Là Người Chồng Tốt"
+  "short": "Đấng Christ Là Người Chồng Tốt…"
  },
  {
   "id": "arch/whattimeisitbein00ryle",
@@ -5295,7 +5295,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Con Rắn Lừa Dối Ê-va Được"
+  "short": "Con Rắn Lừa Dối Ê-va Được…"
  },
  {
   "id": "295-khong-co-su-xung-cong-chinh-boi-luat-tu-nhien",
@@ -5310,7 +5310,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Không Có Sự Xưng Công Chính"
+  "short": "Không Có Sự Xưng Công Chính…"
  },
  {
   "id": "flavel/life",
@@ -5340,7 +5340,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bản Chất Và Sự Cần Thiết"
+  "short": "Bản Chất Và Sự Cần Thiết…"
  },
  {
   "author": "Benjamin B. Warfield",
@@ -5355,7 +5355,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Những Đoạn Khó Trong Chương Đầu"
+  "short": "Những Đoạn Khó Trong Chương Đầu…"
  },
  {
   "id": "263-tam-khan-liem-cho-giao-hoang-che-baxter-1657",
@@ -5386,7 +5386,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sơ Lược Về Chủ Nghĩa Giáo"
+  "short": "Sơ Lược Về Chủ Nghĩa Giáo…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-duty-of-a-gospel-min_whitefield-george_1741",
@@ -5417,7 +5417,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Bài Giảng Về Cái Chết Của"
+  "short": "Bài Giảng Về Cái Chết Của…"
  },
  {
   "id": "1000-141-the-christian-soldier-dabney",
@@ -5448,7 +5448,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Kêu Gọi Đích Thân Dấn"
+  "short": "Lời Kêu Gọi Đích Thân Dấn…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-discourse-on-the-benef_romaine-william_1759",
@@ -5508,7 +5508,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Điên Rồ và Nguy Hiểm"
+  "short": "Sự Điên Rồ và Nguy Hiểm…"
  },
  {
   "id": "1000-158-the-blessedness-of-the-dead-fuller",
@@ -5524,7 +5524,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Phước Hạnh Của Người Chết Trong"
+  "short": "Phước Hạnh Của Người Chết Trong…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-constraining-influen_newton-john_1800",
@@ -5554,7 +5554,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Đài Kỷ Niệm Ca Ngợi Lòng"
+  "short": "Đài Kỷ Niệm Ca Ngợi Lòng…"
  },
  {
   "id": "304-nhieu-nguoi-duoc-xung-cong-chinh-boi-su-vang-phuc-cua-mot-nguoi",
@@ -5569,7 +5569,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Nhiều Người Được Xưng Công Chính"
+  "short": "Nhiều Người Được Xưng Công Chính…"
  },
  {
   "id": "bunyan/miscellaneous",
@@ -5615,7 +5615,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Giảng Ngày Kiêng Ăn Của"
+  "short": "Bài Giảng Ngày Kiêng Ăn Của…"
  },
  {
   "id": "arch/spiritualsongsfo00ryle",
@@ -5661,7 +5661,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bản Chất Và Sự Cần Thiết"
+  "short": "Bản Chất Và Sự Cần Thiết…"
  },
  {
   "id": "1000-155-the-articles-of-the-faith-keach",
@@ -5708,7 +5708,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Ngự Trong Của Đức Thánh"
+  "short": "Sự Ngự Trong Của Đức Thánh…"
  },
  {
   "id": "pink/godhood",
@@ -5783,7 +5783,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Giảng Nhân Cái Chết Của"
+  "short": "Bài Giảng Nhân Cái Chết Của…"
  },
  {
   "id": "1000-192-a-sermon-preached-in-st-pauls-deptford-newton",
@@ -5799,7 +5799,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Bài Giảng Tưởng Niệm Mục Sư"
+  "short": "Bài Giảng Tưởng Niệm Mục Sư…"
  },
  {
   "id": "1000-146-false-doctrines-and-false-teachers-plumer",
@@ -5815,7 +5815,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Giáo Lý Sai Lầm Và Giáo"
+  "short": "Giáo Lý Sai Lầm Và Giáo…"
  },
  {
   "id": "307-su-thich-hop-cua-van-vat-hay-cac-thuoc-tinh-cua-duc-chua-troi",
@@ -5830,7 +5830,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Thích Hợp Của Vạn Vật,"
+  "short": "Sự Thích Hợp Của Vạn Vật,…"
  },
  {
   "id": "1000-137-a-sermon-preached-at-black-friars-burroughs",
@@ -5846,7 +5846,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Đặt Tình Cảm Vào Những Sự"
+  "short": "Đặt Tình Cảm Vào Những Sự…"
  },
  {
   "id": "1000-157-a-sermon-preached-july-2-watson",
@@ -5878,7 +5878,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Xưng Công Chính Bởi Đức"
+  "short": "Sự Xưng Công Chính Bởi Đức…"
  },
  {
   "id": "1000-134-a-sermon-preached-charnock",
@@ -5895,7 +5895,7 @@
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Đức Chúa Trời Trong Đấng Christ"
+  "short": "Đức Chúa Trời Trong Đấng Christ…"
  },
  {
   "id": "1000-151-a-post-script-to-the-late-letter-howe",
@@ -5911,7 +5911,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Hậu Ký Về Sự Tiền Tri"
+  "short": "Hậu Ký Về Sự Tiền Tri…"
  },
  {
   "id": "arch/bim_eighteenth-century_christ-the-physician-of-_whitefield-george_1750",
@@ -5943,7 +5943,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Công Chính Được Kể Không"
+  "short": "Sự Công Chính Được Kể Không…"
  },
  {
   "id": "pink/tithing",
@@ -5974,7 +5974,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tấm Vải Liệm Cho Chủ Nghĩa"
+  "short": "Tấm Vải Liệm Cho Chủ Nghĩa…"
  },
  {
   "id": "1000-132-christ-the-only-preservative-against-a-reprobate-spirit-whitefield",
@@ -5990,7 +5990,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Christ, Đấng Bảo Vệ Khỏi Tâm"
+  "short": "Christ, Đấng Bảo Vệ Khỏi Tâm…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-law-in-the-hand-of-c_gill-john_1761",
@@ -6111,7 +6111,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Tường Thuật về Công Việc của"
+  "short": "Tường Thuật về Công Việc của…"
  },
  {
   "author": "John Bunyan",
@@ -6157,7 +6157,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sợi Dây Xích Vàng Của Người"
+  "short": "Sợi Dây Xích Vàng Của Người…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-doctrine-of-predesti_gill-john_1752",
@@ -6188,7 +6188,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bổn Phận Tỉnh Thức Được Thúc"
+  "short": "Bổn Phận Tỉnh Thức Được Thúc…"
  },
  {
   "id": "200-thoughts-upon-the-african-slave-trade-newton",
@@ -6204,7 +6204,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Giáo Lý Kinh Thánh Về Bí"
+  "short": "Giáo Lý Kinh Thánh Về Bí…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-faithful-minister-of_gill-john_1767",
@@ -6299,7 +6299,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tội Lỗi Và Nguy Hiểm Của"
+  "short": "Tội Lỗi Và Nguy Hiểm Của…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_instruction-for-the-igno_bunyan-john_1675",
@@ -6330,7 +6330,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Hãy Buôn Bán Cho Đến Khi"
+  "short": "Hãy Buôn Bán Cho Đến Khi…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-sure-performance-of-_gill-john_1755",
@@ -6393,7 +6393,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Rúng Động Và Sự Cất"
+  "short": "Sự Rúng Động Và Sự Cất…"
  },
  {
   "id": "arch/dissertationonim00hodg",
@@ -6408,7 +6408,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tầm Quan Trọng Của Văn Học"
+  "short": "Tầm Quan Trọng Của Văn Học…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-quiet-and-easy-passa_gill-john_1760",
@@ -6423,7 +6423,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Cuộc Vượt Qua Bình An Của"
+  "short": "Cuộc Vượt Qua Bình An Của…"
  },
  {
   "author": "John Bunyan",
@@ -6606,7 +6606,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Tha Thứ Tội Lỗi Như"
+  "short": "Sự Tha Thứ Tội Lỗi Như…"
  },
  {
   "id": "1000-225-evangelical-worship-is-spiritual-worship-poole",
@@ -6623,7 +6623,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Thờ Phượng Tin Lành Là Thờ"
+  "short": "Thờ Phượng Tin Lành Là Thờ…"
  },
  {
   "id": "arch/bim_eighteenth-century_remarks-on-lord-bolingbr_hervey-james_1752",
@@ -6729,7 +6729,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "John Humphrey Noyes và Những \"Người"
+  "short": "John Humphrey Noyes và Những \"Người…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_indvlgence-and-toleratio_owen-john_1667",
@@ -6759,7 +6759,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Jacob Behmen — Một Lời Ngợi"
+  "short": "Jacob Behmen — Một Lời Ngợi…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-sermon-preachd-at-che_henry-matthew_1726",
@@ -6789,7 +6789,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Đức Chúa Trời Đối Đãi Với"
+  "short": "Đức Chúa Trời Đối Đãi Với…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-brief-and-impartial-ac_owen-john-dd_1690",
@@ -6820,7 +6820,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Hướng Dẫn Cho Người Đi Biển"
+  "short": "Hướng Dẫn Cho Người Đi Biển…"
  },
  {
   "id": "1000-264-the-best-wisdom-newton",
@@ -6897,7 +6897,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Lời Đáp Cho Phụ Lục Của"
+  "short": "Lời Đáp Cho Phụ Lục Của…"
  },
  {
   "id": "1000-337-the-ordoure-of-excommunicatioun-knox",
@@ -6913,7 +6913,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Trật Tự Khai Trừ Và Ăn"
+  "short": "Trật Tự Khai Trừ Và Ăn…"
  },
  {
   "author": "Andrew Fuller",
@@ -6929,7 +6929,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Nhận Xét Về Ấn Phẩm Của"
+  "short": "Nhận Xét Về Ấn Phẩm Của…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-blessed-estate-_manton-thomas_1656",
@@ -6944,7 +6944,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Phước Hạnh Của Kẻ Chết Trong"
+  "short": "Phước Hạnh Của Kẻ Chết Trong…"
  },
  {
   "author": "John Gill",
@@ -6959,7 +6959,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "CHỐNG LỄ BÁP-TÊM TRẺ SƠ SINH;"
+  "short": "CHỐNG LỄ BÁP-TÊM TRẺ SƠ SINH;…"
  },
  {
   "id": "1000-333-the-spirituall-mans-aime-sibbes",
@@ -7020,7 +7020,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Trông Cậy Và Sự Kính"
+  "short": "Sự Trông Cậy Và Sự Kính…"
  },
  {
   "id": "1000-391-the-glorious-kingdom-of-christ-baxter",
@@ -7036,7 +7036,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Vương Quốc Vinh Hiển Của Đấng"
+  "short": "Vương Quốc Vinh Hiển Của Đấng…"
  },
  {
   "author": "Charles Hodge",
@@ -7068,7 +7068,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Các Châm Ngôn Về Sự Xưng"
+  "short": "Các Châm Ngôn Về Sự Xưng…"
  },
  {
   "id": "1000-380-a-caveat-against-unsound-doctrines-toplady",
@@ -7084,7 +7084,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cảnh Báo Chống Giáo Lý Không"
+  "short": "Cảnh Báo Chống Giáo Lý Không…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-case-of-protestants-_clarkson-david_1689",
@@ -7099,7 +7099,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Trường Hợp Của Người Tin Lành"
+  "short": "Trường Hợp Của Người Tin Lành…"
  },
  {
   "id": "arch-godly-letter-knox-1581",
@@ -7129,7 +7129,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Bền Đỗ Cuối Cùng Của"
+  "short": "Sự Bền Đỗ Cuối Cùng Của…"
  },
  {
   "id": "630",
@@ -7175,7 +7175,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Huyền Nhiệm Của Đấng Christ Trong"
+  "short": "Huyền Nhiệm Của Đấng Christ Trong…"
  },
  {
   "id": "644",
@@ -7283,7 +7283,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Bài Đánh Giá Các Chú Thích"
+  "short": "Bài Đánh Giá Các Chú Thích…"
  },
  {
   "author": "George Whitefield",
@@ -7299,7 +7299,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Hai Bài Giảng Về Chiên Con"
+  "short": "Hai Bài Giảng Về Chiên Con…"
  },
  {
   "author": "Benjamin Breckinridge Warfield",
@@ -7316,7 +7316,7 @@
   ],
   "level": 1,
   "length": "vua",
-  "short": "Sự Phát Triển của Giáo Lý"
+  "short": "Sự Phát Triển của Giáo Lý…"
  },
  {
   "id": "640-trich-yeu-cham-ngon-baxter-xung-cong-chinh",
@@ -7332,7 +7332,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Trích Yếu Châm Ngôn Về Sự"
+  "short": "Trích Yếu Châm Ngôn Về Sự…"
  },
  {
   "author": "William S. Plumer",
@@ -7409,7 +7409,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Pháo Đài Cho Người Bị Hoạn"
+  "short": "Pháo Đài Cho Người Bị Hoạn…"
  },
  {
   "id": "633-bai-hoc-lich-su-hoi-thanh-anh",
@@ -7442,7 +7442,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Hãy Dâng Mình Cho Đức Chúa"
+  "short": "Hãy Dâng Mình Cho Đức Chúa…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-end-of-time-and-the_boston-thomas_1756",
@@ -7505,7 +7505,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bản Chất Và Sự Bất Diệt"
+  "short": "Bản Chất Và Sự Bất Diệt…"
  },
  {
   "id": "1000-377-missionary-exertion-knox",
@@ -7536,7 +7536,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Mục Đích, Bản Chất và Tiêu"
+  "short": "Mục Đích, Bản Chất và Tiêu…"
  },
  {
   "id": "1000-360-a-summons-to-the-grave-keach",
@@ -7582,7 +7582,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Chú Giải và Các Sách Chú"
+  "short": "Chú Giải và Các Sách Chú…"
  },
  {
   "id": "1000-338-a-fair-prospect-goodwin",
@@ -7614,7 +7614,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Hư Không Của Tư Tưởng"
+  "short": "Sự Hư Không Của Tư Tưởng…"
  },
  {
   "id": "642-khuc-ca-mua-dong-hervey",
@@ -7645,7 +7645,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Giáo Lý Vấn Đáp Của Người"
+  "short": "Giáo Lý Vấn Đáp Của Người…"
  },
  {
   "id": "1000-319-a-sermon-preached-at-the-funeral-of-baxter",
@@ -7661,7 +7661,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bài Giảng Tang Lễ Cho Mục"
+  "short": "Bài Giảng Tang Lễ Cho Mục…"
  },
  {
   "id": "684",
@@ -7676,7 +7676,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Câu Hỏi Lớn Được Giải Đáp:"
+  "short": "Câu Hỏi Lớn Được Giải Đáp:…"
  },
  {
   "id": "1000-371-national-sins-a-fast-day-sermon-thornwell",
@@ -7708,7 +7708,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "LỜI BIỆN HỘ: Bốn bức thư"
+  "short": "LỜI BIỆN HỘ: Bốn bức thư…"
  },
  {
   "id": "1000-486-the-christians-end-sibbes",
@@ -7740,7 +7740,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Quyền Lợi Và Bổn Phận Của"
+  "short": "Quyền Lợi Và Bổn Phận Của…"
  },
  {
   "author": "Thomas Boston",
@@ -7831,7 +7831,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Lễ Vật Hòa Bình Trong Lời"
+  "short": "Lễ Vật Hòa Bình Trong Lời…"
  },
  {
   "id": "1000-384-the-copie-of-an-epistle-sent-by-john-knox",
@@ -7862,7 +7862,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Lời Đáp Cho Tác Giả Đối"
+  "short": "Lời Đáp Cho Tác Giả Đối…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-water-of-life-or-a_bunyan-john_1795",
@@ -7893,7 +7893,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Các Giáo Lý Vấn Đáp Của"
+  "short": "Các Giáo Lý Vấn Đáp Của…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-doctrine-of-justific_gill-john_1730",
@@ -7940,7 +7940,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cái Nhìn Về Những Suy Xét"
+  "short": "Cái Nhìn Về Những Suy Xét…"
  },
  {
   "id": "arch/soliloquyonartof00bost",
@@ -7971,7 +7971,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cô Dâu Khao Khát Chàng Rể"
+  "short": "Cô Dâu Khao Khát Chàng Rể…"
  },
  {
   "id": "1000-387-zerubbabels-encouragement-to-finish-the-temple-goodwin",
@@ -7987,7 +7987,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Khích Lệ Của Xô-rô-ba-bên Hoàn"
+  "short": "Sự Khích Lệ Của Xô-rô-ba-bên Hoàn…"
  },
  {
   "id": "arch/bibletrueinfidel00plum",
@@ -8063,7 +8063,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "SỰ TIẾT ĐỘ ĐƯỢC KHUYÊN NHỦ"
+  "short": "SỰ TIẾT ĐỘ ĐƯỢC KHUYÊN NHỦ…"
  },
  {
   "id": "1000-418-the-marrow-of-true-justification-keach",
@@ -8079,7 +8079,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cốt Tủy Của Sự Xưng Công"
+  "short": "Cốt Tủy Của Sự Xưng Công…"
  },
  {
   "id": "1000-405-an-answer-to-a-letter-of-a-jesuit-named-tyrie-knox",
@@ -8095,7 +8095,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Lời Đáp Thư Của Tu Sĩ"
+  "short": "Lời Đáp Thư Của Tu Sĩ…"
  },
  {
   "id": "1000-403-the-ax-laid-to-the-root-keach",
@@ -8127,7 +8127,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Lập Luận Từ Danh Chúa Trong"
+  "short": "Lập Luận Từ Danh Chúa Trong…"
  },
  {
   "id": "arch/wordsoftruthlove00plum",
@@ -8203,7 +8203,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Lợi Ích Lớn Nhất Của Các"
+  "short": "Lợi Ích Lớn Nhất Của Các…"
  },
  {
   "id": "1000-394-joy-in-heaven-and-the-creed-of-devils-toplady",
@@ -8219,7 +8219,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Niềm Vui Trên Thiên Đàng Và"
+  "short": "Niềm Vui Trên Thiên Đàng Và…"
  },
  {
   "id": "arch/calvinsdoctrineo00warf",
@@ -8266,7 +8266,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Nhật Ký Hành Trình Từ Luân"
+  "short": "Nhật Ký Hành Trình Từ Luân…"
  },
  {
   "id": "whyte/teresa",
@@ -8297,7 +8297,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Thư Gửi Người Quý Phái Ở"
+  "short": "Thư Gửi Người Quý Phái Ở…"
  },
  {
   "id": "1000-468-the-balm-of-the-covenant-flavel",
@@ -8466,7 +8466,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Chúa Giê-xu Được Thiên Sứ Nhìn"
+  "short": "Chúa Giê-xu Được Thiên Sứ Nhìn…"
  },
  {
   "id": "801-cay-va-khong-ket-qua-bunyan",
@@ -8511,7 +8511,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cho Đến Lúc Bình Minh: và"
+  "short": "Cho Đến Lúc Bình Minh: và…"
  },
  {
   "author": "John Owen",
@@ -8526,7 +8526,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Than Khóc Thái Quá Cho"
+  "short": "Sự Than Khóc Thái Quá Cho…"
  },
  {
   "id": "arch/bloodofcross00bona",
@@ -8602,7 +8602,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tuyển Tập Lời Cầu Nguyện Thanh"
+  "short": "Tuyển Tập Lời Cầu Nguyện Thanh…"
  },
  {
   "id": "arch/bim_eighteenth-century_instructions-for-childre_keach-benjamin_1763",
@@ -8633,7 +8633,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cây Vả Không Trái: Số Phận"
+  "short": "Cây Vả Không Trái: Số Phận…"
  },
  {
   "id": "arch/touchstoneofsinc00flav",
@@ -8664,7 +8664,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Lời Biện Hộ Đúng Lúc Cho"
+  "short": "Lời Biện Hộ Đúng Lúc Cho…"
  },
  {
   "id": "1000-041-heir-followeth-the-coppie-of-the-ressoning-knox",
@@ -8680,7 +8680,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bản Sao Cuộc Tranh Luận Với"
+  "short": "Bản Sao Cuộc Tranh Luận Với…"
  },
  {
   "id": "1000-442-transubstantiation-a-peculiar-article-goodwin",
@@ -8697,7 +8697,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Hóa Thể: Giáo Điều Riêng Của"
+  "short": "Hóa Thể: Giáo Điều Riêng Của…"
  },
  {
   "id": "484-bac-bo-viec-bap-tem-tre-con",
@@ -8728,7 +8728,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Lịch sử văn bản của Quyển"
+  "short": "Lịch sử văn bản của Quyển…"
  },
  {
   "id": "arch/literaryhistoryo00warf",
@@ -8743,7 +8743,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Lịch Sử Văn Bản Chế Độ"
+  "short": "Lịch Sử Văn Bản Chế Độ…"
  },
  {
   "id": "804-su-giau-co-cua-long-thuong-xot-sibbes",
@@ -8820,7 +8820,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Nếp Sống Cơ Đốc; Hay Trái"
+  "short": "Nếp Sống Cơ Đốc; Hay Trái…"
  },
  {
   "id": "729-dap-loi-to-trinh-romaine",
@@ -8867,7 +8867,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Tình Yêu Đời Đời Của Đức"
+  "short": "Tình Yêu Đời Đời Của Đức…"
  },
  {
   "author": "John Howe; B. Grosvenor",
@@ -8883,7 +8883,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Dâng Mình Cho Đức Chúa"
+  "short": "Sự Dâng Mình Cho Đức Chúa…"
  },
  {
   "id": "arch/dredwinaabbotton00warf",
@@ -8898,7 +8898,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "2 Phi-e-rơ Và Lập Luận Của"
+  "short": "2 Phi-e-rơ Và Lập Luận Của…"
  },
  {
   "author": "John Gill",
@@ -9023,7 +9023,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cuộc Đời Vắn Tắt Của Trung"
+  "short": "Cuộc Đời Vắn Tắt Của Trung…"
  },
  {
   "id": "1000-475-the-counterfeit-christian-keach",
@@ -9191,7 +9191,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Kỷ niệm về việc kiêng ăn"
+  "short": "Kỷ niệm về việc kiêng ăn…"
  },
  {
   "id": "818",
@@ -9267,7 +9267,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tưởng Trình Về Kiêng Ăn Cá"
+  "short": "Tưởng Trình Về Kiêng Ăn Cá…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-french-impostour-det_keach-benjamin_1702",
@@ -9283,7 +9283,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Kẻ Giả Mạo Pháp Bị Vạch"
+  "short": "Kẻ Giả Mạo Pháp Bị Vạch…"
  },
  {
   "id": "836-loi-giai-thich-cua-giam-muc-sarum",
@@ -9298,7 +9298,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Xem Xét Lời Diễn Giải"
+  "short": "Sự Xem Xét Lời Diễn Giải…"
  },
  {
   "id": "pink/comfort",
@@ -9313,7 +9313,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự An Ủi Cho Cơ Đốc"
+  "short": "Sự An Ủi Cho Cơ Đốc…"
  },
  {
   "id": "821",
@@ -9358,7 +9358,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bảy Bài Giảng Về Nhiều Chủ"
+  "short": "Bảy Bài Giảng Về Nhiều Chủ…"
  },
  {
   "id": "832",
@@ -9389,7 +9389,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bài Giảng Trong Nến: Hai Bài"
+  "short": "Bài Giảng Trong Nến: Hai Bài…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-sermon-preached-to-th_rutherford-samuel_1709",
@@ -9555,7 +9555,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Chiến tranh với ma quỷ: cuộc"
+  "short": "Chiến tranh với ma quỷ: cuộc…"
  },
  {
   "id": "arch/onrevisionofconf00warf",
@@ -9602,7 +9602,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Suy Gẫm Thiêng Liêng Và Mặc"
+  "short": "Suy Gẫm Thiêng Liêng Và Mặc…"
  },
  {
   "author": "Augustus Toplady",
@@ -9648,7 +9648,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Hình Thành Bản Tuyên Xưng"
+  "short": "Sự Hình Thành Bản Tuyên Xưng…"
  },
  {
   "id": "arch/the-works-of-the-rev-john-newton-cecil",
@@ -9708,7 +9708,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Cảm Thúc Thiêng Liêng của"
+  "short": "Sự Cảm Thúc Thiêng Liêng của…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-sermons-_boston-thomas_1785",
@@ -9723,7 +9723,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Căn Cứ Của Cuộc Tranh Luận"
+  "short": "Căn Cứ Của Cuộc Tranh Luận…"
  },
  {
   "author": "George Whitefield",
@@ -9738,7 +9738,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Nhật Ký Tiếp Theo Của Mục"
+  "short": "Nhật Ký Tiếp Theo Của Mục…"
  },
  {
   "id": "824-khac-biet-ve-bap-tem-bunyan",
@@ -9768,7 +9768,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Vui Thích Thuộc Linh Của"
+  "short": "Sự Vui Thích Thuộc Linh Của…"
  },
  {
   "id": "873-clergy-and-choir-hodge",
@@ -9830,7 +9830,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "GIẾNG NGUỒN ĐÓNG KÍN: Hay, Bổn"
+  "short": "GIẾNG NGUỒN ĐÓNG KÍN: Hay, Bổn…"
  },
  {
   "id": "808-dieu-duy-nhat-can-thiet-baxter",
@@ -9907,7 +9907,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Luận Về Việc Giữ Lòng"
+  "short": "Luận Về Việc Giữ Lòng…"
  },
  {
   "id": "arch-makingofwestmins00warf",
@@ -9923,7 +9923,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Hình Thành Của Bản Tuyên"
+  "short": "Sự Hình Thành Của Bản Tuyên…"
  },
  {
   "id": "828-niem-vui-thuoc-linh-watson",
@@ -9984,7 +9984,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Thuyết Socinus Không Thể Biện Hộ"
+  "short": "Thuyết Socinus Không Thể Biện Hộ…"
  },
  {
   "author": "John Gill (1697-1771)",
@@ -10015,7 +10015,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Nghiêm Trọng Của Tội Lỗi,"
+  "short": "Sự Nghiêm Trọng Của Tội Lỗi,…"
  },
  {
   "id": "842-chu-nghia-socinus-khong-the-bao-chua-duoc",
@@ -10030,7 +10030,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Chủ Nghĩa Socinus Không Thể Bào"
+  "short": "Chủ Nghĩa Socinus Không Thể Bào…"
  },
  {
   "id": "812-christ-alone-the-way-to-heaven-keach",
@@ -10137,7 +10137,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Phê Bình Cuốn \"Theodosia Ernest, Hay,"
+  "short": "Phê Bình Cuốn \"Theodosia Ernest, Hay,…"
  },
  {
   "id": "878",
@@ -10183,7 +10183,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tưởng Niệm Đời Sống Và Tính"
+  "short": "Tưởng Niệm Đời Sống Và Tính…"
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_a-glance-of-heaven-or-_sibbes-richard_1638",
@@ -10274,7 +10274,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "TIẾP TỤC NHẬT KÝ CỦA MỤC"
+  "short": "TIẾP TỤC NHẬT KÝ CỦA MỤC…"
  },
  {
   "id": "arch/earnestappealtof00chal",
@@ -10379,7 +10379,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Ân điển dư dội cho kẻ"
+  "short": "Ân điển dư dội cho kẻ…"
  },
  {
   "id": "arch/godswayofpeacebo00bona_0",
@@ -10395,7 +10395,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Đường Bình An Của Đức Chúa"
+  "short": "Đường Bình An Của Đức Chúa…"
  },
  {
   "id": "arch/aviewcovenantgr01bostgoog",
@@ -10638,7 +10638,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Thiên Đàng Đoạt Bằng Sự Sốt"
+  "short": "Thiên Đàng Đoạt Bằng Sự Sốt…"
  },
  {
   "id": "arch/nightofweepingor00bonaiala",
@@ -10702,7 +10702,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "CHUỖI NGỌC TRAI: Những Điều Tốt"
+  "short": "CHUỖI NGỌC TRAI: Những Điều Tốt…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-time-of-danger-the-_hervey-james_1789",
@@ -10736,7 +10736,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cuộc Xung Đột Của Linh Hồn"
+  "short": "Cuộc Xung Đột Của Linh Hồn…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-power-and-prevalency_rutherford-samuel_1713",
@@ -10754,7 +10754,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sức Mạnh Của Đức Tin Và"
+  "short": "Sức Mạnh Của Đức Tin Và…"
  },
  {
   "id": "arch/bim_early-english-books-1475-1640_the-saints-comforts-_sibbes-richard_1638",
@@ -10911,7 +10911,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sự Bênh Vực Lời Cầu Xin"
+  "short": "Sự Bênh Vực Lời Cầu Xin…"
  },
  {
   "id": "arch/predestinationin00warf",
@@ -10927,7 +10927,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sự Tiền Định Trong Các Tín"
+  "short": "Sự Tiền Định Trong Các Tín…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-triumph-of-faith-by_romaine-william_1795",
@@ -10957,7 +10957,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Hành Trình Của Sự Tin Kính"
+  "short": "Hành Trình Của Sự Tin Kính…"
  },
  {
   "id": "arch/bim_eighteenth-century_letters-to-a-wife-by-th_newton-john_1793_2",
@@ -11002,7 +11002,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Tình Yêu Cơ Đốc Nhân Dành"
+  "short": "Tình Yêu Cơ Đốc Nhân Dành…"
  },
  {
   "id": "arch/treatiseuponlife00roma",
@@ -11095,7 +11095,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tính Hợp Lý Của Đạo Cơ"
+  "short": "Tính Hợp Lý Của Đạo Cơ…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_-or-the-art-of_watson-thomas_1658",
@@ -11170,7 +11170,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Lời Biện Hộ Cho Một Số"
+  "short": "Lời Biện Hộ Cho Một Số…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_christian-concord-_baxter-richard_1653",
@@ -11200,7 +11200,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Tuyển Tập Bài Giảng Và Luận"
+  "short": "Tuyển Tập Bài Giảng Và Luận…"
  },
  {
   "id": "arch/bim_eighteenth-century_come-and-welcome-to-jesu_bunyan-john_1715_0",
@@ -11230,7 +11230,7 @@
   ],
   "level": 1,
   "length": "dai",
-  "short": "Vâng Và A-Men: Những Lời Hứa"
+  "short": "Vâng Và A-Men: Những Lời Hứa…"
  },
  {
   "id": "arch/bim_eighteenth-century_the-fountain-of-life-ope_flavel-john_1729",
@@ -11245,7 +11245,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Suối Nguồn Sự Sống Được Mở"
+  "short": "Suối Nguồn Sự Sống Được Mở…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-treatise-on-assurance_brooks-thomas_1777",
@@ -11291,7 +11291,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Đường Nên Thánh Của Đức Chúa"
+  "short": "Đường Nên Thánh Của Đức Chúa…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-reason-of-faith-_owen-john_1677",
@@ -11321,7 +11321,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Giê-hô-va Di-rê: Luận Về Sự Quan"
+  "short": "Giê-hô-va Di-rê: Luận Về Sự Quan…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-certainty-of-the-wor_baxter-richard_1691",
@@ -11336,7 +11336,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sự Chắc Chắn Về Thế Giới"
+  "short": "Sự Chắc Chắn Về Thế Giới…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_full-and-easie-satisfact_baxter-richard_1674_0",
@@ -11351,7 +11351,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sự Thỏa Mãn Đầy Đủ Và"
+  "short": "Sự Thỏa Mãn Đầy Đủ Và…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_naked-popery-_baxter-richard_1677",
@@ -11366,7 +11366,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sự Trần Trụi Của Chủ Nghĩa"
+  "short": "Sự Trần Trụi Của Chủ Nghĩa…"
  },
  {
   "id": "alexander/family-worship",
@@ -11412,7 +11412,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Bài Giảng Trước Hạ Viện Anh"
+  "short": "Bài Giảng Trước Hạ Viện Anh…"
  },
  {
   "id": "827-an-dien-va-dao-duc-baxter",
@@ -11547,7 +11547,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Những Bài Giảng của Mục Sư"
+  "short": "Những Bài Giảng của Mục Sư…"
  },
  {
   "author": "Horatius Bonar",
@@ -11609,7 +11609,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sự nhẫn nhục vâng phục nói"
+  "short": "Sự nhẫn nhục vâng phục nói…"
  },
  {
   "id": "1093",
@@ -11639,7 +11639,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Bài Luận Về Người Pha-Ri-Si Và"
+  "short": "Bài Luận Về Người Pha-Ri-Si Và…"
  },
  {
   "id": "1097",
@@ -11654,7 +11654,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Tôn Giáo Hư Không Của Kẻ"
+  "short": "Tôn Giáo Hư Không Của Kẻ…"
  },
  {
   "id": "1098",
@@ -11669,7 +11669,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Những Đoạn Văn Hay Nhất Của"
+  "short": "Những Đoạn Văn Hay Nhất Của…"
  },
  {
   "id": "1100",
@@ -11684,7 +11684,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Lời Kêu Gọi Cầu Nguyện Hiệp"
+  "short": "Lời Kêu Gọi Cầu Nguyện Hiệp…"
  },
  {
   "author": "Matthew Henry",
@@ -11699,7 +11699,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự ngọt ngào của đời sống"
+  "short": "Sự ngọt ngào của đời sống…"
  },
  {
   "id": "list-913",
@@ -11789,7 +11789,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Luận Về Sự Hiền Lành Và"
+  "short": "Luận Về Sự Hiền Lành Và…"
  },
  {
   "id": "list-954",
@@ -11804,7 +11804,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Trở Lại Của Những Lời"
+  "short": "Sự Trở Lại Của Những Lời…"
  },
  {
   "author": "Samuel Rutherford",
@@ -11970,7 +11970,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sơ Đồ Của Sự Tất Yếu"
+  "short": "Sơ Đồ Của Sự Tất Yếu…"
  },
  {
   "author": "John Berridge",
@@ -14635,7 +14635,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Chống Việc Hợp Nhất Hội Thánh"
+  "short": "Chống Việc Hợp Nhất Hội Thánh…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-collection-of-sermons-_boston-thomas_1772",
@@ -14650,7 +14650,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tuyển Tập Các Bài Giảng Của"
+  "short": "Tuyển Tập Các Bài Giảng Của…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-divine-cordial-_watson-thomas-d-1689_1678",
@@ -14712,7 +14712,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Tường Thuật Trung Thực Về Công"
+  "short": "Tường Thuật Trung Thực Về Công…"
  },
  {
   "id": "arch/bim_eighteenth-century_a-dissertation-concernin_gill-john_1767",
@@ -14729,7 +14729,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Luận Văn Về Tính Cổ Xưa"
+  "short": "Luận Văn Về Tính Cổ Xưa…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_the-silent-soul-_brooks-thomas_1659",
@@ -14746,7 +14746,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Linh Hồn Im Lặng: Cơ Đốc"
+  "short": "Linh Hồn Im Lặng: Cơ Đốc…"
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-among-the-to_hervey-james_1746",
@@ -14780,7 +14780,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Đạo Tin Lành Được Trình Bày"
+  "short": "Đạo Tin Lành Được Trình Bày…"
  },
  {
   "id": "arch/crookinlotordisp00bost_0",
@@ -14911,7 +14911,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Giáo Lý Về Ba Ngôi Đức"
+  "short": "Giáo Lý Về Ba Ngôi Đức…"
  },
  {
   "id": "arch/bim_eighteenth-century_sacramental-meditations-_flavel-john_1729",
@@ -14957,7 +14957,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Quyền Năng Của Đức Chúa Trời"
+  "short": "Quyền Năng Của Đức Chúa Trời…"
  },
  {
   "id": "arch/bim_eighteenth-century_meditations-and-contempl_hervey-james_1748_2",
@@ -14972,7 +14972,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Suy Gẫm Về Ban Đêm Và"
+  "short": "Suy Gẫm Về Ban Đêm Và…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-heavenly-conference-be_sibbes-richard_1654",
@@ -14987,7 +14987,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Cuộc Hội Ngộ Thiên Thượng Giữa"
+  "short": "Cuộc Hội Ngộ Thiên Thượng Giữa…"
  },
  {
   "id": "arch/bim_early-english-books-1641-1700_a-preservative-against-s_edwards-jonathan_1694",
@@ -15002,7 +15002,7 @@
   ],
   "level": 3,
   "length": "dai",
-  "short": "Thuốc Phòng Ngừa Chống Chủ Nghĩa"
+  "short": "Thuốc Phòng Ngừa Chống Chủ Nghĩa…"
  },
  {
   "id": "ai1-004-divine-conduct-mystery-providence-wherein-being-flavel",
@@ -21192,7 +21192,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Đấng Christ Trong Mây Đến Phán"
+  "short": "Đấng Christ Trong Mây Đến Phán…"
  },
  {
   "id": "1000-094-righteous-judgment-owen",
@@ -21224,7 +21224,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Sự Đời Đời Của Hình Phạt"
+  "short": "Sự Đời Đời Của Hình Phạt…"
  },
  {
   "id": "1000-102-expository-remarks-on-the-discipline-of-the-primitive-churches-fuller",
@@ -21240,7 +21240,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Nhận Xét Về Kỷ Luật Hội"
+  "short": "Nhận Xét Về Kỷ Luật Hội…"
  },
  {
   "id": "1000-111-an-appendix-to-the-answer-unto-two-athenian-mercuries-keach",
@@ -21257,7 +21257,7 @@
   ],
   "level": 1,
   "length": "ngan",
-  "short": "Hai Mươi Bảy Luận Chứng Chống"
+  "short": "Hai Mươi Bảy Luận Chứng Chống…"
  },
  {
   "id": "1000-165-a-brief-account-of-some-lent-processions-whitefield",
@@ -21273,7 +21273,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Tường Trình Các Cuộc Rước Mùa"
+  "short": "Tường Trình Các Cuộc Rước Mùa…"
  },
  {
   "id": "1000-184-a-call-to-personal-labor-as-a-foreign-missionary-plumer",
@@ -21289,7 +21289,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Lời Kêu Gọi Lao Động Cá"
+  "short": "Lời Kêu Gọi Lao Động Cá…"
  },
  {
   "id": "1000-188-the-perfections-of-god-a-standing-rule-gill",
@@ -21305,7 +21305,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Sự Hoàn Hảo Của Đức Chúa"
+  "short": "Sự Hoàn Hảo Của Đức Chúa…"
  },
  {
   "id": "1000-314-a-brief-and-impartial-account-of-the-nature-of-the-protestant-religion-owen",
@@ -21321,7 +21321,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Tôn Giáo Tin Lành: Bản Chất"
+  "short": "Tôn Giáo Tin Lành: Bản Chất…"
  },
  {
   "id": "1000-357-family-hymns-henry",
@@ -21353,7 +21353,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bài Luận Về Cái Chết Của"
+  "short": "Bài Luận Về Cái Chết Của…"
  },
  {
   "id": "1000-386-hymns-of-the-nativity-and-other-pieces-bonar",
@@ -21369,7 +21369,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Thánh Ca Giáng Sinh Và Các"
+  "short": "Thánh Ca Giáng Sinh Và Các…"
  },
  {
   "id": "1000-413-eschol-a-cluster-of-the-fruit-of-canaan-owen",
@@ -21401,7 +21401,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Thánh Ca Cho Gia Đình Và"
+  "short": "Thánh Ca Cho Gia Đình Và…"
  },
  {
   "id": "1000-448-a-discourse-relating-to-the-expectation-of-future-blessedness-howe",
@@ -21417,7 +21417,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Nhẫn Nhịn Trong Chờ Đợi Phước"
+  "short": "Nhẫn Nhịn Trong Chờ Đợi Phước…"
  },
  {
   "id": "822-luoc-thuat-cuoc-doi-ba-margaret-baxter",
@@ -21433,7 +21433,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Lược Thuật Cuộc Đời Bà Margaret"
+  "short": "Lược Thuật Cuộc Đời Bà Margaret…"
  },
  {
   "id": "827-an-dien-va-dao-duc-phan-doan-cua-phai-bat-tuan-phuc",
@@ -21449,7 +21449,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Ân điển và đạo đức: phán"
+  "short": "Ân điển và đạo đức: phán…"
  },
  {
   "id": "836-exposition-by-bishop-of-sarum-examined",
@@ -21465,7 +21465,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Xét Lại Lời Diễn Giải Của"
+  "short": "Xét Lại Lời Diễn Giải Của…"
  },
  {
   "id": "898-nguoi-dan-duong-that-den-thien-dang",
@@ -21481,7 +21481,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Người Dẫn Đường Thật Đến Thiên"
+  "short": "Người Dẫn Đường Thật Đến Thiên…"
  },
  {
   "id": "317-a-tribute-to-the-memory-of-rev-harvey-shipp-widney-williams",
@@ -21497,7 +21497,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Tưởng Niệm Mục Sư Harvey Shipp"
+  "short": "Tưởng Niệm Mục Sư Harvey Shipp…"
  },
  {
   "id": "323-israel-and-the-war-chalmers",
@@ -21529,7 +21529,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Phán Đoán Của Mục Sư Henry"
+  "short": "Phán Đoán Của Mục Sư Henry…"
  },
  {
   "id": "371-the-south-her-peril-and-her-duty-palmer",
@@ -21545,7 +21545,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Miền Nam: Hiểm Nguy Và Bổn"
+  "short": "Miền Nam: Hiểm Nguy Và Bổn…"
  },
  {
   "id": "405-the-soul-winner-and-soul-winning-kemp",
@@ -21561,7 +21561,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Người Chinh Phục Linh Hồn Và"
+  "short": "Người Chinh Phục Linh Hồn Và…"
  },
  {
   "id": "410-a-second-defence-of-dr-clarkes-demonstration-of-the-being-and-attributes-of-god-clarke",
@@ -21577,7 +21577,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Biện Hộ Thứ Hai Cho Chứng"
+  "short": "Biện Hộ Thứ Hai Cho Chứng…"
  },
  {
   "id": "460-the-religious-opinions-and-life-of-abraham-lincoln-bates",
@@ -21593,7 +21593,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Quan Điểm Tôn Giáo Và Cuộc"
+  "short": "Quan Điểm Tôn Giáo Và Cuộc…"
  },
  {
   "id": "502-heidelberg-catechism-1720",
@@ -21657,7 +21657,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Trẻ Nên Được Dạy Dỗ Thế"
+  "short": "Trẻ Nên Được Dạy Dỗ Thế…"
  },
  {
   "id": "566-the-copie-of-a-letter-to-the-regent-of-scotland",
@@ -21673,7 +21673,7 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Thư Gửi Thái Hậu Nhiếp Chính"
+  "short": "Thư Gửi Thái Hậu Nhiếp Chính…"
  },
  {
   "id": "571-have-you-the-spirit",
@@ -21705,7 +21705,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Hạnh Phúc Của Các Thánh Đồ"
+  "short": "Hạnh Phúc Của Các Thánh Đồ…"
  },
  {
   "id": "574-the-christians-portion",
@@ -21737,7 +21737,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Một Vài Suy Nghĩ Về Lập"
+  "short": "Một Vài Suy Nghĩ Về Lập…"
  },
  {
   "id": "577-christs-favour-to-little-children",
@@ -21753,7 +21753,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Ơn Thương Của Chúa Giê-xu Christ"
+  "short": "Ơn Thương Của Chúa Giê-xu Christ…"
  },
  {
   "id": "578-our-historic-mission-palmer",
@@ -21769,7 +21769,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sứ Mệnh Lịch Sử Của Chúng"
+  "short": "Sứ Mệnh Lịch Sử Của Chúng…"
  },
  {
   "id": "581-a-discourse-on-singing-of-psalms-as-a-part-of-divine-worship",
@@ -21786,7 +21786,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Hát Thi Thiên Là Một Phần"
+  "short": "Hát Thi Thiên Là Một Phần…"
  },
  {
   "id": "585-funeral-sermon-for-matthew-mead",
@@ -21802,7 +21802,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bài Giảng Trong Lễ Tang Mục"
+  "short": "Bài Giảng Trong Lễ Tang Mục…"
  },
  {
   "id": "586-a-believers-last-day-is-his-best-day",
@@ -21818,7 +21818,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Ngày Cuối Cùng Của Tín Hữu"
+  "short": "Ngày Cuối Cùng Của Tín Hữu…"
  },
  {
   "id": "587-future-rewards-and-punishments-sanctions-mosaic-dispensation",
@@ -21834,7 +21834,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Phần Thưởng và Hình Phạt Đời"
+  "short": "Phần Thưởng và Hình Phạt Đời…"
  },
  {
   "id": "588-a-sermon-on-occasion-of-the-death-of-stephen-lobb",
@@ -21850,7 +21850,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Bài Giảng Tang Lễ Cho Ông"
+  "short": "Bài Giảng Tang Lễ Cho Ông…"
  },
  {
   "id": "593-the-spiritual-favorite-at-the-throne-of-grace",
@@ -21866,7 +21866,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Người Được Sủng Ái Thiêng Liêng"
+  "short": "Người Được Sủng Ái Thiêng Liêng…"
  },
  {
   "id": "594-the-ax-laid-to-the-root-of-antinomian-licentiousness",
@@ -21882,7 +21882,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Cái Rìu Đặt Nơi Gốc Sự"
+  "short": "Cái Rìu Đặt Nơi Gốc Sự…"
  },
  {
   "id": "598-a-sermon-concerning-the-work-and-success-of-the-ministry",
@@ -21898,7 +21898,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Công Việc Và Sự Thành Công"
+  "short": "Công Việc Và Sự Thành Công…"
  },
  {
   "id": "600-the-proposed-union-with-the-cumberland-presbyterians",
@@ -21914,7 +21914,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Đề Xuất Hiệp Nhất Với Hội"
+  "short": "Đề Xuất Hiệp Nhất Với Hội…"
  },
  {
   "id": "602-a-plan-of-academical-preparation-for-the-ministry",
@@ -21930,7 +21930,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Kế Hoạch Chuẩn Bị Học Thuật"
+  "short": "Kế Hoạch Chuẩn Bị Học Thuật…"
  },
  {
   "id": "604-the-importance-of-a-deep-and-intimate-knowledge-of-divine-truth",
@@ -21946,7 +21946,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Hiểu Biết Sâu Sắc Lẽ"
+  "short": "Sự Hiểu Biết Sâu Sắc Lẽ…"
  },
  {
   "id": "605-what-good-will-it-do-ryle",
@@ -21962,7 +21962,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Giải Thể Hội Thánh Quốc Giáo"
+  "short": "Giải Thể Hội Thánh Quốc Giáo…"
  },
  {
   "id": "623-a-sermon-to-the-societies-for-reformation-of-manners",
@@ -21978,7 +21978,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Bài Giảng Về Sự Cải Chánh"
+  "short": "Bài Giảng Về Sự Cải Chánh…"
  },
  {
   "id": "649-the-nature-and-importance-of-walking-by-faith",
@@ -21994,7 +21994,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Đời Sống Đức Tin: Bản Chất"
+  "short": "Đời Sống Đức Tin: Bản Chất…"
  },
  {
   "id": "660-the-straying-state-and-condition-of-mankind-sinners",
@@ -22012,7 +22012,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Tình Trạng Lạc Lối Của Loài"
+  "short": "Tình Trạng Lạc Lối Của Loài…"
  },
  {
   "id": "666-contemplations-on-a-flower-garden-newcomb",
@@ -22044,7 +22044,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Một Lời Nhắn Gửi Người Than"
+  "short": "Một Lời Nhắn Gửi Người Than…"
  },
  {
   "id": "838-pleasantness-of-a-religious-life",
@@ -22060,7 +22060,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Êm Ái Của Đời Sống"
+  "short": "Sự Êm Ái Của Đời Sống…"
  },
  {
   "id": "841-keeping-the-heart",
@@ -22092,7 +22092,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Tường Thuật Công Việc Lạ Lùng"
+  "short": "Tường Thuật Công Việc Lạ Lùng…"
  },
  {
   "id": "893-su-tuong-giao-voi-duc-chua-troi",
@@ -22108,7 +22108,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Tương Giao Với Đức Chúa"
+  "short": "Sự Tương Giao Với Đức Chúa…"
  },
  {
   "author": "A. W. Pink",
@@ -41824,7 +41824,7 @@
   ],
   "level": 3,
   "length": "vua",
-  "short": "Tường Thuật Về Những Cuộc Cải"
+  "short": "Tường Thuật Về Những Cuộc Cải…"
  },
  {
   "id": "arch-10411071bsb",
@@ -41854,7 +41854,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "CÁC BÀI GIẢNG CỦA SPURGEON —"
+  "short": "CÁC BÀI GIẢNG CỦA SPURGEON —…"
  },
  {
   "id": "arch-SpurgeonNewParkPt01",
@@ -43716,7 +43716,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Sự Chữa Lành Nỗi Buồn Rầu"
+  "short": "Sự Chữa Lành Nỗi Buồn Rầu…"
  },
  {
   "id": "baxter/compassionate-counsel",
@@ -43746,7 +43746,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Lời Khuyên Cho Cơ Đốc Nhân Trẻ"
+  "short": "Lời Khuyên Cho Cơ Đốc Nhân Trẻ…"
  },
  {
   "id": "baxter/directions-sinful-fear",
@@ -43791,6 +43791,6 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Giá Trị Vô Giá Của Linh Hồn"
+  "short": "Giá Trị Vô Giá Của Linh Hồn…"
  }
 ]
