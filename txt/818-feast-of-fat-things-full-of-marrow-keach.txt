@@ -6,15 +6,13 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Bữa Tiệc Các Vật Béo Đầy Tủy
+Nguyên tác: "A feast of fat things full of marrow" — Benjamin Keach (1696) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_a-feast-of-fat-things-_keach-benjamin_1696/bim_early-english-books-1641-1700_a-feast-of-fat-things-_keach-benjamin_1696_djvu.txt (Ghi chú: Nguồn là bản OCR tiếng Anh cổ (_djvu.txt_) của cuốn thánh ca "A Feast of Fat Things, Full of Marrow" (London: Printed by B.H., 1696; ESTC R18904), gồm các bài thánh ca phỏng theo Kinh Thánh Cựu Ước và Tân Ước cùng một trăm bài thánh ca do chính Keach sáng tác. Tựa sách lấy từ Ê-sai 25:6. Bản OCR nhiễu nặng (ký tự ſ cổ, mất dòng, chữ đọc sai); các chỗ không đọc chắc được đánh dấu [NEEDS REVIEW]. Các thánh ca đã được đánh số lại theo thứ tự xuất hiện (Thánh Ca 1–26, 28–100 — số 27 bị bỏ qua do lỗi đánh số của worker phần 1, không thiếu nội dung), vì OCR đã phá hỏng nhiều số thứ tự gốc. Lưu ý: bản scan kết thúc đột ngột giữa Thánh Ca 100 (Bài Hát Thiên Nga — "The Swan's Song", đoạn 55); phần còn lại của cuốn sách gốc không có trong nguồn, nên không dịch tiếp được.)
 
-**Nguyên tác:** "A feast of fat things full of marrow" — Benjamin Keach (1696) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_a-feast-of-fat-things-_keach-benjamin_1696/bim_early-english-books-1641-1700_a-feast-of-fat-things-_keach-benjamin_1696_djvu.txt *(Ghi chú: Nguồn là bản OCR tiếng Anh cổ (_djvu.txt_) của cuốn thánh ca "A Feast of Fat Things, Full of Marrow" (London: Printed by B.H., 1696; ESTC R18904), gồm các bài thánh ca phỏng theo Kinh Thánh Cựu Ước và Tân Ước cùng một trăm bài thánh ca do chính Keach sáng tác. Tựa sách lấy từ Ê-sai 25:6. Bản OCR nhiễu nặng (ký tự ſ cổ, mất dòng, chữ đọc sai); các chỗ không đọc chắc được đánh dấu [NEEDS REVIEW]. Các thánh ca đã được đánh số lại theo thứ tự xuất hiện (Thánh Ca 1–26, 28–100 — số 27 bị bỏ qua do lỗi đánh số của worker phần 1, không thiếu nội dung), vì OCR đã phá hỏng nhiều số thứ tự gốc. **Lưu ý:** bản scan kết thúc đột ngột giữa Thánh Ca 100 (Bài Hát Thiên Nga — "The Swan's Song", đoạn 55); phần còn lại của cuốn sách gốc không có trong nguồn, nên không dịch tiếp được.)*
+CÁC BÀI THÁNH CA THEO KINH THÁNH
 
----
+Lấy từ Cựu Ước và Tân Ước, cùng một số bài thánh ca khác
 
-## CÁC BÀI THÁNH CA THEO KINH THÁNH *Lấy từ Cựu Ước và Tân Ước, cùng một số bài thánh ca khác*
-
-### Bài Ca Của Môi-se, Xuất Ê-díp-tô Ký 15
+BÀI CA CỦA MÔI-SE, XUẤT Ê-DÍP-TÔ KÝ 15
 
 1 Hỡi Chúa, con sẽ hát [cho Chúa], Vì Ngài đã chiến thắng vinh quang thay; Ngựa cùng người cỡi ngựa, Ngài đã quăng xuống biển sâu.
 
@@ -28,7 +26,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 6 Tay hữu Ngài, hỡi Chúa, đã đập tan Kẻ dấy lên nghịch cùng Ngài; Ngài đã dùng sự vinh hiển oai nghi Ngài Đánh đổ kẻ thù nghịch Ngài [NEEDS REVIEW: OCR đoạn này hỏng nặng: "And in thy Glorious Fate / Thou chaft 'o'erthrowr-thy' Foes"].
 
-#### Phần Thứ Hai
+PHẦN THỨ HAI
 
 1 [Chúa đã khiến biển đứng như đống] [NEEDS REVIEW: OCR hỏng: "Like EF THR eh ramp / Lord, thou didſt,b {Ps ay the an / xd, thou Ing" — có thể là "Thou didst blow with thy wind"], Chúa đã khiến [gió] Ngài thổi.
 
@@ -38,7 +36,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 5 Hỡi Chúa, ai giống như Ngài Giữa các thần, vinh hiển trong sự thánh khiết, Đáng kính sợ trong lời ngợi khen, Hay làm các sự lạ lùng?
 
-### Lời Tiên Tri Diễn Ý Bài Ca Của Môi-se, Phục Truyền Luật Lệ Ký 32
+LỜI TIÊN TRI DIỄN Ý BÀI CA CỦA MÔI-SE, PHỤC TRUYỀN LUẬT LỆ KÝ 32
 
 Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe lời miệng ta. Đạo lý ta sẽ rơi xuống như mưa, Lời ta sẽ thấm như sương móc, Như mưa nhỏ trên cỏ non, Như mưa rào trên đồng cỏ. Vì ta sẽ rao truyền danh Giê-hô-va; Hãy tôn sự vĩ đại cho Đức Chúa Trời chúng ta.
 
@@ -50,7 +48,9 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Vậy hỡi các nước, hãy vui mừng với dân sự Ngài, Ngài sẽ báo thù huyết [của các tôi tớ Ngài], Ngài sẽ báo thù kẻ thù Ngài, Nhưng nhân từ cùng dân sự Ngài [NEEDS REVIEW: dòng cuối OCR hỏng: "but kind fo'his- Saints'be"].
 
-### Bài Ca Của Tiên Tri Ê-sai, Chương 5 *Về vườn nho của Đấng Được Yêu Dấu*
+BÀI CA CỦA TIÊN TRI Ê-SAI, CHƯƠNG 5
+
+Về vườn nho của Đấng Được Yêu Dấu
 
 1 [Ta sẽ hát bài ca về Đấng Được Yêu Dấu của ta] [NEEDS REVIEW: OCR mất đầu bài], Về vườn nho của Ngài.
 
@@ -62,7 +62,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Vì vườn nho của Đức Giê-hô-va vạn quân Ấy là nhà Y-sơ-ra-ên, Và người Giu-đa là cây trồng vui thích của Ngài. Ngài trông mong sự công chính, nhưng kìa, là sự áp bức; Trông mong sự công bình, nhưng kìa, là tiếng kêu than [NEEDS REVIEW: phần giữa OCR hỏng nặng, dịch theo Ê-sai 5:1–7].
 
-### Sự Vui Mừng Của Ê-sai, Chương 12
+SỰ VUI MỪNG CỦA Ê-SAI, CHƯƠNG 12
 
 1 [Hỡi Chúa], con sẽ ngợi khen Ngài; Vì cơn giận Ngài đã xây khỏi con, Và Ngài đã yên ủi con.
 
@@ -76,19 +76,19 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Hãy reo hò và hát mừng, hỡi dân cư Si-ôn; Vì Đấng Thánh của Y-sơ-ra-ên ở giữa ngươi là lớn thay!
 
-### Bài Ca Của Xa-cha-ri (Lu-ca 1)
+BÀI CA CỦA XA-CHA-RI (LU-CA 1)
 
 8 Đấng Mọc Lên từ nơi cao [NEEDS REVIEW: OCR "The DaySiar, from on hich" — theo Lu-ca 1:78 "dayspring from on high"] sẽ đến thăm chúng ta, Để soi sáng kẻ ngồi trong tối tăm, Và dẫn chân họ vào đường bình an [NEEDS REVIEW: đoạn OCR hỏng nặng, dịch theo Lu-ca 1:78–79].
 
-### Bài Ca Của Trinh Nữ Ma-ri Được Phước (Lu-ca 1)
+BÀI CA CỦA TRINH NỮ MA-RI ĐƯỢC PHƯỚC (LU-CA 1)
 
 1 Linh hồn ta ngợi khen Chúa, Tâm thần ta mừng rỡ trong Đức Chúa Trời, Đấng Cứu Rỗi ta; 2 Vì Ngài đã đoái đến sự hèn mọn của đầy tớ gái Ngài; Kìa, từ nay về sau, mọi đời sẽ khen ta là người có phước [NEEDS REVIEW: OCR hỏng nặng: "ify- the'Lhfd; ages / C ML. af tri =p Me mn bets. / Z In God,'-m _— who" — dịch theo Lu-ca 1:46–48].
 
-### Bài Ca Của Si-mê-ôn (Lu-ca 2)
+BÀI CA CỦA SI-MÊ-ÔN (LU-CA 2)
 
 1 [Đấng Christ là] sự sáng để soi dân ngoại, Và là vinh hiển của dân Y-sơ-ra-ên Ngài [NEEDS REVIEW: OCR hỏng: "mar he Gentiles hall enliphiteia be / & fret Comforts ſhall them cheer; / ... A Light to lighten the Gentiles" — dịch theo Lu-ca 2:32].
 
-### Bài Ca Của Các Tôi Tớ Chúa, Khải Huyền
+BÀI CA CỦA CÁC TÔI TỚ CHÚA, KHẢI HUYỀN
 
 1 Hỡi các ngươi là tôi tớ Chúa, hãy ngợi khen danh Ngài; Hỡi kẻ kính sợ Ngài, cả nhỏ lẫn lớn, Hãy ngợi khen Ngài [Khải Huyền 19:5].
 
@@ -106,7 +106,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 8 Ngợi khen, tôn quý, vinh hiển, quyền phép Cho Đấng ngự trên ngôi, Và cho Chiên Con, bởi mọi loài trên đất và trên trời! [Khải Huyền 5:13]
 
-### Một Phần Bài Ca Của An-ne (1 Sa-mu-ên 2)
+MỘT PHẦN BÀI CA CỦA AN-NE (1 SA-MU-ÊN 2)
 
 1 Lòng tôi vui mừng trong Giê-hô-va, Sừng tôi được nhấc cao trong Giê-hô-va; Miệng tôi há rộng nghịch cùng kẻ thù tôi, Vì tôi vui mừng trong sự cứu rỗi Ngài.
 
@@ -124,9 +124,9 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 8 Đức Giê-hô-va sẽ cai trị vinh hiển tột cùng Đến tận cùng trái đất; Ngài sẽ nhấc cao sừng của Đấng Được Xức Dầu Ngài; Vậy hãy hát ngợi khen Ngài cao nhất [NEEDS REVIEW: hai dòng cuối OCR hỏng: "& And tus Anoint, Horn exalt / Therefore his higheſt Praiſe {im ng nk d" — dịch theo 1 Sa-mu-ên 2:10].
 
-### Bài Ca Của Chiên Con
+BÀI CA CỦA CHIÊN CON
 
-#### Phần thứ nhất
+PHẦN THỨ NHẤT
 
 1 Hỡi các thánh, hãy reo hò vui mừng và hát, Vì [Chúa] đã ban phước dồi dào cho chúng ta; Hô-sa-na nơi cao nhất! [NEEDS REVIEW: OCR hỏng: "JI Reak out e Saints with joy and ſing / Ti Ample ds bleſt. Tian brivg"]
 
@@ -152,7 +152,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 12 Ôi! Hãy nghe tiếng rên xiết đắng cay của Ngài, Hãy lắng nghe tiếng thở cuối cùng Ngài; Vì nay vì chúng ta, sự sống Ngài đã lìa khỏi, Hô-sa-na nơi cao nhất!
 
-#### Phần thứ hai
+PHẦN THỨ HAI
 
 1 Ngày thứ nhất [trong tuần] nay bắt đầu; Dấu chấm hết đã đặt cho tội lỗi; Sự công chính đời đời được đem vào — Hô-sa-na nơi cao nhất! [NEEDS REVIEW: hai dòng giữa OCR hỏng]
 
@@ -168,7 +168,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 8 Cơn thạnh nộ kinh khiếp của Đức Chúa Trời Ngài đã nguôi, Để lương tâm có tội được yên ủi, Và nay Ngài cứu được bất cứ ai Ngài muốn, Hô-sa-na nơi cao nhất!
 
-#### Phần thứ ba
+PHẦN THỨ BA
 
 1 Đấng Christ sẽ bắt đầu công việc mà Ngài Nay phải hoàn tất [NEEDS REVIEW: OCR "2 Chriſt, will begin that Wor which he / ow muſt þe wrought" — hỏng], Niềm vui đời đời, hãy xem [NEEDS REVIEW: OCR hỏng].
 
@@ -182,7 +182,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Từ sự chết đến sự sống, các thánh được dựng dậy, Xưa bị trói buộc, nay được tự do, Và được làm một thần với Ngài, hỡi Chúa, Hô-sa-na nơi cao nhất!
 
-#### Phần thứ tư
+PHẦN THỨ TƯ
 
 1 Ôi sự hiệp một hạnh phúc! Việc ấy đã xong chưa? Với Đức Chúa Cha và Đức Chúa Con, Chúng ta được hiệp một và làm một sao? Hô-sa-na nơi cao nhất!
 
@@ -194,7 +194,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 [Ngài khát khao chúng con ở với Ngài] [NEEDS REVIEW: OCR "Thou fighs to 6 wh we with thee, / ns o|" — hỏng], Lên cùng [Ngài], để thuộc về Ngài [NEEDS REVIEW: OCR "Up unto ee, for to be Thin" — hỏng], Hô-sa-na nơi cao nhất!
 
-#### Phần thứ năm
+PHẦN THỨ NĂM
 
 1 Sự công chính Ngài, hỡi Chúa, là thiêng liêng, [Được kể cho chúng con] [NEEDS REVIEW: OCR "By oi is to -thine, / ich they do moſt leſs. ſhine" — hỏng], Hô-sa-na nơi cao nhất!
 
@@ -216,13 +216,13 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 10 Và chúng ta sẽ cùng Ngài cai trị trên đất, Khi mọi kẻ thù Ngài bị đánh bại; Vì chẳng bao lâu Ngài sẽ trở lại, Hô-sa-na nơi cao nhất!
 
-### Bài Ca Ngợi Khen Về Sự Giải Cứu Lạ Lùng Của Vua Uy-li-am, Cùng Hội Thánh Và Cả Vương Quốc, Khỏi Âm Mưu Địa Ngục Bị Phát Giác, Tháng 2
+BÀI CA NGỢI KHEN VỀ SỰ GIẢI CỨU LẠ LÙNG CỦA VUA UY-LI-AM, CÙNG HỘI THÁNH VÀ CẢ VƯƠNG QUỐC, KHỎI ÂM MƯU ĐỊA NGỤC BỊ PHÁT GIÁC, THÁNG 2
 
 1 Nguyện tình yêu vững bền của chúng con, hỡi Chúa, chẳng hề lay chuyển; Vì Ngài hằng là Vầng Đá cho con, Là đồn lũy và nơi bảo vệ con.
 
 2 Vua chúng con được bảo tồn, hỡi Đức Chúa Trời, Bởi chính tay và quyền năng Ngài; Ngài che chở người khi người ra ngoài, Ở nhà, Ngài là nơi nương náu bền vững cho người.
 
-### Bài Ca Của Vua Trên Muôn Vua (Thi Thiên 18)
+BÀI CA CỦA VUA TRÊN MUÔN VUA (THI THIÊN 18)
 
 1 [Hỡi Chúa, con yêu mến Ngài] [NEEDS REVIEW: OCR "The ' Shy 4. of the King of bj ngs, / r Troops 'of ' mighty Angtl" — hỏng; theo Thi Thiên 18].
 
@@ -244,9 +244,9 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 10 Chúng con nợ Ngài [mọi sự] [NEEDS REVIEW: OCR "yoann thee- do owe" — hỏng], Muôn dân hãy thờ lạy Ngài, Hãy tôn thờ Ngài, phải, chỉ một mình Ngài, Hỡi Cha của sự đời đời.
 
-## MỘT TRĂM BÀI THÁNH CA
+MỘT TRĂM BÀI THÁNH CA
 
-### THÁNH CA 1: Sự Đời Đời Của Đức Chúa Trời Vĩ Đại [NEEDS REVIEW: OCR "Th: Father of Eternity" / "The Eternity. of the Great G OD"]
+THÁNH CA 1: SỰ ĐỜI ĐỜI CỦA ĐỨC CHÚA TRỜI VĨ ĐẠI [NEEDS REVIEW: OCR "TH: FATHER OF ETERNITY" / "THE ETERNITY. OF THE GREAT G OD"]
 
 1 Trong cõi sáng đời đời, Hỡi Đức Chúa Trời chí thánh, Ngài ngự; Từ đời đời trong chính mình Ngài, Ngài đã có nơi ở phước hạnh. Trước khi thế gian nầy bởi Ngài dựng nên, Hay nền đất được đặt, Hay bầu trời bao la được giăng ra, Hay bất cứ tạo vật nào được dựng nên.
 
@@ -258,7 +258,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Ngài chẳng cần chúng con; Ngài có thể nhận gì Từ tay bất cứ tạo vật nào? Nhưng chúng con dâng mọi ngợi khen cho Ngài [NEEDS REVIEW: OCR "Yet td/aſcribe! all Praiſe to }Th&" — có thể là "Yet to ascribe all praise to Thee"], [Ấy là điều] đáng [làm] nhất [NEEDS REVIEW: OCR "J*, moſt NEG I'IS> - 0 / ommand" — hỏng nặng].
 
-### THÁNH CA 2: Sự Vô Hạn Của Đức Chúa Trời
+THÁNH CA 2: SỰ VÔ HẠN CỦA ĐỨC CHÚA TRỜI
 
 1 Ngợi khen oai nghi đáng kính sợ Của Đức Chúa Trời vĩ đại trên cao, Với lòng run rẩy, con muốn [hát]; Ôi, được yêu mến Ngài biết bao!
 
@@ -276,7 +276,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 8 Không, nếu chúng con nói: Sự tối tăm sẽ Che khuất chúng con khỏi mắt Ngài, Than ôi! Sự tối tăm dày đặc nhất Đối với Ngài cũng như ánh sáng! Phải, sự tối tăm chẳng giấu được khỏi Ngài [NEEDS REVIEW: OCR "Yea, Darkneſs biggt/>: not: from Thee / pf but N; phage 7 Ine As of Fen 3" — hỏng, theo Thi Thiên 139:11–12]. Vậy chúng con hãy ngợi khen Ngài cả ngày lẫn đêm, Và hằng hát cho Ngài!
 
-### THÁNH CA 3: Sự Khôn Ngoan Và Toàn Tri Của Đức Chúa Trời
+THÁNH CA 3: SỰ KHÔN NGOAN VÀ TOÀN TRI CỦA ĐỨC CHÚA TRỜI
 
 1 Sự hiểu biết Ngài, hỡi Chúa, là vô hạn, Chẳng điều gì giấu được khỏi Ngài; [Ngài biết mọi tư tưởng chúng con] [NEEDS REVIEW: OCR "J hou, oc AYX 45.01 '4 / our NG ho FA ROO Heh" — hỏng nặng].
 
@@ -286,7 +286,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 [Ngài sẽ]... [NEEDS REVIEW: OCR đoạn cuối Thánh Ca 3 hỏng hoàn toàn, không đọc được]
 
-### THÁNH CA 4: Sự Khôn Ngoan Của Đức Chúa Trời
+THÁNH CA 4: SỰ KHÔN NGOAN CỦA ĐỨC CHÚA TRỜI
 
 1 Con sẽ [hát], hỡi Chúa, về sự khôn ngoan Ngài [NEEDS REVIEW: OCR "YA E of thy Wiſtom will, O'Loe / ww not = A ſpeak but ſing" — hỏng], Chẳng phải nói mà là hát; Vì từ đó mọi điều lành thật Đến với chúng con, hỡi Chúa.
 
@@ -302,7 +302,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Vậy chúng con sẽ [ngợi khen] sự khôn ngoan lạ lùng Ngài [NEEDS REVIEW: OCR ". we'll fi continkally" — hỏng], Và nguyện người khôn hãy đến cùng Ngài [NEEDS REVIEW: OCR ""FAnd unto Thee, let Prof Men ; " Hhb / for Wiſdom daily Oo fg" — hỏng], Để [tìm] sự khôn ngoan mỗi ngày [NEEDS REVIEW: OCR hỏng].
 
-### THÁNH CA 5: Mắt Thấu Suốt Của Đức Chúa Trời
+THÁNH CA 5: MẮT THẤU SUỐT CỦA ĐỨC CHÚA TRỜI
 
 1 Hãy nhớ Đức Chúa Trời luôn luôn, Nhớ rằng Ngài ở gần; Phải, Ngài ở với chúng ta khắp mọi nơi, Và đặt mắt Ngài trên chúng ta.
 
@@ -316,7 +316,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Nguyện chúng con có lòng kính sợ Ngài, Và hằng thờ lạy Ngài; Hãy thờ phượng trong sự chân thành, Rồi hát đời đời.
 
-### THÁNH CA 6: Quyền Năng Của Đức Chúa Trời
+THÁNH CA 6: QUYỀN NĂNG CỦA ĐỨC CHÚA TRỜI
 
 1 Hỡi Chúa, cánh tay Ngài mạnh mẽ biết bao, Ngài vinh hiển trong sức mạnh; Có điều chi khó quá cho Ngài làm chăng, Đấng có quyền năng vô hạn?
 
@@ -328,7 +328,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Chẳng ai đứng nổi trước quyền năng Ngài, Chẳng ai chống nổi sức mạnh đáng sợ Ngài; Chúng con biết Ngài sẽ làm theo ý muốn Ngài [NEEDS REVIEW: phần còn lại của Thánh Ca 6 OCR hỏng nặng, không đọc chắc được].
 
-### THÁNH CA 7: Lòng Thương Xót Đức Chúa Trời Chiếu Sáng — Hay, Dòng Kênh Của Lòng Thương Xót Thiêng Liêng Tràn Ngập
+THÁNH CA 7: LÒNG THƯƠNG XÓT ĐỨC CHÚA TRỜI CHIẾU SÁNG — HAY, DÒNG KÊNH CỦA LÒNG THƯƠNG XÓT THIÊNG LIÊNG TRÀN NGẬP
 
 1 Chúng con sẽ hát về lòng thương xót Ngài, hỡi Chúa; Ôi, nó vô hạn thay! Nó là [nguồn vui] của mọi niềm vui chúng con [NEEDS REVIEW: OCR ". Df all our Joys it--is the / let's Praiſe thee Day from." — hỏng]; Hãy ngợi khen Ngài ngày [và đêm]!
 
@@ -342,7 +342,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Hỡi kẻ có tội, hãy nắm lấy lòng thương xót! Hỡi các thánh, hãy thờ lạy lòng thương xót; Và vì lòng thương xót Ngài, nguyện mọi người Hát ngợi khen đời đời.
 
-### THÁNH CA 8: Giao Ước Và Sự Thành Tín Của Đức Chúa Trời
+THÁNH CA 8: GIAO ƯỚC VÀ SỰ THÀNH TÍN CỦA ĐỨC CHÚA TRỜI
 
 1 Hỡi Chúa, chúng con sẽ tôn cao danh Ngài, Và hát cho Ngài; Chúng con sẽ rao truyền sự thành tín Ngài, Là nguồn hy vọng chúng con.
 
@@ -354,7 +354,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Lòng nhân từ Ngài sẽ chẳng hề dứt, Sự thành tín Ngài cũng vậy; Hỡi các thánh, hãy hát cho Chúa, Và chúc phước Ngài đời đời!
 
-### THÁNH CA 9: Bài Thánh Ca Về Quyền Tối Thượng Của Đức Chúa Trời
+THÁNH CA 9: BÀI THÁNH CA VỀ QUYỀN TỐI THƯỢNG CỦA ĐỨC CHÚA TRỜI
 
 1 Hỡi Chúa, Đấng đã dựng nên mọi tạo vật, Ngài có quyền định đoạt Chúng theo ý Ngài thấy là tốt; Vậy có những kẻ Ngài đã chọn Cho sự sống đời đời và phước hạnh, Và có những kẻ Ngài đã bỏ qua; Phải, Ngài để mặc họ theo dục vọng lòng họ Và sự ngu dại hèn hạ.
 
@@ -368,7 +368,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Vậy, hỡi Chúa, chúng con tôn cao danh Ngài, Vì mắt chúng con được thấy; Bởi Ngài đã tạo nên sự khác biệt, Mọi ngợi khen thuộc về Ngài.
 
-### THÁNH CA 10: Sự Rộng Rãi Vinh Hiển Của Đức Chúa Trời — Hay, Ân Điển Chiếu Sáng
+THÁNH CA 10: SỰ RỘNG RÃI VINH HIỂN CỦA ĐỨC CHÚA TRỜI — HAY, ÂN ĐIỂN CHIẾU SÁNG
 
 1 Tình yêu Ngài, hỡi Chúa, thật lớn lao Đối với những kẻ hèn mạt như chúng con; Những kẻ nằm chết trong tội lỗi, Được Ngài làm cho sống lại.
 
@@ -382,7 +382,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Tại đó họ hiệp cùng các sê-ra-phim, Trong hòa âm phước hạnh, Hát và tôn vinh lời ngợi khen Ngài Đến đời đời.
 
-### THÁNH CA 11: Lòng Thương Xót Dư Dật Của Đức Chúa Trời Trong Đấng Christ
+THÁNH CA 11: LÒNG THƯƠNG XÓT DƯ DẬT CỦA ĐỨC CHÚA TRỜI TRONG ĐẤNG CHRIST
 
 1 [Lòng Ngài] động lòng thương xót những kẻ [NEEDS REVIEW: OCR "; 3 Thy Bowels yearn in thee to thoſe / = who in their Blood do ly" — hỏng đầu bài; theo Ê-xê-chi-ên 16:6] Nằm trong huyết mình; Nếu họ tin, Ngài sẽ tha thứ Mọi gian ác họ.
 
@@ -394,7 +394,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Lòng thương xót cứu chuộc thật ngọt ngào, Lòng thương xót tha thứ thật chắc chắn; Trong Đấng Christ mọi lòng thương xót gặp nhau, Và còn lại đời đời.
 
-### THÁNH CA 12: Sự Nhẫn Nhục Của Đức Chúa Trời
+THÁNH CA 12: SỰ NHẪN NHỤC CỦA ĐỨC CHÚA TRỜI
 
 1 Hỡi Đức Chúa Trời vĩ đại, Ngài đã lâu chịu đựng Những điều sai trái [NEEDS REVIEW: OCR "F Hat Wrengs, great God, haſt thou long / vw ( conceiv'd they a a be!)" — hỏng], Bởi kẻ phản nghịch táo tợn, là kẻ chọc giận Ngài đến ghen tương!
 
@@ -408,7 +408,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Sự nhẫn nhục Ngài vẫn nín nhịn, chúng con thấy, Ôi, nó vô hạn thay! Vậy chúng con, hỡi Chúa, sẽ hát về nó, Và ngợi khen Ngài ngày đêm.
 
-### THÁNH CA 13: Một Bài Khác Về Sự Nhẫn Nhục Của Đức Chúa Trời
+THÁNH CA 13: MỘT BÀI KHÁC VỀ SỰ NHẪN NHỤC CỦA ĐỨC CHÚA TRỜI
 
 1 Loài người có thể nào nín nhịn không tìm báo thù Một kẻ thù bị rủa sả như vậy, Là kẻ mỗi ngày tìm cách giết hại người Và làm cho người sụp đổ?
 
@@ -422,7 +422,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Sao sự nhẫn nhục chẳng làm chúng con [hát mừng], [NEEDS REVIEW: OCR "Why. ſhould not 'Patience make. as yy ns" — hỏng] Và tôn cao vinh hiển lớn của Đức Chúa Trời? Hỡi Chúa, nguyện sự nhẫn nhục Ngài hiệp với tình yêu Hướng về con suốt mọi ngày con!
 
-### THÁNH CA 14: Về Sự Giáng Sinh Của Đấng Christ
+THÁNH CA 14: VỀ SỰ GIÁNG SINH CỦA ĐẤNG CHRIST
 
 1 Hãy tỉnh thức, hỡi linh hồn ta, hãy tỉnh thức, hỡi lưỡi ta, Hỡi vinh hiển ta, hãy tỉnh thức và hát, Và tôn vinh sự giáng sinh [kỳ diệu], Sự giáng sinh của Vua Y-sơ-ra-ên!
 
@@ -432,7 +432,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Tại Bết-lê-hem, Con Trẻ [nằm] Trong nơi hèn mọn, khuất tịch; Đấng Cứu Rỗi các ngươi đã đến — ôi, hãy hát ngợi khen Đức Chúa Trời! Ôi, hãy hát ngợi khen Ngài đời đời!
 
-#### Phần thứ hai (theo điệu Thi Thiên)
+PHẦN THỨ HAI (THEO ĐIỆU THI THIÊN)
 
 1 Trời đã xuống đất, [Các thiên sứ hát] [NEEDS REVIEW: OCR "F _ the Angels By, / 'Y Hark how the Honvin ly | Ouirec do fin / eo Glory to God on high!" — hỏng; theo Lu-ca 2:14]; Hãy nghe dàn hợp xướng thiên thượng hát: "Vinh hiển cho Đức Chúa Trời trên cao!"
 
@@ -442,7 +442,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Trời và [đất] hãy vui mừng [NEEDS REVIEW: OCR "Hexver and: ; rejo Ce en / Lord ! and ſhall not 7?" — hỏng]; Đấng Christ đã sinh ra! Hỡi kẻ có tội, hãy hát ngợi khen, Vì Ngài đến để chịu chết cho [chúng ta]! [NEEDS REVIEW: OCR "For Jon he came fo Dit" — hỏng]
 
-### THÁNH CA 15: Bài Thánh Ca Về Thần Tính Của Đấng Christ
+THÁNH CA 15: BÀI THÁNH CA VỀ THẦN TÍNH CỦA ĐẤNG CHRIST
 
 1 [Chúng con có thể nào]... [NEEDS REVIEW: OCR "4s mii eg re we" may / Bs Glory es / Theu hs nels ant (g/dry" art, / 'The God-he:d dyells Fn thee" — hỏng nặng; ý có thể là "Thou art the Godhead, God dwells in thee"]
 
@@ -456,7 +456,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Chẳng ai giống như Ngài, hỡi Chúa, Vì trong chính mình Ngài có [NEEDS REVIEW: OCR "For in thy Self does / Al rlories winch ! tlie: Rather hath, / oft Sacred and { DIvvnes" — hỏng nặng].
 
-### THÁNH CA 16: Về Sự Hy Sinh Của Đấng Christ
+THÁNH CA 16: VỀ SỰ HY SINH CỦA ĐẤNG CHRIST
 
 1 Chúng con đã chạy trốn, và đã phung phí hết Của cải và kho tàng chúng con; Và nay uy tín chúng con đã mất hẳn — Chẳng ai còn tin chúng con nữa. Trừ khi tìm được Đấng Bảo Lãnh, Chúng con phải nằm trong ngục, Và chịu cơn thạnh nộ đáng sợ của Đức Chúa Trời, hỡi Đức Chúa Trời, Đến đời đời.
 
@@ -470,7 +470,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Mọi ngợi khen và vinh hiển thuộc về Đức Chúa Trời, Và về Đức Chúa Con mà chúng con [yêu mến] [NEEDS REVIEW: OCR "whom we eld 4" — hỏng], Và về Đức Thánh Linh cũng vậy, Ngợi khen đời đời!
 
-### THÁNH CA 17: Bài Ca Về Tình Yêu Thiêng Liêng Của Đấng Christ (Nhã Ca 1)
+THÁNH CA 17: BÀI CA VỀ TÌNH YÊU THIÊNG LIÊNG CỦA ĐẤNG CHRIST (NHÃ CA 1)
 
 1 [Hãy đến gần, đến gần hơn nữa] [NEEDS REVIEW: OCR "I- (oo near. come nearer yet and 1 / AC © thy Tweeteſt Tips to mme ?" — hỏng; theo Nhã Ca 1:2 "let him kiss me with the kisses of his mouth"], Vì sao, tình yêu Ngài — Đấng là tình yêu trọn vẹn — Vượt hơn rượu ngon nhất!
 
@@ -478,7 +478,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 3 Ôi, hãy kéo con bằng dây tình yêu Ngài, Chúng con sẽ chạy theo Ngài;
 
-### THÁNH CA 18: Dầu Cam Tùng Của Hội Thánh (Nhã Ca 1) — Hát Trong Tiệc Thánh
+THÁNH CA 18: DẦU CAM TÙNG CỦA HỘI THÁNH (NHÃ CA 1) — HÁT TRONG TIỆC THÁNH
 
 1 Vua ngự nơi bàn Ngài; [Hỡi những kẻ yêu mến Ngài] [NEEDS REVIEW: OCR "| and 7 that .Zove him" well" — hỏng], Con đổ dầu cam tùng con nơi chân Ngài, Là dầu tỏa mùi thơm ngát.
 
@@ -492,7 +492,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Vậy con sẽ luôn ngợi khen Ngài, Và hát tôn vinh Ngài; Ngài đã chết vì con; vậy Ngài Là niềm vui và bài ca con luôn luôn.
 
-### THÁNH CA 19: [Đấng Christ Trắng Và Hồng Hào] (Nhã Ca 5) [NEEDS REVIEW: tựa OCR hỏng: "EDDA BIMNES / w=_ s White -e&*Re wir Sacre" — theo Nhã Ca 5:10 "my beloved is white and ruddy"]
+THÁNH CA 19: [ĐẤNG CHRIST TRẮNG VÀ HỒNG HÀO] (NHÃ CA 5) [NEEDS REVIEW: TỰA OCR HỎNG: "EDDA BIMNES / W=_ S WHITE -E&*RE WIR SACRE" — THEO NHÃ CA 5:10 "MY BELOVED IS WHITE AND RUDDY"]
 
 1 [Đấng Được Yêu Dấu của con trắng và hồng hào] [NEEDS REVIEW: OCR "if Hearts is Red and why / the Lilly and the whe / So fi ſweet a Grace aadorss | bets Pace" — hỏng nặng; theo Nhã Ca 5:10], Ngài vượt hơn muôn người [NEEDS REVIEW: OCR "Thouſand he out-dogs!" — "ten thousand he out-goes"].
 
@@ -508,7 +508,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Ôi, hãy hát ngợi khen Ngài — vì chính Ngài đây, Là Đấng linh hồn con chiêm ngưỡng; Ngài là Bạn con, nếu các ngươi muốn biết, Các ngươi có thể thấy [Ngài] nơi đây [NEEDS REVIEW: OCR "y Ws may here dee HYM" — hỏng].
 
-### THÁNH CA 20: Được Giải Cứu Khỏi Hố Sâu — Hay, Bài Ca Tạ Ơn Về Sự Cứu Rỗi Của Phúc Âm
+THÁNH CA 20: ĐƯỢC GIẢI CỨU KHỎI HỐ SÂU — HAY, BÀI CA TẠ ƠN VỀ SỰ CỨU RỖI CỦA PHÚC ÂM
 
 1 Ôi, sự cứu rỗi nầy lớn lao biết bao, hỡi Chúa, Mà Ngài đã làm cho chúng con, Chúa Giê-xu Christ, Bạn thiết của chúng con, Đấng đã mua chuộc linh hồn khốn khổ chúng con. Ngài đã thấy chúng con khi chúng con nằm Ô uế trong tội lỗi mình, Và đã tìm ra cách rửa sạch chúng con, Để làm chúng con sạch lại.
 
@@ -522,7 +522,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Bụi đất chúng con sẽ tỉnh thức, linh hồn chúng con [sẽ hát] [NEEDS REVIEW: OCR "Our Du## ſhall wake, our Souls nit" — hỏng], Và rồi vinh hiển chúng con sẽ chiếu sáng; Hạnh phúc chúng con sẽ trọn vẹn; Ha-lê-lu-gia! A-men.
 
-### THÁNH CA 21: Đấng Christ Đứng Ngoài Cửa Kẻ Có Tội — Hay, Bài Ca Ngợi Khen Về Sự Cứu Rỗi Của Phúc Âm
+THÁNH CA 21: ĐẤNG CHRIST ĐỨNG NGOÀI CỬA KẺ CÓ TỘI — HAY, BÀI CA NGỢI KHEN VỀ SỰ CỨU RỖI CỦA PHÚC ÂM
 
 1 [Chúng con đã nghe] về sự cứu rỗi Ngài [NEEDS REVIEW: OCR "7 W-= Lord, of thy Salvation have / a Declaration had" — hỏng], Hỡi kẻ có tội, hãy biết Đấng Christ có thể cứu các ngươi; Hãy vui mừng trong Ngài, hãy mừng rỡ!
 
@@ -538,7 +538,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Hãy vui mừng vì các ngươi được chấp nhận Trong Đấng Đầu đời đời của mình, Và được làm cho sống lại, và được hiệp một — [Các ngươi] xưa nằm chết trong tội lỗi.
 
-### THÁNH CA 22: Vinh Hiển Cho Đức Chúa Trời Và Chiên Con — Hay, Bài Ca Tạ Ơn Về Sự Cứu Rỗi Lớn Của Đấng Christ
+THÁNH CA 22: VINH HIỂN CHO ĐỨC CHÚA TRỜI VÀ CHIÊN CON — HAY, BÀI CA TẠ ƠN VỀ SỰ CỨU RỖI LỚN CỦA ĐẤNG CHRIST
 
 1 Nào, chúng ta hãy hát ngợi khen Đấng Cứu Rỗi chúng ta, Và rao truyền vinh hiển Ngài; Hãy tôn cao hoàn toàn sự tôn quý Ngài Là sự chiếu sáng khắp đất.
 
@@ -552,7 +552,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Ngợi khen, tôn quý, vinh hiển, quyền năng, Bởi mọi loài trên đất và trên trời, Cho Đấng ngự trên ngôi, Và cho Chiên Con!
 
-### THÁNH CA 23: Vinh Hiển Đức Chúa Trời Được Bày Tỏ — Hay, Bài Ca Ngợi Khen Về Sự Cứu Rỗi Lớn
+THÁNH CA 23: VINH HIỂN ĐỨC CHÚA TRỜI ĐƯỢC BÀY TỎ — HAY, BÀI CA NGỢI KHEN VỀ SỰ CỨU RỖI LỚN
 
 1 Mục đích Ngài là gì, hỡi Đức Chúa Trời thánh, Trong sự cứu rỗi chúng con, Nếu chẳng phải vinh hiển chính Ngài? Vậy chúng con Mỗi người sẽ ngợi khen Ngài.
 
@@ -572,7 +572,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 9 Ôi, nguyện chúng con hằng hát cho Ngài, Và thờ lạy Ngài trong lẽ thật; Vì ngày gần rồi khi chúng con sẽ Ở với Ngài đời đời.
 
-### THÁNH CA 24: Ân Điển Lạ Lùng Chiếu Sáng — Bài Ca Ngợi Khen Về Sự Cứu Rỗi Lớn Của Phúc Âm [NEEDS REVIEW: OCR "HYMN 2x"]
+THÁNH CA 24: ÂN ĐIỂN LẠ LÙNG CHIẾU SÁNG — BÀI CA NGỢI KHEN VỀ SỰ CỨU RỖI LỚN CỦA PHÚC ÂM [NEEDS REVIEW: OCR "HYMN 2X"]
 
 1 Hỡi Vua vinh hiển và chí thánh, [Đấng ban] sự bình an [NEEDS REVIEW: OCR "the mi g 54gpn of Peace" — hỏng], Bởi một mình Ngài, [hỡi Chúa] [NEEDS REVIEW: OCR "By thee alone, ly One" — hỏng], Chúng con được giải thoát khỏi tội lỗi!
 
@@ -586,7 +586,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Hỡi các thánh, các ngươi yêu Đấng Cứu Rỗi dấu yêu mình chăng, Hãy hát tôn vinh phước hạnh Ngài; Ôi, hãy yêu mến Ngài, và gắn bó với Ngài, Và phục vụ Ngài suốt mọi ngày.
 
-### THÁNH CA 25: Hãy Nhìn Lên Chúa Giê-xu — Bài Ca Ngợi Khen [NEEDS REVIEW: OCR "HY MN- 26"]
+THÁNH CA 25: HÃY NHÌN LÊN CHÚA GIÊ-XU — BÀI CA NGỢI KHEN [NEEDS REVIEW: OCR "HY MN- 26"]
 
 1 Hỡi kẻ có tội, hãy nhìn lên Chúa Giê-xu, Nếu các ngươi muốn được cứu rỗi; Ngài là Đức Chúa Trời, là Đấng Cứu Rỗi, chẳng có ai khác, Chỉ một mình Ngài có thể cứu.
 
@@ -600,7 +600,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Hỡi các thánh và những người được cứu, hãy vui mừng, Và hát Ha-lê-lu-gia; Vì các ngươi thuộc về Ngài và Ngài thuộc về các ngươi, Ôi, hãy ngợi khen Đức Chúa Trời và Vua các ngươi!
 
-### THÁNH CA 26: Niềm Vui Của Tín Hữu, Và Sự Khốn Khổ Của Kẻ Bỏ Qua Phúc Âm [NEEDS REVIEW: OCR "HYMN 27"]
+THÁNH CA 26: NIỀM VUI CỦA TÍN HỮU, VÀ SỰ KHỐN KHỔ CỦA KẺ BỎ QUA PHÚC ÂM [NEEDS REVIEW: OCR "HYMN 27"]
 
 1 Ân điển dư dật, tinh khiết, không pha trộn, Phúc Âm rao truyền; Vì điều ấy, hỡi Chúa, chúng con ngợi khen Ngài, Và hát cho danh Ngài.
 
@@ -616,7 +616,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Và các ngươi sẽ nói: Sự cứu rỗi thật lớn lao, Và thờ lạy Chúa vĩ đại; Và hát cho danh thánh Ngài Những lời ngợi khen đời đời.
 
-### THÁNH CA 28: Đấng Christ Được Tôn Cao — Bài Ca Ngợi Khen
+THÁNH CA 28: ĐẤNG CHRIST ĐƯỢC TÔN CAO — BÀI CA NGỢI KHEN
 
 1 Hỡi các thánh, các ngươi yêu mến Chúa đáng yêu của mình chăng, Hãy hát ngợi khen Ngài; Chúng con sẽ tôn cao danh Ngài, hỡi Chúa, Đức Chúa Trời và Vua thiên thượng chúng con.
 
@@ -630,7 +630,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Nào, chúng ta hãy [cất tiếng hát] [NEEDS REVIEW: OCR "Come tet us Zaleſyien ting" — hỏng], Cho Đấng quyền năng nầy; Nguyện kẻ có tội quỳ gối trước Vua nầy, Là Đấng ngự trên ngôi!
 
-### THÁNH CA 29: Vinh Hiển Của Đấng Christ — Bài Ca Ngợi Khen Về Sự Cứu Rỗi Của Phúc Âm Ngài
+THÁNH CA 29: VINH HIỂN CỦA ĐẤNG CHRIST — BÀI CA NGỢI KHEN VỀ SỰ CỨU RỖI CỦA PHÚC ÂM NGÀI
 
 1 Hãy ngợi khen Đức Chúa Trời là Chúa, Và kêu cầu danh Ngài; Hãy rao truyền giữa muôn dân Các công việc Ngài, và đồn danh tiếng Ngài.
 
@@ -646,7 +646,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Hỡi kẻ công chính, hãy vui mừng trong Đức Chúa Trời, Vì các ngươi rất hạnh phúc; Sự cứu rỗi lớn là phần các ngươi, Và các ngươi sẽ thấy [Ngài].
 
-### THÁNH CA 30: Thánh Đồ Thật — Hay, Bài Ca Ngợi Khen Về Sự Nên Thánh
+THÁNH CA 30: THÁNH ĐỒ THẬT — HAY, BÀI CA NGỢI KHEN VỀ SỰ NÊN THÁNH
 
 1 [Hỡi những kẻ] thánh khiết và chân thành [NEEDS REVIEW: OCR "I E that are Holy and Sincere" — hỏng đầu câu], Hãy cất cao lòng và tiếng các ngươi, Hãy hát cho Chúa và đừng sợ, Các ngươi có cớ để vui mừng!
 
@@ -660,7 +660,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Hỡi Chúa vinh hiển, vậy xin đổ Đức Thánh Linh Ngài Xuống trên chúng con, Để chúng con sống cho Ngài trên đất, Và lên thiên đàng!
 
-### THÁNH CA 31: Bài Thánh Ca Về Ê-phê-sô 4:4–6 — Hát Trong Lễ Báp-têm Thánh
+THÁNH CA 31: BÀI THÁNH CA VỀ Ê-PHÊ-SÔ 4:4–6 — HÁT TRONG LỄ BÁP-TÊM THÁNH
 
 1 Hỡi Đức Chúa Cha yêu dấu duy nhất, là Đấng cao cả, trên hết mọi sự, Chúng con sẽ hát ngợi khen, hằng kính sợ, Và kêu cầu Ngài luôn luôn.
 
@@ -676,7 +676,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Trong sự hiệp một của một Hội Thánh Ngài, Nguyện mỗi chúng con ở lại, Và thấy sự an ủi chúng con là Điều chẳng ai khác gặp được.
 
-### THÁNH CA 32: Linh Hồn Rũ Rượi Được Hồi Sinh [NEEDS REVIEW: OCR "HYMN 232"]
+THÁNH CA 32: LINH HỒN RŨ RƯỢI ĐƯỢC HỒI SINH [NEEDS REVIEW: OCR "HYMN 232"]
 
 1 Hỡi các thánh rũ rượi, hỡi những người thuộc dòng vương giả, Sao đầu các ngươi cúi xuống? Dầu một số sa ngã, ân điển sẽ đội cho các ngươi Mão vinh hiển đời đời.
 
@@ -688,7 +688,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Các ngươi đã nếm sự ngọt ngào của Đức Chúa Trời, Ngài đối với các ngươi rất dấu yêu; Các ngươi cảm nhận quyền năng lời Ngài, Vậy hãy vui lòng!
 
-### THÁNH CA 33: Gớm Ghiếc Tư Tưởng Ác — Hay, Lòng Trong Sạch
+THÁNH CA 33: GỚM GHIẾC TƯ TƯỞNG ÁC — HAY, LÒNG TRONG SẠCH
 
 1 Quyền năng Ngài, hỡi Chúa, thật lớn lao, Để đổi mới tư tưởng loài người; Nếu tư tưởng ác đáng ghét dường ấy, Ôi, nguyện chúng con ghét chúng!
 
@@ -700,7 +700,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Họ là những kẻ có cớ vui mừng; Họ hát tôn vinh ngợi khen Ngài [NEEDS REVIEW: phần còn lại của Thánh Ca 33 OCR hỏng: "They'ce ſcv that cauſe have to rejoyce; / thy Praiſes forth to fing ;" rồi mất].
 
-### THÁNH CA 34: Kẻ Bội Đạo Được Chữa Lành — Hay, Lòng Thương Xót Cho Kẻ Bội Đạo [NEEDS REVIEW: OCR "HYMM 934"]
+THÁNH CA 34: KẺ BỘI ĐẠO ĐƯỢC CHỮA LÀNH — HAY, LÒNG THƯƠNG XÓT CHO KẺ BỘI ĐẠO [NEEDS REVIEW: OCR "HYMM 934"]
 
 1 Hỡi các tín hữu, các ngươi còn điều chi nữa, Còn điều chi phải làm, Ngoài việc hát ngợi khen Đức Chúa Trời trên cao, Là Đấng sự giúp đỡ các ngươi tuôn ra?
 
@@ -714,7 +714,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Và cho họ sự an ủi mới Từ Ngài, hỡi Chúa, mỗi ngày sẽ tuôn ra; Họ được tha thứ, và trong tình yêu Ngài Còn lại đời đời; Họ cũng được sinh ra từ trên cao, Và sẽ cùng Chúa Giê-xu cai trị.
 
-### THÁNH CA 35: Ép-ra-im Pha Trộn Giữa Các Dân [NEEDS REVIEW: OCR "Ephraim 2ixed among the People" — theo Ô-sê 7:8]
+THÁNH CA 35: ÉP-RA-IM PHA TRỘN GIỮA CÁC DÂN [NEEDS REVIEW: OCR "EPHRAIM 2IXED AMONG THE PEOPLE" — THEO Ô-SÊ 7:8]
 
 1 Kẻ trong lòng tinh sạch là sự vui thích của Ngài, Hỡi Đấng chí thánh! Mọi kẻ làm điều ngay thẳng Mới được hát ngợi khen Ngài.
 
@@ -728,7 +728,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Chớ đụng đến vật ô uế, Và Đức Chúa Trời sẽ nhận các ngươi; Và các ngươi sẽ uống nơi suối ngọt ngào Ngài; Hãy hát như vậy, và nói: A-men.
 
-### THÁNH CA 36: [Thầy Thuốc Nhân Lành] [NEEDS REVIEW: tựa OCR hỏng hoàn toàn: "Te Fcoa / Kd" — đặt theo nội dung]
+THÁNH CA 36: [THẦY THUỐC NHÂN LÀNH] [NEEDS REVIEW: TỰA OCR HỎNG HOÀN TOÀN: "TE FCOA / KD" — ĐẶT THEO NỘI DUNG]
 
 1 Hỡi kẻ có tội, hãy vui mừng [NEEDS REVIEW: OCR "I Qlnners rejoVce Wi th 1 þ" — hỏng], Vì Thầy Thuốc phước hạnh các ngươi đã gần; Dầu Ngài sẽ chữa lành, rượu Ngài sẽ làm vui, Bệnh tật chúng con Ngài đã gánh chịu.
 
@@ -738,7 +738,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Ngài có dầu xức cho mọi vết thương; Ngài đã chết để chúng con được sống; Vậy chúng con sẽ dâng lên Ngài luôn luôn Mọi lời ngợi khen.
 
-### THÁNH CA 37: Tiếng Chim Cu Nghe Trong Xứ Chúng Ta (Nhã Ca 2:12)
+THÁNH CA 37: TIẾNG CHIM CU NGHE TRONG XỨ CHÚNG TA (NHÃ CA 2:12)
 
 1 Huyết báu Ngài đã đổ ra, hỡi Chúa, Để tẩy sạch linh hồn con khỏi tội; [Ân điển] đã mua chuộc để đổi mới linh hồn con [NEEDS REVIEW: OCR "Vhich putrchas'd Grace my ſou! to change" — hỏng], Công việc nầy bao giờ sẽ bắt đầu?
 
@@ -752,7 +752,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Hỡi những kẻ còn ngủ trong tội, hãy trỗi dậy, Mau đến và sống; Như vậy các ngươi sẽ hát và vui mừng, Và dâng vinh hiển cho Đấng Christ.
 
-### THÁNH CA 38: Hãy Đến Mua [NEEDS REVIEW: tựa OCR mất; đặt theo nội dung — Ma-thi-ơ 13:45–46]
+THÁNH CA 38: HÃY ĐẾN MUA [NEEDS REVIEW: TỰA OCR MẤT; ĐẶT THEO NỘI DUNG — MA-THI-Ơ 13:45–46]
 
 1 Hãy đến mua của [Ngài]? Hỡi Chúa, nguyện chúng con [NEEDS REVIEW: OCR "T Ome buy of thee? Lord let us / C what 'tis that thou doſt /el{!" — hỏng], [Ngọc quý và thiên đàng]! Viên Ngọc Quý và thiên đàng, Ôi Chúa, lưỡi nào tả được!
 
@@ -766,7 +766,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Hãy hát, hát ngợi khen Đức Chúa Trời, các ngươi phải luôn luôn, [Đấng ban] viên ngọc quý nầy [NEEDS REVIEW: OCR ", who this rich Pear! have" — hỏng]; Các ngươi muốn thành gì, các ngươi còn có thể Hỏi, tìm, khao khát hay ước ao điều chi nữa?
 
-### THÁNH CA 39: Đấng Christ Đổ Huyết, Và Lòng Đổ Huyết
+THÁNH CA 39: ĐẤNG CHRIST ĐỔ HUYẾT, VÀ LÒNG ĐỔ HUYẾT
 
 1 Ôi, Ngài nhân từ và tốt lành dường nào, hỡi Chúa, Đối với kẻ có tội hèn mạt! Cơn thạnh nộ Ngài đã qua, và Ngài mỉm cười với chúng con, Trong Chúa Giê-xu Christ?
 
@@ -780,7 +780,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Họ nhìn lên Ngài, vậy họ than khóc, Nhưng bởi đức tin lại vui mừng; Họ chẳng thể không đau buồn, cũng chẳng nín được Không hát với tiếng vui vẻ.
 
-### THÁNH CA 40: Sự Cứu Rỗi Lớn Lao Và Vinh Hiển
+THÁNH CA 40: SỰ CỨU RỖI LỚN LAO VÀ VINH HIỂN
 
 1 [Hỡi Đức Chúa Trời vĩ đại của tình yêu, xin gửi từ trên cao] [NEEDS REVIEW: OCR "Tt 7D Reat God of Love ſend from abon" — hỏng], Giê-ru-sa-lem mới của Ngài; Trên đầu Chúa Giê-xu, xin khiến Mão triều lấp lánh Ngài lan tỏa.
 
@@ -794,7 +794,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Nay công việc trời đã bắt đầu nơi đây, Công việc hát ngợi khen; Hãy sống thánh khiết, vui mừng và hát Cho đến khi các ngươi hết đời.
 
-### THÁNH CA 41: Sự Chiến Thắng Của Lòng Mềm Mại [NEEDS REVIEW: OCR "HYMN A4r"]
+THÁNH CA 41: SỰ CHIẾN THẮNG CỦA LÒNG MỀM MẠI [NEEDS REVIEW: OCR "HYMN A4R"]
 
 1 Hỡi những linh hồn có lòng mềm mại, hãy vui mừng, Và hát tôn vinh ngợi khen Đức Chúa Trời; Hãy cất tiếng các ngươi trong các bài thánh ca thánh, Khi các ngươi còn sống trên đất.
 
@@ -804,7 +804,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Tội lỗi đối với các ngươi thật đau đớn, Các ngươi chẳng chịu nổi nó; Ôi, thật vậy sao! Vậy hỡi kẻ có tội, [hãy hát] ngợi khen Đức Chúa Trời [NEEDS REVIEW: OCR "O is it thus! then ſins, God's Praiſe, / N | tor you ſhall ſing for ever" — hỏng], Vì các ngươi sẽ hát đời đời.
 
-### THÁNH CA 42: Lòng Tan Vỡ Và Ăn Năn
+THÁNH CA 42: LÒNG TAN VỠ VÀ ĂN NĂN
 
 1 Hỡi các thánh, có cớ vui mừng nào nơi đây? Các ngươi có lòng mềm mại chăng? Hãy ngẩng đầu lên, hãy vững lòng, Các ngươi có phần phước hạnh!
 
@@ -816,7 +816,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Hỡi Chúa, Ngài sẽ ở với kẻ ăn năn, Và cũng làm họ sống lại; Trên linh hồn khiêm nhường chân thành, Mọi phước hạnh bền vững tuôn chảy.
 
-### THÁNH CA 43: Sự Công Chính Vinh Hiển Của Đấng Christ [NEEDS REVIEW: OCR "HYMN 423"]
+THÁNH CA 43: SỰ CÔNG CHÍNH VINH HIỂN CỦA ĐẤNG CHRIST [NEEDS REVIEW: OCR "HYMN 423"]
 
 1 Sự công chính của Đấng Christ được kể cho, Những kẻ tin; Hãy hát ngợi khen Đấng Christ, và Đức Chúa Trời trên cao, [Đấng ban] ân điển nầy cho kẻ nhận.
 
@@ -830,7 +830,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Chúng ta há chẳng luôn luôn Vui mừng trong Chúa Giê-xu Christ, Và hát cho Ngài du dương, Với lòng và tiếng vui vẻ sao?
 
-### THÁNH CA 44: Đồng Tiền Của Đấng Christ — Hay, Tiền Công Của Người Làm Thuê (Điệu Thi Thiên 25; Ma-thi-ơ 20)
+THÁNH CA 44: ĐỒNG TIỀN CỦA ĐẤNG CHRIST — HAY, TIỀN CÔNG CỦA NGƯỜI LÀM THUÊ (ĐIỆU THI THIÊN 25; MA-THI-Ơ 20)
 
 1 Ôi, hạnh phúc thay những linh hồn Được Ngài thuê mướn; Vì những kẻ Ngài chấp nhận, Hết thảy sẽ được cứu.
 
@@ -840,7 +840,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Phần thưởng của ân điển vượt trội Những [phần thưởng] bởi nợ nần [NEEDS REVIEW: OCR "Rewards of Grace excell / Such which from Debts ariſe" — hỏng]; Hỡi các thánh, hãy vui mừng trong Đức Chúa Trời luôn luôn, Và quý trọng Đấng Cứu Rỗi dấu yêu các ngươi.
 
-### THÁNH CA 45: Sự Chết Phước Hạnh Của Các Thánh — Hát Trong Lễ Tang Của Bà Ê-li-sa-bét Bright, Ngày 7 Tháng 12 Năm 1697 [NEEDS REVIEW: ngày 1697 sau năm xuất bản 1696 ghi trên bìa — có thể OCR đọc sai]
+THÁNH CA 45: SỰ CHẾT PHƯỚC HẠNH CỦA CÁC THÁNH — HÁT TRONG LỄ TANG CỦA BÀ Ê-LI-SA-BÉT BRIGHT, NGÀY 7 THÁNG 12 NĂM 1697 [NEEDS REVIEW: NGÀY 1697 SAU NĂM XUẤT BẢN 1696 GHI TRÊN BÌA — CÓ THỂ OCR ĐỌC SAI]
 
 1 Lời Ngài, hỡi Chúa, an ủi những kẻ Tin cậy nơi Ngài; Phải, mọi kẻ Ngài đã chọn Đều nhận ân điển làm cho sống lại của Ngài.
 
@@ -852,7 +852,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Vậy hãy thôi than khóc cho những người Đã về cùng Chúa Giê-xu phước hạnh; Vì họ chiếu sáng vinh hiển rực rỡ, Và đã đoạt giải thưởng phước hạnh.
 
-### THÁNH CA 46: Sự Chết Hạnh Phúc Của Người Tin Kính — Hát Trong Lễ Tang Của Ông Giăng Tredwel [NEEDS REVIEW: OCR "HYMN 426"]
+THÁNH CA 46: SỰ CHẾT HẠNH PHÚC CỦA NGƯỜI TIN KÍNH — HÁT TRONG LỄ TANG CỦA ÔNG GIĂNG TREDWEL [NEEDS REVIEW: OCR "HYMN 426"]
 
 1 Hãy trở về cùng Đức Chúa Trời, nơi an nghỉ các ngươi, Hỡi kẻ có tội, mau mau; Bởi Đấng Christ, các ngươi phải đến gần Đức Chúa Trời, Vì mọi điều các ngươi cần.
 
@@ -866,7 +866,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Sự chết là giấc ngủ, là sự yên nghỉ Khỏi mọi sầu thảm nơi đây; Chúng ta hãy tin như vậy để chúng ta với Đấng Christ Được hiện ra trong vinh hiển.
 
-### THÁNH CA 47: Thi Thiên 17:15 — "Tôi Sẽ Được Thỏa Nguyện Khi Tỉnh Thức Trong Hình Ảnh Ngài" — Hát Trong Lễ Tang Của Bà Sa-ra Wilmow, Ngày 14 Tháng 7 Năm 1694
+THÁNH CA 47: THI THIÊN 17:15 — "TÔI SẼ ĐƯỢC THỎA NGUYỆN KHI TỈNH THỨC TRONG HÌNH ẢNH NGÀI" — HÁT TRONG LỄ TANG CỦA BÀ SA-RA WILMOW, NGÀY 14 THÁNG 7 NĂM 1694
 
 1 [Hãy đến] cùng Chúa, hỡi các thánh của Ngài [NEEDS REVIEW: OCR "1 COlng to the Lord, ye Saints of hi / > Ar thankfully cprcl h" — hỏng], [Và tạ ơn] [NEEDS REVIEW: OCR hỏng], [Vì] còn lại đời đời [NEEDS REVIEW: OCR "tor ever doth remain" — hỏng câu nối].
 
@@ -880,7 +880,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Chúng con sẽ được thỏa nguyện hoàn toàn Khi [tỉnh thức] [NEEDS REVIEW: OCR "We ſhall be fully ſatisfied / nnl mh: we awake and 74/e" — hỏng; theo Thi Thiên 17:15], Nếu chúng con ngủ trong Chúa Giê-xu Christ; [Ôi], bấy giờ chúng con sẽ đoạt giải thưởng.
 
-### THÁNH CA 48: Sự Cứu Rỗi Chiếu Sáng
+THÁNH CA 48: SỰ CỨU RỖI CHIẾU SÁNG
 
 1 Hỡi các ngươi, hãy hát cho Chúa, Một bài ca mới và êm ái; Vì Ngài đã làm nên bởi tay hữu Ngài, Ngợi khen thuộc về Ngài.
 
@@ -894,7 +894,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Vì sao? Vì Chúa Đức Chúa Trời chúng ta là tốt lành, Và Ngài đã nghe tiếng kêu chúng con; Vì Ngài đã đứng về phía chúng con, hỡi Chúa, Chúng ta hãy ngợi khen Ngài cho đến khi chết.
 
-### THÁNH CA 49: Sự Chiến Thắng Thánh Khiết Của Các Thánh
+THÁNH CA 49: SỰ CHIẾN THẮNG THÁNH KHIẾT CỦA CÁC THÁNH
 
 1 [Hỡi mọi kẻ nương cậy nơi] [NEEDS REVIEW: OCR "1 TE all you who reſt upaſſ », / a Form of Godlineſs" — hỏng; có thể là "Ye all you who rest upon / a form of godliness"], Hình thức của sự tin kính; Cũng như những kẻ thối lui, Dù ít hay nhiều.
 
@@ -912,7 +912,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 8 Chúng ta là kẻ tin sẽ chẳng sa ngã; Những kẻ như vậy thật có thể hát; vậy Họ chẳng thể thối lui đến nỗi chết; Hãy hát ngợi khen đời đời.
 
-### THÁNH CA 50: Quyền Năng Lời Đức Chúa Trời [NEEDS REVIEW: OCR "HY MN -x$0"]
+THÁNH CA 50: QUYỀN NĂNG LỜI ĐỨC CHÚA TRỜI [NEEDS REVIEW: OCR "HY MN -X$0"]
 
 1 Hỡi Chúa, lời Ngài chiếu sáng trên chúng con Thật đáng ngợi khen cao; Nhưng hạnh phúc thay những kẻ thấy tia sáng nó, Và quyền năng thiêng liêng vinh hiển.
 
@@ -926,7 +926,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Mọi vinh hiển, quyền năng và ngợi khen, Chúng con [dâng] đời đời; Nào, chúng ta hãy hát cho [Vua] chúng ta [NEEDS REVIEW: OCR "Els let us Sing unto our MX:2g, G" — hỏng], Và thờ lạy Ngài trong lòng.
 
-### THÁNH CA 51: Lòng Thương Xót Vô Biên (Điệu Thi Thiên 24) [NEEDS REVIEW: OCR "HYMN $1"]
+THÁNH CA 51: LÒNG THƯƠNG XÓT VÔ BIÊN (ĐIỆU THI THIÊN 24) [NEEDS REVIEW: OCR "HYMN $1"]
 
 1 [Về lòng thương xót] [NEEDS REVIEW: OCR "I F Mercy itill, O Lotd, V / We wii together Sing" — hỏng đầu bài], Hỡi Chúa, chúng con sẽ cùng nhau hát; Và trong các bài ca thánh ngọt ngào Tôn cao Vua vinh hiển chúng con.
 
@@ -940,7 +940,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Vậy hãy hát, dầu trong [bụi đất] [NEEDS REVIEW: OCR "5 Then Sing, tho' in-the Du?" — hỏng], Các ngươi nằm một thời gian ngắn; Ngày gần rồi sẽ khiến mọi Kẻ được tha thứ của Đức Chúa Trời mỉm cười.
 
-### THÁNH CA 52: Lời Kêu Gọi Vâng Lời
+THÁNH CA 52: LỜI KÊU GỌI VÂNG LỜI
 
 1 Các mạng lệnh Ngài, hỡi Chúa, Như ống dẫn chảy rượu; Chúng con ngợi khen Ngài nay đồng một lòng, Vì mỗi mạng lệnh Ngài.
 
@@ -950,7 +950,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Chịu báp-têm [NEEDS REVIEW: OCR "F 4 Baptized 4 Y Lord, ſome we fear: / 0 at approve : / do not 9 [t 9 PP C But:" — hỏng nặng], Nhưng những kẻ thật chân thành, Và thật lòng yêu mến Ngài, Sẽ [vâng lời] mọi điều Ngài phán [NEEDS REVIEW: OCR "5s Will as whatever Thou doſt ſay" — hỏng]; Mỗi mạng lệnh, hỡi Chúa, là đúng; Và điều mà một số ghét bỏ, Lại đáng yêu trước mắt Ngài.
 
-### THÁNH CA 53: Niềm Vui Thuộc Linh [NEEDS REVIEW: tựa OCR hỏng; theo mục lục là "Spiritual joy"]
+THÁNH CA 53: NIỀM VUI THUỘC LINH [NEEDS REVIEW: TỰA OCR HỎNG; THEO MỤC LỤC LÀ "SPIRITUAL JOY"]
 
 1 Hỡi những kẻ ở trong nhà, hãy vui mừng, Trong nhà bằng đất sét, Vì thân thể các thánh vượt trội [NEEDS REVIEW: OCR "Far Bodies of the Sarmts ecxcell ; / and ſhall another Day" — hỏng], Và sẽ [sống lại] một ngày khác.
 
@@ -964,7 +964,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Một số vui mừng trong giàu có, kẻ khác Dư dật trong thú vui; Nhưng chỉ những kẻ tìm được ân huệ Đức Chúa Trời Mới có cớ vui mừng.
 
-### THÁNH CA 54: Đấng Christ, Người Chăn Chiên Vinh Hiển Của Chúng Ta [NEEDS REVIEW: OCR "HYMN $54"]
+THÁNH CA 54: ĐẤNG CHRIST, NGƯỜI CHĂN CHIÊN VINH HIỂN CỦA CHÚNG TA [NEEDS REVIEW: OCR "HYMN $54"]
 
 1 Nào, chúng ta hãy hát cho Người Chăn Chiên chúng ta, Người Chăn của bầy chiên; Phước thay, hỡi những linh hồn hạnh phúc, Là kẻ Ngài, hỡi Đấng Christ, gìn giữ.
 
@@ -982,7 +982,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 8 [Chúng con ghét] nghe tiếng kẻ lạ [NEEDS REVIEW: OCR "8 fnl hate tomind a Strangers Voice, WO / thy Poftrine let us hear" — hỏng; theo Giăng 10:5], Nguyện chúng con nghe giáo lý Ngài, Để chúng con hết thảy vui mừng với Ngài, Khi Ngài, hỡi Chúa, sẽ hiện ra.
 
-### THÁNH CA 55: Lẽ Thật Trong Sự Thuần Khiết Nguyên Thủy — Hát Trong Lễ Báp-têm
+THÁNH CA 55: LẼ THẬT TRONG SỰ THUẦN KHIẾT NGUYÊN THỦY — HÁT TRONG LỄ BÁP-TÊM
 
 1 Nào, chúng ta hãy cất tiếng vui mừng, Và hát cho Chúa; Và trong sự kính sợ Đức Chúa Trời hiệp một niềm vui chúng ta, Đồng một lòng [hát] cho Ngài.
 
@@ -996,7 +996,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Nếu mỗi lẽ thật, hỡi Chúa, được chúng con Tiếp nhận trong tình yêu chân thành, Nó sẽ là bằng chứng cho chúng con, Rằng chúng con được sinh ra từ trên cao.
 
-### THÁNH CA 56: Chàng Rể Thuộc Linh — Hát Trong Lễ Báp-têm [NEEDS REVIEW: OCR "HYMN oO"]
+THÁNH CA 56: CHÀNG RỂ THUỘC LINH — HÁT TRONG LỄ BÁP-TÊM [NEEDS REVIEW: OCR "HYMN OO"]
 
 1 Thật êm ái biết bao khi thấy [Kẻ có tội] đính ước [NEEDS REVIEW: OCR "Ow pleaſant is it, for to ſee / | oor S:zmers to eſpouſe" — hỏng], Với Chúa dấu yêu nhất của họ, là Đấng duy nhất, Hoa hồng Sa-rôn phước hạnh.
 
@@ -1012,7 +1012,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Ôi, bấy giờ hãy cùng các thiên sứ hát ngợi khen Người Bạn chí thánh nhất các ngươi; Hãy tôn cao vinh hiển của Chúa Giê-xu Christ, Cho đến khi ngày các ngươi hết.
 
-### THÁNH CA 57: Cây Trồng Trong Đền Đức Chúa Trời (Điệu Thi Thiên 25) [NEEDS REVIEW: OCR "HYMN $7"]
+THÁNH CA 57: CÂY TRỒNG TRONG ĐỀN ĐỨC CHÚA TRỜI (ĐIỆU THI THIÊN 25) [NEEDS REVIEW: OCR "HYMN $7"]
 
 1 Hỡi kẻ có tội, nay hãy vào, Đấng Christ mời hết thảy các ngươi; Hãy trở lại, trở lại, khiến các thiên sứ hát, Hãy trở lại vì Đấng Christ đang gọi.
 
@@ -1028,7 +1028,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Vậy hãy hát tôn vinh ngợi khen Ngài, Hãy tôn quý và thờ lạy Ngài; Vì các ngươi sẽ hát cho Vua mình Trong vinh hiển đời đời.
 
-### THÁNH CA 58: Vườn Nho Của Đấng Christ [NEEDS REVIEW: OCR "HYMN $598"]
+THÁNH CA 58: VƯỜN NHO CỦA ĐẤNG CHRIST [NEEDS REVIEW: OCR "HYMN $598"]
 
 1 Vườn nho Ngài, hỡi Chúa, đã được mua chuộc, Dầu xưa nó hoang vu, Và khô cằn như bất cứ đất nào Ngài thấy trên đất.
 
@@ -1038,7 +1038,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Chúng con sẽ rao truyền ngợi khen Chúa Trong các bài thánh ca thánh; Và hát đồng một lòng, Khi chúng con còn sống trên đất.
 
-### THÁNH CA 59: Cây Nho Cao Quý
+THÁNH CA 59: CÂY NHO CAO QUÝ
 
 1 Nầy trên đất có cây nho cao quý, Trồng nơi đất tốt; Rễ nó hoàn toàn thiêng liêng, Và đầy dẫy ân điển quý báu.
 
@@ -1050,7 +1050,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Ngài sẽ ngợi khen những kẻ sai trái, Vậy chúng con thờ lạy Ngài, Và trong các bài thánh ca ngọt ngào sẽ hát cho Ngài, Nay và đời đời.
 
-### THÁNH CA 60: Tình Yêu Cứu Chuộc [NEEDS REVIEW: OCR "Reaceming Love"]
+THÁNH CA 60: TÌNH YÊU CỨU CHUỘC [NEEDS REVIEW: OCR "REACEMING LOVE"]
 
 1 [Ước gì] chúng con có thể như các thiên sứ Lớn tiếng hát ngợi khen Đức Chúa Trời, Vì những việc lạ lùng của tình yêu cứu chuộc, Là nguồn bình an linh hồn tuôn ra.
 
@@ -1060,7 +1060,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Hãy hát và chiến thắng trong ân điển vô biên, Là ân điển đã giải phóng các ngươi; Hãy reo hò tôn cao, hỡi mọi kẻ tin, Đức Chúa Trời các ngươi luôn luôn.
 
-### THÁNH CA 61: Đồ Ăn Thuộc Linh
+THÁNH CA 61: ĐỒ ĂN THUỘC LINH
 
 1 Hỡi Chúa, xin nhớ đến [linh hồn chúng con] [NEEDS REVIEW: OCR "I Ur Soxls O Lord, think thou upon" — hỏng], Chớ để chúng con quên chúng; Xin [tẩy sạch] chúng, hỡi Đấng chí thánh [NEEDS REVIEW: OCR "Put clearhe them, (2) moſt holy One" — hỏng], Và ban cho chúng đồ ăn quý báu.
 
@@ -1070,7 +1070,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Xin nhắc chúng con, hỡi Chúa, nhớ Điều cần làm; Để Sa-tan chẳng hề thắng hơn, Chẳng làm chúng con sụp đổ.
 
-### THÁNH CA 62: Vinh Dự Của Tôi Tớ Đấng Christ [NEEDS REVIEW: OCR "J's Henour of Chriit's Servants"]
+THÁNH CA 62: VINH DỰ CỦA TÔI TỚ ĐẤNG CHRIST [NEEDS REVIEW: OCR "J'S HENOUR OF CHRIIT'S SERVANTS"]
 
 1 Hỡi tôi tớ của Chúa các đạo binh [NEEDS REVIEW: OCR "E Servants of the Lord of HolttfC" — hỏng; có thể là "of Hosts"], Là kẻ ở trong vườn nho Ngài, Là kẻ hầu việc Ngài và làm công việc Ngài, Hãy ngợi khen Ngài luôn luôn.
 
@@ -1082,7 +1082,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Nguyện chúng con với lòng vui vẻ hát ra Ngợi khen của Chúa nầy; Vì chẳng ai giống như Ngài Trên trời hay dưới đất.
 
-### THÁNH CA 63: Đấng Christ Là Sức Mạnh Và Đấng Dẫn Dắt Các Thánh
+THÁNH CA 63: ĐẤNG CHRIST LÀ SỨC MẠNH VÀ ĐẤNG DẪN DẮT CÁC THÁNH
 
 1 [Hỡi Chúa], chúng con ngợi khen Ngài hết linh hồn [NEEDS REVIEW: OCR "() Lord we praiſe thee with our Souls" — hỏng đầu], Ngài cảnh báo chúng con Về những nguy hiểm lớn chúng con đang ở trong, Và dạy chúng con cách sống.
 
@@ -1094,7 +1094,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Vậy, hỡi Chúa, Ngài xứng đáng Được ngợi khen luôn luôn; Nguyện mọi sự trong chúng con dâng lời tạ ơn, Và ngợi khen Ngài cho đến khi chết.
 
-### THÁNH CA 64: [Còn Hy Vọng Cho Kẻ Có Tội] [NEEDS REVIEW: OCR "HYMN & =" — số và tựa mất; đặt theo nội dung câu "But they said, There is no Hope"]
+THÁNH CA 64: [CÒN HY VỌNG CHO KẺ CÓ TỘI] [NEEDS REVIEW: OCR "HYMN & =" — SỐ VÀ TỰA MẤT; ĐẶT THEO NỘI DUNG CÂU "BUT THEY SAID, THERE IS NO HOPE"]
 
 1 "Nhưng họ nói: Chẳng còn hy vọng" [NEEDS REVIEW: OCR "But they fuid, There is no Hope, || « ( / p, | / ; ' y * > - | pp '" — hỏng nặng; theo Giê-rê-mi 2:25 / 18:12], [Hỡi kẻ có tội], hãy vui mừng, và nói [NEEDS REVIEW: OCR "do you Rejoyce, and lay," — hỏng], "Còn hy vọng chúng ta tìm được lòng thương xót, Hãy tin, và đừng trì hoãn."
 
@@ -1104,7 +1104,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Vinh hiển cho Đức Chúa Trời, vinh hiển cho Đấng Christ, Nguyện kẻ có tội chớ nói nữa: "Chẳng còn hy vọng"? Nguyện mọi người hãy tin, Và thờ lạy ân điển ban cho không của Ngài.
 
-### THÁNH CA 65: Niềm Vui Của Tín Hữu — Hay, Quyền Năng Của Sự Cầu Thay Của Đấng Christ
+THÁNH CA 65: NIỀM VUI CỦA TÍN HỮU — HAY, QUYỀN NĂNG CỦA SỰ CẦU THAY CỦA ĐẤNG CHRIST
 
 1 Sự cầu thay Ngài, hỡi Chúa thánh, Ban cho chúng con niềm vui và bình an. Vậy chúng con sẽ đồng một lòng, Chẳng hề thôi hát.
 
@@ -1116,7 +1116,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Hỡi các thánh, hãy vui mừng, hãy cất tiếng các ngươi, Đấng Christ ở bên hữu Đức Chúa Trời; Giữa cơn thạnh nộ Đức Chúa Trời và linh hồn khốn khổ chúng ta, Ngài đứng đó đời đời.
 
-### THÁNH CA 66: Đồng Cỏ Xanh Của Đấng Christ — Hát Trong Lễ Báp-têm
+THÁNH CA 66: ĐỒNG CỎ XANH CỦA ĐẤNG CHRIST — HÁT TRONG LỄ BÁP-TÊM
 
 1 Hỡi Đấng Được Yêu Dấu của linh hồn con, Ngài có một dân được tự do Khỏi mọi sự pha trộn hèn hạ, được tẩy sạch, Ôi — xin cho con biết họ ở đâu!
 
@@ -1134,9 +1134,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 8 Hãy đem kẻ có tội xa gần vào; Ôi, xin làm đầy nhà Ngài, hỡi Chúa, Và chúng con sẽ ngợi khen Ngài đời đời, Với niềm vui và đồng một lòng.
 
----
-
-### THÁNH CA 67: Sự Đầy Dẫy Của Đấng Christ
+THÁNH CA 67: SỰ ĐẦY DẪY CỦA ĐẤNG CHRIST
 
 1 Ngợi khen tôn cao Ngài, hỡi Đấng Thánh, Mà chúng con sẽ hằng dâng lên; Chính Chúa Giê-xu chúng con phải tôn đại, Và sống cho Ngài trọn mọi ngày.
 
@@ -1148,7 +1146,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Nguyện vinh hiển, tôn trọng, và danh tiếng, Cho Đức Chúa Cha và Đức Chúa Con, Và Đức Thánh Linh, bởi đó, Bây giờ và cho đến đời đời.
 
-### THÁNH CA 68: Ngợi Khen Đức Chúa Trời Thật Xứng Hợp Với Kẻ Ngay Thẳng
+THÁNH CA 68: NGỢI KHEN ĐỨC CHÚA TRỜI THẬT XỨNG HỢP VỚI KẺ NGAY THẲNG
 
 1 Nào, hãy hát vui mừng nhất Cho Đức Chúa Trời của quyền năng cứu rỗi, Để tôn cao lời ngợi khen Đấng Chí Cao, Thật xứng hợp với mọi kẻ ngay thẳng.
 
@@ -1164,7 +1162,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Hỡi kẻ công chính, hãy hát cho Đức Chúa Trời, Hãy dâng lời ngợi khen Ngài; Và nguyện mọi dân ca hát cho Ngài, Cho đến tận cùng trái đất.
 
-### THÁNH CA 69: Cái Rìu Đã Giơ Lên — Hay, Cơn Thạnh Nộ Đuổi Theo Kẻ Có Tội
+THÁNH CA 69: CÁI RÌU ĐÃ GIƠ LÊN — HAY, CƠN THẠNH NỘ ĐUỔI THEO KẺ CÓ TỘI
 
 1 Lạy Chúa, Đấng công chính và thánh khiết, Chúng con lấy làm lạ thay, Rằng những cây chẳng kết quả chưa bị đốn đi, Điều này tỏ lòng thương xót Ngài.
 
@@ -1174,7 +1172,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Vậy nguyện hết thảy chúng con được thấy là cây tốt, Và cũng kết quả nữa. Xin Ngài làm cho lòng chúng con [NEEDS REVIEW: OCR "Make thou our Hearts Knead Sa" — hỏng] sạch; Bấy giờ chúng con sẽ vui mừng [vì chúng con có] kho tàng dự trữ. Xin giúp chúng con, hỡi Đức Chúa Trời yêu dấu, [chu cấp] sự thiếu thốn chúng con, Và chúng con sẽ hát ca đời đời.
 
-### THÁNH CA 70: Ha-lê-lu-gia — Hay, Thánh Ca Ngợi Khen Về Vinh Hiển Đang Đến Gần
+THÁNH CA 70: HA-LÊ-LU-GIA — HAY, THÁNH CA NGỢI KHEN VỀ VINH HIỂN ĐANG ĐẾN GẦN
 
 1 Hãy vui mừng, hỡi những kẻ đầy ơn, [Đức Chúa Trời] đã nghe lời cầu nguyện các ngươi; Và Ngài sẽ sớm cất đi tiếng than thở các ngươi, Vậy hãy hát Ha-lê-lu-gia.
 
@@ -1186,7 +1184,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 [NEEDS REVIEW: OCR "To comfort Brea and ſmil x Jake! ſhall quickly fall" — hỏng, "Jake" có thể là "Babel"] Để an ủi ... và mỉm cười ... sẽ mau sụp đổ; Và Đấng Christ sẽ cai trị và trị vì trên mọi sự, Vậy nên Ha-lê-lu-gia.
 
-### THÁNH CA 71: Kho Báu Trong Chậu Đất — Hay, Mọi Vinh Hiển Cho Đức Chúa Trời
+THÁNH CA 71: KHO BÁU TRONG CHẬU ĐẤT — HAY, MỌI VINH HIỂN CHO ĐỨC CHÚA TRỜI
 
 1 [NEEDS REVIEW: OCR "of Praife- the-Eord;and-look-to-hiz ling" — hỏng một phần] Hãy hát ngợi khen Đức Chúa Trời; và trông cậy nơi [ơn gọi] Ngài. Ngợi khen Danh Ngài; Hỡi các thánh trên trời và dưới đất, [hãy hát] về danh tiếng vinh hiển Ngài.
 
@@ -1202,7 +1200,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 Nào, chúng ta hãy hiệp cùng các thiên sứ, Vinh hiển cho Đức Chúa Trời trên cao, Bình an dưới đất, thiện ý cho loài người; Hãy hát như vậy đời đời.
 
-### THÁNH CA 72: Một Bài Hát — Hay, Lời Kêu Gọi Hãy Đến [Với Đấng Christ] [NEEDS REVIEW: OCR "a Snag. Or, A Call to come to." — hỏng phần cuối tựa đề]
+THÁNH CA 72: MỘT BÀI HÁT — HAY, LỜI KÊU GỌI HÃY ĐẾN [VỚI ĐẤNG CHRIST] [NEEDS REVIEW: OCR "A SNAG. OR, A CALL TO COME TO." — HỎNG PHẦN CUỐI TỰA ĐỀ]
 
 1 Hỡi các tù nhân, hãy lắng nghe, kèn đã vang lên Một lời kêu gọi; ấy là cho các ngươi Hãy đến với Đấng Christ; dầu tội lỗi gia tăng, Ân điển Đức Chúa Trời vẫn tuôn tràn.
 
@@ -1216,7 +1214,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Linh hồn các ngươi khỏi cơn thạnh nộ — ôi, hãy nhìn lên Ngài! Để các ngươi cũng hát như vậy Các ngươi sẽ có bình an thật và được Tự do khỏi mọi kẻ thù.
 
-### THÁNH CA 73: Địa Ngục Nổi Cơn Thạnh Nộ — Hát Trong Lễ Báp-têm
+THÁNH CA 73: ĐỊA NGỤC NỔI CƠN THẠNH NỘ — HÁT TRONG LỄ BÁP-TÊM
 
 1 Hãy cất tiếng, hát và vui mừng, Nước mắt cảm động các ngươi đâu rồi; Kẻ có tội quay lại, chạy đến với Đấng Christ, Điều này làm Sa-tan khiếp sợ;
 
@@ -1230,7 +1228,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Để chúng con thấy luôn luôn, Cớ để vui mừng nơi họ, Là kẻ, bởi chân thật, sẽ hiện ra Với Đấng Christ, A-men, A-men.
 
-### THÁNH CA 74: Thang Của Gia-cốp, Hình Bóng [Về Đấng Christ?] [NEEDS REVIEW: OCR "Jacob's Ladder, a Type Sh. - a al ... in a. moſt ſacred ," — hỏng phần cuối tựa đề]
+THÁNH CA 74: THANG CỦA GIA-CỐP, HÌNH BÓNG [VỀ ĐẤNG CHRIST?] [NEEDS REVIEW: OCR "JACOB'S LADDER, A TYPE SH. - A AL ... IN A. MOST SACRED ," — HỎNG PHẦN CUỐI TỰA ĐỀ]
 
 1 [NEEDS REVIEW: OCR "7 FRG, he and Wonder m##w ... in a. moſt ſacred ," — hỏng] ... trong [bài ca] chí thánh, Ôi, chúng ta hãy tôn cao Danh Đấng Christ, Lời ngợi khen thuộc về Ngài.
 
@@ -1248,7 +1246,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 8 Và thật kỳ diệu thay, Khi chúng ta thấy điều này, Rằng Ngài, Đấng là mọi sự sống và tình yêu, Mà ít kẻ, than ôi! yêu mến Ngài.
 
-### THÁNH CA 75: Điều Kỳ Diệu Của Ân Điển Tha Thứ
+THÁNH CA 75: ĐIỀU KỲ DIỆU CỦA ÂN ĐIỂN THA THỨ
 
 1 Hãy đứng và lấy làm lạ, hỡi mọi người, Về con đường Đức Chúa Trời đã tìm ra Để tha thứ chúng ta, ấy là ân điển dường ấy, Dồi dào mạnh mẽ thay.
 
@@ -1256,7 +1254,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 3 [NEEDS REVIEW: OCR "3 No ... yea, Sinners, your Pardon ready is, O fall-at Jeſuss feet ;, / Believe on. him ... his Pardoning ... O let us ... Who Pardons all ... all Iniquity" — hỏng] Này, hỡi kẻ có tội, sự tha thứ các ngươi đã sẵn sàng, Hãy sấp mình dưới chân Chúa Giê-xu; Hãy tin nơi Ngài ... sự tha thứ Ngài ... Ôi, chúng ta hãy ... Đấng tha thứ mọi ... mọi gian ác.
 
-### THÁNH CA 76: "Ta Sẽ Đặt Thần Mới Trong Các Ngươi" (Ê-xê-chi-ên 36) — Hay, Thánh Đồ Không Mỏi Mệt
+THÁNH CA 76: "TA SẼ ĐẶT THẦN MỚI TRONG CÁC NGƯƠI" (Ê-XÊ-CHI-ÊN 36) — HAY, THÁNH ĐỒ KHÔNG MỎI MỆT
 
 1 [NEEDS REVIEW: OCR "Bleſſed Lord, what hab Jon done } That makes \"thy Saints. j and thy fweet 14p* | Fn ? > How heavy and BOW" — hỏng nặng] Lạy Chúa phước hạnh, Ngài đã làm gì khiến các thánh Ngài ... và ... ngọt ngào Ngài ... Nặng nề và ... dường nào.
 
@@ -1268,7 +1266,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Và chúng con sẽ ngợi khen Danh thánh Ngài ... luôn luôn; Và chẳng hề mỏi mệt về đường lối Ngài, cho đến khi chúng con qua đời.
 
-### THÁNH CA 77: Triều Đình Đức Chúa Trời, Hay, Vinh Hiển Gần Kề
+THÁNH CA 77: TRIỀU ĐÌNH ĐỨC CHÚA TRỜI, HAY, VINH HIỂN GẦN KỀ
 
 1 Hỡi mọi dân tộc trên đất, Hãy ngợi khen Đức Chúa Trời [NEEDS REVIEW: OCR "praiſe ye the Lord bran of" — hỏng], Và mọi ... hãy rao truyền [NEEDS REVIEW: OCR "And-alt the- pe every we ſet forth his g" — hỏng] ...
 
@@ -1278,7 +1276,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Các ngươi sẽ ... nghe Chúa trị vì [NEEDS REVIEW: OCR "You'll ck hear the Lord doth reign, look up read Sior's in F aval" — hỏng], Hãy ngước lên ... Si-ôn ... và các ngươi có sự giải cứu phước hạnh.
 
-### THÁNH CA 78: Đức Chúa Trời Tha Thứ, Dẫn Dắt, Và Đưa Đường
+THÁNH CA 78: ĐỨC CHÚA TRỜI THA THỨ, DẪN DẮT, VÀ ĐƯA ĐƯỜNG
 
 1 Hãy ngợi khen [Đức Chúa Trời], hỡi kẻ được tha thứ [NEEDS REVIEW: OCR "Qs Praiſe ye In ye pardon'd Ones" — hỏng], Vì nợ các ngươi đã được tha, Vì Đấng Christ đã trả mọi điều các ngươi nợ, [NEEDS REVIEW: OCR "my PIO Foy Nh fond" — hỏng].
 
@@ -1288,7 +1286,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Chính Ngài dẫn dắt, chính Ngài đưa đường, Và ban cho chúng ta sự nghỉ ngơi và bình an; Ôi, hãy hát ngợi khen Đấng Christ, hỡi kẻ được tha thứ, Niềm vui các ngươi sẽ chẳng hề [tàn] [NEEDS REVIEW: OCR "your Joy ſhall neyer ' eee 1" — hỏng].
 
-### THÁNH CA 79: Lời Kêu Gọi Các Thanh Niên
+THÁNH CA 79: LỜI KÊU GỌI CÁC THANH NIÊN
 
 1 Kèn Đấng Christ lại vang lên một lần nữa Để đem kẻ có tội khốn khổ vào; Ngài muốn có những tình nguyện viên Để chiến đấu với tội lỗi họ,
 
@@ -1300,7 +1298,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Khi có ai đến, các thiên sứ hát, Điều ấy gây vui mừng trên cao; Mọi kẻ đến cũng hát được, Vì họ hưởng tình yêu Ngài.
 
-### THÁNH CA 80: Sự Hiệp Một Của Các Thánh
+THÁNH CA 80: SỰ HIỆP MỘT CỦA CÁC THÁNH
 
 1 Xin hiệp lòng chúng con với chính Ngài, Hỡi Chúa, chúng con cầu xin Ngài, Để chúng con hát vang lời ngợi khen Ngài, Và bước đi vui mừng mỗi ngày.
 
@@ -1310,7 +1308,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Và trong lẽ thật Ngài và dây tình yêu, Xin cho chúng con cùng sống với nhau — Trong sự hiệp một, chúng con sẽ hát Lời ngợi khen Ngài, bây giờ và đời đời.
 
-### THÁNH CA 81: Lòng Thương Xót Vô Hạn Tỏa Sáng (Điệu Thi Thiên 25)
+THÁNH CA 81: LÒNG THƯƠNG XÓT VÔ HẠN TỎA SÁNG (ĐIỆU THI THIÊN 25)
 
 1 [NEEDS REVIEW: OCR "I Is of thy Mercy, Lord, T Lore frog fr and of Zove hat we will ling”" — hỏng] Ấy là về lòng thương xót Ngài, lạy Chúa, ... mà chúng con sẽ hát: [lòng thương xót] chiếu sáng từ Ngài trên cao.
 
@@ -1322,7 +1320,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Và nguyện các thánh Ngài vui mừng, Và hát với lòng vui vẻ; Vì một ngày họ sẽ ở với Ngài, Và chẳng hề lìa xa nữa.
 
-### THÁNH CA 82: Niềm Vui Của Nước Mắt Ăn Năn
+THÁNH CA 82: NIỀM VUI CỦA NƯỚC MẮT ĂN NĂN
 
 1 Đường lối Ngài, hỡi Chúa, thật êm dịu dường bao, Và mọi nẻo Ngài đều bình an; Niềm vui của mọi kẻ gắn bó với Ngài, Sẽ chẳng hề, chẳng hề dứt.
 
@@ -1334,7 +1332,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 5 Vậy chúng ta hãy dâng mọi lời ngợi khen cho Đức Chúa Trời Và hát luôn luôn Đấng phán với kẻ có tội: "Hãy tìm và sống: Hãy tin và chớ chết."
 
-### THÁNH CA 83: Chiến Thắng Thánh Khiết Của Các Thánh Trong Đấng Christ
+THÁNH CA 83: CHIẾN THẮNG THÁNH KHIẾT CỦA CÁC THÁNH TRONG ĐẤNG CHRIST
 
 1 Nào, chúng ta hãy đắc thắng trong Chiên Con yêu dấu, Chúa chúng ta, Đấng đã chịu chết; Chúng ta là kẻ tin nơi Chúa Giê-xu, sẽ Có niềm vui đời đời.
 
@@ -1348,7 +1346,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Nhưng các thánh sẽ lại hát, Vì họ được tự do; Mão triều thiên họ ném, lạy Chúa, dưới chân Ngài; [NEEDS REVIEW: OCR "ce ahve Pratfe ho Th Thee: 7" — hỏng] ... ngợi khen ... Ngài.
 
-### THÁNH CA 84: [Hỡi Đấng Christ, Nguyện Mọi Tín Hữu] — Hát Trong Tiệc Thánh [NEEDS REVIEW: OCR "| pA Go tt Chriſt 4 Believers All" — hỏng phần đầu tựa đề]
+THÁNH CA 84: [HỠI ĐẤNG CHRIST, NGUYỆN MỌI TÍN HỮU] — HÁT TRONG TIỆC THÁNH [NEEDS REVIEW: OCR "| PA GO TT CHRIST 4 BELIEVERS ALL" — HỎNG PHẦN ĐẦU TỰA ĐỀ]
 
 1 [Nào], chúng ta hãy hát cho Chúa Giê-xu Christ, Hãy sấp mình trước mặt Ngài; Đấng đã đem sự cứu rỗi chúng ta đến, Chính Ngài là mọi sự trong mọi sự.
 
@@ -1362,7 +1360,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Còn gì nữa, chúng con có thể nói gì, Nhưng trong ... kinh ngạc [NEEDS REVIEW: OCR "but m.,the- rea amazr, wg" — hỏng], Hãy đứng và suy ngẫm, và đời đời Hát vang lời ngợi khen vinh hiển Ngài?
 
-### THÁNH CA 85: Hãy Ra Đi Theo Dấu Chân Bầy (Nhã Ca 1:8) (Điệu Thi Thiên 25)
+THÁNH CA 85: HÃY RA ĐI THEO DẤU CHÂN BẦY (NHÃ CA 1:8) (ĐIỆU THI THIÊN 25)
 
 1 [NEEDS REVIEW: OCR "we, | 1 Jv ny aireſt [+ One!" — hỏng] ... hỡi người đẹp nhất của ta! Chúa yêu dấu ta phán như vầy, Nếu ngươi muốn biết điều ngươi phải làm, Và dự phần với các thánh ta;
 
@@ -1378,7 +1376,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 [NEEDS REVIEW: khổ 7 bị mất trong OCR — chỉ còn "* =P - t Things?"].
 
-### THÁNH CA 86: Người Yêu Dấu Ta Là Của Ta — Hát Khi Nhận Tiệc Thánh
+THÁNH CA 86: NGƯỜI YÊU DẤU TA LÀ CỦA TA — HÁT KHI NHẬN TIỆC THÁNH
 
 1 Phước thay ngày chúng ta có thể nói, Lạy Chúa Giê-xu, Ngài là của con! Ôi, phước thay ngày chúng ta có thể nói, Lạy Chúa Giê-xu, con là của Ngài!
 
@@ -1392,7 +1390,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 6 Ôi, nguyện ... và Hội Thánh này [NEEDS REVIEW: OCR "O Let . but + and this Charch be" — hỏng], Là vườn khoái lạc; Cho Ngài, lạy Chúa, và đồng một lòng, Chúng con sẽ ngợi khen Ngài ngày và đêm.
 
-### THÁNH CA 87: Thánh Ca Ngợi Khen Về Sự Tái Sinh [NEEDS REVIEW: OCR "Ke- 4 Hymn of Praiſe hr the Neb" — hỏng; theo nội dung là "A Hymn of Praise for the New Birth"]
+THÁNH CA 87: THÁNH CA NGỢI KHEN VỀ SỰ TÁI SINH [NEEDS REVIEW: OCR "KE- 4 HYMN OF PRAISE HR THE NEB" — HỎNG; THEO NỘI DUNG LÀ "A HYMN OF PRAISE FOR THE NEW BIRTH"]
 
 1 [NEEDS REVIEW: OCR "Ou that are born and. ſing God's plies F fo" — hỏng] Ôi, [hỡi kẻ] được tái sinh, và hãy hát ngợi khen Đức Chúa Trời như vậy.
 
@@ -1408,7 +1406,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 7 [NEEDS REVIEW: OCR "F Ev my ſing with Grace in all our Hearts, with thy Spirit © pi thon mrich our parts, that we fY, Praiſe R_ ſhew" — hỏng] ... hãy hát với ân điển trong mọi lòng chúng con, với Đức Thánh Linh Ngài ... xin Ngài làm giàu phần chúng con, để chúng con bày tỏ lời ngợi khen Ngài.
 
-### THÁNH CA 88: Thánh Ca Dọn Lòng Cho Các Thánh Lễ
+THÁNH CA 88: THÁNH CA DỌN LÒNG CHO CÁC THÁNH LỄ
 
 1 [NEEDS REVIEW: OCR "'{s thou, O God, that muſt prepare our Hearts, we mp” Ys ... 4 LF, T7 of | at Thing \"T ... O purge —— none" — hỏng] Chính Ngài, hỡi Đức Chúa Trời, phải dọn lòng chúng con, chúng con [cầu xin]; Xin tẩy sạch chúng con khỏi mọi tội lỗi và vết nhơ, Ôi, xin thanh tẩy ...
 
@@ -1418,7 +1416,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 4 Với đức tin và sự siêng năng thánh, nguyện chúng con chú tâm Lời Ngài: Để ... chúng con có ... mà hát cho Chúa phước hạnh chúng ta [NEEDS REVIEW: OCR "That cauſe we niay , have ill to ſing 6B unto our ... Lord" — hỏng].
 
-### THÁNH CA 89: Các Thánh Là Muối Của Đất [NEEDS REVIEW: bản in bị trùng trang — đoạn đầu OCR hỏng ở dòng 5892 ("HYMN 9go"), bản sạch ở dòng 5999 ("HYMN 90"); đã gộp thành một thánh ca]
+THÁNH CA 89: CÁC THÁNH LÀ MUỐI CỦA ĐẤT [NEEDS REVIEW: BẢN IN BỊ TRÙNG TRANG — ĐOẠN ĐẦU OCR HỎNG Ở DÒNG 5892 ("HYMN 9GO"), BẢN SẠCH Ở DÒNG 5999 ("HYMN 90"); ĐÃ GỘP THÀNH MỘT THÁNH CA]
 
 1 [NEEDS REVIEW: OCR "Saints, O Lord, do Seaſon ... amongſt whom we do Live" — hỏng một phần] Các thánh Ngài, hỡi Chúa, làm cho ... mặn mà, giữa những kẻ họ sống chung,
 
@@ -1432,7 +1430,7 @@ Hãy lắng tai, hỡi các từng trời, ta sẽ nói; Hỡi đất, hãy nghe
 
 Và hát đời đời.
 
-### THÁNH CA 90: Các Thánh Hạnh Phúc Trong Sự Chết — Hát Trong Lễ Tang Ông JOHN LOYNS, [Tháng Giêng?] Ngày 26 Năm 1692, Người (Gây Buồn Lớn Cho Các Bạn Hữu Tin Kính) Đã Chết Đuối Tình Cờ Trên Sông Thames [NEEDS REVIEW: OCR "JE Mir. JOHN LOYNS, Jar e 26th. 1692" — hỏng; bản in bị trùng trang, đoạn ~5878–5891 là bản OCR hỏng đã bỏ, dùng bản sạch ở 5931]
+THÁNH CA 90: CÁC THÁNH HẠNH PHÚC TRONG SỰ CHẾT — HÁT TRONG LỄ TANG ÔNG JOHN LOYNS, [THÁNG GIÊNG?] NGÀY 26 NĂM 1692, NGƯỜI (GÂY BUỒN LỚN CHO CÁC BẠN HỮU TIN KÍNH) ĐÃ CHẾT ĐUỐI TÌNH CỜ TRÊN SÔNG THAMES [NEEDS REVIEW: OCR "JE MIR. JOHN LOYNS, JAR E 26TH. 1692" — HỎNG; BẢN IN BỊ TRÙNG TRANG, ĐOẠN ~5878–5891 LÀ BẢN OCR HỎNG ĐÃ BỎ, DÙNG BẢN SẠCH Ở 5931]
 
 1 Độ dài của cả đời và tuổi chúng con, Hỡi Chúa, ở trong tay Ngài; Và chúng con phải đi khi Ngài gọi, Và vâng theo mạng lệnh Ngài.
 
@@ -1450,7 +1448,7 @@ Và hát đời đời.
 
 8 Kẻ tin kính nằm trong giấc ngủ ngọt ngào, Họ ngủ trong Chúa Giê-xu; Và chẳng còn đau đớn, chẳng còn buồn rầu Sẽ chịu đời đời nữa.
 
-### THÁNH CA 91: Ngài Thật Đáng Yêu Trọn Vẹn (Điệu Thi Thiên 25)
+THÁNH CA 91: NGÀI THẬT ĐÁNG YÊU TRỌN VẸN (ĐIỆU THI THIÊN 25)
 
 1 Những lời đầy ơn rơi xuống Từ miệng Ngài, ôi [Chúa] [NEEDS REVIEW: OCR "that dr Th 7 ry Mouth (0 5 Are ' ſweeter than the op, Myrrh" — hỏng], Ngọt ngào hơn ... một dược, Cho mọi kẻ yêu mến Ngài.
 
@@ -1466,7 +1464,7 @@ Và hát đời đời.
 
 7 Vậy hãy hát ngợi khen Ngài, và nói, Ngài trổi hơn mọi người; Ngài đẹp hơn muôn vạn người; Ha-lê-lu-gia. A-men.
 
-### THÁNH CA 92: Hoa Hồng Sa-rôn
+THÁNH CA 92: HOA HỒNG SA-RÔN
 
 1 Trong vườn của thế gian, Niềm kiêu hãnh của Pa-lét-tin; [NEEDS REVIEW: OCR "Whoſe Natural ſoy more Glory bore than Solomon could rehign" — hỏng] ... vinh hiển hơn ... Sa-lô-môn ...
 
@@ -1480,7 +1478,7 @@ Và hát đời đời.
 
 6 Ngài là hoa huệ của trũng, Ôi, sự tinh sạch vô song. Và ta sẽ hát ngợi khen Ngài vì Ngài Ngự trong lòng ta.
 
-### THÁNH CA 93: Nhã Ca 5:12 — Mắt Ngài Như Mắt Bồ Câu
+THÁNH CA 93: NHÃ CA 5:12 — MẮT NGÀI NHƯ MẮT BỒ CÂU
 
 1 [NEEDS REVIEW: OCR "1-Y'LI tell you farther, that if ſuch : [4 Peck you ſhal WE / BI Whoſe Fyes like Doves are whe wich Milk 3 He — and Water this is: he?" — hỏng nặng] Ta sẽ nói thêm với các ngươi, rằng nếu các ngươi gặp một Đấng như vậy: Đấng có mắt như bồ câu được rửa bằng sữa ...
 
@@ -1490,7 +1488,7 @@ Và hát đời đời.
 
 4 [NEEDS REVIEW: OCR "6 This is tbe. Man Fi oh 1A, REP, All-ſeeing, AllE YE. <. ch Tell him, * uch. a -one Fon inet, 'n'tis for his Lone 1 Die!" — hỏng một phần] Đây là Người ... Đấng thấy mọi sự ... Hãy nói với Ngài, ... vì tình yêu Ngài ta chết!
 
-### THÁNH CA 94: [Tựa đề bị mất trong OCR — thánh ca về nước Anh như Si-ôn của Đức Chúa Trời và sự sụp đổ của Ba-bên] [NEEDS REVIEW: toàn bộ tựa đề, tiêu đề thánh ca và khổ 1 bị mất; các mảnh "Deſert Pl. ce", "Great England ... God's Sion now" còn sót lại]
+THÁNH CA 94: [TỰA ĐỀ BỊ MẤT TRONG OCR — THÁNH CA VỀ NƯỚC ANH NHƯ SI-ÔN CỦA ĐỨC CHÚA TRỜI VÀ SỰ SỤP ĐỔ CỦA BA-BÊN] [NEEDS REVIEW: TOÀN BỘ TỰA ĐỀ, TIÊU ĐỀ THÁNH CA VÀ KHỔ 1 BỊ MẤT; CÁC MẢNH "DESERT PL. CE", "GREAT ENGLAND ... GOD'S SION NOW" CÒN SÓT LẠI]
 
 1 [NEEDS REVIEW: khổ 1 bị mất trong OCR].
 
@@ -1508,7 +1506,7 @@ Và hát đời đời.
 
 8 Uổng công mọi mưu chước địa ngục chúng, Danh Ngài, hỡi Chúa, chúng con ngợi khen; [NEEDS REVIEW: OCR "Out K avg. Thee's we Saved are" — hỏng] ... bởi Ngài chúng con được cứu; Nguyện chúng con ngợi khen Ngài mọi ngày chúng con.
 
-### THÁNH CA 95: Đẹp Thay Trên Các Núi — Hay, Đã Tìm Được Giá Chuộc (Ê-sai 52:7) [NEEDS REVIEW: OCR "wif on the Mountains : Or, A Ram. ſome ford" — hỏng một phần tựa đề]
+THÁNH CA 95: ĐẸP THAY TRÊN CÁC NÚI — HAY, ĐÃ TÌM ĐƯỢC GIÁ CHUỘC (Ê-SAI 52:7) [NEEDS REVIEW: OCR "WIF ON THE MOUNTAINS : OR, A RAM. SOME FORD" — HỎNG MỘT PHẦN TỰA ĐỀ]
 
 1 Vì đẹp thay trên các núi, Là kẻ rao truyền bình an, Là kẻ dâng ân điển cho kẻ phản loạn, Nhân danh Chủ lớn của họ. Là kẻ cho kẻ bị phu tù tuyên bố Tin vui; và bảo [NEEDS REVIEW: OCR "Wo $57e75" — hỏng] rằng đã tìm được giá chuộc, Để cứu linh hồn họ khỏi địa ngục.
 
@@ -1520,7 +1518,7 @@ Và hát đời đời.
 
 5 Kẻ, lạy Chúa, được hiệp một với chính Ngài, Trong đức tin và tình yêu, Hát ngợi khen Ngài dưới đất, vì họ Cũng sẽ hát [trên cao] [NEEDS REVIEW: OCR "ſhall alſo fivg ok" — hỏng chữ cuối].
 
-### THÁNH CA 96: Thánh Ca Trích Từ Các Thi Thiên, Về Sự Sống Lại Và Niềm Vui Bên Hữu Đức Chúa Trời
+THÁNH CA 96: THÁNH CA TRÍCH TỪ CÁC THI THIÊN, VỀ SỰ SỐNG LẠI VÀ NIỀM VUI BÊN HỮU ĐỨC CHÚA TRỜI
 
 1 Khi con tỉnh thức, hỡi Chúa, [NEEDS REVIEW: OCR "Ol Hen 1 awake, O Lord wit WV" — hỏng] con sẽ thấy mặt Ngài, Trong sự công chính, giống như Ngài, Được đầy dẫy ân điển Ngài. (Thi Thiên 17:15)
 
@@ -1532,7 +1530,7 @@ Và hát đời đời.
 
 5 Ôi, hãy ngợi khen Giê-hô-va mọi người; Hỡi các dân xa gần; Vì lớn thay lẽ thật và lòng nhân từ Ngài, Hãy ngợi khen Ngài luôn luôn. (Thi Thiên 117)
 
-### THÁNH CA 97: Thánh Ca Gồm Một Số Câu Chọn Lọc Từ Sách Thi Thiên
+THÁNH CA 97: THÁNH CA GỒM MỘT SỐ CÂU CHỌN LỌC TỪ SÁCH THI THIÊN
 
 1 Hãy hát ngợi khen Đức Chúa Trời chúng ta, hát ngợi khen Vua [chúng ta]; Ngợi khen Vua của cả đất Với sự thông sáng hãy hát. (Thi Thiên 47:6-7)
 
@@ -1548,7 +1546,7 @@ Và hát đời đời.
 
 7 Ta sẽ tạ ơn Chúa; Vì Ngài đã nghe ta: Và đã trở nên cách đầy ơn Là Đấng Cứu Rỗi cho ta. (Thi Thiên 118:21)
 
-### THÁNH CA 98: Thánh Ca Về Lời Cầu Nguyện Được Nhậm, Trích Từ Các Thi Thiên
+THÁNH CA 98: THÁNH CA VỀ LỜI CẦU NGUYỆN ĐƯỢC NHẬM, TRÍCH TỪ CÁC THI THIÊN
 
 1 Ôi, hãy tạ ơn Chúa, Cớ lớn dường nào ta có; Tiếng ta, lời cầu nguyện ta, và lời than thở ta, Ngài đã nghe thật sẵn lòng,
 
@@ -1562,7 +1560,7 @@ Và hát đời đời.
 
 6 Vì Đức Chúa Trời này là Đức Chúa Trời chúng ta và Ngài Sẽ hằng như vậy; Ngài là Đức Chúa Trời chúng ta, và Ngài sẽ là Đấng dẫn dắt chắc chắn chúng ta cho đến sự chết. (Thi Thiên 48:14)
 
-### THÁNH CA 99: Một Bài Khác Trích Từ Các Thi Thiên (Điệu Thi Thiên 25)
+THÁNH CA 99: MỘT BÀI KHÁC TRÍCH TỪ CÁC THI THIÊN (ĐIỆU THI THIÊN 25)
 
 1 [NEEDS REVIEW: OCR "ord, 7 He Lord is my Defence, ... aint, He 1s become 'my Saviour" — hỏng một phần] [Lạy Chúa,] Chúa là sự bênh vực ta, Là niềm vui, sự mừng rỡ, bài ca ta; ... Ngài đã trở nên Đấng Cứu Rỗi ta, Và sức mạnh, nơi ẩn náu vững chắc ta.
 
@@ -1576,7 +1574,7 @@ Và hát đời đời.
 
 6 Ôi, hãy tạ ơn Chúa, Vì Ngài đầy ơn; Vì lòng thương xót Ngài còn mãi Đời đời chúng con sẽ ngợi khen Ngài. (Thi Thiên 107:1)
 
-### THÁNH CA 100: Thánh Ca Thánh Khiết Về Sự Nên Thánh
+THÁNH CA 100: THÁNH CA THÁNH KHIẾT VỀ SỰ NÊN THÁNH
 
 1 Nguồn của sự thánh khiết thật, Giê-hô-va chí cao thay; Danh Ngài là điều chúng con sẽ chúc tụng Và ngợi khen luôn luôn,
 
@@ -1592,15 +1590,15 @@ Và hát đời đời.
 
 7 Một ngày vinh hiển đang đến, Khi mọi người sẽ hát ngợi khen Ngài; Ấy là sự thánh khiết Ngài sẽ làm trọn, Trong những ngày mong đợi ấy,
 
-**Dâng sách:** Kính dâng Nữ Vương Tối Cao ANNE của Đại Anh, Pháp và Ai-len, v.v. — Tôi xin dâng cuốn sách nhỏ này.
+Dâng sách: Kính dâng Nữ Vương Tối Cao ANNE của Đại Anh, Pháp và Ai-len, v.v. — Tôi xin dâng cuốn sách nhỏ này.
 
-#### Bài Hát Của Thiên Nga (The Swan's Song)
+BÀI HÁT CỦA THIÊN NGA (THE SWAN'S SONG)
 
 [NEEDS REVIEW: OCR "WHEN I do ſee the Milk: white Swan, Of aff our Fowls the ... to Praiſe that Noble ... That Crown? our 111nftrioxs" — hỏng nặng] Khi ta thấy con thiên nga trắng như sữa, Trong mọi loài chim chúng ta ... ngợi khen ... cao quý ... đội vương miện cho ... vinh hiển chúng ta.
 
 [NEEDS REVIEW: OCR "When [I do fee the Eaple ſtout, Bs, mounts ——_ - Things, © ow ty our P c : 2 | In jay, of ber If ings" — hỏng] Khi ta thấy chim đại bàng dũng mãnh, ... bay lên ... Trong ... ...
 
-[NEEDS REVIEW: OCR "So Ong. made of brittle Clay, ... he3 Goes forgec our Maker ... Did Heaven and Earth Diſplay? ... us learn'a Publick Spirir, ... Quz Memory | =o | __ Ffal. 112)" — hỏng nặng] ... được làm bằng đất sét dễ vỡ, ... Đấng Dựng Nên chúng ta ... Đã bày tỏ trời và đất? ... dạy chúng ta tinh thần công cộng, ... Ký ức ... (Thi Thiên 112)
+[NEEDS REVIEW: OCR "So Ong. made of brittle Clay, ... he3 Goes forgec our Maker ... Did Heaven and Earth Diſplay? ... us learn'a Publick Spirir, ... Quz Memory | =o | Ffal. 112)" — hỏng nặng] ... được làm bằng đất sét dễ vỡ, ... Đấng Dựng Nên chúng ta ... Đã bày tỏ trời và đất? ... dạy chúng ta tinh thần công cộng, ... Ký ức ... (Thi Thiên 112)
 
 8 [NEEDS REVIEW: OCR "ar Maaing bo or Lonk, Feb, 12, \"3 $s->* o{ netoanory Hr Sf ay romp 1 ps \" Did ſuffer ar-Golgot bas. Fokn 19," — hỏng nặng] ... đã chịu khổ tại Gô-gô-tha. (Giăng 19)
 
@@ -1710,7 +1708,7 @@ Và móc cả hai mắt ngươi. (1 Sa-mu-ên 17)
 
 70. [NEEDS REVIEW: OCR "i 7. That Sons of God are now begun, * From Scripture Truth is clear, L himſeif ar che Laſt Day make ij; full appear. - Þ John." — hỏng] Rằng con cái Đức Chúa Trời nay đã bắt đầu, Từ lẽ thật Kinh Thánh rõ ràng, ... chính Ngài trong ngày cuối cùng sẽ bày tỏ trọn vẹn. (1 Giăng)
 
-71. [NEEDS REVIEW: OCR "$4 When I do hear the Wu ſo clear, i \"And pleaſantly ro ; Makes me co mind that Pl 7 __ © IS 1$4m. 16." — hỏng] Khi ta nghe [đàn] vang rõ, Và êm dịu ... Khiến ta nhớ ... (1 Sa-mu-ên 16)
+71. [NEEDS REVIEW: OCR "$4 When I do hear the Wu ſo clear, i \"And pleaſantly ro ; Makes me co mind that Pl 7 © IS 1$4m. 16." — hỏng] Khi ta nghe [đàn] vang rõ, Và êm dịu ... Khiến ta nhớ ... (1 Sa-mu-ên 16)
 
 72. [NEEDS REVIEW: OCR "73; when i doh That Men to 1 \\ # Takes me co mid Lmitec ke | With his Kings Thumbs and Tocg, EETY" — hỏng] ... Khiến ta nhớ ... Với ngón tay cái và ngón chân cái của các vua. (Các Quan Xét 1)
 
@@ -1940,7 +1938,7 @@ Há chúng ta không nên là Cơ Đốc nhân yêu thương, Gìn giữ lẫn n
 
 83. Khi ta uống nước trong Trong sông Tweed, Khiến ta nhớ dòng sông hằng [chảy] Nuôi dưỡng các thánh dường ấy. (Khải Huyền 22)
 
-84. Khi ta ngắm gà con, Và [xem] mẹ hiền chúng Cẩn thận xòe cánh che chở Chúng khỏi mọi hại [NEEDS REVIEW: OCR "Them from all Harm to __" — thiếu chữ cuối].
+84. Khi ta ngắm gà con, Và [xem] mẹ hiền chúng Cẩn thận xòe cánh che chở Chúng khỏi mọi hại [NEEDS REVIEW: OCR "Them from all Harm to " — thiếu chữ cuối].
 
 85. Khiến ta nhớ lời mời lớn Mà Đấng Christ đã ban, [như] mẹ chúng ta. (Ma-thi-ơ 23:37)
 
@@ -2194,7 +2192,7 @@ Là biểu tượng của tỉnh thức và cầu nguyện, Là kẻ chẳng bi�
 
 208. Khi ta ngẫm chính quyền Mà Hội Thánh chúng ta nay đứng vững, Nguyện Đức Chúa Trời cũng trồng điều tương tự Khắp các xứ xa xôi nhất. (Thi Thiên 2)
 
-**Thế Kỷ IV (Cent. IV)**
+Thế Kỷ IV (Cent. IV)
 
 1. Tại Tô-cách-lan hơi thở đầu tiên ta hít, [NEEDS REVIEW: OCR "FN Scotland my Firſt Breath I Grew, I My Lioes ſo pleaſant fel)" — hỏng] ... dây ta rơi nơi êm đềm, Bởi những kẻ ở Phi Châu, Và những kẻ ở Á Châu. (Thi Thiên 16)
 
@@ -2309,9 +2307,5 @@ Kẻ siêng năng sẽ thừa hưởng chúng. (Ê-sai 66, Rô-ma 6)
 55. Ôi, hãy tránh bạn bè xấu như tránh ma quỷ, Chúng như quỷ con của địa ngục, Chúng đã hủy hoại tình trạng bề ngoài ta,
 
 [NEEDS REVIEW: bản scan kết thúc đột ngột giữa đoạn 55 — "They ruined me my ourward Stare, DFW —_—r—_ = ' -" — sách gốc còn tiếp, không dịch tiếp được].
-
----
-
-TRANSLATION STATUS: COMPLETE (Toàn cuốn #818: từ đầu sách đến chỗ scan ngắt giữa Thánh Ca 100, đoạn 55; ~32.017 chữ Anh nguồn sạch; bản dịch nối từ phần 1 (Thánh Ca 1–66) và phần 2 (Thánh Ca 67–100), không dịch lại, không trùng lặp) TERMINOLOGY ISSUES: Thuật ngữ theo bảng cố định. Một số chỗ đáng chú ý: - "God"=Đức Chúa Trời | "Jesus Christ"/"Christ"=Chúa Giê-xu Christ/Đấng Christ | "Holy Spirit"/"Holy Ghost"=Đức Thánh Linh | "gospel"=Phúc Âm | "grace"=ân điển | "faith"=đức tin | "redemption"=sự cứu chuộc | "atonement" (không xuất hiện) | "covenant"=giao ước | "election" (ý "chosen"/"elect")=sự tuyển chọn | "salvation"=sự cứu rỗi | "church"=Hội Thánh | "Scripture"=Kinh Thánh. - Các bài thánh ca có tính chất thơ ca tự do của Keach (phỏng theo Kinh Thánh, không phải trích dẫn nguyên văn), nên câu Kinh Thánh được dịch theo ý thơ, đối chiếu với bản 1934 khi nhận diện được đoạn gốc. - Lỗi đánh số cần lưu ý: số **27** bị bỏ qua trong quá trình đánh số lại ở phần 1 (worker phần 1 đánh 1–26 rồi nhảy sang 28, không phải thiếu nội dung thánh ca — chính mục được đánh "26" còn ghi chú OCR đọc "HYMN 27"). Do đó toàn cuốn có 99 thánh ca được đánh số 1–26, 28–100; giữ nguyên đánh số của hai worker, không đánh lại để khỏi lệch với ghi chú tiến độ (phần 2: 67–100). - Số thứ tự Thánh Ca: OCR làm hỏng nhiều số (ví dụ "HYMN >", "HYMN oO", "HYMN $7", "HYMN 2x", "HYMM 934", "HYMN 426"); đã đánh số lại theo thứ tự xuất hiện (1–100) và ghi chú NEEDS REVIEW nơi số gốc không đọc được. Ở phần 2, số gốc đọc được khớp ở các mốc 74/75/76/83/86/88/91–93/95/96/98/99/100. - Lưu ý đặc biệt ở phần 2: bản in bị trùng trang ở Thánh Ca 89 và 90 (mỗi bài xuất hiện 2 lần, 1 bản OCR hỏng + 1 bản sạch xen kẽ) — đã dịch mỗi bài một lần từ bản sạch, không trùng lặp; hai dòng "HYMN" ở dòng nguồn 5509 và 5608 chỉ là đầu trang in lặp, đã bỏ qua, không tính là thánh ca riêng; Thánh Ca 94 mất toàn bộ tựa đề + khổ 1 trong OCR (giữ dấu [NEEDS REVIEW]); bản scan kết thúc đột ngột giữa Thánh Ca 100 (Bài Hát Thiên Nga, đoạn 55) — sách gốc còn tiếp, không dịch tiếp được. - NEEDS REVIEW: 418 điểm (phần 1: 227; phần 2: 191), chủ yếu các dòng OCR hỏng nặng không phục hồi chắc được (đã liệt kê trong ngoặc mỗi chỗ).
 
 Mở trong trình đọc Về thư viện

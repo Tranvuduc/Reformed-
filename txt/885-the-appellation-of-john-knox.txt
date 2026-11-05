@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lời Kháng Nghị Của John Knox Chống Bản Án Bất Công
+Nguyên tác: "The Appellation of John Knoxe from the cruell and most iniust sentence pronounced against him by the false bishoppes and clergie of Scotland, with his supplication and exhortation to the nobilitie, estates, and comunaltie of the same realme" — John Knox (in tại Geneva, 1558; thư gửi dân chúng đề ngày 14 tháng 7 năm 1558) Nguồn: https://archive.org/download/appellationofioh00knox/appellationofioh00knox_djvu.txt (Ghi chú: chính tả nguyên bản thế kỷ 16 được giữ trong tựa đề ("Iohn Knoxe", "cruell", "iniust"); trong bản dịch dùng tên hiện đại "John Knox". Nguồn là bản OCR (_djvu.txt) của ấn bản Geneva 1558; chữ "ſ" (s dài, OCR nhận thành "f") đã được chuẩn hóa, các đầu trang chạy, số trang, ký hiệu tay sách và dòng rác OCR đã được loại bỏ; các ghi chú lề về tham chiếu Kinh Thánh được giữ lại trong ngoặc đơn. Trong cùng tập sách in năm 1558 còn có hai bài không phải của Knox nên không dịch: "An Admonition to England and Scotland to call them to repentance" của Anthony Gilby và "Psalme of David XCIII, turned into metre" của W. Kethe, cùng một đoạn mô tả của nhà bán sách đời sau. Chỗ OCR hỏng không đọc chắc được đánh dấu [NEEDS REVIEW]. Tác phẩm gồm: Thư và Lời kháng nghị gửi quý tộc Tô Cách Lan; Lời thỉnh cầu gửi quý tộc; Lời khuyên bảo gửi dân chúng; và "John Knox gửi độc giả" (bốn mệnh đề về "tiếng kèn đầu tiên").)
 
-**Nguyên tác:** "The Appellation of John Knoxe from the cruell and most iniust sentence pronounced against him by the false bishoppes and clergie of Scotland, with his supplication and exhortation to the nobilitie, estates, and comunaltie of the same realme" — John Knox (in tại Geneva, 1558; thư gửi dân chúng đề ngày 14 tháng 7 năm 1558) **Nguồn:** https://archive.org/download/appellationofioh00knox/appellationofioh00knox_djvu.txt *(Ghi chú: chính tả nguyên bản thế kỷ 16 được giữ trong tựa đề ("Iohn Knoxe", "cruell", "iniust"); trong bản dịch dùng tên hiện đại "John Knox". Nguồn là bản OCR (_djvu.txt) của ấn bản Geneva 1558; chữ "ſ" (s dài, OCR nhận thành "f") đã được chuẩn hóa, các đầu trang chạy, số trang, ký hiệu tay sách và dòng rác OCR đã được loại bỏ; các ghi chú lề về tham chiếu Kinh Thánh được giữ lại trong ngoặc đơn. Trong cùng tập sách in năm 1558 còn có hai bài không phải của Knox nên không dịch: "An Admonition to England and Scotland to call them to repentance" của Anthony Gilby và "Psalme of David XCIII, turned into metre" của W. Kethe, cùng một đoạn mô tả của nhà bán sách đời sau. Chỗ OCR hỏng không đọc chắc được đánh dấu [NEEDS REVIEW]. Tác phẩm gồm: Thư và Lời kháng nghị gửi quý tộc Tô Cách Lan; Lời thỉnh cầu gửi quý tộc; Lời khuyên bảo gửi dân chúng; và "John Knox gửi độc giả" (bốn mệnh đề về "tiếng kèn đầu tiên").)*
-
----
-
-## Thư gửi giới quý tộc và các đẳng cấp vương quốc Tô Cách Lan
+THƯ GỬI GIỚI QUÝ TỘC VÀ CÁC ĐẲNG CẤP VƯƠNG QUỐC TÔ CÁCH LAN
 
 Kính gửi giới quý tộc và các đẳng cấp của vương quốc Tô Cách Lan, John Knox kính chúc ân điển, thương xót và bình an từ Đức Chúa Trời là Cha của Chúa Giê-xu Christ chúng ta, cùng với Thánh Linh của sự phán xét công chính.
 
@@ -78,7 +74,7 @@ Vì vậy, vì trận chiến của tôi là nghịch cùng những kẻ giả h
 
 Và bấy nhiêu về quyền kháng nghị của tôi; trong lòng thương xót của Chúa Giê-xu Christ, tôi cầu xin quý ngài đừng coi nó là điều thừa thãi và hư không, nhưng hãy chấp nhận nó, và cũng nhận tôi vào trong sự che chở và bảo vệ của quý ngài,
 
-## Lời thỉnh cầu gửi giới quý tộc
+LỜI THỈNH CẦU GỬI GIỚI QUÝ TỘC
 
 ...để nhờ quý ngài được bảo đảm, tôi có thể trở về quê hương mình, nơi tôi chưa hề làm hại ai; để tôi được tự do và công khai, trước mặt cả vương quốc, mà xưng nhận mọi điểm hiện đang tranh cãi; và cũng để quý ngài bởi thẩm quyền Đức Chúa Trời ban cho mình, buộc những kẻ từ lâu đã làm mù lòa và lừa dối cả quý ngài lẫn dân chúng, phải trả lời về những điều sẽ bị cáo buộc chúng [lề: đáp lại một sự chống đối].
 
@@ -206,7 +202,7 @@ Những tai họa ấy cũng sẽ giáng trên quý ngài, xin quý ngài chắc
 
 Tôi gọi là bất chính chẳng những những tội lỗi vẫn còn trong cách ăn nết ở và đời sống quý ngài, mà cả điều trước mặt loài người có vẻ thánh thiện nhất — mà liều mạng sống mình, tôi sẵn sàng chứng minh là sự gớm ghiếc trước mặt Đức Chúa Trời: ấy là toàn bộ tôn giáo của quý ngài thối nát và hư không đến nỗi chẳng tôi tớ thật nào của Đức Chúa Trời có thể thông công với nó, vì làm vậy người ấy sẽ công khai chối Chúa Giê-xu Christ và lẽ thật đời đời của Ngài [lề: chẳng tôi tớ thật nào của Đức Chúa Trời được thông công với tôn giáo theo Giáo hoàng]. Tôi biết các giám mục của quý ngài cùng bầy sâu bọ theo Giáo hoàng sẽ kêu lên: "Kẻ tà giáo đáng nguyền rủa chẳng đáng được nghe!" Nhưng xin quý chúa hãy nhớ điều tôi đã tuyên bố từ đầu, trên nền tảng ấy tôi đứng vững mãi [lề: đáp lại sự chống đối cũ rằng kẻ tà giáo chẳng đáng được nghe]: ấy là tôi chẳng phải kẻ tà giáo hay giáo sư lừa dối, mà là tôi tớ của Chúa Giê-xu Christ, người giảng lẽ thật không sai lầm của Ngài, vô tội trong mọi điều họ có thể cáo buộc tôi về đạo lý; và vì thế, bởi họ là kẻ thù của Đấng Christ, tôi bị kết án cách bất công. Khỏi bản án tàn khốc ấy tôi đã kháng nghị và đang kháng nghị, như đã nói trước. Trong lúc này, tôi hết sức khiêm nhường cầu xin quý ngài nhận tôi vào sự che chở của quý ngài, làm người nghe những lời tự bào chữa công chính của tôi, ban cho tôi cùng sự tự do mà A-háp, một vua gian ác, và Y-sơ-ra-ên lúc ấy là một dân mù lòa, đã ban cho Ê-li trong trường hợp tương tự (1 Các Vua 18). Nghĩa là: các giám mục của quý ngài và toàn bộ hàng giáo sĩ của quý ngài phải được gọi ra trước mặt quý ngài và trước mặt dân chúng mà chúng đã lừa dối; tôi chớ bị kết án bởi đám đông, bởi tập quán, bởi thẩm quyền hay luật pháp do loài người nghĩ ra, mà chính Đức Chúa Trời hãy làm quan án giữa tôi và kẻ thù tôi [lề: NEEDS REVIEW: ghi chú lề bị hỏng]. Đức Chúa Trời, tôi nói, hãy phán bởi luật pháp Ngài, bởi các tiên tri Ngài, bởi Chúa Giê-xu Christ hay bởi các sứ đồ Ngài, rồi hãy tuyên bố Ngài chuẩn nhận tôn giáo nào; bấy giờ dù kẻ thù tôi đông đến đâu, có vẻ mạnh và học thức đến đâu, tôi cũng chẳng sợ chiến thắng kém gì Ê-li, một mình nghịch cùng đám đông thầy tế lễ của Ba-anh. Và nếu chúng tưởng sẽ thắng thế bởi các công đồng và tiến sĩ của chúng, thì tôi còn cam kết thêm: tôi sẽ chấp nhận cả hai làm chứng trong mọi vấn đề tranh cãi, với ba điều (mà chẳng ai có thể chối cách công chính) được ban cho tôi. Thứ nhất, các công đồng cổ xưa nhất, gần với Hội Thánh đầu tiên nhất, nơi các giáo phụ có học và tin kính đã xét mọi vấn đề bởi lời Đức Chúa Trời, phải được coi là có thẩm quyền nhất. Thứ hai, chẳng quyết định nào của công đồng hay của loài người được chấp nhận nghịch cùng lẽ thật rõ ràng của lời Đức Chúa Trời, cũng chẳng nghịch cùng quyết định của bốn công đồng chính, mà thẩm quyền của chúng xưa nay được coi ngang với thẩm quyền của bốn sách Phúc Âm. Và cuối cùng, chẳng tiến sĩ nào được ban thẩm quyền lớn hơn thẩm quyền mà Âu-tinh đòi phải ban cho các tác phẩm của ông [lề: NEEDS REVIEW: ghi chú lề bị hỏng]: được giảng cách chân thật giữa quý ngài, vì nếu thiếu sự hiểu biết thật về Ngài thì cả hai bên quý ngài đều không thể đạt đến sự cứu rỗi [NEEDS REVIEW: mệnh đề này khó hiểu trong OCR]. Và đây là điểm mà, tôi nói, mọi người đều bình đẳng,
 
-## Lời khuyên bảo gửi dân chúng
+LỜI KHUYÊN BẢO GỬI DÂN CHÚNG
 
 GỬI DÂN CHÚNG
 
@@ -246,7 +242,7 @@ Nguyện Đức Chúa Trời là Cha của Chúa Giê-xu Christ chúng ta, là C
 
 Chớ ngủ mê trong tội lỗi, vì sự báo thù đã sắm sẵn nghịch cùng mọi kẻ không vâng lời. Hãy trốn khỏi Ba-by-lôn, nếu anh em chẳng muốn dự phần tai họa nó. Hãy làm chứng cho lời kháng nghị của tôi. Nguyện ân điển ở cùng anh em. Từ Giơ-ne-vơ, ngày 14 tháng 7 năm 1558. Anh em của anh em, sẵn lòng vâng mạng trong sự tin kính, JOHN KNOX.
 
-## John Knox gửi độc giả
+JOHN KNOX GỬI ĐỘC GIẢ
 
 JOHN KNOX GỬI ĐỘC GIẢ. Vì nhiều người vấp phạm về tiếng kèn đầu tiên, trong đó tôi quả quyết rằng việc tôn một người đàn bà lên cai trị hay cầm quyền trên một vương quốc, dân tộc hay thành phố nào là trái với tự nhiên, sỉ nhục Đức Chúa Trời, và là điều hết sức trái nghịch với thể lệ Ngài đã mặc khải và chuẩn nhận; và cũng vì có người đã hứa (như tôi được biết) sẽ bác bỏ điều ấy, nên tôi đã hoãn tiếng kèn thứ hai lại, cho đến khi những lý lẽ của họ xuất hiện — bởi đó tôi hoặc được sửa lại ý kiến mình, hoặc sẽ có thêm cơ hội để bày tỏ phán đoán mình cách đơn sơ và rõ ràng hơn. Song trong lúc này, để trút khỏi lương tâm mình, và để tránh mối nghi mà sự im lặng của tôi có thể gây ra, tôi không thể không thông báo những mệnh đề sau đây, mà bởi ân điển Đức Chúa Trời, tôi định sẽ bàn đến trong tiếng kèn thứ hai đã hứa.
 
@@ -259,9 +255,5 @@ JOHN KNOX GỬI ĐỘC GIẢ. Vì nhiều người vấp phạm về tiếng kè
 4. Nhưng nếu họ đã dại dột tôn lên một kẻ gian ác lộ liễu, hay dốt nát chọn một kẻ mà sau này tự tỏ mình không xứng đáng cai trị trên dân Đức Chúa Trời (mà những kẻ thờ hình tượng và bách hại tàn khốc đều như vậy), thì chính những người ấy được phép cách công chính nhất truất phế và trừng phạt kẻ mà trước kia họ đã thiếu khôn ngoan đề cử, bổ nhiệm và bầu chọn.
 
 MA-THI-Ơ 6. Nếu mắt ngươi tốt, thì cả thân thể ngươi sẽ đầy ánh sáng.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: (1) "Appellation" dịch là "lời kháng nghị" (kháng cáo lên công đồng chung, theo nghĩa pháp lý thế kỷ 16); "supplication" = "lời thỉnh cầu"; "exhortation" = "lời khuyên bảo". (2) "Papistes" dịch là "phe Giáo hoàng" để rõ nghĩa trong văn cảnh tranh luận Cải Chánh; "Antichrist" = "Kẻ Chống Christ". (3) "civile magistrate / temporall powers" = "nhà cầm quyền dân sự" / "các bậc cầm quyền (trần thế)". (4) "visible church" = "Hội Thánh hữu hình". (5) Scotland = "Tô Cách Lan" theo quy ước của thư viện. (6) Các ghi chú lề chỉ mang tính định vị trong bản in (như "NOTE", "Advert.") đã được lược bỏ; các tham chiếu Kinh Thánh trong lề được giữ trong ngoặc đơn; những chỗ OCR hỏng nặng không khôi phục được đánh dấu [NEEDS REVIEW] (38 điểm trong nguồn sạch, xem ~/workspace/thu-vien/.dot8-src/885.txt). (7) Hai bài in kèm trong cùng tập sách 1558 nhưng không phải của Knox — "An Admonition to England and Scotland" của Anthony Gilby và Thi Thiên 94 phổ thơ của W. Kethe — đã được loại bỏ theo quy tắc gán sai tác giả, có ghi rõ lý do trong ghi chú nguồn và tiến độ.
 
 Mở trong trình đọc Về thư viện

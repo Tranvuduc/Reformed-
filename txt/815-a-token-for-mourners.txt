@@ -568,6 +568,4 @@ Những niềm vui yêu dấu chúng ta hưởng ở đây, Chỉ là những ơ
 
 [NEEDS REVIEW: thánh ca kết sách trong bản scan bị hỏng nặng nhiều chỗ; đã dựng lại theo các bài thánh ca gốc (Watts và Cowper, đều thuộc phạm vi công cộng) khớp với những gì còn đọc được trong bản OCR]
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none — không có thuật ngữ mới; giữ nguyên bảng thuật ngữ cố định, "Christ" một mình được dịch là "Đấng Christ" xuyên suốt cả hai phần (theo ghi chú header P2). Thánh ca kết sách dựng lại theo các bài thánh ca gốc của Watts và Cowper (phạm vi công cộng).
-
 Mở trong trình đọc Về thư viện

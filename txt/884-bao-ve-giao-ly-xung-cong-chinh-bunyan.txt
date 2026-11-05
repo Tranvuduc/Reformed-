@@ -8,9 +8,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 BẢO VỆ GIÁO LÝ XƯNG CÔNG CHÍNH BỞI ĐỨC TIN
 
-**Nguyên tác:** "A Defence of the Doctrine of Justification, by Faith in Jesus Christ" — John Bunyan (1673) **Nguồn:** https://archive.org (bản in 1673, OCR từ bản quét; chữ s dài (ſ) và nhiều nhiễu OCR đã được làm sạch; các đoạn OCR hỏng không đọc được được đánh dấu [NEEDS REVIEW]) *(Ghi chú: đây là tác phẩm luận chiến của Bunyan đáp lại cuốn "The Design of Christianity" (1671) của Edward Fowler; "ông" (Sir) trong sách là cách Bunyan gọi Fowler. Cuối sách có phụ lục trích các luận điểm của Campian và Fowler.)*
-
----
+Nguyên tác: "A Defence of the Doctrine of Justification, by Faith in Jesus Christ" — John Bunyan (1673) Nguồn: https://archive.org (bản in 1673, OCR từ bản quét; chữ s dài (ſ) và nhiều nhiễu OCR đã được làm sạch; các đoạn OCR hỏng không đọc được được đánh dấu [NEEDS REVIEW]) (Ghi chú: đây là tác phẩm luận chiến của Bunyan đáp lại cuốn "The Design of Christianity" (1671) của Edward Fowler; "ông" (Sir) trong sách là cách Bunyan gọi Fowler. Cuối sách có phụ lục trích các luận điểm của Campian và Fowler.)
 
 LỜI NÓI ĐẦU GỬI ĐỘC GIẢ
 
@@ -86,8 +84,6 @@ Thứ nhất, A-đam trước khi sa ngã, ngay trong tình trạng tốt nhất
 
 Thứ ba, sự thánh khiết và sự công chính đã ở trong A-đam (và chúng ta đã mất bởi ông) trước khi sa ngã; là điều đứng trong và được điều khiển bởi sự thuận phục tự nhiên trọn vẹn của ông đối với một giao ước việc làm. Vì: "Ngươi chớ... [ăn]... ngươi sẽ chết" là các điều khoản từ Đức Chúa Trời cho A-đam [Sáng Thế Ký 2:17]. Nhưng Đấng Christ khi Ngài [đến]... [NEEDS REVIEW: phần cuối chunk OCR hỏng nặng, gồm các mảnh rời rạc về Ba Ngôi, chiên Con, các lễ nghi cũ — không thể phục dựng đáng tin; nội dung tiếp nối ở chunk sau.]
 
----
-
 [NEEDS REVIEW: các đoạn đầu của phần này OCR hỏng nặng, gồm các mảnh rời rạc không thể phục dựng — nội dung dường như tiếp nối luận cứ thứ ba về giao ước việc làm và sự chết của Đấng Christ.]
 
 Hãy coi chừng kẻo ông [NEEDS REVIEW: câu hỏng] ...kẻ có tội, mà không [có sự đền] cho tội đã phạm; [sẽ bàn] thêm về điều này sau; nếu Ngài cho là tốt...
@@ -157,8 +153,6 @@ Giăng 1... Lại nữa, sự sống (tức sự sống của Đức Chúa Trờ
 Vậy bài luận của ông về đời sống và cách ăn ở của Chúa Giê-xu chẳng qua là ngoại đạo; vì ông [không hề nhắc đến] nguyên tắc (thần tính Ngài)... ông cũng chẳng hề, trong [toàn bộ], [đề cập] lý do chính và chủ yếu của [đời sống] ấy... Thật vậy, nhắc đến điều thứ nhất một lần thôi cũng đã không hợp với mục đích của ông: vì giá ông đã nhắc đến [thần tính của Đấng Christ]... thì nguyên tắc mà từ đó các công việc Ngài tiến hành, ắt phải tốt hơn nguyên tắc mà từ đó [sự tốt lành] trong A-đam [tiến hành]... Và lại nữa, [chính] nơi mà hành động được làm ra, chứ không phải hành động trần trụi, mới khiến nó tốt hơn hay xấu hơn, được chấp nhận hay không...
 
 Giờ vậy để cho ông thấy lý do chính hay lớn lao của [đời sống] và [sự thánh khiết] của Chúa Giê-xu... [NEEDS REVIEW: OCR hỏng] ...đó không phải là [đưa chúng ta trở lại A-đam]... [mà là]... [câu hỏng].
-
----
 
 ...[Đấng Christ đến] trong xác thịt phàm nhân [NEEDS REVIEW: "Mortal For the Godhead" — OCR hỏng; đại ý: thần tính vô hình mà khao khát được thấy]... vì thần tính tự bản tính vốn vô hình, mà lại khao khát được [thấy]... và ở cùng con cái loài người; vì thế Con, Đấng đồng bản thể với Cha, đã mặc lấy [xác thịt], hay dựng đền tạm [trong xác thịt], để trong xác thịt ấy bản tính và vinh quang của [Đức Chúa Trời] được thấy bởi chúng ta và ở cùng chúng ta: "Ngôi Lời đã trở nên xác thịt, và ở giữa chúng ta (chúng ta đã ngắm xem vinh quang Ngài, như vinh quang của Con một đến từ Cha), đầy ân điển và lẽ thật" [Giăng 1:14].
 
@@ -233,8 +227,6 @@ Chương thứ tám của ông bảo chúng ta rằng: chỉ có sự đau đớ
 Nhưng các sứ đồ trong các giáo lý ông nhắc đến, đã có những mục đích vinh hiển khác xa, những mục đích thật là của Phúc Âm, và hướng đến việc củng cố đức tin chúng ta thêm nữa: như,
 
 Thứ nhất, về sự sống lại của Đấng Christ; họ nhấn mạnh điều ấy như một luận cứ không thể chối cãi về việc Ngài đã cất tội lỗi đi bởi sự hy sinh của mình... [NEEDS REVIEW: đoạn dài OCR hỏng nặng về sự sống lại, sự thăng thiên, sự trở lại đoán xét — các mảnh còn đọc được: "trong tay Ngài có mọi quyền", "trên con người và ma quỷ, tội lỗi, sự chết", "vì ích lợi của thân thể [Hội Thánh]", "để họ thấy sự cứu rỗi Ngài, và nghe [tiếng Ngài] trong linh hồn họ", "Đức Thánh Linh"... "để bày tỏ [điều] chúng ta sẽ có khi Ngài [trở lại]"... Đại ý: các sứ đồ dùng các giáo lý ấy để củng cố đức tin, chứ không phải để đưa con người trở lại sự thánh khiết đã mất trong A-đam.]
-
----
 
 [NEEDS REVIEW: đoạn đầu chunk OCR hỏng nặng — các mảnh rời rạc về các giáo lý [của các sứ đồ] thúc ép mạnh mẽ... "đời sống trên trời", và việc chúng ta phải vâng giữ [mạng lệnh] Ngài... Đại ý còn đọc được: các giáo lý ấy không hề đề ra việc chúng ta phải được đưa vào [sự công chính] bởi các nguyên tắc thuộc con người và tự nhiên.]
 
@@ -332,8 +324,6 @@ Nhưng ông còn thêm: con người có căn cứ tốt nào cho sự tưởng 
 
 Đáp. Dẫu ông nói điều này với sự nhạo báng lớn đối với đức tin khi nó hành động đúng, thế nhưng hãy biết rằng vì thế (như ông muốn nghe) ta nói: vì thế Đấng Cứu Thế chúng ta đã đáng được sự tha thứ, và ban nó cho con người cách nhưng không, và bảo họ tin hay nhận lấy nó, và có nó; để bởi đó họ được khích lệ sống cho Ngài, yêu Ngài và thuận phục các mạng lệnh Ngài. Vì "hiếm có ai chịu chết vì người công chính; họa chăng có người dám chết vì người nhân từ. Nhưng Đức Chúa Trời tỏ lòng yêu thương Ngài đối với chúng ta, khi chúng ta còn là kẻ có tội thì Đấng Christ đã chết vì chúng ta. Huống chi nay chúng ta đã được xưng công chính bởi huyết Ngài, thì sẽ được cứu khỏi cơn thịnh nộ bởi Ngài" [Rô-ma 5:7-9]. Giờ, 1. nơi đây chúng ta được nói là được xưng công chính bởi huyết Ngài, tức là, vì huyết Ngài làm nguôi sự công chính của Đức Chúa Trời; 2. lại nữa, huyết này được nói là được Đức Chúa Trời đặt ra để chúng ta có đức tin trong nó, bởi từ ngữ của lễ chuộc tội: "Đức Chúa Trời đã đặt [Ngài] làm của lễ chuộc tội bởi đức tin trong huyết Ngài, để tỏ sự công chính Ngài trong hiện tại, hầu cho Ngài là công chính và là Đấng xưng công chính kẻ tin trong Chúa Giê-xu" [Rô-ma 3:25-26].
 
----
-
 Lại nữa, như chúng ta được xưng công chính bởi huyết trước mặt Đức Chúa Trời, bởi đức tin trong nó, thì cũng có lời chứng về huyết Ngài rằng nó rảy trên lương tâm kẻ tin, nhưng vẫn chỉ khi được nhận bởi đức tin. Nhưng lương tâm được rảy sạch khỏi điều gì, nếu không phải khỏi các việc chết còn lại trong mọi kẻ chưa được xưng công chính bởi đức tin trong huyết này? Giờ nếu đức tin trong huyết này rảy lương tâm, và như thế tẩy sạch nó khỏi mọi việc chết, thì đức tin phải đến với huyết Đấng Christ để được xưng công chính trước, và phải đem điều này về cho lương tâm ô uế, trước khi nó được giải thoát khỏi các việc chết ở trong nó, và được làm cho có khả năng hầu việc Đức Chúa Trời hằng sống [Rô-ma 5:5-10; 3:24-25; Hê-bơ-rơ 9:14].
 
 Nhưng ông nói, ông [NEEDS REVIEW: câu hỏng — đại ý: ông tin chắc vào năng lực suy luận của mình]... tr. 224...
@@ -410,8 +400,6 @@ Nhưng từ tr. 261 đến cuối chương, ông đảm nhận việc chỉ rõ 
 
 3. Một hạng khác (ông nói) là những kẻ rao giảng về ân điển tự do, [và] các đặc quyền Cơ Đốc, không như các động cơ thúc giục đến sự vâng phục, và không bao giờ nhấn mạnh các bổn phận nào, ngoài các bổn phận tin, nắm lấy sự công chính của Đấng Christ, áp dụng các lời hứa, và từ bỏ... [NEEDS REVIEW: câu kết hỏng] ...có [điều gì] đáng... cho.
 
----
-
 [NEEDS REVIEW: đoạn đầu chunk OCR hỏng nặng — các mảnh rời rạc về sự công chính... "những kẻ chẳng có gì để từ bỏ"... "Ai là những kẻ rao giảng ân điển tự do trong Hội Thánh ông để kích động con người đến sự ô uế, ông biết rõ hơn ta"... "đức tin trong Đấng Christ... đã gây thiệt hại cho Hội Thánh [ông]... chức vụ mục sư của ông, tr. 259"... Đại ý: Bunyan đáp lại lời Fowler buộc tội các mục sư rao giảng ân điển tự do.]
 
 ...[những lời] như thế được đưa vào, cố ý để nói xấu các mục sư rao giảng ân điển tự do, và những kẻ đề cao sự công chính được kể của Đấng Christ, thì hãy coi chừng; vì thứ nọc độc như thế sẽ cuốn ông vào trong lòng lời tiên tri đáng sợ nhất về các tiên tri giả trong những ngày sau rốt, là những kẻ sẽ lén lút đem vào các tà giáo, đến nỗi chối bỏ Chúa đã mua họ [2 Phi-e-rơ 2:1].
@@ -485,8 +473,6 @@ Nhưng ông nói, đó là thói quen tốt và tâm tính của tâm trí, đ�
 Câu Kinh Thánh ông nhắc đến, Rô-ma 14:17, dẫu bởi từ (sự công chính) nơi ấy, có ý nói sự vâng phục luật đạo đức... [NEEDS REVIEW: câu hỏng] ...[được làm] bởi những người đã được xưng công chính bởi sự công chính của Đấng Christ; vì thế họ được nói là làm điều ấy trong sự công chính, bình an và vui mừng của Đức Thánh Linh, hay bởi sự vui mừng và bình an mà họ đã có bởi đức tin trong sự công chính của Đấng Christ, như đã được Đức Thánh Linh tỏ ra cho họ. Từ đó họ lại được nói là hầu việc Đấng Christ, hay nhận luật pháp từ tay Ngài, là [luật] Ngài ban cho họ để bước đi theo, sau khi đã xưng công chính họ khỏi sự rủa sả của nó bởi huyết Ngài.
 
 2. Luật pháp đã được ban hai lần trên Si-na-i; lần thứ hai, với một lời rao thương xót đi trước; và kẻ nào nhận lấy nó [lần thứ hai], thì nhận lấy nó theo một cách khác. Vì họ với tư cách là những người đã được xưng công chính thì chết đối với Luật Pháp, với tư cách là giao ước việc làm, bởi thân thể Đấng Christ, để sống cho một Đấng khác, tức Đấng đã từ kẻ chết sống lại [Ga-la-ti 2:19]. Nhưng ông bởi câu Kinh Thánh này không định ý giáo lý này, vì ông khiến sự xưng công chính bởi Đấng Christ đến sau, chứ không phải trước sự vâng phục luật pháp: phải, ông khiến sự vâng phục [luật pháp] là điều cốt yếu, còn việc đến với Đức Chúa Trời bởi Đấng Christ chỉ là điều có bản tính xa hơn với sự công chính thật và thực chất của Phúc Âm. Ở tr. 283 ông lại nói về nguyên tắc cũ, và chú giải thế này: một nguyên tắc thánh khiết xét đến Đức Chúa Trời, như xét đến bản tính của mạng lệnh, thì cũng xét đến bổn phận... [NEEDS REVIEW: "occasioned by certain External Inducements, and Motives, but from good temper, and disposition of Soul" — OCR hỏng; đại ý: không phải bị gây ra bởi những thúc đẩy và động cơ bên ngoài nào đó, mà từ tâm tính và khuynh hướng tốt của linh hồn.]
-
----
 
 [NEEDS REVIEW: đoạn đầu chunk OCR hỏng nặng — các mảnh rời rạc về nguyên tắc [của ông Fowler], sự thanh sạch của bản tính... Đại ý còn đọc được: Bunyan tóm lại rằng nguyên tắc của Fowler chỉ bó hẹp trong sự tự do của ý chí và tình cảm đối với việc giữ luật việc làm, là [điều] người ta từng xưng có và làm trước ông, mà vẫn thiếu [sự công chính]; trong khi các nguyên tắc của Phúc Âm là Đức Thánh Linh và đức tin... linh hồn trong đó chúng cư ngụ [được thúc giục] tin trong Chúa Giê-xu Christ... phần cốt yếu lớn lao của đạo Cơ Đốc chúng ta, và sự chúng ta từ bỏ chính mình vì cớ Ngài: và như thế được buông tha khỏi tội lỗi, chúng ta trở nên đầy tớ của Đức Chúa Trời, và có bông trái mình hướng đến sự thánh khiết...
 
@@ -639,11 +625,5 @@ Ngươi hãy hiểu điều ngươi đọc.
 Hỡi độc giả, ngươi được xin hãy dùng bút mà sửa các lỗi in này, và hãy chịu đựng một số lỗi chấm câu đã xảy ra vì tác giả vắng mặt khỏi nhà in.
 
 [NEEDS REVIEW: toàn bộ danh sách lỗi in (errata) dưới đây bị OCR hỏng nặng, chỉ còn đọc được rời rạc; đã dịch theo những gì còn đọc được:] Tr. 1, dòng 2, đọc: và điều trong đó, v.v. tr. 3, dòng 1[?], đọc... tr. 8, dòng 39, đọc: vô tội. tr. 6, dòng 36, đọc: nhưng. tr. 8, dòng 24, bỏ... tr. 11, dòng 35, đọc: sao ông không nói... tr. 12, dòng 24, sau "Exact", [đọc]... dòng... thêm. tr. 13, dòng 3, thay "Laws" đọc "Lam". tr. 17[?], dòng 10, sau "and", đọc... tr. [?], dòng [?], sau "Faith", thêm... tr. 23, dòng 6, sau "is", đọc "youre". tr. 24, dòng 3, thay "last" đọc "best". tr. 27, dòng 2, thay "to" đọc "in". dòng 9, thêm... tr. 29, dòng 7, thay "dispensible" đọc "indispensible". [tr. 31?], dòng 18, thêm "in his". dòng 22, thêm "do". tr. 32, dòng 4, thay "Son" đọc "Saul". tr. 34, dòng 2, thay "here" đọc "bruce". tr. 35, dòng [?], [thay] "of" đọc "that for". dòng 13, thay "Sin" đọc "he". dòng 26, bỏ "also". tr. 36, dòng 3, thay... dòng 9, thay "13" đọc "3". tr. 39, dòng 8, sau "which", đọc "it". tr. 40, dòng 22, thay "tited" đọc "cited". tr. 44, dòng 22, bỏ "e not". tr. 56, dòng 19, thay "sealed" đọc "seared". tr. 60, dòng 2, bỏ... tr. 66, dòng 35, đọc "reconcileable". tr. 69, dòng 33, thay "our" đọc "your". tr. 74, dòng 1, đọc "implanted". tr. 78, dòng 1, bỏ... dòng 20, đọc... tr. 87, dòng 18, đọc "advantage of others". tr. 91, dòng 32... tr. 100, dòng 28... tr. 107, dòng 34...
-
----
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - "righteousness" → "sự công chính"; "justification" → "sự xưng công chính"; "holiness" → "sự thánh khiết"; "sanctification" → "sự nên thánh"; "the Law" → "Luật Pháp"; "works of the Law" → "việc làm của Luật Pháp"; "curse" → "sự rủa sả"; "imputation" → "sự kể" (to impute → kể là/quy cho); "the Gospel" → "Phúc Âm"; "faith" → "đức tin"; "grace" → "ân điển"; "covenant" → "giao ước"; "redemption" → "sự cứu chuộc"; "atonement/propitiation" → "sự chuộc tội/của lễ chuộc tội"; "church" → "Hội Thánh". - "Mr. Fowler" → "ông Fowler" (tác giả cuốn "The Design of Christianity", 1671, người bị Bunyan luận chiến); "Sir" trong lời lẽ luận chiến → "thưa ông". - Các địa chỉ Kinh Thánh đã Việt hóa (Giăng, Ma-thi-ơ, Mác, Lu-ca, Rô-ma, 1/2 Cô-rinh-tô, Ga-la-ti, Ê-phê-sô, Phi-líp, Cô-lô-se, 1/2 Tê-sa-lô-ni-ca, 1/2 Ti-mô-thê, Hê-bơ-rơ, Gia-cơ, 1/2 Phi-e-rơ, 1/2/3 Giăng, Giu-đe, Khải Huyền, Sáng Thế Ký, Xuất Ê-díp-tô Ký, Lê-vi Ký, Phục Truyền, Thi Thiên, Châm Ngôn, Truyền Đạo, Ê-sai, Giê-rê-mi, Ê-xê-chi-ên, Ma-la-chi, Công-vụ). Các câu trích dẫn giữ văn phong tương đương Kinh Thánh 1934; các câu Bunyan trích theo KJV được dịch sát nghĩa, đánh dấu [NEEDS REVIEW] nếu cần đối chiếu BDM2010. - "Campian" (tu sĩ Dòng Tên Edmund Campion) → giữ nguyên "Campian"; các luận điểm trích dẫn của ông ta và của ông Fowler được giữ nguyên dạng liệt kê như bản gốc. - "Urim and Thummim" → giữ nguyên "U-rim và Thu-mim". - "Latitudinarian" → giữ nguyên "latitudinarian" (chủ nghĩa khoan dung tôn giáo rộng). - "positive precepts" → "các mạng lệnh tích cực"; "primary/secondary fundamentals" → "các điều căn bản sơ cấp/thứ yếu"; "moral law" → "luật đạo đức"; "first principles of morals" → "các nguyên tắc đầu tiên của đạo đức". - "Papists" → "người Công giáo La Mã"; "Quakers" → "phái Quaker"; "Socinians" → "người Socinian"; "Nonconformists" → "những người không tuân phục [Giáo hội Anh]". - [NEEDS REVIEW] xuất hiện 171 lần: phần lớn do OCR hỏng nặng ở lời nói đầu, các đoạn chuyển tiếp giữa các chương, một số địa chỉ Kinh Thánh bị OCR sai số chương/câu (đã hiệu đính theo ngữ cảnh và đánh dấu), và toàn bộ danh sách lỗi in (errata) cuối sách chỉ còn đọc được rời rạc. - KHÔNG sửa index.json theo yêu cầu nhiệm vụ.
 
 Mở trong trình đọc Về thư viện

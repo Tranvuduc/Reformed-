@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Giết Chết Tội Lỗi Trong Tín Hữu
+Nguyên tác: "Of the Mortification of Sin in Believers" — John Owen, D.D. (1721) Nguồn: bản in 1721 (J. Marshall, hiệu Sách Kinh Thánh, phố Newgate, Luân Đôn); văn bản nguồn sạch: `~/workspace/thu-vien/.dot8-src/881.txt` (Ghi chú: dịch trọn tác phẩm — trang tựa, Lời ngỏ gửi độc giả Cơ Đốc, và Chương I–XIV.)
 
-**Nguyên tác:** "Of the Mortification of Sin in Believers" — John Owen, D.D. (1721) **Nguồn:** bản in 1721 (J. Marshall, hiệu Sách Kinh Thánh, phố Newgate, Luân Đôn); văn bản nguồn sạch: `~/workspace/thu-vien/.dot8-src/881.txt` *(Ghi chú: dịch trọn tác phẩm — trang tựa, Lời ngỏ gửi độc giả Cơ Đốc, và Chương I–XIV.)*
-
----
-
-## VỀ SỰ GIẾT CHẾT TỘI LỖI TRONG CÁC TÍN HỮU;
+VỀ SỰ GIẾT CHẾT TỘI LỖI TRONG CÁC TÍN HỮU;
 
 sự cần thiết, bản chất, và phương cách của nó: cùng với sự giải đáp nhiều trường hợp lương tâm thuộc về đó.
 
@@ -20,15 +16,11 @@ Bởi John Owen, Tiến sĩ Thần học.
 
 In tại J. Marshall, hiệu Sách Kinh Thánh, phố Newgate, 1721.
 
----
-
-## Gửi độc giả Cơ Đốc,
+GỬI ĐỘC GIẢ CƠ ĐỐC,
 
 Tôi sẽ dùng vài lời mà cho độc giả biết những lý do đã khiến tôi đồng ý cho xuất bản bài luận tiếp sau đây. Sự suy xét về tình trạng và hoàn cảnh hiện nay của đại đa số những người xưng mình là tín đồ, những bằng chứng rõ ràng về tâm trạng của lòng và linh hồn họ, tỏ ra một sự bất lực lớn trong việc đối phó với những sự cám dỗ — mà từ sự bình an họ có trong thế gian, và những sự chia rẽ giữa vòng họ, họ bị bao vây — giữ địa vị hàng đầu trong các lý do ấy. Nhưng tôi chắc chắn rằng [NEEDS REVIEW: bản OCR hỏng khoảng một dòng, không đọc được] nếu nhờ đó mà tôi khiến những người khác thúc giục lương tâm loài người cách hiệu quả hơn trong công việc suy xét đường lối mình, và ban sự chỉ dẫn rõ ràng hơn để đạt được mục đích đã đề ra, thì tôi sẽ lấy làm quý báu lắm phần việc của mình trong sự đảm nhận này. Điều này được củng cố thêm bởi sự quan sát của tôi về những sai lầm nguy hiểm của một số người, là những kẻ trong những ngày gần đây đã đảm nhận việc ban chỉ dẫn về sự giết chết tội lỗi, mà vì không biết mầu nhiệm của Phúc Âm, và con đường của sự chết của Đấng Christ, đã lại đặt ách của một sự giết chết tự mình làm ra trên cổ các môn đồ mình, là ách mà cả họ lẫn tổ phụ họ đều chẳng bao giờ gánh nổi. Một sự giết chết mà họ ca ngợi và thúc giục, chẳng xứng hợp với sự giết chết của Phúc Âm, cả về bản chất, đối tượng, nguyên nhân, phương tiện, lẫn hiệu quả; nó luôn sinh ra những hậu quả đáng than khóc là sự mê tín, sự tự công chính và sự lo âu, trong những kẻ bị trói buộc vì đó. [NEEDS REVIEW: dòng OCR "B nds 16 so bound for them" — suy đoán "are so bound by them", dịch theo suy đoán] Điều được đề ra ở đây trong sự yếu đuối, tôi khiêm nhường hy vọng sẽ đáp ứng được tinh thần và chữ nghĩa của Phúc Âm, cùng với sự từng trải của những người biết thế nào là bước đi với Đức Chúa Trời, theo tenor của giao ước ân điển. Đến nỗi nếu chẳng phải điều này, thì chắc chắn một điều nào đó [NEEDS REVIEW: bản OCR hỏng khoảng sáu dòng, không đọc được] thuộc loại này, là rất cần thiết trong mùa vụ này, để thúc đẩy và tiến triển điều này [NEEDS REVIEW: OCR hỏng] trong lòng chúng ta [NEEDS REVIEW: OCR hỏng] và sự chỉ dẫn họ trong những đường lối an toàn, là nơi họ có thể tìm được sự yên nghỉ cho linh hồn mình. Tôi có điều này cần thêm, về điều liên quan riêng đến bản thân tôi. Sau khi đã giảng về chủ đề này với một sự thành công đem lại sự an ủi nào đó, qua ân điển của Đấng ban hột giống cho kẻ gieo, tôi đã được nhiều người thúc giục, là những người trong lòng có đường lối của Đức Chúa Trời, mà xuất bản điều tôi đã rao giảng, với những sự thêm vào và sửa đổi mà tôi xét là cần thiết. Dưới sự thôi thúc của những ước muốn của họ, tôi nhớ lại món nợ mà bấy lâu nay tôi đã mắc với nhiều bạn hữu Cơ Đốc cao quý và đáng kính, về một luận văn về sự thông công với Đức Chúa Trời, đã hứa với họ từ lâu; và do đó tôi nghĩ rằng, nếu tôi không thể nhờ đó mà trả được món nợ lớn hơn, thì có lẽ tôi có thể dâng cho họ bài luận về sự tranh chiến với chính mình này, như tiền lời cho sự họ đã nhẫn nại chờ đợi bài luận về sự bình an và thông công với Đức Chúa Trời. Ngoài ra tôi xét rằng mình đã được quan phòng khiến cho dấn thân vào cuộc tranh luận công khai về nhiều sự tranh cãi trong tôn giáo, điều dường như đòi hỏi một điều gì đó thuộc loại khác, có ích lợi chung hơn, như một bông trái của sự lựa chọn và sự cần thiết: vì những lý do này và những lý do tương tự, bài luận ngắn này được đưa ra trước công chúng, và nay được dâng lên độc giả. Tôi hy vọng mình có thể thành thật mà nói rằng, ước muốn của lòng tôi đối với Đức Chúa Trời, và mục đích chính của đời tôi trong địa vị mà sự quan phòng tốt lành của Đức Chúa Trời đã đặt tôi vào, là sự giết chết tội lỗi và sự thánh khiết phổ quát được thúc đẩy trong chính mình tôi, và trong lòng cùng đường lối của những người khác, để làm vinh hiển Đức Chúa Trời, hầu cho Phúc Âm của Chúa và Đấng Cứu Rỗi chúng ta là Chúa Giê-xu Christ được trang điểm trong mọi sự; vì để đạt được mục đích ấy, nếu bài luận nhỏ này (về việc xuất bản nó, đây là toàn bộ lời giải trình tôi sẽ đưa ra) có thể ích lợi điều gì cho kẻ hèn mọn nhất trong các thánh đồ, thì nó sẽ được xem như một sự đáp lại những lời cầu nguyện yếu đuối [NEEDS REVIEW: khoảng một trăm dòng OCR nhiễu ở cuối lời ngỏ không đọc được; nội dung chính đã hết ở trên].
 
----
-
-## CHƯƠNG I.
+CHƯƠNG I.
 
 Nền tảng của toàn bộ bài luận tiếp sau được đặt trong Rô-ma 8:13. Những lời của sứ đồ được mở ra. Sự liên kết chắc chắn giữa sự giết chết thật và sự cứu rỗi. Sự giết chết là công việc của các tín hữu. Đức Thánh Linh là nguyên nhân tác thành chính của nó. "Thân thể" trong lời sứ đồ có nghĩa gì. "Việc làm của thân thể" có nghĩa gì. Sự sống được hứa cho bổn phận này theo nghĩa nào.
 
@@ -78,11 +70,7 @@ Sau khi ở chương bảy, và đầu chương này, đã bàn về ham muốn 
 
 Giả định điều đã nói trước về mối liên kết giữa sự giết chết với sự sống đời đời, như của phương tiện với mục đích, tôi sẽ chỉ thêm, như một động cơ thứ hai cho bổn phận được truyền, rằng sinh lực, quyền lực, và sự an ủi của đời sống thuộc linh chúng ta tùy thuộc vào sự giết chết việc làm của xác thịt.
 
----
-
----
-
-## CHƯƠNG II.
+CHƯƠNG II.
 
 Luận đề chính về sự cần thiết của sự giết chết được đề ra để xác nhận. Sự giết chết là bổn phận của những tín hữu tốt nhất, Cô-lô-se 3:5, 1 Cô-rinh-tô 9:27. Tội lỗi cư ngụ bên trong luôn còn lại; không có sự trọn vẹn trong đời này, Phi-líp 3:12, 1 Cô-rinh-tô 13:12, 2 Phi-e-rơ 3:18, Ga-la-ti 5:17, v.v. Sự hoạt động của tội lỗi còn sót lại trong các tín hữu, Rô-ma 7:23, Gia-cơ 4:5, Hê-bơ-rơ 12:1. Sự sinh sôi nảy nở và khuynh hướng của nó. Mọi ham muốn đều nhắm tới tột đỉnh trong loại của nó. Đức Thánh Linh và bản tính mới được ban cho để tranh chiến chống lại tội lỗi cư ngụ bên trong, Ga-la-ti 5:17, 2 Phi-e-rơ 1:4, 5; Rô-ma 7:23. Kết cục đáng sợ của sự bỏ bê sự giết chết, Khải Huyền 3:2, Hê-bơ-rơ 3:13. Nguyên tắc đầu tiên của toàn bộ bài luận bởi đó được xác nhận. Sự thiếu vắng bổn phận này bị than khóc.
 
@@ -116,11 +104,7 @@ Có hai điều ác chắc chắn đi theo mọi người xưng đạo chưa đ�
 
 [2.] Họ lừa dối những người ấy khiến họ tin rằng, nếu họ đạt tới tình trạng của những người xưng đạo kia, thì sẽ ổn với họ: và thế là trở nên dễ dàng, phải vật lộn với sự cám dỗ lớn của danh tiếng trong tôn giáo: trong khi họ có thể đi xa hơn những người kia nhiều, về điều thấy được trong họ, mà vẫn thiếu mất sự sống đời đời; nhưng về những điều này, và mọi điều ác của đường lối chưa được giết chết, về sau sẽ nói.
 
----
-
----
-
-## CHƯƠNG III.
+CHƯƠNG III.
 
 Nguyên tắc chung thứ hai về phương tiện của sự giết chết được đề ra để xác nhận. Đức Thánh Linh là tác giả duy nhất của công việc này. Sự hư không của sự giết chết theo kiểu giáo hoàng được phơi bày. Nhiều phương tiện họ dùng không phải do Đức Chúa Trời định. Những điều Ngài đã định thì bị họ lạm dụng. Những sai lầm của những người khác trong việc này. Đức Thánh Linh được hứa cho các tín hữu cho công việc này, Ê-xê-chi-ên 11:19, chương 36:26. Mọi điều chúng ta nhận từ Đấng Christ, là bởi Đức Thánh Linh. Đức Thánh Linh giết chết tội lỗi thế nào, Ga-la-ti 5:19, 20, 21, 22, 23. Các cách thức hoạt động của Ngài cho mục đích này được đề ra. Công việc của Ngài thế nào, và bổn phận của chúng ta thế nào.
 
@@ -168,11 +152,7 @@ Nếu đây là công việc của một mình Đức Thánh Linh, thì sao chú
 
 Và nếu tình trạng đã buồn như vậy với những kẻ có lao nhọc và tranh đấu, mà vẫn không vào được Nước; thì tình trạng của những kẻ khinh dể mọi điều này ra sao? là những kẻ luôn ở dưới quyền lực và quyền cai trị của tội lỗi, mà lại thích như vậy: và chẳng bối rối về điều gì, ngoài việc họ không thể sắm đủ đồ cung cho xác thịt, để làm trọn những ham muốn của nó.
 
----
-
----
-
-## CHƯƠNG IV.
+CHƯƠNG IV.
 
 Nguyên tắc cuối cùng về sự ích lợi của sự giết chết. Sinh lực và sự an ủi của đời sống thuộc linh chúng ta tùy thuộc vào sự giết chết của chúng ta. Theo nghĩa nào. Không tuyệt đối và tất yếu, Thi Thiên 88. Tình trạng của Hê-man. Nhưng tùy thuộc vào những nguyên nhân gần và trực tiếp. Như một phương tiện: bằng cách dẹp đi điều trái nghịch. Những hiệu quả tuyệt vọng của bất cứ ham muốn chưa được giết chết nào: nó làm yếu linh hồn, Thi Thiên 38:3, 8, bằng nhiều cách; và làm tối linh hồn. Mọi ân điển được cải thiện bởi sự giết chết tội lỗi. Bằng chứng tốt nhất của sự chân thành.
 
@@ -206,11 +186,7 @@ Nay về phương diện này mà sinh lực và quyền lực của đời số
 
 (3.) Về sự bình an chúng ta; như chẳng có gì có bằng chứng của sự chân thành mà không có nó, thì tôi cũng chẳng biết gì có bằng chứng của sự chân thành trong nó như nó; đó là một nền tảng không nhỏ của sự bình an chúng ta. Sự giết chết là sự chống cự mạnh mẽ của linh hồn đối với bản ngã, là nơi sự chân thành rõ ràng nhất.
 
----
-
----
-
-## CHƯƠNG V.
+CHƯƠNG V.
 
 Ý chính của toàn bộ bài luận được đề ra. Trường hợp lương tâm chính thứ nhất được nêu. Giết chết một tội nào là gì, được xét theo mặt phủ định. Không phải là sự hủy diệt hoàn toàn nó trong đời này. Không phải là sự che đậy nó. Không phải là sự cải thiện một nguyên tắc tự nhiên nào. Không phải là sự chuyển hướng nó. Không phải là một sự thắng trận nhất thời. Những sự thắng trận nhất thời của tội lỗi là gì, và khi nào. Khi tội lỗi bùng phát. Trong lúc nguy hiểm hay hoạn nạn. Giết chết một tội nào là gì theo mặt khẳng định. Sự làm yếu đi tính khí cư ngụ bên trong của nó. Sự mau mắn, hăng hái của tâm linh trong sự tranh chiến. Sự thành công tới nhiều mức độ.
 
@@ -250,11 +226,7 @@ II. Giết chết một tội nào là gì theo mặt khẳng định. Khi tội
 
 3. Sự thành công tới nhiều mức độ đi theo hai điều này. Nay điều này, nếu sự hư hoại không có một lợi thế bất khả thắng từ vị trí tự nhiên của nó, có thể đạt tới một sự thắng trận phổ quát đến nỗi linh hồn có thể chẳng bao giờ còn cảm nhận rõ sự chống cự của nó nữa, và dẫu sao cũng chắc chắn đem lại một sự bình an được phép cho lương tâm, theo tenor của giao ước ân điển.
 
----
-
----
-
-## CHƯƠNG VI.
+CHƯƠNG VI.
 
 Những nguyên tắc chung cho sự giết chết. Nếu không có chúng, chẳng tội nào được giết chết. Không có sự giết chết trừ khi một người là tín hữu: những nguy hiểm của việc toan giết chết tội lỗi bởi những người chưa được tái sinh. Tình trạng của những người chưa được trở lại, về việc giết chết, được suy xét. Sự hư không của những cố gắng của họ. Những nguyên tắc chung cho sự giết chết. Những đường lối và phương tiện, nhờ đó một linh hồn có thể làm yên và làm yếu nó, tiếp theo được suy xét.
 
@@ -312,7 +284,7 @@ Vì:
 
 (2.) Như tôi đã nói, Đức Chúa Trời thường để nó sửa phạt những sự cẩu thả khác của chúng ta; vì như với những kẻ ác, Ngài phó họ cho một tội, như sự đoán phạt cho một tội khác, một tội lớn hơn để phạt một tội nhỏ hơn, hay một tội sẽ giữ họ chắc và an toàn hơn, cho điều mà có lẽ họ đã được giải thoát khỏi; thì ngay cả với con cái Ngài, Ngài có thể, Ngài có để họ đôi khi, cho một số sự hư hoại quấy rối, hoặc để ngăn ngừa hoặc để chữa một điều ác khác. Như cái giằm của sa-tan được thả lỏng trên Phao-lô, để ông khỏi lên mình vì sự dư dật của sự mặc khải thuộc linh. Há chẳng phải là một sự sửa phạt cho sự tự tin hư không của Phi-e-rơ, việc ông bị để chối Chúa mình sao? Nay nếu đây là tình trạng và hoàn cảnh của ham muốn trong sự thắng thế của nó, rằng Đức Chúa Trời thường để nó thắng thế như vậy, ít nhất để nhắc nhở chúng ta, và hạ mình chúng ta, có lẽ để sửa phạt và sửa trị chúng ta vì đường lối lỏng lẻo và cẩu thả chung của chúng ta, thì há có thể dẹp được hiệu quả, mà vẫn giữ nguyên nhân sao; rằng ham muốn riêng được giết chết, mà đường lối chung không được cải cách? Vậy kẻ muốn thật sự, triệt để, và được chấp nhận mà giết chết một ham muốn quấy rối nào, hãy lo liệu siêng năng cách đồng đều trong mọi phần của sự vâng phục, và biết rằng mọi ham muốn, mọi sự bỏ sót bổn phận, đều nặng nề đối với Đức Chúa Trời; dù [NEEDS REVIEW: OCR hỏng khoảng bốn mươi dòng nhiễu, chỉ còn mảnh câu Kinh Thánh: 2 Cô-rinh-tô 12:7; Ê-sai ...] chẳng những nói chung, mà nói riêng, hãy coi chừng kẻo ngươi bị thấy là một người xưng đạo dưới những triệu chứng nguy hiểm của một ham muốn nào. [Hết Chương VI — nguyên tắc chung thứ hai.]
 
-### CHƯƠNG VII.
+CHƯƠNG VII.
 
 [NEEDS REVIEW: đầu đề chương OCR hỏng nặng; theo mục lục nội dung:] Hãy xét xem ham muốn của ngươi có những triệu chứng nguy hiểm nào đi kèm hay đồng hành với nó. 1. Tính cố cựu (lâu ngày thành tật). 2. Sự bình an đạt được dưới nó; những cách thức khác nhau mà điều đó được thực hiện. 3. Tần suất thành công trong những sự quyến rũ của nó. 4. Linh hồn chiến đấu chống lại nó, với những lập luận lấy từ kết cục. 5. Nó đi kèm với sự cứng lòng do phán xét. 6. Nó chống cự những sự xử lý đặc biệt từ Đức Chúa Trời. Tình trạng và tâm thế của những người mà các điều này được tìm thấy. Khi nào linh hồn đang bị một ham muốn quấy nhiễu thì hành động theo các quy tắc chung đã nêu trên.
 
@@ -328,7 +300,9 @@ Ngươi sẽ hỏi: những dấu hiệu và triệu chứng nguy hiểm ấy l�
 
 (3.) Tần suất thành công trong những sự quyến rũ của tội lỗi, trong việc giành được sự ưng thuận thắng thế của ý chí đối với nó, là một triệu chứng nguy hiểm khác. Ý tôi là thế này: khi tội lỗi được nói đến ấy giành được sự ưng thuận của ý chí, với một chút vui thích, dù nó không được thực hiện ra bên ngoài, thì nó đã thành công. Một người có thể không đi theo tội lỗi đến chỗ mà sứ đồ gọi là sự hoàn tất của nó, tức những hành vi tội lỗi bên ngoài, nhưng ý chí phạm tội có thể đã, tôi nói, thành công trong nó. Nay nếu bất cứ ham muốn nào có thể đi xa đến mức làm hư hoại một người nào, đến nỗi tình trạng của người ấy có thể không đến nỗi quá tệ, và bản thân người ấy chưa được tái sinh, thì nó cũng không thể nào tốt đẹp được, mà là nguy hiểm; và xét về thực chất thì cũng như nhau, dù điều này được thực hiện bởi sự lựa chọn của ý chí hay bởi sự vô ý. Vì chính sự vô ý ấy, theo một nghĩa nào đó, cũng là được chọn, khi chúng ta vô ý và cẩu thả, ở nơi mà chúng ta được kêu gọi phải tỉnh thức và cẩn thận, thì sự vô ý ấy không làm giảm tính tự nguyện của việc chúng ta làm; vì dù người ta không chọn và quyết định để trở nên cẩu thả và vô ý, nhưng nếu họ chọn những điều sẽ khiến họ như vậy, thì họ đã chọn chính sự vô ý. (4.) Khi một người chỉ chiến đấu chống lại tội lỗi của mình bằng những lập luận lấy từ kết cục, hay hình phạt đáng phải chịu vì nó; ấy là dấu hiệu cho thấy tội lỗi đã chiếm lấy ý chí rất lớn, và trong lòng có sự dư dật của điều gian ác. Một người như thế chẳng đem điều gì ra để chống lại sự quyến rũ của tội lỗi và ham muốn trong lòng mình, ngoài nỗi sợ hổ thẹn trước mặt người ta, hay địa ngục từ Đức Chúa Trời, thì đã đủ quyết tâm phạm tội rồi, nếu không có hình phạt nào đi kèm với nó; điều ấy, khác gì với việc sống trong sự thực hành tội lỗi, tôi không biết. Những người thuộc về Đấng Christ, và được hành động trong sự vâng phục của mình theo các nguyên tắc của Phúc Âm, có sự chết của Đấng Christ, tình yêu của Đức Chúa Trời, bản chất đáng ghê tởm của tội lỗi, sự quý giá của sự thông công với Đức Chúa Trời, một sự ghê tởm tội lỗi ăn sâu, như tội lỗi là tội lỗi, để chống lại bất cứ sự quyến rũ nào của tội lỗi; chống lại mọi sự vận hành, tranh chiến, giao tranh của ham muốn trong lòng họ. Giô-sép đã làm như vậy: "Làm sao tôi dám làm điều gian ác lớn này mà phạm tội cùng Đức Chúa Trời?" ông nói, Sáng Thế Ký 39:9. Và Phao-lô: "Tình yêu của Đấng Christ cảm động chúng tôi," 2 Cô-rinh-tô 5:14; và "đã nhận được những lời hứa ấy, chúng ta hãy tẩy sạch mình khỏi mọi sự ô uế của xác thịt và tâm linh," 2 Cô-rinh-tô 7:1. Nhưng nay nếu một người ở dưới quyền lực của ham muốn mình đến nỗi chẳng có gì ngoài luật pháp để chống lại nó, nếu người ấy không thể chiến đấu chống lại nó bằng vũ khí của Phúc Âm, mà chỉ đối phó với nó toàn bằng địa ngục và sự phán xét, vốn là vũ khí riêng của luật pháp, thì quá rõ ràng, tội lỗi đã chiếm lấy ý chí và tình cảm của người ấy, đến một mức thắng thế và chinh phục rất lớn. Hãy thử mình bằng điều này nữa: khi ngươi bị tội lỗi dồn đến chỗ phải đứng lại, đến nỗi ngươi hoặc phải phục vụ nó, và lao theo mệnh lệnh của nó vào sự dại dột, như con ngựa lao vào trận chiến, hoặc phải đương đầu với nó để trấn áp nó; ngươi nói gì với linh hồn mình? Ngươi tự vấn mình điều gì? Có phải chỉ thế này: địa ngục sẽ là kết cục của đường lối này, sự báo thù sẽ gặp ta, và tìm ra ta? Đã đến lúc ngươi phải nhìn quanh mình, sự ác đang rình ở cửa: lập luận chính của Phao-lô để chứng tỏ rằng tội lỗi sẽ không cai trị trên tín hữu, là họ không ở dưới luật pháp, mà ở dưới ân điển, Rô-ma 6:14. Nếu những cuộc tranh chiến của ngươi chống lại tội lỗi đều vì những lý do thuộc luật pháp, từ những nguyên tắc và động cơ thuộc luật pháp, thì ngươi lấy gì bảo đảm cho mình rằng tội lỗi sẽ không cai trị trên ngươi, điều sẽ là sự hư mất của ngươi? (5.) Khi nó đã chống cự những sự xử lý đặc biệt từ Đức Chúa Trời nhằm chống lại nó. Đức Chúa Trời khiến cho sự nguy hiểm, hoạn nạn, khốn khó, bệnh tật mà người ấy đang ở trong, hay đang phải chịu, trở thành tiếng nói của Ngài. Đôi khi trong lúc đọc Lời, Đức Chúa Trời khiến một người dừng lại ở điều gì đó đâm thấu lòng mình, và làm mình rúng động về tình trạng hiện tại. Thường xuyên hơn trong lúc nghe Lời được giảng, đại lễ lớn của Ngài cho sự cáo trách, sự cải đạo, và sự gây dựng, Ngài gặp gỡ con người. Ngài thường dùng gươm của Lời Ngài trong lễ ấy mà chặt con người; đâm thẳng vào ngực họ, vào ham muốn yêu dấu; làm kẻ có tội giật mình, khiến người ấy dấn thân vào sự giết chết tội lỗi và từ bỏ điều ác của lòng mình. Nay nếu ham muốn của người ấy đã bám chặt lấy người ấy đến nỗi ép người ấy phải bẻ gãy những dây trói của Chúa, và quăng những dây thừng ấy khỏi mình; nếu nó thắng được những sự cáo trách ấy, và lại trở về thế cũ; nếu nó có thể chữa lành những vết thương mà nó đã nhận như thế, thì linh hồn ấy đang ở trong một tình trạng đáng buồn. Còn nhiều bằng chứng khác nữa về một ham muốn nguy hiểm, nếu không nói là chí mạng. Như Cứu Chúa chúng ta đã phán về tà linh: "Loại này chỉ ra được bằng sự cầu nguyện và kiêng ăn"; tôi cũng nói như vậy về những ham muốn loại này; một đường lối giết chết tội lỗi thông thường sẽ không làm được; phải định ra những cách phi thường.
 
-Đây là hướng dẫn cụ thể thứ nhất; xem ham muốn hay tội lỗi mà ngươi đang tranh chiến, có triệu chứng nguy hiểm nào trong các triệu chứng ấy đi kèm với nó chăng. Trước khi tiếp tục, tôi phải đưa ra một lời cảnh báo dọc đường, kẻo có ai bị lừa dối bởi những điều đã nói. Vì, tôi nói, những điều và những sự ác kể trên có thể xảy đến cho những tín hữu thật, chớ để ai thấy những điều ấy trong chính mình, mà từ đó kết luận rằng mình là một tín hữu thật. Đây là những sự ác mà tín hữu có thể sa vào, và bị mắc bẫy, chứ không phải những điều làm nên một tín hữu. Một người kết luận mình là tín hữu, vì mình là kẻ ngoại tình; vì Đa-vít là người như vậy, đã sa vào tội ngoại tình; cũng khờ dại như kết luận từ những điều đã nói trên, vốn là những sự ác của tội lỗi và của Sa-tan trong lòng các tín hữu. Chương 7 của sách Rô-ma chứa đựng sự mô tả về một người đã được tái sinh. Ai xét những điều được nói về mặt tối của người ấy, về phần chưa được tái sinh của người ấy, về quyền lực và sự hung bạo cư ngụ bên trong của tội lỗi còn sót lại trong người ấy, và vì thấy những điều tương tự trong chính mình, mà kết luận mình là một người đã được tái sinh, sẽ bị lừa trong sự tính toán của mình. Cũng như nhau, ví như ngươi lập luận: Một người khôn ngoan có thể bị bệnh và bị thương, phải, làm một vài việc dại dột, vậy thì mọi người nào bị bệnh và bị thương, và làm những việc dại dột, đều là người khôn ngoan. Hoặc như một sinh vật xấu xí ngu ngốc nghe người ta nói về một người đẹp, nói rằng người ấy có một dấu hay một vết sẹo làm xấu đi nhiều, thì kết luận rằng vì mình cũng có sẹo, và nốt ruồi và mụn cóc, nên mình cũng đẹp. Nếu ngươi muốn có bằng chứng mình là tín hữu, thì phải từ những điều làm nên tín hữu. Ai có những điều ấy trong mình, có thể yên tâm kết luận: Tôi là tín hữu, tôi là một tín hữu khốn khổ nhất. Nhưng để một người là như vậy, người ấy phải tìm những bằng chứng khác, nếu muốn có chúng. ### CHƯƠNG VIII.
+Đây là hướng dẫn cụ thể thứ nhất; xem ham muốn hay tội lỗi mà ngươi đang tranh chiến, có triệu chứng nguy hiểm nào trong các triệu chứng ấy đi kèm với nó chăng. Trước khi tiếp tục, tôi phải đưa ra một lời cảnh báo dọc đường, kẻo có ai bị lừa dối bởi những điều đã nói. Vì, tôi nói, những điều và những sự ác kể trên có thể xảy đến cho những tín hữu thật, chớ để ai thấy những điều ấy trong chính mình, mà từ đó kết luận rằng mình là một tín hữu thật. Đây là những sự ác mà tín hữu có thể sa vào, và bị mắc bẫy, chứ không phải những điều làm nên một tín hữu. Một người kết luận mình là tín hữu, vì mình là kẻ ngoại tình; vì Đa-vít là người như vậy, đã sa vào tội ngoại tình; cũng khờ dại như kết luận từ những điều đã nói trên, vốn là những sự ác của tội lỗi và của Sa-tan trong lòng các tín hữu. Chương 7 của sách Rô-ma chứa đựng sự mô tả về một người đã được tái sinh. Ai xét những điều được nói về mặt tối của người ấy, về phần chưa được tái sinh của người ấy, về quyền lực và sự hung bạo cư ngụ bên trong của tội lỗi còn sót lại trong người ấy, và vì thấy những điều tương tự trong chính mình, mà kết luận mình là một người đã được tái sinh, sẽ bị lừa trong sự tính toán của mình. Cũng như nhau, ví như ngươi lập luận: Một người khôn ngoan có thể bị bệnh và bị thương, phải, làm một vài việc dại dột, vậy thì mọi người nào bị bệnh và bị thương, và làm những việc dại dột, đều là người khôn ngoan. Hoặc như một sinh vật xấu xí ngu ngốc nghe người ta nói về một người đẹp, nói rằng người ấy có một dấu hay một vết sẹo làm xấu đi nhiều, thì kết luận rằng vì mình cũng có sẹo, và nốt ruồi và mụn cóc, nên mình cũng đẹp. Nếu ngươi muốn có bằng chứng mình là tín hữu, thì phải từ những điều làm nên tín hữu. Ai có những điều ấy trong mình, có thể yên tâm kết luận: Tôi là tín hữu, tôi là một tín hữu khốn khổ nhất. Nhưng để một người là như vậy, người ấy phải tìm những bằng chứng khác, nếu muốn có chúng.
+
+CHƯƠNG VIII.
 
 Hướng dẫn thứ hai: hãy giữ cho sống động trong lòng ngươi những sự suy xét về tội, sự nguy hiểm, và sự ác của ham muốn ngươi. Hướng dẫn thứ ba được đề xuất. Hãy chất nặng lương tâm ngươi bằng tội của sự hư hoại quấy nhiễu ấy. Những cách thức và phương tiện mà điều đó có thể được thực hiện. Hướng dẫn thứ tư. Khao khát mãnh liệt được giải cứu. Hướng dẫn thứ năm. Một số sự hư hoại ăn rễ sâu trong khí chất tự nhiên của con người. Những sự suy xét về các sự hư hoại như thế; những cách đối phó với chúng. Hướng dẫn thứ sáu. Những dịp và cơ hội của tội lỗi phải được ngăn ngừa. Hướng dẫn thứ bảy. Hành động đầu tiên của tội lỗi phải bị chống cự mạnh mẽ.
 
@@ -448,10 +422,6 @@ So sánh mà nói, sự hiểu biết chúng ta có về Đức Chúa Trời b�
 
 Sự khác biệt giữa tín hữu và kẻ không tin về sự hiểu biết, không phải nhiều ở nội dung của sự hiểu biết họ, bằng ở cách thức biết. Những kẻ không tin, một số trong họ, có thể biết nhiều hơn, và có thể nói nhiều hơn về Đức Chúa Trời, những sự trọn vẹn của Ngài và ý muốn Ngài, hơn nhiều tín hữu; nhưng họ chẳng biết điều gì như đáng phải biết, chẳng biết điều gì một cách đúng đắn, chẳng biết điều gì một cách thuộc linh và cứu rỗi; chẳng biết điều gì với ánh sáng thánh khiết, thiên thượng. Sự tuyệt hảo của một tín hữu không phải ở chỗ người ấy có sự nhận thức rộng lớn về muôn vật, mà ở chỗ điều người ấy nhận thức được, dầu có thể rất ít, người ấy thấy nó trong ánh sáng của Thánh Linh Đức Chúa Trời, trong một ánh sáng cứu rỗi biến đổi linh hồn: và đây chính là điều ban cho chúng ta sự thông công với Đức Chúa Trời, chứ không phải sự soi mói, hay những quan niệm tò mò cao siêu về Ngài. Chúa Giê-xu Christ bởi lời và Thánh Linh Ngài tỏ bày cho lòng mọi kẻ thuộc về Ngài Đức Chúa Trời như một người Cha, như một Đức Chúa Trời trong giao ước, như một Đấng hay thưởng, mọi cách đều đủ để dạy chúng ta vâng lời Ngài ở đây, và để dẫn chúng ta đến lòng Ngài, nằm xuống đó trong sự hưởng Ngài đến đời đời. Nhưng dù vậy, bất chấp tất cả điều này, phần chúng ta biết về Ngài vẫn ít ỏi, chúng ta chỉ thấy phần sau lưng Ngài. Vì ý định của mọi sự tỏ bày thuộc Phúc Âm không phải là vén mở vinh hiển trong bản thể của Đức Chúa Trời để chúng ta thấy Ngài như Ngài vốn có, mà chỉ là tuyên bố về Ngài bấy nhiêu như Ngài biết là nền tảng cho đức tin, tình yêu, sự vâng lời và sự đến với Ngài của chúng ta: tức là những điều mà ở đây Ngài mong đợi nơi chúng ta, những sự phục vụ xứng hợp với những tạo vật nghèo hèn trong thế gian này.
 
----
-
----
-
 Phương hướng thứ chín. Hãy coi chừng, chớ tự nói bình an cho mình trước khi Đức Chúa Trời phán bình an. Sự bình an không có lòng ghê tởm tội lỗi là không lành mạnh. Đó là sự bình an tự mình đong đếm cho mình. Làm thế nào chúng ta biết được khi nào mình tự đong đếm bình an cho mình. Những chỉ dẫn cho sự tra xét ấy. Sự hư không của việc tự nói bình an cho mình.
 
 Hãy coi chừng, chớ tự nói bình an cho mình trước khi Đức Chúa Trời phán bình an; nhưng hãy lắng nghe điều Ngài phán với linh hồn ngươi. Đây là phương hướng thứ chín của chúng ta; nếu không giữ điều này, lòng sẽ vô cùng dễ bị tổn thương trước sự lừa dối của tội lỗi.
@@ -496,9 +466,7 @@ Chúng ta nói sự bình an cho chính mình, khi chúng ta làm điều ấy m
 
 Nhưng bạn sẽ nói: khi nào chúng ta có thể nhận lấy sự an ủi của một lời hứa làm của riêng mình, liên quan đến một vết thương đặc biệt nào đó để làm yên lòng:
 
----
-
-## CHƯƠNG XIII.
+CHƯƠNG XIII.
 
 Công dụng chung của các hướng dẫn trên. Hướng dẫn lớn để hoàn thành công việc nhắm đến. Đặt đức tin trên Đấng Christ — nhiều cách để làm điều này. Suy xét về sự đầy dẫy trong Đấng Christ để được cứu giúp. Những kỳ vọng lớn nơi Đấng Christ; nền tảng của những kỳ vọng ấy. Lòng thương xót của Ngài. Kết quả của những kỳ vọng ấy: về phía Đấng Christ; về phía các tín hữu. Đức tin đặc biệt hành động trên sự chết của Đấng Christ; Rô-ma 6:3, 4, 5, 6. Công việc của Thánh Linh trong toàn bộ công việc này.
 
@@ -540,9 +508,7 @@ Vậy hãy hành động đức tin trên sự chết của Đấng Christ, và 
 
 Vậy tôi chỉ còn phải thêm các đầu mục về công việc của Thánh Linh trong công việc giết chết tội lỗi này, là công việc được quy cách đặc biệt cho Ngài.
 
----
-
-## CHƯƠNG XIV.
+CHƯƠNG XIV.
 
 2. Nói tóm lại: toàn bộ công việc mà tôi đã mô tả là bổn phận của chúng ta, được thực hiện, tiến hành và hoàn thành bởi quyền năng của Thánh Linh, trong mọi phần và mọi mức độ của nó; như
 
@@ -559,9 +525,5 @@ Vậy tôi chỉ còn phải thêm các đầu mục về công việc của Th�
 6.) Trong mọi lời cầu khẩn của linh hồn đến Đức Chúa Trời trong tình trạng này, nó có sự nâng đỡ từ Thánh Linh. Quyền năng, sự sống, và sức mạnh của sự cầu nguyện từ đâu đến? Hiệu quả của nó để thắng hơn với Đức Chúa Trời từ đâu đến? Há chẳng phải từ Thánh Linh sao? Ngài là Thần của sự nài xin đã hứa cho những kẻ nhìn xem Đấng mà họ đã đâm, Xa-cha-ri 12:10, khiến họ có thể cầu nguyện với những tiếng thở than rên siết không thể nói ra được, Rô-ma 8:26. Điều này được xưng nhận là phương tiện hay con đường vĩ đại của đức tin thắng hơn với Đức Chúa Trời. Phao-lô đã đối phó với cơn cám dỗ của mình như vậy, dù nó là gì; tôi đã ba lần cầu nguyện Chúa cho nó lìa xa tôi, 2 Cô-rinh-tô 12:8. Công việc của Thánh Linh trong sự cầu nguyện là gì, từ đâu, và Ngài ban cho chúng ta sự trợ giúp thế nào, khiến chúng ta thắng hơn ra sao, chúng ta phải làm gì để hưởng được sự giúp đỡ của Ngài cho mục đích ấy, không phải là ý định hiện tại của tôi để chứng minh.
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: mortification = sự giết chết (tội lỗi) | to mortify = giết chết | indwelling sin = tội lỗi cư ngụ bên trong | lust = ham muốn | distemper = sự hư hoại (trong lòng) | the flesh = xác thịt | the old man = con người cũ | professors = những người xưng mình là tín đồ | self-righteousness = sự tự công chính | sincerity = sự chân thành | conviction (of sin) = sự cáo trách (về tội) | communion with God = sự thông công với Đức Chúa Trời | universal obedience = sự vâng phục phổ quát | universal holiness = sự thánh khiết phổ quát | velleity = khuynh hướng ý chí chưa trọn (giữ từ La-tinh) | obduration = sự chai lì hoàn toàn | judiciary hardness = sự cứng lòng do phán xét | temporal correction = sự sửa phạt trong đời tạm (đời này) | filial boldness = sự dạn dĩ của con cái | popish devotionists = những kẻ sùng đạo theo Công giáo La Mã | actual eruptions = những sự bùng phát (thực tế của tội) | inwardness (of the law) = tính nội tại (của luật pháp) | minister (of God) = mục sư | vegetative / sensitive / rational (ba loại sự sống) = thực vật / cảm giác / hợp lý (thông minh) | species (nghĩa kinh viện) = hình ảnh/hình thức (trong tâm trí) | supplication = sự nài xin | ordinances (trong ngữ cảnh thờ phượng) = các thể lệ thờ phượng | probatum est = "đã được chứng nghiệm" (lời chứng) | high priest = thầy tế lễ thượng phẩm | throne of grace = ngôi ơn phước. Các từ Hy Lạp/La-tinh giữ nguyên văn: thanatoute, dia pneumatos, zesesthe, sarx hamartias, soma tes hamartias, praxeis, ta erga tes sarkos, to phronema tes sarkos, ta pathemata, epithumiai, vicariam navare operam, causa sine qua non, ou sunkekerasmenon, dunamai boethesai, lambanomen. Ghi chú ráp file: trong bản in 1721, khối dòng nguồn 526–534 lặp lại gần như y nguyên khối dòng 502–510 (trang in bị lặp trong bản scan); khi ráp đã gộp thành một khối duy nhất — giữ bản dịch của khối đầu (dòng 502–510), bỏ khối lặp.
 
 Mở trong trình đọc Về thư viện

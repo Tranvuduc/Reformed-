@@ -40,8 +40,6 @@ DANH SÁCH THEO VẦN A-B-C CÁC TÁC GIẢ CỔ ĐẠI ĐƯỢC TRÍCH DẪN.
 
 Agatharchides, Ammianus Marcellinus, Apion, Appuleius, Artapanus, Berosus, Celsus, Chaeremon, Choerilus, Cicero, Claudius Claudianus, Clearchus, Diodorus Siculus, Dion Cassius, Dius, Eupolemus, Florus (Annaeus), Hecataeus, Hermippus, Herodotus, Horace, Justin, Juvenal, Livy (phần bổ sung của John Freinshemius), Lucanus (Annaeus), Lucretius Carus (T.), Lysimachus, Manetho, Martial, Mela (Pomponius), Molon (Apollonius), Nicolaus Damascenus, Ovid, Persius, Petronius Arbiter, Philostratus, Pliny, Plutarch, Polemo, Polybius, Porphyrius, Ptolemaeus Mendesius, Quintilian, Rutilius Numatianus, Seneca (L. Annaeus), Statius (P. Papinius), Strabo, Suetonius (C. Tranquillus), Tacitus, Theophrastus, Trogus Pompeius, Valerius Maximus, Varro, Velleius Paterculus, Virgil, Vitruvius.
 
----
-
 CUỘC XUẤT HÀNH KHỎI AI CẬP
 
 "Khi vua Ai Cập ban tỉnh Gô-sen, ở phía đông vùng Hạ Nin, cho gia đình Gia-cốp, ông khó có thể ngờ rằng về sau nơi ấy sẽ là chỗ ở của hai triệu người thuộc dòng dõi của tổ phụ. Vì vậy, không nghi ngờ gì, khu vực ông cấp cho họ không rộng lớn lắm, dù món quà ấy cũng đã đủ hào phóng nếu nó chỉ dành cho một phần trăm số người ấy mà thôi. Nhưng vì chỗ ở của họ không tăng lên tương xứng với số người, nên mỗi thế hệ mới ra đời lại khiến họ chen chúc nhau chật chội hơn, cho đến khi họ đông đúc đến nỗi việc giữ vệ sinh là không thể, và các bệnh truyền nhiễm — hệ quả tất yếu của tình trạng ấy — tự nhiên lan tràn trong họ. Bằng cách đó, những hạt giống đầu tiên của căn bệnh vốn vẫn còn đặc trưng nơi họ đã được gieo; nhưng vào thời ấy, hậu quả hẳn đã diễn ra nhanh chóng đến mức đáng sợ. Chứng phong hủi khủng khiếp nhất đã tấn công họ, truyền từ cha mẹ sang con cái, dần dần đầu độc nguồn sống và khả năng sinh sản.
@@ -864,7 +862,7 @@ Ch. (15). "Sông Jordan bắt nguồn từ suối Panias* — suối đã đặt
 
 * Caesarea cũng được gọi bằng tên này.
 
-Ch. (16). '*Asphaltites không sinh ra gì ngoài bitumen — từ đó nó có tên. Thân thể động vật sẽ không chìm trong nước nó;* ngay cả bò đực và lạc đà cũng nổi trên đó; do đó có câu nói rằng không gì chìm trong đó. Nó dài hơn một trăm dặm, chỗ rộng nhất hai mươi lăm dặm,
+Ch. (16). 'Asphaltites không sinh ra gì ngoài bitumen — từ đó nó có tên. Thân thể động vật sẽ không chìm trong nước nó; ngay cả bò đực và lạc đà cũng nổi trên đó; do đó có câu nói rằng không gì chìm trong đó. Nó dài hơn một trăm dặm, chỗ rộng nhất hai mươi lăm dặm,
 
 * Pliny, Lib. II., 106 (103), nói rằng "Trong hồ Asphaltites xứ Judaea, nơi sinh ra bitumen, không gì có thể bị nhấn chìm."
 
@@ -1086,7 +1084,7 @@ Justin, Quyển XXXVI, ch. 3, đưa ra những chi tiết sau: "Sự giàu có c
 
 * Dường như Justin dùng động từ stagnare [NEEDS REVIEW: nguyên văn "s¢aguare"] ở đây, với cùng nghĩa mà ông dùng trong một đoạn khác (XXXVII., ch. 2, §. 6, nơi ông kể rằng Mithridates "đã tự củng cố," se stagnavit [NEEDS REVIEW: nguyên văn "s¢ stagnavit"], chống lại những trò bịp bằng cách thường uống thuốc giải độc. Dường như ông đang chơi chữ với từ [NEEDS REVIEW: chữ Hy Lạp "acgaAdcZev" bị OCR làm hỏng]. việc đi lại bằng thuyền, vì mọi chất vô tri đều chìm xuống đáy, và nó sẽ không chịu bất kỳ gỗ nào trừ khi gỗ được bôi phèn.
 
-'*Xerxes, vua của người Ba Tư, là người đầu tiên chinh phục người Do Thái.' Về sau họ đã rơi — cùng với chính người Ba Tư — dưới ách của Alexander Đại đế; và họ lâu dài thuộc về Sy-ri khi nó bị quyền lực Macedonia cai trị. Khi nổi loạn chống Demetrius, và tìm kiếm tình bạn của người La Mã, họ là dân tộc đầu tiên trong mọi dân tộc phương Đông giành lại tự do — người La Mã rất hào phóng với những tự do mà họ không có quyền ban tặng."*
+'Xerxes, vua của người Ba Tư, là người đầu tiên chinh phục người Do Thái.' Về sau họ đã rơi — cùng với chính người Ba Tư — dưới ách của Alexander Đại đế; và họ lâu dài thuộc về Sy-ri khi nó bị quyền lực Macedonia cai trị. Khi nổi loạn chống Demetrius, và tìm kiếm tình bạn của người La Mã, họ là dân tộc đầu tiên trong mọi dân tộc phương Đông giành lại tự do — người La Mã rất hào phóng với những tự do mà họ không có quyền ban tặng."
 
 * Justin đã bỏ qua các cuộc chinh phục của Shalmanezer và Nebuchadnezzar, và hoàn toàn sai lầm về Xerxes. Người Do Thái chưa bao giờ bị người Ba Tư chinh phục, mà đã về dưới quyền họ cùng với các dân tộc khác mà người Ba Tư đã khuất phục.
 
@@ -1175,9 +1173,5 @@ Ch. 40, "Khi Judaea công khai khuất phục dưới một chính quyền bạo
 * Đây là Hyrcanus II và Aristobulus II.
 
 2 B.C. 63.
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Không có vấn đề thuật ngữ hệ thống nào: toàn bộ bản dịch dùng nhất quán Đức Chúa Trời, Chúa Giê-xu Christ (trong trích dẫn Tacitus về "Christus"), Đức Thánh Linh (không xuất hiện trong nguyên văn), Phúc Âm (không xuất hiện), ân điển, đức tin, sự xưng công chính (không xuất hiện), sự nên thánh (không xuất hiện), sự cứu chuộc (không xuất hiện), sự chuộc tội (không xuất hiện), giao ước (không xuất hiện), sự tuyển chọn (không xuất hiện), sự tiền định (không xuất hiện), sự cứu rỗi (không xuất hiện), Hội Thánh (không xuất hiện — nguyên văn chỉ nói về đền thờ/nhà hội Do Thái), Kinh Thánh (dùng cho "Scripture"/"sacred books"). - "Lawgiver" (chỉ Môi-se) dịch là "Đấng Lập Luật" — nhất quán toàn bản. - "the Deity"/"the Divinity" trong lời các tác giả ngoại giáo chỉ Đức Chúa Trời chân thật được dịch là "Đức Chúa Trời"; "gods" ngoại giáo dịch là "các thần". - Tên Kinh Thánh theo văn phong 1934: Sáng-thế Ký, Xuất Ê-díp-tô Ký, Dân-số Ký, Phục-truyền Luật-lệ Ký, Giô-suê, 1/2 Sa-mu-ên, Thi Thiên, Ê-xê-chi-ên, Giê-rê-mi, Xa-cha-ri, Công vụ, Lu-ca, Giăng, Ma-thi-ơ. - Địa danh theo văn phong 1934: Giê-ru-sa-lem, Giu-đê, Ai Cập, Gô-sen, Môi-se, Gia-cốp, Giô-sép, Áp-ra-ham, Y-sác, Sa-lô-môn, Hê-xê-chia, Đa-vít, Giô-suê, A-rôn, Ê-thi-ô-pi, Sy-ri, Phê-ni-xi, Ba-by-lôn, Giê-ri-cô. - Các cờ [NEEDS REVIEW] đều là do OCR gốc bị hỏng (chữ Hy Lạp/La-tinh/Hê-bơ-rơ, tên riêng, số trang), không phải do lựa chọn thuật ngữ.
 
 Mở trong trình đọc Về thư viện

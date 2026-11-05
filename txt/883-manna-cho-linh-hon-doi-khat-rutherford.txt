@@ -3244,8 +3244,4 @@ Tôi sẽ nghỉ ngơi bằng lòng, với một tấm lòng vâng phục và ch
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES (các vấn đề thuật ngữ cần lưu ý): - 16 thuật ngữ chuẩn của dự án được giữ nhất quán xuyên suốt: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh. "Christ" đứng một mình dịch là "Đấng Christ"; "Lord Jesus" là "Chúa Giê-xu". - "Holy Ghost" (văn phong cổ) được dịch thống nhất là "Đức Thánh Linh". - "Surety" (trong "the Surety's imputed righteousness") dịch là "Đấng Bảo Lãnh". - "kirk" (tiếng Scots, nhà thờ Scotland) dịch là "hội thánh". - "well-Beloved" dịch là "Đấng Yêu Dấu"; "Bridegroom" là "Chàng Rể" (ẩn dụ hôn nhân Đấng Christ — Hội Thánh). - "Second Adam" dịch là "A-đam thứ hai"; "Ancient of days" là "Đấng Thượng Cổ" (Đa-ni-ên 7:9); "Plant of Renown" là "Cây Danh Tiếng"; "the Branch" là "Chồi"; "Flower of Jesse" là "Bông Hoa của Gie-sê". - "told-down price" (tiếng Scots: giá đã trả đủ, đếm đủ) dịch là "giá đã trả đủ, đếm đủ". - Các câu Kinh Thánh được Việt hóa địa chỉ (ví dụ: gen. xlix. 21 → Sáng Thế Ký 49:21; Sol. Song v. 2 → Nhã Ca 5:2; 2 Tim. i. 12 → II Ti-mô-thê 1:12; James ii. 19 → Gia-cơ 2:19; Isa. l. 11 → Ê-sai 50:11; I John iii. 14 → I Giăng 3:14) và diễn đạt theo văn phong Kinh Thánh 1934. - 15 vị trí [NEEDS REVIEW] đã được đánh dấu trong bản dịch, đều do OCR gốc bị hỏng (đề mục không đọc được, đoạn văn bị cắt cụt) — xem chi tiết trong file.
-
 Mở trong trình đọc Về thư viện

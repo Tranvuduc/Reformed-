@@ -6,11 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Khuyên Người Trẻ Sống Tiết Độ
-
-**Nguyên tác:** "Sober-mindedness press'd upon young people. In a discourse on Titus II.6" — Matthew Henry (1715) **Nguồn:** https://archive.org/download/bim_eighteenth-century_sober-mindedness-pressd_henry-matthew_1715/bim_eighteenth-century_sober-mindedness-pressd_henry-matthew_1715_djvu.txt *(Ghi chú: bản in thứ hai (Second Edition), Luân Đôn, 1715; chỉ dịch bài giảng thật — phần quảng cáo sách khác của nhà in ở cuối sách không thuộc tác phẩm nên không dịch. Ấn bản 1735 đề "By the late Reverend Matthew Henry" là cùng một tác phẩm in lại, nên không dịch riêng.)*
-
----
+Nguyên tác: "Sober-mindedness press'd upon young people. In a discourse on Titus II.6" — Matthew Henry (1715) Nguồn: https://archive.org/download/bim_eighteenth-century_sober-mindedness-pressd_henry-matthew_1715/bim_eighteenth-century_sober-mindedness-pressd_henry-matthew_1715_djvu.txt (Ghi chú: bản in thứ hai (Second Edition), Luân Đôn, 1715; chỉ dịch bài giảng thật — phần quảng cáo sách khác của nhà in ở cuối sách không thuộc tác phẩm nên không dịch. Ấn bản 1735 đề "By the late Reverend Matthew Henry" là cùng một tác phẩm in lại, nên không dịch riêng.)
 
 Sự tiết độ được khuyên bảo
 
@@ -36,8 +32,6 @@ In cho Em. Matthews tại hiệu sách Kinh Thánh ở Pater-Noster-Row.
 
 1715.
 
----
-
 Gửi bạn đọc.
 
 Việc nhiều mục sư tốt lành, cả ở thành phố lẫn ở quê, vào khoảng thời gian này trong năm, giảng những bài giảng đặc biệt cho người trẻ, để đánh thức họ nhận biết mối quan tâm lớn lao của mình, là một thói quen đáng khen. Và làm điều đó ngay lúc này thật là đúng lúc, không chỉ vì trong những ngày rảnh rỗi này họ có nhiều thời gian hơn để tham dự một cơ hội như thế, mà còn vì trong những ngày tự do và nghỉ ngơi này, người trẻ càng dễ sa vào những cám dỗ mà họ đặc biệt cần được giữ gìn khỏi. Chúng ta cũng không biết làm sao có thể tôn vinh Đấng Christ tốt hơn, bằng cách ra sức phục vụ những ý định lớn lao trong sự đến thế gian của Ngài, và đem vào cho Ngài một dòng dõi để hầu việc Ngài, một dòng dõi sẽ được kể là thuộc về Ngài; để từ trong lòng buổi sớm mai, Ngài có thể nhận được sương móc của tuổi trẻ họ.
@@ -47,8 +41,6 @@ Nhân một dịp như thế, nội dung chính của bài giảng sau đây đ�
 Tôi dâng bài giảng này để phục vụ họ, cũng không quên các bạn hữu ở quê nhà, những gia đình mà tôi luôn mang trong lòng mối quan tâm sâu sắc và dịu dàng. Lời cầu nguyện của tôi, cả cho nhóm này lẫn nhóm kia, là họ sớm biết Đức Chúa Trời của tổ phụ mình, để hầu việc Ngài với tấm lòng trọn vẹn và tâm trí sẵn sàng; biết Ngài và Chúa Giê-xu Christ mà Ngài đã sai đến, để được sự sống đời đời.
 
 Ngày 3 tháng 1. [NEEDS REVIEW: bản OCR ghi "Jan. 3. 17113" không rõ ràng; có thể là Jan. 3. 1712/13]
-
----
 
 Sự tiết độ
 
@@ -375,9 +367,5 @@ Những ai giữ mình khỏi nó, hoặc vì họ biết mình không tiết đ
 Và anh em thích công việc tiết độ nghiêm túc mà anh em vừa dự vào, trong khi nghe hay đọc bài giảng này, thế nào? Anh em đã ở trong nó như ở trong môi trường mình, hay như cá trên đất khô? Anh em đã chịu đựng lời khuyên nhủ này, và chào đón nó chăng? Tôi có để anh em lại đều quyết tâm trong sức mạnh của ân điển Đức Chúa Trời, rằng giờ trong những ngày tuổi trẻ mình anh em sẽ tiết độ chăng? Nếu vậy, nguyện Chúa giữ nó luôn trong sự tưởng tượng của ý tưởng trong lòng anh em, và bởi viết luật tiết độ ở đó, lập vững đường lối anh em trước mặt Ngài.
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "sober-mindedness"/"sober mind" dịch nhất quán là "tiết độ" theo cách dịch Tít 2:6 trong Kinh Thánh tiếng Việt 1934 ("khuyên những người trai trẻ phải có tiết độ"); "Conversation" (nghĩa cổ: hạnh kiểm, cách ăn ở) dịch là "sự trò chuyện" khi chỉ lời nói và "cách ăn ở/lối ăn ở" khi chỉ hạnh kiểm; "godliness" = "sự tin kính", "ungodliness" = "sự vô đạo", "worldly lusts" = "tư dục thế gian", "sound doctrine" = "đạo lành", "reasonable service" = "sự hầu việc hợp lý". Các từ Hy Lạp bị OCR hỏng đã được phục hồi theo ngữ cảnh Kinh Thánh và văn mạch: σωφρονεῖν (Tít 2:6), ἵνα σωφρονίζωσι (Tít 2:4), σωφρονισμοῦ (2 Ti-mô-thê 1:7), νηφάλιος (Tít 2:2), φιλήδονοι μᾶλλον ἢ φιλόθεοι (2 Ti-mô-thê 3:4); từ Hy Lạp của "khuyên nhủ" (παρακαλέω) bị OCR hỏng hoàn toàn nên đánh dấu [NEEDS REVIEW]; câu thơ trích Herbert và ngày đề tặng trong lời mở đầu cũng bị OCR hỏng ở cả hai bản in nên đánh dấu [NEEDS REVIEW]. "The Second Edition" = "Bản in thứ hai".
 
 Mở trong trình đọc Về thư viện

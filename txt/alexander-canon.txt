@@ -6,7 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# CHỨC THÁNH ĐIỂN CỦA KINH THÁNH CỰU ƯỚC VÀ TÂN ƯỚC ĐƯỢC XÁC LẬP ## KINH THÁNH HOÀN CHỈNH MÀ KHÔNG CÓ NGỤY KINH VÀ CÁC TRUYỀN THỐNG KHÔNG ĐƯỢC CHÉP THÀNH VĂN
+CHỨC THÁNH ĐIỂN CỦA KINH THÁNH CỰU ƯỚC VÀ TÂN ƯỚC ĐƯỢC XÁC LẬP
+
+KINH THÁNH HOÀN CHỈNH MÀ KHÔNG CÓ NGỤY KINH VÀ CÁC TRUYỀN THỐNG KHÔNG ĐƯỢC CHÉP THÀNH VĂN
 
 Archibald Alexander (1772–1851), Giáo sư Thần học Giáo lý và Biện giáo, tại Chủng viện Thần học, Princeton, New Jersey.
 
@@ -14,7 +16,7 @@ Archibald Alexander (1772–1851), Giáo sư Thần học Giáo lý và Biện g
 
 Nhà in Princeton: In và xuất bản bởi D. A. Borrenstein, cho G. và C. Carvill, New York. 1826.
 
-## LỜI TỰA
+LỜI TỰA
 
 Một động lực khiến tác giả thực hiện bản biên soạn sau đây là mong muốn bổ sung cho cuốn sách nhỏ mà ông vừa xuất bản gần đây, về Những Bằng Chứng của Tôn Giáo Cơ Đốc; vì luận chứng về lẽ thật của sự mạc khải thiêng liêng không thể được xem là trọn vẹn, nếu thiếu các chứng cớ làm vững chắc thẩm quyền thánh điển của từng sách trong Kinh Thánh. Ông cũng bị thúc đẩy bởi sự suy xét rằng một tác phẩm tiện dụng và súc tích về chủ đề này là điều còn thiếu trong văn học thần học tiếng Anh của chúng ta. Những tác phẩm chúng ta có về Thánh Điển Kinh Thánh, hoặc quá uyên bác, hoặc quá đồ sộ, đối với độc giả phổ thông. Hơn nữa, toàn bộ chủ đề này hiếm khi được cùng một tác giả xử lý trọn vẹn; vì trong khi người này chỉ biện hộ Thánh Điển Cựu Ước, thì người khác lại giới hạn mình trong việc xác lập Thánh Điển Tân Ước.
 
@@ -29,8 +31,6 @@ Trong Phần Thứ Hai, về Thánh Điển Tân Ước, các chứng cớ đư�
 Về chủ đề Luật Truyền Miệng của người Do Thái, tác giả đã tự do sử dụng công trình của nhà biện giáo vĩ đại [NEEDS REVIEW: tên tác giả bị OCR làm sai lệch, đọc được là "Hohnsrek"], trong tác phẩm uyên bác Contra Judæos của ông. Về chủ đề Các Truyền Thống Không Được Chép Thành Văn, ông không thấy tác giả nào thỏa đáng hơn Chemnitz trong sách Examen Concilii Tridentini. Việc đưa cuộc thảo luận về các điểm này vào một luận văn về Thánh Điển Kinh Thánh, ông thừa nhận rằng mình đã rời khỏi phương pháp thông thường khi xử lý chủ đề này; nhưng ông tin chắc rằng chút suy xét sẽ thuyết phục mọi độc giả công tâm rằng tính đầy đủ và hoàn hảo của Kinh Thánh không thể được chứng minh, trừ khi chứng tỏ rằng không một phần nào của sự mạc khải thiêng liêng bị để lại cho truyền thống không được chép thành văn truyền lại. Vì nếu, như nhiều người tin, một phần quan trọng của các giáo lý và thể chế của Cơ Đốc giáo chỉ được truyền đến chúng ta qua kênh này, thì việc chứng minh rằng Kinh Thánh của chúng ta bao gồm mọi sách từng được viết bởi sự hà hơi cho Hội Thánh phổ thông dùng sẽ chẳng ích gì; vì theo giả thuyết ấy, một phần thiết yếu của sự mạc khải thiêng liêng không hề có trong Kinh Thánh, và thật ra chưa từng được chép thành văn. Nhưng mục đích của tác phẩm này là chứng tỏ rằng Kinh Thánh là hoàn chỉnh, chứa đựng mọi điều cần thiết để hướng dẫn đức tin và nếp sống của mọi Cơ Đốc nhân chân thành; và rằng Hội Thánh không sở hữu sự mạc khải nào khác ngoài điều được ghi chép trong các Sách Thánh này.
 
 Tác giả kính mong rằng tác phẩm nhỏ này, ở một mức độ khiêm tốn nào đó, sẽ góp phần vào sự nghiệp của Kinh Thánh.
-
-## MỤC LỤC
 
 PHẦN I
 
@@ -402,7 +402,7 @@ Khi Giê-hô-sa-phát bắt đầu cải cách và dạy dỗ dân chúng, và k
 
 * Xuất Ê-díp-tô Ký 24:3, 4; 34:27, 28. Phục Truyền Luật Lệ Ký 31:9, 24.
 
-** 2 Các Vua 17:13, 37.
+2 Các Vua 17:13, 37.
 
 họ chỉ giới hạn mình trong những gì đã chép trong Kinh Thánh: "Và họ dạy dỗ trong Giu-đa, và có sách luật pháp của Đức Giê-hô-va với họ, và đi khắp các thành của Giu-đa, và dạy dỗ dân chúng."
 
@@ -420,7 +420,7 @@ Hơn nữa, nhiều người Do Thái chính họ đồng ý với chúng ta tro
 
 * Sẽ rất dài dòng nếu tham chiếu mọi bản văn trong đó các mạng lệnh và lời khuyên bảo được ban ra, nhưng độc giả có thể tra các sách sau: Phục Truyền Luật Lệ Ký 10:12, 13; 11:32; 28:1; 30:20; 29:9, 20; 31:4, 5, 7. Giô-suê 1:7; 23:6. 2 Các Vua 14:6. 2 Sử Ký 25:4; 30:16.
 
-** 2 Sử Ký 17:9. Nê-hê-mi 8:2, 3, 4, 5, 7, 8. Thi Thiên 19:7. Phục Truyền Luật Lệ Ký 4:1, 2.
+2 Sử Ký 17:9. Nê-hê-mi 8:2, 3, 4, 5, 7, 8. Thi Thiên 19:7. Phục Truyền Luật Lệ Ký 4:1, 2.
 
 chúng ta có lời chứng của Giê-rô-mi, người nói: "Sa-mai và Hi-lên, từ đó mà ra các thầy thông giáo và người Pha-ri-si, không lâu trước khi Đấng Christ giáng sinh; người đầu tiên được gọi là kẻ tàn phá, và người sau là kẻ ô uế; vì, bởi các truyền thống của họ, họ đã phá hủy luật pháp của Đức Chúa Trời."* Nhưng về điểm này, người Sa-đu-sê đối lập với người Pha-ri-si, và theo Giô-sép-phút, đã bác bỏ mọi truyền thống, chỉ bám vào Kinh Thánh. Người Sa-ma-ri và người Ê-xê-nê đồng ý với họ. Người Ca-rai-tê cũng nhận lời thành văn, và bác bỏ mọi truyền thống; mặc dù, về các mặt khác, họ không đồng ý với người Sa-đu-sê. Và do đó, họ bị người Do Thái khác ghét bỏ và lăng mạ, đến nỗi các hội đường của họ không dễ dàng tiếp nhận một người Ca-rai-tê. Về giáo phái này, vẫn còn một số ở Ba-lan, Nga, Thổ Nhĩ Kỳ, và Phi châu.
 
@@ -2431,7 +2431,5 @@ Nhưng sau một lúc Giô-sép nói với Ma-ri: "Từ nay chúng ta sẽ khôn
 Khi mười hai tuổi Giê-xu ở tại Giê-ru-sa-lem, một nhà thiên văn học hỏi Ngài, Ngài có học thiên văn không? Ngài bèn nói cho ông biết số lượng các tầng trời và các thiên thể, v.v. Cũng có một nhà triết học hỏi Chúa Giê-xu Ngài có từng học y khoa không; Ngài đáp và giải thích cho ông vật lý và siêu hình học; các năng lực của thân thể; giải phẫu học của nó, v.v. Nhưng từ lúc này Ngài bắt đầu che giấu các phép lạ của mình, và chuyên tâm học Luật, cho đến khi Ngài tròn ba mươi tuổi.
 
 [Xem Phúc Âm về Thời Thơ Ấu của Đấng Cứu Rỗi chúng ta, đầy đủ trong Quyển Hai của sách Jones on the Canon, tác phẩm mà bản dịch này được lấy từ đó.]
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - [chunk1_vi] "Catholic Church" rendered "Hội Thánh phổ thông" (universal); "Catholic Epistles" rendered "bảy thư tín chung" (standard VN term). Epigraph 2 Ti-mô-thê 3:15–16 rendered by sense in BDM2010 style. One [NEEDS REVIEW] flag: polemicist's name in the Oral Law paragraph was OCR-garbled ("Hohnsrek") and could not be recovered with certainty. - [chunk2_vi] none — 16-term glossary applied throughout (Đức Chúa Trời, Đức Thánh Linh, Kinh Thánh, Hội Thánh, Cựu Ước/Tân Ước, Phúc Âm, giao ước/hòm giao ước). Scripture refs localized (Giăng, Ma-thi-ơ/Mác/Lu-ca where named, Thi Thiên, Sáng Thế Ký, Giô-suê, 1–2 Sử Ký, 1–2 Các Vua, 2 Sa-mu-ên, Dân Số Ký, Ê-sai, Giê-rê-mi, Ê-xơ-tê, Ma-la-chi, A-ghê, Xa-cha-ri). Long Bible quotations in Section VI marked [NEEDS REVIEW] for wording vs. Bản Dịch Mới 2010. One OCR garble rendered by evident sense: "5/«/ejo«/7£'r.S'" → "hồ sơ quốc gia, hay tài liệu công cộng" (state records / public documents). "The reprobate Jews" rendered as "những người Do Thái không tin". Proper names transliterated phonetically per Vietnamese Protestant convention. - [chunk3b_vi] - Bản OCR ghi "Poland" (trong cặp "Poland and Dodwell") — có lẽ là Toland (John Toland); đã dịch là "Toland" và đánh dấu [NEEDS REVIEW]. - Tên riêng nước ngoài được phiên âm theo phát âm tiếng Anh phổ biến trong văn phong Tin Lành Việt Nam (ví dụ Téc-tu-li-en, Âu-sê-bi-út, A-tha-na-si-út, Giê-rô-ni-mô); một số tên ít gặp (Nye, Richardson, Dodwell, Philastrius, Peshito, Pappus) giữ nguyên gốc hoặc phiên âm gần đúng — có thể cần duyệt lại khi biên tập toàn sách. - Các số trang của bản in gốc (137–161) và ký hiệu trang bị lẫn trong OCR đã được bỏ đi. - [chunk4a_vi] none (glossary terms applied: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, đức tin, Hội Thánh, Kinh Thánh, sự cứu rỗi. Bible quotations — Psalm 19:10, Luke 1:1, "let him that readieth understand," 2 Tim 4:11 — rendered by sense and flagged [NEEDS REVIEW] pending Bản Dịch Mới 2010 exact wording.) - [chunk4b_vi] (1) "Saviour" → Đấng Cứu Rỗi (glossary term is salvation=sự cứu rỗi; "Saviour" standalone has no glossary entry). (2) "ministers of his/the word" in Luke 1:2 quotes → "phục vụ Lời Đức Chúa Trời" [NEEDS REVIEW: exact Bản Dịch Mới 2010 wording uncertain]. (3) The Townsend quotation (p. 211) is heavily garbled in OCR ("thoin conformity to thoJewi'^hCnnon..."); reconstructed by evident sense, but wording may differ from the original. - [chunk7_vi] none — glossary applied consistently (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, đức tin, sự cứu rỗi, Hội Thánh, Kinh Thánh). Note: the original prints "3 Thes. ii. 3" (there is no 3 Thessalonians); the sense is unmistakably 2 Tê-sa-lô-ni-ca 2:3 (the prophecy of the falling away), rendered accordingly without a [NEEDS REVIEW] flag as no ambiguity exists.
 
 Mở trong trình đọc Về thư viện

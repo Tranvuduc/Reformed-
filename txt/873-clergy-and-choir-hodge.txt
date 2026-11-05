@@ -6,13 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Giáo Sĩ và Ca Đoàn
+Nguyên tác: "Clergy and Choir" — Rev. Charles R. Hodge, of the Diocese of Chicago (Milwaukee: The Young Churchman Co., 1891). (Lưu ý: tác giả là Rev. Charles R. Hodge, Giáo phận Chicago (1891) — không phải Charles Hodge (1797–1878), nhà thần học Princeton.) Nguồn: https://archive.org/download/clergychoir00hodg/clergychoir00hodg_djvu.txt
 
-**Nguyên tác:** "Clergy and Choir" — Rev. Charles R. Hodge, of the Diocese of Chicago (Milwaukee: The Young Churchman Co., 1891). *(Lưu ý: tác giả là Rev. Charles R. Hodge, Giáo phận Chicago (1891) — không phải Charles Hodge (1797–1878), nhà thần học Princeton.)* **Nguồn:** https://archive.org/download/clergychoir00hodg/clergychoir00hodg_djvu.txt
-
----
-
-## Trang tựa
+TRANG TỰA
 
 GIÁO SĨ VÀ CA ĐOÀN,
 
@@ -25,8 +21,6 @@ Giáo phận Chicago.
 MILWAUKEE: CÔNG TY YOUNG CHURCHMAN. 1891.
 
 Bản quyền thuộc về CÔNG TY YOUNG CHURCHMAN, 1891.
-
-## Mục lục
 
 CHƯƠNG I.
 
@@ -118,7 +112,7 @@ E. Đoạn trích từ "For unto us" (Vì có một con trẻ sinh cho chúng ta
 
 F. Đệm cornet trong các bài thánh ca xướng
 
-## Lời đề tặng
+LỜI ĐỀ TẶNG
 
 GỬI
 
@@ -138,7 +132,7 @@ Tác giả
 
 ân cần [NEEDS REVIEW: bản OCR gốc ghi "Stjmpatljettcalltj Snscrtbei)", dường như là "Sympathetically Inscribed" — "ân cần đề tặng"]
 
-## Lời nói đầu
+LỜI NÓI ĐẦU
 
 Những trích đoạn dưới đây được chép lại từ các thư tôi nhận được vào nhiều thời điểm khác nhau, trong vòng hai ba năm qua, từ một số anh em giáo sĩ của tôi, mà lý do họ viết cho tôi như vậy chắc hẳn là đầy đủ và thỏa đáng đối với chính họ:
 
@@ -166,7 +160,7 @@ Nếu cuốn sách này, theo thời gian, được thấy là hữu ích cho b�
 
 Charles R. Hodge. Nhà xứ Grace [NEEDS REVIEW: bản OCR gốc ghi "Grace Church Becforij", dường như là "Grace Church Rectory" — nhà xứ], New Lenox, Ill. Lễ Cắt bì của Đấng Christ [1 tháng Giêng], 1891.
 
-## Chương I.
+CHƯƠNG I.
 
 LỜI MỞ ĐẦU
 
@@ -182,11 +176,11 @@ Nhưng, dù giáo sĩ không phải là người không có khiếu âm nhạc, 
 
 Và không chỉ vị giáo sĩ trẻ mới gặp những khó khăn như thế, chúng cũng không chỉ giới hạn ở những cánh đồng lao động mới. Vị linh mục già, sau một phần tư thế kỷ lao động liên tục tại một giáo xứ, sẽ thấy nan đề ca đoàn bỗng dưng trỗi dậy và đối diện với ông, sinh động và mạnh mẽ như bao giờ, nhiều năm sau khi ông đã tự chúc mừng mình rằng nó đã được giải quyết an toàn và dứt điểm; sự sống và sức mạnh của nó là trường tồn, và sự hiện diện của nó là phổ quát.
 
-Không có cách thức tùy tiện hay cụ thể nào để đối phó với những khó khăn này, *Experientia docet* [kinh nghiệm dạy dỗ]. Nhưng những chỉ dẫn và lời khuyên, những suy ngẫm và ý tưởng chứa trong các trang sau có thể hữu ích, vì chúng dựa trên gần ba mươi năm kinh nghiệm gần như liên tục trong các ca đoàn với nhiều vai trò khác nhau: cậu bé ca viên, giọng nam cao, giám đốc, người chơi đàn organ, nhạc trưởng ca đoàn; và cuối cùng, khoảng mười năm làm linh mục trong công tác giáo xứ tích cực, trong đó nan đề ca đoàn, với nhiều khía cạnh của nó, đã hết lần này đến lần khác đòi được giải quyết.
+Không có cách thức tùy tiện hay cụ thể nào để đối phó với những khó khăn này, Experientia docet [kinh nghiệm dạy dỗ]. Nhưng những chỉ dẫn và lời khuyên, những suy ngẫm và ý tưởng chứa trong các trang sau có thể hữu ích, vì chúng dựa trên gần ba mươi năm kinh nghiệm gần như liên tục trong các ca đoàn với nhiều vai trò khác nhau: cậu bé ca viên, giọng nam cao, giám đốc, người chơi đàn organ, nhạc trưởng ca đoàn; và cuối cùng, khoảng mười năm làm linh mục trong công tác giáo xứ tích cực, trong đó nan đề ca đoàn, với nhiều khía cạnh của nó, đã hết lần này đến lần khác đòi được giải quyết.
 
 Để tiện, trong các trang sau tôi sẽ ngỏ lời với các anh em giáo sĩ của mình, đặc biệt với những người, về mặt âm nhạc cũng như các mặt khác, có khả năng tự điều hành âm nhạc của mình. Nhưng tôi tin rằng phần lớn sẽ khiến mọi người quan tâm. Và có thể một số độc giả sẽ coi những ý tưởng này đủ quan trọng để trao cuốn sách cho nhạc trưởng ca đoàn của họ, kèm lời đề nghị đọc kỹ và thu ích lợi từ đó.
 
-## Chương II.
+CHƯƠNG II.
 
 GIÁO LUẬT VỀ ÂM NHẠC TRONG HỘI THÁNH
 
@@ -210,7 +204,7 @@ Giáo luật này, đặc biệt khoản thứ hai của nó, là một giáo lu
 
 *Xem Chương XIX.
 
-## Chương III.
+CHƯƠNG III.
 
 HÁT CHUNG CỦA HỘI CHÚNG
 
@@ -232,7 +226,7 @@ Nhưng giáo sĩ có thể không thực hiện được những ý tưởng nê
 
 *Xem Phụ lục F.
 
-## Chương IV.
+CHƯƠNG IV.
 
 NHỮNG NGƯỜI DẪN DẮT VIỆC CA HÁT
 
@@ -266,7 +260,7 @@ Một sự việc khác xảy ra tại một trong những thành phố lớn c�
 
 *Trích "The Best Mode of Working a Parish" của Giám mục Spalding, tr. 66. *Trích tờ The Living Church. *Trích Church Cyclopaedia, bài "Choir."
 
-## Chương V.
+CHƯƠNG V.
 
 CA ĐOÀN HỖN HỢP
 
@@ -310,7 +304,7 @@ Trong trường hợp kia, đó là buổi tập cuối cùng cho nhạc Giáng 
 
 Không thể đưa ra quy tắc đặc biệt nào trong những trường hợp như thế; chúng là những tình huống khẩn cấp, và phải được đối phó như vậy. Nhưng một sự giáo dục trong các nguyên tắc nêu trong chương này sẽ giúp đối phó chúng dễ dàng hơn khi chúng phát sinh.
 
-## Chương VI.
+CHƯƠNG VI.
 
 CA ĐOÀN HỖN HỢP — LUYỆN GIỌNG
 
@@ -356,7 +350,7 @@ Các bài tập này nên thường được lặp lại, nhất là khi có ca 
 
 *Trích "Mechanism of the Human Voice" của Belmke [NEEDS REVIEW: tên tác giả trong bản OCR gốc là "Belmke", có thể là lỗi OCR].
 
-## Chương VII.
+CHƯƠNG VII.
 
 CA ĐOÀN TỨ TẤU
 
@@ -388,7 +382,7 @@ Một điều mà ca đoàn này có thể làm được là hát đối đáp t
 
 Sự kết hợp ca đoàn tứ tấu và ca đoàn hỗn hợp không phải là hiếm, và có nhiều điểm đáng khen. Dàn hợp xướng cho sức mạnh cần thiết, trong khi các giọng được huấn luyện được tự do hơn cho những chuyên môn của riêng họ; và một số dàn hợp xướng với những đoạn obligato, như bài Inflammatus trong Stabat Mater, có thể được chuẩn bị và trình bày với hiệu quả đúng đắn.
 
-## Chương VIII.
+CHƯƠNG VIII.
 
 CÁCH PHÁT ÂM TỪ NGỮ
 
@@ -454,7 +448,7 @@ Xin thêm ở đây vài lời về chủ đề diễn cảm. Sự chú ý đún
 
 *Liên quan đến từ này, vẫn thường bị phát âm sai, đôi khi tôi đã nhắc ca đoàn mình rằng một thương gia không bao giờ shows his goods (trưng hàng hóa của mình); ông ta ships them (giao chúng đi).
 
-## Chương IX.
+CHƯƠNG IX.
 
 TỔNG QUÁT
 
@@ -492,7 +486,7 @@ Có lần tôi đảm nhận điều hành các buổi lễ một thời gian v�
 
 Bằng sự chú ý và tập luyện cẩn thận, người nghiệp dư trẻ có thể học được nếp của buổi lễ, và có thể đạt được mọi kỹ năng cần thiết trong việc đệm ca hát bằng đàn organ tủ. Trong một giáo xứ nhỏ nên có ba bốn người chơi đàn organ đang được huấn luyện trong số những người trẻ, cho người này rồi người kia chơi trong Trường Chúa Nhật và các buổi lễ ngày thường, nhờ đó "rèn" họ cho công việc tương lai liên quan đến ca đoàn. Đây là kế hoạch tôi luôn áp dụng, và tôi thấy nó hiệu quả tuyệt vời.
 
-## Chương X.
+CHƯƠNG X.
 
 TỔNG QUÁT
 
@@ -520,7 +514,7 @@ Chúng ta đã có một ít nhạc như thế; và nếu mọi sách nhạc thi
 
 Trẻ em nên sớm được dạy cách hát xướng đúng đắn, hát phần xướng với sự đĩnh đạc phải lẽ, và các phần kết nhanh chóng và hết lòng. Tôi luôn thấy trẻ em đặc biệt yêu thích một số điệu Gregorian, như Tonus Regius, Rouen Mediation (câu 5), Điệu iii, 4, và một hai điệu khác, sau khi chúng đã hơi quen với chúng; và chúng dần dần, theo thời gian, biết thưởng thức nhạc hay, và những hòa âm cổ điển (nếu không quá công phu).
 
-*Gigatic. Việc dùng từ này có thể khiến một số người theo chủ nghĩa thuần túy thấy cần được biện minh, và đây là lời biện minh: Trong bài điểm một cuốn sách mới được cho là nhạc Trường Chúa Nhật, trên một tờ báo giáo phái nổi bật, từ này ra mắt như sau: "Phải thừa nhận rằng trong tuyển tập lớn nhạc Trường Chúa Nhật này, ông ___ đã đảm nhận và hoàn thành xuất sắc một công trình gigatic nhất." Lúc đầu, chúng tôi coi từ "gigatic" là lỗi in, cho rằng người điểm sách đã viết "gigantic;" nhưng việc xem qua cuốn sách được điểm đã khiến chúng tôi hài lòng rằng người thợ xếp chữ thông minh hoàn toàn đúng — ông ta đã theo đúng bản thảo. Do chính bản chất của sự việc, người điểm sách đã thấy sự cần thiết — và đã hành động theo nó — phải thêm một từ mới và rất cần thiết vào vốn từ vựng của chúng ta, mới được đúc từ tiếng Ý giga, một điệu nhảy jig.
+*Gigatic. Việc dùng từ này có thể khiến một số người theo chủ nghĩa thuần túy thấy cần được biện minh, và đây là lời biện minh: Trong bài điểm một cuốn sách mới được cho là nhạc Trường Chúa Nhật, trên một tờ báo giáo phái nổi bật, từ này ra mắt như sau: "Phải thừa nhận rằng trong tuyển tập lớn nhạc Trường Chúa Nhật này, ông _ đã đảm nhận và hoàn thành xuất sắc một công trình gigatic nhất." Lúc đầu, chúng tôi coi từ "gigatic" là lỗi in, cho rằng người điểm sách đã viết "gigantic;" nhưng việc xem qua cuốn sách được điểm đã khiến chúng tôi hài lòng rằng người thợ xếp chữ thông minh hoàn toàn đúng — ông ta đã theo đúng bản thảo. Do chính bản chất của sự việc, người điểm sách đã thấy sự cần thiết — và đã hành động theo nó — phải thêm một từ mới và rất cần thiết vào vốn từ vựng của chúng ta, mới được đúc từ tiếng Ý giga, một điệu nhảy jig.
 
 ÂM NHẠC LỄ HỘI
 
@@ -536,7 +530,7 @@ Và những ca đoàn có khả năng làm công việc nặng này nên dành t
 
 Một lần nữa, trong việc chuẩn bị nhạc lễ hội, phải nhớ rằng dân chúng không được bị tước quyền và đặc ân hiệp tiếng với ca đoàn trong một số lời ngợi khen, và nên cố gắng xem có thể có bao nhiêu sự hát chung hết lòng của hội chúng, phù hợp với nhạc lễ hội đặc biệt của ca đoàn, chứ không phải, như quá thường xảy ra, là ít đến mức nào. Những giai điệu thánh ca như Hebron, Coronation, Duke Street, Arlington, Balerma, Mear, Worgan, Adeste Fideles, có thể được chọn cho các thánh ca, và nhờ đó bầu không khí lễ hội của dịp ấy được rõ rệt hơn, cũng như được trân trọng và vui hưởng hơn.
 
-## Chương XI.
+CHƯƠNG XI.
 
 CA ĐOÀN MẶC ÁO LỄ
 
@@ -620,7 +614,7 @@ Một ủy ban các bà nên trông nom lễ phục, xem xét chúng định k�
 
 Một hai lần mỗi năm, lễ phục phải được sửa lại cho vừa các cậu bé, vì nhiều em đã lớn vượt cỡ của mình. Đây không phải là việc khó hay chán như người ta tưởng, vì một số cậu bé lớn hơn có thể đã rời đi, và những em nhỏ hơn khác có thể đã được nhận vào trong thời gian đó. Tuy nhiên, nên có hai ba bộ lễ phục dự phòng trong ca đoàn.
 
-## Chương XII.
+CHƯƠNG XII.
 
 CA ĐOÀN MẶC ÁO LỄ.
 
@@ -794,7 +788,9 @@ Trong sổ này, Số 1 đến muộn ngày 7 tháng 10, và vì vắng mặt v�
 
 Các sách thánh ca nên được đánh số liên tiếp, và mỗi ca viên nên được cấp một cuốn, số sách thánh ca của em không liên quan gì đến số ca viên của em. Một ca viên có thể, và chắc chắn sẽ, thấy số ca viên của mình thay đổi thường xuyên, trong khi cùng một cuốn sách thánh ca sẽ gắn bó với em nhiều năm. Điều này cũng khiến mỗi ca viên có trách nhiệm về tình trạng và việc giữ gìn sách thánh ca của mình, vì em sẽ luôn dùng cùng một cuốn. Danh sách các số sách thánh ca nên được thủ thư giữ, và anh ta là người cấp sách thánh ca cho các ca viên mới [NEEDS REVIEW: bản OCR ghi "for new members ■of the choir", dường như là lỗi ký tự; đã dịch theo nghĩa hiển nhiên].
 
-* [NEEDS REVIEW: dấu * trong bản gốc sau cụm "strict discipline*" dường như ám chỉ một chú thích cuối trang, nhưng trong bản in số hóa không thấy nội dung chú thích này] ## Chương XIII.
+* [NEEDS REVIEW: dấu * trong bản gốc sau cụm "strict discipline*" dường như ám chỉ một chú thích cuối trang, nhưng trong bản in số hóa không thấy nội dung chú thích này]
+
+CHƯƠNG XIII.
 
 CA ĐOÀN MẶC ÁO LỄ.
 
@@ -880,7 +876,7 @@ Các cậu bé không nên được phép hát quá một giờ một lần; hay
 
 * Để có gợi ý về hướng dẫn hát xướng, xem chương V.
 
-## Chương XIV.
+CHƯƠNG XIV.
 
 CA ĐOÀN MẶC ÁO LỄ.
 
@@ -992,7 +988,9 @@ Bài rước ra Thánh ca 477.
 
 Xem Phụ lục C.
 
-* Xem Phụ lục A. ## Chương XV.
+* Xem Phụ lục A.
+
+CHƯƠNG XV.
 
 CA ĐOÀN MẶC ÁO LỄ.
 
@@ -1024,7 +1022,7 @@ Xin cho tôi thêm một lời cảnh báo ở đây, mà, có lẽ, lẽ ra nê
 
 cho việc giáo dục và huấn luyện của mình. Có các buổi lễ hát trong tuần, và trong một buổi đã duy trì một buổi lễ hát hàng ngày nhiều năm nay. Kỷ luật và huấn luyện trong các ca đoàn như thế thật hoàn hảo, và việc trình bày các tác phẩm quan trọng thật thông minh và trau chuốt. Trái lại, ca đoàn làng bình thường, hay ca đoàn yếu kém, nhận được sự chú ý hạn chế, và thường hát mò, hay cách hoàn toàn máy móc, và khi thử nhạc có tính đòi hỏi cao, tất phải thất bại thảm hại, gây khó chịu và bực bội lớn cho dân chúng. Đường lối khuyên bảo này có thể kéo dài vô tận; dù sự mù quáng và tự mãn của bản tính con người bình thường trong mọi vấn đề thẩm mỹ là thế, những người cần những lời khuyên ấy nhất lại rất dễ biến chúng thành dịp để phật ý, hơn là để cải thiện lành mạnh."
 
-## Chương XVI.
+CHƯƠNG XVI.
 
 CA ĐOÀN MẶC ÁO LỄ.
 
@@ -1086,7 +1084,9 @@ Nếu có nhà thờ gần đó, các buổi lễ Chúa Nhật có thể đượ
 
 Một ca đoàn đi cắm trại như thế, mười ngày hay hai tuần, sẽ trở về nhà da sạm nắng, thân thể và tâm trí được tăng cường và tươi mới, và sẵn sàng bước vào việc phụng sự Đức Chúa Trời càng hết lòng hơn.
 
-Xem Phụ lục A. ## Chương XVII.
+Xem Phụ lục A.
+
+CHƯƠNG XVII.
 
 CA ĐOÀN MẶC ÁO LỄ.
 
@@ -1192,7 +1192,7 @@ NỘI QUY.
 
 5. — Các Nội quy này có thể được thêm, thay đổi hay sửa đổi bằng cùng phương pháp như quy định trong việc thay đổi Hiến chương; nhưng khi thêm Nội quy mới, điều này (hiện là Số 5) sẽ được đặt cuối cùng.
 
-## Chương XVIII.
+CHƯƠNG XVIII.
 
 CA ĐOÀN PHỤ TRỢ.
 
@@ -1232,7 +1232,9 @@ Thứ tư, trong những lúc suy yếu mà mọi ca đoàn mặc áo lễ đề
 
 Nếu kinh nghiệm của bạn giống như của người viết, bạn sẽ thường nghe các thành viên hội chúng nói: "Âm nhạc hay hơn biết bao từ khi các cô gái bắt đầu hát trong hội chúng một cách thoải mái; trước đây chưa bao giờ hay như thế!"
 
-* Trích dẫn này đáng đọc hai ba lần, như một minh họa về những quan điểm sai lầm của những người — như người viết nói — chỉ biết các ca đoàn cậu bé qua tin đồn. — Tác giả. ## Chương XIX.
+* Trích dẫn này đáng đọc hai ba lần, như một minh họa về những quan điểm sai lầm của những người — như người viết nói — chỉ biết các ca đoàn cậu bé qua tin đồn. — Tác giả.
+
+CHƯƠNG XIX.
 
 MỘT BÀI NÓI CHUYỆN VỚI CA ĐOÀN.
 
@@ -1274,7 +1276,7 @@ Và giờ, kết luận, tôi muốn tất cả các em ghi bài học này vào
 
 Nhưng nghiêm túc mà nói, các cậu bé, hãy xét vị trí các em chiếm giữ với tư cách ca sĩ trong Nhà của Đức Chúa Trời. Hãy nghĩ về sự thờ phượng Đức Chúa Trời, như đã được tỏ ra cho chúng ta: — ca đoàn các thiên sứ thánh sấp mình trước Ngài, các thánh được phước thờ lạy Ngài, và chúng ta, dù không xứng đáng, được phép hiệp cùng "các thiên sứ và tổng lãnh thiên sứ và cùng toàn thể thiên binh" để ca ngợi và tôn cao Danh thánh Ngài! Chúng ta nên tôn kính biết bao! Nên cẩn thận trong đời sống biết bao! Xin Đức Chúa Trời giúp tất cả chúng ta, các em và tôi, xứng đáng với thiên chức cao cả của mình!
 
-## Phụ lục
+PHỤ LỤC
 
 CÁC BÀI CẦU NGUYỆN CỦA CA ĐOÀN.
 
@@ -1316,7 +1318,9 @@ Mắt hết thảy đều ngửa trông Chúa, hỡi Chúa: và Chúa ban cho ch
 
 Chúa xòe tay ra: và làm cho thỏa nguyện mọi loài sống.
 
-Vinh hiển thuộc về Đức Chúa Cha, v.v. ## Phụ lục
+Vinh hiển thuộc về Đức Chúa Cha, v.v.
+
+PHỤ LỤC
 
 [Hay, bài Gloria đang được hát theo nhạc trên, các câu có thể được hát như sau]: Mục sư.
 
@@ -1346,7 +1350,7 @@ A-men.
 
 [NEEDS REVIEW: bản gốc có ký hiệu nhạc của tiếng "A-men" đáp lại; đã bỏ qua, chỉ giữ lời]
 
-## Phụ lục
+PHỤ LỤC
 
 B.
 
@@ -1446,7 +1450,7 @@ Hỡi Chúa, Đấng trong cơn thịnh nộ đã hủy diệt U-xa vì đã b�
 
 Nguyện ân điển của Chúa Giê-xu Christ, Chúa chúng con, và tình yêu của Đức Chúa Trời, và sự thông công của Đức Thánh Linh, ở cùng tất cả chúng con đời đời. A-men.
 
-## Phụ lục
+PHỤ LỤC
 
 C.
 
@@ -1494,7 +1498,7 @@ A-
 
 [NEEDS REVIEW: Phụ lục D ("Mười Bài tập", được chương XIII viện dẫn) không xuất hiện rõ trong bản số hóa; chỉ có ký hiệu nhạc không đọc được. Phần tiếp theo trong bản gốc được đánh dấu "E."]
 
-## Phụ lục
+PHỤ LỤC
 
 [NEEDS REVIEW: ký hiệu nhạc không đọc được; đã bỏ qua]
 
@@ -1508,7 +1512,7 @@ E.
 
 [NEEDS REVIEW: ký hiệu nhạc không đọc được; đã bỏ qua]
 
-## Phụ lục
+PHỤ LỤC
 
 [NEEDS REVIEW: ký hiệu nhạc không đọc được; đã bỏ qua]
 
@@ -1528,7 +1532,7 @@ Nốt xướng của bài hát xướng không nên luôn được chơi, như t
 
 Ghi chú: Phương pháp phác thảo ở đây cũng hữu ích cho đệm đàn piano, với vài thay đổi nhỏ.
 
-## Phụ lục
+PHỤ LỤC
 
 [NEEDS REVIEW: ký hiệu nhạc không đọc được; đã bỏ qua]
 
@@ -1556,14 +1560,6 @@ Như đã có từ ban đầu, hiện nay, và còn đến đời đời: thế 
 
 [NEEDS REVIEW: ký hiệu nhạc cuối bản gốc không đọc được; đã bỏ qua]
 
-[NEEDS REVIEW: dòng cuối bản số hóa "A^A-A infe 4i A AAA A AA A A A" là ký hiệu nhạc hỏng, không dịch được; đã bỏ qua] ---
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: Thuật ngữ mới chốt — vested choir = ca đoàn mặc áo lễ | cotta = áo cotta | cassock = áo cassock | choirmaster = nhạc trưởng ca đoàn | chancel = cung thánh | chant = hát xướng | anthem = thánh ca hợp xướng | crucifer = người cầm thánh giá | choir problem = "nan đề ca đoàn" (dịch trong văn bản) | intone = xướng (hát xướng câu mở đầu). Decani/Cantoris, Te Deum, Venite, Jubilate, Benedictus, Gloria Patri giữ nguyên. Bảng thuật ngữ cố định của dự án được giữ suốt.
-
-Lỗi OCR đã sửa lặng lẽ trong bản dịch (ghi nhận từ hai phần): "Sympathetically Inscribed" (lời đề tặng, OCR nát), "Grace Church Rectory" (OCR "Becforij"), "Gloria Tibi" (OCR "Tihi"), "Benedictus" (OCR "Benedk"), "for new members of the choir" (OCR có ký tự lạ) — tất cả đã dịch theo nghĩa hiển nhiên; ký hiệu nhạc/nốt nhạc và ký hiệu xướng OCR không đọc được được thay bằng chú thích ngoặc vuông, không dịch.
-
-NEEDS REVIEW (P1 — 8 điểm): (1) "Sympathetically Inscribed" trong lời đề tặng, OCR nát; (2) "Grace Church Rectory", OCR ghi "Becforij"; (3) "Gloria Tibi", OCR ghi "Tihi"; (4) "Benedictus", OCR ghi "Benedk"; (5) trích Thi Thiên 67:3 (ch.III) dịch theo lời tác giả, chưa khớp hoàn toàn bản 1934; (6) con số "18" trong bảng ca đoàn 26 người (ch.XI) có vẻ sai; (7) "Belmke" (tác giả cuốn "Mechanism of the Human Voice", ch.VI) có thể là lỗi OCR; (8) mục từ "Israel" trong ch.VIII có ký hiệu phát âm OCR không đọc được.
-
-NEEDS REVIEW (P2 — 38 điểm): (1) ký hiệu nhạc/nốt nhạc và hình ảnh OCR không đọc được trong ch.XII–XVI và các phụ lục (khoảng 30 điểm) — đã thay bằng chú thích ngoặc vuông, không dịch; (2) các ký hiệu xướng (chant pointing) xen kẽ lời trong các bài xướng ch.XIII–XIV và Phụ lục F (bài Tạ ơn, Venite) không đọc rõ — chỉ dịch phần lời; (3) các trích dẫn Kinh Thánh dịch theo lời tác giả thay vì bản 1934: Thi Thiên 19:14 (lời cầu nguyện của ca viên, ch.XIV), II Sa-mu-ên 18:28 (chuyện A-hi-ma-át, ch.XIX), Thi Thiên 15:1-6, Thi Thiên 95, Thi Thiên 145:16, Thi Thiên 95–96 (bài Venite, Phụ lục F); (4) dấu * sau "strict discipline" (ch.XII) dường như ám chỉ chú thích cuối trang nhưng bản số hóa không thấy nội dung; (5) 3 hình sơ đồ nhà thờ/cuộc rước (ch.XIV–XV) OCR không đọc được — đã bỏ qua; (6) Phụ lục D ("Mười Bài tập", được ch.XIII viện dẫn) không xuất hiện rõ trong bản số hóa; (7) dòng cuối bản số hóa "A^A-A infe 4i A AAA A AA A A A" là ký hiệu nhạc hỏng, không dịch được — đã bỏ qua.
+[NEEDS REVIEW: dòng cuối bản số hóa "A^A-A infe 4i A AAA A AA A A A" là ký hiệu nhạc hỏng, không dịch được; đã bỏ qua]
 
 Mở trong trình đọc Về thư viện

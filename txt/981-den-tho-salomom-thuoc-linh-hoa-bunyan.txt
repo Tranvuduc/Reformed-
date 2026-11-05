@@ -1726,8 +1726,4 @@ Như bạn thấy chúng đặt từ đất đến trên cửa; tức là, từ 
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Không phát hiện thuật ngữ nào dùng sai so với bộ 16 thuật ngữ chuẩn trong suốt bản dịch (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). Các câu Kinh Thánh được diễn đạt theo văn phong Kinh Thánh 1934; nhiều tham chiếu chương/câu gốc bị OCR làm hỏng nên được đánh dấu [NEEDS REVIEW] và suy đoán theo ngữ cảnh. - "Sự nên thánh" (sanctification) không xuất hiện trực tiếp trong nội dung sách; "sự xưng công chính" xuất hiện đúng ngữ cảnh (bàn thờ vàng = sự công bình của Đấng Christ). - Một số tên riêng giữ nguyên âm Hán-Việt quen thuộc trong Kinh Thánh 1934 (Salômôn, Giê-ru-sa-lem, Mô-ri-a, A-rôn, v.v.). - Số chương từ XXV trở đi nhiều chỗ bị mất/hỏng trong OCR; người dịch đã đánh số tiếp theo trình tự và gắn cờ [NEEDS REVIEW] tại các đề mục đó.
-
 Mở trong trình đọc Về thư viện

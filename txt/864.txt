@@ -6,15 +6,11 @@ Bản dịch do AI (External-AI) hỗ trợ, chưa được mục sư duyệt gi
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Bài Giảng Trong Những Cây Nến
+Nguyên tác: "Sermons in Candles: Two Lectures upon the Illustrations which may be Found in Common Candles" — Rev. C. H. Spurgeon (American Tract Society, 1891) Nguồn: https://archive.org/download/sermonsincandles00spur/sermonsincandles00spur_djvu.txt (Ghi chú: lời giới thiệu của R. S. MacArthur trong bản in không phải tác phẩm của Spurgeon nên không dịch.)
 
-**Nguyên tác:** "Sermons in Candles: Two Lectures upon the Illustrations which may be Found in Common Candles" — Rev. C. H. Spurgeon (American Tract Society, 1891) **Nguồn:** https://archive.org/download/sermonsincandles00spur/sermonsincandles00spur_djvu.txt *(Ghi chú: lời giới thiệu của R. S. MacArthur trong bản in không phải tác phẩm của Spurgeon nên không dịch.)*
+Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
 
-**Trạng thái duyệt:** AI, chưa duyệt (chưa được mục sư duyệt)
-
----
-
-## Bài giảng số 1.
+BÀI GIẢNG SỐ 1.
 
 Ngày xưa, diễn thuyết là một sinh hoạt phổ biến đến nỗi tôi từng nghe người ta nói rằng cả xã hội có thể chia thành hai hạng: "người diễn thuyết và người bị diễn thuyết"; và người ta bảo sự phân chia ấy đúng cả ban ngày lẫn ban đêm — như ông bà Caudle có thể làm chứng. Giờ đây, các buổi diễn thuyết chỉ còn là "ánh sáng của những ngày đã qua". Không còn cảnh Exeter Hall chật kín người đến nghe loạt bài diễn thuyết của các nhà thần học lớn; và các học viện nhỏ có mời mọc khán giả đến nghe "Một Buổi Diễn Thuyết Đại Chúng" cũng hoài công. Phép mầu đã biến mất: những người "bị diễn thuyết" nay đã được giải thoát. Ai phải chịu trách nhiệm về sự sụt giảm người đến nghe diễn thuyết? Có phải những bài nói chuyện đã trở nên quá buồn tẻ? Những bài thuyết trình quá cao siêu hay quá tầm thường? Liệu bài của tôi có giống như thế không?
 
@@ -38,7 +34,7 @@ Có lần tôi vô ý treo một cân nến mỡ bò lên giá phơi quần áo.
 
 Cây nến bấc cói là bạn của người nghèo. Những bà vợ thợ thuyền tằn tiện tự làm lấy; và White, trong cuốn Selborne, có một bức thư mô tả khá tỉ mỉ cách làm nến tiết kiệm tại nhà ấy. Các bà nội trợ đảm đang vớt váng mỡ trong nồi thịt muối, gạn muối ra, rồi cho một ít sáp ong vào mỡ. Cói được cắt vào mùa hè, ngâm nước, lột vỏ, giữ nguyên ruột. Nhúng cói vào mỡ sôi đòi hỏi rất cẩn thận; nhưng làm xong, nhà người thợ có thể vui vẻ có ánh nến suốt 800 giờ chỉ tốn ba shilling. Ông còn nói thêm rằng người rất nghèo, vốn luôn là những nhà kinh tế tồi nhất, mỗi tối mua một cây nến nửa xu, thế là với cùng số tiền chỉ được hai giờ ánh sáng thay vì mười một giờ. Bài học đạo đức: ngay cả nến bấc cói cũng phải tiết kiệm, huống chi là ánh sáng của đời sống! Thời ấy có trò đùa của tuổi trẻ là sai cậu bé ra tiệm mua một cân "bấc cói bằng bông". Ông chủ tiệm, nếu thuộc loại nóng tính, dễ nổi xung "xông" vào cậu bé, tưởng cậu nhạo mình. Cũng thời ấy, chúng tôi nghe chuyện bà chủ tiệm nến bảo khách rằng "nến đã lên giá" (candles was riz). "Lên giá à", bà hàng xóm nói, "cái gì cũng lên trừ tiền công của tôi. Nhưng sao lại lên?" "Người ta bảo", bà kia đáp, "mỡ bò lên giá vì chiến tranh với Nga." "Phải", người khách đáp, "chuyện lạ thật. Bộ họ đã đánh nhau bằng ánh nến rồi sao?" Người đàn bà ấy đã thoáng hiểu luật cung cầu. Bà có thể chưa từng đọc Adam Smith, nhưng rất có thể bà họ Smith thật.
 
-Thời ấy người ta kể chuyện một tay dí dỏm nói với người bán nến: "Tôi mong đợt nến này sẽ tốt hơn đợt trước." "Tôi thật không biết, thưa ông; đợt tôi gửi ông có gì không ổn sao?" "Không ổn nhiều chứ", tay dí dỏm đáp; "chúng cháy rất tốt cho đến khi cháy được khoảng một nửa, rồi thì không cháy nữa." Cái mẹo ở đây là, dĩ nhiên, chúng cháy *ngắn* hơn.
+Thời ấy người ta kể chuyện một tay dí dỏm nói với người bán nến: "Tôi mong đợt nến này sẽ tốt hơn đợt trước." "Tôi thật không biết, thưa ông; đợt tôi gửi ông có gì không ổn sao?" "Không ổn nhiều chứ", tay dí dỏm đáp; "chúng cháy rất tốt cho đến khi cháy được khoảng một nửa, rồi thì không cháy nữa." Cái mẹo ở đây là, dĩ nhiên, chúng cháy ngắn hơn.
 
 Chúng tôi cũng bày trò thực tế với nến; chúng tôi khoét ruột một củ cải, khoét mắt và mũi trên vỏ, rồi đặt nến vào trong. Trò này dùng khéo thì mua vui, nhưng dùng vụng thì thành ra dọa trẻ con và người ngây ngô, khiến chúng bỏ chạy vì tưởng ma hiện hình. Ngoài củ cải ra, người ta còn có thể dùng nhiều thứ khác để dọa người dại dột; nhưng lấy ánh sáng của lẽ thật mà dùng vào việc ấy thì thật đáng hổ thẹn.
 
@@ -164,11 +160,11 @@ Thời Henry VIII, dân Luân Đôn ít treo nến, nên kẻ cắp rạch túi 
 
 Nhiều di chúc để lại tiền duy trì đèn, nhất là ở những nơi gần sông Thames. Tôi xin đưa một mẫu. John Wardall, theo di chúc đề ngày 29 tháng 8 năm 1656, tặng cho Công ty Grocers một ngôi nhà tên "Gấu Trắng", ở Walbrook, với ý định họ hằng năm, trong vòng ba mươi ngày sau lễ Michaelmas, trả cho các quản lý nhà thờ St. Botolph, Billingsgate, 4 bảng, để sắm một đèn lồng sắt kính tốt và bền, có nến, giúp khách bộ hành đi lại bên bến nước suốt đêm an toàn hơn, đặt ở góc đông-bắc nhà thờ giáo xứ St. Botolph, từ lễ Thánh Bartholomew đến lễ Lady Day. Trong số tiền ấy, 1 bảng trả cho người trông nhà thờ vì công trông coi đèn lồng. Sống trong ánh sáng và chết trong ánh sáng mà lo liệu ánh sáng cho thế giới tối tăm này là điều tốt. Thật là cách lạ lùng để bày tỏ lòng mến mộ một chính trị gia, khi ông Alderman White, ở Winchester, tặng Wilkes, tác giả của tờ Số 45 khét tiếng, bốn mươi lăm tá nến. Có lẽ vị Alderman đáng kính vừa muốn quảng cáo vừa muốn ngưỡng mộ. Dù sao ông cũng thành công; vì các tay dí dỏm, một người ký tên Will Wickham, đã bất tử hóa ông trong vần thơ:
 
-*"Anh hùng nào, vua nào,* *Nàng thơ ơi, nàng sẽ hát ai?* *Vị alderman nào dám sánh? —* *Không đề tài nào sáng* *Bằng Alderman White,* *Và bốn mươi lăm tá nến của ông.*
+*"Anh hùng nào, vua nào,* Nàng thơ ơi, nàng sẽ hát ai? Vị alderman nào dám sánh? — Không đề tài nào sáng Bằng Alderman White, Và bốn mươi lăm tá nến của ông.
 
-*Từ ông, danh thơm rạng* *Của tự do sẽ bừng cháy,* *Và ai hiểu sai chính nghĩa ấy* *Sẽ phân biệt đúng sai,* *Nhờ ánh sáng ái quốc chân chính* *Của bốn mươi lăm tá nến.*
+Từ ông, danh thơm rạng Của tự do sẽ bừng cháy, Và ai hiểu sai chính nghĩa ấy Sẽ phân biệt đúng sai, Nhờ ánh sáng ái quốc chân chính Của bốn mươi lăm tá nến.
 
-*Đề tài cao siêu thay,* *Ta mãi muốn làm thơ,* *Nhưng nàng thơ ta chẳng dỗ nữa;* *Chúc ông ngủ ngon,* *Ông Alderman White;* *Nhưng coi chừng kẻ trộm trong nến."*
+Đề tài cao siêu thay, Ta mãi muốn làm thơ, Nhưng nàng thơ ta chẳng dỗ nữa; Chúc ông ngủ ngon, Ông Alderman White; Nhưng coi chừng kẻ trộm trong nến."
 
 Chúng ta không thể không nhắc đến bức vẽ nổi tiếng của Hogarth, "Nhà Chính Trị". Tạp chí đáng mến ấy, The Penny Magazine, năm 1834, đã có một bài phân tích bức tranh rất xuất sắc, tôi không thể không trích nguyên văn. "Người ta nói tác phẩm hài hước tuyệt vời này được Hogarth gợi ý từ một nhân vật có thật thời ông, một ông Tibson, chủ tiệm đăng ten ở Strand, người thích chính trị hơn buôn bán, và thích tờ báo Gazetteer hơn sổ cái và sổ nhật ký. Chưa bao giờ niềm đam mê chi phối — sự chăm chú vào một đề tài ưa thích — được khắc họa tài tình như trong bức khắc trước mắt chúng ta. Chỉ riêng tư thế ngồi của ông già tọc mạch đã kể một câu chuyện! Nhìn cách ông ngồi vuông vắn trên ghế, ta thấy ông là người quyết không nhúc nhích cho đến khi đọc xong tờ báo yêu quý đến dòng cuối, chữ cuối, âm tiết cuối. Đôi chân ngắn mập, với đôi giày cổ cao đế rộng, đặt xuống sàn như hai cây cột! Phải cần ngựa kéo xe mới lôi ông ra khỏi việc ông đang làm!
 
@@ -204,17 +200,17 @@ Gióp không giới hạn ẩn dụ này cho con cái của sự ác, mà dùng 
 
 Đa-vít, người hiểu rõ ánh sáng của cây đèn ấy, và cũng biết sự thiếu vắng nó, vui mừng reo lên trong Thi Thiên 18:28: "Chúa sẽ thắp đèn tôi." Bản xứ Scotland gieo vần rất hay: —
 
-*"Chúa sẽ thắp đèn tôi lên,* *Để nó chiếu sáng rực rỡ:* *Chúa là Đức Chúa Trời tôi cũng sẽ khiến* *Bóng tối tôi thành ánh sáng."*
+*"Chúa sẽ thắp đèn tôi lên,* Để nó chiếu sáng rực rỡ: Chúa là Đức Chúa Trời tôi cũng sẽ khiến Bóng tối tôi thành ánh sáng."
 
 Tín hữu sẽ không bị bỏ lại trong bóng tối. Nếu không có đầy tớ đến thắp nến cho chúng ta, chính Chúa sẽ làm. Một hình ảnh tượng trưng chứa được biết bao ý nghĩa sâu xa! Matthew Henry, chẳng hề gượng ép ẩn dụ, giải đoạn ấy như sau: "Chúa sẽ làm sống lại và an ủi linh hồn buồn rầu của tôi, chẳng để tôi sầu muộn: Ngài sẽ cứu tôi khỏi hoạn nạn, và phục hồi tôi trong bình an thịnh vượng: Ngài sẽ làm danh dự tôi sáng ngời, nay đang bị che khuất; Ngài sẽ dẫn dắt đường tôi, và ban bằng trước mặt tôi, để tôi tránh cạm bẫy giăng ra; Ngài sẽ thắp nến cho tôi làm việc, và ban cho tôi cơ hội phụng sự Ngài và lợi ích nước Ngài giữa loài người."
 
 Sa-lô-môn nói về nến khi ông phán: "Linh tánh loài người vốn một ngọn đèn của Đức Giê-hô-va, dò thấu các nơi ẩn bí của lòng." Há ông chẳng nói đến lương tâm sao? Há ông chẳng muốn nói lương tâm theo một nghĩa nào đó là ánh sáng thánh — "ngọn đèn của Đức Giê-hô-va"? và theo mọi nghĩa là ánh sáng phơi bày — dò thấu các nơi ẩn bí? Hãy coi chừng đừng bao giờ đùa giỡn với cây nến này. Mất ánh sáng trong lương tâm nghĩa là giảm ánh sáng cho cả con người chúng ta. Tôi e rằng lương tâm nơi nhiều người đã chẳng hơn gì cây nến chưa thắp, không cho ánh sáng, cũng chẳng làm cho bóng tối hiện rõ. Tôi từng nghe một người nói: "Lương tâm! Lương tâm! Tôi đầy lương tâm." "Phải", một người nói, "và nó còn tốt như mới, vì tôi chưa từng thấy anh dùng nó." Trong trường hợp ấy, nó là cây nến chưa thắp, và câu vè cổ có rằng: —
 
-*"Cây nến chẳng cho ánh sáng,* *Ngày đêm nào có ích gì?"*
+*"Cây nến chẳng cho ánh sáng,* Ngày đêm nào có ích gì?"
 
 Lương tâm được soi sáng rất đáng quý, và phải giữ nó khỏi mọi điều có thể làm mờ ánh sáng nó. Milton nói: —
 
-*"Ai có ánh sáng trong lòng trong sạch,* *Có thể ngồi giữa trung tâm hưởng ngày sáng."*
+*"Ai có ánh sáng trong lòng trong sạch,* Có thể ngồi giữa trung tâm hưởng ngày sáng."
 
 Nguyện Đức Chúa Trời cho chúng ta chẳng bao giờ làm bạo lương tâm mình dù chỉ chút ít; vì ấy là dập tắt ánh sáng của chính mình!
 
@@ -266,21 +262,21 @@ Thầy Bunyan cho chúng ta cả một thế giới suy tư trong bài vè vụn
 
 SUY NGẪM VỀ CÂY NẾN.
 
-*Con người như cây nến trên chân đèn,* *Làm bằng mỡ bò và chút bấc con;* *Và nến trước khi thắp ra sao,* *Kẻ ở trong tội tối cũng thế nào.* *Người ta chẳng thể lấy ân điển thổi vào hồn,* *Hơn nến tự châm lửa cho mình được đâu.* *Nến nhận ánh sáng từ điều chẳng phải mình;* *Người nhận ân điển từ Đấng lúc đầu mình chẳng đoái nhìn.*
+Con người như cây nến trên chân đèn, Làm bằng mỡ bò và chút bấc con; Và nến trước khi thắp ra sao, Kẻ ở trong tội tối cũng thế nào. Người ta chẳng thể lấy ân điển thổi vào hồn, Hơn nến tự châm lửa cho mình được đâu. Nến nhận ánh sáng từ điều chẳng phải mình; Người nhận ân điển từ Đấng lúc đầu mình chẳng đoái nhìn.
 
-*Nến cháy, ta điều khiển ngọn lửa;* *Ân điển thổi vào lòng, Đức Chúa Trời cai trị người ta.* *Nến càng to cho ánh sáng càng tốt,* *Ân điển trên tội nhân càng lớn càng rạng ngời.* *Nến sáng để người khác thấy đường;* *Thánh đồ nên là ánh sáng cho người lân bang.* *Nến lập lòe ta khinh biết mấy;* *Thánh đồ mờ nhạt ai cũng chẳng coi ra gì.*
+Nến cháy, ta điều khiển ngọn lửa; Ân điển thổi vào lòng, Đức Chúa Trời cai trị người ta. Nến càng to cho ánh sáng càng tốt, Ân điển trên tội nhân càng lớn càng rạng ngời. Nến sáng để người khác thấy đường; Thánh đồ nên là ánh sáng cho người lân bang. Nến lập lòe ta khinh biết mấy; Thánh đồ mờ nhạt ai cũng chẳng coi ra gì.
 
-*Dẫu có người cho là đố, xin nghe,* *Xưa ta vẫn châm nến ở giữa.* *Thật, ánh sáng hiện ra ở đầu nến,* *Và ân điển đến lòng trước qua tai nghe;* *Nhưng lửa bén vào bấc mới cháy lên,* *Như ân điển trước tác động vào lòng.* *Cả hai đều bám vào chỗ chính yếu,* *Và nhờ đó giữ sự sống và sức mạnh.*
+Dẫu có người cho là đố, xin nghe, Xưa ta vẫn châm nến ở giữa. Thật, ánh sáng hiện ra ở đầu nến, Và ân điển đến lòng trước qua tai nghe; Nhưng lửa bén vào bấc mới cháy lên, Như ân điển trước tác động vào lòng. Cả hai đều bám vào chỗ chính yếu, Và nhờ đó giữ sự sống và sức mạnh.
 
-*Nến trước gió hay bùng lên,* *Cơ-đốc nhân trong bão tố hay ngã lòng.* *Ta thấy ngọn lửa có khói đi kèm;* *Trong đời thánh khiết ta còn nhiều điều sai.* *Đôi khi kẻ trộm quấy phá ánh nến:* *Và dục vọng tìm hủy phá ân điển ta.* *Vật mặn chát khiến nến xì xụp;* *Giữa tội lỗi và ân điển thường xung đột nặng nề.* *Đôi khi đèn mờ vì tàn bấc,* *Đôi khi bị thổi tắt chỉ một hơi:* *Nhưng tỉnh thức ngăn cả hai điều ác,* *Giữ nến sáng, giữ ân điển bất chấp ma quỷ.* *Đừng để tàn bấc hay hơi thổi khiến ta nghi ngờ;* *Nến ta có thể thắp lại, dù đã bị thổi tắt.*
+Nến trước gió hay bùng lên, Cơ-đốc nhân trong bão tố hay ngã lòng. Ta thấy ngọn lửa có khói đi kèm; Trong đời thánh khiết ta còn nhiều điều sai. Đôi khi kẻ trộm quấy phá ánh nến: Và dục vọng tìm hủy phá ân điển ta. Vật mặn chát khiến nến xì xụp; Giữa tội lỗi và ân điển thường xung đột nặng nề. Đôi khi đèn mờ vì tàn bấc, Đôi khi bị thổi tắt chỉ một hơi: Nhưng tỉnh thức ngăn cả hai điều ác, Giữ nến sáng, giữ ân điển bất chấp ma quỷ. Đừng để tàn bấc hay hơi thổi khiến ta nghi ngờ; Nến ta có thể thắp lại, dù đã bị thổi tắt.
 
-*Nến trong đêm trổi vượt mọi sự,* *Mặt trời, mặt trăng, sao trời chẳng sánh bằng:* *Cơ-đốc nhân trong bán cầu chúng ta cũng vậy,* *Ánh sáng họ chỉ người khác đường đi.* *Khi nến tắt, mọi sự rối loạn;* *Nơi không có Cơ-đốc nhân, ma quỷ lẻn vào.* *Ai có những cây nến như vậy thật hạnh phúc;* *Còn lại đều ở trong bóng tối và mồ mả.*
+Nến trong đêm trổi vượt mọi sự, Mặt trời, mặt trăng, sao trời chẳng sánh bằng: Cơ-đốc nhân trong bán cầu chúng ta cũng vậy, Ánh sáng họ chỉ người khác đường đi. Khi nến tắt, mọi sự rối loạn; Nơi không có Cơ-đốc nhân, ma quỷ lẻn vào. Ai có những cây nến như vậy thật hạnh phúc; Còn lại đều ở trong bóng tối và mồ mả.
 
-*Nhưng nến lập lòe trong lỗ chân đèn,* *Và thánh đồ mắt lúc nào cũng đút túi,* *Giống nhau lắm; nến như vậy khiến ta lần mò;* *Thánh đồ như vậy, người tốt kẻ xấu đều vấp.* *Nến tốt không làm khó chịu, trừ mắt đau,* *Cũng chẳng làm hại, trừ lũ ruồi ngốc.* *Nến sáng trong đêm tốt biết bao!* *Đời sống thánh khiết ngọt ngào cho niềm vui!*
+Nhưng nến lập lòe trong lỗ chân đèn, Và thánh đồ mắt lúc nào cũng đút túi, Giống nhau lắm; nến như vậy khiến ta lần mò; Thánh đồ như vậy, người tốt kẻ xấu đều vấp. Nến tốt không làm khó chịu, trừ mắt đau, Cũng chẳng làm hại, trừ lũ ruồi ngốc. Nến sáng trong đêm tốt biết bao! Đời sống thánh khiết ngọt ngào cho niềm vui!
 
-*Nhưng chúng ta hãy tiến về cuối cây nến.* *Lửa, quý vị thấy đấy, đốt mòn bấc và mỡ;* *Đời người hao mòn cũng vậy, cho đến khi cát chảy hết,* *Và thế là nến và người đều xong.* *Người giờ nằm xuống giường mình;* *Bấc nhả ngọn lửa, thế là chết.* *Nến nay đã tắt, nhưng con người* *Bởi ân điển lên nơi vinh hiển, đứng đó.*
+Nhưng chúng ta hãy tiến về cuối cây nến. Lửa, quý vị thấy đấy, đốt mòn bấc và mỡ; Đời người hao mòn cũng vậy, cho đến khi cát chảy hết, Và thế là nến và người đều xong. Người giờ nằm xuống giường mình; Bấc nhả ngọn lửa, thế là chết. Nến nay đã tắt, nhưng con người Bởi ân điển lên nơi vinh hiển, đứng đó.
 
-## Bài giảng số 2.
+BÀI GIẢNG SỐ 2.
 
 Tôi e rằng môn khoa học về biểu tượng chẳng còn thịnh hành trong chúng ta như xưa kia, khi nó từng là một ngành học thuật quan trọng. Quý vị có thể tìm thấy một miền đất hiếm hoi cho việc học hỏi giải trí trong văn học biểu tượng. Nhiều người đã thử đến nỗi một số sách biểu tượng cổ đã trở nên quá đắt, người đọc bình thường không mua nổi. Người ta đổ xô mua, và điều này đã đẩy giá lên vượt xa giá trị thật của chúng.
 
@@ -366,7 +362,7 @@ Chiếc đèn lồng mắt bò này có thể dùng làm hình ảnh về cách 
 
 Trong chiếc đèn lồng này có đầy ánh sáng, nhưng chẳng ai thấy gì; và đây chúng ta có chân dung của nhiều người mộ đạo giữ kiến thức cho riêng mình. Ồ, không, họ không bao giờ nhắc đến nó; tên nó không bao giờ được nghe; họ là những giáo sư bị buộc lưỡi. Họ tự hào có đầy ánh sáng Phúc Âm, nhưng không bao giờ để lọt ra một tia; họ không bao giờ nói một lời cho Chúa Giê-xu với các linh hồn quanh mình. Có lẽ họ nghĩ gương của mình quý giá đến nỗi không cần thêm lời nào; như cái chuông làm bằng kim loại quá quý để gắn lưỡi, nên không bao giờ rung được. Một số người khá cau có trong việc giữ mình cho riêng mình. Nếu chúng ta cố bật mắt đèn của họ, như thỉnh thoảng tôi làm, họ hơi nóng lên, như chiếc đèn lồng này vừa nóng. Chúng ta phải cẩn thận khi cầm họ, không sẽ bỏng tay. Một người được nói nhẹ nhàng, được thúc giục giúp một việc cần, đã đáp cộc cằn: "Cái tôi cho chẳng liên quan gì đến ai." Lẽ thật vô tình, chắc vậy, nhưng nói theo cách khó chịu, khiến quý vị cảm như ngã ngửa lên lưỡi cưa tròn. Việc của tôi là cố bật ánh sáng đang khép kín nơi các thành viên Hội Thánh; và tôi hy vọng quý vị vì thế sẽ chịu đựng những điều tôi nói đụng chạm cá nhân, và đừng dành cho tôi sự tiếp đón nồng nhiệt hơn mức quý vị có thể kiềm chế — tôi muốn nói loại nồng nhiệt đến từ tính nóng nảy. Xin cho tôi được khuyên quý vị. Chẳng phải ý Chúa là quý vị nên tỏa sáng sao? Chẳng phải vì sự an ủi của chính quý vị sao? Lẽ nào không có những linh hồn đang đợi trong bóng tối cho đến khi quý vị mang đến cho họ sự nhận biết về Đấng Cứu Thế? Quý vị không nhớ bài thánh ca truyền giáo của Heber, và thực hành bài học của nó sao? —
 
-*"Chúng ta, những linh hồn được thắp sáng* *Bằng sự khôn ngoan từ trên cao,* *Lẽ nào từ chối người trong tối,* *Ngọn đèn sự sống chẳng trao?"*
+*"Chúng ta, những linh hồn được thắp sáng* Bằng sự khôn ngoan từ trên cao, Lẽ nào từ chối người trong tối, Ngọn đèn sự sống chẳng trao?"
 
 Một số người dường như có khả năng lớn trong việc từ chối ánh sáng cho đồng loại. Tôi đã biết những người gần như tự hào về sự kín tiếng của mình với chính con cái. "Tôi chưa bao giờ nói với nó về tôn giáo," là lời thú nhận tự mãn của một giáo sư già về con trai mình. Một số người này tự chui vào bóng tối, kẻo bị gọi ra làm việc. Lời mở đầu của một Câu Lạc Bộ Mai Táng bắt đầu: "Vì nhiều người thấy khó tự chôn mình." Than ôi! Theo chỗ tôi biết, nhiều người tự chôn mình rất dễ, và một trong những việc lao nhọc thường xuyên của tôi là lôi họ ra khỏi mồ mả của sự lười biếng. Tôi ước họ đáp lại tiếng gọi của tôi, đừng nằm trong quan tài mà càu nhàu vì tôi quấy rầy. Này, đèn lồng tối, ta phải bật ngươi lên!
 
@@ -380,7 +376,7 @@ Chắc chắn Đức Chúa Trời sẽ bảo tồn Phúc Âm của Ngài, dù c�
 
 Sự quan phòng của Đức Chúa Trời là đấng bảo vệ lớn cho sự sống và sự hữu ích của chúng ta, và dưới sự chăm sóc thiên thượng chúng ta hoàn toàn an toàn khỏi mọi nguy hiểm.
 
-*"Tai ương, tử thần quanh tôi bay;* *Đến khi Ngài muốn, tôi chưa chết:* *Không một mũi tên nào trúng được,* *Cho đến khi Đức Chúa Trời tình yêu định đoạt."*
+*"Tai ương, tử thần quanh tôi bay;* Đến khi Ngài muốn, tôi chưa chết: Không một mũi tên nào trúng được, Cho đến khi Đức Chúa Trời tình yêu định đoạt."
 
 Thế mà chúng ta hay than phiền về chính sự quan phòng ban phước cho mình. Nhiều năm trước một nông dân từ chợ về với gánh nặng vàng, vì ông đã bán lúa. Ông thấy thật khó chịu khi trời mưa làm hỏng chiếc áo khoác đẹp nhất của mình; nhưng khi đến chỗ vắng giữa rừng, và nhận ra rằng một tên cướp đường đã bắn ông nếu mưa không làm ẩm thuốc súng của nó, ông có một ý niệm sống động hơn nhiều về sự khôn ngoan của Đức Chúa Trời.
 
@@ -442,7 +438,7 @@ Vẫn còn chỗ cho những kiểu nến mới, và chúng ta không nên ngạ
 
 Ở Trung Hoa và Đông Ấn có một loài ruồi nến; nhưng dù mang tên ấy, chúng ta không nghĩ nó dùng được như nến. Chúng ta đã nghe nói về việc đọc sách nhờ ánh sáng đom đóm trong hàng rào quê mình, nhưng chúng ta nghi liệu chữ in thường có đọc được như vậy không. Đom đóm nhắc chúng ta nhớ hầu hết các nhà chú giải, mà Young nói:
 
-*"Các nhà chú giải tránh đoạn tối,* *Và giơ nến leo lét của mình lên mặt trời."*
+*"Các nhà chú giải tránh đoạn tối,* Và giơ nến leo lét của mình lên mặt trời."
 
 Đom đóm đóm có thể dùng được hơn cho chúng ta, vì chúng như những chiếc đèn sống. Chúng đã quyến rũ chúng ta lắm khi lần đầu chúng ta thấy chúng bên các hồ Ý. Nến đêm là người an ủi ban đêm điềm đạm: nguyện còn lâu quý vị mới học được giá trị của nó trong những giờ đau đớn dài!
 
@@ -464,7 +460,7 @@ Chúng ta đã thấy một vật khéo léo lịch sự ở một số tiệm t
 
 Giữ nến cho người khác hẳn là một niềm vui. Cho đi ánh sáng của mình sẽ không phí ánh sáng của mình. Thế mà giữ nến cho người khác có một nghĩa đắng cay, như trong những vần thơ này:
 
-*"Có kẻ bảo đem so với Buononcini* *Thì ông Handel kia chỉ là thằng ngốc:* *Kẻ khác quả quyết rằng ông ta so với Handel* *Chẳng đáng xách đèn hầu hạ."*
+*"Có kẻ bảo đem so với Buononcini* Thì ông Handel kia chỉ là thằng ngốc: Kẻ khác quả quyết rằng ông ta so với Handel Chẳng đáng xách đèn hầu hạ."
 
 Cây nến này đang lộn ngược, và chẳng bao lâu nó sẽ tự dập tắt mình. Khi trong lòng chúng ta bản tính thấp hèn ở trên, và phần thú vật thống trị phần thuộc linh, ngọn lửa của ánh sáng thánh không thể giữ cháy lâu. Khi thế gian ở trên, và những điều đời đời ở chỗ thấp trong lòng, sự sống thánh đang trong tình trạng nguy hiểm. Khi trí tuệ đè bẹp tình cảm, linh hồn không ở trong trạng thái ngay thẳng. Cần phải nhanh chóng sửa lại mọi sự, nếu không hậu quả tệ nhất sẽ đến. Lời cầu nguyện của chúng ta nên dâng lên Đức Chúa Trời rằng điều này đừng xảy đến với chính mình; và khi thấy nó như vậy với người khác, chúng ta nên đầy sự quan tâm cầu nguyện để họ được bàn tay Đức Chúa Trời xoay lại thành tình trạng thật và ngay thẳng.
 
@@ -505,9 +501,5 @@ Hình ảnh tiếp theo gồm hai cây nến, và tôi sẽ đọc, nếu đư�
 Chúng ta sẽ kết thúc như họ làm ở những buổi giải trí ngoài trời — với màn pháo hoa lớn nhất của mình.
 
 Đây là nhiều cây nến hiệp ánh rực rỡ của chúng; tất cả treo trên một giá đỡ, và tỏa sáng bằng cùng một ánh sáng. Chúng chẳng phải tượng trưng cho Hội Thánh của Đấng Christ trong tính đa dạng, phong phú và hiệp một sao? Những cây nến này đều được đỡ trên một thân, đều cho ra cùng một ánh sáng, mà lại đủ mọi loại, cỡ và màu. Từ xa chúng sẽ như chỉ một ánh sáng. Chúng nhiều, mà chỉ một. Có một buổi tối tôi tình cờ nói rằng không ai phân biệt được đâu là "U.P.", đâu là Free Church, đâu là Wesleyan, đâu là Primitive, đâu là Salvation Army, đâu là Baptists, vân vân; nhưng một ông Baptist già cứng cỏi quả quyết với tôi rằng phe "Nhúng" cho ánh sáng tốt nhất. Một người khác nói phái Presbyterian, nhìn chung, được đúc trong khuôn tốt nhất; và người thứ ba nghĩ Giáo Hội Anh được làm bằng sáp thật nhất. Tôi bảo họ rằng một số người Baptist sẽ tốt hơn nếu được Báp-tem thêm lần nữa. Các Free Church có thể không tệ hơn nếu được vững vàng hơn trong đức tin; và ngay cả các Methodist cũng có thể cải thiện phương pháp của mình. Câu hỏi chính là sở hữu một ánh sáng và lửa của Đức Chúa Trời, ngọn lửa của lẽ thật thiên thượng. Những ai tỏa sáng bởi ân điển thiên thượng đều là một trong Chúa Giê-xu Christ. Vinh quang biết bao sẽ có trong Hội Thánh duy nhất khi mọi thành viên của nàng tỏa sáng, và tất cả là một! Nguyện ngày ấy mau đến! A-men.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: P1 — 3 NEEDS REVIEW: (1) "Robert Farlie" (đánh dấu inline): chính tả tên chưa xác minh, có thể là "Farley"; (2) "besom of the law" ("cây chổi của luật pháp", Lu-ca 15:8) giữ theo archive.org — bản spurgeon.org ghi "bosom", có vẻ là lỗi đánh máy của bản đó; (3) chưa đối chiếu toàn văn Phần 1 với bản in giấy. P2 — 0 NEEDS REVIEW inline: cụm "with a flint in 9 / your lives" đã xác minh là lỗi ngắt trang của OCR (bản spurgeon.org ghi "with a flint in your lives") nên đã dịch theo bản sạch, không giữ NEEDS REVIEW. Các lỗi OCR hiển nhiên đã sửa lặng lẽ khi dịch: "golden bushel", "flatter rulers", "when it constituted", "Buchan's Family Medicine" (giữ theo bản in), Gióp 21:17 khôi phục từ spurgeon.org, "hisdi culture"→"high culture", "E.R.S."→"F.R.S.", "Heme Hill"→"Herne Hill", "wickii-wick"→"wick-à-wick", đoạn chai bia gừng xáo chữ dịch theo bản sạch; các tiêu đề trang in xen trong OCR ("SERMONS IN CANDLES. 111/117/152") đã bỏ, không dịch.
 
 Mở trong trình đọc Về thư viện

@@ -656,8 +656,4 @@ HẾT.
 
 [Phần còn lại của bản scan là trang đính chính lỗi in (errata) của ấn bản 1746, OCR hỏng nặng không đọc được — bỏ qua.]
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Thuật ngữ 16 từ chuẩn của dự án được giữ nhất quán xuyên suốt (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). - "Atonement" → "sự chuộc tội"; "propitiation" → "của lễ chuộc tội". - "Redeemer" → "Đấng Cứu Chuộc"; "Mediator" → "Đấng Trung Bảo". - "Sanctification"/"sanctifying" → "sự nên thánh"/"làm nên thánh". - Scripture quotes rendered in Kinh Thánh 1934 style; exact 1934 wording NOT verified — flagged [NEEDS REVIEW] at each quote (the bulk of the 210 flags). - OCR hỏng nặng ở: trang tựa/đầu sách (dựng lại, đã đánh dấu), các chú thích La-tinh/Hy-lạp dài (giữ nguyên văn La-tinh + dịch nghĩa đại ý, đánh dấu), trang errata cuối (bỏ qua, đã ghi chú), một số câu thơ trích dẫn (Milton, Young, Pope, Prior, Thomson, Casimir — giữ tên tác giả, đánh dấu chỗ OCR không khôi phục được). - Vài chỗ OCR làm mất chữ (ví dụ "CHRIS" → Đấng Christ, "Gop/Gop" → Đức Chúa Trời, "JEsUs/IEsus" → Chúa Giê-xu) đã được khôi phục theo ngữ cảnh; những chỗ không chắc chắn đã đánh dấu [NEEDS REVIEW]. - Trích dẫn Khôn Ngoan (Wisdom) 3:4, 5:4-5; 2 Esdras 7:48; Khôn Ngoan 11:20 là sách ngoài chính điển Tin Lành — đã ghi chú rõ trong bản dịch.
-
 Mở trong trình đọc Về thư viện

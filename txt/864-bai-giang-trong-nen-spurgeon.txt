@@ -770,8 +770,4 @@ BOSTON, 54 Bromfield Street. PHILADELPHIA, 1512 Chestnut Street. ROCHESTER, 93 S
 
 [Các trang còn lại của bản gốc là danh mục quảng cáo của nhà xuất bản (American Tract Society), liệt kê các sách khác: sách của J. R. MacDuff, Kinh Thánh giáo viên, sách thiếu nhi, sách về Ê-li, địa lý Kinh Thánh, từ điển Kinh Thánh, và các sách chọn lọc của nhiều tác giả.]
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Các câu trích Kinh Thánh giữ nguyên cách xưng hô của bản Kinh Thánh 1934, trong đó có "Đức Giê-hô-va" (Châm Ngôn 20:27; Sô-phô-ni 1:12; Ê-sai 52:11) theo nguyên văn 1934, dù thuật ngữ chuẩn của dự án là "Đức Chúa Trời". - "Candlemas" dịch là "Lễ Nến (Candlemas)" — lễ ngày 2 tháng 2 trong truyền thống Công giáo/Anh giáo/Lu-then, không có thuật ngữ Tin Lành Việt Nam tương đương. - "The Purification" (Lễ Thanh Tẩy Đức Trinh Nữ) giữ nguyên theo văn cảnh lịch sử Công giáo trong bài. - OCR có các lỗi nhỏ đã được sửa theo ngữ cảnh ("Spurgeob" → Spurgeon, "Legturrs" → Lectures, "loo7c" → look, "i39i" → 1891, "Greorge" → George, "caunot" → cannot, "p]aces" → places, "w^ho" → who, "kindil" giữ nguyên theo bản gốc); không có chỗ nào hỏng đến mức không đoán được nên không dùng cờ [NEEDS REVIEW].
-
 Mở trong trình đọc Về thư viện

@@ -6,11 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Người Chạy Về Thiên Đàng
+NGƯỜI CHẠY VỀ THIÊN ĐÀNG
 
-**Nguyên tác:** "The Heavenly Footman; or, a Description of the Man that Gets to Heaven" — John Bunyan (1792) **Nguồn:** https://archive.org/download/bim_eighteenth-century_the-heavenly-footman-or_bunyan-john_1792/bim_eighteenth-century_the-heavenly-footman-or_bunyan-john_1792_djvu.txt *(Ghi chú: dịch theo bản in Luân Đôn năm 1792. Ấn bản này kèm thêm "His Life and Death" và "His Last Sermon" (không thuộc tác phẩm nên không dịch). Trong bản scan có một trang bị lặp lại (đoạn "Second Direction" và đầu "Third Direction" xuất hiện hai lần) — chỉ dịch một lần. Ấn bản năm 1797 có cùng nội dung tác phẩm nên không dịch riêng.)*
-
----
+Nguyên tác: "The Heavenly Footman; or, a Description of the Man that Gets to Heaven" — John Bunyan (1792) Nguồn: https://archive.org/download/bim_eighteenth-century_the-heavenly-footman-or_bunyan-john_1792/bim_eighteenth-century_the-heavenly-footman-or_bunyan-john_1792_djvu.txt (Ghi chú: dịch theo bản in Luân Đôn năm 1792. Ấn bản này kèm thêm "His Life and Death" và "His Last Sermon" (không thuộc tác phẩm nên không dịch). Trong bản scan có một trang bị lặp lại (đoạn "Second Direction" và đầu "Third Direction" xuất hiện hai lần) — chỉ dịch một lần. Ấn bản năm 1797 có cùng nội dung tác phẩm nên không dịch riêng.)
 
 *1 Cô-rinh-tô 9:24. Hãy chạy cách nào cho được thưởng.*
 
@@ -242,8 +240,6 @@ Lại nữa, 4. Nhìn thấy ngay những cậu bé cô bé trong xứ khôn ngo
 
 LỜI KHUYÊN NHỦ CUỐI CÙNG.
 
-Vậy thì, hỡi kẻ có tội, ngươi nói sao? Lòng ngươi ở đâu? Ngươi có chịu chạy không? Ngươi đã quyết lột bỏ, hay chưa? Hãy nghĩ nhanh lên, hỡi người; trong việc này không có chỗ đùa giỡn. Đừng bàn bạc với xác thịt và huyết; hãy ngước lên trời, xem ngươi thích nó thế nào; cũng hãy nhìn xuống địa ngục, (mà ngươi có thể hiểu đôi phần trong cuốn sách của ta gọi là Vài Tiếng Thở Dài Từ Địa Ngục, hay Tiếng Rên Của Linh Hồn Bị Hư Mất, ta mong ngươi đọc kỹ lưỡng) rồi hãy dâng mình cho Ngài theo đó. Nếu ngươi không biết đường, hãy hỏi nơi lời Đức Chúa Trời. Nếu ngươi thiếu bầu bạn, hãy kêu cầu Thánh Linh Đức Chúa Trời. Nếu ngươi thiếu sự khích lệ, hãy nuôi mình bằng những lời hứa. Nhưng hãy chắc rằng ngươi bắt đầu từ sớm; hãy vào trong đường; hãy chạy nhanh, và giữ vững đến cùng, nguyện Chúa ban cho ngươi một hành trình hanh thông. Tạm biệt. ---
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none ngoài bảng cố định — "profession/professor" (người xưng mình tin Chúa) dịch theo ngữ cảnh; "the way" = con đường (ám chỉ Chúa Giê-xu Christ theo Giăng 14:6); "uses" (phần áp dụng) dịch là "Điều Áp Dụng"; "motives" = "Động Lực"; "expostulation" = "Lời Khuyên Nhủ Cuối Cùng". Các câu Kinh Thánh trích dẫn được dịch theo phong cách Kinh Thánh tiếng Việt 1934.
+Vậy thì, hỡi kẻ có tội, ngươi nói sao? Lòng ngươi ở đâu? Ngươi có chịu chạy không? Ngươi đã quyết lột bỏ, hay chưa? Hãy nghĩ nhanh lên, hỡi người; trong việc này không có chỗ đùa giỡn. Đừng bàn bạc với xác thịt và huyết; hãy ngước lên trời, xem ngươi thích nó thế nào; cũng hãy nhìn xuống địa ngục, (mà ngươi có thể hiểu đôi phần trong cuốn sách của ta gọi là Vài Tiếng Thở Dài Từ Địa Ngục, hay Tiếng Rên Của Linh Hồn Bị Hư Mất, ta mong ngươi đọc kỹ lưỡng) rồi hãy dâng mình cho Ngài theo đó. Nếu ngươi không biết đường, hãy hỏi nơi lời Đức Chúa Trời. Nếu ngươi thiếu bầu bạn, hãy kêu cầu Thánh Linh Đức Chúa Trời. Nếu ngươi thiếu sự khích lệ, hãy nuôi mình bằng những lời hứa. Nhưng hãy chắc rằng ngươi bắt đầu từ sớm; hãy vào trong đường; hãy chạy nhanh, và giữ vững đến cùng, nguyện Chúa ban cho ngươi một hành trình hanh thông. Tạm biệt.
 
 Mở trong trình đọc Về thư viện

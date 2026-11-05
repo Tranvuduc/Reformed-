@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Suy Niệm và Chiêm Niệm của ông Hervey
+Nguyên tác: "Mr. Hervey's Meditations and Contemplations" — Thomas Newcomb, A.M. (phóng tác thành thơ blank verse theo phong cách của Tiến sĩ Young, dựa trên các bài suy niệm của James Hervey; London: L. Davis và C. Reymers, 1764) Nguồn: `~/workspace/thu-vien/.dot8-src/861.txt` — bản OCR đã làm sạch từ scan bản in London 1764 (Ghi chú: danh sách đợt 8 ghi "Hervey, James" là chưa chính xác — trang tựa bản in 1764 ghi rõ "Attempted in BLANK VERSE (After the Manner of Dr. Young) By T. NEWCOMB, A.M.", Đề tặng cũng do T. Newcomb ký; đây là bản phóng tác thơ của Thomas Newcomb dựa trên tác phẩm của James Hervey, KHÔNG phải văn xuôi gốc của Hervey. Nội dung là Cơ Đốc chính thống: suy niệm về đêm, sự chết, ân điển và sự cứu chuộc. Toàn văn gồm: Trang tựa, Đề tặng Lady Juliana Penn, "Chiêm niệm về Ban Đêm" (Quyển I–III), "Chiêm niệm về Bầu Trời Đầy Sao" và "Bài Mùa Đông".)
 
-**Nguyên tác:** "Mr. Hervey's Meditations and Contemplations" — Thomas Newcomb, A.M. (phóng tác thành thơ blank verse theo phong cách của Tiến sĩ Young, dựa trên các bài suy niệm của James Hervey; London: L. Davis và C. Reymers, 1764) **Nguồn:** `~/workspace/thu-vien/.dot8-src/861.txt` — bản OCR đã làm sạch từ scan bản in London 1764 *(Ghi chú: danh sách đợt 8 ghi "Hervey, James" là chưa chính xác — trang tựa bản in 1764 ghi rõ "Attempted in BLANK VERSE (After the Manner of Dr. Young) By T. NEWCOMB, A.M.", Đề tặng cũng do T. Newcomb ký; đây là bản phóng tác thơ của Thomas Newcomb dựa trên tác phẩm của James Hervey, KHÔNG phải văn xuôi gốc của Hervey. Nội dung là Cơ Đốc chính thống: suy niệm về đêm, sự chết, ân điển và sự cứu chuộc. Toàn văn gồm: Trang tựa, Đề tặng Lady Juliana Penn, "Chiêm niệm về Ban Đêm" (Quyển I–III), "Chiêm niệm về Bầu Trời Đầy Sao" và "Bài Mùa Đông".)*
-
----
-
-## TRANG TỰA
+TRANG TỰA
 
 SUY NIỆM VÀ CHIÊM NIỆM của ông HERVEY.
 
@@ -30,11 +26,9 @@ Bởi T. NEWCOMB, Thạc sĩ Nghệ thuật
 
 LONDON In cho L. Davis và C. Reymers, đối diện Gray's-Inn, Holborn, MDCCLXIV (1764)
 
-*(Ghi chú của người dịch: bản scan này là Quyển II của bộ sách — phần văn bản hiện có gồm "Chiêm niệm về Ban Đêm", "Chiêm niệm về Bầu Trời Đầy Sao" và "Một Khúc Mùa Đông". Các câu thơ là bản phóng tác theo thể thơ không vần của Thomas Newcomb, A.M., phỏng theo phong cách của Tiến sĩ Edward Young, dựa trên các bài suy niệm của James Hervey — không phải văn xuôi gốc của Hervey.)*
+(Ghi chú của người dịch: bản scan này là Quyển II của bộ sách — phần văn bản hiện có gồm "Chiêm niệm về Ban Đêm", "Chiêm niệm về Bầu Trời Đầy Sao" và "Một Khúc Mùa Đông". Các câu thơ là bản phóng tác theo thể thơ không vần của Thomas Newcomb, A.M., phỏng theo phong cách của Tiến sĩ Edward Young, dựa trên các bài suy niệm của James Hervey — không phải văn xuôi gốc của Hervey.)
 
----
-
-## ĐỀ TẶNG
+ĐỀ TẶNG
 
 Kính dâng Bà JULIANA PENN đáng kính.
 
@@ -70,15 +64,15 @@ Kẻ đầy tớ hết sức vâng phục và khiêm nhường của Quý Bà.
 
 T. NEWCOMB.
 
----
-
-## CHIÊM NIỆM VỀ BAN ĐÊM.
+CHIÊM NIỆM VỀ BAN ĐÊM.
 
 Gồm ba quyển.
 
 [NEEDS REVIEW: giữa dòng "Gồm ba quyển." và tiêu đề lặp lại có một trang trích dẫn (epigraph) bị OCR hỏng hoàn toàn, không thể phục hồi]
 
-## CHIÊM NIỆM VỀ BAN ĐÊM. ### QUYỂN I.
+CHIÊM NIỆM VỀ BAN ĐÊM.
+
+QUYỂN I.
 
 Những trò phù phiếm trang nghiêm, nghiêm túc của ban ngày, Mà sự dại dột bày ra, hay thói phù hoa ngưỡng mộ,
 
@@ -218,9 +212,9 @@ Hãy thường hỏi lòng mình, gánh nặng mà trời giao phó Nặng nề 
 
 HẾT QUYỂN THỨ NHẤT.
 
----
+CHIÊM NIỆM VỀ BAN ĐÊM.
 
-## CHIÊM NIỆM VỀ BAN ĐÊM. ### QUYỂN II.
+QUYỂN II.
 
 Nay bóng tối trên cỗ xe đêm màu nâu Bao phủ thế gian ngái ngủ; chẳng ập xuống một lúc, Mà lén lút từng bước dần dần lên ban ngày, Vốn chậm rãi lui trước đêm đối thủ của mình, Trong khi chìm dưới mép đại dương, mặt trời Vẫn tỏa ánh hoàng hôn le lói xung quanh, để làm vui Vũ trụ, soi sáng, dù không thấy. Những bóng tối tiến chậm dường nào! dịu dàng chiếm lấy dường nào Ngai vàng nơi Ánh Sáng mới ngự trị! Thiên nhiên đã ốm đau, và thú nhận nỗi sợ, Nếu vẻ rực rỡ của ban ngày bị mất Một lúc trong u ám nửa đêm; chính tạo vật Có lẽ đã đứng sững sờ, và mắt người Không thể chịu nổi sự thay đổi đột ngột mà không đau. Đêm nhân từ dường nào, leo lên ngai của mình như vậy Từng bước nhẹ nhàng; sự đến của nàng đứng đắn dường nào! Sai kẻ tiền trạm của mình, ánh hoàng hôn le lói Đi trước nàng, để báo tin nàng đến gần; Để loài người, gặp người lạ có thể sửa soạn, Và không kinh hãi đón bóng tối đang đến. Bàn tay hào phóng và rộng rãi dường nào tuôn đổ Những tặng phẩm đủ loại trên loài người; quyền năng của nó nhân từ dường nào? Những đổi thay ngọt ngào của đêm và ngày, Của lao nhọc và nghỉ ngơi, các mùa trở lại đúng kỳ, Mỗi thứ chết đi vào nhau; hoa xuân Giấu trong mùa đông, và, nở ra, cùng mùa xuân Vẽ nên đồng cỏ, khiến mỗi lùm cây vang tiếng; Những kế hoạch của trời khôn ngoan dường nào! mỗi đổi thay phước hạnh dường nào, Tất cả được tình yêu thiêng liêng hoạch định, để loài người có thể nếm Cuộc đời thoáng qua ấy với niềm vui mà hơi thở nó truyền cảm hứng. Nghìn quái vật rình mò nay đêm Gọi ra khỏi hang rừng dọc những bóng tối Chúng bước oai vệ — sự chết trong mắt chúng; Trong khi bị đói cắn xé, hổn hển muốn nhuộm Hàm chúng trong máu, chúng lang thang những vòng đáng sợ; Người nông dân run rẩy, bị đêm bắt gặp trong màn sương [NEEDS REVIEW: bản OCR "i in the has"] Nay đứng sững sờ, nghe tiếng tru nửa đêm Của chó sói và báo, và tiếng gầm của sư tử! Chàng giật mình trước mỗi âm thanh, làn gió nhẹ nhất Là sấm trong tai chàng — chàng đưa mắt Về túp lều dấu yêu nay, nơi đang say ngủ Đứa bé trong nôi, được ru nhẹ nhàng vào giấc nghỉ Bởi người mẹ hiền, bạn đời của những lo toan chàng; Nàng run rẩy cho mạng sống chàng, và đẫm lệ, Trong căn phòng thấp chờ đợi chàng trở về như ước nguyện. Chẳng phải chỉ những kẻ ấy là dã thú tìm Nơi ẩn náu của đêm; những quái vật khác mang Hình dạng loài người chọn lui tới những bóng tối; Và, trùm kín trong bóng đêm, vạch những mưu đồ Giết người nửa đêm: kẻ dâm đãng nóng nảy nay, Không bị những bổn phận thiêng liêng của tình bạn kiềm chế, Lén đến giường người lân cận; kẻ ám sát rút Gươm mình, để tra nó vào tim anh em; Trong khi Phe Đảng lập những hội kín tối tăm, và dệt Những âm mưu bí mật, được bóng tối làm bạn. Những tội ác sẽ đỏ mặt khi thấy mắt ban ngày Hiên ngang và táo tợn bước đi trong u ám, An toàn, theo ý nghĩ dại dột, khỏi sự dò xét của trời; Tội lỗi, nếu giấu khỏi tri thức loài người, Hãy nói, há tội lỗi ngủ yên khi bị che giấu! tấm màn mỏng Che nó khỏi mắt người có quyền năng nào Để giấu nó khỏi con mắt thấu suốt sắc bén hơn Tia chớp đỏ, và sáng hơn nhiều Hai mươi nghìn mặt trời — Đấng mà bóng tối Là buổi sáng, và ban đêm là ngày rực rỡ. Trong bóng mát và bóng tối u ám nơi ta chạy trốn Để trú ẩn, Đức Chúa Trời ngự trên ngai; Đấng ghi nhận mỗi lời thì thầm lặng lẽ ta thở ra,
 
@@ -290,7 +284,7 @@ Trong khi loài người lui về chiếc giường êm ái, để nếm
 
 Những ngọt ngào của sự nghỉ ngơi cần thiết. Cũng giống như sự chăm sóc Của người mẹ hiền, dỗ yên mọi tiếng động, Khi ấp trong vòng tay nàng nhẹ nhàng ru Đứa con, đối tượng dấu yêu của tình yêu nàng, vào giấc nghỉ. Hãy nói, quyền năng nhân từ nào, mà tình yêu, dù không thấy, Vẫn canh thức cho sự an toàn của loài người giăng khiên Quanh đầu ta mỗi đêm; chính ta mất hết ý nghĩ Về nguy hiểm, dù kẻ giết người đứng Sát giường ta; dao găm trần của hắn đã rút
 
---- Xuyên qua mỗi mê cung hoang dã mà trí tưởng tượng tạo ra!
+Xuyên qua mỗi mê cung hoang dã mà trí tưởng tượng tạo ra!
 
 Những hình ảnh giả dối rời rạc nay chen chúc
 
@@ -396,9 +390,7 @@ Vòng hoa kiêu hãnh buộc trán kẻ chiến thắng, Hãy bị giày đạp 
 
 HẾT QUYỂN THỨ HAI.
 
----
-
-## QUYỂN THỨ BA.
+QUYỂN THỨ BA.
 
 Ôi đêm êm dịu len vào ban ngày Trong thinh lặng, ngự lên ngai đêm thâm trầm! Dưới bóng ngài, nay trầm ngâm và lẻ loi,
 
@@ -473,8 +465,6 @@ Hãy xem những vòng quay của số phận, nụ cười và cái cau mày C�
 Xa khác là cảnh, khi mới đây ta chọn Dọc vách đá treo phương tây kia dạo bước Ngọn đèn trong của đêm nhô ra khỏi bóng nàng, Dưới chân núi dốc, biển hoàn toàn trong, Đã trải dưới những sóng pha lê bạc Thành một mặt phẳng êm, sáng bóng giữ Tấm gương nước công bằng cho các tầng trời; Những đỉnh không đo của vòm trời trên cao Bày vòm sáng dày đặc những vì sao; Mặt trăng tròn đầy, đẹp nhất trong đoàn, Trong sóng trong bên dưới, nay dường như ngắm Chính mình vui thích, trong khi biển xanh Phản chiếu hình ảnh bạc của nàng lên trời; Áo gai của nàng nay đã cởi, nàng dường như rực sáng Với ánh sáng gấp đôi, và với niềm tự hào ý thức Nhìn mười ngàn mắt vui mừng ngắm Quả cầu rực rỡ của nàng vừa được cứu khỏi bóng. Tia sáng nàng cũng không chỉ làm vui bóng tối Rộng hơn đế quốc tối cao nàng mở rộng Quyền cai trị đáng sợ trên mọi biển cả thần phục! Quả cầu nàng như quyền trượng đế vương nào đó dâng lên Trên đại dương; nay dâng thủy triều Trên bờ chúng; nay ra lệnh rút xuống Bảo chúng trở lại trong bờ, Được dạy bởi lệnh đáng sợ của nàng lên xuống theo thủy triều.
 
 Há vực thẳm mênh mông sẽ biết đế quốc nàng, Mà loài người không nhận ảnh hưởng của các tầng trời? Quả cầu nàng có quyền năng nâng hay hạ sóng, Dìm hay nâng đại dương; mà niềm vui Nở từ thiên đàng kia lại không có sức lay động, Hay làm tan chảy linh hồn ngây ngất, nâng hy vọng nàng lên Và xoay mỗi ước muốn nồng nàn ngực thở ra Hướng về hỡi những dinh thự nghỉ ngơi, hỡi những thiên cầu xinh đẹp, Vốn vượt xa những ngọn đèn mắt thấy Trải qua bầu trời xanh của trời đang bừng sáng; Ôi hãy phóng ảnh hưởng quyến rũ của ngươi vào linh hồn ta; Làm mềm mỗi đam mê, dập mỗi dục vọng thấp hèn Vốn gắn nàng với đất; ôi, hãy sưởi ấm mỗi ý nghĩ Với những ước muốn nồng nàn, khao khát những niềm vui Cao siêu, thiên đàng, ngây ngất, vốn sẽ chảy Trong một vòng vĩnh cửu, khi biển Ngừng cuộn, khi ánh trăng xinh đẹp kia, Mất hết huy hoàng, sẽ không còn làm vui đêm nữa.
-
----
 
 CHIÊM NIỆM
 
@@ -1402,8 +1392,6 @@ Nơi con đẻ ô uế của Tội Lỗi là Sự Chết, sẽ mất nọc độ
 
 Và những lời than của khốn khổ thành những nốt vui được đổi; Nơi những cơn bão sẽ đánh, và những mùa đông thấu xương chẳng còn nữa,
 
-Mà một mùa xuân vĩnh cửu đời đời nở rộ. ---
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 36 điểm [NEEDS REVIEW] tại chỗ trong thân bản dịch (P1: 21; P2: 3; P3: 12) — phần lớn do bản scan 1764 bị OCR hỏng nặng: các chữ mất/chữ nhận dạng sai đã được đoán theo ngữ cảnh và đánh dấu (vd. "seems" mất chữ sau → đoán "to flee" theo điển tích Parthian shot; "dart their 13" → "fires"; "the . of heav'n" → "throne"; "biting the same roof" → "living under the same roof"; "hounded" → "hundred"; "d üpielos"; "the Gay"); khoảng 30 dòng bị hỏng hoàn toàn ở cuối Quyển II (từ "Wisely thou my heart attend" đến "Action and life but now") và ~20 dòng về tiếng chuông báo tử không phục hồi được; P3: ~8 dòng thơ mất hoàn toàn ở đoạn kim tự tháp, câu rời rạc ở đoạn pha mặt trăng, chữ cuối không chắc ở vài chỗ. Thuật ngữ cố định giữ nguyên toàn văn: God=Đức Chúa Trời, Jesus Christ=Chúa Giê-xu Christ, Holy Spirit=Đức Thánh Linh, gospel=Phúc Âm, grace=ân điển, faith=đức tin, church=Hội Thánh, Scripture=Kinh Thánh, salvation=sự cứu rỗi; panegyric=điếu văn ca tụng, blank verse=thể thơ không vần, dedication=đề tặng, contemplation=sự chiêm niệm/suy niệm, muse=nàng thơ (cảm hứng thi ca), harbinger=kẻ tiền trạm/điềm báo, nocturnal car=cỗ xe đêm.
+Mà một mùa xuân vĩnh cửu đời đời nở rộ.
 
 Mở trong trình đọc Về thư viện

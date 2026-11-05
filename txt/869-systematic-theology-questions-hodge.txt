@@ -6,11 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Thần Học Hệ Thống: Một Chuỗi Câu Hỏi
+THẦN HỌC HỆ THỐNG: MỘT CHUỖI CÂU HỎI
 
-**Nguyên tác:** "Systematic Theology: A Series of Questions upon the Lectures Delivered to the Senior Class of the Theological Seminary at Princeton" — Charles Hodge (Philadelphia, 1865; các câu hỏi của chính ông, một sinh viên lớp cao cấp biên tập, lời tựa F. H. Wines tháng 3/1865) **Nguồn:** https://archive.org/details/systematictheolph00hodg *(Ghi chú: trang tựa bản in thật ghi "...Delivered to the Students in Princeton Theological Seminary" (đã kiểm chứng qua archive.org và HathiTrust); nguồn sạch `~/workspace/thu-vien/.dot8-src/869.txt`.)*
-
----
+Nguyên tác: "Systematic Theology: A Series of Questions upon the Lectures Delivered to the Senior Class of the Theological Seminary at Princeton" — Charles Hodge (Philadelphia, 1865; các câu hỏi của chính ông, một sinh viên lớp cao cấp biên tập, lời tựa F. H. Wines tháng 3/1865) Nguồn: https://archive.org/details/systematictheolph00hodg (Ghi chú: trang tựa bản in thật ghi "...Delivered to the Students in Princeton Theological Seminary" (đã kiểm chứng qua archive.org và HathiTrust); nguồn sạch `~/workspace/thu-vien/.dot8-src/869.txt`.)
 
 THẦN HỌC HỆ THỐNG:
 
@@ -1704,8 +1702,6 @@ Quan điểm ấy khác với quan điểm Pháp hay quan điểm Trường phá
 
 Quan điểm chung của Hội Thánh Cải Chánh có thể được chứng minh thế nào?
 
----
-
 PHẦN III. ĐỨC CHÚA TRỜI HÀNH ĐỘNG.
 
 I. CÁC VIỆC LÀM THƯỜNG XUYÊN CỦA ĐỨC CHÚA TRỜI.
@@ -2912,11 +2908,9 @@ IV. SỰ TỰ DO CỦA Ý CHÍ
 
 [Tiến sĩ Hodge đã bỏ qua việc xét đến chủ đề này, khi giảng cho Lớp 1865.] [NEEDS REVIEW: bản OCR ghi "in lecturin.i to the Class of 18G5", dường như là lỗi nhận dạng của "in lecturing to the Class of 1865"]
 
----
-
 QUYỂN THỨ BA: CỨU RỖI HỌC.
 
-## GIAO ƯỚC ÂN ĐIỂN.
+GIAO ƯỚC ÂN ĐIỂN.
 
 Tại sao kế hoạch cứu rỗi lại được trình bày dưới hình thức một giao ước? Tại sao nó được gọi là giao ước ân điển?
 
@@ -4659,9 +4653,5 @@ V. Giáo lý Cải Chánh, .
 3. Hiệu năng của Tiệc Thánh,
 
 Trang 118
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - NEEDS REVIEW giữ nguyên trong văn bản (chưa hiệu đính): P1 ~55 điểm — từ Hy Lạp/Hê-bơ-rơ/La-tinh OCR hỏng (paradosis, ekklētoi, Israel kata pneuma/sarka, qadosh, dikaiosynē, logos endiathetos/prophorikos, homoousios, prosōpon/hypostasis, perichōrēsis, monogenēs, idios, plērōma tēs theotētos, pneuma, ruach, thelēma, eudokias/euarestias, signi/beneplaciti, usus catasceuasticus/anasceuasticus, scientia libera, petitio principii, virtualiter, status quaestionis) và số câu Kinh Thánh khả nghi (1 Cô-rinh-tô "xlvi. 47", 1 Giăng "i. 1, 23", 2 Cô-rinh-tô "iii. 15–17", Ma-thi-ơ 5 "câu 20"); P2 ~28 điểm — từ Hy Lạp/Hê-bơ-rơ OCR hỏng (bara, ktizein, ta panta/ek theou, torah, nomos, soma, physis, psychē, kardia, pneuma, sarx, sarkikos, pneumatikos, homoousioi/heteroousioi, neos, eis epignōsin, anakainoumenos, dikaiosynē, hosiotēs, alētheias), số câu khả nghi (Ê-phê-sô "iv. 2-4", Rô-ma 5 "20, 23"), đánh số sai ((8.)→(3.), (0.)→(6.), 2(1./3(7.→2d./3d.), câu bị cụt ("in which it is"), ghi chú cuối về Lớp 1865; P3 11 điểm — từ Hy Lạp OCR hỏng (kaleō/klēsis/klētos, metanoia/metameleia, dikaioō, aiōnios, baptizō/bapto, baptizei/niptō, oinos, eucharisteō/eulogeō) và "(2) initial?" (có lẽ là "attrition"). - Lỗi OCR đã sửa lặng lẽ trong quá trình dịch: "TUEOLOGY"→"THEOLOGY", "COD"→"GOD"/"OP"→"OF", "Anahaptiats"→"Anabaptists", các tiêu đề trang in (running heads) bị loại bỏ, đánh số sai đã sửa ((8.)→(3.), (0.)→(6.), 2(1./3(7.→2d./3d., v.v.). - Thuật ngữ đã chốt: mạng lệnh (decrees), sự tiền định (foreordination), sự tuyển chọn (election), sự loại bỏ (reprobation), thuyết tiền sa ngã/hậu sa ngã (supra-/sublapsarianism), tri thức trung gian (scientia media), đồng bản thể (homoousios), thực thể ngôi vị (hypostasis), sự sinh ra đời đời (eternal generation), sự ra từ (procession), sự tương tại nội tại (perichoresis), Ngôi Lời (Logos), sự hà hơi (inspiration)/sự hà hơi trọn vẹn (plenary), Cứu rỗi học (Soterology), sự bảo tồn (preservation), sự cai trị thuộc quan phòng (providential government), sự đồng hợp tác (concursus), nguyên nhân thứ yếu (second causes), sự sáng tạo từ hư không (creatio ex nihilo), luật pháp (law), nhân loại học (anthropology), sự công chính nguyên thủy (original righteousness), giao ước việc làm (covenant of works), giao ước ân điển (covenant of grace), giao ước cứu chuộc (covenant of redemption), tội tổ tông (original sin), sự quy gán (imputation), sự bất năng (inability), ý chí tự do (freedom of the will), sự đền đáp (satisfaction), sự nguôi cơn thịnh nộ (propitiation), sự tái sinh (regeneration), sự kêu gọi hiệu nghiệm (effectual calling), cánh chung học (eschatology), các thánh lễ (sacraments), phép báp-têm, Tiệc Thánh.
 
 Mở trong trình đọc Về thư viện

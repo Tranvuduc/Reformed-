@@ -1,6 +1,6 @@
 NHẬT KÝ HÀNH TRÌNH TỪ LUÂN ĐÔN ĐẾN SAVANNAH XỨ GEORGIA CỦA GEORGE WHITEFIELD (1739)
 
-Whitefield. George. · A Journal of a Voyage from London to Savannah in Georgia
+George Whitefield · A Journal of a Voyage from London to Savannah in Georgia
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
@@ -735,9 +735,5 @@ Khi tôi ngất trên đồng khô nắng gắt, Hay khát trên núi khô cằn
 Dù tôi bước trong đường sự chết, Phủ đầy kinh hoàng u ám, Lòng vững bền tôi chẳng sợ tai họa, Vì Ngài, lạy CHÚA, ở cùng tôi luôn; Gậy thân ái Ngài ban giúp đỡ tôi, Và dẫn tôi qua bóng tối đáng sợ.
 
 Dù trên đường trần trụi gập ghềnh, Qua đồng hoang quanh co cô độc tôi lang thang, Ơn Ngài làm nguôi nỗi đau tôi; Đồng hoang cằn cỗi sẽ mỉm cười, Với cỏ xanh tươi đội mão đột ngột, Và suối róc rách khắp chung quanh.
-
---- TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Kinh Thánh trích dẫn (Lu-ca 15:17, 2 Cô-rinh-tô 2:14, Lu-ca 22:35, Công vụ 28:26, Ma-thi-ơ 25, Lu-ca 3:14, Phi-líp 3:10, 2 Sử ký 32:25, Thi thiên 51, Thi thiên 90:12, Thi thiên 23) dịch theo văn phong Kinh Thánh 1934, đã đánh dấu [NEEDS REVIEW] để đối chiếu BDM2010 khi duyệt. - Thuật ngữ 16 từ chuẩn được giữ nhất quán toàn sách: Đức Chúa Trời, Chúa Giê-xu Christ (dạng CHÚA GIÊ-XU CHRIST theo văn phong in hoa của bản gốc), Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh. - "New Lights" (hội lính tráng tin kính tại Gibraltar) dịch là "Ánh Sáng Mới"; "Dark Lanthorns" (hội Hội Thánh Scotland) dịch là "Đèn Mờ" — cả hai là biệt danh chế nhạo thời đó, giữ nguyên ý. - "Cæna Dubia" giữ nguyên tiếng La-tinh với nghĩa "bữa ăn đáng ngờ". - "Captain of my Salvation" dịch là "Đấng Chỉ huy của sự cứu rỗi con" (theo Hê-bơ-rơ 2:10, văn phong 1934: "Đấng làm đầu sự cứu rỗi"). - "Churching" (lễ thanh tẩy sau sinh) dịch là "lễ thanh tẩy". - Tên sách tiếng Anh giữ nguyên khi OCR không đọc được tên đầy đủ: "Serious Call", "Christian Perfection" (Law), "Bayly Piety", "Parson's Advice to his Parishioners". - Các mục nhật ký bị mất đầu mục trong OCR (Thứ Bảy 28/1, Thứ Tư 15/2, Chủ Nhật 19/3, Thứ Bảy 25/3, ngày 1/4, ngày 17–22/4, 24/4–4/5) được ghi chú [NEEDS REVIEW]; khoảng 2–3 trang OCR hỏng hoàn toàn (1–2/2, 16–17/4, 23/4) chỉ dịch được các mảnh còn đọc được. - Chú thích về ông Wesley (trang 2/2) OCR hỏng không đọc được, đã đánh dấu. - Thánh ca cuối sách là bản diễn ý Thi thiên 23 của Joseph Addison — dịch đầy đủ 4 khổ theo văn phong thơ.
 
 Mở trong trình đọc Về thư viện

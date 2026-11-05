@@ -8,7 +8,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 HƯỚNG DẪN ĐÍCH THỰC CỦA CON NGƯỜI VỀ THIÊN ĐÀNG ===================
 
-**Nguyên tác:** "Man's True Guide to Heaven" — Rev. Richard Baxter (1615–1691) (bản in lại rút gọn của "Baxter's Family Book", dạng đối thoại giữa Thầy và Trò) **Nguồn:** https://archive.org/download/cihm_89732/cihm_89732_djvu.txt *(Ghi chú: bản OCR có nhiều lỗi ký tự và trang bị xô cột; các chỗ không đọc được đã đánh dấu [NEEDS REVIEW] thay vì bịa nội dung. Số trang và tiêu đề trang lặp đã loại bỏ.)*
+Nguyên tác: "Man's True Guide to Heaven" — Rev. Richard Baxter (1615–1691) (bản in lại rút gọn của "Baxter's Family Book", dạng đối thoại giữa Thầy và Trò) Nguồn: https://archive.org/download/cihm_89732/cihm_89732_djvu.txt (Ghi chú: bản OCR có nhiều lỗi ký tự và trang bị xô cột; các chỗ không đọc được đã đánh dấu [NEEDS REVIEW] thay vì bịa nội dung. Số trang và tiêu đề trang lặp đã loại bỏ.)
 
 NHỮNG CUỘC ĐỐI THOẠI GIỮA THẦY VÀ TRÒ BAXTER'S FAMILY BOOK —Richard Baxter—
 
@@ -47,8 +47,6 @@ CUỘC ĐỐI THOẠI THỨ SÁU — Những chỉ dẫn cho đời sống thán
 CUỘC ĐỐI THOẠI THỨ BẢY — Những chỉ dẫn để có cái chết an toàn và bình an. Những suy nghĩ tỉnh thức về sự chết. Nhu cầu của chúng. Những lợi ích lớn lao của chúng. Sự chuẩn bị trong lúc khỏe mạnh. Cách giữ đức tin, sự ăn năn. Phó thác linh hồn mình cho Đấng Christ; có nên tin cậy điều gì nơi chính mình không. Về việc vâng phục Đức Thánh Linh. Về tình yêu đối với Đức Chúa Trời. Về sự chiêm ngưỡng thiên đàng. Về sự giết chết xác thịt. Về việc sắp xếp mọi công việc đời này. Thêm những chỉ dẫn để chuẩn bị cho sự chết trong lúc khỏe mạnh và trong lúc đau ốm.
 
 Lời cầu nguyện của một tín hữu sắp qua đời.
-
----
 
 CUỘC ĐỐI THOẠI THỨ NHẤT
 
@@ -1241,9 +1239,5 @@ Vinh hiển cho Đức Chúa Trời trên nơi rất cao, bình an dưới đấ
 ["The Poor Man's Family Book", mà tác phẩm trên được rút gọn từ đó, kết thúc với nhiều lời cầu nguyện và thánh ca: những điều ấy không được giữ lại, vì có nhiều ấn phẩm hiện đại thuộc loại này.]
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: Không có vấn đề thuật ngữ thật sự. Các thuật ngữ chuẩn đã được dùng nhất quán: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh. Ghi chú: (1) Bản OCR gốc nhận dạng sai nhiều tham chiếu Kinh Thánh (ví dụ "Tit. i. 25" thay vì Tít 1:2, "Matt. i. 14" thay vì Ma-thi-ơ 1:21, "Psa. xxxii, 7" thay vì Thi Thiên 32:1–2); các chỗ này đã được hiệu đính theo ngữ cảnh và đánh dấu NEEDS REVIEW. (2) Đối thoại được giữ nguyên với hai nhân vật "Thầy" (P./Paul trong bản gốc) và "Trò" (S./Saul trong bản gốc). (3) Các cờ [NEEDS REVIEW] trong bản dịch đều là do OCR gốc bị hỏng/xô cột, không phải vấn đề thuật ngữ — David nên cho kiểm tra lại các đoạn này với bản in trước khi đăng.
 
 Mở trong trình đọc Về thư viện

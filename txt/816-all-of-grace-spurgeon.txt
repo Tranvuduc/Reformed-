@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Hoàn Toàn Bởi Ân Điển
+Nguyên tác: All of Grace, Charles Spurgeon (1834–1892), XB lần đầu 1886 Nguồn: bản transcription đầy đủ, phạm vi công cộng tại reformedreader.org (Ghi chú phạm vi: cả 2 bản scan archive.org của cụm đều lỗi nên không dùng làm nguồn dịch — #816 (allofgraceearnes00spur_1) OCR kém, bị cụt ở trang 54; #823 (allofgraceearnes00spur_0) thiếu ~50 trang. Đã đối chiếu transcription với bản scan Moody ở các chương trùng lặp. Bản nguồn sạch: `.dot8-src/816.txt` (34.456 chữ Anh, 20 chương + Kết). #823 trùng với #816, không dịch riêng. 2 điểm transcription khả nghi đã đánh dấu [NEEDS REVIEW] trong thân văn, cần đối chiếu bản in trước khi xuất bản.)
 
-**Nguyên tác:** All of Grace, Charles Spurgeon (1834–1892), XB lần đầu 1886 **Nguồn:** bản transcription đầy đủ, phạm vi công cộng tại reformedreader.org *(Ghi chú phạm vi: cả 2 bản scan archive.org của cụm đều lỗi nên không dùng làm nguồn dịch — #816 (allofgraceearnes00spur_1) OCR kém, bị cụt ở trang 54; #823 (allofgraceearnes00spur_0) thiếu ~50 trang. Đã đối chiếu transcription với bản scan Moody ở các chương trùng lặp. Bản nguồn sạch: `.dot8-src/816.txt` (34.456 chữ Anh, 20 chương + Kết). #823 trùng với #816, không dịch riêng. 2 điểm transcription khả nghi đã đánh dấu [NEEDS REVIEW] trong thân văn, cần đối chiếu bản in trước khi xuất bản.)*
-
----
-
-## HOÀN TOÀN BỞI ÂN ĐIỂN.
+HOÀN TOÀN BỞI ÂN ĐIỂN.
 
 Một Lời Chân Thành Gửi Những Người Đang Tìm Kiếm Sự Cứu Rỗi Bởi Chúa Giê-xu Christ.
 
@@ -20,9 +16,7 @@ Tác giả: C. H. Spurgeon.
 
 CHICAGO: THE BIBLE INSTITUTE COLPORTAGE ASSOCIATION, 250 LA SALLE AVENUE.
 
----
-
-## 1. GỬI BẠN
+1. GỬI BẠN
 
 Người đã nói và đã viết sứ điệp này sẽ vô cùng thất vọng nếu nó không dẫn dắt nhiều người đến với Chúa Giê-xu. Sứ điệp được gửi đi với sự nương cậy đơn sơ như trẻ thơ nơi quyền năng của Đức Chúa Trời, Đức Thánh Linh, để Ngài dùng nó mà đem hàng triệu người trở lại cùng Ngài, nếu Ngài đẹp lòng. Chắc chắn nhiều người đàn ông, đàn bà nghèo khó sẽ cầm lấy cuốn sách nhỏ này, và Chúa sẽ thăm viếng họ bằng ân điển. Để đạt được mục đích ấy, thứ ngôn ngữ hết sức giản dị đã được chọn dùng, cùng nhiều cách diễn đạt mộc mạc, gần gũi. Nhưng nếu những người giàu sang, quyền quý có liếc mắt qua cuốn sách này, Đức Thánh Linh cũng có thể cảm động họ; vì điều mà người thất học hiểu được thì cũng chẳng kém phần hấp dẫn đối với người có học thức. Ôi, ước gì có những người đọc nó rồi sẽ trở thành những tay đánh lưới linh hồn vĩ đại! Ai biết được bao nhiêu người sẽ tìm được đường đến sự bình an nhờ những điều họ đọc ở đây? Nhưng có một câu hỏi quan trọng hơn dành cho bạn, bạn đọc thân mến, đó là — Bạn có sẽ là một trong số họ không?
 
@@ -32,13 +26,13 @@ Có một người kia đặt một đài phun nước bên vệ đường, và 
 
 Bạn đọc ơi, bạn có thật lòng nghiêm túc khi đọc những trang này không? Nếu có, thì ngay từ đầu chúng ta đã đồng lòng với nhau; nhưng công việc nhắm đến ở đây chẳng gì khác hơn là việc bạn tìm được Đấng Christ và tìm được Thiên Đàng. Ôi, ước gì chúng ta cùng nhau tìm kiếm điều ấy! Phần tôi, tôi làm điều đó bằng cách dâng cuốn sách nhỏ này lên trong sự cầu nguyện. Bạn có muốn cùng tôi ngước mắt lên Đức Chúa Trời, và cầu xin Ngài ban phước cho bạn trong khi bạn đọc không? Sự quan phòng đã đặt những trang này trên đường bạn đi, bạn có chút thời gian rảnh để đọc chúng, và bạn cảm thấy sẵn lòng chú tâm vào chúng. Đó đều là những dấu hiệu tốt. Ai biết được, có lẽ kỳ ban phước đã đến với bạn? Dù sao đi nữa, "Đức Thánh Linh phán: Ngày nay, nếu các ngươi nghe tiếng Ngài, thì chớ cứng lòng."
 
-## 2. CHÚNG TA ĐANG LÀM GÌ ĐÂY?
+2. CHÚNG TA ĐANG LÀM GÌ ĐÂY?
 
 Tôi nghe một câu chuyện; tôi nghĩ nó đến từ miền Bắc: Một vị mục sư đến thăm một bà góa nghèo, có ý giúp đỡ bà; vì ông biết bà rất nghèo. Tay cầm tiền, ông gõ cửa; nhưng bà không trả lời. Ông kết luận bà không có nhà, rồi bỏ đi. Ít lâu sau ông gặp bà ở nhà thờ, và kể rằng ông đã nhớ đến nhu cầu của bà: "Tôi đã ghé nhà bà, gõ cửa mấy lần, và tôi đoán là bà không có nhà, vì chẳng ai trả lời." "Ông ghé lúc mấy giờ ạ?" "Khoảng giữa trưa." "Ôi chao," bà nói, "tôi có nghe thấy ông gõ đấy ạ, và tôi rất tiếc đã không ra mở cửa; nhưng tôi tưởng là người đến đòi tiền thuê nhà." Nhiều bà nghèo biết rõ điều ấy nghĩa là gì. Giờ đây, tôi mong được lắng nghe, và vì vậy tôi muốn nói rằng tôi không đến đòi tiền thuê nhà; thật vậy, mục đích của cuốn sách này không phải để đòi hỏi gì ở bạn, mà để nói cho bạn biết rằng sự cứu rỗi hoàn toàn bởi ân điển, nghĩa là, miễn phí, không công, chẳng tốn gì cả.
 
 Thường khi chúng ta nóng lòng muốn người nghe chú ý, người nghe lại nghĩ: "À! Giờ thì mình sắp bị bảo phải làm bổn phận. Ông này đến đòi cái món nợ thuộc về Đức Chúa Trời, mà mình chắc chắn chẳng có gì để trả. Mình sẽ giả vờ không có nhà." Không, cuốn sách này không đến để đòi hỏi bạn điều gì, mà để đem đến cho bạn một điều gì đó. Chúng ta sẽ không nói về luật pháp, bổn phận và hình phạt, mà về tình yêu, sự nhân lành, sự tha thứ, lòng thương xót và sự sống đời đời. Vậy xin đừng làm như thể bạn không có nhà: đừng bịt tai, đừng để lòng hững hờ. Tôi chẳng đòi hỏi bạn điều gì, nhân danh Đức Chúa Trời hay nhân danh con người. Tôi không có ý bắt bạn phải làm gì; nhưng tôi đến nhân danh Đức Chúa Trời, để đem cho bạn một món quà nhưng không, mà việc nhận lấy sẽ là niềm vui hiện tại và đời đời của bạn. Hãy mở cửa, và để lời nài xin của tôi đi vào. "Bây giờ hãy đến, chúng ta cùng lý luận với nhau." Chính Chúa mời bạn đến dự một cuộc trò chuyện về hạnh phúc trước mắt và vô tận của bạn, và Ngài đã chẳng làm thế nếu Ngài không có ý tốt với bạn. Đừng từ chối Chúa Giê-xu đang gõ cửa nhà bạn; vì Ngài gõ bằng bàn tay đã bị đóng đinh trên thập tự giá vì những người như bạn. Vì mục đích duy nhất và trọn vẹn của Ngài là điều tốt cho bạn, hãy nghiêng tai và đến cùng Ngài. Hãy chăm chỉ lắng nghe, và để lời lành thấm sâu vào linh hồn bạn. Có lẽ giờ đã đến để bạn bước vào sự sống mới, vốn là khởi đầu của thiên đàng. Đức tin đến bởi sự nghe, và đọc cũng là một cách nghe: đức tin có thể đến với bạn trong khi bạn đọc cuốn sách này. Sao lại không? Ôi Thánh Linh phước hạnh của mọi ân điển, xin làm cho được như vậy!
 
-## 3. ĐỨC CHÚA TRỜI XƯNG KẺ KHÔNG TIN KÍNH LÀ CÔNG BÌNH
+3. ĐỨC CHÚA TRỜI XƯNG KẺ KHÔNG TIN KÍNH LÀ CÔNG BÌNH
 
 Sứ điệp này dành cho bạn. Bạn sẽ tìm thấy câu gốc trong thư Rô-ma, chương bốn, câu năm:
 
@@ -82,7 +76,7 @@ Vậy, xin cho tôi được thúc giục bất kỳ ai không có điều tốt
 
 Hãy đến trong bộ dạng xuề xòa của bạn. Ý tôi là, hãy đến với Cha trên trời trong mọi tội lỗi và sự tội lỗi của bạn. Hãy đến với Chúa Giê-xu đúng như con người bạn, phong hủi, ô uế, trần truồng, chẳng xứng sống cũng chẳng xứng chết. Hãy đến, hỡi những kẻ là cặn bã của tạo vật; hãy đến, dù bạn hầu như chẳng dám hy vọng điều gì ngoài sự chết. Hãy đến, dù sự tuyệt vọng đang bao trùm bạn, đè lên ngực bạn như một cơn ác mộng kinh hoàng. Hãy đến và cầu xin Chúa xưng một kẻ không tin kính nữa là công bình. Sao Ngài lại không làm? Hãy đến, vì lòng thương xót lớn lao này của Đức Chúa Trời là dành cho những người như bạn. Tôi đặt nó trong ngôn ngữ của câu Kinh Thánh, và tôi không thể đặt mạnh hơn được nữa: chính Đức Chúa Trời, Chúa chúng ta, nhận lấy cho mình danh hiệu đầy ân điển này: "Đấng xưng kẻ không tin kính là công bình." Ngài khiến nên công chính, và khiến được đối xử như công chính, những kẻ theo bản tính vốn không tin kính. Đó chẳng phải là một lời kỳ diệu cho bạn sao? Bạn đọc ơi, đừng chần chừ cho đến khi bạn đã suy xét kỹ vấn đề này.
 
-## 4. "ẤY LÀ ĐỨC CHÚA TRỜI XƯNG CÔNG CHÍNH"
+4. "ẤY LÀ ĐỨC CHÚA TRỜI XƯNG CÔNG CHÍNH"
 
 Rô-ma 8:33
 
@@ -120,7 +114,7 @@ Chính tôi đã từng bị đánh gục bởi một cảm giác tội lỗi ki
 
 Tôi dám nói rằng một kẻ có tội được Đức Chúa Trời xưng công chính đứng trên nền tảng còn chắc chắn hơn một người công chính được xưng công chính bởi việc làm của mình, nếu có người như vậy. Chúng ta không bao giờ chắc được rằng mình đã làm đủ việc lành; lương tâm sẽ luôn bất an, e rằng rốt cuộc mình vẫn thiếu sót, và chúng ta chỉ có thể nương cậy vào phán quyết run rẩy của một sự phán xét sai lầm; nhưng khi chính Đức Chúa Trời xưng công chính, và Đức Thánh Linh làm chứng cho điều đó bằng cách ban cho chúng ta sự bình an với Đức Chúa Trời, thì bấy giờ chúng ta cảm thấy vấn đề đã chắc chắn và đã xong, và chúng ta bước vào sự yên nghỉ. Không lưỡi nào kể được chiều sâu của sự tĩnh lặng đến trên linh hồn đã nhận được sự bình an của Đức Chúa Trời vượt quá mọi sự hiểu biết.
 
-## 5. "CÔNG CHÍNH VÀ ĐẤNG XƯNG CÔNG CHÍNH"
+5. "CÔNG CHÍNH VÀ ĐẤNG XƯNG CÔNG CHÍNH"
 
 Chúng ta đã thấy kẻ không tin kính được xưng công chính, và đã suy xét lẽ thật lớn lao rằng chỉ một mình Đức Chúa Trời mới xưng công chính được bất cứ ai; giờ đây chúng ta tiến thêm một bước và đặt câu hỏi — Làm sao một Đức Chúa Trời công chính lại xưng những kẻ có tội là công bình? Ở đây chúng ta gặp được câu trả lời đầy đủ trong lời của Phao-lô, Rô-ma 3:21-26. Chúng ta sẽ đọc sáu câu trong đoạn ấy để nắm mạch văn:
 
@@ -146,7 +140,7 @@ Bây giờ, hỡi linh hồn tội nghiệp! Bạn có chịu bước vào chi�
 
 Tôi sẽ kể cho bạn điều này về chính tôi để khích lệ bạn. Hy vọng duy nhất của tôi về thiên đàng nằm trong sự chuộc tội trọn vẹn đã thực hiện trên thập tự giá Can-vê cho kẻ không tin kính. Tôi vững vàng nương cậy nơi đó. Tôi không có một bóng hy vọng nào ở nơi khác. Bạn cũng trong tình trạng như tôi; vì cả hai chúng ta đều chẳng có gì của riêng mình đáng làm nền tảng tin cậy. Chúng ta hãy nắm tay nhau và cùng đứng dưới chân thập tự giá, và một lần đủ cả phó thác linh hồn mình cho Đấng đã đổ huyết vì kẻ có tội. Chúng ta sẽ được cứu bởi một và cùng một Đấng Cứu Thế. Nếu bạn hư mất trong khi tin cậy Ngài, tôi cũng phải hư mất. Tôi còn có thể làm gì hơn để chứng tỏ sự tin chắc của chính tôi vào Phúc Âm mà tôi trình bày cho bạn?
 
-## 6. VỀ SỰ GIẢI CỨU KHỎI VIỆC PHẠM TỘI
+6. VỀ SỰ GIẢI CỨU KHỎI VIỆC PHẠM TỘI
 
 Ở đây tôi muốn nói một đôi lời thẳng thắn với những người hiểu phương cách xưng công chính bởi đức tin trong Đấng Christ Giê-xu, nhưng nan đề của họ là họ không thể thôi phạm tội. Chúng ta không bao giờ có thể hạnh phúc, yên nghỉ, hay khỏe mạnh về phần thuộc linh cho đến khi chúng ta nên thánh. Chúng ta phải lìa khỏi tội lỗi; nhưng sự lìa khỏi ấy sẽ được thực hiện thế nào? Đây là câu hỏi sống còn của nhiều người. Bản tính cũ rất mạnh, và họ đã cố kìm hãm và thuần phục nó; nhưng nó không chịu khuất phục, và họ thấy mình, dù nóng lòng muốn tốt hơn, lại càng ngày càng tệ hơn trước, nếu có gì khác. Lòng cứng cỏi quá, ý chí bướng bỉnh quá, dục vọng hung dữ quá, tư tưởng lăng xăng quá, trí tưởng tượng không kìm hãm nổi, ước muốn hoang dại quá, đến nỗi người ấy cảm thấy mình có một hang thú dữ trong lòng, chúng sẽ ăn thịt mình trước khi chịu để mình cai trị. Chúng ta có thể nói về bản tính sa ngã của mình như Chúa đã phán với Gióp về Lê-vi-a-than: "Ngươi há chơi giỡn với nó như với con chim, hay là trói nó để cho các gái ngươi chơi sao?" Một người có thể mong giữ được gió bắc trong lòng bàn tay mình, cũng như mong bằng sức riêng mình kiểm soát những quyền lực ồn ào ngự trong bản tính sa ngã mình. Đây là một kỳ công lớn hơn bất kỳ công lao huyền thoại nào của Hercules: ở đây cần có Đức Chúa Trời.
 
@@ -182,7 +176,7 @@ Tôi đã tận mắt thấy những sự biến đổi kỳ diệu về tính c
 
 "Nhưng nó sẽ được thực hiện thế nào?" Đó là việc của bạn sao? Chúa phải giải thích phương pháp Ngài trước khi bạn chịu tin Ngài sao? Sự vận hành của Chúa trong vấn đề này là một mầu nhiệm lớn: Đức Thánh Linh thực hiện nó. Đấng đã hứa có trách nhiệm giữ lời hứa, và Ngài đủ sức cho dịp ấy. Đức Chúa Trời, Đấng hứa sự biến đổi kỳ diệu này, chắc chắn sẽ thực hiện nó nơi mọi kẻ tiếp nhận Chúa Giê-xu, vì với mọi kẻ như vậy Ngài ban quyền trở nên con cái Đức Chúa Trời. Ôi, ước gì bạn chịu tin điều ấy! Ôi, ước gì bạn đối xử công bằng với Chúa đầy ân điển mà tin rằng Ngài có thể và sẽ làm điều này cho bạn, dù đó sẽ là một phép lạ lớn! Ôi, ước gì bạn chịu tin rằng Đức Chúa Trời không thể nói dối! Ôi, ước gì bạn tin cậy Ngài về lòng mới, và tâm thần ngay thẳng, vì Ngài có thể ban chúng cho bạn! Nguyện Chúa ban cho bạn đức tin nơi lời hứa Ngài, đức tin nơi Con Ngài, đức tin nơi Đức Thánh Linh, và đức tin nơi Ngài, và nguyện Ngài được ngợi khen, tôn trọng và vinh hiển đời đời! A-men.
 
-## 7. BỞI ÂN ĐIỂN QUA ĐỨC TIN
+7. BỞI ÂN ĐIỂN QUA ĐỨC TIN
 
 "Ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu" (Ê-phê-sô 2:8).
 
@@ -198,7 +192,7 @@ Tuy nhiên, tôi lại nhắc bạn rằng đức tin chỉ là ống dẫn hay 
 
 Vậy, bạn thân mến ơi, hãy thấy rằng sự yếu đuối của đức tin bạn sẽ không hủy diệt bạn. Một bàn tay run rẩy vẫn có thể nhận một món quà vàng. Sự cứu rỗi của Chúa có thể đến với chúng ta dù chúng ta chỉ có đức tin bằng hạt cải. Quyền năng nằm trong ân điển của Đức Chúa Trời, chứ không ở trong đức tin chúng ta. Những sứ điệp lớn có thể được gửi đi dọc theo những sợi dây mảnh, và lời chứng ban bình an của Đức Thánh Linh có thể đến lòng người bằng một đức tin mảnh như sợi chỉ, dường như hầu không gánh nổi sức nặng của chính nó. Hãy nghĩ nhiều hơn về Đấng mà bạn nhìn xem, hơn là về chính cái nhìn. Bạn phải nhìn đi chỗ khác, ngay cả khỏi chính cái nhìn của mình, và chẳng thấy gì ngoài Chúa Giê-xu, và ân điển của Đức Chúa Trời được bày tỏ trong Ngài.
 
-## 8. ĐỨC TIN LÀ GÌ?
+8. ĐỨC TIN LÀ GÌ?
 
 Đức tin mà có lời rằng: "Ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu" là gì? Có nhiều cách mô tả đức tin; nhưng hầu hết các định nghĩa tôi từng gặp đều khiến tôi hiểu nó ít hơn trước khi thấy chúng. Người da đen kia, khi đọc đoạn ấy, nói rằng ông sẽ "làm rối" nó; rất có thể ông đã làm vậy, dù ý ông là giảng giải nó. Chúng ta có thể giải thích đức tin đến nỗi chẳng ai hiểu nổi. Tôi hy vọng mình sẽ không phạm lỗi ấy. Đức tin là điều đơn giản nhất trong mọi điều, và có lẽ chính vì sự đơn giản ấy mà nó khó giải thích hơn.
 
@@ -218,7 +212,7 @@ Nguyện lời giải thích ấy có ích phần nào! Tôi tin nó có thể �
 
 Điều tôi sợ là bạn đọc sẽ bằng lòng với việc hiểu điều phải làm, mà không bao giờ làm nó. Thà có đức tin thật nghèo nàn nhất mà đang hành động, còn hơn có lý tưởng tốt nhất về nó trong vùng suy đoán. Vấn đề lớn là phải tin Chúa Giê-xu ngay lập tức. Đừng bận tâm đến những phân biệt và định nghĩa. Một người đói ăn dù không hiểu thành phần thức ăn, cấu tạo miệng mình, hay tiến trình tiêu hóa: người ấy sống vì người ấy ăn. Một người khác khôn ngoan hơn nhiều hiểu thấu khoa học dinh dưỡng; nhưng nếu người ấy không ăn, người ấy sẽ chết, với mọi kiến thức của mình. Chắc chắn, giờ này có nhiều người trong địa ngục hiểu giáo lý về đức tin, mà đã không tin. Mặt khác, chẳng một ai đã nương cậy Chúa Giê-xu từng bị bỏ ra ngoài, dù người ấy có thể chẳng bao giờ định nghĩa đức tin mình cách thông minh được. Ôi bạn đọc thân mến ơi, hãy tiếp nhận Chúa Giê-xu vào linh hồn bạn, và bạn sẽ sống đời đời! "Ai tin Ngài thì được sự sống đời đời."
 
-## 9. ĐỨC TIN ĐƯỢC MINH HỌA THẾ NÀO?
+9. ĐỨC TIN ĐƯỢC MINH HỌA THẾ NÀO?
 
 Để làm cho vấn đề đức tin rõ ràng hơn nữa, tôi sẽ cho bạn vài minh họa. Dù chỉ một mình Đức Thánh Linh mới khiến bạn đọc tôi thấy được, nhưng bổn phận và niềm vui của tôi là cung cấp mọi ánh sáng tôi có thể, và cầu nguyện Chúa thánh mở mắt kẻ mù. Ôi, ước gì bạn đọc tôi cũng cầu nguyện lời cầu nguyện ấy cho chính mình!
 
@@ -256,7 +250,7 @@ Con đường nương cậy đầy yêu thương nơi Đấng Cứu Thế có th
 
 Một hình thức đức tin đáng chú ý nảy sinh từ sự hiểu biết chắc chắn; điều này đến từ sự lớn lên trong ân điển, và là đức tin tin Đấng Christ vì biết Ngài, và nương cậy Ngài vì đã thử nghiệm Ngài là thành tín không hề sai chạy. Một Cơ Đốc nhân cao tuổi có thói quen viết chữ T và P ở lề Kinh Thánh mình mỗi khi bà đã thử và chứng nghiệm một lời hứa. Thật dễ tin cậy một Đấng Cứu Thế đã được thử nghiệm và chứng nghiệm dường nào! Bạn chưa thể làm điều này, nhưng bạn sẽ làm được. Mọi sự đều phải có khởi đầu. Bạn sẽ vươn tới đức tin mạnh mẽ đúng lúc. Đức tin trưởng thành này không đòi dấu lạ và điềm thiêng, mà dạn dĩ tin. Hãy nhìn đức tin của người thuyền trưởng lão luyện — tôi thường lấy làm lạ về nó. Ông nhổ neo, ông cho tàu rời bến. Nhiều ngày, nhiều tuần, thậm chí nhiều tháng, ông không thấy buồm hay bờ; thế mà ông cứ tiến tới ngày đêm không sợ hãi, cho đến một buổi sáng ông thấy mình đúng ngay trước bến cảng mong muốn mà ông đã lái tới. Ông đã tìm đường trên biển sâu không lối bằng cách nào? Ông đã tin cậy la bàn, niên lịch hàng hải, kính viễn vọng, và các thiên thể; và vâng theo sự hướng dẫn của chúng, không cần thấy đất liền, ông đã lái chính xác đến nỗi không phải đổi một điểm nào để vào cảng. Thật là một điều kỳ diệu — việc dong buồm hay chạy tàu mà không thấy. Về phần thuộc linh, thật phước hạnh khi hoàn toàn rời bỏ bờ của mắt thấy và cảm giác, và nói "Tạm biệt" với những cảm xúc bên trong, những sự quan phòng khích lệ, những dấu lạ, điềm thiêng, vân vân. Thật vinh hiển khi ở xa ngoài đại dương của tình yêu thánh, tin Đức Chúa Trời, và lái thẳng về Thiên Đàng theo sự hướng dẫn của Lời Đức Chúa Trời. "Phước cho những kẻ chẳng từng thấy mà đã tin vậy"; họ sẽ được ban cho sự vào dư dật lúc cuối cùng, và một chuyến hải hành an toàn trên đường đi. Bạn đọc tôi có chịu đặt lòng tin nơi Đức Chúa Trời trong Đấng Christ Giê-xu không? Ở đó tôi yên nghỉ với lòng tin vui mừng. Anh em ơi, hãy đến với tôi, và tin Cha chúng ta và Đấng Cứu Thế chúng ta. Hãy đến ngay.
 
-## 10. VÌ SAO CHÚNG TA ĐƯỢC CỨU BỞI ĐỨC TIN?
+10. VÌ SAO CHÚNG TA ĐƯỢC CỨU BỞI ĐỨC TIN?
 
 Vì sao đức tin được chọn làm ống dẫn của sự cứu rỗi? Chắc chắn câu hỏi này thường được đặt ra. "Ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu," hẳn là giáo lý của Kinh Thánh, và là định chế của Đức Chúa Trời; nhưng vì sao lại như vậy? Vì sao đức tin được chọn hơn là hy vọng, hay tình yêu, hay sự nhẫn nại?
 
@@ -276,7 +270,7 @@ Hơn nữa, đức tin tạo ra sự bình an và niềm vui; kẻ nào có nó 
 
 Chắc chắn đức tin làm cho chúng ta điều không gì khác làm được; nó ban cho chúng ta niềm vui và sự bình an, và khiến chúng ta bước vào sự yên nghỉ. Sao người ta cố đạt sự cứu rỗi bằng những phương tiện khác? Một nhà giảng xưa nói: "Một đầy tớ dại được bảo mở cửa, ghé vai vào nó và đẩy hết sức; nhưng cửa không nhúc nhích, và người ấy không vào được, dù dùng sức nào. Một người khác đến với chiếc chìa khóa, dễ dàng mở cửa, và bước vào ngay. Những kẻ muốn được cứu bởi việc làm đang đẩy cửa thiên đàng mà không kết quả; nhưng đức tin là chiếc chìa khóa mở cửa ngay lập tức." Bạn đọc ơi, bạn có chịu dùng chiếc chìa khóa ấy không? Chúa truyền bạn tin Con yêu dấu Ngài, vì vậy bạn có thể làm vậy; và làm vậy bạn sẽ sống. Chẳng phải đây là lời hứa của Phúc Âm: "Ai tin và chịu báp-têm, sẽ được cứu rỗi" sao? (Mác 16:16). Bạn có thể phản đối gì về một đường cứu rỗi tự đề cử mình trước lòng thương xót và sự khôn ngoan của Đức Chúa Trời đầy ân điển chúng ta?
 
-## 11. ÔI! TÔI CHẲNG LÀM ĐƯỢC GÌ!
+11. ÔI! TÔI CHẲNG LÀM ĐƯỢC GÌ!
 
 Sau khi lòng người đang lo lắng đã chấp nhận giáo lý về sự chuộc tội, và đã học được lẽ thật lớn rằng sự cứu rỗi là bởi đức tin nơi Chúa Giê-xu, thì lòng ấy thường đau đớn vì cảm thấy mình bất lực đối với điều thiện. Nhiều người đang rên siết: "Tôi chẳng làm được gì." Họ không lấy điều này làm cớ thoái thác, nhưng họ cảm thấy nó như một gánh nặng hằng ngày. Họ muốn làm, nếu họ có thể. Mỗi người trong họ đều có thể thật lòng nói: "Vì tôi có ý muốn làm điều lành, nhưng không có quyền làm trọn." Cảm giác này dường như làm cho toàn bộ Phúc Âm trở thành vô ích; vì thức ăn có ích gì cho người đói nếu người ấy không với tới được? Dòng sông nước sự sống có ích gì nếu người ta không uống được? Chúng ta nhớ câu chuyện về vị bác sĩ và đứa con của người đàn bà góa nghèo. Vị thầy thuốc uyên bác nói với người mẹ rằng đứa con nhỏ của bà sẽ sớm khỏe lại nếu được chữa trị đúng cách, nhưng tuyệt đối cần thiết là cậu bé phải uống rượu nho tốt thường xuyên, và phải nghỉ một thời gian tại một trong những suối nước khoáng ở Đức. Đối với một bà góa hầu như không kiếm được bánh để ăn, điều ấy là chuyện không tưởng! Đôi khi, với lòng đang bối rối, Phúc Âm giản dị "Hãy tin và sống" dường như, suy cho cùng, không đơn giản chút nào; vì nó đòi hỏi kẻ tội nhân nghèo nàn làm điều mà mình không thể làm. Đối với người thật sự tỉnh thức, nhưng mới được dạy nửa vời, dường như còn thiếu một mắt xích; sự cứu rỗi của Chúa Giê-xu thì ở đằng kia, nhưng làm sao với tới được? Linh hồn không có sức lực, và không biết phải làm gì. Nó nằm trong tầm nhìn của thành ẩn náu, mà không bước được qua cổng thành.
 
@@ -326,9 +320,7 @@ Tôi nghe một người khác than vãn: "Ồ, thưa ông, sự yếu đuối c
 
 Nguyện Đức Thánh Linh giúp chúng ta đến được chừng này bởi đức tin nơi Chúa Giê-xu, thì sẽ tốt lành!
 
----
-
-## 12. SỰ TĂNG TRƯỞNG CỦA ĐỨC TIN
+12. SỰ TĂNG TRƯỞNG CỦA ĐỨC TIN
 
 Làm sao chúng ta có được sự tăng trưởng của đức tin? Đây là một câu hỏi rất tha thiết đối với nhiều người. Họ nói họ muốn tin, mà không tin được. Người ta đã nói rất nhiều điều vô nghĩa về chủ đề này. Hãy thực tế khi bàn về nó. Lẽ thường cũng cần thiết trong tôn giáo như ở bất cứ đâu. "Tôi phải làm gì để tin?" Một người được hỏi cách tốt nhất để làm một việc đơn giản nào đó, đã đáp rằng cách tốt nhất để làm việc ấy là làm ngay. Chúng ta phí thời gian bàn về phương pháp khi hành động vốn đơn giản. Con đường ngắn nhất để tin là tin. Nếu Đức Thánh Linh đã khiến bạn thành thật, bạn sẽ tin ngay khi lẽ thật được bày ra trước bạn. Bạn sẽ tin vì nó là thật. Mệnh lệnh của Phúc Âm rõ ràng: "Hãy tin Đức Chúa Giê-xu Christ, thì ngươi sẽ được cứu rỗi." Trốn tránh điều này bằng những câu hỏi và cãi cọ là vô ích. Mệnh lệnh rõ ràng; hãy vâng theo.
 
@@ -346,9 +338,7 @@ Nếu điều ấy không được, hãy suy ngẫm về con người của Chú
 
 Nếu không điều nào trong những điều này có ích, thì có điều gì đó hoàn toàn sai nơi bạn, và lời cuối của tôi là: hãy đầu phục Đức Chúa Trời! Thành kiến hay kiêu ngạo là gốc rễ của sự vô tín này. Nguyện Đức Thánh Linh cất đi sự thù nghịch của bạn và khiến bạn đầu hàng. Bạn là kẻ phản loạn, một kẻ phản loạn kiêu ngạo, và đó là lý do bạn không tin Đức Chúa Trời mình. Hãy từ bỏ cuộc phản loạn; hãy buông vũ khí; hãy đầu hàng vô điều kiện, hãy quy phục Vua mình. Tôi tin rằng chưa bao giờ có một linh hồn giơ tay đầu hàng trong tuyệt vọng, và kêu lên: "Lạy Chúa, con đầu hàng," mà đức tin không sớm trở nên dễ dàng với nó. Chính vì bạn vẫn còn cãi cọ với Đức Chúa Trời, và quyết giữ ý riêng và đường riêng của mình, nên bạn không thể tin. "Các ngươi là kẻ nhận vinh hiển lẫn nhau thì làm sao tin được," Đấng Christ phán. Bản ngã kiêu ngạo sinh ra sự vô tín. Hãy đầu phục, hỡi người. Hãy quy phục Đức Chúa Trời bạn, rồi bạn sẽ ngọt ngào tin Đấng Cứu Thế của mình. Nguyện Đức Thánh Linh giờ đây hành động cách âm thầm nhưng hiệu quả với bạn, và đem bạn ngay lúc này đến chỗ tin Chúa Giê-xu! A-men.
 
----
-
-## 13. SỰ TÁI SINH VÀ ĐỨC THÁNH LINH
+13. SỰ TÁI SINH VÀ ĐỨC THÁNH LINH
 
 Các ngươi phải được tái sinh. "Lời này của Chúa Giê-xu chúng ta đã như ngọn lửa chắn đường nhiều người, như thanh gươm rút ra của chê-ru-bim tại cổng địa đàng. Họ đã thất vọng, vì sự đổi mới này vượt quá mọi nỗ lực của họ. Sự sinh lại là từ trên cao, và vì vậy không nằm trong quyền năng của tạo vật. Giờ đây, tôi không hề có ý phủ nhận, hay che giấu, một lẽ thật để tạo ra sự an ủi giả. Tôi tự do thừa nhận rằng sự tái sinh là siêu nhiên, và không thể do chính tội nhân tự mình làm ra. Tôi giúp bạn đọc chẳng được gì nếu tôi gian ác đến mức cố làm bạn vui bằng cách thuyết phục bạn bác bỏ hay quên đi điều chắc chắn là thật.
 
@@ -376,9 +366,7 @@ Nếu một người được bảo gieo một cánh đồng, anh ta không th�
 
 Có những lẽ thật khó giải thích bằng lời nhưng lại đơn giản trong kinh nghiệm thực tế. Không có mâu thuẫn nào giữa lẽ thật rằng tội nhân tin, và rằng đức tin của anh ta được Đức Thánh Linh làm ra trong anh ta. Chỉ có sự dại dột mới khiến người ta tự làm rối mình về những vấn đề rõ ràng trong khi linh hồn mình đang nguy hiểm. Không ai từ chối bước vào thuyền cứu sinh vì không biết tỷ trọng của vật thể; cũng không người đói nào từ chối ăn cho đến khi hiểu toàn bộ quá trình dinh dưỡng. Nếu bạn, bạn đọc ơi, không chịu tin cho đến khi hiểu được mọi điều mầu nhiệm, bạn sẽ không bao giờ được cứu; và nếu bạn để những khó khăn tự mình bịa ra giữ mình khỏi nhận sự tha thứ qua Chúa và Đấng Cứu Thế mình, bạn sẽ hư mất trong sự đoán phạt mà bạn rất đáng nhận. Đừng phạm tội tự sát thuộc linh vì đam mê bàn luận những điều siêu hình tinh vi.
 
----
-
-## 14. "ĐẤNG CỨU CHUỘC TÔI VẪN SỐNG"
+14. "ĐẤNG CỨU CHUỘC TÔI VẪN SỐNG"
 
 Tôi đã liên tục nói với bạn đọc về Đấng Christ chịu đóng đinh, là niềm hy vọng lớn của kẻ có tội; nhưng chúng ta khôn ngoan khi nhớ rằng Chúa chúng ta đã sống lại từ kẻ chết và sống đời đời.
 
@@ -400,9 +388,7 @@ Ngài hằng sống để cầu thay Trước mặt Cha Ngài; Hãy giao, hỡi 
 
 Nào, bạn ơi, hãy phó thác vụ kiện và hoàn cảnh của bạn cho đôi tay đã một lần bị đâm thủng, nay được vinh hiển với những chiếc nhẫn ấn của quyền năng và danh dự hoàng gia. Không vụ kiện nào từng thất bại khi có [transcription reads "was justify with" — NEEDS REVIEW] Đấng Biện Hộ vĩ đại này.
 
----
-
-## 15. SỰ ĂN NĂN PHẢI ĐI ĐÔI VỚI SỰ THA THỨ
+15. SỰ ĂN NĂN PHẢI ĐI ĐÔI VỚI SỰ THA THỨ
 
 Từ câu Kinh Thánh chúng ta vừa trích dẫn, rõ ràng sự ăn năn gắn liền với sự tha tội. Trong Công vụ 5:31 chúng ta đọc rằng Chúa Giê-xu "được tôn cao để ban sự ăn năn và sự tha tội." Hai phước lành này đến từ bàn tay thánh đã một lần bị đóng đinh lên cây gỗ, nay được giơ lên trong vinh hiển. Sự ăn năn và sự tha thứ được gắn chặt với nhau bởi ý định đời đời của Đức Chúa Trời. Điều Đức Chúa Trời đã hiệp lại thì loài người không được phân rẽ.
 
@@ -432,9 +418,7 @@ Trở lại câu Kinh Thánh chúng ta đang suy ngẫm: cả sự tha thứ l�
 
 "Bởi ân điển mà anh em được cứu."
 
----
-
-## 16. SỰ ĂN NĂN ĐƯỢC BAN CHO THẾ NÀO
+16. SỰ ĂN NĂN ĐƯỢC BAN CHO THẾ NÀO
 
 Trở lại câu Kinh Thánh trọng tâm: "Đức Chúa Trời đã đem Ngài lên bên hữu Ngài làm Vua và Cứu Chúa, đặng ban lòng ăn năn và sự tha tội cho dân Y-sơ-ra-ên." Chúa Giê-xu Christ chúng ta đã lên cao để ân điển có thể tuôn xuống. Sự vinh hiển của Ngài được dùng để làm cho ân điển Ngài lưu hành rộng rãi hơn. Chúa không bước lên một bước nào trừ khi với ý định đem những tội nhân tin lên cùng Ngài. Ngài được tôn cao để ban sự ăn năn; và chúng ta sẽ thấy điều này nếu nhớ một vài lẽ thật lớn.
 
@@ -458,9 +442,7 @@ Tôi sẽ hài lòng nếu để lại một ý nghĩ này với bạn; đừng 
 
 Đấng Christ là tất cả.
 
----
-
-## 17. NỖI SỢ SA NGÃ SAU CÙNG
+17. NỖI SỢ SA NGÃ SAU CÙNG
 
 Một nỗi sợ tăm tối ám ảnh tâm trí nhiều người đang đến với Đấng Christ; họ sợ rằng mình sẽ không kiên trì đến cùng. Tôi đã nghe người tìm kiếm nói: "Nếu tôi phó linh hồn mình cho Chúa Giê-xu, nhưng biết đâu sau cùng tôi lại rút lui vào sự hư mất. Trước đây tôi đã từng có những cảm xúc tốt, mà chúng đã tàn lụi. Sự tốt lành của tôi như mây buổi sáng, và như sương sớm. Nó đến đột ngột, kéo dài một thời gian, hứa hẹn nhiều, rồi tan biến."
 
@@ -486,9 +468,7 @@ Nếu chỉ có vậy, đã đủ lý do lo lắng; nhưng còn nhiều hơn n�
 
 Tôn giáo thật là siêu nhiên lúc khởi đầu, siêu nhiên trong sự tiếp tục, và siêu nhiên lúc kết thúc. Đó là công việc của Đức Chúa Trời từ đầu đến cuối. Rất cần cánh tay của Chúa còn giơ ra: nhu cầu ấy bạn đọc đang cảm thấy bây giờ, và tôi mừng vì bạn cảm thấy nó; vì giờ đây bạn sẽ trông cậy sự gìn giữ mình nơi Chúa, Đấng duy nhất có thể giữ chúng ta khỏi sa ngã, và làm vinh hiển chúng ta với Con Ngài.
 
----
-
-## 18. SỰ ĐƯỢC KIÊN CỐ
+18. SỰ ĐƯỢC KIÊN CỐ
 
 Tôi muốn bạn chú ý đến sự chắc chắn mà Phao-lô tự tin mong đợi cho mọi thánh đồ. Ông nói — "Đấng sẽ khiến anh em vững bền đến cuối cùng, để khỏi bị quở trách trong ngày của Đức Chúa Giê-xu Christ chúng ta." Đây là loại kiên cố trên hết mọi điều đáng ao ước. Bạn thấy nó giả định rằng những người ấy đang đúng, và nó đề nghị kiên cố họ trong điều đúng. Thật kinh khiếp nếu kiên cố một người trong đường tội lỗi và sai lầm. Hãy nghĩ đến một kẻ nghiện rượu đã thành nếp, hay một kẻ trộm đã thành nếp, hay một kẻ nói dối đã thành nếp. Thật đáng buồn nếu một người được kiên cố trong sự vô tín và không tin kính. Sự kiên cố thánh chỉ có thể được hưởng bởi những người mà ân điển của Đức Chúa Trời đã bày tỏ cho. Đó là công việc của Đức Thánh Linh. Đấng ban đức tin cũng làm cho nó mạnh mẽ và vững chắc: Đấng nhen lửa tình yêu trong chúng ta cũng gìn giữ nó và làm cho ngọn lửa nó lớn lên. Điều Ngài khiến chúng ta biết bởi sự dạy dỗ đầu tiên, Đức Thánh Linh tốt lành khiến chúng ta biết rõ ràng và chắc chắn hơn bởi sự dạy dỗ thêm nữa. Những hành động thánh được kiên cố cho đến khi thành thói quen, và những cảm xúc thánh được kiên cố cho đến khi thành trạng thái thường hằng. Kinh nghiệm và thực hành kiên cố niềm tin và quyết tâm của chúng ta. Cả niềm vui lẫn nỗi buồn, cả thành công lẫn thất bại của chúng ta, đều được nên thánh cho cùng một mục đích: như cây được giúp bén rễ cả bởi những cơn mưa nhẹ lẫn những cơn gió mạnh. Tâm trí được dạy dỗ, và trong tri thức ngày càng lớn nó gom góp những lý do để kiên trì trong đường lành: tấm lòng được an ủi, và thế là nó được khiến bám chặt hơn vào lẽ thật an ủi. Cái nắm chặt hơn, bước chân vững hơn, và chính con người trở nên rắn chắc và thực chất hơn.
 
@@ -510,9 +490,7 @@ Tôi sẽ đứng dạn dĩ trong ngày lớn ấy, Vì ai buộc tội tôi đ�
 
 Được hưởng lòng can đảm không sợ ấy, khi trời đất trốn khỏi mặt Đấng Phán Xét mọi loài, sẽ phước hạnh biết bao! Phước hạnh này sẽ là phần của mọi người chỉ trông cậy ân điển của Đức Chúa Trời trong Chúa Giê-xu Christ, và trong quyền năng thánh ấy không ngừng tranh chiến với mọi tội lỗi.
 
----
-
-## 19. VÌ SAO CÁC THÁNH ĐỒ KIÊN TRÌ
+19. VÌ SAO CÁC THÁNH ĐỒ KIÊN TRÌ
 
 Niềm hy vọng đã đầy lòng Phao-lô về anh em Cô-rinh-tô, chúng ta đã thấy, đầy an ủi cho những kẻ run sợ về tương lai mình. Nhưng vì sao ông tin rằng anh em sẽ được kiên cố đến cuối cùng?
 
@@ -538,9 +516,7 @@ Nếu bạn thật sự là tín hữu, bạn là một với Chúa Giê-xu, và
 
 Vậy, hãy hết lòng tin cậy tiến bước vào tương lai chưa biết, liên kết đời đời với Chúa Giê-xu. Nếu người đời kêu lên: "Người này là ai, từ đồng vắng đi lên, nương dựa trên người yêu dấu mình?" chúng ta sẽ vui mừng xưng rằng chúng ta nương dựa Chúa Giê-xu, và chúng ta muốn nương dựa Ngài càng hơn. Đức Chúa Trời thành tín chúng ta là một giếng vui mừng tuôn chảy không ngừng, và sự thông công chúng ta với Con Đức Chúa Trời là một dòng sông vui mừng đầy dẫy. Biết những điều vinh hiển này, chúng ta không thể nản lòng: trái lại, chúng ta kêu lên với sứ đồ: "Ai sẽ phân rẽ chúng ta khỏi sự yêu thương của Đức Chúa Trời, là sự yêu thương ở trong Đức Chúa Giê-xu Christ, Chúa chúng ta?"
 
----
-
-## 20. LỜI KẾT
+20. LỜI KẾT
 
 Nếu bạn đọc đã không theo tôi từng bước khi đọc những trang của tôi, tôi thật lấy làm tiếc. Đọc sách chẳng có giá trị gì trừ khi những lẽ thật đi qua tâm trí được nắm lấy, được chiếm lấy, và được đem ra thực hành. Giống như người ta thấy đầy thức ăn trong cửa hàng mà vẫn đói, vì thiếu tự mình ăn lấy. Thật vô ích, bạn đọc thân mến ơi, việc bạn và tôi gặp nhau, trừ khi bạn thật sự nắm lấy Chúa Giê-xu Christ, Chúa tôi. Về phần tôi, có một ước muốn rõ ràng là làm ích cho bạn, và tôi đã cố hết sức vì mục đích ấy. Tôi đau lòng vì mình đã không thể làm ích cho bạn, vì tôi đã khao khát được đặc ân ấy. Tôi đã nghĩ đến bạn khi viết trang này, và tôi đã đặt bút xuống và nghiêm trang quỳ gối cầu nguyện cho mọi người sẽ đọc nó. Tôi vững tin rằng rất nhiều độc giả sẽ được phước, dù bạn từ chối ở trong số ấy. Nhưng vì sao bạn từ chối? Nếu bạn không muốn phước lành chọn lọc mà tôi muốn đem đến cho bạn, ít nhất hãy công bằng với tôi mà thừa nhận rằng tội về sự hư mất sau cùng của bạn sẽ không nằm ở cửa tôi. Khi hai chúng ta gặp nhau trước ngai trắng lớn, bạn sẽ không thể buộc tội tôi đã dùng cách thờ ơ sự chú ý mà bạn đã vui lòng dành cho tôi trong khi đọc cuốn sách nhỏ này. Đức Chúa Trời biết tôi đã viết mỗi dòng vì điều tốt đời đời của bạn. Giờ đây trong tâm linh tôi nắm tay bạn. Tôi nắm chặt. Bạn có cảm thấy cái nắm tay huynh đệ của tôi không? Nước mắt trong mắt tôi khi nhìn bạn và nói: Vì sao bạn muốn chết? Bạn không chịu nghĩ đến linh hồn mình sao? Bạn sẽ hư mất chỉ vì bất cẩn sao? Ôi, đừng như vậy; nhưng hãy cân nhắc những vấn đề nghiêm trọng này, và làm chắc công việc cho cõi đời đời! Đừng từ chối Chúa Giê-xu, tình yêu Ngài, huyết Ngài, sự cứu rỗi Ngài. Vì sao bạn làm vậy? Bạn có thể làm vậy sao?
 
@@ -555,9 +531,5 @@ Nếu chính bạn được cứu, hãy canh chừng linh hồn người khác. 
 Bạn đọc ơi, hãy gặp tôi trên thiên đàng! Đừng xuống địa ngục. Không có đường trở lại từ nơi khốn khổ ấy. Vì sao bạn muốn bước vào đường sự chết khi cổng thiên đàng đang mở trước bạn? Đừng từ chối sự tha thứ tự do, sự cứu rỗi đầy đủ mà Chúa Giê-xu ban cho mọi kẻ tin cậy Ngài. Đừng do dự và trì hoãn. Bạn đã quyết tâm đủ rồi, hãy hành động. Hãy tin Chúa Giê-xu ngay bây giờ, với quyết định đầy đủ và tức thì. Hãy đem theo lời và đến cùng Chúa bạn hôm nay, ngay hôm nay. Hãy nhớ, hỡi linh hồn, có thể là bây giờ hoặc không bao giờ với bạn. Hãy để là bây giờ; sẽ kinh khiếp biết bao nếu là không bao giờ.
 
 Một lần nữa tôi dặn bạn, hãy gặp tôi trên thiên đàng.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "Prince and a Saviour" (Công vụ 5:31) → "Vua và Cứu Chúa"; blameless/unreproveable/unimpeachable → "không chỗ trách được / không thể quở trách / không ai buộc tội được"; Plastic Pliable → "anh chàng Dễ Uốn"; "untempered mortar" → "vữa pha không đúng"; 2 [NEEDS REVIEW] còn lại: Chương 14 (cuối chương — transcription đọc "was justify with") và Chương 16 (transcription đọc "<redacted>") — cần đối chiếu bản in trước khi xuất bản.
 
 Mở trong trình đọc Về thư viện

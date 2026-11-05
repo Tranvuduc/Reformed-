@@ -6,7 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# TIẾNG CHUÔNG CẢNH TỈNH CHO KẺ CHƯA ĐƯỢC BIẾN ĐỔI ## Joseph Alleine, 1671
+TIẾNG CHUÔNG CẢNH TỈNH CHO KẺ CHƯA ĐƯỢC BIẾN ĐỔI
+
+JOSEPH ALLEINE, 1671
 
 LỜI MỞ ĐẦU.
 
@@ -795,7 +797,5 @@ Hãy là và làm hơn thường lệ trong phòng riêng và gia đình của c
 Trong phòng riêng của các ngươi. — Hãy tự xét mình hơn bao giờ hết. Và ở đây hãy để tôi đặt nó lên lương tâm các ngươi: Các ngươi có thói quen xét mình bằng Lời của Đức Chúa Trời không? Các ngươi có thử mình bằng nó hằng ngày không? Than ôi, sự xao lãng khốn khổ! Sao vậy, các ngươi đã bày tỏ sự tán thành mà lại quên bổn phận của mình sao? Đức Chúa Trời trông đợi điều này ở các ngươi, rằng, bây giờ các ngươi biết ý muốn của Ngài, các ngươi phải bước đi trước mặt Ngài với sự kính sợ sốt sắng hơn, sự cẩn trọng dịu dàng hơn, và sự tỉnh thức thánh khiết và tự chối bỏ mình hơn; nếu không các ngươi sẽ khơi dậy cơn thịnh nộ của Ngài cách lớn lao.
 
 Cuối cùng — Trong gia đình của các ngươi. Chúa gọi các ngươi hãy sắp đặt nhà cửa mình cho có trật tự. Ôi, hãy xem điều gì sai trật trong chúng, và cố gắng loại bỏ bất cứ điều gì có thể là một sự khiêu khích.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Scripture quotations rendered in BDM2010 style by sense; exact BDM2010 wording not verified (inline [NEEDS REVIEW] flags mark verse quotes needing a verification pass). - "conversion" normalized to "sự biến đổi" across all chunks (chunk 1's "sự trở lại" standardized); "unconverted" → "chưa được biến đổi". - "người Tin Lành" (1×, ch. IV) renders "Protestants" — correct Vietnamese term, not the banned gospel rendering. - OCR reconstructions by evident sense; genuine ambiguities flagged inline. - Missing chapter headings restored: CHƯƠNG IV, CHƯƠNG V (source OCR had lost them); CHƯƠNG VII heading was garbled "CHAPTBH VI X." in source. - "Antichrist" kept as in source (ch. IV). - Source: archive.org 1834 American Tract Society reprint (public domain; author d. 1668, work 1671). NOT the Monergism Books edition.
 
 Mở trong trình đọc Về thư viện

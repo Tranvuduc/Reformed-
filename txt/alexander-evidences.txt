@@ -6,8 +6,6 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# BẰNG CHỨNG VỀ ĐẠO CƠ ĐỐC
-
 Archibald Alexander (1772–1851)
 
 Ti de kai aph' heauton ou krinete to dikaion;
@@ -70,7 +68,7 @@ GHI CHÚ.
 
 Ghi chú A. 243 Ghi chú B. 253 Ghi chú C. 255
 
-## CHƯƠNG I.
+CHƯƠNG I.
 
 SỬ DỤNG LÝ TRÍ MỘT CÁCH ĐÚNG ĐẮN TRONG TÔN GIÁO.
 
@@ -106,7 +104,7 @@ Về bản chất thâm hiểm của cuộc tấn công này, tôi sẽ không d
 
 Có lẽ cần một vài lời biện minh rằng một vấn đề đã được thảo luận đầy đủ và tài giỏi như vậy, trong vô số tập sách, lại được cố gắng xử lý trong một bài luận ngắn. Lời biện minh duy nhất của tôi là, thuốc độc của sự vô tín được nhiều người uống vào, những người không bao giờ có được thuốc giải. Thật đáng tiếc biết bao rằng một vài cuốn sách hầu như chắc chắn sẽ rơi vào tay của thanh niên có học, lại nhuộm đậm màu sắc hoài nghi. Có bao nhiêu người đọc Hume và Gibbon, mà không bao giờ thấy những lời đáp của Campbell và Watson. Nay, nếu chúng ta có thể trình bày, dù chỉ một phác thảo ngắn gọn về các bằng chứng của Cơ Đốc giáo, cho những người có thể không muốn đọc những tác phẩm lớn hơn, chúng ta có thể đang góp phần, ở một mức độ nhỏ nào đó, để ngăn chặn sự tiến triển của một trong những điều ác lớn nhất mà con người dễ mắc phải.
 
-## CHƯƠNG II.
+CHƯƠNG II.
 
 VIỆC LOẠI BỎ HOÀN TOÀN MỌI TÔN GIÁO KHỎI THẾ GIAN LÀ ĐIỀU KHÔNG THỂ; VÀ NẾU CÓ THỂ, ĐÓ SẼ LÀ THẢM HỌA LỚN NHẤT CÓ THỂ XẢY ĐẾN CHO NHÂN LOẠI.
 
@@ -134,7 +132,9 @@ Nhưng chúng ta không nên cho rằng toàn bộ quần chúng người Pháp 
 
 [1] Gregoire.
 
-## CHƯƠNG III. NẾU CƠ ĐỐC GIÁO BỊ KHƯỚC TỪ, SẼ KHÔNG CÓ TÔN GIÁO NÀO KHÁC CÓ THỂ THAY THẾ VÀO VỊ TRÍ CỦA NÓ; ÍT NHẤT, KHÔNG CÓ TÔN GIÁO NÀO KHÁC CÓ THỂ ĐÁP ỨNG HOÀN TOÀN MỤC ĐÍCH MÀ VÌ ĐÓ TÔN GIÁO LÀ ĐIỀU ĐÁNG MONG MUỐN.
+CHƯƠNG III.
+
+NẾU CƠ ĐỐC GIÁO BỊ KHƯỚC TỪ, SẼ KHÔNG CÓ TÔN GIÁO NÀO KHÁC CÓ THỂ THAY THẾ VÀO VỊ TRÍ CỦA NÓ; ÍT NHẤT, KHÔNG CÓ TÔN GIÁO NÀO KHÁC CÓ THỂ ĐÁP ỨNG HOÀN TOÀN MỤC ĐÍCH MÀ VÌ ĐÓ TÔN GIÁO LÀ ĐIỀU ĐÁNG MONG MUỐN.
 
 Trong phần trước, đã được chứng minh rằng có một tôn giáo nào đó là điều cần thiết. Chúng ta hiện đang có trong tay Cơ Đốc giáo, mà theo chính lời thừa nhận của những người tự nhiên thần luận, đáp ứng nhiều mục đích quý báu. — Vì vậy, chúng ta cần phải cân nhắc kỹ lưỡng, xem chúng ta có thể đạt được gì qua việc trao đổi, nếu chúng ta từ bỏ nó. Nếu ai đó có thể chỉ cho chúng ta một tôn giáo tốt hơn, và được xây dựng trên những bằng chứng tốt hơn, thì trong trường hợp ấy, chúng ta nên vui lòng từ bỏ nó; nhưng nếu điều này không thể thực hiện được, thì chắc chắn thật vô lý khi buông bỏ một điều tốt chắc chắn mà không nhận được điều tương đương thế vào. Điều đó cũng giống như có những người đang đi trên biển, trong một con tàu đưa họ đi thuận lợi, lại quyết định bỏ nó, mà không biết có con tàu nào khác để đón nhận họ, chỉ vì một số hành khách, tự xưng là có tài, gợi ý rằng nó đang bị rò rỉ, và sớm muộn gì cũng sẽ chìm.
 
@@ -198,7 +198,11 @@ Cũng có thể nhận xét, để kết luận, rằng các sự kiện đã đ
 
 [3] Thomas Paine là một trong số họ.
 
-[4] Histoire de Theophilanthropie, par M. Gregoire. — Xem Quarterly Review tháng Giêng, 1823. ## CHƯƠNG IV. SỰ MẶC KHẢI LÀ CẦN THIẾT ĐỂ DẠY CHÚNG TA CÁCH THỜ PHƯỢNG ĐỨC CHÚA TRỜI CÁCH ĐẸP LÒNG — BẢN CHẤT VÀ SỰ CHẮC CHẮN CỦA ĐỜI SAU — VÀ ĐẶC BIỆT, PHƯƠNG THỨC KẺ CÓ TỘI CÓ THỂ NHẬN ĐƯỢC SỰ CỨU RỖI.
+[4] Histoire de Theophilanthropie, par M. Gregoire. — Xem Quarterly Review tháng Giêng, 1823.
+
+CHƯƠNG IV.
+
+SỰ MẶC KHẢI LÀ CẦN THIẾT ĐỂ DẠY CHÚNG TA CÁCH THỜ PHƯỢNG ĐỨC CHÚA TRỜI CÁCH ĐẸP LÒNG — BẢN CHẤT VÀ SỰ CHẮC CHẮN CỦA ĐỜI SAU — VÀ ĐẶC BIỆT, PHƯƠNG THỨC KẺ CÓ TỘI CÓ THỂ NHẬN ĐƯỢC SỰ CỨU RỖI.
 
 Sẽ là thừa thãi ở đây khi lặp lại những gì đã nói trong chương trước, về nhu cầu mà con người đã có về một sự mặc khải khi ông mới từ tay Đấng Sáng Tạo mà ra. Đối tượng mà chúng ta, hiện tại, nhắm đến, là, tìm hiểu xem, con người, trong tình trạng mà hiện nay chúng ta thấy ông, và trong tình trạng mà lịch sử cho chúng ta biết ông đã tồn tại hàng thế kỷ, có phải đang trong nhu cầu cấp bách về thêm ánh sáng hơn những gì ông có; và, liệu có những điểm có tầm quan trọng sống còn, về chúng ông phải ở trong bóng tối, trừ khi sự hiểu biết về lẽ thật được truyền cho ông bởi một sự mặc khải từ Đức Chúa Trời. Tuy nhiên, hãy hiểu rõ, theo nghĩa nào mà sự mặc khải được khẳng định là cần thiết. Dĩ nhiên, không có ý nói, rằng có bất kỳ sự cần thiết tự nhiên nào cho một sự kiện như vậy; cũng không có ý nói, rằng Đức Chúa Trời bị bắt buộc bởi bất kỳ sự cần thiết nào, phải ban một sự mặc khải. Sự cần thiết được tranh luận, hoàn toàn liên quan đến những nhu cầu của con người. Người ta thấy, rằng trong mọi thời đại, và dưới mọi hoàn cảnh, ông cần những thông tin, mà ông không thể đạt được từ sự vận dụng không được trợ giúp của lý trí mình; hoặc, ít nhất, không thể đạt được một cách thỏa đáng từ nguồn này, như từ sự mặc khải thần thượng.
 
@@ -258,7 +262,9 @@ Tôi cho rằng từ cuộc thảo luận trên đây, rõ ràng là ý tưởng
 
 Và nếu các quan điểm này là đúng, thì một sự mặc khải thiên thượng là tuyệt đối cần thiết để dạy chúng ta rằng Đức Chúa Trời sẵn lòng đón kẻ ăn năn vào ân điển; và để cho chúng ta biết, theo những điều kiện nào điều này khả thi.
 
-## CHƯƠNG V. KHÔNG CÓ GÌ KHÓ TIN HAY VÔ LÝ TRONG Ý TƯỞNG VỀ MỘT SỰ MẶC KHẢI TỪ ĐỨC CHÚA TRỜI; VÀ DO ĐÓ, KHÔNG CÓ GÌ KHÓ TIN HAY VÔ LÝ TRONG SỰ CAN THIỆP THIÊN THƯỢNG RÕ RÀNG NÀO, NHƯ CẦN THIẾT ĐỂ THIẾT LẬP MỘT SỰ MẶC KHẢI.
+CHƯƠNG V.
+
+KHÔNG CÓ GÌ KHÓ TIN HAY VÔ LÝ TRONG Ý TƯỞNG VỀ MỘT SỰ MẶC KHẢI TỪ ĐỨC CHÚA TRỜI; VÀ DO ĐÓ, KHÔNG CÓ GÌ KHÓ TIN HAY VÔ LÝ TRONG SỰ CAN THIỆP THIÊN THƯỢNG RÕ RÀNG NÀO, NHƯ CẦN THIẾT ĐỂ THIẾT LẬP MỘT SỰ MẶC KHẢI.
 
 Việc một sự mặc khải là có thể, sẽ không bị ai trong những người tin vào sự hiện hữu của một Đức Chúa Trời đặt nghi vấn; cũng không thể tin rằng có điều gì trong khái niệm về một sự mặc khải, trái ngược với các thuộc tính đạo đức của Hữu Thể Tối Cao. Việc gia tăng tri thức của các thụ tạo có trí khôn của Ngài không thể không tương hợp với sự khôn ngoan, tốt lành, hay thánh khiết của Đức Chúa Trời. Toàn bộ mục đích của một sự mặc khải là làm cho con người khôn ngoan hơn, tốt hơn, và hạnh phúc hơn; và có thể hình dung điều gì phù hợp hơn với các ý tưởng của chúng ta về sự toàn hảo thiên thượng, hơn điều này?
 
@@ -276,7 +282,9 @@ Người ta thừa nhận rằng một sự mặc khải từ Đức Chúa Trờ
 
 Vậy thì phép lạ cung cấp bằng chứng tốt nhất cho việc thiết lập một sự mặc khải. Chúng dường như là con dấu thích hợp của nó. Chúng là sự chứng thực hiển nhiên của Đức Chúa Trời. Không thể hình dung điều gì sẽ chỉ rõ quyền năng và sự hiện diện của Ngài một cách nổi bật hơn một sự đình chỉ hữu hình các định luật của tự nhiên. Ngài là vô hình: Ngài phải tự bày tỏ mình qua các công việc của Ngài, và một phép lạ là một công việc mà không ai khác có thể làm. Do đó, khi một người tuyên bố đã nhận được một sự mặc khải từ Đức Chúa Trời, và khi chúng ta thấy những hiệu quả của quyền toàn năng đi kèm với lời nói của người ấy, mọi người đều chắc chắn rằng Đức Chúa Trời ở cùng người ấy, và rằng người ấy là một giáo sư được Đức Chúa Trời sai đến; vì bằng không người ấy không bao giờ có thể làm những công việc kỳ diệu như thế; hay đúng hơn, để nói chính xác hơn, Đức Chúa Trời sẽ không bao giờ vận dụng quyền năng của Ngài để xác nhận những tuyên bố của một kẻ lừa dối hay để chứng thực những giáo lý không chân thật.
 
-## CHƯƠNG VI. PHÉP LẠ CÓ THỂ ĐƯỢC CHỨNG MINH BẰNG LỜI CHỨNG.
+CHƯƠNG VI.
+
+PHÉP LẠ CÓ THỂ ĐƯỢC CHỨNG MINH BẰNG LỜI CHỨNG.
 
 Tôi không biết có ai từng phủ nhận rằng một phép lạ sẽ là đáng tin, nếu được bày ra trước các giác quan của chúng ta. Một người, quả thật, có thể bị lừa bởi một ảo giác phát sinh từ một rối loạn nào đó trong các giác quan; nhưng nếu hắn ý thức rằng mình đang ở trong tình trạng lành mạnh về thân thể và tâm trí, và chứng kiến không chỉ một, mà nhiều phép lạ; không chỉ vài lần, mà trong nhiều năm liên tiếp; và nếu hắn thấy rằng mọi người xung quanh đều có cùng những nhận thức về các sự kiện này như chính mình, tôi khỏi cần nói rằng sẽ là hợp lý khi tin vào các giác quan của mình, vì cấu tạo của bản tính hắn không để cho hắn lựa chọn: hắn sẽ buộc phải tin điều mình đã thấy bằng mắt, nghe bằng tai, và sờ bằng tay. Nhưng có những sự kiện mà một người sẽ tin dựa trên bằng chứng của các giác quan, lại không thể nào được làm cho đáng tin bằng lời chứng của bất kỳ số lượng nhân chứng nào? Thì sẽ có những sự kiện mà tri thức về chúng không bao giờ có thể được truyền đạt sao cho xứng đáng được tin. Theo giả thiết này, cấu tạo của bản tính chúng ta sẽ đòi hỏi chúng ta từ chối sự đồng tình với điều chân thật, và với điều mà những người khác biết là chân thật. Nếu một nghìn người có sự chân thật nghiêm ngặt nhất làm chứng rằng họ đã nhiều lần chứng kiến một phép lạ, và nếu mọi hoàn cảnh đều đồng tình xác nhận lời chứng của họ, thì theo nguyên tắc này, tin họ vẫn sẽ là vô lý; ngay cả khi họ đồng ý chết để xác nhận điều họ tuyên bố là sự thật. Đây là lập trường mà ông Hume đã chọn, trong lập luận khoe khoang của ông chống lại các phép lạ. Nhưng, theo tôi, mọi người, trước khi xét kỹ, đều phải tin rằng nó là sai; vì nó trái ngược với lẽ thường, và với kinh nghiệm phổ biến về hiệu lực của lời chứng. Nguyên tắc đúng về vấn đề này là: bất kỳ sự kiện nào sẽ được tin dựa trên bằng chứng của các giác quan, đều có thể được tin một cách hợp lý dựa trên lời chứng. Vì có thể có lời chứng mang tính chất như tạo ra sự thuyết phục mạnh mẽ như bất kỳ bằng chứng nào khác có thể hình dung; và lời chứng như thế ủng hộ một phép lạ, sẽ xác lập nó vững chắc như thể chúng ta đã tự mình chứng kiến. Nhưng, dù đây là kết luận của lẽ thường và kinh nghiệm, lập luận siêu hình của ông Hume đã có tác dụng làm rối loạn và lung lay tâm trí của nhiều người: và vì ông khoe rằng "nó sẽ có ích để lật đổ các phép lạ chừng nào thế giới còn tồn tại," dường như cần thiết phải đi vào xét kỹ lập luận của ông, để chúng ta có thể phơi bày sự ngụy biện của nó. Điều này đã được thực hiện, một cách thuyết phục, bởi một số người, [5] nổi tiếng về học thức và sự phân biệt: và nếu các tác phẩm của họ được mọi người đọc Hume đọc, tôi sẽ cho là không cần thêm một lời nào về vấn đề này. Nhưng việc trình bày một sự bác bỏ, dưới dạng cô đọng, có lẽ không phải là vô ích, vì lợi ích của những người sẽ không chịu khó đi qua một sự chứng minh tỉ mỉ và dài dòng.
 
@@ -314,7 +322,9 @@ Do đó, chúng ta sẵn lòng để châm ngôn này, như nay được phát b
 
 [6] Tiến sĩ Gleig.
 
-## CHƯƠNG VII. CÁC PHÉP LẠ CỦA PHÚC ÂM LÀ ĐÁNG TIN.
+CHƯƠNG VII.
+
+CÁC PHÉP LẠ CỦA PHÚC ÂM LÀ ĐÁNG TIN.
 
 Đã chứng minh, trong chương trước, rằng các phép lạ có thể được xác thực một cách đáng tin cậy, giờ đây tôi sẽ khảo sát bằng chứng để xác lập các sự kiện phép lạ được ghi chép trong Tân Ước.
 
@@ -488,7 +498,9 @@ Nhưng tại sao lời chứng này lại bị bác bỏ? Chưa bao giờ có l�
 
 [18] Xem các Thư tín của Ignatius và Polycarp.
 
-## CHƯƠNG VIII. KINH THÁNH CHỨA ĐỰNG NHỮNG LỜI TIÊN TRI VỀ CÁC SỰ KIỆN MÀ KHÔNG SỰ KHÔN NGOAN NÀO CỦA CON NGƯỜI CÓ THỂ TIÊN ĐOÁN, VÀ NHỮNG LỜI TIÊN TRI ẤY ĐÃ ĐƯỢC ỨNG NGHIỆM MỘT CÁCH CHÍNH XÁC VÀ ĐÁNG KỂ.
+CHƯƠNG VIII.
+
+KINH THÁNH CHỨA ĐỰNG NHỮNG LỜI TIÊN TRI VỀ CÁC SỰ KIỆN MÀ KHÔNG SỰ KHÔN NGOAN NÀO CỦA CON NGƯỜI CÓ THỂ TIÊN ĐOÁN, VÀ NHỮNG LỜI TIÊN TRI ẤY ĐÃ ĐƯỢC ỨNG NGHIỆM MỘT CÁCH CHÍNH XÁC VÀ ĐÁNG KỂ.
 
 Đề tài của lời tiên tri quá rộng lớn, và sự khó khăn trong việc trình bày, một cách ngắn gọn, luận cứ mà nó cung cấp, quá lớn, đến nỗi nếu tôi đã không quyết tâm đưa ra một phác thảo chung về các bằng chứng của sự mặc khải, tôi đã bỏ qua đề tài này, như một đề tài không thể công bằng, trong một tiểu luận ngắn như vậy.
 
@@ -642,7 +654,7 @@ Sau bài duyệt ngắn gọn này về một số lời tiên tri đáng chú �
 
 [30] Xem "Whitby's General Preface to the New Testament".
 
-## CHƯƠNG IX.
+CHƯƠNG IX.
 
 KHÔNG MỘT TÔN GIÁO NÀO KHÁC CÓ CÙNG LOẠI VÀ MỨC ĐỘ BẰNG CHỨNG NHƯ CƠ ĐỐC GIÁO: VÀ KHÔNG CÓ PHÉP LẠ NÀO KHÁC ĐƯỢC CHỨNG THỰC TỐT BẰNG NHỮNG PHÉP LẠ ĐƯỢC GHI LẠI TRONG KINH THÁNH.
 
@@ -734,7 +746,7 @@ Tuy nhiên, đưa ra một loạt lời chứng như vậy, để ủng hộ m�
 
 [39] Về toàn bộ đề tài này, xem cuốn Chuẩn Mực (Criterion) của Douglass.
 
-## CHƯƠNG X.
+CHƯƠNG X.
 
 KINH THÁNH CHỨA BẰNG CHỨNG NỘI TẠI RẰNG NGUỒN GỐC CỦA NÓ LÀ THẦN THIÊNG.
 
@@ -886,7 +898,9 @@ Nếu bất kỳ ai có thể, sau một cuộc khảo sát vô tư Kinh Thánh,
 
 [44] Rô-ma 13.
 
-## CHƯƠNG XI. KINH THÁNH CỰU ƯỚC VÀ TÂN ƯỚC ĐƯỢC VIẾT RA BỞI SỰ LINH CẢM CỦA ĐỨC CHÚA TRỜI; VÀ SỰ LINH CẢM NÀY, DÙ ĐƯỢC PHÂN BIỆT THẾ NÀO ĐI NỮA, VẪN LÀ TRỌN VẸN; NGHĨA LÀ CÁC TÁC GIẢ ĐÃ Ở DƯỚI SỰ HƯỚNG DẪN VÔ NGỘ, CẢ VỀ TƯ TƯỞNG LẪN LỜI LẼ: VÀ TUY VẬY, TRI THỨC ĐÃ THU LƯỢM, THÓI QUEN, VÀ KHÍ CHẤT RIÊNG CỦA CÁC TÁC GIẢ, KHÔNG BỊ THAY THẾ.
+CHƯƠNG XI.
+
+KINH THÁNH CỰU ƯỚC VÀ TÂN ƯỚC ĐƯỢC VIẾT RA BỞI SỰ LINH CẢM CỦA ĐỨC CHÚA TRỜI; VÀ SỰ LINH CẢM NÀY, DÙ ĐƯỢC PHÂN BIỆT THẾ NÀO ĐI NỮA, VẪN LÀ TRỌN VẸN; NGHĨA LÀ CÁC TÁC GIẢ ĐÃ Ở DƯỚI SỰ HƯỚNG DẪN VÔ NGỘ, CẢ VỀ TƯ TƯỞNG LẪN LỜI LẼ: VÀ TUY VẬY, TRI THỨC ĐÃ THU LƯỢM, THÓI QUEN, VÀ KHÍ CHẤT RIÊNG CỦA CÁC TÁC GIẢ, KHÔNG BỊ THAY THẾ.
 
 Sau khi đã cố gắng thiết lập tính xác thực của Kinh Thánh, giờ đây tôi xin nói đôi điều về sự linh cảm của các tác giả của từng sách. Hai chủ đề này, đúng là, gắn liền với nhau; và nhiều luận cứ bênh vực cho chủ đề thứ nhất cũng có sức thuyết phục đối với chủ đề thứ hai; nhưng vẫn có một sự phân biệt mà ta cần lưu ý. Một cuốn sách có thể xác thực mà không hề có chút tuyên bố nào về sự linh cảm, như mọi tường thuật chân thật về các sự kiện, do những người thành thật viết ra, bằng năng lực không được trợ giúp của mình. Lịch sử Phúc Âm có thể được thiết lập trên những nguyên tắc chung của lời chứng con người, giống như bất kỳ lịch sử nào khác. Thật vậy, theo thứ tự của phép chứng minh, điều này phải được làm trước khi có thể hình thành bất kỳ luận cứ thuyết phục nào bênh vực cho sự mặc khải thiêng liêng. Do đó, mọi tác giả sáng suốt viết về Bằng Chứng của Cơ Đốc Giáo đều trước hết cố gắng thiết lập các sự kiện được ghi trong các sách Phúc Âm, bằng cách viện đến lời chứng thuần túy của con người. Sự phân biệt này rõ ràng, và thực tế quan trọng đến nỗi nhiều người tin vào các sự kiện—cả phép lạ lẫn các sự kiện khác—mà vẫn không có xác tín rằng lịch sử của các biến cố ấy được viết ra bởi sự linh cảm thiêng liêng. Người ta hiểu rằng đây là trường hợp của hầu hết những người được gọi là Unitarian. Tiến sĩ Priestley, trong tác phẩm "Institutes of the Christian Religion," đã thiết lập tính xác thực của các sự kiện do các tác giả Phúc Âm ghi lại, với sức lý luận mạnh mẽ; nhưng trong cùng tác phẩm ấy, ông hoàn toàn phủ nhận sự linh cảm trọn vẹn của các tác giả này; mà ông cho rằng họ là những người thành thật, và lời chứng của họ nên được tiếp nhận, giống như ta tiếp nhận lời chứng của các sử gia đáng tin khác; nhưng không gán cho họ sự vô ngộ. Nhiều người khác cũng duy trì những quan điểm tương tự. Tính xác thực của các sự kiện đủ để chứng minh rằng Cơ Đốc Giáo có nguồn gốc thiêng liêng; nhưng không vì thế mà suy ra, như một lẽ đương nhiên, rằng sử gia tường thuật các sự kiện làm nền tảng cho tôn giáo ấy đã được linh cảm. Đây là một cuộc tra xét riêng biệt; và, dù không quan trọng sống còn như cuộc tra xét trước, vẫn có ý nghĩa lớn, và xứng đáng được xem xét nghiêm túc và vô tư.
 
@@ -958,9 +972,11 @@ Do đó, chúng ta không thể không kết luận rằng mọi sách Cựu Ư�
 
 [45] Xem 1 Cô-rinh-tô 7:12–40.
 
-## GHI CHÚ.
+GHI CHÚ.
 
-## GHI CHÚ A. PHỤ LỤC CỦA CHƯƠNG VI. Về Bằng Chứng của Phép Lạ bởi Lời Chứng.
+GHI CHÚ A.
+
+PHỤ LỤC CỦA CHƯƠNG VI. Về Bằng Chứng của Phép Lạ bởi Lời Chứng.
 
 TRONG một ấn phẩm phổ biến gần đây, nhưng khuyết danh, nhan đề "Essays on the Pursuit of Truth, on the Progress of Knowledge, and the Fundamental Principles of all Evidence and Expectation, By the Author of Essays on the Formation and Publication of Opinions," học thuyết của tôi, về chủ đề lời chứng, đã được trình bày dưới một hình thức có phần mới mẻ và gây ấn tượng. Và vì tác giả này đã đạt được danh tiếng đáng kể ở Anh, và các Tiểu luận của ông đã được tái bản tại Philadelphia, và được giới thiệu mạnh mẽ với công chúng, dưới thẩm quyền của Westminster Review, dường như cần phải cảnh giác công chúng trước ý đồ xảo quyệt của các Tiểu luận này; mà chúng ta có lý do để nghĩ rằng, những người liên quan đến việc tái bản tác phẩm ở xứ này đã không biết. Thật vậy, tác giả tài tình ấy, không bao giờ đưa chủ đề mặc khải thiêng liêng trực tiếp vào tầm nhìn, trong mọi điều ông đã viết; và tôi tin rằng, từ "phép lạ" không xuất hiện trong cả hai tập ông đã xuất bản; tuy nhiên, sự thật là, trong tiểu luận cuối cùng của ông, ông đã hồi sinh, về thực chất, luận cứ nổi tiếng của Hume, về phép lạ; và đã, với sự xảo quyệt còn che giấu hơn cả kẻ vô thần lừng danh ấy đã dùng, cố gắng chứng minh rằng không lời chứng nào, dù mạnh mẽ đến đâu, đủ để thiết lập một sự kiện hàm ý một sự chệch khỏi tiến trình đều đặn của các định luật Tự nhiên. Nhưng để tôi không bị nghi là xuyên tạc tình cảm của tác giả sáng suốt và phổ biến này, tôi sẽ trích vào đây một đoạn, từ Tiểu luận đã nêu, chứa đựng thực chất của toàn bộ luận cứ.
 
@@ -1000,7 +1016,7 @@ Và ông tự tin đến nỗi đây là ý nghĩa thật của từ không th�
 
 Kết luận hợp lý về chủ đề này là, mọi sự đều có thể đối với Đức Chúa Trời, và bất cứ điều gì có thể đều có thể được tin trên lời chứng đầy đủ; tuy nhiên, lời chứng ấy phải mạnh, tương xứng với mức độ khó tin của biến cố cần được xác nhận.
 
-## GHI CHÚ B.
+GHI CHÚ B.
 
 Mô-ha-mét khẳng định rằng trong khi ông đang ở trên giường một đêm nọ, thiên sứ Gáp-ri-ên gõ cửa ông, và khi ông đi ra, ông thấy thiên sứ với bảy mươi đôi cánh xòe rộng, trắng hơn tuyết, và trong hơn pha lê. Thiên sứ báo cho ông biết rằng mình đến để dẫn ông lên trời; và bảo ông cưỡi một con vật, đang đứng sẵn ở cửa, có bản tính giữa lừa và la. Tên của con thú này là Alborak, màu trắng hơn sữa, và nhanh như chớp. Nhưng khi nhà tiên tri đến để cưỡi, con vật tỏ ra bướng bỉnh, và ông không thể ngồi lên lưng nó, cho đến khi ông hứa cho nó một chỗ trong Thiên đàng.
 
@@ -1012,10 +1028,8 @@ Sau khi được phép trò chuyện lâu với Đấng Sáng tạo, ông trở 
 
 Ở tầng trời thứ ba, ông nói, ông thấy một thiên sứ có kích thước lớn đến nỗi khoảng cách giữa hai mắt nó, là bảy mươi ngàn ngày đường. Đây là thiên sứ của sự chết, có một cái bàn lớn trước mặt trên đó nó luôn viết và xóa; bất cứ khi nào một tên bị xóa, người ấy lập tức chết. Ông cũng nói về một thiên sứ khác, ở tầng trời thứ sáu; có bảy mươi ngàn cái đầu và bấy nhiêu cái lưỡi.
 
-## GHI CHÚ C.
+GHI CHÚ C.
 
 Ông Abbe Paris là con trai cả của một cố vấn tại Paris, nhưng vì rất ham thích đời sống sùng đạo, ông đã nhường gia tài cho em trai, và lui về một nơi khuất nẻo ở Paris, nơi ông sống đời khổ hạnh nghiêm ngặt, và làm việc từ thiện, để cứu giúp những người nghèo khốn khổ. Ông được chôn trong khuôn viên nhà thờ Thánh Medard, gần bức tường, nơi anh em ông dựng một bia mộ trên nấm mồ. Đến nơi này nhiều người nghèo, biết lối sống của ông, đến thực hiện việc sùng kính của họ, có lẽ vì lòng biết ơn, cũng như vì bất cứ điều gì khác. Một số trong những người sùng đạo đến nơi này, xưng rằng họ đã trải qua một sự thay đổi có lợi trong bệnh tật của mình. Việc này đồn ra, vì Abbe vốn là một người theo phái Jansen nhiệt thành, mọi người thuộc phe này đều khuyến khích ý tưởng về những phép lạ đã được thực hiện; và đám đông người ốm đau, được xui đi đến mộ của vị thánh; và một số, như họ đã thú nhận trước một tòa án có thẩm quyền, đã bị thuyết phục giả vờ những bệnh mà họ chưa bao giờ mắc. Tuy nhiên, sự thật là phần lớn không nhận được lợi ích nào, và số bệnh tật gây ra còn nhiều hơn số được chữa; vì, chẳng bao lâu, nhiều người thờ phượng bị co giật, từ đó nảy sinh phái Co giật (Convulsionist), thu hút sự chú ý trong nhiều năm. Chẳng bao lâu người ta thấy cần phải đóng mộ lại; nhưng người ta vẫn nói vị thánh chữa bệnh, cho những người ở những nơi xa. Các tu sĩ Dòng Tên đã nỗ lực để làm mất uy tín toàn bộ sự việc, và Tổng Giám mục Paris đã cho mở một cuộc điều tra tư pháp về một số trường hợp đáng chú ý nhất, kết quả thì đủ loại, và thường nực cười. Một thiếu nữ, được nói là đã được chữa khỏi mù và què tại mộ, đã được chứng minh là chưa bao giờ mù hay què. Một người đàn ông bị bệnh mắt được thuyên giảm, nhưng hóa ra lúc ấy ông đang dùng thuốc mạnh, và rốt cuộc, mắt ông vẫn chưa lành hẳn. Một vị Abbe nọ có bất hạnh một chân ngắn hơn chân kia, đã tin chắc rằng mình cảm nhận được sự dài ra rõ rệt của chi bị khuyết, nhưng khi đo thì không thấy tăng chút nào. Một phụ nữ trong hoàn cảnh tương tự nhảy múa trên mộ hằng ngày, để được dài ra chi bị khuyết, và tin chắc rằng mình nhận được lợi ích; nhưng người ta xác định rằng bà sẽ phải nhảy ở đó năm mươi bốn năm, trước khi việc chữa lành hoàn tất, theo tốc độ nó đang tiến triển; nhưng đối với vị Abbe bất hạnh, sẽ cần bảy mươi hai năm. Tóm lại, toàn bộ số ca chữa lành, sau khi tra xét, giảm xuống còn tám hay chín, mà tất cả đều có thể dễ dàng giải thích, trên những nguyên tắc tự nhiên; và trong một số trường hợp này, những ca chữa lành đã không hoàn hảo.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 1. Scripture quotations rendered in Bản Dịch Mới 2010 style by sense; 67 [NEEDS REVIEW] flags mark quotes needing verification against the printed BDM2010. 2. "deism/deists" had no glossary entry; normalized throughout to "thuyết tự nhiên thần luận" / "người tự nhiên thần luận". 3. "inspiration" → "sự linh cảm" (plenary → "trọn vẹn"); "revelation" → "sự mặc khải"; "Mohammed" → "Mô-ha-mét". 4. Source OCR typos reconstructed by evident sense (e.g., "merciless liana"→"merciless hand", "he puked an utter superiority"→"united", "Dr. Charming" kept as printed, likely Channing); source citation errors preserved as printed (e.g., Jer. xxvi. 29). 5. CCEL "References" URL dump and print-edition page index omitted as non-content.
 
 Mở trong trình đọc Về thư viện

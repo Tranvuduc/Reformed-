@@ -44,8 +44,6 @@ CHƯƠNG VII.
 
 Kết luận. Lời gửi đến các linh mục La-mã, đến các thành viên thường của Hội Thánh La-mã, và đến các tín đồ Tin Lành (tr. 112)
 
----
-
 CHƯƠNG I.
 
 CHỦ NGHĨA PHA-RI-SI TRONG VÒNG NGƯỜI DO THÁI — NÓ ĐÃ GIỮ DÂN CHÚNG TRONG SỰ DỐT NÁT VỀ LỜI ĐỨC CHÚA TRỜI NHƯ THẾ NÀO. Trong những ngày Ngài còn sống trên đất, Chúa Giê-xu Christ đã cáo buộc những người giải thích Luật Môi-se rằng họ đã cướp lấy chìa khóa của sự hiểu biết. Họ đã tước khỏi dân chúng những phương tiện để đạt được sự hiểu biết về vương quốc Đức Chúa Trời.
@@ -465,11 +463,5 @@ Nhưng Kinh Thánh vẫn bày tỏ nguồn gốc từ trời của mình bằng 
 Trên hết mọi sự, mỗi người trong các bạn hãy làm công việc chắc chắn cho cõi đời đời cho linh hồn mình. Đừng chỉ là những tín đồ suy đoán, mà hãy đưa mọi điều vào thực hành. Hãy sống theo các điều răn của Kinh Thánh thánh; hãy sống bởi đức tin của Con Đức Chúa Trời; hãy sống cho sự vinh hiển của Đấng đã mua bạn bằng huyết Ngài. Rồi khi đời bạn đã qua hết, và bạn sẽ bước vào trạng thái vô hình, không gì xảy ra trên đất sẽ cho bạn niềm vui chân thật hơn, hơn bất cứ phần nào bạn có thể đã có trong việc xây dựng vương quốc ấy, là sự công bình và sự bình an, và sự vui mừng trong Đức Thánh Linh.
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Chương 3: từ Hy Lạp trong chú thích Douay về "Do penance / Penitentiam agite" bị OCR làm hỏng không đọc được ("fxsra-tosctf") → đánh dấu [NEEDS REVIEW], giữ nguyên ý "làm việc đền tội". - Chương 7: niên hiệu trong trích dẫn Giáo hoàng Pi-út VI bị OCR hỏng ("m8", có thể là 1778) → đánh dấu [NEEDS REVIEW]. - "tình trạng ân sủng" (Chương 2, trích giáo luật Công đồng Trente: "if he dies in a state of grace") được giữ nguyên thay vì "ân điển", vì đây là thuật ngữ kỹ thuật của Công giáo La-mã ("state of grace") đang được trích dẫn phê phán, không phải giáo lý của tác giả. - "Papists/Romanists" dịch nhất quán là "người Công giáo La-mã"; "Popery" là "chủ nghĩa Giáo hoàng"; "Romish" là "La-mã"; "Rô-ma" dùng cho tên thành phố và Hội Thánh Rô-ma. "Douay", "Vulgate", "Index", "anathema sit" giữ nguyên danh từ riêng/Latin. - "sự chuộc tội" (atonement), "sự tuyển chọn" (election), "sự tiền định" (predestination) không xuất hiện vì nguyên tác không bàn đến các thuật ngữ này. - Không có vấn đề thuật ngữ nào khác.
 
 Mở trong trình đọc Về thư viện

@@ -416,6 +416,4 @@ Có hai [lời bào chữa] có vẻ hợp lý mà những kẻ [nói nghịch l
 
 [HẾT — phần cuối sách bị OCR hỏng không phục hồi được.]
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "Thiên Chúa giáo" không xuất hiện trong bản dịch (0 lần); "Thiên Chúa" cũng 0 lần. - "thánh lễ" được dùng cho "sacrament" theo chuẩn dự án (các chỗ mô tả Công giáo giữ nguyên ý). - "báp-têm" được dùng nhất quán cho baptism; "rửa tội" 0 lần trong thân bản dịch. - Một số câu Kinh Thánh 1934 được diễn đạt lại cho trôi chảy; các trích dẫn có [NEEDS REVIEW] là nơi OCR mờ không xác minh được số câu/chương — cần David đối chiếu khi duyệt. - "Giáo phái" dùng cho "sect"; "sự hiền lành" cho "meekness"; "tâm thần yên lặng" cho "quietness of spirit". - Các từ La-tinh/Hy Lạp trong bản gốc (ví dụ "Spernere se sperni", "Oderint dum metuant", "Deus Optimus... Maximus", "Mala enim et impia consuetudo...") được giữ nguyên kèm dịch nghĩa; chỗ OCR hỏng đánh dấu [NEEDS REVIEW]. - Số lượng cờ [NEEDS REVIEW]: 717 (tập trung ở phần bài giảng đính kèm cuối sách, nơi OCR hỏng nặng nhất).
-
 Mở trong trình đọc Về thư viện

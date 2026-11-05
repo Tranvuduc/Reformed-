@@ -810,8 +810,4 @@ Rồi để loài người hay ma quỷ tấn công! Mạnh trong sức Ngài, c
 
 HẾT.
 
---- TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Các cờ [NEEDS REVIEW] trong bản dịch đánh dấu: (1) những đoạn OCR hỏng nặng phải dịch theo ngữ cảnh (đoạn Chủ Nhật 10/12 về các nhà thờ từ chối); (2) các ngày tháng OCR sai thứ tự, đã hiệu chỉnh theo trình tự nhật ký (22/1, 6/3, 7/3, 8/3, 24/3, 26/3, 24/2/1739, 26/2/1739, 1/4, 13/4, 18/4, 23/4, 26/4, 28/4, 27/5, 29/5); (3) các địa danh/tên người OCR hỏng chưa chắc: Bussleton ("BuJJleton"), Aust ("Afc^<3!/^"), Chalford ("Chnffcrd"), Oxenhall ("Oxnewll"), mục sư Pancefopt ("Pamcefopt"), mục sư Stonehouse ("J/^wf/^wz/^j"), ngày giảng lại tại Hitchin (OCR hỏng). - "Priest" (chức linh mục Hội Thánh Anh) dịch là "linh mục"; "ordained Priest" là "được phong chức linh mục"; "Imposition of Hands" là "sự đặt tay" — nhất quán với bản dịch #814. - "Society" (hội nhóm Giám Lý) dịch là "Hội nhóm"; "Love-Feast" là "Bữa tiệc yêu thương"; "expounded" là "giải nghĩa Kinh Thánh". - Các trích dẫn Kinh Thánh dịch theo văn phong Kinh Thánh 1934, địa chỉ Việt hóa (ví dụ: Giăng 3:16 → Giăng 3:16; 1 Cô-rinh-tô 2:14; Thi Thiên 115:1). - Bản dịch: Muse (AI, chưa duyệt).
-
 Mở trong trình đọc Về thư viện

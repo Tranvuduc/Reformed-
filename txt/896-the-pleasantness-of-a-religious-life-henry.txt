@@ -712,8 +712,4 @@ Tình yêu đối với Đức Chúa Trời trong đời này là... [NEEDS REVI
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES - Không có vấn đề thuật ngữ thật sự nào trong bản dịch: 16 thuật ngữ chuẩn của dự án (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh) được dùng nhất quán; Kinh Thánh theo văn phong 1934 với địa chỉ câu Việt hóa (Châm Ngôn, Thi Thiên, Ê-sai, Giăng, Rô-ma, Ma-thi-ơ...). - Lưu ý: bản OCR nguồn (djvu.txt của bản in năm 1714) bị hỏng nặng ở nhiều đoạn (chữ in cổ, trang trí, tiêu đề trang); những chỗ không đọc được đã được đánh dấu [NEEDS REVIEW] thay vì bịa nội dung, theo đúng quy tắc. Một số địa chỉ câu Kinh Thánh trong OCR bị sai số câu/chương (ví dụ Thi Thiên 32:6 thực ra là 92:6; Ê-sai 16:36:3 thực ra là 38:3; 2 Sam 13:4 trích đúng ngữ cảnh) — đã hiệu đính theo ngữ cảnh khi chắc chắn, các trường hợp không chắc chắn giữ nguyên dạng OCR và gắn cờ.
-
 Mở trong trình đọc Về thư viện

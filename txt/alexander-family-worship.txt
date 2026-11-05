@@ -792,22 +792,4 @@ Chúng ta quá dễ yên nghỉ thỏa mãn với việc tránh tội của nh�
 
 HẾT.
 
-TERMINOLOGY ISSUES
-
-1. Lời Kinh Thánh theo trí nhớ (14 điểm): Mọi câu trích Kinh Thánh ghi "[NEEDS REVIEW: lời văn theo trí nhớ]" — Thi-thiên 78:4, 133; Ma-thi-ơ 5:23-24; Ê-phê-sô 5:25, 33; 6:1-9; Cô-lô-se 3:18-22; 1 Phi-e-rơ 3:8; Rô-ma 12:10; Thi-thiên 67:5-7; Ê-sai 65:22-23; 59:21; 54:13; Phục-truyền Luật-lệ Ký 6:7-9; Thi-thiên 90:1 — đều được dịch theo trí nhớ bản Kinh Thánh 1934. Cần đối chiếu từng chữ với bản in 1934 trước khi xuất bản.
-
-2. Lỗi địa chỉ câu gốc trong bản tiếng Anh (giữ nguyên theo nguồn, đã ghi chú tại chỗ): - Bản gốc ghi Ma-thi-ơ 6:8, nhưng câu trích ("Hãy xin, sẽ được") thuộc Ma-thi-ơ 7:7. - Bản gốc ghi 1 Ti-mô-thê 2:10, nhưng câu trích thuộc 1 Ti-mô-thê 2:1. - Bản gốc ghi Đa-ni-ên 10:14 cho lời cầu nguyện thống thiết vì dân sự; lời cầu nguyện ấy chép ở Đa-ni-ên 9. - Chú thích gốc bị nhiễu OCR; câu "Kính sợ Đức Giê-hô-va là khởi đầu sự khôn ngoan" là Châm-ngôn 9:10.
-
-3. Địa chỉ không rõ trong bản gốc (4 điểm): Châm-ngôn 14:31; Ga-la-ti 2:10; Thi-thiên 66:8; Giô-suê 2:17 (sợi chỉ đỏ của Ra-háp) — địa chỉ do người dịch suy luận từ nội dung, bản gốc ghi không rõ.
-
-4. Tên thánh ca Đức của Paul Speratus bị nhiễu OCR (CHƯƠNG XVI) — cần kiểm lại nguyên văn tiếng Đức.
-
-5. Câu thơ trích cuối CHƯƠNG XV — nguồn gốc câu trích chưa xác định trong bản OCR.
-
-6. Thuật ngữ glossary: "Tin Lành" chỉ dùng để chỉ đạo Tin Lành (tôn giáo), chưa bao giờ dùng cho Phúc Âm; "giáo hội cao" dịch "high-church" (Anglican) trong CHƯƠNG XV, không phải vi phạm Hội Thánh. Ba thuật ngữ không xuất hiện (sự chuộc tội, sự tuyển chọn, sự tiền định) vì bản gốc không bàn đến.
-
-7. Đoạn về chế độ nô lệ (CHƯƠNG V) được dịch trung thực, không thêm bớt, theo đúng quy tắc.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

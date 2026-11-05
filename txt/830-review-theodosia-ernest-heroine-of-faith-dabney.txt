@@ -446,10 +446,4 @@ PHẦN ĐÍNH CHÍNH.
 
 Trang 6, dòng 7, đọc, "Ne sutor ultra crepidam." " 15, dòng 9, đọc, "Henricians." " 29, dòng 9, đọc, "Translators." " 56, dòng 8, đọc, "Jew." " 64, dòng 5 từ dưới lên, đọc, "Rom. xi: 17-24." " 76, dòng 10 từ dưới lên, đọc, "which." " 76, dòng 6 từ dưới lên, đọc, "wedding." " 89, dòng cuối, đọc, "of one." " 116, giữa, đọc, "Theodosia;" " 126, dòng 12, đọc, "ingenious."
 
----
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Thuật ngữ "Immersionist(s)" được dịch là "người theo phái Nhúng Mình" (không phải "Baptist") theo ý đồ luận chiến của Dabney; "Baptist" khi xuất hiện riêng được giữ là "Baptist". - "Paedobaptist(s)" → "người theo phái Báp-têm trẻ em"; "close communion" → "thông công hạn hẹp"; "open communion" → "thông công mở rộng". - "ordinance" → "thánh lễ" (theo quy ước dự án cho sacraments/ordinances); "means of grace" → "phương tiện ân điển". - Các địa chỉ Kinh Thánh đã Việt hóa (Ma-thi-ơ, Giăng, Công-vụ, Rô-ma, v.v.). Các câu trích dẫn giữ văn phong tương đương Kinh Thánh 1934; một số câu Dabney trích theo KJV được dịch sát nghĩa, đánh dấu [NEEDS REVIEW] nếu cần đối chiếu BDM2010. - [NEEDS REVIEW] tại 4 điểm OCR hỏng nặng: (1) Nê-hê-mi 23:23-27 — sách Nê-hê-mi chỉ có 13 chương, có lẽ là Nê-hê-mi 13:23-27; (2) "Sunfs Bible Baptist" — tên tác giả có thể bị OCR hỏng; (3) "Credat Judaeus Apella: non Ego" — OCR ghi "Oredat"; (4) đoạn cuối chương XI (trang 144-145) OCR nhiễu nặng, đã tái dựng theo ngữ cảnh và đánh dấu rõ. - Một khối trùng lặp trang 68-71 (lỗi quét OCR, lặp nguyên văn) chỉ dịch một lần để tránh trùng lặp vô nghĩa. - Giữ nguyên các thuật ngữ Latin/Hy Lạp (ad captandum vulgus, nom de guerre, oikos/oikia, baptizo, en, beth) như bản gốc.
-
 Mở trong trình đọc Về thư viện

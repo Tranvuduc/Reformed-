@@ -6,11 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Rô-ma Chống Kinh Thánh, Kinh Thánh Chống Rô-ma
-
-**Nguyên tác:** "Rome against the Bible, and the Bible against Rome; or, Pharisaism, Jewish and Papal" — William S. Plumer, D.D. (1854) **Nguồn:** https://archive.org/download/romeagainstbible00plum/romeagainstbible00plum_djvu.txt *(Ghi chú: nguồn _djvu.txt là OCR cả cuốn sách do American Baptist Publication Society ấn hành năm 1854. Đã loại bỏ boilerplate archive.org, mục lục, tiêu đề trang chạy lặp và quảng cáo; các lỗi OCR hiển nhiên đã sửa lặng lẽ, ví dụ "CHAPTER IT." là "CHAPTER IV.".)*
-
----
+Nguyên tác: "Rome against the Bible, and the Bible against Rome; or, Pharisaism, Jewish and Papal" — William S. Plumer, D.D. (1854) Nguồn: https://archive.org/download/romeagainstbible00plum/romeagainstbible00plum_djvu.txt (Ghi chú: nguồn _djvu.txt là OCR cả cuốn sách do American Baptist Publication Society ấn hành năm 1854. Đã loại bỏ boilerplate archive.org, mục lục, tiêu đề trang chạy lặp và quảng cáo; các lỗi OCR hiển nhiên đã sửa lặng lẽ, ví dụ "CHAPTER IT." là "CHAPTER IV.".)
 
 RÔ-MA CHỐNG KINH THÁNH,
 
@@ -28,11 +24,9 @@ AMERICAN BAPTIST PUBLICATION SOCIETY, ARCH STREET, PHILADELPHIA.
 
 In theo Đạo luật Quốc hội, năm 1854, bởi AMERICAN BAPTIST PUBLICATION SOCIETY, tại Văn phòng Lục sự của Tòa án Quận Hoa Kỳ, khu vực Đông Pennsylvania.
 
----
+CHƯƠNG I.
 
-## CHƯƠNG I.
-
-### CHỦ NGHĨA PHA-RI-SI TRONG VÒNG NGƯỜI DO THÁI — NÓ ĐÃ GIỮ DÂN CHÚNG TRONG SỰ DỐT NÁT VỀ LỜI ĐỨC CHÚA TRỜI NHƯ THẾ NÀO.
+CHỦ NGHĨA PHA-RI-SI TRONG VÒNG NGƯỜI DO THÁI — NÓ ĐÃ GIỮ DÂN CHÚNG TRONG SỰ DỐT NÁT VỀ LỜI ĐỨC CHÚA TRỜI NHƯ THẾ NÀO.
 
 Trong những ngày Ngài còn ở trong xác thịt, Chúa Giê-xu Christ đã buộc tội những người giảng giải luật pháp Môi-se rằng họ đã lấy mất chìa khóa của sự hiểu biết. Họ đã tước đoạt khỏi dân chúng phương tiện để đạt đến sự hiểu biết về vương quốc Đức Chúa Trời.
 
@@ -82,9 +76,9 @@ Chính về những người này mà Đấng Cứu Thế của chúng ta đã p
 
 Có gì lạ đâu khi vị Thầy vĩ đại không thể sai lầm đã tuyên bố nhiều sự khốn nạn trên những người này? Họ và những kẻ theo họ đã bị chai cứng ghê gớm bởi mọi sự xuyên tạc Kinh Thánh của họ, và bởi mọi sự chống đối những lời dạy rõ ràng của lời Đức Chúa Trời. Một linh hồn đắm trong sự giả dối và chết trong sự vô tín thì thật đáng thương. Rất ít người trong các thủ lãnh của những sai lầm này được cải đạo bởi các phép lạ và sự giảng dạy của Đấng Cứu Thế chúng ta. Những kẻ thâu thuế và gái điếm đã vào nước Đức Chúa Trời trước họ. Sự cải đạo của những tội nhân lớn dường như cũng không gây ấn tượng tốt nào cho tâm trí họ. Họ đã bị chai cứng trong sự kiêu ngạo.
 
-## CHƯƠNG II.
+CHƯƠNG II.
 
-### NGƯỜI LA MÃ THỰC HÀNH CÁC THỦ ĐOẠN CỦA NHỮNG NGƯỜI ĐI TRƯỚC DO THÁI CỦA HỌ, VÀ VỚI HIỆU QUẢ TƯƠNG TỰ.
+NGƯỜI LA MÃ THỰC HÀNH CÁC THỦ ĐOẠN CỦA NHỮNG NGƯỜI ĐI TRƯỚC DO THÁI CỦA HỌ, VÀ VỚI HIỆU QUẢ TƯƠNG TỰ.
 
 Chủ nghĩa Pha-ri-si rất hợp với tâm trí xác thịt của loài người. Những thầy dạy giả dối trong thời Đấng Cứu Thế của chúng ta đã được các thừa tác viên của Kẻ Chống Đấng Christ noi theo sát sao. Mọi nguyên tắc cốt yếu của trường phái Pha-ri-si xưa đều được hồi sinh trong hội thánh Rô-ma. Giáo hoàng, các Giám mục và Linh mục của ông ta thực hành gần như cùng những thủ đoạn như các thầy thông giáo và thầy dạy luật xưa, và với gần như cùng ý đồ và hiệu quả.
 
@@ -126,9 +120,9 @@ Một hệ thống tôn giáo như vậy tự nhiên sẽ có bạn bè trong nh
 
 Đã dễ dàng truy vết những sự giống nhau này giữa Giáo hoàng chế và những sai lầm Do Thái xưa xa hơn nữa. Nhưng đã nói đủ để cho thấy sự đồng ý thực chất của chúng, và nhất là sự trái ngược hoàn toàn của chúng với Kinh Thánh thánh, lời Đức Chúa Trời hằng sống và hằng còn đời đời. Sự giống nhau giữa chủ nghĩa Pha-ri-si trong Hội Thánh Do Thái và trong sự thông công Giáo hoàng đã được truy vết vắn tắt, những điều khác bây giờ sẽ đòi sự chú ý của chúng ta.
 
-## CHƯƠNG III.
+CHƯƠNG III.
 
-### NGƯỜI LA MÃ VƯỢT QUA NGƯỜI PHA-RI-SI, VÀ THÙ ĐỊCH VỚI VIỆC SỬ DỤNG TỰ DO VÀ LƯU HÀNH RỘNG RÃI LỜI ĐỨC CHÚA TRỜI.
+NGƯỜI LA MÃ VƯỢT QUA NGƯỜI PHA-RI-SI, VÀ THÙ ĐỊCH VỚI VIỆC SỬ DỤNG TỰ DO VÀ LƯU HÀNH RỘNG RÃI LỜI ĐỨC CHÚA TRỜI.
 
 Hội thánh Rô-ma vượt xa người Pha-ri-si xưa, trong việc lấy mất chìa khóa của sự hiểu biết. Theo chỗ chúng ta biết, họ chưa bao giờ ngăn ai sở hữu hay đọc Kinh Thánh. Nhưng bà thì thù địch với việc sử dụng tự do và lưu hành rộng rãi chúng. Đây là một lời buộc tội nặng nề, nhưng không phải buộc tội khinh suất. Nếu nó đúng, thì tin và công bố nó không phải là thiếu lòng bác ái. Rằng nó đúng, bây giờ sẽ được chứng minh.
 
@@ -174,9 +168,9 @@ Về đề tài này chúng ta có thể nói chắc chắn với Walton, Bochar
 
 Vì còn nhiều bằng chứng nữa về sự thật của lời buộc tội này, chống Hội Thánh Rô-ma, nên có thể làm nhẹ nhõm cho độc giả khi chúng được trình bày trong chương tiếp theo.
 
-## CHƯƠNG IV.
+CHƯƠNG IV.
 
-### CÙNG ĐỀ TÀI TIẾP TỤC — NHỮNG BẰNG CHỨNG BỔ SUNG.
+CÙNG ĐỀ TÀI TIẾP TỤC — NHỮNG BẰNG CHỨNG BỔ SUNG.
 
 Vì lời buộc tội thù địch với việc sử dụng tự do và lưu hành rộng rãi Lời Đức Chúa Trời là một trong những lời buộc tội nặng nề nhất có thể đưa ra chống bất cứ nhóm người nào xưng là Cơ Đốc nhân, nên không nên đưa ra trừ khi có thể chứng minh ngoài mọi nghi ngờ hợp lý. Vì vậy bằng chứng bổ sung được đưa ra trong chương này.
 
@@ -242,9 +236,9 @@ Tháng 11, 1842, có một cuộc đốt Kinh Thánh lớn bởi các Linh mục
 
 Tôi đã khởi sự để chứng minh rằng Hội Thánh Rô-ma đang, và từ lâu đã, thù địch với việc sử dụng tự do và lưu hành rộng rãi lời Đức Chúa Trời. Các tài liệu cũ và mới, Âu châu và Mỹ, đã được trình cho bạn. Bạn phải phán xét về sự thích hợp và trọng lượng của chúng. Đối với tôi, chúng có tính kết luận và áp đảo, và thiết lập lời buộc tội ngoài mọi nghi ngờ hợp lý. Hội Thánh Rô-ma, trong phạm vi có thể, loại mọi Kinh Thánh khỏi các trường học, bà lên án mọi Hội Thánh Kinh, bà đặt thanh gươm cháy của thẩm quyền cấm của mình trước câu đầu tiên của Sáng Thế Ký, cảnh cáo mọi người của bà không được đọc chính các bản dịch của bà nếu không có phép. Bà là một Hội Thánh ghét Kinh Thánh, đốt Kinh Thánh. Bà từ lâu đã và vẫn là như vậy. Bà đã lấy mất chìa khóa của sự hiểu biết. Khi con cái bà xin bánh bà cho chúng đá; khi chúng xin trứng, bà cho chúng bọ cạp. Khi chúng khao khát lời thánh của Đức Chúa Trời, bà cho chúng xe chở đầy truyền thống, những chuyện hoang đường dại dột, các sắc chỉ, các sắc lệnh ngoại lệ, các thông điệp, tràng hạt, tượng chịu nạn, và những hàng hóa tương tự. Tàn nhẫn, tàn nhẫn thay Rô-ma!
 
-## CHƯƠNG V.
+CHƯƠNG V.
 
-### SỰ CHỐNG ĐỐI NÀY LÀ VÔ LÝ VÀ PHI KINH THÁNH.
+SỰ CHỐNG ĐỐI NÀY LÀ VÔ LÝ VÀ PHI KINH THÁNH.
 
 Bây giờ sẽ cho thấy rằng sự thù địch của Hội Thánh Rô-ma đối với việc sử dụng tự do và lưu hành rộng rãi Kinh Thánh là vô lý và phi Kinh Thánh. Một đồng bào của chúng ta đã nói hay: "Tôi lấy làm lạ, và luôn lấy làm lạ rằng người Công Giáo, trong việc cấm sử dụng tự do và lưu hành Kinh Thánh, đã không trừ ra các thư của Thánh Phi-e-rơ. Đã từng có người Công Giáo nào bị cấm đọc thư của một Giáo hoàng! Tôi tin là không. Nhưng nếu họ có thể và nên đọc các Thông Điệp của các Giáo hoàng, tại sao không để họ đọc các 'Thư Chung' của vị Giáo hoàng đầu tiên, Phi-e-rơ? Tại sao đọc thư của Giáo hoàng Phi-e-rơ lại phạm tội hơn đọc thư của Giáo hoàng Grê-gô-ri-ô? Tôi không thể giải thích được."
 
@@ -312,9 +306,9 @@ Thật lạ khi chúng ta bị bắt buộc phải luận dài dòng một đi�
 
 Và bây giờ há chẳng phải đã được chứng minh bởi Môi-se, bởi Giô-suê, bởi Đa-vít, bởi Chúa Giê-xu Christ, bởi Lu-ca, bởi Phao-lô, bởi Phi-e-rơ, và bởi Giăng, rằng đó là đặc ân và bổn phận của mọi người, tùy khả năng, có và đọc lời phước hạnh của Đức Chúa Trời sao? Còn có thể có luận cứ nào Kinh Thánh hơn, kết luận hơn luận cứ được rút ra công bằng từ các văn bản đã trích chăng? Thật vậy, Tillotson đã nói hay khi ông nói: "Đó là một tình cảnh khó khăn mà Hội Thánh Rô-ma bắt người ta chịu, là không cho họ sự cứu rỗi nào ngoài Hội Thánh mình, cũng không cho phương tiện cứu rỗi tốt nhất và hiệu quả nhất khi ở trong nó."
 
-## CHƯƠNG VI.
+CHƯƠNG VI.
 
-### SỰ CHỐNG ĐỐI NÀY BỊ TIẾNG NÓI CỦA THỜI CỔ LÊN ÁN.
+SỰ CHỐNG ĐỐI NÀY BỊ TIẾNG NÓI CỦA THỜI CỔ LÊN ÁN.
 
 Sự thù địch của Hội Thánh Rô-ma đối với việc sử dụng tự do và lưu hành rộng rãi Kinh Thánh thánh, cũng trái với việc thực hành của Hội Thánh đầu tiên, và những lời dạy của các giáo phụ xưa. Các Linh mục Công Giáo Rô-ma xưng mình bị ràng buộc phải rất kính trọng các tập tục và quan điểm của các Cơ Đốc nhân đầu tiên, và tiếp nhận với sự tôn trọng lớn lao các ý kiến của các giáo phụ. Ngay cả Công Đồng Trentô cũng xưng là "noi theo các Giáo phụ chính thống."
 
@@ -364,9 +358,9 @@ Nhưng Phi-e-rơ không nói rằng mọi điều Phao-lô nói đều "khó hi�
 
 Nhưng nếu Phi-e-rơ muốn ngăn cản việc đọc Kinh Thánh, ông đã có cơ hội tốt biết bao để nói như vậy ở đây. Thay vào đó, ông nói ngay trong câu tiếp theo: "Hãy tấn tới trong ân điển và trong sự thông biết Chúa và Cứu Chúa chúng ta là Đức Chúa Giê-xu Christ." Phi-e-rơ, chắc chắn, rất đồng ý với Phao-lô rằng "cả Kinh Thánh đều là bởi Đức Chúa Trời soi dẫn, có ích cho sự dạy dỗ, bẻ trách, sửa trị, dạy người trong sự công bình." Những sứ đồ này không bao giờ bất đồng về sự tuyệt vời của lời phước hạnh của Đức Chúa Trời. Ngay cả Rô-ma cũng không giả vờ rằng có bất cứ sự khác nhau nào giữa họ về vấn đề sống còn này.
 
-## CHƯƠNG VII.
+CHƯƠNG VII.
 
-### KẾT LUẬN. LỜI NHẮN NHỦ CÁC LINH MỤC RÔ-MA, CÁC TÍN HỮU THƯỜNG CỦA HỘI THÁNH RÔ-MA, VÀ NGƯỜI TIN LÀNH.
+KẾT LUẬN. LỜI NHẮN NHỦ CÁC LINH MỤC RÔ-MA, CÁC TÍN HỮU THƯỜNG CỦA HỘI THÁNH RÔ-MA, VÀ NGƯỜI TIN LÀNH.
 
 Tôi kết thúc cuộc thảo luận này bằng một lời nhắn nhủ gửi đến nhiều hạng người khác nhau; ước cho mỗi người mọi phước hạnh và lòng thương xót của giao ước hòa bình, và một phần trong Đấng Cứu Chuộc đáng tôn thờ.
 
@@ -433,9 +427,5 @@ Ngài Y-sác Niu-tơn nói: "Tôi thấy nhiều dấu hiệu xác thực trong 
 Nhưng Kinh Thánh vẫn chứng tỏ nguồn gốc từ trời của mình bởi những hiệu quả siêu nhiên của nó. Nó chứng minh mỗi ngày rằng nó đến từ Đức Chúa Trời. Nếu cả nhân loại, trừ một ngàn người, đều là những kẻ vô tín điên cuồng, nhìn trừng trừng vào mọi điều thánh khiết và nhân từ, và ngàn người ấy là những tín hữu nhu mì, hiền lành, khiêm nhường, ăn năn, thì sẽ có bằng chứng dồi dào trong trường hợp của mỗi người trong số họ, rằng Phúc Âm vẫn là sự khôn ngoan của Đức Chúa Trời và quyền năng của Đức Chúa Trời để cứu rỗi. Đức Chúa Trời chưa bao giờ làm cho Phúc Âm hiệu quả hơn trong việc đòi lại kẻ lang thang, trong việc thanh tẩy kẻ ô uế, trong việc cải đạo tội nhân khỏi đường lầm lạc của mình, hơn trong thế kỷ qua. Trong việc truyền bá quyển sách này, bạn không đánh vào không khí, bạn không chạy cách không chắc chắn.
 
 Trên hết mọi sự, mỗi người trong các bạn hãy làm công việc chắc chắn cho đời đời cho linh hồn mình. Đừng chỉ là những tín hữu suy đoán, mà hãy đưa mọi điều vào thực hành. Hãy sống theo các điều răn của Kinh Thánh thánh; sống bởi đức tin của Con Đức Chúa Trời; sống vì vinh hiển của Đấng đã mua bạn bằng huyết Ngài. Rồi khi đời bạn đã qua hết, và bạn sẽ bước vào cõi vô hình, không gì xảy ra trên đất sẽ cho bạn niềm vui chân thật hơn, bằng bất cứ phần nào bạn đã có trong việc xây dựng vương quốc ấy, là sự công chính và hòa bình, và sự vui mừng trong Đức Thánh Linh.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "Papists" được dịch là "người theo Giáo hoàng"/"phe Giáo hoàng"; "Popery" → "Giáo hoàng chế"; "Romish Church" → "Hội Thánh Rô-ma" (và "người Rô-ma"/"người La Mã" tùy ngữ cảnh); "Apocrypha" → "Ngụy thư"; "purgatory" → "luyện ngục"; "extravagants" → "các sắc lệnh ngoại lệ" [NEEDS REVIEW: OCR ghi "the calends of April, m8" — năm ban hành tuyên bố của Pi-ô VI về bản dịch Martini không rõ, có thể là 1778]; "admonition" → "lời khuyên"; các trích dẫn từ Kinh Thánh Douay và bản dịch tiếng Anh của tác giả đều được chuyển sang phong cách Kinh Thánh 1934. Các lỗi OCR hiển nhiên đã sửa lặng lẽ: "CHAPTER IT." → "CHAPTER IV.", "Irenams" → "Irenaeus", "Bolinbroke" → "Bolingbroke", "Hermogenes" (OCR "Herinogenes"), các tiêu đề trang chạy xen giữa câu ("disPAPISTS GO BEYOND THE PHARISEES. 7pute" → "dispute"; "the Sacred Writ[GO ROME...]nigs" → "các sách thánh").
 
 Mở trong trình đọc Về thư viện

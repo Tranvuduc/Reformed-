@@ -6,9 +6,7 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# THUỐC GIẢI ĐỘC CHO MỘT THỨ THUỐC GIẢ
-
-**Nguyên tác:** "A Counter-Antidote, to purge out the malignant Effects of a late Counterfeit. Prepared by [a person] in Polemical Cases: Being An Answer to his Vindication of his pretended Antidote, to prevent the Prevalency of Anabaptism. Shewing that Mr. Hercules Collins's Reply to the said Author remains unanswered. To which is added, An Answer to Mr. Shute's Reply to Mr. Collins's Half-sheet. With a further Detection of the Error of Pedo-Baptism. Wherein the Baptism of Believers is evinced to be God's Ordinance" — Benjamin Keach, Luân Đôn (1694)
+Nguyên tác: "A Counter-Antidote, to purge out the malignant Effects of a late Counterfeit. Prepared by [a person] in Polemical Cases: Being An Answer to his Vindication of his pretended Antidote, to prevent the Prevalency of Anabaptism. Shewing that Mr. Hercules Collins's Reply to the said Author remains unanswered. To which is added, An Answer to Mr. Shute's Reply to Mr. Collins's Half-sheet. With a further Detection of the Error of Pedo-Baptism. Wherein the Baptism of Believers is evinced to be God's Ordinance" — Benjamin Keach, Luân Đôn (1694)
 
 THUỐC GIẢI ĐỘC, Để tẩy sạch những hậu quả ác hại Của một thứ thuốc giải giả mạo gần đây. [NEEDS REVIEW: dòng ghi "Prepared by" bị hỏng trong bản OCR] LÀ Một câu trả lời cho lời biện hộ của ông ta về thứ thuốc giải giả hiệu của mình, nhằm ngăn chặn sự lan tràn của chủ nghĩa Báp-têm người lớn (Anabaptism). Cho thấy rằng lời đáp của ông Hercules Collins gửi cho tác giả nói trên vẫn chưa được trả lời. Kèm theo đó là một câu trả lời cho lời đáp của ông Shute gửi cho tờ Truyền đơn của ông Collins. BỞI BENJAMIN KEACH. Luân Đôn: In cho H. Bernard [NEEDS REVIEW: địa chỉ nhà in bị hỏng trong bản OCR], năm 1694.
 
@@ -1065,9 +1063,5 @@ Lập luận 27. Nếu phép báp-têm là sự nhúng chìm, như ý nghĩa ri�
 4. Ý nghĩa thiêng liêng của nó là [NEEDS REVIEW: cụm từ bị hỏng — có lẽ "sự chết, sự chôn và sự sống lại của Đấng Christ"], và sự chết của chúng ta đối với tội lỗi, và sự sống lại trong sự mới của sự sống.
 
 Đã vậy, suy ra không thể chối cãi rằng việc rảy nước không thể là phép báp-têm thật của Đấng Christ; nó phải là sự nhúng chìm, chứ không phải gì khác. Và cuối cùng, để xác nhận rằng Baptizo là nhúng, cả từ ý nghĩa theo nghĩa đen lẫn ý nghĩa thiêng liêng của nó, cũng như từ những phép báp-têm theo hình bóng và bóng bẩy được nhắc trong Kinh Thánh, tôi có thể thêm nữa rằng điều này bày tỏ rõ ràng từ thực hành của Giăng Báp-tít và các sứ đồ của Đấng Christ, là những người đã làm báp-têm trong các sông, và nơi có nhiều nước: Và cũng vì người làm báp-têm và người chịu báp-têm được nói là xuống nước (chứ không phải xuống đến mé nước), và lên khỏi nước. Giăng Báp-tít được nói là làm báp-têm cho họ trong sông Giô-đanh, như chữ Hy Lạp diễn đạt, điều ấy cho thấy đó là nhúng chìm chứ không phải rảy nước. Sẽ có hợp lý không khi nói: Ông ta đã rảy họ trong sông Giô-đanh? Xin Chúa mở mắt những kẻ không thấy, để suy xét những điều này.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: Không có vấn đề thuật ngữ thật sự nào ngoài những điểm sau, đều đã được xử lý nhất quán: "baptism" dịch là "phép báp-têm"; "pedo-baptism" dịch là "phép báp-têm trẻ em"; "sprinkling/pouring" dịch là "rảy nước/đổ nước"; "dipping/plunging/immersion/ducking" dịch là "nhúng chìm/dìm ngập"; "Anabaptist" giữ nguyên dạng "Anabaptist" vì là tên gọi lịch sử trong tranh luận thế kỷ 17; "ordinance" dịch là "thánh lễ"; "covenant of grace" dịch là "giao ước ân điển"; "covenant of works" dịch là "giao ước việc làm"; "covenant of circumcision" dịch là "giao ước cắt bì"; "habitual faith" dịch là "đức tin thường trực". Các cờ [NEEDS REVIEW] trong bản dịch đều là những chỗ bản OCR tiếng Anh bị hỏng không đọc được (chữ mất, câu đứt), không phải vấn đề thuật ngữ — người đọc nên đối chiếu với bản in gốc năm 1694 khi cần.
 
 Mở trong trình đọc Về thư viện
