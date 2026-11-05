@@ -1,11 +1,11 @@
 # Executed after nang_cap3.py: tai-sach.html (+ tai-sach.json). Client script: /tai-sach.js (hand-written, not generated).
-_ix4 = {b["file"][:-4]: b for b in _idx3}
+_ix4 = {b["file"][:-4]: b for b in _idx3 if b.get("file")}  # Wave 2: 3 live index entries have no 'file' key
 _L4 = []
 for _f in sorted(_o3.listdir("txt")):
     if not _f.endswith(".txt"): continue
     _s = _f[:-4]; _txt = open("txt/" + _f, encoding="utf-8").read()
     if _s in _ix4 and not _ix4[_s].get("hold"):
-        _b = _ix4[_s]; _t, _a, _o = _b.get("title", _s), _b.get("author", ""), _b.get("orig", "")
+        _b = _ix4[_s]; _t, _a, _o = _b.get("title") or _b.get("short") or _s, _b.get("author") or _b.get("a") or "", _b.get("orig") or (_b.get("en") or {}).get("t") or ""  # Wave 2: MG-3 entries use short/a/en.t
         _k = "goc" if _a == "David" else "dich"
     else:
         _ls = [l.strip() for l in _txt.split("\n", 12)[:10] if l.strip()]

@@ -1,4 +1,10 @@
 # Executed from build-pages.py. One page per hosted sermon (bai-giang/<slug>.html) + video page (only when tools/videos.json has items). Draft, AI-assisted, not pastor-reviewed.
+# 2026-11-05 (Batch D, H4): every teaser links to its full text at /doc/<slug>.html
+# (all 9 _SP slugs exist in doc/, which adds 2 more sermons with no teaser).
+# Nav/footer/theme chrome comes from build-pages.py page() (Batch A owns it); this
+# file only adds the body cross-link. The matching doc/ pages link back via
+# tools/build-vn-books.py (BAI_GIANG back-link). Neither family is canonicalised
+# or deleted (decision: keep both, cross-linked).
 import json as _j2
 _SP = {
  "compel-them-to-come-in": ("Lu-ca 14:23", "Chủ nhà lại biểu rằng: Hãy ra ngoài đường và dọc hàng rào, gặp ai thì ép mời vào, cho được đầy nhà ta.",
@@ -20,7 +26,7 @@ _SP = {
  "do-you-pray": (None, None,
    ["Bạn cầu nguyện riêng mỗi ngày không? Điều gì cản trở bạn?", "Trong bảy lý do của bài, lý do nào làm bạn suy nghĩ nhất?", "Bạn sẽ dành thời gian nào trong ngày để cầu nguyện, bắt đầu từ tuần này?"]),
 }
-_scss = '<style>.q{margin:12px 0;padding:10px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}.q p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}.bc{font-size:.85rem;opacity:.8}</style>'
+_scss = ''  # .q/.dr/.bc moved to s.css (2026-11-05, Batch A merge)
 _sdesc = {s: d for g, L in _SG for s, a, d in L}
 _sauth = {s: a for g, L in _SG for s, a, d in L}
 os.makedirs("bai-giang", exist_ok=True)
@@ -31,7 +37,7 @@ for _s, (_ref, _vt, _qs) in _SP.items():
           '<p class="dr">Bản tiếng Việt do AI hỗ trợ dịch, chưa được mục sư duyệt. Phần câu hỏi là gợi ý của AI. Hãy đọc với tinh thần Bê-rê và đối chiếu Kinh Thánh.</p>'
           f'<p>{E(_sdesc.get(_s, ""))}</p>'
           + (f'<h2>Kinh Thánh chính</h2><blockquote class="q"><p>{E(_vt)}</p><p><small>{E(_ref)} (Kinh Thánh Tiếng Việt 1934)</small></p></blockquote>' if _ref else '')
-          + f'<p><a class="btn" href="/reader.html?id=vn/{_s}">Đọc bài giảng</a></p>'
+          + f'<p><a class="btn primary" href="/reader.html?id=vn/{_s}">Đọc bài giảng</a> <a class="btn s" href="/doc/{_s}.html">Đọc toàn văn →</a></p>'
           '<h2>Câu hỏi thảo luận cho nhóm nhỏ</h2><ol>' + "".join(f'<li>{E(q)}</li>' for q in _qs) + '</ol>'
           '<p><a href="/bai-giang.html">← Tất cả bài giảng</a> · <a href="/cho-muc-su.html">Cách dùng cho nhóm nhỏ</a></p>')
     _pp = f"bai-giang/{_s}.html"
@@ -47,7 +53,7 @@ _vl = _j2.load(open(_vp, encoding="utf-8")) if os.path.exists(_vp) else []
 if _vl:
     _by = {}
     for _v in _vl: _by.setdefault(_v.get("topic", "Khác"), []).append(_v)
-    _vb = ('<style>.vd{margin:14px 0}.vd iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:8px}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}</style><h1>Video chọn lọc</h1><p class="dr">Các video do chủ sở hữu đăng trên YouTube. Thư viện chỉ nhúng hoặc dẫn link, không lưu lại. Nội dung do người dạy chịu trách nhiệm; hãy đối chiếu Kinh Thánh.</p>'
+    _vb = ('<style>.vd{margin:14px 0}.vd iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:8px}</style><h1>Video chọn lọc</h1><p class="dr">Các video do chủ sở hữu đăng trên YouTube. Thư viện chỉ nhúng hoặc dẫn link, không lưu lại. Nội dung do người dạy chịu trách nhiệm; hãy đối chiếu Kinh Thánh.</p>'
            + "".join(f'<h2>{E(t)}</h2>' + "".join(f'<div class="vd"><h3>{E(v["title"])}</h3><p><small>{E(v.get("by", ""))}</small></p><p>{E(v.get("note", ""))}</p><iframe src="https://www.youtube-nocookie.com/embed/{E(v["id"])}" title="{E(v["title"])}" loading="lazy" allowfullscreen></iframe></div>' for v in L) for t, L in _by.items()))
     _CH = [("BibleProject – Tiếng Việt (YouTube)", "https://www.youtube.com/@BibleProjectVietnamese", "Video hoạt hình tổng quan từng sách Kinh Thánh. Đây là kênh giải nghĩa Kinh Thánh chung, không phải kênh riêng của Cải Chánh."),
            ("Reformed Resources – God's Sovereignty in Vietnam", "https://godssovereigntyinvietnam.com/page-where-am-i/", "Trang tổng hợp tài liệu Cải Chánh tiếng Việt, gồm các bản tín điều và sách giáo lý."),

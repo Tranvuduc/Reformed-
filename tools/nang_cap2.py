@@ -3,7 +3,7 @@ import json as _j9, re as _r9, os as _o9
 _NC = ''  # .nc/.stt/.tb moved to s.css (2026-11-05)
 _DRAFT = '<p class="m">Nội dung do AI hỗ trợ soạn, chưa được mục sư duyệt. Hãy đối chiếu với Kinh Thánh và hỏi mục sư của bạn.</p>'
 _idx9 = _j9.load(open("translations/index.json", encoding="utf-8"))
-_pub9 = [b for b in _idx9 if not b.get("hold") and _o9.path.exists("translations/" + b["file"])]
+_pub9 = [b for b in _idx9 if not b.get("hold") and b.get("file") and _o9.path.exists("translations/" + b["file"])]  # Wave 2: 3 live index entries have no 'file' key (KeyError crash)
 
 # 1. Bat dau o day
 _b1 = _NC + '<h1>Bắt đầu ở đây</h1><p>Reformed Vietnam là thư viện miễn phí gồm sách, bài giảng và bản dịch Cải Chánh bằng tiếng Việt. Không bán gì, không cần tài khoản. Chọn một lối đi dưới đây tùy bạn đang ở đâu.</p>'
