@@ -6,7 +6,11 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# MỤC SƯ CẢI CHÁNH ## Bàn về bản chất của công tác mục vụ, đặc biệt trong việc dạy dỗ riêng và giáo lý vấn đáp; cùng lời xưng nhận công khai về những tội lỗi quá công khai của chúng ta Richard Baxter
+MỤC SƯ CẢI CHÁNH
+
+BÀN VỀ BẢN CHẤT CỦA CÔNG TÁC MỤC VỤ, ĐẶC BIỆT TRONG VIỆC DẠY DỖ RIÊNG VÀ GIÁO LÝ VẤN ĐÁP; CÙNG LỜI XƯNG NHẬN CÔNG KHAI VỀ NHỮNG TỘI LỖI QUÁ CÔNG KHAI CỦA CHÚNG TA
+
+Richard Baxter
 
 LỜI NÓI ĐẦU
 
@@ -957,7 +961,5 @@ Và về cách thức hãy chú ý những chi tiết này:
 (8) Nếu anh em không có thời gian để đối xử đầy đủ với từng cá nhân như đã chỉ dẫn ở đây, thì đừng bỏ qua những phần cần thiết nhất. Hãy lấy một số người trong họ cùng nhau là bạn bè, là những người sẽ không tìm cách tiết lộ điểm yếu của nhau, và nói với họ chung những điều liên quan đến tất cả. Chỉ những cuộc tra xét về tri thức và tình trạng của họ, và về sự nhận biết tội lỗi và sự khốn khổ của họ, và những chỉ dẫn đặc biệt cho họ, phải được dùng cho từng cá nhân một mình; nhưng hãy coi chừng làm qua loa nó với sự lười biếng bất trung, hay bằng cách quá ngắn gọn, mà không có sự cần thiết thật sự.
 
 12. Cuối cùng, Nếu Đức Chúa Trời cho phép anh em, hãy mở rộng lòng nhân từ của anh em đến những người thuộc hạng nghèo nhất, trước khi họ ra về. Hãy cho họ chút gì đó cho sự cứu giúp của họ và cho thời gian đã bị lấy khỏi công việc của họ như vậy, đặc biệt cho sự khích lệ của những người làm tốt nhất. Và với những người còn lại, hãy hứa với họ bấy nhiêu khi họ đã học thuộc sách giáo lý vấn đáp. Tôi biết anh em không thể cho điều mình không có, nhưng tôi nói với những người có thể. Và giờ đây, hỡi anh em, tôi đã xong với lời khuyên của mình, và để anh em thực hành. Dù kẻ kiêu ngạo có thể nhận nó với sự khinh thường, và kẻ ích kỷ và lười biếng với sự khó chịu, hay thậm chí phẫn nộ, tôi không nghi ngờ rằng Đức Chúa Trời sẽ dùng nó, bất chấp sự chống đối của tội lỗi và Sa-tan, để đánh thức nhiều tôi tớ của Ngài đến với bổn phận của họ, và thúc đẩy công việc của một sự cải cách đúng đắn; và rằng phước lành của Ngài sẽ đồng hành với công việc hiện tại, cho sự cứu rỗi của nhiều linh hồn, sự bình an của anh em là những người đảm nhận và thực hiện nó, sự khích lệ các tôi tớ Ngài khắp đất nước noi theo anh em, và sự gia tăng của sự tinh sạch và sự hiệp một của các hội thánh Ngài. A-men.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - 31 đoạn trích Kinh Thánh được đánh dấu [NEEDS REVIEW]: Baxter trích dẫn theo lối diễn ý tự do của thế kỷ 17, nên các câu Kinh Thánh được dịch theo nghĩa (phong cách Bản Dịch Mới 2010) thay vì trích nguyên văn — cần David đối chiếu khi duyệt trong app. - Các nhãn phe phái (Lutherans, Calvinists, Anabaptist, Presbyterian, Episcopalian, Independent, Prelatical, Congregational, Socinus) giữ nguyên tiếng Anh vì là tên gọi riêng của Baxter. - "Christ" đứng một mình dịch là "Christ" (chuẩn Tin Lành Việt Nam); dạng đầy đủ "Chúa Giê-xu Christ" chỉ dùng khi nguyên văn là "Jesus Christ". - Ghi chú từ bản gốc: "retaining the penitent" (§7.4, ch.2) có vẻ là lỗi in của "receiving" — đã dịch sát chữ; "mused to greater faithfulness" (Lời nói đầu) có vẻ là lỗi in của "roused" — đã dịch theo nghĩa rõ ràng. - Thuật ngữ Latinh "scientiam mediam" giữ nguyên như bản gốc.
 
 Mở trong trình đọc Về thư viện

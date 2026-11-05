@@ -1252,6 +1252,6 @@ Chúng ta có thể tin cậy… sự giúp đỡ của chúng ta chăng. 318. T
 
 …sự giống nhau cần thiết trong… của Cơ Đốc nhân… [NEEDS REVIEW: OCR].
 
-[Ghi chú của người dịch: từ đây trở đi bản scan chỉ còn là mục lục ở cuối sách — các đề mục kèm số trang, không còn văn xuôi liền mạch để dịch. Đã bỏ qua các dòng chỉ gồm số trang.] TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - 1,304 inline [NEEDS REVIEW: OCR] flags — the 1635 scan is severely damaged; every uncertain passage is flagged. This book has the heaviest OCR damage of the dot9 wave and deserves special scrutiny in final QA (cf. Keach War with the Devil 238 flags, Brooks String of Pearles 204 flags). - Scripture rendered in Vietnamese 1934 style with localized refs (Thi Thiên 42:11 etc.). - Exact 16-term glossary verified by script: 0 violations. - 0 CJK/Cyrillic characters, 0 long-s leftovers. - Chunk 9 ends with a back-of-book prose index (topic phrases translated, pure page-number listings skipped). - Source: archive.org bim_early-english-books-1475-1640_the-soules-conflict-with_sibbes-richard_1635 (genuine 1635 Sibbes sermons on Psalm 42:11).
+[Ghi chú của người dịch: từ đây trở đi bản scan chỉ còn là mục lục ở cuối sách — các đề mục kèm số trang, không còn văn xuôi liền mạch để dịch. Đã bỏ qua các dòng chỉ gồm số trang.]
 
 Mở trong trình đọc Về thư viện

@@ -38,8 +38,4 @@ Nói tóm lại, các Hội Thánh đầu tiên đã tiếp nhận, như chúng 
 
 Princeton, N. J.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - "Kinh Điển" used for "canon" (standard Vietnamese theological term); "kinh điển" lowercased when generic. - "instrumentum" kept in Latin (Tertullian's term); glossed in text as "Instrumentum" per source. - Greek/Hebrew terms in source transliterated or kept as in source. - "Hagiographa" rendered "các sách Thánh Văn" (standard Vietnamese for Ketuvim). - Source OCR noise (double-spaced letters, stray symbols like "^^^", "^■") cleaned; library due-date stamps and binder info omitted as non-content. - Scripture quotes rendered in 1934-style Vietnamese wording (approximate, per project convention); refs localized (e.g., 1 Tim. 5:18 → 1 Ti-mô-thê 5:18, 2 Pet. 3:16 → 2 Phi-e-rơ 3:16). - No [NEEDS REVIEW] flags: source ambiguities limited to OCR noise already noted.
-
 Mở trong trình đọc Về thư viện

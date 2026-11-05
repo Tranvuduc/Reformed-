@@ -620,8 +620,4 @@ Với tất cả những điều này là như thế, thì lập luận chống 
 
 * Được in trên báo The Presbyterian Banner ngày 13 tháng 11 năm 1889. * Về văn bản của những lý do này, xem trên, tr. 39.
 
-TERMINOLOGY ISSUES: - Glossary 16-term compliance verified by script: 0 violations (no "sự xưng công bình", no "sự chọn lựa"); "Tin Lành" used only for "Protestant". - 2 inline [NEEDS REVIEW] flags preserved from chunk workers: (1) source's "pretention" likely OCR error for "praeterition" (Hodge quote); (2) chunk-boundary sentence joins at pages 24 and 75-76 reconstructed from source scan. - Scripture rendered in Vietnamese 1934 style with localized references; Confession chapter refs kept as Roman numerals per original; Latin/Greek technical terms preserved. - Translated from: ON THE REVISION OF THE CONFESSION OF FAITH by Benjamin B. Warfield (Anson D. F. Randolph & Co., New York, 1890). Genuine source: archive.org item onrevisionofconf00warf.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

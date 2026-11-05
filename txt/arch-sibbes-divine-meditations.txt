@@ -686,8 +686,4 @@ Con cái Đức Chúa Trời được thêm sức trong sự sa ngã của mình
 
 334. [NEEDS REVIEW: OCR — đoạn mở đầu bị hỏng nặng trong bản quét] ...chúng ta thấy người Cơ-đốc nhân thật. Sự vận hành thấp nhất của ân điển cứu rỗi nằm trong những ước muốn thuộc linh của chúng ta, và những ước muốn này được biết là đem lại sự cứu rỗi, nếu chúng phát xuất từ sự nếm trải những điều thiêng liêng, chứ không chỉ từ cảm xúc nhất thời khi nghe Lời. Vì vậy chúng ta phải phân biệt giữa những tình cảm nhất thời bị khuấy động, và những ước muốn thật và bề trong của chúng ta; vì những tình cảm nhất thời giống như nước trong một cái bình: một khi đã nóng lên, sẽ trở lại lạnh như cũ và cứ thế.
 
-TERMINOLOGY ISSUES: - Source: genuine 1849 New York edition of Richard Sibbes' "Divine Meditations, and Holy Contemplations" (Richard Sibbes, 1577-1635, Puritan divine, St John's/Catherine Hall Cambridge, preacher at Gray's Inn — clearly Reformed). - The scan's OCR is heavily damaged throughout (misread numbers, broken lines, dropped words). ~96 [NEEDS REVIEW: OCR] flags mark passages reconstructed from context or left as best-effort; several meditations are fragmentary (e.g. 82, 144, 154, 173-176, 197-199 missing or lost in the scan; 306 unrecoverable). - Meditation numbering in the source is erratic (OCR misreads and page jumps); numbers were kept as found, with sequence corrections noted by the translators. - OCR date/name corrections from context: 1505 -> 1595 (Cambridge admission), 1636 -> 1635 (death year), "Paul Bajnes" -> Paul Baynes, "ridge" -> Cambridge. - Glossary: exact 16-term compliance verified by script — 0 violations. - Scripture in 1934 style with localized references.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

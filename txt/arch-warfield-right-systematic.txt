@@ -540,8 +540,4 @@ CHƯƠNG I. — MỞ ĐẦU. CHƯƠNG II. — TINH THẦN THUỘC LINH VÀ ĐẠ
 
 EDINBURGH T. & T. CLARK, 38 GEORGE STREET London: SIMPKIN, MARSHALL, HAMILTON, KENT & CO. LTD.
 
-TERMINOLOGY ISSUES: - Glossary 16-term compliance verified: God=Đức Chúa Trời, Jesus Christ=Chúa Giê-xu Christ, Holy Spirit=Đức Thánh Linh, gospel=Phúc Âm, grace=ân điển, faith=đức tin, justification=sự xưng công chính, sanctification=sự nên thánh, redemption=sự cứu chuộc, atonement=sự chuộc tội, covenant=giao ước, election=sự tuyển chọn, predestination=sự tiền định, salvation=sự cứu rỗi, church=Hội Thánh, Scripture=Kinh Thánh. - Không có "sự xưng công bình" / "sự chọn lựa"; "Tin Lành" chỉ dùng cho "Protestant" (1 lần ở phần 1, 1 lần ở phần 3 cho "French Protestants"). - Kinh Thánh theo phong cách Việt ngữ 1934; tham chiếu địa phương hóa (Giăng, Rô-ma, Cô-rinh-tô, Hê-bơ-rơ, v.v.). - 3 [NEEDS REVIEW] inline flags từ các thợ: (1) phần 3 — chữ Hy Lạp OCR hỏng "dA7Owds Geés" (có thể là ὁ ἀληθινὸς Θεός) và trích dẫn Hicks quá nát; (2) phần 4 — "VicaR oF CHaxront St, Perer" → "xứ Chalfont St. Peter". - Chú thích Montefiore ở phần 1 bị cắt cụt trong bản scan nguồn (trích giữa chừng) — giữ nguyên, không bịa. - Nguồn trích sai ở phần 4 đã sửa theo nội dung câu trích: "1 Cor. i. 14" → (1 Cô-rinh-tô 2:14); "Rom. vii. 28" → (Rô-ma 7:25). - Chữ Hy Lạp/Latinh/Pháp/Đức thuật ngữ giữ nguyên như bản gốc. - Nguồn: The Right of Systematic Theology, by Benjamin B. Warfield, D.D., with Introduction by Prof. J. Orr, Edinburgh: T. & T. Clark, 1897 (bản scan archive.org rightsystematic00orrgoog).
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

@@ -26,7 +26,7 @@ mà là khi nào là thời điểm tốt nhất để bắt đầu. Mọi ngư�
 
 hắn không thể biết ai sẽ thu gom chúng,
 
-cũng không tự huyễn hoặc mình rằng điều này sẽ kéo dài mãi; nhưng hy vọng như người giàu dại dột trong Phúc Âm sẽ tích trữ của cải cho thêm vài năm nữa trên đất, rồi hắn sẽ bắt đầu tích trữ kho báu trên trời. Và, nói tóm lại, hầu hết mọi người đều bị thuyết phục về sự cần thiết phải có tôn giáo vào lúc nào đó; nhưng rồi, giống như ____, họ hoãn lại
+cũng không tự huyễn hoặc mình rằng điều này sẽ kéo dài mãi; nhưng hy vọng như người giàu dại dột trong Phúc Âm sẽ tích trữ của cải cho thêm vài năm nữa trên đất, rồi hắn sẽ bắt đầu tích trữ kho báu trên trời. Và, nói tóm lại, hầu hết mọi người đều bị thuyết phục về sự cần thiết phải có tôn giáo vào lúc nào đó; nhưng rồi, giống như , họ hoãn lại
 
 việc hành động theo đúng niềm tin của mình, cho đến
 
@@ -1037,7 +1037,5 @@ và bền đỗ đến cuối cùng, để cứu
 linh hồn chúng ta,
 
 Đức Chúa Trời nào, v.v.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "EccL. Xii. I." = Truyền Đạo 12:1, localized per glossary; quote rendered in 1934-style Vietnamese ("Hãy nhớ Đấng Tạo Hóa của ngươi trong những ngày tuổi trẻ") - "Son of Sirach" (Wisdom/Ecclesiasticus) kept as "con trai khôn ngoan của Si-rac" per source - "Simon Magus, Arius" kept as proper names with Vietnamese transliteration - "Pharisees" rendered in 1934 style contextually - Long-s (ſ) OCR characters normalized throughout (e.g., "Gop" → God → Đức Chúa Trời; "Chriſt" → Christ → Đấng Christ) - "St. 7ohn" OCR for "St. John" (Giăng) corrected - "Nicodemits/Neco-demits" = Ni-cô-đem (Nicodemus) corrected from OCR - "Methuſelah" = Mê-tu-sê-la corrected - Garbled OCR lines (page numbers, symbol noise, printer ornaments at the end) excluded as non-content - [NEEDS REVIEW: OCR] A few heavily garbled sentences (e.g., the garbled paragraph break around "— D———_—_—_ SD" and damaged words like "inflamed with youthful Lufts") were reconstructed from context; meaning preserved as faithfully as possible - "prodigal" rendered as "đứa con hoang đàng" per standard Vietnamese Protestant usage - "religious societies" = "các hội đoàn tôn giáo" (Whitefield's audience) - Source's Latin/Greek fragments none significant in this sermon - No theological ambiguities beyond OCR noise; Whitefield's Calvinist soteriology (regeneration by Holy Spirit, justification) preserved faithfully without alteration
 
 Mở trong trình đọc Về thư viện

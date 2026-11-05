@@ -6,8 +6,6 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# THUYẾT DARWIN LÀ GÌ?
-
 Charles Hodge (1797–1878)
 
 THUYẾT DARWIN LÀ GÌ?
@@ -451,7 +449,5 @@ Như thế chúng ta đã đi đến câu trả lời cho câu hỏi của mình
 Trong số những lời cuối cùng của Strauss có những lời này: "Chúng ta đòi hỏi cho vũ trụ của mình sự tôn kính mà người mộ đạo xưa đã đòi hỏi cho Đức Chúa Trời của mình." "Trong cỗ máy khổng lồ của vũ trụ, giữa tiếng quay cuồng và rít lên không ngừng của những bánh xe sắt lởm chởm, giữa tiếng va đập điếc tai của những quả tạ và búa nặng nề, giữa toàn bộ sự hỗn loạn kinh khiếp ấy, con người, một tạo vật bất lực và không có gì che chở, thấy mình bị đặt vào, không một giây phút nào được an toàn rằng khi một cử động bất cẩn, một bánh xe có thể chụp lấy và xé nát mình, hay một cái búa nghiền mình thành bột. Cảm giác bị bỏ rơi này ban đầu thật kinh khủng." [61]
 
 Trong số những lời cuối cùng của Phao-lô có những lời này: "Ta biết Đấng ta đã tin, và ta xác tín rằng Ngài có quyền năng giữ điều ta đã phó thác cho Ngài cho đến ngày ấy.... Kỳ ta qua đời đã gần kề. Ta đã đánh trận tốt lành, đã xong sự chạy, đã giữ được đức tin: từ nay mão triều thiên của sự công chính đã dành sẵn cho ta, mà Chúa, là quan án công chính, sẽ ban cho ta trong ngày ấy: chẳng những cho ta mà thôi, nhưng cũng cho mọi kẻ yêu mến sự hiện đến của Ngài." [NEEDS REVIEW]
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 1. 6 inline [NEEDS REVIEW] flags on Scripture quotations rendered by sense (Psalm 139, Psalm 94:9, Luke 12 ravens/lilies passage, 2 Timothy 1:12 and 4:6-8, and two others) — exact Bản Dịch Mới 2010 wording needs verification before publication. 2. "nature" → "thiên nhiên" throughout; "design" → "chủ đích thiết kế"; "derivation" → "sự phái sinh" — consistent renderings, reviewer to confirm. 3. Greek/Latin/German/French quotations kept verbatim as in source (e.g., idhea thon idehon, causae efficientes/finales, Stoff und Kraft, Ohne Welt kein Gott). 4. Darwin's page citations rendered "p. 149" → "(tr. 149)". 5. Source's CCEL print-edition page index and reference URL lists omitted as non-content, per project convention.
 
 Mở trong trình đọc Về thư viện

@@ -6,7 +6,11 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Sự Nảy Sinh Và Tiến Triển Của Đạo Trong Tâm Hồn ## Minh Họa Qua Một Loạt Các Bài Diễn Thuyết Nghiêm Túc Và Thực Tế Philip Doddridge (1702–1751)
+SỰ NẢY SINH VÀ TIẾN TRIỂN CỦA ĐẠO TRONG TÂM HỒN
+
+MINH HỌA QUA MỘT LOẠT CÁC BÀI DIỄN THUYẾT NGHIÊM TÚC VÀ THỰC TẾ
+
+Philip Doddridge (1702–1751)
 
 LỜI NÓI ĐẦU
 
@@ -1451,7 +1455,5 @@ Giu-đe
 Khải Huyền
 
 [924]1:5 [925]1:5-6 [926]1:6 [927]1:9 [928]1:18 [929]2:10 [930]2:10 [931]3:14 [932]3:17 [933]4:10 [934]5:9 [935]5:9 [936]6:16 [937]9:15 [938]18:5 [939]18:5 [940]18:5 [941]18:5 [942]20:11 [943]20:11 [944]20:12 [945]21:4 [946]21:8 [947]21:9 [948]22:3-4 [949]22:12 [950]22:17 [951]22:20 [952]22:20
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 1. "religion" (Doddridge's sense: true piety/the Christian life) rendered inconsistently across chunks — "đạo" in title/preface/ch-XX sections vs "đức tin" in Ch III. Worth one normalization pass. 2. Ch VIII–XI worker silently corrected 8 source OCR Scripture-reference errors by evident intent (Giăng 4:28→6:28; Rô-ma 6:15→6:13; Ma-thi-ơ 12:28→11:28; Giăng 6:35→6:37; Hê-bơ-rơ 3:25→3:13; Lu-ca 19:20→19:27; Rô-ma 11:8→1:18; Ma-thi-ơ 10:26→19:26). Other chunks preserved source mis-citations and flagged [NEEDS REVIEW] instead — handling is inconsistent; reviewer should decide the convention. 3. Numerous [NEEDS REVIEW] flags kept on Scripture citations preserved exactly as printed (likely CCEL OCR slips, e.g., Thi Thiên 189, Ca Thương 31:32, Hê-bơ-rơ 2:3) — needs verification against BD2010. 4. Source OCR typos normalized by evident intent (not flagged): Preface "flowers"→powers, "stare"→share; XX §3 "blond"→huyết (blood); XXI §3 "former"→Đấng Dựng Nên (Framer); V meditation "effectual error"→terror. 5. Bio sketch birth year discrepancy: the American Tract Society bio says 1709; CCEL metadata and historical record give 1702 — title header uses 1702–1751. 6. Verse quotations rendered in Bản Dịch Mới 2010 style but not verified against an actual BD2010 text; Doddridge's frequent paraphrastic quotations translated for sense. 7. Non-glossary term choices kept consistent within chunks but not cross-checked book-wide: "Savior/Đấng Cứu Rỗi" vs "Đấng Cứu Thế" (one chunk), "Christian temper"→"tâm tính Cơ Đốc", "Shekinah" kept transliterated, "repentance"→"sự ăn năn".
 
 Mở trong trình đọc Về thư viện

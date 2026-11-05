@@ -1,6 +1,12 @@
-AI, chưa duyệt
 CÁC BÀI GIẢNG THẦN HỌC VỀ NHỮNG CHỦ ĐỀ LIÊN QUAN ĐẾN THẦN HỌC TỰ NHIÊN, BẰNG CHỨNG VỀ CƠ ĐỐC GIÁO, QUY ĐIỂN VÀ SỰ THẦN CẢM CỦA KINH THÁNH
-William Cunningham
+
+William Cunningham · Theological lectures : on subjects connected with natural theology, ev
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt CÁC BÀI GIẢNG THẦN HỌC VỀ NHỮNG CHỦ ĐỀ LIÊN QUAN ĐẾN THẦN HỌC TỰ NHIÊN, BẰNG CHỨNG VỀ CƠ ĐỐC GIÁO, QUY ĐIỂN VÀ SỰ THẦN CẢM CỦA KINH THÁNH William Cunningham
 
 BÀI GIẢNG I.
 
@@ -1402,7 +1408,7 @@ những sự bại hoại mà các tín điều và hệ thống đã đưa vào
 
 “Có một số lời buộc tội ác ý do một tác giả đưa ra chống lại con người xuất sắc này (tức là do Lãnh chúa Bolingbroke chống lại sứ đồ Phao-lô). Ông ta vui lòng trình bày ông như một người hùng biện lỏng lẻo, như một kẻ khoe khoang hư vinh, như đã phạm tội giả hình và giả dối lớn lao trong cách cư xử của mình đối với các Cơ Đốc nhân Do Thái, như viết một cách tối tăm và khó hiểu, và rằng ở những chỗ ông dễ hiểu thì ông vô lý, phạm thượng, và tầm thường. Ông đặc biệt viện dẫn giáo lý của ông về sự tiền định, mặc dù ông thừa nhận rằng ‘giáo lý này đã được làm dịu đi rất nhiều, và những cách hành xử giả định của Đức Chúa Trời đối với con người đã được đưa gần như vào trong giới hạn của sự đáng tin nhờ sự giải thích của ông Locke về chương chín của Thư gửi người Rô-ma,’ mà ông gọi là một sự giải thích gượng ép, nhưng không đưa ra gì để chứng minh nó là như vậy, và thừa nhận rằng ý nghĩa này có thể được chấp nhận.”^
 
-Giờ đây, hãy để ý điều được phô bày ở đây. Bolingbroke phản đối giáo lý của Phao-lô về sự tiền định là vô lý và phạm thượng, thế mà ông ta lại vui lòng cho phép rằng, như được Locke giải thích, giáo lý 
+Giờ đây, hãy để ý điều được phô bày ở đây. Bolingbroke phản đối giáo lý của Phao-lô về sự tiền định là vô lý và phạm thượng, thế mà ông ta lại vui lòng cho phép rằng, như được Locke giải thích, giáo lý
 
 1 View of Deistical Writers, thư 31, tr. 389.
 
@@ -3202,5 +3208,4 @@ bởi sự thiếu một ý thức đúng đắn về trách nhiệm của mình
 
 Xin cho tôi kết thúc bằng việc nhận lấy và nhấn mạnh lên các bạn những lời mà vị sứ đồ vĩ đại — người, sau Đấng vừa là Thầy của người vừa là Thầy của các bạn, là mẫu mực vĩ đại của một mục sư Cơ Đốc — đã dùng để kết thúc thư thứ nhất của người gửi cho Hội Thánh tại Tê-sa-lô-ni-ca: “Hãy vui mừng mãi mãi, cầu nguyện không thôi, phàm việc gì cũng phải tạ ơn Chúa; vì ý muốn của Đức Chúa Trời trong Đức Chúa Jêsus Christ đối với anh em là như vậy. Chớ dập tắt Thánh Linh; chớ khinh dể các lời tiên tri; hãy xem xét mọi việc, điều chi lành thì giữ lấy. Bất cứ việc gì tựa như điều ác thì phải tránh đi. Nguyền xin chính Đức Chúa Trời bình an thánh hoá anh em một cách trọn vẹn, và nguyền xin tâm thần, linh hồn, và thân thể của anh em đều được giữ vẹn, không chỗ trách được, khi Đức Chúa Jêsus Christ chúng ta đến! Đấng đã gọi anh em là thành tín, chính Ngài sẽ làm việc đó. Hỡi anh em, hãy cầu nguyện cho chúng tôi. Nguyền xin ân điển của Đức Chúa Jêsus Christ chúng ta ở cùng anh em. A-men.”
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Dịch toàn văn từ bản quét OCR archive.org của ấn bản New York 1878 (Robert Carter and Brothers, 530 Broadway; in tại Edinburgh bởi John Greig and Son), gồm 51 bài giảng (Bài giảng I đến Bài giảng LI). Loại trừ: mẫu boilerplate của archive.org, dấu thư viện và số ký hiệu, các mảnh trang tựa bị vỡ, Lời Tựa và thư Requisition của ban biên tập (văn bản của người biên tập xuất bản các bản thảo của Cunningham sau khi ông qua đời, không phải các bài giảng của Cunningham), các danh mục nội dung, tiêu đề chạy trang, số trang, ký hiệu in ấn, dòng nhà in Edinburgh, nhiễu scan và phiếu mượn thư viện ở cuối bản quét. Hai ký hiệu in ấn độc lập P1582 ("G17") và P1592 ("G21") đã lược khi ráp file; số trang đã lược khỏi đoạn P1596. Các đoạn OCR không đọc được được gắn cờ cần xem lại tại chỗ, không đoán mò (4 cờ: P1442, P1443 là mảnh OCR không đọc được; P1558 "GOT" và P1563 "GOO" là mảnh tiêu đề chạy trang bị lỗi OCR). Các tiêu đề bài giảng đã chuẩn hóa theo thứ tự (các biến thể OCR như VIE, XIY, XYI, XXL, XXIL, XXy, XXYI, XXXVL, LT đã đối chiếu về VII, XIV, XVI, XXI, XXII, XXV, XXVI, XXXVI, LI). "Thiên Chúa" không xuất hiện trong thân bản; "Tin Lành" chỉ dùng trong ngữ cảnh đạo Tin Lành (người Tin Lành, chính nghĩa Tin Lành), không dùng để dịch "gospel" (dịch là "Phúc Âm"). Các trích dẫn Kinh Thánh giữ văn phong 1934, trong đó một số câu trích nguyên văn giữ đúng từ ngữ 1934 (ví dụ 2 Ti-mô-thê 3:16 và đoạn kết trích 1 Tê-sa-lô-ni-ca 5, kể cả "Đức Chúa Jêsus Christ"); tham chiếu đã Việt hóa. Thuật ngữ "inspiration" dịch là "sự thần cảm" xuyên suốt.
+Mở trong trình đọc Về thư viện

@@ -6,7 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# ĐÁ NHẴN TỪ SUỐI XƯA ## Tuyển tập những câu nói, minh họa và châm ngôn từ các tác phẩm của Thomas Brooks Thomas Brooks (1608–1680) — do C. H. Spurgeon sưu tầm
+TUYỂN TẬP NHỮNG CÂU NÓI, MINH HỌA VÀ CHÂM NGÔN TỪ CÁC TÁC PHẨM CỦA THOMAS BROOKS
+
+Thomas Brooks (1608–1680) — do C. H. Spurgeon sưu tầm
 
 BỞI MỤC SƯ C. H. SPURGEON,
 
@@ -24,7 +26,7 @@ BOSTON: GOULD & LINCOLN.
 
 1800.
 
-## LỜI TỰA
+LỜI TỰA
 
 Là một nhà văn, Brooks rải sao bằng cả hai tay: ông có bụi vàng; trong kho của ông có đủ mọi thứ đá quý. Thiên tài luôn kỳ diệu; nhưng khi được thánh hóa thì vô song. Tiếng chuông rung của nơi thánh ngọt ngào hơn âm nhạc của nhà tiệc. Nếu Brooks là một người thế gian, các tác phẩm của ông hẳn đã vô cùng quý giá; nhưng vì ông là một Cơ Đốc nhân xuất chúng, chúng còn quý gấp đôi. Ông có con mắt ưng của đức tin, cũng như đôi cánh ưng của trí tưởng tượng. Ông thấy những sự ví sánh, ẩn dụ và ngụ ngôn ở khắp mọi nơi; nhưng tất cả đều được biệt riêng cho sự phục vụ Chủ mình: lòng ông đã ứng tác điều tốt lành, vì ông đã nói về những điều mình đã làm liên quan đến Vua.
 
@@ -36,7 +38,7 @@ Người đầy tớ của Đấng Christ và Hội Thánh của Ngài cầu xin
 
 C. H. Spurgeon
 
-## TIỂU SỬ
+TIỂU SỬ
 
 Ông Thomas Brooks là một nhà giảng rất cảm động, và hữu ích cho nhiều người. Dù ông dùng nhiều cụm từ bình dân, và đôi khi những sự ví sánh quá quen thuộc, mà đối với những nhà phê bình khó tính có thể có vẻ lố bịch, ông đã làm nhiều điều tốt cho các linh hồn hơn nhiều người giảng những bài soạn thảo chính xác nhất. Và cứ để những kẻ khôn ngoan của thời đại đưa ra những lời chê bai nào họ muốn, "người chinh phục linh hồn là khôn ngoan." Ông Brooks đã một thời là mục sư tại St. Thomas Apostle, và khoảng năm 1651 được đa số giáo dân của St. Mary Magdalen chọn. Tập hợp một Hội Thánh ở đó theo cách hội chúng, những người còn lại trong giáo xứ đã đệ đơn kiến nghị chống lại ông lên ủy ban các mục sư, và ông đã xuất bản một lời biện hộ chống lại những cáo buộc của họ. Ông qua đời ngày 27 tháng 9 năm 1680. Người bạn của ông, ông Reeve, đã giảng bài giảng tang lễ cho ông và kế nhiệm ông.*
 
@@ -46,7 +48,7 @@ Sau đó ông tiếp tục đưa cho dân mình một số lời khuyên, mà ô
 
 * Trong một số tác phẩm ông tự ghi là "Mục sư giảng Lời đã nghỉ hưu tại St. Margaret's, New Fish Street." Xem tác phẩm "Mute Christian" (Người Cơ Đốc Câm Lặng) của ông.
 
-## ĐÁ NHẴN
+ĐÁ NHẴN
 
 Đấng Christ thường lấy mão triều thiên khỏi đầu mình, và đặt lên đầu đức tin; hãy chứng bởi những đoạn như thế này, vốn thường xuyên trong Kinh Thánh: "Đức tin của con đã cứu con" (Lu-ca 7:50). "Đức tin của con đã chữa lành con" (Ma-thi-ơ 9:22). Và chẳng có gì lạ khi Đấng Christ đội vương miện cho đức tin, vì trong mọi ân điển, đức tin lấy vương miện khỏi đầu con người, và đặt lên đầu Đấng Christ.
 
@@ -1853,9 +1855,5 @@ Như một thân thể không có linh hồn, nhiều củi không có lửa, ha
 Dưới trời không có cách nào để có phần trong Đấng Christ ngoài bởi tin. AI TIN SẼ ĐƯỢC CỨU, dù tội lỗi người ấy lớn đến đâu; và ai không tin SẼ BỊ HƯ MẤT, dù tội lỗi người ấy nhỏ đến đâu.
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 1. Scripture quotations rendered by sense in Bản Dịch Mới 2010 style; several carry inline [NEEDS REVIEW] flags — exact BDM2010 wording needs verification before publication. 2. One garbled OCR passage in the source (chunk 6) was unrecoverable; the readable fragment was translated and the gibberish omitted rather than invented. 3. Source misprints preserved as printed per the no-alteration rule (e.g. "the parent of mercy" in the pride passage, likely a print error). 4. PD source: archive.org Google scan of the 1860 New York edition (Sheldon & Company), compiled with preface by C. H. Spurgeon; underlying Brooks writings 1660, author d. 1680. NOT a Monergism Books edition. Publisher's catalog ads after "THE END." excluded as non-content.
 
 Mở trong trình đọc Về thư viện

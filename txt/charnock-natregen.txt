@@ -6,8 +6,6 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Bàn Về Bản Chất Của Sự Tái Sinh
-
 Stephen Charnock (1628–1680)
 
 Vậy, nếu ai ở trong Đấng Christ, thì người ấy là một tạo vật mới: những sự cũ đã qua đi; nầy, mọi sự đều trở nên mới.--II Cô-rinh-tô 5:17. [NEEDS REVIEW]
@@ -498,7 +496,7 @@ Về các phương tiện:
 
 Hết: Một Luận Văn về Bản Chất của Sự Tái Sinh.
 
-Mục lục tra cứu __________________________________________________________________
+Mục lục tra cứu
 
 Mục lục các tham chiếu Kinh Thánh
 
@@ -582,12 +580,10 @@ II Phi-e-rơ [407]1:4 [408]1:4 [409]1:4 [410]1:4
 
 I Giăng [411]1:8 [412]2:20 [413]2:27 [414]2:29 [415]3:2 [416]3:2 [417]3:2 [418]3:3 [419]3:7 [420]3:9 [421]3:9 [422]3:9 [423]3:10 [424]3:14 [425]4:7 [426]4:12 [427]4:16 [428]4:20 [429]5:4 [430]5:4 [431]5:12 [432]5:19
 
-Khải Huyền [433]1:6 [434]3:4 [435]3:17 [436]5:9 [437]21:5 __________________________________________________________________
+Khải Huyền [433]1:6 [434]3:4 [435]3:17 [436]5:9 [437]21:5
 
 Tài liệu này thuộc Thư viện các Tác phẩm Kinh điển Cơ Đốc tại Calvin College, http://www.ccel.org, được tạo theo yêu cầu từ nguồn ThML.
 
 Tham chiếu
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Scripture quotations rendered in Bản Dịch Mới 2010 style by sense; numerous [NEEDS REVIEW] flags retained for David's verification pass (exact BD2010 wording not verified offline). - Source/Charnock's own citation errors preserved verbatim (e.g., Thi Thiên 110:8; Ma-thi-ơ 12:24 for 12:34; II Cô-rinh-tô 4:20 for 1 Cor 4:20; Thi Thiên 13:11; Giê-rê-mi 31:23/31:32). - Some OCR typos in CCEL refs normalized by probable reading (Thi Thiên 22:30 for "radii.30"; Ê-sai 11:9 for "hi.9"; Ê-sai 43:1 for "vliii.1"). - One probable OCR error kept literal ("nationalist" rendered as "một người theo tự nhiên"). - "Đức Chúa Jêsus" kept verbatim inside the Acts 13:33 quotation as the source spells it. - "Aim." heading rendered as "Đáp." (almost certainly misprint for "Ans."). - Greek/Latin terms preserved as in source.
 
 Mở trong trình đọc Về thư viện

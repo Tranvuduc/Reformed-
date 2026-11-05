@@ -160,8 +160,4 @@ Nếu bất kỳ ai, khi đọc thuật lại trên đây, được cảm độn
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: (1) Nguồn là bản OCR với nhiều lỗi nhận dạng ký tự (ſ→s, chữ số lẫn); đã hiệu đính theo ngữ cảnh. Một vài chỗ rách nát không đọc được đã dịch theo nghĩa có khả năng nhất. (2) "JESUS" đứng một mình → "Chúa Giê-xu"; "JESUS CHRIST"/"CHRIST JESUS" → "Chúa Giê-xu Christ"; "CHRIST" → "Đấng Christ" — theo đúng cách dùng của nguyên bản. (3) Bảng tóm tắt tài chính trong nguồn bị lỗi OCR nặng; các con số chính (thu £4.982/12/8, chi £5.511/17/9¼) được lấy từ hai bản tuyên thệ có văn bản rõ ràng. (4) Whitefield nhắc đến việc đọc sách "Serious Call" của ông Law — dịch trung thành lời của tác giả, không thêm nhận xét thần học. (5) Thi Thiên 71 được ghi là "Psalm lxxxi" trong nguồn (lỗi in); đã dịch theo nội dung bài thánh ca Watts. (6) "New-Birth" → "sự tái sinh"; "Dissenters" → "người Bất Đồng Giáo Hội"; "Methodists" giữ nguyên vì là tên gọi lịch sử. (7) Câu Kinh Thánh trích theo văn phong Việt Ngữ 1934; tham chiếu đã địa phương hóa (Sáng Thế Ký 32:19, Ru-tơ 1:16).
-
 Mở trong trình đọc Về thư viện

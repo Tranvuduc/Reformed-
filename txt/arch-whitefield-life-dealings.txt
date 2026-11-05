@@ -416,8 +416,4 @@ SAVANNAH, GEORGIA.
 
 HẾT.
 
-TERMINOLOGY ISSUES: - Glossary 16-term compliance verified by script: 0 violations (no "sự xưng công bình", no "sự chọn lựa"; "Tin Lành" 0 in body — the text has no denominational mentions; "Protestant" rendered as "giáo dân Anh giáo" where context required). - 2 instances of ſ appear only inside one [NEEDS REVIEW] note quoting the source OCR ("Almoſt-alts of a Seaſon") — intentional documentation, not leftovers. - 19 inline [NEEDS REVIEW] flags mark passages where the 1747 scan's OCR was genuinely unreadable (blurred words, mangled proper names, one damaged Latin tag); reconstructed as far as context allowed. - Scripture rendered in Vietnamese 1934 style with localized references; 18th-century long-s and spaced type normalized silently; page headers/running heads dropped as non-content. - Translated from: A FULL ACCOUNT OF THE LIFE AND DEALINGS OF GOD WITH THE REVEREND MR. GEORGE WHITEFIELD, A.B. (1747), by George Whitefield (1714-1770), Calvinist Anglican evangelist. Genuine source: archive.org item bim_eighteenth-century_the-full-account-of-the-_whitefield-george_1747.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

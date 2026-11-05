@@ -8,7 +8,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 KHÓA CẦU NGUYỆN CHO MỖI NGÀY TRONG TUẦN, KÈM SUY NGẪM
 
-**Nguyên tác:** "A Course of Prayer, for each day in the week, with meditations" — Augustus Toplady (1740–1778), ấn bản 1796 **Tác giả:** Augustus Toplady, mục sư Anh giáo theo Calvin
+Nguyên tác: "A Course of Prayer, for each day in the week, with meditations" — Augustus Toplady (1740–1778), ấn bản 1796 Tác giả: Augustus Toplady, mục sư Anh giáo theo Calvin
 
 MỘT KHÓA CẦU NGUYỆN, cho mỗi ngày trong tuần, với những bài suy ngẫm.
 
@@ -624,8 +624,6 @@ NGƯỜI THEO THUYẾT ARIUS VÀ SOCINUS HÃY COI CHỪNG; là một Khải Tư�
 
 TIỂU SỬ PHÚC ÂM, 4 tập khổ 8vo, giá 1 bảng 10 shilling, từ cuộc Cải Chánh đến Ngày Nay. Bởi Mục sư Erasmus Middleton, Thạc sĩ Nghệ thuật.
 
-ĐẤNG CHRIST BỊ ĐÓNG ĐINH, 2 tập khổ 12mo, bởi Mục sư Richard De Courcy, Quản nhiệm Thánh Alkmond, Shrewsbury. TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - 15 cờ NEEDS REVIEW: các đoạn OCR tiếng Anh thế kỷ 18 bị vỡ không đọc chắc (tên người bán trên trang tựa, vài động từ/cụm từ trong các bài cầu nguyện, tham chiếu Ga-la-ti 3:2 thuộc 3:11, giá "1 os." trong quảng cáo nhà xuất bản có thể là "10s."). - Đã quét toàn văn bản dịch: không dùng các từ cấm (Thiên Chúa / ân sủng / bí tích / tin mừng / rửa tội nghĩa báp-têm / sám hối / Đức Mẹ). - "sự tiền định", "sự chuộc tội" không xuất hiện trong phần cuối của nguyên tác.
+ĐẤNG CHRIST BỊ ĐÓNG ĐINH, 2 tập khổ 12mo, bởi Mục sư Richard De Courcy, Quản nhiệm Thánh Alkmond, Shrewsbury.
 
 Mở trong trình đọc Về thư viện
