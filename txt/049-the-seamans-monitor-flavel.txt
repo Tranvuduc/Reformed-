@@ -6,15 +6,11 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lời Cảnh Tỉnh Cho Người Thủy Thủ
-
-**Nguyên tác:** "The Seaman's Monitor, extracted from the works of the late Rev. John Flavel" — John Flavel (1799) **Nguồn:** https://archive.org/download/bim_eighteenth-century_the-seamans-monitor-ex_flavel-john_1799/bim_eighteenth-century_the-seamans-monitor-ex_flavel-john_1799_djvu.txt *(Ghi chú: theo hồ sơ metadata của archive.org, tờ rơi này là "bản tóm tắt của bức thư đề tặng sách Navigation Spiritualized" của Flavel. Tác phẩm thật gồm: trích Thi Thiên 107:23–32 (bản KJV), thánh ca "Nhìn Lên Trong Cơn Bão", lời tâm tình "Gửi Tất Cả các Chủ Tàu, Thủy Thủ & Lính Biển", tiểu sử ngắn về Flavel kèm một giai thoại, và "Thánh Ca Của Thủy Thủ" (xác minh là thơ của Augustus Toplady, 1774). Đã loại bỏ: dòng phụ đề chữ trang trí bị OCR hỏng, số trang, ký hiệu in ấn, một dòng chữ rác OCR không đọc được, và ghi chú tham khảo "See Middleton's Biographia Evangelica" không thuộc tác phẩm.)*
-
----
+Nguyên tác: "The Seaman's Monitor, extracted from the works of the late Rev. John Flavel" — John Flavel (1799) Nguồn: https://archive.org/download/bim_eighteenth-century_the-seamans-monitor-ex_flavel-john_1799/bim_eighteenth-century_the-seamans-monitor-ex_flavel-john_1799_djvu.txt (Ghi chú: theo hồ sơ metadata của archive.org, tờ rơi này là "bản tóm tắt của bức thư đề tặng sách Navigation Spiritualized" của Flavel. Tác phẩm thật gồm: trích Thi Thiên 107:23–32 (bản KJV), thánh ca "Nhìn Lên Trong Cơn Bão", lời tâm tình "Gửi Tất Cả các Chủ Tàu, Thủy Thủ & Lính Biển", tiểu sử ngắn về Flavel kèm một giai thoại, và "Thánh Ca Của Thủy Thủ" (xác minh là thơ của Augustus Toplady, 1774). Đã loại bỏ: dòng phụ đề chữ trang trí bị OCR hỏng, số trang, ký hiệu in ấn, một dòng chữ rác OCR không đọc được, và ghi chú tham khảo "See Middleton's Biographia Evangelica" không thuộc tác phẩm.)
 
 THE SEAMAN'S MONITOR
 
-*(Lời Cảnh Tỉnh Cho Người Thủy Thủ)*
+(Lời Cảnh Tỉnh Cho Người Thủy Thủ)
 
 Thi Thiên 107:23–32.
 
@@ -29,8 +25,6 @@ THÁNH CA.
 Sóng biển dâng cao, gió mạnh gào thét, Mây đen bao phủ bầu trời mùa đông của tôi; Từ vực sâu tôi kêu cầu cùng Ngài, Nỗi sợ tôi lớn, sức tôi thì nhỏ. Lạy Chúa, xin làm phần người cầm lái, Và dẫn dắt, gìn giữ tôi qua cơn bão; Xin bảo vệ tôi khỏi mọi điều đe dọa, Kiềm chế sóng biển, phán: "Hãy yên lặng!" Giữa tiếng biển gầm thét, Linh hồn tôi vẫn treo hy vọng nơi Ngài! Tình yêu không đổi thay của Ngài, sự chăm sóc trung tín của Ngài, Là tất cả những gì cứu tôi khỏi tuyệt vọng.
 
 Nguy hiểm muôn hình muôn dạng [NEEDS REVIEW: bản OCR gốc ghi "Dangers of ev'ry shape and name", một số chữ lân cận bị hỏng] Chờ đợi những kẻ theo Chiên Con, Kẻ lìa bỏ những "Gretel Wears" của thế gian [NEEDS REVIEW: bản OCR gốc ghi "the world's Gretel Wears", không đọc rõ từ gốc], Và lìa bỏ để không trở lại nữa. Dầu bị bão tố quăng quật, nửa thành xác tàu, Tôi tìm kiếm Đấng Cứu Thế của tôi qua những dòng lũ; Chớ để gió hay biển bão tố Ép chiếc thuyền tan vỡ của tôi quay lại.
-
----
 
 GỬI TẤT CẢ
 
@@ -60,11 +54,7 @@ Người bạn hết sức yêu mến của các bạn trong Phúc Âm của Đ�
 
 JOHN FLAVEL.
 
----
-
 Cố mục sư John Flavel là một trong những nhà giảng đạo quyền năng nhất thời ông, và là tác giả của nhiều sách quý, nhất là một cuốn tựa là "Navigation Spiritualized" (Hàng Hải Được Thuộc Linh Hóa); một tác phẩm mà không thủy thủ nào nên thiếu. Ông làm mục sư nhà nguyện tại Dartmouth, thuộc Devonshire, trong nhiều năm, và qua đời khá đột ngột tại Exeter, nơi ông đến giảng trước một hội đồng các mục sư, vào ngày 26 tháng 6 năm 1691, thọ 64 tuổi. Sự qua đời của ông bình an đến nỗi ông hầu như không rên một tiếng: trong những lời cuối cùng ông nói có câu này: "Tôi biết rằng mọi sự sẽ tốt lành với tôi." Giai thoại sau đây về con người xuất sắc này đáng kể lắm, không thể bỏ qua: Khi cuộc bách hại những người bất đồng giáo phái được tái diễn, sau ân xá của vua Charles Đệ Nhị, ông Flavel bị đuổi khỏi đoàn chiên yêu dấu tại Dartmouth. Đêm trước khi ông xuống tàu đi đường thủy đến Luân Đôn, ông có một giấc mơ lạ: Ông tưởng mình đang trên tàu, và một cơn bão nổi lên khiến hành khách kinh hãi tột cùng; giữa lúc họ hoảng loạn, có một người dáng vẻ đáng kính ngồi viết tại bàn, bên cạnh có một đứa trẻ nằm trong nôi, đứa trẻ rất bướng bỉnh; và ông tưởng thấy người cha cầm lên một cây roi nhỏ, quất đứa trẻ một roi, mà rằng: "Con ơi, hãy yên lặng, ta sẽ sửa dạy con, chứ không làm hại con." — Tỉnh dậy, ông Flavel ngẫm nghĩ về giấc mơ, và kết luận rằng mình sẽ gặp hoạn nạn trên đường đi. Hôm sau khi họ xuống tàu, một số hành khách tự trấn an mình về một chuyến đi êm ả, nhưng ông Flavel đáp: "Ông không nghĩ như họ, vì dầu gió và thời tiết lúc ấy rất tốt, ông vẫn trông đợi nhiều hoạn nạn trong chuyến đi." Quả nhiên, khi họ đi được trong vòng năm dặm biển cách Portland, thì một cơn bão dữ dội ập đến, đến nỗi, khoảng giữa một và hai giờ sáng, thuyền trưởng và thủy thủ kết luận rằng, trừ khi Đức Chúa Trời đổi chiều gió, thì không còn hy vọng sống, và không thể nào vượt qua Portland được. Trước tình cảnh ấy, ông Flavel gọi tất cả những người có thể rời tay vào khoang tàu để cầu nguyện; nhưng cơn bão dữ dội đến nỗi họ không thể ngăn mình bị quăng từ bên này sang bên kia con tàu, khi tàu bị nhồi lên nhồi xuống; mà không chỉ thế, những đợt sóng khổng lồ còn ập vào họ, như thể họ sẽ chết đuối ngay trong khoang tàu. Ông Flavel trong cơn nguy hiểm ấy nắm chặt hai cây cột của giường trong khoang, và kêu cầu Đức Chúa Trời, nài xin thương xót cho mình và mọi người trên tàu. Trong những lý lẽ ông dùng khi cầu nguyện có điều này: nếu ông và đoàn người phải chết, thì kẻ thù của đạo sẽ nói rằng, dầu ông đã thoát khỏi tay họ trên bờ, thì sự báo thù thiêng liêng đã đuổi kịp ông trên biển. Giữa lúc cầu nguyện, đức tin và hy vọng của ông được nâng lên, đến nỗi ông trông đợi một câu trả lời đầy ân điển; vậy ông phó mình và bạn bè cho sự thương xót của Đức Chúa Trời, rồi kết thúc. Vừa dứt lời cầu nguyện, thì có một người từ trên boong xuống kêu: "Được cứu rồi! Được cứu rồi! Đức Chúa Trời là Đấng nghe lời cầu nguyện! Trong chốc lát gió đã đổi thành gió tây thuận!" Và cứ thế xuôi theo gió, tất cả đều đến Luân Đôn bình an.
-
----
 
 THÁNH CA CỦA THỦY THỦ.
 
@@ -83,9 +73,5 @@ Mỗi khi tôi nằm yên giữa lúc lặng gió, Và mọi cơn bão của tô
 Xin gió trời đến và thổi Một luồng gió thuận của ân điển, Để đưa tôi khỏi mọi sự dưới này Đến thiên đàng, nơi định sẵn của tôi. Rồi căng buồm tôi sẽ tìm được bến cảng, Và bỏ lại thế gian cùng tội lỗi phía sau.
 
 FINIS. (Hết.)
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "Euroclydon" dịch là "Ê-ra-qui-lôn" theo Kinh Thánh 1934 (Công Vụ 27:14); "LORD" trong trích dẫn Thi Thiên (chữ in hoa trong KJV) dịch là "Đức Giê-hô-va"; "gold of Ophir" → "vàng Ô-phia"; "insurance office above" giữ nguyên ẩn dụ "văn phòng bảo hiểm trên cao". Thánh ca cuối được xác minh là thơ của Augustus Toplady (1774), không phải của Flavel — chỉ ghi trong ghi chú đầu file, giữ nguyên văn bản như trong tờ rơi gốc.
 
 Mở trong trình đọc Về thư viện

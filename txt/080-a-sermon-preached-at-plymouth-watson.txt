@@ -6,21 +6,15 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Hãy Làm Theo Lời, Đừng Chỉ Nghe
+Nguyên tác: "A sermon, preached at Plymouth, August 7, 1785, to a congregation of Protestant dissenters, on entering upon the discharge of the pastoral office among them" — Thomas Watson, Jun. (1785) Nguồn: https://archive.org/download/bim_eighteenth-century_a-sermon-preached-at-pl_watson-thomas-jun_1785/bim_eighteenth-century_a-sermon-preached-at-pl_watson-thomas-jun_1785_djvu.txt (Ghi chú: nguồn là toàn văn cuốn sách nhỏ in năm 1785 gồm: phần kết của một thư giới thiệu do T. Toulmin viết (bản OCR hỏng nặng, chỉ đọc được rời rạc), trang tựa, lời đề tặng Hội Thánh tại Broad-Street, Plymouth, và toàn văn bài giảng theo Gia-cơ 1:22. Số trang và các ký tự rác OCR không thuộc tác phẩm nên không dịch. Thomas Watson, Jun. là mục sư của Hội Thánh Bất Đồng giáo tại Plymouth — không phải Thomas Watson nhà Thanh giáo thế kỷ 17.)
 
-**Nguyên tác:** "A sermon, preached at Plymouth, August 7, 1785, to a congregation of Protestant dissenters, on entering upon the discharge of the pastoral office among them" — Thomas Watson, Jun. (1785) **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-sermon-preached-at-pl_watson-thomas-jun_1785/bim_eighteenth-century_a-sermon-preached-at-pl_watson-thomas-jun_1785_djvu.txt *(Ghi chú: nguồn là toàn văn cuốn sách nhỏ in năm 1785 gồm: phần kết của một thư giới thiệu do T. Toulmin viết (bản OCR hỏng nặng, chỉ đọc được rời rạc), trang tựa, lời đề tặng Hội Thánh tại Broad-Street, Plymouth, và toàn văn bài giảng theo Gia-cơ 1:22. Số trang và các ký tự rác OCR không thuộc tác phẩm nên không dịch. Thomas Watson, Jun. là mục sư của Hội Thánh Bất Đồng giáo tại Plymouth — không phải Thomas Watson nhà Thanh giáo thế kỷ 17.)*
-
----
-
-*(Phần kết của thư giới thiệu do T. TOULMIN viết — bản OCR hỏng nặng, chỉ đọc được rời rạc:)*
+(Phần kết của thư giới thiệu do T. TOULMIN viết — bản OCR hỏng nặng, chỉ đọc được rời rạc:)
 
 …Hãy giữ lấy con đường này; nó sẽ chữa anh em khỏi sai lầm, hoặc làm cho anh em được vững vàng trong lẽ thật: nơi đó anh em sẽ được thỏa lòng và bình an… hãy trung tín với Đấng Christ… hãy lấy lời Ngài, chứ không phải các giáo lý và truyền thống của loài người, làm luật lệ cho mình… Với lòng vui mừng chân thành, tôi phó thác anh em cho sự ban phước và sự trợ giúp của Đức Chúa Trời, và cho ảnh hưởng thánh khiết của lời ân điển Ngài, là lời có thể gây dựng anh em và ban cho anh em cơ nghiệp… Nguyện cho ông, và tôi, và các Hội Thánh mà chúng ta hầu việc, được dẫn vào mọi lẽ thật, và tìm được sự chấp nhận cùng lòng thương xót nơi Chúa và Đấng Xét Đoán chung của chúng ta trong ngày Ngài đến! Tôi là người đầy tớ hèn mọn và là anh em của ông,
 
 T. TOULMIN.
 
 [NEEDS REVIEW: bản OCR của thư giới thiệu bị hỏng nặng — nhiều câu chỉ đọc được rời rạc, bản dịch trên được dựng lại từ các mảnh đọc được và có thể thiếu sót.]
-
----
 
 MỘT BÀI GIẢNG, ĐƯỢC GIẢNG TẠI PLYMOUTH, NGÀY 7 THÁNG 8 NĂM 1785, CHO MỘT HỘI THÁNH CỦA NHỮNG NGƯỜI TIN LÀNH BẤT ĐỒNG,
 
@@ -34,8 +28,6 @@ Của THOMAS WATSON, jun.
 
 LUÂN ĐÔN, IN BỞI A. RIVINGTON VÀ J. MARSHALL. M DCC LXXXV.
 
----
-
 GỬI HỘI THÁNH CỦA NHỮNG NGƯỜI TIN LÀNH BẤT ĐỒNG, NHÓM HỌP TẠI BROAD-STREET, PLYMOUTH,
 
 ĐƯỢC IN THEO LỜI YÊU CẦU CỦA HỌ,
@@ -45,8 +37,6 @@ KÍNH DÂNG, BỞI NGƯỜI ANH EM YÊU DẤU VÀ ĐẦY TỚ CỦA HỌ TRONG P
 THOMAS WATSON, jun.
 
 PLYMOUTH, Ngày 7 tháng 11 năm 1785.
-
----
 
 GIA-CƠ 1:22.
 
@@ -85,9 +75,5 @@ Hỡi các bạn, anh em đã chọn tôi làm người hướng dẫn các bu�
 Với những quan điểm và hy vọng ấy, hỡi anh em, tôi bắt đầu các chức vụ công cộng của mình: sự thành tựu của chúng, anh em hẳn phải biết, tùy thuộc vào chính anh em. Sự khích lệ anh em dành cho tôi sẽ quyết định sự thành công của tôi: tình yêu thương anh em dành cho tôi sẽ điều hòa sự yên ủi của tôi. Như tôi sẽ cố gắng tìm ra và rao truyền ý muốn của Đấng Christ, tôi tin chắc anh em cũng sẽ đều đặn lắng nghe sự giảng dạy của tôi, và đón nhận nó với lòng ngay thẳng. Là một con người, và đặc biệt là một người trẻ, tôi không mong mình thoát khỏi sai lầm và những điều thiếu khôn ngoan: tất cả những gì tôi dám khoe chỉ là một ý định ngay thẳng, và một tấm lòng hết sức tận hiến cho sự hầu việc anh em. Trong khi thi hành bổn phận, nếu tôi có đưa ra điều gì có vẻ mới lạ hay thiếu căn cứ, xin đừng vội trách tôi: hãy thử mọi điều tôi rao giảng bằng luật lệ duy nhất của đức tin và thực hành, là Kinh Thánh; và nếu sau khi tra xét kỹ lưỡng, anh em không tìm thấy điều ấy trong đó, hãy thẳng thắn loại bỏ nó. Nhưng xin đừng kết án tôi; xin đừng khinh dể tôi; hãy xem tôi như một người ngay thẳng, dù có lầm lẫn; và trong khi anh em tự xét đoán cho mình, hãy cho tôi cùng một đặc ân ấy… Để kết thúc, xin tha thứ những sai lầm của tôi, bỏ qua những thiếu sót của tôi, và vui lòng đón nhận những nỗ lực chân thành của tôi vì lợi ích bất diệt của anh em. Nguyện lòng anh em và lời cầu nguyện anh em đi cùng tôi; và nguyện tất cả chúng ta cương quyết lập chí, và bền bỉ cố gắng giữ lương tâm không trách móc trước mặt Đức Chúa Trời và trước mặt loài người; lấy lòng sợ sệt run rẩy mà làm nên sự cứu chuộc mình; làm cho tôn quí đạo của Đức Chúa Trời, là Cứu Chúa chúng ta, trong mọi đường.
 
 Và giờ đây, hỡi Đấng vĩ đại và tốt lành nhất! trong tay Ngài có mọi đường lối chúng con, và sự thành công của mọi công việc chúng con tùy thuộc ý tốt của Ngài, xin từ trời nhìn xuống, đoái xem và thăm viếng cây nho này, và vườn nho mà tay hữu Ngài đã trồng. Xin dẫn đường đầy tớ Ngài đến cùng dân sự này. Nguyện họ là niềm hy vọng và sự yên ủi của người trong đời hiện tại, là sự vui mừng và mão triều thiên vinh hiển của người trong sự hiện diện của Chúa Giê-xu khi Ngài đến! A-men và A-men.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none — thuật ngữ dùng theo bảng cố định: gospel=Phúc Âm, grace=ân điển, faith=đức tin, church=Hội Thánh, Scripture=Kinh Thánh, God=Đức Chúa Trời, Jesus Christ=Chúa Giê-xu Christ. Các câu Kinh Thánh trích dẫn dịch theo phong cách Kinh Thánh Việt ngữ 1934 (Gia-cơ 1:22; Ê-sai 1:11–17; Giăng 4:24; Ma-thi-ơ 7:21; Truyền Đạo 5:1; Phi-líp 2:12; Tít 2:10; Công vụ 24:16; Thi Thiên 80:14; 1 Tê-sa-lô-ni-ca 2:19; 2 Cô-rinh-tô 1:24; 2 Cô-rinh-tô 12:14). "St. James" dịch là "sứ đồ Gia-cơ". Thư giới thiệu của T. Toulmin có một [NEEDS REVIEW] do OCR hỏng nặng.
 
 Mở trong trình đọc Về thư viện

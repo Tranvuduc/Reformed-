@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Hành Trình Của Người Lữ Hành
-
-**Nguyên tác:** "Pilgrim's Progress, from this world to that which is to come" — John Bunyan (1769) **Nguồn:** https://archive.org/download/fisherchapbook514/fisherchapbook514_djvu.txt *(Ghi chú: tác phẩm thật là một bản tóm tắt truyện "Hành Trình Của Người Lữ Hành" của John Bunyan, in dạng sách nhỏ (chapbook) năm 1769, gồm hành trình của Cơ Đốc Nhân (Christian) và sau đó là của vợ ông, Christiana. Đã loại bỏ số trang và các ký tự rác của bản OCR. Tên truyện trên trang tựa trong bản OCR bị nhận dạng sai ("PiliOlilM'^ FMOGKESS"); một số tên riêng cũng bị sai chính tả do OCR (Evangalist, Worldly-wisieman...) — đã phục dựng theo nội dung truyện và đánh dấu.)*
-
----
+Nguyên tác: "Pilgrim's Progress, from this world to that which is to come" — John Bunyan (1769) Nguồn: https://archive.org/download/fisherchapbook514/fisherchapbook514_djvu.txt (Ghi chú: tác phẩm thật là một bản tóm tắt truyện "Hành Trình Của Người Lữ Hành" của John Bunyan, in dạng sách nhỏ (chapbook) năm 1769, gồm hành trình của Cơ Đốc Nhân (Christian) và sau đó là của vợ ông, Christiana. Đã loại bỏ số trang và các ký tự rác của bản OCR. Tên truyện trên trang tựa trong bản OCR bị nhận dạng sai ("PiliOlilM'^ FMOGKESS"); một số tên riêng cũng bị sai chính tả do OCR (Evangalist, Worldly-wisieman...) — đã phục dựng theo nội dung truyện và đánh dấu.)
 
 HÀNH TRÌNH CỦA NGƯỜI LỮ HÀNH,
 
@@ -67,9 +63,5 @@ Trong khi họ đang nghỉ tại đây, có một người đưa tin từ Thàn
 Ngày Christiana phải ra đi đã đến gần. Đường phố đông nghẹt người đến tiễn nàng lên đường. Nàng bước ra và bước xuống dòng sông, vẫy tay chào từ biệt những người theo nàng đến bờ sông. Những lời cuối cùng người ta nghe nàng nói là: "Lạy Chúa, con đến để ở cùng Ngài, và chúc tụng Ngài."
 
 Các con và bạn bè của nàng trở về nơi mình ở; vì những đấng chờ đợi Christiana đã đưa nàng khuất khỏi tầm mắt họ. Nàng ra đi, cất tiếng gọi và bước vào cổng với mọi nghi thức vui mừng như Cơ Đốc Nhân đã làm trước nàng.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none — "Evangelist" dịch là "Người Truyền Tin" (nhân vật chỉ đường cho Cơ Đốc Nhân); "All-prayer" (vũ khí của Cơ Đốc Nhân trong truyện gốc) được diễn đạt là "hết lòng cầu nguyện" vì bản OCR bị hỏng tại chỗ này. Các NEEDS REVIEW đều là phục dựng lỗi OCR, không phải vấn đề thuật ngữ.
 
 Mở trong trình đọc Về thư viện

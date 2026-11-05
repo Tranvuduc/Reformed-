@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Quy Điển Tân Ước: Được Hình Thành Thế Nào và Khi Nào
+Nguyên tác: "The Canon of the New Testament: How and When Formed" — Benjamin B. Warfield (1892) Nguồn: http://bbwarfield.com/works/the-canon-of-the-new-testament-how-and-when-formed/ (Ghi chú: nguồn archive.org trong danh sách (canonofnewtestam00warf) có bản OCR hỏng nặng, chỉ đọc được phần đầu rồi thành ký tự rác; bản dịch này dùng bản văn điện tử đầy đủ của cùng tác phẩm (ấn bản gốc: The American Sunday-School Union, Philadelphia, 1892, 12 tr.), đã đối chiếu với bản PDF scan cùng tác phẩm. Không có nội dung tạp chí kèm theo cần loại bỏ.)
 
-**Nguyên tác:** "The Canon of the New Testament: How and When Formed" — Benjamin B. Warfield (1892) **Nguồn:** http://bbwarfield.com/works/the-canon-of-the-new-testament-how-and-when-formed/ *(Ghi chú: nguồn archive.org trong danh sách (canonofnewtestam00warf) có bản OCR hỏng nặng, chỉ đọc được phần đầu rồi thành ký tự rác; bản dịch này dùng bản văn điện tử đầy đủ của cùng tác phẩm (ấn bản gốc: The American Sunday-School Union, Philadelphia, 1892, 12 tr.), đã đối chiếu với bản PDF scan cùng tác phẩm. Không có nội dung tạp chí kèm theo cần loại bỏ.)*
-
----
-
-## SỰ HÌNH THÀNH QUY Điển CỦA TÂN ƯỚC
+SỰ HÌNH THÀNH QUY ĐIỂN CỦA TÂN ƯỚC
 
 Để có được sự hiểu biết đúng đắn về điều gọi là sự hình thành Quy điển Tân Ước, cần phải bắt đầu bằng việc khắc ghi thật vững chắc trong tâm trí chúng ta một sự kiện vốn đã quá hiển nhiên một khi người ta chú ý đến nó. Đó là, Hội Thánh của Đấng Christ đã không cần phải tự hình thành cho mình ý niệm về một "quy điển" — hay như chúng ta thường gọi, một "bộ Kinh Thánh" — tức là một tập hợp các sách do Đức Chúa Trời ban cho để làm chuẩn mực có thẩm quyền cho đức tin và nếp sống. Hội Thánh đã thừa hưởng ý niệm này từ Hội Thánh Do Thái, cùng với chính sự vật ấy, tức Kinh Thánh Do Thái, hay "Quy điển Cựu Ước." Hội Thánh đã không lớn lên theo quy luật tự nhiên: Hội Thánh đã được thành lập. Và các giáo sư có thẩm quyền được Đấng Christ sai đi để thành lập Hội Thánh của Ngài, đã mang theo, như tài sản quý báu nhất của mình, một khối Kinh Thánh thiêng liêng, mà họ đã truyền đặt cho Hội Thánh do họ thành lập như bộ luật của Hội Thánh ấy. Không một độc giả nào của Tân Ước cần bằng chứng về điều này; trên mỗi trang của sách ấy đều trải ra bằng chứng rằng ngay từ đầu Cựu Ước đã được người Cơ Đốc cũng như người Do Thái thành kính công nhận là luật pháp. Như vậy Hội Thánh của Đấng Christ chưa bao giờ thiếu một "bộ Kinh Thánh" hay một "quy điển."
 
@@ -37,9 +33,5 @@ Tuy nhiên, cần hiểu rõ rằng điều cấu thành một sách thành mộ
 Nói tóm lại, các Hội Thánh đầu tiên đã tiếp nhận, như chúng ta tiếp nhận, vào Tân Ước của họ mọi sách được chứng minh bằng lịch sử cho họ là do các sứ đồ ban cho các Hội Thánh như bộ luật của họ; và chúng ta chớ lầm lẫn các bằng chứng lịch sử về sự lưu hành và xác thực chậm chạp của các sách này trên khắp Hội Thánh rộng lớn, với bằng chứng về sự chậm chạp của việc "quy điển hóa" các sách bởi thẩm quyền hay thị hiếu của chính Hội Thánh.
 
 Princeton, N. J.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none — các thuật ngữ cố định được giữ đúng (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự cứu rỗi, sự xưng công chính, Hội Thánh, Kinh Thánh, giao ước, sự tuyển chọn). "Canon" dịch "quy điển"; "canonicity" → "tính quy điển"; "apostolicity" → "tính sứ đồ"; "instrumentum" giữ nguyên tiếng La-tinh. Bản nguồn bbwarfield.com có một lỗi đánh máy ("diferent") đã dịch theo nghĩa đúng ("khác").
 
 Mở trong trình đọc Về thư viện

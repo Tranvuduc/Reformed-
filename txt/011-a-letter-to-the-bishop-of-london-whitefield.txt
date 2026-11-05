@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Thư Gửi Giám Mục Luân Đôn
-
-**Nguyên tác:** "A Letter to the Right Reverend the Bishop of London, and the other the right rev. the bishops" — George Whitefield (1744) **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-letter-to-the-right-re_whitefield-george_1744/bim_eighteenth-century_a-letter-to-the-right-re_whitefield-george_1744_djvu.txt *(Ghi chú: nguồn là bản OCR của tờ rơi in tại Luân Đôn năm 1744; tác phẩm thật là bức thư của Whitefield gửi các Giám mục, nhằm đáp lại tờ rơi "Observations on the Conduct and Behaviour of the people called Methodists" (Những nhận xét về hạnh kiểm và thái độ của những người mang tên Giám Lý) và bênh vực chức vụ của các tín hữu Giám Lý. Bản OCR bị hỏng rất nặng — phần lớn các trang chỉ còn ký tự rác không đọc được. Bản dịch gồm tất cả các đoạn đọc được theo đúng thứ tự trong nguồn; các chỗ hỏng được đánh dấu [NEEDS REVIEW], không đoán mò.)*
-
----
+Nguyên tác: "A Letter to the Right Reverend the Bishop of London, and the other the right rev. the bishops" — George Whitefield (1744) Nguồn: https://archive.org/download/bim_eighteenth-century_a-letter-to-the-right-re_whitefield-george_1744/bim_eighteenth-century_a-letter-to-the-right-re_whitefield-george_1744_djvu.txt (Ghi chú: nguồn là bản OCR của tờ rơi in tại Luân Đôn năm 1744; tác phẩm thật là bức thư của Whitefield gửi các Giám mục, nhằm đáp lại tờ rơi "Observations on the Conduct and Behaviour of the people called Methodists" (Những nhận xét về hạnh kiểm và thái độ của những người mang tên Giám Lý) và bênh vực chức vụ của các tín hữu Giám Lý. Bản OCR bị hỏng rất nặng — phần lớn các trang chỉ còn ký tự rác không đọc được. Bản dịch gồm tất cả các đoạn đọc được theo đúng thứ tự trong nguồn; các chỗ hỏng được đánh dấu [NEEDS REVIEW], không đoán mò.)
 
 Thưa Đức Giám Mục Đáng Kính [NEEDS REVIEW: trang tựa bị hỏng một phần trong bản OCR] liên quan đến việc xuất bản một tờ rơi tựa là Những Nhận Xét về Hạnh Kiểm và Thái Độ của những người mang tên Giám Lý (Methodists).
 
@@ -19,8 +15,6 @@ Bởi George Whitefield, Cử nhân Văn chương, trước đây thuộc [NEEDS
 Chứng dối [NEEDS REVIEW: bản OCR ghi "False Witnesses" — có lẽ là châm ngôn trên trang tựa].
 
 In cho J. Ronson, tại hiệu Sư Tử Vàng [NEEDS REVIEW: bản OCR ghi "Golden-Liew", rõ ràng là lỗi nhận dạng của "Golden-Lion"] ở phố Ludgate [NEEDS REVIEW: bản OCR ghi "Ludeate-freet"]; bán tại Nhà Tạm (Tabernacle), và bởi ông John Sims [NEEDS REVIEW: bản OCR ghi "Joux Sizis"] ở phố Pitfield [NEEDS REVIEW: bản OCR ghi "Pigfield"], Hoxton. 1744. Giá bốn xu.
-
----
 
 THƯ Gửi Đức Giám Mục đáng kính của Luân Đôn, v.v.
 
@@ -57,9 +51,5 @@ Thưa Đức Giám Mục,
 [NEEDS REVIEW: địa điểm và ngày tháng bị hỏng trong bản OCR]
 
 George Whitefield.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Bản OCR của nguồn này bị hỏng rất nặng (phần lớn các trang chỉ còn ký tự rác); mọi chỗ không đọc được đều đánh dấu [NEEDS REVIEW], không đoán mò. - "Pente" trong bản OCR có lẽ là "Pembroke" (Pembroke College, Oxford) nhưng không chắc — đã đánh dấu NEEDS REVIEW. - "Methodists" dịch là "tín hữu Giám Lý"; "Dissenters" dịch là "người ly khai"; "Act of Toleration" = "Đạo luật Khoan dung"; "Act of Uniformity" = "Đạo luật Đồng nhất".
 
 Mở trong trình đọc Về thư viện

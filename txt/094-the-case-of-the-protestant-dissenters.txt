@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Vụ Kiện Của Người Tin Lành Bất Đồng
-
-**Nguyên tác:** "The Case of the Protestant Dissenters, Represented and Argued" — John Howe (1689) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_the-case-of-the-protesta_howe-john_1689/bim_early-english-books-1641-1700_the-case-of-the-protesta_howe-john_1689_djvu.txt *(Ghi chú: tác phẩm thật là toàn văn tập sách 4 trang của John Howe (in tại Luân-đôn, 1689), trình bày và biện luận cho trường hợp của người Tin Lành Bất Đồng — quyền nhóm họp thờ phượng Đức Chúa Trời theo lương tâm và phản đối các luật ép buộc. Dòng "Đã được cấp phép và đăng ký theo lệnh", dòng tái bản từ thư viện Huntington, và các ký hiệu in ấn ở cuối đã loại bỏ. Các ghi chú bên lề trong bản gốc (trích dẫn sách của Tiến sĩ Sherlock; chú thích về Numa và Egeria) được giữ lại trong ngoặc.)*
-
----
+Nguyên tác: "The Case of the Protestant Dissenters, Represented and Argued" — John Howe (1689) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_the-case-of-the-protesta_howe-john_1689/bim_early-english-books-1641-1700_the-case-of-the-protesta_howe-john_1689_djvu.txt (Ghi chú: tác phẩm thật là toàn văn tập sách 4 trang của John Howe (in tại Luân-đôn, 1689), trình bày và biện luận cho trường hợp của người Tin Lành Bất Đồng — quyền nhóm họp thờ phượng Đức Chúa Trời theo lương tâm và phản đối các luật ép buộc. Dòng "Đã được cấp phép và đăng ký theo lệnh", dòng tái bản từ thư viện Huntington, và các ký hiệu in ấn ở cuối đã loại bỏ. Các ghi chú bên lề trong bản gốc (trích dẫn sách của Tiến sĩ Sherlock; chú thích về Numa và Egeria) được giữ lại trong ngoặc.)
 
 Họ cùng chịu một nghĩa vụ chung với phần còn lại của nhân loại, bởi luật tự nhiên phổ quát, phải thờ phượng Đức Chúa Trời trong các buổi nhóm.
 
@@ -48,9 +44,9 @@ Người ta thường viện rằng, phải hết sức tôn trọng luật phá
 
 Nếu vấn đề được tra xét kỹ, cũng chẳng có được một cớ nào về thẩm quyền bắt nguồn cho những mục đích như thế từ dân chúng, mà ngày nay ai cũng thừa nhận là nơi tiếp nhận đầu tiên của quyền cai trị được ủy thác. Đức Chúa Trời, thật vậy, có thể đặt nghĩa vụ không thể chối cãi bởi các luật đã biết của Ngài, trên mọi lương tâm loài người về tôn giáo, hay bất cứ điều gì khác. Và những kẻ đại diện một dân tộc, theo hiến chế của chính quyền, có thể làm luật cho họ về những điều họ ủy thác cho mình. Nhưng nếu hỏi từng người dân Anh, họ có nói rằng họ đã ủy thác cho các đại diện mình, tôn giáo, và lương tâm mình, để muốn làm gì thì làm chăng? Khi đến lượt chính các ngươi được người khác đại diện, đây có phải là phần của sự ủy thác mà các ngươi giao phó chăng?
 
-Điều Tiến sĩ Sherlock nói một cách xứng đáng, về một giám mục, ông có thể (và đặc biệt, về sau, đã) nói, về mọi người khác, rằng: Linh hồn và lương tâm của mỗi người không thể được đại diện trong một công đồng, hơn là trong ngày phán xét; linh hồn và lương tâm của mỗi người phải do chính mình giữ, và không thể được đại diện bởi ai. *(Ghi chú bên lề trong bản gốc: "Vindication of some Protestant Principles" — "Biện hộ một số nguyên tắc Tin Lành", v.v. trang 52.)*
+Điều Tiến sĩ Sherlock nói một cách xứng đáng, về một giám mục, ông có thể (và đặc biệt, về sau, đã) nói, về mọi người khác, rằng: Linh hồn và lương tâm của mỗi người không thể được đại diện trong một công đồng, hơn là trong ngày phán xét; linh hồn và lương tâm của mỗi người phải do chính mình giữ, và không thể được đại diện bởi ai. (Ghi chú bên lề trong bản gốc: "Vindication of some Protestant Principles" — "Biện hộ một số nguyên tắc Tin Lành", v.v. trang 52.)
 
-Cần phải xét rằng, đạo Cơ Đốc, ở chỗ nó thêm vào luật tự nhiên, hoàn toàn là vấn đề mặc khải. Và ai cũng biết rằng ngay cả giữa vòng người ngoại, trong việc lập các lễ nghi và thể chế tôn giáo *(như Numa, từ nữ thần Egeria của ông)*, ít nhất người ta đã giả vờ có mặc khải, trên một nguyên tắc ngầm rằng trong những vấn đề như thế quyền lực loài người không thể ràng buộc lương tâm dân chúng,
+Cần phải xét rằng, đạo Cơ Đốc, ở chỗ nó thêm vào luật tự nhiên, hoàn toàn là vấn đề mặc khải. Và ai cũng biết rằng ngay cả giữa vòng người ngoại, trong việc lập các lễ nghi và thể chế tôn giáo (như Numa, từ nữ thần Egeria của ông), ít nhất người ta đã giả vờ có mặc khải, trên một nguyên tắc ngầm rằng trong những vấn đề như thế quyền lực loài người không thể ràng buộc lương tâm dân chúng,
 
 Và bởi không có thẩm quyền nào nhận được từ Đức Chúa Trời hay loài người. Vì vậy chúng tôi bị phản ánh một cách bất công, khi người ta gán cho chúng tôi rằng, bởi việc dùng những vấn đề như thế cho tự do của mình, chúng tôi đã thừa nhận một quyền miễn trừ bất hợp pháp. Trong việc này chúng tôi đã không làm điều gì khác hơn điều chúng tôi đã làm khi không có sự miễn trừ nào được ban hay giả vờ, trong lương tâm về bổn phận với Đấng đã ban cho chúng tôi hơi thở. Chúng tôi cũng không vì thế mà thực hành cách khác, vì nghĩ những luật ấy đã được miễn trừ, nhưng vì nghĩ chúng không phải là luật. [NEEDS REVIEW: một mệnh đề trong đoạn này bị hỏng trong OCR; đã dịch theo ý đọc được]
 
@@ -113,7 +109,5 @@ Và thật vậy, nếu trong hoàn cảnh của mình, chúng ta thu hẹp lợ
 TÁI BÚT. Tên của ông Hale của trường Eton, và của một vị giám mục nổi tiếng nhất sau này của Hội Thánh Anh, là những người đã khẳng định nguyên tắc này [rằng nếu những điều bị áp đặt dưới danh nghĩa không quan trọng, mà nhiều người cho là tội lỗi, và một sự chia rẽ xảy ra theo đó, thì những kẻ áp đặt là những kẻ gây chia rẽ.] sẽ vĩ đại ở Anh, chừng nào các tác phẩm của họ còn sống, và lương tri còn được hiểu ở đó.
 
 HẾT.
-
---- TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none — các thuật ngữ cố định đã dùng đúng (Đức Chúa Trời, Chúa Giê-xu Christ, sự cứu rỗi, Hội Thánh, Kinh Thánh, ân điển, Phúc Âm). "Dissenters" được dịch là "người Bất Đồng" (thuật ngữ lịch sử chỉ người Tin Lành không tuân phục Hội Thánh Anh). "Anglica fides / Punica fides" dịch là "chữ tín của người Anh / sự bội tín của người Carthage". Một số mệnh đề trong bản OCR bị hỏng đã đánh dấu [NEEDS REVIEW].
 
 Mở trong trình đọc Về thư viện

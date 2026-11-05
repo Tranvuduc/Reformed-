@@ -3174,6 +3174,4 @@ Tóm lại mọi điều đã nói về thế giới bên kia, tôi đưa ra hai
 
 2. Dầu bây giờ chúng ta có thể nhẹ nhàng bỏ qua, và ít suy ngẫm về điều đã nói trên đó: tôi không nghi ngờ, tất cả chúng ta sẽ có những suy ngẫm về nó, khi chúng ta đến đó; đặc biệt, dầu chúng ta đáp xuống phần trên hay phần dưới của nó, nhìn lại điều chúng ta đã nghe về nó, chúng ta sẽ có suy ngẫm này: Rằng người ta chưa kể được một nửa. Còn chúng ta sẽ có những gì khác ở đó, ngày ấy sẽ tỏ ra.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Nguồn là bản quét OCR (ấn bản 1799, kiểu chữ s-dài ſ): các lỗi OCR hiển nhiên đã được sửa theo ngữ cảnh; chỗ thực sự không đọc được đã đánh dấu [NEEDS REVIEW] tại chỗ, không đoán mò. - Vài tham chiếu Kinh Thánh trong bản in gốc có vẻ là lỗi in (số chương/câu sai); người dịch đã địa phương hóa theo câu trích dẫn thực tế và ghi chú trong các điểm [NEEDS REVIEW]; các tham chiếu rõ ràng giữ nguyên như bản in. - Trang tiêu đề bản in bị vỡ mảnh OCR: đã dịch các phần đọc được, các mảnh vụn ghi [NEEDS REVIEW]. - Tiêu đề trang chạy (running headers), số trang, dấu chữ ký in đã bỏ; giữ tiêu đề bài giảng, câu gốc, và các tiêu đề giáo lý. - "bí tích" → "nghi thức thánh"; "glad tidings" → "tin vui"; "grace" chỉ ân điển thần học → "ân điển". - Bản dịch AI, chưa được mục sư duyệt lại.
-
 Mở trong trình đọc Về thư viện

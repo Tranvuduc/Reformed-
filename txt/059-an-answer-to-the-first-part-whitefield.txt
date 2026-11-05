@@ -6,19 +6,15 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lời Biện Hộ Cho Người Methodist
+Nguyên tác: "An answer to the first part of an anonymous pamphlet, entitled Observations upon the conduct and behaviour of a certain sect usually distinguished by the name of Methodists. In a letter to the Right Reverend the Bishop of London, and the other the Right Rev'd the Bishops concern'd in the publication thereof. By George Whitefield, A.B. late of Pembroke-College, Oxford" — George Whitefield (1744) Nguồn: https://archive.org/download/bim_eighteenth-century_an-answer-to-the-first-p_whitefield-george_1744_0/bim_eighteenth-century_an-answer-to-the-first-p_whitefield-george_1744_0_djvu.txt (Ghi chú: tác phẩm thật là bức thư của George Whitefield gửi Đức Giám mục Luân Đôn và các Giám mục có liên quan đến việc xuất bản tờ rơi nặc danh "Observations…", để đáp lại phần đầu của tờ rơi ấy và biện hộ cho người Methodist. Tựa sách đầy đủ đã được đối chiếu qua danh mục ESTC do trang tựa trong bản OCR bị hỏng hoàn toàn. Các trang đầu (trang tựa, lời đề tặng, đoạn mở đầu thư, một mẩu quảng cáo nhắc đến ông John Sims người bán sách) bị OCR hỏng nặng, chỉ còn các mảnh rời rạc — những chỗ không thể tái dựng trung thành đều được đánh dấu [NEEDS REVIEW]. Phần chính của thư (từ khoảng giữa đến cuối) đọc được khá rõ và được dịch đầy đủ. Đã loại bỏ số trang, ký hiệu in ấn và ký tự rác OCR.)
 
-**Nguyên tác:** "An answer to the first part of an anonymous pamphlet, entitled Observations upon the conduct and behaviour of a certain sect usually distinguished by the name of Methodists. In a letter to the Right Reverend the Bishop of London, and the other the Right Rev'd the Bishops concern'd in the publication thereof. By George Whitefield, A.B. late of Pembroke-College, Oxford" — George Whitefield (1744) **Nguồn:** https://archive.org/download/bim_eighteenth-century_an-answer-to-the-first-p_whitefield-george_1744_0/bim_eighteenth-century_an-answer-to-the-first-p_whitefield-george_1744_0_djvu.txt *(Ghi chú: tác phẩm thật là bức thư của George Whitefield gửi Đức Giám mục Luân Đôn và các Giám mục có liên quan đến việc xuất bản tờ rơi nặc danh "Observations…", để đáp lại phần đầu của tờ rơi ấy và biện hộ cho người Methodist. Tựa sách đầy đủ đã được đối chiếu qua danh mục ESTC do trang tựa trong bản OCR bị hỏng hoàn toàn. Các trang đầu (trang tựa, lời đề tặng, đoạn mở đầu thư, một mẩu quảng cáo nhắc đến ông John Sims người bán sách) bị OCR hỏng nặng, chỉ còn các mảnh rời rạc — những chỗ không thể tái dựng trung thành đều được đánh dấu [NEEDS REVIEW]. Phần chính của thư (từ khoảng giữa đến cuối) đọc được khá rõ và được dịch đầy đủ. Đã loại bỏ số trang, ký hiệu in ấn và ký tự rác OCR.)*
+LỜI ĐÁP LẠI PHẦN ĐẦU CỦA MỘT TỜ RƠI NẶC DANH,
 
----
+có tựa là "Nhận Xét về Hạnh Kiểm và Cách Hành Xử của một giáo phái thường được gọi là Methodist".
 
-**LỜI ĐÁP LẠI PHẦN ĐẦU CỦA MỘT TỜ RƠI NẶC DANH,**
+Trong một bức thư gửi Đức Giám Mục Luân Đôn, và các Đức Giám Mục khác có liên quan đến việc xuất bản tờ rơi ấy.
 
-*có tựa là "Nhận Xét về Hạnh Kiểm và Cách Hành Xử của một giáo phái thường được gọi là Methodist".*
-
-*Trong một bức thư gửi Đức Giám Mục Luân Đôn, và các Đức Giám Mục khác có liên quan đến việc xuất bản tờ rơi ấy.*
-
-*Bởi George Whitefield, Cử nhân, nguyên Học viện Pembroke, Oxford.*
+Bởi George Whitefield, Cử nhân, nguyên Học viện Pembroke, Oxford.
 
 [NEEDS REVIEW: đề từ và đoạn mở đầu thư bị OCR hỏng nặng. Các mảnh đọc được: "Sứ đồ Phi-e-rơ […] trả lời […] hỏi lẽ về sự trông cậy trong chúng ta, […] hiền hòa và kính sợ" (có lẽ là I Phi-e-rơ 3:15); "nếu đây phải là [cách cư xử] của chúng ta đối với mọi người, thì chúng ta càng phải cư xử như vậy đối với những người là kẻ coi sóc Hội Thánh của Đức Chúa Trời, và do đó được trao thẩm quyền đòi chúng ta trả lời"; "[những người] gọi là Methodist […] trong mấy tuần qua đã bị in trong một [ấn phẩm], và được truyền tay và [bán]…" Mảnh ngày tháng: "Jan. 26, 174[4?]" — có lẽ là ngày viết thư. Mẩu quảng cáo: "An Answer […] be left with Mr. J. Syms, &c." (ông John Sims, người bán sách ở Pitfield-Street, Hoxton — theo danh mục ESTC) — không tái dựng được.]
 
@@ -49,7 +45,5 @@ Tôi đã xét xem tâm trí tác giả tờ rơi này [bị thành kiến đế
 Nhưng tôi đã xong. — Tôi không muốn vu khống ai. — Tôi cũng không, thưa các Đức Giám Mục, khi trình bày lẽ về sự trông cậy trong tôi, làm điều ấy bằng cách nào khác ngoài sự hiền hòa và kính sợ. — Vì vậy tôi sẽ tiến hành đáp lại các phần khác của tờ rơi; nhưng tôi sẽ dành điều ấy cho một bức thư khác, mà, nếu Đức Chúa Trời muốn, sẽ được xuất bản trong thời gian ngắn. Trong lúc ấy, tôi khiêm tốn phó thác bức thư này cho phước lành thiêng liêng và sự xem xét của các Đức Giám Mục, và xin phép được ký tên, thưa [các Đức Giám Mục],
 
 [Người] con và đầy tớ [rất vâng phục?] của các Đức Giám Mục, George Whitefield. [NEEDS REVIEW: phần ký tên, chức danh và ngày tháng cuối thư bị OCR hỏng]
-
---- TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none về bảng thuật ngữ cố định. Lưu ý: bản OCR nguồn bị hỏng nặng ở các trang đầu (trang tựa, đề từ I Phi-e-rơ 3:15, đoạn mở đầu, mẩu quảng cáo) và rải rác nhiều đoạn trong thân thư; mọi chỗ không tái dựng được trung thành đều đã đánh dấu [NEEDS REVIEW] thay vì đoán mò, theo tiền lệ các cuốn #11, #14, #85, #87 trong dự án. Tựa sách đầy đủ và người nhận thư (Đức Giám mục Luân Đôn và các Giám mục liên quan) đã được đối chiếu qua danh mục ESTC (T57932). Đoạn trích La-tinh "Tudo rapiun descendimus in Gehennam" bị hỏng không thể tái dựng. Các trích dẫn Kinh Thánh (Xuất Ê-díp-tô Ký 5:15–16; Công Vụ 18:12–16) được viết lại theo văn phong Kinh Thánh tiếng Việt 1934.
 
 Mở trong trình đọc Về thư viện

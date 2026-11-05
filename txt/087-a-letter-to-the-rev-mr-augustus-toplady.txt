@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Thư Gửi Mục Sư Augustus Toplady
-
-**Nguyên tác:** "A letter to the Rev. Mr. Augustus Toplady. Written in great part by himself" — Khuyết danh (thư gửi cho Augustus Toplady) (1770) **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-letter-to-the-rev-mr_toplady-augustus_1770/bim_eighteenth-century_a-letter-to-the-rev-mr_toplady-augustus_1770_djvu.txt *(Ghi chú: nguồn là bản OCR của tờ truyền đạo giá hai xu, in tại Luân Đôn năm 1770. Tác phẩm thật là bức thư nặc danh (ký tên "Một độc giả của bức thư ông") gửi cho mục sư Augustus Toplady; đúng như tựa đề "phần lớn do chính ông viết", bức thư gồm chủ yếu những lời của chính Toplady được trích dẫn lại để phản bác, liên quan đến bức thư ông đã in gửi cho mục sư John Wesley. Đã loại bỏ ký tự rác OCR, số trang, và các mảnh chữ hỏng. Tên "Wesley" trong bản OCR bị nhận dạng sai thành nhiều dạng (Feftey, Veſey, Vefley...) đã được chuẩn hóa thành "Wesley". Trong bản gốc, mọi lời trích của ông Toplady đều được đặt trong dấu ngoặc kép; bản dịch giữ nguyên các đoạn trích dẫn ấy.)*
-
----
+Nguyên tác: "A letter to the Rev. Mr. Augustus Toplady. Written in great part by himself" — Khuyết danh (thư gửi cho Augustus Toplady) (1770) Nguồn: https://archive.org/download/bim_eighteenth-century_a-letter-to-the-rev-mr_toplady-augustus_1770/bim_eighteenth-century_a-letter-to-the-rev-mr_toplady-augustus_1770_djvu.txt (Ghi chú: nguồn là bản OCR của tờ truyền đạo giá hai xu, in tại Luân Đôn năm 1770. Tác phẩm thật là bức thư nặc danh (ký tên "Một độc giả của bức thư ông") gửi cho mục sư Augustus Toplady; đúng như tựa đề "phần lớn do chính ông viết", bức thư gồm chủ yếu những lời của chính Toplady được trích dẫn lại để phản bác, liên quan đến bức thư ông đã in gửi cho mục sư John Wesley. Đã loại bỏ ký tự rác OCR, số trang, và các mảnh chữ hỏng. Tên "Wesley" trong bản OCR bị nhận dạng sai thành nhiều dạng (Feftey, Veſey, Vefley...) đã được chuẩn hóa thành "Wesley". Trong bản gốc, mọi lời trích của ông Toplady đều được đặt trong dấu ngoặc kép; bản dịch giữ nguyên các đoạn trích dẫn ấy.)
 
 THƯ GỬI MỤC SƯ AUGUSTUS TOPLADY. Phần lớn do chính ông viết. Liên quan đến một phần bức thư ông mới in gửi cho Mục sư JOHN WESLEY. [Giá hai xu.] LUÂN ĐÔN: IN NĂM MDCCLXX [1770].
 
@@ -103,7 +99,5 @@ Nếu tôi hiểu đúng, ân điển và tình yêu, khi nói về Đức Chúa
 Tôi xin dừng bút, với lòng thật sự mong ước rằng lòng ông, lòng tôi, và lòng của mọi Cơ Đốc nhân, đều cảm nhận được trọn vẹn ý nghĩa của lời tuyên bố thiêng liêng ấy: Đức Chúa Trời là sự yêu thương [1 Giăng 4:8].
 
 Thưa Mục sư đáng kính, với tất cả lòng kính trọng, Người đầy tớ vâng phục của ông, Một độc giả của bức thư ông. Luân Đôn, ngày 6 tháng 8 năm 1770.
-
---- TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: (1) Bản gốc in "Armenians" — có lẽ muốn nói "Arminians" (những người theo Jacobus Arminius); đã dịch là "những người theo phái Arminius" và ghi chú. (2) "electing love" → "tình yêu tuyển chọn"; "reprobating vengeance" → "cơn thạnh nộ loại bỏ"; "free Grace" → "Ân Điển Tự Do"; "the atoning blood of the cross" → "huyết chuộc tội trên thập tự giá". (3) Các tên riêng Wesley/Toplady trong bản OCR bị nhận dạng sai thành nhiều dạng đã được chuẩn hóa. (4) Nhiều đoạn OCR hỏng/xáo trộn đã được tái dựng theo ý chính và đánh dấu [NEEDS REVIEW], không đoán mò chi tiết. Các thuật ngữ cố định còn lại được giữ đúng: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, ân điển, sự cứu rỗi, sự tuyển chọn, sự tiền định, sự xưng công chính, giao ước, Kinh Thánh, Hội Thánh.
 
 Mở trong trình đọc Về thư viện

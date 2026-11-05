@@ -6,13 +6,9 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Những Lời Dạy Cuối Cùng Của Ông Matthew Poole
+Nguyên tác: "Mr. Matthew Pool, his late sayings" — Matthew Poole (1679) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_mr-matthew-pool-his_poole-matthew_1679/bim_early-english-books-1641-1700_mr-matthew-pool-his_poole-matthew_1679_djvu.txt (Ghi chú: nguồn là bản in broadside tại Luân-đôn ("Printed for P. Brooksby..."). Tác phẩm thật gồm hai phần: (1) luận văn ngắn "Concerning the most Mater[ial?]..." bác bỏ thuyết vô ngộ của Hội Thánh Rô-ma và khẳng định Kinh Thánh là chuẩn mực duy nhất của đức tin; (2) 61 câu châm ngôn/lời dạy thiêng liêng. Cùng nội dung còn được in lại tại Edinburgh năm 1679 (văn bản của mục #15 trong danh sách — trùng nội dung nên mục #15 được bỏ qua). Các đoạn chữ rác do OCR và cột chữ bị xáo trộn đã được loại bỏ.)
 
-**Nguyên tác:** "Mr. Matthew Pool, his late sayings" — Matthew Poole (1679) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_mr-matthew-pool-his_poole-matthew_1679/bim_early-english-books-1641-1700_mr-matthew-pool-his_poole-matthew_1679_djvu.txt *(Ghi chú: nguồn là bản in broadside tại Luân-đôn ("Printed for P. Brooksby..."). Tác phẩm thật gồm hai phần: (1) luận văn ngắn "Concerning the most Mater[ial?]..." bác bỏ thuyết vô ngộ của Hội Thánh Rô-ma và khẳng định Kinh Thánh là chuẩn mực duy nhất của đức tin; (2) 61 câu châm ngôn/lời dạy thiêng liêng. Cùng nội dung còn được in lại tại Edinburgh năm 1679 (văn bản của mục #15 trong danh sách — trùng nội dung nên mục #15 được bỏ qua). Các đoạn chữ rác do OCR và cột chữ bị xáo trộn đã được loại bỏ.)*
-
----
-
-**Về những điểm trọng yếu nhất** [NEEDS REVIEW: tựa luận văn trong OCR ghi "Concerning the moſt Mater...", chữ cuối không đọc được; có thể là "Material Points"]
+Về những điểm trọng yếu nhất [NEEDS REVIEW: tựa luận văn trong OCR ghi "Concerning the moſt Mater...", chữ cuối không đọc được; có thể là "Material Points"]
 
 1. Điểm khác biệt giữa người Tin Lành và người theo Giáo Hoàng là ở chỗ: họ không những được phép, mà còn được các mục sư mình khích lệ, chớ nhận lấy những vấn đề thuộc về sự cứu rỗi bởi sự tin cậy mù quáng; nhưng phải tra xét Kinh Thánh về các lẽ thật đã được truyền dạy.
 
@@ -80,9 +76,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 33. Hãy quý trọng thời giờ quý báu khi thời giờ còn, chớ để đến khi đã mất hẳn mới tiếc. [NEEDS REVIEW: chữ nối giữa hai vế bị OCR làm mất]
 
----
-
-**Những lời dạy**
+Những lời dạy
 
 34. Khốn thay cho những linh hồn mà chẳng có gì ngoài sự chết và sự phán xét mới mở mắt họ ra được!
 
@@ -141,9 +135,5 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 61. Hãy để tư tưởng đầu tiên mỗi buổi sáng và tư tưởng cuối cùng mỗi buổi tối của anh em là: mình sẽ ra sao trong cõi đời đời.
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "infallible/infallibility" → "vô ngộ" (thống nhất toàn bài); "Papist" → "người Công Giáo Rô-ma"; "Romish Church" → "Hội Thánh Rô-ma"; "implicit faith" → "đức tin mù quáng"; "touch-stone" → "hòn đá thử". "Lord Jesus" (câu 53) → "Chúa Giê-xu". Các NEEDS REVIEW đều do OCR gốc bị vỡ/xáo trộn cột, đã liệt kê trong bài.
 
 Mở trong trình đọc Về thư viện

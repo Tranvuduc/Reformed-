@@ -2560,6 +2560,4 @@ Các thiên sứ đang ngồi khi mới được thấy; nhưng đã đứng d�
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Nguồn là bản scan OCR của archive.org (1869); các lỗi OCR rõ ràng đã được chuẩn hóa từ ngữ cảnh (ví dụ Lardnbr→Lardner, Mahometaxism→Mahometanism); chỗ không đọc được đánh dấu [NEEDS REVIEW], không đoán. - Các trích dẫn Kinh Thánh được dựng theo văn phong Kinh Thánh Việt Ngữ 1934 và đã Việt hóa tên sách (ví dụ John 3:16 → Giăng 3:16), nhưng chưa đối chiếu từng chữ với bản in 1934. - "bí tích" (sacrament) được dịch là "nghi thức thánh"; "eucharist" là "Tiệc Thánh". - Không có.
-
 Mở trong trình đọc Về thư viện

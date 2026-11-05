@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Thư Của Mục Sư H— Gửi Ngài Richard N—
-
-**Nguyên tác:** "A letter from the late Rev. Mr H-, to Richard N-, Esq." — James Hervey (1763) **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-letter-from-the-late-r_hervey-james_1763/bim_eighteenth-century_a-letter-from-the-late-r_hervey-james_1763_djvu.txt *(Ghi chú: nguồn là bản OCR của tờ truyền đạo in năm 1763. Tác phẩm thật gồm bức thư của cố mục sư James Hervey gửi ông Richard N— và phần "Some Account of the Dream of Altamont" (trích từ tác phẩm "Meditations among the Tombs" của cùng tác giả) được in kèm trong tờ truyền đạo. Đã loại bỏ ký tự rác OCR ở đầu trang và dòng ghi nhà in bị hỏng không đọc được.)*
-
----
+Nguyên tác: "A letter from the late Rev. Mr H-, to Richard N-, Esq." — James Hervey (1763) Nguồn: https://archive.org/download/bim_eighteenth-century_a-letter-from-the-late-r_hervey-james_1763/bim_eighteenth-century_a-letter-from-the-late-r_hervey-james_1763_djvu.txt (Ghi chú: nguồn là bản OCR của tờ truyền đạo in năm 1763. Tác phẩm thật gồm bức thư của cố mục sư James Hervey gửi ông Richard N— và phần "Some Account of the Dream of Altamont" (trích từ tác phẩm "Meditations among the Tombs" của cùng tác giả) được in kèm trong tờ truyền đạo. Đã loại bỏ ký tự rác OCR ở đầu trang và dòng ghi nhà in bị hỏng không đọc được.)
 
 Thư này đến từ người bạn chân thành của ông, và là người hết lòng quan tâm đến ích lợi tốt nhất cho ông: thư này được viết ra với một mục đích hết sức quan trọng, mà hậu quả của nó không nhỏ hơn chính hạnh phúc đời đời của ông; vì vậy, nó xứng đáng được ông cẩn thận lưu tâm. Thư này không nhằm nhiếc móc hay chê trách, càng không nhằm đắc thắng hay giễu cợt sự sai trái của ông: không; chính lòng nhân từ thuần khiết, chính thiện chí vô vị lợi đã thôi thúc tôi viết; vì vậy tôi hy vọng thư này sẽ không khơi dậy sự oán giận trong ông: tuy nhiên, dù kết quả ra sao, tôi không thể đành lòng nhìn ông bước đi trên con đường dẫn đến sự chết mà không báo cho ông biết hiểm nguy của mình; mà không vang lên bên tai ông lời cảnh cáo nghiêm khắc: "Sao các ngươi muốn chết?" [Ê-xê-chi-ên 33:11]
 
@@ -36,11 +32,9 @@ Có lẽ ông sẽ có ý khinh rẻ thư này, và ý nghĩa nghiêm túc của
 
 Xin ông đừng bận tâm tìm biết tên tôi là gì; chỉ cần ông sẽ biết điều đó sau này là đủ: hãy đợi một thời gian ngắn nữa, cho đến khi Chúa, tức Đức Chúa Trời toàn năng chí cao, gọi các từng trời ở trên cao, và đất, để Ngài phán xét dân sự Ngài [Thi Thiên 50:4]; — bấy giờ ông sẽ thấy tôi mặt đối mặt: tại đó, nơi tòa án kinh khiếp, tôi sẽ sẵn sàng vui mừng hớn hở với ông, nếu ông nghe theo lời cảnh cáo của tôi mà được sống; hoặc sẽ — điều mà xin Đức Chúa Trời ngăn trở — [phải buồn rầu về ông], trừ khi Ngài khiến lòng ông nghiêng về mà đón nhận lời cảnh cáo thân thiện này. [NEEDS REVIEW: câu cuối trong bản OCR bị cụt và khó hiểu — "or to be — what God prevent, — by inclining your heart to receive this friendly admonition"]
 
----
+GHI CHÉP VỀ GIẤC MƠ CỦA ALTAMONT
 
-## Ghi Chép Về Giấc Mơ Của Altamont
-
-*(Phần phụ lục được in kèm trong tờ truyền đạo; trích từ tác phẩm "Meditations among the Tombs" của cùng tác giả)*
+(Phần phụ lục được in kèm trong tờ truyền đạo; trích từ tác phẩm "Meditations among the Tombs" của cùng tác giả)
 
 Altamont là một người dòng dõi cao sang, khí phách cao ngạo; tài trí lớn, mà dục vọng cũng mạnh; mọi mặt đều toàn vẹn; và sự gian ác cũng không kém phần toàn vẹn. Cách đối xử tệ bạc của ông đã gây nên cái chết của người vợ đáng yêu nhất; và sự hoang phí quá độ của ông, trên thực tế, đã tước mất quyền thừa kế của đứa con duy nhất.
 
@@ -65,7 +59,5 @@ Người bạn của ông vô cùng xúc động, đến rơi lệ, trước c�
 "Chúng tôi đã sửng sốt biết bao? Vậy mà chẳng bao lâu sau, còn sửng sốt hơn nữa: với đôi mắt thất thần dường nào; với nét mặt tuyệt vọng dường nào, ông kêu lên! "Những nguyên tắc của ta đã đầu độc bạn ta; sự hoang phí của ta đã khiến con trai ta trắng tay; sự tệ bạc của ta đã giết chết vợ ta! — Còn có một địa ngục nào khác nữa sao? — Ôi! Đấng Chúa Trời mà ta đã phạm thượng, song đầy lòng khoan dung! Chính địa ngục cũng là nơi ẩn náu, nếu nó che giấu ta khỏi cơn thạnh nộ của Ngài.""
 
 Chẳng bao lâu sau, trí khôn ông suy sụp: trí tưởng tượng kinh hoàng của ông thốt ra những điều ghê rợn không thể lặp lại, cũng chẳng bao giờ quên được: và trước khi mặt trời mọc (mặt trời mà tôi hy vọng ít khi chứng kiến những kẻ như ông), con người vui vẻ, trẻ trung, dòng dõi cao sang, tài trí, toàn vẹn, mà khốn khổ tột cùng — Altamont — đã trút hơi thở cuối cùng.
-
---- TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: (1) "making atonement to offended justice" được dịch là "làm nguôi được sự công chính bị xúc phạm" theo ngữ cảnh (ý là xoa dịu), thay vì dùng cứng "sự chuộc tội". (2) "Mr H——y" trong lời người hấp hối — bản OCR ghi "Mr H——y", có lẽ là "Hervey" (tên tác giả); đã giữ nguyên dạng viết tắt và đánh dấu NEEDS REVIEW. (3) Câu cuối bức thư trong bản OCR bị cụt/khó hiểu, đã dịch sát chữ và đánh dấu NEEDS REVIEW. (4) Đoạn "Keep those tears for thyself: I have undone..." trong phần Altamont bị hỏng OCR, không tái dựng được — đã đánh dấu NEEDS REVIEW, không đoán mò. (5) "hopes full of immortality" trích từ Khôn Ngoan 3:4 (sách ngoại điển); đã ghi chú trong bản dịch. Các thuật ngữ cố định còn lại được giữ đúng: Đức Chúa Trời, ân điển, sự cứu rỗi, giao ước, Kinh Thánh.
 
 Mở trong trình đọc Về thư viện

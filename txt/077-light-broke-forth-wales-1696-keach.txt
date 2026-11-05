@@ -3694,6 +3694,4 @@ Thưa ông, tôi mong câu trả lời của ông cho các lập luận này m�
 
 FINIS [NEEDS REVIEW: OCR đọc “EEN1&”; đây gần như chắc chắn là chữ FINIS bị nhận dạng sai.]
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Nguồn là bản scan OCR của ấn bản in năm 1696 (chữ ſ dài đã được chuẩn hóa); các dấu trang trí, số trang, chữ bắt trang (catchword) đã được loại bỏ. Các lỗi OCR rõ ràng đã được sửa lặng lẽ ở những chỗ chắc chắn; những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW] tại chỗ, không đoán bừa. - Đánh số chương giữ nguyên như bản in 1696 (đánh I–XIV rồi XVI–XXVI, bỏ qua XV); các tiêu đề chương bị OCR làm hỏng được dịch như in, không đánh lại số. Bảng mục lục ở đầu sách được đối chiếu với bản chép EEBO-TCP A47591 của cùng ấn bản 1696 để sửa các tên tác giả và số trang bị hỏng. - "ordinance" (về báp-têm/Tiệc Thánh) được dịch thống nhất là "nghi thức thánh"; "sacrament" cũng là "nghi thức thánh". - Trích dẫn Kinh Thánh theo văn phong 1934 nhưng không đối chiếu từng chữ với bản in 1934; các tham chiếu giữ nguyên như bản in kể cả khi có vẻ sai. - Chữ Hy Lạp/Latin giữ nguyên; trích dẫn tiếng Hà Lan trên trang tựa giữ nguyên, chỉ dịch phần chú giải tiếng Anh. - Đây là bản dịch AI, chưa được mục sư hiệu đính.
-
 Mở trong trình đọc Về thư viện

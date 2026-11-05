@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Chủ Đề Và Tâm Tình Của Chức Vụ Phúc Âm
-
-**Nguyên tác:** "The Subject and Temper of the Gospel Ministry: A Sermon preached in the Parish-Church of St Mary Woolnoth, on Sunday, December 19, 1779" — John Newton (1780) **Nguồn:** https://archive.org/download/bim_eighteenth-century_the-subject-and-temper-o_newton-john_1780/bim_eighteenth-century_the-subject-and-temper-o_newton-john_1780_djvu.txt *(Ghi chú: tác phẩm thật là bài giảng của John Newton nhân buổi nhóm công khai đầu tiên của ông tại nhà thờ St Mary Woolnoth, gồm: trang tựa (có câu đề từ I Tê-sa-lô-ni-ca 2:8), lời đề tặng gửi dân chúng hai giáo xứ St Mary Woolnoth và St Mary Woolchurch, và toàn văn bài giảng trên nền Ê-phê-sô 4:15. Đã loại bỏ: dòng giá bán và tên nhà in, ký hiệu trang trí, số trang, và các mảnh vỡ chữ OCR không đọc được trên trang.)*
-
----
+Nguyên tác: "The Subject and Temper of the Gospel Ministry: A Sermon preached in the Parish-Church of St Mary Woolnoth, on Sunday, December 19, 1779" — John Newton (1780) Nguồn: https://archive.org/download/bim_eighteenth-century_the-subject-and-temper-o_newton-john_1780/bim_eighteenth-century_the-subject-and-temper-o_newton-john_1780_djvu.txt (Ghi chú: tác phẩm thật là bài giảng của John Newton nhân buổi nhóm công khai đầu tiên của ông tại nhà thờ St Mary Woolnoth, gồm: trang tựa (có câu đề từ I Tê-sa-lô-ni-ca 2:8), lời đề tặng gửi dân chúng hai giáo xứ St Mary Woolnoth và St Mary Woolchurch, và toàn văn bài giảng trên nền Ê-phê-sô 4:15. Đã loại bỏ: dòng giá bán và tên nhà in, ký hiệu trang trí, số trang, và các mảnh vỡ chữ OCR không đọc được trên trang.)
 
 CHỦ ĐỀ VÀ TÂM TÌNH CỦA CHỨC VỤ PHÚC ÂM: MỘT BÀI GIẢNG
 
@@ -19,8 +15,6 @@ Giảng tại Nhà Thờ Giáo Xứ St Mary Woolnoth, Vào Chúa Nhật, ngày 1
 Bởi JOHN NEWTON, Quản Nhiệm.
 
 "Vì lòng yêu mến anh em cách thiết tha, chúng tôi đã sẵn lòng trao cho anh em, không những Phúc Âm của Đức Chúa Trời mà thôi, nhưng cả linh hồn chúng tôi nữa, vì anh em đã trở nên yêu dấu cho chúng tôi." I Tê-sa-lô-ni-ca 2:8.
-
----
 
 GỬI DÂN CHÚNG
 
@@ -31,8 +25,6 @@ St MARY WOOLNOTH, St MARY WOOLCHURCH,
 Bài giảng này được trân trọng đề tặng và kính gửi,
 
 Bởi người đầy tớ yêu mến của quý vị trong Phúc Âm, JOHN NEWTON.
-
----
 
 Ê-PHÊ-SÔ 4:15;
 
@@ -55,9 +47,5 @@ Xin kết thúc bằng một nhận xét. Những việc xảy ra hôm nay, và 
 Tôi chỉ thêm lời nài xin thiết tha được quý vị thường xuyên và sốt sắng nhớ đến trong lời cầu nguyện; rằng Cha hay thương xót, Đức Chúa Trời của mọi sự khôn ngoan, sẽ tác động trên tâm linh tôi, đến nỗi không phần nào trong cách cư xử của tôi lại không xứng với điều tôi đã xưng ra lúc này — rằng khi nói lẽ thật trong tình yêu thương, và làm sáng tỏ lẽ thật ấy bằng một lối sống xứng đáng [NEEDS REVIEW: bản OCR kết thúc đột ngột tại "commending it by a conversation becoming", phần còn lại của câu bị mất trong bản quét].
 
 * II Cô-rinh-tô 5:20. * Khải Huyền 22:18, 19. * I Cô-rinh-tô 13:1. † Công Vụ 10:28. * Rô-ma 12:1. † II Cô-rinh-tô 5:11. * I Tê-sa-lô-ni-ca 2:8. † II Cô-rinh-tô 12:14. ‡ Ê-phê-sô 3:19. ‖ Ga-la-ti 1:4. * I Ti-mô-thê 4:16. † Ê-xê-chi-ên 24:15. * II Cô-rinh-tô 5:10. † Gia-cơ 1:21.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: Từ Hy Lạp trong câu "in the original" (Ê-phê-sô 4:15) bị OCR hỏng ("Axrtorls er") — được cho là ἀληθεύοντες ("nói lẽ thật"), đã ghi NEEDS REVIEW. Một đoạn văn trước phần kết bị mất trong bản quét (chỉ còn mảnh vỡ), đã ghi NEEDS REVIEW; câu cuối của bài giảng bị cắt ngang tại "commending it by a conversation becoming", đã ghi NEEDS REVIEW.
 
 Mở trong trình đọc Về thư viện

@@ -6,31 +6,27 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Trả Lời Các Câu Hỏi Gửi Đêm Qua
-
-**Nguyên tác:** "Unto the Questions sent me last night, I pray accept of the ensuing Answer, under the Title of two Questions concerning the Power of the supreme Magistrate about Religion, and the Worship of God; with one about Tythes, Proposed and Resolved" — John Owen (1659) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_unto-the-questions-sent-_owen-john_1659/bim_early-english-books-1641-1700_unto-the-questions-sent-_owen-john_1659_djvu.txt *(Ghi chú: nguồn là bản scan OCR của tờ rơi 8 trang (London: Francis Tyton, 1659); tác phẩm thật là ba câu hỏi–đáp dưới đây, ký tên "J.O." Bản dịch đối chiếu với bản đánh máy EEBO-TCP (B27724) để sửa các lỗi OCR rõ ràng. Phần trang trí, số trang và các ký tự rác của OCR đã được loại bỏ.)*
-
----
+Nguyên tác: "Unto the Questions sent me last night, I pray accept of the ensuing Answer, under the Title of two Questions concerning the Power of the supreme Magistrate about Religion, and the Worship of God; with one about Tythes, Proposed and Resolved" — John Owen (1659) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_unto-the-questions-sent-_owen-john_1659/bim_early-english-books-1641-1700_unto-the-questions-sent-_owen-john_1659_djvu.txt (Ghi chú: nguồn là bản scan OCR của tờ rơi 8 trang (London: Francis Tyton, 1659); tác phẩm thật là ba câu hỏi–đáp dưới đây, ký tên "J.O." Bản dịch đối chiếu với bản đánh máy EEBO-TCP (B27724) để sửa các lỗi OCR rõ ràng. Phần trang trí, số trang và các ký tự rác của OCR đã được loại bỏ.)
 
 Gửi các câu hỏi được gửi cho tôi đêm qua, xin hãy nhận lấy câu trả lời sau đây, dưới tựa đề hai câu hỏi về quyền của vị quan cầm quyền tối cao đối với tôn giáo, và sự thờ phượng Đức Chúa Trời; cùng một câu hỏi về thuế thập phân, được nêu ra và giải đáp.
 
-## Câu Hỏi I.
+CÂU HỎI I.
 
 Vị quan cầm quyền tối cao trong một quốc gia hay khối thịnh vượng chung gồm những người xưng nhận tôn giáo của Chúa Giê-xu Christ, có thể hay phải thi hành quyền lập pháp và hành pháp của mình, vì sự nâng đỡ, bảo tồn và thúc đẩy việc xưng nhận đức tin, cùng sự thờ phượng Đức Chúa Trời hay không; và ông có thể và phải cấm đoán, ép buộc, hay kiềm chế những nguyên tắc và thực hành trái ngược với chúng, và hủy hoại chúng, hay không.
 
 Phần khẳng định của cả hai vế của câu hỏi này được chứng minh như sau.
 
-**I. Từ ánh sáng và luật của tự nhiên.**
+I. Từ ánh sáng và luật của tự nhiên.
 
 Vì,
 
-1. Rằng có một Đức Chúa Trời. 2. Rằng Đức Chúa Trời này phải được tin cậy, và được thờ phượng theo sự mặc khải mà Ngài bày tỏ về chính mình. 3. Rằng những kẻ thờ phượng Ngài, trong các địa vị khác nhau của mình, có bổn phận bảo vệ và thúc đẩy sự thờ phượng tương ứng với ánh sáng và sự hiểu biết họ có về Ngài. 4. Rằng việc nhục mạ hay phạm thượng đến Đức Chúa Trời này, hay đến danh Ngài, là một điều ác phải bị trừng phạt bởi những kẻ có *jus puniendi*, tức quyền trừng phạt, trong mình, hay được giao phó cho mình —
+1. Rằng có một Đức Chúa Trời. 2. Rằng Đức Chúa Trời này phải được tin cậy, và được thờ phượng theo sự mặc khải mà Ngài bày tỏ về chính mình. 3. Rằng những kẻ thờ phượng Ngài, trong các địa vị khác nhau của mình, có bổn phận bảo vệ và thúc đẩy sự thờ phượng tương ứng với ánh sáng và sự hiểu biết họ có về Ngài. 4. Rằng việc nhục mạ hay phạm thượng đến Đức Chúa Trời này, hay đến danh Ngài, là một điều ác phải bị trừng phạt bởi những kẻ có jus puniendi, tức quyền trừng phạt, trong mình, hay được giao phó cho mình —
 
 đều là những mệnh lệnh của luật tự nhiên, những nguyên tắc không thể tách rời khỏi ánh sáng vốn có tính tự nhiên, và cần thiết cho các loài thọ tạo có lý trí, tồn tại trong sự lệ thuộc luân lý vào Đức Chúa Trời, và được Kinh Thánh xác nhận, Hê-bơ-rơ 11:6; Xuất Ê-díp-tô Ký 22:28.
 
 Vậy thì, khẳng định rằng vị quan cầm quyền tối cao, với tư cách là quan cầm quyền, trong bất cứ quốc gia nào, không nên thi hành thẩm quyền của mình vì các mục đích, và theo cách thức được hỏi đến, là trái với ánh sáng và luật của tự nhiên.
 
-**II. Từ luật của các dân tộc.**
+II. Từ luật của các dân tộc.
 
 Vì,
 
@@ -38,7 +34,7 @@ Vì,
 
 Vậy thì, phủ nhận tính hợp pháp của thẩm quyền được hỏi đến, và sự thi hành đúng đắn của nó, là trái với luật của các dân tộc.
 
-**III. Từ sự thiết lập của Đức Chúa Trời, trong và bởi các luật tích cực, về các giáo lý đức tin, và các cách thờ phượng, của sự mặc khải thuần túy.**
+III. Từ sự thiết lập của Đức Chúa Trời, trong và bởi các luật tích cực, về các giáo lý đức tin, và các cách thờ phượng, của sự mặc khải thuần túy.
 
 Vì,
 
@@ -46,15 +42,15 @@ Vì,
 
 Vậy thì, phủ nhận một cách phổ quát quyền và sự thi hành quyền năng được hỏi đến, là trái với luật tích cực của Đức Chúa Trời, đã ban ra liên quan đến các giáo lý đức tin, và các cách thờ phượng, của sự mặc khải thuần túy; như những điều đã được xưng nhận, và bước đi trong đó, dưới Cựu Ước.
 
-**IV. Từ gương của mọi quan cầm quyền tin kính, được Đức Chúa Trời chấp nhận từ buổi sáng thế.**
+IV. Từ gương của mọi quan cầm quyền tin kính, được Đức Chúa Trời chấp nhận từ buổi sáng thế.
 
 Vì,
 
 1. Không có một quan cầm quyền nào được ghi lại trong cả sách của Đức Chúa Trời, với bất cứ lời khen ngợi nào dành cho ông, hay sự chấp thuận ông với tư cách là quan cầm quyền, mà không phải trước hết và chủ yếu vì cớ này: ông đã thi hành quyền năng và bổn phận được hỏi đến. Đa-vít, Ê-xê-chia, Giô-si-a, Nê-hê-mi, cùng những người khác, là các thí dụ. 2. Từ những ngày Phúc Âm được rao truyền, không một quan cầm quyền nào được danh tiếng tốt giữa các thánh đồ và các Hội Thánh của Đấng Christ, mà không phải vì cùng một cớ ấy. 3. Không một quan cầm quyền nào được nhớ đến là đã bỏ qua sự chăm sóc, công việc hay bổn phận này, mà không để lại một dấu vết, hay một vết nhơ trên mình, như một người bị Đức Chúa Trời không chấp thuận, và bị loại bỏ. 4. Không gì ngoài một sự miễn trừ rõ ràng theo cách mặc khải, có thể tha cho một quan cầm quyền khỏi việc noi theo gương của mọi người, từng người một, mà công việc của họ đã được Đức Chúa Trời chấp thuận, trong điều mà họ đã được chấp thuận như vậy.
 
-Vì vậy, khẳng định rằng vị quan cầm quyền tối cao không nên thi hành thẩm quyền của mình vì các mục đích đã nêu, tức là khẳng định rằng: quan cầm quyền ngày nay được Đức Chúa Trời chấp nhận, trong và vì việc *không làm* điều mà mọi quan cầm quyền khác đã được Đức Chúa Trời chấp nhận trong và bởi việc *làm* — điều này dường như không hợp lý.
+Vì vậy, khẳng định rằng vị quan cầm quyền tối cao không nên thi hành thẩm quyền của mình vì các mục đích đã nêu, tức là khẳng định rằng: quan cầm quyền ngày nay được Đức Chúa Trời chấp nhận, trong và vì việc không làm điều mà mọi quan cầm quyền khác đã được Đức Chúa Trời chấp nhận trong và bởi việc làm — điều này dường như không hợp lý.
 
-**V. Từ các lời hứa về thời kỳ Phúc Âm.**
+V. Từ các lời hứa về thời kỳ Phúc Âm.
 
 Vì,
 
@@ -62,7 +58,7 @@ Vì,
 
 Vậy thì, nói rằng vị quan cầm quyền tối cao trong một khối thịnh vượng chung gồm những người xưng nhận tôn giáo Cơ Đốc thật, không nên thi hành quyền lập pháp và hành pháp của mình trong sự bênh vực, và vì sự thúc đẩy lẽ thật cùng sự thờ phượng Đức Chúa Trời, và vì sự kiềm chế những điều hủy hoại chúng, tức là nói rằng lời hứa của Đức Chúa Trời là vô hiệu.
 
-**VI. Từ sự công bằng của các quy tắc Phúc Âm.**
+VI. Từ sự công bằng của các quy tắc Phúc Âm.
 
 Vì,
 
@@ -70,70 +66,68 @@ Vì,
 
 Vậy thì, nói như vậy là trái với sự công bằng của các quy tắc Phúc Âm.
 
-**VII. Từ sự xưng nhận của mọi Hội Thánh Tin Lành trên thế giới.**
+VII. Từ sự xưng nhận của mọi Hội Thánh Tin Lành trên thế giới.
 
 Rằng mọi Hội Thánh Tin Lành trên thế giới đều khẳng định, ít nhất toàn bộ bổn phận chứa trong phần khẳng định của câu hỏi là thuộc về vị quan cầm quyền tối cao, là điều ai cũng biết, miễn là họ quan tâm biết họ khẳng định điều gì.
 
-**VIII. Từ sự xưng nhận của những người nói riêng, là những người chịu khổ trong thế gian vì cớ sự rộng rãi trong các nguyên tắc của họ, về sự khoan dung và nhịn nhục.**
+VIII. Từ sự xưng nhận của những người nói riêng, là những người chịu khổ trong thế gian vì cớ sự rộng rãi trong các nguyên tắc của họ, về sự khoan dung và nhịn nhục.
 
 Những người Độc lập; lời của họ trong bản xưng nhận của họ như sau:
 
 "Dù quan cầm quyền bị ràng buộc phải khích lệ, thúc đẩy và bảo vệ những người xưng nhận và sự xưng nhận Phúc Âm, và phải quản trị, sắp xếp các công việc dân sự trong sự phục vụ đúng đắn lợi ích của Đấng Christ trong thế gian, và vì mục đích ấy phải coi chừng kẻo những người có tâm trí và nết xấu bại hoại được tự do xuất bản và rêu rao những lời phạm thượng và sai lầm, vốn tự bản chất lật đổ đức tin, và chắc chắn hủy hoại linh hồn những kẻ nhận lấy chúng: thế nhưng trong những sự khác biệt về các giáo lý của Phúc Âm, hay các cách thờ phượng Đức Chúa Trời, có thể xảy đến cho những người thực hành lương tâm tốt, bày tỏ điều ấy trong nết ăn ở của mình, và giữ vững nền tảng, không quấy rối người khác trong đường lối hay sự thờ phượng khác với mình, thì không có sự bảo đảm nào cho quan cầm quyền dưới Phúc Âm được tước bớt sự tự do của họ."
 
-**IX. Từ cảm thức thuộc linh của đại đa số những người tin kính trong thế gian.**
+IX. Từ cảm thức thuộc linh của đại đa số những người tin kính trong thế gian.
 
-Điều này không thể biết được bằng cách nào khác, ngoài bởi sự tuyên bố về sự phán đoán của họ; và theo những gì có thể tìm ra hay khám phá được bằng cách ấy, thì một ngàn người tin kính thật chống lại một người, đều đứng về phía khẳng định. *Vox populi Dei, est vox Dei* (Tiếng của dân Đức Chúa Trời, là tiếng của Đức Chúa Trời).
+Điều này không thể biết được bằng cách nào khác, ngoài bởi sự tuyên bố về sự phán đoán của họ; và theo những gì có thể tìm ra hay khám phá được bằng cách ấy, thì một ngàn người tin kính thật chống lại một người, đều đứng về phía khẳng định. Vox populi Dei, est vox Dei (Tiếng của dân Đức Chúa Trời, là tiếng của Đức Chúa Trời).
 
-**X. Từ những hậu quả tai hại của sự khẳng định ngược lại; trong đó tôi chỉ nêu hai điều.**
+X. Từ những hậu quả tai hại của sự khẳng định ngược lại; trong đó tôi chỉ nêu hai điều.
 
-1. Sự lên án và từ bỏ toàn bộ công cuộc Cải Chánh, trong quốc gia này và các quốc gia khác, trong chừng mực nó đã được thúc đẩy bởi các luật hay hiến chế của các quan cầm quyền tối cao: như trong việc dẹp bỏ sự thờ hình tượng, phá hủy các tượng và hình ảnh, cấm đoán thánh lễ mi-sa, tuyên bố và khẳng định giáo lý của Phúc Âm, nâng đỡ những người xưng nhận nó; những việc ấy đã được Đức Chúa Trời công khai nhìn nhận và ban phước. 2. Sự hủy hoại lời biện hộ cho lợi ích của Đấng Christ trong chính quyền các dân tộc; đặc biệt như được trình bày bởi những người, bằng lời nói, tranh đấu đặt Ngài ở đầu các luật và hiến chế căn bản của họ; nơi mà không điều gì trong một chính quyền được làm *cho* Ngài, không điều gì được làm nghịch cùng những kẻ công khai chống đối Ngài — thì người ta khó có thể nghĩ rằng họ hành động dưới Ngài, và lệ thuộc Ngài.
+1. Sự lên án và từ bỏ toàn bộ công cuộc Cải Chánh, trong quốc gia này và các quốc gia khác, trong chừng mực nó đã được thúc đẩy bởi các luật hay hiến chế của các quan cầm quyền tối cao: như trong việc dẹp bỏ sự thờ hình tượng, phá hủy các tượng và hình ảnh, cấm đoán thánh lễ mi-sa, tuyên bố và khẳng định giáo lý của Phúc Âm, nâng đỡ những người xưng nhận nó; những việc ấy đã được Đức Chúa Trời công khai nhìn nhận và ban phước. 2. Sự hủy hoại lời biện hộ cho lợi ích của Đấng Christ trong chính quyền các dân tộc; đặc biệt như được trình bày bởi những người, bằng lời nói, tranh đấu đặt Ngài ở đầu các luật và hiến chế căn bản của họ; nơi mà không điều gì trong một chính quyền được làm cho Ngài, không điều gì được làm nghịch cùng những kẻ công khai chống đối Ngài — thì người ta khó có thể nghĩ rằng họ hành động dưới Ngài, và lệ thuộc Ngài.
 
 Vậy kết luận từ đây là: đề cao một ý kiến thành một sự cần thiết phải tiếp nhận nó, trong khi ý kiến ấy trái với luật của tự nhiên và của các dân tộc, các sự thiết lập và lời hứa của Đức Chúa Trời, sự công bằng của các quy tắc Phúc Âm, gương của mọi quan cầm quyền đã được Đức Chúa Trời làm chứng rằng họ đã làm tròn bổn phận mình cho đến được chấp nhận với Ngài, trái với sự xưng nhận của mọi Hội Thánh Tin Lành, cảm thức thuộc linh của đại đa số người tin kính trong thế gian, và tự nó đi kèm những hậu quả tai hại — dường như là kết quả của sự tự mãn, và của sự sẵn lòng áp đặt những nhận thức riêng tư của loài người lên người khác, tức chính điều ác duy nhất mà người ta giả vờ muốn tránh bởi nó.
 
-## II. Câu hỏi tiếp theo là.
+II. CÂU HỎI TIẾP THEO LÀ.
 
 Vị quan cầm quyền tối cao, bởi các luật và hình phạt, có thể ép buộc bất cứ ai giữ lấy Đấng Christ Giê-xu làm đầu, phải ký vào bản xưng nhận đức tin ấy, và dự vào cách thờ phượng ấy mà ông cho là thuộc bổn phận mình phải thúc đẩy và phát triển hay không?
 
 Để trả lời một cách rành mạch, xin lưu ý;
 
-**I.** Rằng sự tìm hiểu chỉ liên quan đến những người giữ lấy đầu; còn những người khác, trường hợp của họ không được nêu ra. Họ được phó cho sự quan phòng của Đức Chúa Trời, trong sự Ngài hành động trên lòng những người Ngài dấy lên làm kẻ cai trị, theo mức độ ánh sáng, tình yêu và lòng sốt sắng mà Ngài vui lòng ban cho họ. Và dù không thể chứng minh được rằng bất cứ quan cầm quyền nào được Đức Chúa Trời ủy quyền lấy đi mạng sống của bất cứ người nào, vì họ không tin hay chối bỏ bất cứ điểm hay điều khoản nào của tôn giáo Cơ Đốc; song dường như không phải là bổn phận của bất cứ ai xưng nhận vâng phục Chúa Giê-xu Christ, phải lập một sự cung ứng hợp pháp, cố định, không thể thay đổi, cho sự miễn trừ của những kẻ chối bỏ Ngài.
+I. Rằng sự tìm hiểu chỉ liên quan đến những người giữ lấy đầu; còn những người khác, trường hợp của họ không được nêu ra. Họ được phó cho sự quan phòng của Đức Chúa Trời, trong sự Ngài hành động trên lòng những người Ngài dấy lên làm kẻ cai trị, theo mức độ ánh sáng, tình yêu và lòng sốt sắng mà Ngài vui lòng ban cho họ. Và dù không thể chứng minh được rằng bất cứ quan cầm quyền nào được Đức Chúa Trời ủy quyền lấy đi mạng sống của bất cứ người nào, vì họ không tin hay chối bỏ bất cứ điểm hay điều khoản nào của tôn giáo Cơ Đốc; song dường như không phải là bổn phận của bất cứ ai xưng nhận vâng phục Chúa Giê-xu Christ, phải lập một sự cung ứng hợp pháp, cố định, không thể thay đổi, cho sự miễn trừ của những kẻ chối bỏ Ngài.
 
-**II.** Rằng những điều, hay ý kiến gây gương xấu công cộng, sự ô danh quốc gia, và sự sỉ nhục cho việc xưng nhận Phúc Âm, phải bị kiềm chế không cho rêu rao bởi việc nói công khai trên báo chí, hay trong các hội chúng ngoài gia đình — cả hai điều, theo tập tục của mọi dân tộc, đều ở dưới quyền năng, và thuộc sự sắp đặt của vị quan cầm quyền tối cao — đã được chứng minh trước đây, trong câu trả lời của chúng ta cho sự tìm hiểu thứ nhất.
+II. Rằng những điều, hay ý kiến gây gương xấu công cộng, sự ô danh quốc gia, và sự sỉ nhục cho việc xưng nhận Phúc Âm, phải bị kiềm chế không cho rêu rao bởi việc nói công khai trên báo chí, hay trong các hội chúng ngoài gia đình — cả hai điều, theo tập tục của mọi dân tộc, đều ở dưới quyền năng, và thuộc sự sắp đặt của vị quan cầm quyền tối cao — đã được chứng minh trước đây, trong câu trả lời của chúng ta cho sự tìm hiểu thứ nhất.
 
-**III.** Người ta đồng ý rằng mức độ của việc giữ lấy Đầu về mặt giáo lý, [NEEDS REVIEW: bản nguồn (EEBO-TCP) ghi "the measure of Doctrinal holding the Head, consists in some few clear Fundamental propositions" — cú pháp gốc lủng củng] cốt ở một vài mệnh đề nền tảng rõ ràng.
+III. Người ta đồng ý rằng mức độ của việc giữ lấy Đầu về mặt giáo lý, [NEEDS REVIEW: bản nguồn (EEBO-TCP) ghi "the measure of Doctrinal holding the Head, consists in some few clear Fundamental propositions" — cú pháp gốc lủng củng] cốt ở một vài mệnh đề nền tảng rõ ràng.
 
-**IV.** Không thể phủ nhận rằng hầu hết mọi người, trong việc quyết định câu hỏi này, đã đi vào các cực đoan, phần nhiều vì cớ lợi ích hiện tại của họ, hay vì cớ một đảng phái nào đó, mà họ đang dấn thân vào, và cùng với đó, vì một vài mục đích tư lợi đặc biệt.
+IV. Không thể phủ nhận rằng hầu hết mọi người, trong việc quyết định câu hỏi này, đã đi vào các cực đoan, phần nhiều vì cớ lợi ích hiện tại của họ, hay vì cớ một đảng phái nào đó, mà họ đang dấn thân vào, và cùng với đó, vì một vài mục đích tư lợi đặc biệt.
 
-Những điều này đã được nêu trước, tôi trả lời câu hỏi một cách **phủ định**, và điều ấy vì thẩm quyền được hỏi đến, khi thi hành vì các mục đích đã nêu, sẽ lập tức tác động đến lương tâm, và tự đặt mình trong sự đối nghịch trực tiếp với ánh sáng của Đức Chúa Trời trong đó; một sự thiếu sót trong việc chứng minh sự chuyển giao một thẩm quyền như thế trên lương tâm của những người giữ lấy đầu, đã từ lâu được phát hiện.
+Những điều này đã được nêu trước, tôi trả lời câu hỏi một cách phủ định, và điều ấy vì thẩm quyền được hỏi đến, khi thi hành vì các mục đích đã nêu, sẽ lập tức tác động đến lương tâm, và tự đặt mình trong sự đối nghịch trực tiếp với ánh sáng của Đức Chúa Trời trong đó; một sự thiếu sót trong việc chứng minh sự chuyển giao một thẩm quyền như thế trên lương tâm của những người giữ lấy đầu, đã từ lâu được phát hiện.
 
-## Câu Hỏi Thứ Ba.
+CÂU HỎI THỨ BA.
 
 Có nên chăng việc bãi bỏ và lấy đi, hay đổi sang một sự cung ứng khác, cách thức hiện nay về việc chu cấp cho các chức vụ hay các nhà giảng Phúc Âm.
 
-**Trả lời.**
+Trả lời.
 
-**I.** Rằng các nhà giảng Phúc Âm công cộng phải được chu cấp, bởi sự dự phần vào các vật chất thuộc về những người được nghe giảng Lời, là một sự chỉ định của Chúa Christ, và của các sứ đồ trong danh và thẩm quyền của Ngài, 1 Cô-rinh-tô 9:14; Ga-la-ti 6:6.
+I. Rằng các nhà giảng Phúc Âm công cộng phải được chu cấp, bởi sự dự phần vào các vật chất thuộc về những người được nghe giảng Lời, là một sự chỉ định của Chúa Christ, và của các sứ đồ trong danh và thẩm quyền của Ngài, 1 Cô-rinh-tô 9:14; Ga-la-ti 6:6.
 
-**II.** Tính hợp lý của sự thiết lập Phúc Âm này được Đức Thánh Linh bày tỏ: 1. Từ luật của tự nhiên, Lu-ca 10:7; 1 Cô-rinh-tô 9:7, 11. 2. Từ luật của các dân tộc, cũng tại chỗ ấy. 3. Từ khuynh hướng và sự công bằng của các sự thiết lập Môi-se, 1 Cô-rinh-tô 9:9, 10, 11, 12, 13.
+II. Tính hợp lý của sự thiết lập Phúc Âm này được Đức Thánh Linh bày tỏ: 1. Từ luật của tự nhiên, Lu-ca 10:7; 1 Cô-rinh-tô 9:7, 11. 2. Từ luật của các dân tộc, cũng tại chỗ ấy. 3. Từ khuynh hướng và sự công bằng của các sự thiết lập Môi-se, 1 Cô-rinh-tô 9:9, 10, 11, 12, 13.
 
-**III.** Nơi Đức Chúa Trời, bởi các sự sắp đặt quan phòng, đã đặt mọi sự trong một quốc gia, trong sự phục vụ một sự thiết lập của Đấng Christ theo lời hứa của Ngài, Thi Thiên 2:8; Ê-sai 49:23, như Ngài đã làm trong trường hợp này, thì việc chống lại trật tự ấy của mọi sự, dường như là chống lại Đức Chúa Trời và Đấng Chịu Xức Dầu của Ngài.
+III. Nơi Đức Chúa Trời, bởi các sự sắp đặt quan phòng, đã đặt mọi sự trong một quốc gia, trong sự phục vụ một sự thiết lập của Đấng Christ theo lời hứa của Ngài, Thi Thiên 2:8; Ê-sai 49:23, như Ngài đã làm trong trường hợp này, thì việc chống lại trật tự ấy của mọi sự, dường như là chống lại Đức Chúa Trời và Đấng Chịu Xức Dầu của Ngài.
 
-**IV.** Việc nộp thuế thập phân, 1. Trước luật pháp, Sáng Thế Ký 14:20; Hê-bơ-rơ 7:4, 5; cùng với 2. tập tục tương tự giữa mọi dân tộc, sống theo ánh sáng của tự nhiên; 3. sự thiết lập chúng dưới luật pháp; cùng với 4. mối liên hệ rõ ràng trong sự chỉ định của Phúc Âm với sự thiết lập ấy, 1 Cô-rinh-tô 9:14 — khiến cho cách nộp ấy có thể biện hộ được đến nỗi không ai, nếu không thể trả lời và thỏa mãn lời biện hộ ấy, có thể với bất cứ vẻ nào của một lương tâm tốt, đồng ý lấy chúng đi.
+IV. Việc nộp thuế thập phân, 1. Trước luật pháp, Sáng Thế Ký 14:20; Hê-bơ-rơ 7:4, 5; cùng với 2. tập tục tương tự giữa mọi dân tộc, sống theo ánh sáng của tự nhiên; 3. sự thiết lập chúng dưới luật pháp; cùng với 4. mối liên hệ rõ ràng trong sự chỉ định của Phúc Âm với sự thiết lập ấy, 1 Cô-rinh-tô 9:14 — khiến cho cách nộp ấy có thể biện hộ được đến nỗi không ai, nếu không thể trả lời và thỏa mãn lời biện hộ ấy, có thể với bất cứ vẻ nào của một lương tâm tốt, đồng ý lấy chúng đi.
 
-**V.** Một sự chu cấp bởi sự dự phần vào các vật chất của loài người, cho những kẻ giảng Phúc Âm, đã được Chúa Giê-xu Christ chỉ định rõ ràng, và sự tham chiếu về tỷ lệ, được sứ đồ trực tiếp nhắm đến tỷ lệ mà chính Đức Chúa Trời đã phân định dưới Cựu Ước; thì bất cứ người nào, hay số người nào cho rằng mình có thể lập một sự phân định tốt hơn và khôn ngoan hơn, nhất là khi và nơi một sự tiến gần đến đó đã được sự quan phòng thực hiện, dường như là tranh đấu với Đấng mạnh hơn họ.
+V. Một sự chu cấp bởi sự dự phần vào các vật chất của loài người, cho những kẻ giảng Phúc Âm, đã được Chúa Giê-xu Christ chỉ định rõ ràng, và sự tham chiếu về tỷ lệ, được sứ đồ trực tiếp nhắm đến tỷ lệ mà chính Đức Chúa Trời đã phân định dưới Cựu Ước; thì bất cứ người nào, hay số người nào cho rằng mình có thể lập một sự phân định tốt hơn và khôn ngoan hơn, nhất là khi và nơi một sự tiến gần đến đó đã được sự quan phòng thực hiện, dường như là tranh đấu với Đấng mạnh hơn họ.
 
-**VI.** Tước đoạt các nhà giảng Phúc Âm, khi họ được sai ra vào mùa gặt của Chủ mình, và chuyên tâm vào công việc mình, theo ánh sáng tốt nhất mà thời đại hiện nay được hưởng, với thành công hiển nhiên và vinh hiển, khỏi phần, tiền công, tiền lương, hay sự nâng đỡ thuộc về thời gian đã được sắm sẵn cho họ trong sự quan phòng tốt lành của Đức Chúa Trời, trên những cớ về sự bất tiện, và sự bất mãn của một vài người có thành kiến, dường như là một mưu toan không có gì sánh được từ buổi sáng thế.
+VI. Tước đoạt các nhà giảng Phúc Âm, khi họ được sai ra vào mùa gặt của Chủ mình, và chuyên tâm vào công việc mình, theo ánh sáng tốt nhất mà thời đại hiện nay được hưởng, với thành công hiển nhiên và vinh hiển, khỏi phần, tiền công, tiền lương, hay sự nâng đỡ thuộc về thời gian đã được sắm sẵn cho họ trong sự quan phòng tốt lành của Đức Chúa Trời, trên những cớ về sự bất tiện, và sự bất mãn của một vài người có thành kiến, dường như là một mưu toan không có gì sánh được từ buổi sáng thế.
 
-**VII.** Bất cứ nơi nào, hay trong bất cứ quốc gia nào, đã có sự dời bỏ sự chu cấp được sắm sẵn trong sự quan phòng của Đức Chúa Trời, cho sự nâng đỡ cần thiết của những người công cộng phân phát Lời, thì kết quả đã là một sự thiệt hại chí tử và không thể cứu vãn cho Phúc Âm và lợi ích của Đấng Christ trong các quốc gia ấy.
+VII. Bất cứ nơi nào, hay trong bất cứ quốc gia nào, đã có sự dời bỏ sự chu cấp được sắm sẵn trong sự quan phòng của Đức Chúa Trời, cho sự nâng đỡ cần thiết của những người công cộng phân phát Lời, thì kết quả đã là một sự thiệt hại chí tử và không thể cứu vãn cho Phúc Âm và lợi ích của Đấng Christ trong các quốc gia ấy.
 
 Vậy thì, thứ nhất, lấy đi sự chu cấp công cộng đã được sắm sẵn trong sự quan phòng tốt lành của Đức Chúa Trời, cho những người công cộng phân phát Phúc Âm, trên những cớ về sự bất tiện hiện tại, hay những lời hứa về sự cung ứng tương lai, là khinh thường sự chăm sóc và thành tín của Đức Chúa Trời đối với Hội Thánh Ngài, và nói thẳng ra, là sự cướp bóc trắng trợn.
 
 Thứ hai, gán cho một quốc gia một hành động như thế, bằng cách áp đặt nó lên họ mà không có sự đồng ý của họ, là sự áp bức trắng trợn.
 
-**VIII.** Một sự thay đổi cách nộp của khoản lợi tức đã được sắm sẵn trong sự quan phòng của Đức Chúa Trời cho các nhà giảng công cộng, từ cách thuế thập phân, sang một cách nộp khác, mà vẫn giữ quyền hiện tại, thì không mắc phải hay gánh chịu bất cứ điều ác nào đã nói trên, nhưng sự tiện lợi hay bất tiện của nó có thể được tranh luận một cách tự do.
+VIII. Một sự thay đổi cách nộp của khoản lợi tức đã được sắm sẵn trong sự quan phòng của Đức Chúa Trời cho các nhà giảng công cộng, từ cách thuế thập phân, sang một cách nộp khác, mà vẫn giữ quyền hiện tại, thì không mắc phải hay gánh chịu bất cứ điều ác nào đã nói trên, nhưng sự tiện lợi hay bất tiện của nó có thể được tranh luận một cách tự do.
 
 Kính thư, J.O.
-
---- TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "supreme Magistrate" → "vị quan cầm quyền tối cao"; "tithes/tythes" → "thuế thập phân"; "Armative" trong bản EEBO-TCP là cách ghi của "Affirmative" (khẳng định) — đã dịch là "khẳng định"; các trích dẫn Kinh Thánh giữ nguyên tham chiếu gốc, chỉ địa phương hóa tên sách. "jus puniendi" và "Vox populi Dei, est vox Dei" giữ nguyên tiếng La-tinh kèm nghĩa trong ngoặc.
 
 Mở trong trình đọc Về thư viện

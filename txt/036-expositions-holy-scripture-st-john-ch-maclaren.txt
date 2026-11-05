@@ -4082,6 +4082,4 @@ LỜI BẠT
 
 Bản dịch được thực hiện bởi AI, chưa duyệt (AI-generated, unreviewed). Phạm vi: Toàn bộ quyển 1–2 (Giăng i–xiv) theo bản CCEL, từ MỤC LỤC đến hết bài giải nghĩa Giăng 14:30-31; các mục lục dẫn (Indexes) và mục lục phía trước/trước MỤC LỤC không được dịch. Các tiêu đề bài giải nghĩa bị dính vào đoạn văn trước do công cụ làm sạch đã được tách lại thành tiêu đề độc lập; số đoạn dịch nhiều hơn nguồn đúng bằng số tiêu đề được khôi phục. Không có thuật ngữ bị cấm; không có đoạn nào cần duyệt.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: Không có.
-
 Mở trong trình đọc Về thư viện

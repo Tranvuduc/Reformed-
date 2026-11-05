@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Những Lời Nói Thánh Khiết Và Ích Lợi
-
-**Nguyên tác:** "Holy and Profitable Sayings" — Thomas Vincent (1680) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_holy-and-profitable-sayi_vincent-thomas_1680/bim_early-english-books-1641-1700_holy-and-profitable-sayi_vincent-thomas_1680_djvu.txt *(Ghi chú: tác phẩm thật là tập hợp 34 câu châm ngôn Cơ Đốc của mục sư Thomas Vincent — trang tựa ghi ông "đã qua đời ngày 15 tháng 10 năm 1678" — được in tại Luân Đôn năm 1699. Đã loại bỏ dòng tiêu đề trang OCR ("Holy and Profitable Sayings 24") và các ký tự rác. Bản OCR chất lượng kém (chữ "s" dài ſ khó đọc, hai trang bị trộn lẫn, một số câu đứt đoạn); những chỗ ấy đã được phục dựng thận trọng và đánh dấu [NEEDS REVIEW]. Bản in gốc đánh số nhầm hai câu liên tiếp đều là "9." — giữ nguyên theo bản gốc.)*
-
----
+Nguyên tác: "Holy and Profitable Sayings" — Thomas Vincent (1680) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_holy-and-profitable-sayi_vincent-thomas_1680/bim_early-english-books-1641-1700_holy-and-profitable-sayi_vincent-thomas_1680_djvu.txt (Ghi chú: tác phẩm thật là tập hợp 34 câu châm ngôn Cơ Đốc của mục sư Thomas Vincent — trang tựa ghi ông "đã qua đời ngày 15 tháng 10 năm 1678" — được in tại Luân Đôn năm 1699. Đã loại bỏ dòng tiêu đề trang OCR ("Holy and Profitable Sayings 24") và các ký tự rác. Bản OCR chất lượng kém (chữ "s" dài ſ khó đọc, hai trang bị trộn lẫn, một số câu đứt đoạn); những chỗ ấy đã được phục dựng thận trọng và đánh dấu [NEEDS REVIEW]. Bản in gốc đánh số nhầm hai câu liên tiếp đều là "9." — giữ nguyên theo bản gốc.)
 
 1. Dấu hiệu chắc chắn nhất của một Cơ Đốc nhân thật lòng ăn năn, là sự tự nguyện tiếp nhận Chúa Giê-xu vào lòng mình, Công Vụ Các Sứ Đồ 11:23, và sự phó thác trọn vẹn tấm lòng cho Ngài, Giê-rê-mi 30:21.
 
@@ -80,12 +76,6 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 33. Trong sự thờ phượng công cộng, hãy coi chừng tinh thần thành kiến đối với người dạy dỗ mình; một khi đã không ưa con người ông ấy, anh em sẽ chẳng bao giờ thấy ngon miệng với đạo lý của ông ấy. Những đầy tớ Chúa tốt nhất cũng dễ bị thành kiến, ngay cả... [NEEDS REVIEW: bản OCR ghi "that Palhmony Hamadabber, Dan. 8.13" — không đọc được rõ là ai], Đa-ni-ên 8:13. Chính Đấng Christ cũng bị bắt bẻ: "Há chẳng phải là người thợ mộc sao? Há có vật chi tốt ra từ Na-xa-rét được sao?" (Mác 6:3; Giăng 1:46). Nếu cây xanh còn gặp điều ấy, thì cây khô sẽ phải gặp điều gì? (Lu-ca 23:31)
 
----
-
 Phần cuối bản OCR còn dòng "Impiety at their Deaths." [NEEDS REVIEW: dường như là tiêu đề của một phần tiếp theo, không có nội dung kèm theo trong bản OCR này] và dòng "LONDON Printed by D. M. 1699." (Luân Đôn, in bởi D. M., 1699).
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none — các thuật ngữ cố định (ân điển, đức tin, Phúc Âm, sự cứu rỗi, Đức Chúa Trời, Chúa Giê-xu Christ...) được giữ nhất quán. "Regeneration" dịch là "ơn tái sinh"; "Conversion" là "sự ăn năn trở lại". Các NEEDS REVIEW đều do chất lượng OCR kém (câu đứt đoạn, chữ trích dẫn không đọc được), không phải vấn đề thuật ngữ.
 
 Mở trong trình đọc Về thư viện

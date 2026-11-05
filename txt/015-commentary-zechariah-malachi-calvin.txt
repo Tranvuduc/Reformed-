@@ -5556,6 +5556,4 @@ CHƯƠNG 4
 
 6 Và người sẽ làm cho lòng cha trở lại cùng con trai, và lòng con trai trở lại cùng cha; e ta đến và đánh đất bằng sự rủa sả.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 4 [NEEDS REVIEW] markers kept (genuine source-scan ambiguities, flagged rather than guessed): (1) sec-03 — English word 'handlers' read as 'hammers' in garbled sentence; (2) sec-14 — English word 'food' read as 'famine' in garbled sentence; (3) sec-24 — 'their the' OCR garble, likely 'their life'; (4) sec-34 — source sentence 'so that he would not cast away these unfaithful priests' contains a 'not' contradicting Malachi 2:9 and the argument's flow, likely a print error, translated as printed. Citation/OCR corrections applied with high confidence (listed per section in working notes). Inside quoted Scripture, 'Đức Giê-hô-va' is kept as in the 1934 Vietnamese Bible translation; Calvin's own prose uses 'Đức Chúa Trời'. No banned terminology found (grep-verified: 0 hits for sự xưng công bình, ân sủng, tin mừng, Thiên Chúa, bí tích, rửa tội).
-
 Mở trong trình đọc Về thư viện

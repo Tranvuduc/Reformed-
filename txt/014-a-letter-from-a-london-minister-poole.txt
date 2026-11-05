@@ -6,13 +6,9 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Thư Của Mục Sư Luân-đôn Gửi Ngài Fleetwood
+Nguyên tác: "A letter from a London minister to the Lord Fleetwood" — Matthew Poole (1659) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_a-letter-from-a-london-m_poole-matthew_1659/bim_early-english-books-1641-1700_a-letter-from-a-london-m_poole-matthew_1659_djvu.txt (Ghi chú: tác phẩm thật là bức thư của một mục sư tại Luân-đôn gửi Ngài Fleetwood, quở trách về tội phản loạn và dấy loạn, dựa trên Kinh Thánh và giáo lý Cơ Đốc về sự vâng phục nhà cầm quyền dân sự — một bức thư quở trách mang tính tiên tri, có nội dung Cơ Đốc rõ rệt, nên được giữ lại dù đề tài gắn với chính sự đương thời. OCR từ bản in năm 1659 rất xấu, nhiều đoạn không đọc được; những chỗ ấy được đánh dấu NEEDS REVIEW thay vì đoán mò. Đoạn chú thích của nhà in ở cuối thư cũng bị vỡ chữ nặng.)
 
-**Nguyên tác:** "A letter from a London minister to the Lord Fleetwood" — Matthew Poole (1659) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_a-letter-from-a-london-m_poole-matthew_1659/bim_early-english-books-1641-1700_a-letter-from-a-london-m_poole-matthew_1659_djvu.txt *(Ghi chú: tác phẩm thật là bức thư của một mục sư tại Luân-đôn gửi Ngài Fleetwood, quở trách về tội phản loạn và dấy loạn, dựa trên Kinh Thánh và giáo lý Cơ Đốc về sự vâng phục nhà cầm quyền dân sự — một bức thư quở trách mang tính tiên tri, có nội dung Cơ Đốc rõ rệt, nên được giữ lại dù đề tài gắn với chính sự đương thời. OCR từ bản in năm 1659 rất xấu, nhiều đoạn không đọc được; những chỗ ấy được đánh dấu NEEDS REVIEW thay vì đoán mò. Đoạn chú thích của nhà in ở cuối thư cũng bị vỡ chữ nặng.)*
-
----
-
-**Thư Gửi Ngài Fleetwood.**
+Thư Gửi Ngài Fleetwood.
 
 Thưa Ngài,
 
@@ -32,16 +28,12 @@ Thưa Ngài,
 
 6. Những hành động của Ngài rõ ràng trái ngược với mọi quy tắc của sự công chính, cả thiêng liêng lẫn loài người. Nếu chính Đấng Christ đã không, và chẳng dám, xen vào chức vụ của quan xét về những việc thừa kế riêng tư, vì Ngài chẳng được gọi cách hợp pháp vào việc ấy (xem Lu-ca 12:14: "Hỡi người kia, ai đặt ta làm quan xét xử đoán các ngươi?"), thì chúng ta sẽ nghĩ gì về Ngài — người đã tự lấy vinh dự ấy cho mình, tự lập mình làm quan xét, làm quan xét tối cao của ba dân tộc, khiến ngay cả các Nghị Viện vốn được coi là tòa án tối cao của dân tộc cũng phải nhường chỗ cho ý kiến riêng của Ngài, và phải đứng hay ngã theo tòa án của Ngài?
 
-7. Ngài cũng chớ tưởng rằng mình vô tội khi đã chà đạp lên luật pháp và quyền dân sự của dân tộc — chính nhờ đó mà *meum* và *tuum* ("của ta" và "của người") được phân biệt, quyền sở hữu được bảo đảm; và cũng chỉ nhờ đó mà những hành động bất chính bị phát hiện và vạch trần — những điều mà Kinh Thánh đã lên án.
+7. Ngài cũng chớ tưởng rằng mình vô tội khi đã chà đạp lên luật pháp và quyền dân sự của dân tộc — chính nhờ đó mà meum và tuum ("của ta" và "của người") được phân biệt, quyền sở hữu được bảo đảm; và cũng chỉ nhờ đó mà những hành động bất chính bị phát hiện và vạch trần — những điều mà Kinh Thánh đã lên án.
 
 8. Dù Ngài là người trong cuộc có nghĩ gì, và những người có quyền lợi gắn chặt với cùng một chính nghĩa có nghĩ gì đi nữa, thì cũng chỉ có ít Cơ Đốc nhân khôn ngoan và nghiêm túc nào lại không cho rằng: sự cần thiết, ý định tốt và sự quan phòng hoàn toàn không đủ thẩm quyền để biện minh cho việc con người [lìa bỏ?] những nguyên tắc đã biết [???]. [NEEDS REVIEW: nửa sau của điểm 8 bị OCR làm mất hoàn toàn]
 
 Giờ đây tôi đã [???] như một Cơ Đốc nhân, và như xứng hợp với một mục sư. [NEEDS REVIEW: câu kết bị mất chữ]
 
 [Đoạn cuối của nhà in: bức thư này do một người bạn tôi, một mục sư tại Luân-đôn, gửi đến [???], được trao vào [???], và vì thấy nó rất có ích [???].] [NEEDS REVIEW: toàn bộ đoạn chú thích của nhà in bị OCR làm vỡ, không dựng lại được]
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "Lord Fleetwood" → "Ngài Fleetwood"; "My Lord" → "Thưa Ngài"; "meum and tuum" (tiếng La-tinh: của ta / của người) giữ nguyên kèm chú thích. Rất nhiều NEEDS REVIEW do OCR bản in 1659 bị vỡ chữ — đã liệt kê từng chỗ trong bài, không đoán mò.
 
 Mở trong trình đọc Về thư viện
