@@ -1,5 +1,12 @@
 TƯỜNG THUẬT VỀ NHỮNG CUỘC CẢI ĐẠO ĐÁNG NGẠC NHIÊN
-Jonathan Edwards
+
+Jonathan Edwards · A Narrative of Surprising Conversions
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+TƯỜNG THUẬT VỀ NHỮNG CUỘC CẢI ĐẠO ĐÁNG NGẠC NHIÊN Jonathan Edwards
 
 GỬI MỤC SƯ TIẾN SĨ COLMAN.
 
@@ -333,7 +340,7 @@ Tôi không thể nói rằng không có trường hợp nào của bất cứ n
 
 Một phần lớn của xứ đã không nhận những suy nghĩ thuận lợi nhất về việc này. Và cho đến ngày nay, nhiều người vẫn giữ sự nghi ngờ về nó, và thành kiến chống lại nó. Tôi có lý do để nghĩ rằng sự tầm thường và yếu đuối của công cụ đã được dùng trong thị trấn này, đã gây thành kiến cho nhiều người chống lại nó. Tôi không thấy lạ lùng khi điều đó lại như vậy. Thế nhưng hoàn cảnh của công việc lớn lao này của Đức Chúa Trời tương tự với các hoàn cảnh khác của nó. Đức Chúa Trời đã sắp đặt cách thức của công việc theo nhiều phương diện, để bày tỏ một cách rõ rệt và đáng chú ý rằng đó là công việc riêng và trực tiếp của chính Ngài, và để đảm bảo vinh quang của nó hoàn toàn thuộc về quyền năng toàn năng và ân điển tối cao của Ngài. Bất kể hoàn cảnh và phương tiện đã như thế nào, và mặc dù chúng tôi quá bất xứng, nhưng Đức Chúa Trời đã vui lòng làm việc như vậy! Và chúng tôi hiển nhiên là một dân tộc được Chúa ban phước! Ở đây trong góc này của thế giới, Đức Chúa Trời ngự và bày tỏ vinh quang của Ngài.
 
-___________________
+_
 
 Như vậy, thưa Ngài đáng kính, tôi đã trình bày một bản tường thuật lớn lao và chi tiết về việc đáng chú ý này. Và thế nhưng, xét đến việc các công việc của Đức Chúa Trời giữa chúng tôi phong phú biết bao, những việc đáng được viết ra, thì đó chỉ là một bản tường thuật rất ngắn gọn. Tôi đã gửi nó sớm hơn nhiều, nếu tôi đã không bị cản trở lớn lao bởi bệnh tật trong gia đình tôi, và cũng nơi chính tôi. Có lẽ nó lớn hơn nhiều so với Ngài mong đợi, và có lẽ hơn những gì Ngài đã chọn. Tôi nghĩ rằng sự phi thường của việc này, và vô số những sự trình bày sai lầm đã lan truyền về nó, mà nhiều điều trong số đó chắc chắn đã đến tai Ngài, đã làm cho việc tôi trình bày chi tiết trở nên cần thiết. Nhưng tôi xin hoàn toàn để cho sự khôn ngoan của Ngài quyết định bất cứ cách dùng nào Ngài nghĩ là tốt nhất — gửi một phần của nó sang Anh, hay toàn bộ, hay không gửi gì cả nếu Ngài nghĩ nó không xứng đáng. Nếu không, hãy xử lý nó như Ngài nghĩ là tốt nhất cho vinh quang của Đức Chúa Trời, và lợi ích của tôn giáo. Nếu Ngài vui lòng gửi bất cứ điều gì cho Mục sư Tiến sĩ Guyse, tôi sẽ vui mừng nếu điều đó được chỉ ra cho ông, như mong muốn khiêm nhường của tôi, rằng vì ông và hội chúng mà ông đã giảng đã vui lòng chú ý đến chúng tôi nhiều như họ đã làm, thì họ cũng sẽ nghĩ đến chúng tôi tại Ngai Ân Điển, và tìm kiếm cho chúng tôi tại đó, rằng Đức Chúa Trời sẽ không lìa bỏ chúng tôi, nhưng giúp chúng tôi sinh bông trái xứng với sự xưng nhận và những sự thương xót của chúng tôi; và rằng ánh sáng của chúng tôi có thể chiếu sáng trước mặt người ta, để người khác, thấy các việc lành của chúng tôi, có thể tôn vinh Cha chúng tôi ở trên trời.
 
@@ -347,10 +354,4 @@ JONATHAN EDWARDS
 
 Northampton, ngày 6 tháng 11 năm 1736.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Không có vấn đề thuật ngữ trong thân bài. Một lần "Tin Lành" dịch "Protestant scheme" (ngữ cảnh đạo Tin Lành), không phải dịch "gospel".
-- Ghi chú nguồn: bản dịch mới toàn văn từ EPUB Monergism (bản W. H. Gross hiện đại hóa, 2022); không chuyển đổi từ bản trích rút gọn Wesley 1798 trong thư viện (thu-vien/681). Phần trùng lặp với bản trích là do cùng tác phẩm gốc.
-- Loại trừ: trang bìa/tựa, dòng URL archive.org, dòng ghi công nhà xuất bản, và bộ chú thích cuối sách [1]-[19] của biên tập viên hiện đại (theo tiền lệ #254); các số chú thích rời trong thân bài đã bỏ theo vì chú thích bị loại trừ.
-- Quy ước trích dẫn: lời Kinh Thánh trích nguyên văn giữ đúng lối văn 1934, không ép thuật ngữ bảng vào trong trích dẫn.
-- Không có đoạn nào không đọc được cần đánh dấu xem lại.
+Mở trong trình đọc Về thư viện

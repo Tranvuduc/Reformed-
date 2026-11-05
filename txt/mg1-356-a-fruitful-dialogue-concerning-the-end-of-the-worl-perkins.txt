@@ -1,9 +1,14 @@
 ĐỐI THOẠI BỔ ÍCH VỀ NGÀY TẬN THẾ
-William Perkins
 
-ĐỐI THOẠI BỔ ÍCH
-VỀ NGÀY TẬN THẾ
-của William Perkins
+William Perkins · A Fruitful Dialogue Concerning the End of the World
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+ĐỐI THOẠI BỔ ÍCH VỀ NGÀY TẬN THẾ William Perkins
+
+ĐỐI THOẠI BỔ ÍCH VỀ NGÀY TẬN THẾ của William Perkins
 
 MỤC LỤC
 
@@ -13,9 +18,7 @@ Gửi Bạn Đọc Cơ Đốc
 
 Cuộc Đối Thoại Bổ Ích Giữa Cơ Đốc Nhân và Người Thế Tục, Về Ngày Tận Thế
 
-KÍNH DÂNG NGÀI THOMAS ĐÁNG KÍNH,
-Lãnh chúa Sorroys, thuộc Hội Hiệp sĩ Garter cao quý,
-và Hội đồng Danh dự của Nữ hoàng ở miền Bắc
+KÍNH DÂNG NGÀI THOMAS ĐÁNG KÍNH, Lãnh chúa Sorroys, thuộc Hội Hiệp sĩ Garter cao quý, và Hội đồng Danh dự của Nữ hoàng ở miền Bắc
 
 Kính thưa Ngài Đáng kính, tiểu luận nhỏ này là trái đầu mùa trong công việc của bậc thầy đáng kính Perkins vĩ đại. Nhiều năm trước do chính ông xuất bản, và nay (khi toàn bộ các tác phẩm của ông sắp được tập hợp lại) được xem là xứng đáng để ghép chung với các tác phẩm còn lại; vì dù được viết trong những năm tuổi trẻ của ông, những trái đầu mùa ấy đã bảo đảm về vụ mùa bội thu dồi dào những lời dạy dỗ và an ủi mà thế giới Cơ Đốc từ đó đã gặt hái và nhận lãnh từ tay và miệng của người thánh thiện ấy. Và ngay trong khởi đầu này, Đức Thánh Linh đầy phước đã bắt đầu bày tỏ chính Ngài, Đấng về sau đã thật hùng mạnh và quyền năng trong lưỡi và ngòi bút của ông. Tác phẩm này ban đầu được viết để chống lại việc tích trữ lúa mì vì lòng tham (cùng các tội lỗi khác), và được xuất bản vào một năm đói kém, do đó nay tái bản lại càng thích hợp hơn, vì tội lỗi của chúng ta đã đem đến cho chúng ta một nạn đói, và (điều đáng thương hơn) một nạn đói mà chẳng thiếu thốn gì.
 
@@ -313,13 +316,4 @@ Cơ Đốc nhân. Nguyện Chúa ở cùng anh, và cùng mọi kẻ kính sợ 
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Các câu Kinh Thánh được dịch theo văn phong Kinh Thánh 1934 (diễn ý, không đối chiếu từng chữ với bản 1934).
-- Bản dịch của AI, chưa được mục sư hiệu đính.
-- Phần bản quyền/pháp lý của Monergism Books ở cuối EPUB đã loại bỏ theo quy tắc chỉ dịch tác phẩm thật.
-- "FINIS." trong bản gốc được dịch là "HẾT."
-- Tên người nói: "Christ."/"Christian" → "Cơ Đốc nhân."; "Worldl."/"Worldling" → "Người thế tục."
-- Lỗi in "The the Right Honorable" trong bản gốc đã chuẩn hóa.
-- Một từ in mờ không đọc được trong bản gốc đã gắn cờ [NEEDS REVIEW].
-- Các trích dẫn Kinh Thánh được bản địa hóa (ví dụ John 3:16 → Giăng 3:16).
+Mở trong trình đọc Về thư viện

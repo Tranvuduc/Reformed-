@@ -1,5 +1,12 @@
 BART EHRMAN
-Steve Hays
+
+Steve Hays · Bart Ehrman
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+BART EHRMAN Steve Hays
 
 Bart Ehrman
 
@@ -1615,23 +1622,23 @@ Một lần nữa, tôi sẽ khám phá câu hỏi điều gì làm cho một tu
 
 Hãy xem qua một số ví dụ:
 
-#1 Một sự kiện đáng đưa tin đã xảy ra vào ngày 8 tháng 8 năm 1974.
+1 Một sự kiện đáng đưa tin đã xảy ra vào ngày 8 tháng 8 năm 1974.
 
-#2 Vào ngày 8 tháng 8 năm 1974, Nixon đã đệ trình đơn từ chức.
+2 Vào ngày 8 tháng 8 năm 1974, Nixon đã đệ trình đơn từ chức.
 
-#3 Trong một bài diễn văn truyền hình, Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
+3 Trong một bài diễn văn truyền hình, Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
 
-#4 Trong một bài diễn văn truyền hình từ Nhà Trắng, Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
+4 Trong một bài diễn văn truyền hình từ Nhà Trắng, Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
 
-#5 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
+5 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
 
-#6 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Tổng thống Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
+6 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Tổng thống Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
 
-#7 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Tổng thống Richard Milhous Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
+7 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Tổng thống Richard Milhous Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974.
 
-#8 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Tổng thống Richard Milhous Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974, có hiệu lực từ trưa ngày hôm sau.
+8 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Tổng thống Richard Milhous Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974, có hiệu lực từ trưa ngày hôm sau.
 
-#9 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Tổng thống Richard Milhous Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974, có hiệu lực từ trưa ngày hôm sau, theo giờ EST.
+9 Trong một bài diễn văn truyền hình từ Phòng Bầu dục, Tổng thống Richard Milhous Nixon đã đệ trình đơn từ chức vào ngày 8 tháng 8 năm 1974, có hiệu lực từ trưa ngày hôm sau, theo giờ EST.
 
 Những mô tả liên tiếp này ngày càng cụ thể hơn. Mỗi mô tả chi tiết hơn một chút so với mô tả trước đó.
 
@@ -1643,15 +1650,15 @@ Nói cách khác: nếu một mô tả nhắc đến một chi tiết nào đó,
 
 Hãy so sánh ba phát biểu:
 
-#1 Vì vậy, tôi sẽ từ chức Tổng thống có hiệu lực từ trưa ngày mai.
+1 Vì vậy, tôi sẽ từ chức Tổng thống có hiệu lực từ trưa ngày mai.
 
-#2 Vì vậy, tôi sẽ từ chức Tổng thống có hiệu lực từ trưa ngày mai. Phó Tổng thống Ford sẽ tuyên thệ nhậm chức Tổng thống vào giờ đó tại văn phòng này.
+2 Vì vậy, tôi sẽ từ chức Tổng thống có hiệu lực từ trưa ngày mai. Phó Tổng thống Ford sẽ tuyên thệ nhậm chức Tổng thống vào giờ đó tại văn phòng này.
 
-#3 Vì vậy, tôi sẽ từ chức Tổng thống có hiệu lực từ trưa ngày mai. Phó Tổng thống Rocky Squirrel sẽ tuyên thệ nhậm chức Tổng thống vào giờ đó tại văn phòng này.
+3 Vì vậy, tôi sẽ từ chức Tổng thống có hiệu lực từ trưa ngày mai. Phó Tổng thống Rocky Squirrel sẽ tuyên thệ nhậm chức Tổng thống vào giờ đó tại văn phòng này.
 
 Cả #1 và #2 đều chính xác. Việc #2 bỏ sót một số chi tiết không khiến nó trở nên không chính xác. Nó chỉ khiến nó kém thông tin hơn.
 
-#3 không chính xác vì nó chứa một sự nhận dạng sai. Theo một nghĩa nào đó, #3 không chính xác vì nó nói quá nhiều, không giống #1. Bỏ sót không phải là nói dối — mặc dù đôi khi nó có thể đánh lừa.
+3 không chính xác vì nó chứa một sự nhận dạng sai. Theo một nghĩa nào đó, #3 không chính xác vì nó nói quá nhiều, không giống #1. Bỏ sót không phải là nói dối — mặc dù đôi khi nó có thể đánh lừa.
 
 Hãy lấy một ví dụ khác:
 
@@ -2225,8 +2232,6 @@ Tôi sẽ trích dẫn phân tích của Nigel Turner trong cuốn A Grammar of 
 
 Không giống như Ehrman, Turner là một học giả tiếng Hy Lạp theo chuyên môn. Đó là lĩnh vực chuyên môn của ông.
 
-------------------------------------------------------------------------------------------------------
-
 Mác
 
 Howard đồng ý với Lagrange rằng tiếng Hy Lạp là tiếng Hy Lạp dịch thuật (11).
@@ -2391,7 +2396,6 @@ https://www.thegospelcoalition.org/article/the-difference-between-original-autog
 
 https://triablogue.blogspot.com/2011/04/bock-reviews-forged.html
 
-https://blogs.bible.org/what-is-missing-from-a-key-new-testament-introduction-text/
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách (mục lục và đủ sáu phần: truyền đạt văn bản, điểm lại các cuộc tranh luận, điểm sách, tính không sai lầm và tính lịch sử, các Phúc Âm tiếng Hy Lạp, cùng danh mục đọc thêm). Không có đoạn nào cần đánh dấu.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+https://blogs.bible.org/what-is-missing-from-a-key-new-testament-introduction-text/ LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách (mục lục và đủ sáu phần: truyền đạt văn bản, điểm lại các cuộc tranh luận, điểm sách, tính không sai lầm và tính lịch sử, các Phúc Âm tiếng Hy Lạp, cùng danh mục đọc thêm). Không có đoạn nào cần đánh dấu.
+
+Mở trong trình đọc Về thư viện
