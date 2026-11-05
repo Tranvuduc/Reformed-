@@ -1,6 +1,12 @@
 NGƯỜI HƯỚNG DẪN CỦA THÁNH ĐỒ, TRONG BA BÀI LUẬN
-Thomas Hooker
 
+Thomas Hooker · The Saint’s Guide, in Three Treatises (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+NGƯỜI HƯỚNG DẪN CỦA THÁNH ĐỒ, TRONG BA BÀI LUẬN Thomas Hooker
 
 Và Đức Chúa Trời phán: "Thần ta sẽ không ở cùng loài người luôn; bởi nó cũng chỉ là xác thịt, đời nó sẽ được một trăm hai mươi năm." — SÁNG THẾ KÝ 6:13 [NEEDS REVIEW: bản văn ghi "Genesis 6:13", nhưng đoạn trích là Sáng Thế Ký 6:3]
 
@@ -132,10 +138,6 @@ Dù Đức Chúa Trời tranh đấu với kẻ có tội trong một thời gia
 
 HẾT.
 
-
-
-
-
 Cơn thịnh nộ của Đức Chúa Trời từ trời tỏ ra nghịch cùng mọi sự không tin kính và mọi sự không công bình của những người dùng sự không công bình mà bắt hiếp lẽ thật. — RÔ-MA 1:18
 
 Trong phần đầu của chương này, Sứ đồ Phao-lô, như một lời mở đầu, dọn đường cho nhiều lẽ thật tuyệt vời mà Thánh Linh của Đức Chúa Trời đã ban cho ông để gửi đến các thánh đồ ở Rô-ma. Và để đảm bảo các lẽ mầu nhiệm thiên thượng này ăn sâu vào lòng họ và được đón nhận tốt hơn, trước hết ông thiết lập thẩm quyền của sự kêu gọi của mình, nhấn mạnh rằng ông không đến trước khi được Đức Chúa Trời sai đi (câu 1). Phao-lô, tôi tớ Đức Chúa Jêsus Christ, được gọi làm sứ đồ, để riêng ra đặng giảng Phúc Âm của Đức Chúa Trời. Vậy, vì ông được gọi theo cách này, thật là hợp lẽ họ đón nhận giáo lý của ông không như những ý tưởng từ trí óc riêng của ông, mà như lời của Đức Chúa Trời bất diệt.
@@ -234,10 +236,6 @@ Kẻ giả hình kín đáo: Sự kín đáo, khi xét tự thân, là một cô
 
 HẾT.
 
-
-
-
-
 Nhưng nó như cây trồng gần dòng nước, sanh bông trái theo thì tiết, lá nó cũng chẳng tàn héo; mọi sự nó làm đều sẽ thạnh vượng. — THI THIÊN 1:3
 
 Lúc đầu của Thi Thiên này, Tiên tri Đa-vít đưa ra một cái nhìn tổng quan có phần chung chung và mơ hồ về sự phước hạnh, là ước muốn của lòng chúng ta, mục tiêu của các hy vọng và nỗ lực của chúng ta. Rồi ông tiếp tục chỉ ra các con đường sai mà những kẻ bước trên chúng sẽ không bao giờ đạt được sự phước hạnh này. Tiếp theo, ông tỏ ra con đường thật và trực tiếp đến hạnh phúc, gồm hai khía cạnh chính: vui thích và suy gẫm Lời của Đức Chúa Trời. Trong các lời của câu thơ, ông mô tả cụ thể và rõ ràng hạnh phúc này, nhằm quyến rũ tình cảm của người ta và khiến linh hồn họ phải lòng nó. Ông cũng vẽ ra tình trạng và hoàn cảnh khốn khổ của những kẻ không bước trên con đường dẫn đến hạnh phúc này. Chúng không như người công chính, nhưng gió thịnh nộ của Đức Chúa Trời sẽ cuốn chúng đi như trấu. Cuối cùng, ông đưa ra các lý do cho sự phân biệt này, vì Chúa biết và chấp thuận đường của người công chính, nhưng đường của kẻ ác sẽ bị hư mất.
@@ -294,14 +292,4 @@ Cuối cùng, chúng ta nên học loại bỏ mọi sự phung phí thời gian
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Loại trừ khỏi bản dịch (đã ghi trong ghi chú cuối): khối tiêu đề/ấn hiệu (P0000-P0002), mục lục điều hướng của ba bài luận (P0003-P0008, các tựa bài luận đều xuất hiện trong thân bài), các dòng trống và khối bản quyền Monergism (P0155-P0162).
-- Bản văn tiếng Anh: ấn bản Monergism (2023), văn bản hiện đại hóa, sạch không OCR.
-- Quy ước trích Kinh Thánh: các câu trích nguyên văn theo bản 1934 giữ đúng lối diễn đạt 1934 (gồm "xưng công bình" trong Công Vụ Các Sứ Đồ 13:39); các câu còn lại diễn đạt theo phong cách 1934.
-- "bí tích" (banned) được dịch là "nghi thức thánh" trong mọi trường hợp (P0149, P0151).
-- SÁNG THẾ KÝ 6:13 tại P0009: giữ nguyên trích dẫn của bản văn (đoạn trích thực là Sáng Thế Ký 6:3) — [NEEDS REVIEW: ...] đã ghi trong thân bài.
-- Châm Ngôn 30:31 tại P0063: giữ nguyên trích dẫn của bản văn (nội dung ứng với Châm Ngôn 1:31) — đã ghi trong thân bài.
-- Công Vụ Các Sứ Đồ 15:8-9 tại P0064: giữ nguyên trích dẫn của bản văn (sự việc quan trấn thủ và Ê-ly-ma ứng với Công Vụ Các Sứ Đồ 13:7-11) — đã ghi trong thân bài.
-- Ê-xê-chiên 18:13 tại P0057: giữ nguyên trích dẫn của bản văn (nội dung ứng với Ê-xê-chiên 18:31-32) — đã ghi trong thân bài.
-- "sự xưng công chính" dùng cho "justification" trong văn xuôi; "xưng công bình" chỉ xuất hiện trong trích dẫn nguyên văn 1934 (Công Vụ Các Sứ Đồ 13:39).
+Mở trong trình đọc Về thư viện

@@ -1,5 +1,12 @@
 ĐI VỚI CHÚA GIÊ-XU
-Mary Winslow
+
+Mary Winslow · Walking With Jesus
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+ĐI VỚI CHÚA GIÊ-XU Mary Winslow
 
 Hành Trình Của Người Cơ Đốc
 
@@ -1181,12 +1188,4 @@ Thường thì trái tim già nua của tôi dường như lại trẻ trung khi
 
 Các bạn thân mến, hãy sống trên một thế gian đang chết và mọi điều phai tàn của nó. Nó không đáng một ý nghĩ. Hãy sống độc lập với loài thọ tạo, và bước đi tay trong tay với Chúa Giê-xu. Hãy giữ một tấm lòng cởi mở với Ngài, phó thác cho tình yêu của Ngài mọi điều bạn cảm nhận hay sợ hãi. Ngài sẽ không phản bội sự tin cậy của bạn, mà sẽ dẫn bạn an toàn trên con đường ngay thẳng đến vinh quang; vinh quang đã bắt đầu ở đây, và tăng lên qua vô số thời đại của cõi đời đời.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- justification = "sự xưng công chính" trong văn xuôi; "xưng công bình" chỉ giữ nguyên trong các trích dẫn Kinh Thánh nguyên văn theo bản dịch 1934, không bao giờ dùng trong văn xuôi.
-- gospel = "Phúc Âm"; "Tin Lành" chỉ xuất hiện trong trích dẫn nguyên văn 1934 hoặc ngữ cảnh đạo Tin Lành (Protestantism).
-- Trong các trích dẫn Kinh Thánh nguyên văn, giữ nguyên lối chữ 1934 đích thực ("xưng công bình", "Tin Lành", "Đức Giê-hô-va", "Đức Chúa Jêsus"), không ép thuật ngữ của đợt dịch vào các câu trích.
-- Các lỗi in của bản nguồn được giữ nguyên văn kèm cờ [NEEDS REVIEW] tại chỗ, không đoán sửa.
-- LOẠI TRỪ: P0000–P0012 (khối tiêu đề, phụ đề "Spiritual meditations for pilgrims..." và mục lục điều hướng — mọi tiêu đề bài đều có trong thân bài); P0612–P0624 (các dòng trống, dấu phân tách "-----", và khối bản quyền Monergism — khối này viết sai tên sách thành "Walkikng With Jesus").
-- NGUỒN: EPUB Monergism (ấn bản ePub/mobi tháng 7 năm 2016), văn bản Anh sạch, không OCR. Không có ghi chú chép lại/máy dịch bằng AI trong khối bản quyền của ấn bản này.
-- Toàn bộ các bài suy ngẫm đều là trích đoạn từ thư từ và nhật ký của chính Mary Winslow (không có tác phẩm của tác giả khác kèm theo); các tiêu đề đoạn được dịch tại chỗ.
+Mở trong trình đọc Về thư viện

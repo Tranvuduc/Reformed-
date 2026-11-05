@@ -1,5 +1,12 @@
 TINH TUỶ THẦN HỌC THÁNH
-William Ames
+
+William Ames · The Marrow of Sacred Divinity (1639) (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+TINH TUỶ THẦN HỌC THÁNH William Ames
 
 LỜI TỰA
 
@@ -5295,8 +5302,4 @@ A-men.
 
 KẾT THÚC
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Không có vấn đề thuật ngữ: toàn bộ thân bài dịch theo đúng bảng 16 thuật ngữ; không còn thuật ngữ bị cấm nào trong thân bài (các từ chỉ thánh lễ được dịch là "nghi thức thánh", phép báp-têm dịch là "báp-têm/lễ báp-têm").
-- Ghi chú về các phần đã loại trừ (không dịch): (1) Trang tựa của ấn bản 1639 và các ghi chú của người sao chép William H. Gross trong EPUB Monergism — tư liệu biên tập, không phải của Ames; (2) Mục lục — danh sách định vị, không phải nội dung tác phẩm; (3) Toàn bộ bộ chú thích cuối sách của biên tập viên Gross (1.278 mục chú thích trong EPUB: các lời giải thích từ ngữ và các đoạn Kinh Thánh NKJV do biên tập viên thêm vào) — bộ máy chú thích không phải của Ames; các con số chỉ chú thích trong thân bài đã được gỡ bỏ; (4) Trong Bảng Định Nghĩa của Ames (đã dịch đầy đủ các từ và lời giải thích), chỉ loại bỏ cột thứ ba ghi số trang định vị (dạng "p. 4", "ibid."); (5) Phần "Additional Definitions" do biên tập viên Gross thêm vào cuối Bảng Định Nghĩa (bàn về các nguyên nhân theo Aristote và về "Affection", trích Victor Shepherd) — tư liệu của biên tập viên, không phải của Ames; (6) Các Bảng Giáo Lý năm 1639 vốn đã không có trong EPUB này (theo ghi chú của người sao chép, chúng đã bị bỏ khi chuyển đổi định dạng).
-- Ghi chú về nguồn: bản dịch dựa trên văn bản EPUB Monergism do William H. Gross đánh máy tay, hiện đại hoá chính tả/cú pháp và chuẩn hoá các trích dẫn Kinh Thánh; một vài chuỗi chữ Hy Lạp/La-tinh đã bị méo dạng phiên tự trong nguồn (ví dụ trong Lời Tựa và chương 4, Quyển 1) được giữ nguyên văn đúng như nguồn; một lỗi in thừa chữ số trong nguồn tại Thi Thiên 119.14, 16 (chương 22, Quyển 2) đã được đọc theo văn mạch. Lời Kinh Thánh được dịch theo phong cách bản dịch 1934; riêng các trích dẫn nguyên văn theo bản 1934 thì giữ đúng nguyên văn bản 1934, không ép thuật ngữ của bảng hướng dẫn vào trong trích dẫn. Chữ "FINIS" cuối sách được dịch là "KẾT THÚC", và lời "Amen" kết thúc được giữ là "A-men". Không có đoạn nào trong nguồn ở tình trạng không đọc được đến mức phải đánh dấu cần xem lại.
+Mở trong trình đọc Về thư viện

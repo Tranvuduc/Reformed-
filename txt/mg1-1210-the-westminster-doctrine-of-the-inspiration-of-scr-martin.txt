@@ -1,5 +1,12 @@
 GIÁO LÝ WESTMINSTER VỀ SỰ THẦN CẢM CỦA KINH THÁNH
-Hugh Martin
+
+Hugh Martin · The Westminster Doctrine of the Inspiration of Scripture (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+GIÁO LÝ WESTMINSTER VỀ SỰ THẦN CẢM CỦA KINH THÁNH Hugh Martin
 
 Lời mở đầu cho Báo cáo của Ủy ban Đại học
 
@@ -177,10 +184,4 @@ Chúng ta được Tiến sĩ Rainy đảm bảo tại cuộc họp gần đây 
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- inspiration = "sự thần cảm" trong toàn sách (quy ước đứng của đợt dịch).
-- Các trích dẫn Kinh Thánh nguyên văn trong bài giữ nguyên lối chữ 1934 đích thực (vd. "hà hơi bởi Đức Chúa Trời", "Tin Lành" trong trích dẫn 1 Phi-e-rơ 1:12, "xưng dân ngoại là công bình" Ga-la-ti 3:8) — quy ước trích dẫn nguyên văn của đợt.
-- LOẠI TRỪ: khối tiêu đề (P0000–P0002, rút gọn vào tiêu đề); khối bản quyền Monergism (P0003 — ấn bản ghi rõ văn bản tiếng Anh do Grok chép lại nguyên văn, xem ghi chú nguồn); mục lục điều hướng (P0004–P0011); Lời mở đầu của biên tập viên (P0012–P0013, không phải của tác giả); trang tựa gốc (P0014–P0019, rút gọn vào tiêu đề); toàn bộ bộ máy ghi chú cuối trang (P0082–P0084, theo tiền lệ #254 — các số chú thích giữ nguyên trong văn bản).
-- GHI CHÚ NGUỒN: bản tiếng Anh của Monergism chép lại nguyên văn bằng Grok từ bản in 1890 (ấn bản lần thứ tư), đã được biên tập kiểm tra; một số lỗi in của bản nguồn được giữ nguyên kèm cờ [NEEDS REVIEW] tại chỗ (vd. "Ihave" thiếu dấu cách; dấu "?" cuối câu có thể là lỗi in).
-- Các chữ số La-tinh và cụm thuật ngữ Latinh (tertium quid, status quaestionis, ex necessitate naturae...) giữ nguyên như bản nguồn.
+Mở trong trình đọc Về thư viện

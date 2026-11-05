@@ -1,5 +1,12 @@
 MỤC SƯ VÀ GIÁO PHẨM TRƯỞNG
-David Calderwood
+
+David Calderwood · The Pastor and the Prelate (Church History eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+MỤC SƯ VÀ GIÁO PHẨM TRƯỞNG David Calderwood
 
 Trang Tiêu Đề Gốc
 
@@ -271,8 +278,6 @@ Tiền tài thắng Lu-ca,
 
 Ông đặt đồng cân lên trên sách.
 
-***
-
 Có Giám mục Đô thành nào đó
 
 Ngự tại Sở Tài chính,
@@ -314,8 +319,6 @@ Cách nào che giấu những tội lỗi như thế chăng?
 Ngươi là kẻ trộm, khi đã làm điều này với khách lạ không quen:
 
 Ngươi biết rõ, kẻ trộm phải chết cách nhục nhã nào.
-
-***
 
 Tội lớn biết bao đối với ngươi,
 
@@ -679,13 +682,4 @@ HẾT.
 
 1. "Một việc là muốn dùng một quyền bất công cách công chính, và một việc khác là muốn dùng một quyền công chính cách bất công." — Augustine, De bono coniugali, chương 14
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Bài giảng được dịch đầy đủ từ đầu đến cuối; không bỏ sót đoạn nào của tác phẩm gốc.
-- Bản tiếng Anh của Monergism (EPUB, 2025) là bản chuyển thể (transcription) hiện đại hóa nhẹ từ bản in năm 1628, do Grok AI thực hiện, chỉ hiệu đính nhẹ bởi người biên tập — xem ghi chú của người biên tập trong bản gốc điện tử. Bản dịch tiếng Việt dịch từ văn bản tiếng Anh này.
-- Lời mở đầu của người biên tập hiện đại (Editor's Note), trang bìa, trang tiêu đề xuất bản, và mục lục điều hướng (Contents) không được dịch vì không phải tác phẩm của Calderwood; tất cả các tên chương trong mục lục đều xuất hiện đầy đủ trong thân bài.
-- Trang tiêu đề gốc năm 1628 (Original Title Page) được dịch đầy đủ trong thân bài.
-- Ghi chú cuối của người dịch: trong các chunk khác nhau, thuật ngữ "Prelate" được dịch là "Giám mục" hoặc "Giáo phẩm trưởng" tùy theo ngữ cảnh câu chữ; "Diocesan Bishop" luôn là "Giám mục giáo phận". "Conformity" trong nguyên tác 1628 chỉ thái độ phục tùng của giáo hội đối với quyền bính dân sự và các nghi lễ áp đặt, được dịch là "Phục tùng" hoặc "sự phục tùng".
-- "Thiên Chúa giáo" là tên riêng của Giáo hội Công giáo La Mã, không phải từ bị cấm.
-- Trong các trích dẫn Kinh Thánh nguyên văn theo bản dịch 1934, giữ nguyên văn từ ngữ 1934 (ví dụ "xưng công bình", "Tin Lành"), không ép thuật ngữ bảng hướng dẫn vào trích dẫn.
-- Các thuật ngữ bị cấm trong thân bài (ân sủng, sự xưng công bình, Thiên Chúa, bí tích, rửa tội, hà linh, sự xưng công chính): đã kiểm tra toàn bộ thân bài, không còn sót lại.
+Mở trong trình đọc Về thư viện

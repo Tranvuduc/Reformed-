@@ -1,5 +1,12 @@
 NHẬT KÝ THIÊNG LIÊNG
-William Gearing
+
+William Gearing · The Sacred Diary
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+NHẬT KÝ THIÊNG LIÊNG William Gearing
 
 Hay, Những Suy Gẫm Tuyển Chọn Cho Mọi Phần Của Ngày
 
@@ -7,9 +14,9 @@ GHI CHÚ CỦA BIÊN TẬP VIÊN – Trong quá trình phiên âm EEBO-TCP, toà
 
 MỤC LỤC
 
-LỜI NÓI ĐẦU I. Thư Dâng Tặng.
+LỜI NÓI ĐẦU I. THƯ DÂNG TẶNG.
 
-LỜI NÓI ĐẦU II. Gửi Đến Độc Giả.
+LỜI NÓI ĐẦU II. GỬI ĐẾN ĐỘC GIẢ.
 
 1. MỤC I. Lời Dẫn Nhập Cho Tác Phẩm Này.
 
@@ -95,7 +102,7 @@ LỜI NÓI ĐẦU II. Gửi Đến Độc Giả.
 
 42. MỤC XLII. Khi Các Ngươi Dọn Mình Để Ngủ.
 
-LỜI NÓI ĐẦU I. Thư Dâng Tặng.
+LỜI NÓI ĐẦU I. THƯ DÂNG TẶNG.
 
 Gửi đến Ngài John Hobart Đáng Kính, ở Brickling thuộc Hạt Norfolk, Nam Tước; và gửi đến William Windham ở Felbridge cùng hạt, Esq; và gửi đến các Phu Nhân Đức Hạnh là vợ của các ngài.
 
@@ -117,7 +124,7 @@ Tôi Tớ Khiêm Nhường Và Thân Ái Nhất Của Các Ngài Trong Phúc Âm
 
 W. Gearing.
 
-LỜI NÓI ĐẦU II. Gửi Đến Độc Giả.
+LỜI NÓI ĐẦU II. GỬI ĐẾN ĐỘC GIẢ.
 
 Kinh Thánh kêu gọi chúng ta chuộc lại thì giờ: Nay chuộc lại thì giờ là, 1. Xem chừng chúng ta chẳng phí bỏ chút thì giờ nào cách luống công, nhưng dùng mỗi phút của nó như một điều hết sức quý báu, và tiêu dùng nó trọn vẹn trong đường lối của bổn phận. 2. Rằng chúng ta không những làm điều thiện, mà còn làm điều thiện tốt nhất mà chúng ta có thể làm, v.v. 3. Rằng chúng ta làm những điều tốt nhất bằng cách tốt nhất, và với mức độ lớn nhất, và làm nhiều điều thiện hết mức có thể. 4. Rằng chúng ta canh chừng những cơ hội đặc biệt. 5. Rằng chúng ta lập tức nắm lấy chúng khi chúng đến, và tận dụng chúng khi nắm lấy. 6. Rằng chúng ta từ bỏ mọi điều cần từ bỏ để giữ lấy thì giờ của mình. 7. Rằng chúng ta liệu trước việc ngăn ngừa các trở ngại, và việc dẹp bỏ các vật cản của mình, và việc đạt được mọi sự giúp đỡ để mau lẹ trong bổn phận. Đó là sự chuộc lại thì giờ thật, theo sự xét đoán của một nhà thần học đáng kính.
 
@@ -966,5 +973,5 @@ Mỗi Cơ Đốc nhân hãy cố gắng được sử dụng tốt trong ban ng�
 HẾT.
 
 LƯU Ý CỦA NGƯỜI DỊCH: 10 khối thông tin nhà xuất bản và bản quyền ở đầu sách đã được lược bỏ khi tách file; một số trích dẫn đã được hiệu đính theo đúng bản văn được trích dẫn.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+
+Mở trong trình đọc Về thư viện

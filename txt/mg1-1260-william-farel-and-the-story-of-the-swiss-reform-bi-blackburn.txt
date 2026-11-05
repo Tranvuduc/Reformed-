@@ -1,5 +1,12 @@
 WILLIAM FAREL VÀ CÂU CHUYỆN VỀ CUỘC CẢI CHÁNH THỤY SĨ
-William M. Blackburn
+
+William M. Blackburn · William Farel, and the Story of the Swiss Reform (Biography eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+WILLIAM FAREL VÀ CÂU CHUYỆN VỀ CUỘC CẢI CHÁNH THỤY SĨ William M. Blackburn
 
 LỜI TỰA.
 
@@ -163,7 +170,7 @@ Dường như ông bắt đầu sợ Kinh Thánh, kẻo nó phá hủy đức ti
 
 Farel đồng ý, và nhiều người giàu ngoan đạo ở Paris đã giao cho ông các khoản tiền khác nhau, để cho các sinh viên nghèo hơn. Công việc được thực hiện trung tín bởi một người có những e ngại lương tâm tinh tế nhất trong mọi vấn đề về sự trung thực và từ thiện.
 
-“Hãy làm tâm trí bạn vui lên bằng cách đọc cuộc đời của các thánh,” chúng ta nghe những người canh gác có mắt đại bàng nói với sinh viên vẫn buồn. 
+“Hãy làm tâm trí bạn vui lên bằng cách đọc cuộc đời của các thánh,” chúng ta nghe những người canh gác có mắt đại bàng nói với sinh viên vẫn buồn.
 
 “Chẳng phải các sứ đồ là những thánh tốt nhất sao?” ông trả lời. “Các dạy dỗ của họ làm tôi bối rối.”
 
@@ -1995,12 +2002,4 @@ Hội thánh tại Neufchatel rất sốt sắng vì các giáo lý Farel đã d
 
 HẾT
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có vấn đề thuật ngữ tồn đọng; toàn bộ thân bài tuân theo bảng thuật ngữ 16 từ của đợt MG-2 (Phúc Âm cho gospel, ân điển cho grace, sự xưng công chính cho justification, báp-têm cho baptism, v.v.).
-Ghi chú nguồn và phạm vi dịch:
-- Nguồn: EPUB tải từ trang Monergism của tác phẩm (William M. Blackburn, "William Farel, and the Story of the Swiss Reform"). Bản dịch gồm toàn bộ phần của chính tác giả: Lời Tựa và Chương 1-22.
-- Đã loại trừ (không thuộc thân bài của tác giả, chỉ là vật liệu in ấn): trang tựa/trang bản quyền ở đầu EPUB; bảng mục lục (CONTENTS); dòng tiêu đề phần "WILLIAM FAREL." đứng riêng trước Lời Tựa; và các số trang rời "4", "5", "6", "7" lẫn trong Lời Tựa.
-- Lỗi và chỗ hỏng trong bản nguồn (đều đã dịch theo nghĩa, không đoán bừa): Lời Tựa in "Fare1" thay cho "Farel" và có ký tự hỏng "13'0" trước cụm "many times" (đã đánh dấu tại chỗ); Chương 3 có đoạn hỏng đọc là "in test, let us be Christians. Let the servant pray only to the her." (đã dịch theo nghĩa và đánh dấu tại chỗ); Chương 2 có các lỗi in "Bayardpushed", "arid" (thay "and"), "meat" (thay "must"), "relies" (thay "relics"), "a s state", "dawn" (thay "down"), và câu cuối của chương bị cụt ở "...from heart."; câu trích D'Aubigné "doctor of Staples" (thay cho Etaples) được giữ như bản nguồn; Chương 12 có "preached clown" (thay "down"), "between man God" (thiếu "and"), "arch a" (thay "such a"), lỗi "Faerl", và tên "Wiliamette/Williamette" viết không nhất quán.
-- Mâu thuẫn ngày trong bản nguồn (Chương 11): dòng chữ khắc trong nhà thờ chính tòa Neufchatel ghi ngày 23 tháng Mười 1530, nhưng một câu sau đó lại ghi "October third" (ngày ba tháng Mười); bản dịch thống nhất theo ngày 23 như dòng chữ khắc.
-- Quy ước trích dẫn Kinh Thánh: các câu Kinh Thánh trích nguyên văn theo lối bản 1934 thì giữ nguyên văn bản 1934 (kể cả các cách nói cũ như "xưng công bình", "Tin Lành" khi chúng xuất hiện trong trích dẫn nguyên văn); ngoài trích dẫn, thân bài luôn dùng thuật ngữ theo bảng hướng dẫn của đợt.
-- Trong thân bài có 2 chỗ được đánh dấu [NEEDS REVIEW: ...] tại đúng vị trí văn bản nguồn bị hỏng không đọc được (Lời Tựa và Chương 3), như ghi ở trên.
+Mở trong trình đọc Về thư viện

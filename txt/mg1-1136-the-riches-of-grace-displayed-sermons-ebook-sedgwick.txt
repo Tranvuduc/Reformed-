@@ -1,9 +1,16 @@
 SỰ GIÀU CÓ CỦA ÂN ĐIỂN ĐƯỢC BÀY TỎ
-Obadiah Sedgwick
 
-LỜI NÓI ĐẦU. Gửi Bạn Đọc Cơ Đốc.
+Obadiah Sedgwick · The Riches of Grace Displayed (Sermons eBook)
 
-LỜI NÓI ĐẦU. Gửi Bạn Đọc Cơ Đốc.
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ GIÀU CÓ CỦA ÂN ĐIỂN ĐƯỢC BÀY TỎ Obadiah Sedgwick
+
+LỜI NÓI ĐẦU. GỬI BẠN ĐỌC CƠ ĐỐC.
+
+LỜI NÓI ĐẦU. GỬI BẠN ĐỌC CƠ ĐỐC.
 
 Bạn đọc Cơ Đốc,
 
@@ -1721,12 +1728,4 @@ Cứu Chúa của kẻ có tội gõ cửa kẻ có tội; Một Cứu Chúa nà
 
 FINIS.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- gospel = "Phúc Âm" xuyên suốt; "Tin Lành" chỉ xuất hiện trong các trích dẫn nguyên văn 1934 và bối cảnh "đạo Tin Lành"/"người Tin Lành" (Protestantism).
-- justification = "sự xưng công chính" trong văn xuôi; "xưng công bình" chỉ giữ nguyên trong trích dẫn nguyên văn 1934 (ví dụ Rô-ma 3:24), theo quy ước của đợt dịch.
-- atonement = "sự chuộc tội"; "Sacrament"/"Ordinances" = "nghi thức thánh"/"nghi lễ"; Latin phrases giữ nguyên trong ngoặc đơn với diễn giải.
-- Không có "sự xưng công chính" sót lại (kiểm tra toàn văn = 0).
-- Các lỗi in của bản gốc (chính tả, trích dẫn sai) được dịch nguyên văn với [NEEDS REVIEW] kèm chú thích, không sửa ngầm theo ngữ cảnh.
-- EXCLUSIONS: bìa, trang tựa, mục lục điều hướng, bản quyền và ghi chú biên tập của Monergism (không phải của tác giả). Lời Tựa "To the Christian Reader" có chữ ký của chính Obadiah Sedgwick được dịch đầy đủ như một phần tác phẩm.
-- PROVENANCE: bản tiếng Anh Monergism (2024) được Project Puritas đánh máy thủ công từ bản in cổ qua EEBO-TCP, Monergism biên tập/hiệu đính thêm; FINIS = "HẾT." trong văn xuôi.
+Mở trong trình đọc Về thư viện

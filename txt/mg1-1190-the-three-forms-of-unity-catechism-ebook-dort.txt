@@ -1,5 +1,12 @@
 BA HÌNH THỨC HIỆP NHẤT: TUYÊN XƯNG ĐỨC TIN BỈ (1561), GIÁO LÝ HEIDELBERG (1563), VÀ CÁC GIÁO LỆ DORT (1619)
-Synod of Dort
+
+Synod of Dort · The Three Forms of Unity (Catechism eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+BA HÌNH THỨC HIỆP NHẤT: TUYÊN XƯNG ĐỨC TIN BỈ (1561), GIÁO LÝ HEIDELBERG (1563), VÀ CÁC GIÁO LỆ DORT (1619) Synod of Dort
 
 BẢN TUYÊN XƯNG ĐỨC TIN BỈ (1561)
 
@@ -1439,12 +1446,4 @@ Cuối cùng, Thượng Hội Đồng này thúc giục mọi anh em đồng lao
 
 Nguyện Con Đức Chúa Trời là Chúa Giê-xu Christ, là Đấng ngự bên hữu Đức Chúa Trời và ban các ân tứ cho loài người, thánh hóa chúng ta trong lẽ thật, dẫn những kẻ lầm lạc đến lẽ thật, bịt miệng những kẻ vu cáo sai lầm chống lại sự dạy dỗ lành mạnh, và trang bị cho những người chăn bầy trung tín của Lời Ngài một thần trí khôn ngoan và thận trọng, hầu cho mọi điều họ nói đều vì vinh hiển Đức Chúa Trời và sự gây dựng những người nghe mình. A-men.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Bảng thuật ngữ 16 từ của đợt được giữ xuyên suốt: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, "Phúc Âm" (cho gospel), ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh; "inspiration" (của Kinh Thánh) = sự thần cảm; "sacrament"/"sacramental" = "nghi thức thánh"; baptism = "báp-têm"/"lễ báp-têm".
-- Trong các trích dẫn Kinh Thánh nguyên văn, giữ nguyên lối chữ 1934 đích thực ("xưng công bình", "Tin Lành", "làm phép báp tem") mà không ép thuật ngữ hướng dẫn vào trong các câu trích; quy ước này đã ghi rõ ở đây.
-- LỖI IN NGUỒN GIỮ NGUYÊN + GHI CHÚ: 5 chỗ đã đánh dấu [NEEDS REVIEW] trong thân bài (P0188 "andour" → "and our"; P0220 "here moves" có lẽ là "hides"/"removes"; P0253 "hischurch" → "his church"; P0264 "living a member" → "a living member"; P0312 "are God's covenant" có lẽ là "are in God's covenant").
-- LOẠI TRỪ: khối tiêu đề P0000 (đưa vào header); mục lục điều hướng (206 đoạn, file split_001 — các tiêu đề mục đều xuất hiện trong thân bài); khối CSS/trang tiêu đề không có nội dung tác phẩm. Không có lời nói đầu của biên tập viên hiện đại để loại trừ.
-- NGUỒN: ấn bản tiếng Anh hiện đại "Three Forms of Unity - Continental" của Monergism (EPUB, 152 KB). Khối bản quyền của ấn bản này không có ghi chú AI transcription/machine translation (không giống một số ấn bản MG-2 khác).
-- Ba hình thức được dịch đầy đủ: Tuyên xưng đức tin Bỉ (1561, 37 điều), Giáo lý Heidelberg (1563, 129 câu hỏi-đáp), Các giáo lệ Dort (1619, 5 giáo điều + bác bỏ các sai lầm + kết luận).
+Mở trong trình đọc Về thư viện

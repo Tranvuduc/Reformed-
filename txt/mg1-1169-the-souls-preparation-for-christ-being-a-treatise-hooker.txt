@@ -1,5 +1,12 @@
 SỰ CHUẨN BỊ CỦA LINH HỒN CHO ĐẤNG CHRIST: BÀI LUẬN VỀ SỰ ĂN NĂN
-Thomas Hooker
+
+Thomas Hooker · The Soul’s Preparation for Christ: Being a Treatise of Contrition (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ CHUẨN BỊ CỦA LINH HỒN CHO ĐẤNG CHRIST: BÀI LUẬN VỀ SỰ ĂN NĂN Thomas Hooker
 
 Công Vụ Các Sứ Đồ 2:37
 
@@ -979,7 +986,6 @@ Phương tiện 2. Thứ hai, khi Đức Chúa Trời khuấy động, hãy khu�
 
 Phương tiện 3. Thứ ba, hãy xét xem linh hồn mình thấy điều gì là ác và đáng ghê tởm nhất — hoặc nghèo khó hay sỉ nhục, hoặc mất tự do. Rồi (hãy chú ý điều ta nói) hãy đưa lòng mình lên cao hơn trong chính sự nhận biết tội, như nó là tội. Và hãy để linh hồn mình bị tác động bởi sự đê hèn của tội, hơn là bởi bất cứ gian khổ nào khác. Như vầy: giả sử lòng các ngươi rất kiêu ngạo. Nếu sỉ nhục và xấu hổ xảy đến, Ôi lòng các ngươi run rẩy biết bao trong sự nhận biết nó. Các ngươi không thể sống nữa trừ khi có danh dự đến. Nay, tội còn tệ hơn xấu hổ. Vì vậy, hãy ngước lên trời và nói: 'Ôi, lòng tôi run rẩy vì xấu hổ, nhưng tội còn tệ hơn nhiều.'
 
-
 Nay ta đến các hoa quả của sự buồn rầu theo ý Đức Chúa Trời, lấy từ những lời này, Công 2:37: Họ nói với Phi-e-rơ và các sứ đồ khác rằng: Hỡi anh em, chúng ta phải làm chi? Trong những lời này, ba điều được ngầm hiểu, và ba điều được bày tỏ rõ ràng.
 
 Thứ nhất, ba điều được ngầm hiểu.
@@ -1326,15 +1332,4 @@ A-MEN, A-MEN.
 
 Soli Deo Gloria
 
-
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- gospel = "Phúc Âm" throughout; "Tin Lành" does not appear in the body.
-- justification = "sự xưng công chính" in prose; authentic 1934 wording ("xưng công bình") kept untouched inside verbatim 1934 Bible quotations (Matt 12:37, Rom 8:30) per the batch convention.
-- Scripture rendered in 1934 Vietnamese style (style only, not character-verified against the 1934 edition).
-- "Thiên Chúa giáo" used only as the proper name of Roman Catholicism.
-- "bí tích" rendered "nghi thức thánh"; baptism rendered "báp-têm".
-- Source footnote numerals kept inline; no footnote bodies exist in this EPUB edition.
-- Exclusions: cover/title/imprint block (P0000–P0017); the navigational Table of Contents (P0018–P0086, all chapter titles appear in the body); William H. Gross's modern editor's note (another hand, P0016); the endnote/glossary apparatus (P0752–P0809, per the #254 endnote precedent).
-- Source edition note: the Monergism EPUB is William H. Gross's formatted, modernized, corrected and annotated text (Mar 2021) of the 1638 print of Hooker's 1629 original (digitalpuritan.net scan).
-- Source problems: citation slips and misprints kept verbatim with inline [NEEDS REVIEW] flags (e.g. P0159 "Lu-ca 29:42", P0167 "Mác 10:15", P0189 "Giê-rê-mi 4:15", P0208 "Objecti0n 3", P0233 "tool" for "too", P0296 "yawls", P0321 "Deu 22.32", P0322 "Rom 6.1", P0493 "Gi 6.34", P0503 missing "of", P0546 "Kh 14.4", P0554 "2Thes 2:13", P0639 "Eze 16.16", P0657 "decry"). P0578 is a genuinely empty paragraph in the source.
+Mở trong trình đọc Về thư viện

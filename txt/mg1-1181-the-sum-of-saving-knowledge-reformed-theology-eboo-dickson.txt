@@ -1,5 +1,12 @@
 TỔNG LUẬN VỀ SỰ HIỂU BIẾT CỨU RỖI
-David Dickson & James Durham
+
+David Dickson & James Durham · The Sum of Saving Knowledge (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+TỔNG LUẬN VỀ SỰ HIỂU BIẾT CỨU RỖI David Dickson & James Durham
 
 Tổng luận về sự hiểu biết cứu rỗi có thể được tóm lại trong bốn điều sau đây: —
 
@@ -451,12 +458,4 @@ Vì Đấng Christ chính Ngài đã chỉ rõ điều này, như một chứng 
 
 "Vì vậy tôi thiếu chẳng những mọi chứng cớ của đức tin cứu rỗi, mà còn mọi dấu hiệu của sự tuyển chọn của tôi, miễn là tôi còn ở trong tình trạng này."
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- gospel = "Phúc Âm" trong văn xuôi; "Tin Lành" chỉ xuất hiện một lần trong trích dẫn nguyên văn 1934 của 2 Tê-sa-lô-ni-ca 1:8, giữ nguyên theo quy ước trích dẫn nguyên văn của đợt dịch.
-- justification = "sự xưng công chính"/"được xưng công chính" trong văn xuôi; "xưng công bình" chỉ giữ nguyên trong các trích dẫn nguyên văn 1934 (Rô-ma 8:4; 2 Cô-rinh-tô 5:21; Rô-ma 10:3-4; Công Vụ Các Sứ Đồ 13:39; 1 Cô-rinh-tô 6:11; Rô-ma 4:25) và trong một lối diễn đạt theo phong cách 1934 tại P0222 (ý tưởng Rô-ma 10:4).
-- "Đức Chúa Jêsus Christ" chỉ xuất hiện trong các trích dẫn nguyên văn 1934 (Rô-ma 8:1-2; 1 Giăng 3:23); văn xuôi dùng "Chúa Giê-xu Christ".
-- baptism = "báp-têm"/"lễ báp-têm"; sacraments = "nghi thức thánh"/"các thánh lễ"; church/kirk = "Hội Thánh"/"hội thánh".
-- Loại trừ (không dịch): khối tiêu đề P0000-P0014 (gộp vào dòng tiêu đề ở đầu bài); lời tựa của "J.H." P0015-P0020 (viết bởi người khác, phần mở đầu của ấn bản); tiêu đề chạy P0021 (trùng với tiêu đề bài dịch); dòng phân cách P0247 và mục lục điều hướng + khối bản quyền Monergism P0248-P0276.
-- Cờ NEEDS REVIEW nội bài: P0082 (bản nguồn có ký hiệu gạch bỏ ~~ trước "just judgment"); P0091 (trích "Giăng 15:23" nhưng nội dung khớp Giăng 15:22); P0092 ("Rô-ma 10:3, 4" in sai thành "Rom. g. 3, 4"); P0184 ("sigh of life" — có lẽ là lỗi in của "sight of life" tại P0185).
-- Nguồn: bản EPUB Monergism ("The Sum of Saving Knowledge - Dickson.epub"); tác phẩm thật gồm 226 đoạn P0021-P0246 (~12.600 chữ Anh), dịch toàn văn 225 đoạn (không kể tiêu đề chạy).
+Mở trong trình đọc Về thư viện

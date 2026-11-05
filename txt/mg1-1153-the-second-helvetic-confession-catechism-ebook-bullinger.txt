@@ -1,5 +1,12 @@
 BẢN TUYÊN XƯNG ĐỨC TIN HELVETIC THỨ HAI
-Henry Bullinger
+
+Henry Bullinger · The Second Helvetic Confession (Catechism eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+BẢN TUYÊN XƯNG ĐỨC TIN HELVETIC THỨ HAI Henry Bullinger
 
 CHƯƠNG I
 
@@ -835,12 +842,4 @@ CÁC PHÁI VÀ CÁC CUỘC NỔI LOẠN. Vì vậy, chúng tôi lên án mọi k
 
 Chúng tôi cầu xin Đức Chúa Trời, Cha rất thương xót của chúng tôi ở trên trời, rằng Ngài sẽ ban phước cho những người cai trị dân sự, và chúng tôi, và toàn thể dân Ngài, qua Chúa Giê-xu Christ, Chúa và Đấng Cứu Rỗi duy nhất của chúng tôi; nguyện Ngài được ngợi khen, vinh quang và tạ ơn, cho đến muôn đời. A-men.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- justification = "sự xưng công chính" trong văn xuôi; "xưng công bình" chỉ giữ nguyên trong các trích dẫn nguyên văn theo bản 1934 (ví dụ Rô-ma 1:2, 10:16; II Ti-mô-thê 4:5), theo quy ước trích dẫn nguyên văn của đợt dịch.
-- gospel = "Phúc Âm" trong văn xuôi; "Tin Lành" chỉ trong trích dẫn nguyên văn 1934 (Rô-ma 1:2, 10:16; II Ti-mô-thê 4:5) và khi chỉ đạo Tin Lành (Protestantism), theo quy ước của đợt dịch.
-- "Thiên Chúa giáo" xuất hiện như tên gọi riêng của Hội Thánh La-mã; không có trường hợp dùng sai "Thiên Chúa".
-- sacrament(s) = "nghi thức thánh"; baptism = "báp-têm"/"lễ báp-têm".
-- LOẠI TRỪ (đã ghi nhận, không dịch): khối tiêu đề bìa EPUB (P0001) — nội dung đã gộp vào dòng tiêu đề tiếng Việt; dấu phân cách + "MONERGISM BOOKS" (P0357–P0358) và khối bản quyền pháp lý (P0359–P0360).
-- NGUỒN: EPUB Monergism (https://www.monergism.com/second-helvetic-confession-ebook), văn bản tiếng Anh sạch (không OCR); toàn bộ 30 chương của Tuyên Xưng được dịch đầy đủ theo thứ tự nguồn.
-- VẤN ĐỀ NGUỒN (giữ nguyên văn với [NEEDS REVIEW], không đoán): lỗi in/lỗi đánh máy và trích dẫn Kinh Thánh sai số trong bản tiếng Anh — ví dụ "Ps. 1:15" (trích Thi thiên 50:15), "woever", "bythe", "was make a curse", "7:56" → có thể "8:56", Khải huyền "14:8" → thực ra "13:8", "New Teatament", Lu-ca "15:8" → có thể "15:18", "mumuring", "aqcuit", "JUSFIFIED", "trulyrighteous", "form immorality", "caetchize", "we admonish me", ";keep", "to secured", "the Fatehr", "Titus 3;14", "Like 17:10" → "Lu-ca 17:10", "I Cô-rinh-tô 4:1" → có thể "1:2", "Công vụ 20:2" → có thể "20:29–30", "ti shun" → "to shun", "spike" → "spoke", "nether" → "neither", "may" → "many", "tule" → "rule", "he flock" → "the flock", "Whey" → "Why", "does not received nothing", "is kindle" → "kindled", "vivfying", "he world be", "perservering", "spun" → "spurn", "well known form" → "from", "calamitous limes" → "times", "abstain form" → "from", "discussing we what kind", "Gangrain Synod" → "Synod of Gangra".
+Mở trong trình đọc Về thư viện

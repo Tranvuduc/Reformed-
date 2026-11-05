@@ -1,5 +1,12 @@
 CÁC LUẬN ĐỀ VỀ ĐỨC HẠNH LUÂN LÝ
-Johann Heinrich Heidegger
+
+Johann Heinrich Heidegger · Theses on Moral Virtue (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+CÁC LUẬN ĐỀ VỀ ĐỨC HẠNH LUÂN LÝ Johann Heinrich Heidegger
 
 I. Một cách hết sức khôn ngoan, Aristotle khuyên răn trong tác phẩm vàng son của ông là Chính Trị, quyển VII, chương 13: Δύο ἐστίν, ἐν οἷς γίγνεται τὸ ἐν πᾶσι, τούτων δ' ἐστίν, ἓν μὲν τὸ τὸν σκοπὸν κεῖσθαι καὶ τὸ τέλος τῶν πράξεων ὀρθῶς, ἓν δὲ τὰς πρὸς τὸ τέλος φερούσας πράξεις εὑρίσκειν. [Có hai điều trong đó điều tốt trong mọi sự bao gồm: một là mục đích và cứu cánh của các hành động được đặt ra một cách đúng đắn; điều kia là tìm ra những hành động dẫn đến cứu cánh đó.] Những lời của triết gia này, Daniel Heinsius, một danh tiếng lẫy lừng nhất trong văn chương cổ điển, đã chuyển ngữ như sau trong bản diễn giải của ông: "Có hai điều vốn làm cho các hành động được tán thành và đáng khen. Điều thứ nhất trong chúng là cứu cánh mà chúng ta hướng tới, và như thể là dấu của các hành động chúng ta, tự nó là tốt, và phải được cấu thành như vậy bởi các tác nhân. Điều thứ hai là, khi cứu cánh tốt đã được cấu thành như phải lẽ, thì cũng phải điều chỉnh những phương tiện tốt cho nó. Vì thiếu những điều này thì quả thật không thể chạm tới dấu. Vì biết mình phải đi đâu là không đủ, trừ phi cũng được xác định một cách đúng đắn rằng phải đi bằng đường nào."
 
@@ -81,13 +88,4 @@ XXII. Do đó đức hạnh này chỉ nội tại trong những kẻ có tội,
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- justification = "sự xưng công chính" trong văn xuôi; "xưng công bình" chỉ giữ nguyên trong các trích dẫn Kinh Thánh nguyên văn theo lối 1934 đích thực, theo quy ước của đợt dịch.
-- inspiration (thần cảm) = "sự thần cảm".
-- Các trích dẫn Kinh Thánh nguyên văn giữ nguyên lối chữ 1934 đích thực ("xưng công bình", "Tin Lành", "Đức Giê-hô-va", "Jêsus"); "Tin Lành" không bao giờ dùng để dịch "gospel" trong văn xuôi.
-- Chữ Hy Lạp/Hê-bơ-rơ được giữ nguyên tại chỗ, phần dịch nghĩa trong ngoặc vuông đã dịch sang tiếng Việt.
-- Các ghi chú cho đợt báo cáo (bao-cao): ấn bản Monergism (2026) ghi rằng bản văn tiếng Anh "fully transcribed verbatim by Grok" và "used Grok to generate this translation" từ bản gốc La-tinh 1667 của Heidegger; tức là đây là bản dịch của một văn bản Anh do máy dịch từ La-tinh, đã được kiểm tra trong quá trình biên tập.
-- Các phần loại trừ: trang bìa, khối tiêu đề (gộp vào dòng đầu), mục lục điều hướng điện tử, Lời đề tặng của Johannes Kägius (người phản biện, không phải Heidegger), trang tựa gốc 1667 (gộp vào dòng đầu), Lời biên tập của Monergism, khối bản quyền Monergism. FINIS. cuối tác phẩm được dịch thành HẾT.
-- Các lỗi in/trích dẫn sai trong bản gốc 1667/bản tiếng Anh được giữ nguyên văn kèm theo cờ [NEEDS REVIEW] tại chỗ; không đoán mò sửa chữa.
+Mở trong trình đọc Về thư viện

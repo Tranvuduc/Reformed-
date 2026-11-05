@@ -1,5 +1,12 @@
 XUYÊN QUA TRŨNG BA-CA: NHỮNG LỜI HẰNG NGÀY CHO NHỮNG LỮ KHÁCH VỀ SI-ÔN
-J. C. Philpot
+
+J. C. Philpot · Through Baca’s Vale: Daily Words for Zion’s Wayfarers
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+XUYÊN QUA TRŨNG BA-CA: NHỮNG LỜI HẰNG NGÀY CHO NHỮNG LỮ KHÁCH VỀ SI-ÔN J. C. Philpot
 
 NGÀY 1 THÁNG GIÊNG
 
@@ -2725,14 +2732,7 @@ Tôi thừa nhận rằng bạn có thể bị giày vò nhiều về phần l�
 
 NGÀY 16 THÁNG CHÍN
 
-«Giô-sép là chồi của cây tươi tốt,
-Chồi của cây tươi tốt trồng gần bên suối nước;
-Nhành nhánh phủ trên ngọn tường.
-Những kẻ cầm cung đã ghẹo chọc người,
-Bắn tên vào, và hãm đánh;
-Nhưng nhờ tay Đấng toàn năng của Gia-cốp,
-Nên cung người vẫn bền chắc;
-Nhờ Đấng Chăn chiên, là Đá của Y-sơ-ra-ên.» (Sáng Thế Ký 49:22-24)
+«Giô-sép là chồi của cây tươi tốt, Chồi của cây tươi tốt trồng gần bên suối nước; Nhành nhánh phủ trên ngọn tường. Những kẻ cầm cung đã ghẹo chọc người, Bắn tên vào, và hãm đánh; Nhưng nhờ tay Đấng toàn năng của Gia-cốp, Nên cung người vẫn bền chắc; Nhờ Đấng Chăn chiên, là Đá của Y-sơ-ra-ên.» (Sáng Thế Ký 49:22-24)
 
 Người ta hẳn tưởng rằng Giô-sép, là một cây nho sai trái, có thể nhìn với vẻ tự mãn, gần như với sự khinh miệt thánh khiết, xuống những kẻ bắn cung đã bắn vào mình, nhưng không phải vậy; «họ đã làm cho người đau buồn nặng nề». Bị chính anh em mình bán sang Ê-díp-tô; những giấc chiêm bao và khải tượng Đức Chúa Trời đã ban cho mình bị chế nhạo; bị quăng vào ngục như một kẻ vô đạo qua chính người đàn bà đang cám dỗ mình phạm tội vô đạo, và ở đó bị bỏ quên và bị ruồng bỏ; những kẻ bắn cung nầy đã bắn tên vào lòng người dường nào, và làm cho người đau buồn nặng nề dường nào!
 
@@ -3866,10 +3866,4 @@ Hãy lấy trường hợp Áp-ra-ham, được gọi bởi sự kêu gọi đ�
 
 Lời Đức Chúa Trời là một sự mầu nhiệm toàn diện đối với chúng ta, và chúng ta không thấy vẻ đẹp hay sự hài hòa nào trong các sách của Cựu Ước hay Tân Ước cho đến khi chúng ta thấy tâm trí Đức Chúa Trời trong đó, thu thập những ý tưởng của Đức Chúa Trời, và nhất là ý tưởng lớn mà tôi đã nói là liên kết toàn thể lại với nhau, tức là sự tôn cao Con yêu dấu của Ngài lên bên hữu Ngài như phần thưởng đã hứa của những sự chịu khổ và sự chết của Ngài, và kết quả vinh hiển của sự sống lại và sự thăng thiên của Ngài lên các cung điện phước hạnh.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- 16 thuật ngữ của đợt (bảng trong HUONG-DAN-DICH.md) được giữ nhất quán: God = Đức Chúa Trời; Jesus Christ = Chúa Giê-xu Christ; Holy Spirit = Đức Thánh Linh; gospel = "Phúc Âm"; grace = ân điển; faith = đức tin; justification = sự xưng công chính; sanctification = sự nên thánh; redemption = sự cứu chuộc; atonement = sự chuộc tội; covenant = giao ước; election = sự tuyển chọn; predestination = sự tiền định; salvation = sự cứu rỗi; church = Hội Thánh; Scripture = Kinh Thánh.
-- Các trích dẫn Kinh Thánh nguyên văn giữ nguyên lối chữ bản 1934 đích thực (kể cả "xưng công bình", "Tin Lành", "Đức Chúa Jêsus", "Đức Giê-hô-va" bên trong các câu trích); các đoạn diễn giải lại trong phần bình luận dùng hệ thuật ngữ của đợt dịch.
-- Tiêu đề ngày được chuẩn hoá thống nhất thành "NGÀY {n} THÁNG {M}" (chữ in hoa) cho cả 366 bài; số ngày giữ nguyên văn bản nguồn.
-- LOẠI TRỪ: khối bản quyền Monergism (P0001), mục lục tháng điều hướng (P0003–P0015), dòng ký tên tác giả P0017 ("J.C. Philpot", trùng với dòng tác giả của file), dải phân cách và khối bản quyền cuối sách (P2303–P2307). Ấn bản EPUB Monergism 2020 này không có ghi chú chép lại/phiên dịch bằng AI.
-- Lỗi in của bản nguồn được giữ nguyên văn kèm cờ [NEEDS REVIEW] tại chỗ, không đoán sửa: bản nguồn ghi trùng "NGÀY 18 THÁNG TƯ" hai lần (P0705, P0710) và không có ngày 19 tháng 4; trình tự ngày tháng 10 ở P1816–P1831 (15 → 18 → 17 → 18); các trích dẫn và tên riêng ghi sai khác.
+Mở trong trình đọc Về thư viện

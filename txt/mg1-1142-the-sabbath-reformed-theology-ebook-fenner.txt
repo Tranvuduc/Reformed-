@@ -1,6 +1,12 @@
 NGÀY SA-BÁT
-William Fenner
 
+William Fenner · The Sabbath (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+NGÀY SA-BÁT William Fenner
 
 Xuất Ê-díp-tô Ký 20:8 — Hãy nhớ ngày nghỉ đặng làm nên ngày thánh.
 
@@ -146,18 +152,4 @@ Lập luận này tốt: thứ nhất, vì các việc hằng tuần của chún
 
 Thứ hai, vì các việc hằng tuần làm một người sao nhãng Đức Chúa Trời ít hơn các trò chơi và giải trí. Tôi xin hỏi bất cứ ai ở đây, há người không thiên đàng hơn, được dùng tốt hơn, và ít sao nhãng khỏi những tư tưởng tốt và tình cảm ân điển hơn, khi đang cày, hoặc gieo, hoặc đập lúa, hơn khi đang đổ xúc xắc và đánh bài sao. Các trò chơi và giải trí đẩy một người xa tôn giáo hơn, và hãy để một người đi cầu nguyện sau các trò chơi và giải trí — người sẽ thấy mình không xứng và không cảm động hơn nhiều so với khi đến từ các việc của nghề mình. Giờ nếu những việc sao nhãng ít hơn khỏi sự thờ phượng và hầu việc Đức Chúa Trời bị cấm vào ngày Sa-bát, thì chắc chắn những việc sao nhãng nhiều hơn phải bị cấm vào ngày ấy.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Tin mừng (gospel) được dịch là "Phúc Âm" trong mọi ngữ cảnh thân văn theo bảng thuật ngữ đợt dịch.
-- Justification được dịch là "sự xưng công chính"; không dùng "sự xưng công chính".
-- Trong các câu Kinh Thánh trích nguyên văn theo bản 1934, giữ nguyên lối diễn đạt 1934 nguyên bản (như "xưng công bình", "Tin Lành") theo quy ước trích dẫn nguyên văn của đợt dịch; không ép thuật ngữ của bảng thuật ngữ vào các trích dẫn.
-- Các câu Kinh Thánh còn lại được diễn đạt theo văn phong 1934 (chỉ theo văn phong, không đối chiếu từng chữ với bản in 1934).
-- Các cụm Latin (ictibus gravioribus) được giữ nguyên văn kèm nghĩa dịch.
-- Bản gốc in "Saint Austin" chỉ Augustinô thành Hippo; bản dịch dùng "Thánh Augustinô" theo tên thông dụng.
-
-GHI CHÚ VỀ NGUỒN VÀ PHẠM VI:
-- Đây là một tác phẩm Cơ Đốc Cải Chánh thật (luận văn Thanh giáo của William Fenner về ngày Sa-bát, trên Xuất Ê-díp-tô Ký 20:8); dịch toàn văn, không bỏ qua.
-- Nguồn tiếng Anh: bản EPUB của Monergism (2026). Theo ghi chú bản quyền của bản này, văn bản tiếng Anh là bản phiên âm hiện đại do Claude thực hiện và đã được hiệu đính — cùng nhóm bản nguồn có sự can thiệp của AI như các mục #272, #274, #297, #311, #324, #355, #361, #372 trong đợt dịch này.
-- Các phần không dịch, đã loại trừ có ghi chú: khối tiêu đề/trang tựa (P0000), tên tác giả (P0001), ghi chú phiên âm và khối bản quyền của Monergism (P0002), mục lục điều hướng (P0003–P0004), "Editor's Note" của người biên tập hiện đại (P0005–P0006, không phải bút tích Fenner).
-- Phạm vi dịch: P0007–P0079 ("Of the Sabbath" — toàn bộ luận văn). Các tiêu đề chương/mục đều xuất hiện trong thân bài nên không cần giữ mục lục riêng.
-- Các lỗi in/sai sót rõ trong nguồn (nếu có) được giữ nguyên văn, không đoán thay.
+Mở trong trình đọc Về thư viện

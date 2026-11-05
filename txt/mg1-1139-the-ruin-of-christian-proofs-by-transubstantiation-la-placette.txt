@@ -1,5 +1,12 @@
 SỰ PHÁ HỦY CÁC CHỨNG CỚ CƠ ĐỐC BỞI SỰ HÓA THỂ
-Jean La Placette
+
+Jean La Placette · The Ruin of Christian Proofs by Transubstantiation (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ PHÁ HỦY CÁC CHỨNG CỚ CƠ ĐỐC BỞI SỰ HÓA THỂ Jean La Placette
 
 Sự hóa thể hoàn toàn phá hủy sự chắc chắn của các giác quan chúng ta, vốn là nền tảng của những chứng minh mạnh mẽ nhất cho đạo Cơ Đốc.
 
@@ -701,14 +708,4 @@ Sau cuộc trò chuyện cuối cùng này, có vài ngày trôi qua trước kh
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Gốc tác phẩm: Jean La Placette, *Six Conferences Concerning the Eucharist* (tác phẩm Pháp ngữ; bản tiếng Anh do Monergism cung cấp được Claude phiên âm nguyên văn từ một ấn bản tiếng Anh, theo Editor's Note — bản dịch Việt này dịch từ bản phiên âm AI đó).
-- Đã loại trừ (không phải chính văn của tác giả): trang bìa, trang tiêu đề, Editor's Note (tay bút hiện đại khác), trang tiêu đề gốc (Original Title Page), mục lục điều hướng (Contents — mọi tiêu đề chương/mục đều có mặt trong thân bài), khối copyright của Monergism.
-- Thuật ngữ chính (đồng nhất toàn bài ở khâu ráp): Transubstantiation = "sự hóa thể"; the Eucharist = "Bữa Tiệc Thánh"; accidents = "tùy thể"; substance = "bản thể"; sacrament = "nghi thức thánh"; real presence = "sự hiện diện thật". Trong bản nháp, các worker đã dùng 4 cách diễn đạt khác nhau cho Transubstantiation ("sự biến thể", "thuyết hóa thể", "Biến Thể", "sự biến đổi bản thể"); đã chuẩn hóa thành "sự hóa thể" theo ngữ cảnh nguồn từng đoạn.
-- P0266: "whether substantial or accidental" dịch là "dù là biến đổi bản thể hay biến đổi phụ tính" (chính xác ngữ cảnh triết học), thay cho cách diễn đạt mơ hồ trong bản nháp.
-- 1 NEEDS REVIEW trong thân bài (P0199): nguồn viết "unequal certainty" trong khi luận cứ đang nói về sự bình đẳng hoàn hảo — giữ nguyên văn và gắn cờ (có thể là lỗi in của "equal").
-- "Tin Lành" xuất hiện 2 lần, đều trong cụm "người Tin Lành" (ngữ cảnh Đạo Tin Lành, không phải dịch của "gospel"); gospel trong toàn bài được dịch là "Phúc Âm".
-- Trong các trích dẫn Kinh Thánh nguyên văn (đặt trong dấu ngoặc kép), cách diễn đạt 1934 nguyên bản ("xưng công bình", "Tin Lành") được giữ nguyên theo quy ước trích dẫn nguyên văn của đợt dịch.
-- Trong thân bài dịch: không dùng "sự xưng công chính" (justification = "sự xưng công chính"), "ân sủng" (grace = "ân điển"), "sự xưng công bình", "Thiên Chúa", "bí tích", "rửa tội", "hà linh".
-- Chính tả/ngôn ngữ nguồn được dịch trung thực; các lỗi in của nguồn được giữ nguyên với cờ [NEEDS REVIEW] thay vì đoán nghĩa.
+Mở trong trình đọc Về thư viện

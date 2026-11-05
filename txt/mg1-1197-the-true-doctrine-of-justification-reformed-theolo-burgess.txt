@@ -1,11 +1,18 @@
 GIÁO LÝ ĐÍCH THỰC VỀ SỰ XƯNG CÔNG CHÍNH
-Anthony Burgess
+
+Anthony Burgess · The True Doctrine of Justification (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+GIÁO LÝ ĐÍCH THỰC VỀ SỰ XƯNG CÔNG CHÍNH Anthony Burgess
 
 KÍNH GỬI ĐỨC NGÀI CAO QUÝ.
 
 KÍNH GỬI ĐỨC NGÀI CAO QUÝ.
 
-PHẦN I - Lời Tựa I.
+PHẦN I - LỜI TỰA I.
 
 Edward, Bá tước xứ Manchester, Tử tước Mandeville, Nam tước Kimbolton.
 
@@ -21,7 +28,7 @@ GỬI ĐẾN ĐỘC GIẢ CƠ ĐỐC.
 
 GỬI ĐẾN ĐỘC GIẢ CƠ ĐỐC.
 
-PHẦN I - Lời Tựa II.
+PHẦN I - LỜI TỰA II.
 
 Thưa độc giả Cơ Đốc,
 
@@ -43,7 +50,7 @@ GỬI ĐẾN ĐỘC GIẢ SÁNG SUỐT.
 
 GỬI ĐẾN ĐỘC GIẢ SÁNG SUỐT.
 
-PHẦN II - Lời Tựa
+PHẦN II - LỜI TỰA
 
 Thưa độc giả,
 
@@ -5598,16 +5605,5 @@ Thứ ba, hãy cân nhắc nghiêm túc điều này, như đã thường đư�
 Cuối cùng, điều này há chẳng chu cấp thêm cho sự an ủi đầy đủ của một tín hữu sao? Há những sự cám dỗ của một người tin kính chỉ về hình phạt của Luật Pháp, ai sẽ thỏa mãn nó, mà không về nghĩa vụ tinh sạch và thánh khiết của Luật Pháp, ai sẽ đáp ứng nó sao? Chúng ta hãy e sợ lấy đi dù chỉ chút ít, hoặc khỏi vinh hiển của Christ, hoặc khỏi sự an ủi của tín hữu.
 
 HẾT.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- justification = "sự xưng công chính" trong văn xuôi; "xưng công bình" chỉ giữ nguyên trong các trích dẫn Kinh Thánh nguyên văn theo lối 1934 (được đối chiếu từng ngữ cảnh, không ép thuật ngữ hướng dẫn vào câu trích) và trong hai chỗ văn xuôi trích dẫn trực tiếp câu Kinh Thánh đang được giảng giải: mệnh đề Rô-ma 3:20 ("không một xác thịt nào được xưng công bình") và cụm finis cui của Rô-ma 3:26 ("Đấng xưng công bình kẻ tin").
-- "Jesus Christ" = "Chúa Giê-xu Christ"; "Christ" đứng một mình trong nguyên văn được dịch "Chúa Christ" (18 lần); "Đức Chúa Jêsus" chỉ xuất hiện bên trong các câu trích nguyên văn 1934.
-- gospel = "Phúc Âm" (không dùng "Tin Lành" cho gospel); "Tin Lành" chỉ dùng cho "Protestants/người Tin Lành".
-- "Papists"/"Popery"/"Church of Rome" được dịch "người theo Giáo Hội La Mã"/"người Thiên Chúa giáo"/"Giáo Hội La Mã" (các dạng cho phép của "Thiên Chúa giáo", chỉ tên riêng Giáo Hội La Mã).
-- baptism = "báp-têm"; sacraments = "nghi thức thánh"; atonement = "sự chuộc tội"; satisfaction = "sự đền tội".
-- Các cụm tiếng La-tinh được giữ nguyên văn kèm chú thích tiếng Việt trong ngoặc đơn; tiếng Hy Lạp/Hê-bơ-rơ giữ nguyên như bản in, chỗ mờ được giữ nguyên văn kèm [NEEDS REVIEW].
-- LOẠI TRỪ (đều được ghi rõ): bìa sách, trang tiêu đề, khối bản quyền Monergism (gồm ghi chú của người biên tập Project Puritas — không phải của Burgess), mục lục điều hướng "Contents", mục lục 30 LECTURE của Phần I và 45 SERMON của Phần II (tất cả tiêu đề chương đều xuất hiện trong thân bài), và dấu "FINIS." cuối sách (được thể hiện bằng "HẾT.").
-- "FINIS." giữa sách (cuối Phần I, trước SERMON I) được dịch "HẾT." tại vị trí gốc.
-- Ba lời tựa đều do chính Anthony Burgess ký tên nên được dịch đầy đủ: thư đề tặng gửi Bá tước Manchester ("TO THE RIGHT HONORABLE"), "TO THE CHRISTIAN READER", và "TO THE JUDICIOUS READER" (lời tựa Phần II).
-- Bản in có lỗi chữ đầu trang (drop cap) bị tách thành đoạn riêng ("R"+"OM.", "M"+"ATTH."...) — đã ghép lại khi dịch; bốn chỗ ghép được thực hiện trước khi chia chunk: "E"+"dward"="Edward", "C"+"hristian"="Christian", "R"+"eader,"="Reader,", "R"+"OM."="ROM.".
-- Nguồn: EPUB Monergism (2024), bản văn tiếng Anh được "cập nhật từ EEBO-TCP bởi Project Puritas, Monergism hiệu đính thêm" theo khối bản quyền của ấn bản (ấn bản này không có ghi chú AI transcription/machine translation).
+
+Mở trong trình đọc Về thư viện

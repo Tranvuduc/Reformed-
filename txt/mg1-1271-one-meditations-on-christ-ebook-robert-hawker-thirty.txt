@@ -1,5 +1,12 @@
 BA MƯƠI MỐT BÀI SUY GẪM VỀ ĐẤNG CHRIST
-Robert Hawker
+
+Robert Hawker · one Meditations on Christ (eBook) | Robert Hawker
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+BA MƯƠI MỐT BÀI SUY GẪM VỀ ĐẤNG CHRIST Robert Hawker
 
 [H] 1. "Một Người Sa-ma-ri… Đã Động Lòng Thương Xót Người"
 
@@ -615,12 +622,4 @@ thief in the candle – khuyết điểm trong tim nến.
 
 taper – cây nến sáp nhỏ.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Tiêu đề trong danh sách MG-2 ghi "one Meditations on Christ (eBook) | Robert Hawker", trường tác giả "Thirty" — bị cắt/trích sai khi soạn danh sách (giống lỗi ở mục #284). Trang tựa sách và siêu dữ liệu EPUB (dc:title/dc:creator) xác nhận tên thật: "Thirty-one Meditations on Christ" của Robert Hawker. Tiêu đề Việt dịch từ tên thật của sách.
-- Kiểm tra trùng lặp với mục #284 ("Thirty-One Meditations on the Gospel", file mg1-852): ĐÂY LÀ TÁC PHẨM KHÁC, không phải cùng một bộ 31 bài. #284 bắt đầu bằng Rô-ma 10:8-10, 1 Giăng 1:7, 1 Ti-mô-thê 3:16…; cuốn nầy bắt đầu bằng Lu-ca 10:33 (Người Sa-ma-ri), Nhã ca 7:10, Ha-ba-cúc 3:13… Mục lục hai cuốn không trùng nhau, nên đã dịch toàn bộ cuốn nầy. Riêng bài 9 của cuốn nầy và bài 14 của #284 cùng suy gẫm Ga-la-ti 2:20 nhưng là hai văn bản khác nhau (bản trong cuốn nầy ngắn hơn) — đã dịch theo đúng văn bản của cuốn nầy.
-- Đã loại trừ (không dịch): khối tựa P0000–P0001 (gộp vào dòng tiêu đề), Mục lục điều hướng P0002–P0034 (31 tựa chương đều có trong nội dung), và khối "Chapel Library Resources" P0233–P0245 (quảng cáo, thông tin liên lạc và thông tin xuất bản của nhà xuất bản Chapel Library). Khối bị loại trừ P0243 cho biết nguồn gốc văn bản: trích từ "The Poor Man's Morning and Evening Portions", sách tĩnh nguyện 365 ngày của Hawker (bản văn gốc thuộc phạm vi công cộng, các trích dẫn Kinh Thánh theo bản King James, ấn bản Chapel Library đã hiện đại hóa dấu câu và đổi đại từ/thì động từ cổ sang dạng hiện đại).
-- Phần "Ghi chú" (P0246–P0323): chú giải của nhà xuất bản Chapel Library (giải thích từ cổ/từ khó), không phải văn bản của Hawker — đã dịch toàn bộ, đặt cuối bản dịch, đánh dấu "[H] Ghi chú".
-- Các số chú thích trên dòng trong văn bản (1–77) giữ nguyên như bản in, ứng với mục tương ứng trong phần Ghi chú.
-- Lỗi in trong nguồn: bài 19 trích câu "đến để tìm và cứu kẻ bị mất" với xuất xứ in là Lu-ca 19:6 (câu trích thật ra ở Lu-ca 19:10) — đã giữ nguyên xuất xứ như bản in để trung thực với nguồn, ghi nhận tại đây.
-- Quy ước trích Kinh Thánh: các câu trích được dịch theo văn phong bản 1934; trong các trích dẫn nguyên văn theo bản 1934, cách dùng từ gốc của bản 1934 (nếu có, như "xưng công bình", "Tin Lành") được giữ nguyên không ép theo bảng thuật ngữ — phần thân bài ngoài trích dẫn tuân thủ nghiêm bảng thuật ngữ của đợt dịch.
+Mở trong trình đọc Về thư viện
