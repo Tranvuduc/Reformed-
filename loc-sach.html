@@ -4,7 +4,7 @@
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <script>try{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
 <style>:root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--card:#fffdf7;--line:#e3d3b6}@media (prefers-color-scheme:dark){:root{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--card:#241f17;--line:#3a3325}}html[data-theme=dark]{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--card:#241f17;--line:#3a3325}html[data-theme=light]{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--card:#fffdf7;--line:#e3d3b6}</style>
-<link rel="stylesheet" href="/s.css?v=20261106">
+<link rel="stylesheet" href="/s.css?v=20261105">
 <style>
 .ls-wrap{max-width:960px;margin:0 auto;padding:0 14px}
 .ls-filters{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:14px 0}
@@ -14,16 +14,16 @@
 .ls-chip{border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:999px;padding:6px 12px;font-size:.88rem;cursor:pointer}
 .ls-chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:#fff}
 .ls-count{color:var(--mut);font-size:.9rem;margin:12px 0 8px}
-.ls-list{display:grid;gap:8px}
-.ls-row{display:block;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;text-decoration:none;color:var(--fg)}
-.ls-t{font-weight:600}
+.ls-list{display:grid;grid-template-columns:minmax(0,1fr);gap:8px}
+.ls-row{display:block;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;text-decoration:none;color:var(--fg)}
+.ls-t{font-weight:600;overflow-wrap:break-word}
 .ls-a{font-size:.85rem;color:var(--mut)}
 .ls-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
 .ls-tag{font-size:.75rem;border:1px solid var(--line);border-radius:999px;padding:2px 8px;color:var(--mut)}
 .ls-more{display:block;width:100%;margin:14px 0;padding:12px;border:1px solid var(--acc);background:transparent;color:var(--acc);border-radius:10px;font-size:1rem;cursor:pointer}
 .ls-empty{color:var(--mut);padding:24px 0;text-align:center}
 </style></head><body><main>
-<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/bat-dau.html">Bắt đầu</a> · <a href="/loc-sach.html" aria-current="page">Lọc sách</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
+<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · <a href="/bat-dau.html">Bắt đầu</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/bai-viet/">Bài viết</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
 <div class="ls-wrap">
 <h1>Lọc sách</h1>
 <p class="ls-count" id="ls-status">Đang tải danh sách sách…</p>
@@ -40,7 +40,7 @@
 <button class="ls-more" id="ls-more" type="button" hidden>Xem thêm</button>
 <p class="ls-empty" id="ls-empty" hidden>Không tìm thấy sách nào phù hợp. Thử nới rộng điều kiện lọc.</p>
 </div>
-<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · Liên hệ: reformedvn@gmail.com</footer>
+<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</footer>
 </main>
 <script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script>
 <script>(function(){

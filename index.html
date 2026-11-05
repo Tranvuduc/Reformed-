@@ -129,7 +129,7 @@ html[data-theme="dark"] .rv-tchip[aria-pressed="true"]{color:var(--accent-fg)}
 <div class="wrap">
 <nav class="nav">
   <a class="brand" href="/"><i></i>Reformed <b>Vietnam</b></a>
-  <nav class="links" id="nl" aria-label="Main"></nav>
+  <nav class="links" id="nl" aria-label="Main"><a href="/tac-gia.html">Tác giả</a><a href="/tieng-viet.html">Tiếng Việt</a><a href="/sach-noi.html">Sách nói</a><a href="/bat-dau.html">Bắt đầu</a><a href="/lo-trinh.html">Lộ trình đọc</a><a href="/khoa-hoc.html">Học trực tuyến</a><a href="/bai-viet/">Bài viết</a></nav>
   <!-- TẠM ẨN 2026-11-04: language switcher --><button class="btn" id="lang" type="button" aria-label="Language" style="display:none"></button>
   <button class="btn" id="theme" type="button" aria-label="Dark mode" title="Dark mode"></button>
   <details class="menu"><summary class="btn" id="menu" aria-label="Menu">⋯</summary><div class="pop"><button class="btn" id="menuClose" type="button">✕ Đóng</button>
@@ -177,7 +177,7 @@ html[data-theme="dark"] .rv-tchip[aria-pressed="true"]{color:var(--accent-fg)}
 <div class="footgrid"><div><b>Thư viện</b><a href="/">Trang chính</a><a href="tieng-viet.html">Sách tiếng Việt</a><a href="suu-tap/">Bộ sưu tập</a><a href="tac-gia.html">Tác giả</a></div><div><b>Nguồn</b><a href="https://www.ccel.org/" target="_blank" rel="noopener">CCEL ↗</a><a href="https://www.gutenberg.org/" target="_blank" rel="noopener">Project Gutenberg ↗</a><a href="https://librivox.org/" target="_blank" rel="noopener">LibriVox ↗</a><a href="https://archive.org/" target="_blank" rel="noopener">Internet Archive ↗</a></div><div><b>Theo dõi</b><a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube @reformedvietnam ↗</a><a href="nhan-bai.html">Nhận bài qua email</a><a href="feed.xml">RSS</a></div></div>
 <p class="foot" id="footcounts"></p>
 <p class="foot" id="foot"></p>
-<p class="foot mini"><a href="/about.html" data-i="about">Giới thiệu</a> · <a href="/ban-dich/" data-i="bandich">Bản dịch &amp; sách mới</a> · <a href="/nhan-bai.html" data-i="nhanbai">Nhận bài qua email</a></p>
+<p class="foot mini">Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</p>
 <p class="foot mini">Khám phá thêm: <a href="/moi-tin-chua.html">Mới tin Chúa</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/doi-song-viet-nam.html">Đời sống</a> · <a href="/nhom-nho.html">Nhóm nhỏ</a></p>
 <p class="foot mini">Các liên kết Kindle là liên kết tiếp thị Amazon — chúng tôi có thể nhận hoa hồng nhỏ khi bạn mua. Điều này không làm tăng giá của bạn.</p>
 <p class="foot mini">Báo vi phạm bản quyền / yêu cầu gỡ sách: <a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></p>
@@ -361,15 +361,17 @@ if("IntersectionObserver" in window){
 </script>
 <script defer src="/_vercel/insights/script.js"></script>
 <script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script><script>var _ip;addEventListener("beforeinstallprompt",function(e){e.preventDefault();_ip=e;var a=document.getElementById("inst");if(a)a.hidden=false});document.addEventListener("click",function(e){if(e.target.id==="inst"&&_ip){_ip.prompt();_ip=null;e.target.hidden=true}})</script><script>
-/* Review fixes 2026-11-04: 5-item main nav + "Sách mới cập nhật" footer label (app.js owns #nl via renderTiles and data-i labels; this enforces the approved set after it runs) */
+/* 2026-11-05 (Batch D): #nl is now static canonical 7-link nav in the markup above.
+   This script only re-asserts the identical set: app.js renderTiles() overwrites
+   #nl on every home render, so without this guard the static links would be
+   replaced by its 5-item journey set. (The old "Sách mới cập nhật" footer-label
+   block is gone: that link now lives in the shared footer line above.) */
 (function(){
-var NAV=[["index.html","Trang chính","Home"],["tieng-viet.html","Sách","Books"],["sach-noi.html","Sách nói","Audiobooks"],["bat-dau.html","Bắt đầu","Start here"],["cong-cu-hoc.html","Học","Study"]];
+var NAV=[["/tac-gia.html","Tác giả","Authors"],["/tieng-viet.html","Tiếng Việt","Vietnamese"],["/sach-noi.html","Sách nói","Audiobooks"],["/bat-dau.html","Bắt đầu","Start here"],["/lo-trinh.html","Lộ trình đọc","Reading path"],["/khoa-hoc.html","Học trực tuyến","Online study"],["/bai-viet/","Bài viết","Articles"]];
 function lang(){return 0/* TẠM ẨN 2026-11-04: English hidden - Vietnamese only */}
 function apply(){
   var nl=document.getElementById("nl");
   if(nl){var i=lang(),h=NAV.map(function(m){return '<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");if(nl.innerHTML!==h)nl.innerHTML=h;}
-  var b=document.querySelector('a[data-i="bandich"]');
-  if(b){var t=lang()?"New books":"Sách mới cập nhật";if(b.textContent!==t)b.textContent=t;}
 }
 var t=null;function sched(){clearTimeout(t);t=setTimeout(apply,120)}
 apply();
