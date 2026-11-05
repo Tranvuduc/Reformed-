@@ -1,19 +1,26 @@
 GIAO ƯỚC ÂN ĐIỂN
-Charles Hodge
 
-Phần I: Kế Hoạch Cứu Rỗi Là Một Giao Ước
+Charles Hodge · The Covenant of Grace (Reformed Theology eBook)
 
-Phần II: Những Quan Điểm Khác Nhau Về Bản Chất Của Giao Ước Này
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
-Phần III: Các Bên Tham Gia Giao Ước
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-Phần IV: Giao Ước Cứu Chuộc
+GIAO ƯỚC ÂN ĐIỂN Charles Hodge
 
-Phần V: Giao Ước Ân Điển
+PHẦN I: KẾ HOẠCH CỨU RỖI LÀ MỘT GIAO ƯỚC
 
-Phần VI: Tính Đồng Nhất Của Giao Ước Ân Điển Dưới Mọi Thời Kỳ
+PHẦN II: NHỮNG QUAN ĐIỂM KHÁC NHAU VỀ BẢN CHẤT CỦA GIAO ƯỚC NÀY
 
-Phần VII: Các Thời Kỳ Khác Nhau
+PHẦN III: CÁC BÊN THAM GIA GIAO ƯỚC
+
+PHẦN IV: GIAO ƯỚC CỨU CHUỘC
+
+PHẦN V: GIAO ƯỚC ÂN ĐIỂN
+
+PHẦN VI: TÍNH ĐỒNG NHẤT CỦA GIAO ƯỚC ÂN ĐIỂN DƯỚI MỌI THỜI KỲ
+
+PHẦN VII: CÁC THỜI KỲ KHÁC NHAU
 
 Kế hoạch cứu rỗi được trình bày dưới hình thức một giao ước. Điều này là hiển nhiên, —
 
@@ -125,9 +132,4 @@ Thời Kỳ Phúc Âm
 
 Thời kỳ Phúc Âm được gọi là mới đối chiếu với nền quản trị Môi-se, vốn là cũ, và sắp biến mất. Nó được phân biệt với nền quản trị cũ,
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Không có vấn đề thuật ngữ tồn đọng: áp dụng thống nhất bảng thuật ngữ bắt buộc (justification = sự xưng công chính; grace = ân điển; gospel = Phúc Âm; covenant = giao ước; baptism = báp-têm/lễ báp-têm; sacrament = nghi thức thánh). Các thuật ngữ bị cấm ("sự xưng công bình", "ân sủng", "tin mừng", "Thiên Chúa", "bí tích", "rửa tội") không xuất hiện trong thân bài.
-- Ghi chú nguồn: văn bản EPUB của Monergism kết thúc giữa chừng dưới tiểu đề "Thời Kỳ Phúc Âm" (câu cuối chấm dứt bằng dấu phẩy trong chính bản nguồn); bản dịch giữ nguyên trạng thái đó, không thêm phần tiếp nối.
-- Phần loại trừ: trang bản quyền/boilerplate của Monergism Books ở cuối EPUB đã bị cắt theo quy tắc chỉ dịch tác phẩm thật; không có nội dung nào khác bị loại bỏ.
-- Các trích dẫn Kinh Thánh được trình bày theo văn phong bản Kinh Thánh tiếng Việt 1934 (phong cách, không đối chiếu từng ký tự).
+Mở trong trình đọc Về thư viện

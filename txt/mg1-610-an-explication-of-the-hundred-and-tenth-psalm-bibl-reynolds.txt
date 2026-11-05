@@ -1,5 +1,12 @@
 GIẢI NGHĨA VỀ THI THIÊN THỨ MỘT TRĂM MƯỜI
-Edward Reynolds
+
+Edward Reynolds · An Explication of the Hundred and Tenth Psalm (Bible Commentary eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+GIẢI NGHĨA VỀ THI THIÊN THỨ MỘT TRĂM MƯỜI Edward Reynolds
 
 GIẢI NGHĨA VỀ
 
@@ -2083,16 +2090,4 @@ Cuối cùng, sự sống lại của Đấng Christ lôi kéo tư tưởng và 
 
 Kết luận, chúng ta hãy dâng mọi sự tôn trọng, vinh hiển, uy nghi, và tạ ơn đời đời cho Đức Chúa Cha, Đức Chúa Con, và Đức Thánh Linh, ba thân vị, và một Đức Chúa Trời. A-men.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Source: EPUB "An Explication of Psalm110 - Edward Reynolds" (Monergism Books, July 2023) from https://www.monergism.com/explication-hundred-and-tenth-psalm-ebook; clean EPUB text, no OCR.
-- Full work translated: original title block, dedicatory epistle to Thomas, Lord Coventry, "To the Reader," and the seven-part exposition through Psalm 110:1-7, ending on the work's true final sentence (the closing doxology). Excluded per the true-work-only rule: the Monergism copyright/legal page and the navigational table of contents at the end of the eBook.
-- Mandatory terminology applied: justification = sự xưng công chính; grace = ân điển; gospel = Phúc Âm; God = Đức Chúa Trời; faith = đức tin; repentance = sự ăn năn; sin = tội lỗi; holiness = sự thánh khiết; sanctification = sự nên thánh; covenant = giao ước; atonement = sự chuộc tội; predestination = sự tiền định; election = sự lựa chọn; sovereignty = chủ quyền tể trị; providence = sự quan phòng; church = Hội Thánh; Scripture = Kinh Thánh; inspiration (of Scripture) = sự thần cảm. None of the banned terms (sự xưng công bình, ân sủng, tin mừng, Thiên Chúa, bí tích, rửa tội, hà linh) appears in the translator's own wording.
-- Scripture quotations in 1934 Vietnamese Bible style (wording of that era's translation, not character-verified). Verbatim 1934 quotations keep the 1934 wording where the quote is literal, e.g. "xưng công bình" in 1 Ti-mô-thê 3:16 and "Đức Chúa Trời là Đấng xưng công-bình" in Rô-ma 8:33-34; the translator's own wording uses "sự xưng công chính".
-- [NEEDS REVIEW: bản gốc dùng "Eluctation" — từ không rõ nghĩa, có thể là lỗi in — giữ nguyên không đoán] (chunk 00, P30).
-- [NEEDS REVIEW: bản gốc ghi trích dẫn "(Job. 2.22, 23)" nhưng nội dung rõ ràng là Giăng 5:22-23 — có lẽ lỗi in; bản dịch theo nội dung là Giăng 5:22-23] (chunk 00, P61).
-- [NEEDS REVIEW: bản gốc viết Giê-rê-mi "đã thành tâm đồng tình với các tiên tri giả" — mâu thuẫn với chức vụ của Giê-rê-mi, có lẽ lỗi in; bản dịch giữ nguyên văn] (chunk 06, P6).
-- [NEEDS REVIEW: bản gốc ghi "'I am 1:2, 3'" trong liệt kê trích dẫn — chữ viết tắt không rõ, có lẽ là Gia-cơ (Jam.) 1:2-3 — giữ nguyên không đoán] (chunk 18).
-- Các trích dẫn Kinh Thánh bị ghi sai trong bản gốc thế kỷ 17 (ví dụ "(Numbers 23:11)", "(1 Corinthians 4:5)" cho nội dung của 1 Cô-rinh-tô 2:5, "Ê-sai 61:6") được giữ nguyên như in, không tự ý sửa.
-- "Romanists"/"papists" rendered "những người theo Rô-ma"/"những người theo Giáo hoàng"; Latin phrases kept in Latin with Vietnamese glosses.
+Mở trong trình đọc Về thư viện

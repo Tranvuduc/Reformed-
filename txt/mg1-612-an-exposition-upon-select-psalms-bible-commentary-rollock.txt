@@ -1,5 +1,12 @@
 MỘT BÀI GIẢI NGHĨA CÁC THI THIÊN ĐƯỢC CHỌN
-Robert Rollock
+
+Robert Rollock · An Exposition Upon Select Psalms
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+MỘT BÀI GIẢI NGHĨA CÁC THI THIÊN ĐƯỢC CHỌN Robert Rollock
 
 Một Bài Giải Nghĩa Các Thi Thiên Được Chọn
 
@@ -7,54 +14,39 @@ Robert Rollock
 
 MỤC LỤC
 
-LỜI NÓI ĐẦU. Kính gửi Bậc Tôn Quý.
+LỜI NÓI ĐẦU. KÍNH GỬI BẬC TÔN QUÝ.
 
-1.
-BÀI GIẢNG I. Về Thi Thiên 3.
+1. BÀI GIẢNG I. Về Thi Thiên 3.
 
-2.
-BÀI GIẢNG II. Về Thi Thiên 6.
+2. BÀI GIẢNG II. Về Thi Thiên 6.
 
-3.
-BÀI GIẢNG III. Về Thi Thiên 16.
+3. BÀI GIẢNG III. Về Thi Thiên 16.
 
-4.
-BÀI GIẢNG IV. Về Thi Thiên 23.
+4. BÀI GIẢNG IV. Về Thi Thiên 23.
 
-5.
-BÀI GIẢNG V. Về Thi Thiên 32.
+5. BÀI GIẢNG V. Về Thi Thiên 32.
 
-6.
-BÀI GIẢNG VI. Về Thi Thiên 39.
+6. BÀI GIẢNG VI. Về Thi Thiên 39.
 
-7.
-BÀI GIẢNG VII. Về Thi Thiên 42.
+7. BÀI GIẢNG VII. Về Thi Thiên 42.
 
-8.
-BÀI GIẢNG VIII. Về Thi Thiên 49.
+8. BÀI GIẢNG VIII. Về Thi Thiên 49.
 
-9.
-BÀI GIẢNG IX. Về Thi Thiên 51.
+9. BÀI GIẢNG IX. Về Thi Thiên 51.
 
-10.
-BÀI GIẢNG X. Về Thi Thiên 62.
+10. BÀI GIẢNG X. Về Thi Thiên 62.
 
-11.
-BÀI GIẢNG XI. Về Thi Thiên 65.
+11. BÀI GIẢNG XI. Về Thi Thiên 65.
 
-12.
-BÀI GIẢNG XII. Về Thi Thiên 84.
+12. BÀI GIẢNG XII. Về Thi Thiên 84.
 
-13.
-BÀI GIẢNG XIII. Về Thi Thiên 116.
+13. BÀI GIẢNG XIII. Về Thi Thiên 116.
 
-14.
-BÀI GIẢNG XIV. Về Thi Thiên 130.
+14. BÀI GIẢNG XIV. Về Thi Thiên 130.
 
-15.
-BÀI GIẢNG XV. Về Thi Thiên 137.
+15. BÀI GIẢNG XV. Về Thi Thiên 137.
 
-LỜI NÓI ĐẦU. Kính gửi Bậc Tôn Quý.
+LỜI NÓI ĐẦU. KÍNH GỬI BẬC TÔN QUÝ.
 
 Kính gửi Bậc Tôn Quý, Quý Bà nghiêm trang và tin kính, Lilias Gilbert, vợ của ông John Prestoun, of Fentoun-Barns; một trong các Nghị viên của College of Justice, và Tổng Thu Ngân của Scotland. C.L. kính chúc ân điển, lòng thương xót, và sự bình an đời đời, vượt quá mọi sự hiểu biết, từ Đức Chúa Trời là Cha của Chúa Giê-xu Christ chúng ta, đời đời. Amen.
 
@@ -1486,7 +1478,6 @@ Khải Huyền 11:13,14.
 
 Rồi tôi nghe một tiếng từ trời, phán với tôi rằng, Hãy viết, Phước thay cho những kẻ chết, là những kẻ từ nay chết trong Chúa, Phải, Đức Thánh Linh phán vậy, vì họ nghỉ ngơi khỏi công lao của mình, và việc làm của họ theo sau họ.
 
-HẾT.
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách; văn bản được dịch như được cung cấp, gồm mười lăm bài giảng về các Thi Thiên 3, 6, 16, 23, 32, 39, 42, 49, 51, 62, 65, 84, 116, 130, 137, theo thứ tự, kết thúc bằng khối "HẾT.". Số câu trong các bài giảng giữ nguyên như in: tác giả tính cả dòng tựa đề của thi thiên vào số câu, nên số câu của ông thường lệch một hoặc hai so với cách đánh số hiện đại; các trích dẫn sai số câu hoặc sai tên sách cũng được giữ nguyên như in, không sửa theo Kinh Thánh hiện đại. Sáu đoạn được giữ nguyên kèm dấu lưu ý vì bản nguồn bị hỏng hoặc khó hiểu tại chỗ: một từ bị hỏng trong bài giảng I, một cụm khó hiểu về lương tâm trong bài giảng V, một cụm vô nghĩa trong câu Thi Thiên 49, một từ không rõ trong cụm đá và vật gì đó trong bài giảng X, một mảnh bị hỏng trong phần mở đầu của Thi Thiên 116, và một hình ảnh tường khó hiểu trong bài giảng XIV.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+HẾT. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách; văn bản được dịch như được cung cấp, gồm mười lăm bài giảng về các Thi Thiên 3, 6, 16, 23, 32, 39, 42, 49, 51, 62, 65, 84, 116, 130, 137, theo thứ tự, kết thúc bằng khối "HẾT.". Số câu trong các bài giảng giữ nguyên như in: tác giả tính cả dòng tựa đề của thi thiên vào số câu, nên số câu của ông thường lệch một hoặc hai so với cách đánh số hiện đại; các trích dẫn sai số câu hoặc sai tên sách cũng được giữ nguyên như in, không sửa theo Kinh Thánh hiện đại. Sáu đoạn được giữ nguyên kèm dấu lưu ý vì bản nguồn bị hỏng hoặc khó hiểu tại chỗ: một từ bị hỏng trong bài giảng I, một cụm khó hiểu về lương tâm trong bài giảng V, một cụm vô nghĩa trong câu Thi Thiên 49, một từ không rõ trong cụm đá và vật gì đó trong bài giảng X, một mảnh bị hỏng trong phần mở đầu của Thi Thiên 116, và một hình ảnh tường khó hiểu trong bài giảng XIV.
+
+Mở trong trình đọc Về thư viện

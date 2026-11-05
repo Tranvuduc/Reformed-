@@ -1,6 +1,12 @@
 DƯỚI CHÂN THẬP TỰ GIÁ!
-George Everard
 
+George Everard · Beneath the Cross!
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+DƯỚI CHÂN THẬP TỰ GIÁ! George Everard
 
 Dưới Chân Thập Tự Giá!
 
@@ -1332,11 +1338,4 @@ Theo một nghĩa, bạn biết rằng ngay bây giờ bạn luôn có Ngài ở
 
 Và rồi, khi thời gian chờ đợi đã qua, Vua sẽ đến trong vẻ đẹp Ngài — và nàng dâu Ngài sẽ chia sẻ vinh quang Ngài! "Khi ta đã đi, và đã sắm sẵn cho các ngươi một chỗ rồi, ta sẽ trở lại đem các ngươi đi với ta, hầu cho ta ở đâu thì các ngươi cũng ở đó."
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Full mandated MG-2 terminology table applied throughout (ân điển, sự xưng công chính, Phúc Âm, Đức Chúa Trời, đức tin, sự ăn năn, sự thánh khiết, sự nên thánh, giao ước, sự chuộc tội, sự tiền định, sự lựa chọn, sự quan phòng, Hội Thánh, Kinh Thánh; "inspiration" → sự thần cảm).
-- Scripture quotations in 1934 Vietnamese Bible style, not character-verified against the 1934 text.
-- "sacrament" → "nghi thức thánh"; baptism → "lễ báp-têm"; the banned terms "sự xưng công bình", "ân sủng", "tin mừng", "Thiên Chúa", "bí tích", "rửa tội" do not appear in the translator's wording.
-- Source typos translated for obvious meaning without flags: "and toe must be awake" → "chúng ta"; "hold out to mo the scepter" → "giơ ra cho con vương trượng".
-- Exclusions per true-work-only rule: the EPUB's navigational Table of Contents, the Monergism Books copyright/legal boilerplate, and the end-of-file "MONERGISM BOOKS" credit block (disclosed here). 0 NEEDS REVIEW flags.
-- Source: Monergism EPUB (clean text, no OCR), https://www.monergism.com/beneath-cross-ebook.
+Mở trong trình đọc Về thư viện

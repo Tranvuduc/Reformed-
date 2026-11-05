@@ -1,5 +1,12 @@
 SỰ KÊU GỌI HIỆU QUẢ: MỘT LUẬN VĂN CẢI CHÁNH VỀ ÂN ĐIỂN VÀ SỰ HOÁN CẢI
-Francis Turretin
+
+Francis Turretin · Effectual Calling: A Reformed Treatise on Grace and Conversion (Reformed Theology eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+SỰ KÊU GỌI HIỆU QUẢ: MỘT LUẬN VĂN CẢI CHÁNH VỀ ÂN ĐIỂN VÀ SỰ HOÁN CẢI Francis Turretin
 
 Sự Kêu Gọi Hiệu Quả
 
@@ -1311,12 +1318,4 @@ XXXV.
 
 Tính không thể kháng cự của ân điển không thể làm nảy sinh sự bất cẩn, hay sự lười biếng thuộc linh, hay sự khinh thường những phương tiện của ân điển. Vì hành động không thể kháng cự của Đức Chúa Trời trên linh hồn, dù là trực tiếp, không loại trừ, mà đúng hơn giả định, việc sử dụng những phương tiện bề ngoài, bởi đó Ngài chọn thực hiện công việc này.
 
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Toàn văn dịch từ bản Anh văn của Monergism (bản dịch từ nguyên bản La-tinh "Institutio Theologiae Elencticae" của Francis Turretin, Locus XV: De Vocatione); các trích dẫn Kinh Thánh rendered theo văn phong Kinh Thánh tiếng Việt 1934 (phong cách, không đối chiếu từng chữ).
-- Đã cắt bỏ theo quy tắc "chỉ dịch tác phẩm thật": dòng siêu dữ liệu của ấn bản "AI Translation from Latin", mục "Copyright & Translation Statement" trong mục lục, và toàn bộ phần tuyên bố bản quyền/giấy phép của Monergism ở cuối sách.
-- Ấn bản nguồn có lỗi lặp đoạn: các mục XVIII–XIX của Câu Hỏi II xuất hiện lại gần như nguyên văn trong Câu Hỏi III (mục XVIII–XIX), và các mục XXVIII–XXIX của Câu Hỏi IV bị lặp lại nguyên văn ngay sau đó. Cả hai chỗ đều được dịch theo đúng nguyên văn như in, không cắt bỏ.
-- Đánh số mục theo đúng nguyên bản, kể cả những chỗ nhảy số (Câu Hỏi IV: sau XLIII đến XLVI; Câu Hỏi VI: sau VIII đến X, sau XV đến XVII) và một chỗ đánh số trùng (hai mục "VIII" liên tiếp trong Câu Hỏi III).
-- [NEEDS REVIEW] trong bản văn: một trích dẫn "2 Tim. 2:1" tại Câu Hỏi II, mục III, có lẽ phải là 2 Ti-mô-thê 2:19; một trích dẫn "Eccl. 15:14" tại Câu Hỏi VI, mục XXI, thuộc sách Huấn Ca (Ecclesiasticus), không thuộc Kinh Thánh Tin Lành. Cả hai đều giữ nguyên như in kèm ghi chú.
+Mở trong trình đọc Về thư viện

@@ -1,5 +1,12 @@
 KHẢO SÁT VỀ TỔNG LUẬN CỦA KỶ LUẬT HỘI THÁNH
-Thomas Hooker
+
+Thomas Hooker · A Survey of the Summe of Church-Discipline
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+KHẢO SÁT VỀ TỔNG LUẬN CỦA KỶ LUẬT HỘI THÁNH Thomas Hooker
 
 MỘT
 
@@ -31,22 +38,17 @@ chống lại nó bởi nhiều nhà thần học uyên bác, tức là,
 
 4. Tác giả của Vindiciae Clavium, [Keys of the Claim, or Verdict]
 
-đều được trả lời đầy đủ.
-Nhờ đó, độc giả sáng suốt sẽ thấy rằng cần phải nói thêm điều gì đó hơn những gì đã được nói,
-trước khi các nguyên tắc của họ có thể bị lay chuyển, hoặc họ có thể bị lung lay trong thực hành của mình.
+đều được trả lời đầy đủ. Nhờ đó, độc giả sáng suốt sẽ thấy rằng cần phải nói thêm điều gì đó hơn những gì đã được nói, trước khi các nguyên tắc của họ có thể bị lay chuyển, hoặc họ có thể bị lung lay trong thực hành của mình.
 
 Trong hai Quyển.
 
-Quyển thứ nhất của Ông Thomas Hooker, nguyên mục sư của
-Hội Thánh tại Hartford trên sông Connecticut tại New England.
+Quyển thứ nhất của Ông Thomas Hooker, nguyên mục sư của Hội Thánh tại Hartford trên sông Connecticut tại New England.
 
-Quyển thứ hai của Ông John Cotton, hiện là Giáo Sư của
-Hội Thánh tại Boston tại New England.
+Quyển thứ hai của Ông John Cotton, hiện là Giáo Sư của Hội Thánh tại Boston tại New England.
 
 [không bao gồm]
 
-II Cô-rinh-tô 13.8
-Vì chúng ta chẳng làm nghịch cùng lẽ thật được, nhưng chỉ làm vì lẽ thật.
+II Cô-rinh-tô 13.8 Vì chúng ta chẳng làm nghịch cùng lẽ thật được, nhưng chỉ làm vì lẽ thật.
 
 LONDON
 
@@ -76,25 +78,25 @@ Các Lời Chứng Nhận
 
 Lời Nói Đầu của Biên Tập Viên
 
-PHẦN I. Chính Sách Giáo Hội
+PHẦN I. CHÍNH SÁCH GIÁO HỘI
 
-Chương 1. Chính Sách Giáo Hội Được Định Nghĩa.
+CHƯƠNG 1. CHÍNH SÁCH GIÁO HỘI ĐƯỢC ĐỊNH NGHĨA.
 
-Chương 2. Thể Chế của một Hội Thánh Hữu Hình.
+CHƯƠNG 2. THỂ CHẾ CỦA MỘT HỘI THÁNH HỮU HÌNH.
 
-Chương 3. Hội Thánh Vô Hình như là Đối Tượng của các Ấn Chứng và các Đặc Ân.
+CHƯƠNG 3. HỘI THÁNH VÔ HÌNH NHƯ LÀ ĐỐI TƯỢNG CỦA CÁC ẤN CHỨNG VÀ CÁC ĐẶC ÂN.
 
-Chương 4. Nguyên Nhân Hình Thức của một Hội Thánh Hữu Hình: Giao Ước Hội Thánh.
+CHƯƠNG 4. NGUYÊN NHÂN HÌNH THỨC CỦA MỘT HỘI THÁNH HỮU HÌNH: GIAO ƯỚC HỘI THÁNH.
 
-Chương 5. Phép Báp-têm có ban tính hình thức, hay có làm cho một người thành thành viên của một Hội Thánh hữu hình không?
+CHƯƠNG 5. PHÉP BÁP-TÊM CÓ BAN TÍNH HÌNH THỨC, HAY CÓ LÀM CHO MỘT NGƯỜI THÀNH THÀNH VIÊN CỦA MỘT HỘI THÁNH HỮU HÌNH KHÔNG?
 
-Chương 6. Sự Xưng Nhận có làm cho một người thành thành viên của một Hội Chúng không?
+CHƯƠNG 6. SỰ XƯNG NHẬN CÓ LÀM CHO MỘT NGƯỜI THÀNH THÀNH VIÊN CỦA MỘT HỘI CHÚNG KHÔNG?
 
-Chương 7. Một Lời Đáp cho các Luận Chứng được đưa ra chống lại Giao Ước Hội Thánh.
+CHƯƠNG 7. MỘT LỜI ĐÁP CHO CÁC LUẬN CHỨNG ĐƯỢC ĐƯA RA CHỐNG LẠI GIAO ƯỚC HỘI THÁNH.
 
-Chương 8. Tính Tiên Khởi của một Hội Thánh, như là một Toàn Thể Đồng Chất.
+CHƯƠNG 8. TÍNH TIÊN KHỞI CỦA MỘT HỘI THÁNH, NHƯ LÀ MỘT TOÀN THỂ ĐỒNG CHẤT.
 
-Chương 9. Bản Chất và Sự Hiện Hữu của một Hội Thánh Trưởng Lão.
+CHƯƠNG 9. BẢN CHẤT VÀ SỰ HIỆN HỮU CỦA MỘT HỘI THÁNH TRƯỞNG LÃO.
 
 Mục 1. Bản Chất của một Hội Thánh Trưởng Lão
 
@@ -106,9 +108,9 @@ Mục 4. Bản Chất của một Hội Thánh và một Classis.
 
 Mục 5. Các Hội Thánh Riêng Biệt Nhóm Họp tại Một Nơi.
 
-Chương 10. Các Lời Đáp cho các Luận Chứng của Ông R. để Xác Nhận một Hội Thánh Trưởng Lão.
+CHƯƠNG 10. CÁC LỜI ĐÁP CHO CÁC LUẬN CHỨNG CỦA ÔNG R. ĐỂ XÁC NHẬN MỘT HỘI THÁNH TRƯỞNG LÃO.
 
-Chương 11. Đối Tượng của Quyền Năng Giáo Hội – các Chìa Khóa.
+CHƯƠNG 11. ĐỐI TƯỢNG CỦA QUYỀN NĂNG GIÁO HỘI – CÁC CHÌA KHÓA.
 
 Mục I. Bản Chất của Nó.
 
@@ -120,17 +122,17 @@ Mục IV. Các Luận Chứng của Rutherford về Ai Nắm Giữ các Chìa Kh
 
 Các Mệnh Đề
 
-Chương 12. Các Chìa Khóa của Hội Thánh Hữu Hình Được Giao Phó Cho Ai.
+CHƯƠNG 12. CÁC CHÌA KHÓA CỦA HỘI THÁNH HỮU HÌNH ĐƯỢC GIAO PHÓ CHO AI.
 
 Các Luận Chứng của Rutherford
 
-Chương 13. Hội Thánh phổ quát như là một Toàn Thể Đại Diện.
+CHƯƠNG 13. HỘI THÁNH PHỔ QUÁT NHƯ LÀ MỘT TOÀN THỂ ĐẠI DIỆN.
 
-Chương 14. Hội Thánh Phổ Quát như là một Toàn Thể Toàn Vẹn.
+CHƯƠNG 14. HỘI THÁNH PHỔ QUÁT NHƯ LÀ MỘT TOÀN THỂ TOÀN VẸN.
 
 Tóm Lại
 
-Chương 15. Lời Đáp cho Ông Hudson về: Hội Thánh Hữu Hình như là một Toàn Thể Toàn Vẹn.
+CHƯƠNG 15. LỜI ĐÁP CHO ÔNG HUDSON VỀ: HỘI THÁNH HỮU HÌNH NHƯ LÀ MỘT TOÀN THỂ TOÀN VẸN.
 
 Mục 1. Các Kết Luận
 
@@ -140,7 +142,7 @@ Mục 3. Xem Xét các Bằng Chứng Kinh Thánh Được Viện Dẫn
 
 Kết Thúc
 
-Chương 16. Sự Thông Công của Hội Thánh như là một Đặc Ân Riêng Biệt dành cho các Thành Viên của một Hội Thánh.
+CHƯƠNG 16. SỰ THÔNG CÔNG CỦA HỘI THÁNH NHƯ LÀ MỘT ĐẶC ÂN RIÊNG BIỆT DÀNH CHO CÁC THÀNH VIÊN CỦA MỘT HỘI THÁNH.
 
 I. Ý Nghĩa của Sự Thông Công.
 
@@ -150,9 +152,9 @@ III. Lễ Nghi, Sự Ban Phát, và Việc Nghe Giảng về Lễ Nghi.
 
 IV. Việc Nghe Giảng về Lễ Nghi một cách Đã Định, Thường Xuyên, Đã Xưng Nhận, và Đã Quyết Tâm.
 
-PHẦN II. Hội Thánh Được Xét Như Một Thân Thể Hữu Cơ.
+PHẦN II. HỘI THÁNH ĐƯỢC XÉT NHƯ MỘT THÂN THỂ HỮU CƠ.
 
-Chương 1. Số Lượng các Chức Vụ trong Hội Thánh, và Bản Chất của Nó.
+CHƯƠNG 1. SỐ LƯỢNG CÁC CHỨC VỤ TRONG HỘI THÁNH, VÀ BẢN CHẤT CỦA NÓ.
 
 Về Trưởng Lão Cai Trị
 
@@ -170,7 +172,7 @@ Về Các Chấp Sự
 
 Các Giới Hạn của Chức Vụ Chấp Sự
 
-Chương 2. Bản Chất của Sự Phong Chức, và Quyền của Một Mục Sư trên các Hội Chúng Khác.
+CHƯƠNG 2. BẢN CHẤT CỦA SỰ PHONG CHỨC, VÀ QUYỀN CỦA MỘT MỤC SƯ TRÊN CÁC HỘI CHÚNG KHÁC.
 
 1. Sự Phong Chức có phải theo bản chất là trước Sự Bầu Chọn không.
 
@@ -180,29 +182,29 @@ Chương 2. Bản Chất của Sự Phong Chức, và Quyền của Một Mục 
 
 4. Quyền ban phát Lễ Nghi thuộc về ai.
 
-Chương 3. Ý Nghĩa Đúng Đắn của một Hội Thánh Độc Lập.
+CHƯƠNG 3. Ý NGHĨA ĐÚNG ĐẮN CỦA MỘT HỘI THÁNH ĐỘC LẬP.
 
-PHẦN III. Chính Quyền Hội Thánh
+PHẦN III. CHÍNH QUYỀN HỘI THÁNH
 
-Chương 1. Về Chính Quyền của Hội Thánh.
+CHƯƠNG 1. VỀ CHÍNH QUYỀN CỦA HỘI THÁNH.
 
-Chương 2. Về Sự Ban Phát các Thánh Lễ.
+CHƯƠNG 2. VỀ SỰ BAN PHÁT CÁC THÁNH LỄ.
 
 1. Các Bên Tham Gia các Thánh Lễ
 
 2. Cách Thức Ban Phát các Thánh Lễ
 
-Chương 3. Về Các Sự Khiển Trách và Sự Khai Trừ khỏi Hội Thánh.
+CHƯƠNG 3. VỀ CÁC SỰ KHIỂN TRÁCH VÀ SỰ KHAI TRỪ KHỎI HỘI THÁNH.
 
 Sự Khai Trừ khỏi Hội Thánh
 
-PHẦN IV. Về Các Hội Đồng.
+PHẦN IV. VỀ CÁC HỘI ĐỒNG.
 
-Chương 1. Bản Chất của một Hội Đồng và Quyền Ràng Buộc của Nó.
+CHƯƠNG 1. BẢN CHẤT CỦA MỘT HỘI ĐỒNG VÀ QUYỀN RÀNG BUỘC CỦA NÓ.
 
 Về Công Vụ 15.
 
-Chương 2. Quyền Ưu Việt Bị Cho Là Có của các Classis và các Hội Đồng trên các Hội Chúng Riêng Biệt.
+CHƯƠNG 2. QUYỀN ƯU VIỆT BỊ CHO LÀ CÓ CỦA CÁC CLASSIS VÀ CÁC HỘI ĐỒNG TRÊN CÁC HỘI CHÚNG RIÊNG BIỆT.
 
 Luận Chứng thứ 7 và thứ 9 của Ông Rutherford.
 
@@ -214,7 +216,7 @@ Luận Chứng thứ 11 của Ông Rutherford.
 
 Luận Chứng thứ 12 của Ông Rutherford.
 
-Chương 3. Một Phụ Lục cho Luận Thuyết Trước Đây Về Các Hội Đồng.
+CHƯƠNG 3. MỘT PHỤ LỤC CHO LUẬN THUYẾT TRƯỚC ĐÂY VỀ CÁC HỘI ĐỒNG.
 
 Hỏi 1. Hội Đồng là gì?
 
@@ -320,19 +322,9 @@ Ngày 25 tháng 7 năm 2020
 
 Vậy thì Hội Thánh là gì?
 
-“Một nhóm người trung tín
-Nhóm họp để thờ phượng Đức Chúa Trời trong một căn phòng khiêm tốn,
-Hoặc, được che chở khỏi kẻ thù bởi bóng đêm đầy sao lúc nửa đêm,
-Trên sườn đồi hay thung lũng vắng,
-Để nghe những lời khuyên của lời thánh của Ngài,
-Đã cam kết với nhau và với Chúa chung của mình.
+“Một nhóm người trung tín Nhóm họp để thờ phượng Đức Chúa Trời trong một căn phòng khiêm tốn, Hoặc, được che chở khỏi kẻ thù bởi bóng đêm đầy sao lúc nửa đêm, Trên sườn đồi hay thung lũng vắng, Để nghe những lời khuyên của lời thánh của Ngài, Đã cam kết với nhau và với Chúa chung của mình.
 
-Những người này, dù ít ỏi đến đâu,
-Tạo thành một Hội Thánh, như trong thời nguyên thủy
-Đã thách thức gươm của bạo chúa, cơn thịnh nộ của kẻ cuồng tín;
-Vì khi chỉ có hai hay ba người,
-Bất kể nơi nào gặp nhau trong sự thông công của đức tin,
-Nơi đó, với Đấng Christ hiện diện, là một Hội Thánh trọn vẹn.”
+Những người này, dù ít ỏi đến đâu, Tạo thành một Hội Thánh, như trong thời nguyên thủy Đã thách thức gươm của bạo chúa, cơn thịnh nộ của kẻ cuồng tín; Vì khi chỉ có hai hay ba người, Bất kể nơi nào gặp nhau trong sự thông công của đức tin, Nơi đó, với Đấng Christ hiện diện, là một Hội Thánh trọn vẹn.”
 
 — của một thi sĩ vô danh
 
@@ -536,8 +528,7 @@ Phúc lợi thuộc linh trong Ngài,
 
 THOMAS HOOKER.
 
-GỬI
-ĐỘC GIẢ
+GỬI ĐỘC GIẢ
 
 ĐẶC BIỆT
 
@@ -573,9 +564,7 @@ Người ta đã nhận xét đúng rằng các cuộc tranh luận trong tôn g
 
 Sẽ là nỗ lực của chúng tôi để, vào thời kỳ thích hợp, quý vị có thể có những công lao khác của ông ở giữa quý vị, trước mắt quý vị hằng ngày vì sự an ủi và gây dựng thêm nữa của quý vị; và như thế quý vị vẫn có thể nghe ông nói với quý vị theo cách này, là người mà giọng nói sống động của ông quý vị không còn nghe được nữa. Và chúng tôi sẽ không ngừng ngước lên Đức Chúa Trời và Cha của Chúa Giê-xu Christ chúng ta, là Cha của lòng thương xót, và Đức Chúa Trời của mọi sự an ủi, vì quý vị và vì chính chúng tôi, để chúng tôi có thể cảm nhận đúng mức cái giá đã ở trong tay chúng tôi. Nhờ đó chúng tôi có thể hạ mình cách hiệu quả dưới bất cứ sự dùng sai nào, và tận tâm theo đuổi những lợi ích còn được tiếp tục — kẻo một điều tệ hơn xảy đến cho chúng tôi, chân đèn của chúng tôi bị dời đi, và chúng tôi bị bỏ lại hoàn toàn hoang vắng trong thời gian Chúa đi khắp các Hội Thánh của Ngài, và trong giờ thử thách ấy mà ngay bây giờ đang ở trên khắp mặt đất.
 
-Các anh em của quý vị trong sự thông công của đức tin
-của Phúc Âm, và những người cùng chịu khổ sâu sắc
-với quý vị trong sự mất mát lớn lao này,
+Các anh em của quý vị trong sự thông công của đức tin của Phúc Âm, và những người cùng chịu khổ sâu sắc với quý vị trong sự mất mát lớn lao này,
 
 EDWARD HOPKINS,
 
@@ -837,9 +826,9 @@ về Tóm Lược của
 
 Kỷ Luật Hội Thánh
 
-PHẦN I. Chính Sách Hội Thánh
+PHẦN I. CHÍNH SÁCH HỘI THÁNH
 
-Chương 1. Chính Sách Hội Thánh Được Định Nghĩa.
+CHƯƠNG 1. CHÍNH SÁCH HỘI THÁNH ĐƯỢC ĐỊNH NGHĨA.
 
 Chính Sách Hội Thánh 61 là một kỹ năng sắp xếp các công việc của nhà Đấng Christ, theo khuôn mẫu của lời Ngài.
 
@@ -963,7 +952,7 @@ Phải có sự hiểu biết đúng đắn về ý nghĩa của các từ ngữ
 
 (4) Bất cứ điều gì trái với 83 chỗ đứng và chức vụ của người cai trị, là điều người ấy không được làm hay duy trì. Nhưng việc bắt buộc [đòi hỏi] bất cứ điều gì vô ích, là trái với chỗ đứng của người ấy; vì chức vụ của người ấy là cai trị vì ích lợi của họ, Rô-ma 13:4. Nhưng những điều vô ích không phải vì ích lợi của họ.
 
-Chương 2. Sự Cấu Thành của một Hội Thánh Hữu Hình.
+CHƯƠNG 2. SỰ CẤU THÀNH CỦA MỘT HỘI THÁNH HỮU HÌNH.
 
 Về các Nguyên Nhân của nó: các Nguyên Nhân Tác Thành và Nguyên Nhân Vật Chất.
 
@@ -1285,7 +1274,7 @@ Luận cứ 7. “Nếu nhiều người được đem đến và kêu gọi và
 
 Đáp. Mệnh đề thất bại. Những người là những người cải đạo theo sự phán đoán của lòng yêu thương, mà vẫn theo ý định của Đức Chúa Trời, có thể được đem vào Hội Thánh, để họ có thể được cải biến thật sự. Nhưng nếu ông muốn nói rằng Hội Thánh cố ý nhận chúng vào Hội Thánh để được cải biến, thì điều đó trái ngược với chính chủ trương của ông; và nó có nghĩa là một người có thể được nhận vào các ấn chứng của Giao Ước, mà không thông báo cho Hội Thánh rằng người ấy có đức tin. Thật vậy, Hội Thánh có thể nhận vào các ấn chứng những người mà nàng biết là không có quyền đối với các ấn chứng. Vì nàng biết chúng không phải là những chi thể vô hình, là những chi thể duy nhất, theo sự phán đoán của Ông R., ban cho chúng quyền ấy.
 
-*****
+*
 
 Khi đã dọn sạch đường lối của chúng ta như vậy, chúng ta sẽ tạm biệt trong vài lời, để suy xét và tra xét thêm một số cách diễn đạt của Ông Rutherford, tìm thấy trong chương 9, trang 99, l.i., nơi gần cuối ông có những lời này:
 
@@ -1333,7 +1322,8 @@ Nếu người ta đáp lại rằng anh em phải xét sự giảng dạy đã 
 
 (2) Ý nghĩa phải là thế này: sự giảng dạy đã được thiết lập, trong khi nó còn tồn tại trong Hội Thánh, là dấu hiệu của Hội Thánh. Nhưng điều này chẳng giúp ích gì, vì suy luận vẫn yếu ớt như trước. Vì nếu một sự giảng dạy đã được thiết lập như thế chỉ là một phụ thuộc chung hay một sự tình cờ có thể tách rời về bản chất, thì bất cứ nơi nào nó được tìm thấy, nó sẽ không bao giờ, và không bao giờ có thể là dấu hiệu thích hợp của sự vật ấy — cũng như các giác quan của một con người không phải là dấu hiệu của con người, dù chúng được tìm thấy trong con người.119
 
-Chương 3. Hội Thánh Vô Hình với tư cách là Chủ Thể
+CHƯƠNG 3. HỘI THÁNH VÔ HÌNH VỚI TƯ CÁCH LÀ CHỦ THỂ
+
 của các Ấn Chứng và các Đặc Ân.
 
 Hội Thánh Vô Hình có phải là chủ thể chính yếu, hàng đầu, và duy nhất thích hợp, mà mọi ấn chứng và đặc ân đáng chú ý đều thuộc về hay không?
@@ -1424,7 +1414,7 @@ Và họ không phải là thành viên vô hình; do đó họ không thể có
 
 Chính vì những lý do đã diễn đạt trên đây, mà tôi không thể thấy đủ sức nặng trong các lập luận của ông R. để thuyết phục sự phán đoán của tôi thỏa mãn với bằng chứng ấy.
 
-*****
+*
 
 Khi đã đạt được chừng này — rằng theo một nghĩa thật, đó là lẽ thật rằng Hội Thánh Hữu Hình ở trong giao ước, và nó có quyền đối với các Ấn Chứng theo sự bảo đảm mà Đức Chúa Trời đã để lại trong lời của Ngài — chúng ta hãy vắn tắt tìm hiểu,
 
@@ -1458,7 +1448,7 @@ Do đó, một lần nữa, mọi lời cáo buộc nặng nề đã được đ
 
 Những người giữ rằng một Hội Thánh hữu hình ở trong giao ước một cách bên ngoài, và rằng những người được cứu chuộc của Đức Chúa Trời, các con trai và con gái của Ngài, là Thân Thể và Nhà của Ngài, mà Đấng Christ là Đầu và chồng theo một cách hữu hình — những người này không thể nói được, bởi suy luận của bất kỳ lý lẽ đúng đắn nào, là duy trì rằng trong ý định của Đức Chúa Trời, Đấng Christ đã chết cho tất cả họ; hay rằng tất cả họ đều được chọn cho sự vinh hiển; hay rằng Đức Chúa Trời có ý cứu tất cả họ. Không có chút vẻ nào của bất kỳ hệ quả nào từ một căn cứ như thế, để làm vững chắc một kết luận như thế.127
 
-*****
+*
 
 Chúng ta đã xong việc thứ nhất mà chúng ta đã đề ra lúc đầu chương này. Đó là, tôi đã chỉ ra lý do tại sao bằng chứng của ông Rutherford không chứng minh được nguyên nhân mà nó được đưa ra để chứng minh.
 
@@ -1500,7 +1490,7 @@ Trước khi tôi rời khỏi đoạn này, tôi sẽ giới thiệu cho ông R
 
 Nếu anh em bị buộc phải giữ họ trong một tình trạng Hội Thánh đầy đủ, tôi cho rằng anh em sẽ không phủ nhận các ấn chứng đối với họ, và rồi họ sẽ dự phần. Và như thế anh em ban các ấn chứng cho những người mà anh em biết là không có quyền đối với chúng, vì họ được biết là không thuộc về Hội Thánh Vô Hình — tức là, vì họ được biết là những người không tái sinh.
 
-*****
+*
 
 Giờ đây chúng ta đã hoàn tất Câu Hỏi Chính, và đã đưa ra các lý do tại sao chúng ta không thể nhượng bộ trước lời nhắc nhở của ông R. Chúng ta sẽ thêm một lời chạm đến điều đặc biệt khác đã được đề ra để tranh luận, đó là:
 
@@ -1540,7 +1530,7 @@ Và do đó, mọi điều thiết yếu của những đặc ân này đều đ
 
 Và do đó, ngoài hay không có điều này, không gì có thể được thêm vào trên căn cứ của ông Rutherford.
 
-Chương 4. Nguyên Nhân Hình Thức của một Hội Thánh Hữu Hình: Giao Ước của Hội Thánh.
+CHƯƠNG 4. NGUYÊN NHÂN HÌNH THỨC CỦA MỘT HỘI THÁNH HỮU HÌNH: GIAO ƯỚC CỦA HỘI THÁNH.
 
 Chúng ta đã xong Nguyên Nhân Vật Chất của một Hội Thánh hữu hình. Và chúng ta đã thấy rằng nó được tạo thành bởi những người là các thánh đồ hữu hình. Giờ đây chúng ta đến xét Nguyên Nhân Hình Thức: điều làm cho Hội Thánh trở nên như nó là, và ban cho nó bản chất đặc biệt của nó (như chúng ta thường nói).
 
@@ -1714,7 +1704,8 @@ Về điều này, ông R. trả lời, lib. 2. p. 125:
 
 Về điều này, chúng ta sẽ tra xét một cách rộng rãi.
 
-Chương 5. Phép báp-têm có ban hình thức,
+CHƯƠNG 5. PHÉP BÁP-TÊM CÓ BAN HÌNH THỨC,
+
 hay làm cho một người trở thành chi thể của một Hội Thánh hữu hình chăng?
 
 Đáp. Phủ định – [Phép báp-têm không làm cho một người trở thành chi thể của một Hội Thánh hữu hình.]
@@ -1797,7 +1788,7 @@ Vì nếu các Ấn không tạo ra ân điển nơi vốn chưa có ân điển
 
 Lý Do 5. Hội Thánh đã hữu hình khi chưa có ấn nào, cả phép cắt bì lẫn phép báp-têm. Do đó những điều này không cấu thành Hội Thánh, cũng không cấu thành bất kỳ chi thể nào của nó. Sáng Thế Ký 17:10-11. 158
 
-Chương 6. Lời Xưng Nhận có làm cho một người trở thành chi thể của một Hội Chúng chăng?
+CHƯƠNG 6. LỜI XƯNG NHẬN CÓ LÀM CHO MỘT NGƯỜI TRỞ THÀNH CHI THỂ CỦA MỘT HỘI CHÚNG CHĂNG?
 
 Đáp.
 
@@ -1929,7 +1920,7 @@ Giả sử dân sự của một hội chúng đến với mục sư của một
 
 Nói rằng một người đàn ông phải là người chồng chung cho mọi phụ nữ, hay một phụ nữ phải là người vợ chung cho mọi người đàn ông, chỉ vì giao ước hôn nhân vốn chung cho mọi cuộc hôn nhân, nghe ra đã lạ lùng ngay từ cái nhìn đầu tiên. Và vì thế, việc chúng tôi tìm kiếm sự khác biệt nào đó ở đây bị coi là dại dột; nhưng chúng tôi bằng lòng mang lấy tiếng dại dột vì điều đó.
 
-Chương 7. Đáp Lại Những Luận Cứ Chống Lại Giao Ước Hội Thánh.
+CHƯƠNG 7. ĐÁP LẠI NHỮNG LUẬN CỨ CHỐNG LẠI GIAO ƯỚC HỘI THÁNH.
 
 Chúng tôi đã trình bày một cách dứt khoát điều mà chúng tôi vẫn cho là ý muốn của Đức Chúa Trời về điều cấu thành một Hội Thánh cách chính thức. Tôi nhận thấy tâm linh của ông Rutherford mang một sự chán ghét lạ lùng đối với đường lối này. Chúng tôi sẽ cố gắng, trong khả năng mình, dẹp bỏ mọi sai lầm và hiểu lầm, để tâm trí của Độc giả không bị dẫn lạc bởi vô số những lời lẽ dồn dập — mà nhiều lời trong đó không chạm đến vấn đề đang bàn.
 
@@ -1961,7 +1952,7 @@ Và ở đây, hai điều này hiển nhiên khác biệt: việc một đầy 
 
 Thực chất của điều này đã có trong thời kỳ của Luật Pháp. Và dường như, việc lập giao ước giữa họ phát xuất từ Phúc Âm. Họ là một dân được kêu gọi và tuyển chọn cho Đức Chúa Trời. A-mốt 3:2, Chỉ một mình các ngươi mà ta đã biết, trong mọi dân tộc trên thế gian. Và vì thế họ đã được nhận vào một giao ước hữu hình, để bước đi trong đường lối của Đức Chúa Trời, và trong lẽ thật của sự thờ phượng Ngài. Và Đức Chúa Trời đã cam kết với chính Ngài, rằng Ngài sẽ ban phước cho những đặc ân ấy cùng việc sử dụng chúng, cho lợi ích của họ và lợi ích của con cái họ, giữ lại những điều kín nhiệm cho chính Ngài.
 
-*****
+*
 
 Khi đã đặt xong những nền tảng này, chúng tôi sẽ chú ý đến các luận cứ của ông Rutherford chống lại giao ước này.
 
@@ -2251,7 +2242,7 @@ Giả sử hai hội chúng, mới được dựng lên và nhóm họp, vốn k
 
 Đáp. Điểm về việc giảng dạy và cầu nguyện đã được trả lời trong điều thứ sáu ở trên. Và nếu một hành động kỷ luật, có nghĩa là bất cứ hành động nào của quyền năng các chìa khóa, thì rõ ràng là có thể có một hành động của quyền năng ấy được thực thi mà không có chức vụ nào. Vì một chức vụ và các thành viên khác, có thể được tiếp nhận, và trong một số trường hợp bị bác bỏ và bị khai trừ khỏi Hội Thánh bởi Hội Thánh.
 
-Chương 8. Quyền Ưu Tiên của một Hội Thánh, như một Toàn Thể Đồng Nhất. 192
+CHƯƠNG 8. QUYỀN ƯU TIÊN CỦA MỘT HỘI THÁNH, NHƯ MỘT TOÀN THỂ ĐỒNG NHẤT. 192
 
 Khi chúng ta nhìn Hội Thánh như một Toàn Thể Thiết Yếu (xem chương 5),193 chúng ta chú ý hai điều trong đó:
 
@@ -2333,7 +2324,7 @@ Người ta có thể nghĩ rằng những lập luận như thế là đủ đ�
 
 Giờ đây chúng tôi đã xong với câu hỏi thứ nhất, và chúng tôi đã làm rõ rằng, Hội Thánh này có trước mọi Chức Vụ, và có thể tồn tại mà không có họ.199
 
-Chương 9. Bản Chất và Sự Hiện Hữu của một Hội Thánh Trưởng Lão.
+CHƯƠNG 9. BẢN CHẤT VÀ SỰ HIỆN HỮU CỦA MỘT HỘI THÁNH TRƯỞNG LÃO.
 
 Phẩm chất của Hội Thánh như một Toàn Thể Thiết Yếu, gồm có Trật Tự và Quyền Ưu Tiên của nó, về các Chức Vụ thật của Hội Thánh. Và giờ đây chúng tôi đã giải quyết điều đó, trong câu trả lời cho câu hỏi trước.
 
@@ -3101,7 +3092,8 @@ Các thí dụ còn lại về An-ti-ốt, Ê-phê-sô, Rô-ma, v.v., dù có đ
 
 3. Hãy xét xem “Hội Thánh” có ý chỉ nhiều Hội Thánh chăng, như Sau-lơ đã tàn phá Hội Thánh, Công Vụ 8:3 nghĩa là, tàn phá tất cả các chi thể trung tín của mọi Hội chúng.
 
-Chương 10. Các Câu Trả Lời cho Các Luận Cứ của Ông R.
+CHƯƠNG 10. CÁC CÂU TRẢ LỜI CHO CÁC LUẬN CỨ CỦA ÔNG R.
+
 để Xác Nhận một Hội Thánh Trưởng Lão.
 
 Sau khi đã khám phá hiến pháp của Hội Thánh Trưởng Lão này, giờ đây chúng ta phải xét và trả lời những luận cứ mà ông Rutherford đưa ra để xác nhận một Hội Thánh Trưởng Lão.
@@ -3246,7 +3238,7 @@ Lập luận 13. Lập luận thứ mười ba được đề xuất như thể 
 
 Đáp 4. Tâm thần của ông không thi hành sự khai trừ khỏi Hội Thánh, cũng không ban cho họ quyền làm điều mà trước đây họ không thể làm. Nhưng ông khích lệ họ tiếp tục công việc mà trước đây họ đã bỏ bê, và là công việc cần thiết phải thực hiện biết bao.
 
-Chương 11. Chủ đề của Quyền năng Hội Thánh – các chìa khóa.
+CHƯƠNG 11. CHỦ ĐỀ CỦA QUYỀN NĂNG HỘI THÁNH – CÁC CHÌA KHÓA.
 
 Về chủ đề thứ nhất của quyền năng Hội Thánh, nơi Bản chất của nó được tỏ ra, và các lập luận chống lại nó được trả lời.
 
@@ -3770,7 +3762,7 @@ Mệnh Đề V.
 
 Do đó quyền năng của các chìa khóa này không thể được ban cho một xã hội duy nhất gồm con người một cách chính thức trong mọi loại của nó, vì nó đòi hỏi nhiều loại chủ thể khác nhau một cách chính thức. Chẳng hạn, một số cai trị, một số giảng dạy, một số bầu chọn. Do đó, không thể chối cãi mà suy ra rằng, các chìa khóa này, và quyền năng được biểu thị bởi chúng, hẳn phải được ban cho những người có một phần của quyền năng này trước hết, và chính thức, và từ nguyên thủy, và có thể ban phần còn lại của quyền năng một cách tiềm tàng. Khi được ban như vậy, quyền năng này có thể được thực hiện đầy đủ trong mọi hành động buộc và mở, theo mọi nhu cầu của Hội Thánh, và theo ý định của Cứu Chúa Christ của chúng ta. Và điều này có thể dễ dàng hoàn thành, và dễ dàng hiểu được là được thực hiện bởi một Hội Thánh gồm các tín hữu. Họ có thể tiếp nhận và bầu chọn; điều này chính thức thuộc về họ. Và các chức viên được họ bầu chọn, thì toàn bộ sự cai trị của Hội Thánh sẽ tiếp tục trong mọi hoạt động của nó, và thích hợp để đạt đến các mục đích mà Cứu Chúa của chúng ta đã định. Như vậy điều thứ nhất vốn khó giải thích, đã được giải quyết xong.
 
-*****
+*
 
 Điều thứ hai mà trọng tâm lớn nhất nằm trong cuộc tra xét này, là liệu Hội Thánh được nhắc đến trong đoạn văn ấy,301 có phải là Hội Thánh hữu hình hay Hội Thánh vô hình.
 
@@ -3800,7 +3792,7 @@ Và kính cẩn nhường cho sự phán đoán tốt hơn,304 đoạn này ph�
 
 2. Sự hướng dẫn này phải tiếp tục cho mọi chức viên kế tiếp, cho đến tận cùng; và điều ấy là trong mọi trách nhiệm đặc biệt của họ. Vì vậy nó hẳn phải là khuôn mẫu của một Hội Thánh, hay một Hội Thánh như hiện hữu trong các hội chúng đặc biệt của nó, mà Đấng Christ sẽ có trong khi thế gian còn tồn tại. Vì trong Ê-phê-sô 4:12–13, hẳn phải có các Mục Sư và các Thầy Giảng cho đến khi mọi tín hữu trung tín được thâu nhóm vào sự hiệp nhất của đức tin, và có sự nhận biết Con Đức Chúa Trời. Tiến sĩ Ames, Medull. sách 1, chương 31, 37.
 
-Chương 12. Các Chìa Khóa cho Hội Thánh Hữu Hình Được Giao Cho Ai.
+CHƯƠNG 12. CÁC CHÌA KHÓA CHO HỘI THÁNH HỮU HÌNH ĐƯỢC GIAO CHO AI.
 
 Về Hội Thánh phổ quát và hữu hình. Chúa đã giao phó các chìa khóa cho chức vụ và những người hướng dẫn của Hội Thánh hữu hình phổ quát, với tư cách là chủ thể đầu tiên.
 
@@ -3968,7 +3960,7 @@ Luận Cứ 6. “Vì Đấng Christ đã không ban quyền năng của chức 
 
 Sự hiện hữu đầy đủ của một Hội Thánh được xem xét, như chúng ta tìm thấy nó trong các thuật ngữ của Kinh Thánh, và như nó phù hợp với các quy tắc của lý trí, nó bao hàm trường hợp riêng biệt trong bản chất chung, và bản chất chung trở nên được xác định trong trường hợp riêng biệt. Do đó, quan điểm mà ông Rutherford nêu ra không phải là điều chúng ta duy trì, mà là điều ông vui lòng tự đặt ra cho mình.
 
-Chương 13. Hội Thánh phổ quát xét như một toàn thể đại diện.
+CHƯƠNG 13. HỘI THÁNH PHỔ QUÁT XÉT NHƯ MỘT TOÀN THỂ ĐẠI DIỆN.
 
 Về Hội Thánh phổ quát xét như một toàn thể đại diện320 trong việc nhóm lại các mục sư, v.v., trong một Công Đồng Chung.
 
@@ -4152,7 +4144,7 @@ Cuối cùng, tôi sẽ trình bày trước Độc giả và Ông Rutherford, �
 
 Một người thoạt nhìn hẳn sẽ nghĩ, nếu một Hội Thánh thuộc Classis không khai trừ khỏi Hội Thánh trước đó, thì theo cùng tỉ lệ của lý trí, nhiều Hội Thánh hẳn cũng không. Thật vậy, không ai ngoài Classis của chính người ấy được khai trừ người ấy khỏi Hội Thánh, và do đó, làm sao Hội Thánh phổ quát có thể được nói là làm việc này trước đó? Nhưng Ông Rutherford hiểu rõ nhất ý nghĩa của chính mình, và điều này sẽ khiến ông phải giải thích nó.
 
-Chương 14. Hội Thánh Phổ Quát như một Toàn Thể Nguyên Vẹn.
+CHƯƠNG 14. HỘI THÁNH PHỔ QUÁT NHƯ MỘT TOÀN THỂ NGUYÊN VẸN.
 
 Và để đối xử một cách ngay thẳng trong việc này, như trong tiến trình trước đây của lập luận của chúng ta, chúng tôi tuyên bố mục đích của chúng tôi trong cuộc tìm hiểu này chỉ là đưa ra bằng chứng nào chúng tôi có thể, để khám phá Chân Lý rõ ràng hơn. Vì tôi không thể tìm thấy bất kỳ phát biểu nào trong cuộc tranh luận của Ông Rutherford, hoàn toàn gán ý nghĩa này cho bất kỳ đoạn nào của ông.346 Và tôi không có ý định gán cho ông điều gì ngoài những gì ông đã bày tỏ đầy đủ. Để tiến trình của chúng tôi rõ ràng và trực tiếp hơn, tôi xin phép được tìm hiểu,
 
@@ -4274,7 +4266,8 @@ Một lần nữa, xin nhắc Độc giả ánh sáng mà chân lý đã đạt 
 
 3. Do đó, các Hội Thánh cho đi quyền năng của mình cho người khác là không hợp pháp; cũng không hợp pháp cho người khác lấy quyền năng ấy khỏi họ. Và do đó, họ không nên mất quyền năng này bởi việc kết hợp mình với người khác; cũng không nên để các Hội Thánh khác, bởi sự kết hợp, lấy quyền năng này khỏi họ, toàn bộ hay một phần. 358
 
-Chương 15. Trả Lời Ông Hudson về: Hội Thánh Hữu Hình
+CHƯƠNG 15. TRẢ LỜI ÔNG HUDSON VỀ: HỘI THÁNH HỮU HÌNH
+
 như một Toàn Thể Nguyên Vẹn.
 
 Trong khi tôi đang tìm hiểu và viết về Hội Thánh phổ quát hữu hình này, sự quan phòng đặc biệt đã đưa một cuốn sách đến trước mắt tôi, cuốn sách ấy cố ý bàn luận về chính chủ đề riêng biệt này. Tác giả là Ông Hudson, một người có học thức và một mục sư trung tín của Phúc Âm.359
@@ -4905,7 +4898,8 @@ Có một nhánh thứ ba trong Mệnh Đề; đó là, các Hội Thánh riêng
 
 Trước đây chúng ta đã đưa ra bằng chứng chống lại điều này (xem chương 3), mà chúng ta xin giới thiệu bạn đọc đến đó, và vì vậy thôi không truy vấn thêm về chủ đề Hội Thánh phổ quát hữu hình này.
 
-Chương 16. Sự Thông Công Hội Thánh như một Đặc Quyền Riêng Biệt
+CHƯƠNG 16. SỰ THÔNG CÔNG HỘI THÁNH NHƯ MỘT ĐẶC QUYỀN RIÊNG BIỆT
+
 cho các Thành Viên của một Hội Thánh.
 
 Nay chúng ta đã xong với quyền năng của Hội Thánh.
@@ -5020,9 +5014,9 @@ Vì vậy, tôi không thấy tỷ lệ này là không công bằng. Một ngư
 
 Chẳng hạn, giả sử một người ăn năn sắp được tiếp nhận vào Hội Thánh. Các thành viên bày tỏ sự sẵn sàng của mình về tình yêu thương, lòng thương xót, lòng nhân từ, và tình anh em để tha thứ. Những người khác cũng hiện diện, cùng tham gia đến mức đó trong hành động ấy, đồng ý và chấp thuận điều họ làm theo Đức Chúa Trời. Quả thật, họ được khích lệ mạnh mẽ, được an ủi, và được khuyến khích, thậm chí được dạy dỗ và hướng dẫn bởi điều họ nghe và thấy; và vì vậy họ nhận điều thiện, và được gây dựng rất nhiều bởi lễ nghi. Thế mà đây là điều mọi người sẽ thừa nhận: họ không chia sẻ hay thông công chút nào, trong bất kỳ lợi ích nào của quyền năng mà các hành động như vậy đã được ban phát.
 
-PHẦN II. Hội Thánh Được Xét Như Một Thân Thể Hữu Cơ.
+PHẦN II. HỘI THÁNH ĐƯỢC XÉT NHƯ MỘT THÂN THỂ HỮU CƠ.
 
-Chương 1. Số Lượng Các Viên Chức Trong Đó, và Bản Chất Của Nó.
+CHƯƠNG 1. SỐ LƯỢNG CÁC VIÊN CHỨC TRONG ĐÓ, VÀ BẢN CHẤT CỦA NÓ.
 
 Trong phần trước của bài luận của chúng ta, chúng ta đã truy vấn về sự cấu thành của một Hội Thánh xét về các nguyên nhân chất liệu và hình thức của nó; và các phẩm chất đặc biệt đi kèm với những điều này xét về quyền năng và các đặc quyền thuộc về nó. Và cho đến nay chúng ta đã xem xét nó xét như một Toàn Thể Thiết Yếu.464 Thế mà còn nhiều điều nữa cần thiết để tạo nên sự toàn vẹn và hoàn hảo của nó, hầu cho nó được hoàn thành trong mọi thành viên và viên chức đặc biệt mà Chúa đã lập và đặt trong thân thể hữu hình này của Ngài, vì sự cải thiện hoạt động đặc biệt của mỗi phần, và sự gây dựng chính nó trong tình yêu thương, Ê-phê-sô 4:13, 16.465
 
@@ -5572,7 +5566,8 @@ Vì người phải phân phát, thì phải thu thập; người ấy phải gi
 
 Và tại đây sự quan phòng, lòng trung tín, và công sức của người ấy sẽ được dùng trọn vẹn.
 
-Chương 2. Bản Chất Của Sự Phong Chức, Và Quyền Của Một Mục Sư
+CHƯƠNG 2. BẢN CHẤT CỦA SỰ PHONG CHỨC, VÀ QUYỀN CỦA MỘT MỤC SƯ
+
 Đối Với Các Hội Thánh Khác.
 
 Trong đó bản chất của sự phong chức được thảo luận, và chương 17 của ông Rutherford được xem xét và trả lời, liên quan đến quyền mà ông ban cho một Mục sư trong và trên các hội chúng khác ngoài hội chúng của chính ông.
@@ -6057,7 +6052,7 @@ Giả sử mọi Hội Chúng đều đầy đủ. Họ có thể từ chối c�
 
 Đến lúc này chúng ta đã vượt qua mọi bãi cạn và bãi cát chắn ngang hành trình của chúng ta, và đã hoàn thành PHẦN PHỦ ĐỊNH của Luận Thuyết của chúng ta, nghĩa là, Điều gì không ban những điều thiết yếu của sự kêu gọi của một Mục Sư.
 
-*****
+*
 
 Chúng ta nay đã đến trong tầm nhìn của điểm chính. Và nếu bởi lòng thương xót chúng ta có thể vượt qua nó cách an toàn, chúng ta sẽ thỏa lòng.
 
@@ -6293,7 +6288,7 @@ Nếu các trưởng lão đã bầu chọn và ban sự hiện hữu đầu ti�
 
 Điều thứ nhất được thừa nhận,615 ergo...
 
-Chương 3. Ý Nghĩa Đúng Đắn của một Hội Thánh Độc Lập.
+CHƯƠNG 3. Ý NGHĨA ĐÚNG ĐẮN CỦA MỘT HỘI THÁNH ĐỘC LẬP.
 
 Trong đó trạng thái của Câu Hỏi được mở ra, thuật ngữ khó chịu là Độc Lập được làm sáng tỏ, và ý nghĩa đúng đắn được đặt lên nó; các Luận Cứ của Thầy R. trong chương thứ mười ba của ông được tranh luận.
 
@@ -6501,9 +6496,9 @@ Một Hội Thánh độc lập như thế có thể kêu gọi và phong chức
 
 Luận cứ thứ năm của ông ta, lấy từ Ma-thi-ơ 18:17, đã được trả lời trước đây, và tôi xin giới thiệu độc giả đến đó.628
 
-PHẦN III. Sự Cai Trị Hội Thánh
+PHẦN III. SỰ CAI TRỊ HỘI THÁNH
 
-Chương 1. Về Sự Cai Trị Hội Thánh.
+CHƯƠNG 1. VỀ SỰ CAI TRỊ HỘI THÁNH.
 
 Có hai điều được chú ý trong chính sách Hội Thánh, tức là, thứ nhất, sự cấu thành Hội Thánh; và thứ hai, sự cai trị Hội Thánh. Chúng ta đã xong với điều thứ nhất; giờ chúng ta xét điều thứ hai.
 
@@ -6603,7 +6598,7 @@ Như Phao-lô đã khuyên chống lại những con sói hay cắn xé ấy, C�
 
 Chúng ta đã xong với việc tiếp nhận.
 
-Chương 2. Về Sự Ban Phát Các Thánh Lễ.
+CHƯƠNG 2. VỀ SỰ BAN PHÁT CÁC THÁNH LỄ.
 
 Giờ chúng ta phải tra hỏi với cùng sự ngắn gọn, về sự ban phát các thánh lễ, là dấu hiệu của chiên Đức Chúa Trời, và đồng phục của tôi tớ trong nhà Ngài. Vì trong nhiều mục đích khác của các thánh lễ, đây là một mục đích: rằng nó là một dấu hiệu và một dấu phân biệt giữa chiên trong bầy của Đức Chúa Trời, và những người ở bên ngoài.
 
@@ -7023,7 +7018,7 @@ Và do đó, thứ hai, trong việc quản trị nó, cũng như có những ph
 
 Vì việc chúc phước cho Bánh đến ngay sau việc biệt riêng nó ra. Do đó lời chúc phước ấy đến trước việc lấy rượu, và việc biệt riêng rượu cho mục đích thuộc linh của nó; và vì vậy nó đến trước lời chúc phước cho yếu tố ấy. Và vì vậy phải có một lời chúc phước riêng biệt được dùng, khác với lời chúc phước trước. Điều ấy phù hợp nhất với bản chất riêng biệt của từng yếu tố đã được Đấng Cứu Rỗi của chúng ta định ra. Và chúng phải được những người dự Tiệc dùng và nhận lãnh trong sự xem xét riêng biệt ấy. Vì mặc dù toàn thể Đấng Christ cách thuộc linh ở trong mỗi phần của Bữa Tiệc, nhưng đó không phải là một phần của Đấng Christ, như Bánh và Rượu,680 được trình bày cho người nhận lãnh. Tuy nhiên mọi sự của Đấng Christ không ở đó cách thánh lễ, ngoại trừ trong cả hai.
 
-Chương 3. Về Các Sự Khiển Trách Và Sự Khai Trừ Khỏi Hội Thánh.
+CHƯƠNG 3. VỀ CÁC SỰ KHIỂN TRÁCH VÀ SỰ KHAI TRỪ KHỎI HỘI THÁNH.
 
 Chúa Christ là một người cha đầy lòng nhân từ đối với Hội Thánh Ngài, đối với gia đình và nhà Ngài, Ngài đã sắm sẵn một khẩu phần lành mạnh và chọn lọc — các lễ nghi thánh và thuộc linh của Ngài để làm thức ăn và sự tươi mới cho linh hồn của các tín hữu Ngài, để họ có thể lớn lên trong Ngài trong mọi sự, Ê-phê-sô 4:15 và có thể tăng trưởng với sự tăng trưởng của Đức Chúa Trời. Và Ngài đã sắm sẵn thuốc tẩy681 cũng như thuốc bổ. Bởi sự khôn ngoan vô hạn của Ngài, Ngài đã định các sự khiển trách của Hội Thánh như thuốc hay, để tẩy sạch điều ác. Vì ai biết được có bao nhiêu sự hư hoại, bao nhiêu bệnh tật có hại và ghê tởm, mà các thánh đồ phải chịu. Và Ngài đã định Lời và các thánh lễ, giống như một chế độ ăn uống tốt, đủ để nuôi dưỡng linh hồn cho đến sự sống đời đời.
 
@@ -7211,9 +7206,9 @@ Và điều này phải được mọi người thừa nhận, những người 
 
 Từ đó, cuối cùng, bao lâu Hội Thánh còn tồn tại, và còn có sự hiện hữu của một Hội Thánh, thì nàng còn có quyền và năng lực để quản trị các sự khiển trách này, vì quyền ấy thuộc về nàng, kata auto, tự chính nàng, và nó thuộc về nàng như một thân thể như vậy. Do đó nó không thể bị lấy đi trừ khi sự hiện hữu của nàng bị lấy đi. Một chức viên, trong khi còn ở địa vị và chức vụ của mình, có quyền và năng lực để giảng và thi hành các ấn chứng — mặc dù việc thi hành những hành vi ấy đôi khi có thể bị ngăn trở bởi bạo lực và cưỡng ép. Cũng vậy, trong khi các thành viên còn tiếp tục liên kết trong sự kết hợp, và như thế họ có sự thông công với nhau bởi sự đồng ý tự do, thì họ cũng có quyền trên nhau. Và trong trường hợp phần thể làm hại toàn thể, thì nó phải chịu quyền của toàn thể, để bị loại khỏi sự thông công của toàn thể.
 
-PHẦN IV. Về các Hội Đồng.
+PHẦN IV. VỀ CÁC HỘI ĐỒNG.
 
-Chương 1. Bản chất của một Hội Đồng và quyền ràng buộc của nó.
+CHƯƠNG 1. BẢN CHẤT CỦA MỘT HỘI ĐỒNG VÀ QUYỀN RÀNG BUỘC CỦA NÓ.
 
 Trong đó luận cứ thứ sáu của ông Rutherford, lấy từ Công Vụ 15, được tranh luận, và bản chất của Hội Đồng được thảo luận; và cho đến đâu Hội Đồng ấy hay bất cứ Hội Đồng nào khác có thể được nói là ràng buộc, bởi bất cứ sự bảo chứng nào từ Lời Chúa.
 
@@ -7403,7 +7398,7 @@ Trong những lời bày tỏ này có nhiều điều đáng ngờ cần đư�
 
 Tôi đưa ra những câu hỏi này để tạo dịp cho những sự giải thích thêm của ông Rutherford. Nhưng tôi cho rằng cần phải lưu ý đến sự phân chia một quốc gia thành các tỉnh, và các tỉnh thành nhiều lãnh thổ, vì trong điều này chúng ta có nền tảng được đặt, và một con đường được mở cho các Hội Đồng, vốn phải có y phục và áo choàng của chúng được cắt theo khuôn khổ này. Nhưng chẳng bao lâu sẽ thấy rõ rằng mẫu mực sứ đồ này sẽ giải thoát chúng ta khỏi bất cứ sự suy luận bắt buộc nào như thế.
 
-*****
+*
 
 Chúng ta đã xong với việc giải thích và lời mở đầu cho cuộc tranh luận. Bây giờ chúng ta đến luận cứ của ông Rutherford mà ông trình bày như sau từ đoạn ấy [Công Vụ 15].
 
@@ -7461,7 +7456,8 @@ Nhưng mẫu mực này thì làm như vậy.
 
 Nhưng việc họ xin lời khuyên và sự đồng thuận của những người khác, và nhờ đó trở nên phương tiện để chính mình và người khác được vững vàng trong đức tin của Phúc Âm, và bước đi ngay thẳng trong việc xưng nhận đức tin ấy — thì điều đó rất phù hợp với quy tắc và lý trí.
 
-Chương 2. Ưu Thế Bị Cho Là Của Các Classis Và Các Hội Đồng
+CHƯƠNG 2. ƯU THẾ BỊ CHO LÀ CỦA CÁC CLASSIS VÀ CÁC HỘI ĐỒNG
+
 Trên Các Hội Thánh Riêng Biệt.
 
 Nơi đây các luận cứ của Ông Rutherford về ưu thế của các Classis và các Hội Đồng trên các Hội Thánh riêng biệt được xem xét và trả lời. Các luận cứ ấy có sáu luận cứ, cùng với nhiều luận cứ khác được trình bày trong chương 15 của sách ông.
@@ -7968,7 +7964,8 @@ Lẽ thật là, quy tắc ngược lại phần lớn là đúng nhất: điề
 
 Cuối cùng, các mục đích của cuộc cải chánh chung có thể đạt được nhờ quyền của quan cai trị dân sự. Người ấy có thể một cách có thẩm quyền đòi hỏi mọi Hội Thánh trong mọi hội nghị riêng biệt của họ phải chú ý đến ý muốn của Đấng Christ, và hạ mình cách long trọng bằng sự kiêng ăn và cầu nguyện, và thấy sự cải chánh được thực hiện theo Đức Chúa Trời, tại các nơi riêng biệt của họ. Và nếu [các quan cai trị] thấy các Hội Thánh thánh khiết, họ sẽ sẵn lòng lắng nghe họ; và nếu họ thấy các Hội Thánh hư hỏng, các Hội Thánh này có thể bị quyền dân sự ép buộc phải tuân theo các quy tắc của Đấng Christ, mà vì sự hư hỏng nay đã len lỏi vào giữa họ, họ sẽ bằng lòng vứt bỏ.
 
-Chương 3. Phụ lục cho Luận Văn Trước
+CHƯƠNG 3. PHỤ LỤC CHO LUẬN VĂN TRƯỚC
+
 Về Các Hội Đồng.
 
 Thư của những người đã gửi sách sang để in.
@@ -8333,8 +8330,7 @@ Tòa Án Chung Nắm Giữ Thẩm Quyền Lập Pháp, Hành Pháp, Tư Pháp, v
 
 Việc Các Lệnh Cơ Bản của Connecticut có nên được xem là một hiến pháp theo nghĩa hiện đại hay không, chứ đừng nói đến việc được tôn vinh là hiến pháp thành văn đầu tiên (như đã từng được tuyên bố), vẫn còn là vấn đề tranh luận. Tuy nhiên, chúng đã làm nền tảng cho chính phủ tại Connecticut cho đến năm 1662. Chúng cũng là lý do tại sao, vào năm 1959, Đại Hội Đồng đã chính thức chỉ định Connecticut là “Tiểu Bang Hiến Pháp.”
 
-Của Bruce P. Stark; trích từ Connecticut History and Culture:
-an Historical Overview and Resource Guide for Teachers (1985), do David Roth biên tập. 771
+Của Bruce P. Stark; trích từ Connecticut History and Culture: an Historical Overview and Resource Guide for Teachers (1985), do David Roth biên tập. 771
 
 CÁC LỆNH CƠ BẢN NĂM 1639
 
@@ -8374,7 +8370,7 @@ Thomas Hooker: Nhà Giảng Đạo, Người Sáng Lập, Nhà Dân Chủ
 
 của George Leon Walker
 
-VI. HOOKER TẠI CONNECTICUT. MỤC III. (trích đoạn)
+VI. HOOKER TẠI CONNECTICUT. MỤC III. (TRÍCH ĐOẠN)
 
 1891
 
@@ -10050,7 +10046,6 @@ Therefore ecclesia catholica visibilis existit.
 
 [796] Ibid.
 
-[797] Magnalia, i. 316, 317.
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách (ấn bản duy nhất được cung cấp: bản hiện đại hóa tiếng Anh của William H. Gross, tháng 7 năm 2020, cập nhật ngày 5 tháng 9 năm 2021, đã dịch như được cung cấp; lời giới thiệu của người hiệu đính được giữ nguyên ở phần đầu sách). Giữ nguyên theo thứ tự: trang tựa, mục lục, toàn bộ chính văn, và 797 chú thích cuối sách theo đúng thứ tự. Một bảng phân loại chức vụ đã được dàn thành dòng theo thứ tự đọc mà không thay đổi từ ngữ hay dấu câu. Không có đoạn nào cần đánh dấu.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+[797] Magnalia, i. 316, 317. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách (ấn bản duy nhất được cung cấp: bản hiện đại hóa tiếng Anh của William H. Gross, tháng 7 năm 2020, cập nhật ngày 5 tháng 9 năm 2021, đã dịch như được cung cấp; lời giới thiệu của người hiệu đính được giữ nguyên ở phần đầu sách). Giữ nguyên theo thứ tự: trang tựa, mục lục, toàn bộ chính văn, và 797 chú thích cuối sách theo đúng thứ tự. Một bảng phân loại chức vụ đã được dàn thành dòng theo thứ tự đọc mà không thay đổi từ ngữ hay dấu câu. Không có đoạn nào cần đánh dấu.
+
+Mở trong trình đọc Về thư viện

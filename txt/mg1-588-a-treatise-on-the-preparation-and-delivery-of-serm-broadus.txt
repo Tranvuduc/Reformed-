@@ -1,5 +1,12 @@
 LUẬN VĂN VỀ SỰ CHUẨN BỊ VÀ TRÌNH BÀY BÀI GIẢNG
-John A. Broadus
+
+John A. Broadus · A Treatise on the Preparation and Delivery of Sermons
+
+Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+LUẬN VĂN VỀ SỰ CHUẨN BỊ VÀ TRÌNH BÀY BÀI GIẢNG John A. Broadus
 
 Một Luận Văn về sự Chuẩn Bị
 
@@ -7,22 +14,13 @@ và Trình Bày Bài Giảng
 
 CỦA JOHN A. BROADUS, D.D., LL.D.
 
-TÁC GIẢ CỦA
-"HISTORY OF PREACHING," "COMMENTARY ON MATTHEW," V.V.
+TÁC GIẢ CỦA "HISTORY OF PREACHING," "COMMENTARY ON MATTHEW," V.V.
 
 Ấn bản mới (Ấn bản thứ hai mươi ba)
 
-DO
-MỤC SƯ EDWIN CHARLES DARGAN, D.D.
-GIÁO SƯ THUẬT GIẢNG THUYẾT
-TẠI CHỦNG VIỆN THẦN HỌC BAPTIST MIỀN NAM,
-LOUISVILLE
-BIÊN TẬP
+DO MỤC SƯ EDWIN CHARLES DARGAN, D.D. GIÁO SƯ THUẬT GIẢNG THUYẾT TẠI CHỦNG VIỆN THẦN HỌC BAPTIST MIỀN NAM, LOUISVILLE BIÊN TẬP
 
-LONDON
-HODDER & STOUGHTON
-27, PATERNOSTER ROW
-1898
+LONDON HODDER & STOUGHTON 27, PATERNOSTER ROW 1898
 
 MỤC LỤC
 
@@ -2580,7 +2578,6 @@ Có những tác phẩm bàn về các lỗi và cách viết tiếng Anh đúng
 
 Một vài luận văn đặc biệt về tiếng Anh nên được lưu ý: Các bài "Lectures on the English Language" của Marsh, trong ấn bản mới; A. S. Hill, "Our English," trong loạt sách Chautauqua; "Standard English" của Oliphant, và một số tập sách của Richard Grant White. "English Prose," của Giáo sư John Earle thuộc University of Oxford, là một cuốn sách vĩ đại, bàn về các chủ đề, yếu tố, lịch sử, và cách dùng của văn xuôi tiếng Anh. Cuốn sách sẽ đền đáp việc nghiên cứu nghiêm túc. Về ngữ văn tiếng Anh, "Etymological Dictionary" của W. W. Skeat rất có giá trị. Giáo sư Earle cũng có một cuốn sách có giá trị về "English Philology." Trong các nghiên cứu tổng quát, "Synonyms Discriminated" của Smith có lẽ là hay nhất về chủ đề đó. "Thesaurus" của Roget (trong ấn bản mới nhất) vẫn là một tác phẩm có giá trị. Tương tự, những cuốn sách nhỏ của Tổng Giám mục Trench, dù có phần lỗi thời, vẫn đáng đọc,—về "Words and Their Uses," và về "English Past and Present." Giám mục Fallows có một bản tóm lược hữu ích về "Synonyms and Antonyms," với một số vấn đề khác được thêm vào. Ngoài ra còn có một cuốn sách gần đây về "Synonyms" của James C. Fernald, do Funk and Wagnalls xuất bản. Cũng nên nhắc đến "Synonyms" của Soule.
 
-5. Sự Trình Bày và Hùng Biện.—"The Art of Extempore Speaking," của Bautain, chứa một số gợi ý quý báu; cũng vậy "The Spoken Word," của Thomas J. Potter, hay. "Pulpit Elocution," của William Russell, chứa nhiều gợi ý hữu ích và thực tế; và "Vocal Culture," được biên tập lại bởi Mục sư Francis T. Russell, là một luận văn hữu ích và thực tế. "Extempore Speech," của Pittenger, hữu ích. "Extempore Preaching," của Wilder Smith, có nhiều lẽ phải, và có giá trị. "Preaching Without Notes," các bài giảng của Tiến sĩ R. S. Storrs, cũng rất hữu ích về sự rao giảng ứng khẩu.
-LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách (ấn bản duy nhất được cung cấp; ấn bản mới, ấn bản thứ hai mươi ba, Luân Đôn: Hodder & Stoughton, 1898, do Mục sư Edwin Charles Dargan biên tập; nguyên tác xuất bản lần đầu tháng 7 năm 1870). Giữ nguyên theo thứ tự: trang tựa, mục lục, lời nói đầu, phần mở đầu, 5 phần (tài liệu, sắp xếp, văn phong, trình bày, điều hành sự thờ phượng công cộng), và thư mục ở cuối; bản nguồn không có khối kết thúc riêng nên không thêm. Các dấu số in trong chính văn không có phần chú thích đi kèm trong tập tin này, được giữ nguyên tại chỗ. Không có đoạn nào cần đánh dấu.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Không có
+5. Sự Trình Bày và Hùng Biện.—"The Art of Extempore Speaking," của Bautain, chứa một số gợi ý quý báu; cũng vậy "The Spoken Word," của Thomas J. Potter, hay. "Pulpit Elocution," của William Russell, chứa nhiều gợi ý hữu ích và thực tế; và "Vocal Culture," được biên tập lại bởi Mục sư Francis T. Russell, là một luận văn hữu ích và thực tế. "Extempore Speech," của Pittenger, hữu ích. "Extempore Preaching," của Wilder Smith, có nhiều lẽ phải, và có giá trị. "Preaching Without Notes," các bài giảng của Tiến sĩ R. S. Storrs, cũng rất hữu ích về sự rao giảng ứng khẩu. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách (ấn bản duy nhất được cung cấp; ấn bản mới, ấn bản thứ hai mươi ba, Luân Đôn: Hodder & Stoughton, 1898, do Mục sư Edwin Charles Dargan biên tập; nguyên tác xuất bản lần đầu tháng 7 năm 1870). Giữ nguyên theo thứ tự: trang tựa, mục lục, lời nói đầu, phần mở đầu, 5 phần (tài liệu, sắp xếp, văn phong, trình bày, điều hành sự thờ phượng công cộng), và thư mục ở cuối; bản nguồn không có khối kết thúc riêng nên không thêm. Các dấu số in trong chính văn không có phần chú thích đi kèm trong tập tin này, được giữ nguyên tại chỗ. Không có đoạn nào cần đánh dấu.
+
+Mở trong trình đọc Về thư viện

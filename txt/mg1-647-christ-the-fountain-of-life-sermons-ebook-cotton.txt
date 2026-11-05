@@ -1,5 +1,12 @@
 ĐẤNG CHRIST, NGUỒN SỰ SỐNG
-John Cotton
+
+John Cotton · Christ the Fountain of Life (Sermons eBook)
+
+Bản dịch do AI (MG-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+ĐẤNG CHRIST, NGUỒN SỰ SỐNG John Cotton
 
 Đấng Christ, Nguồn Sự Sống
 
@@ -1097,10 +1104,4 @@ Thứ ba, Có thể một người cầu nguyện mà không có đức tin, và
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-- Source: Monergism EPUB of the 1651 London edition; the text was initially updated from EEBO-TCP by Project Puritas. Excluded under the true-work-only rule: the Project Puritas/Monergism revision-and-copyright credits printed after the title page, and the Monergism Books copyright/legal boilerplate after "FINIS." The title page, Table of Contents, and all sixteen sermons (on 1 John 5:12-17) are translated in full.
-- Scripture quotations are rendered in the style of the 1934 Vietnamese Bible; the wording follows that style and was not character-verified against the 1934 text.
-- Five passages carry inline [NEEDS REVIEW] flags, all source-side and nothing guessed: four of Cotton's citations appear mis-cited as printed ("Zac. 1.13", "2 Cor. 10.9", "Psal. 39.19", "Act. 9.8, 9, 10") and are kept as printed with a note giving the likely reference; one unreadable token "<H&G>" in the source (James 1, wavering faith passage) is flagged in place.
-- The mandated terminology table was applied throughout (justification = sự xưng công chính, grace = ân điển, gospel = Phúc Âm, God = Đức Chúa Trời, etc.); "sacrament/ordinances" rendered "nghi thức thánh"; baptism rendered "báp-têm" / "lễ báp-têm". No banned terms appear in the translated body.
+Mở trong trình đọc Về thư viện
