@@ -1100,6 +1100,4 @@ Tôi sẽ kết thúc mọi sự bằng lời của sứ đồ Giu-đe, câu 24,
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Bản dịch đối chiếu với bản chép sạch EEBO-TCP A64979 (ấn bản 1667) để giải quyết các chỗ OCR hỏng; các quyết định biên tập chi tiết được ghi trong footer từng chunk. - Một số tham chiếu Kinh Thánh trong bản in gốc bị sai đã được sửa theo đúng lời trích dẫn (ghi chi tiết trong footer các chunk). - Trích dẫn Kinh Thánh theo phong cách 1934, không đối chiếu từng chữ với bản 1934. - Đây là bản dịch AI, chưa được mục sư duyệt lại.
-
 Mở trong trình đọc Về thư viện

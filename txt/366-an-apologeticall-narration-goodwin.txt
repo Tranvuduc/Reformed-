@@ -6,27 +6,25 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lời Trình Bày Biện Hộ
+Nguyên tác: "An Apologeticall Narration of some Ministers formerly in Exile in the Netherlands: Now Members of the Assembly of Divines. Humbly submitted to the Honourable Houses of Parliament" — Thomas Goodwin, Philip Nye, William Bridge, Jeremiah Burroughes, Sidrach Simpson (1643) Tác giả: Năm mục sư (Thomas Goodwin, Philip Nye, William Bridge, Jeremiah Burroughes, Sidrach Simpson) — các "Anh em Bất đồng" trong Hội Đồng Thần Học Westminster Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_an-apologeticall-narrati_goodwin-thomas_1643/bim_early-english-books-1641-1700_an-apologeticall-narrati_goodwin-thomas_1643_djvu.txt (Ghi chú: Danh sách ghi tác giả là Goodwin, nhưng trang tựa ghi rõ năm tác giả: Thomas Goodwin, Philip Nye, William Bridge, Jeremiah Burroughes và Sidrach Simpson. Bản OCR của ấn bản 1643 nhiễu nặng (chữ s dài "ſ", nhiều dòng vỡ); những chỗ không phục hồi chắc chắn được đánh dấu [NEEDS REVIEW]. Chỉ dịch tác phẩm thật; loại bỏ số trang, tiêu đề chạy trang và các mảnh OCR rời.)
 
-**Nguyên tác:** "An Apologeticall Narration of some Ministers formerly in Exile in the Netherlands: Now Members of the Assembly of Divines. Humbly submitted to the Honourable Houses of Parliament" — Thomas Goodwin, Philip Nye, William Bridge, Jeremiah Burroughes, Sidrach Simpson (1643) **Tác giả:** Năm mục sư (Thomas Goodwin, Philip Nye, William Bridge, Jeremiah Burroughes, Sidrach Simpson) — các "Anh em Bất đồng" trong Hội Đồng Thần Học Westminster **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_an-apologeticall-narrati_goodwin-thomas_1643/bim_early-english-books-1641-1700_an-apologeticall-narrati_goodwin-thomas_1643_djvu.txt *(Ghi chú: Danh sách ghi tác giả là Goodwin, nhưng trang tựa ghi rõ năm tác giả: Thomas Goodwin, Philip Nye, William Bridge, Jeremiah Burroughes và Sidrach Simpson. Bản OCR của ấn bản 1643 nhiễu nặng (chữ s dài "ſ", nhiều dòng vỡ); những chỗ không phục hồi chắc chắn được đánh dấu [NEEDS REVIEW]. Chỉ dịch tác phẩm thật; loại bỏ số trang, tiêu đề chạy trang và các mảnh OCR rời.)*
-
----
-
-## LỜI NÓI ĐẦU CỦA CHARLES HERLE
+LỜI NÓI ĐẦU CỦA CHARLES HERLE
 
 Lời Trình Bày Biện Hộ của các anh em đáng kính và thân mến của chúng ta, những tác giả có học thức của nó, đầy dẫy sự hòa bình, khiêm tốn và thẳng thắn, và đồng thời trong lúc này thật cần thiết đúng lúc, vừa để bênh vực đảng Tin Lành nói chung khỏi những lời cáo buộc về tính không thể thông công trong chính nó, và [NEEDS REVIEW: cụm từ trong bản OCR bị hỏng — "mers ron with Maziſtracy"] với quan quyền, vừa để bênh vực chính họ nói riêng, cả chống lại những lời xuyên tạc từ bên ngoài, lẫn một số hiểu lầm có thể có từ bên trong: đến nỗi, mặc dù về phần riêng tôi, tôi đã xuất hiện ủng hộ, và vẫn còn nghiêng về, con đường Trưởng Lão của chính quyền Hội Thánh, nhưng tôi cho rằng thật hoàn toàn thích hợp cho việc in ấn.
 
 Charles Herle.
 
----
+CỦA MỘT SỐ MỤC SƯ
 
-## LỜI TRÌNH BÀY BIỆN HỘ ### CỦA MỘT SỐ MỤC SƯ ### Trước Đây Lưu Vong Tại Hà Lan: ### Nay Là Thành Viên Của Hội Đồng Thần Học. ### Kính cẩn đệ trình lên Quốc Hội Danh Dự.
+TRƯỚC ĐÂY LƯU VONG TẠI HÀ LAN:
+
+NAY LÀ THÀNH VIÊN CỦA HỘI ĐỒNG THẦN HỌC.
+
+KÍNH CẨN ĐỆ TRÌNH LÊN QUỐC HỘI DANH DỰ.
 
 Bởi Thomas Goodwin, Philip Nye, William Bridge, Jeremiah Burroughes, Sidrach Simpson, các tác giả của nó.
 
 In cho Robert Dawlman. M.DC.XLIII.
-
----
 
 Tai chúng ta gần đây đã đầy dẫy một tiếng ồn bất ngờ và những lời kêu la rối loạn (dù không được chỉ đích danh chống lại chúng ta nói riêng, nhưng theo cách hiểu của hầu hết mọi người thì phản ánh vào chúng ta), đến nỗi bị đánh thức bởi đó, chúng ta bị bắt buộc phải dự đoán trước một chút sự tự bày tỏ của mình, mà nếu không thì chúng ta đã quyết định để lại cho thời gian và kinh nghiệm về đường lối và tinh thần của chúng ta, những kẻ khám phá chân thật nhất và những thẩm phán chắc chắn nhất về mọi người và mọi hành động của họ.
 
@@ -85,9 +83,5 @@ Philip Nye,
 Tho: Goodwin, Jer: Burroughes, William Bridge, [NEEDS REVIEW: chữ ký trong bản OCR đọc "William MS" — xác định là William Bridge theo trang tựa] Sidrach Simpson.
 
 FINIS
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 4 [NEEDS REVIEW] — (1) Lời Nói Đầu của Herle: cụm từ trong bản OCR bị hỏng ("mers ron with Maziſtracy"); (2) cụm La-tinh về sự kết hợp các Hội Thánh ("Eccleſie orte") trong bản OCR bị hỏng; (3) ghi chú lề "Rise & growth of Secinin-" trong bản OCR bị hỏng; (4) chữ ký "William MS" trong bản OCR — xác định là William Bridge theo trang tựa. Các thuật ngữ cố định giữ đúng bảng mẫu (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). "Assembly of Divines" dịch "Hội Đồng Thần Học (Westminster)"; "Presbyteriall government" dịch "chính quyền Trưởng Lão"; "Congregationall government" dịch "chính quyền Hội Chúng"; "Brownists/Brownisme" dịch "phái Brown / chủ nghĩa Brown"; "Independency" dịch "Độc Lập"; "Excommunication" dịch "khai trừ"; "Non-communion" dịch "không thông công"; "Admonition" dịch "khuyên bảo"; "Ruling Elders" dịch "Trưởng lão cai trị"; "ordinances" dịch "thánh lễ"; "sanctuary" dịch "nơi thánh". Các trích dẫn Kinh Thánh dịch theo phong cách 1934 (1 Cô-rinh-tô 10:32; Giăng 7:17; Châm Ngôn 17:14; Hê-bơ-rơ 11:40).
 
 Mở trong trình đọc Về thư viện

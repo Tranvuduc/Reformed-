@@ -6,15 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Chiếc Khăn Lau Của Đấng Christ
+Nguyên tác: "Christ's Napkin: or, A Sermon Preached in Kirkcudbright, at the Communion, May 12, 1633" — Samuel Rutherford Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_christs-napkin-or-a-s_rutherford-samuel_1660/bim_early-english-books-1641-1700_christs-napkin-or-a-s_rutherford-samuel_1660_djvu.txt (ấn bản 1660, đầy đủ hơn) và https://archive.org/download/bim_early-english-books-1475-1640_christs-napkin-or-a-s_rutherford-samuel_1633/bim_early-english-books-1475-1640_christs-napkin-or-a-s_rutherford-samuel_1633_djvu.txt (ấn bản đầu 1633, để đối chiếu) (Ghi chú: bản dịch theo ấn bản 1660 — ấn bản đầy đủ nhất — đối chiếu với ấn bản đầu 1633. Cả hai bản OCR đều nhiễu nặng (tiếng Anh–Scotland thế kỷ 17, chữ ſ dài); những chỗ OCR không khôi phục được đã đánh dấu [NEEDS REVIEW]. Chỉ dịch bài giảng thật; trang tựa, lời quảng cáo và phần lặp lại không dịch.)
 
-**Nguyên tác:** "Christ's Napkin: or, A Sermon Preached in Kirkcudbright, at the Communion, May 12, 1633" — Samuel Rutherford **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_christs-napkin-or-a-s_rutherford-samuel_1660/bim_early-english-books-1641-1700_christs-napkin-or-a-s_rutherford-samuel_1660_djvu.txt (ấn bản 1660, đầy đủ hơn) và https://archive.org/download/bim_early-english-books-1475-1640_christs-napkin-or-a-s_rutherford-samuel_1633/bim_early-english-books-1475-1640_christs-napkin-or-a-s_rutherford-samuel_1633_djvu.txt (ấn bản đầu 1633, để đối chiếu) *(Ghi chú: bản dịch theo ấn bản 1660 — ấn bản đầy đủ nhất — đối chiếu với ấn bản đầu 1633. Cả hai bản OCR đều nhiễu nặng (tiếng Anh–Scotland thế kỷ 17, chữ ſ dài); những chỗ OCR không khôi phục được đã đánh dấu [NEEDS REVIEW]. Chỉ dịch bài giảng thật; trang tựa, lời quảng cáo và phần lặp lại không dịch.)*
-
----
-
-## CHIẾC KHĂN LAU CỦA ĐẤNG CHRIST
-
-### Hay là Bài Giảng Giảng Tại Kirkcudbright, Trong Lễ Tiệc Thánh, Ngày 12 Tháng 5 Năm 1633
+HAY LÀ BÀI GIẢNG GIẢNG TẠI KIRKCUDBRIGHT, TRONG LỄ TIỆC THÁNH, NGÀY 12 THÁNG 5 NĂM 1633
 
 Bởi hoa thơm của Hội Thánh, nổi tiếng, nổi tiếng là Ông Samuel Rutherford.
 
@@ -71,9 +65,5 @@ Thứ hai, nếu hắn thừa hưởng mọi sự, thì cả thế gian là củ
 Thứ ba, một [điều] thứ ba, và một nghi ngờ thứ ba nảy sinh: thấy họ ở dưới quá nhiều hoạn nạn trong đời nầy, và [Đấng Christ] không có sự yên nghỉ, họ [không có] mọi sự sao? Tôi trả lời: vậy mà [chúng ta] phải bảo vệ nó, và nói rằng, nếu họ có cơ nghiệp, thì họ có mọi sự; vì sự ngọt ngào của sự an ủi [trong] hoạn nạn là của họ.
 
 Một câu hỏi hay sự phản đối thứ tư: họ có [không có] vinh quang, ít nhất là trong đời nầy, và vì vậy họ không phải là những người thừa hưởng mọi sự sao? Tôi trả lời: [lời hứa] không được ứng nghiệm trong đời nầy; vậy mà khi một người đã gặt một hay hai bó lúa, chúng ta nói hắn đã nhận được mùa gặt và [lúa] mới. Cũng vậy, tín đồ nhận được niềm vui, hy vọng, đức tin, sự đảm bảo của [sự cứu rỗi], và những trái đầu mùa của Đức Thánh Linh, là [lúa] mới; ngay từ đầu, hắn nhận được mọi sự. 2. Có Đức Chúa Trời và Đấng Christ, họ có mọi sự; vì các ngươi thấy con tàu lớn kéo theo một chiếc thuyền nhỏ phía sau nó: cũng vậy, Đấng Christ vĩ đại [kéo theo mọi sự] phía sau Ngài: vì vậy, [các ngươi], có [Ngài], có mọi sự; họ có Đức Chúa Cha, và [Đức Chúa Con], Lời, sự sống và sự chết; A-men.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "Bairn" (tiếng Scotland) dịch "con trẻ/con cái"; "Kirk" dịch "Hội Thánh"; "toom purse" dịch "túi rỗng"; "infeftment" dịch "nhận quyền sở hữu"; "Tutour/Tutor" dịch "Người Giám Hộ". Các trích dẫn Kinh Thánh theo phong cách 1934. 17 điểm [NEEDS REVIEW] cho các đoạn OCR hỏng nặng không khôi phục chắc chắn được (gồm: đoạn chuyển tiếp sau "ngày hè dài lâu"; đoạn Giăng nói về viên ngọc; hai đoạn về "Xong rồi" bị hỏng; "Dycted Horſe"; "the back of My Hand to you"; đoạn OCR hỏng về "Feafter/fester"; đoạn trận chiến với thế gian; đoạn về giấy/mực và "Lays/Laws"; đoạn "plastered Humility, watered Copper"; đoạn "nước ấy là gì" và đoạn Đấng Christ đổ huyết; đoạn "các mục sư đều đã nói"; đoạn về sự thiếu thốn của các thánh đồ; đoạn Thi Thiên 89 bị hỏng).
 
 Mở trong trình đọc Về thư viện

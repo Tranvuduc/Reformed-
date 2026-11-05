@@ -1896,6 +1896,4 @@ Young, Arthur, 160.
 
 CAMBRIDGE . MASSACHUSETTS U . S . A
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Các trích dẫn Kinh Thánh theo văn phong Kinh Thánh 1934 (không đối chiếu từng chữ với bản in). - 10 điểm [NEEDS REVIEW]: lỗi OCR trong bản quét (ngày tháng, tên riêng La-tinh, số trang) — không suy đoán. - Tiêu đề chương VI thống nhất dùng "sự cưỡng chế" cho "coercion" (đã sửa các tiêu đề chạy trong khối 06). - Bản dịch AI, chưa được mục sư duyệt lại.
-
 Mở trong trình đọc Về thư viện

@@ -6,23 +6,17 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lòng Đạo Vui Vẻ
+Nguyên tác: "Chearful Piety, or, Religion without Gloom: Exemplified in Select Letters on the Most Important Truths of Christianity" — John Berridge (1792) Tác giả: John Berridge (1716–1793), Mục sư xứ Everton, Bedfordshire Nguồn: Ba ấn bản của cùng tác phẩm đã được đối chiếu: ấn bản đầu 1792 (#347), ấn bản 1794 (#487), ấn bản thứ tư 1797 (#428). Bản dịch này dịch một lần theo văn bản các lá thư của Berridge, dùng bản OCR của ấn bản 1797 (sạch nhất) làm nền và đối chiếu với ấn bản 1792 ở những chỗ OCR hỏng; những chỗ cả hai bản đều hỏng được đánh dấu [NEEDS REVIEW]. (Ghi chú: Lời Quảng Cáo lấy từ ấn bản đầu 1792 (ấn bản 1797 không in lại). Phần "Original Anecdotes of Mr. Berridge" (do J. Sutcliffe viết, kèm chú thích của G. Wright) in đầu các ấn bản 1794 và 1797 là tác phẩm của người khác, không phải của Berridge, nên không dịch. Tên "Ông _" trong Thư V để trống ngay trong bản in gốc (cả ba ấn bản đều như vậy). Chữ "ſ" (s dài) trong bản in thế kỷ 18 đã chuẩn hóa. Trang tựa mang châm ngôn: "Hãy nghiêm túc mà vui vẻ, và vui vẻ mà nghiêm túc. — Tôn giáo không bao giờ được định để làm cho niềm vui của chúng ta ít đi. — WATTS.")
 
-**Nguyên tác:** "Chearful Piety, or, Religion without Gloom: Exemplified in Select Letters on the Most Important Truths of Christianity" — John Berridge (1792) **Tác giả:** John Berridge (1716–1793), Mục sư xứ Everton, Bedfordshire **Nguồn:** Ba ấn bản của cùng tác phẩm đã được đối chiếu: ấn bản đầu 1792 (#347), ấn bản 1794 (#487), ấn bản thứ tư 1797 (#428). Bản dịch này dịch một lần theo văn bản các lá thư của Berridge, dùng bản OCR của ấn bản 1797 (sạch nhất) làm nền và đối chiếu với ấn bản 1792 ở những chỗ OCR hỏng; những chỗ cả hai bản đều hỏng được đánh dấu [NEEDS REVIEW]. *(Ghi chú: Lời Quảng Cáo lấy từ ấn bản đầu 1792 (ấn bản 1797 không in lại). Phần "Original Anecdotes of Mr. Berridge" (do J. Sutcliffe viết, kèm chú thích của G. Wright) in đầu các ấn bản 1794 và 1797 là tác phẩm của người khác, không phải của Berridge, nên không dịch. Tên "Ông ___" trong Thư V để trống ngay trong bản in gốc (cả ba ấn bản đều như vậy). Chữ "ſ" (s dài) trong bản in thế kỷ 18 đã chuẩn hóa. Trang tựa mang châm ngôn: "Hãy nghiêm túc mà vui vẻ, và vui vẻ mà nghiêm túc. — Tôn giáo không bao giờ được định để làm cho niềm vui của chúng ta ít đi. — WATTS.")*
-
----
-
-## LỜI QUẢNG CÁO
+LỜI QUẢNG CÁO
 
 Những lá thư sau đây, viết về các lẽ thật quan trọng và thú vị nhất của Cơ Đốc giáo, bằng một giọng văn sinh động và hấp dẫn, với một phong cách đặc biệt thích hợp để thu hút sự chú ý và thúc đẩy sự vui vẻ nghiêm túc, được hết lòng giới thiệu cho các Cơ Đốc nhân trẻ tuổi nói riêng đọc qua — những người muốn nghiêm túc nhưng không buồn rầu; sống động nhưng không nông cạn và phù phiếm; tôn giáo nhưng không u ám; và bước đi vui vẻ trong các đường lối của sự Khôn Ngoan, tin chắc rằng các đường lối của nàng là đường lối vui thích, và mọi nẻo của nàng đều là bình an.
 
 Ngày 1 tháng 6 năm 1792.
 
----
+THƯ I
 
-## THƯ I
-
-### GỬI MỤC SƯ B.
+GỬI MỤC SƯ B.
 
 Bạn Thân Mến,
 
@@ -60,11 +54,9 @@ Tôi là, Bạn Thân Mến, của bạn, v.v.
 
 * Một số Cơ Đốc nhân gặp nhiều chướng ngại vật trên đường đi hơn những người khác; nhưng tất cả đều có những thử thách, cám dỗ, và trở ngại của họ, thuộc loại này hay loại khác, hoặc từ tội lỗi, Sa-tan, và thế gian, hoặc từ tấm lòng lừa dối của chính họ; điều này nên thúc giục họ liên tục tỉnh thức và cầu nguyện, để họ có thể được giúp đỡ tiến bước bất chấp mọi sự chống đối, và cuối cùng ra đi như những người hơn cả kẻ chiến thắng nhờ Đấng đã yêu thương họ.
 
----
+THƯ II
 
-## THƯ II
-
-### GỬI MỤC SƯ B.
+GỬI MỤC SƯ B.
 
 Bạn Thân Mến,
 
@@ -84,7 +76,7 @@ Tôi biết mọi quyền năng của kẻ thù (dù ma quỷ có gọi chúng l
 
 Thật vậy, thưa Ngài, đây là một cuộc nổi loạn phi tự nhiên, khi ở trong vòng tay và liên kết với những kẻ thù không đội trời chung của chính mình, những kẻ đang nhắm vào máu của lòng tôi. Gì cơ, chiến đấu chống lại chính mình? Vâng, đúng là như vậy; xác thịt chống lại Thánh Linh; phần chưa được đổi mới chống lại phần đã được đổi mới; tội lỗi chống lại ân điển. Thật vậy tôi đã tuyên chiến nhân danh Vua của Thiên đàng, chống lại Hội đồng Quốc gia của Địa ngục (trong chừng mực nó liên minh với Sa-tan), và chống lại kẻ cầm quyền của tội lỗi; nhưng để kể cho bạn biết bao nhiêu lần tôi đã bị đánh bại và đánh lui, hay đã giải vây, hay bị thương, hay bị bắn cụt một chi, hay bị khoan sọ, hay bị bắt làm tù binh, tôi không biết; nhưng tôi không bao giờ có thể ký hiệp ước đình chiến, và tôi quyết tâm nhờ ân điển, nếu tôi chết, sẽ chết với gươm trong tay. Tôi phải thú nhận tôi đã nhiều lần hô hoán truy bắt những kẻ phản bội, và đôi khi hy vọng tôi đã bắt được một số chúng. Tôi đã giam chúng trong tù và trong xiềng xích, có lẽ trong nhiều tuần và nhiều tháng liền, và chúng đã được đưa ra trước nhiều tòa án, đặc biệt là tòa án của Lương tâm, nhưng tòa án đó thiên vị. Đã có những hối lộ đôi khi, và không đủ sự trừng phạt; nhưng những lúc khác đã có những lời quở trách rất nghiêm khắc, và Lương tâm đã kết án những tên đầy tớ phải chịu hình phạt chạy qua hàng quân với Kinh Hoàng, Nghi Ngờ, và Tuyệt Vọng. Các cáo trạng của Tòa án Lương tâm đã được đọc to; những tiếng chuông khủng khiếp đã vang lên, và xiềng xích của địa ngục đã kêu leng keng trong tai. Mặc dù đôi khi Lương tâm đã đưa ra phán quyết về phía Ân điển, những lúc khác đã có một lệnh bắt giữ phán quyết, và một trát triệu tập trước Chánh án Tòa Thượng thẩm của Thiên đàng; và mặc dù tên khốn không đáng được xét xử, vì đã bị đặt ngoài vòng pháp luật, nhưng, vì danh dự của ân điển và lòng thương xót của Đấng Chủ Tể, tên tội phạm được đưa ra trước vành móng ngựa; và mặc dù không có chỗ để nói gì khác ngoài Có tội! nhưng mọi lời bào chữa có thể đưa ra có lợi cho hắn đều được lắng nghe*; chúng đã bị lôi kéo bởi một số bộ tộc của địa ngục như thế nào — có lẽ bị ép buộc, như thể, chống lại phán quyết đã định của linh hồn; và có lẽ vì yếu đuối và tật nguyền, không thể tránh khỏi con đường, hay vì không biết tội ác, hay vì giảm nhẹ tội lỗi, hay vì bị cuốn vội vào phục vụ kẻ xâm lược, mà không có thời gian cho một suy nghĩ bình tĩnh. Và đôi khi linh hồn tội nghiệp đã giống như một nô lệ chèo thuyền, mong mỏi được giải thoát khỏi ách nô lệ của sự bại hoại, và kêu lên khỏi gánh nặng và xiềng xích của tội lỗi, và nói cùng người xưa: Xin đem linh hồn tôi ra khỏi ngục, để tôi ngợi khen danh Ngài†. Tòa án tối cao lắng nghe đặc biệt tiếng rên ăn năn; và Tổng Chưởng lý của Thiên đàng có đủ lòng trắc ẩn để đưa ra lời bào chữa thỉnh nguyện cho tên khốn có tội mà tay vẫn còn trên vành móng ngựa. Nhưng lệnh tử hình đã từ trời xuống để thi hành án cho Tội lỗi, và tất cả các thủ lĩnh của các bộ tộc địa ngục. Vậy hãy làm chết các chi thể của anh em ở nơi hạ giới, là tà dâm, v.v.‡; vậy nếu mắt hay tay con làm cho con phạm tội, hãy móc nó ra, chặt nó đi.
 
-* Xem Bunyan, *Thánh Chiến*.
+* Xem Bunyan, Thánh Chiến.
 
 † Thi Thiên 142:7. ‡ Cô-lô-se 3:5.
 
@@ -94,9 +86,7 @@ Một lệnh hoãn thi hành án cuối cùng đã được ban ra cho linh hồ
 
 * Thật hạnh phúc cho chúng ta! khi tội lỗi ngự trong lòng thúc đẩy chúng ta đến ngai ân điển, để cầu xin lòng thương xót tha thứ, và ân điển giúp đỡ trong mọi lúc cần; tin chắc rằng hơi thở cầu nguyện sẽ không bao giờ bị tiêu phí vô ích.
 
----
-
-## THƯ III
+THƯ III
 
 Bạn Thân Mến,
 
@@ -138,11 +128,9 @@ Tôi là, Bạn Thân Mến, chân thành và lặp lại,
 
 Của bạn, v.v.
 
----
+THƯ IV
 
-## THƯ IV
-
-### THƯ AN ỦI GỬI MỘT NGƯỜI BẠN CƠ ĐỐC ĐANG GẶP KHÓ KHĂN NẶNG NỀ
+THƯ AN ỦI GỬI MỘT NGƯỜI BẠN CƠ ĐỐC ĐANG GẶP KHÓ KHĂN NẶNG NỀ
 
 Bạn Thân Mến,
 
@@ -198,13 +186,11 @@ Tôi vẫn là, Bạn Thân Mến,
 
 Của bạn, v.v.
 
----
+THƯ V
 
-## THƯ V
+GỬI NỮ BÁ TƯỚC H—.
 
-### GỬI NỮ BÁ TƯỚC H—.
-
-Thứ Năm tuần trước tôi nhận được một hối phiếu do Ông ___ chuyển đến, nhưng do chính nữ bá tước trình bày, và nó ngay lập tức được đổi thành vải cho việc sử dụng của các giảng viên bình dân, và cho các quà tặng của họ. Tôi gửi đến bạn lời cảm ơn chân thành của tôi; Chúa đã hứa sẽ trả lại gấp trăm lần vào lòng bạn, và tôi tin bạn có thể tin cậy Ngài. Tôi ước bạn đã gửi kèm theo nó vài phút về đời sống đức tin của bạn; bạn có thể đã dạy tôi trong khi bạn đang mặc quần áo cho người khác; vì, thật vậy, tôi là một trong những người kỳ lạ tự xưng là thợ phụ mà không biết việc của mình, và chào bán nhiều hàng hóa quý giá mà không hiểu hết giá trị của chúng. Tôi có một Chủ, cũng là một người phi thường nhất, mà tôi được cho là quen biết rõ, vì Ngài thuê tôi làm người bán hàng rong cưỡi ngựa, để phục vụ gần bốn mươi cửa hàng trong vùng quê, bên cạnh giáo xứ của chính tôi; nhưng tôi biết về Chủ của tôi ít hơn nhiều so với tôi biết về hàng hóa của Ngài.
+Thứ Năm tuần trước tôi nhận được một hối phiếu do Ông _ chuyển đến, nhưng do chính nữ bá tước trình bày, và nó ngay lập tức được đổi thành vải cho việc sử dụng của các giảng viên bình dân, và cho các quà tặng của họ. Tôi gửi đến bạn lời cảm ơn chân thành của tôi; Chúa đã hứa sẽ trả lại gấp trăm lần vào lòng bạn, và tôi tin bạn có thể tin cậy Ngài. Tôi ước bạn đã gửi kèm theo nó vài phút về đời sống đức tin của bạn; bạn có thể đã dạy tôi trong khi bạn đang mặc quần áo cho người khác; vì, thật vậy, tôi là một trong những người kỳ lạ tự xưng là thợ phụ mà không biết việc của mình, và chào bán nhiều hàng hóa quý giá mà không hiểu hết giá trị của chúng. Tôi có một Chủ, cũng là một người phi thường nhất, mà tôi được cho là quen biết rõ, vì Ngài thuê tôi làm người bán hàng rong cưỡi ngựa, để phục vụ gần bốn mươi cửa hàng trong vùng quê, bên cạnh giáo xứ của chính tôi; nhưng tôi biết về Chủ của tôi ít hơn nhiều so với tôi biết về hàng hóa của Ngài.
 
 Thường thì lưỡi tôi mô tả Ngài là đẹp đẽ nhất trong loài người, trong khi lòng tôi vẽ Ngài như mụ đồng ở Ên-đô; và nhiều lời lớn lao tôi đã nói về uy tín của Ngài, phải, tôi thường nài xin người khác phó thác tất cả cho Ngài — trong khi chính lòng tôi đã sợ phó thác cho Ngài một đồng xu. Cũng không phải chỉ có vậy, thưa Bà; tôi dốt nát sâu sắc đến nỗi tôi không biết gì về chính mình như tôi nên biết*. Tôi đã thường nhầm lẫn kiêu ngạo trắng trợn với sự khiêm nhường sâu sắc, và những hoạt động của tình yêu bản thân với tình yêu của Chúa Giê-xu.
 
@@ -235,9 +221,5 @@ Giờ đây tôi đã được chuyển ra khỏi sách Châm Ngôn, mà tôi đ
 * Thi Thiên 42:1, 2.
 
 Nguyện Chúa củng cố sự hiệp nhất và tương giao của bạn với Chúa Bình An. A-men.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 3 [NEEDS REVIEW] markers trong bản dịch — (1) Thư I: từ "within" trong "thầy thuốc bên trong" bị hỏng trong cả hai bản OCR; (2) Thư III: số câu Khải Huyền 5:13 bị hỏng trong bản OCR ("v. 04"); (3) Thư IV: chú thích Thi Thiên 71:20 bị hỏng trong bản OCR ("Palm Ixxi. Te n"). Biến thể văn bản đáng chú ý: Thư I, "những lọ hàng" — ấn bản 1792 ghi "vials", ấn bản 1797 ghi "walks"; bản dịch theo ấn bản đầu 1792. Các quyết định khác: "Mr. ___" trong Thư V để trống ngay trong bản in gốc (cả ba ấn bản). Chú thích "Thi Thiên 4:4" (bản OCR ghi "iv. 14") xác định theo câu trích "hãy tương giao với lòng mình". Các chú thích Hê-bơ-rơ 12:1; 1 Phi-e-rơ 5:8; Rô-ma 7:23 trong Thư I lấy theo ấn bản 1792 (bản 1797 bị hỏng). "Sudden grin" trong Thư V và "old fool" lấy theo ấn bản 1792 (bản 1797 ghi "gw:" và "tool"). "Chearful" giữ dạng cổ "vui vẻ"; "gloom" dịch "u ám". Thuật ngữ cố định giữ đúng bảng mẫu (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). Các trích dẫn Kinh Thánh dịch theo phong cách 1934.
 
 Mở trong trình đọc Về thư viện

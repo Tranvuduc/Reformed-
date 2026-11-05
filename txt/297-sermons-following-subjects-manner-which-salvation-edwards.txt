@@ -1572,6 +1572,4 @@ Trang 8. Dòng cuối, thay "longer" đọc là "larger". Trang 9. Dòng 1, thay
 
 Một số lỗi in ít quan trọng hơn, đặc biệt là về chính tả, do khoảng cách giữa Người biên tập và xưởng in gây ra, được cố ý bỏ qua.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Nguồn là bản OCR của ấn bản Hartford 1780, chữ "s" dài (ſ) bị nhận dạng thành "f" (vd: "fermons" = sermons, "Jefus" = Jesus); đã đọc đúng theo ngữ cảnh xuyên suốt. - Một số chú thích Kinh Thánh in sai trong bản gốc được giữ nguyên như bản in (vd: Ê-xê-chi-ên 16:40; Sáng-thế Ký 12:10); những chỗ trích dẫn sai rõ ràng đã được hiệu đính theo nội dung trích dẫn (vd: "Isai. xvi. 14, 15" → Giê-rê-mi 16:14-15; "Mat. x. ii, 12" giữ nguyên Ma-thi-ơ 10:11, 12 như bản in). - Trong các trích dẫn Kinh Thánh theo văn phong 1934, "Chúa Giê-xu Christ" đôi khi xuất hiện dưới dạng "Đức Chúa Giê-xu Christ" cho hợp văn cổ. - Các trích dẫn Kinh Thánh được dịch theo văn phong Kinh Thánh 1934 (không đối chiếu từng chữ với bản in 1934). - Bản dịch do AI thực hiện, chưa được mục sư duyệt lại.
-
 Mở trong trình đọc Về thư viện
