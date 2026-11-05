@@ -6,13 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Phép Lạ Của Các Phép Lạ
+Nguyên tác: "A Miracle of Miracles, or Christ in our nature. Wherein is stated The Wonderfull Conception, Birth, and Life of Christ, who in the fulnesse of time was made man to satisfie divine Justice, and to make reconciliation between God and man. Preached To Ye honourable Society of Grayes Inne, by that godly and faithfull minister of Jesus Christ, Richard Sibbes. D.D." — Richard Sibbes (Luân Đôn, 1638) Tác giả: Richard Sibbes (1577–1635), mục sư Thanh Giáo, Giảng sư tại Gray's Inn Nguồn: https://archive.org/download/bim_early-english-books-1475-1640_a-miracle-of-miracles-o_sibbes-richard_1638/bim_early-english-books-1475-1640_a-miracle-of-miracles-o_sibbes-richard_1638_djvu.txt (Ghi chú: Bản OCR nguồn bị hỏng rất nặng xuyên suốt (chữ ſ dài, dòng vỡ, đoạn rác, bố cục hai cột bị xáo trộn, nhiều đoạn chỉ còn các mảnh rời rạc); những lỗi hiển nhiên đã được sửa lặng lẽ theo mạch văn; những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW]. Các ghi chú lề còn đọc được trong bản in được giữ lại dưới dạng tiêu đề nhỏ.) Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
 
-**Nguyên tác:** "A Miracle of Miracles, or Christ in our nature. Wherein is stated The Wonderfull Conception, Birth, and Life of Christ, who in the fulnesse of time was made man to satisfie divine Justice, and to make reconciliation between God and man. Preached To Ye honourable Society of Grayes Inne, by that godly and faithfull minister of Jesus Christ, Richard Sibbes. D.D." — Richard Sibbes (Luân Đôn, 1638) **Tác giả:** Richard Sibbes (1577–1635), mục sư Thanh Giáo, Giảng sư tại Gray's Inn **Nguồn:** https://archive.org/download/bim_early-english-books-1475-1640_a-miracle-of-miracles-o_sibbes-richard_1638/bim_early-english-books-1475-1640_a-miracle-of-miracles-o_sibbes-richard_1638_djvu.txt *(Ghi chú: Bản OCR nguồn bị hỏng rất nặng xuyên suốt (chữ ſ dài, dòng vỡ, đoạn rác, bố cục hai cột bị xáo trộn, nhiều đoạn chỉ còn các mảnh rời rạc); những lỗi hiển nhiên đã được sửa lặng lẽ theo mạch văn; những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW]. Các ghi chú lề còn đọc được trong bản in được giữ lại dưới dạng tiêu đề nhỏ.)* **Trạng thái duyệt:** AI, chưa duyệt (chưa được mục sư duyệt)
-
----
-
-## PHÉP LẠ CỦA CÁC PHÉP LẠ, HAY ĐẤNG CHRIST TRONG BẢN TÍNH CHÚNG TA
+PHÉP LẠ CỦA CÁC PHÉP LẠ, HAY ĐẤNG CHRIST TRONG BẢN TÍNH CHÚNG TA
 
 Trong đó trình bày Sự Thụ Thai, Sự Giáng Sinh, và Đời Sống Kỳ Diệu của Đấng Christ, là Đấng trong sự đầy đủ của thời gian đã trở nên người để thỏa mãn Sự Công Chính thiêng liêng, và để làm sự hòa giải giữa Đức Chúa Trời và loài người.
 
@@ -22,11 +18,9 @@ Trong đó trình bày Sự Thụ Thai, Sự Giáng Sinh, và Đời Sống Kỳ
 
 LONDON, In bởi E. G. [NEEDS REVIEW: chữ cái đầu của nhà in bị vỡ nát trong OCR; đọc là "E. G."] cho John Rothwell tại dấu hiệu Mặt Trời trong Sân Nhà thờ Phao-lô, 1638. [NEEDS REVIEW: năm in trong OCR chỉ còn "638"; khôi phục là 1638 theo danh mục.]
 
----
+BÀI GIẢNG THỨ NHẤT
 
-## BÀI GIẢNG THỨ NHẤT
-
-### Ê-sai 7:14
+Ê-SAI 7:14
 
 > "Vậy nên, chính Chúa sẽ ban một điềm cho các ngươi: nầy, một gái đồng trinh sẽ chịu thai, sanh một con trai, và đặt tên là Em-ma-nu-ên."
 
@@ -58,7 +52,7 @@ Và lại nữa, trong Kinh Thánh thường dùng những điềm từ những 
 
 Các ngươi có nhiều điều trong đức tin trong mấy lời này: như sự thụ thai của Đấng Christ bởi Đức Thánh Linh, sự Ngài được sanh bởi Trinh nữ, v.v. Chúng ta có ở đây bản tính loài người của Đấng Christ: một gái đồng trinh sẽ chịu thai và sanh một con trai. Và bản tính thiêng liêng của Đấng Christ: tên Ngài sẽ được gọi là Em-ma-nu-ên, cũng có nghĩa là chức vụ của Ngài, Đức Chúa Trời ở cùng chúng ta theo bản tính, và Đức Chúa Trời ở cùng chúng ta theo chức vụ, để làm cho Đức Chúa Trời và chúng ta nên một. Như vậy các ngươi có nhiều điểm thần học chứa đựng trong những lời này, mà chúng ta sẽ chỉ mở ra cho phù hợp với dịp này.
 
-### Nầy
+NẦY
 
 "Nầy." Đây là tiếng "Nầy" thường dùng, được đặt lên, là lời mở đầu thường dùng để đòi hỏi sự chú ý của chúng ta, trong mọi vấn đề về Đấng Christ. Và nó có một sức mạnh ba mặt ở đây. "Nầy," như là một việc được trình bày cho mắt của đức tin; Ngài vượt qua mọi khoảng thời gian giữa lời hứa và sự hoàn thành; vì đức tin không biết sự khác biệt của thời gian.
 
@@ -86,7 +80,7 @@ Và như vậy chúng ta cũng phải thụ thai Đấng Christ, và sanh Đấn
 
 Đây không phải là một lẽ thật chỉ tương tự, nhưng nó chảy ra một cách tự nhiên: bất cứ ai sẽ có được ích lợi của sự giáng sinh và thụ thai của Ngài, Đấng Christ sẽ sai vào lòng họ cùng một Thánh Linh đã thánh hóa khối vật chất mà từ đó Ngài được tạo nên, và như vậy tạo nên một khuynh hướng phù hợp với chính Ngài; Ngài đặt dấu ấn của chính Ngài trên lòng: như sự hiệp nhất của bản tính loài người của Ngài với thần tính là nguyên nhân của mọi ân điển khác của Ngài, thì Thánh Linh của Đức Chúa Trời hiệp nhất chúng ta với Đấng Christ là nguyên nhân của mọi ân điển trong chúng ta. Nếu chúng ta không có Thánh Linh của Đấng Christ, chúng ta không thuộc về Ngài.
 
-### Và sẽ gọi tên Ngài là Em-ma-nu-ên
+VÀ SẼ GỌI TÊN NGÀI LÀ EM-MA-NU-ÊN
 
 "Và sẽ gọi tên Ngài là Em-ma-nu-ên." Nhiều điều có thể được quan sát về cách đọc thông thường của các lời này. Một số đọc: "Ngài sẽ gọi tên Ngài là Em-ma-nu-ên," vì Ngài không có cha. Những người khác: "Tên Ngài sẽ được gọi là Em-ma-nu-ên"; nhưng chúng đều đáng nghi ngờ, vì vậy tôi bỏ qua chúng.
 
@@ -148,15 +142,13 @@ Những người có ý định nhận lễ Tiệc Thánh phải nghĩ: "Bây gi
 
 Và vì chúng ta không biết mình có thể sống ở đây bao lâu, một số người trong chúng ta bệnh tật và yếu đuối, và tất cả chúng ta đều có thể rơi vào nguy hiểm, chúng ta không biết sớm thế nào, hãy để đó là sự an ủi của chúng ta, rằng Đức Chúa Trời là Em-ma-nu-ên; Ngài đã lìa thiên đàng, và nhận lấy bản tính của chúng ta để đem chúng ta đến nơi Ngài ở. Khi thời gian tan rã đến, hãy xét: "Bây giờ tôi đang đi đến Ngài trên thiên đàng, là Đấng đã xuống từ đó, để đem tôi đến nơi ở đời đời của sự nghỉ ngơi và vinh hiển." Và há tôi sẽ không ao ước một sự thông công đời đời với Ngài sao? Đức Chúa Trời đã trở nên người, để Ngài có thể làm cho loài người giống Đức Chúa Trời, dự phần bản tính thiêng liêng của Ngài, trong ân điển ở đây, và vinh hiển sau này. Há tôi sẽ không đi đến Đấng đã chịu khổ nhiều như vậy vì tôi sao? Do đó Thánh Phao-lô nói: "Tôi muốn đi và ở với Đấng Christ, là điều rất tốt hơn," đó là hiệu quả của lời cầu nguyện của Đấng Christ: "Cha ơi, Con muốn Con ở đâu thì những kẻ Cha đã giao cho Con cũng ở đó với Con." Và trong điều này Đức Chúa Trời nghe Đấng Christ, rằng tất cả những kẻ tin nơi Ngài sẽ ở nơi Đấng Christ ở, như Ngài đã từ thiên đàng đến để ở nơi chúng ta ở. Hãy cất giữ những điều này trong lòng các ngươi, để các ngươi có thể nhận được ích lợi bởi chúng.
 
-**FINIS.**
+FINIS.
 
 [Errata: Trang 19, dòng 6, thay "wounded" bằng "warmed." — [NEEDS REVIEW: dòng Errata trong OCR bị vỡ nát; đã khôi phục theo mạch văn.]]
 
----
+BÀI GIẢNG THỨ HAI
 
-## BÀI GIẢNG THỨ HAI
-
-### Ê-sai 7:14
+Ê-SAI 7:14
 
 > "Nầy, một gái đồng trinh sẽ chịu thai và sanh một con trai, và sẽ gọi tên Ngài là Em-ma-nu-ên."
 
@@ -176,7 +168,7 @@ Hỡi anh em yêu dấu, thật là xấu hổ cho chúng ta, nếu chúng ta kh
 
 Nền tảng của lý lẽ này là: mọi lời hứa khác, bất cứ chúng là gì, đều là thứ yếu đối với lời hứa lớn, lời hứa nền tảng của Đấng Christ. Mọi lời hứa đều xuất phát từ một giao ước, giao ước được lập trong Đức Chúa Trời-loài người. Bây giờ giao ước đến từ tình yêu, và tình yêu được lập trong thân vị đầu tiên được yêu, và là nền tảng của mọi tình yêu. Do đó, nếu Đức Chúa Trời ban Đấng Christ, nền tảng của tình yêu, và vì tình yêu mà lập một giao ước, và như những nhánh của giao ước mà ban nhiều lời hứa: thì khi đã làm trọn lời hứa chính của mọi lời hứa (Chúa Giê-xu Christ), há Ngài sẽ không làm trọn tất cả những lời hứa còn lại sao? Và do đó chúng ta nên thường xuyên có trong lòng và tư tưởng của mình sự hoàn thành của mọi lời hứa trong Đấng Christ, và từ đó tận dụng sự trông đợi mọi lời hứa thấp kém hơn. Vì chúng xuất phát từ tình yêu đó của Đức Chúa Trời trong Đấng Christ, là tình yêu đã được tỏ ra đầy đủ rồi.
 
-### Nầy
+NẦY
 
 "Nầy," là một từ thường được đặt trước mọi đoạn về Đấng Christ, sự Giáng Sinh của Ngài, sự Phục Sinh của Ngài, sự Đến Lại của Ngài. Và có lý do lớn. Vì chúng ta thường nhìn với sự háo hức những gì? Những việc hiếm có, những việc mới mẻ, những việc lớn lao, đặc biệt nếu chúng lớn lao đến mức đáng ngưỡng mộ, và liên quan đến chúng ta một cách gần gũi, những việc hữu ích, đặc biệt nếu chúng hiện diện. Và có việc gì hiếm hơn là một trinh nữ sẽ chịu thai và sanh một con trai, hơn là sự nhập thể của Đấng Christ? Chưa bao giờ có việc như vậy trong bản tính, chưa bao giờ có việc như vậy trên thiên đàng hay trên đất, rằng Đức Chúa Trời và loài người sẽ ở trong một thân vị. Đó là một việc hiếm có, một việc mới mẻ, nó lớn lao đến mức kỳ diệu, và do đó trong Ê-sai 9:6, tên Ngài sẽ được gọi là Lạ Lùng, như trong nhiều chỗ khác.
 
@@ -184,7 +176,7 @@ Và rồi tất cả là vì chúng ta. "Vì có một con trẻ sanh cho chúng
 
 Nếu bao giờ có việc gì lớn lao, hoặc sẽ lớn lao, từ buổi sáng thế đến đời đời, thì đây là việc lớn lao, đây là việc kỳ diệu. Và nếu có việc gì trên thế gian thích hợp cho chúng ta, nếu có việc gì làm cho linh hồn được tôn cao, và nâng linh hồn lên trên chính nó, thì đó là đối tượng kỳ diệu này. Chúng ta vì sự yếu đuối mà ngạc nhiên về những việc nghèo nàn, như các môn đồ ngạc nhiên về sự xây dựng của Đền Thờ: "Những đá này là thể nào!" Chúng ta ngạc nhiên về sự lớn lao của dòng dõi và địa vị, nhưng than ôi, điều gì thích hợp cho linh hồn, vốn là một vật lớn lao và có khả năng? Đây là điều vượt quá chính sự ngưỡng mộ: "Nầy, một trinh nữ sẽ chịu thai một con trai." Và do đó hãy chú ý đến vấn đề lớn đang bàn. Tôi cho là tốt khi thêm điều này vào những gì tôi đã trình bày trước đây trong điểm đặc biệt đó.
 
-### Một trinh nữ sẽ chịu thai một con trai, v.v.
+MỘT TRINH NỮ SẼ CHỊU THAI MỘT CON TRAI, V.V.
 
 Các ngươi không cần đi xa hơn câu Kinh Thánh để tìm những phép lạ. Vì ở đây có hai điều lớn lao: một trinh nữ, một người mẹ, và Đức Chúa Trời-loài người. Vì vậy trong các lời này, các ngươi có sự thụ thai và sự giáng sinh của Đấng Christ, bản tính loài người của Ngài, bản tính thiêng liêng của Ngài, và chức vụ của Ngài để hòa giải Đức Chúa Trời và chúng ta làm một. Như Ngài là Đức Chúa Trời trong bản tính chúng ta (Ngài nhận bản tính của chúng ta vào sự thông công của thân vị), thì chức vụ của Ngài là đem Đức Chúa Trời và loài người lại với nhau; hai bản tính của Ngài là để chuẩn bị Ngài cho chức vụ của Ngài. Đức Chúa Trời và loài người ở những điều khoản xa cách nhau như có thể, ngoại trừ giữa ma quỷ và Đức Chúa Trời. Và do đó Đức Chúa Trời-loài người trong một thân vị phải thực hiện chức vụ lớn lao, đem những kẻ ở trong những điều khoản đối nghịch như vậy lại với nhau.
 
@@ -208,7 +200,7 @@ Nhưng bỏ qua sự hiện hữu của Ngài trong thân vị thứ hai, và ph
 
 Tại sao Đấng Christ phải là loài người, chúng ta đã nghe rồi: Ngài đã trở nên người để phù hợp với chúng ta trong bản tính của chúng ta, và để đồng cảm trong mọi hoạn nạn của chúng ta.
 
-### Và sẽ gọi tên Ngài là Em-ma-nu-ên
+VÀ SẼ GỌI TÊN NGÀI LÀ EM-MA-NU-ÊN
 
 "Và sẽ gọi tên Ngài là Em-ma-nu-ên." Ngài sẽ gọi tên Ngài là Em-ma-nu-ên, Tân Ước nói; nghĩa là, Ngài sẽ thật sự là Em-ma-nu-ên, và sẽ được biết là, và được công bố là như vậy. Bất cứ điều gì có một danh đều hiển nhiên. Đấng Christ đã có trước khi Ngài nhận lấy xác thịt của chúng ta; nhưng Ngài đã không được gọi là Em-ma-nu-ên; điều đó đã không tỏ ra công khai rằng Ngài là Đức Chúa Trời trong bản tính chúng ta; Ngài đã không được thụ thai trong lòng của một trinh nữ. Những người trước Đấng Christ biết rằng Ngài sẽ đến, nhưng khi Ngài được thụ thai và sanh ra, thì Ngài được gọi là Em-ma-nu-ên.
 
@@ -270,16 +262,6 @@ Chúng ta có nhiều kẻ chống lại chúng ta: ma quỷ chống lại chún
 
 Hãy đáp lại mọi sự bằng điều này: "Nếu Đức Chúa Trời ở cùng chúng ta, ai có thể nghịch cùng chúng ta?" Nếu có ai nghịch cùng chúng ta, hãy nêu tên chúng; nếu không, hãy thỏa mãn. Và do đó, dù sống đến, dù chết đến, Đấng Christ là Đấng Bảo Lãnh của chúng ta; Ngài cất giữ bụi đất của chúng ta, giữ gìn tro tàn của chúng ta trong mồ mả, và Đấng Christ sẽ đánh mất bất cứ chi thể nào sao? Chớ sợ đi xuống Ê-díp-tô, vì Ta sẽ đem ngươi trở lại. [NEEDS REVIEW: câu "Chớ sợ đi xuống Ê-díp-tô" trong OCR bị vỡ nát; đã khôi phục theo Sáng Thế Ký 46:3–4.] Thánh Linh của Đức Chúa Trời sẽ trông nom bụi đất của chúng ta, và đem chúng ta lên thiên đàng. Do đó, chớ sợ điều gì; Đức Chúa Trời sẽ ở cùng chúng ta trong sự sống và sự chết, thậm chí đời đời; và chúng ta sẽ mãi mãi ở cùng Chúa, như Sứ đồ nói trong I Tê-sa-lô-ni-ca. Và đó là kết quả của mọi điều Em-ma-nu-ên đã làm: Đấng Christ đã nên một trong bản tính của chúng ta, để Ngài có thể đem Đức Chúa Trời và chúng ta vào ân huệ, để chúng ta có thể mãi mãi ở cùng Ngài trên thiên đàng, để chúng ta có thể mãi mãi ở cùng Chúa, đó là sự hoàn thành của mọi lời hứa.
 
-**FINIS.**
-
----
-
-## TRANSLATION STATUS
-
-- Bản dịch đầy đủ: hai Bài Giảng (Bài Giảng Thứ Nhất và Bài Giảng Thứ Hai), cả hai đều giảng trên Ê-sai 7:14, từ ấn bản Luân Đôn 1638 (in bởi E. G. cho John Rothwell). Bản scan kết thúc với FINIS sau Bài Giảng Thứ Hai — tác phẩm hoàn chỉnh, không phải đoạn trích. - Nội dung đã dịch: toàn bộ trang bìa (kèm [NEEDS REVIEW] cho chữ cái đầu nhà in và năm in, bị vỡ trong OCR), cả hai Bài Giảng, dòng Errata, và các ghi chú lề còn đọc được (giữ dưới dạng tiêu đề nhỏ). Đã bỏ: rác OCR, đầu trang chạy (running headers), số trang, và dòng "Early English Books" / boilerplate của archive.org. - Bản OCR nguồn bị hỏng rất nặng xuyên suốt: chữ ſ dài, dòng vỡ, bố cục hai cột bị xáo trộn (nhiều đoạn bị đảo thứ tự), và nhiều câu chỉ còn các mảnh rời rạc. Những lỗi hiển nhiên đã được sửa theo mạch văn và Kinh Thánh; những chỗ khôi phục không chắc chắn được đánh dấu [NEEDS REVIEW] ngay tại chỗ (xem TERMINOLOGY ISSUES). Lỗi chính tả trong bản in gốc (ví dụ "Tredwell" ở bài khác) không áp dụng ở đây. - Việc xác minh chính xác từng câu chữ của Sibbes cần đối chiếu với một bản in sạch (ví dụ EEBO-TCP của cùng ấn bản 1638) khi có thể; bản dịch này trung thành theo mạch văn và thần học của Sibbes, không thêm ý kiến thần học riêng. - Không có nội dung của tác giả khác đi kèm; không có phần quảng cáo nhà sách. - Thuật ngữ: theo bảng thuật ngữ cố định của dự án (xem TERMINOLOGY ISSUES). Các câu Kinh Thánh trích dẫn theo lối Việt ngữ 1934 (bản dịch cũ); địa danh và tên sách Kinh Thánh đã được bản địa hóa (Ê-sai, Rô-ma, Giăng, Thi Thiên, Phi-líp, Hê-bơ-rơ, v.v.).
-
-## TERMINOLOGY ISSUES
-
-- Số lượng [NEEDS REVIEW]: 15 dấu trong thân bản dịch (tổng cộng 21 lần xuất hiện của cụm từ trong file, tính cả ghi chú tiêu đề và phần TRANSLATION STATUS này, theo `grep -o "NEEDS REVIEW"`). - Các vấn đề [NEEDS REVIEW]: (1) "Phil 2.5" trong OCR vs. câu trích thật là Phi-líp 2:7; (2) chữ cái đầu nhà in "E. G." bị vỡ; (3) năm in "638" → khôi phục 1638; (4) đoạn về A-cha lập bàn thờ theo kiểu Đa-mách; (5) "cây sậy Ê-díp-tô"; (6) đoạn về Ma-na / Thiên sứ của giao ước / Vầng Đá; (7) thời điểm trinh nữ thụ thai; (8) câu "Deus nobiscum" vs. "Sancta Maria"; (9) đoạn về dấu hiệu Em-ma-nu-ên của tôi; (10) "Rủa sả Mê-rô" (Các Quan Xét 5:23); (11) dòng Errata; (12) đoạn về việc từ chối Thánh Lễ và sự rao giảng; (13) đoạn về Sa-ra và Y-sác; (14) đoạn về sự đồng ý giữa A-đam và Đức Chúa Trời; (15) câu "Chớ sợ đi xuống Ê-díp-tô" (Sáng Thế Ký 46:3–4). - Thuật ngữ cố định áp dụng: God = Đức Chúa Trời; Jesus Christ = Chúa Giê-xu Christ; Holy Spirit = Đức Thánh Linh; gospel = Phúc Âm; grace = ân điển; faith = đức tin; justification = sự xưng công chính; sanctification = sự nên thánh; redemption = sự cứu chuộc; atonement = sự chuộc tội; covenant = giao ước; election = sự tuyển chọn; predestination = sự tiền định; salvation = sự cứu rỗi; church = Hội Thánh; Scripture = Kinh Thánh. - "Emmanuel" giữ dạng "Em-ma-nu-ên" theo Việt ngữ 1934. "Days-man" (Gióp 9:33) dịch là "Đấng Phân Xử" kèm giải thích "thân vị trung gian". "Communication of properties" giữ nguyên thuật ngữ thần học "Sự Thông Công Của Các Thuộc Tính". "Mediatorship" / "Mediators" dịch là "sự trung bảo" / "Đấng Trung Bảo". "Grayes Inne" chuẩn hóa thành "Gray's Inn" trong phần Nguyên tác; trong thân bài giữ "Gray's Inn".
+FINIS.
 
 Mở trong trình đọc Về thư viện

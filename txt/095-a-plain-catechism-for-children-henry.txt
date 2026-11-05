@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Giáo Lý Vấn Đáp Đơn Giản Cho Trẻ Em
-
-**Nguyên tác:** "A Plain Catechism for Children: To which is added, A short Catechism for the Instruction of those that are to be admitted to the Lord's Supper" — Matthew Henry (1741) **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-plain-catechism-for-ch_henry-matthew_1741/bim_eighteenth-century_a-plain-catechism-for-ch_henry-matthew_1741_djvu.txt *(Ghi chú: nguồn là file OCR của ấn bản 1741 (ấn bản thứ tám); tác phẩm thật gồm câu châm ngôn trên trang tựa (Ê-sai 28:10), lời tựa "Gửi Độc Giả", giáo lý vấn đáp năm phần, và bài giáo lý vấn đáp ngắn cho những người sẽ được nhận dự Tiệc Thánh của Chúa. Đã loại bỏ chi tiết nhà in, chữ ký đầu sách, và trang quảng cáo sách của nhà xuất bản ở cuối nguồn.)*
-
----
+Nguyên tác: "A Plain Catechism for Children: To which is added, A short Catechism for the Instruction of those that are to be admitted to the Lord's Supper" — Matthew Henry (1741) Nguồn: https://archive.org/download/bim_eighteenth-century_a-plain-catechism-for-ch_henry-matthew_1741/bim_eighteenth-century_a-plain-catechism-for-ch_henry-matthew_1741_djvu.txt (Ghi chú: nguồn là file OCR của ấn bản 1741 (ấn bản thứ tám); tác phẩm thật gồm câu châm ngôn trên trang tựa (Ê-sai 28:10), lời tựa "Gửi Độc Giả", giáo lý vấn đáp năm phần, và bài giáo lý vấn đáp ngắn cho những người sẽ được nhận dự Tiệc Thánh của Chúa. Đã loại bỏ chi tiết nhà in, chữ ký đầu sách, và trang quảng cáo sách của nhà xuất bản ở cuối nguồn.)
 
 Ê-SAI XXVIII. 10. [NEEDS REVIEW: bản OCR chỉ còn mảnh "Precept — be upon —, Line upon Line"; dịch theo câu này trong bản KJV] — "Vì giềng mối thêm trên giềng mối, giềng mối thêm trên giềng mối; hàng thêm trên hàng, hàng thêm trên hàng."
 
@@ -233,7 +229,5 @@ H. 29. Sự khốn khổ của những kẻ làm vậy là gì? Đ. Họ ăn u�
 H. 30. Ai sẽ được chào đón dự lễ này? Đ. Những người bởi đức tin hết lòng thuận phục Giao Ước Ân Điển, và tôn vinh Đấng Cứu Chuộc mình, bằng cách rao truyền sự chết của Ngài.
 
 H. 31. Những người biết tận dụng thánh lễ này nhận được ích lợi gì bởi đó? Đ. Đức tin của họ bởi đó được thêm mạnh mẽ, những quyết tâm của họ được vững chắc, những sự yên ủi của họ được gia tăng, và họ được sự bảo chứng của bữa tiệc đời đời.
-
---- TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "Mediator" → "Đấng Trung Bảo" (theo 1 Ti-mô-thê 2:5, Kinh Thánh 1934); "Saviour" → "Cứu Chúa" (không có trong bảng thuật ngữ cố định); "Sanctifier" → "Đấng Thánh Hóa"; "the blessed Hope" → "sự trông cậy phước hạnh" (Tít 2:13); "Earnest of the everlasting Feast" → "sự bảo chứng của bữa tiệc đời đời"; "the Assemblies Catechism" → "Giáo Lý Vấn Đáp của Hội Đồng" (giữ nguyên chữ gốc, không thêm "Westminster").
 
 Mở trong trình đọc Về thư viện

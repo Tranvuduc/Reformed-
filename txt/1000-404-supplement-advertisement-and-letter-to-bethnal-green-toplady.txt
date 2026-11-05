@@ -6,13 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lời Quảng Cáo Và Thư Bethnal Green
+Nguyên tác: Hai phần mới trong ấn bản thứ tư (Fourth Edition) của "A Caveat Against Unsound Doctrines" — Augustus Toplady (Perth: in bởi R. Morison Junior, cho R. Morison & Son, Perth; J. Guthrie, Edinburgh; và Vernor & Hood, Luân Đôn, 1793): (1) "ADVERTISEMENT" (Lời Quảng Cáo, đề ngày Luân Đôn, 3 tháng 7 năm 1770); (2) "TO THE Parishioners of St. Matthew, Bethnal Green" (Thư gửi các giáo dân của St. Matthew, Bethnal Green, đề ngày 31 tháng 10 năm 1770, ký Augustus Toplady) Tác giả: Augustus Toplady (1740–1778), mục sư Anh, tác giả thánh ca "Rock of Ages" Nguồn: https://archive.org/download/bim_eighteenth-century_a-caveat-against-unsound_toplady-augustus_1793/bim_eighteenth-century_a-caveat-against-unsound_toplady-augustus_1793_djvu.txt (Ghi chú: Bài giảng chính "A Caveat Against Unsound Doctrines" đã được dịch toàn văn tại #380 (1000-380-a-caveat-against-unsound-doctrines-toplady.md, 15.959 chữ Việt, từ ấn bản 1770) — ấn bản 1793 này là cùng một tác phẩm, KHÔNG dịch lại. File này chỉ dịch HAI phần mới trong ấn bản 1793 mà bản dịch #380 chưa có: Lời Quảng Cáo của chính Toplady ở đầu sách, và bức thư gửi các giáo dân Bethnal Green ở cuối sách, viết về vị phụ tá (curate) tên Smith đã rao giảng chống lại bài giảng này. Theo quy ước của dự án, khi một ấn bản sau thêm phần mới đáng kể (lời tựa / phần bổ sung), chỉ dịch phần mới đó thành file bổ sung. Bản OCR nguồn bị hỏng nhiều chỗ (chữ ſ dài, dòng vỡ, hai cột bị trộn lẫn, thứ tự câu bị xáo trộn); những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW], không đoán mò.) Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
 
-**Nguyên tác:** Hai phần mới trong ấn bản thứ tư (Fourth Edition) của "A Caveat Against Unsound Doctrines" — Augustus Toplady (Perth: in bởi R. Morison Junior, cho R. Morison & Son, Perth; J. Guthrie, Edinburgh; và Vernor & Hood, Luân Đôn, 1793): (1) "ADVERTISEMENT" (Lời Quảng Cáo, đề ngày Luân Đôn, 3 tháng 7 năm 1770); (2) "TO THE Parishioners of St. Matthew, Bethnal Green" (Thư gửi các giáo dân của St. Matthew, Bethnal Green, đề ngày 31 tháng 10 năm 1770, ký Augustus Toplady) **Tác giả:** Augustus Toplady (1740–1778), mục sư Anh, tác giả thánh ca "Rock of Ages" **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-caveat-against-unsound_toplady-augustus_1793/bim_eighteenth-century_a-caveat-against-unsound_toplady-augustus_1793_djvu.txt *(Ghi chú: Bài giảng chính "A Caveat Against Unsound Doctrines" đã được dịch toàn văn tại #380 (1000-380-a-caveat-against-unsound-doctrines-toplady.md, 15.959 chữ Việt, từ ấn bản 1770) — ấn bản 1793 này là cùng một tác phẩm, KHÔNG dịch lại. File này chỉ dịch HAI phần mới trong ấn bản 1793 mà bản dịch #380 chưa có: Lời Quảng Cáo của chính Toplady ở đầu sách, và bức thư gửi các giáo dân Bethnal Green ở cuối sách, viết về vị phụ tá (curate) tên Smith đã rao giảng chống lại bài giảng này. Theo quy ước của dự án, khi một ấn bản sau thêm phần mới đáng kể (lời tựa / phần bổ sung), chỉ dịch phần mới đó thành file bổ sung. Bản OCR nguồn bị hỏng nhiều chỗ (chữ ſ dài, dòng vỡ, hai cột bị trộn lẫn, thứ tự câu bị xáo trộn); những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW], không đoán mò.)* **Trạng thái duyệt:** AI, chưa duyệt (chưa được mục sư duyệt)
-
----
-
-## Lời Quảng Cáo (Advertisement)
+LỜI QUẢNG CÁO (ADVERTISEMENT)
 
 Bài Giảng sau đây lần đầu tiên được giảng tại St. Matthew, Bethnal Green, ngày 22 tháng 4. Một số người, khi ấy có mặt, mà sự phán đoán và yêu cầu của họ tôi hết sức tôn trọng, đã mong tôi khôi phục lại càng nhiều càng tốt bài giảng đó, vào Chúa Nhật tiếp theo, tại St. Ann; với mục đích để nó được ghi tốc ký, và xuất bản.
 
@@ -20,9 +16,7 @@ Sự mất mát người thân gần nhất của tôi, ngay sau khi bài giản
 
 Luân Đôn, ngày 3 tháng 7 năm 1770.
 
----
-
-## Gửi Các Giáo Dân Của St. Matthew, Bethnal Green
+GỬI CÁC GIÁO DÂN CỦA ST. MATTHEW, BETHNAL GREEN
 
 Vị phụ tá của quý vị đã cho rằng nên xuất bản một Bài Giảng, mà ông ta đã giảng, để chống lại Bài Giảng Này, vào Chúa Nhật sau khi tôi có vinh hạnh giảng nó trước quý vị [NEEDS REVIEW: tiêu đề thư trong OCR bị vỡ nát; được khôi phục là "Gửi Các Giáo Dân Của St. Matthew, Bethnal Green" theo nội dung.].
 
@@ -43,15 +37,5 @@ Tôi là, với nhiều sự kính trọng và ... Người Đầy Tớ Biết �
 AUGUSTUS TOPLADY.
 
 Ngày 31 tháng 10 năm 1770 [NEEDS REVIEW: ngày trong OCR ghi "31, #790"; đã khôi phục là 31 tháng 10 năm 1770 theo bối cảnh.].
-
----
-
-## TRANSLATION STATUS
-
-Bản dịch phần bổ sung cho #380: chỉ dịch HAI phần mới trong ấn bản thứ tư (Perth, 1793) của "A Caveat Against Unsound Doctrines" mà bản dịch #380 (từ ấn bản 1770) chưa có — (1) Lời Quảng Cáo của Toplady (Luân Đôn, 3/7/1770), giải thích bài giảng được giảng lần đầu tại St. Matthew, Bethnal Green ngày 22/4, rồi khôi phục lại tại St. Ann ngày 29/4 để ghi tốc ký và xuất bản, và sự chậm trễ xuất bản do cái chết của người thân gần nhất; (2) Thư gửi các giáo dân của St. Matthew, Bethnal Green (31/10/1770), đáp lại vị phụ tá Haddon Smith đã xuất bản một bài giảng chống lại "Caveat". Bài giảng chính KHÔNG dịch lại — đã dịch toàn văn tại #380. Nguồn: bản OCR archive.org của ấn bản 1793 (~19.163 chữ Anh theo `wc -w` cho toàn bộ scan, bao gồm bài giảng chính đã dịch tại #380; hai phần mới này chỉ khoảng 1.100 chữ Anh). Không tóm tắt, không lược bỏ, không thêm ý kiến thần học. Các ký tự rác, số trang in, tiêu đề chạy trang và dấu trang trong OCR đã bỏ. Những chỗ OCR bị vỡ nát được khôi phục theo mạch văn và đánh dấu [NEEDS REVIEW]; những đoạn mất hẳn (câu La-tinh kết thúc thư, một tính từ mô tả ông Smith) được ghi rõ là mất, không bịa đặt. Đây là phần bổ sung cho một tác phẩm đã dịch, không phải tác phẩm độc lập, và không trùng với bất kỳ bản dịch nào khác trong thư viện.
-
-## TERMINOLOGY ISSUES
-
-God → Đức Chúa Trời; Jesus Christ → Chúa Giê-xu Christ; Holy Spirit → Đức Thánh Linh; gospel → Phúc Âm; grace → ân điển; faith → đức tin; church → Hội Thánh; Scripture → Kinh Thánh; sermon → bài giảng; curate → phụ tá (phụ tá mục sư); parishioners → các giáo dân; scurrility → lời lẽ thô tục; vacuity of argument → sự trống rỗng của lập luận; enter the Lists → bước vào đấu trường (ẩn dụ đấu thương thời trung cổ); counterballasted → được cân bằng lại (ẩn dụ hàng hải: dằn tải); gratuity → thù lao; render Evil for Evil, or Railing for Railing → lấy ác trả ác, hay lấy lời nhiếc móc trả lời nhiếc móc (1 Phi-e-rơ 3:9, theo văn phong Việt ngữ 1934); the Mind which was in Christ Jesus → tâm trí đã ở trong Đấng Christ Giê-xu (Phi-líp 2:5); give him Rope → tạm thời buông tha ông ta (thành ngữ Anh: cho thêm dây); hook him, and pull him in → móc ông ta lên, và kéo ông ta vào (ẩn dụ câu cá). Các trích dẫn Kinh Thánh theo văn phong Việt ngữ 1934 (1 Phi-e-rơ 3:9; Phi-líp 2:5; 1 Các Vua 12:11). [NEEDS REVIEW: thứ tự câu trong Lời Quảng Cáo bị xáo trộn trong OCR; đã sắp xếp lại theo mạch văn.] [NEEDS REVIEW: tiêu đề thư trong OCR bị vỡ nát; được khôi phục là "Gửi Các Giáo Dân Của St. Matthew, Bethnal Green" theo nội dung.] [NEEDS REVIEW: động từ "diễn đạt mình" trong thư — từ gốc trong OCR bị mất ("Ines himſelf").] [NEEDS REVIEW: động từ "bước lên bục giảng" trong thư — từ gốc trong OCR bị mất ("Anden in Your Pulpit").] [NEEDS REVIEW: cụm "cuộc tranh luận không cân sức" — OCR bị vỡ nát ("uncquz! Coorcit").] [NEEDS REVIEW: đoạn "chỉ mới dùng roi với ông ta, trong khi ông ta đáng bị bọ cạp" — OCR bị vỡ nát nặng; khôi phục theo ẩn dụ 1 Các Vua 12:11.] [NEEDS REVIEW: một tính từ mô tả ông Smith trong OCR bị mất hoàn toàn; không dịch phần mất.] [NEEDS REVIEW: câu La-tinh kết thúc thư trong OCR bị vỡ nát hoàn toàn; không dịch phần mất.] [NEEDS REVIEW: ngày thư "31 tháng 10 năm 1770" — OCR ghi "31, #790"; khôi phục theo bối cảnh.]
 
 Mở trong trình đọc Về thư viện

@@ -6,13 +6,11 @@ Bản dịch do AI (Gemini) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# 118-thu-gui-muc-su-thomas-church.md
+118-THU-GUI-MUC-SU-THOMAS-CHURCH.MD
 
 Thư Gửi Mục Sư Thomas Church Về Chân Lý Phúc Âm
 
-**Tác giả:** George Whitefield (1744) **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-letter-to-the-reverend_whitefield-george_1744_0/bim_eighteenth-century_a-letter-to-the-reverend_whitefield-george_1744_0_djvu.txt
-
----
+Tác giả: George Whitefield (1744) Nguồn: https://archive.org/download/bim_eighteenth-century_a-letter-to-the-reverend_whitefield-george_1744_0/bim_eighteenth-century_a-letter-to-the-reverend_whitefield-george_1744_0_djvu.txt
 
 Kính gửi Mục sư Thomas Church,
 
@@ -29,7 +27,5 @@ Thứ ba, về sự hiệp một và trật tự trong Hội Thánh. Mục đíc
 Tôi cầu nguyện rằng Đức Chúa Trời sẽ tiếp tục soi sáng và ban ân điển cho ngài cùng toàn thể Hội Thánh, để chúng ta cùng nhau đứng vững trong sự thật của Phúc Âm.
 
 Tôi xin chân thành là người tôi tớ của ngài trong Chúa Giê-xu Christ, George Whitefield.
-
---- TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none
 
 Mở trong trình đọc Về thư viện

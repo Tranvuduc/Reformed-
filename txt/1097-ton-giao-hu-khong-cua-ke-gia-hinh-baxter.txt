@@ -686,8 +686,4 @@ Nếu các bạn nói, Những kẻ bị quăng quật bởi những sự chịu
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: 1. "visible Catholick Church" (trong Tín điều) được dịch là "Hội Thánh phổ thông hữu hình" — chữ "Catholic" ở đây nghĩa là phổ thông/hoàn vũ, không phải Công giáo La Mã; đã ghi chú trong ngoặc để tránh nhầm lẫn. 2. "Popery / Papists" được dịch là "Giáo hội La Mã / người Công giáo La Mã" — đây là thuật ngữ luận chiến Cải Chánh thế kỷ 17 của Baxter, giữ nguyên giọng văn gốc. 3. "Precisian / Zealot / Puritan" giữ nguyên dạng gốc (không Việt hóa) vì là các biệt danh lịch sử đặc thù. 4. Các địa chỉ Kinh Thánh bị OCR đọc sai đã được gắn cờ [NEEDS REVIEW] ngay trong bản dịch: Ê-phê-sô 4:22-24 (bản in ghi 3:22-24), Rô-ma 8:9 (bản in ghi 8:6), Giăng 13:35 (OCR ghi 13:15), Ma-thi-ơ 26:22 (OCR ghi 26:24), Rô-ma 9:24 (không khớp ngữ cảnh, có thể sai), một địa chỉ Thi Thiên bị hỏng ("andy. 6,7"). 5. Các câu Kinh Thánh được dịch theo văn phong Kinh Thánh 1934, địa chỉ câu đã Việt hóa (ví dụ John 3:16 → Giăng 3:16). Các trích dẫn dài trong bản dịch (Rô-ma 8:1-13, 1 Phi-e-rơ 2:18-23, Châm Ngôn 1:24-31, v.v.) được diễn đạt lại theo văn phong 1934 vì không thể sao chép nguyên văn từng chữ từ bản OCR tiếng Anh cổ. 6. 16 thuật ngữ chuẩn được dùng nhất quán xuyên suốt: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh.
-
 Mở trong trình đọc Về thư viện

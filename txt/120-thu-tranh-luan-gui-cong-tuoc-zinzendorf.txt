@@ -6,13 +6,11 @@ Bản dịch do AI (Gemini) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# 120-thu-tranh-luan-gui-cong-tuoc-zinzendorf.md
+120-THU-TRANH-LUAN-GUI-CONG-TUOC-ZINZENDORF.MD
 
 Thư Tranh Luận Gửi Công Tước Nicholas Lewis Zinzendorf
 
-**Tác giả:** George Whitefield (1753) **Nguồn:** https://archive.org/download/bim_eighteenth-century_an-expostulatory-letter-_whitefield-george_1753_0/bim_eighteenth-century_an-expostulatory-letter-_whitefield-george_1753_0_djvu.txt
-
----
+Tác giả: George Whitefield (1753) Nguồn: https://archive.org/download/bim_eighteenth-century_an-expostulatory-letter-_whitefield-george_1753_0/bim_eighteenth-century_an-expostulatory-letter-_whitefield-george_1753_0_djvu.txt
 
 Kính gửi Công tước Nicholas Lewis Zinzendorf,
 
@@ -29,7 +27,5 @@ Thứ ba, tôi kêu gọi ngài và các anh em trở lại với nền tảng t
 Nguyện xin Đức Chúa Trời ban sự khôn ngoan và lòng khiêm nhường cho ngài để suy xét những lời cảnh báo này, nhằm giữ cho Phúc Âm của Chúa Giê-xu Christ được rao giảng một cách thanh sạch.
 
 Người tôi tớ của ngài trong Chúa Giê-xu Christ, George Whitefield.
-
---- TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none
 
 Mở trong trình đọc Về thư viện

@@ -6,13 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Thư Về Sự Thẳng Thắn Và Thánh Ca Nhiệt Thành
+Nguyên tác: "A Letter on Candour" (Thư Về Sự Thẳng Thắn) và "True and False Zeal" (Nhiệt Thành Thật Và Nhiệt Thành Giả) — John Newton, trong ấn bản Apologia: Four Letters to a Minister of an Independent Church (Philadelphia: Hodge, Allen & Campbell, 1789) Tác giả: John Newton (1725–1807), mục sư Hội Thánh Anh tại Luân Đôn Nguồn: https://archive.org/download/bim_eighteenth-century_apologia-four-letters-t_newton-john_1789/bim_eighteenth-century_apologia-four-letters-t_newton-john_1789_djvu.txt *(Ghi chú: Đây là PHẦN BỔ SUNG — chỉ dịch phần mới trong ấn bản 1789. Bốn Bức Thư (Apologia) đã được dịch toàn văn tại #686 từ ấn bản 1784 (file `686-apologia-four-letters-newton.md`), nên KHÔNG dịch lại ở đây. Ấn bản 1789 là bản in lại tại Philadelphia (Hodge, Allen & Campbell), có hai phần mới không có trong ấn bản 1784: (1) Thư Về Sự Thẳng Thắn đặt ở đầu sách, trước Bức Thư Thứ Nhất; (2) thánh ca "Nhiệt Thành Thật Và Nhiệt Thành Giả" đặt ở cuối sách, sau chữ ký ngày 1 tháng 3 năm 1784. Việc ấn bản 1784 không có hai phần này đã được kiểm chứng trực tiếp từ bản scan ấn bản 1784 (kết thúc bằng chữ ký, không có thánh ca; Thư Thứ Nhất bắt đầu thẳng bằng "Bạn thân mến và anh em yêu dấu, Bạn đã hơn một lần nhẹ nhàng hỏi tôi..."). Bản OCR nguồn bị hỏng nhiều chỗ (chữ ſ dài, dòng vỡ, đoạn rác); những lỗi hiển nhiên đã được sửa lặng lẽ theo mạch văn; những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW], không bịa thêm. Các câu trích Kinh Thánh theo văn phong Việt ngữ 1934.)* Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
 
-**Nguyên tác:** "A Letter on Candour" (Thư Về Sự Thẳng Thắn) và "True and False Zeal" (Nhiệt Thành Thật Và Nhiệt Thành Giả) — John Newton, trong ấn bản *Apologia: Four Letters to a Minister of an Independent Church* (Philadelphia: Hodge, Allen & Campbell, 1789) **Tác giả:** John Newton (1725–1807), mục sư Hội Thánh Anh tại Luân Đôn **Nguồn:** https://archive.org/download/bim_eighteenth-century_apologia-four-letters-t_newton-john_1789/bim_eighteenth-century_apologia-four-letters-t_newton-john_1789_djvu.txt *(Ghi chú: Đây là PHẦN BỔ SUNG — chỉ dịch phần mới trong ấn bản 1789. Bốn Bức Thư (*Apologia*) đã được dịch toàn văn tại #686 từ ấn bản 1784 (file `686-apologia-four-letters-newton.md`), nên KHÔNG dịch lại ở đây. Ấn bản 1789 là bản in lại tại Philadelphia (Hodge, Allen & Campbell), có hai phần mới không có trong ấn bản 1784: (1) Thư Về Sự Thẳng Thắn đặt ở đầu sách, trước Bức Thư Thứ Nhất; (2) thánh ca "Nhiệt Thành Thật Và Nhiệt Thành Giả" đặt ở cuối sách, sau chữ ký ngày 1 tháng 3 năm 1784. Việc ấn bản 1784 không có hai phần này đã được kiểm chứng trực tiếp từ bản scan ấn bản 1784 (kết thúc bằng chữ ký, không có thánh ca; Thư Thứ Nhất bắt đầu thẳng bằng "Bạn thân mến và anh em yêu dấu, Bạn đã hơn một lần nhẹ nhàng hỏi tôi..."). Bản OCR nguồn bị hỏng nhiều chỗ (chữ ſ dài, dòng vỡ, đoạn rác); những lỗi hiển nhiên đã được sửa lặng lẽ theo mạch văn; những chỗ không chắc chắn được đánh dấu [NEEDS REVIEW], không bịa thêm. Các câu trích Kinh Thánh theo văn phong Việt ngữ 1934.)* **Trạng thái duyệt:** AI, chưa duyệt (chưa được mục sư duyệt)
-
----
-
-## THƯ VỀ SỰ THẲNG THẮN
+THƯ VỀ SỰ THẲNG THẮN
 
 Thưa Ông,
 
@@ -30,11 +26,9 @@ Trong ý nghĩa, và dưới những giới hạn mà tôi đã diễn đạt, c
 
 Tôi là, v.v.
 
----
+THÁNH CA: NHIỆT THÀNH THẬT VÀ NHIỆT THÀNH GIẢ
 
-## THÁNH CA: NHIỆT THÀNH THẬT VÀ NHIỆT THÀNH GIẢ
-
-*(Bài thánh ca kèm theo ở cuối ấn bản 1789, sau chữ ký ngày 1 tháng 3 năm 1784. Đầu đề có chú thích: 2 Các Vua 10:16.)*
+(Bài thánh ca kèm theo ở cuối ấn bản 1789, sau chữ ký ngày 1 tháng 3 năm 1784. Đầu đề có chú thích: 2 Các Vua 10:16.)
 
 1. Nhiệt thành là ngọn lửa tinh khiết và thiên thượng, Do ngọn lửa tình yêu cung cấp; Trong khi điều thường mang tên ấy, Là cái tôi đội lốt ngụy trang.
 
@@ -49,15 +43,5 @@ Tôi là, v.v.
 6. Cái tôi có thể nhận được phần thưởng nghèo nàn của nó, Và được tán thưởng tại đây; Nhưng nhiệt thành sẽ nhận được lời tán thưởng tốt nhất, Khi Chúa Giê-xu xuất hiện.
 
 7. Lạy Chúa yêu dấu, xin truất ngôi thần tượng là cái tôi, Và cất nó khỏi lòng chúng con, Và xin cho không có nhiệt thành nào được bày tỏ bởi chúng con [NEEDS REVIEW: "be hewn" trong OCR — khôi phục thành "be shewn" (được bày tỏ) theo nghĩa và vần thơ], Ngoại trừ nhiệt thành nảy sinh từ tình yêu thương.
-
----
-
-## TRANSLATION STATUS
-
-- **Trạng thái:** COMPLETE (phần bổ sung). Chỉ dịch phần mới trong ấn bản 1789: Thư Về Sự Thẳng Thắn + thánh ca "Nhiệt Thành Thật Và Nhiệt Thành Giả". Bốn Bức Thư (*Apologia*) đã có toàn văn tại #686, không dịch lại. - **Nguồn:** bản scan ấn bản 1789 (Philadelphia: Hodge, Allen & Campbell). Bản OCR bị hỏng nhiều chỗ (chữ ſ dài, dòng vỡ, đoạn rác); những chỗ khôi phục theo nghĩa đều được đánh dấu [NEEDS REVIEW], không bịa thêm. - **Ranh giới phần mới:** Thư Về Sự Thẳng Thắn mở đầu bằng "Thưa Ông, Tôi, cùng với ông, là người ngưỡng mộ sự thẳng thắn..." và kết thúc bằng "Tôi là, v.v." — ngay trước trang tựa APOLOGIA và Bức Thư Thứ Nhất ("Bạn thân mến và anh em yêu dấu, Bạn đã hơn một lần nhẹ nhàng hỏi tôi..."), vốn đã được dịch tại #686. Thánh ca đặt ở cuối ấn bản 1789, sau chữ ký ngày 1 tháng 3 năm 1784 và trước FINIS; ấn bản 1784 kết thúc bằng chữ ký, không có thánh ca (đã kiểm chứng từ bản scan ấn bản 1784). - **Các chỗ khôi phục đã đánh dấu:** (1) đoạn nối về những kẻ khoe khoang sự thẳng thắn giả bị hỏng trong OCR — khôi phục theo mạch văn; (2) "full" trong câu về người theo So-xi-ni-an hay thuyết Tự Nhiên — có thể là "bound" hay "willing"; (3) "in teh" — khôi phục thành "trong những việc"; (4) "ray" → "cầu nguyện", "Go" → "Đức Chúa Trời", "ive" → "ban cho" (2 Ti-mô-thê 2:25); (5) "grace lone" → "chỉ ân điển" (1 Cô-rinh-tô 4:7); (6) "{in and grace" → "tội lỗi và ân điển"; (7) "conformed" bị hỏng một phần — khôi phục thành "được quy chiếu và làm cho phù hợp"; (8) "be hewn" trong thánh ca khổ 7 → "be shewn" (được bày tỏ). - **Tham chiếu Kinh Thánh được khôi phục theo nghĩa:** 1 Cô-rinh-tô 13:7 (định nghĩa tình yêu thương); 2 Ti-mô-thê 2:25; 1 Cô-rinh-tô 4:7; Ê-sai 53:1; Rô-ma 15:1; Rô-ma 14:1; 2 Ti-mô-thê 3:5; Công Vụ 11:23 (đã có trong bản gốc); Gia-cơ 1:26; Gia-cơ 4:4; 1 Cô-rinh-tô 13:1–3; 2 Các Vua 10:16 (đã có trong bản gốc, chú thích của thánh ca).
-
-## TERMINOLOGY ISSUES
-
-- **Thuật ngữ:** Bảng thuật ngữ cố định được áp dụng xuyên suốt. "Candour" = "sự thẳng thắn" (theo cách dùng trong #686, nơi "candour" được dịch là "sự thẳng thắn"); "toleration" mới là "sự khoan dung" — hai từ được phân biệt. "Counterfeit candour" = "sự thẳng thắn giả mạo/giả vờ". "Churchman" = "người theo Quốc Giáo"; "Dissenter" = "người Ly Khai"; "Calvinist" = "người theo Can-vin"; "Arminian" = "người theo Ác-mi-niu"; "Socinian" = "người theo So-xi-ni-an"; "Deist" = "người theo thuyết Tự Nhiên"; "Belial" = "Bê-li-an"; "nose of wax" = "cái mũi bằng sáp" (thành ngữ: Kinh Thánh bị bẻ cong tùy ý); "five talents / two talents" = "năm ta-lâng / hai ta-lâng" (Ma-thi-ơ 25:14–30); "the Head" = "Đầu" (Đấng Christ, Cô-lô-se 1:18); "Zeal" = "nhiệt thành"; "self" trong thánh ca = "cái tôi". - **Vấn đề thuật ngữ:** "I am, &c." giữ nguyên dạng rút gọn thư tín thế kỷ 18 ("Tôi là, v.v."). Tên riêng giữ nguyên: So-xi-ni-an, Bê-li-an, Giê-hu. Các câu trích Kinh Thánh theo văn phong Việt ngữ 1934.
 
 Mở trong trình đọc Về thư viện

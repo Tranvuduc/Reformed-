@@ -6,11 +6,7 @@ Bản dịch do AI (DeepSeek) hỗ trợ, chưa được mục sư duyệt giáo
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Nhân Cách: Bài Giảng Cho Thanh Niên
-
-**Nguyên tác:** "Character: A Discourse to Young Men" — Jonathan Edwards (1856) **Nguồn:** https://archive.org/download/characterdiscour00edwa/characterdiscour00edwa_djvu.txt *(Ghi chú biên giới: tác giả KHÔNG phải Jonathan Edwards nhà thần học Cải Chánh (1703–1758). Đây là bài giảng của mục sư Jonathan Edwards (mất 1894), mục sư Hội Thánh Plymouth, Rochester, N.Y., giảng tối Chúa Nhật ngày 8/6/1856, in thành sách theo yêu cầu của thính giả.)*
-
----
+Nguyên tác: "Character: A Discourse to Young Men" — Jonathan Edwards (1856) Nguồn: https://archive.org/download/characterdiscour00edwa/characterdiscour00edwa_djvu.txt (Ghi chú biên giới: tác giả KHÔNG phải Jonathan Edwards nhà thần học Cải Chánh (1703–1758). Đây là bài giảng của mục sư Jonathan Edwards (mất 1894), mục sư Hội Thánh Plymouth, Rochester, N.Y., giảng tối Chúa Nhật ngày 8/6/1856, in thành sách theo yêu cầu của thính giả.)
 
 BÀI GIẢNG CHO THANH NIÊN.
 
@@ -19,8 +15,6 @@ BÀI GIẢNG CHO THANH NIÊN.
 Xuất bản theo yêu cầu.
 
 Rochester: E. Darrow & Brother, 65 Main Street. 1856.
-
----
 
 CHÂM NGÔN 22:1.
 
@@ -79,9 +73,5 @@ Thanh niên ngày nay phải có nhân cách xây dựng trên đạo cá nhân,
 Trong công việc làm ăn, trong hành động chính trị, trong ảnh hưởng xã hội, trong quan hệ gia đình, trong lựa chọn đạo đức, trong niềm tin và hành động tôn giáo, trong mọi sự sắp đặt của đời sống ngắn ngủi hiện tại, trong mọi sự chuẩn bị không thể tránh cho đời sau; mỗi thanh niên giữa chúng ta, dù cư dân hay khách lạ, dù còn trong vòng tay mái nhà mình hay đã bị ném ra một mình để thử vận may đời, đều không cần gì bằng nhân cách cá nhân ấy — nền tảng của mọi hành vi đúng đắn — nhân cách đến từ ân điển đổi mới của Đức Chúa Trời, và là đạo thật được nhận vào tấm lòng, cai trị trên cả cuộc đời.
 
 Xin đừng ai ngồi yên mãn nguyện với sự hiểu biết về nhu cầu hay với lời xưng nhận về nguồn cung ứng duy nhất. Hãy nhận lấy ân tứ của Đức Chúa Trời là sự sống đời đời. [Rô-ma 6:23] Hãy tiếp nhận vào lòng mình Chúa Giê-xu Christ làm Đấng Tiên Tri, Thầy Tế Lễ và Vua của mình; làm Đấng Cai Trị, Đấng Dẫn Dắt và Bạn của mình: thì anh sẽ tìm được danh thơm quả thật còn hơn của cải nhiều; khi Đấng Christ phán: "Ta sẽ không xóa tên người khỏi sách sự sống; trái lại, Ta sẽ xưng danh người trước mặt Cha Ta, cùng trước mặt các thiên sứ Ngài. A-men." [Khải Huyền 3:5]
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "Religion" (danh từ chung trong bài) được dịch là "Đạo"; "true religion" → "đạo thật"; "The Saviour" → "Đấng Cứu Thế". - "untempered mortar" (II.2) ám chỉ Ê-xê-chi-ên 13:10 — bản Kinh Thánh 1934 dịch là "vôi chưa trộn trấu"; giữ theo phong cách 1934. - "offended Heaven" → "Đức Chúa Trời bị xúc phạm" ("Heaven" ở đây chỉ Đức Chúa Trời theo cách nói thời xưa). - "baptism of the Holy Ghost" giữ nguyên cách gọi "báp-tem của Đức Thánh Linh" theo bản gốc. - "make him a law unto himself" ám chỉ Rô-ma 2:14 ("chính họ là luật pháp cho mình").
 
 Mở trong trình đọc Về thư viện

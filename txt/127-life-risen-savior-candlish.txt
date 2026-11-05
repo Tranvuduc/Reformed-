@@ -2084,18 +2084,4 @@ Có thể rốt cuộc, sự gieo trồng trong lúc này thưa thớt; và có 
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES:
-
-- Không có vấn đề thuật ngữ nghiêm trọng. Bảng 16 thuật ngữ được áp dụng nhất quán; không có từ cấm nào trong thân bản dịch.
-
-- Trích dẫn Kinh Thánh theo phong cách Kinh Thánh 1934 nhưng chưa đối chiếu từng chữ với bản in 1934.
-
-- Nguồn là bản scan OCR (archive.org, ấn bản 1858); các lỗi OCR rõ ràng đã được sửa theo ngữ cảnh, các chỗ không đọc được đã đánh dấu [NEEDS REVIEW] tại chỗ.
-
-- Đã loại bỏ (không phải nội dung tác phẩm): quảng cáo của nhà xuất bản ở đầu sách, tiêu đề chạy (running headers) và số trang, dấu thư viện, chi tiết trang in.
-
-- Bản dịch AI, chưa được mục sư hiệu đính.
-
 Mở trong trình đọc Về thư viện

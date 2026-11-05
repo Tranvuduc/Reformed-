@@ -8,8 +8,6 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 SỰ ĐÁP LỜI CẦU NGUYỆN: MỘT LUẬN VĂN VỀ CÁCH NHẬN BIẾT CÂU TRẢ LỜI CỦA ĐỨC CHÚA TRỜI ĐỐI VỚI LỜI CẦU NGUYỆN CỦA CHÚNG TA Tác giả: Thomas Goodwin
 
----
-
 SỰ ĐÁP LỜI CẦU NGUYỆN
 
 MỘT LUẬN VĂN
@@ -1095,9 +1093,5 @@ nhìn một cơn khác nếu nó đến, (mà, biết sự lừa dối của lò
 HẾT.
 
 [Ghi chú: phần quảng cáo sách của nhà xuất bản D. A. Talboys ở cuối bản in 1839 không thuộc nội dung sách nên không dịch.]
-
---- TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: 1. "spirit of supplication" → "linh khẩn xin" (linh cầu nguyện) — thuật ngữ không thuộc bảng 16 từ chuẩn; dùng cách diễn đạt tự nhiên. 2. Thi thiên 37:13 được trích cho lời cầu nguyện của Đa-vít cho kẻ thù — có thể là lỗi in/OCR, đúng ra có lẽ là Thi thiên 35:13; đã giữ nguyên theo bản in và gắn [NEEDS REVIEW]. 3. 1 Giăng 5:19, 20 được trích cho "nếu Ngài chấp nhận con người, huống chi lời cầu nguyện" — có lẽ là 1 Giăng 5:14, 15; giữ nguyên và gắn [NEEDS REVIEW]. 4. "Num. vi. 11, 28" (trích cho Giô-suê là đầy tớ Môi-se) — có lẽ là Dân số ký 27:18-23; giữ nguyên và gắn [NEEDS REVIEW]. 5. "Heb. ii. 1" (trích cho Sáng thế ký 6:3 "Thần ta sẽ chẳng hằng ở trong loài người") — có lẽ là lỗi OCR; giữ nguyên và gắn [NEEDS REVIEW]. 6. "Ezek. iji. 26" OCR cho Ê-xê-chi-ên 3:26 — đã sửa thành Ê-xê-chi-ên 3:26. 7. "CHAP. vm." OCR cho CHAP. VIII — đã sửa. 8. "Jam. v" (Gia-cơ 5) cho câu "anh em cầu xin mà không nhận lãnh được" — đúng ra là Gia-cơ 4:3; giữ nguyên và gắn [NEEDS REVIEW]. 9. "Prov. xiii. 12" cho "hope deferred" — đúng ra có lẽ là Châm ngôn 13:12 ("sự trông đợi trì hoãn"); đã dịch theo ý, giữ nguyên trích dẫn. 10. Câu Hy Lạp/Latin trong nguyên văn (symphōnēsōsin, mens legis est lex, secundum cardinem, Amor Dei est extaticus, ta miasmata tou kosmou, energeoumenē) được giữ nguyên kèm dịch nghĩa trong ngoặc. 11. Kinh Thánh dịch theo văn phong Kinh Thánh 1934; các câu trích dẫn trong bản tiếng Anh 1839 (KJV) được chuyển sang cách diễn đạt tương đương của bản 1934; một số câu do OCR nhiễu không thể đối chiếu chính xác — người duyệt nên kiểm tra lại các câu Kinh Thánh dài. 12. "privy key", "man-midwives", "bills of exchange", "factor beyond sea" — các ẩn dụ thương mại/hàng hải thế kỷ 17 được dịch thoát ý sang tiếng Việt tự nhiên, giữ nguyên hình ảnh gốc. 13. [NEEDS REVIEW] đã gắn tại các chỗ OCR mơ hồ không đọc được trong vài trang đầu và các trích dẫn Kinh Thánh khả nghi nêu trên.
 
 Mở trong trình đọc Về thư viện

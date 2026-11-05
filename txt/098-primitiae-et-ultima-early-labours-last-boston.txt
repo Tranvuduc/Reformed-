@@ -2194,6 +2194,4 @@ Cuối cùng, Hãy dùng thời gian tạm trú của anh em để sẵn sàng v
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Đầu đề các bài giảng bị OCR đọc sai đã được hiệu chỉnh theo Mục lục: XLVL→XLVI, XLII→XLVII, XL1X→XLIX, LIU→LIII, L1V→LIV. - Các đầu đề LVI, LVIII, LIX, LXIV, LXVI tưởng bị mất trong OCR thực ra vẫn có trong bản văn và đã được dịch đầy đủ (đủ 22 bài giảng XLV–LXVI). - Các dòng tiêu đề chạy trang (running titles) của bài giảng kế tiếp bị lẫn vào cuối chunk đã được loại bỏ khi ráp nối, tránh trùng lặp. - Trích dẫn Kinh Thánh theo phong cách 1934 nhưng chưa đối chiếu từng chữ với bản in 1934. - Đây là bản dịch AI, chưa được mục sư duyệt lại.
-
 Mở trong trình đọc Về thư viện
