@@ -162,8 +162,4 @@ VIII. Một sự thay đổi cách thức trả khoản lợi tức được ban
 
 Luân Đôn, In cho Francis Tyton, 1659.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - "Magistrate" (quan cầm quyền tối cao) used consistently; "supreme magistrate" = "quan cầm quyền tối cao". - "Hold the head" (giữ Đấng Đầu) = Colossians sense of holding fast to Christ as head; rendered "những người giữ Đấng Đầu là Chúa Giê-xu Christ". - "Vox populi Dei, est vox Dei" kept in Latin with Vietnamese gloss. - "Proposing and Resolving" in the title page is obscure; translated literally as "đề xuất và nghị quyết" — likely refers to a parliamentary proposition context; flagged for review. - 8 inline [NEEDS REVIEW] flags mark clauses where the 1659 print OCR was garbled beyond certain reconstruction (points I.4, II.5 citation, III.1 citations, III.2, III.3, IV conclusion, VI.4, VII, X.2, Q2 conclusion, Q3 IV ending) — all genuine source ambiguities, not theological judgments. - Scripture quotations rendered in 1934-style Vietnamese; references localized (Hê-bơ-rơ, Xuất Ê-díp-tô Ký, Sáng Thế Ký, Phục Truyền Luật Lệ Ký, Thi Thiên, Ê-sai, Khải Huyền, Phi-líp, Rô-ma, Châm Ngôn, Lu-ca, Ga-la-ti, 1 Cô-rinh-tô).
-
 Mở trong trình đọc Về thư viện

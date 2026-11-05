@@ -1,6 +1,6 @@
 CHỈ CÓ MỘT CON ĐƯỜNG
 
-J. C Ryle · Only one way: a tract for the times
+J. C. Ryle · Only one way: a tract for the times
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
@@ -21,8 +21,6 @@ Tôi có thể thật lòng nói, theo lời của nhà thần học đáng kín
 J. C. RYLE.
 
 Nhà xứ Helmingham, Tháng 2, 1850.
-
----
 
 CHỈ CÓ MỘT CON ĐƯỜNG
 
@@ -203,7 +201,5 @@ Cuối cùng, nếu không có sự cứu rỗi nào ngoại trừ bởi Đấng
 Khi chúng tôi mệt mỏi giảng về Ngài, chúng tôi là những mục sư giả. Khi bạn mệt mỏi nghe về Ngài, linh hồn bạn đang ở trong tình trạng không lành mạnh. Khi chúng tôi đã giảng về Ngài suốt đời mình, một nửa sự tuyệt vời của Ngài vẫn chưa được kể hết. Khi bạn thấy Ngài mặt đối mặt trong ngày Ngài hiện đến, bạn sẽ thấy rằng trong Ngài còn nhiều hơn những gì lòng bạn từng hình dung.
 
 Hãy để tôi để lại cho bạn lời của một nhà văn xưa, mà tôi mong muốn khiêm nhường tán thành: "Tôi không biết tôn giáo thật nào ngoài Cơ Đốc giáo; không biết Cơ Đốc giáo thật nào ngoài giáo lý của Đấng Christ — giáo lý về thân vị thần thượng của Ngài, về chức vụ thần thượng của Ngài, về sự công chính thần thượng của Ngài, và về Đức Thánh Linh thần thượng của Ngài, mà tất cả những ai thuộc về Ngài đều nhận lãnh. Tôi không biết mục sư thật nào của Đấng Christ, ngoài những người lấy việc khen ngợi Chúa Giê-xu Christ, trong sự đầy dẫy ân điển và vinh quang cứu rỗi của Ngài, làm công việc của mình trong chức vụ mình, để đem đến đức tin và tình yêu của loài người — không biết Cơ Đốc nhân thật nào, ngoài người được kết hợp với Đấng Christ bằng đức tin và tình yêu, để tôn vinh Chúa Giê-xu Christ, trong vẻ đẹp của sự thánh khiết Phúc Âm. Những Cơ Đốc nhân có tinh thần này đã nhiều năm là anh em và bạn đồng hành của tôi, dù họ ở đâu, bất cứ nơi nào bàn tay quan phòng dẫn tôi đến."
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 1. "Highteenth Article" in OCR is a misprint for "Eighteenth Article" (Điều 18) — corrected in translation. 2. "Saviour" rendered "Đấng Cứu Rỗi" (standard Vietnamese Protestant term; not in 16-term glossary which covers "salvation" only). 3. "Mediator" rendered "Đấng Trung Bảo"; "Advocate" rendered "Đấng Biện Hộ" — standard Vietnamese Protestant terms. 4. "atonement" rendered "sự chuộc tội" per glossary throughout. 5. "justification" context ("In the matter of your justification") rendered "sự xưng công chính" per glossary. 6. "Church of England" rendered "Hội Thánh Anh"; "High Church/ultra Churchman" rendered descriptively ("người Anh giáo cực đoan") to preserve meaning. 7. "Deists/Deism" kept as "người theo thuyết tự nhiên thần giáo / thuyết tự nhiên thần giáo" (explanatory, standard Vietnamese rendering). 8. "Socinian" rendered "người theo phái Socinus" (the text itself names Socinus later; kept consistent). 9. "Gospel" rendered "Phúc Âm" per glossary throughout, including "ministers of the Gospel" → "các mục sư của Phúc Âm". 10. "Protestant" rendered "Tin Lành" per project rule (used only for "Protestant", never for "gospel"). 11. Acts 4:12 quoted in 1934 Vietnamese style: "Chẳng có sự cứu rỗi trong đấng nào khác; vì ở dưới trời, chẳng có danh nào khác ban cho loài người, để chúng ta phải nhờ đó mà được cứu." 12. Scripture refs localized: John→Giăng, 1 Cor→1 Cô-rinh-tô, 1 John→1 Giăng, Judges→Các Quan Xét, Genesis→Sáng Thế Ký, Revelation→Khải Huyền. 13. [NEEDS REVIEW: OCR] A few garbled sentences in the source (especially the closing old-writer quotation, which suffers page-noise corruption in the scan) were reconstructed from readable fragments and context; the reconstruction follows the clearly-intended meaning but David's review pass should confirm. 14. The poem line "He can't be wrong whose life is in the right" rendered as "Người có đời sống ngay thẳng không thể sai" — Ryle quotes it to refute it; preserved as quotation. 15. No CJK/Cyrillic characters; no untranslated English fragments in body.
 
 Mở trong trình đọc Về thư viện

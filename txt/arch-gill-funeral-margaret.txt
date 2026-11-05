@@ -212,8 +212,4 @@ Những khiếm khuyết và yếu đuối thuộc về bản tính con người
 
 [Phi-líp 4:8–9]
 
-TERMINOLOGY ISSUES: - Glossary 16-term compliance verified by script: 0 violations (no "sự xưng công bình", no "sự chọn lựa"; "Tin Lành" 0 — the text has no denominational "Protestant" mentions). - 0 CJK/Cyrillic chars, 0 long-s leftovers, no untranslated English fragments. - Inline [NEEDS REVIEW] flags preserved from chunk workers for genuinely ambiguous OCR'd verse citations (reconstructed from context) and the 3 mid-sentence chunk-boundary cuts. - Scripture rendered in Vietnamese 1934 style with localized references (Ê-sai, Thi Thiên, Giăng, Rô-ma, Hê-bơ-rơ, Cô-lô-se, Phi-líp, etc.). - Greek fragments in the source (e.g. ὁδὸν πρόσφατον, τεθλιμμένη) rendered by meaning; Latin footnotes localized inline. - 18th-century long-s and spaced type normalized silently; page headers/running heads dropped as non-content. - Translated from: A SERMON occasion'd by the Death of Mrs. Mary Fall (1739), text Isaiah 30:21, by John Gill, D.D. (1697–1771), Reformed Baptist. Genuine source: archive.org item bim_eighteenth-century_a-sermon-occasiond-by-_gill-john_1739. The trailing publisher advertisement ("BOOKS Wrote by the same AUTHOR…") was excluded as non-content.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

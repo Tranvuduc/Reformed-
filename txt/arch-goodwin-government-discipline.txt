@@ -380,8 +380,4 @@ Các quý ông nào vui lòng khích lệ công việc nầy, xin vui lòng mau 
 
 Bản thảo đã được chính tay tác giả viết ra rõ ràng, cũng như đã được ông chuẩn bị cho việc in ấn, đã ở trong tay người đảm nhận một thời gian, và nay được đề nghị xuất bản: Không còn nghi ngờ gì, việc mau chóng xuất bản và phổ biến chúng ra thế giới sẽ rất ích lợi cho công việc của Đức Chúa Trời, và sẽ làm sáng danh Ngài, cùng đem lại ích lợi cho Hội Thánh của Đức Chúa Trời. Bởi... [NEEDS REVIEW: chữ ký bị OCR hỏng].
 
-TERMINOLOGY ISSUES: - Glossary 16-term compliance verified by script (see QA notes below). - 18th-century long-s (ſ) normalized silently throughout. - Scripture rendered in Vietnamese 1934 style with localized references. - Inline [NEEDS REVIEW] flags mark passages where the 1722 scan's OCR was genuinely unreadable; reconstructed as far as context allowed, never invented. - Note: the source scan contained a duplicated page range (deacon-chapter passage on 1 Cor 16:2 / Rom 12:8 / Gal 6:6); the duplicate was removed, keeping the clean occurrence. - Translated from: THE GOVERNMENT AND DISCIPLINE OF THE CHURCHES OF CHRIST (1722), by Thomas Goodwin (1600-1680), Puritan Independent divine. Genuine source: archive.org item bim_eighteenth-century_the-government-and-disci_goodwin-thomas_1722.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

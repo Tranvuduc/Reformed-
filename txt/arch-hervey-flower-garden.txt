@@ -492,8 +492,4 @@ Những điều rất tuyệt vời đã được phán về ngươi, hỡi thà
 
 Người hết lòng vâng phục Bà, &c. J. HERVEY.
 
-TERMINOLOGY ISSUES: - Glossary 16-term compliance verified by script: 0 violations (no "sự xưng công bình", no "sự chọn lựa"; "Tin Lành" used only where source denotes Protestant; prose gospel rendered "Phúc Âm"). - 78 inline [NEEDS REVIEW: OCR] flags mark passages where the 1747 scan's OCR was genuinely unrecoverable (garbled Greek/Latin, blurred proper names, mangled verse references); reconstructed as far as context allowed, never invented. - The source's duplicated pages 28-29 (OCR'd twice) were merged into a single translation rather than translated twice. - Long-s (ſ) and irregular spaced type from the 1747 printing normalized silently. - Scripture rendered in Vietnamese 1934 style with localized references (Sáng Thế Ký, Thi Thiên, Châm Ngôn, Ma-thi-ơ, Giăng, Rô-ma, Hê-bơ-rơ, Khải Huyền, v.v.). - Translated from: REFLECTIONS ON A FLOWER-GARDEN. In a Letter to a Lady. By JAMES HERVEY, A.B. (London: J. and J. Rivington; J. Leake at Bath, 1747). Genuine source: archive.org item bim_eighteenth-century_reflections-on-a-flower-_hervey-james_1747.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

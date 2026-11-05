@@ -1,6 +1,12 @@
-AI, chưa duyệt
 HỒI KÝ VỀ ĐỜI SỐNG, THỜI ĐẠI VÀ CÁC TÁC PHẨM CỦA MỤC SƯ THOMAS BOSTON, ĐƯỢC CHIA THÀNH MƯỜI HAI GIAI ĐOẠN, DO CHÍNH ÔNG VIẾT VÀ GỬI CHO CÁC CON CỦA ÔNG, KÈM THEO MỘT SỐ GIẤY TỜ GỐC VÀ THƯ TỪ QUA LẠI VỚI TÁC GIẢ
-Thomas Boston
+
+Thomas Boston · Memoirs of the life, time, and writings, of the reverend and learned T
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt HỒI KÝ VỀ ĐỜI SỐNG, THỜI ĐẠI VÀ CÁC TÁC PHẨM CỦA MỤC SƯ THOMAS BOSTON, ĐƯỢC CHIA THÀNH MƯỜI HAI GIAI ĐOẠN, DO CHÍNH ÔNG VIẾT VÀ GỬI CHO CÁC CON CỦA ÔNG, KÈM THEO MỘT SỐ GIẤY TỜ GỐC VÀ THƯ TỪ QUA LẠI VỚI TÁC GIẢ Thomas Boston
 
 Lời của tác giả gửi các con của mình
 
@@ -6219,5 +6225,5 @@ Tôi có thể nhớ rõ điều này được xem vào thời ấy là một tr
 Tôi là, thưa Ông rất thân mến của tôi, người bạn chân thành của ông, và anh em trong công việc và những ràng buộc của Phúc Âm, v.v.
 
 GHI CHÚ CỦA NGƯỜI DỊCH: Dịch toàn văn từ bản quét OCR archive.org (ấn bản Edinburgh, 1776), từ Lời của tác giả gửi các con của mình qua mười hai giai đoạn hồi ký, lời bạt, và các giấy tờ cùng thư từ trong phụ lục, đến hết bức thư cuối cùng. Đã lược bỏ: boilerplate của Google/archive.org, trang tựa và mục lục, tiêu đề chạy trang, số trang và ký hiệu in ấn, cùng bốn đoạn chỉ là con dấu quét của Google (P1510, P2367, P2810, P2838). Các đoạn vỡ câu do ngắt trang được giữ nguyên thứ tự như trong bản in; một số tiêu đề chạy trang bị OCR hỏng được đọc theo mẫu rõ ràng của dãy số trang/phụ lục kề trước và sau. Năm bị OCR hỏng trong một đoạn ở đầu sách được đọc là 1689 theo ngữ cảnh trong chính đoạn đó (rời trường vào mùa gặt năm 1689, lúc mười ba tuổi). Các chỗ OCR không đọc được được gắn cờ tại chỗ, không đoán mò.
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: none
+
+Mở trong trình đọc Về thư viện

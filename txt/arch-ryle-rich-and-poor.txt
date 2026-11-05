@@ -1,6 +1,6 @@
 GIÀU VÀ NGHÈO!
 
-J. C Ryle · Rich and poor: a tract for the times
+J. C. Ryle · Rich and poor: a tract for the times
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
@@ -23,8 +23,6 @@ LONDON: WERTHEIM & MACINTOSH, 24, PATERNOSTER ROW; NISBET & Co., 21, BERNERS STR
 Giá hai shilling một tá.
 
 M.DCCC.LIII. (1853)
-
----
 
 GIÀU VÀ NGHÈO.
 
@@ -221,7 +219,5 @@ Người bạn yêu mến của bạn,
 J. C. RYLE.
 
 Helmingham, Stoneham, Tháng 11, 1853.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: (1) Source title page "EEY. J. C. EYLE" is OCR corruption of "REV. J. C. RYLE" — rendered correctly. (2) "Dbad" in author's works list is OCR corruption of "Dead" (Living or Dead?). (3) "Header, be very sure" is OCR corruption of "Reader, be very sure" — rendered correctly. (4) "Eeader/Keader/Emry" OCR variants of "Reader/every" — rendered correctly. (5) "Edward the VL" is OCR corruption of "Edward the VI" — rendered "vua Edward VI". (6) "mj^^self" → "myself"; "])roressing" → "professing"; "giv-^ ing" → "giving"; "considei'ation" → "consideration"; "thoroughlj^'" → "thoroughly"; "b}^" → "by"; "j'-our" → "your"; "hj the Holy Ghost" → "by the Holy Ghost"; "v\\ras" → "was"; "Eemember" → "Remember"; "Bat" → "But"; "affeetion" → "affection"; "November^" → "November" — all OCR noise normalized, none affect meaning. (7) Page 18 header misread as "19" in OCR; text is continuous between sections IV and V — no content missing. (8) Luke 16:19-23 rendered in 1934-style Vietnamese; other Scripture quotations (Eccles. 10:19; Prov. 14:20; Rev. 2:9; Prov. 23:4; 1 Tim. 6:9; Job 5:17; Heb. 12:6; Eccles. 5:8; Matt. 25:42-43; 2 Cor. 5:15; Mark 10:23,25; 1 Tim. 6:10; 2 Tim. 3:1-2; Luke 14:12-14; Luke 12:33; Acts 20:35; Isa. 1:18; Ps. 116:12) rendered in 1934-style Vietnamese. (9) "saints in Nero's household" refers to Philippians 4:22 — rendered literally. (10) "a guinea subscriptions" — the guinea was a British gold coin (21 shillings) — kept as "guinea" with Vietnamese gloss. (11) "work-house" (poorhouse) rendered "nhà tế bần". (12) Publisher advertisement catalogue after Ryle's signature (lines ~1227-1390) excluded as non-content. (13) "Protestant" not used; "Puritan" references not present. (14) Glossary check: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự cứu chuộc, sự chuộc tội, giao ước, sự cứu rỗi, Hội Thánh, Kinh Thánh used consistently; no wrong terms (sự xưng công bình, sự chọn lựa) present; no CJK/Cyrillic characters.
 
 Mở trong trình đọc Về thư viện

@@ -1,6 +1,6 @@
 THƯ THÁNH KHIẾT GỬI CHO CÁC TÍN HỮU TẠI LONDON
 
-Gioan Knox · A Godly Letter sent to the Faithful in London (1581)
+John Knox · A Godly Letter sent to the Faithful in London (1581)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
@@ -12,15 +12,13 @@ Nguyên tác: "A Godly Letter sent to the Faithful in London" (1581) Tác giả:
 
 [NEEDS REVIEW: bản OCR từ ấn bản 1581 rất kém (chính tả Anh cổ, chữ ſ dài, nhiều dòng nhiễu). Bản dịch tái cấu trúc theo mạch văn rõ ràng; các đoạn OCR hỏng nặng được dịch theo đại ý kèm cờ.]
 
----
-
-## LỜI MỞ ĐẦU: CHÚA GIÊ-XU CHRIST SẮP ĐẾN
+LỜI MỞ ĐẦU: CHÚA GIÊ-XU CHRIST SẮP ĐẾN
 
 Gửi tất cả những người yêu mến sự đến của Chúa Giê-xu Christ chúng ta trong vương quốc Anh, nguyện sự bền đỗ đến cuối cùng.
 
 Toàn thể quyền năng của thân thể và linh hồn tôi run rẩy và rúng động vì những tai họa sắp đến. Nhưng Lời thật của Đức Chúa Trời đã được ban cho vương quốc Anh — chỉ trừ những kẻ bị ma quỷ cầm buộc trong tối tăm, mà Đức Chúa Trời công chính phạt sự kiêu ngạo ngu dốt của họ, đến nỗi họ chẳng phân biệt được điều lành với điều dữ.
 
-## NƯỚC ANH TỆ HƠN GIU-ĐA XƯA
+NƯỚC ANH TỆ HƠN GIU-ĐA XƯA
 
 Nếu nước Anh tệ hơn Giu-đa trong những ngày ấy, há Đức Chúa Trời đã chẳng dung thứ họ sao? Chúng ta há nghĩ rằng sự báo thù của Chúa sẽ ngủ yên khi tội ác loài người đã chín muồi?
 
@@ -38,7 +36,7 @@ Về điều này, tôi không trách anh em (hỡi anh em yêu dấu), vì tôi
 
 [NEEDS REVIEW: dòng 730-1006 bàn về sự bắt bớ dưới thời Ma-ri; OCR nhiễu từng cụm, giữ được đại ý về lòng trung tín của các tín hữu và sự tàn ác của kẻ bắt bớ.]
 
-## LỜI KÊU GỌI ĂN NĂN VÀ BỀN ĐỖ
+LỜI KÊU GỌI ĂN NĂN VÀ BỀN ĐỖ
 
 Hỡi anh em, đừng ngạc nhiên như thể có điều lạ xảy đến cho anh em. Lửa thử thách này đến để thử luyện anh em, như vàng được thử trong lò. Nhưng Đức Chúa Trời thành tín sẽ chẳng để anh em bị thử thách quá sức mình; Ngài sẽ mở đường thoát để anh em chịu đựng được (1 Cô-rinh-tô 10:13).
 
@@ -48,7 +46,7 @@ Hãy nhớ lại những ngày trước, khi anh em được soi sáng, đã ch�
 
 [NEEDS REVIEW: dòng 1006-1500 chứa lời an ủi và cảnh báo về sự phán xét sắp đến; một số câu OCR mất chữ, dịch theo mạch văn.]
 
-## SỰ PHÁN XÉT SẮP ĐẾN TRÊN NƯỚC ANH
+SỰ PHÁN XÉT SẮP ĐẾN TRÊN NƯỚC ANH
 
 Tôi đã viết thư này không phải để làm anh em nản lòng, nhưng để anh em tỉnh thức. Cơn thịnh nộ của Đức Chúa Trời đang đến gần vì tội thờ hình tượng, vì máu của các thánh đồ đã đổ ra, và vì sự vô ơn đối với ánh sáng Phúc Âm đã được ban cho.
 
@@ -56,7 +54,7 @@ Nhưng hỡi những kẻ còn sót lại trung tín, hãy vững lòng. Đức 
 
 [NEEDS REVIEW: dòng 1500-2200 lặp lại chủ đề Giê-rê-mi và sự so sánh với London; nhiều đoạn OCR không phục hồi được, tóm lược theo mạch lập luận.]
 
-## LỜI CHÀO CUỐI
+LỜI CHÀO CUỐI
 
 Nguyện ân điển của Chúa Giê-xu Christ ở cùng anh em. Hãy cầu nguyện cho tôi, như tôi cầu nguyện cho anh em, để chúng ta đều được giữ vững đến ngày của Chúa.
 
@@ -65,9 +63,5 @@ Viết trong sự gian truân, bởi đầy tớ hèn mọn của Đức Chúa T
 GIOAN KNOX
 
 [NEEDS REVIEW: dòng 2200-2644 là phần kết và chữ ký; OCR cuối thư nhiễu nặng, chỉ giữ được đại ý lời chào.]
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Bản OCR 1581 rất kém (chính tả Anh thời Tudor, chữ ſ/ꝛ); ~38% từ đọc được rõ, còn lại tái cấu trúc theo ngữ cảnh với cờ [NEEDS REVIEW]. - "deare brethren" dịch "anh em yêu dấu"; "realme of Englande" dịch "vương quốc Anh". - Các trích dẫn Kinh Thánh được Việt hóa địa chỉ (1 Cô-rinh-tô, Hê-bơ-rơ, Rô-ma). - Thư viết trong thời Ma-ri I bắt đạo (1553–1558), so sánh nước Anh với Giê-ru-sa-lem thời Giê-rê-mi. - Đây là bản dịch ý nghĩa đầy đủ, không phải từng chữ, do OCR gốc không cho phép đối chiếu chính xác.
 
 Mở trong trình đọc Về thư viện

@@ -168,8 +168,6 @@ H.66. Thiên đàng là gì? Đ. Đó là trạng thái an nghỉ đời đời 
 
 H.67. Vậy bạn quyết sống đời sống nào trong thế gian này? Đ. Nhờ ân điển của Đức Chúa Trời giúp đỡ, tôi sẽ sống một đời sống thánh khiết, tin kính, và lấy việc hầu việc Ngài và cứu linh hồn mình làm sự chăm sóc và công việc lớn nhất của tôi.
 
----
-
 Một Giáo Lý Vấn Đáp Ngắn để dạy dỗ những người sắp được nhận vào dự Tiệc Thánh.
 
 H.1. Tiệc Thánh là gì? Đ. Đó là một thánh lễ của Tân Ước.
@@ -233,11 +231,5 @@ H.29. Sự khốn khổ của những kẻ làm như vậy là gì? Đ. Chúng �
 H.30. Ai sẽ được chào đón đến lễ này? Đ. Những ai bởi đức tin hết lòng đồng ý với giao ước ân điển, và tôn vinh Đấng Cứu Chuộc của mình, bằng cách rao truyền sự chết của Ngài.
 
 H.31. Họ sẽ nhận được ích lợi gì bởi sự nhận lãnh xứng đáng? Đ. Đức tin của họ được mạnh mẽ; những quyết tâm của họ được xác nhận, những sự an ủi của họ được gia tăng, và họ có của cầm về bữa tiệc đời đời.
-
----
-
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: 1. Q5 (Phần I): từ "28 Oy" trong bản OCR bị nhòe; phỏng đoán là "Almighty" (toàn năng) — [NEEDS REVIEW: source ambiguity] 2. H.29 (Phần III): câu trả lời bị nhòe nặng trong bản OCR ("ba ang COONS"); phỏng đoán "vì tôi đã chịu báp-têm" — [NEEDS REVIEW: source ambiguity] 3. H.40 (Phần IV): câu hỏi bị nhòe trong bản OCR; phỏng đoán "bạn chứng tỏ sự chân thành của đức tin mình bằng cách nào" — [NEEDS REVIEW: source ambiguity] 4. H.66 (Phần V): "bis it" bị nhòe trong bản OCR; có thể là "bliss" (phước hạnh) — [NEEDS REVIEW: source ambiguity] 5. H.11 (Giáo lý vấn đáp về Tiệc Thánh): câu hỏi bị nhòe trong bản OCR; phỏng đoán theo ngữ cảnh — [NEEDS REVIEW: source ambiguity] 6. H.17, H.18, H.19, H.23 (Giáo lý vấn đáp về Tiệc Thánh): bản OCR bị nhòe nặng ở nhiều chỗ; dịch theo phỏng đoán hợp lý nhất, đã đánh dấu [NEEDS REVIEW] 7. Lời tựa: một số cụm từ bị nhòe ("with its 5", "Tha all hall kno 1 B"); dịch theo ngữ cảnh, câu Kinh Thánh theo Giê-rê-mi 31:34 — [NEEDS REVIEW: source ambiguity] 8. "Precept must be upon Precept, Line upon Line" (Ê-sai 28:10): dịch theo phong cách 1934 là "Mạng lịnh chồng trên mạng lịnh, luật trên luật"; David nên kiểm tra lại với bản 1934 chính xác khi duyệt. 9. "the Bible" được dịch là "Kinh Thánh" theo glossary (Scripture = Kinh Thánh). 10. "Sacrament" được dịch là "thánh lễ"; "the Lord's Supper" là "Tiệc Thánh". 11. Tiêu đề Phần I "Of God and the Guei" bị nhòe trong bản OCR; phỏng đoán là "Of God and Ourselves" (Về Đức Chúa Trời và về chính chúng ta) — [NEEDS REVIEW: source ambiguity] 12. Số thứ tự câu hỏi Phần V bị nhảy trong bản OCR (từ H.62 sang câu hỏi về kẻ ác); giữ nguyên đánh số H.63 theo phỏng đoán. 13. Không phát hiện thuật ngữ glossary nào bị vi phạm; không có ký tự CJK trong bản dịch.
 
 Mở trong trình đọc Về thư viện

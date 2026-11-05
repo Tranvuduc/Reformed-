@@ -1,6 +1,12 @@
-AI, chưa duyệt
 SUY NIỆM GIẢI KINH VỀ PHÚC ÂM LU-CA, TẬP II
-J. C. Ryle
+
+J. C. Ryle · Saint Luke
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt SUY NIỆM GIẢI KINH VỀ PHÚC ÂM LU-CA, TẬP II J. C. Ryle
 
 SUY NIỆM GIẢI KINH VỀ CÁC PHÚC ÂM. KÈM THEO TOÀN VĂN KINH THÁNH.
 
@@ -7838,5 +7844,4 @@ CHƯƠNG, CÂU. 1.—Sự hiện thấy của Xa-cha-ri, và sự thụ thai c�
 
 GHI CHÚ DỊCH THUẬT: Dịch toàn văn từ bản quét archive.org (ấn bản New York: Robert Carter & Brothers, 1862), gồm trang tựa, các bài suy niệm và ghi chú giải kinh Lu-ca 11–24, và danh sách kết sách 58 hoàn cảnh chỉ Lu-ca ghi lại. Đã loại trừ: dấu thư viện, các bảng mục lục ở đầu sách, tiêu đề chạy trang và số trang (91 đoạn tiêu đề chạy trang đã bỏ ở khâu lắp ráp), bảng chương/câu ở cuối sách, và thẻ thư viện cuối bản quét. Các cột Phúc Âm bị OCR xáo trộn đã được phục hồi về đúng thứ tự câu; các câu bị cắt ở ranh giới trang được giữ liền mạch theo thứ tự đoạn. Văn bản Phúc Âm in trong sách được trình bày theo lời văn Kinh Thánh 1934 (kể cả cách viết “Jêsus” trong các trích dẫn nguyên văn 1934); phần bình luận dùng bảng thuật ngữ của đợt (Chúa Giê-xu Christ, Đức Chúa Trời, Đức Thánh Linh, Phúc Âm, ân điển). “Thiên Chúa giáo” chỉ xuất hiện với nghĩa tên gọi riêng của Công giáo La Mã; “Tin Lành” chỉ dùng trong ngữ cảnh chỉ đạo Tin Lành, không dùng để dịch “gospel”. Danh sách kết sách: tham chiếu chương/câu của các mục 42–58 đã mất trong bản OCR nên được đánh dấu xem lại thay vì đoán; cụm giữa của mục 52 và đoạn kết của mục 58 bị cắt cụt trong bản quét nên cũng được đánh dấu xem lại.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: none, ngoại trừ các trường hợp đã ghi trong GHI CHÚ DỊCH THUẬT (trích dẫn nguyên văn 1934 giữ cách viết “Jêsus”; “Thiên Chúa giáo” và “Tin Lành” chỉ dùng trong ngữ cảnh đã xác minh).
+Mở trong trình đọc Về thư viện

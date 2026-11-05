@@ -3730,8 +3730,4 @@ C. 24. — Lời chào kết thúc là gì?
 
 HẾT.
 
-TERMINOLOGY ISSUES: - Nguồn thực tế: đây là "Questions adapted to Dr. Hodge's Exposition of the First Epistle to the Corinthians" (New York: Robert Carter & Brothers, 1857), do chính Hodge soạn — KHÔNG phải bản "Questions on the Confession of Faith" như tiêu đề pipeline ghi. Đã dịch theo nội dung thực tế; parent quyết định cách ghi nhận. - "Đức Chúa Jêsu" (6 lần, do thợ dịch) đã chuẩn hoá thành "Chúa Giê-xu Christ" trong toàn file. - "Tin Lành" ×13: tất cả đều hợp lệ — trong trích dẫn Kinh Thánh 1934 nguyên văn (1 Cô-rinh-tô 1:17, 9:12-18) và cho "Protestant" (người Tin Lành, cách giải thích của Tin Lành). - Tên sách "I Cô-rinh-tô" đã chuẩn hoá nhất quán (thợ dịch dùng lẫn "i"/"1"/"I"). - OCR gốc nhiễu (spaced type, long-s) đã chuẩn hoá thầm trong lúc dịch. - Không có vi phạm glossary 16 thuật ngữ; 0 ký tự CJK/Cyrillic.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

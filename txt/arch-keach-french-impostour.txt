@@ -1078,8 +1078,4 @@ Phao-lô sứ đồ đã khéo nói: "Hãy giữ chừng, kẻo có ai lấy tri
 
 Để kết luận, xin lấy lời cảnh báo của thánh Phi-e-rơ, 2 Phi-e-rơ 3:17: "Hỡi kẻ rất yêu dấu, vì anh em đã được biết trước, vậy hãy giữ cho khỏi lầm lạc bởi sự sai lầm của kẻ ác, e anh em sụt mất sự vững vàng của mình chăng." Câu 18: "Hãy tấn tới trong ân điển và trong sự thông biết Chúa và Cứu Chúa chúng ta là Đức Chúa Jêsus Christ. Nguyền xin vinh hiển về nơi Ngài, từ rày đến đời đời! A-men."
 
-TERMINOLOGY ISSUES: - 16-term glossary compliance verified by script: 0 violations (no "sự xưng công bình", no "sự chọn lựa"). - 0 CJK/Cyrillic characters, 0 long-s leftovers in body; 18th-century spaced type and broken-line OCR normalized silently during translation. - Two inline [NEEDS REVIEW: OCR] flags preserved where the scan was genuinely unrecoverable (one garbled sentence fragment in chunk 5, one mid-sentence page break in chunk 2); translated as far as readable text allowed. - Garbled proper names in the OCR normalized silently (e.g. "Dr. Omen"→Owen, "Mr. Gorge"→Gouge, Flavel spelling variants). - Scripture rendered in Vietnamese 1934 style with localized references (Truyền Đạo, 2 Phi-e-rơ, etc.). - "Second Thoughts" (Housel's book title) rendered as "Những Suy Nghĩ Thứ Hai"; "the French impostour" as "kẻ giả mạo người Pháp". - Translated from: THE FRENCH IMPOSTOUR DETECTED, by Benjamin Keach (1640–1704), Reformed Baptist (London, 1702). Genuine source: archive.org item bim_eighteenth-century_the-french-impostour-det_keach-benjamin_1702.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

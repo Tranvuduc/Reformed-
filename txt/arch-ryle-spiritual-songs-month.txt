@@ -1,6 +1,6 @@
 NHỮNG BÀI HÁT THIÊNG LIÊNG CHO MỘT THÁNG
 
-J. C Ryle · Spiritual songs for a month
+J. C. Ryle · Spiritual songs for a month
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
@@ -18,7 +18,7 @@ Do Mục sư J. C. RYLE, Cử nhân, Quản nhiệm Helmingham, Suffolk, tuyển
 
 New York: ANSON D. F. RANDOLPH, 683 Broadway 1858
 
---- NHỮNG BÀI HÁT THIÊNG LIÊNG.
+NHỮNG BÀI HÁT THIÊNG LIÊNG.
 
 1. Cô-lô-se 1:19.
 
@@ -617,7 +617,5 @@ LOGAN.
 "Họ hát như một bài ca mới trước ngai." (Khải Huyền 14:3.)
 
 [Mục lục các dòng đầu được bỏ qua vì chỉ là danh sách tham khảo.]
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 1. Hymns 14-28 are missing from the source scan (pages 19-34 missing from archive.org scan). Only hymns 1-13 and 29-62 were translated. Noted inline with [NEEDS REVIEW]. 2. OCR had heavy double-spacing ("I lay my sins") normalized during translation. 3. Hymn numbers in OCR are inconsistent (e.g., "4.*" for hymn 4, missing numbers for some). Hymn sequence follows the source order. 4. Scripture references localized: Coloss. i. 19 → Cô-lô-se 1:19, Matt. vi. 10 → Ma-thi-ơ 6:10, etc., in 1934 style. 5. "Lamb of God" → "Chiên Con của Đức Chúa Trời" (standard Vietnamese Protestant). 6. "Jehovah" → "Đức Giê-hô-va" (standard Vietnamese Protestant). 7. Hymn authors preserved as in source (H. BONAR, R. BAXTER, C. WESLEY, MONTGOMERY, DODDRIDGE, J. TAYLOR, LOGAN, R. M. M'CHEYNE). 8. "Calvary" → "Calvary" (proper noun, standard usage). 9. Metre markings (S.M., C.M., P.M., L.M.) preserved as in source. 10. The index of first lines at the end was omitted as it is a reference list, not content. 11. Glossary compliance: God=Đức Chúa Trời, Jesus Christ=Chúa Giê-xu Christ, Holy Spirit=Đức Thánh Linh, gospel=Phúc Âm, grace=ân điển, faith=đức tin, church=Hội Thánh, Scripture=Kinh Thánh used consistently. "Tin Lành" not used in prose. 12. Poetry translated for meaning and singability; rhyme not preserved as Vietnamese hymnody uses different prosody.
 
 Mở trong trình đọc Về thư viện

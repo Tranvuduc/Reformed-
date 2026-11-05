@@ -932,8 +932,4 @@ Sự Chết. Cát của ngươi đã chảy hết; đồng hồ cát đã vỡ, 
 
 Thế là kết thúc những ngày của kẻ, [NEEDS REVIEW: OCR] Chẳng chịu vâng phục, chẳng để tâm đến Lẽ Thật, Chẳng lắng nghe điều các giảng sư nói: Họ trong tuổi trẻ đi xuống hỏa ngục, Sống dưới cơn thịnh nộ đời đời: Nhiều người chẳng sống nổi nửa đời mình —
 
-TERMINOLOGY ISSUES: - English spelling-primer word lists, syllable tables, coin/measure/vocabulary tables kept in English: they are the pedagogical subject of an English-literacy primer and cannot be translated meaningfully; all headings and instructional prose translated (documented in chunk notes). - [NEEDS REVIEW: OCR] markers throughout where 1763-scan OCR was unrecoverable; confident reconstructions made from rhyme/Bible context. - [NEEDS REVIEW: authorship/context] The 1763 title page attributes the book to Benjamin Keach (the Particular Baptist, d. 1704); this is the 30th edition of his 1664 children's primer — attribution consistent with the historical record. - Speaker labels normalized: Fa./Ch./Son. → Cha./Con.; Quest./Ans. → Hỏi./Đáp.; dialogue speakers YOUTH./DEVIL./TIME/GOD/DOCTOR/DEATH → Thanh Niên./Ma Quỷ./Thời Gian./Đức Chúa Trời./Tiến Sĩ./Sự Chết. - Long-s (ſ) normalized to s; running heads, page numbers, publisher's ads/catalogue excluded as non-content. - Scripture rendered in Kinh Thánh 1934 style with localized references (Giăng, Ma-thi-ơ, Rô-ma, Sáng Thế Ký, Thi Thiên, Châm Ngôn, Truyền Đạo, Hê-bơ-rơ, Khải Huyền, etc.). - No other terminology issues; 16-term glossary applied exactly throughout.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

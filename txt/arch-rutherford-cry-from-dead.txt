@@ -46,8 +46,4 @@ Bàn tiệc đầy những đồ nôn mửa, nhưng Chúa chúng ta bị ép ph�
 
 [NEEDS REVIEW: một số câu trong bản OCR gốc bị nát nặng, đã dịch theo cách tái dựng hợp lý nhất từ ngữ cảnh]
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: 1. "Kirk" (tiếng Scots) → "Hội Thánh" theo glossary. 2. "Huſband/Husband" chỉ Đấng Christ trong ẩn dụ hôn nhân → "Phu Quân". 3. "Cant. v. 16" → Nhã Ca 5:16, đã Việt hóa. 4. "half-marrow" (tiếng Scots: bạn đời) → "bạn đời". 5. "tocher" (của hồi môn, tiếng Scots) → "của hồi môn". 6. Bản OCR gốc có chữ ſ dài (ſ→s) và nhiều nhiễu ký tự; đã chuẩn hóa khi dịch. 7. Đoạn cuối file (sau dòng ~1195) là rác OCR thuần túy, đã bỏ qua. 8. Một số câu bị nát trong OCR (đánh dấu [NEEDS REVIEW] nội tuyến), đã dịch theo phỏng đoán hợp lý nhất. 9. "the King's Pardon... great Seal" → "sự tha thứ của Vua... ấn lớn của Vua" (ẩn dụ về sự cứu chuộc). 10. Không có thuật ngữ sai glossary nào được phát hiện.
-
 Mở trong trình đọc Về thư viện

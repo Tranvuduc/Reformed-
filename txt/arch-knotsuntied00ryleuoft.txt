@@ -1,6 +1,12 @@
-AI, chưa duyệt
 NHỮNG NÚT THẮT ĐƯỢC THÁO GỠ
-J. C. Ryle
+
+J. C. Ryle · Knots untied : being plain statements on disputed points in religion
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt NHỮNG NÚT THẮT ĐƯỢC THÁO GỠ J. C. Ryle
 
 NHỮNG NÚT THẮT ĐƯỢC THÁO GỠ.
 
@@ -4394,17 +4400,6 @@ long trọng, trước mặt Đức Chúa Trời, xưng nhận, làm chứng, v�
 
 Nguyện ngày ấy không bao giờ đến khi các Quân vương Anh không còn tuyên bố bản tuyên bố trên đây nữa!
 
-Ghi chú về bản dịch:
-- Nguồn: bản quét archive.org (djvu.txt) của ấn bản thứ mười, 1885, William Hunt and Company, Luân Đôn. Chỉ dịch tác phẩm thật; đã loại bỏ dấu đóng thư viện của archive.org ở đầu và cuối bản quét, cùng lời ghi của nhà in ở cuối sách.
-- Mục lục của tập sách được dịch tại chỗ trong thân bài, sau lời tựa.
-- Các tiêu đề chạy trang, số trang, ký hiệu chữ ký in và các mảnh vụn bố cục còn sót lại đã được loại bỏ trong lúc làm sạch và khi dịch từng đoạn; không nội dung thật nào bị bỏ.
-- Các đoạn văn bị tách câu do ngắt trang trong bản quét được giữ nguyên ranh giới đoạn như trong nguồn.
-- Hai chỗ OCR nát đã được dịch theo ngữ cảnh lặp lại chắc chắn trong chính đoạn văn thay vì gắn cờ cần xem lại: đoạn cuối nát của đoạn về sự tái sinh trong chương về sự tái sinh, và phần trùng lặp về hiệu quả của lễ báp-têm đối với trẻ sơ sinh. Một niên đại OCR "1016" về Laud làm Viện trưởng Gloucester đã được dịch là 1616 theo các niên đại kề cận trong đoạn.
-- Trích dẫn Kinh Thánh giữ lối văn 1934 trong trích dẫn nguyên văn; các tham chiếu đã được địa phương hóa (ví dụ Giăng 3:16).
+Ghi chú về bản dịch: - Nguồn: bản quét archive.org (djvu.txt) của ấn bản thứ mười, 1885, William Hunt and Company, Luân Đôn. Chỉ dịch tác phẩm thật; đã loại bỏ dấu đóng thư viện của archive.org ở đầu và cuối bản quét, cùng lời ghi của nhà in ở cuối sách. - Mục lục của tập sách được dịch tại chỗ trong thân bài, sau lời tựa. - Các tiêu đề chạy trang, số trang, ký hiệu chữ ký in và các mảnh vụn bố cục còn sót lại đã được loại bỏ trong lúc làm sạch và khi dịch từng đoạn; không nội dung thật nào bị bỏ. - Các đoạn văn bị tách câu do ngắt trang trong bản quét được giữ nguyên ranh giới đoạn như trong nguồn. - Hai chỗ OCR nát đã được dịch theo ngữ cảnh lặp lại chắc chắn trong chính đoạn văn thay vì gắn cờ cần xem lại: đoạn cuối nát của đoạn về sự tái sinh trong chương về sự tái sinh, và phần trùng lặp về hiệu quả của lễ báp-têm đối với trẻ sơ sinh. Một niên đại OCR "1016" về Laud làm Viện trưởng Gloucester đã được dịch là 1616 theo các niên đại kề cận trong đoạn. - Trích dẫn Kinh Thánh giữ lối văn 1934 trong trích dẫn nguyên văn; các tham chiếu đã được địa phương hóa (ví dụ Giăng 3:16).
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES:
-- Không có thuật ngữ cấm trong thân bài (đã quét toàn văn).
-- "Thiên Chúa giáo" chỉ dùng với nghĩa tên riêng của Công giáo La Mã, đã kiểm chứng từng ngữ cảnh; "Tin Lành" chỉ dùng cho ngữ cảnh Tin Lành giáo, không dùng để dịch "gospel" (gospel dịch là "Phúc Âm").
-- "sacrament" dịch là "nghi thức thánh"; "baptism" dịch là "báp-têm"/"lễ báp-têm"; "inspiration" (của Kinh Thánh) dịch là "sự thần cảm".
-- Trích dẫn Kinh Thánh nguyên văn giữ đúng lối văn 1934, không ép thuật ngữ bảng vào trong trích dẫn.
+Mở trong trình đọc Về thư viện

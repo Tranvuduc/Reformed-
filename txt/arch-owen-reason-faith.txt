@@ -992,6 +992,4 @@ Những Lời Chứng ít ỏi này tôi đã đưa ra trong số nhiều lời 
 
 FINIS.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none. Glossary 16 thuật ngữ: 0 vi phạm (script-verified). 77 cờ [NEEDS REVIEW: OCR] nội tuyến nơi scan 1677 hỏng (long-s, ký tự nhiễu, tham chiếu mờ, câu bị cụt do ngắt trang) — dựng lại theo ngữ cảnh khi chắc chắn, không hư cấu. Các trích dẫn La-tinh/Hy-lạp giữ nguyên văn kèm chú giải theo quy ước; một số dòng Hy-lạp bị OCR phá hủy nặng được giữ nguyên dạng gốc. Nguồn: ấn bản London 1677 (Nathaniel Ponder) của John Owen, D.D., "The Reason of Faith" — luận thư về lý do chúng ta tin Kinh Thánh là Lời Đức Chúa Trời. File được dịch từ 12 chunk song song, ráp với mối nối đã kiểm tra.
-
 Mở trong trình đọc Về thư viện

@@ -1,6 +1,6 @@
 LƯỢC THUẬT VỀ BẢN CHẤT ĐẠO TIN LÀNH
 
-John, D.D. Owen · A brief and impartial account of the nature of the Protestant religion: ... 1690
+John Owen · A brief and impartial account of the nature of the Protestant religion: ... 1690
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
@@ -161,7 +161,5 @@ Nhưng điều mà giữa chúng ta kết quả của cuộc tranh chấp này t
 1. Rằng nó cuối cùng sẽ ra trong sự lợi ích cho Hội Thánh. Kẻ chống Christ sẽ không phải là kẻ thắng cuối cùng trong cuộc tranh chấp này. Sự thành công của hắn ở đây sẽ là điềm báo trước sự hủy diệt hoàn toàn của hắn. Sự lành của vết thương chết người của hắn, sẽ giữ mạng sống hắn chỉ một thời gian ngắn. Đạo sẽ lại được phục hồi trong một sự xưng nhận tinh ròng hơn; từ đó sẽ không có những mặc khải mới, không giáo lý mới, không Kinh Thánh mới, không những lễ thờ phượng mới; thực chất của giáo lý, đạo và sự thờ phượng Tin Lành sẽ được bảo tồn, phục hồi, làm đẹp trong chính chúng, và trong quyền năng chúng, nơi những người sẽ xưng nhận chúng. Sự chứng minh về đó, sẽ được đưa ra nơi khác.
 
 2. Trong khi đó, chịu khổ vì nó đến chết, là cớ vinh quang nhất mà chúng ta có thể dấn thân, và là cớ mà chúng ta chắc chắn sẽ thắng. Trước mắt Đức Chúa Trời nó không kém vinh quang, với Ngài nó không kém đẹp lòng, khi chịu khổ trong việc làm chứng chống lại những sự gớm ghiếc của tình trạng Hội Thánh bội đạo chống Christ, bằng khi chịu khổ vì chính Phúc Âm chống lại ngoại giáo thờ hình tượng.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: (1) "Protestant" throughout rendered "Tin Lành" (the established Vietnamese term for the Protestant movement); "gospel" rendered "Phúc Âm" per glossary. The two are kept distinct. (2) Source OCR from 1690 print: long-s (ſ) normalized; hyphenated line-breaks rejoined; obvious OCR gibberish in headings ("ACC ouN T", "SCSSSSSKSCSILHSHKS NES") interpreted from context as title-page ornaments, not translated as content. "Jolin Omen, D.D." on title page is OCR for "John Owen, D.D." — not altered in translation body. (3) [NEEDS REVIEW: source ambiguity] p.7 "three parts of the Power, and a third part of the Revenue" — rendered "ba phần tư quyền lực... một phần ba thu nhập"; the 1690 phrasing is slightly obscure. (4) [NEEDS REVIEW: source ambiguity] Several passages reference "the Plot" and its "Discoveries" (the Popish Plot, 1678) and the French monarch's power — translated as written; historical identification added here only, not in the text. (5) Scripture citations preserved as given (e.g., Col. 1:6 → Cô-lô-se 1:6; 2 Thessalonians → 2 Tê-sa-lô-ni-ca). No direct KJV quotations requiring 1934 wording occur in this work. (6) "Gallio" (Acts 18) kept as "Ga-li-ôn"; "Luciferian pride" rendered "kiêu ngạo như Lu-xi-phe".
 
 Mở trong trình đọc Về thư viện
