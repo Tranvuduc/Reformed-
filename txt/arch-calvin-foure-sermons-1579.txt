@@ -528,6 +528,4 @@ HẾT
 
 Thomas Dawson, for Thomas Man.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Nguồn: bản scan 1579 của Early English Books, OCR thế kỷ 16 nhiễu nặng (chữ s-dài, vỡ cột, nhiễu máy scan). Đã chuẩn hóa và dựng lại theo ngữ cảnh; 78 chỗ không khôi phục được đã gắn cờ [NEEDS REVIEW: OCR] nội tuyến, không hư cấu. - Tuyển tập gồm: "An answere to a Libel" (chống phái Libertine), lời tựa của Calvin (Geneva, 20/9/1552), bốn bài giảng chống sự giả hình Nicodemite (bài 1: chớ dự phần sự gớm ghiếc của Papist; bài 2: coi trọng danh dự Đức Chúa Trời hơn mạng sống; bài 3: kho báu của Hội Thánh có trật tự; bài 4: trang bị chống hoạn nạn), và phần giải nghĩa Thi Thiên 87 ở cuối — đúng như lời tựa mô tả, cộng thêm các bài giảng khác cùng tập. - "Tin Lành" chỉ dùng theo nghĩa "Protestant" khi đối chiếu với Papist; gospel luôn là "Phúc Âm". - Kinh Thánh trích theo phong cách Việt 1934, tham chiếu địa phương hóa. - Một số trích dẫn lề (margin refs) bị hỏng đã phục hồi theo văn cảnh (ghi trong các cờ). - Không duyệt web.
-
 Mở trong trình đọc Về thư viện

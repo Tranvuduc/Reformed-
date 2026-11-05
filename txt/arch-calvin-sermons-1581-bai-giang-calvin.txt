@@ -6,11 +6,7 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# CÁC BÀI GIẢNG CỦA GIĂNG CAN-VIN
-
-**Nguyên tác:** "Sermons of M. John Calvin" — Giăng Can-vin (John Calvin, 1509–1564), xuất bản Luân Đôn năm 1581 (bản tiếng Anh thời kỳ đầu; chữ s dài đã được chuẩn hoá). Các bài giảng này thuyết giảng về sách Phục Truyền Luật Lệ Ký (Đệ Nhị Luật), trong đó Môi-se nhắc lại giao ước của Đức Chúa Trời với dân Y-sơ-ra-ên. *(Ghi chú: bản OCR chất lượng kém, ~218 dòng đầu là trang bìa/mục lục bị hỏng nên đã bỏ qua; bắt đầu dịch từ chỗ văn bản bài giảng thật sự bắt đầu. Các dòng tiêu đề trang chạy "Maister Iohn Caluin" và ký tự rác của bản OCR đã được loại bỏ. Những chỗ OCR không đọc được đã được phục dựng thận trọng theo mạch văn và đánh dấu [NEEDS REVIEW].)*
-
----
+Nguyên tác: "Sermons of M. John Calvin" — Giăng Can-vin (John Calvin, 1509–1564), xuất bản Luân Đôn năm 1581 (bản tiếng Anh thời kỳ đầu; chữ s dài đã được chuẩn hoá). Các bài giảng này thuyết giảng về sách Phục Truyền Luật Lệ Ký (Đệ Nhị Luật), trong đó Môi-se nhắc lại giao ước của Đức Chúa Trời với dân Y-sơ-ra-ên. (Ghi chú: bản OCR chất lượng kém, ~218 dòng đầu là trang bìa/mục lục bị hỏng nên đã bỏ qua; bắt đầu dịch từ chỗ văn bản bài giảng thật sự bắt đầu. Các dòng tiêu đề trang chạy "Maister Iohn Caluin" và ký tự rác của bản OCR đã được loại bỏ. Những chỗ OCR không đọc được đã được phục dựng thận trọng theo mạch văn và đánh dấu [NEEDS REVIEW].)
 
 "Ta há sẽ giấu Áp-ra-ham, kẻ tôi tớ ta, điều chi mà ta sẽ làm bây giờ ư?" (Sáng Thế Ký 18:17) — Đức Chúa Trời phán như vậy khi Ngài định giáng hình phạt trên Sô-đôm và Gô-mô-rơ. Vì ta biết rằng Áp-ra-ham sẽ dạy dỗ gia đình mình trong các mạng lệnh và luật lệ ta, trong các điều răn và sự xét đoán của ta. Như thế giao ước đã được lập vững bền đời đời, và được làm chứng cho mọi người.
 
@@ -49,8 +45,6 @@ Hơn nữa, Đức Chúa Trời ở đây không chỉ đe dọa những kẻ b�
 Thoạt nhìn, điều này dường như không hợp với sự công chính của Đức Chúa Trời, khi trừng phạt con cái vì tội lỗi của cha mẹ. [NEEDS REVIEW: bản OCR chỗ này bị nát nhiều dòng.] Về điểm này, chúng ta có thể xem lời tiên tri Ê-xê-chi-ên: dân chúng đã lấy làm tục ngữ trong miệng mình rằng: "Cha ăn trái nho chua, mà con ghê răng" (Ê-xê-chi-ên 18:2). Họ đã phạm tội, vì chúng ta đã sống chẳng xứng đáng, nhưng họ lại oán trách Đức Chúa Trời. Ngài thề rằng sự phạm thượng ấy sẽ không còn cai trị giữa vòng họ nữa.
 
 Nhưng dù sao, khi mọi sự được xem xét kỹ, thì chẳng có mâu thuẫn gì giữa các chỗ Kinh Thánh này. Vì trong chỗ của Ê-xê-chi-ên, Đức Chúa Trời chẳng có ý gì khác hơn là: những kẻ bị Ngài trừng phạt không thể viện cớ rằng họ vô tội, rằng sự trừng phạt đến với họ cách bất công. Còn ở đây, khi Đức Chúa Trời trừng phạt con cái vì tội lỗi của cha mẹ, thì Ngài làm vậy [NEEDS REVIEW: bản OCR đứt đoạn; ý tiếp theo dường như là: vì con cái cũng đi theo vết chân cha mẹ trong sự gian ác, nên sự trừng phạt là công chính].
-
----
 
 ...vì tội lỗi của cha mẹ; nhưng Ngài vẫn không ngừng công chính trong sự đoán phạt Ngài. Vì con cái, về phần mình, khi được xét kỹ, sẽ thấy là có lỗi. Ta còn nói thêm rằng, chúng vừa mới lọt lòng mẹ, thì đã phạm nhiều tội lỗi đáng kể và rõ ràng, đến nỗi cả thế gian đều có thể biết. Vì chúng ta là dòng dõi gì? Chúng ta bởi bản tính sinh ra điều gì, nếu chẳng phải tội lỗi và gian ác? Vậy thì những trẻ thơ vốn đã là tội nhân, ngay khi còn trong lòng mẹ, há chẳng bị định tội sao?
 
@@ -92,8 +86,6 @@ Chúng ta phải cân nhắc kỹ các lời khuyên răn này của Đức Chú
 
 "Hãy ngắm xem các tầng trời và đất." Chúng ta thấy Đức Chúa Trời được tỏ ra đầy đủ trong Lời Ngài. [NEEDS REVIEW: bản OCR đứt đoạn; dường như trích Rô-ma 1:20 theo lời Phao-lô: dầu Ngài vô hình về bản thể, Ngài tỏ mình ra bởi các công việc Ngài, để chúng ta không còn cớ chữa mình; và khi chúng ta đến với Kinh Thánh, chúng ta sẽ thấy hình ảnh Ngài ở đó.]
 
----
-
 [NEEDS REVIEW: đoạn mở đầu bị nát; dường như luận rằng Lời Đức Chúa Trời phải được xử lý cách xứng đáng, chớ chẳng phải đem ra nhạo báng để đùa giỡn; và khi có vấn đề về các mầu nhiệm thánh của Đức Chúa Trời, chúng ta chớ xét đoán theo trí khôn riêng mình.]
 
 Về các điều răn. "Hãy nhớ ngày nghỉ đặng làm nên ngày thánh" (Xuất Ê-díp-tô Ký 20:8). [NEEDS REVIEW: bản OCR câu Kinh Thánh bị hỏng.]
@@ -121,8 +113,6 @@ Chúng ta phải chú ý điều Ngài truyền dạy: để được Lời Ngà
 [NEEDS REVIEW: một đoạn dài bị nát; ý chính dường như là:] Khi người ta đã suy ngẫm các công việc Đức Chúa Trời, thì chắc chắn mọi sự phù vân sẽ bị bỏ đi. Nhưng có lắm kẻ chỉ lo những điều hoàn toàn trái nghịch cùng Đức Chúa Trời; họ tưởng mình chưa giữ ngày Chúa nhật trọn vẹn, trừ phi Đức Chúa Trời bị xúc phạm trong đó bằng nhiều cách. Khi người ta (ta muốn nói) lạm dụng ngày thánh mà Đức Chúa Trời đã lập để dẫn chúng ta đến cùng Ngài dường ấy — thì có khác gì súc vật đâu, nếu suốt tuần còn lại chúng ta sống như thú vật trong mọi việc làm mình? Vậy thì còn trông mong gì nữa? Chúng ta hãy biết rằng chẳng đủ đâu, nếu chúng ta chỉ đến nghe một bài giảng hay, nhận được chút lời dạy, và kêu cầu danh Đức Chúa Trời; nhưng chúng ta phải [NEEDS REVIEW: bản OCR đứt đoạn — dường như là "dùng các ân huệ Ngài ban cách tốt hơn, để bởi đó chúng ta được uốn nắn đến nỗi ngày Chúa nhật và cả tuần còn lại đều thánh hóa chúng ta"].
 
 Nhưng phải làm gì đây? Kẻo chúng ta làm trò hề về Đức Chúa Trời và mọi sự thuộc về Ngài. [NEEDS REVIEW: bản OCR đứt đoạn.] "Ngươi sẽ được sống lâu" [NEEDS REVIEW: dường như trích điều răn thứ năm "Hãy hiếu kính cha mẹ ngươi, hầu cho ngươi được sống lâu trên đất" — bản OCR đứt đoạn]. Vì chúng ta thấy trong vòng người Công giáo, người ta tưởng thờ phượng Đức Chúa Trời bằng sự lười biếng và nhàn rỗi.
-
----
 
 [NEEDS REVIEW: đoạn mở đầu bị nát nhiều dòng; ý chính dường như là: khi chúng ta đã dùng ngày Chúa nhật để ca ngợi và tôn vinh danh Đức Chúa Trời, suy ngẫm các công việc Ngài, thì chúng ta sẽ thấy mình được ích lợi trong đó; và điều đó sẽ như một dấu ấn trên chúng ta.]
 
@@ -152,8 +142,6 @@ Hãy ghi nhớ, và trên hết mọi sự phải ghi vào lòng rằng Chúa Gi
 
 Về các điều răn. ...lý do khiến người ta lìa bỏ sự thờ phượng Đức Chúa Trời... [NEEDS REVIEW: bản OCR đứt đoạn; dường như trích Sáng Thế Ký về Áp-ra-ham dâng mình trọn vẹn cho Đức Chúa Trời]. Chúng ta hãy coi đây là lời cảnh cáo, chẳng những phải thánh hóa [ngày Sa-bát]...
 
----
-
 ...chẳng những chúng ta phải thánh hóa mình bởi Lời Đức Chúa Trời, mà còn chẳng dung chịu sự rối loạn nào giữa vòng chúng ta, nhưng mọi điều như vậy phải được cất đi sạch sẽ. Hơn nữa, hãy ghi nhớ rằng khi Chúa chúng ta muốn chúng ta hết lòng giữ gìn sự thờ phượng Ngài, đến nỗi ngay cả những kẻ xưng mình thuộc về Hội Thánh cũng phải bị ép buộc mà theo chúng ta khi họ sống giữa vòng chúng ta, thì chúng ta sẽ chẳng còn cớ chữa mình, nếu về phần mình chúng ta chẳng dâng trọn vẹn cho Ngài.
 
 [NEEDS REVIEW: một đoạn dài bị nát, chỉ còn đọc được rời rạc các cụm như "Đức Chúa Trời ban cho", dường như luận về ân điển Đức Chúa Trời ban trong điều răn.]
@@ -179,8 +167,6 @@ Về điều răn thứ sáu: "Ngươi chớ giết người" (Xuất Ê-díp-t�
 Vậy chúng ta hãy ghi nhớ điều này: Đức Chúa Trời đã cấm giết người, như một điều gian ác và đáng ghê tởm. [NEEDS REVIEW: bản OCR chỗ này bị nát; ý chính dường như là:] Vì chúng ta thấy ngay cả loài thú cũng chẳng giết đồng loại mình; chúng cùng một loài và giống nhau; dầu chúng thiếu lý trí để phân biệt thiện ác, dầu chúng chẳng có luật pháp hay sự khôn ngoan, nhưng sự nhận biết về bản tính chung giữa chúng cũng ngăn chúng khỏi mọi sự tàn ác. Vậy thì súc vật còn biết chẳng sống mà làm hại đồng loại mình — huống chi loài người? [NEEDS REVIEW: bản OCR đứt đoạn.]
 
 Hơn nữa, chúng ta hãy nhớ rằng dầu Đức Chúa Trời chẳng phán thêm, thì chúng ta cũng đã bị định tội bởi chứng cớ của chính lương tâm mình rồi: kẻ nào nổi giận nghịch cùng người lân cận, khinh dể bản tính loài người, thì chẳng đáng được kể vào số loài người. Nhưng nay thẩm quyền của Đức Chúa Trời đi đôi với điều chúng ta đã biết bởi sự dẫn dắt của bản tính: Ngài tỏ cho chúng ta rằng chúng ta chẳng thể làm hại loài người mà chẳng phải khai trình về điều đó trước mặt Ngài. Vậy khi nghe điều này, chúng ta hãy học bước đi chẳng làm hại ai; bằng không, hãy biết rằng Đức Chúa Trời sẽ là kẻ thù chẳng đội trời chung với chúng ta, vì Ngài đã tuyên bố rằng mọi người đều ở dưới sự che chở và bảo vệ Ngài. Thật vậy, lời đe dọa này chẳng được bày tỏ rõ ở đây; nhưng đủ rồi, vì Ngài đã phán về điều này ở những chỗ khác. Vì khi Ngài phán: loài người được dựng nên theo hình ảnh Đức Chúa Trời (Sáng Thế Ký 1:27), thì chẳng ai được phép làm hại người. Vì điều đó cũng như Chúa chúng ta phán: Các ngươi gây chiến với Ta, khi các ngươi tìm cách hại lẫn nhau; vì Ta đã in hình ảnh Ta trên [loài người].
-
----
 
 [NEEDS REVIEW: đoạn mở đầu bị nát; dường như luận về việc đất bị ô uế bởi huyết đổ ra, trích một chỗ Kinh Thánh về sự đổ huyết làm ô uế đất.]
 
@@ -216,8 +202,6 @@ Về các điều răn. Khi giảng giải lời này trước đây, chúng ta 
 
 [NEEDS REVIEW: bản OCR chỗ này bị nát; ý chính dường như là:] Hãy coi chừng cổ các ngươi. Chớ tự dối mình rằng các ngươi chỉ trệch đi một chút thôi; vì các ngươi sẽ ngã nhào chết chóc; vậy hãy cẩn thận. Kìa, đó là cớ tại sao Đức Chúa Trời tiến hành như vậy trong luật pháp Ngài, và tại sao bây giờ Ngài chẳng nói chung về mọi sự tà dâm, nhưng nói về tội ngoại tình, tức là phá vỡ hôn nhân. Như chúng ta biết, nếu có điều gì phải được giữ thánh và bất khả xâm phạm trong cả đời người, thì đó là lời thề mà người chồng hứa với vợ, và người vợ hứa với người chồng. Thật vậy, mọi giao ước và lời hứa chúng ta lập đều phải được giữ trung tín; nhưng nếu so sánh, chúng ta sẽ thấy hôn nhân chẳng phải vô cớ mà được gọi là giao ước của Đức Chúa Trời (Châm Ngôn 2:17). Sa-lô-môn bởi lời này tỏ ra rằng Đức Chúa Trời cai trị trên [hôn nhân].
 
----
-
 Vì cớ đó, nếu người chồng phá vỡ lời hứa mình đã hứa với vợ, thì chẳng những hắn làm điều sai trái với vợ mình, mà còn với Đức Chúa Trời. Cũng phải nói như vậy về người vợ: nàng chẳng những làm điều sai với chồng mình, mà còn với [Đức Chúa Trời]. [NEEDS REVIEW: bản OCR đứt đoạn.] Chúng ta phải coi [tội ngoại tình] là đáng ghê tởm và đáng rủa sả, như thể [kẻ ấy đã phá vỡ giao ước thánh mà mình đã lập].
 
 Về các điều răn. [NEEDS REVIEW: bản OCR chỗ này bị nát; ý chính dường như là:] Đức Chúa Trời muốn tỏ ra rằng, dầu loài người coi tội lỗi mình là nhỏ mọn khi họ sống phóng đãng, Ngài có một cái cân khác để cân các tội lỗi họ, và Ngài sẽ định tội mọi kẻ là kẻ ngoại tình, là những kẻ lạm dụng mình trong mọi sự gian ác và ô uế. Càng như vậy, chúng ta càng chẳng nên cầu xin sự tha thứ cách hời hợt...
@@ -247,8 +231,6 @@ Về các điều răn. [NEEDS REVIEW: bản OCR chỗ này bị nát; ý chính
 [NEEDS REVIEW: bản OCR chỗ này bị nát; dường như trích 1 Phi-e-rơ 2:1:] "Hãy từ bỏ mọi điều độc ác, mọi điều gian dối, mọi thứ giả hình..." [NEEDS REVIEW: bản OCR đứt đoạn] ...sự thù ghét, mọi sự lừa dối nghịch cùng người lân cận chúng ta; cũng như tội giết người và tội ngoại tình, Ngài sẽ bị xúc phạm nặng nề bởi tội trộm cướp, vì đây là lời sỉ nhục và làm nhục; vậy Ngài sẽ chẳng chịu để mình bị [khinh dể].
 
 [NEEDS REVIEW: một đoạn dài bị nát; ý chính dường như là:] Những kẻ bị hà hiếp kêu la lớn tiếng vào tai Đức Chúa Trời, và Ngài nghe tiếng họ mà chẳng cần một lời nào. Vậy chúng ta chớ đem tay mình vấy bẩn bởi tội trộm cướp, kẻo bị Đức Chúa Trời định tội, dầu loài người chẳng định tội chúng ta... Đức Chúa Trời phán về điều này [NEEDS REVIEW: bản OCR đứt đoạn] ...và sự xét đoán. Ngài cũng [phán] rằng kẻ nào lừa dối người dốt nát... [NEEDS REVIEW: bản OCR đứt đoạn] ...kẻ giàu đối xử với kẻ nghèo... [NEEDS REVIEW: bản OCR đứt đoạn].
-
----
 
 [NEEDS REVIEW: đoạn mở đầu bị nát nhiều dòng; ý chính dường như là:] Chúng ta chẳng đáng được kể vào số loài người, nếu chúng ta dùng mưu gian hay đối xử độc ác nào. Việc làm chúng ta tỏ ra rằng chúng ta chẳng có đức ái, chúng ta như súc vật.
 
@@ -281,8 +263,6 @@ Chúng ta có thể tránh cả hai thái cực này: [vừa chẳng bêu rếu,
 "Ngươi chớ tham nhà người lân cận mình; cũng đừng tham vợ người, hoặc tôi trai tớ gái, bò, lừa, hay là vật chi thuộc về người lân cận mình" (Xuất Ê-díp-tô Ký 20:17). [NEEDS REVIEW: bản OCR câu Kinh Thánh bị hỏng một phần.]
 
 Và vì vậy, khi Đức Chúa Trời buộc loài người chớ trộm cướp và chớ ngoại tình, thì Ngài cũng buộc cả tình cảm và ước muốn họ. Thật vậy, nếu chẳng vậy, Đức Chúa Trời cũng chẳng có quyền năng hơn loài người trong việc định luật. Vì một người trần, nếu định tội ngoại tình, cũng sẽ định tội hành động và ước muốn đó; nếu một ý định xấu bày tỏ ra, nó sẽ bị trừng phạt. Nếu luật pháp Đức Chúa Trời cũng vậy, thì nó chẳng có gì lớn lao; vì nó chỉ là một chính sách, tức là quy tắc trật tự để cai trị chúng ta cách lương thiện trước mặt loài người. Nhưng trong đó còn có nhiều hơn thế, như Thánh Phao-lô nói: luật pháp chẳng thể giữ được nếu chẳng có lương tâm tinh sạch và đức tin không giả dối (1 Ti-mô-thê 1:5). Vậy nếu đòi hỏi chúng ta phải có sự vững chắc như vậy để giữ cho đúng...
-
----
 
 ...luật pháp Đức Chúa Trời: mọi dục vọng và ước muốn gian ác đều bị cấm, cũng như mọi [hành động gian ác]. Vì chính bởi [điều răn này] mà [Đức Chúa Trời dò xét chúng ta].
 
@@ -318,8 +298,6 @@ Hãy nhớ rằng khi chúng ta [xét mình]... [NEEDS REVIEW: bản OCR đứt 
 
 [NEEDS REVIEW: phần cuối đoạn bị nát nặng, chỉ còn các mảnh câu rời rạc không thể phục dựng chắc chắn; dường như là phần kết của bài giảng về điều răn thứ mười, kêu gọi ăn năn và nương dựa ân điển.]
 
----
-
 [NEEDS REVIEW: đoạn mở đầu bị nát nặng, chỉ còn các mảnh câu rời rạc; dường như luận về việc Đức Chúa Trời đã chọn một số người... và Lời Ngài được phán ra với tiếng rõ ràng, chẳng phải chỉ cho một nhóm nhỏ, nhưng cho cả dân sự, để luật pháp Ngài ai cũng hiểu được, kẻ dốt nát nhất cũng được dạy dỗ.]
 
 [NEEDS REVIEW: bản OCR chỗ này bị nát; ý chính dường như là:] Khi Môi-se nói rằng Đức Chúa Trời chẳng thêm gì vào mười điều này nữa (Phục Truyền Luật Lệ Ký 5:22), thì mục đích là để chúng ta càng dễ được dạy dỗ, càng được khích lệ, vì biết rằng Đức Chúa Trời sẽ chẳng để chúng ta lang thang và lao nhọc vô tận, như trong một điều chẳng có bờ bến; nhưng Ngài chỉ đặt trước chúng ta mười điều. Thật vậy, Ngài đã giải thích mười điều răn này qua Môi-se, và sau đó qua các tiên tri. [NEEDS REVIEW: bản OCR đứt đoạn.] ...Ngài cấm chúng ta thêm hay bớt, nghiêng bên hữu hay bên tả...
@@ -338,15 +316,13 @@ Bây giờ chúng ta hãy đến điểm thứ ba: Đức Chúa Trời phán ra 
 
 [NEEDS REVIEW: một đoạn dài bị nát; ý chính dường như chuyển sang luận về chức vụ rao giảng: Đức Chúa Trời dùng Hội Thánh và các đầy tớ Ngài để xây dựng Hội Thánh; bởi Hội Thánh mà [Lời Ngài] còn lại trong tình trạng trọn vẹn.]
 
---- **BÀI GIẢNG MỚI** [NEEDS REVIEW: tiêu đề bài giảng trong bản OCR bị hỏng hoàn toàn ("Sermon }: 20:07 2190 n14R"); theo mạch văn tiếp theo, đây là bài giảng về Phục Truyền Luật Lệ Ký 5:22-27 — dân sự nghe tiếng Đức Chúa Trời từ giữa lửa.]
+BÀI GIẢNG MỚI [NEEDS REVIEW: tiêu đề bài giảng trong bản OCR bị hỏng hoàn toàn ("Sermon }: 20:07 2190 n14R"); theo mạch văn tiếp theo, đây là bài giảng về Phục Truyền Luật Lệ Ký 5:22-27 — dân sự nghe tiếng Đức Chúa Trời từ giữa lửa.]
 
 [NEEDS REVIEW: đoạn mở đầu bài giảng bị nát; chỉ còn đọc được các mảnh như "hỡi anh em, các ngươi đã nghe Đức Chúa Trời chúng ta đã...", dường như nhắc lại việc dân sự đã nghe tiếng Ngài từ giữa lửa mà vẫn sống.]
 
 ...cơn gió xoáy, ngọn lửa cháy, và mọi điều chúng ta đọc trong Xuất Ê-díp-tô Ký chương 19 và 20 — tất cả điều này (ta muốn nói) đã được thực hiện để [NEEDS REVIEW: bản OCR đứt đoạn] ...dân Y-sơ-ra-ên... Vì nếu chẳng vậy, chúng ta chẳng thể chịu nổi vinh quang Ngài mà chẳng bị chìm ngập và rối loạn hoàn toàn. Vậy chúng ta hãy học rằng điều này được kể lại cho chúng ta, để trong con người dân Y-sơ-ra-ên, chúng ta biết rằng Đức Chúa Trời uốn mình theo sự yếu đuối chúng ta, khi Ngài sai Lời Ngài đến được rao giảng bởi những người giống như chúng ta, làm sứ giả Ngài, vì ích lợi chúng ta. Hãy biết rằng đây là một ước muốn ngu dại: mong Đức Chúa Trời hiện ra với chúng ta từ trời, hay tỏ cho chúng ta một phép lạ bày tỏ nào. Vì chúng ta chẳng thể hiểu thấu sự uy nghi và vinh quang Ngài. [NEEDS REVIEW: bản OCR đứt đoạn.] ...bản tính riêng của luật pháp là khiến chúng ta run sợ; nhưng [điều đó dẫn chúng ta] đến Phúc Âm. Vì chúng ta phải... [NEEDS REVIEW: bản OCR đứt đoạn] ...rằng chúng ta đáng bị rủa sả...
 
 [NEEDS REVIEW: bản OCR chỗ này bị nát; ý chính dường như là:] ...chúng ta phải có sự uy nghi này trước mắt mình. Như ngày nay, nếu chúng ta muốn làm môn đồ thật của Đức Chúa Trời, khi chúng ta đến nghe bài giảng, chúng ta phải nhớ lại điều Môi-se kể: luật pháp đã được công bố cách thể ấy, chính Đức Chúa Trời là Đấng đã phán. Và thứ hai, chúng ta phải thêm chứng cớ chúng ta đã đưa ra... để bản án của Đức Chúa Trời vang vọng lại trong tai chúng ta...
-
----
 
 [NEEDS REVIEW: đoạn mở đầu bài giảng bị nát nặng; chỉ còn đọc được các mảnh như "hỡi anh em, các ngươi đã nghe Đức Chúa Trời chúng ta đã...", "từ giữa lửa", "ngày nay chúng ta đã thấy Đức Chúa Trời phán cùng loài người, mà loài người vẫn sống" (Phục Truyền Luật Lệ Ký 5:24).]
 
@@ -369,8 +345,6 @@ Cuối cùng, có lời chép: "Ngươi hãy đến gần, nghe mọi điều Gi
 [NEEDS REVIEW: một đoạn rất dài bị nát, chỉ còn các mảnh câu rời rạc; ý chính dường như là:] ...những kẻ rao giảng phải... theo ý muốn tốt lành Ngài... [NEEDS REVIEW: bản OCR đứt đoạn] ...những kẻ dạy dỗ phải được nhận lãnh với mọi sự tôn kính... chớ thêm thắt gì vào Lời Đức Chúa Trời; nhưng phải dễ dạy, sẵn lòng được Đức Chúa Trời dạy dỗ...
 
 [NEEDS REVIEW: bản OCR chỗ này bị nát; ý chính dường như là:] ...vậy chúng ta hãy siêng năng nghe bài giảng; và trật tự này phải được giữ bất khả xâm phạm như một điều thánh... [NEEDS REVIEW: bản OCR đứt đoạn] ...chúng ta hãy nói: chính Ngài là Đấng [phán]... chẳng phải bởi sức loài người... [NEEDS REVIEW: bản OCR đứt đoạn] ...chúng ta hết lòng ước ao điều đó... hãy cất khỏi lòng chúng ta [mọi sự kiêu ngạo]...
-
----
 
 [NEEDS REVIEW: đoạn mở đầu bị nát nặng, chỉ còn các mảnh câu rời rạc; dường như tiếp tục luận về việc dân sự xin Môi-se làm trung bảo và Đức Chúa Trời khen lời họ nói.]
 
@@ -403,8 +377,6 @@ Cuối cùng, có lời chép: "Ngươi hãy đến gần, nghe mọi điều Gi
 [NEEDS REVIEW: một đoạn dài bị nát; ý chính dường như là:] ...chẳng phải để tỏ ra [sự khôn ngoan Ngài]... [Ngài đã định] sự tha tội bởi các của lễ... nhưng Ngài đã không [làm vậy — tức là các của lễ chẳng thể tha tội]. Điều này là để thuyết phục dân sự, sau [khi Đấng Christ đến]... vì Chúa chúng ta [đã chịu chết]... bức màn của đền thờ [bị xé] (Ma-thi-ơ 27:51)... [NEEDS REVIEW: bản OCR đứt đoạn].
 
 [NEEDS REVIEW: bản OCR chỗ này bị nát; dường như bắt đầu lời cầu nguyện kết thúc:] ...với sự xưng nhận các lỗi lầm chúng ta, cầu xin Ngài khiến chúng ta cảm nhận chúng hơn chúng ta đã làm, cho đến khi chúng ta được dẫn đến sự ăn năn thật... [NEEDS REVIEW: bản OCR đứt đoạn] ...[cầu xin Ngài] cất khỏi chúng ta mọi điều ngăn trở chúng ta theo [Ngài]... và kêu cầu Ngài trong mọi nhu cầu chúng ta...
-
----
 
 [NEEDS REVIEW: đoạn mở đầu bị nát nặng; chỉ còn các mảnh như "hầu cho ngươi kính sợ Giê-hô-va Đức Chúa Trời ngươi, giữ mọi luật lệ Ngài... hầu cho ngươi được sống lâu" (Phục Truyền Luật Lệ Ký 6:2).]
 
@@ -444,10 +416,6 @@ Rồi khi có vấn đề về sự cứu rỗi họ, họ sẽ đem ý chí t�
 
 [NEEDS REVIEW: phần cuối bản OCR bị nát rất nặng — dường như là lời cầu nguyện kết thúc bài giảng, chỉ còn đọc được các mảnh rời rạc như "chúng ta hãy cầu nguyện", "Thánh Linh", "xin cho chúng ta...", "để chúng ta phó mình dưới [Ngài]", "chúng ta run sợ mà nói A-men". Không thể phục dựng chắc chắn nội dung chi tiết.]
 
---- *(Phần cuối bản OCR còn dòng "Thomas Dawson" và các mảnh của trang in: "Printed at London... Three Cranes..." — thông tin nhà in, không thuộc nội dung bài giảng nên không dịch.)*
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Thuật ngữ 16 từ chuẩn được giữ nhất quán xuyên suốt (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). Riêng "sự xưng công chính" xuất hiện trong cụm "Kinh Thánh gọi sự tha tội là sự công chính của chúng ta" — dịch sát nguyên văn "our righteousness". - "Papists" dịch là "người Công giáo" (theo ngữ cảnh tranh luận của Can-vin với Công giáo Rô-ma thế kỷ 16). - "the holy Supper" dịch là "bữa Tiệc thánh" (chỉ Tiệc Thánh của Chúa). - Kinh Thánh 1934: các câu trích dẫn dài (Mười Điều Răn, Phục Truyền 5:1-4, 5:22-33, 6:2) được diễn đạt theo văn phong Kinh Thánh 1934 nhưng PHỤC DỰNG từ bản tiếng Anh 1581, không sao chép nguyên văn bản 1934 — cần David đối chiếu khi duyệt. - Địa chỉ câu đã Việt hoá: Sáng Thế Ký 18:17; Phục Truyền Luật Lệ Ký 5:1-4, 5:22-33, 6:2, 6:5, 27:26; Xuất Ê-díp-tô Ký 19-20, 20:3-17, 31:13; Ê-xê-chi-ên 18:2, 20:12; Thi Thiên 50:14, 62:11; Châm Ngôn 1:7(?), 2:17, 30:8-9; Ê-sai 40:6, 58:7; Mi-chê 6:3; Ma-thi-ơ 5:22, 5:28, 7(?), 15(?), 20:15, 27:51; Giăng 4:22, 4:24, 5:23; Rô-ma 1:20(?), 7, 7:24, 13; 1 Cô-rinh-tô 6:15, 6:18, 13:12, 15(?); 2 Cô-rinh-tô(?); Ga-la-ti 5:17, 6:14; Ê-phê-sô(?); Phi-líp 2:7(?), 3:13-14, 4:11-12; Cô-lô-se 2:12, 2:17; 1 Tê-sa-lô-ni-ca 4:3-5(?); 1 Ti-mô-thê 1:5; Hê-bơ-rơ 4:12, 13:5; 1 Phi-e-rơ 2:1; 1 Giăng 3:15; Giô-suê 1:5. Các chú thích lề trong bản OCR nhiều chỗ bị hỏng nên địa chỉ có dấu (?) là suy đoán theo ngữ cảnh, cần kiểm chứng. - Cấu trúc: bản OCR không còn giữ được tiêu đề các bài giảng riêng (chỉ còn một tiêu đề bị hỏng ở khoảng dòng 3608, được đánh dấu). Bản dịch giữ trình tự văn bản gốc: bài giảng về Mười Điều Răn (Phục Truyền 5:1-22, gồm cả 10 điều răn), tiếp theo là các bài giảng về Phục Truyền 5:22-33 và 6:1-3. - Các dòng tiêu đề trang chạy "Maister Iohn Caluin" và ký tự rác OCR đã loại bỏ; phần trang bìa/mục lục (~218 dòng đầu) và trang in cuối (Thomas Dawson, London) không dịch theo chỉ dẫn. - Số cờ [NEEDS REVIEW]: 278 — phần lớn do bản OCR bị hỏng nặng ở nhiều đoạn (đặc biệt từ dòng ~3280 trở đi, nơi gần như mỗi đoạn đều có chỗ đứt), một số ít do chú thích lề Kinh Thánh không đọc được hoặc câu trích dẫn bị đứt đoạn. Không bịa nội dung ở các chỗ này; chỉ dịch theo mạch văn có thể phục dựng được.
+(Phần cuối bản OCR còn dòng "Thomas Dawson" và các mảnh của trang in: "Printed at London... Three Cranes..." — thông tin nhà in, không thuộc nội dung bài giảng nên không dịch.)
 
 Mở trong trình đọc Về thư viện

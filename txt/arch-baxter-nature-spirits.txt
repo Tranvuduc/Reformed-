@@ -610,6 +610,4 @@ ERRATA. Cho Phần Thứ Hai, tr. 12. d. 9. thay primus đọc Primus. tr. 16. d
 
 [NEEDS REVIEW: OCR]
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Dịch từ bản scan 1682 của Richard Baxter; OCR thế kỷ 17 (long-s ſ) đã chuẩn hóa toàn văn. 201 thẻ [NEEDS REVIEW: OCR] nội tuyến đánh dấu các đoạn scan hỏng không phục hồi được (chủ yếu các cụm La-tinh, tên riêng, và dòng nhiễu trang in) — dịch tốt nhất theo ngữ cảnh, không hư cấu. - Thuật ngữ glossary 16 từ: tuân thủ đầy đủ; không vi phạm ("sự xưng công bình"/"sự chọn lựa": 0). Một lần "người Tin Lành" là nghĩa "Protestant" hợp lệ (liệt kê các nhóm Cơ Đốc: Công giáo, Tin Lành, Hy Lạp...). - Các cụm La-tinh học thuật (conceptus fundamentalis, Virtus Una-trina, forma dat nomen, v.v.) giữ nguyên kèm chú thích tiếng Việt như bản gốc. - Kinh Thánh: phong cách Việt 1934, tham chiếu địa phương hóa (Sáng-thế Ký, Thi-thiên, Lu-ca, 1 Cô-rinh-tô, v.v.). - Số thứ tự các mục (§) giữ nguyên như bản in, kể cả chỗ in lộn xộn.
-
 Mở trong trình đọc Về thư viện

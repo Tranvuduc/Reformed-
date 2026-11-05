@@ -1236,8 +1236,4 @@ Nếu số phận cho tôi lại đi đường ấy một lần nữa, tôi có 
 
 HẾT.
 
-TERMINOLOGY ISSUES: - Nguồn OCR bị hư hại nặng (ký tự rác, ngắt dòng sai, tiêu đề trang xen lẫn); đã tái tạo từ ngữ cảnh, loại bỏ tiêu đề trang/số trang/caption minh họa không phải nội dung. - [NEEDS REVIEW: không đọc được năm đăng ký bản quyền trên trang tựa do bản quét mờ ("year 1MB, J.v")]. - Tên nhân vật ngụ ngôn: Christiana giữ nguyên; các con Ma-thi-ơ/Sa-mu-ên/Giô-sép/Gia-cơ; địa danh dịch nghĩa (Thành Thiên Đàng, Vũng Lầy Thất Vọng, Cổng Hẹp, Nhà Đẹp, Dãy Núi Vui Thích, Hội Chợ Phù Hoa, Lâu Đài Nghi Ngờ, Dòng Sông Sự Chết, Bê-u-la). Đã chuẩn hóa "Cơ-đốc nhân"→"Christian" và "Na-sôn"→"Na-xôn" cho nhất quán giữa các phần. - Một số tên ngụ ngôn phụ do các thợ dịch nghĩa khác nhau (ví dụ Prudence→Thận Trọng/Khôn Ngoan); ý nghĩa tương đương. - "Tin Lành" chỉ dùng cho "Protestant" theo quy tắc dự án; "gospel" trong văn xuôi dịch là "Phúc Âm".
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

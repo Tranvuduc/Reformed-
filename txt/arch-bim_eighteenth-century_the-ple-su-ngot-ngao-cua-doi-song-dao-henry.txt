@@ -580,8 +580,4 @@ Cuối cùng, chúng ta hãy khao khát sự trọn vẹn của những niềm v
 
 [NEEDS REVIEW: phần kết sách bị OCR hỏng, không đọc được trọn vẹn; sách kết thúc tại đây trong bản in 1771, tiếp theo là trang quảng cáo của nhà xuất bản]
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - "Animal Life" / "Divine Life" (trong lời tựa trích Henry More): dịch là "đời sống thú tính" / "đời sống thiêng liêng" — không thuộc 16 thuật ngữ chuẩn, giữ nguyên cách dịch đã chọn xuyên suốt. - "Thiên Chúa giáo" được dùng một lần để chỉ Công giáo Rô-ma trong ngữ cảnh lịch sử (sửa lỗi "Đức Chúa Trời giáo" có sẵn); "Do Thái Cơ Đốc giáo" không xuất hiện trong sách này. - "bí tích" không xuất hiện; "thánh lễ" (Tiệc Thánh của Chúa) được dùng cho "the Lord's Supper". - "báp-têm" không xuất hiện trong sách này. - Nhiều trích dẫn Kinh Thánh được đánh dấu [NEEDS REVIEW] vì số câu/chương trong OCR gốc bị hỏng (chữ số OCR sai); tên sách và nội dung câu đã được dịch theo văn phong Kinh Thánh 1934 dựa trên nội dung rõ ràng nhất. - Các điểm 5–8 trong phần "Thứ ba" (làm cho tỏ ra đã kinh nghiệm): số thứ tự trong OCR gốc bị lệch (ghi "6.", "7.", "8."); đã giữ theo mạch văn và ghi chú. - Phần "bảy điều hướng dẫn" trong OCR chỉ phục hồi được sáu điều rõ ràng; điều còn lại có thể đã mất trong đoạn OCR hỏng.
-
 Mở trong trình đọc Về thư viện

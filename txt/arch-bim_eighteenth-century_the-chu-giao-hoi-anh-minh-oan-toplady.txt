@@ -532,8 +532,4 @@ Thưa ông Mục sư, Người tôi tớ vâng lời nhất, Luân Đôn, tháng
 
 FINIS.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - Toàn sách dùng bộ 16 thuật ngữ chuẩn nhất quán (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). - Trích dẫn Kinh Thánh theo văn phong Kinh Thánh 1934; số chương/câu giữ nguyên như nguyên tác. - Các cụm Latin/Hy Lạp giữ nguyên văn kèm dịch nghĩa trong ngoặc, theo cách chính tác giả làm. - "Sacrament" trong ngữ cảnh Hội Thánh Anh được dịch là "thánh lễ" (theo chuẩn cleanup của dự án). - 49 cờ [NEEDS REVIEW] rải khắp bản dịch, hầu hết do OCR bản in 1769 hỏng (số trang trích dẫn, tên riêng, từ Hy Lạp, câu bị cắt ngang). David nên duyệt kỹ trước khi đăng. - "Bí tích" được giữ nguyên cho "sacrament" trong các đoạn bàn về thần học thánh lễ (định nghĩa của Hội Thánh Anh; 7 phép của Công giáo La Mã) — người dịch dùng nhất quán cả sách. Nếu David muốn thống nhất với chuẩn cleanup toàn site ("thánh lễ"), có thể thay hàng loạt. - "Phép rửa tội cho chuông" (dòng ~137) là cách nói mỉa mai của tác giả về tục làm phép chuông của Công giáo, không phải phép báp-têm thật — giữ nguyên theo mạch văn. - Nguồn OCR đã chuẩn hoá (ſ→s) lưu tại ~/workspace/translate-wave5/sources/toplady-church-england-vindicated-src.txt (chia 4 phần).
-
 Mở trong trình đọc Về thư viện

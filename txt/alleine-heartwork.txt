@@ -6,9 +6,9 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# LỜI CHỈ DẠY VỀ CÔNG VIỆC CỦA LÒNG
+LỜI CHỈ DẠY VỀ CÔNG VIỆC CỦA LÒNG
 
-## (Instructions About Heart-Work)
+(INSTRUCTIONS ABOUT HEART-WORK)
 
 Richard Alleine (1611–1681)
 
@@ -1293,7 +1293,5 @@ Và như vậy tôi đã cuối cùng đi qua bổn phận lớn này về sự 
 Điều gì đã là mục đích và ước muốn của tôi trong toàn bộ công việc này, nhưng là, 1. Để chuẩn bị lòng các ngươi cho Chúa, để Ngài có thể chấp nhận chúng. 2. Để đem chúng về với Chúa, để chúng có thể trở nên của Ngài. 3. Để bảo tồn chúng cho Chúa, để giữ chúng trong sạch, để Ngài có thể vui thích trong chúng. Ôi hãy để điều này được làm, và rồi các ngươi có thể giao phó chúng cho Chúa để giữ chúng an toàn.
 
 Các ngươi có chịu nghe theo, các ngươi có chịu để bị thuyết phục, chuẩn bị và đem lòng mình về với Chúa như vậy? giữ gìn và giữ chúng trong sạch và trung tín với Ngài như vậy? và rồi tin cậy vào sự thành tín của Ngài? Nếu tôi có thể thuyết phục các ngươi trong điều này, tôi đã làm xong công việc mình, và đã đặt các ngươi vào sự chăm sóc an toàn như vậy, tôi sẽ dạn dĩ rời các ngươi, trong sự tin chắc rằng từ nay các ngươi sẽ được "Đức Chúa Trời dùng quyền phép Ngài mà giữ anh em qua đức tin, đặng được sự cứu rỗi." (1 Phi-e-rơ 1:5.)
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: 1. Các câu trích Kinh Thánh dịch theo nghĩa kiểu BDM2010 — cần đối chiếu wording chính xác trước khi xuất bản; nhiều cờ [NEEDS REVIEW] inline. 2. Lỗi trích dẫn của bản in được giữ nguyên kèm cờ: "Matt. ii. 28" (phải là Ma-thi-ơ 11:28), "Matt. xxvi. 10" (phải là 26:40), "Heb. v. 14" (phải là 9:14), "2 Tim. i. 11" (phải là 1:14), "2 Tim. iii. J5" giữ nguyên 3:15 theo bản in, "Cant. ii. 17" giữ nguyên theo bản in. 3. Điểm nối 6→7 (giữa câu, trích Ê-sai 65:13-14) đã nối liền; không có đoạn trùng lặp nào giữa các chunk. 4. Tiêu đề phụ "# HƯỚNG DẪN..." do worker chunk 10 chèn giữa file đã gỡ bỏ. 5. Nguồn là bản in lại 1845 (archive.org, public domain), không phải ấn bản Monergism Books. "A Companion for Prayer" đi kèm trong tập đã loại trừ — chỉ dịch "Instructions About Heart-Work".
 
 Mở trong trình đọc Về thư viện

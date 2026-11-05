@@ -1,6 +1,6 @@
 CÁC BÀI GIẢNG CỦA ÔNG GIOAN CALVIN VỀ MƯỜI ĐIỀU RĂN
 
-Gioan Calvin · Sermons of M. John Calvin upon the Ten Commandments (1581)
+John Calvin · Sermons of M. John Calvin upon the Ten Commandments (1581)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
@@ -12,13 +12,11 @@ Nguyên tác: "Sermons of M. John Calvin upon the Ten Commandments" (1581) Tác 
 
 [NEEDS REVIEW: bản OCR từ ấn bản 1581 rất kém (chữ ſ dài, nhiều dòng nhiễu). Bản dịch tái cấu trúc theo mạch văn rõ ràng; các đoạn OCR hỏng nặng được dịch theo đại ý kèm cờ.]
 
----
-
-## LỜI TỰA VỀ LUẬT PHÁP ĐỨC CHÚA TRỜI
+LỜI TỰA VỀ LUẬT PHÁP ĐỨC CHÚA TRỜI
 
 Đức Chúa Trời đã ban luật pháp Ngài không phải để chúng ta xét đoán theo trí khôn riêng mình, nhưng để chúng ta vâng phục với lòng kính sợ. Khi có câu hỏi về các mầu nhiệm thánh của Đức Chúa Trời, chúng ta chớ xét đoán theo sự khôn ngoan riêng, nhưng hãy tiếp nhận Lời Ngài với lòng tôn kính. Dẫu những điều ấy dường như nghịch với lý trí chúng ta, chúng ta phải giam hãm mọi giác quan mình và phục tùng dưới mạng lệnh Ngài.
 
-## ĐIỀU RĂN THỨ HAI: ĐỨC CHÚA TRỜI KỴ TÀ
+ĐIỀU RĂN THỨ HAI: ĐỨC CHÚA TRỜI KỴ TÀ
 
 "Ta là Giê-hô-va Đức Chúa Trời ngươi, là Đức Chúa Trời kỵ tà; hễ ai ghét ta, ta sẽ nhân tội tổ phụ phạt lại con cháu đến ba bốn đời, và sẽ làm ơn đến ngàn đời cho những kẻ yêu mến ta và giữ các điều răn ta." (Xuất Ê-díp-tô Ký 20:5-6)
 
@@ -36,7 +34,7 @@ Trước hết, chúng ta hãy biết rằng Đức Chúa Trời chẳng mắc n
 
 [NEEDS REVIEW: đoạn OCR từ dòng 200-380 nhiễu nặng, dịch theo mạch văn về sự kỵ tà của Đức Chúa Trời và sự thờ hình tượng.]
 
-## VỀ NGÀY SA-BÁT
+VỀ NGÀY SA-BÁT
 
 "Nhớ ngày nghỉ đặng làm nên ngày thánh." (Xuất Ê-díp-tô Ký 20:8)
 
@@ -52,16 +50,12 @@ Khi Đức Chúa Trời truyền dạy về ngày Sa-bát, Ngài muốn chúng t
 
 [NEEDS REVIEW: dòng 1100-1720 bàn về Mười Điều Răn do Môi-se giảng giải; OCR hỏng từng cụm, chỉ giữ được đại ý: luật pháp được ban để bày tỏ ân điển Đức Chúa Trời và sự thánh khiết Ngài, không phải để loài người tự cứu bằng việc làm.]
 
-## KẾT LUẬN: MỤC ĐÍCH CỦA LUẬT PHÁP
+KẾT LUẬN: MỤC ĐÍCH CỦA LUẬT PHÁP
 
 Luật pháp được ban ra không phải để chúng ta khoe mình công chính bởi việc làm, nhưng để chúng ta thấy tội lỗi mình, biết mình cần Đấng Christ, và học cách sống đẹp lòng Đức Chúa Trời trong sự vâng phục bởi đức tin.
 
 Môi-se đã giảng giải Mười Điều Răn cho dân sự để họ biết ân điển Đức Chúa Trời cách đặc biệt. Nếu điều này đã được thực hiện dưới luật pháp, thì dưới Phúc Âm, chúng ta càng phải hiểu rõ hơn: Đức Chúa Trời ban luật pháp để dẫn chúng ta đến với Đấng Christ, là sự cuối cùng của luật pháp cho mọi kẻ tin (Rô-ma 10:4).
 
 [NEEDS REVIEW: phần cuối (dòng 1722-2339) OCR rời rạc; đại ý về sự giảng giải luật pháp và ứng dụng thực tiễn được giữ lại theo mạch văn.]
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Bản OCR 1581 rất kém; ~40% từ đọc được rõ, còn lại tái cấu trúc theo ngữ cảnh với cờ [NEEDS REVIEW]. - "gelous God" (jealous God) dịch "Đức Chúa Trời kỵ tà" theo văn phong 1934. - Các trích dẫn Kinh Thánh được Việt hóa địa chỉ (Xuất Ê-díp-tô Ký, Ê-xê-chi-ên, Rô-ma, Thi Thiên). - Đây là bản dịch ý nghĩa đầy đủ, không phải từng chữ, do OCR gốc không cho phép đối chiếu chính xác.
 
 Mở trong trình đọc Về thư viện

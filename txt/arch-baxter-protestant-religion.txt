@@ -1272,8 +1272,4 @@ The Suffering Christian — Người Cơ Đốc Chịu Khổ. 12°.
 
 Nostradamus's Prophecies — Những Lời Tiên Tri của Nostradamus.
 
-TRANSLATION STATUS: COMPLETE
-
-TERMINOLOGY ISSUES: - 63 cờ [NEEDS REVIEW] nội tuyến đánh dấu những chỗ scan 1692 bị hỏng nặng (long-s, vỡ cột, dòng nhiễu) không khôi phục được; đã dịch theo ngữ cảnh khi có thể, không hư cấu. - OCR chữ s-dài (ſ) đọc nhầm thành 'f' đã được chuẩn hóa trong quá trình dịch (vd: 'fome'→'some', 'Chrift'→'Christ', 'Jefus'→'Jesus'). - Tiêu đề in gốc ghi 'TRUELY' (sai chính tả của 'TRULY'), giữ nguyên ý nghĩa trong bản dịch. - Các lỗi đánh số điểm trong bản in gốc được giữ nguyên (vd: số 25 lặp hai lần, '91' thay cho 31, '45' thay cho 43). - Trích dẫn Kinh Thánh theo phong cách Việt 1934; tên sách đã địa phương hóa (Ma-thi-ơ, Giăng, Rô-ma, 1 Cô-rinh-tô, Thi Thiên, Sáng-thế Ký, v.v.). - Thuật ngữ glossary 16 từ áp dụng đầy đủ: 'Christ' đứng một mình → 'Đấng Christ'; 'Protestant' → 'Tin Lành'; 'Papist/Popery' → 'người Công giáo La Mã'/'chế độ Giáo hoàng' — giữ nguyên sắc thái luận chiến chống Công giáo La Mã của Baxter, không làm mềm. - Các cụm La-tinh học thuật giữ nguyên văn kèm chú giải tiếng Việt. - Mối nối 3→4 và 6→7 có đoạn nguồn bị cắt cụt/hỏng nặng, đã đánh dấu [NEEDS REVIEW]; mối nối 7→8 đã sửa trùng lặp 'các ngôi sao' do chia chunk.
-
 Mở trong trình đọc Về thư viện

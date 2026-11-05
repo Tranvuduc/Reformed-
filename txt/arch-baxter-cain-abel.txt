@@ -640,6 +640,4 @@ Sự Cải cách đã bắt đầu từ những kẻ nhỏ bé nhất, ở nơi 
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Translated from archive.org scan 'cainabelmalignit00baxt' (1680/81 London printing for Tho. Parkhurst) of Richard Baxter's "Cain and Abel malignity, That is Enmity to Serious Godliness"; long-s OCR normalized, spaced-word typography collapsed before translation. - 23 inline [NEEDS REVIEW: OCR] flags where the 17th-century scan was unrecoverable (illegible names, garbled council names, damaged oath passages); reconstructed from context where possible, never invented. - Glossary 16 terms: full compliance — no "sự xưng công bình"/"sự chọn lựa"; "Tin Lành"/"đạo Tin Lành" used only in the legitimate "Protestant" sense (người Tin Lành, Hội Thánh Tin Lành, giáo lý Tin Lành) contrasting with Papists; gospel always "Phúc Âm". - "Godliness" rendered "sự tin kính" (standard Vietnamese Protestant usage); "malignity" rendered "sự ác tâm"/"lòng ác tâm". - Scripture in Vietnamese 1934 style with localized refs (Sáng Thế Ký, Ma-thi-ơ, Giăng, Rô-ma, 1 Giăng, Khải Huyền, v.v.). - Printer's advertisements and digitization boilerplate excluded per project convention; FINIS preserved.
-
 Mở trong trình đọc Về thư viện

@@ -740,8 +740,4 @@ Tôi chỉ còn phải thêm một vài lời khuyên cho những ai đọc lu�
 
 HẾT.
 
-TERMINOLOGY ISSUES: - "sincerity" rendered "lòng thành thật" / "sự thành thật" throughout; "hypocrisy" = "sự giả hình"; "professor (of religion)" = "người tuyên xưng đạo". - "affections" (Edwards) rendered "tình cảm" / "cảm xúc" per context. - Boundary repairs at chunk joints: (1) rejoined point 5 of Ch.II Sec.II split as "unac-/customed" across chunks 1–2 and restored the Wilberforce footnote to its logical position after point 5; (2) repaired three truncated Bunyan "man in the iron cage" dialogue lines at the chunk 2–3 joint against the source ("iron cage" misread corrected; two cut-off sentences completed); (3) corrected chunk-3 speaker tag misread ("Ôi người!" → "Người đàn ông đáp:") and "Thánh Linh" → "Đức Thánh Linh" per glossary. - OCR normalizations applied silently: hyphenated line-breaks joined, long-s normalized, page headers/footers dropped, obvious misreads corrected (lukewarm, knowest, CHAPTER, Edwards/Wilberforce/Bunyan attributions). - No [NEEDS REVIEW] flags required.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

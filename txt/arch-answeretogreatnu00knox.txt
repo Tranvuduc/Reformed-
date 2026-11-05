@@ -1,6 +1,12 @@
-AI, chưa duyệt
 LỜI ĐÁP LẠI VÔ SỐ LỜI BẮT BẺ PHẠM THƯỢNG DO MỘT NGƯỜI ANABAPTIST, KẺ CHỐNG ĐỐI SỰ TIỀN ĐỊNH ĐỜI ĐỜI CỦA ĐỨC CHÚA TRỜI, VIẾT RA
-John Knox
+
+John Knox · An Answere to a great number of blasphemous cavillations written by an
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt LỜI ĐÁP LẠI VÔ SỐ LỜI BẮT BẺ PHẠM THƯỢNG DO MỘT NGƯỜI ANABAPTIST, KẺ CHỐNG ĐỐI SỰ TIỀN ĐỊNH ĐỜI ĐỜI CỦA ĐỨC CHÚA TRỜI, VIẾT RA John Knox
 
 Gửi độc giả.
 
@@ -3720,12 +3726,6 @@ MỌI LƯỠI NÀO SẼ TRANH LUẬN VỚI NGƯƠI TRONG SỰ PHÁN XÉT, CHÍNH
 
 FINIS.
 
-GHI CHÚ CỦA NGƯỜI DỊCH:
-- Dịch toàn văn từ bản quét archive.org (djvu.txt) của ấn bản 1560, in tại Luân Đôn cho Thomas Chard: Lời Tựa gửi độc giả và toàn bộ lời đáp của Knox, đến FINIS.
-- Loại trừ: rác quét và dấu thư viện đầu sách, mảnh trang tựa, tiêu đề chạy trang (OF GODS PREDEST. / AGAINST THE ADVERS.), số trang, chữ ký tờ in, từ bắt ở cuối trang, và các đoạn quét trùng do ngắt trang (nội dung đã dịch một lần ở đoạn trước, không lặp lại).
-- Chính tả cổ (tiếng Scots và tiếng Anh đầu thời cận đại, u/v và i/j hoán đổi, lỗi chữ s dài) đã chuyển sang tiếng Việt hiện đại theo nghĩa; các từ bị ngắt dòng đã nối lại; các câu bị cắt ở ranh giới trang giữ nguyên thứ tự, không nối bừa.
-- Các chỗ OCR không đọc được đã đánh dấu cờ xem lại tại chỗ, không đoán mò. Một số chú thích ngoài lề bị hỏng nặng trong đoạn Servetus/Castalio không đọc được nên đã bỏ qua.
-- Trích dẫn Kinh Thánh theo phong cách Bản Dịch 1934; địa chỉ tham chiếu đã Việt hóa. Từ "Anabaptist" giữ nguyên.
+GHI CHÚ CỦA NGƯỜI DỊCH: - Dịch toàn văn từ bản quét archive.org (djvu.txt) của ấn bản 1560, in tại Luân Đôn cho Thomas Chard: Lời Tựa gửi độc giả và toàn bộ lời đáp của Knox, đến FINIS. - Loại trừ: rác quét và dấu thư viện đầu sách, mảnh trang tựa, tiêu đề chạy trang (OF GODS PREDEST. / AGAINST THE ADVERS.), số trang, chữ ký tờ in, từ bắt ở cuối trang, và các đoạn quét trùng do ngắt trang (nội dung đã dịch một lần ở đoạn trước, không lặp lại). - Chính tả cổ (tiếng Scots và tiếng Anh đầu thời cận đại, u/v và i/j hoán đổi, lỗi chữ s dài) đã chuyển sang tiếng Việt hiện đại theo nghĩa; các từ bị ngắt dòng đã nối lại; các câu bị cắt ở ranh giới trang giữ nguyên thứ tự, không nối bừa. - Các chỗ OCR không đọc được đã đánh dấu cờ xem lại tại chỗ, không đoán mò. Một số chú thích ngoài lề bị hỏng nặng trong đoạn Servetus/Castalio không đọc được nên đã bỏ qua. - Trích dẫn Kinh Thánh theo phong cách Bản Dịch 1934; địa chỉ tham chiếu đã Việt hóa. Từ "Anabaptist" giữ nguyên.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: none
+Mở trong trình đọc Về thư viện

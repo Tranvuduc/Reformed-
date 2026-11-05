@@ -1,6 +1,12 @@
-AI, chưa duyệt
 TOÀN TẬP TÁC PHẨM CỦA THOMAS BROOKS, TẬP III: SỰ GIÀU CÓ KHÔNG THỂ DÒ ĐƯỢC CỦA ĐẤNG CHRIST; MỘT TỦ CỦA NHỮNG VIÊN NGỌC ĐƯỢC CHỌN
-Thomas Brooks
+
+Thomas Brooks · Complete works
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt TOÀN TẬP TÁC PHẨM CỦA THOMAS BROOKS, TẬP III: SỰ GIÀU CÓ KHÔNG THỂ DÒ ĐƯỢC CỦA ĐẤNG CHRIST; MỘT TỦ CỦA NHỮNG VIÊN NGỌC ĐƯỢC CHỌN Thomas Brooks
 
 SỰ GIÀU CÓ KHÔNG THỂ DÒ ĐƯỢC CỦA ĐẤNG CHRIST.
 
@@ -100,7 +106,7 @@ Yêu cầu thứ ba của tôi là điều này, rằng anh em sẽ cầu nguy�
 
 Nhiều người đọc nhiều, và cầu nguyện ít, và vì thế họ thu được ít bởi mọi điều họ đọc.
 
-Galen viết về một loài cá gọi là Uranoscopos, chỉ có một mắt, mà vẫn luôn nhìn lên trời.** Khi một Cơ Đốc nhân có một mắt nhìn vào sách của mình, thì mắt kia phải nhìn lên trời để cầu xin phước lành trên những gì mình đọc.
+Galen viết về một loài cá gọi là Uranoscopos, chỉ có một mắt, mà vẫn luôn nhìn lên trời. Khi một Cơ Đốc nhân có một mắt nhìn vào sách của mình, thì mắt kia phải nhìn lên trời để cầu xin phước lành trên những gì mình đọc.
 
 Khi một người nghe nói về những chiến thắng kỳ diệu mà gươm của Scanderbeg đã làm nên, ông nhất định muốn xem nó; và khi xem nó, ông nói: Đây chỉ là một thanh gươm tầm thường; than ôi! Nó có thể làm gì được? Scanderbeg gửi lời cho ông rằng: Ta đã gửi cho ngươi gươm của ta, nhưng ta giữ cánh tay đã làm nên mọi việc bằng nó.
 
@@ -6168,6 +6174,4 @@ Và nhiều người đã lên thiên đàng một cách đắc thắng nhờ s�
 
 “cánh đồng.” Xem Sibbes, tập ii, trang 245, 248. — G.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Bảng thuật ngữ 16 từ được áp dụng xuyên suốt; không còn từ bị cấm nào trong chính văn. Các trường hợp ngoại lệ đã xác minh ngữ cảnh: "Thiên Chúa giáo" dùng làm tên riêng của Công giáo Rô-ma (ví dụ P0282, P1265 và đoạn về người theo giáo hoàng trong chunk 25); "Tin Lành" chỉ dùng trong nghĩa chỉ đạo Tin Lành, không bao giờ dịch "gospel" (gospel luôn là "Phúc Âm"; lần xuất hiện duy nhất của "Tin Lành" trong chính văn là "quan điểm Phúc Âm của đạo Tin Lành", tức quan điểm của đạo Tin Lành đối lập với quan điểm La-mã). Các chú thích của người biên tập (Grosart, ký "— G.") được dịch cùng chính văn. Các đoạn OCR không đọc được được gắn cờ [NEEDS REVIEW] tại chỗ, không đoán mò; một vài tham chiếu Kinh Thánh trong bản in bị sai số (ví dụ P2645 Thi Thiên 139:23-24 thay vì số in "21", P2663 Khải Huyền 7:14 thay vì "i. 14", P2084 Các Quan Xét 7:17 thay vì "xvii. 17") được sửa theo nội dung trích dẫn và ghi chú trong đoạn. Các câu bị chia đôi qua trang trong bản quét được giữ nguyên dạng đoạn rời theo dấu [P####] gốc.
-Loại trừ (không dịch): phần mở đầu của archive.org, lời tựa chung của John C. Miller, các bảng mục lục, các tiêu đề chạy trang/số trang/dấu ký hiệu in, phần cuối thư viện (library card pocket) sau "END OF VOL. III", và các đoạn rác OCR thuần túy. Các đoạn tiêu đề chạy trang lẻ tẻ còn sót trong bản quét (ví dụ P0166, P2473) đã bị bỏ hoặc sắp xếp lại đúng thứ tự tại khâu ráp nối; đoạn P2473 trong chunk 24 được đặt lại sau P2471–P2472 theo đúng thứ tự đánh số.
+Mở trong trình đọc Về thư viện

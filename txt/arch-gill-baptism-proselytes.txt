@@ -222,10 +222,4 @@ Tôi kết thúc Luận Văn này bằng lời của Tiến sĩ Owen, "Rằng ý
 
 ᵘ Hor. Heb. trong Ma-thi-ơ II. trang 119. "Prose!ytorum baptismum ante Johannem extitisse nullo testimonio certe constat" — "Rằng phép báp-têm của tân tòng đã tồn tại trước Giăng thì không được chứng minh bởi một lời chứng chắc chắn nào," Fabricii Bibliograph. Antiqu. chương 11. trang 392. Deylingius cũng vậy trong Ibid. trang 386. * Trong sách Hê-bơ-rơ, tập I. Exercitat. 19. trang 272. "Omni ideo probabilitate caret sententia ista quorundam virorum de translatione ritus baptismatis Judaici, qui revera eo tempore nullus erat, in usum discipulorum suorum per Dominum Jesum facienda" — "Vì vậy ý kiến của một số người về việc Chúa Giê-xu chuyển giao nghi lễ báp-têm của người Do Thái, mà thực ra lúc bấy giờ không hề có, để các môn đồ của Ngài dùng, là hoàn toàn thiếu mọi xác suất," Theologoum. ibid. * Sperlingius về phép báp-têm của dân ngoại thời cổ, trang 116, 117.
 
----
-
-TERMINOLOGY ISSUES: - Glossary 16-term compliance verified by script: 0 violations (no "sự xưng công bình", no "sự chọn lựa"; "Tin Lành" 0 in body). - Scripture rendered in Vietnamese 1934 style with localized references (Phục Truyền, Xuất Ê-díp-tô Ký, Lê-vi Ký, Giăng, Ma-thi-ơ, Công Vụ, Sáng Thế Ký, v.v.). - 18th-century long-s (ſ) and spaced-type OCR normalized silently; page running-heads, page numbers, and trailing publisher advertisements dropped as non-content. - Hebrew/Greek/Latin terms kept with Vietnamese glosses on first use; rabbinic citations (Talmud, Maimonides, Yebamot, Kiddushin, Eruvim) preserved. - Inline [NEEDS REVIEW: OCR] flags mark passages where the 1771 scan's OCR was genuinely unreadable; reconstructed conservatively from context, nothing invented. - CHAP numbering: source OCR lost the "CHAP. II" heading number; rendered as CHƯƠNG II per sequence (flagged inline). - Translated from: A DISSERTATION CONCERNING THE BAPTISM OF JEWISH PROSELYTES, by John Gill, D.D. (1697–1771), Reformed Baptist. Genuine source: archive.org item bim_eighteenth-century_a-dissertation-concernin_gill-john_1771.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

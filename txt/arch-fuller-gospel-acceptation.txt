@@ -20,11 +20,9 @@ BOSTON: Xuất bản bởi Hội Truyền Đạo Giáo Lý Hoa Kỳ (American Do
 
 Nguyên tác có nhiều trích dẫn các tác giả khác và các câu trả lời phản biện: những phần ấy được lược bỏ vì không cần thiết trong bản tái bản dành cho độc giả phổ thông ngày nay.
 
-## MỤC LỤC
+PHẦN I. Đề tài được chứng tỏ là quan trọng, được trình bày và giải thích.
 
-**PHẦN I.** Đề tài được chứng tỏ là quan trọng, được trình bày và giải thích.
-
-**PHẦN II.** Các luận cứ chứng tỏ đức tin nơi Đấng Christ là bổn phận của mọi người nghe, hay có cơ hội nghe Phúc Âm.
+PHẦN II. Các luận cứ chứng tỏ đức tin nơi Đấng Christ là bổn phận của mọi người nghe, hay có cơ hội nghe Phúc Âm.
 
 Luận đề I. Kẻ có tội chưa được cải đạo được truyền lệnh, được khích lệ, và được mời gọi tin Đấng Christ để được cứu rỗi.
 
@@ -38,13 +36,11 @@ Luận đề V. Đức Chúa Trời đã đe dọa và đã giáng những hình
 
 Luận đề VI. Những sự thực hành thuộc linh khác, vốn có mối liên hệ không thể tách rời với đức tin nơi Đấng Christ, được mô tả là bổn phận của loài người nói chung.
 
-**NHỮNG SUY NGẪM KẾT THÚC.**
+NHỮNG SUY NGẪM KẾT THÚC.
 
 Về căn cứ để tin. Về ảnh hưởng của đức tin trên sự xưng công chính. Về tình trạng đáng báo động của kẻ không tin. Về bổn phận của người hầu việc Chúa trong việc đối xử với người chưa được cải đạo.
 
----
-
-# PHẦN I.
+PHẦN I.
 
 TRONG ĐÓ ĐỀ TÀI ĐƯỢC CHỨNG TỎ LÀ QUAN TRỌNG, ĐƯỢC TRÌNH BÀY, VÀ ĐƯỢC GIẢI THÍCH.
 
@@ -87,8 +83,6 @@ Thuật ngữ "tin cậy" dường như thích hợp nhất, hay phù hợp nh�
 Nhưng, dầu có sự khác nhau nào giữa công nhận và tin cậy, chúng đồng ý trong những điểm liên quan đến vấn đề đang bàn: điều này, không kém điều kia, đều liên quan đến lẽ thật đã mặc khải làm nền tảng. Trong một số trường hợp, nó trực tiếp chỉ về sự chân thật của Đức Chúa Trời, như trong Thi-thiên 119:42, "Tôi tin cậy nơi lời Chúa." Và khi sự chỉ dẫn trực tiếp là đến quyền năng, sự khôn ngoan, hay lòng thương xót của Đức Chúa Trời, hay đến sự công chính của Đấng Christ, thì có một mối liên hệ gián tiếp đến sự chân thật; vì điều này hay điều kia đều không thể là đối tượng của sự tin cậy, nếu chúng không được mặc khải trong một đường lối của lời hứa. Và từ đó suy ra rằng, tin cậy nơi Đấng Christ, không kém gì công nhận lời chứng của Ngài, là bổn phận của mọi kẻ có tội được nghe sự mặc khải.
 
 Nếu có ai hỏi: Một kẻ có tội, sau rốt sẽ bị chứng tỏ là không có phần trong sự cứu rỗi của Đấng Christ, thì từng có cơ sở nào để tin cậy nơi Ngài? Hãy xét xem điều mà người ấy được phép hay bị buộc phải tin cậy là gì. Có phải là Đấng Christ sẽ cứu người ấy, dầu người ấy có tin Ngài hay không? Không — không có lời hứa nào như thế; mà có một lời tuyên bố rõ ràng ngược lại. Tin cậy vào điều ấy, do đó, là tin cậy vào một điều dối trá. Điều mà người ấy phải tin cậy nơi Ngài, là được thương xót, trong trường hợp người ấy đến cầu xin. Về điều này, có một căn cứ đầy đủ trong các lời tuyên bố của Phúc Âm. Tôi xin thêm rằng, nếu ai nghi ngờ quyền năng hay sự sẵn lòng của Đấng Christ để cứu những kẻ đến cùng Ngài, và cứ đứng xa, nương cậy vào sự công chính của mình, hay một nền tảng tin cậy giả dối nào, để khước từ Ngài, thì đó là sự không tin đáng tội và không thể bào chữa.
-
----
 
 \* Sách "Guide to Godliness" của Downame, tr. 647.
 
@@ -357,9 +351,5 @@ Một số người đã suy ra từ giáo lý về sự xưng công chính bở
 * Trích từ Dying Exercises of Susannah Wright, ở Weekly, gần Kettering.
 
 HẾT.
-
-TERMINOLOGY ISSUES: - Glossary 16-term compliance verified by script: 0 violations (no "sự xưng công bình", no "sự chọn lựa" in body). - "Tin Lành" occurs only inside 1934 Scripture quotations (authentic 1934 wording), never in prose. - Inline [NEEDS REVIEW] flags preserved from chunk translators for misprinted Scripture references in the source scan (Acts ii.23→3:23, John vii.45–47→8:45–47, Matt. xii.19→13:19, Mark i.5→3:5, Psalm 1.11→2:11, 1 Cor. i.9→2:9, Psa. lxvi.3→67:3) and one unreadable printed word in the Isaiah 55 commentary. - 1934-style Scripture wording rendered from the standard 1934 text. - Translated from: THE GOSPEL WORTHY OF ALL ACCEPTATION; OR, THE DUTY OF SINNERS TO BELIEVE IN JESUS CHRIST, by Rev. Andrew Fuller (abridged by the London Religious Tract Society; Boston: American Doctrinal Tract Society edition). Genuine source: archive.org item gospelworthyofal0000full.
-
-TRANSLATION STATUS: COMPLETE
 
 Mở trong trình đọc Về thư viện

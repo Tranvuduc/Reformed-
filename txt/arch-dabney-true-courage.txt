@@ -1,6 +1,6 @@
 LÒNG CAN ĐẢM CHÂN THẬT
 
-R. L. Dabney · True courage: a discourse commemorative of Lieut. General T. J. Jackson
+Robert Lewis Dabney · True courage: a discourse commemorative of Lieut. General T. J. Jackson
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
@@ -121,7 +121,5 @@ Những lang thang của tâm trí ông là về bổn phận của ông. Ông l
 Ông luôn muốn chết vào ngày Sa-bát, và ước muốn này được đáp ứng cách nhân từ. Và trong buổi sáng khi những ý nghĩ của ông không lang thang, ông hỏi đặc biệt về sự sắp xếp cho việc giảng, và không thỏa mãn cho đến khi được đảm bảo rằng quân lính sẽ được cung cấp các buổi thờ phượng, ông dường như chìm vào một sự nghỉ ngơi bình tĩnh của cả thân thể và tâm trí, từ đó ông không bao giờ hồi phục hoàn toàn. Khi những ý nghĩ của ông đang lang thang trên một cảnh nào đó, trần gian hay thiên thượng, người ta nghe ông lẩm bẩm 'chúng ta hãy qua sông và nghỉ dưới những cây,' như thể những cảnh sáng không phai ở phía bên kia của Giô-đanh đang hừng đông trước cái nhìn của ông; và trước khi những bóng đã dài trên buổi trưa Sa-bát sáng ấy, linh hồn cao quý và thánh khiết của ông đã qua sông, và đang bước đi trong sự rực rỡ dưới những cây ven bờ dòng suối pha lê, và đã bước vào sự nghỉ ngơi còn lại cho dân của Đức Chúa Trời.
 
 Tôi tớ Đức Chúa Trời, làm tốt lắm! Nghỉ khỏi việc yêu dấu của ngươi, Trận chiến đã đánh, chiến thắng đã thắng, Bước vào niềm vui của Chủ ngươi.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none. Glossary compliance: 16/16 exact (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh) — 0 violations. Scripture rendered in Vietnamese 1934 style with localized references (Lu-ca, Ma-thi-ơ, Ê-sai, Gia-cơ, Hê-bơ-rơ, Ê-phê-sô, Rô-ma, Phục Truyền, Phi-líp, Giăng, Thi Thiên). OCR noise normalized silently (spaced type, long-s ſ, misprints like "pmcer"→"quyền", "yon"→"các ngươi", page running-heads dropped). One source misprint corrected per obvious context: "Friday, June 57th, 18G2" → "Thứ Sáu, ngày 27 tháng 6 năm 1862". One garbled battle-description line in the source scan reconstructed best-effort from context; nothing invented. "Confederate States" rendered "Các Bang Liên Minh Miền Nam" (historical term, kept neutral). Note: the appended biographical sketch and English newspaper extracts were translated in full as part of the volume.
 
 Mở trong trình đọc Về thư viện

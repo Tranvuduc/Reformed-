@@ -522,8 +522,4 @@ X. Nếu có ai trong dân sự chúng ta bị phật ý về bất cứ điều
 
 HẾT.
 
-TERMINOLOGY ISSUES: - Glossary 16-term compliance: exact terms used throughout (Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh). "Tin Lành" used only for "Protestant" where applicable; "Catholic" rendered "Phổ Thông". - Scripture rendered in Vietnamese 1934 style with localized references. - 17th-century long-s OCR artifacts (Chrift, Gofpel, fchifm, etc.) read through and normalized silently during translation. - Inline [NEEDS REVIEW] flags preserved where source OCR was genuinely unrecoverable (chunk1: 6 flags — garbled cross-references and proof-text citations; chunk3: 1 flag — garbled synod passage in Điều 7). - Translated from: UNIVERSAL CONCORD (1660) by Richard Baxter (1615-1691), Puritan divine. Genuine source: archive.org item universal00baxt. Church-concord treatise: profession of Christian religion, terms of ministerial communion, and description of ministerial offices and church ordinances.
-
-TRANSLATION STATUS: COMPLETE
-
 Mở trong trình đọc Về thư viện

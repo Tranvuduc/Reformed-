@@ -900,6 +900,4 @@ HẾT.
 
 In tại Luân-đôn bởi Roulande Hall, ở tại Golding Lane, tại hiệu ba mũi tên.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Nguồn là bản in tiếng Anh năm 1561 (dịch từ tiếng Pháp của Calvin), OCR thế kỷ 16 với nhiễu long-s và lỗi ký tự blackletter; 114 cờ [NEEDS REVIEW] nội tuyến đánh dấu các chỗ OCR hỏng nặng được dựng lại theo ngữ cảnh — không hư cấu nội dung. - Thuật ngữ 16 từ vựng áp dụng chính xác toàn văn (script-verified: 0 vi phạm); trong các câu trích Kinh Thánh trực tiếp, "Đức Giê-hô-va" được dùng theo cách gọi của Kinh Thánh Việt 1934 cho danh xưng LORD. - Các tham chiếu Kinh Thánh được địa phương hóa (Giăng, Thi-thiên, Ê-sai, Rô-ma, Hê-bơ-rơ, v.v.); một số số câu/đoạn bị OCR làm hỏng đã được suy luận từ nội dung trích dẫn và đánh dấu cờ. - Tiêu đề chạy trang của nhà in ("Of Maister Ihon Caluine", ký hiệu tờ in) được bỏ qua vì không phải nội dung; các tiêu đề bài giảng được giữ nguyên. - Ghi chú: mã định danh nguồn ban đầu được giao ("the-works-of-william-bri_bridge") không tồn tại trên archive.org; sách được thay bằng "Foure godlye sermons against the pollution of idolatries" (1561) của John Calvin — tác phẩm Cải Chánh chính gốc.
-
 Mở trong trình đọc Về thư viện

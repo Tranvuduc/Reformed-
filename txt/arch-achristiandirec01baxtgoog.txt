@@ -1,6 +1,12 @@
-AI, chưa duyệt
 HƯỚNG DẪN CƠ ĐỐC NHÂN, PHẦN II: KINH TẾ CƠ ĐỐC (CÁC BỔN PHẬN GIA ĐÌNH)
-Richard Baxter
+
+Richard Baxter · A Christian directory, or, A body of practical divinity and cases of c
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt HƯỚNG DẪN CƠ ĐỐC NHÂN, PHẦN II: KINH TẾ CƠ ĐỐC (CÁC BỔN PHẬN GIA ĐÌNH) Richard Baxter
 
 PHẦN II. KINH TẾ CƠ ĐỐC
 
@@ -416,7 +422,7 @@ trên đường đi của bạn, để hành trình của bạn có thể dễ d
 
 [NEEDS REVIEW: đoạn chỉ còn ký hiệu rời rạc, không có nội dung đọc được]
 
-PHẦN 2. Các Trường Hợp Về Hôn Nhân.
+PHẦN 2. CÁC TRƯỜNG HỢP VỀ HÔN NHÂN.
 
 Hỏi I. “Người ta nên theo quy tắc chắc chắn nào, về các cấp bậc bị cấm trong quan hệ huyết thống hay quan hệ thông gia? Vì thấy rằng 1. Luật của Môi-se không còn hiệu lực đối với chúng ta. 2. Và nếu nó còn hiệu lực, thì rất khó biết liệu nó có thể theo lẽ tương tự mà mở rộng đến nhiều cấp bậc hơn những cấp bậc được nêu trong văn bản hay không. 3. Và vì luật tự nhiên trong trường hợp này khó đọc được đến mức nào?”
 
@@ -738,7 +744,7 @@ Về các phần của tiền đề, 1. Việc các gia đình là những xã h
 
 [NEEDS REVIEW: ký tự rời rạc do OCR, dường như là dấu phân trang]
 
-CHƯƠNG III. KINH TẾ CƠ ĐỐC. [NEEDS REVIEW: số trang bị OCR làm hỏng, dường như là 43]
+CHƯƠNG III. KINH TẾ CƠ ĐỐC. [NEEDS REVIEW: SỐ TRANG BỊ OCR LÀM HỎNG, DƯỜNG NHƯ LÀ 43]
 
 … khích lệ họ, và làm thỏa mãn lẫn nhau; và nếu trong gia đình có bất đồng về sự hiểu biết, tấm lòng hay đời sống, thì người cai quản, nhờ sự thân mật và trò chuyện hằng ngày, càng có thể điều chỉnh lời quở trách và khuyên bảo, lời xưng tội và cầu xin cho phù hợp, điều mà ngay cả các mục sư trong hội chúng cũng không làm được tốt bằng. Vì vậy, qua bảng liệt kê này, tôi đã chứng minh rõ ràng rằng các gia đình có những lợi thế, thật vậy, những lợi thế và cơ hội đặc biệt và tuyệt vời nhất cho việc thờ phượng Đức Chúa Trời cách trang trọng.
 
@@ -1006,7 +1012,7 @@ Lý do của hệ quả là vì, nếu không thì ông không thể thấy mộ
 
 Tôi chứng minh tiền đề như sau: 1. Điều răn thứ tư đòi hỏi người cai quản gia đình không chỉ xem chừng để chính mình giữ ngày sa-bát cho thánh, mà còn để con trai và con gái của mình,
 
-Chương III.
+CHƯƠNG III.
 
 Kinh tế Cơ Đốc.
 
@@ -1032,7 +1038,7 @@ một mình. 3. Công vụ 20:36: Phao-lô đã cầu nguyện chung với tất
 
 Lập luận V. Bổn phận của chúng ta là nhận lãnh mọi sự thương xót mà
 
-Chương III.] Kinh tế Cơ Đốc.
+CHƯƠNG III.] KINH TẾ CƠ ĐỐC.
 
 là
 
@@ -1060,7 +1066,7 @@ Lập luận VIII. Việc cầu nguyện và ngợi khen trong gia đình là m�
 
 [NEEDS REVIEW: ký tự rời rạc do OCR, không rõ nghĩa]
 
-Chương III.] Kinh tế Cơ Đốc.
+CHƯƠNG III.] KINH TẾ CƠ ĐỐC.
 
 [NEEDS REVIEW: ký tự rời rạc do OCR, không rõ nghĩa]
 
@@ -1086,7 +1092,7 @@ Trong lập luận trước tôi nói về việc dạy dỗ nói chung: ở đ�
 
 [NEEDS REVIEW: ký tự rời rạc do OCR, không rõ nghĩa]
 
-Chương III.] Kinh tế Cơ Đốc.
+CHƯƠNG III.] KINH TẾ CƠ ĐỐC.
 
 [NEEDS REVIEW: ký tự rời rạc do OCR, không rõ nghĩa]
 
@@ -1114,7 +1120,7 @@ Lập luận XIV. Từ Cô-lô-se 3:16, 17 đến 4:2: “Hãy để Lời của
 
 Từ đó tôi có thể rút ra nhiều lập luận cho việc cầu nguyện trong gia đình. 1. Dường như chính những lời cầu nguyện trong gia đình là điều mà sứ đồ ở đây chủ yếu nói đến: vì ông nói với các gia đình: vì trong các câu 16, 17 ông nói về cầu nguyện và tạ ơn, và ngay sau đó ông nói với từng mối quan hệ trong gia đình, vợ, chồng, con cái, cha mẹ, đầy tớ, chủ: và ngay sau đó, tiếp tục nói với cùng những người ấy, ông bảo họ: “hãy bền lòng trong sự cầu nguyện, và tỉnh thức
 
-Chương III.] Kinh tế Cơ Đốc.
+CHƯƠNG III.] KINH TẾ CƠ ĐỐC.
 
 trong đó, v.v.” 2. Nếu những người láng giềng bị ràng buộc phải nói với nhau bằng thánh thi, thánh ca và những bài ca thiêng liêng, với ân điển trong lòng mình hướng về Chúa, và phải bền lòng trong cầu nguyện và tạ ơn: thì các gia đình càng phải như vậy hơn, là những người có quan hệ gần gũi hơn, và có nhiều nhu cầu và cơ hội hơn, như đã nói trước đây. 3. Nếu bất cứ điều gì chúng ta làm trong lời nói hay việc làm, chúng ta đều phải làm tất cả nhân danh Chúa Giê-xu, mà tạ ơn; thì các gia đình nhất thiết phải hiệp nhau mà tạ ơn. Vì họ có nhiều công việc hằng ngày trong lời nói và việc làm phải làm chung với nhau và riêng lẻ.
 
@@ -1136,7 +1142,7 @@ Những ai phải cai quản nhà mình cho tốt như vậy, để phần nào 
 
 [NEEDS REVIEW: chú thích bị OCR làm hỏng, không đọc được]
 
-Chương III.
+CHƯƠNG III.
 
 Kinh tế Cơ Đốc.
 
@@ -1158,7 +1164,7 @@ Tôi nghĩ không ai phủ nhận phần thứ nhất của tiền đề, rằng
 
 Nếu bị phản bác rằng tất cả những điều này đã chấm dứt, khi chức vụ thầy tế lễ được thiết lập, và như vậy phủ nhận phần sau của tiền đề của tôi, tôi đáp. 1. Dầu một số người nghi ngờ về việc chức vụ tế lễ có được thiết lập trước thời A-rôn hay không, tôi nghĩ không có gì đáng nghi ngờ lớn về điều đó; vì chúng ta thấy một chức tế lễ khi ấy giữa các dân tộc khác,
 
-Chương III.] Kinh tế Cơ Đốc.
+CHƯƠNG III.] KINH TẾ CƠ ĐỐC.
 
 [NEEDS REVIEW: ký tự rời rạc do OCR, không rõ nghĩa]
 
@@ -1180,7 +1186,7 @@ Phản bác II. “Chính Đấng Christ đã không quen cầu nguyện cùng v
 
 Đáp. 1. Sự im lặng của Kinh Thánh không phải là bằng chứng rằng Đấng Christ đã không dùng điều đó. Không phải mọi việc Ngài làm đều được viết lại. 2. Việc Ngài dạy họ bài cầu nguyện của Chúa, và ước muốn của họ về một quy tắc chung cho cầu nguyện, có thể phù hợp với việc Ngài thường cầu nguyện cùng với họ: ít nhất phù hợp với việc Ngài dùng cách cầu nguyện cùng với họ sau đó, dầu lúc đầu Ngài đã không dùng điều đó. 3. Nhưng chính hệ quả là điều tôi chủ yếu phủ nhận. (1.) Vì Đấng Christ về sau đã kêu gọi các đầy tớ Ngài đến với nhiều bổn phận, mà lúc đầu Ngài đã không đặt họ vào, như các nghi thức thánh, kỷ luật, giảng dạy, cầu nguyện thường xuyên hơn, v.v., đặc biệt sau khi Đức Thánh Linh giáng xuống. Như họ đã không hiểu nhiều điều của đức tin cho đến lúc đó, thì không có gì lạ nếu họ đã không hiểu nhiều bổn phận cho đến lúc đó: vì Đấng Christ muốn họ được hướng dẫn cách đột ngột như vậy và được nên thánh đầy đủ hơn bởi một phép
 
-Chương III.] Kinh tế Cơ Đốc.
+CHƯƠNG III.] KINH TẾ CƠ ĐỐC.
 
 lạ, để chức vụ của họ đáng tin cậy hơn, sứ mạng của họ hiển nhiên là thiêng liêng, và họ vượt khỏi sự nghi ngờ về giả mạo và lừa dối. (2.) Và dầu hiển nhiên là Đấng Christ đã quen chúc phước cho bữa ăn, và hát thánh ca cùng Đức Chúa Trời với các môn đồ Ngài, và vì vậy rất có khả năng Ngài thường cầu nguyện cùng với họ, như Giăng 17, nhưng không thể trông đợi rằng Ngài thường là người phát ngôn của họ trong những lời cầu nguyện như họ hằng ngày cần. Trường hợp của Ngài và của chúng ta khác nhau vô cùng. Các môn đồ Ngài hằng ngày phải xưng tội lỗi mình, và hạ mình vì chúng, và xin tha thứ: nhưng Đấng Christ không có việc nào như vậy để làm. Họ phải cầu nguyện cho ân điển làm chết đi tội lỗi, và sự giúp đỡ chống lại tội lỗi; nhưng Ngài không có tội lỗi nào để làm chết đi hay cầu nguyện chống lại. Họ phải cầu nguyện cho Đức Thánh Linh, và sự tăng trưởng của những ân điển chưa trọn vẹn của họ; nhưng Đấng Christ có sự đầy đủ và trọn vẹn. Họ phải cầu nguyện cho nhiều phương tiện dẫn đến các mục đích, và cho sự giúp đỡ trong việc dùng chúng, và phước lành trên chúng, điều mà Ngài không cần đến. Họ phải tạ ơn vì sự tha thứ và sự hoán cải, v.v., điều mà Đấng Christ không có dịp để tạ ơn. Đến nỗi dầu có một Thầy Tế Lễ Thượng Phẩm tách biệt khỏi tội nhân biết bao, họ có một Đấng cầu nguyện cho họ; nhưng không phải là một Đấng thích hợp để hiệp cùng với họ như người phát ngôn của họ cùng Đức Chúa Trời, trong những lời cầu nguyện thông thường trong gia đình, như họ cần; như những người chủ gia đình phải làm với gia đình mình.
 
@@ -1208,7 +1214,7 @@ Lập luận I. Chúng ta bị ràng buộc phải nắm lấy mọi dịp và c
 
 [NEEDS REVIEW: chú thích bị OCR làm hỏng, không đọc được]
 
-Chương III.] Kinh tế Cơ Đốc.
+CHƯƠNG III.] KINH TẾ CƠ ĐỐC.
 
 [NEEDS REVIEW: ký tự rời rạc do OCR, không rõ nghĩa]
 
@@ -1258,7 +1264,7 @@ Những Hướng Dẫn Chung Cho Việc Cai Quản Gia Đình Một Cách Thánh
 
 Điều chính yếu cần thiết cho việc cai quản gia đình đúng đắn là sự tin kính của những người cai quản và những người được cai quản hướng về điều đó, điều đã được nói đến trước đây trong các Hướng Dẫn về việc Lập Gia Đình. Nhưng nếu những người không xứng hợp với các mối quan hệ của mình đã kết hợp với nhau thành một gia đình, thì bổn phận đầu tiên của họ là ăn năn về tội lỗi và sự điên rồ trước kia của mình, và ngay lập tức trở lại với Đức Chúa Trời, và tìm kiếm sự xứng hợp cần thiết cho việc chu toàn đúng đắn các bổn phận thuộc địa vị riêng của mình: và nơi những người cai quản gia đình, ba điều này là cần thiết nhất cho mục đích ấy. I. Thẩm quyền. II. Kỹ năng. III. Sự thánh khiết và sẵn lòng.
 
-I. Hướng Dẫn Chung. ‘Hãy để những người cai quản duy trì thẩm quyền của mình trong gia đình.’ Vì một khi thẩm quyền ấy đã mất, và bạn bị những người mình nên cai trị khinh thường, thì lời nói của bạn sẽ không còn hiệu quả gì với họ; bạn chỉ cưỡi ngựa mà không có dây cương; quyền cai quản của bạn đã mất, khi thẩm quyền của bạn đã mất. Và ở đây trước hết bạn phải hiểu bản chất, quy tắc và phạm vi thẩm quyền của mình: vì các mối quan hệ của bạn đối với vợ, con cái và tôi tớ của bạn khác nhau, thì thẩm quyền của bạn cũng khác nhau.
+I. HƯỚNG DẪN CHUNG. ‘HÃY ĐỂ NHỮNG NGƯỜI CAI QUẢN DUY TRÌ THẨM QUYỀN CỦA MÌNH TRONG GIA ĐÌNH.’ VÌ MỘT KHI THẨM QUYỀN ẤY ĐÃ MẤT, VÀ BẠN BỊ NHỮNG NGƯỜI MÌNH NÊN CAI TRỊ KHINH THƯỜNG, THÌ LỜI NÓI CỦA BẠN SẼ KHÔNG CÒN HIỆU QUẢ GÌ VỚI HỌ; BẠN CHỈ CƯỠI NGỰA MÀ KHÔNG CÓ DÂY CƯƠNG; QUYỀN CAI QUẢN CỦA BẠN ĐÃ MẤT, KHI THẨM QUYỀN CỦA BẠN ĐÃ MẤT. VÀ Ở ĐÂY TRƯỚC HẾT BẠN PHẢI HIỂU BẢN CHẤT, QUY TẮC VÀ PHẠM VI THẨM QUYỀN CỦA MÌNH: VÌ CÁC MỐI QUAN HỆ CỦA BẠN ĐỐI VỚI VỢ, CON CÁI VÀ TÔI TỚ CỦA BẠN KHÁC NHAU, THÌ THẨM QUYỀN CỦA BẠN CŨNG KHÁC NHAU.
 
 CHƯƠNG IV.] KINH TẾ CƠ ĐỐC.
 
@@ -1282,7 +1288,7 @@ Hướng Dẫn 4. ‘Đừng đánh mất thẩm quyền của bạn bởi sự 
 
 Hướng Dẫn 5. ‘Đừng đánh mất thẩm quyền của bạn bởi quá nhiều sự thân mật.’ Nếu bạn biến con cái và tôi tớ mình thành bạn chơi đùa, hoặc thành những người ngang hàng, và nói với chúng, và chịu để chúng nói với bạn như những người bạn đồng hành, thì chúng sẽ nhanh chóng lấn lướt bạn, và giữ thói quen ấy; và dù người khác có thể cai quản chúng, chúng cũng sẽ hiếm khi chịu để bạn cai quản, nhưng sẽ khinh thường việc phải phục tùng, nơi mà chúng đã từng được xem như ngang hàng.
 
-II. Hướng Dẫn Chung. ‘Hãy lao nhọc để có sự khôn ngoan và khéo léo trong việc cai quản.’ Người nào đảm nhận làm chủ một gia
+II. HƯỚNG DẪN CHUNG. ‘HÃY LAO NHỌC ĐỂ CÓ SỰ KHÔN NGOAN VÀ KHÉO LÉO TRONG VIỆC CAI QUẢN.’ NGƯỜI NÀO ĐẢM NHẬN LÀM CHỦ MỘT GIA
 
 [NEEDS REVIEW: chú thích bị OCR hỏng, không đọc được rõ]
 
@@ -1308,7 +1314,7 @@ Hướng Dẫn 4. ‘Hãy làm một người chồng tốt đối với vợ m�
 
 Hướng Dẫn 5. ‘Nếu bạn muốn khéo léo trong việc cai quản người khác, trước hết hãy học cách ra lệnh cho chính mình một cách chính xác.’ Bạn có bao giờ mong người khác ở dưới ý muốn và sự cai quản của bạn hơn chính bạn không? Người nào không thánh khiết và không kính sợ Đức Chúa Trời, há lại xứng hợp để cai trị gia đình mình trong sự kính sợ Đức Chúa Trời và đời sống thánh khiết sao? Hay người nào không giữ được mình khỏi tranh cãi hay say rượu, hay tham ăn, hay trộm cắp, hay bất cứ lối sống xác thịt nào, há lại xứng hợp để giữ người khác khỏi những điều ấy sao? Há những người dưới quyền lại không khinh thường những lời quở trách như vậy, khi chính đời sống của bạn mâu thuẫn với chúng sao? Bạn biết điều này đúng với những người giảng đạo gian ác; và há nó lại không đúng với những người cai quản khác sao?
 
-III. Hướng Dẫn Chung. ‘Bạn phải là những người thánh khiết, nếu bạn muốn trở thành những người cai quản thánh khiết cho gia đình mình.’ Hành động của con người đi theo khuynh hướng của tính khí họ. Họ sẽ làm như họ vốn là. Một kẻ thù của Đức Chúa Trời sẽ không cai quản một gia đình cho Đức Chúa Trời: cũng không một kẻ thù của sự thánh khiết (hay một người xa lạ với nó) lập nên một trật tự thánh khiết trong nhà mình, và cai quản những người dưới quyền mình một cách thánh khiết. Tôi biết việc kêu gọi người khác đến sự chết đi đối với bản thân và đời sống thánh khiết thì rẻ hơn và dễ dàng hơn đối với xác thịt so với việc đưa chính mình đến điều đó: nhưng khi điều cần thiết không phải chỉ là một mệnh lệnh hay ước muốn suông, mà là
+III. HƯỚNG DẪN CHUNG. ‘BẠN PHẢI LÀ NHỮNG NGƯỜI THÁNH KHIẾT, NẾU BẠN MUỐN TRỞ THÀNH NHỮNG NGƯỜI CAI QUẢN THÁNH KHIẾT CHO GIA ĐÌNH MÌNH.’ HÀNH ĐỘNG CỦA CON NGƯỜI ĐI THEO KHUYNH HƯỚNG CỦA TÍNH KHÍ HỌ. HỌ SẼ LÀM NHƯ HỌ VỐN LÀ. MỘT KẺ THÙ CỦA ĐỨC CHÚA TRỜI SẼ KHÔNG CAI QUẢN MỘT GIA ĐÌNH CHO ĐỨC CHÚA TRỜI: CŨNG KHÔNG MỘT KẺ THÙ CỦA SỰ THÁNH KHIẾT (HAY MỘT NGƯỜI XA LẠ VỚI NÓ) LẬP NÊN MỘT TRẬT TỰ THÁNH KHIẾT TRONG NHÀ MÌNH, VÀ CAI QUẢN NHỮNG NGƯỜI DƯỚI QUYỀN MÌNH MỘT CÁCH THÁNH KHIẾT. TÔI BIẾT VIỆC KÊU GỌI NGƯỜI KHÁC ĐẾN SỰ CHẾT ĐI ĐỐI VỚI BẢN THÂN VÀ ĐỜI SỐNG THÁNH KHIẾT THÌ RẺ HƠN VÀ DỄ DÀNG HƠN ĐỐI VỚI XÁC THỊT SO VỚI VIỆC ĐƯA CHÍNH MÌNH ĐẾN ĐIỀU ĐÓ: NHƯNG KHI ĐIỀU CẦN THIẾT KHÔNG PHẢI CHỈ LÀ MỘT MỆNH LỆNH HAY ƯỚC MUỐN SUÔNG, MÀ LÀ
 
 CHƯƠNG IV.]
 
@@ -1828,7 +1834,7 @@ A-bi-ga-in đã chăm sóc nhà của Na-banh tốt hơn chính ông ta. Những
 
 [NEEDS REVIEW: chú thích tham chiếu bị lỗi OCR, không đọc được rõ]
 
-Phần II.
+PHẦN II.
 
 là giúp đỡ và an ủi lẫn nhau để được chết cách an toàn và phước hạnh. 1. Trong lúc khỏe mạnh, anh chị em phải thường xuyên và nghiêm túc nhắc nhở nhau về thời điểm mà sự chết sẽ chia lìa hai người; và sống với nhau trong sự giao tiếp hằng ngày, như những người vẫn luôn trông đợi giờ chia tay. Hãy giúp đánh thức linh hồn nhau, chuẩn bị sẵn mọi ân điển cần thiết vào lúc ấy, và sống trong sự chuẩn bị liên tục cho sự thay đổi của mình. Hãy quở trách nơi nhau mọi điều sẽ trở nên khó chịu và không vui lòng khi nhìn lại lúc chết. Nếu anh chị em thấy nhau uể oải và chậm chạp trong việc chuẩn bị, hoặc sống trong sự phù phiếm, ham mê thế gian, hay lười biếng, như thể đã quên rằng mình sắp phải chết, hãy thúc giục nhau làm ngay không trì hoãn mọi điều mà sự đến gần của một ngày như thế đòi hỏi. 2. Và khi sự chết đã gần kề, ôi, lúc ấy cần biết bao sự dịu dàng, nghiêm túc, khéo léo và siêng năng cho một người phải thực hiện chức vụ yêu thương cuối cùng đối với linh hồn đang ra đi của một người bạn thân thiết dường ấy! Ôi, lúc ấy sẽ cần biết bao sự giúp đỡ khôn ngoan, trung tín và siêng năng của anh chị em! Khi thiên nhiên suy tàn, và những đau đớn của xác thịt làm xao lãng tâm trí, và những cám dỗ mạnh nhất trong khi thân thể yếu nhất; khi một thân thể mòn mỏi, và một tâm trí nghi ngờ, sợ hãi, bối rối, kêu cầu lòng thương xót và sự giúp đỡ của anh chị em, ôi, lúc ấy cần biết bao kỹ năng và sự nghiêm túc thánh khiết! Ôi, thật là một tai họa khi có một người chồng hay người vợ xác thịt, không được nên thánh, người ấy sẽ không giúp anh chị em chuẩn bị cho sự chết, cũng không thể nói một lời nghiêm túc nào về sự an ủi hay khích lệ cho anh chị em trong giờ lâm chung: người ấy chẳng làm gì được ngoài đứng bên cạnh và khóc thương anh chị em; nhưng không có một lời cảm nhận nào để nói về sự sống mà anh chị em sắp bước vào, cũng không về bổn phận của một linh hồn sắp ra đi, cũng không chống lại những cám dỗ và nỗi sợ hãi lúc ấy có thể sẵn sàng nhấn chìm anh chị em. Những người hoàn toàn chưa chuẩn bị và không sẵn sàng để tự mình chết, thì ít có thể chuẩn bị hay giúp đỡ người khác. Nhưng những người sống với nhau như những kẻ thừa hưởng thiên đàng, và trò chuyện trên đất như những bạn đồng hành đi tới đất hứa, có thể giúp đỡ và khích lệ linh hồn nhau, và vui vẻ chia tay lúc chết, như những người trông đợi sẽ sớm gặp lại nhau trong sự sống đời đời.
 
@@ -1836,7 +1842,7 @@ Nếu không phải vì e rằng mình quá dài dòng, tôi sẽ nói tiếp v�
 
 [NEEDS REVIEW: trang gốc chỉ còn dấu phân trang, không có nội dung đọc được]
 
-Chương VIII. Kinh Tế Cơ Đốc.
+CHƯƠNG VIII. KINH TẾ CƠ ĐỐC.
 
 một tình yêu trọn vẹn, khiến trường hợp của người kia đối với anh chị em cũng như của chính mình, 2. Vì vậy mọi việc phải được làm trong sự kiên nhẫn và nhịn nhục lẫn nhau. 3. Và trong sự thân mật, chứ không với sự khắt khe, xa cách, chua chát, hay lời khen ngợi giả tạo. 4. Và trong sự kín đáo; ở đó tôi nên chỉ cho anh chị em biết trong những trường hợp nào sự kín đáo có thể được phá vỡ, và trong những trường hợp nào thì không. 5. Và trong sự tin cậy vào lòng trung tín của nhau, chứ không trong sự nghi ngờ, ghen tuông và mất lòng tin. 6. Và trong sự khôn ngoan để quản lý mọi việc cho đúng, và thấy trước và tránh những trở ngại và bất tiện. 7. Và trong sự thánh khiết để Đức Chúa Trời là trước hết và sau hết, và là tất cả trong mọi sự. 8. Và trong sự bền bỉ để anh chị em không ngừng bổn phận đối với nhau cho đến khi chết. Nhưng sự rút gọn cần thiết không cho phép tôi nói thêm về những điều này.
 
@@ -1874,7 +1880,7 @@ thẩm quyền của họ. Tuy nhiên việc này phải được làm với s�
 
 Sách Hướng Dẫn Cơ Đốc.
 
-Phần II.
+PHẦN II.
 
 bởi những người dưới quyền mình: vì Đức Chúa Trời đã phán với những người như thế trong sứ điệp của Ngài cho Hê-li: "Ai tôn kính ta, ta sẽ tôn kính người; còn ai khinh dể ta sẽ bị khinh dể."
 
@@ -1890,7 +1896,7 @@ bởi những người dưới quyền mình: vì Đức Chúa Trời đã phán
 
 [NEEDS REVIEW: trang gốc chỉ còn dấu phân trang, không có nội dung đọc được]
 
-Chương IX.
+CHƯƠNG IX.
 
 Kinh Tế Cơ Đốc.
 
@@ -1920,7 +1926,7 @@ của việc cai quản cho chồng mình, khi anh chị em vẫn nhất định
 
 [NEEDS REVIEW: trang gốc chỉ còn dấu phân trang, không có nội dung đọc được]
 
-Chương IX. Kinh Tế Cơ Đốc.
+CHƯƠNG IX. KINH TẾ CƠ ĐỐC.
 
 chống lại chồng mình. Nếu Đức Chúa Trời đã làm cho chồng anh chị em trở thành một sự hoạn nạn cho anh chị em, tại sao anh chị em lại than phiền với một người xa hơn? (Trừ khi là với một người bạn đặc biệt, khôn ngoan, trong trường hợp thật sự cần lời khuyên.)
 
@@ -1938,7 +1944,7 @@ và phiền toái cho thế gian. Nhưng sự khiêm nhường là sức khỏe,
 
 [NEEDS REVIEW: trang gốc chỉ còn dấu phân trang, không có nội dung đọc được]
 
-Chương IX. Kinh Tế Cơ Đốc.
+CHƯƠNG IX. KINH TẾ CƠ ĐỐC.
 
 sự duy trì lớn nhất cho tội lỗi này, và là sự phục vụ đáng chú ý nhất cho ma quỷ: vì khi ấy rất nhiều người sẽ viện dẫn điều này cho tội tò mò và kiêu ngạo này, và nói: "Nếu không, tôi sẽ bị coi là thấp hèn hay keo kiệt; ngay cả những người như thế và như thế cũng sẽ nói chống lại tôi." Hãy coi chừng, nếu anh chị em nhất định phải như vậy, thì đừng chê bai những người không phù phiếm và tò mò như anh chị em: vì bản tính con người dễ nghiêng về tính kiêu ngạo và phù phiếm hơn, so với sự khiêm nhường, và việc cải thiện thời gian và chi phí của họ trong những việc lớn lao hơn; và trong khi anh chị em nghĩ rằng mình chỉ nói chống lại sự không đứng đắn, anh chị em trở thành những người rao giảng của ma quỷ, và làm cho nó nhiều việc hơn anh chị em tưởng. Anh chị em cũng có thể khôn ngoan mà nói chống lại người ta vì quen ăn hay uống quá ít, khi không có một người nào trong vô số người lại không sống cách thông thường trong sự quá độ; và như thế sự quá độ sẽ được lợi thế nhờ đó.
 
@@ -1956,7 +1962,7 @@ anh chị em không có ý định cao hơn trong việc đó, mà chỉ để �
 
 Điều Răn XII. Đừng tự ý định đoạt tài sản của chồng mình, mà không có sự biết và đồng ý của ông ta. Anh chị em không chỉ phải xem xét, công việc mà anh chị em chi tiêu có tốt hay không, mà còn phải xem xét anh chị em có quyền gì để làm việc đó. Hỏi. Nhưng một người đàn bà có thể không cho gì, cũng không chi tiêu gì trong nhà, mà không có sự đồng ý của chồng mình sao? Đáp. 1. Nếu nàng có sự đồng ý chung hay ngầm của ông ta, thì có thể đủ; tức là, nếu ông ta cho phép nàng theo sự phán đoán của mình; hay, nếu ông ta giao một phần như thế cho quyền của nàng, để làm điều gì nàng muốn với nó. Hay, nếu nàng biết rằng, nếu ông ta biết việc đó, ông ta sẽ không chống lại nó. 2. Hay, nếu luật pháp, hay sự đồng ý của ông ta, cho nàng bất kỳ quyền sở hữu nào trong bất kỳ phần nào của tài sản của ông ta, hay khiến nàng thành người đồng sở hữu, nàng có thể tương xứng mà định đoạt nó trong một trường hợp cần thiết. Người chồng được xem xét, hoặc như một chủ sở hữu, hoặc như người cai quản nàng. Như một chủ sở hữu, chỉ ông ta mới có thể định đoạt tài sản, nơi ông ta là chủ sở hữu duy nhất: nhưng nơi sự đồng ý hay luật pháp của đất nước khiến người đàn bà thành người đồng sở hữu, nàng không bị mất khả năng cho đi vì thiếu quyền sở hữu. Nhưng khi ấy không luật pháp nào miễn trừ nàng khỏi sự cai quản của ông ta; và vì vậy nàng không được cho đi bất cứ điều gì theo cách không vâng lời, mặc dù đó là của chính nàng: trừ khi ông ta cấm điều vốn là bổn phận của nàng, hay điều mà ông ta không có quyền cấm. Vì vậy trong trường hợp đồng sở hữu, nàng có thể cho đi mà không có ông ta, miễn là nàng không vượt quá phần của mình, và cũng nếu đó là trong trường hợp bổn phận, nơi ông ta không được ngăn trở nàng. Như để cứu mạng sống của người nghèo trong sự thiếu thốn cực độ,
 
-Chương IX. Kinh Tế Cơ Đốc.
+CHƯƠNG IX. KINH TẾ CƠ ĐỐC.
 
 nạn đói, hay bị tù, hay những điều tương tự. 3. Nhưng nếu việc ấy hoàn toàn là của chính nàng, ngoại trừ quyền sở hữu của ông ta, và nàng là chủ sở hữu duy nhất, thì nàng hoàn toàn không cần hỏi sự đồng ý của ông ta, theo bất kỳ cách nào khác ngoài việc ông ta là người hướng dẫn nàng, để chỉ cho nàng cách tốt nhất để định đoạt nó: mà nếu ông ta cấm nàng, thay vì hướng dẫn nàng tới đó, nàng không vì thế mà có thể bào chữa trước mặt Đức Chúa Trời, về việc lạm dụng sự ủy thác và tài năng của mình. 4. Tôi cho rằng đối với một vài công dụng tuyệt đối cần thiết, chính mối quan hệ khiến người đàn bà thành người đồng sở hữu: như nếu chồng nàng không cho phép nàng có thức ăn và quần áo cần thiết để bảo tồn mạng sống và sức khỏe của chính nàng, và của mọi con cái nàng; nàng bị buộc phải làm việc đó mà không có hay chống lại ý muốn của ông ta (nếu nàng có thể, và nếu việc đó không gây hại lớn hơn, và tài sản là của chính ông ta, và ông ta có khả năng) hơn là để con cái nàng mắc những bệnh tật, mà rõ ràng sẽ tiếp theo đến sự nguy hiểm cho mạng sống của chúng. Phải, và để cứu mạng sống của một người khác đang sắp chết vì đói: vì nàng không phải như một người lạ đối với tài sản của ông ta. Nhưng ngoài những trường hợp này, nếu một người vợ bí mật phung phí hay cho đi, hay chi tiêu cho sự lòe loẹt hay phù phiếm, hay chống lại trí khôn của chồng mình; và vì nàng nghĩ ông ta quá chặt chẽ hay keo kiệt, nên nàng sẽ định đoạt nó, mà không có sự đồng ý của ông ta. Đó là sự trộm cắp, không vâng lời, và bất công.
 
@@ -1990,7 +1996,7 @@ Nếu bất kỳ ai nghĩ rằng một người vợ trong bất kỳ trường 
 
 [NEEDS REVIEW: trang gốc chỉ còn ký tự phân trang không đọc được]
 
-Chương IX. Kinh Tế Cơ Đốc.
+CHƯƠNG IX. KINH TẾ CƠ ĐỐC.
 
 [NEEDS REVIEW: trang gốc chỉ còn một mảnh từ không đọc được]
 
@@ -2008,7 +2014,7 @@ Như khi bất kỳ bổn phận lớn hơn nào kêu gọi chúng ta đi nơi k
 
 [NEEDS REVIEW: trang gốc chỉ còn dấu phân trang, không có nội dung đọc được]
 
-Chương IX.
+CHƯƠNG IX.
 
 và bổn phận, và một lối sống thuyết phục, thu hút, mà có thể chứng tỏ là lời quở trách hiệu quả nhất.
 
@@ -3492,7 +3498,7 @@ Hướng dẫn IX. "Trên hết, hãy hướng lòng mình vào những suy ng�
 
 [NEEDS REVIEW: chú thích trích dẫn bị OCR làm hỏng, không đọc được chắc chắn]
 
-CHƯƠNG XIX [NEEDS REVIEW: số chương bị OCR làm sai]
+CHƯƠNG XIX [NEEDS REVIEW: SỐ CHƯƠNG BỊ OCR LÀM SAI]
 
 KINH TẾ HỌC CƠ ĐỐC.
 
@@ -3874,7 +3880,7 @@ I. Đối với Hữu Thể của Ngài.
 
 3. Bởi sự cai trị, con cái Đức Chúa Trời.
 
-I. Được tỏ ra; 1. Trong Đối Tượng:
+I. ĐƯỢC TỎ RA; 1. TRONG ĐỐI TƯỢNG:
 
 [NEEDS REVIEW: bảng phác thảo bị OCR hỏng, chỉ đọc được một phần: đối tượng, sự thờ phượng và sự nương cậy, rằng chúng nương cậy nơi Ngài và nơi Ngài như Cùng Đích của chúng]
 
@@ -5668,7 +5674,7 @@ nhìn đến Đấng đang chuẩn bị cho các bạn một chỗ ở với ch�
 
 Hướng dẫn thứ tư. Hãy để những sự thương xót xưa và những kinh nghiệm về tình yêu của Đức Chúa Trời suốt cả đời các bạn, vẫn ở trước mặt các bạn, và suy ngẫm trong tâm trí mình, để chúng có thể nhóm lên tình yêu và lòng biết ơn của các bạn đối với Đức Chúa Trời, và có thể nuôi dưỡng niềm vui và sự an ủi của chính các bạn, và giúp các bạn dễ dàng hơn trong việc khuất phục trước những sự yếu đuối và sự chết trong tương lai. Bánh đã ăn không được quên: một sự ghi nhớ biết ơn giữ cho mọi sự thương xót trước đây của các bạn vẫn tươi mới và xanh tươi; sự ngọt ngào và lợi ích có thể còn lại, dù chính sự việc đã qua đi. Đây là đặc quyền lớn của một Cơ Đốc nhân già; rằng người đó có nhiều năm thương xót hơn để suy nghĩ, so với những người khác. Mỗi một trong những sự thương xót đó đều ngọt ngào đối với các bạn tự nó, vào thời điểm các bạn nhận lãnh nó (ngoại trừ những hoạn nạn, và những sự thương xót bị hiểu lầm và không được nhận biết): và rồi tất cả chúng lại ngọt ngào biết bao! Nếu sự vô ơn đã chôn vùi bất cứ sự thương xót nào trong số đó, hãy để lòng biết ơn nay cho chúng sống lại. Việc suy nghĩ lại thật vui thích biết bao, khi nhìn lại thời thơ ấu của mình, và nhớ lại sự thương xót đã nuôi dưỡng các bạn như thế nào, và dẫn dắt các bạn đến mọi nơi các bạn đã sống; và cung cấp cho các bạn, và bảo vệ các bạn, và nghe lời cầu nguyện của các bạn, và sắp đặt mọi sự vì ích lợi của các bạn: sự thương xót đã đưa các bạn đến với phương tiện của ân điển như thế nào, và ban phước cho chúng cho các bạn; và Đức Thánh Linh của Đức Chúa Trời đã bắt đầu và tiếp tục công việc ân điển trên lòng các bạn như thế nào? Tôi hy vọng các bạn đã ghi lại những điều kỳ diệu của sự thương xót mà Đức Chúa Trời đã đổ đầy cả đời các bạn lên trên lòng mình. Và chẳng phải đó là một công việc vui thích trong tuổi già để suy ngẫm về chúng sao? Nếu một lữ khách thích nói về những chuyến đi của mình, và một người lính hay thủy thủ, về những cuộc phiêu lưu của mình, thì việc một Cơ Đốc nhân suy ngẫm mọi sự dẫn dắt của sự thương xót suốt đời mình, và mọi công việc của Đức Thánh Linh trên lòng mình, nên ngọt ngào biết bao. Lòng biết ơn đã dạy con người xưa kia, làm cho những sự thương xót của mình, như thể là những thuộc tính của Đức Chúa Trời mình. Như “Đức Chúa Trời đã đem họ ra khỏi đất Ai Cập” là tên của Đức Chúa Trời của Y-sơ-ra-ên. Và Sáng Thế Ký 48:16, Gia-cốp vui thích trong tuổi già của mình, trong những sự xem lại sự thương xót như vậy: “Đức Chúa Trời đã nuôi dưỡng tôi suốt đời cho đến ngày nay. Thiên sứ đã cứu chuộc tôi khỏi mọi điều ác, xin ban phước cho các trẻ này.” Phải, những sự xem lại biết ơn như vậy về những sự thương xót xưa,
 
-CHƯƠNG XXI [NEEDS REVIEW: số chương bị OCR làm hỏng, không đọc rõ được]
+CHƯƠNG XXI [NEEDS REVIEW: SỐ CHƯƠNG BỊ OCR LÀM HỎNG, KHÔNG ĐỌC RÕ ĐƯỢC]
 
 KINH TẾ CƠ ĐỐC.
 
@@ -5726,7 +5732,7 @@ Hướng dẫn XIV. Hãy để những suy nghĩ của bạn về cái chết, v
 
 Hướng dẫn XV. Hãy sống trong sự trông đợi vui mừng về sự thay đổi của mình, như xứng hợp với người đang ở rất gần thiên đàng và trông mong được sống với Chúa Giê-xu Christ đời đời. Hãy để những điều cao cả và vinh hiển mà đức tin nắm bắt nay bày tỏ quyền năng của chúng trong tình yêu, niềm vui và lòng khao khát của linh hồn bạn. Không có điều gì mà người yếu đuối và già cả có thể tôn vinh Chúa Giê-xu Christ hơn và làm ích cho người khác hơn, bằng sự trông đợi vui mừng về sự thay đổi của mình và lòng khao khát thiết tha được ở với Chúa Giê-xu Christ. Điều này sẽ góp phần lớn thuyết phục những người không tin rằng các lời hứa là thật, thiên đàng là có thật, và đời sống thánh khiết quả thật là tốt nhất, vì nó có một kết cục hạnh phúc như vậy. Khi họ thấy bạn cao nhất trong niềm vui, vào lúc người khác chìm sâu nhất trong nỗi
 
-Chương XX.] Kinh tế Cơ đốc. 403
+CHƯƠNG XX.] KINH TẾ CƠ ĐỐC. 403
 
 khốn khổ; và khi bạn vui mừng như người đang bước vào hạnh phúc của mình, trong khi mọi hạnh phúc của kẻ không tin kính đã chấm dứt; điều này sẽ làm được nhiều hơn nhiều bài giảng để thuyết phục một tội nhân sống đời thánh khiết. Tôi biết rằng điều này không dễ đạt được; nhưng một điều vừa ngọt ngào và ích lợi cho chính bạn, vừa hữu ích cho người khác, lại vừa tôn vinh Đức Chúa Trời nhiều như vậy, thì nên được theo đuổi bằng mọi sự siêng năng; rồi bạn có thể trông mong phước lành của Đức Chúa Trời trên công lao của mình. Hãy đọc cho mục đích này phần thứ tư của cuốn “Sự Yên Nghỉ Của Các Thánh Đồ” của tôi.
 
@@ -5740,13 +5746,13 @@ Dù phần chính của sự chuẩn bị cho cái chết nằm trong thời gia
 
 3. Phải làm gì để cái chết trở nên êm ái cho chúng ta, để chúng ta có thể chết trong bình an và vui mừng. 4. Phải làm gì để bệnh tật của chúng ta trở nên ích lợi cho những người xung quanh.
 
-Phần 1. Hướng dẫn cho một cái chết an toàn, để bảo đảm sự cứu rỗi của chúng ta.
+PHẦN 1. HƯỚNG DẪN CHO MỘT CÁI CHẾT AN TOÀN, ĐỂ BẢO ĐẢM SỰ CỨU RỖI CỦA CHÚNG TA.
 
 I:
 
 Các hướng dẫn thuộc loại này đặc biệt cần thiết cho tội nhân chưa được cải đạo, không ăn năn; nhưng cũng cần thiết cho chính những người tin kính; vì vậy tôi sẽ nói riêng với cả hai đối tượng.
 
-I. Hướng dẫn cho tội nhân chưa được cải đạo trong cơn bệnh của mình.
+I. HƯỚNG DẪN CHO TỘI NHÂN CHƯA ĐƯỢC CẢI ĐẠO TRONG CƠN BỆNH CỦA MÌNH.
 
 Thật là một trường hợp rất đáng sợ khi bệnh tật bắt gặp một người trong tình trạng chưa được cải đạo. Có một công việc lớn lao phải làm, mà lại có quá ít thời gian để làm, và linh hồn cùng thân thể lại quá không thích hợp và không sẵn sàng cho công việc ấy, và nỗi khốn khổ sẽ theo sau (thậm chí là sự hành hạ đời đời) lại chắc chắn và nhanh chóng đến thế nếu công việc ấy không được làm xong, đến nỗi người ta tưởng rằng điều đó phải làm choáng ngợp
 
@@ -5754,7 +5760,7 @@ Thật là một trường hợp rất đáng sợ khi bệnh tật bắt gặp 
 
 sự hiểu biết và tấm lòng của bất cứ người nào với nỗi kinh ngạc và kinh hãi, khi nghĩ trước về tình trạng như vậy trong lúc khỏe mạnh; huống chi là khi thấy mình ở trong tình trạng ấy giữa cơn bệnh. Và dù người ta tưởng rằng sự đến gần của cái chết và sự gần kề của thế giới bên kia phải có sức mạnh không thể cưỡng lại để cải đạo một tội nhân, đến nỗi rất ít người hoặc không ai chết trong tình trạng chưa được cải đạo, dù họ đã sống thế nào; nhưng Kinh Thánh và kinh nghiệm buồn bã lại tuyên bố điều ngược lại, rằng phần lớn người ta chết cũng như sống trong tình trạng chưa được nên thánh và khốn khổ. Vì 1. Đời sống tội lỗi thường khiến một người an định trong sự ngu dốt hoặc không tin, hoặc cả hai: đến nỗi bệnh tật bắt gặp người ấy trong ngục tối tăm như vậy, khiến người ấy chỉ lạc lối và rối trí trong nỗi sợ hãi, không biết mình đang đi đâu, cũng không biết mình phải làm gì. 2. Và tội lỗi cũng làm cho tấm lòng chai cứng một cách đáng thương, và Đức Thánh Linh của Đức Chúa Trời mà người ta đã chống cự lâu ngày lìa bỏ họ, phó mặc họ cho chính mình trong cơn bệnh, những người đã không chịu để Ngài cai trị và thánh hóa trong lúc khỏe mạnh: và những người như vậy vẫn như những kẻ ngu muội hoặc thú vật cho đến cuối cùng. 3. Và bản chất của bệnh tật và cái chết đang đến gần có xu hướng gây sợ hãi hơn là đổi mới linh hồn; và dễ sinh ra sợ hãi và phiền muộn hơn là tình yêu. Và dù buồn rầu và sợ hãi là những sự chuẩn bị tốt và những sự giúp đỡ, nhưng chính tình yêu đối với Đức Chúa Trời và sự thánh khiết mới tạo nên sự tái sinh và đổi mới của linh hồn; và không có sự thánh khiết nào nhiều hơn tình yêu và sự sẵn lòng. Và nhiều người bị sợ hãi thúc đẩy đến sự ăn năn mạnh mẽ, khóc lóc, cầu nguyện và hứa hẹn, và dường như đối với chính mình và người khác là đã được cải đạo, nhưng vẫn hoặc chết trong tội lỗi và khốn khổ của mình, hoặc trở lại đời sống không thánh khiết khi họ bình phục, vì hoàn toàn xa lạ với sự ăn năn thật làm đổi mới tấm lòng, như kinh nghiệm buồn bã thường chứng minh. 4. Và nhiều tội nhân đáng thương, thấy rằng mình chỉ còn rất ít thời gian, đã tiêu phí nó trong sự kinh ngạc và khiếp sợ thuần túy, không biết cách sắp xếp suy nghĩ của mình, xét lòng và đời sống mình, cũng không biết thực hành đức tin nơi Chúa Giê-xu Christ, cũng không biết làm theo bất cứ hướng dẫn nào được ban cho họ; nhưng nằm run rẩy và kinh ngạc, hoàn toàn bị chiếm giữ bởi nỗi sợ chết, tệ hơn nhiều so với một con thú sắp bị giết thịt. 5. Và chính những đau đớn của thân thể làm xao lãng hoặc ngăn trở suy nghĩ của nhiều người, đến nỗi họ khó có thể chú tâm vào bất cứ điều thiêng liêng nào với sự bình tĩnh cần thiết cho một công việc lớn lao như vậy. 6. Và phần lớn nhất, một phần thì bối rối trong sự ngu dốt, một phần thì bị giữ lại bởi sự chần chừ và không sẵn sàng,
 
-Chương XXX.] Kinh tế Cơ đốc.
+CHƯƠNG XXX.] KINH TẾ CƠ ĐỐC.
 
 405
 
@@ -5768,7 +5774,7 @@ ngay cả những người bạn tin kính của những người như vậy, nh
 
 Hướng dẫn I. Hãy nhanh chóng và nghiêm túc xét xử chính mình, như những người sắp bị Đức Chúa Trời xét xử. Và hãy làm điều đó theo cách sau đây. 1. Hãy làm điều đó một cách sẵn lòng và cương quyết, vì biết rằng nay không còn là lúc để vẫn không chắc chắn về tình trạng đời đời của mình, nếu bạn có thể làm quen với nó bằng mọi cách. Chẳng phải đã đến lúc một người phải biết chính mình, xem mình có phải là tín hữu được nên thánh hay không, khi người ấy sắp ra mắt trước Đấng Tạo Hóa của mình, và ở đó bị xét xử đúng như người ấy được thấy hay sao? 2. Hãy làm điều đó một cách vô tư; như người không muốn thấy mình bị lừa dối, ngay khi cái chết đã cho người ấy biết sự thật. Ôi, hãy cẩn thận, vì yêu linh hồn mình, đừng dại dột nuông chiều chính mình, và vì sợ phiền muộn về nỗi khốn khổ của mình mà quyết tin rằng mình an toàn, dù điều đó đúng hay sai. Đây là cách mà hàng nghìn người bị hủy hoại. Việc nghĩ rằng bạn được nên thánh sẽ không chứng minh bạn là như vậy, cũng không làm cho bạn trở nên như vậy: cũng như việc nghĩ rằng bạn khỏe mạnh sẽ không chứng minh hay làm cho bạn khỏe mạnh. Và việc nghĩ rằng bạn đã được tha thứ và sẽ được cứu, thêm vài ngày nữa, rồi sau đó mới phát hiện quá muộn trong hỏa ngục rằng mình đã lầm, thì sẽ ích gì cho bạn? Liệu sự lừa dối ngắn ngủi như vậy có đáng với mọi đau đớn và mất mát mà nó sẽ gây ra cho bạn không? Than ôi, linh hồn đáng thương! Đức Chúa Trời biết rằng không phải vô cớ làm cho ngươi sợ hãi mà chúng ta muốn thuyết phục ngươi về sự hư mất của mình! Chúng ta không tàn nhẫn chế nhạo ngươi hay muốn hành hạ ngươi. Nhưng chúng ta thương xót ngươi trong tình trạng buồn bã như vậy. Thật đau lòng khi thấy một người chưa được nên thánh sẵn sàng bước sang thế giới khác, và bị đoán phạt vào nỗi khốn khổ vô tận, mà lại không chịu biết điều đó cho đến khi người ấy ở đó!
 
-Chương XXX.] Kinh tế Cơ đốc.
+CHƯƠNG XXX.] KINH TẾ CƠ ĐỐC.
 
 Lý do chính của chúng ta khi mở ra nguy hiểm của bạn là vì điều đó cần thiết cho việc bạn thoát khỏi nó. Nếu bệnh tật của linh hồn giống như bệnh tật của thân thể, vốn đôi khi có thể được chữa lành mà bệnh nhân không biết chúng và không biết nguy hiểm của chúng, thì chúng ta sẽ không bao giờ làm phiền bạn vào lúc như thế này. Nhưng sẽ không được chữa như vậy: bạn phải hiểu nguy hiểm của mình, nếu bạn muốn được cứu khỏi nó: vì vậy hãy vô tư với chính mình nếu bạn khôn ngoan, và thật sự sẵn lòng biết điều tệ nhất. 3. Khi xét xử chính mình, hãy tiến hành theo cùng một luật lệ hay quy tắc mà Đức Chúa Trời sẽ xét xử bạn; tức là theo Lời Đức Chúa Trời được bày tỏ trong Phúc Âm. Vì công việc của bạn bây giờ không phải là đánh cắp một chút bình an ngắn ngủi cho lương tâm mình, mà là biết Đức Chúa Trời sẽ xét xử linh hồn bạn ra sao, và Ngài sẽ đoán phạt bạn vào niềm vui vô tận hay nỗi khốn khổ; và làm sao bạn biết được điều này, nếu không nhờ luật lệ hay quy tắc mà Đức Chúa Trời sẽ xét xử bạn? Và chắc chắn Đức Chúa Trời sẽ xét xử bạn theo cùng luật lệ hay quy tắc mà Ngài đã cai trị bạn, hay Ngài đã ban cho bạn để sống theo trong thế gian. Ở đó, sẽ không tốt hơn hay tệ hơn đối với bất cứ người nào, vì những quan niệm tốt hay xấu của người ấy về chính mình, nếu đó là những sai lầm của người ấy; nhưng đúng như Đức Chúa Trời đã phán trong Lời Ngài rằng Ngài sẽ làm gì với bất cứ người nào, thì Ngài sẽ làm điều đó với người ấy trong ngày phán xét. Mọi người mà Phúc Âm xưng công chính thì sẽ được xưng công chính; và mọi người mà Phúc Âm định tội thì sẽ bị định tội; vì vậy hãy xét xử chính mình theo Phúc Âm. Nhờ những dấu hiệu nào bạn có thể biết một người chưa được nên thánh, tôi đã nói với bạn trước đây, Phần I, Chương 1, Hướng dẫn 8. Và nhờ những dấu hiệu nào ân điển thật có thể được nhận biết, tôi đã nói với bạn trước đây, trong phần Chuẩn bị cho nghi thức thánh. 4. Nếu bạn không thể tự thỏa mãn về tình trạng của mình, hãy xin lời khuyên của một mục sư tin kính, có năng lực, hoặc một Cơ đốc nhân khác quen biết bạn nhất; người biết bạn đã sống đối với Đức Chúa Trời và đối với người ta ra sao: hoặc ít nhất hãy mở hết tấm lòng và đời sống của bạn cho người ấy để người ấy có thể biết điều đó; và nếu người ấy nói với bạn rằng người ấy sợ bạn vẫn chưa được nên thánh, bạn càng có lý do để sợ điều tệ nhất. Nhưng khi đó hãy chắc chắn rằng người ấy không phải là người xác thịt, không tin kính, ham mê thế gian: vì những kẻ tự tâng bốc và lừa dối chính mình, cũng không khác gì khi làm như vậy đối với người khác. Những kẻ lừa dối mù lòa như vậy sẽ tô trét mọi sự, và bảo bạn đừng bao giờ tự làm phiền mình; nhưng thậm chí an ủi bạn như họ tự an ủi mình, và bảo bạn hãy tin rằng mọi sự đều tốt đẹp, và rồi sẽ tốt đẹp; hoặc sẽ khiến bạn tin rằng một lời xưng tội bị ép buộc nào đó và sự ăn năn không chân thật sẽ đủ dùng
 
@@ -5784,7 +5790,7 @@ Hướng dẫn III. Khi bạn đã khiêm nhường vì tội lỗi và khốn k
 
 t
 
-Chương XXX.] Kinh tế Cơ đốc. 409
+CHƯƠNG XXX.] KINH TẾ CƠ ĐỐC. 409
 
 Giao ước của ân điển hứa sự tha thứ và sự cứu rỗi cho mọi tín hữu ăn năn, bất cứ khi nào họ thật sự trở về với Đức Chúa Trời, mà không loại trừ bất cứ giờ nào, hay bất cứ người nào trên khắp thế gian. Không gì ngoài một tấm lòng không tin, chai cứng, khước từ ân điển của Ngài, và không muốn nên thánh, có thể tước đoạt của bạn sự tha thứ và sự cứu rỗi, ngay cả vào lúc cuối cùng. Việc bạn trì hoãn cho đến bây giờ quả là một sự gian ác dại dột nhất: nhưng dù vậy, nếu bạn vẫn chưa được cứu, thì lỗi sẽ không thuộc về Chúa Giê-xu Christ, mà thuộc về bạn: thế mà Ngài vẫn tự do ban cho bạn sự thương xót của Ngài; và Ngài sẽ là Chúa và Đấng Cứu Rỗi của bạn nếu bạn không khước từ Ngài: cuộc hôn ước sẽ không tan vỡ về phía Ngài: hãy xem chừng để nó không tan vỡ về phía bạn, thì bạn sẽ được cứu. Vì vậy hãy biết Ngài là ai, vừa là Đức Chúa Trời vừa là con người, và Ngài đã đảm nhận một công việc phước hạnh dường nào, để cứu chuộc một thế gian tội lỗi, khốn khổ, và Ngài đã làm gì cho chúng ta, trong đời sống và giáo lý của Ngài, trong sự chết và đau khổ của Ngài, nhờ sự sống lại của Ngài và giao ước của ân điển, và Ngài nay đang làm gì bên tay phải của Cha Ngài, trong việc cầu thay cho các tín hữu ăn năn, và Ngài đang chuẩn bị một vinh quang vô tận dường nào cho họ, và Ngài sẽ cứu đến cùng mọi người đến với Đức Chúa Trời qua Ngài ra sao. Ôi, hãy để tấm lòng bạn nhảy mừng vì vui sướng, vì bạn có một Đấng Cứu Rỗi đầy đủ mọi mặt, sẵn lòng, đầy ân điển; mà ân điển của Ngài dư dật hơn tội lỗi dư dật. Nếu ma quỷ và các linh hồn khốn khổ bị đoán phạt trong hỏa ngục chỉ ở trong trường hợp của bạn, và có những lời mời gọi và hy vọng của bạn, bạn tưởng tượng họ sẽ vui mừng biết bao? Vì vậy hãy phó thác chính mình trong đức tin và sự tin cậy nơi Đấng Cứu Rỗi này: hãy tin cậy linh hồn bạn nơi của lễ và công đức của Ngài, để được tha thứ tội lỗi, và hòa thuận với Đức Chúa Trời: hãy cầu xin Ngài ban ân điển đổi mới của Đức Thánh Linh Ngài: hãy sẵn lòng được nên thánh, trở thành tạo vật mới, và sống đời thánh khiết nếu bạn sống sót: hãy quyết tâm hoàn toàn chịu Ngài cai trị, và phó thác chính mình tuyệt đối cho Ngài như Đấng Cứu Rỗi của bạn, để được xưng công chính, được nên thánh, và được cứu bởi Ngài, rồi tin cậy nơi Ngài cho hạnh phúc đời đời. Ôi, linh hồn hạnh phúc, nếu bạn vẫn có thể làm như vậy, mà không lừa dối!
 
@@ -5800,7 +5806,7 @@ I
 
 ^
 
-Chương XXX.] Kinh tế Cơ đốc.
+CHƯƠNG XXX.] KINH TẾ CƠ ĐỐC.
 
 410
 
@@ -5820,7 +5826,7 @@ và thú vui trần gian; và bạn cũng thà được nên thánh cách trọn
 
 hơn là sống trong mọi sự vui thú của tội lỗi. Và nếu bạn ghét mọi tội lỗi mình biết, và yêu mến những đường lối thánh khiết và các tôi tớ của Đức Chúa Trời, và điều này không giả dối: thì đó là một sự thay đổi thật. 3. Và nếu sự ăn năn và thay đổi này là loại sẽ đứng vững, nếu Đức Chúa Trời phục hồi bạn, và sẽ bày tỏ chính nó trong một đời sống mới, thánh khiết và từ bỏ chính mình; điều mà chắc chắn nó sẽ làm, nếu nó không chỉ đến từ nỗi sợ hãi, mà từ tình yêu; nhưng nếu bạn từ bỏ thế gian và xác thịt, trái với ý muốn của mình, vì bạn biết không còn phương thuốc nào; và nếu bạn nói lời từ biệt với những thú vui thế gian, tội lỗi của mình, không phải vì bạn yêu Đức Chúa Trời hơn, mà vì bạn không thể giữ chúng, dù bạn muốn; và nếu bạn không nhận Đức Chúa Trời và thiên đàng là tốt nhất của mình, mà chỉ là tốt hơn hỏa ngục; nhưng không tốt hơn sự thịnh vượng trần gian, mà bạn vẫn sẽ chọn, nếu bạn được lựa chọn. Loại ăn năn như vậy sẽ không bao giờ cứu bạn, và nếu bạn bình phục, nó sẽ tan biến, và trở thành hư không, ngay khi nỗi sợ chết của bạn qua đi, và bạn trở lại với những thú vui trần gian của mình. Dù nay trong lúc cùng cực, bạn kêu lên đầy tự tin biết bao: Ôi, tôi thà có thiên đàng hơn trần gian, và tôi thà có Chúa Giê-xu Christ và sự thánh khiết, hơn mọi thú vui và thịnh vượng của tội nhân; nhưng nếu điều đó không xuất phát từ một tấm lòng đổi mới, được nên thánh, vốn quả thật thà được như vậy, mà từ sự cần thiết và sợ hãi thuần túy, và trái với thói quen của tấm lòng và ý chí bạn, thì đó chỉ là loại ăn năn mà Giu-đa đã có, vốn hiện tại không chân thành, và nếu bạn bình phục, cũng sẽ không giữ bạn trong đời sống thánh khiết.
 
-II. Hướng dẫn cho người được nên thánh, để có sự ra đi an toàn.
+II. HƯỚNG DẪN CHO NGƯỜI ĐƯỢC NÊN THÁNH, ĐỂ CÓ SỰ RA ĐI AN TOÀN.
 
 Khi linh hồn đã thật sự được cải đạo và nên thánh, thì
 
@@ -5828,7 +5834,7 @@ công việc chính đã được lo xong, vốn cần thiết cho một sự ra
 
 Hướng dẫn I. Đừng tự thỏa mãn rằng trước kia bạn đã thấy mình chân thành; nhưng nếu sự hiểu biết của bạn sáng suốt và
 
-Chương XXX.] Kinh tế Cơ đốc.
+CHƯƠNG XXX.] KINH TẾ CƠ ĐỐC.
 
 tự do, hãy xét lại sự thử nghiệm; và nếu bạn tự mình không đủ sức làm điều đó, hãy dùng sự giúp đỡ của một mục sư trung tín, sáng suốt hay một người bạn. Vì khi một người sắp ra trước tòa án của Đức Chúa Trời, điều quan trọng đối với người ấy là làm cho mọi sự chắc chắn hết mức có thể.
 
@@ -5854,7 +5860,7 @@ Cám dỗ I. Một trong những cám dỗ nguy hiểm nhất của kẻ thù l�
 
 [NEEDS REVIEW: chú thích La-tinh bị OCR hỏng, không đọc chắc được]
 
-Chương XXX.] Kinh tế Cơ đốc
+CHƯƠNG XXX.] KINH TẾ CƠ ĐỐC
 
 415
 
@@ -5872,11 +5878,11 @@ những suy nghĩ về cái chết và nấm mồ, cùng những nghi ngờ và 
 
 Cám dỗ V. Một cám dỗ nguy hiểm khác được lấy từ những tàn dư của tâm trí ham mê thế gian của bạn; khi phẩm giá hay danh dự của bạn, nhà cửa hay đất đai của bạn, các mối quan hệ và bạn bè của bạn, hay những thú vui và sự thỏa mãn của bạn trở nên ngọt ngào đối với bạn đến nỗi bạn không muốn rời bỏ chúng; và những suy nghĩ về cái chết trở nên đau buồn đối với bạn, vì nó lấy bạn khỏi điều bạn yêu quá mức; và Đức Chúa Trời cùng thiên đàng ít được khao khát hơn, vì bạn không muốn rời bỏ thế gian. Hãy cẩn thận canh giữ chống lại cám dỗ lớn này: hãy quan sát xem nó tìm cách hủy hoại ân điển và linh hồn bạn ra sao; và nó chống lại tình yêu của bạn đối với Đức Chúa Trời và thiên đàng ra sao, và muốn phá hủy mọi điều mà Chúa Giê-xu Christ và Đức Thánh Linh Ngài đã làm bấy lâu. Hãy quan sát xem nó đâm rễ sâu dường nào trong xác thịt của bạn; và vì vậy hãy càng khiêm nhường hơn dưới nó. Hãy học ngay bây giờ thế gian là gì, và những tiện nghi của xác thịt đáng giá bao nhiêu, khi bạn nhận thấy kết cục của mọi sự phải là gì. Bạn sẽ không bao giờ chết sao? Bạn sẽ hưởng các sự thế gian của mình đời đời sao? Bạn thà có chúng, hơn là sống với Chúa Giê-xu Christ trong vinh quang trên trời của Giê-ru-sa-lem Mới sao? Nếu bạn đã từng như vậy, thì đó là tội lỗi và sự dại dột nặng nề của bạn; thế mà bạn biết rằng đó là một ước muốn mà bạn không bao giờ có thể hy vọng đạt được. Bạn phải chết, dù muốn hay không! Vậy thì bạn muốn ở lại để làm gì? Có phải để đợi đến khi thế gian trở nên kém thú vị đối với bạn, và tình yêu cùng tâm trí bạn được dứt khỏi nó sao? Khi nào thì điều đó nên xảy ra hơn là ngay bây giờ? Và điều gì có thể thực hiện điều đó hiệu quả hơn, ngoài tình trạng sắp chết mà bạn đang ở trong? Nay đã đến lúc bạn phải nhổ ra những thú vui không lành mạnh này; và nay hãy ngước nhìn lên những thú vui thật, thánh khiết, không thể đo lường, đời đời.
 
-Phần 2. Hướng dẫn cách hưởng lợi từ bệnh tật của chúng ta.
+PHẦN 2. HƯỚNG DẪN CÁCH HƯỞNG LỢI TỪ BỆNH TẬT CỦA CHÚNG TA.
 
 Dù Đức Chúa Trời có vui lòng phục hồi bạn hay không, đó vẫn là một lợi ích không nhỏ mà bạn có thể nhận được nhờ sự thăm viếng của Ngài, nếu bạn
 
-Chương XXX.] Kinh tế Cơ đốc.
+CHƯƠNG XXX.] KINH TẾ CƠ ĐỐC.
 
 làm phần của mình, và trung tín tận dụng nó, theo các hướng dẫn sau đây.
 
@@ -5904,7 +5910,7 @@ Hướng dẫn VII. Bạn cũng có nay một sự giúp đỡ rất lớn để
 
 Hướng dẫn VIII. Bạn cũng có nay một lợi thế lớn, cho việc làm sống động những tấm lòng đã mất nhiệt tâm, và lạnh nhạt trong cầu nguyện, và chậm chạp trong suy ngẫm, và không quan tâm đến sự trò chuyện thánh khiết. Nếu bao giờ bạn cầu nguyện cách tha thiết, chắc chắn sẽ là ngay bây giờ; nếu bao giờ bạn nói chuyện nghiêm túc về vấn đề sự cứu rỗi, chắc chắn sẽ là ngay bây giờ. Nay bạn hiểu rõ hơn lý do của sự cầu nguyện sốt sắng, và tôn giáo nghiêm túc, cùng bước đi thận trọng, so với trước đây: và bạn có thể dễ dàng bác bỏ những lời chế nhạo hay chửi rủa của những kẻ buông thả, không
 
-Chương XXX.] Kinh tế Cơ đốc.
+CHƯƠNG XXX.] KINH TẾ CƠ ĐỐC.
 
 tin kính, là kẻ thù của sự thánh khiết; cũng như bạn bác bỏ những lời nói mê sảng của một kẻ dại, hay những lời cuồng loạn của một người mất trí. Ma-la-chi 3:18.
 
@@ -6640,5 +6646,4 @@ CHƯƠNG XXXI. KINH TẾ CƠ ĐỐC.
 
 cho đến khi tiếng gọi đầy quyền năng của Ngài sẽ khiến nó trỗi dậy từ bụi đất, và xác thịt hay hư nát này mặc lấy sự không hư nát, và xác thịt hay chết này mặc lấy sự bất diệt, và thân thể tự nhiên này được sống lại thành thân thể thiêng liêng, và sự chết bị nuốt mất trong sự thắng trận. Vì dù tôi đã chết, sự sống tôi vẫn được giấu với Đấng Christ trong Đức Chúa Trời: và khi Ngài hiện ra, là sự sống của tôi, thì xin để tôi cũng hiện ra với Ngài trong vinh quang. Ôi, xin mau chóng khiến sự hiện ra ấy đến, và xin đến với các thiên sứ thánh khiết, vinh hiển của Ngài, để được vinh hiển nơi các thánh đồ của Ngài, và được ngưỡng mộ trong và bởi những kẻ tin! Khi Ngài sẽ biến đổi thân thể hèn hạ của chúng tôi, và khiến chúng giống như thân thể vinh hiển của Ngài, bởi quyền năng lớn lao mà Ngài có thể bắt phục mọi sự cho chính Ngài. Ngài há chẳng phán: “Kìa, Ta đến mau chóng!”? Vậy xin hãy đến, lạy Chúa! Và xin ngày cưới lớn của Chiên Con mau đến, khi nàng dâu của Ngài sẽ được trình diện không vết, không tì, và vinh hiển; và vinh quang của Đức Chúa Trời trong Giê-ru-sa-lem Mới, sẽ được bày tỏ cho mọi thánh đồ của Ngài, để làm vui lòng và tôn vinh họ đời đời. Trong khi chờ đợi, xin Chúa nhớ lời hứa của Ngài: “Vì Ta sống, nên các ngươi cũng sẽ sống”: và xin để kẻ chết mà chết trong Ngài được phước: và Ngài là Đấng đã trở nên Linh làm cho sống, là Chúa và Vua của sự sống, và đã phán rằng không một sợi tóc nào trên đầu chúng ta sẽ bị mất; xin nhóm họp những linh hồn đang lìa đời của chúng tôi về với chính Ngài, vào Giê-ru-sa-lem thiên thượng và núi Si-ôn, thành của Đức Chúa Trời hằng sống, và đến với vô số thiên sứ thánh khiết, và đến với hội chúng chung và Hội Thánh của những con đầu lòng, và đến với các linh hồn của người công chính đã được làm trọn; nơi Ngài sẽ khiến chúng tôi trở nên vua và thầy tế lễ cho Đức Chúa Trời, là Đấng mà chúng tôi sẽ thấy, yêu mến và ngợi khen đời đời. Vì muôn vật đều từ Ngài, bởi Ngài, và hướng về Ngài; và vì ý muốn Ngài mà chúng hiện hữu, và đã được tạo dựng. Và ôi, Đức Chúa Trời phước hạnh của tình yêu thương, Cha của các linh hồn và Vua của các thánh đồ, xin tiếp nhận thành viên không xứng đáng này của Con Ngài, vào trong dàn hợp xướng thiên thượng hát ngợi khen Ngài! Là những đấng không ngừng nói, ngày và đêm: Thánh thay, Thánh thay, Thánh thay, Chúa là Đức Chúa Trời Toàn Năng, là Đấng đã có, hiện có, và sẽ đến! Vì nước, quyền và vinh hiển đều thuộc về Ngài, đời đời, A-men.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Phạm vi: bản scan chỉ chứa Phần II (Kinh tế Cơ đốc — các bổn phận gia đình), không phải toàn bộ bốn phần của Hướng dẫn Cơ đốc nhân; tiêu đề Việt theo trang tiêu đề cộng Phần II. Loại trừ: lời giới thiệu quảng cáo của Google/archive.org, các trang tiêu đề và toàn bộ mục lục; tiêu đề chạy trang, số trang đứng riêng và dấu ký hiệu in đã lược bỏ khi làm sạch nguồn. “Thiên Chúa giáo” dùng 2 lần với nghĩa riêng là Giáo hội Công giáo La Mã (đoạn nguồn P0878, P1266) — trường hợp ngoại lệ cho phép. “Tin Lành” dùng 1 lần với nghĩa người Tin Lành thuộc hệ phái (P2404), không dùng để dịch “gospel” (dịch là “Phúc Âm”). 532 dấu cần xem lại đánh dấu các đoạn OCR không đọc được, phần lớn là chú thích và số trang, không đoán mò.
+Mở trong trình đọc Về thư viện

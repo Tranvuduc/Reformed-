@@ -1,6 +1,12 @@
-AI, chưa duyệt
 CÁC TÁC PHẨM CỦA JOHN KNOX, TẬP V
-John Knox
+
+John Knox · The works of John Knox
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt CÁC TÁC PHẨM CỦA JOHN KNOX, TẬP V John Knox
 
 CÁC TÁC PHẨM CỦA JOHN KNOX. CÁC TÁC PHẨM CỦA JOHN KNOX DO DAVID LAING, TIẾN SĨ LUẬT, SƯU TẦM VÀ BIÊN TẬP. TẬP NĂM. EDINBURGH: JAMES THIN, SOUTH BRIDGE. 1895.
 
@@ -1544,5 +1550,4 @@ và sự tàn ác của người kia được làm chứng cho thế gian; đi�
 
 đầy đủ hơn, để tôn vinh Đức Chúa Trời, để an ủi Hội Thánh của Ngài, và để làm cho những kẻ giết người và chi thể của Sa-tan ấy phải bối rối đời đời, những kẻ mà Chúa sẽ làm cho bối rối bởi sự đến vinh quang của Đấng Cứu Rỗi chúng ta là Chúa Giê-xu Christ.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: Phần 'Về Sự Tiền Định' (luận văn 1560 của Knox đáp lại những lời bắt bẻ của một người Anabaptist) không dịch lại tại đây vì đã được dịch đầy đủ trong đợt này, xem file arch-answeretogreatnu00knox.txt (M73). Lời giới thiệu dài của biên tập viên David Laing cho luận văn ấy, lời tựa La-tinh của Beza trên trang tựa (bản quét không đọc được), các ghi chú chân trang rời rạc, các tiêu đề chạy trang và số trang, các ký hiệu in ấn và các ghi chú lề không đọc được đã được lược bỏ. Các ghi chú biên tập của Laing in giữa Bức Thư gửi Newcastle và Berwick và Lời Khuyên Gửi Nước Anh (trích thư Bonner, ghi chú Burghley, trích Prescott) đã được lược bỏ vì không phải văn bản của Knox. Một số câu văn bản gốc bị ngắt mảnh do bố cục lề của bản in đã được dịch theo từng mảnh và nối lại, và một số câu được giữ nguyên vẹn ở đoạn đầu tiên chứa đầy đủ câu đó thay vì lặp lại ở các mảnh tiếp theo; các chỗ không đọc được được đánh dấu [NEEDS REVIEW]. Tên riêng và địa danh giữ nguyên dạng gốc.
+Mở trong trình đọc Về thư viện

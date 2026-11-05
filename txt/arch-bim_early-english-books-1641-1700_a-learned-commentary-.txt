@@ -1,6 +1,12 @@
-AI, chưa duyệt
 BÀI BÌNH LUẬN HỌC THUẬT VÀ GIẢI NGHĨA VỀ CHƯƠNG THỨ NHẤT CỦA THƯ THỨ HAI CỦA THÁNH PHAO-LÔ GỬI NGƯỜI CÔ-RINH-TÔ
-Richard Sibbes
+
+Richard Sibbes · A learned commentary ... upon the first chapter of the second epistle
+
+Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt BÀI BÌNH LUẬN HỌC THUẬT VÀ GIẢI NGHĨA VỀ CHƯƠNG THỨ NHẤT CỦA THƯ THỨ HAI CỦA THÁNH PHAO-LÔ GỬI NGƯỜI CÔ-RINH-TÔ Richard Sibbes
 
 MỘT BÀI BÌNH LUẬN VÀ GIẢI NGHĨA VỀ CHƯƠNG THỨ NHẤT CỦA THƯ THỨ HAI CỦA THÁNH PHAO-LÔ GỬI NGƯỜI CÔ-RINH-TÔ.
 
@@ -10558,5 +10564,4 @@ Như vậy, tôi đã đi hết phần Kinh Thánh đầy kết quả này.
 
 GHI CHÚ CỦA NGƯỜI DỊCH: Bản dịch theo bản quét archive.org ấn bản Luân Đôn 1655, do Thomas Manton xuất bản. Nhan đề trong danh sách ghi vắn tắt dễ gây hiểu là bình giải thư Phi-e-rơ, nhưng trang tựa, câu gốc 2 Cô-rinh-tô 1:1 và toàn bộ thân sách đều cho thấy đây là bình giải chương thứ nhất của Thư thứ hai gửi người Cô-rinh-tô; bản dịch theo đúng nội dung bản quét. Thư gửi bạn đọc của Manton và toàn bộ bình giải từ câu 1 đến câu 24 đều được dịch đầy đủ. Không dịch bảng tra cứu chữ cái ở cuối bản quét, theo tiền lệ của đợt dịch đối với các bảng mục lục và chỉ mục; các tiêu đề chạy trang, số trang, ký hiệu in và mảnh rác quét cũng đã lược. Các mảnh trang tựa rời rạc do OCR vỡ đã được ráp thành một khối tựa mạch lạc ở đầu sách. Một tiêu đề mục trong chunk 23 đã được đặt lại theo thứ tự đọc đúng. Các chỗ OCR không đọc được đều gắn cờ tại chỗ, không đoán mò; không bịa thêm kết luận — câu cuối của bình giải được giữ nguyên như trong bản quét.
 
-TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: không có vấn đề thuật ngữ chưa giải quyết; các ngoại lệ cho phép đều đã kiểm tra theo ngữ cảnh.
+Mở trong trình đọc Về thư viện
