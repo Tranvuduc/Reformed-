@@ -374,5 +374,10 @@ if(window.MutationObserver)new MutationObserver(sched).observe(document.document
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",apply);
 })();
 </script>
+<script>
+/* Hero search -> loc-sach.html (2026-11-05: the #q input had no handler at all) */
+(function(){var q=document.getElementById("q");if(q){q.addEventListener("keydown",function(e){if(e.key==="Enter"){var v=q.value.trim();if(v)location.href="/loc-sach.html?q="+encodeURIComponent(v)}})}
+try{var p=new URLSearchParams(location.search).get("q");if(p)location.replace("/loc-sach.html?q="+encodeURIComponent(p))}catch(e){}})();
+</script>
 </body>
 </html>
