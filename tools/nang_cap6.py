@@ -4,7 +4,7 @@ _open6("giao-ly.json", _j3.dumps({"h": _hd3, "w": _wsc3}, ensure_ascii=False, se
 _nm_opts = "".join(f'<option value="{i+1}">{E(n)}</option>' for i, n in enumerate(_VN66))
 
 # --- Doc Kinh Thanh kem giang giai ---
-_b = _NC3 + f'''<style>.vs{{margin:.5em 0;line-height:1.65}}.vn{{font-size:.75rem;vertical-align:super;text-decoration:none;margin-right:2px;font-weight:700}}.vn.ci{{color:var(--acc,#8b5a2b)}}</style><h1>Đọc Kinh Thánh kèm giảng giải</h1>
+_b = _NC3 + f'''<style>.vs{{margin:.5em 0;line-height:1.65}}.vn{{font-size:.75rem;vertical-align:super;text-decoration:none;margin-right:2px;font-weight:700}}.vn.ci{{color:var(--acc)}}</style><h1>Đọc Kinh Thánh kèm giảng giải</h1>
 <p>Đọc một chương Kinh Thánh (bản Việt ngữ 1934). Câu nào có dấu • nghĩa là có sách trong thư viện đã trích dẫn câu đó. Nhấn vào số câu để xem sách nào.</p>
 <div class="sel noprint"><select id="bk" aria-label="Sách">{_nm_opts}</select><select id="ch" aria-label="Chương"></select><button class="btn s" id="pv" type="button">←</button><button class="btn s" id="nx" type="button">→</button></div>
 <p class="m" id="st" role="status"></p><div id="tx"></div><div id="who"></div>
@@ -20,7 +20,7 @@ _b = _NC3 + f'''<h1>Luyện thuộc lòng Kinh Thánh</h1>
 <p class="m" id="sum"></p>
 <section class="nc" id="card"><h2 id="ref"></h2><p id="tv" style="font-size:1.15rem;line-height:1.6"></p>
 <p><label>Chế độ: <select id="md"><option value="first">Chữ đầu mỗi từ</option><option value="half">Che một nửa</option><option value="full">Xem đủ</option></select></label></p>
-<p><button class="btn" id="rt" type="button">Hiện cả câu</button></p><div id="lv"><p>Bạn nhớ được không?</p><button class="btn" id="ok" type="button">Nhớ rồi</button> <button class="btn s" id="no" type="button">Chưa nhớ</button></div></section>
+<p><button class="btn primary" id="rt" type="button">Hiện cả câu</button></p><div id="lv"><p>Bạn nhớ được không?</p><button class="btn primary" id="ok" type="button">Nhớ rồi</button> <button class="btn s" id="no" type="button">Chưa nhớ</button></div></section>
 <p id="done" class="nc" hidden></p><p><button class="btn s" id="add" type="button">Thêm câu mới</button></p>
 <details class="nc"><summary>Danh sách {len(_VS)} câu</summary><ul id="ls"></ul></details>
 <p class="m">Nội dung câu lấy từ bản Việt ngữ 1934 (getBible), cần có mạng. Hãy đối chiếu với Kinh Thánh của bạn.</p>
@@ -78,7 +78,7 @@ _open6("lich-su-hom-nay.html", page("Hôm nay trong lịch sử Cải Chánh | R
 # --- So hoc ---
 _b = _NC3 + '''<h1>Sổ học của tôi</h1>
 <p>Tất cả đoạn bạn đã tô màu hoặc ghi chú trong trình đọc, gom về một chỗ. Dữ liệu nằm trên thiết bị này; hãy xuất ra tệp để lưu hoặc chuyển sang thiết bị khác.</p>
-<p class="noprint"><button class="btn" id="ex" type="button">Tải về (.txt)</button> <button class="btn s" id="cp" type="button">Sao chép</button></p>
+<p class="noprint"><button class="btn primary" id="ex" type="button">Tải về (.txt)</button> <button class="btn s" id="cp" type="button">Sao chép</button></p>
 <p class="m" id="st" role="status"></p><div id="ls"></div>
 <p class="m">Khi đọc, chạm vào một đoạn trong trình đọc để tô màu hoặc ghi chú. Nếu bạn dùng đồng bộ, các đoạn đã đồng bộ cũng hiện ở đây sau khi tải lại trình đọc.</p>
 <script src="/so-hoc.js" defer></script>'''

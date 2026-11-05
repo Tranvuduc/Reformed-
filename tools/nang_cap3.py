@@ -3,7 +3,7 @@
 # Content features live in tools/nang_cap3b.py (exec'd at the end).
 import json as _j3, re as _r3, os as _o3, collections as _c3, urllib.parse as _up3, math as _m3
 
-_NC3 = _NC + '<style>.sel{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}.sel select,.sel input{padding:8px;border-radius:8px;border:1px solid #8885;background:inherit;color:inherit;font:inherit;min-width:0}.rs a{font-weight:600}.rs li{margin:.5em 0}.ct{display:inline-block;margin:2px 3px;padding:3px 9px;border-radius:99px;background:#8882;font-size:.88rem;cursor:pointer;border:0;color:inherit}.ct.on{background:var(--acc,#8b5a2b);color:#fff}.q{margin:.3em 0}.print-only{display:none}@media print{nav,footer,.noprint,button{display:none!important}.print-only{display:block}}</style>'
+_NC3 = _NC + '<style>.nc ol .q{margin:.3em 0;padding:0;border:0;background:none}.print-only{display:none}@media print{nav,footer,.noprint,button{display:none!important}.print-only{display:block}}</style>'  # .sel/.rs/.ct moved to s.css; .q keeps its plain list-item look only inside .nc ol (2026-11-05)
 _idx3 = _j3.load(open("translations/index.json", encoding="utf-8"))
 _pub3 = [b for b in _idx3 if not b.get("hold") and _o3.path.exists("txt/" + b["file"])]
 _bkv3 = _j3.loads(_r3.search(r'var BKV=(\{.*?\}),BKVRE', open("reader.html", encoding="utf-8").read(), _r3.S).group(1))

@@ -13,12 +13,12 @@ _G = [
  ("Thanh giáo", "Các mục sư và tín hữu Anh thế kỷ 16-17 muốn đời sống và Hội Thánh theo đúng Kinh Thánh. Owen, Baxter, Bunyan, Watson thuộc nhóm này.", ""),
 ]
 _li = "".join(f'<div class="g"><h3>{E(t)}</h3><p>{E(d)}</p>' + (f'<p class="m"><small>Kinh Thánh: {E(r)}</small></p>' if r else '') + '</div>' for t, d, r in _G)
-_body = f'''<style>.g{{margin:14px 0;padding:12px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}}.g h3{{margin:0 0 .2em;font-size:1.05rem}}.g p{{margin:.2em 0}}.dr{{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}}</style>
+_body = f'''<style>.g{{margin:14px 0;padding:12px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}}.g h3{{margin:0 0 .2em;font-size:1.05rem}}.g p{{margin:.2em 0}}</style>
 <h1>Thần học Cải Chánh là gì?</h1>
 <p class="dr">Nội dung đã được mục sư xem lại. Hãy luôn đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>
 <p>Thần học Cải Chánh là truyền thống đức tin của những người theo cuộc Cải Chánh thế kỷ 16 (Calvin, Knox và những người khác). Truyền thống này nhấn mạnh rằng Kinh Thánh là thẩm quyền tối hậu, và sự cứu rỗi hoàn toàn là việc của Đức Chúa Trời, từ đầu đến cuối.</p>
 <p>Trong truyền thống này có những khác biệt về một số vấn đề như báp-têm hay thể chế Hội Thánh (Trưởng Lão, Báp-tít Cải Chánh). Thư viện này có sách của cả hai nhánh.</p>
 <h2>Thuật ngữ thường gặp</h2>{_li}
-<p><a class="btn" href="/lo-trinh.html">Theo lộ trình đọc</a> <a class="btn s" href="/chu-de/">Xem theo chủ đề</a></p>'''
+<p><a class="btn primary" href="/lo-trinh.html">Theo lộ trình đọc</a> <a class="btn s" href="/chu-de/">Xem theo chủ đề</a></p>'''
 open("thuat-ngu.html", "w", encoding="utf-8").write(page("Thần học Cải Chánh là gì? Thuật ngữ cho người mới | Reformed Vietnam", "Giới thiệu ngắn thần học Cải Chánh và giải thích các thuật ngữ như ân điển, xưng công bình, giao ước, sự chọn lựa.", "thuat-ngu.html", _body))
 urls.append("thuat-ngu.html")

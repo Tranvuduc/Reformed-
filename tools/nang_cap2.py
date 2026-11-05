@@ -1,6 +1,6 @@
 # Executed from build-pages.py after reformed101.py. Pages: bat-dau, ve-chung-toi, trang-thai-ban-dich, moi-cap-nhat (+cap-nhat.xml), kinh-thanh.
 import json as _j9, re as _r9, os as _o9
-_NC = '<style>.nc{margin:16px 0;padding:14px 16px;border-radius:10px;background:#8881}.nc h2{margin:.1em 0 .4em;font-size:1.15rem}.nc ul,.nc ol{margin:.4em 0 .4em 1.2em;padding:0}.nc li{margin:.25em 0}.stt{font-size:.85rem;opacity:.75}.tb{width:100%;border-collapse:collapse;font-size:.92rem}.tb td,.tb th{padding:6px 8px;border-bottom:1px solid #8883;text-align:left;vertical-align:top}</style>'
+_NC = ''  # .nc/.stt/.tb moved to s.css (2026-11-05)
 _DRAFT = '<p class="m">Nội dung do AI hỗ trợ soạn, chưa được mục sư duyệt. Hãy đối chiếu với Kinh Thánh và hỏi mục sư của bạn.</p>'
 _idx9 = _j9.load(open("translations/index.json", encoding="utf-8"))
 _pub9 = [b for b in _idx9 if not b.get("hold") and _o9.path.exists("translations/" + b["file"])]

@@ -19,7 +19,7 @@ _G = [
  ("Tín điều và giáo lý", "Hội Thánh qua các thời đại đã tóm tắt giáo huấn Kinh Thánh trong các tín điều: Sứ đồ, Nicene, Heidelberg, Westminster, Báp-tít 1689.", "Giu-đe 3; 2 Ti-mô-thê 1:13"),
 ]
 def _blk(L): return "".join(f'<div class="g"><h3>{E(t)}</h3><p>{E(d)}</p><p class="m"><small>Kinh Thánh: {E(r)}</small></p></div>' for t, d, r in L)
-_css = '<style>.g{margin:14px 0;padding:12px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}.g h3{margin:0 0 .2em;font-size:1.05rem}.g p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}</style>'
+_css = '<style>.g{margin:14px 0;padding:12px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}.g h3{margin:0 0 .2em;font-size:1.05rem}.g p{margin:.2em 0}</style>'
 _b1 = f'''{_css}<h1>Cải Chánh là gì?</h1>
 <p class="dr">Bản nháp do AI hỗ trợ soạn, chưa được mục sư duyệt giáo lý. Kinh Thánh là thẩm quyền tối hậu. Hãy đối chiếu với Kinh Thánh và hỏi mục sư của bạn.</p>
 <p>“Cải Chánh” (Reformed) là truyền thống Tin Lành bắt nguồn từ cuộc Cải cách thế kỷ XVI, với những người như Calvin, Zwingli, Knox. Truyền thống này nhấn mạnh Kinh Thánh, ân điển của Đức Chúa Trời và sự vinh hiển của Ngài. Bạn không cần hiểu hết mọi điều ấy mới theo Chúa được. Hãy bắt đầu với <a href="/moi-tin-chua.html">lộ trình 30 ngày</a>.</p>
@@ -28,7 +28,7 @@ _b1 = f'''{_css}<h1>Cải Chánh là gì?</h1>
 <h2>Những điều khác bạn sẽ gặp</h2>{_blk(_G)}
 <h2>Các nhánh trong truyền thống</h2>
 <p>Trưởng Lão (Presbyterian), Báp-tít Cải Chánh và các Hội Thánh khác có chung nhiều điều nhưng khác nhau về báp-têm (trẻ em hay người tin), thể chế Hội Thánh và một số điểm cánh chung. Mỗi sách trong thư viện có thể thuộc một nhánh khác nhau. Sách có mặt trong thư viện không có nghĩa là chúng tôi đồng ý với mọi điều tác giả viết.</p>
-<p><a class="btn" href="/moi-tin-chua.html">Tôi mới tin Chúa</a> <a class="btn s" href="/thuat-ngu.html">Thuật ngữ</a> <a class="btn s" href="/lo-trinh.html">Lộ trình đọc</a></p>'''
+<p><a class="btn primary" href="/moi-tin-chua.html">Tôi mới tin Chúa</a> <a class="btn s" href="/thuat-ngu.html">Thuật ngữ</a> <a class="btn s" href="/lo-trinh.html">Lộ trình đọc</a></p>'''
 open("cai-chanh-la-gi.html", "w", encoding="utf-8").write(page("Cải Chánh là gì? Năm Solas và giáo lý ân điển | Reformed Vietnam", "Giới thiệu truyền thống Cải Chánh bằng tiếng Việt đơn giản: Năm Solas, ân điển, giao ước, Hội Thánh và tín điều, kèm Kinh Thánh.", "cai-chanh-la-gi.html", _b1))
 urls.append("cai-chanh-la-gi.html")
 _Q = ["Đoạn Kinh Thánh hôm nay nói gì về Đức Chúa Trời?", "Đoạn này nói gì về con người và tội lỗi?", "Đoạn này chỉ về Chúa Giê-xu như thế nào?", "Tuần này tôi sẽ vâng theo điều gì?", "Tôi sẽ cầu nguyện cho ai và điều gì?"]

@@ -60,7 +60,7 @@ def _rel(slugs, trad, nm):
             out.append((_sl2[0], _nm2))
             if len(out) >= 5: break
     return out
-_apage = '<style>.bio{margin:12px 0 18px;padding:14px 16px;border-radius:10px;background:#8881}.bio p{margin:.3em 0}.bio dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin:.6em 0;font-size:.92rem}.bio dt{opacity:.7}.bio dd{margin:0}.bio ul{margin:.3em 0 .3em 1.2em;padding:0}.au-pic{width:84px;height:84px;color:var(--acc);float:left;margin:2px 14px 8px 0}.rel{margin:.8em 0 0;font-size:.92rem}.rel a{margin-right:10px}</style>'
+_apage = ''  # .bio/.au-pic moved to s.css; related-author links now use s.css .rel (2026-11-05)
 for _sl, _nm, _yr, _tr, _bio, _wk, _vn in _AB:
     _dl = (f'<dt>Sống</dt><dd>{E(_yr)}</dd>' if _yr else '') + (f'<dt>Truyền thống</dt><dd>{E(_tr)}</dd>' if _tr else '') + (f'<dt>Tác phẩm tiêu biểu</dt><dd>{E("; ".join(_wk))}</dd>' if _wk else '')
     _rel_l = _rel(_sl, _tr, _nm)
@@ -93,7 +93,7 @@ _SG = [
    ("mccheyne-banh-hang-ngay", "Robert Murray M’Cheyne, 1842", "Lịch đọc Kinh Thánh cả năm để đi hết Kinh Thánh.")]),
 ]
 _bg = "".join(f'<h2>{E(g)}</h2>' + "".join(f'<div class="sm"><h3><a href="/reader.html?id=vn/{s}">{E(_VT[s][0])}</a></h3><p class="m"><small>{E(a)} · khoảng {_min(s)} phút đọc</small></p><p>{E(d)}</p></div>' for s, a, d in L if s in _VT) for g, L in _SG)
-_bgp = ('<style>.sm{margin:12px 0;padding:10px 14px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}.sm h3{margin:0 0 .2em;font-size:1.05rem}.sm p{margin:.2em 0}.dr{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}</style>'
+_bgp = (''
         '<h1>Tuyển tập bài giảng</h1><p class="dr">Các bài giảng dưới đây thuộc phạm vi công cộng. Bản tiếng Việt do AI hỗ trợ dịch và chưa được mục sư duyệt. Hãy đọc với tinh thần Bê-rê và đối chiếu Kinh Thánh.</p>'
         '<p>Mỗi bài đọc được trong khoảng 10 đến 60 phút. Hãy bắt đầu với bài đầu tiên của nhóm bạn quan tâm.</p>' + _bg
         + '<h2>Nghe thêm bài giảng</h2><p>Thư viện chưa lưu bài giảng của người khác để tôn trọng bản quyền. Các nguồn nghe bài giảng miễn phí được giới thiệu ở trang <a href="/sach-noi.html">Sách nói và bài giảng</a>.</p>')

@@ -85,7 +85,7 @@ _BI = {
  "watson-prayer": (2, "Người muốn cầu nguyện theo Bài Cầu Nguyện Chúa Dạy", "Cầu nguyện", "Mỗi lời cầu xin một phần."),
 }
 _LV = {1: "Dễ đọc, hợp cho người mới", 2: "Trung bình, cần chú tâm", 3: "Sâu, dành cho người đã đọc nhiều"}
-_bcss = '<style>.bi{margin:12px 0;padding:12px 14px;border-radius:10px;background:#8881}.bi dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin:0;font-size:.92rem}.bi dt{opacity:.7}.bi dd{margin:0}.bi small{display:block;margin-top:8px;opacity:.7}</style>'
+_bcss = ''  # .bi moved to s.css (2026-11-05)
 _n = 0
 for _k, (_l, _w, _t, _s) in _BI.items():
     _p = f"b/{_k}.html"

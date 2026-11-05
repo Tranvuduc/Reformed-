@@ -10,10 +10,10 @@ _V = [
  ("Phân biệt giáo lý lành mạnh", "Hãy so sánh mọi lời dạy với Kinh Thánh, như người Bê-rê. Hãy chú ý lời dạy về Đấng Christ, ân điển và sự ăn năn. Hãy hỏi mục sư của bạn nếu bạn bối rối.", "Công vụ 17:11; Ga-la-ti 1:6-9; 1 Giăng 4:1"),
 ]
 _li = "".join(f'<div class="g"><h3>{E(t)}</h3><p>{E(d)}</p><p class="m"><small>Kinh Thánh: {E(r)}</small></p></div>' for t, d, r in _V)
-_body = f'''<style>.g{{margin:14px 0;padding:12px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}}.g h3{{margin:0 0 .2em;font-size:1.05rem}}.g p{{margin:.2em 0}}.dr{{padding:.6em .9em;border-radius:8px;background:#d9a20022;font-size:.9rem}}</style>
+_body = f'''<style>.g{{margin:14px 0;padding:12px 16px;border-left:3px solid var(--acc);background:#8881;border-radius:6px}}.g h3{{margin:0 0 .2em;font-size:1.05rem}}.g p{{margin:.2em 0}}</style>
 <h1>Theo Chúa trong đời sống Việt Nam</h1>
 <p class="dr">Nội dung này đã được mục sư xem lại. Đây chỉ là gợi ý ngắn dựa trên Kinh Thánh, không thay cho lời khuyên của mục sư. Bạn hãy trao đổi thêm với Hội Thánh địa phương của mình.</p>
 <p>Dưới đây là những câu hỏi mà anh chị em tín hữu Việt thường gặp. Mỗi mục chỉ gợi ý hướng suy nghĩ và những đoạn Kinh Thánh để bạn tự đọc.</p>{_li}
-<p><a class="btn" href="/lo-trinh.html">Lộ trình đọc</a> <a class="btn s" href="/thuat-ngu.html">Thuật ngữ</a></p>'''
+<p><a class="btn primary" href="/lo-trinh.html">Lộ trình đọc</a> <a class="btn s" href="/thuat-ngu.html">Thuật ngữ</a></p>'''
 open("doi-song-viet-nam.html", "w", encoding="utf-8").write(page("Theo Chúa trong đời sống Việt Nam: gia đình, tổ tiên, Tết, Hội Thánh | Reformed Vietnam", "Gợi ý dựa trên Kinh Thánh cho những câu hỏi tín hữu Việt thường gặp: gia đình phản đối, tổ tiên, Tết, hôn nhân, công việc, chọn Hội Thánh.", "doi-song-viet-nam.html", _body))
 urls.append("doi-song-viet-nam.html")

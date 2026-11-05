@@ -134,7 +134,7 @@ for _slug, _title, _desc, _body in ARTICLES:
 
 _hub = ('<h1>Bài viết</h1><p>Các bài viết ngắn giúp bạn tìm hiểu đức tin Cải Chánh: sách nên đọc, giáo lý căn bản và đời sống hằng ngày. Mỗi bài đều dẫn đến sách đọc miễn phí trong thư viện.</p><ul>' +
         "".join(f'<li><a href="/bai-viet/{s}.html"><b>{E(t)}</b></a><br><small>{E(d)}</small></li>' for s, t, d, _ in ARTICLES) +
-        '</ul><p><a class="btn" href="/">Về thư viện</a></p>')
+        '</ul><p><a class="btn primary" href="/">Về thư viện</a></p>')
 open("bai-viet/index.html", "w", encoding="utf-8").write(page("Bài viết về đức tin Cải Chánh | Reformed Vietnam",
     "Các bài viết ngắn về đức tin Cải Chánh: sách Cơ Đốc hay nên đọc, TULIP, xưng công chính bởi đức tin, ân điển, đọc Kinh Thánh mỗi ngày.",
     "bai-viet/index.html", _hub))

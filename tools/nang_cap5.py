@@ -58,7 +58,7 @@ for k, v in _sh2.items(): open(f"s2/{k}.bin", "wb").write(bytes(v))
 open("search-meta.json", "w", encoding="utf-8").write(_j3.dumps({"b": _tbl3, "s": _SEC5, "stop": _stop5}, ensure_ascii=False, separators=(",", ":")))
 _b = _NC3 + '''<h1>Tìm trong toàn văn các sách</h1>
 <p>Gõ một cụm từ tiếng Việt (có hoặc không dấu) để tìm trong tất cả các bản dịch của thư viện. Kết quả hiện đoạn văn và mở đúng chỗ trong trình đọc.</p>
-<form id="f" class="sel"><input id="q" type="search" placeholder="Ví dụ: xưng công bình, sự tái sinh, giết chết tội lỗi" autocomplete="off" style="flex:1"><button class="btn" type="submit">Tìm</button></form>
+<form id="f" class="sel"><input id="q" type="search" placeholder="Ví dụ: xưng công bình, sự tái sinh, giết chết tội lỗi" autocomplete="off" style="flex:1"><button class="btn primary" type="submit">Tìm</button></form>
 <p class="m" id="st" role="status"></p><ol class="rs" id="rs" style="padding-left:1.2em"></ol>
 <p class="m">Tìm trong các đoạn lớn khoảng 6.000 chữ. Từ quá phổ biến (như “và”, “của”) được bỏ qua. Bản dịch do AI hỗ trợ, chưa được mục sư duyệt.</p>
 <script src="/tim-kiem.js" defer></script>'''
