@@ -6,11 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Việc Đức Chúa Trời Đối Đãi Whitefield
-
-**Nguyên tác:** "A short account of God's dealings with the Reverend Mr. George Whitefield" — George Whitefield (1773) **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-short-account-of-gods_whitefield-george_1773/bim_eighteenth-century_a-short-account-of-gods_whitefield-george_1773_djvu.txt *(Ghi chú: Ba mục #609 (1773), #622 (1740), #632 (1741) là cùng một tác phẩm — tự truyện của George Whitefield viết trên tàu Elizabeth — chỉ khác ấn bản in; dịch một lần duy nhất từ bản in 1773 (ấn bản thứ tư) vì OCR của bản này đọc được rõ nhất. Các lỗi OCR hiển nhiên đã được sửa theo ngữ cảnh. Phần thánh ca của Addison in ở cuối cuốn sách nhỏ được giữ lại vì là nội dung đạo đức in kèm trong ấn bản, không phải quảng cáo.)*
-
----
+Nguyên tác: "A short account of God's dealings with the Reverend Mr. George Whitefield" — George Whitefield (1773) Nguồn: https://archive.org/download/bim_eighteenth-century_a-short-account-of-gods_whitefield-george_1773/bim_eighteenth-century_a-short-account-of-gods_whitefield-george_1773_djvu.txt (Ghi chú: Ba mục #609 (1773), #622 (1740), #632 (1741) là cùng một tác phẩm — tự truyện của George Whitefield viết trên tàu Elizabeth — chỉ khác ấn bản in; dịch một lần duy nhất từ bản in 1773 (ấn bản thứ tư) vì OCR của bản này đọc được rõ nhất. Các lỗi OCR hiển nhiên đã được sửa theo ngữ cảnh. Phần thánh ca của Addison in ở cuối cuốn sách nhỏ được giữ lại vì là nội dung đạo đức in kèm trong ấn bản, không phải quảng cáo.)
 
 MỘT LƯỢC THUẬT NGẮN GỌN
 
@@ -50,8 +46,6 @@ In tại Luân Đôn cho John Mac Kain, năm 1773.
 
 (Giá sáu xu.)
 
----
-
 MỘT LƯỢC THUẬT NGẮN GỌN
 
 về
@@ -73,8 +67,6 @@ Trong các bản tiểu sử của những người tốt lành mà tôi đã đ
 Vì vậy tôi đã cố gắng noi theo gương họ. Tôi đã đơn sơ kể lại tôi vốn là gì theo bản tính tự nhiên, cũng như tôi nay là gì theo ân điển. Tôi không quá cẩn trọng về những hậu quả người ta tưởng tượng ra, vì chẳng ai có thể bị tổn hại bởi những điều này, trừ những kẻ giữ lẽ thật trong sự không công chính — đối với người trong sạch, mọi sự đều trong sạch.
 
 Như tôi đã thường ước ao, trong những lúc tâm linh tốt đẹp nhất, rằng những năm đầu đời tôi có thể được ghi xuống như một trang giấy trắng, chẳng còn gì trong ký ức, thì giờ đây tôi cũng gần như muốn lặng lẽ bỏ qua chúng. Nhưng vì ở một mức độ nào đó, chúng sẽ làm sáng tỏ việc Đức Chúa Trời đối đãi với tôi trong những năm trưởng thành, nên tôi sẽ cố gắng hết sức trình bày vắn tắt về chúng như sau.
-
----
 
 PHẦN I.
 
@@ -176,8 +168,6 @@ Việc học của tôi chẳng mấy chốc đã đổi hẳn; trước kia tô
 
 Đức Chúa Trời khiến tôi làm nhiều điều lành cho nhiều người, cũng như nhận nhiều từ những người Methodist bị khinh dể, và khiến tôi trở nên công cụ trong việc cải hóa một người gần đây đã bước vào Hội Thánh, và tôi tin, sẽ tỏ ra là một ngọn đèn cháy sáng.
 
----
-
 PHẦN II.
 
 Một bản tường thuật vắn tắt và tóm lược về những cơn cám dỗ của tôi.
@@ -236,8 +226,6 @@ Khoảng cuối bảy tuần, và sau khi tôi đã rên siết dưới sức é
 
 Thế là những ngày than khóc của tôi đã chấm dứt. Sau một đêm dài bị bỏ rơi và cám dỗ, ngôi sao mà trước kia tôi đã thấy từ xa bắt đầu hiện ra trở lại, và Sao Mai đã mọc lên trong lòng tôi. Bấy giờ Thánh Linh của Đức Chúa Trời chiếm lấy linh hồn tôi, và như tôi khiêm nhường hy vọng, đóng ấn tôi cho đến ngày cứu chuộc.
 
----
-
 PHẦN III.
 
 Từ khi tôi lần đầu rời Đại học đi Gloucester, cho đến khi tôi được phong chức.
@@ -277,8 +265,6 @@ Sau khi vắng đại học khoảng sáu tháng, tôi nghĩ đã đến lúc t�
 Khi mới đến Gloucester, vì đã quen với Oxford, tôi tha thiết cầu nguyện Đức Chúa Trời mở cửa cho tôi thăm tù nhân ở đây nữa. Chẳng bao lâu sau, tôi mơ thấy một tù nhân đến để được tôi dạy dỗ; và điều ấy in sâu vào lòng tôi. Sáng ra tôi đến cửa nhà tù quận; tôi gõ cửa, nhưng không ai ra; tôi tưởng giờ chưa đến. Tôi vẫn bền đỗ cầu nguyện cùng Đức Chúa Trời, và vài tháng sau có thư của một người bạn tại Oxford đến, nhờ tôi thăm một người tên Pebworth, đã trốn khỏi nhà tù Oxford, và bị bắt lại tại Gloucester. Vừa đọc thư, tôi thấy rõ lời cầu nguyện mình đã được đáp. Tôi lập tức đến nhà tù, chắc chắn rằng Chúa gọi tôi đến đó. Tôi gặp người ấy, và thấy ông cùng vài người khác sẵn lòng nghe Lời Đức Chúa Trời, được phép của người cai ngục và hai vị tuyên úy, tôi đều đặn đọc sách và cầu nguyện với họ mỗi ngày tôi ở trong thành. Tôi cũng xin tiền cho họ, nhờ đó tôi giúp thả một số người, và khiến lương thực được phân phát hằng tuần cho họ, cũng như đặt vào tay họ những sách mà tôi cho là thích hợp nhất. Tôi không thể nói tù nhân nào đã được tác động cách hiệu quả; tuy nhiên, nhiều điều ác đã được ngăn chặn, nhiều người đã bị cáo trách, và linh hồn tôi được gây dựng và vững mạnh nhiều trong tình yêu Đức Chúa Trời và loài người.
 
 Bận rộn như vậy, tôi tiếp tục ở thành phố quê hương thêm ba tháng nữa. Bị loài người khinh dể thật, nhưng được ân điển Đức Chúa Trời ban phước dư dật. Trí hiểu tôi được soi sáng, ý chí tôi bị bẻ gãy, và tình cảm tôi ngày càng được làm sống động với lòng sốt sắng vì Đấng Christ. Nhiều người như vậy, tôi tin, đã được thêm vào hội nhỏ của chúng tôi, là những người sẽ được cứu. Những sự chu cấp mới từ những bàn tay không ngờ đến để lo chi phí đại học cho tôi. Và cuối chín tháng tôi trở lại đó, trong niềm vui và an ủi chung của bạn bè, cho đến khi tôi được gọi bước vào chức thánh. Những hoàn cảnh đặc biệt của việc ấy, tôi sẽ thuật lại trong phần sau.
-
----
 
 PHẦN IV.
 
@@ -322,8 +308,6 @@ Trong khi ấy, hỡi độc giả yêu dấu, ngươi là ai cũng mặc, tôi 
 
 GEORGE WHITEFIELD.
 
----
-
 MỘT BÀI THÁNH CA.
 
 LẤY TỪ
@@ -347,9 +331,5 @@ LẤY TỪ
 8. Suốt mọi giai đoạn đời tôi, Tôi sẽ theo đuổi sự nhân từ Ngài; Và về sau, trong những thế giới xa xăm, Sẽ làm mới đề tài vui thích ấy.
 
 9. Suốt cả cõi đời đời, tôi sẽ dâng lên Ngài Bài ca biết ơn; Nhưng ôi! cõi đời đời quá ngắn ngủi Để nói hết lời ngợi khen Ngài.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "Năm 1714": bản OCR ghi "174." (thiếu chữ số); sửa thành 1714 theo sử liệu (Whitefield sinh 16/12/1714), đã đánh dấu [NEEDS REVIEW] tại chỗ. - "PHẦN III": bản OCR ghi nhầm tiêu đề là "SECT. I."; sửa theo mạch văn và mục lục các ấn bản, đã đánh dấu [NEEDS REVIEW] tại chỗ. - "ông Hur" (sách luận về Công vụ các Sứ đồ): bản OCR ghi "Mr. Hur", chưa xác định được tác giả — giữ nguyên theo OCR, đã đánh dấu [NEEDS REVIEW] tại chỗ. - "servitor" (sinh viên nghèo làm việc phục vụ trong trường để trừ học phí) → "sinh viên phục dịch". - "fellow of Lincoln-College" → "hội viên Trường Lincoln". - "Ember-days" → "những ngày Ember" (các ngày ăn chay theo mùa trong lịch Hội Thánh Anh, khi phong chức). - "Trinity-Sunday" → "Chúa Nhật Ba Ngôi". - "Sir John Phillips": giữ theo OCR (sử liệu ghi họ "Philipps"). - "bà Selwyn": bản OCR ghi "Se/wyr's"; đọc là Selwyn theo ngữ cảnh. - "Thi Thiên 71:15": giữ số câu theo nguyên tác (bản KJV đánh số khác bản 1934 ở Thi Thiên 71). - Bài thánh ca cuối sách: "A HYMN taken from Mr. Addison" — bài "When all thy mercies, O my God" của Joseph Addison; dịch trọn 9 khổ, giữ lại vì là nội dung in kèm trong ấn bản 1773, không phải quảng cáo. - Các câu Kinh Thánh trích dẫn được dịch theo phong cách Kinh Thánh 1934 (Mác 10:29-30; Tít 1:15; Thi Thiên 118:10; Ma-thi-ơ 6:33; 1 Ti-mô-thê 4:12; Công vụ 16:7; Ê-xê-chi-ên 3:26-27; 1 Ti-mô-thê 3:6; 2 Cô-rinh-tô 2:16; Rô-ma 10:12; Thi Thiên 115:1; 1 Phi-e-rơ 2:9).
 
 Mở trong trình đọc Về thư viện

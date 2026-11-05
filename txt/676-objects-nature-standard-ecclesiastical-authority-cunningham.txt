@@ -6,11 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Đối Tượng, Bản Chất Và Chuẩn Mực Của Quyền Giáo Hội
-
-**Nguyên tác:** "The Objects, Nature, and Standard of Ecclesiastical Authority" (Lecture II, trong loạt *Lectures on Non-Intrusion*) — Mục sư William Cunningham (1840) **Nguồn:** https://archive.org/download/objectsnaturesta00cunn/objectsnaturesta00cunn_djvu.txt *(Ghi chú: nguồn là văn bản OCR của cuốn sách nhỏ in tại Edinburgh năm 1840 (John Johnstone, Hunter Square); tác phẩm thật là bài giảng II dưới đây, được giảng ngày 28 tháng 11 năm 1839. Trang bìa của loạt bài giảng và các chi tiết in ấn không thuộc tác phẩm nên không dịch.)*
-
----
+Nguyên tác: "The Objects, Nature, and Standard of Ecclesiastical Authority" (Lecture II, trong loạt Lectures on Non-Intrusion) — Mục sư William Cunningham (1840) Nguồn: https://archive.org/download/objectsnaturesta00cunn/objectsnaturesta00cunn_djvu.txt (Ghi chú: nguồn là văn bản OCR của cuốn sách nhỏ in tại Edinburgh năm 1840 (John Johnstone, Hunter Square); tác phẩm thật là bài giảng II dưới đây, được giảng ngày 28 tháng 11 năm 1839. Trang bìa của loạt bài giảng và các chi tiết in ấn không thuộc tác phẩm nên không dịch.)
 
 BÀI GIẢNG II.
 
@@ -124,9 +120,7 @@ Nếu các nguyên tắc này, mà chúng ta đã cố gắng thiết lập, có
 
 HẾT.
 
----
-
-**Chú thích của tác giả:**
+Chú thích của tác giả:
 
 *Chương 30 của Tín Điều Westminster bị Nghị Viện Anh từ chối chuẩn nhận dân sự — xem Neal's History of the Puritans (Lịch Sử Những Người Thanh Giáo của Neal), quyển iii. tr. 320–321.
 
@@ -137,9 +131,5 @@ HẾT.
 §Đã có những nỗ lực làm rối rắm đề tài này, bằng cách nhấn mạnh sự phân biệt giữa việc khảo hạch hay đưa vào các kỳ thi, với việc tấn phong hay tiếp nhận, và bằng cách khăng khăng rằng đạo luật đặt việc trước như một bổn phận trên các Tòa Án Hội Thánh, chứ không phải việc sau. Tuy nhiên, lẽ thật là, sự phân biệt này không có nền tảng trong luật pháp hơn là nó có trong lý trí và lương tri. Luật là, "việc khảo hạch và tiếp nhận các mục sư sẽ chỉ thuộc quyền của hội thánh (kirk);" và bổn phận theo luật định, cả trong đạo luật 1592 và trong đạo luật 1711, không phải là đưa vào kỳ thi, mà là "tiếp nhận và nhận vào" một ứng viên được đề cử có đủ phẩm chất. Bổn phận tiếp nhận một ứng viên được đề cử được chu toàn khi ông ta được công nhận trong tư cách ấy, và bất kỳ bước nào được thực hiện hướng đến việc ông ta định cư. Bổn phận duy nhất khác mà các từ ngữ của các đạo luật dường như đặt ra, là "nhận vào" ông ta. Nhưng vì ngay cả những kẻ táo bạo nhất trong các đối thủ của Hội Thánh cũng co lại không dám duy trì rằng các Tòa Án Hội Thánh bị ràng buộc phải nhận vào một người vâng theo một mệnh lệnh của một Tòa Án Dân Sự, họ đã tạo ra một sự tách biệt giữa việc thử thách và việc nhận vào, dù sự tách biệt này không có sự bảo đảm nào, hoặc trong lý lẽ của sự việc, hoặc trong luật của xứ sở.
 
 ¶Sự phân biệt này được Hooker công nhận cách rõ ràng, trong đoạn đáng chú ý sau đây trong Quyển Bảy của tác phẩm Ecclesiastical Polity (Chính Thể Giáo Hội) của ông: "Quyền chức vụ tôi có thể nhận cách hợp pháp, mà không cần xin phép bất kỳ đám đông nào, nhưng quyền năng ấy tôi không thể thực thi trên một dân chúng nhất định nào hoàn toàn trái với ý muốn họ; cũng không có trong Hội Thánh Anh, bất kỳ người nào, theo mệnh lệnh của luật, sở hữu trách nhiệm mục vụ trên bất kỳ giáo xứ nào, mà dân chúng, trên thực tế, không chọn ông ta vào đó; vì dù họ không chọn bằng cách mỗi người đích thân bỏ phiếu riêng của mình, họ vẫn không thể nói rằng họ có các mục sư của mình bị áp đặt cách bạo lực lên họ, vì quyền lợi cổ xưa và nguyên thủy của họ trong đó đã, bởi các phương tiện có thứ tự, được chuyển giao cho người bảo trợ là người chọn thay cho họ." Quyển ii. tr. 305, ấn bản của Dobson. Luân Đôn. 1825.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "ecclesiastical authority / church power" → "quyền giáo hội" (nhất quán toàn văn). - "office-bearers / church officers" → "người giữ chức vụ" / "chức viên (Hội Thánh)". - "Church Courts" → "Tòa Án Hội Thánh"; "kirk-session" → "ban trị sự hội thánh"; "Presbytery" → "Hội Đồng Giáo Hạt". - "ministerial, not lordly" → "thuộc về chức vụ thừa tác, chứ không phải cai trị chúa tể"; "lords over God's heritage" → "cai trị trên cơ nghiệp của Đức Chúa Trời". - "power of order (potestas ordinis)" → "quyền chức vụ"; "power of jurisdiction (potestas jurisdictionis)" → "quyền tài phán"; "potestas dogmatica / diatactica / diacritica" giữ nguyên La-tinh. - "Erastian(s)" giữ nguyên, chỉ phái cho rằng quyền Hội Thánh thuộc về nhà nước. - "intrusion" → "việc áp đặt (mục sư lên hội chúng)"; "veto law" → "luật phủ quyết"; "presentee" → "ứng viên được đề cử"; "patron" → "người bảo trợ"; "stipend, manse, glebe" → "lương bổng, nhà xứ, đất xứ". - "civil magistrate" → "quan cai trị dân sự"; "Court of Session" → "Tòa Thượng Thẩm". - "Seceders" → "những người Ly Khai"; "Dissenters" → "những người Ly Khai" (ngữ cảnh Tô Cách Lan). - Chú thích ‡ của tác giả: câu văn OCR gốc thiếu động từ chính, đã dịch theo ý rõ ràng của đoạn và đánh dấu [NEEDS REVIEW] tại chỗ. - Các tham chiếu chương/điều Tín Điều Westminster giữ nguyên dạng "ch. xxx. đ. 1" v.v. theo OCR đã sửa lỗi nhận dạng ký tự hiển nhiên.
 
 Mở trong trình đọc Về thư viện

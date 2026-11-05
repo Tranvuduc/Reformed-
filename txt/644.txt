@@ -6,49 +6,43 @@ Bản dịch do AI (External-AI) hỗ trợ, chưa được mục sư duyệt gi
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Lễ Hứa Hôn Đời Đời
+Nguyên tác: "Everlasting Espousals: Being a Sermon Preached at the Administration of the Sacrament of the Lord's Supper, August 1714" — Thomas Boston (1755) Nguồn: https://archive.org/download/everlastingespou00bost/everlastingespou00bost_djvu.txt (Ghi chú: tác phẩm thật là bài giảng dưới đây, gồm trang tựa, lời gửi độc giả của nhà xuất bản, và toàn văn bài giảng. Phần in ấn nhà xuất bản (Edinburgh, 1755) không thuộc tác phẩm nên không dịch. Bản OCR dùng chữ "s dài" (ſ) của ấn bản thế kỷ 18, đã được chuẩn hóa về chính tả hiện đại; những chỗ OCR quá mờ được đánh dấu [NEEDS REVIEW].)
 
-**Nguyên tác:** "Everlasting Espousals: Being a Sermon Preached at the Administration of the Sacrament of the Lord's Supper, August 1714" — Thomas Boston (1755) **Nguồn:** https://archive.org/download/everlastingespou00bost/everlastingespou00bost_djvu.txt *(Ghi chú: tác phẩm thật là bài giảng dưới đây, gồm trang tựa, lời gửi độc giả của nhà xuất bản, và toàn văn bài giảng. Phần in ấn nhà xuất bản (Edinburgh, 1755) không thuộc tác phẩm nên không dịch. Bản OCR dùng chữ "s dài" (ſ) của ấn bản thế kỷ 18, đã được chuẩn hóa về chính tả hiện đại; những chỗ OCR quá mờ được đánh dấu [NEEDS REVIEW].)*
+Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
 
-**Trạng thái duyệt:** AI, chưa duyệt (chưa được mục sư duyệt)
+LÀ MỘT
 
----
+BÀI GIẢNG
 
-# LỄ HỨA HÔN ĐỜI ĐỜI
+ĐÃ GIẢNG KHI BAN
 
-*LÀ MỘT*
+Thánh lễ của
 
-*BÀI GIẢNG*
+TIỆC THÁNH CỦA CHÚA,
 
-*ĐÃ GIẢNG KHI BAN*
+Tháng Tám 1714.
 
-*Thánh lễ của*
+Bởi cố Mục sư Thomas Boston,
 
-*TIỆC THÁNH CỦA CHÚA,*
+Mục sư của Phúc Âm tại Ettrick.
 
-*Tháng Tám 1714.*
-
-*Bởi cố Mục sư Thomas Boston,*
-
-*Mục sư của Phúc Âm tại Ettrick.*
-
-*Và được xuất bản theo ước muốn của một số người đã nghe giảng.*
+Và được xuất bản theo ước muốn của một số người đã nghe giảng.
 
 Giăng 4:15: "Người đàn bà thưa: Lạy Chúa, xin cho tôi nước ấy, để cho tôi không khát..." [NEEDS REVIEW: bản OCR trang tựa bị hỏng nặng; câu này được dựng lại theo Giăng 4:15]
 
 Giăng 3:12: "Ví bằng ta nói cùng các ngươi những việc thuộc về đất mà các ngươi còn chẳng tin thay, huống chi ta nói những việc thuộc về trời, thì các ngươi tin sao được?" [NEEDS REVIEW: bản OCR trang tựa bị hỏng nặng; câu này được dựng lại theo Giăng 3:12]
 
-*Ấn bản thứ tư đã sửa chữa* [NEEDS REVIEW: bản OCR ghi mờ, có thể là "The fourth Edition corrected"]
+Ấn bản thứ tư đã sửa chữa [NEEDS REVIEW: bản OCR ghi mờ, có thể là "The fourth Edition corrected"]
 
-*EDINBURGH:*
+EDINBURGH:
 
-*In bởi T. Lumisden và Công ty;*
+In bởi T. Lumisden và Công ty;
 
-*Cho J. H. Wood, đối diện chân Forrester's Wynd,*
+Cho J. H. Wood, đối diện chân Forrester's Wynd,
 
 *1755.*
 
-## Gửi độc giả
+GỬI ĐỘC GIẢ
 
 Hỡi độc giả,
 
@@ -58,15 +52,13 @@ Nó đã trải qua ba lần in, tất cả đều bán hết trong một thời
 
 Sự khiêm tốn lớn của tác giả đã không cho phép ông đề tên mình khi nó lần đầu ra mắt; điều thiếu sót ấy các nhà xuất bản của ấn bản thứ ba nghĩ rằng họ có thể an toàn bổ sung, vì thấy rằng, trước thời điểm ấy, ông đã bước vào niềm vui của Chủ mình. Bài giảng có lời chứng của nó trong lương tâm nhiều người, và, khi đọc kỹ, sẽ thấy xứng đáng mọi đàng với con người vĩ đại ấy.
 
-## LỄ HỨA HÔN ĐỜI ĐỜI
+LÀ MỘT
 
-*LÀ MỘT*
+BÀI GIẢNG
 
-*BÀI GIẢNG*
+TRÊN
 
-*TRÊN*
-
-*Ô-sê 2:19. Ta sẽ cưới ngươi cho ta đời đời.*
+Ô-sê 2:19. Ta sẽ cưới ngươi cho ta đời đời.
 
 Nghi lễ long trọng mà chúng ta được gọi đến dự phần là tiệc của lễ hứa hôn giữa Chúa Giê-xu Christ và các tín đồ, cũng là ấn của nó; vì thế các khách dự cần phải là những người đã được hứa hôn với Đấng Christ, đã được đem vào mối dây của giao ước hôn nhân, bằng không tiệc ấy chỉ bị xúc phạm. Câu Kinh Thánh cho chúng ta thấy, mọi sự đã sẵn sàng cho lễ hứa hôn này về phía Đấng Christ; không có gì ngăn trở cuộc hôn phối hạnh phúc, nếu tội nhân bằng lòng. Mắt chúng ta thấy, hôm nay, rằng ngay cả ấn của giao ước, thánh lễ, cũng đã sẵn sàng cho chúng ta; và như vậy chúng ta có một dịp tốt để lo liệu lợi ích đời đời của mình. Có một sự gần gũi giữa hôn nhân và sự chết đến nỗi mọi hôn ước giữa loài người đều có một điều khoản về sự chết trong đó. Lời thề hôn nhân của chúng ta có những lời này: "Cho đến khi Đức Chúa Trời phân rẽ chúng ta bởi sự chết": đến nỗi ngày chết hẳn phải nhìn chằm chằm vào mặt các bên trong ngày cưới; và giường cưới chỉ là lời mở đầu cho giường chết. Nhưng, kìa, đây là một hôn ước không có điều khoản gây sốc ấy, trái lại, loại trừ nó một cách rõ ràng: "Ta sẽ cưới ngươi cho ta đời đời."
 
@@ -270,10 +262,6 @@ Cuối cùng, các bạn có chịu tiếp nhận Ngài đời đời, từ kho�
 
 Nếu thật sự các bạn như thế, thì các bạn đã được hứa hôn với Chúa Giê-xu Christ đời đời; và chào mừng đến tiệc của lễ hứa hôn tại bàn Ngài: nhưng, nếu không, các bạn sẽ có một cõi đời đời dài để hối tiếc sự từ chối này, trừ khi các bạn đổi ý, và kịp thời ăn năn về nó.
 
-*HẾT.*
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "espousals/betrothal" dịch là "lễ hứa hôn"; "Bridegroom" = "Chàng Rể", "bride" = "cô dâu/nàng dâu" (theo ngữ cảnh); "covenant of works" = "giao ước việc làm"; "covenant of grace" = "giao ước ân điển"; "sealed/open copy" của hôn ước dịch là "bản niêm phong kín"/"bản mở ra". Các câu Kinh Thánh dịch theo phong cách Kinh Thánh 1934. Những chỗ OCR quá mờ được đánh dấu [NEEDS REVIEW] kèm lý do.
+HẾT.
 
 Mở trong trình đọc Về thư viện

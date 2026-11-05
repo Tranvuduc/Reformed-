@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Bài Giảng Trong Tang Lễ Bà Margaret Baxter
+Nguyên tác: "A Funeral Sermon on the Decease of That Worthy Gentlewoman, Mrs. Margaret Baxter, Who Died the 28th of June, 1681" — John Howe (1681) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_a-funeral-sermon-on-the-_howe-john_1681/bim_early-english-books-1641-1700_a-funeral-sermon-on-the-_howe-john_1681_djvu.txt (Ghi chú: dịch toàn văn Lời dâng gửi ông Richard Baxter và Bài giảng trong tang lễ. Mục "Advertisement" quảng cáo sách khác ở cuối nguồn không thuộc tác phẩm nên không dịch. Bản OCR được đối chiếu và hiệu đính bằng bản chép sạch EEBO-TCP (A44681); các từ Hy Lạp trong bản in gốc không đọc được qua OCR (hiển thị ◊ trong bản EEBO-TCP) nên được phiên âm lại theo ngữ cảnh [NEEDS REVIEW]. Trang tựa ghi bà Baxter qua đời ngày 28 tháng 6 năm 1681.)
 
-**Nguyên tác:** "A Funeral Sermon on the Decease of That Worthy Gentlewoman, Mrs. Margaret Baxter, Who Died the 28th of June, 1681" — John Howe (1681) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_a-funeral-sermon-on-the-_howe-john_1681/bim_early-english-books-1641-1700_a-funeral-sermon-on-the-_howe-john_1681_djvu.txt *(Ghi chú: dịch toàn văn Lời dâng gửi ông Richard Baxter và Bài giảng trong tang lễ. Mục "Advertisement" quảng cáo sách khác ở cuối nguồn không thuộc tác phẩm nên không dịch. Bản OCR được đối chiếu và hiệu đính bằng bản chép sạch EEBO-TCP (A44681); các từ Hy Lạp trong bản in gốc không đọc được qua OCR (hiển thị ◊ trong bản EEBO-TCP) nên được phiên âm lại theo ngữ cảnh [NEEDS REVIEW]. Trang tựa ghi bà Baxter qua đời ngày 28 tháng 6 năm 1681.)*
-
----
-
-## Trang tựa
+TRANG TỰA
 
 Bài giảng trong tang lễ nhân sự qua đời của người phụ nữ đáng kính, bà Margaret Baxter, qua đời ngày 28 tháng 6 năm 1681.
 
@@ -20,9 +16,7 @@ Tác giả: John Howe, Mục sư của Phúc Âm.
 
 Luân Đôn: In cho Brabazon Aylmer, tại quán Ba Chim Bồ Câu, đối diện Sở Giao dịch Hoàng gia, phố Cornhill. 1681.
 
----
-
-## Kính gửi ông Richard Baxter rất đáng kính
+KÍNH GỬI ÔNG RICHARD BAXTER RẤT ĐÁNG KÍNH
 
 Thưa ông,
 
@@ -44,11 +38,9 @@ Người đầy tớ đầy kính trọng, dù hết sức không xứng đáng,
 
 JOHN HOWE
 
----
+BÀI GIẢNG TRONG TANG LỄ
 
-## Bài giảng trong tang lễ
-
-### II Cô-rinh-tô 5:8
+II CÔ-RINH-TÔ 5:8
 
 "Vả, chúng ta dạn dĩ, và muốn lìa khỏi thân thể nầy đặng ở với Chúa thì hơn."
 
@@ -100,7 +92,7 @@ Và giờ đây để tôi có thể mở rộng vấn đề này cho quý vị 
 
 Và rồi rút ra những suy ngẫm về toàn thể, có thể đặc biệt hữu ích cho chính chúng ta.
 
-### I. Chúng ta phải xem xét, hết sức có thể, một cái nhìn rõ ràng về tình trạng của vụ việc
+I. CHÚNG TA PHẢI XEM XÉT, HẾT SỨC CÓ THỂ, MỘT CÁI NHÌN RÕ RÀNG VỀ TÌNH TRẠNG CỦA VỤ VIỆC
 
 Chúng ta thấy sứ đồ nói theo cách so sánh, eudokoumen mallon, chúng ta muốn... thì hơn. Vì vậy chúng ta phải suy xét (để có thể hiểu rõ tình trạng thật của vụ việc này) những điều ông so sánh là gì. Và tâm trí ông có thể được cho là đã từng (ít nhất theo thứ tự của bản tính) ở trong trạng thái lưỡng lự nào đó, cho đến cuối cùng nó mới nghiêng về, và quyết định theo một hướng một cách thỏa nguyện như thế. Hãy nhận lấy toàn bộ vụ việc trong các điểm sau:
 
@@ -152,7 +144,7 @@ Thứ sáu, không thể không nhận thức rằng dù hạng điều thứ nh
 
 Như vậy chúng ta thấy vụ việc đã được trình bày.
 
-### II. Tiếp theo chúng ta phải cho thấy tâm trạng của một linh hồn thánh là gì (tức tâm trạng thích hợp và chân thật nhất của nó) đối với tình trạng giả định của vụ việc này
+II. TIẾP THEO CHÚNG TA PHẢI CHO THẤY TÂM TRẠNG CỦA MỘT LINH HỒN THÁNH LÀ GÌ (TỨC TÂM TRẠNG THÍCH HỢP VÀ CHÂN THẬT NHẤT CỦA NÓ) ĐỐI VỚI TÌNH TRẠNG GIẢ ĐỊNH CỦA VỤ VIỆC NÀY
 
 Chúng ta muốn... thì hơn, hay có một khuynh hướng thỏa nguyện hơn, để bị tách khỏi thân thể, và hạng dân thuộc thể này, và được nhập vào với Chúa, và hạng dân vô hình thể kia, mà Ngài cai trị trực tiếp hơn trong thế gian trên.
 
@@ -168,7 +160,7 @@ Sự lựa chọn này không được thực hiện một cách mù quáng, và
 
 Thứ tư, nó rất dứt khoát và đầy đủ, được tạo thành từ sự pha trộn của lòng vững vàng và sự thỏa nguyện, như đã nói. Điều thứ nhất đương đầu với sự dữ, là bị tách khỏi thân thể. Điều thứ hai đón nhận sự thiện, là được ở với Chúa. Vì vậy đây là tâm ý của một linh hồn tin kính trong trường hợp hiện tại, nói như thể rằng: "Thật, tôi yêu thân thể này nhiều, và cho rằng bị tách khỏi nó là một điều đau đớn, nếu phần ấy của vụ việc được xét riêng, và tự nó; nhưng khi xét nó trong sự so sánh với phần kia; thì thân thể này là gì đối với tôi? Nó là gì như một đối tượng của tình yêu, khi so với việc ở với Chúa? Sự chết là gì đối với tôi như một đối tượng của sự sợ hãi, khi so với việc cách xa Chúa? Mà việc cách xa Chúa là một sự chết, chết hơn sự chết kia gấp nghìn lần."
 
-### III. Sự phù hợp của tâm trạng này với khuôn khổ và sắc thái chung của một linh hồn thánh. Điều ấy sẽ rõ, nếu chúng ta suy xét:
+III. SỰ PHÙ HỢP CỦA TÂM TRẠNG NÀY VỚI KHUÔN KHỔ VÀ SẮC THÁI CHUNG CỦA MỘT LINH HỒN THÁNH. ĐIỀU ẤY SẼ RÕ, NẾU CHÚNG TA SUY XÉT:
 
 1. Khuôn khổ hay dấu ấn chung, là gì, phân biệt một người thật sự tin kính với người khác.
 
@@ -210,7 +202,7 @@ Ngài chẳng bao giờ cần bàn tay cho bất kỳ công việc nào Ngài ph
 
 3. Và đối với điều một số người có thể nghĩ, rằng đây dường như là một khuynh hướng trái tự nhiên: chúng ta phải hiểu mình đang nói gì, và bản tính chúng ta là gì, khi chúng ta nói về điều tự nhiên, hay trái tự nhiên đối với chúng ta. Bản tính chúng ta là một bản tính phức hợp. Điều không hẳn là trái tự nhiên khi nó nghịch với một bản tính thấp hơn, mà thuận với một bản tính cao hơn. Luật nền tảng sâu xa nhất của bản tính trí tuệ trong chúng ta là phải gắn bó nhất với sự thiện tối cao. Sự bội đạo của thế gian này khỏi Đức Chúa Trời, và sự sa vào xác thịt của nó, là trạng thái trái tự nhiên nhất của nó. Có khuynh hướng về thân thể là tự nhiên; nhưng gắn bó với nó hơn là với Đức Chúa Trời, là nghịch nhất với những lời dạy chân thành của bản tính nguyên thủy, tinh sạch và ban đầu.
 
-### Những suy luận cho chúng ta
+NHỮNG SUY LUẬN CHO CHÚNG TA
 
 Có giờ đây (cho chúng ta dùng) nhiều điều phải suy ra.
 
@@ -301,9 +293,5 @@ Bà biết cách đánh giá danh dự của một gia đình, và một dòng d
 Rằng chúng ta là những tạo vật được hợp nhất với thân thể, nhưng có thể tách khỏi chúng? Mỗi người trong chúng ta hãy nghĩ: tôi là kẻ có thể sống trong một thân thể, và có thể sống ngoài một thân thể. Khi tôi sống trong một thân thể, thân thể ấy không phải của tôi, tôi không ở trong nhà mình. Rằng thân thể phải thuộc về Chúa, như Ngài sẽ thuộc về thân thể. Rằng chúng ta sẽ ở trong thân thể một cách không yên ủi và khốn khổ, nếu chúng ta ở trong nó đơn độc và một mình, và không có với mình một Đấng cư ngụ tốt hơn. Rằng thân thể chúng ta phải là những dinh thự cho một Đấng thiêng liêng, những nhà cho đạo tin kính, những đền thờ của Đức Thánh Linh. Ôi những suy nghĩ đáng kính chúng ta nên có về những thân thể này vì cớ ấy! Chúng ta nên cẩn thận biết bao để không làm chúng đê hèn, không отчуж chúng. "Nếu ai phá hủy đền thờ Đức Chúa Trời, thì Đức Chúa Trời sẽ phá hủy họ", I Cô-rinh-tô 3:16. Người ta lại cướp của Đức Chúa Trời sao? Phá vỡ và vi phạm nhà Ngài sao? Thật là một vụ trộm đáng ghê tởm! Chúng ta há lại không đồng ý từ bỏ những thân thể này, và sự sống thuộc thể này? Cuộc nhóm họp của chúng ta sẽ có mục đích tốt đẹp, nếu đây là ý chung của hội chúng đang tan này: "Lạy Chúa, tại đây chúng con đầu phục và từ bỏ (trừ phi vì, và dưới Ngài) mọi quyền và danh phận đối với những thân thể và sự sống này của chúng con. Chúng con dâng thân thể mình thánh, đẹp lòng, sống (vẫn, đang sống) làm của lễ, là sự thờ phượng phải lẽ của chúng con." Chúng ta hãy làm thế, và nhớ rằng từ nay chúng ta không sống cho chính mình, cũng không chết, cuối cùng, cho chính mình, mà sống và chết để thuộc về Chúa.
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none lớn — các từ Hy Lạp trong bản in gốc không đọc được qua OCR (hiển thị ◊ trong bản EEBO-TCP) đã được phiên âm lại theo ngữ cảnh và đánh dấu [NEEDS REVIEW] tại chỗ dùng (tharroumen/eudokoumen, eudokia, euarestoi autō, eidotes, eiper, en toutō, ex, ependysasthai, endēmeō/ekdēmeō, apolytrōsis tou sōmatos, lytrōsis tōn parabaseōn, to sōma tēs tapeinōseōs hēmōn, symmorphon, ho esō anthrōpos/ho exō); các chú thích lề Latinh (Ambros. de bono mortis; Epict.; Socrat.; Anaxarch.; Julian. Ep.) giữ nguyên hoặc dịch nghĩa kèm theo; "terminus uniens", "q. d." (quasi dicat), "quoad hoc" giữ nguyên dạng Latinh. "the Lord" trong bài giảng chỉ Đấng Christ nên dịch là "Chúa"; "God" dịch "Đức Chúa Trời"; "Holy Ghost/Spirit" dịch "Đức Thánh Linh" theo bảng thuật ngữ cố định.
 
 Mở trong trình đọc Về thư viện

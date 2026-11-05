@@ -184,6 +184,4 @@ Hết.
 
 (Ấn bản cho phép in: Thomas Wykes, ngày 24 tháng 8.)
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: một số đoạn bản OCR 1639 bị hỏng nặng (ký tự "ſ" dài, chữ in lệch, thứ tự dòng xáo trộn) nên đã tái dựng theo ngữ cảnh và đánh dấu [NEEDS REVIEW] tại các chỗ phải suy đoán — gồm: câu mở đầu của bài giảng; vài cụm trong phần "lý lẽ từ những ơn trước kia"; một đoạn về "sữa nguyên chất của Lời"; phần "họ đã được nhậm lời" trong thí dụ người Bên-gia-min (bản OCR ghi "denied" nhưng ngữ cảnh chỉ ra được nhậm lời sau khi hạ mình); và một số cụm trong phần tín lý cuối về sự tiền định. Thuật ngữ "prosper" được dịch nhất quán là "thịnh vượng"; "favorite" trong tựa được dịch là "được sủng ái" theo nghĩa người được Đức Chúa Trời đoái thương đặc biệt; "the gods upon earth" (các vua chúa) được dịch là "các thần dưới đất" theo nguyên văn.
-
 Mở trong trình đọc Về thư viện

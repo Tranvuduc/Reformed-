@@ -8,7 +8,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 NHẬN XÉT VỀ ẤN PHẨM CỦA ÔNG MARTIN
 
-**Nguyên tác:** "Remarks on Mr. Martin's publication, entitled 'Thoughts on the Duty of Man, relative to Faith in Jesus Christ' in Five Letters to a Friend" **Tác giả:** Andrew Fuller **Nguồn:** Archive.org (bản in 1789) — bản dịch AI, chưa duyệt
+Nguyên tác: "Remarks on Mr. Martin's publication, entitled 'Thoughts on the Duty of Man, relative to Faith in Jesus Christ' in Five Letters to a Friend" Tác giả: Andrew Fuller Nguồn: Archive.org (bản in 1789) — bản dịch AI, chưa duyệt
 
 NHẬN XÉT về ẤN PHẨM CỦA ÔNG MARTIN, TỰA ĐỀ "SUY NGHĨ về Bổn Phận của Con Người, liên quan đến ĐỨC TIN nơi CHÚA GIÊ-XU CHRIST" trong NĂM BỨC THƯ gửi cho một NGƯỜ BẠN.
 
@@ -239,7 +239,5 @@ Tôi nghĩ cách đối xử ông với Ông Evans là một mảnh với cách 
 Về đoạn trong trang 70, tôi nghĩ phần rất nhỏ của thẳng thắn và lẽ thường sẽ đã hiểu lời Ông Evans có nghĩa không hơn rằng con người nói chung có quyền chỉ huy mọi chi thể của thân thể, và dùng mọi khả năng của linh hồn. Dốt nát và ác ý, tuy nhiên, là chữ nặng, đặc biệt cái sau; kiến thức bạn về tính cách Ông Martin, bạn nói, khiến bạn hy vọng đó là cái trước.
 
 Về phần tôi, tôi nghĩ rất tốt Ông Martin đã thông báo ta (tr. 70) rằng ông không ở dưới ảnh hưởng của ghen tị, vì tôi thú nhận tôi nếu không đã quy cách đối xử ông với Ông Evans cho nguyên nhân ấy; và ngay như hiện tại, tôi không biết trên nguyên tắc nào khác để giải thích việc ông gảy mãi chủ đề "lợi lộc."
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none (thuật ngữ 16 từ chuẩn được dùng xuyên suốt; nhiều đoạn OCR hỏng được đánh dấu [NEEDS REVIEW] thay vì đoán; Thư V có lẽ là "On Human Endeavour" theo nội dung)
 
 Mở trong trình đọc Về thư viện

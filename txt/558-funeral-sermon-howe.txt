@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Bài Giảng Tang Lễ Cho Tôi Tớ Trung Tín
+Nguyên tác: "A Funeral Sermon, for that Faithful and Laborious Servant of Christ, Mr. Richard Fairclough (Who Deceased July 4, 1682, in the Sixty-first Year of his Age)" — John Howe (1682) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_a-funeral-sermon-for-_howe-john_1682/bim_early-english-books-1641-1700_a-funeral-sermon-for-_howe-john_1682_djvu.txt (Ghi chú: nguồn là bản OCR (_djvu.txt) của cuốn sách in năm 1682 trên archive.org; tác phẩm thật gồm "Thư đề tặng" (Epistle Dedicatory) gửi gia quyến người quá cố và bài giảng tang lễ dựa trên Ma-thi-ơ 25:21. Phần danh mục sửa lỗi in (Errata) ở cuối sách là chi tiết kỹ thuật của nhà in nên không dịch; các tiêu đề trang lặp lại ("A Funeral Sermon. 29"...) đã được lược bỏ.)
 
-**Nguyên tác:** "A Funeral Sermon, for that Faithful and Laborious Servant of Christ, Mr. Richard Fairclough (Who Deceased July 4, 1682, in the Sixty-first Year of his Age)" — John Howe (1682) **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_a-funeral-sermon-for-_howe-john_1682/bim_early-english-books-1641-1700_a-funeral-sermon-for-_howe-john_1682_djvu.txt *(Ghi chú: nguồn là bản OCR (_djvu.txt) của cuốn sách in năm 1682 trên archive.org; tác phẩm thật gồm "Thư đề tặng" (Epistle Dedicatory) gửi gia quyến người quá cố và bài giảng tang lễ dựa trên Ma-thi-ơ 25:21. Phần danh mục sửa lỗi in (Errata) ở cuối sách là chi tiết kỹ thuật của nhà in nên không dịch; các tiêu đề trang lặp lại ("A Funeral Sermon. 29"...) đã được lược bỏ.)*
-
----
-
-## Thư Đề Tặng
+THƯ ĐỀ TẶNG
 
 Kính gửi các ông Samuel Fairclough [NEEDS REVIEW: bản OCR ghi "Samutr Faircioucn"], John Fairclough [NEEDS REVIEW: bản OCR ghi "Joann FairxcLoucn"], George Jones [NEEDS REVIEW: bản OCR ghi "Georce Jones"], Richard Sy... [NEEDS REVIEW: bản OCR ghi "Ricyaro Syure", không đọc rõ], cùng các phu nhân đạo đức của quý vị, các anh em và chị em của cố ông Richard Fairclough quá cố,
 
@@ -30,11 +26,9 @@ Người anh em rất mực yêu mến quý vị, và là tôi tớ trong Chúa 
 
 John Howe.
 
----
+BÀI GIẢNG TANG LỄ
 
-## Bài Giảng Tang Lễ
-
-**Ma-thi-ơ 25:21.** *"Chủ nói với người rằng: Hỡi đầy tớ ngay lành trung tín kia, được lắm; ngươi đã trung tín trong việc nhỏ, ta sẽ lập ngươi coi sóc nhiều; hãy đến hưởng sự vui mừng của chủ ngươi."*
+Ma-thi-ơ 25:21. *"Chủ nói với người rằng: Hỡi đầy tớ ngay lành trung tín kia, được lắm; ngươi đã trung tín trong việc nhỏ, ta sẽ lập ngươi coi sóc nhiều; hãy đến hưởng sự vui mừng của chủ ngươi."*
 
 Có lẽ sẽ có vẻ hơi khập khiễng, và không phải phép, khi lễ tưởng niệm người bạn đáng kính của chúng ta lại được cử hành long trọng vào lúc này, đã quá lâu sau khi di hài của ông không còn trên mặt đất. Nhưng có hai điều đã khiến sự trì hoãn này trở nên cần thiết và không thể tránh khỏi, đó là: chính ước nguyện của ông, được bày tỏ trong di chúc, đã giới hạn việc thực hiện bổn phận này cho người mà nay đang gánh vác nó. Và những sự yếu đuối lớn lao của chính tôi, trước thời gian ông lâm bệnh và qua đời (khiến cho việc ông làm phần này cho tôi còn có khả năng hơn là tôi làm cho ông), đã buộc tôi phải bắt đầu một liệu trình để phục hồi sức khỏe suy yếu, đòi hỏi phải đi xa vài tuần, và không thể xong sớm hơn được.
 
@@ -116,7 +110,7 @@ Nhưng tạ ơn Đức Chúa Trời rằng trong số những người khác nha
 
 15. Người ấy tin cậy Chủ mình về phần thưởng cuối cùng, và bằng lòng chờ đợi, dù Ngài thấy nên trì hoãn bao lâu. Thánh Phao-lô tự xưng mình là tôi tớ của Đức Chúa Trời, và sứ đồ của Đức Chúa Giê-xu Christ, trong sự trông cậy sự sống đời đời, là sự sống mà Đấng không thể nói dối đã hứa, và nhờ đó cương quyết đối mặt mọi khó khăn của công việc phục vụ đầy hiểm nguy ấy. [Tít 1:1–2]
 
-## II. Sự chấp nhận và phần thưởng mà một tôi tớ như thế nhận được ở trên cao.
+II. SỰ CHẤP NHẬN VÀ PHẦN THƯỞNG MÀ MỘT TÔI TỚ NHƯ THẾ NHẬN ĐƯỢC Ở TRÊN CAO.
 
 Sự chấp nhận người ấy được bày tỏ bằng chính những lời (như đã nói) vốn đã cho chúng ta tính cách của người ấy cách chung, không chỉ cho thấy người ấy là ai, và đã làm gì, mà còn cho thấy Chúa của người ấy đánh giá, và phê chuẩn người ấy (như chẳng còn nghi ngờ gì, Ngài sẽ làm) tương ứng.
 
@@ -261,9 +255,5 @@ Nhưng đó là một bằng chứng lớn về khuynh hướng nhân từ của
 Phải, và điều ấy có thể khiến chúng ta có những ý nghĩ nhân từ hơn đôi chút về nguyên tố quê hương thấp hèn này của chúng ta, và ít tiếc nuối hơn rằng phần đất của chúng ta phải tan rã và hòa vào nó; khi nghĩ đến kho báu phong phú nào, những đền thờ nào của một thần linh mới cư ngụ gần đây (nay đã trở thành bụi thánh) mà nó đã từ thời này sang thời khác tiếp nhận và biến hóa vào chính nó. Một số người đã viết nhiều dường nào về Roma Subterranea [NEEDS REVIEW: sách về các hầm mộ cổ ở Rô-ma], về các ngôi mộ của các vị tử đạo, và những người xuất sắc khác, như nhiều người trong số họ đã được quy tụ trong một mảnh đất nhỏ này? Và nếu có một bản tường thuật chi tiết như thế về phần tinh túy hơn của Luân Đôn dưới lòng đất, huống chi là mọi nơi, nơi những người công chính và thánh khiết đã ngã xuống, và đặt đền tạm đất của mình, thì đất của chúng ta sẽ tỏ ra cao quý (và thậm chí thánh khiết) dường nào bởi những sự thêm vào liên tục như thế, trong mọi thời đại? Một đạo binh vinh hiển nào sẽ trỗi dậy và nảy sinh ngay từ Luân Đôn của chúng ta? Nay nấm mồ chẳng phải bớt u ám sao? Ai lại tiếc phải nằm khuất một thời gian, giữa những người mà chúng ta trông đợi sẽ cùng trỗi dậy và thăng lên cách vinh hiển dường ấy?
 
 Điều ấy khiến chúng ta siêng năng trong thời gian tạm trú ở đây: sự trông đợi một sự chào đón như thế lại không đưa chúng ta vượt qua điều gì? "Hỡi đầy tớ ngay lành trung tín kia, được lắm," v.v. Chúng ta phải chuyên tâm cư xử như ông đã làm dường nào? "Phước cho đầy tớ ấy, khi chủ về sẽ thấy làm như vậy": vậy chúng ta hãy vững vàng, không rúng động, luôn dư dật trong công việc Chúa, vì biết rằng công khó của chúng ta trong Chúa chẳng phải là vô ích [I Cô-rinh-tô 15:58].
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "servant" được dịch nhất quán là "tôi tớ" (theo phong cách Kinh Thánh 1934: "đầy tớ" trong câu trích Ma-thi-ơ 25:21 giữ nguyên văn 1934). - "Well done, thou good and faithful servant" trong phần giảng được dịch "Hỡi đầy tớ ngay lành trung tín kia, được lắm" theo văn phong 1934. - "euge" (tiếng La-tinh trong bản in, nghĩa là "được lắm/hoan hô") được dịch theo nghĩa. - Một số tên riêng trong Thư Đề Tặng bị OCR làm nát (Samutr Faircioucn, Joann FairxcLoucn, Georce Jones, Ricyaro Syure) — đã chuẩn hóa theo tên gia đình Fairclough và đánh dấu NEEDS REVIEW. - "Dr. Whitchcot" [NEEDS REVIEW: có lẽ là Benjamin Whichcote, viện sĩ Emmanuel College, Cambridge]. - Các trích dẫn Kinh Thánh được dịch theo phong cách 1934; các sách được địa phương hóa: Psalms → Thi Thiên, Matthew → Ma-thi-ơ, Romans → Rô-ma, Revelation → Khải Huyền, Canticles → Nhã Ca, Philippians → Phi-líp, Titus → Tít, Galatians → Ga-la-ti, Ephesians → Ê-phê-sô, Exodus → Xuất Ê-díp-tô Ký, Deuteronomy → Phục Truyền, 2 Chronicles → II Sử Ký, 1 Peter → I Phi-e-rơ, 1 John → I Giăng, 3 John → III Giăng, Hebrews → Hê-bơ-rơ, Acts → Công Vụ, Isaiah → Ê-sai, Jeremiah → Giê-rê-mi, Daniel → Đa-ni-ên, 1-2 Corinthians → I-II Cô-rinh-tô, 1-2 Timothy → I-II Ti-mô-thê, James → Gia-cơ. - Các đoạn La-tinh/Hy Lạp trong bản in bị OCR nát không đọc được — đã dịch theo ý văn cảnh và đánh dấu NEEDS REVIEW. - Phần Errata (danh mục lỗi in) ở cuối sách không dịch vì là chi tiết kỹ thuật của nhà in, không thuộc nội dung tác phẩm.
 
 Mở trong trình đọc Về thư viện

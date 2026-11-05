@@ -6,13 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Hành Trình Người Lữ Hành — Bản Rút Gọn Của Wesley
+Nguyên tác: "The Pilgrim's Progress from this world to that which is to come. Abridg'd by John Wesley" — John Bunyan (1766) Nguồn: https://archive.org/download/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1766/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1766_djvu.txt (Ghi chú: đây là bản rút gọn do John Wesley biên soạn (chỉ gồm hành trình của Cơ Đốc Nhân, không có phần của Christiana), khác với bản tóm tắt chapbook 1769 đã dịch ở đợt trước (file 001-pilgrims-progress-bunyan.md). Bản OCR bắt đầu từ đoạn Cơ Đốc Nhân ở nhà Người Giải Nghĩa; trang tựa và phần mở đầu bị thiếu trong bản quét. Đã loại bỏ số trang, ký tự rác OCR và phần mục lục/quảng cáo ở cuối. Chữ "ſ" (s dài) đã được chuẩn hóa; các chỗ OCR hỏng đã phục dựng theo văn bản gốc của Bunyan và đánh dấu khi không chắc chắn.)
 
-**Nguyên tác:** "The Pilgrim's Progress from this world to that which is to come. Abridg'd by John Wesley" — John Bunyan (1766) **Nguồn:** https://archive.org/download/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1766/bim_eighteenth-century_the-pilgrims-progress-f_bunyan-john_1766_djvu.txt *(Ghi chú: đây là bản rút gọn do John Wesley biên soạn (chỉ gồm hành trình của Cơ Đốc Nhân, không có phần của Christiana), khác với bản tóm tắt chapbook 1769 đã dịch ở đợt trước (file 001-pilgrims-progress-bunyan.md). Bản OCR bắt đầu từ đoạn Cơ Đốc Nhân ở nhà Người Giải Nghĩa; trang tựa và phần mở đầu bị thiếu trong bản quét. Đã loại bỏ số trang, ký tự rác OCR và phần mục lục/quảng cáo ở cuối. Chữ "ſ" (s dài) đã được chuẩn hóa; các chỗ OCR hỏng đã phục dựng theo văn bản gốc của Bunyan và đánh dấu khi không chắc chắn.)*
-
----
-
-## I. Nhà Người Giải Nghĩa
+I. NHÀ NGƯỜI GIẢI NGHĨA
 
 "Con đường con phải đi," Người Giải Nghĩa nói, "là con đường đã được các tổ phụ, các đấng tiên tri, Đấng Christ và các sứ đồ Ngài vạch ra."
 
@@ -72,7 +68,7 @@ Bấy giờ Cơ Đốc Nhân hỏi: "Sao ông run rẩy thế?" Người ấy đ
 
 Bấy giờ Người Giải Nghĩa nói với Cơ Đốc Nhân: "Hãy ghi khắc những điều này trong lòng, để chúng như cây gậy thúc bên hông ngươi bất cứ nơi nào ngươi đi; và nguyện Đấng Yên Ủi ở cùng ngươi."
 
-## II. Thập Tự Giá Và Đồi Gian Nan
+II. THẬP TỰ GIÁ VÀ ĐỒI GIAN NAN
 
 Bấy giờ tôi thấy trong giấc chiêm bao rằng con đường cao mà ông phải đi được rào hai bên bằng một bức tường gọi là Sự Cứu Rỗi. Ông chạy trên đường ấy cho đến khi đến một nơi có Thập Tự Giá dựng lên, và phía dưới một chút có một ngôi mộ. Ngay khi Cơ Đốc Nhân đến gần Thập Tự Giá, gánh nặng trên lưng ông tuột ra, lăn xuống, lăn mãi cho đến miệng ngôi mộ, rồi rơi vào trong; tôi không còn thấy nó nữa.
 
@@ -94,7 +90,7 @@ Họ ngồi trò chuyện với nhau cho đến khi bữa tối dọn ra. Và t�
 
 Ngày hôm sau, họ đưa ông vào kho vũ khí, cho ông xem đủ mọi binh giáp dành cho lữ khách: gươm, khiên, mũ sắt, áo giáp, và giày không bao giờ mòn. Ở đó có đủ để trang bị cho số người đông như sao trên trời. Rồi họ mặc giáp cho ông từ đầu đến chân, phòng khi ông gặp phải những cuộc tấn công dọc đường. Khi ông sắp lên đường, họ lại dặn ông rằng xuống Thung Lũng Hạ Mình mà không vấp ngã là việc khó. Khi họ đã xuống đến đáy thung lũng, họ tặng ông một ổ bánh, một bình rượu và một chùm nho khô; rồi ông tiếp tục lên đường.
 
-## III. Trận Chiến Với A-pô-ly-ôn
+III. TRẬN CHIẾN VỚI A-PÔ-LY-ÔN
 
 Ông chưa đi được bao xa trong thung lũng thì thấy một ác quỷ gớm ghiếc đến đón đường ông; tên nó là A-pô-ly-ôn. Bấy giờ ông phân vân trong lòng, chẳng biết nên quay lại hay đứng vững. Nhưng ông nghĩ rằng mình không có giáp che lưng, nên quyết định đứng lại. Ông cứ tiến bước, và A-pô-ly-ôn đến đón đường ông. Quái vật ấy trông thật kinh tởm: mình nó phủ vảy (đó là niềm kiêu hãnh của nó), cánh như cánh rồng, bụng phun lửa và khói, miệng như miệng sư tử. Nó nhìn Cơ Đốc Nhân với ánh mắt khinh bỉ, rồi tra hỏi ông như sau:
 
@@ -140,7 +136,7 @@ Nói rồi nó phóng một ngọn lao lửa vào ngực ông. Nhưng Cơ Đốc
 
 Bấy giờ có một bàn tay đem đến cho ông vài chiếc lá của Cây Sự Sống; ông đắp lên các vết thương, và chúng lập tức lành. Sau đó ông lại lên đường, nhưng tay vẫn cầm gươm tuốt trần.
 
-## IV. Thung Lũng Bóng Chết
+IV. THUNG LŨNG BÓNG CHẾT
 
 Cuối thung lũng này lại có một thung lũng khác, gọi là Thung Lũng Bóng Chết. Đấng tiên tri Giê-rê-mi mô tả nó như sau: một đồng vắng, đất sa mạc và hầm hố, đất khô hạn, đất mà chẳng ai (trừ người Cơ Đốc) từng đi qua, và chẳng ai ở đó.
 
@@ -162,7 +158,7 @@ Nhờ ánh sáng ấy ông đi đến cuối thung lũng, rồi đến một d�
 
 Nghe vậy Cơ Đốc Nhân hơi chạnh lòng; ông bèn dốc hết sức, chẳng mấy chốc đã đuổi kịp Trung Tín, rồi còn vượt qua ông. Thế là kẻ sau rốt trở nên trước hết. Bấy giờ Cơ Đốc Nhân mỉm cười vì mình đã vượt qua anh em; nhưng vì không để ý bước chân, ông bỗng vấp ngã; ông không đứng dậy được cho đến khi Trung Tín đến đỡ ông dậy.
 
-## V. Cuộc Trò Chuyện Với Trung Tín
+V. CUỘC TRÒ CHUYỆN VỚI TRUNG TÍN
 
 Bấy giờ tôi thấy trong giấc chiêm bao rằng hai người cùng đi với nhau, trò chuyện nhiều điều.
 
@@ -224,7 +220,7 @@ Cơ Đốc Nhân: "Anh đã đáp lại hắn thế nào?"
 
 Trung Tín: "Lúc đầu tôi không biết phải nói gì; hắn cứ ép tôi mạnh đến nỗi máu dồn lên mặt, và tôi suýt phải bỏ cuộc. Nhưng cuối cùng tôi nghĩ rằng những điều người ta gọi là xấu hổ, chính Đức Chúa Trời lại gọi là vinh hiển; rằng sự khôn ngoan của thế gian là sự dại dột trước mặt Đức Chúa Trời. Thế là tôi nói với hắn: 'Xấu Hổ, ngươi hãy đi khỏi ta! Ngươi là kẻ thù của sự cứu rỗi ta. Ta sẽ theo Đấng đã phán: Ai xấu hổ vì Ta và lời Ta, Con Người cũng sẽ xấu hổ vì kẻ ấy.' Rồi hắn bỏ đi, và tôi cứ tiếp tục hành trình."
 
-## VI. Ba Hoa
+VI. BA HOA
 
 Hai người cứ đi, Trung Tín nhìn sang một bên, thấy có người đang đi đằng xa. Đó là một người cao lớn, nhìn từ xa thì đẹp mã hơn khi đến gần. Trung Tín bèn chào hỏi ông ta như sau:
 
@@ -320,7 +316,7 @@ Ba Hoa: "Vì bạn xét đoán vội vàng như vậy, và sẵn lòng tin nhữ
 
 Bấy giờ Cơ Đốc Nhân đến, nói: "Tôi đã bảo anh rồi mà. Anh đã làm tốt khi nói thẳng thắn. Ước gì mọi người đều đối xử với hạng người như vậy như anh đã làm; bấy giờ hoặc chính họ sẽ trở nên thật sự tin kính, hoặc bầu bạn với những người tin kính sẽ trở nên quá nóng đối với họ."
 
-## VII. Hội Chợ Phù Hoa
+VII. HỘI CHỢ PHÙ HOA
 
 Trong lúc họ đang trò chuyện, có một người đến đón đường họ, chẳng mấy chốc đã đuổi kịp họ, mà rằng: "Bình an cho các ngươi. Các bạn của tôi, từ lúc chúng ta chia tay đến nay, các bạn ra sao?" Họ bèn kể cho ông mọi điều đã xảy đến với họ trên đường.
 
@@ -362,7 +358,7 @@ Bấy giờ tôi thấy phía sau đám đông có một cỗ xe và ngựa đan
 
 Nhưng ông không ra đi một mình; vì một người tên là Hy Vọng (đã được chinh phục bởi sự hiền lành và nhẫn nhục của họ trong sự chịu khổ) quyết định đi cùng ông bất cứ nơi nào ông đi. Ông cũng nói với Cơ Đốc Nhân rằng còn nhiều người nữa trong hội chợ sẽ chờ thời cơ mà theo sau.
 
-## VIII. Đê-ma Và Núi Tham Lợi
+VIII. ĐÊ-MA VÀ NÚI THAM LỢI
 
 Họ cứ đi, không dừng lại cũng không ngoái nhìn, cho đến khi đến một đồng bằng xinh đẹp gọi là Đồng Dễ Chịu; nhưng nó hẹp, nên họ qua nhanh. Bên kia đồng có một ngọn đồi nhỏ gọi là Tham Lợi, trong đồi có một mỏ bạc; nhiều người đi đường ấy trước đây đã từng rẽ vào xem; nhưng đất sập xuống trên họ, họ hư mất thảm thương. Cách đó không xa, đối diện với nó, có một người đứng gọi Cơ Đốc Nhân và bạn đồng hành: "Này! Hãy rẽ qua đây, tôi sẽ chỉ cho các ông một điều."
 
@@ -404,7 +400,7 @@ Cơ Đốc Nhân: "Tôi tiếc vì đã dẫn anh ra khỏi đường. Nhưng ch
 
 Hy Vọng: "Để tôi đi trước."
 
-## IX. Lâu Đài Nghi Ngờ
+IX. LÂU ĐÀI NGHI NGỜ
 
 Cơ Đốc Nhân: "Không, chính tôi đã dẫn anh ra khỏi đường. Nếu có nguy hiểm gì, hãy để tôi chịu trước."
 
@@ -430,7 +426,7 @@ Sáng hôm sau, khổng lồ đem họ ra sân lâu đài, chỉ cho họ nhữn
 
 Bấy giờ Cơ Đốc Nhân thử mở cửa ngục; khi ông tra chìa khóa, then cửa bật ra, cửa mở tung dễ dàng. Họ đến cánh cửa ngoài dẫn ra sân lâu đài, và với chiếc chìa khóa này, họ cũng mở cửa ấy dễ dàng. Cổng sắt là cửa tiếp theo; nhưng ổ khóa ấy rất cứng. Tuy vậy, một lúc sau chìa khóa cũng mở được: thế là họ không dừng lại cho đến khi ra đến đường cái của Vua, nơi họ đã ra khỏi quyền hạn của khổng lồ.
 
-## X. Núi Vui Thích
+X. NÚI VUI THÍCH
 
 Rồi họ đi tiếp cho đến khi đến Núi Vui Thích, nơi có vườn tược, vườn cây ăn trái, vườn nho và suối nước. Ở đây họ uống và rửa mình, và tự do ăn trái vườn nho. Bấy giờ trên đỉnh những núi này có những người chăn chiên đang chăn bầy bên đường. Các lữ khách bèn đến gần họ, hỏi: "Những núi này của ai? Và bầy chiên ăn cỏ trên đó của ai?"
 
@@ -484,7 +480,7 @@ Vì vậy, khi nghe nói về những kẻ cướp như vậy, chúng ta phải 
 
 Cũng tốt khi chúng ta cầu xin Vua đích thân đi cùng chúng ta; bấy giờ dù có hàng ngàn kẻ vây bủa chung quanh, chúng ta cũng chẳng sợ; nhưng không có Ngài, những kẻ trợ giúp kiêu ngạo sẽ ngã xuống giữa những kẻ bị giết."
 
-## XI. Kẻ Nịnh Hót
+XI. KẺ NỊNH HÓT
 
 Họ cứ đi cho đến khi đến một nơi, nơi họ thấy một con đường nhập vào đường họ đi, mà xem ra cũng thẳng như đường kia, đến nỗi họ không biết nên chọn đường nào. Đang khi họ đứng suy nghĩ, có một người da đen, nhưng khoác áo choàng rất trắng, mỉm cười đến gần họ, âu yếm hỏi: "Sao các ông đứng đây?" Họ đáp: "Chúng tôi đang đi đến Núi Si-ôn, nhưng không biết nên chọn đường nào trong hai đường này." "Tôi mừng vì các ông có ý tốt như vậy," người ấy nói. "Ít ai khôn ngoan như các ông. Hãy theo tôi, các bạn thân mến, và tôi sẽ dẫn các ông vào đường ngay. Những người như các ông đáng được mọi người tôn trọng." Thế là họ theo ông ta, cho đến khi, dần dần, đường rẽ ngoặt, và mặt họ hướng về Thành Hủy Diệt. Chưa kịp nhận ra, họ đã lọt vào trong một cái lưới mà ông ta giăng lên họ, giữ họ chặt cứng. Áo trắng tuột khỏi lưng người da đen; họ thấy mình đang ở đâu, nhưng không sao thoát ra được.
 
@@ -492,7 +488,7 @@ Bấy giờ Cơ Đốc Nhân nói: "Giờ tôi thấy lỗi mình rồi. Những
 
 Hy Vọng: "Họ cũng đã cho chúng ta một tờ giấy chỉ đường; nhưng chúng ta quên đọc, nếu không chúng ta đã giữ mình khỏi các lối của kẻ hủy diệt." Cứ thế họ nằm than khóc trong lưới, thì thấy một đấng sáng láng đến gần họ, tay cầm roi bằng dây nhỏ. Đấng ấy hỏi: "Các ngươi làm gì ở đây?" Họ đáp: "Chúng tôi bị một người da đen khoác áo trắng dẫn ra khỏi đường." "Hắn là Kẻ Nịnh Hót," đấng ấy nói, "là sứ đồ giả, là Sa-tan biến thành thiên sứ sáng láng." Rồi đấng ấy xé lưới, nói: "Hãy theo ta," và dẫn họ trở lại đường họ đã bỏ. Rồi đấng ấy hỏi họ: "Những người chăn trên núi chẳng đã cho các ngươi một tờ giấy chỉ đường sao? Sao các ngươi không đọc? Và họ chẳng đã dặn các ngươi coi chừng Kẻ Nịnh Hót sao?" Họ lặng thinh. Thế là đấng ấy truyền họ nằm xuống, đánh đòn họ nặng, mà rằng: "Kẻ nào Ta yêu, Ta quở trách và sửa phạt; vậy hãy sốt sắng và ăn năn."
 
-## XII. Đất Mê Hoặc Và Câu Chuyện Của Hy Vọng
+XII. ĐẤT MÊ HOẶC VÀ CÂU CHUYỆN CỦA HY VỌNG
 
 Bấy giờ tôi thấy trong giấc chiêm bao rằng họ đứng dậy, đi tiếp, cho đến khi vào một xứ mà không khí tự nhiên làm cho người ta buồn ngủ. Ở đây Hy Vọng bắt đầu rất nặng mí mắt, nói với Cơ Đốc Nhân: "Mắt tôi mở không nổi nữa; chúng ta hãy nằm xuống ngủ một lúc."
 
@@ -634,7 +630,7 @@ Hy Vọng: "Sao họ lại dập tắt chúng?"
 
 Cơ Đốc Nhân: "Một là, vì họ tưởng những sự sợ hãi ấy do ma quỷ gây ra, trong khi thật ra do Đức Chúa Trời gây ra. Hai là, họ cũng tưởng mình không có lý do gì phải sợ như vậy, nên cứ cứng lòng trong sự tự tin táo gan. Ba là, họ thấy những sự sợ hãi ấy sẽ cướp mất sự công chính riêng yêu dấu của họ, nên họ chống cự hết sức mình."
 
-## XIII. Xứ Bê-u-la
+XIII. XỨ BÊ-U-LA
 
 Bấy giờ tôi thấy trong giấc chiêm bao rằng lúc này họ đã qua khỏi Đất Mê Hoặc, và đang vào Xứ Bê-u-la, đường đi thẳng xuyên qua xứ ấy. Giờ đây họ đã ở xa Thung Lũng Bóng Chết, cũng ra khỏi tầm với của Khổng Lồ Tuyệt Vọng; từ nơi này, họ thậm chí không còn thấy Lâu Đài Nghi Ngờ nữa. Trong xứ này không hề có tối tăm, mặt trời chiếu sáng ngày đêm; không có bão tố, không khí luôn êm đềm, trong lành. Ở đây hoa nở quanh năm khắp mặt đất, trong mùa xuân vĩnh cửu; họ liên tục nghe tiếng chim hót và tiếng chim cu trong xứ. Giờ đây họ đã trông thấy Thành mà họ đang đi đến; họ gặp gỡ nhiều cư dân của Thành. Phải, trong xứ này, chính Chàng Rể thường đi dạo, vì xứ ấy ở ngay cửa thiên đàng. Trong xứ này, giao ước giữa Chàng Rể và Cô Dâu cũng được lập lại: như chàng rể vui mừng vì cô dâu, Đức Chúa Trời họ cũng vui mừng vì họ. Ở đây họ không thiếu bánh hay rượu, mà dư dật mọi sự, vì đang ở trong xứ đượm sữa và mật. Trong lúc ấy, họ nghe những tiếng từ trong Thành, những tiếng lớn phán: "Hãy nói với con gái Si-ôn: Kìa, sự cứu rỗi ngươi đến!" Và mọi cư dân trong xứ gọi họ là dân thánh, là những kẻ được Đức Giê-hô-va chuộc.
 
@@ -648,7 +644,7 @@ Hai người ấy hỏi các lữ khách: từ đâu đến? đã trọ ở đâ
 
 Cơ Đốc Nhân và bạn đồng hành bèn mời hai người cùng đi với họ. Họ nói: "Chúng tôi sẽ đi; nhưng các ông phải vào bằng đức tin của chính mình." Thế là tôi thấy trong giấc chiêm bao rằng họ cùng đi với nhau, cho đến khi đến gần Cổng.
 
-## XIV. Sông Sự Chết Và Thành Thiên Đàng
+XIV. SÔNG SỰ CHẾT VÀ THÀNH THIÊN ĐÀNG
 
 Bấy giờ tôi thấy có một dòng sông sâu ngăn cách họ với Cổng, mà không có cầu bắc qua. Thấy vậy, các lữ khách dừng lại; nhưng hai người sáng láng nói: "Các ông phải đi qua, nếu không không thể đến Cổng." Họ hỏi có còn đường nào khác đến Cổng không. Hai người đáp: "Có; nhưng từ khi sáng thế đến nay, chỉ có hai người là Hê-nóc và Ê-li đã đi đường ấy." Rồi họ hỏi nước sông có sâu đều khắp không. Hai người đáp: "Không; nhưng chúng tôi không giúp các ông trong việc này được; vì các ông sẽ thấy nước hoặc nông hoặc sâu, tùy theo đức tin các ông."
 
@@ -677,9 +673,5 @@ Bấy giờ họ được biến hóa; họ cũng được trao những cây đ�
 Bấy giờ tôi thấy Vô Tri cũng đến gần Cổng, qua sông cách ít khó khăn; vì tình cờ có một chiếc đò của Phù Hoa ở đó, chở ông ta qua. Ông ta lên đồi, đến Cổng, lập tức gõ cửa. Những người bên trong hỏi ông: "Ông từ đâu đến? Ông muốn gì?" Ông đáp: "Tôi đã ăn uống trước mặt Vua, Ngài đã dạy dỗ trong các đường phố chúng tôi." Họ lại hỏi ông có giấy chứng nhận không. Nhưng ông chẳng đáp một lời. Thế là họ tâu với Vua; Vua truyền lệnh, họ trói ông tay chân, đem ông đi, quăng ông qua cánh cửa ở sườn đồi, xuống địa ngục. Bấy giờ tôi thấy có một con đường xuống địa ngục, ngay từ cửa thiên đàng.
 
 Bấy giờ tôi tỉnh giấc, và kìa, đó chỉ là một giấc chiêm bao.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Tên riêng được Việt hóa theo phong cách truyện ngụ ngôn: Christian=Cơ Đốc Nhân, Faithful=Trung Tín, Hopeful=Hy Vọng, Talkative=Ba Hoa, Ignorance=Vô Tri, Apollyon=A-pô-ly-ôn, Evangelist=Người Truyền Tin (theo file 001), Interpreter=Người Giải Nghĩa, Giant Despair=Khổng Lồ Tuyệt Vọng, Doubting Castle=Lâu Đài Nghi Ngờ, Vanity Fair=Hội Chợ Phù Hoa, Delectable Mountains=Núi Vui Thích, Beulah=Xứ Bê-u-la, Celestial City=Thành Thiên Đàng, Enchanted Ground=Đất Mê Hoặc, Flatterer=Kẻ Nịnh Hót, Great-Grace=Ân-Điển-Lớn, Demas=Đê-ma, Little-Faith=Đức-Tin-Nhỏ, Vain-confidence=Tự Tin Hão, Shame=Xấu Hổ, Lord Hategood=Chúa Ghét-Điều-Lành, Envy=Ghen Tỵ, Superstition=Mê Tín, Pickthank=Nịnh Hót. - "Lord of the Hill" → "Chúa của đồi"; "Immanuel's Land" → "Đất của Em-ma-nu-ên". - Câu Kinh Thánh dịch theo phong cách Kinh Thánh tiếng Việt 1934 (vd: "Dầu khi tôi đi trong trũng bóng chết, tôi sẽ chẳng sợ tai họa nào" — Thi Thiên 23:4; "Kẻ nào Ta yêu, Ta quở trách và sửa phạt" — Khải Huyền 3:19). - [NEEDS REVIEW: bản OCR gốc bị thiếu trang tựa và phần mở đầu (văn bản bắt đầu từ đoạn Cơ Đốc Nhân ở nhà Người Giải Nghĩa); một số đoạn OCR hỏng nặng (đối thoại Ba Hoa dòng ~1400–1500, đoạn Xứ Bê-u-la dòng ~3758–3812) đã được phục dựng theo văn bản gốc của Bunyan.]
 
 Mở trong trình đọc Về thư viện

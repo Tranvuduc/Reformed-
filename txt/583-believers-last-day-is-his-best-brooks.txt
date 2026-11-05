@@ -258,6 +258,4 @@ Bạn đọc Cơ Đốc thân mến, xin vui lòng bỏ qua, hay lấy bút sử
 
 HẾT.
 
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - Trích dẫn Kinh Thánh theo phong cách 1934, chưa đối chiếu từng chữ với bản 1934 in. - Một số đoạn OCR từ bản in 1660 bị hỏng nặng (chữ biên La-tinh/Hy-lạp/Hê-bơ-rơ, tên riêng) — đã đánh dấu [NEEDS REVIEW], không đoán. - "Ordinances" dịch là "nghi thức thánh" theo quy định; bare "Christ" → "Đấng Christ", bare "Jesus" → "Chúa Giê-xu" (nguồn không dùng "Jesus Christ" lần nào). - Đã loại bỏ quảng cáo mục lục sách của nhà in sau FINIS (không thuộc tác phẩm). - Mối nối giữa hai chunk tại "Del-phos" đã được hàn liền mạch. - Bản dịch AI, chưa được mục sư duyệt.
-
 Mở trong trình đọc Về thư viện

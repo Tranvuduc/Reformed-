@@ -6,15 +6,9 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Bài Giảng Đám Tang Mục Sư Richard Stretton
-
-**Nguyên tác:** "A sermon preach'd at Haberdashers Hall, July the 13th, 1712. On occasion of the death of the Reverend Mr. Richard Strett" — Matthew Henry (1712) **Nguồn:** https://archive.org/download/bim_eighteenth-century_a-sermon-preachd-at-hab_henry-matthew_1712/bim_eighteenth-century_a-sermon-preachd-at-hab_henry-matthew_1712_djvu.txt *(Ghi chú: danh sách nguồn ghi tên người quá cố là "Richard Strett", nhưng toàn bộ ấn bản gốc đều ghi "Richard Stretton" — bản dịch dùng tên trong ấn bản. Tác phẩm gồm bài giảng và, kèm theo, "A Short Account of his LIFE" (Một tiểu sử vắn tắt về cuộc đời ông) — cả hai đều được dịch đầy đủ. Phần quảng cáo sách của nhà xuất bản ở cuối ấn bản không thuộc tác phẩm nên không dịch. Bản OCR của archive.org dùng chữ ſ (s dài) và nhiều chỗ biến dạng; những chỗ đã phục hồi hoặc không chắc chắn đều được đánh dấu.)*
-
----
+Nguyên tác: "A sermon preach'd at Haberdashers Hall, July the 13th, 1712. On occasion of the death of the Reverend Mr. Richard Strett" — Matthew Henry (1712) Nguồn: https://archive.org/download/bim_eighteenth-century_a-sermon-preachd-at-hab_henry-matthew_1712/bim_eighteenth-century_a-sermon-preachd-at-hab_henry-matthew_1712_djvu.txt (Ghi chú: danh sách nguồn ghi tên người quá cố là "Richard Strett", nhưng toàn bộ ấn bản gốc đều ghi "Richard Stretton" — bản dịch dùng tên trong ấn bản. Tác phẩm gồm bài giảng và, kèm theo, "A Short Account of his LIFE" (Một tiểu sử vắn tắt về cuộc đời ông) — cả hai đều được dịch đầy đủ. Phần quảng cáo sách của nhà xuất bản ở cuối ấn bản không thuộc tác phẩm nên không dịch. Bản OCR của archive.org dùng chữ ſ (s dài) và nhiều chỗ biến dạng; những chỗ đã phục hồi hoặc không chắc chắn đều được đánh dấu.)
 
 MỘT BÀI GIẢNG được giảng tại Haberdashers' Hall, ngày 13 tháng 7 năm 1712, nhân dịp qua đời của Mục sư Richard Stretton đáng kính, nguyên là Mục sư của Phúc Âm, qua đời ngày 3 tháng 7, hưởng thọ khoảng 80 tuổi. Bởi MATTHEW HENRY, Mục sư của Phúc Âm. Kèm theo, Một Tiểu Sử Vắn Tắt về CUỘC ĐỜI ông. LONDON: In cho J. Lawrence, tại Angel trong Poultry; R. Robinson, tại Golden Lion trong sân Nhà thờ St. Paul; N. Cliff, và D. Jackson. 1712.
-
----
 
 [NEEDS REVIEW: phần mở đầu bài giảng trong bản OCR bị biến dạng nặng, nhiều câu rời rạc; dưới đây là bản dịch phục hồi theo ý nghĩa có thể đọc được — "Tôi thú nhận rằng trong dịp này mà nhắc đến những sự quan phòng tương tự khác thì thật là không phải lúc... dầu chúng ta sẽ nghe hay không nghe, dầu chúng ta sẽ nín hay không nín, mà khóc... chẳng phải vì những kẻ đã đi đến Vùng Phước Hạnh và Vui Mừng Trên Cao — chúng ta chẳng khóc vì họ — mà vì chính chúng ta và vì con cái chúng ta, là những kẻ còn ở lại trong những vùng thấp của Tội Lỗi và Khốn Khổ" (Lu-ca 23:28).]
 
@@ -144,9 +138,7 @@ Chắc chắn, tổ phụ chúng ta, những người tốt nhất và lớn nh�
 
 Đó là một lời cầu nguyện mà (như tôi được cho biết) ông Stretton thường dâng lên Đức Chúa Trời trong những buổi cầu nguyện với gia đình mình: "Lạy Chúa, xin cho chúng con được hữu ích khi chúng con còn ở đây, và xin cho chúng con chẳng bị thiếu vắng khi chúng con đi rồi." Đức Chúa Trời đã khiến ông hữu ích khi ông còn ở đây, hữu ích nhiều cách, hữu ích đến phút cuối; và giữ ông lâu dài trong sự hữu ích mình: một chỗ sứt mẻ lớn đã thành trong hàng rào chúng ta bởi sự chết ông; nhưng chúng ta có thể hy vọng rằng biết bao người khác sẽ được giục lòng làm cùng một công việc, với cùng một sự quan tâm tha thiết, đến nỗi chẳng bao lâu chúng ta có thể nói rằng, để đáp lời phần kia của lời cầu nguyện ông, ông [chẳng] bị thiếu vắng? Nếu Đức Chúa Trời còn lòng thương xót dành cho thành phố quý vị, cho xứ sở của chúng ta, Ngài sẽ dấy lên những người tin kính nghiêm túc, và có lòng từ thiện phổ quát, là những người sẽ dấn thân làm điều lành trong thế gian: tôi tin Ngài đã dấy lên một số người như thế; và rằng lời chú giải huyền bí mà một thầy ra-bi đặt vào những lời này, 1 Sa-mu-ên 3:3, 4: "Đèn của Đức Chúa Trời chưa tắt, Đức Giê-hô-va gọi Sa-mu-ên", được ứng nghiệm: nghĩa là, ông nói, trước khi Đức Chúa Trời khiến đèn của một đấng tiên tri này tắt, Ngài thắp một đèn khác. Nguyện Đức Chúa Trời cho ngày nay trong xứ chúng ta được như vậy, và đó sẽ là một dấu hiệu tốt cho chúng ta, rằng Đức Chúa Trời sẽ chẳng lìa khỏi chúng ta. Phải, nếu điều này đúng, như chắc chắn là đúng, rằng đang khi đất còn, Đấng Christ sẽ có một Hội Thánh trong đó, chúng ta có thể chắc rằng khi một thế hệ như thế qua đi, một thế hệ khác, nơi này hay nơi khác, sẽ đến, để lo cho quyền lợi của đạo thanh sạch chẳng vết, hầu cho danh Đấng Christ còn đến đời đời, và ngai Ngài như các ngày của trời (Thi Thiên 89:29).
 
----
-
-### MỘT TIỂU SỬ VẮN TẮT VỀ CUỘC ĐỜI CỦA ÔNG RICHARD STRETTON.
+MỘT TIỂU SỬ VẮN TẮT VỀ CUỘC ĐỜI CỦA ÔNG RICHARD STRETTON.
 
 Ông là con trai của ông William Stretton tại Great Claybrook, gần Lutterworth trong Leicestershire, nơi ông sinh ra; nhưng dòng dõi từ họ Stretton tại Stretton trong quận ấy.
 
@@ -195,9 +187,5 @@ Khoảng năm 1707 [NEEDS REVIEW: bản OCR ghi "1907", rõ ràng là lỗi nh�
 Trong cơn bệnh cuối cùng, ông đã bày tỏ một sự phó thác vui vẻ cho ý muốn Đức Chúa Trời, một sự nương cậy trọn vẹn vào ân điển của Đấng Christ, và một sự trông đợi tin chắc, yên ủi về vinh hiển sẽ được tỏ ra. Một số lời nói của ông trong lúc yếu đuối đã được nhắc đến trong bài giảng trên, chẳng cần nhắc lại.
 
 Ông đã xong cuộc chạy mình, và ngủ trong Chúa, vào thứ năm, ngày 3 tháng 7 năm 1712, và được chôn cất vào thứ hai tuần sau, tại nghĩa trang Bunhill Fields. Ở đó kẻ mệt nhọc được yên nghỉ (Gióp 3:17).
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: "earnest care" (σπουδή/spoudē) → "sự quan tâm tha thiết" (nhất quán toàn bài); "Thanks be to God" → "Cảm tạ Đức Chúa Trời"; "bounty/liberality" → "lòng rộng rãi/hào phóng"; "alms/charity" → "việc bố thí/việc từ thiện" tùy ngữ cảnh; "evangelist" → "nhà truyền giảng"; "Dissenters" → "người Bất Đồng (với Hội Thánh quốc giáo Anh)"; "Nonconformist" → "người Không Thuận Phục"; "Five Mile Act" → "Đạo Luật Năm Dặm"; "Oxford Oath" → "Lời Thề Oxford"; "catholic charity" → "lòng từ thiện phổ quát"; "stewards" → "quản gia"; "Haberdashers' Hall" giữ nguyên danh riêng. Các NEEDS REVIEW trong bài đánh dấu những chỗ bản OCR archive.org biến dạng nặng không phục hồi chắc chắn được (tên riêng bị mất, số năm, vài câu rời rạc), đã dịch theo ý nghĩa tốt nhất có thể đọc được.
 
 Mở trong trình đọc Về thư viện

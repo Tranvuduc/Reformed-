@@ -8,17 +8,15 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 MỤC ĐÍCH, BẢN CHẤT VÀ TIÊU CHUẨN CỦA THẨM QUYỀN HỘI THÁNH
 
-**Nguyên tác:** "On the Objects, Nature, and Standard of Ecclesiastical Authority" — William Cunningham (1840) **Nguồn:** https://archive.org/download/objectsnaturesta00cunn/objectsnaturesta00cunn_djvu.txt *(Bài giảng số 2 trong loạt bài về Chống Sự Áp Đặt (Non-Intrusion), giảng tại Edinburgh ngày 28 tháng 11 năm 1839, theo yêu cầu của Hiệp Hội Thợ Thủ Công vì Lợi Ích của Hội Thánh Scotland.)*
+Nguyên tác: "On the Objects, Nature, and Standard of Ecclesiastical Authority" — William Cunningham (1840) Nguồn: https://archive.org/download/objectsnaturesta00cunn/objectsnaturesta00cunn_djvu.txt (Bài giảng số 2 trong loạt bài về Chống Sự Áp Đặt (Non-Intrusion), giảng tại Edinburgh ngày 28 tháng 11 năm 1839, theo yêu cầu của Hiệp Hội Thợ Thủ Công vì Lợi Ích của Hội Thánh Scotland.)
 
----
-
-## BÀI GIẢNG II.
+BÀI GIẢNG II.
 
 MỤC ĐÍCH, BẢN CHẤT VÀ TIÊU CHUẨN CỦA THẨM QUYỀN HỘI THÁNH.
 
-*Bài giảng của Mục sư William Cunningham, Quản nhiệm Hội Thánh Trinity College, Edinburgh.*
+Bài giảng của Mục sư William Cunningham, Quản nhiệm Hội Thánh Trinity College, Edinburgh.
 
-*Giảng ngày 28 tháng 11 năm 1839.*
+Giảng ngày 28 tháng 11 năm 1839.
 
 2 Cô-rinh-tô 4:5 — "Vì chúng ta chẳng giảng chính mình chúng ta, nhưng giảng Đức Chúa Giê-xu Christ là Chúa, và chính chúng ta là đầy tớ của anh em vì cớ Đức Chúa Giê-xu," — nghĩa là, chúng ta không giảng chính mình như những chủ, nhưng chúng ta giảng Đấng Christ Giê-xu là Chúa, và chúng ta giảng chính mình là đầy tớ của anh em vì cớ Đức Chúa Giê-xu.
 
@@ -139,9 +137,5 @@ loại trừ mọi sự can thiệp dân sự vào các quyết định của h�
 Nếu các nguyên tắc này, mà chúng ta đã cố gắng thiết lập, có nền tảng vững chắc, thì hẳn rõ ràng rằng chúng vừa tạo ngay một sự minh oan đầy đủ cho mọi hành động gần đây và các yêu sách hiện tại của Hội Thánh Scotland, vừa vạch ra rõ ràng đường lối mà nàng bị ràng buộc một cách trang trọng phải theo. Và, do đó, chúng ta hoàn toàn có quyền mong đợi và đòi hỏi rằng các đối thủ của Hội Thánh hoặc đối mặt với chúng một cách công bằng, và bác bỏ chúng trên nền tảng Kinh Thánh, hoặc thừa nhận rằng Hội Thánh không thể chấp nhận một đường lối khác về thực chất với đường lối nàng đã theo đuổi, mà không thực tế tuyên bố rằng nàng không muốn Đấng Christ cai trị trên nàng, không bán quyền trưởng nam của mình lấy một bát canh đậu, và chìm vào tình trạng tội lỗi hạ nhục là trở thành một công cụ hay nô lệ đơn thuần của quyền lực dân sự.
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "potestas ordinis" / "potestas jurisdictionis" / "potestas dogmatica" / "potestas diatactica" / "potestas diacritica": giữ nguyên tiếng La-tinh như bản gốc (thuật ngữ thần học kinh viện). - "Non-Intrusion" (chống sự áp đặt mục sư): dịch là "Chống Sự Áp Đặt" theo ngữ cảnh tranh cãi Auchterarder 1839. - "kirk", "kirk-session": dịch là "hội thánh (kirk)" / "phiên họp nhà thờ" theo thông lệ Scotland. - "Erastian": giữ nguyên danh xưng phái Erastus. - "jure divino": giữ nguyên tiếng La-tinh (theo luật thiên khải). - Cuối bài giảng bản OCR bị đứt một câu ("Let her be co..."); đã đánh dấu [NEEDS REVIEW] và dịch theo mạch văn. - "Thánh lễ" dùng cho "sacraments" (báp-têm và Tiệc Thánh) theo quy ước dự án.
 
 Mở trong trình đọc Về thư viện

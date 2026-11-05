@@ -6,21 +6,13 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Hai Mươi Sáu Bức Thư Về Các Chủ Đề Tôn Giáo
-
-**Nguyên tác:** "Twenty six letters on religious subjects: ... By Omicron" — John Newton (1775) **Nguồn:** https://archive.org/download/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1775/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1775_djvu.txt *(Ghi chú nguồn thay thế: OCR của bản scan archive.org (ấn bản London 1775) bị hỏng nặng — mất chữ, lẫn trang, nhiều đoạn không đọc được. Bản dịch dùng bản text sạch của cùng 26 bức thư trong tuyển tập "The Letters of John Newton" (Monergism Books, https://www.monergism.com/thethreshold/sdg/newton/The%20Letters%20of%20John%20Newton.pdf) — cùng tác phẩm, cùng thứ tự 26 thư theo mục lục ấn bản 1775 (đã đối chiếu). "Omicron" là bút danh của John Newton.)*
-
----
-
-## MỤC LỤC
+Nguyên tác: "Twenty six letters on religious subjects: ... By Omicron" — John Newton (1775) Nguồn: https://archive.org/download/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1775/bim_eighteenth-century_twenty-six-letters-on-re_newton-john_1775_djvu.txt (Ghi chú nguồn thay thế: OCR của bản scan archive.org (ấn bản London 1775) bị hỏng nặng — mất chữ, lẫn trang, nhiều đoạn không đọc được. Bản dịch dùng bản text sạch của cùng 26 bức thư trong tuyển tập "The Letters of John Newton" (Monergism Books, https://www.monergism.com/thethreshold/sdg/newton/The%20Letters%20of%20John%20Newton.pdf) — cùng tác phẩm, cùng thứ tự 26 thư theo mục lục ấn bản 1775 (đã đối chiếu). "Omicron" là bút danh của John Newton.)
 
 1. Về Sự Tin Cậy Đức Chúa Trời 2. Gửi Một Sinh Viên 3. Gửi Một Người Bạn (về 2 Cô-rinh-tô 5:10) 4. Về Sự Thờ Phượng Trong Gia Đình 5. Về Những Khó Khăn Trong Chức Vụ 6. Về Ảnh Hưởng Của Đức Tin 7. Về Lời Kêu Gọi Người Chưa Tin 8. Về Chứng Cớ Nội Tâm 9. Về Sự Tuyển Chọn 10. Về Ân Điển: Giai Đoạn Mầm Non 11. Về Ân Điển: Giai Đoạn Đòng Đòng 12. Về Ân Điển: Giai Đoạn Lúa Chín 13. Về Việc Nghe Giảng 14. Về Sự Cám Dỗ 15. Kế Hoạch Cho Một Thư Viện Cơ Đốc 16. Về Sự Bất Lực Của Tri Thức 17. Về Những Trạng Thái Tâm Linh Của Tín Hữu 18. Về Sự Cầu Nguyện Chung 19. Về Sự Tranh Luận 20. Về Sự Đồng Hóa Với Thế Gian 21. Về Sự Mù Lòa Thuộc Linh 22. Về Cảnh Nghèo Khó 23. Về Sự Đơn Sơ và Thành Thật 24. Về Sự Tương Giao Với Đức Chúa Trời 25. Về Đức Tin và Sự Tương Giao Của Các Thánh Đồ 26. Về Sự Soi Sáng Của Phúc Âm
 
----
+THƯ I.
 
-## THƯ I.
-
-**Về Sự Tin Cậy Đức Chúa Trời**
+Về Sự Tin Cậy Đức Chúa Trời
 
 Bạn thân mến,
 
@@ -44,11 +36,9 @@ Nay, lúc bạn mới bắt đầu, chính là thời điểm thích hợp để
 
 Tôi đã cho bạn ý kiến của tôi một cách thẳng thắn, có lẽ với vẻ nghiêm khắc hơn mức cần thiết. Nhưng tôi muốn áp dụng lời của Chúa chúng ta trong một trường hợp khác vào đây: "Chẳng phải mọi người đều có thể nhận lời này; ai có thể nhận được thì hãy nhận." Nếu Chúa đã ban cho bạn sự vững tin này nơi lời Ngài, bạn thật có phước. Điều ấy quý hơn việc sở hữu hàng ngàn mỗi năm.
 
----
+THƯ II.
 
-## THƯ II.
-
-**Gửi Một Sinh Viên**
+Gửi Một Sinh Viên
 
 Thưa ông,
 
@@ -86,13 +76,11 @@ Tôi sẽ rất vui nếu điều gì tôi đã trình bày có thể khiến ô
 
 Còn một điều nữa tôi phải nhắc, thuộc về chủ đề này: sự tự do thoải mái trong việc phục vụ công khai phụ thuộc nhiều vào tính thuộc linh trong nếp sống của chúng ta trước mặt Đức Chúa Trời và con người. Sự khôn ngoan sẽ không ở với một tinh thần cợt nhả, tự cao, hay xét đoán, hay thế gian. Nhưng nếu công việc và niềm vui của chúng ta là chiêm ngưỡng Chúa Giê-xu và bước đi theo dấu chân Ngài, Ngài sẽ ban phước cho chúng ta: chúng ta sẽ như cây trồng gần dòng nước thường chảy, và Ngài sẽ làm thịnh vượng công việc tay chúng ta.
 
----
+THƯ III.
 
-## THƯ III.
+Gửi Một Người Bạn (về 2 Cô-rinh-tô 5:10)
 
-**Gửi Một Người Bạn (về 2 Cô-rinh-tô 5:10)**
-
-*Liệu tội lỗi của các tín hữu có bị công bố công khai trong ngày lớn không? — Thư gửi một người bạn, về câu hỏi: liệu tội lỗi của tín hữu có bị tuyên bố công khai trong ngày lớn chăng? Hay, chúng ta phải hiểu thế nào về lời khẳng định của sứ đồ: "Vì chúng ta hết thảy phải ứng hầu trước tòa án Đấng Christ, hầu cho mỗi người nhận lãnh tùy theo điều thiện hay điều ác mình đã làm lúc còn trong xác thịt"? (2 Cô-rinh-tô 5:10; xem Rô-ma 14:12).*
+Liệu tội lỗi của các tín hữu có bị công bố công khai trong ngày lớn không? — Thư gửi một người bạn, về câu hỏi: liệu tội lỗi của tín hữu có bị tuyên bố công khai trong ngày lớn chăng? Hay, chúng ta phải hiểu thế nào về lời khẳng định của sứ đồ: "Vì chúng ta hết thảy phải ứng hầu trước tòa án Đấng Christ, hầu cho mỗi người nhận lãnh tùy theo điều thiện hay điều ác mình đã làm lúc còn trong xác thịt"? (2 Cô-rinh-tô 5:10; xem Rô-ma 14:12).
 
 Thưa ông thân mến,
 
@@ -110,11 +98,9 @@ Về việc tội lỗi chúng ta bị phơi bày cho người khác biết, tô
 
 Tóm lại, thưa ông thân mến, nếu tôi chưa làm ông thỏa lòng (tôi chắc mình cũng chưa thỏa lòng), xin ông nhận lời xin lỗi của tôi bằng lời của một người khôn ngoan hơn nhiều, một người được linh cảm: "Sự tri thức ấy quá diệu kỳ cho tôi, cao quá, tôi không đạt đến được." Chẳng bao lâu chúng ta sẽ biết: trong lúc này, vụ việc của chúng ta ở trong tay chắc chắn; chúng ta có một Người Chăn sẽ hướng dẫn chúng ta ở dưới này, một Đấng Biện Hộ sẽ tiếp nhận và trình diện chúng ta trước Ngai ở trên kia. Tôi tin chúng ta gặp nhau hằng ngày trước Ngai Ân Điển: về sau chúng ta sẽ gặp nhau trong vinh hiển.
 
----
+THƯ IV.
 
-## THƯ IV.
-
-**Về Sự Thờ Phượng Trong Gia Đình**
+Về Sự Thờ Phượng Trong Gia Đình
 
 Thưa ông,
 
@@ -146,11 +132,9 @@ Hạnh phúc thay gia đình nào duy trì sự thờ phượng Đức Chúa Tr�
 
 Tôi đã viết hơi quá giới hạn mình định; vì vậy tôi chỉ xin thêm một điều: trong những lời trình bày trước Ngai Ân Điển, xin bạn nhớ đến tôi.
 
----
+THƯ V.
 
-## THƯ V.
-
-**Về Những Khó Khăn Trong Chức Vụ**
+Về Những Khó Khăn Trong Chức Vụ
 
 Thưa ông,
 
@@ -184,11 +168,9 @@ Nếu đôi khi ông được ban cho nói với dân sự đầy quyền năng,
 
 Tôi mới chỉ bắt đầu nói về chủ đề những khó khăn, hiểm nguy đi kèm chức vụ. Nhưng giấy tôi đã đầy. Nếu ông muốn tôi tiếp tục, xin cho tôi biết, và tôi tin mình có thể dễ dàng tìm đủ để viết đầy một tờ nữa. Nguyện Chúa khiến ông khôn ngoan và tỉnh thức! Nguyện Ngài là ánh sáng cho mắt ông, sức mạnh cho cánh tay ông, và niềm vui cho lòng ông, đó là lời cầu nguyện chân thành của tôi.
 
----
+THƯ VI.
 
-## THƯ VI.
-
-**Về Ảnh Hưởng Của Đức Tin**
+Về Ảnh Hưởng Của Đức Tin
 
 Thưa ông,
 
@@ -216,11 +198,9 @@ Cuối cùng, đức tin hằng ngày có ích như một sự bảo vệ khỏi
 
 Tôi không nhằm vẽ một nhân cách hoàn hảo, mà để chỉ ra những hiệu quả đúng đắn của đức tin xưng công chính ấy — đức tin thanh tẩy tấm lòng, hành động bởi tình yêu thương, và thắng hơn thế gian. Một sự cố gắng thường xuyên để có được một tâm thế như vậy, và nhờ đó làm sáng danh Phúc Âm của Đấng Christ, với thành công ngày càng tăng, là điều tôi tin ông không xa lạ; và tôi e rằng những ai có thể bằng lòng nhắm đến điều gì kém hơn thế trong sự xưng nhận của mình, thì còn quá xa lạ với chính mình, và với bản chất của sự tự do mà Chúa Giê-xu đã hứa sẽ khiến dân sự Ngài được tự do. Nguyện ông cứ tiến từ sức mạnh này đến sức mạnh khác, tăng trưởng trong ánh sáng và hình ảnh của Chúa và Cứu Chúa chúng ta, đó là lời cầu nguyện chân thành của tôi.
 
----
+THƯ VII.
 
-## THƯ VII.
-
-**Về Lời Kêu Gọi Người Chưa Tin**
+Về Lời Kêu Gọi Người Chưa Tin
 
 Thưa ông,
 
@@ -252,11 +232,9 @@ Chắc chắn chúng ta nên cố gắng giữ sự nhất quán trong giảng d
 
 Nếu, khi ông ở trên bục giảng, Chúa ban cho ông một ý thức sống động về sự vĩ đại của trách nhiệm, và giá trị của các linh hồn được giao phó cho ông, và đổ đầy lòng ông tình yêu thúc bách của Ngài, nhiều phân biệt tỉ mỉ vụn vặt, vốn làm ông thích thú vào những lúc khác, sẽ bị quên đi. Linh hồn ông sẽ tuôn ra cùng lời ông; và trong khi tình cảm ông quặn thắt vì những tội nhân khốn khổ, ông sẽ không ngần ngại một khắc liệu mình có nên cảnh báo họ về hiểm nguy hay không. Vị vô địch vĩ đại của ân điển nhưng không, Tiến sĩ Owen, có một lời kêu gọi trang trọng gửi đến tội nhân; tựa đề chạy xuyên suốt là "Những Lời Khuyên Hãy Tin." Nó ở trong cuốn "Giải Nghĩa Thi Thiên 130" của ông, từ trang 242 đến trang 247, mà tôi giới thiệu cho ông suy xét kỹ lưỡng.
 
----
+THƯ VIII.
 
-## THƯ VIII.
-
-**Về Chứng Cớ Nội Tâm**
+Về Chứng Cớ Nội Tâm
 
 Thưa ông,
 
@@ -288,11 +266,9 @@ Cuối cùng: điều này cho thấy hy vọng của tín hữu được xây t
 
 Tôi chỉ gửi ông vài gợi ý vội vàng: mở rộng thì dễ; nhưng tôi ngồi xuống, không phải để viết một cuốn sách, mà một bức thư. Nguyện chứng nội tâm này cai trị đầy quyền năng trong lòng chúng ta, để làm sống động hy vọng chúng ta, và làm chết những sự bại hoại của chúng ta!
 
----
+THƯ IX.
 
-## THƯ IX.
-
-**Về Sự Tuyển Chọn**
+Về Sự Tuyển Chọn
 
 Thưa ông,
 
@@ -328,11 +304,9 @@ Vì các giáo lý về sự tuyển chọn và bền đỗ đem lại an ủi, 
 
 Ông có thể nghĩ, thưa ông thân mến, rằng một người sống dưới ảnh hưởng của những quan điểm này, sẽ muốn cứ ở trong tội lỗi vì ân điển dư dật sao? Không! ông là người quan sát con người, phong tục quá thẳng thắn, để tin những lời vu khống được tung ra chống lại chúng tôi. Đúng là giữa chúng tôi có quá nhiều người xưng nhận giả dối, rỗng tuếch; nhưng giữa những người giữ quan điểm ngược lại thì không có sao? Và tôi xin nhận xét rằng phản đối rút ra từ những thất bại của những người được cho là theo Calvin hoàn toàn lạc đề. Chúng tôi khẳng định rằng không giáo lý hay phương tiện nào có thể thay đổi tấm lòng, hay tạo ra một cuộc trò chuyện đầy ân điển, nếu không có quyền năng hiệu quả của ân điển Toàn Năng: vì vậy, nếu trên thực tế thấy đúng như vậy, không nên quy cho giáo lý của chúng tôi, mà nên nhìn nhận như một bằng chứng, xác nhận cho nó. Chúng tôi thú nhận rằng mình còn thiếu sót buồn bã trong mọi sự, và có lý do xấu hổ, kinh ngạc rằng mình bị những nguyên tắc sinh động như vậy tác động quá yếu ớt; nhưng, nhìn chung, lương tâm chúng tôi làm chứng cho chúng tôi, và chúng tôi hy vọng mình có thể tuyên bố cả với Hội Thánh lẫn thế gian mà không sợ bị bác bỏ một cách chính đáng, rằng các giáo lý ân điển là các giáo lý theo sự tin kính.
 
----
+THƯ X.
 
-## THƯ X.
-
-**Về Ân Điển: Giai Đoạn Mầm Non**
+Về Ân Điển: Giai Đoạn Mầm Non
 
 *"Trước hết là mầm non, rồi đến đòng đòng, rồi đến lúa chín đầy bông." — Mác 4:28*
 
@@ -360,11 +334,9 @@ Thật vậy, bất chấp sự yếu đuối của đức tin người ấy, v�
 
 Một cây có giá trị nhất khi trĩu quả chín, nhưng nó có một vẻ đẹp đặc biệt khi đang trổ hoa. Đối với 'A' đang là mùa xuân. Người ấy đang nở hoa, và, nhờ ân điển, phước hạnh của Người Nông Phu thiên thượng, sẽ sinh bông trái trong tuổi già. Đức tin người ấy yếu ớt, nhưng lòng người ấy nồng nhiệt. Người ấy hiếm khi dám nghĩ mình là tín hữu; nhưng người ấy thấy, cảm nhận, và làm những điều mà không ai có thể làm, trừ khi Chúa ở cùng người ấy. Chính ước ao và khuynh hướng của linh hồn người ấy là hướng về Đức Chúa Trời, và về lời ân điển Ngài. Tri thức người ấy còn nhỏ, nhưng mỗi ngày một tăng trưởng. Nếu người ấy chưa phải là cha hay thanh niên trong ân điển, người ấy là một đứa con yêu dấu. Chúa đã thăm viếng lòng người ấy, giải thoát người ấy khỏi tình yêu tội lỗi, và đặt những ước ao của người ấy tối thượng nơi Chúa Giê-xu Christ. Tinh thần nô lệ đang dần rời khỏi người ấy, và giờ tự do mà người ấy khao khát đang đến gần, khi, qua một sự khám phá đầy đủ hơn về Phúc Âm vinh hiển, người ấy sẽ được ban cho biết sự được chấp nhận của mình, và nghỉ ngơi trên sự cứu rỗi đã hoàn tất của Chúa. Khi ấy chúng ta sẽ nhận ra người ấy với tên 'B', trong một bức thư thứ hai, nếu ông không ngại tôi tiếp tục chủ đề.
 
----
+THƯ XI.
 
-## THƯ XI.
-
-**Về Ân Điển: Giai Đoạn Đòng Đòng**
+Về Ân Điển: Giai Đoạn Đòng Đòng
 
 *"Trước hết là mầm non, rồi đến đòng đòng, rồi đến lúa chín đầy bông." — Mác 4:28*
 
@@ -388,11 +360,9 @@ Tôi cho rằng, trong tình trạng 'B', tức là, trong một thời gian sau
 
 Tóm lại, theo phán đoán của tôi, nhân cách của B đã hoàn chỉnh; và người ấy trở thành 'C', khi tình trạng thường xuyên của lòng người ấy đáp ứng đoạn trong nhà tiên tri Ê-xê-chi-ên 16:63; "Hầu cho ngươi nhớ lại, và hổ thẹn, chẳng còn mở miệng nữa (để khoe mình, than phiền hay xét đoán), vì sự xấu hổ ngươi, khi ta đã tha thứ cho ngươi về mọi điều ngươi đã làm, Chúa Giê-hô-va phán vậy."
 
----
+THƯ XII.
 
-## THƯ XII.
-
-**Về Ân Điển: Giai Đoạn Lúa Chín**
+Về Ân Điển: Giai Đoạn Lúa Chín
 
 *"Trước hết là mầm non, rồi đến đòng đòng, rồi đến lúa chín đầy bông." — Mác 4:28*
 
@@ -430,11 +400,9 @@ Nhưng Thầy Tế Lễ Thượng Phẩm vĩ đại, thương xót của chúng 
 
 Nếu sự trình bày này phù hợp với Kinh Thánh, những người xưng nhận Phúc Âm mà dường như không có ý niệm nào về những hiệu quả nó được định để tạo ra trên lòng các tín hữu, thì sai lầm biết bao, và đáng thương biết bao — họ hoặc buông mình trong tinh thần, cuộc trò chuyện thế gian, hoặc nuông chiều những tính khí chưa được thánh hóa của mình, bằng một sự tranh đấu dữ dội vì những tên gọi, quan niệm và đảng phái. Nguyện Chúa ban cho ông và tôi hằng ngày tăng trưởng trong kinh nghiệm về sự khôn ngoan "trước hết là thanh sạch, rồi hòa thuận, tiết độ, dễ vâng lời, đầy dẫy lòng thương xót và bông trái lành, không thiên vị, không giả hình."
 
----
+THƯ XIII.
 
-## THƯ XIII.
-
-**Về Việc Nghe Giảng**
+Về Việc Nghe Giảng
 
 Thưa ông,
 
@@ -468,11 +436,9 @@ Hơn nữa: tôi khuyên ông, khi nghe một bài giảng Phúc Âm, mà nó kh
 
 Cuối cùng: là người nghe, ông có quyền thử mọi giáo lý bằng lời Đức Chúa Trời; và đó là bổn phận của ông. Các mục sư trung tín sẽ nhắc ông điều này: họ sẽ không muốn giữ ông trong sự vâng lời mù quáng, mặc nhiên đối với điều họ nói, dựa trên thẩm quyền riêng họ, cũng không muốn ông theo họ xa hơn điều họ có Kinh Thánh làm bảo chứng. Họ không muốn làm chủ lương tâm ông, mà là người giúp cho niềm vui ông. Hãy quý trọng sự tự do Phúc Âm này, vốn giải phóng ông khỏi những giáo lý, mạng lệnh của loài người; nhưng đừng lạm dụng nó cho những mục đích của kiêu ngạo và bản ngã. Có những người nghe lấy chính mình, chứ không phải Kinh Thánh, làm tiêu chuẩn phán đoán. Họ đến không phải để được dạy dỗ, mà để tuyên án. Đối với họ, bục giảng là vành móng ngựa nơi mục sư đứng để chịu xét xử trước mặt họ; một vành móng ngựa mà ít ai thoát khỏi sự khiển trách, từ những quan tòa vừa nghiêm khắc vừa mâu thuẫn. Vì, những nhà phê bình này không đồng lòng, và có lẽ chẳng đồng ý nhau điều gì bằng ý kiến họ có về sự khôn ngoan của chính mình, nên thường xảy ra rằng, trong cùng một bài giảng, nhà giảng đạo bị kết án vừa là người theo luật pháp vừa là người chống luật pháp; vừa quá cao trong quan niệm, vừa quá thấp; vừa quá ít hành động, vừa quá nhiều. Ôi! tinh thần đáng ghét này, thúc giục người nghe tuyên bố như từ ngai không thể sai lầm, xâm phạm quyền phán đoán riêng, ngay trong những việc không thiết yếu, và khiến một người thành kẻ có tội vì một lời nói. Tinh thần này là một điều ác thường xuyên gây rắc rối, phát sinh từ sự bại hoại của tấm lòng, khi Chúa ban các phương tiện ân điển cách dồi dào. Những người ẩn giấu của Chúa, thiếu các lễ nghi, sẽ quý trọng phước hạnh của một Phúc Âm được rao giảng dường nào, trong khi quá nhiều người xưng nhận dường như đã ngán ngẩm nó! Tôi cầu nguyện Đức Chúa Trời gìn giữ ông khỏi tinh thần như vậy (mà tôi e đang lan rộng, và lây nhiễm chúng ta như dịch bệnh), và hướng dẫn ông trong mọi sự.
 
----
+THƯ XIV.
 
-## THƯ XIV.
-
-**Về Sự Cám Dỗ**
+Về Sự Cám Dỗ
 
 Thưa ông,
 
@@ -514,11 +480,9 @@ Mở rộng về những ích lợi này và những ích lợi khác mà Chúa 
 
 Nếu Sa-tan không thể khiến họ bỏ cầu nguyện, nó sẽ nhiều lần cố làm họ mệt mỏi bằng cách tác động lên tính luật pháp vốn bám chặt vào tấm lòng. Sa-tan là một chủ hà khắc, khi nó xen vào việc thực hiện các bổn phận thuộc linh của chúng ta. Có lẽ nó làm điều này thường xuyên hơn chúng ta nghĩ; vì nó có thể, nếu phục vụ mục đích nó, hiện ra như thiên sứ sáng láng. Khi linh hồn đang trong bão tố, và cố gắng cầu nguyện, nó sẽ gợi ý rằng cầu nguyện trong những dịp này phải kéo dài chừng ấy, và thực hiện với sự vững vàng như vậy, mà trong lúc ấy thấy hoàn toàn không thể. Những cố gắng gượng ép như vậy thật mệt mỏi; và từ cách thực hiện, nó lấy cớ gán thêm tội lỗi cho lương tâm. Những lời cầu xin ngắn, thường xuyên và sốt sắng, vốn gần như tất yếu phát sinh từ điều cảm thấy khi cám dỗ dữ dội, là thích hợp nhất cho trường hợp; và chúng ta không cần thêm gánh nặng, bằng cách bắt mình quá sức, như thể chúng ta trông đợi được nghe vì nói nhiều lời. Ngợi khen Đức Chúa Trời vì chúng ta chiến đấu với một kẻ thù đã bị Chúa chúng ta đánh bại, và chúng ta có một lời hứa chắc chắn về chiến thắng. Chúa là cờ hiệu của chúng ta.
 
----
+THƯ XV.
 
-## THƯ XV.
-
-**Kế Hoạch Cho Một Thư Viện**
+Kế Hoạch Cho Một Thư Viện
 
 *"Viết nhiều sách thì vô cùng, học nhiều nhọc xác thân." — Truyền Đạo 12:12*
 
@@ -566,11 +530,9 @@ Quyển thứ tư là sách TẤM LÒNG, hay Bản Tính Con Người, bao gồm
 
 Giới hạn của tôi chỉ cho phép vài gợi ý về những chủ đề bao la này. Tôi chỉ nhận xét rằng ai đọc kỹ bốn quyển sách này, là người khôn ngoan, dù người ấy biết ít đến đâu về điều người thế gian gọi là khoa học. Ngược lại, dù một người làm chủ toàn bộ vòng tròn tri thức cổ điển, khoa học và triết học, nếu người ấy không có khẩu vị đối với Kinh Thánh, và không có khả năng áp dụng nó vào các công việc sáng tạo, quan phòng, và kinh nghiệm của chính mình — người ấy chưa biết gì như mình phải biết. Tôi đã chỉ ra một kho báu đáng giá hơn mọi quyển sách trong Thư Viện Va-ti-căng.
 
----
+THƯ XVI.
 
-## THƯ XVI.
-
-**Về Sự Bất Lực Của Tri Thức Đơn Thuần**
+Về Sự Bất Lực Của Tri Thức Đơn Thuần
 
 Thưa ông,
 
@@ -610,11 +572,9 @@ Nhưng sức mạnh người ấy không phải của chính mình; người ấ
 
 Từ đây chúng ta có thể nhận xét rằng những tín hữu có nhiều tri thức Kinh Thánh nhất, không vì vậy mà thuộc linh nhất cách tất yếu. Một số có thể và đang bước đi vinh dự, an ủi hơn với hai ta-lâng, so với những người khác với năm ta-lâng. Ai biết cách kinh nghiệm sự yếu đuối của chính mình, và đơn sơ nương cậy nơi Chúa, chắc chắn sẽ thịnh vượng, dù tri thức, khả năng đã có của người ấy còn nhỏ. Trong khi ai có những ân tứ lớn nhất, sự phán đoán rõ ràng nhất, và tri thức bao quát nhất, nếu nuông chiều những ý nghĩ cao về những lợi thế mình, đang ở trong nguy cơ sắp xảy ra của việc sai lầm, và vấp ngã mỗi bước; vì Chúa sẽ không để ai Ngài yêu khoe mình trong chính mình. Ngài sẽ dẫn kẻ hiền lành bằng mắt Ngài, và làm cho kẻ đói được đầy dẫy điều tốt — nhưng kẻ giàu Ngài cho về tay không. Đó là một nguyên tắc bất biến trong vương quốc Ngài, rằng ai tự tôn mình lên sẽ bị hạ xuống; nhưng ai tự hạ mình xuống sẽ được tôn lên.
 
----
+THƯ XVII.
 
-## THƯ XVII.
-
-**Về Những Trạng Thái Của Tín Hữu**
+Về Những Trạng Thái Của Tín Hữu
 
 Thưa ông,
 
@@ -646,11 +606,9 @@ Về câu nói của ông Rutherford mà ông nhắc, rằng "không có cám d�
 
 Đấng biết sự yếu đuối của chúng ta, và quyền năng của kẻ thù chúng ta, đã nhân từ hướng dẫn chúng ta cầu nguyện xin chớ bị dẫn vào cám dỗ. Ông đã xét điều kẻ thù có thể làm, nếu nó được phép đến như cơn lụt chưa? Trong một giờ nó có thể dấy một cơn bão khiến ông phải vận hết trí khôn. Nó có thể mang một đám mây đen đến trên tâm trí ông, che khuất mọi ký ức về những sự an ủi đã qua của ông, hay ít nhất ngăn ông rút ra sự nâng đỡ nhỏ nhất từ chúng. Nó không chỉ có thể đánh vào sự bình an ông, mà còn lay chuyển chính những nền tảng hy vọng ông, và khiến ông nghi vấn, không chỉ phần mình trong những lời hứa, mà còn nghi ngờ những lẽ thật quan trọng, nền tảng nhất mà những hy vọng của ông đã được xây dựng. Vì vậy hãy biết ơn, nếu Chúa kiềm chế nọc độc nó. Một thủy thủ trẻ thường thiếu kiên nhẫn với một lúc lặng gió ngắn; nhưng người thủy thủ dày dạn, đã nhiều lần bị bão tố vùi dập, và suýt chết, sẽ hiếm khi ước có bão. Tóm lại, chúng ta hãy kiên nhẫn chờ đợi Chúa, và bằng lòng theo Ngài dẫn dắt, và Ngài chắc chắn sẽ làm ích cho chúng ta.
 
----
+THƯ XVIII.
 
-## THƯ XVIII.
-
-**Về Sự Cầu Nguyện Chung**
+Về Sự Cầu Nguyện Chung
 
 Thưa ông,
 
@@ -682,13 +640,11 @@ Trái với điều này, và còn xúc phạm hơn, là một thói quen một 
 
 Tôi sẽ vui nếu những gợi ý này có ích cho những ai muốn thờ phượng Đức Chúa Trời trong thần trí, trong lẽ thật, và những ai ước rằng bất cứ điều gì có khuynh hướng làm giảm tinh thần sùng kính, hoặc trong chính họ hoặc trong người khác, đều được tránh. Nói cho ai biết điều chúng ta ước có thể thay đổi trong cách cầu nguyện của người ấy là một điểm tế nhị, khó khăn: nhưng hỏi một người bạn rằng người ấy đã đọc một bức thư về chủ đề này chưa thì không thể gây xúc phạm chính đáng.
 
----
+THƯ XIX.
 
-## THƯ XIX.
+Về Sự Tranh Luận
 
-**Về Sự Tranh Luận**
-
-*Hướng dẫn cho sự tranh biện tin kính*
+Hướng dẫn cho sự tranh biện tin kính
 
 Thưa ông,
 
@@ -734,11 +690,9 @@ Sự khôn ngoan từ trên, không chỉ thanh sạch, mà còn hòa thuận, d
 
 Nhưng tôi hy vọng ông có một mục đích cao quý hơn nhiều; và rằng, ý thức về tầm quan trọng nghiêm trang của những lẽ thật Phúc Âm, và lòng thương xót dành cho linh hồn loài người, ông thà làm một phương tiện loại bỏ những thành kiến trong một trường hợp, hơn là đạt được những lời tán tụng trống rỗng của hàng ngàn người! Vì vậy hãy ra đi, nhân danh, sức mạnh của Chúa Vạn Quân, nói lẽ thật trong tình yêu; và nguyện Ngài ban cho ông một chứng nhân trong nhiều tấm lòng rằng ông được Đức Chúa Trời dạy dỗ, và được ưu đãi với sự xức dầu của Đức Thánh Linh Ngài!
 
----
+THƯ XX.
 
-## THƯ XX.
-
-**Về Sự Đồng Hóa Với Thế Gian**
+Về Sự Đồng Hóa Với Thế Gian
 
 *"Chớ đồng hóa với đời nầy." — Rô-ma 12:2*
 
@@ -770,11 +724,9 @@ Những ước ao hàng đầu của mọi người ở dưới ảnh hưởng c
 
 Họ đã tìm được một cách, như họ tưởng, để phục vụ cả Đức Chúa Trời lẫn Ma-môn. Nhưng vì họ có hai lòng, họ không ổn định; họ không tiến bộ; và, bất chấp việc họ thường xuyên tham dự các lễ nghi, họ gầy gò ngày qua ngày; một hình thức tin kính, một hệ thống những quan niệm chính thống, họ có thể đạt được, nhưng họ sẽ vẫn thiếu sự sống, quyền năng và an ủi của lòng tin kính, bao lâu họ còn bám víu những điều mâu thuẫn với nó. Sự đồng hóa với thế gian cũng là một sự cản trở trên đường những người xưng nhận ước ao tôn vinh Đức Chúa Trời trước mắt loài người. Những người xưng nhận như vậy làm ô danh Ngài. Bởi cách cư xử họ, trong chừng mực ở nơi họ, họ tuyên bố rằng họ không thấy tôn giáo của Phúc Âm đáp ứng những trông đợi của họ; rằng nó không đem lại cho họ sự thỏa lòng mà họ từng hy vọng từ nó; và rằng vì vậy họ bị buộc phải tìm sự nhẹ nhõm từ thế gian. Họ làm buồn dân sự Đức Chúa Trời bởi những sự tuân theo của họ, và thường họ làm lạc những kẻ yếu đuối, và bởi những gương của họ khích lệ họ mạo hiểm những sự tự do tương tự, mà nếu không họ không dám thử. Họ cũng làm cho kẻ ác dạn dĩ trong đường ác họ, khi chúng thấy một sự mâu thuẫn rõ ràng giữa những nguyên tắc họ công khai và thực hành họ; và như vậy họ khiến đường lối lẽ thật bị nói xấu. Độ dài của bài này buộc tôi phải kết thúc đột ngột. Nguyện Chúa giúp ông và tôi ghi tạc chủ đề này vào lòng, và cầu nguyện rằng chúng ta có thể, một mặt, hiểu đúng, quý trọng sự tự do Cơ Đốc của mình; và, mặt khác, được giữ khỏi điều ác đang tăng — một sự đồng hóa tội lỗi với thế gian!
 
----
+THƯ XXI.
 
-## THƯ XXI.
-
-**Về Sự Mù Lòa Thuộc Linh**
+Về Sự Mù Lòa Thuộc Linh
 
 *"Xưa tôi mù, mà nay tôi thấy." — Giăng 9:25*
 
@@ -804,11 +756,9 @@ Mặt khác, dù, nơi mắt được soi sáng cách thiêng liêng, những c�
 
 Một lần nữa: sự thấy thuộc linh và khả năng ấy là điều có thể được xem chủ yếu là bền vững nơi một tín hữu. Người ấy không có vốn ân điển, hay an ủi, hay sức mạnh, trong chính mình. Người ấy cần những sự cung ứng liên tục; và nếu Chúa rút khỏi người ấy, người ấy yếu đuối, thiếu kỹ năng sau khi đã lâu tham gia cuộc chiến Cơ Đốc, như khi người ấy mới bước vào. Mắt ít có ích hiện tại trong bóng tối; vì nó không thể thấy mà không có ánh sáng. Nhưng sự trở lại của ánh sáng không có lợi gì cho một người mù. Một tín hữu có thể ở nhiều trong bóng tối; nhưng sự thấy thuộc linh người ấy còn lại. Dù việc thực hành ân điển có thể thấp, người ấy biết mình, người ấy biết Chúa, người ấy biết đường đến ngai ân điển. Những trạng thái, cảm xúc của người ấy có thể thay đổi; nhưng người ấy đã nhận một tri thức về thân vị, chức vụ, quyền năng, ân điển, của Chúa Giê-xu là Cứu Chúa, không thể lấy khỏi người ấy; và người ấy có thể chống lại ngay cả một thiên sứ giảng một Phúc Âm khác, vì người ấy đã thấy Chúa. Độ dài của bài này buộc tôi phải dừng lại. Nguyện Chúa gia tăng ánh sáng Ngài trong lòng ông.
 
----
+THƯ XXII.
 
-## THƯ XXII.
-
-**Về Tình Trạng Nghèo Khó**
+Về Tình Trạng Nghèo Khó
 
 Bạn thân mến,
 
@@ -850,11 +800,9 @@ Những điều người khác quý, tôi từ bỏ: Lạy Chúa, đủ rồi v�
 
 Tôi phó thác bạn cho phước hạnh của Đức Chúa Trời giao ước chúng ta, và cho Chúa Giê-xu là Cứu Chúa chúng ta, "Đấng, khi giàu, đã làm cho mình nghèo vì cớ chúng ta, để chúng ta nhờ sự nghèo khó Ngài mà được giàu."
 
----
+THƯ XXIII.
 
-## THƯ XXIII.
-
-**Về Sự Đơn Sơ Và Chân Thật Tin Kính**
+Về Sự Đơn Sơ Và Chân Thật Tin Kính
 
 *"Vì sự khoe mình của chúng tôi là lời chứng của lương tâm chúng tôi rằng chúng tôi đã ăn ở trong thế gian với sự đơn sơ và chân thật tin kính, chẳng phải bởi sự khôn ngoan xác thịt, mà bởi ân điển Đức Chúa Trời." — 2 Cô-rinh-tô 1:12*
 
@@ -888,11 +836,9 @@ Tôi không cần dành thời gian để chứng minh rằng hiệu quả của
 
 Đối với một Cơ Đốc nhân chân thật, sự lừa dối, xảo quyệt mà thế gian xem là khôn ngoan, hiện ra không chỉ bất hợp pháp mà còn không cần thiết. Người ấy không cần những sự dè dặt, lảng tránh, ngụy trang nhỏ, mà những người mưu mô cố gắng (dù thường vô ích) để che giấu nhân cách thật của họ, và thoát khỏi sự khinh rẻ đáng chịu. Người ấy là điều người ấy dường như là, và vì vậy không sợ bị phát hiện. Người ấy bước đi bởi ánh sáng của sự khôn ngoan từ trên, và nương cậy cánh tay của Quyền Năng Toàn Năng; vì vậy người ấy bước đi tự do — tin cậy nơi Chúa, Đấng mà người ấy phục vụ với thần trí mình trong Phúc Âm của Con Ngài.
 
----
+THƯ XXIV.
 
-## THƯ XXIV.
-
-**Về Sự Tương Giao Với Đức Chúa Trời**
+Về Sự Tương Giao Với Đức Chúa Trời
 
 Thưa ông,
 
@@ -926,11 +872,9 @@ Trong những LỢI ÍCH. Chúa nhận họ làm phần Ngài; Ngài xem họ l�
 
 Vinh quang của danh Ngài, sự thành công của chính nghĩa Ngài, sự thịnh vượng của dân sự Ngài, sự hoàn thành ý muốn Ngài — đây là những đối tượng lớn, hàng đầu được khắc trên lòng họ, và mọi lời cầu nguyện, ước ao, cố gắng của họ đều hướng đến. Họ sẽ không kể điều gì là quý, ngay cả mạng sống mình, nếu đặt cạnh tranh với những điều này. Giữa những hoạn nạn họ, nếu Chúa được tôn vinh, nếu những tội nhân được biến cải, nếu Hội Thánh thịnh vượng — họ có thể vui mừng. Nhưng khi sự gian ác dẫy đầy, khi tình yêu nguội lạnh, khi những người xưng nhận lìa bỏ những giáo lý lẽ thật và quyền năng của sự tin kính — thì họ buồn rầu, đau đớn trong lòng; khi ấy họ bị chạm đến điều họ xem là lợi ích gần gũi nhất của mình, vì đó là của Chúa họ. Đây là tinh thần của một Cơ Đốc nhân thật. Nguyện Chúa gia tăng nó trong chúng ta, và trong mọi người yêu mến danh Ngài! Tôi chỉ còn chỗ để ký tên.
 
----
+THƯ XXV.
 
-## THƯ XXV.
-
-**Về Đức Tin Và Sự Thông Công Của Các Thánh Đồ**
+Về Đức Tin Và Sự Thông Công Của Các Thánh Đồ
 
 Thưa ông,
 
@@ -968,11 +912,9 @@ Khi ấy mọi dòng dõi được chọn sẽ gặp nhau trước ngai, Sẽ ch
 
 Vậy chúng ta, thưa ông, hãy can đảm: mọi thánh đồ trên đất, mọi thánh đồ trên trời, các thiên sứ của Chúa, phải, chính Chúa của các thiên sứ, đều ở về phía chúng ta. Dù đoàn đông, nhưng còn chỗ — nhiều chỗ ở — một chỗ cho ông — một chỗ, tôi tin, cho kẻ vô giá trị là tôi.
 
----
+THƯ XXVI.
 
-## THƯ XXVI.
-
-**Về Sự Soi Sáng Dần Dần Của Phúc Âm**
+Về Sự Soi Sáng Dần Dần Của Phúc Âm
 
 Thưa ông,
 
@@ -987,11 +929,5 @@ Trong khi tôi viết, một ánh sáng mới, dát vàng ngôi nhà trên đồ
 Tôi đã suy nghĩ về cuộc trò chuyện của Chúa với Ni-cô-đem; đó là một chủ đề dồi dào, và tạo chỗ, trong phần này hay phần khác, cho toàn bộ vòng tròn những đề tài giáo lý, kinh nghiệm. Ni-cô-đem là một gương khích lệ cho những ai đang tìm kiếm sự cứu rỗi của Chúa: ông đã nhận một số ấn tượng thuận lợi về Chúa Giê-xu; nhưng ông rất dốt nát, và rất ở dưới sự sợ loài người. Ông chỉ dám đến ban đêm; và lúc đầu, dù nghe, ông không hiểu: nhưng Đấng mở mắt kẻ mù, đã đưa ông chắc chắn, dù nhẹ nhàng, tiến lên. Lần tiếp theo chúng ta nghe về ông, ông dám nói một lời bênh vực Đấng Christ, ngay giữa những kẻ thù Ngài, Giăng 7:50-53; và cuối cùng, ông có can đảm công khai, công cộng giúp chuẩn bị thân thể của Thầy mình cho tang lễ, vào lúc những người theo Chúa chúng ta công khai hơn đều bỏ Ngài, trốn đi. Thật đúng rằng: "Vậy chúng ta sẽ biết, nếu chúng ta theo đuổi để biết Chúa;" và lại: "Ngài ban sức cho kẻ ngã lòng; và cho kẻ không có sức, Ngài thêm sức."
 
 Vậy hãy hy vọng, hỡi linh hồn ta, ngược lại hy vọng; dù những ân tứ ngươi mờ nhạt, uể oải, Đấng đã trồng chúng sẽ tưới công việc của chính Ngài, và không để chúng hoàn toàn chết. Ngài có thể khiến kẻ nhỏ như ngàn; trước sự hiện diện Ngài những núi chìm thành đồng bằng, những dòng suối vọt ra từ vầng đá cứng, và đồng vắng nở hoa như hoa hồng. Ngài có thể phá đổ điều tội lỗi xây lên, và xây lên điều tội lỗi phá đổ; điều không thể đối với chúng ta, dễ dàng đối với Ngài; và Ngài đã bảo chúng ta trông đợi những lúc tươi mới từ sự hiện diện Ngài. Cũng vậy, xin hãy đến, lạy Chúa Giê-xu.
-
----
-
-**TRANSLATION STATUS: COMPLETE**
-
-**TERMINOLOGY ISSUES:** none ngoài bảng thuật ngữ cố định. Ghi chú: (1) Bản OCR archive.org của ấn bản 1775 bị hỏng nặng (mất chữ, lẫn trang), nên bản dịch dùng văn bản thay thế từ tuyển tập "The Letters of John Newton" (Monergism Books) — đã đối chiếu với mục lục 26 thư của ấn bản 1775 (theo ESTC T116828) và trích đúng 26 thư theo đúng thứ tự, tựa đề. (2) Trong Thư XXIII, câu "1Ki. 31 1:14" trong nguồn thay thế có lỗi in (lẽ ra 1 Các Vua 17:14) — đã dịch theo ý đúng; [NEEDS REVIEW: kiểm tra tham chiếu 1 Các Vua 17:14 trong Thư XXIII].
 
 Mở trong trình đọc Về thư viện

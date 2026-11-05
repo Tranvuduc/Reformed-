@@ -6,7 +6,7 @@ Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-NHỮNG BÀI HỌC TỪ LỊCH SỬ HỘI THÁNH ANH *Nguyên tác:* J. C. Ryle — *The Lessons of English Church History* *Nguồn:* https://archive.org/download/lessonsofenglish00ryle/lessonsofenglish00ryle_djvu.txt --- VỚI PHỤ LỤC VỀ Ý KIẾN CỦA CÁC THẦN HỌC GIA ANH VỀ TIỆC THÁNH
+NHỮNG BÀI HỌC TỪ LỊCH SỬ HỘI THÁNH ANH Nguyên tác: J. C. Ryle — The Lessons of English Church History Nguồn: https://archive.org/download/lessonsofenglish00ryle/lessonsofenglish00ryle_djvu.txt VỚI PHỤ LỤC VỀ Ý KIẾN CỦA CÁC THẦN HỌC GIA ANH VỀ TIỆC THÁNH
 
 CỦA CỐ Đức Giám mục J. C. RYLE, Tiến sĩ Thần học Nguyên Giám mục Liverpool TÁC GIẢ CÁC SÁCH "KNOTS UNTIED", "PRINCIPLES FOR CHURCHMEN", V.V.
 
@@ -277,7 +277,5 @@ Giờ tôi sẽ kết thúc toàn bộ chủ đề bằng trích dẫn đáng ch
 "'Những khẳng định mạnh mẽ' của Nghi thức Thánh lễ trong Sách Cầu nguyện, khi được hiểu [NEEDS REVIEW: OCR "Soya bes", có lẽ là "taken in"] theo nghĩa rõ ràng và hiển nhiên nhất, ủng hộ quan điểm thấp, được nhiều giáo sĩ của chúng ta nắm giữ và khăng khăng, rằng Sự Hiện diện Thật là một giáo lý không được Hội Thánh Anh chấp thuận, và không thể phân biệt với sai lầm La Mã, như họ tiếp tục nói, về sự biến thể." — (Trích Thư thứ hai về "Vị thế hiện tại của Đảng Hội Thánh Cao trong Hội Thánh Anh," của Mục sư W. Maskell, quản nhiệm nhà thờ St. [NEEDS REVIEW: OCR "St. eee on i. Ohurch", có lẽ là "St. Mary's Church"], Torquay, tr. 62. 1850.)
 
 Tôi sẽ không bình luận gì về các trích dẫn trên. [NEEDS REVIEW: OCR "They ae enh themselves", có lẽ "They speak for themselves"] Chúng tự nói lên. Dù sao chúng chứng tỏ rằng các quan điểm về Tiệc Thánh thường được các tín đồ Hội Thánh Phúc Âm (gọi là thế) nắm giữ không phải là mới. Chúng là "những đường xưa," những con đường được đánh dấu bởi dấu chân của một số thần học gia vĩ đại nhất của Hội Thánh Anh.
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: none (16 thuật ngữ dự án được giữ nhất quán: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh. Các [NEEDS REVIEW] rải rác trong bản dịch là do OCR hỏng, không phải vấn đề thuật ngữ. "Ritualism" → "chủ nghĩa Nghi lễ"; "Nonconformists/Dissenters" → "những người Không tuân thủ / những người Bất đồng". Trích dẫn Kinh Thánh theo văn phong Kinh Thánh 1934.)
 
 Mở trong trình đọc Về thư viện

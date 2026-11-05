@@ -6,13 +6,9 @@ Bản dịch do AI (External-AI) hỗ trợ, chưa được mục sư duyệt gi
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Một Lời Cho Kẻ Mệt Mỏi
+Nguyên tác: "A word to the weary" — William S. Plumer, D.D. (1874) Nguồn: https://archive.org/download/wordtoweary00plum/wordtoweary00plum_djvu.txt (Ghi chú: bản OCR khá sạch; đã loại bỏ các dòng tiêu đề trang lặp lại ("A WORD TO THE WEARY" kèm số trang) và nối các từ bị ngắt dòng. Tác phẩm đầy đủ, kết thúc bằng "THE END".)
 
-**Nguyên tác:** "A word to the weary" — William S. Plumer, D.D. (1874) **Nguồn:** https://archive.org/download/wordtoweary00plum/wordtoweary00plum_djvu.txt *(Ghi chú: bản OCR khá sạch; đã loại bỏ các dòng tiêu đề trang lặp lại ("A WORD TO THE WEARY" kèm số trang) và nối các từ bị ngắt dòng. Tác phẩm đầy đủ, kết thúc bằng "THE END".)*
-
-**Trạng thái duyệt:** AI, chưa duyệt (chưa được mục sư duyệt)
-
----
+Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
 
 MỘT LỜI CHO KẺ MỆT MỎI
 
@@ -23,8 +19,6 @@ WILLIAM S. PLUMER, Tiến sĩ Thần học
 NEW YORK: Anson D. F. Randolph & Company, 779 Broadway, góc phố 9.
 
 Bản quyền, 1874, thuộc về Anson D. F. Randolph & Co.
-
----
 
 MỘT LỜI ĐÚNG LÚC CHO KẺ MỆT MỎI
 
@@ -108,8 +102,6 @@ Thế là sao này đến sao khác lặn, Cho đến khi tất cả đã qua, N
 
 — Montgomery
 
----
-
 NHỮNG LỜI NÓI CAY NGHIỆT.
 
 Đây là một thế gian gian ác, và cái lưỡi là công cụ chính của sự gian ác, khiến đất trở nên giống hố khổ hình. Cái lưỡi là một thế giới của sự bất chính. (Gia-cơ 3:6.) Luật pháp, song sắt, then cửa, và giàn tra tấn cũng không ngăn được tác hại của nó. Những lời sỉ nhục bất công, những nghi ngờ thiếu bác ái và những tin đồn hay xét đoán thường khiến dân sự Đức Chúa Trời đầy đau buồn. Đa-vít than rằng mình đã trở nên "bài hát của kẻ say rượu." (Thi Thiên 69:12.) Gióp than thân vì "con cái của những kẻ mà ông chẳng thèm để chung với chó của bầy mình," và ngay cả các đầy tớ của ông cũng đối xử khinh miệt với ông. (Gióp 30:1, 8-10.) Đạo thật không tạo ra sự vô cảm trước giá trị của một đời sống yên tĩnh, hay một danh tiếng tốt. Nó trau dồi và củng cố sự quan tâm hợp pháp của chúng ta đối với ý kiến tốt của người khác. Một trong những thành phần đắng cay trong chén sầu khổ của Thầy là sự vu khống và xuyên tạc. Ngài phán: "Sự sỉ nhục đã làm cho lòng tôi tan vỡ." (Thi Thiên 69:20.) Đôi khi các tội vu khống và nói hành, sỉ nhục và gièm pha tràn qua xã hội như những đợt sóng tàn phá. Bấy giờ người lành nói: "Linh hồn tôi ở giữa các sư tử." (Thi Thiên 57:4.) "Hằng ngày chúng nó bẻ bác lời tôi." (Thi Thiên 56:5.) "Ôi! chớ chi tôi có cánh như bồ câu, đặng bay đi và ở được yên lặng!" (Thi Thiên 55:6.) "Hỡi lưỡi dối trá, mày ưa mến các lời tàn hại." (Thi Thiên 52:4.) Nỗi đau đớn gây ra như vậy thật khủng khiếp. Ai đã từng cảm nhận hãy làm chứng. Một người nói: "Có một sự bắt bớ sắc bén hơn cái rìu. Có một thứ sắt đâm vào lòng sâu hơn con dao. Những cái cười khẩy tàn nhẫn, những lời mỉa mai, những phán xét không thương xót, và những lời vu khống lạnh lùng — đó là những sự bắt bớ." Nhưng xưa kia, có người đã nói: "Lời kẻ thèo lẻo như vật thực ngon, thấu đến ruột gan." (Châm Ngôn 26:22.) "Sống chết ở nơi quyền của lưỡi." (Châm Ngôn 18:21.)
@@ -181,8 +173,6 @@ Xin cho tình yêu thương nhau của chúng con tha thiết, Khiến chúng co
 Xin bẻ gãy quyền lực chết người của kẻ cám dỗ; Biến lòng bằng đá thành bằng thịt; Và bắt đầu từ giờ tốt lành này, Phục hưng công việc Ngài lại mới. Lạy Chúa, xin phục hưng chúng con; Mọi sự giúp đỡ chúng con phải đến từ Ngài.
 
 — Newton
-
----
 
 CUỘC CHIẾN THUỘC LINH.
 
@@ -269,8 +259,6 @@ Nếu bạn không thể lay tỉnh kẻ ác Bằng những báo động kinh kh
 Chớ để ai nghe bạn lười biếng nói rằng: "Chẳng có gì tôi làm được," Trong khi linh hồn người ta đang chết, Và Thầy gọi bạn. Hãy vui vẻ nhận việc Ngài giao; Hãy lấy công việc làm niềm vui; Hãy nhanh chóng đáp khi Ngài gọi: "Con đây; xin sai con, sai con."
 
 — Khuyết danh
-
----
 
 TÓM TẮT TOÀN BỘ.
 
@@ -432,8 +420,6 @@ Như vậy tôi đã gắng "nói lời nâng đỡ kẻ mệt mỏi." (Ê-sai 5
 
 Đức Giê-hô-va sẽ cai trị đời đời; hỡi Si-ôn, Đức Chúa Trời ngươi làm vua đến muôn đời! Ha-lê-lu-gia! (Thi Thiên 146:10.)
 
----
-
 HỘI THÁNH CHIẾN THẮNG SỰ SỈ NHỤC.
 
 "Hỡi kẻ thù ta, chớ vui mừng vì cớ ta! Ta dầu ngã xuống sẽ lại dậy; dầu ngồi trong nơi tối tăm, Đức Giê-hô-va sẽ làm sự sáng cho ta. Ta chịu sự thạnh nộ của Đức Giê-hô-va vì ta đã phạm tội nghịch cùng Ngài, cho đến chừng Ngài đã binh vực lẽ phải ta và phán xét ta, thì Ngài sẽ đem ta ra đến sự sáng, và ta sẽ thấy sự công bình của Ngài. Kẻ thù ta sẽ thấy sự ấy và sẽ bị xấu hổ, nó là kẻ đã bảo ta rằng: Chớ nào Giê-hô-va Đức Chúa Trời ngươi ở đâu? Mắt ta sẽ thấy sự ta ước ao trên nó; nay nó sẽ bị giày đạp như bùn ngoài đường." (Mi-chê 7:8-10.)
@@ -455,9 +441,5 @@ NHỮNG LỜI CUỐI CÙNG CỦA KINH THÁNH.
 "Thánh Linh và vợ mới cùng nói: Hãy đến! Kẻ nào nghe cũng hãy nói rằng: Hãy đến! Ai khát, khá đến. Kẻ nào muốn, khá nhận lấy nước sự sống cách nhưng không. Tôi ngỏ cho kẻ nào nghe lời tiên tri trong sách nầy: nếu ai thêm vào sách tiên tri nầy điều gì, thì Đức Chúa Trời sẽ thêm cho người ấy tai nạn đã ghi trong sách nầy. Và kẻ nào bớt điều gì trong những lời ở sách tiên tri nầy, thì Đức Chúa Trời sẽ cất lấy phần họ về cây sự sống và thành thánh, mà đã chép ra trong sách nầy. Đấng làm chứng cho những điều ấy, thì phán rằng: Phải, ta đến mau chóng. A-men, lạy Đức Chúa Giê-xu, xin hãy đến! Nguyền xin ân điển của Đức Chúa Giê-xu Christ ở với mọi người. A-men!" (Khải Huyền 22:17-21.)
 
 HẾT.
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "godly"/"good men"/"pious" → "người tin kính"/"người lành" tùy ngữ cảnh; "saints" → "các thánh". - "mercy-seat" → "ngôi ân điển" (theo Hê-bơ-rơ 4:16, Kinh Thánh 1934). - "Comforter" (John 14) → "Đấng Yên ủi" (theo Giăng 14:16, Kinh Thánh 1934). - "Ecclus." (Huấn Ca, sách ngoại điển) → giữ nguyên tham chiếu "Huấn Ca 6:14-16" như nguyên tác trích dẫn. - Các bài thánh ca (Toplady, Watts, Medley, Montgomery, Newton, Luther, khuyết danh) được dịch thơ tự do theo thể thơ Việt, giữ ý và vần điệu nhẹ nhàng, phù hợp làm sách nói. - Ngụ ngôn "thiên sứ của giấc ngủ và thiên sứ của sự chết" dịch đầy đủ theo nguyên tác. - Tên riêng giữ nguyên: Gai-út, Si-rac, Ma-ry, Cowper (không xuất hiện), Milner, Scougal, Bunyan, Brainerd, Pollock, John Newton.
 
 Mở trong trình đọc Về thư viện

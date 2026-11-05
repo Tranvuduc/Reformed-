@@ -6,15 +6,11 @@ Bản dịch do AI (External-AI) hỗ trợ, chưa được mục sư duyệt gi
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Các Châm Ngôn Về Sự Xưng Công Chính Của Baxter
+Nguyên tác: "An Extract of Mr Richard Baxter's Aphorisms of Justification, Publish'd by John Wesley" — Richard Baxter (1745) Nguồn: https://archive.org/download/bim_eighteenth-century_an-extract-of-mr-richard_baxter-richard_1745/bim_eighteenth-century_an-extract-of-mr-richard_baxter-richard_1745_djvu.txt (Ghi chú: bản dịch theo ấn bản trích rút của John Wesley (Newcastle upon Tyne, 1745) từ tác phẩm "Aphorisms of Justification" (1649) của Richard Baxter. Đã loại bỏ trang tựa, chữ trang trí và các mảnh OCR lặp lại; giữ nguyên phần "Gửi Độc Giả" của Wesley và toàn bộ các Mệnh Đề. Một vài số thứ tự Mệnh Đề được phục hồi theo trình tự vì OCR làm mờ; các chỗ nguồn không đọc được được đánh dấu [NEEDS REVIEW] tại chỗ.)
 
-**Nguyên tác:** "An Extract of Mr Richard Baxter's Aphorisms of Justification, Publish'd by John Wesley" — Richard Baxter (1745) **Nguồn:** https://archive.org/download/bim_eighteenth-century_an-extract-of-mr-richard_baxter-richard_1745/bim_eighteenth-century_an-extract-of-mr-richard_baxter-richard_1745_djvu.txt *(Ghi chú: bản dịch theo ấn bản trích rút của John Wesley (Newcastle upon Tyne, 1745) từ tác phẩm "Aphorisms of Justification" (1649) của Richard Baxter. Đã loại bỏ trang tựa, chữ trang trí và các mảnh OCR lặp lại; giữ nguyên phần "Gửi Độc Giả" của Wesley và toàn bộ các Mệnh Đề. Một vài số thứ tự Mệnh Đề được phục hồi theo trình tự vì OCR làm mờ; các chỗ nguồn không đọc được được đánh dấu [NEEDS REVIEW] tại chỗ.)*
+Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
 
-**Trạng thái duyệt:** AI, chưa duyệt (chưa được mục sư duyệt)
-
----
-
-## Gửi Độc Giả
+GỬI ĐỘC GIẢ
 
 Trước đây tôi chưa từng nghe nói trên đời có một cuốn sách như "Các Châm Ngôn Về Sự Xưng Công Chính" của ông Baxter, cho đến khi một người bán sách gửi nó cho tôi — người mà trước đó tôi đã nhờ tìm một cuốn sách nhỏ khác cùng chủ đề. Nhưng chưa đọc được bao nhiêu trang, tôi đã thấy sự quan phòng khôn ngoan của Đức Chúa Trời; và tôi sớm quyết định (dù có vài cách diễn đạt mà tôi không hoàn toàn tán thành) sẽ tái bản phần cốt lõi của nó, trong khuôn khổ nhỏ gọn nhất và với giá rẻ nhất có thể.
 
@@ -22,13 +18,11 @@ Trước đây tôi chưa từng nghe nói trên đời có một cuốn sách n
 
 Newcastle upon Tyne, — John Wesley
 
----
+TRÍCH TỪ CÁC CHÂM NGÔN CỦA ÔNG BAXTER VỀ SỰ XƯNG CÔNG CHÍNH
 
-## Trích Từ Các Châm Ngôn Của Ông Baxter Về Sự Xưng Công Chính
+CÁC MỆNH ĐỀ
 
-### Các Mệnh Đề
-
-#### Mệnh Đề I.
+MỆNH ĐỀ I.
 
 Giao ước đầu tiên mà Đức Chúa Trời lập với A-đam đã hứa ban sự sống, với điều kiện là vâng lời trọn vẹn, và đe dọa sự chết cho sự bất tuân dù nhỏ nhất.
 
@@ -38,7 +32,7 @@ Lời Ngài đã phán ra trong sự đe dọa một khi đã qua đi, Ngài kh�
 
 Hình phạt này, chính kẻ phạm tội không thể gánh nổi, mà không bị hủy diệt đời đời. Ý tôi là, không phải toàn bộ hình phạt; vì một phần của nó, loài người đã gánh chịu, và đất đai vì cớ loài người, cùng cả nhân loại cho đến ngày nay; nhưng hình phạt đầy đủ hẳn đã là sự chịu khổ đời đời.
 
-#### Mệnh Đề II.
+MỆNH ĐỀ II.
 
 Chúa Giê-xu Christ, theo ý muốn của Cha Ngài, và cũng theo ý muốn của chính Ngài, được sắm sẵn cách trọn vẹn cho công việc này — với quyền năng thiêng liêng và sự công chính nơi chính mình Ngài — trước hết đã đảm nhận, rồi sau đó đã trả xong món nợ này, bằng cách chịu đựng điều mà Luật Pháp đã đe dọa, và điều mà chính kẻ phạm tội không thể gánh nổi.
 
@@ -76,11 +70,11 @@ Chúa Giê-xu Christ, theo ý muốn của Cha Ngài, và cũng theo ý muốn c
 
 Quan điểm khác về sự chúng ta dự phần vào sự công chính của Đấng Christ là thế này: Đức Chúa Cha chấp nhận sự chịu khổ và công đức của Con Ngài như một sự đền tội đầy đủ cho luật pháp đã bị vi phạm của Ngài, và như một giá trị xứng đáng mà trên đó Ngài sẽ hoàn toàn tha thứ cho chính những kẻ phạm tội, và tiếp nhận họ trở lại vào ân điển của Ngài, và còn ban thêm cho họ một hạnh phúc tuyệt vời hơn nữa; miễn là họ chịu tiếp nhận Con Ngài theo các điều khoản được bày tỏ trong Phúc Âm. Quan điểm này, cũng như nó đơn sơ và rõ ràng hơn, thì nó tránh được mọi bất tiện đã kể trên.
 
-#### Mệnh Đề VII.
+MỆNH ĐỀ VII.
 
 Vì vậy Cha đã giao mọi sự vào tay Con; ban cho Ngài mọi quyền phép trên trời dưới đất; và lập Ngài làm Chúa của kẻ chết lẫn kẻ sống, Giăng 13:3; Ma-thi-ơ 28:18; Giăng 5:21, 22, 24, 27; Rô-ma 14.
 
-#### Mệnh Đề VIII.
+MỆNH ĐỀ VIII.
 
 Ý định của Cha lẫn Con đều không phải là, bởi sự đền tội này, những kẻ phạm tội sẽ lập tức được giải thoát khỏi toàn bộ lời rủa sả của Luật Pháp, và được tự do khỏi điều ác mà họ đã tự chuốc lấy; nhưng một phần hẳn phải được thi hành trên linh hồn và thân thể, cùng trên chính các tạo vật, và còn lại trên họ, tùy theo ý muốn của Đấng Christ, Khải Huyền 1:18; 1 Cô-rinh-tô 15:26.
 
@@ -106,7 +100,7 @@ Quan điểm chung là: Đấng Christ đã cất đi toàn bộ lời rủa s�
 
 10. Toàn bộ dòng chảy của Kinh Thánh cho thấy Đấng Christ nay có toàn quyền định đoạt chúng ta và những sự chịu khổ của chúng ta, đã ngăn sự thi hành đầy đủ lời rủa sả, và quản trị phần còn lại trên chúng ta vì lợi ích và điều thiện của chúng ta; nhưng không chỗ nào khẳng định rằng Ngài lập tức giải thoát chúng ta.
 
-#### Mệnh Đề IX.
+MỆNH ĐỀ IX.
 
 Loài người không những đã phá vỡ giao ước đầu tiên của mình, mà còn tự làm cho mình không thể thực hiện các điều kiện của nó trong tương lai; và như vậy hoàn toàn không còn hy vọng đạt được sự công chính và sự sống bởi đó, nên Cha và Đấng Trung Bảo đã đẹp lòng ban cho loài người một luật mới, và đưa ra một giao ước mới; các điều kiện của giao ước này sẽ dễ dàng hơn cho tội nhân, nhưng lại càng hạ mình hơn, và sẽ bày tỏ rõ ràng hơn, tôn vinh cao hơn, tình yêu khôn lường của Cha và của Đấng Cứu Chuộc.
 
@@ -138,7 +132,7 @@ Tôi sẽ giải thích cho bạn, theo nghĩa nào và đến mức nào Luật
 
 Tôi không nói gì trong tất cả những điều này về công dụng hướng dẫn của Luật Pháp đạo đức đối với các tín hữu, mà chỉ nói Luật Pháp còn hiệu lực đến mức nào, ngay cả xét như giao ước việc làm; vì việc bãi bỏ hoàn toàn nó theo nghĩa này đang được khẳng định một cách phổ biến, nhưng thiếu suy xét. Rằng nó không bị lật đổ quá mức đã giải thích ở đây — ngay cả đối với các tín hữu — tôi nay xin chứng minh.
 
-#### Mệnh Đề X.
+MỆNH ĐỀ X.
 
 Nếu không phải như vậy, mà Đấng Christ đã bãi bỏ giao ước đầu tiên, thì sẽ suy ra: 1. Rằng không có tội nào — ngoài tội của A-đam và tội không tin đến cuối cùng — bị đe dọa sự chết, hay đáng sự chết; vì điều mà luật đang hiệu lực không đe dọa, thì không đáng phải chịu, hay không mắc nợ theo luật. Sẽ suy ra, 2. Rằng Đấng Christ đã chết không phải để ngăn ngừa hay cất đi cơn giận và lời rủa sả đáng phải chịu ấy, hay mắc nợ vì bất kỳ tội nào ngoài tội của A-đam, cũng không phải để tha tội cho chúng ta; mà chỉ để ngăn chúng ta đáng cơn giận và lời rủa sả, và do đó ngăn nhu cầu được tha thứ của chúng ta. Sẽ suy ra, 3. Rằng trước cơn giận đời đời trong ngày phán xét, chúng ta không được viện đến sự tha thứ của bất kỳ tội nào ngoài tội đầu tiên; mà phải viện đến việc mình không đáng cơn giận, vì luật ấy đã bị bãi bỏ trước khi tội được phạm. Tất cả những hệ quả này, theo tôi, đều không thể chấp nhận được; và không thể tránh khỏi, nếu Luật Pháp bị bãi bỏ.
 
@@ -154,7 +148,7 @@ Tôi cho rằng những kẻ nói với chúng ta rằng Đấng Christ là bên
 
 2. Ngay cả những kẻ bị định tội cũng đã nhận được một số ích lợi từ Đấng Christ tại đây, như sự trì hoãn án phạt của họ, và nhiều ơn thương xót khác, dù họ biến tất cả thành sự phán xét nặng nề hơn.
 
-#### Mệnh Đề XI.
+MỆNH ĐỀ XI.
 
 Dù Đấng Christ đã đền tội cho Luật Pháp, ý muốn của Ngài không phải là bất kỳ ai được xưng công chính hay được cứu bởi đó, trừ khi người ấy có trong chính mình một nền tảng của quyền lợi cá nhân và riêng biệt để đòi hỏi điều ấy; cũng không phải ai được xưng công chính bởi huyết chỉ như đã đổ ra hay đã dâng, trừ khi nó cũng được tiếp nhận và áp dụng. Đến nỗi không ai, bởi sự đền tội đã làm xong đơn thuần, được giải thoát khỏi Luật Pháp hay lời rủa sả của giao ước đầu tiên đã bị vi phạm một cách tuyệt đối, mà chỉ có điều kiện.
 
@@ -174,7 +168,7 @@ Câu hỏi lớn là: sự công chính bởi đó chúng ta được xưng côn
 
 Loại sự công chính thứ nhất, như ở trong Đấng Christ, không thể, trong khi giữ nguyên hình thức của nó, trở thành của chúng ta. Và về điểm này các luận cứ của người Công giáo sẽ đúng. Luật Pháp truyền lệnh sự vâng lời cá nhân của chính chúng ta, chứ không phải của người khác thay cho chúng ta. Chúng ta đã không vâng lời cách cá nhân như vậy; chúng ta đã không thực sự vâng lời trong Đấng Christ; và Đức Chúa Trời không phán xét chúng ta đã làm điều chúng ta đã không làm. Dù chúng ta có làm, điều ấy cũng không khiến chúng ta công chính; vì một tội sẽ khiến chúng ta không công chính, dù trước và sau đó chúng ta có vâng lời đến đâu. Vì vậy, nếu chúng ta đã vâng lời trong Đấng Christ, mà lại phạm tội trong chính mình, chúng ta vẫn là kẻ phá luật; và như vậy sự công chính của chúng ta không thể thuộc loại thứ nhất. Sự vi phạm này vì vậy phải được đền tội, và do đó sự công chính của chúng ta phải thuộc loại thứ hai, vì cả hai không thể cùng tồn tại trong một người. Chỉ một mình Đấng Christ có cả hai loại sự công chính này, tức là sự công chính của sự vâng lời trọn vẹn, và sự công chính của sự đền tội cho sự bất tuân.
 
-#### Mệnh Đề XV.
+MỆNH ĐỀ XV.
 
 Sự công chính hợp pháp của chúng ta, hay sự công chính của giao ước đầu tiên, không phải là cá nhân, hay không nằm ở bất kỳ phẩm chất nào của chính chúng ta, hay các hành động do chúng ta thực hiện; vì chúng ta chưa từng làm trọn, cũng chưa từng tự mình đền tội cho Luật Pháp; nhưng nó hoàn toàn ở ngoài chúng ta, trong Đấng Christ.
 
@@ -186,7 +180,7 @@ Chất vấn 2. Vậy thì sự công chính của Đấng Christ và các việ
 
 Chỉ những ai tin và vâng theo Phúc Âm mới được dự phần vào sự đền tội của Đấng Christ, và trong Ngài được công chính cách hợp pháp, và như vậy trong chính mình được công chính theo Phúc Âm.
 
-#### Mệnh Đề XVII.
+MỆNH ĐỀ XVII.
 
 Dù Đấng Christ đã thực hiện các điều kiện của Luật Pháp, và đã đền tội cho sự không thực hiện của chúng ta; thế nhưng chính chúng ta phải thực hiện các điều kiện của Phúc Âm.
 
@@ -202,11 +196,11 @@ Vì, 1. Nó hàm ý sự phạm thượng chống lại Đấng Christ, như th�
 
 4. Nó lẫn lộn luật pháp với Phúc Âm; nó lật đổ mọi luật lệ và mạng lệnh của Đấng Christ; nó mâu thuẫn với toàn bộ ý hướng của Kinh Thánh, là nơi cho chúng ta biết rằng Đấng Christ đã sinh ra dưới luật pháp (chứ không phải dưới Phúc Âm)... Trích dẫn các câu Kinh Thánh khẳng định điều này, tức là chép lại gần như toàn bộ phần giáo lý của Tân Ước. Vậy thì những lời vô vị của ông Saltmarsh [NEEDS REVIEW: bản OCR ghi "S/rmarſ/h"], trong sách "Free Grace" (Ân Điển Nhưng Không), trang 83, 84, là gì, khi ông dạy những kẻ nghi ngờ về sự chân thành theo Phúc Âm của mình hãy nhìn vào nó trong Đấng Christ; vì Đấng Christ đã tin cách trọn vẹn; Ngài đã buồn rầu về tội lỗi cách trọn vẹn; Ngài đã ăn năn cách trọn vẹn; Ngài đã vâng lời cách trọn vẹn; Ngài đã giết chết tội lỗi cách trọn vẹn, và tất cả là của chúng ta, v.v.? Nếu điều này muốn nói về sự tin, ăn năn, buồn rầu, vâng lời và giết chết tội lỗi theo Phúc Âm, thì đó là sự phạm thượng; như thể Đấng Christ có một Đấng Cứu Chuộc để tin cậy hầu được tha thứ và sự sống, hay có tội để ăn năn, buồn rầu và giết chết. Nhưng nếu ông muốn nói về sự tin Đức Chúa Trời theo luật pháp, hay sự ăn năn, buồn rầu, hay giết chết tội lỗi trong chúng ta, chứ không phải trong chính Ngài; thì điều ấy chẳng liên quan gì đến vấn đề đang bàn, như đàn hạc với cái bừa, như người ta vẫn nói. Kẻ nghi ngờ không nghi ngờ về sự tin theo luật pháp; và chắc chắn sự ăn năn và buồn rầu của Đấng Christ về tội lỗi của chúng ta không chứng minh cho chúng ta rằng chúng ta đã ăn năn tội mình, cũng không miễn tội cho chúng ta vì đã không làm điều ấy. Còn về việc Ngài giết chết tội lỗi trong chúng ta, đó chính là điều nghi ngờ: liệu điều ấy đã được làm trong linh hồn đang nghi ngờ hay chưa. Nhưng tôi bỏ qua hạng người này, vì họ nên học các nền tảng của đạo trong sách giáo lý trước, hơn là điều hành những tranh luận mà họ dùng để khuấy động thế gian.
 
-#### Mệnh Đề XVIII.
+MỆNH ĐỀ XVIII.
 
 Đừng tưởng rằng chúng ta có thể thực hiện các điều kiện này mà không cần ân điển (vì ngoài Đấng Christ chúng ta chẳng làm chi được); nhưng Ngài đòi hỏi chúng ta phải tự mình thực hiện chúng; và Ngài không tự mình ăn năn, tin, yêu mến Đấng Christ, vâng theo Phúc Âm thay cho chúng ta, như Ngài đã đền tội cho Luật Pháp thay cho chúng ta.
 
-#### Mệnh Đề XIX.
+MỆNH ĐỀ XIX.
 
 Theo một nghĩa được giải thích đúng đắn, Kinh Thánh nói loài người được công chính cách cá nhân; và theo nghĩa này, đức tin và các bổn phận của các tín hữu được nói là gánh lấy lời rủa sả của Luật Pháp (chứ không phải của Phúc Âm), và là sự thực hiện các điều kiện của Phúc Âm — là giao ước đặt ra sự cần thiết phải làm trọn các điều kiện để đẹp lòng Đức Chúa Trời, tức là xét theo mối quan hệ của chúng với giao ước ân điển, chứ không phải xét theo thước đo của giao ước việc làm.
 
@@ -226,13 +220,17 @@ Một người tá điền làm mất hợp đồng thuê của mình với ch�
 
 Những người theo chủ nghĩa phản luật pháp thiếu hiểu biết tưởng rằng một hành động không thể là hành động ân điển nhưng không, nếu về phía chúng ta có bất kỳ điều kiện nào để hưởng nó. Cứ như thể, trong sự so sánh đã kể trên, sự cứu chuộc người tá điền kém tự do hơn, vì hợp đồng thuê mới đòi tiền thuê một hạt tiêu như dấu hiệu thần phục; cứ như thể, khi một sự tha thứ được sắm sẵn cho một tử tội, với điều kiện người ấy không được từ chối khi nó được đưa ra, thì đó không phải là sự tha thứ nhưng không.
 
-#### Định Nghĩa: Sự Xưng Công Chính Là Gì *(số thứ tự của Mệnh Đề này bị mờ trong bản OCR; nội dung đầy đủ được giữ nguyên)*
+ĐỊNH NGHĨA: SỰ XƯNG CÔNG CHÍNH LÀ GÌ
+
+(số thứ tự của Mệnh Đề này bị mờ trong bản OCR; nội dung đầy đủ được giữ nguyên)
 
 Sự xưng công chính là một hành động đầy ân điển của Đức Chúa Trời, bởi sự ban cho đã hứa của giao ước mới, tha bổng kẻ phạm tội khỏi sự cáo buộc và định tội của giao ước cũ, trên cơ sở sự đền tội do Đấng Christ đã làm, và được tội nhân tiếp nhận. Còn sự xưng công chính sau cùng là một hành động đầy ân điển của Đức Chúa Trời bởi Đấng Christ, theo Phúc Âm, bằng bản án tại tòa án công khai của Ngài, tha bổng tội nhân khỏi sự cáo buộc và định tội bởi Luật Pháp mà Sa-tan viện dẫn chống lại người ấy, trên cơ sở sự đền tội do Đấng Christ đã làm, được tội nhân tiếp nhận, và được bào chữa cho người ấy.
 
-#### Mệnh Đề XXVI. [NEEDS REVIEW: phần lớn Mệnh Đề này bị hỏng OCR, chỉ còn đọc được đoạn cuối] ...chúng ta giả định rằng sự cáo buộc là sai. Nhưng với những căn cứ như vậy, họ cũng có thể rất dễ dàng lật đổ sự an toàn của những kẻ không tin, trong khi dạy họ cách tự an ủi mình mà không cần đức tin, hay trông đợi mọi sự ở ngoài chính mình trong Đấng Christ.
+MỆNH ĐỀ XXVI.
 
-#### Mệnh Đề XXVII.
+[NEEDS REVIEW: phần lớn Mệnh Đề này bị hỏng OCR, chỉ còn đọc được đoạn cuối] ...chúng ta giả định rằng sự cáo buộc là sai. Nhưng với những căn cứ như vậy, họ cũng có thể rất dễ dàng lật đổ sự an toàn của những kẻ không tin, trong khi dạy họ cách tự an ủi mình mà không cần đức tin, hay trông đợi mọi sự ở ngoài chính mình trong Đấng Christ.
+
+MỆNH ĐỀ XXVII.
 
 Chúng ta không được viện dẫn cho sự xưng công chính của mình rằng Đấng Christ đã khiến chúng ta được tự do khỏi chính hành vi phạm tội; hay khỏi tính chất tội lỗi của hành vi ấy; hay khỏi sự đáng phải chịu hình phạt của nó. Nếu Đấng Christ đã làm bất kỳ điều nào trong ba điều này cho chúng ta, Ngài hẳn đã tạo ra những sự mâu thuẫn. Nhưng chúng ta phải viện dẫn rằng hình phạt không còn mắc nợ trên con người chúng ta, dù hành vi ấy cùng tính chất tội lỗi và sự đáng phạt của nó vẫn còn, vì Đấng Christ đã đền tội cho tất cả những điều này.
 
@@ -240,7 +238,7 @@ Vì, thứ nhất, việc một hành vi vừa được làm vừa không đư�
 
 Trước khi được phạm, nó không phải là tội; nơi nào không có tội, hình phạt không mắc nợ; nơi nào không mắc nợ, không thể tha thứ cách đúng nghĩa; vì vậy tội lỗi không được tha trước khi được phạm.
 
-#### Mệnh Đề XXVIII.
+MỆNH ĐỀ XXVIII.
 
 Chính đức tin xưng công chính loài người: 1. Theo nghĩa gần nhất, trực tiếp và đúng nghĩa nhất, vì nó là sự thực hiện điều kiện của giao ước mới. 2. Theo nghĩa xa và không đúng nghĩa, vì nó là sự tiếp nhận Đấng Christ và sự công chính đền tội của Ngài.
 
@@ -258,7 +256,9 @@ Nhưng, 2. Nếu bạn hỏi tôi thêm: tại sao Đấng Christ chọn điều
 
 Tôi đáp: 1. Hỏi lý do cho sự lựa chọn và mạng lệnh của Đấng Christ không phải lúc nào cũng khôn ngoan hay an toàn. 2. Nhưng ở đây lý do quá rõ ràng, đến nỗi chúng ta có thể mạnh dạn nói rằng: không gì xứng hợp hơn với sự nghèo khó của chúng ta — những kẻ không có gì để mua — bằng việc tiếp nhận cách nhưng không như vậy. Không gì hợp lý hơn việc thừa nhận Đấng đã chuộc chúng ta, và nhận Ngài làm Đấng Cứu Chuộc và Chúa của mình.
 
-#### Mệnh Đề XXXIV. [NEEDS REVIEW: số "XXXIV" được phục hồi từ bản OCR ghi "ASST"]
+MỆNH ĐỀ XXXIV.
+
+[NEEDS REVIEW: số "XXXIV" được phục hồi từ bản OCR ghi "ASST"]
 
 Sự xưng công chính không phải là một hành động đơn lẻ, bắt đầu và kết thúc ngay khi chúng ta tin, mà là một hành động liên tục; dù theo bản chất nó trọn vẹn từ khoảnh khắc đầu tiên chúng ta tin, nó vẫn tiếp tục cho đến sự xưng công chính sau cùng trong ngày phán xét.
 
@@ -266,7 +266,7 @@ Sự xưng công chính không phải là một hành động đơn lẻ, bắt 
 
 Điều này cho bạn thấy phải tiếp nhận với giới hạn nào lời khẳng định của các nhà thần học chúng ta rằng sự tha thứ và sự xưng công chính được thực hiện một lần và đồng thời (semel & simul). 2. Rằng người đã được xưng công chính và tha thứ có thể cầu nguyện xin sự tiếp tục của sự tha thứ và sự xưng công chính mình. Và 3. Rằng sự đền tội của Đấng Christ và đức tin của chúng ta có công dụng liên tục, chứ không phải để xếp xó khi chúng ta đã được xưng công chính một lần, như thể công việc đã xong.
 
-#### Mệnh Đề XXXV.
+MỆNH ĐỀ XXXV.
 
 Hành động tin đơn thuần không phải là điều kiện duy nhất của sự cứu rỗi; nhưng sự ăn năn, cầu nguyện xin tha thứ, tha thứ cho người khác, tình yêu thương, sự vâng lời chân thành, và các việc làm của tình yêu thương cũng là những phần của điều kiện ấy.
 
@@ -278,13 +278,13 @@ Tôi không đòi hỏi gì hơn nơi những kẻ phủ nhận điều này, ng
 
 3. Việc tình yêu thương, sự vâng lời chân thành, và các việc làm của tình yêu thương cũng là những phần của điều kiện, được thấy trong các câu Kinh Thánh này: Lu-ca 7:47; Ma-thi-ơ 5:44; Lu-ca 6:27, 35; Giăng 15:12, 17 [NEEDS REVIEW: bản OCR ghi 11:12, 17]; 1 Cô-rinh-tô 2:9; Rô-ma 8:28; Ê-phê-sô 6:24; 1 Cô-rinh-tô 16:22; Gia-cơ 1:12 và 2:5; Rô-ma 2:7, 10; Khải Huyền 21 [NEEDS REVIEW: bản OCR ghi "Vb Riv. 21", không rõ chương]; Châm Ngôn 8:17, 21; Giăng 16:27; Ma-thi-ơ 10:37; Lu-ca 13:24; Phi-líp 2:12; 1 Cô-rinh-tô 9:24; 2 Ti-mô-thê 2:5, 12; 1 Ti-mô-thê 6:19 [NEEDS REVIEW: bản OCR ghi "wh HR 219"]; Khải Huyền 22:14; Lu-ca 11:28; Ma-thi-ơ 25:41, 42; Gia-cơ 2:21, 22, 23, 24, 25.
 
-#### Mệnh Đề XXXVI.
+MỆNH ĐỀ XXXVI.
 
 Vì vậy, dù sự không thực hiện bất kỳ điều nào trong những điều này bị đe dọa bằng sự chết chắc chắn; thế nhưng phải có sự đồng hiện của tất cả chúng, mới tạo nên các điều kiện có lời hứa sự sống.
 
 Vì vậy chúng ta thường đọc thấy sự chết bị đe dọa cho những kẻ không ăn năn, hơn là sự sống được hứa cho những kẻ ăn năn. Và khi bạn đọc thấy sự sống được hứa, bạn phải hiểu nó trong sự kết hợp — khi nó đứng cùng với những điều còn lại — chứ không phải khi nó bị tách rời. Dù tôi nghĩ rằng, xét về sự hiện hữu, chúng không bao giờ bị tách rời (vì nơi nào Đức Chúa Trời ban một điều, Ngài ban mọi điều); thế nhưng trong trường hợp chúng bị tách ra, Phúc Âm cũng sẽ không nhận chúng như các điều kiện trọn vẹn của nó.
 
-#### Mệnh Đề XXXVII.
+MỆNH ĐỀ XXXVII.
 
 Đức tin có thể được gọi là điều kiện duy nhất của Giao Ước Mới, vì mọi điều còn lại đều quy về nó; hoặc được giả định trước, như những tiền đề hay phương tiện cần thiết, hoặc được chứa trong nó; hoặc được hàm ý như những bông trái trực tiếp của nó, hay những phương tiện phụ thuộc cần thiết, hay những hệ quả của nó.
 
@@ -304,7 +304,7 @@ Cũng vậy ở đây, điều kiện lớn là sự tin bao hàm hay hàm ý m�
 
 6. Việc từ bỏ và hạ mình xác thịt, việc dùng các phương tiện và lễ nghi của Đức Chúa Trời một cách nghiêm túc, nhọc nhằn, liên tục — nghe, cầu nguyện, suy ngẫm, v.v. — vừa là những phần của sự vâng lời đã nói ở trên, vừa là những phương tiện cần thiết để tiếp tục và thực hành đức tin của chúng ta.
 
-#### Mệnh Đề XXXVIII.
+MỆNH ĐỀ XXXVIII.
 
 Như phương cách của Đức Chúa Trời khi ban Luật Pháp đạo đức là trước hết đưa loài người nhận chỉ một mình Ngài làm Đức Chúa Trời mình, rồi sau đó mới truyền các bổn phận cụ thể; thì phương cách của Đấng Christ trong Phúc Âm cũng vậy: trước hết thiết lập với loài người chức vụ và thẩm quyền của Ngài, đòi hỏi sự thừa nhận và vâng phục chúng; rồi sau đó mới truyền cho họ các bổn phận cụ thể trong sự phụ thuộc.
 
@@ -312,7 +312,7 @@ Vì vậy đức tin là điều kiện tóm lược của Phúc Âm, cũng như
 
 Sự vâng phục trọn vẹn thẩm quyền đang truyền lệnh hàm ý và suy ra sự vâng phục các mạng lệnh cụ thể. Vì vậy Đức Chúa Trời vẫn lập điều này làm tóm lược các điều kiện của Luật Pháp: họ nhận chỉ một mình Ngài làm Đức Chúa Trời mình, hay họ không có thần nào khác ngoài Ngài. Và khi Ngài thu gọn giao ước mình thành một bản tóm tắt, nó diễn ra thế này: "Ta sẽ làm Đức Chúa Trời ngươi, và ngươi sẽ làm dân Ta," Xuất Ê-díp-tô Ký 20:3 và 23:13; Phục Truyền 7:4 và 8:19 và 12:2, 3, v.v.; Giô-suê 24:2, 16, v.v.; Các Quan Xét 2:12, 17; 1 Sa-mu-ên 8:8; 2 Các Vua 5:17 và 17:7; Giê-rê-mi 22:9 và 7:23 và 11:4 và 30:22; Ê-xê-chi-ên 36:28 [NEEDS REVIEW: bản OCR ghi 16:28]; Phục Truyền 26:16, 17, v.v. Và cũng như lời hứa của Đức Chúa Trời nhận chúng ta làm dân Ngài hàm ý việc Ngài ban cho chúng ta mọi đặc ân và phước lành của dân Ngài, và như vậy là tóm lược mọi điều kiện của giao ước về phía Ngài; thì việc chúng ta nhận Chúa làm Đức Chúa Trời mình, và Đấng Christ làm Đấng Cứu Chuộc và Chúa mình, cũng hàm ý sự vâng lời chân thành của chúng ta đối với Ngài; và là tóm lược các điều kiện về phía chúng ta.
 
-#### Mệnh Đề XL.
+MỆNH ĐỀ XL.
 
 Đức tin, theo nghĩa rộng nhất, khi bao hàm mọi điều kiện của Giao Ước Mới, có thể được định nghĩa như sau: [NEEDS REVIEW: phần đầu của định nghĩa bị hỏng OCR; dưới đây là phần còn đọc được]
 
@@ -326,13 +326,13 @@ Sự vâng phục trọn vẹn thẩm quyền đang truyền lệnh hàm ý và 
 
 2. Sự thực hiện các điều kiện của Giao Ước Mới thường được gọi bằng tên đức tin, và như vậy đối lập với sự thực hiện các điều kiện của giao ước cũ, gọi là việc làm; mà những điều đã kể trên là những phần của điều kiện của Giao Ước Mới, nên được hàm ý trong đức tin, Ga-la-ti 3:12, 23, 25.
 
-#### Mệnh Đề XLI.
+MỆNH ĐỀ XLI.
 
 Từ những điều đã nói, rõ ràng theo nghĩa nào đức tin duy nhất xưng công chính, và theo nghĩa nào các việc làm cũng xưng công chính, tức là: 1. Đức tin duy nhất xưng công chính, vì nó hàm ý mọi phần khác trong điều kiện của Giao Ước Mới. 2. Đức tin duy nhất xưng công chính, như bổn phận chủ chốt lớn của Phúc Âm, mà mọi điều còn lại đều quy về. 3. Đức tin duy nhất không xưng công chính để đối lập với các bổn phận khác của Phúc Âm; nhưng các việc làm ấy cũng xưng công chính, như những phần thứ yếu, ở xa, của điều kiện của giao ước.
 
 Tôi biết đây là giáo lý sẽ bị la ó ầm ĩ nhất; sẽ khiến một số người kêu lên: Dị giáo, Công giáo, Socinian, và còn gì nữa! Về phần tôi, Đấng Dò Xét Lòng người biết rằng không phải tính lập dị, ham chuộng sự mới lạ, hay thiện cảm với Công giáo xúi giục tôi giữ nó. Nhưng tôi đã thành khẩn tìm kiếm sự hướng dẫn của Chúa trên đầu gối mình, trước khi dám dấn thân vào nó; và tôi đã chống lại ánh sáng của kết luận này lâu hết sức có thể. Nhưng con người không thể ép buộc sự hiểu biết của chính mình, nếu bằng chứng của chân lý không ép buộc nó; dù người ấy có thể ép cây bút hay lưỡi mình im lặng hay giả vờ.
 
-#### Mệnh Đề XLII.
+MỆNH ĐỀ XLII.
 
 Việc chúng ta được xưng công chính bởi sự vâng lời chân thành đối với Đấng Christ, như phần thứ yếu của điều kiện cho sự xưng công chính của chúng ta, cũng rõ ràng từ các câu Kinh Thánh sau: Ma-thi-ơ 12:37; Mác 11:25, 26; Lu-ca 6:37; Ma-thi-ơ 6:12, 14, 15; 1 Giăng 1:9; Công Vụ 8:22; Công Vụ 3:19 và 22:16; 1 Phi-e-rơ 4:18; Rô-ma 6:16.
 
@@ -344,7 +344,7 @@ Tôi nói: sự xưng công chính đầy đủ của chúng ta; vì như tôi �
 
 Giáo lý này không hề hạ thấp Đấng Christ và sự công chính của Ngài chút nào. Vì kẻ không gán cho đức tin hay sự vâng lời bất kỳ phần nào của công việc thuộc về sự công chính đền tội của Đấng Christ, thì không hạ thấp nó. Nhưng kẻ khiến đức tin và sự vâng lời đối với Đấng Christ chỉ là sự thực hiện các điều kiện của Giao Ước Mới, và như vậy chỉ là các điều kiện của sự xưng công chính đầy đủ bởi Ngài, thì không ban cho chúng bất kỳ phần nào của công việc thuộc sự công chính của Ngài; vì Ngài đến không phải để làm trọn Phúc Âm, mà để làm trọn Luật Pháp.
 
-#### Mệnh Đề XLV.
+MỆNH ĐỀ XLV.
 
 Để kết luận, rõ ràng nhất trong Kinh Thánh rằng sự xưng công chính của chúng ta tại sự phán xét lớn sẽ theo các việc làm của chúng ta, và theo điều chúng ta đã làm trong xác thịt, dù thiện hay ác; điều này không thể là gì khác ngoài tư cách là điều kiện của sự xưng công chính ấy. Và Đấng Christ bấy giờ sẽ đưa ra lý do của bản án công khai của Ngài từ việc loài người giữ hay phá các điều kiện của giao ước Ngài; để mọi miệng đều phải nín lặng, và sự công bằng trong sự phán xét của Ngài được bày tỏ cho mọi người; và để Ngài bày tỏ sự ghét tội lỗi, chứ không chỉ ghét con người của những kẻ bị định tội, và tình yêu của Ngài đối với sự vâng lời, chứ không chỉ đối với con người của những kẻ được xưng công chính.
 
@@ -383,9 +383,5 @@ Vậy khẳng định chung rằng các việc lành theo sau sự xưng công c
 "Sau khi đã được làm nên trọn vẹn rồi, thì trở nên cội rễ của sự cứu rỗi đời đời cho kẻ vâng lời Ngài," Hê-bơ-rơ 5:9.
 
 Về những người ấy, khi họ được vinh hiển với Ngài, sẽ được phán: "Những kẻ này là kẻ ra khỏi cơn đại nạn, đã giặt và phiếu trắng áo mình trong huyết Chiên Con," [NEEDS REVIEW: từ cuối cùng "trắng" bị mất trong OCR; theo Khải Huyền 7:14]...
-
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: - "satisfaction" (sự đền tội của Đấng Christ) → "sự đền tội" (không có trong bảng cố định; "atonement" mới là "sự chuộc tội"). - "impute/imputation" → "kể cho" (sự kể cho). - "Antinomianism/Antinomian" → "chủ nghĩa phản luật pháp" / "người theo chủ nghĩa phản luật pháp". - "passive/active righteousness" → "sự công chính thụ động" / "sự công chính tích cực". - "Papists" → "người Công giáo" (giữ nguyên ý chỉ phe Công giáo La Mã trong văn cảnh tranh luận thế kỷ 17). - "Law of Works" → "luật việc làm"; "Covenant of Works/Grace" → "giao ước việc làm" / "giao ước ân điển". - "Mr Saltmarsh" trong sách "Free Grace": tên được phục hồi từ OCR "S/rmarſ/h" (John Saltmarsh, tác giả "Free Grace", 1645). - Các tham chiếu Kinh Thánh bị hỏng OCR đã được phục hồi theo ngữ cảnh và đánh dấu [NEEDS REVIEW] tại chỗ (Ca Thương 3:39; Công Vụ 2:38; Ma-thi-ơ 13:43; Giăng 15:12, 17; Ê-xê-chi-ên 36:28; 2 Phi-e-rơ 3:9; 1 Ti-mô-thê 6:19; Khải Huyền 21; Giăng 3:36; Lu-ca [tham chiếu thứ hai]). - Số thứ tự các Mệnh Đề VII, IX, XXXIV được phục hồi theo trình tự (OCR mờ); Mệnh Đề XXVI chỉ còn đoạn cuối; phần đầu định nghĩa ở Mệnh Đề XL và một đoạn giữa Câu Hỏi 5 bị hỏng OCR nặng — đã đánh dấu.
 
 Mở trong trình đọc Về thư viện
