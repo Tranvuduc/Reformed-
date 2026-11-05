@@ -43777,5 +43777,20 @@
   "level": 2,
   "length": "vua",
   "short": "Tội Lỗi Làm Đẹp Lòng Loài Người"
+ },
+ {
+  "id": "baxter/invaluable-price",
+  "file": "baxter-invaluable-price.txt",
+  "title": "Giá Trị Vô Giá Của Linh Hồn Bất Diệt",
+  "orig": "The Invaluable Price of an Immortal Soul",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "ngan",
+  "short": "Giá Trị Vô Giá Của Linh Hồn"
  }
 ]
