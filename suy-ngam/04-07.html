@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/deb/28.html#v10" style="color:inherit">Phục Truyền Luật Lệ Ký 28:10</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Mang danh Đức Giê-hô-va, tín hữu được Ngài bảo vệ nên không sợ loài người.</p>
     <div class="dev-body"><p>Vậy chúng ta không có lý do gì phải sợ họ. Điều đó sẽ tỏ ra một tinh thần hèn hạ, và là dấu hiệu của sự vô tín hơn là đức tin. Đức Chúa Trời có thể khiến chúng ta giống Ngài đến nỗi loài người buộc phải thấy rằng chúng ta xứng đáng mang danh Ngài, và thật sự thuộc về Đức Giê-hô-va thánh khiết. Ôi, ước gì chúng ta nhận được ân điển ấy, ân điển mà Chúa đang chờ để ban cho!</p><p>Hãy chắc chắn rằng những kẻ vô đạo có sự sợ hãi đối với các thánh thật. Họ ghét họ, nhưng họ cũng sợ họ. Ha-man đã run rẩy vì Mạc-đô-chê, ngay khi ông ta tìm cách hủy diệt người lành ấy. Thật ra, lòng ghét của họ thường phát sinh từ nỗi sợ mà họ quá kiêu ngạo để thú nhận. Chúng ta hãy bước đi trên đường chân lý và ngay thẳng, không chút run sợ. Nỗi sợ không dành cho chúng ta, mà dành cho những kẻ làm điều ác và chống lại Đức Chúa Trời vạn quân. Nếu quả thật danh của Đức Chúa Trời đời đời được gọi trên chúng ta, chúng ta được an toàn; vì, như xưa, một người La-mã chỉ cần nói Romanus sum, tôi là người La-mã, là có thể đòi sự bảo vệ của mọi đạo quân của đế quốc rộng lớn; thì mỗi người thuộc về Đức Chúa Trời đều có Đấng toàn năng làm Đấng bảo vệ, và Đức Chúa Trời thà làm trống Thiên Đàng khỏi các thiên sứ còn hơn để một thánh đồ không được bảo vệ. Hãy dạn dĩ hơn sư tử vì lẽ phải, vì Đức Chúa Trời ở cùng bạn.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Đời sống bạn có tỏ rõ đến nỗi người chung quanh nhận ra bạn thuộc về Đức Chúa Trời không, và bạn sẽ bước đi dạn dĩ vì lẽ phải ở chỗ nào trong tuần này?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì danh Ngài được gọi trên chúng con, và Ngài làm Đấng bảo vệ toàn năng cho những ai thuộc về Ngài. Xin biến đổi chúng con càng ngày càng giống Ngài, để người chung quanh nhìn vào đời sống chúng con mà nhận ra chúng con là con cái của Đức Giê-hô-va thánh khiết. Xin tha thứ cho chúng con vì chúng con đã hèn nhát và sợ loài người, dù Ngài là Đấng bảo vệ toàn năng của chúng con. Xin cho chúng con mạnh dạn như sư tử mà đứng về phía lẽ phải, vì Ngài luôn ở cùng chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/danh-duc-chua-troi.html">Danh Đức Chúa Trời</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/giao-ly/cau-101.html">Giáo Lý Câu 101</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/job/33.html#v27" style="color:inherit">Gióp 33:27, 28</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ai thật lòng xưng tội mình, Đức Chúa Trời sẽ giải cứu linh hồn khỏi huyệt và ban sự sống ánh sáng.</p>
     <div class="dev-body"><p>Đây là một lời chân thật, rút ra từ kinh nghiệm của một người của Đức Chúa Trời, và nó tương đương với một lời hứa. Điều Chúa đã làm, và đang làm, Ngài sẽ tiếp tục làm khi thế gian còn đứng. Chúa sẽ nhận vào lòng Ngài mọi kẻ đến với Ngài với sự xưng tội chân thành; thật ra, Ngài luôn trông ngóng để tìm thấy bất cứ ai đang khốn khổ vì lỗi lầm của mình.</p><p>Chúng ta há không thể đồng ý với ngôn ngữ được dùng tại đây sao? Chúng ta há đã không phạm tội, phạm tội cách cá nhân đến nỗi nói, &quot;Tôi đã phạm tội&quot;? Phạm tội cách cố ý, làm cong điều ngay thẳng? Phạm tội đến nỗi thấy rằng trong đó không có ích gì, mà chỉ là sự mất mát đời đời? Vậy chúng ta hãy đến với Đức Chúa Trời với sự nhận tội chân thật này. Ngài không đòi hỏi gì hơn. Chúng ta không thể làm gì ít hơn.</p><p>Chúng ta hãy nài xin lời hứa của Ngài trong danh Chúa Giê-xu. Ngài sẽ giải cứu chúng ta khỏi huyệt địa ngục đang há miệng chờ chúng ta; Ngài sẽ ban cho chúng ta sự sống và ánh sáng. Sao chúng ta phải tuyệt vọng? Sao chúng ta còn nghi ngờ? Chúa không nhạo báng những linh hồn khiêm nhường. Ngài nói là có ý. Kẻ có tội có thể được tha thứ. Những kẻ đáng bị xử tử có thể nhận được sự tha thứ nhưng không. Lạy Chúa, chúng con xưng tội, và chúng con cầu xin Ngài tha thứ!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có sẵn lòng thành thật xưng nhận trước mặt Đức Chúa Trời rằng mình đã phạm tội, đã làm sai lệch điều ngay thẳng, và tội lỗi ấy chỉ mang lại mất mát cho bạn — và bạn sẽ đến với Ngài với sự nhận tội ấy ngay hôm nay như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con xưng nhận rằng chúng con đã phạm tội cách cá nhân và cố ý, đã làm cong điều ngay thẳng, và trong tội lỗi ấy chúng con chẳng được ích gì mà chỉ thấy sự mất mát đời đời. Chúng con cảm tạ Ngài vì Ngài sẵn sàng đón nhận những ai đến với Ngài bằng một tấm lòng thật thà xưng tội. Xin giải cứu linh hồn chúng con khỏi sự hủy diệt đang chờ đợi kẻ có tội, và ban cho chúng con sự sống và ánh sáng. Xin cho chúng con đừng tuyệt vọng hay nghi ngờ, vì Ngài không bao giờ khinh dể một tấm lòng khiêm nhường đến với Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/an-nan.html">Ăn năn</a><a class="btn" href="/bach-khoa/xung-toi.html">Xưng tội</a><a class="btn" href="/bach-khoa/su-tha-thu.html">Sự tha thứ</a><a class="btn" href="/giao-ly/cau-85.html">Giáo Lý Câu 85</a><a class="btn" href="/giao-ly/cau-87.html">Giáo Lý Câu 87</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-nan.html">Ăn năn</a><a class="btn" href="/suy-ngam/chu-de/tha-thu.html">Tha thứ</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

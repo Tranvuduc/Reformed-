@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/os/1.html#v7" style="color:inherit">Ô-sê 1:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời thương xót cứu dân Ngài mà không cần cung gươm, để mọi vinh hiển thuộc về một mình Ngài.</p>
     <div class="dev-body"><p>Lời quý báu! Chính Giê-hô-va sẽ giải cứu dân Ngài trong sự vĩ đại của lòng thương xót Ngài, nhưng Ngài sẽ không làm điều đó bằng các phương tiện thông thường. Con người chậm trễ trong việc dâng cho Đức Chúa Trời sự vinh hiển xứng đáng với danh Ngài. Nếu họ ra trận với gươm và cung, và thắng trận, họ phải ngợi khen Đức Chúa Trời của mình; nhưng họ không làm vậy, mà bắt đầu tôn vinh cánh tay phải của mình, và khoe khoang về ngựa và kỵ binh của mình. Vì lý do này, Giê-hô-va của chúng ta thường quyết định cứu dân Ngài mà không dùng phương tiện thứ yếu, để mọi vinh dự đều thuộc về một mình Ngài.</p><p>Vậy thì, hỡi lòng ta, hãy chỉ nhìn lên Chúa, chứ không nhìn vào con người. Hãy mong thấy Đức Chúa Trời rõ ràng hơn khi không còn ai khác để nhìn. Nếu ta không có bạn, không có cố vấn, không có ai ở sau lưng, hãy đừng kém tự tin nếu ta có thể cảm nhận rằng chính Chúa ở về phía ta; phải, hãy vui mừng nếu Ngài ban chiến thắng mà không cần chiến trận, như bản văn dường như hàm ý. Tại sao ta lại xin ngựa và kỵ binh nếu chính Giê-hô-va đã thương xót ta, và giơ cánh tay Ngài lên để bênh vực ta? Tại sao ta cần cung hay gươm nếu Đức Chúa Trời sẽ cứu? Từ hôm nay trở đi và cho đến đời đời, hãy tin cậy, và đừng sợ hãi. A-men.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn đang trông cậy vào cung, gươm hay kỵ binh nào của loài người, thay vì tin cậy một mình Đức Chúa Trời sẽ cứu bạn?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài giải cứu dân Ngài bằng lòng thương xót của Ngài, chẳng cần đến vũ khí hay sức mạnh của loài người, để mọi vinh quang chỉ thuộc về Ngài mà thôi. Xin dạy chúng con chỉ hướng mắt về Ngài, thay vì đặt hy vọng nơi người đời hay nơi những phương tiện trần gian. Xin cho chúng con reo vui khi Ngài ban chiến thắng mà chẳng cần chúng con phải giao tranh, và xin giúp chúng con tin cậy Ngài mà không còn sợ hãi.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/bach-khoa/long-thuong-xot.html">Lòng thương xót</a><a class="btn" href="/bach-khoa/su-te-tri.html">Sự tể trị</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a><a class="btn" href="/giao-ly/cau-26.html">Giáo Lý Câu 26</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

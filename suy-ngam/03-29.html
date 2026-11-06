@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/act/18.html#v10" style="color:inherit">Công Vụ 18:10</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức tin không sợ loài người, vì Đức Chúa Trời ở cùng và kiềm chế kẻ chống đối.</p>
     <div class="dev-body"><p>Miễn là Chúa còn việc cho Phao-lô làm tại Cô-rinh-tô, cơn giận dữ của đám đông bị kiềm chế. Người Giu-đa chống đối và nói phạm; nhưng họ không thể ngăn việc rao giảng Phúc Âm, cũng không ngăn sự trở lại của những người nghe. Đức Chúa Trời có quyền trên những tâm trí hung bạo nhất. Ngài khiến cơn giận của loài người ca ngợi Ngài khi nó bùng phát, nhưng Ngài càng tỏ bày sự tốt lành của Ngài hơn khi Ngài kiềm chế nó; và Ngài có thể kiềm chế nó. &quot;Bởi sự oai nghiêm của cánh tay Ngài, chúng nó sẽ lặng như đá, cho đến chừng dân Ngài đi qua, hỡi Đức Giê-hô-va.&quot;</p><p>Vậy, đừng cảm thấy sợ loài người khi bạn biết mình đang làm bổn phận. Hãy đi thẳng tới, như Chúa Giê-xu đã làm, và những kẻ chống đối sẽ như cây sậy bị dập và như tim đèn còn khói. Nhiều lần loài người đã có cớ để sợ vì chính họ đã sợ; nhưng một đức tin không sợ hãi nơi Đức Chúa Trời quét sạch sự sợ hãi như quét mạng nhện trên đường của người khổng lồ. Không ai có thể hại chúng ta trừ khi Chúa cho phép. Đấng khiến chính ma quỷ phải chạy trốn bởi một lời, chắc chắn có thể kiểm soát các tay sai của ma quỷ. Có lẽ họ đã sợ bạn hơn bạn sợ họ. Vậy, hãy tiến lên, và nơi bạn trông đợi gặp kẻ thù, bạn sẽ tìm thấy bạn bè.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn đang làm bổn phận nào cho Chúa mà nỗi sợ loài người đang ngăn cản, và lời hứa Chúa ở cùng bạn sẽ giúp bạn tiến lên dạn dĩ ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài ở cùng chúng con, và chẳng ai có thể làm hại chúng con khi Ngài chưa cho phép điều đó xảy ra. Xin giúp chúng con đừng sợ loài người khi chúng con biết mình đang vâng theo điều Ngài giao, nhưng cứ bước thẳng tới như Chúa Giê-xu đã từng bước đi. Xin ban cho chúng con đức tin không run sợ, để nỗi sợ loài người tan đi trước sự hiện diện quyền năng của Ngài. Xin nhắc chúng con rằng quyền năng của Ngài vượt trên mọi kẻ chống đối, và Ngài nắm giữ mọi tâm trí hung bạo trong tay Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/bach-khoa/truyen-giao.html">Truyền giáo</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/truyen-giang.html">Truyền giảng</a></div></div>
   </article>
   <nav class="qnav">

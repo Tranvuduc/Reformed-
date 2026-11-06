@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/sep/3.html#v15" style="color:inherit">Sô-phô-ni 3:15</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đấng Christ đã đuổi Sa-tan khỏi quyền cai trị, tố cáo và cám dỗ, giải phóng dân Ngài hoàn toàn.</p>
     <div class="dev-body"><p>Sự đuổi đi biết bao! Sa-tan đã mất ngai trong bản chất chúng ta cũng như đã mất chỗ ngồi trên Thiên Đàng. Chúa Giê-xu, Chúa chúng ta, đã phá hủy quyền cai trị của kẻ thù trên chúng ta. Hắn có thể quấy rầy chúng ta, nhưng không thể đòi chúng ta là của hắn. Xiềng xích hắn không còn trên linh hồn chúng ta: Con đã làm chúng ta được tự do, và chúng ta thật được tự do.</p><p>Kẻ thù gian ác vẫn là kẻ tố cáo anh em; nhưng ngay cả khỏi vị trí này Chúa chúng ta đã đuổi hắn. Đấng Biện Hộ của chúng ta làm kẻ tố cáo chúng ta im lặng. Chúa quở trách kẻ thù chúng ta, và bênh vực sự nghiệp của linh hồn chúng ta, đến nỗi không hại nào đến từ mọi lời chê bai của ma quỷ.</p><p>Là kẻ cám dỗ, tà linh vẫn tấn công chúng ta, và lẻn vào tâm trí chúng ta; nhưng khỏi đó hắn cũng bị đuổi ra khỏi sự tiền nhiệm trước đây. Hắn quằn quại như con rắn, nhưng không thể cai trị như ông vua. Hắn ném vào những tư tưởng phạm thượng khi có cơ hội; nhưng thật nhẹ nhõm biết bao khi hắn bị bảo im lặng, và bị bắt lủi đi như con chó bị đánh! Lạy Chúa, xin làm điều này cho bất kỳ ai lúc này đang bị tiếng sủa của hắn quấy rầy và mệt mỏi. Xin đuổi kẻ thù của họ đi, và xin Ngài được vinh hiển trong mắt họ. Lạy Chúa, Ngài đã quật hắn xuống, xin Ngài đuổi hắn ra. Ôi, ước gì Ngài đuổi hắn khỏi thế gian!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Kẻ thù nào đang quấy rầy bạn bằng những lời tố cáo hay cám dỗ, và bạn sẽ cầu xin Chúa đuổi hắn đi như thế nào hôm nay?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì trong Đấng Christ, kẻ chống đối chúng con đã bị tước mất quyền trên chúng con. Xin xua tan khỏi tâm trí chúng con những lời buộc tội và những cám dỗ khiến chúng con mệt mỏi. Xin cho chúng con nghỉ ngơi trong sự tự do Ngài đã ban, và sống mỗi ngày như người thuộc về Ngài. Xin cho sự giải thoát này làm sáng danh Ngài giữa chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/bach-khoa/su-chuoc-toi.html">Sự chuộc tội</a><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/giao-ly/cau-26.html">Giáo Lý Câu 26</a><a class="btn" href="/giao-ly/cau-106.html">Giáo Lý Câu 106</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

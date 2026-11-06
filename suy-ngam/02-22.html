@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/1sam/17.html#v37" style="color:inherit">1 Sa-mu-ên 17:37</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời đã giải cứu trong quá khứ sẽ lại giải cứu, nên quá khứ nhân từ nuôi dưỡng đức tin hôm nay.</p>
     <div class="dev-body"><p>Đây không phải là một lời hứa nếu chỉ xét về lời lẽ, nhưng nó thật sự là như vậy về ý nghĩa; vì Đa-vít đã nói một lời mà Chúa đã xác nhận bằng cách làm cho nó thành sự thật. Ông đã lập luận từ những lần giải cứu trong quá khứ rằng ông sẽ nhận được sự giúp đỡ trong một nguy hiểm mới. Trong Chúa Giê-xu, mọi lời hứa đều là Có và A-men để Đức Chúa Trời được vinh hiển qua chúng ta, và vì vậy những cách Chúa đối xử trước đây với dân tin kính của Ngài sẽ được lặp lại.</p><p>Nào, hãy nhớ lại những sự nhân từ yêu thương trước đây của Chúa. Trước kia chúng ta không thể hy vọng được giải cứu bởi sức mình; nhưng Chúa đã giải cứu chúng ta. Ngài lại sẽ không cứu chúng ta sao? Chúng ta chắc chắn Ngài sẽ cứu. Như Đa-vít chạy ra đón kẻ thù, chúng ta cũng sẽ vậy. Chúa đã ở với chúng ta, Ngài đang ở với chúng ta, và Ngài đã phán, &quot;Ta sẽ không bao giờ lìa ngươi, cũng không bao giờ bỏ ngươi.&quot; Sao chúng ta run sợ? Quá khứ có phải là giấc mơ không? Hãy nghĩ về con gấu và con sư tử đã chết. Người Phi-li-tin này là ai? Thật, hắn không hoàn toàn giống, chẳng phải gấu cũng chẳng phải sư tử; nhưng Đức Chúa Trời vẫn vậy, và danh dự của Ngài cũng liên quan trong trường hợp này như trong trường hợp kia. Ngài đã không cứu chúng ta khỏi thú rừng để một gã khổng lồ giết chúng ta. Hãy mạnh dạn lên.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi nhớ lại một lần Chúa đã giải cứu bạn khỏi hoàn cảnh tưởng chừng không lối thoát, điều đó giúp bạn đối diện với thử thách lớn đang đứng trước mặt bạn hôm nay ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con cảm tạ Ngài vì những lần Ngài đã giải cứu chúng con trong quá khứ, khi sức riêng chúng con chẳng làm được gì. Xin giúp chúng con nhớ lại những sự nhân từ ấy mỗi khi nguy hiểm mới ập đến, thay vì run sợ như thể Ngài đã đổi thay. Xin cho chúng con mạnh dạn bước ra đón thử thách, tin rằng Đấng đã ở cùng chúng con hôm qua vẫn ở cùng chúng con hôm nay và sẽ không bao giờ lìa bỏ chúng con. Xin cho danh Ngài được vinh hiển qua sự giải cứu mà chúng con tin chắc Ngài sẽ làm.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a></div></div>
   </article>
   <nav class="qnav">

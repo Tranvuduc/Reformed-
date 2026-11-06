@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/nah/1.html#v12" style="color:inherit">Na-hum 1:12</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hoạn nạn có giới hạn do Đức Chúa Trời định; Ngài sẽ cất cây roi đi và biến đêm thành ngày.</p>
     <div class="dev-body"><p>Hoạn nạn có giới hạn. Đức Chúa Trời sai nó đến và Đức Chúa Trời cất nó đi. Bạn có thở dài, và nói &quot;Khi nào mới đến hồi kết?&quot; Hãy nhớ rằng nỗi buồn của chúng ta chắc chắn và cuối cùng sẽ chấm dứt khi đời sống trần gian nghèo nàn này qua đi. Hãy yên lặng chờ đợi, và kiên nhẫn chịu đựng ý muốn của Chúa cho đến khi Ngài đến.</p><p>Trong lúc này, Cha chúng ta trên trời cất cây roi đi khi ý định của Ngài trong việc dùng nó đã được hoàn thành đầy đủ. Khi Ngài đã quất tan sự dại dột của chúng ta, sẽ không còn đòn nào nữa. Hoặc, nếu hoạn nạn được sai đến để thử chúng ta, hầu các ân tứ của chúng ta tôn vinh Đức Chúa Trời, nó sẽ chấm dứt khi Chúa đã khiến chúng ta làm chứng về sự ngợi khen Ngài. Chúng ta không muốn hoạn nạn ra đi cho đến khi Đức Chúa Trời đã nhận được từ chúng ta mọi sự tôn vinh mà chúng ta có thể dâng lên Ngài.</p><p>Hôm nay có thể có &quot;một sự yên lặng lớn.&quot; Ai biết những đợt sóng dữ dội kia sẽ sớm nhường chỗ cho một biển thủy tinh, và những con chim biển đậu trên những đợt sóng êm đềm? Sau cơn gian truân dài, cái đe đã được treo lên, và lúa mì nghỉ trong kho thóc. Trước khi nhiều giờ trôi qua, chúng ta có thể vui mừng y như bây giờ chúng ta đang buồn rầu. Đối với Chúa, việc biến đêm thành ngày không khó. Đấng sai mây đến cũng dễ dàng làm quang đãng bầu trời. Hãy vui lên. Phía trước tốt hơn. Hãy hát Ha-lê-lu-gia bằng sự mong đợi.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Hoạn nạn nào đang khiến bạn thở dài tự hỏi bao giờ mới chấm dứt, và bạn có sẵn lòng kiên nhẫn chờ đợi cho đến khi Ngài cất cây roi đi không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì hoạn nạn của chúng con có giới hạn, và chính Ngài là Đấng sai nó đến thì cũng là Đấng cất nó đi. Khi chúng con buồn rầu và không thấy lối ra, xin Ngài giúp chúng con lặng thinh trông đợi Ngài và vững lòng vâng theo ý Ngài cho đến khi Ngài đến. Xin Ngài hoàn thành mọi ý định tốt lành của Ngài trong cơn thử thách này, để chúng con dâng lên Ngài mọi sự tôn vinh mà chúng con có thể dâng. Chúng con tin rằng phía trước sẽ tốt hơn, và Đấng sai mây đến cũng sẽ làm quang đãng bầu trời cho chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-ky-luat-cua-chua.html">Sự kỷ luật của Chúa</a><a class="btn" href="/bach-khoa/hy-vong.html">Hy vọng</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a></div></div>
   </article>
   <nav class="qnav">

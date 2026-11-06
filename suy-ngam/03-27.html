@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/jac/4.html#v8" style="color:inherit">Gia-cơ 4:8</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hãy đến gần Đức Chúa Trời, Ngài sẽ đến gần và ban phước cho bạn.</p>
     <div class="dev-body"><p>Chúng ta càng đến gần Đức Chúa Trời, Ngài sẽ càng nhân từ tỏ mình ra cho chúng ta. Khi đứa con hoang đàng đến với cha mình, cha nó chạy ra đón nó. Khi con chim bồ câu lang thang trở về tàu, Nô-ê đưa tay ra kéo nó vào với mình. Khi người vợ dịu dàng tìm sự gần gũi của chồng, chàng đến với nàng trên đôi cánh tình yêu. Nào, hỡi bạn yêu dấu, chúng ta hãy đến gần Đức Chúa Trời là Đấng đang nhân từ chờ đợi chúng ta, phải, đến đón chúng ta.</p><p>Bạn có bao giờ để ý đoạn trong Ê-sai 58:9 không? Ở đó Chúa dường như đặt chính Ngài trong tầm tay của dân Ngài, phán với họ: &quot;Có Ta đây.&quot; Như muốn nói -- &quot;Ngươi có gì muốn nói với Ta? Ta có thể làm gì cho ngươi? Ta đang chờ để ban phước cho ngươi. Sao chúng ta còn ngần ngại đến gần?&quot; Đức Chúa Trời ở gần để tha thứ, để ban phước, để an ủi, để giúp đỡ, để làm cho sống lại, để giải cứu. Xin cho điều chính yếu với chúng ta là đến gần Đức Chúa Trời. Điều này xong, mọi sự xong. Nếu chúng ta đến gần người khác, họ có thể chẳng bao lâu chán chúng ta và bỏ chúng ta; nhưng nếu chúng ta tìm kiếm một mình Chúa, tâm trí Ngài sẽ không thay đổi, nhưng Ngài sẽ tiếp tục đến gần hơn và gần hơn với chúng ta bởi sự thông công đầy trọn và vui mừng hơn.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Điều gì đang khiến bạn ngần ngại đến gần Chúa — tội lỗi, bận rộn, hay cảm giác xa cách — và hôm nay bạn sẽ bước một bước cụ thể nào để đến gần Ngài?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài nhân từ chờ đợi chúng con quay về, và khi chúng con bước tới gần Ngài thì Ngài cũng bước tới gần chúng con. Xin tha thứ cho chúng con vì chúng con đã chần chừ không đến với Ngài, dù Ngài luôn sẵn sàng tha thứ, ban phước và an ủi. Xin giúp chúng con chỉ tìm kiếm một mình Ngài, để mối tương giao với Ngài ngày càng sâu đậm và đem lại niềm vui thật cho lòng chúng con. Xin cho việc đến gần Đức Chúa Trời trở thành điều quan trọng nhất trong ngày của chúng con, vì khi chúng con có Ngài thì chúng con có tất cả.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-thong-cong.html">Sự thông công</a><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/su-hien-dien-cua-duc-chua-troi.html">Sự hiện diện của Đức Chúa Trời</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/prov/10.html#v27" style="color:inherit">Châm Ngôn 10:27</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Sự kính sợ Chúa gia thêm ngày tháng; sống hay chết, tín hữu đều thuộc về Chúa.</p>
     <div class="dev-body"><p>Không còn nghi ngờ gì về điều đó. Sự kính sợ Chúa dẫn đến thói quen nhân đức, và những thói quen ấy ngăn sự hoang phí đời sống do tội lỗi và thói xấu gây ra. Sự nghỉ ngơi thánh khiết nảy ra từ đức tin nơi Chúa Giê-xu cũng giúp người ta rất nhiều khi đau ốm. Mọi thầy thuốc đều vui khi có bệnh nhân mà tâm trí hoàn toàn yên ổn. Lo lắng giết người, nhưng sự tin cậy nơi Đức Chúa Trời như thuốc chữa lành.</p><p>Vì vậy chúng ta có mọi sự sắp đặt cho đời sống dài lâu, và nếu điều đó thật tốt cho chúng ta, chúng ta sẽ thấy tuổi già tốt đẹp, và đến mồ mả như bó lúa trong mùa nó. Chúng ta đừng vội nghĩ mình sẽ chết ngay khi vừa đau ngón tay, mà hãy trông mong rằng mình có thể phải tiếp tục làm việc qua một quãng ngày khá dài.</p><p>Và nếu chúng ta sớm được gọi lên cõi cao hơn thì sao? Chắc chắn sẽ chẳng có gì phải tiếc trong lời gọi ấy, mà mọi sự đều đáng vui mừng. Sống hay chết chúng ta đều thuộc về Chúa. Nếu chúng ta sống, Chúa Giê-xu sẽ ở cùng chúng ta; nếu chúng ta chết, chúng ta sẽ ở cùng Chúa Giê-xu.</p><p>Sự kéo dài đời sống chân thật nhất là sống khi chúng ta sống, không hoang phí thì giờ, mà dùng mỗi giờ cho những mục đích cao nhất. Hôm nay cũng vậy.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Hôm nay con có đang dùng thời gian Chúa ban cho những điều thật sự quan trọng, hay con đang để nó trôi qua một cách vô ích?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con cảm ơn Ngài vì lòng kính sợ Ngài dẫn chúng con vào nếp sống lành mạnh và bình an thật. Xin dạy chúng con đừng để nỗi lo về bệnh tật hay cái chết chiếm lấy tâm trí, nhưng hãy sống từng ngày với lòng biết ơn. Xin cho chúng con dùng thời gian Ngài ban một cách khôn ngoan, vì mỗi giờ đều quý giá trước mặt Ngài. Chúng con tin rằng dù sống hay qua đời, chúng con vẫn thuộc về Ngài, và xin cho niềm tin ấy khiến hôm nay của chúng con thêm ý nghĩa.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-song-doi-doi.html">Sự sống đời đời</a><a class="btn" href="/bach-khoa/su-vang-loi.html">Sự vâng lời</a><a class="btn" href="/giao-ly/cau-1.html">Giáo Lý Câu 1</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a></div></div>
   </article>
   <nav class="qnav">

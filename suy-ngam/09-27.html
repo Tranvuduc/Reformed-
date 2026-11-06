@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/18.html#v28" style="color:inherit">Thi Thiên 18:28</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời thắp sáng ngọn đèn linh hồn trong bóng tối và gìn giữ ánh sáng ấy mãi mãi.</p>
     <div class="dev-body"><p>Có thể linh hồn tôi ngồi trong bóng tối; và nếu điều này thuộc loại thuộc linh, không quyền năng nào của con người có thể mang ánh sáng đến cho tôi. Phước cho Đức Chúa Trời! Ngài có thể soi sáng bóng tối của tôi, và lập tức thắp sáng ngọn đèn của tôi. Dù tôi có bị bao quanh bởi &quot;bóng tối có thể sờ thấy,&quot; Ngài vẫn có thể phá tan màn đêm, và lập tức làm cho xung quanh tôi sáng rực.</p><p>Sự thương xót là, nếu Ngài thắp sáng ngọn đèn, không ai có thể thổi tắt nó, nó cũng sẽ không tắt vì thiếu nhiên liệu, cũng không cháy hết vì thời gian trôi qua. Những ngọn đèn mà Chúa thắp lên lúc ban đầu vẫn đang chiếu sáng. Đèn của Chúa có thể cần được khêu, nhưng Ngài không dập tắt chúng.</p><p>Vậy thì, tôi hãy như chim họa mi, hát trong bóng tối. Sự mong đợi sẽ cung cấp âm nhạc cho tôi, và hy vọng sẽ cất lên giai điệu. Chẳng bao lâu tôi sẽ vui mừng trong ngọn đèn do Đức Chúa Trời thắp. Tôi đang uể oải và ảm đạm lúc này. Có lẽ là thời tiết, hay thân thể yếu đuối, hay sự bất ngờ của một hoạn nạn đột ngột; nhưng bất cứ điều gì đã tạo nên bóng tối, chỉ một mình Đức Chúa Trời sẽ mang ánh sáng đến. Mắt tôi chỉ hướng về Ngài. Chẳng bao lâu tôi sẽ có những ngọn đèn của Chúa chiếu sáng quanh tôi; và, xa hơn nữa, trong thời điểm tốt lành của Ngài, tôi sẽ ở nơi họ không cần đèn, cũng không cần ánh sáng mặt trời. Ha-lê-lu-gia!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi linh hồn bạn đang ngồi trong bóng tối — vì thời tiết, thân thể yếu đuối hay một hoạn nạn bất ngờ — bạn có hướng mắt về Chúa để Ngài thắp sáng ngọn đèn bạn, hay bạn đang cố tự tìm ánh sáng từ nơi khác?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con cảm ơn Ngài vì Ngài là Đấng có thể đem ánh sáng đến ngay cả khi bóng tối dường như bao phủ mọi phía quanh chúng con. Xin cho chúng con tin rằng ngọn đèn Ngài đã thắp trong lòng chúng con sẽ không bị dập tắt, dù gió đời có thổi mạnh đến đâu. Khi chúng con cảm thấy uể oải và ảm đạm, xin dạy chúng con cất tiếng hát trong đêm tối, nuôi dưỡng hy vọng bằng sự mong đợi nơi Ngài. Xin cho chúng con sớm được vui mừng trong ánh sáng Ngài ban, và cuối cùng được ở nơi ánh sáng Ngài chiếu soi mãi mãi, không còn cần đến đèn hay mặt trời nữa.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/anh-sang.html">Ánh sáng</a><a class="btn" href="/bach-khoa/hy-vong.html">Hy vọng</a><a class="btn" href="/bach-khoa/yen-ui.html">Yên ủi</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a></div></div>
   </article>
   <nav class="qnav">

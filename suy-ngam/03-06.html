@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/os/14.html#v3" style="color:inherit">Ô-sê 14:3</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Kẻ mồ côi cha tìm được sự thương xót trong Đức Chúa Trời, Đấng trở nên Cha và Đấng bảo hộ mình.</p>
     <div class="dev-body"><p>Đây là một lý do tuyệt vời để vứt bỏ mọi sự tin cậy khác và chỉ nương dựa nơi Chúa. Khi một đứa trẻ bị mất người bảo vệ tự nhiên của mình, Đức Chúa Trời của chúng ta bước vào và trở thành Đấng bảo hộ nó: cũng vậy khi một người đã mất mọi đối tượng để nương cậy, người ấy có thể phó mình cho Đức Chúa Trời hằng sống và tìm thấy trong Ngài mọi điều mình cần. Những kẻ mồ côi được phó thác cho tình cha của Đức Chúa Trời, và Ngài chu cấp cho họ. Người viết những trang này biết thế nào là nương dựa trên cánh tay trần của Đức Chúa Trời, và ông sẵn lòng làm chứng rằng không có sự tin cậy nào được các sự kiện bảo đảm chắc chắn như vậy, hay chắc chắn được kết quả đền đáp như vậy, bằng sự tin cậy nơi Đức Chúa Trời vô hình nhưng hằng sống.</p><p>Một số trẻ em có cha nhưng chẳng được lợi gì hơn vì có cha, nhưng kẻ mồ côi cha mà có Đức Chúa Trời thì giàu có. Thà có Đức Chúa Trời mà không có bạn bè nào khác còn hơn có tất cả những người bảo trợ trên đất mà không có Đức Chúa Trời. Bị tước mất tạo vật thì đau đớn, nhưng miễn là Chúa còn là nguồn thương xót cho chúng ta, chúng ta không thật sự mồ côi. Xin cho những trẻ mồ côi cha nài xin lời ân huệ cho buổi sáng này, và xin cho tất cả những ai đã bị tước mất sự nâng đỡ hữu hình cũng làm như vậy. Lạy Chúa, xin cho con tìm được sự thương xót trong Ngài! Con càng thiếu thốn và bất lực, con càng vững tin kêu cầu tấm lòng yêu thương của Ngài.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn đang nương cậy vào người hay điều gì mà nếu mất đi, bạn sẽ cảm thấy như mồ côi, và bạn sẽ phó thác mình cho Đấng hằng sống, Đấng trở thành Đấng bảo hộ của kẻ mồ côi, như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài mở lòng thương xót đón nhận những đứa trẻ mất cha, và Ngài bước vào làm Đấng bảo hộ khi mọi sự nâng đỡ hữu hình đã mất. Xin giúp chúng con buông bỏ hết mọi chỗ dựa khác và chỉ đặt lòng tin nơi Ngài, Đấng vô hình nhưng hằng sống. Xin an ủi những trẻ mồ côi và mọi người đã mất đi đấng bảo vệ của mình, để họ biết rằng được Ngài ở cùng thì giàu có hơn mọi sự bảo trợ của đời này, dù quanh họ chẳng còn bạn bè nào. Xin cho chúng con, càng lúc thiếu thốn và bất lực, càng vững lòng kêu cầu lòng yêu thương của Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/long-thuong-xot.html">Lòng thương xót</a><a class="btn" href="/bach-khoa/su-nhan-lam-con-nuoi.html">Sự nhận làm con nuôi</a><a class="btn" href="/giao-ly/cau-34.html">Giáo Lý Câu 34</a><a class="btn" href="/giao-ly/cau-20.html">Giáo Lý Câu 20</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a></div></div>
   </article>
   <nav class="qnav">

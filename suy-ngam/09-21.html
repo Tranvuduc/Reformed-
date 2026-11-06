@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/rom/5.html#v3" style="color:inherit">Rô-ma 5:3</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hoạn nạn nhờ ân điển sinh ra sự nhẫn nại và làm phước cho linh hồn tín hữu.</p>
     <div class="dev-body"><p>Đây là một lời hứa về bản chất nếu không phải về hình thức. Chúng ta cần sự nhẫn nại, và ở đây chúng ta thấy cách để có được nó. Chỉ bằng cách chịu đựng chúng ta mới học chịu đựng, cũng như bằng cách bơi người ta học bơi. Bạn không thể học nghệ thuật ấy trên đất khô, cũng không thể học nhẫn nại mà không có hoạn nạn. Chịu hoạn nạn để đạt được sự bình thản tâm trí tuyệt đẹp ấy, lặng lẽ thuận phục mọi ý muốn của Đức Chúa Trời, há chẳng đáng sao?</p><p>Nhưng bản văn của chúng ta trình bày một sự thật kỳ lạ, không theo tự nhiên, mà là siêu nhiên. Hoạn nạn tự nó sinh ra tính cáu kỉnh, vô tín, và phản nghịch. Chỉ bằng thuật giả kim thánh của ân điển nó mới được làm cho sinh ra sự nhẫn nại trong chúng ta. Chúng ta không đập lúa để rải bụi: nhưng cái vồ đập lúa của hoạn nạn làm điều này trên sân đập lúa của Đức Chúa Trời. Chúng ta không quăng quật một người để cho anh ta nghỉ ngơi, nhưng Chúa đối xử với con cái Ngài như thế. Thật vậy, đây không phải cách của con người, mà rất tôn vinh Đức Chúa Trời toàn tri của chúng ta.</p><p>Ôi, ước gì có ân điển để những thử thách của tôi ban phước cho tôi! Tại sao tôi lại muốn ngăn chặn công việc đầy ân điển của chúng? Lạy Chúa, con xin Ngài cất đi hoạn nạn của con, nhưng con nài xin Ngài gấp mười lần cất đi tính thiếu nhẫn nại của con. Lạy Chúa Giê-xu quý báu, với thập tự giá của Ngài, xin khắc hình ảnh sự nhẫn nại của Ngài trên lòng con.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khó khăn nào đang đè nặng trên bạn lúc này, và bạn có thể nhìn nó như một trường học mà Chúa dùng để tập cho bạn sự kiên nhẫn, thay vì chỉ mong nó biến mất thật nhanh không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa Giê-xu, chúng con cảm ơn Ngài vì Ngài không để những ngày gian nan của chúng con trôi qua vô ích, nhưng Ngài dùng chính những ngày ấy để uốn nắn chúng con nên kiên nhẫn hơn. Xin tha thứ cho chúng con vì chúng con thường chỉ cầu xin cho hoàn cảnh đổi thay, mà ít khi xin Ngài đổi thay tấm lòng nóng nảy của chúng con. Xin Ngài in dấu sự nhẫn nhục của Ngài lên chúng con, để chúng con học cách lặng lẽ thuận phục ý muốn của Cha trong mọi sự. Xin cho chúng con đón nhận ngày hôm nay, dù khó khăn, như một cơ hội để lớn lên trong ân điển Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-ky-luat-cua-chua.html">Sự kỷ luật của Chúa</a><a class="btn" href="/bach-khoa/ben-do.html">Bền đỗ</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

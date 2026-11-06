@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/2roi/6.html#v16" style="color:inherit">2 Các Vua 6:16</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức tin thấy đạo quân Đức Chúa Trời đông hơn kẻ thù, nên tín hữu không sợ hãi mà vững lòng bước đi.</p>
     <div class="dev-body"><p>Ngựa và xe, và một đạo quân lớn, vây kín nhà tiên tri ở Đô-than. Người đầy tớ trẻ của ông hoảng sợ. Làm sao họ thoát khỏi một đoàn quân đông đảo như vậy? Nhưng nhà tiên tri có đôi mắt mà đầy tớ ông không có, và ông có thể thấy một đạo quân lớn hơn với vũ khí vượt trội hơn nhiều đang canh giữ ông khỏi mọi nguy hại. Ngựa lửa mạnh hơn ngựa thịt, và xe lửa tốt hơn nhiều so với xe sắt.</p><p>Ngày nay cũng vậy. Những kẻ thù của lẽ thật đông đảo, có ảnh hưởng, có học thức, và xảo quyệt; và lẽ thật chịu thiệt thòi dưới tay chúng; nhưng người của Đức Chúa Trời không có lý do gì để run sợ. Các cơ quan, hữu hình và vô hình, thuộc loại mạnh mẽ nhất, đang đứng về phía sự công chính. Đức Chúa Trời có những đạo quân mai phục sẽ bày tỏ mình trong giờ cần thiết. Các lực lượng đứng về phía điều thiện và lẽ thật vượt xa quyền lực của điều ác. Vậy nên, hãy giữ vững tinh thần, và bước đi với dáng điệu của những người sở hữu một bí mật khích lệ, đã nâng họ lên trên mọi sợ hãi. Chúng ta ở phía chiến thắng. Trận chiến có thể khốc liệt, nhưng chúng ta biết nó sẽ kết thúc ra sao. Đức tin, có Đức Chúa Trời ở cùng, đang ở trong đa số rõ ràng: &quot;Những kẻ ở với chúng ta đông hơn những kẻ ở với chúng nó.&quot;</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi nhìn quanh thấy những người chống lại lẽ thật dường như rất mạnh, bạn dựa vào điều gì để không run sợ?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì Ngài luôn ở cùng dân Ngài, ngay cả khi chúng con không thấy Ngài. Xin mở mắt chúng con để nhận ra sự bảo vệ vô hình Ngài dành cho chúng con mỗi ngày. Khi đối diện với những thế lực chống lại lẽ thật, xin giúp chúng con vững lòng và không run sợ. Xin cho chúng con bước đi trong sự bình an của người biết mình thuộc về phía chiến thắng của Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/su-te-tri.html">Sự tể trị</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a><a class="btn" href="/giao-ly/cau-26.html">Giáo Lý Câu 26</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a></div></div>
   </article>
   <nav class="qnav">

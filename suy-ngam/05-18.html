@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/joel/2.html#v25" style="color:inherit">Giô-ên 2:25</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúa đền bù những năm tháng hoang phí đã mất; ân điển Ngài biến mất mát thành sốt sắng và khiêm nhường.</p>
     <div class="dev-body"><p>Phải, những năm tháng hoang phí mà chúng ta thở dài tiếc nuối sẽ được đền bù cho chúng ta. Đức Chúa Trời có thể ban cho chúng ta ân điển dư dật đến nỗi chúng ta sẽ chen vào những ngày còn lại của đời mình bao nhiêu sự phục vụ đủ để bù đắp phần nào cho những năm tháng chưa được tái sinh mà chúng ta than khóc trong sự ăn năn khiêm nhường.</p><p>Những con cào cào của sự lui đi, sự ham mê thế gian, sự hâm hẩm, giờ đây chúng ta xem như một tai họa khủng khiếp. Ôi, ước gì chúng chưa bao giờ đến gần chúng ta! Chúa trong lòng thương xót đã cất chúng đi, và giờ đây chúng ta đầy lòng sốt sắng phục vụ Ngài. Phước cho danh Ngài, chúng ta có thể gặt những mùa màng ân điển thuộc linh đến nỗi sự cằn cỗi trước kia của chúng ta biến mất. Nhờ ân điển giàu có, chúng ta có thể tận dụng kinh nghiệm cay đắng của mình, và dùng nó để cảnh báo người khác. Chúng ta có thể trở nên bén rễ hơn trong sự khiêm nhường, sự nương dựa như trẻ thơ, và tâm linh ăn năn, bởi cớ những thiếu sót trước kia của mình. Nếu chúng ta tỉnh thức hơn, sốt sắng hơn, và mềm mại hơn, chúng ta sẽ được lợi từ những mất mát đáng tiếc của mình. Những năm tháng hoang phí, bởi một phép lạ của tình yêu, có thể được đền bù. Điều đó có vẻ như một ân huệ quá lớn sao? Chúng ta hãy tin nhận điều đó, và sống vì điều đó, và chúng ta còn có thể thực hiện được nó, cũng như Phi-e-rơ đã trở nên một người hữu dụng hơn sau khi sự tự phụ của ông được chữa lành bởi sự yếu đuối đã bị phơi bày của ông. Lạy Chúa, xin giúp chúng con bởi ân điển Ngài.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Những năm tháng nào trong đời bạn đã bị cào cào ăn mất, và bạn sẽ tin nhận lời hứa đền bù của Chúa bằng cách phục vụ sốt sắng hơn trong những ngày còn lại như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì những năm tháng đã mất của chúng con không phải là dấu chấm hết, vì Ngài có thể dùng ân điển dư dật để bù đắp cho chúng con trong thời gian còn lại. Xin giúp chúng con biến những bài học cay đắng đã qua thành lời cảnh tỉnh cho người khác, và trở nên khiêm nhường hơn, biết nương cậy Ngài như trẻ thơ. Xin cất khỏi lòng chúng con sự nguội lạnh và lòng ham mê những điều chóng qua, và thắp lại trong chúng con lòng nhiệt thành trong việc phục vụ Ngài. Chúng con tin rằng tình yêu Ngài có thể biến mất mát thành ích lợi, như Ngài đã làm cho Phi-e-rơ sau khi ông vấp ngã.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/an-dien.html">Ân điển</a><a class="btn" href="/bach-khoa/an-nan.html">Ăn năn</a><a class="btn" href="/bach-khoa/hy-vong.html">Hy vọng</a><a class="btn" href="/giao-ly/cau-87.html">Giáo Lý Câu 87</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/an-nan.html">Ăn năn</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

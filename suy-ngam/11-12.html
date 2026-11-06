@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/jer/31.html#v14" style="color:inherit">Giê-rê-mi 31:14</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Những linh hồn được nên thánh thỏa lòng với sự nhân từ của Đức Chúa Trời, Đấng là cơ nghiệp họ.</p>
     <div class="dev-body"><p>Hãy chú ý chữ &quot;của ta&quot; xuất hiện hai lần: &quot;Dân ta sẽ được thỏa lòng về sự nhân từ của ta.&quot;</p><p>Loại người thỏa lòng với Đức Chúa Trời được đánh dấu là dân riêng của Đức Chúa Trời. Ngài vui lòng với họ, vì họ vui lòng với Ngài. Họ gọi Ngài là Đức Chúa Trời của họ, và Ngài gọi họ là dân của Ngài; Ngài thỏa lòng nhận họ làm cơ nghiệp, và họ thỏa lòng với Ngài làm cơ nghiệp của họ. Có một sự tương giao vui mừng lẫn nhau giữa Y-sơ-ra-ên của Đức Chúa Trời và Đức Chúa Trời của Y-sơ-ra-ên.</p><p>Những người này thỏa lòng. Đây là một điều lớn lao. Rất ít con cái loài người từng thỏa lòng, dù số phận họ thế nào; họ đã nuốt con đỉa, và nó luôn kêu: &quot;Cho! Cho!&quot; Chỉ những linh hồn được nên thánh mới là những linh hồn thỏa lòng. Chính Đức Chúa Trời phải vừa cải hóa chúng ta vừa làm chúng ta thỏa lòng.</p><p>Chẳng lạ gì dân của Chúa thỏa lòng với sự nhân từ của Chúa mình. Này là sự nhân từ không pha trộn, sự rộng rãi không giới hạn, sự thương xót không quở trách, tình yêu không thay đổi, ơn huệ không dè dặt. Nếu sự nhân từ của Đức Chúa Trời không làm chúng ta thỏa lòng, thì điều gì sẽ? Sao! Chúng ta vẫn còn than vãn ư? Chắc chắn có một ước muốn sai lầm bên trong nếu đó là điều mà sự nhân từ của Đức Chúa Trời không thỏa mãn được.</p><p>Lạy Chúa, con thỏa lòng. Ngợi khen danh Ngài.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Điều gì trong lòng bạn vẫn kêu “Cho! Cho!” như con đỉa chẳng bao giờ thỏa, và bạn cần xin Chúa khiến bạn thỏa lòng nơi lòng nhân từ Ngài như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì lòng nhân từ của Ngài thật thuần khiết, rộng lớn không giới hạn, đầy thương xót mà không hề quở trách, yêu thương không hề đổi thay và ban cho không hề dè dặt. Xin Ngài tha thứ cho chúng con vì chúng con vẫn còn than phiền dù đã nhận lãnh thật nhiều từ Ngài, và xin Ngài vừa biến đổi chúng con vừa khiến chúng con thỏa lòng khi có Ngài làm cơ nghiệp của mình. Xin Ngài giúp chúng con nhận ra rằng chỉ những tâm hồn được nên thánh mới thật sự thỏa lòng, và chính Ngài phải thực hiện công việc ấy trong chúng con. Chúng con xin thưa cùng Ngài rằng lòng chúng con đã thỏa nguyện, và chúng con dâng lời ngợi khen danh Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/bach-khoa/su-vui-mung.html">Sự vui mừng</a><a class="btn" href="/bach-khoa/long-thuong-xot.html">Lòng thương xót</a><a class="btn" href="/giao-ly/cau-1.html">Giáo Lý Câu 1</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a></div></div>
   </article>
   <nav class="qnav">

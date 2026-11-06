@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/jer/31.html#v12" style="color:inherit">Giê-rê-mi 31:12</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Thánh Linh tưới mát linh hồn như vườn được tưới, khiến tín hữu sinh hoa quả dồi dào cho Chúa.</p>
     <div class="dev-body"><p>Ôi, được có linh hồn mình dưới sự canh tác thiên thượng; không còn là đồng hoang, mà là vườn của Chúa! Được rào khỏi đất hoang, được tường ân điển bao quanh, được trồng bởi sự dạy dỗ, được thăm viếng bởi tình yêu thương, được làm cỏ bởi kỷ luật thiên thượng, và được canh giữ bởi quyền năng thiên thượng, linh hồn được ơn của mình được chuẩn bị để sinh quả cho Chúa.</p><p>Nhưng một khu vườn có thể khô héo vì thiếu nước, và khi ấy mọi cây cỏ đều suy tàn, và sắp chết. Ôi linh hồn ta, điều này sẽ sớm xảy ra biết bao nếu Chúa lìa bỏ ngươi! Ở phương Đông, một khu vườn không có nước sớm không còn là vườn nữa: không gì có thể đến chỗ hoàn hảo, lớn lên, hay thậm chí sống. Khi việc tưới tiêu được duy trì, kết quả thật đáng yêu. Ôi, được có linh hồn mình được Đức Thánh Linh tưới đều đặn -- mọi phần của vườn đều có dòng suối riêng; dồi dào -- sự tươi mát đầy đủ đến với mọi cây và cây cỏ, dù theo bản tính nó khát đến đâu; liên tục -- mỗi giờ mang đến không chỉ sức nóng, mà cả sự tươi mát; khôn ngoan -- mỗi cây nhận đúng những gì nó cần. Trong một khu vườn bạn có thể thấy bởi màu xanh nơi nước chảy, và bạn có thể sớm nhận ra khi Đức Thánh Linh của Đức Chúa Trời đến.</p><p>Ôi Chúa, xin tưới con hôm nay, và khiến con sinh cho Ngài một phần thưởng đầy đủ, vì cớ Chúa Giê-xu. A-men.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có chỗ nào trong đời sống bạn đang héo úa vì lâu rồi không được tưới mát, và hôm nay bạn sẽ xin Đức Thánh Linh đến với chỗ ấy ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài đã biến đời sống chúng con từ một mảnh đất khô cằn thành khu vườn được Ngài chăm sóc. Xin Đức Thánh Linh đến thăm chúng con hôm nay với sự tươi mát đầy đủ và không ngừng, để từng góc khuất trong lòng chúng con đều được thấm nhuần. Xin cho đời sống chúng con đơm hoa kết trái làm vui lòng Ngài, nhờ Chúa Giê-xu.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/duc-thanh-linh.html">Đức Thánh Linh</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/bach-khoa/su-truong-thanh-thuoc-linh.html">Sự trưởng thành thuộc linh</a><a class="btn" href="/giao-ly/cau-30.html">Giáo Lý Câu 30</a><a class="btn" href="/giao-ly/cau-35.html">Giáo Lý Câu 35</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

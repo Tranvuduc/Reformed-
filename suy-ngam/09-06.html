@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/27.html#v14" style="color:inherit">Thi Thiên 27:14</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hãy chờ đợi Đức Giê-hô-va; Ngài sẽ làm cho lòng tín hữu mạnh mẽ, bình tĩnh trong bão tố và vui mừng trong sầu khổ.</p>
     <div class="dev-body"><p>Chờ đợi! Chờ đợi! Hãy để sự chờ đợi của bạn ở nơi Chúa! Ngài đáng để chờ đợi. Ngài không bao giờ làm thất vọng linh hồn biết chờ đợi.</p><p>Trong lúc chờ đợi, hãy giữ vững tinh thần. Hãy mong đợi một sự giải cứu lớn lao, và sẵn sàng ngợi khen Đức Chúa Trời vì điều đó.</p><p>Lời hứa nên làm bạn phấn khởi nằm ở giữa câu — &quot;Ngài sẽ làm cho lòng ngươi mạnh mẽ.&quot; Điều này đi thẳng đến chỗ bạn cần sự giúp đỡ. Nếu lòng được khỏe mạnh, mọi phần còn lại của hệ thống sẽ hoạt động tốt. Lòng cần sự bình tĩnh và vui vẻ; và cả hai sẽ đến nếu nó được mạnh mẽ. Một tấm lòng mạnh mẽ được nghỉ ngơi và vui mừng, và đập sức mạnh vào toàn bộ con người.</p><p>Không ai khác có thể chạm tới chiếc bình bí mật của sự sống, là tấm lòng, để đổ sức mạnh vào đó. Chỉ Đấng đã tạo nên nó mới có thể làm cho nó mạnh mẽ. Đức Chúa Trời đầy dẫy sức mạnh, và vì thế Ngài có thể truyền nó cho những ai cần. Ôi, hãy dũng cảm; vì Chúa sẽ truyền sức mạnh của Ngài cho bạn, và bạn sẽ bình tĩnh trong bão tố, và vui mừng trong sầu khổ.</p><p>Người viết những dòng này có thể viết như Đa-vít đã viết — &quot;Hãy chờ đợi Đức Giê-hô-va, ta nói lại.&quot; Tôi thật sự nói như vậy. Tôi biết qua kinh nghiệm lâu dài và sâu sắc rằng chờ đợi Chúa là tốt cho tôi.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Tấm lòng bạn đang cần được làm cho mạnh mẽ trong điều gì, và bạn có sẵn lòng chờ đợi Đức Chúa Trời thay vì vội vàng tìm lối thoát riêng cho mình không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì chỉ có Ngài, Đấng đã dựng nên tấm lòng chúng con, mới có thể rót sức mạnh vào nơi sâu kín ấy. Xin ban cho lòng chúng con sự vững vàng hôm nay, để chúng con giữ được sự bình an giữa giông tố và niềm vui giữa buồn khổ. Xin dạy chúng con kiên nhẫn trông đợi Ngài, vì Ngài chẳng bao giờ để những ai trông đợi Ngài phải thất vọng.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/binh-an.html">Bình an</a><a class="btn" href="/bach-khoa/ben-do.html">Bền đỗ</a><a class="btn" href="/giao-ly/cau-86.html">Giáo Lý Câu 86</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

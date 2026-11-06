@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/111.html#v5" style="color:inherit">Thi Thiên 111:5</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời hằng nhớ giao ước Ngài và nuôi dưỡng những kẻ kính sợ Ngài mỗi ngày.</p>
     <div class="dev-body"><p>Những ai kính sợ Đức Chúa Trời không cần phải sợ thiếu thốn. Trải qua bao năm tháng dài, Chúa luôn tìm được lương thực cho con cái Ngài, dù họ ở trong đồng vắng, bên khe Kê-rít, trong cảnh lưu đày, hay giữa cơn đói kém. Cho đến nay, Chúa đã ban cho chúng ta bánh hằng ngày từng ngày một, và chúng ta tin chắc Ngài sẽ tiếp tục nuôi chúng ta cho đến khi không còn cần nữa.</p><p>Còn về những phước hạnh cao trọng hơn của giao ước ân điển, Ngài sẽ không bao giờ ngừng cung ứng theo nhu cầu của chúng ta. Ngài nhớ rằng Ngài đã lập giao ước, và không bao giờ hành động như thể Ngài hối tiếc. Ngài nhớ đến giao ước khi chúng ta chọc giận Ngài đến nỗi phải hủy diệt chúng ta. Ngài nhớ để yêu thương chúng ta, gìn giữ chúng ta và an ủi chúng ta, đúng như điều Ngài đã cam kết. Ngài nhớ từng chấm từng nét trong mọi cam kết của Ngài, không để một lời nào của Ngài rơi xuống đất.</p><p>Chúng ta đáng buồn thay thường quên mất Đức Chúa Trời, nhưng Ngài vẫn đầy ân điển nhớ đến chúng ta. Ngài không thể quên Con Ngài, Đấng Bảo Lãnh của giao ước, cũng không quên Đức Thánh Linh, Đấng tích cực thi hành giao ước, hay chính danh dự của Ngài, vốn gắn liền với giao ước. Vì thế, nền tảng của Đức Chúa Trời vẫn vững chắc, và không một tín hữu nào sẽ mất cơ nghiệp thiên thượng của mình, vốn thuộc về người bởi một giao ước muối.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi bạn lo lắng không biết ngày mai sẽ ăn gì hay sống ra sao, bạn có nhớ rằng Chúa đã chăm sóc con cái Ngài qua bao thế hệ và Ngài vẫn nhớ đến lời Ngài đã hứa với bạn không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm ơn Ngài vì Ngài chưa từng để những người kính sợ Ngài phải thiếu thốn, dù họ ở giữa đồng vắng hay giữa cơn đói kém. Xin tha thứ cho chúng con vì chúng con hay quên Ngài, trong khi Ngài luôn ghi nhớ từng lời Ngài đã cam kết với chúng con. Xin cho chúng con vững tin rằng Ngài sẽ tiếp tục chu cấp cho chúng con từng ngày, cả bánh hằng ngày lẫn những ơn phước thiêng liêng cao trọng hơn. Xin cho chúng con sống hôm nay trong sự bình an, biết rằng nền tảng Ngài đã đặt vẫn vững chắc và cơ nghiệp của chúng con được giữ gìn trong tay Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/giao-uoc.html">Giao ước</a><a class="btn" href="/bach-khoa/giao-uoc-an-dien.html">Giao ước ân điển</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/giao-ly/cau-104.html">Giáo Lý Câu 104</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a></div></div>
   </article>
   <nav class="qnav">

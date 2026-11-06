@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/joh/1.html#v50" style="color:inherit">Giăng 1:50</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Tín hữu tin cậy Chúa sẽ thấy những việc lớn hơn, lớn lên trong lẽ thật và thông công với Ngài.</p>
     <div class="dev-body"><p>Lời này được phán cho một tín hữu đơn sơ như trẻ thơ, người sẵn sàng chấp nhận Chúa Giê-xu là Con Đức Chúa Trời, là Vua của Y-sơ-ra-ên, chỉ dựa trên một bằng chứng thuyết phục. Những ai sẵn lòng nhìn thấy sẽ thấy: chính vì chúng ta nhắm mắt nên chúng ta trở nên mù lòa đáng thương như vậy.</p><p>Chúng ta đã thấy nhiều rồi. Chúa đã tỏ cho chúng ta những việc lớn và không thể dò xét được, vì đó chúng ta ngợi khen danh Ngài; nhưng còn có những lẽ thật lớn lao hơn trong Lời Ngài, những chiều sâu kinh nghiệm lớn hơn, những đỉnh cao thông công lớn hơn, những công việc hữu ích lớn hơn, những khám phá về quyền năng, tình yêu, và sự khôn ngoan lớn hơn. Chúng ta còn sẽ thấy những điều ấy nếu chúng ta sẵn lòng tin Chúa mình. Tài bịa đặt giáo lý giả là tai hại, nhưng khả năng nhìn thấy lẽ thật là một phước lành. Trời sẽ được mở ra cho chúng ta, con đường lên đó sẽ được tỏ rõ cho chúng ta trong Con Người, và sự giao lưu của các thiên sứ diễn ra giữa vương quốc trên cao và vương quốc dưới thấp sẽ được bày tỏ rõ hơn cho chúng ta. Chúng ta hãy giữ mắt mình mở hướng về những sự thiêng liêng, và mong đợi thấy càng lúc càng nhiều hơn. Chúng ta hãy tin rằng đời mình sẽ không lụn dần vào hư không, mà chúng ta sẽ luôn luôn lớn lên, thấy những việc lớn hơn và càng lớn hơn nữa, cho đến khi chúng ta thấy chính Đức Chúa Trời Vĩ Đại, và không bao giờ mất đi sự nhìn thấy Ngài nữa.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có đang khép mắt mình lại trước những điều lớn lao Chúa còn muốn bày tỏ, và bạn sẽ tập nhìn lên để đón nhận sự hiểu biết sâu hơn, sự gần gũi với Ngài ngọt ngào hơn, cùng những việc hữu ích hơn trong những ngày tới ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài đã cho chúng con thấy nhiều việc lạ lùng vượt quá sự hiểu biết của chúng con, và còn hứa cho chúng con thấy những việc lớn hơn nữa. Xin mở mắt chúng con để chúng con không trở nên mù lòa vì nhắm mắt trước lẽ thật của Ngài. Xin cho đời sống chúng con cứ tiếp tục tăng trưởng trong sự hiểu biết, thông công và hầu việc Ngài, thay vì tàn lụi dần. Xin dẫn chúng con càng lúc càng thấy rõ Chúa Giê-xu, cho đến khi chúng con thấy chính Ngài mặt đối mặt.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/mac-khai.html">Mặc khải</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/su-thong-cong.html">Sự thông công</a><a class="btn" href="/giao-ly/cau-24.html">Giáo Lý Câu 24</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/prov/13.html#v13" style="color:inherit">Châm Ngôn 13:13</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ai kính sợ và vâng theo Lời Chúa sẽ được bình an, lương tâm thanh thản và phần thưởng của sự vâng lời.</p>
     <div class="dev-body"><p>Sự kính sợ thánh khiết Lời Đức Chúa Trời đang bị coi rẻ trầm trọng. Người ta tưởng mình khôn ngoan hơn Lời Chúa, và ngồi xét đoán Lời ấy. &quot;Còn tôi không làm như vậy, vì kính sợ Đức Chúa Trời.&quot; Chúng ta chấp nhận Quyển Sách được linh cảm là không sai lầm, và chứng tỏ sự tôn trọng bằng sự vâng lời. Chúng ta không kinh hãi Lời, nhưng có lòng kính sợ hiếu thảo đối với Lời. Chúng ta không sợ hình phạt của Lời, vì chúng ta kính sợ các điều răn của Lời.</p><p>Sự kính sợ thánh khiết điều răn này sinh ra sự yên nghỉ của lòng khiêm nhường, ngọt ngào hơn nhiều so với sự liều lĩnh của kiêu ngạo. Nó trở nên người dẫn đường cho chúng ta trong mọi bước đi; là cái thắng khi chúng ta xuống dốc, và là động lực khi chúng ta lên dốc. Được giữ khỏi điều ác và được dẫn vào sự công chính bởi lòng tôn kính điều răn, chúng ta được một lương tâm bình an, như một giếng rượu; một cảm thức được giải thoát khỏi trách nhiệm, như sự sống từ kẻ chết; và một sự tin chắc rằng mình đẹp lòng Đức Chúa Trời, ấy là thiên đàng dưới đất này. Kẻ vô đạo có thể nhạo cười lòng tôn kính sâu xa của chúng ta đối với Lời Chúa; nhưng điều ấy có hề gì? Phần thưởng của sự kêu gọi cao cả là sự an ủi đầy đủ cho chúng ta. Phần thưởng của sự vâng lời khiến chúng ta khinh thường sự nhạo cười của kẻ nhạo báng.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có điều răn nào trong Lời Chúa bạn đang xem nhẹ hoặc xét đoán theo ý riêng, vì cho rằng mình hiểu biết hơn Lời ấy, thay vì đón nhận với lòng kính sợ hiếu thảo và chứng tỏ bằng sự vâng lời không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con cảm tạ Ngài vì Lời Ngài là kim chỉ nam chắc chắn cho đời sống chúng con, và lòng tôn kính Lời ấy đem lại cho chúng con sự bình an cùng lòng khiêm nhường. Xin giúp chúng con đón nhận mọi điều Ngài phán dạy với lòng vâng phục, thay vì ngồi xét đoán Lời Ngài theo ý riêng của mình. Xin cho sự tôn kính ấy dẫn dắt chúng con trong từng bước đi, giữ chúng con khỏi điều ác và hướng chúng con vào con đường ngay thẳng. Xin cho chúng con được hưởng lương tâm bình an cùng sự vững tin rằng chúng con đẹp lòng Ngài, dù người đời có nhạo cười chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/duy-kinh-thanh.html">Duy Kinh Thánh</a><a class="btn" href="/bach-khoa/su-vang-loi.html">Sự vâng lời</a><a class="btn" href="/bach-khoa/le-that.html">Lẽ thật</a><a class="btn" href="/giao-ly/cau-90.html">Giáo Lý Câu 90</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

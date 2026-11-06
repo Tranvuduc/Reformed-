@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/mat/20.html#v7" style="color:inherit">Ma-thi-ơ 20:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúa Giê-xu vẫn mời mọi người, kể cả người già, vào làm vườn nho Ngài và hứa trả công hậu hĩnh.</p>
     <div class="dev-body"><p>Phải, có việc làm trong vườn nho của Đấng Christ cho những thân thể già nua. Đã là giờ thứ mười một rồi, mà Ngài vẫn cho chúng ta làm việc. Ân điển lớn dường nào! Chắc chắn mọi người già đều nên nắm lấy lời mời này! Khi người ta đã cao tuổi, chẳng ai muốn thuê họ làm đầy tớ; họ đi từ cửa hàng này sang cửa hàng khác, và các chủ nhìn mái tóc bạc của họ mà lắc đầu. Nhưng Chúa Giê-xu sẽ thuê người già, và trả công hậu hĩnh nữa! Đây thật là lòng thương xót. Lạy Chúa, xin giúp những người cao tuổi gia nhập sự phục vụ Ngài mà không chần chừ một giờ nào.</p><p>Nhưng Chúa có trả công cho những ông già kiệt sức không? Đừng nghi ngờ. Ngài phán Ngài sẽ ban cho bạn điều phải lẽ nếu bạn chịu làm việc trong đồng ruộng Ngài. Ngài chắc chắn sẽ ban cho bạn ân điển ở đây và vinh hiển ở đời sau. Ngài sẽ ban sự an ủi hiện tại và sự nghỉ ngơi tương lai; sức lực đủ cho mỗi ngày, và khải tượng về vinh quang khi đêm sự chết đến. Tất cả những điều này Chúa Giê-xu sẽ ban cho người cải đạo lúc tuổi già một cách rộng rãi như cho người bước vào sự phục vụ Ngài từ tuổi thanh xuân.</p><p>Tôi hãy nói điều này cho một ông già hay bà già chưa được cứu nào đó, và cầu nguyện Chúa ban phước cho lời ấy, vì cớ Chúa Giê-xu. Tôi có thể tìm những người như vậy ở đâu? Tôi sẽ để mắt tìm họ, và tử tế nói cho họ phúc âm này.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Dù bạn đã lớn tuổi hay mới bắt đầu muộn màng trong đức tin, hôm nay bạn có thể nhận lấy công việc nào trong vườn nho của Chúa mà không chần chừ thêm nữa?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa Giê-xu, chúng con cảm tạ Ngài vì Ngài vẫn mở cửa vườn nho cho cả những người đến vào giờ thứ mười một, và Ngài trả công hậu hĩnh cho mọi người làm việc cho Ngài. Xin giúp những người cao tuổi trong chúng con đừng nghĩ mình đã quá muộn, nhưng mau mắn gia nhập sự phục vụ Ngài ngay hôm nay. Xin ban cho chúng con ân điển đủ cho mỗi ngày, sự an ủi trong hiện tại và niềm hy vọng về sự nghỉ ngơi tương lai. Xin dùng lời mời này chạm đến những người lớn tuổi chưa được cứu quanh chúng con, để họ cũng được vào làm việc trong đồng ruộng của Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/dai-mang-lenh.html">Đại mạng lệnh</a><a class="btn" href="/bach-khoa/su-phuc-vu.html">Sự phục vụ</a><a class="btn" href="/bach-khoa/an-dien.html">Ân điển</a><a class="btn" href="/giao-ly/cau-39.html">Giáo Lý Câu 39</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/truyen-giang.html">Truyền giảng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

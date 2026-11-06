@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/isa/60.html#v22" style="color:inherit">Ê-sai 60:22</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Công việc Chúa thường bắt đầu nhỏ bé, nhưng Ngài hứa làm cho kẻ nhỏ trở nên một ngàn đúng kỳ.</p>
     <div class="dev-body"><p>Công việc cho Chúa thường bắt đầu ở quy mô nhỏ, và điều ấy chẳng hề tệ. Sự yếu đuối dạy dỗ đức tin, đem Đức Chúa Trời đến gần, và đem vinh hiển về cho danh Ngài. Hãy quý trọng những lời hứa về sự gia tăng! Hạt cải là nhỏ nhất trong các hạt giống, thế mà nó trở nên cây lớn, cành nó cho chim trời trú ngụ. Chúng ta có thể bắt đầu với một, và chỉ &quot;một kẻ rất nhỏ,&quot; thế mà nó sẽ &quot;trở nên một ngàn.&quot; Chúa thật giỏi bảng nhân. Ngài đã bao lần phán với tôi tớ đơn độc của Ngài: &quot;Ta sẽ làm cho ngươi thêm nhiều!&quot; Hỡi những người một hai, hãy tin cậy Chúa; vì Ngài sẽ ở giữa các ngươi nếu các ngươi nhóm lại nhân danh Ngài.</p><p>&quot;Một kẻ hèn mọn.&quot; Có gì đáng khinh hơn trong mắt những kẻ đếm đầu người và cân sức mạnh! Thế mà đây là hạt nhân của một nước vĩ đại. Ban đầu chỉ một ngôi sao ló ra trong buổi chiều, nhưng chẳng bao lâu bầu trời đầy dẫy vô số ánh sáng.</p><p>Chúng ta cũng đừng nghĩ viễn cảnh gia tăng còn xa vời, vì lời hứa là: &quot;Ta là Đức Giê-hô-va, sẽ làm cho việc ấy mau đến đúng kỳ.&quot; Sẽ không có sự vội vàng non nớt như ta thấy trong những buổi nhóm đầy khích động; mọi sự sẽ đúng kỳ; nhưng cũng sẽ không trì hoãn. Khi Chúa làm cho mau đến, sự mau đến của Ngài thật vinh hiển.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Công việc nhỏ bé nào cho Chúa mà bạn đang xem thường — một nhóm chỉ một hai người, hay một khởi đầu bé nhỏ như hạt cải — trong khi Chúa hứa sẽ làm cho nó lớn lên đúng thời điểm của Ngài?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa, chúng con cảm tạ Ngài vì công việc Ngài giao cho chúng con thường khởi đầu thật nhỏ bé, và chính sự yếu đuối ấy dạy chúng con biết trông cậy nơi Ngài. Xin giúp chúng con quý trọng những khởi đầu bé nhỏ, dù chỉ là một hai người nhóm lại nhân danh Ngài, và tin rằng Ngài ở giữa chúng con. Xin cho chúng con đừng nghĩ rằng sự gia tăng còn xa vời, nhưng tin rằng Ngài sẽ làm mọi việc mau đến đúng thời điểm của Ngài. Xin cho chúng con kiên nhẫn chờ đợi, vì Ngài là Đấng làm cho những điều nhỏ bé trở nên lớn lao theo ý muốn Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/hy-vong.html">Hy vọng</a><a class="btn" href="/bach-khoa/hoi-thanh.html">Hội Thánh</a><a class="btn" href="/giao-ly/cau-8.html">Giáo Lý Câu 8</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/truyen-giang.html">Truyền giảng</a></div></div>
   </article>
   <nav class="qnav">

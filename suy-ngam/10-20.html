@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/mat/1.html#v21" style="color:inherit">Ma-thi-ơ 1:21</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúa Giê-xu cứu dân Ngài khỏi mọi tội lỗi, quá khứ, bản tính và kín nhiệm, để họ sống thánh khiết cho Ngài.</p>
     <div class="dev-body"><p>Lạy Chúa, xin cứu con khỏi tội lỗi con. Nhờ danh Giê-xu của Ngài, con được khích lệ mà cầu nguyện như vậy. Xin cứu con khỏi những tội trong quá khứ, để thói quen của chúng không cầm tù con. Xin cứu con khỏi những tội thuộc bản tính, để con không làm nô lệ cho chính những yếu đuối mình. Xin cứu con khỏi những tội hằng ở trước mắt con, để con không mất đi sự ghê tởm chúng. Xin cứu con khỏi những tội kín nhiệm; những tội con không nhận ra vì thiếu ánh sáng. Xin cứu con khỏi những tội bất ngờ ập đến: xin đừng để con bị cuốn trôi bởi cơn cám dỗ. Lạy Chúa, xin cứu con khỏi mọi tội lỗi. Xin đừng để bất cứ sự gian ác nào cai trị con.</p><p>Chỉ một mình Ngài mới làm được điều này. Con không thể tự bẻ gãy xiềng xích mình hay tự giết kẻ thù mình. Ngài biết cám dỗ, vì Ngài đã chịu cám dỗ. Ngài biết tội lỗi, vì Ngài đã mang lấy sức nặng của nó. Ngài biết cách cứu giúp con trong giờ xung trận; Ngài có thể cứu con khỏi phạm tội, và cứu con khi con đã phạm tội. Chính danh Ngài đã hứa Ngài sẽ làm điều này, và con cầu xin Ngài cho con hôm nay được nghiệm thấy lời tiên tri ấy. Xin đừng để con buông mình theo tính nóng, kiêu ngạo, ngã lòng, hay bất cứ hình thức điều ác nào; nhưng xin Ngài cứu con để sống thánh khiết, hầu cho danh Giê-xu của Ngài được vinh hiển trong con dư dật.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có tội nào bạn cần xin Chúa Giê-xu cứu mình khỏi ngay hôm nay — tội trong quá khứ, tội thuộc bản tính, tội kín nhiệm hay tội bất ngờ ập đến — mà bạn vẫn đang cố tự mình bẻ gãy xiềng xích không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa Giê-xu, chúng con cảm tạ Ngài vì chỉ một mình Ngài mới có thể giải thoát chúng con khỏi quyền lực của tội lỗi, và danh Ngài chính là lời hứa về sự giải cứu ấy. Xin cứu chúng con khỏi những tội lỗi trong quá khứ đã trở thành thói quen trói buộc chúng con, và khỏi những yếu đuối trong bản tính khiến chúng con làm nô lệ cho chính mình. Xin cứu chúng con khỏi những tội lỗi kín nhiệm mà chúng con chưa nhận ra, cùng những cám dỗ bất ngờ ập đến trong lúc chúng con không đề phòng. Xin đừng để bất cứ điều gian ác nào cai trị chúng con, nhưng xin giúp chúng con sống thánh khiết để danh Ngài được vinh hiển trong chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-cuu-roi.html">Sự cứu rỗi</a><a class="btn" href="/bach-khoa/su-tha-thu.html">Sự tha thứ</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/giao-ly/cau-21.html">Giáo Lý Câu 21</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/tha-thu.html">Tha thứ</a><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

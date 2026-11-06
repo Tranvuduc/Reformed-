@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/joh/16.html#v14" style="color:inherit">Giăng 16:14</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Thánh Linh tôn vinh Chúa Giê-xu bằng cách tỏ bày Ngài cho lòng tín hữu.</p>
     <div class="dev-body"><p>Chính Đức Thánh Linh không thể tôn vinh Chúa Giê-xu tốt hơn bằng cách tỏ cho chúng ta những điều thuộc về Đấng Christ. Chúa Giê-xu là lời giới thiệu tốt nhất về chính Ngài. Không có cách trang điểm nào cho Ngài ngoài vàng của chính Ngài.</p><p>Đấng Yên Ủi tỏ cho chúng ta điều mà Ngài đã nhận từ Chúa Giê-xu chúng ta. Chúng ta không bao giờ thấy bất cứ điều gì đúng đắn cho đến khi Ngài tỏ bày. Ngài có cách mở trí chúng ta, và mở Kinh Thánh, và bằng tiến trình kép này Ngài bày tỏ Chúa chúng ta cho chúng ta. Có nhiều nghệ thuật trong việc trình bày một vấn đề, và nghệ thuật ấy thuộc về Đức Thánh Linh của lẽ thật ở mức độ cao nhất. Ngài tỏ cho chúng ta chính các sự vật. Đây là một đặc ân lớn lao, như những ai đã hưởng khải tượng thánh đều biết.</p><p>Chúng ta hãy tìm kiếm sự soi sáng của Thánh Linh; không phải để thỏa mãn tính tò mò của chúng ta, cũng không phải để mang lại sự an ủi cá nhân cho chúng ta, mà cốt để tôn vinh Chúa Giê-xu. Ôi, ước gì có những ý niệm xứng đáng về Ngài! Những ý niệm thấp hèn làm sỉ nhục Chúa quý báu của chúng ta. Ôi, ước gì có những ấn tượng sống động về con người, công việc, và vinh hiển của Ngài, để chúng ta có thể hết lòng hết linh hồn kêu lên ngợi khen Ngài! Nơi nào có một tấm lòng được làm giàu bởi sự dạy dỗ của Đức Thánh Linh, nơi đó sẽ có một Đấng Cứu Rỗi được tôn vinh vượt mọi lời diễn tả. Nào, Đức Thánh Linh, ánh sáng từ trời, xin tỏ cho chúng con Chúa Giê-xu, Chúa chúng con!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi bạn đọc Kinh Thánh hay cầu nguyện, bạn có xin Đức Thánh Linh tỏ cho bạn những điều thuộc về Chúa Giê-xu để tôn vinh Ngài, hay bạn chỉ tìm sự an ủi cho riêng mình và thỏa mãn tính tò mò?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Thánh Linh, chúng con cảm ơn Ngài vì Ngài không để chúng con tự mò mẫm tìm hiểu về Chúa Giê-xu, nhưng Ngài chính là Đấng mở mắt chúng con để thấy Ngài. Xin soi sáng lòng trí chúng con khi chúng con đọc Lời Chúa, để chúng con nhận ra con người, công tác và vinh quang của Đấng Cứu Thế một cách sống động hơn. Xin giữ chúng con khỏi những suy nghĩ nhỏ hẹp về Ngài, và ban cho chúng con những ấn tượng sâu sắc về Ngài, để đời sống chúng con trở nên lời ngợi khen Ngài. Xin cho mọi điều chúng con học được đều dẫn chúng con đến chỗ tôn cao Chúa Giê-xu hơn trong từng ngày sống.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/duc-thanh-linh.html">Đức Thánh Linh</a><a class="btn" href="/bach-khoa/dang-christ.html">Đấng Christ</a><a class="btn" href="/bach-khoa/su-tho-phuong.html">Sự thờ phượng</a><a class="btn" href="/giao-ly/cau-30.html">Giáo Lý Câu 30</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

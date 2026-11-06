@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/91.html#v4" style="color:inherit">Thi Thiên 91:4</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời che chở dân Ngài dưới cánh Ngài như gà mẹ, và lẽ thật Ngài là khiên và mộc.</p>
     <div class="dev-body"><p>Thật là một hình ảnh hạ mình! Cũng như gà mẹ bảo vệ đàn con và cho chúng nép mình dưới cánh mình, Chúa sẽ bênh vực dân Ngài, và cho phép họ ẩn náu trong Ngài. Chúng ta chẳng đã từng thấy những chú gà con thò đầu ra từ dưới lông mẹ sao? Chúng ta chẳng đã từng nghe tiếng kêu vui vẻ mãn nguyện của chúng sao? Xin cho chúng ta cũng nương náu mình trong Đức Chúa Trời như vậy, và cảm nhận sự bình an tràn đầy khi biết rằng Ngài đang canh giữ chúng ta.</p><p>Trong khi Chúa che chở chúng ta, chúng ta tin cậy. Sẽ thật lạ lùng nếu chúng ta không tin cậy. Làm sao chúng ta có thể nghi ngờ khi chính Đức Giê-hô-va trở nên nhà và cửa, nơi ẩn náu và nơi nghỉ ngơi cho chúng ta?</p><p>Điều này xong, chúng ta ra trận trong danh Ngài và hưởng cùng một sự chăm sóc của Đấng bảo vệ. Chúng ta cần khiên và mộc, và khi chúng ta hoàn toàn tin cậy Đức Chúa Trời, như gà con tin cậy gà mẹ, chúng ta thấy lẽ thật của Ngài trang bị cho chúng ta từ đầu đến chân. Chúa không thể nói dối; Ngài phải thành tín với dân Ngài; lời hứa của Ngài phải đứng vững. Lẽ thật chắc chắn này là mọi tấm khiên chúng ta cần. Núp sau nó, chúng ta thách thức những tên lửa của kẻ thù.</p><p>Hỡi linh hồn ta, hãy đến, ẩn mình dưới những cánh lớn ấy, đánh mất mình giữa những chiếc lông mềm mại ấy! Ngươi thật hạnh phúc biết bao!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi những lời tố cáo, những nỗi sợ, hay những thử thách của kẻ thù ập đến như tên bay, bạn sẽ ẩn mình dưới cánh của Đức Chúa Trời và nương náu nơi lẽ thật không thể sai lầm của Ngài như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài che chở chúng con như gà mẹ che chở đàn con dưới cánh mình, và lẽ thật không hề thay đổi của Ngài che chở chúng con như khiên và mộc. Xin Ngài giúp chúng con nương náu mình trong Ngài như gà con nép mình dưới lông mẹ, và kinh nghiệm sự bình an khi biết Ngài đang gìn giữ chúng con. Xin Ngài nhắc chúng con rằng Ngài không thể nói dối, và lời Ngài hứa chắc chắn sẽ được giữ trọn, để chúng con tin cậy Ngài hoàn toàn. Chúng con xin chạy đến nép mình dưới bóng cánh Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/noi-an-nau.html">Nơi ẩn náu</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

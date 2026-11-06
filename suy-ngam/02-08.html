@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/isa/41.html#v10" style="color:inherit">Ê-sai 41:10</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Tay phải công bình của Đức Chúa Trời nâng đỡ người tin cậy Ngài, nên ma quỷ không thể quật ngã họ.</p>
     <div class="dev-body"><p>Sợ ngã là điều lành mạnh. Liều lĩnh không phải là dấu hiệu của sự khôn ngoan. Có những lúc đến với chúng ta khi chúng ta cảm thấy mình ắt phải ngã xuống trừ khi có một sự nâng đỡ rất đặc biệt. Ở đây chúng ta có nó. Tay phải của Đức Chúa Trời là một chỗ nương tựa vĩ đại. Hãy nhớ, đó không chỉ là tay Ngài, dù tay ấy giữ trời và đất đúng vị trí, mà là tay phải của Ngài: quyền năng của Ngài hiệp với sự khéo léo, quyền năng của Ngài ở nơi khéo léo nhất. Không, chưa hết, có chép rằng, &quot;Ta sẽ nâng đỡ ngươi bằng tay phải công bình của Ta.&quot; Bàn tay mà Ngài dùng để duy trì sự thánh khiết của Ngài, và để thi hành các án lệnh vương giả của Ngài — bàn tay ấy sẽ được giang ra để nâng đỡ những người tin cậy Ngài. Nguy hiểm của chúng ta thật đáng sợ, nhưng sự an ninh của chúng ta thật vui mừng. Người mà Đức Chúa Trời nâng đỡ, ma quỷ không thể quật ngã.</p><p>Chân chúng ta có thể yếu, nhưng tay phải của Đức Chúa Trời là toàn năng. Đường có thể gồ ghề, nhưng Đấng Toàn Năng là sự nâng đỡ của chúng ta. Chúng ta có thể mạnh dạn tiến bước. Chúng ta sẽ không ngã. Hãy nương mình liên tục nơi mọi vật đều nương mình. Đức Chúa Trời sẽ không rút sức mạnh của Ngài lại, vì sự công chính của Ngài cũng ở đó: Ngài sẽ trung tín với lời hứa của Ngài, và trung tín với Con Ngài, và do đó trung tín với chúng ta. Chúng ta phải vui mừng biết bao! Chẳng phải chúng ta đang vui mừng sao?</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi bạn cảm thấy chân mình sắp ngã và con đường trước mặt gồ ghề, bạn có nương mình nơi tay phải công bình của Đức Chúa Trời, Đấng hứa sẽ nâng đỡ bạn không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì Ngài không chỉ hứa nâng đỡ chúng con, mà còn nâng đỡ bằng bàn tay phải đầy quyền năng và khéo léo của Ngài. Khi chân chúng con yếu đuối và chúng con sợ mình sẽ ngã, xin Ngài nhắc chúng con rằng kẻ thù không thể quật ngã người được Ngài giữ chặt. Xin Ngài giúp chúng con mạnh dạn tiến bước trên đường gồ ghề, nương mình nơi Ngài trong từng lúc khó khăn. Chúng con vui mừng vì Ngài giữ lời Ngài đã hứa, và vì cớ Con Ngài, Ngài cũng giữ chúng con đến cuối cùng.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/37.html#v31" style="color:inherit">Thi Thiên 37:31</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Luật pháp Chúa ở trong lòng khiến bước chân tín hữu vững vàng, không trượt ngã.</p>
     <div class="dev-body"><p>Hãy đặt luật pháp vào trong lòng, và toàn bộ con người sẽ ngay thẳng. Đó là nơi luật pháp nên ở; vì khi ấy nó nằm, như các bảng đá trong hòm giao ước, tại nơi đã định cho nó. Trong đầu nó làm rối trí, trên lưng nó đè nặng, trong lòng nó nâng đỡ.</p><p>Từ ngữ được dùng ở đây thật là một lựa chọn tuyệt vời, &quot;luật pháp của Đức Chúa Trời người!&quot; Khi chúng ta biết Chúa là Đức Chúa Trời của chính mình, luật pháp Ngài trở thành tự do cho chúng ta. Đức Chúa Trời ở cùng chúng ta trong giao ước làm chúng ta háo hức vâng theo ý muốn Ngài và bước đi trong các mạng lệnh Ngài. Điều răn ấy có phải là điều răn của Cha tôi không? Thì tôi vui thích trong đó.</p><p>Chúng ta được đảm bảo ở đây rằng người có lòng vâng phục sẽ được nâng đỡ trong mỗi bước mình đi. Người sẽ làm điều công chính, và bởi vậy người sẽ làm điều khôn ngoan. Hành động thánh khiết luôn là điều thận trọng nhất, dù lúc ấy có vẻ không phải vậy. Chúng ta đang di chuyển trên đại lộ của sự quan phòng và ân điển của Đức Chúa Trời khi chúng ta giữ theo đường lối luật pháp Ngài. Lời Đức Chúa Trời chưa từng làm lạc một linh hồn nào; những chỉ dẫn rõ ràng của nó để bước đi khiêm nhường, công chính, yêu thương, và trong sự kính sợ Chúa, cũng là những lời khôn ngoan để làm cho đường lối chúng ta thịnh vượng như là những quy tắc thánh khiết để giữ áo xống chúng ta sạch sẽ. Người bước đi ngay thẳng là người bước đi vững vàng.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Điều gì cho thấy Lời Chúa đã thực sự thấm vào lòng bạn, chứ không chỉ dừng lại ở trí óc bạn?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì khi luật pháp Ngài ở trong lòng chúng con, toàn bộ con người chúng con được ngay thẳng. Xin đặt Lời Ngài sâu trong lòng chúng con, để chúng con vui thích vâng theo ý muốn Ngài như con cái vâng lời Cha mình. Xin nâng đỡ từng bước chân chúng con hôm nay, để chúng con bước đi vững vàng trong đường lối Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/luat-phap.html">Luật pháp</a><a class="btn" href="/bach-khoa/su-vang-loi.html">Sự vâng lời</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/giao-ly/cau-35.html">Giáo Lý Câu 35</a><a class="btn" href="/giao-ly/cau-40.html">Giáo Lý Câu 40</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a></div></div>
   </article>
   <nav class="qnav">

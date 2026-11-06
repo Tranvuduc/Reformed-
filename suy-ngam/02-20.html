@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/isa/58.html#v11" style="color:inherit">Ê-sai 58:11</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời dẫn dắt từng bước người phó thác đường lối mình cho Ngài và mở lòng thương xót người đói khổ.</p>
     <div class="dev-body"><p>Ngươi có điều gì? Ngươi có lạc đường không? Ngươi có bị vướng trong rừng tối, và không tìm được lối đi không? Hãy đứng yên, và xem sự cứu rỗi của Đức Chúa Trời. Ngài biết đường, và Ngài sẽ dẫn ngươi trong đó nếu ngươi kêu cầu Ngài.</p><p>Mỗi ngày đem đến sự bối rối riêng của nó. Thật ngọt ngào biết bao khi cảm nhận rằng sự dẫn dắt của Chúa là liên tục! Nếu chúng ta chọn đường lối riêng, hay tham vấn với xác thịt và huyết, chúng ta gạt bỏ sự dẫn dắt của Chúa; nhưng nếu chúng ta tránh ý muốn riêng, thì Ngài sẽ dẫn mọi bước đường của chúng ta, mọi giờ trong ngày, và mọi ngày trong năm, và mọi năm trong đời chúng ta. Nếu chúng ta muốn được dẫn dắt, chúng ta sẽ được dẫn dắt. Nếu chúng ta phó thác đường lối mình cho Chúa, Ngài sẽ dẫn đường chúng ta để chúng ta không lạc mất.</p><p>Nhưng hãy lưu ý lời hứa này được ban cho ai. Hãy đọc câu trước: &quot;Nếu ngươi mở lòng mình cho kẻ đói.&quot; Chúng ta phải cảm thông với người khác, và cho họ, không phải vài mẩu bánh khô, mà những điều chính chúng ta muốn nhận. Nếu chúng ta bày tỏ sự chăm sóc dịu dàng cho đồng loại trong giờ họ cần, thì Chúa sẽ chăm sóc nhu cầu của chúng ta, và làm Đấng Dẫn Dắt liên tục của chúng ta. Chúa Giê-xu là Đấng Dẫn Đầu, không phải của những kẻ keo kiệt, cũng không của những kẻ áp bức người nghèo, mà của những người nhân từ và dịu dàng. Những người như vậy là những lữ khách, sẽ không bao giờ lạc đường.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Hôm nay, trước một quyết định khiến bạn bối rối, bạn sẽ dừng lại để cầu xin Chúa dẫn dắt thay vì vội theo ý riêng, và bạn sẽ mở lòng giúp đỡ ai đang thiếu thốn quanh mình?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài hứa dẫn dắt chúng con luôn luôn, từng giờ trong ngày và từng ngày trong đời chúng con. Xin dạy chúng con thôi tham vấn ý riêng và xác thịt, mà phó thác mọi bước đường cho Ngài, tin rằng Ngài biết đường chúng con phải đi. Xin mở lòng chúng con với người đói khát và thiếu thốn, để chúng con chia sẻ cách dịu dàng những điều chính chúng con mong được nhận. Xin cho chúng con bước đi như những lữ khách được Ngài dẫn đầu, không lạc mất trên đường về với Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/long-thuong-xot.html">Lòng thương xót</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a></div></div>
   </article>
   <nav class="qnav">

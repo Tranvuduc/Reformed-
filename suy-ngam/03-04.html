@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/1sam/2.html#v30" style="color:inherit">1 Sa-mu-ên 2:30</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ai tôn vinh Đức Chúa Trời bằng lời chứng và sự vâng phục, Ngài sẽ làm cho được tôn trọng.</p>
     <div class="dev-body"><p>Tôi có lấy sự tôn vinh Đức Chúa Trời làm mục đích lớn của đời sống mình và làm quy tắc cho cách cư xử của mình không? Nếu vậy, Ngài sẽ làm cho tôi được tôn trọng. Tôi có thể một thời gian không nhận được sự tôn trọng nào từ loài người, nhưng chính Đức Chúa Trời sẽ đặt sự tôn trọng trên tôi theo cách hiệu quả nhất. Cuối cùng sẽ thấy rằng con đường chắc chắn nhất để được tôn trọng là sẵn lòng chịu hổ thẹn vì cớ lương tâm.</p><p>Hê-li đã không tôn vinh Chúa bằng cách cai quản gia đình mình cho tốt, và các con trai ông đã không tôn vinh Chúa bằng cách cư xử xứng đáng với chức vụ thánh của họ, và vì thế Chúa đã không làm cho họ được tôn trọng, nhưng đã lấy chức tế lễ thượng phẩm ra khỏi gia đình họ, và lập Sa-mu-ên còn trẻ lên cai trị trong xứ thay vì bất cứ ai thuộc dòng dõi họ. Nếu tôi muốn gia đình mình được tôn quý, tôi phải tôn vinh Chúa trong mọi sự. Đức Chúa Trời có thể để kẻ ác thắng được những vinh dự thế gian; nhưng sự cao trọng mà chính Ngài ban, tức là vinh quang, tôn trọng, và bất diệt, Ngài dành cho những ai bởi sự vâng phục thánh mà lo tôn vinh Ngài.</p><p>Hôm nay tôi có thể làm gì để tôn vinh Chúa? Tôi sẽ tôn vinh Ngài bằng lời chứng ra miệng, và bằng sự vâng phục thực tế. Tôi cũng sẽ tôn vinh Ngài bằng của cải mình, và bằng cách dâng cho Ngài một việc phục vụ đặc biệt. Xin cho tôi ngồi xuống và suy nghĩ xem mình có thể tôn vinh Ngài thế nào, vì Ngài sẽ làm cho tôi được tôn trọng.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Hôm nay bạn có thể làm gì cụ thể, bằng lời nói, bằng sự vâng phục, hay bằng của cải mình, để tôn vinh Đức Chúa Trời hơn là tìm kiếm sự tôn trọng của người ta?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài hứa ban sự tôn trọng cho những ai tôn kính Ngài, theo cách khôn ngoan nhất của Ngài. Xin giúp chúng con lấy sự tôn vinh Ngài làm mục tiêu lớn nhất của đời sống và làm thước đo cho mọi cách ăn ở của mình. Xin tha thứ cho chúng con vì những lần chúng con tìm kiếm vinh dự thế gian mà quên tôn vinh Ngài trong gia đình và trong mọi sự. Xin cho chúng con hôm nay biết tôn vinh Ngài qua lời nói làm chứng, qua đời sống vâng phục mỗi ngày và qua của cải Ngài đã giao cho chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-vinh-hien.html">Sự vinh hiển</a><a class="btn" href="/bach-khoa/su-vang-loi.html">Sự vâng lời</a><a class="btn" href="/giao-ly/cau-1.html">Giáo Lý Câu 1</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

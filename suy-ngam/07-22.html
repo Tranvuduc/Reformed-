@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/os/2.html#v19" style="color:inherit">Ô-sê 2:19, 20</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời hứa hôn đời đời với dân Ngài trong sự công chính, nhân từ và thành tín.</p>
     <div class="dev-body"><p>Được hứa hôn với Chúa! Vinh dự và niềm vui biết bao! Hỡi linh hồn ta, Chúa Giê-xu có thật là của ngươi bởi sự hứa hôn hạ mình của chính Ngài không? Vậy thì, hãy ghi nhớ, đó là đời đời. Ngài sẽ không bao giờ bẻ lời đính ước, huống chi kiện ly dị chống lại một linh hồn đã kết hợp với chính Ngài trong dây hôn nhân.</p><p>Ba lần Chúa phán: &quot;Ta sẽ cưới ngươi.&quot; Ngài chất chồng những lời nào để diễn tả sự hứa hôn! Sự công chính xen vào để làm giao ước hợp pháp; không ai có thể cấm những lời rao hôn phối hợp pháp này. Sự xét đoán chuẩn y liên minh bằng sắc lệnh: không ai có thể thấy sự dại dột hay sai lầm trong cuộc hôn phối. Lòng nhân từ bảo đảm rằng đây là sự kết hợp tình yêu, vì không có tình yêu, hứa hôn là nô lệ, chứ không phải phước hạnh. Trong khi đó, lòng thương xót mỉm cười, và còn hát; phải, nàng nhân mình lên thành &quot;các sự thương xót,&quot; vì ân điển tràn đầy của sự kết hợp thánh này.</p><p>Sự thành tín là người ghi sổ, và ghi lại cuộc hôn nhân, và Đức Thánh Linh phán &quot;A-men&quot; với nó, khi Ngài hứa dạy tấm lòng đã hứa hôn mọi sự hiểu biết thánh cần thiết cho định mệnh cao cả của nó. Lời hứa biết bao!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Biết rằng Chúa đã hứa hôn bạn với Ngài đời đời trong sự công chính và sự thành tín, điều đó thay đổi cách bạn đối diện với nỗi sợ bị bỏ rơi hôm nay như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài đã kết hợp chúng con với chính Ngài trong một giao ước đời đời mà Ngài sẽ không bao giờ bẻ gãy. Xin giúp chúng con tin rằng tình yêu Ngài dành cho chúng con được xây trên sự công chính và lòng thương xót, chứ không trên sự xứng đáng của chúng con. Xin dạy chúng con sống hôm nay như những người thuộc về Ngài, với lòng biết ơn và sự vui mừng.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/giao-uoc.html">Giao ước</a><a class="btn" href="/bach-khoa/hon-nhan.html">Hôn nhân</a><a class="btn" href="/bach-khoa/su-nhan-lam-con-nuoi.html">Sự nhận làm con nuôi</a><a class="btn" href="/giao-ly/cau-20.html">Giáo Lý Câu 20</a><a class="btn" href="/giao-ly/cau-34.html">Giáo Lý Câu 34</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

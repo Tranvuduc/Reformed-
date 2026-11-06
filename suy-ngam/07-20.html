@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/heb/9.html#v28" style="color:inherit">Hê-bơ-rơ 9:28</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đấng Christ sẽ trở lại hoàn tất sự cứu rỗi cho những ai trông đợi Ngài trong đức tin.</p>
     <div class="dev-body"><p>Đây là hy vọng của chúng ta. Đấng mà chúng ta đã trông đợi khi Ngài đến lần đầu để gánh tội lỗi của nhiều người sẽ có một sự hiện ra khác cho con cái loài người; tự nó đây đã là một viễn cảnh vui mừng. Nhưng lần hiện đến thứ hai ấy có những dấu hiệu đặc biệt làm nó vinh hiển cách lạ thường.</p><p>Chúa chúng ta sẽ chấm dứt công việc của tội lỗi. Ngài đã cất nó khỏi dân Ngài, và gánh hình phạt nó cách hiệu quả, đến nỗi Ngài sẽ không còn dính dáng gì đến nó trong lần đến thứ hai. Ngài sẽ không dâng của lễ chuộc tội nào, vì Ngài đã hoàn toàn trừ bỏ tội lỗi.</p><p>Chúa chúng ta lúc ấy sẽ hoàn tất sự cứu rỗi của dân Ngài. Họ sẽ được cứu cách cuối cùng và trọn vẹn, và sẽ trong mọi phương diện hưởng sự đầy trọn của sự cứu rỗi ấy. Ngài đến không phải để gánh hậu quả của các vi phạm chúng ta, nhưng để đem đến kết quả của sự vâng lời Ngài; không phải để cất sự đoán phạt chúng ta, nhưng để hoàn tất sự cứu rỗi chúng ta.</p><p>Chúa chúng ta hiện ra như vậy chỉ cho những kẻ trông đợi Ngài. Ngài sẽ không được thấy trong tính cách này bởi những người mắt bị mù bởi mình và tội lỗi. Đối với họ Ngài sẽ là Quan Án đáng sợ, và không gì hơn. Chúng ta phải trước hết trông đến Ngài, rồi trông đợi Ngài; và trong cả hai trường hợp sự nhìn xem của chúng ta sẽ là sự sống.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn đang trông đợi Chúa Giê-xu trở lại với lòng vui mừng, hay bạn vẫn còn níu giữ điều gì khiến mình sợ ngày Ngài hiện ra?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Chúa Giê-xu đã một lần gánh tội lỗi chúng con, và Ngài sẽ trở lại để hoàn tất sự cứu rỗi của chúng con. Xin dạy chúng con trông đợi Ngài mỗi ngày với lòng vui mừng và đời sống trong sạch. Xin giữ lòng chúng con hướng về ngày gặp gỡ Ngài, để chúng con sống hôm nay như những người thuộc về Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-tai-lam.html">Sự tái lâm</a><a class="btn" href="/bach-khoa/su-cuu-roi.html">Sự cứu rỗi</a><a class="btn" href="/bach-khoa/su-vinh-hien-hoa.html">Sự vinh hiển hóa</a><a class="btn" href="/giao-ly/cau-28.html">Giáo Lý Câu 28</a><a class="btn" href="/giao-ly/cau-38.html">Giáo Lý Câu 38</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

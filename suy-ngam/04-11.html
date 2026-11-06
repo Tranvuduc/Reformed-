@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/jer/31.html#v34" style="color:inherit">Giê-rê-mi 31:34</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ngay tín hữu nhỏ nhất cũng thật sự biết Đức Chúa Trời cách cá nhân và vui hưởng thông công với Ngài.</p>
     <div class="dev-body"><p>Thật vậy, dù chúng ta không biết điều gì khác, chúng ta biết Chúa. Ngày nay lời hứa này là thật trong kinh nghiệm của chúng ta, và đó không phải là một điều nhỏ. Người tín đồ nhỏ nhất trong chúng ta cũng biết Đức Chúa Trời trong Đấng Christ Giê-xu. Chưa đầy đủ như chúng ta mong ước; nhưng chúng ta thật sự và chân thật biết Chúa. Chúng ta không chỉ biết các giáo lý về Ngài, mà chúng ta biết chính NGÀI. Ngài là Cha và là Bạn của chúng ta. Chúng ta quen biết Ngài cách cá nhân. Chúng ta có thể nói: &quot;Lạy Chúa tôi và Đức Chúa Trời tôi.&quot; Chúng ta ở trong mối thông công mật thiết với Đức Chúa Trời, và chúng ta trải qua nhiều mùa vui mừng trong sự hiện diện thánh của Ngài. Chúng ta không còn là người xa lạ với Đức Chúa Trời chúng ta, nhưng bí mật của Đức Chúa Trời ở cùng chúng ta.</p><p>Điều này vượt quá những gì bản tính có thể dạy chúng ta. Xác thịt và huyết không tỏ Đức Chúa Trời cho chúng ta. Đấng Christ Giê-xu đã tỏ Đức Chúa Cha cho lòng chúng ta. Vậy nếu Chúa đã khiến chúng ta biết chính Ngài, chẳng phải đây là nguồn của mọi tri thức cứu rỗi sao? Biết Đức Chúa Trời là sự sống đời đời. Ngay khi chúng ta được quen biết Đức Chúa Trời, chúng ta có bằng chứng mình đã được làm sống lại trong sự mới mẻ của sự sống. Hỡi linh hồn ta, hãy vui mừng trong sự hiểu biết này, và chúc tụng Đức Chúa Trời ngươi suốt ngày nay!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có thể kể tên một lúc cụ thể trong ngày hôm nay mà bạn cảm nhận Chúa không chỉ là Đấng bạn nghe nói đến, mà là Cha và là Bạn đang ở cùng bạn không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì Ngài đã cho kẻ bé mọn như chúng con được gần gũi Ngài thật sự, chẳng phải chỉ nghe người khác kể lại. Xin Ngài giúp chúng con sống gần Ngài từng ngày như con thơ nép bên cha hiền, và tìm được niềm vui trong sự gần gũi ấy. Xin cho lòng chúng con mỗi sáng thức dậy đều hướng về Ngài trước hết, và buổi tối khép lại cũng trong sự tin cậy Ngài. Chúng con xin Ngài làm cho sự quen biết này càng lúc càng sâu đậm, để cả đời chúng con là một bài ca cảm tạ.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-hien-dien-cua-duc-chua-troi.html">Sự hiện diện của Đức Chúa Trời</a><a class="btn" href="/bach-khoa/duc-chua-cha.html">Đức Chúa Cha</a><a class="btn" href="/bach-khoa/su-thong-cong.html">Sự thông công</a><a class="btn" href="/giao-ly/cau-1.html">Giáo Lý Câu 1</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/jos/1.html#v7" style="color:inherit">Giô-suê 1:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Mạnh mẽ can đảm vâng theo trọn luật pháp Chúa, chẳng xây qua bên nào, sẽ được thịnh vượng thuộc linh.</p>
     <div class="dev-body"><p>Phải, Chúa sẽ ở cùng chúng ta trong cuộc chiến thánh của chúng ta, nhưng Ngài đòi hỏi chúng ta phải nghiêm ngặt tuân theo các quy tắc của Ngài. Các chiến thắng của chúng ta sẽ phụ thuộc rất nhiều vào việc chúng ta vâng lời Ngài bằng cả tấm lòng, dồn sức mạnh và can đảm vào các hành động của đức tin mình. Nếu chúng ta nửa vời, chúng ta không thể mong đợi hơn một nửa phước lành.</p><p>Chúng ta phải vâng lời Chúa một cách cẩn thận và suy nghĩ. Cụm từ được dùng là &quot;cẩn thận làm theo,&quot; và nó đầy ý nghĩa. Điều này được áp dụng cho mọi phần của ý muốn thiên thượng; chúng ta phải vâng lời với sự sẵn lòng phổ quát. Quy tắc ứng xử của chúng ta là &quot;theo mọi luật pháp.&quot; Chúng ta không được lựa chọn, nhưng phải nhận lấy các mạng lệnh của Chúa như chúng đến, hết thảy mọi điều. Trong tất cả điều này chúng ta phải tiến lên với sự chính xác và kiên định. Đường lối của chúng ta phải là một đường thẳng, không cong qua bên hữu cũng không qua bên tả. Chúng ta không được sai lầm bằng cách cứng nhắc hơn luật pháp, cũng không vì nhẹ dạ mà rẽ sang một con đường dễ dàng tự do hơn. Với sự vâng lời như vậy sẽ đến sự thịnh vượng thuộc linh. Ôi Chúa, xin giúp chúng con thấy liệu có phải đúng như vậy không! Chúng con sẽ không thử nghiệm lời hứa của Ngài một cách vô ích.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có đang vâng lời Đức Chúa Trời một cách nửa vời, chọn lọc những mạng lệnh dễ giữ mà bỏ qua những mạng lệnh khó giữ không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài hứa ở cùng chúng con trong cuộc chiến thánh, và Ngài chỉ đòi hỏi chúng con vâng lời Ngài cách cẩn thận và trọn vẹn. Xin giúp chúng con không rẽ sang bên hữu hay bên tả, cũng không cứng nhắc hơn luật pháp Ngài hay tìm con đường dễ dàng hơn. Xin cho sự vâng lời của chúng con hôm nay đem lại sự thịnh vượng thuộc linh mà Ngài đã hứa.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-vang-loi.html">Sự vâng lời</a><a class="btn" href="/bach-khoa/luat-phap.html">Luật pháp</a><a class="btn" href="/bach-khoa/phuoc-hanh.html">Phước hạnh</a><a class="btn" href="/giao-ly/cau-39.html">Giáo Lý Câu 39</a><a class="btn" href="/giao-ly/cau-40.html">Giáo Lý Câu 40</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

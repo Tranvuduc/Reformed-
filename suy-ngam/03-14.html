@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/isa/66.html#v13" style="color:inherit">Ê-sai 66:13</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời an ủi con cái Ngài dịu dàng như mẹ an ủi con, nên hãy tuôn nỗi buồn ra trước Ngài.</p>
     <div class="dev-body"><p>Sự an ủi của người mẹ! Ôi, đây chính là sự dịu dàng. Bà đi vào nỗi buồn của con mình thế nào! Bà ôm nó vào lòng thế nào, và cố mang mọi nỗi sầu của nó vào lòng mình! Nó có thể kể cho bà mọi điều, và bà sẽ cảm thông như không ai khác có thể. Trong mọi người an ủi, đứa trẻ yêu mẹ mình nhất, và ngay cả những người đàn ông trưởng thành cũng thấy như vậy.</p><p>Giê-hô-va có hạ mình xuống để đóng vai người mẹ không? Đây quả là sự tốt lành. Chúng ta dễ dàng nhận ra Ngài là cha thế nào; nhưng Ngài có sẽ như mẹ nữa không? Điều này chẳng mời gọi chúng ta đến sự thân mật thánh, đến sự tin cậy không giữ lại, đến sự nghỉ ngơi thiêng liêng sao? Khi chính Đức Chúa Trời trở thành &quot;Đấng An Ủi&quot;, không nỗi đau đớn nào có thể tồn tại lâu. Chúng ta hãy tuôn ra nỗi khổ của mình, dù tiếng nức nở và tiếng thở dài trở thành lời thốt ra sẵn sàng nhất của chúng ta. Ngài sẽ không khinh dể chúng ta vì nước mắt của chúng ta; mẹ chúng ta đã không làm vậy. Ngài sẽ xét đến sự yếu đuối của chúng ta như bà đã làm, và Ngài sẽ cất đi lỗi lầm của chúng ta, chỉ theo cách chắc chắn, an toàn hơn điều mẹ chúng ta có thể làm. Chúng ta sẽ không cố gánh nỗi buồn một mình: điều đó sẽ là bạc bẽo với Đấng dịu dàng và nhân từ dường ấy. Chúng ta hãy bắt đầu ngày mới với Đức Chúa Trời yêu thương của mình, và sao chúng ta lại không kết thúc nó trong cùng sự đồng hành ấy, vì những người mẹ không hề mệt mỏi vì con cái mình?</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Nỗi buồn nào bạn đang cố gánh một mình, và bạn sẽ đến với Đức Chúa Trời như một đứa trẻ đến với mẹ mình, tuôn ra mọi nỗi khổ và để Ngài ôm lấy mình, như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài hạ mình an ủi chúng con như người mẹ an ủi con mình, đi vào nỗi buồn của chúng con và ôm chúng con vào lòng. Xin giúp chúng con đừng cố gánh nỗi buồn một mình, vì làm vậy là phụ lòng Đấng dịu dàng và nhân từ biết bao. Xin cho chúng con tuôn ra nỗi khổ của mình trước mặt Ngài, dù chỉ còn tiếng khóc nức nở và hơi thở dài làm lời chúng con thốt ra. Xin Ngài xét đến sự yếu đuối của chúng con, cất đi lỗi lầm của chúng con, và cho chúng con bắt đầu cũng như kết thúc mỗi ngày trong sự đồng hành yêu thương của Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/yen-ui.html">Yên ủi</a><a class="btn" href="/bach-khoa/dang-yen-ui.html">Đấng Yên Ủi</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a></div></div>
   </article>
   <nav class="qnav">

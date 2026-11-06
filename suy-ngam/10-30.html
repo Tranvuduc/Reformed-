@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/ezek/36.html#v25" style="color:inherit">Ê-xê-chi-ên 36:25</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời hứa tẩy sạch dân Ngài khỏi mọi ô uế và mọi thần tượng bằng huyết và Thánh Linh.</p>
     <div class="dev-body"><p>Thật là một niềm vui lớn lao! Đấng đã tẩy sạch chúng ta bằng huyết Chúa Giê-xu cũng sẽ tẩy sạch chúng ta bằng nước của Đức Thánh Linh. Đức Chúa Trời đã phán, và vì thế hẳn phải thành: &quot;Các ngươi sẽ được sạch.&quot; Lạy Chúa, chúng con cảm nhận và than khóc sự ô uế mình, và thật được khích lệ khi chính miệng Ngài đảm bảo rằng chúng con sẽ được sạch. Ôi, ước gì Ngài mau làm xong việc ấy!</p><p>Ngài sẽ giải cứu chúng ta khỏi những tội tệ nhất. Những nổi dậy của vô tín, và những dục vọng dối trá tranh chiến với linh hồn, những tư tưởng kiêu ngạo xấu xa, và những gợi ý của Sa-tan phạm thượng đến danh thánh — tất cả sẽ bị tẩy sạch đến nỗi không bao giờ trở lại.</p><p>Ngài cũng sẽ tẩy sạch chúng ta khỏi mọi thần tượng, dù bằng vàng hay bằng đất sét: những tình yêu ô uế của chúng ta, và tình yêu quá độ của chúng ta đối với điều vốn trong sạch. Điều chúng ta đã thần tượng hóa sẽ hoặc bị bẻ gãy khỏi chúng ta, hoặc chúng ta sẽ bị bẻ gãy khỏi nó.</p><p>Chính Đức Chúa Trời phán về điều Ngài sẽ làm. Vì thế lời này được vững lập và chắc chắn, và chúng ta có thể mạnh dạn trông đợi điều nó bảo đảm cho chúng ta. Sự tẩy sạch là một phước lành giao ước, và giao ước được sắp đặt trong mọi sự và chắc chắn.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có thần tượng nào trong lòng bạn — một tình yêu quá độ đối với tiền bạc, danh vọng, hay ngay cả một điều tốt lành — mà bạn cần xin Chúa tẩy sạch hôm nay?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài đã hứa tẩy sạch lòng chúng con khỏi mọi vết nhơ cùng mọi điều chúng con tôn thờ thay cho Ngài, nhờ huyết Chúa Giê-xu đã đổ ra và nhờ Thánh Linh Ngài hành động đầy quyền năng. Xin Ngài rảy nước trong sạch xuống lòng chúng con, cất đi tính kiêu ngạo trong suy nghĩ, những ham muốn lừa dối và những tình yêu đã chiếm lấy chỗ đáng thuộc về Ngài. Xin Ngài làm trọn công việc thanh tẩy này, để chúng con được nên sạch và sống cho Ngài một cách trọn vẹn hơn mỗi ngày. Chúng con tin cậy lời hứa ấy, vì lời hứa ấy là một phần trong giao ước tốt lành Ngài đã thiết lập với chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/bach-khoa/su-tai-sinh.html">Sự tái sinh</a><a class="btn" href="/bach-khoa/tho-hinh-tuong.html">Thờ hình tượng</a><a class="btn" href="/giao-ly/cau-35.html">Giáo Lý Câu 35</a><a class="btn" href="/giao-ly/cau-87.html">Giáo Lý Câu 87</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

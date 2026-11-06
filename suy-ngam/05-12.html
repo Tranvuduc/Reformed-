@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/prov/27.html#v18" style="color:inherit">Châm Ngôn 27:18</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hầu việc Chúa Giê-xu là vinh dự và niềm vui; Ngài sẽ tôn trọng đầy tớ Ngài trong vinh quang đời sau.</p>
     <div class="dev-body"><p>Ai chăm sóc cây vả thì được ăn vả như công lao của mình, và ai hầu hạ một chủ tốt thì được tôn trọng như phần thưởng. Quả thật Chúa Giê-xu là Đấng Chủ tốt nhất trong các chủ, và được phép làm việc nhỏ nhất vì cớ Ngài là một vinh dự. Phục vụ một số chủ là trông coi một cây táo gai và ăn trái gai làm tiền công; nhưng phục vụ Chúa Giê-xu của tôi là giữ một cây vả đầy những trái vả ngọt ngào nhất. Sự phục vụ Ngài tự nó là niềm vui thích, bền đỗ trong đó là sự thăng tiến, thành công trong đó là phước hạnh ở đời này, và phần thưởng cho nó là vinh quang ở đời sau.</p><p>Những vinh dự lớn nhất của chúng ta sẽ được gặt trong mùa vả chín, tức là trong thế giới đời sau. Các thiên sứ giờ đây đang phục vụ chúng ta sẽ đưa chúng ta về nhà khi ngày làm việc của chúng ta xong. Thiên đàng, nơi Chúa Giê-xu hiện diện, sẽ là dinh thự vinh hiển của chúng ta, phước hạnh đời đời là phần vinh hiển của chúng ta, và chính Chúa là bạn đồng hành vinh hiển của chúng ta. Ai có thể tưởng tượng được đầy đủ ý nghĩa của lời hứa này, &quot;Ai hầu hạ chủ mình sẽ được tôn trọng&quot;?</p><p>Lạy Chúa, xin giúp con hầu việc Chủ con. Xin cho con gác lại mọi ý nghĩ về vinh dự cho đến giờ mà chính Ngài tôn trọng con. Xin Thánh Linh Ngài làm cho con nên một người làm việc và người hầu hạ khiêm nhường và nhẫn nại!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Hôm nay bạn đang hầu việc Chúa trong việc nhỏ bé, âm thầm nào — như chăm sóc một cây vả — mà bạn cần giao phó phần vinh dự cho chính Ngài tôn trọng bạn đúng kỳ?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa Giê-xu, chúng con tạ ơn Ngài vì được phục vụ Ngài đã là niềm vui lớn, dù công việc chúng con làm có nhỏ bé và ít ai để ý. Xin giúp chúng con làm việc với tấm lòng khiêm tốn và bền bỉ, không tìm kiếm sự khen ngợi cho mình trong lúc này. Xin Thánh Linh Ngài dạy chúng con vui thỏa trong chính việc phục vụ Ngài mỗi ngày, và phó thác mọi phần thưởng cho thời điểm Ngài chọn. Chúng con hướng lòng về quê hương trên trời, nơi Ngài đón chúng con về và cho chúng con được ở mãi với Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-phuc-vu.html">Sự phục vụ</a><a class="btn" href="/bach-khoa/thien-dang.html">Thiên đàng</a><a class="btn" href="/bach-khoa/su-vinh-hien.html">Sự vinh hiển</a><a class="btn" href="/giao-ly/cau-39.html">Giáo Lý Câu 39</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

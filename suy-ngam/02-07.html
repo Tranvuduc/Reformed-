@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/job/22.html#v23" style="color:inherit">Gióp 22:23</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hãy ăn năn trở lại cùng Đấng Toàn Năng, Ngài sẽ xây dựng lại đời sống đổ nát của bạn.</p>
     <div class="dev-body"><p>Ê-li-pha, trong lời phát biểu này, đã nói một lẽ thật lớn, là tóm tắt của nhiều lời Kinh Thánh được linh cảm. Độc giả ơi, tội lỗi có kéo bạn xuống không? Bạn có trở nên như một đống đổ nát không? Tay Chúa có giáng trên bạn, đến nỗi về của cải bạn bị nghèo đi, và về tâm linh bạn bị tan vỡ không? Có phải chính sự dại dột của bạn đã đem đến cho bạn mọi sự đổ nát này không? Vậy điều đầu tiên phải làm là trở lại cùng Chúa. Với sự ăn năn sâu xa và đức tin chân thành, hãy tìm đường trở về khỏi sự sa ngã của bạn. Đó là bổn phận của bạn, vì bạn đã quay lưng khỏi Đấng mà bạn xưng mình phục vụ. Đó là sự khôn ngoan của bạn, vì bạn không thể chống lại Ngài mà được thịnh vượng. Đó là nhu cầu cấp bách của bạn, vì điều Ngài đã làm chẳng là gì so với điều Ngài có thể làm trong đường lối sửa phạt, bởi Ngài là Đấng Toàn Năng để trừng phạt.</p><p>Hãy xem lời hứa nào đang mời gọi bạn! Bạn sẽ được &quot;xây dựng lại.&quot; Không ai ngoài Đấng Toàn Năng có thể dựng lại những cột trụ đã ngã, và khôi phục những bức tường lung lay của tình trạng bạn; nhưng Ngài có thể và Ngài sẽ làm điều đó nếu bạn trở lại cùng Ngài. Đừng chần chừ. Tâm trí tan nát của bạn có thể hoàn toàn suy sụp nếu bạn cứ tiếp tục phản nghịch; nhưng sự xưng tội thành tâm sẽ làm bạn nhẹ nhõm, và đức tin khiêm nhường sẽ an ủi bạn. Hãy làm điều này, và mọi sự sẽ tốt đẹp.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Sau một lần sa ngã khiến đời bạn như đống đổ nát, bạn có sẵn lòng chạy đến với Ngài ngay hôm nay, thay vì chần chừ trong sự phản nghịch không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha Toàn Năng, chúng con tạ ơn Ngài vì Ngài hứa dựng lại đời sống tan vỡ của những ai quay trở về cùng Ngài, thay vì bỏ mặc chúng con trong đống đổ nát. Chúng con xưng nhận rằng chính sự dại dột của mình đã làm hư hại mọi sự, và chúng con đến với Ngài với tấm lòng tan vỡ cùng lòng tin cậy khiêm nhường. Xin Ngài dựng lại những cột trụ đã ngã trong lòng chúng con và khôi phục chúng con bằng lòng thương xót của Ngài. Chúng con không muốn chần chừ nữa, nhưng quay về với Ngài ngay hôm nay.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/an-nan.html">Ăn năn</a><a class="btn" href="/bach-khoa/su-tha-thu.html">Sự tha thứ</a><a class="btn" href="/giao-ly/cau-87.html">Giáo Lý Câu 87</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-nan.html">Ăn năn</a><a class="btn" href="/suy-ngam/chu-de/tha-thu.html">Tha thứ</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

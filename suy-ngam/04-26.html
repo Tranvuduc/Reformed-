@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/deb/15.html#v18" style="color:inherit">Phục Truyền Luật Lệ Ký 15:18</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ai đối xử nhân từ và quảng đại với người làm công sẽ được Đức Chúa Trời ban phước mọi việc làm.</p>
     <div class="dev-body"><p>Một người chủ Y-sơ-ra-ên phải cho đầy tớ bị bán của mình được tự do đúng kỳ hạn, và khi người ấy rời khỏi sự phục vụ, phải cho người ấy một phần hậu hĩnh để khởi đầu đời sống. Điều này phải được làm hết lòng và vui vẻ, rồi Chúa hứa sẽ ban phước cho hành động quảng đại ấy. Tinh thần của điều răn này, và, thật ra, cả luật pháp của Đấng Christ, buộc chúng ta phải đối xử tốt với những người làm công. Chúng ta nên nhớ Chúa đã đối xử với chúng ta thế nào, và điều này khiến chúng ta tuyệt đối cần phải đối xử nhân từ với người khác. Những ai là con của một Đức Chúa Trời nhân từ thì phải quảng đại. Làm sao chúng ta mong Chủ vĩ đại của mình ban phước cho công việc làm ăn của mình nếu chúng ta áp bức những người phục vụ mình?</p><p>Ôi, phước lành được đặt trước tâm trí quảng đại ở đây biết bao! Được ban phước trong mọi việc mình làm là được ban phước thật. Chúa sẽ ban điều này cho chúng ta một phần trong sự thịnh vượng, một phần trong sự thỏa lòng của tâm trí, và một phần trong ý thức về ơn Ngài, là phước lành tốt nhất trong mọi phước lành. Ngài có thể khiến chúng ta cảm thấy mình đang ở dưới sự chăm sóc đặc biệt của Ngài, và được bao quanh bởi tình yêu đặc biệt của Ngài. Điều này khiến đời sống trần gian này thành một khúc dạo đầu vui mừng cho đời sống mai sau. Phước lành của Đức Chúa Trời quý hơn cả gia tài. Nó làm cho giàu có, mà không thêm sự sầu khổ.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có một người đang phục vụ hay làm việc cho bạn mà bạn đã đối xử khắt khe hay vô tâm, và bạn sẽ đối xử quảng đại với người ấy hôm nay như thế nào, khi nhớ Chúa đã đối xử nhân từ với bạn ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài là một Đức Chúa Trời nhân từ, và Ngài đã đối xử với chúng con cách quảng đại biết bao. Chúng con thú nhận mình hay áp bức hay vô tâm với những người phục vụ mình, trong khi vẫn mong Ngài ban phước cho công việc của chúng con. Xin dạy chúng con đối xử tốt với người làm công cách hết lòng và vui vẻ, như con cái của một Đức Chúa Trời nhân từ phải làm. Xin ban phước cho chúng con trong mọi việc chúng con làm, và cho chúng con cảm nhận sự chăm sóc đặc biệt của Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/long-thuong-xot.html">Lòng thương xót</a><a class="btn" href="/bach-khoa/dang-hien.html">Dâng hiến</a><a class="btn" href="/bach-khoa/su-trung-tin.html">Sự trung tín</a><a class="btn" href="/giao-ly/cau-74.html">Giáo Lý Câu 74</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

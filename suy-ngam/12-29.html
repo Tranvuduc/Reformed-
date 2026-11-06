@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/isa/46.html#v4" style="color:inherit">Ê-sai 46:4</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Cho đến tuổi già bạc đầu, Đức Chúa Trời vẫn bồng ẵm, gánh vác và giải cứu dân Ngài về nhà.</p>
     <div class="dev-body"><p>Năm đã rất già, và đây là một lời hứa cho những người bạn cao tuổi của chúng ta; phải, và cho tất cả chúng ta, khi tuổi già len lỏi đến với chúng ta. Chúng ta hãy sống đủ lâu, và tất cả chúng ta sẽ có tóc bạc; vì vậy chúng ta cũng có thể hưởng lời hứa này bởi sự thấy trước của đức tin.</p><p>Khi chúng ta già đi, Đức Chúa Trời chúng ta vẫn là Đấng Tự Hữu Hằng Hữu, đời đời vẫn y nguyên. Tóc bạc nói lên sự suy tàn của chúng ta, nhưng Ngài không suy tàn. Khi chúng ta không thể gánh một gánh nặng, và khó lòng gánh nổi chính mình, Chúa sẽ gánh chúng ta. Như trong những ngày thơ ấu Ngài đã bồng ẵm chúng ta như chiên con trong lòng Ngài, Ngài cũng sẽ làm vậy trong những năm suy yếu của chúng ta.</p><p>Ngài đã dựng nên chúng ta, và Ngài sẽ chăm sóc chúng ta. Khi chúng ta trở thành gánh nặng cho bạn bè mình, và gánh nặng cho chính mình, Chúa sẽ không quăng chúng ta đi, nhưng Ngài sẽ nhấc chúng ta lên, bồng ẵm và giải cứu chúng ta đầy trọn hơn bao giờ hết. Trong nhiều trường hợp, Chúa ban cho các đầy tớ Ngài một buổi chiều dài và yên tĩnh. Họ đã làm việc vất vả cả ngày và hao mòn mình trong sự hầu việc Chủ mình, và Ngài phán với họ: &quot;Bây giờ hãy nghỉ ngơi trong sự trông đợi ngày Sa-bát đời đời mà Ta đã sắm sẵn cho các ngươi.&quot; Chúng ta đừng sợ tuổi già. Chúng ta hãy già đi một cách đầy ân điển, vì chính Chúa ở cùng chúng ta trong sự đầy dẫy ân điển.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi nghĩ đến tuổi già — của chính bạn hay của người thân — bạn sẽ tin cậy Chúa là Đấng nâng đỡ mình như thế nào thay vì sợ hãi sự suy tàn?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài là Đức Chúa Trời đời đời không hề thay đổi, dù tóc chúng con bạc đi và sức chúng con suy tàn. Xin cho chúng con tin rằng khi chúng con không thể gánh nổi chính mình, chính Ngài sẽ nâng đỡ và giải cứu chúng con. Xin an ủi những tín hữu lớn tuổi thân quen với chúng con, và ban cho họ những năm tháng cuối đời bình an trong sự trông đợi sự nghỉ ngơi đời đời Ngài đã sắm sẵn. Xin cho chúng con đừng sợ tuổi già, nhưng bước vào tuổi già với đầy ân điển, vì chính Ngài ở cùng chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/os/6.html#v1" style="color:inherit">Ô-sê 6:1</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúa xé ra trước khi chữa lành; hãy trở về cùng Ngài với mọi vết thương, Ngài vui lòng buộc lại.</p>
     <div class="dev-body"><p>Đó là cách của Chúa: xé ra trước khi chữa lành. Đây là tình yêu chân thành của lòng Ngài, và là cuộc phẫu thuật chắc chắn của tay Ngài. Ngài cũng đánh bầm trước khi buộc lại, bằng không công việc sẽ không chắc chắn. Luật pháp đến trước Phúc Âm; ý thức về sự thiếu thốn đến trước sự cung ứng. Độc giả có đang ở dưới bàn tay cáo trách, nghiền nát của Thánh Linh không? Người có đã nhận lại tâm thần nô lệ để sợ hãi không? Đây là bước chuẩn bị lành mạnh cho sự chữa lành và buộc vết thương thật sự của Phúc Âm.</p><p>Đừng tuyệt vọng, hỡi lòng yêu dấu, nhưng hãy đến cùng Chúa với mọi vết thương rách nát, những vết bầm đen, và những vết lở loét đang rỉ máu. Chỉ một mình Ngài có thể chữa lành, và Ngài vui thích làm điều đó. Chức vụ của Chúa chúng ta là buộc vết thương cho những kẻ tan vỡ trong lòng, và Ngài thật thành thạo trong việc ấy. Chúng ta đừng chần chừ, nhưng hãy lập tức trở về cùng Chúa là Đấng chúng ta đã lìa bỏ. Chúng ta hãy cho Ngài xem những vết thương há miệng của mình, và nài xin Ngài nhận biết công việc của chính Ngài, và hoàn tất nó. Có người thầy thuốc nào rạch một đường mổ, rồi bỏ mặc bệnh nhân chảy máu đến chết không? Chúa có phá đổ ngôi nhà cũ của chúng ta, rồi từ chối xây cho chúng ta một ngôi nhà tốt hơn không? Ngài có bao giờ cố ý gia tăng sự khốn khổ của những linh hồn nghèo nàn lo âu không? Điều đó chớ hề đến gần Ngài, ôi lạy Chúa.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Vết đau nào trong lòng bạn đang cần được đem đến trước mặt Ngài, để Ngài biến sự cáo trách hôm nay thành sự chữa lành thật sự cho bạn?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì Ngài không để mặc chúng con trong tình trạng tan vỡ, nhưng chính Ngài chạm đến những chỗ đau để chữa lành chúng con từ bên trong. Xin giúp chúng con nhận ra sự cáo trách của Ngài là dấu hiệu của tình yêu, và là bước đầu dẫn chúng con đến sự tha thứ trong Phúc Âm. Xin cho chúng con mau mắn quay về với Ngài, đem hết mọi tổn thương trong lòng đến trước mặt Ngài mà không che giấu. Chúng con tin rằng Ngài vui lòng băng bó những tấm lòng tan nát, và Ngài sẽ hoàn thành điều tốt lành Ngài đã khởi sự trong chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-chua-lanh.html">Sự chữa lành</a><a class="btn" href="/bach-khoa/an-nan.html">Ăn năn</a><a class="btn" href="/bach-khoa/phuc-am.html">Phúc Âm</a><a class="btn" href="/giao-ly/cau-87.html">Giáo Lý Câu 87</a><a class="btn" href="/giao-ly/cau-85.html">Giáo Lý Câu 85</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-nan.html">Ăn năn</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/tha-thu.html">Tha thứ</a></div></div>
   </article>
   <nav class="qnav">

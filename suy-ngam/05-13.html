@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/rev/2.html#v28" style="color:inherit">Khải Huyền 2:28</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Thấy Chúa Giê-xu như sao mai bởi đức tin bảo chứng rằng ngày vinh quang và sự biến đổi sẽ đến.</p>
     <div class="dev-body"><p>Cho đến khi ngày bừng sáng, và bóng tối tan đi, thật là một phước hạnh khi được thấy trong Chúa Giê-xu &quot;ngôi sao mai&quot;! Tôi nhớ khi chúng ta đọc trên báo câu chuyện viển vông rằng ngôi sao Bết-lê-hem đã lại xuất hiện. Khi tìm hiểu, chúng tôi thấy đó chỉ là &quot;ngôi sao mai&quot;; nhưng rốt cuộc cũng chẳng nhầm lẫn gì lớn.</p><p>Tốt nhất là thấy Chúa Giê-xu như mặt trời; nhưng khi không thể làm vậy, điều tốt thứ hai là thấy Ngài như ngôi sao báo hiệu ngày mới, và cho thấy ánh sáng đời đời đã gần kề. Nếu hôm nay tôi chưa phải là tất cả những gì tôi hy vọng trở nên, tôi vẫn thấy Chúa Giê-xu, và điều đó quả quyết với tôi rằng một ngày kia tôi sẽ giống như Ngài. Được thấy Chúa Giê-xu bởi đức tin là bảo chứng rằng tôi sẽ thấy Ngài trong vinh quang và được biến đổi theo hình ảnh Ngài. Nếu giờ này tôi chưa có mọi ánh sáng và niềm vui như tôi ước ao, tôi rồi sẽ có; vì chắc chắn như tôi thấy ngôi sao mai, tôi sẽ thấy ngày mới. Ngôi sao mai không bao giờ ở xa mặt trời.</p><p>Này, hỡi linh hồn ta, Chúa đã ban cho ngươi ngôi sao mai chưa? Ngươi có giữ chặt lẽ thật, ân điển, hy vọng, và tình yêu mà Chúa đã ban cho ngươi không? Vậy thì trong điều đó ngươi có bình minh của vinh quang sắp đến. Đấng khiến ngươi thắng hơn điều ác, và bền đỗ trong sự công chính, trong đó đã ban cho ngươi ngôi sao mai.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi bạn chưa thấy Chúa Giê-xu rực rỡ như mặt trời, chỉ thấy Ngài mờ mờ như ngôi sao mai, điều đó khích lệ bạn thế nào về ngày bạn sẽ được biến đổi giống như Ngài?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa Giê-xu, chúng con tạ ơn Ngài vì dù chúng con chưa thấy trọn vẹn ánh sáng ban ngày, Ngài đã cho chúng con một dấu hiệu chắc chắn rằng bình minh đang đến gần. Xin giúp chúng con nắm giữ những điều tốt lành Ngài đã đặt trong lòng chúng con, và sống mỗi ngày với niềm hy vọng hướng về tương lai. Xin cho lòng tin cậy Ngài ngay bây giờ làm cho chúng con chắc chắn rằng mai sau chúng con sẽ được thấy Ngài tỏ tường và trở nên giống Ngài hơn. Xin ánh sáng dịu dàng ấy soi đường cho chúng con trong lúc chúng con chờ đợi ngày trọn vẹn bừng lên.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/dang-christ.html">Đấng Christ</a><a class="btn" href="/bach-khoa/hy-vong.html">Hy vọng</a><a class="btn" href="/bach-khoa/su-vinh-hien.html">Sự vinh hiển</a><a class="btn" href="/giao-ly/cau-86.html">Giáo Lý Câu 86</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

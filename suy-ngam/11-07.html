@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/luk/18.html#v14" style="color:inherit">Lu-ca 18:14</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Kẻ hạ mình trước Đức Chúa Trời trong cầu nguyện sẽ được Ngài tôn cao trong bình an và vinh dự.</p>
     <div class="dev-body"><p>Chúng ta không nên khó hạ mình, vì chúng ta có gì để kiêu ngạo? Chúng ta nên nhận chỗ thấp nhất mà không cần ai bảo. Nếu chúng ta khôn ngoan và thành thật, chúng ta sẽ thấy mình nhỏ bé trong mắt mình. Đặc biệt trước mặt Chúa trong cầu nguyện, chúng ta sẽ co lại thành hư không. Ở đó chúng ta không thể nói về công đức, vì chúng ta chẳng có: lời nài xin duy nhất của chúng ta phải là lòng thương xót: &quot;Lạy Đức Chúa Trời, xin thương xót tôi là kẻ có tội.&quot;</p><p>Đây là một lời khích lệ từ ngai vàng. Chúng ta sẽ được Chúa tôn cao nếu chúng ta hạ mình. Đối với chúng ta, con đường đi lên là đường dốc xuống. Khi chúng ta lột bỏ cái tôi, chúng ta được mặc lấy sự khiêm nhường, và đó là y phục tốt nhất. Chúa sẽ tôn cao chúng ta trong sự bình an và hạnh phúc của tâm trí; Ngài sẽ tôn cao chúng ta vào trong sự hiểu biết Lời Ngài và sự tương giao với chính Ngài; Ngài sẽ tôn cao chúng ta trong sự vui hưởng sự tha thứ chắc chắn và sự xưng công chính. Chúa đặt vinh dự của Ngài trên những kẻ có thể đội chúng để tôn vinh Đấng Ban Cho. Ngài ban sự hữu dụng, sự được chấp nhận, và ảnh hưởng cho những kẻ không bị phồng lên vì chúng, nhưng bị hạ xuống bởi ý thức về trách nhiệm lớn hơn. Cả Đức Chúa Trời lẫn con người đều không muốn nâng một kẻ tự nâng mình; nhưng cả Đức Chúa Trời và người tốt đều hiệp nhau tôn vinh người có giá trị khiêm tốn.</p><p>Lạy Chúa, xin dìm con xuống trong cái tôi để con được trỗi dậy trong Ngài.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi quỳ gối cầu nguyện trước Chúa, bạn thấy mình nhỏ bé ở chỗ nào nhất, và bạn sẽ hạ mình xuống cách cụ thể nào trong tuần này thay vì tự nâng mình lên?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con quỳ gối trước Ngài với tấm lòng khiêm nhường, vì chúng con chẳng có công đức nào để khoe khoang, và lời cầu xin duy nhất của chúng con là xin Ngài xót thương chúng con là những kẻ có tội. Xin Ngài hạ chúng con xuống trong bản ngã, để rồi chúng con được trỗi dậy nhờ Ngài, và khoác lên mình sự khiêm nhường như chiếc áo đẹp nhất. Xin Ngài nâng chúng con lên để chúng con được bình an, được hiểu biết Lời Ngài sâu hơn, được gần gũi với Ngài, và được vui hưởng sự tha thứ vững chắc cùng sự xưng công chính. Xin Ngài ban cho chúng con sự hữu ích và ảnh hưởng mà không khiến chúng con kiêu căng vì chúng, nhưng giúp chúng con càng ý thức hơn về trách nhiệm lớn lao mình mang.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/khiem-nhuong.html">Khiêm nhường</a><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/su-tha-thu.html">Sự tha thứ</a><a class="btn" href="/giao-ly/cau-33.html">Giáo Lý Câu 33</a><a class="btn" href="/giao-ly/cau-87.html">Giáo Lý Câu 87</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

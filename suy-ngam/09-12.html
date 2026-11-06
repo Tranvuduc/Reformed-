@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/act/16.html#v31" style="color:inherit">Công Vụ 16:31</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hãy tin Chúa Giê-xu thì được cứu, và hãy cầu nguyện bền bỉ cho cả gia đình mình.</p>
     <div class="dev-body"><p>Phúc Âm này cho một người có gươm kề cổ là Phúc Âm cho tôi. Điều này sẽ hợp với tôi nếu tôi đang hấp hối, và đó là tất cả những gì tôi cần khi còn sống. Tôi quay mắt khỏi chính mình, khỏi tội lỗi, và khỏi mọi ý tưởng về công đức cá nhân, và tôi tin cậy Chúa Giê-xu là Đấng Cứu Rỗi mà Đức Chúa Trời đã ban. Tôi tin Ngài, tôi nương dựa nơi Ngài, tôi nhận Ngài làm tất cả trong tất cả của tôi. Lạy Chúa, tôi được cứu, và tôi sẽ được cứu đến đời đời, vì tôi tin Chúa Giê-xu. Phước cho danh Ngài vì điều này. Xin cho tôi hằng ngày chứng minh bằng đời sống rằng tôi được cứu khỏi tính ích kỷ, thế tục, và mọi hình thức của điều ác.</p><p>Nhưng những lời cuối về &quot;nhà&quot; tôi: Lạy Chúa, tôi không muốn chỉ chạy đi với nửa lời hứa khi Ngài ban một lời hứa trọn vẹn. Tôi nài xin Ngài, xin cứu cả gia đình tôi. Xin cứu những người gần gũi và thân yêu nhất. Xin biến đổi các con cái, và các cháu, nếu tôi có. Xin thương xót những người giúp việc của tôi, và mọi người sống dưới mái nhà tôi, hay làm việc cho tôi. Ngài ban lời hứa này cho cá nhân tôi nếu tôi tin Chúa Giê-xu; tôi nài xin Ngài làm theo như Ngài đã phán.</p><p>Mỗi ngày trong lời cầu nguyện, tôi sẽ đọc qua tên của mọi anh chị em, cha mẹ, con cái, bạn bè, họ hàng, người giúp việc của tôi, và không cho Ngài nghỉ cho đến khi lời ấy được ứng nghiệm: &quot;và nhà ngươi.&quot;</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có người thân nào trong nhà bạn — cha mẹ, con cái, vợ chồng hay người giúp việc — mà bạn chưa từng kiên trì cầu nguyện cho sự cứu rỗi của họ, và hôm nay bạn có dám nài xin Chúa cứu cả nhà bạn như lời Ngài đã hứa không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa Giê-xu, chúng con cảm tạ Ngài vì tin mừng về Ngài đủ cho chúng con trong mọi hoàn cảnh, từ lúc còn sống cho đến giờ phút cuối cùng, bởi chúng con được cứu nhờ đặt lòng tin nơi Ngài. Xin cho chúng con đừng chỉ nhận lấy một phần lời hứa, nhưng cứ khẩn khoản xin Ngài cứu cả gia đình chúng con. Xin biến đổi những người thân thương nhất của chúng con, và đoái thương mọi người đang sống chung dưới một mái nhà với chúng con. Xin cho chúng con ngày ngày nhắc tên từng người trước mặt Ngài, và không ngừng nài xin cho đến khi lời hứa ấy thành hiện thực trong nhà chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-cuu-roi.html">Sự cứu rỗi</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/phuc-am.html">Phúc Âm</a><a class="btn" href="/giao-ly/cau-86.html">Giáo Lý Câu 86</a><a class="btn" href="/giao-ly/cau-29.html">Giáo Lý Câu 29</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

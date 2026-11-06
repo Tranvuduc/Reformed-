@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/joh/14.html#v18" style="color:inherit">Giăng 14:18</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúa Giê-xu sẽ trở lại với dân Ngài, nên chúng ta không mồ côi và không buồn rầu như kẻ không hy vọng.</p>
     <div class="dev-body"><p>Ngài đã rời chúng ta, nhưng chúng ta không bị bỏ lại mồ côi. Ngài là sự an ủi của chúng ta, và Ngài đã đi; nhưng chúng ta không bị bỏ lại không được an ủi. Sự an ủi của chúng ta là Ngài sẽ đến với chúng ta, và đây là sự yên ủi đủ để nâng đỡ chúng ta suốt thời gian Ngài vắng mặt kéo dài. Chúa Giê-xu đã đang trên đường: Ngài phán, &quot;Ta đến mau chóng&quot;: Ngài cưỡi ngựa phi nhanh về phía chúng ta. Ngài phán, &quot;Ta sẽ đến&quot;: và không ai có thể ngăn cản sự đến của Ngài, hay trì hoãn nó dù chỉ một phần tư giờ. Ngài đặc biệt phán, &quot;Ta sẽ đến với các con&quot;; và Ngài sẽ đến như vậy. Sự đến của Ngài đặc biệt dành cho và vì dân Ngài. Đây là sự an ủi hiện tại của họ trong khi họ than khóc vì Chàng Rể chưa xuất hiện.</p><p>Khi chúng ta mất đi cảm nhận vui mừng về sự hiện diện của Ngài, chúng ta than khóc; nhưng chúng ta không được buồn rầu như thể không còn hy vọng. Chúa của chúng ta trong một cơn giận ngắn đã giấu mặt Ngài khỏi chúng ta một lúc; nhưng Ngài sẽ trở lại trong ân huệ trọn vẹn. Ngài rời chúng ta theo một nghĩa, nhưng chỉ theo một nghĩa. Khi Ngài rút lui, Ngài để lại một vật bảo chứng rằng Ngài sẽ trở lại. Lạy Chúa, xin mau đến! Không có sự sống trong cuộc đời trần gian này nếu Ngài vắng mặt. Chúng con khao khát sự trở lại của nụ cười ngọt ngào của Ngài. Khi nào Ngài sẽ đến với chúng con? Chúng con chắc chắn Ngài sẽ xuất hiện; nhưng xin Ngài như con linh dương, hay như con nai tơ. Xin đừng chậm trễ, hỡi Đức Chúa Trời của chúng con!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi bạn không còn cảm nhận được sự hiện diện ngọt ngào của Chúa Giê-xu, bạn có bám lấy lời hứa rằng Ngài sẽ đến với bạn, thay vì buồn rầu như người không còn hy vọng không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Chúa Giê-xu đã phán rằng Ngài sẽ không để chúng con mồ côi, nhưng Ngài sẽ đến với chúng con. Khi Ngài dường như vắng mặt và lòng chúng con than khóc vì nhớ Ngài, xin Cha nhắc chúng con rằng Chúa Giê-xu đang trên đường đến với chúng con và không ai có thể ngăn cản Ngài. Xin Ngài trở lại với chúng con trong ân huệ trọn vẹn, và ban cho chúng con niềm vui của sự hiện diện Ngài. Chúng con khao khát được thấy mặt Ngài, và chúng con trông đợi Ngài mau đến.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-hien-dien-cua-duc-chua-troi.html">Sự hiện diện của Đức Chúa Trời</a><a class="btn" href="/bach-khoa/dang-yen-ui.html">Đấng Yên Ủi</a><a class="btn" href="/giao-ly/cau-28.html">Giáo Lý Câu 28</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

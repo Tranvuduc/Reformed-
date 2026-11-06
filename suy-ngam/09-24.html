@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/ezek/47.html#v9" style="color:inherit">Ê-xê-chi-ên 47:9</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Dòng sông ân điển chảy đến đâu thì ban sự sống dồi dào đến đó cho mọi vật.</p>
     <div class="dev-body"><p>Những dòng nước hằng sống, trong khải tượng của nhà tiên tri, chảy vào Biển Chết, và mang sự sống theo cùng, ngay cả vào hồ tù đọng ấy. Nơi nào ân điển đến, đời sống thuộc linh là hậu quả tức thì và đời đời. Ân điển tiến hành một cách tối cao theo ý muốn của Đức Chúa Trời, cũng như một con sông trong mọi khúc quanh của nó đi theo ý muốn ngọt ngào của chính nó; và bất cứ nơi nào nó đến, nó không chờ sự sống đến với nó, mà nó tạo ra sự sống bằng dòng chảy ban sự sống của chính nó. Ôi, ước gì nó tuôn chảy dọc các đường phố của chúng ta, và ngập lụt các khu ổ chuột của chúng ta! Ôi, ước gì giờ đây nó đến vào nhà tôi, và dâng lên cho đến khi mọi phòng đều bơi trong nó! Lạy Chúa, xin cho nước hằng sống chảy đến gia đình tôi và bạn bè tôi, và xin đừng bỏ qua tôi. Tôi hy vọng mình đã uống nó rồi; nhưng tôi mong được tắm trong nó, phải, được bơi trong nó. Ôi Đấng Cứu Rỗi của tôi, tôi cần sự sống dồi dào hơn. Xin đến với tôi, tôi cầu xin Ngài, cho đến khi mọi phần trong bản tính tôi đều sống động mạnh mẽ và hoạt động mãnh liệt. Lạy Đức Chúa Trời hằng sống, tôi cầu xin Ngài, xin đổ đầy tôi bằng chính sự sống của Ngài. Tôi là một khúc củi khô nghèo nàn; xin đến và làm cho tôi sống đến nỗi, như cây gậy của A-rôn, tôi đâm chồi, nở hoa và kết trái vì vinh hiển của Ngài. Xin làm cho tôi sống lại, vì cớ Chúa Giê-xu của tôi. A-men.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có góc nào trong nhà bạn, trong gia đình hay bạn bè bạn, còn khô cằn như Biển Chết mà bạn mong dòng nước hằng sống chảy đến và làm cho sống lại không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời hằng sống, chúng con cảm ơn Ngài vì Ngài là nguồn sự sống, và nơi nào Ngài đến, nơi ấy sự sống lại nảy nở. Xin Ngài chạm đến những góc khô cằn trong đời sống chúng con, trong gia đình và giữa những người thân yêu của chúng con, để họ cũng được tươi mới lại. Xin tuôn tràn sự sống của chính Ngài vào trong chúng con, để chúng con không chỉ tồn tại mà còn sống dồi dào và kết quả cho vinh hiển Ngài. Xin cho chúng con trở nên những người mang sự sống của Ngài đến cho những nơi còn khô hạn quanh chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/nuoc-hang-song.html">Nước hằng sống</a><a class="btn" href="/bach-khoa/su-tai-sinh.html">Sự tái sinh</a><a class="btn" href="/bach-khoa/an-dien.html">Ân điển</a><a class="btn" href="/giao-ly/cau-30.html">Giáo Lý Câu 30</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/joh/6.html#v57" style="color:inherit">Giăng 6:57</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Tín hữu sống nhờ ăn nuôi chính Đấng Christ bằng đức tin, suy ngẫm và tiếp nhận Ngài vào lòng.</p>
     <div class="dev-body"><p>Chúng ta sống nhờ sự hiệp một với Con Đức Chúa Trời. Là Đấng Trung Bảo vừa là Đức Chúa Trời vừa là người, Chúa Giê-xu sống bởi Cha tự hữu hằng có, Đấng đã sai Ngài đến, và cũng một thể ấy chúng ta sống bởi Đấng Cứu Thế, Đấng đã làm cho chúng ta sống lại. Đấng là nguồn sự sống của chúng ta cũng là sự nuôi dưỡng sự sống ấy. Sự sống được duy trì nhờ ăn nuôi. Chúng ta phải nuôi dưỡng đời sống thuộc linh bằng thức ăn thuộc linh, và thức ăn thuộc linh ấy là chính Chúa Giê-xu. Không phải sự sống Ngài, hay sự chết Ngài, hay các chức vụ Ngài, hay công việc Ngài, hay lời Ngài mà thôi, nhưng chính Ngài, bao gồm tất cả những điều ấy. Chúng ta ăn nuôi chính Chúa Giê-xu.</p><p>Điều này được bày tỏ cho chúng ta trong Tiệc Thánh, nhưng chúng ta thật sự vui hưởng nó khi suy ngẫm về Chúa, tin Ngài bằng đức tin chiếm hữu, tiếp nhận Ngài vào lòng mình bằng tình yêu, và đồng hóa Ngài bởi quyền năng của sự sống bên trong. Chúng ta biết ăn nuôi Chúa Giê-xu là thế nào, nhưng không thể nói hay viết ra. Cách khôn ngoan nhất của chúng ta là thực hành điều ấy, và thực hành ngày càng hơn. Chúng ta được nài xin hãy ăn cho no nê, và khi Chúa Giê-xu là thịt và huyết nuôi chúng ta, làm như vậy sẽ đem lại lợi ích vô cùng cho chúng ta.</p><p>Lạy Chúa, con tạ ơn Ngài vì điều vốn là nhu cầu của đời sống mới của con, cũng là niềm vui lớn nhất của nó. Vậy nên, giờ này con ăn nuôi Ngài.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Hôm nay bạn đang ăn nuôi đời sống thuộc linh của mình bằng điều gì — chính Chúa Giê-xu, hay chỉ sự sống Ngài, lời Ngài và công việc Ngài mà thôi, mà quên mất chính Ngài?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa, chúng con cảm tạ Ngài vì đời sống mới trong chúng con được nuôi dưỡng bởi chính Ngài, và nhu cầu ấy cũng trở nên niềm vui lớn nhất của chúng con. Xin giúp chúng con suy ngẫm về Ngài mỗi ngày, tin cậy Ngài bằng cả tấm lòng, và đón nhận Ngài vào sâu trong lòng chúng con bằng tình yêu. Xin cho chúng con thực hành sự gần gũi ấy ngày càng hơn, để đời sống chúng con được lớn lên mạnh mẽ trong Ngài. Xin cho chúng con được no thỏa trong Ngài, vì Ngài là nguồn sự sống cùng sự nuôi dưỡng cho chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/banh-su-song.html">Bánh sự sống</a><a class="btn" href="/bach-khoa/tiec-thanh.html">Tiệc Thánh</a><a class="btn" href="/bach-khoa/su-song-doi-doi.html">Sự sống đời đời</a><a class="btn" href="/giao-ly/cau-96.html">Giáo Lý Câu 96</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/joh/3.html#v16" style="color:inherit">Giăng 3:16</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Tình yêu Đức Chúa Trời ban Con Một, để hễ ai tin Ngài không hư mất mà được sự sống đời đời.</p>
     <div class="dev-body"><p>Trong mọi ngôi sao trên trời, sao Bắc Cực là ngôi hữu ích nhất cho người thủy thủ. Câu Kinh Thánh này là sao Bắc Cực, vì nó đã dẫn nhiều linh hồn đến sự cứu rỗi hơn bất kỳ Kinh Thánh nào khác. Nó đứng giữa các lời hứa như chòm Đại Hùng đứng giữa các chòm sao.</p><p>Một số từ trong đó tỏa sáng rực rỡ lạ thường. Ở đây chúng ta có tình yêu của Đức Chúa Trời, với chữ &quot;đến nỗi&quot; đi kèm, đánh dấu sự vĩ đại không đo lường được của nó. Rồi chúng ta có món quà của Đức Chúa Trời trong tất cả sự nhưng không và vĩ đại của nó. Đây cũng là Con của Đức Chúa Trời, món quà độc nhất và vô giá của một tình yêu mà không bao giờ có thể bày tỏ đầy đủ cho đến khi Đấng Con Một trên trời được sai đến để sống và chết vì loài người. Ba điểm này đầy dẫy ánh sáng.</p><p>Rồi có yêu cầu đơn giản là tin, ân cần chỉ ra con đường cứu rỗi thích hợp cho những kẻ có tội. Điều này được hậu thuẫn bởi một mô tả rộng rãi — &quot;hễ ai tin Con ấy.&quot; Nhiều người đã tìm thấy chỗ trong &quot;hễ ai&quot; mà lẽ ra đã cảm thấy mình bị loại ra bởi một từ hẹp hơn. Rồi đến lời hứa vĩ đại, rằng những kẻ tin Chúa Giê-xu sẽ không bị hư mất, mà được sự sống đời đời. Điều này khích lệ mọi người cảm thấy mình sắp hư mất, và mình không thể tự cứu mình. Chúng ta tin nơi Chúa Giê-xu, và chúng ta có sự sống đời đời.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có thấy mình trong chữ &#x27;hễ ai&#x27; của lời hứa này không, và đức tin đơn sơ nơi Con Đức Chúa Trời đang ban cho bạn sự sống đời đời ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì tình yêu Ngài dành cho thế gian lớn lao khôn lường, đến nỗi Ngài đã trao ban Con yêu dấu duy nhất của Ngài. Xin giúp chúng con tin chắc rằng lời mời của Ngài mở rộng cho mọi người, kể cả những kẻ tưởng mình không còn hy vọng. Xin cho tình yêu ấy soi sáng từng bước chúng con đi, như ánh sao dẫn đường cho người lữ hành giữa đêm tối. Chúng con nương cậy nơi Chúa Giê-xu, và nhờ Ngài chúng con nhận được sự sống chẳng bao giờ tàn.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/tinh-yeu-thuong.html">Tình yêu thương</a><a class="btn" href="/bach-khoa/phuc-am.html">Phúc Âm</a><a class="btn" href="/bach-khoa/su-cuu-roi.html">Sự cứu rỗi</a><a class="btn" href="/giao-ly/cau-20.html">Giáo Lý Câu 20</a><a class="btn" href="/giao-ly/cau-21.html">Giáo Lý Câu 21</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

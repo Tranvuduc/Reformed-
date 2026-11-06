@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/ezek/11.html#v16" style="color:inherit">Ê-xê-chi-ên 11:16</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Dù lưu đày xa nơi thờ phượng, Đức Chúa Trời vẫn là nơi thánh, nơi nương náu và yên nghỉ cho dân Ngài.</p>
     <div class="dev-body"><p>Bị tách khỏi các phương tiện công cộng của ân điển, chúng ta không bị tách khỏi ân điển của các phương tiện. Chúa đặt dân Ngài nơi họ cảm thấy như kẻ lưu đày sẽ chính Ngài ở cùng họ, và là cho họ mọi điều họ có thể có ở nhà, trong nơi hội họp trang trọng của họ. Hãy nhận lấy điều này cho mình, hỡi những ai được gọi để lang thang!</p><p>Đức Chúa Trời là nơi nương náu cho dân Ngài. Họ tìm nơi thánh với Ngài khỏi mọi kẻ thù. Ngài cũng là nơi thờ phượng của họ. Ngài ở cùng họ như với Gia-cốp khi ông ngủ trong cánh đồng trống, và khi thức dậy, nói: &quot;Quả thật Đức Chúa Trời ở trong nơi này.&quot; Đối với họ, Ngài cũng sẽ là nơi thánh của sự yên tịnh, như Nơi Chí Thánh, là chỗ ở không tiếng động của Đấng Đời Đời. Họ sẽ được yên tịnh khỏi sự sợ hãi điều ác.</p><p>Chính Đức Chúa Trời, trong Chúa Giê-xu Christ, là nơi thánh của lòng thương xót. Hòm giao ước là Chúa Giê-xu, và cây gậy của A-rôn, bình ma-na, các bảng luật pháp, tất cả đều ở trong Đấng Christ là nơi thánh của chúng ta. Trong Đức Chúa Trời chúng ta tìm thấy đền thờ của sự thánh khiết và của sự thông công. Chúng ta cần gì hơn? Lạy Chúa, xin ứng nghiệm lời hứa này và hằng là nơi thánh nhỏ cho chúng con!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn đang sống xa Hội Thánh, xa những phương tiện ân điển quen thuộc, hay cảm thấy mình như kẻ lưu đày ở nơi xa lạ, và bạn sẽ tìm nơi thánh, nơi thờ phượng và nơi yên tịnh ngay trong chính Đức Chúa Trời như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì dù chúng con phải xa các buổi nhóm họp công cộng nơi ân điển được ban, chúng con vẫn không hề xa ân điển ấy, vì chính Ngài ở cùng chúng con. Xin giúp những ai đang lang thang xa quê hương biết rằng Ngài là nơi thánh nhỏ cho họ trong xứ họ đến, là nơi nương náu khỏi mọi kẻ thù và là nơi thờ phượng của họ. Xin cho chúng con tìm thấy trong Ngài, qua Chúa Giê-xu Christ, một đền thờ thánh khiết để tương giao với Ngài, cùng sự yên tịnh khỏi mọi sợ hãi điều ác. Xin cho lời hứa ấy thành sự thật trên đời chúng con, và xin Ngài mãi là chốn thánh nhỏ bé cho chúng con, dù chúng con ở bất cứ nơi nào.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/noi-an-nau.html">Nơi ẩn náu</a><a class="btn" href="/bach-khoa/su-hien-dien-cua-duc-chua-troi.html">Sự hiện diện của Đức Chúa Trời</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a></div></div>
   </article>
   <nav class="qnav">

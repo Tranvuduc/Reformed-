@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/rev/21.html#v5" style="color:inherit">Khải Huyền 21:5</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đấng ngồi trên ngai làm mới lại mọi sự, từ tấm lòng đến tạo vật, bởi quyền năng Ngài.</p>
     <div class="dev-body"><p>Vinh hiển thuộc về danh Ngài! Mọi sự đều cần được làm mới, vì chúng đã bị tội lỗi làm cho bầm dập và hao mòn một cách thảm hại. Đã đến lúc chiếc áo cũ được cuộn lại và cất đi, và tạo vật mặc lên bộ đồ ngày Chúa Nhật. Nhưng không ai khác có thể làm mới mọi sự, trừ Chúa, Đấng đã dựng nên chúng lúc ban đầu; vì cần ngần ấy quyền năng để làm ra từ điều ác cũng như để làm ra từ hư không. Chúa Giê-xu chúng ta đã nhận lấy công việc ấy, và Ngài hoàn toàn đủ năng lực để hoàn thành nó. Ngài đã bắt đầu công việc, và suốt nhiều thế kỷ Ngài đã bền đỗ làm mới tấm lòng loài người, và trật tự của xã hội. Chẳng bao lâu nữa Ngài sẽ làm mới toàn bộ hiến pháp của chính quyền loài người, và bản tính loài người sẽ được biến đổi bởi ân điển Ngài; và sẽ đến một ngày thân thể được làm mới, và được sống lại giống như thân thể vinh hiển của Ngài.</p><p>Vui mừng biết bao khi thuộc về một vương quốc mà trong đó mọi sự đang được làm mới bởi quyền năng của Vua nó! Chúng ta không đang lụi tàn: chúng ta đang vội vã tiến đến một đời sống vinh quang hơn. Bất chấp sự chống đối của các quyền lực sự ác, Chúa Giê-xu vinh hiển của chúng ta đang hoàn thành ý định Ngài, và làm cho chúng ta, và mọi sự quanh chúng ta, trở nên &quot;mới&quot;, đầy vẻ đẹp như khi chúng mới ra khỏi tay Chúa.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có điều gì cũ kỹ trong đời sống bạn — một thói quen, một vết thương, một mối quan hệ — mà bạn mong Chúa đổi mới, và bạn sẽ mở lòng ra với Ngài về điều ấy như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con ngợi khen Ngài vì chỉ Ngài mới có thể biến đổi mọi sự nên mới. Xin cảm tạ Chúa Giê-xu, Đấng đã khởi sự thay đổi lòng chúng con và sẽ đưa công việc ấy đến chỗ trọn vẹn. Khi nhìn thấy bản thân và cõi đời này rã rời vì tội lỗi, xin cho chúng con nhớ rằng hành trình của chúng con không đi xuống mà đi lên tới vinh hiển. Xin cho chúng con mừng vui vì mình thuộc về nước mà vị Vua của nước ấy đang ngày ngày làm chúng con nên mới.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/troi-moi-dat-moi.html">Trời mới đất mới</a><a class="btn" href="/bach-khoa/su-tai-sinh.html">Sự tái sinh</a><a class="btn" href="/bach-khoa/su-phuc-sinh.html">Sự phục sinh</a><a class="btn" href="/giao-ly/cau-38.html">Giáo Lý Câu 38</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

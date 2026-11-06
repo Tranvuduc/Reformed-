@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/num/23.html#v9" style="color:inherit">Dân Số Ký 23:9</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Dân Chúa được biệt riêng khỏi thế gian để sống giữa những người được chuộc.</p>
     <div class="dev-body"><p>Ai lại muốn ở giữa các dân tộc, và được kể với chúng? Này, ngay cả hội thánh xưng danh cũng đến nỗi việc theo Chúa hoàn toàn trong giới hạn của nó là rất khó khăn. Có sự pha trộn và trộn lẫn đến nỗi người ta thường thở dài mong &quot;một túp lều trong hoang mạc bao la nào đó.&quot;</p><p>Chắc chắn Chúa muốn dân sự Ngài theo một con đường tách biệt khỏi thế gian, và ra khỏi nó một cách quyết đoán và rõ ràng. Chúng ta được biệt riêng ra bởi sắc lệnh của Đức Chúa Trời, sự mua chuộc, và sự kêu gọi, và kinh nghiệm bên trong của chúng ta đã làm cho chúng ta khác biệt lớn với người đời; và vì vậy chỗ của chúng ta không ở trong Chợ Hư Vinh của họ, cũng không ở trong Thành Hủy Diệt của họ, mà ở trên con đường hẹp nơi mọi khách hành hương chân thật phải theo Chúa mình.</p><p>Điều này không chỉ có thể hòa giải chúng ta với cái vai lạnh và những lời chế nhạo của thế gian, mà thậm chí còn làm cho chúng ta vui vẻ chấp nhận chúng như một phần trong phần giao ước của chúng ta. Tên chúng ta không ở trong cùng một cuốn sách, chúng ta không thuộc cùng một dòng giống, chúng ta không cùng đi về một nơi, cũng không tin cậy cùng một người dẫn đường, vì vậy thật tốt khi chúng ta không thuộc số của họ. Chỉ xin cho chúng ta được thấy trong số những người được chuộc, và chúng ta bằng lòng là kẻ kỳ lạ và đơn độc cho đến cuối chương.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có sẵn lòng bước đi trên con đường riêng mà Chúa đã dành cho dân Ngài, dù điều đó khiến bạn trông khác biệt và lạc lõng giữa những người xung quanh không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa, chúng con cảm ơn Ngài vì Ngài đã tách chúng con ra khỏi thế gian để chúng con thuộc riêng về Ngài, không phải vì chúng con xứng đáng, mà vì Ngài đã chọn và chuộc chúng con. Xin cho chúng con đừng tìm cách hòa mình vào những giá trị của đời này, nhưng cứ bước đi trên lối hẹp mà Ngài đã mở ra cho chúng con. Khi bị người đời xa lánh hay chê cười, xin nhắc chúng con nhớ rằng chúng con đang đi về một nơi khác với họ, và đang tin cậy một Đấng Dẫn Đường khác với họ. Xin cho chúng con bằng lòng với thân phận lữ khách trên đất này, miễn là cuối cùng chúng con được kể vào số những người thuộc về Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/bach-khoa/hoi-thanh.html">Hội Thánh</a><a class="btn" href="/bach-khoa/su-tuyen-chon.html">Sự tuyển chọn</a><a class="btn" href="/giao-ly/cau-31.html">Giáo Lý Câu 31</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a></div></div>
   </article>
   <nav class="qnav">

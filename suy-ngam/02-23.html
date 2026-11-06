@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/joh/15.html#v7" style="color:inherit">Giăng 15:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ở trong Đấng Christ và để lời Ngài ở trong mình, tín hữu được quyền cầu xin điều mình muốn.</p>
     <div class="dev-body"><p>Ắt hẳn chúng ta phải ở trong Đấng Christ để sống cho Ngài, và chúng ta phải ở lại trong Ngài để có thể nhận lấy sự ban cho rộng rãi của lời hứa này từ Ngài. Ở trong Chúa Giê-xu là không bao giờ lìa Ngài vì một tình yêu khác, hay một đối tượng khác, mà là ở trong sự hiệp nhất sống động, yêu thương, ý thức, tự nguyện với Ngài. Nhành không chỉ luôn gần thân, mà luôn nhận sự sống và sự kết quả từ nó. Mọi tín đồ thật đều ở trong Đấng Christ theo một nghĩa; nhưng có một ý nghĩa cao hơn, và chúng ta phải biết điều này trước khi có thể đạt được quyền năng vô hạn nơi ngôi ân điển. &quot;Muốn xin điều gì&quot; là dành cho những Ê-nóc bước đi với Đức Chúa Trời, cho những Giăng tựa vào lòng Chúa, cho những người mà sự hiệp nhất với Đấng Christ dẫn đến sự tương giao liên tục.</p><p>Lòng phải ở lại trong tình yêu, trí phải bén rễ trong đức tin, hy vọng phải được gắn chặt vào Lời, cả con người phải được hiệp với Chúa, nếu không sẽ nguy hiểm khi giao phó cho chúng ta quyền năng trong sự cầu nguyện. Tấm séc trắng chỉ có thể trao cho người mà cả sự sống là, &quot;Không phải tôi, nhưng Đấng Christ sống trong tôi.&quot; Hỡi những người phá vỡ sự tương giao, các bạn đã mất bao nhiêu quyền năng! Nếu bạn muốn mạnh mẽ trong lời cầu thay, chính Chúa phải ở trong bạn, và bạn trong Ngài.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Điều gì đang kéo bạn rời xa sự tương giao liên tục với Đấng Christ, và hôm nay bạn sẽ dành thời gian ở lại trong Ngài và trong Lời Ngài như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài đã nối chúng con vào Đấng Christ như cành được nối vào thân cây sống, để chúng con nhận sự sống từ Ngài mỗi ngày. Xin giữ lòng chúng con gắn bó với Ngài, đừng để bất cứ niềm say mê nào khác lôi kéo chúng con ra khỏi vòng tay Ngài. Xin cho Lời Ngài thấm sâu trong chúng con, để những lời cầu xin của chúng con được uốn theo ý Ngài muốn. Xin cho sự gần gũi với Ngài trở thành nguồn sức mạnh cho đời cầu nguyện của chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/su-thong-cong.html">Sự thông công</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/isa/54.html#v4" style="color:inherit">Ê-sai 54:4</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Tín hữu sẽ không hổ thẹn về đức tin, hy vọng và tình yêu mình nơi Chúa Giê-xu.</p>
     <div class="dev-body"><p>Chúng ta sẽ không hổ thẹn về đức tin mình. Những kẻ hay chỉ trích có thể công kích Kinh Thánh, nền tảng niềm tin của chúng ta, nhưng mỗi năm Chúa sẽ càng khiến thấy rõ hơn rằng trong Sách của Ngài không có sai lầm, không có thừa, không có thiếu. Là một tín hữu đơn sơ chẳng phải điều đáng hổ thẹn; đức tin chỉ nhìn nơi Chúa Giê-xu là mão vinh hiển trên đầu bất cứ người nào, tốt hơn một ngôi sao trên ngực họ.</p><p>Chúng ta sẽ không hổ thẹn về hy vọng mình. Nó sẽ đúng như Chúa đã phán. Chúng ta sẽ được nuôi dưỡng, được dẫn dắt, được phước và được nghỉ ngơi. Chúa chúng ta sẽ đến, và rồi những ngày than khóc của chúng ta sẽ chấm dứt. Chúng ta sẽ vinh hiển biết bao trong Chúa, Đấng trước hết ban cho chúng ta hy vọng sống, rồi ban cho chúng ta điều chúng ta hy vọng!</p><p>Chúng ta sẽ không hổ thẹn về tình yêu mình. Chúa Giê-xu đối với chúng ta là Đấng hoàn toàn đáng yêu, và chẳng bao giờ, chẳng bao giờ, chúng ta phải đỏ mặt vì đã dâng lòng mình cho Ngài. Việc thấy Đấng Được Yêu Dấu vinh hiển của chúng ta sẽ biện minh cho sự gắn bó nhiệt thành nhất với Ngài. Chẳng ai sẽ trách các vị tử đạo vì đã chết cho Ngài. Khi kẻ thù của Đấng Christ bị mặc lấy sự khinh bỉ đời đời, những kẻ yêu mến Chúa Giê-xu sẽ thấy mình được tôn vinh bởi mọi đấng thánh, vì họ đã chọn sự sỉ nhục của Đấng Christ hơn là các kho báu của Ê-díp-tô.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có điều gì về đức tin, hy vọng hay tình yêu của con đối với Chúa Giê-xu mà con đang xấu hổ không dám nói ra không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm ơn Ngài vì tin nơi Chúa Giê-xu không phải là điều chúng con cần giấu đi, nhưng là vinh dự lớn nhất của đời chúng con. Xin cho niềm trông đợi chúng con đặt nơi Ngài thêm vững vàng, vì Ngài luôn thành tín với những gì Ngài đã hứa. Xin cho lòng mến chúng con dành cho Chúa Giê-xu thêm sâu đậm, để chúng con không ngượng ngùng khi nói về Ngài trước mặt người khác. Chúng con mong ngày mọi sự được phơi bày, khi những ai trung thành với Ngài sẽ được Ngài làm cho sáng danh.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/hy-vong.html">Hy vọng</a><a class="btn" href="/bach-khoa/su-vinh-hien.html">Sự vinh hiển</a><a class="btn" href="/giao-ly/cau-86.html">Giáo Lý Câu 86</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

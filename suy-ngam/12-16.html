@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/jos/17.html#v18" style="color:inherit">Giô-suê 17:18</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúng ta sẽ đuổi người Ca-na-an đi dù chúng mạnh và có xe sắt, vì ân điển Chúa bảo đảm chiến thắng.</p>
     <div class="dev-body"><p>Được đảm bảo chiến thắng là một sự khích lệ lớn cho lòng dũng cảm, vì bấy giờ người ta ra trận với lòng tin, và dám xông vào nơi mà lẽ ra người ta đã sợ đi đến. Cuộc chiến của chúng ta là với sự ác trong chúng ta và quanh chúng ta, và chúng ta phải tin chắc rằng mình có thể đắc thắng, và mình sẽ đắc thắng trong danh Chúa Giê-xu. Chúng ta không cưỡi ngựa để ngã, mà để thắng; và chúng ta sẽ thắng. Ân điển của Đức Chúa Trời trong quyền toàn năng của nó được ban ra để lật đổ sự ác dưới mọi hình thức: vì thế sự đắc thắng là chắc chắn.</p><p>Một số tội lỗi của chúng ta tìm được xe bằng sắt trong thể chất chúng ta, trong những thói quen cũ, trong các mối liên hệ, và trong công việc của chúng ta. Thế mà chúng ta phải thắng chúng. Chúng rất mạnh, và xét về chúng, chúng ta rất yếu; nhưng trong danh Đức Chúa Trời, chúng ta phải chế ngự chúng, và chúng ta sẽ làm được. Nếu một tội nào cai trị chúng ta, chúng ta không phải là người tự do của Chúa. Một người chỉ bị trói bởi một sợi xích vẫn là tù nhân. Không thể lên Thiên Đàng với một tội đang cai trị trong mình, vì về các thánh có chép rằng: &quot;Tội lỗi sẽ không cai trị trên anh em.&quot; Vậy hãy đứng dậy, và giết mọi người Ca-na-an, và đập tan mọi xe bằng sắt! Đức Giê-hô-va vạn quân ở cùng chúng ta, và ai sẽ chống lại quyền năng hủy diệt tội lỗi của Ngài?</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Tội lỗi nào đang như &#x27;xe bằng sắt&#x27; trong đời bạn — mạnh mẽ và quen thuộc — và bạn sẽ đứng dậy chống lại nó trong danh Chúa như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì ân điển đầy quyền năng của Ngài được tuôn đổ xuống để đánh đổ mọi dạng thức của sự dữ. Xin cho chúng con vững tin rằng chúng con sẽ chiến thắng trong danh Chúa Giê-xu, dù tội lỗi trong chúng con có vẻ kiên cố như thành trì sắt. Xin chỉ rõ cho chúng con tội nào đang thống trị chúng con, và ban cho chúng con lòng can đảm để đoạn tuyệt với nó. Xin cho chúng con nhớ rằng Ngài, Đấng toàn năng, đang ở cùng chúng con, và không thế lực nào có thể đứng vững trước sức mạnh trừ diệt tội lỗi của Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/bach-khoa/su-cam-do.html">Sự cám dỗ</a><a class="btn" href="/bach-khoa/toi-loi.html">Tội lỗi</a><a class="btn" href="/giao-ly/cau-35.html">Giáo Lý Câu 35</a><a class="btn" href="/giao-ly/cau-87.html">Giáo Lý Câu 87</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

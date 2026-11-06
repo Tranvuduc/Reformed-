@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/deb/33.html#v29" style="color:inherit">Phục Truyền 33:29</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Kẻ thù nói dối rằng chúng ta sẽ sa ngã, nhưng Chúa sẽ giải cứu và chúng ta vượt Giô-đanh ca hát.</p>
     <div class="dev-body"><p>Kẻ thù lớn ấy, ma quỷ, là kẻ nói dối từ ban đầu; nhưng nó rất khéo léo đến nỗi, như mẹ Ê-va, chúng ta bị dẫn dụ tin nó. Thế mà trong kinh nghiệm mình, chúng ta sẽ chứng tỏ nó là kẻ nói dối.</p><p>Nó nói rằng chúng ta sẽ sa ngã khỏi ân điển, làm nhục danh xưng mình, và hư mất với số phận của kẻ bội đạo; nhưng, tin cậy Chúa Giê-xu, chúng ta sẽ giữ vững đường mình và chứng tỏ rằng Chúa Giê-xu không mất một ai mà Cha đã ban cho Ngài. Nó bảo chúng ta rằng bánh chúng ta sẽ hết, và chúng ta sẽ chết đói cùng con cái mình; thế mà Đấng Nuôi quạ chưa quên chúng ta, và Ngài sẽ không bao giờ quên, nhưng sẽ dọn bàn cho chúng ta trước mặt kẻ thù chúng ta.</p><p>Nó thì thầm rằng Chúa sẽ không giải cứu chúng ta khỏi thử thách đang lờ mờ ở đằng xa, và nó đe dọa rằng cọng rơm cuối cùng sẽ làm gãy lưng lạc đà. Nó là kẻ nói dối biết bao! Vì Chúa sẽ không bao giờ lìa chúng ta, cũng không bỏ chúng ta. &quot;Hãy để hắn giải cứu hắn bây giờ!&quot; con quỷ dối trá kêu lên: nhưng Chúa sẽ làm nó câm lặng bằng cách đến cứu giúp chúng ta.</p><p>Nó rất thích thú bảo chúng ta rằng sự chết sẽ quá sức đối với chúng ta. &quot;Ngươi sẽ làm gì trong cơn sông Giô-đanh dâng lên?&quot; Nhưng tại đó nó cũng sẽ chứng tỏ là kẻ nói dối đối với chúng ta, và chúng ta sẽ vượt qua sông với tiếng ca hát những bài thánh ca vinh quang.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Lời dối trá nào của ma quỷ — về sự sa ngã, sự thiếu thốn hay sự chết — đang thì thầm trong lòng bạn, và lời hứa nào của Chúa sẽ khiến nó phải câm lặng?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì ma quỷ là kẻ nói dối, còn lời Ngài là chân thật và Ngài không bao giờ lìa bỏ chúng con. Khi nó bảo chúng con rằng chúng con sẽ sa ngã, hết bánh hay không vượt qua được thử thách, xin nhắc chúng con nhớ đến sự thành tín của Ngài trong quá khứ. Xin cho chúng con tin cậy Chúa Giê-xu, Đấng giữ gìn mọi người Cha đã giao phó cho Ngài. Xin cho chúng con vượt qua sông Giô-đanh của mình với tiếng ca hát, vì Ngài sẽ chu cấp cho chúng con ngay giữa vòng vây của kẻ thù chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-ben-do-cua-cac-thanh-do.html">Sự bền đỗ của các thánh đồ</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/bach-khoa/su-chet.html">Sự chết</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a><a class="btn" href="/giao-ly/cau-37.html">Giáo Lý Câu 37</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a></div></div>
   </article>
   <nav class="qnav">

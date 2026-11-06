@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/mat/6.html#v3" style="color:inherit">Ma-thi-ơ 6:3-4</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hãy ban cho cách kín nhiệm, không khoe mình, vì Cha trên trời thấy và sẽ thưởng cách công khai.</p>
     <div class="dev-body"><p>Không có lời hứa nào dành cho những người bố thí cho người nghèo để được người ta thấy. Họ đã nhận phần thưởng của mình ngay rồi, và không thể mong được trả công hai lần.</p><p>Chúng ta hãy giấu việc từ thiện của mình đi; -- phải, giấu cả với chính mình. Hãy ban cho thường xuyên và nhiều đến nỗi thành thói quen, mà bạn không còn để ý rằng mình đã giúp người nghèo cũng như bạn không để ý rằng mình đã ăn bữa ăn thường ngày. Hãy làm việc từ thiện mà không hề thì thầm với chính mình rằng: &quot;Mình thật rộng rãi!&quot; Đừng cố tự thưởng cho mình như vậy. Hãy phó thác vấn đề cho Đức Chúa Trời, Đấng không bao giờ không thấy, không ghi lại, và không thưởng. Phước thay cho người bận rộn trong chỗ kín nhiệm với lòng nhân từ của mình: người ấy tìm thấy một niềm vui đặc biệt trong những việc thiện không ai biết đến của mình. Đây là thứ bánh, ăn lén ăn lút, còn ngọt hơn các bữa tiệc của các vua. Hôm nay tôi có thể chiều mình bằng món xa xỉ thú vị này như thế nào? Xin cho tôi có một bữa tiệc thật sự của lòng thương xót và dòng chảy của tâm hồn.</p><p>Nơi đây và đời sau, chính Chúa, sẽ đích thân lo việc thưởng cho người ban cho cách kín nhiệm. Điều này sẽ theo cách và thời điểm của Ngài; và Ngài sẽ chọn điều tốt nhất. Lời hứa này có ý nghĩa bao nhiêu thì cần cõi đời đời mới tỏ ra.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Việc từ thiện hay giúp đỡ nào bạn có thể làm hôm nay một cách kín nhiệm, đến nỗi chính bạn cũng không tự khen mình, và bạn sẽ phó thác phần thưởng cho Cha trên trời như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Cha trên trời nhìn thấy những việc thiện âm thầm của chúng con và sẽ thưởng cho chúng con cách kín nhiệm. Xin tha thứ cho chúng con vì nhiều lần chúng con ban cho cốt để người ta trông thấy, rồi coi đó là đủ. Xin dạy chúng con giúp đỡ người nghèo một cách đều đặn và rộng rãi, đến mức việc ấy trở thành nếp sống tự nhiên mà chúng con chẳng còn để ý, giấu cả với chính mình, và tìm niềm vui đặc biệt trong lòng nhân từ kín nhiệm. Xin cho chúng con phó thác mọi việc cho Ngài, tin rằng Ngài sẽ thưởng theo cách và thời điểm tốt nhất của Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/dang-hien.html">Dâng hiến</a><a class="btn" href="/bach-khoa/long-thuong-xot.html">Lòng thương xót</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

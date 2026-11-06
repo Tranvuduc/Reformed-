@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/mat/13.html#v12" style="color:inherit">Ma-thi-ơ 13:12</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ai thật có ân điển sẽ được ban thêm dư dật; chỉ xưng nhận suông sẽ bị lấy mất.</p>
     <div class="dev-body"><p>Khi Chúa đã ban cho một người nhiều ân điển, Ngài sẽ ban cho người ấy thêm. Một chút đức tin là quả trứng đẻ; thêm đức tin sẽ đến với nó. Nhưng đức tin ấy không phải là đức tin giả vờ, mà là đức tin thật. Thật cần thiết biết bao để chúng ta làm việc chắc chắn trong đạo, chứ không xưng nhận nhiều mà chiếm hữu chẳng có gì! Vì một ngày kia chính sự xưng nhận cũng sẽ bị lấy khỏi chúng ta, nếu đó là tất cả những gì chúng ta có. Lời đe dọa cũng đúng như lời hứa.</p><p>Ngợi khen Chúa, đó là cách Ngài, khi Ngài đã một lần khởi đầu, Ngài cứ tiếp tục ban các ân tứ của Thánh Linh Ngài, cho đến khi kẻ chỉ có ít, mà thật có chút ít ấy, được khiến nên dư dật. Ôi, ước gì được sự dư dật ấy! Ân điển dư dật là điều đáng thèm muốn. Biết nhiều thì tốt, nhưng yêu nhiều thì tốt hơn. Có nhiều tài năng phục vụ Đức Chúa Trời thì thú vị, nhưng có đức tin dư dật để tin cậy Chúa về tài năng và mọi sự thì còn tốt hơn.</p><p>Lạy Chúa, vì Ngài đã ban cho con cảm biết tội lỗi, xin làm sâu sắc lòng ghét điều ác của con. Vì Ngài đã khiến con tin cậy Chúa Giê-xu, xin nâng đức tin con lên đến sự chắc chắn trọn vẹn. Vì Ngài đã khiến con yêu mến Ngài, xin khiến con bị cuốn đi bởi tình yêu nồng nàn dành cho Ngài!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Đời sống con hôm nay cho thấy con thật sự thuộc về Chúa, hay con chỉ đang nói những lời đúng đắn về Ngài mà lòng thì xa cách?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm ơn Ngài vì Ngài không ngừng thêm lên cho những ai thật lòng thuộc về Ngài, dù khởi đầu của họ thật nhỏ bé. Xin cho lòng chúng con ngày càng ghét điều sai trái, ngày càng tin cậy Ngài sâu sắc hơn, và ngày càng yêu Ngài tha thiết hơn. Xin cho chúng con không hài lòng với việc chỉ nói đúng về Ngài, nhưng thật sự sống với Ngài mỗi ngày. Chúng con khao khát được Ngài làm cho phong phú trong đức tin, trong tình yêu và trong sự phục vụ Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/an-dien.html">Ân điển</a><a class="btn" href="/bach-khoa/su-truong-thanh-thuoc-linh.html">Sự trưởng thành thuộc linh</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

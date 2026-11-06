@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/isa/41.html#v10" style="color:inherit">Ê-sai 41:10</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúa hứa giúp đỡ đúng lúc, khôn ngoan và hiệu nghiệm khi tín hữu không thể tự hành động.</p>
     <div class="dev-body"><p>Lời hứa hôm qua bảo đảm cho chúng ta sức mạnh cho những việc chúng ta phải làm, nhưng lời này bảo đảm cho chúng ta sự trợ giúp trong những trường hợp chúng ta không thể tự mình hành động. Chúa phán, &quot;Ta sẽ giúp đỡ ngươi.&quot; Sức mạnh bên trong được bổ sung bởi sự giúp đỡ từ bên ngoài. Đức Chúa Trời có thể dấy lên cho chúng ta những đồng minh trong chiến trận nếu điều đó đẹp lòng Ngài; và ngay cả khi Ngài không sai sự trợ giúp của con người đến với chúng ta, chính Ngài sẽ ở bên cạnh chúng ta, và điều này còn tốt hơn. &quot;Đồng Minh Chí Cao&quot; của chúng ta còn tốt hơn muôn vàn đạo quân của kẻ hay chết.</p><p>Sự giúp đỡ của Ngài đúng lúc: Ngài là sự giúp đỡ rất hiện diện trong cơn hoạn nạn. Sự giúp đỡ của Ngài rất khôn ngoan: Ngài biết cách ban cho mỗi người sự giúp đỡ vừa vặn và thích hợp cho người ấy. Sự giúp đỡ của Ngài vô cùng hiệu nghiệm, dù sự giúp đỡ của con người là hư không. Sự giúp đỡ của Ngài còn hơn cả sự giúp đỡ, vì Ngài gánh hết mọi gánh nặng, và cung ứng mọi nhu cầu. &quot;Chúa là Đấng giúp đỡ tôi, tôi sẽ không sợ loài người làm gì tôi.&quot;</p><p>Vì Ngài đã từng là sự giúp đỡ của chúng ta, chúng ta tin chắc nơi Ngài cho hiện tại và tương lai. Lời cầu nguyện của chúng ta là, &quot;Lạy Chúa, xin giúp đỡ con&quot;; kinh nghiệm của chúng ta là, &quot;Thánh Linh cũng giúp đỡ sự yếu đuối của chúng ta&quot;; sự trông đợi của chúng ta là, &quot;Tôi ngước mắt lên các núi: sự giúp đỡ tôi đến từ đâu?&quot;; và bài ca của chúng ta chẳng bao lâu sẽ là, &quot;Lạy Chúa, Ngài đã giúp đỡ con.&quot;</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có hoàn cảnh nào bạn hoàn toàn bất lực, và bạn sẽ kêu cầu Đấng ở bên cạnh bạn giúp đỡ mình thay vì chỉ trông cậy vào sức mình như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì khi tay chúng con buông xuôi và không còn cách nào xoay xở, Ngài vẫn đứng kề bên để nâng đỡ chúng con. Xin cho chúng con nhận ra bàn tay Ngài luôn kịp thời trong lúc khốn khó, khôn ngoan theo từng hoàn cảnh riêng, và mạnh mẽ hơn mọi sự nâng đỡ của loài người. Khi gánh nặng đè xuống quá sức, xin Ngài mang lấy thay chúng con và lo liệu mọi điều chúng con đang thiếu. Vì Ngài đã nhiều lần cứu giúp chúng con trước đây, chúng con xin đặt trọn lòng trông cậy nơi Ngài cho hôm nay và những ngày sắp tới.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a></div></div>
   </article>
   <nav class="qnav">

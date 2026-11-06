@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/145.html#v19" style="color:inherit">Thi Thiên 145:19</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời sẽ làm thành ước nguyện và nghe tiếng kêu cầu của những người kính sợ Ngài, rồi cứu họ.</p>
     <div class="dev-body"><p>Chính Thánh Linh của Ngài đã tác động ước nguyện này trong chúng ta, và vì vậy Ngài sẽ đáp lời nó. Chính sự sống của Ngài trong chúng ta thúc giục tiếng kêu, và vì vậy Ngài sẽ nghe nó. Những người kính sợ Ngài là những người ở dưới ảnh hưởng thánh khiết nhất, và, vì vậy, ước nguyện của họ là tôn vinh Đức Chúa Trời, và hưởng Ngài đời đời. Như Đa-ni-ên, họ là những người của ước nguyện, và Chúa sẽ khiến họ thực hiện được những khát vọng của mình.</p><p>Những ước nguyện thánh là ân điển đang nảy mầm, và Người Nông Phu trên trời sẽ vun trồng chúng cho đến khi chúng thành bông lúa đầy hạt. Những người kính sợ Đức Chúa Trời ước ao được nên thánh, được hữu ích, được làm phước cho người khác, và nhờ đó tôn vinh Chúa mình. Họ ước ao được cung ứng cho nhu cầu, được giúp đỡ dưới gánh nặng, được dẫn dắt trong lúc bối rối, được giải cứu trong cơn khốn khó; và đôi khi ước nguyện này mạnh mẽ đến nỗi, và hoàn cảnh họ cấp bách đến nỗi, họ kêu lên trong đau đớn, như trẻ nhỏ đau đớn, và rồi Chúa hành động cách toàn diện nhất, và làm mọi điều cần thiết, theo Lời này — &quot;và sẽ cứu họ.&quot;</p><p>Phải, nếu chúng ta kính sợ Đức Chúa Trời, chúng ta chẳng còn gì khác phải sợ; nếu chúng ta kêu cầu Chúa, sự cứu rỗi của chúng ta là chắc chắn.</p><p>Độc giả hãy đặt câu Kinh Thánh này trên lưỡi mình, và giữ nó trong miệng mình suốt ngày, thì nó sẽ như &quot;bánh tráng mật ong&quot; đối với người ấy.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Ước nguyện thánh nào đang cháy trong lòng bạn hôm nay, và bạn có đem nó đến kêu cầu Chúa với lòng tin rằng Ngài sẽ nghe và cứu bạn không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì chính Thánh Linh Ngài đã tác động trong lòng chúng con những ước nguyện thánh, nên Ngài chắc chắn sẽ đáp lời chúng. Khi chúng con khao khát được nên thánh, được hữu ích và được làm phước cho người khác, xin Ngài vun trồng những hạt giống ân điển ấy cho đến khi thành bông lúa đầy hạt. Xin Ngài nghe tiếng kêu cầu của chúng con trong lúc khốn khó, và cứu chúng con theo lời hứa của Ngài. Chúng con giữ lời Ngài trên môi mình suốt ngày, và chúng con tin rằng sự cứu rỗi của chúng con là chắc chắn.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

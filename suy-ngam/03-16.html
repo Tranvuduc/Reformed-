@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/phil/4.html#v9" style="color:inherit">Phi-líp 4:9</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Noi gương Phao-lô trong lẽ thật, tín hữu được Đức Chúa Trời của sự bình an ở cùng.</p>
     <div class="dev-body"><p>Thật tốt khi một người có thể được sao chép tỉ mỉ đến lợi ích như Phao-lô có thể đã được. Ôi, xin cho ân điển bắt chước ông hôm nay và mỗi ngày!</p><p>Nếu chúng ta, qua ân điển của Đức Chúa Trời, thực hành lời dạy của Phao-lô, chúng ta có thể nhận lời hứa đang mở ra trước mặt chúng ta; và lời hứa ấy là gì! Đức Chúa Trời, Đấng yêu sự bình an, tạo ra sự bình an, và thở ra sự bình an, sẽ ở cùng chúng ta. &quot;Bình an ở cùng anh em&quot; là một lời chúc ngọt ngào; nhưng Đức Chúa Trời của sự bình an ở cùng chúng ta còn hơn nhiều. Như vậy chúng ta có cả nguồn lẫn các dòng suối, cả mặt trời lẫn các tia nắng của nó. Nếu Đức Chúa Trời của sự bình an ở cùng chúng ta, chúng ta sẽ vui hưởng sự bình an của Đức Chúa Trời vượt quá mọi sự hiểu biết, dù hoàn cảnh bên ngoài có đe dọa quấy nhiễu. Nếu loài người cãi cọ, chúng ta chắc chắn sẽ là người hòa giải, nếu Đấng Tạo Ra sự bình an ở cùng chúng ta.</p><p>Chính trong đường lối lẽ thật mới tìm thấy sự bình an thật. Nếu chúng ta bỏ đức tin hay rời khỏi đường công chính với ý niệm cổ võ sự bình an, chúng ta sẽ lầm to. Trước hết thanh sạch, rồi mới bình an, là thứ tự của sự khôn ngoan và của sự thật. Chúng ta hãy giữ theo đường lối của Phao-lô, và chúng ta sẽ có Đức Chúa Trời của sự bình an ở cùng như Ngài đã ở cùng sứ đồ.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Hôm nay có ai đang nhìn vào cách bạn sống để học theo Chúa không, và điều gì trong đời sống bạn cần được uốn nắn để trở nên gương mẫu đem lại sự bình an cho người khác?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài là nguồn bình an của chúng con, và sự bình an Ngài ban vượt quá mọi điều chúng con có thể hiểu. Xin giúp chúng con học và làm theo những điều chúng con đã nghe và đã thấy nơi các sứ đồ của Ngài, để đời sống chúng con trở nên gương mẫu cho người khác. Xin cho sự bình an của Ngài ở cùng chúng con trong mọi hoàn cảnh, dù bên ngoài có đe dọa quấy nhiễu. Và xin dùng chúng con làm người hòa giải, để người khác cũng tìm được sự bình an nơi Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/binh-an.html">Bình an</a><a class="btn" href="/bach-khoa/su-liem-chinh.html">Sự liêm chính</a><a class="btn" href="/bach-khoa/chung-nhan.html">Chứng nhân</a><a class="btn" href="/giao-ly/cau-39.html">Giáo Lý Câu 39</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

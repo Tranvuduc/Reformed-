@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/joh/14.html#v14" style="color:inherit">Giăng 14:14</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Cầu xin nhân danh Chúa Giê-xu, chúng ta sẽ nhận được mọi điều Ngài chấp thuận và Cha sẽ làm cho.</p>
     <div class="dev-body"><p>Thật là một lời hứa rộng lớn! Điều gì! Dù lớn hay nhỏ, mọi nhu cầu của tôi đều được bao phủ bởi chữ &quot;điều gì&quot; ấy. Hỡi linh hồn ta, hãy tự do tại ngôi ơn phước, và nghe Chúa ngươi phán cùng ngươi: &quot;Hãy mở miệng ngươi ra thật rộng, và ta sẽ lấp đầy nó.&quot;</p><p>Thật là một lời hứa khôn ngoan! Chúng ta luôn phải cầu xin trong danh Chúa Giê-xu. Trong khi điều này khích lệ chúng ta, nó cũng tôn vinh Ngài. Đây là một lời nài xin hằng thường. Thỉnh thoảng mọi lời nài xin khác đều tối tăm, đặc biệt những điều chúng ta có thể rút ra từ mối quan hệ của chính chúng ta với Đức Chúa Trời, hay kinh nghiệm của chúng ta về ân điển Ngài; nhưng vào những lúc như vậy, danh Chúa Giê-xu vẫn mạnh mẽ tại ngai như bao giờ, và chúng ta có thể nài xin nó với sự bảo đảm trọn vẹn.</p><p>Thật là một lời cầu nguyện dạy dỗ! Tôi không được cầu xin điều gì mà tôi không thể đặt tay và ấn của Đấng Christ lên. Tôi không dám dùng danh Chúa tôi cho một lời cầu xin ích kỷ hay bướng bỉnh. Tôi chỉ được dùng danh Chúa tôi cho những lời cầu nguyện mà chính Ngài sẽ cầu nếu Ngài ở trong trường hợp của tôi. Được phép cầu xin trong danh Chúa Giê-xu như thể chính Chúa Giê-xu cầu xin là một đặc ân cao cả; nhưng tình yêu của chúng ta đối với Ngài sẽ không bao giờ cho phép chúng ta đặt danh ấy nơi Ngài sẽ không đặt.</p><p>Tôi có đang cầu xin điều Chúa Giê-xu chấp thuận chăng? Tôi dám đóng ấn của Ngài lên lời cầu nguyện của mình chăng? Vậy thì tôi có điều tôi tìm kiếm nơi Cha.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có lời cầu xin nào bạn đang dâng lên mà bạn không dám đặt ấn của Chúa Giê-xu lên đó, và điều ấy cho thấy bạn cần thay đổi lời cầu xin ấy ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài cho chúng con được hưởng đặc ân cao quý là cầu xin nhân danh Chúa Giê-xu, như thể chính Ngài đang cầu xin vậy. Xin Ngài dạy chúng con chỉ cầu xin những điều mà chúng con có thể đặt tay và ấn tín của Đấng Christ lên trên, chứ không phải những lời cầu xin vị kỷ hay cứng cỏi. Xin Ngài giúp chúng con mở miệng ra thật rộng trước ngai ân điển, và tin rằng danh Chúa Giê-xu vẫn đầy quyền năng tại ngai như thuở ban đầu. Xin Ngài khiến chúng con mạnh dạn đặt ấn tín của Ngài trên lời cầu nguyện của mình, vì chúng con tin rằng điều mình cầu xin là điều Chúa Giê-xu ưng thuận.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/dang-trung-bao.html">Đấng Trung Bảo</a><a class="btn" href="/bach-khoa/danh-duc-chua-troi.html">Danh Đức Chúa Trời</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a><a class="btn" href="/giao-ly/cau-99.html">Giáo Lý Câu 99</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/gen/28.html#v13" style="color:inherit">Sáng Thế Ký 28:13</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Mọi lời hứa thuộc về tín hữu nào nằm xuống yên nghỉ trên đó bởi đức tin trong Đấng Christ.</p>
     <div class="dev-body"><p>Không có lời hứa nào chỉ mang tính riêng tư trong cách giải thích: nó không thuộc về một thánh đồ nào, mà thuộc về mọi tín hữu. Nếu, hỡi anh em, anh em có thể bởi đức tin nằm xuống trên một lời hứa, và yên nghỉ trên đó, thì nó thuộc về anh em. Nơi Gia-cốp &quot;đến,&quot; dừng lại, và nghỉ ngơi, nơi đó ông đã nhận lấy làm của mình. Khi trải tấm thân mệt mỏi xuống đất, lấy những tảng đá của nơi ấy làm gối, ông ít ngờ rằng mình đang bước vào quyền sở hữu của đất ấy; thế mà quả đúng như vậy. Ông đã thấy trong giấc mơ cái thang kỳ diệu nối trời với đất cho mọi tín hữu chân thật; và chắc chắn nơi chân thang đứng, ông phải có quyền trên đất ấy, nếu không ông đã không thể chạm đến cái thang thiên đàng. Mọi lời hứa của Đức Chúa Trời đều là &quot;Có&quot; và &quot;A-men&quot; trong Đấng Christ Giê-xu; và vì Ngài thuộc về chúng ta, mọi lời hứa đều thuộc về chúng ta nếu chúng ta chỉ chịu nằm xuống trên đó trong đức tin yên nghỉ.</p><p>Nào, hỡi người mệt mỏi, hãy dùng lời của Chúa ngươi làm gối. Hãy nằm xuống trong bình an. Hãy chỉ mơ về Ngài. Chúa Giê-xu là cái thang sáng láng của ngươi. Hãy xem các thiên sứ lên xuống trên Ngài giữa linh hồn ngươi và Đức Chúa Trời ngươi; và hãy tin chắc rằng lời hứa là phần được Đức Chúa Trời ban cho riêng ngươi, và việc ngươi nhận lấy nó cho mình, như thể được phán riêng cho ngươi, sẽ không phải là cướp đoạt.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn đang mệt mỏi vì điều gì, và bạn sẽ nằm xuống yên nghỉ trên lời hứa nào của Đức Chúa Trời như Gia-cốp đã nằm xuống trên đất mà Ngài ban cho ông?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì mọi lời hứa của Ngài đều chắc chắn trong Đấng Christ, và không một lời hứa nào chỉ dành riêng cho một thánh đồ nào. Khi chúng con mệt mỏi, xin dạy chúng con an nghỉ trên lời Ngài đã hứa, coi đó là nơi nương náu vững chắc cho linh hồn chúng con. Xin mở mắt chúng con thấy Chúa Giê-xu là Đấng nối liền trời với đất cho chúng con, và thấy sự chăm sóc của Ngài qua các thiên sứ. Xin cho chúng con tin chắc rằng lời hứa Ngài ban là phần riêng của chúng con khi chúng con nhận lấy bằng đức tin.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/giao-uoc.html">Giao ước</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/giao-ly/cau-86.html">Giáo Lý Câu 86</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/1pet/1.html#v25" style="color:inherit">1 Phi-e-rơ 1:25</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Lời Chúa còn lại đời đời: Phúc Âm thiên thượng, hằng sống và không thay đổi, là chỗ nương cậy vững chắc.</p>
     <div class="dev-body"><p>Mọi sự dạy dỗ của loài người và, thật vậy, mọi con người, sẽ qua đi như cỏ đồng; nhưng chúng ta được đảm bảo ở đây rằng Lời của Chúa có một bản chất rất khác, vì nó sẽ còn lại đời đời.</p><p>Chúng ta có ở đây một Phúc Âm thiên thượng; vì lời nào có thể còn lại đời đời ngoài lời được phán bởi Đức Chúa Trời đời đời?</p><p>Chúng ta có ở đây một Phúc Âm hằng sống, đầy sức sống như khi nó mới đến từ môi Đức Chúa Trời; mạnh mẽ để thuyết phục và cải hóa, để tái sinh và an ủi, để nâng đỡ và thánh hóa, như nó đã từng trong những ngày đầu kỳ diệu của nó.</p><p>Chúng ta có một Phúc Âm không thay đổi, không phải hôm nay là cỏ xanh, và ngày mai là cỏ khô; mà luôn là lẽ thật bền vững của Đức Giê-hô-va bất biến. Các ý kiến thay đổi, nhưng lẽ thật được Đức Chúa Trời chứng nhận không thể thay đổi hơn Đấng đã phán ra nó.</p><p>Vậy thì, ở đây chúng ta có một Phúc Âm để vui mừng, một lời của Chúa mà trên đó chúng ta có thể nương tựa mọi sức nặng của mình. &quot;Đời đời&quot; bao gồm sự sống, sự chết, sự phán xét, và cõi đời đời. Vinh quang thuộc về Đức Chúa Trời trong Đấng Christ Giê-xu vì sự an ủi đời đời. Hãy ăn nuốt lời hôm nay, và mọi ngày của đời ngươi.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Giữa bao nhiêu tiếng nói loài người nay còn mai mất, bạn có đang đặt hết lòng tin của mình nơi Lời hằng còn của Đức Chúa Trời không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Lời Ngài không hề phai tàn theo năm tháng, nhưng vẫn đầy sức sống và vững vàng mãi mãi. Xin dạy chúng con đặt trọn gánh nặng của cuộc đời mình lên Lời ấy, từ lúc sống cho đến lúc qua đời và bước vào cõi đời đời. Xin cho chúng con mỗi ngày đều đón nhận Lời Ngài như thức ăn nuôi linh hồn, vì ý kiến loài người cứ đổi thay còn lẽ thật của Ngài thì không bao giờ đổi thay.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/phuc-am.html">Phúc Âm</a><a class="btn" href="/bach-khoa/le-that.html">Lẽ thật</a><a class="btn" href="/bach-khoa/su-sang-to-cua-kinh-thanh.html">Sự sáng tỏ của Kinh Thánh</a><a class="btn" href="/giao-ly/cau-2.html">Giáo Lý Câu 2</a><a class="btn" href="/giao-ly/cau-89.html">Giáo Lý Câu 89</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/truyen-giang.html">Truyền giảng</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

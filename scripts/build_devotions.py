@@ -25,6 +25,11 @@ assert len(entries) == 366, len(entries)
 by_md = {(e["month"], e["day"]): e for e in entries}
 assert len(by_md) == 366
 
+enc_terms = {}
+_enc_path = ROOT / "data/encyclopedia.json"
+if _enc_path.exists():
+    enc_terms = {e["slug"]: e["term_vi"] for e in json.loads(_enc_path.read_text(encoding="utf-8"))["entries"]}
+
 books_meta = json.loads((APP / "data/books.json").read_text(encoding="utf-8"))
 name2id = {}
 for f in (APP / "data" / "bible").glob("*.json"):
@@ -158,6 +163,21 @@ for e in seq:
     title = f"{e['title']} — Tĩnh nguyện ngày {d} {MONTHS[m]} | Ân Điển Mỗi Ngày"
     desc = e.get("summary") or ((e["paras"][0][:150] + "…") if e["paras"] else e["title"])
     summary_html = f'<p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">{esc(e["summary"])}</p>' if e.get("summary") else ""
+    enrich_html = ""
+    if e.get("reflection_question") and e.get("prayer"):
+        rel = ""
+        links = [f'<a class="btn" href="/bach-khoa/{s}.html">{esc(enc_terms.get(s, s))}</a>' for s in e.get("related_encyclopedia", []) if s in enc_terms]
+        links += [f'<a class="btn" href="/giao-ly/cau-{n}.html">Giáo Lý Câu {n}</a>' for n in e.get("related_catechism", [])]
+        if links:
+            rel = f'<h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px">{"".join(links)}</div>'
+        enrich_html = f"""<div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">{esc(e["reflection_question"])}</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">{esc(e["prayer"])}</p>
+      {rel}
+    </div>"""
     theme_chips = ""
     if e.get("themes"):
         links = "".join(f'<a class="btn" href="/suy-ngam/chu-de/{slugify(th)}.html">{esc(th)}</a>' for th in e["themes"])
@@ -178,6 +198,7 @@ for e in seq:
     {ref_html}
     {summary_html}
     <div class="dev-body">{paras}</div>
+    {enrich_html}
     {theme_chips}
   </article>
   <nav class="qnav">

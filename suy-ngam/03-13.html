@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/jer/1.html#v6" style="color:inherit">Giê-rê-mi 1:6-7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời sai kẻ trẻ đi nói lời Ngài, và chính Ngài ban sức cho người vâng theo tiếng gọi.</p>
     <div class="dev-body"><p>Giê-rê-mi còn trẻ và cảm thấy sự rụt rè tự nhiên khi được Chúa sai đi làm một sứ mạng lớn; nhưng Đấng đã sai ông không muốn ông nói: &quot;Tôi là con trẻ.&quot; Điều ông là trong chính mình không được nhắc đến, nhưng phải tan biến trong sự suy xét rằng ông đã được chọn để nói thay cho Đức Chúa Trời. Ông không phải suy nghĩ ra và bịa đặt một sứ điệp, cũng không phải chọn thính giả: ông phải nói điều Đức Chúa Trời truyền, và nói nơi Đức Chúa Trời sai ông đến, và điều này ông sẽ được ban sức để làm trong sức mạnh không phải của riêng mình.</p><p>Chẳng phải cũng vậy với một số nhà giảng trẻ, hay giáo viên đọc những dòng này sao? Đức Chúa Trời biết bạn trẻ thế nào, và kiến thức và kinh nghiệm của bạn ít ỏi ra sao; nhưng nếu Ngài chọn sai bạn, bạn không được lùi bước trước tiếng gọi từ trời. Đức Chúa Trời sẽ làm cho Ngài được tôn vinh trong sự yếu đuối của bạn. Nếu bạn già như Mê-tu-sê-la, tuổi tác của bạn sẽ giúp bạn được bao nhiêu? Nếu bạn khôn ngoan như Sa-lô-môn, bạn cũng có thể bướng bỉnh như ông. Hãy giữ vững sứ điệp của bạn và nó sẽ là sự khôn ngoan của bạn; hãy tuân theo mệnh lệnh hành quân của bạn và chúng sẽ là sự thận trọng của bạn.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có đang viện cớ tôi còn trẻ, tôi thiếu kinh nghiệm hay tôi không biết nói để lùi bước trước điều Chúa sai bạn làm không, và bạn sẽ giữ vững sứ điệp Ngài giao thay vì cậy vào tuổi tác hay sự khôn ngoan của mình ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài không nhìn tuổi tác hay sự khôn ngoan của chúng con, nhưng sai chúng con đi và ban sức để chúng con nói điều Ngài truyền. Xin tha thứ cho chúng con vì những lần chúng con rụt rè nói rằng mình còn trẻ và không biết nói, như thể sự yếu đuối của chúng con lớn hơn tiếng gọi của Ngài. Xin giúp chúng con giữ vững sứ điệp Ngài giao, để sứ điệp ấy trở thành sự khôn ngoan của chúng con và mệnh lệnh của Ngài trở thành sự thận trọng của chúng con. Xin cho Ngài được tôn vinh qua sự yếu đuối của chúng con, để chúng con đi đến mọi nơi Ngài sai và nói mọi điều Ngài truyền.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-keu-goi.html">Sự kêu gọi</a><a class="btn" href="/bach-khoa/su-vang-loi.html">Sự vâng lời</a><a class="btn" href="/giao-ly/cau-31.html">Giáo Lý Câu 31</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/truyen-giang.html">Truyền giảng</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

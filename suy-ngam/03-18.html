@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/prov/15.html#v8" style="color:inherit">Châm Ngôn 15:8</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Người ngay thẳng được Đức Chúa Trời vui thích nơi lời cầu nguyện của mình.</p>
     <div class="dev-body"><p>Điều này cũng tốt như một lời hứa, vì nó tuyên bố một sự thật hiện tại, sẽ giống nhau qua mọi thời đại. Đức Chúa Trời rất vui thích nơi lời cầu nguyện của những người ngay thẳng; Ngài thậm chí gọi chúng là niềm vui thích của Ngài. Mối quan tâm đầu tiên của chúng ta là ngay thẳng. Không nghiêng bên này hay bên kia, hãy tiếp tục ngay thẳng: không quanh co với mưu mẹo, cũng không gục ngã vì nhượng bộ điều ác, bạn hãy ngay thẳng trong sự liêm chính nghiêm ngặt và ngay thật. Nếu chúng ta bắt đầu lươn lẹo và đổi chiều, chúng ta sẽ bị bỏ lại tự xoay xở. Nếu chúng ta thử những đường quanh co, chúng ta sẽ thấy mình không thể cầu nguyện, và nếu chúng ta giả vờ làm vậy, chúng ta sẽ thấy lời cầu nguyện của mình bị đóng cửa khỏi thiên đàng.</p><p>Chúng ta có đang hành động theo đường thẳng và nhờ đó tuân theo ý muốn đã tỏ bày của Chúa không? Vậy chúng ta hãy cầu nguyện nhiều và cầu nguyện trong đức tin. Nếu lời cầu nguyện của chúng ta là niềm vui thích của Đức Chúa Trời, chúng ta đừng hà tiện với Ngài điều làm Ngài vui thích. Ngài không xét đến ngữ pháp của nó, cũng không triết lý của nó, cũng không tu từ của nó; về mọi điều này loài người có thể khinh dể nó. Ngài, như một người Cha, vui thích nơi tiếng bi bô của chính con thơ mình, tiếng lắp bắp của những con trai con gái mới sinh của Ngài. Chúng ta há chẳng nên vui thích trong sự cầu nguyện vì Chúa vui thích trong nó sao? Chúng ta hãy tạo những cớ để đến ngai. Chúa tìm cho chúng ta đủ lý do để cầu nguyện, và chúng ta phải cảm tạ Ngài vì điều đó.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có con đường quanh co hay sự nhượng bộ nào đang khiến bạn ngại đến với Chúa trong cầu nguyện không, và hôm nay bạn sẽ bước đi ngay thẳng ra sao để lời cầu nguyện của mình trở nên niềm vui thích cho Ngài?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài vui lòng nghe tiếng kêu cầu của những kẻ bước đi ngay thẳng, dù lời chúng con còn vụng về và yếu đuối. Xin giúp chúng con sống thẳng thắn trước mặt Ngài, không dùng mưu mẹo để lách qua, cũng không vì sợ hãi mà thỏa hiệp với điều sai. Xin cho chúng con ham thích chạy đến với Ngài mỗi ngày, vì biết rằng Ngài lắng nghe chứ không chê bai tấm lòng thành thật. Xin nhận lấy những lời cầu nguyện đơn sơ của chúng con và dạy chúng con tin cậy Ngài càng hơn khi cầu xin.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/su-liem-chinh.html">Sự liêm chính</a><a class="btn" href="/bach-khoa/su-thong-cong.html">Sự thông công</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a></div></div>
   </article>
   <nav class="qnav">

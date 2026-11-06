@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/97.html#v11" style="color:inherit">Thi Thiên 97:11</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ánh sáng đã gieo cho người công bình, sự vui mừng cho người ngay thẳng, sẽ tỏ ra trong mùa gặt Chúa định.</p>
     <div class="dev-body"><p>Sự công chính thường tốn kém đối với người giữ nó bằng mọi giá, nhưng cuối cùng nó sẽ tự trang trải chi phí, và đem lại lợi nhuận vô cùng. Đời sống thánh khiết như gieo giống: nhiều điều tuôn ra, và dường như bị chôn trong đất, không bao giờ gặt lại. Chúng ta lầm khi trông đợi một mùa gặt tức thì; nhưng sự lầm này rất tự nhiên, vì dường như không thể chôn ánh sáng. Thế mà ánh sáng lại được &quot;gieo,&quot; như câu Kinh Thánh nói. Nó nằm tiềm ẩn: không ai thấy được, nó được gieo. Chúng ta chắc chắn rằng một ngày kia nó phải tỏ ra.</p><p>Chúng ta hoàn toàn chắc rằng Chúa đã định một mùa gặt cho những kẻ gieo ánh sáng, và họ sẽ gặt lấy, mỗi người cho chính mình. Rồi sự vui mừng của họ sẽ đến. Những bó lúa vui mừng cho những hạt giống ánh sáng. Lòng họ ngay thẳng trước mặt Chúa, dù người đời không công nhận, thậm chí lên án họ: họ công chính, dù những người xung quanh tố họ là kẻ hay xét đoán. Họ phải chờ đợi, như người làm ruộng chờ đợi bông trái quý báu của đất: nhưng ánh sáng đã được gieo cho họ, và sự vui mừng đang được Chúa của mùa gặt sắm sẵn cho họ.</p><p>Can đảm lên, hỡi anh em! chúng ta không cần vội vàng. Hãy lấy sự nhẫn nhục mà giữ linh hồn mình, vì chẳng bao lâu linh hồn chúng ta sẽ sở hữu ánh sáng và sự vui mừng.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có đang đòi kết quả đến ngay lập tức cho đời sống thánh khiết của mình, hay bạn sẵn lòng kiên nhẫn chờ đợi, tin rằng hạt giống ánh sáng trong lòng bạn sẽ tỏ ra và niềm vui sẽ đến với bạn đúng lúc?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài đã định sẵn một mùa gặt cho những ai sống ngay thẳng trước mặt Ngài, dù hiện tại họ phải chờ đợi trong khó khăn. Xin giúp chúng con đừng trông đợi kết quả đến ngay lập tức, nhưng kiên nhẫn chờ đợi như người nông dân trông mong mùa màng của mình. Xin cho chúng con tin chắc rằng ánh sáng Ngài đã gieo trong lòng chúng con sẽ tỏ ra, và niềm vui Ngài sắm sẵn sẽ đến với chúng con. Xin cho chúng con can đảm bước tiếp, vì chẳng bao lâu chúng con sẽ được hưởng ánh sáng cùng niềm vui trọn vẹn từ Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/anh-sang.html">Ánh sáng</a><a class="btn" href="/bach-khoa/su-vui-mung.html">Sự vui mừng</a><a class="btn" href="/bach-khoa/hy-vong.html">Hy vọng</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

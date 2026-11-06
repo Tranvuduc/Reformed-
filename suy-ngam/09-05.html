@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/2chron/20.html#v17" style="color:inherit">2 Sử Ký 20:17</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Giê-hô-va sẽ ở cùng tín hữu mọi nơi, gìn giữ họ khi họ tin cậy, vâng lời và nương nơi Chúa Giê-xu.</p>
     <div class="dev-body"><p>Đây là một sự thương xót lớn cho Giô-sa-phát, vì một đám đông lớn đã kéo ra chống lại ông; và đây sẽ là một sự thương xót lớn cho tôi, vì tôi rất cần, mà tôi không có sức lực hay sự khôn ngoan. Nếu Chúa ở cùng tôi, thì có ai bỏ tôi cũng chẳng hề chi. Nếu Chúa ở cùng tôi, tôi sẽ chiến thắng trong trận chiến của đời sống, và thử thách của tôi càng lớn thì chiến thắng của tôi càng vinh hiển. Làm sao tôi có thể chắc rằng Chúa ở cùng tôi?</p><p>Chắc chắn Ngài ở cùng tôi nếu tôi ở cùng Ngài. Nếu tôi tin cậy sự thành tín của Ngài, tin lời Ngài, và vâng theo các điều răn Ngài, thì Ngài chắc chắn ở cùng tôi. Nếu tôi đứng về phía Sa-tan, Đức Chúa Trời chống lại tôi, và không thể khác; nhưng nếu tôi sống để tôn vinh Đức Chúa Trời, tôi có thể chắc rằng Ngài sẽ tôn vinh tôi.</p><p>Tôi hoàn toàn chắc rằng Đức Chúa Trời ở cùng tôi nếu Chúa Giê-xu là Đấng Cứu Rỗi duy nhất và trọn vẹn của tôi. Nếu tôi đã phó linh hồn mình vào tay Con Một của Đức Chúa Trời, thì tôi có thể chắc rằng Đức Chúa Cha sẽ vận dụng mọi quyền năng để gìn giữ tôi, hầu cho Con Ngài không bị sỉ nhục.</p><p>Ôi, ước gì có đức tin để nắm lấy bản văn ngắn mà ngọt ngào cho ngày hôm nay! Lạy Chúa, xin làm ứng nghiệm lời này cho tôi tớ Ngài! Xin ở cùng tôi trong nhà, ngoài đường, ngoài đồng, trong cửa hàng, giữa đám đông, và khi một mình. Xin cũng ở cùng mọi dân sự của Ngài.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Làm sao bạn biết được rằng Chúa đang ở cùng mình, và cách bạn tin cậy cùng vâng lời Ngài bày tỏ điều đó ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài chẳng lìa xa chúng con, dù chúng con ở trong mái nhà mình hay đang bôn ba giữa phố chợ và đồng áng, dù đang ở giữa đám đông hay chỉ có một mình. Xin giúp chúng con đặt lòng tin nơi sự trung tín của Ngài, lắng nghe lời Ngài và bước đi theo mạng lệnh Ngài, để lòng chúng con được vững vàng rằng Ngài đang ở cùng chúng con. Xin ở cùng toàn thể dân Ngài hôm nay, như Ngài đã ở cùng Giô-sa-phát khi ông đối diện với đạo quân đông đảo.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-hien-dien-cua-duc-chua-troi.html">Sự hiện diện của Đức Chúa Trời</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

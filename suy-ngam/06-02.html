@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/nah/1.html#v13" style="color:inherit">Na-hum 1:13</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời hứa bẻ gãy ách Sa-tan ngay bây giờ, giải phóng tội nhân trọn vẹn và đời đời.</p>
     <div class="dev-body"><p>Người A-si-ri được phép trong một thời gian hà hiếp dân của Chúa, nhưng đã đến lúc quyền lực hắn bị bẻ gãy. Cũng vậy, biết bao tấm lòng bị Sa-tan cầm tù trong xiềng xích, và khốn khổ rên siết dưới ách nặng. Ước gì đối với những tù nhân đầy hy vọng ấy, lời của Chúa đến ngay lập tức, theo câu Kinh Thánh này, &quot;Bây giờ Ta sẽ bẻ ách hắn khỏi ngươi, và sẽ bứt dây trói ngươi ra từng mảnh&quot;!</p><p>Hãy xem! Chúa hứa một sự giải cứu hiện tại: &quot;Bây giờ Ta sẽ bẻ ách hắn khỏi ngươi.&quot; Hãy tin cho sự tự do ngay lập tức, và theo đức tin ngươi, sẽ xảy ra cho ngươi đúng trong giờ này. Khi Đức Chúa Trời phán &quot;bây giờ,&quot; đừng để ai nói &quot;ngày mai.&quot;</p><p>Hãy xem sự giải cứu trọn vẹn dường nào; vì ách không phải được tháo ra, mà là bị bẻ gãy; và dây trói không phải được cởi ra, mà là bị bứt đứt. Đây là sự bày tỏ quyền năng của Đức Chúa Trời, đảm bảo rằng kẻ hà hiếp sẽ không trở lại. Ách hắn đã bị bẻ, chúng ta không thể bị nó cúi xuống nữa. Dây trói hắn đã bị bứt đứt, chúng không thể giữ chúng ta nữa. Ôi, hãy tin nơi Chúa Giê-xu để được giải phóng trọn vẹn và đời đời! &quot;Vậy nếu Con làm các ngươi được tự do, các ngươi sẽ thật được tự do.&quot; Hãy đến, lạy Chúa, và giải phóng những kẻ bị tù của Ngài, theo lời Ngài.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có xiềng xích nào — một thói quen, một nỗi sợ, hay một tội lỗi — mà con vẫn nghĩ phải đợi “ngày mai” mới được giải thoát, trong khi Chúa phán “bây giờ” không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con cảm ơn Ngài vì Ngài hứa giải cứu ngay trong giờ này, chứ không bắt chúng con chờ đợi trong ách nặng. Xin bẻ gãy ách đang đè nặng trên chúng con và bứt đứt những dây trói mà kẻ thù dùng để cầm giữ chúng con. Xin cho chúng con tin nơi Chúa Giê-xu để nhận sự tự do trọn vẹn mà Ngài đã mua bằng sự chuộc tội của Ngài. Chúng con ngợi khen Ngài vì sự tự do Ngài ban cho chúng con là tự do thật và trọn vẹn.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/bach-khoa/tu-do-trong-dang-christ.html">Tự do trong Đấng Christ</a><a class="btn" href="/bach-khoa/su-cuu-roi.html">Sự cứu rỗi</a><a class="btn" href="/giao-ly/cau-26.html">Giáo Lý Câu 26</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

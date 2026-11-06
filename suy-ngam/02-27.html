@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/112.html#v7" style="color:inherit">Thi Thiên 112:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Lòng vững vàng tin cậy nơi Đức Chúa Trời sẽ không sợ tin dữ, vì Ngài là Chúa của ngày mai.</p>
     <div class="dev-body"><p>Sự chờ đợi trong hồi hộp thật đáng sợ. Khi chúng ta không có tin tức từ nhà, chúng ta dễ trở nên lo lắng, và không thể bị thuyết phục rằng &quot;không tin tức là tin tốt.&quot; Đức tin là phương thuốc cho tình trạng buồn rầu này: Chúa bởi Thánh Linh Ngài làm cho tâm trí yên tĩnh trong sự thanh thản thánh, và mọi sợ hãi đều tan biến cả về tương lai lẫn hiện tại.</p><p>Sự vững vàng của lòng mà Thi Thiên nhắc đến cần được siêng năng tìm kiếm. Đó không phải là tin lời hứa này hay lời hứa kia của Chúa, mà là tình trạng chung của sự tin cậy không lay chuyển nơi Đức Chúa Trời chúng ta, sự tin chắc chúng ta có nơi Ngài rằng Ngài sẽ không tự mình làm hại chúng ta, cũng không để ai khác hại chúng ta. Sự tin chắc liên tục này đón nhận điều chưa biết cũng như điều đã biết của đời sống. Ngày mai có ra sao, Đức Chúa Trời chúng ta là Đức Chúa Trời của ngày mai. Những biến cố nào đã xảy ra, mà đối với chúng ta là chưa biết, Đức Giê-hô-va chúng ta là Đức Chúa Trời của điều chưa biết cũng như của điều đã biết. Chúng ta quyết tâm tin cậy Chúa, dù có xảy ra điều gì. Nếu điều tồi tệ nhất xảy ra, Đức Chúa Trời chúng ta vẫn là Đấng vĩ đại nhất và tốt nhất. Vì vậy chúng ta sẽ không sợ dù tiếng gõ của người đưa thư làm chúng ta giật mình, hay một bức điện tín đánh thức chúng ta lúc nửa đêm. Chúa hằng sống, và con cái Ngài có thể sợ điều gì?</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Tin tức nào, hay sự chờ đợi nào, đang khiến lòng bạn lo lắng nhất lúc này, và bạn sẽ tập tin cậy nơi Đức Chúa Trời của cả ngày mai lẫn điều chưa biết ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài cai quản ngày mai cũng như hôm nay, Đấng nắm giữ cả những điều chúng con chưa thấy lẫn những điều chúng con đã biết rõ. Xin tha thứ cho chúng con vì những lúc chúng con ngồi chờ tin tức trong hồi hộp và để nỗi sợ chiếm lấy lòng mình. Xin Thánh Linh Ngài khiến lòng chúng con lặng yên, vững tin rằng Ngài chẳng làm hại chúng con và chẳng để ai khác làm hại chúng con. Xin cho chúng con một lòng tin cậy Ngài, dù điều tồi tệ nhất xảy đến, vì Ngài vẫn lớn lao và tốt lành hơn mọi điều chúng con sợ.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/binh-an.html">Bình an</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a></div></div>
   </article>
   <nav class="qnav">

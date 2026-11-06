@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/128.html#v5" style="color:inherit">Thi Thiên 128:5</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Người kính sợ Chúa được phước trong gia đình và đem điều tốt đến Hội Thánh trọn đời.</p>
     <div class="dev-body"><p>Đây là lời hứa cho người kính sợ Đức Chúa Trời, bước đi trong đường thánh khiết với sự cẩn trọng sốt sắng. Người ấy sẽ có hạnh phúc gia đình; vợ và con cái sẽ là nguồn hạnh phúc lớn trong nhà. Nhưng rồi, là một thành viên của Hội Thánh, người ấy mong thấy công việc Chúa thịnh vượng, vì người ấy quan tâm đến nhà Chúa cũng như nhà mình. Khi Chúa xây nhà chúng ta, thì thật phải lẽ khi chúng ta mong thấy nhà Chúa được xây dựng. Của cải chúng ta chẳng thật tốt trừ khi chúng ta dùng chúng thúc đẩy điều tốt của Hội Thánh được chọn của Chúa.</p><p>Phải, bạn sẽ nhận được phước khi lên các hội chúng của Si-ôn; bạn sẽ được dạy dỗ, được sống lại, được an ủi, nơi lời cầu nguyện và ngợi khen vang lên, và lời chứng được rao về Của Lễ Vĩ Đại. &quot;Đức Giê-hô-va sẽ ban phước cho ngươi từ Si-ôn.&quot;</p><p>Bạn cũng không phải là người duy nhất được lợi; chính Hội Thánh sẽ thịnh vượng; các tín hữu sẽ gia tăng, và công việc thánh của họ sẽ được đội mão thành công. Một số người ân điển nhất định có lời hứa này được ứng nghiệm cho họ suốt đời. Than ôi! Khi họ qua đời, công việc thường chùng xuống. Chúng ta hãy ở trong số những người đem điều tốt đến Giê-ru-sa-lem trọn đời mình. Lạy Chúa, bởi lòng thương xót Ngài, xin khiến chúng con nên người như vậy! A-men.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Gia đình và Hội Thánh của con có nhận được phước từ đời sống kính sợ Chúa của con không, và con có đang góp phần làm cho nhà Chúa thịnh vượng không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con cảm ơn Ngài vì phước Ngài ban không dừng lại nơi một người, nhưng lan tỏa đến cả nhà và cộng đồng của người ấy. Xin cho chúng con sống kính sợ Ngài trong từng việc nhỏ ở nhà, và xin cho lòng chúng con cũng hướng về Hội Thánh Ngài với cùng một sự quan tâm ấy. Xin dùng những gì Ngài đã giao cho chúng con để góp phần xây dựng dân Ngài, và xin cho chúng con được lớn lên khi cùng nhau thờ phượng Ngài. Lạy Chúa, xin biến đổi chúng con thành những người mang phước lành đến cho người xung quanh suốt cả đời mình.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/gia-dinh.html">Gia đình</a><a class="btn" href="/bach-khoa/hoi-thanh.html">Hội Thánh</a><a class="btn" href="/bach-khoa/phuoc-hanh.html">Phước hạnh</a><a class="btn" href="/giao-ly/cau-102.html">Giáo Lý Câu 102</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

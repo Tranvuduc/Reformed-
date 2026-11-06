@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/deb/13.html#v17" style="color:inherit">Phục Truyền 13:17</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hãy dứt bỏ mọi tội lỗi, không chừa điều ác nào; Chúa thương xót và gia tăng phước cho người vâng lời.</p>
     <div class="dev-body"><p>Y-sơ-ra-ên phải chinh phục các thành thờ thần tượng, và hủy diệt mọi của cướp, xem mọi vật đã bị ô uế bởi sự thờ hình tượng như vật đáng diệt phải đốt bằng lửa. Ngày nay, mọi thứ tội lỗi cũng phải được Cơ Đốc nhân đối xử y như vậy. Chúng ta không được để một thói quen xấu nào còn sót lại. Giờ đây là chiến tranh đến cùng với mọi thứ tội lỗi lớn nhỏ, dù của thân thể, của tâm trí, hay của tâm linh. Chúng ta không xem việc từ bỏ điều ác này là đáng được thương xót, nhưng chúng ta xem nó như một bông trái của ân điển Đức Chúa Trời, điều mà chúng ta không muốn bỏ lỡ bằng bất cứ giá nào.</p><p>Khi Đức Chúa Trời khiến chúng ta không còn thương xót tội lỗi của mình, thì Ngài lại có lòng thương xót lớn trên chúng ta. Khi chúng ta nổi giận với điều ác, Đức Chúa Trời không còn nổi giận với chúng ta nữa. Khi chúng ta gia tăng nỗ lực chống lại sự gian ác, Chúa gia tăng phước lành của chúng ta. Con đường bình an, tăng trưởng, an toàn, vui mừng trong Đấng Christ Giê-xu, sẽ được tìm thấy bằng cách làm theo những lời này: &quot;Chớ để vật đáng diệt nào dính vào tay ngươi.&quot; Lạy Chúa, xin thanh tẩy con hôm nay. Lòng thương xót, sự thịnh vượng, sự gia tăng, và niềm vui, chắc chắn sẽ được ban cho những ai dứt bỏ tội lỗi với quyết tâm nghiêm túc.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có một điều ác nhỏ nào bạn vẫn đang giữ lại trong tay — một thói quen, một ý nghĩ, một mối quan hệ — mà hôm nay bạn cần dứt bỏ đến cùng?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì Ngài dạy chúng con dứt khoát với tội lỗi thay vì dung túng nó. Xin mở mắt chúng con thấy rõ những điều xấu còn bám lại trong đời sống mình, dù nhỏ nhặt hay kín đáo. Xin ban cho chúng con quyết tâm từ bỏ chúng hôm nay, và thanh tẩy lòng chúng con cho sạch. Chúng con tin rằng khi chúng con ghét bỏ điều ác, Ngài sẽ lấy lòng thương xót đối đãi với chúng con và thêm ơn phước của Ngài trên chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/toi-loi.html">Tội lỗi</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/bach-khoa/an-nan.html">Ăn năn</a><a class="btn" href="/giao-ly/cau-14.html">Giáo Lý Câu 14</a><a class="btn" href="/giao-ly/cau-87.html">Giáo Lý Câu 87</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-nan.html">Ăn năn</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/vang-loi.html">Vâng lời</a></div></div>
   </article>
   <nav class="qnav">

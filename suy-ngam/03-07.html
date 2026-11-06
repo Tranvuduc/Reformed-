@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/146.html#v7" style="color:inherit">Thi Thiên 146:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời bẻ gãy xiềng xích tội lỗi, nghi ngờ và sợ hãi, giải thoát kẻ tin cậy Ngài.</p>
     <div class="dev-body"><p>Ngài đã làm điều đó. Hãy nhớ đến Giô-sép, Y-sơ-ra-ên trong Ai Cập, Ma-na-se, Giê-rê-mi, Phi-e-rơ, và nhiều người khác. Ngài vẫn có thể làm điều đó. Ngài bẻ gãy những thanh đồng bằng một lời, và bẻ gãy xiềng sắt bằng một cái nhìn. Ngài đang làm điều đó. Ở một ngàn nơi, những người khốn khổ đang bước ra ánh sáng và sự rộng rãi. Chúa Giê-xu vẫn rao báo sự mở cửa ngục cho những kẻ bị trói buộc. Ngay lúc này, những cánh cửa đang bật tung và xiềng xích đang rơi xuống đất.</p><p>Ngài sẽ vui thích giải phóng bạn, hỡi bạn yêu dấu, nếu lúc này bạn đang than khóc vì buồn rầu, nghi ngờ, và sợ hãi. Ban sự tự do cho bạn sẽ là một niềm vui đối với Chúa Giê-xu. Ban cho bạn sự giải phóng sẽ làm Ngài vui thích lớn lao như chính bạn vui thích được giải phóng. Không, bạn không phải tự bẻ gãy vòng sắt: chính Chúa sẽ làm điều đó. Chỉ cần tin cậy Ngài, và Ngài sẽ là Đấng Giải Phóng của bạn. Hãy tin Ngài bất chấp những bức tường đá, hay những cùm sắt. Sa-tan không thể giữ bạn, tội lỗi không thể trói buộc bạn, ngay cả sự tuyệt vọng cũng không thể ràng buộc bạn, nếu bây giờ bạn tin nơi Chúa Giê-xu, và nơi sự tự do của ân điển Ngài, và nơi sự đầy trọn của quyền năng cứu rỗi của Ngài.</p><p>Hãy thách thức kẻ thù, và xin cho lời trước mặt bạn bây giờ là bài ca giải cứu của bạn: &quot;Giê-hô-va mở xiềng cho kẻ bị tù.&quot;</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Xiềng xích nào, buồn rầu, nghi ngờ, sợ hãi hay một tội lỗi cứ trói buộc bạn, đang khiến bạn than khóc, và bạn sẽ tin cậy Chúa Giê-xu mở xiềng cho mình ngay hôm nay ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài bẻ gãy xiềng xích trói buộc dân Ngài, và Chúa Giê-xu vẫn loan báo tin giải thoát cho những ai đang bị giam cầm. Xin giúp chúng con tin rằng việc giải thoát chúng con đem lại niềm vui lớn cho lòng Ngài, chẳng kém niềm vui của chính chúng con khi được tự do. Xin tha thứ cho chúng con vì những lần chúng con cố tự bẻ gãy vòng sắt bằng sức riêng, thay vì tin cậy Ngài làm điều đó. Xin cho chúng con tin Ngài dù trước mặt là tường đá hay cùm sắt, vì tội lỗi không thể trói buộc và sự tuyệt vọng không thể ràng buộc những ai tin nơi Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/bach-khoa/tu-do-trong-dang-christ.html">Tự do trong Đấng Christ</a><a class="btn" href="/giao-ly/cau-29.html">Giáo Lý Câu 29</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a></div></div>
   </article>
   <nav class="qnav">

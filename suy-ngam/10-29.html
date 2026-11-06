@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/exo/8.html#v23" style="color:inherit">Xuất Ê-díp-tô Ký 8:23</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời phân rẽ dân Ngài khỏi thế gian và gìn giữ họ khỏi những tai họa hủy hoại.</p>
     <div class="dev-body"><p>Pha-ra-ôn có một dân, và Chúa có một dân. Họ có thể sống chung, và dường như đồng cảnh ngộ, nhưng có một sự phân rẽ giữa họ, và Chúa sẽ làm cho nó rõ ràng. Sẽ không mãi mãi một sự kiện xảy đến giống nhau cho mọi người, nhưng sẽ có sự khác biệt lớn giữa người đời và dân được Chúa chọn.</p><p>Điều này có thể xảy ra trong thời kỳ đoán phạt, khi Chúa trở nên nơi ẩn náu của các thánh đồ Ngài. Nó rất rõ rệt trong sự trở lại của các tín hữu, khi tội lỗi họ được cất đi, trong khi kẻ vô tín vẫn ở dưới sự đoán phạt. Từ lúc ấy họ trở nên một dòng dõi phân biệt, ở dưới một kỷ luật mới, và vui hưởng những phước lành mới. Nhà họ, từ nay, được thoát khỏi những bầy ruồi độc hại làm ô uế và hành hạ người Ai Cập. Họ được giữ khỏi sự ô uế của dục vọng, sự cắn xé của lo âu, sự hư hoại của dối trá, và sự hành hạ tàn ác của thù hận, những điều nuốt chửng nhiều gia đình.</p><p>Hãy yên lòng, hỡi tín hữu đang bị thử thách, rằng dù bạn có những hoạn nạn, bạn được cứu khỏi những bầy tai họa tệ hơn nhiều, những thứ đầy dẫy trong nhà và lòng của các tôi tớ của vua chúa thế gian này. Chúa đã phân rẽ; hãy coi chừng giữ vững sự phân rẽ ấy trong tâm linh, mục đích, tính cách và bạn bè.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Trong hoàn cảnh nào — ở nhà, nơi làm việc hay giữa bạn bè — bạn cần giữ vững sự khác biệt của người thuộc về Chúa, thay vì sống giống hệt như người đời?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con cảm tạ Ngài vì Ngài đã chọn chúng con ra khỏi lối sống của thế gian để chúng con thuộc trọn về Ngài, và Ngài vẫn che chở chúng con qua mọi gian truân. Xin cho lòng chúng con được bình an khi nhớ rằng Ngài là chốn nương náu vững chắc cho những người thuộc về Ngài, và xin dạy chúng con sống khác biệt trong suy nghĩ, trong điều chúng con theo đuổi và trong từng việc làm thường ngày. Xin Ngài gìn giữ mái nhà và tấm lòng chúng con khỏi bị vấy bẩn bởi ham muốn xấu, bởi nỗi lo lắng, sự gian dối và lòng ganh ghét. Chúng con cầu xin Ngài khiến nếp sống của chúng con bày tỏ rõ ràng rằng chúng con là dân của Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/su-tuyen-chon.html">Sự tuyển chọn</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a><a class="btn" href="/giao-ly/cau-20.html">Giáo Lý Câu 20</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

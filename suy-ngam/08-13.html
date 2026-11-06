@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/isa/65.html#v24" style="color:inherit">Ê-sai 65:24</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời nghe và đáp lời trước khi chúng ta kêu cầu, đã chuẩn bị sự quan phòng cho mọi nhu cầu.</p>
     <div class="dev-body"><p>Thật là công việc mau lẹ! Chúa nghe chúng ta trước khi chúng ta kêu cầu; và thường đáp lời chúng ta cũng nhanh chóng như vậy. Thấy trước nhu cầu của chúng ta, và những lời cầu nguyện của chúng ta, Ngài sắp xếp sự quan phòng đến nỗi trước khi nhu cầu thực sự phát sinh Ngài đã cung ứng nó, trước khi thử thách ập đến Ngài đã trang bị cho chúng ta chống lại nó. Đây là sự mau lẹ của Đấng toàn tri, và chúng ta thường đã thấy nó được thực hiện. Trước khi chúng ta mơ đến hoạn nạn sắp đến, sự an ủi mạnh mẽ để nâng đỡ chúng ta dưới nó đã đến. Thật là một Đức Chúa Trời đáp lời cầu nguyện chúng ta có!</p><p>Điều khoản thứ hai gợi nhớ đến điện thoại. Dù Đức Chúa Trời ở trên trời và chúng ta ở dưới đất, Ngài làm cho lời chúng ta, như lời của chính Ngài, truyền đi rất nhanh. Khi chúng ta cầu nguyện đúng đắn, chúng ta nói vào tai Đức Chúa Trời. Đấng Trung Bảo nhân từ của chúng ta trình dâng lời thỉnh cầu của chúng ta ngay lập tức, và Cha vĩ đại nghe chúng và mỉm cười trên chúng. Thật là sự cầu nguyện tuyệt vời! Ai lại không siêng năng cầu nguyện khi biết mình có tai của Vua các vua? Hôm nay tôi sẽ cầu nguyện trong đức tin, không chỉ tin rằng tôi sẽ được nghe, mà rằng tôi đang được nghe; không chỉ rằng tôi sẽ được đáp lời, mà rằng tôi đã có câu trả lời rồi. Đức Thánh Linh ơi, xin giúp con trong điều này!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có cầu nguyện với lòng tin rằng Đức Chúa Trời đã nghe bạn trước khi bạn mở miệng, và đã chuẩn bị câu trả lời trước khi nhu cầu của bạn xuất hiện không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài nghe chúng con trước khi chúng con kêu cầu, và Ngài sắp xếp sự quan phòng của Ngài trước khi thử thách ập đến. Xin giúp chúng con cầu nguyện trong đức tin hôm nay, tin rằng chúng con đang được nghe và câu trả lời đã ở trên đường đến. Xin Đức Thánh Linh giúp chúng con cầu nguyện cách đúng đắn, để chúng con nói vào tai Ngài với lòng tin cậy trọn vẹn.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/bach-khoa/su-hien-dien-cua-duc-chua-troi.html">Sự hiện diện của Đức Chúa Trời</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a><a class="btn" href="/giao-ly/cau-99.html">Giáo Lý Câu 99</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

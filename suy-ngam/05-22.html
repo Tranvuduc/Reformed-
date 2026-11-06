@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/138.html#v7" style="color:inherit">Thi Thiên 138:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Giữa gian truân, Chúa làm sống lại dân Ngài và dùng tay hữu Ngài cứu họ khỏi kẻ thù giận dữ.</p>
     <div class="dev-body"><p>Đi giữa gian truân thật khốn khổ. Không, thật phước hạnh khi đi như vậy, vì có một lời hứa đặc biệt cho nó. Cho tôi một lời hứa, thì gian truân có là gì? Chúa tôi dạy tôi ở đây nói điều gì? Là điều này: &quot;Chúa sẽ làm cho tôi được sống lại.&quot; Tôi sẽ có thêm sự sống, thêm năng lực, thêm đức tin. Há chẳng phải thường như vậy sao, gian truân làm chúng ta sống lại, như một luồng không khí lạnh khi người ta sắp ngất?</p><p>Kẻ thù của tôi giận dữ dường nào, và nhất là kẻ thù đầu sỏ! Tôi có nên giơ tay ra đánh giặc thù tôi không? Không, tay tôi dùng tốt hơn vào việc phục vụ Chúa tôi. Hơn nữa, không cần thiết, vì Đức Chúa Trời tôi sẽ dùng cánh tay vươn xa của Ngài, và Ngài sẽ xử lý chúng tốt hơn nhiều so với tôi nếu tôi cố làm. &quot;Sự báo thù thuộc về Ta; Ta sẽ báo ứng, Chúa phán.&quot; Ngài sẽ dùng chính tay hữu đầy năng quyền và khôn ngoan của Ngài cứu tôi, và tôi còn mong gì hơn?</p><p>Này, hỡi lòng ta, hãy nhắc đi nhắc lại lời hứa này với chính mình cho đến khi ngươi có thể dùng nó như bài ca của sự tin chắc, niềm an ủi của sự cô đơn. Hãy cầu nguyện để chính mình được sống lại, và phó phần còn lại cho Chúa, Đấng làm trọn mọi sự cho ngươi.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Giữa khó khăn hiện tại, bạn sẽ nhắc lòng mình nhớ đến lời hứa nào của Ngài, cho đến khi nó trở thành bài ca khích lệ bạn mỗi ngày?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con tạ ơn Ngài vì Ngài đã dành một lời hứa riêng cho những lúc chúng con bước đi giữa hoạn nạn, rằng Ngài sẽ phục hồi sức sống cho chúng con. Xin giúp chúng con đón nhận thêm sức mạnh và thêm niềm tin từ chính những khó khăn ấy, như hơi thở mát làm tỉnh lại người sắp ngất. Xin cho chúng con thôi tự mình đối phó với kẻ thù, nhưng phó thác việc ấy cho Ngài, Đấng sẽ dùng quyền năng khôn ngoan của Ngài để giải cứu chúng con. Xin dạy chúng con cầu xin được phục hồi, và giao phó mọi phần còn lại cho Ngài, Đấng hoàn tất mọi điều Ngài đã định cho chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/yen-ui.html">Yên ủi</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a></div></div>
   </article>
   <nav class="qnav">

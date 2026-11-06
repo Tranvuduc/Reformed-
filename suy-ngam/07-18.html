@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/os/2.html#v14" style="color:inherit">Ô-sê 2:14</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời dụ dân Ngài vào đồng vắng hoạn nạn, để nói êm ái và ban sự thông công ngọt ngào.</p>
     <div class="dev-body"><p>Sự nhân lành của Đức Chúa Trời thấy chúng ta bị tội lỗi dụ dỗ, và Ngài quyết định thử trên chúng ta những sự dụ dỗ mạnh hơn của tình yêu. Chúng ta há không nhớ khi Đấng Yêu dấu của linh hồn chúng ta lần đầu gieo bùa mê trên chúng ta và quyến rũ chúng ta khỏi những mê hoặc của thế gian sao? Ngài sẽ làm điều này hết lần này đến lần khác mỗi khi Ngài thấy chúng ta có nguy cơ bị điều ác giăng bẫy.</p><p>Ngài hứa sẽ đưa chúng ta ra riêng, vì ở đó Ngài có thể đối xử tốt nhất với chúng ta, và nơi tách biệt này sẽ không phải là Địa Đàng, mà là đồng vắng, vì ở nơi như vậy sẽ không có gì làm chúng ta xao lãng khỏi Đức Chúa Trời. Trong các sa mạc hoạn nạn, sự hiện diện của Chúa trở thành mọi sự đối với chúng ta, và chúng ta quý sự thông công với Ngài hơn bất kỳ giá trị nào chúng ta đặt vào nó khi chúng ta ngồi dưới cây nho và cây vả của mình trong xã hội của đồng loại. Sự cô tịch và hoạn nạn đem lại nhiều hơn cho chính họ và cho Cha thiên thượng họ hơn bất kỳ phương tiện nào khác.</p><p>Khi đã được dụ dỗ và tách riêng như vậy, Chúa có những điều quý báu để nói với chúng ta cho sự an ủi. Ngài &quot;nói với lòng chúng ta,&quot; như nguyên văn chép. Ôi, ước gì lúc này chúng ta có lời hứa này được giải thích trong kinh nghiệm! Được tình yêu dụ dỗ, được thử thách tách riêng, và được Thần lẽ thật an ủi, nguyện chúng ta biết Chúa và hát vì vui mừng!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Đồng vắng nào — sự cô tịch hay hoạn nạn — Chúa đang dùng để tách bạn ra riêng, và bạn đang nghe Ngài nói êm ái với lòng bạn điều gì?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì tình yêu Ngài kéo chúng con ra khỏi những lôi cuốn của đời này, lần này qua lần khác. Xin giúp chúng con trân trọng những lúc Ngài đưa chúng con ra riêng, nơi chẳng có gì làm chúng con xao lãng khỏi Ngài. Xin dạy chúng con quý sự gần gũi với Ngài hơn mọi tiện nghi an nhàn mà chúng con từng hưởng. Xin cho chúng con nghe được tiếng Ngài phán với lòng mình trong những ngày vắng lặng, và xin cho chúng con biết Ngài càng hơn để cất tiếng hát vui mừng.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/dong-vang.html">Đồng vắng</a><a class="btn" href="/bach-khoa/su-thong-cong.html">Sự thông công</a><a class="btn" href="/bach-khoa/yen-ui.html">Yên ủi</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/prov/10.html#v24" style="color:inherit">Châm Ngôn 10:24</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời ban cho những ước nguyện công chính của tín hữu, nhất là sự thánh khiết và giống Đấng Christ.</p>
     <div class="dev-body"><p>Vì đó là ước nguyện công chính nên Đức Chúa Trời ban cho là an toàn. Sẽ chẳng tốt cho chính người ấy, cũng chẳng tốt cho xã hội nói chung, nếu một lời hứa như vậy được ban cho kẻ bất chính. Chúng ta hãy giữ các điều răn của Chúa, và Ngài sẽ đoái đến các ước nguyện của chúng ta một cách chính đáng.</p><p>Khi những người công chính bị bỏ lại với những ước muốn bất chính, chúng sẽ không được ban cho họ. Nhưng bấy giờ đó không phải là ước nguyện thật của họ; đó là những lần lang thang hay lầm lỡ của họ; và bị từ chối là tốt cho họ. Những ước nguyện đầy ân điển của họ sẽ đến trước mặt Chúa, và Ngài sẽ không từ chối.</p><p>Chúa có từ chối lời cầu xin của chúng ta một thời gian không? Lời hứa hôm nay hãy khích lệ chúng ta cầu xin lại. Ngài có từ chối chúng ta hoàn toàn không? Chúng ta vẫn sẽ tạ ơn Ngài, vì đó luôn là ước nguyện của chúng ta rằng Ngài nên từ chối chúng ta nếu Ngài xét thấy sự từ chối là tốt nhất.</p><p>Về một số điều, chúng ta cầu xin rất dạn dĩ. Những ước nguyện chính của chúng ta là sự thánh khiết, sự hữu ích, giống như Đấng Christ, sự chuẩn bị cho Thiên Đàng. Đó là những ước nguyện của ân điển hơn là của bản tính — những ước nguyện của người công chính hơn là của con người xác thịt. Đức Chúa Trời sẽ không keo kiệt với chúng ta trong những điều này, nhưng sẽ làm cho chúng ta dư dật vô cùng. &quot;Hãy vui thỏa nơi Đức Giê-hô-va, Ngài sẽ ban cho ngươi những ước nguyện của lòng ngươi.&quot; Ngày nay, hỡi linh hồn ta, hãy cầu xin rộng rãi!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Trong những điều bạn đang cầu xin, ước nguyện nào thật sự hướng về sự nên thánh, về việc giống Chúa Giê-xu và sẵn sàng cho thiên đàng, và bạn có dám cầu xin điều ấy cách rộng rãi hôm nay không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài lắng nghe những ước nguyện công chính của con cái Ngài. Chúng con xin Ngài thanh tẩy lòng mình, để những điều chúng con khao khát là sự thánh khiết, sự hữu ích và sự giống Chúa Giê-xu hơn. Xin cho chúng con cầu xin cách dạn dĩ những điều đẹp lòng Ngài, và tin rằng Ngài sẽ ban dư dật. Xin cũng dạy chúng con tạ ơn Ngài ngay cả khi Ngài từ chối một lời cầu xin, vì Ngài biết điều gì là tốt nhất cho chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/bach-khoa/y-muon-cua-duc-chua-troi.html">Ý muốn của Đức Chúa Trời</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

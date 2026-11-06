@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/2thes/3.html#v3" style="color:inherit">2 Tê-sa-lô-ni-ca 3:3</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời thành tín làm vững vàng và gìn giữ tín hữu khỏi kẻ ác.</p>
     <div class="dev-body"><p>Loài người thường thiếu lý trí cũng như thiếu đức tin. Vẫn còn ở với chúng ta những &quot;kẻ vô lý và độc ác.&quot; Tranh luận với họ hay cố sống hòa thuận với họ đều vô ích: lòng họ giả dối, và lời họ dối trá. Vậy thì sao? Chúng ta có nên tự làm khổ mình vì họ không? Không; chúng ta hãy quay về với Chúa, vì Ngài là thành tín. Không lời hứa nào từ Lời Ngài sẽ bị phá vỡ. Ngài không vô lý trong những đòi hỏi của Ngài đối với chúng ta, cũng không bất tín đối với những đòi hỏi của chúng ta nơi Ngài. Chúng ta có một Đức Chúa Trời thành tín. Đây là niềm vui của chúng ta.</p><p>Ngài sẽ làm cho chúng ta vững vàng để kẻ ác không khiến chúng ta sa ngã, và Ngài sẽ giữ chúng ta để không điều ác nào đang tấn công chúng ta thật sự làm hại chúng ta. Phước thay cho chúng ta biết bao vì chúng ta không cần tranh chiến với loài người, nhưng được phép nương náu trong Chúa Giê-xu, Đấng cảm thông với chúng ta cách chân thật nhất. Có một tấm lòng chân thật, một tâm trí thành tín, một Tình Yêu không bao giờ đổi thay; chúng ta hãy nghỉ ngơi ở đó. Chúa sẽ hoàn thành mục đích ân điển của Ngài cho chúng ta, là đầy tớ Ngài, và chúng ta không cần để một bóng sợ hãi nào rơi trên tâm linh mình. Không mọi điều loài người hay ma quỷ có thể làm có thể ngăn trở chúng ta khỏi sự bảo vệ và chu cấp của Đức Chúa Trời. Hôm nay chúng ta hãy cầu nguyện Chúa làm cho chúng ta vững vàng và giữ chúng ta.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi có người vô lý và độc ác làm bạn nản lòng, bạn sẽ quay về nương náu nơi Chúa thành tín ra sao thay vì tự mình tranh chiến với họ?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha thành tín, chúng con cảm tạ Ngài vì Ngài không bao giờ thay đổi lời hứa, và tình yêu Ngài dành cho chúng con vẫn vững bền dù lòng người đổi thay. Xin làm cho chúng con đứng vững, để những kẻ độc ác và vô lý không kéo chúng con ngã theo họ, và xin gìn giữ chúng con khỏi mọi điều dữ đang vây quanh. Xin giúp chúng con ngừng tự dày vò mình vì những người chống đối, mà chạy đến ẩn mình nơi Chúa Giê-xu, Đấng hiểu thấu nỗi lòng chúng con hơn ai hết. Xin cho chúng con an nghỉ trong tình yêu không đổi dời của Ngài, tin rằng Ngài sẽ hoàn thành mọi ý định tốt lành Ngài đã định cho chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/bach-khoa/su-ben-do-cua-cac-thanh-do.html">Sự bền đỗ của các thánh đồ</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/giao-ly/cau-106.html">Giáo Lý Câu 106</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

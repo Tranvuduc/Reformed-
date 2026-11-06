@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/81.html#v10" style="color:inherit">Thi Thiên 81:10</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hãy mở miệng rộng ra trong cầu nguyện, Chúa sẽ làm đầy bằng phước lành lớn lao.</p>
     <div class="dev-body"><p>Lời khích lệ cầu nguyện biết bao! Những quan niệm của con người chúng ta sẽ dẫn chúng ta xin những điều nhỏ bé vì công đức của chúng ta quá nhỏ; nhưng Chúa muốn chúng ta cầu xin những phước lành lớn lao. Cầu nguyện nên đơn giản như việc mở miệng; nó nên là một lời thốt ra tự nhiên, không gò ép. Khi một người sốt sắng, người ấy mở miệng rộng, và bản văn của chúng ta thúc giục chúng ta sốt sắng trong lời nài xin.</p><p>Nhưng điều đó cũng có nghĩa là chúng ta có thể mạnh dạn với Đức Chúa Trời, và xin nhiều phước lành lớn lao nơi tay Ngài. Hãy đọc cả câu, và xem luận cứ: &quot;Ta là Giê-hô-va, Đức Chúa Trời ngươi, Đấng đã đem ngươi ra khỏi đất Ai Cập: hãy mở miệng ngươi rộng ra, và Ta sẽ làm cho nó đầy.&quot; Vì Chúa đã ban cho chúng ta quá nhiều, Ngài mời chúng ta xin thêm, phải, mong đợi thêm.</p><p>Hãy xem những chú chim non trong tổ dường như toàn là miệng khi chim mẹ đến mớm mồi. Chúng ta cũng hãy như vậy. Chúng ta hãy đón nhận ân điển ở mọi cửa. Chúng ta hãy hút nó vào như miếng bọt biển hút nước trong đó nó nằm. Đức Chúa Trời sẵn sàng làm cho chúng ta đầy nếu chúng ta chỉ sẵn sàng được đầy. Ước gì nhu cầu của chúng ta làm chúng ta mở miệng; ước gì sự yếu đuối của chúng ta làm chúng ta mở miệng và thở hổn hển; phải, ước gì sự báo động của chúng ta làm chúng ta mở miệng ra với tiếng kêu của trẻ thơ. Cái miệng mở ra sẽ được chính Chúa làm cho đầy. Xin cho điều ấy xảy đến cho chúng con, Lạy Chúa, hôm nay.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Hôm nay bạn có dám trình bày trước mặt Chúa những nhu cầu lớn lao nhất của mình, tin rằng Ngài vui lòng ban cho nhiều hơn những gì bạn dám xin không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa, chúng con cảm tạ Ngài vì Ngài mời chúng con cầu xin những phước lành lớn lao, đơn giản như việc mở miệng, vì Ngài đã ban cho chúng con quá nhiều rồi. Xin cho nhu cầu của chúng con làm chúng con mở miệng, sự yếu đuối làm chúng con thở hổn hển, và sự báo động làm chúng con kêu lên như trẻ thơ. Xin cho chúng con như những chú chim non trong tổ, đón nhận ân điển ở mọi cửa và hút lấy nó như miếng bọt biển hút nước. Xin làm đầy cái miệng mở ra của chúng con ngay hôm nay, vì chính Ngài đã hứa như vậy.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/bach-khoa/an-dien.html">Ân điển</a><a class="btn" href="/bach-khoa/phuoc-hanh.html">Phước hạnh</a><a class="btn" href="/giao-ly/cau-98.html">Giáo Lý Câu 98</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

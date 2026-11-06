@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/sep/3.html#v17" style="color:inherit">Sô-phô-ni 3:17</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời quyền năng ở giữa dân Ngài để cứu và vui mừng về họ bằng tiếng ca.</p>
     <div class="dev-body"><p>Lời này lớn lao biết bao! Giê-hô-va Đức Chúa Trời ở giữa dân sự Ngài trong mọi sự uy nghi của quyền năng Ngài! Chỉ riêng sự hiện diện này đã đủ để truyền cho chúng ta sự bình an và hy vọng. Những kho tàng quyền năng vô biên được chứa trong Giê-hô-va của chúng ta, và Ngài ngự trong Hội Thánh Ngài, vì vậy dân sự Ngài có thể reo vui.</p><p>Chúng ta không chỉ có sự hiện diện của Ngài, mà Ngài còn đang bận rộn với công việc tuyển chọn của Ngài là sự cứu rỗi. &quot;Ngài sẽ cứu.&quot; Ngài luôn cứu: Ngài lấy danh Giê-xu từ đó. Chúng ta đừng sợ bất kỳ nguy hiểm nào, vì Ngài quyền năng để cứu.</p><p>Cũng chưa hết. Ngài ở mãi vẫn vậy; Ngài yêu, Ngài tìm được sự nghỉ ngơi trong tình yêu, Ngài sẽ không ngừng yêu. Tình yêu của Ngài ban cho Ngài niềm vui. Ngài thậm chí tìm được một đề tài cho bài ca trong người được yêu của Ngài. Điều này kỳ diệu vô cùng. Khi Đức Chúa Trời dựng nên sự sáng tạo, Ngài không hát, mà chỉ phán: &quot;Rất tốt lành&quot;; nhưng khi Ngài đến sự cứu chuộc, thì Ba Ngôi thánh cảm thấy một niềm vui cần được bày tỏ bằng bài ca. Hãy nghĩ về điều đó, và hãy kinh ngạc! Giê-hô-va Giê-xu hát một bài ca hôn lễ trên nàng dâu được chọn của Ngài. Nàng đối với Ngài là tình yêu của Ngài, niềm vui của Ngài, sự nghỉ ngơi của Ngài, bài ca của Ngài. Lạy Chúa Giê-xu, bởi tình yêu vô lượng của Ngài đối với chúng con, xin dạy chúng con yêu mến Ngài, vui mừng trong Ngài, và hát lên cho Ngài bài thánh ca đời sống của chúng con.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có tin rằng Đức Chúa Trời không chỉ ở giữa bạn với quyền năng cứu giúp, mà còn vui mừng về bạn đến nỗi nghỉ ngơi trong tình yêu và hát lên bài ca trên bạn không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa Giê-xu, chúng con ngợi khen Ngài vì Ngài không đứng xa mà dõi theo chúng con, nhưng Ngài đang ở ngay giữa chúng con với quyền năng giải cứu. Xin mở mắt chúng con để thấy niềm vui Ngài tìm được nơi những kẻ thuộc về Ngài, và xin cho lòng chúng con cũng được an nghỉ trong tình thương ấy. Chúng con ngạc nhiên khi nghĩ rằng Đấng dựng nên muôn vật lại muốn gần gũi chúng con đến thế, và còn lấy làm vui thích khi ở cùng chúng con. Xin dạy chúng con đáp lại bằng một đời sống ca ngợi, yêu mến Ngài hết lòng và bước đi trong hy vọng mỗi ngày.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/tinh-yeu-thuong.html">Tình yêu thương</a><a class="btn" href="/bach-khoa/su-cuu-roi.html">Sự cứu rỗi</a><a class="btn" href="/bach-khoa/su-ngoi-khen.html">Sự ngợi khen</a><a class="btn" href="/giao-ly/cau-20.html">Giáo Lý Câu 20</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/tho-phuong.html">Thờ phượng</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a></div></div>
   </article>
   <nav class="qnav">

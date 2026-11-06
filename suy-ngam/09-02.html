@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/os/6.html#v3" style="color:inherit">Ô-sê 6:3</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Hãy kiên trì theo đuổi để nhận biết Đức Giê-hô-va, vì Đức Thánh Linh sẽ dẫn tín hữu vào mọi lẽ thật.</p>
     <div class="dev-body"><p>Không phải một lần, mà từng bước chúng ta sẽ đạt tới sự hiểu biết thánh, và việc của chúng ta là kiên trì học hỏi từng chút một. Chúng ta không cần thất vọng dù tiến bộ chậm, vì rồi chúng ta sẽ nhận biết. Chúa, Đấng đã trở thành Thầy của chúng ta, sẽ không bỏ chúng ta, dù chúng ta có chậm hiểu đến đâu; vì danh dự của Ngài không cho phép bất kỳ sự ngu dại nào của con người làm cho kỹ năng của Ngài bị bẽ mặt. Chúa vui thích làm cho kẻ đơn sơ nên khôn ngoan.</p><p>Nhiệm vụ của chúng ta là giữ vững chủ đề chính, và tiếp tục bước tới để nhận biết, không phải giáo lý đặc biệt này hay giáo lý kia, mà là chính Giê-hô-va. Nhận biết Cha, Con, và Thánh Linh, Đức Chúa Trời Ba Ngôi, ấy là sự sống đời đời: chúng ta hãy giữ vững điều này, vì bằng cách ấy chúng ta sẽ nhận được sự dạy dỗ đầy đủ. Bằng cách tiếp tục bước tới để nhận biết Chúa, chúng ta học được sự chữa lành sau khi bị xé nát, sự băng bó sau khi bị đánh đập, và sự sống sau sự chết. Kinh nghiệm có công việc trọn vẹn của nó khi lòng theo sát lối mòn của Chúa Toàn Năng.</p><p>Hồn ta ơi, hãy bám sát lấy Chúa Giê-xu, tiếp tục bước tới để nhận biết Đức Chúa Trời trong Chúa Giê-xu, và như thế ngươi sẽ đến sự nhận biết Đấng Christ, là khoa học xuất sắc nhất trong mọi khoa học. Đức Thánh Linh sẽ dẫn ngươi vào mọi lẽ thật. Há chẳng phải đó là chức vụ ân điển của Ngài sao? Hãy nương cậy Ngài để Ngài làm trọn.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có đang nản lòng vì mình học biết Đức Chúa Trời quá chậm, hay bạn sẽ tiếp tục bước tới từng bước để nhận biết Ngài hôm nay?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài không quay lưng lại với những ai học biết Ngài cách chậm chạp, nhưng lại vui lòng ban sự khôn ngoan cho những tấm lòng đơn sơ. Xin giúp chúng con cứ bền lòng tiến lên từng bước trong việc hiểu biết Ngài, mà không chán nản vì mình tiến chậm. Xin Đức Thánh Linh mở mắt chúng con để càng ngày càng hiểu biết Ba Ngôi Đức Chúa Trời cách sâu xa hơn, vì đó chính là sự sống đời đời.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/le-that.html">Lẽ thật</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/su-truong-thanh-thuoc-linh.html">Sự trưởng thành thuộc linh</a><a class="btn" href="/giao-ly/cau-3.html">Giáo Lý Câu 3</a><a class="btn" href="/giao-ly/cau-89.html">Giáo Lý Câu 89</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a></div></div>
   </article>
   <nav class="qnav">

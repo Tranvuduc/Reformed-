@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/deb/33.html#v13" style="color:inherit">Phục Truyền 33:13</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúng ta được hưởng những của quý báu của các tầng trời, sương móc Thánh Linh và vực sâu đầy đủ.</p>
     <div class="dev-body"><p>Chúng ta có thể giàu có trong những điều như Giô-sép đã nhận được, và chúng ta có thể có chúng theo nghĩa cao hơn. Ôi, ước gì có &quot;những của quý báu của các tầng trời!&quot; Quyền năng với Đức Chúa Trời, và sự bày tỏ quyền năng từ Đức Chúa Trời, là quý giá nhất. Chúng ta muốn hưởng sự bình an của Đức Chúa Trời, niềm vui của Chúa, vinh quang của Đức Chúa Trời chúng ta. Phước lành của ba Ngôi trong tình yêu, ân điển, và sự thông công, chúng ta quý trọng hơn vàng ròng nhất. Những điều của đất chẳng là gì về sự quý giá so với những điều của trời.</p><p>&quot;Sương móc.&quot; Quý giá biết bao! Chúng ta cầu nguyện và ngợi khen biết bao, khi chúng ta có sương móc! Thật sảng khoái, thật tăng trưởng, thật thơm tho, thật sự sống trong chúng ta biết bao khi sương móc ở quanh! Trên hết mọi điều khác, như cây trồng bởi chính tay phải của Chúa, chúng ta cần sương móc của Đức Thánh Linh Ngài.</p><p>&quot;Vực sâu nằm dưới.&quot; Chắc hẳn điều này chỉ về đại dương vô hình dưới lòng đất, nguồn cung cấp mọi suối nước ngọt làm vui vẻ mặt đất. Ôi, ước gì được chạm đến những nguồn vĩnh cửu! Đây là một ân huệ không nói nên lời; nguyện không tín đồ nào nghỉ ngơi cho đến khi mình sở hữu nó. Sự đầy đủ mọi bề của Đức Giê-hô-va thuộc về chúng ta đời đời. Chúng ta hãy đến với nó ngay bây giờ.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Giữa những &#x27;của quý báu&#x27; của trần gian, điều quý báu nào của các tầng trời — sự bình an, niềm vui hay sự thông công với Chúa — mà bạn đang khao khát nhất, và bạn sẽ tìm kiếm nó như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì những báu vật từ trời cao thuộc về chúng con trong Đấng Christ. Xin cho chúng con trân quý sự bình an của Ngài, niềm vui của Chúa và mối tương giao với Ngài hơn cả vàng ròng tinh khiết nhất. Xin ban cho chúng con hơi sương Thánh Linh Ngài ban, để đời sống chúng con được tươi mát, lớn lên và tỏa hương. Xin cho chúng con chạm tới những mạch nguồn vĩnh cửu của Ngài, vì Ngài là nguồn cung ứng không bao giờ cạn của chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/duc-thanh-linh.html">Đức Thánh Linh</a><a class="btn" href="/bach-khoa/phuoc-hanh.html">Phước hạnh</a><a class="btn" href="/bach-khoa/su-thong-cong.html">Sự thông công</a><a class="btn" href="/giao-ly/cau-30.html">Giáo Lý Câu 30</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/cau-nguyen.html">Cầu nguyện</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

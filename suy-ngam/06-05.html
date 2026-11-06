@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/exo/11.html#v7" style="color:inherit">Xuất Ê-díp-tô Ký 11:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời phân biệt dân Ngài, giữ lưỡi kẻ thù câm lặng và ban bình an giữa hiểm nguy.</p>
     <div class="dev-body"><p>Sao! Đức Chúa Trời có quyền trên lưỡi chó sao? Ngài có thể giữ chó khỏi sủa không? Phải, đúng như vậy. Ngài thậm chí có thể ngăn một con chó Ai Cập quấy rầy một chiên con trong bầy Y-sơ-ra-ên. Đức Chúa Trời làm câm lưỡi chó, và những kẻ như chó giữa loài người, và con chó lớn ở cửa địa ngục chăng? Vậy thì chúng ta hãy cứ bước đi trên đường mình mà không sợ hãi.</p><p>Nếu Ngài để chó động lưỡi, Ngài cũng có thể ngăn răng chúng. Chúng có thể sủa vang kinh khiếp, mà vẫn không hại chúng ta thật sự. Nhưng sự yên lặng ngọt ngào biết bao! Được đi lại giữa kẻ thù mà thấy Đức Chúa Trời khiến chúng hòa thuận với chúng ta, thật thú vị biết bao! Như Đa-ni-ên trong hang sư tử, chúng ta vô sự giữa những kẻ hủy diệt.</p><p>Ôi, ước gì hôm nay lời của Chúa phán với Y-sơ-ra-ên này cũng thành thật đối với ta! Con chó có quấy rầy ta chăng? Ta sẽ nói với Chúa ta về nó. Lạy Chúa, nó chẳng màng lời nài xin của con; xin Ngài phán lời quyền năng, thì nó phải nằm im. Xin ban cho con sự bình an, hỡi Đức Chúa Trời con, và cho con thấy rõ tay Ngài trong đó, để con nhận biết thật rõ sự phân biệt mà ân điển Ngài đã làm giữa con và kẻ vô đạo!</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Có “con chó” nào đang sủa vang đe dọa con — một lời vu khống, một kẻ chống đối, hay một nỗi sợ — mà con cần đem đến cho Chúa thay vì tự mình đối phó không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Đức Chúa Trời, chúng con cảm ơn Ngài vì Ngài có quyền trên cả những kẻ thù nhỏ bé nhất, và Ngài có thể khiến chúng nằm im khi Ngài muốn. Xin ban cho chúng con sự bình an ngọt ngào khi phải bước đi giữa những kẻ chống đối, để chúng con thấy rõ bàn tay Ngài phân biệt chúng con bằng ân điển Ngài. Xin giữ chúng con khỏi sợ hãi và khỏi tự vệ bằng những cách của thế gian. Chúng con tin cậy nơi quyền tể trị của Ngài, Đấng bảo vệ dân Ngài như Đa-ni-ên giữa hang sư tử.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/su-te-tri.html">Sự tể trị</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/amos/9.html#v9" style="color:inherit">A-mốt 9:9</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Dù bị sàng sảy giữa các dân tộc, không một tín hữu nhỏ nhất nào của Chúa bị mất.</p>
     <div class="dev-body"><p>Tiến trình sàng sảy vẫn đang tiếp diễn. Bất cứ nơi nào chúng ta đi, chúng ta vẫn đang bị rê và sàng. Trong mọi quốc gia, dân sự của Đức Chúa Trời đang bị thử nghiệm &quot;như lúa mì được sàng trong cái sàng.&quot; Đôi khi ma quỷ cầm cái sàng, và tung chúng ta lên xuống với tốc độ lớn, với mong muốn tha thiết loại bỏ chúng ta mãi mãi. Sự vô tín không chậm trễ khuấy động lòng và trí chúng ta bằng những nỗi sợ bồn chồn của nó. Thế gian sẵn lòng góp tay vào cùng tiến trình, và lắc chúng ta sang phải sang trái với sức mạnh lớn. Tệ nhất, hội thánh, phần lớn đã bội đạo, xen vào để gia tăng sức mạnh dữ dội hơn cho tiến trình sàng sảy.</p><p>Thôi, thôi! Cứ để nó tiếp diễn. Nhờ đó trấu được tách khỏi lúa mì. Nhờ đó lúa mì được giải thoát khỏi bụi và trấu. Và sự thương xót đến với chúng ta trong bản văn lớn lao biết bao: &quot;nhưng không một hạt nhỏ nhất nào rơi xuống đất&quot;! Mọi điều tốt lành, chân thật, đầy ân điển sẽ được bảo toàn. Không một tín hữu nhỏ nhất nào sẽ bị mất, cũng không một tín hữu nào mất bất cứ điều gì đáng gọi là mất mát. Chúng ta sẽ được gìn giữ trong sự sàng sảy đến nỗi nó sẽ là một lợi ích thật sự cho chúng ta nhờ Đấng Christ Giê-xu.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi đời sống bạn đang bị lay động mạnh từ nhiều phía, bạn có tin rằng Chúa vẫn đang giữ gìn bạn trong tay Ngài, và không để mất đi điều gì thật sự quý giá nơi bạn không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm ơn Ngài vì ngay trong những lúc bị thử thách dữ dội nhất, Ngài vẫn là Đấng nắm giữ đời sống chúng con. Xin cho chúng con tin rằng những gì Ngài đã gieo trồng trong lòng chúng con sẽ không bị cuốn đi, dù sóng gió có mạnh đến đâu. Xin dùng những lúc khó khăn này để gạn lọc chúng con, tách bỏ những gì rỗng tuếch và giữ lại những gì chân thật. Xin cho chúng con bước qua mùa thử thách với lòng bình an, biết rằng Ngài sẽ gìn giữ chúng con trọn vẹn cho đến cuối cùng.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-ben-do-cua-cac-thanh-do.html">Sự bền đỗ của các thánh đồ</a><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

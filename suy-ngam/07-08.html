@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/34.html#v7" style="color:inherit">Thi Thiên 34:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Thiên sứ Đức Chúa Trời đóng trại quanh kẻ kính sợ Ngài, canh giữ và giải cứu họ mọi bề.</p>
     <div class="dev-body"><p>Chúng ta không thể thấy các thiên sứ, nhưng chỉ cần họ thấy chúng ta là đủ. Có một Thiên Sứ vĩ đại của Giao Ước, Đấng chúng ta chưa từng thấy mà yêu mến, và mắt Ngài luôn trên chúng ta cả ngày lẫn đêm. Ngài có cả đạo quân thánh dưới quyền, và Ngài khiến họ canh giữ các thánh đồ của Ngài và bảo vệ họ khỏi mọi điều ác. Nếu ma quỷ làm hại chúng ta, các đấng sáng láng phục vụ chúng ta. Hãy lưu ý rằng Chúa của các thiên sứ không đến rồi đi, và thăm chúng ta chốc lát, nhưng Ngài và các đạo quân Ngài đóng trại chung quanh chúng ta. Sở chỉ huy của đạo quân cứu rỗi ở nơi những kẻ tin cậy Đức Chúa Trời hằng sống sinh sống. Trại này bao quanh các tín hữu, đến nỗi họ không thể bị tấn công từ bất kỳ phía nào trừ khi kẻ thù có thể phá vỡ chiến hào của Chúa các thiên sứ. Chúng ta có sự bảo vệ cố định, sự canh gác thường trực. Được các sứ giả của Đức Chúa Trời canh gác, chúng ta sẽ không bị bất ngờ bởi những cuộc tấn công đột ngột, cũng không bị nuốt chửng bởi những lực lượng áp đảo. Sự giải cứu được hứa trong câu này — sự giải cứu bởi Đấng Đại Tướng của sự cứu rỗi chúng ta, và sự giải cứu ấy chúng ta sẽ nhận được hết lần này đến lần khác cho đến khi chiến trận của chúng ta hoàn tất và chúng ta đổi chiến trường xung đột lấy quê hương yên nghỉ.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn đang đối mặt với mối đe dọa nào mà mắt thường không thấy được sự bảo vệ, và niềm tin rằng thiên sứ của Chúa đang đóng trại quanh bạn thay đổi cách bạn bước đi ra sao?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con tạ ơn Ngài vì Ngài đặt những sứ giả trên trời canh giữ chúng con ngày đêm, dù mắt chúng con chẳng thấy họ. Xin giúp chúng con tin rằng chúng con được bao bọc bởi sự bảo vệ vững chắc của Ngài từ mọi phía. Khi những hiểm nguy bất ngờ ập đến, xin Ngài giữ chúng con khỏi hoảng sợ, vì Ngài là Đấng giải cứu chúng con. Xin cho chúng con được giải thoát lần lượt qua từng hiểm nguy, cho đến khi cuộc chiến của chúng con kết thúc trong bình an.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/thien-su.html">Thiên sứ</a><a class="btn" href="/bach-khoa/su-giai-cuu.html">Sự giải cứu</a><a class="btn" href="/bach-khoa/su-ben-do-cua-cac-thanh-do.html">Sự bền đỗ của các thánh đồ</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a></div></div>
   </article>
   <nav class="qnav">

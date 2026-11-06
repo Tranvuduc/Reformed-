@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/2sam/23.html#v5" style="color:inherit">2 Sa-mu-ên 23:5</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Giao ước đời đời, có thứ tự và chắc chắn, là mọi sự cứu rỗi và mọi điều tín hữu ao ước.</p>
     <div class="dev-body"><p>Đây không hẳn là một lời hứa mà là một tổng hợp các lời hứa -- một hộp ngọc trai. Giao ước là chiếc hòm chứa mọi sự.</p><p>Đây là những lời cuối cùng của Đa-vít, nhưng hôm nay chúng có thể là của tôi. Đây là một tiếng thở dài: mọi sự không với tôi và gia đình tôi như tôi mong muốn; có những thử thách, lo lắng, và tội lỗi. Những điều này làm cho chiếc gối cứng.</p><p>Đây là một sự an ủi -- &quot;Ngài đã lập với ta một giao ước đời đời.&quot; Đức Giê-hô-va đã cam kết chính Ngài với tôi, và đã đóng ấn giao ước bằng huyết Chúa Giê-xu. Tôi thuộc về Đức Chúa Trời tôi, và Đức Chúa Trời tôi thuộc về tôi.</p><p>Điều này làm nổi bật một sự bảo đảm, vì giao ước này đời đời, có thứ tự hoàn hảo và chắc chắn. Không có gì phải sợ từ sự trôi qua của thời gian, sự thất bại của một điểm bị quên lãng nào đó, hay sự bất định tự nhiên của mọi sự. Giao ước là một nền đá để xây dựng cho sự sống hay cho sự chết.</p><p>Đa-vít cảm thấy thỏa lòng: ông không muốn gì hơn cho sự cứu rỗi hay sự vui thích. Ông được giải cứu, và ông vui mừng. Giao ước là mọi điều một người có thể ao ước.</p><p>Ôi linh hồn ta, hôm nay hãy quay về với Chúa Giê-xu của ngươi, Đấng mà Chúa vĩ đại đã ban để làm giao ước cho dân. Hãy nhận lấy Ngài làm của ngươi trong mọi sự.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Khi nhà bạn và đời sống bạn chẳng phải như bạn mong muốn, giao ước đời đời chắc chắn của Đức Chúa Trời có đủ để bạn thỏa lòng không?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì lời cam kết Ngài dành cho chúng con đứng vững qua mọi thời gian, được sắp đặt chu đáo và không gì lay chuyển được, ngay cả khi gia đình và hoàn cảnh của chúng con chưa được như lòng mình mong. Xin dạy chúng con tìm được sự thỏa lòng trong lời cam kết ấy, vì nơi đó có trọn vẹn sự cứu rỗi và mọi điều lòng chúng con khao khát. Xin cho chúng con hôm nay lại nương dựa nơi Chúa Giê-xu, Đấng mà Ngài đã đặt làm nền tảng cho mọi lời hứa với dân Ngài.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/giao-uoc.html">Giao ước</a><a class="btn" href="/bach-khoa/giao-uoc-an-dien.html">Giao ước ân điển</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/giao-ly/cau-20.html">Giáo Lý Câu 20</a><a class="btn" href="/giao-ly/cau-36.html">Giáo Lý Câu 36</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a><a class="btn" href="/suy-ngam/chu-de/an-dien.html">Ân điển</a><a class="btn" href="/suy-ngam/chu-de/thu-thach-va-an-ui.html">Thử thách và an ủi</a></div></div>
   </article>
   <nav class="qnav">

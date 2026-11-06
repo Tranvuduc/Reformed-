@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/92.html#v12" style="color:inherit">Thi Thiên 92:12</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Người công chính được Chúa chăm sóc sẽ tươi tốt và kết trái trong mọi mùa.</p>
     <div class="dev-body"><p>Những cây này không được con người uốn nắn và cắt tỉa: cây chà là và cây tuyết tùng là &quot;cây của Đức Giê-hô-va,&quot; và nhờ sự chăm sóc của Ngài mà chúng tươi tốt; với các thánh đồ của Chúa cũng vậy, họ thuộc sự chăm sóc riêng của Ngài. Những cây này xanh tươi quanh năm và là những vật đẹp trong mọi mùa. Tín hữu không phải lúc thì thánh khiết lúc thì vô đạo: họ đứng trong vẻ đẹp của Chúa trong mọi thời tiết. Ở đâu những cây này cũng đáng chú ý: không ai có thể ngắm một phong cảnh có cây chà là hay cây tuyết tùng mà không chú ý đến những cây vương giả ấy. Những người theo Chúa Giê-xu là những người được mọi người quan sát: như thành phố đặt trên đồi, họ không thể bị che giấu.</p><p>Con cái của Đức Chúa Trời tươi tốt như cây chà là, dồn hết sức lực lên cao trong một thân thẳng đứng duy nhất mà không có một cành nào. Nó là một cây cột với đầu cột vinh quang. Nó không phát triển sang phải hay sang trái, mà dồn mọi sức lực lên trời, và kết trái càng gần bầu trời càng tốt. Lạy Chúa, xin làm ứng nghiệm hình bóng này trong tôi.</p><p>Cây tuyết tùng bất chấp mọi bão tố, và mọc gần những tuyết vĩnh cửu, chính Chúa đổ đầy nhựa vào nó để giữ lòng nó ấm và cành nó mạnh. Lạy Chúa, xin cho điều ấy cũng xảy ra với tôi, tôi cầu xin Ngài. A-men.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Bạn có đang dồn hết sức lực mình lên cao như cây chà là, hay đang lan ra sang phải sang trái trong nhiều mối bận tâm mà quên hướng về trời và kết trái gần bầu trời nhất?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Chúa, chúng con cảm tạ Ngài vì Ngài chăm sóc con cái Ngài như chăm sóc cây chà là và cây tuyết tùng, để chúng con xanh tươi trong mọi mùa và mọi thời tiết. Xin làm cho chúng con dồn sức lực lên trời trong một thân thẳng đứng duy nhất, thay vì tản mát theo nhiều hướng. Xin đổ đầy nhựa vào lòng chúng con như Ngài đổ đầy cây tuyết tùng, để chúng con bất chấp mọi bão tố mà vẫn đứng vững. Xin cho đời sống chúng con đáng chú ý như thành phố đặt trên đồi, để người ta thấy vẻ đẹp của Ngài nơi chúng con.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a><a class="btn" href="/bach-khoa/su-truong-thanh-thuoc-linh.html">Sự trưởng thành thuộc linh</a><a class="btn" href="/bach-khoa/su-thanh-tin.html">Sự thành tín</a><a class="btn" href="/giao-ly/cau-35.html">Giáo Lý Câu 35</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-gin-giu.html">Sự gìn giữ</a><a class="btn" href="/suy-ngam/chu-de/nen-thanh.html">Nên thánh</a><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a></div></div>
   </article>
   <nav class="qnav">

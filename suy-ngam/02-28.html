@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/heb/10.html#v34" style="color:inherit">Hê-bơ-rơ 10:34</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Tín hữu có của cải tốt hơn và bền vững trên trời, nên mất mát đời này không lấy được niềm vui.</p>
     <div class="dev-body"><p>Điều này thật tốt. Của cải của chúng ta ở đây rất hư ảo; chẳng có sự bền vững nào trong nó. Nhưng Đức Chúa Trời đã ban cho chúng ta một lời hứa về bất động sản thật trong xứ vinh hiển, và lời hứa ấy đến với lòng chúng ta với sự bảo đảm đầy đủ về tính chắc chắn của nó, đến nỗi chúng ta biết trong chính mình rằng mình có một của cải bền vững ở đó. Phải, &quot;chúng ta có&quot; nó ngay bây giờ. Người ta nói, &quot;Một con chim trong tay đáng giá hai con trong bụi&quot;; nhưng chúng ta có chim của mình cả trong bụi lẫn trong tay. Thiên Đàng ngay bây giờ đã thuộc về chúng ta. Chúng ta có văn tự sở hữu nó, chúng ta có tiền đặt cọc của nó, chúng ta có trái đầu mùa của nó. Chúng ta có Thiên Đàng trong giá trị, trong lời hứa, và trong nguyên tắc: điều này chúng ta biết không chỉ bởi nghe tai, mà &quot;trong chính mình.&quot;</p><p>Chẳng phải ý nghĩ về của cải tốt hơn bên kia sông Giô-đan nên hòa giải chúng ta với những mất mát hiện tại sao? Tiền tiêu xài của chúng ta có thể mất, nhưng kho báu của chúng ta được an toàn. Chúng ta đã mất những cái bóng, nhưng của thật còn lại, vì Đấng Cứu Rỗi chúng ta hằng sống, và nơi Ngài đã chuẩn bị cho chúng ta còn tồn tại. Có một xứ tốt hơn, một của cải tốt hơn, một lời hứa tốt hơn; và tất cả điều này đến với chúng ta bởi một giao ước tốt hơn; vì vậy, chúng ta hãy vui vẻ hơn, và nói với Chúa, &quot;Mỗi ngày con sẽ chúc tụng Ngài; và ngợi khen danh Ngài đời đời.&quot;</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Mất mát nào trong đời này đang khiến bạn buồn rầu, và niềm trông mong về gia nghiệp bền vững trên trời giúp bạn nhìn mất mát ấy khác đi như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài đã sắm sẵn cho chúng con một gia nghiệp tốt đẹp và bền lâu trên trời, mà ngay hôm nay chúng con đã nắm chắc trong lời hứa của Ngài. Xin giúp chúng con đừng níu giữ của cải chóng qua đời này, nhưng nhớ rằng kho báu của chúng con được giữ an toàn vì Đấng Cứu Rỗi chúng con hằng sống. Xin cho niềm trông mong về quê hương tốt đẹp hơn ấy xoa dịu chúng con trước những mất mát hiện tại, để chúng con vui vẻ chúc tụng Ngài mỗi ngày. Xin dạy chúng con sống như những người biết chắc mình đã có một quê trời: có giá trị thật, có lời hứa chắc, và có nguyên tắc vĩnh cửu.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/thien-dang.html">Thiên đàng</a><a class="btn" href="/bach-khoa/su-song-doi-doi.html">Sự sống đời đời</a><a class="btn" href="/giao-ly/cau-37.html">Giáo Lý Câu 37</a><a class="btn" href="/giao-ly/cau-38.html">Giáo Lý Câu 38</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/hy-vong-thien-dang.html">Hy vọng thiên đàng</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">

@@ -77,14 +77,14 @@
         backdrop-filter: blur(10px);
         border-bottom: 1px solid var(--line);
       }
-      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 56px; }
       .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
       .brand .mark {
         font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
         color: var(--burgundy); letter-spacing: 0.01em;
       }
       .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
-      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: nowrap; }
       nav.main a {
         color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
         padding: 8px 11px; border-radius: 8px; white-space: nowrap;
@@ -349,7 +349,7 @@
       .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
 
       .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
-      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      nav.main a .gloss { display: none; }
       .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
       .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
       .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
@@ -361,6 +361,18 @@
       .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
       .intro-card p:last-child { margin-bottom: 0; }
       .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 1100px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        nav.main a .gloss { display: block; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+      }
       @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
 
       /* ---------- share ---------- */
@@ -486,6 +498,14 @@
     <div class="dev-ref-lg"><a href="/kinh-thanh/deb/33.html#v18" style="color:inherit">Phục Truyền Luật Lệ Ký 33:18</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Sự quan phòng của Đức Chúa Trời hộ tống tín hữu trong mọi sự ra đi, nên hãy ra đi với niềm vui.</p>
     <div class="dev-body"><p>Những phước lành của các chi phái thuộc về chúng ta; vì chúng ta là Y-sơ-ra-ên thật, thờ phượng Đức Chúa Trời trong tâm linh, và không tin cậy nơi xác thịt. Sa-bu-lôn sẽ vui mừng vì Giê-hô-va sẽ ban phước cho &quot;sự ra đi&quot; của người; chúng ta cũng thấy một lời hứa cho chính mình ẩn trong lời chúc phước này. Khi chúng ta ra đi, chúng ta sẽ tìm kiếm những dịp vui mừng.</p><p>Chúng ta ra đi du hành, và sự quan phòng của Đức Chúa Trời là đoàn hộ tống của chúng ta. Chúng ta ra đi di cư, và Chúa ở cùng chúng ta cả trên đất liền và trên biển. Chúng ta ra đi làm giáo sĩ, và Chúa Giê-xu phán: &quot;Này, Ta ở cùng các ngươi luôn đến tận thế.&quot; Chúng ta ra đi hằng ngày đến công việc lao động của mình, và chúng ta có thể làm vậy với niềm vui, vì Đức Chúa Trời sẽ ở cùng chúng ta từ sáng đến tối.</p><p>Một nỗi sợ đôi khi len lỏi vào chúng ta khi khởi hành, vì chúng ta không biết mình sẽ gặp điều gì; nhưng lời chúc phước này có thể phục vụ chúng ta rất tốt như một lời khích lệ. Khi chúng ta thu xếp hành lý để dời đi, chúng ta hãy bỏ câu này vào rương du hành của mình; chúng ta hãy thả nó vào lòng mình, và giữ nó ở đó; phải, chúng ta hãy đặt nó trên lưỡi mình để làm cho mình hát. Chúng ta hãy nhổ neo với một bài ca, hay nhảy lên xe với một thi thiên. Chúng ta hãy thuộc về chi phái vui mừng, và trong mọi sự di chuyển của mình ca ngợi Chúa với tấm lòng vui mừng.</p></div>
+    <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
+      <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
+      <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="font-weight:600">Chuyến đi hay sự ra đi nào đang khiến bạn lo sợ vì tương lai còn mờ mịt, và bạn sẽ mang lời chúc phước về niềm vui trong sự ra đi ấy vào hành lý của mình như thế nào?</p>
+      <h4 style="margin:16px 0 8px">Lời cầu nguyện gợi ý</h4>
+      <p style="font-style:italic">Lạy Cha, chúng con cảm tạ Ngài vì Ngài ban phước cho sự ra đi của chúng con, và sự quan phòng của Ngài là đoàn hộ tống của chúng con trên mọi nẻo đường. Xin giúp chúng con ra đi với niềm vui, dù là du hành, di cư, làm giáo sĩ hay chỉ bước ra mỗi ngày tới nơi làm việc của mình. Xin tha thứ cho chúng con vì nỗi sợ len lỏi vào lòng mỗi khi khởi hành, khi chúng con chẳng biết điều gì đang chờ phía trước. Xin cho chúng con nhổ neo với một bài ca và thuộc về chi phái vui mừng, ca ngợi Ngài với tấm lòng vui mừng trong mọi sự di chuyển của mình.</p>
+      <h3 style="margin:18px 0 10px">Đọc thêm</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/bach-khoa/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/bach-khoa/su-vui-mung.html">Sự vui mừng</a><a class="btn" href="/giao-ly/cau-11.html">Giáo Lý Câu 11</a></div>
+    </div>
     <div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px"><a class="btn" href="/suy-ngam/chu-de/su-quan-phong.html">Sự quan phòng</a><a class="btn" href="/suy-ngam/chu-de/duc-tin.html">Đức tin</a><a class="btn" href="/suy-ngam/chu-de/loi-hua.html">Lời hứa</a></div></div>
   </article>
   <nav class="qnav">
