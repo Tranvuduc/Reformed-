@@ -225,6 +225,35 @@ for course in COURSES:
 # Thirdmill's own player) — course pages link to each series on Nexus, which
 # Thirdmill's reproduction policy encourages for ministry use.
 tm_series = json.loads((ROOT / "scripts/helper-data/thirdmill-series.json").read_text(encoding="utf-8"))
+# Vietnamese study companions for Thirdmill lessons (helper Round 3,
+# verified by the integrator 2026-11-07): keyed by (series_code, lesson_no).
+ALL_COMPANIONS = []
+for _f in ("round3-companions-spark.json", "round3-companions-hana.json"):
+    ALL_COMPANIONS += json.loads((ROOT / "scripts/helper-data" / _f).read_text(encoding="utf-8"))["companions"]
+ALL_COMPANIONS.sort(key=lambda c: (c["course_slug"], c["series_code"], c["lesson_no"]))
+COMPANIONS = {(c["series_code"], c["lesson_no"]): c for c in ALL_COMPANIONS}
+
+def companion_html(c):
+    terms = " · ".join(f"{esc(t['en'])} = {esc(t['vi'])}" for t in c["key_terms"])
+    qs = "".join(f"<li>{esc(q)}</li>" for q in c["questions_vi"])
+    links = []
+    r = c.get("reading", {})
+    for n in r.get("catechism", []):
+        links.append(f'<a href="/giao-ly/cau-{n}.html">Giáo lý câu {n}</a>')
+    for sl in r.get("encyclopedia", []):
+        term = enc.get(sl, {}).get("term_vi") or enc.get(sl, {}).get("term") or sl
+        links.append(f'<a href="/bach-khoa/{sl}.html">Bách khoa: {esc(term)}</a>')
+    for b in r.get("bible", []):
+        bid, ch = b.split(":")
+        links.append(f'<a href="/kinh-thanh/{bid}/{ch}.html">{esc(books.get(bid, bid))} {ch}</a>')
+    read = f'<p style="margin:8px 0 0;font-size:14px">Đọc thêm: {" · ".join(links)}</p>' if links else ""
+    return f"""<div style="margin:8px 0 14px;padding:12px 14px;border-left:3px solid #7c2128;background:rgba(124,33,40,.05);border-radius:0 10px 10px 0">
+      <p style="margin:0 0 6px"><strong>{esc(c["title_vi"])}</strong> <span style="font-size:12px;color:var(--ink-soft)">· Nội dung AI soạn, chưa duyệt</span></p>
+      <p style="margin:0 0 6px">{esc(c["summary_vi"])}</p>
+      <p style="margin:0 0 6px;font-size:14px"><em>Thuật ngữ:</em> {terms}</p>
+      <details><summary style="cursor:pointer;font-size:14px">Câu hỏi học tập</summary><ol style="margin:6px 0 0;padding-left:20px">{qs}</ol></details>
+      {read}
+    </div>"""
 def series_of(course_en):
     return [s for s in tm_series if s["course"].startswith(course_en + " (")]
 CERTS = [
@@ -264,14 +293,21 @@ for cert in CERTS:
         cert_data["courses"].append({"slug": c["slug"], "title_vi": c["vi"], "title_en": c["en"],
                                      "badge_vi": c["badge"],
                                      "series": [{"series": s["series"], "lessons": s["lessons"],
-                                                 "lesson_count": s["lesson_count"], "series_url": s["series_url"]} for s in series]})
+                                                 "lesson_count": s["lesson_count"], "series_url": s["series_url"],
+                                                 "series_code": s["series_url"].rsplit("/", 1)[-1],
+                                                 "companions": [COMPANIONS[(s["series_url"].rsplit("/", 1)[-1], n)]
+                                                                for n in range(1, s["lesson_count"] + 1)
+                                                                if (s["series_url"].rsplit("/", 1)[-1], n) in COMPANIONS]} for s in series]})
         sitemap_urls.append(f"/hoc-vien/khoa/{c['slug']}/")
         # course page
         kdir = OUT / "khoa" / c["slug"]
         kdir.mkdir(parents=True, exist_ok=True)
         series_html = ""
         for s in series:
-            items = "".join(f"<li>{esc(x)}</li>" for x in s["lessons"])
+            _code = s["series_url"].rsplit("/", 1)[-1]
+            items = "".join(
+                f"<li>{esc(x)}" + (companion_html(COMPANIONS[(_code, _n)]) if (_code, _n) in COMPANIONS else "") + "</li>"
+                for _n, x in enumerate(s["lessons"], 1))
             series_html += f"""<section style="margin-bottom:26px">
     <h2 style="font-size:21px">{esc(s["series"])}</h2>
     <p style="color:var(--ink-soft)">{s["lesson_count"]} bài học · Thirdmill Nexus</p>
@@ -350,7 +386,7 @@ landing = f"""{head("Học Viện Cải Chánh — Chương trình Thirdmill mi�
       <div class="mod-card"><h3>2 · Đồng hành tiếng Việt</h3><p>Các lộ trình tiếng Việt của Reformed Vietnam đi kèm chương trình chính: bài đọc trong chính trang này, tóm tắt và trắc nghiệm — không cần tài khoản, tiến độ lưu trên thiết bị.</p></div>
       <div class="mod-card"><h3>3 · Chứng chỉ</h3><p>Tiến độ và chứng chỉ do Thirdmill Institute cấp trên Nexus. Lộ trình tiếng Việt chỉ là phần đồng hành — không thay thế bài kiểm tra chính thức.</p></div>
     </div>
-    <p style="color:var(--ink-soft);font-size:14px">Ghi nhận: hiện chỉ 1 trong 3 bài của loạt Công Vụ Các Sứ Đồ đã có bản tiếng Việt trên Nexus; phần lớn bài học là tiếng Anh. Thirdmill cho phép phân phối miễn phí tài liệu của họ cho mục vụ — trang này liên kết đến Nexus thay vì sao chép nội dung.</p>
+    <p style="color:var(--ink-soft);font-size:14px">Ghi nhận: hiện chỉ 1 trong 3 bài của loạt Công Vụ Các Sứ Đồ đã có bản tiếng Việt trên Nexus; phần lớn bài học là tiếng Anh. Riêng Chứng Chỉ Nền Tảng nay đã có tài liệu đồng hành tiếng Việt cho cả 36 bài — tóm tắt, thuật ngữ và câu hỏi học tập ngay trên trang từng khóa. Thirdmill cho phép phân phối miễn phí tài liệu của họ cho mục vụ — trang này liên kết đến Nexus thay vì sao chép nội dung.</p>
   </section>
   {"".join(cert_sections)}
   <section style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>Lộ Trình Đồng Hành Tiếng Việt</h2><p>Ba khóa tiếng Việt do Reformed Vietnam soạn, học kèm chương trình Thirdmill.</p></div></section>
@@ -362,6 +398,10 @@ landing = f"""{head("Học Viện Cải Chánh — Chương trình Thirdmill mi�
 </html>"""
 OUT.mkdir(exist_ok=True)
 (OUT / "index.html").write_text(landing, encoding="utf-8")
+(ROOT / "data/thirdmill-companions.json").write_text(json.dumps(
+    {"label": "Nội dung AI soạn, chưa duyệt",
+     "source": "Tài liệu đồng hành tiếng Việt cho 36 bài học thuộc Chứng Chỉ Nền Tảng của Thirdmill Institute, do các AI cộng tác (Spark, Hana) soạn từ dàn ý/study guide chính thức của Thirdmill; Molly kiểm tra và tích hợp 2026-11-07.",
+     "companions": ALL_COMPANIONS}, ensure_ascii=False, indent=1), encoding="utf-8")
 (ROOT / "data/academy.json").write_text(json.dumps(data_out, ensure_ascii=False, indent=1), encoding="utf-8")
 print("landing + data/academy.json written")
 
