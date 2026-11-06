@@ -11,7 +11,7 @@ Outputs: suy-ngam/index.html (archive: today's card + search + month index),
 suy-ngam/<mm>-<dd>.html x366 (one page per day), sitemap.xml updates.
 The homepage rotation + module-card flips live in patch_homepage_modules.py.
 """
-import json, re, html, pathlib
+import json, re, html, pathlib, unicodedata
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"
@@ -123,6 +123,19 @@ def share_row(url):
 
 def slug_md(m, d): return f"{m:02d}-{d:02d}"
 
+def slugify(s):
+    s = s.replace("Đ", "d").replace("đ", "d")
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+
+# theme index (from the merged tags in data/devotions.json)
+THEMES = {}
+for e in entries:
+    for th in e.get("themes", []):
+        THEMES.setdefault(th, []).append(e)
+print(f"themes: {len(THEMES)}")
+
 def ordered():
     return [by_md[(m, d)] for m in range(1, 13) for d in range(1, 32) if (m, d) in by_md]
 
@@ -143,7 +156,12 @@ for e in seq:
                 if rl else f'<div class="dev-ref-lg">{esc(e["ref"])}</div>')
     paras = "".join(f"<p>{esc(p)}</p>" for p in e["paras"])
     title = f"{e['title']} — Tĩnh nguyện ngày {d} {MONTHS[m]} | Ân Điển Mỗi Ngày"
-    desc = (e["paras"][0][:150] + "…") if e["paras"] else e["title"]
+    desc = e.get("summary") or ((e["paras"][0][:150] + "…") if e["paras"] else e["title"])
+    summary_html = f'<p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">{esc(e["summary"])}</p>' if e.get("summary") else ""
+    theme_chips = ""
+    if e.get("themes"):
+        links = "".join(f'<a class="btn" href="/suy-ngam/chu-de/{slugify(th)}.html">{esc(th)}</a>' for th in e["themes"])
+        theme_chips = f'<div style="margin-top:16px"><h3 style="margin:0 0 10px">Chủ đề</h3><div class="rel-links" style="display:flex;flex-wrap:wrap;gap:8px">{links}</div></div>'
     page = f"""{head(title, desc, url)}
 <body id="top">
 {header}
@@ -158,7 +176,9 @@ for e in seq:
   <article class="cat-panel">
     <blockquote class="dev-verse-lg">“{esc(e['verse'])}”</blockquote>
     {ref_html}
+    {summary_html}
     <div class="dev-body">{paras}</div>
+    {theme_chips}
   </article>
   <nav class="qnav">
     <a class="btn" href="/suy-ngam/{slug_md(prev_e['month'], prev_e['day'])}.html">← Ngày {prev_e['day']}/{prev_e['month']}</a>
@@ -173,6 +193,36 @@ for e in seq:
 </html>"""
     (OUT / f"{s}.html").write_text(page, encoding="utf-8")
 print("366 day pages written")
+
+# ---- theme pages ----
+theme_dir = OUT / "chu-de"
+theme_dir.mkdir(exist_ok=True)
+for th, tes in THEMES.items():
+    tslug = slugify(th)
+    url = f"{BASE}/suy-ngam/chu-de/{tslug}.html"
+    chips = "".join(
+        f'<a class="day-chip" href="/suy-ngam/{slug_md(e["month"], e["day"])}.html"><span class="dn">{e["day"]}/{e["month"]}</span><span class="dt">{esc(e["title"])}</span></a>'
+        for e in sorted(tes, key=lambda x: (x["month"], x["day"])))
+    page = f"""{head(f"Tĩnh nguyện theo chủ đề: {th} | Ân Điển Mỗi Ngày",
+                     f"{len(tes)} bài tĩnh nguyện của Spurgeon về chủ đề {th}.", url)}
+<body id="top">
+{header}
+<main class="wrap">
+  <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Chủ đề</p>
+  <div class="cat-head">
+    <div class="kicker">Tĩnh Nguyện Theo Chủ Đề</div>
+    <h1>{esc(th)}</h1>
+    <p style="color:var(--ink-soft)">{len(tes)} bài tĩnh nguyện về chủ đề này trong “Sổ Séc Của Đức Tin”.</p>
+    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  </div>
+  <div class="day-grid" style="margin-bottom:34px">{chips}</div>
+</main>
+{footer}
+{MINI_JS}
+</body>
+</html>"""
+    (theme_dir / f"{tslug}.html").write_text(page, encoding="utf-8")
+print(f"{len(THEMES)} theme pages written")
 
 # ---- landing ----
 import datetime
@@ -203,6 +253,8 @@ landing = f"""{head("Ân Điển Mỗi Ngày — 366 bài tĩnh nguyện của S
     <div class="dev-ref-lg" id="todayRef">{esc(te['ref'])}</div>
     <p style="text-align:center;margin:14px 0 2px"><a class="btn solid" id="todayBtn" href="/suy-ngam/{slug_md(today.month, today.day)}.html">Đọc bài tĩnh nguyện →</a></p>
   </article>
+  <h2 class="month-h" style="text-align:center">Duyệt theo chủ đề</h2>
+  <div style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center;max-width:760px;margin:0 auto">{"".join(f'<a class="btn" href="/suy-ngam/chu-de/{slugify(th)}.html">{esc(th)} ({len(tes)})</a>' for th, tes in sorted(THEMES.items(), key=lambda kv: -len(kv[1])))}</div>
   <div class="term-search">
     <input type="search" id="devSearch" placeholder="Tìm bài theo tựa đề hoặc câu Kinh Thánh…" aria-label="Tìm bài tĩnh nguyện" />
   </div>
@@ -251,7 +303,8 @@ print("landing page written")
 sm_path = ROOT / "sitemap.xml"
 sm = sm_path.read_text(encoding="utf-8")
 added = 0
-for u in ["/suy-ngam/"] + [f"/suy-ngam/{slug_md(e['month'], e['day'])}.html" for e in seq]:
+for u in ["/suy-ngam/"] + [f"/suy-ngam/{slug_md(e['month'], e['day'])}.html" for e in seq] + \
+         [f"/suy-ngam/chu-de/{slugify(th)}.html" for th in THEMES]:
     loc = f"<loc>{BASE}{u}</loc>"
     if loc not in sm:
         sm = sm.replace("</urlset>", f"<url>{loc}</url></urlset>"); added += 1
