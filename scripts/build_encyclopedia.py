@@ -1,25 +1,23 @@
 #!/usr/bin/env python3
-"""Build the Theology Encyclopedia module for Reformed Vietnam (Phase B, seed stage).
+"""Build the Theology Encyclopedia module for Reformed Vietnam (Phase B).
 
-Seed source (owner's own content, integrated verbatim):
-  - Kinh-thanh-moi-ngay/data/glossary.json — 200 terms {term, def, verses[{key, ref}]}
-  - The hub homepage's 8 curated glossary entries (fuller definitions, English names,
-    related terms) are reused as the body text for those 8 terms.
+Sources (all integrated under the module's "Nội dung AI soạn, chưa duyệt" label):
+  - Kinh-thanh-moi-ngay/data/glossary.json — 200 terms; definition_short_vi is
+    always the glossary's own text, verbatim.
+  - scripts/helper-data/encyclopedia-batch-*.json — helper-AI expansions
+    (body, misunderstandings, English names, extra Scripture refs, related
+    catechism/books), verified by the integrator 2026-11-06: schemas exact,
+    all 569 verse instances exist in the 1934 text, locked terms enforced
+    (one "Tin mừng" slip in the wrath entry is corrected to "Phúc Âm" below).
+  - The hub homepage's 8 curated terms supply related-term links.
   - Verse texts: the Bible app repo's data/bible/*.json (1934 Vietnamese Bible).
 
-Outputs:
-  - data/encyclopedia.json   (Build Guide §10 entry shape, seed stage:
-                              definition + scripture filled; body only where an
-                              approved site text already exists; the rest is
-                              honestly marked as seed entries for expansion)
-  - bach-khoa/index.html     (searchable A–Z index of all 200 terms)
-  - bach-khoa/<slug>.html    (one page per term)
-  - sitemap.xml              (module URLs appended; the redirected thuat-ngu.html
-                              entry is removed — see vercel.json redirect)
-
-Expansion path: helper-AI batches in the same §10 shape replace seed entries by slug.
+Outputs: data/encyclopedia.json (Guide §10 shape), bach-khoa/index.html,
+bach-khoa/<slug>.html x200, sitemap.xml updates.
 """
 import json, re, sys, html, pathlib, unicodedata
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from booklinks import resolve as resolve_books
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"
@@ -29,12 +27,27 @@ glossary = json.loads((APP / "data/glossary.json").read_text(encoding="utf-8"))
 assert len(glossary) == 200, len(glossary)
 
 books = {}
+name2id = {}
 for f in (APP / "data" / "bible").glob("*.json"):
-    books[f.stem] = json.loads(f.read_text(encoding="utf-8"))
+    d = json.loads(f.read_text(encoding="utf-8"))
+    books[f.stem] = d
+    name2id[d["name"].strip().lower()] = f.stem
 
 def verse_text(key):
     book, ch, vs = key.split(":")
     return books[book]["ch"][int(ch) - 1][int(vs) - 1].strip()
+
+def resolve_ref(ref):
+    """Vietnamese ref string ('Rô-ma 8:29–30') -> {ref_vi, text_vi} using 1934 texts."""
+    m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:\s*[–—-]\s*(\d+))?$", ref.strip())
+    if not m: return None
+    name, ch, v1, v2 = m.groups()
+    bid = name2id.get(name.strip().lower())
+    if not bid: return None
+    chs = books[bid]["ch"]
+    verses = list(range(int(v1), int(v2) + 1)) if v2 else [int(v1)]
+    texts = [chs[int(ch) - 1][v - 1].strip() for v in verses]
+    return {"ref_vi": ref, "text_vi": " ".join(texts)}
 
 def slugify(s):
     s = s.replace("Đ", "d").replace("đ", "d")
@@ -45,68 +58,71 @@ def slugify(s):
 def norm(s):
     return slugify(s).replace("-", " ")
 
-# ---- hub's 8 curated terms (name, en, def, related) parsed from hub.html ----
+# ---- hub's 8 curated terms (related links only) ----
 hub = (ROOT / "hub.html").read_text(encoding="utf-8")
 hub_terms = {}
 for m in re.finditer(r'\{\s*name:\s*"([^"]+)",\s*en:\s*"([^"]+)",\s*def:\s*"((?:[^"\\]|\\.)*)",\s*verse:\s*"[^"]*",\s*related:\s*\[([^\]]*)\]\s*\}', hub):
     name, en, defn, rel = m.groups()
-    hub_terms[slugify(name)] = {
-        "en": en, "def": defn.replace('\\"', '"'),
-        "related": [slugify(x) for x in re.findall(r'"([^"]+)"', rel)],
-    }
-print("hub curated terms found:", len(hub_terms))
-
-# The glossary uses "Sự …" forms for four hub terms — map hub slug -> glossary slug.
-# (The glossary has no justification entry at all; "Xưng tội" is confession, a
-# different concept, so Xưng Công Chính is deliberately NOT mapped.)
+    hub_terms[slugify(name)] = {"related": [slugify(x) for x in re.findall(r'"([^"]+)"', rel)]}
 ALIASES = {"tien-dinh": "su-tien-dinh", "tuyen-chon": "su-tuyen-chon",
            "chuoc-toi": "su-chuoc-toi", "nen-thanh": "su-nen-thanh"}
-hub_terms = {ALIASES.get(k, k): {**v, "related": [ALIASES.get(r, r) for r in v["related"]]}
+hub_terms = {ALIASES.get(k, k): {"related": [ALIASES.get(r, r) for r in v["related"]]}
              for k, v in hub_terms.items()}
 
-# ---- build entries ----
+# ---- helper-AI expansions (verified) ----
+helper = {}
+for i in range(1, 9):
+    for e in json.loads((ROOT / "scripts/helper-data" / f"encyclopedia-batch-{i:02d}.json").read_text(encoding="utf-8")):
+        helper[e["slug"]] = e
+assert len(helper) == 200, len(helper)
+# locked-term fix: exactly one "Tin mừng" slip exists in the delivery (wrath entry)
+blob = json.dumps(helper, ensure_ascii=False)
+assert blob.count("Tin mừng") == 1
+helper = json.loads(blob.replace("Tin mừng", "Phúc Âm"))
+print("helper expansions loaded: 200 | locked-term fix applied: Tin mừng -> Phúc Âm (x1)")
+
+# ---- build merged entries ----
 entries, missing = [], []
 for e in glossary:
     slug = slugify(e["term"])
-    refs = []
+    h = helper[slug]
+    refs, seen_refs = [], set()
     for v in e.get("verses", []):
-        try:
-            txt = verse_text(v["key"])
-        except Exception:
-            missing.append(v["key"]); txt = ""
-        refs.append({"ref_vi": v["ref"], "text_vi": txt, "key": v["key"]})
-    h = hub_terms.get(slug)
+        try: txt = verse_text(v["key"])
+        except Exception: missing.append(v["key"]); txt = ""
+        refs.append({"ref_vi": v["ref"], "text_vi": txt, "key": v["key"]}); seen_refs.add(v["ref"])
+    for r in h["scripture_refs_vi"]:
+        if r in seen_refs: continue
+        rr = resolve_ref(r)
+        if rr is None: missing.append("ref:" + r); continue
+        refs.append(rr); seen_refs.add(r)
+    hubrel = hub_terms.get(slug, {}).get("related", [])
     entries.append({
         "slug": slug,
         "term_vi": e["term"],
-        "term_en": h["en"] if h else "",
+        "term_en": h["term_en"],
         "definition_short_vi": e["def"],
-        "body_vi": [h["def"]] if h else [],
+        "body_vi": h["body_vi"],
         "scripture_refs": refs,
-        "misunderstandings_vi": [],
-        "related_books": [],
-        "related_catechism": [],
-        "related_terms": h["related"] if h else [],
+        "misunderstandings_vi": h["misunderstandings_vi"],
+        "related_books": h["related_books"],
+        "related_books_resolved": resolve_books(h["related_books"]),
+        "related_catechism": h["related_catechism"],
+        "related_terms": hubrel,
         "review_status": "ai-unreviewed",
-        "copyright": {"basis": "Seeded from Kinh Thánh Mỗi Ngày glossary (owner's own site content); fuller entries pending drafting and review",
-                      "checked_date": "2026-11-06"},
-        "seed": not bool(h),
+        "copyright": h["copyright"],
     })
 if missing:
-    print("UNRESOLVED verse keys:", missing); sys.exit(1)
-total_refs = sum(len(e["scripture_refs"]) for e in entries)
-print(f"verse texts resolved: {total_refs} refs across 200 entries")
+    print("UNRESOLVED:", missing); sys.exit(1)
+print(f"verse texts resolved: {sum(len(e['scripture_refs']) for e in entries)} refs across 200 entries")
 
-# related by content match for seed entries without curated relations
 by_slug = {e["slug"]: e for e in entries}
 for e in entries:
-    if e["related_terms"]:
-        continue
+    if e["related_terms"]: continue
     rel = []
     my_def = norm(e["definition_short_vi"])
     for o in entries:
-        if o["slug"] == e["slug"]:
-            continue
+        if o["slug"] == e["slug"]: continue
         tname = norm(o["term_vi"])
         if len(tname) >= 4 and (tname in my_def or norm(e["term_vi"]) in norm(o["definition_short_vi"])):
             rel.append(o["slug"])
@@ -114,14 +130,14 @@ for e in entries:
 
 (ROOT / "data/encyclopedia.json").write_text(json.dumps({
     "module": "encyclopedia",
-    "source": "Kinh Thánh Mỗi Ngày — 200-term glossary",
+    "source": "Kinh Thánh Mỗi Ngày — 200-term glossary, expanded by helper-AI drafts (integrator-verified 2026-11-06)",
     "label": "Nội dung AI soạn, chưa duyệt",
     "count": len(entries),
     "entries": entries,
 }, ensure_ascii=False, indent=1), encoding="utf-8")
-print("data/encyclopedia.json written")
+print("data/encyclopedia.json written (merged)")
 
-# ---- template parts (same approach as build_catechism.py) ----
+# ---- template parts ----
 font_link = re.search(r'<link rel="stylesheet" href="data:text/css;base64,[^>]+>', hub).group(0)
 style = re.search(r"<style>(.*?)</style>", hub, re.S).group(1)
 header = re.search(r"<header.*?</header>", hub, re.S).group(0)
@@ -146,6 +162,7 @@ EXTRA_CSS = """
       .proof { border-top: 1px solid var(--line); padding: 9px 0; }
       .proof summary { cursor: pointer; font-weight: 600; color: var(--burgundy); font-size: 15px; }
       .proof p { font-family: "Noto Serif", serif; font-size: 15.5px; line-height: 1.7; margin: 8px 0 4px; }
+      .mis-list li { font-family: "Noto Serif", serif; font-size: 15.5px; line-height: 1.7; margin-bottom: 8px; }
       .share-row { display: flex; gap: 10px; justify-content: center; margin: 18px 0 4px; flex-wrap: wrap; }
       .rel-links a { display: inline-block; margin: 0 8px 8px 0; }
       .letter { font-family: "Playfair Display", serif; font-size: 22px; color: var(--gold-text); margin: 22px 0 8px; }
@@ -199,30 +216,33 @@ def share_row(url):
             f'<a class="btn solid" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={url}">Chia sẻ Facebook</a>'
             f'<a class="btn" target="_blank" rel="noopener" href="https://sp.zalo.me/share_inline?url={url}">Chia sẻ Zalo</a></div>')
 
+def chips(title, pairs):
+    if not pairs: return ""
+    links = "".join(f'<a class="btn" href="{u}">{esc(label)}</a>' for label, u in pairs)
+    return f'<div style="margin-top:18px"><h3 style="margin:0 0 10px">{title}</h3><div class="rel-links">{links}</div></div>'
+
 OUT = ROOT / "bach-khoa"
 OUT.mkdir(exist_ok=True)
 
-# ---- entry pages ----
 for e in entries:
     url = f"{BASE}/bach-khoa/{e['slug']}.html"
     title = f"{e['term_vi']} là gì? | Bách Khoa Thần Học Cải Chánh"
     desc = e["definition_short_vi"][:155]
     en_line = f'<p style="color:var(--ink-soft);font-style:italic;margin:2px 0 0">{esc(e["term_en"])}</p>' if e["term_en"] else ""
-    body = ""
-    if e["body_vi"]:
-        body = '<div class="term-body" style="margin-top:14px">' + "".join(f"<p>{esc(p)}</p>" for p in e["body_vi"]) + "</div>"
-    else:
-        body = '<p style="margin-top:14px;color:var(--ink-soft)">Phần giải thích đầy đủ cho thuật ngữ này đang được biên soạn. Trước mắt, bạn có thể đọc định nghĩa tóm tắt ở trên và các câu Kinh Thánh căn cứ dưới đây.</p>'
+    body = '<div class="term-body" style="margin-top:14px">' + "".join(f"<p>{esc(p)}</p>" for p in e["body_vi"]) + "</div>"
     proofs = "".join(
         f'<details class="proof"><summary>{esc(p["ref_vi"])}</summary><p>{esc(p["text_vi"])}</p></details>'
         for p in e["scripture_refs"])
-    rel = ""
-    if e["related_terms"]:
-        links = "".join(
-            f'<a class="btn" href="/bach-khoa/{s}.html">{esc(by_slug[s]["term_vi"])}</a>'
-            for s in e["related_terms"] if s in by_slug)
-        if links:
-            rel = f'<div style="margin-top:18px"><h3 style="margin:0 0 10px">Thuật ngữ liên quan</h3><div class="rel-links">{links}</div></div>'
+    mis = ""
+    if e["misunderstandings_vi"]:
+        items = "".join(f"<li>{esc(m)}</li>" for m in e["misunderstandings_vi"])
+        mis = f'<div style="margin-top:16px"><h3 style="margin:0 0 8px">Hiểu lầm thường gặp</h3><ul class="mis-list" style="margin:0;padding-left:20px">{items}</ul></div>'
+    cat = chips("Trong Tín Lý Yếu Lược Westminster",
+                [(f"Câu {n}", f"/giao-ly/cau-{n}.html") for n in e["related_catechism"]])
+    bks = chips("Sách liên quan trong thư viện",
+                [(label, u) for label, u in e["related_books_resolved"]])
+    rel = chips("Thuật ngữ liên quan",
+                [(by_slug[s]["term_vi"], f"/bach-khoa/{s}.html") for s in e["related_terms"] if s in by_slug])
     page = f"""{head(title, desc, url)}
 <body id="top">
 {header}
@@ -237,21 +257,23 @@ for e in entries:
   <article class="cat-panel">
     <div class="term-def">{esc(e['definition_short_vi'])}</div>
     {body}
+    {mis}
     <div style="margin-top:16px"><h3 style="margin:0 0 4px">Căn cứ Kinh Thánh <span style="font-weight:400;font-size:13.5px;color:var(--ink-soft)">(bấm để đọc câu gốc — bản 1934)</span></h3>{proofs}</div>
+    {cat}
+    {bks}
     {rel}
   </article>
   <p style="text-align:center;margin-top:16px"><a class="btn" href="/bach-khoa/">← Tất cả 200 thuật ngữ</a></p>
   {share_row(url)}
-  <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin-bottom:34px">Nguồn thuật ngữ: Kinh Thánh Mỗi Ngày.</p>
+  <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin-bottom:34px">Nguồn thuật ngữ: Kinh Thánh Mỗi Ngày; phần giải thích do AI soạn, chưa qua duyệt.</p>
 </main>
 {footer}
 {MINI_JS}
 </body>
 </html>"""
     (OUT / f"{e['slug']}.html").write_text(page, encoding="utf-8")
-print("200 entry pages written")
+print("200 entry pages written (full entries)")
 
-# ---- landing ----
 groups = {}
 for e in sorted(entries, key=lambda x: x["slug"]):
     groups.setdefault(e["slug"][0].upper(), []).append(e)
@@ -260,7 +282,7 @@ for letter in sorted(groups):
     items = "".join(f'<li data-name="{esc(norm(e["term_vi"]))}"><a href="/bach-khoa/{e["slug"]}.html">{esc(e["term_vi"])}</a></li>' for e in groups[letter])
     index_html += f'<h2 class="letter">{letter}</h2><ul class="term-index">{items}</ul>'
 landing = f"""{head("Bách Khoa Thần Học Cải Chánh — 200 thuật ngữ | Reformed Vietnam",
-                     "Tra cứu 200 thuật ngữ thần học Cải Chánh bằng tiếng Việt dễ hiểu: định nghĩa, căn cứ Kinh Thánh và thuật ngữ liên quan.", BASE + "/bach-khoa/")}
+                     "Tra cứu 200 thuật ngữ thần học Cải Chánh bằng tiếng Việt dễ hiểu: định nghĩa, giải thích, căn cứ Kinh Thánh và thuật ngữ liên quan.", BASE + "/bach-khoa/")}
 <body id="top">
 {header}
 <main class="wrap">
@@ -268,7 +290,7 @@ landing = f"""{head("Bách Khoa Thần Học Cải Chánh — 200 thuật ngữ 
   <div class="cat-head">
     <div class="kicker">Bách Khoa Thần Học</div>
     <h1>200 thuật ngữ, giải nghĩa dễ hiểu</h1>
-    <p style="max-width:620px;margin:0 auto;color:var(--ink-soft)">Gặp một từ khó trong Kinh Thánh hay sách thần học — như "tiền định", "giao ước", "chuộc tội" — hãy tra ở đây: mỗi thuật ngữ có định nghĩa tóm tắt, câu Kinh Thánh căn cứ đọc ngay tại chỗ, và các thuật ngữ liên quan.</p>
+    <p style="max-width:620px;margin:0 auto;color:var(--ink-soft)">Gặp một từ khó trong Kinh Thánh hay sách thần học — như "tiền định", "giao ước", "chuộc tội" — hãy tra ở đây: mỗi thuật ngữ có định nghĩa tóm tắt, phần giải thích dễ hiểu, các hiểu lầm thường gặp và câu Kinh Thánh căn cứ đọc ngay tại chỗ.</p>
     <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
   </div>
   <div class="term-search">
@@ -278,7 +300,7 @@ landing = f"""{head("Bách Khoa Thần Học Cải Chánh — 200 thuật ngữ 
   <div id="termIndex">
 {index_html}
   </div>
-  <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin:26px 0 34px">Nguồn thuật ngữ: Kinh Thánh Mỗi Ngày. Các bài giải thích đầy đủ đang được biên soạn dần.</p>
+  <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin:26px 0 34px">Nguồn thuật ngữ: Kinh Thánh Mỗi Ngày; phần giải thích do AI soạn, chưa qua duyệt.</p>
 </main>
 {footer}
 {MINI_JS}
@@ -306,7 +328,6 @@ landing = f"""{head("Bách Khoa Thần Học Cải Chánh — 200 thuật ngữ 
 (OUT / "index.html").write_text(landing, encoding="utf-8")
 print("landing page written")
 
-# ---- sitemap ----
 sm_path = ROOT / "sitemap.xml"
 sm = sm_path.read_text(encoding="utf-8")
 sm = sm.replace("<url><loc>https://reformed-vietnam.vercel.app/thuat-ngu.html</loc></url>", "")
@@ -317,5 +338,5 @@ for u in new_urls:
     if loc not in sm:
         sm = sm.replace("</urlset>", f"<url>{loc}</url></urlset>"); added += 1
 sm_path.write_text(sm, encoding="utf-8")
-print(f"sitemap: {added} URLs added, thuat-ngu.html entry removed")
+print(f"sitemap: {added} URLs added")
 print("DONE")
