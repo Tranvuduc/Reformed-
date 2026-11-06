@@ -23,6 +23,8 @@ BASE = "https://reformed-vietnam.vercel.app"
 books_meta = json.loads((APP / "books.json").read_text(encoding="utf-8"))
 assert len(books_meta) == 66
 notes = json.loads((APP / "notes.json").read_text(encoding="utf-8"))
+summ_path = ROOT / "data/chapter-summaries.json"
+summaries = json.loads(summ_path.read_text(encoding="utf-8"))["entries"] if summ_path.exists() else {}
 id2name = {b["id"]: b["name"] for b in books_meta}
 order = [b["id"] for b in books_meta]
 
@@ -178,6 +180,19 @@ for b in books_meta:
     <h3>Áp dụng</h3><ul style="margin:0;padding-left:20px">{appl}</ul>
     <h3>Cầu nguyện</h3><p>{esc(note.get('prayer', ''))}</p>
   </article>"""
+        intro_html = ""
+        sm = summaries.get(f"{bid}:{ci}")
+        if sm:
+            theme_chips = "".join(f'<span class="btn" style="pointer-events:none">{esc(t)}</span>' for t in sm.get("themes", []))
+            intro_html = f"""
+  <article class="cat-panel" style="margin-bottom:18px">
+    <div class="kicker" style="color:var(--gold-text);font-weight:700;font-size:12.5px;letter-spacing:.08em">TÓM TẮT CHƯƠNG</div>
+    <p style="margin-top:8px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    <p style="margin-top:8px">{esc(sm['summary_vi'])}</p>
+    <blockquote class="dev-verse-lg" style="margin:12px 0 4px">“{esc(sm['key_verse_text'])}”</blockquote>
+    <p style="color:var(--ink-soft);font-size:14px;margin:0 0 10px">— {esc(sm['key_verse_ref'])}</p>
+    <div style="display:flex;flex-wrap:wrap;gap:8px">{theme_chips}</div>
+  </article>"""
         nav = '<nav class="qnav">'
         if prev_bc:
             nav += f'<a class="btn" href="/kinh-thanh/{prev_bc[0]}/{prev_bc[1]}.html">← {esc(id2name[prev_bc[0]])} {prev_bc[1]}</a>'
@@ -188,7 +203,7 @@ for b in books_meta:
         nav += "</nav>"
         url = f"{BASE}/kinh-thanh/{bid}/{ci}.html"
         title = f"{bname} {ci} — Kinh Thánh 1934 | Reformed Vietnam"
-        desc = (verses[0][:150] + "…") if verses else title
+        desc = sm["summary_vi"] if sm else ((verses[0][:150] + "…") if verses else title)
         page = f"""{head(title, desc, url)}
 <body id="top">
 {header}
@@ -200,6 +215,7 @@ for b in books_meta:
   </div>
   <details class="books-details"><summary>Đổi sách — tất cả 66 sách</summary><div style="padding:4px 0 8px">{book_links}</div></details>
   <div class="chips" style="max-width:720px;margin:6px auto">{chips.replace(f'data-c="{ci}"', f'data-c="{ci}" class="cur"')}</div>
+  {intro_html}
   <article class="cat-panel">
     {''.join(vhtml)}
   </article>
