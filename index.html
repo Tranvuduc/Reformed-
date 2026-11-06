@@ -1,390 +1,1210 @@
 <!doctype html>
 <html lang="vi">
-<head>
-<meta charset="utf-8">
-<script>try{var _t=localStorage.getItem("rv.theme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Thư Viện Cơ Đốc &amp; Thần Học Cải Chánh Tiếng Việt | Reformed Vietnam</title>
-<meta name="description" content="Sách Cơ Đốc miễn phí, Kinh Thánh, thần học Cải Chánh, sách nói và lộ trình học dành cho người Việt. Đọc miễn phí, nghe sách, học theo lộ trình.">
-<meta property="og:type" content="website"><meta property="og:title" content="Thư Viện Cơ Đốc &amp; Thần Học Cải Chánh Tiếng Việt"><meta property="og:description" content="2.863 sách tiếng Việt và tài liệu thần học Cải Chánh: đọc, tải, theo dõi tiến độ. Free Reformed books and creeds, with Vietnamese resources."><meta name="theme-color" content="#9a3412">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap">
-<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://reformed-vietnam.vercel.app/"><meta name="twitter:card" content="summary_large_image"><meta property="og:image" content="https://reformed-vietnam.vercel.app/og.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:image" content="https://reformed-vietnam.vercel.app/og.jpg"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Reformed Vietnam","url":"https://reformed-vietnam.vercel.app/","inLanguage":["vi","en"],"description":"Thư viện sách Cải Chánh miễn phí: đọc, nghe, tải.","potentialAction":{"@type":"SearchAction","target":"https://reformed-vietnam.vercel.app/?q={q}","query-input":"required name=q"}}</script><meta property="og:url" content="https://reformed-vietnam.vercel.app/"><meta property="og:site_name" content="Reformed Vietnam">
-<link rel="stylesheet" href="style.css?v=20261105">
-<link rel="preload" href="books.json" as="fetch" crossorigin><link rel="preload" href="mg.json" as="fetch" crossorigin><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#9a3412"><link rel="apple-touch-icon" href="/icon-192.png">
-<style>
-/* ===== Reformed Vietnam homepage redesign (2026-11-04) ===== */
-/* NOTE 2026-11-04: removed the old ":root{--accent:var(--acc);--muted:var(--mut)}" override —
-   --acc/--mut do not exist anywhere, which made --accent/--muted invalid and broke
-   every var(--accent) usage (invisible white-on-white buttons). style.css already
-   defines --accent/--muted (+ dark-mode variants); do not re-override them here. */
-.trustline{font-size:.8rem;color:var(--muted);margin:.35rem 0 0}
-.foot.mini{margin:.3rem 0}
-.rv-sec{max-width:60rem;margin:30px auto 0;padding:0 18px}
-.rv-sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:14px}
-.rv-sec-head h2{font-family:'Playfair Display',Georgia,serif;font-size:1.45rem;font-weight:700;letter-spacing:-.01em;margin:0;color:var(--fg)}
-.rv-sec-head a{font:600 .85rem 'Be Vietnam Pro',system-ui,sans-serif;color:var(--accent);text-decoration:none;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
-.rv-sec-head a svg{width:15px;height:15px}
-.rv-kicker{display:block;font:600 .7rem 'Be Vietnam Pro',system-ui,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
-/* verse card */
-.rv-verse{max-width:46rem;margin:22px auto 0;padding:18px 20px;background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--mark);border-radius:12px;text-align:left}
-.rv-verse blockquote{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-size:1.08rem;line-height:1.6;margin:0 0 8px;color:var(--fg)}
-.rv-verse cite{font:600 .72rem 'Be Vietnam Pro',system-ui,sans-serif;letter-spacing:.14em;color:var(--accent);text-transform:uppercase;font-style:normal}
-/* shelves / carousels */
-.rv-shelf{display:flex;gap:16px;overflow-x:auto;padding:4px 2px 14px;scroll-snap-type:x mandatory;scrollbar-width:thin}
-.rv-book{flex:0 0 128px;scroll-snap-align:start;text-decoration:none;color:inherit;min-width:0}
-.rv-cover{display:block;aspect-ratio:2/3;border-radius:4px 9px 9px 4px;overflow:hidden;position:relative;background:var(--soft);box-shadow:inset 6px 0 10px rgba(0,0,0,.28),0 6px 14px rgba(0,0,0,.18);margin-bottom:9px}
-.rv-cover::after{content:'';position:absolute;left:7px;top:0;bottom:0;width:1px;background:rgba(255,255,255,.3);z-index:2;pointer-events:none}
-.rv-cover img{width:100%;height:100%;object-fit:cover;display:block}
-.rv-cover .rv-ct{position:absolute;inset:0;display:none;align-items:center;justify-content:center;text-align:center;padding:14px 10px 14px 16px;font-family:'Playfair Display',Georgia,serif;font-weight:700;font-size:.95rem;line-height:1.35;color:#fff;z-index:1;overflow:hidden}.rv-cover.rv-flat .rv-ct,.rv-cover:has(img[style*="none"]) .rv-ct{display:-webkit-box;-webkit-line-clamp:4;line-clamp:4;-webkit-box-orient:vertical;-webkit-box-pack:center;-webkit-box-align:center;overflow:hidden}.rv-cover:has(img[style*="none"]){background:var(--accent)}
-.rv-bt{display:block;font:600 .83rem 'Be Vietnam Pro',system-ui,sans-serif;line-height:1.4;color:var(--fg);margin-bottom:2px}
-.rv-ba{display:block;font-size:.75rem;color:var(--muted)}
-/* continue reading */
-.rv-cont{display:flex;gap:13px;align-items:center;width:100%;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:10px;cursor:pointer;color:inherit;font:inherit}
-.rv-cont .rv-mini{flex:0 0 46px;height:64px;border-radius:3px 7px 7px 3px;position:relative;box-shadow:inset 4px 0 7px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;color:#fff;font-family:'Playfair Display',Georgia,serif;font-weight:700;font-size:1.05rem}
-.rv-cont .rv-info{flex:1;min-width:0}
-.rv-cont .rv-t{font:600 .9rem 'Be Vietnam Pro',system-ui,sans-serif;margin-bottom:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.rv-cont .rv-a{font-size:.76rem;color:var(--muted);margin-bottom:8px}
-.rv-pbar{height:5px;background:var(--track);border-radius:3px;overflow:hidden;margin-bottom:5px}
-.rv-pbar i{display:block;height:100%;background:var(--mark);border-radius:3px}
-.rv-pct{font-size:.74rem;color:var(--muted);font-weight:500}
-/* topics */
-.rv-topics{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
-.rv-topic{display:flex;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:15px 14px;text-decoration:none;color:inherit}
-.rv-topic:hover{border-color:var(--accent)}
-.rv-topic svg{width:26px;height:26px;color:var(--accent)}
-.rv-topic b{font:600 .86rem 'Be Vietnam Pro',system-ui,sans-serif;color:var(--fg)}
-.rv-topic span{font-size:.74rem;color:var(--muted);line-height:1.45}
-/* authors */
-.rv-authors{display:flex;gap:18px;overflow-x:auto;padding:4px 2px 12px;scrollbar-width:thin}
-.rv-author{flex:0 0 84px;text-align:center;text-decoration:none;color:inherit;display:flex;flex-direction:column;align-items:center;gap:3px}
-.rv-avatar{width:68px;height:68px;border-radius:50%;margin:0 auto 8px;display:flex;align-items:center;justify-content:center;font-family:'Playfair Display',Georgia,serif;font-weight:700;font-size:1.6rem;color:#fff;border:2px solid var(--mark);box-shadow:0 4px 12px rgba(0,0,0,.15)}
-.rv-an{display:block;font:600 .78rem 'Be Vietnam Pro',system-ui,sans-serif;line-height:1.35;color:var(--fg)}
-.rv-ac{display:block;font-size:.72rem;color:var(--muted);white-space:nowrap}
-/* cta + ai notice */
-.rv-cta{max-width:46rem;margin:30px auto 0;padding:26px 24px;background:var(--accent);color:var(--accent-fg);border-radius:16px;text-align:center}
-.rv-cta h3{font-family:'Playfair Display',Georgia,serif;font-size:1.3rem;margin:0 0 8px}
-.rv-cta p{font-size:.88rem;line-height:1.6;margin:0 0 16px;opacity:.95}
-.rv-cta a{display:inline-block;background:var(--accent-fg);color:var(--accent);font:700 .9rem 'Be Vietnam Pro',system-ui,sans-serif;padding:12px 30px;border-radius:999px;text-decoration:none}
-html[data-theme="dark"] .rv-cta a{background:#fffdf8}
-.rv-ai{max-width:46rem;margin:18px auto 0;padding:12px 16px;display:flex;gap:10px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:12px;font-size:.8rem;line-height:1.6;color:var(--muted)}
-.rv-ai svg{flex:0 0 auto;width:17px;height:17px;margin-top:2px;color:var(--accent)}
-@media(max-width:560px){.rv-topics{grid-template-columns:repeat(2,1fr)}.rv-sec-head h2{font-size:1.25rem}}
-
-/* ===== Homepage v2 (2026-11-04): chooser + suggest + compact new list ===== */
-.hero .search{max-width:36rem;margin:16px auto 4px}
-.hero .search input{width:100%;padding:14px 20px;font-size:1rem;border-radius:999px}
-.rv-start{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:22px 20px}
-.rv-start h2{font-family:'Playfair Display',Georgia,serif;font-size:1.4rem;font-weight:700;margin:0 0 4px;color:var(--fg)}
-.rv-start-q{font:600 .85rem 'Be Vietnam Pro',system-ui,sans-serif;color:var(--fg);margin:16px 0 10px}
-.rv-start-q:first-of-type{margin-top:10px}
-.rv-levels{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
-.rv-level{display:flex;flex-direction:column;align-items:center;gap:8px;padding:14px 8px;border:1.5px solid var(--line);border-radius:14px;background:var(--bg);color:var(--muted);font:600 .8rem 'Be Vietnam Pro',system-ui,sans-serif;cursor:pointer}
-.rv-level svg{width:26px;height:26px}
-.rv-level[aria-pressed="true"]{border-color:var(--accent);color:var(--accent);background:var(--surface);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 15%,transparent)}
-.rv-tchips{display:flex;flex-wrap:wrap;gap:8px}
-.rv-tchip{font:500 .83rem 'Be Vietnam Pro',system-ui,sans-serif;padding:10px 16px;border-radius:999px;border:1.5px solid var(--line);background:var(--bg);color:var(--muted);cursor:pointer}
-.rv-tchip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
-.rv-go{display:block;width:100%;margin-top:18px;background:var(--accent);color:#fff;font:700 .95rem 'Be Vietnam Pro',system-ui,sans-serif;padding:15px;border-radius:999px;border:0;cursor:pointer}
-html[data-theme="dark"] .rv-go{color:var(--accent-fg)}
-.rv-clamp{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.rv-cover.rv-flat{background:var(--accent)}
-.rv-empty{color:var(--muted);font-size:.9rem;padding:8px 2px}
-/* compact "Mới thêm" text list (no fake covers) */
-.rv-newlist{display:flex;flex-direction:column}
-.rv-nrow{display:flex;align-items:center;gap:10px;padding:12px 4px;border-bottom:1px solid var(--line);text-decoration:none;color:inherit}
-.rv-nrow:last-child{border-bottom:0}
-.rv-nt{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font:600 .9rem 'Be Vietnam Pro',system-ui,sans-serif;color:var(--fg)}
-.rv-na{font-size:.78rem;color:var(--muted);white-space:nowrap;max-width:36%;overflow:hidden;text-overflow:ellipsis}
-.rv-newtag{flex:0 0 auto;font:700 .68rem 'Be Vietnam Pro',system-ui,sans-serif;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:3px 10px;white-space:nowrap}
-.rv-foot-ai{max-width:46rem;margin:26px auto 0;text-align:center;font-size:.8rem;line-height:1.7;color:var(--muted);padding:0 18px}
-@media(max-width:560px){.rv-levels{gap:8px}.rv-level{font-size:.72rem;padding:12px 6px}}
-
-/* ===== Road to 10/10 (2026-11-04): smart finder, lazy shelves, a11y =====
-   The 5 removed homepage blocks are no longer rendered by app.js at all
-   (renderShelves/renderTiles cleaned up); the old display:none rules are deleted.
-   Kept: slim audio banner (section.audio-strip). */
-/* caption under the data-driven "Gợi ý cho bạn" shelf */
-.rv-cap{font-size:.82rem;color:var(--muted);margin:-4px 0 12px}
-/* skeleton placeholders: flat pulsing blocks, no gradients */
-@keyframes rv-pulse{0%,100%{opacity:1}50%{opacity:.4}}
-.rv-sk{background:var(--soft);animation:rv-pulse 1.2s ease-in-out infinite}
-.rv-sk-t{display:block;height:.82rem;border-radius:4px;background:var(--soft);margin-top:9px;animation:rv-pulse 1.2s ease-in-out infinite}
-.rv-skrow{height:44px;border-radius:8px;background:var(--soft);margin:10px 0;animation:rv-pulse 1.2s ease-in-out infinite}
-.rv-ska{flex:0 0 84px}
-.rv-ska .rv-sk{display:block;width:68px;height:68px;border-radius:50%;margin:0 auto}
-/* a11y: h3 card/row titles keep identical visuals (reset UA margins) */
-h3.rv-bt{margin:0 0 2px}
-h3.rv-nt{margin:0}
-/* a11y: dark-mode contrast (WCAG AA) — dark text on the light accent */
-html[data-theme="dark"] .rv-tchip[aria-pressed="true"]{color:var(--accent-fg)}
-</style>
-</head>
-<body>
-<dialog id="sdlg"><form method="dialog" style="display:grid;gap:10px;min-width:min(340px,80vw)"><b id="s-h"></b><p id="s-p" style="margin:0;font-size:14px"></p>
-<input id="s-code" autocomplete="off" spellcheck="false" style="padding:8px;font:16px monospace;background:var(--bg);border:1px solid var(--line);border-radius:8px"><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn" id="s-new" type="button"></button><button class="btn primary" id="s-use" type="button"></button><button class="btn" id="s-off" type="button"></button><button class="btn" id="s-x" value="x"></button></div><p id="s-st" style="margin:0;font-size:13px"></p></form></dialog>
-<dialog id="bk" class="sheet"><div id="bk-c"></div></dialog>
-<div class="wrap">
-<nav class="nav">
-  <a class="brand" href="/"><i></i>Reformed <b>Vietnam</b></a>
-  <nav class="links" id="nl" aria-label="Main"><a href="/tac-gia.html">Tác giả</a><a href="/tieng-viet.html">Tiếng Việt</a><a href="/sach-noi.html">Sách nói</a><a href="/bat-dau.html">Bắt đầu</a><a href="/lo-trinh.html">Lộ trình đọc</a><a href="/khoa-hoc.html">Học trực tuyến</a><a href="/bai-viet/">Bài viết</a></nav>
-  <!-- TẠM ẨN 2026-11-04: language switcher --><button class="btn" id="lang" type="button" aria-label="Language" style="display:none"></button>
-  <button class="btn" id="theme" type="button" aria-label="Dark mode" title="Dark mode"></button>
-  <details class="menu"><summary class="btn" id="menu" aria-label="Menu">⋯</summary><div class="pop"><button class="btn" id="menuClose" type="button">✕ Đóng</button>
-    <div class="mx" id="mx"></div><button class="btn" id="sync" type="button"></button><a class="btn" id="about" href="about.html"></a>
-  </div></details>
-</nav>
-<header class="hero">
-  <h1 id="h1">Sách Cải Chánh, <span>miễn phí</span></h1>
-  <p class="trustline">Miễn phí · Bản dịch AI, chưa được mục sư duyệt</p>
-  <p class="lede" id="lede">Sách và tài liệu miễn phí, đọc và nghe đọc trên điện thoại. Phần lớn là tác phẩm thuộc phạm vi công cộng; mỗi thẻ ghi rõ nguồn. Không cần tài khoản.</p>
-  <div class="search"><input type="search" id="q" aria-label="Search"></div>
-</header>
-<section class="rv-sec" aria-labelledby="rv-h-start"><div class="rv-start"><span class="rv-kicker">Bắt đầu</span><h2 id="rv-h-start">Tìm sách cho bạn</h2><p class="rv-start-q">Bạn đang ở đâu trong đức tin?</p><div class="rv-levels" role="group" aria-label="Mức độ đức tin"><button type="button" class="rv-level" data-level="new" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21v-9"/><path d="M12 12C12 8 9 5 4 5c0 5 3 8 8 7z"/><path d="M12 12c0-4 3-7 8-7 0 5-3 8-8 7z"/></svg><span>Mới tin Chúa</span></button><button type="button" class="rv-level" data-level="mid" aria-pressed="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 19C5 10 11 5 20 5c0 9-5 15-15 14z"/><path d="M5 19c3-6 7-10 12-12"/></svg><span>Đang lớn lên</span></button><button type="button" class="rv-level" data-level="deep" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg><span>Học sâu</span></button></div><p class="rv-start-q">Chủ đề bạn quan tâm?</p><div class="rv-tchips" role="group" aria-label="Chủ đề"><button type="button" class="rv-tchip" data-topic="" aria-pressed="true">Tất cả</button><button type="button" class="rv-tchip" data-topic="phuc-am" aria-pressed="false">Phúc Âm</button><button type="button" class="rv-tchip" data-topic="an-dien" aria-pressed="false">Ân Điển</button><button type="button" class="rv-tchip" data-topic="cau-nguyen" aria-pressed="false">Cầu Nguyện</button><button type="button" class="rv-tchip" data-topic="than-hoc" aria-pressed="false">Thần Học</button><button type="button" class="rv-tchip" data-topic="thanh-khiet" aria-pressed="false">Thánh Khiết</button><button type="button" class="rv-tchip" data-topic="gia-dinh" aria-pressed="false">Gia Đình</button><button type="button" class="rv-tchip" data-topic="lich-su" aria-pressed="false">Lịch Sử</button></div><button type="button" class="rv-go" id="rv-go">Gợi ý sách cho tôi</button></div></section><section class="rv-sec" id="rv-suggest-sec" aria-labelledby="rv-h-suggest"><div class="rv-sec-head"><div><span class="rv-kicker">Dành cho bạn</span><h2 id="rv-h-suggest">Gợi ý cho bạn</h2></div><a href="/loc-sach.html">Xem tất cả <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div><p class="rv-cap" id="rv-cap"></p><div class="rv-shelf" id="rv-suggest" aria-live="polite"></div></section>
-<section class="rv-sec" id="rv-continue" hidden aria-labelledby="rv-h-cont"><div class="rv-sec-head"><div><span class="rv-kicker">Đang đọc dở</span><h2 id="rv-h-cont">Tiếp tục đọc</h2></div></div><div id="rv-cont-list"></div></section><section class="rv-sec" aria-labelledby="rv-h-classics"><div class="rv-sec-head"><div><span class="rv-kicker">Tuyển chọn</span><h2 id="rv-h-classics">Kinh điển nên đọc</h2></div><a href="/sach-nen-doc.html">Xem tất cả <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div><div class="rv-shelf"><a class="rv-book" href="/sach/owen-mort.html"><span class="rv-cover"><img src="/bia-sach/owen-mort.webp" alt="Giết Chết Tội Lỗi" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Giết Chết Tội Lỗi</span></span><h3 class="rv-bt">Giết Chết Tội Lỗi</h3><span class="rv-ba">John Owen</span></a><a class="rv-book" href="/sach/ryle-holiness.html"><span class="rv-cover"><img src="/bia-sach/ryle-holiness.webp" alt="Sự Nên Thánh" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Sự Nên Thánh</span></span><h3 class="rv-bt">Sự Nên Thánh</h3><span class="rv-ba">J. C. Ryle</span></a><a class="rv-book" href="/sach/spurgeon-morningevening.html"><span class="rv-cover"><img src="/bia-sach/spurgeon-morningevening.webp" alt="Buổi Sáng Và Buổi Chiều" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Buổi Sáng Và Buổi Chiều</span></span><h3 class="rv-bt">Buổi Sáng Và Buổi Chiều</h3><span class="rv-ba">C. H. Spurgeon</span></a><a class="rv-book" href="/sach/mau-an-dien-du-dat.html"><span class="rv-cover"><img src="/bia-sach/bunyan-grace.webp" alt="Ân Điển Dư Dật" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Ân Điển Dư Dật</span></span><h3 class="rv-bt">Ân Điển Dư Dật</h3><span class="rv-ba">John Bunyan</span></a><a class="rv-book" href="/sach/bunyan-holy_war.html"><span class="rv-cover"><img src="/bia-sach/bunyan-holy_war.webp" alt="Cuộc Chiến Thánh" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Cuộc Chiến Thánh</span></span><h3 class="rv-bt">Cuộc Chiến Thánh</h3><span class="rv-ba">John Bunyan</span></a><a class="rv-book" href="/sach/calvin-prayer.html"><span class="rv-cover"><img src="/bia-sach/calvin-prayer.webp" alt="Về Sự Cầu Nguyện" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Về Sự Cầu Nguyện</span></span><h3 class="rv-bt">Về Sự Cầu Nguyện</h3><span class="rv-ba">John Calvin</span></a><a class="rv-book" href="/sach/edwards-affections.html"><span class="rv-cover"><img src="/bia-sach/edwards-affections.webp" alt="Các Cảm Xúc Thuộc Linh" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Các Cảm Xúc Thuộc Linh</span></span><h3 class="rv-bt">Các Cảm Xúc Thuộc Linh</h3><span class="rv-ba">Jonathan Edwards</span></a><a class="rv-book" href="/sach/sibbes-bruisedreed.html"><span class="rv-cover"><img src="/bia-sach/sibbes-bruisedreed.webp" alt="Cây Sậy Dập" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Cây Sậy Dập</span></span><h3 class="rv-bt">Cây Sậy Dập</h3><span class="rv-ba">Richard Sibbes</span></a><a class="rv-book" href="/sach/baxter-practical.html"><span class="rv-cover"><img src="/bia-sach/baxter-practical.webp" alt="Tuyển Tác Phẩm Thực Hành" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Tuyển Tác Phẩm Thực Hành</span></span><h3 class="rv-bt">Tuyển Tác Phẩm Thực Hành</h3><span class="rv-ba">Richard Baxter</span></a><a class="rv-book" href="/sach/watson-beatitudes.html"><span class="rv-cover"><img src="/bia-sach/watson-beatitudes.webp" alt="Tám Mối Phúc" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Tám Mối Phúc</span></span><h3 class="rv-bt">Tám Mối Phúc</h3><span class="rv-ba">Thomas Watson</span></a><a class="rv-book" href="/sach/brooks-remedies.html"><span class="rv-cover"><img src="/bia-sach/brooks-remedies.webp" alt="Phương Thuốc Quý Báu Chống Mưu Kế Sa-tan" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Phương Thuốc Quý Báu Chống Mưu Kế Sa-tan</span></span><h3 class="rv-bt">Phương Thuốc Quý Báu Chống Mưu Kế Sa-tan</h3><span class="rv-ba">Thomas Brooks</span></a><a class="rv-book" href="/sach/burroughs-contentment.html"><span class="rv-cover"><img src="/bia-sach/burroughs-contentment.webp" alt="Báu Vật Hiếm: Sự Thỏa Lòng" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Báu Vật Hiếm: Sự Thỏa Lòng</span></span><h3 class="rv-bt">Báu Vật Hiếm: Sự Thỏa Lòng</h3><span class="rv-ba">Jeremiah Burroughs</span></a><a class="rv-book" href="/sach/flavel-lovely.html"><span class="rv-cover"><img src="/bia-sach/flavel-lovely.webp" alt="Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn</span></span><h3 class="rv-bt">Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn</h3><span class="rv-ba">John Flavel</span></a><a class="rv-book" href="/sach/owen-temptation.html"><span class="rv-cover"><img src="/bia-sach/owen-temptation.webp" alt="Về Sự Cám Dỗ" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Về Sự Cám Dỗ</span></span><h3 class="rv-bt">Về Sự Cám Dỗ</h3><span class="rv-ba">John Owen</span></a><a class="rv-book" href="/sach/spurgeon-catechism.html"><span class="rv-cover"><img src="/bia-sach/spurgeon-catechism.webp" alt="Giáo Lý Vấn Đáp Thanh Giáo" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Giáo Lý Vấn Đáp Thanh Giáo</span></span><h3 class="rv-bt">Giáo Lý Vấn Đáp Thanh Giáo</h3><span class="rv-ba">C. H. Spurgeon</span></a><a class="rv-book" href="/sach/westminster-shorter.html"><span class="rv-cover"><img src="/bia-sach/westminster-shorter.webp" alt="Giáo Lý Vấn Đáp Ngắn Westminster" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Giáo Lý Vấn Đáp Ngắn Westminster</span></span><h3 class="rv-bt">Giáo Lý Vấn Đáp Ngắn Westminster</h3><span class="rv-ba">Westminster Assembly</span></a><a class="rv-book" href="/sach/creeds-heidelberg.html"><span class="rv-cover"><img src="/bia-sach/creeds-heidelberg.webp" alt="Giáo Lý Heidelberg" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Giáo Lý Heidelberg</span></span><h3 class="rv-bt">Giáo Lý Heidelberg</h3><span class="rv-ba">Zacharius Ursinus</span></a><a class="rv-book" href="/sach/knox-prayer.html"><span class="rv-cover"><img src="/bia-sach/knox-prayer.webp" alt="Luận Về Sự Cầu Nguyện" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Luận Về Sự Cầu Nguyện</span></span><h3 class="rv-bt">Luận Về Sự Cầu Nguyện</h3><span class="rv-ba">John Knox</span></a><a class="rv-book" href="/sach/bonar-followlamb.html"><span class="rv-cover"><img src="/bia-sach/bonar-followlamb.webp" alt="Theo Chiên Con" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Theo Chiên Con</span></span><h3 class="rv-bt">Theo Chiên Con</h3><span class="rv-ba">Horatius Bonar</span></a><a class="rv-book" href="/sach/boston-crook.html"><span class="rv-cover"><img src="/bia-sach/boston-crook.webp" alt="Cái Cong Trong Số Phận" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Cái Cong Trong Số Phận</span></span><h3 class="rv-bt">Cái Cong Trong Số Phận</h3><span class="rv-ba">Thomas Boston</span></a><a class="rv-book" href="/sach/edwards-will.html"><span class="rv-cover"><img src="/bia-sach/edwards-will.webp" alt="Tự Do Của Ý Chí" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Tự Do Của Ý Chí</span></span><h3 class="rv-bt">Tự Do Của Ý Chí</h3><span class="rv-ba">Jonathan Edwards</span></a><a class="rv-book" href="/sach/edwards-treatiseongrace.html"><span class="rv-cover"><img src="/bia-sach/edwards-treatiseongrace.webp" alt="Luận Về Ân Điển" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Luận Về Ân Điển</span></span><h3 class="rv-bt">Luận Về Ân Điển</h3><span class="rv-ba">Jonathan Edwards</span></a><a class="rv-book" href="/sach/owen-justification.html"><span class="rv-cover"><img src="/bia-sach/owen-justification.webp" alt="Giáo Lý Xưng Công Chính Bởi Đức Tin" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Giáo Lý Xưng Công Chính Bởi Đức Tin</span></span><h3 class="rv-bt">Giáo Lý Xưng Công Chính Bởi Đức Tin</h3><span class="rv-ba">John Owen</span></a><a class="rv-book" href="/sach/owen-glory.html"><span class="rv-cover"><img src="/bia-sach/owen-glory.webp" alt="Suy Ngẫm Về Vinh Quang Của Đấng Christ" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Suy Ngẫm Về Vinh Quang Của Đấng Christ</span></span><h3 class="rv-bt">Suy Ngẫm Về Vinh Quang Của Đấng Christ</h3><span class="rv-ba">John Owen</span></a><a class="rv-book" href="/sach/owen-indwellingsin.html"><span class="rv-cover"><img src="/bia-sach/owen-indwellingsin.webp" alt="Tội Lỗi Ngự Trị Trong Tín Hữu" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Tội Lỗi Ngự Trị Trong Tín Hữu</span></span><h3 class="rv-bt">Tội Lỗi Ngự Trị Trong Tín Hữu</h3><span class="rv-ba">John Owen</span></a><a class="rv-book" href="/sach/owen-catechisms.html"><span class="rv-cover"><img src="/bia-sach/owen-catechisms.webp" alt="Hai Giáo Lý Vấn Đáp Ngắn" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Hai Giáo Lý Vấn Đáp Ngắn</span></span><h3 class="rv-bt">Hai Giáo Lý Vấn Đáp Ngắn</h3><span class="rv-ba">John Owen</span></a><a class="rv-book" href="/sach/flavel-fountainoflife.html"><span class="rv-cover"><img src="/bia-sach/flavel-fountainoflife.webp" alt="Nguồn Sống Mở Ra" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Nguồn Sống Mở Ra</span></span><h3 class="rv-bt">Nguồn Sống Mở Ra</h3><span class="rv-ba">John Flavel</span></a><a class="rv-book" href="/sach/watson-bodyofdivinity.html"><span class="rv-cover"><img src="/bia-sach/watson-bodyofdivinity.webp" alt="Thân Thể Thần Học" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Thân Thể Thần Học</span></span><h3 class="rv-bt">Thân Thể Thần Học</h3><span class="rv-ba">Thomas Watson</span></a><a class="rv-book" href="/sach/charnock-nec_regen.html"><span class="rv-cover"><img src="/bia-sach/charnock-nec_regen.webp" alt="Sự Cần Thiết Của Sự Tái Sinh" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Sự Cần Thiết Của Sự Tái Sinh</span></span><h3 class="rv-bt">Sự Cần Thiết Của Sự Tái Sinh</h3><span class="rv-ba">Stephen Charnock</span></a><a class="rv-book" href="/sach/alleine_j-alarm.html"><span class="rv-cover"><img src="/bia-sach/alleine_j-alarm.webp" alt="Tiếng Chuông Cảnh Tỉnh" loading="lazy" width="256" height="358" onerror="this.style.display='none'"><span class="rv-ct" aria-hidden="true">Tiếng Chuông Cảnh Tỉnh</span></span><h3 class="rv-bt">Tiếng Chuông Cảnh Tỉnh</h3><span class="rv-ba">Joseph Alleine</span></a></div></section><section class="rv-sec" aria-labelledby="rv-h-short"><div class="rv-sec-head"><div><span class="rv-kicker">Đọc nhanh</span><h2 id="rv-h-short">Sách ngắn (dưới 1 giờ)</h2></div><a href="/loc-sach.html?length=ngan">Xem tất cả <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div><div class="rv-newlist" id="rv-short-list"></div></section><section class="rv-sec" aria-labelledby="rv-h-new"><div class="rv-sec-head"><div><span class="rv-kicker">Cập nhật</span><h2 id="rv-h-new">Mới thêm</h2></div><a href="/ban-dich/">Xem tất cả <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div><div class="rv-newlist" id="rv-new-list"></div></section><section class="rv-sec" aria-labelledby="rv-h-authors"><div class="rv-sec-head"><div><span class="rv-kicker">Các bậc thầy</span><h2 id="rv-h-authors">Tác giả nổi bật</h2></div><a href="/tac-gia.html">Tất cả <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div><div class="rv-authors" id="rv-authors-list"></div></section><div class="rv-sec"><p class="rv-foot-ai">Bản dịch AI, chưa được mục sư duyệt — xin đối chiếu với Kinh Thánh.</p></div>
-<div class="cont" id="cont" hidden></div>
-<section class="lv" id="lv" hidden></section>
-<div class="bar">
-  <button class="btn" id="ftog" type="button"></button>
-  <select id="src" aria-label="Source"></select>
-  <input id="author" list="authl" type="search" aria-label="Author" autocomplete="off"><datalist id="authl"></datalist>
-  <select id="media" aria-label="Format"></select>
-  <select id="type" aria-label="Type"></select>
-  <select id="era" aria-label="Era"></select>
-  <select id="sort" aria-label="Sort"></select>
-  <button class="btn" id="clear" type="button" hidden></button>
-  <button class="btn" id="view" type="button" aria-label="Grid or list view" title="Grid / List"></button>
-  <div class="chips" id="fmt" role="group">
-    <button class="chip" type="button" data-f="start" aria-pressed="false"></button>
-    <button class="chip" type="button" data-f="all" aria-pressed="true"></button>
-    <button class="chip" type="button" data-f="reading" aria-pressed="false"></button>
-    <button class="chip" type="button" data-f="done" aria-pressed="false"></button>
-    <button class="chip" type="button" data-f="saved" aria-pressed="false"></button>
-  </div>
-  <select id="statusSel" aria-label="Reading status"></select>
-  <span class="count" id="count"></span>
-</div>
-<main>
-  <div id="shelves"></div>
-  <h2 class="sec" id="allh" hidden></h2>
-  <div class="grid" id="grid" aria-live="polite"></div>
-  <div class="more"><button class="btn" id="more" type="button" hidden></button></div>
-  <div class="more" id="bw"><button class="btn primary" id="browse" type="button"></button></div>
-  
-</main>
-<div class="footgrid"><div><b>Thư viện</b><a href="/">Trang chính</a><a href="tieng-viet.html">Sách tiếng Việt</a><a href="suu-tap/">Bộ sưu tập</a><a href="tac-gia.html">Tác giả</a></div><div><b>Nguồn</b><a href="https://www.ccel.org/" target="_blank" rel="noopener">CCEL ↗</a><a href="https://www.gutenberg.org/" target="_blank" rel="noopener">Project Gutenberg ↗</a><a href="https://librivox.org/" target="_blank" rel="noopener">LibriVox ↗</a><a href="https://archive.org/" target="_blank" rel="noopener">Internet Archive ↗</a></div><div><b>Theo dõi</b><a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube @reformedvietnam ↗</a><a href="nhan-bai.html">Nhận bài qua email</a><a href="feed.xml">RSS</a></div></div>
-<p class="foot" id="footcounts"></p>
-<p class="foot" id="foot"></p>
-<p class="foot mini">Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</p>
-<p class="foot mini">Khám phá thêm: <a href="/moi-tin-chua.html">Mới tin Chúa</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/doi-song-viet-nam.html">Đời sống</a> · <a href="/nhom-nho.html">Nhóm nhỏ</a></p>
-<p class="foot mini">Các liên kết Kindle là liên kết tiếp thị Amazon — chúng tôi có thể nhận hoa hồng nhỏ khi bạn mua. Điều này không làm tăng giá của bạn.</p>
-<p class="foot mini">Báo vi phạm bản quyền / yêu cầu gỡ sách: <a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></p>
-</div>
-<noscript><nav class="foot"><p>Sách Cải Chánh miễn phí. <a href="/tieng-viet.html">Sách tiếng Việt</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/about.html">Giới thiệu</a></p></nav></noscript>
-<script src="app.js?v=20261107"></script>
-<script>
-
-/* Homepage v2: "Bắt đầu" chooser + "Gợi ý cho bạn" shelf (real data) */
-(function(){
-var RV_LEVELS={"new": [{"s": "bonar-followlamb", "t": "Theo Chiên Con: lời khuyên dành cho người mới tin Chúa", "a": "Horatius Bonar", "url": "/reader.html?id=vn/bonar-followlamb"}, {"s": "spurgeon-puritan-catechism", "t": "Giáo lý vấn đáp Thanh giáo", "a": "C. H. Spurgeon", "url": "/reader.html?id=vn/spurgeon-puritan-catechism"}, {"s": "calvin-prayer", "t": "Về sự cầu nguyện (Institutes III.20)", "a": "John Calvin", "url": "/reader.html?id=vn/calvin-prayer"}, {"s": "sach-04-hieu-thao-theo-kinh-thanh", "t": "Hiếu thảo theo Kinh Thánh", "a": "David", "url": "/reader.html?id=vn/sach-04-hieu-thao-theo-kinh-thanh"}, {"s": "sach-05-nguoi-moi-tin-trong-gia-dinh-tho-cung", "t": "Người mới tin trong nhà có bàn thờ", "a": "David", "url": "/reader.html?id=vn/sach-05-nguoi-moi-tin-trong-gia-dinh-tho-cung"}, {"s": "sach-02-giop-giua-con-bao", "t": "Gióp giữa cơn bão", "a": "David", "url": "/reader.html?id=vn/sach-02-giop-giua-con-bao"}, {"s": "sach-09-so-hai-va-binh-an-duc-tin-so-voi-bua-chu", "t": "Sợ hãi và bình an", "a": "David", "url": "/reader.html?id=vn/sach-09-so-hai-va-binh-an-duc-tin-so-voi-bua-chu"}, {"s": "sach-01-chua-khong-hua-giau-co", "t": "Chúa Không Hứa Giàu Có", "a": "David", "url": "/reader.html?id=vn/sach-01-chua-khong-hua-giau-co"}], "mid": [{"s": "owen-mort", "t": "Giết Chết Tội Lỗi", "a": "John Owen", "url": "/sach/owen-mort.html", "cover": "bia-sach/owen-mort.webp"}, {"s": "ryle-holiness", "t": "Sự Nên Thánh", "a": "J. C. Ryle", "url": "/sach/ryle-holiness.html", "cover": "bia-sach/ryle-holiness.webp"}, {"s": "spurgeon-morningevening", "t": "Buổi Sáng Và Buổi Chiều", "a": "C. H. Spurgeon", "url": "/sach/spurgeon-morningevening.html", "cover": "bia-sach/spurgeon-morningevening.webp"}, {"s": "mau-an-dien-du-dat", "t": "Ân Điển Dư Dật", "a": "John Bunyan", "url": "/sach/mau-an-dien-du-dat.html", "cover": "bia-sach/bunyan-grace.webp"}, {"s": "bunyan-holy_war", "t": "Cuộc Chiến Thánh", "a": "John Bunyan", "url": "/sach/bunyan-holy_war.html", "cover": "bia-sach/bunyan-holy_war.webp"}, {"s": "calvin-prayer", "t": "Về Sự Cầu Nguyện", "a": "John Calvin", "url": "/sach/calvin-prayer.html", "cover": "bia-sach/calvin-prayer.webp"}, {"s": "edwards-affections", "t": "Các Cảm Xúc Thuộc Linh", "a": "Jonathan Edwards", "url": "/sach/edwards-affections.html", "cover": "bia-sach/edwards-affections.webp"}, {"s": "sibbes-bruisedreed", "t": "Cây Sậy Dập", "a": "Richard Sibbes", "url": "/sach/sibbes-bruisedreed.html", "cover": "bia-sach/sibbes-bruisedreed.webp"}, {"s": "baxter-practical", "t": "Tuyển Tác Phẩm Thực Hành", "a": "Richard Baxter", "url": "/sach/baxter-practical.html", "cover": "bia-sach/baxter-practical.webp"}, {"s": "watson-beatitudes", "t": "Tám Mối Phúc", "a": "Thomas Watson", "url": "/sach/watson-beatitudes.html", "cover": "bia-sach/watson-beatitudes.webp"}], "deep": [{"s": "owen-catechisms", "t": "Hai Giáo lý vấn đáp ngắn", "a": "John Owen", "url": "/reader.html?id=vn/owen-catechisms"}, {"s": "spurgeon-puritan-catechism", "t": "Giáo lý vấn đáp Thanh giáo", "a": "C. H. Spurgeon", "url": "/reader.html?id=vn/spurgeon-puritan-catechism"}, {"s": "owen-mort", "t": "Giết Chết Tội Lỗi", "a": "John Owen", "url": "/reader.html?id=vn/owen-mort"}, {"s": "calvin-prayer", "t": "Về sự cầu nguyện (Institutes III.20)", "a": "John Calvin", "url": "/reader.html?id=vn/calvin-prayer"}, {"s": "calvin-chr-life", "t": "Đời sống Cơ Đốc (Institutes III.6-10)", "a": "John Calvin", "url": "/reader.html?id=vn/calvin-chr-life"}, {"s": "sach-12-giao-ly-van-dap-cho-lop-nhom-nho", "t": "Giáo lý vấn đáp cho lớp nhóm nhỏ", "a": "David", "url": "/reader.html?id=vn/sach-12-giao-ly-van-dap-cho-lop-nhom-nho"}, {"s": "sach-14-day-giao-ly-o-nha", "t": "Dạy giáo lý ở nhà", "a": "David", "url": "/reader.html?id=vn/sach-14-day-giao-ly-o-nha"}, {"s": "edwards-grace", "t": "Luận Về Ân Điển", "a": "Jonathan Edwards", "url": "/reader.html?id=vn/edwards-grace"}, {"s": "baxter-causes", "t": "Nguyên Nhân Khinh Lờn Đấng Christ", "a": "Richard Baxter", "url": "/reader.html?id=vn/baxter-causes"}, {"s": "owen-temptation", "t": "Về Sự Cám Dỗ", "a": "John Owen", "url": "/reader.html?id=vn/owen-temptation"}, {"s": "owen-faith", "t": "Nền Tảng Phúc Âm Và Bằng Chứng Của Đức Tin", "a": "John Owen", "url": "/reader.html?id=vn/owen-faith"}, {"s": "baxter-unconverted", "t": "Lời Kêu Gọi Người Chưa Cải Đạo", "a": "Richard Baxter", "url": "/reader.html?id=vn/baxter-unconverted"}]};
-var RV_POOL=[{"s": "bonar-followlamb", "t": "Theo Chiên Con: lời khuyên dành cho người mới tin Chúa", "a": "Horatius Bonar", "url": "/reader.html?id=vn/bonar-followlamb"}, {"s": "spurgeon-puritan-catechism", "t": "Giáo lý vấn đáp Thanh giáo", "a": "C. H. Spurgeon", "url": "/reader.html?id=vn/spurgeon-puritan-catechism"}, {"s": "calvin-prayer", "t": "Về sự cầu nguyện (Institutes III.20)", "a": "John Calvin", "url": "/reader.html?id=vn/calvin-prayer"}, {"s": "sach-04-hieu-thao-theo-kinh-thanh", "t": "Hiếu thảo theo Kinh Thánh", "a": "David", "url": "/reader.html?id=vn/sach-04-hieu-thao-theo-kinh-thanh"}, {"s": "sach-05-nguoi-moi-tin-trong-gia-dinh-tho-cung", "t": "Người mới tin trong nhà có bàn thờ", "a": "David", "url": "/reader.html?id=vn/sach-05-nguoi-moi-tin-trong-gia-dinh-tho-cung"}, {"s": "sach-02-giop-giua-con-bao", "t": "Gióp giữa cơn bão", "a": "David", "url": "/reader.html?id=vn/sach-02-giop-giua-con-bao"}, {"s": "sach-09-so-hai-va-binh-an-duc-tin-so-voi-bua-chu", "t": "Sợ hãi và bình an", "a": "David", "url": "/reader.html?id=vn/sach-09-so-hai-va-binh-an-duc-tin-so-voi-bua-chu"}, {"s": "sach-01-chua-khong-hua-giau-co", "t": "Chúa Không Hứa Giàu Có", "a": "David", "url": "/reader.html?id=vn/sach-01-chua-khong-hua-giau-co"}, {"s": "owen-mort", "t": "Giết Chết Tội Lỗi", "a": "John Owen", "url": "/sach/owen-mort.html", "cover": "bia-sach/owen-mort.webp"}, {"s": "ryle-holiness", "t": "Sự Nên Thánh", "a": "J. C. Ryle", "url": "/sach/ryle-holiness.html", "cover": "bia-sach/ryle-holiness.webp"}, {"s": "spurgeon-morningevening", "t": "Buổi Sáng Và Buổi Chiều", "a": "C. H. Spurgeon", "url": "/sach/spurgeon-morningevening.html", "cover": "bia-sach/spurgeon-morningevening.webp"}, {"s": "mau-an-dien-du-dat", "t": "Ân Điển Dư Dật", "a": "John Bunyan", "url": "/sach/mau-an-dien-du-dat.html", "cover": "bia-sach/bunyan-grace.webp"}, {"s": "bunyan-holy_war", "t": "Cuộc Chiến Thánh", "a": "John Bunyan", "url": "/sach/bunyan-holy_war.html", "cover": "bia-sach/bunyan-holy_war.webp"}, {"s": "calvin-prayer", "t": "Về Sự Cầu Nguyện", "a": "John Calvin", "url": "/sach/calvin-prayer.html", "cover": "bia-sach/calvin-prayer.webp"}, {"s": "edwards-affections", "t": "Các Cảm Xúc Thuộc Linh", "a": "Jonathan Edwards", "url": "/sach/edwards-affections.html", "cover": "bia-sach/edwards-affections.webp"}, {"s": "sibbes-bruisedreed", "t": "Cây Sậy Dập", "a": "Richard Sibbes", "url": "/sach/sibbes-bruisedreed.html", "cover": "bia-sach/sibbes-bruisedreed.webp"}, {"s": "baxter-practical", "t": "Tuyển Tác Phẩm Thực Hành", "a": "Richard Baxter", "url": "/sach/baxter-practical.html", "cover": "bia-sach/baxter-practical.webp"}, {"s": "watson-beatitudes", "t": "Tám Mối Phúc", "a": "Thomas Watson", "url": "/sach/watson-beatitudes.html", "cover": "bia-sach/watson-beatitudes.webp"}, {"s": "owen-catechisms", "t": "Hai Giáo lý vấn đáp ngắn", "a": "John Owen", "url": "/reader.html?id=vn/owen-catechisms"}, {"s": "owen-mort", "t": "Giết Chết Tội Lỗi", "a": "John Owen", "url": "/reader.html?id=vn/owen-mort"}, {"s": "calvin-chr-life", "t": "Đời sống Cơ Đốc (Institutes III.6-10)", "a": "John Calvin", "url": "/reader.html?id=vn/calvin-chr-life"}, {"s": "sach-12-giao-ly-van-dap-cho-lop-nhom-nho", "t": "Giáo lý vấn đáp cho lớp nhóm nhỏ", "a": "David", "url": "/reader.html?id=vn/sach-12-giao-ly-van-dap-cho-lop-nhom-nho"}, {"s": "sach-14-day-giao-ly-o-nha", "t": "Dạy giáo lý ở nhà", "a": "David", "url": "/reader.html?id=vn/sach-14-day-giao-ly-o-nha"}, {"s": "edwards-grace", "t": "Luận Về Ân Điển", "a": "Jonathan Edwards", "url": "/reader.html?id=vn/edwards-grace"}, {"s": "baxter-causes", "t": "Nguyên Nhân Khinh Lờn Đấng Christ", "a": "Richard Baxter", "url": "/reader.html?id=vn/baxter-causes"}, {"s": "owen-temptation", "t": "Về Sự Cám Dỗ", "a": "John Owen", "url": "/reader.html?id=vn/owen-temptation"}, {"s": "owen-faith", "t": "Nền Tảng Phúc Âm Và Bằng Chứng Của Đức Tin", "a": "John Owen", "url": "/reader.html?id=vn/owen-faith"}, {"s": "baxter-unconverted", "t": "Lời Kêu Gọi Người Chưa Cải Đạo", "a": "Richard Baxter", "url": "/reader.html?id=vn/baxter-unconverted"}, {"s": "brooks-remedies", "t": "Phương Thuốc Quý Báu Chống Mưu Kế Sa-tan", "a": "Thomas Brooks", "url": "/sach/brooks-remedies.html", "cover": "bia-sach/brooks-remedies.webp"}, {"s": "burroughs-contentment", "t": "Báu Vật Hiếm: Sự Thỏa Lòng", "a": "Jeremiah Burroughs", "url": "/sach/burroughs-contentment.html", "cover": "bia-sach/burroughs-contentment.webp"}, {"s": "flavel-lovely", "t": "Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn", "a": "John Flavel", "url": "/sach/flavel-lovely.html", "cover": "bia-sach/flavel-lovely.webp"}, {"s": "owen-temptation", "t": "Về Sự Cám Dỗ", "a": "John Owen", "url": "/sach/owen-temptation.html", "cover": "bia-sach/owen-temptation.webp"}, {"s": "spurgeon-catechism", "t": "Giáo Lý Vấn Đáp Thanh Giáo", "a": "C. H. Spurgeon", "url": "/sach/spurgeon-catechism.html", "cover": "bia-sach/spurgeon-catechism.webp"}, {"s": "westminster-shorter", "t": "Giáo Lý Vấn Đáp Ngắn Westminster", "a": "Westminster Assembly", "url": "/sach/westminster-shorter.html", "cover": "bia-sach/westminster-shorter.webp"}, {"s": "creeds-heidelberg", "t": "Giáo Lý Heidelberg", "a": "Zacharius Ursinus", "url": "/sach/creeds-heidelberg.html", "cover": "bia-sach/creeds-heidelberg.webp"}, {"s": "knox-prayer", "t": "Luận Về Sự Cầu Nguyện", "a": "John Knox", "url": "/sach/knox-prayer.html", "cover": "bia-sach/knox-prayer.webp"}, {"s": "bonar-followlamb", "t": "Theo Chiên Con", "a": "Horatius Bonar", "url": "/sach/bonar-followlamb.html", "cover": "bia-sach/bonar-followlamb.webp"}, {"s": "boston-crook", "t": "Cái Cong Trong Số Phận", "a": "Thomas Boston", "url": "/sach/boston-crook.html", "cover": "bia-sach/boston-crook.webp"}, {"s": "edwards-will", "t": "Tự Do Của Ý Chí", "a": "Jonathan Edwards", "url": "/sach/edwards-will.html", "cover": "bia-sach/edwards-will.webp"}, {"s": "edwards-treatiseongrace", "t": "Luận Về Ân Điển", "a": "Jonathan Edwards", "url": "/sach/edwards-treatiseongrace.html", "cover": "bia-sach/edwards-treatiseongrace.webp"}, {"s": "owen-justification", "t": "Giáo Lý Xưng Công Chính Bởi Đức Tin", "a": "John Owen", "url": "/sach/owen-justification.html", "cover": "bia-sach/owen-justification.webp"}, {"s": "owen-glory", "t": "Suy Ngẫm Về Vinh Quang Của Đấng Christ", "a": "John Owen", "url": "/sach/owen-glory.html", "cover": "bia-sach/owen-glory.webp"}, {"s": "owen-indwellingsin", "t": "Tội Lỗi Ngự Trị Trong Tín Hữu", "a": "John Owen", "url": "/sach/owen-indwellingsin.html", "cover": "bia-sach/owen-indwellingsin.webp"}, {"s": "owen-catechisms", "t": "Hai Giáo Lý Vấn Đáp Ngắn", "a": "John Owen", "url": "/sach/owen-catechisms.html", "cover": "bia-sach/owen-catechisms.webp"}, {"s": "flavel-fountainoflife", "t": "Nguồn Sống Mở Ra", "a": "John Flavel", "url": "/sach/flavel-fountainoflife.html", "cover": "bia-sach/flavel-fountainoflife.webp"}, {"s": "watson-bodyofdivinity", "t": "Thân Thể Thần Học", "a": "Thomas Watson", "url": "/sach/watson-bodyofdivinity.html", "cover": "bia-sach/watson-bodyofdivinity.webp"}, {"s": "charnock-nec_regen", "t": "Sự Cần Thiết Của Sự Tái Sinh", "a": "Stephen Charnock", "url": "/sach/charnock-nec_regen.html", "cover": "bia-sach/charnock-nec_regen.webp"}, {"s": "alleine_j-alarm", "t": "Tiếng Chuông Cảnh Tỉnh", "a": "Joseph Alleine", "url": "/sach/alleine_j-alarm.html", "cover": "bia-sach/alleine_j-alarm.webp"}, {"s": "mg1-1191-the-three-harangues-of-theodore-beza-delivered-at-beza", "t": "Ba Bài Diễn Văn Của Theodore Beza Được Đọc Tại Poissy Năm 1561", "a": "Theodore Beza", "url": "/reader.html?id=vn/mg1-1191-the-three-harangues-of-theodore-beza-delivered-at-beza"}, {"s": "mg1-1192-the-training-of-the-twelve-biblical-studies-ebook-bruce", "t": "Sự Huấn Luyện Mười Hai Sứ Đồ", "a": "A. B. Bruce", "url": "/reader.html?id=vn/mg1-1192-the-training-of-the-twelve-biblical-studies-ebook-bruce"}, {"s": "mg1-1198-the-true-scripture-doctrine-concerning-some-import-dickinson", "t": "Giáo Lý Thật Trong Kinh Thánh Về Một Số Những Điểm Quan Trọng Của Đức Tin Cơ Đốc: Đặc Biệt Là Sự Tuyển Chọn Đời Đời, Tội Lỗi Nguyên Thủy, Ân Điển Trong Sự Cải Đạo, Sự Xưng Công Chính Bởi Đức Tin, Và Sự Bền Đỗ Của Các Thánh Đồ.", "a": "Jonathan Dickinson", "url": "/reader.html?id=vn/mg1-1198-the-true-scripture-doctrine-concerning-some-import-dickinson"}, {"s": "mg1-1200-the-typology-of-scripture-viewed-in-connection-wit-fairbairn", "t": "Hình Bóng Học Trong Kinh Thánh Được Xem Xét Trong Mối Liên Hệ Với Toàn Bộ Chuỗi Các Kỳ Của Đức Chúa Trời", "a": "Patrick Fairbairn", "url": "/reader.html?id=vn/mg1-1200-the-typology-of-scripture-viewed-in-connection-wit-fairbairn"}, {"s": "mg1-1202-the-unshakeable-kingdom-of-the-eternal-god-sermons-rutherford", "t": "Vương Quốc Không Thể Lay Chuyển Của Đức Chúa Trời Đời Đời", "a": "Samuel Rutherford", "url": "/reader.html?id=vn/mg1-1202-the-unshakeable-kingdom-of-the-eternal-god-sermons-rutherford"}, {"s": "mg1-1204-the-vanity-of-this-world-sermons-ebook-hopkins", "t": "Sự Hư Không Của Thế Gian", "a": "Ezekiel Hopkins", "url": "/reader.html?id=vn/mg1-1204-the-vanity-of-this-world-sermons-ebook-hopkins"}, {"s": "mg1-1211-the-whole-armor-of-god-or-a-christians-spiritual-f-gouge", "t": "Toàn Bộ Áo Giáp Của Đức Chúa Trời: Hay Trang Bị Thuộc Linh Của Một Cơ Đốc Nhân Để Giữ Người Ấy An Toàn Khỏi Mọi Sự Tấn Công Của Sa-tan.", "a": "William Gouge", "url": "/reader.html?id=vn/mg1-1211-the-whole-armor-of-god-or-a-christians-spiritual-f-gouge"}, {"s": "mg1-1212-the-wiles-of-satan-spurstowe", "t": "Những Mưu Chước Của Sa-tan", "a": "William Spurstowe", "url": "/reader.html?id=vn/mg1-1212-the-wiles-of-satan-spurstowe"}, {"s": "mg1-1217-the-works-of-augustus-toplady-6-volume-set-reforme-toplady", "t": "Tác Phẩm Của Augustus Toplady", "a": "Augustus Toplady", "url": "/reader.html?id=vn/mg1-1217-the-works-of-augustus-toplady-6-volume-set-reforme-toplady"}, {"s": "mg1-1218-the-works-of-david-clarkson-sermons-ebook-clarkson", "t": "Các Tác Phẩm Của David Clarkson", "a": "David Clarkson", "url": "/reader.html?id=vn/mg1-1218-the-works-of-david-clarkson-sermons-ebook-clarkson"}, {"s": "mg1-1222-the-very-pernicious-and-detestable-doctrine-of-inc-reymond", "t": "Giáo Lý Về Chủ Nghĩa Bao Hàm \"rất Tai Hại Và Đáng Ghê Tởm\"", "a": "Robert L. Reymond", "url": "/reader.html?id=vn/mg1-1222-the-very-pernicious-and-detestable-doctrine-of-inc-reymond"}, {"s": "mg1-1223-theological-commonplaces-reformed-theology-ebook-maccovius", "t": "Các Luận Đề Thần Học Chung", "a": "Johannes Maccovius", "url": "/reader.html?id=vn/mg1-1223-theological-commonplaces-reformed-theology-ebook-maccovius"}];
-var RV_TOPICS={"phuc-am":["phuc am","tin lanh","an dien"],"an-dien":["an dien","an sung"],"cau-nguyen":["cau nguyen"],"than-hoc":["than hoc","giao ly","tin dieu"],"thanh-khiet":["thanh khiet","nen thanh"],"gia-dinh":["gia dinh","hon nhan","con cai"],"lich-su":["lich su","hoi thanh"]};
-var LEVEL_NUM={new:1,mid:2,deep:3};
-var LEVEL_LABEL={new:"Mới tin Chúa",mid:"Đang lớn lên",deep:"Học sâu"};
-var TOPIC_MAP={
- "":{label:"Tất cả",topics:[]},
- "phuc-am":{label:"Phúc Âm",topics:["Phúc Âm"]},
- "an-dien":{label:"Ân Điển",topics:["Ân Điển"]},
- "cau-nguyen":{label:"Cầu Nguyện",topics:["Cầu Nguyện"]},
- "than-hoc":{label:"Thần Học",topics:["Tín Điều","Kinh Thánh"]},
- "thanh-khiet":{label:"Thánh Khiết",topics:["Sự Thánh Khiết","Sự Nên Thánh"]},
- "gia-dinh":{label:"Gia Đình",topics:["Gia Đình","Hôn Nhân"]},
- "lich-su":{label:"Lịch Sử",topics:["Lịch Sử Hội Thánh"]}};
-var FLAT=["#9a3412","#1d2430","#5b3a1e","#2f5233","#6b2137","#28536b","#4a5d23","#3b3b6d"];
-function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
-function norm(s){return String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/đ/g,"d").replace(/Đ/g,"D").toLowerCase()}
-function colorFor(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return FLAT[h%FLAT.length]}
-var state={level:"mid",topic:""};
-try{var p=JSON.parse(localStorage.getItem("rv-pref")||"null");if(p&&p.level&&RV_LEVELS[p.level]){state.level=p.level;state.topic=p.topic||""}}catch(e){}
-function matches(b,topic){if(!topic)return true;var kws=RV_TOPICS[topic]||[],nt=norm(b.t);for(var i=0;i<kws.length;i++){if(nt.indexOf(kws[i])!==-1)return true}return false}
-function card(b){
-  var cv=b.cover?b.cover:(RV_COVERS[b.s||""]?"bia-sach/"+RV_COVERS[b.s]:"");
-  var cover=cv?'<span class="rv-cover"><img src="/'+esc(cv)+'" alt="'+esc(b.t)+'" loading="lazy" width="256" height="358" onerror="this.style.display=\'none\'"><span class="rv-ct" aria-hidden="true">'+esc(b.t)+'</span></span>'
-    :'<span class="rv-cover rv-flat" style="background:'+colorFor(b.s||"x")+'" aria-hidden="true"><span class="rv-ct">'+esc(b.t)+'</span></span>';
-  return '<a class="rv-book" href="'+esc(b.url)+'">'+cover+'<h3 class="rv-bt rv-clamp">'+esc(b.t)+'</h3><span class="rv-ba">'+esc(b.a)+'</span></a>';
-}
-/* ---- data-driven ranking on translations/index-lite.json ---- */
-var LITE=null,LITE_OK=false;
-function liteURL(e){return "/ban-dich/"+e.slug+".html"}
-var RV_COVERS={"001-pilgrims-progress-bunyan":"001-pilgrims-progress-bunyan.webp","002-the-masters-touch-bonar":"002-the-masters-touch-bonar.webp","008-words-of-peace-manton":"008-words-of-peace-manton.webp","048-directions-to-justices-of-peace-baxter":"048-directions-to-justices-of-peace-baxter.webp","049-the-seamans-monitor-flavel":"049-the-seamans-monitor-flavel.webp","051-the-subject-and-temper-of-the-gospel-ministry-newton":"051-the-subject-and-temper-of-the-gospel-ministry-newton.webp","057-richard-baxters-sence-of-the-subscribed-articles":"057-richard-baxters-sence-of-the-subscribed-articles.webp","071-a-catechism-for-children-henry":"071-a-catechism-for-children-henry.webp","080-a-sermon-preached-at-plymouth-watson":"080-a-sermon-preached-at-plymouth-watson.webp","092-an-exhortation-at-a-communion-rutherford":"092-an-exhortation-at-a-communion-rutherford.webp","095-a-plain-catechism-for-children-henry":"095-a-plain-catechism-for-children-henry.webp","1000-137-a-sermon-preached-at-black-friars-burroughs":"1000-137-a-sermon-preached-at-black-friars-burroughs.webp","1000-142-a-short-view-of-popery-burroughs":"1000-142-a-short-view-of-popery-burroughs.webp","1000-151-a-post-script-to-the-late-letter-howe":"1000-151-a-post-script-to-the-late-letter-howe.webp","1000-157-a-sermon-preached-july-2-watson":"1000-157-a-sermon-preached-july-2-watson.webp","1000-192-a-sermon-preached-in-st-pauls-deptford-newton":"1000-192-a-sermon-preached-in-st-pauls-deptford-newton.webp","1000-474-supplement-to-the-reader-and-prison-meditations-bunyan":"1000-474-supplement-to-the-reader-and-prison-meditations-bunyan.webp","133-huong-dan-cho-nguoi-xet-minh-co-that-long-yeu-duc-chua-troi":"133-huong-dan-cho-nguoi-xet-minh-co-that-long-yeu-duc-chua-troi.webp","156-su-cau-thay-la-bon-phan-cua-moi-tin-huu":"156-su-cau-thay-la-bon-phan-cua-moi-tin-huu.webp","162-mac-lay-nguoi-moi-la-dau-hieu-cua-tin-huu-chan-that":"162-mac-lay-nguoi-moi-la-dau-hieu-cua-tin-huu-chan-that.webp","170-su-phuoc-hanh-vinh-cuu-cua-nguoi-cong-chinh":"170-su-phuoc-hanh-vinh-cuu-cua-nguoi-cong-chinh.webp","177-loi-chung-de-lai-cua-samuel-rutherford":"177-loi-chung-de-lai-cua-samuel-rutherford.webp","184-su-suy-xet-khong-the-do-luong-cua-duc-chua-troi":"184-su-suy-xet-khong-the-do-luong-cua-duc-chua-troi.webp","188-cuoc-chay-dua-cho-su-song-doi-doi":"188-cuoc-chay-dua-cho-su-song-doi-doi.webp","194-ba-buc-thu-muc-vu":"194-ba-buc-thu-muc-vu.webp","195-bieu-hien-cua-tinh-yeu-thuong-va-su-ton-trong":"195-bieu-hien-cua-tinh-yeu-thuong-va-su-ton-trong.webp","324-the-teaching-office-of-the-church-hodge":"324-the-teaching-office-of-the-church-hodge.webp","489-ban-tanh-con-nguoi-trong-bon-trang-thai":"489-ban-tanh-con-nguoi-trong-bon-trang-thai.webp","499-bai-giang-tang-le-va-hy-vong-vinh-cuu":"499-bai-giang-tang-le-va-hy-vong-vinh-cuu.webp","507-two-sermons-sibbes":"507-two-sermons-sibbes.webp","566-the-copie-of-a-letter-to-the-regent-of-scotland":"566-the-copie-of-a-letter-to-the-regent-of-scotland.webp","574-the-christians-portion":"574-the-christians-portion.webp","641-heavenly-mindedness-recommended-discourse-colossians-iii-bur":"641-heavenly-mindedness-recommended-discourse-colossians-iii-bur.webp","643-word-aged-1679-bridge":"643-word-aged-1679-bridge.webp","837-divine-meditations-and-holy-contemplations-sibbes":"837-divine-meditations-and-holy-contemplations-sibbes.webp","alleine_j-alarm":"alleine_j-alarm.webp","arch-baxter-directions-justices":"arch-baxter-directions-justices.webp","arch-baxter-short-instructions-sick":"arch-baxter-short-instructions-sick.webp","arch-bonar-morning-joy":"arch-bonar-morning-joy.webp","arch-boston-divine-call-leave":"arch-boston-divine-call-leave.webp","arch-boston-excellency-knowledge-christ":"arch-boston-excellency-knowledge-christ.webp","arch-bunyan-christian-behaviour":"arch-bunyan-christian-behaviour.webp","arch-calvin-sermons-1581-bai-giang-muoi-dieu-ran":"arch-calvin-sermons-1581-bai-giang-muoi-dieu-ran.webp","arch-flavel-seamans-monitor":"arch-flavel-seamans-monitor.webp","arch-henry-catechism-children":"arch-henry-catechism-children.webp","arch-hodge-funeral-martha-rice":"arch-hodge-funeral-martha-rice.webp","arch-knox-godly-letter-1581-thu-gui-tin-huu-london":"arch-knox-godly-letter-1581-thu-gui-tin-huu-london.webp","arch-newton-subject-temper-ministry":"arch-newton-subject-temper-ministry.webp","arch-rutherford-exhortation-communion":"arch-rutherford-exhortation-communion.webp","arch-sibbes-yea-amen":"arch-sibbes-yea-amen.webp","arch-watson-witnesses-anatomized-1661":"arch-watson-witnesses-anatomized-1661.webp","arch-whitefield-putting-new-man":"arch-whitefield-putting-new-man.webp","baxter-practical":"baxter-practical.webp","bonar-followlamb":"bonar-followlamb.webp","boston-crook":"boston-crook.webp","brooks-remedies":"brooks-remedies.webp","bunyan-holy_war":"bunyan-holy_war.webp","burroughs-contentment":"burroughs-contentment.webp","calvin-prayer":"calvin-prayer.webp","charnock-nec_regen":"charnock-nec_regen.webp","clarkson-owenfuneral":"clarkson-owenfuneral.webp","creeds-heidelberg":"creeds-heidelberg.webp","edwards-affections":"edwards-affections.webp","edwards-treatiseongrace":"edwards-treatiseongrace.webp","edwards-will":"edwards-will.webp","flavel-fountainoflife":"flavel-fountainoflife.webp","flavel-life":"flavel-life.webp","flavel-lovely":"flavel-lovely.webp","knox-prayer":"knox-prayer.webp","list-750-bai-giang-dam-tang-henry":"list-750-bai-giang-dam-tang-henry.webp","list-790-bo-phan-tu-nhien-va-mac-khai-ve-dao-gia-dinh-howe":"list-790-bo-phan-tu-nhien-va-mac-khai-ve-dao-gia-dinh-howe.webp","list-793-cau-hoi-thich-hop-voi-loi-giai-thich-thu-i-corinhto-hodge":"list-793-cau-hoi-thich-hop-voi-loi-giai-thich-thu-i-corinhto-hodge.webp","mau-an-dien-du-dat":"bunyan-grace.webp","mg1-059-assurance-heirs-of-promise-manton":"mg1-059-assurance-heirs-of-promise-manton.webp","mg1-085-walking-in-wisdom-manton":"mg1-085-walking-in-wisdom-manton.webp","mg1-1049-the-gospel-pointing-to-the-person-of-christ-bonar":"mg1-1049-the-gospel-pointing-to-the-person-of-christ-bonar.webp","mg1-1124-the-power-of-the-word-how-god-uses-preaching-to-br-rutherford":"mg1-1124-the-power-of-the-word-how-god-uses-preaching-to-br-rutherford.webp","mg1-126-of-prayer-a-perpetual-exercise-of-faith-the-daily-calvin":"mg1-126-of-prayer-a-perpetual-exercise-of-faith-the-daily-calvin.webp","mg1-199-what-if-i-doubt-boston":"mg1-199-what-if-i-doubt-boston.webp","mg1-256-morning-evening-thoughts-winslow":"mg1-256-morning-evening-thoughts-winslow.webp","mg1-266-the-lord-my-portion-daily-need-divinely-supplied-winslow":"mg1-266-the-lord-my-portion-daily-need-divinely-supplied-winslow.webp","mg1-371-the-foundation-of-christian-religion-gathered-into-perkins":"mg1-371-the-foundation-of-christian-religion-gathered-into-perkins.webp","mg1-598-adoniram-judson-a-missionary-of-the-apostolic-scho-bonar":"mg1-598-adoniram-judson-a-missionary-of-the-apostolic-scho-bonar.webp","mg1-644-christ-and-his-church-in-the-book-of-psalms-bible-bonar":"mg1-644-christ-and-his-church-in-the-book-of-psalms-bible-bonar.webp","mg1-684-directions-reading-scriptures-greenham":"mg1-684-directions-reading-scriptures-greenham.webp","mg1-696-earths-morning-thoughts-on-genesis-bible-commentar-bonar":"mg1-696-earths-morning-thoughts-on-genesis-bible-commentar-bonar.webp","mg1-963-blood-covenant-bonar":"mg1-963-blood-covenant-bonar.webp","owen-catechisms":"owen-catechisms.webp","owen-glory":"owen-glory.webp","owen-indwellingsin":"owen-indwellingsin.webp","owen-justification":"owen-justification.webp","owen-mort":"owen-mort.webp","owen-temptation":"owen-temptation.webp","ryle-holiness":"ryle-holiness.webp","sibbes-bruisedreed":"sibbes-bruisedreed.webp","spurgeon-catechism":"spurgeon-catechism.webp","spurgeon-morningevening":"spurgeon-morningevening.webp","watson-beatitudes":"watson-beatitudes.webp","watson-bodyofdivinity":"watson-bodyofdivinity.webp","westminster-shorter":"westminster-shorter.webp"};
-function flatCard(e){
-  var cv=RV_COVERS[e.slug||""];
-  var inner=cv?'<img src="/bia-sach/'+cv+'" alt="'+esc(e.short)+'" loading="lazy" width="256" height="358" onerror="this.style.display=\'none\'"><span class="rv-ct" aria-hidden="true">'+esc(e.short)+'</span>':'<span class="rv-ct">'+esc(e.short)+'</span>';
-  var cls=cv?"rv-cover":"rv-cover rv-flat";
-  var sty=cv?"":' style="background:'+colorFor(e.slug||"x")+'"';
-  return '<a class="rv-book" href="'+esc(liteURL(e))+'">'
-    +'<span class="'+cls+'"'+sty+' aria-hidden="true">'+inner+'</span>'
-    +'<h3 class="rv-bt rv-clamp">'+esc(e.short)+'</h3><span class="rv-ba">'+esc(e.author)+'</span></a>';
-}
-function lenRank(l){return l==="ngan"?0:l==="vua"?1:2}
-function rank(){
-  var lv=LEVEL_NUM[state.level]||2,tm=TOPIC_MAP[state.topic]||TOPIC_MAP[""],topics=tm.topics;
-  var A=[],B=[],C=[],i,e,j,hasT,ts;
-  for(i=0;i<LITE.length;i++){e=LITE[i]||{};if(!e.slug)continue;
-    var lm=e.level===lv;hasT=!topics.length;
-    if(!hasT){ts=e.topics||[];for(j=0;j<topics.length;j++){if(ts.indexOf(topics[j])>-1){hasT=true;break}}}
-    if(!topics.length){if(lm)A.push(e)}
-    else if(lm&&hasT)A.push(e);
-    else if(lm)B.push(e);
-    else if(hasT)C.push(e);
-  }
-  if(state.level==="new")A.sort(function(a,b){return lenRank(a.length)-lenRank(b.length)});
-  return {list:A.concat(B).concat(C).slice(0,12),both:A.length>0,anyTopic:!topics.length};
-}
-function caption(r){
-  var lv=LEVEL_LABEL[state.level]||"",tp=(TOPIC_MAP[state.topic]||TOPIC_MAP[""]).label;
-  if(r.anyTopic)return 'Gợi ý cho <b>'+esc(lv)+'</b>';
-  if(r.both)return 'Vì bạn chọn: <b>'+esc(lv)+' · '+esc(tp)+'</b>';
-  return 'Chưa có sách '+esc(tp)+' cho '+esc(lv).toLowerCase()+' — gợi ý sách '+esc(lv).toLowerCase()+' cho bạn:';
-}
-function renderData(){
-  var box=document.getElementById("rv-suggest"),cap=document.getElementById("rv-cap");
-  if(!box)return;
-  var r=rank();
-  box.innerHTML=r.list.length?r.list.map(flatCard).join(""):'<p class="rv-empty">Chưa có gợi ý — thử lựa chọn khác.</p>';
-  if(cap)cap.innerHTML=caption(r);
-}
-function skeleton(){
-  var box=document.getElementById("rv-suggest");if(!box)return;
-  var s="";for(var i=0;i<6;i++)s+='<div class="rv-book" aria-hidden="true"><span class="rv-cover rv-sk"></span><span class="rv-sk-t"></span></div>';
-  box.innerHTML=s;
-}
-function renderFallback(){
-  var seen={},list=[],i,b;
-  var base=RV_LEVELS[state.level]||[];
-  for(i=0;i<base.length;i++){b=base[i];if(!seen[b.url]&&matches(b,state.topic)){seen[b.url]=1;list.push(b)}}
-  if(list.length<3){
-    for(i=0;i<RV_POOL.length&&list.length<10;i++){b=RV_POOL[i];if(!seen[b.url]&&matches(b,state.topic)){seen[b.url]=1;list.push(b)}}
-  }
-  if(list.length<3){list=[];seen={};for(i=0;i<base.length&&list.length<10;i++){b=base[i];if(!seen[b.url]){seen[b.url]=1;list.push(b)}}}
-  list=list.slice(0,10);
-  var box=document.getElementById("rv-suggest"),cap=document.getElementById("rv-cap");if(!box)return;
-  box.innerHTML=list.length?list.map(card).join(""):'<p class="rv-empty">Chưa có gợi ý cho lựa chọn này — thử chủ đề khác.</p>';
-  if(cap)cap.textContent="Gợi ý nổi bật";
-}
-function render(){if(LITE_OK&&LITE)renderData();else renderFallback()}
-function syncUI(){
-  document.querySelectorAll(".rv-level").forEach(function(el){el.setAttribute("aria-pressed",String(el.dataset.level===state.level))});
-  document.querySelectorAll(".rv-tchip").forEach(function(el){el.setAttribute("aria-pressed",String(el.dataset.topic===state.topic))});
-}
-document.querySelectorAll(".rv-level").forEach(function(el){
-  el.addEventListener("click",function(){state.level=el.dataset.level;syncUI();render()});
-});
-document.querySelectorAll(".rv-tchip").forEach(function(el){
-  el.addEventListener("click",function(){state.topic=el.dataset.topic;syncUI();render()});
-});
-var go=document.getElementById("rv-go");
-if(go)go.addEventListener("click",function(){
-  try{localStorage.setItem("rv-pref",JSON.stringify(state))}catch(e){}
-  render();
-  var sec=document.getElementById("rv-suggest-sec");
-  if(sec)sec.scrollIntoView({behavior:"smooth",block:"start"});
-});
-syncUI();skeleton();
-var liteTimer=setTimeout(function(){if(!LITE_OK)renderFallback()},6000);
-if(window.fetch){fetch("translations/index-lite.json").then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
-  if(!Array.isArray(d)||!d.length)throw 0;
-  LITE=d;LITE_OK=true;clearTimeout(liteTimer);renderData();
-}).catch(function(){clearTimeout(liteTimer);renderFallback()})}
-})();
-
-/* Lazy-load below-fold shelves: skeletons first, content renders on intersection */
-(function(){
-function esc2(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
-var RV_LAZY={"short": [{"u": "/ban-dich/daily-meditations.html", "t": "Suy Ngẫm Và Cầu Nguyện Hằng", "a": "Tuyển Tập", "g": "Ngắn"}, {"u": "/ban-dich/095-a-plain-catechism-for-children-henry.html", "t": "Giáo Lý Vấn Đáp Đơn Giản", "a": "Matthew Henry", "g": "Ngắn"}, {"u": "/ban-dich/1000-474-supplement-to-the-reader-and-prison-meditations-bunyan.html", "t": "Lời Gửi Độc Giả Và Suy", "a": "John Bunyan", "g": "Ngắn"}, {"u": "/ban-dich/list-745-huong-dan-tre-em-keach.html", "t": "Hướng Dẫn Cho Trẻ Em", "a": "Benjamin Keach", "g": "Ngắn"}, {"u": "/ban-dich/arch-whitefield-putting-new-man.html", "t": "Mặc Lấy Người Mới", "a": "George Whitefield", "g": "Ngắn"}, {"u": "/ban-dich/arch-dabney-last-lecture-jackson.html", "t": "Bài Giảng Cuối Cùng Của Dabney", "a": "Robert Lewis Dabney", "g": "Ngắn"}, {"u": "/ban-dich/flavel-lovely.html", "t": "Chúa Giê-xu Christ — Đấng Đáng", "a": "John Flavel", "g": "Ngắn"}, {"u": "/ban-dich/arch-boston-excellency-knowledge-christ.html", "t": "Sự Cao Trọng: Biết Đấng Christ", "a": "Thomas Boston", "g": "Ngắn"}, {"u": "/ban-dich/arch-ryle-spiritual-songs-month.html", "t": "Những Bài Hát Thiêng Liêng Cho", "a": "J. C. Ryle", "g": "Ngắn"}, {"u": "/ban-dich/arch-howe-case-dissenters.html", "t": "Trường Hợp Của Người Tin Lành", "a": "John Howe", "g": "Ngắn"}, {"u": "/ban-dich/arch-hervey-cross-christ-glory.html", "t": "Thập Tự Giá Đấng Christ, Vinh", "a": "James Hervey", "g": "Ngắn"}, {"u": "/ban-dich/003-holy-and-profitable-sayings-vincent.html", "t": "Những Lời Nói Thánh Khiết Và", "a": "Thomas Vincent", "g": "Ngắn"}], "new": [{"u": "/reader.html?id=vn/mg1-1191-the-three-harangues-of-theodore-beza-delivered-at-beza", "t": "Ba Bài Diễn Văn Của Theodore Beza Được Đọc Tại Poissy Năm 1561", "a": "Theodore Beza", "g": "Mới"}, {"u": "/reader.html?id=vn/mg1-1192-the-training-of-the-twelve-biblical-studies-ebook-bruce", "t": "Sự Huấn Luyện Mười Hai Sứ Đồ", "a": "A. B. Bruce", "g": "Mới"}, {"u": "/reader.html?id=vn/mg1-1198-the-true-scripture-doctrine-concerning-some-import-dickinson", "t": "Giáo Lý Thật Trong Kinh Thánh Về Một Số Những Điểm Quan Trọng Của Đức Tin Cơ Đốc: Đặc Biệt Là Sự Tuyển Chọn Đời Đời, Tội Lỗi Nguyên Thủy, Ân Điển Trong Sự Cải Đạo, Sự Xưng Công Chính Bởi Đức Tin, Và Sự Bền Đỗ Của Các Thánh Đồ.", "a": "Jonathan Dickinson", "g": "Mới"}, {"u": "/reader.html?id=vn/mg1-1200-the-typology-of-scripture-viewed-in-connection-wit-fairbairn", "t": "Hình Bóng Học Trong Kinh Thánh Được Xem Xét Trong Mối Liên Hệ Với Toàn Bộ Chuỗi Các Kỳ Của Đức Chúa Trời", "a": "Patrick Fairbairn", "g": "Mới"}, {"u": "/reader.html?id=vn/mg1-1202-the-unshakeable-kingdom-of-the-eternal-god-sermons-rutherford", "t": "Vương Quốc Không Thể Lay Chuyển Của Đức Chúa Trời Đời Đời", "a": "Samuel Rutherford", "g": "Mới"}, {"u": "/reader.html?id=vn/mg1-1204-the-vanity-of-this-world-sermons-ebook-hopkins", "t": "Sự Hư Không Của Thế Gian", "a": "Ezekiel Hopkins", "g": "Mới"}, {"u": "/reader.html?id=vn/mg1-1211-the-whole-armor-of-god-or-a-christians-spiritual-f-gouge", "t": "Toàn Bộ Áo Giáp Của Đức Chúa Trời: Hay Trang Bị Thuộc Linh Của Một Cơ Đốc Nhân Để Giữ Người Ấy An Toàn Khỏi Mọi Sự Tấn Công Của Sa-tan.", "a": "William Gouge", "g": "Mới"}, {"u": "/reader.html?id=vn/mg1-1212-the-wiles-of-satan-spurstowe", "t": "Những Mưu Chước Của Sa-tan", "a": "William Spurstowe", "g": "Mới"}], "authors": [{"u": "/a/c-h-spurgeon.html", "i": "S", "n": "C. H. Spurgeon", "c": "120 cuốn"}, {"u": "/a/george-whitefield.html", "i": "W", "n": "George Whitefield", "c": "104 cuốn"}, {"u": "/a/john-owen.html", "i": "O", "n": "John Owen", "c": "91 cuốn"}, {"u": "/a/richard-baxter.html", "i": "B", "n": "Richard Baxter", "c": "88 cuốn"}, {"u": "/a/john-calvin.html", "i": "C", "n": "John Calvin", "c": "86 cuốn"}]};
-function rowHTML(r){return '<a class="rv-nrow" href="'+esc2(r.u)+'"><h3 class="rv-nt">'+esc2(r.t)+'</h3><span class="rv-na">'+esc2(r.a)+'</span><span class="rv-newtag">'+esc2(r.g)+'</span></a>'}
-function authorHTML(a){return '<a class="rv-author" href="'+esc2(a.u)+'"><span class="rv-avatar" style="background:#9a3412" aria-hidden="true">'+esc2(a.i)+'</span><span class="rv-an">'+esc2(a.n)+'</span><span class="rv-ac">'+esc2(a.c)+'</span></a>'}
-var jobs={
- "rv-short-list":function(el){el.innerHTML=RV_LAZY.short.map(rowHTML).join("")},
- "rv-new-list":function(el){el.innerHTML=RV_LAZY.new.map(rowHTML).join("")},
- "rv-authors-list":function(el){el.innerHTML=RV_LAZY.authors.map(authorHTML).join("")}};
-Object.keys(jobs).forEach(function(id){
-  var el=document.getElementById(id);if(!el)return;
-  if(id==="rv-authors-list"){var s="";for(var i=0;i<5;i++)s+='<div class="rv-ska" aria-hidden="true"><span class="rv-sk"></span></div>';el.innerHTML=s}
-  else{var t="";for(var j=0;j<4;j++)t+='<div class="rv-skrow" aria-hidden="true"></div>';el.innerHTML=t}
-});
-if("IntersectionObserver" in window){
-  var io=new IntersectionObserver(function(es){es.forEach(function(en){
-    if(en.isIntersecting){var f=jobs[en.target.id];if(f){f(en.target);delete jobs[en.target.id]}io.unobserve(en.target)}
-  })},{rootMargin:"240px"});
-  Object.keys(jobs).forEach(function(id){var el=document.getElementById(id);if(el)io.observe(el)});
-}else{Object.keys(jobs).forEach(function(id){var el=document.getElementById(id);if(el)jobs[id](el)})}
-})();
-
-/* Homepage redesign: continue-reading from rv.prog (real data) */
-(function(){
-  function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
-  function rvContinue(){
-    var box=document.getElementById("rv-continue"),list=document.getElementById("rv-cont-list");
-    if(!box||!list)return;
-    var items=[];
-    try{
-      var prog=JSON.parse(localStorage.getItem("rv.prog")||"{}");
-      var ids=Object.keys(prog).filter(function(id){var p=prog[id];return p&&p.p>0&&p.p<100;});
-      ids.sort(function(a,b){return (prog[b].t||0)-(prog[a].t||0)});
-      ids=ids.slice(0,6);
-      if(window.BOOKS&&window.BOOKS.length){
-        var byId={};window.BOOKS.forEach(function(b){byId[b.id]=b});
-        ids.forEach(function(id){
-          var b=byId[id];if(!b)return;
-          var d=b.vi||b.en||{},p=prog[id].p;
-          items.push('<article class="rv-cont" tabindex="0" role="button" data-open="'+esc(id)+'">'
-            +'<span class="rv-mini" style="background-color:'+esc(b.col||"#9a3412")+'" aria-hidden="true">'+esc((d.t||"?").trim().charAt(0))+"</span>"
-            +'<span class="rv-info"><span class="rv-t">'+esc(d.t||id)+'</span><span class="rv-a">'+esc(b.a||"")+"</span>"
-            +'<span class="rv-pbar"><i style="width:'+p+'%"></i></span><span class="rv-pct">'+p+"% &middot; ti&#7871;p t&#7909;c</span></span></article>");
-        });
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="description" content="Reformed Vietnam — thư viện sách, giáo lý hỏi đáp, bách khoa thần học, khóa học và bài tĩnh nguyện Cải Chánh bằng tiếng Việt, miễn phí cho mọi tín hữu." />
+    <meta property="og:title" content="Reformed Vietnam — Thư Viện Cải Chánh Tiếng Việt" />
+    <meta property="og:description" content="Sách, giáo lý, khóa học, bài giảng và thánh ca Cải Chánh tiếng Việt — mọi nguồn lực cho đời sống đức tin, gom về một nơi duy nhất." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://reformed-vietnam.vercel.app/" />
+    <meta property="og:image" content="https://reformed-vietnam.vercel.app/og.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <link rel="canonical" href="https://reformed-vietnam.vercel.app/" />
+    <link rel="icon" href="data:," />
+    <title>Reformed Vietnam — Trang chủ hợp nhất</title>
+    <link rel="stylesheet" href="data:text/css;base64,QGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdCZSBWaWV0bmFtIFBybyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA0MDA7CiAgZm9udC1kaXNwbGF5OiBzd2FwOwogIHNyYzogdXJsKCdmb250cy9iZS12aWV0bmFtLXByby00MDAtdmlldG5hbWVzZS53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDItMDEwMywgVSswMTEwLTAxMTEsIFUrMDEyOC0wMTI5LCBVKzAxNjgtMDE2OSwgVSswMUEwLTAxQTEsIFUrMDFBRi0wMUIwLCBVKzAzMDAtMDMwMSwgVSswMzAzLTAzMDQsIFUrMDMwOC0wMzA5LCBVKzAzMjMsIFUrMDMyOSwgVSsxRUEwLTFFRjksIFUrMjBBQjsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ0JlIFZpZXRuYW0gUHJvJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDQwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL2JlLXZpZXRuYW0tcHJvLTQwMC1sYXRpbi53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkJCLTAyQkMsIFUrMDJDNiwgVSswMkRBLCBVKzAyREMsIFUrMDMwNCwgVSswMzA4LCBVKzAzMjksIFUrMjAwMC0yMDZGLCBVKzIwQUMsIFUrMjEyMiwgVSsyMTkxLCBVKzIxOTMsIFUrMjIxMiwgVSsyMjE1LCBVK0ZFRkYsIFUrRkZGRDsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ0JlIFZpZXRuYW0gUHJvJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDUwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL2JlLXZpZXRuYW0tcHJvLTUwMC12aWV0bmFtZXNlLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDEwMi0wMTAzLCBVKzAxMTAtMDExMSwgVSswMTI4LTAxMjksIFUrMDE2OC0wMTY5LCBVKzAxQTAtMDFBMSwgVSswMUFGLTAxQjAsIFUrMDMwMC0wMzAxLCBVKzAzMDMtMDMwNCwgVSswMzA4LTAzMDksIFUrMDMyMywgVSswMzI5LCBVKzFFQTAtMUVGOSwgVSsyMEFCOwp9CkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnQmUgVmlldG5hbSBQcm8nOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNTAwOwogIGZvbnQtZGlzcGxheTogc3dhcDsKICBzcmM6IHVybCgnZm9udHMvYmUtdmlldG5hbS1wcm8tNTAwLWxhdGluLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDAwMC0wMEZGLCBVKzAxMzEsIFUrMDE1Mi0wMTUzLCBVKzAyQkItMDJCQywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSswMzA0LCBVKzAzMDgsIFUrMDMyOSwgVSsyMDAwLTIwNkYsIFUrMjBBQywgVSsyMTIyLCBVKzIxOTEsIFUrMjE5MywgVSsyMjEyLCBVKzIyMTUsIFUrRkVGRiwgVStGRkZEOwp9CkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnQmUgVmlldG5hbSBQcm8nOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNjAwOwogIGZvbnQtZGlzcGxheTogc3dhcDsKICBzcmM6IHVybCgnZm9udHMvYmUtdmlldG5hbS1wcm8tNjAwLXZpZXRuYW1lc2Uud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAyLTAxMDMsIFUrMDExMC0wMTExLCBVKzAxMjgtMDEyOSwgVSswMTY4LTAxNjksIFUrMDFBMC0wMUExLCBVKzAxQUYtMDFCMCwgVSswMzAwLTAzMDEsIFUrMDMwMy0wMzA0LCBVKzAzMDgtMDMwOSwgVSswMzIzLCBVKzAzMjksIFUrMUVBMC0xRUY5LCBVKzIwQUI7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdCZSBWaWV0bmFtIFBybyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA2MDA7CiAgZm9udC1kaXNwbGF5OiBzd2FwOwogIHNyYzogdXJsKCdmb250cy9iZS12aWV0bmFtLXByby02MDAtbGF0aW4ud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMDAwLTAwRkYsIFUrMDEzMSwgVSswMTUyLTAxNTMsIFUrMDJCQi0wMkJDLCBVKzAyQzYsIFUrMDJEQSwgVSswMkRDLCBVKzAzMDQsIFUrMDMwOCwgVSswMzI5LCBVKzIwMDAtMjA2RiwgVSsyMEFDLCBVKzIxMjIsIFUrMjE5MSwgVSsyMTkzLCBVKzIyMTIsIFUrMjIxNSwgVStGRUZGLCBVK0ZGRkQ7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdCZSBWaWV0bmFtIFBybyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgZm9udC1kaXNwbGF5OiBzd2FwOwogIHNyYzogdXJsKCdmb250cy9iZS12aWV0bmFtLXByby03MDAtdmlldG5hbWVzZS53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDItMDEwMywgVSswMTEwLTAxMTEsIFUrMDEyOC0wMTI5LCBVKzAxNjgtMDE2OSwgVSswMUEwLTAxQTEsIFUrMDFBRi0wMUIwLCBVKzAzMDAtMDMwMSwgVSswMzAzLTAzMDQsIFUrMDMwOC0wMzA5LCBVKzAzMjMsIFUrMDMyOSwgVSsxRUEwLTFFRjksIFUrMjBBQjsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ0JlIFZpZXRuYW0gUHJvJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDcwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL2JlLXZpZXRuYW0tcHJvLTcwMC1sYXRpbi53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkJCLTAyQkMsIFUrMDJDNiwgVSswMkRBLCBVKzAyREMsIFUrMDMwNCwgVSswMzA4LCBVKzAzMjksIFUrMjAwMC0yMDZGLCBVKzIwQUMsIFUrMjEyMiwgVSsyMTkxLCBVKzIxOTMsIFUrMjIxMiwgVSsyMjE1LCBVK0ZFRkYsIFUrRkZGRDsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ05vdG8gU2VyaWYnOwogIGZvbnQtc3R5bGU6IGl0YWxpYzsKICBmb250LXdlaWdodDogNTAwOwogIGZvbnQtZGlzcGxheTogc3dhcDsKICBzcmM6IHVybCgnZm9udHMvbm90by1zZXJpZi01MDAtaXRhbGljLXZpZXRuYW1lc2Uud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAyLTAxMDMsIFUrMDExMC0wMTExLCBVKzAxMjgtMDEyOSwgVSswMTY4LTAxNjksIFUrMDFBMC0wMUExLCBVKzAxQUYtMDFCMCwgVSswMzAwLTAzMDEsIFUrMDMwMy0wMzA0LCBVKzAzMDgtMDMwOSwgVSswMzIzLCBVKzAzMjksIFUrMUVBMC0xRUY5LCBVKzIwQUI7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdOb3RvIFNlcmlmJzsKICBmb250LXN0eWxlOiBpdGFsaWM7CiAgZm9udC13ZWlnaHQ6IDUwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL25vdG8tc2VyaWYtNTAwLWl0YWxpYy1sYXRpbi53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkJCLTAyQkMsIFUrMDJDNiwgVSswMkRBLCBVKzAyREMsIFUrMDMwNCwgVSswMzA4LCBVKzAzMjksIFUrMjAwMC0yMDZGLCBVKzIwQUMsIFUrMjEyMiwgVSsyMTkxLCBVKzIxOTMsIFUrMjIxMiwgVSsyMjE1LCBVK0ZFRkYsIFUrRkZGRDsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ05vdG8gU2VyaWYnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNTAwOwogIGZvbnQtZGlzcGxheTogc3dhcDsKICBzcmM6IHVybCgnZm9udHMvbm90by1zZXJpZi01MDAtdmlldG5hbWVzZS53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDItMDEwMywgVSswMTEwLTAxMTEsIFUrMDEyOC0wMTI5LCBVKzAxNjgtMDE2OSwgVSswMUEwLTAxQTEsIFUrMDFBRi0wMUIwLCBVKzAzMDAtMDMwMSwgVSswMzAzLTAzMDQsIFUrMDMwOC0wMzA5LCBVKzAzMjMsIFUrMDMyOSwgVSsxRUEwLTFFRjksIFUrMjBBQjsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ05vdG8gU2VyaWYnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNTAwOwogIGZvbnQtZGlzcGxheTogc3dhcDsKICBzcmM6IHVybCgnZm9udHMvbm90by1zZXJpZi01MDAtbGF0aW4ud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMDAwLTAwRkYsIFUrMDEzMSwgVSswMTUyLTAxNTMsIFUrMDJCQi0wMkJDLCBVKzAyQzYsIFUrMDJEQSwgVSswMkRDLCBVKzAzMDQsIFUrMDMwOCwgVSswMzI5LCBVKzIwMDAtMjA2RiwgVSsyMEFDLCBVKzIxMjIsIFUrMjE5MSwgVSsyMTkzLCBVKzIyMTIsIFUrMjIxNSwgVStGRUZGLCBVK0ZGRkQ7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdOb3RvIFNlcmlmJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL25vdG8tc2VyaWYtNjAwLXZpZXRuYW1lc2Uud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAyLTAxMDMsIFUrMDExMC0wMTExLCBVKzAxMjgtMDEyOSwgVSswMTY4LTAxNjksIFUrMDFBMC0wMUExLCBVKzAxQUYtMDFCMCwgVSswMzAwLTAzMDEsIFUrMDMwMy0wMzA0LCBVKzAzMDgtMDMwOSwgVSswMzIzLCBVKzAzMjksIFUrMUVBMC0xRUY5LCBVKzIwQUI7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdOb3RvIFNlcmlmJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL25vdG8tc2VyaWYtNjAwLWxhdGluLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDAwMC0wMEZGLCBVKzAxMzEsIFUrMDE1Mi0wMTUzLCBVKzAyQkItMDJCQywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSswMzA0LCBVKzAzMDgsIFUrMDMyOSwgVSsyMDAwLTIwNkYsIFUrMjBBQywgVSsyMTIyLCBVKzIxOTEsIFUrMjE5MywgVSsyMjEyLCBVKzIyMTUsIFUrRkVGRiwgVStGRkZEOwp9CkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnTm90byBTZXJpZic7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgZm9udC1kaXNwbGF5OiBzd2FwOwogIHNyYzogdXJsKCdmb250cy9ub3RvLXNlcmlmLTcwMC12aWV0bmFtZXNlLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDEwMi0wMTAzLCBVKzAxMTAtMDExMSwgVSswMTI4LTAxMjksIFUrMDE2OC0wMTY5LCBVKzAxQTAtMDFBMSwgVSswMUFGLTAxQjAsIFUrMDMwMC0wMzAxLCBVKzAzMDMtMDMwNCwgVSswMzA4LTAzMDksIFUrMDMyMywgVSswMzI5LCBVKzFFQTAtMUVGOSwgVSsyMEFCOwp9CkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnTm90byBTZXJpZic7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgZm9udC1kaXNwbGF5OiBzd2FwOwogIHNyYzogdXJsKCdmb250cy9ub3RvLXNlcmlmLTcwMC1sYXRpbi53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkJCLTAyQkMsIFUrMDJDNiwgVSswMkRBLCBVKzAyREMsIFUrMDMwNCwgVSswMzA4LCBVKzAzMjksIFUrMjAwMC0yMDZGLCBVKzIwQUMsIFUrMjEyMiwgVSsyMTkxLCBVKzIxOTMsIFUrMjIxMiwgVSsyMjE1LCBVK0ZFRkYsIFUrRkZGRDsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ1BsYXlmYWlyIERpc3BsYXknOwogIGZvbnQtc3R5bGU6IGl0YWxpYzsKICBmb250LXdlaWdodDogNTAwOwogIGZvbnQtZGlzcGxheTogc3dhcDsKICBzcmM6IHVybCgnZm9udHMvcGxheWZhaXItZGlzcGxheS01MDAtaXRhbGljLXZpZXRuYW1lc2Uud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAyLTAxMDMsIFUrMDExMC0wMTExLCBVKzAxMjgtMDEyOSwgVSswMTY4LTAxNjksIFUrMDFBMC0wMUExLCBVKzAxQUYtMDFCMCwgVSswMzAwLTAzMDEsIFUrMDMwMy0wMzA0LCBVKzAzMDgtMDMwOSwgVSswMzIzLCBVKzAzMjksIFUrMUVBMC0xRUY5LCBVKzIwQUI7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdQbGF5ZmFpciBEaXNwbGF5JzsKICBmb250LXN0eWxlOiBpdGFsaWM7CiAgZm9udC13ZWlnaHQ6IDUwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL3BsYXlmYWlyLWRpc3BsYXktNTAwLWl0YWxpYy1sYXRpbi53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkJCLTAyQkMsIFUrMDJDNiwgVSswMkRBLCBVKzAyREMsIFUrMDMwNCwgVSswMzA4LCBVKzAzMjksIFUrMjAwMC0yMDZGLCBVKzIwQUMsIFUrMjEyMiwgVSsyMTkxLCBVKzIxOTMsIFUrMjIxMiwgVSsyMjE1LCBVK0ZFRkYsIFUrRkZGRDsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ1BsYXlmYWlyIERpc3BsYXknOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNTAwOwogIGZvbnQtZGlzcGxheTogc3dhcDsKICBzcmM6IHVybCgnZm9udHMvcGxheWZhaXItZGlzcGxheS01MDAtdmlldG5hbWVzZS53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDItMDEwMywgVSswMTEwLTAxMTEsIFUrMDEyOC0wMTI5LCBVKzAxNjgtMDE2OSwgVSswMUEwLTAxQTEsIFUrMDFBRi0wMUIwLCBVKzAzMDAtMDMwMSwgVSswMzAzLTAzMDQsIFUrMDMwOC0wMzA5LCBVKzAzMjMsIFUrMDMyOSwgVSsxRUEwLTFFRjksIFUrMjBBQjsKfQpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ1BsYXlmYWlyIERpc3BsYXknOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNTAwOwogIGZvbnQtZGlzcGxheTogc3dhcDsKICBzcmM6IHVybCgnZm9udHMvcGxheWZhaXItZGlzcGxheS01MDAtbGF0aW4ud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMDAwLTAwRkYsIFUrMDEzMSwgVSswMTUyLTAxNTMsIFUrMDJCQi0wMkJDLCBVKzAyQzYsIFUrMDJEQSwgVSswMkRDLCBVKzAzMDQsIFUrMDMwOCwgVSswMzI5LCBVKzIwMDAtMjA2RiwgVSsyMEFDLCBVKzIxMjIsIFUrMjE5MSwgVSsyMTkzLCBVKzIyMTIsIFUrMjIxNSwgVStGRUZGLCBVK0ZGRkQ7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdQbGF5ZmFpciBEaXNwbGF5JzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDcwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL3BsYXlmYWlyLWRpc3BsYXktNzAwLXZpZXRuYW1lc2Uud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAyLTAxMDMsIFUrMDExMC0wMTExLCBVKzAxMjgtMDEyOSwgVSswMTY4LTAxNjksIFUrMDFBMC0wMUExLCBVKzAxQUYtMDFCMCwgVSswMzAwLTAzMDEsIFUrMDMwMy0wMzA0LCBVKzAzMDgtMDMwOSwgVSswMzIzLCBVKzAzMjksIFUrMUVBMC0xRUY5LCBVKzIwQUI7Cn0KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdQbGF5ZmFpciBEaXNwbGF5JzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDcwMDsKICBmb250LWRpc3BsYXk6IHN3YXA7CiAgc3JjOiB1cmwoJ2ZvbnRzL3BsYXlmYWlyLWRpc3BsYXktNzAwLWxhdGluLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDAwMC0wMEZGLCBVKzAxMzEsIFUrMDE1Mi0wMTUzLCBVKzAyQkItMDJCQywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSswMzA0LCBVKzAzMDgsIFUrMDMyOSwgVSsyMDAwLTIwNkYsIFUrMjBBQywgVSsyMTIyLCBVKzIxOTEsIFUrMjE5MywgVSsyMjEyLCBVKzIyMTUsIFUrRkVGRiwgVStGRkZEOwp9CkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnUGxheWZhaXIgRGlzcGxheSc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA4MDA7CiAgZm9udC1kaXNwbGF5OiBzd2FwOwogIHNyYzogdXJsKCdmb250cy9wbGF5ZmFpci1kaXNwbGF5LTgwMC12aWV0bmFtZXNlLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDEwMi0wMTAzLCBVKzAxMTAtMDExMSwgVSswMTI4LTAxMjksIFUrMDE2OC0wMTY5LCBVKzAxQTAtMDFBMSwgVSswMUFGLTAxQjAsIFUrMDMwMC0wMzAxLCBVKzAzMDMtMDMwNCwgVSswMzA4LTAzMDksIFUrMDMyMywgVSswMzI5LCBVKzFFQTAtMUVGOSwgVSsyMEFCOwp9CkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnUGxheWZhaXIgRGlzcGxheSc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA4MDA7CiAgZm9udC1kaXNwbGF5OiBzd2FwOwogIHNyYzogdXJsKCdmb250cy9wbGF5ZmFpci1kaXNwbGF5LTgwMC1sYXRpbi53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkJCLTAyQkMsIFUrMDJDNiwgVSswMkRBLCBVKzAyREMsIFUrMDMwNCwgVSswMzA4LCBVKzAzMjksIFUrMjAwMC0yMDZGLCBVKzIwQUMsIFUrMjEyMiwgVSsyMTkxLCBVKzIxOTMsIFUrMjIxMiwgVSsyMjE1LCBVK0ZFRkYsIFUrRkZGRDsKfQo=" />
+    <style>
+      :root {
+        --bg: #f7f2e9;
+        --surface: #fffdf8;
+        --surface-2: #efe7d8;
+        --ink: #2b2118;
+        --ink-soft: #5d4f40;
+        --line: #ddd0ba;
+        --burgundy: #7c2128;
+        --burgundy-deep: #5d161c;
+        --gold: #8a6414;
+        --gold-text: #7a560d;
+        --gold-soft: #c9a45c;
+        --green: #3e6b34;
+        --dark-band: #221812;
+        --dark-band-ink: #f3e9d7;
+        --radius: 14px;
+        --shadow: 0 10px 30px rgba(60, 38, 12, 0.12);
       }
-    }catch(e){}
-    if(items.length){list.innerHTML=items.join("");box.hidden=false}
-    else{box.hidden=true;list.innerHTML=""}
-  }
-  window.rvContinue=rvContinue;
-  if(typeof window.render==="function"){
-    var _r=window.render;
-    window.render=function(){_r();try{rvContinue()}catch(e){}};
-  }
-  if(document.readyState!=="loading"){try{rvContinue()}catch(e){}}
-  else{document.addEventListener("DOMContentLoaded",function(){try{rvContinue()}catch(e){}})}
-})();
-</script>
-<script defer src="/_vercel/insights/script.js"></script>
-<script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script><script>var _ip;addEventListener("beforeinstallprompt",function(e){e.preventDefault();_ip=e;var a=document.getElementById("inst");if(a)a.hidden=false});document.addEventListener("click",function(e){if(e.target.id==="inst"&&_ip){_ip.prompt();_ip=null;e.target.hidden=true}})</script><script>
-/* 2026-11-05 (Batch D): #nl is now static canonical 7-link nav in the markup above.
-   This script only re-asserts the identical set: app.js renderTiles() overwrites
-   #nl on every home render, so without this guard the static links would be
-   replaced by its 5-item journey set. (The old "Sách mới cập nhật" footer-label
-   block is gone: that link now lives in the shared footer line above.) */
-(function(){
-var NAV=[["/tac-gia.html","Tác giả","Authors"],["/tieng-viet.html","Tiếng Việt","Vietnamese"],["/sach-noi.html","Sách nói","Audiobooks"],["/bat-dau.html","Bắt đầu","Start here"],["/lo-trinh.html","Lộ trình đọc","Reading path"],["/khoa-hoc.html","Học trực tuyến","Online study"],["/bai-viet/","Bài viết","Articles"]];
-function lang(){return 0/* TẠM ẨN 2026-11-04: English hidden - Vietnamese only */}
-function apply(){
-  var nl=document.getElementById("nl");
-  if(nl){var i=lang(),h=NAV.map(function(m){return '<a href="'+m[0]+'">'+m[1+i]+'</a>'}).join("");if(nl.innerHTML!==h)nl.innerHTML=h;}
-}
-var t=null;function sched(){clearTimeout(t);t=setTimeout(apply,120)}
-apply();
-var nl0=document.getElementById("nl");
-if(nl0&&window.MutationObserver)new MutationObserver(sched).observe(nl0,{childList:true});
-if(window.MutationObserver)new MutationObserver(sched).observe(document.documentElement,{attributes:true,attributeFilter:["lang"]});
-if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",apply);
-})();
-</script>
-<script>
-/* Hero search -> loc-sach.html (2026-11-05: the #q input had no handler at all) */
-(function(){var q=document.getElementById("q");if(q){q.addEventListener("keydown",function(e){if(e.key==="Enter"){var v=q.value.trim();if(v)location.href="/loc-sach.html?q="+encodeURIComponent(v)}})}
-try{var p=new URLSearchParams(location.search).get("q");if(p)location.replace("/loc-sach.html?q="+encodeURIComponent(p))}catch(e){}})();
-</script>
-</body>
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #17120e;
+          --surface: #221a14;
+          --surface-2: #2b211a;
+          --ink: #f0e6d4;
+          --ink-soft: #c4b198;
+          --line: #453729;
+          --burgundy: #d17575;
+          --burgundy-deep: #a84343;
+          --gold: #d3ab5e;
+          --gold-text: #e0ba72;
+          --gold-soft: #c9a45c;
+          --green: #8fbf7f;
+          --dark-band: #0f0b08;
+          --dark-band-ink: #f3e9d7;
+          --shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+        }
+      .nav-cta, .search-box button, .btn.solid, .term-list button.active, .to-top { background: #a84343; }
+      .nav-cta:hover, .search-box button:hover, .btn.solid:hover, .to-top:hover { background: #8f3535; }
+      }
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+        font-family: "Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+        font-size: 16px;
+        line-height: 1.65;
+      }
+      img { max-width: 100%; display: block; }
+      a { color: var(--burgundy); }
+      section { scroll-margin-top: 84px; }
+      .wrap { max-width: 1180px; margin: 0 auto; padding: 0 20px; }
+      h1, h2, h3 { font-family: "Playfair Display", "Noto Serif", serif; line-height: 1.2; margin: 0; }
+      .serif { font-family: "Noto Serif", serif; }
+
+      /* ---------- header ---------- */
+      header.site {
+        position: sticky; top: 0; z-index: 50;
+        background: color-mix(in srgb, var(--bg) 92%, transparent);
+        backdrop-filter: blur(10px);
+        border-bottom: 1px solid var(--line);
+      }
+      .nav-row { display: flex; align-items: center; gap: 22px; min-height: 64px; }
+      .brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; color: var(--ink); flex-shrink: 0; }
+      .brand .mark {
+        font-family: "Playfair Display", serif; font-weight: 800; font-size: 21px;
+        color: var(--burgundy); letter-spacing: 0.01em;
+      }
+      .brand .sub { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
+      nav.main { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+      nav.main a {
+        color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500;
+        padding: 8px 11px; border-radius: 8px; white-space: nowrap;
+      }
+      nav.main a:hover { background: var(--surface-2); color: var(--burgundy); }
+      .nav-cta {
+        flex-shrink: 0; text-decoration: none; font-size: 14px; font-weight: 600;
+        background: var(--burgundy); color: #fff !important; padding: 9px 16px; border-radius: 9px;
+      }
+      .nav-cta:hover { background: var(--burgundy-deep); }
+      .menu-btn {
+        display: none; margin-left: auto; background: none; border: 1px solid var(--line);
+        border-radius: 8px; padding: 8px 10px; color: var(--ink); cursor: pointer;
+      }
+
+      /* ---------- hero ---------- */
+      .hero {
+        position: relative; isolation: isolate; color: #f7ecd9;
+        background: #241611;
+      }
+      .hero::before {
+        content: ""; position: absolute; inset: 0; z-index: -2;
+        background: url("img/hub-hero.webp") center 62% / cover no-repeat;
+      }
+      .hero::after {
+        content: ""; position: absolute; inset: 0; z-index: -1;
+        background: linear-gradient(90deg, rgba(24, 13, 8, 0.88) 0%, rgba(24, 13, 8, 0.66) 46%, rgba(24, 13, 8, 0.18) 78%);
+      }
+      .hero-inner { padding: 84px 0 72px; max-width: 680px; }
+      .hero .verse-line { font-size: 13px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold-soft); font-weight: 600; }
+      .hero h1 { font-size: clamp(34px, 5.4vw, 54px); font-weight: 800; margin: 16px 0 14px; }
+      .hero h1 em { font-style: italic; color: #eec987; }
+      .hero p.lead { font-size: 17.5px; color: #eadfc9; margin: 0 0 28px; max-width: 560px; }
+      .search-box {
+        display: flex; gap: 0; background: #fffdf8; border-radius: 12px; overflow: hidden;
+        box-shadow: 0 14px 34px rgba(0, 0, 0, 0.35); max-width: 580px;
+      }
+      .search-box input {
+        flex: 1; min-width: 0; border: 0; outline: 0; padding: 15px 18px; font-size: 16px;
+        font-family: inherit; color: #2b2118; background: transparent;
+      }
+      .search-box button {
+        border: 0; background: var(--burgundy); color: #fff; font-family: inherit;
+        font-size: 15px; font-weight: 600; padding: 0 22px; cursor: pointer;
+        display: inline-flex; align-items: center; gap: 8px;
+      }
+      .search-box button:hover { background: var(--burgundy-deep); }
+      .quick-links { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 8px; font-size: 13.5px; color: #d9c9ab; align-items: center; }
+      .quick-links button {
+        font-family: inherit; font-size: 13.5px; cursor: pointer;
+        background: rgba(255, 248, 235, 0.12); color: #f3e7cf; border: 1px solid rgba(243, 231, 207, 0.35);
+        padding: 5px 12px; border-radius: 999px;
+      }
+      .quick-links button:hover { background: rgba(255, 248, 235, 0.24); }
+      .search-results {
+        margin-top: 18px; max-width: 580px; background: var(--surface); color: var(--ink);
+        border-radius: 12px; box-shadow: var(--shadow); overflow: hidden; display: none;
+      }
+      .search-results.open { display: block; }
+      .search-results .sr-head { padding: 10px 16px; font-size: 12.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); border-bottom: 1px solid var(--line); }
+      .sr-item { display: flex; gap: 12px; align-items: baseline; width: 100%; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--line); padding: 12px 16px; cursor: pointer; font-family: inherit; color: var(--ink); }
+      .sr-item:last-child { border-bottom: 0; }
+      .sr-item:hover { background: var(--surface-2); }
+      .sr-item .tag { font-size: 11px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--burgundy); flex-shrink: 0; }
+      .sr-item .t { font-weight: 600; font-size: 15px; }
+      .sr-item .d { color: var(--ink-soft); font-size: 13.5px; }
+      .sr-empty { padding: 14px 16px; color: var(--ink-soft); font-size: 14.5px; }
+
+      /* ---------- stats ---------- */
+      .stats { border-bottom: 1px solid var(--line); background: var(--surface); }
+      .stats-row { display: grid; grid-template-columns: repeat(4, 1fr); }
+      .stat { padding: 22px 18px; text-align: center; border-left: 1px solid var(--line); }
+      .stat:first-child { border-left: 0; }
+      .stat .num { font-family: "Playfair Display", serif; font-size: 30px; font-weight: 800; color: var(--burgundy); }
+      .stat .lbl { font-size: 13px; color: var(--ink-soft); margin-top: 2px; }
+
+      /* ---------- generic section ---------- */
+      .section { padding: 72px 0 8px; }
+      .section-head { max-width: 720px; margin-bottom: 30px; }
+      .section-head h2 { font-size: clamp(26px, 3.6vw, 36px); font-weight: 800; }
+      .section-head p { color: var(--ink-soft); margin: 10px 0 0; font-size: 16.5px; }
+      .section-head .rule { width: 54px; height: 3px; background: var(--gold); margin-bottom: 16px; border-radius: 2px; }
+
+      /* ---------- paths ---------- */
+      .paths { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+      .path-card {
+        background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+        padding: 26px 24px; text-decoration: none; color: var(--ink); display: block;
+      }
+      .path-card:hover { border-color: var(--gold-soft); box-shadow: var(--shadow); }
+      .path-card .step { font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold-text); }
+      .path-card h3 { font-size: 21px; margin: 8px 0 8px; }
+      .path-card p { margin: 0 0 14px; color: var(--ink-soft); font-size: 15px; }
+      .path-card .go { font-weight: 600; font-size: 14.5px; color: var(--burgundy); }
+
+      /* ---------- modules ---------- */
+      .modules { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+      .module {
+        background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+        padding: 24px; text-decoration: none; color: var(--ink); display: flex; flex-direction: column; gap: 8px;
+      }
+      a.module:hover { border-color: var(--gold-soft); box-shadow: var(--shadow); }
+      .module .icon {
+        width: 44px; height: 44px; border-radius: 10px; display: grid; place-items: center;
+        background: var(--surface-2); color: var(--burgundy);
+      }
+      .module h3 { font-size: 19px; }
+      .module p { margin: 0; color: var(--ink-soft); font-size: 14.5px; flex: 1; }
+      .module .meta { display: flex; align-items: center; gap: 8px; margin-top: 6px; }
+      .pill { font-size: 11.5px; font-weight: 700; letter-spacing: 0.04em; padding: 3px 10px; border-radius: 999px; }
+      .pill.live { background: color-mix(in srgb, var(--green) 16%, transparent); color: var(--green); }
+      .pill.phase { background: color-mix(in srgb, var(--gold) 18%, transparent); color: var(--gold-text); }
+      .pill.app { background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); }
+      .module .count { font-size: 13px; color: var(--ink-soft); margin-left: auto; }
+
+      /* ---------- book shelf ---------- */
+      .shelf { display: grid; grid-template-columns: repeat(3, 1fr); gap: 26px 22px; }
+      .book { display: flex; gap: 18px; align-items: flex-start; }
+      .cover {
+        width: 118px; aspect-ratio: 2 / 3; flex-shrink: 0; border-radius: 4px 8px 8px 4px;
+        position: relative; padding: 14px 10px; display: flex; flex-direction: column; align-items: center;
+        text-align: center; color: #f5ecd9; box-shadow: 6px 8px 18px rgba(50, 30, 8, 0.28);
+        overflow: hidden;
+      }
+      .cover::before {
+        content: ""; position: absolute; inset: 6px; border: 1px solid rgba(220, 182, 106, 0.85);
+        outline: 1px solid rgba(220, 182, 106, 0.45); outline-offset: 3px; pointer-events: none;
+      }
+      .cover::after { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 5px; background: rgba(0,0,0,0.28); }
+      .cover .motif { color: #dcb66a; margin-top: 4px; }
+      .cover .ct { font-family: "Noto Serif", serif; font-weight: 700; font-size: 13.5px; line-height: 1.35; margin-top: 10px;
+        display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+      .cover .ca { font-size: 8.5px; letter-spacing: 0.18em; text-transform: uppercase; margin-top: auto; color: #e8d9b8; }
+      .cover .ci { font-size: 7px; letter-spacing: 0.22em; margin-top: 5px; color: rgba(245, 236, 217, 0.75); }
+      .c-burgundy { background: linear-gradient(160deg, #7c2128, #4d1218); }
+      .c-navy { background: linear-gradient(160deg, #27435f, #16283c); }
+      .c-forest { background: linear-gradient(160deg, #33523a, #1d3323); }
+      .c-brown { background: linear-gradient(160deg, #6e4525, #422812); }
+      .c-plum { background: linear-gradient(160deg, #59304a, #37203a); }
+      .c-teal { background: linear-gradient(160deg, #20555a, #123539); }
+      .book-info h3 { font-size: 18px; margin-bottom: 4px; }
+      .book-info .author { font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--gold-text); font-weight: 600; }
+      .book-info p { margin: 8px 0 12px; color: var(--ink-soft); font-size: 14.5px; }
+      .book-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+      .btn {
+        display: inline-block; text-decoration: none; font-size: 13.5px; font-weight: 600;
+        padding: 7px 14px; border-radius: 8px; border: 1px solid var(--burgundy); color: var(--burgundy);
+      }
+      .btn.solid { background: var(--burgundy); color: #fff; }
+      .btn.solid:hover { background: var(--burgundy-deep); }
+      .btn:not(.solid):hover { background: color-mix(in srgb, var(--burgundy) 8%, transparent); }
+      .book.highlight .cover { outline: 3px solid var(--gold); outline-offset: 3px; }
+
+      /* ---------- two-col feature band ---------- */
+      .duo { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; align-items: stretch; }
+      .panel {
+        background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+        padding: 28px; display: flex; flex-direction: column;
+      }
+      .panel h3 { font-size: 23px; margin-bottom: 6px; }
+      .panel .kicker { font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold-text); }
+      .panel p { color: var(--ink-soft); }
+
+      /* catechism */
+      .cat-q { font-family: "Noto Serif", serif; font-size: 20px; font-weight: 700; line-height: 1.45; margin: 14px 0 10px; }
+      .cat-a { font-family: "Noto Serif", serif; font-size: 16.5px; line-height: 1.7; margin: 0 0 12px; }
+      .cat-refs { font-size: 13.5px; color: var(--gold-text); font-weight: 600; margin-bottom: 18px; }
+      .cat-nav { display: flex; align-items: center; gap: 12px; margin-top: auto; }
+      .cat-nav button {
+        font-family: inherit; font-size: 14px; font-weight: 600; cursor: pointer;
+        border: 1px solid var(--line); background: var(--surface-2); color: var(--ink);
+        border-radius: 8px; padding: 8px 14px; display: inline-flex; align-items: center; gap: 6px;
+      }
+      .cat-nav button:disabled { opacity: 0.4; cursor: default; }
+      .cat-nav .pos { margin-left: auto; font-size: 13.5px; color: var(--ink-soft); }
+
+      /* devotion */
+      .dev-date { font-size: 13.5px; color: var(--ink-soft); }
+      .dev-verse {
+        font-family: "Noto Serif", serif; font-style: italic; font-size: 19px; line-height: 1.6;
+        border-left: 3px solid var(--gold); padding-left: 16px; margin: 16px 0 6px;
+      }
+      .dev-ref { font-size: 13.5px; font-weight: 600; color: var(--burgundy); margin-bottom: 12px; }
+
+      /* ---------- encyclopedia ---------- */
+      .terms-layout { display: grid; grid-template-columns: 300px 1fr; gap: 22px; align-items: start; }
+      .term-list { display: flex; flex-direction: column; gap: 6px; }
+      .term-list button {
+        font-family: inherit; text-align: left; font-size: 15.5px; font-weight: 500; cursor: pointer;
+        background: var(--surface); border: 1px solid var(--line); color: var(--ink);
+        padding: 11px 16px; border-radius: 10px; display: flex; justify-content: space-between; align-items: center;
+      }
+      .term-list button:hover { border-color: var(--gold-soft); }
+      .term-list button.active { background: var(--burgundy); border-color: var(--burgundy); color: #fff; }
+      .term-panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 30px; }
+      .term-panel h3 { font-size: 27px; margin-bottom: 4px; }
+      .term-panel .en { font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold-text); font-weight: 600; }
+      .term-panel p { font-size: 16.5px; line-height: 1.75; }
+      .term-related { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 14px; color: var(--ink-soft); }
+      .term-related button {
+        font-family: inherit; font-size: 14px; cursor: pointer; background: none; border: 0; padding: 0;
+        color: var(--burgundy); font-weight: 600; text-decoration: underline; text-underline-offset: 3px;
+      }
+
+      /* ---------- academy ---------- */
+      .academy { display: grid; grid-template-columns: 5fr 7fr; gap: 26px; align-items: center; }
+      .academy figure { margin: 0; border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); }
+      .academy figure img { width: 100%; height: 100%; object-fit: cover; }
+      .course { padding: 18px 0; border-bottom: 1px solid var(--line); display: flex; gap: 16px; align-items: baseline; }
+      .course:last-of-type { border-bottom: 0; }
+      .course h3 { font-size: 19px; }
+      .course p { margin: 4px 0 0; color: var(--ink-soft); font-size: 14.5px; }
+      .course .lvl { margin-left: auto; flex-shrink: 0; font-size: 12px; font-weight: 700; letter-spacing: 0.05em; padding: 4px 11px; border-radius: 999px; background: var(--surface-2); color: var(--ink-soft); white-space: nowrap; }
+      @media (prefers-color-scheme: dark) { .course .lvl { background: var(--surface-2); } }
+
+      /* ---------- answers ---------- */
+      .qa { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); overflow: hidden; }
+      .qa-item + .qa-item { border-top: 1px solid var(--line); }
+      .qa-q {
+        width: 100%; display: flex; align-items: center; gap: 14px; text-align: left; cursor: pointer;
+        background: none; border: 0; font-family: inherit; color: var(--ink);
+        font-size: 16.5px; font-weight: 600; padding: 20px 22px;
+      }
+      .qa-q .chev { margin-left: auto; color: var(--gold-text); transition: transform 0.2s; flex-shrink: 0; }
+      .qa-item.open .qa-q .chev { transform: rotate(180deg); }
+      .qa-a { display: none; padding: 0 22px 22px; color: var(--ink-soft); font-size: 15.5px; max-width: 860px; }
+      .qa-item.open .qa-a { display: block; }
+      .qa-a .src { margin-top: 10px; font-size: 13.5px; font-weight: 600; color: var(--burgundy); }
+
+      /* ---------- journal ---------- */
+      .articles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+      .article { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; text-decoration: none; color: var(--ink); display: block; }
+      .article:hover { border-color: var(--gold-soft); box-shadow: var(--shadow); }
+      .article .cat { font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold-text); }
+      .article h3 { font-size: 19px; margin: 9px 0 8px; line-height: 1.35; }
+      .article p { margin: 0 0 14px; color: var(--ink-soft); font-size: 14.5px; }
+      .article .meta { font-size: 13px; color: var(--ink-soft); }
+
+      /* ---------- app CTA ---------- */
+      .cta-band {
+        margin-top: 76px; background: var(--dark-band); color: var(--dark-band-ink);
+        border-radius: 20px; padding: 44px; display: grid; grid-template-columns: 1.4fr 1fr; gap: 30px; align-items: center;
+      }
+      .cta-band h2 { font-size: clamp(24px, 3vw, 32px); color: #f7ecd9; }
+      .cta-band p { color: #d8c6a4; margin: 12px 0 0; }
+      .cta-band .btn-app {
+        justify-self: end; background: #c9a45c; color: #241a08; text-decoration: none;
+        font-weight: 700; font-size: 16px; padding: 15px 26px; border-radius: 11px; white-space: nowrap;
+      }
+      .cta-band .btn-app:hover { background: var(--gold-soft); }
+      .cta-points { display: flex; flex-direction: column; gap: 8px; font-size: 15px; color: #e6d7b8; margin-top: 18px; }
+      .cta-points span::before { content: "— "; color: var(--gold-soft); }
+
+      /* ---------- footer ---------- */
+      footer.site { margin-top: 80px; border-top: 1px solid var(--line); background: var(--surface); }
+      .foot-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 30px; padding: 46px 0 30px; }
+      footer.site h4 { font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft); margin: 0 0 14px; font-family: "Be Vietnam Pro", sans-serif; }
+      footer.site ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 9px; font-size: 14.5px; }
+      footer.site a { color: var(--ink); text-decoration: none; }
+      footer.site a:hover { color: var(--burgundy); }
+      .foot-about { font-size: 14.5px; color: var(--ink-soft); max-width: 340px; }
+      .foot-bottom { border-top: 1px solid var(--line); padding: 18px 0 26px; font-size: 13px; color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 8px 22px; }
+
+      .gloss { display: block; font-size: 12.5px; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; text-transform: none; margin-top: 2px; }
+      nav.main a .gloss { font-size: 11.5px; line-height: 1.3; }
+      .module h3 .gloss, .panel h3 .gloss { font-family: "Be Vietnam Pro", sans-serif; }
+      .ai-label { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--gold) 20%, transparent); color: var(--gold-text); margin-top: 8px; }
+      .sample-tag { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: 0.03em; padding: 3px 9px; border-radius: 999px; background: color-mix(in srgb, var(--burgundy) 12%, transparent); color: var(--burgundy); margin-left: 8px; vertical-align: middle; }
+      .qa-a p { margin: 0 0 10px; }
+      .qa-a p:last-of-type { margin-bottom: 0; }
+      .intro-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; align-items: start; }
+      .intro-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 28px; }
+      .intro-card h3 { font-size: 21px; margin-bottom: 10px; }
+      .intro-card p { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 12px; }
+      .intro-card p:last-child { margin-bottom: 0; }
+      .intro-card .prayer { font-family: "Noto Serif", serif; font-style: italic; color: var(--ink); background: var(--surface-2); border-radius: 10px; padding: 16px 18px; }
+      @media (max-width: 720px) { .intro-grid { grid-template-columns: 1fr; } }
+
+      /* ---------- share ---------- */
+      .share-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-top: 26px; }
+      .share-bar .share-lbl { font-size: 13px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft); margin-right: 2px; }
+      .share-btn { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; font-size: 14px; font-weight: 600; padding: 9px 16px; border-radius: 9px; color: #fff; }
+      .share-btn.fb { background: #1877f2; }
+      .share-btn.fb:hover { background: #0f66d6; }
+      .share-btn.zalo { background: #0068ff; }
+      .share-btn.zalo:hover { background: #0053cc; }
+
+      /* ---------- back to top ---------- */
+      .to-top {
+        position: fixed; right: 18px; bottom: 18px; z-index: 60; width: 46px; height: 46px;
+        border-radius: 50%; border: 0; cursor: pointer; background: var(--burgundy); color: #fff;
+        display: grid; place-items: center; box-shadow: var(--shadow);
+      }
+      .to-top:hover { background: var(--burgundy-deep); }
+
+      /* ---------- responsive ---------- */
+      @media (max-width: 1180px) {
+        .brand .sub { display: none; }
+        nav.main a { padding: 8px 8px; font-size: 14px; }
+        .nav-row { gap: 14px; }
+      }
+      @media (max-width: 960px) {
+        .modules, .articles { grid-template-columns: repeat(2, 1fr); }
+        .shelf { grid-template-columns: repeat(2, 1fr); }
+        .terms-layout { grid-template-columns: 1fr; }
+        .term-list { flex-direction: row; flex-wrap: wrap; }
+        .term-list button { flex: 1 1 42%; }
+        .academy { grid-template-columns: 1fr; }
+        .foot-grid { grid-template-columns: 1fr 1fr; }
+      }
+      @media (max-width: 720px) {
+        nav.main {
+          display: none; position: absolute; top: 100%; left: 0; right: 0;
+          background: var(--surface); border-bottom: 1px solid var(--line);
+          flex-direction: column; padding: 10px 16px 16px; gap: 2px;
+        }
+        nav.main.open { display: flex; }
+        .menu-btn { display: block; }
+        .nav-cta { display: none; }
+        header.site .wrap { position: relative; }
+        .hero-inner { padding: 56px 0 52px; }
+        .stats-row { grid-template-columns: repeat(2, 1fr); }
+        .stat:nth-child(3) { border-left: 0; }
+        .stat { border-top: 1px solid var(--line); }
+        .stat:nth-child(-n+2) { border-top: 0; }
+        .paths, .duo, .cta-band { grid-template-columns: 1fr; }
+        .cta-band { padding: 32px 24px; }
+        .cta-band .btn-app { justify-self: start; }
+        .section { padding-top: 54px; }
+      }
+      @media (max-width: 520px) {
+        .modules, .articles, .shelf { grid-template-columns: 1fr; }
+        .brand .sub { display: none; }
+        .search-box button span { display: none; }
+        .foot-grid { grid-template-columns: 1fr; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        html { scroll-behavior: auto; }
+        .qa-q .chev { transition: none; }
+      }
+    </style>
+  </head>
+  <body>
+
+    <header class="site">
+      <div class="wrap">
+        <div class="nav-row">
+          <a class="brand" href="#top">
+            <span class="mark">Reformed Vietnam</span>
+            <span class="sub">Thư viện Cải Chánh</span>
+          </a>
+          <button class="menu-btn" id="menuBtn" aria-label="Mở menu" aria-expanded="false">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+          </button>
+          <nav class="main" id="mainNav">
+            <a href="#thu-vien">Thư Viện<span class="gloss">Kho sách để đọc</span></a>
+            <a href="#giao-ly">Giáo Lý<span class="gloss">Câu hỏi đáp ngắn về đức tin</span></a>
+            <a href="#bach-khoa">Bách Khoa<span class="gloss">Giải nghĩa các từ thần học</span></a>
+            <a href="#hoi-dap">Hỏi Đáp<span class="gloss">Giải đáp thắc mắc thường gặp</span></a>
+            <a href="#hoc-vien">Học Viện<span class="gloss">Khóa học theo từng bước</span></a>
+            <a href="#bai-giang">Bài Giảng<span class="gloss">Nghe giảng theo đoạn Kinh Thánh</span></a>
+            <a href="#thanh-ca">Thánh Ca<span class="gloss">Bài hát thờ phượng</span></a>
+          </nav>
+          <a class="nav-cta" href="#tinh-nguyen">Tĩnh Nguyện Hôm Nay</a>
+        </div>
+      </div>
+    </header>
+
+    <main id="top">
+      <!-- HERO -->
+      <div class="hero">
+        <div class="wrap">
+          <div class="hero-inner">
+            <div class="verse-line">II Phi-e-rơ 3:18</div>
+            <h1>Lớn lên trong <em>ân điển</em> và sự hiểu biết Chúa</h1>
+            <p class="lead">Sách, giáo lý, khóa học, bài giảng và thánh ca Cải Chánh tiếng Việt — mọi nguồn lực cho đời sống đức tin, gom về một nơi duy nhất.</p>
+            <form class="search-box" id="searchForm" role="search">
+              <input id="searchInput" type="search" placeholder="Tìm sách, thuật ngữ, câu hỏi… (gõ không dấu cũng được)" aria-label="Tìm kiếm" autocomplete="off" />
+              <button type="submit">
+                <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg>
+                <span>Tìm</span>
+              </button>
+            </form>
+            <div class="search-results" id="searchResults" aria-live="polite"></div>
+            <div class="share-bar">
+              <span class="share-lbl" style="color:#d9c9ab">Chia sẻ trang này</span>
+              <a class="share-btn fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freformed-vietnam.vercel.app%2F" target="_blank" rel="noopener" aria-label="Chia sẻ lên Facebook">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.5 21v-7.2h2.4l.4-2.8h-2.8V9.2c0-.8.2-1.4 1.4-1.4h1.5V5.3c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2H8v2.8h2.5V21h3z"/></svg>
+                Facebook
+              </a>
+              <a class="share-btn zalo" href="https://sp.zalo.me/share_inline?url=https%3A%2F%2Freformed-vietnam.vercel.app%2F" target="_blank" rel="noopener" aria-label="Chia sẻ qua Zalo">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.5 8.5 0 0 1-8.5 8.5c-1.5 0-2.9-.4-4.1-1L3 20l1.1-5.2A8.5 8.5 0 1 1 21 11.5z"/></svg>
+                Zalo
+              </a>
+            </div>
+            <div class="quick-links">
+              <span>Thử tìm:</span>
+              <button type="button" data-q="tiền định">tiền định</button>
+              <button type="button" data-q="Spurgeon">Spurgeon</button>
+              <button type="button" data-q="xưng công chính">xưng công chính</button>
+              <button type="button" data-q="cầu nguyện">cầu nguyện</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- STATS -->
+      <div class="stats">
+        <div class="wrap">
+          <div class="stats-row">
+            <div class="stat"><div class="num">2.800+</div><div class="lbl">đầu sách tiếng Việt trong thư viện</div></div>
+            <div class="stat"><div class="num">107</div><div class="lbl">câu Tín Lý Yếu Lược Westminster</div></div>
+            <div class="stat"><div class="num">366</div><div class="lbl">bài tĩnh nguyện Spurgeon mỗi ngày</div></div>
+            <div class="stat"><div class="num">66</div><div class="lbl">sách Kinh Thánh 1934 trọn bộ</div></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- PATHS -->
+      
+      <section class="section" id="bat-dau">
+        <div class="wrap">
+          <div class="section-head">
+            <div class="rule"></div>
+            <h2>Bắt đầu từ đâu?</h2>
+            <p>Ba lối vào tùy theo chỗ bạn đang đứng trong hành trình đức tin.</p>
+          </div>
+          <div class="paths">
+            <a class="path-card" href="#tin-chua">
+              <div class="step">Lối 1 · Nền tảng</div>
+              <h3>Mới tin Chúa</h3>
+              <p>Bắt đầu nhẹ nhàng với phần “Tin Chúa là gì?” bằng lời lẽ đời thường. Khi đã sẵn sàng, bước tiếp theo là Tín Lý Yếu Lược Westminster — 107 câu hỏi đáp ngắn gọn — cùng bài tĩnh nguyện mỗi sáng.</p>
+              <span class="go">Tin Chúa là gì? Bắt đầu tại đây →</span>
+            </a>
+            <a class="path-card" href="#thu-vien">
+              <div class="step">Lối 2 · Đào sâu</div>
+              <h3>Đang lớn lên</h3>
+              <p>Đọc các tác phẩm kinh điển của Bunyan, Calvin, Owen và Spurgeon; tra cứu từng thuật ngữ thần học trong Bách Khoa và đặt câu hỏi ở mục Hỏi Đáp.</p>
+              <span class="go">Vào thư viện sách →</span>
+            </a>
+            <a class="path-card" href="#hoc-vien">
+              <div class="step">Lối 3 · Trang bị</div>
+              <h3>Mục sư &amp; người dạy</h3>
+              <p>Theo lộ trình Học Viện theo từng cấp độ, dùng tài liệu Hội Thánh lành mạnh cho nhóm nhỏ, và tìm bài giảng theo từng phân đoạn Kinh Thánh.</p>
+              <span class="go">Xem lộ trình học →</span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="tin-chua">
+        <div class="wrap">
+          <div class="section-head">
+            <div class="rule"></div>
+            <h2>Tin Chúa là gì?</h2>
+            <p>Nếu bạn mới nghe về Chúa, hoặc vừa quyết định tin Ngài, hãy bắt đầu ở đây — bằng những lời đơn giản nhất. Chưa cần biết các từ khó; những phần sau của trang sẽ giải nghĩa dần cho bạn.</p>
+          </div>
+          <div class="intro-grid">
+            <div class="intro-card">
+              <h3>Nói một cách đơn giản</h3>
+              <p>Tin Chúa là tin rằng có một Đức Chúa Trời đã tạo dựng nên bạn và yêu thương bạn. Ngài sai Con Ngài là Chúa Giê-xu đến thế gian: Ngài sống đời trọn vẹn, chịu chết trên thập tự giá thay cho tội lỗi của con người, và sống lại sau ba ngày.</p>
+              <p>Tin Chúa không phải là “làm nhiều việc lành để được lên thiên đàng”. Tin là nhận biết mình có tội, quay lưng khỏi tội, và đặt trọn lòng tin cậy nơi Chúa Giê-xu để được tha thứ và bắt đầu một đời sống mới với Ngài.</p>
+              <p>Bạn không cần phải “tốt hơn trước rồi mới đến với Chúa”. Bạn đến với Ngài như bạn đang là, và chính Ngài sẽ đổi mới bạn dần dần.</p>
+            </div>
+            <div class="intro-card">
+              <h3>Bạn có thể bắt đầu ngay hôm nay</h3>
+              <p><strong>1. Nói chuyện với Chúa (cầu nguyện).</strong> Không cần lời lẽ hoa mỹ — cứ thưa thật lòng. Bạn có thể cầu nguyện theo gợi ý này:</p>
+              <p class="prayer">“Lạy Chúa Giê-xu, con biết con là người có tội và cần được Ngài tha thứ. Con tin Ngài đã chết thay cho con và đã sống lại. Xin Ngài tha tội cho con, bước vào đời sống con và dẫn dắt con từ hôm nay. A-men.”</p>
+              <p><strong>2. Đọc Kinh Thánh mỗi ngày.</strong> Bắt đầu với sách Phúc Âm Giăng, mỗi ngày một đoạn ngắn.</p>
+              <p><strong>3. Tìm một Hội Thánh gần nhà</strong> và cho họ biết bạn mới tin Chúa — bạn không cần đi con đường này một mình.</p>
+              <p style="margin-top:16px"><a class="btn solid" href="#giao-ly">Bước tiếp theo: học những câu hỏi – đáp ngắn về đức tin →</a></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="tinh-nguyen">
+        <div class="wrap">
+          <div class="duo" style="grid-template-columns:1fr;max-width:680px;margin:0 auto">
+            <div class="panel">
+              <div class="kicker">Ân Điển Mỗi Ngày · Spurgeon</div>
+              <h3>Tĩnh nguyện hôm nay</h3>
+              <div class="dev-date">Thứ Sáu, 6 tháng 11, 2026 · Bài ngày 6/11 trong “Sổ Séc Của Đức Tin” (1888) — bài “Niềm Vui Và Ước Vọng”<span class="ai-label">Bản dịch AI, chưa duyệt</span></div>
+              <blockquote class="dev-verse">“Hãy vui mừng trong Đức Giê-hô-va; thì Ngài sẽ ban cho ngươi những điều lòng ngươi ước vọng.”</blockquote>
+              <div class="dev-ref">Thi Thiên 37:4</div>
+              <p>Vui mừng trong Đức Chúa Trời có một quyền năng biến đổi, và nâng con người lên trên những ước muốn thô tục của bản tính sa ngã chúng ta. Vui mừng trong Đức Giê-hô-va không chỉ ngọt ngào tự nó, mà nó còn làm ngọt ngào cả linh hồn, cho đến khi những khao khát của lòng trở nên như những khao khát của Đức Chúa Trời đến nỗi Ngài có thể an toàn hứa thực hiện chúng. Há chẳng phải là một niềm vui lớn lao sao khi nó uốn nắn ước vọng của chúng ta cho đến khi chúng giống như ước vọng của Đức Chúa Trời?</p>
+              <p>Cách khờ dại của chúng ta là ước muốn, rồi bắt tay làm để đạt được điều chúng ta ước muốn. Chúng ta không làm theo cách của Đức Chúa Trời, là tìm kiếm Ngài trước, rồi trông đợi mọi sự sẽ được thêm cho chúng ta. Nếu chúng ta để lòng mình được đầy dẫy Đức Chúa Trời cho đến khi tràn ngập niềm vui, thì chính Chúa sẽ lo liệu để chúng ta không thiếu điều tốt lành nào. Thay vì đi xa tìm niềm vui, chúng ta hãy ở nhà với Đức Chúa Trời, và uống nước từ chính giếng của mình. Ngài có thể làm cho chúng ta nhiều hơn tất cả bạn bè chúng ta. Thà thỏa lòng với một mình Đức Chúa Trời còn hơn đi đây đi đó lo lắng và mòn mỏi vì những điều phù phiếm của thời gian và giác quan. Trong một thời gian chúng ta có thể gặp thất vọng; nhưng nếu những điều này đưa chúng ta đến gần Chúa hơn, chúng là những điều đáng quý vô cùng, vì cuối cùng chúng sẽ đảm bảo cho chúng ta sự ứng nghiệm của mọi ước vọng chính đáng.</p>
+              <p style="margin-top:auto"><span class="pill phase">Sắp ra mắt</span> Trọn bộ 366 bài tĩnh nguyện sẽ có ngay tại trang này.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="thu-vien">
+        <div class="wrap">
+          <div class="section-head">
+            <div class="rule"></div>
+            <h2>Sách tiêu biểu trong thư viện</h2>
+            <p>Những tác phẩm kinh điển đã định hình truyền thống Cải Chánh — dịch từ nguyên tác thuộc phạm vi công cộng, đọc miễn phí trọn bộ.</p>
+          </div>
+          <div class="shelf">
+            <article class="book" data-book="thien-lo-lich-trinh">
+              <div class="cover c-burgundy">
+                <span class="motif"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M4 20c5-1 4-6 8-7s3-6 8-8"/><circle cx="4" cy="20" r="1.4"/><circle cx="20" cy="5" r="1.4"/></svg></span>
+                <div class="ct">Thiên Lộ Lịch Trình</div>
+                <div class="ca">John Bunyan</div>
+                <div class="ci">Thư Viện Cải Chánh</div>
+              </div>
+              <div class="book-info">
+                <div class="author">John Bunyan · 1678</div>
+                <span class="ai-label">Bản dịch AI, chưa duyệt</span>
+                <h3>Thiên Lộ Lịch Trình</h3>
+                <p>Hành trình của người lữ hành Cơ Đốc từ Thành Hủy Diệt đến Thành Thiên Quốc — ẩn dụ đức tin được đọc nhiều bậc nhất lịch sử.</p>
+                <div class="book-actions"><a class="btn solid" href="/thu-vien.html">Đọc trong thư viện</a></div>
+              </div>
+            </article>
+
+            <article class="book" data-book="the-che-co-doc-giao">
+              <div class="cover c-navy">
+                <span class="motif"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M12 3v18"/><path d="M6 9h12"/></svg></span>
+                <div class="ct">Thể Chế Cơ Đốc Giáo</div>
+                <div class="ca">John Calvin</div>
+                <div class="ci">Thư Viện Cải Chánh</div>
+              </div>
+              <div class="book-info">
+                <div class="author">John Calvin · 1559</div>
+                <span class="ai-label">Bản dịch AI, chưa duyệt</span>
+                <h3>Thể Chế Cơ Đốc Giáo</h3>
+                <p>Bộ thần học hệ thống nền tảng của phong trào Cải Chánh: sự hiểu biết Đức Chúa Trời, sự cứu chuộc và đời sống Hội Thánh.</p>
+                <div class="book-actions"><a class="btn solid" href="/thu-vien.html">Đọc trong thư viện</a></div>
+              </div>
+            </article>
+
+            <article class="book" data-book="so-sec-cua-duc-tin">
+              <div class="cover c-forest">
+                <span class="motif"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M12 3l2.7 5.8 6.3.7-4.6 4.3 1.2 6.2L12 17l-5.6 3 1.2-6.2L3 9.5l6.3-.7z"/></svg></span>
+                <div class="ct">Sổ Séc Của Đức Tin</div>
+                <div class="ca">C. H. Spurgeon</div>
+                <div class="ci">Thư Viện Cải Chánh</div>
+              </div>
+              <div class="book-info">
+                <div class="author">Charles H. Spurgeon · 1888</div>
+                <span class="ai-label">Bản dịch AI, chưa duyệt</span>
+                <h3>Sổ Séc Của Đức Tin</h3>
+                <p>366 bài tĩnh nguyện theo từng lời hứa trong Kinh Thánh — mỗi ngày một “tấm séc” để rút ra bởi đức tin.</p>
+                <div class="book-actions"><a class="btn solid" href="#tinh-nguyen">Đọc bài hôm nay</a><a class="btn" href="/thu-vien.html">Đọc trong thư viện</a></div>
+              </div>
+            </article>
+
+            <article class="book" data-book="chu-quyen-duc-chua-troi">
+              <div class="cover c-brown">
+                <span class="motif"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M3 18h18"/><path d="M4 18l-1-9 5 4 4-7 4 7 5-4-1 9z"/></svg></span>
+                <div class="ct">Chủ Quyền Của Đức Chúa Trời</div>
+                <div class="ca">A. W. Pink</div>
+                <div class="ci">Thư Viện Cải Chánh</div>
+              </div>
+              <div class="book-info">
+                <div class="author">A. W. Pink · 1918</div>
+                <span class="ai-label">Bản dịch AI, chưa duyệt</span>
+                <h3>Chủ Quyền Của Đức Chúa Trời</h3>
+                <p>Trình bày giáo lý về quyền tể trị tuyệt đối của Đức Chúa Trời trong sáng tạo, quan phòng và sự cứu rỗi.</p>
+                <div class="book-actions"><a class="btn solid" href="/thu-vien.html">Đọc trong thư viện</a></div>
+              </div>
+            </article>
+
+            <article class="book" data-book="tinh-cam-ton-giao">
+              <div class="cover c-plum">
+                <span class="motif"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M12 21c-4 0-7-2.8-7-6.5C5 10 9 6.5 12 3c3 3.5 7 7 7 11.5C19 18.2 16 21 12 21z"/><path d="M12 21c-1.8 0-3-1.3-3-3 0-2 1.6-3.4 3-5 1.4 1.6 3 3 3 5 0 1.7-1.2 3-3 3z"/></svg></span>
+                <div class="ct">Tình Cảm Tôn Giáo</div>
+                <div class="ca">Jonathan Edwards</div>
+                <div class="ci">Thư Viện Cải Chánh</div>
+              </div>
+              <div class="book-info">
+                <div class="author">Jonathan Edwards · 1746</div>
+                <span class="ai-label">Bản dịch AI, chưa duyệt</span>
+                <h3>Tình Cảm Tôn Giáo</h3>
+                <p>Phân biệt kinh nghiệm đức tin thật với cảm xúc tôn giáo bề ngoài, viết từ cơn phấn hưng Đại Tỉnh Thức.</p>
+                <div class="book-actions"><a class="btn solid" href="/thu-vien.html">Đọc trong thư viện</a></div>
+              </div>
+            </article>
+
+            <article class="book" data-book="toi-loi-cu-ngu">
+              <div class="cover c-teal">
+                <span class="motif"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M12 3l7 3v5c0 5-3.2 8.4-7 10-3.8-1.6-7-5-7-10V6z"/><path d="M12 8v6"/><path d="M9 11h6"/></svg></span>
+                <div class="ct">Tội Lỗi Cư Ngụ Trong Tín Hữu</div>
+                <div class="ca">John Owen</div>
+                <div class="ci">Thư Viện Cải Chánh</div>
+              </div>
+              <div class="book-info">
+                <div class="author">John Owen · 1668</div>
+                <span class="ai-label">Bản dịch AI, chưa duyệt</span>
+                <h3>Tội Lỗi Cư Ngụ Trong Tín Hữu</h3>
+                <p>Luận giải Rô-ma 7: bản chất, quyền lực và mưu chước của tội lỗi còn lại trong tín hữu — cùng cách chống trả mỗi ngày.</p>
+                <div class="book-actions"><a class="btn solid" href="/thu-vien.html">Đọc trong thư viện</a></div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="giao-ly">
+        <div class="wrap">
+          <div class="duo" style="grid-template-columns:1fr;max-width:680px;margin:0 auto">
+            <div class="panel">
+              <div class="kicker">Giáo Lý Hỏi Đáp · Westminster</div>
+              <h3>Tín Lý Yếu Lược<span class="gloss">Bản tóm tắt đức tin bằng 107 câu hỏi – đáp ngắn gọn</span></h3>
+              <div><span class="ai-label">Bản dịch AI, chưa duyệt</span></div>
+              <div class="cat-q" id="catQ"></div>
+              <p class="cat-a" id="catA"></p>
+              <div class="cat-refs" id="catRefs"></div>
+              <div class="cat-nav">
+                <button id="catPrev" type="button">
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+                  Câu trước
+                </button>
+                <button id="catNext" type="button">
+                  Câu sau
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+                </button>
+                <span class="pos" id="catPos"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="bach-khoa">
+        <div class="wrap">
+          <div class="section-head">
+            <div class="rule"></div>
+            <h2>Bách Khoa Thần Học</h2>
+            <p class="gloss" style="font-size:14.5px; margin-top:6px">Nói đơn giản: đây là từ điển tra cứu — gặp từ khó như “tiền định” hay “giao ước”, bạn vào đây để đọc giải nghĩa dễ hiểu.</p>
+            <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+            <p>Mỗi thuật ngữ một trang tra cứu: định nghĩa, căn cứ Kinh Thánh và sách liên quan trong thư viện. Chọn một thuật ngữ để xem thử.</p>
+          </div>
+          <div class="terms-layout">
+            <div class="term-list" id="termList" role="tablist" aria-label="Thuật ngữ thần học"></div>
+            <div class="term-panel">
+              <div class="en" id="termEn"></div>
+              <h3 id="termName"></h3>
+              <p id="termDef"></p>
+              <p id="termVerse" style="font-weight:600; color: var(--burgundy);"></p>
+              <div class="term-related">Thuật ngữ liên quan: <span id="termRelated"></span></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="hoi-dap">
+        <div class="wrap">
+          <div class="section-head">
+            <div class="rule"></div>
+            <h2>Hỏi Đáp Cải Chánh</h2>
+            <p>Câu hỏi thật, trả lời có căn cứ. Bấm vào từng câu để đọc phần giải đáp.</p>
+            <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+          </div>
+          <div class="qa" id="qaList">
+            <div class="qa-item">
+              <button class="qa-q" type="button">“Tiền định” có phải là số phận mù quáng không?
+                <span class="chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+              </button>
+              <div class="qa-a">
+                <p>Không. Tiền định trong Kinh Thánh không phải định mệnh vô nhân cách.</p>
+                <p>Đó là chương trình khôn ngoan và yêu thương của Đức Chúa Trời — một Ngôi Vị thật: Ngài “làm mọi sự theo ý muốn Ngài đã định” (Ê-phê-sô 1:11), và định trước cho con cái Ngài được trở nên giống hình ảnh Con Ngài (Rô-ma 8:29).</p>
+                <p>Người tin Chúa không phó mặc cho số phận. Họ tin cậy một Người Cha biết rõ mọi sự và làm mọi sự hợp lại cho điều lành.</p>
+                <div class="src">Đọc thêm: Bách Khoa — “Tiền Định” · “Chủ Quyền Của Đức Chúa Trời” (A. W. Pink)</div>
+              </div>
+            </div>
+            <div class="qa-item">
+              <button class="qa-q" type="button">“Xưng công chính” khác “nên thánh” ở chỗ nào?
+                <span class="chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+              </button>
+              <div class="qa-a">
+                <p><strong>Xưng công chính</strong> là hành động pháp lý của Đức Chúa Trời. Một lần đủ cả, Ngài tuyên bố tội nhân tin Chúa là công chính — vì sự công chính của Đấng Christ được kể cho họ (Rô-ma 5:1).</p>
+                <p><strong>Nên thánh</strong> là công việc Ngài làm bên trong con người suốt cả đời: đổi mới họ dần dần cho giống Đấng Christ (I Tê-sa-lô-ni-ca 5:23).</p>
+                <p>Nói ngắn gọn: một đằng là <em>địa vị</em> trước mặt Chúa, một đằng là <em>quá trình</em> trong đời sống. Hai ơn này không bao giờ tách rời, nhưng cũng không bao giờ lẫn lộn.</p>
+                <div class="src">Đọc thêm: Bách Khoa — “Xưng Công Chính” · “Nên Thánh”</div>
+              </div>
+            </div>
+            <div class="qa-item">
+              <button class="qa-q" type="button">Người mới tin Chúa nên bắt đầu đọc sách gì trước?
+                <span class="chev"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>
+              </button>
+              <div class="qa-a">
+                <p>Trước hết, hãy đọc phần “Tin Chúa là gì?” ở trên để nắm những điều căn bản nhất bằng lời lẽ đơn giản.</p>
+                <p>Rồi bắt đầu với Kinh Thánh mỗi ngày — một chương Phúc Âm Giăng là điểm khởi đầu tốt — song song với Tín Lý Yếu Lược Westminster, mỗi ngày một câu hỏi đáp.</p>
+                <p>Khi đã quen, “Thiên Lộ Lịch Trình” của Bunyan là cuốn sách đầu tiên nên đọc trọn: câu chuyện lữ hành của chính bạn trong đức tin, viết cách đây hơn 300 năm mà vẫn như viết cho hôm nay.</p>
+                <div class="src">Lối vào: “Mới tin Chúa” ở đầu trang · Thư viện — sách ngắn dưới 100 trang</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="hoc-vien">
+        <div class="wrap">
+          <div class="section-head">
+            <div class="rule"></div>
+            <h2>Học Viện Cải Chánh</h2>
+            <p>Lộ trình học có thứ tự — từ nền tảng cho tín hữu mới đến chương trình chủng viện — phỏng theo mô hình giáo trình miễn phí của Third Millennium Ministries.</p>
+          </div>
+          <div class="academy">
+            <figure><img loading="lazy" decoding="async" src="img/hub-academy.webp" alt="Tranh minh họa phòng học thần học với bàn gỗ, sách cổ và đèn đồng" loading="lazy" /></figure>
+            <div>
+              <div class="course">
+                <div>
+                  <h3>Nền Tảng Đức Tin</h3>
+                  <p>Giáo lý căn bản qua Tín Lý Yếu Lược: Đức Chúa Trời, con người, sự cứu rỗi và đời sống mới. 12 bài video kèm bản văn.</p>
+                </div>
+                <span class="lvl">Cấp độ 1 · Nền tảng</span>
+              </div>
+              <div class="course">
+                <div>
+                  <h3>Khảo Sát Kinh Thánh</h3>
+                  <p>Tổng quan 66 sách: bối cảnh, cấu trúc và chủ đề lớn của Cựu Ước và Tân Ước, theo từng phần của giao ước. 24 bài.</p>
+                </div>
+                <span class="lvl">Cấp độ 2 · Học viện</span>
+              </div>
+              <div class="course">
+                <div>
+                  <h3>Thần Học Hệ Thống I — Giáo Lý Về Đức Chúa Trời</h3>
+                  <p>Thuộc tính của Đức Chúa Trời, Ba Ngôi, sắc lệnh đời đời và công việc sáng tạo — cấp độ chủng viện, có bài kiểm tra từng chương. 18 bài.</p>
+                </div>
+                <span class="lvl">Cấp độ 3 · Chủng viện</span>
+              </div>
+              <p style="margin-top:18px"><a class="btn solid" href="#hoc-vien">Xem toàn bộ lộ trình</a></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="phan-khu">
+        <div class="wrap">
+          <div class="section-head">
+            <div class="rule"></div>
+            <h2>Một thư viện, mười phân khu</h2>
+            <p>Thư viện sách là hạt nhân. Quanh nó là mười phân khu: phân khu ghi “Có sẵn” đã dùng được ngay, “Sắp ra mắt” đang được chuẩn bị — toàn bộ nội dung Kinh Thánh, tĩnh nguyện và giáo lý sẽ nằm ngay tại trang này, không phải sang trang khác.</p>
+          </div>
+          <div class="modules">
+            <a class="module" href="#thu-vien">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></span>
+              <h3>Thư Viện Sách</h3>
+              <p>Kho sách Cải Chánh và Thanh Giáo dịch sang tiếng Việt: đọc trực tuyến, tải EPUB và PDF, mua bản Kindle khi có.</p>
+              <span class="meta"><span class="pill live">Đang hoạt động</span><span class="count">2.800+ cuốn</span></span>
+            </a>
+            <a class="module" href="#giao-ly">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+              <h3>Giáo Lý Hỏi Đáp<span class="gloss">Học đức tin qua từng câu hỏi – đáp ngắn</span></h3>
+              <p>Tín Lý Yếu Lược Westminster, kèm câu gốc minh chứng — nền tảng đức tin cho mọi tín hữu và lớp giáo lý. Trên trang này bạn xem trước 7 câu đầu trong tổng số 107 câu.</p>
+              <span class="meta"><span class="pill live">Có sẵn</span><span class="count">107 câu</span></span>
+            </a>
+            <a class="module" href="#bach-khoa">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg></span>
+              <h3>Bách Khoa Thần Học<span class="gloss">Từ điển giải nghĩa các từ khó trong Kinh Thánh và thần học</span></h3>
+              <p>Tra cứu từng thuật ngữ — tiền định, giao ước, chuộc tội — với định nghĩa rõ ràng và liên kết sang sách trong thư viện.</p>
+              <span class="meta"><span class="pill live">Có sẵn</span><span class="count">Từ vựng hạt nhân</span></span>
+            </a>
+            <a class="module" href="#hoi-dap">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span>
+              <h3>Hỏi Đáp Cải Chánh</h3>
+              <p>Những câu hỏi thật của độc giả Việt Nam về đức tin, Hội Thánh và đời sống — trả lời ngắn gọn, có căn cứ Kinh Thánh.</p>
+              <span class="meta"><span class="pill live">Có sẵn</span><span class="count">Hỏi theo chủ đề</span></span>
+            </a>
+            <a class="module" href="#hoc-vien">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10L12 5 2 10l10 5 10-5z"/><path d="M6 12.5V16c0 1.7 2.7 3 6 3s6-1.3 6-3v-3.5"/><line x1="22" y1="10" x2="22" y2="16"/></svg></span>
+              <h3>Học Viện Cải Chánh</h3>
+              <p>Khóa học có lộ trình từ nền tảng đến thần học hệ thống, phỏng theo chương trình chủng viện miễn phí của Thirdmill.</p>
+              <span class="meta"><span class="pill phase">Sắp ra mắt</span><span class="count">Lộ trình 3 cấp độ</span></span>
+            </a>
+            <a class="module" href="#tinh-nguyen">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="M12 18a6 6 0 0 0 6-6c0-4-6-8-6-8s-6 4-6 8a6 6 0 0 0 6 6z" transform="translate(0 2) scale(0.92) translate(1 0)"/></svg></span>
+              <h3>Ân Điển Mỗi Ngày</h3>
+              <p>366 bài tĩnh nguyện “Sổ Séc Của Đức Tin” của Spurgeon — đang được đưa về chính trang này, mỗi ngày một bài ngay tại đây.</p>
+              <span class="meta"><span class="pill phase">Sắp ra mắt</span><span class="count">366 bài</span></span>
+            </a>
+            <div class="module">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span>
+              <h3>Học Kinh Thánh</h3>
+              <p>Đọc Kinh Thánh 1934 trọn 66 sách, 34.000+ tham chiếu chéo, ghi chú học tập và từ điển Strong — đang được đưa về chính trang này.</p>
+              <span class="meta"><span class="pill phase">Sắp ra mắt</span><span class="count">66 sách</span></span>
+            </div>
+            <div class="module" id="bai-giang">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="M19 10v1a7 7 0 0 1-14 0v-1"/><line x1="12" y1="19" x2="12" y2="22"/></svg></span>
+              <h3>Thư Viện Bài Giảng</h3>
+              <p>Bài giảng âm thanh tiếng Việt sắp xếp theo phân đoạn Kinh Thánh, để người học Lời Chúa tìm đúng bài cho đoạn đang nghiên cứu.</p>
+              <span class="meta"><span class="pill phase">Sắp ra mắt</span><span class="count">Theo phân đoạn</span></span>
+            </div>
+            <div class="module" id="thanh-ca">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg></span>
+              <h3>Thánh Ca &amp; Thờ Phượng</h3>
+              <p>Thánh ca truyền thống dịch sang tiếng Việt kèm bản nhạc và âm thanh — nguồn lực thờ phượng cho Hội Thánh địa phương.</p>
+              <span class="meta"><span class="pill phase">Sắp ra mắt</span><span class="count">Kèm bản nhạc</span></span>
+            </div>
+            <div class="module">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-4 0V9"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8z"/></svg></span>
+              <h3>Tạp Chí Cải Chánh</h3>
+              <p>Bài viết chuyên sâu về thần học, lịch sử Hội Thánh và đời sống Cơ Đốc trong bối cảnh Việt Nam hôm nay.</p>
+              <span class="meta"><span class="pill phase">Sắp ra mắt</span><span class="count">Bài viết dài</span></span>
+            </div>
+            <div class="module">
+              <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
+              <h3>Danh Bạ Hội Thánh</h3>
+              <p>Tìm Hội Thánh Cải Chánh gần nơi bạn ở — thông tin được chính các Hội Thánh xác nhận trước khi đăng.</p>
+              <span class="meta"><span class="pill phase">Sắp ra mắt</span><span class="count">Theo tỉnh thành</span></span>
+            </div>
+          </div>
+        </div>
+      </section>
+    
+    </main>
+
+    <footer class="site">
+      <div class="wrap">
+        <div class="foot-grid">
+          <div>
+            <h4>Reformed Vietnam</h4>
+            <p class="foot-about">Thư viện Cơ Đốc và thần học Cải Chánh tiếng Việt — dự án cá nhân độc lập, không thuộc một hội thánh. Các bản dịch được ghi nhãn rõ ràng và đang chờ duyệt thần học.</p>
+          </div>
+          <div>
+            <h4>Học tập</h4>
+            <ul>
+              <li><a href="#thu-vien">Thư Viện Sách</a></li>
+              <li><a href="#giao-ly">Giáo Lý Hỏi Đáp</a></li>
+              <li><a href="#bach-khoa">Bách Khoa Thần Học</a></li>
+              <li><a href="#hoc-vien">Học Viện Cải Chánh</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Đời sống</h4>
+            <ul>
+              <li><a href="#tinh-nguyen">Ân Điển Mỗi Ngày</a></li>
+              <li><a href="#hoi-dap">Hỏi Đáp Cải Chánh</a></li>
+              <li><a href="#bai-giang">Bài Giảng</a></li>
+              <li><a href="#thanh-ca">Thánh Ca &amp; Thờ Phượng</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Liên hệ</h4>
+            <ul>
+              <li><a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></li>
+              <li><a href="mailto:reformedvn@gmail.com?subject=B%C3%A1o%20l%E1%BB%97i%20b%E1%BA%A3n%20d%E1%BB%8Bch">Báo lỗi bản dịch</a></li>
+              <li><a href="mailto:reformedvn@gmail.com?subject=B%E1%BA%A3n%20quy%E1%BB%81n">Liên hệ bản quyền / gỡ nội dung</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="share-bar" style="padding-top:22px">
+          <span class="share-lbl">Chia sẻ trang này</span>
+          <a class="share-btn fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freformed-vietnam.vercel.app%2F" target="_blank" rel="noopener" aria-label="Chia sẻ lên Facebook">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.5 21v-7.2h2.4l.4-2.8h-2.8V9.2c0-.8.2-1.4 1.4-1.4h1.5V5.3c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2H8v2.8h2.5V21h3z"/></svg>
+            Facebook
+          </a>
+          <a class="share-btn zalo" href="https://sp.zalo.me/share_inline?url=https%3A%2F%2Freformed-vietnam.vercel.app%2F" target="_blank" rel="noopener" aria-label="Chia sẻ qua Zalo">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.5 8.5 0 0 1-8.5 8.5c-1.5 0-2.9-.4-4.1-1L3 20l1.1-5.2A8.5 8.5 0 1 1 21 11.5z"/></svg>
+            Zalo
+          </a>
+        </div>
+        <div class="foot-bottom">
+          <span>© 2026 Reformed Vietnam</span>
+          <span>Sách dịch từ nguyên tác thuộc phạm vi công cộng hoặc được phép sử dụng miễn phí.</span>
+        </div>
+      </div>
+    </footer>
+
+    <button class="to-top" id="toTop" type="button" aria-label="Về đầu trang">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"/></svg>
+    </button>
+
+    <script>
+      (function () {
+        "use strict";
+
+        /* ---------- back to top ---------- */
+        var toTop = document.getElementById("toTop");
+        function onScroll() { toTop.classList.toggle("show", window.scrollY > 600); }
+        window.addEventListener("scroll", onScroll, { passive: true });
+        onScroll();
+        toTop.addEventListener("click", function () {
+          var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+          window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
+        });
+
+        /* ---------- mobile menu ---------- */
+        var menuBtn = document.getElementById("menuBtn");
+        var mainNav = document.getElementById("mainNav");
+        menuBtn.addEventListener("click", function () {
+          var open = mainNav.classList.toggle("open");
+          menuBtn.setAttribute("aria-expanded", open ? "true" : "false");
+        });
+        mainNav.addEventListener("click", function (e) {
+          if (e.target.tagName === "A") mainNav.classList.remove("open");
+        });
+
+        /* ---------- catechism (Westminster Shorter Catechism, Q1–Q7) ---------- */
+                var catechism = [
+          { q: "Mục đích chính của đời người là gì?",
+            a: "Mục đích chính của đời người là tôn vinh Đức Chúa Trời và vui hưởng Ngài đời đời.",
+            refs: "1 Cô-rinh-tô 10:31 · Thi Thiên 73:25 · Khải Huyền 4:11" },
+          { q: "Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta cách tôn vinh và vui hưởng Ngài?",
+            a: "Lời của Đức Chúa Trời, được chép trong Kinh Thánh Cựu Ước và Tân Ước, là quy tắc duy nhất hướng dẫn chúng ta cách tôn vinh và vui hưởng Ngài.",
+            refs: "2 Ti-mô-thê 3:16 · Thi Thiên 19:7 · Ê-sai 8:20" },
+          { q: "Kinh Thánh chủ yếu dạy điều gì?",
+            a: "Kinh Thánh chủ yếu dạy chúng ta phải tin điều gì về Đức Chúa Trời, và bổn phận nào Đức Chúa Trời đòi hỏi nơi con người.",
+            refs: "2 Ti-mô-thê 1:13 · Mi-chê 6:8" },
+          { q: "Đức Chúa Trời là Đấng như thế nào?",
+            a: "Đức Chúa Trời là Thần, vô hạn, đời đời và không hề thay đổi, trong bản thể, sự khôn ngoan, quyền năng, sự thánh khiết, sự công chính, sự nhân từ và lẽ thật của Ngài.",
+            refs: "Giăng 4:24 · Thi Thiên 90:2 · Gia-cơ 1:17" },
+          { q: "Có nhiều hơn một Đức Chúa Trời không?",
+            a: "Chỉ có một Đức Chúa Trời duy nhất, là Đức Chúa Trời hằng sống và chân thật.",
+            refs: "Phục Truyền Luật Lệ Ký 6:4 · 1 Cô-rinh-tô 8:4 · Giê-rê-mi 10:10" },
+          { q: "Trong thần tính có mấy ngôi?",
+            a: "Trong thần tính có ba ngôi: Đức Chúa Cha, Đức Chúa Con và Đức Thánh Linh; ba ngôi này là một Đức Chúa Trời, đồng bản thể, đồng quyền năng và đồng vinh hiển.",
+            refs: "Ma-thi-ơ 28:19 · 2 Cô-rinh-tô 13:14 · 1 Giăng 5:7" },
+          { q: "Sắc lệnh của Đức Chúa Trời là gì?",
+            a: "Sắc lệnh của Đức Chúa Trời là ý định đời đời của Ngài, theo mưu định của ý muốn Ngài, bởi đó vì vinh hiển của chính Ngài, Ngài đã tiền định mọi sự sẽ xảy ra.",
+            refs: "Ê-phê-sô 1:11 · Rô-ma 11:36 · Đa-ni-ên 4:35" }
+        ];
+        var catIdx = 0;
+        var catQ = document.getElementById("catQ");
+        var catA = document.getElementById("catA");
+        var catRefs = document.getElementById("catRefs");
+        var catPos = document.getElementById("catPos");
+        var catPrev = document.getElementById("catPrev");
+        var catNext = document.getElementById("catNext");
+        function renderCat() {
+          var item = catechism[catIdx];
+          catQ.textContent = "Hỏi: " + item.q;
+          catA.textContent = "Đáp: " + item.a;
+          catRefs.textContent = item.refs;
+          catPos.textContent = "Câu " + (catIdx + 1) + " / 107";
+          catPrev.disabled = catIdx === 0;
+          catNext.disabled = catIdx === catechism.length - 1;
+        }
+        catPrev.addEventListener("click", function () { if (catIdx > 0) { catIdx--; renderCat(); } });
+        catNext.addEventListener("click", function () { if (catIdx < catechism.length - 1) { catIdx++; renderCat(); } });
+        renderCat();
+
+        /* ---------- encyclopedia ---------- */
+        var terms = [
+          { name: "Tiền Định", en: "Predestination",
+            def: "Giáo lý dạy rằng từ đời đời, Đức Chúa Trời đã định trước — theo ý muốn khôn ngoan và thánh khiết của Ngài — những ai sẽ nhận sự cứu rỗi, và mọi điều xảy ra trong lịch sử đều nằm trong chương trình quan phòng của Ngài. Tiền định không hủy bỏ trách nhiệm của con người: mỗi người vẫn thật sự chọn lựa và chịu trách nhiệm về lựa chọn của mình.",
+            verse: "Ê-phê-sô 1:5 · Rô-ma 8:29–30",
+            related: ["Tuyển Chọn", "Giao Ước", "Ân Điển"] },
+          { name: "Tuyển Chọn", en: "Election",
+            def: "Hành động ân điển của Đức Chúa Trời từ trước khi sáng thế: Ngài chọn một số người nhất định để được cứu trong Đấng Christ, không vì bất cứ điều gì Ngài thấy trước nơi họ, mà hoàn toàn theo ý tốt của Ngài. Giáo lý này không làm cho việc rao giảng Phúc Âm trở nên thừa — ngược lại, Phúc Âm là phương tiện Chúa dùng để gọi những người được chọn đến đức tin.",
+            verse: "Ê-phê-sô 1:4 · Giăng 15:16",
+            related: ["Tiền Định", "Ân Điển", "Chuộc Tội"] },
+          { name: "Xưng Công Chính", en: "Justification",
+            def: "Hành động ân điển nhưng không của Đức Chúa Trời, trong đó Ngài tha thứ mọi tội của tội nhân và kể họ là công chính trước mặt Ngài — chỉ vì sự công chính của Đấng Christ được kể cho họ, và chỉ được nhận lãnh bởi đức tin mà thôi. Đây là một tuyên bố pháp lý một lần đủ cả, không phải một quá trình.",
+            verse: "Rô-ma 5:1 · Ga-la-ti 2:16",
+            related: ["Nên Thánh", "Chuộc Tội", "Ân Điển"] },
+          { name: "Nên Thánh", en: "Sanctification",
+            def: "Công việc ân điển của Đức Chúa Trời trong tín hữu suốt cả đời: Ngài đổi mới toàn bộ con người theo hình ảnh của Ngài, khiến họ chết dần đối với tội lỗi và sống càng hơn cho sự công chính. Nên thánh là bằng chứng tất yếu của sự xưng công chính, nhưng không bao giờ là căn cứ của nó.",
+            verse: "I Tê-sa-lô-ni-ca 5:23 · Hê-bơ-rơ 12:14",
+            related: ["Xưng Công Chính", "Giao Ước", "Đức Tin"] },
+          { name: "Đức Tin", en: "Faith",
+            def: "Đức tin là ơn Đức Chúa Trời ban, bởi đó tội nhân tin cậy và an nghỉ duy nhất nơi Chúa Giê-xu Christ để được cứu rỗi, như Ngài được ban cho nhưng không trong Phúc Âm. Đức tin không phải là công đức để đổi lấy sự cứu rỗi — nó là bàn tay trống rỗng nhận lãnh Đấng Christ và mọi ơn của Ngài.",
+            verse: "Ê-phê-sô 2:8–9 · Hê-bơ-rơ 11:1",
+            related: ["Ân Điển", "Xưng Công Chính", "Nên Thánh"] },
+          { name: "Chuộc Tội", en: "Atonement",
+            def: "Công việc của Đấng Christ trên thập tự giá: Ngài gánh lấy cơn thịnh nộ của Đức Chúa Trời thay cho tội nhân, làm thỏa mãn sự công bình của Ngài, để tội nhân được hòa thuận với Đức Chúa Trời. Truyền thống Cải Chánh nhấn mạnh tính thay thế của sự chuộc tội và hiệu quả chắc chắn của nó đối với những người nó hướng đến.",
+            verse: "Rô-ma 3:25 · II Cô-rinh-tô 5:21",
+            related: ["Đức Tin", "Xưng Công Chính", "Tiền Định"] },
+          { name: "Giao Ước", en: "Covenant",
+            def: "Mối quan hệ Đức Chúa Trời thiết lập với dân Ngài bằng lời hứa có điều kiện ràng buộc: từ A-đam, Áp-ra-ham, Môi-se và Đa-vít, cho đến giao ước mới trong huyết Đấng Christ. Thần học giao ước đọc toàn bộ Kinh Thánh như một câu chuyện thống nhất về ân điển của Đức Chúa Trời dành cho dân thuộc về Ngài.",
+            verse: "Sáng Thế Ký 15 · Lu-ca 22:20",
+            related: ["Tiền Định", "Ân Điển", "Nên Thánh"] },
+          { name: "Ân Điển", en: "Grace",
+            def: "Ân huệ nhưng không của Đức Chúa Trời dành cho những người chỉ đáng nhận cơn thịnh nộ: không do công đức, không thể mua, và không ai có quyền đòi hỏi. Ân điển là nguồn của mọi phước hạnh cứu rỗi — từ sự chọn lựa đời đời, sự chuộc tội trên thập tự giá, cho đến sự gìn giữ thánh đồ đến cuối cùng.",
+            verse: "Ê-phê-sô 2:8–9 · Rô-ma 11:6",
+            related: ["Tuyển Chọn", "Xưng Công Chính", "Chuộc Tội"] }
+        ];
+        var termList = document.getElementById("termList");
+        var termName = document.getElementById("termName");
+        var termEn = document.getElementById("termEn");
+        var termDef = document.getElementById("termDef");
+        var termVerse = document.getElementById("termVerse");
+        var termRelated = document.getElementById("termRelated");
+        function selectTerm(name) {
+          var t = null;
+          for (var i = 0; i < terms.length; i++) if (terms[i].name === name) t = terms[i];
+          if (!t) return;
+          termName.textContent = t.name;
+          termEn.textContent = t.en;
+          termDef.textContent = t.def;
+          termVerse.textContent = t.verse;
+          termRelated.innerHTML = "";
+          t.related.forEach(function (r, i) {
+            if (i > 0) termRelated.appendChild(document.createTextNode(" · "));
+            var b = document.createElement("button");
+            b.type = "button";
+            b.textContent = r;
+            b.addEventListener("click", function () { selectTerm(r); });
+            termRelated.appendChild(b);
+          });
+          var btns = termList.querySelectorAll("button");
+          btns.forEach(function (b) { b.classList.toggle("active", b.getAttribute("data-term") === name); });
+        }
+        terms.forEach(function (t) {
+          var b = document.createElement("button");
+          b.type = "button";
+          b.setAttribute("data-term", t.name);
+          b.innerHTML = "";
+          var s1 = document.createElement("span"); s1.textContent = t.name;
+          var s2 = document.createElement("span"); s2.textContent = "→"; s2.style.color = "var(--gold-text)";
+          b.appendChild(s1); b.appendChild(s2);
+          b.addEventListener("click", function () { selectTerm(t.name); });
+          termList.appendChild(b);
+        });
+        selectTerm("Tiền Định");
+
+        /* ---------- Q&A accordion ---------- */
+        document.querySelectorAll(".qa-item").forEach(function (item) {
+          item.querySelector(".qa-q").addEventListener("click", function () {
+            var wasOpen = item.classList.contains("open");
+            document.querySelectorAll(".qa-item").forEach(function (i) { i.classList.remove("open"); });
+            if (!wasOpen) item.classList.add("open");
+          });
+        });
+
+        /* ---------- search (accent-insensitive) ---------- */
+        function norm(s) {
+          return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, "d");
+        }
+        var books = [
+          { id: "thien-lo-lich-trinh", title: "Thiên Lộ Lịch Trình", desc: "John Bunyan · ẩn dụ hành trình đức tin" },
+          { id: "the-che-co-doc-giao", title: "Thể Chế Cơ Đốc Giáo", desc: "John Calvin · thần học hệ thống" },
+          { id: "so-sec-cua-duc-tin", title: "Sổ Séc Của Đức Tin", desc: "C. H. Spurgeon · 366 bài tĩnh nguyện" },
+          { id: "chu-quyen-duc-chua-troi", title: "Chủ Quyền Của Đức Chúa Trời", desc: "A. W. Pink · giáo lý tiền định" },
+          { id: "tinh-cam-ton-giao", title: "Tình Cảm Tôn Giáo", desc: "Jonathan Edwards · kinh nghiệm đức tin" },
+          { id: "toi-loi-cu-ngu", title: "Tội Lỗi Cư Ngụ Trong Tín Hữu", desc: "John Owen · sự nên thánh" }
+        ];
+        var searchForm = document.getElementById("searchForm");
+        var searchInput = document.getElementById("searchInput");
+        var searchResults = document.getElementById("searchResults");
+        function runSearch(raw) {
+          var q = norm(raw.trim());
+          searchResults.innerHTML = "";
+          if (!q) { searchResults.classList.remove("open"); return; }
+          var head = document.createElement("div");
+          head.className = "sr-head";
+          head.textContent = "Kết quả cho “" + raw.trim() + "”";
+          searchResults.appendChild(head);
+          var found = 0;
+          books.forEach(function (b) {
+            if (norm(b.title + " " + b.desc).indexOf(q) !== -1) {
+              found++;
+              var btn = document.createElement("button");
+              btn.type = "button"; btn.className = "sr-item";
+              var tag = document.createElement("span"); tag.className = "tag"; tag.textContent = "Sách";
+              var body = document.createElement("span");
+              var t = document.createElement("span"); t.className = "t"; t.textContent = b.title;
+              var d = document.createElement("span"); d.className = "d"; d.textContent = " — " + b.desc;
+              body.appendChild(t); body.appendChild(d);
+              btn.appendChild(tag); btn.appendChild(body);
+              btn.addEventListener("click", function () {
+                document.querySelectorAll(".book").forEach(function (el) { el.classList.remove("highlight"); });
+                var el = document.querySelector('[data-book="' + b.id + '"]');
+                if (el) {
+                  el.classList.add("highlight");
+                  el.scrollIntoView({ behavior: "smooth", block: "center" });
+                }
+                searchResults.classList.remove("open");
+              });
+              searchResults.appendChild(btn);
+            }
+          });
+          terms.forEach(function (t) {
+            if (norm(t.name + " " + t.en + " " + t.def).indexOf(q) !== -1) {
+              found++;
+              var btn = document.createElement("button");
+              btn.type = "button"; btn.className = "sr-item";
+              var tag = document.createElement("span"); tag.className = "tag"; tag.textContent = "Thuật ngữ";
+              var body = document.createElement("span");
+              var tt = document.createElement("span"); tt.className = "t"; tt.textContent = t.name;
+              var d = document.createElement("span"); d.className = "d"; d.textContent = " — Bách Khoa Thần Học";
+              body.appendChild(tt); body.appendChild(d);
+              btn.appendChild(tag); btn.appendChild(body);
+              btn.addEventListener("click", function () {
+                selectTerm(t.name);
+                document.getElementById("bach-khoa").scrollIntoView({ behavior: "smooth" });
+                searchResults.classList.remove("open");
+              });
+              searchResults.appendChild(btn);
+            }
+          });
+          if (norm("cau nguyen prayer").indexOf(q) !== -1 || q === "cau nguyen") {
+            found++;
+            var btn2 = document.createElement("button");
+            btn2.type = "button"; btn2.className = "sr-item";
+            var tag2 = document.createElement("span"); tag2.className = "tag"; tag2.textContent = "Hỏi Đáp";
+            var body2 = document.createElement("span");
+            var t2 = document.createElement("span"); t2.className = "t"; t2.textContent = "Vì sao tín hữu Cải Chánh cầu nguyện nếu Chúa đã định mọi sự?";
+            body2.appendChild(t2);
+            btn2.appendChild(tag2); btn2.appendChild(body2);
+            btn2.addEventListener("click", function () {
+              document.getElementById("hoi-dap").scrollIntoView({ behavior: "smooth" });
+              searchResults.classList.remove("open");
+            });
+            searchResults.appendChild(btn2);
+          }
+          if (found === 0) {
+            var empty = document.createElement("div");
+            empty.className = "sr-empty";
+            empty.textContent = "Chưa có mục nào khớp. Thử “tiền định”, “Spurgeon” hoặc “nên thánh”.";
+            searchResults.appendChild(empty);
+          }
+          searchResults.classList.add("open");
+        }
+        searchForm.addEventListener("submit", function (e) { e.preventDefault(); runSearch(searchInput.value); });
+        document.querySelectorAll(".quick-links button").forEach(function (b) {
+          b.addEventListener("click", function () {
+            searchInput.value = b.getAttribute("data-q");
+            runSearch(searchInput.value);
+            searchInput.focus();
+          });
+        });
+      })();
+    </script>
+  </body>
 </html>

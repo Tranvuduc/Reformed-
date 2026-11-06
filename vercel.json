@@ -71,12 +71,12 @@
  "redirects": [
   {
    "source": "/sach",
-   "destination": "/",
+   "destination": "/thu-vien.html",
    "permanent": true
   },
   {
    "source": "/books",
-   "destination": "/",
+   "destination": "/thu-vien.html",
    "permanent": true
   },
   {
