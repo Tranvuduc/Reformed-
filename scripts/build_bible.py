@@ -57,7 +57,7 @@ EXTRA_CSS = """
       .verse .vn { font-family: "Be Vietnam Pro", sans-serif; font-size: 11.5px; font-weight: 700; color: var(--gold-text); vertical-align: super; margin-right: 5px; }
       .xref { margin: -4px 0 12px; font-size: 13.5px; }
       .xref summary { cursor: pointer; color: var(--burgundy); font-weight: 600; }
-      .xref div { padding: 6px 0 2px; line-height: 2; }
+      .xref div { padding: 6px 0 2px; line-height: 2; overflow-wrap: break-word; }
       .xref a { color: var(--ink); margin-right: 10px; white-space: nowrap; }
       .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
       .chips a { min-width: 38px; text-align: center; padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; text-decoration: none; color: var(--ink); font-size: 14px; background: var(--surface); }
@@ -163,7 +163,7 @@ for b in books_meta:
                     if r: links.append(f'<a href="{r[1]}">{esc(r[0])}</a>')
                 if links:
                     xref_total += len(links)
-                    vhtml.append(f'<details class="xref"><summary>Tham chiếu ({len(links)})</summary><div>{"".join(links)}</div></details>')
+                    vhtml.append(f'<details class="xref"><summary>Tham chiếu ({len(links)})</summary><div>{" ".join(links)}</div></details>')
         note = notes.get(f"{bid}:{ci}")
         note_html = ""
         if note:
