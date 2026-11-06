@@ -1,1937 +1,2235 @@
 {
- "title": "Giáo Lý Vấn Đáp Westminster Nhỏ (Westminster Shorter Catechism)",
- "source": "Nội dung tích hợp từ ứng dụng Kinh Thánh Mỗi Ngày (data/giaoly.json) theo quyết định của chủ trang, 2026-11-06",
+ "catechism": "wsc",
+ "title_vi": "Tín Lý Yếu Lược Westminster (Westminster Shorter Catechism, 1647)",
+ "source": "Kinh Thánh Mỗi Ngày — WSC translation",
+ "label": "Bản dịch AI, chưa duyệt",
  "count": 107,
- "items": [
+ "questions": [
   {
-   "id": 1,
-   "question": "Mục đích chính của đời người là gì?",
-   "answer": "Mục đích chính của đời người là tôn vinh Đức Chúa Trời và vui hưởng Ngài đời đời.",
-   "proofTexts": [
+   "number": 1,
+   "question_vi": "Mục đích chính của đời người là gì?",
+   "answer_vi": "Mục đích chính của đời người là tôn vinh Đức Chúa Trời và vui hưởng Ngài đời đời.",
+   "proof_texts": [
     {
-     "ref": "1 Cô-rinh-tô 10:31",
+     "ref_vi": "1 Cô-rinh-tô 10:31",
+     "text_vi": "Vậy, anh em hoặc ăn, hoặc uống, hay là làm sự chi khác, hãy vì sự vinh hiển Đức Chúa Trời mà làm.",
      "key": "1cor:10:31"
     },
     {
-     "ref": "Thi Thiên 73:25",
+     "ref_vi": "Thi Thiên 73:25",
+     "text_vi": "Ở trên trời tôi có ai trừ ra Chúa? Còn dưới đất tôi chẳng ước ao người nào khác hơn Chúa.",
      "key": "psa:73:25"
     },
     {
-     "ref": "Khải Huyền 4:11",
+     "ref_vi": "Khải Huyền 4:11",
+     "text_vi": "Lạy Đức Chúa Trời là Chúa chúng tôi, Chúa đáng được vinh hiển, tôn quí và quyền lực; vì Chúa đã dựng nên muôn vật, và ấy là vì ý muốn Chúa mà muôn vật mới có và đã được dựng nên.",
      "key": "rev:4:11"
     }
    ]
   },
   {
-   "id": 2,
-   "question": "Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta cách tôn vinh và vui hưởng Ngài?",
-   "answer": "Lời của Đức Chúa Trời, được chép trong Kinh Thánh Cựu Ước và Tân Ước, là quy tắc duy nhất hướng dẫn chúng ta cách tôn vinh và vui hưởng Ngài.",
-   "proofTexts": [
+   "number": 2,
+   "question_vi": "Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta cách tôn vinh và vui hưởng Ngài?",
+   "answer_vi": "Lời của Đức Chúa Trời, được chép trong Kinh Thánh Cựu Ước và Tân Ước, là quy tắc duy nhất hướng dẫn chúng ta cách tôn vinh và vui hưởng Ngài.",
+   "proof_texts": [
     {
-     "ref": "2 Ti-mô-thê 3:16",
+     "ref_vi": "2 Ti-mô-thê 3:16",
+     "text_vi": "Cả Kinh Thánh đều là bởi Đức Chúa Trời soi dẫn, có ích cho sự dạy dỗ, bẻ trách, sửa trị, dạy người trong sự công bình,",
      "key": "2tim:3:16"
     },
     {
-     "ref": "Thi Thiên 19:7",
+     "ref_vi": "Thi Thiên 19:7",
+     "text_vi": "Luật pháp của Đức Giê-hô-va là trọn vẹn, bổ linh hồn lại; Sự chứng cớ Đức Giê-hô-va là chắc chắn, làm cho kẻ ngu dại trở nên khôn ngoan.",
      "key": "psa:19:7"
     },
     {
-     "ref": "Ê-sai 8:20",
+     "ref_vi": "Ê-sai 8:20",
+     "text_vi": "Hãy theo luật pháp và lời chứng! Nếu dân chẳng nói như vậy, chắc sẽ chẳng có rạng đông cho nó.",
      "key": "isa:8:20"
     }
    ]
   },
   {
-   "id": 3,
-   "question": "Kinh Thánh chủ yếu dạy điều gì?",
-   "answer": "Kinh Thánh chủ yếu dạy chúng ta phải tin điều gì về Đức Chúa Trời, và bổn phận nào Đức Chúa Trời đòi hỏi nơi con người.",
-   "proofTexts": [
+   "number": 3,
+   "question_vi": "Kinh Thánh chủ yếu dạy điều gì?",
+   "answer_vi": "Kinh Thánh chủ yếu dạy chúng ta phải tin điều gì về Đức Chúa Trời, và bổn phận nào Đức Chúa Trời đòi hỏi nơi con người.",
+   "proof_texts": [
     {
-     "ref": "2 Ti-mô-thê 1:13",
+     "ref_vi": "2 Ti-mô-thê 1:13",
+     "text_vi": "Hãy lấy lòng tin và yêu trong Đức Chúa Jêsus Christ mà giữ lấy mẫu mực của các sự dạy dỗ có ích, là sự con đã nhận lãnh nơi ta.",
      "key": "2tim:1:13"
     },
     {
-     "ref": "Mi-chê 6:8",
+     "ref_vi": "Mi-chê 6:8",
+     "text_vi": "Hỡi người! Ngài đã tỏ cho ngươi điều gì là thiện; cái điều mà Đức Giê-hô-va đòi ngươi há chẳng phải là làm sự công bình, ưa sự nhân từ và bước đi cách khiêm nhường với Đức Chúa Trời ngươi sao?",
      "key": "mich:6:8"
     }
    ]
   },
   {
-   "id": 4,
-   "question": "Đức Chúa Trời là Đấng như thế nào?",
-   "answer": "Đức Chúa Trời là Thần, vô hạn, đời đời và không hề thay đổi, trong bản thể, sự khôn ngoan, quyền năng, sự thánh khiết, sự công chính, sự nhân từ và lẽ thật của Ngài.",
-   "proofTexts": [
+   "number": 4,
+   "question_vi": "Đức Chúa Trời là Đấng như thế nào?",
+   "answer_vi": "Đức Chúa Trời là Thần, vô hạn, đời đời và không hề thay đổi, trong bản thể, sự khôn ngoan, quyền năng, sự thánh khiết, sự công chính, sự nhân từ và lẽ thật của Ngài.",
+   "proof_texts": [
     {
-     "ref": "Giăng 4:24",
+     "ref_vi": "Giăng 4:24",
+     "text_vi": "Đức Chúa Trời là Thần, nên ai thờ lạy Ngài thì phải lấy tâm thần và lẽ thật mà thờ lạy.",
      "key": "joh:4:24"
     },
     {
-     "ref": "Thi Thiên 90:2",
+     "ref_vi": "Thi Thiên 90:2",
+     "text_vi": "Trước khi núi non chưa sanh ra, Đất và thế gian chưa dựng nên, Từ trước vô cùng cho đến đời đời Chúa là Đức Chúa Trời.",
      "key": "psa:90:2"
     },
     {
-     "ref": "Gia-cơ 1:17",
+     "ref_vi": "Gia-cơ 1:17",
+     "text_vi": "mọi ân điển tốt lành cùng sự ban cho trọn vẹn đều đến từ nơi cao và bởi Cha sáng láng mà xuống, trong Ngài chẳng có một sự thay đổi, cũng chẳng có bóng của sự biến cải nào.",
      "key": "jac:1:17"
     }
    ]
   },
   {
-   "id": 5,
-   "question": "Có nhiều hơn một Đức Chúa Trời không?",
-   "answer": "Chỉ có một Đức Chúa Trời duy nhất, là Đức Chúa Trời hằng sống và chân thật.",
-   "proofTexts": [
+   "number": 5,
+   "question_vi": "Có nhiều hơn một Đức Chúa Trời không?",
+   "answer_vi": "Chỉ có một Đức Chúa Trời duy nhất, là Đức Chúa Trời hằng sống và chân thật.",
+   "proof_texts": [
     {
-     "ref": "Phục Truyền Luật Lệ Ký 6:4",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 6:4",
+     "text_vi": "Hỡi Y-sơ-ra-ên! hãy nghe: Giê-hô-va Đức Chúa Trời chúng ta là Giê-hô-va có một không hai.",
      "key": "deb:6:4"
     },
     {
-     "ref": "1 Cô-rinh-tô 8:4",
+     "ref_vi": "1 Cô-rinh-tô 8:4",
+     "text_vi": "Vậy, về sự ăn của cúng tế các thần tượng, chúng ta biết thần tượng trong thế gian thật là hư không, chỉ có một Đức Chúa Trời, chớ không có thần nào khác.",
      "key": "1cor:8:4"
     },
     {
-     "ref": "Giê-rê-mi 10:10",
+     "ref_vi": "Giê-rê-mi 10:10",
+     "text_vi": "Nhưng Đức Giê-hô-va là Đức Chúa Trời thật; Ngài là Đức Chúa Trời hằng sống, là Vua đời đời. Nhân cơn giận Ngài, đất đều rúng động, các nước không thể chịu được cơn giận Ngài.",
      "key": "jer:10:10"
     }
    ]
   },
   {
-   "id": 6,
-   "question": "Trong thần tính có mấy ngôi?",
-   "answer": "Trong thần tính có ba ngôi: Đức Chúa Cha, Đức Chúa Con và Đức Thánh Linh; ba ngôi này là một Đức Chúa Trời, đồng bản thể, đồng quyền năng và đồng vinh hiển.",
-   "proofTexts": [
+   "number": 6,
+   "question_vi": "Trong thần tính có mấy ngôi?",
+   "answer_vi": "Trong thần tính có ba ngôi: Đức Chúa Cha, Đức Chúa Con và Đức Thánh Linh; ba ngôi này là một Đức Chúa Trời, đồng bản thể, đồng quyền năng và đồng vinh hiển.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 28:19",
+     "ref_vi": "Ma-thi-ơ 28:19",
+     "text_vi": "Vậy, hãy đi dạy dỗ muôn dân, hãy nhân danh Đức Cha, Đức Con, và Đức Thánh Linh mà làm phép báp tem cho họ,",
      "key": "mat:28:19"
     },
     {
-     "ref": "2 Cô-rinh-tô 13:14",
+     "ref_vi": "2 Cô-rinh-tô 13:14",
+     "text_vi": "(13-13) Nguyền xin ơn của Đức Chúa Jêsus Christ, sự yêu thương của Đức Chúa Trời, và sự giao thông của Đức Thánh Linh ở với anh em hết thảy!",
      "key": "2cor:13:14"
     },
     {
-     "ref": "1 Giăng 5:7",
+     "ref_vi": "1 Giăng 5:7",
+     "text_vi": "ấy là Đức Thánh Linh đã làm chứng, vì Đức Thánh Linh tức là lẽ thật.",
      "key": "1joh:5:7"
     }
    ]
   },
   {
-   "id": 7,
-   "question": "Sắc lệnh của Đức Chúa Trời là gì?",
-   "answer": "Sắc lệnh của Đức Chúa Trời là ý định đời đời của Ngài, theo mưu định của ý muốn Ngài, bởi đó vì vinh hiển của chính Ngài, Ngài đã tiền định mọi sự sẽ xảy ra.",
-   "proofTexts": [
+   "number": 7,
+   "question_vi": "Sắc lệnh của Đức Chúa Trời là gì?",
+   "answer_vi": "Sắc lệnh của Đức Chúa Trời là ý định đời đời của Ngài, theo mưu định của ý muốn Ngài, bởi đó vì vinh hiển của chính Ngài, Ngài đã tiền định mọi sự sẽ xảy ra.",
+   "proof_texts": [
     {
-     "ref": "Ê-phê-sô 1:11",
+     "ref_vi": "Ê-phê-sô 1:11",
+     "text_vi": "Aáy cũng là trong Ngài mà chúng ta đã nên kẻ dự phần kế nghiệp, như đã định trước cho chúng ta được điều đó, theo mạng của Đấng làm mọi sự hiệp với ý quyết đoán,",
      "key": "eph:1:11"
     },
     {
-     "ref": "Rô-ma 11:36",
+     "ref_vi": "Rô-ma 11:36",
+     "text_vi": "Vì muôn vật đều là từ Ngài, bởi Ngài và hướng về Ngài. Vinh hiển cho Ngài đời đời, vô cùng! A-men.",
      "key": "rom:11:36"
     },
     {
-     "ref": "Đa-ni-ên 4:35",
+     "ref_vi": "Đa-ni-ên 4:35",
+     "text_vi": "Hết thảy dân cư trên đất thảy đều cầm như là không có; Ngài làm theo ý mình trong cơ binh trên trời, và ở giữa cư dân trên đất; chẳng ai có thể cản tay Ngài và hỏi rằng: Ngài làm chi vậy?",
      "key": "dan:4:35"
     }
    ]
   },
   {
-   "id": 8,
-   "question": "Đức Chúa Trời thi hành sắc lệnh của Ngài bằng cách nào?",
-   "answer": "Đức Chúa Trời thi hành sắc lệnh của Ngài trong công cuộc sáng tạo và sự quan phòng.",
-   "proofTexts": [
+   "number": 8,
+   "question_vi": "Đức Chúa Trời thi hành sắc lệnh của Ngài bằng cách nào?",
+   "answer_vi": "Đức Chúa Trời thi hành sắc lệnh của Ngài trong công cuộc sáng tạo và sự quan phòng.",
+   "proof_texts": [
     {
-     "ref": "Khải Huyền 4:11",
+     "ref_vi": "Khải Huyền 4:11",
+     "text_vi": "Lạy Đức Chúa Trời là Chúa chúng tôi, Chúa đáng được vinh hiển, tôn quí và quyền lực; vì Chúa đã dựng nên muôn vật, và ấy là vì ý muốn Chúa mà muôn vật mới có và đã được dựng nên.",
      "key": "rev:4:11"
     },
     {
-     "ref": "Ê-sai 46:10",
+     "ref_vi": "Ê-sai 46:10",
+     "text_vi": "Ta đã rao sự cuối cùng từ buổi đầu tiên, và đã nói từ thuở xưa những sự chưa làm nên. Ta phán rằng: Mưu của ta sẽ lập, và ta sẽ làm ra mọi sự ta đẹp ý.",
      "key": "isa:46:10"
     }
    ]
   },
   {
-   "id": 9,
-   "question": "Công cuộc sáng tạo là gì?",
-   "answer": "Công cuộc sáng tạo là việc Đức Chúa Trời dựng nên muôn vật từ hư không, bởi lời đầy quyền năng của Ngài, trong sáu ngày, và mọi sự đều rất tốt lành.",
-   "proofTexts": [
+   "number": 9,
+   "question_vi": "Công cuộc sáng tạo là gì?",
+   "answer_vi": "Công cuộc sáng tạo là việc Đức Chúa Trời dựng nên muôn vật từ hư không, bởi lời đầy quyền năng của Ngài, trong sáu ngày, và mọi sự đều rất tốt lành.",
+   "proof_texts": [
     {
-     "ref": "Sáng Thế Ký 1:1",
+     "ref_vi": "Sáng Thế Ký 1:1",
+     "text_vi": "Ban đầu Đức Chúa Trời dựng nên trời đất.",
      "key": "gen:1:1"
     },
     {
-     "ref": "Hê-bơ-rơ 11:3",
+     "ref_vi": "Hê-bơ-rơ 11:3",
+     "text_vi": "Bởi đức tin, chúng ta biết rằng thế gian đã làm nên bởi lời của Đức Chúa Trời, đến nỗi những vật bày ra đó đều chẳng phải từ vật thấy được mà đến.",
      "key": "heb:11:3"
     },
     {
-     "ref": "Sáng Thế Ký 1:31",
+     "ref_vi": "Sáng Thế Ký 1:31",
+     "text_vi": "Đức Chúa Trời thấy các việc Ngài đã làm thật rất tốt lành. Vậy, có buổi chiều và buổi mai; ấy là ngày thứ sáu.",
      "key": "gen:1:31"
     }
    ]
   },
   {
-   "id": 10,
-   "question": "Đức Chúa Trời đã dựng nên con người như thế nào?",
-   "answer": "Đức Chúa Trời dựng nên con người có nam có nữ, theo hình ảnh của Ngài, trong sự hiểu biết, sự công chính và sự thánh khiết, với quyền quản trị muôn vật thọ tạo.",
-   "proofTexts": [
+   "number": 10,
+   "question_vi": "Đức Chúa Trời đã dựng nên con người như thế nào?",
+   "answer_vi": "Đức Chúa Trời dựng nên con người có nam có nữ, theo hình ảnh của Ngài, trong sự hiểu biết, sự công chính và sự thánh khiết, với quyền quản trị muôn vật thọ tạo.",
+   "proof_texts": [
     {
-     "ref": "Sáng Thế Ký 1:27",
+     "ref_vi": "Sáng Thế Ký 1:27",
+     "text_vi": "Đức Chúa Trời dựng nên loài người như hình Ngài; Ngài dựng nên loài người giống như hình Đức Chúa Trời; Ngài dựng nên người nam cùng người nữ.",
      "key": "gen:1:27"
     },
     {
-     "ref": "Cô-lô-se 3:10",
+     "ref_vi": "Cô-lô-se 3:10",
+     "text_vi": "mà mặc lấy người mới là người đang đổi ra mới theo hình tượng Đấng dựng nên người ấy, đặng đạt đến sự hiểu biết đầy trọn.",
      "key": "col:3:10"
     },
     {
-     "ref": "Sáng Thế Ký 1:28",
+     "ref_vi": "Sáng Thế Ký 1:28",
+     "text_vi": "Đức Chúa Trời ban phước cho loài người và phán rằng: Hãy sanh sản, thêm nhiều, làm cho đầy dẫy đất; hãy làm cho đất phục tùng, hãy quản trị loài cá dưới biển, loài chim trên trời cùng các vật sống hành động trên mặt đất.",
      "key": "gen:1:28"
     }
    ]
   },
   {
-   "id": 11,
-   "question": "Công việc quan phòng của Đức Chúa Trời là gì?",
-   "answer": "Công việc quan phòng của Đức Chúa Trời là việc Ngài cách rất thánh, khôn ngoan và đầy quyền năng bảo tồn và cai trị mọi vật thọ tạo cùng mọi hành động của chúng.",
-   "proofTexts": [
+   "number": 11,
+   "question_vi": "Công việc quan phòng của Đức Chúa Trời là gì?",
+   "answer_vi": "Công việc quan phòng của Đức Chúa Trời là việc Ngài cách rất thánh, khôn ngoan và đầy quyền năng bảo tồn và cai trị mọi vật thọ tạo cùng mọi hành động của chúng.",
+   "proof_texts": [
     {
-     "ref": "Hê-bơ-rơ 1:3",
+     "ref_vi": "Hê-bơ-rơ 1:3",
+     "text_vi": "Con là sự chói sáng của sự vinh hiển Đức Chúa Trời và hình bóng của bản thể Ngài, lấy lời có quyền phép Ngài nâng đỡ muôn vật; sau khi Con làm xong sự sạch tội, bèn ngồi bên hữu Đấng tôn nghiêm ở trong nơi rất cao,",
      "key": "heb:1:3"
     },
     {
-     "ref": "Thi Thiên 103:19",
+     "ref_vi": "Thi Thiên 103:19",
+     "text_vi": "Đức Giê-hô-va đã lập ngôi Ngài trên các từng trời, Nước Ngài cai trị trên muôn vật.",
      "key": "psa:103:19"
     },
     {
-     "ref": "Ma-thi-ơ 10:29",
+     "ref_vi": "Ma-thi-ơ 10:29",
+     "text_vi": "Hai con chim sẻ há chẳng từng bị bán một đồng tiền sao? Và ví không theo ý muốn Cha các ngươi, thì chẳng hề một con nào rơi xuống đất.",
      "key": "mat:10:29"
     }
    ]
   },
   {
-   "id": 12,
-   "question": "Đức Chúa Trời đã có hành động quan phòng đặc biệt nào đối với con người trong tình trạng lúc được dựng nên?",
-   "answer": "Khi Đức Chúa Trời dựng nên con người, Ngài đã lập với họ giao ước sự sống, với điều kiện vâng lời trọn vẹn; Ngài cấm họ ăn trái cây biết điều thiện và điều ác, nếu vi phạm sẽ phải chết.",
-   "proofTexts": [
+   "number": 12,
+   "question_vi": "Đức Chúa Trời đã có hành động quan phòng đặc biệt nào đối với con người trong tình trạng lúc được dựng nên?",
+   "answer_vi": "Khi Đức Chúa Trời dựng nên con người, Ngài đã lập với họ giao ước sự sống, với điều kiện vâng lời trọn vẹn; Ngài cấm họ ăn trái cây biết điều thiện và điều ác, nếu vi phạm sẽ phải chết.",
+   "proof_texts": [
     {
-     "ref": "Sáng Thế Ký 2:16",
+     "ref_vi": "Sáng Thế Ký 2:16",
+     "text_vi": "Rồi, Giê-hô-va Đức Chúa Trời phán dạy rằng: Ngươi được tự do ăn hoa quả các thứ cây trong vườn;",
      "key": "gen:2:16"
     },
     {
-     "ref": "Sáng Thế Ký 2:17",
+     "ref_vi": "Sáng Thế Ký 2:17",
+     "text_vi": "nhưng về cây biết điều thiện và điều ác thì chớ hề ăn đến; vì một mai ngươi ăn chắc sẽ chết.",
      "key": "gen:2:17"
     },
     {
-     "ref": "Ga-la-ti 3:12",
+     "ref_vi": "Ga-la-ti 3:12",
+     "text_vi": "Vả, luật pháp vốn không phải đồng một thứ với đức tin, nhưng luật pháp có chép rằng: Người nào vâng giữ các điều răn thì sẽ nhờ đó mà sống.",
      "key": "gal:3:12"
     }
    ]
   },
   {
-   "id": 13,
-   "question": "Tổ phụ đầu tiên của chúng ta có giữ được tình trạng lúc được dựng nên không?",
-   "answer": "Tổ phụ đầu tiên của chúng ta, khi được để cho tự do theo ý chí riêng, đã sa ngã khỏi tình trạng lúc được dựng nên, vì đã phạm tội chống lại Đức Chúa Trời.",
-   "proofTexts": [
+   "number": 13,
+   "question_vi": "Tổ phụ đầu tiên của chúng ta có giữ được tình trạng lúc được dựng nên không?",
+   "answer_vi": "Tổ phụ đầu tiên của chúng ta, khi được để cho tự do theo ý chí riêng, đã sa ngã khỏi tình trạng lúc được dựng nên, vì đã phạm tội chống lại Đức Chúa Trời.",
+   "proof_texts": [
     {
-     "ref": "Sáng Thế Ký 3:6",
+     "ref_vi": "Sáng Thế Ký 3:6",
+     "text_vi": "Người nữ thấy trái của cây đó bộ ăn ngon, lại đẹp mắt và quí vì để mở trí khôn, bèn hái ăn, rồi trao cho chồng đứng gần mình, chồng cũng ăn nữa.",
      "key": "gen:3:6"
     },
     {
-     "ref": "Rô-ma 5:12",
+     "ref_vi": "Rô-ma 5:12",
+     "text_vi": "Cho nên, như bởi một người mà tội lỗi vào trong thế gian, lại bởi tội lỗi mà có sự chết, thì sự chết đã trải qua trên hết thảy mọi người như vậy, vì mọi người đều phạm tội.",
      "key": "rom:5:12"
     },
     {
-     "ref": "Truyền Đạo 7:29",
+     "ref_vi": "Truyền Đạo 7:29",
+     "text_vi": "Nhưng nầy là điều ta tìm được: Đức Chúa Trời đã dựng nên người ngay thẳng; song loài người có tìm kiếm ra lắm mưu kế.",
      "key": "eccl:7:29"
     }
    ]
   },
   {
-   "id": 14,
-   "question": "Tội lỗi là gì?",
-   "answer": "Tội lỗi là bất cứ sự thiếu hụt nào đối với luật pháp của Đức Chúa Trời, hay sự vi phạm luật pháp đó.",
-   "proofTexts": [
+   "number": 14,
+   "question_vi": "Tội lỗi là gì?",
+   "answer_vi": "Tội lỗi là bất cứ sự thiếu hụt nào đối với luật pháp của Đức Chúa Trời, hay sự vi phạm luật pháp đó.",
+   "proof_texts": [
     {
-     "ref": "1 Giăng 3:4",
+     "ref_vi": "1 Giăng 3:4",
+     "text_vi": "Còn ai phạm tội tức là trái luật pháp; và sự tội lỗi tức là sự trái luật pháp.",
      "key": "1joh:3:4"
     },
     {
-     "ref": "Gia-cơ 4:17",
+     "ref_vi": "Gia-cơ 4:17",
+     "text_vi": "Cho nên, kẻ biết làm điều lành mà chẳng làm, thì phạm tội.",
      "key": "jac:4:17"
     },
     {
-     "ref": "Rô-ma 3:23",
+     "ref_vi": "Rô-ma 3:23",
+     "text_vi": "vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời,",
      "key": "rom:3:23"
     }
    ]
   },
   {
-   "id": 15,
-   "question": "Tội lỗi nào đã khiến tổ phụ đầu tiên sa ngã khỏi tình trạng lúc được dựng nên?",
-   "answer": "Tội lỗi khiến tổ phụ đầu tiên sa ngã khỏi tình trạng lúc được dựng nên là việc họ đã ăn trái cấm.",
-   "proofTexts": [
+   "number": 15,
+   "question_vi": "Tội lỗi nào đã khiến tổ phụ đầu tiên sa ngã khỏi tình trạng lúc được dựng nên?",
+   "answer_vi": "Tội lỗi khiến tổ phụ đầu tiên sa ngã khỏi tình trạng lúc được dựng nên là việc họ đã ăn trái cấm.",
+   "proof_texts": [
     {
-     "ref": "Sáng Thế Ký 3:6",
+     "ref_vi": "Sáng Thế Ký 3:6",
+     "text_vi": "Người nữ thấy trái của cây đó bộ ăn ngon, lại đẹp mắt và quí vì để mở trí khôn, bèn hái ăn, rồi trao cho chồng đứng gần mình, chồng cũng ăn nữa.",
      "key": "gen:3:6"
     },
     {
-     "ref": "Ô-sê 6:7",
+     "ref_vi": "Ô-sê 6:7",
+     "text_vi": "Nhưng, theo cách người ta, chúng nó đã phạm lời giao ước, và ở đó chúng nó đã phỉnh dối ta.",
      "key": "os:6:7"
     }
    ]
   },
   {
-   "id": 16,
-   "question": "Cả nhân loại có sa ngã trong lần vi phạm đầu tiên của A-đam không?",
-   "answer": "Giao ước được lập với A-đam không chỉ cho riêng ông mà còn cho dòng dõi ông; nên cả nhân loại, bởi dòng dõi thông thường mà ra từ ông, đã phạm tội trong ông và sa ngã với ông trong lần vi phạm đầu tiên đó.",
-   "proofTexts": [
+   "number": 16,
+   "question_vi": "Cả nhân loại có sa ngã trong lần vi phạm đầu tiên của A-đam không?",
+   "answer_vi": "Giao ước được lập với A-đam không chỉ cho riêng ông mà còn cho dòng dõi ông; nên cả nhân loại, bởi dòng dõi thông thường mà ra từ ông, đã phạm tội trong ông và sa ngã với ông trong lần vi phạm đầu tiên đó.",
+   "proof_texts": [
     {
-     "ref": "Rô-ma 5:12",
+     "ref_vi": "Rô-ma 5:12",
+     "text_vi": "Cho nên, như bởi một người mà tội lỗi vào trong thế gian, lại bởi tội lỗi mà có sự chết, thì sự chết đã trải qua trên hết thảy mọi người như vậy, vì mọi người đều phạm tội.",
      "key": "rom:5:12"
     },
     {
-     "ref": "1 Cô-rinh-tô 15:22",
+     "ref_vi": "1 Cô-rinh-tô 15:22",
+     "text_vi": "Như trong A-đam mọi người đều chết, thì cũng một lẽ ấy, trong Đấng Christ mọi người đều sẽ sống lại,",
      "key": "1cor:15:22"
     },
     {
-     "ref": "Thi Thiên 51:5",
+     "ref_vi": "Thi Thiên 51:5",
+     "text_vi": "Kìa, tôi sanh ra trong sự gian ác, Mẹ tôi đã hoài thai tôi trong tội lỗi.",
      "key": "psa:51:5"
     }
    ]
   },
   {
-   "id": 17,
-   "question": "Sự sa ngã đã đưa nhân loại vào tình trạng nào?",
-   "answer": "Sự sa ngã đã đưa nhân loại vào tình trạng tội lỗi và khốn khổ.",
-   "proofTexts": [
+   "number": 17,
+   "question_vi": "Sự sa ngã đã đưa nhân loại vào tình trạng nào?",
+   "answer_vi": "Sự sa ngã đã đưa nhân loại vào tình trạng tội lỗi và khốn khổ.",
+   "proof_texts": [
     {
-     "ref": "Rô-ma 5:12",
+     "ref_vi": "Rô-ma 5:12",
+     "text_vi": "Cho nên, như bởi một người mà tội lỗi vào trong thế gian, lại bởi tội lỗi mà có sự chết, thì sự chết đã trải qua trên hết thảy mọi người như vậy, vì mọi người đều phạm tội.",
      "key": "rom:5:12"
     },
     {
-     "ref": "Rô-ma 3:23",
+     "ref_vi": "Rô-ma 3:23",
+     "text_vi": "vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời,",
      "key": "rom:3:23"
     }
    ]
   },
   {
-   "id": 18,
-   "question": "Tính chất tội lỗi của tình trạng con người sa ngã gồm những gì?",
-   "answer": "Tính chất tội lỗi của tình trạng đó gồm: tội của sự vi phạm đầu tiên của A-đam, sự thiếu hụt sự công chính nguyên thủy, và sự hư hoại của toàn bộ bản tính con người — thường gọi là tội nguyên thủy — cùng với mọi vi phạm thực tế phát sinh từ đó.",
-   "proofTexts": [
+   "number": 18,
+   "question_vi": "Tính chất tội lỗi của tình trạng con người sa ngã gồm những gì?",
+   "answer_vi": "Tính chất tội lỗi của tình trạng đó gồm: tội của sự vi phạm đầu tiên của A-đam, sự thiếu hụt sự công chính nguyên thủy, và sự hư hoại của toàn bộ bản tính con người — thường gọi là tội nguyên thủy — cùng với mọi vi phạm thực tế phát sinh từ đó.",
+   "proof_texts": [
     {
-     "ref": "Rô-ma 5:12",
+     "ref_vi": "Rô-ma 5:12",
+     "text_vi": "Cho nên, như bởi một người mà tội lỗi vào trong thế gian, lại bởi tội lỗi mà có sự chết, thì sự chết đã trải qua trên hết thảy mọi người như vậy, vì mọi người đều phạm tội.",
      "key": "rom:5:12"
     },
     {
-     "ref": "Ê-phê-sô 2:3",
+     "ref_vi": "Ê-phê-sô 2:3",
+     "text_vi": "Chúng ta hết thảy cũng đều ở trong số ấy, trước kia sống theo tư dục xác thịt mình, làm trọn các sự ham mê của xác thịt và ý tưởng chúng ta, tự nhiên làm con của sự thạnh nộ, cũng như mọi người khác.",
      "key": "eph:2:3"
     },
     {
-     "ref": "Thi Thiên 51:5",
+     "ref_vi": "Thi Thiên 51:5",
+     "text_vi": "Kìa, tôi sanh ra trong sự gian ác, Mẹ tôi đã hoài thai tôi trong tội lỗi.",
      "key": "psa:51:5"
     }
    ]
   },
   {
-   "id": 19,
-   "question": "Sự khốn khổ của tình trạng con người sa ngã là gì?",
-   "answer": "Cả nhân loại bởi sự sa ngã đã mất sự tương giao với Đức Chúa Trời, ở dưới cơn thịnh nộ và sự rủa sả của Ngài, và do đó phải chịu mọi khốn khổ trong đời này, chính sự chết, và hình phạt địa ngục đời đời.",
-   "proofTexts": [
+   "number": 19,
+   "question_vi": "Sự khốn khổ của tình trạng con người sa ngã là gì?",
+   "answer_vi": "Cả nhân loại bởi sự sa ngã đã mất sự tương giao với Đức Chúa Trời, ở dưới cơn thịnh nộ và sự rủa sả của Ngài, và do đó phải chịu mọi khốn khổ trong đời này, chính sự chết, và hình phạt địa ngục đời đời.",
+   "proof_texts": [
     {
-     "ref": "Rô-ma 6:23",
+     "ref_vi": "Rô-ma 6:23",
+     "text_vi": "Vì tiền công của tội lỗi là sự chết; nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Jêsus Christ, Chúa chúng ta.",
      "key": "rom:6:23"
     },
     {
-     "ref": "Ê-phê-sô 2:3",
+     "ref_vi": "Ê-phê-sô 2:3",
+     "text_vi": "Chúng ta hết thảy cũng đều ở trong số ấy, trước kia sống theo tư dục xác thịt mình, làm trọn các sự ham mê của xác thịt và ý tưởng chúng ta, tự nhiên làm con của sự thạnh nộ, cũng như mọi người khác.",
      "key": "eph:2:3"
     },
     {
-     "ref": "Ma-thi-ơ 25:46",
+     "ref_vi": "Ma-thi-ơ 25:46",
+     "text_vi": "Rồi những kẻ nầy sẽ vào hình phạt đời đời, còn những người công bình sẽ vào sự sống đời đời.",
      "key": "mat:25:46"
     }
    ]
   },
   {
-   "id": 20,
-   "question": "Đức Chúa Trời có bỏ mặc cả nhân loại hư mất trong tình trạng tội lỗi và khốn khổ không?",
-   "answer": "Đức Chúa Trời, bởi ý muốn tốt lành duy nhất của Ngài, từ đời đời đã tuyển chọn một số người cho sự sống đời đời, và đã lập giao ước ân điển để giải cứu họ khỏi tình trạng tội lỗi và khốn khổ, đưa họ vào tình trạng cứu rỗi bởi một Đấng Cứu Chuộc.",
-   "proofTexts": [
+   "number": 20,
+   "question_vi": "Đức Chúa Trời có bỏ mặc cả nhân loại hư mất trong tình trạng tội lỗi và khốn khổ không?",
+   "answer_vi": "Đức Chúa Trời, bởi ý muốn tốt lành duy nhất của Ngài, từ đời đời đã tuyển chọn một số người cho sự sống đời đời, và đã lập giao ước ân điển để giải cứu họ khỏi tình trạng tội lỗi và khốn khổ, đưa họ vào tình trạng cứu rỗi bởi một Đấng Cứu Chuộc.",
+   "proof_texts": [
     {
-     "ref": "Ê-phê-sô 1:4",
+     "ref_vi": "Ê-phê-sô 1:4",
+     "text_vi": "trước khi sáng thế, Ngài đã chọn chúng ta trong Đấng Christ, đặng làm nên thánh không chỗ trách được trước mặt Đức Chúa Trời,",
      "key": "eph:1:4"
     },
     {
-     "ref": "Tít 3:5",
+     "ref_vi": "Tít 3:5",
+     "text_vi": "không phải cứu vì việc công bình chúng ta đã làm, nhưng cứ theo lòng thương xót Ngài, bởi sự rửa về sự lại sanh và sự đổi mới của Đức Thánh Linh",
      "key": "tit:3:5"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 13:48",
+     "ref_vi": "Công Vụ Các Sứ Đồ 13:48",
+     "text_vi": "Những người ngoại nghe lời đó thì vui mừng, ngợi khen đạo Chúa, và phàm những kẻ đã được định sẵn cho sự sống đời đời, đều tin theo.",
      "key": "act:13:48"
     }
    ]
   },
   {
-   "id": 21,
-   "question": "Đấng Cứu Chuộc của những người được Đức Chúa Trời tuyển chọn là ai?",
-   "answer": "Đấng Cứu Chuộc duy nhất của những người được Đức Chúa Trời tuyển chọn là Chúa Giê-xu Christ; Ngài là Con đời đời của Đức Chúa Trời, đã trở nên người, và cứ như vậy, Ngài vừa là Đức Chúa Trời vừa là người trong hai bản tính phân biệt, một thân vị, đời đời.",
-   "proofTexts": [
+   "number": 21,
+   "question_vi": "Đấng Cứu Chuộc của những người được Đức Chúa Trời tuyển chọn là ai?",
+   "answer_vi": "Đấng Cứu Chuộc duy nhất của những người được Đức Chúa Trời tuyển chọn là Chúa Giê-xu Christ; Ngài là Con đời đời của Đức Chúa Trời, đã trở nên người, và cứ như vậy, Ngài vừa là Đức Chúa Trời vừa là người trong hai bản tính phân biệt, một thân vị, đời đời.",
+   "proof_texts": [
     {
-     "ref": "1 Ti-mô-thê 2:5",
+     "ref_vi": "1 Ti-mô-thê 2:5",
+     "text_vi": "Vì chỉ có một Đức Chúa Trời, và chỉ có một Đấng Trung bảo ở giữa Đức Chúa Trời và loài người, tức là Đức Chúa Jêsus Christ, là người;",
      "key": "1tim:2:5"
     },
     {
-     "ref": "Giăng 1:14",
+     "ref_vi": "Giăng 1:14",
+     "text_vi": "Ngôi Lời đã trở nên xác thịt, ở giữa chúng ta, đầy ơn và lẽ thật; chúng ta đã ngắm xem sự vinh hiển của Ngài, thật như vinh hiển của Con một đến từ nơi Cha.",
      "key": "joh:1:14"
     },
     {
-     "ref": "Hê-bơ-rơ 13:8",
+     "ref_vi": "Hê-bơ-rơ 13:8",
+     "text_vi": "Đức Chúa Jêsus Christ hôm qua, ngày nay, và cho đến đời đời không hề thay đổi.",
      "key": "heb:13:8"
     }
    ]
   },
   {
-   "id": 22,
-   "question": "Đấng Christ, là Con Đức Chúa Trời, đã trở nên người như thế nào?",
-   "answer": "Đấng Christ, Con Đức Chúa Trời, đã trở nên người bằng cách mang lấy thân thể thật và linh hồn có lý trí, được hoài thai bởi quyền năng Đức Thánh Linh trong lòng trinh nữ Ma-ri và sinh ra bởi nàng, nhưng không có tội lỗi.",
-   "proofTexts": [
+   "number": 22,
+   "question_vi": "Đấng Christ, là Con Đức Chúa Trời, đã trở nên người như thế nào?",
+   "answer_vi": "Đấng Christ, Con Đức Chúa Trời, đã trở nên người bằng cách mang lấy thân thể thật và linh hồn có lý trí, được hoài thai bởi quyền năng Đức Thánh Linh trong lòng trinh nữ Ma-ri và sinh ra bởi nàng, nhưng không có tội lỗi.",
+   "proof_texts": [
     {
-     "ref": "Lu-ca 1:35",
+     "ref_vi": "Lu-ca 1:35",
+     "text_vi": "Thiên sứ truyền rằng: Đức Thánh Linh sẽ đến trên ngươi, và quyền phép Đấng Rất Cao sẽ che phủ ngươi dưới bóng mình, cho nên con thánh sanh ra, phải xưng là Con Đức Chúa Trời.",
      "key": "luk:1:35"
     },
     {
-     "ref": "Hê-bơ-rơ 4:15",
+     "ref_vi": "Hê-bơ-rơ 4:15",
+     "text_vi": "Vì chúng ta không có thầy tế lễ thượng phẩm chẳng có thể cảm thương sự yếu đuối chúng ta, bèn có một thầy tế lễ bị thử thách trong mọi việc cũng như chúng ta, song chẳng phạm tội.",
      "key": "heb:4:15"
     },
     {
-     "ref": "Phi-líp 2:7",
+     "ref_vi": "Phi-líp 2:7",
+     "text_vi": "chính Ngài đã tự bỏ mình đi, lấy hình tôi tớ và trở nên giống như loài người;",
      "key": "phil:2:7"
     }
    ]
   },
   {
-   "id": 23,
-   "question": "Đấng Christ thi hành những chức vụ nào với tư cách là Đấng Cứu Chuộc của chúng ta?",
-   "answer": "Đấng Christ, với tư cách là Đấng Cứu Chuộc của chúng ta, thi hành các chức vụ tiên tri, thầy tế lễ và vua, cả trong tình trạng hạ mình lẫn tình trạng tôn cao của Ngài.",
-   "proofTexts": [
+   "number": 23,
+   "question_vi": "Đấng Christ thi hành những chức vụ nào với tư cách là Đấng Cứu Chuộc của chúng ta?",
+   "answer_vi": "Đấng Christ, với tư cách là Đấng Cứu Chuộc của chúng ta, thi hành các chức vụ tiên tri, thầy tế lễ và vua, cả trong tình trạng hạ mình lẫn tình trạng tôn cao của Ngài.",
+   "proof_texts": [
     {
-     "ref": "Công Vụ Các Sứ Đồ 3:22",
+     "ref_vi": "Công Vụ Các Sứ Đồ 3:22",
+     "text_vi": "Môi-se có nói rằng: Chúa là Đức Chúa Trời chúng ta sẽ dấy lên trong anh em các ngươi một Đấng tiên tri như ta; các ngươi phải nghe theo mọi điều Ngài sẽ phán dặn.",
      "key": "act:3:22"
     },
     {
-     "ref": "Hê-bơ-rơ 5:6",
+     "ref_vi": "Hê-bơ-rơ 5:6",
+     "text_vi": "Lại nơi khác có phán cùng Ngài rằng: Ngươi làm thầy tế lễ đời đời Theo ban Mên-chi-xê-đéc.",
      "key": "heb:5:6"
     },
     {
-     "ref": "Thi Thiên 2:6",
+     "ref_vi": "Thi Thiên 2:6",
+     "text_vi": "Dầu vậy, ta đã lập Vua ta Trên Si-ôn là núi thánh ta.",
      "key": "psa:2:6"
     }
    ]
   },
   {
-   "id": 24,
-   "question": "Đấng Christ thi hành chức vụ tiên tri như thế nào?",
-   "answer": "Đấng Christ thi hành chức vụ tiên tri bằng cách bày tỏ cho chúng ta, qua Lời Ngài và Đức Thánh Linh, ý muốn của Đức Chúa Trời về sự cứu rỗi của chúng ta.",
-   "proofTexts": [
+   "number": 24,
+   "question_vi": "Đấng Christ thi hành chức vụ tiên tri như thế nào?",
+   "answer_vi": "Đấng Christ thi hành chức vụ tiên tri bằng cách bày tỏ cho chúng ta, qua Lời Ngài và Đức Thánh Linh, ý muốn của Đức Chúa Trời về sự cứu rỗi của chúng ta.",
+   "proof_texts": [
     {
-     "ref": "Giăng 1:18",
+     "ref_vi": "Giăng 1:18",
+     "text_vi": "Chẳng hề ai thấy Đức Chúa Trời; chỉ Con một ở trong lòng Cha, là Đấng đã giải bày Cha cho chúng ta biết.",
      "key": "joh:1:18"
     },
     {
-     "ref": "Giăng 15:15",
+     "ref_vi": "Giăng 15:15",
+     "text_vi": "Ta chẳng gọi các ngươi là đầy tớ nữa, vì đầy tớ chẳng biết điều chủ mình làm; nhưng ta đã gọi các ngươi là bạn hữu ta, vì ta từng tỏ cho các ngươi biết mọi điều ta đã nghe nơi Cha ta.",
      "key": "joh:15:15"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 3:22",
+     "ref_vi": "Công Vụ Các Sứ Đồ 3:22",
+     "text_vi": "Môi-se có nói rằng: Chúa là Đức Chúa Trời chúng ta sẽ dấy lên trong anh em các ngươi một Đấng tiên tri như ta; các ngươi phải nghe theo mọi điều Ngài sẽ phán dặn.",
      "key": "act:3:22"
     }
    ]
   },
   {
-   "id": 25,
-   "question": "Đấng Christ thi hành chức vụ thầy tế lễ như thế nào?",
-   "answer": "Đấng Christ thi hành chức vụ thầy tế lễ bằng việc một lần dâng chính mình Ngài làm của lễ để thỏa mãn sự công chính của Đức Chúa Trời và hòa giải chúng ta với Đức Chúa Trời, và bằng việc không ngừng cầu thay cho chúng ta.",
-   "proofTexts": [
+   "number": 25,
+   "question_vi": "Đấng Christ thi hành chức vụ thầy tế lễ như thế nào?",
+   "answer_vi": "Đấng Christ thi hành chức vụ thầy tế lễ bằng việc một lần dâng chính mình Ngài làm của lễ để thỏa mãn sự công chính của Đức Chúa Trời và hòa giải chúng ta với Đức Chúa Trời, và bằng việc không ngừng cầu thay cho chúng ta.",
+   "proof_texts": [
     {
-     "ref": "Hê-bơ-rơ 9:28",
+     "ref_vi": "Hê-bơ-rơ 9:28",
+     "text_vi": "cũng vậy, Đấng Christ đã dâng mình chỉ một lần đặng cất tội lỗi của nhiều người; Ngài lại sẽ hiện ra lần thứ hai, không phải để cất tội lỗi đi nữa, nhưng để ban sự cứu rỗi cho kẻ chờ đợi Ngài.",
      "key": "heb:9:28"
     },
     {
-     "ref": "Hê-bơ-rơ 7:25",
+     "ref_vi": "Hê-bơ-rơ 7:25",
+     "text_vi": "Bởi đó Ngài có thể cứu toàn vẹn những kẻ nhờ Ngài mà đến gần Đức Chúa Trời, vì Ngài hằng sống để cầu thay cho những kẻ ấy.",
      "key": "heb:7:25"
     },
     {
-     "ref": "Rô-ma 8:34",
+     "ref_vi": "Rô-ma 8:34",
+     "text_vi": "Ai sẽ lên án họ ư? Đức Chúa Jêsus Christ là Đấng đã chết, và cũng đã sống lại nữa, Ngài đang ngự bên hữu Đức Chúa Trời, cầu nguyện thế cho chúng ta.",
      "key": "rom:8:34"
     }
    ]
   },
   {
-   "id": 26,
-   "question": "Đấng Christ thi hành chức vụ vua như thế nào?",
-   "answer": "Đấng Christ thi hành chức vụ vua bằng cách khuất phục chúng ta cho chính Ngài, cai trị và bảo vệ chúng ta, kiềm chế và chiến thắng mọi kẻ thù của Ngài và của chúng ta.",
-   "proofTexts": [
+   "number": 26,
+   "question_vi": "Đấng Christ thi hành chức vụ vua như thế nào?",
+   "answer_vi": "Đấng Christ thi hành chức vụ vua bằng cách khuất phục chúng ta cho chính Ngài, cai trị và bảo vệ chúng ta, kiềm chế và chiến thắng mọi kẻ thù của Ngài và của chúng ta.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 110:3",
+     "ref_vi": "Thi Thiên 110:3",
+     "text_vi": "Trong ngày quyền thế Chúa, dân Chúa tình nguyện lại đến; Những kẻ trẻ tuổi ngươi mặc trang sức thánh cũng đến cùng ngươi Như giọt sương bởi lòng rạng đông mà ra.",
      "key": "psa:110:3"
     },
     {
-     "ref": "1 Cô-rinh-tô 15:25",
+     "ref_vi": "1 Cô-rinh-tô 15:25",
+     "text_vi": "vì Ngài phải cầm quyền cho đến chừng đặt những kẻ thù nghịch dưới chơn mình. -",
      "key": "1cor:15:25"
     },
     {
-     "ref": "Ê-sai 33:22",
+     "ref_vi": "Ê-sai 33:22",
+     "text_vi": "Thật, Đức Giê-hô-va là quan xét chúng ta, Đức Giê-hô-va là Đấng lập luật cho chúng ta, Đức Giê-hô-va là vua chúng ta; chính Ngài sẽ cứu chúng ta!",
      "key": "isa:33:22"
     }
    ]
   },
   {
-   "id": 27,
-   "question": "Sự hạ mình của Đấng Christ gồm những gì?",
-   "answer": "Sự hạ mình của Đấng Christ gồm việc Ngài được sinh ra, trong cảnh thấp hèn, ở dưới luật pháp, chịu mọi khốn khổ của đời này, cơn thịnh nộ của Đức Chúa Trời và cái chết rủa sả trên thập tự giá; chịu chôn, và ở dưới quyền sự chết một thời gian.",
-   "proofTexts": [
+   "number": 27,
+   "question_vi": "Sự hạ mình của Đấng Christ gồm những gì?",
+   "answer_vi": "Sự hạ mình của Đấng Christ gồm việc Ngài được sinh ra, trong cảnh thấp hèn, ở dưới luật pháp, chịu mọi khốn khổ của đời này, cơn thịnh nộ của Đức Chúa Trời và cái chết rủa sả trên thập tự giá; chịu chôn, và ở dưới quyền sự chết một thời gian.",
+   "proof_texts": [
     {
-     "ref": "Lu-ca 2:7",
+     "ref_vi": "Lu-ca 2:7",
+     "text_vi": "Người sanh con trai đầu lòng, lấy khăn bọc con mình, đặt nằm trong máng cỏ, vì nhà quán không có đủ chỗ ở.",
      "key": "luk:2:7"
     },
     {
-     "ref": "Ga-la-ti 4:4",
+     "ref_vi": "Ga-la-ti 4:4",
+     "text_vi": "Nhưng khi kỳ hạn đã được trọn, Đức Chúa Trời bèn sai Con Ngài bởi một người nữ sanh ra, sanh ra dưới luật pháp,",
      "key": "gal:4:4"
     },
     {
-     "ref": "Phi-líp 2:8",
+     "ref_vi": "Phi-líp 2:8",
+     "text_vi": "Ngài đã hiện ra như một người, tự hạ mình xuống, vâng phục cho đến chết, thậm chí chết trên cây thập tự.",
      "key": "phil:2:8"
     }
    ]
   },
   {
-   "id": 28,
-   "question": "Sự tôn cao của Đấng Christ gồm những gì?",
-   "answer": "Sự tôn cao của Đấng Christ gồm việc Ngài sống lại từ kẻ chết vào ngày thứ ba, thăng thiên, ngồi bên hữu Đức Chúa Cha, và sẽ trở lại phán xét thế gian trong ngày sau rốt.",
-   "proofTexts": [
+   "number": 28,
+   "question_vi": "Sự tôn cao của Đấng Christ gồm những gì?",
+   "answer_vi": "Sự tôn cao của Đấng Christ gồm việc Ngài sống lại từ kẻ chết vào ngày thứ ba, thăng thiên, ngồi bên hữu Đức Chúa Cha, và sẽ trở lại phán xét thế gian trong ngày sau rốt.",
+   "proof_texts": [
     {
-     "ref": "1 Cô-rinh-tô 15:4",
+     "ref_vi": "1 Cô-rinh-tô 15:4",
+     "text_vi": "Ngài đã bị chôn, đến ngày thứ ba, Ngài sống lại, theo lời Kinh Thánh;",
      "key": "1cor:15:4"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 1:11",
+     "ref_vi": "Công Vụ Các Sứ Đồ 1:11",
+     "text_vi": "và nói rằng: Hỡi người Ga-li-lê, sao các ngươi đứng ngóng lên trời làm chi? Jêsus nầy đã được cất lên trời khỏi giữa các ngươi, cũng sẽ trở lại như cách các ngươi đã thấy Ngài lên trời vậy.",
      "key": "act:1:11"
     },
     {
-     "ref": "Ma-thi-ơ 25:31",
+     "ref_vi": "Ma-thi-ơ 25:31",
+     "text_vi": "Khi Con người ngự trong sự vinh hiển mình mà đến với các thiên sứ thánh, thì Ngài sẽ ngồi trên ngôi vinh hiển của Ngài.",
      "key": "mat:25:31"
     }
    ]
   },
   {
-   "id": 29,
-   "question": "Chúng ta được dự phần vào sự cứu chuộc mà Đấng Christ đã mua bằng cách nào?",
-   "answer": "Chúng ta được dự phần vào sự cứu chuộc mà Đấng Christ đã mua, bởi Đức Thánh Linh của Ngài áp dụng cách hiệu quả sự cứu chuộc ấy cho chúng ta.",
-   "proofTexts": [
+   "number": 29,
+   "question_vi": "Chúng ta được dự phần vào sự cứu chuộc mà Đấng Christ đã mua bằng cách nào?",
+   "answer_vi": "Chúng ta được dự phần vào sự cứu chuộc mà Đấng Christ đã mua, bởi Đức Thánh Linh của Ngài áp dụng cách hiệu quả sự cứu chuộc ấy cho chúng ta.",
+   "proof_texts": [
     {
-     "ref": "Tít 3:5",
+     "ref_vi": "Tít 3:5",
+     "text_vi": "không phải cứu vì việc công bình chúng ta đã làm, nhưng cứ theo lòng thương xót Ngài, bởi sự rửa về sự lại sanh và sự đổi mới của Đức Thánh Linh",
      "key": "tit:3:5"
     },
     {
-     "ref": "Giăng 3:5",
+     "ref_vi": "Giăng 3:5",
+     "text_vi": "Đức Chúa Jêsus đáp rằng: Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng nhờ nước và Thánh Linh mà sanh, thì không được vào nước Đức Chúa Trời.",
      "key": "joh:3:5"
     },
     {
-     "ref": "1 Cô-rinh-tô 6:11",
+     "ref_vi": "1 Cô-rinh-tô 6:11",
+     "text_vi": "Trước kia anh em ít nữa cũng có một đôi người như thế; nhưng nhân danh Đức Chúa Jêsus Christ, và nhờ Thánh Linh của Đức Chúa Trời chúng ta, thì anh em được rửa sạch, được nên thánh, được xưng công bình rồi.",
      "key": "1cor:6:11"
     }
    ]
   },
   {
-   "id": 30,
-   "question": "Đức Thánh Linh áp dụng cho chúng ta sự cứu chuộc mà Đấng Christ đã mua bằng cách nào?",
-   "answer": "Đức Thánh Linh áp dụng cho chúng ta sự cứu chuộc mà Đấng Christ đã mua, bằng cách làm cho đức tin nảy sinh trong chúng ta, và nhờ đó kết hiệp chúng ta với Đấng Christ trong sự kêu gọi hiệu quả.",
-   "proofTexts": [
+   "number": 30,
+   "question_vi": "Đức Thánh Linh áp dụng cho chúng ta sự cứu chuộc mà Đấng Christ đã mua bằng cách nào?",
+   "answer_vi": "Đức Thánh Linh áp dụng cho chúng ta sự cứu chuộc mà Đấng Christ đã mua, bằng cách làm cho đức tin nảy sinh trong chúng ta, và nhờ đó kết hiệp chúng ta với Đấng Christ trong sự kêu gọi hiệu quả.",
+   "proof_texts": [
     {
-     "ref": "Ê-phê-sô 2:8",
+     "ref_vi": "Ê-phê-sô 2:8",
+     "text_vi": "Vả, ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu, điều đó không phải đến từ anh em, bèn là sự ban cho của Đức Chúa Trời.",
      "key": "eph:2:8"
     },
     {
-     "ref": "1 Cô-rinh-tô 1:9",
+     "ref_vi": "1 Cô-rinh-tô 1:9",
+     "text_vi": "Đức Chúa Trời là thành tín, Ngài đã gọi anh em được thông công với Con Ngài là Đức Chúa Jêsus Christ, Chúa chúng ta.",
      "key": "1cor:1:9"
     },
     {
-     "ref": "Rô-ma 8:30",
+     "ref_vi": "Rô-ma 8:30",
+     "text_vi": "còn những kẻ Ngài đã định sẵn, thì Ngài cũng đã gọi, những kẻ Ngài đã gọi, thì Ngài cũng đã xưng là công bình, và những kẻ Ngài đã xưng là công bình, thì Ngài cũng đã làm cho vinh hiển.",
      "key": "rom:8:30"
     }
    ]
   },
   {
-   "id": 31,
-   "question": "Sự kêu gọi hiệu quả là gì?",
-   "answer": "Sự kêu gọi hiệu quả là công việc của Đức Thánh Linh, bởi đó Ngài cáo trách chúng ta về tội lỗi và sự khốn khổ của mình, soi sáng tâm trí chúng ta trong sự hiểu biết về Đấng Christ, đổi mới ý chí chúng ta, và thuyết phục cùng ban năng lực cho chúng ta tiếp nhận Chúa Giê-xu Christ, Đấng được ban cho chúng ta cách nhưng không trong Phúc Âm.",
-   "proofTexts": [
+   "number": 31,
+   "question_vi": "Sự kêu gọi hiệu quả là gì?",
+   "answer_vi": "Sự kêu gọi hiệu quả là công việc của Đức Thánh Linh, bởi đó Ngài cáo trách chúng ta về tội lỗi và sự khốn khổ của mình, soi sáng tâm trí chúng ta trong sự hiểu biết về Đấng Christ, đổi mới ý chí chúng ta, và thuyết phục cùng ban năng lực cho chúng ta tiếp nhận Chúa Giê-xu Christ, Đấng được ban cho chúng ta cách nhưng không trong Phúc Âm.",
+   "proof_texts": [
     {
-     "ref": "2 Ti-mô-thê 1:9",
+     "ref_vi": "2 Ti-mô-thê 1:9",
+     "text_vi": "Aáy chính Chúa đã cứu chúng ta, đã gọi chúng ta bởi sự kêu gọi thánh, chẳng phải theo việc làm chúng ta, bèn là theo ý riêng Ngài chỉ định, theo ân điển đã ban cho chúng ta trong Đức Chúa Jêsus Christ từ trước muôn đời vô cùng,",
      "key": "2tim:1:9"
     },
     {
-     "ref": "Giăng 6:44",
+     "ref_vi": "Giăng 6:44",
+     "text_vi": "Ví bằng Cha, là Đấng sai ta, không kéo đến, thì chẳng có ai được đến cùng ta, và ta sẽ làm cho người đó sống lại nơi ngày sau rốt.",
      "key": "joh:6:44"
     },
     {
-     "ref": "Ê-phê-sô 1:18",
+     "ref_vi": "Ê-phê-sô 1:18",
+     "text_vi": "lại soi sáng con mắt của lòng anh em, hầu cho biết điều trông cậy về sự kêu gọi của Ngài là thể nào, sự giàu có của cơ nghiệp vinh hiển Ngài cho các thánh đồ là làm sao,",
      "key": "eph:1:18"
     }
    ]
   },
   {
-   "id": 32,
-   "question": "Những người được kêu gọi cách hiệu quả được dự phần những ích lợi nào trong đời này?",
-   "answer": "Những người được kêu gọi cách hiệu quả, trong đời này được dự phần sự xưng công chính, sự làm con nuôi, sự nên thánh, và các ích lợi khác trong đời này đi kèm hoặc phát sinh từ những điều đó.",
-   "proofTexts": [
+   "number": 32,
+   "question_vi": "Những người được kêu gọi cách hiệu quả được dự phần những ích lợi nào trong đời này?",
+   "answer_vi": "Những người được kêu gọi cách hiệu quả, trong đời này được dự phần sự xưng công chính, sự làm con nuôi, sự nên thánh, và các ích lợi khác trong đời này đi kèm hoặc phát sinh từ những điều đó.",
+   "proof_texts": [
     {
-     "ref": "Rô-ma 8:30",
+     "ref_vi": "Rô-ma 8:30",
+     "text_vi": "còn những kẻ Ngài đã định sẵn, thì Ngài cũng đã gọi, những kẻ Ngài đã gọi, thì Ngài cũng đã xưng là công bình, và những kẻ Ngài đã xưng là công bình, thì Ngài cũng đã làm cho vinh hiển.",
      "key": "rom:8:30"
     },
     {
-     "ref": "Ê-phê-sô 1:5",
+     "ref_vi": "Ê-phê-sô 1:5",
+     "text_vi": "bởi sự thương yêu của Ngài đã định trước cho chúng ta được trở nên con nuôi của Ngài bởi Đức Chúa Jêsus Christ, theo ý tốt của Ngài,",
      "key": "eph:1:5"
     },
     {
-     "ref": "1 Cô-rinh-tô 1:30",
+     "ref_vi": "1 Cô-rinh-tô 1:30",
+     "text_vi": "Vả, ấy là nhờ Ngài mà anh em ở trong Đức Chúa Jêsus Christ, là Đấng mà Đức Chúa Trời đã làm nên sự khôn ngoan, sự công bình, sự nên thánh, và sự cứu chuộc cho chúng ta;",
      "key": "1cor:1:30"
     }
    ]
   },
   {
-   "id": 33,
-   "question": "Sự xưng công chính là gì?",
-   "answer": "Sự xưng công chính là hành động của ân điển nhưng không của Đức Chúa Trời, trong đó Ngài tha thứ mọi tội lỗi của chúng ta và chấp nhận chúng ta là công chính trước mặt Ngài, chỉ vì sự công chính của Đấng Christ được kể cho chúng ta và được tiếp nhận bởi đức tin mà thôi.",
-   "proofTexts": [
+   "number": 33,
+   "question_vi": "Sự xưng công chính là gì?",
+   "answer_vi": "Sự xưng công chính là hành động của ân điển nhưng không của Đức Chúa Trời, trong đó Ngài tha thứ mọi tội lỗi của chúng ta và chấp nhận chúng ta là công chính trước mặt Ngài, chỉ vì sự công chính của Đấng Christ được kể cho chúng ta và được tiếp nhận bởi đức tin mà thôi.",
+   "proof_texts": [
     {
-     "ref": "Rô-ma 3:24",
+     "ref_vi": "Rô-ma 3:24",
+     "text_vi": "và họ nhờ ân điển Ngài mà được xưng công bình nhưng không, bởi sự chuộc tội đã làm trọn trong Đức Chúa Jêsus Christ,",
      "key": "rom:3:24"
     },
     {
-     "ref": "Rô-ma 5:1",
+     "ref_vi": "Rô-ma 5:1",
+     "text_vi": "Vậy chúng ta đã được xưng công bình bởi đức tin, thì được hòa thuận với Đức Chúa Trời, bởi Đức Chúa Jêsus Christ chúng ta,",
      "key": "rom:5:1"
     },
     {
-     "ref": "Ga-la-ti 2:16",
+     "ref_vi": "Ga-la-ti 2:16",
+     "text_vi": "Dầu vậy, đã biết rằng người ta được xưng công bình, chẳng phải bởi các việc luật pháp đâu, bèn là cậy đức tin trong Đức Chúa Jêsus Christ, nên chính chúng tôi đã tin Đức Chúa Jêsus Christ, để được xưng công bình bởi đức tin trong Đấng Christ, chớ chẳng bởi các việc luật pháp; vì chẳng có ai được xưng công bình bởi các việc luật pháp.",
      "key": "gal:2:16"
     }
    ]
   },
   {
-   "id": 34,
-   "question": "Sự làm con nuôi là gì?",
-   "answer": "Sự làm con nuôi là hành động của ân điển nhưng không của Đức Chúa Trời, bởi đó chúng ta được nhận vào số con cái Đức Chúa Trời và có quyền hưởng mọi đặc ân của con cái Ngài.",
-   "proofTexts": [
+   "number": 34,
+   "question_vi": "Sự làm con nuôi là gì?",
+   "answer_vi": "Sự làm con nuôi là hành động của ân điển nhưng không của Đức Chúa Trời, bởi đó chúng ta được nhận vào số con cái Đức Chúa Trời và có quyền hưởng mọi đặc ân của con cái Ngài.",
+   "proof_texts": [
     {
-     "ref": "1 Giăng 3:1",
+     "ref_vi": "1 Giăng 3:1",
+     "text_vi": "Hãy xem Đức Chúa Cha đã tỏ cho chúng ta sự yêu thương dường nào, mà cho chúng ta được xưng là con cái Đức Chúa Trời; và chúng ta thật là con cái Ngài. Aáy là vì đó mà thế gian chẳng biết chúng ta, vì họ chẳng từng biết Ngài.",
      "key": "1joh:3:1"
     },
     {
-     "ref": "Giăng 1:12",
+     "ref_vi": "Giăng 1:12",
+     "text_vi": "Nhưng hễ ai đã nhận Ngài, thì Ngài ban cho quyền phép trở nên con cái Đức Chúa Trời, là ban cho những kẻ tin danh Ngài,",
      "key": "joh:1:12"
     },
     {
-     "ref": "Rô-ma 8:15",
+     "ref_vi": "Rô-ma 8:15",
+     "text_vi": "Thật anh em đã chẳng nhận lấy thần trí của tôi mọi đặng còn ở trong sự sợ hãi; nhưng đã nhận lấy thần trí của sự làm con nuôi, và nhờ đó chúng ta kêu rằng: A-ba! Cha!",
      "key": "rom:8:15"
     }
    ]
   },
   {
-   "id": 35,
-   "question": "Sự nên thánh là gì?",
-   "answer": "Sự nên thánh là công việc của ân điển nhưng không của Đức Chúa Trời, bởi đó chúng ta được đổi mới toàn bộ con người theo hình ảnh Đức Chúa Trời, và được ban năng lực để càng ngày càng chết đối với tội lỗi và sống cho sự công chính.",
-   "proofTexts": [
+   "number": 35,
+   "question_vi": "Sự nên thánh là gì?",
+   "answer_vi": "Sự nên thánh là công việc của ân điển nhưng không của Đức Chúa Trời, bởi đó chúng ta được đổi mới toàn bộ con người theo hình ảnh Đức Chúa Trời, và được ban năng lực để càng ngày càng chết đối với tội lỗi và sống cho sự công chính.",
+   "proof_texts": [
     {
-     "ref": "1 Tê-sa-lô-ni-ca 5:23",
+     "ref_vi": "1 Tê-sa-lô-ni-ca 5:23",
+     "text_vi": "Nguyền xin chính Đức Chúa Trời bình an khiến anh em nên thánh trọn vẹn, và nguyền xin tâm thần, linh hồn, và thân thể của anh em đều được giữ vẹn, không chỗ trách được, khi Đức Chúa Jêsus Christ chúng ta đến!",
      "key": "1thes:5:23"
     },
     {
-     "ref": "Ê-phê-sô 4:24",
+     "ref_vi": "Ê-phê-sô 4:24",
+     "text_vi": "và mặc lấy người mới, tức là người đã được dựng nên giống như Đức Chúa Trời, trong sự công bình và sự thánh sạch của lẽ thật.",
      "key": "eph:4:24"
     },
     {
-     "ref": "2 Tê-sa-lô-ni-ca 2:13",
+     "ref_vi": "2 Tê-sa-lô-ni-ca 2:13",
+     "text_vi": "Hỡi anh em yêu dấu của Chúa, còn như chúng tôi, phải vì anh em tạ ơn Đức Chúa Trời không thôi, vì vừa lúc ban đầu, Ngài đã chọn anh em bởi sự nên thánh của Thánh Linh, và bởi tin lẽ thật, đặng ban sự cứu rỗi cho anh em.",
      "key": "2thes:2:13"
     }
    ]
   },
   {
-   "id": 36,
-   "question": "Những ích lợi nào trong đời này đi kèm hoặc phát sinh từ sự xưng công chính, sự làm con nuôi và sự nên thánh?",
-   "answer": "Những ích lợi trong đời này đi kèm hoặc phát sinh từ đó là: sự bảo đảm về tình yêu của Đức Chúa Trời, sự bình an trong lương tâm, sự vui mừng trong Đức Thánh Linh, sự gia tăng ân điển, và sự bền đỗ trong đó cho đến cuối cùng.",
-   "proofTexts": [
+   "number": 36,
+   "question_vi": "Những ích lợi nào trong đời này đi kèm hoặc phát sinh từ sự xưng công chính, sự làm con nuôi và sự nên thánh?",
+   "answer_vi": "Những ích lợi trong đời này đi kèm hoặc phát sinh từ đó là: sự bảo đảm về tình yêu của Đức Chúa Trời, sự bình an trong lương tâm, sự vui mừng trong Đức Thánh Linh, sự gia tăng ân điển, và sự bền đỗ trong đó cho đến cuối cùng.",
+   "proof_texts": [
     {
-     "ref": "Rô-ma 5:1",
+     "ref_vi": "Rô-ma 5:1",
+     "text_vi": "Vậy chúng ta đã được xưng công bình bởi đức tin, thì được hòa thuận với Đức Chúa Trời, bởi Đức Chúa Jêsus Christ chúng ta,",
      "key": "rom:5:1"
     },
     {
-     "ref": "Rô-ma 14:17",
+     "ref_vi": "Rô-ma 14:17",
+     "text_vi": "Vì nước Đức Chúa Trời chẳng tại sự ăn uống, nhưng tại sự công bình, bình an, vui vẻ bởi Đức Thánh Linh vậy.",
      "key": "rom:14:17"
     },
     {
-     "ref": "1 Phi-e-rơ 1:5",
+     "ref_vi": "1 Phi-e-rơ 1:5",
+     "text_vi": "là kẻ bởi đức tin nhờ quyền phép của Đức Chúa Trời giữ cho, để được sự cứu rỗi gần hiện ra trong kỳ sau rốt!",
      "key": "1pet:1:5"
     }
    ]
   },
   {
-   "id": 37,
-   "question": "Tín hữu nhận được những ích lợi nào từ Đấng Christ lúc qua đời?",
-   "answer": "Linh hồn của tín hữu lúc qua đời được nên trọn trong sự thánh khiết và lập tức bước vào vinh hiển; còn thân thể họ, vẫn hiệp một với Đấng Christ, an nghỉ trong mồ mả cho đến ngày sống lại.",
-   "proofTexts": [
+   "number": 37,
+   "question_vi": "Tín hữu nhận được những ích lợi nào từ Đấng Christ lúc qua đời?",
+   "answer_vi": "Linh hồn của tín hữu lúc qua đời được nên trọn trong sự thánh khiết và lập tức bước vào vinh hiển; còn thân thể họ, vẫn hiệp một với Đấng Christ, an nghỉ trong mồ mả cho đến ngày sống lại.",
+   "proof_texts": [
     {
-     "ref": "Hê-bơ-rơ 12:23",
+     "ref_vi": "Hê-bơ-rơ 12:23",
+     "text_vi": "gần Hội thánh của những con trưởng được ghi tên trong các từng trời, gần Đức Chúa Trời, là quan án của mọi người, gần các linh hồn người nghĩa được vẹn lành,",
      "key": "heb:12:23"
     },
     {
-     "ref": "Phi-líp 1:23",
+     "ref_vi": "Phi-líp 1:23",
+     "text_vi": "Tôi bị ép giữa hai bề muốn đi ở với Đấng Christ, là điều rất tốt hơn;",
      "key": "phil:1:23"
     },
     {
-     "ref": "1 Tê-sa-lô-ni-ca 4:14",
+     "ref_vi": "1 Tê-sa-lô-ni-ca 4:14",
+     "text_vi": "Vì nếu chúng ta tin Đức Chúa Jêsus đã chết và sống lại, thì cũng vậy, Đức Chúa Trời sẽ đem những kẻ ngủ trong Đức Chúa Jêsus cùng đến với Ngài.",
      "key": "1thes:4:14"
     }
    ]
   },
   {
-   "id": 38,
-   "question": "Tín hữu nhận được những ích lợi nào từ Đấng Christ trong ngày sống lại?",
-   "answer": "Trong ngày sống lại, tín hữu được sống lại trong vinh hiển, được công khai công nhận và tuyên bố vô tội trong ngày phán xét, và được phước trọn vẹn trong sự vui hưởng Đức Chúa Trời cách đầy trọn đời đời.",
-   "proofTexts": [
+   "number": 38,
+   "question_vi": "Tín hữu nhận được những ích lợi nào từ Đấng Christ trong ngày sống lại?",
+   "answer_vi": "Trong ngày sống lại, tín hữu được sống lại trong vinh hiển, được công khai công nhận và tuyên bố vô tội trong ngày phán xét, và được phước trọn vẹn trong sự vui hưởng Đức Chúa Trời cách đầy trọn đời đời.",
+   "proof_texts": [
     {
-     "ref": "1 Cô-rinh-tô 15:42",
+     "ref_vi": "1 Cô-rinh-tô 15:42",
+     "text_vi": "Sự sống lại của kẻ chết cũng như vậy. Thân thể đã gieo ra là hay hư nát, mà sống lại là không hay hư nát;",
      "key": "1cor:15:42"
     },
     {
-     "ref": "Ma-thi-ơ 25:34",
+     "ref_vi": "Ma-thi-ơ 25:34",
+     "text_vi": "Bấy giờ, vua sẽ phán cùng những kẻ ở bên hữu rằng: Hỡi các ngươi được Cha ta ban phước, hãy đến mà nhận lấy nước thiên đàng đã sắm sẵn cho các ngươi từ khi dựng nên trời đất.",
      "key": "mat:25:34"
     },
     {
-     "ref": "Thi Thiên 16:11",
+     "ref_vi": "Thi Thiên 16:11",
+     "text_vi": "Chúa sẽ chỉ cho tôi biết con đường sự sống; Trước mặt Chúa có trọn sự khoái lạc, Tại bên hữu Chúa có điều vui sướng vô cùng.",
      "key": "psa:16:11"
     }
    ]
   },
   {
-   "id": 39,
-   "question": "Bổn phận mà Đức Chúa Trời đòi hỏi nơi con người là gì?",
-   "answer": "Bổn phận mà Đức Chúa Trời đòi hỏi nơi con người là vâng theo ý muốn đã được bày tỏ của Ngài.",
-   "proofTexts": [
+   "number": 39,
+   "question_vi": "Bổn phận mà Đức Chúa Trời đòi hỏi nơi con người là gì?",
+   "answer_vi": "Bổn phận mà Đức Chúa Trời đòi hỏi nơi con người là vâng theo ý muốn đã được bày tỏ của Ngài.",
+   "proof_texts": [
     {
-     "ref": "Phục Truyền Luật Lệ Ký 29:29",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 29:29",
+     "text_vi": "Những sự bí mật thuộc về Giê-hô-va Đức Chúa Trời chúng ta; song những sự bày tỏ thuộc về chúng ta, và con cháu chúng ta đời đời, để chúng ta làm theo mọi lời của luật pháp nầy.",
      "key": "deb:29:29"
     },
     {
-     "ref": "Mi-chê 6:8",
+     "ref_vi": "Mi-chê 6:8",
+     "text_vi": "Hỡi người! Ngài đã tỏ cho ngươi điều gì là thiện; cái điều mà Đức Giê-hô-va đòi ngươi há chẳng phải là làm sự công bình, ưa sự nhân từ và bước đi cách khiêm nhường với Đức Chúa Trời ngươi sao?",
      "key": "mich:6:8"
     },
     {
-     "ref": "1 Sa-mu-ên 15:22",
+     "ref_vi": "1 Sa-mu-ên 15:22",
+     "text_vi": "Sa-mu-ên nói: Đức Giê-hô-va há đẹp lòng của lễ thiêu và của lễ thù ân bằng sự vâng theo lời phán của Ngài ư? Vả, sự vâng lời tốt hơn của tế lễ; sự nghe theo tốt hơn mỡ chiên đực;",
      "key": "1sam:15:22"
     }
    ]
   },
   {
-   "id": 40,
-   "question": "Ban đầu Đức Chúa Trời đã bày tỏ điều gì cho con người làm quy tắc vâng lời?",
-   "answer": "Quy tắc mà ban đầu Đức Chúa Trời bày tỏ cho con người để vâng lời là luật pháp đạo đức.",
-   "proofTexts": [
+   "number": 40,
+   "question_vi": "Ban đầu Đức Chúa Trời đã bày tỏ điều gì cho con người làm quy tắc vâng lời?",
+   "answer_vi": "Quy tắc mà ban đầu Đức Chúa Trời bày tỏ cho con người để vâng lời là luật pháp đạo đức.",
+   "proof_texts": [
     {
-     "ref": "Rô-ma 2:14",
+     "ref_vi": "Rô-ma 2:14",
+     "text_vi": "Vả, dân ngoại vốn không có luật pháp, khi họ tự nhiên làm những việc luật pháp dạy biểu, thì những người ấy dầu không có luật pháp, cũng tự nên luật pháp cho mình.",
      "key": "rom:2:14"
     },
     {
-     "ref": "Rô-ma 10:5",
+     "ref_vi": "Rô-ma 10:5",
+     "text_vi": "Vả, Môi-se luận sự công bình đến bởi luật pháp cách nầy: Hễ ai làm theo điều đó thì nhờ đó mà sống.",
      "key": "rom:10:5"
     }
    ]
   },
   {
-   "id": 41,
-   "question": "Luật pháp đạo đức được tóm tắt ở đâu?",
-   "answer": "Luật pháp đạo đức được tóm tắt trong Mười Điều Răn.",
-   "proofTexts": [
+   "number": 41,
+   "question_vi": "Luật pháp đạo đức được tóm tắt ở đâu?",
+   "answer_vi": "Luật pháp đạo đức được tóm tắt trong Mười Điều Răn.",
+   "proof_texts": [
     {
-     "ref": "Phục Truyền Luật Lệ Ký 10:4",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 10:4",
+     "text_vi": "Ngài viết trên hai bảng nầy lời Ngài đã viết lần trước, tức là mười điều răn mà Đức Giê-hô-va từ giữa lửa tại trên núi, có phán cùng các ngươi, trong ngày nhóm hiệp; rồi Đức Giê-hô-va trao cho ta.",
      "key": "deb:10:4"
     },
     {
-     "ref": "Ma-thi-ơ 19:17",
+     "ref_vi": "Ma-thi-ơ 19:17",
+     "text_vi": "Đức Chúa Jêsus đáp rằng: Sao ngươi hỏi ta về việc lành? Chỉ có một Đấng lành mà thôi. Nếu ngươi muốn vào sự sống, thì phải giữ các điều răn.",
      "key": "mat:19:17"
     }
    ]
   },
   {
-   "id": 42,
-   "question": "Nội dung tóm tắt của Mười Điều Răn là gì?",
-   "answer": "Nội dung tóm tắt của Mười Điều Răn là: yêu Chúa là Đức Chúa Trời chúng ta hết lòng, hết linh hồn, hết sức lực và hết trí khôn; và yêu người lân cận như chính mình.",
-   "proofTexts": [
+   "number": 42,
+   "question_vi": "Nội dung tóm tắt của Mười Điều Răn là gì?",
+   "answer_vi": "Nội dung tóm tắt của Mười Điều Răn là: yêu Chúa là Đức Chúa Trời chúng ta hết lòng, hết linh hồn, hết sức lực và hết trí khôn; và yêu người lân cận như chính mình.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 22:37",
+     "ref_vi": "Ma-thi-ơ 22:37",
+     "text_vi": "Đức Chúa Jêsus đáp rằng: Ngươi hãy hết lòng, hết linh hồn, hết ý mà yêu mến Chúa, là Đức Chúa Trời ngươi.",
      "key": "mat:22:37"
     },
     {
-     "ref": "Ma-thi-ơ 22:39",
+     "ref_vi": "Ma-thi-ơ 22:39",
+     "text_vi": "Còn điều răn thứ hai đây, cũng như vậy: Ngươi hãy yêu kẻ lân cận như mình.",
      "key": "mat:22:39"
     },
     {
-     "ref": "Ga-la-ti 5:14",
+     "ref_vi": "Ga-la-ti 5:14",
+     "text_vi": "Vì cả luật pháp chỉ tóm lại trong một lời nầy: Ngươi hãy yêu kẻ lân cận như mình.",
      "key": "gal:5:14"
     }
    ]
   },
   {
-   "id": 43,
-   "question": "Lời mở đầu của Mười Điều Răn là gì?",
-   "answer": "Lời mở đầu của Mười Điều Răn là những lời này: “Ta là Giê-hô-va Đức Chúa Trời ngươi, đã rút ngươi ra khỏi xứ Ê-díp-tô, là nhà nô lệ.”",
-   "proofTexts": [
+   "number": 43,
+   "question_vi": "Lời mở đầu của Mười Điều Răn là gì?",
+   "answer_vi": "Lời mở đầu của Mười Điều Răn là những lời này: “Ta là Giê-hô-va Đức Chúa Trời ngươi, đã rút ngươi ra khỏi xứ Ê-díp-tô, là nhà nô lệ.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:2",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:2",
+     "text_vi": "Ta là Giê-hô-va Đức Chúa Trời ngươi, đã rút ngươi ra khỏi xứ Ê-díp-tô, là nhà nô lệ.",
      "key": "exo:20:2"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:6",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:6",
+     "text_vi": "Ta là Giê-hô-va Đức Chúa Trời ngươi, đã rút ngươi ra khỏi xứ Ê-díp-tô, tức là khỏi nhà nô lệ.",
      "key": "deb:5:6"
     }
    ]
   },
   {
-   "id": 44,
-   "question": "Lời mở đầu của Mười Điều Răn dạy chúng ta điều gì?",
-   "answer": "Lời mở đầu dạy chúng ta rằng vì Đức Chúa Trời là Chúa, là Đức Chúa Trời của chúng ta và là Đấng Cứu Chuộc chúng ta, nên chúng ta phải giữ mọi điều răn của Ngài.",
-   "proofTexts": [
+   "number": 44,
+   "question_vi": "Lời mở đầu của Mười Điều Răn dạy chúng ta điều gì?",
+   "answer_vi": "Lời mở đầu dạy chúng ta rằng vì Đức Chúa Trời là Chúa, là Đức Chúa Trời của chúng ta và là Đấng Cứu Chuộc chúng ta, nên chúng ta phải giữ mọi điều răn của Ngài.",
+   "proof_texts": [
     {
-     "ref": "Lu-ca 1:74",
+     "ref_vi": "Lu-ca 1:74",
+     "text_vi": "Mà hứa rằng khi chúng tôi đã được cứu khỏi tay kẻ nghịch thù, Ngài sẽ ban ơn lành cho chúng tôi, trước mặt Ngài,",
      "key": "luk:1:74"
     },
     {
-     "ref": "1 Phi-e-rơ 1:18",
+     "ref_vi": "1 Phi-e-rơ 1:18",
+     "text_vi": "vì biết rằng chẳng phải bởi vật hay hư nát như bạc hoặc vàng mà anh em đã được chuộc khỏi sự ăn ở không ra chi của tổ tiên truyền lại cho mình,",
      "key": "1pet:1:18"
     }
    ]
   },
   {
-   "id": 45,
-   "question": "Điều răn thứ nhất là gì?",
-   "answer": "Điều răn thứ nhất là: “Trước mặt ta, ngươi chớ có các thần khác.”",
-   "proofTexts": [
+   "number": 45,
+   "question_vi": "Điều răn thứ nhất là gì?",
+   "answer_vi": "Điều răn thứ nhất là: “Trước mặt ta, ngươi chớ có các thần khác.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:3",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:3",
+     "text_vi": "Trước mặt ta, ngươi chớ có các thần khác.",
      "key": "exo:20:3"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:7",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:7",
+     "text_vi": "Trước mặt ta ngươi chớ có các thần khác.",
      "key": "deb:5:7"
     }
    ]
   },
   {
-   "id": 46,
-   "question": "Điều răn thứ nhất đòi hỏi điều gì?",
-   "answer": "Điều răn thứ nhất đòi hỏi chúng ta biết và nhìn nhận Đức Chúa Trời là Đức Chúa Trời chân thật duy nhất, và là Đức Chúa Trời của chúng ta; và thờ phượng, tôn vinh Ngài xứng hợp.",
-   "proofTexts": [
+   "number": 46,
+   "question_vi": "Điều răn thứ nhất đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ nhất đòi hỏi chúng ta biết và nhìn nhận Đức Chúa Trời là Đức Chúa Trời chân thật duy nhất, và là Đức Chúa Trời của chúng ta; và thờ phượng, tôn vinh Ngài xứng hợp.",
+   "proof_texts": [
     {
-     "ref": "1 Sử Ký 28:9",
+     "ref_vi": "1 Sử Ký 28:9",
+     "text_vi": "Còn ngươi, là Sa-lô-môn, con trai ta, hãy nhận biết Đức Chúa Trời của cha, hết lòng vui ý mà phục sự Ngài; vì Đức Giê-hô-va dò xét tấm lòng, và phân biệt các ý tưởng. Nếu con tìm kiếm Ngài, Ngài sẽ cho con gặp; nhưng nếu con lìa bỏ Ngài, ắt Ngài sẽ từ bỏ con đời đời.",
      "key": "1chron:28:9"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 26:17",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 26:17",
+     "text_vi": "Ngày nay, ngươi hứa nhận Giê-hô-va làm Đức Chúa Trời ngươi, đi theo đường lối Ngài, gìn giữ các luật lệ, điều răn và mạng lịnh Ngài, cùng vâng theo tiếng phán của Ngài.",
      "key": "deb:26:17"
     },
     {
-     "ref": "Ma-thi-ơ 4:10",
+     "ref_vi": "Ma-thi-ơ 4:10",
+     "text_vi": "Đức Chúa Jêsus bèn phán cùng nó rằng: Hỡi quỉ Sa-tan, ngươi hãy lui ra! Vì có lời chép rằng: Ngươi phải thờ phượng Chúa là Đức Chúa Trời ngươi, và chỉ hầu việc một mình Ngài mà thôi.",
      "key": "mat:4:10"
     }
    ]
   },
   {
-   "id": 47,
-   "question": "Điều răn thứ nhất cấm điều gì?",
-   "answer": "Điều răn thứ nhất cấm việc chối bỏ, hoặc không thờ phượng và tôn vinh Đức Chúa Trời chân thật là Đức Chúa Trời, và là Đức Chúa Trời của chúng ta; cũng cấm dâng cho bất cứ đối tượng nào khác sự thờ phượng và vinh hiển vốn chỉ thuộc về một mình Ngài.",
-   "proofTexts": [
+   "number": 47,
+   "question_vi": "Điều răn thứ nhất cấm điều gì?",
+   "answer_vi": "Điều răn thứ nhất cấm việc chối bỏ, hoặc không thờ phượng và tôn vinh Đức Chúa Trời chân thật là Đức Chúa Trời, và là Đức Chúa Trời của chúng ta; cũng cấm dâng cho bất cứ đối tượng nào khác sự thờ phượng và vinh hiển vốn chỉ thuộc về một mình Ngài.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 81:11",
+     "ref_vi": "Thi Thiên 81:11",
+     "text_vi": "Nhưng dân sự ta không khứng nghe tiếng ta, Y-sơ-ra-ên không muốn vâng theo ta.",
      "key": "psa:81:11"
     },
     {
-     "ref": "Rô-ma 1:25",
+     "ref_vi": "Rô-ma 1:25",
+     "text_vi": "vì họ đã đổi lẽ thật Đức Chúa Trời lấy sự dối trá, kính thờ và hầu việc loài chịu dựng nên thế cho Đấng dựng nên, là Đấng đáng khen ngợi đời đời! A-men.",
      "key": "rom:1:25"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 6:14",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 6:14",
+     "text_vi": "Chớ theo các thần khác trong những thần của các dân tộc ở xung quanh các ngươi,",
      "key": "deb:6:14"
     }
    ]
   },
   {
-   "id": 48,
-   "question": "Cụm từ “trước mặt Ta” trong điều răn thứ nhất dạy chúng ta điều gì đặc biệt?",
-   "answer": "Cụm từ “trước mặt Ta” dạy chúng ta rằng Đức Chúa Trời, Đấng thấy mọi sự, để ý đến tội thờ thần khác và rất không đẹp lòng về tội đó.",
-   "proofTexts": [
+   "number": 48,
+   "question_vi": "Cụm từ “trước mặt Ta” trong điều răn thứ nhất dạy chúng ta điều gì đặc biệt?",
+   "answer_vi": "Cụm từ “trước mặt Ta” dạy chúng ta rằng Đức Chúa Trời, Đấng thấy mọi sự, để ý đến tội thờ thần khác và rất không đẹp lòng về tội đó.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 44:20",
+     "ref_vi": "Thi Thiên 44:20",
+     "text_vi": "Nếu chúng tôi có quên danh Đức Chúa Trời chúng tôi, Hoặc giơ tay mình hướng về một thần lạ,",
      "key": "psa:44:20"
     },
     {
-     "ref": "Ê-phê-sô 5:5",
+     "ref_vi": "Ê-phê-sô 5:5",
+     "text_vi": "Vì anh em phải biết rõ rằng kẻ gian dâm, ô uế, tham lam, tức là kẻ thờ hình tượng, không một kẻ nào được dự phần kế nghiệp của nước Đấng Christ và Đức Chúa Trời.",
      "key": "eph:5:5"
     }
    ]
   },
   {
-   "id": 49,
-   "question": "Điều răn thứ hai là gì?",
-   "answer": "Điều răn thứ hai là: “Ngươi chớ làm tượng chạm cho mình, cũng chớ làm tượng nào giống những vật trên trời cao kia, hoặc nơi đất thấp nầy, hoặc trong nước dưới đất. Ngươi chớ quì lạy trước các hình tượng đó, và cũng đừng hầu việc chúng nó; vì ta là Giê-hô-va Đức Chúa Trời ngươi, tức là Đức Chúa Trời kỵ tà, hễ ai ghét ta, ta sẽ nhân tội tổ phụ phạt lại con cháu đến ba bốn đời, và sẽ làm ơn đến ngàn đời cho những kẻ yêu mến ta và giữ các điều răn ta.”",
-   "proofTexts": [
+   "number": 49,
+   "question_vi": "Điều răn thứ hai là gì?",
+   "answer_vi": "Điều răn thứ hai là: “Ngươi chớ làm tượng chạm cho mình, cũng chớ làm tượng nào giống những vật trên trời cao kia, hoặc nơi đất thấp nầy, hoặc trong nước dưới đất. Ngươi chớ quì lạy trước các hình tượng đó, và cũng đừng hầu việc chúng nó; vì ta là Giê-hô-va Đức Chúa Trời ngươi, tức là Đức Chúa Trời kỵ tà, hễ ai ghét ta, ta sẽ nhân tội tổ phụ phạt lại con cháu đến ba bốn đời, và sẽ làm ơn đến ngàn đời cho những kẻ yêu mến ta và giữ các điều răn ta.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:4",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:4",
+     "text_vi": "Ngươi chớ làm tượng chạm cho mình, cũng chớ làm tượng nào giống những vật trên trời cao kia, hoặc nơi đất thấp nầy, hoặc trong nước dưới đất.",
      "key": "exo:20:4"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:8",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:8",
+     "text_vi": "Ngươi chớ làm tượng chạm cho mình, cũng chớ làm tượng nào giống như những vật trên trời cao kia, hoặc ở nơi đất thấp nầy, hoặc trong nước dưới đất.",
      "key": "deb:5:8"
     }
    ]
   },
   {
-   "id": 50,
-   "question": "Điều răn thứ hai đòi hỏi điều gì?",
-   "answer": "Điều răn thứ hai đòi hỏi chúng ta tiếp nhận, tuân giữ và bảo toàn tinh sạch, trọn vẹn mọi sự thờ phượng và các thánh lễ mà Đức Chúa Trời đã lập trong Lời Ngài.",
-   "proofTexts": [
+   "number": 50,
+   "question_vi": "Điều răn thứ hai đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ hai đòi hỏi chúng ta tiếp nhận, tuân giữ và bảo toàn tinh sạch, trọn vẹn mọi sự thờ phượng và các thánh lễ mà Đức Chúa Trời đã lập trong Lời Ngài.",
+   "proof_texts": [
     {
-     "ref": "Phục Truyền Luật Lệ Ký 12:32",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 12:32",
+     "text_vi": "Các ngươi khá cẩn thận làm theo mọi điều ta dặn biểu các ngươi: chớ thêm hay là bớt chi hết.",
      "key": "deb:12:32"
     },
     {
-     "ref": "Ma-thi-ơ 28:20",
+     "ref_vi": "Ma-thi-ơ 28:20",
+     "text_vi": "và dạy họ giữ hết cả mọi điều mà ta đã truyền cho các ngươi. Và nầy, ta thường ở cùng các ngươi luôn cho đến tận thế.",
      "key": "mat:28:20"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 2:42",
+     "ref_vi": "Công Vụ Các Sứ Đồ 2:42",
+     "text_vi": "Vả, những người ấy bền lòng giữ lời dạy của các sứ đồ, sự thông công của anh em, lễ bẻ bánh, và sự cầu nguyện.",
      "key": "act:2:42"
     }
    ]
   },
   {
-   "id": 51,
-   "question": "Điều răn thứ hai cấm điều gì?",
-   "answer": "Điều răn thứ hai cấm việc thờ phượng Đức Chúa Trời bằng hình tượng, hay bằng bất cứ cách nào Ngài không lập trong Lời Ngài.",
-   "proofTexts": [
+   "number": 51,
+   "question_vi": "Điều răn thứ hai cấm điều gì?",
+   "answer_vi": "Điều răn thứ hai cấm việc thờ phượng Đức Chúa Trời bằng hình tượng, hay bằng bất cứ cách nào Ngài không lập trong Lời Ngài.",
+   "proof_texts": [
     {
-     "ref": "Phục Truyền Luật Lệ Ký 4:15",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 4:15",
+     "text_vi": "Vậy, các ngươi hãy cẩn thận giữ lấy linh hồn mình cho lắm, vì các ngươi không có thấy một hình trạng nào trong ngày Giê-hô-va Đức Chúa Trời các ngươi, từ nơi giữa lửa phán cùng các ngươi, tại Hô-rếp;",
      "key": "deb:4:15"
     },
     {
-     "ref": "Rô-ma 1:23",
+     "ref_vi": "Rô-ma 1:23",
+     "text_vi": "họ đã đổi vinh hiển của Đức Chúa Trời không hề hư nát lấy hình tượng của loài người hay hư nát, hoặc của điểu, thú, côn trùng.",
      "key": "rom:1:23"
     }
    ]
   },
   {
-   "id": 52,
-   "question": "Những lý do kèm theo điều răn thứ hai là gì?",
-   "answer": "Những lý do kèm theo điều răn thứ hai là: quyền tể trị của Đức Chúa Trời trên chúng ta, quyền sở hữu của Ngài đối với chúng ta, và lòng sốt sắng Ngài dành cho sự thờ phượng Ngài.",
-   "proofTexts": [
+   "number": 52,
+   "question_vi": "Những lý do kèm theo điều răn thứ hai là gì?",
+   "answer_vi": "Những lý do kèm theo điều răn thứ hai là: quyền tể trị của Đức Chúa Trời trên chúng ta, quyền sở hữu của Ngài đối với chúng ta, và lòng sốt sắng Ngài dành cho sự thờ phượng Ngài.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 95:2",
+     "ref_vi": "Thi Thiên 95:2",
+     "text_vi": "Chúng tôi hãy lấy lời cảm tạ mà đến trước mặt Chúa, Vui mừng mà hát thơ ca cho Ngài.",
      "key": "psa:95:2"
     },
     {
-     "ref": "Xuất Ê-díp-tô Ký 34:14",
+     "ref_vi": "Xuất Ê-díp-tô Ký 34:14",
+     "text_vi": "Vì ngươi đừng sấp mình xuống trước mặt Chúa nào khác, bởi Đức Giê-hô-va tự xưng là Đức Chúa Trời kỵ tà; Ngài thật là một Đức Chúa Trời kỵ tà vậy.",
      "key": "exo:34:14"
     },
     {
-     "ref": "1 Cô-rinh-tô 10:22",
+     "ref_vi": "1 Cô-rinh-tô 10:22",
+     "text_vi": "Hay là chúng ta muốn trêu lòng Chúa ghen chăng? Chúng ta há mạnh hơn Ngài sao?",
      "key": "1cor:10:22"
     }
    ]
   },
   {
-   "id": 53,
-   "question": "Điều răn thứ ba là gì?",
-   "answer": "Điều răn thứ ba là: “Ngươi chớ lấy danh Giê-hô-va Đức Chúa Trời ngươi mà làm chơi, vì Đức Giê-hô-va chẳng cầm bằng vô tội kẻ nào lấy danh Ngài mà làm chơi.”",
-   "proofTexts": [
+   "number": 53,
+   "question_vi": "Điều răn thứ ba là gì?",
+   "answer_vi": "Điều răn thứ ba là: “Ngươi chớ lấy danh Giê-hô-va Đức Chúa Trời ngươi mà làm chơi, vì Đức Giê-hô-va chẳng cầm bằng vô tội kẻ nào lấy danh Ngài mà làm chơi.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:7",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:7",
+     "text_vi": "Ngươi chớ lấy danh Giê-hô-va Đức Chúa Trời ngươi mà làm chơi, vì Đức Giê-hô-va chẳng cầm bằng vô tội kẻ nào lấy danh Ngài mà làm chơi.",
      "key": "exo:20:7"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:11",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:11",
+     "text_vi": "Ngươi chớ lấy danh của Giê-hô-va Đức Chúa Trời ngươi mà làm chơi; vì Đức Giê-hô-va không cầm bằng vô tội kẻ nào lấy danh Ngài mà làm chơi.",
      "key": "deb:5:11"
     }
    ]
   },
   {
-   "id": 54,
-   "question": "Điều răn thứ ba đòi hỏi điều gì?",
-   "answer": "Điều răn thứ ba đòi hỏi chúng ta sử dụng cách thánh khiết và tôn kính danh, các tước hiệu, thuộc tính, thánh lễ, Lời và công việc của Đức Chúa Trời.",
-   "proofTexts": [
+   "number": 54,
+   "question_vi": "Điều răn thứ ba đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ ba đòi hỏi chúng ta sử dụng cách thánh khiết và tôn kính danh, các tước hiệu, thuộc tính, thánh lễ, Lời và công việc của Đức Chúa Trời.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 29:2",
+     "ref_vi": "Thi Thiên 29:2",
+     "text_vi": "Hãy tôn Đức Giê-hô-va vinh hiển xứng đáng cho danh Ngài; Hãy mặc trang sức thánh mà thờ lạy Đức Giê-hô-va.",
      "key": "psa:29:2"
     },
     {
-     "ref": "Ma-la-chi 1:11",
+     "ref_vi": "Ma-la-chi 1:11",
+     "text_vi": "Vì từ nơi mặt trời mọc cho đến nơi mặt trời lặn, danh ta sẽ là lớn giữa các dân ngoại. Trong khắp mọi nơi, người ta sẽ dâng hương và của lễ thanh sạch cho danh ta; vì danh ta sẽ là lớn giữa các dân ngoại, Đức Giê-hô-va vạn quân phán vậy.",
      "key": "mal:1:11"
     },
     {
-     "ref": "Khải Huyền 15:4",
+     "ref_vi": "Khải Huyền 15:4",
+     "text_vi": "Lạy Chúa, ai là kẻ không kính sợ và không ngợi khen danh Ngài? Vì một mình Ngài là thánh, mọi dân tộc sẽ đến thờ lạy trước mặt Ngài, vì các sự đoán xét Ngài đã được tỏ ra.",
      "key": "rev:15:4"
     }
    ]
   },
   {
-   "id": 55,
-   "question": "Điều răn thứ ba cấm điều gì?",
-   "answer": "Điều răn thứ ba cấm mọi sự xúc phạm hay lạm dụng bất cứ điều gì mà qua đó Đức Chúa Trời bày tỏ chính Ngài.",
-   "proofTexts": [
+   "number": 55,
+   "question_vi": "Điều răn thứ ba cấm điều gì?",
+   "answer_vi": "Điều răn thứ ba cấm mọi sự xúc phạm hay lạm dụng bất cứ điều gì mà qua đó Đức Chúa Trời bày tỏ chính Ngài.",
+   "proof_texts": [
     {
-     "ref": "Lê-vi Ký 19:12",
+     "ref_vi": "Lê-vi Ký 19:12",
+     "text_vi": "Các ngươi chớ chỉ danh ta mà thề dối, vì ngươi làm ô danh của Đức Chúa Trời mình: Ta là Đức Giê-hô-va.",
      "key": "lev:19:12"
     },
     {
-     "ref": "Ma-thi-ơ 5:34",
+     "ref_vi": "Ma-thi-ơ 5:34",
+     "text_vi": "Song ta phán cùng các ngươi rằng đừng thề chi hết: đừng chỉ trời mà thề, vì là ngôi của Đức Chúa Trời;",
      "key": "mat:5:34"
     },
     {
-     "ref": "Thi Thiên 139:20",
+     "ref_vi": "Thi Thiên 139:20",
+     "text_vi": "Chúng nó nói nghịch Chúa cách phớm phỉnh, Kẻ thù nghịch Chúa lấy danh Chúa mà làm chơi.",
      "key": "psa:139:20"
     }
    ]
   },
   {
-   "id": 56,
-   "question": "Lý do kèm theo điều răn thứ ba là gì?",
-   "answer": "Lý do kèm theo điều răn thứ ba là: dù những kẻ vi phạm điều răn này có thể thoát khỏi hình phạt của loài người, Đức Giê-hô-va Đức Chúa Trời chúng ta sẽ không để họ thoát khỏi sự phán xét công chính của Ngài.",
-   "proofTexts": [
+   "number": 56,
+   "question_vi": "Lý do kèm theo điều răn thứ ba là gì?",
+   "answer_vi": "Lý do kèm theo điều răn thứ ba là: dù những kẻ vi phạm điều răn này có thể thoát khỏi hình phạt của loài người, Đức Giê-hô-va Đức Chúa Trời chúng ta sẽ không để họ thoát khỏi sự phán xét công chính của Ngài.",
+   "proof_texts": [
     {
-     "ref": "Phục Truyền Luật Lệ Ký 28:58",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 28:58",
+     "text_vi": "Nếu ngươi không cẩn thận làm theo các lời của luật pháp nầy, ghi trong sách nầy, không kính sợ danh vinh hiển và đáng sợ nầy là Giê-hô-va Đức Chúa Trời ngươi,",
      "key": "deb:28:58"
     },
     {
-     "ref": "Ma-la-chi 3:5",
+     "ref_vi": "Ma-la-chi 3:5",
+     "text_vi": "Ta sẽ đến gần các ngươi đặng làm sự đoán xét, và ta sẽ vội vàng làm chứng nghịch cùng những kẻ đồng bóng, tà dâm, những kẻ thề dối, những kẻ gạt tiền công của người làm thuê, hiếp đáp kẻ góa bụa và kẻ mồ côi, những kẻ làm hại người khách lạ, và những kẻ không kính sợ ta, Đức Giê-hô-va vạn quân phán vậy.",
      "key": "mal:3:5"
     }
    ]
   },
   {
-   "id": 57,
-   "question": "Điều răn thứ tư là gì?",
-   "answer": "Điều răn thứ tư là: “Hãy nhớ ngày nghỉ đặng làm nên ngày thánh. Ngươi hãy làm hết công việc mình trong sáu ngày; nhưng ngày thứ bảy là ngày nghỉ của Giê-hô-va Đức Chúa Trời ngươi: trong ngày đó, ngươi, con trai, con gái tôi trai tớ gái, súc vật của ngươi, hoặc khách ngoại bang ở trong nhà ngươi, đều chớ làm công việc chi hết; vì trong sáu ngày Đức Giê-hô-va đã dựng nên trời, đất, biển, và muôn vật ở trong đó, qua ngày thứ bảy thì Ngài nghỉ: vậy nên Đức Giê-hô-va đã ban phước cho ngày nghỉ và làm nên ngày thánh.”",
-   "proofTexts": [
+   "number": 57,
+   "question_vi": "Điều răn thứ tư là gì?",
+   "answer_vi": "Điều răn thứ tư là: “Hãy nhớ ngày nghỉ đặng làm nên ngày thánh. Ngươi hãy làm hết công việc mình trong sáu ngày; nhưng ngày thứ bảy là ngày nghỉ của Giê-hô-va Đức Chúa Trời ngươi: trong ngày đó, ngươi, con trai, con gái tôi trai tớ gái, súc vật của ngươi, hoặc khách ngoại bang ở trong nhà ngươi, đều chớ làm công việc chi hết; vì trong sáu ngày Đức Giê-hô-va đã dựng nên trời, đất, biển, và muôn vật ở trong đó, qua ngày thứ bảy thì Ngài nghỉ: vậy nên Đức Giê-hô-va đã ban phước cho ngày nghỉ và làm nên ngày thánh.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:8",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:8",
+     "text_vi": "Hãy nhớ ngày nghỉ đặng làm nên ngày thánh.",
      "key": "exo:20:8"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:12",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:12",
+     "text_vi": "Hãy giữ ngày nghỉ đặng làm nên thánh, y như Giê-hô-va Đức Chúa Trời ngươi đã phán dặn ngươi.",
      "key": "deb:5:12"
     }
    ]
   },
   {
-   "id": 58,
-   "question": "Điều răn thứ tư đòi hỏi điều gì?",
-   "answer": "Điều răn thứ tư đòi hỏi chúng ta giữ thánh cho Đức Chúa Trời những thì giờ nhất định mà Ngài đã lập trong Lời Ngài; rõ ràng là trọn một ngày trong bảy ngày, làm ngày sa-bát thánh cho Ngài.",
-   "proofTexts": [
+   "number": 58,
+   "question_vi": "Điều răn thứ tư đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ tư đòi hỏi chúng ta giữ thánh cho Đức Chúa Trời những thì giờ nhất định mà Ngài đã lập trong Lời Ngài; rõ ràng là trọn một ngày trong bảy ngày, làm ngày sa-bát thánh cho Ngài.",
+   "proof_texts": [
     {
-     "ref": "Lê-vi Ký 19:30",
+     "ref_vi": "Lê-vi Ký 19:30",
+     "text_vi": "Các ngươi phải giữ những sa-bát ta, và tôn kính nơi thánh ta: Ta là Đức Giê-hô-va.",
      "key": "lev:19:30"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:12",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:12",
+     "text_vi": "Hãy giữ ngày nghỉ đặng làm nên thánh, y như Giê-hô-va Đức Chúa Trời ngươi đã phán dặn ngươi.",
      "key": "deb:5:12"
     },
     {
-     "ref": "Ê-sai 56:2",
+     "ref_vi": "Ê-sai 56:2",
+     "text_vi": "Phước thay cho người làm điều đó, và con người cầm vững sự đó, giữ ngày Sa-bát đặng đừng làm ô uế, cấm tay mình không làm một điều ác nào!",
      "key": "isa:56:2"
     }
    ]
   },
   {
-   "id": 59,
-   "question": "Đức Chúa Trời đã định ngày nào trong bảy ngày làm ngày sa-bát hằng tuần?",
-   "answer": "Từ buổi sáng thế cho đến sự sống lại của Đấng Christ, Đức Chúa Trời định ngày thứ bảy trong tuần làm ngày sa-bát hằng tuần; và từ đó về sau, ngày thứ nhất trong tuần, cho đến tận thế, tức là ngày sa-bát của Cơ Đốc nhân.",
-   "proofTexts": [
+   "number": 59,
+   "question_vi": "Đức Chúa Trời đã định ngày nào trong bảy ngày làm ngày sa-bát hằng tuần?",
+   "answer_vi": "Từ buổi sáng thế cho đến sự sống lại của Đấng Christ, Đức Chúa Trời định ngày thứ bảy trong tuần làm ngày sa-bát hằng tuần; và từ đó về sau, ngày thứ nhất trong tuần, cho đến tận thế, tức là ngày sa-bát của Cơ Đốc nhân.",
+   "proof_texts": [
     {
-     "ref": "Sáng Thế Ký 2:3",
+     "ref_vi": "Sáng Thế Ký 2:3",
+     "text_vi": "Rồi, Ngài ban phước cho ngày thứ bảy, đặt là ngày thánh; vì trong ngày đó, Ngài nghỉ các công việc đã dựng nên và đã làm xong rồi.",
      "key": "gen:2:3"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 20:7",
+     "ref_vi": "Công Vụ Các Sứ Đồ 20:7",
+     "text_vi": "Ngày thứ nhất trong tuần lễ, chúng ta đang nhóm lại để bẻ bánh; Phao-lô phải đi ngày mai, nên người nói chuyện với các môn đồ, và cứ giảng luôn cho đến nửa đêm,",
      "key": "act:20:7"
     },
     {
-     "ref": "1 Cô-rinh-tô 16:2",
+     "ref_vi": "1 Cô-rinh-tô 16:2",
+     "text_vi": "Cứ ngày đầu tuần lễ, mỗi một người trong anh em khá tùy sức mình chắt lót được bao nhiêu thì để dành tại nhà mình, hầu cho khỏi đợi khi tôi đến rồi mới góp.",
      "key": "1cor:16:2"
     }
    ]
   },
   {
-   "id": 60,
-   "question": "Phải thánh hóa ngày sa-bát như thế nào?",
-   "answer": "Phải thánh hóa ngày sa-bát bằng cách nghỉ thánh suốt ngày đó, ngay cả những công việc và thú vui đời này vốn hợp pháp trong các ngày khác; và dành trọn thì giờ cho các buổi thờ phượng công cộng và riêng tư, trừ những việc cần thiết và việc thương xót.",
-   "proofTexts": [
+   "number": 60,
+   "question_vi": "Phải thánh hóa ngày sa-bát như thế nào?",
+   "answer_vi": "Phải thánh hóa ngày sa-bát bằng cách nghỉ thánh suốt ngày đó, ngay cả những công việc và thú vui đời này vốn hợp pháp trong các ngày khác; và dành trọn thì giờ cho các buổi thờ phượng công cộng và riêng tư, trừ những việc cần thiết và việc thương xót.",
+   "proof_texts": [
     {
-     "ref": "Ê-sai 58:13",
+     "ref_vi": "Ê-sai 58:13",
+     "text_vi": "Nếu ngươi ngừa giữ chân mình trong ngày Sa-bát, không làm vừa ý mình trong ngày thánh của ta; nếu ngươi xưng ngày Sa-bát là ngày vui thích, coi ngày thánh của Đức Giê-hô-va là đáng kính; nếu ngươi tôn trọng ngày đó, không đi đường riêng mình, không theo ý riêng mình, và không nói lời riêng mình,",
      "key": "isa:58:13"
     },
     {
-     "ref": "Lu-ca 4:16",
+     "ref_vi": "Lu-ca 4:16",
+     "text_vi": "Đức Chúa Jêsus đến thành Na-xa-rét, là nơi dưỡng dục Ngài. Theo thói quen, nhằm ngày Sa-bát, Ngài vào nhà hội, đứng dậy và đọc.",
      "key": "luk:4:16"
     },
     {
-     "ref": "Ma-thi-ơ 12:12",
+     "ref_vi": "Ma-thi-ơ 12:12",
+     "text_vi": "Huống chi người ta trọng hơn con chiên là dường nào! Vậy, trong ngày Sa-bát có phép làm việc lành.",
      "key": "mat:12:12"
     }
    ]
   },
   {
-   "id": 61,
-   "question": "Điều răn thứ tư cấm điều gì?",
-   "answer": "Điều răn thứ tư cấm việc bỏ sót hay làm cách cẩu thả các bổn phận phải làm, và việc xúc phạm ngày thánh bằng sự lười biếng, làm điều tự bản chất đã là tội lỗi, hay những suy nghĩ, lời nói, việc làm không cần thiết về công việc hay thú vui đời này.",
-   "proofTexts": [
+   "number": 61,
+   "question_vi": "Điều răn thứ tư cấm điều gì?",
+   "answer_vi": "Điều răn thứ tư cấm việc bỏ sót hay làm cách cẩu thả các bổn phận phải làm, và việc xúc phạm ngày thánh bằng sự lười biếng, làm điều tự bản chất đã là tội lỗi, hay những suy nghĩ, lời nói, việc làm không cần thiết về công việc hay thú vui đời này.",
+   "proof_texts": [
     {
-     "ref": "Nê-hê-mi 13:18",
+     "ref_vi": "Nê-hê-mi 13:18",
+     "text_vi": "Tổ phụ các ngươi há chẳng đã làm như vậy sao? Nên nỗi Đức Chúa Trời há chẳng có dẫn tai họa kia đến trên chúng ta và trên thành này ư? Còn các ngươi làm ô uế ngày sa-bát mà tăng thêm cơn thạnh nộ cho Y-sơ-ra-ên!",
      "key": "neh:13:18"
     },
     {
-     "ref": "Giê-rê-mi 17:27",
+     "ref_vi": "Giê-rê-mi 17:27",
+     "text_vi": "Nhưng nếu các ngươi không nghe ta để biệt riêng ngày sa-bát ra thánh, mà trong ngày sa-bát khiêng gánh và vào cửa thành Giê-ru-sa-lem, thì ta sẽ đặt lửa nơi cửa thành, lửa ấy sẽ thiêu hủy cung điện của Giê-ru-sa-lem, không bao giờ tắt.",
      "key": "jer:17:27"
     }
    ]
   },
   {
-   "id": 62,
-   "question": "Những lý do kèm theo điều răn thứ tư là gì?",
-   "answer": "Những lý do kèm theo điều răn thứ tư là: Đức Chúa Trời cho chúng ta sáu ngày trong tuần cho công việc riêng, Ngài đòi quyền đặc biệt trên ngày thứ bảy, chính gương của Ngài, và việc Ngài ban phước cho ngày sa-bát.",
-   "proofTexts": [
+   "number": 62,
+   "question_vi": "Những lý do kèm theo điều răn thứ tư là gì?",
+   "answer_vi": "Những lý do kèm theo điều răn thứ tư là: Đức Chúa Trời cho chúng ta sáu ngày trong tuần cho công việc riêng, Ngài đòi quyền đặc biệt trên ngày thứ bảy, chính gương của Ngài, và việc Ngài ban phước cho ngày sa-bát.",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:11",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:11",
+     "text_vi": "vì trong sáu ngày Đức Giê-hô-va đã dựng nên trời, đất, biển, và muôn vật ở trong đó, qua ngày thứ bảy thì Ngài nghỉ: vậy nên Đức Giê-hô-va đã ban phước cho ngày nghỉ và làm nên ngày thánh.",
      "key": "exo:20:11"
     },
     {
-     "ref": "Xuất Ê-díp-tô Ký 31:17",
+     "ref_vi": "Xuất Ê-díp-tô Ký 31:17",
+     "text_vi": "Aáy là một dấu đời đời cho ta cùng dân Y-sơ-ra-ên, vì Đức Giê-hô-va đã dựng nên trời và đất trong sáu ngày, qua ngày thứ bảy Ngài nghỉ và lấy sức lại.",
      "key": "exo:31:17"
     }
    ]
   },
   {
-   "id": 63,
-   "question": "Điều răn thứ năm là gì?",
-   "answer": "Điều răn thứ năm là: “Hãy hiếu kính cha mẹ ngươi, hầu cho ngươi được sống lâu trên đất mà Giê-hô-va Đức Chúa Trời ngươi ban cho.”",
-   "proofTexts": [
+   "number": 63,
+   "question_vi": "Điều răn thứ năm là gì?",
+   "answer_vi": "Điều răn thứ năm là: “Hãy hiếu kính cha mẹ ngươi, hầu cho ngươi được sống lâu trên đất mà Giê-hô-va Đức Chúa Trời ngươi ban cho.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:12",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:12",
+     "text_vi": "Hãy hiếu kính cha mẹ ngươi, hầu cho ngươi được sống lâu trên đất mà Giê-hô-va Đức Chúa Trời ngươi ban cho.",
      "key": "exo:20:12"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:16",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:16",
+     "text_vi": "Hãy hiếu kính cha mẹ ngươi, như Giê-hô-va Đức Chúa Trời ngươi có phán dặn, hầu cho ngươi được sống lâu và có phước trên đất mà Giê-hô-va Đức Chúa Trời ngươi ban cho.",
      "key": "deb:5:16"
     }
    ]
   },
   {
-   "id": 64,
-   "question": "Điều răn thứ năm đòi hỏi điều gì?",
-   "answer": "Điều răn thứ năm đòi hỏi chúng ta bảo toàn danh dự và làm tròn bổn phận thuộc về mỗi người trong địa vị và mối quan hệ của mình, dù là bề trên, kẻ dưới hay người ngang hàng.",
-   "proofTexts": [
+   "number": 64,
+   "question_vi": "Điều răn thứ năm đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ năm đòi hỏi chúng ta bảo toàn danh dự và làm tròn bổn phận thuộc về mỗi người trong địa vị và mối quan hệ của mình, dù là bề trên, kẻ dưới hay người ngang hàng.",
+   "proof_texts": [
     {
-     "ref": "Ê-phê-sô 6:1",
+     "ref_vi": "Ê-phê-sô 6:1",
+     "text_vi": "Hỡi kẻ làm con cái, hãy vâng phục cha mẹ mình trong Chúa, vì điều đó là phải lắm.",
      "key": "eph:6:1"
     },
     {
-     "ref": "Rô-ma 13:7",
+     "ref_vi": "Rô-ma 13:7",
+     "text_vi": "Phải trả cho mọi người điều mình đã mắc: nộp thuế cho kẻ mình phải nộp thuế; đóng góp cho kẻ mình phải đóng góp; sợ kẻ mình đáng sợ; kính kẻ mình đáng kính.",
      "key": "rom:13:7"
     },
     {
-     "ref": "1 Phi-e-rơ 2:17",
+     "ref_vi": "1 Phi-e-rơ 2:17",
+     "text_vi": "Hãy kính mọi người; yêu anh em; kính sợ Đức Chúa Trời; tôn trọng vua.",
      "key": "1pet:2:17"
     }
    ]
   },
   {
-   "id": 65,
-   "question": "Điều răn thứ năm cấm điều gì?",
-   "answer": "Điều răn thứ năm cấm việc sao lãng hay làm bất cứ điều gì nghịch lại danh dự và bổn phận thuộc về mỗi người trong địa vị và mối quan hệ của mình.",
-   "proofTexts": [
+   "number": 65,
+   "question_vi": "Điều răn thứ năm cấm điều gì?",
+   "answer_vi": "Điều răn thứ năm cấm việc sao lãng hay làm bất cứ điều gì nghịch lại danh dự và bổn phận thuộc về mỗi người trong địa vị và mối quan hệ của mình.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 15:4",
+     "ref_vi": "Ma-thi-ơ 15:4",
+     "text_vi": "Vì Đức Chúa Trời đã truyền điều răn nầy: Phải hiếu kính cha mẹ ngươi; lại, điều nầy: Ai mắng nhiếc cha mẹ thì phải chết.",
      "key": "mat:15:4"
     },
     {
-     "ref": "Rô-ma 13:8",
+     "ref_vi": "Rô-ma 13:8",
+     "text_vi": "Đừng mắc nợ ai chi hết, chỉ mắc nợ về sự yêu thương nhau mà thôi, vì ai yêu kẻ lân cận mình ấy là đã làm trọn luật pháp.",
      "key": "rom:13:8"
     }
    ]
   },
   {
-   "id": 66,
-   "question": "Lý do kèm theo điều răn thứ năm là gì?",
-   "answer": "Lý do kèm theo điều răn thứ năm là lời hứa ban sự sống lâu và thịnh vượng (trong mức độ phục vụ vinh hiển Đức Chúa Trời và ích lợi cho chính họ) cho mọi người giữ điều răn này.",
-   "proofTexts": [
+   "number": 66,
+   "question_vi": "Lý do kèm theo điều răn thứ năm là gì?",
+   "answer_vi": "Lý do kèm theo điều răn thứ năm là lời hứa ban sự sống lâu và thịnh vượng (trong mức độ phục vụ vinh hiển Đức Chúa Trời và ích lợi cho chính họ) cho mọi người giữ điều răn này.",
+   "proof_texts": [
     {
-     "ref": "Ê-phê-sô 6:3",
+     "ref_vi": "Ê-phê-sô 6:3",
+     "text_vi": "hầu cho ngươi được phước và sống lâu trên đất.",
      "key": "eph:6:3"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:16",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:16",
+     "text_vi": "Hãy hiếu kính cha mẹ ngươi, như Giê-hô-va Đức Chúa Trời ngươi có phán dặn, hầu cho ngươi được sống lâu và có phước trên đất mà Giê-hô-va Đức Chúa Trời ngươi ban cho.",
      "key": "deb:5:16"
     },
     {
-     "ref": "Châm Ngôn 3:16",
+     "ref_vi": "Châm Ngôn 3:16",
+     "text_vi": "Tay hữu nó cầm sự trường thọ, Còn trong tay tả, có sự giàu có và vinh hiển.",
      "key": "prov:3:16"
     }
    ]
   },
   {
-   "id": 67,
-   "question": "Điều răn thứ sáu là gì?",
-   "answer": "Điều răn thứ sáu là: “Ngươi chớ giết người.”",
-   "proofTexts": [
+   "number": 67,
+   "question_vi": "Điều răn thứ sáu là gì?",
+   "answer_vi": "Điều răn thứ sáu là: “Ngươi chớ giết người.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:13",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:13",
+     "text_vi": "Ngươi chớ giết người.",
      "key": "exo:20:13"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:17",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:17",
+     "text_vi": "Ngươi chớ giết người.",
      "key": "deb:5:17"
     }
    ]
   },
   {
-   "id": 68,
-   "question": "Điều răn thứ sáu đòi hỏi điều gì?",
-   "answer": "Điều răn thứ sáu đòi hỏi mọi nỗ lực hợp pháp để bảo tồn sự sống của chính mình và sự sống của người khác.",
-   "proofTexts": [
+   "number": 68,
+   "question_vi": "Điều răn thứ sáu đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ sáu đòi hỏi mọi nỗ lực hợp pháp để bảo tồn sự sống của chính mình và sự sống của người khác.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 82:4",
+     "ref_vi": "Thi Thiên 82:4",
+     "text_vi": "Khá cứu vớt kẻ khốn cùng và người thiếu thốn, Giải họ khỏi tay kẻ ác.",
      "key": "psa:82:4"
     },
     {
-     "ref": "Ê-phê-sô 5:29",
+     "ref_vi": "Ê-phê-sô 5:29",
+     "text_vi": "Vì chẳng hề có người nào ghét chính thân mình, nhưng nuôi nấng săn sóc nó như Đấng Christ đối với Hội thánh,",
      "key": "eph:5:29"
     },
     {
-     "ref": "1 Giăng 3:16",
+     "ref_vi": "1 Giăng 3:16",
+     "text_vi": "Bởi đó chúng ta nhận biết lòng yêu thương, ấy là Chúa đã vì chúng ta bỏ sự sống; chúng ta cũng nên bỏ sự sống vì anh em mình vậy.",
      "key": "1joh:3:16"
     }
    ]
   },
   {
-   "id": 69,
-   "question": "Điều răn thứ sáu cấm điều gì?",
-   "answer": "Điều răn thứ sáu cấm việc tước đoạt sự sống của chính mình hay của người lân cận cách bất công, hay bất cứ điều gì dẫn đến việc đó.",
-   "proofTexts": [
+   "number": 69,
+   "question_vi": "Điều răn thứ sáu cấm điều gì?",
+   "answer_vi": "Điều răn thứ sáu cấm việc tước đoạt sự sống của chính mình hay của người lân cận cách bất công, hay bất cứ điều gì dẫn đến việc đó.",
+   "proof_texts": [
     {
-     "ref": "Sáng Thế Ký 9:6",
+     "ref_vi": "Sáng Thế Ký 9:6",
+     "text_vi": "Hễ kẻ nào làm đổ máu người, thì sẽ bị người khác làm đổ máu lại; vì Đức Chúa Trời làm nên người như hình của Ngài.",
      "key": "gen:9:6"
     },
     {
-     "ref": "1 Giăng 3:15",
+     "ref_vi": "1 Giăng 3:15",
+     "text_vi": "Ai ghét anh em mình, là kẻ giết người; anh em biết rằng chẳng một kẻ nào giết người có sự sống đời đời ở trong mình.",
      "key": "1joh:3:15"
     },
     {
-     "ref": "Ma-thi-ơ 5:22",
+     "ref_vi": "Ma-thi-ơ 5:22",
+     "text_vi": "Song ta phán cho các ngươi: Hễ ai giận anh em mình thì đáng bị tòa án xử đoán; ai mắng anh em mình rằng: Ra-ca, thì đáng bị tòa công luận xử đoán; ai mắng anh em mình là đồ điên, thì đáng bị lửa địa ngục hành phạt.",
      "key": "mat:5:22"
     }
    ]
   },
   {
-   "id": 70,
-   "question": "Điều răn thứ bảy là gì?",
-   "answer": "Điều răn thứ bảy là: “Ngươi chớ phạm tội tà dâm.”",
-   "proofTexts": [
+   "number": 70,
+   "question_vi": "Điều răn thứ bảy là gì?",
+   "answer_vi": "Điều răn thứ bảy là: “Ngươi chớ phạm tội tà dâm.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:14",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:14",
+     "text_vi": "Ngươi chớ phạm tội tà dâm.",
      "key": "exo:20:14"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:18",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:18",
+     "text_vi": "Ngươi chớ phạm tội tà dâm.",
      "key": "deb:5:18"
     }
    ]
   },
   {
-   "id": 71,
-   "question": "Điều răn thứ bảy đòi hỏi điều gì?",
-   "answer": "Điều răn thứ bảy đòi hỏi chúng ta giữ gìn sự trong sạch của chính mình và của người lân cận, trong lòng, lời nói và cách cư xử.",
-   "proofTexts": [
+   "number": 71,
+   "question_vi": "Điều răn thứ bảy đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ bảy đòi hỏi chúng ta giữ gìn sự trong sạch của chính mình và của người lân cận, trong lòng, lời nói và cách cư xử.",
+   "proof_texts": [
     {
-     "ref": "1 Tê-sa-lô-ni-ca 4:4",
+     "ref_vi": "1 Tê-sa-lô-ni-ca 4:4",
+     "text_vi": "mỗi người phải biết giữ thân mình cho thánh sạch và tôn trọng,",
      "key": "1thes:4:4"
     },
     {
-     "ref": "1 Cô-rinh-tô 7:2",
+     "ref_vi": "1 Cô-rinh-tô 7:2",
+     "text_vi": "Song, cho được tránh khỏi mọi sự dâm dục, thì mỗi người đờn ông phải có vợ, mỗi người đờn bà phải có chồng.",
      "key": "1cor:7:2"
     },
     {
-     "ref": "Ê-phê-sô 5:3",
+     "ref_vi": "Ê-phê-sô 5:3",
+     "text_vi": "Phàm những sự gian dâm, hoặc sự ô uế, hoặc sự tham lam, cũng chớ nên nói đến giữa anh em, theo như cách xứng đáng cho các thánh đồ.",
      "key": "eph:5:3"
     }
    ]
   },
   {
-   "id": 72,
-   "question": "Điều răn thứ bảy cấm điều gì?",
-   "answer": "Điều răn thứ bảy cấm mọi tư tưởng, lời nói và hành động ô uế.",
-   "proofTexts": [
+   "number": 72,
+   "question_vi": "Điều răn thứ bảy cấm điều gì?",
+   "answer_vi": "Điều răn thứ bảy cấm mọi tư tưởng, lời nói và hành động ô uế.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 5:28",
+     "ref_vi": "Ma-thi-ơ 5:28",
+     "text_vi": "Song ta phán cho các ngươi biết: Hễ ai ngó đàn bà mà động tình tham muốn, thì trong lòng đã phạm tội tà dâm cùng người rồi.",
      "key": "mat:5:28"
     },
     {
-     "ref": "Ê-phê-sô 5:3",
+     "ref_vi": "Ê-phê-sô 5:3",
+     "text_vi": "Phàm những sự gian dâm, hoặc sự ô uế, hoặc sự tham lam, cũng chớ nên nói đến giữa anh em, theo như cách xứng đáng cho các thánh đồ.",
      "key": "eph:5:3"
     },
     {
-     "ref": "Gióp 31:1",
+     "ref_vi": "Gióp 31:1",
+     "text_vi": "Tôi đã có lập ước với mắt tôi; Vậy, làm sao tôi còn dám nhìn người nữ đồng trinh?",
      "key": "job:31:1"
     }
    ]
   },
   {
-   "id": 73,
-   "question": "Điều răn thứ tám là gì?",
-   "answer": "Điều răn thứ tám là: “Ngươi chớ trộm cướp.”",
-   "proofTexts": [
+   "number": 73,
+   "question_vi": "Điều răn thứ tám là gì?",
+   "answer_vi": "Điều răn thứ tám là: “Ngươi chớ trộm cướp.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:15",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:15",
+     "text_vi": "Ngươi chớ trộm cướp.",
      "key": "exo:20:15"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:19",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:19",
+     "text_vi": "Ngươi chớ trộm cướp.",
      "key": "deb:5:19"
     }
    ]
   },
   {
-   "id": 74,
-   "question": "Điều răn thứ tám đòi hỏi điều gì?",
-   "answer": "Điều răn thứ tám đòi hỏi chúng ta lo liệu cách hợp pháp và làm cho gia tăng của cải cùng tài sản bên ngoài của chính mình và của người khác.",
-   "proofTexts": [
+   "number": 74,
+   "question_vi": "Điều răn thứ tám đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ tám đòi hỏi chúng ta lo liệu cách hợp pháp và làm cho gia tăng của cải cùng tài sản bên ngoài của chính mình và của người khác.",
+   "proof_texts": [
     {
-     "ref": "Châm Ngôn 27:23",
+     "ref_vi": "Châm Ngôn 27:23",
+     "text_vi": "Hãy rán biết cảnh trạng bầy chiên con, Và lo săn sóc các đoàn bò của con;",
      "key": "prov:27:23"
     },
     {
-     "ref": "Ê-phê-sô 4:28",
+     "ref_vi": "Ê-phê-sô 4:28",
+     "text_vi": "Kẻ vốn hay trộm cắp chớ trộm cắp nữa; nhưng thà chịu khó, chính tay mình làm nghề lương thiện, đặng có vật chi giúp cho kẻ thiếu thốn thì hơn.",
      "key": "eph:4:28"
     },
     {
-     "ref": "Phi-líp 2:4",
+     "ref_vi": "Phi-líp 2:4",
+     "text_vi": "Mỗi người trong anh em chớ chăm về lợi riêng mình, nhưng phải chăm về lợi kẻ khác nữa.",
      "key": "phil:2:4"
     }
    ]
   },
   {
-   "id": 75,
-   "question": "Điều răn thứ tám cấm điều gì?",
-   "answer": "Điều răn thứ tám cấm bất cứ điều gì làm, hay có thể làm, cản trở cách bất công của cải hay tài sản bên ngoài của chính mình hay của người lân cận.",
-   "proofTexts": [
+   "number": 75,
+   "question_vi": "Điều răn thứ tám cấm điều gì?",
+   "answer_vi": "Điều răn thứ tám cấm bất cứ điều gì làm, hay có thể làm, cản trở cách bất công của cải hay tài sản bên ngoài của chính mình hay của người lân cận.",
+   "proof_texts": [
     {
-     "ref": "Châm Ngôn 11:1",
+     "ref_vi": "Châm Ngôn 11:1",
+     "text_vi": "Cây cân giả lấy làm gớm ghiếc cho Đức Giê-hô-va; Nhưng trái cân đúng được đẹp lòng Ngài.",
      "key": "prov:11:1"
     },
     {
-     "ref": "1 Tê-sa-lô-ni-ca 4:6",
+     "ref_vi": "1 Tê-sa-lô-ni-ca 4:6",
+     "text_vi": "Chớ có ai phỉnh phờ anh em mình, hay là làm hại anh em bất kỳ việc gì, vì Chúa là Đấng báo oán những sự đó, như chúng tôi đã nói trước cùng anh em và đã làm chứng.",
      "key": "1thes:4:6"
     },
     {
-     "ref": "Mi-chê 2:2",
+     "ref_vi": "Mi-chê 2:2",
+     "text_vi": "Chúng nó tham đất ruộng và cướp đi, tham nhà cửa và lấy đi. Chúng nó ức hiếp người ta và nhà họ, tức là người và sản nghiệp họ nữa.",
      "key": "mich:2:2"
     }
    ]
   },
   {
-   "id": 76,
-   "question": "Điều răn thứ chín là gì?",
-   "answer": "Điều răn thứ chín là: “Ngươi chớ nói chứng dối cho kẻ lân cận mình.”",
-   "proofTexts": [
+   "number": 76,
+   "question_vi": "Điều răn thứ chín là gì?",
+   "answer_vi": "Điều răn thứ chín là: “Ngươi chớ nói chứng dối cho kẻ lân cận mình.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:16",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:16",
+     "text_vi": "Ngươi chớ nói chứng dối cho kẻ lân cận mình.",
      "key": "exo:20:16"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:20",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:20",
+     "text_vi": "Ngươi chớ làm chứng dối cho kẻ lân cận mình.",
      "key": "deb:5:20"
     }
    ]
   },
   {
-   "id": 77,
-   "question": "Điều răn thứ chín đòi hỏi điều gì?",
-   "answer": "Điều răn thứ chín đòi hỏi chúng ta duy trì và cổ vũ lẽ thật giữa người với người, cùng danh tiếng tốt của chính mình và của người lân cận, nhất là khi làm chứng.",
-   "proofTexts": [
+   "number": 77,
+   "question_vi": "Điều răn thứ chín đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ chín đòi hỏi chúng ta duy trì và cổ vũ lẽ thật giữa người với người, cùng danh tiếng tốt của chính mình và của người lân cận, nhất là khi làm chứng.",
+   "proof_texts": [
     {
-     "ref": "Xa-cha-ri 8:16",
+     "ref_vi": "Xa-cha-ri 8:16",
+     "text_vi": "Nầy là những sự các ngươi phải làm: Ai nấy khá lấy điều thật nói cùng kẻ lân cận mình; hãy làm sự chơn thật và sự phán xét bình an trong cửa thành các ngươi.",
      "key": "zach:8:16"
     },
     {
-     "ref": "3 Giăng 1:12",
+     "ref_vi": "3 Giăng 1:12",
+     "text_vi": "Mọi người đều làm chứng tốt cho Đê-mê-triu, và chính lẽ thật cũng chứng cho; chúng tôi cũng làm chứng riêng cho người, anh biết rằng lời chứng của chúng ta là hiệp với lẽ thật.",
      "key": "3joh:1:12"
     },
     {
-     "ref": "Châm Ngôn 14:25",
+     "ref_vi": "Châm Ngôn 14:25",
+     "text_vi": "Kẻ làm chứng chân thật giải cứu linh hồn người ta; Song kẻ nào nói dối gây sự phỉnh gạt.",
      "key": "prov:14:25"
     }
    ]
   },
   {
-   "id": 78,
-   "question": "Điều răn thứ chín cấm điều gì?",
-   "answer": "Điều răn thứ chín cấm bất cứ điều gì gây hại cho lẽ thật, hay làm tổn thương danh tiếng tốt của chính mình hay của người lân cận.",
-   "proofTexts": [
+   "number": 78,
+   "question_vi": "Điều răn thứ chín cấm điều gì?",
+   "answer_vi": "Điều răn thứ chín cấm bất cứ điều gì gây hại cho lẽ thật, hay làm tổn thương danh tiếng tốt của chính mình hay của người lân cận.",
+   "proof_texts": [
     {
-     "ref": "Châm Ngôn 14:25",
+     "ref_vi": "Châm Ngôn 14:25",
+     "text_vi": "Kẻ làm chứng chân thật giải cứu linh hồn người ta; Song kẻ nào nói dối gây sự phỉnh gạt.",
      "key": "prov:14:25"
     },
     {
-     "ref": "Cô-lô-se 3:9",
+     "ref_vi": "Cô-lô-se 3:9",
+     "text_vi": "Chớ nói dối nhau, vì đã lột bỏ người cũ cùng công việc nó,",
      "key": "col:3:9"
     },
     {
-     "ref": "Thi Thiên 101:5",
+     "ref_vi": "Thi Thiên 101:5",
+     "text_vi": "Tôi sẽ diệt kẻ lén nói hành người lân cận mình; Còn kẻ nào có mắt tự cao và lòng kiêu ngạo, tôi chẳng chịu cho nổi.",
      "key": "psa:101:5"
     }
    ]
   },
   {
-   "id": 79,
-   "question": "Điều răn thứ mười là gì?",
-   "answer": "Điều răn thứ mười là: “Ngươi chớ tham nhà kẻ lân cận mình, cũng đừng tham vợ người, hoặc tôi trai tớ gái, bò, lừa, hay là vật chi thuộc về kẻ lân cận mình.”",
-   "proofTexts": [
+   "number": 79,
+   "question_vi": "Điều răn thứ mười là gì?",
+   "answer_vi": "Điều răn thứ mười là: “Ngươi chớ tham nhà kẻ lân cận mình, cũng đừng tham vợ người, hoặc tôi trai tớ gái, bò, lừa, hay là vật chi thuộc về kẻ lân cận mình.”",
+   "proof_texts": [
     {
-     "ref": "Xuất Ê-díp-tô Ký 20:17",
+     "ref_vi": "Xuất Ê-díp-tô Ký 20:17",
+     "text_vi": "Ngươi chớ tham nhà kẻ lân cận ngươi, cũng đừng tham vợ người, hoặc tôi trai tớ gái, bò, lừa, hay là vật chi thuộc về kẻ lân cận ngươi.",
      "key": "exo:20:17"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 5:21",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 5:21",
+     "text_vi": "Ngươi chớ tham vợ của kẻ lân cận mình; chớ tham nhà của người, hoặc ruộng, tôi trai tớ gái, bò, lừa hay là vật chi thuộc về kẻ lân cận ngươi.",
      "key": "deb:5:21"
     }
    ]
   },
   {
-   "id": 80,
-   "question": "Điều răn thứ mười đòi hỏi điều gì?",
-   "answer": "Điều răn thứ mười đòi hỏi chúng ta hoàn toàn thỏa lòng với hoàn cảnh của mình, với tâm thần ngay thẳng và nhân ái đối với người lân cận cùng mọi sự thuộc về họ.",
-   "proofTexts": [
+   "number": 80,
+   "question_vi": "Điều răn thứ mười đòi hỏi điều gì?",
+   "answer_vi": "Điều răn thứ mười đòi hỏi chúng ta hoàn toàn thỏa lòng với hoàn cảnh của mình, với tâm thần ngay thẳng và nhân ái đối với người lân cận cùng mọi sự thuộc về họ.",
+   "proof_texts": [
     {
-     "ref": "Hê-bơ-rơ 13:5",
+     "ref_vi": "Hê-bơ-rơ 13:5",
+     "text_vi": "Chớ tham tiền; hãy lấy điều mình có làm đủ rồi, vì chính Đức Chúa Trời có phán rằng: Ta sẽ chẳng lìa ngươi đâu, chẳng bỏ ngươi đâu.",
      "key": "heb:13:5"
     },
     {
-     "ref": "1 Ti-mô-thê 6:6",
+     "ref_vi": "1 Ti-mô-thê 6:6",
+     "text_vi": "Vả, sự tin kính cùng sự thỏa lòng ấy là một lợi lớn.",
      "key": "1tim:6:6"
     },
     {
-     "ref": "Phi-líp 4:11",
+     "ref_vi": "Phi-líp 4:11",
+     "text_vi": "Không phải là tôi muốn nói đến sự cần dùng của tôi; vì tôi đã tập hễ gặp cảnh ngộ nào, cũng thỏa lòng ở vậy.",
      "key": "phil:4:11"
     }
    ]
   },
   {
-   "id": 81,
-   "question": "Điều răn thứ mười cấm điều gì?",
-   "answer": "Điều răn thứ mười cấm mọi sự bất mãn với hoàn cảnh của mình, ganh tị hay buồn bực trước điều tốt lành của người lân cận, và mọi ham muốn, tình cảm quá độ đối với bất cứ điều gì thuộc về họ.",
-   "proofTexts": [
+   "number": 81,
+   "question_vi": "Điều răn thứ mười cấm điều gì?",
+   "answer_vi": "Điều răn thứ mười cấm mọi sự bất mãn với hoàn cảnh của mình, ganh tị hay buồn bực trước điều tốt lành của người lân cận, và mọi ham muốn, tình cảm quá độ đối với bất cứ điều gì thuộc về họ.",
+   "proof_texts": [
     {
-     "ref": "1 Cô-rinh-tô 10:10",
+     "ref_vi": "1 Cô-rinh-tô 10:10",
+     "text_vi": "Lại cũng chớ lằm bằm như nấy người trong họ đã lằm bằm mà bị chết bởi kẻ hủy diệt.",
      "key": "1cor:10:10"
     },
     {
-     "ref": "Ga-la-ti 5:26",
+     "ref_vi": "Ga-la-ti 5:26",
+     "text_vi": "Chớ tìm kiếm danh vọng giả dối mà trêu chọc nhau và ghen ghét nhau.",
      "key": "gal:5:26"
     },
     {
-     "ref": "Gia-cơ 3:16",
+     "ref_vi": "Gia-cơ 3:16",
+     "text_vi": "Vì ở đâu có những điều ghen tương tranh cạnh ấy, thì ở đó có sự lộn lạo và đủ mọi thứ ác.",
      "key": "jac:3:16"
     }
    ]
   },
   {
-   "id": 82,
-   "question": "Có ai giữ trọn các điều răn của Đức Chúa Trời được không?",
-   "answer": "Không một người thường nào, từ khi sa ngã, có thể giữ trọn các điều răn của Đức Chúa Trời trong đời này, nhưng hằng ngày vi phạm chúng trong tư tưởng, lời nói và việc làm.",
-   "proofTexts": [
+   "number": 82,
+   "question_vi": "Có ai giữ trọn các điều răn của Đức Chúa Trời được không?",
+   "answer_vi": "Không một người thường nào, từ khi sa ngã, có thể giữ trọn các điều răn của Đức Chúa Trời trong đời này, nhưng hằng ngày vi phạm chúng trong tư tưởng, lời nói và việc làm.",
+   "proof_texts": [
     {
-     "ref": "Truyền Đạo 7:20",
+     "ref_vi": "Truyền Đạo 7:20",
+     "text_vi": "Thật, chẳng có người công bình ở trên đất làm điều thiện, mà không hề phạm tội.",
      "key": "eccl:7:20"
     },
     {
-     "ref": "Gia-cơ 3:2",
+     "ref_vi": "Gia-cơ 3:2",
+     "text_vi": "Chúng ta thảy đều vấp phạm nhiều cách lắm. Nếu có ai không vấp phạm trong lời nói mình, ấy là người trọn vẹn, hay hãm cầm cả mình.",
      "key": "jac:3:2"
     },
     {
-     "ref": "1 Giăng 1:8",
+     "ref_vi": "1 Giăng 1:8",
+     "text_vi": "Ví bằng chúng ta nói mình không có tội chi hết, ấy là chính chúng ta lừa dối mình, và lẽ thật không ở trong chúng ta.",
      "key": "1joh:1:8"
     }
    ]
   },
   {
-   "id": 83,
-   "question": "Mọi vi phạm luật pháp đều ghê tởm như nhau sao?",
-   "answer": "Một số tội, tự bản chất và bởi nhiều tình tiết tăng nặng, ghê tởm trước mặt Đức Chúa Trời hơn những tội khác.",
-   "proofTexts": [
+   "number": 83,
+   "question_vi": "Mọi vi phạm luật pháp đều ghê tởm như nhau sao?",
+   "answer_vi": "Một số tội, tự bản chất và bởi nhiều tình tiết tăng nặng, ghê tởm trước mặt Đức Chúa Trời hơn những tội khác.",
+   "proof_texts": [
     {
-     "ref": "Giăng 19:11",
+     "ref_vi": "Giăng 19:11",
+     "text_vi": "Đức Chúa Jêsus đáp rằng: Nếu chẳng phải từ trên cao đã ban cho ngươi, thì ngươi không có quyền gì trên ta; vậy nên, kẻ nộp ta cho ngươi là có tội trọng hơn nữa.",
      "key": "joh:19:11"
     },
     {
-     "ref": "Lu-ca 12:47",
+     "ref_vi": "Lu-ca 12:47",
+     "text_vi": "Đầy tớ nầy đã biết ý chủ mình, mà không sửa soạn sẵn và không theo ý ấy, thì sẽ bị đòn nhiều.",
      "key": "luk:12:47"
     },
     {
-     "ref": "Ê-xê-chi-ên 8:13",
+     "ref_vi": "Ê-xê-chi-ên 8:13",
+     "text_vi": "Ngài lại phán rằng: Ngươi sẽ còn thấy những sự gớm ghiếc lớn khác nữa mà chúng nó làm!",
      "key": "ezek:8:13"
     }
    ]
   },
   {
-   "id": 84,
-   "question": "Mỗi tội lỗi đáng chịu gì?",
-   "answer": "Mỗi tội lỗi đều đáng chịu cơn thịnh nộ và sự rủa sả của Đức Chúa Trời, cả trong đời này lẫn đời hầu đến.",
-   "proofTexts": [
+   "number": 84,
+   "question_vi": "Mỗi tội lỗi đáng chịu gì?",
+   "answer_vi": "Mỗi tội lỗi đều đáng chịu cơn thịnh nộ và sự rủa sả của Đức Chúa Trời, cả trong đời này lẫn đời hầu đến.",
+   "proof_texts": [
     {
-     "ref": "Ê-phê-sô 5:6",
+     "ref_vi": "Ê-phê-sô 5:6",
+     "text_vi": "Đừng để cho ai lấy lời giả trá phỉnh dỗ anh em; vì ấy là nhân những điều đó mà cơn thạnh nộ của Đức Chúa Trời giáng trên các con bạn nghịch.",
      "key": "eph:5:6"
     },
     {
-     "ref": "Ga-la-ti 3:10",
+     "ref_vi": "Ga-la-ti 3:10",
+     "text_vi": "Vì mọi kẻ cậy các việc luật pháp, thì bị rủa sả, bởi có chép rằng: Đáng rủa thay là kẻ không bền đỗ trong mọi sự đã chép ở sách luật, đặng làm theo những sự ấy!",
      "key": "gal:3:10"
     },
     {
-     "ref": "Rô-ma 6:23",
+     "ref_vi": "Rô-ma 6:23",
+     "text_vi": "Vì tiền công của tội lỗi là sự chết; nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Jêsus Christ, Chúa chúng ta.",
      "key": "rom:6:23"
     }
    ]
   },
   {
-   "id": 85,
-   "question": "Đức Chúa Trời đòi hỏi chúng ta điều gì để thoát khỏi cơn thịnh nộ và sự rủa sả đáng chịu vì tội lỗi?",
-   "answer": "Để thoát khỏi cơn thịnh nộ và sự rủa sả của Đức Chúa Trời đáng chịu vì tội lỗi, Đức Chúa Trời đòi hỏi chúng ta có đức tin nơi Chúa Giê-xu Christ, ăn năn để được sống, cùng siêng năng dùng mọi phương tiện bên ngoài mà qua đó Đấng Christ ban cho chúng ta các ích lợi của sự cứu chuộc.",
-   "proofTexts": [
+   "number": 85,
+   "question_vi": "Đức Chúa Trời đòi hỏi chúng ta điều gì để thoát khỏi cơn thịnh nộ và sự rủa sả đáng chịu vì tội lỗi?",
+   "answer_vi": "Để thoát khỏi cơn thịnh nộ và sự rủa sả của Đức Chúa Trời đáng chịu vì tội lỗi, Đức Chúa Trời đòi hỏi chúng ta có đức tin nơi Chúa Giê-xu Christ, ăn năn để được sống, cùng siêng năng dùng mọi phương tiện bên ngoài mà qua đó Đấng Christ ban cho chúng ta các ích lợi của sự cứu chuộc.",
+   "proof_texts": [
     {
-     "ref": "Công Vụ Các Sứ Đồ 16:31",
+     "ref_vi": "Công Vụ Các Sứ Đồ 16:31",
+     "text_vi": "Hai người trả lời rằng: Hãy tin Đức Chúa Jêsus, thì ngươi và cả nhà đều sẽ được cứu rỗi.",
      "key": "act:16:31"
     },
     {
-     "ref": "Lu-ca 13:3",
+     "ref_vi": "Lu-ca 13:3",
+     "text_vi": "Ta nói cùng các ngươi, không phải; song nếu các ngươi chẳng ăn năn, thì hết thảy sẽ bị hư mất như vậy.",
      "key": "luk:13:3"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 2:38",
+     "ref_vi": "Công Vụ Các Sứ Đồ 2:38",
+     "text_vi": "Phi-e-rơ trả lời rằng: Hãy hối cải, ai nấy phải nhân danh Đức Chúa Jêsus chịu phép báp-tem, để được tha tội mình, rồi sẽ được lãnh sự ban cho Đức Thánh Linh.",
      "key": "act:2:38"
     }
    ]
   },
   {
-   "id": 86,
-   "question": "Đức tin nơi Chúa Giê-xu Christ là gì?",
-   "answer": "Đức tin nơi Chúa Giê-xu Christ là ân điển cứu rỗi, bởi đó chúng ta tiếp nhận và nương dựa duy nơi Ngài để được cứu, như Ngài được ban cho chúng ta trong Phúc Âm.",
-   "proofTexts": [
+   "number": 86,
+   "question_vi": "Đức tin nơi Chúa Giê-xu Christ là gì?",
+   "answer_vi": "Đức tin nơi Chúa Giê-xu Christ là ân điển cứu rỗi, bởi đó chúng ta tiếp nhận và nương dựa duy nơi Ngài để được cứu, như Ngài được ban cho chúng ta trong Phúc Âm.",
+   "proof_texts": [
     {
-     "ref": "Công Vụ Các Sứ Đồ 16:31",
+     "ref_vi": "Công Vụ Các Sứ Đồ 16:31",
+     "text_vi": "Hai người trả lời rằng: Hãy tin Đức Chúa Jêsus, thì ngươi và cả nhà đều sẽ được cứu rỗi.",
      "key": "act:16:31"
     },
     {
-     "ref": "Hê-bơ-rơ 10:39",
+     "ref_vi": "Hê-bơ-rơ 10:39",
+     "text_vi": "Về phần chúng ta, nào phải là kẻ lui đi cho hư mất đâu, bèn là kẻ giữ đức tin cho linh hồn được cứu rỗi.",
      "key": "heb:10:39"
     },
     {
-     "ref": "Giăng 1:12",
+     "ref_vi": "Giăng 1:12",
+     "text_vi": "Nhưng hễ ai đã nhận Ngài, thì Ngài ban cho quyền phép trở nên con cái Đức Chúa Trời, là ban cho những kẻ tin danh Ngài,",
      "key": "joh:1:12"
     }
    ]
   },
   {
-   "id": 87,
-   "question": "Sự ăn năn để được sống là gì?",
-   "answer": "Sự ăn năn để được sống là ân điển cứu rỗi, bởi đó tội nhân, với ý thức thật về tội lỗi mình và nhận biết lòng thương xót của Đức Chúa Trời trong Đấng Christ, với lòng đau buồn và ghét tội lỗi, xây bỏ tội lỗi trở về với Đức Chúa Trời, với quyết tâm trọn vẹn và nỗ lực theo đuổi sự vâng lời mới.",
-   "proofTexts": [
+   "number": 87,
+   "question_vi": "Sự ăn năn để được sống là gì?",
+   "answer_vi": "Sự ăn năn để được sống là ân điển cứu rỗi, bởi đó tội nhân, với ý thức thật về tội lỗi mình và nhận biết lòng thương xót của Đức Chúa Trời trong Đấng Christ, với lòng đau buồn và ghét tội lỗi, xây bỏ tội lỗi trở về với Đức Chúa Trời, với quyết tâm trọn vẹn và nỗ lực theo đuổi sự vâng lời mới.",
+   "proof_texts": [
     {
-     "ref": "Công Vụ Các Sứ Đồ 11:18",
+     "ref_vi": "Công Vụ Các Sứ Đồ 11:18",
+     "text_vi": "Tín đồ nghe bấy nhiêu lời xong, đều thỏa thuận và ngợi khen Đức Chúa Trời, rằng: Vậy Đức Chúa Trời cũng đã ban sự ăn năn cho người ngoại để họ được sự sống!",
      "key": "act:11:18"
     },
     {
-     "ref": "2 Cô-rinh-tô 7:10",
+     "ref_vi": "2 Cô-rinh-tô 7:10",
+     "text_vi": "Vì sự buồn rầu theo ý Đức Chúa Trời sanh ra sự hối cải, và sự hối cải dẫn đến sự rỗi linh hồn; về sự đó người ta chẳng hề ăn năn, còn sự buồn rầu theo thế gian sanh ra sự chết.",
      "key": "2cor:7:10"
     },
     {
-     "ref": "Lu-ca 15:18",
+     "ref_vi": "Lu-ca 15:18",
+     "text_vi": "Ta sẽ đứng dậy trở về cùng cha, mà rằng: Thưa cha, tôi đã đặng tội với trời và với cha,",
      "key": "luk:15:18"
     }
    ]
   },
   {
-   "id": 88,
-   "question": "Các phương tiện bên ngoài và thông thường mà qua đó Đấng Christ ban cho chúng ta các ích lợi của sự cứu chuộc là gì?",
-   "answer": "Các phương tiện bên ngoài và thông thường mà qua đó Đấng Christ ban cho chúng ta các ích lợi của sự cứu chuộc là các phương tiện ân điển Ngài đã lập, nhất là Lời, các thánh lễ báp-têm và Tiệc Thánh, và sự cầu nguyện; tất cả đều trở nên hiệu quả cho sự cứu rỗi của những người được chọn.",
-   "proofTexts": [
+   "number": 88,
+   "question_vi": "Các phương tiện bên ngoài và thông thường mà qua đó Đấng Christ ban cho chúng ta các ích lợi của sự cứu chuộc là gì?",
+   "answer_vi": "Các phương tiện bên ngoài và thông thường mà qua đó Đấng Christ ban cho chúng ta các ích lợi của sự cứu chuộc là các phương tiện ân điển Ngài đã lập, nhất là Lời, các thánh lễ báp-têm và Tiệc Thánh, và sự cầu nguyện; tất cả đều trở nên hiệu quả cho sự cứu rỗi của những người được chọn.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 28:19",
+     "ref_vi": "Ma-thi-ơ 28:19",
+     "text_vi": "Vậy, hãy đi dạy dỗ muôn dân, hãy nhân danh Đức Cha, Đức Con, và Đức Thánh Linh mà làm phép báp tem cho họ,",
      "key": "mat:28:19"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 2:42",
+     "ref_vi": "Công Vụ Các Sứ Đồ 2:42",
+     "text_vi": "Vả, những người ấy bền lòng giữ lời dạy của các sứ đồ, sự thông công của anh em, lễ bẻ bánh, và sự cầu nguyện.",
      "key": "act:2:42"
     },
     {
-     "ref": "1 Cô-rinh-tô 11:23",
+     "ref_vi": "1 Cô-rinh-tô 11:23",
+     "text_vi": "Vả, tôi có nhận nơi Chúa điều tôi đã dạy cho anh em: ấy là Đức Chúa Jêsus, trong đêm Ngài bị nộp, lấy bánh,",
      "key": "1cor:11:23"
     }
    ]
   },
   {
-   "id": 89,
-   "question": "Lời Chúa trở nên hiệu quả cho sự cứu rỗi bằng cách nào?",
-   "answer": "Đức Thánh Linh khiến việc đọc Lời Chúa, nhất là việc giảng Lời, trở nên phương tiện hiệu quả để cáo trách và cải hóa tội nhân, gây dựng họ trong sự thánh khiết và yên ủi, qua đức tin, cho đến sự cứu rỗi.",
-   "proofTexts": [
+   "number": 89,
+   "question_vi": "Lời Chúa trở nên hiệu quả cho sự cứu rỗi bằng cách nào?",
+   "answer_vi": "Đức Thánh Linh khiến việc đọc Lời Chúa, nhất là việc giảng Lời, trở nên phương tiện hiệu quả để cáo trách và cải hóa tội nhân, gây dựng họ trong sự thánh khiết và yên ủi, qua đức tin, cho đến sự cứu rỗi.",
+   "proof_texts": [
     {
-     "ref": "2 Ti-mô-thê 3:16",
+     "ref_vi": "2 Ti-mô-thê 3:16",
+     "text_vi": "Cả Kinh Thánh đều là bởi Đức Chúa Trời soi dẫn, có ích cho sự dạy dỗ, bẻ trách, sửa trị, dạy người trong sự công bình,",
      "key": "2tim:3:16"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 20:32",
+     "ref_vi": "Công Vụ Các Sứ Đồ 20:32",
+     "text_vi": "Bây giờ tôi giao phó anh em cho Đức Chúa Trời và cho đạo của ơn Ngài, là giao phó cho Đấng có thể gây dựng, và ban gia tài cho anh em chung với hết thảy những người được nên thánh.",
      "key": "act:20:32"
     },
     {
-     "ref": "Rô-ma 10:17",
+     "ref_vi": "Rô-ma 10:17",
+     "text_vi": "Như vậy, đức tin đến bởi sự người ta nghe, mà người ta nghe, là khi lời của Đấng Christ được rao giảng.",
      "key": "rom:10:17"
     }
    ]
   },
   {
-   "id": 90,
-   "question": "Phải đọc và nghe Lời Chúa như thế nào để Lời trở nên hiệu quả cho sự cứu rỗi?",
-   "answer": "Để Lời trở nên hiệu quả cho sự cứu rỗi, chúng ta phải chú tâm với lòng siêng năng, chuẩn bị và cầu nguyện; tiếp nhận Lời với đức tin và tình yêu, ghi khắc trong lòng, và thực hành trong đời sống.",
-   "proofTexts": [
+   "number": 90,
+   "question_vi": "Phải đọc và nghe Lời Chúa như thế nào để Lời trở nên hiệu quả cho sự cứu rỗi?",
+   "answer_vi": "Để Lời trở nên hiệu quả cho sự cứu rỗi, chúng ta phải chú tâm với lòng siêng năng, chuẩn bị và cầu nguyện; tiếp nhận Lời với đức tin và tình yêu, ghi khắc trong lòng, và thực hành trong đời sống.",
+   "proof_texts": [
     {
-     "ref": "Gia-cơ 1:21",
+     "ref_vi": "Gia-cơ 1:21",
+     "text_vi": "Vậy, hãy bỏ đi mọi điều ô uế, và mọi điều gian ác còn lại, đem lòng nhu mì nhận lấy lời đã trồng trong anh em, là lời cứu được linh hồn của anh em.",
      "key": "jac:1:21"
     },
     {
-     "ref": "Lu-ca 8:15",
+     "ref_vi": "Lu-ca 8:15",
+     "text_vi": "Song phần rơi vào nơi đất tốt, là kẻ có lấy lòng thật thà tử tế nghe đạo, gìn giữ và kết quả một cách bền lòng.",
      "key": "luk:8:15"
     },
     {
-     "ref": "Phục Truyền Luật Lệ Ký 6:6",
+     "ref_vi": "Phục Truyền Luật Lệ Ký 6:6",
+     "text_vi": "Các lời mà ta truyền cho ngươi ngày nay sẽ ở tại trong lòng ngươi;",
      "key": "deb:6:6"
     }
    ]
   },
   {
-   "id": 91,
-   "question": "Các thánh lễ trở nên phương tiện hiệu quả của sự cứu rỗi bằng cách nào?",
-   "answer": "Các thánh lễ trở nên phương tiện hiệu quả của sự cứu rỗi, không phải bởi quyền năng nào trong chính chúng hay trong người cử hành, mà chỉ bởi phước hạnh của Đấng Christ và công việc của Đức Thánh Linh Ngài trong những người bởi đức tin tiếp nhận chúng.",
-   "proofTexts": [
+   "number": 91,
+   "question_vi": "Các thánh lễ trở nên phương tiện hiệu quả của sự cứu rỗi bằng cách nào?",
+   "answer_vi": "Các thánh lễ trở nên phương tiện hiệu quả của sự cứu rỗi, không phải bởi quyền năng nào trong chính chúng hay trong người cử hành, mà chỉ bởi phước hạnh của Đấng Christ và công việc của Đức Thánh Linh Ngài trong những người bởi đức tin tiếp nhận chúng.",
+   "proof_texts": [
     {
-     "ref": "1 Phi-e-rơ 3:21",
+     "ref_vi": "1 Phi-e-rơ 3:21",
+     "text_vi": "Phép báp-tem bây giờ bèn là ảnh tượng của sự ấy để cứu anh em, phép ấy chẳng phải sự làm sạch ô uế của thân thể, nhưng một sự liên lạc lương tâm tốt với Đức Chúa Trời, bởi sự sống lại của Đức Chúa Jêsus Christ,",
      "key": "1pet:3:21"
     },
     {
-     "ref": "1 Cô-rinh-tô 12:13",
+     "ref_vi": "1 Cô-rinh-tô 12:13",
+     "text_vi": "Vì chưng chúng ta hoặc người Giu-đa, hoặc người Gờ-réc, hoặc tôi mọi, hoặc tự chủ, đều đã chịu phép báp-têm chung một Thánh Linh để hiệp làm một thân; và chúng ta đều đã chịu uống chung một Thánh Linh nữa.",
      "key": "1cor:12:13"
     },
     {
-     "ref": "Ga-la-ti 3:27",
+     "ref_vi": "Ga-la-ti 3:27",
+     "text_vi": "Vả, anh em thảy đều chịu phép báp tem trong Đấng Christ, đều mặc lấy Đấng Christ vậy.",
      "key": "gal:3:27"
     }
    ]
   },
   {
-   "id": 92,
-   "question": "Thánh lễ là gì?",
-   "answer": "Thánh lễ là một lễ thánh do Đấng Christ lập; trong đó, bằng các dấu hiệu thấy được, Đấng Christ và các ích lợi của giao ước mới được bày tỏ, đóng ấn và ban cho tín hữu.",
-   "proofTexts": [
+   "number": 92,
+   "question_vi": "Thánh lễ là gì?",
+   "answer_vi": "Thánh lễ là một lễ thánh do Đấng Christ lập; trong đó, bằng các dấu hiệu thấy được, Đấng Christ và các ích lợi của giao ước mới được bày tỏ, đóng ấn và ban cho tín hữu.",
+   "proof_texts": [
     {
-     "ref": "Sáng Thế Ký 17:11",
+     "ref_vi": "Sáng Thế Ký 17:11",
+     "text_vi": "Các ngươi phải chịu cắt bì; phép đó sẽ là dấu hiệu của sự giao ước giữa ta cùng các ngươi.",
      "key": "gen:17:11"
     },
     {
-     "ref": "Ma-thi-ơ 26:28",
+     "ref_vi": "Ma-thi-ơ 26:28",
+     "text_vi": "vì nầy là huyết ta, huyết của sự giao ước đã đổ ra cho nhiều người được tha tội.",
      "key": "mat:26:28"
     },
     {
-     "ref": "1 Cô-rinh-tô 10:16",
+     "ref_vi": "1 Cô-rinh-tô 10:16",
+     "text_vi": "Cái chén phước lành mà chúng ta chúc phước, há chẳng phải là thông với huyết của Đấng Christ sao? Cái bánh mà chúng ta bẻ, há chẳng phải là thông với thân thể của Đấng Christ sao?",
      "key": "1cor:10:16"
     }
    ]
   },
   {
-   "id": 93,
-   "question": "Các thánh lễ của Tân Ước là gì?",
-   "answer": "Các thánh lễ của Tân Ước là báp-têm và Tiệc Thánh của Chúa.",
-   "proofTexts": [
+   "number": 93,
+   "question_vi": "Các thánh lễ của Tân Ước là gì?",
+   "answer_vi": "Các thánh lễ của Tân Ước là báp-têm và Tiệc Thánh của Chúa.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 28:19",
+     "ref_vi": "Ma-thi-ơ 28:19",
+     "text_vi": "Vậy, hãy đi dạy dỗ muôn dân, hãy nhân danh Đức Cha, Đức Con, và Đức Thánh Linh mà làm phép báp tem cho họ,",
      "key": "mat:28:19"
     },
     {
-     "ref": "1 Cô-rinh-tô 11:23",
+     "ref_vi": "1 Cô-rinh-tô 11:23",
+     "text_vi": "Vả, tôi có nhận nơi Chúa điều tôi đã dạy cho anh em: ấy là Đức Chúa Jêsus, trong đêm Ngài bị nộp, lấy bánh,",
      "key": "1cor:11:23"
     },
     {
-     "ref": "Ma-thi-ơ 26:26",
+     "ref_vi": "Ma-thi-ơ 26:26",
+     "text_vi": "Khi đang ăn, Đức Chúa Jêsus lấy bánh, tạ ơn rồi, bẻ ra đưa cho môn đồ mà rằng: Hãy lấy ăn đi, nầy là thân thể ta.",
      "key": "mat:26:26"
     }
    ]
   },
   {
-   "id": 94,
-   "question": "Báp-têm là gì?",
-   "answer": "Báp-têm là thánh lễ trong đó việc rửa bằng nước nhân danh Đức Chúa Cha, Đức Chúa Con và Đức Thánh Linh biểu thị và ấn chứng việc chúng ta được tháp vào Đấng Christ, dự phần các ích lợi của giao ước ân điển, và sự cam kết thuộc về Chúa.",
-   "proofTexts": [
+   "number": 94,
+   "question_vi": "Báp-têm là gì?",
+   "answer_vi": "Báp-têm là thánh lễ trong đó việc rửa bằng nước nhân danh Đức Chúa Cha, Đức Chúa Con và Đức Thánh Linh biểu thị và ấn chứng việc chúng ta được tháp vào Đấng Christ, dự phần các ích lợi của giao ước ân điển, và sự cam kết thuộc về Chúa.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 28:19",
+     "ref_vi": "Ma-thi-ơ 28:19",
+     "text_vi": "Vậy, hãy đi dạy dỗ muôn dân, hãy nhân danh Đức Cha, Đức Con, và Đức Thánh Linh mà làm phép báp tem cho họ,",
      "key": "mat:28:19"
     },
     {
-     "ref": "Ga-la-ti 3:27",
+     "ref_vi": "Ga-la-ti 3:27",
+     "text_vi": "Vả, anh em thảy đều chịu phép báp tem trong Đấng Christ, đều mặc lấy Đấng Christ vậy.",
      "key": "gal:3:27"
     },
     {
-     "ref": "Rô-ma 6:4",
+     "ref_vi": "Rô-ma 6:4",
+     "text_vi": "Vậy chúng ta đã bị chôn với Ngài bởi phép báp-têm trong sự chết Ngài, hầu cho Đấng Christ nhờ vinh hiển của Cha được từ kẻ chết sống lại thể nào, thì chúng ta cũng sống trong đời mới thể ấy.",
      "key": "rom:6:4"
     }
    ]
   },
   {
-   "id": 95,
-   "question": "Báp-têm được ban cho ai?",
-   "answer": "Báp-têm không được ban cho những người ngoài Hội Thánh hữu hình, cho đến khi họ xưng nhận đức tin nơi Đấng Christ và sự vâng lời Ngài; nhưng con trẻ của các thành viên trong Hội Thánh hữu hình thì được báp-têm.",
-   "proofTexts": [
+   "number": 95,
+   "question_vi": "Báp-têm được ban cho ai?",
+   "answer_vi": "Báp-têm không được ban cho những người ngoài Hội Thánh hữu hình, cho đến khi họ xưng nhận đức tin nơi Đấng Christ và sự vâng lời Ngài; nhưng con trẻ của các thành viên trong Hội Thánh hữu hình thì được báp-têm.",
+   "proof_texts": [
     {
-     "ref": "Công Vụ Các Sứ Đồ 8:37",
+     "ref_vi": "Công Vụ Các Sứ Đồ 8:37",
+     "text_vi": "Phi-líp nói: Nếu ông hết lòng tin, điều đó có thể được. Hoạn quan trả lời rằng: Tôi tin rằng Đức Chúa Jêsus Christ là Con Đức Chúa Trời.",
      "key": "act:8:37"
     },
     {
-     "ref": "Sáng Thế Ký 17:7",
+     "ref_vi": "Sáng Thế Ký 17:7",
+     "text_vi": "Ta sẽ lập giao ước cùng ngươi, và cùng hậu tự ngươi trải qua các đời; ấy là giao ước đời đời, hầu cho ta làm Đức Chúa Trời của ngươi và của dòng dõi ngươi.",
      "key": "gen:17:7"
     },
     {
-     "ref": "Công Vụ Các Sứ Đồ 2:39",
+     "ref_vi": "Công Vụ Các Sứ Đồ 2:39",
+     "text_vi": "Vì lời hứa thuộc về các ngươi, con cái các ngươi, và thuộc về hết thảy mọi người ở xa, tức là bao nhiêu người mà Chúa là Đức Chúa Trời chúng ta sẽ gọi.",
      "key": "act:2:39"
     }
    ]
   },
   {
-   "id": 96,
-   "question": "Tiệc Thánh của Chúa là gì?",
-   "answer": "Tiệc Thánh của Chúa là thánh lễ trong đó, bằng việc trao và nhận bánh cùng chén theo sự lập của Đấng Christ, sự chết của Ngài được rao truyền; và những người dự tiệc cách xứng đáng, không phải theo cách thể xác, mà bởi đức tin, được dự phần thân thể và huyết Ngài, cùng mọi ích lợi của Ngài, để được nuôi dưỡng thuộc linh và lớn lên trong ân điển.",
-   "proofTexts": [
+   "number": 96,
+   "question_vi": "Tiệc Thánh của Chúa là gì?",
+   "answer_vi": "Tiệc Thánh của Chúa là thánh lễ trong đó, bằng việc trao và nhận bánh cùng chén theo sự lập của Đấng Christ, sự chết của Ngài được rao truyền; và những người dự tiệc cách xứng đáng, không phải theo cách thể xác, mà bởi đức tin, được dự phần thân thể và huyết Ngài, cùng mọi ích lợi của Ngài, để được nuôi dưỡng thuộc linh và lớn lên trong ân điển.",
+   "proof_texts": [
     {
-     "ref": "1 Cô-rinh-tô 11:24",
+     "ref_vi": "1 Cô-rinh-tô 11:24",
+     "text_vi": "tạ ơn, rồi bẻ ra mà phán rằng: Nầy là thân thể ta, vì các ngươi mà phó cho; hãy làm điều nầy để nhớ ta.",
      "key": "1cor:11:24"
     },
     {
-     "ref": "1 Cô-rinh-tô 10:16",
+     "ref_vi": "1 Cô-rinh-tô 10:16",
+     "text_vi": "Cái chén phước lành mà chúng ta chúc phước, há chẳng phải là thông với huyết của Đấng Christ sao? Cái bánh mà chúng ta bẻ, há chẳng phải là thông với thân thể của Đấng Christ sao?",
      "key": "1cor:10:16"
     },
     {
-     "ref": "Giăng 6:35",
+     "ref_vi": "Giăng 6:35",
+     "text_vi": "Đức Chúa Jêsus phán rằng: Ta là bánh của sự sống; ai đến cùng ta chẳng hề đói, và ai tin ta chẳng hề khát.",
      "key": "joh:6:35"
     }
    ]
   },
   {
-   "id": 97,
-   "question": "Điều gì được đòi hỏi để dự Tiệc Thánh của Chúa cách xứng đáng?",
-   "answer": "Những ai muốn dự Tiệc Thánh của Chúa cách xứng đáng phải tự xét mình: có hiểu biết để phân biệt thân thể Chúa, có đức tin để nuôi mình bởi Ngài, có sự ăn năn, tình yêu thương và sự vâng lời mới; kẻo đến cách không xứng đáng mà ăn uống sự phán xét cho chính mình.",
-   "proofTexts": [
+   "number": 97,
+   "question_vi": "Điều gì được đòi hỏi để dự Tiệc Thánh của Chúa cách xứng đáng?",
+   "answer_vi": "Những ai muốn dự Tiệc Thánh của Chúa cách xứng đáng phải tự xét mình: có hiểu biết để phân biệt thân thể Chúa, có đức tin để nuôi mình bởi Ngài, có sự ăn năn, tình yêu thương và sự vâng lời mới; kẻo đến cách không xứng đáng mà ăn uống sự phán xét cho chính mình.",
+   "proof_texts": [
     {
-     "ref": "1 Cô-rinh-tô 11:28",
+     "ref_vi": "1 Cô-rinh-tô 11:28",
+     "text_vi": "Vậy mỗi người phải tự xét lấy mình, và như thế mới ăn bánh uống chén ấy;",
      "key": "1cor:11:28"
     },
     {
-     "ref": "1 Cô-rinh-tô 11:29",
+     "ref_vi": "1 Cô-rinh-tô 11:29",
+     "text_vi": "vì người nào không phân biệt thân Chúa mà ăn bánh uống chén đó, tức là ăn uống sự xét đoán cho mình.",
      "key": "1cor:11:29"
     },
     {
-     "ref": "2 Cô-rinh-tô 13:5",
+     "ref_vi": "2 Cô-rinh-tô 13:5",
+     "text_vi": "Chính anh em hãy tự xét để xem mình có đức tin chăng. Hãy tự thử mình: anh em há không nhận biết rằng có Đức Chúa Jêsus Christ ở trong anh em sao? miễn là anh em không đáng bị bỏ.",
      "key": "2cor:13:5"
     }
    ]
   },
   {
-   "id": 98,
-   "question": "Cầu nguyện là gì?",
-   "answer": "Cầu nguyện là dâng lên Đức Chúa Trời những ước ao của chúng ta về những điều hợp ý muốn Ngài, nhân danh Đấng Christ, với sự xưng tội và lòng biết ơn về sự thương xót của Ngài.",
-   "proofTexts": [
+   "number": 98,
+   "question_vi": "Cầu nguyện là gì?",
+   "answer_vi": "Cầu nguyện là dâng lên Đức Chúa Trời những ước ao của chúng ta về những điều hợp ý muốn Ngài, nhân danh Đấng Christ, với sự xưng tội và lòng biết ơn về sự thương xót của Ngài.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 62:8",
+     "ref_vi": "Thi Thiên 62:8",
+     "text_vi": "Hỡi bá tánh, khá nhờ cậy nơi Ngài luôn luôn, Hãy dốc đổ sự lòng mình ra tại trước mặt Ngài: Đức Chúa Trời là nơi nương náu của chúng ta.",
      "key": "psa:62:8"
     },
     {
-     "ref": "1 Giăng 5:14",
+     "ref_vi": "1 Giăng 5:14",
+     "text_vi": "Nầy là điều chúng ta dạn dĩ ở trước mặt Chúa, nếu chúng ta theo ý muốn Ngài mà cầu xin việc gì, thì Ngài nghe chúng ta.",
      "key": "1joh:5:14"
     },
     {
-     "ref": "Giăng 16:23",
+     "ref_vi": "Giăng 16:23",
+     "text_vi": "Trong ngày đó, các ngươi không còn hỏi ta về điều chi nữa. Quả thật, quả thật, ta nói cùng các ngươi, điều chi các ngươi sẽ cầu xin nơi Cha, thì Ngài sẽ nhân danh ta mà ban cho các ngươi.",
      "key": "joh:16:23"
     }
    ]
   },
   {
-   "id": 99,
-   "question": "Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta trong sự cầu nguyện?",
-   "answer": "Toàn bộ Lời Đức Chúa Trời đều hữu ích để hướng dẫn chúng ta trong sự cầu nguyện; nhưng quy tắc hướng dẫn đặc biệt là mẫu cầu nguyện mà Đấng Christ đã dạy các môn đồ, thường gọi là Bài Cầu Nguyện của Chúa.",
-   "proofTexts": [
+   "number": 99,
+   "question_vi": "Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta trong sự cầu nguyện?",
+   "answer_vi": "Toàn bộ Lời Đức Chúa Trời đều hữu ích để hướng dẫn chúng ta trong sự cầu nguyện; nhưng quy tắc hướng dẫn đặc biệt là mẫu cầu nguyện mà Đấng Christ đã dạy các môn đồ, thường gọi là Bài Cầu Nguyện của Chúa.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 6:9",
+     "ref_vi": "Ma-thi-ơ 6:9",
+     "text_vi": "Vậy các ngươi hãy cầu như vầy: Lạy Cha chúng tôi ở trên trời; Danh Cha được thánh;",
      "key": "mat:6:9"
     },
     {
-     "ref": "Lu-ca 11:1",
+     "ref_vi": "Lu-ca 11:1",
+     "text_vi": "Có một ngày, Đức Chúa Jêsus cầu nguyện ở nơi kia. Khi cầu nguyện xong, một môn đồ thưa Ngài rằng: Lạy Chúa, xin dạy chúng tôi cầu nguyện, cũng như Giăng đã dạy môn đồ mình.",
      "key": "luk:11:1"
     }
    ]
   },
   {
-   "id": 100,
-   "question": "Lời mở đầu của Bài Cầu Nguyện của Chúa dạy chúng ta điều gì?",
-   "answer": "Lời mở đầu của Bài Cầu Nguyện của Chúa, “Lạy Cha chúng con ở trên trời,” dạy chúng ta đến gần Đức Chúa Trời với lòng tôn kính thánh khiết và tin chắc, như con cái đến với cha, Đấng có quyền và sẵn lòng giúp đỡ chúng ta; và rằng chúng ta nên cầu nguyện với và cho người khác.",
-   "proofTexts": [
+   "number": 100,
+   "question_vi": "Lời mở đầu của Bài Cầu Nguyện của Chúa dạy chúng ta điều gì?",
+   "answer_vi": "Lời mở đầu của Bài Cầu Nguyện của Chúa, “Lạy Cha chúng con ở trên trời,” dạy chúng ta đến gần Đức Chúa Trời với lòng tôn kính thánh khiết và tin chắc, như con cái đến với cha, Đấng có quyền và sẵn lòng giúp đỡ chúng ta; và rằng chúng ta nên cầu nguyện với và cho người khác.",
+   "proof_texts": [
     {
-     "ref": "Ê-sai 64:9",
+     "ref_vi": "Ê-sai 64:9",
+     "text_vi": "Hỡi Đức Giê-hô-va, xin Ngài chớ quá giận, đừng luôn luôn nhớ đến tội ác chúng tôi! Nầy, chúng tôi xin Ngài hãy đoái xem, chúng tôi đều là dân Ngài!",
      "key": "isa:64:9"
     },
     {
-     "ref": "Ê-phê-sô 6:18",
+     "ref_vi": "Ê-phê-sô 6:18",
+     "text_vi": "Hãy nhờ Đức Thánh Linh, thường thường làm đủ mọi thứ cầu nguyện và nài xin. Hãy dùng sự bền đổ trọn vẹn mà tỉnh thức về điều đó, và cầu nguyện cho hết thảy các thánh đồ.",
      "key": "eph:6:18"
     },
     {
-     "ref": "Ma-thi-ơ 7:11",
+     "ref_vi": "Ma-thi-ơ 7:11",
+     "text_vi": "Vậy nếu các ngươi vốn là xấu, còn biết cho con cái mình các vật tốt thay, huống chi Cha các ngươi ở trên trời lại chẳng ban các vật tốt cho những người xin Ngài sao?",
      "key": "mat:7:11"
     }
    ]
   },
   {
-   "id": 101,
-   "question": "Trong lời cầu xin thứ nhất chúng ta cầu xin điều gì?",
-   "answer": "Trong lời cầu xin thứ nhất, “Danh Cha được thánh,” chúng ta cầu xin Đức Chúa Trời ban năng lực cho chúng ta và người khác tôn vinh Ngài trong mọi điều mà qua đó Ngài bày tỏ chính Ngài; và xin Ngài sắp đặt mọi sự cho vinh hiển Ngài.",
-   "proofTexts": [
+   "number": 101,
+   "question_vi": "Trong lời cầu xin thứ nhất chúng ta cầu xin điều gì?",
+   "answer_vi": "Trong lời cầu xin thứ nhất, “Danh Cha được thánh,” chúng ta cầu xin Đức Chúa Trời ban năng lực cho chúng ta và người khác tôn vinh Ngài trong mọi điều mà qua đó Ngài bày tỏ chính Ngài; và xin Ngài sắp đặt mọi sự cho vinh hiển Ngài.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 67:1",
+     "ref_vi": "Thi Thiên 67:1",
+     "text_vi": "Nguyện Đức Chúa Trời thương xót chúng tôi, và ban phước cho chúng tôi, Soi sáng mặt Ngài trên chúng tôi.",
      "key": "psa:67:1"
     },
     {
-     "ref": "Rô-ma 11:36",
+     "ref_vi": "Rô-ma 11:36",
+     "text_vi": "Vì muôn vật đều là từ Ngài, bởi Ngài và hướng về Ngài. Vinh hiển cho Ngài đời đời, vô cùng! A-men.",
      "key": "rom:11:36"
     },
     {
-     "ref": "Giăng 12:28",
+     "ref_vi": "Giăng 12:28",
+     "text_vi": "Cha ơi, xin làm sáng danh Cha! Bấy giờ có tiếng từ trên trời phán xuống rằng: Ta đã làm sáng danh rồi, ta còn làm cho sáng danh nữa!",
      "key": "joh:12:28"
     }
    ]
   },
   {
-   "id": 102,
-   "question": "Trong lời cầu xin thứ hai chúng ta cầu xin điều gì?",
-   "answer": "Trong lời cầu xin thứ hai, “Nước Cha được đến,” chúng ta cầu xin vương quốc của Sa-tan bị phá đổ; vương quốc ân điển được mở rộng, chính chúng ta và người khác được đem vào và giữ trong đó; và vương quốc vinh hiển mau đến.",
-   "proofTexts": [
+   "number": 102,
+   "question_vi": "Trong lời cầu xin thứ hai chúng ta cầu xin điều gì?",
+   "answer_vi": "Trong lời cầu xin thứ hai, “Nước Cha được đến,” chúng ta cầu xin vương quốc của Sa-tan bị phá đổ; vương quốc ân điển được mở rộng, chính chúng ta và người khác được đem vào và giữ trong đó; và vương quốc vinh hiển mau đến.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 68:1",
+     "ref_vi": "Thi Thiên 68:1",
+     "text_vi": "Nguyện Đức Chúa Trời chỗi dậy, khiến thù nghịch Ngài tản lạc, Và làm cho những kẻ ghét Ngài phải trốn trước mặt Ngài.",
      "key": "psa:68:1"
     },
     {
-     "ref": "Khải Huyền 22:20",
+     "ref_vi": "Khải Huyền 22:20",
+     "text_vi": "Đấng làm chứng cho những điều ấy, phán rằng: Phải, ta đến mau chóng. A-men, lạy Đức Chúa Jêsus, xin hãy đến!",
      "key": "rev:22:20"
     },
     {
-     "ref": "Ma-thi-ơ 13:38",
+     "ref_vi": "Ma-thi-ơ 13:38",
+     "text_vi": "ruộng là thế gian; giống tốt, là con cái nước thiên đàng; cỏ lùng, là con cái quỉ dữ;",
      "key": "mat:13:38"
     }
    ]
   },
   {
-   "id": 103,
-   "question": "Trong lời cầu xin thứ ba chúng ta cầu xin điều gì?",
-   "answer": "Trong lời cầu xin thứ ba, “Ý Cha được nên, ở đất như trời,” chúng ta cầu xin Đức Chúa Trời, bởi ân điển Ngài, khiến chúng ta có thể và sẵn lòng biết, vâng theo và thuận phục ý muốn Ngài trong mọi sự, như các thiên sứ ở trên trời.",
-   "proofTexts": [
+   "number": 103,
+   "question_vi": "Trong lời cầu xin thứ ba chúng ta cầu xin điều gì?",
+   "answer_vi": "Trong lời cầu xin thứ ba, “Ý Cha được nên, ở đất như trời,” chúng ta cầu xin Đức Chúa Trời, bởi ân điển Ngài, khiến chúng ta có thể và sẵn lòng biết, vâng theo và thuận phục ý muốn Ngài trong mọi sự, như các thiên sứ ở trên trời.",
+   "proof_texts": [
     {
-     "ref": "Thi Thiên 103:20",
+     "ref_vi": "Thi Thiên 103:20",
+     "text_vi": "Hỡi các thiên sứ của Đức Giê-hô-va, Là các đấng có sức lực làm theo mạng lịnh Ngài, Hay vâng theo tiếng Ngài, khá ngợi khen Đức Giê-hô-va!",
      "key": "psa:103:20"
     },
     {
-     "ref": "Ma-thi-ơ 26:39",
+     "ref_vi": "Ma-thi-ơ 26:39",
+     "text_vi": "Rồi Ngài bước tới một ít, sấp mặt xuống đất mà cầu nguyện rằng: Cha ơi! nếu có thể được, xin cho chén nầy lìa khỏi Con! Song không theo ý muốn Con, mà theo ý muốn Cha.",
      "key": "mat:26:39"
     },
     {
-     "ref": "Hê-bơ-rơ 13:21",
+     "ref_vi": "Hê-bơ-rơ 13:21",
+     "text_vi": "nguyền xin Ngài bởi Đức Chúa Jêsus Christ khiến anh em nên trọn vẹn trong mọi sự lành, đặng làm thành ý muốn Ngài, và làm ra sự đẹp ý Ngài trong chúng ta; sự vinh hiển đáng về Ngài đời đời vô cùng! A-men.",
      "key": "heb:13:21"
     }
    ]
   },
   {
-   "id": 104,
-   "question": "Trong lời cầu xin thứ tư chúng ta cầu xin điều gì?",
-   "answer": "Trong lời cầu xin thứ tư, “Xin cho chúng con hôm nay đồ ăn đủ ngày,” chúng ta cầu xin bởi sự ban cho nhưng không của Đức Chúa Trời, chúng ta nhận được phần đủ dùng trong những điều tốt lành của đời này và vui hưởng phước hạnh của Ngài trong đó.",
-   "proofTexts": [
+   "number": 104,
+   "question_vi": "Trong lời cầu xin thứ tư chúng ta cầu xin điều gì?",
+   "answer_vi": "Trong lời cầu xin thứ tư, “Xin cho chúng con hôm nay đồ ăn đủ ngày,” chúng ta cầu xin bởi sự ban cho nhưng không của Đức Chúa Trời, chúng ta nhận được phần đủ dùng trong những điều tốt lành của đời này và vui hưởng phước hạnh của Ngài trong đó.",
+   "proof_texts": [
     {
-     "ref": "Châm Ngôn 30:8",
+     "ref_vi": "Châm Ngôn 30:8",
+     "text_vi": "Xin dan xa khỏi tôi sự lường gạt và lời dối trá; Chớ cho tôi nghèo khổ, hoặc sự giàu sang; Hãy nuôi tôi đủ vật thực cần dùng,",
      "key": "prov:30:8"
     },
     {
-     "ref": "1 Ti-mô-thê 4:4",
+     "ref_vi": "1 Ti-mô-thê 4:4",
+     "text_vi": "Vả, mọi vật Đức Chúa Trời đã dựng nên đều là tốt lành cả, không một vật chi đáng bỏ, miễn là mình cảm ơn mà ăn lấy thì được;",
      "key": "1tim:4:4"
     },
     {
-     "ref": "Thi Thiên 145:15",
+     "ref_vi": "Thi Thiên 145:15",
+     "text_vi": "Con mắt muôn vật đều ngửa trông Chúa, Chúa ban cho chúng đồ ăn tùy theo thì.",
      "key": "psa:145:15"
     }
    ]
   },
   {
-   "id": 105,
-   "question": "Trong lời cầu xin thứ năm chúng ta cầu xin điều gì?",
-   "answer": "Trong lời cầu xin thứ năm, “Xin tha tội lỗi cho chúng con, như chúng con cũng tha kẻ phạm tội nghịch cùng chúng con,” chúng ta cầu xin Đức Chúa Trời, vì cớ Đấng Christ, tha thứ mọi tội lỗi chúng ta cách nhưng không; điều này càng khích lệ chúng ta cầu xin, vì bởi ân điển Ngài chúng ta được ban năng lực từ lòng tha thứ người khác.",
-   "proofTexts": [
+   "number": 105,
+   "question_vi": "Trong lời cầu xin thứ năm chúng ta cầu xin điều gì?",
+   "answer_vi": "Trong lời cầu xin thứ năm, “Xin tha tội lỗi cho chúng con, như chúng con cũng tha kẻ phạm tội nghịch cùng chúng con,” chúng ta cầu xin Đức Chúa Trời, vì cớ Đấng Christ, tha thứ mọi tội lỗi chúng ta cách nhưng không; điều này càng khích lệ chúng ta cầu xin, vì bởi ân điển Ngài chúng ta được ban năng lực từ lòng tha thứ người khác.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 6:12",
+     "ref_vi": "Ma-thi-ơ 6:12",
+     "text_vi": "Xin tha tội lỗi cho chúng tôi, như chúng tôi cũng tha kẻ phạm tội nghịch cùng chúng tôi;",
      "key": "mat:6:12"
     },
     {
-     "ref": "Ê-phê-sô 4:32",
+     "ref_vi": "Ê-phê-sô 4:32",
+     "text_vi": "Hãy ở với nhau cách nhân từ, đầy dẫy lòng thương xót, tha thứ nhau như Đức Chúa Trời đã tha thứ anh em trong Đấng Christ vậy.",
      "key": "eph:4:32"
     },
     {
-     "ref": "1 Giăng 1:9",
+     "ref_vi": "1 Giăng 1:9",
+     "text_vi": "Còn nếu chúng ta xưng tội mình, thì Ngài là thành tín công bình để tha tội cho chúng ta, và làm cho chúng ta sạch mọi điều gian ác.",
      "key": "1joh:1:9"
     }
    ]
   },
   {
-   "id": 106,
-   "question": "Trong lời cầu xin thứ sáu chúng ta cầu xin điều gì?",
-   "answer": "Trong lời cầu xin thứ sáu, “Xin chớ để chúng con bị cám dỗ, mà cứu chúng con khỏi điều ác,” chúng ta cầu xin Đức Chúa Trời hoặc giữ chúng con khỏi bị cám dỗ phạm tội, hoặc nâng đỡ và giải cứu chúng ta khi bị cám dỗ.",
-   "proofTexts": [
+   "number": 106,
+   "question_vi": "Trong lời cầu xin thứ sáu chúng ta cầu xin điều gì?",
+   "answer_vi": "Trong lời cầu xin thứ sáu, “Xin chớ để chúng con bị cám dỗ, mà cứu chúng con khỏi điều ác,” chúng ta cầu xin Đức Chúa Trời hoặc giữ chúng con khỏi bị cám dỗ phạm tội, hoặc nâng đỡ và giải cứu chúng ta khi bị cám dỗ.",
+   "proof_texts": [
     {
-     "ref": "Ma-thi-ơ 26:41",
+     "ref_vi": "Ma-thi-ơ 26:41",
+     "text_vi": "Hãy thức canh và cầu nguyện, kẻo các ngươi sa vào chước cám dỗ; tâm thần thì muốn lắm, mà xác thịt thì yếu đuối.",
      "key": "mat:26:41"
     },
     {
-     "ref": "2 Phi-e-rơ 2:9",
+     "ref_vi": "2 Phi-e-rơ 2:9",
+     "text_vi": "thì Chúa biết cứu chữa những người tin kính khỏi cơn cám dỗ, và hành phạt kẻ không công bình, cầm chúng nó lại để chờ ngày phán xét,",
      "key": "2pet:2:9"
     },
     {
-     "ref": "1 Cô-rinh-tô 10:13",
+     "ref_vi": "1 Cô-rinh-tô 10:13",
+     "text_vi": "Những sự cám dỗ đến cho anh em, chẳng có sự nào quá sức loài người. Đức Chúa Trời là thành tín, Ngài chẳng hề cho anh em bị cám dỗ quá sức mình đâu; nhưng trong sự cám dỗ, Ngài cũng mở đàng cho ra khỏi, để anh em có thể chịu được.",
      "key": "1cor:10:13"
     }
    ]
   },
   {
-   "id": 107,
-   "question": "Lời kết của Bài Cầu Nguyện của Chúa dạy chúng ta điều gì?",
-   "answer": "Lời kết của Bài Cầu Nguyện của Chúa, “Vì nước, quyền, vinh hiển đều thuộc về Cha đời đời. A-men,” dạy chúng ta lấy sự khích lệ trong cầu nguyện duy nơi Đức Chúa Trời, và trong lời cầu nguyện ngợi khen Ngài, quy nước, quyền và vinh hiển về Ngài; và để bày tỏ ước ao cùng sự bảo đảm được nhậm lời, chúng ta nói “A-men.”",
-   "proofTexts": [
+   "number": 107,
+   "question_vi": "Lời kết của Bài Cầu Nguyện của Chúa dạy chúng ta điều gì?",
+   "answer_vi": "Lời kết của Bài Cầu Nguyện của Chúa, “Vì nước, quyền, vinh hiển đều thuộc về Cha đời đời. A-men,” dạy chúng ta lấy sự khích lệ trong cầu nguyện duy nơi Đức Chúa Trời, và trong lời cầu nguyện ngợi khen Ngài, quy nước, quyền và vinh hiển về Ngài; và để bày tỏ ước ao cùng sự bảo đảm được nhậm lời, chúng ta nói “A-men.”",
+   "proof_texts": [
     {
-     "ref": "2 Ti-mô-thê 4:18",
+     "ref_vi": "2 Ti-mô-thê 4:18",
+     "text_vi": "Chúa sẽ giải thoát ta khỏi mọi điều ác và cứu vớt ta vào trong nước trên trời của Ngài. Nguyền xin sự vinh hiển về nơi Ngài muôn đời không cùng! A-men.",
      "key": "2tim:4:18"
     },
     {
-     "ref": "Khải Huyền 22:20",
+     "ref_vi": "Khải Huyền 22:20",
+     "text_vi": "Đấng làm chứng cho những điều ấy, phán rằng: Phải, ta đến mau chóng. A-men, lạy Đức Chúa Jêsus, xin hãy đến!",
      "key": "rev:22:20"
     },
     {
-     "ref": "1 Sử Ký 29:11",
+     "ref_vi": "1 Sử Ký 29:11",
+     "text_vi": "Hỡi Đức Giê-hô-va sự cao cả, quyền năng, vinh quang, toàn thắng, và oai nghi đáng qui về Ngài; vì muôn vật trên các từng trời và dưới đất đều thuộc về Ngài. Đức Giê-hô-va ôi! nước thuộc về Ngài; Ngài được tôn cao làm Chúa tể của muôn vật.",
      "key": "1chron:29:11"
     }
    ]
