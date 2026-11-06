@@ -33,9 +33,12 @@ for f in (APP / "data" / "bible").glob("*.json"):
     books[f.stem] = d
     name2id[d["name"].strip().lower()] = f.stem
 
+from text_corrections import fix_verse
+
 def verse_text(key):
     book, ch, vs = key.split(":")
-    return books[book]["ch"][int(ch) - 1][int(vs) - 1].strip()
+    return fix_verse(book, int(ch), int(vs),
+                     books[book]["ch"][int(ch) - 1][int(vs) - 1]).strip()
 
 def resolve_ref(ref):
     """Vietnamese ref string ('Rô-ma 8:29–30') -> {ref_vi, text_vi} using 1934 texts."""
@@ -46,7 +49,7 @@ def resolve_ref(ref):
     if not bid: return None
     chs = books[bid]["ch"]
     verses = list(range(int(v1), int(v2) + 1)) if v2 else [int(v1)]
-    texts = [chs[int(ch) - 1][v - 1].strip() for v in verses]
+    texts = [fix_verse(bid, int(ch), v, chs[int(ch) - 1][v - 1]).strip() for v in verses]
     return {"ref_vi": ref, "text_vi": " ".join(texts)}
 
 def slugify(s):

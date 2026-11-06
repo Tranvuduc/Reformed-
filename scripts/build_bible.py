@@ -120,6 +120,8 @@ def share_row(url):
             f'<a class="btn solid" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={url}">Chia sẻ Facebook</a>'
             f'<a class="btn" target="_blank" rel="noopener" href="https://sp.zalo.me/share_inline?url={url}">Chia sẻ Zalo</a></div>')
 
+from text_corrections import fix_verse
+
 OUT = ROOT / "kinh-thanh"
 OUT.mkdir(exist_ok=True)
 
@@ -156,6 +158,7 @@ for b in books_meta:
         next_bc = flat[i + 1] if i < len(flat) - 1 else None
         vhtml = []
         for vi, vtext in enumerate(verses, start=1):
+            vtext = fix_verse(bid, ci, vi, vtext)
             vhtml.append(f'<p class="verse" id="v{vi}"><span class="vn">{vi}</span>{esc(vtext)}</p>')
             refs = xref.get(f"{ci}:{vi}")
             if refs:
