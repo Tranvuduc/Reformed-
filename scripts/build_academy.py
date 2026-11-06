@@ -135,6 +135,10 @@ for course in COURSES:
         f'<a class="qo-row" href="/hoc-vien/{cslug}/bai-{i}.html"><span class="qo-num">Bài {i}</span>'
         f'<span><strong>{esc(l["title"])}</strong><br /><span style="color:var(--ink-soft);font-size:14px">{esc(l["objective"])}</span></span></a>'
         for i, l in enumerate(lessons, 1))
+    _comp = {"nen-tang-duc-tin": "Lộ trình đồng hành tiếng Việt cho Chứng Chỉ Nền Tảng của Thirdmill Institute.",
+             "than-hoc-he-thong-1": "Lộ trình đồng hành tiếng Việt cho khóa The Doctrine of God — Chứng Chỉ Nghiên Cứu Thần Học của Thirdmill Institute.",
+             "day-giao-ly-nhom-nho": "Khóa trang bị phục vụ, đồng hành cùng các huy hiệu phục vụ (dạy Kinh Thánh, dẫn nhóm nhỏ) trong chương trình Thirdmill Institute."}.get(course["slug"])
+    companion_line = f'<p style="margin-top:10px;color:var(--ink-soft)">{esc(_comp)}</p>' if _comp else ""
     page = f"""{head(course["title"] + " | Học Viện Cải Chánh",
                      course["audience"], BASE + f"/hoc-vien/{cslug}/")}
 <body id="top">
@@ -145,6 +149,7 @@ for course in COURSES:
     <div class="kicker">Học Viện Cải Chánh · {esc(course["level_vi"])}</div>
     <h1>{esc(course["title"])}</h1>
     <p style="color:var(--ink-soft)">{esc(course["audience"])}</p>
+    {companion_line}
     <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
     <p style="margin-top:10px;color:var(--ink-soft)" data-progress-for="{cslug}" data-total="{len(lessons)}"></p>
   </div>
@@ -213,6 +218,99 @@ for course in COURSES:
     data_out["courses"].append(course_data)
     print(f"course {cslug}: {len(lessons)} lessons")
 
+# ---------- Thirdmill Institute certificates (restructure approved by Duc 2026-11-06) ----------
+# Lesson data verified by a research sweep of nexus.thirdmill.org series pages
+# (scripts/helper-data/thirdmill-series.json): 26 series, 122 lessons. Videos
+# are NOT embedded (Nexus publishes no YouTube links; lessons stream in
+# Thirdmill's own player) — course pages link to each series on Nexus, which
+# Thirdmill's reproduction policy encourages for ministry use.
+tm_series = json.loads((ROOT / "scripts/helper-data/thirdmill-series.json").read_text(encoding="utf-8"))
+def series_of(course_en):
+    return [s for s in tm_series if s["course"].startswith(course_en + " (")]
+CERTS = [
+  {"id": "chung-chi-nen-tang", "vi": "Chứng Chỉ Nền Tảng", "en": "Foundations Certificate",
+   "blurb": "Bốn khóa nhập môn về Kinh Thánh và thần học — điểm bắt đầu cho mọi học viên.",
+   "courses": [
+     {"slug": "nen-tang-kinh-thanh", "vi": "Nền Tảng Kinh Thánh", "en": "Biblical Foundations", "badge": "Truyền giảng"},
+     {"slug": "nen-tang-than-hoc", "vi": "Nền Tảng Thần Học", "en": "Theological Foundations", "badge": "Cầu nguyện"},
+     {"slug": "nen-tang-cuu-uoc", "vi": "Nền Tảng Cựu Ước", "en": "Old Testament Foundations", "badge": "Môn đồ hóa"},
+     {"slug": "nen-tang-tan-uoc", "vi": "Nền Tảng Tân Ước", "en": "New Testament Foundations", "badge": "Giảng dạy", "note": "Loạt bài Công Vụ Các Sứ Đồ có 1 trong 3 bài đã có bản tiếng Việt trên Nexus."}]},
+  {"id": "chung-chi-kinh-thanh", "vi": "Chứng Chỉ Nghiên Cứu Kinh Thánh", "en": "Certificate in Biblical Studies",
+   "blurb": "Năm khóa đào sâu Kinh Thánh: truyện ký, tiên tri, Phao-lô, các thư tín và giải kinh.",
+   "courses": [
+     {"slug": "truyen-ky-cuu-uoc", "vi": "Truyện Ký Cựu Ước", "en": "Old Testament Narratives", "badge": "Tĩnh nguyện cá nhân"},
+     {"slug": "tien-tri-cuu-uoc", "vi": "Các Tiên Tri Cựu Ước", "en": "Old Testament Prophets", "badge": "Đời sống gia đình"},
+     {"slug": "nghien-cuu-phaolo", "vi": "Nghiên Cứu Về Phao-lô", "en": "Pauline Studies", "badge": "Chăm sóc bản thân"},
+     {"slug": "thu-tin-tan-uoc", "vi": "Các Thư Tín Tân Ước", "en": "New Testament Epistles", "badge": "Nhân cách"},
+     {"slug": "giai-kinh", "vi": "Giải Kinh", "en": "Biblical Interpretation", "badge": "Quản gia"}]},
+  {"id": "chung-chi-than-hoc", "vi": "Chứng Chỉ Nghiên Cứu Thần Học", "en": "Certificate in Theological Studies",
+   "blurb": "Năm khóa thần học hệ thống ở độ sâu chủng viện.",
+   "courses": [
+     {"slug": "giao-ly-duc-chua-troi", "vi": "Giáo Lý Về Đức Chúa Trời", "en": "The Doctrine of God", "badge": "Chuẩn bị bài học Kinh Thánh", "companion": "than-hoc-he-thong-1"},
+     {"slug": "giao-ly-dang-christ", "vi": "Giáo Lý Về Đấng Christ", "en": "Christology", "badge": "Dẫn dắt nhóm nhỏ"},
+     {"slug": "giao-ly-duc-thanh-linh", "vi": "Giáo Lý Về Đức Thánh Linh", "en": "Pneumatology", "badge": "Giảng luận"},
+     {"slug": "con-nguoi-va-tan-the", "vi": "Con Người & Tận Thế", "en": "Anthropology & Eschatology", "badge": "Lãnh đạo tôi tớ"},
+     {"slug": "dao-duc-kinh-thanh", "vi": "Đạo Đức Kinh Thánh", "en": "Biblical Ethics", "badge": "Truyền giảng Vương quốc"}]},
+]
+COMPANION_OF = {"than-hoc-he-thong-1": ("Giáo Lý Về Đức Chúa Trời", "/hoc-vien/khoa/giao-ly-duc-chua-troi/")}
+tm_data = []
+for cert in CERTS:
+    cert_lessons = 0
+    cert_data = {"certificate_vi": cert["vi"], "certificate_en": cert["en"], "courses": []}
+    for c in cert["courses"]:
+        series = series_of(c["en"])
+        n_lessons = sum(s["lesson_count"] for s in series)
+        cert_lessons += n_lessons
+        cert_data["courses"].append({"slug": c["slug"], "title_vi": c["vi"], "title_en": c["en"],
+                                     "badge_vi": c["badge"],
+                                     "series": [{"series": s["series"], "lessons": s["lessons"],
+                                                 "lesson_count": s["lesson_count"], "series_url": s["series_url"]} for s in series]})
+        sitemap_urls.append(f"/hoc-vien/khoa/{c['slug']}/")
+        # course page
+        kdir = OUT / "khoa" / c["slug"]
+        kdir.mkdir(parents=True, exist_ok=True)
+        series_html = ""
+        for s in series:
+            items = "".join(f"<li>{esc(x)}</li>" for x in s["lessons"])
+            series_html += f"""<section style="margin-bottom:26px">
+    <h2 style="font-size:21px">{esc(s["series"])}</h2>
+    <p style="color:var(--ink-soft)">{s["lesson_count"]} bài học · Thirdmill Nexus</p>
+    <ol style="margin:10px 0 14px;padding-left:22px;line-height:1.75">{items}</ol>
+    <p><a class="btn solid" href="{esc(s["series_url"])}" target="_blank" rel="noopener">Học loạt bài này trên Nexus →</a></p>
+  </section>"""
+        note = f'<p style="margin-top:10px;color:var(--ink-soft)">{esc(c["note"])}</p>' if c.get("note") else ""
+        companion = ""
+        if c.get("companion"):
+            companion = f'<p style="margin-top:14px"><a class="btn" href="/hoc-vien/{c["companion"]}/">Lộ trình đồng hành tiếng Việt: {esc(next(x["title"] for x in COURSES if x["slug"] == c["companion"]))} →</a></p>'
+        url = f"{BASE}/hoc-vien/khoa/{c['slug']}/"
+        page = f"""{head(c["vi"] + " (" + c["en"] + ") — Thirdmill | Học Viện Cải Chánh",
+                         f"Khóa {c['en']} của Thirdmill Institute: {len(series)} loạt bài, {n_lessons} bài học, học miễn phí trên Nexus.", url)}
+<body id="top">
+{HEADER}
+<main class="wrap">
+  <p class="crumb"><a href="/">Trang chủ</a> · <a href="/hoc-vien/">Học Viện</a> · {esc(cert["vi"])}</p>
+  <div class="cat-head">
+    <div class="kicker">Thirdmill Institute · {esc(cert["en"])}</div>
+    <h1>{esc(c["vi"])}</h1>
+    <p style="color:var(--ink-soft)">{esc(c["en"])} · {len(series)} loạt bài · {n_lessons} bài học · Huy hiệu phục vụ: {esc(c["badge"])}</p>
+    {note}{companion}
+  </div>
+  <article class="qbody" style="margin-bottom:10px">
+    <p>Đây là khóa học chính thức của <strong>Third Millennium Ministries</strong>, học miễn phí trên nền tảng Nexus của Thirdmill (bài học bằng tiếng Anh; Nexus có giao diện tiếng Việt). Reformed Vietnam không lưu trữ video — mỗi loạt bài liên kết thẳng đến Nexus, nơi bạn xem video, đọc bản văn và làm bài kiểm tra để tích lũy chứng chỉ.</p>
+  </article>
+  {series_html}
+</main>
+{FOOTER}
+{MINI_JS}
+</body>
+</html>"""
+        (kdir / "index.html").write_text(page, encoding="utf-8")
+    cert["total_lessons"] = cert_lessons
+    cert_data["total_lessons"] = cert_lessons
+    tm_data.append(cert_data)
+    print(f"certificate {cert['en']}: {len(cert['courses'])} courses, {cert_lessons} lessons")
+data_out["thirdmill_certificates"] = tm_data
+
 # landing
 LEVELS = [("foundation", "Cấp độ 1 · Nền tảng", "Đức tin căn bản cho mọi tín hữu — bắt đầu từ đây."),
           ("doctrine", "Cấp độ 2 · Thần học", "Thần học hệ thống theo thứ tự, ở độ sâu chủng viện phổ thông."),
@@ -226,8 +324,16 @@ for key, label, blurb in LEVELS:
         f'<p style="margin-top:8px;font-weight:600">{len(c["lessons"])} bài học · <span data-progress-for="{c["slug"]}" data-total="{len(c["lessons"])}"></span></p></a>'
         for c in cs)
     sections.append(f'<section style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>{label}</h2><p>{blurb}</p></div><div class="mod-grid">{cards}</div></section>')
-landing = f"""{head("Học Viện Cải Chánh — Học thần học miễn phí, có lộ trình | Reformed Vietnam",
-                    "Ba cấp độ học thần học trực tuyến miễn phí: nền tảng đức tin, thần học hệ thống và trang bị phục vụ — bài học, bài đọc và trắc nghiệm, không cần tài khoản.",
+cert_sections = []
+for cert in CERTS:
+    cards = "".join(
+        f'<a class="mod-card" href="/hoc-vien/khoa/{c["slug"]}/"><span class="pill ok">Thirdmill</span>'
+        f'<h3>{esc(c["vi"])}</h3><p>{esc(c["en"])} · {len(series_of(c["en"]))} loạt bài · {sum(s["lesson_count"] for s in series_of(c["en"]))} bài học</p>'
+        f'<p style="margin-top:8px;font-weight:600">Huy hiệu phục vụ: {esc(c["badge"])}</p></a>'
+        for c in cert["courses"])
+    cert_sections.append(f'<section id="{cert["id"]}" style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>{esc(cert["vi"])}</h2><p>{esc(cert["blurb"])} Tổng cộng {cert["total_lessons"]} bài học.</p></div><div class="mod-grid">{cards}</div></section>')
+landing = f"""{head("Học Viện Cải Chánh — Chương trình Thirdmill miễn phí + lộ trình tiếng Việt | Reformed Vietnam",
+                    "Học Viện Cải Chánh theo chương trình chính thức của Thirdmill Institute: 3 chứng chỉ, 14 khóa, 122 bài học miễn phí trên Nexus, kèm lộ trình đồng hành tiếng Việt.",
                     BASE + "/hoc-vien/")}
 <body id="top">
 {HEADER}
@@ -235,13 +341,20 @@ landing = f"""{head("Học Viện Cải Chánh — Học thần học miễn ph�
   <p class="crumb"><a href="/">Trang chủ</a> · Học Viện Cải Chánh</p>
   <div class="cat-head">
     <div class="kicker">Học Viện Cải Chánh</div>
-    <h1>Học thần học có lộ trình, miễn phí</h1>
-    <p style="color:var(--ink-soft)">Ba cấp độ từ nền tảng đến phục vụ, phỏng theo mô hình giáo trình miễn phí của Third Millennium Ministries. Mỗi bài học gồm mục tiêu, bài đọc ngay trong trang web này, tóm tắt và trắc nghiệm. Tiến độ được lưu trên thiết bị của bạn — không cần tài khoản.</p>
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    <h1>Học thần học theo chương trình Thirdmill — miễn phí</h1>
+    <p style="color:var(--ink-soft)">Học Viện chạy theo chương trình chính thức của <strong>Thirdmill Institute</strong> (Third Millennium Ministries): ba chứng chỉ, 14 khóa, 122 bài học cấp chủng viện, học miễn phí trên nền tảng Nexus. Hoàn thành cả ba chứng chỉ, học viên nhận Diploma in Christian Ministry từ Thirdmill Institute. Bên dưới chương trình chính là các lộ trình đồng hành tiếng Việt của Reformed Vietnam.</p>
   </div>
+  <section style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>Cách học</h2></div>
+    <div class="mod-grid">
+      <div class="mod-card"><h3>1 · Học trên Nexus</h3><p>Mỗi khóa bên dưới liệt kê đầy đủ các loạt bài và bài học. Nút “Học trên Nexus” đưa bạn đến video, bản văn và bài kiểm tra chính thức (tiếng Anh; Nexus có giao diện tiếng Việt).</p></div>
+      <div class="mod-card"><h3>2 · Đồng hành tiếng Việt</h3><p>Các lộ trình tiếng Việt của Reformed Vietnam đi kèm chương trình chính: bài đọc trong chính trang này, tóm tắt và trắc nghiệm — không cần tài khoản, tiến độ lưu trên thiết bị.</p></div>
+      <div class="mod-card"><h3>3 · Chứng chỉ</h3><p>Tiến độ và chứng chỉ do Thirdmill Institute cấp trên Nexus. Lộ trình tiếng Việt chỉ là phần đồng hành — không thay thế bài kiểm tra chính thức.</p></div>
+    </div>
+    <p style="color:var(--ink-soft);font-size:14px">Ghi nhận: hiện chỉ 1 trong 3 bài của loạt Công Vụ Các Sứ Đồ đã có bản tiếng Việt trên Nexus; phần lớn bài học là tiếng Anh. Thirdmill cho phép phân phối miễn phí tài liệu của họ cho mục vụ — trang này liên kết đến Nexus thay vì sao chép nội dung.</p>
+  </section>
+  {"".join(cert_sections)}
+  <section style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>Lộ Trình Đồng Hành Tiếng Việt</h2><p>Ba khóa tiếng Việt do Reformed Vietnam soạn, học kèm chương trình Thirdmill.</p></div></section>
   {"".join(sections)}
-  <section style="margin-bottom:34px"><div class="section-head"><div class="rule"></div><h2>Sắp ra mắt</h2>
-  <p>Khảo Sát Kinh Thánh (tổng quan 66 sách, theo từng phần của giao ước) và Thần Học Hệ Thống II — Giáo Lý Về Sự Cứu Rỗi đang được soạn. Mỗi cấp độ sẽ thêm khóa mới sau khi khóa đầu tiên hoàn thiện.</p></div></section>
 </main>
 {FOOTER}
 {MINI_JS}
