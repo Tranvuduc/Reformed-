@@ -42914,5 +42914,155 @@
   "level": 2,
   "length": "ngan",
   "short": "Giá Trị Vô Giá Của Linh Hồn…"
+ },
+ {
+  "id": "baxter-phu-luc-cam-nang-co-doc",
+  "file": "translations/baxter-phu-luc-cam-nang-co-doc.txt",
+  "title": "PHỤ LỤC CẨM NANG CƠ ĐỐC",
+  "orig": "A Moral Prognostication; The Reformed Liturgy (Appendices to A Christian Directory, Part IV)",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Cầu Nguyện",
+   "Hội Thánh",
+   "Lịch Sử Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Phụ Lục Cẩm Nang Cơ Đốc"
+ },
+ {
+  "id": "manton-hoi-ky-bai-cau-nguyen-chung",
+  "file": "translations/manton-hoi-ky-bai-cau-nguyen-chung.txt",
+  "title": "HỒI KÝ VÀ BÀI CẦU NGUYỆN CHUNG",
+  "orig": "A Practical Exposition of the Lord’s Prayer (with Memoir of Thomas Manton by William Harris)",
+  "author": "Thomas Manton",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Cầu Nguyện",
+   "Đức Tin",
+   "Lịch Sử Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Hồi Ký Và Bài Cầu Nguyện Chung"
+ },
+ {
+  "id": "whitefield-works-vol1",
+  "file": "translations/whitefield-works-vol1.txt",
+  "title": "TUYỂN TẬP CÁC TÁC PHẨM CỦA GEORGE WHITEFIELD — QUYỂN MỘT",
+  "orig": "The works of the Reverend George Whitefield, M.A. Vol 1",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Lịch Sử Hội Thánh",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Thư Của Whitefield Tập 1"
+ },
+ {
+  "id": "whitefield-works-vol3",
+  "file": "translations/whitefield-works-vol3.txt",
+  "title": "TUYỂN TẬP CÁC TÁC PHẨM CỦA GEORGE WHITEFIELD — QUYỂN BA",
+  "orig": "The works of the Reverend George Whitefield, M.A. Vol 3",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Thư Từ",
+   "Đời Sống Cơ Đốc",
+   "Truyền Giáo"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tuyển Tập Thư Whitefield Tập Ba"
+ },
+ {
+  "id": "chalmers-giang-ve-su-doi-bai",
+  "file": "translations/chalmers-giang-ve-su-doi-bai.txt",
+  "title": "CÁC BÀI GIẢNG VỀ SỰ ĐỒI BẠI CỦA BẢN TÍNH CON NGƯỜI",
+  "orig": "Sermons on the Depravity of Human Nature (Sermons and Discourses, Vol. 4)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Tội Lỗi",
+   "Sự Cứu Rỗi",
+   "Đức Thánh Linh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Sự Đồi Bại Của Con Người"
+ },
+ {
+  "id": "chalmers-bang-chung-co-doc-giao",
+  "file": "translations/chalmers-bang-chung-co-doc-giao.txt",
+  "title": "BẰNG CHỨNG VỀ CƠ ĐỐC GIÁO",
+  "orig": "Evidences of Christianity (Sermons and Discourses)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Biện Giáo",
+   "Đức Tin",
+   "Kinh Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bằng Chứng Về Cơ Đốc Giáo"
+ },
+ {
+  "id": "chalmers-bridgewater-tap-1",
+  "file": "translations/chalmers-bridgewater-tap-1.txt",
+  "title": "VỀ QUYỀN NĂNG, SỰ KHÔN NGOAN VÀ LÒNG NHÂN TỪ CỦA ĐỨC CHÚA TRỜI",
+  "orig": "On the Power, Wisdom and Goodness of God",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Sáng Tạo"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Quyền Năng, Khôn Ngoan, Nhân Từ"
+ },
+ {
+  "id": "poole-chu-thich-sang-the-ky",
+  "file": "translations/poole-chu-thich-sang-the-ky.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — SÁCH SÁNG THẾ KÝ",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Genesis (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Sáng Thế Ký"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Sách Sáng Thế Ký"
+ },
+ {
+  "id": "manton-bai-cau-nguyen-chung-phan-hai",
+  "file": "translations/manton-bai-cau-nguyen-chung-phan-hai.txt",
+  "title": "BÀI CẦU NGUYỆN CHUNG — PHẦN HAI",
+  "orig": "A Practical Exposition of the Lord’s Prayer, Part II (Matthew 6:11–Amen)",
+  "author": "Thomas Manton",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Cầu Nguyện",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Cầu Nguyện Chung Phần Hai"
  }
 ]
