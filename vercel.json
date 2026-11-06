@@ -1,179 +1,184 @@
 {
- "headers": [
-  {
-   "source": "/(.*)",
-   "headers": [
+  "headers": [
     {
-     "key": "X-Content-Type-Options",
-     "value": "nosniff"
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
     },
     {
-     "key": "Referrer-Policy",
-     "value": "strict-origin-when-cross-origin"
-    }
-   ]
-  },
-  {
-   "source": "/(.*)\\.(json|css|js)",
-   "headers": [
+      "source": "/(.*)\\.(json|css|js)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
+        }
+      ]
+    },
     {
-     "key": "Cache-Control",
-     "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
-    }
-   ]
-  },
-  {
-   "source": "/(a|b|chu-de|doc)/(.*)",
-   "headers": [
+      "source": "/(a|b|chu-de|doc)/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
+        }
+      ]
+    },
     {
-     "key": "Cache-Control",
-     "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
-    }
-   ]
-  },
-  {
-   "source": "/(og|tts|suu-tap)/(.*)",
-   "headers": [
+      "source": "/(og|tts|suu-tap)/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
+        }
+      ]
+    },
     {
-     "key": "Cache-Control",
-     "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
-    }
-   ]
-  },
-  {
-   "source": "/(.*)\\.(png|jpg|jpeg|svg|webp|mp3|epub|woff2)",
-   "headers": [
+      "source": "/(.*)\\.(png|jpg|jpeg|svg|webp|mp3|epub|woff2)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
+        }
+      ]
+    },
     {
-     "key": "Cache-Control",
-     "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
-    }
-   ]
-  },
-  {
-   "source": "/(ban-dich|txt|bai-viet|bai-giang|translations)/(.*)",
-   "headers": [
+      "source": "/(ban-dich|txt|bai-viet|bai-giang|translations)/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
+        }
+      ]
+    },
     {
-     "key": "Cache-Control",
-     "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800"
+      "source": "/img/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "source": "/img/(.*)",
-   "headers": [
+  ],
+  "redirects": [
     {
-     "key": "Cache-Control",
-     "value": "public, max-age=31536000, immutable"
+      "source": "/sach",
+      "destination": "/thu-vien.html",
+      "permanent": true
+    },
+    {
+      "source": "/books",
+      "destination": "/thu-vien.html",
+      "permanent": true
+    },
+    {
+      "source": "/authors",
+      "destination": "/tac-gia.html",
+      "permanent": true
+    },
+    {
+      "source": "/tac-gia",
+      "destination": "/tac-gia.html",
+      "permanent": true
+    },
+    {
+      "source": "/courses",
+      "destination": "/khoa-hoc.html",
+      "permanent": true
+    },
+    {
+      "source": "/quotes",
+      "destination": "/trich-dan.html",
+      "permanent": true
+    },
+    {
+      "source": "/topics",
+      "destination": "/chu-de/",
+      "permanent": true
+    },
+    {
+      "source": "/a/jean-calvin.html",
+      "destination": "/a/john-calvin.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/1616-1683-owen-john.html",
+      "destination": "/a/john-owen.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/1628-1688-bunyan-john.html",
+      "destination": "/a/john-bunyan.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/theodore-de-beze.html",
+      "destination": "/a/theodore-beza.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/b-b-warfield.html",
+      "destination": "/a/benjamin-warfield.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/benjamin-palmer.html",
+      "destination": "/a/benjamin-morgan-palmer.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/saint-bishop-of-hippo-augustine.html",
+      "destination": "/a/augustine-of-hippo.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/saint-patriarch-of-alexandria-d-373-athanasius.html",
+      "destination": "/a/athanasius-of-alexandria.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/paul-d-1617-baynes.html",
+      "destination": "/a/paul-baynes.html",
+      "permanent": true
+    },
+    {
+      "source": "/a/thomas-d-1632-beard.html",
+      "destination": "/a/thomas-beard.html",
+      "permanent": true
+    },
+    {
+      "source": "/thuat-ngu.html",
+      "destination": "/bach-khoa/",
+      "permanent": true
+    },
+    {
+      "source": "/thuat-ngu",
+      "destination": "/bach-khoa/",
+      "permanent": true
+    },
+    {
+      "source": "/hoi-dap.html",
+      "destination": "/hoi-dap/",
+      "permanent": true
+    },
+    {
+      "source": "/hoi-dap",
+      "destination": "/hoi-dap/",
+      "permanent": false
+    },
+    {
+      "source": "/khoa-hoc.html",
+      "destination": "/hoc-vien/",
+      "permanent": true
     }
-   ]
-  }
- ],
- "redirects": [
-  {
-   "source": "/sach",
-   "destination": "/thu-vien.html",
-   "permanent": true
-  },
-  {
-   "source": "/books",
-   "destination": "/thu-vien.html",
-   "permanent": true
-  },
-  {
-   "source": "/authors",
-   "destination": "/tac-gia.html",
-   "permanent": true
-  },
-  {
-   "source": "/tac-gia",
-   "destination": "/tac-gia.html",
-   "permanent": true
-  },
-  {
-   "source": "/courses",
-   "destination": "/khoa-hoc.html",
-   "permanent": true
-  },
-  {
-   "source": "/quotes",
-   "destination": "/trich-dan.html",
-   "permanent": true
-  },
-  {
-   "source": "/topics",
-   "destination": "/chu-de/",
-   "permanent": true
-  },
-  {
-   "source": "/a/jean-calvin.html",
-   "destination": "/a/john-calvin.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/1616-1683-owen-john.html",
-   "destination": "/a/john-owen.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/1628-1688-bunyan-john.html",
-   "destination": "/a/john-bunyan.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/theodore-de-beze.html",
-   "destination": "/a/theodore-beza.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/b-b-warfield.html",
-   "destination": "/a/benjamin-warfield.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/benjamin-palmer.html",
-   "destination": "/a/benjamin-morgan-palmer.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/saint-bishop-of-hippo-augustine.html",
-   "destination": "/a/augustine-of-hippo.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/saint-patriarch-of-alexandria-d-373-athanasius.html",
-   "destination": "/a/athanasius-of-alexandria.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/paul-d-1617-baynes.html",
-   "destination": "/a/paul-baynes.html",
-   "permanent": true
-  },
-  {
-   "source": "/a/thomas-d-1632-beard.html",
-   "destination": "/a/thomas-beard.html",
-   "permanent": true
-  },
-  {
-   "source": "/thuat-ngu.html",
-   "destination": "/bach-khoa/",
-   "permanent": true
-  },
-  {
-   "source": "/thuat-ngu",
-   "destination": "/bach-khoa/",
-   "permanent": true
-  },
-  {
-   "source": "/hoi-dap.html",
-   "destination": "/hoi-dap/",
-   "permanent": true
-  },
-  {
-   "source": "/hoi-dap",
-   "destination": "/hoi-dap/",
-   "permanent": false
-  }
- ],
- "ignoreCommand": "test \"$VERCEL_GIT_COMMIT_REF\" != \"main\""
+  ],
+  "ignoreCommand": "test \"$VERCEL_GIT_COMMIT_REF\" != \"main\""
 }
