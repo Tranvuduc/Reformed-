@@ -15,7 +15,7 @@ _Q = [
  ("Tôi không thuộc về chính mình, nhưng cả thân thể lẫn linh hồn, lúc sống cũng như lúc chết, đều thuộc về Cứu Chúa thành tín của tôi là Chúa Jesus Christ.", "That I am not my own, but belong, body and soul, in life and in death, to my faithful Savior Jesus Christ.", "Giáo lý Heidelberg", "Câu hỏi 1"),
 ]
 _data = _j.dumps([{"v": v, "e": e, "a": a, "s": s} for v, e, a, s in _Q], ensure_ascii=False)
-_css = '<style>.qc{margin:18px 0;padding:22px;border:1px solid #8884;border-radius:14px;background:#9a34120a}.qv{font:600 1.35rem/1.5 Georgia,serif;margin:0 0 10px}.qe{opacity:.7;font-style:italic;margin:0 0 10px}.qa{font-weight:700}.qb{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}.qb button{padding:9px 16px;border:1px solid #8886;border-radius:999px;background:none;color:inherit;font:inherit;cursor:pointer}.qb button.p{background:var(--acc);color:var(--onacc);border-color:var(--acc)}canvas{display:none}</style>'
+_css = '<style>.qc{margin:18px 0;padding:22px;border:1px solid #8884;border-radius:14px;background:#7c21280a}.qv{font:600 1.35rem/1.5 Georgia,serif;margin:0 0 10px}.qe{opacity:.7;font-style:italic;margin:0 0 10px}.qa{font-weight:700}.qb{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}.qb button{padding:9px 16px;border:1px solid #8886;border-radius:999px;background:none;color:inherit;font:inherit;cursor:pointer}.qb button.p{background:var(--acc);color:var(--onacc);border-color:var(--acc)}canvas{display:none}</style>'
 _body = f'''{_css}<h1>Trích dẫn hôm nay</h1>
 <p>Một câu ngắn từ các tác giả Cải Chánh, kèm ảnh để tải về và chia sẻ trên Facebook, Zalo hay nhóm của bạn.</p>
 <div class="qc"><p class="qv" id="qv"></p><p class="qe" id="qe"></p><p class="qa" id="qa"></p></div>
@@ -25,10 +25,10 @@ _body = f'''{_css}<h1>Trích dẫn hôm nay</h1>
 <script>(function(){{var Q={_data},i=Math.floor(Date.now()/864e5)%Q.length,$=function(x){{return document.getElementById(x)}};
 function show(){{var q=Q[i];$("qv").textContent="“"+q.v+"”";$("qe").textContent=q.e;$("qa").textContent="— "+q.a+(q.s?", "+q.s:"")}}
 function wrap(c,t,x,y,w,lh){{var ws=t.split(" "),l="",ys=y;ws.forEach(function(s){{var n=l?l+" "+s:s;if(c.measureText(n).width>w&&l){{c.fillText(l,x,ys);ys+=lh;l=s}}else l=n}});c.fillText(l,x,ys);return ys+lh}}
-function draw(){{var q=Q[i],cv=$("cv"),c=cv.getContext("2d");c.fillStyle="#f3ecd9";c.fillRect(0,0,1080,1080);c.fillStyle="#9a3412";c.fillRect(90,110,120,8);
+function draw(){{var q=Q[i],cv=$("cv"),c=cv.getContext("2d");c.fillStyle="#f7f2e9";c.fillRect(0,0,1080,1080);c.fillStyle="#7c2128";c.fillRect(90,110,120,8);
 c.fillStyle="#2a2118";c.textBaseline="alphabetic";var fs=q.v.length>110?52:60;c.font="600 "+fs+"px Georgia,'Times New Roman',serif";var y=wrap(c,"“"+q.v+"”",90,230,900,fs*1.35);
 c.font="italic 34px Georgia,serif";c.fillStyle="#6b5d4a";y=wrap(c,q.e,90,y+30,900,46);
-c.font="700 40px Georgia,serif";c.fillStyle="#9a3412";c.fillText("— "+q.a,90,Math.min(y+50,930));if(q.s){{c.font="30px Georgia,serif";c.fillStyle="#6b5d4a";c.fillText(q.s,90,Math.min(y+95,975))}}
+c.font="700 40px Georgia,serif";c.fillStyle="#7c2128";c.fillText("— "+q.a,90,Math.min(y+50,930));if(q.s){{c.font="30px Georgia,serif";c.fillStyle="#6b5d4a";c.fillText(q.s,90,Math.min(y+95,975))}}
 c.font="600 30px system-ui,sans-serif";c.fillStyle="#2a2118";c.fillText("Reformed Vietnam",90,1030);c.font="26px system-ui,sans-serif";c.fillStyle="#6b5d4a";c.textAlign="right";c.fillText("reformed-vietnam.vercel.app",990,1030);c.textAlign="left"}}
 function blob(cb){{draw();$("cv").toBlob(cb,"image/png")}}
 $("dl").onclick=function(){{blob(function(b){{var a=document.createElement("a");a.href=URL.createObjectURL(b);a.download="reformed-vietnam-trich-dan.png";a.click()}})}};

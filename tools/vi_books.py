@@ -76,7 +76,7 @@ def _titlecase_vi(t):
         else:
             _out.append(_w.capitalize())
     return " ".join(_out)
-_TOTOP_CSS = ".totop{position:fixed;right:16px;bottom:18px;z-index:50;background:var(--accbtn,#9a3412);color:#fff;padding:8px 14px;border-radius:999px;text-decoration:none;font:600 14px system-ui,sans-serif;box-shadow:0 2px 10px rgba(0,0,0,.25)}"
+_TOTOP_CSS = ".totop{position:fixed;right:16px;bottom:18px;z-index:50;background:var(--accbtn,#7c2128);color:#fff;padding:8px 14px;border-radius:999px;text-decoration:none;font:600 14px system-ui,sans-serif;box-shadow:0 2px 10px rgba(0,0,0,.25)}"
 _TOTOP_MIN = 50 * 1024  # H9: back-to-top only on pages over ~50 KB of body HTML
 def _normfile(f):
     """Normalise an index 'file' value to a translations/ slug (no dir, no ext).
