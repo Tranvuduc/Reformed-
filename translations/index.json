@@ -43064,5 +43064,1647 @@
   "level": 2,
   "length": "dai",
   "short": "Bài Cầu Nguyện Chung Phần Hai"
+ },
+ {
+  "id": "arch-chalmers-bai-giang-thien-van-b",
+  "file": "translations/arch-chalmers-bai-giang-thien-van-b.txt",
+  "title": "BÀI GIẢNG THIÊN VĂN PHẦN B",
+  "orig": "Discourses on the Christian Revelation Viewed in Connection with the Modern Astronomy (Part B)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Giảng Thiên Văn Phần B"
+ },
+ {
+  "id": "arch-cazenove-lich-su-luan-chung-tien-nghiem",
+  "file": "translations/arch-cazenove-lich-su-luan-chung-tien-nghiem.txt",
+  "title": "LỊCH SỬ LUẬN CHỨNG TIÊN NGHIỆM",
+  "orig": "Historical Aspects of the A Priori Argument",
+  "author": "John Gibson Cazenove",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "vua",
+  "short": "Lịch Sử Luận Chứng Tiên Nghiệm"
+ },
+ {
+  "id": "arch-burton-bai-giang-ma-thi-o-6",
+  "file": "translations/arch-burton-bai-giang-ma-thi-o-6.txt",
+  "title": "MƯỜI BÀI GIẢNG MA-THI-Ơ 6",
+  "orig": "Certaine Questions and Answeres (Ten Sermons on Matthew 6:1-4; Anatomy of Belial)",
+  "author": "William Burton",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Mười Bài Giảng Ma-thi-ơ 6"
+ },
+ {
+  "id": "arch-vincent-cai-chet-cac-muc-su",
+  "file": "translations/arch-vincent-cai-chet-cac-muc-su.txt",
+  "title": "CÁI CHẾT CỦA CÁC MỤC SƯ",
+  "orig": "The Death of Ministers Improved",
+  "author": "Thomas Vincent",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Sự Chịu Khổ"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Cái Chết Của Các Mục Sư"
+ },
+ {
+  "id": "arch-vincent-nen-tang-duc-chua-troi",
+  "file": "translations/arch-vincent-nen-tang-duc-chua-troi.txt",
+  "title": "NỀN TẢNG ĐỨC CHÚA TRỜI",
+  "orig": "The Foundation of God Standeth Sure",
+  "author": "Thomas Vincent",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Nền Tảng Đức Chúa Trời"
+ },
+ {
+  "id": "arch-keach-tien-trinh-cua-toi-loi",
+  "file": "translations/arch-keach-tien-trinh-cua-toi-loi.txt",
+  "title": "TIẾN TRÌNH CỦA TỘI LỖI",
+  "orig": "The Progress of Sin",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Ăn Năn"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Tiến Trình Của Tội Lỗi"
+ },
+ {
+  "id": "arch-vincent-loi-khuyen-cho-thanh-nien",
+  "file": "translations/arch-vincent-loi-khuyen-cho-thanh-nien.txt",
+  "title": "LỜI KHUYÊN CHO THANH NIÊN",
+  "orig": "Words of Advice to Young Persons",
+  "author": "Thomas Vincent",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Con Cái"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Lời Khuyên Cho Thanh Niên"
+ },
+ {
+  "id": "arch-vincent-nhung-loi-duoc-cuu",
+  "file": "translations/arch-vincent-nhung-loi-duoc-cuu.txt",
+  "title": "NHỮNG LỜI ĐƯỢC CỨU",
+  "orig": "Words Whereby We May Be Saved",
+  "author": "Thomas Vincent",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Phúc Âm",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 1,
+  "length": "vua",
+  "short": "Những Lời Được Cứu"
+ },
+ {
+  "id": "arch-defence-dr-clarke-benh-vuc",
+  "file": "translations/arch-defence-dr-clarke-benh-vuc.txt",
+  "title": "BÊNH VỰC CHỨNG MINH CỦA CLARKE",
+  "orig": "A Defence of Dr. Clarke's Demonstration of the Being and Attributes of God",
+  "author": "Ẩn danh",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "vua",
+  "short": "Bênh Vực Chứng Minh Của Clarke"
+ },
+ {
+  "id": "arch-whitefield-thu-gui-chauncy",
+  "file": "translations/arch-whitefield-thu-gui-chauncy.txt",
+  "title": "THƯ GỬI MỤC SƯ CHAUNCY",
+  "orig": "A Letter to the Reverend Dr. Chauncy",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Lịch Sử Hội Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "ngan",
+  "short": "Thư Gửi Mục Sư Chauncy"
+ },
+ {
+  "id": "arch-gretton-xem-xet-luan-chung-tien-nghiem",
+  "file": "translations/arch-gretton-xem-xet-luan-chung-tien-nghiem.txt",
+  "title": "XEM XÉT LUẬN CHỨNG TIÊN NGHIỆM",
+  "orig": "A Review of the Argument A Priori",
+  "author": "Phillips Gretton",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "vua",
+  "short": "Xem Xét Luận Chứng Tiên Nghiệm"
+ },
+ {
+  "id": "arch-heidelberg-catechism-ngan-1770",
+  "file": "translations/arch-heidelberg-catechism-ngan-1770.txt",
+  "title": "GIÁO LÝ VẤN ĐÁP NGẮN",
+  "orig": "A Short Catechism (Heidelberg, 1770)",
+  "author": "Giáo lý vấn đáp Heidelberg",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Tín Điều",
+   "Đức Tin"
+  ],
+  "level": 1,
+  "length": "vua",
+  "short": "Giáo Lý Vấn Đáp Ngắn"
+ },
+ {
+  "id": "arch-atkey-thu-ve-than-tinh",
+  "file": "translations/arch-atkey-thu-ve-than-tinh.txt",
+  "title": "NHỮNG BỨC THƯ VỀ THẦN TÍNH",
+  "orig": "Letters Written in MDCCXXV to Dr. Samuel Clarke",
+  "author": "Atkey",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "ngan",
+  "short": "Những Bức Thư Về Thần Tính"
+ },
+ {
+  "id": "arch-some-thoughts-luan-chung-tien-nghiem",
+  "file": "translations/arch-some-thoughts-luan-chung-tien-nghiem.txt",
+  "title": "SUY NGHĨ VỀ LUẬN TIÊN NGHIỆM",
+  "orig": "Some Thoughts Concerning the Argument A Priori (1748)",
+  "author": "Ẩn danh",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "vua",
+  "short": "Suy Nghĩ Về Luận Tiên Nghiệm"
+ },
+ {
+  "id": "arch-knowles-su-hien-huu-duc-chua-troi",
+  "file": "translations/arch-knowles-su-hien-huu-duc-chua-troi.txt",
+  "title": "SỰ HIỆN HỮU ĐỨC CHÚA TRỜI",
+  "orig": "The Existence and Attributes of God Not Provable A Priori",
+  "author": "Thomas Knowles",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "vua",
+  "short": "Sự Hiện Hữu Đức Chúa Trời"
+ },
+ {
+  "id": "arch-knowles-giao-ly-ve-duc-chua-troi",
+  "file": "translations/arch-knowles-giao-ly-ve-duc-chua-troi.txt",
+  "title": "GIÁO LÝ VỀ ĐỨC CHÚA TRỜI",
+  "orig": "The Scripture Doctrine of the Existence and Attributes of God",
+  "author": "Thomas Knowles",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Giáo Lý Về Đức Chúa Trời"
+ },
+ {
+  "id": "arch-keach-chien-tranh-voi-ma-quy",
+  "file": "translations/arch-keach-chien-tranh-voi-ma-quy.txt",
+  "title": "CHIẾN TRANH VỚI MA QUỶ",
+  "orig": "War with the Devil; or, The Young Man's Conflict",
+  "author": "Benjamin Keach",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Con Cái"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Chiến Tranh Với Ma Quỷ"
+ },
+ {
+  "id": "arch-chalmers-kinh-te-co-doc-nguoi-ngheo",
+  "file": "translations/arch-chalmers-kinh-te-co-doc-nguoi-ngheo.txt",
+  "title": "KINH TẾ CƠ ĐỐC NGƯỜI NGHÈO",
+  "orig": "Christian and Economic Polity of a Nation, Vol. X, Ch. IX-XVI",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Kinh Tế Cơ Đốc Người Nghèo"
+ },
+ {
+  "id": "arch-chalmers-kinh-te-co-doc-lao-dong",
+  "file": "translations/arch-chalmers-kinh-te-co-doc-lao-dong.txt",
+  "title": "KINH TẾ CƠ ĐỐC LAO ĐỘNG",
+  "orig": "Christian and Economic Polity of a Nation, Vol. X, Ch. XVII-XXIV",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Kinh Tế Cơ Đốc Lao Động"
+ },
+ {
+  "id": "arch-chalmers-phu-luc-nguoi-ngheo",
+  "file": "translations/arch-chalmers-phu-luc-nguoi-ngheo.txt",
+  "title": "PHỤ LỤC VỀ NGƯỜI NGHÈO",
+  "orig": "Christian and Economic Polity of a Nation, Vol. X, General Appendix on Pauperism",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Phụ Lục Về Người Nghèo"
+ },
+ {
+  "id": "arch-gardiner-tuong-thuat-zoolu",
+  "file": "translations/arch-gardiner-tuong-thuat-zoolu.txt",
+  "title": "TƯỜNG THUẬT CHUYẾN ĐI ZOOLU",
+  "orig": "Narrative of a Journey to the Zoolu Country",
+  "author": "Allen F. Gardiner",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Lịch Sử Hội Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tường Thuật Chuyến Đi Zoolu"
+ },
+ {
+  "id": "fuller-bien-ho-phuc-am-an-dien",
+  "file": "translations/fuller-bien-ho-phuc-am-an-dien.txt",
+  "title": "BIỆN HỘ PHÚC ÂM ĐÁNG ĐƯỢC ĐÓN NHẬN VÀ ÂN ĐIỂN THIÊNG LIÊNG",
+  "orig": "Defence of 'The Gospel Worthy of All Acceptation' and The Reality and Efficacy of Divine Grace",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Tín Điều",
+   "Ân Điển"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Biện Hộ Phúc Âm Và Ân Điển"
+ },
+ {
+  "id": "fuller-doi-thoai-thu-bien-ho",
+  "file": "translations/fuller-doi-thoai-thu-bien-ho.txt",
+  "title": "CÁC CUỘC ĐỐI THOẠI VÀ LỜI BÀO CHỮA CỦA ANDREW FULLER",
+  "orig": "Dialogues and Letters between Crispus and Gaius; Three Conversations; Six Letters to Dr. Ryland; Remarks on Mr. Martin; Antinomianism Contrasted; An Apology for the Late Christian Missions to India",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Tín Điều",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Đối Thoại, Thư Và Biện Hộ"
+ },
+ {
+  "id": "chalmers-bai-giang-thien-van",
+  "file": "translations/chalmers-bai-giang-thien-van.txt",
+  "title": "CÁC BÀI GIẢNG VỀ SỰ MẠC KHẢI CỦA ĐẠO CHRIST TRONG MỐI LIÊN HỆ VỚI THIÊN VĂN HỌC HIỆN ĐẠI",
+  "orig": "Discourses on the Christian Revelation Viewed in Connection with Modern Astronomy, with Six Sermons on the Death of Princess Charlotte",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Giảng Về Thiên Văn Học"
+ },
+ {
+  "id": "booth-bien-ho-bap-tem-tre-em",
+  "file": "translations/booth-bien-ho-bap-tem-tre-em.txt",
+  "title": "SỰ BÊNH VỰC PHÉP BÁP-TÊM TRẺ EM ĐƯỢC XEM XÉT",
+  "orig": "A Defence of Paedobaptism Examined; or, Animadversions on Dr. Edward Williams's Antipaedobaptism Examined",
+  "author": "Abraham Booth",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Tín Điều"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Biện Hộ Báp-têm Trẻ Em"
+ },
+ {
+  "id": "rowe-moody-nguoi-dem-linh-hon",
+  "file": "translations/rowe-moody-nguoi-dem-linh-hon.txt",
+  "title": "D. L. MOODY — NGƯỜI ĐEM LINH HỒN VỀ CHO CHÚA",
+  "orig": "D. L. Moody: The Soul Winner",
+  "author": "A. T. Rowe",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Moody, Người Đem Linh Hồn"
+ },
+ {
+  "id": "candlish-phuc-am-tha-thu",
+  "file": "translations/candlish-phuc-am-tha-thu.txt",
+  "title": "PHÚC ÂM CỦA SỰ THA THỨ",
+  "orig": "The Gospel of Forgiveness: A Series of Discourses",
+  "author": "Robert S. Candlish",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Sự Cứu Rỗi",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Phúc Âm Của Sự Tha Thứ"
+ },
+ {
+  "id": "chalmers-giang-ro-ma-1",
+  "file": "translations/chalmers-giang-ro-ma-1.txt",
+  "title": "CÁC BÀI GIẢNG VỀ THƯ RÔ-MA — TỪ ĐẦU ĐẾN RÔ-MA 4",
+  "orig": "Lectures on the Epistle of Paul the Apostle to the Romans, Vol. I (Introductory Lecture to Romans 4)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chalmers Giảng Thư Rô-ma I"
+ },
+ {
+  "id": "chalmers-giang-ro-ma-5",
+  "file": "translations/chalmers-giang-ro-ma-5.txt",
+  "title": "CÁC BÀI GIẢNG VỀ THƯ RÔ-MA — RÔ-MA 12 ĐẾN 16",
+  "orig": "Lectures on the Epistle of Paul the Apostle to the Romans, Vol. IV (Romans 12-16)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chalmers Giảng Thư Rô-ma V"
+ },
+ {
+  "id": "winslow-doi-song-trong-chua-giesu-1",
+  "file": "translations/winslow-doi-song-trong-chua-giesu-1.txt",
+  "title": "ĐỜI SỐNG TRONG CHÚA GIÊ-XU: HỒI KÝ VỀ BÀ MARY WINSLOW (PHẦN 1)",
+  "orig": "Life in Jesus: A Memoir of Mrs. Mary Winslow, Part 1 (Chapters I-VIII)",
+  "author": "Octavius Winslow",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự An Ủi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Đời Sống Trong Chúa Giê-xu 1"
+ },
+ {
+  "id": "winslow-doi-song-trong-chua-giesu-2",
+  "file": "translations/winslow-doi-song-trong-chua-giesu-2.txt",
+  "title": "ĐỜI SỐNG TRONG CHÚA GIÊ-XU: HỒI KÝ VỀ BÀ MARY WINSLOW (PHẦN 2)",
+  "orig": "Life in Jesus: A Memoir of Mrs. Mary Winslow, Part 2 (Chapters IX-XIV)",
+  "author": "Octavius Winslow",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự An Ủi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Đời Sống Trong Chúa Giê-xu 2"
+ },
+ {
+  "id": "chalmers-kinh-te-chinh-tri",
+  "file": "translations/chalmers-kinh-te-chinh-tri.txt",
+  "title": "VỀ KINH TẾ CHÍNH TRỊ, LIÊN QUAN ĐẾN TÌNH TRẠNG ĐẠO ĐỨC VÀ TRIỂN VỌNG ĐẠO ĐỨC CỦA XÃ HỘI",
+  "orig": "On Political Economy, in Connexion with the Moral State and Moral Prospects of Society",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Về Kinh Tế Chính Trị"
+ },
+ {
+  "id": "booth-bap-tem-tre-em-duoc-xet-nghiem-3",
+  "file": "translations/booth-bap-tem-tre-em-duoc-xet-nghiem-3.txt",
+  "title": "PHÉP BÁP-TÊM TRẺ EM ĐƯỢC XÉT NGHIỆM — TẬP III",
+  "orig": "Paedobaptism Examined, Vol. III (Chapters IV-VIII and Reply to Mr. Peter Edwards)",
+  "author": "Abraham Booth",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Tín Điều"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Báp-têm Trẻ Em Được Xét Nghiệm"
+ },
+ {
+  "id": "macculloch-bang-chung-thuoc-tinh-chua-1",
+  "file": "translations/macculloch-bang-chung-thuoc-tinh-chua-1.txt",
+  "title": "BẰNG CHỨNG VÀ MINH HỌA VỀ CÁC THUỘC TÍNH CỦA ĐỨC CHÚA TRỜI — QUYỂN III, PHẦN 1",
+  "orig": "Proofs and Illustrations of the Attributes of God, from the Facts and Laws of the Physical Universe, Vol. III, Part 1 (Chapters XL-XLVII)",
+  "author": "John Macculloch",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Bằng Chứng Thuộc Tính Chúa 1"
+ },
+ {
+  "id": "macculloch-bang-chung-thuoc-tinh-chua-2",
+  "file": "translations/macculloch-bang-chung-thuoc-tinh-chua-2.txt",
+  "title": "BẰNG CHỨNG VÀ MINH HỌA VỀ CÁC THUỘC TÍNH CỦA ĐỨC CHÚA TRỜI — QUYỂN III, PHẦN 2",
+  "orig": "Proofs and Illustrations of the Attributes of God, from the Facts and Laws of the Physical Universe, Vol. III, Part 2 (Chapters XLVIII-LVII)",
+  "author": "John Macculloch",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Bằng Chứng Thuộc Tính Chúa 2"
+ },
+ {
+  "id": "rutherford-bai-giang-ky-la",
+  "file": "translations/rutherford-bai-giang-ky-la.txt",
+  "title": "NHỮNG BÀI GIẢNG KỲ LẠ CỦA SAMUEL RUTHERFORD",
+  "orig": "Quaint Sermons of Samuel Rutherford, Hitherto Unpublished",
+  "author": "Samuel Rutherford",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Giảng Kỳ Lạ Rutherford"
+ },
+ {
+  "id": "chalmers-tuyen-tap-thu-tu",
+  "file": "translations/chalmers-tuyen-tap-thu-tu.txt",
+  "title": "TUYỂN TẬP THƯ TỪ CỦA CỐ THOMAS CHALMERS",
+  "orig": "Selections from the Correspondence of the Late Thomas Chalmers",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tuyển Tập Thư Từ Chalmers"
+ },
+ {
+  "id": "chalmers-than-hoc-tu-nhien-1",
+  "file": "translations/chalmers-than-hoc-tu-nhien-1.txt",
+  "title": "THẦN HỌC TỰ NHIÊN — QUYỂN I–II",
+  "orig": "Select Works of Thomas Chalmers, Vol. V: Natural Theology, Books I-II",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Thần Học Tự Nhiên I"
+ },
+ {
+  "id": "chalmers-than-hoc-tu-nhien-2",
+  "file": "translations/chalmers-than-hoc-tu-nhien-2.txt",
+  "title": "THẦN HỌC TỰ NHIÊN — QUYỂN III–IV",
+  "orig": "Select Works of Thomas Chalmers, Vol. V: Natural Theology, Books III-IV",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Thần Học Tự Nhiên II"
+ },
+ {
+  "id": "chalmers-tuyen-tap-tap-1-1",
+  "file": "translations/chalmers-tuyen-tap-tap-1-1.txt",
+  "title": "TUYỂN TẬP TÁC PHẨM CỦA THOMAS CHALMERS, TẬP I: TẠP VĂN — PHẦN 1",
+  "orig": "Select Works of Thomas Chalmers, Vol. I: Miscellaneous Essays, Part 1",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tuyển Tập Chalmers Tập I-1"
+ },
+ {
+  "id": "chalmers-tuyen-tap-tap-1-2",
+  "file": "translations/chalmers-tuyen-tap-tap-1-2.txt",
+  "title": "TUYỂN TẬP TÁC PHẨM CỦA THOMAS CHALMERS, TẬP I: TẠP VĂN — PHẦN 2",
+  "orig": "Select Works of Thomas Chalmers, Vol. I: Miscellaneous Essays, Part 2",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tuyển Tập Chalmers Tập I-2"
+ },
+ {
+  "id": "chalmers-tuyen-tap-tap-2-bai-giang-1",
+  "file": "translations/chalmers-tuyen-tap-tap-2-bai-giang-1.txt",
+  "title": "THOMAS CHALMERS — TUYỂN TẬP, TẬP II: CÁC BÀI GIẢNG — PHẦN 1 (BÀI GIẢNG CHÍNH I–XX)",
+  "orig": "Select Works of Thomas Chalmers, Vol. II: Sermons, Part 1 (Main Sermons I-XX)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tuyển Tập Chalmers Tập II-1"
+ },
+ {
+  "id": "chalmers-tuyen-tap-tap-2-bai-giang-2",
+  "file": "translations/chalmers-tuyen-tap-tap-2-bai-giang-2.txt",
+  "title": "THOMAS CHALMERS — TUYỂN TẬP, TẬP II: CÁC BÀI GIẢNG — PHẦN 2 (BÀI GIẢNG XXI–XL, XLIII–XLIV)",
+  "orig": "Select Works of Thomas Chalmers, Vol. II: Sermons, Part 2 (Main Sermons XXI-XL, XLIII-XLIV)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tuyển Tập Chalmers Tập II-2"
+ },
+ {
+  "id": "chalmers-bai-giang-hau-ky-1",
+  "file": "translations/chalmers-bai-giang-hau-ky-1.txt",
+  "title": "CÁC BÀI GIẢNG CỦA CỐ THOMAS CHALMERS — TẬP VI, PHẦN 1 (BÀI GIẢNG I–XVI)",
+  "orig": "Sermons by the Late Thomas Chalmers, Vol. VI, Part 1 (Sermons I-XVI)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Giảng Hậu Kỳ Chalmers 1"
+ },
+ {
+  "id": "chalmers-bai-giang-hau-ky-2",
+  "file": "translations/chalmers-bai-giang-hau-ky-2.txt",
+  "title": "CÁC BÀI GIẢNG CỦA CỐ THOMAS CHALMERS — TẬP VI, PHẦN 2 (BÀI GIẢNG XVII–XXXIII)",
+  "orig": "Sermons by the Late Thomas Chalmers, Vol. VI, Part 2 (Sermons XVII-XXXIII)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Giảng Hậu Kỳ Chalmers 2"
+ },
+ {
+  "id": "bruce-cuoc-doi-va-phu-luc",
+  "file": "translations/bruce-cuoc-doi-va-phu-luc.txt",
+  "title": "CÁC BÀI GIẢNG VÀ ĐỜI SỐNG CỦA ÔNG ROBERT BRUCE",
+  "orig": "Sermons by the Rev. Robert Bruce, with the Life of Bruce by Robert Wodrow and Appendix, Part 1",
+  "author": "Robert Bruce",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cuộc Đời Robert Bruce"
+ },
+ {
+  "id": "bruce-bai-giang-tiec-thanh-1",
+  "file": "translations/bruce-bai-giang-tiec-thanh-1.txt",
+  "title": "CÁC BÀI GIẢNG VỀ BÍ TÍCH CỦA BRUCE — PHẦN 1 (BÀI GIẢNG I–V)",
+  "orig": "Sermons by the Rev. Robert Bruce: Sermons on the Sacrament, Part 1 (Sermons I-V)",
+  "author": "Robert Bruce",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bruce Giảng Tiệc Thánh 1"
+ },
+ {
+  "id": "bruce-bai-giang-tiec-thanh-2",
+  "file": "translations/bruce-bai-giang-tiec-thanh-2.txt",
+  "title": "CÁC BÀI GIẢNG CỦA BRUCE — PHẦN 2 (BÀI GIẢNG VI–XVII)",
+  "orig": "Sermons by the Rev. Robert Bruce: Sermons on the Sacrament, Part 2 (Sermons VI-XVII)",
+  "author": "Robert Bruce",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bruce Giảng Tiệc Thánh 2"
+ },
+ {
+  "id": "shedd-bai-giang-cho-nguoi-thuoc-linh",
+  "file": "translations/shedd-bai-giang-cho-nguoi-thuoc-linh.txt",
+  "title": "BÀI GIẢNG CHO NGƯỜI THUỘC LINH",
+  "orig": "Sermons to the Spiritual Man",
+  "author": "William G. T. Shedd",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Đức Thánh Linh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Giảng Cho Người Thuộc Linh"
+ },
+ {
+  "id": "guerrant-nguoi-duoc-linh-hon",
+  "file": "translations/guerrant-nguoi-duoc-linh-hon.txt",
+  "title": "NGƯỜI ĐƯỢC LINH HỒN",
+  "orig": "The Soul Winner",
+  "author": "Edward O. Guerrant",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Phúc Âm",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Người Được Linh Hồn"
+ },
+ {
+  "id": "romaine-dac-thang-cua-duc-tin",
+  "file": "translations/romaine-dac-thang-cua-duc-tin.txt",
+  "title": "SỰ ĐẮC THẮNG CỦA ĐỨC TIN",
+  "orig": "The Triumph of Faith (from Treatises upon the Life, Walk and Triumph of Faith)",
+  "author": "William Romaine",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Sự Đắc Thắng Của Đức Tin"
+ },
+ {
+  "id": "owen-hai-muoi-lam-bai-giang-tiec-thanh",
+  "file": "translations/owen-hai-muoi-lam-bai-giang-tiec-thanh.txt",
+  "title": "HAI MƯƠI LĂM BÀI GIẢNG THÍCH HỢP CHO TIỆC THÁNH CỦA CHÚA",
+  "orig": "Twenty-Five Discourses Suitable to the Lord's Supper",
+  "author": "John Owen",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Hai Mươi Lăm Bài Giảng Tiệc Thánh"
+ },
+ {
+  "id": "tennent-hai-muoi-ba-bai-giang",
+  "file": "translations/tennent-hai-muoi-ba-bai-giang.txt",
+  "title": "HAI MƯƠI BA BÀI GIẢNG CỦA GILBERT TENNENT",
+  "orig": "Twenty-Three Sermons by Gilbert Tennent",
+  "author": "Gilbert Tennent",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Hai Mươi Ba Bài Giảng Tennent"
+ },
+ {
+  "id": "berridge-thu-tu",
+  "file": "translations/berridge-thu-tu.txt",
+  "title": "THƯ TỪ CỦA MỤC SƯ JOHN BERRIDGE",
+  "orig": "Works of the Rev. John Berridge: Letters",
+  "author": "John Berridge",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Thư Từ Của Berridge"
+ },
+ {
+  "id": "berridge-bai-ca-sion",
+  "file": "translations/berridge-bai-ca-sion.txt",
+  "title": "BÀI CA CỦA SI-ÔN",
+  "orig": "Works of the Rev. John Berridge: Songs of Zion",
+  "author": "John Berridge",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Ca Của Si-ôn"
+ },
+ {
+  "id": "fuller-tac-pham-tap-8-1",
+  "file": "translations/fuller-tac-pham-tap-8-1.txt",
+  "title": "TÁC PHẨM CỦA MỤC SƯ ANDREW FULLER, TẬP VIII — NHÓM I–III",
+  "orig": "Works of the Rev. Andrew Fuller, Vol. VIII: Miscellaneous Pieces, Groups I-III",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tác Phẩm Fuller Tập VIII-1"
+ },
+ {
+  "id": "fuller-tac-pham-tap-8-2",
+  "file": "translations/fuller-tac-pham-tap-8-2.txt",
+  "title": "TÁC PHẨM CỦA MỤC SƯ ANDREW FULLER, TẬP VIII — NHÓM IV–VII",
+  "orig": "Works of the Rev. Andrew Fuller, Vol. VIII: Miscellaneous Pieces, Groups IV-VII",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tác Phẩm Fuller Tập VIII-2"
+ },
+ {
+  "id": "gill-watchmans-answer",
+  "file": "translations/gill-watchmans-answer.txt",
+  "title": "SỰ ÁP DỤNG THỰC TIỄN CÂU TRẢ LỜI CỦA NGƯỜI CANH GIỮ",
+  "orig": "The Practical Improvement of the Watchman's Answer",
+  "author": "John Gill",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Lời Người Canh Giữ"
+ },
+ {
+  "id": "whitefield-sermons-various-subjects-vol2",
+  "file": "translations/whitefield-sermons-various-subjects-vol2.txt",
+  "title": "CÁC BÀI GIẢNG VỀ NHIỀU CHỦ ĐỀ KHÁC NHAU — TẬP II",
+  "orig": "Sermons on Various Subjects, Vol. II",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Bài Giảng Về Nhiều Chủ Đề"
+ },
+ {
+  "id": "fuller-strictures-sandemanianism",
+  "file": "translations/fuller-strictures-sandemanianism.txt",
+  "title": "NHỮNG LỜI PHÊ BÌNH VỀ CHỦ NGHĨA SANDEMAN, TRONG MƯỜI HAI BỨC THƯ GỬI MỘT NGƯỜI BẠN",
+  "orig": "Strictures on Sandemanianism: In Twelve Letters to a Friend",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Tín Điều",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Phê Bình Chủ Nghĩa Sandeman"
+ },
+ {
+  "id": "bunyan-book-boys-girls",
+  "file": "translations/bunyan-book-boys-girls.txt",
+  "title": "MỘT CUỐN SÁCH CHO CÁC CẬU BÉ VÀ CÔ BÉ",
+  "orig": "A Book for Boys and Girls, Or, Country Rhymes for Children",
+  "author": "John Bunyan",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Con Cái",
+   "Đức Tin"
+  ],
+  "level": 1,
+  "length": "vua",
+  "short": "Cuốn Sách Cho Trẻ Em"
+ },
+ {
+  "id": "etherington-being-attributes-god",
+  "file": "translations/etherington-being-attributes-god.txt",
+  "title": "SỰ HIỆN HỮU VÀ CÁC THUỘC TÍNH CỦA ĐỨC CHÚA TRỜI",
+  "orig": "The Being and Attributes of God, Deduced from the Works of Creation",
+  "author": "Thomas Etherington",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Hiện Hữu Và Thuộc Tính Chúa"
+ },
+ {
+  "id": "fuller-practical-uses-baptism",
+  "file": "translations/fuller-practical-uses-baptism.txt",
+  "title": "NHỮNG CÔNG DỤNG THỰC TIỄN CỦA PHÉP BÁP-TÊM CỦA CƠ ĐỐC NHÂN",
+  "orig": "The Practical Uses of Christian Baptism",
+  "author": "Andrew Fuller",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "ngan",
+  "short": "Công Dụng Thực Tiễn Của Báp-têm"
+ },
+ {
+  "id": "hervey-beauties",
+  "file": "translations/hervey-beauties.txt",
+  "title": "NHỮNG NÉT ĐẸP CỦA HERVEY",
+  "orig": "The Beauties of Hervey",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự An Ủi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Nét Đẹp Của Hervey"
+ },
+ {
+  "id": "vincent-fire-brimstone",
+  "file": "translations/vincent-fire-brimstone.txt",
+  "title": "LỬA VÀ DIÊM SINH TỪ TRỜI, TỪ ĐẤT",
+  "orig": "Fire and Brimstone from Heaven, from Earth",
+  "author": "Thomas Vincent",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Sự Cứu Rỗi",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Lửa Và Diêm Sinh Từ Trời"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p1-u1",
+  "file": "translations/ai4-baxter-christian-directory-p1-u1.txt",
+  "title": "CẨM NANG CƠ ĐỐC: MỞ ĐẦU",
+  "orig": "A Christian Directory (1673), Part I: Front Matter, Chapters I–II",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Mở Đầu"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p1-u2",
+  "file": "translations/ai4-baxter-christian-directory-p1-u2.txt",
+  "title": "CẨM NANG CƠ ĐỐC: CHƯƠNG III",
+  "orig": "A Christian Directory (1673), Part I, Chapter III",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Chương III"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p1-u3",
+  "file": "translations/ai4-baxter-christian-directory-p1-u3.txt",
+  "title": "CẨM NANG CƠ ĐỐC: CHƯƠNG IV",
+  "orig": "A Christian Directory (1673), Part I, Chapter IV",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Chương IV"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p1-u4",
+  "file": "translations/ai4-baxter-christian-directory-p1-u4.txt",
+  "title": "CẨM NANG CƠ ĐỐC: CHƯƠNG V–VII",
+  "orig": "A Christian Directory (1673), Part I, Chapters V–VII",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Chương V–VII"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p1-u5",
+  "file": "translations/ai4-baxter-christian-directory-p1-u5.txt",
+  "title": "CẨM NANG CƠ ĐỐC: CHƯƠNG VIII–X",
+  "orig": "A Christian Directory (1673), Part I, Chapters VIII–X",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Chương VIII–X"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p3-u1",
+  "file": "translations/ai4-baxter-christian-directory-p3-u1.txt",
+  "title": "CẨM NANG CƠ ĐỐC: GIÁO HỘI I",
+  "orig": "A Christian Directory (1673), Part III, Chapters I–X",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Giáo Hội I"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p3-u2",
+  "file": "translations/ai4-baxter-christian-directory-p3-u2.txt",
+  "title": "CẨM NANG CƠ ĐỐC: GIÁO HỘI II",
+  "orig": "A Christian Directory (1673), Part III, Chapter XI",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Giáo Hội II"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p4-u1",
+  "file": "translations/ai4-baxter-christian-directory-p4-u1.txt",
+  "title": "CẨM NANG CƠ ĐỐC: CHÍNH TRỊ I",
+  "orig": "A Christian Directory (1673), Part IV, Chapters I–XVIII",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Chính Trị I"
+ },
+ {
+  "id": "ai4-baxter-christian-directory-p4-u2",
+  "file": "translations/ai4-baxter-christian-directory-p4-u2.txt",
+  "title": "CẨM NANG CƠ ĐỐC: CHÍNH TRỊ II",
+  "orig": "A Christian Directory (1673), Part IV, Chapters XIX–XXXIV",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Cẩm Nang Cơ Đốc: Chính Trị II"
+ },
+ {
+  "id": "shepard-theses-sabbaticae",
+  "file": "translations/shepard-theses-sabbaticae.txt",
+  "title": "CÁC LUẬN ĐỀ VỀ NGÀY SA-BÁT, GIÁO LÝ VỀ NGÀY SA-BÁT",
+  "orig": "Theses Sabbaticae (Works, Vol. III)",
+  "author": "Thomas Shepard",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Ngày Sa-bát",
+   "Luật Pháp"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Các Luận Đề Về Ngày Sa-bát"
+ },
+ {
+  "id": "shepard-works-vol-iii-2",
+  "file": "translations/shepard-works-vol-iii-2.txt",
+  "title": "SỰ PHỤC TÙNG ĐẤNG CHRIST, TRONG MỌI LỄ NGHI VÀ SỰ BỔ NHIỆM CỦA NGÀI, LÀ PHƯƠNG CÁCH TỐT NHẤT ĐỂ BẢO TOÀN SỰ TỰ DO CỦA CHÚNG TA",
+  "orig": "Works, Vol. III: Subjection to Christ; Ineffectual Hearing the Word; Meditations and Spiritual Experiences; The Clear Sunshine of the Gospel upon the Indians; The Church Membership of Children",
+  "author": "Thomas Shepard",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Phục Tùng Đấng Christ"
+ },
+ {
+  "id": "whitefield-works-vol4",
+  "file": "translations/whitefield-works-vol4.txt",
+  "title": "TUYỂN TẬP CÁC TÁC PHẨM CỦA GEORGE WHITEFIELD — QUYỂN BỐN",
+  "orig": "The Works of the Reverend George Whitefield, Vol. 4",
+  "author": "George Whitefield",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giảng Đạo",
+   "Biện Giáo",
+   "Đời Sống Cơ Đốc"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tác Phẩm Whitefield Tập IV"
+ },
+ {
+  "id": "arch-clarke-chung-minh-duc-chua-troi",
+  "file": "translations/arch-clarke-chung-minh-duc-chua-troi.txt",
+  "title": "Chứng Minh Về Sự Hiện Hữu Và Các Thuộc Tính Của Đức Chúa Trời",
+  "orig": "A Demonstration of the Being and Attributes of God; A Discourse Concerning the Being and Attributes of God (Boyle Lectures, 1704-1705)",
+  "author": "Samuel Clarke",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Chứng Minh Đức Chúa Trời"
+ },
+ {
+  "id": "arch-burton-hoi-dap-thuoc-tinh-1",
+  "file": "translations/arch-burton-hoi-dap-thuoc-tinh-1.txt",
+  "title": "Những Câu Hỏi Và Trả Lời Về Các Thuộc Tính Của Đức Chúa Trời",
+  "orig": "Certaine Questions and Answeres concerning the Attributes of God (1602), Unit 1",
+  "author": "William Burton",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Hỏi Đáp Thuộc Tính Chúa I"
+ },
+ {
+  "id": "arch-burton-hoi-dap-thuoc-tinh-2",
+  "file": "translations/arch-burton-hoi-dap-thuoc-tinh-2.txt",
+  "title": "Những Câu Hỏi Và Trả Lời Về Các Thuộc Tính Của Đức Chúa Trời (Đơn Vị 2)",
+  "orig": "Certaine Questions and Answeres concerning the Attributes of God (1602), Unit 2 (God Wooing of His Church; David's Evidence)",
+  "author": "William Burton",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Hỏi Đáp Thuộc Tính Chúa II"
+ },
+ {
+  "id": "arch-burton-hoi-dap-thuoc-tinh-3",
+  "file": "translations/arch-burton-hoi-dap-thuoc-tinh-3.txt",
+  "title": "Những Câu Hỏi Và Trả Lời Về Các Thuộc Tính Của Đức Chúa Trời (Đơn Vị 3: Kết Luận Hòa Bình)",
+  "orig": "Certaine Questions and Answeres concerning the Attributes of God (1602), Unit 3 (Conclusions of Peace; Caueat for Suerties; Rousing of the Sluggard)",
+  "author": "William Burton",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Hỏi Đáp Thuộc Tính Chúa III"
+ },
+ {
+  "id": "arch-calvin-bon-bai-giang-dao-duc",
+  "file": "translations/arch-calvin-bon-bai-giang-dao-duc.txt",
+  "title": "Bốn Bài Giảng Đạo Đức Chống Lại Sự Ô Uế Của Việc Thờ Hình Tượng",
+  "orig": "Foure Godlye Sermons against the Pollution of Idolatry (John Calvin, 1561)",
+  "author": "John Calvin",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Chịu Khổ"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Bốn Bài Giảng Đạo Đức"
+ },
+ {
+  "id": "arch-vincent-cong-viec-tot-lanh",
+  "file": "translations/arch-vincent-cong-viec-tot-lanh.txt",
+  "title": "Công Việc Tốt Lành Đã Bắt Đầu Trong Ngày Ân Điển",
+  "orig": "The Good Work Begun in the Day of Grace, Carried On to the Day of Christ (Thomas Vincent)",
+  "author": "Thomas Vincent",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Nên Thánh"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Việc Tốt Lành Đã Bắt Đầu"
+ },
+ {
+  "id": "arch-stackhouse-than-hoc-toan-tap-4",
+  "file": "translations/arch-stackhouse-than-hoc-toan-tap-4.txt",
+  "title": "Toàn Bộ Thần Học Suy Đoán Và Thực Hành — Phần IV: Những Mầu Nhiệm Của Đức Tin",
+  "orig": "A Complete Body of Speculative and Practical Divinity, Vol. III, Part IV (Thomas Stackhouse, 1776)",
+  "author": "Thomas Stackhouse",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Thần Học Toàn Tập Phần IV"
+ },
+ {
+  "id": "arch-stackhouse-than-hoc-toan-tap-5",
+  "file": "translations/arch-stackhouse-than-hoc-toan-tap-5.txt",
+  "title": "Toàn Bộ Thần Học Suy Đoán Và Thực Hành — Phần V: Bổn Phận Đối Với Đức Chúa Trời",
+  "orig": "A Complete Body of Speculative and Practical Divinity, Vol. III, Part V (Thomas Stackhouse, 1776)",
+  "author": "Thomas Stackhouse",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Thần Học Toàn Tập Phần V"
+ },
+ {
+  "id": "arch-whitby-bai-giang-thuoc-tinh-2",
+  "file": "translations/arch-whitby-bai-giang-thuoc-tinh-2.txt",
+  "title": "Mười Sáu Bài Giảng Về Các Thuộc Tính Của Đức Chúa Trời — Quyển II",
+  "orig": "Sixteen Sermons on the Attributes of God, Vol. II (Daniel Whitby)",
+  "author": "Daniel Whitby",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Giảng Về Thuộc Tính Chúa"
+ },
+ {
+  "id": "arch-knox-sach-trat-tu-chung",
+  "file": "translations/arch-knox-sach-trat-tu-chung.txt",
+  "title": "Sách Về Trật Tự Chung (Phụng Vụ Của John Knox)",
+  "orig": "The Book of Common Order (The Liturgy of John Knox, 1560; 1873 M'Lauchlan edition)",
+  "author": "John Knox",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Sách Trật Tự Chung Knox"
+ },
+ {
+  "id": "arch-chalmers-kinh-te-co-doc-thanh-pho",
+  "file": "translations/arch-chalmers-kinh-te-co-doc-thanh-pho.txt",
+  "title": "Chính Trị Cơ Đốc Và Kinh Tế Của Một Quốc Gia — Chương I–VIII",
+  "orig": "Christian and Economic Polity of a Nation, Vol. X, Ch. I-VIII (Thomas Chalmers)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Kinh Tế Cơ Đốc Thành Phố"
+ },
+ {
+  "id": "arch-jowett-nghien-cuu-syria-palestine",
+  "file": "translations/arch-jowett-nghien-cuu-syria-palestine.txt",
+  "title": "Nghiên Cứu Cơ Đốc Tại Syria Và Palestine",
+  "orig": "Christian Researches in Syria and the Holy Land (William Jowett; Christian Library Vol. VII, Unit C4, 1836)",
+  "author": "William Jowett",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Lịch Sử Hội Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Nghiên Cứu Cơ Đốc Syria"
+ },
+ {
+  "id": "arch-wilson-du-hanh-chau-au",
+  "file": "translations/arch-wilson-du-hanh-chau-au.txt",
+  "title": "Du Hành Trên Lục Địa Châu Âu",
+  "orig": "Travels on the Continent of Europe (Daniel Wilson; Christian Library Vol. VII, Unit C2, 1836)",
+  "author": "Daniel Wilson",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Lịch Sử Hội Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Du Hành Lục Địa Châu Âu"
+ },
+ {
+  "id": "chalmers-giang-ro-ma-4",
+  "file": "translations/chalmers-giang-ro-ma-4.txt",
+  "title": "Các Bài Giảng Về Thư Rô-ma — Rô-ma 9 Đến 11",
+  "orig": "Lectures on the Epistle of Paul the Apostle to the Romans, Vol. III (Romans 9-11, Lectures LXVIII-LXXXVII)",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chalmers Giảng Thư Rô-ma IV"
+ },
+ {
+  "id": "chalmers-than-hoc-tu-nhien-3",
+  "file": "translations/chalmers-than-hoc-tu-nhien-3.txt",
+  "title": "Thần Học Tự Nhiên — Quyển V Và Tương Tự Luận Butler",
+  "orig": "Select Works of Thomas Chalmers, Vol. V: Natural Theology, Book V + Butler's Analogy Lectures + Introductory Lectures I-II",
+  "author": "Thomas Chalmers",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 3,
+  "length": "dai",
+  "short": "Thần Học Tự Nhiên III"
+ },
+ {
+  "id": "hervey-works-vol5-letters",
+  "file": "translations/hervey-works-vol5-letters.txt",
+  "title": "CÁC TÁC PHẨM CỦA JAMES HERVEY, TẬP V: CÁC BỨC THƯ",
+  "orig": "The Works of James Hervey, Vol. V: Letters",
+  "author": "James Hervey",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự An Ủi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Các Bức Thư Của Hervey"
+ },
+ {
+  "id": "steere-essay-existence-attributes-god",
+  "file": "translations/steere-essay-existence-attributes-god.txt",
+  "title": "MỘT TIỂU LUẬN VỀ SỰ HIỆN HỮU VÀ CÁC THUỘC TÍNH CỦA ĐỨC CHÚA TRỜI",
+  "orig": "An Essay on the Existence and Attributes of God",
+  "author": "Edward Steere",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tiểu Luận Về Đức Chúa Trời"
+ },
+ {
+  "id": "derham-physico-theology",
+  "file": "translations/derham-physico-theology.txt",
+  "title": "THẦN HỌC TỰ NHIÊN, TỨC LÀ SỰ CHỨNG MINH VỀ SỰ HIỆN HỮU VÀ CÁC THUỘC TÍNH CỦA ĐỨC CHÚA TRỜI, TỪ CÁC CÔNG VIỆC SÁNG TẠO CỦA NGÀI",
+  "orig": "Physico-Theology: Or, A Demonstration of the Being and Attributes of God, from His Works of Creation",
+  "author": "William Derham",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Kinh Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Thần Học Tự Nhiên"
+ },
+ {
+  "id": "wilson-attributes-of-god",
+  "file": "translations/wilson-attributes-of-god.txt",
+  "title": "CÁC THUỘC TÍNH CỦA ĐỨC CHÚA TRỜI, NHƯ NGƯỜI CƠ ĐỐC CÓ THỂ SUY NGẪM ĐỂ ĐƯỢC GÂY DỰNG, BÌNH AN, VÀ AN ỦI",
+  "orig": "The Attributes of God, as Contemplated by the Christian for Edification, Peace, and Comfort: Selected from Charnock, Goodwin, Bates, and Wisheart",
+  "author": "W. Wilson",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Chúa Trời",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Các Thuộc Tính Của Chúa"
+ },
+ {
+  "id": "law-three-letters-bishop-bangor",
+  "file": "translations/law-three-letters-bishop-bangor.txt",
+  "title": "BA THƯ GỬI GIÁM MỤC BANGOR",
+  "orig": "Three Letters to the Bishop of Bangor",
+  "author": "William Law",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Hội Thánh",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Ba Thư Gửi Giám Mục Bangor"
+ },
+ {
+  "id": "law-answer-dr-trapp",
+  "file": "translations/law-answer-dr-trapp.txt",
+  "title": "MỘT LỜI ĐÁP TRẢ NGHIÊM TÚC VÀ CHÂN THÀNH ĐỐI VỚI BÀI GIẢNG CỦA TIẾN SĨ TRAPP VỀ SỰ DẠI DỘT, TỘI LỖI VÀ NGUY HIỂM CỦA VIỆC CÔNG CHÍNH QUÁ MỨC",
+  "orig": "A Serious and Earnest Answer to Dr. Trapp's Sermon on the Folly, Sin, and Danger of Being Righteous Overmuch",
+  "author": "William Law",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Lời Đáp Trả Tiến Sĩ Trapp"
+ },
+ {
+  "id": "calvin-divers-sermons-1581",
+  "file": "translations/calvin-divers-sermons-1581.txt",
+  "title": "CÁC BÀI GIẢNG KHÁC NHAU CỦA THẦY GIĂNG CALVIN — VỀ SỰ THƯƠNG KHÓ, SỰ CHẾT, VÀ BÀI GIẢNG CỦA THÁNH PHI-E-RƠ",
+  "orig": "Divers Sermons of Maister John Calvin",
+  "author": "John Calvin",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bài Giảng Khác Nhau Của Calvin"
+ },
+ {
+  "id": "calvin-22-sermons-psalm-119",
+  "file": "translations/calvin-22-sermons-psalm-119.txt",
+  "title": "HAI MƯƠI HAI BÀI GIẢNG CỦA THẦY JOHN CALVIN VỀ THI THIÊN 119",
+  "orig": "Two and Twenty Sermons of Maister John Calvin, upon the 119th Psalm of David",
+  "author": "John Calvin",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Hai Mươi Hai Bài Giảng"
+ },
+ {
+  "id": "spurgeon-12-sermons-plan-salvation",
+  "file": "translations/spurgeon-12-sermons-plan-salvation.txt",
+  "title": "MƯỜI HAI BÀI GIẢNG VỀ KẾ HOẠCH CỨU RỖI",
+  "orig": "Twelve Sermons on the Plan of Salvation",
+  "author": "C. H. Spurgeon",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Sự Cứu Rỗi",
+   "Phúc Âm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Mười Hai Bài Giảng Cứu Rỗi"
+ },
+ {
+  "id": "baxter-certainty-world-spirits",
+  "file": "translations/baxter-certainty-world-spirits.txt",
+  "title": "SỰ CHẮC CHẮN VỀ THẾ GIỚI CÁC LINH",
+  "orig": "The Certainty of the World of Spirits",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Thế Giới Các Linh"
+ },
+ {
+  "id": "baxter-poetical-fragments",
+  "file": "translations/baxter-poetical-fragments.txt",
+  "title": "NHỮNG MẢNH THƠ CỦA RICHARD BAXTER",
+  "orig": "Poetical Fragments",
+  "author": "Richard Baxter",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự An Ủi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Những Mảnh Thơ Của Baxter"
  }
 ]
