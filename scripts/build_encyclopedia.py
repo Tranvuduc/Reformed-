@@ -130,6 +130,19 @@ if _extra_path.exists():
         entries.append(_x)
     print(f"extra entries appended: {len(_extras)}")
 
+# ---- locked-term decision 2026-11-07 (owner): Kingdom of God =
+# "Vương quốc Đức Chúa Trời" in the site's own voice. The app glossary
+# term and helper expansions say "Nước Đức Chúa Trời" (the 1934 form);
+# rename the term in own-voice fields only. The slug stays
+# nuoc-duc-chua-troi so existing links and sitemap entries do not
+# break, and 1934 verse quotations keep "nước Đức Chúa Trời" verbatim.
+for _e in entries:
+    if _e["term_vi"] == "Nước Đức Chúa Trời":
+        _e["term_vi"] = "Vương quốc Đức Chúa Trời"
+    _e["body_vi"] = [p.replace("Nước Đức Chúa Trời", "Vương quốc Đức Chúa Trời") for p in _e["body_vi"]]
+    _e["misunderstandings_vi"] = [p.replace("Nước Đức Chúa Trời", "Vương quốc Đức Chúa Trời") for p in _e["misunderstandings_vi"]]
+print("locked-term fix applied: Nước -> Vương quốc Đức Chúa Trời (own voice)")
+
 by_slug = {e["slug"]: e for e in entries}
 for e in entries:
     if e["related_terms"]: continue
