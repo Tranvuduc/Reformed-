@@ -369,7 +369,7 @@ sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
 try:
     _prev = open("sitemap.xml", encoding="utf-8").read()
     _own = {f"{SITE}/{u}" for u in urls}
-    _hub = ("/kinh-thanh/", "/giao-ly/", "/bach-khoa/", "/suy-ngam/", "/hoc-vien/", "/hoi-dap/", "/hub.html")
+    _hub = ("/kinh-thanh/", "/giao-ly/", "/bach-khoa/", "/suy-ngam/", "/hoc-vien/", "/hoi-dap/", "/bai-giang/", "/thanh-ca/", "/tap-chi/", "/danh-ba/", "/tim-kiem/", "/hub.html")
     _keep = []
     for _e in re.findall(r"<url>.*?</url>", _prev):
         _m = re.search(r"<loc>([^<]+)</loc>", _e)

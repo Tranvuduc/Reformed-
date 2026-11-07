@@ -119,6 +119,17 @@ if missing:
     print("UNRESOLVED:", missing); sys.exit(1)
 print(f"verse texts resolved: {sum(len(e['scripture_refs']) for e in entries)} refs across 200 entries")
 
+# ---- integrator extra entries (terms missing from the app glossary, e.g.
+# justification — added 2026-11-07; full entries in the output schema with
+# scripture texts pre-resolved verbatim from the 1934 Bible) ----
+_extra_path = ROOT / "scripts/helper-data/encyclopedia-extra.json"
+if _extra_path.exists():
+    _extras = json.loads(_extra_path.read_text(encoding="utf-8"))
+    for _x in _extras:
+        _x["related_books_resolved"] = resolve_books(_x["related_books"])
+        entries.append(_x)
+    print(f"extra entries appended: {len(_extras)}")
+
 by_slug = {e["slug"]: e for e in entries}
 for e in entries:
     if e["related_terms"]: continue
