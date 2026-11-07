@@ -35,6 +35,8 @@ function G(q){return"https://www.gutenberg.org/ebooks/search/?query="+encodeURIC
 function L(q){return"https://librivox.org/search?primary_key=0&search_category=title&search_page=1&search_form=get_results&q="+encodeURIComponent(q)}
 function A(q){return"https://archive.org/search?query="+encodeURIComponent(q)+"&and[]=mediatype%3A%22texts%22"}
 function hue(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))%360;return h}
+function pal(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))%6;return "cv"+h}
+var MOTIF='<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M12 3v18M6 9h12"/></svg>';
 function spurgeonYear(n){return n===8||n===9?1863:1854+n}
 function typeOf(title,key,over){
   if(over&&over[key])return over[key];
@@ -194,7 +196,7 @@ function lic(b){
 }
 function card(b){
   var lg=st.lang,d=b[lg]||b.en,y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
-  return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine" style="background-color:'+b.col+'"><b>'+tx("ty_"+b.ty)+y+'</b><i>'+esc(d.t)+'</i></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+quietLine(b)+'</div></article>';
+  return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine '+pal(d.t)+'"><span class="motif">'+MOTIF+'</span><i>'+esc(d.t)+'</i><span class="ca">'+esc(b.a)+'</span><span class="ci">Thư Viện Cải Chánh</span></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+quietLine(b)+'</div></article>';
 }
 function rdr(b){var m=/^\/(?:doc|ban-dich)\/([a-z0-9_-]+)\.html$/i.exec(b.url||"");return m?"reader.html?id=vn/"+m[1]+"&pid="+encodeURIComponent(b.id):""}
 function sheetActs(b){

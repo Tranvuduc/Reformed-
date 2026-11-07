@@ -52,9 +52,10 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
   .count{width:100%;margin:0}
   .body{padding:10px}
   .hero{padding-top:12px}
-  .spine{aspect-ratio:3/2;padding:10px 12px}
-  .spine b{font-size:.58rem}
-  .spine i{font-size:.95rem;-webkit-line-clamp:3}
+  .spine{padding:12px 10px}
+  .spine i{font-size:.92rem;-webkit-line-clamp:4}
+  .spine .ca{font-size:.5rem}
+  .spine .ci{font-size:.42rem}
   .book .src{display:none}
   .desc{-webkit-line-clamp:3;font-size:.8rem}
   .foot2 select{display:none}
@@ -72,9 +73,9 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
 }
 #view{padding:5px 10px}
 .grid.list{grid-template-columns:1fr!important;gap:8px}
-.grid.list .spine{aspect-ratio:auto;width:104px;flex:none;padding:8px 10px}
+.grid.list .spine{aspect-ratio:auto;width:104px;flex:none;padding:8px 10px;justify-content:center}
 .grid.list .spine i{font-size:.8rem;-webkit-line-clamp:5}
-.grid.list .spine b{font-size:.55rem}
+.grid.list .spine .motif,.grid.list .spine .ca,.grid.list .spine .ci{display:none}
 .grid.list .body{padding:8px 10px;gap:2px}
 .grid.list .desc{-webkit-line-clamp:2}
 .grid.list .src,.grid.list .foot2 select{display:none}
@@ -202,20 +203,16 @@ body:not(.home) #bw{display:none}
 .welc a{color:var(--accent);font-weight:600}
 .welc button{position:absolute;top:6px;right:10px;border:0;background:none;font-size:1rem;cursor:pointer;opacity:.6}
 /* rendering perf: skip offscreen cards */
-.grid .book{content-visibility:auto;contain-intrinsic-size:120px}
+.grid .book{content-visibility:auto;contain-intrinsic-size:380px}
 /* reader loading skeleton */
 .rdskel{padding:24px;display:grid;gap:12px}
 .rdskel i{display:block;height:14px;border-radius:7px;background:linear-gradient(90deg,var(--soft) 25%,var(--line) 50%,var(--soft) 75%);background-size:200% 100%;animation:sk 1.2s infinite}
 @keyframes sk{to{background-position:-200% 0}}
 /* ===== Visual upgrade 2026-10-08: book covers (appended only; hero images removed per user) ===== */
-/* Book covers: layered sheen + paper texture + shade over the inline
-   background color, double-rule frame, spine strip, faint cross watermark */
-.spine::before{content:"\271D";position:absolute;right:8px;top:-8px;font-family:Georgia,'Times New Roman',serif;font-size:76px;line-height:1;color:rgba(255,255,255,.10);pointer-events:none}
-.spine::after{content:"";position:absolute;left:0;top:0;bottom:0;background:linear-gradient(90deg,rgba(0,0,0,.38),rgba(255,255,255,.14) 55%,rgba(0,0,0,.30));width:10px}
-.grid.list .spine::before{display:none}
-@media(max-width:600px){
-  .spine::before{font-size:54px;right:4px}
-}
+/* Book covers: homepage cover type (2026-11-08) — palette gradient
+   (.cv0–.cv5 classes in the main .spine block below), gold inset frame, 5px spine shade */
+.spine::before{content:"";position:absolute;inset:6px;border:1px solid rgba(220,182,106,.85);outline:1px solid rgba(220,182,106,.45);outline-offset:3px;pointer-events:none}
+.spine::after{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:rgba(0,0,0,.28)}
 /* ===== Design polish pass 2026-10-08: typography, rhythm, micro-interactions (CSS only, no images) ===== */
 /* 1. Typography: hero + headings rhythm */
 .hero{display:grid;max-width:760px;position:relative;isolation:isolate;padding:44px 0 28px;gap:18px}
@@ -262,9 +259,17 @@ body:not(.home) #bw{display:none}
 }
 /* 4. Book cards: refined spine/cover depth */
 .book{background:var(--surface);border:1px solid var(--line);display:flex;flex-direction:column;min-width:0;overflow:hidden;cursor:pointer;border-radius:14px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
-.spine{aspect-ratio:4/3;display:flex;flex-direction:column;justify-content:space-between;color:#fff;position:relative;overflow:hidden;background-image:linear-gradient(165deg,rgba(255,255,255,.20),rgba(255,255,255,0) 42%),repeating-linear-gradient(45deg,rgba(255,255,255,.028) 0 2px,rgba(0,0,0,.028) 2px 4px),linear-gradient(200deg,rgba(0,0,0,.45),rgba(0,0,0,.10) 60%,rgba(255,255,255,.06));box-shadow:inset 0 0 0 1px rgba(255,255,255,.30),inset 0 0 0 4px rgba(0,0,0,.10),inset 0 0 0 5px rgba(255,255,255,.13),inset 12px 0 20px -10px rgba(0,0,0,.6);padding:16px 18px}
-.spine b{font-weight:600;text-transform:uppercase;padding-left:6px;opacity:.92;text-shadow:0 1px 2px rgba(0,0,0,.45);letter-spacing:.1em;font-size:.66rem}
-.spine i{font-family:var(--display);font-style:normal;font-weight:600;padding-left:6px;overflow:hidden;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;text-wrap:balance;text-shadow:0 1px 3px rgba(0,0,0,.5),0 0 24px rgba(0,0,0,.28);font-size:1.28rem;line-height:1.18;letter-spacing:-.01em}
+.spine{aspect-ratio:2/3;display:flex;flex-direction:column;align-items:center;text-align:center;justify-content:flex-start;color:#f5ecd9;position:relative;overflow:hidden;background:linear-gradient(160deg,#7c2128,#4d1218);padding:16px 12px 14px}
+.spine.cv0{background:linear-gradient(160deg,#7c2128,#4d1218)}
+.spine.cv1{background:linear-gradient(160deg,#6e4525,#422812)}
+.spine.cv2{background:linear-gradient(160deg,#33523a,#1d3323)}
+.spine.cv3{background:linear-gradient(160deg,#27435f,#16283c)}
+.spine.cv4{background:linear-gradient(160deg,#59304a,#37203a)}
+.spine.cv5{background:linear-gradient(160deg,#20555a,#123539)}
+.spine .motif{color:#dcb66a;line-height:0;margin-top:2px}
+.spine i{font-family:'Noto Serif',serif;font-style:normal;font-weight:700;overflow:hidden;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;text-wrap:balance;font-size:1.05rem;line-height:1.3;margin-top:10px}
+.spine .ca{font-size:.55rem;letter-spacing:.18em;text-transform:uppercase;color:#e8d9b8;margin-top:auto}
+.spine .ci{font-size:.45rem;letter-spacing:.22em;color:rgba(245,236,217,.75);margin-top:5px}
 .book .body{padding:14px 15px 14px;gap:5px;border-top:1px solid var(--line)}
 .grid.list .book .body{border-top:0}
 @media(prefers-reduced-motion:no-preference){
@@ -311,8 +316,8 @@ dialog{background:var(--surface);color:var(--fg);border:1px solid var(--line);bo
   .jr .tile{padding:12px 14px}
   .jr .n{width:32px;height:32px}
   /* Book covers: taller, no mid-letter clipping */
-  .spine{aspect-ratio:auto;min-height:138px;padding:14px 14px}
-  .spine i{font-size:.95rem;line-height:1.2;-webkit-line-clamp:4}
+  .spine{padding:14px 12px}
+  .spine i{font-size:.95rem;line-height:1.25;-webkit-line-clamp:4}
   /* Library bar: chips + count share a row instead of stacking */
   .bar{padding:8px 0;gap:6px}
   .chips{flex:1 1 0;width:auto}
