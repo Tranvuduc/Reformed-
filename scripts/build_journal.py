@@ -28,6 +28,10 @@ def rebase(block):
 header, footer = rebase(header), rebase(footer)
 
 EXTRA_CSS = """
+      /* nav-offset fallback: builders extract <main id=top> from hub.html;
+         if a rebuild ever drops that wrapper, anchored sections still clear the fixed header */
+      section[id] { scroll-margin-top: 76px; }
+
       /* ---------- journal module ---------- */
       .crumb { font-size: 13.5px; color: var(--ink-soft); margin: 26px 0 6px; }
       .crumb a { color: var(--burgundy); text-decoration: none; }

@@ -437,7 +437,12 @@
         html { scroll-behavior: auto; }
         .qa-q .chev { transition: none; }
       }
+          main#top { scroll-margin-top: 76px; }
     
+      /* nav-offset fallback: builders extract <main id=top> from hub.html;
+         if a rebuild ever drops that wrapper, anchored sections still clear the fixed header */
+      section[id] { scroll-margin-top: 76px; }
+
       /* ---------- bible reader ---------- */
       .crumb { font-size: 13.5px; color: var(--ink-soft); margin: 26px 0 6px; }
       .crumb a { color: var(--burgundy); text-decoration: none; }
@@ -492,8 +497,8 @@
             <a href="/#bach-khoa">Bách Khoa<span class="gloss">Giải nghĩa các từ thần học</span></a>
             <a href="/#hoi-dap">Hỏi Đáp<span class="gloss">Giải đáp thắc mắc thường gặp</span></a>
             <a href="/#hoc-vien">Học Viện<span class="gloss">Khóa học theo từng bước</span></a>
-            <a href="/#bai-giang">Bài Giảng<span class="gloss">Nghe giảng theo đoạn Kinh Thánh</span></a>
-            <a href="/#thanh-ca">Thánh Ca<span class="gloss">Bài hát thờ phượng</span></a>
+            <a href="/bai-giang/">Bài Giảng<span class="gloss">Nghe giảng theo đoạn Kinh Thánh</span></a>
+            <a href="/thanh-ca/">Thánh Ca<span class="gloss">Bài hát thờ phượng</span></a>
           </nav>
           <a class="nav-cta" href="/#tinh-nguyen">Tĩnh Nguyện Hôm Nay</a>
         </div>
@@ -532,8 +537,8 @@
             <ul>
               <li><a href="/#tinh-nguyen">Ân Điển Mỗi Ngày</a></li>
               <li><a href="/#hoi-dap">Hỏi Đáp Cải Chánh</a></li>
-              <li><a href="/#bai-giang">Bài Giảng</a></li>
-              <li><a href="/#thanh-ca">Thánh Ca &amp; Thờ Phượng</a></li>
+              <li><a href="/bai-giang/">Bài Giảng</a></li>
+              <li><a href="/thanh-ca/">Thánh Ca &amp; Thờ Phượng</a></li>
             </ul>
           </div>
           <div>
