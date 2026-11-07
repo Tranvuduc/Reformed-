@@ -33,6 +33,18 @@ def add(t, s, u, g, b=""):
     if t and u:
         it = {"t": t, "s": s or "", "u": u, "g": g}
         if b:
+            # Body fields are strings in most modules but paragraph LISTS in
+            # others (encyclopedia body_vi, journal intro/excerpt). A list
+            # stored raw would break the search page: its norm() calls
+            # .toLowerCase() on the value. Flatten first, always a string.
+            if not isinstance(b, str):
+                parts = []
+                for x in b:
+                    if isinstance(x, dict):
+                        parts += [str(y) for y in x.values()]
+                    else:
+                        parts.append(str(x))
+                b = " ".join(parts)
             it["b"] = b[:2500]
         items.append(it)
 
