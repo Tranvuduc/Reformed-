@@ -1,0 +1,469 @@
+{
+ "module": "hymns",
+ "label": "Bản dịch AI, chưa duyệt",
+ "source": "Thánh ca thuộc phạm vi công cộng cả lời và nhạc (cơ sở ghi từng bài); bản dịch tiếng Việt mới của dự án, dịch theo đúng thể điệu để hát theo giai điệu gốc; AI dịch, Molly kiểm tra âm tiết và đối chiếu dữ kiện 2026-11-07.",
+ "entries": [
+  {
+   "slug": "an-dien-la-lung",
+   "title_en": "Amazing Grace",
+   "title_vi": "Ân Điển Lạ Lùng",
+   "words_by": "John Newton",
+   "words_years": "1725–1807",
+   "words_year": 1779,
+   "tune": "NEW BRITAIN",
+   "tune_by": "giai điệu dân gian Mỹ, in trong Virginia Harmony (1831) và Southern Harmony (1835)",
+   "tune_year": 1835,
+   "meter": "8.6.8.6",
+   "counts": [
+    8,
+    6,
+    8,
+    6
+   ],
+   "scripture": "Giăng 9:25",
+   "scripture_passage": "joh:9",
+   "basis": "public-domain — lời: John Newton (mất 1807), xuất bản 1779; nhạc: giai điệu truyền thống in 1831/1835",
+   "en": [
+    [
+     "Amazing grace! how sweet the sound",
+     "That saved a wretch like me!",
+     "I once was lost, but now am found,",
+     "Was blind, but now I see."
+    ],
+    [
+     "'Twas grace that taught my heart to fear,",
+     "And grace my fears relieved;",
+     "How precious did that grace appear",
+     "The hour I first believed!"
+    ],
+    [
+     "Through many dangers, toils and snares,",
+     "I have already come;",
+     "'Tis grace hath brought me safe thus far,",
+     "And grace will lead me home."
+    ]
+   ],
+   "vi": [
+    [
+     "Ân điển lạ lùng quá ngọt ngào thay",
+     "Đã cứu kẻ khốn cùng tôi",
+     "Tôi xưa lạc mất nay tìm thấy rồi",
+     "Mù lòa nay mắt sáng ngời"
+    ],
+    [
+     "Ân điển dạy tôi biết kính sợ Ngài",
+     "Ân điển xua tan sợ lo",
+     "Ân điển quý biết bao khi hiện đến",
+     "Giờ đầu tiên tôi tin Ngài"
+    ],
+    [
+     "Qua bao hiểm nguy, nhọc nhằn, cạm bẫy",
+     "Tôi đã vượt qua hết rồi",
+     "Ân điển đưa tôi an toàn đến nay",
+     "Ân điển dẫn tôi về nhà"
+    ]
+   ]
+  },
+  {
+   "slug": "chua-la-don-luy-vung-ben",
+   "title_en": "A Mighty Fortress Is Our God",
+   "title_vi": "Chúa Là Đồn Lũy Vững Bền",
+   "words_by": "Martin Luther",
+   "words_years": "1483–1546",
+   "words_year": 1529,
+   "tune": "EIN FESTE BURG",
+   "tune_by": "Martin Luther",
+   "tune_year": 1529,
+   "meter": "8.7.8.7.6.6.6.6.7",
+   "counts": [
+    8,
+    7,
+    8,
+    7,
+    6,
+    6,
+    6,
+    6,
+    7
+   ],
+   "scripture": "Thi Thiên 46",
+   "scripture_passage": "psa:46",
+   "basis": "public-domain — lời và nhạc: Martin Luther (mất 1546), 1529, dựa trên Thi Thiên 46; bản tiếng Anh của F. H. Hedge (mất 1890), 1853",
+   "en": [
+    [
+     "A mighty fortress is our God,",
+     "A bulwark never failing;",
+     "Our helper He, amid the flood",
+     "Of mortal ills prevailing.",
+     "For still our ancient foe",
+     "Doth seek to work us woe;",
+     "His craft and power are great,",
+     "And, armed with cruel hate,",
+     "On earth is not his equal."
+    ],
+    [
+     "That word above all earthly powers,",
+     "No thanks to them, abideth;",
+     "The Spirit and the gifts are ours",
+     "Through Him who with us sideth.",
+     "Let goods and kindred go,",
+     "This mortal life also.",
+     "The body they may kill;",
+     "God's truth abideth still;",
+     "His kingdom is forever."
+    ]
+   ],
+   "vi": [
+    [
+     "Chúa là đồn lũy kiên cố của con",
+     "Một thành lũy chẳng hề lung lay",
+     "Ngài giúp con giữa cơn lũ tai ương",
+     "Giữa bao tai họa của đời người",
+     "Kẻ thù xưa vẫn còn đây",
+     "Tìm cách gây họa cho ta",
+     "Mưu mô và sức nó lớn",
+     "Mang theo lòng hận thù dữ",
+     "Khắp đất không ai sánh được nó"
+    ],
+    [
+     "Lời Chúa vượt trên các quyền thế gian",
+     "Không nhờ chúng, vẫn còn đời đời",
+     "Thánh Linh và ân tứ thuộc về ta",
+     "Qua Đấng Christ luôn ở cùng ta",
+     "Hãy để của cải ra đi",
+     "Mạng sống này cũng buông luôn",
+     "Chúng có giết thân xác này",
+     "Lẽ thật của Chúa còn mãi",
+     "Vương quốc Ngài còn mãi đời đời"
+    ]
+   ]
+  },
+  {
+   "slug": "thanh-thay-thanh-thay-thanh-thay",
+   "title_en": "Holy, Holy, Holy",
+   "title_vi": "Thánh Thay, Thánh Thay, Thánh Thay",
+   "words_by": "Reginald Heber",
+   "words_years": "1783–1826",
+   "words_year": 1826,
+   "tune": "NICAEA",
+   "tune_by": "John Bacchus Dykes (1823–1876)",
+   "tune_year": 1861,
+   "meter": "11.12.12.10",
+   "counts": [
+    11,
+    12,
+    12,
+    10
+   ],
+   "scripture": "Khải Huyền 4:8",
+   "scripture_passage": "rev:4",
+   "basis": "public-domain — lời: Reginald Heber (mất 1826), 1826; nhạc: J. B. Dykes (mất 1876), 1861",
+   "en": [
+    [
+     "Holy, holy, holy! Lord God Almighty!",
+     "Early in the morning our song shall rise to Thee;",
+     "Holy, holy, holy! merciful and mighty!",
+     "God in three Persons, blessed Trinity!"
+    ],
+    [
+     "Holy, holy, holy! all the saints adore Thee,",
+     "Casting down their golden crowns around the glassy sea;",
+     "Cherubim and seraphim falling down before Thee,",
+     "Who was, and is, and evermore shall be."
+    ]
+   ],
+   "vi": [
+    [
+     "Thánh thay, thánh thay, thánh thay! Đức Chúa Trời toàn năng",
+     "Từ lúc bình minh lên, bài ca chúng con dâng lên Ngài",
+     "Thánh thay, thánh thay, thánh thay! Chúa nhân từ quyền năng thay",
+     "Đức Chúa Trời trong Ba Ngôi, Đấng đáng chúc tụng"
+    ],
+    [
+     "Thánh thay, thánh thay, thánh thay! Các thánh thờ lạy Ngài",
+     "Họ tháo mão triều thiên bằng vàng đặt quanh biển pha lê",
+     "Chê-ru-bim và sê-ra-phim đều sấp mình trước Ngài",
+     "Đấng đã có, hiện có, và còn mãi đời đời"
+    ]
+   ]
+  },
+  {
+   "slug": "vang-da-muon-doi",
+   "title_en": "Rock of Ages",
+   "title_vi": "Vầng Đá Muôn Đời",
+   "words_by": "Augustus M. Toplady",
+   "words_years": "1740–1778",
+   "words_year": 1763,
+   "tune": "TOPLADY",
+   "tune_by": "Thomas Hastings (1784–1872)",
+   "tune_year": 1830,
+   "meter": "7.7.7.7.7.7",
+   "counts": [
+    7,
+    7,
+    7,
+    7,
+    7,
+    7
+   ],
+   "scripture": "",
+   "scripture_passage": "",
+   "basis": "public-domain — lời: A. M. Toplady (mất 1778), 1763; nhạc: Thomas Hastings (mất 1872), 1830",
+   "en": [
+    [
+     "Rock of Ages, cleft for me,",
+     "Let me hide myself in Thee;",
+     "Let the water and the blood,",
+     "From Thy wounded side which flowed,",
+     "Be of sin the double cure,",
+     "Save from wrath and make me pure."
+    ],
+    [
+     "Not the labors of my hands",
+     "Can fulfill Thy law's demands;",
+     "Could my zeal no respite know,",
+     "Could my tears forever flow,",
+     "All for sin could not atone;",
+     "Thou must save, and Thou alone."
+    ]
+   ],
+   "vi": [
+    [
+     "Vầng Đá đời đời nứt vì tôi",
+     "Cho tôi được ẩn náu nơi Ngài",
+     "Nước và huyết từ hông Ngài chảy",
+     "Từ cạnh sườn bị thương tuôn ra",
+     "Là phương thuốc chữa tội gấp đôi",
+     "Cứu khỏi cơn thạnh nộ, làm sạch"
+    ],
+    [
+     "Công lao của tay tôi không thể",
+     "Làm trọn được đòi hỏi luật Ngài",
+     "Dù lòng sốt sắng không ngơi nghỉ",
+     "Dù nước mắt tôi chảy mãi hoài",
+     "Cũng không chuộc nổi tội tôi đâu",
+     "Chỉ Ngài cứu được, chỉ Ngài thôi"
+    ]
+   ]
+  },
+  {
+   "slug": "khi-toi-ngam-thap-tu-dieu-ky",
+   "title_en": "When I Survey the Wondrous Cross",
+   "title_vi": "Khi Tôi Ngắm Thập Tự Diệu Kỳ",
+   "words_by": "Isaac Watts",
+   "words_years": "1674–1748",
+   "words_year": 1707,
+   "tune": "HAMBURG",
+   "tune_by": "Lowell Mason (1792–1872)",
+   "tune_year": 1824,
+   "meter": "8.8.8.8",
+   "counts": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "scripture": "Ga-la-ti 6:14",
+   "scripture_passage": "gal:6",
+   "basis": "public-domain — lời: Isaac Watts (mất 1748), 1707; nhạc: Lowell Mason (mất 1872), 1824",
+   "en": [
+    [
+     "When I survey the wondrous cross",
+     "On which the Prince of glory died,",
+     "My richest gain I count but loss,",
+     "And pour contempt on all my pride."
+    ],
+    [
+     "Were the whole realm of nature mine,",
+     "That were a present far too small;",
+     "Love so amazing, so divine,",
+     "Demands my soul, my life, my all."
+    ]
+   ],
+   "vi": [
+    [
+     "Khi tôi chiêm ngắm thập tự diệu kỳ",
+     "Nơi Chúa vinh hiển vì tôi chết thay",
+     "Điều quý nhất tôi xin coi như lỗ",
+     "Khinh bỉ mọi sự kiêu ngạo trong tôi"
+    ],
+    [
+     "Nếu cả cõi thiên nhiên là của tôi",
+     "Món quà ấy vẫn quá nhỏ bé thay",
+     "Tình yêu lạ lùng và thiêng liêng ấy",
+     "Đòi linh hồn, sự sống, tất cả tôi"
+    ]
+   ]
+  },
+  {
+   "slug": "linh-hon-toi-binh-an",
+   "title_en": "It Is Well With My Soul",
+   "title_vi": "Linh Hồn Tôi Bình An",
+   "words_by": "Horatio G. Spafford",
+   "words_years": "1828–1888",
+   "words_year": 1873,
+   "tune": "VILLE DU HAVRE",
+   "tune_by": "Philip P. Bliss (1838–1876)",
+   "tune_year": 1876,
+   "meter": "11.8.11.9 (điệp khúc 6.6.9)",
+   "counts": [
+    11,
+    8,
+    11,
+    9
+   ],
+   "refrain_counts": [
+    6,
+    6,
+    9
+   ],
+   "scripture": "",
+   "scripture_passage": "",
+   "basis": "public-domain — lời: H. G. Spafford (mất 1888), 1873; nhạc: P. P. Bliss (mất 1876), 1876",
+   "en": [
+    [
+     "When peace, like a river, attendeth my way,",
+     "When sorrows like sea billows roll;",
+     "Whatever my lot, Thou hast taught me to say,",
+     "It is well, it is well with my soul."
+    ]
+   ],
+   "refrain_en": [
+    "It is well with my soul,",
+    "It is well with my soul,",
+    "It is well, it is well with my soul."
+   ],
+   "vi": [
+    [
+     "Khi bình an như sông lớn theo đường con đi mãi",
+     "Khi nỗi buồn như sóng biển dâng trào",
+     "Dù số phận ra sao, Ngài đã dạy con biết nói",
+     "Thật bình an, bình an cho linh hồn con"
+    ]
+   ],
+   "refrain_vi": [
+    "Linh hồn con bình an thay",
+    "Linh hồn con bình an thay",
+    "Thật bình an, bình an cho linh hồn con"
+   ]
+  },
+  {
+   "slug": "ngai-la-nguon-moi-on-phuoc",
+   "title_en": "Come, Thou Fount of Every Blessing",
+   "title_vi": "Ngài Là Nguồn Mọi Ơn Phước",
+   "words_by": "Robert Robinson",
+   "words_years": "1735–1790",
+   "words_year": 1758,
+   "tune": "NETTLETON",
+   "tune_by": "in trong Wyeth's Repository of Sacred Music, Phần II",
+   "tune_year": 1813,
+   "meter": "8.7.8.7 D",
+   "counts": [
+    8,
+    7,
+    8,
+    7,
+    8,
+    7,
+    8,
+    7
+   ],
+   "scripture": "1 Sa-mu-ên 7:12",
+   "scripture_passage": "1sam:7",
+   "basis": "public-domain — lời: Robert Robinson (mất 1790), 1758; nhạc: giai điệu in năm 1813",
+   "en": [
+    [
+     "Come, Thou Fount of every blessing,",
+     "Tune my heart to sing Thy grace;",
+     "Streams of mercy, never ceasing,",
+     "Call for songs of loudest praise.",
+     "Teach me some melodious sonnet,",
+     "Sung by flaming tongues above;",
+     "Praise the mount! I'm fixed upon it,",
+     "Mount of Thy redeeming love."
+    ],
+    [
+     "Here I raise my Ebenezer;",
+     "Hither by Thy help I've come;",
+     "And I hope, by Thy good pleasure,",
+     "Safely to arrive at home.",
+     "Jesus sought me when a stranger,",
+     "Wandering from the fold of God;",
+     "He, to rescue me from danger,",
+     "Interposed His precious blood."
+    ]
+   ],
+   "vi": [
+    [
+     "Ngài là Nguồn mọi ơn phước vô biên",
+     "Chỉnh lòng con hát ca ân điển",
+     "Suối thương xót tuôn chảy không ngừng nghỉ",
+     "Xứng đáng bài ca khen ngợi lớn",
+     "Dạy con bài thánh ca du dương êm",
+     "Mà lưỡi lửa trên trời đang hát",
+     "Ngợi khen núi! Con đứng vững trên đó",
+     "Núi tình yêu Ngài cứu chuộc con"
+    ],
+    [
+     "Nơi đây con dựng Ê-bên-Ê-xe",
+     "Nhờ Ngài giúp con đến nơi này",
+     "Và con trông cậy theo ý tốt Ngài",
+     "Được về nhà cách an toàn thay",
+     "Giê-xu tìm con khi còn xa lạ",
+     "Đang lang thang xa khỏi bầy Ngài",
+     "Ngài cứu con ra khỏi vòng nguy khốn",
+     "Đã đổ huyết báu Ngài vì con"
+    ]
+   ]
+  },
+  {
+   "slug": "xin-o-cung-con",
+   "title_en": "Abide With Me",
+   "title_vi": "Xin Ở Cùng Con",
+   "words_by": "Henry F. Lyte",
+   "words_years": "1793–1847",
+   "words_year": 1847,
+   "tune": "EVENTIDE",
+   "tune_by": "William H. Monk (1823–1889)",
+   "tune_year": 1861,
+   "meter": "10.10.10.10",
+   "counts": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "scripture": "Lu-ca 24:29",
+   "scripture_passage": "luk:24",
+   "basis": "public-domain — lời: H. F. Lyte (mất 1847), 1847; nhạc: W. H. Monk (mất 1889), 1861",
+   "en": [
+    [
+     "Abide with me; fast falls the eventide;",
+     "The darkness deepens; Lord, with me abide!",
+     "When other helpers fail and comforts flee,",
+     "Help of the helpless, O abide with me."
+    ],
+    [
+     "Hold Thou Thy cross before my closing eyes;",
+     "Shine through the gloom and point me to the skies;",
+     "Heaven's morning breaks, and earth's vain shadows flee;",
+     "In life, in death, O Lord, abide with me."
+    ]
+   ],
+   "vi": [
+    [
+     "Xin ở với con, nay hoàng hôn buông xuống rồi",
+     "Đêm tối càng sâu dần, xin ở cùng con đây",
+     "Khi kẻ giúp đỡ tan, an ủi cũng bay xa",
+     "Ôi Đấng cứu giúp kẻ yếu, xin ở cùng con"
+    ],
+    [
+     "Xin đưa thập tự giá trước mắt con nhắm lại",
+     "Xin chiếu qua màn tối, chỉ con lên trời cao",
+     "Sáng thiên đàng bừng lên, bóng hư không tan biến",
+     "Dù sống hay là chết, xin Chúa ở cùng con"
+    ]
+   ]
+  }
+ ]
+}
