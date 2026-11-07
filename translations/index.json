@@ -44706,5 +44706,144 @@
   "level": 2,
   "length": "dai",
   "short": "Những Mảnh Thơ Của Baxter"
+ },
+ {
+  "id": "athanasius-de-synodis",
+  "file": "translations/athanasius-de-synodis.txt",
+  "title": "VỀ CÁC CÔNG ĐỒNG A-RI-MI-NUM VÀ SÊ-LÊU-XI-A, TUYÊN BỐ ĐỨC TIN, VỀ LU-CA 10:22 VÀ THƯ LỄ PHỤC SINH THỨ 39",
+  "orig": "De Synodis; Statement of Faith; On Luke 10:22; Festal Letter 39",
+  "author": "Athanasius",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giáo phụ",
+   "Lịch Sử Hội Thánh",
+   "Biện Giáo"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Về Các Công Đồng"
+ },
+ {
+  "id": "athanasius-discourses-against-arians",
+  "file": "translations/athanasius-discourses-against-arians.txt",
+  "title": "BỐN BÀI LUẬN CHỐNG LẠI NGƯỜI ARIAN",
+  "orig": "Four Discourses Against the Arians",
+  "author": "Athanasius",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giáo phụ",
+   "Biện Giáo",
+   "Chúa Giê-xu Christ"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chống Lại Phái Arian"
+ },
+ {
+  "id": "athanasius-de-decretis",
+  "file": "translations/athanasius-de-decretis.txt",
+  "title": "VỀ CÁC SẮC LỆNH HAY BÊNH VỰC ĐỊNH NGHĨA NI-CÊ",
+  "orig": "De Decretis, or Defence of the Nicene Definition",
+  "author": "Athanasius",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giáo phụ",
+   "Biện Giáo",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Về Các Sắc Lệnh Ni-cê"
+ },
+ {
+  "id": "basil-de-spiritu-sancto",
+  "file": "translations/basil-de-spiritu-sancto.txt",
+  "title": "SÁCH CỦA THÁNH BASIL VỀ ĐỨC THÁNH LINH",
+  "orig": "De Spiritu Sancto",
+  "author": "Thánh Basil",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giáo phụ",
+   "Đức Thánh Linh",
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Về Đức Thánh Linh"
+ },
+ {
+  "id": "basil-hexaemeron",
+  "file": "translations/basil-hexaemeron.txt",
+  "title": "SÁU NGÀY SÁNG TẠO: CHÍN BÀI GIẢNG VỀ SÁNG THẾ",
+  "orig": "Hexaemeron",
+  "author": "Thánh Basil",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giáo phụ",
+   "Sáng Tạo",
+   "Kinh Thánh"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Sáu Ngày Sáng Tạo"
+ },
+ {
+  "id": "jerome-tuyen-tap",
+  "file": "translations/jerome-tuyen-tap.txt",
+  "title": "CÁC TÁC PHẨM CHỌN LỌC CỦA GIÊ-RÔ-NI-MÔ: THƯ LIII VÀ THƯ LVII, CHỐNG PHÁI PÊ-LA-GI-ÚT, CÁC LỜI TỰA VULGATA",
+  "orig": "Selected Works of Jerome: Letters LIII and LVII; Against the Pelagians; Prefaces to the Vulgate (NPNF2, Second Series, Vol. VI, 1893)",
+  "author": "Thánh Jerome",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giáo phụ",
+   "Kinh Thánh",
+   "Đức Tin",
+   "Lịch Sử Hội Thánh"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Tuyển Tập Jerome"
+ },
+ {
+  "id": "ambrose-ve-duc-tin",
+  "file": "translations/ambrose-ve-duc-tin.txt",
+  "title": "BÀI TRÌNH BÀY VỀ ĐỨC TIN CƠ ĐỐC (DE FIDE, NĂM QUYỂN)",
+  "orig": "De Fide (On the Faith), Books I–V (NPNF2, Vol. X, 1896)",
+  "author": "Thánh Ambrose",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giáo phụ",
+   "Ba Ngôi",
+   "Chúa Giê-xu Christ",
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Về Đức Tin Cơ Đốc"
+ },
+ {
+  "id": "ambrose-ve-duc-thanh-linh",
+  "file": "translations/ambrose-ve-duc-thanh-linh.txt",
+  "title": "VỀ ĐỨC THÁNH LINH (DE SPIRITU SANCTO, BA SÁCH)",
+  "orig": "De Spiritu Sancto (On the Holy Spirit), Books I–III (NPNF2, Vol. X, 1896)",
+  "author": "Thánh Ambrose",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Giáo phụ",
+   "Đức Thánh Linh",
+   "Ba Ngôi",
+   "Báp-têm"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Đức Thánh Linh Theo Ambrose"
  }
 ]
