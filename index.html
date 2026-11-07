@@ -476,8 +476,8 @@
             <div class="verse-line">II Phi-e-rơ 3:18</div>
             <h1>Lớn lên trong <em>ân điển</em> và sự hiểu biết Chúa</h1>
             <p class="lead">Sách, giáo lý, khóa học, bài giảng và thánh ca Cải Chánh tiếng Việt — mọi nguồn lực cho đời sống đức tin, gom về một nơi duy nhất.</p>
-            <form class="search-box" id="searchForm" role="search">
-              <input id="searchInput" type="search" placeholder="Tìm sách, thuật ngữ, câu hỏi… (gõ không dấu cũng được)" aria-label="Tìm kiếm" autocomplete="off" />
+            <form class="search-box" id="searchForm" role="search" action="/tim-kiem/" method="get">
+              <input id="searchInput" name="q" type="search" placeholder="Tìm sách, thuật ngữ, câu hỏi… (gõ không dấu cũng được)" aria-label="Tìm kiếm" autocomplete="off" />
               <button type="submit">
                 <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg>
                 <span>Tìm</span>
@@ -1149,6 +1149,10 @@
         var searchForm = document.getElementById("searchForm");
         var searchInput = document.getElementById("searchInput");
         var searchResults = document.getElementById("searchResults");
+        function goSearch(q) {
+          q = (q || "").trim();
+          if (q) location.href = "/tim-kiem/?q=" + encodeURIComponent(q);
+        }
         function runSearch(raw) {
           var q = norm(raw.trim());
           searchResults.innerHTML = "";
@@ -1223,11 +1227,11 @@
           }
           searchResults.classList.add("open");
         }
-        searchForm.addEventListener("submit", function (e) { e.preventDefault(); runSearch(searchInput.value); });
+        searchForm.addEventListener("submit", function (e) { e.preventDefault(); goSearch(searchInput.value); });
         document.querySelectorAll(".quick-links button").forEach(function (b) {
           b.addEventListener("click", function () {
             searchInput.value = b.getAttribute("data-q");
-            runSearch(searchInput.value);
+            goSearch(searchInput.value);
             searchInput.focus();
           });
         });
