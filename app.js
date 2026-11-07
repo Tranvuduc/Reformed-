@@ -283,7 +283,7 @@ function render(){
 
 function renderShelves(){
   var on=home();
-  $("allh").hidden=true;$("bw").hidden=!on;$("browse").textContent=(st.lang==="vi"?"Đã biết mình cần gì? Duyệt toàn bộ thư viện":"Know what you want? Browse the whole library");renderTiles();heroStats();
+  $("allh").hidden=true;$("bw").hidden=!on;$("browse").textContent=(st.lang==="vi"?"Xem toàn bộ thư viện →":"Browse the whole library →");renderTiles();heroStats();
   var sh=$("shelves");if(!sh)return;
   if(!on){sh.innerHTML="";return}
   var vi=st.lang==="vi";
@@ -325,6 +325,7 @@ function labels(){
   buildAuthors();
 }
 try{var _q=new URLSearchParams(location.search).get("q");if(_q){st.q=_q;$("q").value=_q}}catch(e){}
+try{if(new URLSearchParams(location.search).get("all")==="1")st.br=1}catch(e){}/* ?all=1: open straight into the full library (linked from the hub homepage) */
 function debounce(fn,ms){var t;return function(){var a=arguments,c=this;clearTimeout(t);t=setTimeout(function(){fn.apply(c,a)},ms)}}
 $("q").addEventListener("input",debounce(function(e){st.q=e.target.value;st.limit=PAGE;render()},180));
 $("src").addEventListener("change",function(e){st.sr=e.target.value;st.limit=PAGE;render()});
