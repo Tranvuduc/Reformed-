@@ -9,7 +9,7 @@ predestination entry as "tien-dinh" (the guide's example slug) while the live
 encyclopedia uses the glossary slug "su-tien-dinh" — rewritten here.
 
 Outputs: data/answers.json (Guide §10 Q&A shape), hoi-dap/index.html,
-hoi-dap/<slug>.html x5, sitemap.xml updates. The old hoi-dap.html stub is
+hoi-dap/<slug>.html x15, sitemap.xml updates. The old hoi-dap.html stub is
 redirected to /hoi-dap/ in vercel.json.
 """
 import json, re, sys, html, pathlib
@@ -26,11 +26,22 @@ for f in (APP / "data" / "bible").glob("*.json"):
     books[f.stem] = d
     name2id[d["name"].strip().lower()] = f.stem
 
+# Helper drafts sometimes cite books by short/conventional names that differ
+# from the Bible data's canonical names (integrator mapping, added 2026-11-07
+# for Round 5: Phục Truyền, Công Vụ, I Giăng, I Cô-rinh-tô).
+REF_ALIASES = {
+    "phục truyền": "phục truyền luật lệ ký",
+    "công vụ": "công vụ các sứ đồ",
+    "i giăng": "1 giăng", "ii giăng": "2 giăng", "iii giăng": "3 giăng",
+    "i cô-rinh-tô": "1 cô-rinh-tô", "ii cô-rinh-tô": "2 cô-rinh-tô",
+}
+
 def resolve_ref(ref):
     m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:\s*[–—-]\s*(\d+))?$", ref.strip())
     if not m: return None
     name, ch, v1, v2 = m.groups()
-    bid = name2id.get(name.strip().lower())
+    key = name.strip().lower()
+    bid = name2id.get(REF_ALIASES.get(key, key))
     if not bid: return None
     chs = books[bid]["ch"]
     verses = list(range(int(v1), int(v2) + 1)) if v2 else [int(v1)]
@@ -40,7 +51,7 @@ raw = json.loads((ROOT / "scripts/helper-data/answers-starters.json").read_text(
 blob = json.dumps(raw, ensure_ascii=False)
 assert blob.count('"tien-dinh"') == 2
 raw = json.loads(blob.replace('"tien-dinh"', '"su-tien-dinh"'))
-print("answers loaded: 5 | encyclopedia slug fix applied: tien-dinh -> su-tien-dinh (x2)")
+print("answers loaded: 15 | encyclopedia slug fix applied: tien-dinh -> su-tien-dinh (x2)")
 
 enc = {e["slug"]: e for e in json.loads((ROOT / "data/encyclopedia.json").read_text(encoding="utf-8"))["entries"]}
 
@@ -69,7 +80,7 @@ print("all refs resolved; all encyclopedia links valid")
 
 (ROOT / "data/answers.json").write_text(json.dumps({
     "module": "reformed-answers",
-    "source": "Helper-AI starter drafts (integrator-verified 2026-11-06)",
+    "source": "Helper-AI drafts — Round 1 verified 2026-11-06; Round 5 (10 answers) verified 2026-11-07",
     "label": "Nội dung AI soạn, chưa duyệt",
     "count": len(entries),
     "entries": entries,
