@@ -45197,5 +45197,22 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Ma-thi-ơ 14–28"
+ },
+ {
+  "id": "poole-chu-thich-mac-lu-ca-1-9",
+  "file": "translations/poole-chu-thich-mac-lu-ca-1-9.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — MÁC & LU-CA 1–9",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Mark & Luke 1–9 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Mác",
+   "Lu-ca"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Mác & Lu-ca 1–9"
  }
 ]
