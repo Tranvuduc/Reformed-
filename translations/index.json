@@ -45090,5 +45090,57 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Ê-xê-chi-ên 24–48"
+ },
+ {
+  "id": "poole-chu-thich-ca-thuong-exechien-1-23",
+  "file": "translations/poole-chu-thich-ca-thuong-exechien-1-23.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — CA THƯƠNG & Ê-XÊ-CHI-ÊN 1–23",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Lamentations & Ezekiel 1–23 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Ca Thương",
+   "Ê-xê-chi-ên"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Ca Thương & Ê-xê-chi-ên 1–23"
+ },
+ {
+  "id": "poole-chu-thich-ma-thi-o-1-13",
+  "file": "translations/poole-chu-thich-ma-thi-o-1-13.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — MA-THI-Ơ 1–13",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Matthew 1–13 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Ma-thi-ơ"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Ma-thi-ơ 1–13"
+ },
+ {
+  "id": "poole-chu-thich-xo-pho-ni-ma-la-chi",
+  "file": "translations/poole-chu-thich-xo-pho-ni-ma-la-chi.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — XÔ-PHÔ-NI, HA-GAI, XA-CHA-RI & MA-LA-CHI",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Zephaniah, Haggai, Zechariah & Malachi (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Xô-phô-ni",
+   "Ha-gai",
+   "Xa-cha-ri",
+   "Ma-la-chi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Xô-phô-ni – Ma-la-chi"
  }
 ]
