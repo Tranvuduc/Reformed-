@@ -459,6 +459,21 @@
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .qa-card:hover h3 { color: var(--burgundy); }
       .basis { font-size: 13px; color: var(--ink-soft); border-top: 1px solid var(--line); padding-top: 10px; margin-top: 16px; line-height: 1.6; }
+      /* ---------- design pass 2026-11: title band / monogram cards / rhythm ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 27px; font-weight: 700; line-height: 1; letter-spacing: .04em; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 22px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .qa-card { display: flex; gap: 16px; align-items: flex-start; }
+      .monogram { flex: 0 0 auto; width: 52px; height: 52px; border-radius: 50%; background: var(--burgundy); color: #fdf6e9; font-family: "Playfair Display", serif; font-weight: 700; font-size: 19px; letter-spacing: .03em; display: flex; align-items: center; justify-content: center; margin-top: 2px; box-shadow: var(--shadow); }
+      .band-tint { max-width: 860px; margin: 34px auto 8px; background: color-mix(in srgb, var(--burgundy) 6%, var(--bg)); border-top: 2px solid var(--gold-soft); border-radius: var(--radius); padding: 6px 18px 20px; }
+      .band-tint .qa-cards { margin-top: 10px; }
 </style>
 </head>
 <body id="top">
@@ -487,11 +502,13 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/bai-giang/">Bài Giảng</a> · Charles H. Spurgeon</p>
-  <div class="cat-head">
-    <div class="kicker">Thư Viện Bài Giảng</div>
-    <h1>Gia-cốp Và Ê-sau</h1>
-    <p style="color:var(--ink-soft)">Jacob and Esau · Charles H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">CS</span><span class="m-small">Bài giảng</span></div>
+    <div>
+      <div class="tb-kicker">Thư Viện Bài Giảng</div>
+      <h1>Gia-cốp Và Ê-sau</h1>
+      <p class="tb-sub">Jacob and Esau · Charles H. Spurgeon &nbsp;<span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
     <table class="meta-table"><tr><th>Người giảng</th><td>Charles H. Spurgeon (1834–1892)</td></tr><tr><th>Ngày giảng</th><td>16 tháng 1, 1859</td></tr><tr><th>Nơi giảng</th><td>New Park Street Chapel, London</td></tr><tr><th>Câu gốc</th><td><a href="/kinh-thanh/rom/9.html">Rô-ma 9:13</a></td></tr><tr><th>Số hiệu</th><td>Số 239 trong tuyển tập bài giảng của tác giả</td></tr></table>

@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 22 tháng 5</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>BÀI CA CỦA SỰ TIN CHẮC</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 22 tháng 5 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">22</span><span class="m-small">tháng 5</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>BÀI CA CỦA SỰ TIN CHẮC</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 22 tháng 5 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Dầu tôi đi giữa gian truân, Chúa sẽ làm cho tôi được sống lại; Chúa sẽ giơ tay ra nghịch cùng sự giận của kẻ thù nghịch tôi, và tay hữu Chúa sẽ cứu tôi.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Dầu tôi đi giữa gian truân, Chúa sẽ làm cho tôi được sống lại; Chúa sẽ giơ tay ra nghịch cùng sự giận của kẻ thù nghịch tôi, và tay hữu Chúa sẽ cứu tôi.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/138.html#v7" style="color:inherit">Thi Thiên 138:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Giữa gian truân, Chúa làm sống lại dân Ngài và dùng tay hữu Ngài cứu họ khỏi kẻ thù giận dữ.</p>
-    <div class="dev-body"><p>Đi giữa gian truân thật khốn khổ. Không, thật phước hạnh khi đi như vậy, vì có một lời hứa đặc biệt cho nó. Cho tôi một lời hứa, thì gian truân có là gì? Chúa tôi dạy tôi ở đây nói điều gì? Là điều này: &quot;Chúa sẽ làm cho tôi được sống lại.&quot; Tôi sẽ có thêm sự sống, thêm năng lực, thêm đức tin. Há chẳng phải thường như vậy sao, gian truân làm chúng ta sống lại, như một luồng không khí lạnh khi người ta sắp ngất?</p><p>Kẻ thù của tôi giận dữ dường nào, và nhất là kẻ thù đầu sỏ! Tôi có nên giơ tay ra đánh giặc thù tôi không? Không, tay tôi dùng tốt hơn vào việc phục vụ Chúa tôi. Hơn nữa, không cần thiết, vì Đức Chúa Trời tôi sẽ dùng cánh tay vươn xa của Ngài, và Ngài sẽ xử lý chúng tốt hơn nhiều so với tôi nếu tôi cố làm. &quot;Sự báo thù thuộc về Ta; Ta sẽ báo ứng, Chúa phán.&quot; Ngài sẽ dùng chính tay hữu đầy năng quyền và khôn ngoan của Ngài cứu tôi, và tôi còn mong gì hơn?</p><p>Này, hỡi lòng ta, hãy nhắc đi nhắc lại lời hứa này với chính mình cho đến khi ngươi có thể dùng nó như bài ca của sự tin chắc, niềm an ủi của sự cô đơn. Hãy cầu nguyện để chính mình được sống lại, và phó phần còn lại cho Chúa, Đấng làm trọn mọi sự cho ngươi.</p></div>
+    <div class="dev-body dropcap"><p>Đi giữa gian truân thật khốn khổ. Không, thật phước hạnh khi đi như vậy, vì có một lời hứa đặc biệt cho nó. Cho tôi một lời hứa, thì gian truân có là gì? Chúa tôi dạy tôi ở đây nói điều gì? Là điều này: &quot;Chúa sẽ làm cho tôi được sống lại.&quot; Tôi sẽ có thêm sự sống, thêm năng lực, thêm đức tin. Há chẳng phải thường như vậy sao, gian truân làm chúng ta sống lại, như một luồng không khí lạnh khi người ta sắp ngất?</p><p>Kẻ thù của tôi giận dữ dường nào, và nhất là kẻ thù đầu sỏ! Tôi có nên giơ tay ra đánh giặc thù tôi không? Không, tay tôi dùng tốt hơn vào việc phục vụ Chúa tôi. Hơn nữa, không cần thiết, vì Đức Chúa Trời tôi sẽ dùng cánh tay vươn xa của Ngài, và Ngài sẽ xử lý chúng tốt hơn nhiều so với tôi nếu tôi cố làm. &quot;Sự báo thù thuộc về Ta; Ta sẽ báo ứng, Chúa phán.&quot; Ngài sẽ dùng chính tay hữu đầy năng quyền và khôn ngoan của Ngài cứu tôi, và tôi còn mong gì hơn?</p><p>Này, hỡi lòng ta, hãy nhắc đi nhắc lại lời hứa này với chính mình cho đến khi ngươi có thể dùng nó như bài ca của sự tin chắc, niềm an ủi của sự cô đơn. Hãy cầu nguyện để chính mình được sống lại, và phó phần còn lại cho Chúa, Đấng làm trọn mọi sự cho ngươi.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

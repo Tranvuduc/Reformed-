@@ -43,6 +43,12 @@ EXTRA_CSS = """
       .qa-card h3 { font-family: "Noto Serif", serif; font-size: 18.5px; margin: 0 0 6px; color: var(--ink); line-height: 1.45; }
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .empty { text-align: center; color: var(--ink-soft); font-size: 15px; padding: 10px 0 2px; }
+      /* ---------- design pass 2026-11: church cards + region rhythm ---------- */
+      .region-sec { max-width: 860px; margin: 30px auto 0; border-radius: var(--radius); }
+      .region-sec.band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--bg)); border-top: 2px solid var(--gold-soft); padding: 4px 18px 20px; }
+      .region-sec.band-tint .qa-cards { margin-top: 10px; }
+      .region-chip { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: .05em; color: #fdf6e9; background: var(--burgundy); border-radius: 999px; padding: 2px 10px; margin-bottom: 8px; }
+      .qa-card { border-top: 3px solid var(--gold-soft); }
 """
 
 MINI_JS = """
@@ -82,22 +88,23 @@ def head(title, desc, url):
 </head>"""
 
 region_html = []
-for r in regions:
+for ri, r in enumerate(regions):
     items = [e for e in entries if e.get("region") == r]
+    tint = " band-tint" if ri % 2 == 1 else ""
     if items:
-        def card(e):
+        def card(e, region=r):
             lines = [esc(e.get(k, "")) for k in ("address", "service_times", "contact", "confession") if e.get(k)]
             src = ""
             if e.get("source_url"):
                 src = (f'<p style="margin-top:8px;font-size:13px">Nguồn: <a href="{esc(e["source_url"])}" '
                        f'target="_blank" rel="noopener">{esc(e.get("source_name", "nguồn công khai"))}</a>'
                        f' · Thông tin công khai, chưa xác nhận trực tiếp với Hội Thánh — Hội Thánh có thể yêu cầu sửa hoặc gỡ bất cứ lúc nào.</p>')
-            return (f'<div class="qa-card"><h3>{esc(e["name"])}</h3>'
+            return (f'<div class="qa-card"><span class="region-chip">{esc(region)}</span><h3>{esc(e["name"])}</h3>'
                     f'<p>{"<br>".join(lines)}</p>{src}</div>')
         cards = "".join(card(e) for e in items)
-        region_html.append(f'<div class="cat-head" style="margin-top:30px"><div class="kicker">{esc(r)}</div></div><div class="qa-cards">{cards}</div>')
+        region_html.append(f'<section class="region-sec{tint}"><div class="cat-head" style="margin-top:22px"><div class="kicker">{esc(r)}</div></div><div class="qa-cards">{cards}</div></section>')
     else:
-        region_html.append(f'<div class="cat-head" style="margin-top:30px"><div class="kicker">{esc(r)}</div></div><p class="empty">Chưa có Hội Thánh nào đăng ký trong khu vực này.</p>')
+        region_html.append(f'<section class="region-sec{tint}"><div class="cat-head" style="margin-top:22px"><div class="kicker">{esc(r)}</div></div><p class="empty">Chưa có Hội Thánh nào đăng ký trong khu vực này.</p></section>')
 
 mailto = ("mailto:" + EMAIL + "?subject=" + "Đăng ký Hội Thánh vào Danh Bạ" +
           "&body=" + "Tên Hội Thánh:%0AĐịa chỉ:%0AGiờ nhóm:%0AĐiện thoại / email liên hệ:%0AHệ phái / tín ngưỡng tuyên xưng:%0A")

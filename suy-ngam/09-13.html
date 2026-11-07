@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 13 tháng 9</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Sương của trời</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 13 tháng 9 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">13</span><span class="m-small">tháng 9</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Sương của trời</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 13 tháng 9 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Các tầng trời của Ngài sẽ nhỏ sương xuống”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Các tầng trời của Ngài sẽ nhỏ sương xuống”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/deb/33.html#v28" style="color:inherit">Phục Truyền 33:28</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Thánh Linh như sương trời làm tươi mát linh hồn khô héo và ban sự sống mới.</p>
-    <div class="dev-body"><p>Sương ở phương Đông đối với thế giới thiên nhiên là gì, thì ảnh hưởng của Thánh Linh đối với cõi ân điển là thế. Tôi cần điều đó biết bao! Không có Thánh Linh của Đức Chúa Trời, tôi là một vật khô héo. Tôi rũ xuống, tôi tàn úa, tôi chết. Sương này làm tôi tươi mát ngọt ngào biết bao! Khi một lần được hưởng nó, tôi cảm thấy hạnh phúc, sống động, mạnh mẽ, được nâng lên. Tôi không cần gì hơn. Đức Thánh Linh mang đến cho tôi sự sống, và mọi điều sự sống cần. Mọi điều khác không có sương của Thánh Linh đều kém hơn hư không đối với tôi: tôi nghe, tôi đọc, tôi cầu nguyện, tôi hát, tôi đến bàn tiệc thánh, và tôi không tìm thấy phước lành nào ở đó cho đến khi Đức Thánh Linh thăm viếng tôi. Nhưng khi Ngài tưới sương trên tôi, mọi phương tiện của ân điển đều ngọt ngào và ích lợi.</p><p>Lời hứa này cho tôi thật lớn lao biết bao! &quot;Các tầng trời của Ngài sẽ nhỏ sương xuống.&quot; Tôi sẽ được thăm viếng bằng ân điển. Tôi sẽ không bị bỏ lại cho sự khô hạn tự nhiên của mình, hay cho cái nóng thiêu đốt của thế gian, hay cho cơn gió si-rô-cô của sự cám dỗ của Sa-tan. Ôi, ước gì ngay giờ này tôi cảm nhận được sương dịu dàng, lặng lẽ, thấm đẫm của Chúa! Tại sao lại không? Đấng đã làm cho tôi sống như cỏ sống trong đồng cỏ, sẽ đối xử với tôi như Ngài đối xử với cỏ; Ngài sẽ làm tôi tươi mát từ trên cao. Cỏ không thể kêu xin sương như tôi. Chắc chắn, Chúa là Đấng thăm viếng cây cỏ không biết cầu nguyện sẽ đáp lời đứa con biết nài xin của Ngài.</p></div>
+    <div class="dev-body dropcap"><p>Sương ở phương Đông đối với thế giới thiên nhiên là gì, thì ảnh hưởng của Thánh Linh đối với cõi ân điển là thế. Tôi cần điều đó biết bao! Không có Thánh Linh của Đức Chúa Trời, tôi là một vật khô héo. Tôi rũ xuống, tôi tàn úa, tôi chết. Sương này làm tôi tươi mát ngọt ngào biết bao! Khi một lần được hưởng nó, tôi cảm thấy hạnh phúc, sống động, mạnh mẽ, được nâng lên. Tôi không cần gì hơn. Đức Thánh Linh mang đến cho tôi sự sống, và mọi điều sự sống cần. Mọi điều khác không có sương của Thánh Linh đều kém hơn hư không đối với tôi: tôi nghe, tôi đọc, tôi cầu nguyện, tôi hát, tôi đến bàn tiệc thánh, và tôi không tìm thấy phước lành nào ở đó cho đến khi Đức Thánh Linh thăm viếng tôi. Nhưng khi Ngài tưới sương trên tôi, mọi phương tiện của ân điển đều ngọt ngào và ích lợi.</p><p>Lời hứa này cho tôi thật lớn lao biết bao! &quot;Các tầng trời của Ngài sẽ nhỏ sương xuống.&quot; Tôi sẽ được thăm viếng bằng ân điển. Tôi sẽ không bị bỏ lại cho sự khô hạn tự nhiên của mình, hay cho cái nóng thiêu đốt của thế gian, hay cho cơn gió si-rô-cô của sự cám dỗ của Sa-tan. Ôi, ước gì ngay giờ này tôi cảm nhận được sương dịu dàng, lặng lẽ, thấm đẫm của Chúa! Tại sao lại không? Đấng đã làm cho tôi sống như cỏ sống trong đồng cỏ, sẽ đối xử với tôi như Ngài đối xử với cỏ; Ngài sẽ làm tôi tươi mát từ trên cao. Cỏ không thể kêu xin sương như tôi. Chắc chắn, Chúa là Đấng thăm viếng cây cỏ không biết cầu nguyện sẽ đáp lời đứa con biết nài xin của Ngài.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

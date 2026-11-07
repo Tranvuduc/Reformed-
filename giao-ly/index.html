@@ -466,6 +466,24 @@
       .quiz-opt { display: block; width: 100%; text-align: left; margin: 8px 0; padding: 13px 16px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font: inherit; font-size: 15.5px; cursor: pointer; }
       .quiz-opt.correct { border-color: var(--green); background: color-mix(in srgb, var(--green) 12%, transparent); }
       .quiz-opt.wrong { border-color: var(--burgundy); background: color-mix(in srgb, var(--burgundy) 10%, transparent); }
+      /* ---------- design pass 2026-11: title band + index bands ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.3; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; vertical-align: 2px; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .cat-band { max-width: 860px; margin: 28px auto 0; }
+      .cat-band-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; border-bottom: 2px solid var(--gold-soft); padding-bottom: 6px; margin-bottom: 12px; }
+      .cat-band-head h3 { font-family: "Playfair Display", serif; font-size: 21px; margin: 0; }
+      .cat-band-head .rng { color: var(--gold-text); font-weight: 700; font-size: 13px; letter-spacing: .05em; }
+      .cat-index a.qrow { display: flex; gap: 12px; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 11px 14px; box-shadow: var(--shadow); }
+      .cat-index a.qrow:hover { border-color: var(--burgundy); text-decoration: none; color: var(--ink); }
+      .cat-index .n { flex: 0 0 auto; background: var(--burgundy); color: #fdf6e9; font-weight: 700; font-size: 13.5px; border-radius: 999px; min-width: 34px; text-align: center; padding: 2px 8px; margin: 1px 0 0; }
 </style>
 </head>
 <body id="top">
@@ -513,115 +531,121 @@
   </div>
   <div class="share-row"><a class="btn solid" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https://reformed-vietnam.vercel.app/giao-ly/">Chia sẻ Facebook</a><a class="btn" target="_blank" rel="noopener" href="https://sp.zalo.me/share_inline?url=https://reformed-vietnam.vercel.app/giao-ly/">Chia sẻ Zalo</a></div>
   <h2 style="font-family:'Playfair Display',serif;text-align:center;margin-top:26px">Mục lục trọn 107 câu</h2>
-  <ol class="cat-index" style="list-style:none;padding:0">
-<li><span class="n">1.</span><a href="/giao-ly/cau-1.html">Mục đích chính của đời người là gì?</a></li>
-<li><span class="n">2.</span><a href="/giao-ly/cau-2.html">Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta cách tôn vinh và vui hưởng Ngài?</a></li>
-<li><span class="n">3.</span><a href="/giao-ly/cau-3.html">Kinh Thánh chủ yếu dạy điều gì?</a></li>
-<li><span class="n">4.</span><a href="/giao-ly/cau-4.html">Đức Chúa Trời là Đấng như thế nào?</a></li>
-<li><span class="n">5.</span><a href="/giao-ly/cau-5.html">Có nhiều hơn một Đức Chúa Trời không?</a></li>
-<li><span class="n">6.</span><a href="/giao-ly/cau-6.html">Trong thần tính có mấy ngôi?</a></li>
-<li><span class="n">7.</span><a href="/giao-ly/cau-7.html">Sắc lệnh của Đức Chúa Trời là gì?</a></li>
-<li><span class="n">8.</span><a href="/giao-ly/cau-8.html">Đức Chúa Trời thi hành sắc lệnh của Ngài bằng cách nào?</a></li>
-<li><span class="n">9.</span><a href="/giao-ly/cau-9.html">Công cuộc sáng tạo là gì?</a></li>
-<li><span class="n">10.</span><a href="/giao-ly/cau-10.html">Đức Chúa Trời đã dựng nên con người như thế nào?</a></li>
-<li><span class="n">11.</span><a href="/giao-ly/cau-11.html">Công việc quan phòng của Đức Chúa Trời là gì?</a></li>
-<li><span class="n">12.</span><a href="/giao-ly/cau-12.html">Đức Chúa Trời đã có hành động quan phòng đặc biệt nào đối với con người trong tình trạng lúc được dựng nên?</a></li>
-<li><span class="n">13.</span><a href="/giao-ly/cau-13.html">Tổ phụ đầu tiên của chúng ta có giữ được tình trạng lúc được dựng nên không?</a></li>
-<li><span class="n">14.</span><a href="/giao-ly/cau-14.html">Tội lỗi là gì?</a></li>
-<li><span class="n">15.</span><a href="/giao-ly/cau-15.html">Tội lỗi nào đã khiến tổ phụ đầu tiên sa ngã khỏi tình trạng lúc được dựng nên?</a></li>
-<li><span class="n">16.</span><a href="/giao-ly/cau-16.html">Cả nhân loại có sa ngã trong lần vi phạm đầu tiên của A-đam không?</a></li>
-<li><span class="n">17.</span><a href="/giao-ly/cau-17.html">Sự sa ngã đã đưa nhân loại vào tình trạng nào?</a></li>
-<li><span class="n">18.</span><a href="/giao-ly/cau-18.html">Tính chất tội lỗi của tình trạng con người sa ngã gồm những gì?</a></li>
-<li><span class="n">19.</span><a href="/giao-ly/cau-19.html">Sự khốn khổ của tình trạng con người sa ngã là gì?</a></li>
-<li><span class="n">20.</span><a href="/giao-ly/cau-20.html">Đức Chúa Trời có bỏ mặc cả nhân loại hư mất trong tình trạng tội lỗi và khốn khổ không?</a></li>
-<li><span class="n">21.</span><a href="/giao-ly/cau-21.html">Đấng Cứu Chuộc của những người được Đức Chúa Trời tuyển chọn là ai?</a></li>
-<li><span class="n">22.</span><a href="/giao-ly/cau-22.html">Đấng Christ, là Con Đức Chúa Trời, đã trở nên người như thế nào?</a></li>
-<li><span class="n">23.</span><a href="/giao-ly/cau-23.html">Đấng Christ thi hành những chức vụ nào với tư cách là Đấng Cứu Chuộc của chúng ta?</a></li>
-<li><span class="n">24.</span><a href="/giao-ly/cau-24.html">Đấng Christ thi hành chức vụ tiên tri như thế nào?</a></li>
-<li><span class="n">25.</span><a href="/giao-ly/cau-25.html">Đấng Christ thi hành chức vụ thầy tế lễ như thế nào?</a></li>
-<li><span class="n">26.</span><a href="/giao-ly/cau-26.html">Đấng Christ thi hành chức vụ vua như thế nào?</a></li>
-<li><span class="n">27.</span><a href="/giao-ly/cau-27.html">Sự hạ mình của Đấng Christ gồm những gì?</a></li>
-<li><span class="n">28.</span><a href="/giao-ly/cau-28.html">Sự tôn cao của Đấng Christ gồm những gì?</a></li>
-<li><span class="n">29.</span><a href="/giao-ly/cau-29.html">Chúng ta được dự phần vào sự cứu chuộc mà Đấng Christ đã mua bằng cách nào?</a></li>
-<li><span class="n">30.</span><a href="/giao-ly/cau-30.html">Đức Thánh Linh áp dụng cho chúng ta sự cứu chuộc mà Đấng Christ đã mua bằng cách nào?</a></li>
-<li><span class="n">31.</span><a href="/giao-ly/cau-31.html">Sự kêu gọi hiệu quả là gì?</a></li>
-<li><span class="n">32.</span><a href="/giao-ly/cau-32.html">Những người được kêu gọi cách hiệu quả được dự phần những ích lợi nào trong đời này?</a></li>
-<li><span class="n">33.</span><a href="/giao-ly/cau-33.html">Sự xưng công chính là gì?</a></li>
-<li><span class="n">34.</span><a href="/giao-ly/cau-34.html">Sự làm con nuôi là gì?</a></li>
-<li><span class="n">35.</span><a href="/giao-ly/cau-35.html">Sự nên thánh là gì?</a></li>
-<li><span class="n">36.</span><a href="/giao-ly/cau-36.html">Những ích lợi nào trong đời này đi kèm hoặc phát sinh từ sự xưng công chính, sự làm con nuôi và sự nên thánh?</a></li>
-<li><span class="n">37.</span><a href="/giao-ly/cau-37.html">Tín hữu nhận được những ích lợi nào từ Đấng Christ lúc qua đời?</a></li>
-<li><span class="n">38.</span><a href="/giao-ly/cau-38.html">Tín hữu nhận được những ích lợi nào từ Đấng Christ trong ngày sống lại?</a></li>
-<li><span class="n">39.</span><a href="/giao-ly/cau-39.html">Bổn phận mà Đức Chúa Trời đòi hỏi nơi con người là gì?</a></li>
-<li><span class="n">40.</span><a href="/giao-ly/cau-40.html">Ban đầu Đức Chúa Trời đã bày tỏ điều gì cho con người làm quy tắc vâng lời?</a></li>
-<li><span class="n">41.</span><a href="/giao-ly/cau-41.html">Luật pháp đạo đức được tóm tắt ở đâu?</a></li>
-<li><span class="n">42.</span><a href="/giao-ly/cau-42.html">Nội dung tóm tắt của Mười Điều Răn là gì?</a></li>
-<li><span class="n">43.</span><a href="/giao-ly/cau-43.html">Lời mở đầu của Mười Điều Răn là gì?</a></li>
-<li><span class="n">44.</span><a href="/giao-ly/cau-44.html">Lời mở đầu của Mười Điều Răn dạy chúng ta điều gì?</a></li>
-<li><span class="n">45.</span><a href="/giao-ly/cau-45.html">Điều răn thứ nhất là gì?</a></li>
-<li><span class="n">46.</span><a href="/giao-ly/cau-46.html">Điều răn thứ nhất đòi hỏi điều gì?</a></li>
-<li><span class="n">47.</span><a href="/giao-ly/cau-47.html">Điều răn thứ nhất cấm điều gì?</a></li>
-<li><span class="n">48.</span><a href="/giao-ly/cau-48.html">Cụm từ “trước mặt Ta” trong điều răn thứ nhất dạy chúng ta điều gì đặc biệt?</a></li>
-<li><span class="n">49.</span><a href="/giao-ly/cau-49.html">Điều răn thứ hai là gì?</a></li>
-<li><span class="n">50.</span><a href="/giao-ly/cau-50.html">Điều răn thứ hai đòi hỏi điều gì?</a></li>
-<li><span class="n">51.</span><a href="/giao-ly/cau-51.html">Điều răn thứ hai cấm điều gì?</a></li>
-<li><span class="n">52.</span><a href="/giao-ly/cau-52.html">Những lý do kèm theo điều răn thứ hai là gì?</a></li>
-<li><span class="n">53.</span><a href="/giao-ly/cau-53.html">Điều răn thứ ba là gì?</a></li>
-<li><span class="n">54.</span><a href="/giao-ly/cau-54.html">Điều răn thứ ba đòi hỏi điều gì?</a></li>
-<li><span class="n">55.</span><a href="/giao-ly/cau-55.html">Điều răn thứ ba cấm điều gì?</a></li>
-<li><span class="n">56.</span><a href="/giao-ly/cau-56.html">Lý do kèm theo điều răn thứ ba là gì?</a></li>
-<li><span class="n">57.</span><a href="/giao-ly/cau-57.html">Điều răn thứ tư là gì?</a></li>
-<li><span class="n">58.</span><a href="/giao-ly/cau-58.html">Điều răn thứ tư đòi hỏi điều gì?</a></li>
-<li><span class="n">59.</span><a href="/giao-ly/cau-59.html">Đức Chúa Trời đã định ngày nào trong bảy ngày làm ngày sa-bát hằng tuần?</a></li>
-<li><span class="n">60.</span><a href="/giao-ly/cau-60.html">Phải thánh hóa ngày sa-bát như thế nào?</a></li>
-<li><span class="n">61.</span><a href="/giao-ly/cau-61.html">Điều răn thứ tư cấm điều gì?</a></li>
-<li><span class="n">62.</span><a href="/giao-ly/cau-62.html">Những lý do kèm theo điều răn thứ tư là gì?</a></li>
-<li><span class="n">63.</span><a href="/giao-ly/cau-63.html">Điều răn thứ năm là gì?</a></li>
-<li><span class="n">64.</span><a href="/giao-ly/cau-64.html">Điều răn thứ năm đòi hỏi điều gì?</a></li>
-<li><span class="n">65.</span><a href="/giao-ly/cau-65.html">Điều răn thứ năm cấm điều gì?</a></li>
-<li><span class="n">66.</span><a href="/giao-ly/cau-66.html">Lý do kèm theo điều răn thứ năm là gì?</a></li>
-<li><span class="n">67.</span><a href="/giao-ly/cau-67.html">Điều răn thứ sáu là gì?</a></li>
-<li><span class="n">68.</span><a href="/giao-ly/cau-68.html">Điều răn thứ sáu đòi hỏi điều gì?</a></li>
-<li><span class="n">69.</span><a href="/giao-ly/cau-69.html">Điều răn thứ sáu cấm điều gì?</a></li>
-<li><span class="n">70.</span><a href="/giao-ly/cau-70.html">Điều răn thứ bảy là gì?</a></li>
-<li><span class="n">71.</span><a href="/giao-ly/cau-71.html">Điều răn thứ bảy đòi hỏi điều gì?</a></li>
-<li><span class="n">72.</span><a href="/giao-ly/cau-72.html">Điều răn thứ bảy cấm điều gì?</a></li>
-<li><span class="n">73.</span><a href="/giao-ly/cau-73.html">Điều răn thứ tám là gì?</a></li>
-<li><span class="n">74.</span><a href="/giao-ly/cau-74.html">Điều răn thứ tám đòi hỏi điều gì?</a></li>
-<li><span class="n">75.</span><a href="/giao-ly/cau-75.html">Điều răn thứ tám cấm điều gì?</a></li>
-<li><span class="n">76.</span><a href="/giao-ly/cau-76.html">Điều răn thứ chín là gì?</a></li>
-<li><span class="n">77.</span><a href="/giao-ly/cau-77.html">Điều răn thứ chín đòi hỏi điều gì?</a></li>
-<li><span class="n">78.</span><a href="/giao-ly/cau-78.html">Điều răn thứ chín cấm điều gì?</a></li>
-<li><span class="n">79.</span><a href="/giao-ly/cau-79.html">Điều răn thứ mười là gì?</a></li>
-<li><span class="n">80.</span><a href="/giao-ly/cau-80.html">Điều răn thứ mười đòi hỏi điều gì?</a></li>
-<li><span class="n">81.</span><a href="/giao-ly/cau-81.html">Điều răn thứ mười cấm điều gì?</a></li>
-<li><span class="n">82.</span><a href="/giao-ly/cau-82.html">Có ai giữ trọn các điều răn của Đức Chúa Trời được không?</a></li>
-<li><span class="n">83.</span><a href="/giao-ly/cau-83.html">Mọi vi phạm luật pháp đều ghê tởm như nhau sao?</a></li>
-<li><span class="n">84.</span><a href="/giao-ly/cau-84.html">Mỗi tội lỗi đáng chịu gì?</a></li>
-<li><span class="n">85.</span><a href="/giao-ly/cau-85.html">Đức Chúa Trời đòi hỏi chúng ta điều gì để thoát khỏi cơn thịnh nộ và sự rủa sả đáng chịu vì tội lỗi?</a></li>
-<li><span class="n">86.</span><a href="/giao-ly/cau-86.html">Đức tin nơi Chúa Giê-xu Christ là gì?</a></li>
-<li><span class="n">87.</span><a href="/giao-ly/cau-87.html">Sự ăn năn để được sống là gì?</a></li>
-<li><span class="n">88.</span><a href="/giao-ly/cau-88.html">Các phương tiện bên ngoài và thông thường mà qua đó Đấng Christ ban cho chúng ta các ích lợi của sự cứu chuộc là gì?</a></li>
-<li><span class="n">89.</span><a href="/giao-ly/cau-89.html">Lời Chúa trở nên hiệu quả cho sự cứu rỗi bằng cách nào?</a></li>
-<li><span class="n">90.</span><a href="/giao-ly/cau-90.html">Phải đọc và nghe Lời Chúa như thế nào để Lời trở nên hiệu quả cho sự cứu rỗi?</a></li>
-<li><span class="n">91.</span><a href="/giao-ly/cau-91.html">Các thánh lễ trở nên phương tiện hiệu quả của sự cứu rỗi bằng cách nào?</a></li>
-<li><span class="n">92.</span><a href="/giao-ly/cau-92.html">Thánh lễ là gì?</a></li>
-<li><span class="n">93.</span><a href="/giao-ly/cau-93.html">Các thánh lễ của Tân Ước là gì?</a></li>
-<li><span class="n">94.</span><a href="/giao-ly/cau-94.html">Báp-têm là gì?</a></li>
-<li><span class="n">95.</span><a href="/giao-ly/cau-95.html">Báp-têm được ban cho ai?</a></li>
-<li><span class="n">96.</span><a href="/giao-ly/cau-96.html">Tiệc Thánh của Chúa là gì?</a></li>
-<li><span class="n">97.</span><a href="/giao-ly/cau-97.html">Điều gì được đòi hỏi để dự Tiệc Thánh của Chúa cách xứng đáng?</a></li>
-<li><span class="n">98.</span><a href="/giao-ly/cau-98.html">Cầu nguyện là gì?</a></li>
-<li><span class="n">99.</span><a href="/giao-ly/cau-99.html">Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta trong sự cầu nguyện?</a></li>
-<li><span class="n">100.</span><a href="/giao-ly/cau-100.html">Lời mở đầu của Bài Cầu Nguyện của Chúa dạy chúng ta điều gì?</a></li>
-<li><span class="n">101.</span><a href="/giao-ly/cau-101.html">Trong lời cầu xin thứ nhất chúng ta cầu xin điều gì?</a></li>
-<li><span class="n">102.</span><a href="/giao-ly/cau-102.html">Trong lời cầu xin thứ hai chúng ta cầu xin điều gì?</a></li>
-<li><span class="n">103.</span><a href="/giao-ly/cau-103.html">Trong lời cầu xin thứ ba chúng ta cầu xin điều gì?</a></li>
-<li><span class="n">104.</span><a href="/giao-ly/cau-104.html">Trong lời cầu xin thứ tư chúng ta cầu xin điều gì?</a></li>
-<li><span class="n">105.</span><a href="/giao-ly/cau-105.html">Trong lời cầu xin thứ năm chúng ta cầu xin điều gì?</a></li>
-<li><span class="n">106.</span><a href="/giao-ly/cau-106.html">Trong lời cầu xin thứ sáu chúng ta cầu xin điều gì?</a></li>
-<li><span class="n">107.</span><a href="/giao-ly/cau-107.html">Lời kết của Bài Cầu Nguyện của Chúa dạy chúng ta điều gì?</a></li>
-  </ol>
+<section class="cat-band"><div class="cat-band-head"><h3>Mở đầu — Mục đích của con người và Kinh Thánh</h3><span class="rng">Câu 1–3</span></div><ol class="cat-index" style="list-style:none;padding:0">
+<li><a class="qrow" href="/giao-ly/cau-1.html"><span class="n">1</span><span>Mục đích chính của đời người là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-2.html"><span class="n">2</span><span>Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta cách tôn vinh và vui hưởng Ngài?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-3.html"><span class="n">3</span><span>Kinh Thánh chủ yếu dạy điều gì?</span></a></li>
+</ol></section>
+<section class="cat-band"><div class="cat-band-head"><h3>Điều phải tin về Đức Chúa Trời</h3><span class="rng">Câu 4–38</span></div><ol class="cat-index" style="list-style:none;padding:0">
+<li><a class="qrow" href="/giao-ly/cau-4.html"><span class="n">4</span><span>Đức Chúa Trời là Đấng như thế nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-5.html"><span class="n">5</span><span>Có nhiều hơn một Đức Chúa Trời không?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-6.html"><span class="n">6</span><span>Trong thần tính có mấy ngôi?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-7.html"><span class="n">7</span><span>Sắc lệnh của Đức Chúa Trời là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-8.html"><span class="n">8</span><span>Đức Chúa Trời thi hành sắc lệnh của Ngài bằng cách nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-9.html"><span class="n">9</span><span>Công cuộc sáng tạo là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-10.html"><span class="n">10</span><span>Đức Chúa Trời đã dựng nên con người như thế nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-11.html"><span class="n">11</span><span>Công việc quan phòng của Đức Chúa Trời là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-12.html"><span class="n">12</span><span>Đức Chúa Trời đã có hành động quan phòng đặc biệt nào đối với con người trong tình trạng lúc được dựng nên?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-13.html"><span class="n">13</span><span>Tổ phụ đầu tiên của chúng ta có giữ được tình trạng lúc được dựng nên không?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-14.html"><span class="n">14</span><span>Tội lỗi là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-15.html"><span class="n">15</span><span>Tội lỗi nào đã khiến tổ phụ đầu tiên sa ngã khỏi tình trạng lúc được dựng nên?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-16.html"><span class="n">16</span><span>Cả nhân loại có sa ngã trong lần vi phạm đầu tiên của A-đam không?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-17.html"><span class="n">17</span><span>Sự sa ngã đã đưa nhân loại vào tình trạng nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-18.html"><span class="n">18</span><span>Tính chất tội lỗi của tình trạng con người sa ngã gồm những gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-19.html"><span class="n">19</span><span>Sự khốn khổ của tình trạng con người sa ngã là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-20.html"><span class="n">20</span><span>Đức Chúa Trời có bỏ mặc cả nhân loại hư mất trong tình trạng tội lỗi và khốn khổ không?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-21.html"><span class="n">21</span><span>Đấng Cứu Chuộc của những người được Đức Chúa Trời tuyển chọn là ai?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-22.html"><span class="n">22</span><span>Đấng Christ, là Con Đức Chúa Trời, đã trở nên người như thế nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-23.html"><span class="n">23</span><span>Đấng Christ thi hành những chức vụ nào với tư cách là Đấng Cứu Chuộc của chúng ta?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-24.html"><span class="n">24</span><span>Đấng Christ thi hành chức vụ tiên tri như thế nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-25.html"><span class="n">25</span><span>Đấng Christ thi hành chức vụ thầy tế lễ như thế nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-26.html"><span class="n">26</span><span>Đấng Christ thi hành chức vụ vua như thế nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-27.html"><span class="n">27</span><span>Sự hạ mình của Đấng Christ gồm những gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-28.html"><span class="n">28</span><span>Sự tôn cao của Đấng Christ gồm những gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-29.html"><span class="n">29</span><span>Chúng ta được dự phần vào sự cứu chuộc mà Đấng Christ đã mua bằng cách nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-30.html"><span class="n">30</span><span>Đức Thánh Linh áp dụng cho chúng ta sự cứu chuộc mà Đấng Christ đã mua bằng cách nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-31.html"><span class="n">31</span><span>Sự kêu gọi hiệu quả là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-32.html"><span class="n">32</span><span>Những người được kêu gọi cách hiệu quả được dự phần những ích lợi nào trong đời này?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-33.html"><span class="n">33</span><span>Sự xưng công chính là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-34.html"><span class="n">34</span><span>Sự làm con nuôi là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-35.html"><span class="n">35</span><span>Sự nên thánh là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-36.html"><span class="n">36</span><span>Những ích lợi nào trong đời này đi kèm hoặc phát sinh từ sự xưng công chính, sự làm con nuôi và sự nên thánh?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-37.html"><span class="n">37</span><span>Tín hữu nhận được những ích lợi nào từ Đấng Christ lúc qua đời?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-38.html"><span class="n">38</span><span>Tín hữu nhận được những ích lợi nào từ Đấng Christ trong ngày sống lại?</span></a></li>
+</ol></section>
+<section class="cat-band"><div class="cat-band-head"><h3>Bổn phận Đức Chúa Trời đòi hỏi — Luật pháp và Mười Điều Răn</h3><span class="rng">Câu 39–84</span></div><ol class="cat-index" style="list-style:none;padding:0">
+<li><a class="qrow" href="/giao-ly/cau-39.html"><span class="n">39</span><span>Bổn phận mà Đức Chúa Trời đòi hỏi nơi con người là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-40.html"><span class="n">40</span><span>Ban đầu Đức Chúa Trời đã bày tỏ điều gì cho con người làm quy tắc vâng lời?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-41.html"><span class="n">41</span><span>Luật pháp đạo đức được tóm tắt ở đâu?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-42.html"><span class="n">42</span><span>Nội dung tóm tắt của Mười Điều Răn là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-43.html"><span class="n">43</span><span>Lời mở đầu của Mười Điều Răn là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-44.html"><span class="n">44</span><span>Lời mở đầu của Mười Điều Răn dạy chúng ta điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-45.html"><span class="n">45</span><span>Điều răn thứ nhất là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-46.html"><span class="n">46</span><span>Điều răn thứ nhất đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-47.html"><span class="n">47</span><span>Điều răn thứ nhất cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-48.html"><span class="n">48</span><span>Cụm từ “trước mặt Ta” trong điều răn thứ nhất dạy chúng ta điều gì đặc biệt?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-49.html"><span class="n">49</span><span>Điều răn thứ hai là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-50.html"><span class="n">50</span><span>Điều răn thứ hai đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-51.html"><span class="n">51</span><span>Điều răn thứ hai cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-52.html"><span class="n">52</span><span>Những lý do kèm theo điều răn thứ hai là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-53.html"><span class="n">53</span><span>Điều răn thứ ba là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-54.html"><span class="n">54</span><span>Điều răn thứ ba đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-55.html"><span class="n">55</span><span>Điều răn thứ ba cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-56.html"><span class="n">56</span><span>Lý do kèm theo điều răn thứ ba là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-57.html"><span class="n">57</span><span>Điều răn thứ tư là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-58.html"><span class="n">58</span><span>Điều răn thứ tư đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-59.html"><span class="n">59</span><span>Đức Chúa Trời đã định ngày nào trong bảy ngày làm ngày sa-bát hằng tuần?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-60.html"><span class="n">60</span><span>Phải thánh hóa ngày sa-bát như thế nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-61.html"><span class="n">61</span><span>Điều răn thứ tư cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-62.html"><span class="n">62</span><span>Những lý do kèm theo điều răn thứ tư là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-63.html"><span class="n">63</span><span>Điều răn thứ năm là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-64.html"><span class="n">64</span><span>Điều răn thứ năm đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-65.html"><span class="n">65</span><span>Điều răn thứ năm cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-66.html"><span class="n">66</span><span>Lý do kèm theo điều răn thứ năm là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-67.html"><span class="n">67</span><span>Điều răn thứ sáu là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-68.html"><span class="n">68</span><span>Điều răn thứ sáu đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-69.html"><span class="n">69</span><span>Điều răn thứ sáu cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-70.html"><span class="n">70</span><span>Điều răn thứ bảy là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-71.html"><span class="n">71</span><span>Điều răn thứ bảy đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-72.html"><span class="n">72</span><span>Điều răn thứ bảy cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-73.html"><span class="n">73</span><span>Điều răn thứ tám là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-74.html"><span class="n">74</span><span>Điều răn thứ tám đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-75.html"><span class="n">75</span><span>Điều răn thứ tám cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-76.html"><span class="n">76</span><span>Điều răn thứ chín là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-77.html"><span class="n">77</span><span>Điều răn thứ chín đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-78.html"><span class="n">78</span><span>Điều răn thứ chín cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-79.html"><span class="n">79</span><span>Điều răn thứ mười là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-80.html"><span class="n">80</span><span>Điều răn thứ mười đòi hỏi điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-81.html"><span class="n">81</span><span>Điều răn thứ mười cấm điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-82.html"><span class="n">82</span><span>Có ai giữ trọn các điều răn của Đức Chúa Trời được không?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-83.html"><span class="n">83</span><span>Mọi vi phạm luật pháp đều ghê tởm như nhau sao?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-84.html"><span class="n">84</span><span>Mỗi tội lỗi đáng chịu gì?</span></a></li>
+</ol></section>
+<section class="cat-band"><div class="cat-band-head"><h3>Các phương tiện ân điển</h3><span class="rng">Câu 85–107</span></div><ol class="cat-index" style="list-style:none;padding:0">
+<li><a class="qrow" href="/giao-ly/cau-85.html"><span class="n">85</span><span>Đức Chúa Trời đòi hỏi chúng ta điều gì để thoát khỏi cơn thịnh nộ và sự rủa sả đáng chịu vì tội lỗi?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-86.html"><span class="n">86</span><span>Đức tin nơi Chúa Giê-xu Christ là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-87.html"><span class="n">87</span><span>Sự ăn năn để được sống là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-88.html"><span class="n">88</span><span>Các phương tiện bên ngoài và thông thường mà qua đó Đấng Christ ban cho chúng ta các ích lợi của sự cứu chuộc là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-89.html"><span class="n">89</span><span>Lời Chúa trở nên hiệu quả cho sự cứu rỗi bằng cách nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-90.html"><span class="n">90</span><span>Phải đọc và nghe Lời Chúa như thế nào để Lời trở nên hiệu quả cho sự cứu rỗi?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-91.html"><span class="n">91</span><span>Các thánh lễ trở nên phương tiện hiệu quả của sự cứu rỗi bằng cách nào?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-92.html"><span class="n">92</span><span>Thánh lễ là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-93.html"><span class="n">93</span><span>Các thánh lễ của Tân Ước là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-94.html"><span class="n">94</span><span>Báp-têm là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-95.html"><span class="n">95</span><span>Báp-têm được ban cho ai?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-96.html"><span class="n">96</span><span>Tiệc Thánh của Chúa là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-97.html"><span class="n">97</span><span>Điều gì được đòi hỏi để dự Tiệc Thánh của Chúa cách xứng đáng?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-98.html"><span class="n">98</span><span>Cầu nguyện là gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-99.html"><span class="n">99</span><span>Đức Chúa Trời đã ban quy tắc nào để hướng dẫn chúng ta trong sự cầu nguyện?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-100.html"><span class="n">100</span><span>Lời mở đầu của Bài Cầu Nguyện của Chúa dạy chúng ta điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-101.html"><span class="n">101</span><span>Trong lời cầu xin thứ nhất chúng ta cầu xin điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-102.html"><span class="n">102</span><span>Trong lời cầu xin thứ hai chúng ta cầu xin điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-103.html"><span class="n">103</span><span>Trong lời cầu xin thứ ba chúng ta cầu xin điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-104.html"><span class="n">104</span><span>Trong lời cầu xin thứ tư chúng ta cầu xin điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-105.html"><span class="n">105</span><span>Trong lời cầu xin thứ năm chúng ta cầu xin điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-106.html"><span class="n">106</span><span>Trong lời cầu xin thứ sáu chúng ta cầu xin điều gì?</span></a></li>
+<li><a class="qrow" href="/giao-ly/cau-107.html"><span class="n">107</span><span>Lời kết của Bài Cầu Nguyện của Chúa dạy chúng ta điều gì?</span></a></li>
+</ol></section>
   <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin-bottom:34px">Nguồn bản dịch: Kinh Thánh Mỗi Ngày — Westminster Shorter Catechism (1647), thuộc phạm vi công cộng.</p>
 </main>
 <footer class="site">

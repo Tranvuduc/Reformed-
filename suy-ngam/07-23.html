@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 23 tháng 7</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Hoàn Toàn Không Nhớ Đến</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 23 tháng 7 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">23</span><span class="m-small">tháng 7</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Hoàn Toàn Không Nhớ Đến</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 23 tháng 7 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Ta sẽ không còn nhớ đến tội lỗi và gian ác của chúng nữa.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Ta sẽ không còn nhớ đến tội lỗi và gian ác của chúng nữa.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/heb/10.html#v17" style="color:inherit">Hê-bơ-rơ 10:17</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Nhờ giao ước ân điển, Đức Chúa Trời không còn nhớ tội lỗi và đón nhận chúng ta như con cái.</p>
-    <div class="dev-body"><p>Theo giao ước đầy ân điển này, Chúa đối xử với dân Ngài như thể họ chưa từng phạm tội. Thực tế, Ngài quên mọi vi phạm của họ. Mọi loại tội Ngài đối xử như thể chúng chưa từng có; như thể chúng hoàn toàn bị xóa khỏi ký ức Ngài. Ôi phép lạ của ân điển! Đức Chúa Trời ở đây làm điều mà về một số phương diện Ngài không thể làm. Lòng thương xót Ngài làm những phép lạ vượt xa mọi phép lạ khác.</p><p>Đức Chúa Trời chúng ta giờ đây bỏ qua tội lỗi chúng ta vì của lễ của Chúa Giê-xu đã phê chuẩn giao ước. Chúng ta có thể vui mừng trong Ngài mà không sợ Ngài sẽ nổi giận với chúng ta vì các gian ác chúng ta. Hãy xem! Ngài đặt chúng ta giữa vòng con cái; Ngài chấp nhận chúng ta là công chính; Ngài vui thích trong chúng ta như thể chúng ta hoàn toàn thánh khiết. Ngài còn đặt chúng ta vào những chỗ tin cậy; làm chúng ta thành người giữ gìn danh dự Ngài, người quản lý châu báu vương miện, quản gia của Phúc Âm. Ngài kể chúng ta xứng đáng, và ban cho chúng ta chức vụ; đây là bằng chứng cao nhất và đặc biệt nhất rằng Ngài không nhớ tội lỗi chúng ta. Ngay khi chúng ta tha thứ kẻ thù, chúng ta rất chậm tin cậy hắn; chúng ta cho rằng làm vậy là thiếu khôn ngoan. Nhưng Chúa quên tội lỗi chúng ta, và đối xử với chúng ta như thể chúng ta chưa từng sai phạm. Hỡi linh hồn ta, lời hứa này biết bao! Hãy tin nó và hãy vui mừng.</p></div>
+    <div class="dev-body dropcap"><p>Theo giao ước đầy ân điển này, Chúa đối xử với dân Ngài như thể họ chưa từng phạm tội. Thực tế, Ngài quên mọi vi phạm của họ. Mọi loại tội Ngài đối xử như thể chúng chưa từng có; như thể chúng hoàn toàn bị xóa khỏi ký ức Ngài. Ôi phép lạ của ân điển! Đức Chúa Trời ở đây làm điều mà về một số phương diện Ngài không thể làm. Lòng thương xót Ngài làm những phép lạ vượt xa mọi phép lạ khác.</p><p>Đức Chúa Trời chúng ta giờ đây bỏ qua tội lỗi chúng ta vì của lễ của Chúa Giê-xu đã phê chuẩn giao ước. Chúng ta có thể vui mừng trong Ngài mà không sợ Ngài sẽ nổi giận với chúng ta vì các gian ác chúng ta. Hãy xem! Ngài đặt chúng ta giữa vòng con cái; Ngài chấp nhận chúng ta là công chính; Ngài vui thích trong chúng ta như thể chúng ta hoàn toàn thánh khiết. Ngài còn đặt chúng ta vào những chỗ tin cậy; làm chúng ta thành người giữ gìn danh dự Ngài, người quản lý châu báu vương miện, quản gia của Phúc Âm. Ngài kể chúng ta xứng đáng, và ban cho chúng ta chức vụ; đây là bằng chứng cao nhất và đặc biệt nhất rằng Ngài không nhớ tội lỗi chúng ta. Ngay khi chúng ta tha thứ kẻ thù, chúng ta rất chậm tin cậy hắn; chúng ta cho rằng làm vậy là thiếu khôn ngoan. Nhưng Chúa quên tội lỗi chúng ta, và đối xử với chúng ta như thể chúng ta chưa từng sai phạm. Hỡi linh hồn ta, lời hứa này biết bao! Hãy tin nó và hãy vui mừng.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

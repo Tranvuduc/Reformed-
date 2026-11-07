@@ -457,6 +457,25 @@
       .qa-card h3 { font-family: "Noto Serif", serif; font-size: 18.5px; margin: 0 0 6px; color: var(--ink); line-height: 1.45; }
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .qa-card:hover h3 { color: var(--burgundy); }
+      /* ---------- design pass 2026-11: title band / masthead / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label, .masthead .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 27px; font-weight: 700; line-height: 1; letter-spacing: .04em; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 22px; } }
+      @media (prefers-color-scheme: dark) { .title-band, .masthead { background: linear-gradient(120deg, #241611, #571d22); } }
+      .masthead { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 30px 28px; text-align: center; }
+      .masthead .kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .masthead h1 { font-family: "Playfair Display", serif; font-size: clamp(28px, 5vw, 42px); margin: 8px 0 10px; color: #fdf6e9; }
+      .masthead p { color: #efdfc2; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.55; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 22px 0; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .qa-card.featured { border-left: 5px solid var(--burgundy); background: color-mix(in srgb, var(--burgundy) 5%, var(--surface)); }
+      .qa-card.featured h3 { font-size: 21px; }
 </style>
 </head>
 <body id="top">
@@ -485,13 +504,13 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · Tạp Chí</p>
-  <div class="cat-head">
+  <div class="masthead">
     <div class="kicker">Tạp Chí Cải Chánh</div>
     <h1>Đọc Sâu, Nghĩ Sâu</h1>
-    <p style="color:var(--ink-soft);max-width:640px;margin:0 auto">Tạp chí trích đăng những chương tiêu biểu nhất từ các tác phẩm kinh điển đã có trong thư viện — Spurgeon, Pink, Ryle và nhiều tác giả khác — kèm lời giới thiệu ngắn để bạn đọc có bối cảnh trước khi vào bài. Mỗi bài đều ghi rõ nguồn và tình trạng duyệt.</p>
+    <p style="max-width:640px;margin:0 auto">Tạp chí trích đăng những chương tiêu biểu nhất từ các tác phẩm kinh điển đã có trong thư viện — Spurgeon, Pink, Ryle và nhiều tác giả khác — kèm lời giới thiệu ngắn để bạn đọc có bối cảnh trước khi vào bài. Mỗi bài đều ghi rõ nguồn và tình trạng duyệt.</p>
     <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
   </div>
-  <div class="qa-cards"><a class="qa-card" href="/tap-chi/duc-chua-troi-xung-cong-chinh-ke-khong-tin-kinh.html"><h3>Đức Chúa Trời Xưng Công Chính Kẻ Không Tin Kính</h3><p>Charles H. Spurgeon — Đây là chương trung tâm của cuốn sách truyền giảng nổi tiếng nhất của Spurgeon. Dựa trên Rô-ma 4:5 — “Đức Chúa Trời xưng công chín…</p></a><a class="qa-card" href="/tap-chi/chu-quyen-cua-duc-chua-troi-duoc-dinh-nghia.html"><h3>Chủ Quyền Của Đức Chúa Trời Được Định Nghĩa</h3><p>Arthur W. Pink — Arthur W. Pink viết cuốn sách này khi giáo lý về chủ quyền của Đức Chúa Trời gần như biến mất khỏi nhiều tòa giảng. Ngay chương đầ…</p></a><a class="qa-card" href="/tap-chi/su-nen-thanh-ryle.html"><h3>Sự Nên Thánh</h3><p>J. C. Ryle — Trong cuốn sách được xem là kiệt tác của mình, J. C. Ryle dành một chương để trả lời câu hỏi nền tảng: nên thánh là gì, và ai làm …</p></a></div>
+  <div class="qa-cards"><a class="qa-card featured" href="/tap-chi/duc-chua-troi-xung-cong-chinh-ke-khong-tin-kinh.html"><h3>Đức Chúa Trời Xưng Công Chính Kẻ Không Tin Kính</h3><p>Charles H. Spurgeon — Đây là chương trung tâm của cuốn sách truyền giảng nổi tiếng nhất của Spurgeon. Dựa trên Rô-ma 4:5 — “Đức Chúa Trời xưng công chín…</p></a><a class="qa-card" href="/tap-chi/chu-quyen-cua-duc-chua-troi-duoc-dinh-nghia.html"><h3>Chủ Quyền Của Đức Chúa Trời Được Định Nghĩa</h3><p>Arthur W. Pink — Arthur W. Pink viết cuốn sách này khi giáo lý về chủ quyền của Đức Chúa Trời gần như biến mất khỏi nhiều tòa giảng. Ngay chương đầ…</p></a><a class="qa-card" href="/tap-chi/su-nen-thanh-ryle.html"><h3>Sự Nên Thánh</h3><p>J. C. Ryle — Trong cuốn sách được xem là kiệt tác của mình, J. C. Ryle dành một chương để trả lời câu hỏi nền tảng: nên thánh là gì, và ai làm …</p></a></div>
 </main>
 <footer class="site">
       <div class="wrap">

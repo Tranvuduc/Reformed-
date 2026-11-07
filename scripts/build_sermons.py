@@ -48,6 +48,21 @@ EXTRA_CSS = """
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .qa-card:hover h3 { color: var(--burgundy); }
       .basis { font-size: 13px; color: var(--ink-soft); border-top: 1px solid var(--line); padding-top: 10px; margin-top: 16px; line-height: 1.6; }
+      /* ---------- design pass 2026-11: title band / monogram cards / rhythm ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 27px; font-weight: 700; line-height: 1; letter-spacing: .04em; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 22px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .qa-card { display: flex; gap: 16px; align-items: flex-start; }
+      .monogram { flex: 0 0 auto; width: 52px; height: 52px; border-radius: 50%; background: var(--burgundy); color: #fdf6e9; font-family: "Playfair Display", serif; font-weight: 700; font-size: 19px; letter-spacing: .03em; display: flex; align-items: center; justify-content: center; margin-top: 2px; box-shadow: var(--shadow); }
+      .band-tint { max-width: 860px; margin: 34px auto 8px; background: color-mix(in srgb, var(--burgundy) 6%, var(--bg)); border-top: 2px solid var(--gold-soft); border-radius: var(--radius); padding: 6px 18px 20px; }
+      .band-tint .qa-cards { margin-top: 10px; }
 """
 
 MINI_JS = """
@@ -66,6 +81,11 @@ MINI_JS = """
 """
 
 def esc(s): return html.escape(str(s), quote=True)
+
+def initials(name):
+    """Monogram initials from an existing preacher/author name: first + last word."""
+    words = [w for w in re.split(r"\s+", str(name).strip()) if w]
+    return (words[0][0] + words[-1][0]).upper() if words else ""
 
 def head(title, desc, url):
     return f"""<!DOCTYPE html>
@@ -116,11 +136,13 @@ for e in entries:
 {header}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/bai-giang/">Bài Giảng</a> · {esc(e["preacher"])}</p>
-  <div class="cat-head">
-    <div class="kicker">Thư Viện Bài Giảng</div>
-    <h1>{esc(e["title_vi"])}</h1>
-    <p style="color:var(--ink-soft)">{esc(e["title_en"])} · {esc(e["preacher"])}</p>
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">{esc(initials(e["preacher"]))}</span><span class="m-small">Bài giảng</span></div>
+    <div>
+      <div class="tb-kicker">Thư Viện Bài Giảng</div>
+      <h1>{esc(e["title_vi"])}</h1>
+      <p class="tb-sub">{esc(e["title_en"])} · {esc(e["preacher"])} &nbsp;<span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
     <table class="meta-table">{meta}</table>
@@ -138,17 +160,17 @@ for e in entries:
     (OUT / f"{e['slug']}.html").write_text(page, encoding="utf-8")
 
 vi_cards = "".join(
-    f'<a class="qa-card" href="{esc(v["local_url"])}"><h3>{esc(v["title_vi"])}</h3>'
+    f'<a class="qa-card" href="{esc(v["local_url"])}"><span class="monogram">{esc(initials(v["preacher"]))}</span><span><h3>{esc(v["title_vi"])}</h3>'
     f'<p>{esc(v["preacher"])}' + (f' · {esc(v["text_ref_vi"])}' if v.get("text_ref_vi") else "") +
-    f' — {esc(v["blurb_vi"])}</p></a>'
+    f' — {esc(v["blurb_vi"])}</p></span></a>'
     for v in data.get("vi_sermons", []))
 cards = "".join(
-    f'<a class="qa-card" href="/bai-giang/{e["slug"]}.html"><h3>{esc(e["title_vi"])}</h3>'
-    f'<p>{esc(e["preacher"])} · {esc(e["date_vi"])} · Câu gốc: {esc(e["text_ref_vi"])}</p></a>'
+    f'<a class="qa-card" href="/bai-giang/{e["slug"]}.html"><span class="monogram">{esc(initials(e["preacher"]))}</span><span><h3>{esc(e["title_vi"])}</h3>'
+    f'<p>{esc(e["preacher"])} · {esc(e["date_vi"])} · Câu gốc: {esc(e["text_ref_vi"])}</p></span></a>'
     for e in entries)
 col_cards = "".join(
-    f'<a class="qa-card" href="{esc(c["url"])}"><h3>{esc(c["title_vi"])}</h3>'
-    f'<p>{esc(c["author"])} — {esc(c["note_vi"])}</p></a>'
+    f'<a class="qa-card" href="{esc(c["url"])}"><span class="monogram">{esc(initials(c["author"]))}</span><span><h3>{esc(c["title_vi"])}</h3>'
+    f'<p>{esc(c["author"])} — {esc(c["note_vi"])}</p></span></a>'
     for c in collections)
 index = f"""{head("Thư Viện Bài Giảng Cải Chánh | Reformed Vietnam",
                    "Những bài giảng kinh điển của Spurgeon, Edwards và các mục sư Cải Chánh — giới thiệu tiếng Việt, sắp xếp theo phân đoạn Kinh Thánh, liên kết toàn văn tại nguồn gốc.", BASE + "/bai-giang/")}
@@ -167,12 +189,14 @@ index = f"""{head("Thư Viện Bài Giảng Cải Chánh | Reformed Vietnam",
     <h1 style="font-size:clamp(22px,3.6vw,29px)">Bài Giảng Có Bản Dịch Tiếng Việt</h1>
   </div>
   <div class="qa-cards">{vi_cards}</div>
-  <div class="cat-head" style="margin-top:34px">
+  <section class="band-tint">
+  <div class="cat-head" style="margin-top:20px">
     <div class="kicker">Toàn Văn Tại Nguồn</div>
     <h1 style="font-size:clamp(22px,3.6vw,29px)">Bài Giảng Kinh Điển Của Spurgeon</h1>
     <p style="color:var(--ink-soft);max-width:640px;margin:0 auto">Giới thiệu và dữ kiện bằng tiếng Việt; toàn văn tiếng Anh tại The Spurgeon Library.</p>
   </div>
   <div class="qa-cards">{cards}</div>
+  </section>
   <div class="cat-head" style="margin-top:34px">
     <div class="kicker">Trong Thư Viện Sách</div>
     <h1 style="font-size:clamp(22px,3.6vw,29px)">Tuyển Tập Bài Giảng Tiếng Việt</h1>

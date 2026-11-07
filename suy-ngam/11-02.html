@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 2 tháng 11</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>CỦA CẢI TRÊN TRỜI</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 2 tháng 11 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">2</span><span class="m-small">tháng 11</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>CỦA CẢI TRÊN TRỜI</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 2 tháng 11 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Chúa sẽ chẳng từ chối điều tốt lành nào khỏi những kẻ ăn ở ngay thẳng.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Chúa sẽ chẳng từ chối điều tốt lành nào khỏi những kẻ ăn ở ngay thẳng.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/84.html#v11" style="color:inherit">Thi Thiên 84:11</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Chúa sẽ chẳng từ chối điều tốt lành nào khỏi những kẻ ăn ở ngay thẳng và cầu xin Ngài.</p>
-    <div class="dev-body"><p>Có nhiều điều vui lòng mà Chúa có thể từ chối, nhưng &quot;chẳng điều tốt lành nào&quot;. Ngài là Đấng phán xét tốt nhất về điều gì là tốt cho chúng ta. Có những điều chắc chắn là tốt, và chúng ta có thể cầu xin được những điều ấy qua Chúa Giê-xu Christ, Chúa chúng ta.</p><p>Sự nên thánh là một điều tốt, và điều này Ngài sẽ làm trong chúng ta cách nhưng không. Chiến thắng trên những khuynh hướng xấu xa, tính khí nóng nảy, và thói quen xấu, Ngài sẽ vui lòng ban cho, và chúng ta không nên sống thiếu nó.</p><p>Sự bảo đảm trọn vẹn Ngài sẽ ban cho, và sự tương giao mật thiết với Ngài, và sự bước vào mọi lẽ thật, và sự mạnh dạn với quyền năng tại ngôi ơn phước. Nếu chúng ta không có những điều này, ấy là vì thiếu đức tin để nhận lãnh, chứ không phải vì Đức Chúa Trời không muốn ban. Một tâm hồn bình an, một tâm trạng thiên thượng, sự kiên nhẫn lớn lao, và tình yêu sốt sắng — tất cả những điều này Ngài sẽ ban cho sự siêng năng thánh khiết.</p><p>Nhưng hãy chú ý kỹ rằng chúng ta phải &quot;ăn ở ngay thẳng&quot;. Không được có những mục đích ngược nhau và những giao dịch quanh co; không giả hình cũng không lừa dối. Nếu chúng ta bước đi cách ô uế thì Đức Chúa Trời không thể ban ơn cho chúng ta, vì như vậy sẽ là thưởng cho tội lỗi. Con đường ngay thẳng là con đường của của cải trên trời — của cải lớn lao đến nỗi bao gồm mọi điều tốt lành.</p><p>Thật là một lời hứa để nài xin trong cầu nguyện! Chúng ta hãy quỳ gối xuống.</p></div>
+    <div class="dev-body dropcap"><p>Có nhiều điều vui lòng mà Chúa có thể từ chối, nhưng &quot;chẳng điều tốt lành nào&quot;. Ngài là Đấng phán xét tốt nhất về điều gì là tốt cho chúng ta. Có những điều chắc chắn là tốt, và chúng ta có thể cầu xin được những điều ấy qua Chúa Giê-xu Christ, Chúa chúng ta.</p><p>Sự nên thánh là một điều tốt, và điều này Ngài sẽ làm trong chúng ta cách nhưng không. Chiến thắng trên những khuynh hướng xấu xa, tính khí nóng nảy, và thói quen xấu, Ngài sẽ vui lòng ban cho, và chúng ta không nên sống thiếu nó.</p><p>Sự bảo đảm trọn vẹn Ngài sẽ ban cho, và sự tương giao mật thiết với Ngài, và sự bước vào mọi lẽ thật, và sự mạnh dạn với quyền năng tại ngôi ơn phước. Nếu chúng ta không có những điều này, ấy là vì thiếu đức tin để nhận lãnh, chứ không phải vì Đức Chúa Trời không muốn ban. Một tâm hồn bình an, một tâm trạng thiên thượng, sự kiên nhẫn lớn lao, và tình yêu sốt sắng — tất cả những điều này Ngài sẽ ban cho sự siêng năng thánh khiết.</p><p>Nhưng hãy chú ý kỹ rằng chúng ta phải &quot;ăn ở ngay thẳng&quot;. Không được có những mục đích ngược nhau và những giao dịch quanh co; không giả hình cũng không lừa dối. Nếu chúng ta bước đi cách ô uế thì Đức Chúa Trời không thể ban ơn cho chúng ta, vì như vậy sẽ là thưởng cho tội lỗi. Con đường ngay thẳng là con đường của của cải trên trời — của cải lớn lao đến nỗi bao gồm mọi điều tốt lành.</p><p>Thật là một lời hứa để nài xin trong cầu nguyện! Chúng ta hãy quỳ gối xuống.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

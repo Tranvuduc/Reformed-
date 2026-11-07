@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 3 tháng 12</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Bình An Dù Ở Nơi Hiểm Nguy</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 3 tháng 12 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">3</span><span class="m-small">tháng 12</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Bình An Dù Ở Nơi Hiểm Nguy</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 3 tháng 12 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Ta sẽ lập với chúng một giao ước bình an, và sẽ làm cho thú dữ dứt khỏi đất; chúng sẽ ở trong đồng vắng cách an toàn, và ngủ trong rừng.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Ta sẽ lập với chúng một giao ước bình an, và sẽ làm cho thú dữ dứt khỏi đất; chúng sẽ ở trong đồng vắng cách an toàn, và ngủ trong rừng.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/ezek/34.html#v25" style="color:inherit">Ê-xê-chi-ên 34:25</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời lập giao ước bình an với dân Ngài, khiến đồng vắng hiểm nguy trở nên nơi an toàn.</p>
-    <div class="dev-body"><p>Thật là tột đỉnh của ân điển khi Đức Giê-hô-va lập giao ước với loài người, một tạo vật yếu đuối, tội lỗi và chóng qua. Thế mà Chúa đã long trọng bước vào một giao ước thành tín với chúng ta, và từ giao ước ấy Ngài sẽ không bao giờ quay đi. Nhờ giao ước này mà chúng ta được an toàn. Như sư tử và chó sói bị người chăn đuổi đi, mọi ảnh hưởng độc hại cũng sẽ bị xua đuổi. Chúa sẽ cho chúng ta nghỉ ngơi khỏi những kẻ quấy rối và hủy diệt; thú dữ sẽ dứt khỏi đất. Lạy Chúa, xin làm cho lời hứa này của Ngài ứng nghiệm ngay bây giờ!</p><p>Dân của Chúa sẽ được hưởng sự an ninh tại những nơi hiểm nguy nhất: đồng vắng và rừng rậm sẽ trở nên như đồng cỏ và chuồng chiên cho bầy chiên của Đấng Christ. Nếu Chúa không đổi nơi chốn cho tốt hơn, Ngài sẽ làm cho chúng ta tốt hơn tại nơi ấy. Đồng vắng không phải là nơi để ở, nhưng Chúa có thể khiến nó trở nên như vậy; trong rừng, người ta cảm thấy phải canh thức hơn là ngủ, thế mà Chúa vẫn ban giấc ngủ cho người Ngài yêu dấu ngay tại đó. Không có gì ở bên ngoài hay bên trong nên khiến con cái Đức Chúa Trời sợ hãi. Bởi đức tin, đồng vắng có thể trở thành ngoại ô của Thiên Đàng, và rừng rậm thành tiền sảnh của vinh quang.</p></div>
+    <div class="dev-body dropcap"><p>Thật là tột đỉnh của ân điển khi Đức Giê-hô-va lập giao ước với loài người, một tạo vật yếu đuối, tội lỗi và chóng qua. Thế mà Chúa đã long trọng bước vào một giao ước thành tín với chúng ta, và từ giao ước ấy Ngài sẽ không bao giờ quay đi. Nhờ giao ước này mà chúng ta được an toàn. Như sư tử và chó sói bị người chăn đuổi đi, mọi ảnh hưởng độc hại cũng sẽ bị xua đuổi. Chúa sẽ cho chúng ta nghỉ ngơi khỏi những kẻ quấy rối và hủy diệt; thú dữ sẽ dứt khỏi đất. Lạy Chúa, xin làm cho lời hứa này của Ngài ứng nghiệm ngay bây giờ!</p><p>Dân của Chúa sẽ được hưởng sự an ninh tại những nơi hiểm nguy nhất: đồng vắng và rừng rậm sẽ trở nên như đồng cỏ và chuồng chiên cho bầy chiên của Đấng Christ. Nếu Chúa không đổi nơi chốn cho tốt hơn, Ngài sẽ làm cho chúng ta tốt hơn tại nơi ấy. Đồng vắng không phải là nơi để ở, nhưng Chúa có thể khiến nó trở nên như vậy; trong rừng, người ta cảm thấy phải canh thức hơn là ngủ, thế mà Chúa vẫn ban giấc ngủ cho người Ngài yêu dấu ngay tại đó. Không có gì ở bên ngoài hay bên trong nên khiến con cái Đức Chúa Trời sợ hãi. Bởi đức tin, đồng vắng có thể trở thành ngoại ô của Thiên Đàng, và rừng rậm thành tiền sảnh của vinh quang.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

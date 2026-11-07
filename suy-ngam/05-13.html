@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 13 tháng 5</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>NGÀY ĐÃ GẦN KỀ</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 13 tháng 5 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">13</span><span class="m-small">tháng 5</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>NGÀY ĐÃ GẦN KỀ</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 13 tháng 5 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Ta sẽ ban cho người ấy ngôi sao mai.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Ta sẽ ban cho người ấy ngôi sao mai.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/rev/2.html#v28" style="color:inherit">Khải Huyền 2:28</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Thấy Chúa Giê-xu như sao mai bởi đức tin bảo chứng rằng ngày vinh quang và sự biến đổi sẽ đến.</p>
-    <div class="dev-body"><p>Cho đến khi ngày bừng sáng, và bóng tối tan đi, thật là một phước hạnh khi được thấy trong Chúa Giê-xu &quot;ngôi sao mai&quot;! Tôi nhớ khi chúng ta đọc trên báo câu chuyện viển vông rằng ngôi sao Bết-lê-hem đã lại xuất hiện. Khi tìm hiểu, chúng tôi thấy đó chỉ là &quot;ngôi sao mai&quot;; nhưng rốt cuộc cũng chẳng nhầm lẫn gì lớn.</p><p>Tốt nhất là thấy Chúa Giê-xu như mặt trời; nhưng khi không thể làm vậy, điều tốt thứ hai là thấy Ngài như ngôi sao báo hiệu ngày mới, và cho thấy ánh sáng đời đời đã gần kề. Nếu hôm nay tôi chưa phải là tất cả những gì tôi hy vọng trở nên, tôi vẫn thấy Chúa Giê-xu, và điều đó quả quyết với tôi rằng một ngày kia tôi sẽ giống như Ngài. Được thấy Chúa Giê-xu bởi đức tin là bảo chứng rằng tôi sẽ thấy Ngài trong vinh quang và được biến đổi theo hình ảnh Ngài. Nếu giờ này tôi chưa có mọi ánh sáng và niềm vui như tôi ước ao, tôi rồi sẽ có; vì chắc chắn như tôi thấy ngôi sao mai, tôi sẽ thấy ngày mới. Ngôi sao mai không bao giờ ở xa mặt trời.</p><p>Này, hỡi linh hồn ta, Chúa đã ban cho ngươi ngôi sao mai chưa? Ngươi có giữ chặt lẽ thật, ân điển, hy vọng, và tình yêu mà Chúa đã ban cho ngươi không? Vậy thì trong điều đó ngươi có bình minh của vinh quang sắp đến. Đấng khiến ngươi thắng hơn điều ác, và bền đỗ trong sự công chính, trong đó đã ban cho ngươi ngôi sao mai.</p></div>
+    <div class="dev-body dropcap"><p>Cho đến khi ngày bừng sáng, và bóng tối tan đi, thật là một phước hạnh khi được thấy trong Chúa Giê-xu &quot;ngôi sao mai&quot;! Tôi nhớ khi chúng ta đọc trên báo câu chuyện viển vông rằng ngôi sao Bết-lê-hem đã lại xuất hiện. Khi tìm hiểu, chúng tôi thấy đó chỉ là &quot;ngôi sao mai&quot;; nhưng rốt cuộc cũng chẳng nhầm lẫn gì lớn.</p><p>Tốt nhất là thấy Chúa Giê-xu như mặt trời; nhưng khi không thể làm vậy, điều tốt thứ hai là thấy Ngài như ngôi sao báo hiệu ngày mới, và cho thấy ánh sáng đời đời đã gần kề. Nếu hôm nay tôi chưa phải là tất cả những gì tôi hy vọng trở nên, tôi vẫn thấy Chúa Giê-xu, và điều đó quả quyết với tôi rằng một ngày kia tôi sẽ giống như Ngài. Được thấy Chúa Giê-xu bởi đức tin là bảo chứng rằng tôi sẽ thấy Ngài trong vinh quang và được biến đổi theo hình ảnh Ngài. Nếu giờ này tôi chưa có mọi ánh sáng và niềm vui như tôi ước ao, tôi rồi sẽ có; vì chắc chắn như tôi thấy ngôi sao mai, tôi sẽ thấy ngày mới. Ngôi sao mai không bao giờ ở xa mặt trời.</p><p>Này, hỡi linh hồn ta, Chúa đã ban cho ngươi ngôi sao mai chưa? Ngươi có giữ chặt lẽ thật, ân điển, hy vọng, và tình yêu mà Chúa đã ban cho ngươi không? Vậy thì trong điều đó ngươi có bình minh của vinh quang sắp đến. Đấng khiến ngươi thắng hơn điều ác, và bền đỗ trong sự công chính, trong đó đã ban cho ngươi ngôi sao mai.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

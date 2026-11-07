@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 9 tháng 4</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Vị Trí Tối Cao Của Kinh Thánh</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 9 tháng 4 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">9</span><span class="m-small">tháng 4</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Vị Trí Tối Cao Của Kinh Thánh</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 9 tháng 4 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Những người yêu mến luật pháp Chúa được bình an lớn: chẳng có gì làm họ vấp ngã.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Những người yêu mến luật pháp Chúa được bình an lớn: chẳng có gì làm họ vấp ngã.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/119.html#v165" style="color:inherit">Thi Thiên 119:165</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Yêu mến luật pháp Chúa đem đến bình an lớn và chẳng có gì làm vấp ngã.</p>
-    <div class="dev-body"><p>Phải, một tình yêu thật đối với Cuốn Sách vĩ đại sẽ đem đến cho chúng ta sự bình an lớn từ Đức Chúa Trời vĩ đại, và là sự bảo vệ lớn cho chúng ta. Chúng ta hãy sống luôn trong sự thông công với luật pháp của Chúa, và nó sẽ sinh ra trong lòng chúng ta một sự yên nghỉ mà không gì khác có thể. Đức Thánh Linh hành động như Đấng An Ủi qua Lời, và tuôn đổ những ảnh hưởng nhân từ làm lặng những cơn bão của linh hồn.</p><p>Không gì là hòn đá vấp ngã cho người có Lời Đức Chúa Trời ngự trong lòng mình một cách dư dật. Người ấy vác thập tự giá hằng ngày của mình và nó trở nên niềm vui thích. Đối với thử thách lửa người ấy đã sẵn sàng, và không lấy làm lạ, đến nỗi bị quật ngã hoàn toàn bởi nó. Người ấy không bị vấp bởi thịnh vượng, như biết bao người, cũng không bị nghiền nát bởi nghịch cảnh, như những người khác đã từng; vì người ấy sống vượt trên những hoàn cảnh thay đổi của đời sống bên ngoài. Khi Chúa đặt trước mặt người ấy một mầu nhiệm lớn của đức tin khiến người khác kêu lên: &quot;Lời này khó nghe; ai có thể nghe được?&quot; thì tín đồ tiếp nhận nó không thắc mắc; vì những khó khăn trí tuệ của người ấy đã bị khuất phục bởi lòng kính sợ tôn kính luật pháp của Chúa, luật pháp đối với người ấy là thẩm quyền tối cao mà người ấy vui mừng cúi đầu. Lạy Chúa, xin làm cho chúng con có tình yêu ấy, sự bình an ấy, sự yên nghỉ ấy, trong ngày nay.</p></div>
+    <div class="dev-body dropcap"><p>Phải, một tình yêu thật đối với Cuốn Sách vĩ đại sẽ đem đến cho chúng ta sự bình an lớn từ Đức Chúa Trời vĩ đại, và là sự bảo vệ lớn cho chúng ta. Chúng ta hãy sống luôn trong sự thông công với luật pháp của Chúa, và nó sẽ sinh ra trong lòng chúng ta một sự yên nghỉ mà không gì khác có thể. Đức Thánh Linh hành động như Đấng An Ủi qua Lời, và tuôn đổ những ảnh hưởng nhân từ làm lặng những cơn bão của linh hồn.</p><p>Không gì là hòn đá vấp ngã cho người có Lời Đức Chúa Trời ngự trong lòng mình một cách dư dật. Người ấy vác thập tự giá hằng ngày của mình và nó trở nên niềm vui thích. Đối với thử thách lửa người ấy đã sẵn sàng, và không lấy làm lạ, đến nỗi bị quật ngã hoàn toàn bởi nó. Người ấy không bị vấp bởi thịnh vượng, như biết bao người, cũng không bị nghiền nát bởi nghịch cảnh, như những người khác đã từng; vì người ấy sống vượt trên những hoàn cảnh thay đổi của đời sống bên ngoài. Khi Chúa đặt trước mặt người ấy một mầu nhiệm lớn của đức tin khiến người khác kêu lên: &quot;Lời này khó nghe; ai có thể nghe được?&quot; thì tín đồ tiếp nhận nó không thắc mắc; vì những khó khăn trí tuệ của người ấy đã bị khuất phục bởi lòng kính sợ tôn kính luật pháp của Chúa, luật pháp đối với người ấy là thẩm quyền tối cao mà người ấy vui mừng cúi đầu. Lạy Chúa, xin làm cho chúng con có tình yêu ấy, sự bình an ấy, sự yên nghỉ ấy, trong ngày nay.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

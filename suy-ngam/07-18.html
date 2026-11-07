@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 18 tháng 7</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Sự Thông Công Trong Đồng Vắng</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 18 tháng 7 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">18</span><span class="m-small">tháng 7</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Sự Thông Công Trong Đồng Vắng</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 18 tháng 7 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Cho nên, nầy, Ta sẽ dụ dỗ nó, đem nó vào đồng vắng, và nói êm ái với nó.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Cho nên, nầy, Ta sẽ dụ dỗ nó, đem nó vào đồng vắng, và nói êm ái với nó.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/os/2.html#v14" style="color:inherit">Ô-sê 2:14</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời dụ dân Ngài vào đồng vắng hoạn nạn, để nói êm ái và ban sự thông công ngọt ngào.</p>
-    <div class="dev-body"><p>Sự nhân lành của Đức Chúa Trời thấy chúng ta bị tội lỗi dụ dỗ, và Ngài quyết định thử trên chúng ta những sự dụ dỗ mạnh hơn của tình yêu. Chúng ta há không nhớ khi Đấng Yêu dấu của linh hồn chúng ta lần đầu gieo bùa mê trên chúng ta và quyến rũ chúng ta khỏi những mê hoặc của thế gian sao? Ngài sẽ làm điều này hết lần này đến lần khác mỗi khi Ngài thấy chúng ta có nguy cơ bị điều ác giăng bẫy.</p><p>Ngài hứa sẽ đưa chúng ta ra riêng, vì ở đó Ngài có thể đối xử tốt nhất với chúng ta, và nơi tách biệt này sẽ không phải là Địa Đàng, mà là đồng vắng, vì ở nơi như vậy sẽ không có gì làm chúng ta xao lãng khỏi Đức Chúa Trời. Trong các sa mạc hoạn nạn, sự hiện diện của Chúa trở thành mọi sự đối với chúng ta, và chúng ta quý sự thông công với Ngài hơn bất kỳ giá trị nào chúng ta đặt vào nó khi chúng ta ngồi dưới cây nho và cây vả của mình trong xã hội của đồng loại. Sự cô tịch và hoạn nạn đem lại nhiều hơn cho chính họ và cho Cha thiên thượng họ hơn bất kỳ phương tiện nào khác.</p><p>Khi đã được dụ dỗ và tách riêng như vậy, Chúa có những điều quý báu để nói với chúng ta cho sự an ủi. Ngài &quot;nói với lòng chúng ta,&quot; như nguyên văn chép. Ôi, ước gì lúc này chúng ta có lời hứa này được giải thích trong kinh nghiệm! Được tình yêu dụ dỗ, được thử thách tách riêng, và được Thần lẽ thật an ủi, nguyện chúng ta biết Chúa và hát vì vui mừng!</p></div>
+    <div class="dev-body dropcap"><p>Sự nhân lành của Đức Chúa Trời thấy chúng ta bị tội lỗi dụ dỗ, và Ngài quyết định thử trên chúng ta những sự dụ dỗ mạnh hơn của tình yêu. Chúng ta há không nhớ khi Đấng Yêu dấu của linh hồn chúng ta lần đầu gieo bùa mê trên chúng ta và quyến rũ chúng ta khỏi những mê hoặc của thế gian sao? Ngài sẽ làm điều này hết lần này đến lần khác mỗi khi Ngài thấy chúng ta có nguy cơ bị điều ác giăng bẫy.</p><p>Ngài hứa sẽ đưa chúng ta ra riêng, vì ở đó Ngài có thể đối xử tốt nhất với chúng ta, và nơi tách biệt này sẽ không phải là Địa Đàng, mà là đồng vắng, vì ở nơi như vậy sẽ không có gì làm chúng ta xao lãng khỏi Đức Chúa Trời. Trong các sa mạc hoạn nạn, sự hiện diện của Chúa trở thành mọi sự đối với chúng ta, và chúng ta quý sự thông công với Ngài hơn bất kỳ giá trị nào chúng ta đặt vào nó khi chúng ta ngồi dưới cây nho và cây vả của mình trong xã hội của đồng loại. Sự cô tịch và hoạn nạn đem lại nhiều hơn cho chính họ và cho Cha thiên thượng họ hơn bất kỳ phương tiện nào khác.</p><p>Khi đã được dụ dỗ và tách riêng như vậy, Chúa có những điều quý báu để nói với chúng ta cho sự an ủi. Ngài &quot;nói với lòng chúng ta,&quot; như nguyên văn chép. Ôi, ước gì lúc này chúng ta có lời hứa này được giải thích trong kinh nghiệm! Được tình yêu dụ dỗ, được thử thách tách riêng, và được Thần lẽ thật an ủi, nguyện chúng ta biết Chúa và hát vì vui mừng!</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

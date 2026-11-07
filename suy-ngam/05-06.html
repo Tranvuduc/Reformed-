@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 6 tháng 5</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>THUỐC CHỮA BỆNH GANH TỊ</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 6 tháng 5 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">6</span><span class="m-small">tháng 5</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>THUỐC CHỮA BỆNH GANH TỊ</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 6 tháng 5 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Lòng con chớ ganh tị kẻ có tội, nhưng hằng ngày hãy kính sợ Đức Giê-hô-va. Vì chắc chắn sẽ có một tương lai tốt đẹp, và sự trông đợi của con sẽ chẳng bị cắt đứt.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Lòng con chớ ganh tị kẻ có tội, nhưng hằng ngày hãy kính sợ Đức Giê-hô-va. Vì chắc chắn sẽ có một tương lai tốt đẹp, và sự trông đợi của con sẽ chẳng bị cắt đứt.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/prov/23.html#v17" style="color:inherit">Châm Ngôn 23:17, 18</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đừng ganh tị kẻ ác thịnh vượng; kính sợ Chúa, thờ phượng Ngài, nhìn đến tương lai tốt đẹp Ngài hứa.</p>
-    <div class="dev-body"><p>Khi chúng ta thấy kẻ ác thịnh vượng, chúng ta dễ ganh tị với họ. Khi chúng ta nghe tiếng ồn ào vui vẻ của họ, mà lòng mình thì nặng trĩu, chúng ta nửa nghĩ rằng họ được phần hơn. Điều này thật dại dột và tội lỗi. Nếu chúng ta biết rõ họ hơn, và đặc biệt nếu chúng ta nhớ đến kết cục của họ, chúng ta sẽ thương hại họ.</p><p>Thuốc chữa bệnh ganh tị nằm ở chỗ sống dưới một ý thức thường xuyên về sự hiện diện thánh, thờ phượng Đức Chúa Trời và thông công với Ngài trọn ngày, dẫu ngày ấy có dài dường nào. Tôn giáo thật nâng linh hồn lên một vùng cao hơn, nơi sự phán đoán trở nên sáng suốt hơn, và những ước muốn được nâng cao hơn. Càng có nhiều thiên đàng trong đời sống chúng ta, chúng ta càng ít thèm khát đất. Sự kính sợ Đức Chúa Trời xua đuổi lòng ganh tị với loài người.</p><p>Đòn chí mạng của lòng ganh tị là sự suy xét bình tĩnh về tương lai. Sự giàu sang và vinh hoa của kẻ vô đạo chỉ là một màn trình diễn hư không. Vẻ hào nhoáng này lóe sáng trong một giờ, rồi tắt ngúm. Kẻ có tội thịnh vượng được lợi gì từ sự thịnh vượng của mình khi sự phán xét ập đến? Còn người tin kính, kết cục của người là bình an và phước hạnh, và không ai có thể cướp niềm vui của người; vậy nên, người hãy từ bỏ lòng ganh tị, và được đầy dẫy sự thỏa lòng ngọt ngào.</p></div>
+    <div class="dev-body dropcap"><p>Khi chúng ta thấy kẻ ác thịnh vượng, chúng ta dễ ganh tị với họ. Khi chúng ta nghe tiếng ồn ào vui vẻ của họ, mà lòng mình thì nặng trĩu, chúng ta nửa nghĩ rằng họ được phần hơn. Điều này thật dại dột và tội lỗi. Nếu chúng ta biết rõ họ hơn, và đặc biệt nếu chúng ta nhớ đến kết cục của họ, chúng ta sẽ thương hại họ.</p><p>Thuốc chữa bệnh ganh tị nằm ở chỗ sống dưới một ý thức thường xuyên về sự hiện diện thánh, thờ phượng Đức Chúa Trời và thông công với Ngài trọn ngày, dẫu ngày ấy có dài dường nào. Tôn giáo thật nâng linh hồn lên một vùng cao hơn, nơi sự phán đoán trở nên sáng suốt hơn, và những ước muốn được nâng cao hơn. Càng có nhiều thiên đàng trong đời sống chúng ta, chúng ta càng ít thèm khát đất. Sự kính sợ Đức Chúa Trời xua đuổi lòng ganh tị với loài người.</p><p>Đòn chí mạng của lòng ganh tị là sự suy xét bình tĩnh về tương lai. Sự giàu sang và vinh hoa của kẻ vô đạo chỉ là một màn trình diễn hư không. Vẻ hào nhoáng này lóe sáng trong một giờ, rồi tắt ngúm. Kẻ có tội thịnh vượng được lợi gì từ sự thịnh vượng của mình khi sự phán xét ập đến? Còn người tin kính, kết cục của người là bình an và phước hạnh, và không ai có thể cướp niềm vui của người; vậy nên, người hãy từ bỏ lòng ganh tị, và được đầy dẫy sự thỏa lòng ngọt ngào.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

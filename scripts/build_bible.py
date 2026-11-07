@@ -77,6 +77,11 @@ EXTRA_CSS = """
       .note-panel p, .note-panel li { font-family: "Noto Serif", serif; font-size: 15.5px; line-height: 1.75; }
       .plan-row { display: flex; justify-content: space-between; gap: 10px; padding: 9px 2px; border-bottom: 1px solid var(--line); font-size: 15px; }
       .plan-row a { color: var(--burgundy); text-decoration: none; font-weight: 600; }
+      /* ---------- design pass 2026-11: pull quote + section rhythm ---------- */
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: 20px; color: var(--burgundy); border-left: 4px solid var(--gold-soft); }
+      .testament-h { border-bottom: 2px solid var(--gold-soft); padding-bottom: 6px; }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--bg)); border-top: 2px solid var(--gold-soft); border-radius: var(--radius); padding: 16px 20px 20px; margin-top: 26px; }
+      .band-tint h2 { margin-top: 0 !important; }
 """
 
 MINI_JS = """
@@ -192,7 +197,7 @@ for b in books_meta:
     <div class="kicker" style="color:var(--gold-text);font-weight:700;font-size:12.5px;letter-spacing:.08em">TÓM TẮT CHƯƠNG</div>
     <p style="margin-top:8px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
     <p style="margin-top:8px">{esc(sm['summary_vi'])}</p>
-    <blockquote class="dev-verse-lg" style="margin:12px 0 4px">“{esc(sm['key_verse_text'])}”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote" style="margin:12px 0 4px">“{esc(sm['key_verse_text'])}”</blockquote>
     <p style="color:var(--ink-soft);font-size:14px;margin:0 0 10px">— {esc(sm['key_verse_ref'])}</p>
     <div style="display:flex;flex-wrap:wrap;gap:8px">{theme_chips}</div>
   </article>"""
@@ -296,12 +301,14 @@ landing = f"""{head("Đọc Kinh Thánh 1934 — Trọn bộ 66 sách | Reformed
     <h1>Kinh Thánh 1934 — trọn bộ 66 sách</h1>
     <p style="max-width:640px;margin:0 auto;color:var(--ink-soft)">Bản Truyền Thống 1934, 31.102 câu. Mỗi câu có tham chiếu chéo đến các đoạn liên quan; 100 chương có thêm ghi chú học tập (bối cảnh, giải nghĩa, áp dụng, cầu nguyện). Chọn một sách để bắt đầu đọc.</p>
   </div>
-  <h2 style="font-family:'Playfair Display',serif;color:var(--gold-text);margin:22px 0 10px">Cựu Ước</h2>
+  <h2 class="testament-h" style="font-family:'Playfair Display',serif;color:var(--gold-text);margin:22px 0 10px">Cựu Ước</h2>
   <div class="book-grid">{ot}</div>
-  <h2 style="font-family:'Playfair Display',serif;color:var(--gold-text);margin:26px 0 10px">Tân Ước</h2>
+  <h2 class="testament-h" style="font-family:'Playfair Display',serif;color:var(--gold-text);margin:26px 0 10px">Tân Ước</h2>
   <div class="book-grid">{nt}</div>
+  <section class="band-tint">
   <h2 style="font-family:'Playfair Display',serif;color:var(--gold-text);margin:26px 0 10px">Kế hoạch đọc</h2>
   <div class="book-grid">{plan_cards}</div>
+  </section>
   <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin:26px 0 34px">Ghi chú học tập do AI soạn, chưa qua duyệt. Bản dịch 1934 được dùng rộng rãi trong các Hội Thánh Việt Nam.</p>
 </main>
 {footer}

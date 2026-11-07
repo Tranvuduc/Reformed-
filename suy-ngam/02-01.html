@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 1 tháng 2</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Đừng bao giờ tuyệt vọng</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 1 tháng 2 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">1</span><span class="m-small">tháng 2</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Đừng bao giờ tuyệt vọng</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 1 tháng 2 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Nhưng cho các ngươi là những kẻ kính sợ danh ta, Mặt Trời Công Bình sẽ mọc lên với sự chữa lành trên cánh của Ngài”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Nhưng cho các ngươi là những kẻ kính sợ danh ta, Mặt Trời Công Bình sẽ mọc lên với sự chữa lành trên cánh của Ngài”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/mal/4.html#v2" style="color:inherit">Ma-la-chi 4:2</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đừng tuyệt vọng trong đêm tối; Mặt Trời Công Bình sẽ mọc lên đem ánh sáng, hơi ấm và sự chữa lành.</p>
-    <div class="dev-body"><p>Lời đầy ân điển này đã được ứng nghiệm một lần trong lần đến đầu tiên của Chúa vinh hiển của chúng ta, và sẽ còn được ứng nghiệm trọn vẹn hơn trong lần Ngài đến thứ hai, nó cũng là lời để dùng mỗi ngày. Độc giả có đang ở trong bóng tối không? Đêm có đang đặc lại thành một màu đen dày đặc hơn không? Dầu vậy, chúng ta đừng tuyệt vọng: mặt trời rồi sẽ mọc. Khi đêm tối nhất, bình minh gần nhất.</p><p>Mặt trời sẽ mọc lên không phải loại thường. Đó là MẶT TRỜI — Mặt Trời Công Bình, mà mỗi tia của Ngài đều là thánh khiết. Đấng đến để làm chúng ta vui mừng, đến trong đường lối của sự công chính cũng như của lòng thương xót, đến mà không vi phạm luật pháp nào dù là để cứu chúng ta. Chúa Giê-xu bày tỏ sự thánh khiết của Đức Chúa Trời cũng nhiều như tình yêu của Ngài. Sự giải cứu của chúng ta, khi đến, sẽ được an toàn vì nó là công chính.</p><p>Điểm duy nhất chúng ta cần xét hỏi là — &quot;Chúng ta có kính sợ danh Chúa không? Chúng ta có tôn kính Đức Chúa Trời hằng sống, và bước đi trong đường lối của Ngài không?&quot; Nếu có, thì đêm của chúng ta ắt phải ngắn; và khi buổi sáng đến, mọi bệnh tật và sầu khổ của linh hồn chúng ta sẽ qua đi mãi mãi. Ánh sáng, hơi ấm, niềm vui, và sự thấy rõ sẽ đến, và sự chữa lành cho mọi bệnh tật và khốn khó sẽ theo sau.</p><p>Chúa Giê-xu đã mọc lên trên chúng ta chưa? Hãy ngồi trong nắng. Ngài có giấu mặt Ngài không? Hãy chờ đợi Ngài mọc lên. Ngài sẽ chiếu sáng chắc chắn như mặt trời vậy.</p></div>
+    <div class="dev-body dropcap"><p>Lời đầy ân điển này đã được ứng nghiệm một lần trong lần đến đầu tiên của Chúa vinh hiển của chúng ta, và sẽ còn được ứng nghiệm trọn vẹn hơn trong lần Ngài đến thứ hai, nó cũng là lời để dùng mỗi ngày. Độc giả có đang ở trong bóng tối không? Đêm có đang đặc lại thành một màu đen dày đặc hơn không? Dầu vậy, chúng ta đừng tuyệt vọng: mặt trời rồi sẽ mọc. Khi đêm tối nhất, bình minh gần nhất.</p><p>Mặt trời sẽ mọc lên không phải loại thường. Đó là MẶT TRỜI — Mặt Trời Công Bình, mà mỗi tia của Ngài đều là thánh khiết. Đấng đến để làm chúng ta vui mừng, đến trong đường lối của sự công chính cũng như của lòng thương xót, đến mà không vi phạm luật pháp nào dù là để cứu chúng ta. Chúa Giê-xu bày tỏ sự thánh khiết của Đức Chúa Trời cũng nhiều như tình yêu của Ngài. Sự giải cứu của chúng ta, khi đến, sẽ được an toàn vì nó là công chính.</p><p>Điểm duy nhất chúng ta cần xét hỏi là — &quot;Chúng ta có kính sợ danh Chúa không? Chúng ta có tôn kính Đức Chúa Trời hằng sống, và bước đi trong đường lối của Ngài không?&quot; Nếu có, thì đêm của chúng ta ắt phải ngắn; và khi buổi sáng đến, mọi bệnh tật và sầu khổ của linh hồn chúng ta sẽ qua đi mãi mãi. Ánh sáng, hơi ấm, niềm vui, và sự thấy rõ sẽ đến, và sự chữa lành cho mọi bệnh tật và khốn khó sẽ theo sau.</p><p>Chúa Giê-xu đã mọc lên trên chúng ta chưa? Hãy ngồi trong nắng. Ngài có giấu mặt Ngài không? Hãy chờ đợi Ngài mọc lên. Ngài sẽ chiếu sáng chắc chắn như mặt trời vậy.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

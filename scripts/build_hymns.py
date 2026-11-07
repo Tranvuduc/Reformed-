@@ -54,6 +54,20 @@ EXTRA_CSS = """
       .qa-card h3 { font-family: "Noto Serif", serif; font-size: 18.5px; margin: 0 0 6px; color: var(--ink); line-height: 1.45; }
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .qa-card:hover h3 { color: var(--burgundy); }
+      /* ---------- design pass 2026-11: title band + tune-chip cards ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 32px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 27px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .qa-cards { grid-template-columns: 1fr 1fr; max-width: 860px; }
+      @media (max-width: 720px) { .qa-cards { grid-template-columns: 1fr; } }
+      .tune-chip { display: inline-block; margin-top: 8px; font-size: 12.5px; font-weight: 700; letter-spacing: .04em; color: var(--gold-text); background: color-mix(in srgb, var(--gold) 14%, transparent); border: 1px solid var(--gold-soft); border-radius: 999px; padding: 2px 10px; }
 """
 
 MINI_JS = """
@@ -131,11 +145,13 @@ for e in entries:
 {header}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/thanh-ca/">Thánh Ca</a></p>
-  <div class="cat-head">
-    <div class="kicker">Thánh Ca &amp; Thờ Phượng</div>
-    <h1>{esc(e["title_vi"])}</h1>
-    <p style="color:var(--ink-soft)">{esc(e["title_en"])} · {esc(e["words_by"])}, {e["words_year"]}</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">♪</span><span class="m-small">Thánh ca</span></div>
+    <div>
+      <div class="tb-kicker">Thánh Ca &amp; Thờ Phượng</div>
+      <h1>{esc(e["title_vi"])}</h1>
+      <p class="tb-sub">{esc(e["title_en"])} · {esc(e["words_by"])}, {e["words_year"]} &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
     <table class="meta-table">{meta}</table>
@@ -154,7 +170,8 @@ for e in entries:
 
 cards = "".join(
     f'<a class="qa-card" href="/thanh-ca/{e["slug"]}.html"><h3>{esc(e["title_vi"])}</h3>'
-    f'<p>{esc(e["title_en"])} · {esc(e["words_by"])} ({e["words_year"]}) · Giai điệu {esc(e["tune"])}</p></a>'
+    f'<p>{esc(e["title_en"])} · {esc(e["words_by"])} ({e["words_year"]})</p>'
+    f'<span class="tune-chip">♪ {esc(e["tune"])}</span></a>'
     for e in entries)
 index = f"""{head("Thánh Ca & Thờ Phượng | Reformed Vietnam",
                    "Những thánh ca truyền thống thuộc phạm vi công cộng cả lời và nhạc, với bản dịch tiếng Việt mới hát được theo đúng giai điệu gốc.", BASE + "/thanh-ca/")}

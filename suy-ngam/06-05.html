@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 5 tháng 6</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Có Sự Phân Biệt Nào Không?</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 5 tháng 6 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">5</span><span class="m-small">tháng 6</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Có Sự Phân Biệt Nào Không?</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 5 tháng 6 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Nhưng đối với con dân Y-sơ-ra-ên, sẽ không có một con chó nào động lưỡi, đối với người hay vật: để các ngươi biết rằng Đức Giê-hô-va đặt sự phân biệt giữa dân Ê-díp-tô và dân Y-sơ-ra-ên.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Nhưng đối với con dân Y-sơ-ra-ên, sẽ không có một con chó nào động lưỡi, đối với người hay vật: để các ngươi biết rằng Đức Giê-hô-va đặt sự phân biệt giữa dân Ê-díp-tô và dân Y-sơ-ra-ên.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/exo/11.html#v7" style="color:inherit">Xuất Ê-díp-tô Ký 11:7</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời phân biệt dân Ngài, giữ lưỡi kẻ thù câm lặng và ban bình an giữa hiểm nguy.</p>
-    <div class="dev-body"><p>Sao! Đức Chúa Trời có quyền trên lưỡi chó sao? Ngài có thể giữ chó khỏi sủa không? Phải, đúng như vậy. Ngài thậm chí có thể ngăn một con chó Ai Cập quấy rầy một chiên con trong bầy Y-sơ-ra-ên. Đức Chúa Trời làm câm lưỡi chó, và những kẻ như chó giữa loài người, và con chó lớn ở cửa địa ngục chăng? Vậy thì chúng ta hãy cứ bước đi trên đường mình mà không sợ hãi.</p><p>Nếu Ngài để chó động lưỡi, Ngài cũng có thể ngăn răng chúng. Chúng có thể sủa vang kinh khiếp, mà vẫn không hại chúng ta thật sự. Nhưng sự yên lặng ngọt ngào biết bao! Được đi lại giữa kẻ thù mà thấy Đức Chúa Trời khiến chúng hòa thuận với chúng ta, thật thú vị biết bao! Như Đa-ni-ên trong hang sư tử, chúng ta vô sự giữa những kẻ hủy diệt.</p><p>Ôi, ước gì hôm nay lời của Chúa phán với Y-sơ-ra-ên này cũng thành thật đối với ta! Con chó có quấy rầy ta chăng? Ta sẽ nói với Chúa ta về nó. Lạy Chúa, nó chẳng màng lời nài xin của con; xin Ngài phán lời quyền năng, thì nó phải nằm im. Xin ban cho con sự bình an, hỡi Đức Chúa Trời con, và cho con thấy rõ tay Ngài trong đó, để con nhận biết thật rõ sự phân biệt mà ân điển Ngài đã làm giữa con và kẻ vô đạo!</p></div>
+    <div class="dev-body dropcap"><p>Sao! Đức Chúa Trời có quyền trên lưỡi chó sao? Ngài có thể giữ chó khỏi sủa không? Phải, đúng như vậy. Ngài thậm chí có thể ngăn một con chó Ai Cập quấy rầy một chiên con trong bầy Y-sơ-ra-ên. Đức Chúa Trời làm câm lưỡi chó, và những kẻ như chó giữa loài người, và con chó lớn ở cửa địa ngục chăng? Vậy thì chúng ta hãy cứ bước đi trên đường mình mà không sợ hãi.</p><p>Nếu Ngài để chó động lưỡi, Ngài cũng có thể ngăn răng chúng. Chúng có thể sủa vang kinh khiếp, mà vẫn không hại chúng ta thật sự. Nhưng sự yên lặng ngọt ngào biết bao! Được đi lại giữa kẻ thù mà thấy Đức Chúa Trời khiến chúng hòa thuận với chúng ta, thật thú vị biết bao! Như Đa-ni-ên trong hang sư tử, chúng ta vô sự giữa những kẻ hủy diệt.</p><p>Ôi, ước gì hôm nay lời của Chúa phán với Y-sơ-ra-ên này cũng thành thật đối với ta! Con chó có quấy rầy ta chăng? Ta sẽ nói với Chúa ta về nó. Lạy Chúa, nó chẳng màng lời nài xin của con; xin Ngài phán lời quyền năng, thì nó phải nằm im. Xin ban cho con sự bình an, hỡi Đức Chúa Trời con, và cho con thấy rõ tay Ngài trong đó, để con nhận biết thật rõ sự phân biệt mà ân điển Ngài đã làm giữa con và kẻ vô đạo!</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

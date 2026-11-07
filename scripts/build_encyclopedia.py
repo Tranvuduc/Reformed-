@@ -200,6 +200,30 @@ EXTRA_CSS = """
       .term-index a:hover { color: var(--burgundy); text-decoration: underline; }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band + term cards ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(25px, 4.4vw, 36px); line-height: 1.28; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 2px 0 0; font-style: italic; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; font-style: normal; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 32px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 26px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .band-tint { max-width: 860px; margin: 26px auto 0; background: color-mix(in srgb, var(--burgundy) 6%, var(--bg)); border-top: 2px solid var(--gold-soft); border-radius: var(--radius); padding: 16px 20px 6px; }
+      .band-tint .bt-head { font-family: "Playfair Display", serif; font-size: 21px; margin: 0 0 12px; }
+      .term-index { columns: unset; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 860px; }
+      @media (max-width: 720px) { .term-index { grid-template-columns: 1fr; } }
+      .term-index li { margin: 0; }
+      .term-card { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 13px 15px; box-shadow: var(--shadow); height: 100%; box-sizing: border-box; }
+      .term-card:hover { border-color: var(--burgundy); text-decoration: none; }
+      .term-card .tc-term { font-family: "Noto Serif", serif; font-weight: 700; font-size: 16.5px; color: var(--ink); display: block; }
+      .term-card:hover .tc-term { color: var(--burgundy); }
+      .term-card .tc-en { font-size: 12.5px; font-style: italic; color: var(--gold-text); display: block; margin-top: 1px; }
+      .term-card .tc-def { font-size: 14px; line-height: 1.55; color: var(--ink-soft); display: block; margin-top: 5px; }
+      .core-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; list-style: none; padding: 0; margin: 0; }
+      @media (max-width: 720px) { .core-grid { grid-template-columns: 1fr; } }
 """
 
 MINI_JS = """
@@ -275,11 +299,13 @@ for e in entries:
 {header}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/bach-khoa/">Bách Khoa</a> · {esc(e['term_vi'])}</p>
-  <div class="cat-head">
-    <div class="kicker">Bách Khoa Thần Học</div>
-    <h1>{esc(e['term_vi'])}</h1>
-    {en_line}
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">{esc(e['term_vi'].strip()[:1])}</span><span class="m-small">Thuật ngữ</span></div>
+    <div>
+      <div class="tb-kicker">Bách Khoa Thần Học</div>
+      <h1>{esc(e['term_vi'])}</h1>
+      <p class="tb-sub">{esc(e["term_en"])} &nbsp;<span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
     <div class="term-def">{esc(e['definition_short_vi'])}</div>
@@ -301,13 +327,25 @@ for e in entries:
     (OUT / f"{e['slug']}.html").write_text(page, encoding="utf-8")
 print("200 entry pages written (full entries)")
 
+def term_card(e):
+    en = f'<span class="tc-en">{esc(e["term_en"])}</span>' if e["term_en"] else ""
+    return (f'<li data-name="{esc(norm(e["term_vi"]))}"><a class="term-card" href="/bach-khoa/{e["slug"]}.html">'
+            f'<span class="tc-term">{esc(e["term_vi"])}</span>{en}'
+            f'<span class="tc-def">{esc(e["definition_short_vi"])}</span></a></li>')
+
 groups = {}
 for e in sorted(entries, key=lambda x: x["slug"]):
     groups.setdefault(e["slug"][0].upper(), []).append(e)
 index_html = ""
 for letter in sorted(groups):
-    items = "".join(f'<li data-name="{esc(norm(e["term_vi"]))}"><a href="/bach-khoa/{e["slug"]}.html">{esc(e["term_vi"])}</a></li>' for e in groups[letter])
+    items = "".join(term_card(e) for e in groups[letter])
     index_html += f'<h2 class="letter">{letter}</h2><ul class="term-index">{items}</ul>'
+
+# featured core-terms row (design pass 2026-11): slugs verified against the data
+CORE_SLUGS = ["an-dien", "duc-tin", "xung-cong-chinh", "su-chuoc-toi", "su-nen-thanh", "dang-christ"]
+assert all(s in by_slug for s in CORE_SLUGS)
+featured_html = ('<div class="band-tint"><h2 class="bt-head">Thuật ngữ cốt lõi</h2><ul class="core-grid">'
+                 + "".join(term_card(by_slug[s]) for s in CORE_SLUGS) + "</ul></div>")
 landing = f"""{head("Bách Khoa Thần Học Cải Chánh — 200 thuật ngữ | Reformed Vietnam",
                      "Tra cứu 200 thuật ngữ thần học Cải Chánh bằng tiếng Việt dễ hiểu: định nghĩa, giải thích, căn cứ Kinh Thánh và thuật ngữ liên quan.", BASE + "/bach-khoa/")}
 <body id="top">
@@ -324,6 +362,7 @@ landing = f"""{head("Bách Khoa Thần Học Cải Chánh — 200 thuật ngữ 
     <input type="search" id="termSearch" placeholder="Tìm thuật ngữ… (gõ không dấu cũng được)" aria-label="Tìm thuật ngữ" />
   </div>
   <p id="termCount" style="text-align:center;color:var(--ink-soft);font-size:13.5px">200 thuật ngữ</p>
+  {featured_html}
   <div id="termIndex">
 {index_html}
   </div>

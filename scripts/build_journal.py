@@ -47,6 +47,25 @@ EXTRA_CSS = """
       .qa-card h3 { font-family: "Noto Serif", serif; font-size: 18.5px; margin: 0 0 6px; color: var(--ink); line-height: 1.45; }
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .qa-card:hover h3 { color: var(--burgundy); }
+      /* ---------- design pass 2026-11: title band / masthead / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label, .masthead .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 27px; font-weight: 700; line-height: 1; letter-spacing: .04em; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 22px; } }
+      @media (prefers-color-scheme: dark) { .title-band, .masthead { background: linear-gradient(120deg, #241611, #571d22); } }
+      .masthead { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 30px 28px; text-align: center; }
+      .masthead .kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .masthead h1 { font-family: "Playfair Display", serif; font-size: clamp(28px, 5vw, 42px); margin: 8px 0 10px; color: #fdf6e9; }
+      .masthead p { color: #efdfc2; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.55; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 22px 0; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .qa-card.featured { border-left: 5px solid var(--burgundy); background: color-mix(in srgb, var(--burgundy) 5%, var(--surface)); }
+      .qa-card.featured h3 { font-size: 21px; }
 """
 
 MINI_JS = """
@@ -94,24 +113,47 @@ OUT = ROOT / "tap-chi"
 OUT.mkdir(exist_ok=True)
 sitemap_urls = ["/tap-chi/"]
 
+# design pass 2026-11: one pull quote per article, each a VERBATIM substring
+# of that article's own excerpt text (asserted at build time — never invented)
+PULL_QUOTES = {
+    "duc-chua-troi-xung-cong-chinh-ke-khong-tin-kinh":
+        "Với tôi, đến hôm nay đó vẫn là điều kỳ diệu lớn nhất tôi từng nghe: rằng Đức Chúa Trời lại xưng công chính tôi.",
+    "chu-quyen-cua-duc-chua-troi-duoc-dinh-nghia":
+        "Nói rằng Đức Chúa Trời có chủ quyền là tuyên bố rằng Đức Chúa Trời là Đức Chúa Trời.",
+    "su-nen-thanh-ryle":
+        "Đây là một chủ đề có tầm quan trọng tột cùng đối với linh hồn chúng ta.",
+}
+
+def author_initials(name):
+    words = [w for w in re.split(r"\s+", name.strip()) if w]
+    return (words[0][0] + words[-1][0]).upper() if words else ""
+
 for a in articles:
     url = f"{BASE}/tap-chi/{a['slug']}.html"
     sitemap_urls.append(f"/tap-chi/{a['slug']}.html")
     intro = "".join(f"<p>{esc(p)}</p>" for p in a["intro_vi"])
-    excerpt = "".join(f"<p>{esc(p)}</p>" for p in a["excerpt_vi"])
+    pq = PULL_QUOTES.get(a["slug"])
+    if pq:
+        assert pq in " ".join(a["excerpt_vi"]), f"pull quote not verbatim in {a['slug']}"
+    ex_paras = [f"<p>{esc(p)}</p>" for p in a["excerpt_vi"]]
+    if pq and len(ex_paras) > 2:
+        ex_paras.insert(2, f'<blockquote class="pull-quote">{esc(pq)}</blockquote>')
+    excerpt = "".join(ex_paras)
     page = f"""{head(a["title_vi"] + " — " + a["author"] + " | Tạp Chí Cải Chánh", a["intro_vi"][0][:150], url)}
 <body id="top">
 {header}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/tap-chi/">Tạp Chí</a> · {esc(a["author"])}</p>
-  <div class="cat-head">
-    <div class="kicker">Tạp Chí Cải Chánh</div>
-    <h1>{esc(a["title_vi"])}</h1>
-    <p style="color:var(--ink-soft)">{esc(a["author"])} ({esc(a["author_years"])})</p>
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">{esc(author_initials(a["author"]))}</span><span class="m-small">Tác giả</span></div>
+    <div>
+      <div class="tb-kicker">Tạp Chí Cải Chánh</div>
+      <h1>{esc(a["title_vi"])}</h1>
+      <p class="tb-sub">{esc(a["author"])} ({esc(a["author_years"])}) &nbsp;<span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <div class="ans-body">{intro}</div>
+    <div class="ans-body dropcap">{intro}</div>
     <p class="excerpt-mark">TRÍCH ĐĂNG — BẢN DỊCH AI, CHƯA DUYỆT</p>
     <div class="excerpt">{excerpt}</div>
     <p style="margin-top:18px"><a class="btn solid" href="{esc(a["source_url"])}">Đọc trọn cuốn {esc(a["source_book_vi"])} trong thư viện →</a></p>
@@ -127,19 +169,19 @@ for a in articles:
     (OUT / f"{a['slug']}.html").write_text(page, encoding="utf-8")
 
 cards = "".join(
-    f'<a class="qa-card" href="/tap-chi/{a["slug"]}.html"><h3>{esc(a["title_vi"])}</h3>'
+    f'<a class="qa-card{" featured" if i == 0 else ""}" href="/tap-chi/{a["slug"]}.html"><h3>{esc(a["title_vi"])}</h3>'
     f'<p>{esc(a["author"])} — {esc(a["intro_vi"][0][:130])}…</p></a>'
-    for a in articles)
+    for i, a in enumerate(articles))
 index = f"""{head("Tạp Chí Cải Chánh | Reformed Vietnam",
                    "Tạp chí trích đăng những chương tiêu biểu từ các tác phẩm thần học kinh điển thuộc phạm vi công cộng, kèm lời giới thiệu tiếng Việt.", BASE + "/tap-chi/")}
 <body id="top">
 {header}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · Tạp Chí</p>
-  <div class="cat-head">
+  <div class="masthead">
     <div class="kicker">Tạp Chí Cải Chánh</div>
     <h1>Đọc Sâu, Nghĩ Sâu</h1>
-    <p style="color:var(--ink-soft);max-width:640px;margin:0 auto">Tạp chí trích đăng những chương tiêu biểu nhất từ các tác phẩm kinh điển đã có trong thư viện — Spurgeon, Pink, Ryle và nhiều tác giả khác — kèm lời giới thiệu ngắn để bạn đọc có bối cảnh trước khi vào bài. Mỗi bài đều ghi rõ nguồn và tình trạng duyệt.</p>
+    <p style="max-width:640px;margin:0 auto">Tạp chí trích đăng những chương tiêu biểu nhất từ các tác phẩm kinh điển đã có trong thư viện — Spurgeon, Pink, Ryle và nhiều tác giả khác — kèm lời giới thiệu ngắn để bạn đọc có bối cảnh trước khi vào bài. Mỗi bài đều ghi rõ nguồn và tình trạng duyệt.</p>
     <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
   </div>
   <div class="qa-cards">{cards}</div>

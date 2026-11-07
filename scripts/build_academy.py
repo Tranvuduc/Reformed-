@@ -361,13 +361,15 @@ for key, label, blurb in LEVELS:
         for c in cs)
     sections.append(f'<section style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>{label}</h2><p>{blurb}</p></div><div class="mod-grid">{cards}</div></section>')
 cert_sections = []
-for cert in CERTS:
+for ci, cert in enumerate(CERTS):
     cards = "".join(
         f'<a class="mod-card" href="/hoc-vien/khoa/{c["slug"]}/"><span class="pill ok">Thirdmill</span>'
         f'<h3>{esc(c["vi"])}</h3><p>{esc(c["en"])} · {len(series_of(c["en"]))} loạt bài · {sum(s["lesson_count"] for s in series_of(c["en"]))} bài học</p>'
         f'<p style="margin-top:8px;font-weight:600">Huy hiệu phục vụ: {esc(c["badge"])}</p></a>'
         for c in cert["courses"])
-    cert_sections.append(f'<section id="{cert["id"]}" style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>{esc(cert["vi"])}</h2><p>{esc(cert["blurb"])} Tổng cộng {cert["total_lessons"]} bài học.</p></div><div class="mod-grid">{cards}</div></section>')
+    # design pass 2026-11: alternate a burgundy-tint band with a gold rule across the certificate sections
+    tint = "background:rgba(124,33,40,.05);border-top:2px solid #d9c08a;border-radius:12px;padding:16px 18px 2px;" if ci % 2 == 1 else ""
+    cert_sections.append(f'<section id="{cert["id"]}" style="margin-bottom:30px;{tint}"><div class="section-head"><div class="rule"></div><h2>{esc(cert["vi"])}</h2><p>{esc(cert["blurb"])} Tổng cộng {cert["total_lessons"]} bài học.</p></div><div class="mod-grid">{cards}</div></section>')
 landing = f"""{head("Học Viện Cải Chánh — Chương trình Thirdmill miễn phí + lộ trình tiếng Việt | Reformed Vietnam",
                     "Học Viện Cải Chánh theo chương trình chính thức của Thirdmill Institute: 3 chứng chỉ, 14 khóa, 122 bài học miễn phí trên Nexus, kèm lộ trình đồng hành tiếng Việt.",
                     BASE + "/hoc-vien/")}
@@ -380,6 +382,7 @@ landing = f"""{head("Học Viện Cải Chánh — Chương trình Thirdmill mi�
     <h1>Học thần học theo chương trình Thirdmill — miễn phí</h1>
     <p style="color:var(--ink-soft)">Học Viện chạy theo chương trình chính thức của <strong>Thirdmill Institute</strong> (Third Millennium Ministries): ba chứng chỉ, 14 khóa, 122 bài học cấp chủng viện, học miễn phí trên nền tảng Nexus. Hoàn thành cả ba chứng chỉ, học viên nhận Diploma in Christian Ministry từ Thirdmill Institute. Bên dưới chương trình chính là các lộ trình đồng hành tiếng Việt của Reformed Vietnam.</p>
   </div>
+  <figure style="margin:20px auto 26px;max-width:860px"><img src="/img/hub-academy.webp" alt="Học Viện Cải Chánh" style="width:100%;height:auto;display:block;border-radius:12px;box-shadow:0 10px 28px rgba(50,30,8,.22)" /></figure>
   <section style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>Cách học</h2></div>
     <div class="mod-grid">
       <div class="mod-card"><h3>1 · Học trên Nexus</h3><p>Mỗi khóa bên dưới liệt kê đầy đủ các loạt bài và bài học. Nút “Học trên Nexus” đưa bạn đến video, bản văn và bài kiểm tra chính thức (tiếng Anh; Nexus có giao diện tiếng Việt).</p></div>

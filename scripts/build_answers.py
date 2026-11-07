@@ -109,6 +109,23 @@ EXTRA_CSS = """
       .qa-card h3 { font-family: "Noto Serif", serif; font-size: 18.5px; margin: 0 0 6px; color: var(--ink); line-height: 1.45; }
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .qa-card:hover h3 { color: var(--burgundy); }
+      /* ---------- design pass 2026-11: title band / prose kit / card medallion ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 36px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 30px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .short-panel { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-left: 4px solid var(--gold-soft); border-radius: 0 10px 10px 0; padding: 16px 18px; }
+      .short-panel .sp-kicker { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-text); margin-bottom: 6px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.55; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 24px 0; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .qa-card { display: flex; gap: 16px; align-items: flex-start; }
+      .qa-medal { flex: 0 0 auto; width: 46px; height: 46px; border-radius: 50%; background: var(--burgundy); color: #fdf6e9; font-family: "Playfair Display", serif; font-weight: 700; font-size: 24px; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
 """
 
 MINI_JS = """
@@ -165,7 +182,14 @@ for e in entries:
     q = e["question_vi"]
     title = f"{q} | Hỏi Đáp Cải Chánh"
     desc = e["answer_short_vi"][:155]
-    body = '<div class="ans-body" style="margin-top:14px">' + "".join(f"<p>{esc(p)}</p>" for p in e["body_vi"]) + "</div>"
+    # design pass 2026-11: pull quote = first sentence of the short answer
+    # (verbatim substring of existing content, asserted), set after body para 1
+    first_sentence = re.split(r"(?<=[.!?])\s+", e["answer_short_vi"].strip())[0]
+    assert first_sentence and first_sentence in e["answer_short_vi"]
+    paras = [f"<p>{esc(p)}</p>" for p in e["body_vi"]]
+    if len(paras) > 1:
+        paras.insert(1, f'<blockquote class="pull-quote">{esc(first_sentence)}</blockquote>')
+    body = '<div class="ans-body dropcap" style="margin-top:14px">' + "".join(paras) + "</div>"
     proofs = "".join(
         f'<details class="proof"><summary>{esc(p["ref_vi"])}</summary><p>{esc(p["text_vi"])}</p></details>'
         for p in e["scripture_refs"])
@@ -179,13 +203,16 @@ for e in entries:
 {header}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/hoi-dap/">Hỏi Đáp</a></p>
-  <div class="cat-head">
-    <div class="kicker">Hỏi Đáp Cải Chánh</div>
-    <h1>{esc(q)}</h1>
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">?</span><span class="m-small">Hỏi Đáp</span></div>
+    <div>
+      <div class="tb-kicker">Hỏi Đáp Cải Chánh</div>
+      <h1>{esc(q)}</h1>
+      <p class="tb-sub"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <div class="ans-short">{esc(e['answer_short_vi'])}</div>
+    <div class="short-panel"><div class="sp-kicker">Trả lời ngắn</div><div class="ans-short">{esc(e['answer_short_vi'])}</div></div>
     {body}
     <div style="margin-top:16px"><h3 style="margin:0 0 4px">Căn cứ Kinh Thánh <span style="font-weight:400;font-size:13.5px;color:var(--ink-soft)">(bấm để đọc câu gốc — bản 1934)</span></h3>{proofs}</div>
     {enc_chips}
@@ -204,7 +231,7 @@ for e in entries:
 print("5 answer pages written")
 
 cards = "".join(
-    f'<a class="qa-card" href="/hoi-dap/{e["slug"]}.html"><h3>{esc(e["question_vi"])}</h3><p>{esc(e["answer_short_vi"][:150])}…</p></a>'
+    f'<a class="qa-card" href="/hoi-dap/{e["slug"]}.html"><span class="qa-medal">?</span><span><h3>{esc(e["question_vi"])}</h3><p>{esc(e["answer_short_vi"][:150])}…</p></span></a>'
     for e in entries)
 landing = f"""{head("Hỏi Đáp Cải Chánh — Giải đáp thắc mắc đức tin | Reformed Vietnam",
                      "Những câu hỏi thường gặp về đức tin Cải Chánh — tiền định, cầu nguyện, xưng công chính — được trả lời ngắn gọn, dễ hiểu, có căn cứ Kinh Thánh.", BASE + "/hoi-dap/")}

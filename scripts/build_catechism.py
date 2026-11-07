@@ -110,6 +110,24 @@ EXTRA_CSS = """
       .quiz-opt { display: block; width: 100%; text-align: left; margin: 8px 0; padding: 13px 16px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font: inherit; font-size: 15.5px; cursor: pointer; }
       .quiz-opt.correct { border-color: var(--green); background: color-mix(in srgb, var(--green) 12%, transparent); }
       .quiz-opt.wrong { border-color: var(--burgundy); background: color-mix(in srgb, var(--burgundy) 10%, transparent); }
+      /* ---------- design pass 2026-11: title band + index bands ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.3; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; vertical-align: 2px; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .cat-band { max-width: 860px; margin: 28px auto 0; }
+      .cat-band-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; border-bottom: 2px solid var(--gold-soft); padding-bottom: 6px; margin-bottom: 12px; }
+      .cat-band-head h3 { font-family: "Playfair Display", serif; font-size: 21px; margin: 0; }
+      .cat-band-head .rng { color: var(--gold-text); font-weight: 700; font-size: 13px; letter-spacing: .05em; }
+      .cat-index a.qrow { display: flex; gap: 12px; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 11px 14px; box-shadow: var(--shadow); }
+      .cat-index a.qrow:hover { border-color: var(--burgundy); text-decoration: none; color: var(--ink); }
+      .cat-index .n { flex: 0 0 auto; background: var(--burgundy); color: #fdf6e9; font-weight: 700; font-size: 13.5px; border-radius: 999px; min-width: 34px; text-align: center; padding: 2px 8px; margin: 1px 0 0; }
 """
 
 MINI_JS = """
@@ -180,12 +198,15 @@ for q in questions:
 {header}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/giao-ly/">Giáo Lý</a> · Câu {n}</p>
-  <div class="cat-head">
-    <div class="kicker">Tín Lý Yếu Lược Westminster · Câu {n} / 107</div>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">{n}</span><span class="m-small">Câu</span></div>
+    <div>
+      <div class="tb-kicker">Giáo Lý · Tín Lý Yếu Lược Westminster</div>
+      <h1>{esc(q['question_vi'])}</h1>
+      <p class="tb-sub">Câu {n} / 107 &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <h1 class="cat-q">{esc(q['question_vi'])}</h1>
     <div class="cat-a" id="answerBody">{esc(q['answer_vi'])}</div>
     <p style="margin-top:14px"><button class="btn" type="button" id="memoBtn">Chế độ ghi nhớ: ẩn đáp án</button></p>
     {proofs_html(q)}
@@ -212,9 +233,27 @@ for q in questions:
 print("107 question pages written")
 
 # ---------- landing page ----------
-index_items = "\n".join(
-    f'<li><span class="n">{q["number"]}.</span><a href="/giao-ly/cau-{q["number"]}.html">{esc(q["question_vi"])}</a></li>'
-    for q in questions)
+# Doctrinal section bands over the flat 107 list (design pass 2026-11): the
+# classic WSC outline — introduction, what to believe, what duty is required
+# (law, incl. Q82–84 on sin), and the means of grace. Ranges cover 1–107
+# exactly once, in order.
+BANDS = [
+    (1, 3, "Mở đầu — Mục đích của con người và Kinh Thánh"),
+    (4, 38, "Điều phải tin về Đức Chúa Trời"),
+    (39, 84, "Bổn phận Đức Chúa Trời đòi hỏi — Luật pháp và Mười Điều Răn"),
+    (85, 107, "Các phương tiện ân điển"),
+]
+assert [n for lo, hi, _ in BANDS for n in range(lo, hi + 1)] == list(range(1, 108))
+def band_sections():
+    out = []
+    for lo, hi, label in BANDS:
+        rows = "\n".join(
+            f'<li><a class="qrow" href="/giao-ly/cau-{q["number"]}.html"><span class="n">{q["number"]}</span><span>{esc(q["question_vi"])}</span></a></li>'
+            for q in questions if lo <= q["number"] <= hi)
+        out.append(f'<section class="cat-band"><div class="cat-band-head"><h3>{label}</h3>'
+                   f'<span class="rng">Câu {lo}–{hi}</span></div>'
+                   f'<ol class="cat-index" style="list-style:none;padding:0">\n{rows}\n</ol></section>')
+    return "\n".join(out)
 landing = f"""{head("Tín Lý Yếu Lược Westminster — 107 câu hỏi đáp | Reformed Vietnam",
                      "Học Tín Lý Yếu Lược Westminster (1647): trọn 107 câu hỏi đáp đức tin Cải Chánh, có căn cứ Kinh Thánh, chế độ ghi nhớ và trắc nghiệm.", BASE + "/giao-ly/")}
 <body id="top">
@@ -240,9 +279,7 @@ landing = f"""{head("Tín Lý Yếu Lược Westminster — 107 câu hỏi đáp
   </div>
   {share_row(BASE + "/giao-ly/", "Tín Lý Yếu Lược Westminster")}
   <h2 style="font-family:'Playfair Display',serif;text-align:center;margin-top:26px">Mục lục trọn 107 câu</h2>
-  <ol class="cat-index" style="list-style:none;padding:0">
-{index_items}
-  </ol>
+{band_sections()}
   <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin-bottom:34px">Nguồn bản dịch: Kinh Thánh Mỗi Ngày — Westminster Shorter Catechism (1647), thuộc phạm vi công cộng.</p>
 </main>
 {footer}

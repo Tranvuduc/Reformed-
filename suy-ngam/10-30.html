@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 30 tháng 10</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Sự Tẩy Sạch Triệt Để</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 30 tháng 10 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">30</span><span class="m-small">tháng 10</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Sự Tẩy Sạch Triệt Để</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 30 tháng 10 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Ta sẽ rưới nước trong trên các ngươi, và các ngươi sẽ được sạch: ta sẽ làm sạch mọi sự ô uế và mọi thần tượng của các ngươi”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Ta sẽ rưới nước trong trên các ngươi, và các ngươi sẽ được sạch: ta sẽ làm sạch mọi sự ô uế và mọi thần tượng của các ngươi”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/ezek/36.html#v25" style="color:inherit">Ê-xê-chi-ên 36:25</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Đức Chúa Trời hứa tẩy sạch dân Ngài khỏi mọi ô uế và mọi thần tượng bằng huyết và Thánh Linh.</p>
-    <div class="dev-body"><p>Thật là một niềm vui lớn lao! Đấng đã tẩy sạch chúng ta bằng huyết Chúa Giê-xu cũng sẽ tẩy sạch chúng ta bằng nước của Đức Thánh Linh. Đức Chúa Trời đã phán, và vì thế hẳn phải thành: &quot;Các ngươi sẽ được sạch.&quot; Lạy Chúa, chúng con cảm nhận và than khóc sự ô uế mình, và thật được khích lệ khi chính miệng Ngài đảm bảo rằng chúng con sẽ được sạch. Ôi, ước gì Ngài mau làm xong việc ấy!</p><p>Ngài sẽ giải cứu chúng ta khỏi những tội tệ nhất. Những nổi dậy của vô tín, và những dục vọng dối trá tranh chiến với linh hồn, những tư tưởng kiêu ngạo xấu xa, và những gợi ý của Sa-tan phạm thượng đến danh thánh — tất cả sẽ bị tẩy sạch đến nỗi không bao giờ trở lại.</p><p>Ngài cũng sẽ tẩy sạch chúng ta khỏi mọi thần tượng, dù bằng vàng hay bằng đất sét: những tình yêu ô uế của chúng ta, và tình yêu quá độ của chúng ta đối với điều vốn trong sạch. Điều chúng ta đã thần tượng hóa sẽ hoặc bị bẻ gãy khỏi chúng ta, hoặc chúng ta sẽ bị bẻ gãy khỏi nó.</p><p>Chính Đức Chúa Trời phán về điều Ngài sẽ làm. Vì thế lời này được vững lập và chắc chắn, và chúng ta có thể mạnh dạn trông đợi điều nó bảo đảm cho chúng ta. Sự tẩy sạch là một phước lành giao ước, và giao ước được sắp đặt trong mọi sự và chắc chắn.</p></div>
+    <div class="dev-body dropcap"><p>Thật là một niềm vui lớn lao! Đấng đã tẩy sạch chúng ta bằng huyết Chúa Giê-xu cũng sẽ tẩy sạch chúng ta bằng nước của Đức Thánh Linh. Đức Chúa Trời đã phán, và vì thế hẳn phải thành: &quot;Các ngươi sẽ được sạch.&quot; Lạy Chúa, chúng con cảm nhận và than khóc sự ô uế mình, và thật được khích lệ khi chính miệng Ngài đảm bảo rằng chúng con sẽ được sạch. Ôi, ước gì Ngài mau làm xong việc ấy!</p><p>Ngài sẽ giải cứu chúng ta khỏi những tội tệ nhất. Những nổi dậy của vô tín, và những dục vọng dối trá tranh chiến với linh hồn, những tư tưởng kiêu ngạo xấu xa, và những gợi ý của Sa-tan phạm thượng đến danh thánh — tất cả sẽ bị tẩy sạch đến nỗi không bao giờ trở lại.</p><p>Ngài cũng sẽ tẩy sạch chúng ta khỏi mọi thần tượng, dù bằng vàng hay bằng đất sét: những tình yêu ô uế của chúng ta, và tình yêu quá độ của chúng ta đối với điều vốn trong sạch. Điều chúng ta đã thần tượng hóa sẽ hoặc bị bẻ gãy khỏi chúng ta, hoặc chúng ta sẽ bị bẻ gãy khỏi nó.</p><p>Chính Đức Chúa Trời phán về điều Ngài sẽ làm. Vì thế lời này được vững lập và chắc chắn, và chúng ta có thể mạnh dạn trông đợi điều nó bảo đảm cho chúng ta. Sự tẩy sạch là một phước lành giao ước, và giao ước được sắp đặt trong mọi sự và chắc chắn.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

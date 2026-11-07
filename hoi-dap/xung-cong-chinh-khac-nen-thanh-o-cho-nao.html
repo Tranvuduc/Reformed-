@@ -458,6 +458,23 @@
       .qa-card h3 { font-family: "Noto Serif", serif; font-size: 18.5px; margin: 0 0 6px; color: var(--ink); line-height: 1.45; }
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .qa-card:hover h3 { color: var(--burgundy); }
+      /* ---------- design pass 2026-11: title band / prose kit / card medallion ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 36px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 30px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .short-panel { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-left: 4px solid var(--gold-soft); border-radius: 0 10px 10px 0; padding: 16px 18px; }
+      .short-panel .sp-kicker { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-text); margin-bottom: 6px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.55; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 24px 0; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .qa-card { display: flex; gap: 16px; align-items: flex-start; }
+      .qa-medal { flex: 0 0 auto; width: 46px; height: 46px; border-radius: 50%; background: var(--burgundy); color: #fdf6e9; font-family: "Playfair Display", serif; font-weight: 700; font-size: 24px; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
 </style>
 </head>
 <body id="top">
@@ -486,14 +503,17 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/hoi-dap/">Hỏi Đáp</a></p>
-  <div class="cat-head">
-    <div class="kicker">Hỏi Đáp Cải Chánh</div>
-    <h1>Sự xưng công chính khác sự nên thánh ở chỗ nào?</h1>
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">?</span><span class="m-small">Hỏi Đáp</span></div>
+    <div>
+      <div class="tb-kicker">Hỏi Đáp Cải Chánh</div>
+      <h1>Sự xưng công chính khác sự nên thánh ở chỗ nào?</h1>
+      <p class="tb-sub"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <div class="ans-short">Sự xưng công chính là hành động một lần của Đức Chúa Trời, khi Ngài kể tội nhân tin Chúa Giê-xu là công chính vì cớ sự công chính của Đấng Christ — địa vị của chúng ta trước mặt Ngài thay đổi ngay lập tức và trọn vẹn. Sự nên thánh là công việc dần dần của Đức Thánh Linh trong suốt đời tín đồ, khiến chúng ta ngày càng giống Đấng Christ và ghét tội lỗi hơn. Hai điều này khác nhau nhưng không bao giờ tách rời: người nào thật sự được xưng công chính thì chắc chắn cũng sẽ được nên thánh.</div>
-    <div class="ans-body" style="margin-top:14px"><p>Sự xưng công chính liên quan đến địa vị của chúng ta trước mặt Đức Chúa Trời. Khi một tội nhân tin nơi Đấng Christ, Đức Chúa Trời tha thứ mọi tội lỗi của người ấy và kể sự công chính hoàn hảo của Đấng Christ cho người ấy. Việc này xảy ra một lần, trọn vẹn ngay trong lúc tin, và không dựa trên bất cứ việc lành nào của chúng ta.</p><p>Sự nên thánh liên quan đến đời sống thật của chúng ta mỗi ngày. Sau khi được xưng công chính, tín đồ vẫn còn chiến đấu với tội lỗi, nhưng Đức Thánh Linh làm việc trong lòng họ để họ vâng lời Chúa nhiều hơn và giống Đấng Christ hơn. Việc này diễn ra dần dần trong suốt cuộc đời, cho đến khi chúng ta được vinh hiển.</p><p>Vì vậy, đừng gộp hai điều này lại thành một, cũng đừng tách chúng ra khỏi nhau. Nếu gộp lại, chúng ta sẽ tưởng rằng mình được cứu nhờ việc làm tốt dần lên của mình. Nếu tách ra, chúng ta sẽ tưởng rằng mình có thể tin Chúa mà không cần sống thánh khiết. Kinh Thánh giữ cả hai: Đức Chúa Trời xưng công chính cho kẻ tin, và chính những người ấy Ngài cũng làm cho nên thánh.</p></div>
+    <div class="short-panel"><div class="sp-kicker">Trả lời ngắn</div><div class="ans-short">Sự xưng công chính là hành động một lần của Đức Chúa Trời, khi Ngài kể tội nhân tin Chúa Giê-xu là công chính vì cớ sự công chính của Đấng Christ — địa vị của chúng ta trước mặt Ngài thay đổi ngay lập tức và trọn vẹn. Sự nên thánh là công việc dần dần của Đức Thánh Linh trong suốt đời tín đồ, khiến chúng ta ngày càng giống Đấng Christ và ghét tội lỗi hơn. Hai điều này khác nhau nhưng không bao giờ tách rời: người nào thật sự được xưng công chính thì chắc chắn cũng sẽ được nên thánh.</div></div>
+    <div class="ans-body dropcap" style="margin-top:14px"><p>Sự xưng công chính liên quan đến địa vị của chúng ta trước mặt Đức Chúa Trời. Khi một tội nhân tin nơi Đấng Christ, Đức Chúa Trời tha thứ mọi tội lỗi của người ấy và kể sự công chính hoàn hảo của Đấng Christ cho người ấy. Việc này xảy ra một lần, trọn vẹn ngay trong lúc tin, và không dựa trên bất cứ việc lành nào của chúng ta.</p><blockquote class="pull-quote">Sự xưng công chính là hành động một lần của Đức Chúa Trời, khi Ngài kể tội nhân tin Chúa Giê-xu là công chính vì cớ sự công chính của Đấng Christ — địa vị của chúng ta trước mặt Ngài thay đổi ngay lập tức và trọn vẹn.</blockquote><p>Sự nên thánh liên quan đến đời sống thật của chúng ta mỗi ngày. Sau khi được xưng công chính, tín đồ vẫn còn chiến đấu với tội lỗi, nhưng Đức Thánh Linh làm việc trong lòng họ để họ vâng lời Chúa nhiều hơn và giống Đấng Christ hơn. Việc này diễn ra dần dần trong suốt cuộc đời, cho đến khi chúng ta được vinh hiển.</p><p>Vì vậy, đừng gộp hai điều này lại thành một, cũng đừng tách chúng ra khỏi nhau. Nếu gộp lại, chúng ta sẽ tưởng rằng mình được cứu nhờ việc làm tốt dần lên của mình. Nếu tách ra, chúng ta sẽ tưởng rằng mình có thể tin Chúa mà không cần sống thánh khiết. Kinh Thánh giữ cả hai: Đức Chúa Trời xưng công chính cho kẻ tin, và chính những người ấy Ngài cũng làm cho nên thánh.</p></div>
     <div style="margin-top:16px"><h3 style="margin:0 0 4px">Căn cứ Kinh Thánh <span style="font-weight:400;font-size:13.5px;color:var(--ink-soft)">(bấm để đọc câu gốc — bản 1934)</span></h3><details class="proof"><summary>Rô-ma 3:28</summary><p>vì chúng ta kể rằng người ta được xưng công bình bởi đức tin, chớ không bởi việc làm theo luật pháp.</p></details><details class="proof"><summary>1 Cô-rinh-tô 6:11</summary><p>Trước kia anh em ít nữa cũng có một đôi người như thế; nhưng nhân danh Đức Chúa Jêsus Christ, và nhờ Thánh Linh của Đức Chúa Trời chúng ta, thì anh em được rửa sạch, được nên thánh, được xưng công bình rồi.</p></details><details class="proof"><summary>1 Phi-e-rơ 1:15</summary><p>Nhưng, như Đấng gọi anh em là thánh, thì anh em cũng phải thánh trong mọi cách ăn ở mình,</p></details><details class="proof"><summary>Hê-bơ-rơ 12:14</summary><p>Hãy cầu sự bình an với mọi người, cùng tìm theo sự nên thánh, vì nếu không nên thánh thì chẳng ai được thấy Đức Chúa Trời.</p></details></div>
     <div style="margin-top:18px"><h3 style="margin:0 0 10px">Đọc thêm trong Bách Khoa</h3><div class="rel-links"><a class="btn" href="/bach-khoa/su-cong-chinh.html">Sự công chính</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a></div></div>
     <div style="margin-top:18px"><h3 style="margin:0 0 10px">Trong Tín Lý Yếu Lược Westminster</h3><div class="rel-links"><a class="btn" href="/giao-ly/cau-32.html">Câu 32</a><a class="btn" href="/giao-ly/cau-33.html">Câu 33</a><a class="btn" href="/giao-ly/cau-35.html">Câu 35</a></div></div>

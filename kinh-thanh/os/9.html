@@ -468,6 +468,11 @@
       .note-panel p, .note-panel li { font-family: "Noto Serif", serif; font-size: 15.5px; line-height: 1.75; }
       .plan-row { display: flex; justify-content: space-between; gap: 10px; padding: 9px 2px; border-bottom: 1px solid var(--line); font-size: 15px; }
       .plan-row a { color: var(--burgundy); text-decoration: none; font-weight: 600; }
+      /* ---------- design pass 2026-11: pull quote + section rhythm ---------- */
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: 20px; color: var(--burgundy); border-left: 4px solid var(--gold-soft); }
+      .testament-h { border-bottom: 2px solid var(--gold-soft); padding-bottom: 6px; }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--bg)); border-top: 2px solid var(--gold-soft); border-radius: var(--radius); padding: 16px 20px 20px; margin-top: 26px; }
+      .band-tint h2 { margin-top: 0 !important; }
 </style>
 </head>
 <body id="top">
@@ -507,7 +512,7 @@
     <div class="kicker" style="color:var(--gold-text);font-weight:700;font-size:12.5px;letter-spacing:.08em">TÓM TẮT CHƯƠNG</div>
     <p style="margin-top:8px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
     <p style="margin-top:8px">Ô-sê bảo Y-sơ-ra-ên chớ vui mừng như các dân, vì nó đã phạm tội tà dâm và cách xa Đức Chúa Trời. Nó sẽ không ở trong đất của Đức Giê-hô-va nữa, sẽ trở về Ê-díp-tô và ăn đồ ô uế. Ép-ra-im sẽ bị bỏ vì không nghe Ngài, và sẽ đi dông dài trong các nước.</p>
-    <blockquote class="dev-verse-lg" style="margin:12px 0 4px">“Đức Chúa Trời ta sẽ bỏ chúng nó, vì chúng nó không nghe Ngài; và chúng nó sẽ đi dông dài trong các nước.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote" style="margin:12px 0 4px">“Đức Chúa Trời ta sẽ bỏ chúng nó, vì chúng nó không nghe Ngài; và chúng nó sẽ đi dông dài trong các nước.”</blockquote>
     <p style="color:var(--ink-soft);font-size:14px;margin:0 0 10px">— Ô-sê 9:17</p>
     <div style="display:flex;flex-wrap:wrap;gap:8px"><span class="btn" style="pointer-events:none">Tiên tri</span><span class="btn" style="pointer-events:none">Lịch sử Israel</span></div>
   </article>

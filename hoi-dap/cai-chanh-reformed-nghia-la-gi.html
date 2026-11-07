@@ -458,6 +458,23 @@
       .qa-card h3 { font-family: "Noto Serif", serif; font-size: 18.5px; margin: 0 0 6px; color: var(--ink); line-height: 1.45; }
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
       .qa-card:hover h3 { color: var(--burgundy); }
+      /* ---------- design pass 2026-11: title band / prose kit / card medallion ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 34px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 36px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 30px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .short-panel { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-left: 4px solid var(--gold-soft); border-radius: 0 10px 10px 0; padding: 16px 18px; }
+      .short-panel .sp-kicker { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold-text); margin-bottom: 6px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.55; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 24px 0; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .qa-card { display: flex; gap: 16px; align-items: flex-start; }
+      .qa-medal { flex: 0 0 auto; width: 46px; height: 46px; border-radius: 50%; background: var(--burgundy); color: #fdf6e9; font-family: "Playfair Display", serif; font-weight: 700; font-size: 24px; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
 </style>
 </head>
 <body id="top">
@@ -486,14 +503,17 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/hoi-dap/">Hỏi Đáp</a></p>
-  <div class="cat-head">
-    <div class="kicker">Hỏi Đáp Cải Chánh</div>
-    <h1>“Cải Chánh” (Reformed) nghĩa là gì?</h1>
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">?</span><span class="m-small">Hỏi Đáp</span></div>
+    <div>
+      <div class="tb-kicker">Hỏi Đáp Cải Chánh</div>
+      <h1>“Cải Chánh” (Reformed) nghĩa là gì?</h1>
+      <p class="tb-sub"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <div class="ans-short">“Cải Chánh” chỉ về phong trào thế kỷ 16, khi Hội Thánh quay trở lại với Phúc Âm của Kinh Thánh: chỉ Kinh Thánh là thẩm quyền tối cao, chỉ bởi ân điển, chỉ bởi đức tin, chỉ qua Đấng Christ, và mọi sự vì vinh hiển duy Đức Chúa Trời. Nói đơn giản, người Cải Chánh là người tin rằng sự cứu rỗi hoàn toàn là công việc của Đức Chúa Trời, và đời sống Cơ Đốc phải được xây dựng trên Lời Chúa.</div>
-    <div class="ans-body" style="margin-top:14px"><p>Vào thế kỷ 16, nhiều người trong Hội Thánh nhận ra rằng Phúc Âm đã bị che khuất bởi những truyền thống và việc làm của con người. Phong trào Cải Chánh ra đời để đưa Hội Thánh trở lại với Kinh Thánh, nhấn mạnh rằng tội nhân được cứu chỉ bởi ân điển của Đức Chúa Trời, qua đức tin nơi Đấng Christ, chứ không phải nhờ công đức của mình. Năm khẩu hiệu của phong trào này thường được gọi là Năm Sola: duy Kinh Thánh, duy ân điển, duy đức tin, duy Đấng Christ, và vinh hiển duy Đức Chúa Trời.</p><p>Người Cải Chánh cũng tin rằng Đức Chúa Trời là Đấng tể trị trên mọi sự, kể cả sự cứu rỗi, và Ngài đã chọn dân Ngài theo ý tốt của Ngài trước khi sáng thế. Đồng thời, họ tin rằng mỗi tín hữu có trách nhiệm rao truyền Phúc Âm, sống thánh khiết và thờ phượng Chúa theo Lời Ngài dạy. Đây là đức tin được tóm tắt trong các bản tuyên xưng lịch sử như Bản Tuyên Xưng Đức Tin Westminster và Giáo Lý Heidelberg.</p><p>Ngày nay, khi ai đó nói mình theo thần học Cải Chánh, điều đó có nghĩa là họ muốn đức tin và đời sống của mình được uốn nắn bởi Kinh Thánh và bởi di sản của phong trào Cải Chánh. Bạn không cần phải thuộc hết các thuật ngữ mới bắt đầu; hãy bắt đầu bằng cách đọc Kinh Thánh, tham dự Hội Thánh giảng dạy Lời Chúa cách trung tín, và học hỏi dần dần. Cải Chánh trước hết là một tấm lòng quay về với Chúa và Lời của Ngài.</p></div>
+    <div class="short-panel"><div class="sp-kicker">Trả lời ngắn</div><div class="ans-short">“Cải Chánh” chỉ về phong trào thế kỷ 16, khi Hội Thánh quay trở lại với Phúc Âm của Kinh Thánh: chỉ Kinh Thánh là thẩm quyền tối cao, chỉ bởi ân điển, chỉ bởi đức tin, chỉ qua Đấng Christ, và mọi sự vì vinh hiển duy Đức Chúa Trời. Nói đơn giản, người Cải Chánh là người tin rằng sự cứu rỗi hoàn toàn là công việc của Đức Chúa Trời, và đời sống Cơ Đốc phải được xây dựng trên Lời Chúa.</div></div>
+    <div class="ans-body dropcap" style="margin-top:14px"><p>Vào thế kỷ 16, nhiều người trong Hội Thánh nhận ra rằng Phúc Âm đã bị che khuất bởi những truyền thống và việc làm của con người. Phong trào Cải Chánh ra đời để đưa Hội Thánh trở lại với Kinh Thánh, nhấn mạnh rằng tội nhân được cứu chỉ bởi ân điển của Đức Chúa Trời, qua đức tin nơi Đấng Christ, chứ không phải nhờ công đức của mình. Năm khẩu hiệu của phong trào này thường được gọi là Năm Sola: duy Kinh Thánh, duy ân điển, duy đức tin, duy Đấng Christ, và vinh hiển duy Đức Chúa Trời.</p><blockquote class="pull-quote">“Cải Chánh” chỉ về phong trào thế kỷ 16, khi Hội Thánh quay trở lại với Phúc Âm của Kinh Thánh: chỉ Kinh Thánh là thẩm quyền tối cao, chỉ bởi ân điển, chỉ bởi đức tin, chỉ qua Đấng Christ, và mọi sự vì vinh hiển duy Đức Chúa Trời.</blockquote><p>Người Cải Chánh cũng tin rằng Đức Chúa Trời là Đấng tể trị trên mọi sự, kể cả sự cứu rỗi, và Ngài đã chọn dân Ngài theo ý tốt của Ngài trước khi sáng thế. Đồng thời, họ tin rằng mỗi tín hữu có trách nhiệm rao truyền Phúc Âm, sống thánh khiết và thờ phượng Chúa theo Lời Ngài dạy. Đây là đức tin được tóm tắt trong các bản tuyên xưng lịch sử như Bản Tuyên Xưng Đức Tin Westminster và Giáo Lý Heidelberg.</p><p>Ngày nay, khi ai đó nói mình theo thần học Cải Chánh, điều đó có nghĩa là họ muốn đức tin và đời sống của mình được uốn nắn bởi Kinh Thánh và bởi di sản của phong trào Cải Chánh. Bạn không cần phải thuộc hết các thuật ngữ mới bắt đầu; hãy bắt đầu bằng cách đọc Kinh Thánh, tham dự Hội Thánh giảng dạy Lời Chúa cách trung tín, và học hỏi dần dần. Cải Chánh trước hết là một tấm lòng quay về với Chúa và Lời của Ngài.</p></div>
     <div style="margin-top:16px"><h3 style="margin:0 0 4px">Căn cứ Kinh Thánh <span style="font-weight:400;font-size:13.5px;color:var(--ink-soft)">(bấm để đọc câu gốc — bản 1934)</span></h3><details class="proof"><summary>Rô-ma 1:17</summary><p>vì trong Tin Lành nầy có bày tỏ sự công bình của Đức Chúa Trời, bởi đức tin mà được, lại dẫn đến đức tin nữa, như có chép rằng: Người công bình sẽ sống bởi đức tin.</p></details><details class="proof"><summary>Ê-phê-sô 2:8</summary><p>Vả, ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu, điều đó không phải đến từ anh em, bèn là sự ban cho của Đức Chúa Trời.</p></details><details class="proof"><summary>2 Ti-mô-thê 3:16</summary><p>Cả Kinh Thánh đều là bởi Đức Chúa Trời soi dẫn, có ích cho sự dạy dỗ, bẻ trách, sửa trị, dạy người trong sự công bình,</p></details><details class="proof"><summary>1 Cô-rinh-tô 10:31</summary><p>Vậy, anh em hoặc ăn, hoặc uống, hay là làm sự chi khác, hãy vì sự vinh hiển Đức Chúa Trời mà làm.</p></details></div>
     <div style="margin-top:18px"><h3 style="margin:0 0 10px">Đọc thêm trong Bách Khoa</h3><div class="rel-links"><a class="btn" href="/bach-khoa/cai-chanh.html">Cải Chánh</a><a class="btn" href="/bach-khoa/nam-sola.html">Năm Sola</a><a class="btn" href="/bach-khoa/than-hoc-cai-chanh.html">Thần học Cải Chánh</a></div></div>
     <div style="margin-top:18px"><h3 style="margin:0 0 10px">Trong Tín Lý Yếu Lược Westminster</h3><div class="rel-links"><a class="btn" href="/giao-ly/cau-2.html">Câu 2</a><a class="btn" href="/giao-ly/cau-3.html">Câu 3</a></div></div>

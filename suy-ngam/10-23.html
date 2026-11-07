@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 23 tháng 10</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Mùa Gặt Của Ánh Sáng Và Niềm Vui</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 23 tháng 10 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">23</span><span class="m-small">tháng 10</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Mùa Gặt Của Ánh Sáng Và Niềm Vui</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 23 tháng 10 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Ánh sáng đã gieo ra cho người công bình, và sự vui mừng cho người có lòng ngay thẳng”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Ánh sáng đã gieo ra cho người công bình, và sự vui mừng cho người có lòng ngay thẳng”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/psa/97.html#v11" style="color:inherit">Thi Thiên 97:11</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Ánh sáng đã gieo cho người công bình, sự vui mừng cho người ngay thẳng, sẽ tỏ ra trong mùa gặt Chúa định.</p>
-    <div class="dev-body"><p>Sự công chính thường tốn kém đối với người giữ nó bằng mọi giá, nhưng cuối cùng nó sẽ tự trang trải chi phí, và đem lại lợi nhuận vô cùng. Đời sống thánh khiết như gieo giống: nhiều điều tuôn ra, và dường như bị chôn trong đất, không bao giờ gặt lại. Chúng ta lầm khi trông đợi một mùa gặt tức thì; nhưng sự lầm này rất tự nhiên, vì dường như không thể chôn ánh sáng. Thế mà ánh sáng lại được &quot;gieo,&quot; như câu Kinh Thánh nói. Nó nằm tiềm ẩn: không ai thấy được, nó được gieo. Chúng ta chắc chắn rằng một ngày kia nó phải tỏ ra.</p><p>Chúng ta hoàn toàn chắc rằng Chúa đã định một mùa gặt cho những kẻ gieo ánh sáng, và họ sẽ gặt lấy, mỗi người cho chính mình. Rồi sự vui mừng của họ sẽ đến. Những bó lúa vui mừng cho những hạt giống ánh sáng. Lòng họ ngay thẳng trước mặt Chúa, dù người đời không công nhận, thậm chí lên án họ: họ công chính, dù những người xung quanh tố họ là kẻ hay xét đoán. Họ phải chờ đợi, như người làm ruộng chờ đợi bông trái quý báu của đất: nhưng ánh sáng đã được gieo cho họ, và sự vui mừng đang được Chúa của mùa gặt sắm sẵn cho họ.</p><p>Can đảm lên, hỡi anh em! chúng ta không cần vội vàng. Hãy lấy sự nhẫn nhục mà giữ linh hồn mình, vì chẳng bao lâu linh hồn chúng ta sẽ sở hữu ánh sáng và sự vui mừng.</p></div>
+    <div class="dev-body dropcap"><p>Sự công chính thường tốn kém đối với người giữ nó bằng mọi giá, nhưng cuối cùng nó sẽ tự trang trải chi phí, và đem lại lợi nhuận vô cùng. Đời sống thánh khiết như gieo giống: nhiều điều tuôn ra, và dường như bị chôn trong đất, không bao giờ gặt lại. Chúng ta lầm khi trông đợi một mùa gặt tức thì; nhưng sự lầm này rất tự nhiên, vì dường như không thể chôn ánh sáng. Thế mà ánh sáng lại được &quot;gieo,&quot; như câu Kinh Thánh nói. Nó nằm tiềm ẩn: không ai thấy được, nó được gieo. Chúng ta chắc chắn rằng một ngày kia nó phải tỏ ra.</p><p>Chúng ta hoàn toàn chắc rằng Chúa đã định một mùa gặt cho những kẻ gieo ánh sáng, và họ sẽ gặt lấy, mỗi người cho chính mình. Rồi sự vui mừng của họ sẽ đến. Những bó lúa vui mừng cho những hạt giống ánh sáng. Lòng họ ngay thẳng trước mặt Chúa, dù người đời không công nhận, thậm chí lên án họ: họ công chính, dù những người xung quanh tố họ là kẻ hay xét đoán. Họ phải chờ đợi, như người làm ruộng chờ đợi bông trái quý báu của đất: nhưng ánh sáng đã được gieo cho họ, và sự vui mừng đang được Chúa của mùa gặt sắm sẵn cho họ.</p><p>Can đảm lên, hỡi anh em! chúng ta không cần vội vàng. Hãy lấy sự nhẫn nhục mà giữ linh hồn mình, vì chẳng bao lâu linh hồn chúng ta sẽ sở hữu ánh sáng và sự vui mừng.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>

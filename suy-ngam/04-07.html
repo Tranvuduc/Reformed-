@@ -459,6 +459,21 @@
       .day-chip:hover { border-color: var(--burgundy); }
       .term-search { max-width: 560px; margin: 14px auto 4px; display: flex; gap: 8px; }
       .term-search input { flex: 1; padding: 12px 16px; border: 1px solid var(--line); border-radius: 999px; font: inherit; font-size: 15.5px; background: var(--surface); color: var(--ink); }
+      /* ---------- design pass 2026-11: title band / prose kit ---------- */
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(24px, 4.2vw, 33px); line-height: 1.32; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 4px 0 0; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 30px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 25px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      .dev-teaser { max-width: 860px; margin: 12px auto 0; text-align: center; font-style: italic; color: var(--ink-soft); font-size: 15.5px; }
+      .pull-quote { font-family: "Playfair Display", serif; font-style: italic; font-size: clamp(19px, 3vw, 23px); line-height: 1.6; color: var(--burgundy); border-left: 4px solid var(--gold-soft); padding: 4px 0 4px 18px; margin: 6px 0 10px; }
+      .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
+      .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 </head>
 <body id="top">
@@ -487,17 +502,19 @@
     </header>
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/suy-ngam/">Ân Điển Mỗi Ngày</a> · Ngày 7 tháng 4</p>
-  <div class="cat-head">
-    <div class="kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
-    <h1>Không Sợ Loài Người</h1>
-    <p style="color:var(--ink-soft)">Bài tĩnh nguyện ngày 7 tháng 4 · C. H. Spurgeon</p>
-    <p style="margin-top:10px"><span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">7</span><span class="m-small">tháng 4</span></div>
+    <div>
+      <div class="tb-kicker">Ân Điển Mỗi Ngày · Sổ Séc Của Đức Tin (1888)</div>
+      <h1>Không Sợ Loài Người</h1>
+      <p class="tb-sub">Bài tĩnh nguyện ngày 7 tháng 4 · C. H. Spurgeon &nbsp;<span class="ai-label">Bản dịch AI, chưa duyệt</span></p>
+    </div>
   </div>
   <article class="cat-panel">
-    <blockquote class="dev-verse-lg">“Bấy giờ mọi dân tộc trên đất sẽ thấy rằng ngươi được gọi bằng danh Đức Giê-hô-va; và chúng sẽ sợ ngươi.”</blockquote>
+    <blockquote class="dev-verse-lg pull-quote">“Bấy giờ mọi dân tộc trên đất sẽ thấy rằng ngươi được gọi bằng danh Đức Giê-hô-va; và chúng sẽ sợ ngươi.”</blockquote>
     <div class="dev-ref-lg"><a href="/kinh-thanh/deb/28.html#v10" style="color:inherit">Phục Truyền Luật Lệ Ký 28:10</a></div>
     <p style="font-style:italic;color:var(--ink-soft);font-size:15.5px">Mang danh Đức Giê-hô-va, tín hữu được Ngài bảo vệ nên không sợ loài người.</p>
-    <div class="dev-body"><p>Vậy chúng ta không có lý do gì phải sợ họ. Điều đó sẽ tỏ ra một tinh thần hèn hạ, và là dấu hiệu của sự vô tín hơn là đức tin. Đức Chúa Trời có thể khiến chúng ta giống Ngài đến nỗi loài người buộc phải thấy rằng chúng ta xứng đáng mang danh Ngài, và thật sự thuộc về Đức Giê-hô-va thánh khiết. Ôi, ước gì chúng ta nhận được ân điển ấy, ân điển mà Chúa đang chờ để ban cho!</p><p>Hãy chắc chắn rằng những kẻ vô đạo có sự sợ hãi đối với các thánh thật. Họ ghét họ, nhưng họ cũng sợ họ. Ha-man đã run rẩy vì Mạc-đô-chê, ngay khi ông ta tìm cách hủy diệt người lành ấy. Thật ra, lòng ghét của họ thường phát sinh từ nỗi sợ mà họ quá kiêu ngạo để thú nhận. Chúng ta hãy bước đi trên đường chân lý và ngay thẳng, không chút run sợ. Nỗi sợ không dành cho chúng ta, mà dành cho những kẻ làm điều ác và chống lại Đức Chúa Trời vạn quân. Nếu quả thật danh của Đức Chúa Trời đời đời được gọi trên chúng ta, chúng ta được an toàn; vì, như xưa, một người La-mã chỉ cần nói Romanus sum, tôi là người La-mã, là có thể đòi sự bảo vệ của mọi đạo quân của đế quốc rộng lớn; thì mỗi người thuộc về Đức Chúa Trời đều có Đấng toàn năng làm Đấng bảo vệ, và Đức Chúa Trời thà làm trống Thiên Đàng khỏi các thiên sứ còn hơn để một thánh đồ không được bảo vệ. Hãy dạn dĩ hơn sư tử vì lẽ phải, vì Đức Chúa Trời ở cùng bạn.</p></div>
+    <div class="dev-body dropcap"><p>Vậy chúng ta không có lý do gì phải sợ họ. Điều đó sẽ tỏ ra một tinh thần hèn hạ, và là dấu hiệu của sự vô tín hơn là đức tin. Đức Chúa Trời có thể khiến chúng ta giống Ngài đến nỗi loài người buộc phải thấy rằng chúng ta xứng đáng mang danh Ngài, và thật sự thuộc về Đức Giê-hô-va thánh khiết. Ôi, ước gì chúng ta nhận được ân điển ấy, ân điển mà Chúa đang chờ để ban cho!</p><p>Hãy chắc chắn rằng những kẻ vô đạo có sự sợ hãi đối với các thánh thật. Họ ghét họ, nhưng họ cũng sợ họ. Ha-man đã run rẩy vì Mạc-đô-chê, ngay khi ông ta tìm cách hủy diệt người lành ấy. Thật ra, lòng ghét của họ thường phát sinh từ nỗi sợ mà họ quá kiêu ngạo để thú nhận. Chúng ta hãy bước đi trên đường chân lý và ngay thẳng, không chút run sợ. Nỗi sợ không dành cho chúng ta, mà dành cho những kẻ làm điều ác và chống lại Đức Chúa Trời vạn quân. Nếu quả thật danh của Đức Chúa Trời đời đời được gọi trên chúng ta, chúng ta được an toàn; vì, như xưa, một người La-mã chỉ cần nói Romanus sum, tôi là người La-mã, là có thể đòi sự bảo vệ của mọi đạo quân của đế quốc rộng lớn; thì mỗi người thuộc về Đức Chúa Trời đều có Đấng toàn năng làm Đấng bảo vệ, và Đức Chúa Trời thà làm trống Thiên Đàng khỏi các thiên sứ còn hơn để một thánh đồ không được bảo vệ. Hãy dạn dĩ hơn sư tử vì lẽ phải, vì Đức Chúa Trời ở cùng bạn.</p></div>
     <div style="margin-top:22px;border-top:1px solid var(--line);padding-top:18px">
       <h3 style="margin:0 0 10px">Suy ngẫm &amp; cầu nguyện</h3>
       <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
