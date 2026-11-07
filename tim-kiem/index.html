@@ -557,7 +557,7 @@
     function norm(s) {
       return (s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, "d");
     }
-    var ORDER = ["Kinh Thánh", "Sách", "Giáo Lý", "Bách Khoa", "Tĩnh Nguyện", "Hỏi Đáp", "Học Viện", "Bài Giảng", "Thánh Ca", "Tạp Chí"];
+    var ORDER = ["Kinh Thánh", "Sách", "Giáo Lý", "Bách Khoa", "Tĩnh Nguyện", "Hỏi Đáp", "Học Viện", "Bài Giảng", "Thánh Ca", "Tạp Chí", "Hội Thánh"];
     var input = document.getElementById("q"), box = document.getElementById("results"),
         status = document.getElementById("status"), INDEX = null, cache = [];
     function prepare() {
