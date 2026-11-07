@@ -44845,5 +44845,186 @@
   "level": 2,
   "length": "dai",
   "short": "Đức Thánh Linh Theo Ambrose"
+ },
+ {
+  "id": "poole-chu-thich-giosue-quan-xet",
+  "file": "translations/poole-chu-thich-giosue-quan-xet.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — SÁCH GIÔ-SUÊ, CÁC QUAN XÉT & RU-TƠ",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Joshua, Judges and Ruth (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Giô-suê",
+   "Các Quan Xét"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Giô-suê & Quan Xét"
+ },
+ {
+  "id": "poole-chu-thich-xuat-ai-le-vi-ky",
+  "file": "translations/poole-chu-thich-xuat-ai-le-vi-ky.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — SÁCH XUẤT Ê-DÍP-TÔ KÝ & SÁCH LÊ-VI KÝ",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Exodus and Leviticus (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Xuất Ai Cập Ký",
+   "Lê-vi Ký"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Xuất Ai Cập & Lê-vi"
+ },
+ {
+  "id": "poole-chu-thich-cac-vua",
+  "file": "translations/poole-chu-thich-cac-vua.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — 1 & 2 CÁC VUA",
+  "orig": "Annotations upon the Holy Bible, Vol. I: 1 and 2 Kings (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Các Vua"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Các Vua"
+ },
+ {
+  "id": "poole-chu-thich-su-ky-esther",
+  "file": "translations/poole-chu-thich-su-ky-esther.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — SỬ KÝ, E-XƠ-RA, NÊ-HÊ-MI & Ê-XƠ-TÊ",
+  "orig": "Annotations upon the Holy Bible, Vol. I: 1 and 2 Chronicles, Ezra, Nehemiah and Esther (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Sử Ký",
+   "Ê-xơ-tê"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Sử Ký & Ê-xơ-tê"
+ },
+ {
+  "id": "poole-chu-thich-thi-thien-76-150",
+  "file": "translations/poole-chu-thich-thi-thien-76-150.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — THI THIÊN 76–150",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Psalms 76–150 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Thi Thiên"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Thi Thiên 76–150"
+ },
+ {
+  "id": "poole-chu-thich-giop",
+  "file": "translations/poole-chu-thich-giop.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — SÁCH GIÓP",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Job (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Gióp"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Gióp"
+ },
+ {
+  "id": "poole-chu-thich-cham-ngon-nha-ca",
+  "file": "translations/poole-chu-thich-cham-ngon-nha-ca.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — SÁCH CHÂM NGÔN, TRUYỀN ĐẠO VÀ NHÃ CA",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Proverbs, Ecclesiastes and Song of Solomon (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Châm Ngôn",
+   "Nhã Ca"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Châm Ngôn & Nhã Ca"
+ },
+ {
+  "id": "poole-chu-thich-esai-34-66",
+  "file": "translations/poole-chu-thich-esai-34-66.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — Ê-SAI 34–66",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Isaiah 34–66 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Ê-sai"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Ê-sai 34–66"
+ },
+ {
+  "id": "poole-chu-thich-dan-so-phuc-truyen",
+  "file": "translations/poole-chu-thich-dan-so-phuc-truyen.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — SÁCH DÂN SỐ KÝ & SÁCH PHỤC TRUYỀN LUẬT LỆ KÝ",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Numbers and Deuteronomy (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Dân Số Ký",
+   "Phục Truyền"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Dân Số & Phục Truyền"
+ },
+ {
+  "id": "poole-chu-thich-esai-1-33",
+  "file": "translations/poole-chu-thich-esai-1-33.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — Ê-SAI 1–33",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Isaiah 1–33 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Ê-sai"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Ê-sai 1–33"
+ },
+ {
+  "id": "poole-chu-thich-samuel",
+  "file": "translations/poole-chu-thich-samuel.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — 1 & 2 SA-MU-ÊN",
+  "orig": "Annotations upon the Holy Bible, Vol. I: 1 and 2 Samuel (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Sa-mu-ên"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Sa-mu-ên"
  }
 ]
