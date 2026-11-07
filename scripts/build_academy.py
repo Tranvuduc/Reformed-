@@ -228,7 +228,7 @@ tm_series = json.loads((ROOT / "scripts/helper-data/thirdmill-series.json").read
 # Vietnamese study companions for Thirdmill lessons (helper Round 3,
 # verified by the integrator 2026-11-07): keyed by (series_code, lesson_no).
 ALL_COMPANIONS = []
-for _f in ("round3-companions-spark.json", "round3-companions-hana.json"):
+for _f in ("round3-companions-spark.json", "round3-companions-hana.json", "round4-companions-spark.json", "round4-companions-hana.json"):
     ALL_COMPANIONS += json.loads((ROOT / "scripts/helper-data" / _f).read_text(encoding="utf-8"))["companions"]
 ALL_COMPANIONS.sort(key=lambda c: (c["course_slug"], c["series_code"], c["lesson_no"]))
 COMPANIONS = {(c["series_code"], c["lesson_no"]): c for c in ALL_COMPANIONS}
@@ -386,7 +386,7 @@ landing = f"""{head("Học Viện Cải Chánh — Chương trình Thirdmill mi�
       <div class="mod-card"><h3>2 · Đồng hành tiếng Việt</h3><p>Các lộ trình tiếng Việt của Reformed Vietnam đi kèm chương trình chính: bài đọc trong chính trang này, tóm tắt và trắc nghiệm — không cần tài khoản, tiến độ lưu trên thiết bị.</p></div>
       <div class="mod-card"><h3>3 · Chứng chỉ</h3><p>Tiến độ và chứng chỉ do Thirdmill Institute cấp trên Nexus. Lộ trình tiếng Việt chỉ là phần đồng hành — không thay thế bài kiểm tra chính thức.</p></div>
     </div>
-    <p style="color:var(--ink-soft);font-size:14px">Ghi nhận: hiện chỉ 1 trong 3 bài của loạt Công Vụ Các Sứ Đồ đã có bản tiếng Việt trên Nexus; phần lớn bài học là tiếng Anh. Riêng Chứng Chỉ Nền Tảng nay đã có tài liệu đồng hành tiếng Việt cho cả 36 bài — tóm tắt, thuật ngữ và câu hỏi học tập ngay trên trang từng khóa. Thirdmill cho phép phân phối miễn phí tài liệu của họ cho mục vụ — trang này liên kết đến Nexus thay vì sao chép nội dung.</p>
+    <p style="color:var(--ink-soft);font-size:14px">Ghi nhận: hiện chỉ 1 trong 3 bài của loạt Công Vụ Các Sứ Đồ đã có bản tiếng Việt trên Nexus; phần lớn bài học là tiếng Anh. Cả 122 bài của ba chứng chỉ nay đều đã có tài liệu đồng hành tiếng Việt — tóm tắt, thuật ngữ và câu hỏi học tập ngay trên trang từng khóa. Thirdmill cho phép phân phối miễn phí tài liệu của họ cho mục vụ — trang này liên kết đến Nexus thay vì sao chép nội dung.</p>
   </section>
   {"".join(cert_sections)}
   <section style="margin-bottom:30px"><div class="section-head"><div class="rule"></div><h2>Lộ Trình Đồng Hành Tiếng Việt</h2><p>Ba khóa tiếng Việt do Reformed Vietnam soạn, học kèm chương trình Thirdmill.</p></div></section>
@@ -400,7 +400,7 @@ OUT.mkdir(exist_ok=True)
 (OUT / "index.html").write_text(landing, encoding="utf-8")
 (ROOT / "data/thirdmill-companions.json").write_text(json.dumps(
     {"label": "Nội dung AI soạn, chưa duyệt",
-     "source": "Tài liệu đồng hành tiếng Việt cho 36 bài học thuộc Chứng Chỉ Nền Tảng của Thirdmill Institute, do các AI cộng tác (Spark, Hana) soạn từ dàn ý/study guide chính thức của Thirdmill; Molly kiểm tra và tích hợp 2026-11-07.",
+     "source": "Tài liệu đồng hành tiếng Việt cho cả 122 bài học thuộc ba chứng chỉ của Thirdmill Institute (Vòng 3: Nền Tảng, 36 bài; Vòng 4: Nghiên Cứu Kinh Thánh 44 + Nghiên Cứu Thần Học 42), do các AI cộng tác (Spark, Hana) soạn từ dàn ý/study guide chính thức của Thirdmill; Molly kiểm tra và tích hợp 2026-11-07.",
      "companions": ALL_COMPANIONS}, ensure_ascii=False, indent=1), encoding="utf-8")
 (ROOT / "data/academy.json").write_text(json.dumps(data_out, ensure_ascii=False, indent=1), encoding="utf-8")
 print("landing + data/academy.json written")

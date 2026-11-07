@@ -1,7 +1,2492 @@
 {
  "label": "Nội dung AI soạn, chưa duyệt",
- "source": "Tài liệu đồng hành tiếng Việt cho 36 bài học thuộc Chứng Chỉ Nền Tảng của Thirdmill Institute, do các AI cộng tác (Spark, Hana) soạn từ dàn ý/study guide chính thức của Thirdmill; Molly kiểm tra và tích hợp 2026-11-07.",
+ "source": "Tài liệu đồng hành tiếng Việt cho cả 122 bài học thuộc ba chứng chỉ của Thirdmill Institute (Vòng 3: Nền Tảng, 36 bài; Vòng 4: Nghiên Cứu Kinh Thánh 44 + Nghiên Cứu Thần Học 42), do các AI cộng tác (Spark, Hana) soạn từ dàn ý/study guide chính thức của Thirdmill; Molly kiểm tra và tích hợp 2026-11-07.",
  "companions": [
+  {
+   "course_slug": "con-nguoi-va-tan-the",
+   "key_terms": [
+    {
+     "en": "eschatology",
+     "vi": "cánh chung học"
+    },
+    {
+     "en": "inaugurated eschatology",
+     "vi": "cánh chung học đã khai mở"
+    },
+    {
+     "en": "cultural mandate",
+     "vi": "mệnh lệnh văn hóa"
+    },
+    {
+     "en": "protoevangelium",
+     "vi": "lời hứa đầu tiên về Phúc Âm"
+    },
+    {
+     "en": "kingdom",
+     "vi": "Vương quốc (Đức Chúa Trời)"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "'Thời kỳ cuối cùng' bắt đầu từ khi nào, và điều đó thay đổi cách chúng ta sống hôm nay ra sao?",
+    "Vì sao Chúa Giê-xu không làm trọn mọi kỳ vọng về Đấng Mê-si-a trong lần đến đầu tiên?",
+    "Vương quốc Đức Chúa Trời 'đã đến nhưng chưa trọn vẹn' có nghĩa gì đối với đời sống tín hữu?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:6"
+    ],
+    "catechism": [
+     102
+    ],
+    "encyclopedia": [
+     "nuoc-duc-chua-troi"
+    ]
+   },
+   "series_code": "ESC",
+   "source": "https://nexus.thirdmill.org/series/ESC",
+   "summary_vi": "Bài học trình bày mục đích của Đức Chúa Trời cho cõi sáng tạo, tóm tắt trong lời cầu nguyện 'Nước Cha được đến, ý Cha được nên'. Phần thứ nhất theo dõi kỳ vọng Cựu Ước qua ba giai đoạn: sáng tạo với mệnh lệnh văn hóa, cứu chuộc qua các giao ước từ A-đam đến Đa-vít, và thời kỳ cuối cùng khi vương quốc tràn ngập đất. Phần thứ hai trình bày sự ứng nghiệm trong Tân Ước: người Do Thái thời ấy phân biệt 'thời đại này' với 'thời đại sẽ đến', nhưng Chúa Giê-xu không làm trọn mọi kỳ vọng trong lần đến đầu tiên. Thời kỳ cuối cùng đã khai mở, đang tiếp diễn và chưa hoàn tất: vương quốc đã đến nhưng chưa trọn vẹn, lớn lên như hạt cải, và sẽ kết thúc khi cõi sáng tạo được đổi mới.",
+   "title_en": "The Goal of Creation",
+   "title_vi": "Mục Đích của Sự Sáng Tạo"
+  },
+  {
+   "course_slug": "con-nguoi-va-tan-the",
+   "key_terms": [
+    {
+     "en": "intermediate state",
+     "vi": "tình trạng trung gian"
+    },
+    {
+     "en": "regeneration",
+     "vi": "sự tái sinh"
+    },
+    {
+     "en": "spiritual death",
+     "vi": "sự chết thuộc linh"
+    },
+    {
+     "en": "annihilationism",
+     "vi": "thuyết hủy diệt"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Người tin Chúa được gì ngay lúc qua đời, và vì sao thân thể vẫn quan trọng?",
+    "Bài học bênh vực hình phạt đời đời có ý thức chống lại thuyết hủy diệt như thế nào?",
+    "Sự phục sinh thân thể của Chúa Giê-xu quan trọng ra sao đối với hy vọng của tín hữu?"
+   ],
+   "reading": {
+    "bible": [
+     "1cor:15"
+    ],
+    "catechism": [
+     37,
+     38
+    ],
+    "encyclopedia": [
+     "su-phuc-sinh-than-the"
+    ]
+   },
+   "series_code": "ESC",
+   "source": "https://nexus.thirdmill.org/series/ESC",
+   "summary_vi": "Bài học trình bày điều xảy ra với mỗi người sau khi chết. Phần thứ nhất bàn về tình trạng hiện tại: người chưa tái sinh thì chết về mặt thuộc linh, không thể đẹp lòng Ngài và thù nghịch với Ngài; người tái sinh thì sống lại về mặt thuộc linh, làm được việc lành và được hòa thuận với Ngài nhờ Đấng Christ mà thôi. Phần thứ hai bàn về tình trạng trung gian: sau khi chết, hồn lìa khỏi xác nhưng xác vẫn thuộc về chúng ta; người tin Chúa được ở với Chúa trong thánh khiết trọn vẹn. Phần cuối bàn về tình trạng sau cùng: mọi người sẽ sống lại trong thân thể; kẻ không tin chịu hình phạt đời đời, còn người tin Chúa nhận thân thể vinh hiển, trời mới đất mới và phần thưởng cho sự phục vụ trung tín.",
+   "title_en": "The Living and the Dead",
+   "title_vi": "Người Sống và Kẻ Chết"
+  },
+  {
+   "course_slug": "con-nguoi-va-tan-the",
+   "key_terms": [
+    {
+     "en": "second coming",
+     "vi": "sự tái lâm"
+    },
+    {
+     "en": "millennium",
+     "vi": "thiên niên kỷ"
+    },
+    {
+     "en": "premillennialism",
+     "vi": "tiền thiên niên kỷ"
+    },
+    {
+     "en": "postmillennialism",
+     "vi": "hậu thiên niên kỷ"
+    },
+    {
+     "en": "amillennialism",
+     "vi": "vô thiên niên kỷ"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Vì sao Chúa Giê-xu nhất định phải trở lại để làm trọn lời hứa với Áp-ra-ham và Đa-vít?",
+    "Những dấu hiệu nào báo trước sự trở lại của Chúa Giê-xu, và vì sao thời điểm vẫn bị giấu kín?",
+    "Bốn quan điểm về một ngàn năm đồng ý với nhau ở những điểm nào, và bất đồng ở điểm nào?"
+   ],
+   "reading": {
+    "bible": [
+     "rev:20"
+    ],
+    "catechism": [
+     28
+    ],
+    "encyclopedia": [
+     "su-tai-lam"
+    ]
+   },
+   "series_code": "ESC",
+   "source": "https://nexus.thirdmill.org/series/ESC",
+   "summary_vi": "Bài học trình bày sự trở lại của Chúa Giê-xu và dấu hiệu thời kỳ cuối cùng. Phần thứ nhất bàn về sự trở lại: Ngài phải trở lại để làm trọn lời hứa với Áp-ra-ham và Đa-vít, vì sự thăng thiên chưa hoàn tất công việc của Ngài; Ngài sẽ đến cách cá nhân, hữu hình và vinh hiển. Phần thứ hai bàn về các dấu hiệu: thời điểm bị giấu kín, sự chống đối của ma quỷ và con người, sự truyền giảng Phúc Âm khắp thế giới. Phần thứ ba trình bày bốn quan điểm về một ngàn năm — tiền thiên niên kỷ lịch sử, tiền thiên niên kỷ phân kỳ, hậu thiên niên kỷ, vô thiên niên kỷ — và điểm mọi tín hữu đều đồng ý: Chúa sẽ trở lại, kẻ chết sẽ sống lại và sẽ có sự phán xét cuối cùng.",
+   "title_en": "The Coming of the King",
+   "title_vi": "Sự Đến của Vua"
+  },
+  {
+   "course_slug": "con-nguoi-va-tan-the",
+   "key_terms": [
+    {
+     "en": "general resurrection",
+     "vi": "sự sống lại chung"
+    },
+    {
+     "en": "final judgment",
+     "vi": "sự phán xét cuối cùng"
+    },
+    {
+     "en": "new heavens and new earth",
+     "vi": "trời mới đất mới"
+    },
+    {
+     "en": "New Jerusalem",
+     "vi": "Giê-ru-sa-lem mới"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Vì sao sự sống lại của chúng ta nhất định phải là sự sống lại trong thân thể?",
+    "Những người chưa từng nghe Phúc Âm sẽ bị xét đoán như thế nào?",
+    "Trời mới đất mới khác với quan niệm 'lên thiên đàng mãi mãi' ở điểm nào?"
+   ],
+   "reading": {
+    "bible": [
+     "rev:21"
+    ],
+    "catechism": [
+     38
+    ],
+    "encyclopedia": [
+     "troi-moi-dat-moi"
+    ]
+   },
+   "series_code": "ESC",
+   "source": "https://nexus.thirdmill.org/series/ESC",
+   "summary_vi": "Bài học khép lại loạt bài với ba biến cố cuối cùng. Phần thứ nhất bàn về sự sống lại chung: mọi người sẽ sống lại trong thân thể được biến hóa nhưng vẫn là thân thể thật, như Đấng Christ; cõi sáng tạo sẽ được đổi mới chứ không bị bỏ rơi. Phần thứ hai bàn về sự phán xét cuối cùng: Chúa Giê-xu là Đấng Phán Xét, các thánh đồ sẽ cùng Ngài xét đoán, mọi người chịu trách nhiệm theo ánh sáng mình đã nhận, và kẻ không tin chịu sự rủa sả đời đời còn người tin Chúa nhận phước hạnh giao ước. Phần cuối trình bày trời mới đất mới: cõi sáng tạo được thanh tẩy và đổi mới, trời và đất hiệp một, thành Giê-ru-sa-lem mới là trung tâm, và nhiệm vụ ban đầu của con người trong vườn Ê-đen được hoàn thành.",
+   "title_en": "The End of the Age",
+   "title_vi": "Sự Cuối Cùng của Thời Đại"
+  },
+  {
+   "course_slug": "con-nguoi-va-tan-the",
+   "key_terms": [
+    {
+     "en": "theological anthropology",
+     "vi": "thần học về con người"
+    },
+    {
+     "en": "creation ordinances",
+     "vi": "các định chế sáng tạo"
+    },
+    {
+     "en": "covenant of works",
+     "vi": "giao ước việc làm"
+    },
+    {
+     "en": "protoevangelium",
+     "vi": "lời hứa đầu tiên về Phúc Âm"
+    },
+    {
+     "en": "body and soul",
+     "vi": "thân thể và linh hồn"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Thi Thiên 8 dạy gì về vị trí của con người trong cõi sáng tạo?",
+    "Vì sao tính lịch sử của A-đam và Ê-va quan trọng đối với đức tin Cơ Đốc?",
+    "Giao ước việc làm bày tỏ sự nhân từ của Đức Chúa Trời và bổn phận của con người ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "gen:1"
+    ],
+    "catechism": [
+     10,
+     12
+    ],
+    "encyclopedia": [
+     "giao-uoc-viec-lam"
+    ]
+   },
+   "series_code": "MAN",
+   "source": "https://nexus.thirdmill.org/series/MAN",
+   "summary_vi": "Bài học mở đầu loạt bài về con người với câu hỏi của Thi Thiên 8:4: con người là gì mà Đức Chúa Trời nhớ đến? Phần thứ nhất trình bày sự sáng tạo: hai bản tường thuật trong Sáng Thế Ký, tính lịch sử của A-đam và Ê-va, và sự vượt trội của con người khi Đức Chúa Trời hà sinh khí trực tiếp cho họ. Phần thứ hai bàn về cấu tạo: thân thể quan trọng và bền vững, còn phần phi vật chất gồm linh hồn, tâm trí và tấm lòng. Phần thứ ba trình bày giao ước trong vườn Ê-đen: sự nhân từ của Đức Chúa Trời, bổn phận tế lễ và vương giả của con người, hậu quả của sự bất tuân, và lời hứa đầu tiên về Phúc Âm trong Sáng Thế Ký 3:15.",
+   "title_en": "In the Beginning",
+   "title_vi": "Lúc Ban Đầu"
+  },
+  {
+   "course_slug": "con-nguoi-va-tan-the",
+   "key_terms": [
+    {
+     "en": "image and likeness",
+     "vi": "hình ảnh và sự tương tự"
+    },
+    {
+     "en": "moral image",
+     "vi": "hình ảnh đạo đức"
+    },
+    {
+     "en": "rational image",
+     "vi": "hình ảnh lý trí"
+    },
+    {
+     "en": "cultural mandate",
+     "vi": "mệnh lệnh văn hóa"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Vì sao các nhà thần học nói hình ảnh của Đức Chúa Trời khiến con người trở thành đại diện vương giả của Ngài?",
+    "Sự sa ngã đã làm hư hại ba thuộc tính đạo đức, lý trí và thuộc linh của chúng ta như thế nào?",
+    "Hình ảnh của Đức Chúa Trời dạy chúng ta đối xử với người khác và với cõi sáng tạo ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "gen:1"
+    ],
+    "catechism": [
+     10
+    ],
+    "encyclopedia": [
+     "su-tho-phuong"
+    ]
+   },
+   "series_code": "MAN",
+   "source": "https://nexus.thirdmill.org/series/MAN",
+   "summary_vi": "Bài học giải thích hình ảnh của Đức Chúa Trời nơi con người có nghĩa gì. Phần thứ nhất bàn về chức vụ: con người là hình ảnh của Đức Chúa Trời, còn Chúa Giê-xu là hình ảnh trọn vẹn của Ngài; với tư cách đại diện, con người có thẩm quyền làm đầy đất, cai trị muôn loài và mở rộng vườn Ê-đen. Phần thứ hai trình bày ba thuộc tính con người chia sẻ với Đức Chúa Trời — đạo đức, lý trí và thuộc linh — đều bị sự sa ngã làm hư hại và chỉ được phục hồi trong sự cứu rỗi. Phần thứ ba rút ra ý nghĩa cho các mối quan hệ: với Đức Chúa Trời qua sự thờ phượng, với con người qua phẩm giá và công lý, với cõi sáng tạo qua mệnh lệnh văn hóa.",
+   "title_en": "The Image of God",
+   "title_vi": "Hình Ảnh của Đức Chúa Trời"
+  },
+  {
+   "course_slug": "con-nguoi-va-tan-the",
+   "key_terms": [
+    {
+     "en": "federal head",
+     "vi": "đầu đại diện"
+    },
+    {
+     "en": "original sin",
+     "vi": "tội tổ tông"
+    },
+    {
+     "en": "total depravity",
+     "vi": "sự hư hoại toàn diện"
+    },
+    {
+     "en": "liberty of will",
+     "vi": "tự do ý chí"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Vì sao Đức Chúa Trời buộc cả nhân loại chịu trách nhiệm về tội của A-đam, và điều này mở ra hy vọng nào?",
+    "Tội lỗi là vô luật pháp và không yêu thương theo nghĩa nào?",
+    "Ba hậu quả của sự sa ngã — hư hoại, xa cách và chết — biểu hiện trong đời sống con người ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:5"
+    ],
+    "catechism": [
+     16,
+     17
+    ],
+    "encyclopedia": [
+     "toi-loi"
+    ]
+   },
+   "series_code": "MAN",
+   "source": "https://nexus.thirdmill.org/series/MAN",
+   "summary_vi": "Bài học trình bày tội lỗi đã bước vào thế giới và gây ra những hậu quả nào. Phần thứ nhất bàn về nguồn gốc: A-đam và Ê-va sa ngã qua cám dỗ, tội lỗi và sự đoán phạt; A-đam là đầu đại diện của nhân loại, nên mọi người đều bị hư hoại từ lúc thụ thai, nhưng điều này cũng có nghĩa mọi người đều có thể được cứu trong Đấng Christ, đầu đại diện thứ hai. Đức Chúa Trời không phải là tác giả của tội lỗi; Ngài cho phép tội lỗi trong chương trình tể trị của Ngài để bày tỏ công lý, lòng thương xót và ân điển. Phần thứ hai định nghĩa bản chất tội lỗi: vô luật pháp và không yêu thương. Phần thứ ba trình bày ba hậu quả: sự hư hoại, sự xa cách và sự chết.",
+   "title_en": "The Curse of Sin",
+   "title_vi": "Lời Rủa Sả của Tội Lỗi"
+  },
+  {
+   "course_slug": "con-nguoi-va-tan-the",
+   "key_terms": [
+    {
+     "en": "covenant of grace",
+     "vi": "giao ước ân điển"
+    },
+    {
+     "en": "covenant of redemption",
+     "vi": "giao ước cứu chuộc"
+    },
+    {
+     "en": "mediator",
+     "vi": "Đấng Trung Bảo"
+    },
+    {
+     "en": "faith alone",
+     "vi": "chỉ bởi đức tin"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Mưu định đời đời của Đức Chúa Trời an ủi tín hữu như thế nào?",
+    "Vì sao các thánh đồ Cựu Ước cần Đấng Christ làm Đấng Trung Bảo, dù Ngài chưa đến?",
+    "Nếu chỉ cần tin để được cứu, thì động lực nào khiến tín hữu vâng lời Đức Chúa Trời?"
+   ],
+   "reading": {
+    "bible": [
+     "eph:1"
+    ],
+    "catechism": [
+     20,
+     21
+    ],
+    "encyclopedia": [
+     "giao-uoc-an-dien"
+    ]
+   },
+   "series_code": "MAN",
+   "source": "https://nexus.thirdmill.org/series/MAN",
+   "summary_vi": "Bài học trình bày giao ước ân điển để cứu chuộc tội nhân. Phần thứ nhất bàn về mưu định đời đời: trước khi sáng tạo, Đức Chúa Trời đã chọn chúng ta trong Đấng Christ, và ba Ngôi hiệp ước cứu chuộc — Cha hoạch định, Con thực hiện, Thánh Linh áp dụng. Phần thứ hai giải thích vì sao giao ước việc làm không có đường tha thứ, nên Chúa Giê-xu trở thành Đấng Trung Bảo, và các thánh đồ Cựu Ước cũng được cứu bởi đức tin nơi Ngài. Phần thứ ba trình bày ba yếu tố: sự nhân từ của Đức Chúa Trời, lòng trung thành của con người — chỉ cần tin, vì Đấng Christ đã làm trọn mọi đòi hỏi — và sự sống đời đời. Phần cuối theo dõi sáu thời kỳ giao ước, từ A-đam đến Chúa Giê-xu.",
+   "title_en": "The Covenant of Grace",
+   "title_vi": "Giao Ước Ân Điển"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "ethics",
+     "vi": "đạo đức"
+    },
+    {
+     "en": "theology",
+     "vi": "thần học"
+    },
+    {
+     "en": "good works",
+     "vi": "việc lành"
+    },
+    {
+     "en": "glory of God",
+     "vi": "vinh hiển của Đức Chúa Trời"
+    },
+    {
+     "en": "conscience",
+     "vi": "lương tâm"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Theo định nghĩa của Frame, đạo đức Cơ Đốc khác với cách hiểu thông thường về đạo đức ở những điểm nào?",
+    "Vì sao một việc làm cần cả động cơ đúng, tiêu chuẩn đúng và mục đích đúng mới được kể là việc lành?",
+    "Ba khuynh hướng — chú trọng Lời Chúa, hậu quả và lương tâm — khi dùng riêng lẻ sẽ làm lệch quyết định đạo đức như thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "1cor:10"
+    ],
+    "catechism": [
+     39
+    ],
+    "encyclopedia": [
+     "luat-phap",
+     "su-vinh-hien"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học mở đầu định nghĩa đạo đức Cơ Đốc theo John Frame: thần học là phương tiện nhận biết người, việc và thái độ nào nhận được phước hạnh của Đức Chúa Trời. Vì bản tính Ngài là tiêu chuẩn tối hậu của điều thiện, phước hạnh và rủa sả Ngài ban ra bày tỏ chuẩn mực ấy, dù đôi khi bị trì hoãn. Đạo đức không phải một nhánh nhỏ của thần học mà chạm đến mọi chiều kích đời sống, và đi sâu đến cả tư tưởng, cảm xúc và động cơ. Bài học trình bày ba tiêu chuẩn của việc lành — động cơ đúng là đức tin và tình yêu thương, tiêu chuẩn đúng là mạng lệnh Kinh Thánh, mục đích đúng là vinh hiển Đức Chúa Trời — rồi giới thiệu ba quan điểm của toàn khóa: hoàn cảnh, chuẩn mực và hiện sinh.",
+   "title_en": "Ethics in Scripture",
+   "title_vi": "Đạo Đức trong Kinh Thánh"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "normative perspective",
+     "vi": "quan điểm chuẩn mực"
+    },
+    {
+     "en": "revelation",
+     "vi": "mặc khải"
+    },
+    {
+     "en": "general revelation",
+     "vi": "mặc khải chung"
+    },
+    {
+     "en": "special revelation",
+     "vi": "mặc khải đặc biệt"
+    },
+    {
+     "en": "sufficiency of Scripture",
+     "vi": "sự đầy đủ của Kinh Thánh"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Vì sao nói chính Đức Chúa Trời là tiêu chuẩn tối hậu của đạo đức, chứ không phải một chuẩn mực nào đứng trên Ngài?",
+    "Ba hình thức mặc khải — chung, đặc biệt và hiện sinh — truyền đạt tiêu chuẩn đạo đức khác nhau ra sao, và vì sao Kinh Thánh có quyền ưu tiên?",
+    "Trường hợp nan giải về chiếc xe điện cho thấy điều gì về giới hạn của việc chỉ dựa vào hậu quả để phán xét đạo đức?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:1"
+    ],
+    "catechism": [
+     2
+    ],
+    "encyclopedia": [
+     "mac-khai",
+     "khong-sai-lam"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học đào sâu quan điểm chuẩn mực, bắt đầu từ chính Đức Chúa Trời. Ngài là tiêu chuẩn tối hậu của đạo đức vì không có chuẩn mực nào đứng trên Ngài, và Ngài, Đấng Phán Xét, kêu gọi chúng ta noi theo sự tốt lành của Ngài. Tiếp đó, bài học xét Lời Ngài làm tiêu chuẩn: ba hình thức mặc khải — chung, đặc biệt và hiện sinh — đều truyền đạt tiêu chuẩn đạo đức, nhưng Kinh Thánh có quyền ưu tiên và là thước đo tối cao để xét mọi tranh luận, kể cả quyết định của hội đồng Hội Thánh. Ba hình thức mặc khải này thống nhất với nhau chứ không mâu thuẫn. Cuối bài, trường hợp nan giải về chiếc xe điện giúp người học suy nghĩ khi nào việc lấy mạng sống có thể được phép.",
+   "title_en": "The Normative Perspective: God and His Word",
+   "title_vi": "Quan Điểm Chuẩn Mực: Đức Chúa Trời và Lời Ngài"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "divine authorship",
+     "vi": "quyền tác giả thần linh"
+    },
+    {
+     "en": "clarity",
+     "vi": "sự sáng tỏ"
+    },
+    {
+     "en": "necessity",
+     "vi": "sự cần thiết"
+    },
+    {
+     "en": "sufficiency",
+     "vi": "sự đầy đủ"
+    },
+    {
+     "en": "adiaphora",
+     "vi": "những điều trung tính"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Quyền năng và thẩm quyền của Kinh Thánh liên quan thế nào đến việc chúng ta không được chọn lọc điều răn nào để vâng theo?",
+    "Ba thuộc tính sáng tỏ, cần thiết và đầy đủ của Kinh Thánh giúp tín hữu áp dụng Lời Chúa ra sao?",
+    "Vì sao sự im lặng của Kinh Thánh về một vấn đề không có nghĩa là chúng ta được tự do làm theo ý mình?"
+   ],
+   "reading": {
+    "bible": [
+     "2tim:3"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "su-sang-to-cua-kinh-thanh",
+     "chinh-dien"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học xét các thuộc tính của Kinh Thánh, bắt đầu từ quyền tác giả thuộc về Đức Chúa Trời. Lời Chúa có quyền năng biến đổi và thẩm quyền đòi vâng phục; thẩm quyền ấy không lệ thuộc vào người rao giảng, và chúng ta không được chọn lọc điều răn nào để vâng theo — sự vâng lời phải xuất phát từ tình yêu chứ không phải bổn phận khô khan. Tiếp đó, bài học trình bày ba thuộc tính liên quan đến người đọc: sự sáng tỏ, nghĩa là người thường cũng có thể hiểu điều cần thiết; sự cần thiết cho sự cứu rỗi và đời sống trung tín; và sự đầy đủ, nghĩa là Kinh Thánh cho đủ hướng dẫn mà không cần bổ sung. Cuối bài, quan điểm của Kant về tự sát được đem ra đối chiếu với những gì Kinh Thánh dạy.",
+   "title_en": "The Normative Perspective: The Attributes of Scripture",
+   "title_vi": "Quan Điểm Chuẩn Mực: Các Thuộc Tính của Kinh Thánh"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "moral law",
+     "vi": "luật pháp đạo đức"
+    },
+    {
+     "en": "civil law",
+     "vi": "luật pháp dân sự"
+    },
+    {
+     "en": "ceremonial law",
+     "vi": "luật pháp lễ nghi"
+    },
+    {
+     "en": "three uses of the law",
+     "vi": "ba công dụng của luật pháp"
+    },
+    {
+     "en": "love",
+     "vi": "tình yêu thương"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Vì sao sự đa dạng về ngôn ngữ và thể loại trong Kinh Thánh lại quan trọng khi áp dụng một đoạn văn vào đời sống?",
+    "Ba khía cạnh đạo đức, dân sự và lễ nghi của luật pháp khác nhau ra sao, và mỗi khía cạnh còn giá trị thế nào cho tín hữu ngày nay?",
+    "Điều răn yêu thương làm nên sự thống nhất của Kinh Thánh như thế nào, và khi nào một nguyên tắc luật pháp được ưu tiên hơn nguyên tắc khác?"
+   ],
+   "reading": {
+    "bible": [
+     "exo:20"
+    ],
+    "catechism": [
+     41
+    ],
+    "encyclopedia": [
+     "luat-phap",
+     "giao-uoc-moi"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học xét các phần và khía cạnh của Kinh Thánh dưới quan điểm chuẩn mực. Trước hết là sự đa dạng: Kinh Thánh dùng nhiều loại ngôn ngữ và thể loại, từ tường thuật đến châm biếm, cường điệu và biểu tượng, và mỗi thể loại đều dạy đạo đức theo cách riêng, nên người đọc phải chú ý đến thể loại. Tiếp đó là luật pháp của Đức Chúa Trời: Mười Điều Răn giữ vị trí hàng đầu, với ba khía cạnh đạo đức, dân sự và lễ nghi, mỗi khía cạnh có giá trị và cách áp dụng riêng ngày nay. Cuối cùng, bài học cho thấy sự thống nhất của Kinh Thánh qua điều răn yêu thương, Phúc Âm ân điển và giao ước mới, cùng ba công dụng của luật pháp và thứ tự ưu tiên khi các nguyên tắc xung đột.",
+   "title_en": "The Normative Perspective: Parts and Aspects of Scripture",
+   "title_vi": "Quan Điểm Chuẩn Mực: Các Phần và Khía Cạnh của Kinh Thánh"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "situational perspective",
+     "vi": "quan điểm hoàn cảnh"
+    },
+    {
+     "en": "facts",
+     "vi": "sự kiện"
+    },
+    {
+     "en": "goals",
+     "vi": "mục đích"
+    },
+    {
+     "en": "means",
+     "vi": "phương tiện"
+    },
+    {
+     "en": "laxity",
+     "vi": "sự buông lỏng"
+    }
+   ],
+   "lesson_no": 5,
+   "questions_vi": [
+    "Mặc khải truyền đạt nội dung dưới dạng sự kiện, mục đích và phương tiện ra sao, và vì sao mục đích không biện minh cho phương tiện?",
+    "Ba chiến lược sai lầm — buông lỏng, cứng nhắc và dựa vào quyền con người — khác nhau thế nào trong cách đặt 'hàng rào' quanh luật Chúa?",
+    "Việc giữ ngày Sa-bát cho thấy các chuẩn mực không đổi nhưng cách áp dụng thay đổi ra sao qua các thời kỳ?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:12"
+    ],
+    "catechism": [
+     57
+    ],
+    "encyclopedia": [
+     "ngay-sa-bat",
+     "mac-khai"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học mở đầu quan điểm hoàn cảnh bằng cách xét mặc khải và hoàn cảnh tương tác ra sao. Mọi hình thức mặc khải đều truyền đạt nội dung dưới dạng sự kiện, mục đích và phương tiện; Đức Chúa Trời là sự kiện tối hậu, và mục đích không bao giờ biện minh cho phương tiện sai trái. Việc giải nghĩa đòi hỏi xét hoàn cảnh ban đầu của đoạn văn, và Kinh Thánh là lăng kính để hiểu các mặc khải khác. Bài học cảnh báo ba chiến lược sai lầm khi đối diện mặc khải — buông lỏng, cứng nhắc và dựa vào quyền con người — rồi cho thấy các chuẩn mực không thay đổi, chỉ cách áp dụng thay đổi, qua luật ăn uống ở các thời kỳ. Trường hợp ngày Sa-bát giúp người học áp dụng điều răn thứ tư ngày nay.",
+   "title_en": "The Situational Perspective: Revelation and Situation",
+   "title_vi": "Quan Điểm Hoàn Cảnh: Mặc Khải và Hoàn Cảnh"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "kingdom",
+     "vi": "Vương quốc (Đức Chúa Trời)"
+    },
+    {
+     "en": "cultural mandate",
+     "vi": "mạng lệnh văn hóa"
+    },
+    {
+     "en": "Great Commission",
+     "vi": "Đại mạng lệnh"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "glorify God",
+     "vi": "tôn vinh Đức Chúa Trời"
+    }
+   ],
+   "lesson_no": 6,
+   "questions_vi": [
+    "Vì sao mục đích cao nhất của đạo đức Cơ Đốc là sự thành công và chiến thắng của Vương quốc Đức Chúa Trời, chứ không phải hạnh phúc riêng của chúng ta?",
+    "Việc tôn vinh Đức Chúa Trời và vui hưởng Ngài liên quan với nhau ra sao trong đời sống hằng ngày, kể cả trong đau khổ?",
+    "Mạng lệnh văn hóa và Đại mạng lệnh bổ sung cho nhau thế nào, và Nietzsche sai ở đâu khi cho rằng đạo đức không cần Đức Chúa Trời?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:28"
+    ],
+    "catechism": [
+     1
+    ],
+    "encyclopedia": [
+     "nuoc-duc-chua-troi",
+     "dai-mang-lenh"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học đặt mục đích của đạo đức trong khung cảnh Vương quốc Đức Chúa Trời. Mục đích cao nhất là sự thành công và chiến thắng của Vương quốc khi lan rộng từ trời xuống khắp đất, tức vinh hiển Đức Chúa Trời; các phước hạnh trong bài giảng trên núi, bài cầu nguyện chung và nhu cầu hằng ngày đều hướng về Vương quốc ấy. Vương quốc gồm Vua, dân sự và các giao ước, phát triển qua hòa bình ban đầu, sự phản loạn và hòa bình sau cùng. Trong Vương quốc, tín hữu sống để tôn vinh và vui hưởng Đức Chúa Trời, kể cả qua đau khổ. Cuối bài, mạng lệnh văn hóa và Đại mạng lệnh được đặt cạnh nhau, rồi quan điểm đạo đức không cần Đức Chúa Trời của Nietzsche được đem ra đối chiếu.",
+   "title_en": "The Situational Perspective: Pursuing Our Goal",
+   "title_vi": "Quan Điểm Hoàn Cảnh: Theo Đuổi Mục Đích Của Chúng Ta"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "sovereignty",
+     "vi": "chủ quyền của Đức Chúa Trời"
+    },
+    {
+     "en": "providence",
+     "vi": "sự quan phòng"
+    },
+    {
+     "en": "spiritual warfare",
+     "vi": "chiến trận thuộc linh"
+    },
+    {
+     "en": "angels and demons",
+     "vi": "thiên sứ và ma quỷ"
+    },
+    {
+     "en": "image of God",
+     "vi": "hình ảnh của Đức Chúa Trời"
+    }
+   ],
+   "lesson_no": 7,
+   "questions_vi": [
+    "Ba sự kiện về Đức Chúa Trời — thẩm quyền, sự tể trị và sự hiện diện — định hình quyết định đạo đức của chúng ta như thế nào?",
+    "Hiểu biết về thế giới thụ tạo, cả hữu hình lẫn vô hình, giúp chúng ta đánh giá hoàn cảnh ra sao trước khi hành động?",
+    "Trường hợp gia đình Ten Boom nói dối để cứu người Do Thái cho thấy những nguyên tắc nào cần cân nhắc khi các bổn phận dường như xung đột?"
+   ],
+   "reading": {
+    "bible": [
+     "eph:6"
+    ],
+    "catechism": [
+     11
+    ],
+    "encyclopedia": [
+     "su-quan-phong",
+     "thien-su"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học dạy cách hiểu biết các sự kiện trước khi quyết định đạo đức, bắt đầu từ Đức Chúa Trời: thẩm quyền tuyệt đối của Ngài, sự tể trị đầy chủ quyền và đạo đức trên mọi sự, cùng sự hiện diện của Ngài như Vua giao ước, Chúa nhập thể và Đức Thánh Linh phục vụ. Tiếp đó là thế giới thụ tạo: các thiên sứ và ma quỷ, chiến trận thuộc linh, cùng thiên nhiên đã sa ngã nhưng sẽ được cứu chuộc. Cuối cùng là con người: tính liên đới của toàn nhân loại trong sự sa ngã và cứu chuộc, cùng những khác biệt cá nhân về tính cách, kinh nghiệm, thân thể và vai trò ảnh hưởng đến bổn phận đạo đức. Trường hợp gia đình Ten Boom nói dối để cứu người Do Thái giúp người học áp dụng các nguyên tắc này.",
+   "title_en": "The Situational Perspective: Understanding the Facts",
+   "title_vi": "Quan Điểm Hoàn Cảnh: Hiểu Biết Các Sự Kiện"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "existential perspective",
+     "vi": "quan điểm hiện sinh"
+    },
+    {
+     "en": "image of God",
+     "vi": "hình ảnh của Đức Chúa Trời"
+    },
+    {
+     "en": "fallen nature",
+     "vi": "bản tính sa ngã"
+    },
+    {
+     "en": "redemption",
+     "vi": "sự cứu chuộc"
+    },
+    {
+     "en": "sanctification",
+     "vi": "sự nên thánh"
+    }
+   ],
+   "lesson_no": 8,
+   "questions_vi": [
+    "Vì sao quan điểm hiện sinh nói rằng điều thiện bắt đầu từ 'con người là ai' chứ không chỉ từ 'con người làm gì'?",
+    "Sự sa ngã đã làm hư hỏng bản tính, ý chí và sự hiểu biết của con người ra sao?",
+    "Sự cứu chuộc thay đổi bản tính, ý chí và sự hiểu biết của tín hữu như thế nào, và điều đó liên quan gì đến các vấn đề như an tử hay nhân bản vô tính?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:6"
+    ],
+    "catechism": [
+     17
+    ],
+    "encyclopedia": [
+     "su-sa-nga",
+     "su-tai-sinh"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học xét quan điểm hiện sinh qua câu hỏi con người tốt là người như thế nào. Về sáng tạo, mọi điều thiện đều bắt nguồn từ Đức Chúa Trời, Đấng có các thuộc tính bất biến và đơn giản như một viên đá quý nhiều mặt; con người được dựng theo hình ảnh Ngài với bản tính đạo đức và mạng lệnh văn hóa. Về sa ngã, bài học xét bản tính, ý chí và sự hiểu biết đã hư hỏng ra sao, với hình ảnh nô lệ trong Rô-ma 6–8. Về cứu chuộc, bản tính được đổi mới, quyền lực của tội lỗi trên ý chí suy yếu qua các giai đoạn lịch sử cứu chuộc, và sự hiểu biết được phục hồi để vâng lời. Cuối bài, các vấn đề an tử và nhân bản vô tính được đem ra áp dụng.",
+   "title_en": "The Existential Perspective: Being Good",
+   "title_vi": "Quan Điểm Hiện Sinh: Trở Nên Người Tốt"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "motive",
+     "vi": "động cơ"
+    },
+    {
+     "en": "faith",
+     "vi": "đức tin"
+    },
+    {
+     "en": "love",
+     "vi": "tình yêu thương"
+    },
+    {
+     "en": "repentance",
+     "vi": "sự ăn năn"
+    },
+    {
+     "en": "justification",
+     "vi": "sự xưng công chính"
+    }
+   ],
+   "lesson_no": 9,
+   "questions_vi": [
+    "Vì sao động cơ lại quan trọng trong đạo đức Cơ Đốc, và 'lòng' trong Kinh Thánh bao gồm những gì?",
+    "Đức tin và sự ăn năn được gọi là 'hai mặt của cùng một đồng xu' như thế nào?",
+    "Đạo đức tình huống của Fletcher và đạo đức hiện sinh của Sartre sai ở đâu so với cách tiếp cận ba quan điểm của Frame?"
+   ],
+   "reading": {
+    "bible": [
+     "heb:11"
+    ],
+    "catechism": [
+     86
+    ],
+    "encyclopedia": [
+     "duc-tin",
+     "an-nan"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học cho thấy động cơ quan trọng thế nào trong đạo đức Cơ Đốc. Động cơ là khuynh hướng bên trong, phức tạp và có khi chính mình không nhận ra; 'lòng' trong Kinh Thánh gồm tâm trí, tư tưởng và linh hồn, và sự giả hình — như khi Phao-lô quở trách Phi-e-rơ — cho thấy lòng có thể sai lệch. Hai động cơ then chốt được xét kỹ: đức tin cứu rỗi, đi cùng sự ăn năn như hai mặt của một đồng xu, với niềm hy vọng; và tình yêu thương, gồm trung thành, hành động và cảm xúc, trong đó sự kính sợ Chúa và lòng biết ơn rất quan trọng. Cuối bài, đạo đức tình huống của Fletcher và đạo đức hiện sinh của Sartre được đối chiếu với cách tiếp cận ba quan điểm qua vụ đồng nghiệp ăn cắp tiền.",
+   "title_en": "The Existential Perspective: Intending Good",
+   "title_vi": "Quan Điểm Hiện Sinh: Có Ý Định Tốt"
+  },
+  {
+   "course_slug": "dao-duc-kinh-thanh",
+   "key_terms": [
+    {
+     "en": "conscience",
+     "vi": "lương tâm"
+    },
+    {
+     "en": "reason",
+     "vi": "lý trí"
+    },
+    {
+     "en": "emotions",
+     "vi": "cảm xúc"
+    },
+    {
+     "en": "will",
+     "vi": "ý chí"
+    },
+    {
+     "en": "experience",
+     "vi": "kinh nghiệm"
+    }
+   ],
+   "lesson_no": 10,
+   "questions_vi": [
+    "Bảy năng lực hiện sinh được chia thành ba nhóm thu thập, đánh giá và áp dụng tri thức như thế nào?",
+    "Lương tâm và cảm xúc giúp ích ra sao cho quyết định đạo đức, và vì sao chúng ta không thể tin cậy chúng một cách tuyệt đối?",
+    "Câu chuyện Chúa Giê-xu chữa người tay teo trong Ma-thi-ơ 12 cho thấy cả bảy năng lực cùng hoạt động ra sao, và toàn bộ khóa học áp dụng vào vấn đề phá thai như thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:7"
+    ],
+    "catechism": [
+     39
+    ],
+    "encyclopedia": [
+     "luong-tam",
+     "su-vang-loi"
+    ]
+   },
+   "series_code": "MBD",
+   "source": "https://nexus.thirdmill.org/series/MBD",
+   "summary_vi": "Bài học cuối tổng kết toàn khóa qua bảy năng lực hiện sinh mà con người dùng để lựa chọn điều thiện. Việc thu thập tri thức gồm kinh nghiệm — qua các giác quan vốn đã bị tội lỗi ảnh hưởng — và trí tưởng tượng, giúp ta hiểu những điều xa cách về thời gian và không gian. Việc đánh giá tri thức gồm lý trí, lương tâm — vốn không phải lúc nào cũng chính xác — và cảm xúc, như tiếng còi xe khiến người qua đường giật mình. Việc áp dụng tri thức gồm lòng, với những cam kết và ước muốn xung đột như trong Rô-ma 7, và ý chí. Câu chuyện Chúa Giê-xu chữa người tay teo cho thấy cả bảy năng lực cùng hoạt động, và toàn bộ khóa học được áp dụng lại vào vấn đề phá thai.",
+   "title_en": "The Existential Perspective: Choosing Good",
+   "title_vi": "Quan Điểm Hiện Sinh: Lựa Chọn Điều Thiện"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "hermeneutics",
+     "vi": "giải kinh"
+    },
+    {
+     "en": "preparation",
+     "vi": "sự chuẩn bị"
+    },
+    {
+     "en": "investigation",
+     "vi": "sự khảo sát"
+    },
+    {
+     "en": "application",
+     "vi": "sự áp dụng"
+    },
+    {
+     "en": "devotional hermeneutics",
+     "vi": "giải kinh tin kính"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Ba tiến trình giải kinh — chuẩn bị, khảo sát và áp dụng — liên hệ với nhau ra sao, và vì sao bỏ qua một tiến trình sẽ làm yếu cả ba?",
+    "Lối giải kinh khoa học có gốc rễ Kinh Thánh như thế nào, và vì sao Phao-lô phân tích chữ 'kể là' trong Rô-ma 4 là một ví dụ điển hình?",
+    "Giải kinh tin kính khác giải kinh thuần học thuật ở điểm nào, và bạn giữ lòng kính sợ Chúa ra sao khi nghiên cứu Kinh Thánh?"
+   ],
+   "reading": {
+    "bible": [
+     "2tim:3"
+    ],
+    "catechism": [
+     2
+    ],
+    "encyclopedia": [
+     "duy-kinh-thanh"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài mở đầu đặt nền tảng cho cả loạt bài: giải kinh là gì và làm sao giải kinh cho đúng. Trước hết, bài giới thiệu thuật ngữ: giải kinh là nghệ thuật và khoa học giải thích ý nghĩa Kinh Thánh, với ba tiến trình gắn bó chặt chẽ: chuẩn bị, khảo sát và áp dụng. Tiếp đó, bài trình bày lối giải kinh khoa học: các tác giả Kinh Thánh đã phân tích cẩn thận Lời Chúa, như Phao-lô luận về chữ 'kể là' trong Rô-ma 4, và truyền thống này tiếp tục qua Ô-ri-ghen, Âu-gút-tin và A-qui-nô. Cuối cùng, bài dạy lối giải kinh tin kính: vì Kinh Thánh là Lời Đức Chúa Trời có thẩm quyền và không mâu thuẫn với chính nó, người giải kinh phải kết hợp nghiên cứu học thuật với lòng kính sợ, cầu nguyện và vâng lời.",
+   "title_en": "Introduction to Biblical Hermeneutics",
+   "title_vi": "Giới Thiệu Về Giải Kinh"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "inspiration",
+     "vi": "sự cảm thúc"
+    },
+    {
+     "en": "illumination",
+     "vi": "sự soi sáng"
+    },
+    {
+     "en": "organic inspiration",
+     "vi": "sự cảm thúc hữu cơ"
+    },
+    {
+     "en": "Holy Spirit",
+     "vi": "Đức Thánh Linh"
+    },
+    {
+     "en": "human effort",
+     "vi": "nỗ lực của con người"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Sự cảm thúc hữu cơ khác quan điểm lãng mạn và quan điểm máy móc về cảm thúc ở điểm nào?",
+    "Vì sao không thể chỉ trông chờ Đức Thánh Linh soi sáng mà bỏ qua học tập, đào tạo và công cụ nghiên cứu?",
+    "Kinh nghiệm quá khứ, niềm tin sẵn có và tội lỗi của bạn đang giúp hay cản trở việc bạn giải kinh ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "2pet:1"
+    ],
+    "catechism": [
+     2
+    ],
+    "encyclopedia": [
+     "cam-thuc"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này dạy cách chuẩn bị bản thân trước khi giải kinh, qua hai yếu tố: nương cậy Đức Thánh Linh và nỗ lực của con người. Trước hết, bài nhấn mạnh sự cảm thúc hữu cơ: Đức Thánh Linh đã hà hơi mọi lời Kinh Thánh qua các tác giả con người, nên Ngài là tác giả tối cao và Kinh Thánh hoàn toàn đáng tin; Ngài cũng ban sự soi sáng cho người đọc hiểu Lời Chúa sâu sắc hơn. Tuy nhiên, không thể chỉ trông chờ Đức Thánh Linh mà bỏ qua học tập: người giải kinh cần được đào tạo, dùng công cụ tốt, xét lại kinh nghiệm và niềm tin sẵn có, và nhận biết tội lỗi làm mờ mắt mình. Chuẩn bị đúng là kết hợp nương cậy Thánh Linh với nỗ lực học hỏi cách khiêm nhường.",
+   "title_en": "Preparation for Interpretation",
+   "title_vi": "Chuẩn Bị Để Giải Kinh"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "original meaning",
+     "vi": "ý nghĩa gốc"
+    },
+    {
+     "en": "writer",
+     "vi": "tác giả"
+    },
+    {
+     "en": "audience",
+     "vi": "độc giả đầu tiên"
+    },
+    {
+     "en": "document",
+     "vi": "văn bản"
+    },
+    {
+     "en": "grammatico-historical exegesis",
+     "vi": "giải kinh ngữ pháp–lịch sử"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Ý nghĩa gốc là gì, và vì sao phải tìm ý nghĩa mà các tác giả muốn truyền đạt cho độc giả đầu tiên?",
+    "Thông tin về tác giả, độc giả và văn bản giúp chúng ta hiểu ý nghĩa gốc như thế nào? Hãy cho một ví dụ.",
+    "Khi bỏ qua hoàn cảnh lịch sử của một đoạn Kinh Thánh, chúng ta dễ mắc những sai lầm nào khi áp dụng?"
+   ],
+   "reading": {
+    "bible": [
+     "psa:19"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "mac-khai"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này hướng dẫn tiến trình khảo sát: tìm ý nghĩa gốc của đoạn Kinh Thánh. Trước hết, bài định nghĩa ý nghĩa gốc là điều các tác giả — cả thần linh lẫn con người — cùng muốn truyền đạt cho độc giả đầu tiên. Tiếp đó, bài nêu nền tảng thần học của việc khảo sát: tác giả, độc giả và văn bản đều quan trọng, vì Đức Chúa Trời đã dùng con người thật, trong hoàn cảnh thật, để viết những tài liệu thật. Cuối cùng, bài cho thấy tầm quan trọng của ý nghĩa gốc: lịch sử Hội Thánh cho thấy khi bỏ qua ý nghĩa gốc, người ta dễ lấy truyền thống thay thế Kinh Thánh; ngày nay, việc khảo sát cẩn thận giúp chúng ta không áp đặt ý mình lên Lời Chúa, mà nghe chính điều Đức Chúa Trời đã phán.",
+   "title_en": "Investigating Scripture",
+   "title_vi": "Khảo Sát Kinh Thánh"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "objectivism",
+     "vi": "chủ nghĩa khách quan"
+    },
+    {
+     "en": "subjectivism",
+     "vi": "chủ nghĩa chủ quan"
+    },
+    {
+     "en": "dialogism",
+     "vi": "chủ nghĩa đối thoại"
+    },
+    {
+     "en": "genre",
+     "vi": "thể loại văn học"
+    },
+    {
+     "en": "hermeneutical spiral",
+     "vi": "vòng xoắn ốc giải kinh"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Cách tiếp cận khách quan, chủ quan và đối thoại khác nhau ra sao trong cách nhìn về người giải kinh và Kinh Thánh?",
+    "Vì sao quá nhấn mạnh cảm xúc hay phản ứng cá nhân có thể làm suy yếu ý nghĩa khách quan của một đoạn Kinh Thánh?",
+    "Hình ảnh vòng xoắn ốc giúp bạn hiểu thế nào về việc càng nghiên cứu càng tiến gần ý nghĩa có thẩm quyền của Đức Chúa Trời?"
+   ],
+   "reading": {
+    "bible": [
+     "joh:1"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "le-that"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này đối chiếu ba cách tiếp cận ý nghĩa. Cách khách quan tin rằng có thể hiểu Kinh Thánh cách vô tư, dựa trên lý trí và phương pháp — nguồn gốc từ chủ nghĩa duy lý của Descartes; cách chủ quan cho rằng hiểu biết luôn bị thiên kiến chi phối — nguồn gốc từ chủ nghĩa chủ quan của Kant; cách đối thoại nhấn mạnh sự tương tác giữa hai bên. Bài cho thấy mỗi cách đều có điểm mạnh và điểm yếu, rồi đề xuất cách đối thoại có thẩm quyền: vừa tôn trọng ý nghĩa khách quan của văn bản, vừa ý thức giới hạn của chính mình. Bài cũng dạy rằng giải kinh giống như vòng xoắn ốc: càng nghiên cứu, chúng ta càng tiến gần hơn đến ý nghĩa có thẩm quyền của Đức Chúa Trời.",
+   "title_en": "Approaches to Meaning",
+   "title_vi": "Các Cách Tiếp Cận Ý Nghĩa"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "literal sense",
+     "vi": "nghĩa đen"
+    },
+    {
+     "en": "Quadriga",
+     "vi": "lối giải kinh bốn tầng nghĩa"
+    },
+    {
+     "en": "full value",
+     "vi": "giá trị đầy đủ"
+    },
+    {
+     "en": "allegory",
+     "vi": "phép ẩn dụ"
+    },
+    {
+     "en": "legalism",
+     "vi": "chủ nghĩa luật pháp"
+    }
+   ],
+   "lesson_no": 5,
+   "questions_vi": [
+    "Vì sao các nhà Cải Chánh khẳng định mỗi đoạn Kinh Thánh chỉ có một ý nghĩa thống nhất, dù một đoạn có thể mang nhiều nghĩa?",
+    "Giá trị đầy đủ của một đoạn gồm những gì, và phép ẩn dụ của Phao-lô minh họa điều ấy ra sao?",
+    "Chúa Giê-xu mở rộng điều răn chớ giết người trong Ma-thi-ơ 5 như thế nào, và điều đó dạy chúng ta áp dụng Kinh Thánh mà không rơi vào chủ nghĩa luật pháp ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:5"
+    ],
+    "catechism": [
+     2
+    ],
+    "encyclopedia": [
+     "su-sang-to-cua-kinh-thanh"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này giải thích vì sao ý nghĩa Kinh Thánh phức tạp và làm sao nắm được trọn vẹn giá trị của nó. Trước hết, bài xét nghĩa đen: một đoạn có thể mang nhiều nghĩa, nhưng các nhà Cải Chánh khẳng định mỗi đoạn chỉ có một ý nghĩa thống nhất, khác với lối giải kinh bốn tầng nghĩa thời Trung cổ. Tiếp đó, bài trình bày giá trị đầy đủ của một đoạn: ý nghĩa gốc, những khai triển trong Kinh Thánh, và những áp dụng hợp lệ — như Phao-lô dùng phép ẩn dụ, hay Chúa Giê-xu mở rộng điều răn chớ giết người trong Ma-thi-ơ 5. Cuối cùng, bài phân biệt Kinh Thánh với áp dụng của chúng ta, để vừa áp dụng mạnh mẽ vừa tránh chủ nghĩa luật pháp.",
+   "title_en": "The Complexity of Meaning",
+   "title_vi": "Sự Phức Tạp Của Ý Nghĩa"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "grammatico-historical method",
+     "vi": "phương pháp ngữ pháp–lịch sử"
+    },
+    {
+     "en": "writer",
+     "vi": "tác giả"
+    },
+    {
+     "en": "document",
+     "vi": "văn bản"
+    },
+    {
+     "en": "audience",
+     "vi": "độc giả đầu tiên"
+    },
+    {
+     "en": "interpreter",
+     "vi": "người giải kinh"
+    }
+   ],
+   "lesson_no": 6,
+   "questions_vi": [
+    "Ba kim chỉ nam — tác giả, văn bản và độc giả đầu tiên — giúp khám phá ý nghĩa gốc như thế nào, và vì sao không thể tách rời chúng?",
+    "Khi tóm tắt ý nghĩa một đoạn, vì sao phải xét độ phức tạp của đoạn văn, tính độc đáo của người giải kinh và nhu cầu của độc giả?",
+    "Kiến thức tiếng Hy Lạp, bối cảnh lịch sử và sự giúp đỡ của các nhà giải kinh khác hỗ trợ bạn ra sao khi giải kinh?"
+   ],
+   "reading": {
+    "bible": [
+     "luk:24"
+    ],
+    "catechism": [
+     2
+    ],
+    "encyclopedia": [
+     "khong-sai-lam"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này trình bày phương pháp ngữ pháp–lịch sử để khám phá ý nghĩa gốc của Kinh Thánh. Trước hết, bài nêu ba kim chỉ nam: tác giả, văn bản và độc giả đầu tiên — chúng ta phải hiểu người viết là ai, văn bản viết gì, và độc giả đầu tiên hiểu ra sao. Tiếp đó, bài cho thấy ba kim chỉ nam này liên hệ chặt chẽ và không thể tách rời. Cuối cùng, bài dạy cách tóm tắt ý nghĩa: xét độ phức tạp của đoạn văn, tính độc đáo của người giải kinh, và nhu cầu của độc giả. Bài cũng nhắc nhở rằng kiến thức tiếng Hy Lạp, bối cảnh lịch sử và sự giúp đỡ của các nhà giải kinh khác đều hỗ trợ việc khám phá ý nghĩa, chứ không thay thế nó.",
+   "title_en": "Discovering Meaning",
+   "title_vi": "Khám Phá Ý Nghĩa"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "application",
+     "vi": "sự áp dụng"
+    },
+    {
+     "en": "immutability",
+     "vi": "sự bất biến"
+    },
+    {
+     "en": "covenant promises",
+     "vi": "lời hứa giao ước"
+    },
+    {
+     "en": "epoch",
+     "vi": "thời kỳ"
+    },
+    {
+     "en": "original meaning",
+     "vi": "ý nghĩa gốc"
+    }
+   ],
+   "lesson_no": 7,
+   "questions_vi": [
+    "Vì sao việc áp dụng Kinh Thánh là cần thiết, chứ không chỉ hiểu ý nghĩa gốc là đủ?",
+    "Những điểm nối nào giữa độc giả xưa và nay — về Đức Chúa Trời, thế giới và con người — khiến Kinh Thánh vẫn liên hệ với chúng ta?",
+    "Khi áp dụng một đoạn Cựu Ước, bạn xét đến những phát triển nào về thời kỳ, văn hóa và cá nhân?"
+   ],
+   "reading": {
+    "bible": [
+     "jac:1"
+    ],
+    "catechism": [
+     2
+    ],
+    "encyclopedia": [
+     "giao-uoc"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này dạy cách áp dụng Kinh Thánh vào đời sống hiện đại. Trước hết, bài nhấn mạnh sự cần thiết của việc áp dụng: Lời Chúa phải thay đổi tư tưởng, hành vi và cảm xúc của chúng ta, nếu không việc học Kinh Thánh trở nên vô ích. Tiếp đó, bài nêu những điểm nối giữa độc giả xưa và nay: cùng một Đức Chúa Trời bất biến — trong ý chỉ đời đời, bản tính và lời hứa giao ước; cùng một thế giới; và cùng một loại con người — mang hình ảnh Đức Chúa Trời nhưng đã sa ngã, chia thành người chưa tin, người tin giả và tín hữu. Cuối cùng, bài xét những phát triển cần tính đến: thời kỳ cứu chuộc, văn hóa và cá nhân — như Phao-lô đã áp dụng chuyện Cựu Ước cho Hội Thánh Tân Ước.",
+   "title_en": "Applying Scripture",
+   "title_vi": "Áp Dụng Kinh Thánh"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "epoch",
+     "vi": "thời kỳ"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "storyline",
+     "vi": "cốt truyện"
+    },
+    {
+     "en": "model",
+     "vi": "gương mẫu"
+    },
+    {
+     "en": "anticipation",
+     "vi": "sự báo trước"
+    }
+   ],
+   "lesson_no": 8,
+   "questions_vi": [
+    "Sáu giao ước lớn chia lịch sử Cựu Ước thành các thời kỳ ra sao, và mỗi giao ước đem đến nhấn mạnh thần học nào?",
+    "Cốt truyện thống nhất của Kinh Thánh là gì, và Đức Chúa Trời cùng Sa-tan đóng vai trò nào trong đó?",
+    "Trận Giê-ri-cô và trận A-hi dạy chúng ta phân biệt gương tốt và gương xấu như thế nào khi áp dụng Cựu Ước hôm nay?"
+   ],
+   "reading": {
+    "bible": [
+     "heb:8"
+    ],
+    "catechism": [
+     20
+    ],
+    "encyclopedia": [
+     "giao-uoc"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này dạy cách áp dụng Cựu Ước hôm nay qua các thời kỳ của lịch sử cứu chuộc. Trước hết, bài chia lịch sử Cựu Ước thành các thời kỳ theo sáu giao ước lớn: A-đam, Nô-ê, Áp-ra-ham, Môi-se, Đa-vít và giao ước mới — mỗi giao ước đem đến những nhấn mạnh thần học lâu dài. Tiếp đó, bài theo dõi sự phát triển qua các thời kỳ: hai nhân vật chính là Đức Chúa Trời và Sa-tan, với một cốt truyện thống nhất là Đức Chúa Trời mở rộng vinh hiển Ngài; các tác giả Cựu Ước cũng thường áp dụng thời kỳ trước cho độc giả đương thời. Cuối cùng, bài dạy cách nối quá khứ với hiện tại qua bối cảnh, gương mẫu và sự báo trước — như trận Giê-ri-cô là gương tốt còn trận A-hi là gương xấu.",
+   "title_en": "Modern Application and Old Testament Epochs",
+   "title_vi": "Áp Dụng Hiện Đại Và Các Thời Kỳ Cựu Ước"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "fulfillment",
+     "vi": "sự ứng nghiệm"
+    },
+    {
+     "en": "new covenant",
+     "vi": "giao ước mới"
+    },
+    {
+     "en": "mystery",
+     "vi": "điều mầu nhiệm"
+    },
+    {
+     "en": "warfare",
+     "vi": "chiến tranh"
+    },
+    {
+     "en": "kingdom",
+     "vi": "Vương quốc Đức Chúa Trời"
+    }
+   ],
+   "lesson_no": 9,
+   "questions_vi": [
+    "Đấng Christ đã ứng nghiệm chủ đề chiến tranh chống điều ác ra sao trong lần đến thứ nhất, và Hội Thánh tiếp tục cuộc chiến ấy thế nào hôm nay?",
+    "'Điều mầu nhiệm' trong Ê-phê-sô 3 có nghĩa gì, và vì sao dân ngoại được dự phần vào lời hứa cùng với Y-sơ-ra-ên?",
+    "Khi đọc một điều dạy trong Cựu Ước, làm sao biết điều ấy thuộc về thời Cựu Ước hay vẫn tiếp tục trong giao ước mới?"
+   ],
+   "reading": {
+    "bible": [
+     "jer:31"
+    ],
+    "catechism": [
+     21
+    ],
+    "encyclopedia": [
+     "giao-uoc-moi"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này cho thấy giao ước mới làm trọn các chủ đề Cựu Ước và định hình cách áp dụng Kinh Thánh hôm nay. Trước hết, bài trình bày sự ứng nghiệm: Đấng Christ đã làm trọn chủ đề chiến tranh chống lại điều ác trong lần đến thứ nhất, Hội Thánh tiếp tục cuộc chiến ấy ngày nay, và Ngài sẽ hoàn tất khi trở lại trong vinh hiển. Bài cũng giải thích 'điều mầu nhiệm' trong Ê-phê-sô 3: dân ngoại được dự phần vào lời hứa cùng với Y-sơ-ra-ên. Tiếp đó, bài nêu hướng dẫn áp dụng: khi đọc Cựu Ước, phải xét xem một điều dạy thuộc về thời Cựu Ước hay vẫn tiếp tục trong giao ước mới, vì chúng ta sống trong thời kỳ giao ước mới với luật pháp ghi trong lòng và sự tha thứ tội lỗi.",
+   "title_en": "Modern Application and the New Covenant",
+   "title_vi": "Áp Dụng Hiện Đại Và Giao Ước Mới"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "culture",
+     "vi": "văn hóa"
+    },
+    {
+     "en": "cultural mandate",
+     "vi": "mạng lệnh văn hóa"
+    },
+    {
+     "en": "common grace",
+     "vi": "ân điển phổ thông"
+    },
+    {
+     "en": "gospel mandate",
+     "vi": "mạng lệnh Phúc Âm"
+    },
+    {
+     "en": "general revelation",
+     "vi": "mặc khải phổ thông"
+    }
+   ],
+   "lesson_no": 10,
+   "questions_vi": [
+    "Mạng lệnh văn hóa trong Sáng Thế Ký 1:28 là gì, và vì sao mọi phát triển văn hóa theo ý Chúa đều là sự phục vụ thánh?",
+    "Hai con đường văn hóa đối nghịch bắt nguồn từ Sáng Thế Ký 3:15 là gì, và ân điển phổ thông giữ chúng tương đồng ra sao?",
+    "Khi gặp một tập tục văn hóa trong Kinh Thánh, bạn dùng bốn mức đánh giá của Đức Chúa Trời như thế nào để quyết định có áp dụng hôm nay không?"
+   ],
+   "reading": {
+    "bible": [
+     "gen:1"
+    ],
+    "catechism": [
+     1
+    ],
+    "encyclopedia": [
+     "vuon-e-den"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài này dạy cách tính đến văn hóa khi áp dụng Kinh Thánh. Trước hết, bài nêu nền tảng: Sáng Thế Ký 1–11 nêu mạng lệnh văn hóa — con người phải phát triển tạo vật để bày tỏ vinh hiển Đức Chúa Trời; sau khi sa ngã, nhân loại theo hai con đường đối nghịch: dòng dõi người nữ phục vụ Đức Chúa Trời và dòng dõi con rắn chống lại Ngài, với văn hóa đa dạng qua mặc khải đặc biệt và phổ thông. Tiếp đó, bài theo dõi sự phát triển: Y-sơ-ra-ên sống theo luật Môi-se, còn trong giao ước mới Đấng Christ mở rộng Vương quốc cho muôn dân. Cuối cùng, bài dạy cách áp dụng: phân biệt điều Chúa chấp thuận hẳn, tạm thời, dung thứ hay cấm hẳn — như Phao-lô trong 1 Cô-rinh-tô 9 thích ứng văn hóa mà không thỏa hiệp.",
+   "title_en": "Biblical Culture and Modern Application",
+   "title_vi": "Văn Hóa Kinh Thánh Và Áp Dụng Hiện Đại"
+  },
+  {
+   "course_slug": "giai-kinh",
+   "key_terms": [
+    {
+     "en": "universal principles",
+     "vi": "nguyên tắc phổ quát"
+    },
+    {
+     "en": "higher instructions",
+     "vi": "hướng dẫn cao"
+    },
+    {
+     "en": "lower instructions",
+     "vi": "hướng dẫn thấp"
+    },
+    {
+     "en": "wisdom",
+     "vi": "sự khôn ngoan"
+    },
+    {
+     "en": "community",
+     "vi": "cộng đồng"
+    }
+   ],
+   "lesson_no": 11,
+   "questions_vi": [
+    "Hai điều răn lớn nhất làm trung tâm cho mọi hướng dẫn trong Kinh Thánh ra sao, theo hình ảnh chiếc mobile mà Chúa Giê-xu nêu ra?",
+    "Hướng dẫn cao và hướng dẫn thấp khác nhau thế nào, và vì sao hướng dẫn thấp áp dụng khác nhau tùy người và hoàn cảnh?",
+    "Lãnh đạo, cộng đồng và sự cầu nguyện suy ngẫm giúp bạn áp dụng Kinh Thánh cho đời mình ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:22"
+    ],
+    "catechism": [
+     39
+    ],
+    "encyclopedia": [
+     "su-vang-loi"
+    ]
+   },
+   "series_code": "HGB",
+   "source": "https://nexus.thirdmill.org/series/HGB",
+   "summary_vi": "Bài kết loạt bài bằng cách dạy áp dụng Kinh Thánh cho từng cá nhân. Trước hết, bài cho thấy Kinh Thánh chứa nhiều loại hướng dẫn khác nhau: nguyên tắc phổ quát cho mọi người — hai điều răn lớn nhất là kính mến Đức Chúa Trời và yêu người lân cận; hướng dẫn chung; hướng dẫn cụ thể; và gương người xưa — xếp như một chiếc mobile quanh hai điều răn lớn. Tiếp đó, bài phân biệt hướng dẫn cao — nguyên tắc và hướng dẫn chung — với hướng dẫn thấp — hướng dẫn cụ thể và gương mẫu, vốn áp dụng khác nhau tùy người và hoàn cảnh. Cuối cùng, bài dạy sự khôn ngoan: nhờ lãnh đạo có kinh nghiệm, cộng đồng tín hữu và sự cầu nguyện suy ngẫm, chúng ta áp dụng Lời Chúa cách đúng đắn cho đời mình.",
+   "title_en": "Modern Application for Individuals",
+   "title_vi": "Áp Dụng Hiện Đại Cho Từng Cá Nhân"
+  },
+  {
+   "course_slug": "giao-ly-dang-christ",
+   "key_terms": [
+    {
+     "en": "Redeemer",
+     "vi": "Đấng Cứu Chuộc"
+    },
+    {
+     "en": "covenant of redemption",
+     "vi": "giao ước cứu chuộc"
+    },
+    {
+     "en": "consummation",
+     "vi": "sự hoàn tất"
+    },
+    {
+     "en": "mediator",
+     "vi": "Đấng Trung Bảo"
+    },
+    {
+     "en": "Trinity",
+     "vi": "Ba Ngôi"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Vì sao nhân loại cần một Đấng Cứu Chuộc, và tội lỗi của A-đam gây hậu quả gì cho cả tạo vật?",
+    "Điều gì thúc đẩy Đức Chúa Trời cứu chuộc chúng ta, và vì sao chỉ Chúa Giê-xu mới có thể cứu chuộc nhân loại?",
+    "Sự cứu chuộc của Đấng Christ ảnh hưởng thế nào đến tạo vật, và chúng ta đáp lại sự cứu chuộc ấy ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "1tim:2"
+    ],
+    "catechism": [
+     21
+    ],
+    "encyclopedia": [
+     "su-cuu-roi",
+     "dang-trung-bao"
+    ]
+   },
+   "series_code": "JES",
+   "source": "https://nexus.thirdmill.org/series/JES",
+   "summary_vi": "Bài học trình bày Chúa Giê-xu là Đấng Cứu Chuộc, theo dòng thời gian gồm bốn giai đoạn: đời đời, sáng tạo, cứu chuộc và hoàn tất. Trong cõi đời đời, Chúa Giê-xu là Đức Chúa Trời, cùng Cha và Thánh Linh trong Ba Ngôi, và Hội Đồng đời đời đã định giao ước cứu chuộc. Trong sáng tạo, Đấng Christ dựng nên muôn vật, nhưng sự sa ngã của A-đam đem hậu quả cho cả nhân loại và tạo vật, cùng với lời hứa cứu chuộc. Trong cứu chuộc, tình yêu Đức Chúa Trời thúc đẩy Ngài ban giao ước ân điển; Chúa Giê-xu khai mở Vương quốc, vâng phục, sống lại và thăng thiên, làm Đấng Trung Bảo duy nhất. Trong hoàn tất, Ngài trở lại, kẻ chết sống lại, chịu phán xét, và tạo vật được đổi mới cho vinh hiển Đức Chúa Trời.",
+   "title_en": "The Redeemer",
+   "title_vi": "Đấng Cứu Chuộc"
+  },
+  {
+   "course_slug": "giao-ly-dang-christ",
+   "key_terms": [
+    {
+     "en": "Christ",
+     "vi": "Đấng Christ"
+    },
+    {
+     "en": "incarnation",
+     "vi": "sự nhập thể"
+    },
+    {
+     "en": "hypostatic union",
+     "vi": "sự hiệp nhất hai bản tính"
+    },
+    {
+     "en": "atonement",
+     "vi": "sự chuộc tội"
+    },
+    {
+     "en": "resurrection",
+     "vi": "sự phục sinh"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Vì sao Đấng Mê-si-a phải là dòng dõi Đa-vít, và sự nhập thể cho thấy điều gì về Chúa Giê-xu?",
+    "Chúa Giê-xu vừa hoàn toàn là Đức Chúa Trời vừa hoàn toàn là người có nghĩa gì, và vì sao Ngài phải không phạm tội mà vẫn bị cám dỗ như chúng ta?",
+    "Sự phục sinh và sự cầu thay của Đấng Christ đem lại phước hạnh nào cho tín hữu ngày nay?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:16"
+    ],
+    "catechism": [
+     22
+    ],
+    "encyclopedia": [
+     "su-nhap-the",
+     "than-tinh-cua-dang-christ"
+    ]
+   },
+   "series_code": "JES",
+   "source": "https://nexus.thirdmill.org/series/JES",
+   "summary_vi": "Bài học giải thích danh hiệu Đấng Christ, chỉ chức vụ của Chúa Giê-xu trong Vương quốc Đức Chúa Trời, rồi theo dõi đời sống Ngài. Phần giáng sinh và chuẩn bị trình bày sự nhập thể: Chúa Giê-xu sinh bởi nữ đồng trinh, là dòng dõi Đa-vít, vừa là Đức Chúa Trời vừa là người trong một ngôi vị; Ngài chịu báp-têm, được xức dầu cho chức vụ, và chịu cám dỗ mà không phạm tội. Phần chức vụ công khai cho thấy Ngài rao giảng Phúc Âm về Vương quốc, làm phép lạ, được Phi-e-rơ xưng nhận và biến hình. Phần thương khó gồm bữa Tiệc Thánh, sự chết đền tội trên thập tự giá, còn phần tôn cao gồm sự phục sinh, thăng thiên, Ngài cầu thay và cai trị, rồi trở lại phán xét và đổi mới muôn vật.",
+   "title_en": "The Christ",
+   "title_vi": "Đấng Christ"
+  },
+  {
+   "course_slug": "giao-ly-dang-christ",
+   "key_terms": [
+    {
+     "en": "prophet",
+     "vi": "tiên tri"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "revelation",
+     "vi": "sự mặc khải"
+    },
+    {
+     "en": "repentance",
+     "vi": "sự ăn năn"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Nhiệm vụ chính của các tiên tri trong Cựu Ước là gì, và vì sao có những lời tiên tri không ứng nghiệm như đã báo trước?",
+    "Chúa Giê-xu làm trọn các điều kiện của một tiên tri thật như thế nào, và Ngài có phải là Đấng Tiên Tri giống Môi-se không?",
+    "Chức vụ tiên tri của Chúa Giê-xu tiếp tục ra sao sau khi Ngài thăng thiên, và điều đó thay đổi cách chúng ta đọc Kinh Thánh thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "deb:18"
+    ],
+    "catechism": [
+     24
+    ],
+    "encyclopedia": [
+     "mac-khai",
+     "ngoi-loi"
+    ]
+   },
+   "series_code": "JES",
+   "source": "https://nexus.thirdmill.org/series/JES",
+   "summary_vi": "Bài học trình bày Chúa Giê-xu là Đấng Tiên Tri, sứ giả giao ước của Đức Chúa Trời. Phần nền tảng Cựu Ước mô tả tiên tri thật: được kêu gọi, nhận lời Chúa, trung thành và được xác chứng bằng sự ứng nghiệm; nhiệm vụ của họ là cảnh báo về phán xét và khích lệ vâng lời qua rao giảng. Phần ứng nghiệm cho thấy Chúa Giê-xu hội đủ các điều kiện ấy, giảng dạy là phương cách chính, làm nhiều phép lạ, là Đấng Tiên Tri giống Môi-se đã hứa, và nhân lên nhiều tiên tri thật nơi môn đồ. Phần áp dụng dạy rằng chức vụ tiên tri của Ngài tiếp tục sau khi thăng thiên, cả Kinh Thánh là lời của Đấng Christ cho Hội Thánh, và sứ điệp của Ngài tập trung vào sự ăn năn và Vương quốc Đức Chúa Trời.",
+   "title_en": "The Prophet",
+   "title_vi": "Đấng Tiên Tri"
+  },
+  {
+   "course_slug": "giao-ly-dang-christ",
+   "key_terms": [
+    {
+     "en": "priest",
+     "vi": "thầy tế lễ"
+    },
+    {
+     "en": "atonement",
+     "vi": "sự chuộc tội"
+    },
+    {
+     "en": "intercession",
+     "vi": "sự cầu thay"
+    },
+    {
+     "en": "high priest",
+     "vi": "thầy tế lễ thượng phẩm"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Chúa Giê-xu đủ điều kiện làm thầy tế lễ như thế nào dù Ngài không thuộc dòng A-rôn và không dâng lễ trong đền thờ?",
+    "Sự chết của Chúa Giê-xu liên quan thế nào đến các của lễ Cựu Ước, và vì sao sau thập tự giá không còn cần của lễ nào nữa?",
+    "Nếu Chúa Giê-xu đã cầu thay cho chúng ta, vì sao chúng ta vẫn cần cầu nguyện, và tín hữu phục vụ như một vương quốc thầy tế lễ ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "heb:4"
+    ],
+    "catechism": [
+     25
+    ],
+    "encyclopedia": [
+     "su-chuoc-toi",
+     "cua-le"
+    ]
+   },
+   "series_code": "JES",
+   "source": "https://nexus.thirdmill.org/series/JES",
+   "summary_vi": "Bài học trình bày Chúa Giê-xu là Thầy Tế Lễ, Đấng đã làm trọn chức vụ ấy và cho tín hữu dự phần ngày nay. Phần nền tảng Cựu Ước mô tả thầy tế lễ: được bổ nhiệm, trung thành, lãnh đạo, dâng của lễ và cầu thay; các của lễ bày tỏ lòng thương xót của Đức Chúa Trời, và Mên-chi-xê-đéc cùng A-rôn báo trước một thầy tế lễ đặc biệt. Phần ứng nghiệm cho thấy Chúa Giê-xu đủ điều kiện dù không thuộc dòng A-rôn, vì sự chết của Ngài trên thập tự giá là của lễ lớn nhất, làm các của lễ trước có hiệu lực, và Ngài cầu thay cho chúng ta. Phần áp dụng dạy tín hữu dâng mình làm của lễ sống, sống hòa thuận, cầu nguyện trong sự tin cậy, và phục vụ như một vương quốc thầy tế lễ.",
+   "title_en": "The Priest",
+   "title_vi": "Thầy Tế Lễ"
+  },
+  {
+   "course_slug": "giao-ly-dang-christ",
+   "key_terms": [
+    {
+     "en": "king",
+     "vi": "vua"
+    },
+    {
+     "en": "kingdom",
+     "vi": "Vương quốc (Đức Chúa Trời)"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "Great Commission",
+     "vi": "Đại mạng lệnh"
+    }
+   ],
+   "lesson_no": 5,
+   "questions_vi": [
+    "Vương quốc Đức Chúa Trời là gì, và vì sao chúng ta nói Vương quốc đã đến nhưng chưa trọn vẹn?",
+    "Chúa Giê-xu hội đủ các điều kiện của một vị vua theo Cựu Ước ra sao, và Ngài thi hành công bình, thương xót và thành tín thế nào?",
+    "Mối quan hệ giữa Vương quốc và Hội Thánh là gì, và chức vụ Vua của Đấng Christ ảnh hưởng thế nào đến đời sống và công việc hằng ngày của chúng ta?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:28"
+    ],
+    "catechism": [
+     26
+    ],
+    "encyclopedia": [
+     "nuoc-duc-chua-troi",
+     "dai-mang-lenh"
+    ]
+   },
+   "series_code": "JES",
+   "source": "https://nexus.thirdmill.org/series/JES",
+   "summary_vi": "Bài học trình bày Chúa Giê-xu là Vua và Vương quốc Đức Chúa Trời. Phần nền tảng Cựu Ước xét các điều kiện của vua theo Phục Truyền 17, giao ước với Đa-vít, và ý định luôn có một vua từ chi phái Giu-đa; vua phải bảo đảm công bình, thương xót và thành tín, và các tiên tri hứa một vua đời đời từ dòng Đa-vít. Phần ứng nghiệm cho thấy Ngài hội đủ điều kiện: được chọn, là người Y-sơ-ra-ên, vâng phục trọn vẹn và là con cháu Đa-vít; Ngài thi hành công bình, thương xót và thành tín, và Vương quốc Ngài nay thuộc linh, sẽ trở nên hữu hình khi Ngài trở lại. Phần áp dụng dạy Hội Thánh xây dựng Vương quốc qua Đại mạng lệnh, sống dưới sự cai trị và bảo vệ của Vua, trông đợi Ngài chiến thắng mọi kẻ thù.",
+   "title_en": "The King",
+   "title_vi": "Vua"
+  },
+  {
+   "course_slug": "giao-ly-dang-christ",
+   "key_terms": [
+    {
+     "en": "Trinity",
+     "vi": "Ba Ngôi"
+    },
+    {
+     "en": "essence",
+     "vi": "bản thể"
+    },
+    {
+     "en": "person",
+     "vi": "ngôi vị"
+    },
+    {
+     "en": "simplicity",
+     "vi": "sự đơn nhất"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Khi nói Đức Chúa Trời là ba ngôi vị trong một bản thể, chúng ta muốn nói điều gì, và tính đơn nhất của Đức Chúa Trời giúp hiểu điều này ra sao?",
+    "Những đoạn Kinh Thánh và công thức Ba Ngôi nào trong Tân Ước bày tỏ sự bình đẳng của Thánh Linh với Cha và Con?",
+    "Vì sao có người cho rằng Cơ Đốc nhân thờ ba thần, và sự ba ngôi của Đức Chúa Trời không vi phạm tính đơn nhất của Ngài như thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:28"
+    ],
+    "catechism": [
+     5,
+     6
+    ],
+    "encyclopedia": [
+     "ba-ngoi"
+    ]
+   },
+   "series_code": "TRI",
+   "source": "https://nexus.thirdmill.org/series/TRI",
+   "summary_vi": "Bài học mở đầu giới thiệu giáo lý Ba Ngôi: chỉ có một Đức Chúa Trời, hiện hữu đời đời trong ba ngôi vị là Cha, Con và Thánh Linh, mỗi ngôi vị đều hoàn toàn bình đẳng về quyền năng và vinh hiển. Bài học gồm ba phần. Về sự duy nhất, Đức Chúa Trời là một, không hợp thành hay chia cắt; tính đơn nhất của Ngài giúp chúng ta bắt đầu hiểu giáo lý phức tạp này. Về sự ba ngôi, mỗi ngôi vị là một cá vị tự ý thức; các công thức Ba Ngôi trong Tân Ước bày tỏ sự bình đẳng của Thánh Linh với Cha và Con. Về sự bình đẳng, Đấng Christ không phải thọ tạo mà hằng hữu. Bài học đặt nền tảng cho cả loạt bài, bổ sung cho loạt bài về Đức Chúa Trời.",
+   "title_en": "Introduction to the Trinity",
+   "title_vi": "Giới Thiệu về Ba Ngôi"
+  },
+  {
+   "course_slug": "giao-ly-dang-christ",
+   "key_terms": [
+    {
+     "en": "unity",
+     "vi": "sự hiệp nhất"
+    },
+    {
+     "en": "divinity",
+     "vi": "thần tính"
+    },
+    {
+     "en": "Holy Spirit",
+     "vi": "Đức Thánh Linh"
+    },
+    {
+     "en": "essence",
+     "vi": "bản thể"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Vì sao giáo lý Ba Ngôi được bày tỏ rõ ràng hơn trong Tân Ước so với Cựu Ước, và hai giao ước dạy nhất quán về sự hiệp nhất này ra sao?",
+    "Hình ảnh sư tử và chiên con trong Khải Huyền 5 cùng Giăng 1:1 chứng tỏ Con là Đức Chúa Trời như thế nào?",
+    "Làm thế nào chứng minh thần tính và cá vị của Đức Thánh Linh từ Kinh Thánh và từ công việc của Ngài?"
+   ],
+   "reading": {
+    "bible": [
+     "joh:1"
+    ],
+    "catechism": [
+     6
+    ],
+    "encyclopedia": [
+     "duc-thanh-linh",
+     "con-duc-chua-troi"
+    ]
+   },
+   "series_code": "TRI",
+   "source": "https://nexus.thirdmill.org/series/TRI",
+   "summary_vi": "Bài học trình bày sự hiệp nhất của Ba Ngôi: cả ba ngôi vị đều hiệp nhất trong một bản thể duy nhất. Phần Đức Chúa Cha giải thích vì sao Ba Ngôi được bày tỏ rõ hơn trong Tân Ước, và sự khích lệ khi gọi Đức Chúa Trời là Cha, thuộc về gia đình Ngài. Phần Đức Chúa Con cho thấy hình ảnh sư tử và chiên con trong Khải Huyền 5 chứng tỏ Con là ngôi vị thần linh bình đẳng với Cha; Giăng 1:1 dạy Chúa Giê-xu là Đức Chúa Trời, và con người Giê-xu cũng phải là Đức Chúa Trời mới cứu được chúng ta. Phần Đức Thánh Linh chứng minh thần tính Ngài từ Kinh Thánh, qua công việc và cá vị của Ngài. Bài học nhấn mạnh Cựu Ước và Tân Ước dạy nhất quán về sự hiệp nhất này.",
+   "title_en": "The Unity of the Trinity",
+   "title_vi": "Sự Hiệp Nhất của Ba Ngôi"
+  },
+  {
+   "course_slug": "giao-ly-dang-christ",
+   "key_terms": [
+    {
+     "en": "ontological Trinity",
+     "vi": "Ba Ngôi trong bản thể"
+    },
+    {
+     "en": "economic Trinity",
+     "vi": "Ba Ngôi trong công tác"
+    },
+    {
+     "en": "procession",
+     "vi": "sự phát xuất"
+    },
+    {
+     "en": "roles",
+     "vi": "vai trò"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Nếu Cha có thẩm quyền trên Con và Thánh Linh, điều gì xảy ra nếu các ngôi vị bất đồng, và 'Con được sinh ra đời đời' có nghĩa gì?",
+    "Ba Ngôi trong bản thể và Ba Ngôi trong công tác khác nhau thế nào, và vì sao cần phân biệt hai khía cạnh này?",
+    "Việc Thánh Linh là một ngôi vị riêng biệt với Cha và Con có ý nghĩa thực tế gì cho đời sống hằng ngày của chúng ta?"
+   ],
+   "reading": {
+    "bible": [
+     "joh:15"
+    ],
+    "catechism": [
+     6
+    ],
+    "encyclopedia": [
+     "ba-ngoi",
+     "duc-thanh-linh"
+    ]
+   },
+   "series_code": "TRI",
+   "source": "https://nexus.thirdmill.org/series/TRI",
+   "summary_vi": "Bài học trình bày sự đa dạng của Ba Ngôi: từng ngôi vị có thuộc tính và trách nhiệm riêng trong Ba Ngôi. Phần mối quan hệ xét thẩm quyền của Cha trên Con và Thánh Linh, ý nghĩa Con được sinh ra đời đời từ Cha, và lời Chúa Giê-xu là Con Đức Chúa Trời đem lại khích lệ vì Ngài là anh em chúng ta; bài học cũng nhắc đến điều các công đồng đầu tiên khẳng định về sự phát xuất đời đời của Thánh Linh. Phần vai trò phân biệt Ba Ngôi trong bản thể và Ba Ngôi trong công tác, giải thích vì sao cần phân biệt hai khía cạnh này và mối quan hệ giữa chúng. Bài học kêu gọi áp dụng vào đời sống, để vui hưởng mối tương giao với từng ngôi vị trong Ba Ngôi.",
+   "title_en": "The Diversity of the Trinity",
+   "title_vi": "Sự Đa Dạng của Ba Ngôi"
+  },
+  {
+   "course_slug": "giao-ly-duc-chua-troi",
+   "key_terms": [
+    {
+     "en": "systematic theology",
+     "vi": "thần học hệ thống"
+    },
+    {
+     "en": "sola Scriptura",
+     "vi": "duy Kinh Thánh"
+    },
+    {
+     "en": "orthodoxy",
+     "vi": "đức tin chân chính"
+    },
+    {
+     "en": "scholasticism",
+     "vi": "chủ nghĩa kinh viện"
+    },
+    {
+     "en": "exegesis",
+     "vi": "giải kinh"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Thần học hệ thống khác với thần học Tân Ước ở những điểm nào, và vì sao cả hai đều cần thiết?",
+    "Ba đặc điểm — dựa trên Kinh Thánh, hợp lý và gắn với truyền thống — bảo vệ thần học hệ thống khỏi những nguy cơ nào?",
+    "Thần học hệ thống có thể giúp ích và cũng có thể gây hại cho đời sống Cơ Đốc, cộng đồng và giải kinh ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "2tim:3"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "le-that",
+     "than-hoc-cai-chanh"
+    ]
+   },
+   "series_code": "BST",
+   "source": "https://nexus.thirdmill.org/series/BST",
+   "summary_vi": "Bài học mở đầu giải thích thần học hệ thống là gì và vì sao việc sắp xếp thần học có hệ thống giúp Cơ Đốc nhân phục vụ Đấng Christ tốt hơn. Theo Berkhof, đó là việc trình bày có hệ thống mọi chân lý giáo lý của đạo Cơ Đốc, với ba đặc điểm: dựa trên Kinh Thánh, hợp lý và gắn với truyền thống. Bài học đối chiếu với thần học Tân Ước, đa dạng và mang tính mục vụ, tổ chức quanh Vương quốc Đức Chúa Trời trong Đấng Christ. Bài học lược qua lịch sử từ thời các giáo phụ, qua thời trung cổ với chủ nghĩa kinh viện, đến thời Cải Chánh với Calvin và các tín điều. Cuối cùng, bài học đánh giá giá trị và nguy cơ của nó qua đời sống Cơ Đốc, tương tác trong cộng đồng và giải kinh.",
+   "title_en": "What Is Systematic Theology?",
+   "title_vi": "Thần Học Hệ Thống Là Gì?"
+  },
+  {
+   "course_slug": "giao-ly-duc-chua-troi",
+   "key_terms": [
+    {
+     "en": "technical term",
+     "vi": "thuật ngữ chuyên môn"
+    },
+    {
+     "en": "regeneration",
+     "vi": "sự tái sinh"
+    },
+    {
+     "en": "justification",
+     "vi": "sự xưng công chính"
+    },
+    {
+     "en": "Trinity",
+     "vi": "Ba Ngôi"
+    },
+    {
+     "en": "Chalcedon",
+     "vi": "Công đồng Chalcedon"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Vì sao từ ngữ và khái niệm không tương ứng một-một, và điều này gây khó khăn gì khi chúng ta dùng thuật ngữ thần học?",
+    "Thuật ngữ thần học có thể được hình thành từ Kinh Thánh và từ ngôn ngữ ngoài Kinh Thánh bằng những cách nào? Hãy nêu ví dụ.",
+    "Khi nào thuật ngữ chuyên môn giúp ích cho đời sống Cơ Đốc và giải kinh, và khi nào nó trở thành trở ngại?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:3"
+    ],
+    "catechism": [
+     33
+    ],
+    "encyclopedia": [
+     "su-cong-chinh",
+     "ba-ngoi"
+    ]
+   },
+   "series_code": "BST",
+   "source": "https://nexus.thirdmill.org/series/BST",
+   "summary_vi": "Bài học giải thích vai trò của thuật ngữ chuyên môn trong thần học: chúng là công cụ, chứ không phải mục đích. Thuật ngữ chuyên môn là những từ ngữ mang ý nghĩa chuyên biệt trong thần học; từ ngữ và khái niệm không tương ứng một-một với nhau, trong ngôn ngữ thường ngày lẫn trong Kinh Thánh. Chúng cần thiết để diễn đạt chính xác những chủ đề phức tạp, chẳng hạn về sự chết của Đấng Christ. Bài học trình bày cách thuật ngữ được tạo ra từ Kinh Thánh và từ ngôn ngữ ngoài Kinh Thánh, kể cả các từ của Công đồng Chalcedon hay từ 'Ba Ngôi' vốn không có trong Kinh Thánh. Cuối cùng là giá trị và nguy cơ của chúng qua đời sống Cơ Đốc, cộng đồng và giải kinh.",
+   "title_en": "Technical Terms in Systematics",
+   "title_vi": "Thuật Ngữ Chuyên Môn trong Thần Học Hệ Thống"
+  },
+  {
+   "course_slug": "giao-ly-duc-chua-troi",
+   "key_terms": [
+    {
+     "en": "proposition",
+     "vi": "mệnh đề"
+    },
+    {
+     "en": "theological claim",
+     "vi": "khẳng định thần học"
+    },
+    {
+     "en": "via negativa",
+     "vi": "con đường phủ định"
+    },
+    {
+     "en": "relativism",
+     "vi": "thuyết tương đối"
+    },
+    {
+     "en": "factual collation",
+     "vi": "sự thu thập các sự thật"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Mệnh đề thần học là gì, và bốn đặc điểm của nó giúp chúng ta phân biệt mệnh đề với những câu nói khác như thế nào?",
+    "Vì sao một số người ngày nay nghi ngờ chân lý mệnh đề, và gương của Chúa Giê-xu trả lời cho sự nghi ngờ ấy ra sao?",
+    "Việc Kinh Thánh đa dạng về thể loại và không sắp xếp như sách giáo khoa gây khó khăn gì khi chúng ta rút ra mệnh đề thần học từ Kinh Thánh?"
+   ],
+   "reading": {
+    "bible": [
+     "isa:55"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "le-that",
+     "su-sang-to-cua-kinh-thanh"
+    ]
+   },
+   "series_code": "BST",
+   "source": "https://nexus.thirdmill.org/series/BST",
+   "summary_vi": "Bài học trình bày mệnh đề thần học: câu trần thuật khẳng định trực tiếp điều đúng về Đức Chúa Trời và công việc của Ngài. Mệnh đề có bốn đặc điểm: trần thuật, nêu sự thật, thuộc về thần học và trực tiếp, cùng các phân biệt như phổ quát và riêng biệt. Bài học đối diện với những thách thức như con đường phủ định, sự nghi ngờ chân lý mệnh đề và thuyết tương đối; Chúa Giê-xu đã kiểm chứng các khẳng định thần học bằng Kinh Thánh. Bài học giải thích cách rút gọn các đoạn Kinh Thánh thành những khẳng định sự thật và thu thập chúng lại, dù Kinh Thánh đa dạng thể loại và không sắp xếp như sách giáo khoa. Cuối cùng là giá trị và nguy cơ của mệnh đề qua đời sống Cơ Đốc, cộng đồng và giải kinh.",
+   "title_en": "Propositions in Systematics",
+   "title_vi": "Mệnh Đề trong Thần Học Hệ Thống"
+  },
+  {
+   "course_slug": "giao-ly-duc-chua-troi",
+   "key_terms": [
+    {
+     "en": "doctrine",
+     "vi": "giáo lý"
+    },
+    {
+     "en": "soteriology",
+     "vi": "thần học về sự cứu rỗi"
+    },
+    {
+     "en": "eschatology",
+     "vi": "thần học về thời cuối cùng"
+    },
+    {
+     "en": "deduction",
+     "vi": "suy luận diễn dịch"
+    },
+    {
+     "en": "induction",
+     "vi": "suy luận quy nạp"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Giáo lý là gì, và sáu lĩnh vực truyền thống của thần học hệ thống giúp chúng ta tổ chức các giáo lý như thế nào?",
+    "Chúa Giê-xu và Phao-lô đã làm thần học hệ thống ra sao, và điều đó nói gì về tính chính đáng của việc xây dựng giáo lý?",
+    "'Hình nón chắc chắn' xếp các giáo lý theo mức độ chắc chắn như thế nào, và vì sao các giáo lý về thời cuối cùng lại ở mức chắc chắn thấp hơn?"
+   ],
+   "reading": {
+    "bible": [
+     "luk:24"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "hoi-thanh",
+     "su-cuu-roi"
+    ]
+   },
+   "series_code": "BST",
+   "source": "https://nexus.thirdmill.org/series/BST",
+   "summary_vi": "Bài học trình bày giáo lý: sự tổng hợp các mệnh đề thần học về một chủ đề. Có sáu lĩnh vực: Đức Chúa Trời, con người, sự cứu rỗi, Hội Thánh, thời cuối cùng và Kinh Thánh. Chúa Giê-xu và Phao-lô đều đã làm thần học hệ thống; giáo lý xây dựng chân lý và gây dựng Hội Thánh, và mục tiêu tiêu cực là bác bỏ sai lầm, bảo vệ Hội Thánh. Bài học trình bày cách xây dựng giáo lý từ Kinh Thánh, qua ví dụ Berkhof chống thuyết hoàn hảo, rồi củng cố bằng suy luận diễn dịch và quy nạp, kể cả 'hình nón chắc chắn' xếp giáo lý theo mức độ chắc chắn. Cuối cùng là giá trị và nguy cơ của giáo lý với đời sống, cộng đồng và giải kinh.",
+   "title_en": "Doctrines in Systematics",
+   "title_vi": "Giáo Lý trong Thần Học Hệ Thống"
+  },
+  {
+   "course_slug": "giao-ly-duc-chua-troi",
+   "key_terms": [
+    {
+     "en": "revelation",
+     "vi": "mặc khải"
+    },
+    {
+     "en": "mystery",
+     "vi": "mầu nhiệm"
+    },
+    {
+     "en": "attribute",
+     "vi": "thuộc tính"
+    },
+    {
+     "en": "incommunicable attributes",
+     "vi": "thuộc tính không thể truyền đạt"
+    },
+    {
+     "en": "communicable attributes",
+     "vi": "thuộc tính có thể truyền đạt"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Mặc khải chung và mặc khải đặc biệt khác nhau như thế nào, và vì sao mặc khải chung không chỉ cho chúng ta con đường cứu rỗi?",
+    "Mầu nhiệm tạm thời và mầu nhiệm vĩnh viễn khác nhau ra sao, và chúng dạy chúng ta điều gì về giới hạn của sự hiểu biết?",
+    "Vì sao việc phân biệt thuộc tính không thể truyền đạt và thuộc tính có thể truyền đạt lại quan trọng cho đời sống thờ phượng và noi theo Đức Chúa Trời?"
+   ],
+   "reading": {
+    "bible": [
+     "psa:19"
+    ],
+    "catechism": [
+     4
+    ],
+    "encyclopedia": [
+     "duc-chua-troi",
+     "mac-khai"
+    ]
+   },
+   "series_code": "GOD",
+   "source": "https://nexus.thirdmill.org/series/GOD",
+   "summary_vi": "Bài học mở đầu giáo lý về Đức Chúa Trời, trình bày hai cặp vấn đề nền tảng: mặc khải và mầu nhiệm, thuộc tính và công việc. Đức Chúa Trời tự tỏ mình bằng ngôn ngữ loài người, qua mặc khải chung trong tạo vật và mặc khải đặc biệt trong Kinh Thánh và Đấng Christ. Có những mầu nhiệm tạm thời được giấu rồi tỏ ra trong Đấng Christ, và những mầu nhiệm vĩnh viễn vượt quá trí hiểu của chúng ta, như Ba Ngôi và chủ quyền của Đức Chúa Trời cùng trách nhiệm con người. Bài học phân biệt thuộc tính không thể truyền đạt, chỉ thuộc về Đức Chúa Trời, với thuộc tính có thể truyền đạt mà con người, dựng nên theo hình ảnh Ngài, cũng chia sẻ phần nào. Cuối cùng là công việc của Ngài: sáng tạo và gìn giữ muôn vật.",
+   "title_en": "What We Know About God",
+   "title_vi": "Điều Chúng Ta Biết Về Đức Chúa Trời"
+  },
+  {
+   "course_slug": "giao-ly-duc-chua-troi",
+   "key_terms": [
+    {
+     "en": "incommunicable attributes",
+     "vi": "thuộc tính không thể truyền đạt"
+    },
+    {
+     "en": "aseity",
+     "vi": "sự tự hữu"
+    },
+    {
+     "en": "immutability",
+     "vi": "sự không thay đổi"
+    },
+    {
+     "en": "omnipotence",
+     "vi": "sự toàn năng"
+    },
+    {
+     "en": "divine simplicity",
+     "vi": "sự đơn giản của Đức Chúa Trời"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Vì sao Kinh Thánh vừa nhấn mạnh Đức Chúa Trời siêu việt trên tạo vật, vừa nhấn mạnh Ngài gần gũi và tham dự vào tạo vật?",
+    "Sự đơn giản của Đức Chúa Trời dạy chúng ta điều gì về mối liên hệ giữa các thuộc tính của Ngài, chẳng hạn tình yêu và sự công chính?",
+    "Việc Đức Chúa Trời không thay đổi nhưng vẫn đáp lời cầu nguyện giúp chúng ta hiểu lời cầu nguyện như thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "psa:139"
+    ],
+    "catechism": [
+     4
+    ],
+    "encyclopedia": [
+     "duc-chua-troi",
+     "su-te-tri"
+    ]
+   },
+   "series_code": "GOD",
+   "source": "https://nexus.thirdmill.org/series/GOD",
+   "summary_vi": "Bài học trình bày các thuộc tính không thể truyền đạt của Đức Chúa Trời, những điều khiến Ngài hoàn toàn khác biệt với tạo vật. Phần nhận diện cho thấy Bản Tín Điều Augsburg, Bản Tín Điều Bỉ và Tín Lý Yếu Lược Westminster đều mô tả chúng giống nhau về thực chất, giữ cân bằng giữa sự siêu việt và sự hiện diện gần gũi của Ngài. Bài học điểm qua các thuộc tính: Ngài là Thần Linh, đơn giản, toàn tri, tự hữu, vô hạn, đời đời, không thay đổi, hiện diện khắp nơi, toàn năng và có chủ quyền, và tình yêu Ngài tỏ rõ nhất nơi thập tự giá. Phần tổng hợp nhấn mạnh chúng là một bản thể duy nhất, không phải những phần rời rạc: hiện hữu, khôn ngoan, quyền năng, thánh khiết, công chính, nhân từ và chân thật.",
+   "title_en": "How God Is Different",
+   "title_vi": "Đức Chúa Trời Khác Biệt Như Thế Nào"
+  },
+  {
+   "course_slug": "giao-ly-duc-chua-troi",
+   "key_terms": [
+    {
+     "en": "communicable attributes",
+     "vi": "thuộc tính có thể truyền đạt"
+    },
+    {
+     "en": "image of God",
+     "vi": "hình ảnh của Đức Chúa Trời"
+    },
+    {
+     "en": "wisdom",
+     "vi": "sự khôn ngoan"
+    },
+    {
+     "en": "goodness",
+     "vi": "sự nhân từ"
+    },
+    {
+     "en": "imitation of God",
+     "vi": "sự noi theo Đức Chúa Trời"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Ba cách nhận biết Đức Chúa Trời qua tạo vật — phủ định, nguyên nhân và vượt trội — giúp chúng ta hiểu Ngài như thế nào mà không lẫn Ngài với tạo vật?",
+    "Việc con người được dựng nên theo hình ảnh Đức Chúa Trời về trí tuệ, ý chí và đạo đức nói gì về giá trị của con người?",
+    "Kinh Thánh kêu gọi chúng ta noi theo các thuộc tính có thể truyền đạt của Đức Chúa Trời ra sao trong đời sống hằng ngày?"
+   ],
+   "reading": {
+    "bible": [
+     "gen:1"
+    ],
+    "catechism": [
+     10
+    ],
+    "encyclopedia": [
+     "duc-chua-troi",
+     "su-thanh-khiet"
+    ]
+   },
+   "series_code": "GOD",
+   "source": "https://nexus.thirdmill.org/series/GOD",
+   "summary_vi": "Bài học trình bày các thuộc tính có thể truyền đạt của Đức Chúa Trời, những sự hoàn hảo của Ngài mà tạo vật, đặc biệt con người, cũng chia sẻ phần nào. Bài học giới thiệu ba cách các nhà thần học trung cổ nhận biết Ngài qua tạo vật: phủ định, nguyên nhân và vượt trội. Con người được dựng nên theo hình ảnh Ngài về trí tuệ, ý chí và đạo đức, tương ứng với sự khôn ngoan, quyền năng và nhân từ của Ngài. Các tín điều chia chúng thành ba nhóm: trí tuệ, ý chí và đạo đức. Cuối cùng, bài học rút ra hai hàm ý: Ngài luôn quyền năng, nhân từ và yêu thương, và Kinh Thánh kêu gọi tín hữu noi theo các thuộc tính ấy mà lớn lên giống Ngài.",
+   "title_en": "How God Is Like Us",
+   "title_vi": "Đức Chúa Trời Giống Chúng Ta Như Thế Nào"
+  },
+  {
+   "course_slug": "giao-ly-duc-chua-troi",
+   "key_terms": [
+    {
+     "en": "providence",
+     "vi": "sự quan phòng"
+    },
+    {
+     "en": "decree",
+     "vi": "sắc lệnh"
+    },
+    {
+     "en": "foreknowledge",
+     "vi": "sự biết trước"
+    },
+    {
+     "en": "creation ex nihilo",
+     "vi": "sự sáng tạo từ hư vô"
+    },
+    {
+     "en": "second causes",
+     "vi": "nguyên nhân thứ yếu"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Ý muốn truyền lệnh và ý muốn định đoạt của Đức Chúa Trời khác nhau như thế nào, và sự phân biệt này giúp chúng ta hiểu điều gì?",
+    "Vì sao quan điểm trung dung — chương trình đời đời không thất bại kết hợp với sự tương tác qua các chương trình lịch sử — lại quan trọng hơn hai quan điểm cực đoan?",
+    "Sự quan phòng của Đức Chúa Trời qua các nguyên nhân thứ yếu giúp chúng ta đối diện với sự dữ và đau khổ ra sao, khi biết Ngài không phải là tác giả của điều ác?"
+   ],
+   "reading": {
+    "bible": [
+     "eph:1"
+    ],
+    "catechism": [
+     7
+    ],
+    "encyclopedia": [
+     "su-quan-phong",
+     "su-tien-dinh"
+    ]
+   },
+   "series_code": "GOD",
+   "source": "https://nexus.thirdmill.org/series/GOD",
+   "summary_vi": "Bài học trình bày chương trình và công việc của Đức Chúa Trời. Bài học giữ cân bằng giữa sự hiện diện gần gũi của Ngài — Ngài hạ mình tham dự vào tạo vật, và ý muốn truyền lệnh của Ngài có thể bị bất tuân — với sự siêu việt của Ngài: chương trình đời đời không thay đổi, ý muốn định đoạt không thể bị phá hỏng. Bài học đối chiếu thuyết định mệnh và thuyết thần học mở với quan điểm trung dung: Đức Chúa Trời có chương trình đời đời không hề thất bại, đồng thời tương tác qua những chương trình lịch sử có giới hạn. Về công việc, bài học trình bày sự sáng tạo từ hư vô và sự quan phòng: Ngài dùng các nguyên nhân thứ yếu, và không phải là tác giả của điều ác.",
+   "title_en": "God's Plan and Works",
+   "title_vi": "Chương Trình và Công Việc của Đức Chúa Trời"
+  },
+  {
+   "course_slug": "giao-ly-duc-thanh-linh",
+   "key_terms": [
+    {
+     "en": "biblical theology",
+     "vi": "thần học Kinh Thánh"
+    },
+    {
+     "en": "systematic theology",
+     "vi": "thần học hệ thống"
+    },
+    {
+     "en": "revelation",
+     "vi": "sự mặc khải"
+    },
+    {
+     "en": "kingdom of God",
+     "vi": "Vương quốc (Đức Chúa Trời)"
+    },
+    {
+     "en": "redemptive history",
+     "vi": "lịch sử cứu chuộc"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Thần học Kinh Thánh theo nghĩa hẹp khác với thần học hệ thống như thế nào, và vì sao nó tập trung vào phân tích lịch sử?",
+    "Bài diễn văn năm 1787 của Gabler và quan điểm của Vos đã định hình thần học Kinh Thánh ra sao?",
+    "Mặc khải bằng hành động khác mặc khải bằng lời ở điểm nào, và vì sao cả hai đều cần thiết?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:11"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "mac-khai",
+     "nuoc-duc-chua-troi"
+    ]
+   },
+   "series_code": "BBT",
+   "source": "https://nexus.thirdmill.org/series/BBT",
+   "summary_vi": "Bài học giới thiệu thần học Kinh Thánh: nó là gì và đã phát triển ra sao trong lịch sử. Phần định hướng phân biệt nghĩa rộng và nghĩa hẹp, đưa ra định nghĩa, và chỉ ra ba khía cạnh của giải kinh — lịch sử, văn học và chủ đề — trong đó thần học Kinh Thánh tập trung vào phân tích lịch sử. Phần lịch sử theo dõi sự ra đời của môn học từ bối cảnh Khai sáng, quan điểm lịch sử của Hegel, bài diễn văn năm 1787 của Gabler, và các thần học gia như Wright, Hodge, Warfield và Vos, với Vương quốc Đức Chúa Trời là trọng tâm chung. Phần mặc khải phân biệt mặc khải bằng hành động và bằng lời, rồi phác họa các đường nét: mục tiêu, những lúc lên xuống, và tính hữu cơ của lịch sử mặc khải.",
+   "title_en": "What Is Biblical Theology?",
+   "title_vi": "Thần Học Kinh Thánh Là Gì?"
+  },
+  {
+   "course_slug": "giao-ly-duc-thanh-linh",
+   "key_terms": [
+    {
+     "en": "synchronic",
+     "vi": "đồng thời"
+    },
+    {
+     "en": "synthesis",
+     "vi": "tổng hợp"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "kingdom of God",
+     "vi": "Vương quốc (Đức Chúa Trời)"
+    },
+    {
+     "en": "narrative",
+     "vi": "tường thuật"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Tổng hợp đồng thời là gì, và Rô-ma 5:12–14 minh họa phương pháp này như thế nào?",
+    "Vì sao cần cẩn trọng khi rút thông tin lịch sử từ thơ ca và tường thuật Cựu Ước?",
+    "Giao ước và Vương quốc Đức Chúa Trời đóng vai trò gì trong các cấu trúc tổng hợp của một thời kỳ?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:5"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "giao-uoc",
+     "cuu-uoc"
+    ]
+   },
+   "series_code": "BBT",
+   "source": "https://nexus.thirdmill.org/series/BBT",
+   "summary_vi": "Bài học dạy cách nghiên cứu thần học của một thời kỳ trong lịch sử Cựu Ước như một tổng thể gắn kết, gọi là tổng hợp đồng thời. Phần định hướng giải thích hai thuật ngữ đồng thời và tổng hợp, đáp lại quan điểm cho rằng Cựu Ước thiếu tính logic, và dùng Rô-ma 5:12–14 làm ví dụ. Phần thông tin lịch sử cảnh báo cần cẩn trọng khi rút thông tin từ Cựu Ước, vì các tác giả dùng quy ước văn học khác với sử học hiện đại: thơ ca với hai thế giới và ẩn dụ, tường thuật với các chuẩn mực khác về tính toàn diện, chính xác và khách quan. Phần cấu trúc tổng hợp trình bày ba cấp độ: cơ bản, trung cấp như các giao ước, và phức tạp là Vương quốc Đức Chúa Trời.",
+   "title_en": "Synchronic Synthesis of the Old Testament",
+   "title_vi": "Tổng Hợp Đồng Thời Cựu Ước"
+  },
+  {
+   "course_slug": "giao-ly-duc-thanh-linh",
+   "key_terms": [
+    {
+     "en": "diachronic",
+     "vi": "xuyên thời gian"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "typology",
+     "vi": "phép loại hình"
+    },
+    {
+     "en": "providence",
+     "vi": "sự quan phòng"
+    },
+    {
+     "en": "kingdom of God",
+     "vi": "Vương quốc (Đức Chúa Trời)"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Phân tích xuyên thời gian khác với phân tích đồng thời như thế nào, và vì sao hai phương pháp cần nhau?",
+    "Sáu giao ước chính chia Cựu Ước thành những thời đại nào, và ba khía cạnh chung của mọi giao ước là gì?",
+    "Phép loại hình là gì, và làm sao phân biệt nó với phép ẩn dụ khi nhận biết một hình bóng trong Cựu Ước?"
+   ],
+   "reading": {
+    "bible": [
+     "mat:19"
+    ],
+    "catechism": [
+     7
+    ],
+    "encyclopedia": [
+     "giao-uoc",
+     "than-hoc-giao-uoc"
+    ]
+   },
+   "series_code": "BBT",
+   "source": "https://nexus.thirdmill.org/series/BBT",
+   "summary_vi": "Bài học dạy cách theo dõi thần học phát triển xuyên thời gian trong Cựu Ước, gọi là phân tích xuyên thời gian, đối chiếu với phương pháp đồng thời và cho thấy hai cách tiếp cận cần nhau. Phần định hướng giải thích sự phát triển đến từ mục đích và quan phòng của Đức Chúa Trời, dùng Ma-thi-ơ 19:3–9 về ly dị làm ví dụ, vì Đức Chúa Trời không đổi ý. Phần phát triển theo thời đại chia Cựu Ước thành các giao ước phổ quát, dân tộc và giao ước mới, với ba khía cạnh chung là nhân từ, trung thành và hậu quả. Phần phát triển theo chủ đề trình bày phép loại hình — định nghĩa, đặc điểm và cách nhận biết — qua hình bóng A-đam và trận lụt.",
+   "title_en": "Diachronic Developments in the Old Testament",
+   "title_vi": "Phát Triển Xuyên Thời Gian trong Cựu Ước"
+  },
+  {
+   "course_slug": "giao-ly-duc-thanh-linh",
+   "key_terms": [
+    {
+     "en": "eschatology",
+     "vi": "cánh chung học"
+    },
+    {
+     "en": "kingdom of God",
+     "vi": "Vương quốc (Đức Chúa Trời)"
+    },
+    {
+     "en": "salvation",
+     "vi": "sự cứu rỗi"
+    },
+    {
+     "en": "glorification",
+     "vi": "sự vinh hiển hóa"
+    },
+    {
+     "en": "new covenant",
+     "vi": "giao ước mới"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Ba giai đoạn của cánh chung học Tân Ước — đã khai mở, đang tiếp diễn, sẽ hoàn tất — thể hiện ra sao trong sự cứu rỗi và sự vinh hiển hóa?",
+    "Quan điểm về thời đại sẽ đến đã thay đổi như thế nào từ Cựu Ước qua Giăng Báp-tít đến Chúa Giê-xu?",
+    "Câu hỏi của các môn đồ trong Công Vụ 1:6–8 dạy chúng ta điều gì về Vương quốc Đức Chúa Trời?"
+   ],
+   "reading": {
+    "bible": [
+     "heb:1"
+    ],
+    "catechism": [
+     37
+    ],
+    "encyclopedia": [
+     "su-tai-lam",
+     "su-song-doi-doi"
+    ]
+   },
+   "series_code": "BBT",
+   "source": "https://nexus.thirdmill.org/series/BBT",
+   "summary_vi": "Bài học trình bày những đặc điểm của thần học Kinh Thánh trong Tân Ước, nơi mặc khải đạt đến đỉnh điểm. Phần định hướng cho thấy mặc khải bằng hành động và bằng lời vẫn tiếp tục, ba cấp độ cấu trúc vẫn áp dụng, và toàn bộ Tân Ước có thể tóm gọn dưới Vương quốc Đức Chúa Trời. Phần phát triển cánh chung học theo dõi trọng tâm thời cuối qua năm giao ước Cựu Ước, rồi qua Do Thái giáo thế kỷ thứ nhất, Giăng Báp-tít và Chúa Giê-xu, nơi thời đại sẽ đến đã bắt đầu trong Đấng Christ. Phần cánh chung học Tân Ước trình bày ba giai đoạn — đã khai mở, đang tiếp diễn và sẽ hoàn tất — áp dụng cho Đấng Christ, sự cứu rỗi và sự vinh hiển hóa, rồi phân tích Công Vụ 1:6–8.",
+   "title_en": "Contours of New Testament Biblical Theology",
+   "title_vi": "Đường Nét của Thần Học Kinh Thánh Tân Ước"
+  },
+  {
+   "course_slug": "giao-ly-duc-thanh-linh",
+   "key_terms": [
+    {
+     "en": "Holy Spirit",
+     "vi": "Đức Thánh Linh"
+    },
+    {
+     "en": "Trinity",
+     "vi": "Ba Ngôi"
+    },
+    {
+     "en": "personhood",
+     "vi": "ngôi vị"
+    },
+    {
+     "en": "inspiration",
+     "vi": "sự cảm thúc"
+    },
+    {
+     "en": "anointing",
+     "vi": "sự xức dầu"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Cựu Ước gợi ý về Ba Ngôi như thế nào, và vì sao giáo lý về Đức Thánh Linh phải mất nhiều thiên niên kỷ mới phát triển đầy đủ?",
+    "Bốn đặc điểm nào trong Cựu Ước chứng tỏ Đức Thánh Linh là Đức Chúa Trời không được tạo dựng, chứ không chỉ là một tác nhân vô ngôi vị?",
+    "Sự phân biệt giữa Ba Ngôi bản thể và Ba Ngôi kinh tế giúp chúng ta thờ phượng và cầu nguyện với Đức Thánh Linh ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "joh:14"
+    ],
+    "catechism": [
+     6
+    ],
+    "encyclopedia": [
+     "ba-ngoi",
+     "duc-thanh-linh"
+    ]
+   },
+   "series_code": "SPR",
+   "source": "https://nexus.thirdmill.org/series/SPR",
+   "summary_vi": "Bài học trình bày Đức Thánh Linh là thành viên bình đẳng trong Ba Ngôi, và giáo lý về ngôi vị không được tạo dựng của Ngài đã phát triển ra sao. Phần Cựu Ước cho thấy Đức Chúa Trời mặc khải chính Ngài cách tiệm tiến: các tên gọi của Thần Đức Chúa Trời, bốn đặc điểm — ban lời tiên tri, xức dầu và ban quyền năng — chứng tỏ Ngài là Đức Chúa Trời, và những dấu hiệu ngôi vị như cảm xúc và ý chí. Phần Tân Ước cho thấy Chúa Giê-xu, nhất là trong bài giảng từ biệt Giăng 14–16, và các sứ đồ đã xác nhận Ba Ngôi. Phần lịch sử theo dõi Tín điều các Sứ đồ, thuật ngữ trinitas của Tertullian, Công đồng Constantinople năm 381, và sự phân biệt Ba Ngôi bản thể với Ba Ngôi kinh tế.",
+   "title_en": "In the Trinity",
+   "title_vi": "Trong Ba Ngôi"
+  },
+  {
+   "course_slug": "giao-ly-duc-thanh-linh",
+   "key_terms": [
+    {
+     "en": "creation",
+     "vi": "sự sáng tạo"
+    },
+    {
+     "en": "providence",
+     "vi": "sự quan phòng"
+    },
+    {
+     "en": "revelation",
+     "vi": "sự mặc khải"
+    },
+    {
+     "en": "common grace",
+     "vi": "ân điển chung"
+    },
+    {
+     "en": "illumination",
+     "vi": "sự soi sáng"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Đức Thánh Linh tham gia vào công cuộc sáng tạo và quan phòng như thế nào, theo Sáng Thế Ký 1:2 và Thi Thiên 104?",
+    "Mặc khải chung khác mặc khải đặc biệt ở điểm nào, và vì sao cảm thúc khác với soi sáng?",
+    "Ân điển chung giải thích ra sao việc người chưa tin vẫn kinh nghiệm điều tốt, và bạn đứng ở lập trường nào trong năm lập trường của Niebuhr về văn hóa?"
+   ],
+   "reading": {
+    "bible": [
+     "gen:1"
+    ],
+    "catechism": [
+     9
+    ],
+    "encyclopedia": [
+     "su-quan-phong",
+     "duc-thanh-linh"
+    ]
+   },
+   "series_code": "SPR",
+   "source": "https://nexus.thirdmill.org/series/SPR",
+   "summary_vi": "Bài học trình bày công việc của Đức Thánh Linh trong thế gian qua bốn lãnh vực: sáng tạo, quan phòng, mặc khải và ân điển chung. Trong sáng tạo, Thần Đức Chúa Trời lượn trên mặt nước, ban sự sống và duy trì muôn vật. Trong quan phòng, Ngài cai trị thiên nhiên và các công việc của con người, hướng mọi sự về mục đích của Đức Chúa Trời. Trong mặc khải, bài học phân biệt mặc khải chung và đặc biệt, rồi xét cảm thúc Kinh Thánh, soi sáng bên trong, cùng các phép lạ và dấu kỳ. Trong ân điển chung, Ngài kiềm chế điều ác và đáp ứng nhu cầu hằng ngày của nhân loại. Bài học dùng năm lập trường trong Christ and Culture của Niebuhr để học viên đánh giá cách mình liên hệ với văn hóa.",
+   "title_en": "In the World",
+   "title_vi": "Trong Thế Gian"
+  },
+  {
+   "course_slug": "giao-ly-duc-thanh-linh",
+   "key_terms": [
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "inspiration",
+     "vi": "sự cảm thúc"
+    },
+    {
+     "en": "spiritual gifts",
+     "vi": "ân tứ thuộc linh"
+    },
+    {
+     "en": "church",
+     "vi": "Hội Thánh"
+    },
+    {
+     "en": "cessationism",
+     "vi": "thuyết ân tứ đã chấm dứt"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Vì sao việc xem Y-sơ-ra-ên và Hội Thánh là một dân giao ước liên tục lại quan trọng cho việc hiểu công việc của Đức Thánh Linh?",
+    "Quan điểm cảm thúc hữu cơ khác với cảm thúc lãng mạn và cảm thúc máy móc như thế nào?",
+    "Ân tứ thuộc linh được ban để làm gì, và ba dấu hiệu nào giúp một tín hữu khám phá ân tứ của mình?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:12"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "hoi-thanh",
+     "giao-uoc"
+    ]
+   },
+   "series_code": "SPR",
+   "source": "https://nexus.thirdmill.org/series/SPR",
+   "summary_vi": "Bài học trình bày công việc của Đức Thánh Linh trong cộng đồng giao ước qua ba lãnh vực: ân điển giao ước, Kinh Thánh và ân tứ thuộc linh. Về ân điển giao ước, Y-sơ-ra-ên xưa cũng được gọi là Hội Thánh, và Hội Thánh Tân Ước tiếp nối dân ấy thành một dân giao ước liên tục. Về Kinh Thánh, bài học đối chiếu ba quan điểm về cảm thúc — lãng mạn, máy móc và hữu cơ — rồi trình bày sứ điệp và mục đích của Kinh Thánh. Về ân tứ, bài học giải thích mục đích gây dựng Hội Thánh, lịch sử ân tứ từ thời Môi-se đến Tân Ước, và cách sử dụng ngày nay, kể cả cuộc tranh luận về ân tứ còn tiếp tục hay đã chấm dứt, cùng cách khám phá ân tứ của mình.",
+   "title_en": "In the Church",
+   "title_vi": "Trong Hội Thánh"
+  },
+  {
+   "course_slug": "giao-ly-duc-thanh-linh",
+   "key_terms": [
+    {
+     "en": "regeneration",
+     "vi": "sự tái sinh"
+    },
+    {
+     "en": "justification",
+     "vi": "sự xưng công chính"
+    },
+    {
+     "en": "sanctification",
+     "vi": "sự nên thánh"
+    },
+    {
+     "en": "intercession",
+     "vi": "sự cầu thay"
+    },
+    {
+     "en": "glorification",
+     "vi": "sự vinh hiển hóa"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Đức Thánh Linh làm những công việc nào trong sự trở lại của một người, từ tái sinh đến xưng công chính và nên thánh?",
+    "Hoa quả của Đức Thánh Linh khác với ân tứ thuộc linh như thế nào, và vì sao sự phân biệt này quan trọng?",
+    "Việc Đức Thánh Linh cầu thay và gìn giữ tín hữu khích lệ bạn ra sao khi bạn không biết cầu nguyện thế nào cho phải?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:8"
+    ],
+    "catechism": [
+     30
+    ],
+    "encyclopedia": [
+     "su-tai-sinh",
+     "su-nen-thanh"
+    ]
+   },
+   "series_code": "SPR",
+   "source": "https://nexus.thirdmill.org/series/SPR",
+   "summary_vi": "Bài học trình bày công việc của Đức Thánh Linh trong việc áp dụng sự cứu rỗi cho từng tín hữu qua hai giai đoạn: sự trở lại và đời sống Cơ Đốc. Trong sự trở lại, cả Ba Ngôi đều tham gia: Ngài tái sinh người chết thuộc linh, cáo trách tội lỗi cho thấy tội lỗi lan tràn và vô vọng, áp dụng sự công chính của Đấng Christ trong sự xưng công chính, và biệt riêng tín hữu trong sự nên thánh. Trong đời sống Cơ Đốc, Ngài ngự trong tín hữu, tiếp tục nên thánh họ mà không loại bỏ hẳn sự hư hoại của tội lỗi, cầu thay cho họ theo ý muốn Đức Chúa Trời, và gìn giữ họ đến cuối cùng, được ví như ấn chứng, cho đến sự vinh hiển hóa trong trời mới đất mới.",
+   "title_en": "In the Believer",
+   "title_vi": "Trong Tín Hữu"
+  },
   {
    "course_slug": "nen-tang-cuu-uoc",
    "key_terms": [
@@ -1635,6 +4120,1487 @@
    "summary_vi": "Bài cuối đối chiếu ba thời kỳ để xác định thẩm quyền trong thần học. Giáo hội Công giáo thời Trung cổ tuy xưng nhận Kinh Thánh, nhưng nhấn mạnh quá mức nguồn gốc thần linh, cho mỗi đoạn có nhiều tầng ý nghĩa và xem Kinh Thánh là tối tăm, nên thực tế thẩm quyền rơi vào giáo hội, các giáo phụ, công đồng và giáo hoàng. Các nhà Cải Chánh phục hồi Kinh Thánh làm thẩm quyền tối cao duy nhất: cảm hứng hữu cơ gồm cả yếu tố thần linh lẫn nhân loại, mỗi đoạn chỉ có một ý nghĩa thống nhất, và Kinh Thánh đủ rõ ràng về những điều cần cho sự cứu rỗi. Ngày nay chúng ta giữ nguyên lập trường ấy, kính trọng truyền thống quá khứ nhưng luôn xét lại dưới ánh sáng Kinh Thánh.",
    "title_en": "Authority in Theology",
    "title_vi": "Thẩm Quyền Trong Thần Học"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "Theology of Paul",
+     "vi": "Thần học Phao-lô"
+    },
+    {
+     "en": "Apostleship",
+     "vi": "Chức vụ sứ đồ"
+    },
+    {
+     "en": "Eschatology",
+     "vi": "Cánh chung học"
+    },
+    {
+     "en": "Union with Christ",
+     "vi": "Hiệp một với Đấng Christ"
+    },
+    {
+     "en": "Justification by faith alone",
+     "vi": "sự xưng công chính bởi đức tin mà thôi"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Nền tảng văn hóa Do Thái và Hy-La đã hun đúc thần học Phao-lô như thế nào?",
+    "Quan điểm Cải Chánh và quan điểm cánh chung học khác nhau ở điểm nào khi hiểu thần học Phao-lô?",
+    "Việc hiệp một với Đấng Christ đem lại hy vọng gì cho đời sống Cơ Đốc hôm nay?"
+   ],
+   "reading": {
+    "bible": [
+     "rom:1"
+    ],
+    "catechism": [
+     33
+    ],
+    "encyclopedia": [
+     "phuc-am"
+    ]
+   },
+   "series_code": "HPT",
+   "source": "https://nexus.thirdmill.org/series/HPT",
+   "summary_vi": "Bài mở đầu giới thiệu Phao-lô và thần học của ông qua ba phần. Trước hết là nền tảng văn hóa đã hun đúc ông: Do Thái giáo với lòng vâng phục Kinh Thánh Cựu Ước và niềm hy vọng về Đấng Mết-si-a, cùng văn hóa Hy-La mà ông hiểu rõ nhờ quê Tác-sơ và quyền công dân Rô-ma. Tiếp theo là chức vụ sứ đồ: chức vụ do Đấng Christ ban, bốn hành trình truyền giáo và mười ba thư tín viết theo từng hoàn cảnh của Hội Thánh. Cuối cùng, bài đối chiếu hai cách hiểu thần học Phao-lô: quan điểm Cải Chánh đặt sự xưng công chính bởi đức tin làm trung tâm, và quan điểm cánh chung học về hai thời đại chồng lấp, với ba hệ quả: hiệp một với Đấng Christ, mục đích của Đức Chúa Trời và niềm hy vọng Cơ Đốc.",
+   "title_en": "Paul and his Theology",
+   "title_vi": "Phao-lô và thần học của ông"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "Justification",
+     "vi": "sự xưng công chính"
+    },
+    {
+     "en": "Circumcision",
+     "vi": "Sự cắt bì"
+    },
+    {
+     "en": "The Law",
+     "vi": "Luật pháp"
+    },
+    {
+     "en": "Under-realized eschatology",
+     "vi": "Cánh chung học chưa trọn"
+    },
+    {
+     "en": "Freedom in Christ",
+     "vi": "Sự tự do trong Đấng Christ"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Vì sao các giáo sư giả đòi tín hữu ngoại bang phải chịu cắt bì mới được cứu?",
+    "Phao-lô dùng những bằng chứng nào để chứng minh sự xưng công chính bởi đức tin?",
+    "Sai lầm cánh chung học chưa trọn ảnh hưởng thế nào đến cách người Ga-la-ti hiểu luật pháp và tự do?"
+   ],
+   "reading": {
+    "bible": [
+     "gal:3"
+    ],
+    "catechism": [
+     33
+    ],
+    "encyclopedia": [
+     "giao-uoc"
+    ]
+   },
+   "series_code": "HPT",
+   "source": "https://nexus.thirdmill.org/series/HPT",
+   "summary_vi": "Bài học xem thư Ga-la-ti như lời đáp của Phao-lô trước các giáo sư giả ép tín hữu ngoại bang phải chịu cắt bì. Trước hết là bối cảnh: sau hành trình truyền giáo đầu tiên, nhiều người ngoại bang tin Chúa, và các giáo sư giả dạy họ phải giữ luật Môi-se mới được cứu, phủ nhận sự đủ đầy của công việc Đấng Christ. Tiếp theo là nội dung thư: lời mở đầu, ba câu chuyện lịch sử chứng minh thẩm quyền sứ đồ, bốn bằng chứng thần học về sự xưng công chính bởi đức tin qua kinh nghiệm người Ga-la-ti và đức tin Áp-ra-ham, cùng lời khuyên về tự do trong Thánh Linh. Cuối cùng, bài cho thấy gốc rễ sai lầm là cánh chung học chưa trọn: các giáo sư giả đánh giá thấp thời đại sẽ đến đã khai mở trong Đấng Christ.",
+   "title_en": "Paul and the Galatians",
+   "title_vi": "Phao-lô và người Ga-la-ti"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "The Day of the Lord",
+     "vi": "Ngày của Chúa"
+    },
+    {
+     "en": "Over-realized eschatology",
+     "vi": "Cánh chung học quá đà"
+    },
+    {
+     "en": "The man of lawlessness",
+     "vi": "Kẻ chống nghịch"
+    },
+    {
+     "en": "The resurrection",
+     "vi": "Sự phục sinh"
+    },
+    {
+     "en": "Perseverance",
+     "vi": "Sự bền đỗ"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Ba khó khăn nào Hội Thánh Tê-sa-lô-ni-ca đang đối diện khi Phao-lô viết thư?",
+    "Phao-lô dạy gì về ngày của Chúa và những biến cố phải xảy ra trước đó?",
+    "Cánh chung học quá đà dẫn đến những sai lầm thực tế nào trong đời sống Hội Thánh?"
+   ],
+   "reading": {
+    "bible": [
+     "1thes:4"
+    ],
+    "catechism": [
+     38
+    ],
+    "encyclopedia": [
+     "su-tai-lam"
+    ]
+   },
+   "series_code": "HPT",
+   "source": "https://nexus.thirdmill.org/series/HPT",
+   "summary_vi": "Bài học xem hai thư Tê-sa-lô-ni-ca như lời đáp của Phao-lô cho Hội Thánh trẻ đầy rắc rối. Trước hết là bối cảnh: Hội Thánh được lập trong chuyến truyền giáo thứ hai, rồi đối diện bắt bớ, tiên tri giả loan báo ngày của Chúa đã đến, và thư giả mạo, cùng một số người bỏ việc làm. Tiếp theo là nội dung hai thư: thư thứ nhất khích lệ tín hữu, dạy về người chết trong Đấng Christ và ngày Chúa đến; thư thứ hai sửa sai rằng ngày của Chúa chưa đến, vì sự bội đạo và kẻ chống nghịch phải xuất hiện trước, và cảnh cáo sự lười biếng. Cuối cùng, bài cho thấy sai lầm là cánh chung học quá đà: họ đánh giá quá cao thời đại sẽ đến đã khai mở, nên Phao-lô nhắc lại cân bằng đã rồi mà chưa trọn.",
+   "title_en": "Paul and the Thessalonians",
+   "title_vi": "Phao-lô và người Tê-sa-lô-ni-ca"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "Over-realized eschatology",
+     "vi": "Cánh chung học quá đà"
+    },
+    {
+     "en": "The Lord's Supper",
+     "vi": "Tiệc Thánh của Chúa"
+    },
+    {
+     "en": "Spiritual gifts",
+     "vi": "Ân tứ thuộc linh"
+    },
+    {
+     "en": "The resurrection",
+     "vi": "Sự phục sinh"
+    },
+    {
+     "en": "Love",
+     "vi": "Tình yêu thương"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Bốn nan đề nào phát sinh từ cánh chung học quá đà tại Cô-rinh-tô?",
+    "Phao-lô sửa sai từng nan đề trong thư thứ nhất như thế nào?",
+    "Vì sao tình yêu thương và sự sống lại là đáp án cho những tranh cãi trong Hội Thánh?"
+   ],
+   "reading": {
+    "bible": [
+     "1cor:15"
+    ],
+    "catechism": [
+     35
+    ],
+    "encyclopedia": [
+     "su-phuc-sinh"
+    ]
+   },
+   "series_code": "HPT",
+   "source": "https://nexus.thirdmill.org/series/HPT",
+   "summary_vi": "Bài học xem hai thư Cô-rinh-tô như lời đáp của Phao-lô cho Hội Thánh đầy rắc rối trong hành trình truyền giáo thứ ba. Trước hết là bối cảnh: người Cô-rinh-tô tin thời đại sẽ đến đã trọn vẹn, nên sinh bốn nan đề: phe phái, kiện tụng và khinh người nghèo trong bữa ăn của Chúa; tội lỗi tình dục cả buông thả lẫn khổ hạnh; thờ phượng lộn xộn về khăn trùm đầu, ân tứ và thịt cúng thần tượng; cùng khước từ thẩm quyền sứ đồ. Tiếp theo là nội dung hai thư: thư thứ nhất sửa từng nan đề, kết bằng tình yêu thương và sự sống lại; thư thứ hai bênh vực chức vụ sứ đồ giữa đau khổ và an ủi. Cuối cùng, Phao-lô sửa sai cánh chung học quá đà: vinh hiển trọn vẹn chỉ đến khi Đấng Christ trở lại.",
+   "title_en": "Paul and the Corinthians",
+   "title_vi": "Phao-lô và người Cô-rinh-tô"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "Imprisonment",
+     "vi": "Sự bị giam cầm"
+    },
+    {
+     "en": "The Kingdom of God",
+     "vi": "Vương quốc Đức Chúa Trời"
+    },
+    {
+     "en": "Union with Christ",
+     "vi": "Hiệp một với Đấng Christ"
+    },
+    {
+     "en": "Sovereignty",
+     "vi": "Chủ quyền của Đức Chúa Trời"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Những biến cố nào dẫn Phao-lô từ Giê-ru-sa-lem đến nhà tù tại Rô-ma?",
+    "Phao-lô tiếp tục chức vụ rao giảng, cầu nguyện và viết thư trong tù như thế nào?",
+    "Bốn thư viết trong tù thống nhất với nhau ở điểm nào về Đấng Christ là Vua?"
+   ],
+   "reading": {
+    "bible": [
+     "act:28"
+    ],
+    "catechism": [
+     26
+    ],
+    "encyclopedia": [
+     "nuoc-duc-chua-troi"
+    ]
+   },
+   "series_code": "PPE",
+   "source": "https://nexus.thirdmill.org/series/PPE",
+   "summary_vi": "Bài mở đầu đặt bốn thư viết trong tù của Phao-lô vào bối cảnh bị giam cầm. Trước hết là những biến cố dẫn đến việc bắt giữ: tại Mi-lê, Phao-lô đã biết trước xiềng xích và hoạn nạn đang chờ mình; tại Giê-ru-sa-lem, ông bị bắt sau vụ hiểu lầm về Trô-phim trong đền thờ, rồi bị giam tại Xê-sa-rê trước khi bị giải về Rô-ma. Tiếp theo là chức vụ Phao-lô vẫn tiếp tục trong tù: ông rao giảng, cầu nguyện, chịu khổ và viết thư cho các Hội Thánh, biến ngục tù thành bục giảng Phúc Âm. Cuối cùng, bài chỉ ra sự thống nhất thần học của bốn thư: Đấng Christ là Vua của muôn vật, Đấng cai trị cách tể trị và xứng đáng được tôn vinh; tín hữu hiệp một với Ngài và được kêu gọi sống đạo đức xứng đáng.",
+   "title_en": "Paul's Imprisonment",
+   "title_vi": "Phao-lô trong tù"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "Supremacy of Christ",
+     "vi": "Sự tối cao của Đấng Christ"
+    },
+    {
+     "en": "Philosophy",
+     "vi": "Triết học"
+    },
+    {
+     "en": "The Law",
+     "vi": "Luật pháp"
+    },
+    {
+     "en": "Worship of angels",
+     "vi": "Sự thờ lạy thiên sứ"
+    },
+    {
+     "en": "Salvation in Christ",
+     "vi": "Sự cứu rỗi trong Đấng Christ"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Tà giáo tại Cô-lô-se trộn lẫn những yếu tố nào với đạo Chúa?",
+    "Phao-lô tôn cao Đấng Christ, chức vụ Ngài và sự cứu rỗi trong Ngài như thế nào?",
+    "Vì sao tín hữu ngày nay cũng cần cảnh giác trước những lời dạy làm lu mờ sự tối cao của Đấng Christ?"
+   ],
+   "reading": {
+    "bible": [
+     "col:1"
+    ],
+    "catechism": [
+     21
+    ],
+    "encyclopedia": [
+     "dang-christ"
+    ]
+   },
+   "series_code": "PPE",
+   "source": "https://nexus.thirdmill.org/series/PPE",
+   "summary_vi": "Bài học xem thư Cô-lô-se như lời đáp của Phao-lô trước tà giáo đe dọa Hội Thánh tại Cô-lô-se, một Hội Thánh ông chưa từng đến thăm. Trước hết là bối cảnh: qua Ê-pháp-ra, Phao-lô biết các giáo sư giả đang trộn đạo Chúa với triết lý Hy Lạp chuộng huyền bí và khổ hạnh, luật pháp Do Thái về lễ hội, ngày trăng mới, ngày Sa-bát và ăn uống, cùng việc thờ lạy các thiên sứ. Tiếp theo là nội dung thư: lời chào, lời khích lệ, rồi phần trung tâm tôn cao Đấng Christ, chức vụ của Ngài và sự cứu rỗi trong Ngài, trước khi kết thúc bằng lời chào tạm biệt. Cuối cùng, bài áp dụng cho ngày nay: tín hữu đã giàu có trong Đấng Christ thì đừng đánh đổi những phước hạnh ấy lấy sự thờ hình tượng giả dối.",
+   "title_en": "Paul and the Colossians",
+   "title_vi": "Phao-lô và người Cô-lô-se"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "The Kingdom of God",
+     "vi": "Vương quốc Đức Chúa Trời"
+    },
+    {
+     "en": "Citizenship",
+     "vi": "Quyền công dân"
+    },
+    {
+     "en": "Unity",
+     "vi": "Sự hiệp một"
+    },
+    {
+     "en": "The Church",
+     "vi": "Hội Thánh"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Vì sao có thể tin rằng Phao-lô là tác giả thư Ê-phê-sô và thư được gửi cho những ai?",
+    "Phao-lô dạy gì về quyền công dân, cách quản trị và luật sống trong Vương quốc Đức Chúa Trời?",
+    "Sự hiệp một giữa người Do Thái và dân ngoại trong một thân thể khích lệ Hội Thánh hôm nay ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "eph:2"
+    ],
+    "catechism": [
+     34
+    ],
+    "encyclopedia": [
+     "hoi-thanh"
+    ]
+   },
+   "series_code": "PPE",
+   "source": "https://nexus.thirdmill.org/series/PPE",
+   "summary_vi": "Bài học xem thư Ê-phê-sô như bức tranh toàn cảnh về đời sống trong Vương quốc Đức Chúa Trời. Trước hết là bối cảnh: Phao-lô là tác giả thư, viết cho Hội Thánh Ê-phê-sô mà ông đã lập và sống cùng hai năm, đồng thời cho các Hội Thánh vùng Ly-cút, nhằm dạy tín hữu cách xây dựng, duy trì và sống thịnh vượng trong Vương quốc Chúa. Tiếp theo là nội dung thư: lời chào, lời ngợi khen, lời cầu nguyện, rồi phần chính dạy về quyền công dân trong Vương quốc, cách quản trị Vương quốc và luật sống của công dân, trước khi kết thúc bằng lời chào. Cuối cùng, bài nhấn mạnh sự hiệp một của người Do Thái và dân ngoại trong một thân thể, cùng đời sống mới giữa thời đại này và thời đại sẽ đến.",
+   "title_en": "Paul and the Ephesians",
+   "title_vi": "Phao-lô và người Ê-phê-sô"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "Reconciliation",
+     "vi": "Sự hòa giải"
+    },
+    {
+     "en": "Forgiveness",
+     "vi": "Sự tha thứ"
+    },
+    {
+     "en": "Slavery",
+     "vi": "Chế độ nô lệ"
+    },
+    {
+     "en": "Brotherhood in Christ",
+     "vi": "Tình anh em trong Đấng Christ"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Mối quan hệ giữa Phi-lê-môn, Ô-nê-sim và Phao-lô là gì?",
+    "Phao-lô thỉnh cầu Phi-lê-môn đón nhận Ô-nê-sim như thế nào và dựa trên căn cứ nào?",
+    "Phúc Âm dạy Hội Thánh ngày nay gì về sự tha thứ và hòa giải trong những mối quan hệ cụ thể?"
+   ],
+   "reading": {
+    "bible": [
+     "philem:1"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "su-tha-thu",
+     "su-hoa-thuan"
+    ]
+   },
+   "series_code": "PPE",
+   "source": "https://nexus.thirdmill.org/series/PPE",
+   "summary_vi": "Bài học xem thư Phi-lê-môn, thư ngắn nhất của Phao-lô, như một bài học về sự hòa giải theo Phúc Âm. Trước hết là bối cảnh: Ô-nê-sim, một nô lệ đã bỏ trốn khỏi chủ là Phi-lê-môn, gặp Phao-lô trong tù, tin Chúa và phục vụ ông; Phao-lô gửi Ô-nê-sim trở về cùng với thư này, trước mặt các nhân chứng là Áp-phia, Ác-kíp và Hội Thánh nhóm tại nhà Phi-lê-môn. Tiếp theo là nội dung thư: lời chào và cảm tạ, rồi lời thỉnh cầu tha thiết xin Phi-lê-môn đón nhận Ô-nê-sim không còn như nô lệ mà như anh em trong Chúa, dựa trên tình yêu thương chứ không phải mệnh lệnh. Cuối cùng, bài áp dụng cho Hội Thánh ngày nay: Phúc Âm chạm đến từng mối quan hệ cụ thể, kêu gọi sự tha thứ, hòa giải và tôn trọng phẩm giá con người.",
+   "title_en": "Paul and Philemon",
+   "title_vi": "Phao-lô và Phi-lê-môn"
+  },
+  {
+   "course_slug": "nghien-cuu-phaolo",
+   "key_terms": [
+    {
+     "en": "Joy",
+     "vi": "Niềm vui"
+    },
+    {
+     "en": "Perseverance",
+     "vi": "Sự bền đỗ"
+    },
+    {
+     "en": "Humility of Christ",
+     "vi": "Sự hạ mình của Đấng Christ"
+    },
+    {
+     "en": "Contentment",
+     "vi": "Sự bằng lòng"
+    }
+   ],
+   "lesson_no": 5,
+   "questions_vi": [
+    "Mối quan hệ giữa Phao-lô và Hội Thánh Phi-líp đặc biệt ở điểm nào?",
+    "Gương hạ mình của Đấng Christ khích lệ tín hữu bền đỗ ra sao giữa bắt bớ?",
+    "Niềm vui trong Đấng Christ khác gì với niềm vui theo hoàn cảnh?"
+   ],
+   "reading": {
+    "bible": [
+     "phil:2"
+    ],
+    "catechism": [
+     27
+    ],
+    "encyclopedia": [
+     "ben-do"
+    ]
+   },
+   "series_code": "PPE",
+   "source": "https://nexus.thirdmill.org/series/PPE",
+   "summary_vi": "Bài học xem thư Phi-líp như thư của hy vọng và khích lệ giữa bắt bớ và khốn khó. Trước hết là bối cảnh: Phao-lô có mối quan hệ thân thiết với Hội Thánh Phi-líp, Hội Thánh đã nhiều lần giúp đỡ ông, và cả ông lẫn họ đều đang chịu khổ vì Phúc Âm. Tiếp theo là nội dung thư: lời chào, lời cảm tạ và cầu nguyện, rồi phần chính gồm gương bền đỗ của Phao-lô, lời kêu gọi tín hữu bền đỗ theo gương hạ mình của Đấng Christ, và lời khẳng định sự bền đỗ của họ, trước khi kết thúc bằng lời chào. Cuối cùng, bài nhấn mạnh niềm vui trong Đấng Christ vượt trên hoàn cảnh, sự hiệp một, khiêm nhường và bằng lòng trong mọi sự.",
+   "title_en": "Paul and the Philippians",
+   "title_vi": "Phao-lô và người Phi-líp"
+  },
+  {
+   "course_slug": "thu-tin-tan-uoc",
+   "key_terms": [
+    {
+     "en": "authorship",
+     "vi": "tác giả"
+    },
+    {
+     "en": "high priest",
+     "vi": "thầy tế lễ thượng phẩm"
+    },
+    {
+     "en": "persecution",
+     "vi": "sự bách hại"
+    },
+    {
+     "en": "apostasy",
+     "vi": "sự bội đạo"
+    },
+    {
+     "en": "exhortation",
+     "vi": "lời khuyên giục"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Theo bài học, ba vấn đề bối cảnh nào giúp chúng ta giải nghĩa thư Hê-bơ-rơ, và mỗi vấn đề cho thấy điều gì về độc giả gốc?",
+    "Vì sao tác giả Hê-bơ-rơ dùng nhiều lời khuyên giục mạnh mẽ, và mục đích chính của những lời khuyên ấy là gì?",
+    "Độc giả gốc gần như bội đạo vì bị bách hại; ngày nay, những áp lực nào khiến tín hữu có nguy cơ lìa bỏ Đấng Christ, và thư Hê-bơ-rơ khích lệ họ ra sao?"
+   ],
+   "reading": {
+    "bible": [
+     "heb:1"
+    ],
+    "catechism": [
+     25
+    ],
+    "encyclopedia": [
+     "su-chuoc-toi"
+    ]
+   },
+   "series_code": "HEB",
+   "source": "https://nexus.thirdmill.org/series/HEB",
+   "summary_vi": "Bài mở đầu giới thiệu những góc nhìn cần thiết để giải nghĩa thư Hê-bơ-rơ, vì độc giả gốc đang bị bách hại và cám dỗ lìa bỏ Đấng Christ. Phần bối cảnh xét ba vấn đề: tác giả — danh tính không chắc chắn nhưng ông là người Do Thái theo văn hóa Hy Lạp, trích dẫn Cựu Ước ít nhất 31 lần; độc giả gốc — người Do Thái theo văn hóa Hy Lạp, còn non nớt, đang chịu bách hại và gần như bội đạo; và thời gian viết — sau khi Phao-lô qua đời khoảng năm 65 và trước khi đền thờ bị phá năm 70. Phần mục đích giải thích vì sao tác giả dùng nhiều lời khuyên giục mạnh mẽ, kêu gọi độc giả khước từ lời dạy của cộng đồng Do Thái địa phương và trung tín với Chúa Giê-xu.",
+   "title_en": "The Background and Purpose of Hebrews",
+   "title_vi": "Bối Cảnh và Mục Đích của Thư Hê-bơ-rơ"
+  },
+  {
+   "course_slug": "thu-tin-tan-uoc",
+   "key_terms": [
+    {
+     "en": "last days",
+     "vi": "thời kỳ cuối cùng"
+    },
+    {
+     "en": "old covenant",
+     "vi": "giao ước cũ"
+    },
+    {
+     "en": "new covenant",
+     "vi": "giao ước mới"
+    },
+    {
+     "en": "Melchizedek",
+     "vi": "Mên-chi-xê-đéc"
+    },
+    {
+     "en": "perseverance",
+     "vi": "sự bền đỗ"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Ba yếu tố nội dung nào lặp lại trong mọi phần chính của thư Hê-bơ-rơ, và chúng giúp tác giả đạt mục đích của mình ra sao?",
+    "Năm phần chính trong cấu trúc hùng biện của thư là gì, và mỗi phần trình bày Đấng Christ vượt trội như thế nào?",
+    "Theo bài học, vì sao niềm tin rằng lịch sử đã bước vào thời kỳ cuối cùng lại giúp độc giả bền đỗ trong đức tin?"
+   ],
+   "reading": {
+    "bible": [
+     "heb:8"
+    ],
+    "catechism": [
+     21
+    ],
+    "encyclopedia": [
+     "giao-uoc-moi"
+    ]
+   },
+   "series_code": "HEB",
+   "source": "https://nexus.thirdmill.org/series/HEB",
+   "summary_vi": "Bài này tóm tắt nội dung và cấu trúc của thư Hê-bơ-rơ theo hai phần. Phần một trình bày ba yếu tố nội dung lặp lại trong mọi phần chính của thư: lịch sử đã bước vào thời kỳ cuối cùng với sự đến của Chúa Giê-xu; niềm tin ấy được Cựu Ước hỗ trợ qua bối cảnh lịch sử, quan điểm thần học, bổn phận đạo đức, lời tiên tri về thời cuối cùng và lý tưởng vương triều; và những lời khuyên giục độc giả bền đỗ trong đức tin. Phần hai phác thảo cấu trúc hùng biện gồm năm phần chính: khải thị qua các thiên sứ, thẩm quyền của Môi-se, chức thầy tế lễ của Mên-chi-xê-đéc, giao ước mới, và sự bền đỗ trong thực hành. Nhờ đó độc giả thấy tác giả thuyết phục họ thế nào để giữ vững đức tin nơi Đấng Christ.",
+   "title_en": "Content and Structure",
+   "title_vi": "Nội Dung và Cấu Trúc"
+  },
+  {
+   "course_slug": "thu-tin-tan-uoc",
+   "key_terms": [
+    {
+     "en": "wisdom",
+     "vi": "sự khôn ngoan"
+    },
+    {
+     "en": "trials",
+     "vi": "sự thử thách"
+    },
+    {
+     "en": "scattered",
+     "vi": "tản lạc"
+    },
+    {
+     "en": "pillar",
+     "vi": "trụ cột"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Theo quan điểm truyền thống, ai là tác giả thư Gia-cơ, và những bằng chứng nào ủng hộ quan điểm ấy?",
+    "Độc giả gốc của thư là ai, và hoàn cảnh tản lạc vì bách hại ảnh hưởng thế nào đến sứ điệp của thư?",
+    "Thư Gia-cơ phản ánh truyền thống văn chương khôn ngoan Do Thái ra sao, và các chủ đề chính của thư là gì?"
+   ],
+   "reading": {
+    "bible": [
+     "jac:1"
+    ],
+    "catechism": [
+     86
+    ],
+    "encyclopedia": [
+     "duc-tin"
+    ]
+   },
+   "series_code": "JAM",
+   "source": "https://nexus.thirdmill.org/series/JAM",
+   "summary_vi": "Bài giới thiệu thư Gia-cơ theo hai hướng: bối cảnh và cấu trúc nội dung. Về bối cảnh, bài xét tác giả theo quan điểm truyền thống — Gia-cơ, em của Chúa Giê-xu, người từng hoài nghi rồi tin Chúa, thành trụ cột và lãnh đạo Hội Thánh Giê-ru-sa-lem cho đến khi tử đạo năm 62; độc giả gốc là Cơ Đốc nhân Do Thái ngoài xứ Pa-lét-tin, bị tản lạc vì bách hại; và mục đích thư — kêu gọi họ tìm kiếm sự khôn ngoan từ Đức Chúa Trời để có niềm vui trong thử thách. Về cấu trúc, thư phản ánh truyền thống văn chương khôn ngoan Do Thái như Gióp, Truyền Đạo và Châm Ngôn, với các chủ đề: khôn ngoan và niềm vui, khôn ngoan và vâng lời, khôn ngoan và bình an, khôn ngoan và tương lai, khôn ngoan và cầu nguyện.",
+   "title_en": "Introduction to James",
+   "title_vi": "Giới Thiệu Thư Gia-cơ"
+  },
+  {
+   "course_slug": "thu-tin-tan-uoc",
+   "key_terms": [
+    {
+     "en": "reflective wisdom",
+     "vi": "sự khôn ngoan suy ngẫm"
+    },
+    {
+     "en": "practical wisdom",
+     "vi": "sự khôn ngoan thực hành"
+    },
+    {
+     "en": "faith and works",
+     "vi": "đức tin và việc làm"
+    },
+    {
+     "en": "justification",
+     "vi": "sự xưng công chính"
+    },
+    {
+     "en": "heavenly wisdom",
+     "vi": "sự khôn ngoan từ trời"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Sự khôn ngoan suy ngẫm và sự khôn ngoan thực hành khác nhau thế nào, và Gia-cơ dùng hai đoạn Kinh Thánh nào để trình bày chúng?",
+    "Theo bài học, thử luyện sinh ra sự bền đỗ, trưởng thành và phần thưởng ra sao, và điều đó giúp chúng ta đối diện thử thách thế nào?",
+    "Đức tin thật liên hệ với việc làm và sự xưng công chính như thế nào trong thư Gia-cơ?"
+   ],
+   "reading": {
+    "bible": [
+     "jac:2"
+    ],
+    "catechism": [
+     33
+    ],
+    "encyclopedia": [
+     "su-cong-chinh"
+    ]
+   },
+   "series_code": "JAM",
+   "source": "https://nexus.thirdmill.org/series/JAM",
+   "summary_vi": "Bài này khám phá chủ đề hợp nhất của thư Gia-cơ: hai con đường khôn ngoan từ Đức Chúa Trời, xuất hiện ở Gia-cơ 1:2-18 và 3:13-18. Con đường thứ nhất là sự khôn ngoan suy ngẫm, như trong Gióp và Truyền Đạo, tìm hiểu mục đích của Đức Chúa Trời đằng sau thử thách: nhu cầu — thử thách nhiều loại; hướng dẫn — thử luyện sinh ra sự bền đỗ, trưởng thành và phần thưởng; và đức tin. Con đường thứ hai là sự khôn ngoan thực hành, như trong Châm Ngôn, hướng dẫn đời sống hằng ngày: bài phân biệt khôn ngoan thuộc đất với khôn ngoan từ trời, rồi nêu tiêu chuẩn và ưu tiên của luật pháp Ngài. Cuối cùng, đức tin thật luôn đi kèm việc làm, và liên hệ giữa đức tin với sự xưng công chính.",
+   "title_en": "Two Paths of Wisdom",
+   "title_vi": "Hai Con Đường Khôn Ngoan"
+  },
+  {
+   "course_slug": "thu-tin-tan-uoc",
+   "key_terms": [
+    {
+     "en": "prophecy",
+     "vi": "lời tiên tri"
+    },
+    {
+     "en": "apocalyptic",
+     "vi": "khải huyền"
+    },
+    {
+     "en": "eschatology",
+     "vi": "cánh chung học"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "Patmos",
+     "vi": "đảo Bát-mô"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Theo bài học, những bằng chứng nào ủng hộ quan điểm truyền thống rằng sứ đồ Giăng là tác giả sách Khải Huyền?",
+    "Ba khái niệm thần học trung tâm nào tạo nên bối cảnh thần học của sách, và mỗi khái niệm giúp hiểu sách ra sao?",
+    "Vì sao việc nhận biết thể loại tiên tri và văn chương khải huyền lại quan trọng khi đọc sách Khải Huyền?"
+   ],
+   "reading": {
+    "bible": [
+     "rev:1"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "tien-tri"
+    ]
+   },
+   "series_code": "REV",
+   "source": "https://nexus.thirdmill.org/series/REV",
+   "summary_vi": "Bài mở đầu cho thấy bối cảnh của sách Khải Huyền giúp hiểu ý nghĩa gốc và áp dụng sứ điệp cho ngày nay. Phần lịch sử xét tác giả — theo truyền thống là sứ đồ Giăng, được các chứng nhân đầu tiên như Giút-tin, I-rê-nê và Cơ-lê-măng xác nhận, với từ ngữ Ngôi Lời giống Phúc Âm Giăng; Giăng viết trong lúc bị lưu đày trên đảo Bát-mô sau khi nhận khải tượng; thời gian viết có thể dưới thời Nê-rô hoặc Đô-mi-ti-an; và độc giả gốc là bảy Hội Thánh tại Tiểu Á. Phần thần học nêu ba khái niệm trung tâm: cánh chung học về thời kỳ cuối cùng, giao ước, và vai trò của các tiên tri. Phần văn học so sánh sách với thể loại tiên tri và văn chương khải huyền đầy hình ảnh tượng trưng.",
+   "title_en": "The Background of Revelation",
+   "title_vi": "Bối Cảnh của Sách Khải Huyền"
+  },
+  {
+   "course_slug": "thu-tin-tan-uoc",
+   "key_terms": [
+    {
+     "en": "blessing",
+     "vi": "phước lành"
+    },
+    {
+     "en": "curse",
+     "vi": "sự rủa sả"
+    },
+    {
+     "en": "seven churches",
+     "vi": "bảy Hội Thánh"
+    },
+    {
+     "en": "vision",
+     "vi": "khải tượng"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Theo bài học, mục đích chính của Giăng khi viết sách Khải Huyền là gì, và ông dùng phước lành cùng rủa sả để đạt mục đích ấy ra sao?",
+    "Các chi tiết chính của sách — khải tượng về Đấng Christ, bảy bức thư và các sự kiện sắp đến — nối kết với nhau như thế nào?",
+    "Những chiến lược áp dụng nào giúp độc giả hiện đại sống trung tín giữa hoạn nạn, thay vì chỉ giải mã các biểu tượng?"
+   ],
+   "reading": {
+    "bible": [
+     "rev:2"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "thoi-ky-cuoi-cung",
+     "dau-hieu-thoi-cuoi"
+    ]
+   },
+   "series_code": "REV",
+   "source": "https://nexus.thirdmill.org/series/REV",
+   "summary_vi": "Bài này khảo sát cấu trúc và nội dung của sách Khải Huyền theo ba bước. Trước hết, bài nêu mục đích của Giăng: khích lệ các Cơ Đốc nhân đang chịu khổ hãy trung tín cho đến khi Chúa Giê-xu trở lại, bằng những lời hứa phước lành cho người vâng lời và lời cảnh báo rủa sả cho kẻ bất trung. Tiếp theo, bài đi qua các chi tiết chính: lời mở đầu, khải tượng về Đấng Christ và bảy bức thư gửi bảy Hội Thánh, rồi các sự kiện sắp đến gồm bảy ấn, sự phán xét Ba-by-lôn, triều đại của các thánh đồ và nàng dâu của Chiên Con. Cuối cùng, bài tổng kết những chiến lược áp dụng sách cho đời sống hiện đại, để độc giả không chỉ hiểu các biểu tượng mà còn sống trung tín giữa hoạn nạn.",
+   "title_en": "Structure and Content",
+   "title_vi": "Cấu Trúc và Nội Dung"
+  },
+  {
+   "course_slug": "thu-tin-tan-uoc",
+   "key_terms": [
+    {
+     "en": "kingdom",
+     "vi": "Vương quốc Đức Chúa Trời"
+    },
+    {
+     "en": "suzerain",
+     "vi": "chúa tể"
+    },
+    {
+     "en": "vassal king",
+     "vi": "vua chư hầu"
+    },
+    {
+     "en": "benevolence",
+     "vi": "ân huệ"
+    },
+    {
+     "en": "loyalty",
+     "vi": "sự trung tín"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Theo bài học, Đức Chúa Trời là chúa tể tối cao và Đấng Christ là vua chư hầu có nghĩa gì, và hình ảnh này lấy từ đâu?",
+    "Đức Chúa Trời bày tỏ lòng nhân từ với dân giao ước của Ngài như thế nào qua Cựu Ước, Tân Ước và chiến thắng của Đấng Christ?",
+    "Hậu quả cuối cùng dành cho kẻ trung tín và kẻ bất trung khác nhau ra sao, và niềm hy vọng ấy khích lệ bạn thế nào hôm nay?"
+   ],
+   "reading": {
+    "bible": [
+     "rev:21"
+    ],
+    "catechism": [
+     26
+    ],
+    "encyclopedia": [
+     "nuoc-duc-chua-troi"
+    ]
+   },
+   "series_code": "REV",
+   "source": "https://nexus.thirdmill.org/series/REV",
+   "summary_vi": "Bài cuối khám phá chủ đề trung tâm xuyên suốt sách Khải Huyền: Vương quốc Đức Chúa Trời. Bài theo bốn phần của giao ước chúa tể–chư hầu thời xưa. Thứ nhất, vương quyền: Đức Chúa Trời là chúa tể tối cao trên mọi tạo vật, còn Đấng Christ là vua chư hầu như Đa-vít xưa. Thứ hai, ân huệ: Đức Chúa Trời bày tỏ lòng nhân từ trong Cựu Ước, Tân Ước, chiến thắng của Đấng Christ và quyền năng Đức Thánh Linh. Thứ ba, lòng trung tín Đức Chúa Trời đòi hỏi: bền đỗ, thờ phượng, nhớ ơn cứu chuộc đã qua, tôn vinh hiện tại và trông đợi phước lành tương lai. Thứ tư, hậu quả: rủa sả cho kẻ bất trung và phước lành — sự đổi mới tạo vật, đền thờ toàn cầu và triều đại không bao giờ dứt.",
+   "title_en": "The King and His Kingdom",
+   "title_vi": "Vua và Vương Quốc của Ngài"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "hermeneutics",
+     "vi": "giải kinh"
+    },
+    {
+     "en": "inspiration",
+     "vi": "sự cảm thúc"
+    },
+    {
+     "en": "original meaning",
+     "vi": "ý nghĩa gốc"
+    },
+    {
+     "en": "fulfilment in Christ",
+     "vi": "sự ứng nghiệm nơi Đấng Christ"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Vì sao nhiều tín hữu bối rối trước sách tiên tri, và hai phản ứng sai lầm thường gặp là gì?",
+    "Sự cảm thúc hữu cơ khác với kiểu 'đọc chính tả máy móc' như thế nào, và điều đó ảnh hưởng gì đến cách chúng ta đọc lời tiên tri?",
+    "Đấng Christ là trung tâm của cách giải kinh tiên tri ra sao, theo gương hai môn đồ trên đường Em-ma-u?"
+   ],
+   "reading": {
+    "bible": [
+     "luk:24"
+    ],
+    "catechism": [
+     2,
+     3
+    ],
+    "encyclopedia": [
+     "mac-khai"
+    ]
+   },
+   "series_code": "HGP",
+   "source": "https://nexus.thirdmill.org/series/HGP",
+   "summary_vi": "Nhiều tín hữu bối rối trước sách tiên tri vì chúng khó hiểu và Hội Thánh bất đồng, nên hoặc bị 'chuyên gia' dẫn dắt sai, hoặc thờ ơ bỏ qua. Bài học đặt nền tảng giải kinh qua bốn góc nhìn. Trước hết, tiên tri là người tỉnh táo nhận lãnh mặc khải: Đức Chúa Trời cảm thúc cách hữu cơ, không phải đọc chính tả máy móc, và chính tiên tri cũng chưa hiểu hết thời điểm. Thứ hai, phải tìm ý nghĩa gốc bằng giải kinh văn phạm-lịch sử, đặt lời tiên tri trong bối cảnh văn chương và lịch sử, như Ê-sai 7:14. Thứ ba, Tân Ước khẳng định thẩm quyền của lời tiên tri. Cuối cùng, mọi kỳ vọng tiên tri đều hướng về ngày của Chúa và được ứng nghiệm nơi Đấng Christ, trung tâm của cách giải kinh.",
+   "title_en": "Essential Hermeneutical Perspectives",
+   "title_vi": "Những góc nhìn giải kinh thiết yếu"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "prophet (nabi)",
+     "vi": "tiên tri (na-bi)"
+    },
+    {
+     "en": "covenant emissary",
+     "vi": "sứ giả của giao ước"
+    },
+    {
+     "en": "watchman",
+     "vi": "người canh giữ"
+    },
+    {
+     "en": "man of God",
+     "vi": "người của Đức Chúa Trời"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Danh xưng na-bi và các danh xưng phụ như người thấy, người canh giữ và sứ giả bày tỏ điều gì về công việc của tiên tri?",
+    "Chức vụ tiên tri thay đổi ra sao qua các thời kỳ trước quân chủ, quân chủ, lưu đày và sau lưu đày?",
+    "Vì sao hình ảnh thầy đồng hay thầy bói không diễn tả đúng tiên tri, và mô hình giao ước giải thích công việc của họ như thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "isa:6"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "tien-tri",
+     "giao-uoc"
+    ]
+   },
+   "series_code": "HGP",
+   "source": "https://nexus.thirdmill.org/series/HGP",
+   "summary_vi": "Bài học giải thích tiên tri là ai và họ làm gì. Danh xưng chính trong tiếng Hê-bơ-rơ là na-bi, nghĩa là người được kêu gọi, và trong tiếng Hy Lạp là người nói ra lời Chúa và loan báo tương lai. Kinh Thánh còn gọi họ là tôi tớ, người thấy, người canh giữ và sứ giả. Chức vụ thay đổi theo thời đại: trước thời quân chủ thì ít và không chính thức; thời quân chủ thì đông đảo và chính thức, để kiểm soát các vua; thời lưu đày thì ít hơn, giải thích ý nghĩa của lưu đày; sau lưu đày thì khích lệ tái thiết đền thờ. Tiên tri không phải thầy đồng hay thầy bói, nhưng là sứ giả và công tố viên của giao ước, đại diện Chúa Tối Cao nhắc dân sự giữ trung thành với giao ước.",
+   "title_en": "A Prophet's Job",
+   "title_vi": "Công việc của tiên tri"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "covenant of works",
+     "vi": "giao ước việc làm"
+    },
+    {
+     "en": "covenant of grace",
+     "vi": "giao ước ân điển"
+    },
+    {
+     "en": "new covenant",
+     "vi": "giao ước mới"
+    },
+    {
+     "en": "visible church",
+     "vi": "Hội Thánh hữu hình"
+    },
+    {
+     "en": "invisible church",
+     "vi": "Hội Thánh vô hình"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Giao ước với A-đam và Nô-ê đặt nền tảng nào cho việc hiểu các tiên tri nói với toàn nhân loại?",
+    "Các giao ước với Áp-ra-ham, Môi-se và Đa-vít chuẩn bị thế nào cho giao ước mới, và tiên tri loan báo giao ước mới ra sao?",
+    "Ba nhóm người trong giao ước — ngoài giao ước, cộng đồng hữu hình và cộng đồng vô hình — giúp chúng ta xét mình thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "gen:15"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "giao-uoc",
+     "giao-uoc-moi"
+    ]
+   },
+   "series_code": "HGP",
+   "source": "https://nexus.thirdmill.org/series/HGP",
+   "summary_vi": "Mọi lời tiên tri đều gắn với giao ước, nên phải hiểu dân sự mà tiên tri phục vụ. Bài học theo dõi giao ước qua lịch sử: với A-đam, giao ước việc làm đặt nền trên trách nhiệm, sự sa ngã và lời hứa cứu chuộc; với Nô-ê, Ngài hứa giữ thế giới ổn định trong lúc chờ cứu rỗi. Với Áp-ra-ham, Ngài hứa dòng dõi và đất; với Môi-se, Ngài ban luật pháp làm chuẩn cho tiên tri; với Đa-vít, Ngài hứa vương triều bền vững; rồi giao ước mới ứng nghiệm mọi lời hứa. Tiên tri cũng nói với các dân ngoại, kiện cáo tội lỗi họ và loan báo ơn cứu rỗi. Bài học phân biệt ba nhóm: người ngoài giao ước, cộng đồng hữu hình và cộng đồng vô hình, tức những người thuộc về Đức Chúa Trời bởi đức tin.",
+   "title_en": "The People of the Covenant",
+   "title_vi": "Dân sự của giao ước"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "divine benevolence",
+     "vi": "lòng nhân từ của Đức Chúa Trời"
+    },
+    {
+     "en": "human loyalty",
+     "vi": "lòng trung thành của con người"
+    },
+    {
+     "en": "covenant judgment",
+     "vi": "sự phán xét theo giao ước"
+    },
+    {
+     "en": "covenant blessing",
+     "vi": "phước lành theo giao ước"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Khuôn mẫu 'lòng nhân từ của Chúa đi trước, lòng trung thành của con người đáp lại' xuất hiện trong các giao ước như thế nào?",
+    "Tiên tri nhắc dân sự nhớ ơn thương xót và kêu gọi trung thành bằng cách nào, và đâu là dấu hiệu của đức tin thật?",
+    "Sự phán xét và phước lành theo giao ước diễn ra trong thiên nhiên và chiến tranh ra sao, và vì sao mức độ phán xét ngày càng tăng?"
+   ],
+   "reading": {
+    "bible": [
+     "deb:28"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "giao-uoc",
+     "luat-phap"
+    ]
+   },
+   "series_code": "HGP",
+   "source": "https://nexus.thirdmill.org/series/HGP",
+   "summary_vi": "Mọi giao ước theo mẫu hiệp ước giữa Chúa Tối Cao và chư hầu: Đức Chúa Trời bày tỏ lòng nhân từ trước, rồi đòi hỏi dân sự đáp lại bằng lòng trung thành. Khuôn mẫu ấy có trong các giao ước với A-đam, Nô-ê, Áp-ra-ham, Môi-se, Đa-vít và giao ước mới, trong đó ân điển đi trước và lòng trung thành là dấu hiệu của đức tin thật. Vì thế tiên tri nhắc dân sự nhớ ơn Chúa và kêu gọi họ trung thành. Khi dân sự bội ước, phán xét đến trong thiên nhiên như hạn hán, đói kém, bệnh tật, và trong chiến tranh như thất bại, bị vây hãm và lưu đày, ngày càng nặng cho đến lưu đày. Ngược lại, khi dân sự trung thành, phước lành đến trong thiên nhiên và chiến tranh, từ mùa màng sung túc đến chiến thắng và bình an.",
+   "title_en": "Dynamics of the Covenants",
+   "title_vi": "Động lực của các giao ước"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "historical context",
+     "vi": "bối cảnh lịch sử"
+    },
+    {
+     "en": "exile",
+     "vi": "sự lưu đày"
+    },
+    {
+     "en": "restoration",
+     "vi": "sự khôi phục"
+    },
+    {
+     "en": "Babylonian judgment",
+     "vi": "sự phán xét qua Ba-by-lôn"
+    }
+   ],
+   "lesson_no": 5,
+   "questions_vi": [
+    "Vì sao phải đặt lời tiên tri vào đúng thời đại lịch sử, và điều gì xảy ra khi chúng ta bỏ qua bối cảnh ấy?",
+    "Ba sự kiện chính của thời phán xét A-si-ri và ba lần xâm lăng của Ba-by-lôn định hình sứ điệp của các tiên tri như thế nào?",
+    "Thời quân chủ sơ khai và thời kỳ khôi phục cho thấy điều gì về lý tưởng giao ước và hy vọng sau lưu đày?"
+   ],
+   "reading": {
+    "bible": [
+     "2roi:17"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "giao-uoc",
+     "su-cuu-roi"
+    ]
+   },
+   "series_code": "HGP",
+   "source": "https://nexus.thirdmill.org/series/HGP",
+   "summary_vi": "Lời tiên tri chỉ hiểu đúng khi đặt vào đúng thời đại lịch sử của nó. Bài học khảo sát bốn thời kỳ. Thời quân chủ sơ khai đặt nền tảng: vương quốc thống nhất dưới Đa-vít và Sa-lô-môn gợi lên lý tưởng giao ước, còn sự phân rẽ khoảng năm 930 trước Chúa tạo ra hai dân tộc mà tiên tri phục vụ. Thời phán xét A-si-ri từ năm 734 đến 701 chứng kiến liên minh Sy-ri–Y-sơ-ra-ên, sự sụp đổ của Sa-ma-ri năm 722 và cuộc xâm lăng của San-chê-ríp năm 701, với các tiên tri Giô-na, Ô-sê, A-mốt, Mi-chê, Na-hum và Ê-sai. Thời phán xét Ba-by-lôn từ năm 605 đến 539 gồm ba lần xâm lăng và lưu đày, với Giê-rê-mi, Ê-xê-chi-ên, Đa-ni-ên và các tiên tri khác. Cuối cùng, thời kỳ khôi phục mở ra hy vọng trở về và tái thiết sau lưu đày.",
+   "title_en": "Historical Analysis of Prophecy",
+   "title_vi": "Phân tích lịch sử lời tiên tri"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "historical narrative",
+     "vi": "câu chuyện lịch sử"
+    },
+    {
+     "en": "symbolic action",
+     "vi": "hành động tượng trưng"
+    },
+    {
+     "en": "lament",
+     "vi": "lời than khóc"
+    },
+    {
+     "en": "vision report",
+     "vi": "tường thuật khải tượng"
+    }
+   ],
+   "lesson_no": 6,
+   "questions_vi": [
+    "Ba loại tài liệu chính trong sách tiên tri là gì, và mỗi loại giúp độc giả hiểu sứ điệp ra sao?",
+    "Các tường thuật về lời kêu gọi, hành động tượng trưng và khải tượng xác nhận thẩm quyền của tiên tri như thế nào?",
+    "Lời than khóc và lời ngợi khen của tiên tri dạy chúng ta cầu nguyện thế nào trong lúc khó khăn?"
+   ],
+   "reading": {
+    "bible": [
+     "amos:7"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "mac-khai",
+     "tien-tri"
+    ]
+   },
+   "series_code": "HGP",
+   "source": "https://nexus.thirdmill.org/series/HGP",
+   "summary_vi": "Sách tiên tri thường khiến độc giả lạc lối vì không nhận ra các thể loại văn chương. Bài học cung cấp bản đồ qua ba loại tài liệu. Thứ nhất là các câu chuyện lịch sử, gồm tiểu sử và tự truyện, với bốn nội dung: lời kêu gọi của tiên tri, hành động tượng trưng, tường thuật khải tượng và bối cảnh lịch sử, như Ê-sai 7–8 giúp hiểu đúng lời tiên tri về Em-ma-nu-ên. Thứ hai là lời tiên tri thưa chuyện với Đức Chúa Trời, từ lời than khóc về tội lỗi và sự phán xét, như sách Ha-ba-cúc, đến lời ngợi khen. Thứ ba là lời tiên tri nói với con người, tức các bài diễn văn kêu gọi ăn năn và tin cậy Chúa. Nhận ra thể loại giúp độc giả không bỏ lỡ sứ điệp của mỗi đoạn văn.",
+   "title_en": "Literary Analysis of the Prophets",
+   "title_vi": "Phân tích văn chương các sách tiên tri"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "divine sovereignty",
+     "vi": "chủ quyền của Đức Chúa Trời"
+    },
+    {
+     "en": "providence",
+     "vi": "sự quan phòng"
+    },
+    {
+     "en": "human responsibility",
+     "vi": "trách nhiệm của con người"
+    },
+    {
+     "en": "repentance",
+     "vi": "sự ăn năn"
+    }
+   ],
+   "lesson_no": 7,
+   "questions_vi": [
+    "Lời tiên đoán nhằm khích lệ dân sự 'định hình tương lai' nghĩa là gì, khác với việc chỉ cho biết trước ra sao?",
+    "Giê-rê-mi 18 dạy gì về mối quan hệ giữa lời tiên đoán và sự đáp ứng của con người, qua hình ảnh người thợ gốm?",
+    "Chủ quyền của Đức Chúa Trời và trách nhiệm của con người cùng tồn tại trong lời tiên tri như thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "jer:18"
+    ],
+    "catechism": [
+     7,
+     11
+    ],
+    "encyclopedia": [
+     "su-tien-dinh"
+    ]
+   },
+   "series_code": "HGP",
+   "source": "https://nexus.thirdmill.org/series/HGP",
+   "summary_vi": "Nhiều người tưởng tiên tri loan báo tương lai chỉ để biết trước, nhưng bài học cho thấy mục đích chính là khích lệ dân sự định hình tương lai bằng cách đáp ứng. Nền tảng là chủ quyền của Đức Chúa Trời: Ngài bất biến trong bản tính, lời hứa và ý chỉ đời đời, đồng thời quan phòng tích cực qua các nguyên nhân thứ yếu, tất yếu, tự do hoặc tùy thuộc. Vì vậy, lời tiên đoán gắn với sự đáp ứng của con người, như người thợ gốm trong Giê-rê-mi 18: lời báo phán xét có thể rút lại khi dân sự ăn năn, và lời hứa phước lành có thể giữ lại khi họ bất tuân. Mục đích của lời tiên đoán là kêu gọi ăn năn, khích lệ đức tin và nuôi dưỡng hy vọng nơi sự thành tín của Đức Chúa Trời.",
+   "title_en": "The Purpose of Predictions",
+   "title_vi": "Mục đích của các lời tiên đoán"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "eschatology",
+     "vi": "cánh chung học"
+    },
+    {
+     "en": "latter days",
+     "vi": "những ngày sau rốt"
+    },
+    {
+     "en": "day of the Lord",
+     "vi": "ngày của Chúa"
+    },
+    {
+     "en": "restoration",
+     "vi": "sự khôi phục"
+    }
+   ],
+   "lesson_no": 8,
+   "questions_vi": [
+    "Môi-se mô tả 'những ngày sau rốt' qua ba bước lưu đày, ăn năn và phục hồi như thế nào?",
+    "Các tiên tri đầu thêm ba nét mới nào về ngai Đa-vít, đền thờ và các dân ngoại vào khải tượng cánh chung?",
+    "Tân Ước cho thấy các kỳ vọng tiên tri được ứng nghiệm nơi Đấng Christ ra sao, và điều gì còn chờ Ngài trở lại?"
+   ],
+   "reading": {
+    "bible": [
+     "jer:31"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "giao-uoc-moi",
+     "hy-vong"
+    ]
+   },
+   "series_code": "HGP",
+   "source": "https://nexus.thirdmill.org/series/HGP",
+   "summary_vi": "Cánh chung học, tức giáo lý về những sự cuối cùng, không xuất hiện đầy đủ ngay từ đầu mà triển khai dần qua Kinh Thánh. Môi-se đặt nền tảng: dân sự sẽ sa ngã, chịu lưu đày, rồi ăn năn được tha thứ và phục hồi trong 'những ngày sau rốt'. Các tiên tri đầu giữ khuôn mẫu ấy nhưng thêm ba nét mới: ngai Đa-vít sẽ bị bỏ rồi được phục hồi qua một Vua công chính, đền thờ sẽ bị phá rồi được xây lại vinh hiển hơn, và các dân ngoại sẽ bị phán xét trong ngày của Chúa. Các tiên tri sau, nhất là Đa-ni-ên, mở rộng khải tượng về các vương quốc trần gian và sự hiện đến của Con Người. Tân Ước cho thấy mọi kỳ vọng ấy được ứng nghiệm nơi Đấng Christ và sẽ hoàn tất khi Ngài trở lại.",
+   "title_en": "Unfolding Eschatology",
+   "title_vi": "Cánh chung học triển khai"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "prophet",
+     "vi": "tiên tri"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "Assyrian judgment",
+     "vi": "sự phán xét qua A-si-ri"
+    },
+    {
+     "en": "wisdom",
+     "vi": "sự khôn ngoan"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Ô-sê thi hành chức vụ trong bối cảnh lịch sử nào, và bối cảnh ấy giúp hiểu sứ điệp của ông ra sao?",
+    "Là sứ giả của giao ước, Ô-sê nhắc dân sự nhớ điều gì về lòng nhân từ của Đức Chúa Trời và trách nhiệm trung thành của họ?",
+    "Ba phần chính của sách Ô-sê là gì, và mỗi phần bày tỏ điều gì về sự phán xét và hy vọng?"
+   ],
+   "reading": {
+    "bible": [
+     "os:1"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "tien-tri",
+     "giao-uoc"
+    ]
+   },
+   "series_code": "HOS",
+   "source": "https://nexus.thirdmill.org/series/HOS",
+   "summary_vi": "Bài học giới thiệu tiên tri Ô-sê và sách mang tên ông. Ô-sê thi hành chức vụ khoảng năm 760 trước Chúa, dưới thời Giê-rô-bô-am II ở Y-sơ-ra-ên và các vua Ô-xia đến Ê-xê-chia ở Giu-đa, khi đế quốc A-si-ri đe dọa cả hai vương quốc. Là sứ giả của giao ước, ông nhắc dân sự nhớ lòng nhân từ của Đức Chúa Trời, kêu gọi họ trung thành, đồng thời cảnh báo phước lành và hình phạt theo giao ước. Sách được biên soạn tại Giu-đa, có lẽ dưới thời Ê-xê-chia, để các nhà lãnh đạo rút ra bài học khôn ngoan từ sự sụp đổ của Y-sơ-ra-ên. Nội dung sách chia làm ba phần: sự phán xét và hy vọng, sự phán xét triển khai, rồi hy vọng triển khai, tất cả hướng về lòng thương xót của Đức Chúa Trời.",
+   "title_en": "An Introduction to Hosea",
+   "title_vi": "Giới thiệu về sách Ô-sê"
+  },
+  {
+   "course_slug": "tien-tri-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "covenant lawsuit",
+     "vi": "vụ kiện giao ước"
+    },
+    {
+     "en": "repentance",
+     "vi": "sự ăn năn"
+    },
+    {
+     "en": "revelation",
+     "vi": "sự mặc khải"
+    },
+    {
+     "en": "bride of Christ",
+     "vi": "nàng dâu của Đấng Christ"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Cuộc hôn nhân của Ô-sê và tên ba con trẻ bày tỏ điều gì về mối quan hệ giao ước giữa Đức Chúa Trời và dân sự Ngài?",
+    "Bốn tội mà Ô-sê vạch ra trong các vụ kiện giao ước là gì, và chúng xuất hiện trong đời sống Hội Thánh ngày nay như thế nào?",
+    "Năm hình ảnh so sánh trong phần ba của sách dạy gì về lòng nhân từ, sự kiên nhẫn của Đức Chúa Trời và lời kêu gọi ăn năn?"
+   ],
+   "reading": {
+    "bible": [
+     "os:2"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "an-nan",
+     "giao-uoc"
+    ]
+   },
+   "series_code": "HOS",
+   "source": "https://nexus.thirdmill.org/series/HOS",
+   "summary_vi": "Bài học đi sâu vào ba phần chính của sách Ô-sê để tìm những mặc khải của Đức Chúa Trời cho người khôn ngoan. Phần một kể về cuộc hôn nhân của Ô-sê với Gô-me và tên ba con trẻ, Đức Chúa Trời kiện cáo dân sự bội ước rồi hứa phục hồi sau phán xét. Phần hai ghi các vụ kiện giao ước và lời kêu gọi báo động, vạch ra bốn tội: vi phạm luật pháp, thờ hình tượng, ngoại tình thuộc linh và thờ phượng giả hình, trong khi hình phạt qua A-si-ri ngày càng nặng. Phần ba dùng năm hình ảnh so sánh — trái cây, cây cọ, cây nho, bò cái và đứa con yêu — để bày tỏ lòng nhân từ và kiên nhẫn của Đức Chúa Trời. Đáp ứng phải có là sự ăn năn, và Hội Thánh cũng học bài học ấy.",
+   "title_en": "Revelations for the Wise",
+   "title_vi": "Những mặc khải cho người khôn ngoan"
+  },
+  {
+   "course_slug": "truyen-ky-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "authorship",
+     "vi": "tác giả"
+    },
+    {
+     "en": "Deuteronomistic History",
+     "vi": "Lịch sử Phục Truyền"
+    },
+    {
+     "en": "composition",
+     "vi": "sự biên soạn"
+    },
+    {
+     "en": "covenant loyalty",
+     "vi": "sự trung tín giao ước"
+    },
+    {
+     "en": "fulfillment in Christ",
+     "vi": "sự làm trọn trong Đấng Christ"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Vì sao việc sách Giô-suê không ghi tên tác giả lại quan trọng, và ba quan điểm truyền thống, phê bình và Phúc Âm khác nhau thế nào về thời điểm sách hoàn thành?",
+    "Ba phần lớn của sách Giô-suê là gì, và mỗi phần tương ứng với thể loại văn chương nào?",
+    "Theo bài học, tên Giê-xu giống tên Giô-suê trong tiếng Hê-bơ-rơ nhắc chúng ta điều gì về cách Chúa Giê-xu làm trọn sách Giô-suê?"
+   ],
+   "reading": {
+    "bible": [
+     "jos:1"
+    ],
+    "catechism": [
+     3
+    ],
+    "encyclopedia": [
+     "cuu-uoc"
+    ]
+   },
+   "series_code": "JOS",
+   "source": "https://nexus.thirdmill.org/series/JOS",
+   "summary_vi": "Bài mở đầu giới thiệu sách Giô-suê. Trước hết, bài xét tác giả và thời điểm viết: sách không ghi tên tác giả; truyền thống xưa cho rằng Giô-suê viết phần lớn; phê bình hiện đại theo thuyết Lịch sử Phục Truyền cho rằng sách hoàn thành trong thời lưu đày; còn quan điểm Phúc Âm nhấn mạnh tác giả biên soạn từ nguồn cổ, như sách Gia-sa, nên sách có thể hoàn thành từ thời các quan xét đến thời lưu đày. Tiếp đó là bố cục ba phần: chinh phục chiến thắng (1–12), chia đất thừa hưởng (13–22) và trung tín giao ước (23–24), để độc giả xưa nhớ việc Chúa làm khi đối diện thách thức tương tự. Cuối cùng, Chúa Giê-xu — cùng tên với Giô-suê trong tiếng Hê-bơ-rơ — làm trọn các mục tiêu ấy trong ba giai đoạn của Vương quốc Ngài.",
+   "title_en": "An Introduction to Joshua",
+   "title_vi": "Giới Thiệu Sách Giô-suê"
+  },
+  {
+   "course_slug": "truyen-ky-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "conquest",
+     "vi": "sự chinh phục"
+    },
+    {
+     "en": "holy war",
+     "vi": "chiến tranh thánh"
+    },
+    {
+     "en": "obedience",
+     "vi": "sự vâng lời"
+    },
+    {
+     "en": "supernatural power",
+     "vi": "quyền năng siêu nhiên"
+    },
+    {
+     "en": "spiritual warfare",
+     "vi": "chiến tranh thuộc linh"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Ba bước của cuộc chinh phục trong các chương 1–12 là gì, và mỗi bước cho thấy điều gì về vai trò của Đức Chúa Trời?",
+    "Tội của A-can dạy điều gì về mối liên hệ giữa đức tin, sự vâng lời và chiến thắng của cả cộng đồng?",
+    "Vì sao bài học nói cuộc chinh phục Ca-na-an là một phán xét đặc biệt, không phải khuôn mẫu cho mọi cuộc chiến, và Chúa Giê-xu đã thắng kẻ thù của Vương quốc bằng cách nào khác?"
+   ],
+   "reading": {
+    "bible": [
+     "jos:6"
+    ],
+    "catechism": [
+     11
+    ],
+    "encyclopedia": [
+     "giao-uoc"
+    ]
+   },
+   "series_code": "JOS",
+   "source": "https://nexus.thirdmill.org/series/JOS",
+   "summary_vi": "Bài này xét phần đầu của sách Giô-suê, các chương 1–12, qua ba bước. Trước hết, chuẩn bị chiến thắng: Đức Chúa Trời truyền lệnh cho Giô-suê, Giô-suê truyền lệnh cho dân, rồi dân vượt sông Giô-đanh. Tiếp đó, hai thành bị chinh phục: Giê-ri-cô sụp đổ siêu nhiên sau khi thám tử gặp Ra-háp, còn A-hi thất bại vì tội A-can, rồi thắng sau khi dân thanh tẩy. Cuối cùng, hai liên minh miền Nam và miền Bắc bị đánh bại, sau hiệp ước với dân Ga-ba-ôn. Bài nhấn mạnh năm chủ đề: thẩm quyền Đức Chúa Trời, giao ước, luật Môi-se, quyền năng siêu nhiên và toàn thể Y-sơ-ra-ên. Về ứng dụng, Chúa Giê-xu đã thắng kẻ thù của Vương quốc khi đến lần đầu, và Hội Thánh tiếp tục chiến đấu thuộc linh cho đến khi Ngài trở lại hoàn tất chiến thắng.",
+   "title_en": "Victorious Conquest (1:1 - 12:24)",
+   "title_vi": "Chinh Phục Chiến Thắng (1:1–12:24)"
+  },
+  {
+   "course_slug": "truyen-ky-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "inheritance",
+     "vi": "cơ nghiệp"
+    },
+    {
+     "en": "allotment",
+     "vi": "sự chia đất"
+    },
+    {
+     "en": "cities of refuge",
+     "vi": "thành ẩn náu"
+    },
+    {
+     "en": "national unity",
+     "vi": "sự hiệp một dân tộc"
+    },
+    {
+     "en": "guarantee of inheritance",
+     "vi": "bảo chứng cơ nghiệp"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Vì sao Đức Chúa Trời chỉ ban cho Y-sơ-ra-ên một phần đất hứa lúc đầu, và điều đó dạy gì về sự thành tín của Ngài?",
+    "Câu chuyện các con gái Xê-lô-phát và chi phái Lê-vi cho thấy nguyên tắc nào trong cách Đức Chúa Trời chia cơ nghiệp?",
+    "Vụ bàn thờ bên sông Giô-đanh suýt gây chiến tranh cho thấy điều gì về cách giữ hiệp một khi có hiểu lầm trong Hội Thánh?"
+   ],
+   "reading": {
+    "bible": [
+     "jos:13"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "dat-hua",
+     "giao-uoc"
+    ]
+   },
+   "series_code": "JOS",
+   "source": "https://nexus.thirdmill.org/series/JOS",
+   "summary_vi": "Bài này xét phần thứ hai của sách Giô-suê (13–22) qua ba bước. Trước hết, ranh giới ban đầu: Đức Chúa Trời định đất cho Y-sơ-ra-ên cả hai bên sông Giô-đanh, dù còn đất chưa chiếm được; chi phái Lê-vi không nhận đất, vì của lễ dâng lên Chúa là cơ nghiệp của họ. Tiếp đó, chia đất cụ thể: Ru-bên, Gát và nửa Ma-na-se ở phía Đông; Giu-đa nhận phần lớn nhất; Ép-ra-im và Ma-na-se nhận đất tốt, gồm các con gái Xê-lô-phát; rồi các chi phái nhỏ và thành ẩn náu của người Lê-vi. Cuối cùng, hiệp một dân tộc: bàn thờ bên sông Giô-đanh suýt gây chiến, nhưng sau đối chất, hai bên hiểu nhau và đặt tên bàn thờ là Chứng Cớ. Bài kết luận: Đấng Christ thừa hưởng mọi sự, và Đức Thánh Linh bảo chứng cơ nghiệp đời đời của chúng ta.",
+   "title_en": "Tribal Inheritances (13:1 - 22:34)",
+   "title_vi": "Đất Thừa Hưởng Của Các Chi Phái (13:1–22:34)"
+  },
+  {
+   "course_slug": "truyen-ky-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    },
+    {
+     "en": "divine benevolence",
+     "vi": "lòng nhân từ của Đức Chúa Trời"
+    },
+    {
+     "en": "covenant renewal",
+     "vi": "sự lập lại giao ước"
+    },
+    {
+     "en": "mediator of the new covenant",
+     "vi": "Đấng trung bảo của giao ước mới"
+    },
+    {
+     "en": "covenant loyalty",
+     "vi": "sự trung tín giao ước"
+    }
+   ],
+   "lesson_no": 4,
+   "questions_vi": [
+    "Ba phân đoạn trong bài diễn văn của Giô-suê ở chương 23 có cấu trúc chung nào, và vì sao phân đoạn cuối chỉ nhắc đến rủa sả?",
+    "Lễ lập lại giao ước tại Si-chem gồm những bước nào, và câu 'còn ta và nhà ta sẽ phục vụ Đức Giê-hô-va' có ý nghĩa gì cho gia đình Cơ Đốc hôm nay?",
+    "Đấng Christ làm Đấng trung bảo của giao ước mới như thế nào, và vì sao lời kêu gọi trung tín vẫn cần thiết dù sự chuộc tội đã trọn vẹn?"
+   ],
+   "reading": {
+    "bible": [
+     "jos:24"
+    ],
+    "catechism": [],
+    "encyclopedia": [
+     "giao-uoc",
+     "giao-uoc-moi"
+    ]
+   },
+   "series_code": "JOS",
+   "source": "https://nexus.thirdmill.org/series/JOS",
+   "summary_vi": "Bài cuối xét phần thứ ba của sách Giô-suê (23–24). Trước hết, lời cảnh cáo giao ước: Giô-suê triệu tập toàn dân, nhắc lòng nhân từ của Đức Chúa Trời — Ngài đã chiến đấu cho họ và chia đất làm cơ nghiệp — rồi cảnh cáo chớ thờ thần khác, vì bất trung đem lại rủa sả, mất đất và lưu đày. Tiếp đó, lễ lập lại giao ước tại Si-chem: Giô-suê ôn lại lịch sử cứu rỗi, kêu gọi dân chọn hôm nay sẽ thờ phượng ai, dân thề chỉ thờ Đức Giê-hô-va, lời thề được ghi với hòn đá làm chứng. Cuối cùng, cái chết của Giô-suê và Ê-lê-a-sa. Về ứng dụng, Đấng Christ là Đấng trung bảo giao ước mới đã hứa trong Giê-rê-mi 31, Đấng đã chuộc tội chúng ta, và lời kêu gọi trung tín vẫn giá trị cho Hội Thánh hôm nay.",
+   "title_en": "Covenant Loyalty (23:1 - 24:33)",
+   "title_vi": "Trung Tín Giao Ước (23:1–24:33)"
+  },
+  {
+   "course_slug": "truyen-ky-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "kingship",
+     "vi": "vương quyền"
+    },
+    {
+     "en": "prophet",
+     "vi": "tiên tri"
+    },
+    {
+     "en": "Davidic covenant",
+     "vi": "giao ước Đa-vít"
+    },
+    {
+     "en": "kingdom of God",
+     "vi": "Vương quốc Đức Chúa Trời"
+    },
+    {
+     "en": "heir of David",
+     "vi": "con cháu Đa-vít"
+    }
+   ],
+   "lesson_no": 1,
+   "questions_vi": [
+    "Vì sao sách lại mang tên Sa-mu-ên dù ông chỉ xuất hiện trong phần đầu, và ba chức vụ của ông có ý nghĩa gì?",
+    "Ba phần lớn của sách Sa-mu-ên là gì, và mục đích bao quát của tác giả là gì khi kể lại sự chuyển đổi sang chế độ vua?",
+    "Theo bài học, Chúa Giê-xu làm trọn giao ước Đa-vít như thế nào, và điều đó đem lại hy vọng gì cho chúng ta hôm nay?"
+   ],
+   "reading": {
+    "bible": [
+     "1sam:1"
+    ],
+    "catechism": [
+     26
+    ],
+    "encyclopedia": [
+     "nuoc-duc-chua-troi"
+    ]
+   },
+   "series_code": "SAM",
+   "source": "https://nexus.thirdmill.org/series/SAM",
+   "summary_vi": "Bài mở đầu giới thiệu sách Sa-mu-ên. Trước hết, bối cảnh: sách ghi lịch sử Y-sơ-ra-ên từ khi Sa-mu-ên ra đời đến lời cuối Đa-vít; sách mang tên Sa-mu-ên vì ông định hình vương quốc, là tiên tri, thầy tế lễ và quan xét; ba nhân vật chính: Sa-mu-ên đưa dân vào thời vua, Sau-lơ thất bại làm vua đầu tiên, Đa-vít lập vương triều đời đời. Tiếp đó, bố cục ba phần: thời mở đầu Sa-mu-ên (1 Sa-mu-ên 1–7), vương quyền thất bại Sau-lơ (1 Sa-mu-ên 8 – 2 Sa-mu-ên 1), và vương quyền bền vững của Đa-vít (2 Sa-mu-ên 2–24). Mục đích bao quát: sự chuyển đổi sang chế độ vua đạt đỉnh nơi giao ước Đức Chúa Trời lập với Đa-vít. Cuối cùng, Đấng Christ, con cháu công chính cuối cùng của Đa-vít, làm trọn mọi giao ước và Vương quốc Đức Chúa Trời.",
+   "title_en": "An Introduction to Samuel",
+   "title_vi": "Giới Thiệu Sách Sa-mu-ên"
+  },
+  {
+   "course_slug": "truyen-ky-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "judge",
+     "vi": "quan xét"
+    },
+    {
+     "en": "anointing",
+     "vi": "sự xức dầu"
+    },
+    {
+     "en": "disobedience",
+     "vi": "sự bất tuân"
+    },
+    {
+     "en": "rejection",
+     "vi": "sự loại bỏ"
+    },
+    {
+     "en": "covenant",
+     "vi": "giao ước"
+    }
+   ],
+   "lesson_no": 2,
+   "questions_vi": [
+    "Đời sống Sa-mu-ên từ lúc còn thơ đến khi làm quan xét cho thấy Đức Chúa Trời chuẩn bị người lãnh đạo như thế nào?",
+    "Dân Y-sơ-ra-ên xin vua 'giống các dân tộc' là từ chối ai, và Sau-lơ đã bất tuân ra sao đến nỗi bị Chúa loại bỏ?",
+    "Theo bài học, Đức Chúa Trời dẫn dắt Y-sơ-ra-ên đi đúng hướng như thế nào ngay cả qua một vị vua thất bại như Sau-lơ?"
+   ],
+   "reading": {
+    "bible": [
+     "1sam:8"
+    ],
+    "catechism": [
+     7
+    ],
+    "encyclopedia": [
+     "tien-tri"
+    ]
+   },
+   "series_code": "SAM",
+   "source": "https://nexus.thirdmill.org/series/SAM",
+   "summary_vi": "Bài này xét hai phần đầu sách Sa-mu-ên. Trước hết, thời mở đầu của Sa-mu-ên (1 Sa-mu-ên 1–7): An-ne cầu xin con rồi dâng Sa-mu-ên cho Chúa, Sa-mu-ên lớn lên bên Ê-li trong khi các con trai Ê-li làm điều gian ác, Chúa kêu gọi Sa-mu-ên, hòm giao ước bị bắt rồi trả về, và Sa-mu-ên lãnh đạo dân. Tiếp đó, vương quyền thất bại của Sau-lơ (1 Sa-mu-ên 8 – 2 Sa-mu-ên 1): dân xin vua giống các dân tộc, Sa-mu-ên cảnh cáo rồi xức dầu Sau-lơ, nhưng Sau-lơ bất tuân và bị Chúa loại bỏ; Đa-vít được xức dầu, thắng Gô-li-át, rồi trốn chạy cơn ghen Sau-lơ cho đến khi Sau-lơ tử trận. Bài cho thấy Đức Chúa Trời vẫn dẫn dắt Y-sơ-ra-ên đi đúng hướng qua Sa-mu-ên lẫn Sau-lơ, và mọi giao ước của Ngài đều hướng về Vương quốc Ngài lập trong Đấng Christ.",
+   "title_en": "Samuel and Saul",
+   "title_vi": "Sa-mu-ên Và Sau-lơ"
+  },
+  {
+   "course_slug": "truyen-ky-cuu-uoc",
+   "key_terms": [
+    {
+     "en": "dynasty",
+     "vi": "vương triều"
+    },
+    {
+     "en": "Davidic covenant",
+     "vi": "giao ước Đa-vít"
+    },
+    {
+     "en": "repentance",
+     "vi": "sự ăn năn"
+    },
+    {
+     "en": "blessing and curse",
+     "vi": "phước lành và rủa sả"
+    },
+    {
+     "en": "righteous heir",
+     "vi": "Đấng thừa hưởng công chính"
+    }
+   ],
+   "lesson_no": 3,
+   "questions_vi": [
+    "Đức Chúa Trời hứa gì với Đa-vít trong 2 Sa-mu-ên 7:16, và lời hứa ấy liên hệ thế nào với phước lành ban đầu trong triều đại ông?",
+    "Tội lỗi của Đa-vít với Bát-sê-ba và những rối loạn trong gia đình ông dạy gì về giới hạn của ngay cả vị vua tốt nhất?",
+    "Theo bài học, vì sao bốn chương cuối (2 Sa-mu-ên 21–24) vẫn khẳng định triều đại Đa-vít đứng vững, và Chúa Giê-xu làm trọn lời hứa ấy như thế nào?"
+   ],
+   "reading": {
+    "bible": [
+     "2sam:7"
+    ],
+    "catechism": [
+     26
+    ],
+    "encyclopedia": [
+     "giao-uoc"
+    ]
+   },
+   "series_code": "SAM",
+   "source": "https://nexus.thirdmill.org/series/SAM",
+   "summary_vi": "Bài này xét phần cuối sách Sa-mu-ên, triều đại Đa-vít (2 Sa-mu-ên 2–24), qua ba bước. Trước hết, phước lành ban đầu: Đa-vít làm vua Giu-đa rồi toàn dân, đem hòm giao ước về Giê-ru-sa-lem, Đức Chúa Trời hứa nhà Đa-vít làm vương triều đời đời (2 Sa-mu-ên 7:16). Tiếp đó, rủa sả về sau: Đa-vít phạm tội với Bát-sê-ba và giết U-ri, rồi gia đình rối loạn khi Áp-sa-lôm nổi loạn, cho thấy ngay cả vị vua tốt nhất cũng thất bại. Cuối cùng, ơn ích còn lại: bốn chương cuối ghi lời trăn trối của Đa-vít và những mặc khải xác nhận triều đại ông vẫn đứng vững, vì Đức Chúa Trời không bẻ gãy lời hứa. Bài kết luận: Chúa Giê-xu, con cháu công chính của Đa-vít, thừa hưởng ngai vàng cuối cùng, làm trọn mọi giao ước và Vương quốc của Đức Chúa Trời.",
+   "title_en": "King David",
+   "title_vi": "Vua Đa-vít"
   }
  ]
 }
