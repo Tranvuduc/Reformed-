@@ -45142,5 +45142,60 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Xô-phô-ni – Ma-la-chi"
+ },
+ {
+  "id": "poole-chu-thich-da-ni-en-o-se-gio-en",
+  "file": "translations/poole-chu-thich-da-ni-en-o-se-gio-en.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — ĐA-NI-ÊN, Ô-SÊ & GIÔ-ÊN",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Daniel, Hosea & Joel (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Đa-ni-ên",
+   "Ô-sê",
+   "Giô-ên"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Đa-ni-ên, Ô-sê & Giô-ên"
+ },
+ {
+  "id": "poole-chu-thich-a-mot-ha-ba-cuc",
+  "file": "translations/poole-chu-thich-a-mot-ha-ba-cuc.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — A-MỐT, ÁP-ĐIA, GIÔ-NA, MI-CHÊ, NA-HUM & HA-BA-CÚC",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Amos, Obadiah, Jonah, Micah, Nahum & Habakkuk (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "A-mốt",
+   "Áp-đia",
+   "Giô-na",
+   "Mi-chê",
+   "Na-hum",
+   "Ha-ba-cúc"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích A-mốt – Ha-ba-cúc"
+ },
+ {
+  "id": "poole-chu-thich-ma-thi-o-14-28",
+  "file": "translations/poole-chu-thich-ma-thi-o-14-28.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — MA-THI-Ơ 14–28",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Matthew 14–28 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Ma-thi-ơ"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Ma-thi-ơ 14–28"
  }
 ]
