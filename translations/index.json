@@ -45026,5 +45026,69 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Sa-mu-ên"
+ },
+ {
+  "id": "poole-chu-thich-thi-thien-1-75",
+  "file": "translations/poole-chu-thich-thi-thien-1-75.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — THI THIÊN 1–75",
+  "orig": "Annotations upon the Holy Bible, Vol. I: Psalms 1–75 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Thi Thiên"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Thi Thiên 1–75"
+ },
+ {
+  "id": "poole-chu-thich-gieremi-1-25",
+  "file": "translations/poole-chu-thich-gieremi-1-25.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — GIÊ-RÊ-MI 1–25",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Jeremiah 1–25 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Giê-rê-mi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Giê-rê-mi 1–25"
+ },
+ {
+  "id": "poole-chu-thich-gieremi-26-52",
+  "file": "translations/poole-chu-thich-gieremi-26-52.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — GIÊ-RÊ-MI 26–52",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Jeremiah 26–52 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Giê-rê-mi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Giê-rê-mi 26–52"
+ },
+ {
+  "id": "poole-chu-thich-exechien-24-48",
+  "file": "translations/poole-chu-thich-exechien-24-48.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — Ê-XÊ-CHI-ÊN 24–48",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Ezekiel 24–48 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Ê-xê-chi-ên"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Ê-xê-chi-ên 24–48"
  }
 ]
