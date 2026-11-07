@@ -7,7 +7,10 @@ builder emits a single static index (data/search-index.json) covering the
 book catalogue (validated against the sitemap — no dead links), the Bible
 (66 books + 1,189 chapter summaries), Catechism, Encyclopedia, Daily Grace,
 Answers, Sermons, Hymns, Journal and Academy courses/lessons, plus the
-search page at /tim-kiem/ that queries it client-side.
+search page at /tim-kiem/ that queries it client-side. Search v2 (2026-11-07):
+items also carry a body field ("b") — devotion text, hymn lyrics + tune,
+catechism answers, encyclopedia bodies, answer bodies — so body words are
+findable; title hits rank above subtitle, subtitle above body.
 """
 import json, re, html, pathlib, urllib.request
 
@@ -22,9 +25,16 @@ def alive(url):
     return (BASE + url) in live_urls
 
 items = []
-def add(t, s, u, g):
+def add(t, s, u, g, b=""):
+    # "b" is body text: searched (lowest weight) but never shown as the
+    # card title/subtitle. Added 2026-11-07 (search v2): the v1 index only
+    # matched title+subtitle, so a word inside a devotion, a hymn's lyrics
+    # or a tune name (e.g. NEW BRITAIN) found nothing.
     if t and u:
-        items.append({"t": t, "s": s or "", "u": u, "g": g})
+        it = {"t": t, "s": s or "", "u": u, "g": g}
+        if b:
+            it["b"] = b[:2500]
+        items.append(it)
 
 # ---- books (live catalogue, sitemap-validated) ----
 lite_path = ROOT / "translations/index-lite.json"
@@ -41,15 +51,24 @@ if txt_list.exists():
     txt_bases = {ln.strip()[:-4] for ln in txt_list.read_text(encoding="utf-8").splitlines()
                  if ln.strip().endswith(".txt")}
 nb = nr = 0
+nskip = 0
 for b in lite:
     u = f"/ban-dich/{b['slug']}.html"
+    topics = " · ".join(b.get("topics") or [])
     if alive(u):
-        add(b["short"], b.get("author", ""), u, "Sách"); nb += 1
+        add(b["short"], b.get("author", ""), u, "Sách", topics); nb += 1
     else:
         base = b["slug"].rsplit("/", 1)[-1]
         if base in txt_bases:
-            add(b["short"], b.get("author", ""), f"/reader.html?id=vn/{base}", "Sách"); nr += 1
-print(f"books indexed: {nb} landing pages + {nr} reader links of {len(lite)}")
+            add(b["short"], b.get("author", ""), f"/reader.html?id=vn/{base}", "Sách", topics); nr += 1
+        else:
+            nskip += 1
+print(f"books indexed: {nb} landing pages + {nr} reader links of {len(lite)} "
+      f"({nskip} catalogue entries have neither a landing page nor a txt file)")
+sitemap_only = sorted({u.replace(BASE, "") for u in live_urls if "/ban-dich/" in u}
+                      - {i["u"] for i in items if i["g"] == "Sách"})
+print(f"note: {len(sitemap_only)} /ban-dich/ pages in the sitemap are NOT in the "
+      f"catalogue (index-lite) — they are invisible to book search as landing pages")
 
 # ---- Bible books + chapter summaries ----
 books66 = json.loads((APP / "data/books.json").read_text(encoding="utf-8"))
@@ -60,31 +79,34 @@ cs = json.loads((ROOT / "data/chapter-summaries.json").read_text(encoding="utf-8
 for key, v in cs.items():
     bid, ch = key.rsplit(":", 1)
     add(f"{names.get(bid, bid)} {ch}", v.get("summary_vi", "")[:160],
-        f"/kinh-thanh/{bid}/{ch}.html", "Kinh Thánh")
+        f"/kinh-thanh/{bid}/{ch}.html", "Kinh Thánh", v.get("summary_vi", ""))
 print(f"bible indexed: {len(books66)} books + {len(cs)} chapters")
 
 # ---- catechism ----
 cat = json.loads((ROOT / "data/catechism-wsc.json").read_text(encoding="utf-8"))
 for q in cat["questions"]:
     add(f"Câu {q['number']}: {q['question_vi']}", q["answer_vi"][:110],
-        f"/giao-ly/cau-{q['number']}.html", "Giáo Lý")
+        f"/giao-ly/cau-{q['number']}.html", "Giáo Lý", q["answer_vi"])
 
 # ---- encyclopedia ----
 enc = json.loads((ROOT / "data/encyclopedia.json").read_text(encoding="utf-8"))
 for e in enc["entries"]:
     add(e["term_vi"], f"{e.get('term_en','')} — {e['definition_short_vi'][:90]}",
-        f"/bach-khoa/{e['slug']}.html", "Bách Khoa")
+        f"/bach-khoa/{e['slug']}.html", "Bách Khoa", e.get("body_vi") or "")
 
 # ---- devotions ----
 dev = json.loads((ROOT / "data/devotions.json").read_text(encoding="utf-8"))
 for d in dev["entries"]:
+    body = " ".join(d.get("paras") or []) + " " + (d.get("summary") or "") \
+        + " " + (d.get("reflection_question") or "") + " " + (d.get("prayer") or "")
     add(d["title"], f"Tĩnh nguyện {d['day']}/{d['month']} · {d.get('ref','')}",
-        f"/suy-ngam/{d['month']:02d}-{d['day']:02d}.html", "Tĩnh Nguyện")
+        f"/suy-ngam/{d['month']:02d}-{d['day']:02d}.html", "Tĩnh Nguyện", body)
 
 # ---- answers ----
 ans = json.loads((ROOT / "data/answers.json").read_text(encoding="utf-8"))
 for a in ans["entries"]:
-    add(a["question_vi"], a["answer_short_vi"][:110], f"/hoi-dap/{a['slug']}.html", "Hỏi Đáp")
+    add(a["question_vi"], a["answer_short_vi"][:110], f"/hoi-dap/{a['slug']}.html",
+        "Hỏi Đáp", " ".join(a.get("body_vi") or []))
 
 # ---- sermons ----
 ser = json.loads((ROOT / "data/sermons.json").read_text(encoding="utf-8"))
@@ -99,12 +121,32 @@ for s in ser["collections"]:
 # ---- hymns ----
 hym = json.loads((ROOT / "data/hymns.json").read_text(encoding="utf-8"))
 for h in hym["entries"]:
-    add(h["title_vi"], f"{h['title_en']} · {h['words_by']}", f"/thanh-ca/{h['slug']}.html", "Thánh Ca")
+    def _flat(verses):
+        return " ".join(" ".join(v) for v in (verses or []))
+    hymn_body = " ".join(x for x in [
+        h.get("tune") or "", h.get("tune_by") or "", h.get("meter") or "",
+        _flat(h.get("vi")), _flat(h.get("en"))] if x)
+    add(h["title_vi"], f"{h['title_en']} · {h['words_by']}", f"/thanh-ca/{h['slug']}.html",
+        "Thánh Ca", hymn_body)
 
 # ---- journal ----
 jou = json.loads((ROOT / "data/journal.json").read_text(encoding="utf-8"))
+def _txt(v):
+    # prose fields come as plain strings, paragraph lists, or (key_terms)
+    # lists of {term, def} dicts — flatten all of them to searchable text
+    if isinstance(v, list):
+        parts = []
+        for x in v:
+            if isinstance(x, dict):
+                parts += [str(y) for y in x.values()]
+            else:
+                parts.append(str(x))
+        return " ".join(parts)
+    return v or ""
+
 for a in jou["articles"]:
-    add(a["title_vi"], a["author"], f"/tap-chi/{a['slug']}.html", "Tạp Chí")
+    add(a["title_vi"], a["author"], f"/tap-chi/{a['slug']}.html", "Tạp Chí",
+        _txt(a.get("intro_vi")) + " " + _txt(a.get("excerpt_vi")))
 
 # ---- church directory ----
 chu = json.loads((ROOT / "data/churches.json").read_text(encoding="utf-8"))
@@ -123,7 +165,8 @@ comp = json.loads((ROOT / "data/thirdmill-companions.json").read_text(encoding="
 for c in comp["companions"]:
     add(c.get("title_vi") or c.get("title_en", ""),
         f"Bài học · {course_titles.get(c['course_slug'], '')} · {c.get('title_en','')} · Thirdmill",
-        f"/hoc-vien/khoa/{c['course_slug']}/", "Học Viện")
+        f"/hoc-vien/khoa/{c['course_slug']}/", "Học Viện",
+        _txt(c.get("summary_vi")) + " " + _txt(c.get("key_terms")))
 
 out = {"generated": "2026-11-07", "count": len(items), "items": items}
 (ROOT / "data/search-index.json").write_text(
@@ -180,7 +223,7 @@ SEARCH_JS = """
         status = document.getElementById("status"), INDEX = null, cache = [];
     function prepare() {
       cache = INDEX.items.map(function (it) {
-        return { it: it, nt: norm(it.t), ns: norm(it.s) };
+        return { it: it, nt: norm(it.t), ns: norm(it.s), nb: norm(it.b || "") };
       });
     }
     function esc(s) {
@@ -195,14 +238,21 @@ SEARCH_JS = """
       if (!INDEX) { status.textContent = "Đang tải chỉ mục tìm kiếm…"; return; }
       var phrase = words.join(" "), groups = {}, total = 0;
       cache.forEach(function (c) {
-        var hay = c.nt + " " + c.ns, score = 0, ok = true;
+        // Title 3, subtitle 2, body text 1 per word — a body-only hit still
+        // finds the page (devotion text, hymn lyrics, tune name), but a
+        // title hit always ranks above it.
+        var hay = c.nt + " " + c.ns + " " + c.nb, score = 0, ok = true, bodyOnly = true;
         for (var i = 0; i < words.length; i++) {
           if (hay.indexOf(words[i]) === -1) { ok = false; break; }
-          score += c.nt.indexOf(words[i]) !== -1 ? 2 : 1;
+          if (c.nt.indexOf(words[i]) !== -1) { score += 3; bodyOnly = false; }
+          else if (c.ns.indexOf(words[i]) !== -1) { score += 2; bodyOnly = false; }
+          else score += 1;
         }
         if (!ok) return;
         if (c.nt.indexOf(phrase) !== -1) score += 3;
-        (groups[c.it.g] = groups[c.it.g] || []).push({ it: c.it, score: score });
+        else if (c.ns.indexOf(phrase) !== -1) score += 2;
+        else if (c.nb.indexOf(phrase) !== -1) score += 1;
+        (groups[c.it.g] = groups[c.it.g] || []).push({ it: c.it, score: score, bodyOnly: bodyOnly });
         total++;
       });
       if (!total) {
@@ -223,7 +273,11 @@ SEARCH_JS = """
         list.slice(0, 10).forEach(function (r) {
           var a = document.createElement("a");
           a.className = "qa-card"; a.href = r.it.u;
-          a.innerHTML = "<h3>" + esc(r.it.t) + "</h3>" + (r.it.s ? "<p>" + esc(r.it.s) + "</p>" : "");
+          // Body-only match: show where it matched instead of the generic
+          // subtitle, so the result explains itself.
+          var sub = r.it.s;
+          if (r.bodyOnly && r.it.b) sub = "…" + r.it.b.slice(0, 110) + "…";
+          a.innerHTML = "<h3>" + esc(r.it.t) + "</h3>" + (sub ? "<p>" + esc(sub) + "</p>" : "");
           wrap.appendChild(a);
         });
         box.appendChild(wrap);

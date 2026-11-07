@@ -562,7 +562,7 @@
         status = document.getElementById("status"), INDEX = null, cache = [];
     function prepare() {
       cache = INDEX.items.map(function (it) {
-        return { it: it, nt: norm(it.t), ns: norm(it.s) };
+        return { it: it, nt: norm(it.t), ns: norm(it.s), nb: norm(it.b || "") };
       });
     }
     function esc(s) {
@@ -577,14 +577,21 @@
       if (!INDEX) { status.textContent = "Đang tải chỉ mục tìm kiếm…"; return; }
       var phrase = words.join(" "), groups = {}, total = 0;
       cache.forEach(function (c) {
-        var hay = c.nt + " " + c.ns, score = 0, ok = true;
+        // Title 3, subtitle 2, body text 1 per word — a body-only hit still
+        // finds the page (devotion text, hymn lyrics, tune name), but a
+        // title hit always ranks above it.
+        var hay = c.nt + " " + c.ns + " " + c.nb, score = 0, ok = true, bodyOnly = true;
         for (var i = 0; i < words.length; i++) {
           if (hay.indexOf(words[i]) === -1) { ok = false; break; }
-          score += c.nt.indexOf(words[i]) !== -1 ? 2 : 1;
+          if (c.nt.indexOf(words[i]) !== -1) { score += 3; bodyOnly = false; }
+          else if (c.ns.indexOf(words[i]) !== -1) { score += 2; bodyOnly = false; }
+          else score += 1;
         }
         if (!ok) return;
         if (c.nt.indexOf(phrase) !== -1) score += 3;
-        (groups[c.it.g] = groups[c.it.g] || []).push({ it: c.it, score: score });
+        else if (c.ns.indexOf(phrase) !== -1) score += 2;
+        else if (c.nb.indexOf(phrase) !== -1) score += 1;
+        (groups[c.it.g] = groups[c.it.g] || []).push({ it: c.it, score: score, bodyOnly: bodyOnly });
         total++;
       });
       if (!total) {
@@ -605,7 +612,11 @@
         list.slice(0, 10).forEach(function (r) {
           var a = document.createElement("a");
           a.className = "qa-card"; a.href = r.it.u;
-          a.innerHTML = "<h3>" + esc(r.it.t) + "</h3>" + (r.it.s ? "<p>" + esc(r.it.s) + "</p>" : "");
+          // Body-only match: show where it matched instead of the generic
+          // subtitle, so the result explains itself.
+          var sub = r.it.s;
+          if (r.bodyOnly && r.it.b) sub = "…" + r.it.b.slice(0, 110) + "…";
+          a.innerHTML = "<h3>" + esc(r.it.t) + "</h3>" + (sub ? "<p>" + esc(sub) + "</p>" : "");
           wrap.appendChild(a);
         });
         box.appendChild(wrap);
