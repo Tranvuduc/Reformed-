@@ -1,0 +1,193 @@
+{
+ "module": "sermon-library",
+ "label": "Nội dung AI soạn, chưa duyệt",
+ "source": "Danh mục hợp nhất 2026-11-07: 9 bài giảng đã có trang tiếng Việt trên trang (toàn văn trong trình đọc, từ toolchain thư viện), 5 bài giảng kinh điển chỉ đăng dữ kiện + liên kết toàn văn tại nguồn (Build Guide §7.7), 4 tuyển tập trong thư viện sách. Phần giới thiệu tiếng Việt do AI soạn, Molly kiểm tra.",
+ "entries": [
+  {
+   "slug": "tinh-bat-bien-cua-duc-chua-troi",
+   "title_en": "The Immutability of God",
+   "title_vi": "Tính Bất Biến Của Đức Chúa Trời",
+   "preacher": "Charles H. Spurgeon",
+   "preacher_years": "1834–1892",
+   "sermon_no": "Số 1",
+   "date_vi": "7 tháng 1, 1855",
+   "venue": "New Park Street Chapel, London",
+   "text_ref_vi": "Ma-la-chi 3:6",
+   "text_passage": "mal:3",
+   "source_name": "The Spurgeon Library (spurgeon.org)",
+   "source_url": "https://www.spurgeon.org/sermons/the-immutability-of-god",
+   "basis": "public-domain — bài giảng xuất bản năm 1855; tác giả mất năm 1892",
+   "intro_vi": [
+    "Bài giảng đầu tiên trong tuyển tập New Park Street Pulpit, được giảng khi Spurgeon mới hai mươi tuổi. Từ câu gốc ngắn ngủi “Ta là Đức Giê-hô-va, Ta không hề thay đổi”, ông triển khai một trong những giáo lý an ủi nhất của đức tin: Đức Chúa Trời không thay đổi trong bản thể, trong các thuộc tính, trong chương trình, trong lời hứa — và cả trong lời hăm dọa của Ngài.",
+    "Điểm nhấn của bài là sự tương phản giữa muôn vật đổi thay và Đấng không hề đổi thay: vì Ngài không thay đổi, con cái Gia-cốp không bị diệt vong, và sự cứu rỗi của tín hữu được đặt trên nền không lay chuyển."
+   ]
+  },
+  {
+   "slug": "su-lua-chon",
+   "title_en": "Election",
+   "title_vi": "Sự Lựa Chọn Của Đức Chúa Trời",
+   "preacher": "Charles H. Spurgeon",
+   "preacher_years": "1834–1892",
+   "sermon_no": "Số 41–42",
+   "date_vi": "2 tháng 9, 1855",
+   "venue": "New Park Street Chapel, London",
+   "text_ref_vi": "2 Tê-sa-lô-ni-ca 2:13–14",
+   "text_passage": "2thes:2",
+   "source_name": "The Spurgeon Library (spurgeon.org)",
+   "source_url": "https://www.spurgeon.org/sermons/election",
+   "basis": "public-domain — bài giảng xuất bản năm 1855; tác giả mất năm 1892",
+   "intro_vi": [
+    "Một trong những bài giảng sớm và dứt khoát nhất của Spurgeon về ân điển chủ quyền. Dựa trên lời sứ đồ Phao-lô — “Đức Chúa Trời đã chọn anh em từ đầu” — ông trình bày bốn lẽ thật: sự lựa chọn là thật, là tuyệt đối không dựa vào công đức con người, là từ đời đời, và mang tính cá nhân.",
+    "Spurgeon không né tránh giáo lý thường bị cho là “khó nuốt” này; ông cho rằng nếu Kinh Thánh dạy rõ ràng, người giảng phải rao giảng rõ ràng — và chính giáo lý này làm vinh hiển ân điển nhưng không của Đức Chúa Trời."
+   ]
+  },
+  {
+   "slug": "gia-cop-va-e-sau",
+   "title_en": "Jacob and Esau",
+   "title_vi": "Gia-cốp Và Ê-sau",
+   "preacher": "Charles H. Spurgeon",
+   "preacher_years": "1834–1892",
+   "sermon_no": "Số 239",
+   "date_vi": "16 tháng 1, 1859",
+   "venue": "New Park Street Chapel, London",
+   "text_ref_vi": "Rô-ma 9:13",
+   "text_passage": "rom:9",
+   "source_name": "The Spurgeon Library (spurgeon.org)",
+   "source_url": "https://www.spurgeon.org/sermons/jacob-and-esau",
+   "basis": "public-domain — bài giảng xuất bản năm 1859; tác giả mất năm 1892",
+   "intro_vi": [
+    "“Ta yêu Gia-cốp, ghét Ê-sau” — câu Kinh Thánh thường bị viện dẫn để chống đối giáo lý lựa chọn trở thành chính đề tài của bài giảng. Spurgeon lập luận rằng sự phân biệt giữa hai anh em sinh đôi, trước khi họ làm điều lành hay điều dữ nào, cho thấy tình yêu của Đức Chúa Trời đặt trên Gia-cốp thuần túy là ân điển chủ quyền.",
+    "Bài giảng cũng bác bỏ cách hiểu “lựa chọn theo dân tộc” thay vì cá nhân, và kết thúc bằng lời kêu gọi người nghe xét xem mình có đang ở trong ân điển ấy hay không."
+   ]
+  },
+  {
+   "slug": "su-lua-chon-va-su-nen-thanh",
+   "title_en": "Election and Holiness",
+   "title_vi": "Sự Lựa Chọn Và Sự Nên Thánh",
+   "preacher": "Charles H. Spurgeon",
+   "preacher_years": "1834–1892",
+   "sermon_no": "Số 303",
+   "date_vi": "11 tháng 3, 1860",
+   "venue": "Exeter Hall, London",
+   "text_ref_vi": "Phục Truyền Luật Lệ Ký 10:14–16",
+   "text_passage": "deb:10",
+   "source_name": "The Spurgeon Library (spurgeon.org)",
+   "source_url": "https://www.spurgeon.org/sermons/election-and-holiness",
+   "basis": "public-domain — bài giảng xuất bản năm 1860; tác giả mất năm 1892",
+   "intro_vi": [
+    "Bài giảng trả lời lời cáo buộc quen thuộc nhất chống lại giáo lý lựa chọn: rằng nó khiến người ta sống buông thả. Từ Phục Truyền Luật Lệ Ký 10, Spurgeon cho thấy Đức Chúa Trời chọn dân Ngài không phải để họ cứ ở trong tội, nhưng để cắt bì lòng họ và sống thánh khiết — mục đích của sự lựa chọn chính là sự nên thánh.",
+    "Đây là bài giảng cân bằng cần thiết bên cạnh các bài về chủ quyền: ân điển chọn lựa và đời sống thánh khiết không bao giờ tách rời nhau."
+   ]
+  },
+  {
+   "slug": "ai-la-nguoi-duoc-chon",
+   "title_en": "Who are Elected?",
+   "title_vi": "Ai Là Người Được Chọn?",
+   "preacher": "Charles H. Spurgeon",
+   "preacher_years": "1834–1892",
+   "sermon_no": "Số 638",
+   "date_vi": "9 tháng 7, 1865",
+   "venue": "Metropolitan Tabernacle, London",
+   "text_ref_vi": "1 Sa-mu-ên 16:12",
+   "text_passage": "1sam:16",
+   "source_name": "The Spurgeon Library (spurgeon.org)",
+   "source_url": "https://www.spurgeon.org/sermons/who-are-elected",
+   "basis": "public-domain — bài giảng xuất bản năm 1865; tác giả mất năm 1892",
+   "intro_vi": [
+    "Nếu Đức Chúa Trời đã chọn dân Ngài từ trước, làm sao một người biết mình có ở trong số đó không? Spurgeon trả lời qua câu chuyện Sa-mu-ên xức dầu cho Đa-vít: người được chọn được nhận biết không bằng suy đoán, nhưng bằng những dấu hiệu của ân điển — tấm lòng mới và tâm thần ngay thẳng mà Đức Thánh Linh đóng ấn.",
+    "Bài giảng hướng người nghe khỏi sự tò mò về những điều kín nhiệm để đến với sự bảo đảm đức tin thực tiễn: Phúc Âm được rao cho mọi người, và ai tin, ăn năn và được đổi mới thì biết mình đã được chọn từ trước muôn đời."
+   ]
+  }
+ ],
+ "collections": [
+  {
+   "title_vi": "Bài Giảng Và Suy Ngẫm Về Tiệc Thánh",
+   "author": "John Owen",
+   "url": "/ban-dich/owen-discourses.html",
+   "note_vi": "Các bài giảng và suy ngẫm về Tiệc Thánh của nhà thần học Thanh Giáo John Owen."
+  },
+  {
+   "title_vi": "Tám Mối Phúc",
+   "author": "Thomas Watson",
+   "url": "/ban-dich/watson-beatitudes.html",
+   "note_vi": "Loạt bài giảng giải nghĩa Tám Mối Phúc (Ma-thi-ơ 5) của Thomas Watson."
+  },
+  {
+   "title_vi": "Cho Đến Khi Ngài Đến",
+   "author": "Charles H. Spurgeon",
+   "url": "/ban-dich/spurgeon-till-he-come.html",
+   "note_vi": "Các bài suy ngẫm quanh bàn Tiệc Thánh của Spurgeon."
+  },
+  {
+   "title_vi": "Cây Sậy Dập",
+   "author": "Richard Sibbes",
+   "url": "/ban-dich/sibbes-bruisedreed.html",
+   "note_vi": "Tác phẩm gây dựng kinh điển từ các bài giảng của Richard Sibbes về Ê-sai 42:3 — an ủi cho những người đức tin yếu đuối."
+  }
+ ],
+ "vi_sermons": [
+  {
+   "title_vi": "Quyền Năng Của Một Tình Yêu Mới",
+   "preacher": "Thomas Chalmers",
+   "text_ref_vi": "1 Giăng 2:15",
+   "local_url": "/bai-giang/chalmers-quyen-nang-cua-mot-tinh-yeu-moi.html",
+   "blurb_vi": "Lòng yêu mến thế gian chỉ được thay thế khi có một tình yêu mới — tình yêu dành cho Chúa."
+  },
+  {
+   "title_vi": "Hãy Ép Người Ta Phải Vào",
+   "preacher": "Charles H. Spurgeon",
+   "text_ref_vi": "Lu-ca 14:23",
+   "local_url": "/bai-giang/compel-them-to-come-in.html",
+   "blurb_vi": "Lời kêu gọi tha thiết dành cho người chưa tin, dựa trên dụ ngôn tiệc lớn."
+  },
+  {
+   "title_vi": "Bạn Có Cầu Nguyện Không?",
+   "preacher": "J. C. Ryle",
+   "text_ref_vi": "",
+   "local_url": "/bai-giang/do-you-pray.html",
+   "blurb_vi": "Bảy lý do vì sao sự cầu nguyện riêng tư rất quan trọng."
+  },
+  {
+   "title_vi": "Tội Nhân Trong Tay Đức Chúa Trời Thạnh Nộ",
+   "preacher": "Jonathan Edwards",
+   "text_ref_vi": "Phục Truyền Luật Lệ Ký 32:35",
+   "local_url": "/bai-giang/edwards-toi-nhan-trong-tay-duc-chua-troi-thanh-no.html",
+   "blurb_vi": "Bài giảng nổi tiếng năm 1741 về sự nghiêm trọng của tội lỗi và sự nhịn nhục của Đức Chúa Trời."
+  },
+  {
+   "title_vi": "Các Con Hãy Chạy Đến Cùng Đấng Christ",
+   "preacher": "Robert Murray M'Cheyne",
+   "text_ref_vi": "",
+   "local_url": "/bai-giang/mccheyne-cac-con-hay-chay-den-cung-dang-christ.html",
+   "blurb_vi": "Những lý do trẻ em nên đến với Đấng Christ ngay, không trì hoãn."
+  },
+  {
+   "title_vi": "Cây Non, Bông Lúa, Hột Chắc",
+   "preacher": "John Newton",
+   "text_ref_vi": "Mác 4:28",
+   "local_url": "/bai-giang/newton-cay-non-bong-lua-hot-chac.html",
+   "blurb_vi": "Ba giai đoạn tăng trưởng của đời sống thuộc linh, từ dụ ngôn hạt giống tự mọc lên."
+  },
+  {
+   "title_vi": "Lời Bênh Vực Thuyết Calvin",
+   "preacher": "Charles H. Spurgeon",
+   "text_ref_vi": "",
+   "local_url": "/bai-giang/spurgeon-loi-benh-vuc-thuyet-calvin.html",
+   "blurb_vi": "Spurgeon giải thích vì sao ông tin các giáo lý ân điển, và gọi đó chính là Phúc Âm."
+  },
+  {
+   "title_vi": "Ý Chí Tự Do — Một Kẻ Nô Lệ",
+   "preacher": "Charles H. Spurgeon",
+   "text_ref_vi": "",
+   "local_url": "/bai-giang/spurgeon-y-chi-tu-do-mot-ke-no-le.html",
+   "blurb_vi": "Về sự nô lệ của ý chí con người khi chưa được ân điển giải cứu."
+  },
+  {
+   "title_vi": "Con Đường Của Ân Điển",
+   "preacher": "George Whitefield",
+   "text_ref_vi": "Giê-rê-mi 8:11",
+   "local_url": "/bai-giang/whitefield-con-duong-cua-an-dien.html",
+   "blurb_vi": "Cảnh báo về sự bình an giả và cách Đức Chúa Trời đem tội nhân đến với Đấng Christ."
+  }
+ ]
+}
