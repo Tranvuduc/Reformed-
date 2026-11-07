@@ -106,6 +106,11 @@ jou = json.loads((ROOT / "data/journal.json").read_text(encoding="utf-8"))
 for a in jou["articles"]:
     add(a["title_vi"], a["author"], f"/tap-chi/{a['slug']}.html", "Tạp Chí")
 
+# ---- church directory ----
+chu = json.loads((ROOT / "data/churches.json").read_text(encoding="utf-8"))
+for e in chu["entries"]:
+    add(e["name"], f"{e.get('address','')} · {e.get('confession','')}", "/danh-ba/", "Hội Thánh")
+
 # ---- academy: courses + lessons ----
 acad = json.loads((ROOT / "data/academy.json").read_text(encoding="utf-8"))
 course_titles = {}
@@ -170,7 +175,7 @@ SEARCH_JS = """
     function norm(s) {
       return (s || "").toLowerCase().normalize("NFD").replace(/[\\u0300-\\u036f]/g, "").replace(/đ/g, "d");
     }
-    var ORDER = ["Kinh Thánh", "Sách", "Giáo Lý", "Bách Khoa", "Tĩnh Nguyện", "Hỏi Đáp", "Học Viện", "Bài Giảng", "Thánh Ca", "Tạp Chí"];
+    var ORDER = ["Kinh Thánh", "Sách", "Giáo Lý", "Bách Khoa", "Tĩnh Nguyện", "Hỏi Đáp", "Học Viện", "Bài Giảng", "Thánh Ca", "Tạp Chí", "Hội Thánh"];
     var input = document.getElementById("q"), box = document.getElementById("results"),
         status = document.getElementById("status"), INDEX = null, cache = [];
     function prepare() {

@@ -1,10 +1,41 @@
 {
  "module": "church-directory",
- "entries": [],
- "source": "Danh bạ chỉ đăng thông tin do chính các Hội Thánh gửi về; trang tiếp nhận đăng ký mở từ 2026-11-07. Mọi yêu cầu sửa hoặc gỡ được xử lý qua email reformedvn@gmail.com.",
+ "source": "Danh sách khởi đầu biên soạn 2026-11-07 từ các danh bạ và nguồn công khai theo chỉ đạo của chủ trang (mỗi mục ghi rõ nguồn); thông tin chưa được các Hội Thánh xác nhận trực tiếp — quy trình sửa/gỡ công khai trên trang. Đăng ký trực tiếp từ Hội Thánh vẫn được tiếp nhận qua reformedvn@gmail.com và sẽ thay thế dữ liệu danh bạ khi có.",
  "regions": [
   "Miền Bắc",
   "Miền Trung",
   "Miền Nam"
+ ],
+ "entries": [
+  {
+   "name": "Thánh đường Bình Chánh — Hội Thánh Tin Lành Trưởng lão Việt Nam",
+   "region": "Miền Nam",
+   "address": "C4/18 bis đường Phạm Hùng, xã Bình Hưng, huyện Bình Chánh, TP. Hồ Chí Minh",
+   "service_times": "",
+   "contact": "",
+   "confession": "Hệ phái Trưởng lão (Cải chính) — trụ sở của Hội Thánh Tin Lành Trưởng lão Việt Nam, hệ phái Calvin, thành viên Hiệp hội các Giáo hội Cải chính Phổ quát (WCRC)",
+   "source_name": "Báo Thái Nguyên / Ban Tôn giáo Chính phủ",
+   "source_url": "https://baothainguyen.vn/chinh-tri/200812/viet-nam-cong-nhan-hai-to-chuc-ton-giao-moi-3674920/"
+  },
+  {
+   "name": "Hope Presbyterian Church in Vietnam",
+   "region": "Miền Nam",
+   "address": "Đường Phạm Hùng, TP. Hồ Chí Minh (địa chỉ chi tiết trên trang Facebook của Hội Thánh)",
+   "service_times": "",
+   "contact": "Điện thoại: 0975 032 785 · Facebook: facebook.com/686181964748383",
+   "confession": "Hệ phái Trưởng lão (Presbyterian)",
+   "source_name": "Danh bạ nhà thờ prayers1.com",
+   "source_url": "https://www.prayers1.com/VN/Ho-Chi-Minh-City/686181964748383/Hope-Presbyterian-Church-in-Vietnam"
+  },
+  {
+   "name": "Hội Thánh Tin Lành Hàn Quốc tại Hà Nội (Korean Protestant Church in Hanoi)",
+   "region": "Miền Bắc",
+   "address": "Tòa nhà OTC 3D, khu đô thị Cổ Nhuế – Xuân Đỉnh, quận Bắc Từ Liêm, Hà Nội",
+   "service_times": "",
+   "contact": "",
+   "confession": "Trưởng lão (cộng đồng Hàn Quốc; thờ phượng bằng tiếng Hàn)",
+   "source_name": "Ban Tôn giáo Chính phủ (religion.vn)",
+   "source_url": "https://religion.vn/international/special-easter-celebration-for-korean-presbytarians-in-hanoi-postmrRXzxZqD6.html"
+  }
  ]
 }

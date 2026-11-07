@@ -85,10 +85,16 @@ region_html = []
 for r in regions:
     items = [e for e in entries if e.get("region") == r]
     if items:
-        cards = "".join(
-            f'<div class="qa-card"><h3>{esc(e["name"])}</h3>'
-            f'<p>{esc(e.get("address", ""))}<br>{esc(e.get("service_times", ""))}<br>{esc(e.get("contact", ""))}</p></div>'
-            for e in items)
+        def card(e):
+            lines = [esc(e.get(k, "")) for k in ("address", "service_times", "contact", "confession") if e.get(k)]
+            src = ""
+            if e.get("source_url"):
+                src = (f'<p style="margin-top:8px;font-size:13px">Nguồn: <a href="{esc(e["source_url"])}" '
+                       f'target="_blank" rel="noopener">{esc(e.get("source_name", "nguồn công khai"))}</a>'
+                       f' · Thông tin công khai, chưa xác nhận trực tiếp với Hội Thánh — Hội Thánh có thể yêu cầu sửa hoặc gỡ bất cứ lúc nào.</p>')
+            return (f'<div class="qa-card"><h3>{esc(e["name"])}</h3>'
+                    f'<p>{"<br>".join(lines)}</p>{src}</div>')
+        cards = "".join(card(e) for e in items)
         region_html.append(f'<div class="cat-head" style="margin-top:30px"><div class="kicker">{esc(r)}</div></div><div class="qa-cards">{cards}</div>')
     else:
         region_html.append(f'<div class="cat-head" style="margin-top:30px"><div class="kicker">{esc(r)}</div></div><p class="empty">Chưa có Hội Thánh nào đăng ký trong khu vực này.</p>')
@@ -104,7 +110,7 @@ page = f"""{head("Danh Bạ Hội Thánh Cải Chánh | Reformed Vietnam",
   <div class="cat-head">
     <div class="kicker">Danh Bạ Hội Thánh</div>
     <h1>Hội Thánh Cải Chánh Gần Bạn</h1>
-    <p style="color:var(--ink-soft);max-width:640px;margin:0 auto">Danh bạ này chỉ đăng thông tin do chính các Hội Thánh gửi về — chúng tôi không tự thu thập hay nhập liệu thay. Danh sách sẽ lớn dần khi các Hội Thánh đăng ký.</p>
+    <p style="color:var(--ink-soft);max-width:640px;margin:0 auto">Danh bạ được biên soạn từ các danh bạ và nguồn thông tin công khai — nguồn được ghi rõ dưới mỗi mục — và tiếp nhận đăng ký trực tiếp từ các Hội Thánh. Nếu thông tin của Hội Thánh bạn chưa đúng, chỉ cần liên hệ để chúng tôi sửa hoặc gỡ ngay.</p>
   </div>
   <article class="cat-panel">
     <h2>Đăng ký Hội Thánh của bạn</h2>
@@ -119,7 +125,7 @@ page = f"""{head("Danh Bạ Hội Thánh Cải Chánh | Reformed Vietnam",
     <h2>Sửa hoặc gỡ thông tin</h2>
     <p>Nếu thông tin của Hội Thánh bạn thay đổi hoặc bạn muốn gỡ khỏi danh bạ, chỉ cần email đến {EMAIL} — chúng tôi sẽ sửa trong lần cập nhật gần nhất và gỡ ngay khi người đại diện Hội Thánh yêu cầu, không cần giải thích lý do.</p>
     <h2>Nguyên tắc đăng</h2>
-    <p>Mọi thông tin đăng trên trang này đều do chính Hội Thánh cung cấp qua đăng ký. Danh xưng “Cải Chánh” trong danh bạ dựa trên tuyên xưng của Hội Thánh khi đăng ký; khi có phản ánh sai lệch, chúng tôi sẽ liên hệ Hội Thánh để làm rõ và sửa hoặc gỡ theo quy trình trên.</p>
+    <p>Danh bạ chỉ gồm các Hội Thánh thuộc truyền thống Cải chính (Trưởng lão, Cải chánh, Báp-tít Cải chánh…) có thông tin công khai có thể kiểm chứng. Mỗi mục đều ghi nguồn; thông tin từ danh bạ công khai được đánh dấu là chưa xác nhận trực tiếp với Hội Thánh. Khi Hội Thánh đăng ký hoặc liên hệ trực tiếp, thông tin của Hội Thánh sẽ được cập nhật theo dữ liệu Hội Thánh cung cấp và bỏ đánh dấu chưa xác nhận.</p>
   </article>
   {''.join(region_html)}
 </main>
