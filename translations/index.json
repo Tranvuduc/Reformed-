@@ -45262,5 +45262,21 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Công Vụ"
+ },
+ {
+  "id": "poole-chu-thich-ro-ma",
+  "file": "translations/poole-chu-thich-ro-ma.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — THƯ GỬI NGƯỜI RÔ-MA",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Romans (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Rô-ma"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Rô-ma"
  }
 ]
