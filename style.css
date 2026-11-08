@@ -55,7 +55,7 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
   .spine{padding:12px 10px}
   .spine i{font-size:.92rem;-webkit-line-clamp:4}
   .spine .ca{font-size:.5rem}
-  .spine .ci{font-size:.42rem}
+  .spine .imp{font-size:.42rem}
   .book .src{display:none}
   .desc{-webkit-line-clamp:3;font-size:.8rem}
   .foot2 select{display:none}
@@ -75,7 +75,7 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
 .grid.list{grid-template-columns:1fr!important;gap:8px}
 .grid.list .spine{aspect-ratio:auto;width:104px;flex:none;padding:8px 10px;justify-content:center}
 .grid.list .spine i{font-size:.8rem;-webkit-line-clamp:5}
-.grid.list .spine .motif,.grid.list .spine .ca,.grid.list .spine .ci{display:none}
+.grid.list .spine .motif,.grid.list .spine .ca,.grid.list .spine .imp{display:none}
 .grid.list .body{padding:8px 10px;gap:2px}
 .grid.list .desc{-webkit-line-clamp:2}
 .grid.list .src,.grid.list .foot2 select{display:none}
@@ -269,7 +269,7 @@ body:not(.home) #bw{display:none}
 .spine .motif{color:#dcb66a;line-height:0;margin-top:2px}
 .spine i{font-family:'Noto Serif',serif;font-style:normal;font-weight:700;overflow:hidden;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;text-wrap:balance;font-size:1.05rem;line-height:1.3;margin-top:10px}
 .spine .ca{font-size:.55rem;letter-spacing:.18em;text-transform:uppercase;color:#e8d9b8;margin-top:auto}
-.spine .ci{font-size:.45rem;letter-spacing:.22em;color:rgba(245,236,217,.75);margin-top:5px}
+.spine .imp{font-size:.45rem;letter-spacing:.22em;color:rgba(245,236,217,.75);margin-top:5px}
 .book .body{padding:14px 15px 14px;gap:5px;border-top:1px solid var(--line)}
 .grid.list .book .body{border-top:0}
 @media(prefers-reduced-motion:no-preference){

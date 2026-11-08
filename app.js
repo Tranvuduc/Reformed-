@@ -196,7 +196,7 @@ function lic(b){
 }
 function card(b){
   var lg=st.lang,d=b[lg]||b.en,y=b.y?" · "+(b.y<0?Math.abs(b.y)+" BC":b.y):"";
-  return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine '+pal(d.t)+'"><span class="motif">'+MOTIF+'</span><i>'+esc(d.t)+'</i><span class="ca">'+esc(b.a)+'</span><span class="ci">Thư Viện Cải Chánh</span></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+quietLine(b)+'</div></article>';
+  return'<article class="book" tabindex="0" role="button" data-open="'+esc(b.id)+'"><div class="spine '+pal(d.t)+'"><span class="motif">'+MOTIF+'</span><i>'+esc(d.t)+'</i><span class="ca">'+esc(b.a)+'</span><span class="imp">Thư Viện Cải Chánh</span></div><div class="body"><p class="by">'+esc(b.a)+'</p><div class="bds">'+badges(b)+'</div>'+quietLine(b)+'</div></article>';
 }
 function rdr(b){var m=/^\/(?:doc|ban-dich)\/([a-z0-9_-]+)\.html$/i.exec(b.url||"");return m?"reader.html?id=vn/"+m[1]+"&pid="+encodeURIComponent(b.id):""}
 function sheetActs(b){
