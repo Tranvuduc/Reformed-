@@ -164,6 +164,18 @@ for _e in entries:
         _e["body_vi"] = [p.replace("nơi sự công bình ngự trị", "nơi sự công chính ngự trị") for p in _e["body_vi"]]
 print("locked-term fix applied: troi-moi-dat-moi công bình -> sự công chính (own voice)")
 
+# ---- locked-term fix 2026-11-08 (Round 14 spot-check, Hana batch 6):
+# duy-an-dien body paragraph 3 uses "tin mừng" in its own voice —
+# "duy ân điển là tin mừng lớn". The locked term for the gospel in the
+# site's own voice is "Phúc Âm" (owner lock 2026-11-07); "tin mừng" is
+# the same defect class as phuc-am (Round 10) and troi-moi-dat-moi
+# (Round 12). The app glossary stays untouched; fix in the hub's
+# own-voice field only.
+for _e in entries:
+    if _e["slug"] == "duy-an-dien":
+        _e["body_vi"] = [p.replace("duy ân điển là tin mừng lớn", "duy ân điển là Phúc Âm lớn") for p in _e["body_vi"]]
+print("locked-term fix applied: duy-an-dien tin mừng -> Phúc Âm (own voice)")
+
 by_slug = {e["slug"]: e for e in entries}
 for e in entries:
     if e["related_terms"]: continue
