@@ -10,9 +10,9 @@
 :root{--bg:#f7f2e9;--fg:#292019;--mut:#6f6154;--ac:#7c2128;--ln:#e3d9c4;--sf:#efe7d6;--w:42rem;--lh:1.75}
 [data-t=dark]{--bg:#171310;--fg:#ece5d8;--mut:#a89a87;--ac:#d17575;--ln:#3a2f26;--sf:#211a15}
 [data-t=sepia]{--bg:#f1e6cc;--fg:#3b2f1d;--mut:#7c6a4a;--ac:#7c2128;--ln:#d9c9a4;--sf:#e8dbb9}
+[data-t=black]{--bg:#000;--fg:#e6dfd0;--mut:#9a9482;--ac:#d17575;--ln:#26221c;--sf:#111}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:"Noto Serif","Source Serif 4",Georgia,"Times New Roman",serif}
-[data-ff=sans] #txt{font-family:"Be Vietnam Pro","Noto Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 button,select,input{font:inherit;color:inherit}
 .rdskel{padding:24px 4px;display:grid;gap:12px;max-width:var(--w);margin:0 auto}.rdskel i{display:block;height:14px;border-radius:7px;background:linear-gradient(90deg,var(--sf) 25%,var(--ln) 50%,var(--sf) 75%);background-size:200% 100%;animation:sk 1.2s infinite}@keyframes sk{to{background-position:-200% 0}}
 .rdprog{margin-top:6px}.rdprog i{display:block;height:6px;border-radius:3px;background:var(--ac);width:0;transition:width .2s;animation:none}.rdprog span{font:12px "Be Vietnam Pro",system-ui,sans-serif;color:var(--mut)}
@@ -25,8 +25,15 @@ button,select,input{font:inherit;color:inherit}
 .ib{background:none;border:1px solid transparent;border-radius:8px;min-width:38px;height:36px;padding:0 8px;cursor:pointer;font-size:17px;line-height:1}
 .ib:hover,.ib.on{background:var(--sf);border-color:var(--ln)}
 #bar{position:fixed;top:0;left:0;right:0;height:3px;background:var(--ln);z-index:6}#bar i{display:block;height:100%;background:var(--ac);width:0}
-main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
-#txt{font-size:var(--fs,19px);line-height:var(--lh)}
+main{max-width:var(--w);margin:0 auto;padding:68px var(--rmx,18px) 150px}
+#txt{font-family:var(--rfont,"Noto Serif",Georgia,serif);font-size:var(--fs,19px);font-weight:var(--rfw,400);line-height:var(--lh)}
+#txt.justify p{text-align:justify}
+#txt .sent.speaking{background:color-mix(in srgb,var(--ac) 22%,transparent);border-radius:3px;box-shadow:0 0 0 3px color-mix(in srgb,var(--ac) 22%,transparent)}
+#txt .term{border-bottom:1px dashed var(--ac);cursor:pointer}
+#veil{position:fixed;inset:0;background:#000;opacity:0;pointer-events:none;z-index:4}
+#apos{font-size:12px;color:var(--mut);white-space:nowrap}
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:6px 0 14px}.fontopt{background:var(--sf);border:1px solid var(--ln);border-radius:10px;padding:10px;cursor:pointer;text-align:left}.fontopt.sel{border-color:var(--ac);box-shadow:0 0 0 1px var(--ac)}.fontopt .fname{font-size:19px;display:block}.fontopt .fkind{font-size:12px;color:var(--mut);margin-top:2px}
+.rng{width:100%;accent-color:var(--ac)}
 #txt p{margin:0 0 1em;overflow-wrap:anywhere;hyphens:auto}#txt p.v{white-space:pre-line;padding-left:1em;border-left:2px solid var(--ln);font-style:italic}
 #txt h2{font-family:"Playfair Display","Noto Serif",serif;font-size:1.45em;margin:1.4em 0 .6em;color:var(--ac);line-height:1.25}#txt h3{font-size:1.15em;margin:1.2em 0 .5em;color:var(--ac)}
 #txt .orig{display:block;font-size:.8em;opacity:.6;margin-top:.3em}
@@ -56,12 +63,12 @@ main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
 @media(min-width:820px){#sheet{left:auto;top:0;bottom:0;width:400px;max-height:none;border-radius:0;border-left:1px solid var(--ln);border-top:0}#back2.on{background:#0002}}
 #all{display:none}
 #txt .hl0{background:#fde68a80}#txt .hl1{background:#bbf7d080}#txt .hl2{background:#bfdbfe80}#txt .hn::after{content:" 📝";font-size:.8em}
-#hlb{position:fixed;z-index:7;display:flex;gap:2px;background:var(--bg);border:1px solid var(--ln);border-radius:12px;box-shadow:0 4px 18px #0004;padding:4px}#hlb[hidden]{display:none}#hlb button{border:0;background:none;font-size:20px;padding:6px 9px;border-radius:8px;cursor:pointer}#hlb button:hover{background:var(--sf)}
+#hlb{position:fixed;z-index:9;top:calc(54px + env(safe-area-inset-top));left:50%;transform:translateX(-50%);display:flex;gap:2px;background:var(--bg);border:1px solid var(--ln);border-radius:12px;box-shadow:0 4px 18px #0004;padding:4px}#hlb[hidden]{display:none}#hlb button{border:0;background:none;font-size:20px;padding:6px 9px;border-radius:8px;cursor:pointer}#hlb button:hover{background:var(--sf)}
 #nd{position:fixed;z-index:9;left:50%;top:18%;transform:translateX(-50%);width:min(92vw,420px);background:var(--bg);border:1px solid var(--ln);border-radius:14px;box-shadow:0 10px 40px #0006;padding:14px}#nd[hidden]{display:none}#nd textarea{width:100%;min-height:110px;box-sizing:border-box;font:inherit;background:var(--sf);color:inherit;border:1px solid var(--ln);border-radius:8px;padding:8px}#nd .r{display:flex;gap:8px;justify-content:flex-end;margin-top:8px}#nd button{padding:8px 14px;border-radius:8px;border:1px solid var(--ln);background:var(--sf);color:inherit;cursor:pointer}
 .nq{font-size:14px;opacity:.85;margin:0 0 4px}.nn{margin:2px 0;white-space:pre-wrap}
-@media print{#top,#foot,#pl,#sheet,#back2,#bar,#msg,#txt,#trs{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}
-.br{color:inherit;border-bottom:1px dotted #7c2128;cursor:pointer}#bp{position:fixed;left:50%;bottom:12px;transform:translateX(-50%);width:min(560px,94vw);max-height:55vh;overflow:auto;background:#fffdf7;color:#292019;border:1px solid #8884;border-radius:12px;box-shadow:0 8px 30px #0005;padding:12px 14px;z-index:60;font:15px/1.55 "Noto Serif",Georgia,serif}body[data-t=dark] #bp{background:#211a15;color:#ece5d8}#bp[hidden]{display:none}#bp h4{margin:0 0 6px;font:600 14px "Be Vietnam Pro",system-ui}#bp .x{float:right;cursor:pointer;font:18px "Be Vietnam Pro",system-ui;border:0;background:none;color:inherit}#bp sup{color:#7c2128;font:600 11px "Be Vietnam Pro",system-ui;margin-right:3px}#bp small{display:block;margin-top:8px;opacity:.6;font:11px "Be Vietnam Pro",system-ui}</style><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,600;1,400&family=Noto+Serif:ital,wght@0,400;0,600;1,400&display=swap&subset=vietnamese"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#7c2128"><link rel="apple-touch-icon" href="/icon-192.png"></head><body class="ui" data-t="light">
-<div id="bar"><i></i></div>
+@media print{#top,#foot,#pl,#sheet,#back2,#bar,#msg,#txt,#trs,#veil{display:none!important}#all{display:block}body{background:#fff;color:#000}main{padding:0;max-width:none;font-size:12pt}}
+.br{color:inherit;border-bottom:1px dotted #7c2128;cursor:pointer}#bp{position:fixed;left:50%;bottom:12px;transform:translateX(-50%);width:min(560px,94vw);max-height:55vh;overflow:auto;background:#fffdf7;color:#292019;border:1px solid #8884;border-radius:12px;box-shadow:0 8px 30px #0005;padding:12px 14px;z-index:60;font:15px/1.55 "Noto Serif",Georgia,serif}body[data-t=dark] #bp,body[data-t=black] #bp{background:#211a15;color:#ece5d8}#bp[hidden]{display:none}#bp h4{margin:0 0 6px;font:600 14px "Be Vietnam Pro",system-ui}#bp .x{float:right;cursor:pointer;font:18px "Be Vietnam Pro",system-ui;border:0;background:none;color:inherit}#bp sup{color:#7c2128;font:600 11px "Be Vietnam Pro",system-ui;margin-right:3px}#bp small{display:block;margin-top:8px;opacity:.6;font:11px "Be Vietnam Pro",system-ui}</style><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,600;1,400&family=Noto+Serif:ital,wght@0,400;0,600;1,400&display=swap&subset=vietnamese"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&family=Merriweather:wght@400;700&family=Lora:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=EB+Garamond:wght@400;500;600&display=swap"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#7c2128"><link rel="apple-touch-icon" href="/icon-192.png"></head><body class="ui" data-t="light">
+<div id="bar"><i></i></div><div id="veil"></div>
 <div id="top">
   <a id="back" href="./">←</a><span id="ttl"></span>
   <button class="ib" id="bS" aria-label="Search">🔍</button>
@@ -69,6 +76,7 @@ main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
   <button class="ib" id="tr" aria-label="Translate">🌐</button>
   <button class="ib" id="au" aria-label="Listen">🎧</button>
   <button class="ib" id="bA" aria-label="Appearance">Aa</button>
+  <button class="ib" id="bB" aria-label="Bookmark">🔖</button>
   <button class="ib" id="bM" aria-label="More">⋯</button>
 </div>
 <main><div id="trs" hidden></div><div id="msg"><div class="rdskel"><i style="width:60%"></i><i></i><i></i><i style="width:85%"></i><i></i><i style="width:70%"></i></div></div><article id="txt"></article><div id="all"></div></main>
@@ -77,6 +85,7 @@ main{max-width:var(--w);margin:0 auto;padding:68px 18px 150px}
   <select id="sp" aria-label="Speed"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="1.75">1.75×</option><option value="2">2×</option></select>
   <select id="vo" aria-label="Voice"><option value="">Auto</option></select>
   <select id="stm" aria-label="Sleep timer"><option value="0">⏲ —</option><option value="15">15′</option><option value="30">30′</option><option value="60">60′</option></select>
+  <span id="apos"></span>
   <button class="ib" id="px" aria-label="Close player">✕</button>
 </div></div>
 <div id="foot"><div class="row"><button class="ib" id="pv" aria-label="Previous page">‹</button><input type="range" id="sl" min="1" max="1" value="1" aria-label="Page"><button class="ib" id="nx" aria-label="Next page">›</button></div><div id="info"><span id="pn"></span><span id="eta"></span></div></div>
@@ -90,25 +99,84 @@ function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorag
 function esc(s){return String(s).replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})}
 function fold(s){return String(s).toLowerCase().replace(/đ/g,"d").normalize("NFD").replace(/[̀-ͯ]/g,"")}
 var lang="vi";/* TẠM ẨN 2026-11-04: English hidden - Vietnamese only */
-var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Bạn chưa đánh dấu trang nào.",nores:"Không tìm thấy kết quả.",epub:"Tải EPUB",pdf:"In hoặc lưu cả cuốn thành PDF",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Đây là bản dịch máy, chưa có thẩm quyền, nên một số thuật ngữ giáo lý có thể sai. Bạn hãy đối chiếu với bản gốc và Kinh Thánh, và hỏi mục sư khi cần.",trf:"Chưa dịch được lúc này. Bạn thử lại sau nhé.",fail:"Chưa mở được sách này ở đây.",open:"Mở trên CCEL",nov:"Máy của bạn chưa có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",gt:"🌐 Giọng Google (nhanh, cần mạng)",novi:"— Máy chưa có giọng tiếng Việt —",pload:"Lần đầu cần tải giọng Piper (~60MB), bạn chờ một lát nhé…",gfail:"Chưa phát được giọng Google, đang chuyển sang giọng có sẵn trong máy.",pfail:"Chưa tải được giọng Piper, đang chuyển sang giọng có sẵn trong máy.",res:"kết quả",del:"Xóa",rep:"Báo lỗi bản dịch ở trang này",bible:"Kinh Thánh Tiếng Việt 1934 (phạm vi công cộng) · getBible",bfail:"Chưa mở được đoạn Kinh Thánh này.",hl:"Tô sáng và ghi chú",nohl:"Bôi đen một đoạn văn để tô sáng hoặc ghi chú.",note:"Ghi chú",save:"Lưu",cancel:"Hủy",cp:"Sao chép (Markdown)",dl:"Tải về (.md)",cpd:"Đã chép",expt:"Xuất tiến trình",impt:"Nhập tiến trình"},
- en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation, not authoritative: doctrinal terms may be wrong. Check the original, Scripture and your pastor.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",gt:"🌐 Google voice (fast, needs internet)",novi:"— No Vietnamese voice on this device —",pload:"Downloading the Piper voice for the first time (~60MB)…",gfail:"Google voice failed. Using the device voice.",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error",bible:"Vietnamese Bible 1934 (public domain) · getBible",bfail:"Could not load the passage.",hl:"Highlights and notes",nohl:"Select text to highlight or add a note.",note:"Note",save:"Save",cancel:"Cancel",cp:"Copy (Markdown)",dl:"Download (.md)",cpd:"Copied",expt:"Export progress",impt:"Import progress"}}[lang];
+var L={vi:{lib:"Thư viện",toc:"Mục lục",search:"Tìm trong sách",ph:"Gõ từ cần tìm…",set:"Giao diện",more:"Thêm",marks:"Dấu trang",page:"Trang",left:"còn khoảng",min:"phút",h:"giờ",size:"Cỡ chữ",font:"Phông chữ",serif:"Có chân",sans:"Không chân",theme:"Màu nền",auto:"Tự động",light:"Sáng",sepia:"Vàng",dark:"Tối",lh:"Giãn dòng",wd:"Độ rộng",narrow:"Hẹp",mid:"Vừa",wide:"Rộng",trans:"Dịch sang tiếng Việt",off:"Tắt",vi:"Tiếng Việt",bi:"Song ngữ",addm:"Đánh dấu trang này",nom:"Bạn chưa đánh dấu trang nào.",nores:"Không tìm thấy kết quả.",epub:"Tải EPUB",pdf:"In hoặc lưu cả cuốn thành PDF",ccel:"Mở trên CCEL",tr1:"Đang dịch…",trd:"Đây là bản dịch máy, chưa có thẩm quyền, nên một số thuật ngữ giáo lý có thể sai. Bạn hãy đối chiếu với bản gốc và Kinh Thánh, và hỏi mục sư khi cần.",trf:"Chưa dịch được lúc này. Bạn thử lại sau nhé.",fail:"Chưa mở được sách này ở đây.",open:"Mở trên CCEL",nov:"Máy của bạn chưa có giọng đọc.",piper:"🧠 Piper AI (~60MB, ngoại tuyến)",gt:"🌐 Giọng Google (nhanh, cần mạng)",novi:"— Máy chưa có giọng tiếng Việt —",pload:"Lần đầu cần tải giọng Piper (~60MB), bạn chờ một lát nhé…",gfail:"Chưa phát được giọng Google, đang chuyển sang giọng có sẵn trong máy.",pfail:"Chưa tải được giọng Piper, đang chuyển sang giọng có sẵn trong máy.",res:"kết quả",del:"Xóa",rep:"Báo lỗi bản dịch ở trang này",bible:"Kinh Thánh Tiếng Việt 1934 (phạm vi công cộng) · getBible",bfail:"Chưa mở được đoạn Kinh Thánh này.",hl:"Tô sáng và ghi chú",nohl:"Bôi đen một đoạn văn để tô sáng hoặc ghi chú.",note:"Ghi chú",save:"Lưu",cancel:"Hủy",cp:"Sao chép (Markdown)",dl:"Tải về (.md)",cpd:"Đã chép",expt:"Xuất tiến trình",impt:"Nhập tiến trình",black:"Đen",wt:"Độ đậm",mg:"Lề",ju:"Căn đều",md:"Chế độ đọc",pg2:"Lật trang",sc:"Cuộn",bri:"Độ sáng",on:"Bật",li:"Nhẹ",bo:"Đậm",dlx:"Tải TXT",dlh:"Tải HTML",loc:"Vị trí",sent:"câu"},
+ en:{lib:"Library",toc:"Contents",search:"Search in book",ph:"Type a word…",set:"Appearance",more:"More",marks:"Bookmarks",page:"Page",left:"about",min:"min",h:"h",size:"Text size",font:"Font",serif:"Serif",sans:"Sans",theme:"Theme",auto:"Auto",light:"Light",sepia:"Sepia",dark:"Dark",lh:"Line spacing",wd:"Width",narrow:"Narrow",mid:"Medium",wide:"Wide",trans:"Translate to Vietnamese",off:"Off",vi:"Vietnamese",bi:"Bilingual",addm:"Bookmark this page",nom:"No bookmarks yet.",nores:"No matches.",epub:"Download EPUB",pdf:"Print / save whole book as PDF",ccel:"Open on CCEL",tr1:"Translating…",trd:"Machine translation, not authoritative: doctrinal terms may be wrong. Check the original, Scripture and your pastor.",trf:"Translation unavailable right now. Try again later.",fail:"Could not load this book here.",open:"Open on CCEL",nov:"No speech voice on this device.",piper:"🧠 Piper AI (~60MB, offline)",gt:"🌐 Google voice (fast, needs internet)",novi:"— No Vietnamese voice on this device —",pload:"Downloading the Piper voice for the first time (~60MB)…",gfail:"Google voice failed. Using the device voice.",pfail:"Piper voice could not load. Using the device voice.",res:"results",del:"Delete",rep:"Report translation error",bible:"Vietnamese Bible 1934 (public domain) · getBible",bfail:"Could not load the passage.",hl:"Highlights and notes",nohl:"Select text to highlight or add a note.",note:"Note",save:"Save",cancel:"Cancel",cp:"Copy (Markdown)",dl:"Download (.md)",cpd:"Copied",expt:"Export progress",impt:"Import progress",black:"Black",wt:"Weight",mg:"Margin",ju:"Justify",md:"Reading mode",pg2:"Page turn",sc:"Scroll",bri:"Brightness",on:"On",li:"Light",bo:"Bold",dlx:"Download TXT",dlh:"Download HTML",loc:"Location",sent:"sentence"}}[lang];
 var name=id.split("/")[1]||"",PAGE=4200,SV=id.indexOf("vn/")===0,pid=q.get("pid")||id;
 $("ttl").textContent=name;document.title=name+" · Reformed Vietnam";$("back").textContent="← "+L.lib;
 var ext=SV?"/":"https://ccel.org/ccel/"+id+"/"+name;
 function fail(){$("msg").innerHTML=L.fail+' <a href="'+ext+'" target="_blank" rel="noopener">'+L.open+'</a>.'}
 
 /* ---------- appearance ---------- */
-var S={fs:+ls("rv.fs")||19,th:ls("rv.th")||"auto",ff:ls("rv.ff")||"serif",lh:ls("rv.lh")||"1.75",wd:ls("rv.wd")||"42"};
+var S={fs:+ls("rv.fs")||19,th:ls("rv.th")||"auto",ff:ls("rv.ff")||"serif",lh:ls("rv.lh")||"1.75",wd:ls("rv.wd")||"42",font:ls("rv.font")||(ls("rv.ff")==="sans"?"bevn":"literata"),weight:ls("rv.weight")||"400",margin:ls("rv.margin")||"18",bright:+ls("rv.bright")||100,justify:ls("rv.justify")||"1",mode:ls("rv.mode")||"page"};
+var FONTS={literata:{name:"Literata",css:'"Literata","Noto Serif",Georgia,serif',kind:"Có chân · chữ Kindle-like"},merriweather:{name:"Merriweather",css:'"Merriweather","Noto Serif",Georgia,serif',kind:"Có chân · đậm, dễ đọc"},lora:{name:"Lora",css:'"Lora","Noto Serif",Georgia,serif',kind:"Có chân · mềm mại"},sourceserif:{name:"Source Serif 4",css:'"Source Serif 4","Noto Serif",Georgia,serif',kind:"Có chân · trang nhã"},garamond:{name:"EB Garamond",css:'"EB Garamond","Noto Serif",Georgia,serif',kind:"Có chân · cổ điển"},bevn:{name:"Be Vietnam Pro",css:'"Be Vietnam Pro","Noto Sans",system-ui,sans-serif',kind:"Không chân · hiện đại"}};
+var FONTIDS=["literata","merriweather","lora","sourceserif","garamond","bevn"];
+/* Kindle-like sample (ported 2026-11-08): 6 fonts, sentence TTS, term popups */
+var WPM=175,WORDS_PER_LOCATION=400;
 function apply(){
   var r=document.documentElement,th=S.th==="auto"?(matchMedia("(prefers-color-scheme:dark)").matches?"dark":"light"):S.th;
+  var f=FONTS[S.font]||FONTS.literata;
   r.style.setProperty("--fs",S.fs+"px");r.style.setProperty("--lh",S.lh);r.style.setProperty("--w",S.wd+"rem");
-  r.setAttribute("data-t",th);r.setAttribute("data-ff",S.ff);document.body.setAttribute("data-t",th);
+  r.style.setProperty("--rfont",f.css);r.style.setProperty("--rfw",S.weight);r.style.setProperty("--rmx",S.margin+"px");
+  r.setAttribute("data-t",th);r.setAttribute("data-ff",S.ff);r.setAttribute("data-mode",S.mode);document.body.setAttribute("data-t",th);
+  $("txt").classList.toggle("justify",S.justify==="1");
+  var veil=$("veil");if(veil)veil.style.opacity=(1-S.bright/100)*0.85;
 }
 apply();
 function sv(k,v){S[k]=v;ls("rv."+k,v);apply()}
 
+/* ---------- glossary + sentences (from Kindle-like sample) ---------- */
+var GLOSSARY = {
+  "Đức Chúa Trời": "Đấng Tạo Hóa và Chúa tể tối cao, hiện hữu đời đời trong ba Ngôi: Đức Cha, Đức Con và Đức Thánh Linh.",
+  "Đức Thánh Linh": "Ngôi Ba của Đức Chúa Trời Ba Ngôi — Đấng tái sinh tội nhân, ngự trong tín hữu và làm cho họ nên thánh.",
+  "Chúa Giê-xu Christ": "Con Đức Chúa Trời, Ngôi Hai trong Ba Ngôi, Đấng Trung Bảo duy nhất giữa Đức Chúa Trời và loài người (1 Ti-mô-thê 2:5).",
+  "ân điển": "Ơn Đức Chúa Trời ban cho tội nhân không xứng đáng, hoàn toàn không do công đức của con người — nền tảng của sự cứu rỗi (Ê-phê-sô 2:8).",
+  "đức tin": "Sự tin cậy và tiếp nhận Đấng Christ theo như Ngài được ban cho trong Phúc Âm; phương tiện duy nhất để được xưng công chính (Rô-ma 5:1).",
+  "giao ước": "Sự cam kết trang trọng Đức Chúa Trời lập với dân Ngài, trong đó Ngài hứa ban phước và đòi hỏi sự vâng phục trong đức tin.",
+  "sự cứu rỗi": "Toàn thể công việc của Đức Chúa Trời cứu tội nhân khỏi tội lỗi và sự chết, ban cho họ sự sống đời đời trong Đấng Christ.",
+  "xưng công chính": "Hành động pháp lý của Đức Chúa Trời: Ngài tuyên bố tội nhân là công chính dựa trên sự công chính của Đấng Christ được quy cho họ, chỉ bởi đức tin mà thôi.",
+  "nên thánh": "Công việc của Đức Thánh Linh đổi mới con người theo hình ảnh Đức Chúa Trời, tiến triển suốt cả đời sống của tín hữu.",
+  "chuộc tội": "Sự chết thay thế của Đấng Christ trên thập tự giá, qua đó Ngài gánh lấy hình phạt tội lỗi thay cho dân Ngài (Ê-sai 53).",
+  "sự cứu chuộc": "Việc Đức Chúa Trời mua lại dân Ngài ra khỏi tội lỗi và sự chết bằng cái giá là huyết của Đấng Christ.",
+  "tiền định": "Định ý đời đời của Đức Chúa Trời về mọi sự sẽ xảy ra, bao gồm việc chọn một số người cho sự sống đời đời (Ê-phê-sô 1:11).",
+  "tuyển chọn": "Việc Đức Chúa Trời, trong tình yêu thương và theo ý muốn tự do của Ngài, đã chọn một số người để được cứu trước khi sáng thế (Ê-phê-sô 1:4).",
+  "Phúc Âm": "Tin lành về sự cứu rỗi trong Chúa Giê-xu Christ — sự chết và sự sống lại của Ngài vì tội nhân (1 Cô-rinh-tô 15:3–4).",
+  "Kinh Thánh": "Lời Đức Chúa Trời được linh cảm, là thẩm quyền duy nhất và đầy đủ cho đức tin và đời sống của Hội Thánh.",
+  "sự cầu nguyện": "Sự thưa chuyện của tín hữu với Đức Chúa Trời — gồm thờ phượng, xưng tội, tạ ơn và cầu xin — qua Đấng Trung Bảo là Đấng Christ (Tín Điều Westminster, chương 21)."
+    };
+function splitSentences(text) {
+  var out = [], start = 0, i = 0, n = text.length;
+  function isTerm(ch) { return ch === "." || ch === "!" || ch === "?" || ch === "…"; }
+  function isClose(ch) { return ch === '"' || ch === "”" || ch === "’" || ch === "'" || ch === ")" || ch === "]" || ch === "»"; }
+  while (i < n) {
+    if (isTerm(text[i])) {
+      var j = i + 1;
+      while (j < n && (isTerm(text[j]) || isClose(text[j]))) j++;
+      if (j >= n || /\s/.test(text[j])) { out.push(text.slice(start, j)); start = j; i = j; continue; }
+    }
+    i++;
+  }
+  if (start < n) out.push(text.slice(start));
+  return out.map(function (s) { return s.trim(); }).filter(function (s) { return s.length > 0; });
+}
+var termKeys = Object.keys(GLOSSARY).sort(function (a, b) { return b.length - a.length; });
+var termRegex = new RegExp("(" + termKeys.map(function (t) { return t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }).join("|") + ")", "g");
+function markTerms(escapedText) {
+  return escapedText.replace(termRegex, function (m) { return '<span class="term" data-term="' + esc(m) + '">' + m + "</span>"; });
+}
+function sentHTML(t){
+  var sents=splitSentences(t),out="",pos=0;
+  sents.forEach(function(s,i){
+    var idx=t.indexOf(s,pos);if(idx<0)idx=pos;
+    out+=esc(t.slice(pos,idx));
+    out+='<span class="sent" data-si="'+i+'">'+lr(markTerms(esc(s)))+"</span>";
+    pos=idx+s.length;
+  });
+  out+=esc(t.slice(pos));
+  return out;
+}
+
 /* ---------- text model ---------- */
-var P=[],pages=[],toc=[],cur=0;
+var P=[],pages=[],toc=[],cur=0,wordPrefix=[0],totalWords=0,totalLocations=1;
 function stripHeader(t){
   t=t.replace(/\r/g,"");
   var m=/^\s*_{20,}\s*$/gm,a=m.exec(t);
@@ -145,6 +213,10 @@ function build(t){
     sz+=p.t.length;
   }
   if(a<P.length)pages.push({a:a,b:P.length});
+  // word counts (for Location + reading time)
+  var wc=0;wordPrefix=[0];
+  for(var wi=0;wi<P.length;wi++){wc+=P[wi].t.split(/\s+/).filter(function(x){return x}).length;wordPrefix.push(wc)}
+  totalWords=wc;totalLocations=Math.max(1,Math.ceil(totalWords/WORDS_PER_LOCATION));
   // toc
   toc=[];
   for(var j=0;j<P.length&&toc.length<700;j++){if(P[j].h){
@@ -158,40 +230,99 @@ function ptexts(i){var pg=pages[i],o=[];for(var k=pg.a;k<pg.b;k++)o.push(P[k].t)
 
 /* ---------- rendering ---------- */
 var trm=ls("rv.trm")||"0",trp={},trTok=0,tdone={};
+function pageHTML(i){var pg=pages[i],h="";for(var k=pg.a;k<pg.b;k++){var p=P[k];h+=p.h?"<h"+(p.h===1?2:3)+' data-pg="'+i+'" data-k="'+(k-pg.a)+'">'+esc(p.t)+"</h"+(p.h===1?2:3)+">":'<p'+(p.v?' class="v"':"")+' data-pg="'+i+'" data-k="'+(k-pg.a)+'">'+sentHTML(p.t)+"</p>"}return h}
 function render(i,scroll){
-  cur=Math.max(0,Math.min(pages.length-1,i));var pg=pages[cur],h="";
-  for(var k=pg.a;k<pg.b;k++){var p=P[k];h+=p.h?"<h"+(p.h===1?2:3)+' data-k="'+(k-pg.a)+'">'+esc(p.t)+"</h"+(p.h===1?2:3)+">":'<p'+(p.v?' class="v"':"")+' data-k="'+(k-pg.a)+'">'+lr(esc(p.t))+"</p>"}
-  $("txt").innerHTML=h;
+  cur=Math.max(0,Math.min(pages.length-1,i));
+  $("txt").innerHTML=pageHTML(cur);
   $("sl").max=pages.length;$("sl").value=cur+1;
-  info();var pct=pages.length>1?Math.round(cur/(pages.length-1)*100):100;$("bar").firstChild.style.width=pct+"%";
-  ls("rv.pos."+id,cur);save(pct);revCount();
   if(scroll!==false)window.scrollTo(0,0);
+  var pct=updateProgress();
+  ls("rv.pos."+id,cur);save(pct);revCount();
   trTok++;if(trm!=="0")runTr(cur);else $("trs").hidden=true;
-  $("top").classList.remove("h");hlPaint();
+  $("top").classList.remove("h");hlPaint();refreshBookmarkBtn();
 }
-function info(){
-  var left=0;for(var k=pages[cur].a;k<P.length;k++)left+=P[k].t.length;var mins=Math.round(left/1000);
-  $("pn").textContent=L.page+" "+(cur+1)+" / "+pages.length+" · "+(pages.length>1?Math.round(cur/(pages.length-1)*100):100)+"%";
+function updateProgress(){
+  if(!pages.length)return 0;
+  var total=totalWords||1,de=document.documentElement,max=de.scrollHeight-innerHeight;
+  var intra=max<=0?0:Math.min(1,Math.max(0,scrollY/max));
+  var f=S.mode==="scroll"?Math.min(1,Math.max(0,scrollY/Math.max(1,max))):Math.min(1,(cur+intra)/pages.length);
+  var wordsRead=f*total;
+  var loc=Math.min(totalLocations,Math.floor(wordsRead/WORDS_PER_LOCATION)+1);
+  var pct=Math.round(f*100);
+  var mins=Math.round((total-wordsRead)/WPM);
+  $("pn").textContent=L.loc+" "+loc+" / "+totalLocations+" · "+L.page+" "+(cur+1)+" / "+pages.length+" · "+pct+"%";
   $("eta").textContent=mins<1?"":L.left+" "+(mins>=60?Math.floor(mins/60)+" "+L.h+" "+(mins%60)+" "+L.min:mins+" "+L.min);
+  $("bar").firstChild.style.width=pct+"%";
+  var sl=$("sl");if(document.activeElement!==sl)sl.value=S.mode==="scroll"?Math.max(1,Math.round(f*pages.length)):cur+1;
+  refreshBookmarkBtn();
+  return pct;
 }
+var progTimer=null;
+function updateProgressSoon(){clearTimeout(progTimer);progTimer=setTimeout(updateProgress,90)}
 function save(pct){
   try{var p=JSON.parse(ls("rv.prog")||"{}");if(pct<=0&&!p[pid])return;
     p[pid]={s:pct>=100?"done":"reading",p:Math.min(100,Math.round(pct/5)*5),t:Date.now()};ls("rv.prog",JSON.stringify(p))}catch(e){}
 }
-function go(i,opt){stopA(true);render(i,opt&&opt.noscroll?false:true);if(opt&&opt.flash!=null)flash(opt.flash,opt.q)}
-function flash(k,qq){var el=$("txt").querySelector('[data-k="'+k+'"]');if(!el)return;el.classList.add("fl");el.scrollIntoView({block:"center"});setTimeout(function(){el.classList.remove("fl")},2300)}
+function go(i,opt){stopA(true);if(S.mode==="scroll"){scrollGo(i,opt);return}render(i,opt&&opt.noscroll?false:true);if(opt&&opt.flash!=null)flash(opt.flash,opt.q)}
+function scrollGo(i,opt){i=Math.max(0,Math.min(pages.length-1,i));cur=i;ensurePage(i);var el=$("txt").querySelector('[data-pg="'+i+'"][data-k="0"]');if(el)el.scrollIntoView({block:"start"});updateProgress();if(opt&&opt.flash!=null)flash(opt.flash,opt.q)}
+function flash(k,qq){var el=$("txt").querySelector('[data-pg="'+cur+'"][data-k="'+k+'"]');if(!el)return;el.classList.add("fl");el.scrollIntoView({block:"center"});setTimeout(function(){el.classList.remove("fl")},2300)}
 $("pv").onclick=function(){go(cur-1)};$("nx").onclick=function(){go(cur+1)};
 $("sl").oninput=function(){$("pn").textContent=L.page+" "+this.value+" / "+pages.length};
-$("sl").onchange=function(){go(+this.value-1)};
+$("sl").onchange=function(){if(S.mode==="scroll"){var f=(+this.value-1)/pages.length,de=document.documentElement;window.scrollTo(0,f*Math.max(0,de.scrollHeight-innerHeight));return}go(+this.value-1)};
 document.addEventListener("keydown",function(e){if(/INPUT|SELECT|TEXTAREA/.test(e.target.tagName))return;if(e.key==="ArrowRight")go(cur+1);if(e.key==="ArrowLeft")go(cur-1);if(e.key==="Escape")closeSheet()});
 // swipe
 var tx0=0,ty0=0,tt0=0;
 document.addEventListener("touchstart",function(e){var t=e.touches[0];tx0=t.clientX;ty0=t.clientY;tt0=Date.now()},{passive:true});
-document.addEventListener("touchend",function(e){if(e.target.closest("#sheet,#pl,#foot,#top"))return;var t=e.changedTouches[0],dx=t.clientX-tx0,dy=t.clientY-ty0;if(Math.abs(dx)>70&&Math.abs(dy)<45&&Date.now()-tt0<600)go(cur+(dx<0?1:-1))},{passive:true});
+document.addEventListener("touchend",function(e){if(S.mode==="scroll")return;if(e.target.closest("#sheet,#pl,#foot,#top"))return;var t=e.changedTouches[0],dx=t.clientX-tx0,dy=t.clientY-ty0;if(Math.abs(dx)>70&&Math.abs(dy)<45&&Date.now()-tt0<600)go(cur+(dx<0?1:-1))},{passive:true});
 // auto-hide header + remember scroll
 var ly=0,st2;
-window.addEventListener("scroll",function(){var y=scrollY;if(!sheetOn())$("top").classList.toggle("h",y>ly&&y>90);ly=y;clearTimeout(st2);st2=setTimeout(function(){ls("rv.sc."+id,JSON.stringify({p:cur,y:Math.round(scrollY)}))},400)},{passive:true});
+window.addEventListener("scroll",function(){var y=scrollY;if(!sheetOn())$("top").classList.toggle("h",y>ly&&y>90);ly=y;clearTimeout(st2);st2=setTimeout(function(){ls("rv.sc."+id,JSON.stringify({p:cur,y:Math.round(scrollY)}))},400);if(S.mode==="scroll")scrollTick();else updateProgressSoon()},{passive:true});
 function sizeFoot(){document.documentElement.style.setProperty("--fh",$("foot").offsetHeight+"px")}
+
+/* ---------- scroll mode (Kindle-like sample: continuous scroll) ---------- */
+var scrPages={first:0,last:-1};
+function ensurePage(p){
+  if(S.mode!=="scroll")return;
+  if(scrPages.last<0){$("txt").innerHTML=pageHTML(p);scrPages.first=p;scrPages.last=p;hlPaint();return}
+  while(scrPages.last<p){scrPages.last++;$("txt").insertAdjacentHTML("beforeend",pageHTML(scrPages.last))}
+  while(scrPages.first>p){scrPages.first--;var de=document.documentElement,before=de.scrollHeight;$("txt").insertAdjacentHTML("afterbegin",pageHTML(scrPages.first));var added=de.scrollHeight-before;if(added>0)window.scrollBy(0,added)}
+  hlPaint();
+}
+function enterScroll(){
+  stopA(true);
+  var fk=firstVisibleK();
+  $("txt").innerHTML=pageHTML(cur);scrPages={first:cur,last:cur};
+  if(cur+1<pages.length){$("txt").insertAdjacentHTML("beforeend",pageHTML(cur+1));scrPages.last=cur+1}
+  hlPaint();refreshBookmarkBtn();
+  var el=$("txt").querySelector('[data-pg="'+cur+'"][data-k="'+fk+'"]')||$("txt").querySelector('[data-pg="'+cur+'"][data-k="0"]');
+  if(el)window.scrollTo(0,Math.max(0,el.getBoundingClientRect().top+scrollY-70));
+  updateProgress();
+  trTok++;if(trm!=="0")runTr(cur);
+}
+function exitScroll(){
+  var fk=firstVisibleK();
+  scrPages={first:0,last:-1};
+  render(cur,false);
+  var el=$("txt").querySelector('[data-k="'+fk+'"]');
+  if(el)window.scrollTo(0,Math.max(0,el.getBoundingClientRect().top+scrollY-70));
+}
+function setMode(m){
+  if(m===S.mode||!pages.length)return;
+  S.mode=m;ls("rv.mode",m);apply();
+  if(m==="scroll")enterScroll();else exitScroll();
+}
+var scrTicking=false;
+function scrollTick(){
+  if(scrTicking)return;scrTicking=true;
+  requestAnimationFrame(function(){scrTicking=false;
+    var a=anchorEl();
+    if(a&&a.dataset.pg!=null){var pg=+a.dataset.pg;if(pg!==cur){cur=pg;ls("rv.pos."+id,cur);if(trm!=="0"){trTok++;runTr(cur)}}}
+    var de=document.documentElement;
+    if(scrPages.last<pages.length-1&&scrollY+innerHeight>de.scrollHeight-1500)ensurePage(scrPages.last+1);
+    if(scrPages.first>0&&scrollY<900)ensurePage(scrPages.first-1);
+    updateProgress();
+  });
+}
 
 /* ---------- sheets ---------- */
 var sheet="";
@@ -205,9 +336,10 @@ function openSheet(k,btn){
 }
 $("sx").onclick=closeSheet;$("back2").onclick=closeSheet;
 $("bT").onclick=function(){openSheet("toc",this)};$("bS").onclick=function(){openSheet("search",this)};$("bA").onclick=function(){openSheet("set",this)};$("bM").onclick=function(){openSheet("more",this)};
+$("bB").onclick=function(){var a=anchorEl();if(!a)return;var pg=a.dataset.pg!=null?+a.dataset.pg:cur;var g=pages[pg].a+ +a.dataset.k;var list=bmList();var ix=-1;list.forEach(function(bb,j){if(bb.g===g)ix=j});if(ix>=0)list.splice(ix,1);else list.push({p:pg,g:g,s:(a.textContent||"").trim().slice(0,70),t:Date.now()});ls("rv.bm."+id,JSON.stringify(list));refreshBookmarkBtn()};
 function tocView(b){
   var cp=cur,h="";
-  toc.forEach(function(e,i){var nxt=toc[i+1],isCur=e.p<=cp&&(!nxt||nxt.p>cp);h+='<button class="li l'+e.l+(isCur?" cur":"")+'" data-p="'+e.p+'" data-g="'+e.gi+'">'+esc(e.t)+"<small>"+L.page+" "+(e.p+1)+"</small></button>"});
+  toc.forEach(function(e,i){var nxt=toc[i+1],isCur=e.p<=cp&&(!nxt||nxt.p>cp);var end=nxt?nxt.gi:P.length;var mins=Math.max(1,Math.round((wordPrefix[end]-wordPrefix[e.gi])/WPM));h+='<button class="li l'+e.l+(isCur?" cur":"")+'" data-p="'+e.p+'" data-g="'+e.gi+'">'+esc(e.t)+"<small>"+L.page+" "+(e.p+1)+" · ~"+mins+" "+L.min+"</small></button>"});
   b.innerHTML=h;var c=b.querySelector(".cur");if(c)c.scrollIntoView({block:"center"});
   b.onclick=function(ev){var x=ev.target.closest(".li");if(!x)return;closeSheet();go(+x.dataset.p);var k=+x.dataset.g-pages[+x.dataset.p].a;if(k>0)flash(k)};
 }
@@ -226,14 +358,23 @@ function doSearch(qq){
 function seg(label,key,opts){var h='<div class="lab">'+label+'</div><div class="seg" data-k="'+key+'">';opts.forEach(function(o){h+='<button data-v="'+o[0]+'"'+(String(S[key])===String(o[0])?' class="on"':"")+">"+o[1]+"</button>"});return h+"</div>"}
 function setView(b){
   b.innerHTML='<div class="lab">'+L.size+'</div><div class="seg" id="szs"><button data-d="-1">A−</button><button data-d="1">A+</button><span style="align-self:center;color:var(--mut)" id="szv">'+S.fs+'px</span></div>'+
-   seg(L.font,"ff",[["serif",L.serif],["sans",L.sans]])+seg(L.theme,"th",[["auto",L.auto],["light",L.light],["sepia",L.sepia],["dark",L.dark]])+
+   '<div class="lab">'+L.font+'</div><div class="fgrid" id="fgrid">'+FONTIDS.map(function(fid){var f=FONTS[fid];return '<button class="fontopt'+(S.font===fid?" sel":"")+'" data-font="'+fid+'"><span class="fname" style="font-family:'+f.css+'">Đức tin</span><span class="fkind">'+f.name+" · "+f.kind+"</span></button>"}).join("")+"</div>"+
+   seg(L.wt,"weight",[["400",L.li],["500",L.mid],["700",L.bo]])+
+   seg(L.theme,"th",[["auto",L.auto],["light",L.light],["sepia",L.sepia],["dark",L.dark],["black",L.black]])+
    seg(L.lh,"lh",[["1.5","1.5"],["1.75","1.75"],["2","2"]])+seg(L.wd,"wd",[["34",L.narrow],["42",L.mid],["52",L.wide]])+
+   seg(L.mg,"margin",[["10",L.narrow],["18",L.mid],["32",L.wide]])+
+   seg(L.ju,"justify",[["1",L.on],["0",L.off]])+
+   seg(L.md,"mode",[["page",L.pg2],["scroll",L.sc]])+
+   '<div class="lab">'+L.bri+'</div><input type="range" class="rng" id="brg" min="50" max="100" value="'+S.bright+'"><div style="color:var(--mut);font-size:13px;margin-bottom:6px"><span id="brv">'+S.bright+'%</span></div>'+
    '<div class="lab">'+L.trans+'</div><div class="seg" id="trs2">'+[["0",L.off],["1",L.vi],["2",L.bi]].map(function(o){return'<button data-v="'+o[0]+'"'+(trm===o[0]?' class="on"':"")+">"+o[1]+"</button>"}).join("")+"</div>";
+  var brg=$("brg");if(brg)brg.addEventListener("input",function(){S.bright=+this.value;ls("rv.bright",S.bright);var v=$("brv");if(v)v.textContent=S.bright+"%";apply()});
   b.onclick=function(ev){
     var x=ev.target.closest("button");if(!x)return;
+    var fo=x.closest("[data-font]");
+    if(fo){S.font=fo.getAttribute("data-font");ls("rv.font",S.font);apply();[].forEach.call(b.querySelectorAll(".fontopt"),function(c){c.classList.toggle("sel",c===fo)});return}
     if(x.parentNode.id==="szs"){sv("fs",Math.max(14,Math.min(32,S.fs+(+x.dataset.d))));$("szv").textContent=S.fs+"px";return}
     if(x.parentNode.id==="trs2"){setTr(x.dataset.v);setView(b);return}
-    var k=x.parentNode.dataset.k;if(k){sv(k,x.dataset.v);[].forEach.call(x.parentNode.children,function(c){c.classList.toggle("on",c===x)})}
+    var k=x.parentNode.dataset.k;if(k){if(k==="mode")setMode(x.dataset.v);else sv(k,x.dataset.v);[].forEach.call(x.parentNode.children,function(c){c.classList.toggle("on",c===x)})}
   };
 }
 function bmList(){try{return JSON.parse(ls("rv.bm."+id)||"[]")}catch(e){return[]}}
@@ -280,17 +421,19 @@ function progImport(f){
 function moreView(b){
   var bm=bmList(),h='<button class="act" id="mBm">🔖 '+L.addm+'</button><button class="act" id="mHl">🖍 '+L.hl+" ("+hlList().length+")</button>";
   if(SV)h+='<button class="act" id="mRev">'+(REV?"✅ Chế độ duyệt: BẬT":"✓ Chế độ duyệt bản dịch")+"</button>";
-  h+='<div class="lab">'+L.marks+"</div>"+(bm.length?bm.map(function(m,i){return'<button class="li" data-p="'+m.p+'" data-i="'+i+'">'+esc(m.s)+"<small>"+L.page+" "+(m.p+1)+' · <span data-del="'+i+'">'+L.del+"</span></small></button>"}).join(""):'<div style="color:var(--mut);margin-bottom:10px">'+L.nom+"</div>");
-  h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>"+'<a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+repHref()+'">'+L.rep+'</a><button class="act" id="mEx">'+L.expt+'</button><button class="act" id="mIm">'+L.impt+'</button><input type="file" id="mImF" accept="application/json,.json" hidden>';
+  h+='<div class="lab">'+L.marks+"</div>"+(bm.length?bm.map(function(m,i){return'<button class="li" data-p="'+m.p+'" data-g="'+(m.g!=null?m.g:"")+'" data-i="'+i+'">'+esc(m.s)+"<small>"+L.page+" "+(m.p+1)+' · <span data-del="'+i+'">'+L.del+"</span></small></button>"}).join(""):'<div style="color:var(--mut);margin-bottom:10px">'+L.nom+"</div>");
+  h+='<div class="lab">'+L.more+'</div><button class="act" id="mEp">📘 '+L.epub+'</button><button class="act" id="mPd">🖨 '+L.pdf+'</button><button class="act" id="mTx">📄 '+L.dlx+'</button><button class="act" id="mHt">🌐 '+L.dlh+'</button><a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+ext+'">🌐 '+L.ccel+"</a>"+'<a class="act" style="display:block;color:inherit;text-decoration:none" target="_blank" rel="noopener" href="'+repHref()+'">'+L.rep+'</a><button class="act" id="mEx">'+L.expt+'</button><button class="act" id="mIm">'+L.impt+'</button><input type="file" id="mImF" accept="application/json,.json" hidden>';
   b.innerHTML=h;
   var imf=document.getElementById("mImF");if(imf)imf.onchange=function(){if(this.files&&this.files[0])progImport(this.files[0])};
   b.onclick=function(ev){
     var d=ev.target.closest("[data-del]");if(d){var a=bmList();a.splice(+d.dataset.del,1);ls("rv.bm."+id,JSON.stringify(a));moreView(b);ev.stopPropagation();return}
-    var li=ev.target.closest(".li");if(li){closeSheet();go(+li.dataset.p);return}
+    var li=ev.target.closest(".li");if(li){closeSheet();var pp=+li.dataset.p,gg=li.dataset.g;if(gg!==""&&gg!=null)go(pp,{flash:+gg-pages[pp].a});else go(pp);return}
     if(ev.target.closest("#mHl")){closeSheet();openSheet("notes");return}
-    if(ev.target.closest("#mBm")){var a2=bmList(),pt=ptexts(cur)[0]||"";a2.push({p:cur,s:pt.slice(0,70),t:Date.now()});ls("rv.bm."+id,JSON.stringify(a2));moreView(b);return}
+    if(ev.target.closest("#mBm")){var a2=bmList(),an=anchorEl(),pg2=an&&an.dataset.pg!=null?+an.dataset.pg:cur,gg2=an?pages[pg2].a+ +an.dataset.k:pages[cur].a,pt=an?(an.textContent||"").trim().slice(0,70):(ptexts(cur)[0]||"").slice(0,70);a2.push({p:pg2,g:gg2,s:pt,t:Date.now()});ls("rv.bm."+id,JSON.stringify(a2));moreView(b);return}
     if(ev.target.closest("#mEp"))doEpub(ev.target.closest("#mEp"));
     if(ev.target.closest("#mPd"))doPdf();
+    if(ev.target.closest("#mTx"))dlTxt();
+    if(ev.target.closest("#mHt"))dlHtml();
     if(ev.target.closest("#mEx"))progExport();
     if(ev.target.closest("#mIm")){var ff=document.getElementById("mImF");if(ff)ff.click();return}
     if(ev.target.closest("#mRev")){REV=!REV;try{localStorage.setItem("rv.revmode",REV?"1":"0")}catch(e){}closeSheet();revUI();return}
@@ -366,7 +509,7 @@ function getTr2(i,src,onP,tok){
 }
 var FIX=[[/(?:Đức )?Chúa Giê-?su Ki-?tô|(?:Đức )?Chúa Giêsu Kitô|Giê-?su Ki-?tô|Giêsu Kitô/gi,"Chúa Jesus Christ"],[/Đức Chúa Giê-?xu|Đức Chúa Giê-?su|Chúa Giê-?su|Chúa Giê-?xu|Chúa Giêsu/gi,"Chúa Jesus"],[/Giê-?su|Giêsu|Giê-xu/gi,"Jesus"],[/Ki-?tô/gi,"Christ"],[/biện minh cho (tôi|chúng ta|ta|họ|người|kẻ|con)/gi,"xưng công chính cho $1"],[/(được|bị|đã|sẽ|đang) biện minh/gi,"$1 xưng công chính"],[/sự biện minh/gi,"sự xưng công chính"],[/sự thánh hóa|sự thánh hoá|thánh hóa|thánh hoá/gi,"sự nên thánh"],[/Chúa Thánh Thần|Thánh Thần/gi,"Đức Thánh Linh"],[/Thiên Chúa/gi,"Đức Chúa Trời"],[/Giáo hội/gi,"Hội Thánh"],[/Thánh Kinh|Kinh thánh/g,"Kinh Thánh"],[/Institutes of the Christian Religion/gi,"Cơ Đốc Giáo Cương Yếu"],[/\bInstitutes\b/gi,"Cương Yếu"],[/Tin Mừng|Tin mừng/g,"Phúc Âm"],[/ân sủng/gi,"ân điển"],[/tái sinh/gi,"tái sanh"],[/Giăng Calvin|Gioan Calvin|Giăng Cal-?vin/g,"John Calvin"],[/Gioan/g,"Giăng"],[/Phao-?lô|Phaolô/g,"Phao-lô"],[/Phê-?rô|Phêrô/g,"Phi-e-rơ"],[/Đa-?vít|Đavít/g,"Đa-vít"],[/Môi-?sê|Mô-?sê|Môsê/g,"Môi-se"],[/Áp-?ra-?ham|Abraham/g,"Áp-ra-ham"],[/phép rửa tội|lễ rửa tội/gi,"phép báp-têm"],[/rửa tội/gi,"báp-têm"],[/thập giá|thánh giá/gi,"thập tự giá"],[/nguyên tội/gi,"tội nguyên tổ"],[/các thánh nhân/gi,"các thánh đồ"],[/Chủ nhật/g,"Chúa nhật"],[/hội thánh/g,"Hội Thánh"],[/thánh nhân/gi,"thánh đồ"],[/Satan|Sa-?tăng/g,"Sa-tan"],[/Ân sủng|ân sủng/g,"ân điển"],[/sự cứu chuộc/gi,"sự cứu chuộc"],[/Chúa Cha và Chúa Con/g,"Đức Chúa Cha và Đức Chúa Con"],[/(Đức )?(Chúa )+(Chúa )/g,"Chúa "],[/Đức Đức/g,"Đức"],[/Chúa Chúa/g,"Chúa"]];
 function fixVi(t){if(!t)return t;for(var i=0;i<FIX.length;i++){t=t.replace(FIX[i][0],function(){var a=arguments,r=FIX[i][1].replace(/\$(\d)/g,function(_,n){return a[+n]||""});var c0=a[0].charAt(0);return c0!==c0.toLowerCase()?r.charAt(0).toUpperCase()+r.slice(1):r})}return t}
-function paint(k,v){v=fixVi(v);var e=$("txt").querySelector('[data-k="'+k+'"]');if(!e)return;e.innerHTML=esc(v)+(trm==="2"?'<span class="orig">'+esc(ptexts(cur)[k])+"</span>":"")}
+function paint(k,v){v=fixVi(v);var e=$("txt").querySelector('[data-pg="'+cur+'"][data-k="'+k+'"]');if(!e)return;e.innerHTML=esc(v)+(trm==="2"?'<span class="orig">'+esc(ptexts(cur)[k])+"</span>":"")}
 function runTr(i){
   var tok=trTok,st=$("trs");st.hidden=false;st.textContent=L.tr1;
   var n=pages[i].b-pages[i].a,c=0;
@@ -374,13 +517,13 @@ function runTr(i){
   trp[i].then(function(){if(tok!==trTok)return;st.textContent=L.trd;if(i+1<pages.length&&trm!=="0"&&!trCacheGet(i+1)){var nt=trTok;setTimeout(function(){if(nt===trTok)getTr(i+1,null,nt).catch(function(){})},1500)}})
    .catch(function(){if(tok===trTok)st.innerHTML=L.trf+' <a href="https://translate.google.com/?sl=en&tl=vi&op=translate" target="_blank" rel="noopener">Google Translate</a>'});
 }
-function setTr(m){if(!pages.length)return;trm=m;ls("rv.trm",m);$("tr").classList.toggle("on",m!=="0");stopA(true);render(cur,false)}
+function setTr(m){if(!pages.length)return;trm=m;ls("rv.trm",m);$("tr").classList.toggle("on",m!=="0");stopA(true);if(S.mode==="scroll")enterScroll();else render(cur,false)}
 $("tr").classList.toggle("on",trm!=="0");
 $("tr").onclick=function(){setTr(trm==="0"?"1":trm==="1"?"2":"0")};
 $("tr").title=L.trans;
 
 /* ---------- listen (device voice or Piper) ---------- */
-var playing=false,paused=false,queue=[],qi=0,VOICES=[],keep=null,sleepT=null;
+var playing=false,paused=false,queue=[],qi=0,VOICES=[],sleepT=null;
 /* Phones suspend device speech (speechSynthesis) when the screen locks or the app is backgrounded; real audio files keep playing. So Auto = audio on phones. */
 var MOB=/Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent);
 function useG(lg){var v=ls("rv.voice");if(v==="pre"||v==="prem")v="";return v==="gtts"||(!v&&((lg==="vi"&&!pick("vi"))||MOB))}
@@ -404,18 +547,47 @@ function pick(lg){
 var gfail=0,PV={en:"en_US-lessac-medium",vi:"vi_VN-vais1000-medium"},pmod=null,pprog=0,pready=0,pc={},paudio=new Audio(),pfail=0;
 function pLoad(){return pmod||(pmod=import("https://cdn.jsdelivr.net/npm/@mintplex-labs/piper-tts-web@1.0.4/+esm"))}
 function pSynth(t){var lg=lgOf(t),k=lg+t;if(!pc[k]){var ks=Object.keys(pc);if(ks.length>6)delete pc[ks[0]];pc[k]=pLoad().then(function(m){return m.predict({text:t,voiceId:PV[lg]},function(p){if(p&&p.total&&!pready)pprog=Math.round(p.loaded/p.total*100);if(p&&p.total&&p.loaded>=p.total)pready=1})})}return pc[k]}
-function mark(k){[].forEach.call($("txt").querySelectorAll(".rd"),function(e){e.classList.remove("rd")});var el=$("txt").querySelector('[data-k="'+k+'"]');if(el){el.classList.add("rd");var r=el.getBoundingClientRect();if(r.top<80||r.bottom>innerHeight-160)el.scrollIntoView({block:"center",behavior:"smooth"})}}
+function clearSpeakMarks(){[].forEach.call($("txt").querySelectorAll(".rd,.speaking"),function(e){e.classList.remove("rd");e.classList.remove("speaking")})}
+function mark(k){clearSpeakMarks();var el=$("txt").querySelector('[data-pg="'+cur+'"][data-k="'+k+'"]');if(el){el.classList.add("rd");try{var r=el.getBoundingClientRect();if(r.top<80||r.bottom>innerHeight-160)el.scrollIntoView({block:"center",behavior:"smooth"})}catch(e){}}}
+function markSent(k,si){
+  clearSpeakMarks();
+  var el=$("txt").querySelector('[data-pg="'+cur+'"][data-k="'+k+'"]');if(!el)return;
+  var sp=el.querySelector('.sent[data-si="'+si+'"]');
+  var tgt=sp||el;tgt.classList.add(sp?"speaking":"rd");
+  var n=sp?el.querySelectorAll(".sent").length:(qTexts&&qTexts[k]?splitSentences(qTexts[k]).length:1);
+  var ap=$("apos");if(ap)ap.textContent=L.sent+" "+(si+1)+"/"+Math.max(1,n);
+  try{var r=tgt.getBoundingClientRect();if(r.top<80||r.bottom>innerHeight-160)tgt.scrollIntoView({block:"center",behavior:"smooth"})}catch(e){}
+}
+function speakSoon(){setTimeout(function(){if(playing&&!paused)speak()},70)}
 /* giọng tự nhiên tạo sẵn (tts/index.json) */
 var PRE=null,PREBAD=0;function lpre(n){fetch("tts/index.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null}).then(function(j){if(j&&((j.books&&j.books[name])||(j.male&&j.male[name]))){PRE={b:j.base+name+"/",n:(j.books||{})[name]||0,bm:j.base+name+"-m/",nm:(j.male||{})[name]||0};loadVoices();var bd=document.createElement("span");bd.textContent="🎧 Giọng tự nhiên";bd.style.cssText="display:block;text-align:center;font-size:13px;color:var(--ac);margin:6px 0";$("txt").insertAdjacentElement("beforebegin",bd)}}).catch(function(){if(n<3)setTimeout(function(){lpre(n+1)},1500)})}if(SV)lpre(1);
 function it0(){return PRE&&!PREBAD&&queue[Math.max(0,qi-1)]&&queue[Math.max(0,qi-1)].g!=null}
 function preOn(){var v=ls("rv.voice");if(!PRE||PREBAD||trm!=="0")return"";if(v==="prem"&&PRE.nm)return"m";if((!v||v==="pre")&&PRE.n)return"f";if(!v&&PRE.nm)return"m";return""}
 function preB(x){return x==="m"?PRE.bm:PRE.b}
-async function buildQueue(startK){
+var qTexts=[];
+async function buildQueue(startK,startSi){
   var texts=ptexts(cur);
   if(trm!=="0"){try{var t=await trp[cur];if(t&&t.length===texts.length)texts=t}catch(e){}}
-  queue=[];var pre=preOn(),pg0=pages[cur].a;texts.forEach(function(tx,k){if(k<startK)return;if(pre&&pg0+k<(pre==="m"?PRE.nm:PRE.n)&&/\w/.test(tx)){queue.push({t:tx,k:k,g:pg0+k,v:pre});return}chunks(tx).forEach(function(c){queue.push({t:c,k:k})})});qi=0;
+  qTexts=texts;
+  queue=[];var pre=preOn(),pg0=pages[cur].a;startK=startK||0;startSi=startSi||0;
+  texts.forEach(function(tx,k){
+    if(k<startK)return;
+    if(pre&&pg0+k<(pre==="m"?PRE.nm:PRE.n)&&/\w/.test(tx)){queue.push({t:tx,k:k,g:pg0+k,v:pre});return}
+    var ss=splitSentences(tx);
+    var base=(k===startK)?startSi:0;
+    if(base>=ss.length)base=Math.max(0,ss.length-1);
+    for(var j=base;j<ss.length;j++){
+      var s=ss[j];
+      var lim=useG(lgOf(s))?190:(ls("rv.voice")==="piper"?260:380);
+      if(s.length>lim){chunks(s).forEach(function(c){queue.push({t:c,k:k,si:j})})}
+      else queue.push({t:s,k:k,si:j});
+    }
+  });
+  qi=0;
 }
-function firstVisibleK(){var els=$("txt").children;for(var i=0;i<els.length;i++){if(els[i].getBoundingClientRect().bottom>90)return+els[i].dataset.k}return 0}
+function anchorEl(){var el=null;try{el=document.elementFromPoint(Math.round(innerWidth/2),100)}catch(e){}if(el&&el.closest){var c=el.closest("#txt [data-k]");if(c)return c}var els=$("txt").children;for(var i=0;i<els.length;i++){if(els[i].getBoundingClientRect().bottom>90)return els[i]}return els.length?els[0]:null}
+function refreshBookmarkBtn(){var a=anchorEl();if(!a)return;var pg=a.dataset.pg!=null?+a.dataset.pg:cur;var g=pages[pg].a+ +a.dataset.k;var has=bmList().some(function(b){return b.g===g});var bb=$("bB");if(bb)bb.classList.toggle("on",has)}
+function firstVisibleK(){var a=anchorEl();if(!a)return 0;if(a.dataset.pg!=null)cur=+a.dataset.pg;return +a.dataset.k}
 var sid=0,gb={},gbk=[];function gBlob(u){if(!gb[u]){gb[u]=fetch(u).then(function(r){if(!r.ok)throw 0;return r.blob()}).then(function(b){return URL.createObjectURL(b)});gb[u].catch(function(){delete gb[u]});gbk.push(u);while(gbk.length>10){var o=gbk.shift();if(gb[o])gb[o].then(function(x){try{URL.revokeObjectURL(x)}catch(e){}});delete gb[o]}}return gb[u]}
 var gc={};function gU(t,l){return"api/tts?tl="+l+"&q="+encodeURIComponent(t.slice(0,200))}
 function gP(t,l){var u=gU(t,l);if(gc[u])return;gc[u]=1;try{fetch(u).catch(function(){})}catch(e){}}
@@ -424,8 +596,8 @@ var PRON=[["Jesus","Giê xu"],["Christianity","Cơ Đốc giáo"],["Christian","
 function pron(t){for(var i=0;i<PRON.length;i++)t=t.split(PRON[i][0]).join(PRON[i][1]);return t.replace(/\bChrist\b/g,"Cơ Đốc")}
 function speak(){
   if(!playing||paused)return;
-  if(qi>=queue.length){if(cur<pages.length-1){render(cur+1);buildQueue(0).then(function(){if(playing)speak()})}else stopA();return}
-  sid++;var it=queue[qi++];mark(it.k);
+  if(qi>=queue.length){if(cur<pages.length-1){if(S.mode==="scroll"){cur++;ensurePage(cur);buildQueue(0,0).then(function(){if(playing)speak()})}else{render(cur+1);buildQueue(0,0).then(function(){if(playing)speak()})}}else stopA();return}
+  sid++;var it=queue[qi++];if(it.si!=null)markSent(it.k,it.si);else mark(it.k);
   if(it.g!=null){
     var pa=paudio,my2=sid;pa.playbackRate=+$("sp").value;
     for(var j2=0;j2<2;j2++){var n2=queue[qi+j2];if(n2&&n2.g!=null)try{fetch(preB(n2.v)+n2.g+".mp3").catch(function(){})}catch(e){}}
@@ -453,7 +625,11 @@ var tx=lgOf(it.t)==="vi"?pron(it.t):it.t;
   var lg=lgOf(it.t),v=pick(lg),u=new SpeechSynthesisUtterance(tx);
   u.rate=+$("sp").value;u.lang=v?v.lang:(lg==="vi"?"vi-VN":"en-US");if(v)u.voice=v;
   u.onend=function(){setTimeout(speak,0)};
-  u.onerror=function(e){if(e.error!=="interrupted"&&e.error!=="canceled")stopA()};speechSynthesis.speak(u);
+  u.onerror=function(e){if(e.error==="interrupted"||e.error==="canceled")return;setTimeout(speak,0)};
+  /* Clear any stuck "paused" state before every utterance: Android Chrome can leave
+     speechSynthesis paused forever after pause()/resume() — the reported bug. */
+  try{if(speechSynthesis.paused)speechSynthesis.resume()}catch(e){}
+  speechSynthesis.speak(u);
 }
 function cancelSpeech(){try{speechSynthesis.cancel()}catch(e){}try{paudio.pause()}catch(e){}}
 function msSet(){if(!("mediaSession" in navigator))return;try{navigator.mediaSession.metadata=new MediaMetadata({title:document.title.replace(/\s*·\s*Reformed Vietnam$/,""),artist:"Reformed Vietnam",album:"Sách nói",artwork:[{src:"/icon-512.png",sizes:"512x512",type:"image/png"}]});var h=function(a,f){try{navigator.mediaSession.setActionHandler(a,f)}catch(e){}};h("play",function(){if(!playing||paused)pauseToggle()});h("pause",function(){if(playing&&!paused)pauseToggle()});h("nexttrack",function(){jump(1)});h("previoustrack",function(){jump(-1)})}catch(e){}}
@@ -462,28 +638,51 @@ function startA(){
   if(!window.speechSynthesis&&ls("rv.voice")!=="piper"&&ls("rv.voice")!=="gtts"){alert(L.nov);return}
   pfail=0;gfail=0;playing=true;paused=false;$("pl").classList.add("on");$("au").classList.add("on");$("pt").textContent="⏸";sizeFoot();
   cancelSpeech();loadVoices();msSet();msState("playing");
-  buildQueue(firstVisibleK()).then(function(){speak()});
-  clearInterval(keep);keep=setInterval(function(){if(playing&&!paused&&window.speechSynthesis&&speechSynthesis.speaking&&!speechSynthesis.paused&&ls("rv.voice")!=="piper"){speechSynthesis.pause();speechSynthesis.resume()}},12000);
+  buildQueue(firstVisibleK(),0).then(function(){speakSoon()});
 }
 function stopA(soft){
-  playing=false;paused=false;clearInterval(keep);cancelSpeech();msState("none");$("pt").textContent="▶";
-  [].forEach.call($("txt").querySelectorAll(".rd"),function(e){e.classList.remove("rd")});
+  playing=false;paused=false;cancelSpeech();msState("none");$("pt").textContent="▶";
+  clearSpeakMarks();
+  var ap=$("apos");if(ap)ap.textContent="";
   if(!soft){$("pl").classList.remove("on");$("au").classList.remove("on");clearTimeout(sleepT)}
 }
 function pauseToggle(){
   if(!playing){startA();return}
-  if(paused){paused=false;msState("playing");$("pt").textContent="⏸";qi=Math.max(0,qi-1);speak()}else{paused=true;msState("paused");cancelSpeech();$("pt").textContent="▶"}
+  if(paused){paused=false;msState("playing");$("pt").textContent="⏸";qi=Math.max(0,qi-1);speakSoon()}
+  /* Never use speechSynthesis.pause()/resume() for pause: on Android Chrome resume()
+     after pause() often never speaks again. Pause = cancel + remember the sentence;
+     play = speak the current sentence again from its start. */
+  else{paused=true;msState("paused");cancelSpeech();$("pt").textContent="▶"}
 }
 function jump(d){
-  if(!playing)return;var k=queue[Math.max(0,qi-1)]?queue[Math.max(0,qi-1)].k:0,t=Math.max(0,k+d);cancelSpeech();
-  if(t>=pages[cur].b-pages[cur].a){if(cur<pages.length-1){render(cur+1);t=0}else t=k}
-  buildQueue(t).then(function(){paused=false;speak()});
+  if(!playing)return;
+  if(it0()){
+    var k0=queue[Math.max(0,qi-1)]?queue[Math.max(0,qi-1)].k:0,t0=Math.max(0,k0+d);cancelSpeech();
+    if(t0>=pages[cur].b-pages[cur].a){if(cur<pages.length-1){render(cur+1);t0=0}else t0=k0}
+    buildQueue(t0,0).then(function(){paused=false;speakSoon()});return;
+  }
+  var it=queue[Math.max(0,qi-1)];if(!it)return;
+  cancelSpeech();
+  var k=it.k,si=it.si||0,n=splitSentences(qTexts[k]||"").length;
+  function goQ(kk,ss){buildQueue(kk,ss).then(function(){paused=false;speakSoon()})}
+  function goPage(pg,kk,ss){if(S.mode==="scroll"){cur=pg;ensurePage(pg);goQ(kk,ss)}else{render(pg);goQ(kk,ss)}}
+  if(d>0){
+    if(si+1<n)goQ(k,si+1);
+    else if(k+1<pages[cur].b-pages[cur].a)goQ(k+1,0);
+    else if(cur<pages.length-1)goPage(cur+1,0,0);
+    else goQ(k,si);
+  }else{
+    if(si>0)goQ(k,si-1);
+    else if(k>0){var pn2=splitSentences(qTexts[k-1]||"").length;goQ(k-1,Math.max(0,pn2-1))}
+    else if(cur>0){var pg2=cur-1,lk=pages[pg2].b-pages[pg2].a-1,ln2=splitSentences(ptexts(pg2)[lk]||"").length;goPage(pg2,lk,Math.max(0,ln2-1))}
+    else goQ(k,0);
+  }
 }
 $("au").onclick=function(){if(playing||$("pl").classList.contains("on"))stopA();else startA()};
 $("pt").onclick=pauseToggle;$("px").onclick=function(){stopA()};
 $("pp").onclick=function(){jump(-1)};$("pn2").onclick=function(){jump(1)};
-$("sp").onchange=function(){if(ls("rv.voice")==="piper"||(it0()&&paudio.src)||ls("rv.voice")==="gtts"||(!ls("rv.voice")&&paudio.src&&!paudio.paused)){paudio.playbackRate=+$("sp").value;return}if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speak()}};
-$("vo").onchange=function(){ls("rv.voice",$("vo").value);if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speak()}};
+$("sp").onchange=function(){if(ls("rv.voice")==="piper"||(it0()&&paudio.src)||ls("rv.voice")==="gtts"||(!ls("rv.voice")&&paudio.src&&!paudio.paused)){paudio.playbackRate=+$("sp").value;return}if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speakSoon()}};
+$("vo").onchange=function(){ls("rv.voice",$("vo").value);if(playing&&!paused){cancelSpeech();qi=Math.max(0,qi-1);speakSoon()}};
 $("stm").onchange=function(){clearTimeout(sleepT);var m=+$("stm").value;if(m)sleepT=setTimeout(function(){stopA();$("stm").value="0"},m*60000)};
 if(window.speechSynthesis){loadVoices();speechSynthesis.onvoiceschanged=loadVoices}else loadVoices();
 window.addEventListener("beforeunload",function(){cancelSpeech()});
@@ -492,6 +691,13 @@ window.addEventListener("beforeunload",function(){cancelSpeech()});
 function doPdf(){
   var b=$("all");b.innerHTML="<h1>"+esc(name)+"</h1>"+P.map(function(p){return p.h?"<h2>"+esc(p.t)+"</h2>":"<p>"+esc(p.t)+"</p>"}).join("");closeSheet();window.print();
 }
+/* ---------- TXT / HTML downloads (Kindle-like sample) ---------- */
+function saveBlob(blob,filename){var url=URL.createObjectURL(blob);var a=document.createElement("a");a.href=url;a.download=filename;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(url);if(a.parentNode)a.parentNode.removeChild(a)},900)}
+function dlBase(){return fold(name).toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"")||"sach"}
+function bookText(){var out=[name,""];P.forEach(function(p){out.push(p.t,"")});return out.join("\n")}
+function bookHTML(){var tocHtml=toc.map(function(e){return '<li><a href="#muc-'+e.gi+'">'+esc(e.t)+"</a></li>"}).join("");var body=P.map(function(p,i){return p.h?'<h2 id="muc-'+i+'">'+esc(p.t)+"</h2>":"<p>"+esc(p.t).replace(/\n/g,"<br/>")+"</p>"}).join("");return '<!doctype html><html lang="vi"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>'+esc(name)+'</title><style>body{font-family:Georgia,"Times New Roman",serif;max-width:680px;margin:40px auto;padding:0 20px 60px;line-height:1.8;color:#201b14}h1{line-height:1.3}h2{margin-top:2em;line-height:1.4}a{color:#7c2128}</style></head><body><h1>'+esc(name)+'</h1><hr/><h2>Mục lục</h2><ol>'+tocHtml+'</ol><hr/>'+body+"</body></html>"}
+function dlTxt(){saveBlob(new Blob(["\ufeff"+bookText()],{type:"text/plain;charset=utf-8"}),dlBase()+".txt")}
+function dlHtml(){saveBlob(new Blob(["\ufeff"+bookHTML()],{type:"text/html;charset=utf-8"}),dlBase()+".html")}
 function loadZip(){return new Promise(function(ok,no){if(window.JSZip)return ok();var s=document.createElement("script");s.src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js";s.onload=ok;s.onerror=no;document.head.appendChild(s)})}
 function doEpub(btn){
   var old=btn.textContent;btn.textContent="…";
@@ -535,7 +741,7 @@ function hlGet(g){for(var i=0;i<hl.length;i++)if(hl[i].g===g&&!hl[i].d)return hl
 function hlPut(g,f){var h=null;for(var i=0;i<hl.length;i++)if(hl[i].g===g){h=hl[i];break}if(!h){h={g:g,q:(P[g]?P[g].t:"").slice(0,160),c:0};hl.push(h)}h.d=0;for(var k in f)h[k]=f[k];h.t=Date.now();return h}
 function hlSave(){ls("rv.hl."+id,JSON.stringify(hl));hlPaint();clearTimeout(hlT);hlT=setTimeout(hlSync,3000)}
 var hlT;
-function hlPaint(){if(!pages.length)return;[].forEach.call($("txt").querySelectorAll("[data-k]"),function(e){e.classList.remove("hl0","hl1","hl2","hn");var h=hlGet(pages[cur].a+ +e.dataset.k);if(h){e.classList.add("hl"+(h.c||0));if(h.n)e.classList.add("hn")}})}
+function hlPaint(){if(!pages.length)return;[].forEach.call($("txt").querySelectorAll("[data-k]"),function(e){e.classList.remove("hl0","hl1","hl2","hn");var pg=e.dataset.pg!=null?+e.dataset.pg:cur;var h=hlGet(pages[pg].a+ +e.dataset.k);if(h){e.classList.add("hl"+(h.c||0));if(h.n)e.classList.add("hn")}})}
 function hlMerge(a,b){var m={};(a||[]).concat(b||[]).forEach(function(h){var o=m[h.g];if(!o||(h.t||0)>(o.t||0))m[h.g]=h});return Object.keys(m).map(function(k){return m[k]})}
 function hlSync(){
   var c=ls("rv.sync");if(!c)return;
@@ -549,20 +755,28 @@ var hlCur=null;
 function elOf(n){n=n&&n.nodeType===3?n.parentNode:n;return n&&n.closest?n.closest("#txt [data-k]"):null}
 function selInfo(){
   var s=getSelection();if(!s||s.isCollapsed||!s.rangeCount)return null;var r=s.getRangeAt(0),a=elOf(r.startContainer),b=elOf(r.endContainer);if(!a||!b)return null;
-  var ks=[];for(var k=+a.dataset.k;k<=+b.dataset.k;k++)ks.push(k);return{ks:ks,text:s.toString().trim().slice(0,160),rect:r.getBoundingClientRect()}
+  var pg=a.dataset.pg!=null?+a.dataset.pg:cur,pgB=b.dataset.pg!=null?+b.dataset.pg:cur;
+  var endK=+b.dataset.k;if(pgB!==pg)endK=pages[pg].b-pages[pg].a-1;
+  var ks=[];for(var k=+a.dataset.k;k<=endK;k++)ks.push(k);return{pg:pg,ks:ks,text:s.toString().trim().slice(0,160),rect:r.getBoundingClientRect()}
 }
 function showBar(rect,info){
-  var bar=$("hlb");bar.hidden=false;var w=bar.offsetWidth||220,x=Math.max(8,Math.min(innerWidth-w-8,rect.left+rect.width/2-w/2)),y=rect.top-48;if(y<8)y=rect.bottom+10;
-  bar.style.left=x+"px";bar.style.top=y+"px";hlCur=info
+  /* Toolbar is pinned to the top of the screen by CSS (fixed position) so the
+     Android selection menu can never cover it — the confirmed sample fix. */
+  var bar=$("hlb");bar.hidden=false;hlCur=info
 }
 var selT;document.addEventListener("selectionchange",function(){clearTimeout(selT);selT=setTimeout(function(){var i=selInfo();if(i)showBar(i.rect,i);else if(hlCur&&hlCur.tap){}else $("hlb").hidden=true},180)});
 $("txt").addEventListener("click",function(e){
   var s=getSelection();if(s&&!s.isCollapsed)return;var el=e.target.closest(".hl0,.hl1,.hl2");
-  if(el){var k=+el.dataset.k;showBar(el.getBoundingClientRect(),{ks:[k],text:"",tap:1})}else if(hlCur&&hlCur.tap){$("hlb").hidden=true;hlCur=null}
+  if(el){var k=+el.dataset.k;showBar(el.getBoundingClientRect(),{pg:el.dataset.pg!=null?+el.dataset.pg:cur,ks:[k],text:"",tap:1})}else if(hlCur&&hlCur.tap){$("hlb").hidden=true;hlCur=null}
+});
+$("txt").addEventListener("click",function(e){
+  var t=e.target.closest?e.target.closest(".term"):null;if(!t)return;
+  var term=t.getAttribute("data-term"),bp=$("bp");
+  bp.hidden=false;bp.innerHTML='<button class="x" aria-label="x">×</button><h4>'+esc(term)+'</h4><div>'+esc(GLOSSARY[term]||"")+'</div><small>Thuật ngữ thần học</small>';
 });
 $("hlb").addEventListener("mousedown",function(e){e.preventDefault()});
 $("hlb").addEventListener("click",function(e){
-  var b=e.target.closest("button");if(!b||!hlCur)return;var base=pages[cur].a,info=hlCur;
+  var b=e.target.closest("button");if(!b||!hlCur)return;var base=pages[hlCur.pg!=null?hlCur.pg:cur].a,info=hlCur;
   if(b.dataset.c!==undefined){info.ks.forEach(function(k,i){var f={c:+b.dataset.c};if(i===0&&info.text)f.q=info.text;hlPut(base+k,f)});hlSave()}
   else if(b.dataset.x){info.ks.forEach(function(k){var h=hlGet(base+k);if(h){h.d=1;h.t=Date.now()}});hlSave()}
   else if(b.dataset.n){var g=base+info.ks[0],h=hlGet(g);$("nd").hidden=false;$("ndt").value=h&&h.n||"";$("ndt").focus();$("nd").dataset.g=g;$("nd").dataset.q=info.text||""}
@@ -618,7 +832,7 @@ loadText(SV?"txt/"+name+".txt":"api/text?id="+encodeURIComponent(id)).then(funct
   var fnd=q.get("find"),fk=-1;if(fnd){var ff=fold(fnd).trim();for(var i2=0;i2<P.length;i2++){var tt=fold(P[i2].t).trim();if(tt===ff||(tt.length<ff.length+6&&tt.indexOf(ff)===0)){fk=i2;break}}if(fk>=0)pos=pageOf(fk)}
   var at=q.get("at");if(at&&fk<0){var af=fold(at).trim();for(var i3=0;i3<P.length;i3++){if(fold(P[i3].t).trim().indexOf(af)===0){fk=i3;pos=pageOf(fk);break}}}
   if(q.get("tr")==="1"){trm="1";ls("rv.trm","1");$("tr").classList.add("on")}
-  render(pos,false);sizeFoot();hlSync();if(fk>=0)setTimeout(function(){flash(fk-pages[cur].a)},300);
+  cur=Math.max(0,Math.min(pages.length-1,pos));if(S.mode==="scroll")enterScroll();else render(cur,false);sizeFoot();hlSync();if(fk>=0)setTimeout(function(){flash(fk-pages[cur].a)},300);
   if(sc&&sc.p===cur&&sc.y)setTimeout(function(){window.scrollTo(0,sc.y)},50);
 }).catch(fail);
 })();
