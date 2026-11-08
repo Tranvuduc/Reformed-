@@ -583,12 +583,12 @@
             <div class="panel">
               <div class="kicker">Ân Điển Mỗi Ngày · Spurgeon</div>
               <h3>Tĩnh nguyện hôm nay</h3>
-              <div class="dev-date" id="devDate">Thứ Sáu, 6 tháng 11, 2026 · Bài ngày 6/11 trong “Sổ Séc Của Đức Tin” (1888) — bài “Niềm Vui Và Ước Vọng”<span class="ai-label">Bản dịch AI, chưa duyệt</span></div>
-              <blockquote class="dev-verse" id="devVerse">“Hãy vui mừng trong Đức Giê-hô-va; thì Ngài sẽ ban cho ngươi những điều lòng ngươi ước vọng.”</blockquote>
-              <div class="dev-ref" id="devRef">Thi Thiên 37:4</div>
-              <p id="devP1">Vui mừng trong Đức Chúa Trời có một quyền năng biến đổi, và nâng con người lên trên những ước muốn thô tục của bản tính sa ngã chúng ta. Vui mừng trong Đức Giê-hô-va không chỉ ngọt ngào tự nó, mà nó còn làm ngọt ngào cả linh hồn, cho đến khi những khao khát của lòng trở nên như những khao khát của Đức Chúa Trời đến nỗi Ngài có thể an toàn hứa thực hiện chúng. Há chẳng phải là một niềm vui lớn lao sao khi nó uốn nắn ước vọng của chúng ta cho đến khi chúng giống như ước vọng của Đức Chúa Trời?</p>
-              <p id="devP2">Cách khờ dại của chúng ta là ước muốn, rồi bắt tay làm để đạt được điều chúng ta ước muốn. Chúng ta không làm theo cách của Đức Chúa Trời, là tìm kiếm Ngài trước, rồi trông đợi mọi sự sẽ được thêm cho chúng ta. Nếu chúng ta để lòng mình được đầy dẫy Đức Chúa Trời cho đến khi tràn ngập niềm vui, thì chính Chúa sẽ lo liệu để chúng ta không thiếu điều tốt lành nào. Thay vì đi xa tìm niềm vui, chúng ta hãy ở nhà với Đức Chúa Trời, và uống nước từ chính giếng của mình. Ngài có thể làm cho chúng ta nhiều hơn tất cả bạn bè chúng ta. Thà thỏa lòng với một mình Đức Chúa Trời còn hơn đi đây đi đó lo lắng và mòn mỏi vì những điều phù phiếm của thời gian và giác quan. Trong một thời gian chúng ta có thể gặp thất vọng; nhưng nếu những điều này đưa chúng ta đến gần Chúa hơn, chúng là những điều đáng quý vô cùng, vì cuối cùng chúng sẽ đảm bảo cho chúng ta sự ứng nghiệm của mọi ước vọng chính đáng.</p>
-              <p style="margin-top:auto"><a class="btn solid" id="devTodayLink" href="/suy-ngam/">Đọc bài hôm nay →</a> <a class="btn" href="/suy-ngam/">Tất cả 366 bài</a> <a class="btn" href="/kinh-thanh/">Đọc Kinh Thánh 1934</a></p>
+              <div class="dev-date" id="devDate">Chủ Nhật, 8 tháng 11, 2026 · Bài ngày 8/11 trong “Sổ Séc Của Đức Tin” (1888) — bài “SỰ VĨ ĐẠI CỦA ÂN ĐIỂN”<span class="ai-label">Bản dịch AI, chưa duyệt</span></div>
+              <blockquote class="dev-verse" id="devVerse">“Ân điển ta đủ cho ngươi rồi, vì sức mạnh của ta nên trọn vẹn trong sự yếu đuối.”</blockquote>
+              <div class="dev-ref" id="devRef">2 Cô-rinh-tô 12:9</div>
+              <p id="devP1">Sự yếu đuối của chúng ta nên được quý trọng vì nó tạo chỗ cho sức mạnh thiên thượng. Chúng ta có thể chẳng bao giờ biết quyền năng của ân điển nếu chúng ta không cảm thấy sự yếu đuối của bản tính. Ngợi khen Chúa vì cái dằm trong thịt, và sứ giả của Sa-tan, khi chúng thúc đẩy chúng ta đến với sức mạnh của Đức Chúa Trời.</p>
+              <p id="devP2">Đây là một lời quý báu từ chính môi Chúa chúng ta. Nó đã khiến người viết cười vì vui mừng. Ân điển Đức Chúa Trời đủ cho tôi! Tôi nghĩ nó đủ chứ. Há bầu trời chẳng đủ cho chim, và đại dương chẳng đủ cho cá sao? Đấng Đủ Mọi Sự đủ cho nhu cầu lớn nhất của tôi. Đấng đủ cho đất và trời chắc chắn có thể đáp ứng trường hợp của một con sâu hèn như tôi.</p>
+              <p style="margin-top:auto"><a class="btn solid" id="devTodayLink" href="/suy-ngam/11-08.html">Đọc bài hôm nay →</a> <a class="btn" href="/suy-ngam/">Tất cả 366 bài</a> <a class="btn" href="/kinh-thanh/">Đọc Kinh Thánh 1934</a></p>
             </div>
           </div>
         </div>
@@ -1243,22 +1243,46 @@
 <script>
   (function () {
     var days = ["Chủ Nhật", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy"];
-    fetch("/data/devotions.json").then(function (r) { return r.json(); }).then(function (data) {
-      var now = new Date(), m = now.getMonth() + 1, d = now.getDate();
-      var e = null;
-      data.entries.forEach(function (x) { if (x.month === m && x.day === d) e = x; });
+    // "Today" is always Vietnam time: a visitor's device may be in any timezone,
+    // and the site's devotions follow the Asia/Ho_Chi_Minh calendar day.
+    function vnToday() {
+      try {
+        var parts = new Intl.DateTimeFormat("vi-VN", { timeZone: "Asia/Ho_Chi_Minh", weekday: "long", day: "numeric", month: "numeric", year: "numeric" }).formatToParts(new Date());
+        var o = {};
+        parts.forEach(function (p) { o[p.type] = p.value; });
+        return { d: parseInt(o.day, 10), m: parseInt(o.month, 10), y: parseInt(o.year, 10), wd: days.indexOf(o.weekday) };
+      } catch (err) {
+        var now = new Date();
+        return { d: now.getDate(), m: now.getMonth() + 1, y: now.getFullYear(), wd: now.getDay() };
+      }
+    }
+    function applyDevotion(data) {
+      var t = vnToday(), e = null;
+      data.entries.forEach(function (x) { if (x.month === t.m && x.day === t.d) e = x; });
       if (!e) return;
       var pad = function (n) { return String(n).padStart(2, "0"); };
+      var wd = t.wd < 0 ? new Date().getDay() : t.wd;
       var dd = document.getElementById("devDate");
-      if (dd && dd.childNodes[0]) dd.childNodes[0].textContent = days[now.getDay()] + ", " + d + " tháng " + m + ", " + now.getFullYear() + " · Bài ngày " + d + "/" + m + " trong “Sổ Séc Của Đức Tin” (1888) — bài “" + e.title + "”";
+      if (dd && dd.childNodes[0]) dd.childNodes[0].textContent = days[wd] + ", " + t.d + " tháng " + t.m + ", " + t.y + " · Bài ngày " + t.d + "/" + t.m + " trong “Sổ Séc Của Đức Tin” (1888) — bài “" + e.title + "”";
       var v = document.getElementById("devVerse"); if (v) v.textContent = "“" + e.verse + "”";
       var rf = document.getElementById("devRef"); if (rf) rf.textContent = e.ref;
       var p1 = document.getElementById("devP1"), p2 = document.getElementById("devP2");
       if (p1 && e.paras[0]) p1.textContent = e.paras[0];
       if (p2) { if (e.paras[1]) { p2.textContent = e.paras[1]; p2.style.display = ""; } else { p2.style.display = "none"; } }
       var link = document.getElementById("devTodayLink");
-      if (link) link.setAttribute("href", "/suy-ngam/" + pad(m) + "-" + pad(d) + ".html");
-    }).catch(function () {});
+      if (link) link.setAttribute("href", "/suy-ngam/" + pad(t.m) + "-" + pad(t.d) + ".html");
+    }
+    function pickDevotion() {
+      fetch("/data/devotions.json").then(function (r) { return r.json(); }).then(applyDevotion).catch(function () {
+        // One retry: a flaky mobile fetch must not leave a stale devotion up.
+        setTimeout(function () {
+          fetch("/data/devotions.json").then(function (r) { return r.json(); }).then(applyDevotion).catch(function () {});
+        }, 1500);
+      });
+    }
+    pickDevotion();
+    // Re-pick when a tab kept open from an earlier day is shown again (bfcache).
+    window.addEventListener("pageshow", function (e) { if (e.persisted) pickDevotion(); });
   })();
 </script>
 </body>
