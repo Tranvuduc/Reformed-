@@ -45246,5 +45246,21 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Giăng 1–21"
+ },
+ {
+  "id": "poole-chu-thich-cong-vu",
+  "file": "translations/poole-chu-thich-cong-vu.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — CÔNG VỤ CÁC SỨ ĐỒ",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Acts (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Công Vụ"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Công Vụ"
  }
 ]
