@@ -160,6 +160,22 @@ MINI_JS = """
 
 def esc(s): return html.escape(s, quote=True)
 
+def proof_link(p):
+    # Deep link into the Bible reader (owner-approved 2026-11-08):
+    # /kinh-thanh/<book>/<chapter>.html#v<verse>; ranges link to first verse.
+    m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:\s*[–—-]\s*(\d+))?$", p["ref_vi"].strip())
+    if not m:
+        return ""
+    key = m.group(1).strip().lower()
+    bid = name2id.get(REF_ALIASES.get(key, key))
+    return f"/kinh-thanh/{bid}/{m.group(2)}.html#v{m.group(3)}" if bid else ""
+
+def proof_html(p):
+    lk = proof_link(p)
+    lk = (f'<p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px">'
+          f'<a href="{lk}">Đọc tại Kinh Thánh →</a></p>') if lk else ""
+    return f'<details class="proof"><summary>{esc(p["ref_vi"])}</summary><p>{esc(p["text_vi"])}</p>{lk}</details>'
+
 def head(title, desc, url):
     return f"""<!DOCTYPE html>
 <html lang="vi">
@@ -205,9 +221,7 @@ for e in entries:
     if len(paras) > 1:
         paras.insert(1, f'<blockquote class="pull-quote">{esc(first_sentence)}</blockquote>')
     body = '<div class="ans-body dropcap" style="margin-top:14px">' + "".join(paras) + "</div>"
-    proofs = "".join(
-        f'<details class="proof"><summary>{esc(p["ref_vi"])}</summary><p>{esc(p["text_vi"])}</p></details>'
-        for p in e["scripture_refs"])
+    proofs = "".join(proof_html(p) for p in e["scripture_refs"])
     enc_chips = chips("Đọc thêm trong Bách Khoa",
                       [(enc[s]["term_vi"], f"/bach-khoa/{s}.html") for s in e["related_encyclopedia"]])
     cat_chips = chips("Trong Tín Lý Yếu Lược Westminster",

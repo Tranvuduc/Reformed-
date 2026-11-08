@@ -280,6 +280,24 @@ MINI_JS = """
 
 def esc(s): return html.escape(s, quote=True)
 
+def proof_link(p):
+    # Deep link into the Bible reader (owner-approved 2026-11-08):
+    # /kinh-thanh/<book>/<chapter>.html#v<verse>; ranges link to first verse.
+    if p.get("key"):
+        bid, ch, v = p["key"].split(":")
+        return f"/kinh-thanh/{bid}/{ch}.html#v{v}"
+    m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:\s*[–—-]\s*(\d+))?$", p["ref_vi"].strip())
+    if not m:
+        return ""
+    bid = name2id.get(m.group(1).strip().lower())
+    return f"/kinh-thanh/{bid}/{m.group(2)}.html#v{m.group(3)}" if bid else ""
+
+def proof_html(p):
+    lk = proof_link(p)
+    lk = (f'<p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px">'
+          f'<a href="{lk}">Đọc tại Kinh Thánh →</a></p>') if lk else ""
+    return f'<details class="proof"><summary>{esc(p["ref_vi"])}</summary><p>{esc(p["text_vi"])}</p>{lk}</details>'
+
 def head(title, desc, url):
     return f"""<!DOCTYPE html>
 <html lang="vi">
@@ -318,9 +336,7 @@ for e in entries:
     desc = e["definition_short_vi"][:155]
     en_line = f'<p style="color:var(--ink-soft);font-style:italic;margin:2px 0 0">{esc(e["term_en"])}</p>' if e["term_en"] else ""
     body = '<div class="term-body" style="margin-top:14px">' + "".join(f"<p>{esc(p)}</p>" for p in e["body_vi"]) + "</div>"
-    proofs = "".join(
-        f'<details class="proof"><summary>{esc(p["ref_vi"])}</summary><p>{esc(p["text_vi"])}</p></details>'
-        for p in e["scripture_refs"])
+    proofs = "".join(proof_html(p) for p in e["scripture_refs"])
     mis = ""
     if e["misunderstandings_vi"]:
         items = "".join(f"<li>{esc(m)}</li>" for m in e["misunderstandings_vi"])

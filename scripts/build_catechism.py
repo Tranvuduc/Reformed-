@@ -179,9 +179,14 @@ def share_row(url, text):
 def proofs_html(q):
     if not q["proof_texts"]:
         return ""
-    items = "".join(
-        f'<details class="proof"><summary>{esc(p["ref_vi"])}</summary><p>{esc(p["text_vi"])}</p></details>'
-        for p in q["proof_texts"])
+    def one(p):
+        # Deep link into the Bible reader (owner-approved 2026-11-08):
+        # the proof key is "bookid:chapter:verse" -> /kinh-thanh/<bid>/<ch>.html#v<v>
+        bid, ch, v = p["key"].split(":")
+        lk = (f'<p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px">'
+              f'<a href="/kinh-thanh/{bid}/{ch}.html#v{v}">Đọc tại Kinh Thánh →</a></p>')
+        return f'<details class="proof"><summary>{esc(p["ref_vi"])}</summary><p>{esc(p["text_vi"])}</p>{lk}</details>'
+    items = "".join(one(p) for p in q["proof_texts"])
     return f'<div style="margin-top:16px"><h3 style="margin:0 0 4px">Căn cứ Kinh Thánh <span style="font-weight:400;font-size:13.5px;color:var(--ink-soft)">(bấm để đọc câu gốc — bản 1934)</span></h3>{items}</div>'
 
 OUT = ROOT / "giao-ly"
