@@ -318,9 +318,26 @@ AUD=[("LibriVox trên Internet Archive","https://archive.org/details/librivoxaud
 ("Ligonier – loạt bài giảng của R.C. Sproul","https://www.ligonier.org/learn/series","Nhiều loạt bài giảng âm thanh miễn phí (tiếng Anh)."),
 ("Desiring God – bài giảng của John Piper","https://www.desiringgod.org/messages","Bài giảng âm thanh miễn phí (tiếng Anh).")]
 lis_a = "".join(f'<li><a href="{E(u)}" rel="noopener">{E(t)}</a><br><small>{E(d)}</small></li>' for t,u,d in AUD)
+# Sách nói của Thư Viện Cải Chánh: the book grid is rendered from
+# tools/sach-noi-entries.json so a catalog regen can never wipe it again
+# (2026-11-08 the catalog bot regenerated this page from the external-links
+# list only and sach-noi.html lost all 9 audiobooks).
+_sn_path = "tools/sach-noi-entries.json"
+if not os.path.exists(_sn_path):
+    _sn_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sach-noi-entries.json")
+SNB = json.load(open(_sn_path, encoding="utf-8"))
+def _sn_foot(e):
+    u = (e.get("listen") or "").strip()
+    if u:
+        return f'<a class="btn primary" href="{E(u)}" target="_blank" rel="noopener">Nghe</a>'
+    return '<span class="btn" aria-disabled="true">Sắp có</span>'
+cards_sn = "".join(
+    f'<article class="bk-card"><div class="bk-spine" style="background:{E(e["color"])}"><b>{E(e["author"])}</b><i>{E(e["title"])}</i></div>'
+    f'<div class="bk-body"><p class="bk-by">{E(e["author"])}</p><p class="bk-d">{E(e["description"])}</p></div>'
+    f'<div class="bk-foot"><span>{E(e["duration"])}</span>{_sn_foot(e)}</div></article>' for e in SNB)
 open("sach-noi.html", "w", encoding="utf-8").write(page("Sách nói và bài giảng Cải Chánh miễn phí | Reformed Vietnam",
     "Nơi nghe sách nói, bài giảng và Kinh Thánh âm thanh miễn phí: LibriVox, CCEL, Puritan Downloads, Bible.com, Ligonier, Desiring God.", "sach-noi.html",
-    f"<h1>Sách nói và bài giảng miễn phí</h1><p>Đây là những nguồn nghe miễn phí mà thư viện giới thiệu. Trong thư viện, hãy chọn bộ lọc \"Có bản nghe\" để xem các sách có bản nghe. Trình đọc của chúng tôi cũng có thể đọc to bằng giọng đọc của thiết bị.</p><ul>{lis_a}</ul><p><a class=\"btn primary\" href=\"/?q=\">Mở thư viện</a></p>"))
+    f'<h1>Sách nói và bài giảng miễn phí</h1><p>Nghe Lời Chúa và những tác phẩm Cải Chánh trong lúc làm việc, đi đường, hay trước khi ngủ. Dưới đây là những sách nói do Thư Viện Cải Chánh thực hiện. Phía dưới là những nguồn nghe miễn phí khác mà thư viện giới thiệu.</p><h2>Sách nói của Thư Viện Cải Chánh</h2><p>Giọng đọc AI, bản dịch AI, chưa duyệt.</p><div class="bk-grid">{cards_sn}</div><h2>Nguồn nghe bên ngoài</h2><p>Trong thư viện, hãy chọn bộ lọc "Có bản nghe" để xem các sách có bản nghe. Trình đọc của chúng tôi cũng có thể đọc to bằng giọng đọc của thiết bị.</p><ul>{lis_a}</ul><p><a class="btn primary" href="/?q=">Mở thư viện</a></p>'))
 urls.append("sach-noi.html")
 
 exec(open('tools/plan.py', encoding='utf-8').read())
