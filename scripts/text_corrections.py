@@ -32,6 +32,11 @@ FIXES = {
                      "Ba nhành nho tức là ba ngày.",
     ("ezek", 48, 35): "Châu vi thành sẽ có mười tám ngàn cần; và rày về sau "
                       "tên thành sẽ là: “Đức Giê-hô-va ở đó!”",
+    # One-word typo in the digital source ("đều" for "điều"), confirmed
+    # against three independent printed-1934 copies (bible.com VIE1925,
+    # bible.alpha.org, caugocmoingay.com); approved by Duc 2026-11-08.
+    ("psa", 34, 4): "Tôi đã tìm cầu Đức Giê-hô-va, Ngài đáp lại tôi, "
+                    "Giải cứu tôi khỏi các điều sợ hãi.",
 }
 
 MARKER = re.compile(r"^\(\d{1,3}[-:]\d{1,3}\)\s*")
