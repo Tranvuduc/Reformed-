@@ -13,6 +13,14 @@ Two defect classes, both verified against the source data 2026-11-06:
 2. Leading reference markers "(039-22)" style left in 242 verses by the
    digital source's alternate numbering. Not part of the printed text;
    stripped mechanically.
+3. Split-letter artifact (approved by Duc 2026-11-08): in 667 verses the
+   initial letter Â/Ấ of a word was digitised as two letters, "A"+"â/á"
+   (671 tokens: "Aáy"->"Ấy" x654, "Aân"->"Ân" x5, "Aâm"->"Âm" x9,
+   "Aán-độ"->"Ấn-độ" x2, "Aâu-gu"->"Âu-gu" x1). Merged back mechanically
+   at word starts. The merged forms agree with the printed 1934 text
+   (kinhthanh.httlvn.org VI1934). Note Acts 27:1: print reads "Âu-gu-ta"
+   while the digital source carries "gu ta" as separate words — only the
+   letter is merged here; the source's wording is otherwise untouched.
 """
 import re
 
@@ -28,8 +36,19 @@ FIXES = {
 
 MARKER = re.compile(r"^\(\d{1,3}[-:]\d{1,3}\)\s*")
 
+SPLIT = re.compile(r"(?<!\w)A([áâ])")
+
+def _merge_split(m):
+    return "Ấ" if m.group(1) == "á" else "Â"
+
+def merge_split(text):
+    """Merge the split Â/Ấ artifact (defect class 3) in any rendered text —
+    also applied to the app’s study notes, which quote verses with the
+    same artifact (4 tokens in 3 notes)."""
+    return SPLIT.sub(_merge_split, text)
+
 def fix_verse(bid, ch, vs, text):
     fixed = FIXES.get((bid, ch, vs))
     if fixed is not None:
         return fixed
-    return MARKER.sub("", text)
+    return merge_split(MARKER.sub("", text))

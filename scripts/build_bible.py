@@ -129,7 +129,7 @@ def share_row(url):
             f'<a class="btn solid" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={url}">Chia sẻ Facebook</a>'
             f'<a class="btn" target="_blank" rel="noopener" href="https://sp.zalo.me/share_inline?url={url}">Chia sẻ Zalo</a></div>')
 
-from text_corrections import fix_verse
+from text_corrections import fix_verse, merge_split
 
 OUT = ROOT / "kinh-thanh"
 OUT.mkdir(exist_ok=True)
@@ -181,16 +181,16 @@ for b in books_meta:
         note = notes.get(f"{bid}:{ci}")
         note_html = ""
         if note:
-            exeg = "".join(f"<li>{esc(x)}</li>" for x in note.get("exegesis", []))
-            appl = "".join(f"<li>{esc(x)}</li>" for x in note.get("application", []))
+            exeg = "".join(f"<li>{esc(merge_split(x))}</li>" for x in note.get("exegesis", []))
+            appl = "".join(f"<li>{esc(merge_split(x))}</li>" for x in note.get("application", []))
             note_html = f"""
   <article class="cat-panel note-panel">
     <div class="kicker" style="color:var(--gold-text);font-weight:700;font-size:12.5px;letter-spacing:.08em">GHI CHÚ HỌC KINH THÁNH</div>
     <p style="margin-top:8px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
-    <h3>Bối cảnh</h3><p>{esc(note.get('context', ''))}</p>
+    <h3>Bối cảnh</h3><p>{esc(merge_split(note.get('context', '')))}</p>
     <h3>Giải nghĩa</h3><ul style="margin:0;padding-left:20px">{exeg}</ul>
     <h3>Áp dụng</h3><ul style="margin:0;padding-left:20px">{appl}</ul>
-    <h3>Cầu nguyện</h3><p>{esc(note.get('prayer', ''))}</p>
+    <h3>Cầu nguyện</h3><p>{esc(merge_split(note.get('prayer', '')))}</p>
   </article>"""
         intro_html = ""
         sm = summaries.get(f"{bid}:{ci}")
