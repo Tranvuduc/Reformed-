@@ -143,6 +143,15 @@ for _e in entries:
     _e["misunderstandings_vi"] = [p.replace("Nước Đức Chúa Trời", "Vương quốc Đức Chúa Trời") for p in _e["misunderstandings_vi"]]
 print("locked-term fix applied: Nước -> Vương quốc Đức Chúa Trời (own voice)")
 
+# ---- locked-term fix 2026-11-08 (Round 10 spot-check): the Phúc Âm
+# glossary definition opens "Tin mừng:" — the locked term for the gospel
+# in the site's own voice is "Phúc Âm" (owner lock 2026-11-07). The app
+# glossary stays untouched; rename in the hub's own-voice field only.
+for _e in entries:
+    if _e["slug"] == "phuc-am" and _e["definition_short_vi"].startswith("Tin mừng:"):
+        _e["definition_short_vi"] = "Phúc Âm:" + _e["definition_short_vi"][len("Tin mừng:"):]
+print("locked-term fix applied: Phúc Âm definition Tin mừng -> Phúc Âm (own voice)")
+
 by_slug = {e["slug"]: e for e in entries}
 for e in entries:
     if e["related_terms"]: continue
@@ -320,7 +329,7 @@ for e in entries:
     {bks}
     {rel}
   </article>
-  <p style="text-align:center;margin-top:16px"><a class="btn" href="/bach-khoa/">← Tất cả 200 thuật ngữ</a></p>
+  <p style="text-align:center;margin-top:16px"><a class="btn" href="/bach-khoa/">← Tất cả {len(entries)} thuật ngữ</a></p>
   {share_row(url)}
   <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin-bottom:34px">Nguồn thuật ngữ: Kinh Thánh Mỗi Ngày; phần giải thích do AI soạn, chưa qua duyệt.</p>
 </main>
@@ -329,7 +338,7 @@ for e in entries:
 </body>
 </html>"""
     (OUT / f"{e['slug']}.html").write_text(page, encoding="utf-8")
-print("200 entry pages written (full entries)")
+print(f"{len(entries)} entry pages written (full entries)")
 
 def term_card(e):
     en = f'<span class="tc-en">{esc(e["term_en"])}</span>' if e["term_en"] else ""
@@ -350,22 +359,22 @@ CORE_SLUGS = ["an-dien", "duc-tin", "xung-cong-chinh", "su-chuoc-toi", "su-nen-t
 assert all(s in by_slug for s in CORE_SLUGS)
 featured_html = ('<div class="band-tint"><h2 class="bt-head">Thuật ngữ cốt lõi</h2><ul class="core-grid">'
                  + "".join(term_card(by_slug[s]) for s in CORE_SLUGS) + "</ul></div>")
-landing = f"""{head("Bách Khoa Thần Học Cải Chánh — 200 thuật ngữ | Reformed Vietnam",
-                     "Tra cứu 200 thuật ngữ thần học Cải Chánh bằng tiếng Việt dễ hiểu: định nghĩa, giải thích, căn cứ Kinh Thánh và thuật ngữ liên quan.", BASE + "/bach-khoa/")}
+landing = f"""{head(f"Bách Khoa Thần Học Cải Chánh — {len(entries)} thuật ngữ | Reformed Vietnam",
+                     f"Tra cứu {len(entries)} thuật ngữ thần học Cải Chánh bằng tiếng Việt dễ hiểu: định nghĩa, giải thích, căn cứ Kinh Thánh và thuật ngữ liên quan.", BASE + "/bach-khoa/")}
 <body id="top">
 {header}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · Bách Khoa</p>
   <div class="cat-head">
     <div class="kicker">Bách Khoa Thần Học</div>
-    <h1>200 thuật ngữ, giải nghĩa dễ hiểu</h1>
+    <h1>{len(entries)} thuật ngữ, giải nghĩa dễ hiểu</h1>
     <p style="max-width:620px;margin:0 auto;color:var(--ink-soft)">Gặp một từ khó trong Kinh Thánh hay sách thần học — như "tiền định", "giao ước", "chuộc tội" — hãy tra ở đây: mỗi thuật ngữ có định nghĩa tóm tắt, phần giải thích dễ hiểu, các hiểu lầm thường gặp và câu Kinh Thánh căn cứ đọc ngay tại chỗ.</p>
     <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
   </div>
   <div class="term-search">
     <input type="search" id="termSearch" placeholder="Tìm thuật ngữ… (gõ không dấu cũng được)" aria-label="Tìm thuật ngữ" />
   </div>
-  <p id="termCount" style="text-align:center;color:var(--ink-soft);font-size:13.5px">200 thuật ngữ</p>
+  <p id="termCount" style="text-align:center;color:var(--ink-soft);font-size:13.5px">{len(entries)} thuật ngữ</p>
   {featured_html}
   <div id="termIndex">
 {index_html}
@@ -389,7 +398,7 @@ landing = f"""{head("Bách Khoa Thần Học Cải Chánh — 200 thuật ngữ 
         ul.querySelectorAll("li").forEach(function (li) {{ if (li.style.display !== "none") any = true; }});
         h.style.display = any ? "" : "none"; ul.style.display = any ? "" : "none";
       }});
-      count.textContent = q ? ("Tìm thấy " + shown + " thuật ngữ") : "200 thuật ngữ";
+      count.textContent = q ? ("Tìm thấy " + shown + " thuật ngữ") : "{len(entries)} thuật ngữ";
     }});
   }})();
 </script>
