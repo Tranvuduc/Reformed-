@@ -45278,5 +45278,21 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Rô-ma"
+ },
+ {
+  "id": "poole-chu-thich-1-co-rinh-to",
+  "file": "translations/poole-chu-thich-1-co-rinh-to.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — THƯ THỨ NHẤT GỬI NGƯỜI CÔ-RINH-TÔ",
+  "orig": "Annotations upon the Holy Bible, Vol. II: 1 Corinthians (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "1 Cô-rinh-tô"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích 1 Cô-rinh-tô"
  }
 ]
