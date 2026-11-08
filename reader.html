@@ -277,6 +277,10 @@ document.addEventListener("keydown",function(e){if(/INPUT|SELECT|TEXTAREA/.test(
 var tx0=0,ty0=0,tt0=0;
 document.addEventListener("touchstart",function(e){var t=e.touches[0];tx0=t.clientX;ty0=t.clientY;tt0=Date.now()},{passive:true});
 document.addEventListener("touchend",function(e){if(S.mode==="scroll")return;if(e.target.closest("#sheet,#pl,#foot,#top"))return;var t=e.changedTouches[0],dx=t.clientX-tx0,dy=t.clientY-ty0;if(Math.abs(dx)>70&&Math.abs(dy)<45&&Date.now()-tt0<600)go(cur+(dx<0?1:-1))},{passive:true});
+// tap zones (Kindle-like sample: quick tap on left/right edge turns the page in page mode)
+var pz0=null,pzt0=0,pzSel=false;
+document.addEventListener("pointerdown",function(e){pz0={x:e.clientX,y:e.clientY};pzt0=Date.now();var s=window.getSelection();pzSel=!!(s&&!s.isCollapsed)},{passive:true});
+document.addEventListener("pointerup",function(e){if(!pz0)return;var dx=e.clientX-pz0.x,dy=e.clientY-pz0.y,hadSel=pzSel;pz0=null;if(hadSel)return;if(Date.now()-pzt0>=500||Math.abs(dx)>=10||Math.abs(dy)>=10)return;if(S.mode!=="page")return;if(!pages||!pages.length)return;if(e.target.closest&&e.target.closest("#sheet,#pl,#foot,#top,#hlb,#bp,#nd,.term,.br,a,button,input,select,textarea"))return;var s=window.getSelection();if(s&&!s.isCollapsed)return;var W=window.innerWidth,x=e.clientX;if(x<W*0.28)go(cur-1);else if(x>W*0.72)go(cur+1)},{passive:true});
 // auto-hide header + remember scroll
 var ly=0,st2;
 window.addEventListener("scroll",function(){var y=scrollY;if(!sheetOn())$("top").classList.toggle("h",y>ly&&y>90);ly=y;clearTimeout(st2);st2=setTimeout(function(){ls("rv.sc."+id,JSON.stringify({p:cur,y:Math.round(scrollY)}))},400);if(S.mode==="scroll")scrollTick();else updateProgressSoon()},{passive:true});
