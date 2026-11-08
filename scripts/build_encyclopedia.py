@@ -152,6 +152,18 @@ for _e in entries:
         _e["definition_short_vi"] = "Phúc Âm:" + _e["definition_short_vi"][len("Tin mừng:"):]
 print("locked-term fix applied: Phúc Âm definition Tin mừng -> Phúc Âm (own voice)")
 
+# ---- locked-term fix 2026-11-08 (Round 12 spot-check): troi-moi-dat-moi
+# uses "công bình" twice in its own voice (definition + first body
+# paragraph) — a paraphrase of 2 Phi-e-rơ 3:13, which the entry does not
+# quote. The locked term for righteousness in the site's own voice is
+# "sự công chính" (owner lock 2026-11-07); "công bình" stays only inside
+# verbatim 1934 quotations.
+for _e in entries:
+    if _e["slug"] == "troi-moi-dat-moi":
+        _e["definition_short_vi"] = _e["definition_short_vi"].replace("Nơi công bình ở,", "Nơi sự công chính ở,")
+        _e["body_vi"] = [p.replace("nơi sự công bình ngự trị", "nơi sự công chính ngự trị") for p in _e["body_vi"]]
+print("locked-term fix applied: troi-moi-dat-moi công bình -> sự công chính (own voice)")
+
 by_slug = {e["slug"]: e for e in entries}
 for e in entries:
     if e["related_terms"]: continue
