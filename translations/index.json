@@ -45214,5 +45214,21 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Mác & Lu-ca 1–9"
+ },
+ {
+  "id": "poole-chu-thich-lu-ca-10-24",
+  "file": "translations/poole-chu-thich-lu-ca-10-24.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — LU-CA 10–24",
+  "orig": "Annotations upon the Holy Bible, Vol. II: Luke 10–24 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Lu-ca"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Lu-ca 10–24"
  }
 ]
