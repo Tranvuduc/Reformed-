@@ -45230,5 +45230,21 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích Lu-ca 10–24"
+ },
+ {
+  "id": "poole-chu-thich-giang-1-21",
+  "file": "translations/poole-chu-thich-giang-1-21.txt",
+  "title": "CHÚ THÍCH VỀ KINH THÁNH — GIĂNG 1–21",
+  "orig": "Annotations upon the Holy Bible, Vol. II: John 1–21 (1700)",
+  "author": "Matthew Poole",
+  "by": "Muse",
+  "reviewed": false,
+  "topics": [
+   "Kinh Thánh",
+   "Giăng"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Chú Thích Giăng 1–21"
  }
 ]
