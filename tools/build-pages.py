@@ -403,4 +403,17 @@ try:
     sm += "".join(_keep)
 except OSError:
     pass
+# Drop nhom-nho entries whose page does not exist in this tree: the plan
+# generator's catalogue can list books whose generated pages never landed
+# in the repo (2026-11-09 sweep: 1,295 of 2,205 listed /nhom-nho/ URLs
+# returned 404). Same precedent as the author-link cleanup above.
+def _sm_alive(_m):
+    _loc = re.search(r"<loc>([^<]+)</loc>", _m.group(0)).group(1)
+    if "/nhom-nho/" in _loc and _loc.startswith(SITE + "/"):
+        return _m.group(0) if os.path.exists(_loc[len(SITE) + 1:]) else ""
+    return _m.group(0)
+sm = re.sub(r"<url>.*?</url>", _sm_alive, sm)
+# The full-library page is hand-maintained, not generated here; keep it listed.
+if f"{SITE}/thu-vien.html" not in sm:
+    sm += f"<url><loc>{SITE}/thu-vien.html</loc></url>"
 open("sitemap.xml", "w", encoding="utf-8").write(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
