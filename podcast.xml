@@ -6,7 +6,7 @@
     <atom:link href="https://reformedvietnam.com/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Sách nói Cơ Đốc Cải Chánh tiếng Việt — các tác phẩm kinh điển của Spurgeon, Owen, Sibbes, Ryle, Bunyan và nhiều tác giả khác, do Thư Viện Cải Chánh (reformedvietnam.com) thực hiện. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:23:45 +0000</lastBuildDate>
     <itunes:author>Reformed Vietnam</itunes:author>
     <itunes:type>serial</itunes:type>
     <itunes:explicit>no</itunes:explicit>
@@ -1202,6 +1202,126 @@
       <pubDate>Tue, 10 Nov 2026 07:07:51 +0000</pubDate>
       <itunes:duration>34:36</itunes:duration>
       <itunes:episode>119</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 1/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/00-mo-dau.mp3" length="9432429" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/00-mo-dau.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 13:25:23 +0000</pubDate>
+      <itunes:duration>19:39</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 2/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/01-phan-xet-hon-nhan.mp3" length="3696429" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/01-phan-xet-hon-nhan.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 14:25:23 +0000</pubDate>
+      <itunes:duration>7:42</itunes:duration>
+      <itunes:episode>121</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 3/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/02-tieng-noi-tu-troi.mp3" length="6360429" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/02-tieng-noi-tu-troi.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 15:25:23 +0000</pubDate>
+      <itunes:duration>13:15</itunes:duration>
+      <itunes:episode>122</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 4/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/03-dan-ba-ngheo-bedford.mp3" length="13440429" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/03-dan-ba-ngheo-bedford.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 16:25:23 +0000</pubDate>
+      <itunes:duration>28:00</itunes:duration>
+      <itunes:episode>123</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 5/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/04-ong-gifford.mp3" length="7208493" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/04-ong-gifford.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 17:25:23 +0000</pubDate>
+      <itunes:duration>15:01</itunes:duration>
+      <itunes:episode>124</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 6/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/05-con-bao-lon.mp3" length="5672493" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/05-con-bao-lon.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 18:25:23 +0000</pubDate>
+      <itunes:duration>11:49</itunes:duration>
+      <itunes:episode>125</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 7/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/06-su-giai-cuu.mp3" length="7216365" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/06-su-giai-cuu.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 19:25:23 +0000</pubDate>
+      <itunes:duration>15:02</itunes:duration>
+      <itunes:episode>126</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 8/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/07-cam-do-ban-christ.mp3" length="23208429" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/07-cam-do-ban-christ.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 20:25:23 +0000</pubDate>
+      <itunes:duration>48:21</itunes:duration>
+      <itunes:episode>127</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 9/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/08-toi-khong-den-noi-chet.mp3" length="14104365" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/08-toi-khong-den-noi-chet.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 21:25:23 +0000</pubDate>
+      <itunes:duration>29:23</itunes:duration>
+      <itunes:episode>128</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 10/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/09-su-cong-chinh-tren-troi.mp3" length="14328429" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/09-su-cong-chinh-tren-troi.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 22:25:23 +0000</pubDate>
+      <itunes:duration>29:51</itunes:duration>
+      <itunes:episode>129</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 11/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/10-rao-giang-loi.mp3" length="16400493" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/10-rao-giang-loi.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 23:25:23 +0000</pubDate>
+      <itunes:duration>34:10</itunes:duration>
+      <itunes:episode>130</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ân Điển Dư Dật — John Bunyan · Phần 12/12</title>
+      <description>John Bunyan kể hành trình của chính mình: từ đời sống phóng đãng, chửi rủa và phạm thượng đến sự bình an trong Đấng Christ qua Phúc Âm — tự truyện thuộc linh viết trong tù năm 1666. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/11-tu-day.mp3" length="10716333" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/11-tu-day.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 00:25:23 +0000</pubDate>
+      <itunes:duration>22:20</itunes:duration>
+      <itunes:episode>131</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
