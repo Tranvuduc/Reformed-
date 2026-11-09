@@ -6,7 +6,7 @@
     <atom:link href="https://reformedvietnam.com/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Sách nói Cơ Đốc Cải Chánh tiếng Việt — các tác phẩm kinh điển của Spurgeon, Owen, Sibbes, Ryle, Bunyan và nhiều tác giả khác, do Thư Viện Cải Chánh (reformedvietnam.com) thực hiện. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:31:53 +0000</lastBuildDate>
     <itunes:author>Reformed Vietnam</itunes:author>
     <itunes:type>serial</itunes:type>
     <itunes:explicit>no</itunes:explicit>
@@ -985,13 +985,93 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>Phương Thuốc Quý Giá Chống Lại Các Mưu Kế Của Sa-tan — Thomas Brooks · Phần 1/8</title>
+      <description>Thomas Brooks vạch trần các mưu kế của Sa-tan — lôi kéo linh hồn phạm tội, giữ linh hồn khỏi các bổn phận thánh, giam hãm trong buồn bã và nghi ngờ — và đưa ra phương thuốc từ Lời Chúa, qua 4 phần và phụ lục. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/01-thu-de-tang-loi-dan.mp3" length="16988781" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/01-thu-de-tang-loi-dan.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 14:28:03 +0000</pubDate>
+      <itunes:duration>35:24</itunes:duration>
+      <itunes:episode>98</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Phương Thuốc Quý Giá Chống Lại Các Mưu Kế Của Sa-tan — Thomas Brooks · Phần 2/8</title>
+      <description>Thomas Brooks vạch trần các mưu kế của Sa-tan — lôi kéo linh hồn phạm tội, giữ linh hồn khỏi các bổn phận thánh, giam hãm trong buồn bã và nghi ngờ — và đưa ra phương thuốc từ Lời Chúa, qua 4 phần và phụ lục. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/02-luoi-keo-pham-toi-1.mp3" length="50357229" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/02-luoi-keo-pham-toi-1.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 15:28:03 +0000</pubDate>
+      <itunes:duration>1:44:55</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Phương Thuốc Quý Giá Chống Lại Các Mưu Kế Của Sa-tan — Thomas Brooks · Phần 3/8</title>
+      <description>Thomas Brooks vạch trần các mưu kế của Sa-tan — lôi kéo linh hồn phạm tội, giữ linh hồn khỏi các bổn phận thánh, giam hãm trong buồn bã và nghi ngờ — và đưa ra phương thuốc từ Lời Chúa, qua 4 phần và phụ lục. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/03-luoi-keo-pham-toi-2.mp3" length="52567149" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/03-luoi-keo-pham-toi-2.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 16:28:03 +0000</pubDate>
+      <itunes:duration>1:49:31</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Phương Thuốc Quý Giá Chống Lại Các Mưu Kế Của Sa-tan — Thomas Brooks · Phần 4/8</title>
+      <description>Thomas Brooks vạch trần các mưu kế của Sa-tan — lôi kéo linh hồn phạm tội, giữ linh hồn khỏi các bổn phận thánh, giam hãm trong buồn bã và nghi ngờ — và đưa ra phương thuốc từ Lời Chúa, qua 4 phần và phụ lục. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/04-giu-khoi-bon-phan-thanh.mp3" length="58710381" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/04-giu-khoi-bon-phan-thanh.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 17:28:03 +0000</pubDate>
+      <itunes:duration>2:02:19</itunes:duration>
+      <itunes:episode>101</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Phương Thuốc Quý Giá Chống Lại Các Mưu Kế Của Sa-tan — Thomas Brooks · Phần 5/8</title>
+      <description>Thomas Brooks vạch trần các mưu kế của Sa-tan — lôi kéo linh hồn phạm tội, giữ linh hồn khỏi các bổn phận thánh, giam hãm trong buồn bã và nghi ngờ — và đưa ra phương thuốc từ Lời Chúa, qua 4 phần và phụ lục. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/05-buon-ba-nghi-ngo.mp3" length="55559853" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/05-buon-ba-nghi-ngo.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 18:28:03 +0000</pubDate>
+      <itunes:duration>1:55:45</itunes:duration>
+      <itunes:episode>102</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Phương Thuốc Quý Giá Chống Lại Các Mưu Kế Của Sa-tan — Thomas Brooks · Phần 6/8</title>
+      <description>Thomas Brooks vạch trần các mưu kế của Sa-tan — lôi kéo linh hồn phạm tội, giữ linh hồn khỏi các bổn phận thánh, giam hãm trong buồn bã và nghi ngờ — và đưa ra phương thuốc từ Lời Chúa, qua 4 phần và phụ lục. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/06-huy-diet-moi-hang-nguoi.mp3" length="42815085" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/06-huy-diet-moi-hang-nguoi.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 19:28:03 +0000</pubDate>
+      <itunes:duration>1:29:12</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Phương Thuốc Quý Giá Chống Lại Các Mưu Kế Của Sa-tan — Thomas Brooks · Phần 7/8</title>
+      <description>Thomas Brooks vạch trần các mưu kế của Sa-tan — lôi kéo linh hồn phạm tội, giữ linh hồn khỏi các bổn phận thánh, giam hãm trong buồn bã và nghi ngờ — và đưa ra phương thuốc từ Lời Chúa, qua 4 phần và phụ lục. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/07-phu-luc-nam-muu-ke.mp3" length="40867629" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/07-phu-luc-nam-muu-ke.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 20:28:03 +0000</pubDate>
+      <itunes:duration>1:25:08</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Phương Thuốc Quý Giá Chống Lại Các Mưu Kế Của Sa-tan — Thomas Brooks · Phần 8/8</title>
+      <description>Thomas Brooks vạch trần các mưu kế của Sa-tan — lôi kéo linh hồn phạm tội, giữ linh hồn khỏi các bổn phận thánh, giam hãm trong buồn bã và nghi ngờ — và đưa ra phương thuốc từ Lời Chúa, qua 4 phần và phụ lục. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/08-muoi-su-giup-do.mp3" length="19752429" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-brooks-precious-remedies/08-muoi-su-giup-do.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 21:28:03 +0000</pubDate>
+      <itunes:duration>41:09</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Sự Thánh Khiết — J. C. Ryle · Phần 1/22</title>
       <description>J. C. Ryle giảng về sự nên thánh theo Kinh Thánh — tội lỗi, sự nên thánh, sự thánh khiết thực tiễn, cuộc chiến đấu, cái giá phải trả, sự tăng trưởng, sự chắc chắn, Môi-se, Lót, và Đấng Christ là tất cả. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
       <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/00-loi-tua.mp3" length="22120557" type="audio/mpeg"/>
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/00-loi-tua.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 10:07:51 +0000</pubDate>
       <itunes:duration>46:05</itunes:duration>
-      <itunes:episode>98</itunes:episode>
+      <itunes:episode>106</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1001,7 +1081,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/01-bai-1-toi-loi.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 11:07:51 +0000</pubDate>
       <itunes:duration>47:22</itunes:duration>
-      <itunes:episode>99</itunes:episode>
+      <itunes:episode>107</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1011,7 +1091,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/02-bai-2-su-nen-thanh.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 12:07:51 +0000</pubDate>
       <itunes:duration>59:49</itunes:duration>
-      <itunes:episode>100</itunes:episode>
+      <itunes:episode>108</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1021,7 +1101,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/03-bai-3-su-thanh-khiet.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 13:07:51 +0000</pubDate>
       <itunes:duration>56:42</itunes:duration>
-      <itunes:episode>101</itunes:episode>
+      <itunes:episode>109</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1031,7 +1111,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/04-bai-4-cuoc-chien-dau.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 14:07:51 +0000</pubDate>
       <itunes:duration>53:12</itunes:duration>
-      <itunes:episode>102</itunes:episode>
+      <itunes:episode>110</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1041,7 +1121,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/05-bai-5-cai-gia-phai-tra.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 15:07:51 +0000</pubDate>
       <itunes:duration>49:39</itunes:duration>
-      <itunes:episode>103</itunes:episode>
+      <itunes:episode>111</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1051,7 +1131,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/06-bai-6-su-tang-truong.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 16:07:51 +0000</pubDate>
       <itunes:duration>57:11</itunes:duration>
-      <itunes:episode>104</itunes:episode>
+      <itunes:episode>112</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1061,7 +1141,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/07-bai-7-su-chac-chan.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 17:07:51 +0000</pubDate>
       <itunes:duration>1:49:43</itunes:duration>
-      <itunes:episode>105</itunes:episode>
+      <itunes:episode>113</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1071,7 +1151,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/08-bai-8-moi-se.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 18:07:51 +0000</pubDate>
       <itunes:duration>49:45</itunes:duration>
-      <itunes:episode>106</itunes:episode>
+      <itunes:episode>114</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1081,7 +1161,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/09-bai-9-lot.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 19:07:51 +0000</pubDate>
       <itunes:duration>44:18</itunes:duration>
-      <itunes:episode>107</itunes:episode>
+      <itunes:episode>115</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1091,7 +1171,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/10-bai-10-nguoi-phu-nu.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 20:07:51 +0000</pubDate>
       <itunes:duration>52:54</itunes:duration>
-      <itunes:episode>108</itunes:episode>
+      <itunes:episode>116</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1101,7 +1181,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/11-bai-11-chien-loi-pham.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 21:07:51 +0000</pubDate>
       <itunes:duration>46:55</itunes:duration>
-      <itunes:episode>109</itunes:episode>
+      <itunes:episode>117</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1111,7 +1191,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/12-bai-12-dang-cai-tri-song-bien.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 22:07:51 +0000</pubDate>
       <itunes:duration>56:43</itunes:duration>
-      <itunes:episode>110</itunes:episode>
+      <itunes:episode>118</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1121,7 +1201,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/13-bai-13-hoi-thanh.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 23:07:51 +0000</pubDate>
       <itunes:duration>40:48</itunes:duration>
-      <itunes:episode>111</itunes:episode>
+      <itunes:episode>119</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1131,7 +1211,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/14-bai-14-loi-canh-bao.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 00:07:51 +0000</pubDate>
       <itunes:duration>40:16</itunes:duration>
-      <itunes:episode>112</itunes:episode>
+      <itunes:episode>120</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1141,7 +1221,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/15-bai-15-con-yeu-ta-chang.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 01:07:51 +0000</pubDate>
       <itunes:duration>33:22</itunes:duration>
-      <itunes:episode>113</itunes:episode>
+      <itunes:episode>121</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1151,7 +1231,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/16-bai-16-khong-co-dang-christ.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 02:07:51 +0000</pubDate>
       <itunes:duration>27:11</itunes:duration>
-      <itunes:episode>114</itunes:episode>
+      <itunes:episode>122</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1161,7 +1241,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/17-bai-17-con-khat.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 03:07:51 +0000</pubDate>
       <itunes:duration>1:00:29</itunes:duration>
-      <itunes:episode>115</itunes:episode>
+      <itunes:episode>123</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1171,7 +1251,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/18-bai-18-giau-co.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 04:07:51 +0000</pubDate>
       <itunes:duration>35:07</itunes:duration>
-      <itunes:episode>116</itunes:episode>
+      <itunes:episode>124</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1181,7 +1261,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/19-bai-19-nhu-cau-thoi-dai.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 05:07:51 +0000</pubDate>
       <itunes:duration>52:31</itunes:duration>
-      <itunes:episode>117</itunes:episode>
+      <itunes:episode>125</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1191,7 +1271,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/20-bai-20-christ-la-tat-ca.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 06:07:51 +0000</pubDate>
       <itunes:duration>1:01:24</itunes:duration>
-      <itunes:episode>118</itunes:episode>
+      <itunes:episode>126</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1201,7 +1281,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-ryle-holiness/21-phu-luc.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 07:07:51 +0000</pubDate>
       <itunes:duration>34:36</itunes:duration>
-      <itunes:episode>119</itunes:episode>
+      <itunes:episode>127</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1211,7 +1291,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/00-mo-dau.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 13:25:23 +0000</pubDate>
       <itunes:duration>19:39</itunes:duration>
-      <itunes:episode>120</itunes:episode>
+      <itunes:episode>128</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1221,7 +1301,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/01-phan-xet-hon-nhan.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 14:25:23 +0000</pubDate>
       <itunes:duration>7:42</itunes:duration>
-      <itunes:episode>121</itunes:episode>
+      <itunes:episode>129</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1231,7 +1311,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/02-tieng-noi-tu-troi.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 15:25:23 +0000</pubDate>
       <itunes:duration>13:15</itunes:duration>
-      <itunes:episode>122</itunes:episode>
+      <itunes:episode>130</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1241,7 +1321,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/03-dan-ba-ngheo-bedford.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 16:25:23 +0000</pubDate>
       <itunes:duration>28:00</itunes:duration>
-      <itunes:episode>123</itunes:episode>
+      <itunes:episode>131</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1251,7 +1331,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/04-ong-gifford.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 17:25:23 +0000</pubDate>
       <itunes:duration>15:01</itunes:duration>
-      <itunes:episode>124</itunes:episode>
+      <itunes:episode>132</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1261,7 +1341,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/05-con-bao-lon.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 18:25:23 +0000</pubDate>
       <itunes:duration>11:49</itunes:duration>
-      <itunes:episode>125</itunes:episode>
+      <itunes:episode>133</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1271,7 +1351,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/06-su-giai-cuu.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 19:25:23 +0000</pubDate>
       <itunes:duration>15:02</itunes:duration>
-      <itunes:episode>126</itunes:episode>
+      <itunes:episode>134</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1281,7 +1361,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/07-cam-do-ban-christ.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 20:25:23 +0000</pubDate>
       <itunes:duration>48:21</itunes:duration>
-      <itunes:episode>127</itunes:episode>
+      <itunes:episode>135</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1291,7 +1371,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/08-toi-khong-den-noi-chet.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 21:25:23 +0000</pubDate>
       <itunes:duration>29:23</itunes:duration>
-      <itunes:episode>128</itunes:episode>
+      <itunes:episode>136</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1301,7 +1381,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/09-su-cong-chinh-tren-troi.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 22:25:23 +0000</pubDate>
       <itunes:duration>29:51</itunes:duration>
-      <itunes:episode>129</itunes:episode>
+      <itunes:episode>137</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1311,7 +1391,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/10-rao-giang-loi.mp3</guid>
       <pubDate>Mon, 09 Nov 2026 23:25:23 +0000</pubDate>
       <itunes:duration>34:10</itunes:duration>
-      <itunes:episode>130</itunes:episode>
+      <itunes:episode>138</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1321,7 +1401,7 @@
       <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-bunyan-grace/11-tu-day.mp3</guid>
       <pubDate>Tue, 10 Nov 2026 00:25:23 +0000</pubDate>
       <itunes:duration>22:20</itunes:duration>
-      <itunes:episode>131</itunes:episode>
+      <itunes:episode>139</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
