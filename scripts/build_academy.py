@@ -20,14 +20,108 @@ answers = {a["slug"]: a for a in json.loads((ROOT / "data/answers.json").read_te
 
 def esc(s): return html.escape(str(s), quote=True)
 
-CSS_LINKS = '<link rel="stylesheet" href="/fonts.css" /><link rel="stylesheet" href="/tokens.css" /><link rel="stylesheet" href="/style.css" />'
+# ---- shared hub template (redesign 2026-11-09, Duc's request): like the
+# other module builders, Academy now extracts the font link, <style>,
+# <header> and <footer> from hub.html so its pages carry the hub design
+# system instead of the old library stylesheet (/style.css). ----
+_hub = (ROOT / "hub.html").read_text(encoding="utf-8")
+font_link = re.search(r'<link rel="stylesheet" href="data:text/css;base64,[^>]+>', _hub).group(0)
+hub_style = re.search(r"<style>(.*?)</style>", _hub, re.S).group(1)
+_header = re.search(r"<header.*?</header>", _hub, re.S).group(0)
+_footer = re.search(r"<footer.*?</footer>", _hub, re.S).group(0)
+
+def _rebase(block):
+    block = block.replace('href="#top"', 'href="/"')
+    return re.sub(r'href="#([a-z-]+)"', r'href="/#\1"', block)
+HEADER = _rebase(_header)
+FOOTER = _rebase(_footer)
+
+MENU_JS = """
+<script>
+  (function () {
+    var b = document.getElementById("menuBtn"), n = document.querySelector("nav.main");
+    if (b && n) b.addEventListener("click", function () {
+      var open = n.style.display === "flex";
+      n.style.display = open ? "" : "flex";
+      b.setAttribute("aria-expanded", String(!open));
+    });
+    var top = document.getElementById("toTop");
+    if (top) top.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+  })();
+</script>
+"""
+
+EXTRA_CSS = """
+      :root { --sage: #5f7a4d; }
+      @media (prefers-color-scheme: dark) { :root { --sage: #93b184; } }
+      section[id] { scroll-margin-top: 76px; }
+      /* ---------- academy module (hub design system) ---------- */
+      .crumb { font-size: 13.5px; color: var(--ink-soft); margin: 26px 0 6px; }
+      .crumb a { color: var(--burgundy); text-decoration: none; }
+      .cat-head { text-align: center; padding: 18px 0 6px; }
+      .cat-head .kicker { color: var(--gold-text); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 12.5px; }
+      .cat-head h1 { font-family: "Playfair Display", serif; font-size: clamp(26px, 4.6vw, 38px); margin: 8px 0 10px; }
+      .ai-label { display: inline-block; font-size: 12px; font-weight: 600; color: var(--burgundy); background: color-mix(in srgb, var(--burgundy) 9%, transparent); border: 1px solid color-mix(in srgb, var(--burgundy) 35%, transparent); padding: 2px 9px; border-radius: 999px; }
+      .title-band { max-width: 860px; margin: 16px auto 6px; background: linear-gradient(120deg, var(--burgundy-deep), var(--burgundy)); border-radius: var(--radius); box-shadow: var(--shadow); padding: 26px 28px; display: flex; gap: 22px; align-items: center; }
+      .title-band .tb-kicker { color: #eccf8f; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; font-size: 12.5px; }
+      .title-band h1 { font-family: "Playfair Display", serif; font-size: clamp(25px, 4.4vw, 36px); line-height: 1.28; margin: 6px 0 4px; color: #fdf6e9; }
+      .title-band .tb-sub { color: #efdfc2; font-size: 15px; margin: 2px 0 0; font-style: italic; }
+      .title-band .ai-label { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.45); color: #fdf6e9; font-style: normal; }
+      .medallion { flex: 0 0 auto; width: 84px; height: 84px; border-radius: 50%; border: 2px solid #eccf8f; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: "Playfair Display", serif; color: #fdf6e9; text-align: center; padding: 4px; }
+      .medallion .m-big { font-size: 32px; font-weight: 700; line-height: 1; }
+      .medallion .m-small { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; font-family: "Be Vietnam Pro", sans-serif; margin-top: 3px; color: #eccf8f; }
+      @media (max-width: 560px) { .title-band { flex-direction: column; text-align: center; padding: 22px 18px; } .medallion { width: 70px; height: 70px; } .medallion .m-big { font-size: 26px; } }
+      @media (prefers-color-scheme: dark) { .title-band { background: linear-gradient(120deg, #241611, #571d22); } }
+      /* course lesson list: one card per lesson */
+      .qo-list { display: flex; flex-direction: column; gap: 10px; max-width: 860px; margin: 0 auto; }
+      .qo-row { display: flex; gap: 16px; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; box-shadow: var(--shadow); text-decoration: none; color: var(--ink); }
+      .qo-row:hover { border-color: var(--burgundy); text-decoration: none; transform: translateY(-1px); }
+      .qo-num { flex: 0 0 auto; width: 46px; height: 46px; border-radius: 50%; background: var(--burgundy); color: #fdf6e9; font-family: "Playfair Display", serif; font-weight: 700; font-size: 19px; display: flex; align-items: center; justify-content: center; }
+      .qo-row .qo-title { font-family: "Noto Serif", serif; font-weight: 700; font-size: 17.5px; display: block; line-height: 1.4; }
+      .qo-row .qo-obj { color: var(--ink-soft); font-size: 14.5px; line-height: 1.55; display: block; margin-top: 3px; }
+      .qo-row .qo-state { margin-left: auto; flex: 0 0 auto; color: var(--sage); font-weight: 700; font-size: 14px; padding-top: 4px; white-space: nowrap; }
+      .qo-row.done { border-color: color-mix(in srgb, var(--sage) 55%, var(--line)); }
+      .qo-row.done .qo-num { background: var(--sage); }
+      /* landing cards */
+      .mod-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 14px; }
+      .mod-card { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; box-shadow: var(--shadow); text-decoration: none; color: var(--ink); height: 100%; box-sizing: border-box; }
+      a.mod-card:hover { border-color: var(--burgundy); text-decoration: none; transform: translateY(-1px); }
+      .mod-card h3 { font-family: "Playfair Display", serif; font-size: 19px; margin: 8px 0 6px; }
+      .mod-card p { color: var(--ink-soft); font-size: 14.5px; line-height: 1.6; margin: 0; }
+      .pill { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; padding: 2px 9px; border-radius: 999px; }
+      .pill.ok { color: var(--burgundy); background: color-mix(in srgb, var(--burgundy) 9%, transparent); border: 1px solid color-mix(in srgb, var(--burgundy) 35%, transparent); }
+      /* lesson pages */
+      .qbody { max-width: 760px; margin: 0 auto; }
+      .qbody h2 { font-family: "Playfair Display", serif; font-size: 23px; margin: 28px 0 10px; }
+      .qbody p { font-family: "Noto Serif", serif; font-size: 16.5px; line-height: 1.75; }
+      .objective { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px; margin: 18px 0; font-size: 15.5px; line-height: 1.65; }
+      .rel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; margin-top: 14px; box-shadow: var(--shadow); }
+      .rel h3 { margin: 0 0 10px; font-size: 16.5px; }
+      .rel .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+      #lessonQuiz fieldset { border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin: 0 0 12px; background: var(--surface); }
+      #lessonQuiz legend { font-weight: 600; padding: 0 6px; font-size: 15.5px; }
+      #lessonQuiz label { display: block; margin: 4px 0; font-size: 15px; line-height: 1.55; }
+      .qnav { max-width: 760px; margin: 30px auto 10px; }
+      .progress-line { display: inline-block; font-weight: 600; color: var(--burgundy); background: color-mix(in srgb, var(--burgundy) 8%, transparent); border: 1px solid color-mix(in srgb, var(--burgundy) 30%, transparent); padding: 4px 12px; border-radius: 999px; font-size: 14px; }
+      /* thirdmill course pages */
+      .series-card { max-width: 860px; margin: 0 auto 18px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 22px; box-shadow: var(--shadow); }
+      .series-card h2 { font-size: 21px; margin: 0 0 4px; }
+      .series-card ol { margin: 10px 0 14px; padding-left: 22px; line-height: 1.75; }
+      .companion { margin: 8px 0 14px; padding: 12px 14px; border-left: 3px solid var(--burgundy); background: color-mix(in srgb, var(--burgundy) 5%, transparent); border-radius: 0 10px 10px 0; }
+      .companion p { margin: 0 0 6px; }
+      .companion summary { cursor: pointer; font-size: 14px; }
+      .intro-panel { max-width: 860px; margin: 0 auto 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 22px; box-shadow: var(--shadow); font-family: "Noto Serif", serif; font-size: 16px; line-height: 1.7; }
+"""
 MINI_JS = """<script>
-(function(){var b=document.querySelector('.menu-btn'),n=document.querySelector('.mainnav');if(b&&n){b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});}
+(function(){
 var done=[];try{done=JSON.parse(localStorage.getItem('rv-academy-done')||'[]');}catch(e){}
 document.querySelectorAll('[data-progress-for]').forEach(function(el){
   var slug=el.getAttribute('data-progress-for'),total=parseInt(el.getAttribute('data-total'),10)||0;
   var n=done.filter(function(k){return k.indexOf(slug+':')===0;}).length;
   el.textContent=total?('Đã học '+n+'/'+total+' bài'):'';});
+document.querySelectorAll('[data-lesson-key]').forEach(function(el){
+  if(done.indexOf(el.getAttribute('data-lesson-key'))>=0){el.classList.add('done');
+    var s=el.querySelector('.qo-state');if(s)s.textContent='✓ Đã học';}});
 var mb=document.getElementById('markDone');
 if(mb){var key=mb.getAttribute('data-key');
   function paint(){var on=done.indexOf(key)>=0;mb.textContent=on?'✓ Đã hoàn thành bài này':'Đánh dấu đã hoàn thành bài này';mb.classList.toggle('solid',on);}
@@ -45,26 +139,12 @@ if(quiz){var data=null;try{data=JSON.parse(document.getElementById('quizData').t
 })();
 </script>"""
 
-HEADER = """<header class="site-header">
-  <div class="wrap header-inner">
-    <a href="/" class="brand"><span class="brand-mark">✦</span><span class="brand-text">Reformed <em>Vietnam</em></span></a>
-    <button class="menu-btn" aria-label="Mở menu" aria-expanded="false">☰</button>
-    <nav class="mainnav" aria-label="Điều hướng chính">
-      <a href="/#thu-vien">Thư Viện</a><a href="/#tinh-nguyen">Tĩnh Nguyện</a><a href="/#giao-ly">Giáo Lý</a><a href="/#bach-khoa">Bách Khoa</a><a href="/#hoi-dap">Hỏi Đáp</a><a href="/danh-ba/">Hội Thánh</a>
-    </nav>
-    <div class="header-actions"><a class="btn ghost" href="mailto:reformedvn@gmail.com">Nhận sách miễn phí</a></div>
-  </div>
-</header>"""
-FOOTER = """<footer class="site-footer">
-  <div class="wrap foot-grid">
-    <div><div class="brand"><span class="brand-mark">✦</span><span class="brand-text">Reformed <em>Vietnam</em></span></div>
-      <p>Thư viện sách Cải Chánh miễn phí cho Hội Thánh Việt Nam — Soli Deo Gloria.</p></div>
-    <div><h4>Khám phá</h4><a href="/#thu-vien">Thư Viện</a><a href="/#giao-ly">Giáo Lý</a><a href="/#bach-khoa">Bách Khoa</a><a href="/#hoi-dap">Hỏi Đáp</a></div>
-    <div><h4>Học Viện</h4><a href="/hoc-vien/">Tất cả khóa học</a><a href="/hoc-vien/nen-tang-duc-tin/">Nền Tảng Đức Tin</a><a href="/hoc-vien/than-hoc-he-thong-1/">Thần Học Hệ Thống I</a><a href="/hoc-vien/day-giao-ly-nhom-nho/">Dạy Giáo Lý Cho Nhóm Nhỏ</a></div>
-    <div><h4>Liên hệ</h4><a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a><a href="mailto:reformedvn@gmail.com">Gửi yêu cầu sách</a></div>
-  </div>
-  <div class="wrap foot-base"><span>© 2026 Reformed Vietnam · Sola Scriptura · Sola Fide · Sola Gratia · Solus Christus · Soli Deo Gloria</span></div>
-</footer>"""
+# every academy page carries the hub menu script first, then the progress/quiz script
+MINI_JS = MENU_JS + "\n" + MINI_JS
+
+# HEADER and FOOTER come from the hub.html extraction above (shared hub
+# template) — the old hand-written site-header/site-footer constants were
+# removed in the 2026-11-09 redesign.
 
 def head(title, desc, url):
     return f"""<!DOCTYPE html>
@@ -79,7 +159,8 @@ def head(title, desc, url):
 <meta property="og:description" content="{esc(desc)}" /><meta property="og:url" content="{url}" />
 <meta property="og:image" content="{BASE}/og.jpg" />
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✦</text></svg>" />
-{CSS_LINKS}
+{font_link}
+<style>{hub_style}{EXTRA_CSS}</style>
 </head>"""
 
 def lesson_quiz(course_slug, lesson_no, lesson):
@@ -105,19 +186,19 @@ def readings_html(lesson):
     groups = []
     if lesson.get("wsc"):
         links = "".join(f'<a class="btn" href="/giao-ly/cau-{n}.html">Câu {n}: {esc(wsc[n]["question_vi"])}</a>' for n in lesson["wsc"] if n in wsc)
-        groups.append(f'<div class="rel" style="margin-top:14px"><h3 style="margin:0 0 10px">Giáo Lý Yếu Lược</h3><div style="display:flex;flex-wrap:wrap;gap:8px">{links}</div></div>')
+        groups.append(f'<div class="rel"><h3>Giáo Lý Yếu Lược</h3><div class="chips">{links}</div></div>')
     if lesson.get("enc"):
         links = "".join(f'<a class="btn" href="/bach-khoa/{s}.html">{esc(enc[s]["term_vi"])}</a>' for s in lesson["enc"] if s in enc)
-        groups.append(f'<div class="rel" style="margin-top:14px"><h3 style="margin:0 0 10px">Bách Khoa Thần Học</h3><div style="display:flex;flex-wrap:wrap;gap:8px">{links}</div></div>')
+        groups.append(f'<div class="rel"><h3>Bách Khoa Thần Học</h3><div class="chips">{links}</div></div>')
     if lesson.get("bible"):
         links = "".join(f'<a class="btn" href="/kinh-thanh/{b}/{c}.html">{esc(books.get(b, b))} {c}</a>' for b, c in lesson["bible"])
-        groups.append(f'<div class="rel" style="margin-top:14px"><h3 style="margin:0 0 10px">Đọc Kinh Thánh</h3><div style="display:flex;flex-wrap:wrap;gap:8px">{links}</div></div>')
+        groups.append(f'<div class="rel"><h3>Đọc Kinh Thánh</h3><div class="chips">{links}</div></div>')
     if lesson.get("books"):
         links = "".join(f'<a class="btn" href="{u}">{esc(label)}</a>' for label, u in lesson["books"])
-        groups.append(f'<div class="rel" style="margin-top:14px"><h3 style="margin:0 0 10px">Đọc thêm trong Thư Viện</h3><div style="display:flex;flex-wrap:wrap;gap:8px">{links}</div></div>')
+        groups.append(f'<div class="rel"><h3>Đọc thêm trong Thư Viện</h3><div class="chips">{links}</div></div>')
     if lesson.get("answers"):
         links = "".join(f'<a class="btn" href="/hoi-dap/{s}.html">{esc(answers[s]["question_vi"])}</a>' for s in lesson["answers"] if s in answers)
-        groups.append(f'<div class="rel" style="margin-top:14px"><h3 style="margin:0 0 10px">Hỏi Đáp Cải Chánh</h3><div style="display:flex;flex-wrap:wrap;gap:8px">{links}</div></div>')
+        groups.append(f'<div class="rel"><h3>Hỏi Đáp Cải Chánh</h3><div class="chips">{links}</div></div>')
     return "".join(groups)
 
 data_out = {"courses": []}
@@ -132,27 +213,30 @@ for course in COURSES:
 
     # course page
     rows = "".join(
-        f'<a class="qo-row" href="/hoc-vien/{cslug}/bai-{i}.html"><span class="qo-num">Bài {i}</span>'
-        f'<span><strong>{esc(l["title"])}</strong><br /><span style="color:var(--ink-soft);font-size:14px">{esc(l["objective"])}</span></span></a>'
+        f'<a class="qo-row" data-lesson-key="{cslug}:{i}" href="/hoc-vien/{cslug}/bai-{i}.html"><span class="qo-num">{i}</span>'
+        f'<span><span class="qo-title">{esc(l["title"])}</span><span class="qo-obj">{esc(l["objective"])}</span></span>'
+        f'<span class="qo-state"></span></a>'
         for i, l in enumerate(lessons, 1))
     _comp = {"nen-tang-duc-tin": "Lộ trình đồng hành tiếng Việt cho Chứng Chỉ Nền Tảng của Thirdmill Institute.",
              "than-hoc-he-thong-1": "Lộ trình đồng hành tiếng Việt cho khóa The Doctrine of God — Chứng Chỉ Nghiên Cứu Thần Học của Thirdmill Institute.",
              "day-giao-ly-nhom-nho": "Khóa trang bị phục vụ, đồng hành cùng các huy hiệu phục vụ (dạy Kinh Thánh, dẫn nhóm nhỏ) trong chương trình Thirdmill Institute."}.get(course["slug"])
-    companion_line = f'<p style="margin-top:10px;color:var(--ink-soft)">{esc(_comp)}</p>' if _comp else ""
+    companion_line = f'<p style="text-align:center;color:var(--ink-soft);max-width:760px;margin:10px auto 0">{esc(_comp)}</p>' if _comp else ""
     page = f"""{head(course["title"] + " | Học Viện Cải Chánh",
                      course["audience"], BASE + f"/hoc-vien/{cslug}/")}
 <body id="top">
 {HEADER}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/hoc-vien/">Học Viện Cải Chánh</a></p>
-  <div class="cat-head">
-    <div class="kicker">Học Viện Cải Chánh · {esc(course["level_vi"])}</div>
-    <h1>{esc(course["title"])}</h1>
-    <p style="color:var(--ink-soft)">{esc(course["audience"])}</p>
-    {companion_line}
-    <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
-    <p style="margin-top:10px;color:var(--ink-soft)" data-progress-for="{cslug}" data-total="{len(lessons)}"></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">{len(lessons)}</span><span class="m-small">Bài học</span></div>
+    <div>
+      <div class="tb-kicker">Học Viện Cải Chánh · {esc(course["level_vi"])}</div>
+      <h1>{esc(course["title"])}</h1>
+      <p class="tb-sub">{esc(course["audience"])} &nbsp;<span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
   </div>
+  {companion_line}
+  <p style="text-align:center;margin:14px 0 18px"><span class="progress-line" data-progress-for="{cslug}" data-total="{len(lessons)}"></span></p>
   <section style="margin-bottom:34px"><div class="qo-list">{rows}</div></section>
 </main>
 {FOOTER}
@@ -174,10 +258,10 @@ for course in COURSES:
             qs = []
             for qi, item in enumerate(quiz):
                 opts = "".join(
-                    f'<label style="display:block;margin:4px 0;font-size:15px"><input type="radio" name="q{qi}" value="{oi}" /> {esc(o)}</label>'
+                    f'<label><input type="radio" name="q{qi}" value="{oi}" /> {esc(o)}</label>'
                     for oi, o in enumerate(item["options_vi"]))
-                qs.append(f'<fieldset data-qi="{qi}" style="border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin:0 0 12px">'
-                          f'<legend style="font-weight:600;padding:0 6px">Câu {qi+1}. {esc(item["q_vi"])}</legend>{opts}</fieldset>')
+                qs.append(f'<fieldset data-qi="{qi}">'
+                          f'<legend>Câu {qi+1}. {esc(item["q_vi"])}</legend>{opts}</fieldset>')
             quiz_html = f"""<section style="margin-top:26px"><h2>Trắc nghiệm cuối bài</h2>
   <form id="lessonQuiz" onsubmit="return false">{"".join(qs)}
   <button class="btn solid" type="button" id="quizCheck">Kiểm tra đáp án</button>
@@ -193,16 +277,21 @@ for course in COURSES:
 {HEADER}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/hoc-vien/">Học Viện</a> · <a href="/hoc-vien/{cslug}/">{esc(course["title"])}</a></p>
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">{i}</span><span class="m-small">Bài {i}/{len(lessons)}</span></div>
+    <div>
+      <div class="tb-kicker">{esc(course["title"])}</div>
+      <h1>{esc(lesson["title"])}</h1>
+      <p class="tb-sub">{esc(course["level_vi"])} &nbsp;<span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+    </div>
+  </div>
   <article class="qbody">
-    <div class="kicker">{esc(course["level_vi"])} · Bài {i}/{len(lessons)}</div>
-    <h1>{esc(lesson["title"])}</h1>
-    <p><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
-    <div class="objective" style="background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:16px 0">
+    <div class="objective">
       <strong>Mục tiêu bài học:</strong> {esc(lesson["objective"])}
     </div>
     <h2>Bài đọc</h2>
     {readings_html(lesson)}
-    <h2 style="margin-top:26px">Tóm tắt bài học</h2>
+    <h2>Tóm tắt bài học</h2>
     {summary}
     {quiz_html}
     <div style="margin-top:26px"><button class="btn" id="markDone" data-key="{cslug}:{i}" type="button">Đánh dấu đã hoàn thành bài này</button></div>
@@ -247,11 +336,11 @@ def companion_html(c):
         bid, ch = b.split(":")
         links.append(f'<a href="/kinh-thanh/{bid}/{ch}.html">{esc(books.get(bid, bid))} {ch}</a>')
     read = f'<p style="margin:8px 0 0;font-size:14px">Đọc thêm: {" · ".join(links)}</p>' if links else ""
-    return f"""<div style="margin:8px 0 14px;padding:12px 14px;border-left:3px solid #7c2128;background:rgba(124,33,40,.05);border-radius:0 10px 10px 0">
-      <p style="margin:0 0 6px"><strong>{esc(c["title_vi"])}</strong> <span style="font-size:12px;color:var(--ink-soft)">· Nội dung AI soạn, chưa duyệt</span></p>
-      <p style="margin:0 0 6px">{esc(c["summary_vi"])}</p>
-      <p style="margin:0 0 6px;font-size:14px"><em>Thuật ngữ:</em> {terms}</p>
-      <details><summary style="cursor:pointer;font-size:14px">Câu hỏi học tập</summary><ol style="margin:6px 0 0;padding-left:20px">{qs}</ol></details>
+    return f"""<div class="companion">
+      <p><strong>{esc(c["title_vi"])}</strong> <span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
+      <p>{esc(c["summary_vi"])}</p>
+      <p style="font-size:14px"><em>Thuật ngữ:</em> {terms}</p>
+      <details><summary>Câu hỏi học tập</summary><ol style="margin:6px 0 0;padding-left:20px">{qs}</ol></details>
       {read}
     </div>"""
 def series_of(course_en):
@@ -308,16 +397,16 @@ for cert in CERTS:
             items = "".join(
                 f"<li>{esc(x)}" + (companion_html(COMPANIONS[(_code, _n)]) if (_code, _n) in COMPANIONS else "") + "</li>"
                 for _n, x in enumerate(s["lessons"], 1))
-            series_html += f"""<section style="margin-bottom:26px">
-    <h2 style="font-size:21px">{esc(s["series"])}</h2>
-    <p style="color:var(--ink-soft)">{s["lesson_count"]} bài học · Thirdmill Nexus</p>
-    <ol style="margin:10px 0 14px;padding-left:22px;line-height:1.75">{items}</ol>
+            series_html += f"""<section class="series-card">
+    <h2>{esc(s["series"])}</h2>
+    <p style="color:var(--ink-soft);margin:0">{s["lesson_count"]} bài học · Thirdmill Nexus</p>
+    <ol>{items}</ol>
     <p><a class="btn solid" href="{esc(s["series_url"])}" target="_blank" rel="noopener">Học loạt bài này trên Nexus →</a></p>
   </section>"""
-        note = f'<p style="margin-top:10px;color:var(--ink-soft)">{esc(c["note"])}</p>' if c.get("note") else ""
+        note = f'<p style="text-align:center;color:var(--ink-soft);max-width:760px;margin:10px auto 0">{esc(c["note"])}</p>' if c.get("note") else ""
         companion = ""
         if c.get("companion"):
-            companion = f'<p style="margin-top:14px"><a class="btn" href="/hoc-vien/{c["companion"]}/">Lộ trình đồng hành tiếng Việt: {esc(next(x["title"] for x in COURSES if x["slug"] == c["companion"]))} →</a></p>'
+            companion = f'<p style="text-align:center;margin:14px 0 4px"><a class="btn" href="/hoc-vien/{c["companion"]}/">Lộ trình đồng hành tiếng Việt: {esc(next(x["title"] for x in COURSES if x["slug"] == c["companion"]))} →</a></p>'
         url = f"{BASE}/hoc-vien/khoa/{c['slug']}/"
         page = f"""{head(c["vi"] + " (" + c["en"] + ") — Thirdmill | Học Viện Cải Chánh",
                          f"Khóa {c['en']} của Thirdmill Institute: {len(series)} loạt bài, {n_lessons} bài học, học miễn phí trên Nexus.", url)}
@@ -325,15 +414,18 @@ for cert in CERTS:
 {HEADER}
 <main class="wrap">
   <p class="crumb"><a href="/">Trang chủ</a> · <a href="/hoc-vien/">Học Viện</a> · {esc(cert["vi"])}</p>
-  <div class="cat-head">
-    <div class="kicker">Thirdmill Institute · {esc(cert["en"])}</div>
-    <h1>{esc(c["vi"])}</h1>
-    <p style="color:var(--ink-soft)">{esc(c["en"])} · {len(series)} loạt bài · {n_lessons} bài học · Huy hiệu phục vụ: {esc(c["badge"])}</p>
-    {note}{companion}
+  <div class="title-band">
+    <div class="medallion"><span class="m-big">{n_lessons}</span><span class="m-small">Bài học</span></div>
+    <div>
+      <div class="tb-kicker">Thirdmill Institute · {esc(cert["en"])}</div>
+      <h1>{esc(c["vi"])}</h1>
+      <p class="tb-sub">{esc(c["en"])} · {len(series)} loạt bài · {n_lessons} bài học · Huy hiệu phục vụ: {esc(c["badge"])}</p>
+    </div>
   </div>
-  <article class="qbody" style="margin-bottom:10px">
-    <p>Đây là khóa học chính thức của <strong>Third Millennium Ministries</strong>, học miễn phí trên nền tảng Nexus của Thirdmill (bài học bằng tiếng Anh; Nexus có giao diện tiếng Việt). Reformed Vietnam không lưu trữ video — mỗi loạt bài liên kết thẳng đến Nexus, nơi bạn xem video, đọc bản văn và làm bài kiểm tra để tích lũy chứng chỉ.</p>
-  </article>
+  {note}{companion}
+  <div class="intro-panel">
+    <p style="margin:0">Đây là khóa học chính thức của <strong>Third Millennium Ministries</strong>, học miễn phí trên nền tảng Nexus của Thirdmill (bài học bằng tiếng Anh; Nexus có giao diện tiếng Việt). Reformed Vietnam không lưu trữ video — mỗi loạt bài liên kết thẳng đến Nexus, nơi bạn xem video, đọc bản văn và làm bài kiểm tra để tích lũy chứng chỉ.</p>
+  </div>
   {series_html}
 </main>
 {FOOTER}
@@ -368,7 +460,7 @@ for ci, cert in enumerate(CERTS):
         f'<p style="margin-top:8px;font-weight:600">Huy hiệu phục vụ: {esc(c["badge"])}</p></a>'
         for c in cert["courses"])
     # design pass 2026-11: alternate a burgundy-tint band with a gold rule across the certificate sections
-    tint = "background:rgba(124,33,40,.05);border-top:2px solid #d9c08a;border-radius:12px;padding:16px 18px 2px;" if ci % 2 == 1 else ""
+    tint = "background:color-mix(in srgb, var(--burgundy) 5%, transparent);border-top:2px solid var(--gold-soft);border-radius:12px;padding:16px 18px 2px;" if ci % 2 == 1 else ""
     cert_sections.append(f'<section id="{cert["id"]}" style="margin-bottom:30px;{tint}"><div class="section-head"><div class="rule"></div><h2>{esc(cert["vi"])}</h2><p>{esc(cert["blurb"])} Tổng cộng {cert["total_lessons"]} bài học.</p></div><div class="mod-grid">{cards}</div></section>')
 landing = f"""{head("Học Viện Cải Chánh — Chương trình Thirdmill miễn phí + lộ trình tiếng Việt | Reformed Vietnam",
                     "Học Viện Cải Chánh theo chương trình chính thức của Thirdmill Institute: 3 chứng chỉ, 14 khóa, 122 bài học miễn phí trên Nexus, kèm lộ trình đồng hành tiếng Việt.",
