@@ -53,6 +53,51 @@
       .nav-cta, .search-box button, .btn.solid, .term-list button.active, .to-top { background: #a84343; }
       .nav-cta:hover, .search-box button:hover, .btn.solid:hover, .to-top:hover { background: #8f3535; }
       }
+      /* Manual light/dark toggle (rv.theme) — mirrors the system dark palette above */
+      html[data-theme="dark"] {
+        color-scheme: dark;
+        --bg: #17120e;
+          --surface: #221a14;
+          --surface-2: #2b211a;
+          --ink: #f0e6d4;
+          --ink-soft: #c4b198;
+          --line: #453729;
+          --burgundy: #d17575;
+          --burgundy-deep: #a84343;
+          --gold: #d3ab5e;
+          --gold-text: #e0ba72;
+          --gold-soft: #c9a45c;
+          --green: #8fbf7f;
+          --dark-band: #0f0b08;
+          --dark-band-ink: #f3e9d7;
+          --shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+      }
+      html[data-theme="dark"] .nav-cta, html[data-theme="dark"] .search-box button, html[data-theme="dark"] .btn.solid, html[data-theme="dark"] .term-list button.active, html[data-theme="dark"] .to-top { background: #a84343; }
+      html[data-theme="dark"] .nav-cta:hover, html[data-theme="dark"] .search-box button:hover, html[data-theme="dark"] .btn.solid:hover, html[data-theme="dark"] .to-top:hover { background: #8f3535; }
+      html[data-theme="light"] {
+        color-scheme: light;
+        --bg: #f7f2e9;
+          --surface: #fffdf8;
+          --surface-2: #efe7d8;
+          --ink: #2b2118;
+          --ink-soft: #5d4f40;
+          --line: #ddd0ba;
+          --burgundy: #7c2128;
+          --burgundy-deep: #5d161c;
+          --gold: #8a6414;
+          --gold-text: #7a560d;
+          --gold-soft: #c9a45c;
+          --green: #3e6b34;
+          --dark-band: #221812;
+          --dark-band-ink: #f3e9d7;
+          --radius: 14px;
+          --shadow: 0 10px 30px rgba(60, 38, 12, 0.12);
+      }
+      html[data-theme="light"] .nav-cta, html[data-theme="light"] .search-box button, html[data-theme="light"] .btn.solid, html[data-theme="light"] .term-list button.active { background: var(--burgundy); }
+      html[data-theme="light"] .nav-cta:hover, html[data-theme="light"] .search-box button:hover, html[data-theme="light"] .btn.solid:hover { background: var(--burgundy-deep); }
+      html[data-theme="light"] .to-top:hover { background: var(--burgundy-deep); }
+      .theme-btn { flex-shrink: 0; background: none; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; color: var(--ink); cursor: pointer; font-size: 16px; line-height: 1; }
+
       * { box-sizing: border-box; }
       html { scroll-behavior: smooth; }
       body {
@@ -480,6 +525,8 @@
       .band-tint { max-width: 860px; margin: 34px auto 8px; background: color-mix(in srgb, var(--burgundy) 6%, var(--bg)); border-top: 2px solid var(--gold-soft); border-radius: var(--radius); padding: 6px 18px 20px; }
       .band-tint .qa-cards { margin-top: 10px; }
 </style>
+<meta name="theme-color" content="#9a3412" />
+<script>try{var _t=localStorage.getItem("rv.theme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
 </head>
 <body id="top">
 <header class="site">
@@ -501,6 +548,7 @@
             <a href="/bai-giang/">Bài Giảng<span class="gloss">Nghe giảng theo đoạn Kinh Thánh</span></a>
             <a href="/thanh-ca/">Thánh Ca<span class="gloss">Bài hát thờ phượng</span></a>
           </nav>
+          <button class="theme-btn" id="themeBtn" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button>
           <a class="nav-cta" href="/#tinh-nguyen">Tĩnh Nguyện Hôm Nay</a>
         </div>
       </div>
@@ -598,5 +646,6 @@
   })();
 </script>
 
+<script>(function(){var b=document.getElementById("themeBtn");if(!b)return;b.onclick=function(){var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c)}catch(e){}var mc=document.querySelector('meta[name="theme-color"]');if(mc)mc.setAttribute("content",c==="dark"?"#14171c":"#9a3412")}}})();</script>
 </body>
 </html>
