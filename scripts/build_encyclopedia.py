@@ -176,6 +176,30 @@ for _e in entries:
         _e["body_vi"] = [p.replace("duy ân điển là tin mừng lớn", "duy ân điển là Phúc Âm lớn") for p in _e["body_vi"]]
 print("locked-term fix applied: duy-an-dien tin mừng -> Phúc Âm (own voice)")
 
+# ---- Round 22 cross-links (Spark S6, integrator-verified; owner
+# approved integration 2026-11-09): curated "xem thêm" term links
+# override the auto-derived related_terms below, and the verified
+# library links are appended to related_books_resolved. Source data:
+# scripts/helper-data/encyclopedia-links.json ({slug, xem_them, sach}).
+_links_path = ROOT / "scripts/helper-data/encyclopedia-links.json"
+if _links_path.exists():
+    _links = {r["slug"]: r for r in json.loads(_links_path.read_text(encoding="utf-8"))}
+    _slugset = {e["slug"] for e in entries}
+    _applied = 0
+    for _e in entries:
+        _r = _links.get(_e["slug"])
+        if not _r:
+            continue
+        _e["related_terms"] = [s for s in _r["xem_them"] if s in _slugset and s != _e["slug"]]
+        _seen = {u for _l, u in _e["related_books_resolved"]}
+        for _b in _r["sach"]:
+            _path = _b["url"].replace("https://reformedvietnam.com", "")
+            if _path not in _seen:
+                _e["related_books_resolved"].append((_b["title"], _path))
+                _seen.add(_path)
+        _applied += 1
+    print(f"Round 22 cross-links applied: {_applied} entries")
+
 by_slug = {e["slug"]: e for e in entries}
 for e in entries:
     if e["related_terms"]: continue

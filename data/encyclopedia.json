@@ -41,6 +41,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Tất Cả Bởi Ân Điển",
+     "/ban-dich/spurgeon-grace.html"
+    ],
+    [
+     "Ân Điển Dư Dật",
+     "/ban-dich/bunyan-grace.html"
     ]
    ],
    "related_catechism": [
@@ -50,9 +58,10 @@
     31
    ],
    "related_terms": [
-    "su-tuyen-chon",
-    "xung-cong-chinh",
-    "su-chuoc-toi"
+    "duy-an-dien",
+    "phuc-am",
+    "su-cuu-roi",
+    "xung-cong-chinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -98,17 +107,24 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Lời Kêu Gọi Người Chưa Cải Đạo",
+     "/ban-dich/baxter-unconverted.html"
+    ],
+    [
+     "Ba Bài Luận Nhằm Đánh Thức Tội Nhân Mê Muội",
+     "/ban-dich/baxter-three-treatises-awaken-sinners.html"
     ]
    ],
    "related_catechism": [
     87
    ],
    "related_terms": [
-    "dia-nguc",
-    "duc-chua-troi",
-    "long",
-    "noi-an-nau",
-    "su-ky-luat-hoi-thanh"
+    "duc-tin",
+    "su-tai-sinh",
+    "su-tha-thu",
+    "xung-toi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -146,14 +162,20 @@
     "“Ánh sáng chỉ là hình ảnh đẹp, không có ý nghĩa thật” — không, ánh sáng nói lên bản tính thánh khiết thật của Đức Chúa Trời và công việc cứu rỗi thật của Đấng Christ."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Ánh Sáng Trong Bóng Tối",
+     "/ban-dich/218-anh-sang-trong-bong-toi-watson-1679.html"
+    ]
+   ],
    "related_catechism": [
     4
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
-    "toi-loi"
+    "mac-khai",
+    "ngoi-loi",
+    "le-that",
+    "toi-tam-thuoc-linh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -198,6 +220,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Tuyên Bố Và Biện Hộ Giáo Lý Ba Ngôi",
+     "/ban-dich/owen-trinity.html"
+    ],
+    [
+     "Tiểu Luận Về Ba Ngôi",
+     "/ban-dich/edwards-trinity.html"
     ]
    ],
    "related_catechism": [
@@ -205,8 +235,9 @@
     6
    ],
    "related_terms": [
-    "doi-doi",
     "duc-chua-cha",
+    "duc-chua-con",
+    "duc-thanh-linh",
     "duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
@@ -240,13 +271,21 @@
     "“Bánh sự sống chỉ là hình ảnh về lời dạy của Chúa” — không, Chúa Giê-xu phán chính Ngài là Bánh sự sống, và chỉ đức tin nơi Ngài mới ban sự sống đời đời."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Nguồn Sống Mở Ra",
+     "/ban-dich/flavel-fountainoflife.html"
+    ],
+    [
+     "Sổ Séc Của Đức Tin",
+     "/ban-dich/spurgeon-checkbook.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
     "chua-gie-xu",
-    "doi-doi",
-    "linh-hon",
-    "ma-na",
+    "nuoc-hang-song",
+    "tiec-thanh",
     "su-song-doi-doi"
    ],
    "review_status": "ai-unreviewed",
@@ -292,6 +331,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Báp-têm Cho Tín Hữu: Hay, Tình Yêu Đối Với Người Britain Cổ Được Bày Tỏ",
+     "/ban-dich/074-believers-baptism-love-antient-britains-displayed-keach.html"
+    ],
+    [
+     "Sự Hiệu Quả Của Các Thánh Lễ",
+     "/ban-dich/arch-rutherford-efficacy-sacraments.html"
     ]
    ],
    "related_catechism": [
@@ -299,11 +346,10 @@
     95
    ],
    "related_terms": [
-    "dang-christ",
-    "dai-mang-lenh",
-    "duc-tin",
-    "song-gio-danh",
-    "su-chet"
+    "thanh-le",
+    "tiec-thanh",
+    "hoi-thanh",
+    "su-tai-sinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -344,16 +390,24 @@
    "related_books": [
     "Tóm Lược Thần Học — Charles Hodge"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Luận Về Sự Chắc Chắn",
+     "/ban-dich/arch-brooks-treatise-assurance.html"
+    ],
+    [
+     "Giáo Lý Về Sự Bảo Đảm",
+     "/ban-dich/mg1-031-doctrine-of-assurance-pink.html"
+    ]
+   ],
    "related_catechism": [
     36
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "duc-tin",
     "su-ben-do-cua-cac-thanh-do",
     "su-trung-tin",
-    "tulip"
+    "hy-vong",
+    "su-vinh-hien-hoa"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -392,14 +446,24 @@
     "“Bình an chỉ là cảm giác yên lòng” — không, bình an thật dựa trên sự hòa thuận với Đức Chúa Trời qua Đấng Christ, không phải trên cảm xúc nhất thời."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Con Đường Bình An Của Đức Chúa Trời",
+     "/ban-dich/bonar-peace.html"
+    ],
+    [
+     "Lời Hòa Bình",
+     "/ban-dich/008-words-of-peace-manton.html"
+    ]
+   ],
    "related_catechism": [
     36
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
-    "long"
+    "su-hoa-thuan",
+    "yen-ui",
+    "su-vui-mung",
+    "tinh-yeu-thuong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -444,6 +508,14 @@
     [
      "Một Phương Pháp Cầu Nguyện — Matthew Henry",
      "/ban-dich/334-method-for-prayer-with-scripture-expressions-henry.html"
+    ],
+    [
+     "Luận Về Sự Cầu Nguyện",
+     "/ban-dich/knox-prayer-pd.html"
+    ],
+    [
+     "Kinh Lạy Cha",
+     "/ban-dich/watson-lordsprayer.html"
     ]
    ],
    "related_catechism": [
@@ -459,11 +531,10 @@
     107
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "hoi-thanh-dau-tien",
     "kieng-an",
-    "truong-lao",
-    "xung-toi"
+    "su-tho-phuong",
+    "duc-chua-cha",
+    "long-thuong-xot"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -501,13 +572,23 @@
     "“Ca ngợi chỉ là phần âm nhạc trong buổi thờ phượng” — không, ca ngợi là cả đời sống tôn vinh Chúa, và âm nhạc chỉ là một cách bày tỏ."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Buổi Sáng Và Buổi Chiều",
+     "/ban-dich/spurgeon-morningevening.html"
+    ],
+    [
+     "Bốn Bài Thánh Ca Và Một Số Bài Thơ Đạo",
+     "/ban-dich/arch-warfield-four-hymns.html"
+    ]
+   ],
    "related_catechism": [
     1
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "long"
+    "su-ngoi-khen",
+    "su-tho-phuong",
+    "su-vui-mung"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -552,6 +633,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Lịch Sử Cuộc Cải Chánh Thế Kỷ Mười Sáu",
+     "/ban-dich/mg1-761-history-reformation-daubigne.html"
+    ],
+    [
+     "Lịch Sử Cải Chánh Scotland",
+     "/ban-dich/knox-history.html"
     ]
    ],
    "related_catechism": [
@@ -560,11 +649,10 @@
     3
    ],
    "related_terms": [
-    "an-dien",
-    "duy-an-dien",
-    "duc-tin",
+    "than-hoc-cai-chanh",
     "nam-sola",
-    "phuc-am"
+    "tin-dieu",
+    "duy-kinh-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -601,14 +689,25 @@
    "related_books": [
     "Tóm Lược Thần Học — Charles Hodge"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Cảm Thúc Thiêng Liêng của Kinh Thánh",
+     "/ban-dich/pink-inspiration.html"
+    ],
+    [
+     "Kinh Thánh Chân Thật, Sự Vô Đạo Gian Ác",
+     "/ban-dich/arch-plumer-bible-true.html"
+    ]
+   ],
    "related_catechism": [
     2,
     3
    ],
    "related_terms": [
-    "duc-thanh-linh",
-    "khong-sai-lam"
+    "khong-sai-lam",
+    "mac-khai",
+    "chinh-dien",
+    "su-sang-to-cua-kinh-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -646,10 +745,22 @@
     "“Chấp sự là chức vụ phụ, kém quan trọng” — không, chấp sự là chức vụ Chúa lập để Hội Thánh được phục vụ chu đáo và Lời Chúa được rao giảng không ngăn trở."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Người Chăn Bầy Cải Chánh",
+     "/ban-dich/baxter-pastor.html"
+    ],
+    [
+     "Trưởng Lão Là Gì?",
+     "/ban-dich/arch-hodge-what-is-presbyterianism.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "hoi-thanh"
+    "truong-lao",
+    "hoi-thanh",
+    "su-phuc-vu",
+    "su-ky-luat-hoi-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -687,12 +798,23 @@
     "“Chiên Con chỉ nói về sự hiền lành của Chúa Giê-xu” — không, danh xưng này chủ yếu chỉ Ngài là của lễ chịu chết thay tội nhân."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Huyết Của Thập Tự Giá",
+     "/ban-dich/arch-bonar-blood-cross.html"
+    ],
+    [
+     "Giáo Lý Về Sự Chuộc Tội",
+     "/ban-dich/mg1-692-doctrine-atonement-cunningham.html"
+    ]
+   ],
    "related_catechism": [
     25
    ],
    "related_terms": [
-    "chua-gie-xu",
+    "thap-tu-gia",
+    "huyet",
+    "su-chuoc-toi",
     "le-vuot-qua"
    ],
    "review_status": "ai-unreviewed",
@@ -730,14 +852,25 @@
    "related_books": [
     "Tóm Lược Thần Học — Charles Hodge"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Hình Thành Kinh Điển Tân Ước: Như Thế Nào Và Khi Nào",
+     "/ban-dich/arch-warfield-canon-nt.html"
+    ],
+    [
+     "Giáo Lý Cơ Đốc Giáo",
+     "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ]
+   ],
    "related_catechism": [
     2,
     3
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "hoi-thanh"
+    "cuu-uoc",
+    "tan-uoc",
+    "khong-sai-lam",
+    "cam-thuc"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -775,10 +908,22 @@
     "“Chỉ mục sư mới phải làm chứng” — không, mọi tín đồ đều được kêu gọi làm chứng về Đấng Christ bằng lời nói và đời sống."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Nỗ Lực Truyền Giáo",
+     "/ban-dich/1000-377-missionary-exertion-knox.html"
+    ],
+    [
+     "Bài Giảng Truyền Giáo Của Spurgeon",
+     "/ban-dich/arch-spurgeon-missionary-sermon.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "dang-christ"
+    "truyen-giao",
+    "mon-do",
+    "su-tu-dao",
+    "dai-mang-lenh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -823,6 +968,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn",
+     "/ban-dich/flavel-lovely.html"
+    ],
+    [
+     "Suy Ngẫm Về Vinh Quang Của Đấng Christ",
+     "/ban-dich/owen-glory.html"
     ]
    ],
    "related_catechism": [
@@ -830,11 +983,10 @@
     22
    ],
    "related_terms": [
-    "banh-su-song",
-    "chien-con-cua-duc-chua-troi",
+    "dang-christ",
     "con-duc-chua-troi",
-    "con-nguoi",
-    "dau-hieu-thoi-cuoi"
+    "su-nhap-the",
+    "thap-tu-gia"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -872,17 +1024,25 @@
     "“Con Đức Chúa Trời nghĩa là Ngài được sinh ra như con người” — không, Ngài là Con đời đời, đồng bản thể với Cha, không có khởi đầu."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn",
+     "/ban-dich/flavel-lovely.html"
+    ],
+    [
+     "Sự Hiện Hữu Đời Đời Của Đấng Christ",
+     "/ban-dich/manton-christs-eternal-existence.html"
+    ]
+   ],
    "related_catechism": [
     6,
     21
    ],
    "related_terms": [
     "chua-gie-xu",
-    "doi-doi",
-    "duc-chua-cha",
-    "su-nhan-lam-con-nuoi",
-    "su-nhap-the"
+    "than-tinh-cua-dang-christ",
+    "ngoi-loi",
+    "ba-ngoi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -920,16 +1080,24 @@
     "“Con Người chỉ nhấn mạnh nhân tính của Chúa Giê-xu” — không, danh xưng này đồng thời chỉ Đấng Mết-si-a vinh hiển sẽ đến phán xét."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn",
+     "/ban-dich/flavel-lovely.html"
+    ],
+    [
+     "Sự Hiện Hữu Đời Đời Của Đấng Christ",
+     "/ban-dich/manton-christs-eternal-existence.html"
+    ]
+   ],
    "related_catechism": [
     22
    ],
    "related_terms": [
     "chua-gie-xu",
-    "duy-an-dien",
-    "giet-nguoi",
-    "linh-hon",
-    "long"
+    "nhan-tinh-cua-dang-christ",
+    "su-nhap-the",
+    "dang-christ"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -974,6 +1142,10 @@
     [
      "Kẻ Có Tội Trong Tay Đức Chúa Trời Thạnh Nộ — Jonathan Edwards",
      "/ban-dich/308-sinners-in-the-hands-of-an-angry-god-edwards.html"
+    ],
+    [
+     "Sự An Toàn Nhất Chống Lại Ngày Thịnh Nộ",
+     "/ban-dich/arch-boston-best-security-wrath.html"
     ]
    ],
    "related_catechism": [
@@ -981,9 +1153,10 @@
     84
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
-    "toi-loi"
+    "dia-nguc",
+    "su-doan-phat",
+    "su-phan-xet-cuoi-cung",
+    "su-den-toi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1017,15 +1190,24 @@
     "“Cựu Ước không còn liên quan đến tín đồ ngày nay” — không, Cựu Ước là Lời Đức Chúa Trời, hướng về Đấng Christ và vẫn dạy dỗ, khích lệ chúng ta."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Nhặt Nhạnh Trong Xuất Ê-díp-tô Ký",
+     "/ban-dich/mg1-013-gleanings-in-exodus-pink.html"
+    ],
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [
     2
    ],
    "related_terms": [
-    "cua-le",
-    "dang-christ",
-    "luat-phap",
-    "tien-tri"
+    "tan-uoc",
+    "chinh-dien",
+    "giao-uoc",
+    "le-that"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1063,16 +1245,24 @@
     "“Của lễ Cựu Ước tự nó có thể xóa tội” — không, huyết bò và dê không thể cất tội; chỉ huyết Đấng Christ mà các của lễ ấy hướng về mới xóa tội được."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Huyết Của Thập Tự Giá",
+     "/ban-dich/arch-bonar-blood-cross.html"
+    ],
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [
     25
    ],
    "related_terms": [
-    "cuu-uoc",
     "cua-le-thieu",
-    "dang-christ",
-    "duc-chua-troi",
-    "le-that"
+    "huyet",
+    "thap-tu-gia",
+    "su-chuoc-toi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1106,11 +1296,22 @@
     "“Của lễ thiêu chỉ là nghi thức Cựu Ước, không còn ý nghĩa” — không, nó dạy chúng ta về sự dâng mình trọn vẹn, mà Rô-ma 12:1 áp dụng cho tín đồ ngày nay."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Huyết Của Thập Tự Giá",
+     "/ban-dich/arch-bonar-blood-cross.html"
+    ],
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
     "cua-le",
-    "duc-chua-troi"
+    "huyet",
+    "den-tam",
+    "le-vuot-qua"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1145,10 +1346,18 @@
     "“Phải dâng đủ một phần mười thì Chúa mới ban phước” — không, Tân Ước dạy dâng hiến cách vui lòng và rộng rãi theo khả năng, không phải như một thứ thuế để đổi lấy phước."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Dâng Một Phần Mười",
+     "/ban-dich/pink-tithing.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "long"
+    "tien-bac",
+    "su-phuc-vu",
+    "su-vang-loi",
+    "den-tho"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1186,11 +1395,25 @@
     "“Danh Chúa chỉ là cách gọi, không quan trọng” — không, danh Chúa bày tỏ chính Ngài, nên phải được tôn kính và kêu cầu với lòng tin."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Thần Tính Của Đức Chúa Trời",
+     "/ban-dich/pink-godhood.html"
+    ],
+    [
+     "Về Sự Kính Sợ Đức Chúa Trời",
+     "/ban-dich/mg1-848-fear-of-god-bates.html"
+    ]
+   ],
    "related_catechism": [
     54
    ],
-   "related_terms": [],
+   "related_terms": [
+    "duc-chua-troi",
+    "su-tu-huu",
+    "su-vinh-hien",
+    "su-tho-phuong"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -1232,14 +1455,25 @@
     "“Thời cuối chỉ là chuyện tương lai xa” — không, các dấu hiệu đã xuất hiện từ thời các sứ đồ và kêu gọi mỗi thế hệ sống sẵn sàng."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tái Lâm Của Đấng Cứu Chuộc",
+     "/ban-dich/081-redeemer-s-return-pink.html"
+    ],
+    [
+     "Sự Tận Cùng Của Thời Gian",
+     "/ban-dich/arch-boston-end-of-time.html"
+    ]
+   ],
    "related_catechism": [
     28,
     38
    ],
    "related_terms": [
-    "chua-gie-xu",
-    "phuc-am"
+    "dai-nan",
+    "thoi-ky-cuoi-cung",
+    "su-tai-lam",
+    "su-phan-xet-cuoi-cung"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1284,6 +1518,10 @@
     [
      "Tất Cả Bởi Ân Điển — Charles Spurgeon",
      "/ban-dich/spurgeon-grace.html"
+    ],
+    [
+     "Luận Về Ân Điển",
+     "/ban-dich/edwards-grace.html"
     ]
    ],
    "related_catechism": [
@@ -1293,10 +1531,9 @@
    ],
    "related_terms": [
     "an-dien",
-    "cai-chanh",
-    "con-nguoi",
-    "duc-chua-troi",
-    "nam-sola"
+    "tulip",
+    "su-tuyen-chon-vo-dieu-kien",
+    "phuc-am"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1341,6 +1578,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn",
+     "/ban-dich/flavel-lovely.html"
+    ],
+    [
+     "Đấng Christ, Đấng Cứu Thế Của Thế Gian",
+     "/ban-dich/arch-boston-christ-saviour-world.html"
     ]
    ],
    "related_catechism": [
@@ -1348,10 +1593,10 @@
     22
    ],
    "related_terms": [
-    "chua-gie-xu",
-    "dang-trung-bao",
-    "nam-sola",
-    "su-cuu-roi"
+    "dang-christ",
+    "phuc-am",
+    "xung-cong-chinh",
+    "tulip"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1412,9 +1657,10 @@
     86
    ],
    "related_terms": [
-    "dang-christ",
     "duc-tin",
-    "nam-sola"
+    "xung-cong-chinh",
+    "phuc-am",
+    "su-cong-chinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1459,6 +1705,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Kinh Thánh Chân Thật, Sự Vô Đạo Gian Ác",
+     "/ban-dich/arch-plumer-bible-true.html"
+    ],
+    [
+     "Sự Cảm Thúc Thiêng Liêng của Kinh Thánh",
+     "/ban-dich/pink-inspiration.html"
     ]
    ],
    "related_catechism": [
@@ -1466,7 +1720,9 @@
     3
    ],
    "related_terms": [
-    "duc-tin",
+    "chinh-dien",
+    "cam-thuc",
+    "khong-sai-lam",
     "nam-sola"
    ],
    "review_status": "ai-unreviewed",
@@ -1510,11 +1766,22 @@
     "“Người chăn chỉ chăm sóc những con chiên ngoan” — không, người chăn hiền lành đi tìm con chiên lạc và vác nó về trên vai."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Người Chăn Bầy Cải Chánh",
+     "/ban-dich/baxter-pastor.html"
+    ],
+    [
+     "Tình Yêu Của Một Mục Sư Được Bày Tỏ",
+     "/ban-dich/arch-watson-pastors-love.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi"
+    "chua-gie-xu",
+    "truong-lao",
+    "su-phuc-vu",
+    "hoi-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1559,6 +1826,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn",
+     "/ban-dich/flavel-lovely.html"
+    ],
+    [
+     "Đấng Christ, Đấng Cứu Thế Của Thế Gian",
+     "/ban-dich/arch-boston-christ-saviour-world.html"
     ]
    ],
    "related_catechism": [
@@ -1566,11 +1841,10 @@
     22
    ],
    "related_terms": [
-    "anh-sang",
-    "bap-tem",
-    "binh-an",
-    "chung-nhan",
-    "con-thanh-no-cua-duc-chua-troi"
+    "chua-gie-xu",
+    "than-tinh-cua-dang-christ",
+    "nhan-tinh-cua-dang-christ",
+    "su-nhap-the"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1615,6 +1889,14 @@
     [
      "Sự Chết Của Sự Chết Trong Sự Chết Của Đấng Christ — John Owen",
      "/ban-dich/arch-owen-death-of-death.html"
+    ],
+    [
+     "Chúa Christ Đấng Trung Bảo",
+     "/ban-dich/mg1-006-christ-the-mediator-pink.html"
+    ],
+    [
+     "Đấng Cứu Chuộc Cứu Kẻ Có Tội Đến Tột Cùng",
+     "/ban-dich/arch-boston-redeemer-ability-save.html"
     ]
    ],
    "related_catechism": [
@@ -1623,9 +1905,9 @@
    ],
    "related_terms": [
     "chua-gie-xu",
-    "duy-dang-christ",
-    "duc-chua-troi",
-    "huyet"
+    "su-hoa-thuan",
+    "su-chuoc-toi",
+    "thap-tu-gia"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1664,13 +1946,25 @@
     "“Đấng Yên Ủi chỉ an ủi, không cáo trách tội lỗi” — không, chính Ngài cũng cáo trách thế gian về tội lỗi và dẫn chúng ta đến sự ăn năn."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
+    ],
+    [
+     "Những Dấu Hiệu Phân Biệt của một Công Việc của Đức Thánh Linh",
+     "/ban-dich/679-nhung-dau-hieu-phan-biet-cua-mot-cong-viec-cua-duc-thanh-linh.html"
+    ]
+   ],
    "related_catechism": [
     30,
     36
    ],
    "related_terms": [
-    "duc-thanh-linh"
+    "duc-thanh-linh",
+    "yen-ui",
+    "su-xac-chung-cua-thanh-linh",
+    "su-thong-cong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1715,13 +2009,18 @@
     [
      "Hành Trình Của Người Lữ Hành — John Bunyan",
      "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Nhặt Nhạnh Trong Xuất Ê-díp-tô Ký",
+     "/ban-dich/mg1-013-gleanings-in-exodus-pink.html"
     ]
    ],
    "related_catechism": [],
    "related_terms": [
-    "doi-doi",
-    "duc-chua-troi",
-    "song-gio-danh"
+    "dong-vang",
+    "vuot-bien-do",
+    "giao-uoc",
+    "gie-ru-sa-lem"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1760,12 +2059,24 @@
     "“Vì Đấng Christ bị khước từ nên Ngài đã thất bại” — không, sự khước từ của con người chính là con đường Đức Chúa Trời dùng để tôn cao Ngài làm đá đầu góc nhà."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Khích Lệ Của Xô-rô-ba-bên Hoàn Thành Đền Thờ",
+     "/ban-dich/1000-387-zerubbabels-encouragement-to-finish-the-temple-goodwin.html"
+    ],
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [
     21
    ],
    "related_terms": [
-    "dang-christ"
+    "chua-gie-xu",
+    "hoi-thanh",
+    "den-tho",
+    "su-phuc-sinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1804,12 +2115,22 @@
     "“Truyền giảng chỉ là khiến người ta tin Chúa, không cần dạy dỗ thêm” — không, mạng lệnh bao gồm cả việc dạy họ giữ mọi điều Chúa đã truyền."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Nỗ Lực Truyền Giáo",
+     "/ban-dich/1000-377-missionary-exertion-knox.html"
+    ],
+    [
+     "Bổn Phận Của Người Giảng Phúc Âm",
+     "/ban-dich/arch-whitefield-duty-gospel-minister.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "bap-tem",
-    "chua-gie-xu",
-    "mon-do"
+    "truyen-giao",
+    "mon-do",
+    "hoi-thanh",
+    "chung-nhan"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1848,11 +2169,25 @@
     "“Tín hữu sẽ không bao giờ phải chịu hoạn nạn” — không, Kinh Thánh dạy dân Chúa sẽ chịu hoạn nạn trong thế gian, nhưng Chúa gìn giữ họ trong hoạn nạn ấy."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tái Lâm Của Đấng Cứu Chuộc",
+     "/ban-dich/081-redeemer-s-return-pink.html"
+    ],
+    [
+     "Sự Tận Cùng Của Thời Gian",
+     "/ban-dich/arch-boston-end-of-time.html"
+    ]
+   ],
    "related_catechism": [
     28
    ],
-   "related_terms": [],
+   "related_terms": [
+    "dau-hieu-thoi-cuoi",
+    "thoi-ky-cuoi-cung",
+    "su-tai-lam",
+    "ke-chong-dang-christ"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -1890,11 +2225,18 @@
     "“Muốn đến gần Đức Chúa Trời thì cần một nơi thánh đặc biệt” — không, qua Đấng Christ, tín hữu được đến gần Đức Chúa Trời ở bất cứ nơi nào."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "dang-christ",
-    "su-truong-thanh-thuoc-linh"
+    "den-tho",
+    "hom-giao-uoc",
+    "cua-le",
+    "su-hien-dien-cua-duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1933,11 +2275,22 @@
     "“Vì thân thể là đền thờ nên chỉ cần giữ sức khỏe là đủ” — không, đền thờ nói về đời sống thánh khiết trọn vẹn, dâng thân thể làm sinh tế sống cho Đức Chúa Trời."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Khích Lệ Của Xô-rô-ba-bên Hoàn Thành Đền Thờ",
+     "/ban-dich/1000-387-zerubbabels-encouragement-to-finish-the-temple-goodwin.html"
+    ],
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "duc-chua-troi",
-    "gie-ru-sa-lem"
+    "den-tam",
+    "hom-giao-uoc",
+    "hoi-thanh",
+    "su-tho-phuong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -1982,15 +2335,20 @@
     [
      "Kẻ Có Tội Trong Tay Đức Chúa Trời Thạnh Nộ — Jonathan Edwards",
      "/ban-dich/308-sinners-in-the-hands-of-an-angry-god-edwards.html"
+    ],
+    [
+     "Nỗi Khốn Khổ Khôn Tả Của Linh Hồn Đã Qua Đời",
+     "/ban-dich/arch-flavel-unspeakable-misery.html"
     ]
    ],
    "related_catechism": [
     19
    ],
    "related_terms": [
-    "an-nan",
-    "doi-doi",
-    "ma-quy"
+    "con-thanh-no-cua-duc-chua-troi",
+    "su-doan-phat",
+    "su-phan-xet-cuoi-cung",
+    "su-hu-mat"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2035,17 +2393,24 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Sự Hiện Hữu Đời Đời Của Đấng Christ",
+     "/ban-dich/manton-christs-eternal-existence.html"
+    ],
+    [
+     "Sự Tận Cùng Của Thời Gian",
+     "/ban-dich/arch-boston-end-of-time.html"
     ]
    ],
    "related_catechism": [
     4
    ],
    "related_terms": [
-    "ba-ngoi",
-    "banh-su-song",
-    "con-duc-chua-troi",
-    "dat-hua",
-    "dia-nguc"
+    "su-song-doi-doi",
+    "thien-dang",
+    "troi-moi-dat-moi",
+    "su-vinh-hien-hoa"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2090,6 +2455,14 @@
     [
      "Sự Nên Thánh — J. C. Ryle",
      "/ban-dich/ryle-holiness.html"
+    ],
+    [
+     "Hành Trình Của Người Lữ Hành",
+     "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Được Sinh Lại",
+     "/ban-dich/mg1-060-born-again-manton.html"
     ]
    ],
    "related_catechism": [
@@ -2097,7 +2470,10 @@
     35
    ],
    "related_terms": [
-    "dang-christ"
+    "su-tai-sinh",
+    "su-nen-thanh",
+    "su-bien-hoa",
+    "tam-tri-moi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2142,13 +2518,18 @@
     [
      "Hành Trình Của Người Lữ Hành — John Bunyan",
      "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Nhặt Nhạnh Trong Xuất Ê-díp-tô Ký",
+     "/ban-dich/mg1-013-gleanings-in-exodus-pink.html"
     ]
    ],
    "related_catechism": [],
    "related_terms": [
-    "chua-gie-xu",
-    "duc-chua-troi",
-    "ma-na"
+    "dat-hua",
+    "vuot-bien-do",
+    "ma-na",
+    "su-cam-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2193,6 +2574,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Thần Tính Của Đức Chúa Trời",
+     "/ban-dich/pink-godhood.html"
+    ],
+    [
+     "Sự Tương Giao Với Đức Chúa Trời",
+     "/ban-dich/005-communion-with-god-father-son-holy-owen.html"
     ]
    ],
    "related_catechism": [
@@ -2201,8 +2590,9 @@
    ],
    "related_terms": [
     "ba-ngoi",
-    "con-duc-chua-troi",
-    "su-cuu-roi"
+    "duc-chua-troi",
+    "duc-chua-con",
+    "su-te-tri"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2247,13 +2637,26 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Chúa Giê-xu Christ — Đấng Đáng Mến Trọn Vẹn",
+     "/ban-dich/flavel-lovely.html"
+    ],
+    [
+     "Sự Tương Giao Với Đức Chúa Trời",
+     "/ban-dich/005-communion-with-god-father-son-holy-owen.html"
     ]
    ],
    "related_catechism": [
     5,
     21
    ],
-   "related_terms": [],
+   "related_terms": [
+    "ba-ngoi",
+    "duc-chua-cha",
+    "chua-gie-xu",
+    "su-nhap-the"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -2298,6 +2701,14 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Thần Tính Của Đức Chúa Trời",
+     "/ban-dich/pink-godhood.html"
+    ],
+    [
+     "Giáo Lý Của Calvin Về Đức Chúa Trời",
+     "/ban-dich/arch-warfield-calvin-doctrine-god.html"
     ]
    ],
    "related_catechism": [
@@ -2306,11 +2717,10 @@
     6
    ],
    "related_terms": [
-    "an-dien",
-    "an-nan",
-    "anh-sang",
     "ba-ngoi",
-    "ben-do"
+    "su-te-tri",
+    "su-tu-huu",
+    "danh-duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2351,14 +2761,25 @@
    "related_books": [
     "Tóm Lược Thần Học — Charles Hodge"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
+    ],
+    [
+     "Những Dấu Hiệu Phân Biệt của một Công Việc của Đức Thánh Linh",
+     "/ban-dich/679-nhung-dau-hieu-phan-biet-cua-mot-cong-viec-cua-duc-thanh-linh.html"
+    ]
+   ],
    "related_catechism": [
     5,
     30,
     36
    ],
    "related_terms": [
-    "cam-thuc",
+    "ba-ngoi",
+    "su-xac-chung-cua-thanh-linh",
+    "guom-cua-thanh-linh",
     "dang-yen-ui"
    ],
    "review_status": "ai-unreviewed",
@@ -2404,6 +2825,10 @@
     [
      "Chú Giải Thư Rô-ma — John Calvin",
      "/ban-dich/013-commentary-romans-calvin.html"
+    ],
+    [
+     "Nền Tảng Phúc Âm Và Bằng Chứng Của Đức Tin",
+     "/ban-dich/owen-faith.html"
     ]
    ],
    "related_catechism": [
@@ -2411,9 +2836,10 @@
     33
    ],
    "related_terms": [
-    "an-dien",
+    "duy-duc-tin",
+    "an-nan",
     "xung-cong-chinh",
-    "su-nen-thanh"
+    "su-tai-sinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2458,6 +2884,10 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Cái Nhìn Về Giao Ước Ân Điển",
+     "/ban-dich/arch-boston-view-covenant-grace.html"
     ]
    ],
    "related_catechism": [
@@ -2465,9 +2895,10 @@
     20
    ],
    "related_terms": [
-    "su-tien-dinh",
-    "an-dien",
-    "su-nen-thanh"
+    "giao-uoc-an-dien",
+    "giao-uoc-moi",
+    "giao-uoc-viec-lam",
+    "than-hoc-giao-uoc"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2517,6 +2948,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Cái Nhìn Về Giao Ước Ân Điển",
+     "/ban-dich/arch-boston-view-covenant-grace.html"
+    ],
+    [
+     "Luận Về Giao Ước Ân Điển",
+     "/ban-dich/mg1-578-covenant-grace-cotton.html"
     ]
    ],
    "related_catechism": [
@@ -2524,11 +2963,10 @@
     20
    ],
    "related_terms": [
-    "an-dien",
-    "dang-christ",
-    "duc-chua-troi",
-    "duc-tin",
-    "giao-uoc"
+    "giao-uoc",
+    "giao-uoc-moi",
+    "than-hoc-giao-uoc",
+    "an-dien"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2574,16 +3012,24 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Cái Nhìn Về Giao Ước Ân Điển",
+     "/ban-dich/arch-boston-view-covenant-grace.html"
+    ],
+    [
+     "Luận Về Giao Ước Ân Điển",
+     "/ban-dich/mg1-585-covenant-grace-ball.html"
     ]
    ],
    "related_catechism": [
     20
    ],
    "related_terms": [
-    "dang-christ",
     "giao-uoc",
+    "giao-uoc-an-dien",
     "huyet",
-    "long"
+    "tiec-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2633,15 +3079,20 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Cái Nhìn Về Giao Ước Ân Điển",
+     "/ban-dich/arch-boston-view-covenant-grace.html"
     ]
    ],
    "related_catechism": [
     12
    ],
    "related_terms": [
-    "dang-christ",
     "giao-uoc",
-    "than-hoc-giao-uoc"
+    "giao-uoc-an-dien",
+    "luat-phap",
+    "su-sa-nga"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2687,6 +3138,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Trái Tim Yêu Thương Và Mái Ấm Hạnh Phúc",
+     "/ban-dich/1000-072-loving-hearts-and-happy-homes-watson.html"
+    ],
+    [
+     "Thúc Đẩy Sự Cải Cách Gia Đình",
+     "/ban-dich/mg1-717-family-reformation-promoted-cawdrey.html"
     ]
    ],
    "related_catechism": [
@@ -2694,8 +3153,10 @@
     64
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "duc-tin"
+    "hon-nhan",
+    "hieu-kinh-cha-me",
+    "su-vang-loi",
+    "hoi-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2741,6 +3202,10 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
     ]
    ],
    "related_catechism": [
@@ -2749,8 +3214,10 @@
     69
    ],
    "related_terms": [
-    "con-nguoi",
-    "duc-chua-troi"
+    "luat-phap",
+    "ngoai-tinh",
+    "trom-cap",
+    "toi-loi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2791,12 +3258,18 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
+    "dat-hua",
+    "nui-si-on",
     "den-tho",
-    "hoi-thanh-dau-tien",
-    "nui-si-on"
+    "thien-dang"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2842,6 +3315,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Người Cơ Đốc Trong Bộ Giáp Trọn Vẹn",
+     "/ban-dich/mg1-443-the-christian-in-complete-armour-reformed-theology-gurnall.html"
+    ],
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
     ]
    ],
    "related_catechism": [
@@ -2849,7 +3330,10 @@
     90
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "duc-thanh-linh",
+    "mac-khai",
+    "su-cam-do",
+    "ma-quy"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2895,13 +3379,26 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ],
+    [
+     "Trái Tim Yêu Thương Và Mái Ấm Hạnh Phúc",
+     "/ban-dich/1000-072-loving-hearts-and-happy-homes-watson.html"
     ]
    ],
    "related_catechism": [
     63,
     64
    ],
-   "related_terms": [],
+   "related_terms": [
+    "gia-dinh",
+    "luat-phap",
+    "su-vang-loi",
+    "ngay-sa-bat"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -2946,6 +3443,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Trái Tim Yêu Thương Và Mái Ấm Hạnh Phúc",
+     "/ban-dich/1000-072-loving-hearts-and-happy-homes-watson.html"
+    ],
+    [
+     "Hôn Ước Đời Đời",
+     "/ban-dich/644-hon-uoc-doi-doi-boston.html"
     ]
    ],
    "related_catechism": [
@@ -2953,11 +3458,10 @@
     71
    ],
    "related_terms": [
-    "dang-christ",
-    "giao-uoc",
-    "hoi-thanh",
-    "ngoai-tinh",
-    "ta-dam"
+    "gia-dinh",
+    "tinh-yeu-thuong",
+    "su-trung-tin",
+    "su-thanh-khiet"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -2994,10 +3498,21 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ],
+    [
+     "Cái Nhìn Về Giao Ước Ân Điển",
+     "/ban-dich/arch-boston-view-covenant-grace.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "duc-chua-troi",
+    "den-tam",
+    "den-tho",
+    "giao-uoc",
     "luat-phap"
    ],
    "review_status": "ai-unreviewed",
@@ -3048,17 +3563,24 @@
     [
      "Thần Học Hệ Thống — Charles Hodge",
      "/ban-dich/869-systematic-theology-questions-hodge.html"
+    ],
+    [
+     "Trưởng Lão Giáo, Với Những Cải Tiến Hiện Đại",
+     "/ban-dich/arch-dabney-presbyterianism-modern.html"
+    ],
+    [
+     "Bàn Về Tình Yêu Thương Phúc Âm Và Sự Hiệp Một Hội Thánh",
+     "/ban-dich/owen-churchlove.html"
     ]
    ],
    "related_catechism": [
     88
    ],
    "related_terms": [
+    "hoi-thanh-dau-tien",
+    "truong-lao",
     "chap-su",
-    "chinh-dien",
-    "dang-christ",
-    "duc-chua-troi",
-    "hon-nhan"
+    "su-tho-phuong-chung"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3100,6 +3622,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Giải Nghĩa Sách Công Vụ Các Sứ Đồ - Tập 2",
+     "/ban-dich/calvin-commentary-acts-vol2.html"
+    ],
+    [
+     "Trưởng Lão Giáo, Với Những Cải Tiến Hiện Đại",
+     "/ban-dich/arch-dabney-presbyterianism-modern.html"
     ]
    ],
    "related_catechism": [
@@ -3107,9 +3637,10 @@
     90
    ],
    "related_terms": [
-    "cau-nguyen",
-    "gie-ru-sa-lem",
-    "hoi-thanh"
+    "hoi-thanh",
+    "truyen-giao",
+    "su-thong-cong",
+    "bap-tem"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3155,6 +3686,14 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Huyết Của Thập Tự Giá",
+     "/ban-dich/arch-bonar-blood-cross.html"
+    ],
+    [
+     "Quyền Năng Tẩy Sạch Của Huyết Đấng Christ",
+     "/ban-dich/charnock-cleansing.html"
     ]
    ],
    "related_catechism": [
@@ -3162,11 +3701,10 @@
     33
    ],
    "related_terms": [
-    "dang-christ",
-    "dang-trung-bao",
-    "duc-chua-troi",
-    "giao-uoc",
-    "giao-uoc-moi"
+    "su-chuoc-toi",
+    "thap-tu-gia",
+    "su-den-toi",
+    "le-vuot-qua"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3212,14 +3750,20 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Hy Vọng Của Bạn Là Gì?",
+     "/ban-dich/arch-ryle-what-is-your-hope.html"
     ]
    ],
    "related_catechism": [
     36
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "linh-hon"
+    "su-vui-mung",
+    "ben-do",
+    "thien-dang",
+    "su-phuc-sinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3260,11 +3804,22 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tái Lâm Của Đấng Cứu Chuộc",
+     "/ban-dich/081-redeemer-s-return-pink.html"
+    ],
+    [
+     "Sự Tận Cùng Của Thời Gian",
+     "/ban-dich/arch-boston-end-of-time.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "chua-gie-xu",
-    "dang-christ"
+    "dai-nan",
+    "dau-hieu-thoi-cuoi",
+    "thoi-ky-cuoi-cung",
+    "su-tai-lam"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3310,15 +3865,24 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Đời sống Cơ Đốc (Institutes III.6-10)",
+     "/ban-dich/calvin-chr-life.html"
+    ],
+    [
+     "Theo Chiên Con: lời khuyên dành cho người mới tin Chúa",
+     "/ban-dich/bonar-followlamb.html"
     ]
    ],
    "related_catechism": [
     35
    ],
    "related_terms": [
-    "an-dien",
-    "duc-chua-troi",
-    "su-ha-minh-phuc-vu"
+    "su-ha-minh-phuc-vu",
+    "su-vang-loi",
+    "su-nen-thanh",
+    "long"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3368,6 +3932,14 @@
     [
      "Thần Học Hệ Thống — Charles Hodge",
      "/ban-dich/869-systematic-theology-questions-hodge.html"
+    ],
+    [
+     "Sự Cảm Thúc Thiêng Liêng của Kinh Thánh",
+     "/ban-dich/pink-inspiration.html"
+    ],
+    [
+     "Kinh Thánh Chân Thật, Sự Vô Đạo Gian Ác",
+     "/ban-dich/arch-plumer-bible-true.html"
     ]
    ],
    "related_catechism": [
@@ -3376,7 +3948,9 @@
    ],
    "related_terms": [
     "cam-thuc",
-    "duc-chua-troi"
+    "chinh-dien",
+    "su-sang-to-cua-kinh-thanh",
+    "le-that"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3422,13 +3996,20 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Bài Giảng Ngày Kiêng Ăn Của Spurgeon",
+     "/ban-dich/arch-spurgeon-fast-day-sermon.html"
     ]
    ],
    "related_catechism": [
     98
    ],
    "related_terms": [
-    "cau-nguyen"
+    "cau-nguyen",
+    "su-tho-phuong",
+    "an-nan",
+    "su-ky-luat-cua-chua"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3474,15 +4055,24 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ],
+    [
+     "Huyết Của Thập Tự Giá",
+     "/ban-dich/arch-bonar-blood-cross.html"
     ]
    ],
    "related_catechism": [
     96
    ],
    "related_terms": [
+    "huyet",
     "chien-con-cua-duc-chua-troi",
-    "dang-christ",
-    "duc-chua-troi"
+    "su-chuoc-toi",
+    "cuu-uoc"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3532,6 +4122,10 @@
     [
      "Thần Học Hệ Thống — Charles Hodge",
      "/ban-dich/869-systematic-theology-questions-hodge.html"
+    ],
+    [
+     "Thần Học Hệ Thống",
+     "/ban-dich/mg1-929-systematic-theology-dabney.html"
     ]
    ],
    "related_catechism": [
@@ -3539,11 +4133,10 @@
     4
    ],
    "related_terms": [
-    "cua-le",
-    "dang-christ",
-    "duc-chua-troi",
-    "su-mau-nhiem",
-    "su-tho-phuong"
+    "mac-khai",
+    "su-sang-to-cua-kinh-thanh",
+    "khong-sai-lam",
+    "ngoi-loi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3593,6 +4186,10 @@
     [
      "Thần Học Hệ Thống — Charles Hodge",
      "/ban-dich/869-systematic-theology-questions-hodge.html"
+    ],
+    [
+     "Luận Về Linh Hồn Con Người",
+     "/ban-dich/flavel-soul.html"
     ]
    ],
    "related_catechism": [
@@ -3600,11 +4197,10 @@
     37
    ],
    "related_terms": [
-    "banh-su-song",
-    "con-nguoi",
-    "doi-doi",
-    "duc-chua-troi",
-    "hy-vong"
+    "su-chet",
+    "su-phuc-sinh-than-the",
+    "su-song-doi-doi",
+    "con-nguoi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3650,6 +4246,14 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Các Cảm Xúc Thuộc Linh",
+     "/ban-dich/edwards-affections.html"
+    ],
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
     ]
    ],
    "related_catechism": [
@@ -3657,11 +4261,10 @@
     87
    ],
    "related_terms": [
-    "an-nan",
-    "binh-an",
-    "ca-ngoi",
-    "con-nguoi",
-    "dang-hien"
+    "luong-tam",
+    "duc-tin",
+    "tinh-yeu-thuong",
+    "su-cao-trach"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3707,13 +4310,24 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Cây Sậy Dập",
+     "/ban-dich/sibbes-bruisedreed.html"
+    ],
+    [
+     "Trái Tim Của Đấng Christ Trên Trời Hướng Về Tội Nhân Dưới Đất",
+     "/ban-dich/mg1-285-the-heart-of-christ-in-heaven-towards-sinners-on-e-goodwin.html"
     ]
    ],
    "related_catechism": [
     4
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "su-tha-thu",
+    "yen-ui",
+    "su-hoa-thuan",
+    "tinh-yeu-thuong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3754,12 +4368,20 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [
     4
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "den-tam",
+    "den-tho",
+    "su-thanh-khiet",
+    "cua-le"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3809,6 +4431,14 @@
     [
      "Thần Học Hệ Thống — Charles Hodge",
      "/ban-dich/869-systematic-theology-questions-hodge.html"
+    ],
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ],
+    [
+     "Luật Pháp Được Củng Cố Bởi Phúc Âm",
+     "/ban-dich/arch-gill-law-established-gospel-1739.html"
     ]
    ],
    "related_catechism": [
@@ -3817,11 +4447,10 @@
     41
    ],
    "related_terms": [
-    "cuu-uoc",
-    "dang-christ",
-    "duc-chua-troi",
-    "hom-giao-uoc",
-    "nui-si-na-i"
+    "giao-uoc-viec-lam",
+    "ngay-sa-bat",
+    "phuc-am",
+    "su-vang-loi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3862,11 +4491,25 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Tội Lỗi Ngự Trị Trong Tín Hữu",
+     "/ban-dich/owen-indwellingsin.html"
+    ],
+    [
+     "Giết Chết Tội Lỗi",
+     "/ban-dich/owen-mort.html"
+    ]
+   ],
    "related_catechism": [
     82
    ],
-   "related_terms": [],
+   "related_terms": [
+    "long",
+    "su-cao-trach",
+    "toi-loi",
+    "su-tha-thu"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -3906,12 +4549,22 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ],
+    [
+     "Manna Cho Linh Hồn Đói Khát",
+     "/ban-dich/883-manna-cho-linh-hon-doi-khat-rutherford.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
+    "dong-vang",
     "banh-su-song",
-    "dang-christ",
-    "dong-vang"
+    "su-quan-phong",
+    "cuu-uoc"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3948,16 +4601,24 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Người Cơ Đốc Trong Bộ Giáp Trọn Vẹn",
+     "/ban-dich/mg1-443-the-christian-in-complete-armour-reformed-theology-gurnall.html"
+    ],
+    [
+     "Phương Thuốc Quý Báu Chống Mưu Kế Sa-tan",
+     "/ban-dich/brooks-remedies.html"
+    ]
+   ],
    "related_catechism": [
     18
    ],
    "related_terms": [
-    "dang-christ",
-    "dia-nguc",
-    "duc-chua-troi",
-    "linh-hon",
-    "su-cam-do"
+    "quy-linh",
+    "su-cam-do",
+    "guom-cua-thanh-linh",
+    "thien-su"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -3998,6 +4659,10 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Thần Tính Của Đức Chúa Trời",
+     "/ban-dich/pink-godhood.html"
     ]
    ],
    "related_catechism": [
@@ -4005,8 +4670,10 @@
     3
    ],
    "related_terms": [
-    "con-nguoi",
-    "duc-chua-troi"
+    "cam-thuc",
+    "le-that",
+    "su-sang-to-cua-kinh-thanh",
+    "anh-sang"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4047,15 +4714,24 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Theo Chiên Con: lời khuyên dành cho người mới tin Chúa",
+     "/ban-dich/bonar-followlamb.html"
+    ],
+    [
+     "Đời sống Cơ Đốc (Institutes III.6-10)",
+     "/ban-dich/calvin-chr-life.html"
     ]
    ],
    "related_catechism": [
     86
    ],
    "related_terms": [
-    "chua-gie-xu",
     "dai-mang-lenh",
-    "su-ha-minh-phuc-vu"
+    "truyen-giao",
+    "su-vang-loi",
+    "su-truong-thanh-thuoc-linh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4096,6 +4772,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Năm Điểm Của Chủ Nghĩa Calvin",
+     "/ban-dich/643-nam-diem-calvin-dabney.html"
+    ],
+    [
+     "Giáo lý vấn đáp Thanh giáo",
+     "/ban-dich/spurgeon-puritan-catechism.html"
     ]
    ],
    "related_catechism": [
@@ -4104,11 +4788,10 @@
     86
    ],
    "related_terms": [
-    "an-dien",
-    "cai-chanh",
     "duy-an-dien",
-    "duy-dang-christ",
-    "duy-duc-tin"
+    "duy-duc-tin",
+    "duy-kinh-thanh",
+    "duy-dang-christ"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4149,6 +4832,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ],
+    [
+     "Suối Nguồn Thiên Thượng: Các Phần Cho Những Ngày Sa-bát Trong Năm",
+     "/ban-dich/list-755-suoi-nguon-thien-thuong-bonar.html"
     ]
    ],
    "related_catechism": [
@@ -4158,9 +4849,10 @@
     60
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
-    "hoi-thanh"
+    "luat-phap",
+    "su-tho-phuong",
+    "su-ngoi-khen",
+    "hieu-kinh-cha-me"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4197,16 +4889,21 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ]
+   ],
    "related_catechism": [
     70,
     71
    ],
    "related_terms": [
-    "chua-gie-xu",
-    "giao-uoc",
+    "ta-dam",
     "hon-nhan",
-    "long"
+    "luat-phap",
+    "su-thanh-khiet"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4247,6 +4944,14 @@
     [
      "Thần Học Hệ Thống — Charles Hodge",
      "/ban-dich/869-systematic-theology-questions-hodge.html"
+    ],
+    [
+     "Giải Nghĩa Phúc Âm Giăng - Tập 1",
+     "/ban-dich/calvin-commentary-john-vol1.html"
+    ],
+    [
+     "Suy Ngẫm Về Vinh Quang Của Đấng Christ",
+     "/ban-dich/owen-glory.html"
     ]
    ],
    "related_catechism": [
@@ -4254,9 +4959,10 @@
     22
    ],
    "related_terms": [
+    "con-duc-chua-troi",
     "chua-gie-xu",
-    "duc-chua-troi",
-    "xac-thit"
+    "mac-khai",
+    "su-nhap-the"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4297,6 +5003,14 @@
     [
      "Thần Học Hệ Thống — Charles Hodge",
      "/ban-dich/869-systematic-theology-questions-hodge.html"
+    ],
+    [
+     "Bốn Bài Giảng Về Thần Tính Của Đấng Christ",
+     "/ban-dich/arch-hervey-divinity-christ.html"
+    ],
+    [
+     "Nguồn Sống Mở Ra",
+     "/ban-dich/flavel-fountainoflife.html"
     ]
    ],
    "related_catechism": [
@@ -4304,7 +5018,10 @@
     22
    ],
    "related_terms": [
-    "chua-gie-xu"
+    "than-tinh-cua-dang-christ",
+    "su-nhap-the",
+    "con-nguoi",
+    "dang-christ"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4345,12 +5062,25 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Linh Hồn Im Lặng: Cơ Đốc Nhân Với Lá Ô-liu",
+     "/ban-dich/arch-brooks-silent-soul.html"
+    ],
+    [
+     "Thử Thách Và Thắng Lợi Của Đức Tin",
+     "/ban-dich/rutherford-triumph.html"
     ]
    ],
    "related_catechism": [
     35
    ],
-   "related_terms": [],
+   "related_terms": [
+    "su-ky-luat-cua-chua",
+    "su-vui-mung",
+    "long-thuong-xot",
+    "ben-do"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -4390,14 +5120,24 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Pháo Đài Cho Người Bị Hoạn Nạn",
+     "/ban-dich/1000-421-a-fort-for-the-afflicted-knox.html"
+    ],
+    [
+     "Sự An Toàn Nhất Chống Lại Ngày Thịnh Nộ",
+     "/ban-dich/arch-boston-best-security-wrath.html"
     ]
    ],
    "related_catechism": [
     4
    ],
    "related_terms": [
-    "an-nan",
-    "duc-chua-troi"
+    "yen-ui",
+    "su-quan-phong",
+    "binh-an",
+    "su-hien-dien-cua-duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4438,6 +5178,10 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Chủ Quyền Của Vua Si-ôn",
+     "/ban-dich/mg1-1172-sovereignty-zions-king-erskine.html"
     ]
    ],
    "related_catechism": [
@@ -4445,8 +5189,10 @@
     102
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi"
+    "su-te-tri",
+    "su-vinh-hien",
+    "thien-dang",
+    "phuc-am"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4483,12 +5229,24 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Nguồn Sống Mở Ra",
+     "/ban-dich/flavel-fountainoflife.html"
+    ],
+    [
+     "Suối Nguồn Trên Trời",
+     "/ban-dich/arch-bonar-heavenly-springs.html"
+    ]
+   ],
    "related_catechism": [
     30
    ],
    "related_terms": [
-    "dang-christ"
+    "banh-su-song",
+    "chua-gie-xu",
+    "duc-thanh-linh",
+    "su-song-doi-doi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4525,14 +5283,24 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ],
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [
     40
    ],
    "related_terms": [
-    "duc-chua-troi",
     "luat-phap",
-    "su-thanh-khiet"
+    "hom-giao-uoc",
+    "giao-uoc",
+    "den-tam"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4569,12 +5337,18 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "doi-doi",
-    "duc-chua-troi",
-    "gie-ru-sa-lem"
+    "gie-ru-sa-lem",
+    "nui-si-na-i",
+    "thien-dang",
+    "den-tho"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4615,6 +5389,10 @@
     [
      "Thần Học Hệ Thống — Charles Hodge",
      "/ban-dich/869-systematic-theology-questions-hodge.html"
+    ],
+    [
+     "Phép Lạ Của Các Phép Lạ",
+     "/ban-dich/1000-326-a-miracle-of-miracles-sibbes.html"
     ]
    ],
    "related_catechism": [
@@ -4622,7 +5400,10 @@
     11
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "su-chua-lanh",
+    "su-phuc-sinh",
+    "mac-khai",
+    "chua-gie-xu"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4663,15 +5444,20 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Phước Hạnh Của Kẻ Chết Trong Chúa",
+     "/ban-dich/arch-manton-blessed-estate.html"
     ]
    ],
    "related_catechism": [
     36
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
-    "su-cuu-roi"
+    "hy-vong",
+    "su-vui-mung",
+    "thien-dang",
+    "su-thanh-tin"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4712,6 +5498,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Tất Cả Bởi Ân Điển",
+     "/ban-dich/spurgeon-grace.html"
+    ],
+    [
+     "Phúc Âm Xứng Đáng Được Mọi Người Đón Nhận",
+     "/ban-dich/arch-fuller-gospel-acceptation.html"
     ]
    ],
    "related_catechism": [
@@ -4720,11 +5514,10 @@
     89
    ],
    "related_terms": [
-    "cai-chanh",
-    "dau-hieu-thoi-cuoi",
-    "dang-christ",
+    "an-dien",
     "su-cuu-roi",
-    "tan-uoc"
+    "xung-cong-chinh",
+    "truyen-giao"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4761,15 +5554,24 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Người Cơ Đốc Trong Bộ Giáp Trọn Vẹn",
+     "/ban-dich/mg1-443-the-christian-in-complete-armour-reformed-theology-gurnall.html"
+    ],
+    [
+     "Phương Thuốc Quý Báu Chống Mưu Kế Sa-tan",
+     "/ban-dich/brooks-remedies.html"
+    ]
+   ],
    "related_catechism": [
     18
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "huyet",
-    "su-sa-nga",
-    "thien-su"
+    "ma-quy",
+    "thien-su",
+    "su-cam-do",
+    "guom-cua-thanh-linh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4806,12 +5608,22 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ],
+    [
+     "Hành Trình Của Người Lữ Hành",
+     "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "bap-tem",
-    "chua-gie-xu",
-    "dat-hua"
+    "vuot-bien-do",
+    "dat-hua",
+    "dong-vang",
+    "bap-tem"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4852,6 +5664,14 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Luận Về Sự Chắc Chắn",
+     "/ban-dich/arch-brooks-treatise-assurance.html"
+    ],
+    [
+     "Giáo Lý Về Sự Bảo Đảm",
+     "/ban-dich/mg1-031-doctrine-of-assurance-pink.html"
     ]
    ],
    "related_catechism": [
@@ -4859,7 +5679,9 @@
    ],
    "related_terms": [
     "ben-do",
-    "duc-chua-troi"
+    "su-tuyen-chon",
+    "su-keu-goi",
+    "su-vinh-hien-hoa"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4900,13 +5722,24 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
+    ],
+    [
+     "Bàn Về Bản Chất Của Sự Tái Sinh",
+     "/ban-dich/charnock-natregen.html"
     ]
    ],
    "related_catechism": [
     35
    ],
    "related_terms": [
-    "dang-christ"
+    "tam-tri-moi",
+    "doi-song-moi",
+    "su-tai-sinh",
+    "su-nen-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4947,14 +5780,20 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Giáo Lý Của Calvin Về Đức Chúa Trời",
+     "/ban-dich/arch-warfield-calvin-doctrine-god.html"
     ]
    ],
    "related_catechism": [
     7
    ],
    "related_terms": [
-    "doi-doi",
-    "duc-chua-troi"
+    "su-tien-dinh",
+    "su-tuyen-chon",
+    "su-te-tri",
+    "su-quan-phong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -4991,12 +5830,24 @@
    "related_books": [
     "Chú Giải Kinh Thánh — Matthew Henry"
    ],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tái Lâm Của Đấng Cứu Chuộc",
+     "/ban-dich/081-redeemer-s-return-pink.html"
+    ],
+    [
+     "Sự Tận Cùng Của Thời Gian",
+     "/ban-dich/arch-boston-end-of-time.html"
+    ]
+   ],
    "related_catechism": [
     38
    ],
    "related_terms": [
-    "dang-christ"
+    "su-tai-lam",
+    "su-phuc-sinh-than-the",
+    "thoi-ky-cuoi-cung",
+    "su-phan-xet-cuoi-cung"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5035,15 +5886,25 @@
     "“Bị cám dỗ tức là đã phạm tội” — không, chính Chúa Giê-xu cũng bị cám dỗ mà không phạm tội, nên bị cám dỗ không phải là tội, chỉ khi đồng ý với cám dỗ mới thành tội."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Về Sự Cám Dỗ",
+     "/ban-dich/owen-temptation.html"
+    ],
+    [
+     "Phương Thuốc Quý Báu Chống Mưu Kế Sa-tan",
+     "/ban-dich/brooks-remedies.html"
+    ]
+   ],
    "related_catechism": [
     106,
     82
    ],
    "related_terms": [
-    "duc-chua-troi",
+    "su-cao-trach",
     "ma-quy",
-    "xac-thit"
+    "guom-cua-thanh-linh",
+    "su-vang-loi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5078,12 +5939,26 @@
     "“Chỉ người chưa tin mới cần được cáo trách” — không, Thánh Linh vẫn cáo trách cả tín hữu khi họ phạm tội, để họ xưng tội và bước đi trong sự nên thánh."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Ba Bài Luận Nhằm Đánh Thức Tội Nhân Mê Muội",
+     "/ban-dich/baxter-three-treatises-awaken-sinners.html"
+    ],
+    [
+     "Hồi Chuông Báo Động Cho Người Tội Lỗi Chưa Được Cải Hoá",
+     "/ban-dich/mg1-602-an-alarm-to-unconverted-sinners-alleine.html"
+    ]
+   ],
    "related_catechism": [
     87,
     31
    ],
-   "related_terms": [],
+   "related_terms": [
+    "an-nan",
+    "su-cam-do",
+    "luong-tam",
+    "duc-thanh-linh"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -5121,17 +5996,25 @@
     "“Người tin Chúa thì không sợ chết vì họ không phải chết” — không, tín hữu vẫn chết thân thể, nhưng sự chết của họ là giấc ngủ trong Chúa và là lối vào sự sống đời đời."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Phước Hạnh Của Kẻ Chết Trong Chúa",
+     "/ban-dich/arch-manton-blessed-estate.html"
+    ],
+    [
+     "Ngày Cuối Cùng Của Người Tin, Ngày Tốt Nhất Của Người",
+     "/ban-dich/mg1-397-believers-last-day-brooks.html"
+    ]
+   ],
    "related_catechism": [
     17,
     37
    ],
    "related_terms": [
-    "bap-tem",
-    "dang-christ",
-    "doi-doi",
-    "su-sa-nga",
-    "tiec-thanh"
+    "su-phuc-sinh",
+    "linh-hon",
+    "su-phan-xet-cuoi-cung",
+    "su-song-doi-doi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5166,15 +6049,25 @@
     "“Ai cũng có sẵn sự sống thuộc linh, chỉ cần đánh thức nó” — không, Kinh Thánh dạy chúng ta đã chết trong tội lỗi và cần được Thánh Linh ban sự sống mới."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Lời Kêu Gọi Người Chưa Cải Đạo",
+     "/ban-dich/baxter-unconverted.html"
+    ],
+    [
+     "Sự Cần Thiết Của Sự Tái Sinh",
+     "/ban-dich/charnock-nec-regen.html"
+    ]
+   ],
    "related_catechism": [
     17,
     18
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
-    "toi-loi"
+    "su-hu-mat-hoan-toan",
+    "su-tai-sinh",
+    "toi-loi",
+    "su-sa-nga"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5213,14 +6106,24 @@
     "“Chữa lành thân thể quan trọng hơn chữa lành linh hồn” — không, sự chữa lành trọn vẹn nhất là sự cứu rỗi linh hồn trong Đấng Christ, còn thân thể sẽ được chữa lành hoàn toàn khi Ngài trở lại."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Liều Thuốc Bổ Thiêng Liêng",
+     "/ban-dich/watson-cordial.html"
+    ],
+    [
+     "Một Liều Thuốc Bổ Thiên Thượng",
+     "/ban-dich/mg1-399-heavenly-cordial-brooks.html"
+    ]
+   ],
    "related_catechism": [
     36
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "linh-hon",
-    "su-cuu-roi"
+    "phep-la",
+    "yen-ui",
+    "su-quan-phong",
+    "cau-nguyen"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5259,15 +6162,25 @@
     "“Của lễ Cựu Ước tự nó đã đủ để tha tội” — không, huyết chiên bò không thể cất tội, các của lễ ấy chỉ là hình bóng hướng về sự chuộc tội trọn vẹn của Đấng Christ."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Cái Chết Của Sự Chết Trong Chúa Giê-xu Christ",
+     "/ban-dich/arch-owen-death-of-death.html"
+    ],
+    [
+     "Giáo Lý Về Sự Chuộc Tội",
+     "/ban-dich/mg1-692-doctrine-atonement-cunningham.html"
+    ]
+   ],
    "related_catechism": [
     25,
     33
    ],
    "related_terms": [
-    "duc-tin",
-    "xung-cong-chinh",
-    "su-tien-dinh"
+    "su-den-toi",
+    "su-hoa-thuan",
+    "huyet",
+    "thap-tu-gia"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5312,6 +6225,14 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Cái Chết Của Sự Chết Trong Chúa Giê-xu Christ",
+     "/ban-dich/arch-owen-death-of-death.html"
+    ],
+    [
+     "Sự Chuộc Tội: Hiệu Quả Và Phạm VI Của Nó",
+     "/ban-dich/mg1-952-the-atonement-its-efficacy-and-extent-reformed-the-candlish.html"
     ]
    ],
    "related_catechism": [
@@ -5319,7 +6240,10 @@
     21
    ],
    "related_terms": [
-    "dang-christ"
+    "su-chuoc-toi",
+    "su-tuyen-chon",
+    "tulip",
+    "su-den-toi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5358,16 +6282,25 @@
     "“Được kể là công chính thì không cần sống công chính” — không, người được xưng công chính thật sẽ được Thánh Linh đổi mới để ngày càng sống công chính trong sự nên thánh."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chúa là Sự Công Chính của Chúng Ta",
+     "/ban-dich/271-chua-la-su-cong-chinh-cua-chung-ta.html"
+    ],
+    [
+     "Giáo Lý Xưng Công Chính Bởi Đức Tin",
+     "/ban-dich/owen-justification.html"
+    ]
+   ],
    "related_catechism": [
     33,
     4
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "duc-tin",
-    "troi-moi-dat-moi",
-    "xung-cong-chinh"
+    "xung-cong-chinh",
+    "duy-duc-tin",
+    "su-chuoc-toi",
+    "su-nen-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5406,13 +6339,25 @@
     "“Lòng đã cứng thì không còn hy vọng ăn năn” — không, chừng nào còn sống và còn nghe Phúc Âm, tội nhân vẫn được kêu gọi ăn năn, và Đức Chúa Trời có quyền làm mềm lòng chai đá."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Lời Kêu Gọi Người Chưa Cải Đạo",
+     "/ban-dich/baxter-unconverted.html"
+    ],
+    [
+     "Lời Kêu Gọi Những Tội Nhân Trì Hoãn",
+     "/ban-dich/mg1-512-call-delaying-sinners-doolittle.html"
+    ]
+   ],
    "related_catechism": [
     14,
     82
    ],
    "related_terms": [
-    "long"
+    "su-cao-trach",
+    "an-nan",
+    "toi-loi",
+    "su-hu-mat"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5451,15 +6396,25 @@
     "“Được cứu chuộc thì có thể sống tùy ý” — không, người được cứu chuộc thuộc về Đấng Christ, nên họ sống cho Ngài trong lòng biết ơn và vâng lời."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Hành Trình Của Người Lữ Hành",
+     "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Nguồn Sống Mở Ra",
+     "/ban-dich/flavel-fountainoflife.html"
+    ]
+   ],
    "related_catechism": [
     21,
     29
    ],
    "related_terms": [
-    "dang-christ",
-    "huyet",
-    "toi-loi"
+    "su-cuu-roi",
+    "su-chuoc-toi",
+    "su-giai-cuu",
+    "huyet"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5504,6 +6459,10 @@
     [
      "Hành Trình Của Người Lữ Hành — John Bunyan",
      "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Phương Pháp Của Ân Điển",
+     "/ban-dich/flavel-methodofgrace.html"
     ]
    ],
    "related_catechism": [
@@ -5511,11 +6470,10 @@
     29
    ],
    "related_terms": [
+    "phuc-am",
+    "su-cuu-chuoc",
     "an-dien",
-    "duy-an-dien",
-    "duy-dang-christ",
-    "doi-doi",
-    "duc-chua-cha"
+    "su-tai-sinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5554,15 +6512,25 @@
     "“Đền tội chỉ là che đậy tội, không thật sự cất tội” — không, Đấng Christ đã gánh hình phạt thay chúng ta và cất tội lỗi của người tin, chứ không chỉ che đậy bề ngoài."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Giáo Lý Về Sự Chuộc Tội",
+     "/ban-dich/mg1-692-doctrine-atonement-cunningham.html"
+    ],
+    [
+     "Về Sự Chuộc Tội Và Sự Cầu Thay Của Chúa Giê-xu Christ",
+     "/ban-dich/mg1-847-atonement-intercession-symington.html"
+    ]
+   ],
    "related_catechism": [
     25,
     33
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
-    "toi-loi"
+    "su-chuoc-toi",
+    "su-hoa-thuan",
+    "huyet",
+    "con-thanh-no-cua-duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5601,14 +6569,25 @@
     "“Người tin Chúa vẫn phải chịu sự đoán phạt đời đời vì tội mình” — không, Đấng Christ đã chịu hình phạt thay người tin, nên họ được thoát khỏi sự đoán phạt đời đời."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Kẻ Có Tội Trong Tay Đức Chúa Trời Thịnh Nộ",
+     "/ban-dich/308-sinners-in-the-hands-of-an-angry-god-edwards.html"
+    ],
+    [
+     "Sự Tận Cùng Của Thời Gian",
+     "/ban-dich/arch-boston-end-of-time.html"
+    ]
+   ],
    "related_catechism": [
     84,
     38
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "toi-loi"
+    "su-phan-xet-cuoi-cung",
+    "dia-nguc",
+    "con-thanh-no-cua-duc-chua-troi",
+    "su-tai-lam"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5653,6 +6632,10 @@
     [
      "Hành Trình Của Người Lữ Hành — John Bunyan",
      "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Đấng Cứu Chuộc Cứu Kẻ Có Tội Đến Tột Cùng",
+     "/ban-dich/arch-boston-redeemer-ability-save.html"
     ]
    ],
    "related_catechism": [
@@ -5660,9 +6643,10 @@
     36
    ],
    "related_terms": [
-    "duc-chua-troi",
+    "su-cuu-chuoc",
     "su-cuu-roi",
-    "toi-loi"
+    "dong-vang",
+    "vuot-bien-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5701,13 +6685,23 @@
     "“Phục vụ chỉ là việc của người có chức vụ trong Hội Thánh” — không, mọi tín hữu đều được kêu gọi phục vụ lẫn nhau bằng ân tứ Đức Chúa Trời đã ban cho mình."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Theo Chiên Con: lời khuyên dành cho người mới tin Chúa",
+     "/ban-dich/bonar-followlamb.html"
+    ],
+    [
+     "Đời sống Cơ Đốc (Institutes III.6-10)",
+     "/ban-dich/calvin-chr-life.html"
+    ]
+   ],
    "related_catechism": [
     27
    ],
    "related_terms": [
-    "chua-gie-xu",
     "khiem-nhuong",
+    "su-phuc-vu",
+    "dang-christ",
     "mon-do"
    ],
    "review_status": "ai-unreviewed",
@@ -5747,13 +6741,25 @@
     "“Sự hiện diện của Chúa chỉ ở trong nhà thờ hay nơi thánh” — không, Đức Chúa Trời hiện diện khắp mọi nơi, và Ngài ngự trong lòng tín hữu qua Thánh Linh trong mọi nơi họ đi."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tương Giao Với Đức Chúa Trời",
+     "/ban-dich/005-communion-with-god-father-son-holy-owen.html"
+    ],
+    [
+     "Sự Tương Giao Hằng Ngày Với Đức Chúa Trời Và Các Luận Đề Khác",
+     "/ban-dich/006-daily-communion-with-god-christianity-no-henry.html"
+    ]
+   ],
    "related_catechism": [
     4,
     36
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "den-tam",
+    "den-tho",
+    "su-tho-phuong",
+    "su-thong-cong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5798,8 +6804,10 @@
     3
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "tien-tri"
+    "mac-khai",
+    "tien-tri",
+    "phep-la",
+    "su-phuc-sinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5838,10 +6846,22 @@
     "“Muốn hiệp một thì phải bỏ qua mọi khác biệt về giáo lý” — không, hiệp một thật được xây trên lẽ thật, nên chúng ta gìn giữ hiệp một mà không đánh đổi giáo lý cốt lõi."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Bàn Về Sự Phân Rẽ",
+     "/ban-dich/owen-schism.html"
+    ],
+    [
+     "Bàn Về Tình Yêu Thương Phúc Âm Và Sự Hiệp Một Hội Thánh",
+     "/ban-dich/owen-churchlove.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "dang-christ"
+    "su-thong-cong",
+    "hoi-thanh",
+    "tinh-yeu-thuong",
+    "su-hoa-thuan"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5880,14 +6900,24 @@
     "“Đã hòa thuận với Chúa thì không cần hòa thuận với anh em” — không, người được hòa thuận với Đức Chúa Trời được kêu gọi sống hòa thuận với người khác và làm chức vụ hòa giải."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Bài Giảng Về Sự Hòa Thuận",
+     "/ban-dich/charnock-reconcil.html"
+    ],
+    [
+     "Trái Tim Của Đấng Christ Trên Trời Hướng Về Tội Nhân Dưới Đất",
+     "/ban-dich/mg1-285-the-heart-of-christ-in-heaven-towards-sinners-on-e-goodwin.html"
+    ]
+   ],
    "related_catechism": [
     29
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
-    "huyet"
+    "su-den-toi",
+    "su-chuoc-toi",
+    "binh-an",
+    "su-tha-thu"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5932,6 +6962,14 @@
     [
      "Hành Trình Của Người Lữ Hành — John Bunyan",
      "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Lời Kêu Gọi Người Chưa Cải Đạo",
+     "/ban-dich/baxter-unconverted.html"
+    ],
+    [
+     "Hồi Chuông Báo Động Cho Người Tội Lỗi Chưa Được Cải Hoá",
+     "/ban-dich/mg1-602-an-alarm-to-unconverted-sinners-alleine.html"
     ]
    ],
    "related_catechism": [
@@ -5939,8 +6977,10 @@
     17
    ],
    "related_terms": [
-    "doi-doi",
-    "duc-chua-troi"
+    "su-hu-mat-hoan-toan",
+    "dia-nguc",
+    "su-chet-thuoc-linh",
+    "an-nan"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -5979,15 +7019,25 @@
     "“Đã hư mất hoàn toàn thì con người không chịu trách nhiệm về tội mình” — không, con người vẫn thật sự chọn lựa và chịu trách nhiệm, dù bản tính sa ngã khiến họ không thể tự cứu mình."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Tội Lỗi Ngự Trị Trong Tín Hữu",
+     "/ban-dich/owen-indwellingsin.html"
+    ],
+    [
+     "Quyền Cai Trị Của Tội Lỗi Và Ân Điển",
+     "/ban-dich/owen-sin-grace.html"
+    ]
+   ],
    "related_catechism": [
     16,
     18
    ],
    "related_terms": [
-    "con-nguoi",
-    "long",
-    "toi-loi"
+    "su-hu-mat",
+    "toi-to-tong",
+    "su-sa-nga",
+    "tulip"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6032,6 +7082,14 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Phương Pháp Của Ân Điển",
+     "/ban-dich/flavel-methodofgrace.html"
+    ],
+    [
+     "Sự Kêu Gọi Vào Chức Vụ Phúc Âm",
+     "/ban-dich/arch-plumer-call-ministry.html"
     ]
    ],
    "related_catechism": [
@@ -6039,9 +7097,10 @@
     32
    ],
    "related_terms": [
+    "su-tuyen-chon",
+    "su-tai-sinh",
     "an-dien",
-    "duc-chua-troi",
-    "su-cuu-roi"
+    "su-ben-do-cua-cac-thanh-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6080,11 +7139,25 @@
     "“Mọi hoạn nạn đều là kỷ luật vì một tội cụ thể” — không, không phải mọi hoạn nạn đều là hình phạt cho một tội cụ thể, vì Chúa cũng dùng hoạn nạn để thử rèn và làm ích cho con cái Ngài."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Nét Cong Trong Phần Số",
+     "/ban-dich/arch-boston-crook-lot.html"
+    ],
+    [
+     "Linh Hồn Im Lặng: Cơ Đốc Nhân Với Lá Ô-liu",
+     "/ban-dich/arch-brooks-silent-soul.html"
+    ]
+   ],
    "related_catechism": [
     36
    ],
-   "related_terms": [],
+   "related_terms": [
+    "nhin-nhuc",
+    "su-truong-thanh-thuoc-linh",
+    "su-nen-thanh",
+    "yen-ui"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -6122,12 +7195,22 @@
     "“Kỷ luật Hội Thánh là thiếu yêu thương và xét đoán người khác” — không, yêu thương thật bao gồm việc nhắc nhở anh em về tội lỗi, vì bỏ mặc họ trong tội mới là thiếu yêu thương."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Cai Trị Và Kỷ Luật Của Các Hội Thánh Của Đấng Christ",
+     "/ban-dich/arch-goodwin-government-discipline.html"
+    ],
+    [
+     "Trật Tự Khai Trừ Và Ăn Năn Công Khai",
+     "/ban-dich/1000-337-the-ordoure-of-excommunicatioun-knox.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "an-nan",
     "hoi-thanh",
-    "su-thanh-khiet"
+    "truong-lao",
+    "su-hiep-mot",
+    "xung-toi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6166,11 +7249,25 @@
     "“Liêm chính là tự tin vào sự tốt lành của mình” — không, người liêm chính biết mình là tội nhân được cứu bởi ân điển, nên họ sống ngay thẳng trong lòng biết ơn và cậy nhờ Thánh Linh."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Người Cơ Đốc Ngay Thẳng Được Bày Tỏ",
+     "/ban-dich/025-the-upright-christian-discovered-bates.html"
+    ],
+    [
+     "Đời sống Cơ Đốc (Institutes III.6-10)",
+     "/ban-dich/calvin-chr-life.html"
+    ]
+   ],
    "related_catechism": [
     42
    ],
-   "related_terms": [],
+   "related_terms": [
+    "su-trung-tin",
+    "su-vang-loi",
+    "long",
+    "su-thanh-khiet"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -6208,15 +7305,25 @@
     "“Hội Thánh có thể bày tỏ thêm mầu nhiệm mới ngoài Kinh Thánh” — không, sự mặc khải đã hoàn tất trong Kinh Thánh, và mọi lẽ thật cần cho đức tin đều đã được bày tỏ trong đó."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Tuyên Bố Và Biện Hộ Giáo Lý Ba Ngôi",
+     "/ban-dich/owen-trinity.html"
+    ],
+    [
+     "Giáo Lý Cơ Đốc Giáo",
+     "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ]
+   ],
    "related_catechism": [
     3,
     7
    ],
    "related_terms": [
-    "dang-christ",
-    "doi-doi",
-    "le-that"
+    "ba-ngoi",
+    "su-nhap-the",
+    "mac-khai",
+    "su-tai-sinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6255,15 +7362,25 @@
     "“Đã xưng công chính thì không cần nên thánh” — không, người thật sự được xưng công chính sẽ được Thánh Linh làm cho nên thánh, và sự nên thánh là bằng chứng của đức tin thật."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Nên Thánh",
+     "/ban-dich/ryle-holiness.html"
+    ],
+    [
+     "Về Các Ích Lợi Tuôn Chảy Từ Sự Xưng Công Chính, Sự Nhận Làm Con Nuôi Và Sự Nên Thánh",
+     "/ban-dich/mg1-184-of-the-benefits-flowing-from-justification-adoptio-boston.html"
+    ]
+   ],
    "related_catechism": [
     35,
     36
    ],
    "related_terms": [
+    "su-thanh-khiet",
     "xung-cong-chinh",
-    "giao-uoc",
-    "duc-tin"
+    "su-bien-hoa",
+    "su-truong-thanh-thuoc-linh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6302,12 +7419,24 @@
     "“Chỉ ngợi khen khi cảm thấy vui thì mới thật” — không, ngợi khen là của lễ đức tin, và chúng ta ngợi khen Chúa vì Ngài xứng đáng, ngay cả khi cảm xúc không vui."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Buổi Sáng Và Buổi Chiều",
+     "/ban-dich/spurgeon-morningevening.html"
+    ],
+    [
+     "Bốn Bài Thánh Ca Và Một Số Bài Thơ Đạo",
+     "/ban-dich/arch-warfield-four-hymns.html"
+    ]
+   ],
    "related_catechism": [
     1
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "ca-ngoi",
+    "su-tho-phuong",
+    "su-vui-mung",
+    "su-vinh-hien"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6346,14 +7475,24 @@
     "“Nhân từ nghĩa là luôn đồng ý với mọi người” — không, nhân từ thật là lòng tốt dịu dàng đi cùng lẽ thật, nên người nhân từ vẫn nói lẽ thật trong tình yêu thương."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Cây Sậy Dập",
+     "/ban-dich/sibbes-bruisedreed.html"
+    ],
+    [
+     "Liều Thuốc Bổ Thiêng Liêng",
+     "/ban-dich/watson-cordial.html"
+    ]
+   ],
    "related_catechism": [
     4
    ],
    "related_terms": [
-    "an-nan",
-    "duc-chua-troi",
-    "long"
+    "long-thuong-xot",
+    "tinh-yeu-thuong",
+    "su-tha-thu",
+    "yen-ui"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6392,15 +7531,24 @@
     "“Làm con nuôi chỉ là địa vị pháp lý, không có mối tương giao thật” — không, sự nhận làm con nuôi ban cho chúng ta mối tương giao thật với Cha qua Thánh Linh, và chúng ta được kêu Ngài là Cha."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Về Các Ích Lợi Tuôn Chảy Từ Sự Xưng Công Chính, Sự Nhận Làm Con Nuôi Và Sự Nên Thánh",
+     "/ban-dich/mg1-184-of-the-benefits-flowing-from-justification-adoptio-boston.html"
+    ],
+    [
+     "Giáo Lý Xưng Công Chính Bởi Đức Tin",
+     "/ban-dich/owen-justification.html"
+    ]
+   ],
    "related_catechism": [
     34
    ],
    "related_terms": [
-    "an-dien",
-    "con-duc-chua-troi",
-    "dang-christ",
-    "duc-chua-troi"
+    "xung-cong-chinh",
+    "su-cuu-roi",
+    "duc-chua-cha",
+    "su-tha-thu"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6439,15 +7587,25 @@
     "“Đấng Christ chỉ có vẻ là người, chứ không thật sự là người” — không, Ngài là người thật trọn vẹn, đã đói khát, mệt mỏi và chịu chết thật trên thập tự giá."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Bốn Bài Giảng Về Thần Tính Của Đấng Christ",
+     "/ban-dich/arch-hervey-divinity-christ.html"
+    ],
+    [
+     "Nguồn Sống Mở Ra",
+     "/ban-dich/flavel-fountainoflife.html"
+    ]
+   ],
    "related_catechism": [
     22,
     21
    ],
    "related_terms": [
+    "nhan-tinh-cua-dang-christ",
+    "than-tinh-cua-dang-christ",
     "con-duc-chua-troi",
-    "doi-doi",
-    "duc-chua-troi"
+    "su-mau-nhiem"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6486,15 +7644,21 @@
     "“Đã được tẩy sạch thì không cần giữ mình thánh sạch nữa” — không, người đã được tẩy sạch được kêu gọi sống thánh sạch mỗi ngày, tránh xa sự ô uế trong tư tưởng, lời nói và việc làm."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Giết Chết Tội Lỗi",
+     "/ban-dich/owen-mort.html"
+    ]
+   ],
    "related_catechism": [
     14,
     87
    ],
    "related_terms": [
-    "dang-christ",
-    "huyet",
-    "toi-loi"
+    "toi-loi",
+    "xac-thit",
+    "su-thanh-khiet",
+    "su-cao-trach"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6533,14 +7697,25 @@
     "“Đức Chúa Trời sẽ phán xét theo tiêu chuẩn mơ hồ” — không, Đức Chúa Trời xét xử công chính theo Lời Ngài, và không ai có thể bào chữa trước tòa Ngài."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Đấng Christ Trong Mây Đến Phán Xét",
+     "/ban-dich/1000-090-christ-in-the-clouds-coming-to-judgment-bates.html"
+    ],
+    [
+     "Sự Tận Cùng Của Thời Gian",
+     "/ban-dich/arch-boston-end-of-time.html"
+    ]
+   ],
    "related_catechism": [
     37,
     38
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi"
+    "su-doan-phat",
+    "dia-nguc",
+    "su-tai-lam",
+    "su-chet"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6579,14 +7754,25 @@
     "“Phục sinh là chuyện riêng của Chúa Giê-xu, không liên quan đến chúng ta” — không, sự phục sinh của Đấng Christ là bảo đảm cho sự sống lại của mọi người tin Ngài."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Đấng Christ Là Sự Sống Lại Và Sự Sống",
+     "/ban-dich/arch-hodge-funeral-martha-rice.html"
+    ],
+    [
+     "Nguồn Sống Mở Ra",
+     "/ban-dich/flavel-fountainoflife.html"
+    ]
+   ],
    "related_catechism": [
     28,
     38
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-tin"
+    "su-phuc-sinh-than-the",
+    "su-thang-thien",
+    "thap-tu-gia",
+    "hy-vong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6625,11 +7811,25 @@
     "“Thân thể phục sinh chỉ là thân thể tinh thần, không thật” — không, thân thể phục sinh là thân thể thật được biến hóa vinh hiển, giống thân thể phục sinh của Đấng Christ."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Đấng Christ Là Sự Sống Lại Và Sự Sống",
+     "/ban-dich/arch-hodge-funeral-martha-rice.html"
+    ],
+    [
+     "Phước Hạnh Của Kẻ Chết Trong Chúa",
+     "/ban-dich/arch-manton-blessed-estate.html"
+    ]
+   ],
    "related_catechism": [
     38
    ],
-   "related_terms": [],
+   "related_terms": [
+    "su-phuc-sinh",
+    "su-vinh-hien-hoa",
+    "su-song-doi-doi",
+    "troi-moi-dat-moi"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -6667,13 +7867,25 @@
     "“Phục vụ là cách để được Đức Chúa Trời yêu thương hơn” — không, người tin Chúa phục vụ vì đã được yêu thương và được cứu bởi ân điển, chứ không phải để kiếm sự yêu thương của Ngài."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Người Chăn Bầy Cải Chánh",
+     "/ban-dich/baxter-pastor.html"
+    ],
+    [
+     "Tình Yêu Của Một Mục Sư Được Bày Tỏ",
+     "/ban-dich/arch-watson-pastors-love.html"
+    ]
+   ],
    "related_catechism": [
     1,
     42
    ],
    "related_terms": [
-    "dang-christ"
+    "su-ha-minh-phuc-vu",
+    "dang-chan-chien",
+    "chap-su",
+    "su-vang-loi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6718,6 +7930,10 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Diễn Văn Về Sự Quan Phòng Của Đức Chúa Trời",
+     "/ban-dich/316-discourse-divine-providence-1685-charnock.html"
     ]
    ],
    "related_catechism": [
@@ -6725,7 +7941,10 @@
     11
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "su-te-tri",
+    "su-biet-truoc",
+    "su-tien-dinh",
+    "y-muon-cua-duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6764,15 +7983,25 @@
     "“Mỗi người chỉ chịu trách nhiệm cho tội riêng, không liên quan đến A-đam” — không, Kinh Thánh dạy mọi người đều sa ngã trong A-đam, và cũng phạm tội riêng, nên cả hai đều khiến chúng ta cần Đấng Cứu Thế."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Tội Lỗi Ngự Trị Trong Tín Hữu",
+     "/ban-dich/owen-indwellingsin.html"
+    ],
+    [
+     "Quyền Cai Trị Của Tội Lỗi Và Ân Điển",
+     "/ban-dich/owen-sin-grace.html"
+    ]
+   ],
    "related_catechism": [
     13,
     16
    ],
    "related_terms": [
-    "quy-linh",
-    "su-chet",
-    "toi-loi"
+    "toi-to-tong",
+    "su-hu-mat-hoan-toan",
+    "xac-thit",
+    "vuon-e-den"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6811,13 +8040,25 @@
     "“Vì Kinh Thánh khó nên chỉ chuyên gia mới được giải thích” — không, Kinh Thánh sáng tỏ đủ để mọi tín hữu đọc và hiểu lẽ thật cứu rỗi, dù Hội Thánh vẫn cần người dạy Lời Chúa."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Cảm Thúc Thiêng Liêng của Kinh Thánh",
+     "/ban-dich/pink-inspiration.html"
+    ],
+    [
+     "Kinh Thánh Chân Thật, Sự Vô Đạo Gian Ác",
+     "/ban-dich/arch-plumer-bible-true.html"
+    ]
+   ],
    "related_catechism": [
     2,
     3
    ],
    "related_terms": [
-    "su-cuu-roi"
+    "khong-sai-lam",
+    "cam-thuc",
+    "chinh-dien",
+    "le-that"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6862,6 +8103,10 @@
     [
      "Hành Trình Của Người Lữ Hành — John Bunyan",
      "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Sự Bảo Đảm Về Thiên Đàng Và Sự Cứu Rỗi",
+     "/ban-dich/mg1-948-assurance-heaven-hopkins.html"
     ]
    ],
    "related_catechism": [
@@ -6869,10 +8114,10 @@
     37
    ],
    "related_terms": [
-    "banh-su-song",
-    "chua-gie-xu",
-    "duc-chua-troi",
-    "su-cuu-roi"
+    "doi-doi",
+    "thien-dang",
+    "su-vinh-hien-hoa",
+    "su-phuc-sinh-than-the"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6911,13 +8156,25 @@
     "“Có thể tính được ngày Chúa trở lại” — không, Kinh Thánh dạy không ai biết ngày giờ Ngài trở lại, nên tín hữu phải tỉnh thức và sẵn sàng luôn."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tái Lâm Của Đấng Cứu Chuộc",
+     "/ban-dich/081-redeemer-s-return-pink.html"
+    ],
+    [
+     "Đấng Christ Trong Mây Đến Phán Xét",
+     "/ban-dich/1000-090-christ-in-the-clouds-coming-to-judgment-bates.html"
+    ]
+   ],
    "related_catechism": [
     28,
     38
    ],
    "related_terms": [
-    "chua-gie-xu"
+    "su-cat-len",
+    "su-phan-xet-cuoi-cung",
+    "dai-nan",
+    "dau-hieu-thoi-cuoi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -6956,13 +8213,25 @@
     "“Tái sinh chỉ là thay đổi thói quen bề ngoài” — không, tái sinh là Thánh Linh ban tấm lòng mới từ bên trong, khiến người ta yêu mến Đức Chúa Trời và sống đời sống mới."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Cần Thiết Của Sự Tái Sinh",
+     "/ban-dich/charnock-nec-regen.html"
+    ],
+    [
+     "Được Sinh Lại",
+     "/ban-dich/mg1-060-born-again-manton.html"
+    ]
+   ],
    "related_catechism": [
     31,
     35
    ],
    "related_terms": [
-    "an-nan"
+    "su-chet-thuoc-linh",
+    "su-keu-goi",
+    "doi-song-moi",
+    "su-nen-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7007,6 +8276,10 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Các Bài Giảng Về Quyền Chủ Tể Và Sự Khôn Ngoan Của Đức Chúa Trời",
+     "/ban-dich/boston-sovereignty-wisdom-god.html"
     ]
    ],
    "related_catechism": [
@@ -7014,7 +8287,10 @@
     11
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "su-quan-phong",
+    "su-tien-dinh",
+    "duc-chua-troi",
+    "y-muon-cua-duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7053,13 +8329,24 @@
     "“Thăng thiên chỉ là hình ảnh, không phải biến cố thật” — không, Kinh Thánh trình bày sự thăng thiên là biến cố lịch sử thật, được các môn đồ chứng kiến."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Suy Ngẫm Về Vinh Quang Của Đấng Christ",
+     "/ban-dich/owen-glory.html"
+    ],
+    [
+     "Sự Hiện Hữu Đời Đời Của Đấng Christ",
+     "/ban-dich/manton-christs-eternal-existence.html"
+    ]
+   ],
    "related_catechism": [
     28
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi"
+    "su-phuc-sinh",
+    "su-tai-lam",
+    "su-vinh-hien",
+    "ngoi-loi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7098,17 +8385,25 @@
     "“Đã được tha thứ thì không cần tha thứ cho người khác” — không, người đã nhận sự tha thứ lớn lao của Đức Chúa Trời được kêu gọi tha thứ cho người khác như Chúa đã tha thứ mình."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tha Thứ Tội Lỗi Như Một Món Nợ",
+     "/ban-dich/arch-henry-forgiveness-sin.html"
+    ],
+    [
+     "Sự Tha Thứ Tội Lỗi",
+     "/ban-dich/mg1-1039-forgiveness-of-sins-bates.html"
+    ]
+   ],
    "related_catechism": [
     105,
     87
    ],
    "related_terms": [
-    "an-nan",
-    "dang-christ",
-    "duc-chua-troi",
-    "huyet",
-    "toi-loi"
+    "xung-toi",
+    "su-hoa-thuan",
+    "long-thuong-xot",
+    "an-nan"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7153,13 +8448,20 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Nền Tảng Phúc Âm Và Bằng Chứng Của Đức Tin",
+     "/ban-dich/owen-faith.html"
     ]
    ],
    "related_catechism": [
     4
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "su-trung-tin",
+    "phuoc-hanh",
+    "hy-vong",
+    "ben-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7198,16 +8500,25 @@
     "“Con người có thể tự làm mình thánh khiết bằng việc làm” — không, chỉ Đức Chúa Trời mới làm cho tội nhân nên thánh qua Đấng Christ và công việc của Thánh Linh."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Nên Thánh",
+     "/ban-dich/ryle-holiness.html"
+    ],
+    [
+     "Nhiều Bài Giảng Nhằm Thúc Đẩy Sự Hòa Thuận &amp; Sự Thánh Khiết Giữa Các Cơ Đốc Nhân",
+     "/ban-dich/205-several-discourses-tending-promote-peace-holiness-manton.html"
+    ]
+   ],
    "related_catechism": [
     4,
     35
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "nui-si-na-i",
-    "su-ky-luat-hoi-thanh",
-    "toi-loi"
+    "su-nen-thanh",
+    "su-tho-phuong",
+    "su-vang-loi",
+    "su-tiet-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7246,13 +8557,24 @@
     "“Có thể thông công với Chúa mà không cần Hội Thánh” — không, Đức Chúa Trời đã đặt tín hữu trong thân thể Đấng Christ, nên thông công với Ngài gắn liền với thông công với anh em trong Hội Thánh."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tương Giao Với Đức Chúa Trời",
+     "/ban-dich/005-communion-with-god-father-son-holy-owen.html"
+    ],
+    [
+     "Bàn Về Tình Yêu Thương Phúc Âm Và Sự Hiệp Một Hội Thánh",
+     "/ban-dich/owen-churchlove.html"
+    ]
+   ],
    "related_catechism": [
     36
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi"
+    "su-hiep-mot",
+    "hoi-thanh",
+    "su-tho-phuong-chung",
+    "su-hien-dien-cua-duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7291,14 +8613,25 @@
     "“Thờ phượng theo cảm xúc của mình là đủ” — không, thờ phượng phải theo lẽ thật trong Lời Chúa, vì Đức Chúa Trời là Đấng định cách Ngài muốn được thờ phượng."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Hướng Dẫn Ngắn Gọn Về Sự Thờ Phượng Đức Chúa Trời",
+     "/ban-dich/owen-worship.html"
+    ],
+    [
+     "Buổi Sáng Và Buổi Chiều",
+     "/ban-dich/spurgeon-morningevening.html"
+    ]
+   ],
    "related_catechism": [
     1,
     45
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "le-that"
+    "su-tho-phuong-chung",
+    "su-tho-phuong-tren-troi",
+    "ca-ngoi",
+    "cau-nguyen"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7337,12 +8670,26 @@
     "“Thờ phượng chung chỉ là nghĩa vụ nặng nề” — không, nhóm lại thờ phượng là ân điển Chúa ban, để dân Ngài cùng nhau tôn vinh Ngài và được khích lệ."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Hướng Dẫn Ngắn Gọn Về Sự Thờ Phượng Đức Chúa Trời",
+     "/ban-dich/owen-worship.html"
+    ],
+    [
+     "Buổi Sáng Và Buổi Chiều",
+     "/ban-dich/spurgeon-morningevening.html"
+    ]
+   ],
    "related_catechism": [
     88,
     90
    ],
-   "related_terms": [],
+   "related_terms": [
+    "su-tho-phuong",
+    "su-thong-cong",
+    "hoi-thanh",
+    "ca-ngoi"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -7380,11 +8727,22 @@
     "“Thờ phượng trên trời không liên quan gì đến chúng ta hôm nay” — không, nó là mẫu mực và là niềm hy vọng cho sự thờ phượng của Hội Thánh trên đất."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Một Cái Nhìn Thoáng Qua Thiên Đàng",
+     "/ban-dich/arch-sibbes-glance-heaven.html"
+    ],
+    [
+     "Buổi Sáng Và Buổi Chiều",
+     "/ban-dich/spurgeon-morningevening.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "duc-chua-troi",
-    "thien-su"
+    "su-tho-phuong",
+    "thien-dang",
+    "thien-su",
+    "su-vinh-hien"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7429,6 +8787,10 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Năm Điểm Của Chủ Nghĩa Calvin",
+     "/ban-dich/643-nam-diem-calvin-dabney.html"
     ]
    ],
    "related_catechism": [
@@ -7437,8 +8799,9 @@
    ],
    "related_terms": [
     "su-tuyen-chon",
-    "giao-uoc",
-    "an-dien"
+    "su-biet-truoc",
+    "su-quan-phong",
+    "tulip"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7477,9 +8840,23 @@
     "“Tiết độ chỉ là chuyện ăn uống” — không, nó bao gồm cả lời nói, ham muốn, tiền bạc và mọi thói quen trong đời sống."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Đời sống Cơ Đốc (Institutes III.6-10)",
+     "/ban-dich/calvin-chr-life.html"
+    ],
+    [
+     "Giết Chết Tội Lỗi",
+     "/ban-dich/owen-mort.html"
+    ]
+   ],
    "related_catechism": [],
-   "related_terms": [],
+   "related_terms": [
+    "su-vang-loi",
+    "su-thanh-khiet",
+    "su-nen-thanh",
+    "xac-thit"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -7517,10 +8894,22 @@
     "“Trung tín là không bao giờ vấp ngã” — không, người trung tín là người vấp ngã thì ăn năn, đứng dậy và tiếp tục bước đi với Chúa."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sổ Séc Của Đức Tin",
+     "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Nền Tảng Phúc Âm Và Bằng Chứng Của Đức Tin",
+     "/ban-dich/owen-faith.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "ben-do"
+    "su-thanh-tin",
+    "ben-do",
+    "su-liem-chinh",
+    "su-vang-loi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7559,14 +8948,25 @@
     "“Người trưởng thành là người không còn phạm tội” — không, người trưởng thành vẫn phạm tội, nhưng ghét tội hơn, ăn năn mau hơn và đứng dậy nhanh hơn."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Phép Thử Sự Tăng Trưởng Của Cơ Đốc Nhân",
+     "/ban-dich/arch-goodwin-tryal-growth.html"
+    ],
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
+    ]
+   ],
    "related_catechism": [
     35,
     36
    ],
    "related_terms": [
-    "dang-christ",
-    "den-tam"
+    "su-nen-thanh",
+    "su-bien-hoa",
+    "tam-tri-moi",
+    "mon-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7611,6 +9011,10 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Năm Điểm Của Chủ Nghĩa Calvin",
+     "/ban-dich/643-nam-diem-calvin-dabney.html"
     ]
    ],
    "related_catechism": [
@@ -7620,8 +9024,9 @@
    ],
    "related_terms": [
     "su-tien-dinh",
-    "an-dien",
-    "su-chuoc-toi"
+    "su-tuyen-chon-vo-dieu-kien",
+    "su-keu-goi",
+    "tulip"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7666,6 +9071,10 @@
     [
      "Chủ Quyền Của Đức Chúa Trời — A. W. Pink",
      "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ],
+    [
+     "Năm Điểm Của Chủ Nghĩa Calvin",
+     "/ban-dich/643-nam-diem-calvin-dabney.html"
     ]
    ],
    "related_catechism": [
@@ -7673,8 +9082,10 @@
     20
    ],
    "related_terms": [
-    "con-nguoi",
-    "duc-chua-troi"
+    "su-tuyen-chon",
+    "duy-an-dien",
+    "tulip",
+    "su-tien-dinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7713,12 +9124,18 @@
     "“Tử đạo chỉ xảy ra thời xưa” — không, nhiều tín đồ ngày nay vẫn chịu bách hại và chịu chết vì đức tin nơi Đấng Christ."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Thử Thách Và Thắng Lợi Của Đức Tin",
+     "/ban-dich/rutherford-triumph.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "dang-christ",
-    "duc-tin",
-    "hoi-thanh"
+    "chung-nhan",
+    "mon-do",
+    "su-ky-luat-cua-chua",
+    "hy-vong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7757,12 +9174,24 @@
     "“Đức Chúa Trời cần sự thờ phượng của chúng ta để được trọn vẹn” — không, Ngài đầy đủ trong chính Ngài; chúng ta thờ phượng vì Ngài xứng đáng, không phải vì Ngài thiếu thốn."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Thần Tính Của Đức Chúa Trời",
+     "/ban-dich/pink-godhood.html"
+    ],
+    [
+     "Sự Hiện Hữu Đời Đời Của Đấng Christ",
+     "/ban-dich/manton-christs-eternal-existence.html"
+    ]
+   ],
    "related_catechism": [
     4
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "duc-chua-troi",
+    "danh-duc-chua-troi",
+    "doi-doi",
+    "ba-ngoi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7801,12 +9230,26 @@
     "“Vâng lời nghĩa là giữ luật pháp một cách máy móc” — không, vâng lời thật xuất phát từ lòng yêu mến Chúa và tin cậy ý muốn tốt lành của Ngài."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Đời sống Cơ Đốc (Institutes III.6-10)",
+     "/ban-dich/calvin-chr-life.html"
+    ],
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ]
+   ],
    "related_catechism": [
     39,
     42
    ],
-   "related_terms": [],
+   "related_terms": [
+    "su-tiet-do",
+    "mon-do",
+    "luat-phap",
+    "su-nen-thanh"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -7844,12 +9287,24 @@
     "“Sống vì vinh hiển Chúa nghĩa là không được vui hưởng điều tốt lành” — không, chính khi vui hưởng mọi điều tốt Chúa ban với lòng biết ơn, chúng ta tôn vinh Ngài."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Suy Ngẫm Về Vinh Quang Của Đấng Christ",
+     "/ban-dich/owen-glory.html"
+    ],
+    [
+     "Vinh Quang Của Đấng Cứu Chuộc",
+     "/ban-dich/mg1-264-glory-of-the-redeemer-winslow.html"
+    ]
+   ],
    "related_catechism": [
     1
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "su-vinh-hien-hoa",
+    "vinh-hien-duy-duc-chua-troi",
+    "danh-duc-chua-troi",
+    "su-tho-phuong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7888,14 +9343,25 @@
     "“Vinh hiển hóa chỉ là chuyện linh hồn” — không, Kinh Thánh dạy cả thân thể cũng sẽ được biến hóa nên vinh hiển, không hư nát."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Suy Ngẫm Về Vinh Quang Của Đấng Christ",
+     "/ban-dich/owen-glory.html"
+    ],
+    [
+     "Sự Bảo Đảm Về Thiên Đàng Và Sự Cứu Rỗi",
+     "/ban-dich/mg1-948-assurance-heaven-hopkins.html"
+    ]
+   ],
    "related_catechism": [
     36,
     38
    ],
    "related_terms": [
-    "dang-christ",
-    "su-cuu-roi"
+    "su-vinh-hien",
+    "su-phuc-sinh-than-the",
+    "su-song-doi-doi",
+    "ben-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -7940,13 +9406,22 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Báu Vật Hiếm: Sự Thỏa Lòng",
+     "/ban-dich/burroughs-contentment.html"
     ]
    ],
    "related_catechism": [
     1,
     36
    ],
-   "related_terms": [],
+   "related_terms": [
+    "hy-vong",
+    "binh-an",
+    "su-ngoi-khen",
+    "yen-ui"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -7984,14 +9459,25 @@
     "“Không cảm thấy được xác chứng nghĩa là không được cứu” — không, sự bảo đảm dựa trên lời hứa của Chúa và công việc Đấng Christ, không dựa trên cảm xúc nhất thời."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Những Dấu Hiệu Phân Biệt của một Công Việc của Đức Thánh Linh",
+     "/ban-dich/679-nhung-dau-hieu-phan-biet-cua-mot-cong-viec-cua-duc-thanh-linh.html"
+    ],
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
+    ]
+   ],
    "related_catechism": [
     30,
     34
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "long"
+    "duc-thanh-linh",
+    "dang-yen-ui",
+    "su-thanh-tin",
+    "ben-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8030,12 +9516,26 @@
     "“Đổi mới tâm trí chỉ là học thêm kiến thức” — không, đó là công việc của Thánh Linh làm thay đổi cả cách suy nghĩ, yêu thích và quyết định."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
+    ],
+    [
+     "Bàn Về Bản Chất Của Sự Tái Sinh",
+     "/ban-dich/charnock-natregen.html"
+    ]
+   ],
    "related_catechism": [
     31,
     35
    ],
-   "related_terms": [],
+   "related_terms": [
+    "su-bien-hoa",
+    "doi-song-moi",
+    "su-tai-sinh",
+    "su-truong-thanh-thuoc-linh"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -8073,15 +9573,25 @@
     "“Chỉ cần đọc Tân Ước là đủ” — không, cả Kinh Thánh đều là Lời Đức Chúa Trời, và Tân Ước được hiểu đúng nhất khi đọc cùng Cựu Ước."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Giải Nghĩa Phúc Âm Giăng - Tập 1",
+     "/ban-dich/calvin-commentary-john-vol1.html"
+    ],
+    [
+     "Giải Nghĩa Sách Công Vụ Các Sứ Đồ - Tập 2",
+     "/ban-dich/calvin-commentary-acts-vol2.html"
+    ]
+   ],
    "related_catechism": [
     2,
     3
    ],
    "related_terms": [
-    "dang-christ",
-    "hoi-thanh",
-    "phuc-am"
+    "cuu-uoc",
+    "chinh-dien",
+    "phuc-am",
+    "giao-uoc-moi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8120,12 +9630,20 @@
     "“Đã phạm tội này thì không còn được tha thứ” — không, huyết Đấng Christ tẩy sạch mọi tội cho kẻ ăn năn và tin nơi Ngài."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ]
+   ],
    "related_catechism": [
     39
    ],
    "related_terms": [
-    "hon-nhan"
+    "ngoai-tinh",
+    "hon-nhan",
+    "su-thanh-khiet",
+    "luat-phap"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8164,13 +9682,24 @@
     "“Muốn có nhiều hơn là tội” — không, tội không nằm ở việc muốn cải thiện đời sống, mà ở lòng ham muốn quá độ đặt của cải lên trên Đức Chúa Trời."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Báu Vật Hiếm: Sự Thỏa Lòng",
+     "/ban-dich/burroughs-contentment.html"
+    ],
+    [
+     "Dâng Một Phần Mười",
+     "/ban-dich/pink-tithing.html"
+    ]
+   ],
    "related_catechism": [
     39
    ],
    "related_terms": [
-    "long",
-    "tho-hinh-tuong"
+    "tien-bac",
+    "su-vui-mung",
+    "su-tiet-do",
+    "dang-hien"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8215,6 +9744,10 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Thần Học Hệ Thống",
+     "/ban-dich/mg1-929-systematic-theology-dabney.html"
     ]
    ],
    "related_catechism": [
@@ -8222,10 +9755,10 @@
     20
    ],
    "related_terms": [
-    "duc-chua-troi",
+    "cai-chanh",
+    "than-hoc-giao-uoc",
     "nam-sola",
-    "su-cuu-roi",
-    "tulip"
+    "tin-dieu"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8270,6 +9803,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Cái Nhìn Về Giao Ước Ân Điển",
+     "/ban-dich/arch-boston-view-covenant-grace.html"
+    ],
+    [
+     "Thần Học Hệ Thống",
+     "/ban-dich/mg1-929-systematic-theology-dabney.html"
     ]
    ],
    "related_catechism": [
@@ -8277,10 +9818,10 @@
     20
    ],
    "related_terms": [
-    "an-dien",
-    "dang-christ",
     "giao-uoc",
-    "giao-uoc-viec-lam"
+    "than-hoc-cai-chanh",
+    "giao-uoc-an-dien",
+    "tin-dieu"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8325,6 +9866,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Bốn Bài Giảng Về Thần Tính Của Đấng Christ",
+     "/ban-dich/arch-hervey-divinity-christ.html"
+    ],
+    [
+     "Tuyên Bố Và Biện Hộ Giáo Lý Ba Ngôi",
+     "/ban-dich/owen-trinity.html"
     ]
    ],
    "related_catechism": [
@@ -8334,8 +9883,10 @@
     22
    ],
    "related_terms": [
-    "chua-gie-xu",
-    "duc-chua-troi"
+    "nhan-tinh-cua-dang-christ",
+    "con-duc-chua-troi",
+    "ba-ngoi",
+    "su-nhap-the"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8374,15 +9925,25 @@
     "“Thánh lễ chỉ là nghi thức trống rỗng” — không, Đức Chúa Trời dùng thánh lễ để củng cố đức tin của những người nhận lấy bằng đức tin."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Hiệu Quả Của Các Thánh Lễ",
+     "/ban-dich/arch-rutherford-efficacy-sacraments.html"
+    ],
+    [
+     "Cho Đến Khi Ngài Đến",
+     "/ban-dich/spurgeon-till-he-come.html"
+    ]
+   ],
    "related_catechism": [
     92,
     93
    ],
    "related_terms": [
-    "an-dien",
     "bap-tem",
-    "tiec-thanh"
+    "tiec-thanh",
+    "hoi-thanh",
+    "su-tho-phuong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8421,17 +9982,26 @@
     "“Thập tự giá là thất bại của Chúa Giê-xu” — không, thập tự giá là chiến thắng của Ngài trên tội lỗi, sự chết và ma quỷ."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Thập Tự Giá Đấng Christ, Vinh Quang Cơ Đốc Nhân",
+     "/ban-dich/arch-hervey-cross-christ-glory.html"
+    ],
+    [
+     "Huyết Của Thập Tự Giá",
+     "/ban-dich/arch-bonar-blood-cross.html"
+    ]
+   ],
    "related_catechism": [
     23,
     25,
     27
    ],
    "related_terms": [
-    "dang-christ",
-    "ma-quy",
-    "phuc-am",
-    "su-chuoc-toi"
+    "su-chuoc-toi",
+    "huyet",
+    "su-phuc-sinh",
+    "chien-con-cua-duc-chua-troi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8476,6 +10046,14 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Một Cái Nhìn Thoáng Qua Thiên Đàng",
+     "/ban-dich/arch-sibbes-glance-heaven.html"
+    ],
+    [
+     "Sự Bảo Đảm Về Thiên Đàng Và Sự Cứu Rỗi",
+     "/ban-dich/mg1-948-assurance-heaven-hopkins.html"
     ]
    ],
    "related_catechism": [
@@ -8483,8 +10061,10 @@
     38
    ],
    "related_terms": [
+    "troi-moi-dat-moi",
+    "su-song-doi-doi",
     "doi-doi",
-    "duc-chua-troi"
+    "hy-vong"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8523,14 +10103,20 @@
     "“Mỗi người đều có một thiên sứ hộ mệnh riêng theo ý mình muốn” — không, Kinh Thánh dạy thiên sứ được Chúa sai đi theo ý muốn Ngài để phục vụ kẻ được cứu."
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Thiên Sứ Và Loài Người",
+     "/ban-dich/arch-plumer-angels-men.html"
+    ]
+   ],
    "related_catechism": [
     11
    ],
    "related_terms": [
-    "duc-chua-troi",
     "quy-linh",
-    "su-tho-phuong-tren-troi"
+    "ma-quy",
+    "su-tho-phuong-tren-troi",
+    "su-hien-thay"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8569,10 +10155,22 @@
     "“Không ai biết ngày giờ nên không cần chuẩn bị” — không, chính vì không biết ngày giờ nên tín đồ càng phải tỉnh thức và trung tín mỗi ngày"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tái Lâm Của Đấng Cứu Chuộc",
+     "/ban-dich/081-redeemer-s-return-pink.html"
+    ],
+    [
+     "Sự Tận Cùng Của Thời Gian",
+     "/ban-dich/arch-boston-end-of-time.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "dang-christ"
+    "dai-nan",
+    "dau-hieu-thoi-cuoi",
+    "su-tai-lam",
+    "ke-chong-dang-christ"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8607,11 +10205,22 @@
     "“Chỉ cần không thờ tượng là đủ” — không, thờ phượng thật đòi hỏi lòng yêu mến và vâng phục Đức Chúa Trời trên hết mọi sự"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Bốn Bài Giảng Chống Sự Ô Uế Của Thần Tượng",
+     "/ban-dich/arch-calvin-foure-sermons-idolatry.html"
+    ],
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "duc-chua-troi",
-    "tham-lam"
+    "luat-phap",
+    "su-tho-phuong",
+    "su-thanh-khiet",
+    "ngay-sa-bat"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8646,10 +10255,22 @@
     "“Nghèo khó mới là tin kính” — không, tin kính là quản lý của cải Chúa giao cách trung tín, dù giàu hay nghèo"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Dâng Một Phần Mười",
+     "/ban-dich/pink-tithing.html"
+    ],
+    [
+     "Báu Vật Hiếm: Sự Thỏa Lòng",
+     "/ban-dich/burroughs-contentment.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "duc-chua-troi"
+    "tham-lam",
+    "dang-hien",
+    "su-tiet-do",
+    "gia-dinh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8684,16 +10305,25 @@
     "“Ai tự xưng là tiên tri thì phải nghe theo” — không, mọi lời tự xưng là tiên tri phải được thử nghiệm bằng Kinh Thánh"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Giải Nghĩa Sách Ê-sai - Tập 4",
+     "/ban-dich/calvin-commentary-isaiah-vol4.html"
+    ],
+    [
+     "Giải Nghĩa Giê-rê-mi Và AI Ca - Quyển 4",
+     "/ban-dich/017-commentary-jeremiah-lamentations-volume-4-calvin.html"
+    ]
+   ],
    "related_catechism": [
     23,
     24
    ],
    "related_terms": [
+    "mac-khai",
+    "su-hien-thay",
     "cuu-uoc",
-    "dang-christ",
-    "duc-chua-troi",
-    "su-hien-thay"
+    "le-that"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8728,16 +10358,25 @@
     "“Dự Tiệc Thánh là đủ để được cứu” — không, Tiệc Thánh nuôi dưỡng đức tin của người đã tin, chứ không thay thế đức tin nơi Đấng Christ"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Cho Đến Khi Ngài Đến",
+     "/ban-dich/spurgeon-till-he-come.html"
+    ],
+    [
+     "Lời Khuyên Tại Tiệc Thánh",
+     "/ban-dich/arch-rutherford-exhortation-communion.html"
+    ]
+   ],
    "related_catechism": [
     96,
     97
    ],
    "related_terms": [
-    "duc-tin",
+    "thanh-le",
+    "bap-tem",
     "huyet",
-    "su-chet",
-    "thanh-le"
+    "giao-uoc-moi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8776,13 +10415,24 @@
     "“Yêu Chúa là đủ, không cần yêu người” — không, ai yêu Đức Chúa Trời thì cũng phải yêu anh em mình"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Tình Yêu Của Đấng Christ Cảm Thúc Chúng Ta",
+     "/ban-dich/arch-newton-constraining-love-christ.html"
+    ],
+    [
+     "Tình Yêu Cơ Đốc Nhân Dành Cho Christ Vô Hình",
+     "/ban-dich/arch-vincent-true-christians-love.html"
+    ]
+   ],
    "related_catechism": [
     42
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "long"
+    "long-thuong-xot",
+    "su-nhan-tu",
+    "su-hiep-mot",
+    "hon-nhan"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8817,13 +10467,24 @@
     "“Thuộc lòng tín điều là đủ để được cứu” — không, sự cứu rỗi đến bởi đức tin nơi Đấng Christ, còn tín điều giúp đức tin ấy được hiểu rõ và vững vàng"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Giáo lý vấn đáp Thanh giáo",
+     "/ban-dich/spurgeon-puritan-catechism.html"
+    ],
+    [
+     "Hai Giáo lý vấn đáp ngắn",
+     "/ban-dich/owen-catechisms.html"
+    ]
+   ],
    "related_catechism": [
     2,
     3
    ],
    "related_terms": [
-    "duc-tin",
+    "nam-sola",
+    "than-hoc-cai-chanh",
+    "cai-chanh",
     "hoi-thanh"
    ],
    "review_status": "ai-unreviewed",
@@ -8859,14 +10520,21 @@
     "“Người tin Chúa rồi sẽ không còn vấp ngã trong tối tăm” — không, tín đồ vẫn cần tỉnh thức và bước đi trong ánh sáng mỗi ngày"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Ánh Sáng Trong Bóng Tối",
+     "/ban-dich/218-anh-sang-trong-bong-toi-watson-1679.html"
+    ]
+   ],
    "related_catechism": [
     14,
     18
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi"
+    "anh-sang",
+    "su-hu-mat-hoan-toan",
+    "su-chet-thuoc-linh",
+    "mac-khai"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8907,6 +10575,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Giết Chết Tội Lỗi",
+     "/ban-dich/owen-mort.html"
+    ],
+    [
+     "Tội Lỗi Ngự Trị Trong Tín Hữu",
+     "/ban-dich/owen-indwellingsin.html"
     ]
    ],
    "related_catechism": [
@@ -8914,11 +10590,10 @@
     15
    ],
    "related_terms": [
-    "an-nan",
-    "anh-sang",
-    "con-thanh-no-cua-duc-chua-troi",
-    "duc-chua-troi",
-    "luat-phap"
+    "toi-to-tong",
+    "xac-thit",
+    "su-sa-nga",
+    "su-cao-trach"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8953,12 +10628,24 @@
     "“Người từng nghi ngờ thì không còn được tha” — không, người ăn năn và tin nơi Đấng Christ thì được tha thứ"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Những Dấu Hiệu Phân Biệt của một Công Việc của Đức Thánh Linh",
+     "/ban-dich/679-nhung-dau-hieu-phan-biet-cua-mot-cong-viec-cua-duc-thanh-linh.html"
+    ],
+    [
+     "Ân Điển Và Bổn Phận Sống Theo Thánh Linh",
+     "/ban-dich/owen-spirituallyminded.html"
+    ]
+   ],
    "related_catechism": [
     14
    ],
    "related_terms": [
-    "ma-quy"
+    "duc-thanh-linh",
+    "su-xac-chung-cua-thanh-linh",
+    "su-cao-trach",
+    "toi-loi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -8999,6 +10686,14 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Giáo Lý Về Tội Lỗi Nguyên Tổ",
+     "/ban-dich/620-giao-ly-ve-toi-loi-nguyen-to.html"
+    ],
+    [
+     "Tội Lỗi Ngự Trị Trong Tín Hữu",
+     "/ban-dich/owen-indwellingsin.html"
     ]
    ],
    "related_catechism": [
@@ -9006,7 +10701,12 @@
     17,
     18
    ],
-   "related_terms": [],
+   "related_terms": [
+    "toi-loi",
+    "su-hu-mat-hoan-toan",
+    "su-sa-nga",
+    "su-tai-sinh"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -9046,6 +10746,10 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Sự Bảo Đảm Về Thiên Đàng Và Sự Cứu Rỗi",
+     "/ban-dich/mg1-948-assurance-heaven-hopkins.html"
     ]
    ],
    "related_catechism": [
@@ -9053,8 +10757,10 @@
     38
    ],
    "related_terms": [
-    "duc-chua-troi",
-    "su-cong-chinh"
+    "thien-dang",
+    "su-song-doi-doi",
+    "su-phuc-sinh-than-the",
+    "doi-doi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9089,11 +10795,21 @@
     "“Người nghèo lấy của người giàu thì không có tội” — không, thiếu thốn không biện minh cho việc lấy của người khác cách bất chính"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Mười Điều Răn",
+     "/ban-dich/watson-tencommandments.html"
+    ]
+   ],
    "related_catechism": [
     39
    ],
-   "related_terms": [],
+   "related_terms": [
+    "giet-nguoi",
+    "ngoai-tinh",
+    "luat-phap",
+    "tham-lam"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -9127,11 +10843,22 @@
     "“Chỉ mục sư mới cần chăn bầy” — không, Đức Chúa Trời lập các trưởng lão cùng coi sóc và giảng dạy Hội Thánh địa phương"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Trưởng Lão Là Gì?",
+     "/ban-dich/arch-hodge-what-is-presbyterianism.html"
+    ],
+    [
+     "Người Chăn Bầy Cải Chánh",
+     "/ban-dich/baxter-pastor.html"
+    ]
+   ],
    "related_catechism": [],
    "related_terms": [
-    "cau-nguyen",
-    "hoi-thanh"
+    "chap-su",
+    "hoi-thanh",
+    "dang-chan-chien",
+    "su-ky-luat-hoi-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9172,12 +10899,22 @@
     [
      "Hành Trình Của Người Lữ Hành — John Bunyan",
      "/ban-dich/001-pilgrims-progress-bunyan.html"
+    ],
+    [
+     "Sự Nỗ Lực Truyền Giáo",
+     "/ban-dich/1000-377-missionary-exertion-knox.html"
+    ],
+    [
+     "Bài Giảng Truyền Giáo Của Spurgeon",
+     "/ban-dich/arch-spurgeon-missionary-sermon.html"
     ]
    ],
    "related_catechism": [],
    "related_terms": [
-    "dang-christ",
-    "phuc-am"
+    "dai-mang-lenh",
+    "chung-nhan",
+    "phuc-am",
+    "hoi-thanh"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9227,6 +10964,10 @@
     [
      "Giáo Lý Cơ Đốc Giáo — John Calvin",
      "/ban-dich/mg1-121-institutes-of-the-christian-religion-reformed-theo-calvin.html"
+    ],
+    [
+     "Năm Điểm Của Chủ Nghĩa Calvin",
+     "/ban-dich/643-nam-diem-calvin-dabney.html"
     ]
    ],
    "related_catechism": [
@@ -9237,11 +10978,10 @@
     35
    ],
    "related_terms": [
-    "an-dien",
-    "ben-do",
-    "cai-chanh",
-    "su-cuu-roi",
-    "than-hoc-cai-chanh"
+    "su-tuyen-chon-vo-dieu-kien",
+    "su-chuoc-toi-dac-biet",
+    "su-ben-do-cua-cac-thanh-do",
+    "nam-sola"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9276,15 +11016,24 @@
     "“Tự do khỏi luật pháp là khỏi cần vâng lời Chúa” — không, tín đồ được giải phóng khỏi luật pháp như phương cách cứu rỗi, chứ không phải khỏi vâng lời Chúa"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Tự Do Của Ý Chí",
+     "/ban-dich/edwards-will.html"
+    ],
+    [
+     "Mười Hai Bài Giảng Về Luật Pháp Và Phúc Âm",
+     "/ban-dich/romaine-twelve-discourses-law-gospel.html"
+    ]
+   ],
    "related_catechism": [
     36
    ],
    "related_terms": [
-    "dang-christ",
-    "duc-chua-troi",
+    "xung-cong-chinh",
+    "phuc-am",
     "luat-phap",
-    "toi-loi"
+    "su-cuu-roi"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9319,14 +11068,24 @@
     "“Tôn vinh Chúa chỉ là việc thờ phượng trong nhà thờ” — không, mọi việc trong đời sống đều có thể làm vì vinh hiển của Đức Chúa Trời"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Suy Ngẫm Về Vinh Quang Của Đấng Christ",
+     "/ban-dich/owen-glory.html"
+    ],
+    [
+     "Năm Điểm Của Chủ Nghĩa Calvin",
+     "/ban-dich/643-nam-diem-calvin-dabney.html"
+    ]
+   ],
    "related_catechism": [
     1
    ],
    "related_terms": [
-    "duc-chua-troi",
+    "su-vinh-hien",
     "nam-sola",
-    "su-cuu-roi"
+    "duy-an-dien",
+    "su-te-tri"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9361,14 +11120,22 @@
     "“Mất vườn Ê-đen là mất hết hy vọng” — không, trong Đấng Christ sự tương giao với Đức Chúa Trời được phục hồi và sẽ trọn vẹn trong trời mới đất mới"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [
     9,
     10,
     12
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "su-sa-nga",
+    "toi-to-tong",
+    "dat-hua",
+    "su-chet"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9403,13 +11170,25 @@
     "“Đức Chúa Trời chỉ giải cứu bằng phép lạ lớn” — không, Ngài giải cứu dân Ngài bằng nhiều cách, và phép lạ tại Biển Đỏ bày tỏ quyền năng của Ngài"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Nhặt Nhạnh Trong Xuất Ê-díp-tô Ký",
+     "/ban-dich/mg1-013-gleanings-in-exodus-pink.html"
+    ],
+    [
+     "Chọn Lọc Những Đoạn Sáng Quý Từ Chú Giải Của Matthew Henry",
+     "/ban-dich/618-chon-loc-nhung-doan-sang-quy-tu-chu-giai-cua-matthew-henry.html"
+    ]
+   ],
    "related_catechism": [
     11,
     20
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "dong-vang",
+    "song-gio-danh",
+    "dat-hua",
+    "su-giai-cuu"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9444,14 +11223,25 @@
     "“Vì còn xác thịt nên phạm tội là bình thường” — không, tín đồ được kêu gọi bước đi theo Thánh Linh và không chiều theo xác thịt"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Giết Chết Tội Lỗi",
+     "/ban-dich/owen-mort.html"
+    ],
+    [
+     "Tội Lỗi Ngự Trị Trong Tín Hữu",
+     "/ban-dich/owen-indwellingsin.html"
+    ]
+   ],
    "related_catechism": [
     18,
     35
    ],
    "related_terms": [
-    "ngoi-loi",
-    "su-cam-do"
+    "toi-loi",
+    "su-cam-do",
+    "su-nen-thanh",
+    "su-tiet-do"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9491,8 +11281,10 @@
     23
    ],
    "related_terms": [
-    "chua-gie-xu",
-    "dang-christ"
+    "su-thanh-khiet",
+    "su-tho-phuong",
+    "cua-le",
+    "phep-la"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9527,13 +11319,20 @@
     "“Chỉ cần xưng tội với Chúa là đủ, không cần xin lỗi người bị hại” — không, khi thích hợp thì cũng cần thú nhận với người bị xúc phạm và đền bù"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Sự Tha Thứ Tội Lỗi",
+     "/ban-dich/mg1-1039-forgiveness-of-sins-bates.html"
+    ]
+   ],
    "related_catechism": [
     87
    ],
    "related_terms": [
-    "cau-nguyen",
-    "duc-chua-troi"
+    "su-tha-thu",
+    "an-nan",
+    "su-ky-luat-hoi-thanh",
+    "luong-tam"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9574,6 +11373,14 @@
     [
      "Sổ Séc Của Đức Tin — C. H. Spurgeon",
      "/ban-dich/spurgeon-checkbook.html"
+    ],
+    [
+     "Sự An Ủi Cho Cơ Đốc Nhân",
+     "/ban-dich/pink-comfort.html"
+    ],
+    [
+     "Đêm Khóc Lóc",
+     "/ban-dich/arch-bonar-night-weeping.html"
     ]
    ],
    "related_catechism": [
@@ -9581,7 +11388,10 @@
     37
    ],
    "related_terms": [
-    "duc-chua-troi"
+    "binh-an",
+    "su-vui-mung",
+    "long-thuong-xot",
+    "dang-yen-ui"
    ],
    "review_status": "ai-unreviewed",
    "copyright": {
@@ -9616,11 +11426,25 @@
     "“Ý muốn của Chúa là bí mật không thể biết” — không, Chúa đã bày tỏ ý muốn của Ngài trong Kinh Thánh để chúng ta vâng theo"
    ],
    "related_books": [],
-   "related_books_resolved": [],
+   "related_books_resolved": [
+    [
+     "Tự Do Của Ý Chí",
+     "/ban-dich/edwards-will.html"
+    ],
+    [
+     "Chủ Quyền Của Đức Chúa Trời",
+     "/ban-dich/mg1-049-sovereignty-of-god-pink.html"
+    ]
+   ],
    "related_catechism": [
     7
    ],
-   "related_terms": [],
+   "related_terms": [
+    "su-te-tri",
+    "su-quan-phong",
+    "su-biet-truoc",
+    "su-tien-dinh"
+   ],
    "review_status": "ai-unreviewed",
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
@@ -9681,9 +11505,9 @@
     33
    ],
    "related_terms": [
-    "an-dien",
-    "duc-tin",
-    "su-chuoc-toi",
+    "su-cong-chinh",
+    "duy-duc-tin",
+    "su-nhan-lam-con-nuoi",
     "su-nen-thanh"
    ],
    "review_status": "ai-unreviewed",
@@ -9699,6 +11523,14 @@
     [
      "Tất Cả Bởi Ân Điển — Charles Spurgeon",
      "/ban-dich/spurgeon-grace.html"
+    ],
+    [
+     "Giáo Lý Xưng Công Chính Bởi Đức Tin",
+     "/ban-dich/owen-justification.html"
+    ],
+    [
+     "Đạo Lý Xưng Công Chính Bởi Đấng Christ",
+     "/ban-dich/arch-gill-doctrine-justification-1730.html"
     ]
    ]
   }

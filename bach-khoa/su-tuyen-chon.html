@@ -439,6 +439,23 @@
       }
           main#top { scroll-margin-top: 76px; }
     
+      /* ---------- homepage compact pass 2026-11-08 (owner request) ---------- */
+      body.home .section { padding: 22px 0 2px; }
+      body.home .section-head { margin-bottom: 14px; }
+      body.home .shelf { gap: 18px 20px; }
+      .jumpbar { padding: 12px 0; background: var(--surface-2); border-bottom: 1px solid var(--line); }
+      .jumpbar .wrap { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+      .jumpbar .jump-lbl { font-family: "Be Vietnam Pro", sans-serif; font-weight: 700; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--burgundy); margin-right: 2px; }
+      .jumpbar a { font-family: "Be Vietnam Pro", sans-serif; font-size: 14px; font-weight: 600; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); padding: 7px 13px; border-radius: 999px; text-decoration: none; }
+      .jumpbar a:hover { background: var(--burgundy); color: #fff; border-color: var(--burgundy); }
+      body.home .book-info p { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+      @media (min-width: 961px) { body.home .modules .module:first-child { grid-column: span 2; } }
+      @media (max-width: 720px) {
+        body.home .modules { gap: 14px; }
+        body.home .shelf { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; }
+        body.home .book { min-width: 84%; scroll-snap-align: start; }
+      }
+
       /* nav-offset fallback: builders extract <main id=top> from hub.html;
          if a rebuild ever drops that wrapper, anchored sections still clear the fixed header */
       section[id] { scroll-margin-top: 76px; }
@@ -533,8 +550,8 @@
     <div style="margin-top:16px"><h3 style="margin:0 0 8px">Hiểu lầm thường gặp</h3><ul class="mis-list" style="margin:0;padding-left:20px"><li>“Đức Chúa Trời chọn vì Ngài thấy trước ai sẽ tin” — không, sự tuyển chọn không dựa trên công đức hay điều kiện nào nơi con người, mà theo ý tốt của Ngài.</li><li>“Đã được chọn thì khỏi cần truyền giảng” — không, Phúc Âm chính là phương tiện Đức Chúa Trời dùng để gọi những người được chọn đến đức tin.</li></ul></div>
     <div style="margin-top:16px"><h3 style="margin:0 0 4px">Căn cứ Kinh Thánh <span style="font-weight:400;font-size:13.5px;color:var(--ink-soft)">(bấm để đọc câu gốc — bản 1934)</span></h3><details class="proof"><summary>Ê-phê-sô 1:4</summary><p>trước khi sáng thế, Ngài đã chọn chúng ta trong Đấng Christ, đặng làm nên thánh không chỗ trách được trước mặt Đức Chúa Trời,</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/eph/1.html#v4">Đọc tại Kinh Thánh →</a></p></details><details class="proof"><summary>2 Tê-sa-lô-ni-ca 2:13</summary><p>Hỡi anh em yêu dấu của Chúa, còn như chúng tôi, phải vì anh em tạ ơn Đức Chúa Trời không thôi, vì vừa lúc ban đầu, Ngài đã chọn anh em bởi sự nên thánh của Thánh Linh, và bởi tin lẽ thật, đặng ban sự cứu rỗi cho anh em.</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/2thes/2.html#v13">Đọc tại Kinh Thánh →</a></p></details><details class="proof"><summary>Rô-ma 8:30</summary><p>còn những kẻ Ngài đã định sẵn, thì Ngài cũng đã gọi, những kẻ Ngài đã gọi, thì Ngài cũng đã xưng là công bình, và những kẻ Ngài đã xưng là công bình, thì Ngài cũng đã làm cho vinh hiển.</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/rom/8.html#v30">Đọc tại Kinh Thánh →</a></p></details></div>
     <div style="margin-top:18px"><h3 style="margin:0 0 10px">Trong Tín Lý Yếu Lược Westminster</h3><div class="rel-links"><a class="btn" href="/giao-ly/cau-7.html">Câu 7</a><a class="btn" href="/giao-ly/cau-20.html">Câu 20</a><a class="btn" href="/giao-ly/cau-31.html">Câu 31</a></div></div>
-    <div style="margin-top:18px"><h3 style="margin:0 0 10px">Sách liên quan trong thư viện</h3><div class="rel-links"><a class="btn" href="/ban-dich/mg1-049-sovereignty-of-god-pink.html">Chủ Quyền Của Đức Chúa Trời — A. W. Pink</a></div></div>
-    <div style="margin-top:18px"><h3 style="margin:0 0 10px">Thuật ngữ liên quan</h3><div class="rel-links"><a class="btn" href="/bach-khoa/su-tien-dinh.html">Sự tiền định</a><a class="btn" href="/bach-khoa/an-dien.html">Ân điển</a><a class="btn" href="/bach-khoa/su-chuoc-toi.html">Sự chuộc tội</a></div></div>
+    <div style="margin-top:18px"><h3 style="margin:0 0 10px">Sách liên quan trong thư viện</h3><div class="rel-links"><a class="btn" href="/ban-dich/mg1-049-sovereignty-of-god-pink.html">Chủ Quyền Của Đức Chúa Trời — A. W. Pink</a><a class="btn" href="/ban-dich/643-nam-diem-calvin-dabney.html">Năm Điểm Của Chủ Nghĩa Calvin</a></div></div>
+    <div style="margin-top:18px"><h3 style="margin:0 0 10px">Thuật ngữ liên quan</h3><div class="rel-links"><a class="btn" href="/bach-khoa/su-tien-dinh.html">Sự tiền định</a><a class="btn" href="/bach-khoa/su-tuyen-chon-vo-dieu-kien.html">Sự tuyển chọn vô điều kiện</a><a class="btn" href="/bach-khoa/su-keu-goi.html">Sự kêu gọi</a><a class="btn" href="/bach-khoa/tulip.html">TULIP</a></div></div>
   </article>
   <p style="text-align:center;margin-top:16px"><a class="btn" href="/bach-khoa/">← Tất cả 201 thuật ngữ</a></p>
   <div class="share-row"><a class="btn solid" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https://reformedvietnam.com/bach-khoa/su-tuyen-chon.html">Chia sẻ Facebook</a><a class="btn" target="_blank" rel="noopener" href="https://sp.zalo.me/share_inline?url=https://reformedvietnam.com/bach-khoa/su-tuyen-chon.html">Chia sẻ Zalo</a></div>
@@ -545,7 +562,7 @@
         <div class="foot-grid">
           <div>
             <h4>Reformed Vietnam</h4>
-            <p class="foot-about">Thư viện Cơ Đốc và thần học Cải Chánh tiếng Việt — dự án cá nhân độc lập, không thuộc một hội thánh. Các bản dịch được ghi nhãn rõ ràng và đang chờ duyệt thần học.</p>
+            <p class="foot-about">Thư viện thần học Cải Chánh tiếng Việt — dự án cá nhân độc lập. Bản dịch ghi nhãn rõ ràng, đang chờ duyệt thần học.</p>
           </div>
           <div>
             <h4>Học tập</h4>
@@ -554,12 +571,14 @@
               <li><a href="/#giao-ly">Giáo Lý Hỏi Đáp</a></li>
               <li><a href="/#bach-khoa">Bách Khoa Thần Học</a></li>
               <li><a href="/#hoc-vien">Học Viện Cải Chánh</a></li>
+              <li><a href="/ai-dung-sau-trang-nay.html">Tuyên Xưng Đức Tin</a></li>
             </ul>
           </div>
           <div>
             <h4>Đời sống</h4>
             <ul>
               <li><a href="/#tinh-nguyen">Ân Điển Mỗi Ngày</a></li>
+              <li><a href="/#sach-noi">Sách Nói</a></li>
               <li><a href="/#hoi-dap">Hỏi Đáp Cải Chánh</a></li>
               <li><a href="/bai-giang/">Bài Giảng</a></li>
               <li><a href="/thanh-ca/">Thánh Ca &amp; Thờ Phượng</a></li>
@@ -571,6 +590,7 @@
               <li><a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></li>
               <li><a href="mailto:reformedvn@gmail.com?subject=B%C3%A1o%20l%E1%BB%97i%20b%E1%BA%A3n%20d%E1%BB%8Bch">Báo lỗi bản dịch</a></li>
               <li><a href="mailto:reformedvn@gmail.com?subject=B%E1%BA%A3n%20quy%E1%BB%81n">Liên hệ bản quyền / gỡ nội dung</a></li>
+              <li><a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">Kênh YouTube</a></li>
             </ul>
           </div>
         </div>

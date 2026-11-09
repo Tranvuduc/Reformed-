@@ -439,6 +439,23 @@
       }
           main#top { scroll-margin-top: 76px; }
     
+      /* ---------- homepage compact pass 2026-11-08 (owner request) ---------- */
+      body.home .section { padding: 22px 0 2px; }
+      body.home .section-head { margin-bottom: 14px; }
+      body.home .shelf { gap: 18px 20px; }
+      .jumpbar { padding: 12px 0; background: var(--surface-2); border-bottom: 1px solid var(--line); }
+      .jumpbar .wrap { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+      .jumpbar .jump-lbl { font-family: "Be Vietnam Pro", sans-serif; font-weight: 700; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--burgundy); margin-right: 2px; }
+      .jumpbar a { font-family: "Be Vietnam Pro", sans-serif; font-size: 14px; font-weight: 600; color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); padding: 7px 13px; border-radius: 999px; text-decoration: none; }
+      .jumpbar a:hover { background: var(--burgundy); color: #fff; border-color: var(--burgundy); }
+      body.home .book-info p { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+      @media (min-width: 961px) { body.home .modules .module:first-child { grid-column: span 2; } }
+      @media (max-width: 720px) {
+        body.home .modules { gap: 14px; }
+        body.home .shelf { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; }
+        body.home .book { min-width: 84%; scroll-snap-align: start; }
+      }
+
       /* nav-offset fallback: builders extract <main id=top> from hub.html;
          if a rebuild ever drops that wrapper, anchored sections still clear the fixed header */
       section[id] { scroll-margin-top: 76px; }
@@ -533,8 +550,8 @@
     <div style="margin-top:16px"><h3 style="margin:0 0 8px">Hiểu lầm thường gặp</h3><ul class="mis-list" style="margin:0;padding-left:20px"><li>“Xưng công chính nghĩa là Đức Chúa Trời làm ngơ trước tội lỗi” — không, tội lỗi được đoán phạt trọn vẹn nơi Đấng Christ; sự công chính của Đức Chúa Trời được thỏa mãn, không hề bị bỏ qua.</li><li>“Đã được xưng công chính thì sống thế nào cũng được” — không, đức tin xưng công chính không bao giờ ở một mình; người thật tin Đấng Christ cũng được nên thánh bởi chính Ngài.</li></ul></div>
     <div style="margin-top:16px"><h3 style="margin:0 0 4px">Căn cứ Kinh Thánh <span style="font-weight:400;font-size:13.5px;color:var(--ink-soft)">(bấm để đọc câu gốc — bản 1934)</span></h3><details class="proof"><summary>Rô-ma 3:28</summary><p>vì chúng ta kể rằng người ta được xưng công bình bởi đức tin, chớ không bởi việc làm theo luật pháp.</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/rom/3.html#v28">Đọc tại Kinh Thánh →</a></p></details><details class="proof"><summary>Rô-ma 5:1</summary><p>Vậy chúng ta đã được xưng công bình bởi đức tin, thì được hòa thuận với Đức Chúa Trời, bởi Đức Chúa Jêsus Christ chúng ta,</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/rom/5.html#v1">Đọc tại Kinh Thánh →</a></p></details><details class="proof"><summary>Rô-ma 4:5</summary><p>còn kẻ chẳng làm việc chi hết, nhưng tin Đấng xưng người có tội là công bình, thì đức tin của kẻ ấy kể là công bình cho mình.</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/rom/4.html#v5">Đọc tại Kinh Thánh →</a></p></details><details class="proof"><summary>Ga-la-ti 2:16</summary><p>Dầu vậy, đã biết rằng người ta được xưng công bình, chẳng phải bởi các việc luật pháp đâu, bèn là cậy đức tin trong Đức Chúa Jêsus Christ, nên chính chúng tôi đã tin Đức Chúa Jêsus Christ, để được xưng công bình bởi đức tin trong Đấng Christ, chớ chẳng bởi các việc luật pháp; vì chẳng có ai được xưng công bình bởi các việc luật pháp.</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/gal/2.html#v16">Đọc tại Kinh Thánh →</a></p></details><details class="proof"><summary>Phi-líp 3:9</summary><p>và được ở trong Ngài, được sự công bình, không phải công bình của tôi bởi luật pháp mà đến, bèn là bởi tin đến Đấng Christ mà được, tức là công bình đến bởi Đức Chúa Trời và đã lập lên trên đức tin;</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/phil/3.html#v9">Đọc tại Kinh Thánh →</a></p></details><details class="proof"><summary>2 Cô-rinh-tô 5:21</summary><p>Đức Chúa Trời đã làm cho Đấng vốn chẳng biết tội lỗi trở nên tội lỗi vì chúng ta, hầu cho chúng ta nhờ Đấng đó mà được trở nên sự công bình của Đức Chúa Trời.</p><p style="margin:2px 0 4px;font-family:Be Vietnam Pro,sans-serif;font-size:13.5px"><a href="/kinh-thanh/2cor/5.html#v21">Đọc tại Kinh Thánh →</a></p></details></div>
     <div style="margin-top:18px"><h3 style="margin:0 0 10px">Trong Tín Lý Yếu Lược Westminster</h3><div class="rel-links"><a class="btn" href="/giao-ly/cau-33.html">Câu 33</a></div></div>
-    <div style="margin-top:18px"><h3 style="margin:0 0 10px">Sách liên quan trong thư viện</h3><div class="rel-links"><a class="btn" href="/ban-dich/013-commentary-romans-calvin.html">Chú Giải Thư Rô-ma — John Calvin</a><a class="btn" href="/ban-dich/spurgeon-grace.html">Tất Cả Bởi Ân Điển — Charles Spurgeon</a></div></div>
-    <div style="margin-top:18px"><h3 style="margin:0 0 10px">Thuật ngữ liên quan</h3><div class="rel-links"><a class="btn" href="/bach-khoa/an-dien.html">Ân điển</a><a class="btn" href="/bach-khoa/duc-tin.html">Đức tin</a><a class="btn" href="/bach-khoa/su-chuoc-toi.html">Sự chuộc tội</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a></div></div>
+    <div style="margin-top:18px"><h3 style="margin:0 0 10px">Sách liên quan trong thư viện</h3><div class="rel-links"><a class="btn" href="/ban-dich/013-commentary-romans-calvin.html">Chú Giải Thư Rô-ma — John Calvin</a><a class="btn" href="/ban-dich/spurgeon-grace.html">Tất Cả Bởi Ân Điển — Charles Spurgeon</a><a class="btn" href="/ban-dich/owen-justification.html">Giáo Lý Xưng Công Chính Bởi Đức Tin</a><a class="btn" href="/ban-dich/arch-gill-doctrine-justification-1730.html">Đạo Lý Xưng Công Chính Bởi Đấng Christ</a></div></div>
+    <div style="margin-top:18px"><h3 style="margin:0 0 10px">Thuật ngữ liên quan</h3><div class="rel-links"><a class="btn" href="/bach-khoa/su-cong-chinh.html">Sự công chính</a><a class="btn" href="/bach-khoa/duy-duc-tin.html">Duy đức tin</a><a class="btn" href="/bach-khoa/su-nhan-lam-con-nuoi.html">Sự nhận làm con nuôi</a><a class="btn" href="/bach-khoa/su-nen-thanh.html">Sự nên thánh</a></div></div>
   </article>
   <p style="text-align:center;margin-top:16px"><a class="btn" href="/bach-khoa/">← Tất cả 201 thuật ngữ</a></p>
   <div class="share-row"><a class="btn solid" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https://reformedvietnam.com/bach-khoa/xung-cong-chinh.html">Chia sẻ Facebook</a><a class="btn" target="_blank" rel="noopener" href="https://sp.zalo.me/share_inline?url=https://reformedvietnam.com/bach-khoa/xung-cong-chinh.html">Chia sẻ Zalo</a></div>
@@ -545,7 +562,7 @@
         <div class="foot-grid">
           <div>
             <h4>Reformed Vietnam</h4>
-            <p class="foot-about">Thư viện Cơ Đốc và thần học Cải Chánh tiếng Việt — dự án cá nhân độc lập, không thuộc một hội thánh. Các bản dịch được ghi nhãn rõ ràng và đang chờ duyệt thần học.</p>
+            <p class="foot-about">Thư viện thần học Cải Chánh tiếng Việt — dự án cá nhân độc lập. Bản dịch ghi nhãn rõ ràng, đang chờ duyệt thần học.</p>
           </div>
           <div>
             <h4>Học tập</h4>
@@ -554,12 +571,14 @@
               <li><a href="/#giao-ly">Giáo Lý Hỏi Đáp</a></li>
               <li><a href="/#bach-khoa">Bách Khoa Thần Học</a></li>
               <li><a href="/#hoc-vien">Học Viện Cải Chánh</a></li>
+              <li><a href="/ai-dung-sau-trang-nay.html">Tuyên Xưng Đức Tin</a></li>
             </ul>
           </div>
           <div>
             <h4>Đời sống</h4>
             <ul>
               <li><a href="/#tinh-nguyen">Ân Điển Mỗi Ngày</a></li>
+              <li><a href="/#sach-noi">Sách Nói</a></li>
               <li><a href="/#hoi-dap">Hỏi Đáp Cải Chánh</a></li>
               <li><a href="/bai-giang/">Bài Giảng</a></li>
               <li><a href="/thanh-ca/">Thánh Ca &amp; Thờ Phượng</a></li>
@@ -571,6 +590,7 @@
               <li><a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></li>
               <li><a href="mailto:reformedvn@gmail.com?subject=B%C3%A1o%20l%E1%BB%97i%20b%E1%BA%A3n%20d%E1%BB%8Bch">Báo lỗi bản dịch</a></li>
               <li><a href="mailto:reformedvn@gmail.com?subject=B%E1%BA%A3n%20quy%E1%BB%81n">Liên hệ bản quyền / gỡ nội dung</a></li>
+              <li><a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">Kênh YouTube</a></li>
             </ul>
           </div>
         </div>
