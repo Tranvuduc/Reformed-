@@ -117,7 +117,7 @@
     else r.push((b.o ? "Nguyên tác: " + b.o + ". " : "") + "Tác giả: " + b.a + ". Nguyên tác thuộc phạm vi công cộng. Bản tiếng Việt do AI hỗ trợ, chưa được mục sư duyệt giáo lý.");
     r.push("Hãy đối chiếu với Kinh Thánh (bản Việt ngữ 1934) và hỏi mục sư của bạn. Thấy lỗi? Gửi về reformedvn@gmail.com.");
     r.push("Miễn phí, không thương mại. Được sao chép và chia sẻ nguyên vẹn, vui lòng giữ nguyên trang này.");
-    r.push("Nguồn: https://reformed-vietnam.vercel.app/");
+    r.push("Nguồn: https://reformedvietnam.com/");
     return r;
   }
   async function makeEpub(b, txt) {
@@ -146,7 +146,7 @@
     files.push({ name: "OEBPS/toc.ncx", data: enc.encode('<?xml version="1.0" encoding="utf-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"><head><meta name="dtb:uid" content="urn:rv:' + esc(b.s) + '"/></head><docTitle><text>' + esc(b.t) + "</text></docTitle><navMap>" + toc.map(function (c, i) { return '<navPoint id="n' + i + '" playOrder="' + (i + 1) + '"><navLabel><text>' + esc(c.t) + '</text></navLabel><content src="' + c.h + '"/></navPoint>'; }).join("") + "</navMap></ncx>") });
     man.push('<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>');
     var d = new Date().toISOString().slice(0, 10);
-    files.splice(2, 0, { name: "OEBPS/content.opf", data: enc.encode('<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="vi"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="uid">urn:rv:' + esc(b.s) + "</dc:identifier><dc:title>" + esc(b.t) + "</dc:title><dc:creator>" + esc(b.a) + "</dc:creator><dc:language>vi</dc:language><dc:publisher>Reformed Vietnam</dc:publisher><dc:rights>Miễn phí, không thương mại</dc:rights><dc:source>https://reformed-vietnam.vercel.app/reader.html?id=vn/" + esc(b.s) + '</dc:source><meta property="dcterms:modified">' + d + "T00:00:00Z</meta></metadata><manifest>" + man.join("") + '</manifest><spine toc="ncx">' + spine.join("") + "</spine></package>") });
+    files.splice(2, 0, { name: "OEBPS/content.opf", data: enc.encode('<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="vi"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="uid">urn:rv:' + esc(b.s) + "</dc:identifier><dc:title>" + esc(b.t) + "</dc:title><dc:creator>" + esc(b.a) + "</dc:creator><dc:language>vi</dc:language><dc:publisher>Reformed Vietnam</dc:publisher><dc:rights>Miễn phí, không thương mại</dc:rights><dc:source>https://reformedvietnam.com/reader.html?id=vn/" + esc(b.s) + '</dc:source><meta property="dcterms:modified">' + d + "T00:00:00Z</meta></metadata><manifest>" + man.join("") + '</manifest><spine toc="ncx">' + spine.join("") + "</spine></package>") });
     return zip(files, "application/epub+zip");
   }
 

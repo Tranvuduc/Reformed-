@@ -15,7 +15,7 @@ import json, re, html, pathlib, unicodedata
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 MONTHS = ["", "tháng 1", "tháng 2", "tháng 3", "tháng 4", "tháng 5", "tháng 6",
           "tháng 7", "tháng 8", "tháng 9", "tháng 10", "tháng 11", "tháng 12"]
 

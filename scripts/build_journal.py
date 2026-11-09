@@ -12,7 +12,7 @@ Outputs: tap-chi/index.html, tap-chi/<slug>.html, sitemap additions.
 import json, re, html, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 data = json.loads((ROOT / "data/journal.json").read_text(encoding="utf-8"))
 articles = data["articles"]
 

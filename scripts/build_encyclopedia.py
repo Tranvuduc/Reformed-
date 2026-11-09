@@ -21,7 +21,7 @@ from booklinks import resolve as resolve_books
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 
 glossary = json.loads((APP / "data/glossary.json").read_text(encoding="utf-8"))
 assert len(glossary) == 200, len(glossary)
@@ -449,7 +449,7 @@ print("landing page written")
 
 sm_path = ROOT / "sitemap.xml"
 sm = sm_path.read_text(encoding="utf-8")
-sm = sm.replace("<url><loc>https://reformed-vietnam.vercel.app/thuat-ngu.html</loc></url>", "")
+sm = sm.replace("<url><loc>https://reformedvietnam.com/thuat-ngu.html</loc></url>", "")
 new_urls = ["/bach-khoa/"] + [f"/bach-khoa/{e['slug']}.html" for e in entries]
 added = 0
 for u in new_urls:

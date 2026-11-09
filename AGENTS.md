@@ -1,6 +1,6 @@
 # Reformed Vietnam – guide for any coding tool
 
-Free Vietnamese Reformed ebook/audio library. Static site on Vercel (+ `api/*.js` serverless, GitHub Actions bots). Site: https://reformed-vietnam.vercel.app
+Free Vietnamese Reformed ebook/audio library. Static site on Vercel (+ `api/*.js` serverless, GitHub Actions bots). Site: https://reformedvietnam.com
 
 ## Rules (read first)
 - Work on a **branch**, never directly on `main`. Review the diff before merging.

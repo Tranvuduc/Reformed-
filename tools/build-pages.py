@@ -4,7 +4,7 @@ Run from the repo root: python3 tools/build-pages.py"""
 import json, os, re, shutil, unicodedata
 from html import escape as E
 
-SITE = "https://reformed-vietnam.vercel.app"
+SITE = "https://reformedvietnam.com"
 books = json.load(open("books.json", encoding="utf-8"))
 mg = json.load(open("mg.json", encoding="utf-8"))
 vi = json.load(open("vi.json", encoding="utf-8"))

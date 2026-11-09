@@ -6,7 +6,7 @@ Static site + two Vercel functions. Catalog: books.json (CCEL), mg.json (Monergi
 Deploy: push to a Git-connected Vercel project, or use the Vercel CLI.
 
 ## Handoff brief
-Static site "Reformed Vietnam" (free Reformed ebook library), live at https://reformed-vietnam.vercel.app (Vercel Hobby).
+Static site "Reformed Vietnam" (free Reformed ebook library), live at https://reformedvietnam.com (Vercel Hobby).
 - index.html / style.css / app.js: catalog UI, EN/VI, saved + progress (localStorage), sync, TTS.
 - reader.html: in-site reader. about.html: About + takedown (set `CONTACT` for an email).
 - books.json, mg.json, vi.json (Vietnamese titles keyed "author/slug"), desc.json (descriptions + start list).

@@ -16,7 +16,7 @@ import json, re, html, pathlib, urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 
 sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
 live_urls = set(re.findall(r"<loc>([^<]+)</loc>", sitemap))

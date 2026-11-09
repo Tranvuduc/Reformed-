@@ -8,7 +8,7 @@ if (!/^[a-z0-9_-]+\/[a-z0-9_.-]+$/i.test(id || "")) { console.error("usage: node
 const KEY = process.env.ANTHROPIC_API_KEY, MODEL = process.env.MODEL || "claude-sonnet-5-5";
 if (!KEY) { console.error("ANTHROPIC_API_KEY missing"); process.exit(1); }
 const gl = JSON.parse(fs.readFileSync("tools/glossary.json", "utf8"));
-const SITE = process.env.SITE || "https://reformed-vietnam.vercel.app";
+const SITE = process.env.SITE || "https://reformedvietnam.com";
 const dir = path.join("vi", id); fs.mkdirSync(dir, { recursive: true });
 const text = await (await fetch(`${SITE}/api/text?id=${encodeURIComponent(id)}`)).text();
 if (text.length < 500) throw new Error("no source text");

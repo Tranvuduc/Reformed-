@@ -11,7 +11,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from academy_content import COURSES
 
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 OUT = ROOT / "hoc-vien"
 wsc = {q["number"]: q for q in json.loads((ROOT / "data/catechism-wsc.json").read_text(encoding="utf-8"))["questions"]}
 enc = {e["slug"]: e for e in json.loads((ROOT / "data/encyclopedia.json").read_text(encoding="utf-8"))["entries"]}

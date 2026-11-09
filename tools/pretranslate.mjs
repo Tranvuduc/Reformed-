@@ -109,10 +109,10 @@ async function gemini(src) {
 let ids = (process.argv[2] || '').split(',').map(s => s.trim()).filter(Boolean);
 if (process.env.SHARD) { const [i, n] = process.env.SHARD.split('/').map(Number); ids = ids.filter((_, k) => k % n === i); }
 const maxP = +process.argv[3] || 400;
-const site = (process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '');
+const site = (process.argv[4] || 'https://reformedvietnam.com').replace(/\/$/, '');
 const BOT = (process.env.BOT_NAME || 'bot').toLowerCase().replace(/[^a-z0-9-]/g, '-').slice(0, 20);
 const hist = [];
-async function report(msg) { console.log(msg); hist.push(msg.slice(0, 420)); if (hist.length > 6) hist.shift(); msg = hist.join(' || '); try { await fetch(`${(process.argv[4] || 'https://reformed-vietnam.vercel.app').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
+async function report(msg) { console.log(msg); hist.push(msg.slice(0, 420)); if (hist.length > 6) hist.shift(); msg = hist.join(' || '); try { await fetch(`${(process.argv[4] || 'https://reformedvietnam.com').replace(/\/$/, '')}/api/tr`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ status: { bot: BOT, msg } }) }); } catch (e) {} }
 const deadline = Date.now() + 5.5 * 3600 * 1000;
 await report('start; models: ' + (IS_GEMINI ? gModel : (PROV + ':' + qModel)) + ' | ' + lastErr);
 const b = await chromium.launch();

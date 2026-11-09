@@ -18,7 +18,7 @@ from booklinks import resolve as resolve_books
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 
 books, name2id = {}, {}
 for f in (APP / "data" / "bible").glob("*.json"):
@@ -288,7 +288,7 @@ print("landing page written")
 
 sm_path = ROOT / "sitemap.xml"
 sm = sm_path.read_text(encoding="utf-8")
-sm = sm.replace("<url><loc>https://reformed-vietnam.vercel.app/hoi-dap.html</loc></url>", "")
+sm = sm.replace("<url><loc>https://reformedvietnam.com/hoi-dap.html</loc></url>", "")
 new_urls = ["/hoi-dap/"] + [f"/hoi-dap/{e['slug']}.html" for e in entries]
 added = 0
 for u in new_urls:

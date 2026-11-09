@@ -11,7 +11,7 @@ region). Outputs: danh-ba/index.html, sitemap addition.
 import json, re, html, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 data = json.loads((ROOT / "data/churches.json").read_text(encoding="utf-8"))
 entries, regions = data["entries"], data["regions"]
 EMAIL = "reformedvn@gmail.com"

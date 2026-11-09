@@ -23,7 +23,7 @@ come-in, do-you-pray); their metadata comes from mg.json (rv-* entries).
 import json, os, re, zipfile
 from html import escape as E
 
-SITE = "https://reformed-vietnam.vercel.app"
+SITE = "https://reformedvietnam.com"
 EMAIL = "reformedvn@gmail.com"
 
 # slug: (author, year, type, colour, en title, vi subtitle/description, en description)

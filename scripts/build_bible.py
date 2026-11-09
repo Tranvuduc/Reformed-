@@ -18,7 +18,7 @@ import json, re, html, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app" / "data"
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 
 books_meta = json.loads((APP / "books.json").read_text(encoding="utf-8"))
 assert len(books_meta) == 66

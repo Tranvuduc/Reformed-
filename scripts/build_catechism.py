@@ -21,7 +21,7 @@ import json, re, sys, html, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"  # sparse checkout of Tranvuduc/Kinh-thanh-moi-ngay
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 
 # ---------- load sources ----------
 giaoly = json.loads((APP / "data/giaoly.json").read_text(encoding="utf-8"))

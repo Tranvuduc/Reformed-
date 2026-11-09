@@ -65,7 +65,7 @@ def og_image(path, title, desc=""):
         for ln in DL: d.text((80, y), ln, font=fs, fill=_OGMUT); y += 40
     d.rectangle([0, 548, 1200, 630], fill=_OGRUST)
     d.text((80, 570), "Reformed Vietnam", font=_ogf("DejaVuSerif-Bold.ttf", 32), fill=(255, 255, 255))
-    d.text((1120, 576), "Sách Cải Chánh miễn phí · reformed-vietnam.vercel.app", font=_ogf("DejaVuSans.ttf", 20), fill=(255, 235, 220), anchor="ra")
+    d.text((1120, 576), "Sách Cải Chánh miễn phí · reformedvietnam.com", font=_ogf("DejaVuSans.ttf", 20), fill=(255, 235, 220), anchor="ra")
     os.makedirs("og", exist_ok=True)
     im.save(out, "JPEG", quality=72, optimize=True, progressive=True)
     try:

@@ -10,7 +10,7 @@ Outputs: bai-giang/index.html, bai-giang/<slug>.html, sitemap additions.
 import json, re, html, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = "https://reformed-vietnam.vercel.app"
+BASE = "https://reformedvietnam.com"
 data = json.loads((ROOT / "data/sermons.json").read_text(encoding="utf-8"))
 entries, collections = data["entries"], data["collections"]
 
