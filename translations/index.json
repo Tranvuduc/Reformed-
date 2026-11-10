@@ -45294,5 +45294,21 @@
   "level": 2,
   "length": "dai",
   "short": "Chú Thích 1 Cô-rinh-tô"
+ },
+ {
+  "id": "arch-gerhard-sacred-meditations",
+  "file": "arch-gerhard-sacred-meditations.txt",
+  "title": "SUY NGẪM THÁNH",
+  "orig": "Sacred Meditations",
+  "author": "Johann Gerhard",
+  "by": "Spark",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Cầu Nguyện"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Suy Ngẫm Thánh"
  }
 ]
