@@ -12,7 +12,7 @@ Then run tools/build-pages.py so tieng-viet.html and sitemap.xml pick the books 
 To add a book: drop the EPUB in sach/<slug>.epub and add one entry to BOOKS.
 
 2026-11-05 (Batch D, site design-consistency fix): doc/ pages now use the shared
-site chrome -- /s.css?v=20261105, the canonical 7-link nav.top + #th theme toggle,
+site chrome -- /s.css?v=20261110, the canonical 7-link nav.top + #th theme toggle,
 the shared footer, and the rv.ptheme theme bootstrap (previously a third design
 system: inline-only CSS, 3-link nav, no theme toggle). In-content <h1> from EPUB
 chapter bodies is demoted to <h2> (the hero <h1> is the page title; M8). Pages
@@ -74,7 +74,7 @@ BOOKS = {
         "J.C. Ryle's searching, practical tract on the necessity and marks of real prayer."),
 }
 
-FONT = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" media="print" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"></noscript>'
+FONT = ''  # was Google Fonts CDN (Noto Serif); fonts are now self-hosted via @font-face in s.css — see tools/build-pages.py _CSS_REST
 CSS = """
 .toc{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 18px;font:15px/1.6 system-ui,sans-serif;margin:18px 0 8px}
 .toc ol{margin:.3em 0 0;padding-left:1.2em}
@@ -165,7 +165,7 @@ def main():
         page = f"""<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(vi_d)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="book"><meta property="og:title" content="{E(vi_t)} – {E(author)}"><meta property="og:description" content="{E(vi_d)}"><meta property="og:url" content="{url}"><meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">{FONT}{THEME_BOOT}<style>{CSS}</style><link rel="stylesheet" href="/s.css?v=20261105"><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head><body><main id="top">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">{FONT}{THEME_BOOT}<style>{CSS}</style><link rel="stylesheet" href="/s.css?v=20261110"><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head><body><main id="top">
 {NAV_TOP}
 <h1>{E(vi_t)}</h1><p class="m">{E(author)} · {year} · Nguyên tác: <i>{E(en_t)}</i></p>
 <div class="acts"><a class="btn" href="/sach/{slug}.epub" download>⬇ Tải EPUB</a><a class="btn s" href="/reader.html?id=vn/{slug}&amp;pid=rv-{slug}">Mở trong trình đọc</a></div>

@@ -264,7 +264,10 @@ for _b in _idx:
                           "url": SITE},
            "bookFormat": "https://schema.org/EBook", "isAccessibleForFree": True}
     if _orig: _ld["alternateName"] = _orig
-    open(_path, "w", encoding="utf-8").write(page(f'{_dt} · bản dịch tiếng Việt | Reformed Vietnam', f'Bản dịch tiếng Việt "{_dt}" của {_au}. Miễn phí.', _path, _body, _ld))
+    _ttl = f'{_dt} · bản dịch tiếng Việt | Reformed Vietnam'
+    if len(_ttl) > 60:  # tier-1 (2026-11-10): drop the site suffix when it alone brings the title to <=60 chars
+        _ttl = f'{_dt} · bản dịch tiếng Việt'
+    open(_path, "w", encoding="utf-8").write(page(_ttl, f'Bản dịch tiếng Việt "{_dt}" của {_au}. Miễn phí.', _path, _body, _ld))
     urls.append(_path)
     VIBOOKS[_b["id"]] = {"u": "/" + _path, "by": _by, "r": _rev, "rd": f"reader.html?id=vn/{_slug}&pid=" + _ul.quote(_b["id"], safe="")}
     _hub.append((_bt, _au, _orig, "/" + _path, _rev, _orig_book))
