@@ -45310,5 +45310,21 @@
   "level": 2,
   "length": "dai",
   "short": "Suy Ngẫm Thánh"
+ },
+ {
+  "id": "arch-burroughs-gospel-fear",
+  "file": "arch-burroughs-gospel-fear.txt",
+  "title": "SỢ HÃI THEO PHÚC ÂM",
+  "orig": "Gospel Fear",
+  "author": "Jeremiah Burroughs",
+  "by": "Spark",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Ăn Năn"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Sợ Hãi Theo Phúc Âm"
  }
 ]
