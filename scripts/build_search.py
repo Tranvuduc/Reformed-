@@ -137,6 +137,12 @@ add("Lộ trình phát triển", "Những giai đoạn đã hoàn tất, đang l
     "lộ trình phát triển giai đoạn kế hoạch tương lai cần người giúp")
 print("phase5 indexed: 3 pages")
 
+# ---- Phase 6: Ask the library (retrieval, no generated answers) ----
+add("Hỏi Thư Viện", "Tìm đoạn văn theo câu hỏi · trích dẫn về trang gốc · không tự soạn câu trả lời",
+    "/hoi-thu-vien.html", "Công Cụ",
+    "hỏi thư viện hỏi sách tìm đoạn văn trích dẫn câu hỏi đáp án")
+print("phase6 indexed: 1 page")
+
 # ---- catechism ----
 cat = json.loads((ROOT / "data/catechism-wsc.json").read_text(encoding="utf-8"))
 for q in cat["questions"]:
@@ -455,6 +461,7 @@ page = f"""<!DOCTYPE html>
     <input id="q" type="search" name="q" placeholder="Tìm sách, thuật ngữ, câu hỏi, bài giảng… (gõ không dấu cũng được)" aria-label="Tìm kiếm" autocomplete="off" />
     <button class="btn solid" type="submit">Tìm</button>
   </form>
+  <p class="status">Muốn hỏi bằng câu đầy đủ? <a href="/hoi-thu-vien.html">Hỏi Thư Viện</a> — tìm đoạn văn có trích dẫn, không tự soạn câu trả lời. Trên trang sách, dùng “Hỏi sách này” để hỏi riêng một cuốn.</p>
   <div class="filters" id="filters" aria-label="Bộ lọc kết quả">
     <select id="fGroup" aria-label="Mục"><option value="">Tất cả các mục</option></select>
     <select id="fAuthor" aria-label="Tác giả"><option value="">Tất cả tác giả</option></select>

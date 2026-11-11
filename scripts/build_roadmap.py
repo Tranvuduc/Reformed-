@@ -44,12 +44,12 @@ PHASES = [
     ("Giai đoạn 4 — Chiều sâu học Kinh Thánh", "done", "Hoàn tất 11/11/2026",
      "50 nhân vật Kinh Thánh, 20 chủ đề, giới thiệu 66 sách Kinh Thánh với tóm tắt từng chương; "
      "dòng thời gian Kinh Thánh và bản đồ hành trình — tất cả dẫn về bản Kinh Thánh 1934."),
-    ("Giai đoạn 5 — Tương tác &amp; chất lượng", "doing", "Đang làm",
-     "Bảng đọc cá nhân (trang này thuộc giai đoạn 5); chương trình kiểm tra chất lượng bản dịch tự động; "
+    ("Giai đoạn 5 — Tương tác &amp; chất lượng", "done", "Hoàn tất 11/11/2026",
+     "Bảng đọc cá nhân; chương trình kiểm tra chất lượng bản dịch tự động; "
      "trang theo dõi dự án dịch thuật công khai; và chính trang lộ trình này."),
-    ("Giai đoạn 6 — Đổi mới", "wait", "Chờ quyết định",
-     "Hỏi thư viện bằng AI (chỉ trích dẫn sách, không tự bịa câu trả lời) và bình luận trên trang sách. "
-     "Cả hai đều cần người kiểm duyệt trước khi mở — hiện chưa có người đảm nhận."),
+    ("Giai đoạn 6 — Đổi mới", "doing", "Hỏi xong · chờ bật bình luận",
+     "Hỏi Thư Viện đã mở: tìm đoạn văn có trích dẫn, không tự soạn câu trả lời — hỏi toàn thư viện hoặc hỏi riêng một sách, từ link “Hỏi sách này” trên mọi trang sách. "
+     "Bình luận bằng Giscus đã chuẩn bị sẵn trên mọi trang sách, đang chờ cài ứng dụng Giscus trên kho GitHub (một bước của quản trị viên); quản trị viên kiểm duyệt bình luận."),
 ]
 
 BLOCKED = [

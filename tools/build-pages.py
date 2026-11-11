@@ -96,6 +96,29 @@ def _share(url, title):
             'if(navigator.share){navigator.share({title:s.dataset.t,url:u}).catch(function(){});return}'
             'if(navigator.clipboard){navigator.clipboard.writeText(u);c.textContent="✓ Đã sao chép"}};})()</script>')
 
+# Phase 6.2/6.3 — "Hỏi sách này" + Giscus comments section for ban-dich book
+# pages. Canonical copy: scripts/patch_ban_dich_phase6.py extracts this
+# block from this file (never import build-pages — it regenerates on import).
+# The Giscus <script> stays inside an HTML comment until the Giscus app is
+# installed on Tranvuduc/Reformed-; scripts/enable_giscus.py uncomments it
+# after verifying the install. /sach/ pages do NOT share this template and
+# no generator owns them, so they get neither section (see patch script).
+ASK_GISCUS = """<section id="hoi-sach" style="margin:18px 0;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:var(--card)">
+<p style="margin:0">❓ <a href="/hoi-thu-vien.html?sach={slug}"><b>Hỏi sách này</b></a> — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.</p>
+</section>
+<section id="binh-luan" style="margin:18px 0;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:var(--card)">
+<h2 style="margin:0 0 6px">Bình luận</h2>
+<p style="margin:0">Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.</p>
+<!-- GISCUS-OFF
+Bình luận bằng Giscus — CHƯA BẬT (cần quản trị viên làm một bước duy nhất):
+1) Mở https://github.com/apps/giscus và cài ứng dụng Giscus cho kho Tranvuduc/Reformed- (chọn Only select repositories rồi chọn Tranvuduc/Reformed-).
+2) Chạy python3 scripts/enable_giscus.py — nó kiểm tra ứng dụng đã cài chưa rồi mới mở bình luận trên mọi trang sách.
+Đã bật sẵn: GitHub Discussions trên kho (has_discussions=true) và chuyên mục General. Muốn chuyên mục riêng (ví dụ “Bình luận sách”), tạo trong kho tại Settings rồi đổi data-category và data-category-id trong thẻ script bên dưới.
+<script src="https://giscus.app/client.js" data-repo="Tranvuduc/Reformed-" data-repo-id="R_kgDOU1co6Q" data-category="General" data-category-id="DIC_kwDOU1co6c4DK3Y0" data-mapping="pathname" data-strict="0" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="bottom" data-theme="light" data-lang="vi" data-loading="lazy" crossorigin="anonymous" async></script>
+GISCUS-OFF-END -->
+</section>
+"""
+
 def page(title, desc_, path, body, ld=None):
     url = f"{SITE}/{path}"
     j = f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>' if ld else ""
@@ -112,6 +135,12 @@ def page(title, desc_, path, body, ld=None):
     # Phase 1.1: report-translation-error link with page context in the
     # subject (mirrors the hub footer's "Báo lỗi bản dịch" link).
     _rep = f"mailto:reformedvn@gmail.com?subject=" + _q("Báo lỗi bản dịch: " + title)
+    # Phase 6.2/6.3: "Hỏi sách này" + Giscus section on ban-dich book pages
+    # only (the ban-dich index listing is not a book; a/ and b/ pages are
+    # author/CCEL pages, not Vietnamese book pages).
+    _ag = ""
+    if path.startswith("ban-dich/") and path != "ban-dich/index.html":
+        _ag = ASK_GISCUS.replace("{slug}", path[len("ban-dich/"):-len(".html")])
     return f'''<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{_og}?v=2"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:alt" content="{E(title)}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN"><meta name="twitter:image" content="{_og}?v=2"><meta name="twitter:card" content="summary_large_image">
@@ -119,7 +148,7 @@ def page(title, desc_, path, body, ld=None):
 <nav class="top"><a href="/">Reformed Vietnam</a><a href="/tac-gia.html">Tác giả</a><a href="/tieng-viet.html">Tiếng Việt</a><a href="/sach-noi.html">Sách nói</a><a href="/bat-dau.html">Bắt đầu</a><a href="/lo-trinh.html">Lộ trình đọc</a><a href="/khoa-hoc.html">Học trực tuyến</a><a href="/bai-viet/">Bài viết</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
 {body}
 {_sh}
-<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · <a href="{_rep}">Báo lỗi bản dịch</a> · Liên hệ: reformedvn@gmail.com</footer></main><script>(function(){{var b=document.getElementById("th");if(!b)return;b.onclick=function(){{var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{{localStorage.setItem("rv.ptheme",c)}}catch(e){{}}}}}})()</script></body></html>'''
+{_ag}<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · <a href="{_rep}">Báo lỗi bản dịch</a> · Liên hệ: reformedvn@gmail.com</footer></main><script>(function(){{var b=document.getElementById("th");if(!b)return;b.onclick=function(){{var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{{localStorage.setItem("rv.ptheme",c)}}catch(e){{}}}}}})()</script></body></html>'''
 
 for d in ("a", "b"):
     shutil.rmtree(d, ignore_errors=True); os.makedirs(d)
