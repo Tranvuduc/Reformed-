@@ -323,7 +323,6 @@
 197-sermons-preached-st-john-s-church-chalmers.txt
 197-thu-tra-loi-giam-muc-luandonn.txt
 199-nhan-xet-ve-cac-luan-thuyet-dao-duc-va-ton-giai-tu-nhien.txt
-200-gia-o-ly-kinh-thanh-ve-bi-tich-tiec-thanh.txt
 200-thoughts-upon-the-african-slave-trade-newton.txt
 200-works-25-vols-thomas.txt
 201-view-covenant-works-from-sacred-records-boston.txt
