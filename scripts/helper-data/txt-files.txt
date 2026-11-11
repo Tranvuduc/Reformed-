@@ -1829,6 +1829,7 @@ mg1-1000-the-dignity-and-usefulness-of-the-hebrew-language-l-empereur.txt
 mg1-1001-plague-hearts-mead.txt
 mg1-1002-the-distinguishing-traits-of-christian-character-spring.txt
 mg1-1003-divine-attributes-ridgley.txt
+mg1-1004-divine-rule-faith-practice-goode.txt
 mg1-1005-the-divine-will-considered-in-its-eternal-decrees-polhill.txt
 mg1-1006-the-doctrine-of-absolute-predestination-reformed-t-zanchius.txt
 mg1-1007-the-doctrine-of-justification-an-outline-of-its-hi-buchanan.txt
@@ -1848,6 +1849,7 @@ mg1-1019-the-doctrine-of-the-two-covenants-reformed-theolog-hopkins.txt
 mg1-102-repentance-ryle.txt
 mg1-1020-the-doctrine-of-the-will-reformed-theology-ebook-cunningham.txt
 mg1-1021-door-salvation-swinnock.txt
+mg1-1022-doubting-believer-sedgwick.txt
 mg1-1023-duty-peace-rivet.txt
 mg1-1024-the-duty-of-reading-holy-scripture-and-other-godly-van-der-groe.txt
 mg1-1025-the-end-of-all-things-sermons-ebook-binning.txt
@@ -2940,6 +2942,7 @@ mg1-975-the-christian-man-s-calling-swinnock.txt
 mg1-976-the-christian-ministry-reformed-theology-ebook-bridges.txt
 mg1-977-the-christian-view-of-god-and-the-world-as-centrin-orr.txt
 mg1-978-christian-warfare-downame.txt
+mg1-979-christian-warfare-2-downame.txt
 mg1-980-the-christian-warrior-wrestling-with-sin-satan-the-ambrose.txt
 mg1-981-the-christian-s-daily-walk-scudder.txt
 mg1-982-the-christians-great-interest-reformed-theology-eb-guthrie.txt

@@ -13762,7 +13762,7 @@
   "id": "560-of-justification-gill",
   "file": "560-of-justification-gill.txt",
   "title": "BÀI GIẢNG NHÂN CÁI CHẾT CỦA MỤC SƯ SAMUEL WILSON",
-  "orig": "560-of-justification-gill",
+  "orig": "A Sermon Occasioned by the Death of the Revd. Mr. Samuel Wilson",
   "author": "John Gill",
   "by": "Claude",
   "reviewed": false,
@@ -27748,6 +27748,7 @@
   "title": "CUỘC CHIẾN THUỘC LINH, TẬP II",
   "author": "John Downame",
   "era": "1560–1640",
+  "file": "mg1-979-christian-warfare-2-downame.txt",
   "type": "book",
   "category": "Thần học hệ thống",
   "words": 519540,
@@ -27863,6 +27864,7 @@
   "title": "QUY TẮC THẦN THÁNH CỦA ĐỨC TIN VÀ SỰ THỰC HÀNH",
   "author": "William Goode",
   "era": "1798–1868",
+  "file": "mg1-1004-divine-rule-faith-practice-goode.txt",
   "type": "book",
   "category": "Thần học hệ thống",
   "words": 679561,
@@ -27931,6 +27933,7 @@
   "title": "TÍN ĐỒ NGHI NGỜ",
   "author": "Obadiah Sedgwick",
   "era": "1600–1658",
+  "file": "mg1-1022-doubting-believer-sedgwick.txt",
   "type": "book",
   "category": "Đời sống Cơ Đốc",
   "words": 72110,
@@ -48354,6 +48357,22 @@
   "level": 2,
   "length": "dai",
   "short": "Hành Trình Của Người Lữ Hành",
+  "review_status": "ai-draft"
+ },
+ {
+  "id": "850-so-thu-chi-co-nhi-vien-va-chung-ngon-halle",
+  "file": "850-so-thu-chi-co-nhi-vien-va-chung-ngon-halle.txt",
+  "title": "SỔ THU CHI CÔ NHI VIỆN VÀ CHỨNG NGÔN HALLE",
+  "orig": "[Account of money received and disbursed for the orphan-house in Georgia]. A continuation...",
+  "author": "George Whitefield",
+  "by": "Claude",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "vua",
+  "short": "Sổ Thu Chi Và Chứng Ngôn Halle",
   "review_status": "ai-draft"
  }
 ]

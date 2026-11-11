@@ -20675,7 +20675,7 @@
   "id": "mg1-979-christian-warfare-2-downame",
   "short": "Cuộc Chiến Thuộc Linh, Tập Ii",
   "author": "John Downame",
-  "slug": "",
+  "slug": "mg1-979-christian-warfare-2-downame",
   "level": 2,
   "length": "dai",
   "topics": [
@@ -20759,7 +20759,7 @@
   "id": "mg1-1004-divine-rule-faith-practice-goode",
   "short": "Quy Tắc Thần Thánh Của Đức",
   "author": "William Goode",
-  "slug": "",
+  "slug": "mg1-1004-divine-rule-faith-practice-goode",
   "level": 2,
   "length": "dai",
   "topics": [
@@ -20808,7 +20808,7 @@
   "id": "mg1-1022-doubting-believer-sedgwick",
   "short": "Tín Đồ Nghi Ngờ",
   "author": "Obadiah Sedgwick",
-  "slug": "",
+  "slug": "mg1-1022-doubting-believer-sedgwick",
   "level": 2,
   "length": "dai",
   "topics": [
@@ -36121,6 +36121,18 @@
   "slug": "840-hanh-trinh-nguoi-hanh-huong",
   "level": 2,
   "length": "dai",
+  "topics": [
+   "Đức Tin"
+  ],
+  "review_status": "ai-draft"
+ },
+ {
+  "id": "850-so-thu-chi-co-nhi-vien-va-chung-ngon-halle",
+  "short": "Sổ Thu Chi Và Chứng Ngôn Halle",
+  "author": "George Whitefield",
+  "slug": "850-so-thu-chi-co-nhi-vien-va-chung-ngon-halle",
+  "level": 2,
+  "length": "vua",
   "topics": [
    "Đức Tin"
   ],
