@@ -18096,30 +18096,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-330-answering-objections-hays",
-  "short": "Giải Đáp Những Phản Bác Thường",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-330-answering-objections-hays",
-  "level": 3,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-331-apologetics-hays",
-  "short": "Biện Giáo",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-331-apologetics-hays",
-  "level": 3,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-247-treasury-of-david-spurgeon",
   "short": "Kho Tàng Của Đa-vít",
   "author": "C. H. Spurgeon",
@@ -18128,91 +18104,6 @@
   "length": "dai",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-336-catholicism-hays",
-  "short": "Công Giáo",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-336-catholicism-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-337-christian-ethics-hays",
-  "short": "Đạo Đức Học Cơ Đốc",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-337-christian-ethics-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Sự Thánh Khiết"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-342-inerrancy-hays",
-  "short": "Sự Không Sai Lầm Của Kinh",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-342-inerrancy-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-343-jesus-in-the-gospels-hays",
-  "short": "Chúa Giê-xu Trong Các Sách Phúc",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-343-jesus-in-the-gospels-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Chúa Giê-xu Christ",
-   "Phúc Âm"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-348-the-apocalypse-hays",
-  "short": "Sách Khải Huyền",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-348-the-apocalypse-hays",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-349-logic-of-hell-hays",
-  "short": "Lô-gíc Của Hỏa Ngục",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-349-logic-of-hell-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-354-worship-in-time-of-plague-hays",
-  "short": "Thờ Phượng Trong Thời Dịch Bệnh",
-  "author": "Steve Hays",
-  "slug": "translations/mg1-354-worship-in-time-of-plague-hays",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Sự Thờ Phượng"
   ],
   "review_status": "ai-draft"
  },
@@ -18703,18 +18594,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-495-god-transcendent-machen",
-  "short": "Đức Chúa Trời Siêu Việt",
-  "author": "J. Gresham Machen",
-  "slug": "translations/mg1-495-god-transcendent-machen",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Chúa Trời"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-498-life-of-christ-machen",
   "short": "Cuộc Đời Của Đấng Christ",
   "author": "J. Gresham Machen",
@@ -18882,18 +18761,6 @@
   "length": "dai",
   "topics": [
    "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-540-journey-in-prayer-sturgill",
-  "short": "Hành Trình Trong Sự Cầu Nguyện",
-  "author": "Aaron Sturgill",
-  "slug": "translations/mg1-540-journey-in-prayer-sturgill",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Cầu Nguyện"
   ],
   "review_status": "ai-draft"
  },
@@ -19140,18 +19007,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-601-amillennialism-engelsma",
-  "short": "Vô Thiên Hy Niên",
-  "author": "David Engelsma",
-  "slug": "translations/mg1-601-amillennialism-engelsma",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-606-assertion-government-gillespie",
   "short": "Khẳng Định Về Thể Chế Quản",
   "author": "George Gillespie",
@@ -19232,18 +19087,6 @@
   "length": "dai",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-628-better-hebrews-duncan",
-  "short": "Tốt Hơn: Nghiên Cứu Đời Sống",
-  "author": "J. Ligon Duncan",
-  "slug": "translations/mg1-628-better-hebrews-duncan",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh"
   ],
   "review_status": "ai-draft"
  },
@@ -19447,19 +19290,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-677-creation-conscience-christ-smalling",
-  "short": "Sáng Thế, Lương Tâm Và Đấng",
-  "author": "Roger Smalling",
-  "slug": "translations/mg1-677-creation-conscience-christ-smalling",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Chúa Giê-xu Christ",
-   "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-678-crucifixion-with-christ-philpot",
   "short": "Bị Đóng Đinh Với Đấng Christ",
   "author": "J. C. Philpot",
@@ -19468,18 +19298,6 @@
   "length": "vua",
   "topics": [
    "Chúa Giê-xu Christ"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-683-devotions-psalms-hyde",
-  "short": "Tĩnh Nguyện Qua Các Thi Thiên",
-  "author": "Daniel Hyde",
-  "slug": "translations/mg1-683-devotions-psalms-hyde",
-  "level": 1,
-  "length": "vua",
-  "topics": [
-   "Kinh Thánh"
   ],
   "review_status": "ai-draft"
  },
@@ -19661,32 +19479,6 @@
   "length": "vua",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-731-gleaning-puritan-prayers-vol3-jonescue",
-  "short": "Những Lời Cầu Nguyện Thanh Giáo",
-  "author": "David Jonescue (editor)",
-  "slug": "translations/mg1-731-gleaning-puritan-prayers-vol3-jonescue",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Cầu Nguyện",
-   "Lịch Sử Hội Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-730-gleaning-puritan-prayers-vol2-jonescue",
-  "short": "Những Lời Cầu Nguyện Thanh Giáo",
-  "author": "David Jonescue (editor)",
-  "slug": "translations/mg1-730-gleaning-puritan-prayers-vol2-jonescue",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Cầu Nguyện",
-   "Lịch Sử Hội Thánh"
   ],
   "review_status": "ai-draft"
  },
@@ -20403,19 +20195,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-916-solus-christus-hendryx",
-  "short": "Chỉ Riêng Đấng Christ: Phúc Âm",
-  "author": "John Hendryx (editor)",
-  "slug": "translations/mg1-916-solus-christus-hendryx",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Chúa Giê-xu Christ",
-   "Phúc Âm"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-932-temples-hands-rivet",
   "short": "Những Đền Thờ Do Tay Người",
   "author": "André Rivet",
@@ -20952,30 +20731,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-1060-end-time-debate-davis",
-  "short": "Cuộc Tranh Luận Lớn Về Thời",
-  "author": "Dean Davis",
-  "slug": "translations/mg1-1060-end-time-debate-davis",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-1075-justification-knowledge-reymond",
-  "short": "Sự Biện Giải Cho Tri Thức",
-  "author": "Robert L. Reymond",
-  "slug": "translations/mg1-1075-justification-knowledge-reymond",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Sự Xưng Công Chính"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-1071-humbled-sinner-sedgwick",
   "short": "Tội Nhân Hạ Mình Quyết Tâm",
   "author": "Obadiah Sedgwick",
@@ -20984,18 +20739,6 @@
   "length": "dai",
   "topics": [
    "Sự Cứu Rỗi"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-1069-high-king-davis",
-  "short": "Vua Cao Cả Của Thiên Đàng",
-  "author": "Dean Davis",
-  "slug": "translations/mg1-1069-high-king-davis",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
   ],
   "review_status": "ai-draft"
  },
@@ -21117,18 +20860,6 @@
   "length": "vua",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-1113-order-salvation-olyott",
-  "short": "Trật Tự Của Sự Cứu Rỗi",
-  "author": "Stuart Olyott",
-  "slug": "translations/mg1-1113-order-salvation-olyott",
-  "level": 2,
-  "length": "ngan",
-  "topics": [
-   "Sự Cứu Rỗi"
   ],
   "review_status": "ai-draft"
  },
@@ -21398,20 +21129,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-1162-silver-thread-hendryx",
-  "short": "Sợi Chỉ Bạc: Thuyết Augustine Đối",
-  "author": "John Hendryx, ed.",
-  "slug": "translations/mg1-1162-silver-thread-hendryx",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Lịch Sử Hội Thánh",
-   "Sự Ăn Năn",
-   "Hội Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-1186-systematic-theology-brown",
   "short": "Thần Học Hệ Thống Của John",
   "author": "John Brown (of Haddington)",
@@ -21498,18 +21215,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-1216-work-of-spirit-gaffin",
-  "short": "Công Việc Của Đức Thánh Linh",
-  "author": "Richard B. Gaffin Jr.",
-  "slug": "translations/mg1-1216-work-of-spirit-gaffin",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Thánh Linh"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-1208-wells-of-salvation-spurstowe",
   "short": "Các Giếng Của Sự Cứu Rỗi",
   "author": "William Spurstowe",
@@ -21570,18 +21275,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-1232-this-we-believe-olyott",
-  "short": "Điều Chúng Ta Tin",
-  "author": "Stuart Olyott",
-  "slug": "translations/mg1-1232-this-we-believe-olyott",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-1237-tiger-and-tom-various",
   "short": "Tiger Và Tom Cùng Những Câu",
   "author": "Various Authors",
@@ -21630,18 +21323,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-1246-unknown-everhard",
-  "short": "Vô Danh: Ảnh Hưởng Phi Thường",
-  "author": "Matthew Everhard",
-  "slug": "translations/mg1-1246-unknown-everhard",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-1251-weekday-religion-miller",
   "short": "Đạo Của Ngày Thường",
   "author": "J. R. Miller",
@@ -21662,30 +21343,6 @@
   "length": "ngan",
   "topics": [
    "Tín Điều"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-1259-why-join-a-church-brown-wilson",
-  "short": "Tại Sao Nên Gia Nhập Một",
-  "author": "Mark Brown & Larry Wilson",
-  "slug": "translations/mg1-1259-why-join-a-church-brown-wilson",
-  "level": 2,
-  "length": "ngan",
-  "topics": [
-   "Hội Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-1258-why-and-what-jones",
-  "short": "Tại Sao Và Điều Gì: Giới",
-  "author": "Douglas Jones",
-  "slug": "translations/mg1-1258-why-and-what-jones",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
   ],
   "review_status": "ai-draft"
  },
@@ -22951,114 +22608,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-329-a-case-for-christ-apologetics-ebook-hays",
-  "short": "Biện Hộ Cho Đấng Christ",
-  "author": "Steve Hays",
-  "slug": "mg1-329-a-case-for-christ-apologetics-ebook-hays",
-  "level": 2,
-  "length": "ngan",
-  "topics": [
-   "Chúa Giê-xu Christ"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-332-atheism-reformed-theology-ebook-hays",
-  "short": "Chủ Nghĩa Vô Thần",
-  "author": "Steve Hays",
-  "slug": "mg1-332-atheism-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-335-buddhism-reformed-theology-ebook-hays",
-  "short": "Phật Giáo",
-  "author": "Steve Hays",
-  "slug": "mg1-335-buddhism-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-338-christian-supernaturalism-reformed-theology-ebook-hays",
-  "short": "Siêu Nhiên Trong Cơ Đốc Giáo",
-  "author": "Steve Hays",
-  "slug": "mg1-338-christian-supernaturalism-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-341-gods-canon-reformed-theology-ebook-hays",
-  "short": "Kinh Điển Của Đức Chúa Trời",
-  "author": "Steve Hays",
-  "slug": "mg1-341-gods-canon-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Chúa Trời"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-344-nihilism-reformed-theology-ebook-hays",
-  "short": "Chủ Nghĩa Hư Vô",
-  "author": "Steve Hays",
-  "slug": "mg1-344-nihilism-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-347-renewing-the-imagination-reformed-theology-ebook-hays",
-  "short": "Làm Mới Trí Tưởng Tượng",
-  "author": "Steve Hays",
-  "slug": "mg1-347-renewing-the-imagination-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-350-the-logic-of-prayer-reformed-theology-ebook-hays",
-  "short": "Lô-gích Của Sự Cầu Nguyện",
-  "author": "Steve Hays",
-  "slug": "mg1-350-the-logic-of-prayer-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Cầu Nguyện"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-353-universalism-reformed-theology-ebook-hays",
-  "short": "Chủ Nghĩa Phổ Cứu",
-  "author": "Steve Hays",
-  "slug": "mg1-353-universalism-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-356-a-fruitful-dialogue-concerning-the-end-of-the-worl-perkins",
   "short": "Đối Thoại Bổ Ích Về Ngày",
   "author": "William Perkins",
@@ -23572,18 +23121,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-497-the-christian-faith-in-the-modern-world-reformed-t-machen",
-  "short": "Đức Tin Cơ Đốc Trong Thế",
-  "author": "J. Gresham Machen",
-  "slug": "mg1-497-the-christian-faith-in-the-modern-world-reformed-t-machen",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-500-the-virgin-birth-of-christ-biblical-studies-ebook-machen",
   "short": "Sự Giáng Sinh Đồng Trinh Của",
   "author": "J. Gresham Machen",
@@ -23688,18 +23225,6 @@
   "length": "dai",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-532-a-furnace-for-gold-a-child-of-the-sixties-takes-th-davis",
-  "short": "Lò Luyện Vàng: Đứa Con Của",
-  "author": "Dean Davis",
-  "slug": "mg1-532-a-furnace-for-gold-a-child-of-the-sixties-takes-th-davis",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Sự Chịu Khổ"
   ],
   "review_status": "ai-draft"
  },
@@ -24251,18 +23776,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-676-covenant-theology-a-biblical-theological-and-histo-duncan",
-  "short": "Thần Học Giao Ước",
-  "author": "J. Ligon Duncan",
-  "slug": "mg1-676-covenant-theology-a-biblical-theological-and-histo-duncan",
-  "level": 3,
-  "length": "dai",
-  "topics": [
-   "Đức Chúa Trời"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-679-daniel-the-wisest-prophet-of-god-bible-commentary-bullinger",
   "short": "Đa-ni-ên, Đấng Tiên Tri Khôn Ngoan",
   "author": "Henry Bullinger",
@@ -24271,18 +23784,6 @@
   "length": "dai",
   "topics": [
    "Đức Chúa Trời",
-   "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-682-devotions-on-the-proverbs-hyde",
-  "short": "Suy Gẫm Sách Châm Ngôn",
-  "author": "Daniel Hyde",
-  "slug": "mg1-682-devotions-on-the-proverbs-hyde",
-  "level": 2,
-  "length": "ngan",
-  "topics": [
    "Kinh Thánh"
   ],
   "review_status": "ai-draft"
@@ -24457,32 +23958,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-729-gleaning-from-puritan-prayers-vol-1-jonescue",
-  "short": "Thu Nhặt Từ Những Lời Cầu",
-  "author": "David Jonescue",
-  "slug": "mg1-729-gleaning-from-puritan-prayers-vol-1-jonescue",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Cầu Nguyện",
-   "Lịch Sử Hội Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-732-gleaning-from-puritan-prayers-vol-4-bookamer",
-  "short": "Lượm Lặt Từ Những Lời Cầu",
-  "author": "Phoebe Bookamer",
-  "slug": "mg1-732-gleaning-from-puritan-prayers-vol-4-bookamer",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Cầu Nguyện",
-   "Lịch Sử Hội Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-735-god-sovereign-and-man-free-or-the-doctrine-of-divi-rice",
   "short": "Đức Chúa Trời Tể Trị Và",
   "author": "N. L. Rice",
@@ -24594,19 +24069,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-762-hold-fast-the-faith-a-devotional-commentary-on-the-everhard",
-  "short": "Nắm Chặt Đức Tin: Chú Giải",
-  "author": "Matthew Everhard",
-  "slug": "mg1-762-hold-fast-the-faith-a-devotional-commentary-on-the-everhard",
-  "level": 3,
-  "length": "dai",
-  "topics": [
-   "Tín Điều",
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-765-honey-out-of-the-rock-wilcox",
   "short": "Mật Ngọt Từ Vầng Đá",
   "author": "Thomas Wilcox",
@@ -24652,19 +24114,6 @@
   "topics": [
    "Lịch Sử Hội Thánh",
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-778-in-search-of-the-golden-strand-living-together-wel-davis",
-  "short": "Trong Tìm Kiếm Sợi Chỉ Vàng:",
-  "author": "Dean Davis",
-  "slug": "mg1-778-in-search-of-the-golden-strand-living-together-wel-davis",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Tín Điều",
-   "Ân Điển"
   ],
   "review_status": "ai-draft"
  },
@@ -24773,19 +24222,6 @@
   "length": "vua",
   "topics": [
    "Chúa Giê-xu Christ"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-807-love-god-with-all-your-mind-an-outline-of-the-chri-everhard",
-  "short": "Yêu Đức Chúa Trời Bằng Cả",
-  "author": "Matthew Everhard",
-  "slug": "mg1-807-love-god-with-all-your-mind-an-outline-of-the-chri-everhard",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Chúa Trời",
-   "Đức Tin"
   ],
   "review_status": "ai-draft"
  },
@@ -25061,18 +24497,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-877-reading-original-sin-a-study-guide-on-the-nature-o-biehl",
-  "short": "Đọc Hiểu Tội Nguyên Thủy: Hướng",
-  "author": "Craig Biehl",
-  "slug": "mg1-877-reading-original-sin-a-study-guide-on-the-nature-o-biehl",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-879-real-thankfulness-sermons-ebook-ashe",
   "short": "Lòng Biết Ơn Chân Thật",
   "author": "Simeon Ashe",
@@ -25094,18 +24518,6 @@
   "topics": [
    "Chức Vụ",
    "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-884-response-to-merit-and-moses-a-critique-of-the-klin-irons",
-  "short": "Phúc Đáp Merit And Moses: Phê",
-  "author": "Lee Irons",
-  "slug": "mg1-884-response-to-merit-and-moses-a-critique-of-the-klin-irons",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
   ],
   "review_status": "ai-draft"
  },
@@ -25227,19 +24639,6 @@
   "length": "dai",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-918-souls-how-jesus-saves-sinners-reformed-theology-eb-everhard",
-  "short": "Linh Hồn: Chúa Giê-xu Cứu Kẻ",
-  "author": "Matthew Everhard",
-  "slug": "mg1-918-souls-how-jesus-saves-sinners-reformed-theology-eb-everhard",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Chúa Giê-xu Christ",
-   "Sự Cứu Rỗi"
   ],
   "review_status": "ai-draft"
  },
@@ -25397,20 +24796,6 @@
   "length": "vua",
   "topics": [
    "Sự Thánh Khiết"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-959-the-biblical-doctrine-of-regeneration-reformed-the-hendryx",
-  "short": "Giáo Lý Kinh Thánh Về Sự",
-  "author": "John Hendryx",
-  "slug": "mg1-959-the-biblical-doctrine-of-regeneration-reformed-the-hendryx",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh",
-   "Tín Điều",
-   "Sự Cứu Rỗi"
   ],
   "review_status": "ai-draft"
  },
@@ -26070,18 +25455,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-1125-the-practical-implications-of-calvinism-reformed-t-martin",
-  "short": "Những Hàm Ý Thực Tiễn Của",
-  "author": "Albert N. Martin",
-  "slug": "mg1-1125-the-practical-implications-of-calvinism-reformed-t-martin",
-  "level": 2,
-  "length": "ngan",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-1128-the-psalms-of-david-imitated-in-the-language-of-th-watts",
   "short": "Thi Thiên Của Đa-vít: Phỏng Theo",
   "author": "Isaac Watts",
@@ -26597,19 +25970,6 @@
   "length": "ngan",
   "topics": [
    "Tín Điều"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-1256-where-sovereignty-meets-salvation-an-introduction-smalling",
-  "short": "Nơi Quyền Tối Thượng Gặp Gỡ",
-  "author": "Roger Smalling",
-  "slug": "mg1-1256-where-sovereignty-meets-salvation-an-introduction-smalling",
-  "level": 3,
-  "length": "vua",
-  "topics": [
-   "Lịch Sử Hội Thánh",
-   "Sự Cứu Rỗi"
   ],
   "review_status": "ai-draft"
  },
@@ -29539,102 +28899,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-333-bart-ehrman-reformed-theology-ebook-hays",
-  "short": "Bart Ehrman",
-  "author": "Steve Hays",
-  "slug": "mg1-333-bart-ehrman-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-334-biblical-calvinism-reformed-theology-ebook-hays",
-  "short": "Thuyết Calvin Theo Kinh Thánh",
-  "author": "Steve Hays",
-  "slug": "mg1-334-biblical-calvinism-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-339-faith-and-science-reformed-theology-ebook-hays",
-  "short": "Đức Tin Và Khoa Học",
-  "author": "Steve Hays",
-  "slug": "mg1-339-faith-and-science-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-340-genesis-biblical-studies-ebook-hays",
-  "short": "Sáng Thế Ký",
-  "author": "Steve Hays",
-  "slug": "mg1-340-genesis-biblical-studies-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-345-pilgrim-through-this-barren-land-hays",
-  "short": "Khách Hành Hương Qua Miền Đất",
-  "author": "Steve Hays",
-  "slug": "mg1-345-pilgrim-through-this-barren-land-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-346-prophecy-biblical-studies-ebook-hays",
-  "short": "Lời Tiên Tri",
-  "author": "Steve Hays",
-  "slug": "mg1-346-prophecy-biblical-studies-ebook-hays",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-351-the-resurrection-of-the-body-reformed-theology-ebo-hays",
-  "short": "Sự Sống Lại Của Thân Thể",
-  "author": "Steve Hays",
-  "slug": "mg1-351-the-resurrection-of-the-body-reformed-theology-ebo-hays",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Tín Điều"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-352-theodicy-reformed-theology-ebook-hays",
-  "short": "Thần Chính Luận",
-  "author": "Steve Hays",
-  "slug": "mg1-352-theodicy-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-357-a-golden-chain-reformed-theology-ebook-perkins",
   "short": "Một Chuỗi Vàng",
   "author": "William Perkins",
@@ -30385,18 +29649,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-560-a-study-guide-to-charity-and-its-fruits-reformed-t-biehl",
-  "short": "Hướng Dẫn Nghiên Cứu Về Tình",
-  "author": "Craig Biehl",
-  "slug": "mg1-560-a-study-guide-to-charity-and-its-fruits-reformed-t-biehl",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-562-a-survey-of-the-summe-of-church-discipline-reforme-hooker",
   "short": "Khảo Sát Về Tổng Luận Của",
   "author": "Thomas Hooker",
@@ -30604,32 +29856,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-625-authentic-christianity-puritan-voices-on-genuine-f-sturgill",
-  "short": "Cơ Đốc Giáo Chân Chính: Tiếng",
-  "author": "Aaron Sturgill",
-  "slug": "mg1-625-authentic-christianity-puritan-voices-on-genuine-f-sturgill",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Lịch Sử Hội Thánh",
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-626-basics-of-the-reformed-faith-reformed-theology-ebo-riddlebarger",
-  "short": "Những Nét Cơ Bản Của Đức",
-  "author": "Kim Riddlebarger",
-  "slug": "mg1-626-basics-of-the-reformed-faith-reformed-theology-ebo-riddlebarger",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Lịch Sử Hội Thánh",
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-631-brief-thoughts-concerning-the-gospel-reformed-theo-pike",
   "short": "Những Suy Nghĩ Ngắn Gọn Về",
   "author": "Samuel Pike",
@@ -30816,18 +30042,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-675-covenant-theology-101-covenant-breakers-and-the-co-hyde",
-  "short": "Thần Học Giao Ước 101: Những",
-  "author": "Daniel R. Hyde",
-  "slug": "mg1-675-covenant-theology-101-covenant-breakers-and-the-co-hyde",
-  "level": 3,
-  "length": "vua",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-680-death-disarmed-of-its-sting-from-several-considera-hopkins",
   "short": "Sự Chết Bị Tước Nọc Độc",
   "author": "Ezekiel Hopkins",
@@ -30849,18 +30063,6 @@
   "length": "dai",
   "topics": [
    "Hội Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-688-dispensationalism-today-yesterday-and-tomorrow-ref-gunn",
-  "short": "Thuyết Thời Kỳ Hôm Nay, Hôm",
-  "author": "Grover E. Gunn III",
-  "slug": "mg1-688-dispensationalism-today-yesterday-and-tomorrow-ref-gunn",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
   ],
   "review_status": "ai-draft"
  },
@@ -30922,30 +30124,6 @@
   "length": "dai",
   "topics": [
    "Phúc Âm"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-711-exposition-of-the-epistle-to-the-romans-916-bible-duncan",
-  "short": "Bình Giải Thư Gửi Người Rô-ma",
-  "author": "J. Ligon Duncan",
-  "slug": "mg1-711-exposition-of-the-epistle-to-the-romans-916-bible-duncan",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-710-exposition-of-the-epistle-to-the-romans-18-bible-c-duncan",
-  "short": "Bình Giải Thư Gửi Người Rô-ma",
-  "author": "J. Ligon Duncan",
-  "slug": "mg1-710-exposition-of-the-epistle-to-the-romans-18-bible-c-duncan",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh"
   ],
   "review_status": "ai-draft"
  },
@@ -31021,19 +30199,6 @@
   "length": "dai",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-734-glorious-institution-the-church-in-history-vols-12-murrell",
-  "short": "Thể Chế Vinh Hiển: Hội Thánh",
-  "author": "Stanford E. Murrell",
-  "slug": "mg1-734-glorious-institution-the-church-in-history-vols-12-murrell",
-  "level": 3,
-  "length": "dai",
-  "topics": [
-   "Lịch Sử Hội Thánh",
-   "Hội Thánh"
   ],
   "review_status": "ai-draft"
  },
@@ -31207,18 +30372,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "mg1-777-in-search-for-the-beginning-a-seekers-journey-to-t-davis",
-  "short": "Tìm Kiếm Khởi Nguyên: Hành Trình",
-  "author": "Dean Davis",
-  "slug": "mg1-777-in-search-for-the-beginning-a-seekers-journey-to-t-davis",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "mg1-783-john-bale-in-ireland-an-account-of-reformation-and-bale",
   "short": "John Bale Tại Ireland: Một Bản",
   "author": "John Bale",
@@ -31275,18 +30428,6 @@
   "slug": "mg1-796-lex-rex-reformed-theology-ebook-rutherford",
   "level": 2,
   "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-808-mans-will-free-yet-bound-reformed-theology-ebook-chantry",
-  "short": "Ý Chí Con Người — Tự",
-  "author": "Walter J. Chantry",
-  "slug": "mg1-808-mans-will-free-yet-bound-reformed-theology-ebook-chantry",
-  "level": 2,
-  "length": "ngan",
   "topics": [
    "Đức Tin"
   ],
@@ -31545,20 +30686,6 @@
   "length": "dai",
   "topics": [
    "Cầu Nguyện"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "mg1-872-preparing-for-marriage-biblical-guidance-from-the-beeke",
-  "short": "Chuẩn Bị Cho Hôn Nhân: Sự",
-  "author": "James A. La Belle & Joel R. Beeke",
-  "slug": "mg1-872-preparing-for-marriage-biblical-guidance-from-the-beeke",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Hôn Nhân",
-   "Kinh Thánh",
-   "Lịch Sử Hội Thánh"
   ],
   "review_status": "ai-draft"
  },
@@ -31878,18 +31005,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "317",
-  "short": "Các Thuộc Tính Của Đức Chúa",
-  "author": "Sam Storms",
-  "slug": "mg1-954-the-attributes-of-god-reformed-theology-ebook-storms",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Chúa Trời"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "318",
   "short": "Thẩm Quyền Và Quyền Năng Của",
   "author": "J. C. Philpot",
@@ -31970,18 +31085,6 @@
   "length": "dai",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "324",
-  "short": "Chính Điển Của Kinh Thánh",
-  "author": "Samuel Waldron",
-  "slug": "mg1-969-the-canon-of-scripture-reformed-theology-ebook-waldron",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh"
   ],
   "review_status": "ai-draft"
  },
@@ -32157,18 +31260,6 @@
   "review_status": "ai-draft"
  },
  {
-  "id": "341",
-  "short": "Sự Kết Thúc Của Chủ Nghĩa",
-  "author": "Steve Hays & Jason Engwer",
-  "slug": "mg1-1026-the-end-of-infidelity-reformed-theology-ebook-hays",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
   "id": "342",
   "short": "Những Người Thanh Giáo Anh",
   "author": "John Brown",
@@ -32238,18 +31329,6 @@
   "length": "dai",
   "topics": [
    "Đức Thánh Linh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "348",
-  "short": "Cốt Lõi Của Khả Huyền: Tổng",
-  "author": "Dean Davis",
-  "slug": "mg1-1043-the-gist-of-the-revelation-an-amillennial-overview-davis",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Kinh Thánh"
   ],
   "review_status": "ai-draft"
  },
@@ -32496,18 +31575,6 @@
   "length": "dai",
   "topics": [
    "Kinh Thánh"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "369",
-  "short": "Phúc Âm Xã Hội Tân Tin",
-  "author": "Roger Smalling, Dianne Smalling",
-  "slug": "mg1-1108-the-new-evangelical-social-gospel-reformed-theolog-smalling",
-  "level": 2,
-  "length": "vua",
-  "topics": [
-   "Phúc Âm"
   ],
   "review_status": "ai-draft"
  },
@@ -33367,18 +32434,6 @@
   "length": "dai",
   "topics": [
    "Đức Tin"
-  ],
-  "review_status": "ai-draft"
- },
- {
-  "id": "w1-r0437",
-  "short": "Quyền Trưởng Nam Của Chúng Ta",
-  "author": "Jan Karel Van Baalen",
-  "slug": "w1-r0437",
-  "level": 2,
-  "length": "dai",
-  "topics": [
-   "Tín Điều"
   ],
   "review_status": "ai-draft"
  },
