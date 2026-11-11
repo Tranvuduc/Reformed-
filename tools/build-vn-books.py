@@ -108,8 +108,8 @@ FOOTER = ('<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">M�
           '<a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · '
           '<a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · '
           '<a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</footer>')
-THEME_BOOT = '<script>try{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>'
-THEME_TOGGLE = '<script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script>'
+THEME_BOOT = '<script>try{var _t=localStorage.getItem("rv.theme")||localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>'
+THEME_TOGGLE = '<script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,d=h.getAttribute("data-theme")==="dark"||(!h.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches),c=d?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c);localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script>'
 # Slugs that also have a bai-giang/ teaser page (H4 cross-link; the other 2 doc/
 # sermons have no teaser, so no back-link is emitted for them).
 BAI_GIANG = {

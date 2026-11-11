@@ -2,7 +2,7 @@
 <title>Lọc sách theo chủ đề, cấp độ, độ dài | Reformed Vietnam</title><meta name="description" content="Lọc 2.863 sách Cải Chánh tiếng Việt theo chủ đề, cấp độ (Mới tin Chúa / Đang lớn lên / Học sâu) và độ dài."><link rel="canonical" href="https://reformedvietnam.com/loc-sach.html">
 <meta property="og:type" content="article"><meta property="og:title" content="Lọc sách theo chủ đề, cấp độ, độ dài | Reformed Vietnam"><meta property="og:description" content="Lọc 2.863 sách Cải Chánh tiếng Việt theo chủ đề, cấp độ và độ dài."><meta property="og:url" content="https://reformedvietnam.com/loc-sach.html"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<script>try{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
+<script>try{var _t=localStorage.getItem("rv.theme")||localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
 <style>:root{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--card:#fffdf7;--line:#e3d3b6}@media (prefers-color-scheme:dark){:root{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--card:#241f17;--line:#3a3325}}html[data-theme=dark]{--bg:#1b1712;--fg:#e9e1cd;--mut:#a79b82;--acc:#d97b4a;--card:#241f17;--line:#3a3325}html[data-theme=light]{--bg:#f4efe4;--fg:#26211a;--mut:#6f665a;--acc:#9a3412;--card:#fffdf7;--line:#e3d3b6}</style>
 <link rel="stylesheet" href="/s.css?v=20261105">
 <style>
@@ -42,7 +42,7 @@
 </div>
 <footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</footer>
 </main>
-<script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script>
+<script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,d=h.getAttribute("data-theme")==="dark"||(!h.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches),c=d?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c);localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script>
 <script>(function(){
 var LEVELS={1:"Mới tin Chúa",2:"Đang lớn lên",3:"Học sâu"};
 var LENGTHS={ngan:"Sách ngắn (dưới 1 giờ)",vua:"Dài vừa",dai:"Rất dài"};

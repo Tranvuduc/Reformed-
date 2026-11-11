@@ -20,7 +20,7 @@
 <meta name="twitter:image" content="https://reformedvietnam.com/bia-sach/westminster-shorter.webp">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 
-<script>try{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
+<script>try{var _t=localStorage.getItem("rv.theme")||localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
 <link rel="stylesheet" href="/s.css?v=20261110">
 <style>
 .book-top{display:flex;gap:1.5rem;margin:1.5rem 0}
@@ -97,5 +97,5 @@
 
 <p><a href="/sach-nen-doc.html">← Về danh sách 30 cuốn nên đọc</a></p>
 <footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</footer></main>
-<script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script></body>
+<script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,d=h.getAttribute("data-theme")==="dark"||(!h.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches),c=d?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c);localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script></body>
 </html>

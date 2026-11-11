@@ -526,7 +526,7 @@
       .band-tint { background: color-mix(in srgb, var(--burgundy) 6%, var(--surface)); border-top: 2px solid var(--gold-soft); border-radius: 10px; padding: 14px 16px 6px; margin-top: 14px; }
 </style>
 <meta name="theme-color" content="#9a3412" />
-<script>try{var _t=localStorage.getItem("rv.theme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
+<script>try{var _t=localStorage.getItem("rv.theme")||localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
 </head>
 <body id="top">
 <header class="site">
@@ -673,6 +673,6 @@
     }).catch(function () {});
   })();
 </script>
-<script>(function(){var b=document.getElementById("themeBtn");if(!b)return;b.onclick=function(){var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c)}catch(e){}var mc=document.querySelector('meta[name="theme-color"]');if(mc)mc.setAttribute("content",c==="dark"?"#14171c":"#9a3412")}}})();</script>
+<script>(function(){var b=document.getElementById("themeBtn");if(!b)return;b.onclick=function(){var h=document.documentElement,d=h.getAttribute("data-theme")==="dark"||(!h.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches),c=d?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c);localStorage.setItem("rv.ptheme",c)}catch(e){}var mc=document.querySelector('meta[name="theme-color"]');if(mc)mc.setAttribute("content",c==="dark"?"#14171c":"#9a3412")}})();</script>
 </body>
 </html>

@@ -9,7 +9,7 @@
 <meta property="og:url" content="https://reformedvietnam.com/sach-nen-doc.html">
 <meta property="og:image" content="https://reformedvietnam.com/og.jpg">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<script>try{var _t=localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
+<script>try{var _t=localStorage.getItem("rv.theme")||localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>
 <style>
 :root{--bg:#f4efe4;--fg:#1d2430;--mut:#5a5f68;--acc:#9a3412;--gold:#d99a1e;--card:#fffdf8;--line:#e0d8c6}
 @media(prefers-color-scheme:dark){:root{--bg:#14171c;--fg:#ece7dc;--mut:#9a9ea6;--acc:#e58a5b;--card:#1c2027;--line:#2c323b}}
@@ -220,4 +220,4 @@ h1{font-size:2.2rem;margin:.2em 0;text-align:center}
 </div>
 
 <footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</footer>
-</main><script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script></body></html>
+</main><script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,d=h.getAttribute("data-theme")==="dark"||(!h.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches),c=d?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c);localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script></body></html>
