@@ -105,6 +105,26 @@ for key, v in cs.items():
         f"/kinh-thanh/{bid}/{ch}.html", "Kinh Thánh", v.get("summary_vi", ""))
 print(f"bible indexed: {len(books66)} books + {len(cs)} chapters")
 
+# ---- Phase 4: Bible study (characters, topics, book intros, timeline, maps) ----
+nv = json.loads((ROOT / "data/nhanvat.json").read_text(encoding="utf-8"))
+for e in nv:
+    add(e["name"], "Nhân vật Kinh Thánh", f"/nhan-vat/{e['id']}.html", "Kinh Thánh", e.get("bio", ""))
+tp = json.loads((ROOT / "data/topics.json").read_text(encoding="utf-8"))
+for e in tp:
+    add(e["title"], "Chủ đề Kinh Thánh", f"/chu-de-kinh-thanh/{e['id']}.html", "Kinh Thánh", e.get("intro", ""))
+for b in books66:
+    nch, nver = len(b["nc"]), sum(b["nc"])
+    add(f"Giới thiệu sách {b['name']}", f"Giới thiệu sách · {nch} chương · {nver} câu",
+        f"/kinh-thanh/gioi-thieu/{b['id']}.html", "Kinh Thánh",
+        cs.get(f"{b['id']}:1", {}).get("summary_vi", ""))
+add("Nhân vật Kinh Thánh", "50 nhân vật · A-đam đến Giu-đa", "/nhan-vat/", "Kinh Thánh")
+add("Chủ đề Kinh Thánh", "20 chủ đề · Năm Sola · TULIP · Đời sống Cơ Đốc", "/chu-de-kinh-thanh/", "Kinh Thánh")
+add("Giới thiệu các sách Kinh Thánh", "66 sách · tóm tắt từng chương", "/kinh-thanh/gioi-thieu/", "Kinh Thánh")
+add("Dòng thời gian Kinh Thánh", "Từ Áp-ra-ham đến Khải Huyền", "/dong-thoi-gian-kinh-thanh.html", "Kinh Thánh")
+add("Bản đồ & hành trình Kinh Thánh", "Xuất Hành · Ca-na-an · Ga-li-lê · Phao-lô · Giê-ru-sa-lem", "/ban-do-kinh-thanh.html", "Kinh Thánh")
+add("Nghiên cứu Kinh Thánh", "Nhân vật · Chủ đề · Giới thiệu sách · Dòng thời gian · Bản đồ", "/nghien-cuu-kinh-thanh.html", "Kinh Thánh")
+print(f"study indexed: {len(nv)} characters + {len(tp)} topics + {len(books66)} book intros + 6 hub pages")
+
 # ---- catechism ----
 cat = json.loads((ROOT / "data/catechism-wsc.json").read_text(encoding="utf-8"))
 for q in cat["questions"]:
