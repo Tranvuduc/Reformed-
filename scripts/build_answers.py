@@ -15,6 +15,7 @@ redirected to /hoi-dap/ in vercel.json.
 import json, re, sys, html, pathlib
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from booklinks import resolve as resolve_books
+from topic_map import topic_for_answer, topic_name, LOCI
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"
@@ -75,8 +76,12 @@ for a in raw:
         "related_books": a["related_books"],
         "related_books_resolved": resolve_books(a["related_books"]),
         "review_status": "ai-unreviewed",
+        # Phase 2, item 2.5 (2026-11-11): topic = locus of the first related
+        # encyclopedia entry (scripts/topic_map.py, with curated overrides).
+        "topic": topic_for_answer(a),
     })
 print("all refs resolved; all encyclopedia links valid")
+print("topics assigned:", {t: sum(1 for e in entries if e['topic'] == t) for t in sorted({e['topic'] for e in entries})})
 
 (ROOT / "data/answers.json").write_text(json.dumps({
     "module": "reformed-answers",
@@ -141,6 +146,18 @@ EXTRA_CSS = """
       .dropcap > p:first-of-type::first-letter { font-family: "Playfair Display", serif; font-weight: 700; font-size: 3.05em; float: left; line-height: .8; padding: 5px 10px 0 0; color: var(--burgundy); }
       .qa-card { display: flex; gap: 16px; align-items: flex-start; }
       .qa-medal { flex: 0 0 auto; width: 46px; height: 46px; border-radius: 50%; background: var(--burgundy); color: #fdf6e9; font-family: "Playfair Display", serif; font-weight: 700; font-size: 24px; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
+"""
+# Phase 2, item 2.5: topic-grouped landing — landing-only CSS. It lives
+# outside EXTRA_CSS on purpose: EXTRA_CSS is shared by all 95 detail
+# pages, which do not use .cat-band, so putting it there would dirty
+# every detail page on every rebuild. Injected into the landing only.
+LANDING_CSS = """
+      /* ---------- Phase 2, item 2.5: topic-grouped landing ---------- */
+      .cat-band { max-width: 860px; margin: 28px auto 0; }
+      .cat-band-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; border-bottom: 2px solid var(--gold-soft); padding-bottom: 6px; margin-bottom: 12px; }
+      .cat-band-head h3 { font-family: "Playfair Display", serif; font-size: 21px; margin: 0; }
+      .cat-band-head .rng { color: var(--gold-text); font-weight: 700; font-size: 13px; letter-spacing: .05em; }
+      .cat-band .qa-cards { max-width: none; margin: 0; }
 """
 
 MINI_JS = """
@@ -259,9 +276,26 @@ for e in entries:
     (OUT / f"{e['slug']}.html").write_text(page, encoding="utf-8")
 print("5 answer pages written")
 
-cards = "".join(
-    f'<a class="qa-card" href="/hoi-dap/{e["slug"]}.html"><span class="qa-medal">?</span><span><h3>{esc(e["question_vi"])}</h3><p>{esc(e["answer_short_vi"][:150])}…</p></span></a>'
-    for e in entries)
+def qa_card(e):
+    return (f'<a class="qa-card" href="/hoi-dap/{e["slug"]}.html"><span class="qa-medal">?</span>'
+            f'<span><h3>{esc(e["question_vi"])}</h3><p>{esc(e["answer_short_vi"][:150])}…</p></span></a>')
+
+# Phase 2, item 2.5 (2026-11-11): group the landing cards by topic
+# (encyclopedia locus of each question's first related entry). Groups are
+# ordered largest-first; questions keep their original order inside a group.
+_grouped = {}
+for _e in entries:
+    _grouped.setdefault(_e["topic"], []).append(_e)
+_topic_order = sorted(_grouped, key=lambda t: (-len(_grouped[t]), topic_name(t)))
+_topic_nav = "".join(
+    f'<a class="btn" href="#chu-de-{t}">{topic_name(t)} ({len(_grouped[t])})</a>'
+    for t in _topic_order)
+cards = ""
+for _t in _topic_order:
+    _cards = "".join(qa_card(_e) for _e in _grouped[_t])
+    cards += (f'<section class="cat-band" id="chu-de-{_t}"><div class="cat-band-head">'
+              f'<h3>{topic_name(_t)}</h3><span class="rng">{len(_grouped[_t])} câu hỏi</span></div>'
+              f'<div class="qa-cards">\n{_cards}\n</div></section>')
 landing = f"""{head("Hỏi Đáp Cải Chánh — Giải đáp thắc mắc đức tin | Reformed Vietnam",
                      "Những câu hỏi thường gặp về đức tin Cải Chánh — tiền định, cầu nguyện, xưng công chính — được trả lời ngắn gọn, dễ hiểu, có căn cứ Kinh Thánh.", BASE + "/hoi-dap/")}
 <body id="top">
@@ -271,18 +305,20 @@ landing = f"""{head("Hỏi Đáp Cải Chánh — Giải đáp thắc mắc đ�
   <div class="cat-head">
     <div class="kicker">Hỏi Đáp Cải Chánh</div>
     <h1>Thắc mắc về đức tin, trả lời dễ hiểu</h1>
-    <p style="max-width:620px;margin:0 auto;color:var(--ink-soft)">Mỗi câu hỏi có một câu trả lời ngắn đọc ngay được, phần giải thích đầy đủ hơn, và các câu Kinh Thánh căn cứ. Danh sách câu hỏi sẽ tiếp tục được bổ sung.</p>
+    <p style="max-width:620px;margin:0 auto;color:var(--ink-soft)">Mỗi câu hỏi có một câu trả lời ngắn đọc ngay được, phần giải thích đầy đủ hơn, và các câu Kinh Thánh căn cứ. Các câu hỏi được xếp theo chủ đề — chọn một chủ đề để bắt đầu. Danh sách câu hỏi sẽ tiếp tục được bổ sung.</p>
     <p style="margin-top:10px"><span class="ai-label">Nội dung AI soạn, chưa duyệt</span></p>
   </div>
-  <div class="qa-cards">
+  <div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center;max-width:860px;margin:18px auto 6px">{_topic_nav}</div>
 {cards}
-  </div>
   <p style="text-align:center;color:var(--ink-soft);font-size:13px;margin:26px 0 34px">Bạn có câu hỏi khác? Gửi về <a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a> — những câu hỏi hay sẽ được bổ sung vào trang này.</p>
 </main>
 {footer}
 {MINI_JS}
 </body>
 </html>"""
+# Landing-only CSS (see LANDING_CSS above): inject into the landing's <style>
+# block so the 95 detail pages are not dirtied by a rule they never use.
+landing = landing.replace("</style>", LANDING_CSS + "</style>", 1)
 (OUT / "index.html").write_text(landing, encoding="utf-8")
 print("landing page written")
 

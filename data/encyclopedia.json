@@ -67,7 +67,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "an-nan",
@@ -130,7 +133,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "anh-sang",
@@ -181,7 +187,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "ba-ngoi",
@@ -244,7 +253,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "banh-su-song",
@@ -292,7 +304,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "bap-tem",
@@ -355,7 +370,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "ben-do",
@@ -413,7 +431,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "binh-an",
@@ -469,7 +490,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "cau-nguyen",
@@ -540,7 +564,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "ca-ngoi",
@@ -594,7 +621,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "cai-chanh",
@@ -658,7 +688,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "lich-su"
+   ]
   },
   {
    "slug": "cam-thuc",
@@ -713,7 +746,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "chap-su",
@@ -766,7 +802,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "chien-con-cua-duc-chua-troi",
@@ -821,7 +860,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "chinh-dien",
@@ -876,7 +918,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "chung-nhan",
@@ -929,7 +974,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "chua-gie-xu",
@@ -992,7 +1040,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "con-duc-chua-troi",
@@ -1048,7 +1099,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "con-nguoi",
@@ -1103,7 +1157,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "con-thanh-no-cua-duc-chua-troi",
@@ -1162,7 +1219,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "cuu-uoc",
@@ -1213,7 +1273,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "cua-le",
@@ -1268,7 +1331,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "cua-le-thieu",
@@ -1317,7 +1383,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "dang-hien",
@@ -1363,7 +1432,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "danh-duc-chua-troi",
@@ -1418,7 +1490,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "dau-hieu-thoi-cuoi",
@@ -1479,7 +1554,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "duy-an-dien",
@@ -1539,7 +1617,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "duy-dang-christ",
@@ -1602,7 +1683,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "duy-duc-tin",
@@ -1666,7 +1750,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "duy-kinh-thanh",
@@ -1729,7 +1816,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "dang-chan-chien",
@@ -1787,7 +1877,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "dang-christ",
@@ -1850,7 +1943,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "dang-trung-bao",
@@ -1913,7 +2009,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "dang-yen-ui",
@@ -1970,7 +2069,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-thanh-linh"
+   ]
   },
   {
    "slug": "dat-hua",
@@ -2026,7 +2128,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "da-goc-nha",
@@ -2082,7 +2187,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "dai-mang-lenh",
@@ -2136,7 +2244,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "dai-nan",
@@ -2192,7 +2303,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "den-tam",
@@ -2242,7 +2356,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "den-tho",
@@ -2296,7 +2413,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "dia-nguc",
@@ -2354,7 +2474,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "doi-doi",
@@ -2416,7 +2539,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "doi-song-moi",
@@ -2479,7 +2605,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "dong-vang",
@@ -2535,7 +2664,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "duc-chua-cha",
@@ -2598,7 +2730,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "duc-chua-con",
@@ -2661,7 +2796,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "duc-chua-troi",
@@ -2726,7 +2864,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "duc-thanh-linh",
@@ -2786,7 +2927,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-thanh-linh"
+   ]
   },
   {
    "slug": "duc-tin",
@@ -2845,7 +2989,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "giao-uoc",
@@ -2904,7 +3051,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "giao-uoc-an-dien",
@@ -2972,7 +3122,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "giao-uoc-moi",
@@ -3035,7 +3188,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "giao-uoc-viec-lam",
@@ -3098,7 +3254,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "gia-dinh",
@@ -3162,7 +3321,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "giet-nguoi",
@@ -3223,7 +3385,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "gie-ru-sa-lem",
@@ -3275,7 +3440,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "guom-cua-thanh-linh",
@@ -3339,7 +3507,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-thanh-linh"
+   ]
   },
   {
    "slug": "hieu-kinh-cha-me",
@@ -3403,7 +3574,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "hon-nhan",
@@ -3467,7 +3641,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "hom-giao-uoc",
@@ -3519,7 +3696,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "hoi-thanh",
@@ -3586,7 +3766,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "hoi-thanh-dau-tien",
@@ -3646,7 +3829,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "huyet",
@@ -3710,7 +3896,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "hy-vong",
@@ -3769,7 +3958,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "ke-chong-dang-christ",
@@ -3825,7 +4017,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "khiem-nhuong",
@@ -3888,7 +4083,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "khong-sai-lam",
@@ -3956,7 +4154,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "kieng-an",
@@ -4015,7 +4216,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "le-vuot-qua",
@@ -4078,7 +4282,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "le-that",
@@ -4142,7 +4349,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "linh-hon",
@@ -4206,7 +4416,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "long",
@@ -4270,7 +4483,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "long-thuong-xot",
@@ -4333,7 +4549,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "lua-thanh",
@@ -4387,7 +4606,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "luat-phap",
@@ -4456,7 +4678,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "luong-tam",
@@ -4514,7 +4739,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "ma-na",
@@ -4570,7 +4798,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "ma-quy",
@@ -4624,7 +4855,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "mac-khai",
@@ -4679,7 +4913,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "mon-do",
@@ -4737,7 +4974,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "nam-sola",
@@ -4797,7 +5037,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "lich-su"
+   ]
   },
   {
    "slug": "ngay-sa-bat",
@@ -4858,7 +5101,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "ngoai-tinh",
@@ -4909,7 +5155,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "ngoi-loi",
@@ -4968,7 +5217,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "nhan-tinh-cua-dang-christ",
@@ -5027,7 +5279,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "nhin-nhuc",
@@ -5085,7 +5340,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "noi-an-nau",
@@ -5143,7 +5401,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "nuoc-duc-chua-troi",
@@ -5198,7 +5459,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "nuoc-hang-song",
@@ -5252,7 +5516,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "nui-si-na-i",
@@ -5306,7 +5573,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "nui-si-on",
@@ -5354,7 +5624,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "phep-la",
@@ -5409,7 +5682,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "phuoc-hanh",
@@ -5463,7 +5739,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "phuc-am",
@@ -5523,7 +5802,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "quy-linh",
@@ -5577,7 +5859,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "song-gio-danh",
@@ -5629,7 +5914,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "su-ben-do-cua-cac-thanh-do",
@@ -5687,7 +5975,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-bien-hoa",
@@ -5745,7 +6036,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-biet-truoc",
@@ -5799,7 +6093,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-cat-len",
@@ -5853,7 +6150,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "su-cam-do",
@@ -5910,7 +6210,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-cao-trach",
@@ -5963,7 +6266,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-thanh-linh"
+   ]
   },
   {
    "slug": "su-chet",
@@ -6020,7 +6326,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "su-chet-thuoc-linh",
@@ -6073,7 +6382,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "su-chua-lanh",
@@ -6129,7 +6441,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-chuoc-toi",
@@ -6186,7 +6501,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-chuoc-toi-dac-biet",
@@ -6249,7 +6567,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-cong-chinh",
@@ -6306,7 +6627,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-cung-long",
@@ -6363,7 +6687,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "su-cuu-chuoc",
@@ -6420,7 +6747,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-cuu-roi",
@@ -6479,7 +6809,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-den-toi",
@@ -6536,7 +6869,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-doan-phat",
@@ -6593,7 +6929,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "su-giai-cuu",
@@ -6652,7 +6991,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-ha-minh-phuc-vu",
@@ -6708,7 +7050,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-hien-dien-cua-duc-chua-troi",
@@ -6765,7 +7110,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-hien-thay",
@@ -6813,7 +7161,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "su-hiep-mot",
@@ -6867,7 +7218,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "su-hoa-thuan",
@@ -6923,7 +7277,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-hu-mat",
@@ -6986,7 +7343,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "su-hu-mat-hoan-toan",
@@ -7043,7 +7403,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "su-keu-goi",
@@ -7106,7 +7469,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-ky-luat-cua-chua",
@@ -7162,7 +7528,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-ky-luat-hoi-thanh",
@@ -7216,7 +7585,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "su-liem-chinh",
@@ -7272,7 +7644,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-mau-nhiem",
@@ -7329,7 +7704,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-nen-thanh",
@@ -7386,7 +7764,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-ngoi-khen",
@@ -7442,7 +7823,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "su-nhan-tu",
@@ -7498,7 +7882,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-nhan-lam-con-nuoi",
@@ -7554,7 +7941,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-nhap-the",
@@ -7611,7 +8001,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "su-o-ue",
@@ -7664,7 +8057,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "su-phan-xet-cuoi-cung",
@@ -7721,7 +8117,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "su-phuc-sinh",
@@ -7778,7 +8177,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "su-phuc-sinh-than-the",
@@ -7834,7 +8236,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "su-phuc-vu",
@@ -7891,7 +8296,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-quan-phong",
@@ -7950,7 +8358,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-sa-nga",
@@ -8007,7 +8418,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "su-sang-to-cua-kinh-thanh",
@@ -8064,7 +8478,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "su-song-doi-doi",
@@ -8123,7 +8540,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-tai-lam",
@@ -8180,7 +8600,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "su-tai-sinh",
@@ -8237,7 +8660,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-te-tri",
@@ -8296,7 +8722,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-thang-thien",
@@ -8352,7 +8781,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "su-tha-thu",
@@ -8409,7 +8841,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-thanh-tin",
@@ -8467,7 +8902,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-thanh-khiet",
@@ -8524,7 +8962,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-thong-cong",
@@ -8580,7 +9021,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "su-tho-phuong",
@@ -8637,7 +9081,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "su-tho-phuong-chung",
@@ -8694,7 +9141,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "su-tho-phuong-tren-troi",
@@ -8748,7 +9198,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "su-tien-dinh",
@@ -8807,7 +9260,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-tiet-do",
@@ -8861,7 +9317,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-trung-tin",
@@ -8915,7 +9374,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-truong-thanh-thuoc-linh",
@@ -8972,7 +9434,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-tuyen-chon",
@@ -9032,7 +9497,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-tuyen-chon-vo-dieu-kien",
@@ -9091,7 +9559,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-tu-dao",
@@ -9141,7 +9612,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-tu-huu",
@@ -9197,7 +9671,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-vang-loi",
@@ -9254,7 +9731,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-vinh-hien",
@@ -9310,7 +9790,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "su-vinh-hien-hoa",
@@ -9367,7 +9850,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "su-vui-mung",
@@ -9426,7 +9912,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "su-xac-chung-cua-thanh-linh",
@@ -9483,7 +9972,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-thanh-linh"
+   ]
   },
   {
    "slug": "tam-tri-moi",
@@ -9540,7 +10032,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "tan-uoc",
@@ -9597,7 +10092,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "ta-dam",
@@ -9649,7 +10147,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "tham-lam",
@@ -9705,7 +10206,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "than-hoc-cai-chanh",
@@ -9764,7 +10268,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "lich-su"
+   ]
   },
   {
    "slug": "than-hoc-giao-uoc",
@@ -9827,7 +10334,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "than-tinh-cua-dang-christ",
@@ -9892,7 +10402,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "thanh-le",
@@ -9949,7 +10462,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "thap-tu-gia",
@@ -10007,7 +10523,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "thien-dang",
@@ -10070,7 +10589,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "thien-su",
@@ -10122,7 +10644,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "thoi-ky-cuoi-cung",
@@ -10176,7 +10701,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "tho-hinh-tuong",
@@ -10226,7 +10754,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "tien-bac",
@@ -10276,7 +10807,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "tien-tri",
@@ -10329,7 +10863,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "chua-gie-xu"
+   ]
   },
   {
    "slug": "tiec-thanh",
@@ -10382,7 +10919,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "tinh-yeu-thuong",
@@ -10438,7 +10978,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "tin-dieu",
@@ -10491,7 +11034,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "lich-su"
+   ]
   },
   {
    "slug": "toi-tam-thuoc-linh",
@@ -10540,7 +11086,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "toi-loi",
@@ -10599,7 +11148,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "toi-pham-den-duc-thanh-linh",
@@ -10651,7 +11203,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-thanh-linh"
+   ]
   },
   {
    "slug": "toi-to-tong",
@@ -10711,7 +11266,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "troi-moi-dat-moi",
@@ -10766,7 +11324,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "tan-the"
+   ]
   },
   {
    "slug": "trom-cap",
@@ -10814,7 +11375,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "truong-lao",
@@ -10864,7 +11428,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "truyen-giao",
@@ -10920,7 +11487,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "tulip",
@@ -10987,7 +11557,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "lich-su"
+   ]
   },
   {
    "slug": "tu-do-trong-dang-christ",
@@ -11039,7 +11612,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "su-cuu-roi"
+   ]
   },
   {
    "slug": "vinh-hien-duy-duc-chua-troi",
@@ -11091,7 +11667,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "vuon-e-den",
@@ -11141,7 +11720,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "vuot-bien-do",
@@ -11194,7 +11776,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "kinh-thanh"
+   ]
   },
   {
    "slug": "xac-thit",
@@ -11247,7 +11832,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "con-nguoi"
+   ]
   },
   {
    "slug": "xuc-dau",
@@ -11290,7 +11878,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "hoi-thanh"
+   ]
   },
   {
    "slug": "xung-toi",
@@ -11338,7 +11929,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "yen-ui",
@@ -11397,7 +11991,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "doi-song"
+   ]
   },
   {
    "slug": "y-muon-cua-duc-chua-troi",
@@ -11449,7 +12046,10 @@
    "copyright": {
     "basis": "Original entry written for this site; doctrine summarised from public-domain Reformed sources",
     "checked_date": "TODO: verify"
-   }
+   },
+   "loci": [
+    "duc-chua-troi"
+   ]
   },
   {
    "slug": "xung-cong-chinh",
@@ -11532,6 +12132,9 @@
      "Đạo Lý Xưng Công Chính Bởi Đấng Christ",
      "/ban-dich/arch-gill-doctrine-justification-1730.html"
     ]
+   ],
+   "loci": [
+    "su-cuu-roi"
    ]
   }
  ]

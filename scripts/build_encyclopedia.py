@@ -201,6 +201,25 @@ if _links_path.exists():
     print(f"Round 22 cross-links applied: {_applied} entries")
 
 by_slug = {e["slug"]: e for e in entries}
+# ---- Phase 2, item 2.4 (2026-11-11): loci tags. One primary theological
+# locus per entry, from scripts/helper-data/encyclopedia-loci.json
+# (curated by the integrator from each entry's own definition). Applied
+# here so data/encyclopedia.json carries the tags; the loci index page is
+# built by scripts/build_loci.py. Fails loudly on any uncovered entry.
+_loci_path = ROOT / "scripts/helper-data/encyclopedia-loci.json"
+_loci = json.loads(_loci_path.read_text(encoding="utf-8"))
+_locus_of = {}
+for _lid, _slugs in _loci["map"].items():
+    for _s in _slugs:
+        assert _s not in _locus_of, f"duplicate locus assignment: {_s}"
+        _locus_of[_s] = _lid
+assert set(_locus_of) == {e["slug"] for e in entries}, (
+    "loci coverage mismatch: missing=",
+    sorted({e["slug"] for e in entries} - set(_locus_of)),
+    "extra=", sorted(set(_locus_of) - {e["slug"] for e in entries}))
+for _e in entries:
+    _e["loci"] = [_locus_of[_e["slug"]]]
+print(f"loci tags applied: {len(entries)} entries across {len(_loci['loci'])} loci")
 for e in entries:
     if e["related_terms"]: continue
     rel = []
@@ -440,6 +459,12 @@ landing = f"""{head(f"Bách Khoa Thần Học Cải Chánh — {len(entries)} th
   </div>
   <p id="termCount" style="text-align:center;color:var(--ink-soft);font-size:13.5px">{len(entries)} thuật ngữ</p>
   {featured_html}
+  <div class="band-tint"><h2 class="bt-head">Học theo lĩnh vực thần học</h2>
+  <p style="color:var(--ink-soft);margin:0 0 12px">201 thuật ngữ được xếp vào 10 lĩnh vực — từ Kinh Thánh, Đức Chúa Trời đến Hội Thánh và Tận Thế. Chọn một lĩnh vực để xem các thuật ngữ và sách liên quan.</p>
+  <p style="margin:0 0 6px"><a class="btn solid" href="/bach-khoa/theo-chu-de.html">Xem theo 10 lĩnh vực →</a></p></div>
+  <div class="band-tint"><h2 class="bt-head">Trung tâm giáo lý</h2>
+  <p style="color:var(--ink-soft);margin:0 0 12px">Ba chủ đề lớn của thần học Cải Chánh, mỗi chủ đề dẫn tới các thuật ngữ, sách, câu Kinh Thánh và câu hỏi liên quan.</p>
+  <p style="margin:0 0 6px"><a class="btn" href="/bach-khoa/nam-sola.html">Năm Sola</a> <a class="btn" href="/bach-khoa/tulip.html">TULIP — Năm điểm</a> <a class="btn" href="/bach-khoa/than-hoc-giao-uoc.html">Thần học Giao ước</a></p></div>
   <div id="termIndex">
 {index_html}
   </div>
