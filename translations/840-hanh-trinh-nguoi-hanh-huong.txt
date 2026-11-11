@@ -2,7 +2,7 @@
 
 **Nguyên tác:** "The Pilgrim's Progress" — John Bunyan, bản toàn văn ấn bản 1681
 **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_the-pilgrims-progress-f_bunyan-john_1681/bim_early-english-books-1641-1700_the-pilgrims-progress-f_bunyan-john_1681_djvu.txt
-*(Ghi chú: đây là bản toàn văn ấn bản 1681, KHÔNG trùng #001 (chapbook tóm tắt ấn bản 1769). Nguồn là file OCR (djvu.txt) của cuốn sách in năm 1681; chữ ſ (s dài kiểu in thế kỷ 17) đã chuẩn hóa thành s; lỗi OCR hiển nhiên được sửa lặng lẽ (ví dụ "bis"→"his"); những chỗ OCR hỏng không khôi phục được đánh dấu [NEEDS REVIEW]. Các tham chiếu Kinh Thánh trong lề bản in được giữ lại ở dạng rút gọn, quy về tên sách tiếng Việt. File nguồn đã làm sạch: ~/workspace/thu-vien/.dot8-src/840.txt.)*
+*(Ghi chú: đây là bản toàn văn ấn bản 1681, khác với bản tóm tắt chapbook 1769 đã liệt kê riêng.)*
 
 ---
 

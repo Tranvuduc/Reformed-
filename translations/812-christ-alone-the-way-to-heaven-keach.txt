@@ -2,7 +2,7 @@
 
 **Nguyên tác:** "Christ alone the way to Heaven: or, Jacob's Ladder improved" — Benjamin Keach (1698)
 **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_christ-alone-the-way-to-_keach-benjamin_1698/bim_early-english-books-1641-1700_christ-alone-the-way-to-_keach-benjamin_1698_djvu.txt
-**Ghi chú:** Bản dịch trên văn bản sạch tại `.dot8-src/812.txt` (31.709 chữ Anh). Thư Đề Tặng đầu sách bị OCR hỏng hoàn toàn, không đọc được nên không dịch được (đã ghi chú trong tiến độ).
+**Ghi chú:** Bản dịch trên văn bản nguồn đã làm sạch (31.709 chữ Anh). Thư Đề Tặng đầu sách bị OCR hỏng hoàn toàn, không đọc được nên không dịch được (đã ghi chú trong tiến độ).
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Nguyên tác:** All of Grace, Charles Spurgeon (1834–1892), XB lần đầu 1886
 **Nguồn:** bản transcription đầy đủ, phạm vi công cộng tại reformedreader.org
-*(Ghi chú phạm vi: cả 2 bản scan archive.org của cụm đều lỗi nên không dùng làm nguồn dịch — #816 (allofgraceearnes00spur_1) OCR kém, bị cụt ở trang 54; #823 (allofgraceearnes00spur_0) thiếu ~50 trang. Đã đối chiếu transcription với bản scan Moody ở các chương trùng lặp. Bản nguồn sạch: `.dot8-src/816.txt` (34.456 chữ Anh, 20 chương + Kết). #823 trùng với #816, không dịch riêng. 2 điểm transcription khả nghi đã đánh dấu [NEEDS REVIEW] trong thân văn, cần đối chiếu bản in trước khi xuất bản.)*
+*(Ghi chú phạm vi: cả 2 bản scan archive.org của cụm đều lỗi nên không dùng làm nguồn dịch — #816 (allofgraceearnes00spur_1) OCR kém, bị cụt ở trang 54; #823 (allofgraceearnes00spur_0) thiếu ~50 trang. Đã đối chiếu transcription với bản scan Moody ở các chương trùng lặp. Bản nguồn sạch (34.456 chữ Anh, 20 chương + Kết). #823 trùng với #816, không dịch riêng. 2 điểm transcription khả nghi đã đánh dấu [NEEDS REVIEW] trong thân văn, cần đối chiếu bản in trước khi xuất bản.)*
 
 ---
 

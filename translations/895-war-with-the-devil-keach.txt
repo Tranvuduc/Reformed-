@@ -4176,7 +4176,7 @@ GHI CHÚ PHỤC DỰNG NGUỒN (giữ nguyên từ 3 bản thảo phần):
 NEEDS REVIEW:
 - Đoạn đối đáp mở đầu Người Trẻ – Lương Tâm (từ "Kiềm chế ngươi ư..." đến "Buộc phải la lớn, kêu 'giết người' cho mau"): phục dựng từ bản 1682 (TCP) và bản 1709 vì bản scan 1720 mất ~2 trang in; lời văn hiện đại hóa nhẹ.
 - [2–4 dòng đầu bài đáp của Người Trẻ sau phần tự giới thiệu của Lương Tâm]: nhiễu hoàn toàn trong bản scan, không khôi phục được — đã bỏ qua, cần đối chiếu bản in khác khi có.
-- Một số dòng đơn lẻ đánh dấu [N dòng mất/nhiễu] trong quá trình làm sạch nguồn (xem .dot8-src/895.txt) — bản dịch đã diễn đạt theo ý suy đoán từ ngữ cảnh.
+- Một số dòng đơn lẻ đánh dấu [N dòng mất/nhiễu] trong quá trình làm sạch nguồn — bản dịch đã diễn đạt theo ý suy đoán từ ngữ cảnh.
 
 **Phần 2:**
 NEEDS REVIEW:

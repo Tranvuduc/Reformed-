@@ -2,7 +2,7 @@
 
 **Nguyên tác:** "Systematic Theology: A Series of Questions upon the Lectures Delivered to the Senior Class of the Theological Seminary at Princeton" — Charles Hodge (Philadelphia, 1865; các câu hỏi của chính ông, một sinh viên lớp cao cấp biên tập, lời tựa F. H. Wines tháng 3/1865)
 **Nguồn:** https://archive.org/details/systematictheolph00hodg
-*(Ghi chú: trang tựa bản in thật ghi "...Delivered to the Students in Princeton Theological Seminary" (đã kiểm chứng qua archive.org và HathiTrust); nguồn sạch `~/workspace/thu-vien/.dot8-src/869.txt`.)*
+*(Ghi chú: trang tựa bản in thật ghi "...Delivered to the Students in Princeton Theological Seminary" (đã kiểm chứng qua archive.org và HathiTrust); văn bản nguồn đã làm sạch từ bản scan.)*
 
 ---
 

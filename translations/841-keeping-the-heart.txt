@@ -2,7 +2,7 @@ Giữ Gìn Tấm Lòng
 
 Nguyên tác: A treatise on keeping the heart — John Flavel (1630?–1691), luận Thanh Giáo về Châm Ngôn 4:23
 Nguồn: https://archive.org/download/treatiseonkeepin1840flav/treatiseonkeepin1840flav_djvu.txt
-(Ghi chú phạm vi: dịch từ ấn bản American Tract Society, New-York ~1840 — văn phong được hiện đại hóa, OCR sạch (bản Boston 1813 của #841 OCR hỏng nặng; #879 cùng tác phẩm này nên không dịch riêng). Bản sạch: `.dot8-src/841.txt` (344 đoạn, 34.464 chữ Anh). Các điều giúp và động cơ đã được đánh số lại cho liền mạch (thời kỳ VII: bản OCR ghi 1, 2, 2, B., 4…8 → 1–8; thời kỳ XII: 8 → 3; phần Ứng dụng: đoạn mất số thành 8). Lỗi OCR hiển nhiên đã sửa theo ngữ cảnh. Ba đoạn OCR hỏng đã đánh dấu [NEEDS REVIEW], cần đối chiếu bản in trước khi xuất bản.)
+(Ghi chú phạm vi: dịch từ ấn bản American Tract Society, New-York ~1840 — văn phong được hiện đại hóa, OCR sạch (bản Boston 1813 của #841 OCR hỏng nặng; #879 cùng tác phẩm này nên không dịch riêng). Bản nguồn sạch (344 đoạn, 34.464 chữ Anh). Các điều giúp và động cơ đã được đánh số lại cho liền mạch (thời kỳ VII: bản OCR ghi 1, 2, 2, B., 4…8 → 1–8; thời kỳ XII: 8 → 3; phần Ứng dụng: đoạn mất số thành 8). Lỗi OCR hiển nhiên đã sửa theo ngữ cảnh. Ba đoạn OCR hỏng đã đánh dấu [NEEDS REVIEW], cần đối chiếu bản in trước khi xuất bản.)
 
 
 
