@@ -149,6 +149,25 @@ for r in ia["b"]:
     nm = AUTHOR_ALIASES.get(ia["a"][r[0]], ia["a"][r[0]]); k = slug(nm)
     a = authors.setdefault(k, {"name": nm, "ccel": [], "ia": [], "id": ""})
     a["ia"].append(r)
+# Phase 2 (author pages): Vietnamese translations (translations/index.json)
+# as a third author source. Scoped to the three authors whose pages this
+# phase builds — extending the set to every translated author is a future
+# step, not this commit. Canonical slugs come from tools/author-slug-map.json.
+_VN_PAGE_AUTHORS = {"johann-gerhard", "jeremiah-burroughs", "franciscus-gomarus"}
+_amap = json.load(open("tools/author-slug-map.json", encoding="utf-8")) if os.path.exists("tools/author-slug-map.json") else {}
+for _e in json.load(open("translations/index.json", encoding="utf-8")):
+    _au = (_e.get("author") or "").strip()
+    if not _au: continue
+    _k = _amap.get(_au) or slug(_au)
+    if _k not in _VN_PAGE_AUTHORS: continue
+    # Ban-dich slug = translation FILENAME (not catalogue id): vi_books.py
+    # derives it the same way (_normfile). Skip file-less entries.
+    _f = (_e.get("file") or "")
+    if _f.startswith("translations/"): _f = _f[len("translations/"):]
+    _vs = os.path.splitext(_f)[0] if _f else None
+    if not _vs or not os.path.exists(f"translations/{_vs}.txt"): continue
+    _a = authors.setdefault(_k, {"name": _au, "ccel": [], "ia": [], "id": ""})
+    _a.setdefault("vn", []).append((_vs, _e.get("short") or _e.get("title") or _e["id"]))
 import re as _re
 def _pretty(n):
     m = _re.match(r"^(\d{3,4})\s*-\s*(\d{3,4})?\s*([^,]+),\s*(.+)$", n)
@@ -176,6 +195,8 @@ _AUTH_SIG = {
  "richard-sibbes": "Richard Sibbes (1577–1635), 'người nhỏ giọt mật ngọt', là tiếng nói êm dịu nhất của phong trào Thanh giáo, chuyên an ủi những tâm hồn tan vỡ.",
  "thomas-brooks": "Thomas Brooks (1608–1680) là nhà Thanh giáo thực tiễn, sắc bén trong việc vạch trần mưu chước của Sa-tan và hướng dẫn đời sống thánh khiết.",
  "jeremiah-burroughs": "Jeremiah Burroughs (1599–1646) để lại kiệt tác về sự thỏa lòng trong Đấng Christ — 'món báu vật hiếm có' cho mọi tín hữu.",
+ "johann-gerhard": "Johann Gerhard (1582–1637), nhà thần học Lutheran người Đức, được xem là nhà thần học Tin Lành còn sống vĩ đại nhất thời ông — tác giả 'Suy Ngẫm Thánh' (Meditationes Sacræ) và bộ 'Loci Theologici'.",
+ "franciscus-gomarus": "Franciscus Gomarus (1563–1641), nhà thần học Cải Chánh người Hà Lan, giáo sư tại Leiden và Groningen — đối thủ chính của Arminius trong cuộc tranh luận về tiền định.",
  "thomas-boston": "Thomas Boston (1676–1732), mục sư Scotland khiêm nhường, được yêu mến qua những suy ngẫm sâu sắc về chủ quyền Chúa và ân điển trong hoạn nạn.",
  "samuel-rutherford": "Samuel Rutherford (1600–1661), mục sư Scotland bị lưu đày, để lại những lá thư đầy lửa yêu mến Đấng Christ, được xem là kho tàng an ủi của Hội Thánh.",
  "john-knox": "John Knox (khoảng 1514–1572) là nhà cải chánh Scotland can đảm, người đặt nền móng cho Hội Thánh Trưởng Lão và viết nên lịch sử Cải Chánh Scotland.",
@@ -232,16 +253,27 @@ for k, a in authors.items():
         items.append(bcard(t, a["name"], link, kicker=str(yr) if yr else ("CCEL" if not ext else "Đọc online"), ext=ext, desc_=d or None))
     for r in a["ia"]:
         items.append(bcard(r[1], a["name"], f"https://archive.org/details/{r[2]}", kicker="Internet Archive", ext=True, desc_=r[3] or None))
-    n = len(items)
-    if n < 2: continue
+    _vn_items = []
+    for _vs, _vt in a.get("vn", []):
+        _vn_items.append(bcard(_vt, a["name"], f"/ban-dich/{_vs}.html", kicker="Bản dịch"))
+    n = len(items) + len(_vn_items)
+    if n < 2 and not a.get("vn"): continue
     path = f"a/{k}.html"
     _sig = _auth_sig(k)
     _nm = a['name']
     _ips = [p for p in _nm.replace('.', ' ').split() if p and p[0].isalpha()]
     _ini = ((_ips[0][0] + (_ips[-1][0] if len(_ips) > 1 else '')) or '?').upper()
     _mono = (f'<svg class="au-pic" viewBox="0 0 96 96" aria-hidden="true"><circle cx="48" cy="48" r="44" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="48" cy="48" r="37" fill="none" stroke="currentColor" stroke-width="1" opacity=".35"/><text x="48" y="61" text-anchor="middle" font-size="30" fill="currentColor" font-family="Georgia,serif">{E(_ini)}</text></svg>')
-    intro = ((_sig + " ") if _sig else "") + f"Trang này tập hợp {n} tác phẩm của {_nm} thuộc phạm vi công cộng: sách thần học, bài giảng, luận thuyết và tài liệu linh tu của truyền thống Cải Chánh và Thanh giáo. Tất cả đều có thể đọc trực tuyến, nghe đọc thành tiếng hoặc tải EPUB/PDF miễn phí trong thư viện Reformed Vietnam."
-    body = f'<div class="au-head">{_mono}<h1>{E(_nm)} – sách miễn phí</h1></div><p style="clear:both">{E(intro)}</p><p><a class="btn primary" href="/?q={E(_nm.split()[-1])}">Mở trong thư viện</a></p>' + bkgrid("".join(items))
+    _n_en, _n_vn = len(items), len(_vn_items)
+    if _n_vn and _n_en:
+        _intro = f"Trang này tập hợp {_n_en} tác phẩm của {_nm} thuộc phạm vi công cộng và {_n_vn} bản dịch tiếng Việt (bản dịch AI, chưa duyệt). Tất cả đều có thể đọc trực tuyến, nghe đọc thành tiếng hoặc tải EPUB/PDF miễn phí trong thư viện Reformed Vietnam."
+    elif _n_vn:
+        _intro = f"Trang này tập hợp {_n_vn} bản dịch tiếng Việt của {_nm} (bản dịch AI, chưa duyệt). Tất cả đều có thể đọc trực tuyến, nghe đọc thành tiếng hoặc tải EPUB/PDF miễn phí trong thư viện Reformed Vietnam."
+    else:
+        _intro = f"Trang này tập hợp {n} tác phẩm của {_nm} thuộc phạm vi công cộng: sách thần học, bài giảng, luận thuyết và tài liệu linh tu của truyền thống Cải Chánh và Thanh giáo. Tất cả đều có thể đọc trực tuyến, nghe đọc thành tiếng hoặc tải EPUB/PDF miễn phí trong thư viện Reformed Vietnam."
+    intro = ((_sig + " ") if _sig else "") + _intro
+    _vn_grid = ('<h2>Bản dịch tiếng Việt</h2>' + bkgrid("".join(_vn_items))) if _vn_items else ""
+    body = f'<div class="au-head">{_mono}<h1>{E(_nm)} – sách miễn phí</h1></div><p style="clear:both">{E(intro)}</p><p><a class="btn primary" href="/?q={E(_nm.split()[-1])}">Mở trong thư viện</a></p>' + bkgrid("".join(items)) + _vn_grid
     ld = {"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{a['name']} – sách miễn phí", "inLanguage": "vi", "url": f"{SITE}/{path}"}
     open(path, "w", encoding="utf-8").write(page(f"{a['name']} – sách miễn phí, đọc và tải | Reformed Vietnam", intro, path, body, ld)); urls.append(path); a["path"] = path
 
