@@ -2054,7 +2054,6 @@ mg1-1220-works-adams.txt
 mg1-1221-the-world-conquered-a-believers-victory-over-the-w-alleine.txt
 mg1-1222-the-very-pernicious-and-detestable-doctrine-of-inc-reymond.txt
 mg1-1223-theological-commonplaces-reformed-theology-ebook-maccovius.txt
-mg1-1224-theological-inquiries-questions-and-answers-for-un-monergism.txt
 mg1-1225-theses-predestination-gomarus.txt
 mg1-1226-theology-for-people-plumer.txt
 mg1-1227-theopneustia-the-bible-its-divine-origin-and-inspi-gaussen.txt
@@ -2076,7 +2075,6 @@ mg1-125-mans-fallen-condition-free-or-bound-reformed-theol-calvin.txt
 mg1-1250-walking-with-jesus-winslow.txt
 mg1-1251-weekday-religion-miller.txt
 mg1-1252-catechism-young-children-engles.txt
-mg1-1253-westminster-s-shortest-catechism-catechism-ebook-tosti.txt
 mg1-126-of-prayer-a-perpetual-exercise-of-faith-the-daily-calvin.txt
 mg1-1260-william-farel-and-the-story-of-the-swiss-reform-bi-blackburn.txt
 mg1-1263-words-to-winners-of-souls-reformed-theology-ebook-bonar.txt
@@ -2423,7 +2421,6 @@ mg1-491-sphere-sovereignty-christian-worldview-ebook-kuyper.txt
 mg1-492-sanctifying-work-kuyper.txt
 mg1-493-a-brief-bible-history-a-survey-of-the-old-and-new-machen.txt
 mg1-494-christianity-and-liberalism-reformed-theology-eboo-machen.txt
-mg1-496-selected-writings-reformed-theology-ebook-machen.txt
 mg1-498-life-of-christ-machen.txt
 mg1-499-origin-pauls-religion-machen.txt
 mg1-500-the-virgin-birth-of-christ-biblical-studies-ebook-machen.txt
@@ -2438,7 +2435,6 @@ mg1-509-a-brief-christian-catechism-catechism-ebook-jud.txt
 mg1-510-a-brief-exposition-on-the-song-of-solomon-bible-co-cotton.txt
 mg1-511-song-of-solomon-udemans.txt
 mg1-512-call-delaying-sinners-doolittle.txt
-mg1-513-marian-dogmas-barth.txt
 mg1-514-a-collection-of-the-promises-of-the-gospel-colquhoun.txt
 mg1-515-a-commentary-upon-the-book-of-revelation-bible-com-durham.txt
 mg1-516-a-commentary-on-the-book-of-leviticus-expository-a-bonar.txt
@@ -2489,7 +2485,6 @@ mg1-563-system-sound-words-various.txt
 mg1-564-a-system-or-body-of-divinity-reformed-theology-ebo-leigh.txt
 mg1-565-disputation-covenant-turretin-benedict.txt
 mg1-566-fourth-commandment-mastricht.txt
-mg1-567-a-treasury-of-prayers-for-the-saints-monergism.txt
 mg1-568-a-treatise-concerning-man-s-future-eternity-reform-jackson.txt
 mg1-569-christian-love-binning.txt
 mg1-570-a-treatise-of-delighting-in-god-howe.txt
@@ -2547,7 +2542,6 @@ mg1-622-archbishop-leightons-sermons-sermons-ebook-leighton.txt
 mg1-623-armilla-catechetica-arrowsmith.txt
 mg1-624-athanasius-and-the-arian-controversy-church-histor-gwatkin.txt
 mg1-627-beneath-the-cross-everard.txt
-mg1-629-between-heaven-earth-wilson.txt
 mg1-630-biblical-theology-old-and-new-testaments-biblical-vos.txt
 mg1-631-brief-thoughts-concerning-the-gospel-reformed-theo-pike.txt
 mg1-632-calvinism-and-evangelical-arminianism-compared-as-girardeau.txt
@@ -2615,7 +2609,6 @@ mg1-699-economy-of-covenants-witsius.txt
 mg1-700-eighteen-quaint-sermons-sermons-ebook-rutherford.txt
 mg1-701-elisha-s-lamentation-for-elijah-a-funeral-sermon-f-sedgwick.txt
 mg1-702-enmity-and-reconciliation-between-god-and-man-serm-howe.txt
-mg1-703-eternal-or-extinguished-a-biblical-response-to-con-monergism.txt
 mg1-704-evangelical-repentance-reformed-theology-ebook-colquhoun.txt
 mg1-705-evangelical-theology-popular-lectures-on-theologic-hodge.txt
 mg1-706-evil-and-theodicy-reformed-theology-ebook-van-til.txt
@@ -2629,10 +2622,8 @@ mg1-715-faith-in-five-fundamental-principles-strongly-fort-fisher.txt
 mg1-716-family-prayers-law.txt
 mg1-717-family-reformation-promoted-cawdrey.txt
 mg1-718-family-sermons-52-devotional-sermons-to-be-read-ev-bonar.txt
-mg1-719-faulty-worldviews-apologetics-ebook-monergism.txt
 mg1-720-fellowship-with-god-binning.txt
 mg1-721-fire-brimstone-vincent.txt
-mg1-722-five-essential-doctrines-monergism.txt
 mg1-723-food-new-born-babes-smith.txt
 mg1-724-forgiveness-of-sins-law.txt
 mg1-725-fourteen-communion-sermons-sermons-ebook-rutherford.txt
@@ -2641,9 +2632,7 @@ mg1-727-from-the-depths-to-concord-sermons-on-psalms-130-a-bullinger.txt
 mg1-728-general-directions-for-a-comfortable-walking-with-bolton.txt
 mg1-733-gleanings-from-the-book-of-life-law.txt
 mg1-735-god-sovereign-and-man-free-or-the-doctrine-of-divi-rice.txt
-mg1-736-god-or-mammon-tomer.txt
 mg1-737-gods-arrow-atheists-smith.txt
-mg1-738-god-s-indisputable-sovereignty-reformed-theology-e-herendeen.txt
 mg1-739-god-s-terrible-voice-in-the-city-sermons-ebook-vincent.txt
 mg1-740-god-s-thoughts-and-ways-above-ours-sermons-ebook-shower.txt
 mg1-741-god-a-rich-supply-of-all-good-reformed-theology-eb-holmes.txt
@@ -2660,7 +2649,6 @@ mg1-752-heaven-opened-the-riches-of-gods-covenant-of-grace-alleine.txt
 mg1-753-heaven-upon-earth-the-best-friend-in-the-worst-of-janeway.txt
 mg1-754-heaven-hell-epitomised-swinnock.txt
 mg1-755-heaven-scriptural-emblems-clark.txt
-mg1-756-heresies-errors-church-history-ebook-monergism.txt
 mg1-757-heresiography-a-description-of-the-heretics-and-se-pagitt.txt
 mg1-758-hermeneutical-manual-introduction-to-the-exegetica-fairbairn.txt
 mg1-759-hints-and-helps-in-pastoral-theology-reformed-theo-plumer.txt
@@ -2706,7 +2694,6 @@ mg1-803-light-and-truth-the-revelation-of-st-john-bonar.txt
 mg1-804-looking-unto-jesus-book-ii-the-alpha-and-the-omega-ambrose.txt
 mg1-805-looking-unto-jesus-ambrose.txt
 mg1-806-love-among-ashes-stockton.txt
-mg1-809-materialism-the-myth-exposed-reformed-theology-ebo-ross.txt
 mg1-810-matrimonial-honor-reformed-theology-ebook-rogers.txt
 mg1-811-medicines-plague-bownd.txt
 mg1-812-practice-godliness-voetius.txt
@@ -2759,7 +2746,6 @@ mg1-858-pastoral-sketches-biography-ebook-philpot.txt
 mg1-859-pastoral-theology-pastoral-theology-ebook-murphy.txt
 mg1-860-pastoral-theology-fairbairn.txt
 mg1-861-pastoral-and-political-discourses-of-lemuel-haynes-haynes.txt
-mg1-862-personal-evangelism-miladin.txt
 mg1-863-philadelphia-a-treatise-of-brotherly-love-reformed-gearing.txt
 mg1-864-politicae-ecclesiasticae-4-volume-set-reformed-the-voetius.txt
 mg1-865-practical-discourses-on-sickness-and-recovery-serm-rogers.txt
@@ -2821,7 +2807,6 @@ mg1-927-sun-beams-of-gospel-light-sermons-ebook-preston.txt
 mg1-928-syntagma-theologiae-christianae-reformed-theology-polanus.txt
 mg1-929-systematic-theology-dabney.txt
 mg1-930-systematic-theology-reformed-theology-ebook-strong.txt
-mg1-931-taking-heed-flock-dejong.txt
 mg1-932-temples-hands-rivet.txt
 mg1-933-abuse-of-grace-clagett.txt
 mg1-934-the-actions-of-the-inniskilling-men-church-history-mccarmick.txt
@@ -2852,7 +2837,6 @@ mg1-961-the-blessedness-of-the-righteous-howe.txt
 mg1-962-the-blessings-of-grace-which-come-by-christ-and-of-gill.txt
 mg1-963-blood-covenant-bonar.txt
 mg1-964-book-of-comfort-miller.txt
-mg1-965-the-book-of-revelation-a-study-bible-commentary-eb-dietsch.txt
 mg1-966-the-bowels-of-tender-mercy-sealed-in-the-everlasti-sedgwick.txt
 mg1-967-the-breastplate-of-faith-and-love-sermons-ebook-preston.txt
 mg1-968-the-cabinet-of-the-covenant-of-grace-reformed-theo-myseras.txt
@@ -3118,3 +3102,4 @@ winslow-doi-song-trong-chua-giesu-1.txt
 winslow-doi-song-trong-chua-giesu-2.txt
 winslow-experimental-practical-atonement.txt
 winslow-inquirer-directed-atonement.txt
+w1-r0437.txt
