@@ -488,6 +488,7 @@ def build_hub():
         ("/bach-khoa/", "Bách Khoa Thần Học", "201 thuật ngữ thần học và Kinh Thánh, giải nghĩa rõ ràng."),
         ("/hoc-vien/", "Học Viện Cải Chánh", "Lộ trình học từ nền tảng đến thần học hệ thống (Thirdmill)."),
         ("/tra-kinh-thanh.html", "Tra cứu Kinh Thánh", "Tìm từ, cụm từ trong toàn bộ bản 1934."),
+        ("/bang-doc-sach.html", "Bảng đọc của tôi", "Sách đang đọc, đã đọc xong, đã lưu và dấu trang — chỉ lưu trên thiết bị này."),
         ("/chu-de/", "Sách theo chủ đề", "13 chuyên mục sách Cải Chánh theo chủ đề: ân điển, Ba Ngôi, cầu nguyện…"),
     ]
     tgrid = "".join(

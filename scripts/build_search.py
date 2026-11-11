@@ -125,6 +125,18 @@ add("Bản đồ & hành trình Kinh Thánh", "Xuất Hành · Ca-na-an · Ga-li
 add("Nghiên cứu Kinh Thánh", "Nhân vật · Chủ đề · Giới thiệu sách · Dòng thời gian · Bản đồ", "/nghien-cuu-kinh-thanh.html", "Kinh Thánh")
 print(f"study indexed: {len(nv)} characters + {len(tp)} topics + {len(books66)} book intros + 6 hub pages")
 
+# ---- Phase 5: engagement & quality (dashboard, tracker, roadmap) ----
+add("Bảng đọc của tôi", "Sách đang đọc · đã đọc xong · đã lưu · dấu trang — chỉ trên thiết bị này",
+    "/bang-doc-sach.html", "Công Cụ",
+    "tiến độ đọc của tôi đang đọc đã đọc xong đã lưu dấu trang tiếp tục đọc")
+add("Theo dõi dự án dịch thuật", "Còn bao nhiêu sách chưa dịch · vòng dịch mới nhất · chất lượng bản dịch",
+    "/theo-doi-dich-thuat.html", "Công Cụ",
+    "dự án dịch thuật hàng đợi còn lại vòng dịch Burroughs kiểm tra chất lượng")
+add("Lộ trình phát triển", "Những giai đoạn đã hoàn tất, đang làm và còn chờ — việc nào cần người giúp",
+    "/lo-trinh-phat-trien.html", "Công Cụ",
+    "lộ trình phát triển giai đoạn kế hoạch tương lai cần người giúp")
+print("phase5 indexed: 3 pages")
+
 # ---- catechism ----
 cat = json.loads((ROOT / "data/catechism-wsc.json").read_text(encoding="utf-8"))
 for q in cat["questions"]:

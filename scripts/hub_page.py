@@ -125,6 +125,10 @@ def check_links(html, page):
     for href in sorted(set(re.findall(r'href="([^"]+)"', html))):
         if href.startswith(("http", "mailto:", "#", "javascript:", "data:", "tel:")):
             continue
+        # hrefs built at runtime by inline JS string concatenation
+        # (e.g. href="'+esc(b.url)+'") are not static links to check.
+        if "'+" in href or ' "+' in href:
+            continue
         if href == "/":
             target = ROOT / "index.html"
             if not target.exists():

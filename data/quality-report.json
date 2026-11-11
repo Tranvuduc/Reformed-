@@ -1,0 +1,337 @@
+{
+ "date": "2026-11-11",
+ "files_total": 3211,
+ "index_total": 2960,
+ "header_ai_chua_duyet": 224,
+ "header_missing": 2987,
+ "footer_status_missing": 48,
+ "footer_terms_missing": 50,
+ "needs_review_files": 2199,
+ "needs_review_total": 142058,
+ "english_flagged_files": 67,
+ "english_lines_total": 9769,
+ "cong_binh_lines": 54197,
+ "cong_binh_files": 2042,
+ "kinh_lay_cha": 995,
+ "kinh_lay_cha_files": 250,
+ "kinh_tin_kinh": 526,
+ "kinh_tin_kinh_files": 161,
+ "nuoc_dct_lines": 8770,
+ "nuoc_dct_files": 1429,
+ "backtick_files": 88,
+ "md_link_files": 0,
+ "blockquote_files": 67,
+ "html_tag_files": 91,
+ "tiny_files": 0,
+ "no_title_files": 0,
+ "index_entries_missing_file": 0,
+ "txt_files_not_in_index": 257,
+ "unindexed_likely_same_work": 79,
+ "unindexed_no_match": 178,
+ "top_english": [
+  {
+   "file": "mg1-790-ladies-of-the-reformation-memoirs-of-distinguished-anderson.txt",
+   "english_lines": 290,
+   "sample": [
+    "1. Bruce’s Free Thoughts on the Toleration of Popery, tr. 127."
+   ]
+  },
+  {
+   "file": "mg1-974-the-christian-doctrine-of-prayer-reformed-theology-hastings.txt",
+   "english_lines": 271,
+   "sample": [
+    "Brooke, H., One Faith and One Family (1907)."
+   ]
+  },
+  {
+   "file": "mg1-793-letters-of-samuel-rutherford-rutherford.txt",
+   "english_lines": 184,
+   "sample": [
+    "M      More happy than imaginèd can be,"
+   ]
+  },
+  {
+   "file": "878.txt",
+   "english_lines": 164,
+   "sample": [
+    "\"There are in fact, as we might have anticipated, but two"
+   ]
+  },
+  {
+   "file": "mg1-1026-the-end-of-infidelity-reformed-theology-ebook-hays.txt",
+   "english_lines": 140,
+   "sample": [
+    "TEC = The End Of Christianity"
+   ]
+  },
+  {
+   "file": "mg1-688-dispensationalism-today-yesterday-and-tomorrow-ref-gunn.txt",
+   "english_lines": 132,
+   "sample": [
+    "1. Charles Caldwell Ryrie, The Basis of the Premillennial Faith (Neptune, N.J.: Loizeaux Brothers, 1953), trang 17, so sánh trang 33."
+   ]
+  },
+  {
+   "file": "arch-analogyconsidere00buch.txt",
+   "english_lines": 112,
+   "sample": [
+    "* F. D. Maurice, “What is Revelation?”, tr. 173, 176."
+   ]
+  },
+  {
+   "file": "052-s-austin-his-place-history-christian-cunningham.txt",
+   "english_lines": 110,
+   "sample": [
+    "^ So sánh chính ngôn ngữ của ông về sự tôn trọng dành cho ý kiến của mình: Sane cum in omnibus litteris meis non solum pium lectorem, sed etiam liberum correcto"
+   ]
+  },
+  {
+   "file": "mg1-1007-the-doctrine-of-justification-an-outline-of-its-hi-buchanan.txt",
+   "english_lines": 107,
+   "sample": [
+    "‘Thirty Years’ Correspondence between Bishop Jebb and Mr. Knox,’ 2 tập, khổ 8vo, 1834."
+   ]
+  },
+  {
+   "file": "mg1-761-history-reformation-daubigne.txt",
+   "english_lines": 106,
+   "sample": [
+    "Oi=a tij h`li,ou bolh,. Eusebius. Hist. Eccles. H.S. ↩ Thessalonians 2. ↩ John 5:11. ↩ John 6:45. ↩ Acts 15:23. ↩ Thessalonians 2. ↩ Suburbicaria loca. — Xem gi"
+   ]
+  },
+  {
+   "file": "sach-21-kinh-thanh-va-nghe-nghiep.txt",
+   "english_lines": 101,
+   "sample": [
+    "THE BIBLE AND YOUR WORK"
+   ]
+  },
+  {
+   "file": "sach-20-giua-hai-nen-van-hoa.txt",
+   "english_lines": 99,
+   "sample": [
+    "Faith, Family, and Identity for Young Vietnamese Abroad"
+   ]
+  },
+  {
+   "file": "sach-19-nam-solas-song-ngu.txt",
+   "english_lines": 94,
+   "sample": [
+    "Five Reformation Watchwords in Vietnamese and English"
+   ]
+  },
+  {
+   "file": "book-common-order-knox.txt",
+   "english_lines": 92,
+   "sample": [
+    "Leis an Easpuig Carsuel (in ms.)"
+   ]
+  },
+  {
+   "file": "mg1-777-in-search-for-the-beginning-a-seekers-journey-to-t-davis.txt",
+   "english_lines": 90,
+   "sample": [
+    "CC: Crash Course on the New Age"
+   ]
+  },
+  {
+   "file": "sach-18-duc-tin-cai-chanh-trong-15-phut.txt",
+   "english_lines": 90,
+   "sample": [
+    "Eight Foundations for Young Vietnamese at Home and Abroad"
+   ]
+  },
+  {
+   "file": "bavinck-revelation.txt",
+   "english_lines": 89,
+   "sample": [
+    "Một số bài giảng cũng đã được giảng tại Grand Rapids và Holland, Michigan; Chicago; Louisville; New Brunswick và Paterson, New Jersey; và New York."
+   ]
+  },
+  {
+   "file": "821-hoi-nghi-westminster-va-cong-viec-cua-hoi-nghi.txt",
+   "english_lines": 88,
+   "sample": [
+    "1. Originally printed in The Princeton Theological Review, vi. 1908, pp. 177–210."
+   ]
+  },
+  {
+   "file": "list-940-cuoc-hanh-trinh-cua-dao-that-keach.txt",
+   "english_lines": 82,
+   "sample": [
+    "Reynolds's Triumphs of Gods Revenge against the crying and execrable Sin of Murder, thể hiện qua nhiều câu chuyện bi thảm; ấn bản thứ sáu, hiệu đính cẩn thận: k"
+   ]
+  },
+  {
+   "file": "mg1-466-the-history-of-christian-doctrines-church-history-berkhof.txt",
+   "english_lines": 78,
+   "sample": [
+    "Tài liệu tham khảo: Harnack, History of Dogma I, tr. 1–40; Seeberg, History of Doctrines I, tr. 19–27; Loofs, Handboek der Dogmengeschiedenis, tr. 1–9; Neander,"
+   ]
+  }
+ ],
+ "top_needs_review": [
+  {
+   "file": "arch-bim_early-english-books-1641-1700_the-preeminence-of-th.txt",
+   "needs_review": 4414
+  },
+  {
+   "file": "arch-bim_early-english-books-1641-1700_the-doctrine-of-the-s.txt",
+   "needs_review": 4341
+  },
+  {
+   "file": "719-sermons-m-john-calvin-1574-calvin.txt",
+   "needs_review": 3372
+  },
+  {
+   "file": "w1-r0481.txt",
+   "needs_review": 2952
+  },
+  {
+   "file": "arch-fourbooksonelev00burrgoog.txt",
+   "needs_review": 2864
+  },
+  {
+   "file": "arch-survspiva00ruth.txt",
+   "needs_review": 2492
+  },
+  {
+   "file": "hervey-meditations-contemplations.txt",
+   "needs_review": 1976
+  },
+  {
+   "file": "arch-bim_early-english-books-1641-1700_of-the-constitution-r.txt",
+   "needs_review": 1793
+  },
+  {
+   "file": "rutherford-temperate-plea.txt",
+   "needs_review": 1617
+  },
+  {
+   "file": "arch-bim_early-english-books-1475-1640_a-commentarie-of-john.txt",
+   "needs_review": 1597
+  },
+  {
+   "file": "arch-divinerightofchu00ruth.txt",
+   "needs_review": 1561
+  },
+  {
+   "file": "arch-bim_early-english-books-1641-1700_a-learned-commentary-.txt",
+   "needs_review": 1351
+  },
+  {
+   "file": "arch-sibbes-souls-conflict-1635.txt",
+   "needs_review": 1305
+  },
+  {
+   "file": "mg1-500-the-virgin-birth-of-christ-biblical-studies-ebook-machen.txt",
+   "needs_review": 1135
+  },
+  {
+   "file": "686-summary-natural-religion-containing-proof-being-johnson.txt",
+   "needs_review": 1076
+  },
+  {
+   "file": "arch-10411071bsb.txt",
+   "needs_review": 1019
+  },
+  {
+   "file": "896-the-pleasantness-of-a-religious-life-henry.txt",
+   "needs_review": 1016
+  },
+  {
+   "file": "096-bovvels-opened-1648-sibbes.txt",
+   "needs_review": 993
+  },
+  {
+   "file": "manton-sermons-1678.txt",
+   "needs_review": 979
+  },
+  {
+   "file": "whitefield-works-vol2.txt",
+   "needs_review": 963
+  }
+ ],
+ "top_cong_binh": [
+  {
+   "file": "mg1-641-christ-crucified-72-sermons-on-isaiah-53-sermons-e-durham.txt",
+   "cong_binh": 1080
+  },
+  {
+   "file": "mg1-1219-the-works-of-john-macduff-macduff.txt",
+   "cong_binh": 708
+  },
+  {
+   "file": "mg1-507-a-body-of-divinity-lectures-on-the-assemblys-large-ridgley.txt",
+   "cong_binh": 664
+  },
+  {
+   "file": "mg1-428-the-existence-and-attributes-of-god-reformed-theol-charnock.txt",
+   "cong_binh": 643
+  },
+  {
+   "file": "mg1-584-a-treatise-on-the-covenant-of-grace-reformed-theol-colquhoun.txt",
+   "cong_binh": 615
+  },
+  {
+   "file": "mg1-270-the-works-of-octavius-winslow-winslow.txt",
+   "cong_binh": 523
+  },
+  {
+   "file": "mg1-564-a-system-or-body-of-divinity-reformed-theology-ebo-leigh.txt",
+   "cong_binh": 444
+  },
+  {
+   "file": "mg1-1197-the-true-doctrine-of-justification-reformed-theolo-burgess.txt",
+   "cong_binh": 408
+  },
+  {
+   "file": "mg1-928-syntagma-theologiae-christianae-reformed-theology-polanus.txt",
+   "cong_binh": 389
+  },
+  {
+   "file": "mg1-071-select-sermons-of-thomas-manton-sermons-ebook-manton.txt",
+   "cong_binh": 384
+  },
+  {
+   "file": "mg1-413-the-works-of-thomas-brooks-collected-works-ebook-brooks.txt",
+   "cong_binh": 352
+  },
+  {
+   "file": "013-commentary-romans-calvin.txt",
+   "cong_binh": 349
+  },
+  {
+   "file": "mg1-868-practical-observations-upon-the-book-of-job-bible-caryl.txt",
+   "cong_binh": 344
+  },
+  {
+   "file": "mg1-1155-the-sermons-of-the-rev-samuel-davies-sermons-ebook-davies.txt",
+   "cong_binh": 343
+  },
+  {
+   "file": "mg1-1129-the-reasonable-service-of-god-reformed-theology-eb-a-brakel.txt",
+   "cong_binh": 307
+  },
+  {
+   "file": "mg1-514-a-collection-of-the-promises-of-the-gospel-colquhoun.txt",
+   "cong_binh": 283
+  },
+  {
+   "file": "mg1-241d-spurgeon-sermons-vol28-36.txt",
+   "cong_binh": 280
+  },
+  {
+   "file": "mg1-587-a-treatise-on-the-law-and-the-gospel-reformed-theo-colquhoun.txt",
+   "cong_binh": 273
+  },
+  {
+   "file": "calvin-commentary-isaiah-vol4.txt",
+   "cong_binh": 263
+  },
+  {
+   "file": "manton-works-vol07.txt",
+   "cong_binh": 251
+  }
+ ]
+}

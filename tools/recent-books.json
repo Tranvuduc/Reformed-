@@ -10,6 +10,12 @@
    "date": "2026-11-11"
   },
   {
+   "slug": "arch-burroughs-precious-faith",
+   "title": "Đức Tin Quý Báu",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-11"
+  },
+  {
    "slug": "arch-gerhard-sacred-meditations",
    "title": "Suy Ngẫm Thánh",
    "author": "Johann Gerhard",
@@ -174,12 +180,6 @@
   {
    "slug": "poole-chu-thich-cac-vua",
    "title": "Chú Thích Về Kinh Thánh — 1 & 2 Các Vua",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
-  },
-  {
-   "slug": "poole-chu-thich-ca-thuong-exechien-1-23",
-   "title": "Chú Thích Về Kinh Thánh — Ca Thương & Ê-xê-chi-ên 1–23",
    "author": "Matthew Poole",
    "date": "2026-11-07"
   }
