@@ -114,6 +114,14 @@ body = f'''<h1>Lộ trình đọc sách Cải Chánh cho người mới</h1>
 <div class="pace"><b>Nhịp đọc gợi ý:</b> 15–20 phút mỗi ngày; mỗi tuần một chương hoặc 3–5 câu giáo lý; mỗi tháng ghi 3 dòng điều học được. Cứ 2–3 tháng nghỉ một tuần để ôn lại.</div>
 <p><span id="pg" class="m"></span></p>
 {"".join(sect(i, *s) for i, s in enumerate(STAGES))}
+<h2>Lộ trình học theo từng bước</h2>
+<p class="m">Bốn lộ trình ngắn, mỗi lộ trình gồm 5 bước — mỗi bước dẫn tới những trang đã có sẵn trên trang này (sách, giáo lý, Bách Khoa, Hỏi Đáp, Kinh Thánh). Chọn một lộ trình và đi từng bước, hoặc bắt đầu từ lộ trình đọc sách dài hạn ở trên.</p>
+<ul class="plan">
+<li><div><a href="/moi-tin-chua.html"><b>Tôi mới tin Chúa — 30 ngày đầu tiên</b></a><br><span class="why">Bốn tuần đầu tiên của đời sống mới: Phúc Âm, Kinh Thánh, cầu nguyện, Hội Thánh.</span></div></li>
+<li><div><a href="/lo-trinh/nam-sola.html"><b>Năm Sola — Nền tảng đức tin Cải Chánh</b></a><br><span class="why">Năm nguyên tắc của cuộc Cải Chánh: chỉ Kinh Thánh, chỉ ân điển, chỉ đức tin, chỉ Đấng Christ, chỉ vinh hiển Đức Chúa Trời.</span></div></li>
+<li><div><a href="/lo-trinh/su-thanh-khiet.html"><b>Sự nên thánh</b></a><br><span class="why">Từ định nghĩa đến thực hành: giết chết tội lỗi, phương tiện ân điển, đời sống hằng ngày, bền đỗ đến cùng.</span></div></li>
+<li><div><a href="/lo-trinh/chuan-bi-giang-day.html"><b>Chuẩn bị giảng dạy</b></a><br><span class="why">Dành cho người chuẩn bị dạy Kinh Thánh, giảng đạo hay dẫn nhóm nhỏ.</span></div></li>
+</ul>
 <h2>Học theo chủ đề</h2>
 {tracks()}
 <h2>Nghe thay vì đọc</h2>
