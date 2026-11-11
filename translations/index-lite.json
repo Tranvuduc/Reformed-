@@ -36101,5 +36101,17 @@
    "Đức Tin",
    "Sự Cứu Rỗi"
   ]
+ },
+ {
+  "author": "Westminster Assembly",
+  "id": "westminster-confession-of-faith",
+  "length": "dai",
+  "level": 2,
+  "review_status": "ai-draft",
+  "short": "Bản Tuyên Xưng Westminster",
+  "slug": "westminster-confession-of-faith",
+  "topics": [
+   "Tín Điều"
+  ]
  }
 ]

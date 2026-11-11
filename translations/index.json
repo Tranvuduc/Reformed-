@@ -48318,5 +48318,21 @@
   "length": "dai",
   "short": "Đức Tin Quý Báu",
   "review_status": "ai-draft"
+ },
+ {
+  "id": "westminster-confession-of-faith",
+  "file": "westminster-confession-of-faith.txt",
+  "title": "BẢN TUYÊN XƯNG ĐỨC TIN WESTMINSTER",
+  "orig": "The Westminster Confession of Faith (1647)",
+  "author": "Westminster Assembly",
+  "by": "Spark",
+  "reviewed": false,
+  "topics": [
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bản Tuyên Xưng Westminster",
+  "review_status": "ai-draft"
  }
 ]
