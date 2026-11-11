@@ -593,7 +593,7 @@
  {
   "id": "baxter/causes",
   "file": "baxter-causes.txt",
-  "title": "Nguyên Nhân Khinh Lờn Đấng Christ",
+  "title": "Nguyên Nhân Khinh Lờn Đấng Christ — Bản Rút Gọn của Fawcett",
   "orig": "Causes and Danger of Slighting Christ",
   "author": "Richard Baxter",
   "by": "Muse",
@@ -603,7 +603,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Nguyên Nhân Khinh Lờn Đấng Christ",
+  "short": "Nguyên Nhân Khinh Lờn Đấng Christ — Bản Rút Gọn của Fawcett",
   "review_status": "ai-draft"
  },
  {
@@ -2205,7 +2205,7 @@
  {
   "id": "001-pilgrims-progress-bunyan",
   "file": "001-pilgrims-progress-bunyan.txt",
-  "title": "Hành Trình Của Người Lữ Hành",
+  "title": "Hành Trình Của Người Lữ Hành — Bản Tóm Tắt Chapbook (1769)",
   "orig": "Pilgrim's Progress, from this world to that which is to come",
   "author": "John Bunyan",
   "by": "DeepSeek",
@@ -2215,8 +2215,10 @@
   ],
   "level": 2,
   "length": "ngan",
-  "short": "Hành Trình Của Người Lữ Hành",
-  "review_status": "ai-draft"
+  "short": "Hành Trình Của Người Lữ Hành — Bản Tóm Tắt Chapbook (1769)",
+  "review_status": "ai-draft",
+  "full_url": "/ban-dich/840-hanh-trinh-nguoi-hanh-huong.html",
+  "full_label": "Hành Trình Của Người Lữ Hành — toàn văn 1681"
  },
  {
   "id": "258-su-don-gian-trong-viec-rao-giang",
@@ -2338,14 +2340,15 @@
   "id": "arch-bim_eighteenth-century_the-div",
   "orig": "The Divine Right of Infant Baptism, Examined and Disproved (1749)",
   "reviewed": false,
-  "title": "QUYỀN THIÊNG LIÊNG CỦA PHÉP BÁP-TÊM TRẺ THƠ, ĐƯỢC XEM XÉT VÀ BÁC BỎ",
+  "note": "Bản dịch cô đọng: nguyên tác khoảng 35.000 từ tiếng Anh; một số đoạn tranh biện chi tiết và trích dẫn phụ đã được cô đọng lại — chỉ giữ đầy đủ cấu trúc chương và mọi luận điểm thần học chính.",
+  "title": "Quyền Thiêng Liêng Của Phép Báp-têm Trẻ Thơ, Được Xem Xét Và Bác Bỏ — Bản Cô Đọng",
   "topics": [
    "Con Cái",
    "Tín Điều"
   ],
   "level": 3,
   "length": "ngan",
-  "short": "Quyền Thiêng Liêng Của Phép Báp-têm",
+  "short": "Quyền Thiêng Liêng Của Phép Báp-têm Trẻ Thơ, Được Xem Xét Và Bác Bỏ — Bản Cô Đọng",
   "review_status": "ai-draft"
  },
  {
@@ -2682,7 +2685,7 @@
    "Đức Thánh Linh"
   ],
   "level": 3,
-  "length": "ngan",
+  "length": "dai",
   "short": "Những Dấu Hiệu Phân Biệt của…",
   "review_status": "ai-draft"
  },
@@ -9139,13 +9142,13 @@
   "id": "list-776",
   "orig": "The Gospel worthy of all acceptation: or, The duty of sinners to believe in Jesus Christ",
   "reviewed": false,
-  "title": "PHÚC ÂM XỨNG ĐÁNG ĐƯỢC ĐÓN NHẬN",
+  "title": "Phúc Âm Xứng Đáng Được Đón Nhận — Bản Rút Gọn (London Religious Tract Society)",
   "topics": [
    "Phúc Âm"
   ],
   "level": 2,
   "length": "vua",
-  "short": "Phúc Âm Xứng Đáng Được Đón",
+  "short": "Phúc Âm Xứng Đáng Được Đón Nhận — Bản Rút Gọn (London Religious Tract Society)",
   "review_status": "ai-draft"
  },
  {
@@ -9216,7 +9219,7 @@
  {
   "id": "arch/gospelworthyofal0000full",
   "file": "arch-fuller-gospel-acceptation.txt",
-  "title": "PHÚC ÂM XỨNG ĐÁNG ĐƯỢC MỌI NGƯỜI ĐÓN NHẬN",
+  "title": "Phúc Âm Xứng Đáng Được Mọi Người Đón Nhận — Bản Rút Gọn (London Religious Tract Society)",
   "orig": "The Gospel Worthy of All Acceptation",
   "author": "Andrew Fuller",
   "by": "Muse",
@@ -9226,7 +9229,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Phúc Âm Xứng Đáng Được Mọi",
+  "short": "Phúc Âm Xứng Đáng Được Mọi Người Đón Nhận — Bản Rút Gọn (London Religious Tract Society)",
   "review_status": "ai-draft"
  },
  {
@@ -11031,7 +11034,7 @@
  },
  {
   "id": "arch/bim_eighteenth-century_the-fountain-of-life-ope_flavel-john_1729",
-  "title": "Suối Nguồn Sự Sống Được Mở Ra",
+  "title": "Suối Nguồn Sự Sống Được Mở Ra — Bản Rút Gọn (1729)",
   "author": "John Flavel",
   "orig": "The Fountain of Life Open'd (1729)",
   "file": "arch-flavel-fountain-life.txt",
@@ -11042,8 +11045,10 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Suối Nguồn Sự Sống Được Mở…",
-  "review_status": "ai-draft"
+  "short": "Suối Nguồn Sự Sống Được Mở Ra — Bản Rút Gọn (1729)",
+  "review_status": "ai-draft",
+  "full_url": "/ban-dich/flavel-fountainoflife.html",
+  "full_label": "Nguồn Sống Mở Ra — toàn văn"
  },
  {
   "id": "arch/bim_eighteenth-century_a-treatise-on-assurance_brooks-thomas_1777",
@@ -11246,13 +11251,13 @@
   "id": "898-con-duong-that-dan-den-thien-dang-baxter",
   "orig": "Man's true guide to Heaven",
   "reviewed": false,
-  "title": "HƯỚNG DẪN ĐÍCH THỰC CỦA CON NGƯỜI VỀ THIÊN ĐÀNG",
+  "title": "Hướng Dẫn Đích Thực Của Con Người Về Thiên Đàng — Bản Rút Gọn của The Poor Man's Family Book",
   "topics": [
    "Đức Tin"
   ],
   "level": 2,
   "length": "vua",
-  "short": "Hướng Dẫn Đích Thực Của Con",
+  "short": "Hướng Dẫn Đích Thực Của Con Người Về Thiên Đàng — Bản Rút Gọn của The Poor Man's Family Book",
   "review_status": "ai-draft"
  },
  {
@@ -14412,8 +14417,8 @@
  {
   "id": "849-su-nhu-mi-va-tam-than-binh-tinh-henry",
   "file": "849-su-nhu-mi-va-tam-than-binh-tinh-henry.txt",
-  "title": "SỰ NHU MÌ VÀ TÂM THẦN BÌNH TĨNH",
-  "orig": "849-su-nhu-mi-va-tam-than-binh-tinh-henry",
+  "title": "Sự Nhu Mì Và Tâm Thần Bình Tĩnh — Bản Rút Gọn (Berwick 1795)",
+  "orig": "A Discourse Concerning Meekness and Quietness of Spirit (Berwick, 1795)",
   "author": "Matthew Henry",
   "by": "Claude",
   "reviewed": false,
@@ -14422,7 +14427,7 @@
   ],
   "level": 2,
   "length": "dai",
-  "short": "Sự Nhu Mì Và Tâm Thần",
+  "short": "Sự Nhu Mì Và Tâm Thần Bình Tĩnh — Bản Rút Gọn (Berwick 1795)",
   "review_status": "ai-draft"
  },
  {
@@ -21942,8 +21947,8 @@
  {
   "id": "898-nguoi-dan-duong-that-den-thien-dang",
   "file": "898-nguoi-dan-duong-that-den-thien-dang.txt",
-  "title": "Người Dẫn Đường Thật Đến Thiên Đàng",
-  "orig": "Baxter's Family Book",
+  "title": "Người Dẫn Đường Thật Đến Thiên Đàng — Bản Rút Gọn của The Poor Man's Family Book",
+  "orig": "Man's True Guide to Heaven (bản rút gọn của The Poor Man's Family Book)",
   "author": "Richard Baxter",
   "by": "AI-2",
   "reviewed": false,
@@ -21953,7 +21958,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Người Dẫn Đường Thật Đến Thiên…",
+  "short": "Người Dẫn Đường Thật Đến Thiên Đàng — Bản Rút Gọn của The Poor Man's Family Book",
   "review_status": "ai-draft"
  },
  {
@@ -40236,7 +40241,7 @@
  },
  {
   "id": "mg1-478-the-divine-counsel-reformed-theology-ebook-bavinck",
-  "title": "MƯU ĐỊNH THIÊNG LIÊNG",
+  "title": "Mưu Định Thiêng Liêng — Bản Rút Gọn",
   "orig": "The Divine Counsel",
   "author": "Herman Bavinck",
   "by": "MG-3",
@@ -40247,12 +40252,12 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Mưu Định Thiêng Liêng",
+  "short": "Mưu Định Thiêng Liêng — Bản Rút Gọn",
   "review_status": "ai-draft"
  },
  {
   "id": "mg1-483-the-order-of-salvation-ordo-salutis-reformed-theol-bavinck",
-  "title": "TRẬT TỰ CỨU RỖI (ORDO SALUTIS)",
+  "title": "Trật Tự Cứu Rỗi — Bản Rút Gọn (từ Reformed Dogmatics, tập 3)",
   "orig": "The Order of Salvation: Ordo Salutis",
   "author": "Herman Bavinck",
   "by": "MG-3",
@@ -40263,7 +40268,7 @@
   ],
   "level": 2,
   "length": "vua",
-  "short": "Trật Tự Cứu Rỗi",
+  "short": "Trật Tự Cứu Rỗi — Bản Rút Gọn (từ Reformed Dogmatics, tập 3)",
   "review_status": "ai-draft"
  },
  {
@@ -48333,6 +48338,22 @@
   "level": 2,
   "length": "dai",
   "short": "Bản Tuyên Xưng Westminster",
+  "review_status": "ai-draft"
+ },
+ {
+  "id": "840-hanh-trinh-nguoi-hanh-huong",
+  "file": "840-hanh-trinh-nguoi-hanh-huong.txt",
+  "title": "Hành Trình Của Người Lữ Hành",
+  "orig": "Pilgrim's Progress, from this world to that which is to come",
+  "author": "John Bunyan",
+  "by": "Claude",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Hành Trình Của Người Lữ Hành",
   "review_status": "ai-draft"
  }
 ]

@@ -425,7 +425,7 @@
  },
  {
   "id": "baxter/causes",
-  "short": "Nguyên Nhân Khinh Lờn Đấng Christ",
+  "short": "Nguyên Nhân Khinh Lờn Đấng Christ — Bản Rút Gọn của Fawcett",
   "author": "Richard Baxter",
   "slug": "baxter-causes",
   "level": 2,
@@ -1637,7 +1637,7 @@
  },
  {
   "id": "001-pilgrims-progress-bunyan",
-  "short": "Hành Trình Của Người Lữ Hành",
+  "short": "Hành Trình Của Người Lữ Hành — Bản Tóm Tắt Chapbook (1769)",
   "author": "John Bunyan",
   "slug": "001-pilgrims-progress-bunyan",
   "level": 2,
@@ -1733,7 +1733,7 @@
  },
  {
   "id": "arch-bim_eighteenth-century_the-div",
-  "short": "Quyền Thiêng Liêng Của Phép Báp-têm",
+  "short": "Quyền Thiêng Liêng Của Phép Báp-têm Trẻ Thơ, Được Xem Xét Và Bác Bỏ — Bản Cô Đọng",
   "author": "John Gill",
   "slug": "arch-bim_eighteenth-century_the-div-quyen-thieng-lieng-bap-tem-tre-tho-gill",
   "level": 3,
@@ -1991,7 +1991,7 @@
   "author": "Jonathan Edwards",
   "slug": "679-nhung-dau-hieu-phan-biet-cua-mot-cong-viec-cua-duc-thanh-linh",
   "level": 3,
-  "length": "ngan",
+  "length": "dai",
   "topics": [
    "Đức Thánh Linh"
   ],
@@ -6770,7 +6770,7 @@
  },
  {
   "id": "list-776",
-  "short": "Phúc Âm Xứng Đáng Được Đón",
+  "short": "Phúc Âm Xứng Đáng Được Đón Nhận — Bản Rút Gọn (London Religious Tract Society)",
   "author": "Andrew Fuller",
   "slug": "list-776-phuc-am-xung-dang-duoc-don-nhan-fuller",
   "level": 2,
@@ -6831,7 +6831,7 @@
  },
  {
   "id": "arch/gospelworthyofal0000full",
-  "short": "Phúc Âm Xứng Đáng Được Mọi",
+  "short": "Phúc Âm Xứng Đáng Được Mọi Người Đón Nhận — Bản Rút Gọn (London Religious Tract Society)",
   "author": "Andrew Fuller",
   "slug": "arch-fuller-gospel-acceptation",
   "level": 2,
@@ -8180,7 +8180,7 @@
  },
  {
   "id": "arch/bim_eighteenth-century_the-fountain-of-life-ope_flavel-john_1729",
-  "short": "Suối Nguồn Sự Sống Được Mở…",
+  "short": "Suối Nguồn Sự Sống Được Mở Ra — Bản Rút Gọn (1729)",
   "author": "John Flavel",
   "slug": "arch-flavel-fountain-life",
   "level": 2,
@@ -8338,7 +8338,7 @@
  },
  {
   "id": "898-con-duong-that-dan-den-thien-dang-baxter",
-  "short": "Hướng Dẫn Đích Thực Của Con",
+  "short": "Hướng Dẫn Đích Thực Của Con Người Về Thiên Đàng — Bản Rút Gọn của The Poor Man's Family Book",
   "author": "Richard Baxter",
   "slug": "898-con-duong-that-dan-den-thien-dang-baxter",
   "level": 2,
@@ -10718,7 +10718,7 @@
  },
  {
   "id": "849-su-nhu-mi-va-tam-than-binh-tinh-henry",
-  "short": "Sự Nhu Mì Và Tâm Thần",
+  "short": "Sự Nhu Mì Và Tâm Thần Bình Tĩnh — Bản Rút Gọn (Berwick 1795)",
   "author": "Matthew Henry",
   "slug": "849-su-nhu-mi-va-tam-than-binh-tinh-henry",
   "level": 2,
@@ -16342,7 +16342,7 @@
  },
  {
   "id": "898-nguoi-dan-duong-that-den-thien-dang",
-  "short": "Người Dẫn Đường Thật Đến Thiên…",
+  "short": "Người Dẫn Đường Thật Đến Thiên Đàng — Bản Rút Gọn của The Poor Man's Family Book",
   "author": "Richard Baxter",
   "slug": "898-nguoi-dan-duong-that-den-thien-dang",
   "level": 2,
@@ -30072,7 +30072,7 @@
  },
  {
   "id": "mg1-478-the-divine-counsel-reformed-theology-ebook-bavinck",
-  "short": "Mưu Định Thiêng Liêng",
+  "short": "Mưu Định Thiêng Liêng — Bản Rút Gọn",
   "author": "Herman Bavinck",
   "slug": "mg1-478-the-divine-counsel-reformed-theology-ebook-bavinck",
   "level": 2,
@@ -30084,7 +30084,7 @@
  },
  {
   "id": "mg1-483-the-order-of-salvation-ordo-salutis-reformed-theol-bavinck",
-  "short": "Trật Tự Cứu Rỗi",
+  "short": "Trật Tự Cứu Rỗi — Bản Rút Gọn (từ Reformed Dogmatics, tập 3)",
   "author": "Herman Bavinck",
   "slug": "mg1-483-the-order-of-salvation-ordo-salutis-reformed-theol-bavinck",
   "level": 2,
@@ -36113,5 +36113,17 @@
   "topics": [
    "Tín Điều"
   ]
+ },
+ {
+  "id": "840-hanh-trinh-nguoi-hanh-huong",
+  "short": "Hành Trình Của Người Lữ Hành",
+  "author": "John Bunyan",
+  "slug": "840-hanh-trinh-nguoi-hanh-huong",
+  "level": 2,
+  "length": "dai",
+  "topics": [
+   "Đức Tin"
+  ],
+  "review_status": "ai-draft"
  }
 ]

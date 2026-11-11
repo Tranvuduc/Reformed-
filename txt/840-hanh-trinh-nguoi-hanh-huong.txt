@@ -1,16 +1,16 @@
-HÀNH TRÌNH NGƯỜI HÀNH HƯƠNG
+HÀNH TRÌNH CỦA NGƯỜI LỮ HÀNH
 
-Unknown · 840-hanh-trinh-nguoi-hanh-huong
+John Bunyan · Pilgrim's Progress, from this world to that which is to come Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 5 giờ · 52.447 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-# Hành Trình Người Hành Hương
-
-**Nguyên tác:** "The Pilgrim's Progress" — John Bunyan, bản toàn văn ấn bản 1681 **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_the-pilgrims-progress-f_bunyan-john_1681/bim_early-english-books-1641-1700_the-pilgrims-progress-f_bunyan-john_1681_djvu.txt *(Ghi chú: đây là bản toàn văn ấn bản 1681, KHÔNG trùng #001 (chapbook tóm tắt ấn bản 1769). Nguồn là file OCR (djvu.txt) của cuốn sách in năm 1681; chữ ſ (s dài kiểu in thế kỷ 17) đã chuẩn hóa thành s; lỗi OCR hiển nhiên được sửa lặng lẽ (ví dụ "bis"→"his"); những chỗ OCR hỏng không khôi phục được đánh dấu [NEEDS REVIEW]. Các tham chiếu Kinh Thánh trong lề bản in được giữ lại ở dạng rút gọn, quy về tên sách tiếng Việt. File nguồn đã làm sạch: ~/workspace/thu-vien/.dot8-src/840.txt.)*
-
----
+Nguyên tác: "The Pilgrim's Progress" — John Bunyan, bản toàn văn ấn bản 1681 Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_the-pilgrims-progress-f_bunyan-john_1681/bim_early-english-books-1641-1700_the-pilgrims-progress-f_bunyan-john_1681_djvu.txt (Ghi chú: đây là bản toàn văn ấn bản 1681, KHÔNG trùng #001 (chapbook tóm tắt ấn bản 1769). Nguồn là file OCR (djvu.txt) của cuốn sách in năm 1681; chữ ſ (s dài kiểu in thế kỷ 17) đã chuẩn hóa thành s; lỗi OCR hiển nhiên được sửa lặng lẽ (ví dụ "bis"→"his"); những chỗ OCR hỏng không khôi phục được đánh dấu [NEEDS REVIEW]. Các tham chiếu Kinh Thánh trong lề bản in được giữ lại ở dạng rút gọn, quy về tên sách tiếng Việt. File nguồn đã làm sạch: ~/workspace/thu-vien/.dot8-src/840.txt.)
 
 LỜI BÀO CHỮA CỦA TÁC GIẢ CHO SÁCH MÌNH
 
@@ -59,8 +59,6 @@ Sách này vạch ra trước mắt bạn Người tìm kiếm giải thưởng 
 Sách này sẽ khiến bạn thành lữ khách, Nếu bạn chịu để lời khuyên nó cai trị mình: Nó sẽ dẫn bạn đến Đất Thánh, Nếu bạn chịu hiểu những chỉ dẫn của nó; Phải, nó sẽ khiến kẻ biếng nhác nên siêng năng; Kẻ mù cũng được thấy những điều vui thích. Bạn có muốn điều gì hiếm có và ích lợi chăng? Bạn có muốn thấy lẽ thật trong truyện ngụ ngôn chăng? Bạn có đãng trí chăng? bạn có muốn nhớ Từ ngày đầu năm mới đến cuối tháng chạp chăng? Vậy hãy đọc những tưởng tượng của tôi; chúng sẽ bám như gai góc, Và có thể là niềm an ủi cho kẻ khốn cùng.
 
 Sách này được viết bằng thứ ngôn ngữ Có thể lay động tâm trí những người thờ ơ; Nó dường như mới lạ, mà chẳng chứa Gì ngoài những âm điệu Phúc Âm lành mạnh và chân thật. Bạn có muốn giải khuây khỏi nỗi u sầu chăng? Bạn có muốn vui vẻ, mà xa lánh điều dại dột chăng? Bạn có muốn đọc câu đố, và lời giải nghĩa chăng? Hay chìm đắm trong sự suy ngẫm của mình chăng? Bạn có thích gặm xương chăng? hay bạn muốn thấy Một người giữa mây, và nghe người ấy nói với bạn chăng? Bạn có muốn ở trong giấc mơ, mà chẳng ngủ chăng? Hay trong một khoảnh khắc vừa cười vừa khóc chăng? Bạn có muốn lạc mất chính mình, mà chẳng hại gì chăng? Và tìm lại chính mình mà chẳng cần bùa chú chăng? Bạn có muốn đọc chính mình, và đọc điều bạn chẳng biết là gì, Mà vẫn biết mình được phước hay không, Nhờ đọc những dòng ấy chăng? Ôi vậy hãy đến đây, Và đặt sách tôi, đầu bạn và lòng bạn lại với nhau.
-
----
 
 HÀNH TRÌNH CỦA NGƯỜI HÀNH HƯƠNG
 
@@ -910,7 +908,7 @@ Cơ Đốc Nhân bèn cảm ơn người về lời khuyên bảo; nhưng cũng 
 
 Người Truyền Giáo nói: Các con, các con đã nghe, trong lời của lẽ thật Phúc Âm, rằng các con phải trải qua nhiều hoạn nạn mới vào nước Đức Chúa Trời (Công Vụ 14:22). Lại nữa, trong mỗi thành, xiềng xích và hoạn nạn đang chờ các con; bởi vậy các con đừng mong đi lâu trên cuộc hành hương mà không gặp chúng, cách này hay cách khác. Các con đã thấy những lời chứng này ứng nghiệm phần nào trên mình rồi, sắp tới sẽ ứng nghiệm thêm; vì giờ đây, như các con thấy, các con sắp ra khỏi đồng hoang này, chẳng bao lâu sẽ vào một thành mà các con sẽ thấy trước mặt; trong thành ấy các con sẽ bị kẻ thù vây hãm dữ dội, chúng sẽ ra sức giết các con; hãy chắc rằng một hoặc cả hai con phải lấy huyết mà ấn chứng lời chứng mình giữ; nhưng hãy trung tín cho đến chết, Vua sẽ ban cho các con mão triều thiên sự sống (Khải Huyền 2:10). Kẻ nào chết ở đó, dù sự chết người ấy không tự nhiên, nỗi đau có khi lớn, người ấy vẫn hơn bạn mình; không chỉ vì người ấy sẽ đến Thành Thiên Thượng sớm nhất, mà vì người ấy sẽ thoát nhiều khốn khổ mà người kia sẽ gặp trong phần còn lại của hành trình. Vậy khi các con đến thành ấy, thấy ứng nghiệm điều ta đã kể đây, hãy nhớ đến bạn mình, ăn ở như người dũng cảm; và "phó thác linh hồn mình cho Đức Chúa Trời trong sự làm lành, như cho Đấng Tạo Hóa thành tín" (1 Phi-e-rơ 4:19).
 
-## Hội Chợ Hư Vinh
+HỘI CHỢ HƯ VINH
 
 Rồi tôi thấy trong giấc mơ, khi họ ra khỏi đồng hoang, họ liền thấy trước mặt một thành, tên thành ấy là Hư Vinh; và tại thành ấy có mở một hội chợ gọi là Hội Chợ Hư Vinh. Hội chợ mở suốt cả năm; nó mang tên Hội Chợ Hư Vinh, vì thành nơi mở hội còn nhẹ hơn cả hư vinh; và cũng vì mọi thứ bán ở đó, hay đem đến đó, đều là hư vinh. Như lời người khôn ngoan: "Mọi sự đến đều là hư không" (Truyền Đạo 11:8). [NEEDS REVIEW: OCR hỏng ("AlFakat cometh is Vanity"), tham chiếu Truyền Đạo 11:8 suy theo bản chuẩn 1681]
 
@@ -930,7 +928,7 @@ Thứ ba, điều khiến các thương nhân không khỏi sửng sốt, là c�
 
 Có kẻ kia, chế nhạo nhìn dáng bộ hai người, nói với họ: Các anh muốn mua gì? Nhưng họ nghiêm trang nhìn kẻ ấy, đáp: Chúng tôi mua lẽ thật (Châm Ngôn 23:23). Nghe vậy, người ta càng có cớ khinh dể hai người hơn; kẻ nhạo báng, kẻ châm chọc, kẻ nói lời sỉ nhục, kẻ xui người khác đánh họ. Cuối cùng hội chợ náo loạn ầm ĩ, đến nỗi mọi trật tự đều đảo lộn. Tin ấy liền đến tai chúa tể hội chợ, hắn vội xuống, sai mấy người bạn tín cẩn nhất bắt hai người này đem tra xét, vì cớ họ mà hội chợ suýt đổ nhào. Thế là hai người bị điệu đến tra xét; những kẻ ngồi xử hỏi họ từ đâu đến, đi đâu, và làm gì ở đây với bộ dạng khác thường như vậy? Hai người thưa rằng họ là người hành hương, là khách lạ trong thế gian, đang đi về quê hương mình, tức là Giê-ru-sa-lem trên trời (Hê-bơ-rơ 11:13-16); và họ chẳng hề gây cớ gì cho dân thành, hay cho các thương nhân, để bị ngược đãi và cản trở hành trình như vậy; trừ ra một điều, là khi có người hỏi họ muốn mua gì, họ đáp rằng họ muốn mua lẽ thật. Nhưng những kẻ được cắt tra xét họ chẳng tin họ là gì khác hơn đồ điên khùng, hay là kẻ đến gây rối loạn trong hội chợ. Bởi vậy chúng bắt họ, đánh đập họ, bôi đất lên mình họ, rồi nhốt họ vào cũi sắt, để làm trò cho mọi người trong hội chợ xem. Họ nằm đó một thời gian, thành trò tiêu khiển, trò độc ác, trò báo thù của bất cứ ai; chúa tể hội chợ vẫn cười nhạo mọi điều xảy đến cho họ. Nhưng hai người nhẫn nhục, chẳng lấy lời rủa sả đáp lời rủa sả, trái lại lấy phước lành đáp, lấy lời lành đáp lời dữ, lấy nhân từ đáp sự hại; nên có vài người trong hội chợ tinh ý hơn, ít thành kiến hơn kẻ khác, bắt đầu quở trách, lên án bọn hạ lưu vì cứ ngược đãi hai người mãi. Chúng bèn nổi giận, quay sang mắng lại những người ấy, coi họ cũng xấu như hai người trong cũi, bảo rằng họ dường như đồng mưu, và sẽ chung chịu tai họa với hai người. Những người kia đáp rằng, theo chỗ họ thấy, hai người ấy hiền lành, đứng đắn, chẳng có ý hại ai; và trong hội chợ này có nhiều kẻ buôn bán đáng bị nhốt cũi, thậm chí đáng bị gông cổ, hơn là hai người mà chúng đã ngược đãi. Thế rồi đôi bên lời qua tiếng lại, hai người hành hương thì vẫn cư xử khôn ngoan, đứng đắn trước mặt họ suốt; rồi bọn chúng quay sang đánh nhau, làm hại lẫn nhau. Bấy giờ hai người khốn khổ lại bị điệu ra trước mặt các kẻ tra xét, và bị buộc tội gây ra vụ náo loạn mới rồi trong hội chợ. Chúng bèn đánh họ tàn nhẫn, tra cùm vào chân họ, xiềng xích dắt họ đi khắp hội chợ, làm gương răn đe kẻ khác, kẻo ai bênh vực họ hay nhập bọn với họ. Nhưng Cơ Đốc Nhân và Trung Tín càng cư xử khôn ngoan hơn, đón nhận sự sỉ nhục đổ trên mình với bao nhiêu hiền lành, nhẫn nhục, đến nỗi đã kéo về phía mình (dù ít ỏi so với số còn lại) mấy người trong hội chợ. Điều ấy càng khiến phe kia giận dữ hơn, đến nỗi chúng quyết định giết hai người này. Chúng đe rằng cũi sắt hay cùm xích chẳng đủ cho họ, mà hai người phải chết, vì tội đã làm nhục hội chợ và đã lừa dối dân hội chợ. Rồi họ bị tống lại vào cũi, chờ lệnh xử tiếp. Chúng nhốt họ vào, tra chân họ vào gông. Tại đây, họ lại nhớ đến điều đã nghe từ người bạn trung tín là người Truyền Giáo, và càng được vững lòng trong đường lối và sự chịu khổ, bởi điều ông đã bảo trước sẽ xảy đến cho họ. Họ cũng an ủi nhau rằng, ai được phần chịu khổ, người ấy được phần tốt nhất; bởi vậy mỗi người thầm mong mình được ơn ấy; nhưng đồng thời, phó thác mình cho sự sắp đặt khôn ngoan của Đấng cai trị mọi sự, họ bằng lòng ở trong cảnh ngộ ấy, cho đến khi được định đoạt cách khác.
 
-## Phiên tòa xử Trung Tín
+PHIÊN TÒA XỬ TRUNG TÍN
 
 Rồi đến ngày định để xử họ, họ bị điệu ra để xử, rồi định tội. Khi đến giờ, họ bị điệu ra trước mặt kẻ thù và bị luận tội. Tên quan án là chúa Ghét-Điều-Lành. Bản cáo trạng của cả hai về thực chất là một, dù lời văn có khác đôi chút, nội dung như sau: họ là kẻ thù và kẻ quấy rối việc buôn bán của hội chợ; họ đã gây náo động và chia rẽ trong thành, và đã lôi kéo một phe về với những ý kiến nguy hiểm nhất của họ, khinh dể luật pháp của hoàng tử chúng.
 
@@ -950,7 +948,7 @@ Bấy giờ tôi thấy, đằng sau đám đông, có một cỗ xe và đôi n
 
 Hỡi Trung Tín, ngươi đã trung tín xưng nhận Chúa ngươi, Đấng ngươi sẽ được phước với Ngài, Khi kẻ bất trung, với mọi thú vui hư không, Kêu la dưới hình phạt địa ngục của chúng: Hãy hát, Trung Tín, hát lên, danh ngươi còn mãi; Vì dù chúng giết ngươi, ngươi vẫn đang sống.
 
-## Hy Vọng gia nhập — Kiếm Lợi và ba người bạn
+HY VỌNG GIA NHẬP — KIẾM LỢI VÀ BA NGƯỜI BẠN
 
 Bấy giờ tôi thấy trong giấc mơ, Cơ Đốc Nhân không đi một mình, vì có một người tên là Hy Vọng (nhờ thấy Cơ Đốc Nhân và Trung Tín trong lời nói và cách cư xử, trong sự chịu khổ tại hội chợ, mà được nên như vậy) đã nhập bọn với ông, lập giao ước anh em, nói rằng mình sẽ làm bạn đồng hành với ông. Thế là một người chết để làm chứng cho lẽ thật, và một người khác từ tro tàn người ấy trỗi dậy, làm bạn đồng hành với Cơ Đốc Nhân trong cuộc hành hương. Hy Vọng này cũng nói với Cơ Đốc Nhân rằng còn nhiều người nữa trong hội chợ sẽ chờ dịp mà theo sau.
 
@@ -992,13 +990,13 @@ Hy Vọng: Chúc các quý ông buổi sáng tốt lành.
 
 Rồi Cơ Đốc Nhân và Hy Vọng lại vượt qua họ, đi đến một đồng bằng xinh đẹp gọi là Dễ Chịu, họ đi qua với nhiều thỏa thích; nhưng đồng ấy hẹp, nên họ qua nhanh. Bây giờ ở phía bên kia đồng ấy, có một đồi nhỏ gọi là Tham Lợi, trong đồi có một mỏ bạc, mà vài kẻ trước kia đi đường ấy, vì của hiếm, đã rẽ vào xem; nhưng đến quá gần miệng hố, đất dưới chân dối trá sụt xuống, họ bị giết; cũng có người bị thương tật ở đó, đến chết không còn là chính mình được nữa.
 
-## Đê-ma và Đồi Tham Lợi
+ĐÊ-MA VÀ ĐỒI THAM LỢI
 
 Tôi thấy trong giấc mơ, hơi lệch khỏi đường, đối diện mỏ bạc, có Đê-ma đứng (ra dáng quý ông) gọi khách qua đường đến xem; hắn nói với Cơ Đốc Nhân và bạn ông: Này! rẽ vào đây, ta sẽ cho xem một vật. Cơ Đốc Nhân: Vật gì đáng để chúng tôi ra khỏi đường vậy? Đê-ma: Ở đây có một mỏ bạc, người ta đang đào tìm châu báu; nếu các ông đến, chịu khó một chút là giàu sang dư dật. Hy Vọng bèn nói: Chúng ta hãy đến xem. Cơ Đốc Nhân: Ta thì không, ông nói; ta đã nghe nói về nơi này trước kia, biết bao người đã bị giết ở đó; hơn nữa, châu báu ấy là bẫy cho kẻ tìm nó, vì nó cản trở họ trong cuộc hành hương. Rồi Cơ Đốc Nhân gọi Đê-ma, nói: Nơi ấy há chẳng nguy hiểm sao? Há chẳng từng cản trở nhiều người trong cuộc hành hương sao? Đê-ma: Chẳng nguy hiểm mấy, trừ kẻ bất cẩn; nhưng nói vậy, mặt hắn đỏ bừng. Bấy giờ Cơ Đốc Nhân nói với Hy Vọng: Chúng ta đừng nhích một bước, cứ giữ đường mình mà đi. Hy Vọng: Tôi dám chắc, khi Kiếm Lợi đến, nếu hắn cũng được mời như chúng ta, hắn sẽ rẽ vào xem. Cơ Đốc Nhân: Chắc vậy, vì nguyên tắc hắn dẫn hắn đi đường ấy, và mười mươi là hắn chết ở đó. Đê-ma lại gọi: Các ông không qua xem sao? Cơ Đốc Nhân bèn đáp thẳng: Đê-ma, ngươi là kẻ thù của đường ngay thẳng của Chúa của đường này, và ngươi đã bị một quan án của đức vua Ngài kết án vì chính sự rẽ lạc của ngươi; sao ngươi còn tìm cách lôi chúng ta vào án phạt như ngươi? Hơn nữa, nếu chúng ta rẽ đi chút nào, Chúa là Vua chúng ta chắc chắn sẽ nghe biết, và sẽ làm chúng ta hổ thẹn nơi chúng ta muốn đứng dạn dĩ trước mặt Ngài. Đê-ma lại kêu rằng hắn cũng là anh em đồng đạo với họ; và nếu họ nán lại chút, chính hắn cũng sẽ cùng đi với họ. Cơ Đốc Nhân bèn nói: Tên ngươi là gì? Há chẳng phải tên ta vừa gọi ngươi sao? Đê-ma: Phải, tên tôi là Đê-ma, tôi là con cháu Áp-ra-ham. Cơ Đốc Nhân: Ta biết ngươi; Ghê-ha-xi là ông cố ngươi, Giu-đa là cha ngươi, và ngươi đã bước theo dấu chân chúng; trò ngươi dùng là trò ma quỷ: cha ngươi bị treo cổ vì tội phản nghịch, ngươi cũng đáng phần thưởng chẳng hơn. Hãy chắc rằng, khi chúng ta đến trước Vua, chúng ta sẽ tâu cho Ngài biết cách cư xử của ngươi. Thế rồi họ lên đường đi. Lúc ấy Kiếm Lợi và bạn hắn đã lại trong tầm mắt, vừa được vẫy gọi lần đầu đã sang phía Đê-ma. Còn họ có rơi xuống hố vì ngó qua miệng hố, hay có xuống đào, hay có bị ngạt dưới đáy vì khí độc thường bốc lên, những điều ấy tôi không chắc; nhưng điều tôi thấy là họ chẳng bao giờ còn thấy trên đường nữa. Bấy giờ Cơ Đốc Nhân hát:
 
 Kiếm Lợi và Đê-ma Bạc đều đồng lòng; Kẻ gọi, người chạy, để được chia phần lợi lộc; Hai kẻ ấy an phận với đời này, Chẳng đi xa hơn nữa.
 
-## Sông nước sự sống — Đồng Cỏ Lối Tắt
+SÔNG NƯỚC SỰ SỐNG — ĐỒNG CỎ LỐI TẮT
 
 Tôi thấy trong giấc mơ, họ đi đến một dòng sông xinh đẹp, mà Đa-vít vua gọi là sông của Đức Chúa Trời (Thi Thiên 65:9), và Giăng gọi là sông nước sự sống (Khải Huyền 22:1; Ê-xê-chi-ên 47:1). Đường họ đi nằm ngay bên bờ sông ấy: bởi vậy Cơ Đốc Nhân và bạn ông đi với nhiều vui thích; họ cũng uống nước sông, nước ngọt ngào, làm tươi tỉnh linh hồn mệt mỏi họ. Hai bên sông lại có đồng cỏ, trang điểm xinh đẹp bằng hoa huệ; cỏ xanh quanh năm. Trong đồng cỏ ấy họ nằm xuống ngủ; vì ở đây họ có thể nằm ngủ an toàn (Thi Thiên 23:2). Thức dậy, họ lại hái trái cây, lại uống nước sông, rồi lại nằm xuống ngủ. Họ làm vậy nhiều ngày đêm. Rồi họ hát:
 
@@ -1028,7 +1026,7 @@ Hy Vọng: Không, Hy Vọng nói, anh không được đi trước, vì lòng a
 
 Bấy giờ, để khích lệ họ, họ nghe tiếng một người phán: "Hãy để lòng ngươi hướng về đường cái, tức là con đường ngươi đã đi; hãy trở lại" (Giê-rê-mi 31:21). Nhưng lúc ấy nước đã dâng cao lắm, nên đường quay lại rất nguy hiểm. (Bấy giờ tôi nghĩ rằng ra khỏi đường khi đang ở trong thì dễ, mà vào lại khi đã ra thì khó.) Dù vậy họ liều quay lại; nhưng trời tối mịt, nước lũ cao, nên trên đường quay lại, chín mười lần họ suýt chết đuối. Họ dốc hết khéo léo cũng không tìm lại được bậc trèo trong đêm ấy. Cuối cùng, thấy một chỗ trú nhỏ, họ ngồi đó đợi trời sáng. Nhưng mệt quá, họ ngủ thiếp đi.
 
-## Lâu Đài Nghi Ngờ — Gã Khổng Lồ Tuyệt Vọng
+LÂU ĐÀI NGHI NGỜ — GÃ KHỔNG LỒ TUYỆT VỌNG
 
 Bấy giờ, không xa chỗ họ nằm, có một lâu đài gọi là Lâu Đài Nghi Ngờ, chủ nó là Gã Khổng Lồ Tuyệt Vọng, và họ đang ngủ trên đất của hắn: bởi vậy sáng sớm hắn dậy, đi dạo quanh đồng ruộng, bắt gặp Cơ Đốc Nhân và Hy Vọng đang ngủ trên đất mình. Hắn bèn quát bằng giọng gầm gừ, bảo họ dậy, hỏi họ là ai, từ đâu đến, làm gì trên đất hắn? Họ thưa họ là người hành hương, đã lạc đường. Gã khổng lồ bèn nói: Đêm nay các ngươi đã xâm phạm ta, giẫm nát và nằm trên đất ta, bởi vậy các ngươi phải đi theo ta. Thế là họ đành phải đi, vì hắn khỏe hơn họ. Họ cũng chẳng nói được gì nhiều, vì biết mình có lỗi. Gã khổng lồ bèn lùa họ đi trước, nhốt họ vào lâu đài, trong một ngục tối tăm, hôi hám ghê tởm đối với linh hồn hai người. Họ nằm đó từ sáng thứ Tư đến tối thứ Bảy, không một miếng bánh, không một giọt nước, không ánh sáng, không ai hỏi han; bởi vậy họ khốn khổ, xa bạn bè quen biết. Ở nơi này Cơ Đốc Nhân càng thêm buồn gấp bội, vì chính sự vội vàng thiếu suy nghĩ của ông đã đưa họ vào cảnh khốn này.
 
@@ -1046,7 +1044,7 @@ Họ bèn đi tiếp, đến đường cái của Vua, thế là an toàn, vì �
 
 Chúng ta đã ra ngoài đường, rồi mới biết Bước trên đất cấm là thế nào; Ai đến sau hãy cẩn thận kẻo Vô tâm mà chịu chung số phận như ta; Kẻo vì xâm phạm mà thành tù nhân Của kẻ lâu đài là Nghi Ngờ, tên là Tuyệt Vọng.
 
-## Núi Ngọt Ngào — bốn người chăn
+NÚI NGỌT NGÀO — BỐN NGƯỜI CHĂN
 
 Họ đi đến Núi Ngọt Ngào; núi này thuộc về Chúa của ngọn đồi mà chúng ta đã nói trước kia. Họ lên núi, ngắm vườn cây, vườn ăn trái, vườn nho, và suối nước; ở đó họ cũng uống, tắm rửa, và tự do ăn trái nho. Bấy giờ trên đỉnh núi, có những người chăn đang chăn bầy; họ đứng bên đường cái. Các người hành hương bèn đến với họ, tựa vào gậy (như người hành hương mệt mỏi thường làm khi đứng nói chuyện với ai bên đường), hỏi: Núi Ngọt Ngào này của ai? Bầy chiên ăn cỏ trên đó của ai? Người chăn: Các núi này là Đất của Em-ma-nu-ên, nằm trong tầm mắt thành của Ngài; bầy chiên cũng của Ngài, Ngài đã phó mạng sống vì chúng (Giăng 10:11, 15). Cơ Đốc Nhân: Đây có phải đường đến Thành Thiên Thượng chăng? Người chăn: Các ông đi đúng đường. Cơ Đốc Nhân: Còn bao xa nữa thì đến? Người chăn: Quá xa đối với bất cứ ai, trừ những kẻ thật sự đến được đó. Cơ Đốc Nhân: Đường đi an toàn hay nguy hiểm? Người chăn: An toàn cho những kẻ được định cho an toàn; nhưng kẻ phạm tội sẽ vấp ngã trong đó (Ô-sê 14:9). Cơ Đốc Nhân: Ở nơi này có chỗ nào giúp người hành hương mệt mỏi, kiệt sức trong đường chăng? Người chăn: Chúa của các núi này đã truyền cho chúng tôi: Chớ quên tiếp đãi khách lạ (Hê-bơ-rơ 13:2). Bởi vậy mọi điều tốt của nơi này ở trước mặt các ông.
 
@@ -1064,7 +1062,7 @@ Lúc ấy các người hành hương muốn đi tiếp, các người chăn cũ
 
 Nhờ người chăn, điều kín nhiệm tỏ bày, Điều giấu kín với mọi người khác: Hãy đến cùng người chăn, nếu muốn thấy Điều sâu nhiệm, điều kín giấu, huyền bí.
 
-## Dốt Nát — Kẻ Bỏ Dở — chuyện Đức Tin Nhỏ
+DỐT NÁT — KẺ BỎ DỞ — CHUYỆN ĐỨC TIN NHỎ
 
 Khi họ sắp từ giã, một người chăn trao cho họ một tờ chỉ dẫn đường đi. Người thứ hai dặn họ coi chừng Kẻ Nịnh Hót. Người thứ ba dặn họ giữ kẻo ngủ trên Vùng Đất Mê Hoặc. Người thứ tư chúc họ thượng lộ bình an. Thế là tôi tỉnh khỏi giấc mơ. Tôi lại ngủ, lại chiêm bao, thấy hai người hành hương ấy đi xuống núi, theo đường cái về phía Thành. Bấy giờ, hơi dưới núi, bên trái, là xứ Tự Phụ; từ xứ ấy có một ngõ nhỏ quanh co ăn vào đường người hành hương đi. Tại đây họ gặp một chàng trai nhanh nhẹn từ xứ ấy ra, tên là Dốt Nát. Cơ Đốc Nhân bèn hỏi hắn từ đâu đến, đi đâu? Dốt Nát: Thưa ông, tôi sinh ra ở xứ nằm phía kia, hơi lệch về trái, đang đi về Thành Thiên Thượng. Cơ Đốc Nhân: Nhưng ngươi tính sao vào được Cửa? vì ở đó ngươi có thể gặp khó khăn. Dốt Nát: Như các người lành khác thôi, hắn nói. Cơ Đốc Nhân: Nhưng ngươi có gì trình ở Cửa, để Cửa mở cho ngươi? Dốt Nát: Tôi biết ý Chúa tôi, và tôi ăn ở lương thiện; tôi trả ai nấy đều sòng phẳng; tôi cầu nguyện, kiêng ăn, nộp một phần mười, bố thí, và đã lìa bỏ xứ tôi từ đó đến, v.v... Cơ Đốc Nhân: Nhưng ngươi chẳng vào bằng Cửa Hẹp ở đầu đường này; ngươi vào đây qua ngõ quanh co kia, bởi vậy ta e, dù ngươi nghĩ về mình thế nào, đến ngày tính sổ, ngươi sẽ bị buộc tội là kẻ trộm kẻ cướp, thay vì được vào Thành. Dốt Nát: Thưa các quý ông, các ông là người lạ đối với tôi, tôi không biết các ông; xin cứ giữ tôn giáo của xứ các ông, tôi sẽ giữ tôn giáo của xứ tôi. Tôi hy vọng mọi sự sẽ tốt đẹp. Còn cái Cửa các ông nói, cả thế gian biết nó cách xứ chúng tôi xa lắm; tôi chẳng nghĩ trong xứ chúng tôi có ai biết đường đến đó; cũng chẳng cần biết làm gì, vì như các ông thấy, chúng tôi có một ngõ xanh tươi xinh đẹp, từ xứ chúng tôi xuống thẳng vào đường này, gần nhất. Cơ Đốc Nhân: Nhưng nếu ngõ ấy đưa ngươi ra khỏi đường thì sao? Dốt Nát: Chắc chắn không, vì đó là đường an toàn nhất tôi từng đi. Bấy giờ Cơ Đốc Nhân kéo bạn là Hy Vọng sang một bên, nói: Anh có nghe hắn nói chăng? Hy Vọng bèn nói: Tôi thấy hắn là hạng dại dột. Nhưng xin đừng giận hắn, kẻo hắn cũng hóa ra Kẻ Nịnh Hót. Thế là cả hai cùng đi, Dốt Nát theo sau.
 
@@ -1090,7 +1088,7 @@ Cơ Đốc Nhân: Phải, chúng ta cũng hãy xin Vua rằng Ngài sẽ tự đ
 
 Thương thay Đức Tin Nhỏ! Ngươi đã lọt vào tay cướp? Bị cướp rồi? Ai tin Chúa, hãy nhớ điều này, Và tìm thuốc giữ mình cho vững; Nghi Ngờ và Tội Lỗi sẽ chỉ hủy hoại ngươi. [NEEDS REVIEW: OCR bài ca này hỏng hoàn toàn, dựng theo bản chuẩn 1681 từ trí nhớ — cần đối chiếu bản in]
 
-## Kẻ Nịnh Hót — Kẻ Vô Thần
+KẺ NỊNH HÓT — KẺ VÔ THẦN
 
 Tôi thấy trong giấc mơ, họ đi đến một nơi mà họ đứng lại, không biết nên đi lối nào trong hai lối. Bấy giờ có một người đến với họ, hỏi họ sao đứng đó? Họ đáp họ đang đi về Thành Thiên Thượng, nhưng không biết nên đi lối nào trong hai lối. Người ấy nói: Hãy theo ta, ta cũng đi về đó. Thế là họ theo hắn vào lối vừa rẽ vào, lối ấy dần dần quẹo, quẹo họ ra khỏi Thành họ muốn đến, đến nỗi chẳng bao lâu mặt họ quay lưng lại với Thành; vậy mà họ cứ theo hắn. Nhưng rồi, khi họ chưa kịp biết, hắn dẫn cả hai vào giữa một cái lưới, trong đó cả hai vướng víu đến nỗi không biết làm sao; và kìa, chiếc áo trắng tuột khỏi lưng người da đen. Bấy giờ họ mới thấy mình ở đâu. Họ bèn nằm đó khóc lóc một lúc, vì không tự gỡ ra được.
 
@@ -1142,7 +1140,7 @@ Hy Vọng: Giờ tôi vui mừng trong hy vọng về vinh quang Đức Chúa Tr
 
 Họ bèn quay khỏi người ấy; hắn cười nhạo họ, đi đường mình.
 
-## Vùng Đất Mê Hoặc — lời chứng của Hy Vọng
+VÙNG ĐẤT MÊ HOẶC — LỜI CHỨNG CỦA HY VỌNG
 
 Tôi thấy trong giấc mơ, họ đi đến một xứ mà không khí nơi ấy tự nhiên khiến người lạ đến phải buồn ngủ. Tại đây Hy Vọng bắt đầu đờ đẫn, buồn ngủ nặng nề; ông bèn nói với Cơ Đốc Nhân: Giờ tôi bắt đầu buồn ngủ đến nỗi mắt chẳng mở nổi: chúng ta hãy nằm xuống đây, chợp mắt một chút.
 
@@ -1278,7 +1276,7 @@ Cơ Đốc Nhân: Đó thật là sự bày tỏ Đấng Christ cho linh hồn a
 
 Hy Vọng: Nó khiến tôi thấy cả thế gian, dù có mọi sự công chính, vẫn ở trong tình trạng bị đoán phạt. Nó khiến tôi thấy Đức Chúa Cha, dù công chính, vẫn có thể công chính mà xưng công chính kẻ có tội đến với Ngài. Nó khiến tôi hổ thẹn lắm về sự đê hèn của đời trước kia, và làm tôi bối rối vì cảm biết sự dốt nát mình: vì chưa từng có ý tưởng nào vào lòng tôi trước nay, cho tôi thấy vẻ đẹp của Chúa Giê-xu Christ như vậy. Nó khiến tôi yêu đời sống thánh khiết, khao khát làm điều gì cho danh dự và vinh quang của danh Chúa Giê-xu. Phải, tôi nghĩ, giá giờ tôi có nghìn thùng huyết trong thân, tôi cũng đổ hết vì cớ Chúa Giê-xu.
 
-## Đối thoại với Dốt Nát về sự xưng công chính
+ĐỐI THOẠI VỚI DỐT NÁT VỀ SỰ XƯNG CÔNG CHÍNH
 
 Tôi thấy trong giấc mơ, Hy Vọng ngoái lại, thấy Dốt Nát, kẻ họ đã bỏ lại, đang đến sau. Ông nói với Cơ Đốc Nhân: Anh xem, thằng nhóc đằng kia lề mề sau xa là dường nào.
 
@@ -1464,7 +1462,7 @@ Cơ Đốc Nhân: Ta sẵn lòng.
 
 1. Họ rút tư tưởng mình, hết sức có thể, khỏi sự nhớ đến Đức Chúa Trời, sự chết, và sự phán xét đời sau. 2. Rồi họ dần dần bỏ các bổn phận riêng, như cầu nguyện kín nhiệm, kiềm chế dục vọng, tỉnh thức, buồn rầu vì tội, v.v... 3. Rồi họ tránh bạn bè với Cơ Đốc Nhân sống động, nóng nảy. 4. Sau đó, họ nguội lạnh với bổn phận chung, như nghe giảng, đọc Kinh Thánh, trò chuyện tin kính, v.v... 5. Rồi họ bắt đầu bới lông tìm vết, như ta nói, trên áo vài người tin kính, mà bới cách ma quỷ, để có cớ bề ngoài mà quăng tôn giáo (vì cớ vài yếu đuối họ soi thấy nơi họ) ra sau lưng. 6. Rồi họ bắt đầu gắn bó, kết bạn với kẻ xác thịt, buông tuồng, phóng đãng. 7. Rồi họ buông mình theo những cuộc trò chuyện xác thịt, phóng đãng nơi kín nhiệm; vui lắm nếu thấy những điều như vậy nơi ai được kể là lương thiện, để nhờ gương họ mà càng dạn dĩ làm. 8. Sau đó, họ bắt đầu đùa với tội nhỏ công khai. 9. Rồi, đã cứng lòng, họ tỏ ra đúng bản chất mình. Thế là lại lao vào vực khốn khổ, trừ khi phép lạ của ân điển ngăn lại, họ hư mất đời đời trong sự lừa dối mình.
 
-## Xứ Bêu-la — qua Sông — Thành Thiên Thượng
+XỨ BÊU-LA — QUA SÔNG — THÀNH THIÊN THƯỢNG
 
 Tôi thấy trong giấc mơ, bấy giờ các người hành hương đã qua khỏi Vùng Đất Mê Hoặc, vào Xứ Bêu-la (Ê-sai 62:4), nơi không khí rất ngọt ngào dễ chịu; đường đi xuyên qua đó, họ vui hưởng ở đó một thời gian. Phải, ở đây họ nghe luôn tiếng chim hót, mỗi ngày thấy hoa nở trên đất, nghe tiếng chim cu trong xứ (Nhã Ca 2:10-12). Trong xứ này mặt trời chiếu cả đêm lẫn ngày; bởi vậy nơi này ở ngoài Thung Lũng Bóng Chết, cũng ngoài tầm Gã Khổng Lồ Tuyệt Vọng; từ nơi này họ cũng không còn thấy Lâu Đài Nghi Ngờ. Ở đây họ đã trong tầm mắt Thành họ đi đến, ở đây cũng gặp vài cư dân của Thành; vì trong xứ này các vị sáng láng thường đi lại, vì nó ở biên giới thiên đàng. Trong xứ này, giao ước giữa chàng rể và nàng dâu được đổi mới; phải, ở đây, như chàng rể vui mừng vì nàng dâu, Đức Chúa Trời họ cũng vui mừng vì họ (Ê-sai 62:5). Ở đây họ không thiếu lúa và rượu; vì ở nơi này họ gặp dư dật điều họ đã tìm kiếm suốt cuộc hành hương. Ở đây họ nghe tiếng từ trong Thành, tiếng lớn phán: Hãy nói với con gái Si-ôn: Kìa, sự cứu rỗi ngươi đến! Kìa, phần thưởng Ngài ở với Ngài (Ê-sai 62:11). Ở đây mọi cư dân trong xứ gọi họ là: Dân thánh, kẻ được Đức Chúa Trời chuộc, kẻ được tìm kiếm, v.v... (Ê-sai 62:12).
 
@@ -1528,12 +1526,14 @@ Cũng có những vị có cánh, họ đáp nhau không ngớt: Thánh thay, th
 
 Khi tôi đang ngắm mọi điều ấy, tôi quay đầu nhìn lại, thấy Dốt Nát đến mé sông; nhưng hắn qua nhanh, chẳng khó bằng nửa hai người kia. Vì tình cờ lúc ấy ở đó có một Hy Vọng Hão, người lái đò, lấy thuyền chở hắn qua; hắn, như người kia tôi thấy, cũng lên đồi đến Cửa, chỉ một mình; chẳng ai ra đón hắn với một lời khích lệ nào. Khi đến Cửa, hắn ngước nhìn chữ khắc trên Cửa, rồi bắt đầu gõ, tưởng rằng sẽ được cho vào ngay: nhưng người nhìn xuống qua đầu Cửa hỏi hắn: Ngươi từ đâu đến? muốn gì? Hắn đáp: Tôi đã ăn uống trước mặt Vua, Ngài đã dạy dỗ trong đường phố chúng tôi (Lu-ca 13:26). Họ bèn hỏi chứng thư hắn, để đem vào trình Vua; hắn bèn lục trong ngực áo tìm, chẳng thấy. Họ bèn nói: Ngươi không có sao? Nhưng người ấy chẳng đáp một lời. Họ bèn tâu Vua, nhưng Vua không xuống xem hắn, mà truyền hai vị sáng láng đã đưa Cơ Đốc Nhân và Hy Vọng đến Thành, ra bắt Dốt Nát, trói tay chân, quăng hắn đi. Họ bèn nhấc hắn lên, đem qua không trung, đến cánh cửa tôi thấy bên sườn đồi, nhốt hắn vào đó. Tôi thấy rằng có một đường xuống địa ngục, ngay từ Cửa Thiên Đàng, cũng như từ Thành Hủy Diệt. Tôi bèn tỉnh dậy, kìa đó là một giấc mơ.
 
-## Lời Kết
+LỜI KẾT
 
 Này độc giả, ta đã kể giấc mơ cho ngươi; Xem ngươi có giải được cho ta, Cho chính ngươi, hay người lân cận chăng; nhưng hãy coi chừng Giải sai; vì thay vì làm điều lành, Giải sai chỉ hại chính mình: Bởi giải sai, điều ác theo sau. Cũng hãy coi chừng, chớ quá đà, Đùa giỡn với bề ngoài giấc mơ ta: Đừng để hình bóng hay ẩn dụ ta Khiến ngươi cười cợt hay gây gổ; Hãy để ta cũng vui đùa trên mê cung ấy: Nhưng ta muốn vậy, ngươi hãy đến, thử xem, Ngươi sẽ tìm thấy Điều giấu kín khiến ngươi vui mừng, Ngươi sẽ tìm thấy chúng nếu ngươi chịu thử; Lòng tốt, và Đức Chúa Trời sẽ dẫn ngươi bởi đó. [NEEDS REVIEW: toàn bộ Lời Kết OCR hỏng không đọc được; bản dịch dựng theo văn bản chuẩn 1681 từ trí nhớ — cần đối chiếu bản in trước khi xuất bản]
 
----
-
-TRANSLATION STATUS: COMPLETE TERMINOLOGY ISSUES: tổng 86 NEEDS REVIEW. - P1 (77 NEEDS REVIEW): OCR hỏng nặng nhất ở: đối thoại với ông Khôn Ngoan Đời, đoạn rời Nhà Xinh Đẹp → gặp A-pô-li-ôn, trò chuyện với Đạo Đức/Khôn Ngoan/Nhân Ái, đối chất Ba Hoa — đã phục dựng theo mạch truyện và đánh dấu rõ ràng. - P2 (9 NEEDS REVIEW): lời khai 3 nhân chứng phiên tòa Trung Tín; bài ca sau Đê-ma; 4 câu giữa bài ca sau Kẻ Nịnh Hót; bài ca sau chuyện Đức Tin Nhỏ; toàn bộ Lời Kết; 1 câu của Kiếm Lợi; 1 câu đáp của Cơ Đốc Nhân về Dốt Nát; tham chiếu Truyền Đạo 11:8 — P2 đã dựng lại theo văn bản chuẩn 1681 và đánh dấu tại chỗ, cần đối chiếu bản in 1681 trước khi xuất bản. - Lỗi OCR đã sửa lặng lẽ: ſ→s, "bis"→"his".
-
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

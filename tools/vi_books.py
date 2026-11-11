@@ -370,6 +370,10 @@ for _b in _idx:
                   'b.textContent="▶ Tiếp tục đọc — trang "+(pos+1)+(pr&&pr.p?" · "+pr.p+"%":"");}catch(e){}})()</script>')
     _rep = "mailto:reformedvn@gmail.com?subject=" + _ul.quote(f"Báo lỗi bản dịch: {_dt} — {_au}")  # Phase 1.1: page context in subject
     _rep_line = f'<p class="m">Thấy lỗi trong bản dịch? <a href="{_rep}">Báo lỗi bản dịch</a>.</p>'
+    # Summary-audit fix (2026-11-11): abridged/summary books link to the full
+    # text right under the title. Data-driven: only entries with BOTH
+    # full_url + full_label get the line; all other pages are unchanged.
+    _full_line = f'<p class="m">Bản đầy đủ: <a href="{E(_b["full_url"])}">{E(_b["full_label"])}</a>.</p>' if _b.get("full_url") and _b.get("full_label") else ""
     # Phase 1.3: original-source link(s) — only live-verified ids (see _SRC).
     # IA details page ("bản gốc") and, for the 26 catalogue src entries, the
     # djvu.txt text that was actually translated ("văn bản nguồn đã dịch").
@@ -386,7 +390,7 @@ for _b in _idx:
         _src_links.append(f'<a href="{E(_ul.quote(_djvu, safe="/:"))}">Văn bản nguồn đã dịch</a>')
     _src_line = ('<p class="m">Nguồn: ' + " · ".join(_src_links) + ".</p>") if _src_links else ""
     _body = (f'<style>.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}{_toc_css}.rv-badge{{display:inline-block;font:600 12px \'Be Vietnam Pro\',system-ui,sans-serif;padding:3px 10px;border-radius:999px;background:#d9a41e22;color:var(--mut);border:1px solid var(--line);vertical-align:middle}}.rv-badge.rv-reviewed{{background:#2e7d3222;color:#2e7d32}}.rv-badge.rv-in-review{{background:#7c212822;color:var(--acc)}}</style>'
-             f'<h1>{E(_dt)}</h1>{_au_line}{_rt_line}{_label}{_rep_line}{_src_line}' +
+             f'<h1>{E(_dt)}</h1>{_au_line}{_rt_line}{_label}{_rep_line}{_full_line}{_src_line}' +
              f'<p class="rd-top"><a class="btn primary" href="{_rd}">📖 Đọc trong trình đọc</a> <a class="btn s" id="rv-resume" href="{_rd}" hidden>▶ Tiếp tục đọc</a></p>{_resume_js}' +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
              f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}' + _vn_related(_slug, _au, _orig) +
