@@ -464,7 +464,7 @@ landing = f"""{head(f"Bách Khoa Thần Học Cải Chánh — {len(entries)} th
   <p style="margin:0 0 6px"><a class="btn solid" href="/bach-khoa/theo-chu-de.html">Xem theo 10 lĩnh vực →</a></p></div>
   <div class="band-tint"><h2 class="bt-head">Trung tâm giáo lý</h2>
   <p style="color:var(--ink-soft);margin:0 0 12px">Ba chủ đề lớn của thần học Cải Chánh, mỗi chủ đề dẫn tới các thuật ngữ, sách, câu Kinh Thánh và câu hỏi liên quan.</p>
-  <p style="margin:0 0 6px"><a class="btn" href="/bach-khoa/nam-sola.html">Năm Sola</a> <a class="btn" href="/bach-khoa/tulip.html">TULIP — Năm điểm</a> <a class="btn" href="/bach-khoa/than-hoc-giao-uoc.html">Thần học Giao ước</a></p></div>
+  <p style="margin:0 0 6px"><a class="btn" href="/trung-tam-giao-ly/nam-sola.html">Năm Sola</a> <a class="btn" href="/trung-tam-giao-ly/tulip.html">TULIP — Năm điểm</a> <a class="btn" href="/trung-tam-giao-ly/than-hoc-giao-uoc.html">Thần học Giao ước</a></p></div>
   <div id="termIndex">
 {index_html}
   </div>
