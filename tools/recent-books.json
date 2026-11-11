@@ -1,0 +1,187 @@
+{
+ "generated": "2026-11-11",
+ "boundary_excluded": "2026-11-05",
+ "note": "Ngay them = ngay trang ban-dich/ cua sach xuat hien lan dau trong git (sau ngay gioi han shallow clone). Khong co ngay nao duoc tu suy ra cho sach cu hon.",
+ "books": [
+  {
+   "slug": "arch-gomarus-on-the-sacraments",
+   "title": "Về Các Bí Tích",
+   "author": "Franciscus Gomarus",
+   "date": "2026-11-11"
+  },
+  {
+   "slug": "arch-gerhard-sacred-meditations",
+   "title": "Suy Ngẫm Thánh",
+   "author": "Johann Gerhard",
+   "date": "2026-11-10"
+  },
+  {
+   "slug": "arch-burroughs-gospel-fear",
+   "title": "Sợ Hãi Theo Phúc Âm",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-10"
+  },
+  {
+   "slug": "poole-chu-thich-1-co-rinh-to",
+   "title": "Chú Thích Về Kinh Thánh — Thư Thứ Nhất Gửi Người Cô-rinh-tô",
+   "author": "Matthew Poole",
+   "date": "2026-11-09"
+  },
+  {
+   "slug": "poole-chu-thich-ro-ma",
+   "title": "Chú Thích Về Kinh Thánh — Thư Gửi Người Rô-ma",
+   "author": "Matthew Poole",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "poole-chu-thich-mac-lu-ca-1-9",
+   "title": "Chú Thích Về Kinh Thánh — Mác & Lu-ca 1–9",
+   "author": "Matthew Poole",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "poole-chu-thich-ma-thi-o-14-28",
+   "title": "Chú Thích Về Kinh Thánh — Ma-thi-ơ 14–28",
+   "author": "Matthew Poole",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "poole-chu-thich-lu-ca-10-24",
+   "title": "Chú Thích Về Kinh Thánh — Lu-ca 10–24",
+   "author": "Matthew Poole",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "poole-chu-thich-giang-1-21",
+   "title": "Chú Thích Về Kinh Thánh — Giăng 1–21",
+   "author": "Matthew Poole",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "poole-chu-thich-da-ni-en-o-se-gio-en",
+   "title": "Chú Thích Về Kinh Thánh — Đa-ni-ên, Ô-sê & Giô-ên",
+   "author": "Matthew Poole",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "poole-chu-thich-cong-vu",
+   "title": "Chú Thích Về Kinh Thánh — Công Vụ Các Sứ Đồ",
+   "author": "Matthew Poole",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "poole-chu-thich-a-mot-ha-ba-cuc",
+   "title": "Chú Thích Về Kinh Thánh — A-mốt, Áp-đia, Giô-na, Mi-chê, Na-hum & Ha-ba-cúc",
+   "author": "Matthew Poole",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "poole-chu-thich-xuat-ai-le-vi-ky",
+   "title": "Chú Thích Về Kinh Thánh — Sách Xuất Ê-díp-tô Ký & Sách Lê-vi Ký",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-xo-pho-ni-ma-la-chi",
+   "title": "Chú Thích Về Kinh Thánh — Xô-phô-ni, Ha-gai, Xa-cha-ri & Ma-la-chi",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-thi-thien-76-150",
+   "title": "Chú Thích Về Kinh Thánh — Thi Thiên 76–150",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-thi-thien-1-75",
+   "title": "Chú Thích Về Kinh Thánh — Thi Thiên 1–75",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-su-ky-esther",
+   "title": "Chú Thích Về Kinh Thánh — Sử Ký, E-xơ-ra, Nê-hê-mi & Ê-xơ-tê",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-samuel",
+   "title": "Chú Thích Về Kinh Thánh — 1 & 2 Sa-mu-ên",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-ma-thi-o-1-13",
+   "title": "Chú Thích Về Kinh Thánh — Ma-thi-ơ 1–13",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-giosue-quan-xet",
+   "title": "Chú Thích Về Kinh Thánh — Sách Giô-suê, Các Quan Xét & Ru-tơ",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-giop",
+   "title": "Chú Thích Về Kinh Thánh — Sách Gióp",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-gieremi-26-52",
+   "title": "Chú Thích Về Kinh Thánh — Giê-rê-mi 26–52",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-gieremi-1-25",
+   "title": "Chú Thích Về Kinh Thánh — Giê-rê-mi 1–25",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-exechien-24-48",
+   "title": "Chú Thích Về Kinh Thánh — Ê-xê-chi-ên 24–48",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-esai-34-66",
+   "title": "Chú Thích Về Kinh Thánh — Ê-sai 34–66",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-esai-1-33",
+   "title": "Chú Thích Về Kinh Thánh — Ê-sai 1–33",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-dan-so-phuc-truyen",
+   "title": "Chú Thích Về Kinh Thánh — Sách Dân Số Ký & Sách Phục Truyền Luật Lệ Ký",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-cham-ngon-nha-ca",
+   "title": "Chú Thích Về Kinh Thánh — Sách Châm Ngôn, Truyền Đạo Và Nhã Ca",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-cac-vua",
+   "title": "Chú Thích Về Kinh Thánh — 1 & 2 Các Vua",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  },
+  {
+   "slug": "poole-chu-thich-ca-thuong-exechien-1-23",
+   "title": "Chú Thích Về Kinh Thánh — Ca Thương & Ê-xê-chi-ên 1–23",
+   "author": "Matthew Poole",
+   "date": "2026-11-07"
+  }
+ ]
+}

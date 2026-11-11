@@ -159,6 +159,22 @@ def _titlecase_vi(t):
     return " ".join(_out)
 _TOTOP_CSS = ".totop{position:fixed;right:16px;bottom:18px;z-index:50;background:var(--accbtn,#7c2128);color:#fff;padding:8px 14px;border-radius:999px;text-decoration:none;font:600 14px system-ui,sans-serif;box-shadow:0 2px 10px rgba(0,0,0,.25)}"
 _TOTOP_MIN = 50 * 1024  # H9: back-to-top only on pages over ~50 KB of body HTML
+# Phase 3.4: reading-time estimate. 175 words/min = the speed reader.html
+# uses for its remaining-time estimate, so the book-page figure and the
+# in-reader ETA agree. Rounded to the nearest 5 minutes: an estimate, not
+# a promise. Returns (display text, rounded minutes).
+def _read_time(words, wpm=175):
+    mins = max(5, round(max(1, round(words / wpm)) / 5) * 5)
+    if mins < 60:
+        return f"khoảng {mins} phút", mins
+    h, m = divmod(mins, 60)
+    return (f"khoảng {h} giờ {m} phút" if m else f"khoảng {h} giờ"), mins
+def _words_fmt(n):
+    return f"{n:,}".replace(",", ".")  # Vietnamese thousands separator
+def _vn_date(iso):
+    y, m, d = iso.split("-")
+    return f"{int(d)}/{int(m)}/{y}"
+_MD_MARK_PFX = _r.compile(r"^\x00MDH\x00md-\d+\x00")  # strip md sub-heading marker, keep the heading text
 def _normfile(f):
     """Normalise an index 'file' value to a translations/ slug (no dir, no ext).
     Tolerates the 'translations/' prefix found on 589 live index entries
@@ -294,10 +310,24 @@ for _b in _idx:
     _orig_book = bool(_b.get("original"))
     _label = ((f'<p class="dr">Bản nháp do AI ({E(_by)}) hỗ trợ soạn, chưa được mục sư duyệt giáo lý. Nhiều câu Kinh Thánh được dịch lại từ tiếng Anh nên có thể khác chữ bản 1934; trong trình đọc, chạm vào địa chỉ câu để xem đúng bản 1934. Hãy đọc với tinh thần Bê-rê và hỏi mục sư của bạn.</p>' if not _rev else '<p class="dr">Sách đã được mục sư xem lại.</p>') if _orig_book else'<p class="dr">Bản dịch đã được mục sư xem lại. Hãy luôn đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>' if _rev else
               f'<p class="dr">Bản dịch do AI ({E(_by)}) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.</p>')
+    # Phase 3.4: word count over the rendered text (headings + paragraphs;
+    # translator footer + review notes are excluded — they never render).
+    _words = 0
+    for _h, _ps in _secs:
+        _words += len(_h.split())
+        for _ln2 in _ps:
+            _words += len(_MD_MARK_PFX.sub("", _ln2).split())
+    _rt, _mins = _read_time(_words)
+    # Phase 3.2/3.3: reader URL (also used by the per-chapter deep links).
+    _rd = f'/reader.html?id=vn/{_slug}&pid=' + _ul.quote(_b["id"], safe="")
     # Batch C (H2/H9): TOC includes the Markdown sub-headings (id md-N).
+    # Phase 3.3: each top-level chapter also gets a "Đọc →" deep link into
+    # the reader (?at=<heading>); the reader matches it against the chapter
+    # heading text (reader.html normalises leading "# " / "**" markers).
     _toc_ps = []
     for i, s in enumerate(_secs):
-        _toc_ps.append(f'<li><a href="#c{i+1}">{E(s[0])}</a></li>')
+        _at = _ul.quote(s[0], safe="")
+        _toc_ps.append(f'<li><a href="#c{i+1}">{E(s[0])}</a> <a class="toc-rd" href="{_rd}&at={_at}">Đọc →</a></li>')
         for _ln in s[1]:
             _mm = _MD_MARK.match(_ln)
             if _mm:
@@ -324,11 +354,20 @@ for _b in _idx:
                 _sec_html += f"<p>{E(_md_inline(chr(10).join(_buf).strip())).replace(chr(10), '<br>')}</p>"
         _body_secs += _sec_html
     # _au / _orig resolved above via _resolve (Wave 2)
-    _rd = f'/reader.html?id=vn/{_slug}&pid=' + _ul.quote(_b["id"], safe="")
-    _toc_css = ".toc-sub{margin-left:1.2em}" if "toc-sub" in _toc else ""  # Batch C: only when md sub-headings exist
+    _toc_css = ".toc-rd{font:600 12px 'Be Vietnam Pro',system-ui,sans-serif;color:var(--mut);margin-left:6px;text-decoration:none;white-space:nowrap}" + (".toc-sub{margin-left:1.2em}" if "toc-sub" in _toc else "")  # Batch C: only when md sub-headings exist
     _au_slug = _AMAP.get(_au) or _AUTHOR_ALIASES.get(_au)  # Phase 1.3: exact map, then alias
     _au_html = f'<a href="/a/{_au_slug}.html">{E(_au)}</a>' if _au_slug else E(_au)  # Phase 1.3: author bio link when mapped
     _au_line = f'<p>{_au_html}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f' <span class="rv-badge rv-{_rstat}">{_rbadge}</span></p>'
+    _rt_line = f'<p class="m">⏱ Thời gian đọc ước tính: {_rt} · {_words_fmt(_words)} từ (tốc độ 175 từ/phút)</p>'  # Phase 3.4
+    # Phase 3.2: resume button. Hidden unless this device has a saved
+    # position for the book (reader.html stores rv.pos.vn/<slug> +
+    # rv.prog[<pid>]); the script unhides it and points it at the saved page.
+    _resume_js = ('<script>(function(){try{var id=' + _j.dumps("vn/" + _slug) + ',pid=' + _j.dumps(_b["id"]) +
+                  ',pos=+localStorage.getItem("rv.pos."+id)||0;if(!pos)return;'
+                  'var b=document.getElementById("rv-resume");if(!b)return;'
+                  'var pr=null;try{pr=JSON.parse(localStorage.getItem("rv.prog")||"{}")[pid]}catch(e){}'
+                  'b.hidden=false;b.href="/reader.html?id="+id+"&pid="+encodeURIComponent(pid)+"&p="+pos;'
+                  'b.textContent="▶ Tiếp tục đọc — trang "+(pos+1)+(pr&&pr.p?" · "+pr.p+"%":"");}catch(e){}})()</script>')
     _rep = "mailto:reformedvn@gmail.com?subject=" + _ul.quote(f"Báo lỗi bản dịch: {_dt} — {_au}")  # Phase 1.1: page context in subject
     _rep_line = f'<p class="m">Thấy lỗi trong bản dịch? <a href="{_rep}">Báo lỗi bản dịch</a>.</p>'
     # Phase 1.3: original-source link(s) — only live-verified ids (see _SRC).
@@ -347,8 +386,8 @@ for _b in _idx:
         _src_links.append(f'<a href="{E(_ul.quote(_djvu, safe="/:"))}">Văn bản nguồn đã dịch</a>')
     _src_line = ('<p class="m">Nguồn: ' + " · ".join(_src_links) + ".</p>") if _src_links else ""
     _body = (f'<style>.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}{_toc_css}.rv-badge{{display:inline-block;font:600 12px \'Be Vietnam Pro\',system-ui,sans-serif;padding:3px 10px;border-radius:999px;background:#d9a41e22;color:var(--mut);border:1px solid var(--line);vertical-align:middle}}.rv-badge.rv-reviewed{{background:#2e7d3222;color:#2e7d32}}.rv-badge.rv-in-review{{background:#7c212822;color:var(--acc)}}</style>'
-             f'<h1>{E(_dt)}</h1>{_au_line}{_label}{_rep_line}{_src_line}' +
-             f'<p class="rd-top"><a class="btn primary" href="{_rd}">📖 Đọc trong trình đọc</a></p>' +
+             f'<h1>{E(_dt)}</h1>{_au_line}{_rt_line}{_label}{_rep_line}{_src_line}' +
+             f'<p class="rd-top"><a class="btn primary" href="{_rd}">📖 Đọc trong trình đọc</a> <a class="btn s" id="rv-resume" href="{_rd}" hidden>▶ Tiếp tục đọc</a></p>{_resume_js}' +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
              f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}' + _vn_related(_slug, _au, _orig) +
              f'<p><a class="btn primary" href="{_rd}">Mở trong trình đọc</a> <a class="btn s" href="/">Về thư viện</a></p>')
@@ -373,7 +412,7 @@ for _b in _idx:
         _ttl = f'{_ttl_dt} · bản dịch tiếng Việt'
     open(_path, "w", encoding="utf-8").write(page(_ttl, f'Bản dịch tiếng Việt "{_dt}" của {_au}. Miễn phí.', _path, _body, _ld))
     urls.append(_path)
-    VIBOOKS[_b["id"]] = {"u": "/" + _path, "by": _by, "r": _rev, "rs": _rstat, "rd": f"reader.html?id=vn/{_slug}&pid=" + _ul.quote(_b["id"], safe="")}
+    VIBOOKS[_b["id"]] = {"u": "/" + _path, "by": _by, "r": _rev, "rs": _rstat, "words": _words, "mins": _mins, "rd": f"reader.html?id=vn/{_slug}&pid=" + _ul.quote(_b["id"], safe="")}
     _hub.append((_bt, _au, _orig, "/" + _path, _rev, _orig_book, _rstat))
 open("vi-books.json", "w", encoding="utf-8").write(_j.dumps(VIBOOKS, ensure_ascii=False))
 # Batch C: the live index has entries with no 'file' key; they are skipped, not fatal.
@@ -382,7 +421,15 @@ if _nofile:
 
 _li = lambda x: bcard(x[0], x[1], x[3], badge=_RSTATUS.get(x[6], _RSTATUS["ai-draft"]), kicker=x[2] or "Bản dịch")
 _tr = "".join(_li(x) for x in _hub if not x[5]); _nw = "".join(_li(x) for x in _hub if x[5])
-_hb = ('<h1>Bản dịch và sách mới</h1><p class="dr" style="padding:.6em .9em;border-radius:8px;background:#d9a41e22">Các sách dưới đây do AI hỗ trợ dịch hoặc soạn và <b>chưa được mục sư duyệt giáo lý</b>. Hãy đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>'
+# Phase 3.6: "Moi them gan day" from tools/recent-books.json (git-derived
+# dates; absent file = no block, safe default). Top 8, newest first.
+_RECENT = _j.load(open("tools/recent-books.json", encoding="utf-8"))["books"][:8] if _o.path.exists("tools/recent-books.json") else []
+_recent_html = ""
+if _RECENT:
+    _recent_html = ('<h2>Mới thêm gần đây</h2><p class="m">Ngày thêm là ngày sách xuất hiện trong thư viện (theo lịch sử kho mã). '
+                    'Xem <a href="/moi-cap-nhat.html">Mới cập nhật</a> để biết các thay đổi khác của trang.</p><ul>' +
+                    "".join(f'<li><a href="/ban-dich/{b["slug"]}.html">{E(b["title"])}</a> — {E(b["author"])} <span class="m">· thêm ngày {_vn_date(b["date"])}</span></li>' for b in _RECENT) + '</ul>')
+_hb = ('<h1>Bản dịch và sách mới</h1><p class="dr" style="padding:.6em .9em;border-radius:8px;background:#d9a41e22">Các sách dưới đây do AI hỗ trợ dịch hoặc soạn và <b>chưa được mục sư duyệt giáo lý</b>. Hãy đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>' + _recent_html
        + (f'<h2>Bản dịch tiếng Việt</h2>' + bkgrid(_tr) if _tr else '') + (f'<h2>Sách mới (tác giả David)</h2>' + bkgrid(_nw) if _nw else '') + '<p><a class="btn primary" href="/">Về thư viện</a></p>')
 if _hub:
     open("ban-dich/index.html", "w", encoding="utf-8").write(page("Bản dịch và sách mới | Reformed Vietnam", "Các bản dịch tiếng Việt và sách mới do AI hỗ trợ, chưa duyệt giáo lý. Miễn phí.", "ban-dich/index.html", _hb))
