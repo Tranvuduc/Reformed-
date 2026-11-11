@@ -1205,6 +1205,7 @@ arch-gill-two-discourses-prayer.txt
 arch-gill-urim-thummim.txt
 arch-gill-watchman-answer.txt
 arch-godly-letter-knox-1581-thu-gui-tin-huu-london-knox.txt
+arch-gomarus-on-the-sacraments.txt
 arch-goodwin-encouragements-faith.txt
 arch-goodwin-funeral-sermon.txt
 arch-goodwin-government-discipline.txt

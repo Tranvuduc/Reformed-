@@ -109,6 +109,9 @@ def page(title, desc_, path, body, ld=None):
         j += f'<script type="application/ld+json">{json.dumps(_bc, ensure_ascii=False)}</script>'
     _og = f"{SITE}/{og_image(path, title, desc_)}"
     _sh = _share(url, title)
+    # Phase 1.1: report-translation-error link with page context in the
+    # subject (mirrors the hub footer's "Báo lỗi bản dịch" link).
+    _rep = f"mailto:reformedvn@gmail.com?subject=" + _q("Báo lỗi bản dịch: " + title)
     return f'''<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc_)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc_)}"><meta property="og:url" content="{url}"><meta property="og:image" content="{_og}?v=2"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:alt" content="{E(title)}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:site_name" content="Reformed Vietnam"><meta property="og:locale" content="vi_VN"><meta name="twitter:image" content="{_og}?v=2"><meta name="twitter:card" content="summary_large_image">
@@ -116,7 +119,7 @@ def page(title, desc_, path, body, ld=None):
 <nav class="top"><a href="/">Reformed Vietnam</a><a href="/tac-gia.html">Tác giả</a><a href="/tieng-viet.html">Tiếng Việt</a><a href="/sach-noi.html">Sách nói</a><a href="/bat-dau.html">Bắt đầu</a><a href="/lo-trinh.html">Lộ trình đọc</a><a href="/khoa-hoc.html">Học trực tuyến</a><a href="/bai-viet/">Bài viết</a><button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>
 {body}
 {_sh}
-<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</footer></main><script>(function(){{var b=document.getElementById("th");if(!b)return;b.onclick=function(){{var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{{localStorage.setItem("rv.ptheme",c)}}catch(e){{}}}}}})()</script></body></html>'''
+<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · <a href="{_rep}">Báo lỗi bản dịch</a> · Liên hệ: reformedvn@gmail.com</footer></main><script>(function(){{var b=document.getElementById("th");if(!b)return;b.onclick=function(){{var h=document.documentElement,c=h.getAttribute("data-theme")==="dark"?"light":"dark";h.setAttribute("data-theme",c);try{{localStorage.setItem("rv.ptheme",c)}}catch(e){{}}}}}})()</script></body></html>'''
 
 for d in ("a", "b"):
     shutil.rmtree(d, ignore_errors=True); os.makedirs(d)

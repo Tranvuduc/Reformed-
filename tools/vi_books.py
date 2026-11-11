@@ -2,6 +2,87 @@
 import urllib.parse as _ul, json as _j, os as _o, re as _r, shutil as _s
 _TD = "translations"
 _idx = _j.load(open(f"{_TD}/index.json", encoding="utf-8")) if _o.path.exists(f"{_TD}/index.json") else []
+# Phase 1.6: tier-2 title overrides — shortened display titles (<=38 chars,
+# so the full <title> stays <=60). tools/ban-dich-titles-tier2.json, built
+# from the verified worklist; absent file = no overrides (safe default).
+_OVR = _j.load(open("tools/ban-dich-titles-tier2.json", encoding="utf-8")) if _o.path.exists("tools/ban-dich-titles-tier2.json") else {}
+# Phase 1.3: author bio map — catalogue author string -> /a/<slug> slug.
+# tools/author-slug-map.json; absent file or null value = plain author text.
+_AMAP = _j.load(open("tools/author-slug-map.json", encoding="utf-8")) if _o.path.exists("tools/author-slug-map.json") else {}
+# Phase 1.3: author aliases — catalogue spellings that are the same person as
+# an existing bio page (verified 2026-11-11, phase1-1.3-analysis.md §2).
+# Tier A: middle initial/name dropped. Tier B: full-name / spelling variants,
+# "Mục sư" prefix, embedded dates, and surname-only spellings verified
+# per-book (Whitefield/Burroughs/Warfield/Thornwell/Berridge/Watson/Keach/
+# Baxter/T. Watson/Bridge). NOT aliased: "Thomas, Jun Watson" (the son, 1785
+# — not the elder Thomas Watson), the three Jonathan Edwardses, the two
+# non-Haddington John Browns, J. Ligon Duncan, "David" (pen name), Monergism,
+# A. A. Hodge, multi-person strings, "D.D." — see the analysis.
+_AUTHOR_ALIASES = {
+    "William S. Plumer": "william-plumer",
+    "Benjamin B. Warfield": "benjamin-warfield",
+    "Robert Lewis Dabney": "robert-dabney",
+    "James Henley Thornwell": "james-thornwell",
+    "Andrew A. Bonar": "andrew-bonar",
+    "Robert S. Candlish": "robert-candlish",
+    "Robert Smith Candlish": "robert-candlish",
+    "James P. Boyce": "james-boyce",
+    "James H. Thornwell": "james-thornwell",
+    "Charles R. Hodge": "charles-hodge",
+    "Andrew R. Bonar": "andrew-bonar",
+    "Augustus H. Strong": "augustus-strong",
+    "John A. Broadus": "john-broadus",
+    "John L. Girardeau": "john-girardeau",
+    "Edward D. Griffin": "edward-griffin",
+    "A. W. Pink": "arthur-pink",
+    "Benjamin Breckinridge Warfield": "benjamin-warfield",
+    "Peter Martyr Vermigli": "pietro-martire-vermigli",
+    "Henry Bullinger": "heinrich-bullinger",
+    "William G. T. Shedd": "william-shedd",
+    "W. G. T. Shedd": "william-shedd",
+    "John Brown (of Haddington)": "john-brown",
+    "John Brown of Haddington": "john-brown",
+    "Nathanael Vincent": "nathaniel-vincent",
+    "Whitefield": "george-whitefield",
+    "A.M James Hervey": "james-hervey",
+    "Thomas Goodwin of Pinner": "thomas-goodwin",
+    "Alexander (1836-1921) Whyte": "alexander-whyte",
+    "Augustus Montague Toplady": "augustus-toplady",
+    "Burroughs": "jeremiah-burroughs",
+    "Athanasius": "athanasius-of-alexandria",
+    "Zacharius Ursinus": "zacharias-ursinus",
+    "Arthur Hildersham": "arthur-hildersam",
+    "Thomas McCrie": "thomas-m-crie",
+    "J. H. Merle D'Aubigné": "j-h-jean-henri-merle-d-aubigne",
+    "William B. Sprague": "william-buell-sprague",
+    "James W. Alexander": "j-w-alexander",
+    "Mục sư Thomas M. Chalmers": "thomas-chalmers",
+    "Mục sư Benjamin Morgan Palmer": "benjamin-morgan-palmer",
+    "Charles, 1797-1878 Hodge": "charles-hodge",
+    "John Gill (1697-1771)": "john-gill",
+    "Westminster Assembly": "westminster-assembly-1643-1652",
+    "Warfield": "benjamin-warfield",
+    "Thornwell": "james-thornwell",
+    "Berridge": "john-berridge",
+    "Watson": "thomas-watson",
+    "Keach": "benjamin-keach",
+    "Baxter": "richard-baxter",
+    "T. Watson": "thomas-watson",
+    "Bridge": "william-bridge",
+}
+# Phase 1.3: original-source links — tools/source-urls.json lists LIVE-VERIFIED
+# IA identifiers ("ia") and CCEL ids ("ccel"), checked 2026-11-11. Absent
+# file = no source links (safe default). Only these verified ids are linked;
+# nothing is derived from an unverified pattern.
+_SRC = _j.load(open("tools/source-urls.json", encoding="utf-8")) if _o.path.exists("tools/source-urls.json") else {"ia": [], "ccel": []}
+_SRC_IA = set(_SRC.get("ia", [])); _SRC_CCEL = set(_SRC.get("ccel", []))
+# The one catalogue src (djvu.txt) that returns a persistent 500
+# (2026-11-11); its details page is the fallback, no djvu link is shown.
+_SRC_BROKEN_DJVU = "arch/faithfulnarrativ00edwa"
+# Phase 1.2: graduated review badges. States: ai-draft (default) / in-review /
+# reviewed. No reviewer is ever invented: "reviewed" requires review_status
+# "reviewed" (or the legacy reviewed=true) in the catalogue entry.
+_RSTATUS = {"ai-draft": "Bản dịch AI, chưa duyệt", "in-review": "Đang được duyệt", "reviewed": "Đã được mục sư duyệt"}
 # Batch C: chunked regen (see regen-runbook.md) sets VI_BOOKS_KEEP_BANDICH=1
 # for chunks after the first, so a resume never wipes already-built pages.
 # Default behaviour (env unset) is unchanged: wipe and rebuild ban-dich/.
@@ -207,6 +288,8 @@ for _b in _idx:
         _cur[1].append(_ln)
     if _notes: open(f"{_TD}/review/{_slug}.txt", "w", encoding="utf-8").write("\n".join(_notes) + "\n")
     _rev = bool(_b.get("reviewed"))
+    _rstat = _b.get("review_status") or ("reviewed" if _rev else "ai-draft")  # Phase 1.2
+    _rbadge = _RSTATUS.get(_rstat, _RSTATUS["ai-draft"])
     _by = _b.get("by", "AI")
     _orig_book = bool(_b.get("original"))
     _label = ((f'<p class="dr">Bản nháp do AI ({E(_by)}) hỗ trợ soạn, chưa được mục sư duyệt giáo lý. Nhiều câu Kinh Thánh được dịch lại từ tiếng Anh nên có thể khác chữ bản 1934; trong trình đọc, chạm vào địa chỉ câu để xem đúng bản 1934. Hãy đọc với tinh thần Bê-rê và hỏi mục sư của bạn.</p>' if not _rev else '<p class="dr">Sách đã được mục sư xem lại.</p>') if _orig_book else'<p class="dr">Bản dịch đã được mục sư xem lại. Hãy luôn đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>' if _rev else
@@ -243,8 +326,28 @@ for _b in _idx:
     # _au / _orig resolved above via _resolve (Wave 2)
     _rd = f'/reader.html?id=vn/{_slug}&pid=' + _ul.quote(_b["id"], safe="")
     _toc_css = ".toc-sub{margin-left:1.2em}" if "toc-sub" in _toc else ""  # Batch C: only when md sub-headings exist
-    _body = (f'<style>.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}{_toc_css}</style>'
-             f'<h1>{E(_dt)}</h1><p>{E(_au)}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f'</p>{_label}' +
+    _au_slug = _AMAP.get(_au) or _AUTHOR_ALIASES.get(_au)  # Phase 1.3: exact map, then alias
+    _au_html = f'<a href="/a/{_au_slug}.html">{E(_au)}</a>' if _au_slug else E(_au)  # Phase 1.3: author bio link when mapped
+    _au_line = f'<p>{_au_html}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f' <span class="rv-badge rv-{_rstat}">{_rbadge}</span></p>'
+    _rep = "mailto:reformedvn@gmail.com?subject=" + _ul.quote(f"Báo lỗi bản dịch: {_dt} — {_au}")  # Phase 1.1: page context in subject
+    _rep_line = f'<p class="m">Thấy lỗi trong bản dịch? <a href="{_rep}">Báo lỗi bản dịch</a>.</p>'
+    # Phase 1.3: original-source link(s) — only live-verified ids (see _SRC).
+    # IA details page ("bản gốc") and, for the 26 catalogue src entries, the
+    # djvu.txt text that was actually translated ("văn bản nguồn đã dịch").
+    _id = _b.get("id", "")
+    _src_links = []
+    if _id.startswith("arch/") and _id[5:] in _SRC_IA:
+        _src_links.append(f'<a href="https://archive.org/details/{_id[5:]}">Xem bản gốc tại Internet Archive</a>')
+    elif _id.startswith("arch-") and _id[5:] in _SRC_IA:
+        _src_links.append(f'<a href="https://archive.org/details/{_id[5:]}">Xem bản gốc tại Internet Archive</a>')
+    elif "/" in _id and _id in _SRC_CCEL:
+        _src_links.append(f'<a href="https://ccel.org/ccel/{_id}">Đọc bản gốc tại CCEL</a>')
+    _djvu = _b.get("src")
+    if _djvu and _id != _SRC_BROKEN_DJVU:
+        _src_links.append(f'<a href="{E(_ul.quote(_djvu, safe="/:"))}">Văn bản nguồn đã dịch</a>')
+    _src_line = ('<p class="m">Nguồn: ' + " · ".join(_src_links) + ".</p>") if _src_links else ""
+    _body = (f'<style>.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}{_toc_css}.rv-badge{{display:inline-block;font:600 12px \'Be Vietnam Pro\',system-ui,sans-serif;padding:3px 10px;border-radius:999px;background:#d9a41e22;color:var(--mut);border:1px solid var(--line);vertical-align:middle}}.rv-badge.rv-reviewed{{background:#2e7d3222;color:#2e7d32}}.rv-badge.rv-in-review{{background:#7c212822;color:var(--acc)}}</style>'
+             f'<h1>{E(_dt)}</h1>{_au_line}{_label}{_rep_line}{_src_line}' +
              f'<p class="rd-top"><a class="btn primary" href="{_rd}">📖 Đọc trong trình đọc</a></p>' +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
              f'<h2>Mục lục</h2><ol>{_toc}</ol>{_body_secs}' + _vn_related(_slug, _au, _orig) +
@@ -264,19 +367,20 @@ for _b in _idx:
                           "url": SITE},
            "bookFormat": "https://schema.org/EBook", "isAccessibleForFree": True}
     if _orig: _ld["alternateName"] = _orig
-    _ttl = f'{_dt} · bản dịch tiếng Việt | Reformed Vietnam'
+    _ttl_dt = _OVR.get(_slug, _dt)  # Phase 1.6: tier-2 shortened title (title tag only; the h1 keeps the full title)
+    _ttl = f'{_ttl_dt} · bản dịch tiếng Việt | Reformed Vietnam'
     if len(_ttl) > 60:  # tier-1 (2026-11-10): drop the site suffix when it alone brings the title to <=60 chars
-        _ttl = f'{_dt} · bản dịch tiếng Việt'
+        _ttl = f'{_ttl_dt} · bản dịch tiếng Việt'
     open(_path, "w", encoding="utf-8").write(page(_ttl, f'Bản dịch tiếng Việt "{_dt}" của {_au}. Miễn phí.', _path, _body, _ld))
     urls.append(_path)
-    VIBOOKS[_b["id"]] = {"u": "/" + _path, "by": _by, "r": _rev, "rd": f"reader.html?id=vn/{_slug}&pid=" + _ul.quote(_b["id"], safe="")}
-    _hub.append((_bt, _au, _orig, "/" + _path, _rev, _orig_book))
+    VIBOOKS[_b["id"]] = {"u": "/" + _path, "by": _by, "r": _rev, "rs": _rstat, "rd": f"reader.html?id=vn/{_slug}&pid=" + _ul.quote(_b["id"], safe="")}
+    _hub.append((_bt, _au, _orig, "/" + _path, _rev, _orig_book, _rstat))
 open("vi-books.json", "w", encoding="utf-8").write(_j.dumps(VIBOOKS, ensure_ascii=False))
 # Batch C: the live index has entries with no 'file' key; they are skipped, not fatal.
 if _nofile:
     print("vi_books: skipped %d index entries without 'file': %s" % (len(_nofile), ", ".join(_nofile[:10])))
 
-_li = lambda x: bcard(x[0], x[1], x[3], badge=("đã duyệt" if x[4] else "AI, chưa duyệt"), kicker=x[2] or "Bản dịch")
+_li = lambda x: bcard(x[0], x[1], x[3], badge=_RSTATUS.get(x[6], _RSTATUS["ai-draft"]), kicker=x[2] or "Bản dịch")
 _tr = "".join(_li(x) for x in _hub if not x[5]); _nw = "".join(_li(x) for x in _hub if x[5])
 _hb = ('<h1>Bản dịch và sách mới</h1><p class="dr" style="padding:.6em .9em;border-radius:8px;background:#d9a41e22">Các sách dưới đây do AI hỗ trợ dịch hoặc soạn và <b>chưa được mục sư duyệt giáo lý</b>. Hãy đối chiếu Kinh Thánh và hỏi mục sư của bạn.</p>'
        + (f'<h2>Bản dịch tiếng Việt</h2>' + bkgrid(_tr) if _tr else '') + (f'<h2>Sách mới (tác giả David)</h2>' + bkgrid(_nw) if _nw else '') + '<p><a class="btn primary" href="/">Về thư viện</a></p>')
