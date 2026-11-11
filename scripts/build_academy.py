@@ -110,6 +110,10 @@ EXTRA_CSS = """
       .companion { margin: 8px 0 14px; padding: 12px 14px; border-left: 3px solid var(--burgundy); background: color-mix(in srgb, var(--burgundy) 5%, transparent); border-radius: 0 10px 10px 0; }
       .companion p { margin: 0 0 6px; }
       .companion summary { cursor: pointer; font-size: 14px; }
+      .detail-summary { margin: 8px 0 14px; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+      .detail-summary summary { cursor: pointer; }
+      .detail-summary p { margin: 0 0 6px; }
+      .detail-summary h4 { font-size: 15.5px; }
       .intro-panel { max-width: 860px; margin: 0 auto 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 22px; box-shadow: var(--shadow); font-family: "Noto Serif", serif; font-size: 16px; line-height: 1.7; }
 """
 MINI_JS = """<script>
@@ -343,6 +347,28 @@ def companion_html(c):
       <details><summary>Câu hỏi học tập</summary><ol style="margin:6px 0 0;padding-left:20px">{qs}</ol></details>
       {read}
     </div>"""
+# Detailed Vietnamese summaries per Thirdmill lesson (helper pilot FC1,
+# verified by the integrator 2026-11-11): keyed by (series_code, lesson_no).
+# Later courses append their own spark-thirdmill-summaries-<course>.json here.
+ALL_SUMMARIES = []
+for _f in ("spark-thirdmill-summaries-fc1.json",):
+    ALL_SUMMARIES += json.loads((ROOT / "scripts/helper-data" / _f).read_text(encoding="utf-8"))["summaries"]
+SUMMARIES = {(s["series"], s["lesson"]): s for s in ALL_SUMMARIES}
+
+def detail_summary_html(s):
+    y = f"<p><strong>Ý chính:</strong> {esc(s['y_chinh'])}</p>"
+    parts = "".join(
+        f"<h4 style=\"margin:10px 0 2px\">{esc(x['de_muc'])}</h4><p>{esc(x['noi_dung'])}</p>"
+        for x in s["tom_tat"])
+    terms = "".join(f"<li><strong>{esc(t['thuat_ngu'])}:</strong> {esc(t['dinh_nghia'])}</li>" for t in s["thuat_ngu"])
+    verses = "".join(f"<li>{esc(v)}</li>" for v in s["kinh_thanh"])
+    qs = "".join(f"<li>{esc(q)}</li>" for q in s["cau_hoi"])
+    return f"""<details class="detail-summary"><summary><strong>Tóm tắt chi tiết</strong> <span class="ai-label">Nội dung AI soạn, chưa duyệt</span> · {s['word_count_vi']} từ</summary>
+      <div style="padding-top:8px">{y}
+      <h4 style="margin:10px 0 2px">Tóm tắt theo từng phần</h4>{parts}
+      <h4 style="margin:10px 0 2px">Thuật ngữ chính</h4><ul style="margin:4px 0;padding-left:20px">{terms}</ul>
+      <h4 style="margin:10px 0 2px">Câu Kinh Thánh chính</h4><ul style="margin:4px 0;padding-left:20px">{verses}</ul>
+      <h4 style="margin:10px 0 2px">Câu hỏi suy ngẫm</h4><ol style="margin:4px 0;padding-left:20px">{qs}</ol></div></details>"""
 def series_of(course_en):
     return [s for s in tm_series if s["course"].startswith(course_en + " (")]
 CERTS = [
@@ -395,7 +421,7 @@ for cert in CERTS:
         for s in series:
             _code = s["series_url"].rsplit("/", 1)[-1]
             items = "".join(
-                f"<li>{esc(x)}" + (companion_html(COMPANIONS[(_code, _n)]) if (_code, _n) in COMPANIONS else "") + "</li>"
+                f"<li>{esc(x)}" + (companion_html(COMPANIONS[(_code, _n)]) if (_code, _n) in COMPANIONS else "") + (detail_summary_html(SUMMARIES[(_code, _n)]) if (_code, _n) in SUMMARIES else "") + "</li>"
                 for _n, x in enumerate(s["lessons"], 1))
             series_html += f"""<section class="series-card">
     <h2>{esc(s["series"])}</h2>
@@ -497,6 +523,11 @@ OUT.mkdir(exist_ok=True)
     {"label": "Nội dung AI soạn, chưa duyệt",
      "source": "Tài liệu đồng hành tiếng Việt cho cả 122 bài học thuộc ba chứng chỉ của Thirdmill Institute (Vòng 3: Nền Tảng, 36 bài; Vòng 4: Nghiên Cứu Kinh Thánh 44 + Nghiên Cứu Thần Học 42), do các AI cộng tác (Spark, Hana) soạn từ dàn ý/study guide chính thức của Thirdmill; Molly kiểm tra và tích hợp 2026-11-07.",
      "companions": ALL_COMPANIONS}, ensure_ascii=False, indent=1), encoding="utf-8")
+(ROOT / "data/thirdmill-summaries.json").write_text(json.dumps(
+    {"label": "Nội dung AI soạn, chưa duyệt",
+     "source": "Thirdmill Institute, Biblical Foundations (FC1): Kingdom, Covenants & Canon of the Old Testament (KOT 1-4) + Kingdom and Covenant in the New Testament (KNT 1-3). Tóm tắt chi tiết bằng tiếng Việt, không phải bản dịch.",
+     "course": "FC1",
+     "summaries": ALL_SUMMARIES}, ensure_ascii=False, indent=1), encoding="utf-8")
 (ROOT / "data/academy.json").write_text(json.dumps(data_out, ensure_ascii=False, indent=1), encoding="utf-8")
 print("landing + data/academy.json written")
 
