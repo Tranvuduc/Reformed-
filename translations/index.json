@@ -48301,5 +48301,22 @@
   "length": "ngan",
   "short": "Về Các Bí Tích",
   "review_status": "ai-draft"
+ },
+ {
+  "id": "arch-burroughs-precious-faith",
+  "file": "arch-burroughs-precious-faith.txt",
+  "title": "ĐỨC TIN QUÝ BÁU",
+  "orig": "Precious Faith",
+  "author": "Jeremiah Burroughs",
+  "by": "Spark",
+  "reviewed": false,
+  "topics": [
+   "Đức Tin",
+   "Sự Cứu Rỗi"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Đức Tin Quý Báu",
+  "review_status": "ai-draft"
  }
 ]
