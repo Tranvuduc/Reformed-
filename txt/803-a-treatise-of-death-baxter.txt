@@ -6,7 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-Nguyên tác: "A treatise of death" — Richard Baxter (1615–1691) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1660/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1660_djvu.txt (Ghi chú: bản OCR tại URL nguồn bị hỏng nặng, nhiều đoạn chỉ đọc được rời rạc; bản dịch thực hiện trên bản sạch ~/workspace/thu-vien/.dot8-src/803.txt (đoạn 0–1193, toàn văn luận văn), đã loại bỏ boilerplate archive.org. Trang tựa và dòng ghi ấn bản bị OCR làm hỏng, chỉ khôi phục được đại ý. Các chỗ không đọc được đều đã đánh dấu [NEEDS REVIEW] tại chỗ.)
+Nguyên tác: "A treatise of death" — Richard Baxter (1615–1691) Nguồn: https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1660/bim_early-english-books-1641-1700_a-treatise-of-death-_baxter-richard_1660_djvu.txt (Ghi chú: bản OCR tại URL nguồn bị hỏng nặng, nhiều đoạn chỉ đọc được rời rạc; bản dịch thực hiện trên bản văn nguồn đã làm sạch (đoạn 0–1193, toàn văn luận văn), đã loại bỏ boilerplate archive.org. Trang tựa và dòng ghi ấn bản bị OCR làm hỏng, chỉ khôi phục được đại ý. Các chỗ không đọc được đều đã đánh dấu [NEEDS REVIEW] tại chỗ.)
 
 LUẬN VỀ SỰ CHẾT; Kẻ Thù Cuối Cùng Bị Hủy Diệt: trình bày sự thù nghịch của nó cốt ở đâu, và nó bị hủy diệt thể nào. Một phần đã được giảng tại lễ tang của Elizabeth, người vợ quá cố của ông Joseph Baker, Mục sư của Hội Thánh tại Saint Andrews ở Worcester.
 

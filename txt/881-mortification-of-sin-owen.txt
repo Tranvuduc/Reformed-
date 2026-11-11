@@ -6,7 +6,7 @@ Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo l
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-Nguyên tác: "Of the Mortification of Sin in Believers" — John Owen, D.D. (1721) Nguồn: bản in 1721 (J. Marshall, hiệu Sách Kinh Thánh, phố Newgate, Luân Đôn); văn bản nguồn sạch: `~/workspace/thu-vien/.dot8-src/881.txt` (Ghi chú: dịch trọn tác phẩm — trang tựa, Lời ngỏ gửi độc giả Cơ Đốc, và Chương I–XIV.)
+Nguyên tác: "Of the Mortification of Sin in Believers" — John Owen, D.D. (1721) Nguồn: bản in 1721 (J. Marshall, hiệu Sách Kinh Thánh, phố Newgate, Luân Đôn); văn bản nguồn đã làm sạch từ bản in 1721 (Ghi chú: dịch trọn tác phẩm — trang tựa, Lời ngỏ gửi độc giả Cơ Đốc, và Chương I–XIV.)
 
 VỀ SỰ GIẾT CHẾT TỘI LỖI TRONG CÁC TÍN HỮU;
 

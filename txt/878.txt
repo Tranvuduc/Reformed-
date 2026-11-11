@@ -6,7 +6,7 @@ Bản dịch do AI (External-AI) hỗ trợ, chưa được mục sư duyệt gi
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-Nguyên tác: "The Plan of Salvation: Five Lectures Delivered at the Princeton Summer School of Theology, June, 1914" — Benjamin B. Warfield (1851–1921) Nguồn: `~/workspace/thu-vien/.dot8-src/878.txt` (bản text đã làm sạch từ scan gốc; số chú thích trên cao trong bản dịch chỉ về phần Các Ghi Chú cuối sách) (Ghi chú biên tập: phần "Các Ghi Chú" (Notes) cuối sách giữ nguyên tiếng Anh theo quy ước tư liệu học thuật của dự án; toàn văn còn lại dịch sang tiếng Việt.)
+Nguyên tác: "The Plan of Salvation: Five Lectures Delivered at the Princeton Summer School of Theology, June, 1914" — Benjamin B. Warfield (1851–1921) Nguồn: bản text đã làm sạch từ scan gốc (số chú thích trên cao trong bản dịch chỉ về phần Các Ghi Chú cuối sách) (Ghi chú biên tập: phần "Các Ghi Chú" (Notes) cuối sách giữ nguyên tiếng Anh theo quy ước tư liệu học thuật của dự án; toàn văn còn lại dịch sang tiếng Việt.)
 
 Trạng thái duyệt: AI, chưa duyệt (chưa được mục sư duyệt)
 

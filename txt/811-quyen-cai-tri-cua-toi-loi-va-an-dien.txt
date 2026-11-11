@@ -8,7 +8,7 @@ Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn 
 
 # Quyền Cai Trị Của Tội Lỗi Và Ân Điển
 
-**Nguyên tác:** "A treatise of the dominion of sin" — John Owen (1616–1683), ấn bản hậu kỳ 1688 do quả phụ ông xuất bản. **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-the-domini_owen-john_1688/bim_early-english-books-1641-1700_a-treatise-of-the-domini_owen-john_1688_djvu.txt **Ghi chú:** Bản dịch trên văn bản sạch tại `.dot8-src/811.txt`. **Lưu ý quan trọng:** File nguồn kết thúc đột ngột giữa câu ở đoạn cuối (có thể thiếu trang cuối của bản scan) — bản dịch giữ đúng đến cuối nguồn.
+**Nguyên tác:** "A treatise of the dominion of sin" — John Owen (1616–1683), ấn bản hậu kỳ 1688 do quả phụ ông xuất bản. **Nguồn:** https://archive.org/download/bim_early-english-books-1641-1700_a-treatise-of-the-domini_owen-john_1688/bim_early-english-books-1641-1700_a-treatise-of-the-domini_owen-john_1688_djvu.txt **Ghi chú:** Bản dịch trên văn bản nguồn đã làm sạch. **Lưu ý quan trọng:** File nguồn kết thúc đột ngột giữa câu ở đoạn cuối (có thể thiếu trang cuối của bản scan) — bản dịch giữ đúng đến cuối nguồn.
 
 ## LUẬN VỀ QUYỀN CAI TRỊ CỦA TỘI LỖI VÀ ÂN ĐIỂN
 
