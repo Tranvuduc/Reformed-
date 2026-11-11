@@ -4,6 +4,12 @@
  "note": "Ngay them = ngay trang ban-dich/ cua sach xuat hien lan dau trong git (sau ngay gioi han shallow clone). Khong co ngay nao duoc tu suy ra cho sach cu hon.",
  "books": [
   {
+   "slug": "westminster-confession-of-faith",
+   "title": "Bản Tuyên Xưng Đức Tin Westminster",
+   "author": "Westminster Assembly",
+   "date": "2026-11-11"
+  },
+  {
    "slug": "arch-gomarus-on-the-sacraments",
    "title": "Về Các Bí Tích",
    "author": "Franciscus Gomarus",
@@ -13,6 +19,12 @@
    "slug": "arch-burroughs-precious-faith",
    "title": "Đức Tin Quý Báu",
    "author": "Jeremiah Burroughs",
+   "date": "2026-11-11"
+  },
+  {
+   "slug": "840-hanh-trinh-nguoi-hanh-huong",
+   "title": "Hành Trình Của Người Lữ Hành",
+   "author": "John Bunyan",
    "date": "2026-11-11"
   },
   {
@@ -168,18 +180,6 @@
   {
    "slug": "poole-chu-thich-dan-so-phuc-truyen",
    "title": "Chú Thích Về Kinh Thánh — Sách Dân Số Ký & Sách Phục Truyền Luật Lệ Ký",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
-  },
-  {
-   "slug": "poole-chu-thich-cham-ngon-nha-ca",
-   "title": "Chú Thích Về Kinh Thánh — Sách Châm Ngôn, Truyền Đạo Và Nhã Ca",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
-  },
-  {
-   "slug": "poole-chu-thich-cac-vua",
-   "title": "Chú Thích Về Kinh Thánh — 1 & 2 Các Vua",
    "author": "Matthew Poole",
    "date": "2026-11-07"
   }
