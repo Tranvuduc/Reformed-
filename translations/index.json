@@ -48374,5 +48374,21 @@
   "length": "vua",
   "short": "Sổ Thu Chi Và Chứng Ngôn Halle",
   "review_status": "ai-draft"
+ },
+ {
+  "id": "london-baptist-confession-1689",
+  "file": "london-baptist-confession-1689.txt",
+  "title": "BẢN TUYÊN XƯNG ĐỨC TIN BÁP-TÍT LUÂN ĐÔN",
+  "orig": "The London Baptist Confession of Faith (1689)",
+  "author": "London Baptist Elders and Brethren",
+  "by": "Spark",
+  "reviewed": false,
+  "topics": [
+   "Tín Điều"
+  ],
+  "level": 2,
+  "length": "dai",
+  "short": "Bản Tuyên Xưng Báp-tít Luân Đôn 1689",
+  "review_status": "ai-draft"
  }
 ]
