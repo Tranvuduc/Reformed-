@@ -12,7 +12,7 @@ items also carry a body field ("b") — devotion text, hymn lyrics + tune,
 catechism answers, encyclopedia bodies, answer bodies — so body words are
 findable; title hits rank above subtitle, subtitle above body.
 """
-import json, re, html, pathlib, urllib.request
+import json, re, html, pathlib, urllib.request, datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 APP = ROOT.parent / "bible-app"
@@ -25,11 +25,14 @@ def alive(url):
     return (BASE + url) in live_urls
 
 items = []
-def add(t, s, u, g, b=""):
+def add(t, s, u, g, b="", **extra):
     # "b" is body text: searched (lowest weight) but never shown as the
     # card title/subtitle. Added 2026-11-07 (search v2): the v1 index only
     # matched title+subtitle, so a word inside a devotion, a hymn's lyrics
     # or a tune name (e.g. NEW BRITAIN) found nothing.
+    # **extra carries string facets (Phase 1.4): books add a=author,
+    # tp=topics, lv=level (1/2/3), st=review_status. Every field must stay
+    # a string — the search page calls .toLowerCase() on values.
     if t and u:
         it = {"t": t, "s": s or "", "u": u, "g": g}
         if b:
@@ -46,6 +49,10 @@ def add(t, s, u, g, b=""):
                         parts.append(str(x))
                 b = " ".join(parts)
             it["b"] = b[:2500]
+        for _k, _v in extra.items():
+            if _v != "" and _v is not None:
+                it[_k] = str(_v)
+        assert all(isinstance(v, str) for v in it.values()), ("non-string index field", u, it)
         items.append(it)
 
 # ---- books (live catalogue, sitemap-validated) ----
@@ -67,12 +74,16 @@ nskip = 0
 for b in lite:
     u = f"/ban-dich/{b['slug']}.html"
     topics = " · ".join(b.get("topics") or [])
+    _au = b.get("author", "")
+    # Phase 1.4 facets (books only): author / topics / level / review status.
+    _fac = {"a": _au, "tp": topics, "lv": str(b.get("level") or ""),
+            "st": b.get("review_status") or "ai-draft"}
     if alive(u):
-        add(b["short"], b.get("author", ""), u, "Sách", topics); nb += 1
+        add(b["short"], _au, u, "Sách", topics, **_fac); nb += 1
     else:
         base = b["slug"].rsplit("/", 1)[-1]
         if base in txt_bases:
-            add(b["short"], b.get("author", ""), f"/reader.html?id=vn/{base}", "Sách", topics); nr += 1
+            add(b["short"], _au, f"/reader.html?id=vn/{base}", "Sách", topics, **_fac); nr += 1
         else:
             nskip += 1
 print(f"books indexed: {nb} landing pages + {nr} reader links of {len(lite)} "
@@ -180,7 +191,7 @@ for c in comp["companions"]:
         f"/hoc-vien/khoa/{c['course_slug']}/", "Học Viện",
         _txt(c.get("summary_vi")) + " " + _txt(c.get("key_terms")))
 
-out = {"generated": "2026-11-07", "count": len(items), "items": items}
+out = {"generated": datetime.date.today().isoformat(), "count": len(items), "items": items}
 (ROOT / "data/search-index.json").write_text(
     json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 print(f"search index: {len(items)} items")
@@ -217,6 +228,11 @@ EXTRA_CSS = """
       .qa-card p { margin: 0; color: var(--ink-soft); font-size: 14px; line-height: 1.55; }
       .qa-card:hover h3 { color: var(--burgundy); }
       .status { text-align: center; color: var(--ink-soft); font-size: 15px; margin: 18px 0 4px; }
+
+      /* Phase 1.4: filter row (thu-vien select pattern) */
+      .filters { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; margin: 12px auto 2px; max-width: 760px; }
+      .filters select { padding: 9px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); color: var(--ink); font: 14px "Be Vietnam Pro", system-ui, sans-serif; max-width: 13rem; }
+      .filters select:disabled { opacity: .55; }
 """
 
 SEARCH_JS = """
@@ -237,10 +253,53 @@ SEARCH_JS = """
     var ORDER = ["Kinh Thánh", "Sách", "Giáo Lý", "Bách Khoa", "Tĩnh Nguyện", "Hỏi Đáp", "Học Viện", "Bài Giảng", "Thánh Ca", "Tạp Chí", "Hội Thánh"];
     var input = document.getElementById("q"), box = document.getElementById("results"),
         status = document.getElementById("status"), INDEX = null, cache = [];
+
+    // Phase 1.4: filter selects (thu-vien pattern). Group/author/topic
+    // options are filled from the index once it loads; level/status are
+    // fixed sets in the HTML. A filter on a facet only matches items that
+    // carry it, so topic/author/level/status narrow to books (the only
+    // group with a/tp/lv/st facets).
+    function filters() {
+      return {
+        g: document.getElementById("fGroup").value,
+        a: document.getElementById("fAuthor").value,
+        t: document.getElementById("fTopic").value,
+        l: document.getElementById("fLevel").value,
+        s: document.getElementById("fStatus").value
+      };
+    }
+    function facetOk(it, f) {
+      if (f.g && it.g !== f.g) return false;
+      if (f.a && it.a !== f.a) return false;
+      if (f.t && (it.tp || "").split(" · ").indexOf(f.t) === -1) return false;
+      if (f.l && it.lv !== f.l) return false;
+      if (f.s && it.st !== f.s) return false;
+      return true;
+    }
+    function populateFilters() {
+      var gSel = document.getElementById("fGroup");
+      ORDER.forEach(function (g) {
+        var o = document.createElement("option"); o.value = g; o.textContent = g; gSel.appendChild(o);
+      });
+      var authors = {}, topics = {};
+      INDEX.items.forEach(function (it) {
+        if (it.a) authors[it.a] = true;
+        (it.tp || "").split(" · ").forEach(function (t) { if (t) topics[t] = true; });
+      });
+      var aSel = document.getElementById("fAuthor");
+      Object.keys(authors).sort().forEach(function (a) {
+        var o = document.createElement("option"); o.value = a; o.textContent = a; aSel.appendChild(o);
+      });
+      var tSel = document.getElementById("fTopic");
+      Object.keys(topics).sort().forEach(function (t) {
+        var o = document.createElement("option"); o.value = t; o.textContent = t; tSel.appendChild(o);
+      });
+    }
     function prepare() {
       cache = INDEX.items.map(function (it) {
         return { it: it, nt: norm(it.t), ns: norm(it.s), nb: norm(it.b || "") };
       });
+      populateFilters();
     }
     function esc(s) {
       return s.replace(/[&<>"']/g, function (c) {
@@ -249,11 +308,16 @@ SEARCH_JS = """
     }
     function render(q) {
       box.innerHTML = "";
+      var f = filters();
+      var hasFilter = f.g || f.a || f.t || f.l || f.s;
       var words = norm(q).split(/\\s+/).filter(Boolean);
-      if (!words.length) { status.textContent = "Nhập từ khóa để tìm trong toàn bộ trang — sách, Kinh Thánh, giáo lý, bách khoa, tĩnh nguyện, bài giảng, thánh ca và học viện. Gõ không dấu cũng được."; return; }
+      if (!words.length && !hasFilter) { status.textContent = "Nhập từ khóa để tìm trong toàn bộ trang — sách, Kinh Thánh, giáo lý, bách khoa, tĩnh nguyện, bài giảng, thánh ca và học viện. Gõ không dấu cũng được."; return; }
       if (!INDEX) { status.textContent = "Đang tải chỉ mục tìm kiếm…"; return; }
+      var note = document.getElementById("filterNote");
+      if (note) note.hidden = !(f.a || f.t || f.l || f.s);
       var phrase = words.join(" "), groups = {}, total = 0;
       cache.forEach(function (c) {
+        if (!facetOk(c.it, f)) return;
         // Title 3, subtitle 2, body text 1 per word — a body-only hit still
         // finds the page (devotion text, hymn lyrics, tune name), but a
         // title hit always ranks above it.
@@ -265,17 +329,20 @@ SEARCH_JS = """
           else score += 1;
         }
         if (!ok) return;
-        if (c.nt.indexOf(phrase) !== -1) score += 3;
-        else if (c.ns.indexOf(phrase) !== -1) score += 2;
-        else if (c.nb.indexOf(phrase) !== -1) score += 1;
+        if (!words.length) bodyOnly = false;
+        if (words.length && c.nt.indexOf(phrase) !== -1) score += 3;
+        else if (words.length && c.ns.indexOf(phrase) !== -1) score += 2;
+        else if (words.length && c.nb.indexOf(phrase) !== -1) score += 1;
         (groups[c.it.g] = groups[c.it.g] || []).push({ it: c.it, score: score, bodyOnly: bodyOnly });
         total++;
       });
       if (!total) {
-        status.textContent = "Không tìm thấy kết quả cho “" + q + "”. Thử ít từ hơn, hoặc kiểm tra chính tả — gõ không dấu vẫn tìm được.";
+        status.textContent = words.length
+          ? "Không tìm thấy kết quả cho “" + q + "”" + (hasFilter ? " với bộ lọc đã chọn" : "") + ". Thử ít từ hơn, hoặc kiểm tra chính tả — gõ không dấu vẫn tìm được."
+          : "Không có mục nào khớp với bộ lọc đã chọn.";
         return;
       }
-      status.textContent = "Tìm thấy " + total + " kết quả cho “" + q + "”.";
+      status.textContent = "Tìm thấy " + total + " kết quả" + (words.length ? " cho “" + q + "”" : "") + (hasFilter ? " (đã lọc)" : "") + ".";
       ORDER.forEach(function (g) {
         var list = groups[g];
         if (!list) return;
@@ -305,6 +372,10 @@ SEARCH_JS = """
         }
       });
     }
+    // Phase 1.4: re-render when a filter select changes.
+    ["fGroup", "fAuthor", "fTopic", "fLevel", "fStatus"].forEach(function (id) {
+      document.getElementById(id).addEventListener("change", function () { render(input.value); });
+    });
     var t = null;
     input.addEventListener("input", function () {
       clearTimeout(t);
@@ -352,6 +423,14 @@ page = f"""<!DOCTYPE html>
     <input id="q" type="search" name="q" placeholder="Tìm sách, thuật ngữ, câu hỏi, bài giảng… (gõ không dấu cũng được)" aria-label="Tìm kiếm" autocomplete="off" />
     <button class="btn solid" type="submit">Tìm</button>
   </form>
+  <div class="filters" id="filters" aria-label="Bộ lọc kết quả">
+    <select id="fGroup" aria-label="Mục"><option value="">Tất cả các mục</option></select>
+    <select id="fAuthor" aria-label="Tác giả"><option value="">Tất cả tác giả</option></select>
+    <select id="fTopic" aria-label="Chủ đề"><option value="">Tất cả chủ đề</option></select>
+    <select id="fLevel" aria-label="Độ khó"><option value="">Mọi độ khó</option><option value="1">Mới tin Chúa</option><option value="2">Đang lớn lên</option><option value="3">Học sâu</option></select>
+    <select id="fStatus" aria-label="Trạng thái duyệt"><option value="">Mọi trạng thái</option><option value="ai-draft">AI, chưa duyệt</option><option value="in-review">Đang được duyệt</option><option value="reviewed">Đã được duyệt</option></select>
+  </div>
+  <p class="status" id="filterNote" hidden>Bộ lọc tác giả / chủ đề / độ khó / trạng thái chỉ áp dụng cho mục Sách — các mục khác không có dữ liệu này.</p>
   <p class="status" id="status">Đang tải chỉ mục tìm kiếm…</p>
   <div id="results"></div>
 </main>
