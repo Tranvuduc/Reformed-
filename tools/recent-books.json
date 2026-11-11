@@ -10,6 +10,24 @@
    "date": "2026-11-11"
   },
   {
+   "slug": "mg1-979-christian-warfare-2-downame",
+   "title": "Cuộc Chiến Thuộc Linh, Tập II",
+   "author": "John Downame",
+   "date": "2026-11-11"
+  },
+  {
+   "slug": "mg1-1022-doubting-believer-sedgwick",
+   "title": "Tín Đồ Nghi Ngờ",
+   "author": "Obadiah Sedgwick",
+   "date": "2026-11-11"
+  },
+  {
+   "slug": "mg1-1004-divine-rule-faith-practice-goode",
+   "title": "Quy Tắc Thần Thánh Của Đức Tin Và Sự Thực Hành",
+   "author": "William Goode",
+   "date": "2026-11-11"
+  },
+  {
    "slug": "arch-gomarus-on-the-sacraments",
    "title": "Về Các Bí Tích",
    "author": "Franciscus Gomarus",
@@ -19,6 +37,12 @@
    "slug": "arch-burroughs-precious-faith",
    "title": "Đức Tin Quý Báu",
    "author": "Jeremiah Burroughs",
+   "date": "2026-11-11"
+  },
+  {
+   "slug": "850-so-thu-chi-co-nhi-vien-va-chung-ngon-halle",
+   "title": "Sổ Thu Chi Cô Nhi Viện Và Chứng Ngôn Halle",
+   "author": "George Whitefield",
    "date": "2026-11-11"
   },
   {
@@ -156,30 +180,6 @@
   {
    "slug": "poole-chu-thich-gieremi-1-25",
    "title": "Chú Thích Về Kinh Thánh — Giê-rê-mi 1–25",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
-  },
-  {
-   "slug": "poole-chu-thich-exechien-24-48",
-   "title": "Chú Thích Về Kinh Thánh — Ê-xê-chi-ên 24–48",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
-  },
-  {
-   "slug": "poole-chu-thich-esai-34-66",
-   "title": "Chú Thích Về Kinh Thánh — Ê-sai 34–66",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
-  },
-  {
-   "slug": "poole-chu-thich-esai-1-33",
-   "title": "Chú Thích Về Kinh Thánh — Ê-sai 1–33",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
-  },
-  {
-   "slug": "poole-chu-thich-dan-so-phuc-truyen",
-   "title": "Chú Thích Về Kinh Thánh — Sách Dân Số Ký & Sách Phục Truyền Luật Lệ Ký",
    "author": "Matthew Poole",
    "date": "2026-11-07"
   }
