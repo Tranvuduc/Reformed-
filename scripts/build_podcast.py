@@ -124,6 +124,11 @@ def main():
     <language>vi</language>
     <lastBuildDate>{now}</lastBuildDate>
     <itunes:author>Reformed Vietnam</itunes:author>
+    <managingEditor>reformedvn@gmail.com (Reformed Vietnam)</managingEditor>
+    <itunes:owner>
+      <itunes:name>Reformed Vietnam</itunes:name>
+      <itunes:email>reformedvn@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:type>serial</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{SITE}/podcast-cover.jpg"/>

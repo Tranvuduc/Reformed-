@@ -6,8 +6,13 @@
     <atom:link href="https://reformedvietnam.com/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Sách nói Cơ Đốc Cải Chánh tiếng Việt — các tác phẩm kinh điển của Spurgeon, Owen, Sibbes, Ryle, Bunyan và nhiều tác giả khác, do Thư Viện Cải Chánh (reformedvietnam.com) thực hiện. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:33:47 +0000</lastBuildDate>
     <itunes:author>Reformed Vietnam</itunes:author>
+    <managingEditor>reformedvn@gmail.com (Reformed Vietnam)</managingEditor>
+    <itunes:owner>
+      <itunes:name>Reformed Vietnam</itunes:name>
+      <itunes:email>reformedvn@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:type>serial</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://reformedvietnam.com/podcast-cover.jpg"/>
