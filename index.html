@@ -670,12 +670,12 @@
             <div class="panel">
               <div class="kicker">Ân Điển Mỗi Ngày · Spurgeon</div>
               <h3>Tĩnh nguyện hôm nay</h3>
-              <div class="dev-date" id="devDate">Thứ Ba, 10 tháng 11, 2026 · Bài ngày 10/11 trong “Sổ Séc Của Đức Tin” (1888) — bài “BƯỚC ĐI KHÔNG VẤP NGÃ”<span class="ai-label">Bản dịch AI, chưa duyệt</span></div>
-              <blockquote class="dev-verse" id="devVerse">“Ngài sẽ không để cho chân ngươi xiêu toạc.”</blockquote>
-              <div class="dev-ref" id="devRef">Thi Thiên 121:3</div>
-              <p id="devP1">Nếu Chúa không để cho, thì cả loài người lẫn ma quỷ đều không thể làm. Họ sẽ vui mừng biết bao nếu họ có thể khiến chúng ta ngã cách nhục nhã, đẩy chúng ta khỏi vị trí, và chôn chúng ta khỏi ký ức! Họ có thể làm điều này thỏa lòng nếu không vì một trở ngại, và chỉ một: Chúa sẽ không để cho; và nếu Ngài không để cho, chúng ta sẽ không chịu.</p>
-              <p id="devP2">Con đường của sự sống giống như đi giữa dãy An-pơ. Trên những đường mòn núi, người ta luôn bị nguy cơ trượt chân. Nơi đường cao thì đầu dễ choáng váng, và rồi chân sớm trượt: có những chỗ trơn như gương, và những chỗ khác gồ ghề đá sỏi, và ở cả hai nơi đều khó tránh ngã. Kẻ nào suốt đời được giữ mình đứng vững và bước đi không vấp ngã có lý do tốt nhất để biết ơn. Với nào là hố sập và cạm bẫy, đầu gối yếu, chân mỏi mệt, và kẻ thù xảo quyệt, không con cái nào của Đức Chúa Trời đứng vững được một giờ nếu không vì tình yêu thành tín không để cho chân người xiêu toạc. "Giữa ngàn cạm bẫy ta đứng vững, được tay Ngài nâng đỡ và gìn giữ; bàn tay vô hình ấy sẽ còn giữ ta, và dẫn ta đến núi thánh của Ngài."</p>
-              <p style="margin-top:auto"><a class="btn solid" id="devTodayLink" href="/suy-ngam/11-10.html">Đọc bài hôm nay →</a> <a class="btn" href="/suy-ngam/">Tất cả 366 bài</a> <a class="btn" href="/kinh-thanh/">Đọc Kinh Thánh 1934</a></p>
+              <div class="dev-date" id="devDate">Thứ Sáu, 13 tháng 11, 2026 · Bài ngày 13/11 trong “Sổ Séc Của Đức Tin” (1888) — bài “SỰ CANH GIỮ KHÔNG HỀ MỎI MỆT”<span class="ai-label">Bản dịch AI, chưa duyệt</span></div>
+              <blockquote class="dev-verse" id="devVerse">“Kìa, Đấng gìn giữ Y-sơ-ra-ên chẳng hề nhắm mắt, cũng không ngủ.”</blockquote>
+              <div class="dev-ref" id="devRef">Thi Thiên 121:4</div>
+              <p id="devP1">Đức Giê-hô-va là "Đấng Gìn Giữ Y-sơ-ra-ên". Không hình thức vô thức nào bao giờ lén đến trên Ngài, cả giấc ngủ sâu lẫn giấc ngủ nhẹ. Ngài không bao giờ thất bại trong việc canh giữ nhà và lòng của dân Ngài. Đây là lý do đủ để chúng ta an nghỉ trong sự bình an trọn vẹn. A-léc-xan-đơ nói rằng ông ngủ vì bạn ông là Pác-mê-ni-ô canh giữ; chúng ta càng có thể ngủ hơn vì Đức Chúa Trời chúng ta là Đấng canh giữ chúng ta.</p>
+              <p id="devP2">"Kìa" ở đây được dựng lên để gọi sự chú ý của chúng ta đến lẽ thật khích lệ này. Y-sơ-ra-ên, khi ông lấy đá làm gối, đã ngủ; nhưng Đức Chúa Trời ông thức, và đến trong khải tượng cùng tôi tớ Ngài. Khi chúng ta nằm không tự vệ, chính Đức Giê-hô-va sẽ che đầu chúng ta.</p>
+              <p style="margin-top:auto"><a class="btn solid" id="devTodayLink" href="/suy-ngam/11-13.html">Đọc bài hôm nay →</a> <a class="btn" href="/suy-ngam/">Tất cả 366 bài</a> <a class="btn" href="/kinh-thanh/">Đọc Kinh Thánh 1934</a></p>
             </div>
           </div>
         </div>
@@ -1477,11 +1477,22 @@
         return { d: now.getDate(), m: now.getMonth() + 1, y: now.getFullYear(), wd: now.getDay() };
       }
     }
+    function pad(n) { return String(n).padStart(2, "0"); }
+    // Date + link need no network: apply them synchronously at parse time, so the
+    // box can never show a stale date or a stale "read today" link even if the
+    // devotions JSON fetch fails. Title/verse/paragraphs still come from the JSON;
+    // until it arrives, the baked-in fallback text below stays.
+    function applyDate(t) {
+      var wd = t.wd < 0 ? new Date().getDay() : t.wd;
+      var dd = document.getElementById("devDate");
+      if (dd && dd.childNodes[0]) dd.childNodes[0].textContent = days[wd] + ", " + t.d + " tháng " + t.m + ", " + t.y + " · Bài ngày " + t.d + "/" + t.m + " trong “Sổ Séc Của Đức Tin” (1888)";
+      var link = document.getElementById("devTodayLink");
+      if (link) link.setAttribute("href", "/suy-ngam/" + pad(t.m) + "-" + pad(t.d) + ".html");
+    }
     function applyDevotion(data) {
       var t = vnToday(), e = null;
       data.entries.forEach(function (x) { if (x.month === t.m && x.day === t.d) e = x; });
       if (!e) return;
-      var pad = function (n) { return String(n).padStart(2, "0"); };
       var wd = t.wd < 0 ? new Date().getDay() : t.wd;
       var dd = document.getElementById("devDate");
       if (dd && dd.childNodes[0]) dd.childNodes[0].textContent = days[wd] + ", " + t.d + " tháng " + t.m + ", " + t.y + " · Bài ngày " + t.d + "/" + t.m + " trong “Sổ Séc Của Đức Tin” (1888) — bài “" + e.title + "”";
@@ -1501,6 +1512,7 @@
         }, 1500);
       });
     }
+    applyDate(vnToday());
     pickDevotion();
     // Re-pick when a tab kept open from an earlier day is shown again (bfcache).
     window.addEventListener("pageshow", function (e) { if (e.persisted) pickDevotion(); });
