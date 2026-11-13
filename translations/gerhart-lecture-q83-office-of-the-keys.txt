@@ -1,0 +1,10 @@
+AI, chưa duyệt
+BÀI GIẢNG VỀ CÂU HỎI 83: CHÌA KHÓA CỦA NƯỚC THIÊN ĐÀNG LÀ GÌ?
+Emanuel V. Gerhart, Các Bài Giảng về Giáo Lý Heidelberg
+
+Chức vụ của các chìa khóa là: 1. sự rao giảng Phúc Âm! 2. kỷ luật Hội Thánh. Để hiểu Giáo Lý muốn nói gì khi dùng cụm từ "Phúc Âm thánh", hãy đối chiếu Câu Hỏi 19. Lời dạy ở đây hoàn toàn hòa hợp với Đáp Án 65. Đức Thánh Linh khiến đức tin sinh ra trong lòng chúng ta nhờ sự rao giảng Phúc Âm thánh. Nhờ hai điều này, Vương quốc thiên đàng được mở ra cho tín hữu và đóng lại đối với kẻ chẳng tin.
+
+Nhận xét: Phúc Âm không đến với thế gian cùng với bản án đoán phạt. Mọi người đều đang ở dưới sự đoán phạt, nhưng Phúc Âm là tin vui. Vì thế, đối với kẻ ác và kẻ không tin kính, đối với mọi kẻ lầm lạc, Phúc Âm đến trong tình yêu thương và lòng thương xót. Sự đoán phạt xảy đến khi lẽ thật bị khinh rẻ, và tình yêu bị chà đạp dưới chân. Đây là điều căn bản trong việc rao giảng Phúc Âm cho kẻ ác.
+
+TRANSLATION STATUS: COMPLETE
+TERMINOLOGY ISSUES: Quét termbase (số lần xuất hiện, grep -o) — thân bài: "tin lành" 0; "Tin Lành" 0; "tin mừng" 0; "Kinh Tin Kính" 0; "Kinh Lạy Cha" 0; "công bình" 0; "Chúa Giê-xu" 0; "Chúa Giê-su" 0; "Đức Chúa Jêsus" 0; "Phúc Âm" 7; "sự công chính" 0. Không có thuật ngữ bị cấm nào trong giọng người dịch; không có trích dẫn Kinh Thánh 1934 nguyên văn nào trong bài. "Phúc Âm thánh" dùng theo đúng lời văn Đáp Án 83 trong translations/heidelberg.txt.
