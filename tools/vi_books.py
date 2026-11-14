@@ -159,6 +159,131 @@ def _titlecase_vi(t):
     return " ".join(_out)
 _TOTOP_CSS = ".totop{position:fixed;right:16px;bottom:18px;z-index:50;background:var(--accbtn,#7c2128);color:#fff;padding:8px 14px;border-radius:999px;text-decoration:none;font:600 14px system-ui,sans-serif;box-shadow:0 2px 10px rgba(0,0,0,.25)}"
 _TOTOP_MIN = 50 * 1024  # H9: back-to-top only on pages over ~50 KB of body HTML
+# --- NEEDS REVIEW flags: collapsible display (2026-11-14, Duc's choice) ---
+# Book pages render translator flags "[NEEDS REVIEW...]" inline; readers
+# asked for them collapsed into a small mark, tap to reveal. The flag text
+# is kept VERBATIM inside a hidden span (so the bare string stays in the
+# HTML source and NR counts page==txt==body still hold), and the TOC keeps
+# the old behaviour of stripping flags from its entries (R63 lesson: a flag
+# in a heading would otherwise duplicate into the TOC).
+# A flag is the bracketed chunk containing a bare "NEEDS REVIEW". Two forms
+# exist in the corpus: "[NEEDS REVIEW...]" (marker first) and "[... — NEEDS
+# REVIEW]" (marker last, e.g. "[mất chữ — NEEDS REVIEW]"). Bare mentions
+# without brackets ("Xem cờ NEEDS REVIEW...") are prose, not flags, and are
+# left alone. Chunks are delimited by bracket-depth counting; a stray
+# unbalanced "[" from OCR quotes falls back to the first "]". A chunk that
+# cannot be delimited (no "]" before a tag boundary / 5000 chars) is left
+# visible and reported, never swallowed.
+_NR_MAXLEN = 5000
+_NR_CSS = (".nr-flag{display:inline-block;vertical-align:middle;margin:0 2px;padding:1px 7px;border:1px solid var(--line);border-radius:999px;background:#d9a41e22;color:var(--acc);font:700 11px/1.5 'Be Vietnam Pro',system-ui,sans-serif;cursor:pointer}"
+           ".nr-flag[aria-expanded=\"true\"]{background:#7c212822}"
+           ".nr-text{color:var(--mut);font-size:.92em}")
+_NR_JS = ('<script>(function(){document.addEventListener("click",function(e){var b=e.target.closest(".nr-flag");if(!b)return;var s=b.nextElementSibling;if(!s||!s.classList.contains("nr-text"))return;var o=b.getAttribute("aria-expanded")==="true";b.setAttribute("aria-expanded",String(!o));s.hidden=o;})})()</script>')
+def _nr_open(s, pos):
+    """Backward scan for the '[' opening the chunk containing pos.
+    Stays inside the current text run: a '<br>' is skipped over, any other
+    '<' (a tag boundary) ends the search -> the occurrence is a mention."""
+    depth = 0
+    k = pos - 1
+    while k >= 0 and pos - k <= _NR_MAXLEN:
+        if s.startswith("<br>", k) or s.startswith("<br/>", k):
+            k -= 5 if s.startswith("<br/>", k) else 4
+            continue
+        c = s[k]
+        if c == "<":
+            return None
+        if c == "]":
+            depth += 1
+        elif c == "[":
+            if depth == 0:
+                return k
+            depth -= 1
+        k -= 1
+    return None
+def _nr_close(s, start):
+    """Forward scan for the chunk close. Returns end (exclusive) or None.
+    Prefers the bracket-depth-0 ']' (balanced nested brackets inside the
+    flag); falls back to the first ']' (stray unbalanced '[' from OCR
+    quotes). Gives up past _NR_MAXLEN or at any tag other than '<br>'."""
+    depth = 0
+    k = start
+    first_close = None
+    n = len(s)
+    while k < n and k - start <= _NR_MAXLEN:
+        if s[k] == "<" and not s.startswith("<br>", k) and not s.startswith("<br/>", k):
+            break
+        c = s[k]
+        if c == "[":
+            depth += 1
+        elif c == "]":
+            if first_close is None:
+                first_close = k
+            depth -= 1
+            if depth == 0:
+                return k + 1
+        k += 1
+    if first_close is not None:
+        return first_close + 1
+    return None
+def _nr_chunks(s):
+    """Top-level NEEDS REVIEW flag chunks in s: [(start, end)]. Mentions
+    without enclosing brackets are skipped; bare occurrences already inside
+    a found chunk are skipped (nested inner markers stay verbatim inside
+    the outer chunk's hidden span). Un-delimitable occurrences are skipped
+    (left visible). A later flag can sit inside a bracket opened before the
+    previous chunk (e.g. one translator's note holding two flags: the inner
+    flag is chunked first, then the note's own trailing flag resolves to
+    the whole note) — the new chunk then overlaps the previous one; merge
+    them instead of emitting overlapping spans, or _collapse_nr would
+    re-emit the shared text and duplicate the earlier flag (Gill 999)."""
+    out = []
+    i = 0
+    n = len(s)
+    while True:
+        j = s.find("NEEDS REVIEW", i)
+        if j < 0:
+            break
+        if j > 0 and s.startswith("[NEEDS REVIEW", j - 1):
+            start = j - 1
+        else:
+            start = _nr_open(s, j)
+            if start is None:
+                i = j + 1
+                continue
+        end = _nr_close(s, start)
+        if end is None or not (start <= j < end):
+            i = j + 1
+            continue
+        if out and start < out[-1][1]:
+            ps, pe = out[-1]
+            start, end = min(ps, start), max(pe, end)
+            out[-1] = (start, end)
+        else:
+            out.append((start, end))
+        i = end
+    return out
+def _collapse_nr(s):
+    """Wrap each flag chunk in s as a small toggle button + hidden span.
+    The flag text is kept verbatim (already HTML-escaped by the caller)."""
+    parts = []
+    last = 0
+    for (a, b) in _nr_chunks(s):
+        parts.append(s[last:a])
+        parts.append('<button type="button" class="nr-flag" aria-expanded="false" title="Ghi chú cần xem lại" aria-label="Ghi chú cần xem lại">⚠</button><span class="nr-text" hidden>')
+        parts.append(s[a:b])
+        parts.append("</span>")
+        last = b
+    parts.append(s[last:])
+    return "".join(parts)
+def _strip_nr(s):
+    """Remove flag chunks from s (TOC entries: flags never appear there)."""
+    parts = []
+    last = 0
+    for (a, b) in _nr_chunks(s):
+        parts.append(s[last:a])
+        last = b
+    parts.append(s[last:])
+    return "".join(parts)
 # Phase 3.4: reading-time estimate. 175 words/min = the speed reader.html
 # uses for its remaining-time estimate, so the book-page figure and the
 # in-reader ETA agree. Rounded to the nearest 5 minutes: an estimate, not
@@ -327,16 +452,16 @@ for _b in _idx:
     _toc_ps = []
     for i, s in enumerate(_secs):
         _at = _ul.quote(s[0], safe="")
-        _toc_ps.append(f'<li><a href="#c{i+1}">{E(s[0])}</a> <a class="toc-rd" href="{_rd}&at={_at}">Đọc →</a></li>')
+        _toc_ps.append(f'<li><a href="#c{i+1}">{_strip_nr(E(s[0]))}</a> <a class="toc-rd" href="{_rd}&at={_at}">Đọc →</a></li>')
         for _ln in s[1]:
             _mm = _MD_MARK.match(_ln)
             if _mm:
-                _toc_ps.append(f'<li class="toc-sub"><a href="#{_mm.group(1)}">{E(_mm.group(2))}</a></li>')
+                _toc_ps.append(f'<li class="toc-sub"><a href="#{_mm.group(1)}">{_strip_nr(E(_mm.group(2)))}</a></li>')
     _toc = "".join(_toc_ps)
     _body_secs = ""
     for i, (h, ps) in enumerate(_secs):
         _paras = [p.strip() for p in "\n".join(ps).split("\n\n") if p.strip()]
-        _sec_html = f'<h2 id="c{i+1}">{E(h)}</h2>'
+        _sec_html = f'<h2 id="c{i+1}">{_collapse_nr(E(h))}</h2>'
         for p in _paras:
             # Batch C (H2): split out md sub-heading markers (whole lines);
             # remaining lines form one <p> with <br> joins, as before.
@@ -346,12 +471,12 @@ for _b in _idx:
                 _mm = _MD_MARK.match(_line)
                 if _mm:
                     if _buf:
-                        _sec_html += f"<p>{E(_md_inline(chr(10).join(_buf).strip())).replace(chr(10), '<br>')}</p>"; _buf = []
-                    _sec_html += f'<h3 id="{_mm.group(1)}">{E(_mm.group(2))}</h3>'
+                        _sec_html += f"<p>{_collapse_nr(E(_md_inline(chr(10).join(_buf).strip()))).replace(chr(10), '<br>')}</p>"; _buf = []
+                    _sec_html += f'<h3 id="{_mm.group(1)}">{_collapse_nr(E(_mm.group(2)))}</h3>'
                 else:
                     _buf.append(_line)
             if _buf:
-                _sec_html += f"<p>{E(_md_inline(chr(10).join(_buf).strip())).replace(chr(10), '<br>')}</p>"
+                _sec_html += f"<p>{_collapse_nr(E(_md_inline(chr(10).join(_buf).strip()))).replace(chr(10), '<br>')}</p>"
         _body_secs += _sec_html
     # _au / _orig resolved above via _resolve (Wave 2)
     _toc_css = ".toc-rd{font:600 12px 'Be Vietnam Pro',system-ui,sans-serif;color:var(--mut);margin-left:6px;text-decoration:none;white-space:nowrap}" + (".toc-sub{margin-left:1.2em}" if "toc-sub" in _toc else "")  # Batch C: only when md sub-headings exist
@@ -389,7 +514,7 @@ for _b in _idx:
     if _djvu and _id != _SRC_BROKEN_DJVU:
         _src_links.append(f'<a href="{E(_ul.quote(_djvu, safe="/:"))}">Văn bản nguồn đã dịch</a>')
     _src_line = ('<p class="m">Nguồn: ' + " · ".join(_src_links) + ".</p>") if _src_links else ""
-    _body = (f'<style>.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}{_toc_css}.rv-badge{{display:inline-block;font:600 12px \'Be Vietnam Pro\',system-ui,sans-serif;padding:3px 10px;border-radius:999px;background:#d9a41e22;color:var(--mut);border:1px solid var(--line);vertical-align:middle}}.rv-badge.rv-reviewed{{background:#2e7d3222;color:#2e7d32}}.rv-badge.rv-in-review{{background:#7c212822;color:var(--acc)}}</style>'
+    _body = (f'<style>.bt{{columns:1}}main h2{{margin-top:1.8em}}.rd-top{{margin:14px 0}}{_toc_css}.rv-badge{{display:inline-block;font:600 12px \'Be Vietnam Pro\',system-ui,sans-serif;padding:3px 10px;border-radius:999px;background:#d9a41e22;color:var(--mut);border:1px solid var(--line);vertical-align:middle}}.rv-badge.rv-reviewed{{background:#2e7d3222;color:#2e7d32}}.rv-badge.rv-in-review{{background:#7c212822;color:var(--acc)}}{_NR_CSS}</style>{_NR_JS}'
              f'<h1>{E(_dt)}</h1>{_au_line}{_rt_line}{_label}{_rep_line}{_full_line}{_src_line}' +
              f'<p class="rd-top"><a class="btn primary" href="{_rd}">📖 Đọc trong trình đọc</a> <a class="btn s" id="rv-resume" href="{_rd}" hidden>▶ Tiếp tục đọc</a></p>{_resume_js}' +
              (f'<p class="dr">{E(_b["note"])}</p>' if _b.get("note") else '') + ('<p>Sách mới, miễn phí, không thương mại. Tác giả (bút danh): ' + E(_au) + '.</p>' if _orig_book else '<p>Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.</p>') +
