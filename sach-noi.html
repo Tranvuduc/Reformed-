@@ -23,12 +23,7 @@ b=document.createElement("button");b.type="button";
 b.innerHTML="<span></span><span></span>";b.firstChild.textContent=p.l;
 b.lastChild.textContent=p.d;b.dataset.i=i;li.appendChild(b);list.appendChild(li)});
 var saved=null;try{saved=JSON.parse(localStorage.getItem(key(id)))}catch(e){}
-if(saved&&DATA[id][saved.i]){
-var r=document.createElement("button");r.type="button";
-r.className="btn rv-resume";r.textContent="▶ Tiếp tục: "+DATA[id][saved.i].l+" · "+fmt(saved.t);
-r.addEventListener("click",function(){play(saved.i,saved.t)});
-panel.insertBefore(r,audio.nextSibling);
-}
+if(saved&&DATA[id][saved.i])play(saved.i,saved.t);else play(0,0);
 }
 }else{
 panel.hidden=true;btn.textContent="▶ Nghe ngay";audio.pause();return;
