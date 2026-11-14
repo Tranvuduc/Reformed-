@@ -383,6 +383,10 @@ AUD=[("LibriVox trên Internet Archive","https://archive.org/details/librivoxaud
 ("Ligonier – loạt bài giảng của R.C. Sproul","https://www.ligonier.org/learn/series","Nhiều loạt bài giảng âm thanh miễn phí (tiếng Anh)."),
 ("Desiring God – bài giảng của John Piper","https://www.desiringgod.org/messages","Bài giảng âm thanh miễn phí (tiếng Anh).")]
 lis_a = "".join(f'<li><a href="{E(u)}" rel="noopener">{E(t)}</a><br><small>{E(d)}</small></li>' for t,u,d in AUD)
+# In-site audiobook player CSS + JS (2026-11-14, Duc: "Làm player riêng trên web").
+# _SN_PLAYER_JS has a __SN_DATA__ placeholder filled per-regen from podcast.xml.
+_SN_PLAYER_CSS = '<style>.rv-player{border-top:1px solid var(--line);padding:12px 14px 14px}.rv-player audio{width:100%;display:block;margin:2px 0 8px}.rv-now{font-size:14px;color:var(--mut);margin:0 0 8px}.rv-ctl{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin:0 0 8px;font-size:14px}.rv-ctl select{font:inherit;padding:2px 4px}.rv-tracks{list-style:none;margin:0;padding:0;max-height:260px;overflow:auto}.rv-tracks li{margin:0}.rv-tracks button{display:flex;width:100%;gap:8px;justify-content:space-between;background:none;border:0;border-bottom:1px solid var(--line);padding:8px 2px;cursor:pointer;font:inherit;color:inherit;text-align:left}.rv-tracks button:hover{background:var(--bg)}.rv-tracks button.on{color:var(--acc);font-weight:700}.rv-tracks button span:last-child{color:var(--mut);white-space:nowrap}.rv-resume{display:block;width:100%;margin:0 0 8px}</style>'
+_SN_PLAYER_JS = '<script>(function(){var DATA=__SN_DATA__;\nfunction fmt(s){s=Math.floor(s);var h=Math.floor(s/3600),m=Math.floor(s%3600/60),x=s%60;\nreturn (h?h+":"+String(m).padStart(2,"0"):m)+":"+String(x).padStart(2,"0")}\nfunction key(id){return "rv.audio."+id}\ndocument.querySelectorAll(".rv-listen").forEach(function(btn){\nbtn.addEventListener("click",function(){\nvar id=btn.dataset.ident,\npanel=document.getElementById("rv-"+id),audio=panel.querySelector("audio"),\nlist=panel.querySelector(".rv-tracks"),now=panel.querySelector(".rv-now"),\ndl=panel.querySelector(".rv-dl"),speed=panel.querySelector(".rv-speed");\nif(panel.hidden){\npanel.hidden=false;btn.textContent="▾ Thu gọn";\nif(!list.children.length){\nDATA[id].forEach(function(p,i){var li=document.createElement("li"),\nb=document.createElement("button");b.type="button";\nb.innerHTML="<span></span><span></span>";b.firstChild.textContent=p.l;\nb.lastChild.textContent=p.d;b.dataset.i=i;li.appendChild(b);list.appendChild(li)});\nvar saved=null;try{saved=JSON.parse(localStorage.getItem(key(id)))}catch(e){}\nif(saved&&DATA[id][saved.i]){\nvar r=document.createElement("button");r.type="button";\nr.className="btn rv-resume";r.textContent="▶ Tiếp tục: "+DATA[id][saved.i].l+" · "+fmt(saved.t);\nr.addEventListener("click",function(){play(saved.i,saved.t)});\npanel.insertBefore(r,audio.nextSibling);\n}\n}\n}else{\npanel.hidden=true;btn.textContent="▶ Nghe ngay";audio.pause();return;\n}\nfunction play(i,t){var p=DATA[id][i];\ndocument.querySelectorAll("audio").forEach(function(a){if(a!==audio)a.pause()});\nif(audio.dataset.i!=i){audio.src=p.u;audio.dataset.i=i}\naudio.playbackRate=parseFloat(speed.value);\nif(t)audio.currentTime=t;audio.play().catch(function(){});\nnow.textContent="Đang nghe: "+p.l+" · "+p.d;dl.href=p.u;\nlist.querySelectorAll("button").forEach(function(b){b.classList.toggle("on",+b.dataset.i===i)})}\nif(!panel.dataset.wired){\npanel.dataset.wired="1";\nlist.addEventListener("click",function(e){var b=e.target.closest("button");if(b)play(+b.dataset.i,0)});\nspeed.addEventListener("change",function(){audio.playbackRate=parseFloat(speed.value)});\naudio.addEventListener("ended",function(){var i=+audio.dataset.i+1;\nif(DATA[id][i])play(i,0);else{now.textContent="Đã nghe hết cuốn sách.";\ntry{localStorage.removeItem(key(id))}catch(e){}}});\nvar last=0;audio.addEventListener("timeupdate",function(){var n=Date.now();\nif(n-last<5000)return;last=n;\ntry{localStorage.setItem(key(id),JSON.stringify({i:+audio.dataset.i,t:audio.currentTime}))}catch(e){}});\naudio.addEventListener("pause",function(){\ntry{localStorage.setItem(key(id),JSON.stringify({i:+audio.dataset.i,t:audio.currentTime}))}catch(e){}});\n}\n})})})()</script>'
 # Sách nói của Thư Viện Cải Chánh: the book grid is rendered from
 # tools/sach-noi-entries.json so a catalog regen can never wipe it again
 # (2026-11-08 the catalog bot regenerated this page from the external-links
@@ -396,13 +400,50 @@ def _sn_foot(e):
     if u:
         return f'<a class="btn primary" href="{E(u)}" target="_blank" rel="noopener">Nghe</a>'
     return '<span class="btn" aria-disabled="true">Sắp có</span>'
-cards_sn = "".join(
-    f'<article class="bk-card"><div class="bk-spine" style="background:{E(e["color"])}"><b>{E(e["author"])}</b><i>{E(e["title"])}</i></div>'
-    f'<div class="bk-body"><p class="bk-by">{E(e["author"])}</p><p class="bk-d">{E(e["description"])}</p></div>'
-    f'<div class="bk-foot"><span>{E(e["duration"])}</span>{_sn_foot(e)}</div></article>' for e in SNB)
+# In-site audiobook player (2026-11-14): panels + track DATA are rendered from
+# podcast.xml (152 episodes) so a catalog regen can never wipe them — the
+# 2026-11-08 sach-noi wipe happened because that page was hand-built outside
+# this generator. Track order follows podcast.xml; single-track books use the
+# entry title, multi-track books use "Phần N".
+_sn_pod_path = "podcast.xml"
+if not os.path.exists(_sn_pod_path):
+    _sn_pod_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "podcast.xml")
+_sn_pod = open(_sn_pod_path, encoding="utf-8").read() if os.path.exists(_sn_pod_path) else ""
+_sn_tracks = {}
+for _it in re.findall(r"<item>(.*?)</item>", _sn_pod, re.S):
+    _um = re.search(r'<enclosure url="(https://archive\.org/download/([^/]+)/[^"]+)"', _it)
+    _dm = re.search(r"<itunes:duration>([^<]+)</itunes:duration>", _it)
+    if _um and _dm:
+        _sn_tracks.setdefault(_um.group(2), []).append({"d": _dm.group(1), "u": _um.group(1)})
+_sn_data = {}
+for e in SNB:
+    _ident = (e.get("listen") or "").strip().rstrip("/").rsplit("/details/", 1)[-1]
+    _trs = _sn_tracks.get(_ident, [])
+    if len(_trs) == 1:
+        _sn_data[_ident] = [{"l": e["title"], "d": _trs[0]["d"], "u": _trs[0]["u"]}]
+    elif _trs:
+        _sn_data[_ident] = [{"l": f"Phần {i + 1}", "d": t["d"], "u": t["u"]} for i, t in enumerate(_trs)]
+def _sn_card(e):
+    _ident = (e.get("listen") or "").strip().rstrip("/").rsplit("/details/", 1)[-1]
+    _trs = _sn_data.get(_ident)
+    _foot = _sn_foot(e)
+    _panel = ""
+    if _trs:
+        _foot = (f'<button class="btn primary rv-listen" type="button" data-ident="{E(_ident)}">▶ Nghe ngay</button>'
+                 f'<a class="btn" href="{E(e["listen"])}" target="_blank" rel="noopener">Archive.org</a>')
+        _panel = (f'<div class="rv-player" id="rv-{E(_ident)}" hidden><audio controls preload="none"></audio>'
+                  f'<div class="rv-now">Chọn một phần để nghe.</div><div class="rv-ctl"><label>Tốc độ <select class="rv-speed">'
+                  f'<option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option>'
+                  f'<option value="1.5">1.5×</option><option value="2">2×</option></select></label>'
+                  f'<a class="rv-dl" href="{E(_trs[0]["u"])}" download>Tải phần này xuống</a></div><ol class="rv-tracks"></ol></div>')
+    return (f'<article class="bk-card"><div class="bk-spine" style="background:{E(e["color"])}"><b>{E(e["author"])}</b><i>{E(e["title"])}</i></div>'
+            f'<div class="bk-body"><p class="bk-by">{E(e["author"])}</p><p class="bk-d">{E(e["description"])}</p></div>'
+            f'<div class="bk-foot"><span>{E(e["duration"])}</span>{_foot}</div>{_panel}</article>')
+cards_sn = "".join(_sn_card(e) for e in SNB)
+_sn_player = _SN_PLAYER_CSS + _SN_PLAYER_JS.replace("__SN_DATA__", json.dumps(_sn_data, ensure_ascii=False, separators=(",", ":")))
 open("sach-noi.html", "w", encoding="utf-8").write(page("Sách nói và bài giảng Cải Chánh miễn phí | Reformed Vietnam",
     "Nơi nghe sách nói, bài giảng và Kinh Thánh âm thanh miễn phí: LibriVox, CCEL, Puritan Downloads, Bible.com, Ligonier, Desiring God.", "sach-noi.html",
-    f'<h1>Sách nói và bài giảng miễn phí</h1><p>Nghe Lời Chúa và những tác phẩm Cải Chánh trong lúc làm việc, đi đường, hay trước khi ngủ. Dưới đây là những sách nói do Thư Viện Cải Chánh thực hiện. Phía dưới là những nguồn nghe miễn phí khác mà thư viện giới thiệu.</p><h2>Sách nói của Thư Viện Cải Chánh</h2><p>Giọng đọc AI, bản dịch AI, chưa duyệt.</p><div class="bk-grid">{cards_sn}</div><h2>Nguồn nghe bên ngoài</h2><p>Trong thư viện, hãy chọn bộ lọc "Có bản nghe" để xem các sách có bản nghe. Trình đọc của chúng tôi cũng có thể đọc to bằng giọng đọc của thiết bị.</p><ul>{lis_a}</ul><p><a class="btn primary" href="/?q=">Mở thư viện</a></p>'))
+    f'<h1>Sách nói và bài giảng miễn phí</h1><p>Nghe Lời Chúa và những tác phẩm Cải Chánh trong lúc làm việc, đi đường, hay trước khi ngủ. Dưới đây là những sách nói do Thư Viện Cải Chánh thực hiện. Phía dưới là những nguồn nghe miễn phí khác mà thư viện giới thiệu.</p><h2>Sách nói của Thư Viện Cải Chánh</h2><p>Giọng đọc AI, bản dịch AI, chưa duyệt.</p><div class="bk-grid">{cards_sn}</div><h2>Nguồn nghe bên ngoài</h2><p>Trong thư viện, hãy chọn bộ lọc "Có bản nghe" để xem các sách có bản nghe. Trình đọc của chúng tôi cũng có thể đọc to bằng giọng đọc của thiết bị.</p><ul>{lis_a}</ul><p><a class="btn primary" href="/?q=">Mở thư viện</a></p>').replace("</body></html>", _sn_player + "</body></html>"))
 urls.append("sach-noi.html")
 
 exec(open('tools/plan.py', encoding='utf-8').read())
