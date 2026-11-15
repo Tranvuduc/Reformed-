@@ -20,8 +20,9 @@
 //   1. Rate limit theo IP (bộ nhớ trong — xem ghi chú ở checkRateLimit).
 //   2. Tìm sách theo tiêu đề/tác giả (data/books-lookup.json, 3.323 cuốn).
 //   3. Khớp 95 câu Hỏi Đáp (data/answers-lookup.json) -> trả thẳng đáp án + link.
-//   4. Gọi Groq llama-3.3-70b-versatile (chính), Gemini gemini-flash-latest
-//      (dự phòng) với system prompt khóa lập trường Cải Chánh.
+//   4. Gọi Groq openai/gpt-oss-120b (chính, dự phòng 20b cùng nhà),
+//      Gemini gemini-flash-latest (dự phòng) với system prompt khóa lập
+//      trường Cải Chánh.
 //   5. Kiểm chứng mọi trích dẫn Kinh Thánh trong câu trả lời đối chiếu
 //      dữ liệu 1934 (data/bible-refs.json, 66 sách / 1.189 chương / 31.102 câu).
 //      Trích dẫn không tồn tại -> gỡ khỏi câu trả lời, ghi chú rõ.
@@ -38,12 +39,17 @@ import { readFileSync } from 'node:fs';
 // live). Nếu alias này cũng bị đổi trong tương lai, chỉ cần sửa 1 dòng MODEL này.
 const MODEL = 'gemini-flash-latest';
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
-// Groq (chính từ 2026-11-15): API tương thích OpenAI, model 70B trả lời
-// nhanh trên free tier; key của David đã kiểm định dạng (gsk_ + 52 ký tự)
-// nhưng chưa kiểm live được từ VM này (api.groq.com timeout từ đây —
-// Vercel sẽ là nơi kiểm chứng thật khi deploy).
+// Groq (chính từ 2026-11-15): API tương thích OpenAI, model trả lời
+// nhanh trên free tier. LƯU Ý MODEL (2026-11-15, đã kiểm chứng bằng log
+// Vercel + docs Groq): 'llama-3.3-70b-versatile' ĐÃ BỊ GROQ NGỪNG cho
+// free/developer từ 16/08/2026 (chỉ còn Enterprise) nên mọi lần gọi đều
+// trả HTTP 404 model_not_found — key vẫn tốt (không 401/403), code đã
+// live, chỉ sai tên model. Groq chỉ định thay thế là openai/gpt-oss-120b
+// (chính) và openai/gpt-oss-20b (dự phòng cùng nhà); cả hai đều là
+// Production trên free/developer. Vì tên model có thể bị ngừng tiếp,
+// askGroq thử lần lượt cả hai model trước khi báo lỗi.
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
-const GROQ_MODEL = 'llama-3.3-70b-versatile';
+const GROQ_MODELS = ['openai/gpt-oss-120b', 'openai/gpt-oss-20b'];
 const GROQ_TIMEOUT_MS = 8000;
 const MAX_Q_LEN = 500;          // tối đa 500 ký tự / câu hỏi
 const HISTORY_TURNS = 2;        // giữ tối đa 2 lượt trao đổi gần nhất
@@ -349,6 +355,8 @@ async function askGemini(question, history) {
 // API tương thích OpenAI: POST /openai/v1/chat/completions, header
 // Authorization: Bearer <key>. Trả về { status, text } giống askGemini,
 // thêm cờ timeout:true khi bị abort để handler biết mà dừng, đừng thử tiếp.
+// Thử lần lượt GROQ_MODELS: model nào lỗi HTTP (404 model bị ngừng, 5xx...)
+// thì thử model tiếp theo; hết quota (429) thì báo quota; timeout thì dừng.
 async function askGroq(question, history) {
   const key = process.env.GROQ_API_KEY;
   if (!key) return { status: 'no_key' };
@@ -362,43 +370,46 @@ async function askGroq(question, history) {
     }
   }
   messages.push({ role: 'user', content: question });
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), GROQ_TIMEOUT_MS);
-  try {
-    const r = await fetch(GROQ_URL, {
-      method: 'POST',
-      signal: ctrl.signal,
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${key}`,
-      },
-      body: JSON.stringify({
-        model: GROQ_MODEL,
-        messages,
-        temperature: 0.3,
-        max_tokens: MAX_OUTPUT_TOKENS,
-      }),
-    });
-    if (r.status === 429) return { status: 'quota' };
-    if (!r.ok) {
-      // Không lộ nội dung lỗi của Groq ra ngoài (có thể chứa chi tiết nội bộ).
-      console.error('[rv-chat] groq http', r.status);
-      return { status: 'error' };
+  for (const model of GROQ_MODELS) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), GROQ_TIMEOUT_MS);
+    try {
+      const r = await fetch(GROQ_URL, {
+        method: 'POST',
+        signal: ctrl.signal,
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${key}`,
+        },
+        body: JSON.stringify({
+          model,
+          messages,
+          temperature: 0.3,
+          max_tokens: MAX_OUTPUT_TOKENS,
+        }),
+      });
+      if (r.status === 429) return { status: 'quota' };
+      if (!r.ok) {
+        // Không lộ nội dung lỗi của Groq ra ngoài (có thể chứa chi tiết nội bộ).
+        console.error('[rv-chat] groq http', r.status, model);
+        continue; // thử model tiếp theo
+      }
+      const data = await r.json();
+      const text = String(data?.choices?.[0]?.message?.content || '').trim();
+      if (!text) continue; // trả rỗng: thử model tiếp theo
+      return { status: 'ok', text };
+    } catch (e) {
+      if (e && e.name === 'AbortError') {
+        console.error('[rv-chat] groq timeout', model);
+        return { status: 'error', timeout: true };
+      }
+      console.error('[rv-chat] groq fetch failed:', e && e.message ? String(e.message).slice(0, 120) : 'unknown');
+      return { status: 'error' }; // lỗi mạng: cùng endpoint, thử tiếp cũng vậy
+    } finally {
+      clearTimeout(timer);
     }
-    const data = await r.json();
-    const text = String(data?.choices?.[0]?.message?.content || '').trim();
-    if (!text) return { status: 'error' };
-    return { status: 'ok', text };
-  } catch (e) {
-    if (e && e.name === 'AbortError') {
-      console.error('[rv-chat] groq timeout');
-      return { status: 'error', timeout: true };
-    }
-    console.error('[rv-chat] groq fetch failed:', e && e.message ? String(e.message).slice(0, 120) : 'unknown');
-    return { status: 'error' };
-  } finally {
-    clearTimeout(timer);
   }
+  return { status: 'error' };
 }
 
 // ---------------------------------------------------------------- handler (mẫu như api/tr.js)
