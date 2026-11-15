@@ -140,9 +140,27 @@
       body.scrollTop = body.scrollHeight;
     }
 
+    function escapeHtml(s) {
+      return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+    // SỬA 15/11: câu trả lời AI giờ có thể chứa link reformedvietnam.com
+    // (server chỉ đưa link thật trong TÀI LIỆU TRÊN TRANG). Escape trước rồi
+    // mới biến URL thành <a> để link bấm được — chỉ link đúng tên miền này
+    // mới được biến thành thẻ <a>; câu hỏi của người dùng vẫn giữ text thuần.
+    function renderAnswer(text) {
+      var safe = escapeHtml(text);
+      return safe.replace(/https:\/\/reformedvietnam\.com\/[^\s<)]+/g, function (url) {
+        var clean = url.replace(/[.,;:!?]+$/, '');
+        var tail = url.slice(clean.length);
+        return '<a href="' + clean + '" target="_blank" rel="noopener">' + clean + '</a>' + tail;
+      });
+    }
+
     function addMsg(kind, text) {
       var m = el('div', 'rv-chat-msg rv-chat-' + kind);
-      var bubble = el('div', 'rv-chat-bubble', text);
+      var bubble = el('div', 'rv-chat-bubble');
+      if (kind === 'ai') bubble.innerHTML = renderAnswer(text);
+      else bubble.textContent = text;
       m.appendChild(bubble);
       if (kind === 'ai') {
         m.appendChild(el('div', 'rv-chat-disclaimer', DISCLAIMER));

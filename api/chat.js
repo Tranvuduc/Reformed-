@@ -22,12 +22,14 @@
 //   3. Khớp 95 câu Hỏi Đáp (data/answers-lookup.json) -> trả thẳng đáp án + link.
 //   4. Gọi Groq openai/gpt-oss-120b (chính, dự phòng 20b cùng nhà),
 //      Gemini gemini-flash-latest (dự phòng) với system prompt khóa lập
-//      trường Cải Chánh.
+//      trường Cải Chánh + ngữ cảnh từ trang (sách khớp, Hỏi Đáp khớp,
+//      các mục chính) để trả lời có link thật thay vì chung chung.
 //   5. Kiểm chứng mọi trích dẫn Kinh Thánh trong câu trả lời đối chiếu
 //      dữ liệu 1934 (data/bible-refs.json, 66 sách / 1.189 chương / 31.102 câu).
 //      Trích dẫn không tồn tại -> gỡ khỏi câu trả lời, ghi chú rõ.
 //
-// KHÔNG có RAG đọc nội dung sách trong bản này (dự án riêng, theo PLAN.md).
+// Chỉ lấy tiêu đề/tác giả sách + tóm tắt Hỏi Đáp làm ngữ cảnh cho LLM —
+// KHÔNG đọc nội dung sách (dự án RAG đầy đủ là việc riêng, theo PLAN.md).
 import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 
@@ -69,6 +71,7 @@ const SYSTEM_PROMPT = [
   'Trả lời bằng tiếng Việt, ngắn gọn (tối đa khoảng 250 từ), giọng ấm áp, rõ ràng.',
   'Khi trích Kinh Thánh, chỉ dùng Bản dịch 1934 và ghi đúng dạng "Sách chương:câu" (ví dụ: Giăng 3:16, Rô-ma 8:28); chỉ trích những câu bạn thật sự chắc chắn, nếu không chắc thì nói "tôi không chắc về câu này" thay vì đoán. Không bịa trích dẫn.',
   'Khi nhắc tới một cuốn sách, chỉ nhắc sách có trong thư viện và ghi rõ tên sách + tác giả.',
+  'Khi câu trả lời kèm mục TÀI LIỆU TRÊN TRANG, hãy dựa vào đó: giới thiệu đúng sách/câu trả lời có sẵn và ghi link đầy đủ dạng https://reformedvietnam.com/... Chỉ dùng link có trong tài liệu đó, tuyệt đối không bịa URL hay đoán slug. Nếu tài liệu không có gì liên quan, trả lời theo thần học Cải Chánh rồi gợi ý mục phù hợp của trang.',
   'Nếu câu hỏi là tư vấn mục vụ cá nhân, khủng hoảng, hôn nhân, y tế hay pháp lý, hãy từ chối lịch sự và khuyên gặp mục sư hoặc người có chuyên môn.',
   'Không bao giờ xưng mình là mục sư, không bao giờ nói câu trả lời đã được duyệt.',
   'Không trả lời về chính trị hay các chủ đề ngoài Kinh Thánh / thần học / sách.',
@@ -164,20 +167,19 @@ function idfMap() {
   for (const [t, n] of df) _idf.set(t, Math.log(1 + entries.length / (1 + n)));
   return _idf;
 }
-function matchAnswers(question) {
+function scoreAnswers(question) {
   const qNorm = norm(question);
   const qToks = tokens(question);
-  if (qToks.length === 0) return null;
+  if (qToks.length === 0) return [];
   const idf = idfMap();
   const qWeight = qToks.reduce((s, t) => s + (idf.get(t) ?? 4.5), 0); // từ chưa từng thấy = rất hiếm
   const qSet = new Set(qToks);
-  let best = null;
-  let bestScore = 0;
+  const scored = [];
   for (const e of loadData('answers-lookup.json')) {
     const eNorm = norm(e.q);
     // Khớp gần như nguyên câu -> nhận ngay.
     if (qNorm.length > 12 && (eNorm.includes(qNorm) || qNorm.includes(eNorm))) {
-      return { entry: e, score: 1 };
+      return [{ entry: e, score: 1 }];
     }
     const eToks = tokens(e.q);
     if (eToks.length === 0) continue;
@@ -188,19 +190,24 @@ function matchAnswers(question) {
     }
     // Điểm = tỉ trọng IDF của các từ khớp được / tổng trọng IDF của câu hỏi.
     const score = qWeight > 0 ? hitWeight / qWeight : 0;
-    if (hit >= 2 && score > bestScore) { bestScore = score; best = e; }
+    if (hit >= 2) scored.push({ entry: e, score });
   }
-  if (best && bestScore >= 0.5) return { entry: best, score: bestScore };
+  scored.sort((x, y) => y.score - x.score);
+  return scored;
+}
+function matchAnswers(question) {
+  const scored = scoreAnswers(question);
+  if (scored.length > 0 && scored[0].score >= 0.5) return scored[0];
   return null;
 }
 
 // ---------------------------------------------------------------- lớp 2: tìm sách theo tiêu đề
 const BOOK_INTENT = /\b(sach|tim sach|tim cuon|gioi thieu sach|co sach nao)\b/;
-function matchBooks(question) {
-  const qNorm = norm(question);
-  if (!BOOK_INTENT.test(qNorm)) return null;
-  const keys = tokens(question).filter((t) => !['sach', 'cuon', 'quyen', 'nao', 'tim', 'gioi', 'thieu', 'viet', 'noi', 've', 'cua', 'doc', 'hay', 'tot'].includes(t));
-  if (keys.length === 0) return null;
+// Từ không mang nghĩa phân biệt khi tìm sách.
+const BOOK_KEY_EXCLUDE = ['sach', 'cuon', 'quyen', 'nao', 'tim', 'gioi', 'thieu', 'viet', 'noi', 've', 'cua', 'doc', 'hay', 'tot'];
+function scoreBooks(question) {
+  const keys = tokens(question).filter((t) => !BOOK_KEY_EXCLUDE.includes(t));
+  if (keys.length === 0) return [];
   const scored = [];
   for (const b of loadData('books-lookup.json')) {
     const titleToks = new Set(tokens(b.t));
@@ -213,10 +220,72 @@ function matchBooks(question) {
     if (hit > 0) scored.push({ b, hit });
   }
   scored.sort((x, y) => y.hit - x.hit);
-  const top = scored.slice(0, 3);
+  return scored;
+}
+function matchBooks(question) {
+  const qNorm = norm(question);
+  if (!BOOK_INTENT.test(qNorm)) return null;
+  const top = scoreBooks(question).slice(0, 3);
   // Cần ít nhất 1 từ khoá khớp tiêu đề (hit >= 2) để trả về.
   if (top.length === 0 || top[0].hit < 2) return null;
   return top.map((x) => x.b);
+}
+
+// ---------------------------------------------------------------- ngữ cảnh cho LLM: sách + Hỏi Đáp + mục của trang
+// Duc 2026-11-15: "AI trả lời chung chung, không đọc được trang, không đưa
+// link". Nguyên nhân: LLM chỉ nhận system prompt + lịch sử, không hề biết
+// thư viện có sách gì. Hàm này đưa vào prompt: sách khớp từ khoá (chỉ tiêu
+// đề/tác giả + link — KHÔNG đọc nội dung sách), Hỏi Đáp khớp (tóm tắt +
+// link), và các mục chính của trang (đường dẫn đã kiểm có thật trong repo).
+// Prompt thêm ~200-300 token/lần gọi tự do, vẫn $0 (free tier Groq/Gemini).
+const SITE_SECTIONS = [
+  ['Thư viện sách', 'https://reformedvietnam.com/thu-vien.html'],
+  ['Kinh Thánh 1934 — đọc và tra cứu', 'https://reformedvietnam.com/kinh-thanh/'],
+  ['Giáo lý Westminster (107 câu)', 'https://reformedvietnam.com/giao-ly/'],
+  ['Bách khoa thần học', 'https://reformedvietnam.com/bach-khoa/'],
+  ['Hỏi đáp', 'https://reformedvietnam.com/hoi-dap/'],
+  ['Học viện (Thirdmill)', 'https://reformedvietnam.com/hoc-vien/'],
+  ['Bài giảng', 'https://reformedvietnam.com/bai-giang/'],
+  ['Thánh ca', 'https://reformedvietnam.com/thanh-ca/'],
+  ['Tóm tắt sách', 'https://reformedvietnam.com/tom-tat-sach/'],
+  ['Sách nói', 'https://reformedvietnam.com/sach-noi.html'],
+  ['Suy ngẫm hằng ngày', 'https://reformedvietnam.com/suy-ngam/'],
+];
+function buildSiteContext(question) {
+  const lines = ['TÀI LIỆU TRÊN TRANG reformedvietnam.com — chỉ dùng những mục dưới đây, tuyệt đối không bịa link hay đoán slug:'];
+  // Ưu tiên sách có CỤM 2 từ khớp với câu hỏi ("cầu nguyện") trước sách chỉ
+  // khớp từng từ rời ("câu hỏi" + "nguyên nhân" — bỏ dấu xong đều thành
+  // "cau"/"nguyen" nên khớp rời rất dễ nhiễu). Không có sách nào khớp cụm
+  // thì dùng lại danh sách khớp rời.
+  const qKeys = tokens(question).filter((t) => !BOOK_KEY_EXCLUDE.includes(t));
+  const qBigrams = new Set();
+  for (let i = 0; i + 1 < qKeys.length; i++) qBigrams.add(`${qKeys[i]} ${qKeys[i + 1]}`);
+  const scored = scoreBooks(question).filter((x) => x.hit >= 4);
+  const withPhrase = scored.filter((x) => {
+    const tToks = tokens(x.b.t);
+    for (let i = 0; i + 1 < tToks.length; i++) {
+      if (qBigrams.has(`${tToks[i]} ${tToks[i + 1]}`)) return true;
+    }
+    return false;
+  });
+  const books = (withPhrase.length > 0 ? withPhrase : scored).slice(0, 4);
+  if (books.length > 0) {
+    lines.push('Sách trong thư viện khớp với câu hỏi:');
+    for (const { b } of books) {
+      lines.push(`- ${b.t} — ${b.a} — https://reformedvietnam.com/ban-dich/${b.s}.html`);
+    }
+  }
+  const qas = scoreAnswers(question).filter((x) => x.score >= 0.3).slice(0, 3);
+  if (qas.length > 0) {
+    lines.push('Câu hỏi-đáp đã có trên trang:');
+    for (const { entry } of qas) {
+      const excerpt = String(entry.a || '').replace(/\s+/g, ' ').slice(0, 120);
+      lines.push(`- ${entry.q} — https://reformedvietnam.com/hoi-dap/${entry.s}.html (tóm tắt: ${excerpt}…)`);
+    }
+  }
+  lines.push('Các mục chính của trang:');
+  for (const [label, url] of SITE_SECTIONS) lines.push(`- ${label}: ${url}`);
+  return lines.join('\n');
 }
 
 // ---------------------------------------------------------------- lớp 3: kiểm chứng trích dẫn Kinh Thánh 1934
@@ -299,9 +368,10 @@ function verifyCitations(answer) {
 }
 
 // ---------------------------------------------------------------- lớp 4: gọi Gemini
-async function askGemini(question, history) {
+async function askGemini(question, history, context) {
   const key = process.env.GEMINI_API_KEY;
   if (!key) return { status: 'no_key' };
+  const sysText = context ? `${SYSTEM_PROMPT}\n\n${context}` : SYSTEM_PROMPT;
   const contents = [];
   for (const h of history || []) {
     if (typeof h.q === 'string' && h.q.trim()) {
@@ -323,7 +393,7 @@ async function askGemini(question, history) {
         'x-goog-api-key': key,
       },
       body: JSON.stringify({
-        system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
+        system_instruction: { parts: [{ text: sysText }] },
         contents,
         generationConfig: { temperature: 0.3, maxOutputTokens: MAX_OUTPUT_TOKENS },
       }),
@@ -357,10 +427,11 @@ async function askGemini(question, history) {
 // thêm cờ timeout:true khi bị abort để handler biết mà dừng, đừng thử tiếp.
 // Thử lần lượt GROQ_MODELS: model nào lỗi HTTP (404 model bị ngừng, 5xx...)
 // thì thử model tiếp theo; hết quota (429) thì báo quota; timeout thì dừng.
-async function askGroq(question, history) {
+async function askGroq(question, history, context) {
   const key = process.env.GROQ_API_KEY;
   if (!key) return { status: 'no_key' };
-  const messages = [{ role: 'system', content: SYSTEM_PROMPT }];
+  const sysText = context ? `${SYSTEM_PROMPT}\n\n${context}` : SYSTEM_PROMPT;
+  const messages = [{ role: 'system', content: sysText }];
   for (const h of history || []) {
     if (typeof h.q === 'string' && h.q.trim()) {
       messages.push({ role: 'user', content: h.q.slice(0, MAX_Q_LEN) });
@@ -480,13 +551,16 @@ export default async function handler(req, res) {
     // khi lỗi là HTTP (401/5xx...); timeout thì dừng luôn vì nhà cung cấp
     // còn lại sáng nay cũng timeout, thử tiếp chỉ làm người dùng chờ lâu hơn.
     // Hết quota (429) ở nhà này thì thử nhà kia, cả hai hết mới báo hết lượt.
+    // Kèm ngữ cảnh từ trang (sách + Hỏi Đáp + mục chính) để LLM trả lời có
+    // link thật thay vì trả lời chung chung.
+    const siteContext = buildSiteContext(question);
     const providers = [];
     if (process.env.GROQ_API_KEY) providers.push({ name: 'groq', fn: askGroq });
     if (process.env.GEMINI_API_KEY) providers.push({ name: 'gemini', fn: askGemini });
     let ai = null;
     let sawQuota = false;
     for (const p of providers) {
-      const r = await p.fn(question, history);
+      const r = await p.fn(question, history, siteContext);
       if (r.status === 'ok') { ai = { text: r.text, source: p.name }; break; }
       if (r.status === 'quota') { sawQuota = true; continue; }
       if (r.timeout) break; // timeout: dừng, đừng thử tiếp
