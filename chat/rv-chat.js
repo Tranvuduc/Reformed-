@@ -132,8 +132,10 @@
         });
     }
     function showPreparing() {
-      setInputEnabled(false);
-      var n = el('div', 'rv-chat-notice', 'Tính năng chat AI đang được chuẩn bị, mời bạn quay lại sau.');
+      // SỬA 15/11: trước đây khóa luôn ô nhập khi chưa có key — nhưng server vẫn
+      // trả lời được 95 câu Hỏi Đáp + tìm sách khi không có key (đã kiểm live).
+      // Giờ chỉ hiện ghi chú, vẫn cho hỏi; câu nào cần AI thì server trả 503.
+      var n = el('div', 'rv-chat-notice', 'Trả lời bằng AI đang được chuẩn bị — bạn vẫn có thể tìm sách và hỏi 95 câu đã trả lời.');
       body.appendChild(n);
       body.scrollTop = body.scrollHeight;
     }
@@ -176,7 +178,8 @@
     function send(text) {
       var q = (text !== undefined ? text : input.value).trim();
       if (!q || state.sending || state.quotaHit) return;
-      if (state.ready === false) return; // đang chuẩn bị
+      // SỬA 15/11: bỏ chặn khi chưa có key — server tự trả Q&A/sách, chỉ câu cần
+      // AI mới trả 503 (nhánh 503 bên dưới đã hiện đúng thông báo).
       input.value = '';
       state.sending = true;
       setInputEnabled(false);
@@ -222,7 +225,7 @@
         })
         .finally(function () {
           state.sending = false;
-          if (!state.quotaHit && state.ready !== false) setInputEnabled(true);
+          if (!state.quotaHit) setInputEnabled(true); // SỬA 15/11: không khóa ô nhập chỉ vì chưa có key
           input.focus();
         });
     }

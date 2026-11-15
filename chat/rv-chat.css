@@ -26,6 +26,10 @@
   box-shadow: var(--shadow, 0 8px 30px rgba(0, 0, 0, .18));
   font-family: inherit;
 }
+/* SỬA 15/11: display:flex ở trên thắng thuộc tính hidden của trình duyệt
+   (hidden chỉ là display:none ở stylesheet mặc định), nên nút X bấm mà panel
+   không biến mất. Quy tắc này bắt hidden phải thắng. */
+.rv-chat-panel[hidden] { display: none !important; }
 @media (min-width: 640px) {
   .rv-chat-panel {
     left: 18px; right: auto; bottom: 86px;
