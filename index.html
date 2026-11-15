@@ -481,7 +481,16 @@
         .section { padding-top: 54px; }
       }
       @media (max-width: 520px) {
-        .modules, .articles, .shelf { grid-template-columns: 1fr; }
+        .modules { grid-template-columns: repeat(2, 1fr); }
+        .articles, .shelf { grid-template-columns: 1fr; }
+        .module h3 { font-size: 17px; }
+        .module p { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .module .meta { flex-wrap: wrap; }
+        .channels { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+        .channel { padding: 12px; gap: 10px; }
+        .channel .ic { flex-basis: 36px; width: 36px; height: 36px; }
+        .channel b { font-size: 15px; }
+        .channel .handle { font-size: 13.5px; word-break: break-all; }
         .brand .sub { display: none; }
         .search-box button span { display: none; }
         .foot-grid { grid-template-columns: 1fr; }
@@ -804,7 +813,7 @@
       </section>
 
       <!-- RV-RECENT-START -->
-      <style>.rv-recent{list-style:none;margin:18px 0 0;padding:0;border-top:1px solid var(--line)}.rv-recent li{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;padding:10px 2px;border-bottom:1px solid var(--line)}.rv-recent li a{font-weight:600;text-decoration:none}.rv-recent li a:hover{text-decoration:underline}.rv-recent .rv-ra{color:var(--muted);font-size:.88rem}.rv-recent .rv-rd{margin-left:auto;color:var(--muted);font-size:.85rem;white-space:nowrap}</style>
+      <style>.rv-recent{list-style:none;margin:18px 0 0;padding:0;border-top:1px solid var(--line)}.rv-recent li{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;padding:10px 2px;border-bottom:1px solid var(--line)}.rv-recent li a{font-weight:600;text-decoration:none;display:block;flex:1 1 100%;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.rv-recent li a:hover{text-decoration:underline}.rv-recent .rv-ra{color:var(--muted);font-size:.88rem}.rv-recent .rv-rd{margin-left:auto;color:var(--muted);font-size:.85rem;white-space:nowrap}</style>
       <section class="section" id="moi-them">
         <div class="wrap">
           <div class="section-head">
@@ -813,19 +822,12 @@
             <p>Những bản dịch mới nhất vừa vào thư viện — mới nhất ở trên cùng.</p>
           </div>
           <ul class="rv-recent">
-            <li><a href="/ban-dich/brown-life-of-justification-arguments-against-universal-redemption-b.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Những Lập Luận Chống Lại Sự Chuộc Tội Phổ Quát (Phần Sau: Luận Điểm 19–36)</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-arguments-against-universal-redemption-a.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Những Lập Luận Chống Lại Sự Chuộc Tội Phổ Quát (Phần Đầu: Luận Điểm 1–18)</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-10-fathers-papists.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương X: Các Giáo Phụ Ủng Hộ Giáo Lý Về Sự Kể Cho; Và Một Số Người Theo Giáo Hoàng Tán Thành Điều Đó</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-09-forbes-wendelin.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương IX: Những Lập Luận Của John Forbes Chống Lại Sự Kể Cho Sự Vâng Phục Chủ Động Của Đấng Christ, Được Xem Xét, Cùng Với Cái Nhìn Về Những Lý Lẽ Của Wendelin Chống Lại Điều Đó</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-08-no-countenance-works.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương VIII: Không Có Sự Ủng Hộ Nào Cho Sự Xưng Công Chính Bởi Việc Làm Từ Gia-cơ 2:14 Trở Đi</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-07-james-2-cleared.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương VII: Gia-cơ 2:14 Trở Đi Được Giải Thích Và Bênh Vực</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-06-merit-of-works.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương VI: Những Việc Làm Mà Phao-lô Loại Trừ Không Có Nghĩa Là Công Đức Của Các Việc Làm</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-05-works-excluded.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương V: Những Việc Làm Bị Loại Trừ Trong Sự Xưng Công Chính Không Phải Chỉ Là Những Việc Làm Trước Đức Tin, Cũng Không Phải Chỉ Là Những Việc Làm Trọn Vẹn Mà Luật Pháp Của Sự Vô Tội Đòi Hỏi, Cũng Không Phải Chỉ Là Những Việc Làm Bề Ngoài</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-04-law-not-jewish.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương IV: Luật Pháp Mà Phao-lô Phủ Nhận Rằng Chúng Ta Được Xưng Công Chính Bởi Các Việc Làm Của Nó Không Phải Là Luật Pháp Của Người Giu-đa</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-03-righteousness-within-us.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương III: Chúng Ta Không Được Nương Cậy Vào Bất Cứ Sự Công Chính Nào Ở Trong Chúng Ta Để Được Xưng Công Chính</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-02-curse-of-the-law.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương II: Đấng Christ Đã Chịu Sự Rủa Sả Của Luật Pháp</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-            <li><a href="/ban-dich/brown-life-of-justification-appendix-01-imputation-active-passive.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương I: Sự Kể Cho Cả Sự Vâng Phục Chủ Động Lẫn Thụ Động Của Đấng Christ Đều Cần Thiết</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
-          </ul>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch10-sin-striking-against-god.html">Sự Ác Của Các Sự Ác — Chương X: Tội Lỗi Là Sự Đánh Vào Đức Chúa Trời</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch09-how-sin-resists-god.html">Sự Ác Của Các Sự Ác — Chương IX: Tội Lỗi Chống Cự Đức Chúa Trời Như Thế Nào</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch08-workings-of-sin-against-god.html">Sự Ác Của Các Sự Ác — Chương VIII: Sự Vận Hành Của Tội Lỗi Luôn Chống Lại Đức Chúa Trời</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch07-sin-opposite-god-five-things.html">Sự Ác Của Các Sự Ác — Chương VII: Tội Lỗi Tự Nó Đối Nghịch Với Đức Chúa Trời</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch06-sin-opposite-god-four-heads.html">Sự Ác Của Các Sự Ác — Chương VI: Tội Lỗi Đối Nghịch Với Đức Chúa Trời, Đấng Thiện Tối Cao</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+                      </ul>
           <div style="text-align:center;margin-top:20px"><a class="btn solid" href="/ban-dich/">Xem tất cả bản dịch →</a></div>
         </div>
       </section>

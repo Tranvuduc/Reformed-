@@ -1,187 +1,187 @@
 {
- "generated": "2026-11-11",
+ "generated": "2026-11-15",
  "boundary_excluded": "2026-11-05",
  "note": "Ngay them = ngay trang ban-dich/ cua sach xuat hien lan dau trong git (sau ngay gioi han shallow clone). Khong co ngay nao duoc tu suy ra cho sach cu hon.",
  "books": [
   {
-   "slug": "westminster-confession-of-faith",
-   "title": "Bản Tuyên Xưng Đức Tin Westminster",
-   "author": "Westminster Assembly",
-   "date": "2026-11-11"
-  },
-  {
-   "slug": "mg1-979-christian-warfare-2-downame",
-   "title": "Cuộc Chiến Thuộc Linh, Tập II",
-   "author": "John Downame",
-   "date": "2026-11-11"
-  },
-  {
-   "slug": "mg1-1022-doubting-believer-sedgwick",
-   "title": "Tín Đồ Nghi Ngờ",
-   "author": "Obadiah Sedgwick",
-   "date": "2026-11-11"
-  },
-  {
-   "slug": "mg1-1004-divine-rule-faith-practice-goode",
-   "title": "Quy Tắc Thần Thánh Của Đức Tin Và Sự Thực Hành",
-   "author": "William Goode",
-   "date": "2026-11-11"
-  },
-  {
-   "slug": "arch-gomarus-on-the-sacraments",
-   "title": "Về Các Bí Tích",
-   "author": "Franciscus Gomarus",
-   "date": "2026-11-11"
-  },
-  {
-   "slug": "arch-burroughs-precious-faith",
-   "title": "Đức Tin Quý Báu",
+   "slug": "burroughs-evil-of-evils-ch10-sin-striking-against-god",
+   "title": "Sự Ác Của Các Sự Ác — Chương X: Tội Lỗi Là Sự Đánh Vào Đức Chúa Trời",
    "author": "Jeremiah Burroughs",
-   "date": "2026-11-11"
+   "date": "2026-11-15"
   },
   {
-   "slug": "850-so-thu-chi-co-nhi-vien-va-chung-ngon-halle",
-   "title": "Sổ Thu Chi Cô Nhi Viện Và Chứng Ngôn Halle",
-   "author": "George Whitefield",
-   "date": "2026-11-11"
-  },
-  {
-   "slug": "840-hanh-trinh-nguoi-hanh-huong",
-   "title": "Hành Trình Của Người Lữ Hành",
-   "author": "John Bunyan",
-   "date": "2026-11-11"
-  },
-  {
-   "slug": "arch-gerhard-sacred-meditations",
-   "title": "Suy Ngẫm Thánh",
-   "author": "Johann Gerhard",
-   "date": "2026-11-10"
-  },
-  {
-   "slug": "arch-burroughs-gospel-fear",
-   "title": "Sợ Hãi Theo Phúc Âm",
+   "slug": "burroughs-evil-of-evils-ch09-how-sin-resists-god",
+   "title": "Sự Ác Của Các Sự Ác — Chương IX: Tội Lỗi Chống Cự Đức Chúa Trời Như Thế Nào",
    "author": "Jeremiah Burroughs",
-   "date": "2026-11-10"
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-1-co-rinh-to",
-   "title": "Chú Thích Về Kinh Thánh — Thư Thứ Nhất Gửi Người Cô-rinh-tô",
-   "author": "Matthew Poole",
-   "date": "2026-11-09"
+   "slug": "burroughs-evil-of-evils-ch08-workings-of-sin-against-god",
+   "title": "Sự Ác Của Các Sự Ác — Chương VIII: Sự Vận Hành Của Tội Lỗi Luôn Chống Lại Đức Chúa Trời",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-ro-ma",
-   "title": "Chú Thích Về Kinh Thánh — Thư Gửi Người Rô-ma",
-   "author": "Matthew Poole",
-   "date": "2026-11-08"
+   "slug": "burroughs-evil-of-evils-ch07-sin-opposite-god-five-things",
+   "title": "Sự Ác Của Các Sự Ác — Chương VII: Tội Lỗi Tự Nó Đối Nghịch Với Đức Chúa Trời",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-mac-lu-ca-1-9",
-   "title": "Chú Thích Về Kinh Thánh — Mác & Lu-ca 1–9",
-   "author": "Matthew Poole",
-   "date": "2026-11-08"
+   "slug": "burroughs-evil-of-evils-ch06-sin-opposite-god-four-heads",
+   "title": "Sự Ác Của Các Sự Ác — Chương VI: Tội Lỗi Đối Nghịch Với Đức Chúa Trời, Đấng Thiện Tối Cao",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-ma-thi-o-14-28",
-   "title": "Chú Thích Về Kinh Thánh — Ma-thi-ơ 14–28",
-   "author": "Matthew Poole",
-   "date": "2026-11-08"
+   "slug": "burroughs-evil-of-evils-ch05-more-evil-least-sin",
+   "title": "Sự Ác Của Các Sự Ác — Chương V: Tội Lỗi Nhỏ Nhất Còn Ác Hơn Hoạn Nạn Lớn Nhất",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-lu-ca-10-24",
-   "title": "Chú Thích Về Kinh Thánh — Lu-ca 10–24",
-   "author": "Matthew Poole",
-   "date": "2026-11-08"
+   "slug": "burroughs-evil-of-evils-ch04-nine-consectaries",
+   "title": "Sự Ác Của Các Sự Ác — Chương IV: Chín Kết Luận Có Ích Lớn Lao",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-giang-1-21",
-   "title": "Chú Thích Về Kinh Thánh — Giăng 1–21",
-   "author": "Matthew Poole",
-   "date": "2026-11-08"
+   "slug": "burroughs-evil-of-evils-ch03-good-in-affliction-none-in-sin",
+   "title": "Sự Ác Của Các Sự Ác — Chương III: Có Điều Tốt Trong Hoạn Nạn, Nhưng Không Có Điều Tốt Nào Trong Tội Lỗi",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-da-ni-en-o-se-gio-en",
-   "title": "Chú Thích Về Kinh Thánh — Đa-ni-ên, Ô-sê & Giô-ên",
-   "author": "Matthew Poole",
-   "date": "2026-11-08"
+   "slug": "burroughs-evil-of-evils-ch02-servants-chose-afflictions",
+   "title": "Sự Ác Của Các Sự Ác — Chương II: Tôi Tớ Đức Chúa Trời Đã Chọn Hoạn Nạn Kinh Khiếp Nhất Thay Vì Tội Lỗi Nhỏ Nhất",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-cong-vu",
-   "title": "Chú Thích Về Kinh Thánh — Công Vụ Các Sứ Đồ",
-   "author": "Matthew Poole",
-   "date": "2026-11-08"
+   "slug": "burroughs-evil-of-evils-ch01-evil-choice-sin-affliction",
+   "title": "Sự Ác Của Các Sự Ác — Chương I: Lựa Chọn Tội Lỗi Thay Vì Hoạn Nạn Là Một Sự Lựa Chọn Rất Xấu Xa",
+   "author": "Jeremiah Burroughs",
+   "date": "2026-11-15"
   },
   {
-   "slug": "poole-chu-thich-a-mot-ha-ba-cuc",
-   "title": "Chú Thích Về Kinh Thánh — A-mốt, Áp-đia, Giô-na, Mi-chê, Na-hum & Ha-ba-cúc",
-   "author": "Matthew Poole",
-   "date": "2026-11-08"
+   "slug": "gilpin-daemonologia-pt3-ch26-fifth-direction-prayer",
+   "title": "Daemonologia Sacra — Phần III, Chương XXVI: Hướng Dẫn Thứ Năm, Về Sự Cầu Nguyện, Và Về Sự Nghiêm Túc Đòi Hỏi Nơi Những Người Trông Đợi Được Ích Lợi Của Sự Cầu Nguyện",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-xuat-ai-le-vi-ky",
-   "title": "Chú Thích Về Kinh Thánh — Sách Xuất Ê-díp-tô Ký & Sách Lê-vi Ký",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch25-repelling-temptation-by-scripture-arguments",
+   "title": "Daemonologia Sacra — Phần III, Chương XXV: Phương Hướng Thứ Tư, Về Việc Đẩy Lùi Cơn Cám Dỗ Bằng Các Lý Lẽ Kinh Thánh",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-xo-pho-ni-ma-la-chi",
-   "title": "Chú Thích Về Kinh Thánh — Xô-phô-ni, Ha-gai, Xa-cha-ri & Ma-la-chi",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch23-temptations-not-to-be-disputed",
+   "title": "Daemonologia Sacra — Phần III, Chương XXIII: Phương Hướng Thứ Hai, Rằng Không Nên Tranh Luận Với Cơn Cám Dỗ",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-thi-thien-76-150",
-   "title": "Chú Thích Về Kinh Thánh — Thi Thiên 76–150",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch22-christ-answer-in-general",
+   "title": "Daemonologia Sacra — Phần III, Chương XXII: Về Câu Trả Lời Của Đấng Christ Nói Chung",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-thi-thien-1-75",
-   "title": "Chú Thích Về Kinh Thánh — Thi Thiên 1–75",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch21-worldly-pleasure",
+   "title": "Daemonologia Sacra — Phần III, Chương XXI: Về Những Thú Vui Trần Tục",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-su-ky-esther",
-   "title": "Chú Thích Về Kinh Thánh — Sử Ký, E-xơ-ra, Nê-hê-mi & Ê-xơ-tê",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch20-nature-of-idolatry",
+   "title": "Daemonologia Sacra — Phần III, Chương XX: Về Bản Chất Của Sự Thờ Hình Tượng",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-samuel",
-   "title": "Chú Thích Về Kinh Thánh — 1 & 2 Sa-mu-ên",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch19-satan-ends-tempting-christ-worship",
+   "title": "Daemonologia Sacra — Phần III, Chương XIX: Về Mục Đích Của Sa-tan Khi Cám Dỗ Đấng Christ Sấp Mình Xuống Mà Thờ Lạy Hắn",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-ma-thi-o-1-13",
-   "title": "Chú Thích Về Kinh Thánh — Ma-thi-ơ 1–13",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch18-devil-taketh-him-high-mountain",
+   "title": "Daemonologia Sacra — Phần III, Chương XVIII: Cách Thức Sa-tan Bày Ra Các Nước Thế Gian. — Về Sự Chuẩn Bị Của Sa-tan Trước Khi Đưa Ra Sự Gợi Ý Phạm Tội. — Về Việc Hắn Đương Đầu Với Đấng Toàn Năng Bằng Sự Bắt Chước Đầy Tự Phụ, Và Hắn Làm Vậy Trong Những Trường Hợp Nào. — Về Việc Hắn Tô Điểm Đối Tượng Của Một Cơn Cám Dỗ, Và Hắn Làm Điều Ấy Như Thế Nào. — Cách Thức Hắn Lôi Cuốn Tình Cảm Qua Các Giác Quan. — Về Sự E Lệ Giả Vờ Của Hắn.",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-giosue-quan-xet",
-   "title": "Chú Thích Về Kinh Thánh — Sách Giô-suê, Các Quan Xét & Ru-tơ",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch17-satan-subtlety-psalm-91",
+   "title": "Daemonologia Sacra — Phần III, Chương XVII: Về Sự Tinh VI Của Sa-tan Khi Thúc Ép Lời Thi Thiên 91:11, 12 Đối Với Đấng Christ",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-giop",
-   "title": "Chú Thích Về Kinh Thánh — Sách Gióp",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch16-pride-presumption",
+   "title": "Daemonologia Sacra — Phần III, Chương XVI: Về Sự Kiêu Ngạo, Công Cụ Chính Của Sa-tan Để Đưa Đến Sự Tự Phụ",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-gieremi-26-52",
-   "title": "Chú Thích Về Kinh Thánh — Giê-rê-mi 26–52",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch15-self-murder-another-design-temptation",
+   "title": "Daemonologia Sacra — Phần III, Chương XV: Tự Sát Là Một Mưu Đồ Khác Của Hắn Trong Cơn Cám Dỗ Này",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   },
   {
-   "slug": "poole-chu-thich-gieremi-1-25",
-   "title": "Chú Thích Về Kinh Thánh — Giê-rê-mi 1–25",
-   "author": "Matthew Poole",
-   "date": "2026-11-07"
+   "slug": "gilpin-daemonologia-pt3-ch14-presumption-chief-design-temptation",
+   "title": "Daemonologia Sacra — Phần III, Chương XIV: Sự Liều Lĩnh Là Mục Đích Chính Của Cơn Cám Dỗ Này",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
+  },
+  {
+   "slug": "gilpin-daemonologia-pt3-ch13-devil-taketh-him-holy-city",
+   "title": "Daemonologia Sacra — Phần III, Chương XIII: Bấy Giờ Ma Quỉ Đem Ngài Lên Thành Thánh, Và Đặt Ngài Trên Chóp Đền Thờ (ma-thi-ơ 4:5)",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
+  },
+  {
+   "slug": "gilpin-daemonologia-pt3-ch12-satan-proceeding-infer-distrust",
+   "title": "Daemonologia Sacra — Phần III, Chương XII: Sa-tan Tiến Tới Việc Suy Ra Sự Nghi Ngờ Về Địa Vị Làm Con Từ Sự Nghi Ngờ Về Sự Quan Phòng",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
+  },
+  {
+   "slug": "gilpin-daemonologia-pt3-ch11-temptation-distrust-failure-ordinary-means",
+   "title": "Daemonologia Sacra — Phần III, Chương XI: Về Cơn Cám Dỗ Khiến Người Ta Mất Lòng Tin Cậy Khi Các Phương Tiện Thông Thường Thất Bại",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
+  },
+  {
+   "slug": "gilpin-daemonologia-pt3-ch05-christs-fast-design-thereof",
+   "title": "Daemonologia Sacra — Phần III, Chương V: Về Sự Kiêng Ăn Của Đấng Christ, Cùng Với Mục Đích Của Nó",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
+  },
+  {
+   "slug": "gilpin-daemonologia-pt3-ch04-end-wherefore-christ-led-wilderness",
+   "title": "Daemonologia Sacra — Phần III, Chương IV: Hoàn Cảnh Thứ Tư, Mục Đích Mà Đấng Christ Được Dẫn Vào Đồng Vắng",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
+  },
+  {
+   "slug": "gilpin-daemonologia-pt2-ch09-fourth-way-hinder-peace-spiritual-distresses",
+   "title": "Daemonologia Sacra — Phần II, Chương IX: Về Cách Thứ Tư Ngăn Trở Sự Bình An, Bằng Những Sự Khốn Khổ Thuộc Linh. 1. Bản Chất Của Những Sự Khốn Khổ Nầy; Những Thành Phần Và Những Mức Độ Của Chúng. Có Phải Mọi Sự Khốn Khổ Của Linh Hồn Đều Phát Sinh Từ Chứng U Sầu Hay Không. 2. Phương Cách Của Sa-tan Trong Việc Gây Ra Chúng; Những Dịp Hắn Lợi Dụng, Những Lý Lẽ Hắn Đưa Ra, Sự Củng Cố Chúng Bằng Những Nỗi Sợ. 3. Sức Nặng Và Gánh Nặng Của Chúng Được Giải Thích Trong Nhiều Điểm Riêng Biệt. — Một Vài Lời Cảnh Báo Kết Luận.",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
+  },
+  {
+   "slug": "gilpin-daemonologia-pt2-ch08-third-way-hinder-peace-spiritual-sadness",
+   "title": "Daemonologia Sacra — Phần II, Chương VIII: Về Cách Thứ Ba Sa-tan Ngăn Trở Sự Bình An, Bằng Sự Buồn Rầu Thuộc Linh — Trong Đó, 1. Về Các Mức Độ Của Sự Buồn Rầu Thuộc Linh. 2. Về Tần Suất Của Sự Rắc Rối Nầy, Được Chứng Minh Bằng Nhiều Cách. Về Sự Khác Nhau Giữa Đức Chúa Trời Và Sa-tan Trong Việc Làm Tổn Thương Lương Tâm. 3. Về Những Dịp Trang Trọng Của Sự Rắc Rối Nầy. 4. Những Cỗ Máy Mà Sa-tan Dùng Để Gây Ra Sự Buồn Rầu Thuộc Linh. (1.) Sự Ngụy Biện Của Hắn. Các Chủ Đề Của Hắn Được Liệt Kê Và Giải Thích. [1.] Kinh Thánh Bị Xuyên Tạc. [2.] Những Quan Niệm Sai Lầm. [3.] Những Sự Trình Bày Sai Về Đức Chúa Trời. [4.] Những Tội Lỗi: Hắn Phóng Đại Chúng Như Thế Nào. [5.] Làm Nhỏ Đi Các Ân Điển Của Họ: Hắn Làm Điều Đó Như Thế Nào. (2.) Cỗ Máy Thứ Hai Của Hắn, Sự Sợ Hãi: Hắn Thúc Đẩy Ý Định Của Mình Bằng Cách Đó Như Thế Nào.",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
+  },
+  {
+   "slug": "gilpin-daemonologia-pt2-ch07-second-way-hinder-peace",
+   "title": "Daemonologia Sacra — Phần II, Chương VII: Về Cách Thứ Hai Ngăn Trở Sự Bình An — Những Sự Kinh Hãi, Bản Chất Chung Và Gánh Nặng Của Chúng, Trong Nhiều Điểm Riêng Biệt — Những Cách Thức Mà Hắn Làm Cho Kinh Hãi Là Gì: 1. Những Sự Tiêm Nhiễm Vô Thần. Những Nhận Xét Về Cách Hắn Tiến Hành Trong Đó; 2. Những Tư Tưởng Phạm Thượng; 3. Những Sự Gợi Ý Đáng Sợ Về Sự Bị Bỏ Rơi. Những Nhận Xét Về Cách Hắn Tiến Hành Trong Lối Đó; 4. Những Sự Xúi Giục Đáng Sợ Phạm Tội; 5. Những Ấn Tượng Mạnh Mẽ Tức Thì Gây Sợ Hãi; 6. Sự Câu Nệ Đáng Sợ Của Lương Tâm.",
+   "author": "Richard Gilpin",
+   "date": "2026-11-14"
   }
  ]
 }

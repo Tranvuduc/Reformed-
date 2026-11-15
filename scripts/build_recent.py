@@ -32,7 +32,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 TODAY = date.today().isoformat()
 TOP_JSON = 30
-TOP_HOME = 12
+TOP_HOME = 5
 
 
 def _normfile(f):
@@ -114,7 +114,7 @@ def section_html(books):
         '      <!-- RV-RECENT-START -->\n'
         '      <style>.rv-recent{list-style:none;margin:18px 0 0;padding:0;border-top:1px solid var(--line)}'
         '.rv-recent li{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;padding:10px 2px;border-bottom:1px solid var(--line)}'
-        '.rv-recent li a{font-weight:600;text-decoration:none}.rv-recent li a:hover{text-decoration:underline}'
+        '.rv-recent li a{font-weight:600;text-decoration:none;display:block;flex:1 1 100%;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.rv-recent li a:hover{text-decoration:underline}'
         '.rv-recent .rv-ra{color:var(--muted);font-size:.88rem}'
         '.rv-recent .rv-rd{margin-left:auto;color:var(--muted);font-size:.85rem;white-space:nowrap}</style>\n'
         '      <section class="section" id="moi-them">\n'

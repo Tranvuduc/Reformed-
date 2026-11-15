@@ -476,7 +476,16 @@
         .section { padding-top: 54px; }
       }
       @media (max-width: 520px) {
-        .modules, .articles, .shelf { grid-template-columns: 1fr; }
+        .modules { grid-template-columns: repeat(2, 1fr); }
+        .articles, .shelf { grid-template-columns: 1fr; }
+        .module h3 { font-size: 17px; }
+        .module p { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .module .meta { flex-wrap: wrap; }
+        .channels { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+        .channel { padding: 12px; gap: 10px; }
+        .channel .ic { flex-basis: 36px; width: 36px; height: 36px; }
+        .channel b { font-size: 15px; }
+        .channel .handle { font-size: 13.5px; word-break: break-all; }
         .brand .sub { display: none; }
         .search-box button span { display: none; }
         .foot-grid { grid-template-columns: 1fr; }
@@ -798,7 +807,7 @@
       </section>
 
       <!-- RV-RECENT-START -->
-      <style>.rv-recent{list-style:none;margin:18px 0 0;padding:0;border-top:1px solid var(--line)}.rv-recent li{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;padding:10px 2px;border-bottom:1px solid var(--line)}.rv-recent li a{font-weight:600;text-decoration:none}.rv-recent li a:hover{text-decoration:underline}.rv-recent .rv-ra{color:var(--muted);font-size:.88rem}.rv-recent .rv-rd{margin-left:auto;color:var(--muted);font-size:.85rem;white-space:nowrap}</style>
+      <style>.rv-recent{list-style:none;margin:18px 0 0;padding:0;border-top:1px solid var(--line)}.rv-recent li{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;padding:10px 2px;border-bottom:1px solid var(--line)}.rv-recent li a{font-weight:600;text-decoration:none;display:block;flex:1 1 100%;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.rv-recent li a:hover{text-decoration:underline}.rv-recent .rv-ra{color:var(--muted);font-size:.88rem}.rv-recent .rv-rd{margin-left:auto;color:var(--muted);font-size:.85rem;white-space:nowrap}</style>
       <section class="section" id="moi-them">
         <div class="wrap">
           <div class="section-head">
@@ -807,18 +816,11 @@
             <p>Những bản dịch mới nhất vừa vào thư viện — mới nhất ở trên cùng.</p>
           </div>
           <ul class="rv-recent">
-            <li><a href="/ban-dich/westminster-confession-of-faith.html">Bản Tuyên Xưng Đức Tin Westminster</a><span class="rv-ra">Westminster Assembly</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/mg1-979-christian-warfare-2-downame.html">Cuộc Chiến Thuộc Linh, Tập II</a><span class="rv-ra">John Downame</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/mg1-1022-doubting-believer-sedgwick.html">Tín Đồ Nghi Ngờ</a><span class="rv-ra">Obadiah Sedgwick</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/mg1-1004-divine-rule-faith-practice-goode.html">Quy Tắc Thần Thánh Của Đức Tin Và Sự Thực Hành</a><span class="rv-ra">William Goode</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/arch-gomarus-on-the-sacraments.html">Về Các Bí Tích</a><span class="rv-ra">Franciscus Gomarus</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/arch-burroughs-precious-faith.html">Đức Tin Quý Báu</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/850-so-thu-chi-co-nhi-vien-va-chung-ngon-halle.html">Sổ Thu Chi Cô Nhi Viện Và Chứng Ngôn Halle</a><span class="rv-ra">George Whitefield</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/840-hanh-trinh-nguoi-hanh-huong.html">Hành Trình Của Người Lữ Hành</a><span class="rv-ra">John Bunyan</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/arch-gerhard-sacred-meditations.html">Suy Ngẫm Thánh</a><span class="rv-ra">Johann Gerhard</span><span class="rv-rd">thêm ngày 10/11/2026</span></li>
-            <li><a href="/ban-dich/arch-burroughs-gospel-fear.html">Sợ Hãi Theo Phúc Âm</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 10/11/2026</span></li>
-            <li><a href="/ban-dich/poole-chu-thich-1-co-rinh-to.html">Chú Thích Về Kinh Thánh — Thư Thứ Nhất Gửi Người Cô-rinh-tô</a><span class="rv-ra">Matthew Poole</span><span class="rv-rd">thêm ngày 9/11/2026</span></li>
-            <li><a href="/ban-dich/poole-chu-thich-ro-ma.html">Chú Thích Về Kinh Thánh — Thư Gửi Người Rô-ma</a><span class="rv-ra">Matthew Poole</span><span class="rv-rd">thêm ngày 8/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch10-sin-striking-against-god.html">Sự Ác Của Các Sự Ác — Chương X: Tội Lỗi Là Sự Đánh Vào Đức Chúa Trời</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch09-how-sin-resists-god.html">Sự Ác Của Các Sự Ác — Chương IX: Tội Lỗi Chống Cự Đức Chúa Trời Như Thế Nào</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch08-workings-of-sin-against-god.html">Sự Ác Của Các Sự Ác — Chương VIII: Sự Vận Hành Của Tội Lỗi Luôn Chống Lại Đức Chúa Trời</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch07-sin-opposite-god-five-things.html">Sự Ác Của Các Sự Ác — Chương VII: Tội Lỗi Tự Nó Đối Nghịch Với Đức Chúa Trời</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
+            <li><a href="/ban-dich/burroughs-evil-of-evils-ch06-sin-opposite-god-four-heads.html">Sự Ác Của Các Sự Ác — Chương VI: Tội Lỗi Đối Nghịch Với Đức Chúa Trời, Đấng Thiện Tối Cao</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 15/11/2026</span></li>
                       </ul>
           <div style="text-align:center;margin-top:20px"><a class="btn solid" href="/ban-dich/">Xem tất cả bản dịch →</a></div>
         </div>
