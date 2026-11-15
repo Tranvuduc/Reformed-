@@ -165,7 +165,7 @@
         content: ""; position: absolute; inset: 0; z-index: -1;
         background: linear-gradient(90deg, rgba(24, 13, 8, 0.88) 0%, rgba(24, 13, 8, 0.66) 46%, rgba(24, 13, 8, 0.18) 78%);
       }
-      .hero-inner { padding: 84px 0 72px; max-width: 680px; }
+      .hero-inner { padding: 56px 0 48px; max-width: 680px; }
       .hero .verse-line { font-size: 13px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold-soft); font-weight: 600; }
       .hero h1 { font-size: clamp(34px, 5.4vw, 54px); font-weight: 800; margin: 16px 0 14px; }
       .hero h1 em { font-style: italic; color: #eec987; }
@@ -469,7 +469,7 @@
         .menu-btn { display: block; }
         .nav-cta { display: none; }
         header.site .wrap { position: relative; }
-        .hero-inner { padding: 56px 0 52px; }
+        .hero-inner { padding: 44px 0 40px; }
         .stats-row { grid-template-columns: repeat(2, 1fr); }
         .stat:nth-child(3) { border-left: 0; }
         .stat { border-top: 1px solid var(--line); }
@@ -491,6 +491,12 @@
       }
           main#top { scroll-margin-top: 76px; }
     
+      /* ---------- click-to-expand (compact redesign 2026-11-15, draft) ---------- */
+      details.more { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 22px; }
+      details.more summary { cursor: pointer; font-weight: 700; font-size: 16px; color: var(--burgundy); }
+      details.more summary:hover { color: var(--burgundy-deep); }
+      details.more[open] summary { margin-bottom: 16px; }
+
       /* ---------- homepage compact pass 2026-11-08 (owner request) ---------- */
       body.home .section { padding: 22px 0 2px; }
       body.home .section-head { margin-bottom: 14px; }
@@ -556,7 +562,7 @@
           <div class="hero-inner">
             <div class="verse-line">II Phi-e-rơ 3:18</div>
             <h1>Lớn lên trong <em>ân điển</em> và sự hiểu biết Chúa</h1>
-            <p class="lead">Sách, giáo lý, khóa học, bài giảng và thánh ca Cải Chánh tiếng Việt — mọi nguồn lực cho đời sống đức tin, gom về một nơi duy nhất.</p>
+            <p class="lead">Sách, giáo lý, khóa học, bài giảng và thánh ca Cải Chánh tiếng Việt — miễn phí.</p>
             <form class="search-box" id="searchForm" role="search" action="/tim-kiem/" method="get">
               <input id="searchInput" name="q" type="search" placeholder="Tìm sách, thuật ngữ, câu hỏi… (gõ không dấu cũng được)" aria-label="Tìm kiếm" autocomplete="off" />
               <button type="submit">
@@ -566,17 +572,6 @@
             </form>
             <div class="search-results" id="searchResults" aria-live="polite"></div>
             <p style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap"><a class="btn solid" href="/kinh-thanh/">Đọc Kinh Thánh 1934</a> <a class="btn" style="color:#f5ecd9;border-color:rgba(245,236,217,.55)" href="/sach-noi.html">Nghe Sách Nói</a></p>
-            <div class="share-bar">
-              <span class="share-lbl" style="color:#d9c9ab">Chia sẻ trang này</span>
-              <a class="share-btn fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freformedvietnam.com%2F" target="_blank" rel="noopener" aria-label="Chia sẻ lên Facebook">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.5 21v-7.2h2.4l.4-2.8h-2.8V9.2c0-.8.2-1.4 1.4-1.4h1.5V5.3c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2H8v2.8h2.5V21h3z"/></svg>
-                Facebook
-              </a>
-              <a class="share-btn zalo" href="https://sp.zalo.me/share_inline?url=https%3A%2F%2Freformedvietnam.com%2F" target="_blank" rel="noopener" aria-label="Chia sẻ qua Zalo">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.5 8.5 0 0 1-8.5 8.5c-1.5 0-2.9-.4-4.1-1L3 20l1.1-5.2A8.5 8.5 0 1 1 21 11.5z"/></svg>
-                Zalo
-              </a>
-            </div>
             <div class="quick-links">
               <span>Thử tìm:</span>
               <button type="button" data-q="tiền định">tiền định</button>
@@ -658,6 +653,8 @@
             <h2>Tin Chúa là gì?</h2>
             <p>Mới nghe về Chúa, hoặc vừa quyết định tin Ngài? Hãy bắt đầu ở đây, bằng những lời đơn giản nhất.</p>
           </div>
+          <details class="more">
+            <summary>Đọc giải thích ngắn gọn — tin Chúa là gì?</summary>
           <div class="intro-grid">
             <div class="intro-card">
               <h3>Nói một cách đơn giản</h3>
@@ -675,6 +672,7 @@
             </div>
           </div>
           <blockquote style="max-width:680px;margin:24px auto 0;text-align:center;font-family:'Noto Serif',serif;font-size:19px;line-height:1.65;color:var(--burgundy)">“Vì Đức Chúa Trời yêu thương thế gian, đến nỗi đã ban Con một của Ngài, hầu cho hễ ai tin Con ấy không bị hư mất mà được sự sống đời đời.”<div style="font-family:'Be Vietnam Pro',sans-serif;font-size:13.5px;margin-top:8px"><a href="/kinh-thanh/joh/3.html#v16">Giăng 3:16 — đọc trong Kinh Thánh 1934 →</a></div></blockquote>
+          </details>
         </div>
       </section>
 
@@ -990,67 +988,56 @@
             <a class="module" href="#thu-vien">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></span>
               <h3>Thư Viện Sách</h3>
-              <p>Sách Cải Chánh và Thanh Giáo tiếng Việt: đọc trực tuyến, tải EPUB/PDF.</p>
               <span class="meta"><span class="pill live">Đang hoạt động</span><span class="count">3.000+ cuốn</span></span>
             </a>
             <a class="module" href="#giao-ly">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
               <h3>Giáo Lý Hỏi Đáp<span class="gloss">Học đức tin qua từng câu hỏi – đáp ngắn</span></h3>
-              <p>107 câu Tín Lý Yếu Lược Westminster kèm câu gốc minh chứng.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">107 câu</span></span>
             </a>
             <a class="module" href="#bach-khoa">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg></span>
               <h3>Bách Khoa Thần Học<span class="gloss">Từ điển giải nghĩa các từ khó trong Kinh Thánh và thần học</span></h3>
-              <p>Tra cứu thuật ngữ: định nghĩa rõ ràng, liên kết sang sách.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">Từ vựng hạt nhân</span></span>
             </a>
             <a class="module" href="#hoi-dap">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span>
               <h3>Hỏi Đáp Cải Chánh</h3>
-              <p>Câu hỏi thật về đức tin và đời sống — trả lời ngắn, có căn cứ Kinh Thánh.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">Hỏi theo chủ đề</span></span>
             </a>
             <a class="module" href="/hoc-vien/">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10L12 5 2 10l10 5 10-5z"/><path d="M6 12.5V16c0 1.7 2.7 3 6 3s6-1.3 6-3v-3.5"/><line x1="22" y1="10" x2="22" y2="16"/></svg></span>
               <h3>Học Viện Cải Chánh</h3>
-              <p>Lộ trình học từ nền tảng đến thần học hệ thống (Thirdmill).</p>
               <span class="meta"><span class="pill ok">Có sẵn</span><span class="count">3 chứng chỉ · 14 khóa</span></span>
             </a>
             <a class="module" href="/suy-ngam/">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="M12 18a6 6 0 0 0 6-6c0-4-6-8-6-8s-6 4-6 8a6 6 0 0 0 6 6z" transform="translate(0 2) scale(0.92) translate(1 0)"/></svg></span>
               <h3>Ân Điển Mỗi Ngày</h3>
-              <p>366 bài tĩnh nguyện của Spurgeon — mỗi ngày một bài.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">366 bài</span></span>
             </a>
             <a class="module" href="/kinh-thanh/">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span>
               <h3>Học Kinh Thánh</h3>
-              <p>Kinh Thánh 1934 trọn 66 sách, 34.000+ tham chiếu chéo, ghi chú và từ điển Strong.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">66 sách</span></span>
             </a>
             <a class="module" href="/bai-giang/">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="M19 10v1a7 7 0 0 1-14 0v-1"/><line x1="12" y1="19" x2="12" y2="22"/></svg></span>
               <h3>Thư Viện Bài Giảng</h3>
-              <p>Bài giảng kinh điển Cải Chánh và Thanh Giáo, theo phân đoạn Kinh Thánh.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">14 bài giảng</span></span>
             </a>
             <a class="module" href="/thanh-ca/">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg></span>
               <h3>Thánh Ca &amp; Thờ Phượng</h3>
-              <p>Thánh ca truyền thống, bản dịch tiếng Việt hát được theo giai điệu gốc.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">8 bài</span></span>
             </a>
             <a class="module" href="/tap-chi/">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-4 0V9"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8z"/></svg></span>
               <h3>Tạp Chí Cải Chánh</h3>
-              <p>Trích chương tiêu biểu: Spurgeon, Pink, Ryle.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">3 bài</span></span>
             </a>
             <a class="module" href="/danh-ba/">
               <span class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
               <h3>Danh Bạ Hội Thánh</h3>
-              <p>Tìm Hội Thánh Cải Chánh gần bạn — thông tin công khai, ghi rõ nguồn.</p>
               <span class="meta"><span class="pill live">Có sẵn</span><span class="count">6 Hội Thánh</span></span>
             </a>
           </div>
@@ -1062,7 +1049,7 @@
           <div class="section-head">
             <div class="rule"></div>
             <h2>Sách Nói</h2>
-            <p>10 đầu sách, hơn 42 giờ nghe miễn phí trên Archive.org. Giọng đọc AI, bản dịch AI, chưa duyệt.</p>
+            <p>15 đầu sách, hơn 104 giờ nghe miễn phí trên Archive.org. Giọng đọc AI, bản dịch AI, chưa duyệt.</p>
           </div>
           <div class="modules">
             <a class="module" href="https://archive.org/details/reformed-vietnam-audiobook-flavel-christlovely" target="_blank" rel="noopener">
@@ -1098,7 +1085,7 @@
           </div>
           <p style="margin-top:16px;color:var(--ink-soft);font-size:15px">Nghe thêm: <a href="https://archive.org/details/reformed-vietnam-audiobook-bonar-followlamb" target="_blank" rel="noopener">Theo Chiên Con · 117 phút</a> · <a href="https://archive.org/details/reformed-vietnam-audiobook-owen-mortification" target="_blank" rel="noopener">Giết Chết Tội Lỗi · 4 giờ 54 phút</a> · <a href="https://archive.org/details/reformed-vietnam-audiobook-sibbes-bruised-reed" target="_blank" rel="noopener">Cây Sậy Dập · 5 giờ 2 phút</a></p>
           <p style="margin-top:18px"><a class="btn solid" href="/sach-noi.html">Tất cả sách nói →</a></p>
-          <p style="color:var(--ink-soft);font-size:14.5px;margin-top:10px">Cả 10 đầu sách đều đã có trên Archive.org.</p>
+          <p style="color:var(--ink-soft);font-size:14.5px;margin-top:10px">Cả 15 đầu sách đều đã có trên Archive.org.</p>
         </div>
       </section>
 
