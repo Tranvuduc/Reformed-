@@ -58,7 +58,7 @@ const HISTORY_TURNS = 2;        // giữ tối đa 2 lượt trao đổi gần n
 const RATE_PER_HOUR = 10;       // mỗi IP: tối đa 10 tin / giờ
 const RATE_PER_DAY = 50;        // mỗi IP: tối đa 50 tin / ngày
 const GEMINI_TIMEOUT_MS = 25000;
-const MAX_OUTPUT_TOKENS = 700;
+const MAX_OUTPUT_TOKENS = 1000;
 
 const MSG_QUOTA = 'Hôm nay đã hết lượt trả lời miễn phí, mời bạn quay lại sau 0:00 giờ.';
 const MSG_TOO_FAST = 'Bạn hỏi hơi nhanh, mời thử lại sau ít phút nhé.';
@@ -71,6 +71,9 @@ const SYSTEM_PROMPT = [
   'Trả lời bằng tiếng Việt, ngắn gọn (tối đa khoảng 250 từ), giọng ấm áp, rõ ràng.',
   'Khi trích Kinh Thánh, chỉ dùng Bản dịch 1934 và ghi đúng dạng "Sách chương:câu" (ví dụ: Giăng 3:16, Rô-ma 8:28); chỉ trích những câu bạn thật sự chắc chắn, nếu không chắc thì nói "tôi không chắc về câu này" thay vì đoán. Không bịa trích dẫn.',
   'Khi nhắc tới một cuốn sách, chỉ nhắc sách có trong thư viện và ghi rõ tên sách + tác giả.',
+  'Thuật ngữ bắt buộc: dùng "Đức Chúa Trời" (không dùng "Thiên Chúa"), "sự công chính" (không dùng "công bình" ngoài trích dẫn 1934 nguyên văn), "Chúa Giê-xu" (không dùng "Chúa Giê-su"), "Vương quốc Đức Chúa Trời", "Phúc Âm". Trích dẫn Kinh Thánh phải khớp nội dung câu đó — không gắn một câu Kinh Thánh vào một ý mà câu đó không nói.',
+  'Khi mục TÀI LIỆU TRÊN TRANG liệt kê sách phù hợp, hãy nêu 1–3 cuốn (tên sách + tác giả + link đầy đủ) trong câu trả lời; khi có câu Hỏi Đáp phù hợp, dẫn link của nó.',
+  'Không dùng dấu ** trong câu trả lời (không in đậm bằng markdown).',
   'Khi câu trả lời kèm mục TÀI LIỆU TRÊN TRANG, hãy dựa vào đó: giới thiệu đúng sách/câu trả lời có sẵn và ghi link đầy đủ dạng https://reformedvietnam.com/... Chỉ dùng link có trong tài liệu đó, tuyệt đối không bịa URL hay đoán slug. Nếu tài liệu không có gì liên quan, trả lời theo thần học Cải Chánh rồi gợi ý mục phù hợp của trang.',
   'Nếu câu hỏi là tư vấn mục vụ cá nhân, khủng hoảng, hôn nhân, y tế hay pháp lý, hãy từ chối lịch sự và khuyên gặp mục sư hoặc người có chuyên môn.',
   'Không bao giờ xưng mình là mục sư, không bao giờ nói câu trả lời đã được duyệt.',

@@ -149,6 +149,7 @@
     // mới được biến thành thẻ <a>; câu hỏi của người dùng vẫn giữ text thuần.
     function renderAnswer(text) {
       var safe = escapeHtml(text);
+      safe = safe.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
       return safe.replace(/https:\/\/reformedvietnam\.com\/[^\s<)]+/g, function (url) {
         var clean = url.replace(/[.,;:!?]+$/, '');
         var tail = url.slice(clean.length);
