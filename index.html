@@ -345,10 +345,11 @@
       .academy { display: grid; grid-template-columns: 5fr 7fr; gap: 26px; align-items: center; }
       .academy figure { margin: 0; border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); }
       .academy figure img { width: 100%; height: 100%; object-fit: cover; }
-      .course { padding: 18px 0; border-bottom: 1px solid var(--line); display: flex; gap: 16px; align-items: baseline; }
+      .course { padding: 18px 0; border-bottom: 1px solid var(--line); }
       .course:last-of-type { border-bottom: 0; }
+      .course-head { display: flex; gap: 16px; align-items: baseline; justify-content: space-between; }
       .course h3 { font-size: 19px; }
-      .course p { margin: 4px 0 0; color: var(--ink-soft); font-size: 14.5px; }
+      .course p { margin: 6px 0 0; color: var(--ink-soft); font-size: 14.5px; }
       .course .lvl { margin-left: auto; flex-shrink: 0; font-size: 12px; font-weight: 700; letter-spacing: 0.05em; padding: 4px 11px; border-radius: 999px; background: var(--surface-2); color: var(--ink-soft); white-space: nowrap; }
       @media (prefers-color-scheme: dark) { .course .lvl { background: var(--surface-2); } }
 
@@ -643,6 +644,7 @@
           <a href="#sach-noi">Sách Nói</a>
           <a href="#youtube">YouTube</a>
           <a href="/danh-ba/">Danh Bạ Hội Thánh</a>
+          <a href="/lien-ket.html">Liên Kết</a>
         </div>
       </nav>
 
@@ -811,19 +813,19 @@
             <p>Những bản dịch mới nhất vừa vào thư viện — mới nhất ở trên cùng.</p>
           </div>
           <ul class="rv-recent">
-            <li><a href="/ban-dich/westminster-confession-of-faith.html">Bản Tuyên Xưng Đức Tin Westminster</a><span class="rv-ra">Westminster Assembly</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/mg1-979-christian-warfare-2-downame.html">Cuộc Chiến Thuộc Linh, Tập II</a><span class="rv-ra">John Downame</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/mg1-1022-doubting-believer-sedgwick.html">Tín Đồ Nghi Ngờ</a><span class="rv-ra">Obadiah Sedgwick</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/mg1-1004-divine-rule-faith-practice-goode.html">Quy Tắc Thần Thánh Của Đức Tin Và Sự Thực Hành</a><span class="rv-ra">William Goode</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/arch-gomarus-on-the-sacraments.html">Về Các Bí Tích</a><span class="rv-ra">Franciscus Gomarus</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/arch-burroughs-precious-faith.html">Đức Tin Quý Báu</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/850-so-thu-chi-co-nhi-vien-va-chung-ngon-halle.html">Sổ Thu Chi Cô Nhi Viện Và Chứng Ngôn Halle</a><span class="rv-ra">George Whitefield</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/840-hanh-trinh-nguoi-hanh-huong.html">Hành Trình Của Người Lữ Hành</a><span class="rv-ra">John Bunyan</span><span class="rv-rd">thêm ngày 11/11/2026</span></li>
-            <li><a href="/ban-dich/arch-gerhard-sacred-meditations.html">Suy Ngẫm Thánh</a><span class="rv-ra">Johann Gerhard</span><span class="rv-rd">thêm ngày 10/11/2026</span></li>
-            <li><a href="/ban-dich/arch-burroughs-gospel-fear.html">Sợ Hãi Theo Phúc Âm</a><span class="rv-ra">Jeremiah Burroughs</span><span class="rv-rd">thêm ngày 10/11/2026</span></li>
-            <li><a href="/ban-dich/poole-chu-thich-1-co-rinh-to.html">Chú Thích Về Kinh Thánh — Thư Thứ Nhất Gửi Người Cô-rinh-tô</a><span class="rv-ra">Matthew Poole</span><span class="rv-rd">thêm ngày 9/11/2026</span></li>
-            <li><a href="/ban-dich/poole-chu-thich-ro-ma.html">Chú Thích Về Kinh Thánh — Thư Gửi Người Rô-ma</a><span class="rv-ra">Matthew Poole</span><span class="rv-rd">thêm ngày 8/11/2026</span></li>
-                      </ul>
+            <li><a href="/ban-dich/brown-life-of-justification-arguments-against-universal-redemption-b.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Những Lập Luận Chống Lại Sự Chuộc Tội Phổ Quát (Phần Sau: Luận Điểm 19–36)</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-arguments-against-universal-redemption-a.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Những Lập Luận Chống Lại Sự Chuộc Tội Phổ Quát (Phần Đầu: Luận Điểm 1–18)</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-10-fathers-papists.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương X: Các Giáo Phụ Ủng Hộ Giáo Lý Về Sự Kể Cho; Và Một Số Người Theo Giáo Hoàng Tán Thành Điều Đó</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-09-forbes-wendelin.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương IX: Những Lập Luận Của John Forbes Chống Lại Sự Kể Cho Sự Vâng Phục Chủ Động Của Đấng Christ, Được Xem Xét, Cùng Với Cái Nhìn Về Những Lý Lẽ Của Wendelin Chống Lại Điều Đó</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-08-no-countenance-works.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương VIII: Không Có Sự Ủng Hộ Nào Cho Sự Xưng Công Chính Bởi Việc Làm Từ Gia-cơ 2:14 Trở Đi</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-07-james-2-cleared.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương VII: Gia-cơ 2:14 Trở Đi Được Giải Thích Và Bênh Vực</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-06-merit-of-works.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương VI: Những Việc Làm Mà Phao-lô Loại Trừ Không Có Nghĩa Là Công Đức Của Các Việc Làm</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-05-works-excluded.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương V: Những Việc Làm Bị Loại Trừ Trong Sự Xưng Công Chính Không Phải Chỉ Là Những Việc Làm Trước Đức Tin, Cũng Không Phải Chỉ Là Những Việc Làm Trọn Vẹn Mà Luật Pháp Của Sự Vô Tội Đòi Hỏi, Cũng Không Phải Chỉ Là Những Việc Làm Bề Ngoài</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-04-law-not-jewish.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương IV: Luật Pháp Mà Phao-lô Phủ Nhận Rằng Chúng Ta Được Xưng Công Chính Bởi Các Việc Làm Của Nó Không Phải Là Luật Pháp Của Người Giu-đa</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-03-righteousness-within-us.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương III: Chúng Ta Không Được Nương Cậy Vào Bất Cứ Sự Công Chính Nào Ở Trong Chúng Ta Để Được Xưng Công Chính</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-02-curse-of-the-law.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương II: Đấng Christ Đã Chịu Sự Rủa Sả Của Luật Pháp</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+            <li><a href="/ban-dich/brown-life-of-justification-appendix-01-imputation-active-passive.html">Sự Sống Của Sự Xưng Công Chính Được Mở Ra — Phụ Lục — Chương I: Sự Kể Cho Cả Sự Vâng Phục Chủ Động Lẫn Thụ Động Của Đấng Christ Đều Cần Thiết</a><span class="rv-ra">John Brown (of Wamphray)</span><span class="rv-rd">thêm ngày 14/11/2026</span></li>
+          </ul>
           <div style="text-align:center;margin-top:20px"><a class="btn solid" href="/ban-dich/">Xem tất cả bản dịch →</a></div>
         </div>
       </section>
@@ -944,33 +946,33 @@
           <div class="section-head">
             <div class="rule"></div>
             <h2>Học Viện Cải Chánh</h2>
-            <p>Ba chứng chỉ Thirdmill — 14 khóa, 122 bài học, kèm tài liệu đồng hành tiếng Việt.</p>
+            <p>Ba chứng chỉ Thirdmill — 14 khóa, 122 bài học, tài liệu đồng hành tiếng Việt đang được bổ sung dần.</p>
           </div>
           <div class="academy">
             <figure><img loading="lazy" decoding="async" src="img/hub-academy.webp" alt="Tranh minh họa phòng học thần học với bàn gỗ, sách cổ và đèn đồng" loading="lazy" /></figure>
             <div>
               <div class="course">
-                <div>
+                <div class="course-head">
                   <h3><a href="/hoc-vien/#chung-chi-nen-tang">Chứng Chỉ Nền Tảng</a></h3>
-                  <p>Bốn khóa nhập môn: Ngũ Kinh, Phúc Âm và Công Vụ. 36 bài học.</p>
+                  <span class="lvl">Thirdmill · Chứng chỉ 1</span>
                 </div>
-                <span class="lvl">Thirdmill · Chứng chỉ 1</span>
+                <p>Bốn khóa nhập môn: Ngũ Kinh, Phúc Âm và Công Vụ. 36 bài học.</p>
               </div>
               <div class="course">
-                <div>
+                <div class="course-head">
                   <h3><a href="/hoc-vien/#chung-chi-kinh-thanh">Chứng Chỉ Nghiên Cứu Kinh Thánh</a></h3>
-                  <p>Năm khóa đào sâu Kinh Thánh: tiên tri, Phao-lô, giải kinh. 44 bài học.</p>
+                  <span class="lvl">Thirdmill · Chứng chỉ 2</span>
                 </div>
-                <span class="lvl">Thirdmill · Chứng chỉ 2</span>
+                <p>Năm khóa đào sâu Kinh Thánh: tiên tri, Phao-lô, giải kinh. 44 bài học.</p>
               </div>
               <div class="course">
-                <div>
+                <div class="course-head">
                   <h3><a href="/hoc-vien/#chung-chi-than-hoc">Chứng Chỉ Nghiên Cứu Thần Học</a></h3>
-                  <p>Năm khóa thần học hệ thống: Đức Chúa Trời, Đấng Christ, Đức Thánh Linh. 42 bài học.</p>
+                  <span class="lvl">Thirdmill · Chứng chỉ 3</span>
                 </div>
-                <span class="lvl">Thirdmill · Chứng chỉ 3</span>
+                <p>Năm khóa thần học hệ thống: Đức Chúa Trời, Đấng Christ, Đức Thánh Linh. 42 bài học.</p>
               </div>
-              <p style="color:var(--burgundy);font-weight:600;margin-top:14px">Cả 122 bài học đều có tài liệu đồng hành tiếng Việt.</p>
+              <p style="color:var(--burgundy);font-weight:600;margin-top:14px">Tài liệu đồng hành tiếng Việt đang được bổ sung dần — hiện đã có 7 bài tóm tắt (thuộc khóa FC1).</p>
               <p style="margin-top:18px"><a class="btn solid" href="/hoc-vien/">Xem toàn bộ lộ trình</a></p>
             </div>
           </div>
@@ -1189,10 +1191,6 @@
     <button class="to-top" id="toTop" type="button" aria-label="Về đầu trang">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"/></svg>
     </button>
-
-    <!-- AI chat — Reformed Vietnam. -->
-    <link rel="stylesheet" href="/chat/rv-chat.css" />
-    <script src="/chat/rv-chat.js" defer></script>
 
     <script>
       (function () {
@@ -1509,5 +1507,7 @@
 </script>
 <script>if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/sw.js").catch(function(){})})</script>
 <script>(function(){var b=document.getElementById("themeBtn");if(!b)return;b.onclick=function(){var h=document.documentElement,d=h.getAttribute("data-theme")==="dark"||(!h.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches),c=d?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c);localStorage.setItem("rv.ptheme",c)}catch(e){}var mc=document.querySelector('meta[name="theme-color"]');if(mc)mc.setAttribute("content",c==="dark"?"#14171c":"#9a3412")}})();</script>
-</body>
+<link rel="stylesheet" href="/chat/rv-chat.css" />
+    <script src="/chat/rv-chat.js" defer></script>
+  </body>
 </html>
