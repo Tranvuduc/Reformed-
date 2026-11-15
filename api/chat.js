@@ -3,19 +3,25 @@
 //   export default async function handler(req, res) { ... }
 //
 // NGUYÊN TẮC $0 CỨNG (quyết định của David, 2026-11-15):
-//  - Chỉ gọi Gemini free tier (Google AI Studio, không cần thẻ).
-//  - Hết free tier -> Gemini trả 429 -> function trả 429 + câu "hết lượt hôm nay".
+//  - Chỉ gọi free tier: Groq (chính) + Gemini (dự phòng), không cần thẻ.
+//  - Hết free tier -> nhà cung cấp trả 429 -> function trả 429 + câu "hết lượt hôm nay".
 //  - Không có billing, không có dịch vụ trả phí nào được gọi từ đây.
 //  - Không log câu hỏi của người dùng ra bất cứ đâu. Không dùng Vercel Blob.
-//  - API key CHỈ đọc từ process.env.GEMINI_API_KEY (Vercel env var).
-//    Chưa đặt key -> GET/POST đều trả 503 "not_ready", widget tự hiển thị
+//  - API key CHỈ đọc từ process.env.GROQ_API_KEY / GEMINI_API_KEY (Vercel env var).
+//    Chưa đặt key nào -> GET/POST đều trả 503 "not_ready", widget tự hiển thị
 //    "tính năng đang được chuẩn bị".
+//  - LÝ DO DÙNG GROQ (2026-11-15): Gemini free tier quá tải từ sáng 15/11
+//    (5 timeout + 1×503 trong log Vercel, key vẫn tốt) nên câu tự do toàn
+//    lỗi 500; David đưa key Groq để chat trả lời lại được. Groq là chính,
+//    Gemini chỉ là dự phòng khi Groq lỗi HTTP; Groq timeout thì dừng luôn
+//    (Gemini sáng nay cũng timeout nên thử tiếp chỉ làm người dùng chờ lâu hơn).
 //
 // Luồng xử lý (không tốn token LLM khi trả được từ dữ liệu có sẵn):
 //   1. Rate limit theo IP (bộ nhớ trong — xem ghi chú ở checkRateLimit).
 //   2. Tìm sách theo tiêu đề/tác giả (data/books-lookup.json, 3.323 cuốn).
 //   3. Khớp 95 câu Hỏi Đáp (data/answers-lookup.json) -> trả thẳng đáp án + link.
-//   4. Gọi Gemini 2.5 Flash với system prompt khóa lập trường Cải Chánh.
+//   4. Gọi Groq llama-3.3-70b-versatile (chính), Gemini gemini-flash-latest
+//      (dự phòng) với system prompt khóa lập trường Cải Chánh.
 //   5. Kiểm chứng mọi trích dẫn Kinh Thánh trong câu trả lời đối chiếu
 //      dữ liệu 1934 (data/bible-refs.json, 66 sách / 1.189 chương / 31.102 câu).
 //      Trích dẫn không tồn tại -> gỡ khỏi câu trả lời, ghi chú rõ.
@@ -32,6 +38,13 @@ import { readFileSync } from 'node:fs';
 // live). Nếu alias này cũng bị đổi trong tương lai, chỉ cần sửa 1 dòng MODEL này.
 const MODEL = 'gemini-flash-latest';
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
+// Groq (chính từ 2026-11-15): API tương thích OpenAI, model 70B trả lời
+// nhanh trên free tier; key của David đã kiểm định dạng (gsk_ + 52 ký tự)
+// nhưng chưa kiểm live được từ VM này (api.groq.com timeout từ đây —
+// Vercel sẽ là nơi kiểm chứng thật khi deploy).
+const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
+const GROQ_MODEL = 'llama-3.3-70b-versatile';
+const GROQ_TIMEOUT_MS = 8000;
 const MAX_Q_LEN = 500;          // tối đa 500 ký tự / câu hỏi
 const HISTORY_TURNS = 2;        // giữ tối đa 2 lượt trao đổi gần nhất
 const RATE_PER_HOUR = 10;       // mỗi IP: tối đa 10 tin / giờ
@@ -98,7 +111,7 @@ function loadData(name) {
 // GHI CHÚ TRUNG THỰC: Vercel serverless có thể chạy nhiều instance song song,
 // mỗi instance có bộ nhớ riêng, nên giới hạn này chỉ là "phanh" chống spam
 // trong từng instance — không phải giới hạn toàn cục tuyệt đối. Lớp bảo vệ
-// $0 thật sự là quota free tier của chính Gemini (429 -> tạm nghỉ).
+// $0 thật sự là quota free tier của chính Groq/Gemini (429 -> tạm nghỉ).
 const _hits = new Map(); // hashIP -> [timestampMs, ...]
 const _salt = Math.random().toString(36).slice(2);
 function clientIp(req) {
@@ -323,9 +336,65 @@ async function askGemini(question, history) {
   } catch (e) {
     if (e && e.name === 'AbortError') {
       console.error('[rv-chat] gemini timeout');
-      return { status: 'error' };
+      return { status: 'error', timeout: true };
     }
     console.error('[rv-chat] gemini fetch failed:', e && e.message ? String(e.message).slice(0, 120) : 'unknown');
+    return { status: 'error' };
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+// ---------------------------------------------------------------- lớp 4b: gọi Groq (chính)
+// API tương thích OpenAI: POST /openai/v1/chat/completions, header
+// Authorization: Bearer <key>. Trả về { status, text } giống askGemini,
+// thêm cờ timeout:true khi bị abort để handler biết mà dừng, đừng thử tiếp.
+async function askGroq(question, history) {
+  const key = process.env.GROQ_API_KEY;
+  if (!key) return { status: 'no_key' };
+  const messages = [{ role: 'system', content: SYSTEM_PROMPT }];
+  for (const h of history || []) {
+    if (typeof h.q === 'string' && h.q.trim()) {
+      messages.push({ role: 'user', content: h.q.slice(0, MAX_Q_LEN) });
+    }
+    if (typeof h.a === 'string' && h.a.trim()) {
+      messages.push({ role: 'assistant', content: h.a.slice(0, 1500) });
+    }
+  }
+  messages.push({ role: 'user', content: question });
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), GROQ_TIMEOUT_MS);
+  try {
+    const r = await fetch(GROQ_URL, {
+      method: 'POST',
+      signal: ctrl.signal,
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${key}`,
+      },
+      body: JSON.stringify({
+        model: GROQ_MODEL,
+        messages,
+        temperature: 0.3,
+        max_tokens: MAX_OUTPUT_TOKENS,
+      }),
+    });
+    if (r.status === 429) return { status: 'quota' };
+    if (!r.ok) {
+      // Không lộ nội dung lỗi của Groq ra ngoài (có thể chứa chi tiết nội bộ).
+      console.error('[rv-chat] groq http', r.status);
+      return { status: 'error' };
+    }
+    const data = await r.json();
+    const text = String(data?.choices?.[0]?.message?.content || '').trim();
+    if (!text) return { status: 'error' };
+    return { status: 'ok', text };
+  } catch (e) {
+    if (e && e.name === 'AbortError') {
+      console.error('[rv-chat] groq timeout');
+      return { status: 'error', timeout: true };
+    }
+    console.error('[rv-chat] groq fetch failed:', e && e.message ? String(e.message).slice(0, 120) : 'unknown');
     return { status: 'error' };
   } finally {
     clearTimeout(timer);
@@ -347,7 +416,7 @@ export default async function handler(req, res) {
   try {
     // Preflight: widget dùng để biết function đã deploy + đã có key chưa.
     if (req.method === 'GET') {
-      return json(res, 200, { ok: 1, ready: Boolean(process.env.GEMINI_API_KEY) });
+      return json(res, 200, { ok: 1, ready: Boolean(process.env.GROQ_API_KEY || process.env.GEMINI_API_KEY) });
     }
     if (req.method !== 'POST') return res.status(405).end();
 
@@ -391,32 +460,43 @@ export default async function handler(req, res) {
       });
     }
 
-    // Lớp 3: chưa có key -> báo "đang chuẩn bị" (widget tự xử lý).
-    if (!process.env.GEMINI_API_KEY) {
+    // Lớp 3: chưa có key nào -> báo "đang chuẩn bị" (widget tự xử lý).
+    if (!process.env.GROQ_API_KEY && !process.env.GEMINI_API_KEY) {
       return json(res, 503, { error: 'not_ready', message: MSG_NOT_READY });
     }
 
-    // Lớp 4: Gemini.
-    const g = await askGemini(question, history);
-    if (g.status === 'quota') {
+    // Lớp 4: gọi LLM — Groq trước (chính), Gemini dự phòng. Chỉ thử tiếp
+    // khi lỗi là HTTP (401/5xx...); timeout thì dừng luôn vì nhà cung cấp
+    // còn lại sáng nay cũng timeout, thử tiếp chỉ làm người dùng chờ lâu hơn.
+    // Hết quota (429) ở nhà này thì thử nhà kia, cả hai hết mới báo hết lượt.
+    const providers = [];
+    if (process.env.GROQ_API_KEY) providers.push({ name: 'groq', fn: askGroq });
+    if (process.env.GEMINI_API_KEY) providers.push({ name: 'gemini', fn: askGemini });
+    let ai = null;
+    let sawQuota = false;
+    for (const p of providers) {
+      const r = await p.fn(question, history);
+      if (r.status === 'ok') { ai = { text: r.text, source: p.name }; break; }
+      if (r.status === 'quota') { sawQuota = true; continue; }
+      if (r.timeout) break; // timeout: dừng, đừng thử tiếp
+      // Lỗi HTTP khác: thử nhà cung cấp tiếp theo (nếu có).
+    }
+    if (!ai && sawQuota) {
       return json(res, 429, { error: 'quota', message: MSG_QUOTA });
     }
-    if (g.status === 'no_key') {
-      return json(res, 503, { error: 'not_ready', message: MSG_NOT_READY });
-    }
-    if (g.status !== 'ok') {
+    if (!ai) {
       return json(res, 500, { error: 'error', message: MSG_ERROR });
     }
 
     // Lớp 5: kiểm chứng trích dẫn Kinh Thánh rồi mới trả về.
-    const v = verifyCitations(g.text);
+    const v = verifyCitations(ai.text);
     let answer = v.text;
     if (v.removed > 0) {
       answer += `\n\n— Đã gỡ ${v.removed} trích dẫn Kinh Thánh chưa kiểm chứng được.`;
     }
     return json(res, 200, {
       answer,
-      source: 'gemini',
+      source: ai.source,
       removed_citations: v.removed,
     });
   } catch (e) {
