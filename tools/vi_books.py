@@ -115,7 +115,7 @@ def _md_inline(s):
     s = _EMPH.sub(r"\1", s)
     return s.replace("**", "").replace("__", "")
 _ACRONYMS = {"WSC", "KJV", "NKJV", "ESV", "NASB", "NIV", "BDM", "CCEL", "EPUB",
-             "PDF", "MP3", "URL", "HTML", "AI", "DVD", "CD", "BD", "NT", "OT"}
+             "PDF", "MP3", "URL", "HTML", "DVD", "CD", "BD", "NT", "OT"}
 _ROMAN = _r.compile(r"^[IVXLCDM]+$")
 def _is_vowel(ch):
     """Vietnamese vowel test without unicodedata: ASCII vowels, plus any
