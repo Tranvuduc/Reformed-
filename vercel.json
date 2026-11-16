@@ -70,6 +70,17 @@
   ],
   "redirects": [
     {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "reformed-vietnam.vercel.app"
+        }
+      ],
+      "destination": "https://reformedvietnam.com/$1",
+      "permanent": true
+    },
+    {
       "source": "/sach",
       "destination": "/thu-vien.html",
       "permanent": true
