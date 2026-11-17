@@ -6,7 +6,7 @@
     <atom:link href="https://reformedvietnam.com/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Sách nói Cơ Đốc Cải Chánh tiếng Việt — các tác phẩm kinh điển của Spurgeon, Owen, Sibbes, Ryle, Bunyan và nhiều tác giả khác, do Thư Viện Cải Chánh (reformedvietnam.com) thực hiện. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:29:16 +0000</lastBuildDate>
     <itunes:author>Reformed Vietnam</itunes:author>
     <managingEditor>reformedvn@gmail.com (Reformed Vietnam)</managingEditor>
     <itunes:owner>
@@ -1537,6 +1537,16 @@
       <pubDate>Tue, 10 Nov 2026 03:37:15 +0000</pubDate>
       <itunes:duration>54:31</itunes:duration>
       <itunes:episode>152</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Giáo Lý Vấn Đáp Ngắn Westminster — Westminster Assembly</title>
+      <description>Giáo Lý Vấn Đáp Ngắn Westminster (1647) — 107 câu hỏi và đáp về đức tin Cơ Đốc: mục đích tối hậu của con người, sự cứu rỗi trong Đấng Christ, và đời sống vâng phục Lời Chúa. Giọng đọc AI, bản dịch AI, chưa duyệt.</description>
+      <enclosure url="https://archive.org/download/reformed-vietnam-audiobook-westminster-shorter-catechism/westminster-shorter-catechism.mp3" length="18090477" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://archive.org/download/reformed-vietnam-audiobook-westminster-shorter-catechism/westminster-shorter-catechism.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 17:10:03 +0000</pubDate>
+      <itunes:duration>37:41</itunes:duration>
+      <itunes:episode>153</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
