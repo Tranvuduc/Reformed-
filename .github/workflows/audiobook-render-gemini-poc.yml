@@ -1,0 +1,85 @@
+name: Sách nói Gemini — thử nghiệm (POC)
+# POC: chứng minh máy chạy GitHub Actions (miễn phí, không giới hạn trên
+# repo công khai, 4 vCPU / 16 GB) dựng được sách nói bằng đúng dây chuyền
+# đã khóa 2026-11-17: Gemini TTS giọng Kore -> atempo 0.92 -> mastering
+# loudnorm I=-20. Chỉ chạy khi bấm tay (workflow_dispatch), không commit
+# gì về repo — file mp3 thử nằm trong artifact để nghe kiểm tra.
+# Cần secret GEMINI_API_KEY (đã có sẵn trong repo secrets).
+on:
+  workflow_dispatch:
+    inputs:
+      chars:
+        description: "Số ký tự của chunk thử (mặc định 4000)"
+        required: false
+        default: "4000"
+      voice:
+        description: "Giọng Gemini"
+        required: false
+        default: "Kore"
+      model:
+        description: "Model TTS"
+        required: false
+        default: "gemini-3.8-flash-tts"
+permissions:
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kiểm tra ffmpeg + python
+        run: |
+          ffmpeg -version | head -1
+          python3 --version
+      - name: Kiểm tra secret Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "::error::GEMINI_API_KEY chưa có trong repo secrets (Settings > Secrets and variables > Actions). Thêm key rồi chạy lại."
+            exit 1
+          fi
+          echo "secret present (length ${#GEMINI_API_KEY})"
+      - name: Cắt chunk thử (Sinners, ~4000 ký tự)
+        run: |
+          mkdir -p poc-sinners
+          python3 tools/extract_poc_chunk.py --src translations/308-sinners-in-the-hands-of-an-angry-god-edwards.txt --chars "${{ inputs.chars }}" --out poc-sinners/part_aa.txt
+      - name: Đọc thử bằng Gemini TTS (giọng Kore)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          START=$(date +%s)
+          python3 tools/gemini_tts_ci.py --model "${{ inputs.model }}" --text-file poc-sinners/part_aa.txt --voice "${{ inputs.voice }}" --out poc-sinners/part_aa.raw.wav
+          echo "TTS_WALL=$(( $(date +%s) - START ))" >> "$GITHUB_ENV"
+      - name: Chậm lại + mastering (atempo 0.92, loudnorm I=-20)
+        run: |
+          chmod +x tools/master_chunk.sh
+          START=$(date +%s)
+          bash tools/master_chunk.sh poc-sinners/part_aa.raw.wav poc-sinners/part_aa.mp3 0.92
+          echo "MASTER_WALL=$(( $(date +%s) - START ))" >> "$GITHUB_ENV"
+          rm -f poc-sinners/part_aa.raw.wav
+      - name: Kiểm tra + đo kết quả
+        run: |
+          DUR=$(ffprobe -v error -show_entries format=duration -of csv=p=0 poc-sinners/part_aa.mp3)
+          SIZE=$(stat -c%s poc-sinners/part_aa.mp3)
+          LUFS=$(ffmpeg -v info -i poc-sinners/part_aa.mp3 -af loudnorm=I=-20:TP=-3.5:LRA=11:print_format=json -f null - 2>&1 | python3 -c 'import json,sys; s=sys.stdin.read(); j=json.loads(s[s.index("{"):s.rindex("}")+1]); print(j["input_i"])')
+          TOTAL=$(( TTS_WALL + MASTER_WALL ))
+          [ "$TOTAL" -gt 0 ] || TOTAL=1
+          RATIO=$(python3 -c "print(f'{$DUR/$TOTAL:.1f}')")
+          {
+            echo "## Kết quả thử nghiệm (POC)"
+            echo ""
+            echo "- **Audio:** ${DUR}s, $(numfmt --to=iec-i --suffix=B "$SIZE")"
+            echo "- **TTS:** ${TTS_WALL}s — **Mastering:** ${MASTER_WALL}s — **Tổng:** ${TOTAL}s"
+            echo "- **Tốc độ:** ${RATIO}x thời gian thực"
+            echo "- **Độ to (LUFS):** ${LUFS} (mục tiêu -20)"
+            echo "- **Giọng:** ${{ inputs.voice }} · **Model:** ${{ inputs.model }}"
+          } >> "$GITHUB_STEP_SUMMARY"
+          echo "POC RESULT: audio=${DUR}s tts=${TTS_WALL}s master=${MASTER_WALL}s total=${TOTAL}s ratio=${RATIO}x lufs=${LUFS} size=${SIZE}"
+      - name: Tải lên file mp3 thử
+        uses: actions/upload-artifact@v4
+        with:
+          name: sinners-poc-part-aa
+          path: poc-sinners/part_aa.mp3
+          retention-days: 7
