@@ -1,17 +1,20 @@
 # Dark Monergism-style og images (1200x630 JPEG) for hand-built root pages.
-# Style: dark warm black-green background, gold frame + kicker, cream serif title,
-# faded Dore engraving on the right, dark-gold bottom band. Rendered with PIL
-# (exact Vietnamese text, DejaVu fonts) — never AI-generated, so diacritics stay correct.
+# v2 (2026-11-19): PICTURE-FIRST — each page gets its own full-bleed classical
+# oil painting (AI-generated, no text in the art) under a dark gradient, so the
+# card reads as a painting with words on it, like the Monergism reference grid —
+# not a dark empty panel with a small faded engraving (v1 mistake, Duc 19/11).
+# Text stays PIL + DejaVu (exact Vietnamese, diacritics correct).
 # Sig files use the same formula as tools/og_images.py so a future regen skips them:
 #   md5("v4|" + path + "|" + title + "|" + desc)[:12]  (title/desc HTML-UNESCAPED)
+# NOTE: the sig covers path+title+desc only, NOT the art — after changing art,
+# delete the old og/<slug>.jpg first or the script will skip as "unchanged".
 # Usage: python3 tools/og_dark.py   (run from repo root)
 import hashlib, html, os, re
 from PIL import Image, ImageDraw, ImageFont
 
 _OGFD = "/usr/share/fonts/truetype/dejavu/"
-_BG = (20, 24, 20)          # near-black green
 _GOLD = (198, 162, 96)      # gold accent
-_GOLD_DIM = (168, 158, 138) # muted gold-grey
+_GOLD_DIM = (188, 176, 152) # muted gold-grey (lighter than v1: reads over paintings)
 _CREAM = (242, 236, 220)    # cream title
 _BAND = (46, 38, 26)        # bottom band
 
@@ -31,35 +34,50 @@ def _wrap(d, t, font, w):
         out.append(cur)
     return out
 
-def _art():
-    if not os.path.exists("img/dore-sermon.jpg"):
-        return None
-    a = Image.open("img/dore-sermon.jpg").convert("L").resize((420, 560))
-    # darken toward the background so it reads as a faint engraving, not a photo
-    a = Image.blend(Image.new("L", a.size, 28), a, 0.42).convert("RGB")
-    m = Image.new("L", a.size, 255)
-    md = ImageDraw.Draw(m)
-    for x in range(160):
-        md.line([(x, 0), (x, 560)], fill=int(255 * x / 160))
-    return (a, m)
+def _cover(path, w, h):
+    """Cover-crop an image to w x h, centred."""
+    im = Image.open(path).convert("RGB")
+    iw, ih = im.size
+    s = max(w / iw, h / ih)
+    im = im.resize((int(iw * s + 0.5), int(ih * s + 0.5)))
+    x = (im.size[0] - w) // 2
+    y = (im.size[1] - h) // 2
+    return im.crop((x, y, x + w, y + h))
 
-# (page path, kicker, og:title, og:description) — titles/descs HTML-UNESCAPED
+def _shade(im):
+    """Darken the painting so cream/gold text reads: overall dim + a strong
+    left-to-right gradient (dark where the text sits, clear where the picture
+    shows) + extra darkening at the bottom band."""
+    w, h = im.size
+    base = Image.blend(im, Image.new("RGB", (w, h), (0, 0, 0)), 0.30)
+    mask = Image.new("L", (w, h), 0)
+    px = mask.load()
+    for x in range(w):
+        a = max(0, 205 - int(205 * x / 820)) if x < 820 else 0
+        for y in range(h):
+            v = a
+            if y > 500:
+                v = max(v, int(150 * (y - 500) / 130))
+            px[x, y] = v
+    return Image.composite(Image.new("RGB", (w, h), (0, 0, 0)), base, mask)
+
+# (page path, art file, kicker, og:title, og:description) — titles/descs HTML-UNESCAPED
 PAGES = [
-    ("bat-dau-tu-dau.html", "NGƯỜI MỚI BẮT ĐẦU",
+    ("bat-dau-tu-dau.html", "tools/og-art-src/og-painting-bat-dau.jpg", "NGƯỜI MỚI BẮT ĐẦU",
      "Bắt đầu từ đâu với Thần học Cải chánh? | Reformed Vietnam",
      "Người mới tìm hiểu thần học Cải chánh bắt đầu từ đâu? Năm Sola, Năm điểm TULIP, lộ trình 10 cuốn sách miễn phí và kế hoạch đọc 30 ngày."),
-    ("su-menh-cam-ket.html", "SỨ MỆNH & CAM KẾT",
+    ("su-menh-cam-ket.html", "tools/og-art-src/og-painting-su-menh.jpg", "SỨ MỆNH & CAM KẾT",
      "Sứ mệnh & Cam kết | Reformed Vietnam",
      "Sứ mệnh và cam kết của Reformed Vietnam: thư viện Cải Chánh tiếng Việt miễn phí, dự án cá nhân của David — đây là gì, và không phải là gì."),
-    ("lo-trinh-nhom.html", "LỘ TRÌNH THEO NHÓM",
+    ("lo-trinh-nhom.html", "tools/og-art-src/og-painting-lo-trinh-nhom.jpg", "LỘ TRÌNH THEO NHÓM",
      "Lộ trình theo nhóm — 8 nhóm độc giả | Reformed Vietnam",
      "Lộ trình học Kinh Thánh theo 8 nhóm độc giả: trẻ em, thiếu niên, thanh niên, nam giới, phụ nữ, người đi làm, tân tín hữu và cha mẹ. Chủ đề tháng 12/2026 là Giáng Sinh."),
-    ("quiz.html", "TRẮC NGHIỆM & THẺ GHI NHỚ",
+    ("quiz.html", "tools/og-art-src/og-painting-quiz.jpg", "TRẮC NGHIỆM & THẺ GHI NHỚ",
      "Trắc nghiệm & Thẻ ghi nhớ Giáo Lý | Reformed Vietnam",
      "Trắc nghiệm 10 câu Kinh Thánh và thần học Cải Chánh, cùng 19 thẻ ghi nhớ Giáo Lý Vắn Tắt Westminster (Câu 1–19)."),
 ]
 
-def render(path, kicker, title, desc):
+def render(path, art, kicker, title, desc):
     name = re.sub(r"[^a-z0-9]+", "-", path.lower().replace(".html", "")).strip("-")
     out = f"og/{name}.jpg"
     sig = hashlib.md5(f"v4|{path}|{title}|{desc}".encode("utf-8")).hexdigest()[:12]
@@ -71,10 +89,7 @@ def render(path, kicker, title, desc):
     except OSError:
         pass
     t = re.split(r"\s+[|–]\s+", title)[0].strip()
-    im = Image.new("RGB", (1200, 630), _BG)
-    a = _art()
-    if a:
-        im.paste(a[0], (780, 0), a[1])
+    im = _shade(_cover(art, 1200, 630))
     d = ImageDraw.Draw(im)
     # thin gold frame
     d.rectangle([24, 24, 1175, 605], outline=_GOLD, width=2)
