@@ -31,8 +31,11 @@ Rules (all learned the hard way, rounds 78-95):
     adjudication) -- NOT a defect; the .txt footer is authoritative. A page
     count LOWER than the .txt body IS a defect (content lost) -> FAIL.
   * Flag counts use the prefix "[NEEDS REVIEW" (no closing bracket).
-  * Sitemap is bare concatenation of <url><loc>...</loc></url>, NO </urlset>,
-    NO trailing newline. build_search.py rewrites tim-kiem/index.html from its
+  * Sitemap is valid XML since KT-06 (2026-11-18), exactly the build-pages.py
+    format: <?xml ...?>\n<urlset xmlns="http://www.sitemaps.org/schemas/
+    sitemap/0.9"> + fragments + </urlset>\n. Appenders insert new entries
+    BEFORE </urlset> (legacy fragment files without a wrapper fall back to
+    EOF append). build_search.py rewrites tim-kiem/index.html from its
     template on every run -> revert it to HEAD afterwards (known drift).
   * Live poll: Vercel deploy lag is 4-25 min; an all-404 first try is normal,
     retry before reporting failure. Poll totals are computed from the check
@@ -62,6 +65,7 @@ import subprocess
 import sys
 import time
 import urllib.request
+import xml.etree.ElementTree as ET
 from collections import Counter
 from pathlib import Path
 
@@ -783,15 +787,25 @@ def stage_d_search_sitemap(manifest, dry_run):
         return {"sitemap_before": locs_before,
                 "sitemap_after": locs_before + len(items),
                 "search_before": None, "search_after": None}
-    if raw.endswith("\n"):
-        log("  NOTE: sitemap.xml had a trailing newline (format says none) -- "
-            "stripped before appending")
-        raw = raw.rstrip("\n")
-    sm_path.write_text(raw + entries, encoding="utf-8")
+    if "</urlset>" in raw:
+        assert raw.count("</urlset>") == 1, "sitemap has != 1 </urlset>"
+        new = raw.replace("</urlset>", entries + "</urlset>", 1)
+    else:
+        # Legacy fragment format (pre-KT-06, no wrapper): append at EOF.
+        log("  NOTE: sitemap.xml has no </urlset> (legacy fragment format) -- "
+            "appending at EOF")
+        new = raw.rstrip("\n") + entries
+    sm_path.write_text(new, encoding="utf-8")
     after = sm_path.read_text(encoding="utf-8")
     assert after.count("<loc>") == locs_before + len(items), \
         "sitemap loc count after append wrong"
-    assert not after.endswith("\n"), "sitemap gained a trailing newline"
+    _check = re.sub(r"^<\?xml[^?]*\?>\s*", "", after)
+    if "<urlset" not in _check:
+        _check = "<root>" + _check + "</root>"
+    try:
+        ET.fromstring(_check)
+    except ET.ParseError as e:
+        raise Fail(f"sitemap not well-formed XML after append: {e}")
     log(f"  sitemap locs {locs_before} -> {locs_before + len(items)}")
     search_path = REPO / "data/search-index.json"
     search_before = json.loads(search_path.read_text(encoding="utf-8"))["count"]
@@ -811,8 +825,8 @@ def stage_d_search_sitemap(manifest, dry_run):
         raise Fail(f"search-index missing slugs: {missing} "
                    "(note: key 'u' carries a leading slash)")
     log(f"  search {search_before} -> {sdata['count']} (all {len(items)} slugs present)")
-    # sitemap must be unchanged by build_search (its /tim-kiem/ add is a no-op
-    # without a </urlset> wrapper; if it changed, something else moved)
+    # sitemap must be unchanged by build_search (it only reads the sitemap;
+    # if it changed, something else moved)
     locs_now = sm_path.read_text(encoding="utf-8").count("<loc>")
     if locs_now != locs_before + len(items):
         raise Fail(f"sitemap locs changed by build_search.py: "
