@@ -482,7 +482,7 @@ for _b in _idx:
     _toc_css = ".toc-rd{font:600 12px 'Be Vietnam Pro',system-ui,sans-serif;color:var(--mut);margin-left:6px;text-decoration:none;white-space:nowrap}" + (".toc-sub{margin-left:1.2em}" if "toc-sub" in _toc else "")  # Batch C: only when md sub-headings exist
     _au_slug = _AMAP.get(_au) or _AUTHOR_ALIASES.get(_au)  # Phase 1.3: exact map, then alias
     _au_html = f'<a href="/a/{_au_slug}.html">{E(_au)}</a>' if _au_slug else E(_au)  # Phase 1.3: author bio link when mapped
-    _au_line = f'<p>{_au_html}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f' <span class="rv-badge rv-{_rstat}">{_rbadge}</span></p>'
+    _au_line = f'<p>{_au_html}' + (f' · <i>{E(_orig)}</i>' if _orig else '') + f' <span class="rv-badge rv-{_rstat}">{_rbadge}</span>' + (f' <span class="m">Duyệt bởi {E(str(entry["reviewed"]))}</span>' if isinstance(entry.get("reviewed"), str) and entry["reviewed"].strip() else '') + '</p>'
     _rt_line = f'<p class="m">⏱ Thời gian đọc ước tính: {_rt} · {_words_fmt(_words)} từ (tốc độ 175 từ/phút)</p>'  # Phase 3.4
     # Phase 3.2: resume button. Hidden unless this device has a saved
     # position for the book (reader.html stores rv.pos.vn/<slug> +
