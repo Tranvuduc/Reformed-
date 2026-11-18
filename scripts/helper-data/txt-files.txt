@@ -256,7 +256,6 @@
 137-sermons-several-occasions-two-volumes-howe.txt
 138-su-an-ui-thuoc-linh.txt
 140-soules-conflict-with-it-selfe-1632-sibbes.txt
-141-su-tien-trien-cua-toi-loi-va-hanh-trinh-cua-su-bat-khiet.txt
 143-select-discourses-variety-practical-subjects-by-boston.txt
 145-cac-bai-cau-nguyen-trong-nhieu-dip-khac-nhau.txt
 147-loi-moi-tha-thiet-gui-con-dan-hoi-thanh.txt
@@ -1399,7 +1398,6 @@ arch-warfield-canon-nt.txt
 arch-warfield-difficult-passages.txt
 arch-warfield-four-hymns.txt
 arch-warfield-institutes-history.txt
-arch-warfield-oberlin-perfectionism.txt
 arch-warfield-paul-women-speaking.txt
 arch-warfield-power-god-salvation.txt
 arch-warfield-predestination-confessions.txt
