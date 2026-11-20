@@ -245,6 +245,17 @@ def body_of(text):
     return text.split("TRANSLATION STATUS")[0]
 
 
+def footer_body_of(text):
+    """Footer-convention body (settled R122 #362): lines 11+ -- the text
+    before 'TRANSLATION STATUS' EXCLUDING the 10-line title block -- minus
+    the trailing separator newlines. This is what the .txt footer records
+    (R122: 9,097/2,035) and what the EPUB contains; body_of() keeps the
+    title block and is used for length derivation + page checks only."""
+    before_footer = text.split("TRANSLATION STATUS")[0]
+    lines = before_footer.split("\n")
+    return "\n".join(lines[10:]).rstrip("\n")
+
+
 def derive_length(body):
     bc, bw = len(body), len(body.split())
     return ("dai" if (bw >= 6300 or bc >= 28000) else "vừa"), bc, bw
@@ -292,6 +303,8 @@ def load_items(round_no, txt_source):
             diffs.append(f"{slug}: short mismatch\n  txt-derived: {exp_short}\n  pkt: {row['short']}")
         body = body_of(text)
         length, bc, bw = derive_length(body)
+        fbody = footer_body_of(text)
+        fbc, fbw = len(fbody), len(fbody.split())
         if length != row["length"]:
             diffs.append(f"{slug}: length {length} != packet {row['length']} "
                          f"(body {bc}/{bw})")
@@ -304,6 +317,7 @@ def load_items(round_no, txt_source):
             "slug": slug, "title": row["title"], "short": row["short"],
             "orig": orig, "length": length, "topics": topics, "author": author,
             "body_chars": bc, "body_words": bw,
+            "footer_body_chars": fbc, "footer_body_words": fbw,
             "flags": body.count("[NEEDS REVIEW"),
             "flag_texts": FLAG_RE.findall(body),
             "txt_path": str(p),
@@ -753,6 +767,18 @@ def stage_c_pages(manifest, workdir, dry_run):
            "--txt-dir", str(txtdir)]
     log("  running gen4 (GITHUB_TOKEN transient, not logged)...")
     r = run(cmd, cwd=str(GEN4_DIR), env=env, check=False)
+    # Guard the related-books pool: gen4 checks each book's .txt against
+    # the GitHub HEAD tree, and on a transient tree-fetch failure it falls
+    # back to the staging txtdir (which holds only this round's files) --
+    # pool 1, page ships with ZERO related cards (R122 run #3). A correct
+    # pool is the whole library (~3,483); anything under 100 means the
+    # fallback fired. Fail loudly so a re-run (tree fetch recovers) fixes
+    # it instead of silently publishing a card-less page.
+    m = re.search(r"related-books pool: (\d+)", r.stdout)
+    if m and int(m.group(1)) < 100:
+        raise Fail(f"gen4 related-books pool {m.group(1)} < 100 -- GitHub "
+                   f"tree fetch probably failed and fell back to the "
+                   f"staging txtdir; re-run the pipeline")
     log("  gen4 output tail:\n" + "\n".join(r.stdout.splitlines()[-15:]))
     if r.returncode != 0:
         raise Fail(f"gen4 failed ({r.returncode}):\n{r.stderr[-2000:]}")
@@ -903,6 +929,13 @@ def _epub_text(epub_path):
         except Exception:
             bad.append(d)
             continue
+        # The title page is metadata (title + author, ~21 words), not body
+        # content: it must still parse (checked above) but its words must
+        # not count toward the body-word gate, or every short book fails
+        # the gate on a fixed ~21-word overhead (R122: +29 over the footer
+        # body). The body chapters are the comparison target.
+        if d.rsplit("/", 1)[-1] == "title_page.xhtml":
+            continue
         out.append(" ".join(t.strip() for t in tree.itertext() if t.strip()))
     return "\n".join(out), bad
 
@@ -975,15 +1008,22 @@ def check_epub(epub_path, item):
     if "TRANSLATION STATUS" in text:
         probs.append("epub body still contains the TRANSLATION STATUS footer")
     words = len(text.split())
-    # Pandoc renders <ol> numbers invisibly: extracted words run a few short
-    # of body_words (R121: 10,308 extracted vs 10,321 body = 21 hidden <li>
-    # numbers). Accept a shortfall up to the number of <li> items + slack.
+    # The EPUB contains the footer-convention body (lines 11+, title block
+    # stripped by epub_build), NOT the pipeline body (which keeps the title
+    # block). Compare against footer_body_words: R121 ch001 10,308 vs
+    # footer body 10,321 (-13, 21 hidden <li> numbers); R122 ch001 2,043
+    # vs footer body 2,035 (+8). The title page is already excluded from
+    # _epub_text, so the only systematic gap is the hidden <ol> numbers.
+    # (The pre-fix gate compared against the pipeline body -- 10,396 for
+    # R121 -- and would have failed every round; the R121 gate test passed
+    # only because the item was hand-built with the footer number.)
+    ref_words = item.get("footer_body_words", item["body_words"])
     li_count = 0
     for d in names:
         if d.endswith(".xhtml"):
             li_count += z.read(d).decode("utf-8", errors="ignore").count("<li")
-    if not (item["body_words"] - li_count - 10 <= words <= item["body_words"] + 10):
-        probs.append(f"epub body words {words} vs footer body {item['body_words']} "
+    if not (ref_words - li_count - 10 <= words <= ref_words + 10):
+        probs.append(f"epub body words {words} vs footer body {ref_words} "
                      f"(hidden <ol> numbers {li_count})")
     return probs
 
