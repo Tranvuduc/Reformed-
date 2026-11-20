@@ -76,6 +76,8 @@ SELF_REL = str(SELF.relative_to(REPO))  # tools/round-pipeline.py
 SELF_PYC_DIR = REPO / "tools/__pycache__"
 GEN4 = HOME / "workspace/your_files/helper-deliveries/ken-gen4/gen4.py"
 GEN4_DIR = GEN4.parent
+EPUB_BUILD = GEN4_DIR / "epub_build.py"   # Pandoc 3.1.3 EPUB builder (Molly 20/11: Pandoc standard)
+SACH_BUILD = GEN4_DIR / "sach_build.py"   # /sach/ landing-page builder (template = sach/001)
 COWORK = HOME / "workspace/your_files/coworking"
 DELIV_ROOT = HOME / "workspace/your_files/helper-deliveries"
 BASE = "https://reformedvietnam.com"
@@ -788,6 +790,310 @@ def stage_c_pages(manifest, workdir, dry_run):
         raise Fail("(c) page checks FAIL:\n" + "\n".join(problems))
     log("  (c) PASS")
 
+
+# ------------------------------------------------- stage (f) EPUB + /sach/ --
+# Molly 20/11 (comment 7037030714): Pandoc 3.1.3 is the STANDARD. Every new
+# round book gets BOTH: sach/<slug>.epub (Pandoc 3.0, EPUB 3.0) and
+# sach/<slug>.html (landing page, template = curated sach/001). Forward-only:
+# no backfill of the 3,483 live books (separate batch project, decided later).
+# The first round goes live with both parts only AFTER Molly checks the built
+# page + EPUB in the working tree (she reviews them before the commit commands).
+EPUBCHECK_JAR = Path("/usr/bin/epubcheck")  # symlink to the .jar; run via java -jar
+
+DESC_HEADER = "## MÔ TẢ SÁCH (trang /sach/)"
+DESC_TEMPLATE = """## MÔ TẢ SÁCH (trang /sach/)
+<2-3 câu mô tả cuốn sách, từ nội dung bản dịch>
+VÌ SAO: <1 câu "Vì sao nên đọc">
+"""
+
+
+def parse_sach_desc(round_no, slug):
+    """Read the coordinator's /sach/ description from the round's
+    DELIVERY-NOTE.md (DELIV_ROOT/roundNN/<slug>/DELIVERY-NOTE.md).
+
+    Block format (Molly adds it to the packet template when integration is
+    done; until then the coordinator copies DESC_TEMPLATE above):
+        ## MÔ TẢ SÁCH (trang /sach/)
+        <intro paragraphs, 2-3 sentences>
+        VÌ SAO: <one "Vì sao nên đọc" sentence>
+    The block ends at the next "## " header or EOF. FAILs if the block,
+    the intro or the VÌ SAO line is missing -- the coordinator must write it,
+    it is never auto-generated from the packet."""
+    note = DELIV_ROOT / f"round{round_no}" / slug / "DELIVERY-NOTE.md"
+    if not note.exists():
+        raise Fail(f"{slug}: DELIVERY-NOTE.md missing: {note} "
+                   "(coordinator must add a 'MÔ TẢ SÁCH' block)")
+    lines = note.read_text(encoding="utf-8").split("\n")
+    try:
+        i = next(k for k, ln in enumerate(lines) if ln.strip() == DESC_HEADER)
+    except StopIteration:
+        raise Fail(f"{slug}: DELIVERY-NOTE.md has no '{DESC_HEADER}' block.\n"
+                   "Coordinator: add this block (intro 2-3 sentences + one VÌ SAO line):\n"
+                   + DESC_TEMPLATE)
+    block = []
+    for ln in lines[i + 1:]:
+        if ln.startswith("## "):
+            break
+        block.append(ln)
+    why = None
+    intro_lines = []
+    for ln in block:
+        if ln.strip().startswith("VÌ SAO:"):
+            why = ln.strip()[len("VÌ SAO:"):].strip()
+        else:
+            intro_lines.append(ln)
+    intro = "\n".join(intro_lines).strip()
+    if not intro:
+        raise Fail(f"{slug}: 'MÔ TẢ SÁCH' block has no intro text")
+    if not why:
+        raise Fail(f"{slug}: 'MÔ TẢ SÁCH' block has no 'VÌ SAO: ' line")
+    return intro, why
+
+
+def related_books(slug, author, topics, index):
+    """Related books for the /sach/ page: same author + shared topic first,
+    then same author, then shared topic; index order within each tier; max 3.
+    Uses translations/index.json AFTER stage (b) (the new item is in it)."""
+    pool = [e for e in index if e.get("id") != slug]
+    picked, seen = [], set()
+    tiers = (
+        [e for e in pool if e.get("author") == author
+         and set(e.get("topics", [])) & set(topics)],
+        [e for e in pool if e.get("author") == author],
+        [e for e in pool if set(e.get("topics", [])) & set(topics)],
+    )
+    for tier in tiers:
+        for e in tier:
+            if e["id"] not in seen:
+                picked.append({"slug": e["id"], "short": e["short"],
+                               "author": e.get("author", "")})
+                seen.add(e["id"])
+            if len(picked) == 3:
+                return picked
+    return picked
+
+
+def _epub_text(epub_path):
+    """Extract the readable text of an EPUB's content documents (stdlib only).
+    Returns (text, unparsable_docs): a document that is not well-formed XML
+    (e.g. a literal '<gap>' in the body, the R121 Dan-build failure) is
+    listed in unparsable_docs instead of silently vanishing."""
+    import zipfile
+    from xml.etree import ElementTree as _ET
+    z = zipfile.ZipFile(epub_path)
+    names = z.namelist()
+    opf = next((n for n in names if n.endswith("content.opf")), None)
+    if opf is None:
+        raise Fail(f"epub {epub_path.name}: no content.opf")
+    root = _ET.fromstring(z.read(opf))
+    ns = {"opf": "http://www.idpf.org/2007/opf"}
+    manifest = {it.get("id"): it.get("href")
+                for it in root.findall(".//opf:item", ns)}
+    docs = []
+    for ref in root.findall(".//opf:itemref", ns):
+        href = manifest.get(ref.get("idref"))
+        if not href:
+            continue
+        base = opf.rsplit("/", 1)[0] + "/" if "/" in opf else ""
+        docs.append(base + href)
+    out, bad = [], []
+    for d in docs:
+        try:
+            tree = _ET.fromstring(z.read(d))
+        except Exception:
+            bad.append(d)
+            continue
+        out.append(" ".join(t.strip() for t in tree.itertext() if t.strip()))
+    return "\n".join(out), bad
+
+
+def check_epub(epub_path, item):
+    """Machine gate for one built EPUB. Returns a list of problems (empty = OK).
+    epubcheck (if installed) must report 0 fatals / 0 errors; the structural
+    checks run either way."""
+    probs = []
+    if not epub_path.exists():
+        return [f"epub missing: {epub_path}"]
+    # epubcheck if available (java -jar /usr/bin/epubcheck); else structural only
+    if EPUBCHECK_JAR.exists():
+        r = run(["java", "-jar", str(EPUBCHECK_JAR), str(epub_path)],
+                check=False, capture=True)
+        out = r.stdout + r.stderr
+        # Real summary format (epubcheck 5.x): "Check finished with errors"
+        # followed by "Messages: 1 fatal / 2 errors / 0 warnings / 0 infos".
+        m = re.search(r"Messages:\s*(\d+) fatal / (\d+) errors? / (\d+) warnings?",
+                      out)
+        if m:
+            fatals, errs, warns = int(m.group(1)), int(m.group(2)), int(m.group(3))
+            if fatals or errs:
+                probs.append(f"epubcheck: {fatals} fatal, {errs} errors, "
+                             f"{warns} warnings")
+            elif warns:
+                log(f"  NOTE {epub_path.name}: epubcheck {warns} warnings (allowed)")
+        elif "FATAL" in out or "ERROR" in out:
+            probs.append("epubcheck output has FATAL/ERROR but no Messages line")
+    else:
+        log("  NOTE epubcheck not installed -- structural checks only "
+            "(install: apt-get install epubcheck)")
+    import zipfile
+    try:
+        z = zipfile.ZipFile(epub_path)
+        names = z.namelist()
+    except Exception as e:
+        return probs + [f"epub not a valid zip: {e}"]
+    if not names or names[0] != "mimetype" or z.read("mimetype") != b"application/epub+zip":
+        probs.append("mimetype not first / wrong (EPUB spec)")
+    nav = next((n for n in names if n.endswith("nav.xhtml")), None)
+    if nav is None:
+        probs.append("no nav.xhtml (EPUB 3 TOC missing)")
+    else:
+        nav_text = z.read(nav).decode("utf-8", errors="ignore")
+        if "Mục lục" not in nav_text:
+            probs.append('nav.xhtml TOC title is not "Mục lục"')
+    opf = next((n for n in names if n.endswith("content.opf")), None)
+    if opf is None:
+        probs.append("no content.opf")
+    else:
+        opf_text = z.read(opf).decode("utf-8", errors="ignore")
+        # Pandoc writes <dc:title id="epub-title-1">, so match with a regex,
+        # not a literal string.
+        if not re.search(r"<dc:title[^>]*>" + re.escape(item["short"]) +
+                         r"</dc:title>", opf_text):
+            probs.append(f"content.opf title is not {item['short']!r}")
+        for want in ("dc:language>vi<", 'version="3.0"'):
+            if want not in opf_text:
+                probs.append(f"content.opf missing {want}")
+        if item["author"] not in opf_text:
+            probs.append(f"content.opf missing author {item['author']!r}")
+    text, bad_docs = _epub_text(epub_path)
+    if bad_docs:
+        probs.append("epub content doc(s) not well-formed XML: " +
+                     ", ".join(bad_docs) +
+                     " (a literal '<...>' in the body breaks the parse)")
+    if "AI, chưa duyệt" in text:
+        probs.append("epub body still contains 'AI, chưa duyệt'")
+    if "TRANSLATION STATUS" in text:
+        probs.append("epub body still contains the TRANSLATION STATUS footer")
+    words = len(text.split())
+    # Pandoc renders <ol> numbers invisibly: extracted words run a few short
+    # of body_words (R121: 10,308 extracted vs 10,321 body = 21 hidden <li>
+    # numbers). Accept a shortfall up to the number of <li> items + slack.
+    li_count = 0
+    for d in names:
+        if d.endswith(".xhtml"):
+            li_count += z.read(d).decode("utf-8", errors="ignore").count("<li")
+    if not (item["body_words"] - li_count - 10 <= words <= item["body_words"] + 10):
+        probs.append(f"epub body words {words} vs footer body {item['body_words']} "
+                     f"(hidden <ol> numbers {li_count})")
+    return probs
+
+
+def check_sach_page(page_path, item, desc, why):
+    """Machine gate for one built /sach/ page."""
+    probs = []
+    if not page_path.exists():
+        return [f"sach page missing: {page_path}"]
+    h = page_path.read_text(encoding="utf-8")
+    slug = item["slug"]
+    for want in (f"<title>{item['short']} — {item['author']}</title>",
+                 f'href="https://reformedvietnam.com/sach/{slug}.html"',
+                 f'href="/ban-dich/{slug}.html"',
+                 f'href="/sach/{slug}.epub"',
+                 f"/og/ban-dich-{slug}.jpg",
+                 "Chưa duyệt" if item.get("review_status", "ai-draft") == "ai-draft" else "",
+                 desc.split("\n\n")[0][:40],
+                 why[:40]):
+        if want and want not in h:
+            probs.append(f"sach page missing {want[:60]!r}")
+    for bad in ("{slug}", "{short}", "TODO", "VÌ SAO:"):
+        if bad in h:
+            probs.append(f"sach page contains placeholder {bad!r}")
+    return probs
+
+
+def stage_f_epub_sach(manifest, workdir, dry_run):
+    stage_head("(f) EPUB + /SACH/ (Pandoc 3.1.3 + sach_build.py)")
+    items = manifest["items"]
+    if dry_run:
+        # Regression-test the PREVIOUS round's committed files with the same
+        # code the real run uses. Rounds before the integration have no
+        # sach files -- that is expected, not a failure.
+        prev = manifest["round"] - 1
+        n_bad = 0
+        _pkt, prev_items = load_items(prev, DELIV_ROOT / f"round{prev}")
+        for it in prev_items:
+            slug = it["slug"]
+            ep = REPO / "sach" / f"{slug}.epub"
+            sp = REPO / "sach" / f"{slug}.html"
+            if not ep.exists() and not sp.exists():
+                log(f"  SKIP {slug[:40]}: round-{prev} predates /sach/ + EPUB "
+                    "integration (no committed files yet)")
+                continue
+            probs = check_epub(ep, it) + check_sach_page(sp, it, "", "")
+            if probs:
+                n_bad += 1
+                log(f"  FAIL {slug[:40]}: " + "; ".join(probs))
+            else:
+                log(f"  PASS {slug[:40]} (epub + sach OK)")
+        if n_bad:
+            raise Fail(f"dry-run epub/sach checks: {n_bad} pages FAIL")
+        log("  (f) DRY-RUN PASS")
+        return
+    # ---- real run ----
+    outdir = Path(workdir) / "epub-sach"
+    outdir.mkdir(parents=True, exist_ok=True)
+    idx = json.loads((REPO / "translations/index.json").read_text(encoding="utf-8"))
+    author_map = {}
+    am = REPO / "tools/author-slug-map.json"
+    if am.exists():
+        author_map = json.loads(am.read_text(encoding="utf-8"))
+    problems = []
+    for it in items:
+        slug = it["slug"]
+        txt = REPO / "translations" / (slug + ".txt")
+        if not txt.exists():
+            raise Fail(f"stage (f): translations/{slug}.txt missing (stage (b) "
+                       "should have copied it)")
+        # 1. EPUB (Pandoc 3.1.3; title/author/lang from the .txt itself)
+        r = run([sys.executable, str(EPUB_BUILD), "--txt", str(txt),
+                 "--out", str(outdir)], check=False)
+        if r.returncode != 0:
+            raise Fail(f"epub_build failed for {slug} ({r.returncode}):\n"
+                       f"{r.stderr[-2000:]}")
+        ep = outdir / (slug + ".epub")
+        probs = check_epub(ep, it)
+        # 2. /sach/ page (coordinator's desc/why from DELIVERY-NOTE.md)
+        intro, why = parse_sach_desc(manifest["round"], slug)
+        sach_item = {
+            "slug": slug, "short": it["short"], "author": it["author"],
+            "orig": it["orig"], "topics": it["topics"],
+            "body_words": it["body_words"], "review_status": "ai-draft",
+            "author_slug": author_map.get(it["author"]),
+            "related": related_books(slug, it["author"], it["topics"], idx),
+            "desc": intro, "why": why,
+        }
+        jf = outdir / (slug + ".sach.json")
+        jf.write_text(json.dumps(sach_item, ensure_ascii=False, indent=1),
+                      encoding="utf-8")
+        r = run([sys.executable, str(SACH_BUILD), "--item", str(jf),
+                 "--out", str(outdir)], check=False)
+        if r.returncode != 0:
+            raise Fail(f"sach_build failed for {slug} ({r.returncode}):\n"
+                       f"{r.stderr[-2000:]}")
+        sp = outdir / (slug + ".html")
+        probs += check_sach_page(sp, sach_item, intro, why)
+        if probs:
+            problems.append(f"{slug}: " + "; ".join(probs))
+            continue
+        shutil.copyfile(ep, REPO / "sach" / (slug + ".epub"))
+        shutil.copyfile(sp, REPO / "sach" / (slug + ".html"))
+        log(f"  built sach/{slug[:40]}.epub + sach/{slug[:40]}.html")
+    if problems:
+        raise Fail("(f) epub/sach checks FAIL:\n" + "\n".join(problems))
+    log("  (f) PASS -- Molly: open sach/<slug>.html + sach/<slug>.epub in the "
+        "working tree and check them BEFORE running the commit commands "
+        "(first round with both parts goes live only after your check)")
+
 # ---------------------------------------------- stage (d) search + sitemap --
 def stage_d_search_sitemap(manifest, dry_run):
     stage_head("(d) SEARCH + SITEMAP")
@@ -802,12 +1108,19 @@ def stage_d_search_sitemap(manifest, dry_run):
     for it in items:
         if f"/ban-dich/{it['slug']}.html" in raw:
             raise Fail(f"sitemap already contains {it['slug']} (double-append?)")
+        if f"/sach/{it['slug']}.html" in raw:
+            raise Fail(f"sitemap already contains /sach/{it['slug']}.html "
+                       "(double-append?)")
+    # stage (f) adds /sach/ pages: 2 new locs per book (ban-dich + sach).
+    # build_search.py indexes ban-dich pages ONLY, so the search count still
+    # grows by len(items), not 2*len(items) -- do not "fix" that.
     entries = "".join(
-        f"<url><loc>{BASE}/ban-dich/{it['slug']}.html</loc></url>" for it in items)
+        f"<url><loc>{BASE}/ban-dich/{it['slug']}.html</loc></url>"
+        f"<url><loc>{BASE}/sach/{it['slug']}.html</loc></url>" for it in items)
     if dry_run:
         log("  DRY-RUN: no files written. Would append to sitemap.xml:")
         log(f"   {entries[:200]}{'...' if len(entries) > 200 else ''}")
-        log(f"  sitemap locs {locs_before} -> {locs_before + len(items)} (simulated)")
+        log(f"  sitemap locs {locs_before} -> {locs_before + 2 * len(items)} (simulated)")
         log("  would run: python3 scripts/build_search.py (not run in dry-run)")
         log(f"  search count would go to "
             f"{json.loads((REPO / 'data/search-index.json').read_text(encoding='utf-8'))['count'] + len(items)} (simulated)")
@@ -815,7 +1128,7 @@ def stage_d_search_sitemap(manifest, dry_run):
             "rewrites it (known drift)")
         log("  (d) DRY-RUN PASS (simulation only)")
         return {"sitemap_before": locs_before,
-                "sitemap_after": locs_before + len(items),
+                "sitemap_after": locs_before + 2 * len(items),
                 "search_before": None, "search_after": None}
     if "</urlset>" in raw:
         assert raw.count("</urlset>") == 1, "sitemap has != 1 </urlset>"
@@ -827,7 +1140,7 @@ def stage_d_search_sitemap(manifest, dry_run):
         new = raw.rstrip("\n") + entries
     sm_path.write_text(new, encoding="utf-8")
     after = sm_path.read_text(encoding="utf-8")
-    assert after.count("<loc>") == locs_before + len(items), \
+    assert after.count("<loc>") == locs_before + 2 * len(items), \
         "sitemap loc count after append wrong"
     _check = re.sub(r"^<\?xml[^?]*\?>\s*", "", after)
     if "<urlset" not in _check:
@@ -836,7 +1149,7 @@ def stage_d_search_sitemap(manifest, dry_run):
         ET.fromstring(_check)
     except ET.ParseError as e:
         raise Fail(f"sitemap not well-formed XML after append: {e}")
-    log(f"  sitemap locs {locs_before} -> {locs_before + len(items)}")
+    log(f"  sitemap locs {locs_before} -> {locs_before + 2 * len(items)}")
     search_path = REPO / "data/search-index.json"
     search_before = json.loads(search_path.read_text(encoding="utf-8"))["count"]
     r = run([sys.executable, "scripts/build_search.py"], cwd=str(REPO), check=False)
@@ -858,9 +1171,9 @@ def stage_d_search_sitemap(manifest, dry_run):
     # sitemap must be unchanged by build_search (it only reads the sitemap;
     # if it changed, something else moved)
     locs_now = sm_path.read_text(encoding="utf-8").count("<loc>")
-    if locs_now != locs_before + len(items):
+    if locs_now != locs_before + 2 * len(items):
         raise Fail(f"sitemap locs changed by build_search.py: "
-                   f"{locs_before + len(items)} -> {locs_now}")
+                   f"{locs_before + 2 * len(items)} -> {locs_now}")
     # tim-kiem/index.html drift: build_search rewrites it from its template
     diffed = git("diff", "--name-only").split()
     if "tim-kiem/index.html" in diffed:
@@ -869,7 +1182,7 @@ def stage_d_search_sitemap(manifest, dry_run):
         assert "tim-kiem/index.html" not in diffed, "tim-kiem revert failed"
         log("  tim-kiem/index.html reverted to HEAD (known build_search drift)")
     log("  (d) PASS")
-    return {"sitemap_before": locs_before, "sitemap_after": locs_before + len(items),
+    return {"sitemap_before": locs_before, "sitemap_after": locs_before + 2 * len(items),
             "search_before": search_before, "search_after": sdata["count"]}
 
 
@@ -883,7 +1196,8 @@ def print_commit_commands(manifest, counts):
     for it in manifest["items"]:
         page_files += [f"ban-dich/{it['slug']}.html", f"txt/{it['slug']}.txt",
                        f"og/ban-dich-{it['slug']}.jpg",
-                       f"og/ban-dich-{it['slug']}.jpg.sig"]
+                       f"og/ban-dich-{it['slug']}.jpg.sig",
+                       f"sach/{it['slug']}.html", f"sach/{it['slug']}.epub"]
     page_files += ["sitemap.xml", "data/search-index.json"]
     log("\n===== COMMIT COMMANDS (Molly runs these; the script never commits) =====")
     log("  # 1. index commit")
@@ -908,6 +1222,7 @@ def write_state(manifest, counts):
         "check_string": {it["slug"]: check_string(it) for it in manifest["items"]},
         "index_lite_after": manifest["index_after"],
         "sitemap_after": counts["sitemap_after"],
+        "sach_after": counts["sitemap_after"],  # same number; sach locs are in the sitemap
         "search_after": counts["search_after"],
     }
     p = COWORK / f"r{manifest['round']}-pipeline-state.json"
@@ -951,11 +1266,16 @@ def stage_e_live_poll(round_no):
                ("search", "search", None)]
     for s in slugs:
         checks.append((f"og {s[:24]}", "og", s))
+    for s in slugs:
+        checks += [(f"sach {s[:24]} 200", "sach", s),
+                   (f"sach {s[:24]} title", "sachtitle", s),
+                   (f"epub {s[:24]} 200", "epub", s)]
     checks.append(("homepage", "home", None))
     total = len(checks)
     log(f"  {total} checks (computed from the check list, never hand-counted): "
         f"{len(slugs)} pages x (200+title+badge+flags) + lite + sitemap + "
-        f"search + {len(slugs)} og + homepage")
+        f"search + {len(slugs)} og + {len(slugs)} sach x (200+title) + "
+        f"{len(slugs)} epub + homepage")
     deadline = time.time() + 25 * 60
     attempt = 0
     with open(log_path, "a", encoding="utf-8") as lf:
@@ -1033,6 +1353,19 @@ def run_one_live_check(kind, slug, st):
         if kind == "og":
             code, _ = fetch(f"{BASE}/og/ban-dich-{slug}.jpg")
             return (code == 200, f"code={code}")
+        if kind == "sach":
+            code, _ = fetch(f"{BASE}/sach/{slug}.html")
+            return (code == 200, f"code={code}")
+        if kind == "sachtitle":
+            code, body = fetch(f"{BASE}/sach/{slug}.html")
+            if code != 200:
+                return False, f"code={code}"
+            text = body.decode("utf-8", errors="ignore")
+            want = st["check_string"][slug]
+            return (want.lower() in text.lower(), f"missing {want!r}")
+        if kind == "epub":
+            code, body = fetch(f"{BASE}/sach/{slug}.epub")
+            return (code == 200 and len(body) > 1000, f"code={code} bytes={len(body)}")
         if kind == "home":
             code, body = fetch(f"{BASE}/")
             t = body.decode("utf-8", errors="ignore")
@@ -1060,6 +1393,18 @@ def preflight(round_no, allow_dirty=False):
         log("  working tree clean")
     if not GEN4.exists():
         raise Fail(f"gen4 not found: {GEN4}")
+    for tool, want in ((EPUB_BUILD, "epub_build.py"), (SACH_BUILD, "sach_build.py")):
+        if not tool.exists():
+            raise Fail(f"stage (f) builder missing: {tool} ({want})")
+    r = run(["pandoc", "--version"], check=False)
+    if r.returncode != 0:
+        raise Fail("pandoc not found -- stage (f) needs Pandoc 3.1.3 "
+                   "(Molly 20/11: Pandoc is the EPUB standard)")
+    ver = r.stdout.splitlines()[0] if r.stdout else ""
+    if "3.1.3" not in ver:
+        raise Fail(f"pandoc version is {ver!r}, want 3.1.3 (the approved "
+                   "standard) -- install 3.1.3 before staging")
+    log(f"  pandoc 3.1.3 OK ({ver})")
     try:
         import PIL  # noqa: F401
     except ImportError:
@@ -1108,6 +1453,7 @@ def main():
         if not args.dry_run:
             log("  (b) PASS")
         stage_c_pages(manifest, workdir, args.dry_run)
+        stage_f_epub_sach(manifest, workdir, args.dry_run)
         counts = stage_d_search_sitemap(manifest, args.dry_run)
         if args.dry_run:
             log("\nDRY-RUN COMPLETE: no files were written. "
@@ -1116,10 +1462,11 @@ def main():
             return 0
         write_state(manifest, counts)
         print_commit_commands(manifest, counts)
-        log("\nSTAGES (a)-(d) PASS. The script stops here by design: it never "
+        log("\nSTAGES (a)-(f) PASS. The script stops here by design: it never "
             "commits or pushes. Molly reviews the exception report above (empty "
-            "= clean), runs the two commit commands, waits for the Vercel "
-            "deploy, then runs --live.")
+            "= clean), checks the built sach/<slug>.html + sach/<slug>.epub in "
+            "the working tree, runs the two commit commands, waits for the "
+            "Vercel deploy, then runs --live.")
         return 0
     except Fail as e:
         log(f"\n*** FAIL ***\n{e}")
