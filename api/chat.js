@@ -25,8 +25,11 @@
 //      trường Cải Chánh + ngữ cảnh từ trang (sách khớp, Hỏi Đáp khớp,
 //      các mục chính) để trả lời có link thật thay vì chung chung.
 //   5. Kiểm chứng mọi trích dẫn Kinh Thánh trong câu trả lời đối chiếu
-//      dữ liệu 1934 (data/bible-refs.json, 66 sách / 1.189 chương / 31.102 câu).
-//      Trích dẫn không tồn tại -> gỡ khỏi câu trả lời, ghi chú rõ.
+//      dữ liệu 1934 (data/bible-refs.json, 66 sách / 1.189 chương / 31.102 câu
+//      + data/verses/<sách>.json: nội dung từng câu, KT-08).
+//      Trích dẫn không tồn tại, hoặc câu trích không nói về ý đang bàn
+//      (không chung token nội dung nào với câu Kinh Thánh thật) -> gỡ
+//      khỏi câu trả lời, ghi chú rõ.
 //
 // Chỉ lấy tiêu đề/tác giả sách + tóm tắt Hỏi Đáp làm ngữ cảnh cho LLM —
 // KHÔNG đọc nội dung sách (dự án RAG đầy đủ là việc riêng, theo PLAN.md).
@@ -295,6 +298,74 @@ function buildSiteContext(question) {
 // _refIndex: tên chuẩn hoá không dấu -> sách. Regex bắt tên sách DẠNG GỐC
 // (có dấu, như model viết ra) + biến thể hay gặp; tra cứu thì chuẩn hoá
 // không dấu nên "Rô-ma", "Rôma", "Rô ma" đều khớp cùng một sách.
+// Nội dung câu 1934 theo từng sách (KT-08): api/data/verses/<id>.json,
+// sinh bởi tools/gen-verse-index.py từ kinh-thanh/*.html (31.102 câu).
+// Load lười theo sách được trích, cache theo instance như loadData.
+// File thiếu/lỗi -> null: verifyCitations rơi về chỉ kiểm tồn tại.
+const _verseCache = {};
+function loadVerses(bookId) {
+  if (bookId in _verseCache) return _verseCache[bookId];
+  try {
+    const data = JSON.parse(
+      readFileSync(new URL(`./data/verses/${bookId}.json`, import.meta.url), 'utf-8'),
+    );
+    _verseCache[bookId] = data && Array.isArray(data.ch) ? data : null;
+  } catch {
+    _verseCache[bookId] = null;
+  }
+  return _verseCache[bookId];
+}
+// Câu chứa trích dẫn: từ sau dấu kết câu / xuống dòng gần nhất trước
+// offset tới dấu kết câu / xuống dòng gần nhất sau offset.
+function sentenceAround(text, offset, len) {
+  const before = text.slice(0, offset);
+  const after = text.slice(offset + len);
+  const start = Math.max(
+    before.lastIndexOf('.'), before.lastIndexOf('!'),
+    before.lastIndexOf('?'), before.lastIndexOf('\n'),
+  ) + 1;
+  let end = after.length;
+  for (const m of ['.', '!', '?', '\n']) {
+    const i = after.indexOf(m);
+    if (i !== -1 && i < end) end = i;
+  }
+  return text.slice(start, offset + len + end);
+}
+// Từ chức năng tiếng Việt KHÔNG tính là bằng chứng khớp nội dung
+// (trợ từ/phó từ hay gặp cả trong câu trả lời lẫn Kinh Thánh — chỉ riêng
+// chúng trùng nhau không chứng tỏ trích dẫn đúng ý; ví dụ "phải" có
+// trong 1 Tê-sa-lô-ni-ca 5:14 nên không lọc nó thì ca lỗi live đó lọt).
+// Dạng đã chuẩn hoá không dấu (khớp với tokens()); chỉ những từ KHÔNG
+// gây nhập nhằng nghĩa mới có trong danh sách ("đang" nhập với "đáng",
+// "mới" nhập với "mọi", "Con" nhập với "còn" nên KHÔNG đưa vào).
+const CITATION_FUNCTION_WORDS = new Set([
+  'phai', 'cung', 'lai', 'rat', 'nen', 'vua', 'thoi', 'nhu',
+  'chung', 'nay', 'chi', 'tat', 'het', 'luon',
+]);
+function contentTokens(s) {
+  return tokens(s).filter((t) => !CITATION_FUNCTION_WORDS.has(t));
+}
+// Token nội dung của (các) câu được trích — hợp nhất khi là khoảng câu
+// (qua chương cũng được). Trả null khi thiếu dữ liệu (không kiểm nội dung).
+function verseTokens(book, ch, vStart, vEnd, endCh) {
+  const data = loadVerses(book.id);
+  if (!data) return null;
+  const toks = new Set();
+  const lastCh = endCh !== undefined ? endCh : ch;
+  const lastV = vEnd !== undefined ? vEnd : vStart;
+  for (let c = ch; c <= lastCh; c += 1) {
+    const chap = data.ch[c - 1];
+    if (!chap) return null;
+    const from = c === ch ? vStart : 1;
+    const to = c === lastCh ? lastV : chap.length;
+    for (let v = from; v <= to; v += 1) {
+      const text = chap[v - 1];
+      if (typeof text !== 'string') return null;
+      for (const t of contentTokens(text)) toks.add(t);
+    }
+  }
+  return toks;
+}
 let _refIndex = null; // normName -> { name, v:[...] }
 function refIndex() {
   if (_refIndex) return _refIndex;
@@ -347,7 +418,8 @@ function verifyCitations(answer) {
   const idx = refIndex();
   const re = refRegex();
   let removed = 0;
-  const cleaned = answer.replace(re, (match, bookRaw, chStr, vStr, endChStr, endVStr) => {
+  let removedContent = 0;
+  const cleaned = answer.replace(re, (match, bookRaw, chStr, vStr, endChStr, endVStr, offset, full) => {
     // Số La Mã đầu tên sách -> số Ả Rập ("I Giăng" -> "1 Giăng").
     let key = norm(bookRaw).replace(/^(iii|ii|i) /, (mm) => ({ i: '1 ', ii: '2 ', iii: '3 ' })[mm.trim()] || mm);
     const book = idx.get(key);
@@ -357,17 +429,34 @@ function verifyCitations(answer) {
     if (vStr !== undefined) {
       const v = parseInt(vStr, 10);
       if (v < 1 || v > book.v[ch - 1]) { removed += 1; return ''; }
+      let endCh = ch;
+      let endV = v;
       if (endVStr !== undefined) {
-        const endV = parseInt(endVStr, 10);
-        const endCh = endChStr !== undefined ? parseInt(endChStr, 10) : ch;
+        endV = parseInt(endVStr, 10);
+        endCh = endChStr !== undefined ? parseInt(endChStr, 10) : ch;
         if (endCh < 1 || endCh > book.v.length || endV < 1 || endV > book.v[endCh - 1]) {
           removed += 1; return '';
         }
       }
+      // KT-08 — kiểm NỘI DUNG, không chỉ tồn tại: câu trích phải chia sẻ
+      // ít nhất 1 token nội dung với câu Kinh Thánh thật. Dù diễn đạt lại,
+      // tiếng Việt vẫn chung ít nhất 1 từ nội dung ("yêu thương",
+      // "cầu nguyện", "ăn năn"...). Không chung token nào -> trích sai nội
+      // dung cho ý đang bàn -> gỡ như trích không tồn tại. Ngưỡng 0 là
+      // mức bảo thủ nhất: chỉ gỡ khi hoàn toàn không liên quan về từ ngữ
+      // (ví dụ live: 1 Tê-sa-lô-ni-ca 5:14 gắn cho ý cầu nguyện).
+      // Trích cả chương (không có số câu) thì không kiểm nội dung.
+      const vt = verseTokens(book, ch, v, endV, endCh);
+      if (vt) {
+        const sent = sentenceAround(full, offset, match.length);
+        if (!contentTokens(sent).some((t) => vt.has(t))) {
+          removed += 1; removedContent += 1; return '';
+        }
+      }
     }
-    return match; // tồn tại thật -> giữ nguyên
+    return match; // tồn tại thật + khớp nội dung -> giữ nguyên
   });
-  return { text: cleaned.replace(/[ \t]{2,}/g, ' ').trim(), removed };
+  return { text: cleaned.replace(/[ \t]{2,}/g, ' ').trim(), removed, removed_content: removedContent };
 }
 
 // ---------------------------------------------------------------- lớp 4: gọi Gemini
@@ -586,6 +675,7 @@ export default async function handler(req, res) {
       answer,
       source: ai.source,
       removed_citations: v.removed,
+      removed_content: v.removed_content,
     });
   } catch (e) {
     // Không bao giờ lộ stack trace / chi tiết lỗi ra ngoài.
