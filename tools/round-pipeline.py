@@ -511,7 +511,9 @@ def roman_corruptions(title):
 
 
 def fix_titlecase(html_text, slug, title):
-    """Output-only fix of gen4's Roman-numeral title-casing. Returns new text."""
+    """Output-only fix of gen4's Roman-numeral title-casing, plus tripwires
+    (unexpected Xx.. tokens, standalone 'AI', lower-after-paren).
+    Returns new text."""
     fixed = html_text
     for correct, corrupt in roman_corruptions(title):
         n_before = fixed.count(corrupt)
@@ -539,6 +541,34 @@ def fix_titlecase(html_text, slug, title):
         raise Fail(f"{slug}: standalone 'AI' in title/h1 -- "
                    f"the Vietnamese pronoun 'ai' must be 'Ai' (fix output-only, "
                    f"then recompute .sig)")
+    # tripwire: "lower-after-paren" in title/h1 (KT-04 verify_clean rule).
+    # _titlecase_vi capitalizes the first cased letter after "(" -- the
+    # ONLY words allowed lowercase there are the KT-07 keep-lower set
+    # ("de", "van"). A lowercase word after "(" (anything else) means
+    # the title-casing missed it -- fail loudly instead of shipping a
+    # half-cased title. Scoped to all-caps source titles: _titlecase_vi
+    # only transforms those; a mixed-case source passes through
+    # untouched, so its paren casing is the author's own (e.g. Bavinck
+    # "(từ Reformed Dogmatics, tập 3)") and must NOT trip.
+    # The reverse misfire is caught too: "(De"/"(Van" capitalized means
+    # the _PAREN_KEEP_LOWER rule was lost -- the exact KT-10 failure
+    # class (a _titlecase_vi dependency changed without its dependents
+    # following: R121 staging died on NameError _TC_WORD).
+    if title.isupper():
+        hay_u = html.unescape(hay)
+        for m in re.finditer(r"\(", hay_u):
+            nxt = hay_u[m.end():m.end() + 1]
+            if nxt and nxt.islower():
+                word = re.match(r"[a-zà-ỹđ]+", hay_u[m.end():])
+                if word and word.group(0) not in ("de", "van"):
+                    raise Fail(f"{slug}: lower-after-paren in title/h1: "
+                               f"'({word.group(0)}' -- the word after '(' "
+                               f"must be capitalized (only 'de'/'van' stay "
+                               f"lowercase, KT-07)")
+        for m in re.finditer(r"\((De|Van)\b", hay_u):
+            raise Fail(f"{slug}: paren-keep-lower violated in title/h1: "
+                       f"'({m.group(1)}' -- '{m.group(1).lower()}' must stay "
+                       f"lowercase after '(' (KT-07)")
     return fixed
 
 
