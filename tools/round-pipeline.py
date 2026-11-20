@@ -1055,7 +1055,7 @@ def stage_f_epub_sach(manifest, workdir, dry_run):
             raise Fail(f"stage (f): translations/{slug}.txt missing (stage (b) "
                        "should have copied it)")
         # 1. EPUB (Pandoc 3.1.3; title/author/lang from the .txt itself)
-        r = run([sys.executable, str(EPUB_BUILD), "--txt", str(txt),
+        r = run([sys.executable, str(EPUB_BUILD), slug, "--txt", str(txt),
                  "--out", str(outdir)], check=False)
         if r.returncode != 0:
             raise Fail(f"epub_build failed for {slug} ({r.returncode}):\n"
