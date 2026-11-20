@@ -117,6 +117,14 @@ def _md_inline(s):
 _ACRONYMS = {"WSC", "KJV", "NKJV", "ESV", "NASB", "NIV", "BDM", "CCEL", "EPUB",
              "PDF", "MP3", "URL", "HTML", "DVD", "CD", "BD", "NT", "OT"}
 _ROMAN = _r.compile(r"^[IVXLCDM]+$")
+_TC_WORD = _r.compile(r"^([^\wÀ-ỹ]*)(.*?)([^\wÀ-ỹ]*)$")
+_PAREN_KEEP_LOWER = {"de", "van"}  # Latin "de", Dutch "van" stay lowercase after "("
+# Vietnamese words whose letters all happen to be Roman symbols (DI=501,
+# IM, MI) — never numerals in a book title (KT-04 LEGIT_WORDS). No current
+# raw title has one standalone, but a future round could; exempt defensively.
+_LEGIT_WORDS = {"DI", "IM", "MI"}
+
+
 def _is_vowel(ch):
     """Vietnamese vowel test without unicodedata: ASCII vowels, plus any
     non-ASCII letter except Đ (every other non-ASCII Vietnamese letter is
@@ -126,36 +134,82 @@ def _is_vowel(ch):
     if ch == "Đ":
         return False
     return not ch.isascii()
+
+
 def _keep_caps(core):
     """True when an all-caps word is probably an acronym / numeral, not a
-    Vietnamese word: explicit allowlist, Roman numerals (I..VIII), a single
-    ASCII letter, or a word with no vowel at all (WSC, KJV, BDM).
+    Vietnamese word: explicit allowlist, Roman numerals (any length),
+    a single ASCII letter, or a word with no vowel at all (WSC, KJV, BDM).
     NOTE: a length rule does NOT work here — most Vietnamese words are
-    2-4 letters ('ĐÁ', 'CHO', 'LÝ' would all be wrongly kept)."""
+    2-4 letters ('ĐÁ', 'CHO', 'LÝ' would all be wrongly kept).
+    KT-07: removed the old `len(core) <= 5` Roman cap (XXXIII -> Xxxiii)."""
     if not core or not core.isupper():
         return False
+    if core in _LEGIT_WORDS:
+        return False  # KT-07: "DI"/"IM"/"MI" là chữ Việt, không phải số La Mã
     if core in _ACRONYMS:
         return True
-    if _ROMAN.match(core) and len(core) <= 5:
+    if _ROMAN.match(core):
         return True
     if len(core) == 1 and core.isascii():
         return True
     return not any(_is_vowel(ch) for ch in core)
+
+
+def _tc_part(s):
+    """Titlecase one dash-free part: Roman/acronym/no-vowel kept, else first
+    letter upper + rest lower (hyphen syllables stay lower: E-XO-RA -> E-xo-ra)."""
+    if s not in _LEGIT_WORDS and (_ROMAN.match(s) or s in _ACRONYMS
+                                  or not any(_is_vowel(ch) for ch in s)):
+        return s
+    return s[0].upper() + s[1:].lower() if s else s
+
+
+def _tc_segment(seg):
+    """One em-dash segment. ASCII-hyphen parts: keep upper only when EVERY
+    part is Roman ("XII-XIV"); otherwise the whole word is capitalized
+    once ("E-XO-RA" -> "E-xo-ra"). En-dash ranges: keep when all Roman."""
+    hp = seg.split("-")
+    if len(hp) > 1 and all(_ROMAN.match(p) for p in hp):
+        return seg
+    parts = seg.split("–")
+    if len(parts) > 1 and all(_ROMAN.match(p) for p in parts):
+        return seg
+    return "–".join(_tc_part(p) for p in parts)
+
+
 def _titlecase_vi(t):
     """Render-time Title Case for ALL-CAPS titles (M7). Display only.
     Rule: transform only when every cased char is uppercase (str.isupper()).
-    Word-by-word titlecase, except words _keep_caps() identifies as probable
-    acronyms/numerals, which stay verbatim. Mixed-case titles pass through
+    Word-by-word titlecase: Roman numerals (any length) and acronyms stay
+    verbatim; the first cased letter after leading punctuation ((, ", —, –)
+    is capitalized; "VI" after PHẠM/HÀNH/TINH is the Vietnamese word `vi`;
+    Latin "de" / Dutch "van" right after "(" stay lowercase; "DI"/"IM"/"MI"
+    are Vietnamese words, never numerals. Mixed-case titles pass through
     untouched."""
     if not t or not t.isupper():
         return t
     _out = []
-    for _w in t.split(" "):
-        _core = _w.strip(".,;:!?()\"'«»—–-")
-        if _keep_caps(_core):
+    _words = t.split(" ")
+    for _i, _w in enumerate(_words):
+        _m = _TC_WORD.match(_w)
+        _pre, _core, _post = _m.group(1), _m.group(2), _m.group(3)
+        if not _core:
+            _out.append(_w)
+            continue
+        if _core == "VI" and _i > 0:
+            _prev = _TC_WORD.match(_words[_i - 1]).group(2)
+            if _prev in ("PHẠM", "HÀNH", "TINH"):
+                _out.append(_pre + "Vi" + _post)
+                continue
+        if _pre.endswith("(") and _core.lower() in _PAREN_KEEP_LOWER:
+            _out.append(_pre + _core.lower() + _post)
+            continue
+        if _core not in _LEGIT_WORDS and (_ROMAN.match(_core) or _core in _ACRONYMS):
             _out.append(_w)
         else:
-            _out.append(_w.capitalize())
+            _fixed = "—".join(_tc_segment(_s) for _s in _core.split("—"))
+            _out.append(_pre + _fixed + _post)
     return " ".join(_out)
 _TOTOP_CSS = ".totop{position:fixed;right:16px;bottom:18px;z-index:50;background:var(--accbtn,#7c2128);color:#fff;padding:8px 14px;border-radius:999px;text-decoration:none;font:600 14px system-ui,sans-serif;box-shadow:0 2px 10px rgba(0,0,0,.25)}"
 _TOTOP_MIN = 50 * 1024  # H9: back-to-top only on pages over ~50 KB of body HTML
