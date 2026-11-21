@@ -1035,15 +1035,21 @@ def check_sach_page(page_path, item, desc, why):
         return [f"sach page missing: {page_path}"]
     h = page_path.read_text(encoding="utf-8")
     slug = item["slug"]
+    # Markup wants compare raw; the desc/why TEXT snippets must compare
+    # HTML-escaped (the builder escapes " -> &quot;): R127's intro has a
+    # straight quote inside its first 40 chars and the raw-text comparison
+    # failed a correct page (2026-11-21). Escaping the whole want string
+    # would break the markup wants (their < > " are literal HTML).
     for want in (f"<title>{item['short']} — {item['author']}</title>",
                  f'href="https://reformedvietnam.com/sach/{slug}.html"',
                  f'href="/ban-dich/{slug}.html"',
                  f'href="/sach/{slug}.epub"',
                  f"/og/ban-dich-{slug}.jpg",
-                 "Chưa duyệt" if item.get("review_status", "ai-draft") == "ai-draft" else "",
-                 desc.split("\n\n")[0][:40],
-                 why[:40]):
+                 "Chưa duyệt" if item.get("review_status", "ai-draft") == "ai-draft" else ""):
         if want and want not in h:
+            probs.append(f"sach page missing {want[:60]!r}")
+    for want in (desc.split("\n\n")[0][:40], why[:40]):
+        if want and html.escape(want) not in h:
             probs.append(f"sach page missing {want[:60]!r}")
     for bad in ("{slug}", "{short}", "TODO", "VÌ SAO:"):
         if bad in h:
