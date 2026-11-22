@@ -936,7 +936,13 @@ def _epub_text(epub_path):
         # body). The body chapters are the comparison target.
         if d.rsplit("/", 1)[-1] == "title_page.xhtml":
             continue
-        out.append(" ".join(t.strip() for t in tree.itertext() if t.strip()))
+        # <head> is metadata too: the chapter <title> is the filename
+        # ('ch001.xhtml' — 1 phantom word, R131) since Pandoc has no
+        # chapter title to use. Only <body> text counts.
+        ns_x = {"x": "http://www.w3.org/1999/xhtml"}
+        body_el = tree.find(".//x:body", ns_x)
+        src = body_el if body_el is not None else tree
+        out.append(" ".join(t.strip() for t in src.itertext() if t.strip()))
     return "\n".join(out), bad
 
 
@@ -1022,7 +1028,15 @@ def check_epub(epub_path, item):
     for d in names:
         if d.endswith(".xhtml"):
             li_count += z.read(d).decode("utf-8", errors="ignore").count("<li")
-    if not (ref_words - li_count - 10 <= words <= ref_words + 10):
+    # The EPUB legitimately carries the book's short title as the chapter
+    # heading (Pandoc), which the footer body excludes by definition:
+    # R131 ran +11 (10 title words + 1 filename word, now excluded
+    # above) against a +10 band — a calibration miss, not a content
+    # defect (multiset diff: the only real extras are the title heading
+    # + the filename artifact; R130's EPUB carries the same heading and
+    # passed at +7). The title length belongs in the upper tolerance.
+    title_words = len(item.get("short", "").split())
+    if not (ref_words - li_count - 10 <= words <= ref_words + 10 + title_words):
         probs.append(f"epub body words {words} vs footer body {ref_words} "
                      f"(hidden <ol> numbers {li_count})")
     return probs
