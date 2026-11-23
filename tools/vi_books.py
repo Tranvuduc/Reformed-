@@ -89,7 +89,7 @@ _RSTATUS = {"ai-draft": "Bản dịch AI, chưa duyệt", "in-review": "Đang đ
 if not _o.environ.get("VI_BOOKS_KEEP_BANDICH"):
     _s.rmtree("ban-dich", ignore_errors=True)
 
-_CH = _r.compile(r"^((Chương|CHƯƠNG|Phần|PHẦN)\s+(\d+|[IVX]+)\b|Mục \d+\.?$|Lời nói đầu|LỜI NÓI ĐẦU|LỜI TỰA|[IVX]{1,5}\. [A-ZÀ-Ỹ]{3}|BẢNG ĐỐI CHIẾU|ĐỐI CHIẾU GIÁO LÝ|ĐỌC THÊM)")
+_CH = _r.compile(r"^((Chương|CHƯƠNG|Phần|PHẦN)\s+(\d+|[IVXLCDM]+)\b|Mục \d+\.?$|Lời nói đầu|LỜI NÓI ĐẦU|LỜI TỰA|[IVXLCDM]{1,5}\. [A-ZÀ-Ỹ]{3}|BẢNG ĐỐI CHIẾU|ĐỐI CHIẾU GIÁO LÝ|ĐỌC THÊM)")
 _TAIL = _r.compile(r"^(BẢNG ĐỐI CHIẾU|ĐỐI CHIẾU GIÁO LÝ|ĐỌC THÊM)")
 _NOTE = _r.compile(r"^(THUẬT NGỮ MỚI|CẦN DUYỆT)\s*:", _r.I)
 # --- Batch C patch (2026-11-05, site design-consistency fix) ---

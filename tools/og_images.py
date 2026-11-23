@@ -41,6 +41,11 @@ def og_image(path, title, desc=""):
     except OSError:
         pass
     _p = [x.strip() for x in re.split(r"\s+[|–]\s+", title)]; t = _SUFFIX.sub("", _p[0]).strip() or _p[0]; by = _p[1] if len(_p) > 2 or (len(_p) == 2 and path.startswith("b/")) else ""
+    # KT-17 (D3): keep the volume segment ("– TẬP N") in the og title;
+    # the split above drops it, so multi-volume books rendered identical og images.
+    if len(_p) > 1:
+        _vm = re.match(r"(Tập\s+\d+)", _p[1], re.I)
+        if _vm: t = t + " – " + _vm.group(1)
     if not by and path.startswith("ban-dich"):
         _m = re.search(r"của ([^.\n]{3,60}?)(?:\.|$)", desc or ""); by = _m.group(1).strip() if _m else ""
     if desc.startswith("Bản dịch tiếng Việt"): desc = ""  # just repeats the title
