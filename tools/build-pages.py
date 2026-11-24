@@ -561,4 +561,77 @@ sm = "".join(_out)
 # The full-library page is hand-maintained, not generated here; keep it listed.
 if f"{SITE}/thu-vien.html" not in sm:
     sm += f"<url><loc>{SITE}/thu-vien.html</loc></url>"
+# lastmod from real content dates (Quality & Reliability 1.0): the date of the
+# last commit that touched each page file (one `git log` pass over the whole
+# tree). A build regenerates pages, so file mtimes would stamp every date on
+# every deploy — mtimes are used ONLY for genuinely new (untracked) files.
+# Tracked files with no git-log entry (e.g. shallow checkout) keep their
+# previous lastmod, or get none — never a fabricated date. Hub-owned entries
+# preserved verbatim above keep whatever lastmod they already had.
+# lastmod never regresses: max(computed, previous).
+def _lastmod_maps():
+    try:
+        import subprocess
+        _shallow = subprocess.check_output(["git", "rev-parse", "--is-shallow-repository"], text=True, timeout=30).strip() == "true"
+        _out = subprocess.check_output(["git", "-c", "core.quotepath=false", "log", "--format=__D__%cs %H", "--name-only", "--", "."], text=True, timeout=300)
+        _m, _cur, _curh, _boundary = {}, None, None, None
+        for _line in _out.splitlines():
+            if _line.startswith("__D__"):
+                _parts = _line[5:].strip().split(" ", 1)
+                _cur = _parts[0]; _curh = _parts[1] if len(_parts) > 1 else ""
+                _boundary = _curh  # last one seen = oldest commit
+            elif _line.strip() and _cur and _line.strip() not in _m:
+                _m[_line.strip()] = (_cur, _curh)
+        if _shallow and _boundary:
+            # In a shallow clone the oldest ("grafted") commit lists its whole
+            # tree as added, so its date is NOT the files' real change date.
+            # Drop files whose newest appearance is that boundary commit;
+            # they fall back to their previous lastmod (or none) below.
+            _m = {k: d for k, (d, h) in _m.items() if h != _boundary}
+        else:
+            _m = {k: d for k, (d, h) in _m.items()}
+        _tr = set(subprocess.check_output(["git", "-c", "core.quotepath=false", "ls-files", "--cached"], text=True, timeout=120).splitlines())
+        return _m, _tr
+    except Exception:
+        return {}, set()
+_lm_map, _tracked_all = _lastmod_maps()
+_prev_lm = {}
+try:
+    _prev_txt = open("sitemap.xml", encoding="utf-8").read()
+    for _e in re.findall(r"<url>.*?</url>", _prev_txt):
+        _mm = re.search(r"<loc>([^<]+)</loc>", _e); _ll = re.search(r"<lastmod>([^<]+)</lastmod>", _e)
+        if _mm and _ll:
+            _prev_lm[_mm.group(1)] = _ll.group(1)
+except OSError:
+    pass
+def _with_lastmod(_m):
+    _entry = _m.group(0)
+    if "<lastmod>" in _entry:
+        return _entry  # hub-owned entry preserved verbatim
+    _locm = re.search(r"<loc>([^<]+)</loc>", _entry)
+    if not _locm or not _locm.group(1).startswith(SITE + "/"):
+        return _entry
+    _loc = _locm.group(1)
+    _rel = _loc[len(SITE) + 1:] or "index.html"
+    if _rel.endswith("/"):
+        _rel += "index.html"
+    _d = _lm_map.get(_rel)
+    if _d is None:
+        if _rel in _tracked_all:
+            # Content date unknown here (shallow history): keep the previous
+            # lastmod if any, else no lastmod — never stamp from mtime.
+            _d = _prev_lm.get(_loc)
+            if not _d:
+                return _entry
+        else:
+            try:
+                import datetime
+                _d = datetime.date.fromtimestamp(os.path.getmtime(_rel)).isoformat()
+            except OSError:
+                return _entry
+    _old = _prev_lm.get(_loc)
+    if _old and _old > _d:
+        _d = _old
+    return _entry[:-6] + f"<lastmod>{_d}</lastmod></url>"
+sm = re.sub(r"<url>.*?</url>", _with_lastmod, sm)
 open("sitemap.xml", "w", encoding="utf-8").write(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')

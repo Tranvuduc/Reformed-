@@ -4,8 +4,11 @@ Bible Study module launches (2026-11-06):
 
 1. Devotion panel (#tinh-nguyen): element ids + a rotation script that renders
    the visitor's actual today's entry from /data/devotions.json (Build Guide
-   §8: always the real entry for the calendar date). The baked entry remains
-   as the no-JS fallback, with its date stated. The "Sắp ra mắt" status line
+   §8: always the real entry for the calendar date). The date is applied
+   synchronously at parse time in Asia/Ho_Chi_Minh time (vnToday/applyDate),
+   so the box can never show a stale date even if the JSON fetch fails.
+   The baked entry remains as the no-JS fallback and is DATE-AGNOSTIC
+   (no weekday/date/title stated) so crawlers never see a stale date. The "Sắp ra mắt" status line
    becomes real links (today's page, the 366 archive, the Bible reader).
 2. Module directory (#phan-khu): the Ân Điển Mỗi Ngày card now links to
    /suy-ngam/ with a "Có sẵn" pill; the Học Kinh Thánh card becomes a link
@@ -19,22 +22,58 @@ ROTATION_JS = """
 <script>
   (function () {
     var days = ["Chủ Nhật", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy"];
-    fetch("/data/devotions.json").then(function (r) { return r.json(); }).then(function (data) {
-      var now = new Date(), m = now.getMonth() + 1, d = now.getDate();
-      var e = null;
-      data.entries.forEach(function (x) { if (x.month === m && x.day === d) e = x; });
-      if (!e) return;
-      var pad = function (n) { return String(n).padStart(2, "0"); };
+    // "Today" is always Vietnam time: a visitor's device may be in any timezone,
+    // and the site's devotions follow the Asia/Ho_Chi_Minh calendar day.
+    function vnToday() {
+      try {
+        var parts = new Intl.DateTimeFormat("vi-VN", { timeZone: "Asia/Ho_Chi_Minh", weekday: "long", day: "numeric", month: "numeric", year: "numeric" }).formatToParts(new Date());
+        var o = {};
+        parts.forEach(function (p) { o[p.type] = p.value; });
+        return { d: parseInt(o.day, 10), m: parseInt(o.month, 10), y: parseInt(o.year, 10), wd: days.indexOf(o.weekday) };
+      } catch (err) {
+        var now = new Date();
+        return { d: now.getDate(), m: now.getMonth() + 1, y: now.getFullYear(), wd: now.getDay() };
+      }
+    }
+    function pad(n) { return String(n).padStart(2, "0"); }
+    // Date + link need no network: apply them synchronously at parse time, so the
+    // box can never show a stale date or a stale "read today" link even if the
+    // devotions JSON fetch fails. Title/verse/paragraphs still come from the JSON;
+    // until it arrives, the baked-in fallback text below stays.
+    function applyDate(t) {
+      var wd = t.wd < 0 ? new Date().getDay() : t.wd;
       var dd = document.getElementById("devDate");
-      if (dd && dd.childNodes[0]) dd.childNodes[0].textContent = days[now.getDay()] + ", " + d + " tháng " + m + ", " + now.getFullYear() + " · Bài ngày " + d + "/" + m + " trong “Sổ Séc Của Đức Tin” (1888) — bài “" + e.title + "”";
+      if (dd && dd.childNodes[0]) dd.childNodes[0].textContent = days[wd] + ", " + t.d + " tháng " + t.m + ", " + t.y + " · Bài ngày " + t.d + "/" + t.m + " trong “Sổ Séc Của Đức Tin” (1888)";
+      var link = document.getElementById("devTodayLink");
+      if (link) link.setAttribute("href", "/suy-ngam/" + pad(t.m) + "-" + pad(t.d) + ".html");
+    }
+    function applyDevotion(data) {
+      var t = vnToday(), e = null;
+      data.entries.forEach(function (x) { if (x.month === t.m && x.day === t.d) e = x; });
+      if (!e) return;
+      var wd = t.wd < 0 ? new Date().getDay() : t.wd;
+      var dd = document.getElementById("devDate");
+      if (dd && dd.childNodes[0]) dd.childNodes[0].textContent = days[wd] + ", " + t.d + " tháng " + t.m + ", " + t.y + " · Bài ngày " + t.d + "/" + t.m + " trong “Sổ Séc Của Đức Tin” (1888) — bài “" + e.title + "”";
       var v = document.getElementById("devVerse"); if (v) v.textContent = "“" + e.verse + "”";
       var rf = document.getElementById("devRef"); if (rf) rf.textContent = e.ref;
       var p1 = document.getElementById("devP1"), p2 = document.getElementById("devP2");
       if (p1 && e.paras[0]) p1.textContent = e.paras[0];
       if (p2) { if (e.paras[1]) { p2.textContent = e.paras[1]; p2.style.display = ""; } else { p2.style.display = "none"; } }
       var link = document.getElementById("devTodayLink");
-      if (link) link.setAttribute("href", "/suy-ngam/" + pad(m) + "-" + pad(d) + ".html");
-    }).catch(function () {});
+      if (link) link.setAttribute("href", "/suy-ngam/" + pad(t.m) + "-" + pad(t.d) + ".html");
+    }
+    function pickDevotion() {
+      fetch("/data/devotions.json").then(function (r) { return r.json(); }).then(applyDevotion).catch(function () {
+        // One retry: a flaky mobile fetch must not leave a stale devotion up.
+        setTimeout(function () {
+          fetch("/data/devotions.json").then(function (r) { return r.json(); }).then(applyDevotion).catch(function () {});
+        }, 1500);
+      });
+    }
+    applyDate(vnToday());
+    pickDevotion();
+    // Re-pick when a tab kept open from an earlier day is shown again (bfcache).
+    window.addEventListener("pageshow", function (e) { if (e.persisted) pickDevotion(); });
   })();
 </script>
 """
