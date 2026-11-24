@@ -1,0 +1,53 @@
+name: regen-pages
+# Chạy build-pages.py đầy đủ trên Actions rồi commit kết quả lên một nhánh
+# riêng (KHÔNG đụng main). Brio kiểm diff trên nhánh đó rồi mới merge.
+# Lý do: build đầy đủ đã chạy xong trên CI trong ~39 phút (run 45380515445),
+# trong khi VM của Brio chết 4 lần (restart + OOM, RAM 7,9 GB không đủ).
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "Branch to push the regenerated files to"
+        required: false
+        default: "regen-2026-11-24-actions"
+      base:
+        description: "Base ref to build from (default: main)"
+        required: false
+        default: "main"
+permissions:
+  contents: write
+concurrency:
+  group: regen-pages
+  cancel-in-progress: false
+jobs:
+  regen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.base }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pillow
+      - name: Build generated pages
+        run: python3 tools/build-pages.py
+      - name: Site checks (non-blocking, reported only)
+        continue-on-error: true
+        run: |
+          python3 tools/check_site.py
+          node --check app.js
+      - name: Commit regenerated files to branch
+        run: |
+          git config user.name "ken-regen"
+          git config user.email "ken-regen@users.noreply.github.com"
+          git checkout -B "${{ inputs.branch }}"
+          git add -A -- . ':!feed.xml'
+          echo "Files changed: $(git status --short | wc -l)"
+          git commit -m "Regen all generated pages (build-pages.py) — base ${{ inputs.base }}"
+          git push -u origin "${{ inputs.branch }}"
+      - name: Summary
+        run: |
+          echo "Branch: ${{ inputs.branch }}" >> "$GITHUB_STEP_SUMMARY"
+          git show --stat --oneline HEAD | tail -3 >> "$GITHUB_STEP_SUMMARY"
