@@ -5,12 +5,12 @@ import json as _j3, re as _r3, os as _o3, collections as _c3, urllib.parse as _u
 
 _NC3 = _NC + '<style>.nc ol .q{margin:.3em 0;padding:0;border:0;background:none}.print-only{display:none}@media print{nav,footer,.noprint,button{display:none!important}.print-only{display:block}}</style>'  # .sel/.rs/.ct moved to s.css; .q keeps its plain list-item look only inside .nc ol (2026-11-05)
 _idx3 = _j3.load(open("translations/index.json", encoding="utf-8"))
-_pub3 = [b for b in _idx3 if not b.get("hold") and b.get("file") and _o3.path.exists("txt/" + b["file"])]  # Wave 2: 3 live index entries have no 'file' key
+_pub3 = [b for b in _idx3 if not b.get("hold") and b.get("file") and _o3.path.exists("txt/" + _o3.path.basename(b["file"]))]  # Wave 2: 3 live index entries have no 'file' key; 698 entries have file="translations/X.txt" (source path) while txt/ holds the flat X.txt
 _bkv3 = _j3.loads(_r3.search(r'var BKV=(\{.*?\}),BKVRE', open("reader.html", encoding="utf-8").read(), _r3.S).group(1))
 _bkre3 = _r3.compile(r"(?<![\w])(" + "|".join(_r3.escape(x) for x in sorted(_bkv3, key=len, reverse=True)) + r")\s(\d{1,3}):(\d{1,3})(?:[-–](\d{1,3}))?", _r3.I | _r3.U)
 _VN66 = [x[0] for x in _BK]  # Vietnamese names in canonical order (from nang_cap2)
 
-def _stem3(b): return _o3.path.splitext(b["file"])[0]
+def _stem3(b): return _o3.path.splitext(_o3.path.basename(b["file"]))[0]  # basename: "translations/X.txt" -> stem "X", not "translations/X"
 def _blocks3(text):
     """Mirror the reader's paragraph build: blocks split on blank lines, joined by space. Returns [(text, offset)]"""
     out, pos = [], 0
@@ -29,7 +29,7 @@ def _hdr_end3(text):
 
 _B3 = {}   # stem -> dict(title, author, blocks, chars)
 for _b in _pub3:
-    _t = open("txt/" + _b["file"], encoding="utf-8").read()
+    _t = open("txt/" + _o3.path.basename(_b["file"]), encoding="utf-8").read()  # basename: same translations/ reason as _pub3, else FileNotFoundError
     _bl = _blocks3(_t)
     _B3[_stem3(_b)] = {"title": _b.get("title") or _b.get("short") or "", "author": _b.get("author") or _b.get("a") or "", "blocks": _bl, "chars": sum(len(x[0]) for x in _bl)}  # Wave 2: MG-3 entries use short/a
 
