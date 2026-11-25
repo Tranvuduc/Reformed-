@@ -1,8 +1,12 @@
 DẪN DẮT VÀ KỶ LUẬT HỘI THÁNH
 
-David
+David Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 1 giờ · 10.555 từ (tốc độ 175 từ/phút)
 
 Bản nháp do AI (Claude) hỗ trợ soạn, chưa được mục sư duyệt giáo lý. Nhiều câu Kinh Thánh được dịch lại từ tiếng Anh nên có thể khác chữ bản 1934; trong trình đọc, chạm vào địa chỉ câu để xem đúng bản 1934. Hãy đọc với tinh thần Bê-rê và hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
 
 Sách mới, miễn phí, không thương mại. Tác giả (bút danh): David.
 
@@ -463,3 +467,9 @@ TỔNG HỢP CẦN DUYỆT (cho mục sư)
 Bản nháp do AI hỗ trợ soạn, chưa duyệt giáo lý.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

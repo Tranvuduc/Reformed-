@@ -1,8 +1,12 @@
 SÁCH THÁNH CA KINH THÁNH
 
-Horatius Bonar · The Bible hymn-book
+Horatius Bonar · The Bible hymn-book Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 6 giờ 30 phút · 68.195 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -1063,3 +1067,9 @@ Xin hãy đến, Chúa ơi, và lau sạch Lời nguyền rủa, tội lỗi, v�
 Ghi chú: Bản dịch gồm thư gửi tặng đầu sách, trang tiêu đề, Lời Tựa và toàn bộ các thánh ca từ đầu đến cuối sách (kết thúc ở bài thánh ca cuối cùng về sự tái lâm). Đã loại trừ: dấu thư viện Princeton, boilerplate của archive.org, các dòng rác do quét, Mục lục tra cứu theo câu mở đầu (Index to First Lines, chỉ là công cụ tra cứu), tiêu đề chạy trang và số trang (kể cả các dạng bị OCR làm hỏng), cùng các trang quảng cáo của nhà xuất bản sau chữ THE END (danh mục sách của Bonar và catalogue của Carter). Các số La Mã của thánh ca bị OCR làm hỏng đã được khôi phục theo đúng thứ tự; các địa chỉ Kinh Thánh trong câu phương châm bị OCR làm hỏng đã được khôi phục theo đúng đoạn văn được trích dẫn; các lỗi đánh máy OCR rõ ràng đã được sửa theo ngữ cảnh. Những chỗ OCR không đọc được đều đã đánh dấu cờ, không đoán mò.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

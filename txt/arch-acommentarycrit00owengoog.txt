@@ -1,8 +1,14 @@
 BÌNH GIẢI PHÊ BÌNH, GIẢI NGHĨA VÀ THỰC HÀNH VỀ CÁC PHÚC ÂM MA-THI-Ơ VÀ MÁC, DÀNH CHO MỤC SƯ, SINH VIÊN THẦN HỌC, CƠ ĐỐC NHÂN, LỚP KINH THÁNH VÀ TRƯỜNG CHÚA NHẬT
 
-John Owen · A commentary, critical, expository and practical, on the Gospels of Ma
+John Owen · A commentary, critical, expository and practical, on the Gospels of Ma Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 41 giờ 25 phút · 434.591 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Nguồn: Xem bản gốc tại Internet Archive.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -13395,3 +13401,9 @@ là: Sau khi Chúa chúng ta đã phán cùng họ điều này và nhiều đi�
 GHI CHÚ CỦA NGƯỜI DỊCH: Bản dịch này dịch trọn vẹn tác phẩm của John J. Owen, từ Lời Tựa của tác giả, qua Bản Tóm Tắt Đời Sống Của Chúa Giê-xu, Lời Tựa Cho Phúc Âm Ma-thi-ơ, phần bình giải Ma-thi-ơ chương 1–28, rồi phần bình giải Mác chương 1–16, kết thúc bằng ghi chú về Mác 16:20 (“...được nhắc đến trong các câu 17, 18.”). Những phần sau đây KHÔNG được dịch vì không thuộc tác phẩm: các dòng khuôn mẫu do archive.org/Google thêm vào, trang tựa, trang bản quyền, dòng ấn hiệu của nhà in, và phần rác thư viện ở cuối bản quét sau Mác 16:20 (thẻ DATE DUE, dấu DEMCO). Các tiêu đề trang chạy (số trang, MATTHEW./MARK., CHAPTER/CHAP.) và các mảnh rác OCR 1–2 ký tự đã bị loại khi làm sạch nguồn; các đoạn trùng lặp do OCR quét chồng trang được dịch như in, không gộp hay xóa (đáng chú ý: các trang tóm tắt xuất hiện hai lần trong nguồn, P0024–P0040 và P0041–P0058). Bản văn Kinh Thánh in hai cột bị OCR xáo trộn cột nên một số đoạn bình giải và câu Kinh Thánh đọc rời rạc theo từng đoạn đánh dấu; thứ tự các đoạn giữ nguyên theo nguồn, không sắp xếp lại theo mạch đọc. Những chỗ OCR hỏng không đọc được được đánh dấu [NEEDS REVIEW: ...] tại chỗ, không đoán mò. Các quyết định đáng chú ý: năm trên dòng đề ngày ở P0011 giữ nguyên như in (1867) kèm cờ kiểm tra, trong khi trang tựa và dòng đề ngày thứ hai (P0169) ghi 1857; tiêu đề ngày “[A.D.Sfli.” ở P0170 được dịch theo ngữ cảnh thành “[Sau Công nguyên 26.]”; tiêu đề ngày ở chương 08 (“A. D. 81.”, “A. D. SI.”, “JL D. 82.”) được dịch thành 31/31/31/32 theo trình tự niên đại, và “[A. D. 8Si” ở chương 36 thành “[Năm 33 sau Công nguyên.]”, vì nhầm lẫn 8↔3 lan tràn trong bản quét này; ngược lại, nhiều chương khác giữ nguyên số liệu như in (ví dụ tiêu đề “Năm 81”, “Năm 88”, “Năm 89”, “Năm 83/88” và các tham chiếu hỏng như Lu-ca 28:18, 28:84, 88:88, Mác 15:88, 1 Các Vua 2:82) — sự không nhất quán này được ghi nhận chứ không âm thầm thống nhất. Một số người dịch đã chuẩn hóa các chữ số tham chiếu rõ ràng bị OCR hỏng theo ngữ cảnh (chương 04, 12, 15, 16, 18, 34, 38, 43; ví dụ Ê-xê-chi-ên 88 thành 33:31, Giăng 6:86 thành 6:36, “67-61” thành 27:57-61), trong khi các chương khác giữ nguyên như in (ví dụ “Ma-thi-ơ 29:11” ở chương 06, Ma-thi-ơ 27:61-66 ở P6594, chỉ sửa “CHƯƠNG XXVa” thành “CHƯƠNG XXVII” vì không phải số La-mã hợp lệ). Vùng xen cột ở chương 38 (P5122–P5139, đoạn chuyển từ Ma-thi-ơ sang Mác) trong nguồn chỉ là ký hiệu OCR rác nên toàn bộ được đánh dấu kiểm tra. “Thiên Chúa giáo” xuất hiện một lần (chương 16) với nghĩa là tên riêng của Công giáo La-mã, thuộc ngoại lệ được phép và đã kiểm tra ngữ cảnh.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

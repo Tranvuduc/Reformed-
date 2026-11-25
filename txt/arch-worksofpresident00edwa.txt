@@ -1,10 +1,18 @@
 CÁC TÁC PHẨM CỦA JONATHAN EDWARDS, TẬP II (CARTER 1869, CHỈ PHẦN MỚI): NHỮNG QUAN SÁT VỀ CÁC SẮC LỆNH THIÊNG LIÊNG, PHẦN CUỐI CỦA ÂN ĐIỂN HIỆU NGHIỆM VÀ NHỮNG NHẬN XÉT VỀ ĐỨC TIN
 
-Jonathan Edwards · The Works of President Edwards, in Four Volumes (Robert Carter, New York, 1869), Vol. 2
+Jonathan Edwards · The Works of President Edwards, in Four Volumes (Robert Carter, New York, 1869), Vol. 2 Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 7 giờ 30 phút · 78.906 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CÁC TÁC PHẨM CỦA JONATHAN EDWARDS, TẬP II (CARTER 1869, CHỈ PHẦN MỚI): NHỮNG QUAN SÁT VỀ CÁC SẮC LỆNH THIÊNG LIÊNG, PHẦN CUỐI CỦA ÂN ĐIỂN HIỆU NGHIỆM VÀ NHỮNG NHẬN XÉT VỀ ĐỨC TIN Jonathan Edwards (1703–1758) Nguyên tác: The Works of President Edwards, in Four Volumes (Robert Carter, New York, 1869), Vol. 2 Nguồn: Archive.org (bản quét)
 
@@ -15,3 +23,9 @@ NHỮNG QUAN SÁT LINH TINH VỀ CÁC SẮC LỆNH THIÊNG LIÊNG NÓI CHUNG, V�
 GHI CHÚ DỊCH THUẬT: Bản dịch từ The Works of President Edwards, in four volumes, Robert Carter and Brothers, New York, 1869, Tập II (không phải Tập II Carvill 1830 của M191). Chỉ dịch phần mới trong tập này, gồm ba phần: (1) Những quan sát linh tinh về các sắc lệnh thiêng liêng nói chung, §§1–62; (2) phần cuối của bài về Ân Điển Hiệu Nghiệm, §§92–96 theo số in (số § in trong bản quét bị lỗi — thiếu §93, §95 in trùng hai lần, thứ tự 92, 95, 94, 95, 96 — giữ nguyên số in, không đánh lại); (3) toàn văn Những nhận xét về đức tin. Các phần đã có bản dịch đủ nên không dịch lại: Freedom of the Will và Original Sin Defended → M191 (Carvill 1830, Tập II, toàn văn); End for which God Created the World và Nature of True Virtue → AI-2 #234; Remarks on the Essays (Kames) → thu-vien/1000-107; Ân Điển Hiệu Nghiệm §§1–91 → MG-2 #101 (bài “Về Ân Điển Hiệu Nghiệm” trong file mg1-301; số § của MG-2 chạy sau số in của bản quét này do bản quét in trùng §29, nên ranh giới chốt bằng nội dung đoạn triết gia Ấn Độ / voi / rùa, không bằng số §). Các phần đã lược bỏ và không dịch: trang tựa và mục lục của tập, boilerplate của archive.org, bảng tra cứu cuối tập; các tiêu đề chạy trang và số trang trong nguồn được giữ nguyên vị trí như các đoạn. Thuật ngữ: “ân huệ” xuất hiện 2 lần để dịch “favour” (điều kiện của ân huệ Ngài), khác với “grace” → “ân điển” theo bảng 16 từ. Số dấu cần soát lại trong thân bản là 27, đều là những chỗ OCR hỏng không khôi phục chắc chắn được (chủ yếu từ Hy Lạp/Hê-bơ-rơ, ghi chú lề La-tinh và số câu tham chiếu đáng ngờ), đã đánh dấu tại chỗ và không đoán mò.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

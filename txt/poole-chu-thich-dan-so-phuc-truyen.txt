@@ -1,14 +1,20 @@
-CHÚ THÍCH DÂN SỐ & PHỤC TRUYỀN
+CHÚ THÍCH VỀ KINH THÁNH — SÁCH DÂN SỐ KÝ & SÁCH PHỤC TRUYỀN LUẬT LỆ KÝ
 
-Matthew Poole · Annotations upon the Holy Bible, Vol. I: Numbers and Deuteronomy (1700)
+Matthew Poole · Annotations upon the Holy Bible, Vol. I: Numbers and Deuteronomy (1700) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 15 giờ 5 phút · 158.296 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CHÚ THÍCH VỀ KINH THÁNH — SÁCH DÂN SỐ KÝ VÀ SÁCH PHỤC TRUYỀN LUẬT LỆ KÝ
 
-Matthew Poole, *Annotations upon the Holy Bible* (Chú thích về Kinh Thánh), Tập I, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700` (bản scan EEBO); bản sao làm việc: `sources/poole_annotations_1700_djvu.txt`.
+Matthew Poole, Annotations upon the Holy Bible (Chú thích về Kinh Thánh), Tập I, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700` (bản scan EEBO); bản sao làm việc: `sources/poole_annotations_1700_djvu.txt`.
 
 Phạm vi của tập này: chỉ Sách Dân Số Ký và Sách Phục Truyền Luật Lệ Ký (Đơn vị 3 của Tập I). Sáng Thế Ký đã dịch xong (Đơn vị 1); Xuất Ê-díp-tô Ký và Lê-vi Ký thuộc Đơn vị 2; Giô-suê trở đi không thuộc tập này. Nguồn: dòng 44260–67960 của bản scan. Chính ông Poole đã chú thích đến Ê-sai 58; phần còn lại của Tập I là của các tác giả bổ sung.
 
@@ -18,13 +24,9 @@ Về tình trạng bản scan: đây là bản scan EEBO với chữ ſ (s dài)
 
 Thuật ngữ theo bảng thuật ngữ cố định: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh. “Đền tội” không bao giờ dùng để dịch sự chuộc tội của Đấng Christ; “sự chuộc tội” được dùng cho sự đền tội của Đấng Christ.
 
----
-
 LÝ LUẬN VỀ SÁCH DÂN SỐ KÝ.
 
 [Phần Lý Luận này phần lớn không đọc được trong bản scan — hai cột bị xen kẽ và nhiều dòng bị hỏng. Chỉ còn đọc được rời rạc rằng: trong sách này chúng ta có một tường thuật về những cuộc hành trình của con cái Y-sơ-ra-ên qua [không đọc được trong bản scan] từ Ai Cập; [không đọc được trong bản scan] và sự nuôi dưỡng [không đọc được trong bản scan] của họ; [không đọc được trong bản scan] bản báo cáo [không đọc được trong bản scan] của mười [người do thám]; và họ bị bắt buộc phải [không đọc được trong bản scan] trên 38 năm trong [đồng vắng].]
-
----
 
 CHƯƠNG I.
 
@@ -160,8 +162,6 @@ Chú thích: u Được gọi đơn giản là cơn thạnh nộ, một cách nh
 
 54 Và con cái Y-sơ-ra-ên đã làm theo mọi điều Đức Giê-hô-va đã truyền cho Môi-se; họ đã làm như vậy.
 
----
-
 CHƯƠNG II.
 
 Trật tự di chuyển và đóng trại của các chi phái, c.1, 2. Giu-đa ở phía đông, cùng với Y-sa-ca và Sa-bu-lôn, là đội đi đầu, c.3–9. Ru-bên ở phía nam, cùng với Si-mê-ôn và Gát, c.10–16. Rồi đến Đền Tạm, c.17. Ép-ra-im ở phía tây, cùng với Ma-na-se và Bên-gia-min, c.18–24. Đan ở phía bắc, cùng với A-se và Nép-ta-li, c.25–31. Tổng số, c.32. Người Lê-vi không được kiểm kê, c.33, 34.
@@ -253,8 +253,6 @@ Chú thích: k Vì cuộc chiến của họ thuộc một loại khác.
 34 Và con cái Y-sơ-ra-ên đã làm theo mọi điều Đức Giê-hô-va đã truyền cho Môi-se: họ đóng trại theo cờ hiệu của mình như vậy, và họ đi tới như vậy, mỗi người theo họ hàng của mình, theo nhà của tổ phụ mình.
 
 Chú thích: l Tức là, mỗi người dưới cờ hiệu chính của mình.
-
----
 
 CHƯƠNG III.
 
@@ -406,8 +404,6 @@ Chú thích: m Là những người mà mọi người Lê-vi đã được ban 
 
 51 Và Môi-se trao tiền của những người đã được chuộc cho A-rôn và các con trai người, theo lời của Đức Giê-hô-va, như Đức Giê-hô-va đã truyền cho Môi-se.
 
----
-
 CHƯƠNG IV.
 
 Đức Chúa Trời truyền cho người Lê-vi được kiểm kê từ ba mươi tuổi đến năm mươi tuổi, đủ sức phục vụ Đền Tạm: trách nhiệm của họ, c.1–16. Của người Kê-hát, c.17–21. Của người Ghẹt-sôn, c.22–28. Của con cái Mê-ra-ri, c.29–33. Số người của mỗi gia tộc, c.34–45. Của tất cả nói chung, c.46–49.
@@ -552,8 +548,6 @@ Chú thích: Con số này kém xa bất kỳ chi phái nào khác, vì những 
 
 49 Theo mạng lệnh của Đức Giê-hô-va, họ được kiểm kê bởi tay Môi-se, mỗi người theo công việc của mình, và theo gánh nặng của mình: họ được kiểm kê như vậy bởi ông, như Đức Giê-hô-va đã truyền cho Môi-se.
 
----
-
 CHƯƠNG V.
 
 Đức Chúa Trời truyền phải đuổi mọi người ô uế ra khỏi trại; điều ấy được thi hành, c.1–4. Sự bồi thường được truyền, cùng một của lễ, đặc biệt là về những vật thánh thuộc về thầy tế lễ, c.5–10. Luật trong trường hợp ghen tuông, nước đắng được quy định, c.11–31.
@@ -662,8 +656,6 @@ Chú thích: e Về điều đó, xem Lê-vi Ký 2:2.
 
 Chú thích: [Nếu người chồng] hoặc giả vờ hoặc [không đọc được trong bản scan] trong một sự gian ác lớn như vậy, không cố gắng đưa [nàng] đến sự ăn năn hay hình phạt; xem Ma-thi-ơ 1:19. [Hoặc nếu ông] nuôi dưỡng những nghi ngờ trong lòng, và do đó tiến đến ghét nàng hay [đuổi] nàng đi. Trong khi bây giờ, bất kể kết quả ra sao, người chồng [được kể là vô tội, dù là vì đã đưa] nàng đến, hay vì đã làm mất danh dự nàng, nếu nàng tỏ ra vô tội. i Tức là, hình phạt của sự gian ác của nàng, dù nàng đã không chung thủy với [chồng] mình, hay bằng bất kỳ hành vi nhẹ dạ hay dại dột nào đã cho [chồng] mình cớ để nghi ngờ nàng.
 
----
-
 CHƯƠNG VI.
 
 Luật về người Na-xi-rê: họ phải kiêng những gì; khi trở nên ô uế, họ phải được thanh tẩy như thế nào, c.1–12. Khi lời khấn biệt riêng đã trọn, các nghi lễ phải tuân giữ, c.13–21. Hình thức chúc phước mà thầy tế lễ dùng trong hội chúng, c.22–27.
@@ -761,8 +753,6 @@ Chú thích: n Tức là, nhìn ngươi với nét mặt vui vẻ, như một Đ
 27 Và họ sẽ đặt danh ta trên con cái Y-sơ-ra-ên; và ta sẽ ban phước cho họ.
 
 Chú thích: p Tức là, gọi họ bằng danh ta, giới thiệu họ với ta như dân sự của riêng ta, và ban phước cho họ, và cầu nguyện cùng ta cho họ như vậy; đó là một lý lẽ mạnh mẽ để thuyết phục Đức Chúa Trời vì họ, và vì vậy đã thường được các tiên tri dùng khi cầu thay cho họ, như Giê-rê-mi 14:9, Đa-ni-ên 9:18, 19. [So sánh] 1 Sa-mu-ên 12:22. q Ta sẽ xác nhận những lời chúc phước của họ, và ban cho dân sự những phước lành mà các thầy tế lễ cầu nguyện cho.
-
----
 
 CHƯƠNG VII.
 
@@ -978,8 +968,6 @@ Chú thích: s Những lời này được thêm vào một cách rất thích h
 
 Chú thích: t [Môi-se] vào đó, [với tư cách là thầy tế lễ], được phép vào [theo] sự cho phép [đặc biệt] của Đức Chúa Trời. u Tức là, vào [dịp] ấy, mà Môi-se đứng ngoài bức màn cũng có thể dễ dàng nghe được. Và điều này dường như được thêm vào ở đây, để cho thấy rằng khi loài người đã làm phần việc của mình trong việc cung hiến Đền Tạm, [Đức Chúa Trời] cũng không thiếu sót trong việc thực hiện phần việc của Ngài, [như Ngài đã hứa], Xuất Ê-díp-tô Ký 25:22.
 
----
-
 CHƯƠNG VIII.
 
 [Phần Tóm tắt nội dung chương bị hỏng nặng trong bản scan; những mảnh còn đọc được nhắc đến việc thắp các đèn, c.1–4, và việc Đức Chúa Trời truyền cho người Lê-vi phải được thanh tẩy, c.5 trở đi, để họ có thể phục vụ cùng A-rôn và các con trai người thay cho [con đầu lòng].]
@@ -1068,8 +1056,6 @@ Chú thích: x Tức là, phần khó khăn và nặng nhọc trong công việc
 
 [Chú thích: Bản văn của câu này bị hỏng một phần trong bản scan.]
 
----
-
 CHƯƠNG IX.
 
 [Lễ Vượt Qua trong đồng vắng, 1–6. Những người [bị ô uế] không thể giữ lễ ấy [vào ngày đã định] được truyền phải giữ vào tháng thứ hai, 6–12. Những người [sạch sẽ] mà bỏ lễ ấy sẽ bị cắt khỏi dân mình, 13. Người ngoại kiều cũng được giữ lễ Vượt Qua, 14. Đám mây bao phủ Đền Tạm, và dân Y-sơ-ra-ên đi hay dừng theo sự cất lên hay ở lại của nó, 15–23.]
@@ -1149,8 +1135,6 @@ Chú thích: [Không đọc được trong bản scan — những mảnh còn đ
 22 Hoặc dù là hai ngày, hay một tháng, hay một năm, mà đám mây ở lại trên Đền Tạm, còn ở đó, thì con cái Y-sơ-ra-ên ở trong trại mình, và không lên đường; nhưng khi nó được cất lên, họ lên đường.
 
 23 Theo mạng lệnh của Đức Giê-hô-va, họ nghỉ trong trại, và theo mạng lệnh của Đức Giê-hô-va, họ lên đường; họ giữ mạng lệnh của Đức Giê-hô-va, theo mạng lệnh của Đức Giê-hô-va bởi tay Môi-se.
-
----
 
 CHƯƠNG X.
 
@@ -1253,8 +1237,6 @@ Chú thích: Và cả ban đêm nữa, như đã nói trước đây. Vì vậy,
 36 Và khi hòm giao ước dừng lại, người nói rằng: Hãy trở lại, hỡi Đức Giê-hô-va, cùng với muôn nghìn người Y-sơ-ra-ên.
 
 Chú thích: Hay là, ban sự nghỉ ngơi, tức là, một nơi an toàn và yên tĩnh, không còn kẻ thù [và] nguy hiểm.
-
----
 
 CHƯƠNG XI.
 
@@ -1380,8 +1362,6 @@ Chú thích: Tức là, mồ mả của sự tham muốn. [không đọc đượ
 
 Chú thích: Về nơi này, xem Dân Số Ký 33:17 và Phục Truyền Luật Lệ Ký 1:1. [không đọc được trong bản scan]
 
----
-
 CHƯƠNG XII.
 
 Mi-ri-am và A-rôn [không đọc được trong bản scan] đã cưới, (vì người đã cưới một người đàn bà Ê-thi-ô-pi,) 1–3. Đức Chúa Trời truyền cho Mi-ri-am và A-rôn đến đền tạm, họ đã đến, 4, 5. Đức Chúa Trời quở trách A-rôn và Mi-ri-am, 5–9. Mi-ri-am bị phong hủi, 10. [Phần còn lại của phần tóm tắt chương này không đọc được trong bản scan.]
@@ -1441,8 +1421,6 @@ Chú thích: d [Khoảng] thời gian đã định [cho sự thanh tẩy như v�
 Chú thích: e [Việc này] là một chứng cớ [không đọc được trong bản scan] Đức Chúa Trời và [không đọc được trong bản scan], một phần e rằng nàng sẽ bị khinh dể.
 
 16 Sau đó dân chúng rời khỏi Ha-xê-rốt, đóng trại trong đồng vắng Pha-ran.
-
----
 
 CHƯƠNG XIII.
 
@@ -1541,8 +1519,6 @@ Chú thích: l [Đem ra], tức là, ra khỏi miệng họ: họ đã thốt ra
 33 Tại đó chúng tôi đã thấy những người khổng lồ, con cái của A-nác, là dòng dõi của những người khổng lồ; và chúng tôi, theo mắt mình, như châu chấu, và chúng tôi cũng như vậy theo mắt họ.
 
 Chú thích: p Tức là, nhỏ bé và đáng khinh.
-
----
 
 CHƯƠNG XIV.
 
@@ -4382,8 +4358,6 @@ Chú thích: [Đối tượng thờ phượng của chúng ta — không đọc 
 
 25 [Bản văn câu 25 không đọc được trong bản scan.]
 
----
-
 CHƯƠNG VII.
 
 [Phần tóm tắt chương không đọc được trong bản scan.]
@@ -4443,8 +4417,6 @@ Chú thích: x Mà các hình tượng được phủ hay trang hoàng, cũng nh
 26 Ngươi cũng đừng đem điều ghê tởm vào nhà ngươi, e rằng ngươi trở nên vật đáng rủa sả giống như nó: nhưng ngươi sẽ ghê tởm nó hoàn toàn, và ngươi sẽ gớm ghiếc nó hoàn toàn: vì nó là vật đáng rủa sả.
 
 Chú thích: y (Tức là) Bị định cho sự hủy diệt hoàn toàn, như điều ấy đã bị định. Xem Phục Truyền 7:11, 21, 24, v.v.
-
----
 
 CHƯƠNG VIII.
 
@@ -4513,8 +4485,6 @@ Chú thích: q Từ này được dùng như vậy, Dân Số Ký 24:18; Gióp 2
 19 Và sẽ xảy ra rằng, nếu ngươi quên hẳn Đức Giê-hô-va, Đức Chúa Trời ngươi, và đi theo các thần khác, và thờ lạy chúng nó, và sấp mình trước chúng nó, ta làm chứng chống lại các ngươi ngày nay rằng các ngươi chắc chắn sẽ bị diệt vong.
 
 20 Như các dân tộc mà Đức Giê-hô-va hủy diệt trước mặt các ngươi, các ngươi cũng sẽ bị diệt vong như vậy; vì các ngươi đã không vâng theo tiếng của Đức Giê-hô-va, Đức Chúa Trời các ngươi.
-
----
 
 CHƯƠNG IX.
 
@@ -4603,8 +4573,6 @@ Chú thích: [Phần chú thích này phần lớn không đọc được trong 
 28 [Bản văn câu 28 phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “...xứ mà Ngài đã đem chúng ta ra... Đức Giê-hô-va không thể đem chúng nó... vì Ngài ghét chúng nó, Ngài đã đem chúng nó ra để giết chúng nó trong đồng vắng.”]
 
 29 [Bản văn câu 29 phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “...dân của Ngài và cơ nghiệp của Ngài... bởi quyền năng lớn lao của Ngài và bởi cánh tay giơ ra của Ngài... ra khỏi Ai Cập...”.]
-
----
 
 CHƯƠNG X.
 
@@ -5088,247 +5056,247 @@ CHƯƠNG XVII.
 
 [Họ không được dâng những của lễ có tì vết, c. 1. Những kẻ thờ hình tượng phải bị xử tử, c. 2–7. Những nghi vấn trong các vấn đề khó khăn phải được giải quyết bởi các thầy tế lễ và các quan xét, c. 8–13. Chọn một vua trong vòng anh em mình, c. 14, 15, chứ không phải người ngoại, c. 16. Bổn phận của vua, c. 17–20.]
 
-**1** Ngươi sẽ không dâng cho Đức Giê-hô-va, Đức Chúa Trời ngươi, bất kỳ con bò đực hay con chiên nào, trong đó có tì vết, hay bất kỳ sự xấu xí nào; vì điều đó là sự gớm ghiếc đối với Đức Giê-hô-va, Đức Chúa Trời ngươi.
+1 Ngươi sẽ không dâng cho Đức Giê-hô-va, Đức Chúa Trời ngươi, bất kỳ con bò đực hay con chiên nào, trong đó có tì vết, hay bất kỳ sự xấu xí nào; vì điều đó là sự gớm ghiếc đối với Đức Giê-hô-va, Đức Chúa Trời ngươi.
 
 CHƯƠNG 15:21. MA-LA-CHI 1:8.
 
 Chú thích: (Tức là) Hoặc là những của lễ lớn hơn hay nhỏ hơn, tất cả đều được bao gồm trong hai loại nổi bật nhất. Xem Lê-vi Ký 22:20, 21. (Tức là) Đáng gớm ghiếc, như Phục Truyền Luật Lệ 18:12.
 
-**2** Nếu có tìm thấy trong vòng ngươi, trong bất kỳ cổng thành nào của ngươi mà Đức Giê-hô-va, Đức Chúa Trời ngươi, ban cho ngươi, một người nam hay một người nữ đã làm điều ác trước mặt Đức Giê-hô-va, Đức Chúa Trời ngươi, trong việc vi phạm giao ước của Ngài:
+2 Nếu có tìm thấy trong vòng ngươi, trong bất kỳ cổng thành nào của ngươi mà Đức Giê-hô-va, Đức Chúa Trời ngươi, ban cho ngươi, một người nam hay một người nữ đã làm điều ác trước mặt Đức Giê-hô-va, Đức Chúa Trời ngươi, trong việc vi phạm giao ước của Ngài:
 
 CHƯƠNG 13:6.
 
 Chú thích: Sự yếu đuối và mềm mại của phái nữ ấy sẽ không bào chữa cho tội lỗi của nàng, cũng không ngăn cản hình phạt của nàng. (Tức là) Trong sự thờ hình tượng, như được giải thích ở câu 3, điều này được gọi là vi phạm giao ước của Đức Chúa Trời đã lập với Y-sơ-ra-ên, một phần vì đó là sự vi phạm đức tin họ đã hứa với Đức Chúa Trời, và luật pháp mà họ đã giao ước giữ gìn; và chủ yếu vì đó là sự phá vỡ giao ước hôn nhân của họ với Đức Chúa Trời, sự từ bỏ Đức Chúa Trời cùng sự thờ phượng và phục vụ Ngài, và sự chọn các thần khác.
 
-**3** Và đã đi và phục vụ các thần khác, và thờ lạy chúng, hoặc mặt trời, hoặc mặt trăng, hoặc bất kỳ đạo binh nào trên trời, điều mà Ta đã không truyền phán:
+3 Và đã đi và phục vụ các thần khác, và thờ lạy chúng, hoặc mặt trời, hoặc mặt trăng, hoặc bất kỳ đạo binh nào trên trời, điều mà Ta đã không truyền phán:
 
 CHƯƠNG 4:19.
 
 Chú thích: Những tạo vật vinh hiển ấy, đáng được ngưỡng mộ như những công việc kỳ diệu của Đức Chúa Trời, nhưng không được dựng lên thay cho Đức Chúa Trời, cũng không được thờ lạy như các thần; xem Gióp 31:25. Bằng cách lên án những kẻ thờ hình tượng có vẻ hợp lý và có lý nhất, ông ngụ ý rằng việc thờ lạy những khúc gỗ và hòn đá, là công việc của tay loài người, là điều vô lý biết bao. (Tức là) Ta đã cấm, tức là, Xuất Ê-díp-tô Ký 20. Những cách nói phủ định như vậy thường nhấn mạnh và ngụ ý điều ngược lại, như Châm Ngôn 10:2 và 17:21, và 24:23.
 
-**4** Và điều ấy được báo cho ngươi, và ngươi đã nghe về nó, và đã tra xét kỹ lưỡng, và kìa, điều ấy là thật, và việc ấy là chắc chắn, rằng sự gớm ghiếc như vậy đã được làm trong Y-sơ-ra-ên:
+4 Và điều ấy được báo cho ngươi, và ngươi đã nghe về nó, và đã tra xét kỹ lưỡng, và kìa, điều ấy là thật, và việc ấy là chắc chắn, rằng sự gớm ghiếc như vậy đã được làm trong Y-sơ-ra-ên:
 
 Chú thích: Bởi bất kỳ người nào, ngươi chớ [tin] ngay cả một lời đồn thổi về một tội ác ghê gớm như vậy. Bằng cách sai sứ giả, tra xét các nhân chứng, v.v.
 
-**5** Vậy ngươi sẽ đem người nam đó, hay người nữ đó (là những người đã phạm điều ác ấy) ra đến các cổng thành ngươi, tức là người nam đó, hay người nữ đó, và sẽ ném đá họ bằng đá, cho đến khi họ chết.
+5 Vậy ngươi sẽ đem người nam đó, hay người nữ đó (là những người đã phạm điều ác ấy) ra đến các cổng thành ngươi, tức là người nam đó, hay người nữ đó, và sẽ ném đá họ bằng đá, cho đến khi họ chết.
 
 Lê-vi Ký 24. Dân Số Ký 15:35, 36.
 
-**6** Tại lời của hai nhân chứng, hay ba nhân chứng, người đáng chết sẽ bị xử tử; nhưng tại lời của một nhân chứng, người ấy sẽ không bị xử tử.
+6 Tại lời của hai nhân chứng, hay ba nhân chứng, người đáng chết sẽ bị xử tử; nhưng tại lời của một nhân chứng, người ấy sẽ không bị xử tử.
 
 Chú thích: [không đọc được trong bản scan]
 
-**7** Tay của các nhân chứng sẽ ở trên người ấy trước tiên để xử tử người ấy, và sau đó tay của toàn dân: như vậy ngươi sẽ trừ điều ác khỏi giữa ngươi.
+7 Tay của các nhân chứng sẽ ở trên người ấy trước tiên để xử tử người ấy, và sau đó tay của toàn dân: như vậy ngươi sẽ trừ điều ác khỏi giữa ngươi.
 
 CHƯƠNG 13:7.
 
 Chú thích: Hoặc là đặt đầu mình để chỉ định người ấy, hoặc là giơ tay ra để ném hòn đá đầu tiên vào người ấy. Đức Chúa Trời đã định như vậy, một phần để cảnh báo các nhân chứng, rằng, nếu họ vì ác ý hay giận dữ mà đã tố cáo người ấy một cách sai trái, thì giờ đây họ có thể sợ làm vấy máu vô tội; một phần vì sự an toàn và thỏa mãn của dân chúng trong việc thi hành hình phạt này. Là những người đều mang ơn Đức Chúa Trời một cách lớn lao và đặc biệt, bị ràng buộc phải bày tỏ lòng sốt sắng của mình vì danh dự và sự phục vụ của Ngài, và sự ghê tởm của mình đối với mọi người và mọi vật hết sức ô nhục và đáng gớm ghiếc đối với Ngài.
 
-**8** Nếu có một việc quá khó đối với ngươi trong sự xét xử, giữa huyết và huyết, giữa lời kiện và lời kiện, và giữa đòn đánh và đòn đánh, là những việc tranh cãi, trong các cổng thành ngươi: thì ngươi sẽ đứng dậy, và đi lên nơi mà Đức Giê-hô-va, Đức Chúa Trời ngươi, sẽ chọn:
+8 Nếu có một việc quá khó đối với ngươi trong sự xét xử, giữa huyết và huyết, giữa lời kiện và lời kiện, và giữa đòn đánh và đòn đánh, là những việc tranh cãi, trong các cổng thành ngươi: thì ngươi sẽ đứng dậy, và đi lên nơi mà Đức Giê-hô-va, Đức Chúa Trời ngươi, sẽ chọn:
 
 Giê-rê-mi 32:27. 2 Sử Ký 15. 2 Sa-mu-ên 13:28. Theo tiếng Hê-bơ-rơ: Nếu có một việc bị giấu khỏi ngươi, chương 30:11.
 
 Chú thích: Ông nói với các quan chức cấp dưới, là những người đã được lập ra trong nhiều thành, như [thấy] bởi sự đối lập của họ với những người ở Giê-ru-sa-lem. Nếu, ông nói, ngươi không có kỹ năng hay sự tự tin để quyết định một vụ việc nặng nề và khó khăn như vậy. (Tức là) Trong các vụ án tử hình về việc đổ huyết, dù là giết người cố ý hay vô ý, dù đáng bị trừng phạt hay được tha thứ theo những luật ấy, Xuất Ê-díp-tô Ký 21:13, 20, 22, 28 và 22:2. Dân Số Ký 35:11, 16, 19. Phục Truyền Luật Lệ 19:4, 10. (Tức là) Trong các vụ kiện dân sự, hay các vụ tranh chấp giữa nguyên đơn và bị đơn về lời nói hay tài sản. (Tức là) Hoặc là, trước hết, trong các vụ việc về nghi lễ, giữa bệnh dịch và bệnh dịch, giữa bệnh phong thật, thường được gọi là bệnh dịch, và bệnh phong giả và giả mạo; điều này thường khó quyết định. Và dưới điều này, như điều nổi bật nhất trong loại ấy, dường như bao gồm mọi sự ô uế về nghi lễ. Nhưng điều này dường như không có khả năng. 1. Vì việc quyết định cuối cùng về vấn đề bệnh phong rõ ràng được giao cho bất kỳ thầy tế lễ riêng nào, Lê-vi Ký 13 và 14. 2. Vì người bị nghi mắc bệnh phong đã không phải được đem đến Giê-ru-sa-lem, để được xét xử tại đó, mà phải bị nhốt trong thành và nhà của chính mình, Lê-vi Ký 13:4, 5, và các quan xét tại Giê-ru-sa-lem không thể cũng không muốn quyết định vụ việc của người ấy mà không một lần nhìn thấy người ấy. 3. Vì vụ việc về bệnh phong đã không khó hay nan giải, như những vụ việc ấy được nói là như vậy, mà rõ ràng và hiển nhiên, và được mô tả một cách đặc biệt và chính xác đến nỗi thầy tế lễ chỉ cần đôi mắt để quyết định nó. Hoặc đúng hơn, 2, trong các vụ án hình sự, liên quan đến những cú đánh, hay vết thương do một người gây ra cho người khác, và phải được đền lại cho người ấy theo án của quan chức theo luật ấy, Xuất Ê-díp-tô Ký 21:23, 24, 25, trong đó có thể có nhiều vụ việc rất khó khăn và nghi vấn, về điều này xem các chú thích tại đó. (Tức là) Những việc hay vấn đề về huyết và lời kiện và đòn đánh như vậy còn nghi vấn, và các quan chức chia rẽ trong ý kiến về nó; vì nếu đó là một vụ việc rõ ràng, thì điều này đã không phải làm. Một số người cho rằng đây là một mệnh đề bổ sung để bao gồm những điều này và mọi điều khác, như thể ông đã nói, và nói chung, bất kỳ lời nói hay vấn đề tranh chấp hay cãi cọ nào. (Tức là) Để lập sự thờ phượng và đền tạm, hay đền thờ của Ngài tại đó; vì tại đó là nơi ở, cả của hội đồng tối cao của họ, hay hội đồng chính, được lập nên từ các thầy tế lễ và các quan chức dân sự, là những người có khả năng nhất để quyết định mọi tranh cãi, và của các thầy tế lễ thượng phẩm, là những người phải cầu hỏi Đức Chúa Trời bằng U-rim, Dân Số Ký 27:21, trong những việc lớn lao, mà không thể quyết định bằng cách khác.
 
-**9** Và ngươi sẽ đến cùng các thầy tế lễ, người Lê-vi, và cùng quan xét sẽ có trong những ngày đó, và tra hỏi, và họ sẽ cho ngươi biết án xét xử:
+9 Và ngươi sẽ đến cùng các thầy tế lễ, người Lê-vi, và cùng quan xét sẽ có trong những ngày đó, và tra hỏi, và họ sẽ cho ngươi biết án xét xử:
 
 Chú thích: (Tức là) Đến cùng hội đồng lớn, mà ở đây được gọi tên như vậy, vì nó chủ yếu gồm các thầy tế lễ và người Lê-vi, là những người giải thích luật pháp của Đức Chúa Trời giỏi nhất, mà bởi đó mọi tranh cãi đã nhắc đến ở câu 8 đều phải được quyết định. Và thầy tế lễ thượng phẩm thường là một trong số đó, và dường như được hiểu ở đây trong số các thầy tế lễ, mà ông là người đứng đầu. Quan xét ở đây là, hoặc là, 1. Quan chức dân sự tối cao, là người được Đức Chúa Trời lập làm người giữ cả hai bảng, và theo chức vụ của mình phải lo việc quản trị cả công lý lẫn tôn giáo, là người phải quyết định các vụ việc và kiện tụng bằng kỹ năng và thẩm quyền của chính mình trong các vấn đề dân sự, và theo sự hướng dẫn của các thầy tế lễ trong các vụ việc thuộc linh hay thánh. Nhưng điều này dường như gặp một số khó khăn, vì quan xét này đã bị buộc phải ở tại nơi thờ phượng của Đức Chúa Trời, mà quan chức dân sự đã không, và thường đã không ở đó. 2. Quan xét này là người mà chức vụ của mình là giải thích và dạy người khác luật pháp của Đức Chúa Trời, như tiếp theo ở đây, câu 11, do đó không phải là quan chức dân sự. Hoặc là, 2. Thầy tế lễ thượng phẩm, là người đã bị buộc phải sống tại nơi này, thuộc về người ấy việc quyết định ít nhất một số trong những tranh cãi đã nhắc đến, câu 8, và dạy dỗ và giải thích luật pháp của Đức Chúa Trời. Và ông có thể được nêu tên riêng, mặc dù ông là một trong các thầy tế lễ, một phần vì sự nổi bật và ưu việt của ông trên những người còn lại, như sau tất cả các kẻ thù của Đa-vít, Sau-lơ được nhắc đến một cách riêng biệt, Thi Thiên 18, tựa đề, và một phần để cho thấy rằng trong số các thầy tế lễ, ông đặc biệt là người phải được tham vấn trong những vụ việc như vậy. Nhưng điều này cũng dường như có thể bị phản đối. 1. Rằng ông dường như được bao gồm trong cách nói chung về các thầy tế lễ và người Lê-vi, 2. Rằng thầy tế lễ thượng phẩm không bao giờ trong toàn bộ Kinh Thánh được gọi đơn giản là quan xét, mà thường được gọi là thầy tế lễ, hay thầy tế lễ thượng phẩm, hay thầy tế lễ trưởng, hay tương tự; và rất có khả năng nếu Môi-se đã muốn nói về ông ở đây, ông đã diễn đạt ông bằng một trong những tên và chức danh thường dùng của ông, chứ không phải bằng một chức danh lạ mà dường như không thể hiểu được. 2. Rằng [những vụ việc này] đã không được quyết định bởi thầy tế lễ thượng phẩm [một mình], như thấy rõ trong Xuất Ê-díp-tô Ký 18:22, Phục Truyền Luật Lệ 1:16, 17. Hoặc là, 3. Hội đồng tối cao, hay hội đồng tối cao, mà như đã nói trước đây gồm một phần là các thầy tế lễ, và một phần là những người khôn ngoan và học thức thuộc các chi phái khác, như mọi người Do Thái, và hầu hết các tác giả khác đều thừa nhận. Và như vậy điều này được thêm vào như một cách giải thích, một phần để cho thấy rằng các thầy tế lễ và người Lê-vi ở đây được nhắc đến, như những người mà mọi tranh cãi khó khăn đều phải được chuyển đến, không phải là tất cả các thầy tế lễ và người Lê-vi sẽ cư ngụ tại Giê-ru-sa-lem, mà chỉ những người trong số họ là hoặc sẽ là thành viên của hội đồng lớn ấy, mà bởi đó, cùng với các thành viên đồng bạn thuộc các chi phái khác, những vụ việc này đã được quyết định; một phần để ngụ ý rằng hội đồng lớn ấy, là nơi có quyền quyết định chính và cuối cùng về mọi tranh cãi đã nói trên, là một hội đồng hỗn hợp gồm những người khôn ngoan và tốt lành, một số thuộc về Hội Thánh, và một số thuộc về đời; như điều ấy rất phù hợp, vì nhiều vụ việc được đưa đến họ là những vụ việc hỗn hợp. Còn về liên từ, và, nó có thể được hiểu hoặc là theo nghĩa tách biệt, là hoặc, như trong Xuất Ê-díp-tô Ký 21:15, 17, so với Ma-thi-ơ 15:4, và Dân Số Ký 30:5, 6, so với Ma-thi-ơ 12:37, và Lê-vi Ký 6:3, 5, 2 Sa-mu-ên 2:19, 21, hoặc là theo nghĩa giải thích, là, tức là, hay, cụ thể là, như Các Quan Xét 7:24, 1 Sa-mu-ên 17:40 và 28:3, 2 Sử Ký 35:14, và như vậy ý nghĩa có thể là, các thầy tế lễ, người Lê-vi, hay quan xét, như trong câu 12, hoặc là, các thầy tế lễ, người Lê-vi, tức là, quan xét, hay các quan xét được chỉ định cho công việc này. Và mặc dù từ quan xét ở số ít, và dường như chỉ một người, nhưng đó chỉ là một phép đổi số, hay sự thay đổi số, số ít thay cho số nhiều, [điều này] thường được dùng, như Sáng Thế Ký 3:2, 9 và 49:6, 1 Sa-mu-ên 31:1, 1 Các Vua 10:22 và 2 Các Vua 11:19, so với 2 Sử Ký 9:21 và 23:9, và trong tiếng Hê-bơ-rơ, 1 Sử Ký 4:42, nơi nhiều quan chức được gọi là một người đứng đầu. Và như vậy rất có khả năng ở đây cũng vậy. 1. Vì những lời tiếp theo thuộc về điều này, đều dùng toàn số nhiều, họ, họ, họ, v.v., ở đây và câu 10, 11. 2. Vì ở đây có cùng phép đổi số trong nhánh còn lại, cùng một người hay những người ấy được gọi là các thầy tế lễ ở đây, và thầy tế lễ, câu 12. 3. Vì thay cho quan xét, ở đây dùng các quan xét, Phục Truyền Luật Lệ 19:19, nơi chúng ta có cùng cách nói được dùng trong cùng một dịp hay dịp tương tự, những người mà giữa họ có tranh cãi sẽ đứng [trước mặt] Đức Chúa Trời, trước mặt các thầy tế lễ và các quan xét, là những người sẽ có trong những ngày đó. Cũng không lạ, mà rất phù hợp và hợp lý, rằng nhiều người như vậy đều hiệp nhất trong một thân thể, và đưa ra phán quyết hay án theo sự đồng ý của tất cả, hay phần lớn, lại được gọi ở đây bằng tên của một [quan xét], như thật sự họ là như vậy; và vì lý do đó các thầy tế lễ được nói đến ở số nhiều, vì họ là nhiều người, cũng như các thành viên khác của hội đồng ấy, và quan xét ở số ít, vì tất cả họ chỉ lập nên một quan xét. Theo tiếng Hê-bơ-rơ: Lời, hay vấn đề của sự xét xử, tức là, tình trạng thật và quyền lợi của vụ việc, và phán quyết hay án nào nên được đưa ra trong đó.
 
-**10** Và ngươi sẽ làm theo án mà họ tại nơi đó (mà Đức Giê-hô-va sẽ chọn) sẽ cho ngươi biết; và ngươi sẽ tuân giữ làm theo mọi điều mà họ bảo ngươi:
+10 Và ngươi sẽ làm theo án mà họ tại nơi đó (mà Đức Giê-hô-va sẽ chọn) sẽ cho ngươi biết; và ngươi sẽ tuân giữ làm theo mọi điều mà họ bảo ngươi:
 
 Chú thích: (Tức là) Ngươi sẽ tuyên án: vì ông nói với các quan chức cấp dưới, như đã lưu ý trước đây, là những người phải tuyên án, và đã đến đây để được tư vấn về việc ấy. Điều rất đáng lưu ý là chỗ này không nói về mọi tranh cãi về đức tin, như thể họ phải tin mọi điều mà họ dạy, mà chỉ nói về một số vấn đề cụ thể về thực hành và tranh chấp giữa người với người, mà nó rõ ràng bị giới hạn ở đó, câu 8. Và họ không được truyền phải tin ở đây, mà chỉ phải làm, điều này được lặp lại ba lần.
 
-**11** Theo án của luật pháp mà họ sẽ dạy ngươi, và theo sự xét xử mà họ sẽ nói với ngươi, ngươi sẽ làm: ngươi sẽ không lìa khỏi án mà họ sẽ cho ngươi biết, sang bên phải, hay sang bên trái:
+11 Theo án của luật pháp mà họ sẽ dạy ngươi, và theo sự xét xử mà họ sẽ nói với ngươi, ngươi sẽ làm: ngươi sẽ không lìa khỏi án mà họ sẽ cho ngươi biết, sang bên phải, hay sang bên trái:
 
 Chú thích: Những lời này là một sự giới hạn rõ ràng của lời khẳng định trước đó, rằng họ phải làm theo mọi điều mà quan xét hay các quan xét bảo họ. Và chúng dường như giới hạn và điều chỉnh, 1. Các [quan xét] trong án của họ, rằng họ sẽ không, với cớ thẩm quyền tối cao đã được đặt vào tay họ, dám dạy dỗ hay hướng dẫn khác với điều luật pháp quy định: 2. Dân chúng trong sự vâng lời của họ: rằng họ sẽ không đơn giản vâng lời họ trong mọi việc, mà chỉ trong chừng mực án của họ phù hợp với luật pháp và Lời của Đức Chúa Trời, chứ không phải khi các mệnh lệnh của họ rõ ràng trái với luật pháp của Đức Chúa Trời, vì khi ấy, ngay cả các nhà chú giải Công Giáo về chỗ này cũng nói, họ phải vâng lời Đức Chúa Trời hơn là loài người. Và điều này không thể bị bất kỳ người có lý trí nào phủ nhận, với giả định rằng chỗ này nói về, và quyền lực này ban cho thầy tế lễ hay quan xét lan đến mọi tranh cãi về các vấn đề đức tin và đạo đức, như những người Công Giáo muốn mở rộng nó: vì giả sử các thầy tế lễ hay quan xét này đưa ra một án trực tiếp trái với những lời rõ ràng của luật pháp Đức Chúa Trời, Ngươi sẽ thờ lạy hình tượng chạm, như A-rôn đã làm trong trường hợp con bò vàng, ngươi sẽ làm ô uế ngày Sa-bát, ngươi sẽ bất kính cha mẹ ngươi, ngươi sẽ giết người, trộm cắp, phạm tội ngoại tình, v.v. Tôi hỏi, trong trường hợp này dân chúng có bị buộc phải làm theo như quan xét đã quyết định, hay không? Nếu ai nói rằng họ bị buộc, thì một lời khẳng định táo bạo và gian ác như vậy hẳn phải khiến mọi Cơ Đốc nhân tỉnh táo kinh hãi; và nếu họ nói rằng họ không bị buộc, thì điều này hẳn phải được coi là một sự giới hạn. Nhưng nếu chỗ này chỉ nói về những vụ kiện riêng biệt giữa người với người, như thấy rõ từ các chú thích về câu 8, và trong mọi vụ việc như vậy mặc dù quan xét nhờ đó bị giới hạn và ràng buộc theo quy tắc của mình trong việc đưa ra án, nhưng dường như chỉ công bằng và hợp lý khi dân chúng phải đơn giản chấp nhận án của quan xét cuối cùng và cao nhất của họ, nếu không sẽ không có hồi kết cho sự tranh chấp.
 
-**12** Và người nào sẽ làm cách kiêu ngạo, và sẽ không nghe theo thầy tế lễ (là người đứng hầu việc tại đó trước mặt Đức Giê-hô-va, Đức Chúa Trời ngươi) hay quan xét, thì người đó sẽ chết, và ngươi sẽ trừ điều ác khỏi Y-sơ-ra-ên.
+12 Và người nào sẽ làm cách kiêu ngạo, và sẽ không nghe theo thầy tế lễ (là người đứng hầu việc tại đó trước mặt Đức Giê-hô-va, Đức Chúa Trời ngươi) hay quan xét, thì người đó sẽ chết, và ngươi sẽ trừ điều ác khỏi Y-sơ-ra-ên.
 
 Chú thích: [Phần chú thích này phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “(Tức là) Người sẽ kiêu ngạo và bướng bỉnh chống lại [án]... Điều này trái ngược với sự ngu dốt... và sự hủy hoại của cộng đồng Y-sơ-ra-ên.”]
 
-**13** Và toàn dân sẽ nghe, và sợ hãi, và không còn làm cách kiêu ngạo nữa.
+13 Và toàn dân sẽ nghe, và sợ hãi, và không còn làm cách kiêu ngạo nữa.
 
-**14** Khi ngươi đã vào xứ mà Đức Giê-hô-va, Đức Chúa Trời ngươi, ban cho ngươi, và sẽ chiếm hữu nó, và sẽ ở trong đó, và sẽ nói rằng, Ta sẽ lập một vua trên ta, giống như mọi dân tộc ở chung quanh ta:
+14 Khi ngươi đã vào xứ mà Đức Giê-hô-va, Đức Chúa Trời ngươi, ban cho ngươi, và sẽ chiếm hữu nó, và sẽ ở trong đó, và sẽ nói rằng, Ta sẽ lập một vua trên ta, giống như mọi dân tộc ở chung quanh ta:
 
 Chú thích: Ông chỉ thấy trước và báo trước điều họ sẽ [làm], [và] dường như không tán thành nó, vì khi họ làm điều này [vì] chính lý do được nêu ở đây, ông tuyên bố sự không hài lòng hoàn toàn của mình về nó, 1 Sa-mu-ên 8:7.
 
-**15** Ngươi sẽ lập làm vua trên ngươi, bằng mọi cách, người mà Đức Giê-hô-va, Đức Chúa Trời ngươi, sẽ chọn. Ngươi sẽ lập vua trên ngươi từ trong vòng anh em ngươi: ngươi không được lập một người ngoại trên ngươi, là người không phải anh em ngươi.
+15 Ngươi sẽ lập làm vua trên ngươi, bằng mọi cách, người mà Đức Giê-hô-va, Đức Chúa Trời ngươi, sẽ chọn. Ngươi sẽ lập vua trên ngươi từ trong vòng anh em ngươi: ngươi không được lập một người ngoại trên ngươi, là người không phải anh em ngươi.
 
 Chú thích: (Tức là) Chỉ định, hay lập lên. Nếu các ngươi muốn chọn một vua, điều mà Ta sẽ cho phép các ngươi làm, Ta truyền cho các ngươi phải lưu ý điều này trong sự lựa chọn của mình. Tán thành, hay chỉ định. Đã như vậy trong trường hợp Sau-lơ, và Đa-vít. Đức Chúa Trời giữ cho chính Ngài quyền đề cử cả gia đình, lẫn cá nhân. Xem 1 Sa-mu-ên 9:15 và 10:24 và 16:12. 1 Sử Ký 28:4, 5. Thuộc cùng một dân tộc và tôn giáo; một phần vì một người như vậy rất có khả năng duy trì tôn giáo thật, và cai trị với sự công chính, hiền hòa, và tử tế đối với thần dân của mình; và một phần để người ấy có thể là một hình bóng thích hợp của Đấng Christ, Vua tối cao của họ, là Đấng sẽ là một trong vòng anh em của họ. Tức là, bởi sự lựa chọn và đồng ý của chính ngươi; nhưng nếu [Đức Chúa Trời] vì tội lỗi của họ mà lập một người ngoại trên họ, [họ] có thể phục tùng người ấy. [không đọc được trong bản scan]
 
-**16** Nhưng người ấy sẽ không nhân ngựa cho mình, cũng không khiến dân chúng trở về Ê-díp-tô, để người ấy nhân ngựa; vì Đức Giê-hô-va đã phán cùng các ngươi rằng, Các ngươi sẽ không trở lại đường ấy nữa.
+16 Nhưng người ấy sẽ không nhân ngựa cho mình, cũng không khiến dân chúng trở về Ê-díp-tô, để người ấy nhân ngựa; vì Đức Giê-hô-va đã phán cùng các ngươi rằng, Các ngươi sẽ không trở lại đường ấy nữa.
 
 Chú thích: (Tức là) Một cách quá độ, vượt quá điều mà địa vị và uy nghi của chức vụ ông đòi hỏi. Nhờ đó Đức Chúa Trời sẽ ngăn ngừa nhiều tội lỗi và tai họa, như 1. Sự kiêu ngạo trong lòng, và sự khinh thường dân chúng của mình. 2. Sự áp bức và bạo ngược, và việc áp đặt những gánh nặng [nặng nề] lên dân chúng của mình. 3. Sự tự tin theo xác thịt, mà nhờ đó sẽ được thúc đẩy, xem Thi Thiên 33:17, Châm Ngôn 21:31. 4. Sự giao thương nhiều với Ê-díp-tô, như tiếp theo ở đây, xứ ấy nổi tiếng về ngựa, như thấy rõ trong Xuất Ê-díp-tô Ký 14:23, 1 Các Vua 10:26, 28, 2 Sử Ký 1:15 và 9:28, Ê-sai 31:1, 3, Ê-xê-chi-ên 17:15 [bản in: “19:5”]. Hoặc là để ở, hoặc là để buôn bán. Đức Chúa Trời cấm điều này để ngăn ngừa, 1. Sự vô ơn của họ đối với sự giải cứu khỏi Ê-díp-tô: 2. Sự liên minh của họ với người Ê-díp-tô, sự tin cậy vào họ để được giúp đỡ, điều mà họ rất hay làm, và sự nhiễm độc bởi sự thờ hình tượng và nhiều điều gian ác khác, mà Ê-díp-tô khét tiếng. 3. Sự nhân ngựa của họ, như tiếp theo ở đây. Khi nào hay ở đâu? Đáp. Hoặc là một cách ngầm, khi Ngài bày tỏ sự không hài lòng của Ngài về việc họ trở lại Ê-díp-tô, như Xuất Ê-díp-tô Ký 13:17, Dân Số Ký 14:3, 4, hoặc là một cách rõ ràng vào lúc này, Đức Chúa Trời giờ đây đã phán điều ấy với ta, và ta nhân danh Ngài, và theo mệnh lệnh của Ngài tuyên bố điều ấy cho các ngươi. Trong con đường dẫn đến nơi ấy.
 
-**17** Người ấy cũng sẽ không nhân vợ cho mình, để lòng mình không lìa bỏ: người ấy cũng sẽ không nhân bạc và vàng cho mình nhiều.
+17 Người ấy cũng sẽ không nhân vợ cho mình, để lòng mình không lìa bỏ: người ấy cũng sẽ không nhân bạc và vàng cho mình nhiều.
 
 Chú thích: Như thói quen của các vua khác. (Tức là) Lìa bỏ Đức Chúa Trời và luật pháp của Ngài, hoặc là, 1. Lìa bỏ để thờ hình tượng và mê tín, điều mà phụ nữ thường hay mắc phải, và đặc biệt là những phụ nữ mà ông có khả năng chọn, tức là các con gái của các vua và hoàng tử lân cận và thờ hình tượng, như Sa-lô-môn đã làm; hoặc là, 2. Lìa bỏ để phạm nhiều tội lỗi khác và vi phạm bổn phận của mình đối với dân chúng, hoặc bởi sự sao nhãng và khinh thường công việc của mình qua sự yếu đuối và lười biếng, hoặc bởi sự áp bức dân chúng, và bẻ cong công lý để chiều theo lòng ham muốn lớn lao và quá độ của các vợ mình. Kẻo điều này nâng lòng ông lên trong sự tự tin và kiêu ngạo, điều mà Đức Chúa Trời ghê tởm, và sinh ra trong ông sự khinh thường dân chúng; và kẻo nó khiến ông hoặc lôi kéo ông, hoặc giúp ông chất gánh nặng lên dân chúng bằng những sự bóc lột quá đáng. Họ không đơn giản bị cấm trở nên giàu có, nếu Đức Chúa Trời làm cho họ giàu có hoặc bởi những món quà tự nguyện của thần dân, hoặc bởi chiến lợi phẩm của kẻ thù, như trường hợp của Đa-vít và Sa-lô-môn, và Giô-sa-phát, v.v., nhưng họ bị cấm hoặc ham muốn một cách quá độ, hoặc tìm kiếm một cách bất chính sự giàu có lớn lao bằng cách nghiền nát mặt của dân nghèo, hoặc bằng những thủ đoạn và cách thức gian ác khác, như thói quen của các vua lân cận.
 
-**18** Và khi người ấy ngồi trên ngai vàng của vương quốc mình, người ấy sẽ viết cho mình một bản sao của luật pháp này trong một sách, từ bản ở trước mặt các thầy tế lễ, người Lê-vi:
+18 Và khi người ấy ngồi trên ngai vàng của vương quốc mình, người ấy sẽ viết cho mình một bản sao của luật pháp này trong một sách, từ bản ở trước mặt các thầy tế lễ, người Lê-vi:
 
 Chú thích: Hoặc là bằng chính tay mình, như người Do Thái nói, hoặc, ít nhất, theo lệnh và sự sắp xếp của ông. (Tức là) Từ bản gốc, được các thầy tế lễ giữ gìn cẩn thận trong nơi thánh, Phục Truyền Luật Lệ 31:26. 2 Các Vua 22:8, [để] nó có thể là một bản sao thật và hoàn hảo, và [một phần] để nó có thể có cùng thẩm quyền và ảnh hưởng trên ông, đến với ông, như từ tay và sự hiện diện của Đức Chúa Trời.
 
-**19** Và nó sẽ ở với người ấy, và người ấy sẽ đọc trong đó trọn đời mình, để người ấy học biết kính sợ Đức Giê-hô-va, Đức Chúa Trời mình, giữ mọi lời của luật pháp này, và các luật lệ này, để làm theo chúng:
+19 Và nó sẽ ở với người ấy, và người ấy sẽ đọc trong đó trọn đời mình, để người ấy học biết kính sợ Đức Giê-hô-va, Đức Chúa Trời mình, giữ mọi lời của luật pháp này, và các luật lệ này, để làm theo chúng:
 
 Chú thích: (Tức là) Một cách siêng năng và liên tục, cả sự vĩ đại của địa vị ông, lẫn sức nặng và số lượng công việc của ông đều sẽ không bào chữa hay cản trở ông.
 
-**20** [không đọc được trong bản scan]
+20 [không đọc được trong bản scan]
 
 CHƯƠNG XVIII.
 
 [Đức Chúa Trời là cơ nghiệp của các thầy tế lễ và người Lê-vi, c. 1, 2. Phần của họ từ dân chúng, c. 3, 4. [không đọc được trong bản scan]]
 
-**1** Các thầy tế lễ, người Lê-vi, và toàn thể chi phái Lê-vi, sẽ không có phần hay cơ nghiệp với Y-sơ-ra-ên: họ sẽ ăn các của lễ của Đức Giê-hô-va làm bằng lửa, và cơ nghiệp của Ngài.
+1 Các thầy tế lễ, người Lê-vi, và toàn thể chi phái Lê-vi, sẽ không có phần hay cơ nghiệp với Y-sơ-ra-ên: họ sẽ ăn các của lễ của Đức Giê-hô-va làm bằng lửa, và cơ nghiệp của Ngài.
 
 Dân Số Ký 18:20, 23. 1 Cô-rinh-tô 9.
 
 Chú thích: Nhờ cụm từ này chúng ta thấy rõ ràng rằng ông không muốn nói đến các của lễ thiêu, là những của lễ đã bị thiêu rụi hoàn toàn bởi lửa, và không phần nào trong đó được các thầy tế lễ ăn; nhưng [nói đến] các [của lễ] khác mà một phần [trong đó được các thầy tế lễ ăn]. [không đọc được trong bản scan] (Tức là) Phần và quyền của Đức Chúa Trời, như vừa mới nói.
 
-**2** Vì vậy họ sẽ không có cơ nghiệp trong vòng anh em mình: Đức Giê-hô-va là cơ nghiệp của họ, như Ngài đã phán cùng họ.
+2 Vì vậy họ sẽ không có cơ nghiệp trong vòng anh em mình: Đức Giê-hô-va là cơ nghiệp của họ, như Ngài đã phán cùng họ.
 
-**3** Và đây sẽ là phần của thầy tế lễ từ dân chúng, từ những người dâng một của lễ, dù là bò đực hay chiên; và họ sẽ cho thầy tế lễ cái vai, và hai má, và dạ dày.
+3 Và đây sẽ là phần của thầy tế lễ từ dân chúng, từ những người dâng một của lễ, dù là bò đực hay chiên; và họ sẽ cho thầy tế lễ cái vai, và hai má, và dạ dày.
 
 Chú thích: [Phần chú thích này phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “...cái vai, mà nó đã được đưa lên trước mặt Đức Chúa Trời... Từ tiếng Hê-bơ-rơ ở đây được dịch là Dạ dày, vốn được người xưa coi là món ngon, không theo trí nhớ của tôi được dùng ở nơi nào khác, và do đó nó có thể có một [nghĩa] khác, và một số người dịch nó là Ngực, [hay] phần của dạ dày, nằm [kề ngực]...”]
 
-**4** Của đầu mùa của lúa mì ngươi, của rượu nho ngươi, và của dầu ngươi, và lông chiên đầu tiên của bầy chiên ngươi, ngươi sẽ cho người ấy.
+4 Của đầu mùa của lúa mì ngươi, của rượu nho ngươi, và của dầu ngươi, và lông chiên đầu tiên của bầy chiên ngươi, ngươi sẽ cho người ấy.
 
 Dân Số Ký 18:12.
 
-**5** Vì Đức Giê-hô-va, Đức Chúa Trời ngươi, đã chọn người ấy ra khỏi mọi chi phái ngươi, để đứng hầu việc nhân danh Đức Giê-hô-va, người ấy, và các con trai người ấy đời đời.
+5 Vì Đức Giê-hô-va, Đức Chúa Trời ngươi, đã chọn người ấy ra khỏi mọi chi phái ngươi, để đứng hầu việc nhân danh Đức Giê-hô-va, người ấy, và các con trai người ấy đời đời.
 
 Xuất Ê-díp-tô Ký 28:1. Dân Số Ký 3:10.
 
 Chú thích: (Tức là) Hoặc là bởi thẩm quyền và sự ủy nhiệm từ Ngài, hoặc là vì danh dự, sự thờ phượng hay phục vụ của Ngài.
 
-**6** Và nếu một người Lê-vi đến từ bất kỳ cổng thành nào của ngươi trong toàn thể Y-sơ-ra-ên, nơi người ấy đã kiều ngụ, và đến với mọi sự mong muốn của lòng mình đến nơi mà Đức Giê-hô-va sẽ chọn;
+6 Và nếu một người Lê-vi đến từ bất kỳ cổng thành nào của ngươi trong toàn thể Y-sơ-ra-ên, nơi người ấy đã kiều ngụ, và đến với mọi sự mong muốn của lòng mình đến nơi mà Đức Giê-hô-va sẽ chọn;
 
 Chú thích: [Phần chú thích này phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “...vì bất kỳ việc riêng nào, hay để kiều ngụ tại đó một thời gian, hoặc đúng hơn với mục đích đầy đủ để lập nơi ở của mình, và dành toàn bộ thời gian và sức lực của mình trong sự phục vụ Đức Chúa Trời, như thấy rõ bởi việc bán tài sản của mình đã nhắc đến, câu 8. Dường như đáng lưu ý rằng các thầy tế lễ khác nhau phải đến từ các thành của họ đến đền thờ [vào những thời điểm nhất định] trước thời Đa-vít, và chắc chắn đã làm như vậy [sau đó]. Nhưng nếu bất kỳ ai trong số họ không hài lòng với việc hầu việc Đức Chúa Trời ít ỏi này trong đền tạm của Ngài, hay [đền thờ], và mong muốn một cách trọn vẹn và liên tục hơn dâng mình cho sự phục vụ của Đức Chúa Trời tại đó, người ấy được phép làm như vậy, vì đây là một hành động tin kính nổi bật kết hợp với sự từ bỏ chính mình để từ bỏ những tiện nghi lớn lao mà người ấy có thể và đã hưởng trong thành thuộc quyền sở hữu của mình; và để buộc mình vào công việc liên tục và nhọc nhằn hơn về các của lễ, v.v.”]
 
-**7** Thì người ấy sẽ hầu việc nhân danh Đức Giê-hô-va, Đức Chúa Trời mình, như mọi anh em người Lê-vi của mình, là những người đứng tại đó trước mặt Đức Giê-hô-va.
+7 Thì người ấy sẽ hầu việc nhân danh Đức Giê-hô-va, Đức Chúa Trời mình, như mọi anh em người Lê-vi của mình, là những người đứng tại đó trước mặt Đức Giê-hô-va.
 
-**8** Họ sẽ có những phần giống nhau để ăn, ngoài những gì đến từ việc bán tài sản của mình.
+8 Họ sẽ có những phần giống nhau để ăn, ngoài những gì đến từ việc bán tài sản của mình.
 
 Theo tiếng Hê-bơ-rơ: những vật bán được của cha ông.
 
 Chú thích: [Phần chú thích này phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “...cùng các anh em của mình là những người đang thực sự thi hành chức vụ... Lý do của luật này là, một phần, [vì] người phục vụ tại bàn thờ, phải sống nhờ bàn thờ; và một phần vì [thích hợp] để ông giữ tiền của mình, nhờ đó ông có thể chuộc lại điều mình đã bán, nếu sau đó ông thấy có dịp...”]
 
-**9** Khi ngươi đã vào xứ mà Đức Giê-hô-va, Đức Chúa Trời ngươi, ban cho ngươi, ngươi sẽ không học làm theo những sự gớm ghiếc của các dân tộc ấy.
+9 Khi ngươi đã vào xứ mà Đức Giê-hô-va, Đức Chúa Trời ngươi, ban cho ngươi, ngươi sẽ không học làm theo những sự gớm ghiếc của các dân tộc ấy.
 
-**10** Sẽ không tìm thấy trong vòng ngươi bất kỳ ai khiến con trai mình hay con gái mình đi qua lửa, hay dùng bói toán, hay xem thời vận, hay phù phép, hay làm phù thủy,
+10 Sẽ không tìm thấy trong vòng ngươi bất kỳ ai khiến con trai mình hay con gái mình đi qua lửa, hay dùng bói toán, hay xem thời vận, hay phù phép, hay làm phù thủy,
 
 Lê-vi Ký 18:21. 2 Các Vua 17:31 và 21:6. Lê-vi Ký 19:26. Lê-vi Ký 20:27. Thi Thiên 106:37. Giê-rê-mi 7:31 và 19:5.
 
 Chú thích: (Tức là) Tiên báo những điều bí mật hay sẽ đến. Hoặc là, một [người xem] mây hay trời, [tức là] sự chuyển động của mây, bởi các ngôi sao, hay bởi sự bay lượn hay tiếng kêu của chim, tất cả những điều mà người ngoại đã từng xem xét. Hoặc là, một kẻ đoán mò, là người khám phá những điều ẩn giấu bằng cách dùng mê tín các lời nói hay nghi lễ, bằng cách xem nước hay khói hay bất kỳ sự việc ngẫu nhiên nào, như [sự chạy] của một con thỏ, v.v. Xem về Lê-vi Ký 19:26. [Phần chú thích này phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “...một người lập giao ước với ma quỷ... Xem Xuất Ê-díp-tô Ký 7:11.”]
 
-**11** Hay bùa chú, hay cầu hỏi tà linh, hay thầy bói, hay người cầu hồn.
+11 Hay bùa chú, hay cầu hỏi tà linh, hay thầy bói, hay người cầu hồn.
 
 Chú thích: [Phần chú thích này phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “...hay các loài vật khác, Thi Thiên 58:6. Hoặc là, ... các sự kiện trong đời người bởi sự giao hội của các ngôi sao, v.v. Xem thêm về Lê-vi Ký 19:31 và 20:6.”] Là những người mà họ kêu cầu bằng những lời nói hay nghi lễ nhất định để lôi kéo chúng vào những mưu đồ xấu xa. Theo tiếng Hê-bơ-rơ: Một người hiểu biết hay khôn khéo, là người bằng những cách mê tín hay bị cấm đoán đảm nhận việc mặc khải hay [khám phá] những điều [ẩn giấu]. Một người gọi lên và cầu hỏi người chết, 1 Sa-mu-ên 28:8, 9, 11, 15.
 
-**12** Vì mọi kẻ làm những điều ấy đều là sự gớm ghiếc đối với Đức Giê-hô-va: và vì những sự gớm ghiếc ấy, Đức Giê-hô-va, Đức Chúa Trời ngươi, đuổi chúng ra khỏi trước mặt ngươi.
+12 Vì mọi kẻ làm những điều ấy đều là sự gớm ghiếc đối với Đức Giê-hô-va: và vì những sự gớm ghiếc ấy, Đức Giê-hô-va, Đức Chúa Trời ngươi, đuổi chúng ra khỏi trước mặt ngươi.
 
-**13** Ngươi sẽ trọn vẹn với Đức Giê-hô-va, Đức Chúa Trời ngươi.
+13 Ngươi sẽ trọn vẹn với Đức Giê-hô-va, Đức Chúa Trời ngươi.
 
 Hoặc là, ngay thẳng.
 
 Chú thích: [Phần chú thích này phần lớn không đọc được trong bản scan; chỉ còn đọc được rời rạc: “1. [Một cách] chân thành và trọn vẹn thuộc về Ngài, tìm kiếm Ngài và bám lấy Ngài...”]
 
-**14** Vì các dân tộc này, mà ngươi sẽ chiếm hữu, đã nghe theo những kẻ xem thời vận, và những kẻ bói toán: nhưng về phần ngươi, Đức Giê-hô-va, Đức Chúa Trời ngươi, đã không cho phép ngươi làm như vậy.
+14 Vì các dân tộc này, mà ngươi sẽ chiếm hữu, đã nghe theo những kẻ xem thời vận, và những kẻ bói toán: nhưng về phần ngươi, Đức Giê-hô-va, Đức Chúa Trời ngươi, đã không cho phép ngươi làm như vậy.
 
 Chú thích: Ngài đã không cho phép ngươi làm theo ý riêng hư không của mình, và những thực hành mê tín và ma quỷ này, như Ngài đã cho phép các dân tộc khác làm, Công Vụ Các Sứ Đồ 14:16, [nhưng] đã dạy dỗ ngươi tốt hơn bởi lời và Thánh Linh của Ngài, và nhờ đó [giữ ngươi] khỏi những đường lối như vậy, và sẽ dạy dỗ ngươi đầy đủ hơn bởi một [Đấng Tiên Tri vĩ đại hơn].
 
-**15** Đức Giê-hô-va, Đức Chúa Trời ngươi, sẽ dấy lên cho ngươi một Tiên Tri từ giữa ngươi, trong vòng anh em ngươi, giống như ta; ngươi sẽ nghe theo người ấy;
+15 Đức Giê-hô-va, Đức Chúa Trời ngươi, sẽ dấy lên cho ngươi một Tiên Tri từ giữa ngươi, trong vòng anh em ngươi, giống như ta; ngươi sẽ nghe theo người ấy;
 
 Giăng 1:45 và 6:14. Công Vụ Các Sứ Đồ 3:22 và 7:37.
 
 Chú thích: Cả vì điều này được đưa ra như một lý lẽ tại sao họ không cần tham vấn với các thầy bói, v.v., vì họ sẽ có các tiên tri để khuyên bảo họ, [và vì] vị Tiên Tri [thật] được đối lập với tiên tri [giả], và một quy tắc chung được đưa ra ở đây để nhận biết mọi tiên tri kế tiếp, dù họ thật hay giả, câu 20, 21, 22, nhưng [những lời này] chủ yếu phải được hiểu về Đấng Christ, như những lời tiếp theo cho thấy, những lời ấy không thật sự và đầy đủ [ứng nghiệm] cho bất kỳ ai khác; [và] nơi Ngài được nói là giống như Môi-se, điều này bị phủ nhận một cách đơn giản về mọi tiên tri khác, Phục Truyền Luật Lệ 34:10, và [nó] không có khả năng [được nói] đơn giản về mọi tiên tri thật kế tiếp [Môi-se]. Nhưng Đấng Christ đã thật sự, và trong mọi [phương diện] giống [Môi-se, như một] Tiên Tri và một Vua và một Thầy Tế Lễ và Đấng Trung Gian, trong sự xuất sắc của chức vụ và công việc của Ngài, trong các phép lạ của Ngài, trong sự trò chuyện thân mật và gần gũi của Ngài [với Đức Chúa Trời]. Và chỗ này được chính Đức Chúa Trời trong Tân Ước giải thích là chỉ về một mình Đấng Christ, Công Vụ Các Sứ Đồ 3:22 và 7:37. Xem thêm Giăng 1:45, và 6:14.
 
-**16** Theo như mọi điều mà ngươi đã mong muốn nơi Đức Giê-hô-va, Đức Chúa Trời ngươi, tại Hô-rếp trong ngày hội chúng, mà rằng, Xin chớ để tôi nghe lại tiếng của Đức Giê-hô-va, Đức Chúa Trời tôi, cũng đừng để tôi thấy đám lửa lớn này nữa, kẻo tôi chết:
+16 Theo như mọi điều mà ngươi đã mong muốn nơi Đức Giê-hô-va, Đức Chúa Trời ngươi, tại Hô-rếp trong ngày hội chúng, mà rằng, Xin chớ để tôi nghe lại tiếng của Đức Giê-hô-va, Đức Chúa Trời tôi, cũng đừng để tôi thấy đám lửa lớn này nữa, kẻo tôi chết:
 
 Xuất Ê-díp-tô Ký 20:19. Phục Truyền Luật Lệ 5:25.
 
 Chú thích: (Tức là) Của hội chúng lớn lao và chung của toàn thể dân chúng cùng nhau.
 
-**17** Và Đức Giê-hô-va phán cùng ta rằng, Họ đã nói phải điều họ đã nói.
+17 Và Đức Giê-hô-va phán cùng ta rằng, Họ đã nói phải điều họ đã nói.
 
 CHƯƠNG 5:28.
 
-**18** Ta sẽ dấy lên cho họ một Tiên Tri từ trong vòng anh em họ, giống như ngươi, và sẽ đặt những lời Ta trong miệng người ấy; và người ấy sẽ nói cùng họ mọi điều mà Ta sẽ truyền cho người ấy.
+18 Ta sẽ dấy lên cho họ một Tiên Tri từ trong vòng anh em họ, giống như ngươi, và sẽ đặt những lời Ta trong miệng người ấy; và người ấy sẽ nói cùng họ mọi điều mà Ta sẽ truyền cho người ấy.
 
 Công Vụ Các Sứ Đồ 3:22 và 7:37.
 
 Chú thích: Sẽ dạy dỗ người ấy điều phải nói, mặc khải chính Ta và [ý muốn của Ta] cho người ấy. Người ấy sẽ trung tín thi hành chức vụ và sự ủy thác mà Ta giao cho người ấy.
 
-**19** Và sẽ xảy ra rằng, bất kỳ ai không nghe theo những lời Ta mà người ấy sẽ nói nhân danh Ta, Ta sẽ đòi điều ấy nơi người ấy.
+19 Và sẽ xảy ra rằng, bất kỳ ai không nghe theo những lời Ta mà người ấy sẽ nói nhân danh Ta, Ta sẽ đòi điều ấy nơi người ấy.
 
 Chú thích: (Tức là) Ta sẽ trừng phạt [người ấy vì điều ấy], như cụm từ này được hiểu. [không đọc được trong bản scan]
 
-**20** Nhưng tiên tri nào dám nói một lời nhân danh Ta, mà Ta đã không truyền cho người ấy nói, hay nói nhân danh các thần khác, thì tiên tri ấy sẽ chết.
+20 Nhưng tiên tri nào dám nói một lời nhân danh Ta, mà Ta đã không truyền cho người ấy nói, hay nói nhân danh các thần khác, thì tiên tri ấy sẽ chết.
 
 Chú thích: [không đọc được trong bản scan]
 
-**21** Và nếu ngươi nói trong lòng mình rằng, Làm sao chúng ta biết được lời mà Đức Giê-hô-va đã không phán?
+21 Và nếu ngươi nói trong lòng mình rằng, Làm sao chúng ta biết được lời mà Đức Giê-hô-va đã không phán?
 
 Giê-rê-mi 28:9.
 
-**22** Khi một tiên tri nói nhân danh Đức Giê-hô-va, nếu điều ấy không xảy ra, cũng không ứng nghiệm, thì đó là điều mà Đức Giê-hô-va đã không phán, nhưng tiên tri ấy đã nói nó một cách kiêu ngạo: ngươi sẽ không sợ người ấy.
+22 Khi một tiên tri nói nhân danh Đức Giê-hô-va, nếu điều ấy không xảy ra, cũng không ứng nghiệm, thì đó là điều mà Đức Giê-hô-va đã không phán, nhưng tiên tri ấy đã nói nó một cách kiêu ngạo: ngươi sẽ không sợ người ấy.
 
 CHƯƠNG XIX.
 
 Sự nhắc lại về các thành ẩn náu, cho người lỡ tay giết người lân cận mình mà không biết, 1—10. Nhưng kẻ nào ghét và giết người lân cận mình, dù đã trốn vào một trong các thành ấy, cũng phải chết, 11—13. Không được dời mốc giới cũ, 14. Số người làm chứng, 15. Hình phạt cho người làm chứng dối, 16—21.
 
-**1** Khi Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã diệt các dân tộc, mà xứ của chúng Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi, và ngươi sẽ kế nghiệp chúng, và ở trong các thành của chúng, và trong các nhà của chúng:
+1 Khi Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã diệt các dân tộc, mà xứ của chúng Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi, và ngươi sẽ kế nghiệp chúng, và ở trong các thành của chúng, và trong các nhà của chúng:
 
-**2** Ngươi sẽ phân rẽ ba thành cho ngươi ở giữa xứ ngươi, mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi để chiếm lấy.
+2 Ngươi sẽ phân rẽ ba thành cho ngươi ở giữa xứ ngươi, mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi để chiếm lấy.
 
 a. Tức là, bên kia sông Giô-đanh, vì đã có ba thành ở phía bên này sông Giô-đanh, Dân Số Ký 35:14. Ngài nói, ở giữa xứ, hoặc là, trong xứ, như ở giữa thành, Giê-rê-mi 52:25, cũng giống như, trong thành, 2 Các Vua 25:19. Hoặc là để chúng được đặt ở giữa các phần khác nhau của xứ, để họ có thể tiện lợi và nhanh chóng chạy trốn từ mọi phần.
 
-**3** Ngươi sẽ dọn đường cho mình, và chia xứ mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi để làm cơ nghiệp, ra làm ba phần, để mọi kẻ giết người có thể chạy trốn đến đó.
+3 Ngươi sẽ dọn đường cho mình, và chia xứ mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi để làm cơ nghiệp, ra làm ba phần, để mọi kẻ giết người có thể chạy trốn đến đó.
 
 b. Hãy phân biệt nó bằng những dấu hiệu rõ ràng, và làm cho nó rõ ràng và thuận tiện, để tránh những sai lầm và sự chậm trễ.
 
 c. Không chia ra nhiều hơn, vì những nơi này nên, trong chừng mực có thể, [không đọc được trong bản scan]
 
-**4** Và đây là trường hợp của kẻ giết người sẽ chạy trốn đến đó, để được sống: Ai giết người lân cận mình mà không biết, người mà trước đây mình không ghét;
+4 Và đây là trường hợp của kẻ giết người sẽ chạy trốn đến đó, để được sống: Ai giết người lân cận mình mà không biết, người mà trước đây mình không ghét;
 
 [Câu này phải được nối với câu 3. Câu 4 và câu 5 xen vào như một câu trong ngoặc đơn, điều thường thấy trong Kinh Thánh; [không đọc được trong bản scan]]
 
-**5** [Câu này không đọc được trong bản scan.]
+5 [Câu này không đọc được trong bản scan.]
 
-**6** [Câu này không đọc được trong bản scan.]
+6 [Câu này không đọc được trong bản scan.]
 
-**7** [Câu này không đọc được trong bản scan.]
+7 [Câu này không đọc được trong bản scan.]
 
-**8** Và nếu Đức Giê-hô-va, Đức Chúa Trời của ngươi, mở rộng bờ cõi ngươi, như Ngài đã thề với tổ phụ ngươi, và ban cho ngươi tất cả xứ mà Ngài đã hứa ban cho tổ phụ ngươi;
+8 Và nếu Đức Giê-hô-va, Đức Chúa Trời của ngươi, mở rộng bờ cõi ngươi, như Ngài đã thề với tổ phụ ngươi, và ban cho ngươi tất cả xứ mà Ngài đã hứa ban cho tổ phụ ngươi;
 
-**9** [Câu này không đọc được trong bản scan.]
+9 [Câu này không đọc được trong bản scan.]
 
-**10** [Câu này không đọc được trong bản scan.]
+10 [Câu này không đọc được trong bản scan.]
 
-**11** [Câu này không đọc được trong bản scan.]
+11 [Câu này không đọc được trong bản scan.]
 
-**12** [Câu này không đọc được trong bản scan.]
+12 [Câu này không đọc được trong bản scan.]
 
-**13** [Câu này không đọc được trong bản scan.]
+13 [Câu này không đọc được trong bản scan.]
 
-**14** [Câu này không đọc được trong bản scan.]
+14 [Câu này không đọc được trong bản scan.]
 
-**15** Một người làm chứng sẽ không dấy lên chống lại một người về bất kỳ sự gian ác nào, hay về bất kỳ tội lỗi nào, trong bất kỳ tội nào mà người ấy phạm: theo lời của hai người làm chứng, hay theo lời của ba người làm chứng, việc sẽ được xác lập.
+15 Một người làm chứng sẽ không dấy lên chống lại một người về bất kỳ sự gian ác nào, hay về bất kỳ tội lỗi nào, trong bất kỳ tội nào mà người ấy phạm: theo lời của hai người làm chứng, hay theo lời của ba người làm chứng, việc sẽ được xác lập.
 
 Ma-thi-ơ 18:15. Giăng 8:17.
 
-**16** [Câu này không đọc được trong bản scan.]
+16 [Câu này không đọc được trong bản scan.]
 
-**17** [Câu này không đọc được trong bản scan.]
+17 [Câu này không đọc được trong bản scan.]
 
-**18** [Câu này không đọc được trong bản scan.]
+18 [Câu này không đọc được trong bản scan.]
 
-**19** Vậy các ngươi sẽ làm cho hắn như hắn đã định làm cho anh em mình: như vậy ngươi sẽ cất sự ác khỏi giữa ngươi.
+19 Vậy các ngươi sẽ làm cho hắn như hắn đã định làm cho anh em mình: như vậy ngươi sẽ cất sự ác khỏi giữa ngươi.
 
 [Như hắn đã định, hay luật pháp đã định cho người bị cáo, nếu hắn đã bị kết tội, thì người cáo dối cũng sẽ phải chịu như vậy. Về luật này xem Xuất Ê-díp-tô Ký 21:24. Lê-vi Ký 24:20.]
 
-**20** Và những người còn lại sẽ nghe, và sợ, và từ nay sẽ không phạm sự ác như vậy nữa giữa các ngươi.
+20 Và những người còn lại sẽ nghe, và sợ, và từ nay sẽ không phạm sự ác như vậy nữa giữa các ngươi.
 
-**21** Và mắt ngươi sẽ không thương xót; nhưng mạng sẽ đền mạng, mắt đền mắt, răng đền răng, tay đền tay, chân đền chân.
+21 Và mắt ngươi sẽ không thương xót; nhưng mạng sẽ đền mạng, mắt đền mắt, răng đền răng, tay đền tay, chân đền chân.
 
 Xuất Ê-díp-tô Ký 21:24. Lê-vi Ký 24:20. Ma-thi-ơ 5:38.
 
@@ -5336,73 +5304,73 @@ CHƯƠNG XX.
 
 Lời khuyên của thầy tế lễ để khích lệ dân sự chiến đấu với kẻ thù của họ, 1—4. Việc cho về những người mới xây nhà, trồng vườn nho, hay đính hôn, 5—7. Người nhát gan được cho về, 8, 9. Cách đối xử với thành tùy theo họ chấp nhận hay từ chối hòa bình, 10—18. Cây nào được đốn để vây thành, và cây nào không, 19, 20.
 
-**1** Khi ngươi ra trận cùng kẻ thù ngươi, và thấy ngựa, xe, và dân đông hơn ngươi, chớ sợ chúng; vì Đức Giê-hô-va, Đức Chúa Trời của ngươi, ở cùng ngươi, là Đấng đã đem ngươi lên khỏi xứ Ê-díp-tô.
+1 Khi ngươi ra trận cùng kẻ thù ngươi, và thấy ngựa, xe, và dân đông hơn ngươi, chớ sợ chúng; vì Đức Giê-hô-va, Đức Chúa Trời của ngươi, ở cùng ngươi, là Đấng đã đem ngươi lên khỏi xứ Ê-díp-tô.
 
-**2** Và khi các ngươi đến gần trận chiến, thầy tế lễ sẽ đến gần, và nói cùng dân sự,
+2 Và khi các ngươi đến gần trận chiến, thầy tế lễ sẽ đến gần, và nói cùng dân sự,
 
-**3** Và sẽ nói cùng họ rằng, Hỡi Y-sơ-ra-ên, hãy nghe; ngày nay các ngươi đến gần trận chiến cùng kẻ thù mình: chớ để lòng các ngươi ngã lòng, chớ sợ, chớ run rẩy, cũng chớ kinh hãi vì cớ chúng;
+3 Và sẽ nói cùng họ rằng, Hỡi Y-sơ-ra-ên, hãy nghe; ngày nay các ngươi đến gần trận chiến cùng kẻ thù mình: chớ để lòng các ngươi ngã lòng, chớ sợ, chớ run rẩy, cũng chớ kinh hãi vì cớ chúng;
 
-**4** [Câu này không đọc được trong bản scan.]
+4 [Câu này không đọc được trong bản scan.]
 
-**5** [Câu này không đọc được trong bản scan.]
+5 [Câu này không đọc được trong bản scan.]
 
-**6** [Câu này không đọc được trong bản scan.]
+6 [Câu này không đọc được trong bản scan.]
 
-**7** [Câu này không đọc được trong bản scan.]
+7 [Câu này không đọc được trong bản scan.]
 
-**8** Và các quan trưởng sẽ nói thêm cùng dân sự, và sẽ nói rằng, Có người nào nhát gan và ngã lòng chăng? Hãy để người ấy đi, và trở về nhà mình, kẻo lòng anh em mình ngã lòng như lòng người ấy.
+8 Và các quan trưởng sẽ nói thêm cùng dân sự, và sẽ nói rằng, Có người nào nhát gan và ngã lòng chăng? Hãy để người ấy đi, và trở về nhà mình, kẻo lòng anh em mình ngã lòng như lòng người ấy.
 
-**9** [Câu này không đọc được trong bản scan.]
+9 [Câu này không đọc được trong bản scan.]
 
 [Hoặc là người đứng đầu các đoàn quân, để họ có thể chỉ huy và quản lý [quân lính], và làm gương cho họ. Nhưng có lẽ họ chưa có các quan tướng của mình để lập hay chọn, khi họ sắp ra trận.]
 
-**10** Khi ngươi đến gần một thành để chiến đấu cùng nó, hãy rao hòa bình cho nó.
+10 Khi ngươi đến gần một thành để chiến đấu cùng nó, hãy rao hòa bình cho nó.
 
 m. Điều này phải được hiểu không phải về các thành của dân Ca-na-an, như rõ ràng từ câu 16, 17, 18, là những thành đã bị án tuyệt diệt, Xuất Ê-díp-tô Ký 23:32, 33. Phục Truyền Luật Lệ 7:1, 2. Vì vậy không được lập giao ước hay hòa bình với chúng, Các Quan Xét 2:2. Nhưng về các thành hoặc của các dân tộc khác đã làm hại hay quấy rối họ, hoặc gây chiến cùng họ, hoặc giúp đỡ kẻ thù của họ, hoặc của bạn bè và đồng minh của họ; hoặc của chính người Hê-bơ-rơ là những kẻ có tội hay đồng lõa với sự thờ hình tượng hay bội đạo khỏi Đức Chúa Trời, hoặc nổi loạn chống lại thẩm quyền, hoặc bảo vệ và che chở những kẻ phạm tội đáng chết. Xem Sáng Thế Ký 14:5. 2 Sa-mu-ên 20. V.v.
 
-**11** Và nếu thành ấy trả lời hòa bình cho ngươi, và mở cửa cho ngươi, thì tất cả dân sự ở trong đó sẽ phải phục vụ ngươi, và sẽ làm tôi cho ngươi.
+11 Và nếu thành ấy trả lời hòa bình cho ngươi, và mở cửa cho ngươi, thì tất cả dân sự ở trong đó sẽ phải phục vụ ngươi, và sẽ làm tôi cho ngươi.
 
 [Bị bắt buộc bởi lao động của họ, như thấy trong 1 Các Vua 9:15. 2 Sử Ký 8:7.]
 
-**12** Và nếu thành ấy không làm hòa với ngươi, nhưng gây chiến cùng ngươi, thì ngươi sẽ vây nó.
+12 Và nếu thành ấy không làm hòa với ngươi, nhưng gây chiến cùng ngươi, thì ngươi sẽ vây nó.
 
-**13** Và khi Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã phó nó vào tay ngươi, ngươi sẽ giết mọi người nam trong đó bằng lưỡi gươm.
+13 Và khi Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã phó nó vào tay ngươi, ngươi sẽ giết mọi người nam trong đó bằng lưỡi gươm.
 
 Một hình phạt công bằng cho sự từ chối hòa bình một cách cứng lòng của chúng.
 
-**14** Nhưng đàn bà, trẻ con, súc vật, và mọi vật trong thành, tức là mọi của cướp trong đó, ngươi sẽ lấy cho mình; và ngươi sẽ ăn của cướp của kẻ thù ngươi, mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã ban cho ngươi.
+14 Nhưng đàn bà, trẻ con, súc vật, và mọi vật trong thành, tức là mọi của cướp trong đó, ngươi sẽ lấy cho mình; và ngươi sẽ ăn của cướp của kẻ thù ngươi, mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã ban cho ngươi.
 
 Được miễn vì giới tính hay tuổi tác của họ, vì không dính líu vào tội lỗi, cũng không có khả năng [cám dỗ người khác].
 
-**15** Ngươi sẽ làm như vậy cho mọi thành rất xa ngươi, mà không phải là các thành của các dân tộc này.
+15 Ngươi sẽ làm như vậy cho mọi thành rất xa ngươi, mà không phải là các thành của các dân tộc này.
 
-**16** Nhưng về các thành của các dân tộc này, mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi làm cơ nghiệp, ngươi sẽ không để sống sót bất cứ vật gì có hơi thở.
+16 Nhưng về các thành của các dân tộc này, mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi làm cơ nghiệp, ngươi sẽ không để sống sót bất cứ vật gì có hơi thở.
 
 Tiếng Hê-bơ-rơ là không có linh hồn, tức là, không có người, như từ ấy thường được dùng. Vì các thú vật, trừ một số ít bị rủa sả đặc biệt, đã được ban cho họ làm của cướp.
 
-**17** [Câu này không đọc được trong bản scan.]
+17 [Câu này không đọc được trong bản scan.]
 
-**18** [Câu này không đọc được trong bản scan.]
+18 [Câu này không đọc được trong bản scan.]
 
-**19** [Câu này không đọc được trong bản scan.]
+19 [Câu này không đọc được trong bản scan.]
 
-**20** [Câu này không đọc được trong bản scan.]
+20 [Câu này không đọc được trong bản scan.]
 
 CHƯƠNG XXI.
 
 Cách chuộc tội cho một vụ giết người không rõ thủ phạm, 1—9. Luật về người vợ bị bắt làm phu tù, 10—14. Con trưởng, 15—17. Cái chết của đứa con cứng đầu và phản nghịch, 18—21. Cái chết bị rủa sả của những kẻ bị treo, 22, 23.
 
-**1** Nếu có một người bị giết nằm trong xứ mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi để chiếm lấy, nằm trong đồng ruộng, mà không biết ai đã giết người ấy:
+1 Nếu có một người bị giết nằm trong xứ mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi để chiếm lấy, nằm trong đồng ruộng, mà không biết ai đã giết người ấy:
 
 Đồng ruộng được nêu tên, vì [vụ giết người] thường xảy ra ở đó, và [không đọc được trong bản scan]
 
-**2** Vậy các trưởng lão và quan xét của ngươi sẽ ra, và sẽ đo đến các thành ở chung quanh người bị giết:
+2 Vậy các trưởng lão và quan xét của ngươi sẽ ra, và sẽ đo đến các thành ở chung quanh người bị giết:
 
-**3** [Câu này không đọc được trong bản scan.]
+3 [Câu này không đọc được trong bản scan.]
 
-**4** [Câu này không đọc được trong bản scan.]
+4 [Câu này không đọc được trong bản scan.]
 
-**5** Và các thầy tế lễ, con cháu Lê-vi, sẽ đến gần; (vì Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã chọn họ để phục vụ Ngài, và để chúc phước nhân danh Đức Giê-hô-va;) và theo lời họ mọi tranh chấp và mọi vết thương sẽ được xét xử:
+5 Và các thầy tế lễ, con cháu Lê-vi, sẽ đến gần; (vì Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã chọn họ để phục vụ Ngài, và để chúc phước nhân danh Đức Giê-hô-va;) và theo lời họ mọi tranh chấp và mọi vết thương sẽ được xét xử:
 
 g. [Để bày tỏ sự cứng lòng, và để gây nên sự kinh hãi về vụ giết người.]
 
@@ -5410,57 +5378,57 @@ Cả để hướng dẫn họ trong mọi hoàn cảnh của hành động, và
 
 b. Không phải tuyệt đối mọi tranh chấp [giữa họ], nhưng [mọi] tranh chấp sẽ nảy sinh về bất kỳ vết thương nào, một vết thương chết người như ở đây [muốn nói]; vì một vụ giết người, được gọi là một vết thương, như đánh thường được dùng để chỉ [giết], như Sáng Thế Ký [không đọc được trong bản scan]
 
-**6** [Câu này không đọc được trong bản scan.]
+6 [Câu này không đọc được trong bản scan.]
 
 Để làm chứng về sự vô tội của họ. Xem Ma-thi-ơ 27:24.
 
-**7** Và họ sẽ đáp và nói rằng, Tay chúng tôi không đổ huyết này, mắt chúng tôi cũng không thấy:
+7 Và họ sẽ đáp và nói rằng, Tay chúng tôi không đổ huyết này, mắt chúng tôi cũng không thấy:
 
-**8** Hỡi Đức Giê-hô-va, xin thương xót dân Y-sơ-ra-ên của Ngài, mà Ngài đã chuộc, và chớ để huyết vô tội đổ trên dân Y-sơ-ra-ên của Ngài: và huyết ấy sẽ được tha cho họ.
+8 Hỡi Đức Giê-hô-va, xin thương xót dân Y-sơ-ra-ên của Ngài, mà Ngài đã chuộc, và chớ để huyết vô tội đổ trên dân Y-sơ-ra-ên của Ngài: và huyết ấy sẽ được tha cho họ.
 
 (Tức là) Không đổ lên họ nữa, vì Đức Chúa Trời đôi khi được nói là tha thứ, khi Ngài không trừng phạt, như Thi Thiên 78:38. Ngoài ra, dù không có tội chết trong dân này, nhưng vẫn có sự ô uế về lễ nghi trong xứ, cần phải được chuộc và tha thứ.
 
-**9** Như vậy ngươi sẽ cất huyết vô tội khỏi giữa ngươi, khi ngươi làm điều ngay thẳng trước mặt Đức Giê-hô-va.
+9 Như vậy ngươi sẽ cất huyết vô tội khỏi giữa ngươi, khi ngươi làm điều ngay thẳng trước mặt Đức Giê-hô-va.
 
-**10** Khi ngươi ra trận cùng kẻ thù ngươi, và Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã phó chúng vào tay ngươi, và ngươi đã bắt chúng làm phu tù;
+10 Khi ngươi ra trận cùng kẻ thù ngươi, và Đức Giê-hô-va, Đức Chúa Trời của ngươi, đã phó chúng vào tay ngươi, và ngươi đã bắt chúng làm phu tù;
 
 Về các dân tộc khác; nhưng không phải về dân Ca-na-an, vì họ không được tha cho đàn bà của chúng, huống chi là cưới họ, Xuất Ê-díp-tô Ký 34:16. Phục Truyền Luật Lệ 7:3.
 
-**11** Và thấy trong số phu tù một người đàn bà đẹp, và ngươi có lòng ưa muốn nàng, muốn lấy nàng làm vợ:
+11 Và thấy trong số phu tù một người đàn bà đẹp, và ngươi có lòng ưa muốn nàng, muốn lấy nàng làm vợ:
 
 p. Hoặc là, đã gắn bó với nàng, tức là, trong tình yêu, [hoặc] đã vui thích nơi nàng. [Điều này] có thể được hiểu [không đọc được trong bản scan] vì có vẻ hợp lý, vì có nói trong câu 14 rằng ông đã làm nhục nàng, [tức là], bằng cách [lấy nàng] khi ông bắt nàng [làm phu tù], không phải sau khi ông đã cưới nàng, vì nếu vậy ông đã diễn đạt như thế này, vì ngươi đã cưới nàng, điều đó đã mạnh mẽ hơn là nói, vì ngươi đã làm nhục nàng. Và ở đây dường như có hai trường hợp được giả định: 1. rằng ông muốn cưới nàng, về điều này ông nói trong câu 11, 12, 13. 2. rằng ông không muốn điều này, hay không vui thích nơi nàng, về điều này ông nói trong câu 14.
 
-**12** Thì ngươi sẽ đem nàng về nhà mình; và nàng sẽ cạo đầu, và cắt móng tay;
+12 Thì ngươi sẽ đem nàng về nhà mình; và nàng sẽ cạo đầu, và cắt móng tay;
 
 Hoặc là 1. để lấy đi tình cảm của ông đối với nàng bằng cách làm cho nàng xấu xí và biến dạng, nhưng khi ấy những lời cuối cùng không nên dịch là, sẽ cắt móng tay, mà là sẽ nuôi chúng hay để chúng mọc dài. [Hoặc] 2. [để bày tỏ] sự mất mát cha mẹ của nàng, như tiếp theo [sau]. [Theo] phong tục cổ xưa của những người than khóc trong hầu hết các dân tộc, [và] ở một số nơi là cắt móng tay, ở những nơi khác là [để chúng mọc dài]. Hoặc đúng hơn 3. để làm dấu nàng [từ bỏ] sự thờ thần tượng và mê tín của dân ngoại, và trở nên một người đàn bà mới, và đón nhận tôn giáo chân thật. [Điều này] mà thân phận phu tù và sự phục tùng ý muốn của ông sẽ khiến nàng dễ [chấp nhận].
 
-**13** [Câu này không đọc được trong bản scan.]
+13 [Câu này không đọc được trong bản scan.]
 
-**14** [Câu này không đọc được trong bản scan.]
+14 [Câu này không đọc được trong bản scan.]
 
-**15** [Câu này không đọc được trong bản scan.]
+15 [Câu này không đọc được trong bản scan.]
 
-**16** [Câu này không đọc được trong bản scan.]
+16 [Câu này không đọc được trong bản scan.]
 
-**17** [Câu này không đọc được trong bản scan.]
+17 [Câu này không đọc được trong bản scan.]
 
 f. Bằng chứng đầu tiên về sức mạnh nam tính và khả năng của ông.
 
-**18** [Câu này không đọc được trong bản scan.]
+18 [Câu này không đọc được trong bản scan.]
 
-**19** [Câu này không đọc được trong bản scan.]
+19 [Câu này không đọc được trong bản scan.]
 
-**20** [Câu này không đọc được trong bản scan.]
+20 [Câu này không đọc được trong bản scan.]
 
-**21** Vậy tất cả những người trong thành của nó sẽ ném đá nó cho đến chết: như vậy ngươi sẽ cất sự ác khỏi giữa ngươi.
+21 Vậy tất cả những người trong thành của nó sẽ ném đá nó cho đến chết: như vậy ngươi sẽ cất sự ác khỏi giữa ngươi.
 
 [Đây là hình phạt [của] những kẻ thờ hình tượng; nếu nó có vẻ nghiêm khắc, cần xét rằng cha mẹ thay mặt Đức Chúa Trời, và được giao phó [thẩm quyền]. Sự đồng ý của cả hai là cần thiết để ngăn ngừa sự lạm dụng [quyền này]. Và không thể cho rằng [cha mẹ sẽ lạm dụng nó, vì họ] rõ ràng [yêu thương con mình].]
 
-**22** Và nếu một người đã phạm tội đáng chết, và bị xử tử, và ngươi treo hắn lên cây:
+22 Và nếu một người đã phạm tội đáng chết, và bị xử tử, và ngươi treo hắn lên cây:
 
 m. Việc này được làm sau khi kẻ phạm tội đã bị xử tử bằng một cách khác, việc [treo] này là [thêm vào] hình phạt trước đây của hắn.
 
-**23** Thì xác hắn sẽ không ở lại suốt đêm trên cây, nhưng ngươi sẽ chôn hắn trong ngày đó; (vì kẻ bị treo là bị Đức Chúa Trời rủa sả;) hầu cho xứ ngươi không bị ô uế, mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi làm cơ nghiệp.
+23 Thì xác hắn sẽ không ở lại suốt đêm trên cây, nhưng ngươi sẽ chôn hắn trong ngày đó; (vì kẻ bị treo là bị Đức Chúa Trời rủa sả;) hầu cho xứ ngươi không bị ô uế, mà Đức Giê-hô-va, Đức Chúa Trời của ngươi, ban cho ngươi làm cơ nghiệp.
 
 n. (Tức là) Hắn bị rủa sả và trừng phạt bởi Đức Chúa Trời một cách đặc biệt, với một loại hình phạt đáng xấu hổ nhất, như [hình phạt] này được coi giữa dân Giu-đa và mọi dân tộc; vì vậy hình phạt này có thể đủ cho hắn, và sẽ không thêm vào đó [hình phạt] nằm không được chôn, vốn là một tai họa lớn khác, Giê-rê-mi 15:[không đọc được trong bản scan] Và lời rủa sả này ở đây được áp dụng cho những kẻ bị treo, một phần vì hình phạt này chỉ được thi hành trên những kẻ phạm tội khét tiếng và công khai nhất, và những kẻ đã mang lời rủa sả của Đức Chúa Trời đến trên cộng đồng, như Dân Số Ký 25:4, 2 Sa-mu-ên 21:5. Và chủ yếu để báo trước rằng Đấng Christ sẽ chịu hình phạt đáng ghê tởm này, và bị làm thành lời rủa sả vì chúng ta, Ga-la-ti 3:13. Điều này dù [nó] còn chưa đến đối với loài người, nhưng đã hiện diện đối với Đức Chúa Trời, và trong mắt Ngài vào lúc này. Và vì vậy điều này được nói ra với sự liên hệ đến Đấng Christ, như nhiều đoạn Kinh Thánh khác rõ ràng bày tỏ.
 
@@ -5470,13 +5438,13 @@ CHƯƠNG XXII.
 
 Luật về súc vật đi lạc, 1, 2. Về bò hay lừa của anh em mình ngã trên đường, 4. Đàn bà không được mặc y phục của đàn ông, 5. Về tổ chim bị bắt, 6, 7. Về lan can cho mái nhà, 8. Về các hạt giống khác nhau được gieo, 9. Về cày bằng bò và lừa, 10. Về áo quần bằng nhiều loại vải, 11. Về tua áo trên bốn góc áo, 12. Hình phạt cho kẻ vu khống vợ mình, 13—19. Hình phạt cho nàng nếu lời vu khống là thật, 20, 21. Hình phạt cho tội ngoại tình, 22. Về tội cưỡng hiếp, 23, 24. Về tội gian dâm, 25—27. Chống lại loạn luân, 28—30.
 
-**1** Ngươi sẽ không thấy bò hay chiên của anh em mình đi lạc, mà giấu mình khỏi chúng: ngươi sẽ trong mọi trường hợp đem chúng về cho anh em mình.
+1 Ngươi sẽ không thấy bò hay chiên của anh em mình đi lạc, mà giấu mình khỏi chúng: ngươi sẽ trong mọi trường hợp đem chúng về cho anh em mình.
 
 a. Được gọi như vậy bởi sự hiệp thông không chỉ trong tôn giáo, mà còn trong bản tính, vì [họ] có một Cha, tức là Đức Chúa Trời, Ma-la-chi 2:15. [Điều này] tỏ ra, 1. Vì cùng một luật được ban về [bò của] kẻ thù của họ, Xuất Ê-díp-tô Ký 23:4. 2. Vì đây là bổn phận của công lý và lòng nhân từ chung, mà luật tự nhiên đã dạy ngay cả dân ngoại, và thật vô lý khi nghĩ rằng luật của Đức Chúa Trời ban cho dân Giu-đa lại có ít lòng nhân từ hơn luật tự nhiên ban cho dân ngoại.
 
 b. (Tức là) Giả vờ như ngươi không thấy chúng: hay bỏ qua hay đi ngang qua chúng như thể ngươi không thấy chúng.
 
-**2** Và nếu anh em ngươi không ở gần ngươi, hay nếu ngươi không biết người ấy, thì ngươi sẽ đem nó về nhà mình, và nó sẽ ở với ngươi cho đến khi anh em ngươi tìm kiếm nó, và ngươi sẽ trả lại cho người ấy.
+2 Và nếu anh em ngươi không ở gần ngươi, hay nếu ngươi không biết người ấy, thì ngươi sẽ đem nó về nhà mình, và nó sẽ ở với ngươi cho đến khi anh em ngươi tìm kiếm nó, và ngươi sẽ trả lại cho người ấy.
 
 c. Điều này có thể làm cho bổn phận trở nên phiền phức hay tốn kém hơn.
 
@@ -5486,107 +5454,107 @@ e. Để được dùng như súc vật của chính mình.
 
 f. Chủ sở hữu, như có thể cho rằng, sẽ trả các chi phí.
 
-**3** Ngươi cũng sẽ làm như vậy với lừa, và cũng sẽ làm như vậy với áo quần của người ấy, và với mọi vật đã mất của anh em ngươi, mà người ấy đã mất, và ngươi đã tìm thấy, ngươi sẽ làm như vậy; ngươi không được giấu mình.
+3 Ngươi cũng sẽ làm như vậy với lừa, và cũng sẽ làm như vậy với áo quần của người ấy, và với mọi vật đã mất của anh em ngươi, mà người ấy đã mất, và ngươi đã tìm thấy, ngươi sẽ làm như vậy; ngươi không được giấu mình.
 
 g. (Tức là) Giả vờ rằng ngươi không tìm thấy nó. Hay giấu nó, [tức là] che giấu [việc tìm thấy].
 
-**4** Ngươi sẽ không thấy lừa hay bò của anh em mình ngã xuống trên đường, mà giấu mình khỏi chúng: ngươi sẽ chắc chắn giúp người ấy đỡ chúng dậy.
+4 Ngươi sẽ không thấy lừa hay bò của anh em mình ngã xuống trên đường, mà giấu mình khỏi chúng: ngươi sẽ chắc chắn giúp người ấy đỡ chúng dậy.
 
 [Không đọc được trong bản scan] So sánh Xuất Ê-díp-tô Ký 23:5.
 
-**5** Đàn bà sẽ không mặc y phục thuộc về đàn ông, đàn ông cũng sẽ không mặc áo đàn bà: vì mọi kẻ làm như vậy đều là sự gớm ghiếc trước mặt Đức Giê-hô-va, Đức Chúa Trời của ngươi.
+5 Đàn bà sẽ không mặc y phục thuộc về đàn ông, đàn ông cũng sẽ không mặc áo đàn bà: vì mọi kẻ làm như vậy đều là sự gớm ghiếc trước mặt Đức Giê-hô-va, Đức Chúa Trời của ngươi.
 
 i. Tức là, thường xuyên hay không cần thiết, vì trong một số trường hợp điều này có thể hợp pháp, như để thoát thân. Nay điều này bị cấm, một phần vì sự đoan trang, để người ta không làm lẫn lộn, hay có vẻ làm lẫn lộn những giới tính mà Đức Chúa Trời đã phân biệt, để mọi hình thức của sự ác có thể được tránh, sự thay đổi y phục như vậy mang một dấu hiệu rõ ràng của sự mềm yếu và ẻo lả nơi người đàn ông, của sự kiêu ngạo và trơ trẽn nơi người đàn bà, của sự nhẹ dạ và buông thả nơi cả hai; và một phần để cắt đứt mọi nghi ngờ và cơ hội của sự ác, mà thói quen này mở ra một cánh cửa rộng.
 
-**6** Nếu một tổ chim tình cờ ở trước mặt ngươi trên đường, trong cây nào, hay trên mặt đất, dù là chim non, hay trứng, và chim mẹ đang ấp chim non, hay ấp trứng, ngươi sẽ không bắt chim mẹ cùng với chim non.
+6 Nếu một tổ chim tình cờ ở trước mặt ngươi trên đường, trong cây nào, hay trên mặt đất, dù là chim non, hay trứng, và chim mẹ đang ấp chim non, hay ấp trứng, ngươi sẽ không bắt chim mẹ cùng với chim non.
 
-**7** Nhưng ngươi sẽ trong mọi trường hợp thả chim mẹ đi, và bắt chim non cho mình; để ngươi được phước, và ngươi có thể kéo dài ngày của mình.
+7 Nhưng ngươi sẽ trong mọi trường hợp thả chim mẹ đi, và bắt chim non cho mình; để ngươi được phước, và ngươi có thể kéo dài ngày của mình.
 
-**8** Khi ngươi xây một nhà mới, thì ngươi sẽ làm lan can cho mái nhà ngươi, để ngươi không mang huyết lên nhà mình, nếu có người nào ngã từ đó xuống.
+8 Khi ngươi xây một nhà mới, thì ngươi sẽ làm lan can cho mái nhà ngươi, để ngươi không mang huyết lên nhà mình, nếu có người nào ngã từ đó xuống.
 
 [Không đọc được trong bản scan] Xem Các Quan Xét [không đọc được trong bản scan] 2 Sa-mu-ên 5:2[không đọc được trong bản scan] 2 Sa-mu-ên 11:2. Nê-hê-mi 8:16. Ma-thi-ơ [không đọc được trong bản scan]
 
 m. (Tức là) Tội về huyết, bởi một người ngã từ nóc nhà ngươi xuống, do ngươi bỏ qua sự dự phòng cần thiết này.
 
-**9** Ngươi sẽ không gieo vườn nho của ngươi với các hạt giống khác nhau: kẻo trái của hạt giống mà ngươi đã gieo, và trái của vườn nho ngươi, bị ô uế.
+9 Ngươi sẽ không gieo vườn nho của ngươi với các hạt giống khác nhau: kẻo trái của hạt giống mà ngươi đã gieo, và trái của vườn nho ngươi, bị ô uế.
 
 Tiếng Hê-bơ-rơ là sự đầy đủ của hạt giống ngươi, tức là, hạt giống khi nó chín và đầy đủ, [không đọc được trong bản scan] Xem Xuất Ê-díp-tô Ký 22:29, Dân Số Ký 18:27. Hoặc là 1. Theo nghĩa tự nhiên, bị hư hỏng về thị giác, và bị chôn vùi trong [quên lãng]. [Hoặc] 2. Theo nghĩa hình bóng và đạo đức, như bị cấm bởi luật pháp của Đức Chúa Trời, và do đó trở nên không sạch; ngược lại, các vật được thánh hóa bởi lời của Đức Chúa Trời, cho phép và chấp thuận chúng, 1 Ti-mô-thê 4:5. Tiếng Hê-bơ-rơ là được thánh hóa, hay, như một vật thánh, bởi sự lược bỏ tiểu từ, như, tức là, không hợp pháp cho chủ sở hữu sử dụng, như những vật [được thánh hóa]. Hoặc, thánh hóa được dùng thay cho làm ô uế, bởi một hình thức gọi là uyển ngữ, thường gặp trong Kinh Thánh, như khi chúc phước được dùng thay cho rủa sả, như Gióp 2:9, và trong các tác giả khác, như khi họ dùng thiêng liêng thay cho đáng ghê tởm.
 
 [Các hàng nho trong vườn nho của ngươi: điều này đã bị cấm trong ruộng, Lê-vi Ký 19:19, và ở đây, trong vườn nho, với bất kỳ loại hạt giống nào khác với cây nho, dù là thảo mộc, hay ngũ cốc, hay cây ăn trái, mà trái của chúng có thể bị trộn lẫn với trái của cây nho. Nay [?] hai điều răn tiếp theo, dù tự chúng là nhỏ, được ban ra, theo thời gian và tình trạng của [Hội Thánh?], [như] những tài liệu hay sự dạy dỗ trong những vấn đề lớn hơn, và [để] khuyên họ sự đơn giản và chân thành trong mọi [việc làm] đối với Đức Chúa Trời và loài người, và để cấm mọi sự pha trộn [các] sáng kiến của họ với các định chế của Đức Chúa Trời trong giáo lý hay sự thờ phượng.]
 
-**10** Ngươi sẽ không cày bằng bò và lừa cùng nhau.
+10 Ngươi sẽ không cày bằng bò và lừa cùng nhau.
 
 o. Hoặc là 1. Vì một con là súc vật sạch, con kia là không sạch, nhờ đó Đức Chúa Trời dạy người ta tránh làm ô uế mình bởi sự hiệp thông [với] sự đụng chạm đến những người hay vật không sạch, 2 Cô-rinh-tô 6:14. Hoặc là 2. Vì sức mạnh không đều nhau của chúng, nhờ đó con yếu hơn, tức là lừa, sẽ bị áp bức và làm việc quá sức. Hoặc là 3. vì những lý do mầu nhiệm, [về] điều này xem câu 9, và Lê-vi Ký 19:19.
 
-**11** Ngươi sẽ không mặc áo bằng nhiều loại vải, như bằng len và vải lanh cùng nhau.
+11 Ngươi sẽ không mặc áo bằng nhiều loại vải, như bằng len và vải lanh cùng nhau.
 
-**12** Ngươi sẽ làm tua cho mình trên bốn góc áo ngươi mặc, mà ngươi phủ mình.
+12 Ngươi sẽ làm tua cho mình trên bốn góc áo ngươi mặc, mà ngươi phủ mình.
 
 s. Hoặc là, dây, hay sợi, một phần để nhắc nhở họ về các điều răn của Đức Chúa Trời, như đã được diễn đạt, Dân Số Ký 15:39. Và một phần như một sự tuyên xưng công khai về dân tộc và tôn giáo của họ, nhờ đó họ có thể được nhận biết và phân biệt khỏi người ngoại, để họ có thể cẩn thận hơn trong cách cư xử xứng đáng với dân sự của Đức Chúa Trời, và để họ không xấu hổ khi xưng nhận Đức Chúa Trời và tôn giáo của mình trước cả thế gian. Những lời này hoặc là giới hạn cho áo ngoài mà các áo khác được phủ lên, hoặc là lý do tại sao họ nên dùng những vật này, vì nhờ đó họ có thể buộc chặt áo của mình, và ngăn ngừa việc bị lộ thân, điều dễ xảy ra, khi họ không mặc quần, mà chỉ mặc áo rộng.
 
-**13** Nếu một người lấy vợ, và đến cùng nàng, và ghét nàng,
+13 Nếu một người lấy vợ, và đến cùng nàng, và ghét nàng,
 
 r. (Tức là) Đã có quan hệ xác thịt với nàng.
 
-**14** Và đưa ra những lời nói chống lại nàng, và mang tiếng xấu lên nàng, và nói rằng, Ta đã lấy người đàn bà này, và khi ta đến cùng nàng, ta thấy nàng không còn là trinh nữ;
+14 Và đưa ra những lời nói chống lại nàng, và mang tiếng xấu lên nàng, và nói rằng, Ta đã lấy người đàn bà này, và khi ta đến cùng nàng, ta thấy nàng không còn là trinh nữ;
 
 u. Tiếng Hê-bơ-rơ là những lời, tức là, những lời nói hay sự phỉ báng.
 
-**15** Thì cha của thiếu nữ, và mẹ nàng, sẽ lấy và đem các dấu hiệu trinh tiết của thiếu nữ đến các trưởng lão của thành, tại cổng thành.
+15 Thì cha của thiếu nữ, và mẹ nàng, sẽ lấy và đem các dấu hiệu trinh tiết của thiếu nữ đến các trưởng lão của thành, tại cổng thành.
 
 x. (Tức là) Tấm vải lanh hay tấm khăn, như đã được diễn đạt trong câu 17, mà trong lần giao hợp đầu tiên đã bị dính máu, như là tự nhiên và thường xảy ra. Nhưng vì điều này nay không còn luôn luôn xảy ra, những kẻ thù của Kinh Thánh lấy cớ để tranh cãi với luật này, cho là vô lý và bất công, và có thể áp bức người vô tội, và do đó lấy cớ để bác bỏ Kinh Thánh. Sẽ hợp lý hơn nhiều cho những người này hoặc là giải thích chỗ này theo nghĩa bóng về việc đưa ra những bằng chứng và lời chứng về trinh tiết của nàng mà nên thỏa mãn như thể tấm vải ấy đã được đưa ra, như một số người Giu-đa hiểu, hoặc là khiêm tốn thừa nhận sự thiếu hiểu biết của mình trong điều này, như họ buộc phải làm trong nhiều điều khác, và không ngang nhiên kết luận rằng nó không thể giải quyết được, vì họ không thể giải quyết nó. Nhưng không cần những câu trả lời chung như vậy, nhiều điều có thể được nói riêng để bào chữa cho luật này. 1. Rằng nó cần thiết cho dân tộc ấy, vì sự cứng lòng của họ đối với vợ mình, và sự nhẹ dạ và ham muốn thay đổi vợ. 2. Rằng hoặc là cuộc thử thách này, hoặc ít nhất là bằng chứng về trinh tiết của nàng, phải được lấy ngay sau ngày cưới, và bằng chứng ấy phải được chấp nhận sau đó khi có dịp. 3. Rằng luật này hiếm khi hay không bao giờ được thực thi, như [người Giu-đa?] ghi chú, và dường như được làm ra để răn đe và cảnh cáo chồng và vợ, như nhiều luật khác đã được làm trong những trường hợp tương tự. 4. Rằng Đức Chúa Trời đã ban luật này, bởi sự quan phòng của Ngài đã cai quản [mọi] công việc, và cai trị lưỡi và lòng người, và chắc chắn sẽ lo liệu để người vô tội không phải chịu khổ bởi phương tiện này, điều mà Ngài có thể ngăn ngừa bằng nhiều cách. 5. Rằng có sự khác biệt lớn về thời gian và khí hậu. Ai mà không biết rằng có nhiều điều nay được người hiện đại cho là không chắc chắn hay sai lầm, mà các thầy thuốc cổ xưa đã cho là đúng và chắc chắn trong thời gian và xứ sở của họ, và rằng nhiều dấu hiệu của bệnh tật và những điều khác thường đúng trong những vùng [phương nam?] và ấm áp hơn của thế giới, mà nhiều khi lại sai lầm trong khí hậu phương bắc và lạnh hơn của chúng ta? 6. Rằng chính [cách] thử trinh tiết này đã được dùng không chỉ bởi người Giu-đa, mà còn bởi người Ả-rập và người Ai Cập, như [được chứng thực] bởi nhiều tác giả học thức, trong số đó nó còn đáng ngờ và nguy hiểm hơn so với người Giu-đa, là những người có thể hứa với mình rằng Đức Chúa Trời sẽ hướng dẫn việc thi hành luật của Ngài đến một kết quả công bằng và tốt lành. 7. [Rằng] dấu hiệu này nếu không chắc chắn ở những người đã trưởng thành, thì có thể được cho là chắc chắn và không đổi ở những trinh nữ trẻ tuổi và non nớt, và rằng người Giu-đa thường gả con gái của họ khi chúng khoảng 12 hay 13 tuổi, như đã được thừa nhận, vì vội vàng [lấy đi] sự sỉ nhục mà họ cho là ở trong tình trạng chưa chồng.
 
-**16** Và cha của thiếu nữ sẽ nói cùng các trưởng lão rằng, Tôi đã gả con gái tôi cho người này làm vợ, và người ấy ghét nàng:
+16 Và cha của thiếu nữ sẽ nói cùng các trưởng lão rằng, Tôi đã gả con gái tôi cho người này làm vợ, và người ấy ghét nàng:
 
-**17** Và kìa, người ấy đã đưa ra những lời nói chống lại nàng, mà rằng, Ta không thấy con gái ngươi còn trinh nữ; nhưng đây là các dấu hiệu trinh tiết của con gái tôi: và họ sẽ trải tấm vải ra trước mặt các trưởng lão của thành.
+17 Và kìa, người ấy đã đưa ra những lời nói chống lại nàng, mà rằng, Ta không thấy con gái ngươi còn trinh nữ; nhưng đây là các dấu hiệu trinh tiết của con gái tôi: và họ sẽ trải tấm vải ra trước mặt các trưởng lão của thành.
 
-**18** Và các trưởng lão của thành ấy sẽ bắt người ấy và sửa phạt hắn.
+18 Và các trưởng lão của thành ấy sẽ bắt người ấy và sửa phạt hắn.
 
 x. Hoặc là 1. Bằng tiền phạt tiếp theo, Hoặc là, 2. Bằng những lời quở trách nghiêm khắc, mà từ ấy thường có nghĩa như vậy. Hoặc là 3. Bằng roi vọt, như đã được diễn đạt trong Phục Truyền Luật Lệ 25:2, 3. Điều này không lạ, xét đến danh tiếng của một người quý giá biết bao, mà hắn đã cố gắng tước đoạt khỏi [vợ hắn].
 
-**19** Và họ sẽ phạt hắn một trăm siếc-lơ bạc, và đưa cho cha của thiếu nữ, vì hắn đã mang tiếng xấu lên một trinh nữ của Y-sơ-ra-ên: và nàng sẽ làm vợ hắn; hắn không được bỏ nàng suốt đời.
+19 Và họ sẽ phạt hắn một trăm siếc-lơ bạc, và đưa cho cha của thiếu nữ, vì hắn đã mang tiếng xấu lên một trinh nữ của Y-sơ-ra-ên: và nàng sẽ làm vợ hắn; hắn không được bỏ nàng suốt đời.
 
 y. Vì đây là sự sỉ nhục cho gia đình nàng, và cho chính ông, vì sự sai trái như vậy của con gái ông sẽ bị quy cho sự giáo dục xấu của ông.
 
 z. Điều này dường như đã là ý định của hắn trong lời cáo buộc dối trá này, và vì vậy quyền ly dị được phép cho những người khác, Phục Truyền Luật Lệ 24:1, sẽ bị từ chối đối với hắn.
 
-**20** Nhưng nếu việc này là thật, và các dấu hiệu trinh tiết không được tìm thấy cho thiếu nữ:
+20 Nhưng nếu việc này là thật, và các dấu hiệu trinh tiết không được tìm thấy cho thiếu nữ:
 
-**21** Thì họ sẽ đem thiếu nữ ra cửa nhà cha nàng, và những người trong thành nàng sẽ ném đá nàng cho đến chết: vì nàng đã làm điều dại dột trong Y-sơ-ra-ên, để làm điếm trong nhà cha nàng: như vậy ngươi sẽ cất sự ác khỏi giữa ngươi.
+21 Thì họ sẽ đem thiếu nữ ra cửa nhà cha nàng, và những người trong thành nàng sẽ ném đá nàng cho đến chết: vì nàng đã làm điều dại dột trong Y-sơ-ra-ên, để làm điếm trong nhà cha nàng: như vậy ngươi sẽ cất sự ác khỏi giữa ngươi.
 
 a. Hỏi: Tại sao nàng phải chết khi tội của nàng chỉ là gian dâm, mà tội này ở người đàn bà không bị phạt bằng cái chết, Xuất Ê-díp-tô Ký 22:16, 17? Đáp: Vì không chỉ có gian dâm trong trường hợp này, như Xuất Ê-díp-tô Ký 22, nhưng điều này đi kèm với sự giả dối sâu xa và sự tổn thương cho chồng nàng trong lời tuyên bố dối trá về trinh tiết, và có thể cho rằng nàng đã phạm điều dại dột này sau khi nàng đã đính hôn với hắn, và vì vậy đã ngoan cố chối bỏ nó, vì biết sự nguy hiểm của nó trong trường hợp ấy; Hoặc Đức Chúa Trời đã định như vậy vì danh dự và sự bảo vệ của giường hôn nhân khỏi mọi sự ô uế, để nàng, là người đã bị ô uế trước khi nàng cưới hay đính hôn, và vì vậy không đáng bị xử tử, nhưng nếu nàng dám mang sự ô uế của mình vào tình trạng hôn nhân với lời tuyên bố giả dối về trinh tiết, thì nàng sẽ bị xử tử.
 
-**22** Nếu một người bị bắt gặp nằm với một người đàn bà đã có chồng, thì cả hai sẽ phải chết: cả người đàn ông đã nằm với người đàn bà, và người đàn bà: như vậy ngươi sẽ cất sự ác khỏi Y-sơ-ra-ên.
+22 Nếu một người bị bắt gặp nằm với một người đàn bà đã có chồng, thì cả hai sẽ phải chết: cả người đàn ông đã nằm với người đàn bà, và người đàn bà: như vậy ngươi sẽ cất sự ác khỏi Y-sơ-ra-ên.
 
 [Nếu hắn bị kết tội về lỗi này, dù không bị bắt quả tang trong hành động, [không đọc được trong bản scan]]
 
-**23** Nếu một thiếu nữ còn trinh đã đính hôn với một người chồng, và một người đàn ông gặp nàng trong thành, và nằm với nàng;
+23 Nếu một thiếu nữ còn trinh đã đính hôn với một người chồng, và một người đàn ông gặp nàng trong thành, và nằm với nàng;
 
 c. Vì bởi sự đính hôn này nàng đã thực sự cam kết với một người đàn ông khác, và trong một ý nghĩa nào đó là vợ của hắn, và vì vậy đôi khi được gọi như vậy, như Sáng Thế Ký 20:[không đọc được trong bản scan] Ma-thi-ơ 1:20.
 
-**24** Thì các ngươi sẽ đem cả hai ra cổng thành ấy, và sẽ ném đá chúng cho đến chết; thiếu nữ, vì nàng không kêu lên, khi ở trong thành: và người đàn ông, vì hắn đã làm nhục vợ của người lân cận mình: như vậy ngươi sẽ cất sự ác khỏi giữa ngươi.
+24 Thì các ngươi sẽ đem cả hai ra cổng thành ấy, và sẽ ném đá chúng cho đến chết; thiếu nữ, vì nàng không kêu lên, khi ở trong thành: và người đàn ông, vì hắn đã làm nhục vợ của người lân cận mình: như vậy ngươi sẽ cất sự ác khỏi giữa ngươi.
 
 d. Và vì vậy [nàng] được cho là đã đồng ý với việc ấy một cách công bằng.
 
-**25** Nhưng nếu một người đàn ông gặp một thiếu nữ đã đính hôn trong đồng ruộng, và cưỡng bức nàng, và nằm với nàng: thì chỉ người đàn ông đã nằm với nàng sẽ chết.
+25 Nhưng nếu một người đàn ông gặp một thiếu nữ đã đính hôn trong đồng ruộng, và cưỡng bức nàng, và nằm với nàng: thì chỉ người đàn ông đã nằm với nàng sẽ chết.
 
 e. Điều này phải được xem xét và quyết định bởi sự xem xét mọi hoàn cảnh.
 
-**26** Nhưng đối với thiếu nữ ngươi sẽ không làm gì; trong thiếu nữ không có tội đáng chết: vì như khi một người dấy lên chống lại người lân cận mình, và giết người ấy, thì việc này cũng vậy:
+26 Nhưng đối với thiếu nữ ngươi sẽ không làm gì; trong thiếu nữ không có tội đáng chết: vì như khi một người dấy lên chống lại người lân cận mình, và giết người ấy, thì việc này cũng vậy:
 
 f. [Đó là] hành động của sự lựa chọn, mà là của sự ép buộc và cưỡng bức, [không đọc được trong bản scan]
 
-**27** Vì hắn đã gặp nàng trong đồng ruộng, và thiếu nữ đã đính hôn đã kêu lên, mà không có ai cứu nàng.
+27 Vì hắn đã gặp nàng trong đồng ruộng, và thiếu nữ đã đính hôn đã kêu lên, mà không có ai cứu nàng.
 
 [Điều này] trong trường hợp ấy phải được cho là như vậy; lòng nhân từ bắt buộc chúng ta tin điều tốt nhất cho đến khi điều ngược lại được bày tỏ.
 
-**28** Nếu một người đàn ông gặp một thiếu nữ còn trinh, chưa đính hôn, và nắm lấy nàng, và nằm với nàng, và chúng bị phát hiện;
+28 Nếu một người đàn ông gặp một thiếu nữ còn trinh, chưa đính hôn, và nắm lấy nàng, và nằm với nàng, và chúng bị phát hiện;
 
 (Tức là) Một người đàn ông chưa có vợ, như tỏ ra, 1. Từ bổn phận của hắn phải cưới người bị lạm dụng, điều mà có lẽ sẽ không bị áp đặt lên hắn nếu hắn đã có vợ. 2. Vì nếu người đàn ông đã có vợ, thì đây đã là ngoại tình, và như vậy đã bị phạt bằng cái chết.
 
 j. Điều này ghi chú một loại sức mạnh hay mưu mẹo nào đó nhờ đó nàng bị chế ngự; trong khi Xuất Ê-díp-tô Ký 22:16, nàng bị dụ dỗ, điều này ngụ ý sự đồng ý, và vì vậy người đàn ông ở đây nhận một hình phạt [nặng hơn?], vì hắn đã dùng bạo lực thù địch đối với nàng, [đó là] [không đọc được trong bản scan]
 
-**29** Thì người đàn ông đã nằm với nàng sẽ đưa cho cha của thiếu nữ năm mươi siếc-lơ bạc, và nàng sẽ làm vợ hắn, vì hắn đã làm nhục nàng: hắn không được bỏ nàng suốt đời.
+29 Thì người đàn ông đã nằm với nàng sẽ đưa cho cha của thiếu nữ năm mươi siếc-lơ bạc, và nàng sẽ làm vợ hắn, vì hắn đã làm nhục nàng: hắn không được bỏ nàng suốt đời.
 
 k. Ngoài của hồi môn, như Phi-lô, người Giu-đa học thức, ghi chú, điều này ở đây bị bỏ qua, vì đó là điều thông thường và theo phong tục, và vì nó có thể dễ dàng được suy ra từ Xuất Ê-díp-tô Ký 22:16, vì chỉ cần nhắc đến điều đặc biệt trong trường hợp này là đủ.
 
@@ -5594,7 +5562,7 @@ l. Tức là, [nếu] cha nàng đồng ý với việc ấy, điều này phả
 
 m. Điều mà những người khác được phép làm, Phục Truyền Luật Lệ 24:1, và người đã dụ dỗ thiếu nữ, Xuất Ê-díp-tô Ký 22:16, không bị cấm làm.
 
-**30** Một người đàn ông sẽ không lấy vợ của cha mình, cũng không vén váy của cha mình.
+30 Một người đàn ông sẽ không lấy vợ của cha mình, cũng không vén váy của cha mình.
 
 n. Để làm vợ. Vì vậy điều này liên quan đến tình trạng, và phần tiếp theo nói về hành động.
 
@@ -6293,3 +6261,9 @@ x Điều này phải được nối hoặc là, 1. với những lời ngay tr�
 12 Và trong mọi bàn tay mạnh mẽ, và trong mọi sự kinh hãi lớn lao mà Môi-se đã bày tỏ trước mắt toàn thể Y-sơ-ra-ên.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

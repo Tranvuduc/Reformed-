@@ -1,10 +1,16 @@
-ĐỐI THOẠI, THƯ VÀ BIỆN HỘ
+CÁC CUỘC ĐỐI THOẠI VÀ LỜI BÀO CHỮA CỦA ANDREW FULLER
 
-Andrew Fuller · Dialogues and Letters between Crispus and Gaius; Three Conversations; Six Letters to Dr. Ryland; Remarks on Mr. Martin; Antinomianism Contrasted; An Apology for the Late Christian Missions to India
+Andrew Fuller · Dialogues and Letters between Crispus and Gaius; Three Conversations; Six Letters to Dr. Ryland; Remarks on Mr. Martin; Antinomianism Contrasted; An Apology for the Late Christian Missions to India Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 16 giờ · 168.186 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 LỜI GIỚI THIỆU NGẮN Đây là bản dịch tiếng Việt của Đơn vị U4 trong tập II của The Complete Works of the Rev. Andrew Fuller (American Baptist Publication Society, Philadelphia, 1845), gồm: Dialogues and Letters between Crispus and Gaius (Các cuộc đối thoại và thư từ giữa Crispus và Gaius), Three Conversations on Imputation, Substitution, and Particular Redemption (Ba cuộc trò chuyện về sự quy tội, sự thay thế, và sự chuộc tội đặc biệt), Six Letters to Dr. Ryland on the Controversy with Mr. A. Booth (Sáu bức thư gửi Tiến sĩ Ryland), Remarks on Mr. Martin's publication (Nhận xét về ấn phẩm của ông Martin), Antinomianism Contrasted with the Religion Taught and Exemplified in the Scriptures (Chủ nghĩa phản luật pháp tương phản với tôn giáo được dạy trong Kinh Thánh), và An Apology for the Late Christian Missions to India (Lời bào chữa cho những truyền giáo Cơ Đốc gần đây đến Ấn Độ, cùng Phụ lục). Phần Strictures on Sandemanianism đứng trước trong tập này đã được dịch ở Batch 46, không dịch lại. Các trích dẫn Kinh Thánh được dịch từ tiếng Anh của tác giả, KHÔNG được đối chiếu với bản dịch Kinh Thánh tiếng Việt năm 1934, và cần được mục sư kiểm duyệt trước khi xuất bản.
 
@@ -1854,7 +1860,7 @@ Thứ ba, Ngay cả những phần mà tác giả của chúng ta đã chọn v�
 
 Giáo lý của họ về "Một Hữu Thể Tối Cao!" là như vậy! Vậy Đức Chúa Trời vinh hiển vô hạn có nên không chỉ được liên kết, mà còn được đồng nhất, với đám đông các vị thần ngoại giáo, tất cả đều tồn tại trong những của lễ của các brahmin không? Danh phước hạnh của Ngài có nên bị hủy diệt và mất trong danh của họ không? Tốt hơn nghìn lần là không nhắc đến Ngài còn hơn giới thiệu Ngài trong một nhóm như vậy. Dù câu cuối cùng cẩn thận bảo vệ ý tưởng về hành động của con người, đến mức thực sự mang vẻ của tác phẩm hiện đại; nhưng chắc chắn rằng các brahmin, trên nguyên tắc này, liên tục bào chữa cho mình khỏi bị khiển trách trong mọi việc làm của họ, vì họ thường cáo buộc với các nhà truyền giáo rằng không phải họ, mà Đức Chúa Trời trong họ, thực hiện điều ác.
 
-Điều tiếp theo còn tệ hơn: — "Chúng ta có thể chiêm ngưỡng ê-te tinh tế trong các khoang của thân thể của Ngài [nghĩa là, của Đức Chúa Trời]; không khí, trong chuyển động cơ bắp và dây thần kinh nhạy cảm của Ngài: ánh sáng mặt trời và lửa tối cao, trong nhiệt tiêu hóa và cơ quan thị giác của Ngài: trong chất lỏng cơ thể của Ngài, nước; trong những phần đất của cấu trúc của Ngài, đất. Trong tim Ngài, mặt trăng: trong dây thần kinh thính giác của Ngài, những người bảo vệ tám vùng;† trong chuyển động tiến bộ của Ngài, Visunu;‡ trong sức mạnh cơ bắp, Hara;§ trong cơ quan nói của Ngài, Agni;|| trong sự bài tiết, Mitra;¶ trong sự sinh sản, Brahma."** † Tám điểm của la bàn. ‡ Đấng bảo tồn. § Đấng hủy diệt. || Thần lửa. ¶ Mặt trời. ** Đấng sáng tạo. — trang 27.
+Điều tiếp theo còn tệ hơn: — "Chúng ta có thể chiêm ngưỡng ê-te tinh tế trong các khoang của thân thể của Ngài [nghĩa là, của Đức Chúa Trời]; không khí, trong chuyển động cơ bắp và dây thần kinh nhạy cảm của Ngài: ánh sáng mặt trời và lửa tối cao, trong nhiệt tiêu hóa và cơ quan thị giác của Ngài: trong chất lỏng cơ thể của Ngài, nước; trong những phần đất của cấu trúc của Ngài, đất. Trong tim Ngài, mặt trăng: trong dây thần kinh thính giác của Ngài, những người bảo vệ tám vùng;† trong chuyển động tiến bộ của Ngài, Visunu;‡ trong sức mạnh cơ bắp, Hara;§ trong cơ quan nói của Ngài, Agni;|| trong sự bài tiết, Mitra;¶ trong sự sinh sản, Brahma." † Tám điểm của la bàn. ‡ Đấng bảo tồn. § Đấng hủy diệt. || Thần lửa. ¶ Mặt trời. Đấng sáng tạo. — trang 27.
 
 Tôi cho rằng người đọc đã có đủ, và không cần những suy ngẫm của tôi. Hãy để chúng ta nghe Người Biện Hộ cho việc thờ hình tượng. "Đúng là nói chung họ thờ phượng Thần Linh qua trung gian của hình tượng; và chúng ta học một cách thỏa đáng từ Geeta rằng không phải chỉ hình tượng; mà là Thần Linh vô hình, mà họ thờ phượng như vậy," — trang 44. Và như vậy từ Abulfazel:* * Abulfazel là thủ tướng của Ackbar, một trong những hoàng đế Mogul vào thế kỷ mười sáu, người, nhận thấy những ảnh hưởng xấu của sự bắt bớ Mahomedan, đã cố gắng hòa giải các đảng phái tôn giáo khác nhau trong đế chế, và thuyết phục đảng phái của triều đình nghĩ thuận lợi về đảng phái của đất nước, "'Họ một và tất cả tin vào sự hiệp nhất của Thần Linh; và dù họ giữ hình tượng trong sự tôn kính cao, nhưng họ không hề là những người thờ thần tượng, như những người ngu dốt cho rằng. Chính tôi thường xuyên thảo luận về chủ đề này với nhiều người có học và ngay thẳng của tôn giáo này, và hiểu giáo lý của họ; đó là, những hình tượng chỉ là những biểu tượng của các hữu thể thiên thượng, mà họ hướng về trong khi cầu nguyện để ngăn những suy nghĩ của họ lang thang; và họ nghĩ đó là bổn phận không thể thiếu để gửi đến Thần Linh theo cách đó," — trang 47.
 
@@ -2271,3 +2277,9 @@ Thật không may cho tục ngữ này, tôi không nhớ từng nghe nó đư�
 HẾT TẬP II.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

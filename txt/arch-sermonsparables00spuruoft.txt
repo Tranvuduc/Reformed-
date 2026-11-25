@@ -1,10 +1,18 @@
 CÁC BÀI GIẢNG VỀ DỤ NGÔN CỦA CHÚA — C. H. SPURGEON (PHẦN CHƯA DỊCH: 33 BÀI)
 
-C. H. Spurgeon · Sermons on Our Lord's Parables (Passmore & Alabaster, 1904): The Untranslated Portion (33 sermons)
+C. H. Spurgeon · Sermons on Our Lord's Parables (Passmore & Alabaster, 1904): The Untranslated Portion (33 sermons) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 30 giờ · 314.742 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CÁC BÀI GIẢNG VỀ DỤ NGÔN CỦA CHÚA — C. H. SPURGEON (PHẦN CHƯA DỊCH: 33 BÀI) C. H. Spurgeon (1834–1892) Nguyên tác: Sermons on Our Lord's Parables (Passmore & Alabaster, 1904): The Untranslated Portion (33 sermons) Nguồn: Archive.org (bản quét)
 
@@ -3507,3 +3515,9 @@ lời khủng khiếp. So sánh chính Ngài với hòn đá đáng lẽ phải 
 GHI CHÚ CỦA NGƯỜI DỊCH — PHẠM VI VÀ CÁC PHẦN LƯỢC BỎ Tập "Sermons on Our Lord's Parables" (Passmore & Alabaster, 1904) gồm 65 bài giảng. Bản dịch này chỉ gồm 33 bài chưa từng được dịch (xem Mục Lục ở đầu file); 32 bài còn lại đã có bản dịch đầy đủ trong thư viện hoặc batch này nên không dịch lại (danh sách kèm bằng chứng ở đầu file). Việc đối chiếu từng bài theo tựa + văn bản + ngày giảng + câu mở đầu, không theo số bài đơn độc, vì số bài in trong mục lục và thân bài có nhiều chỗ sai. Các số bài đã hiệu đính theo bằng chứng (không theo mục lục/thân bài OCR): Món Hời Lớn là số 1424 (mục lục ghi 1121 là sai; 1121 thật là bài khác); Làm Việc Cho Chúa Giê-xu là số 1338 (mục lục ghi 1838 là sai; 1838 thật là bài khác); Phần Thưởng Của Người Công Chính là số 671 (mục lục ghi 071 là sai); Sự Tiếp Đón Người Con Hoang Đàng là số 588 (thân bài OCR sai thành 583); Đầy Tớ Vô Ích giảng ngày 6/6/1880 (thân bài OCR "JUNE GTH"); Người Đàn Bà Góa Kiên Trì Nài Xin là số 856 (mục lục ghi 850 là sai). Các ngày giảng chưa đọc chắc được, giữ nguyên dạng mờ kèm cờ: Người Sa-ma-ri Nhân Lành chỉ đọc được tháng 6/1877 (ngày OCR mờ); Bài Giảng Về Sự Cầu Nguyện ngày trong tháng Giêng 1888 OCR thành "STH" không đọc chắc được; Đấng Chăn Chiên Vĩ Đại Tìm Được Con Chiên định đọc tháng 1/1889, ngày OCR mờ ("2?TH"). Bài Mở Mắt Những Kẻ Bỏ Bê ghi năm 1867 trong tập này, trong khi CCEL ghi 1866 cho cùng bài (cùng tựa, văn bản và địa điểm) — giữ năm 1867 theo tập này. Sáu bài không ghi ngày trong tập này (Món Hời Lớn, Làm Việc Cho Chúa Giê-xu, Sự Phân Cách Cuối Cùng, Chiên và Người Chăn Của Chúng, Sự Sống Đời Đời, Hãy Cân Nhắc Trước Khi Chiến Đấu) được xác định bằng số bài + văn bản + câu mở đầu. Đã lược bỏ và không dịch: trang tựa, Mục Lục đầu tập, danh mục sách của nhà xuất bản đầu và cuối tập; mọi tiêu đề chạy trang, số bài giảng in rời, số trang, danh sách thánh ca hát trước bài giảng; các dòng "PORTION OF SCRIPTURE READ BEFORE SERMON" và mảnh vỡ giữa các bài (vốn thuộc về bài trước, không phải bài sau); thư của Spurgeon kèm sau bài Chiên và Người Chăn Của Chúng và ghi chú của nhà xuất bản sau bài Gieo Giữa Gai Góc; 7 đoạn tiêu đề chạy trang/số bài đã lược khi chia chunk (P0024, P0378, P0686, P1316, P2601, P2654) cùng tiêu đề lặp P1352 của bài Hãy Ép Họ Vào; và 75 đoạn trống (tiêu đề chạy trang/mảnh in vụn) đã lược khi ráp nối. Các chỗ OCR hỏng không khôi phục chắc chắn được đã được đánh dấu tại chỗ (6 vị trí trong thân bản), không đoán mò.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

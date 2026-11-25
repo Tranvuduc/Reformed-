@@ -1,8 +1,14 @@
 BÌNH GIẢI PHÊ BÌNH, GIẢI NGHĨA VÀ THỰC HÀNH VỀ PHÚC ÂM GIĂNG, DÀNH CHO MỤC SƯ, SINH VIÊN THẦN HỌC, CƠ ĐỐC NHÂN, LỚP KINH THÁNH VÀ TRƯỜNG CHÚA NHẬT
 
-John Owen · A commentary, critical, expository, and practical, on the Gospel of Jo
+John Owen · A commentary, critical, expository, and practical, on the Gospel of Jo Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 45 giờ 10 phút · 474.343 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Nguồn: Xem bản gốc tại Internet Archive.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -11041,3 +11047,9 @@ Phúc Âm, hay đặt lên đó ấn chứng của Hội Thánh về chân lý l
 Ghi chú của người dịch: Bản dịch này dịch toàn bộ nội dung bản quét archive.org của tác phẩm (lời tựa của tác giả, lời tựa về Phúc Âm Giăng, và phần bình giải Giăng 1–21, kết thúc ở ghi chú về Giăng 21:25). Đã loại bỏ: khuôn mẫu của archive.org, trang tựa, dấu thư viện và thẻ mục lục ở cuối bản quét, cùng các tiêu đề chạy trang, số trang và dấu in (xem drops.log); hai tiêu đề chạy trang còn sót trong khối 01 (P0034, P0039) cũng đã loại bỏ khi ráp. Những đoạn OCR không đọc được được gắn cờ [NEEDS REVIEW: ...] tại chỗ, không đoán. Một số câu Kinh Thánh cuối đoạn được bổ sung từ bản văn Giăng chuẩn và đã gắn cờ (P0736, P3980); một đoạn bị bỏ sót trong khối 05 (P0592, phần tiếp của câu diễn giải Giăng 3:12) đã được dịch bổ sung từ bản quét khi ráp; các trích dẫn và cách đọc của tác giả được giữ nguyên như in, kể cả những số năm và số câu rõ ràng là lỗi in/OCR, trừ khi đã gắn cờ.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

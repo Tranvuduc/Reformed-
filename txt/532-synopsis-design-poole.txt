@@ -1,8 +1,12 @@
 ĐỀ ÁN TUYỂN TẬP CHÚ GIẢI KINH THÁNH
 
-Matthew Poole · 532-synopsis-design-poole
+Matthew Poole · 532-synopsis-design-poole Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 30 phút · 4.969 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Claude) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -87,3 +91,9 @@ Mẫu của công trình: toàn bộ chương 6 sách Sáng Thế Ký. [Tiêu đ
 Chúng tôi, những người ký tên dưới đây, xin cam kết [đóng] các khoản tiền mà chúng tôi đã ghi bên dưới, theo các điều khoản đề xuất cho việc in ấn bộ Tuyển tập các nhà giải thích phê bình và các nhà giải thích khác về Kinh Thánh, theo đúng bản mô tả và mẫu đã in. Các khoản tiền ấy sẽ được nộp theo cách thức và điều kiện như đã ký cam kết. [NEEDS REVIEW: bản OCR có chỗ mờ — "promiſe 7177 the ſeveral Summs" và "according to 4 Deſcription".]
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

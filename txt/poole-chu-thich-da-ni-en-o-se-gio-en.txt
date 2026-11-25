@@ -1,12 +1,18 @@
-CHÚ THÍCH ĐA-NI-ÊN, Ô-SÊ & GIÔ-ÊN
+CHÚ THÍCH VỀ KINH THÁNH — ĐA-NI-ÊN, Ô-SÊ & GIÔ-ÊN
 
-Matthew Poole · Annotations upon the Holy Bible, Vol. II: Daniel, Hosea & Joel (1700)
+Matthew Poole · Annotations upon the Holy Bible, Vol. II: Daniel, Hosea & Joel (1700) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 15 giờ 45 phút · 165.223 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
-Matthew Poole, *Annotations upon the Holy Bible* (Chú thích về Kinh Thánh), Tập II, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700_2` (bản scan EEBO); bản sao làm việc: `sources/poole_annotations_1700_vol2_djvu.txt`.
+AI, chưa duyệt
+
+Matthew Poole, Annotations upon the Holy Bible (Chú thích về Kinh Thánh), Tập II, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700_2` (bản scan EEBO); bản sao làm việc: `sources/poole_annotations_1700_vol2_djvu.txt`.
 
 [LƯU Ý VỀ TÁC GIẢ: Từ sách Giê-rê-mi trở đi, Tập II này KHÔNG phải là tác phẩm của chính Matthew Poole. Trang tựa ghi rõ: "VOL. II… Being a Continuation of Mr. POOLE'S Work by certain Judicious and Learned Divines. The Fourth Edition… Corrected and Amended by Mr. Sam. Clark, and Mr. Veale…" — tức là phần tiếp nối công trình của ông Poole do một số thần học gia có học thức biên soạn, được ông Sam. Clark và ông Veale hiệu đính. Bản dịch này trình bày đúng như trong bản in, không gán phần này cho ông Poole.]
 
@@ -2725,3 +2731,9 @@ Câu 21. Vì Ta sẽ tẩy sạch huyết của chúng mà Ta chưa tẩy sạch
 Chú thích: h Và theo tiếng Hê-bơ-rơ, Ta sẽ tẩy sạch cả bởi Thánh Linh của sự nên thánh lẫn bởi sự tha thứ tự do trong huyết của Đấng Cứu Chuộc, bởi những sự chịu khổ của chúng nữa, bởi những dòng nước của hoạn nạn, cũng như bởi sự rửa của sự tái sinh, và sự đổi mới của Đức Thánh Linh. i Những ô uế đạo đức và tội lỗi của chúng được ví ở đây như huyết, như Ê-xê-chi-ên 16:6, 9 cũng vậy, và vì vậy những người trong tình trạng tội lỗi được gọi là xác thịt và huyết, Ma-thi-ơ 16:17 và Ga-la-ti 1:16. Đức Chúa Trời sẽ tha thứ và thanh tẩy những tín hữu; và khi chúng đã được tha thứ và thanh tẩy, không có điều gì mưu tính chống lại chúng sẽ thành công. k Điều mà trước kia Ta chưa cất đi; những gì còn thiếu trong sự nên thánh hay sự xưng công chính, và sự hòa thuận của chúng, Ta sẽ bổ sung trong chúng và cho chúng. l [không đọc được trong bản scan — chú thích cho "vì" đã mất trong lớp chữ]. m Và Ta là Giê-hô-va ngự tại Si-ôn, là nơi luật pháp của ân điển đã được công bố, nơi những điều kỳ diệu của ân điển tha thứ và thánh hóa được thực hiện, để Y-sơ-ra-ên có thể là một dân sự mà Đức Chúa Trời thánh khiết có thể ngự cùng. Bây giờ vì điều nầy chỉ có thể được thực hiện một phần ở đây trên đất, nên có một Si-ôn ở trên, nơi Giê-hô-va, Đấng ngự tại đó, sẽ đem mọi thánh đồ đến sau ngày phán xét, sau khi đã minh oan, tuyên bố vô tội, và tuyên bố chúng thánh khiết và xứng đáng để hưởng Đấng Thánh.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

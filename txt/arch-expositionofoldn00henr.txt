@@ -1,10 +1,18 @@
 GIẢI NGHĨA CỰU ƯỚC VÀ TÂN ƯỚC, TẬP V — BỐN SÁCH PHÚC ÂM: MA-THI-Ơ, MÁC, LU-CA, GIĂNG
 
-Matthew Henry · An Exposition of the Old and New Testaments, Vol. 5: The Four Gospels: Matthew, Mark, Luke, John
+Matthew Henry · An Exposition of the Old and New Testaments, Vol. 5: The Four Gospels: Matthew, Mark, Luke, John Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 167 giờ 25 phút · 1.757.990 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 GIẢI NGHĨA CỰU ƯỚC VÀ TÂN ƯỚC, TẬP V — BỐN SÁCH PHÚC ÂM: MA-THI-Ơ, MÁC, LU-CA, GIĂNG Matthew Henry (1662–1714) Nguyên tác: An Exposition of the Old and New Testaments, Vol. 5: The Four Gospels: Matthew, Mark, Luke, John Nguồn: Archive.org (bản quét)
 
@@ -18053,3 +18061,9 @@ C. Các chunk nát nặng nhất (ưu tiên kiểm tra) - Chunk 030: 236 NEEDS R
 D. Thuật ngữ và trích dẫn - Các khối câu Kinh Thánh trong Giăng 14–18 (chunk 153–170) và Giăng 13:18–30 (chunk 158) được dịch theo văn phong 1934, CHƯA được đối chiếu từng chữ với bản Kinh Thánh 1934 — hiệu đính viên cần kiểm tra lại từng câu theo bản 1934. - "Tin Lành" xuất hiện 16 lần trong thân bản: 13 lần trong các câu Kinh Thánh trích theo văn phong 1934 (Ma-thi-ơ 4:23; 11:5; Mác 16:15; Lu-ca 1:19; 2:10; 3:18; 4:18; 4:43; 7:22; 8:1; 9:6; 16:16; 20:1), 1 lần chỉ người theo đạo Tin Lành, 2 lần trong ghi chú giải thích Lu-ca 3:18 — không có lần nào dùng "Tin Lành" để dịch "gospel" trong phần luận giải. "Thiên Chúa" không xuất hiện lần nào. - Các chữ in dài (long-s) được phục hồi theo cơ chế chung, không ghi chú từng chữ (chunk 082–083, 085–090, 091, 095, 096, 100); các lỗi in sai một ký tự thường gặp cũng được phục hồi theo cơ chế chung, không ghi chú từng chữ (chunk 153, 156, 161–170). - Chunk 085 giữ nguyên câu "blessed art thou among women" (Lu-ca 1:28) như bản in (KJV). - Cần kiểm tra lại: chunk 163, "ánh sáng của Phúc Âm" là cách đọc tốt nhất từ một dòng gần như không đọc được; chunk 165, cặp "Gia-bết / Bê-nô-ni" — đối chiếu cách viết "Gia-bết" với bản 1934 (1 Sử Ký 4:9); chunk 169, câu "It is no disgrace to the followers of Christ to fall tamely" dịch sát như in, không ghi chú — xác nhận lại lời của Henry; chunk 173, chữ Hy Lạp "aron, aron" dịch theo lối diễn giải, không ghi chú riêng — kiểm tra từ nguồn; chunk 176, "Then 'then'" trùng lặp do lỗi OCR, đã dịch một lần, không ghi chú — kiểm tra; số mục "[2.] The impression…" và "(5.)" đã được phục hồi sau "[1.] The method…" và "(^•)" bị nát — kiểm tra; chunk 174, "a/zr<°s<°;7c.f" không đọc được — ghi chú đã đứng thay cho chữ đó, không đoán mò. - "Phúc Âm" dịch "gospel", "ân điển" dịch "grace", "sự xưng công chính" dịch "justification", "sự chuộc tội" dịch "atonement", "sự thần cảm" dịch "inspiration"; các thuật ngữ khác theo bảng 16 từ của đợt. Các từ cấm ("sự xưng công bình", "ân sủng", "tin mừng", "Thiên Chúa", "bí tích", "rửa tội", "sự xưng nghĩa", "hà linh") không xuất hiện trong thân bản.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

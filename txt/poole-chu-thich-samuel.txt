@@ -1,14 +1,20 @@
-CHÚ THÍCH SA-MU-ÊN
+CHÚ THÍCH VỀ KINH THÁNH — 1 & 2 SA-MU-ÊN
 
-Matthew Poole · Annotations upon the Holy Bible, Vol. I: 1 and 2 Samuel (1700)
+Matthew Poole · Annotations upon the Holy Bible, Vol. I: 1 and 2 Samuel (1700) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 17 giờ 45 phút · 186.423 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CHÚ THÍCH VỀ 1 VÀ 2 SA-MU-ÊN
 
-Matthew Poole, *Annotations upon the Holy Bible* (Chú thích về Kinh Thánh), Tập I, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700` (bản scan EEBO).
+Matthew Poole, Annotations upon the Holy Bible (Chú thích về Kinh Thánh), Tập I, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700` (bản scan EEBO).
 
 Phạm vi của tập này: chỉ 1 và 2 Sa-mu-ên. Dòng tiêu đề in tên sách ("I SAMUEL") không còn đọc được trong lớp OCR của bản scan; phần Sa-mu-ên mở đầu bằng phần Lập luận (Argument) chung cho cả hai sách. Tập này kết thúc ở cuối 2 Sa-mu-ên chương 24, trước phần Lập luận của 1 Các Vua.
 
@@ -17,8 +23,6 @@ Về bản văn Kinh Thánh: sách này in toàn bộ bản văn Kinh Thánh ti�
 Về tình trạng bản scan: đây là bản scan EEBO với chữ ſ (s dài) và nhiều chỗ OCR bị hỏng, các cột thường bị xen kẽ nhau. Những chỗ không đọc được đã được đánh dấu [không đọc được trong bản scan] và không hề đoán mò.
 
 Thuật ngữ theo bảng thuật ngữ cố định: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh. "Đền tội" không bao giờ dùng để dịch sự chuộc tội của Đấng Christ; trong tập này, "sự chuộc tội" được dùng cho sự chuộc tội của Đấng Christ.
-
----
 
 LẬP LUẬN.
 
@@ -6413,3 +6417,9 @@ Chú thích o: Hạt 'như', được hiểu ngầm, như thường có trong ti
 Chú thích y: Vì [Không đọc được trong bản scan...] [1 Sử Ký 21:23].
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

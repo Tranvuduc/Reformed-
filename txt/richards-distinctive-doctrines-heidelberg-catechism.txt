@@ -1,10 +1,16 @@
 NHỮNG GIÁO LÝ ĐẶC TRƯNG CỦA GIÁO LÝ VẤN ĐÁP HEIDELBERG
 
-George Warren Richards · Studies on the Heidelberg Catechism, Chapter VI: Distinctive Doctrines of the Heidelberg Catechism
+George Warren Richards · Studies on the Heidelberg Catechism, Chapter VI: Distinctive Doctrines of the Heidelberg Catechism Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 1 giờ 10 phút · 12.477 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Molly) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CHƯƠNG VI
 
@@ -151,3 +157,9 @@ GHI CHÚ CỦA NGƯỜI DỊCH
 1. Các trích dẫn đáp án Giáo Lý Vấn Đáp Heidelberg trong bản dịch này dùng đúng lời văn của bản chuẩn của trang trong translations/heidelberg.txt (không dùng bản 502). Những chỗ Richards trích dẫn một phần đáp án thì chỉ dịch đúng phần được trích; những chỗ bản Anh ngữ cũ của Richards khác với bản chuẩn tiếng Việt (ví dụ Đáp 44: bản Anh ngữ nói "redeemed many", bản chuẩn nói "đã giải cứu ta"; Đáp 76: thứ tự "flesh... bone..." ngược với bản chuẩn "xương... thịt...") thì theo bản chuẩn. 2. Trích dẫn Kinh Thánh nguyên văn duy nhất trong chương này: Rô-ma 7:24 — "Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết nầy?" — đối chiếu từng chữ với hub 1934 (kinh-thanh/rom/7.html). Các câu Kinh Thánh khác chỉ được nhắc số tham chiếu, không trích nguyên văn. Câu "Nếu Đức Chúa Trời ở cùng chúng ta, thì ai chống lại chúng ta được?" là lời nói của Calvin khi cho học trò ra về (ý paraphrase Rô-ma 8:31), không trình là trích dẫn 1934 nguyên văn — bản 1934 Rô-ma 8:31 đọc khác. 3. Cờ xem lại trong thân bài: 1 cờ, ở đoạn về các Hỏi 60 và 65 (tham chiếu in có thể sai số). (Cờ về từ "intuned" trong đoạn về tính khách quan của ân điển trong các thánh lễ đã được gỡ ở khâu tích hợp: nguồn thực ra ghi "intoned"; bản dịch "được nhấn mạnh" giữ nguyên.) Xem danh sách đầy đủ trong DELIVERY-NOTE.md. 4. Dấu chú thích không có nội dung chú thích trong nguồn: các ký tự "6" (sau đoạn trích Hỏi 96), "@" (sau đoạn về nguyên tắc hình thức), "'3" (sau đoạn về Hội Thánh) và "7" (sau đoạn về lòng tin kính theo Calvin) xuất hiện trong bản OCR nhưng không có nội dung chú thích nào trong nguồn; không bịa nội dung chú thích. 5. Tiêu đề chạy (running heads) và số trang in (78–105, "THE HEIDELBERG CATECHISM", "THE DISTINCTIVE DOCTRINES", "Io!" = 101, "gr" = 91) đã lược bỏ, không dịch. Các lỗi OCR đã sửa có bằng chứng nguồn được liệt kê đầy đủ trong DELIVERY-NOTE.md (ví dụ "Question g1" = Hỏi 91; "terme" = "to me"; "oars eis" trong đoạn trích Hỏi 54). 6. Các thuật ngữ La-tinh/Đức giữ nguyên: donum Dei superadditum; ecclesia docens / ecclesia audiens; ubiquitas carnis Christi; facultas applicandi se ad gratiam; helle; ad inferna; allgemeine; eine heilige allgemeine Christliche Kirche; die Kirche nach Gottes Wort reformirt; sie wirkt; Wasser thut's freilich nicht; "Wie wirst du im heiligen Abendmahl erinnert & versichert, etc."; "Wozu dient es (das Nachtmal)?". 7. Chú thích về từ "sự công bình": từ này xuất hiện 1 lần trong thân bài, nằm trong trích dẫn đáp án Hỏi 12 theo đúng lời văn bản chuẩn của trang ("Đức Chúa Trời muốn sự công bình Ngài được thỏa mãn") — không phải giọng của người dịch. Giọng người dịch dùng "sự công chính" cho righteousness. Tương tự, "nước thiên đàng" chỉ xuất hiện trong trích dẫn đáp án Hỏi 83 theo bản chuẩn của trang.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

@@ -1,8 +1,12 @@
 GHI CHÉP VỀ NGƯỜI DO THÁI VÀ XỨ SỞ HỌ QUA CÁC TÁC GIẢ CỔ ĐIỂN
 
-John Gill · Notices of the Jews and their Country by the Classic Writers of Antiquity
+John Gill · Notices of the Jews and their Country by the Classic Writers of Antiquity Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 5 giờ 25 phút · 56.444 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -494,13 +498,13 @@ NICOLAUS DAMASCENUS, một nhà hùng biện hùng hồn và sử gia, sống th
 
 * Praep. Evang., 9. [NEEDS REVIEW: nguyên văn "Pracp. Evang, 9"]
 
-M. FABIUS QUINTILIANUS [NEEDS REVIEW: nguyên văn "M..Fasrus Quintizianus"] (sinh khoảng năm 40 sau Công nguyên), sau khi đưa ra nhận xét chung rằng "sự ô nhục theo đuổi một số người sau khi chết," bèn nói tiếp, để minh họa, rằng "các đấng sáng lập thành phố thật đáng hổ thẹn khi đã quy tụ bất kỳ dòng giống nào gây hại cho người khác, như kẻ chủ xướng đầu tiên của mê tín Do Thái, và những luật đáng ghét của anh em Gracchi."*
+M. FABIUS QUINTILIANUS [NEEDS REVIEW: NGUYÊN VĂN "M..FASRUS QUINTIZIANUS"] (SINH KHOẢNG NĂM 40 SAU CÔNG NGUYÊN), SAU KHI ĐƯA RA NHẬN XÉT CHUNG RẰNG "SỰ Ô NHỤC THEO ĐUỔI MỘT SỐ NGƯỜI SAU KHI CHẾT," BÈN NÓI TIẾP, ĐỂ MINH HỌA, RẰNG "CÁC ĐẤNG SÁNG LẬP THÀNH PHỐ THẬT ĐÁNG HỔ THẸN KHI ĐÃ QUY TỤ BẤT KỲ DÒNG GIỐNG NÀO GÂY HẠI CHO NGƯỜI KHÁC, NHƯ KẺ CHỦ XƯỚNG ĐẦU TIÊN CỦA MÊ TÍN DO THÁI, VÀ NHỮNG LUẬT ĐÁNG GHÉT CỦA ANH EM GRACCHI."*
 
 * De Inst. Orat., Lib. III, ch. 7. [NEEDS REVIEW: nguyên văn "De Lust. Orator, Lib. III, ¢ 7"]
 
 Một số nhà chú giải Quintilian đã tưởng tượng rằng ông dùng cụm "primus Iudaicae superstitionis auctor" để ám chỉ Chúa Giê-xu Christ. Nhưng việc Justin [NEEDS REVIEW: có lẽ là Quintilian — nguyên văn "Justin"] thân thiết với gia đình của Quan Consul Cơ Đốc Clemens, thậm chí dạy dỗ các con trai ông, khiến cho việc ông có thể nói về Đấng Christ như thế gần như không thể; trong khi đó, sự bảo trợ ông nhận từ Domitian, và khoản lương trả từ ngân khố Hoàng gia dưới thời Vespasian — vào lúc người Do Thái đang mất giá, và Hoàng đế đang được tôn vinh như kẻ chinh phục họ — khiến rất có thể Quintilian sẽ vui lòng nắm lấy cơ hội bày tỏ thiên kiến chính trị chống lại họ.
 
-M. ANNAEUS LUCANUS [NEEDS REVIEW: nguyên văn "M. Annazus Lucanus"] (mất năm 65 sau Công nguyên), người đã viết một bộ lịch sử bằng thơ về các cuộc nội chiến giữa Pompey và Julius Caesar, có lẽ muốn đánh dấu tính vô hình của Đức Chúa Trời mà người Do Thái thờ phượng, khi ông để Pompey nói:* "Người Cappadocia và Giu-đê (xứ) của Đức Chúa Trời không chắc chắn, cùng xứ Sophene mềm yếu, đều cúi đầu trước cờ hiệu của ta." Pharsal., Lib. II, dòng 592-3.
+M. ANNAEUS LUCANUS [NEEDS REVIEW: NGUYÊN VĂN "M. ANNAZUS LUCANUS"] (MẤT NĂM 65 SAU CÔNG NGUYÊN), NGƯỜI ĐÃ VIẾT MỘT BỘ LỊCH SỬ BẰNG THƠ VỀ CÁC CUỘC NỘI CHIẾN GIỮA POMPEY VÀ JULIUS CAESAR, CÓ LẼ MUỐN ĐÁNH DẤU TÍNH VÔ HÌNH CỦA ĐỨC CHÚA TRỜI MÀ NGƯỜI DO THÁI THỜ PHƯỢNG, KHI ÔNG ĐỂ POMPEY NÓI:* "NGƯỜI CAPPADOCIA VÀ GIU-ĐÊ (XỨ) CỦA ĐỨC CHÚA TRỜI KHÔNG CHẮC CHẮN, CÙNG XỨ SOPHENE MỀM YẾU, ĐỀU CÚI ĐẦU TRƯỚC CỜ HIỆU CỦA TA." PHARSAL., LIB. II, DÒNG 592-3.
 
 Cappadoces mea signa timent, et Incerti Iudaea Dei, mollisque Sophene [NEEDS REVIEW: nguyên văn "et Ineerti Judaca Dei"].
 
@@ -1175,3 +1179,9 @@ Ch. 40, "Khi Judaea công khai khuất phục dưới một chính quyền bạo
 2 B.C. 63.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

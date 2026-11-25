@@ -1,8 +1,12 @@
 BÀI LUẬN VỀ PHỤNG VỤ THEO NGHI THỨC ĐỊNH SẴN
 
-David Clarkson · A discourse concerning liturgies. 1689
+David Clarkson · A discourse concerning liturgies. 1689 Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 8 giờ 5 phút · 85.166 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -3115,3 +3119,9 @@ FINIS.
 Ghi chú: Bản dịch này dịch toàn văn bài luận từ bản quét archive.org của ấn bản London 1689. Đã loại trừ: các trang quảng cáo Proposals của nhà in đặt trước trang tựa; quảng cáo sách Primitive Episcopacy đặt sau chữ FINIS; tiêu đề chạy trang và số trang; các câu trích Hy Lạp trên trang tựa bị OCR làm hỏng nặng nên không đưa vào bản dịch. Chính tả cổ thế kỷ 17 được chuyển sang tiếng Việt hiện đại theo nghĩa. Các đoạn văn bị ngắt trang trong bản quét được giữ nguyên thứ tự; những chỗ OCR không đọc được đã được đánh dấu để duyệt lại, không đoán mò. Các trích dẫn La-tinh có bản dịch tiếng Anh kèm theo trong nguồn được dịch theo bản tiếng Anh đó.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

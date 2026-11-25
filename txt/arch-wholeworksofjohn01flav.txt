@@ -1,10 +1,18 @@
 TOÀN TẬP CỦA JOHN FLAVEL, TẬP I: SUỐI NGUỒN SỰ SỐNG — BÀI GIẢNG I–XXXVII VÀ CÁC THƯ TỰA
 
-John Flavel · The Whole Works of John Flavel, Vol. 1 (London: W. Baynes and Son, 1820): The Fountain of Life, Sermons 1–37
+John Flavel · The Whole Works of John Flavel, Vol. 1 (London: W. Baynes and Son, 1820): The Fountain of Life, Sermons 1–37 Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 29 giờ 35 phút · 310.578 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 TOÀN TẬP CỦA JOHN FLAVEL, TẬP I: SUỐI NGUỒN SỰ SỐNG — BÀI GIẢNG I–XXXVII VÀ CÁC THƯ TỰA John Flavel (1627–1691) Nguyên tác: The Whole Works of John Flavel, Vol. 1 (London: W. Baynes and Son, 1820): The Fountain of Life, Sermons 1–37 Nguồn: Archive.org (bản quét)
 
@@ -5975,3 +5983,9 @@ Thứ sáu, để kết luận: nếu ở trong Đấng Christ, hãy biết đi�
 GHI CHÚ CỦA NGƯỜI DỊCH: Nguồn: John Flavel, The Whole Works, Tập I (London: W. Baynes and Son, 1820), bản quét archive.org wholeworksofjohn01flav. Phạm vi DỊCH MỘT PHẦN: chỉ dịch Thư Tựa Dâng Tặng (của chính Flavel, gửi thân nhân John Flavel ở Luân Đôn), Thư Tựa Gửi Bạn Đọc (ký JOHN FLAVEL), và các Bài Giảng I–XXXVII của Suối Nguồn Sự Sống (1 Cô-rinh-tô 2:2). KHÔNG dịch: Tiểu sử Flavel của tác giả khác ở đầu tập; các Bài Giảng XXXVIII–XLII đã được dịch đầy đủ ở M136 (Tập II, ấn bản 1770); phần rác OCR ở cuối bản quét. Ranh giới cuối đã hiệu đính: đầu Bài Giảng XXXVIII nằm ở dòng 25000 của bản quét (tiêu đề riêng kèm Ê-sai 53:11), không phải tiêu đề chạy trang ở trang 408 (dòng 25053); Bài Giảng XXXVII kết thúc ở dòng 24995 (Một ngôi mồ với Đấng Christ là một nơi an ủi). Các đầu bài giảng bị OCR méo đã render theo dãy số bài giảng, không dịch literally: II (in SEHMON), VII (SEXtMON), XI (SERMON XL, giữa X và XII, tiêu đề chạy trang P0833 đồng ý), XXVII (SERMON XXVIT), XXXVII (SERMON XXXVIL). Các tiêu đề chạy trang khác cũng Việt hóa theo dãy số và dãy số trang. Địa chỉ Kinh Thánh: chỗ bản in sai nhưng nội dung câu trích xác định rõ địa chỉ khác thì đã sửa theo nội dung (chi tiết theo từng đoạn trong TRACKING.txt của cuốn này); chỗ không chắc thì giữ nguyên như in kèm dấu hiệu soát lại. Các chỗ giữ nguyên như in đáng chú ý: Rô-ma 6:13 (trích dẫn = 6:23), Ga-la-ti 3:9 (trích dẫn = 3:10), Ga-la-ti 5:2 (trích dẫn = Ê-phê-sô 5:2), 1 Ti-mô-thê 6:7 (trích dẫn = 6:17), Thi Thiên 32:2 (ngữ cảnh gợi 22:2), Các Quan Xét 11:13 (gợi 9:13), 1 Phi-e-rơ 2:2 (gợi 4:1), Công vụ 18:3, Giê-rê-mi 6:18, Công vụ 19:9, Hê-bơ-rơ 1:13 (cho văn bản Ha-ba-cúc 1:13), Ma-thi-ơ 23:27, Ma-thi-ơ 9:37, Hê-bơ-rơ 13:10, Ma-thi-ơ 7:22 (gợi Ma-thi-ơ 25:11), Rô-ma 8:33 (nội dung = 8:38–39). Các cụm Hy Lạp/La-tinh/Hê-bơ-rơ bị OCR hỏng không khôi phục chắc chắn được đều đã đánh dấu soát lại tại chỗ, không đoán mò. Thuật ngữ: toàn bộ thân bản tuân thủ bảng 16 từ của batch; gospel luôn là Phúc Âm, grace luôn là ân điển, justification luôn là sự xưng công chính. Thân bản có đúng một lần dùng danh xưng của truyền thống Cải Chánh đối lập với Công giáo La Mã (P1739, ngữ cảnh thần học đã xác minh, không dùng cho gospel); không có lần dùng nào khác của danh xưng đó trong thân bản. Số chỗ đánh dấu cần soát lại trong thân bản: 133.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

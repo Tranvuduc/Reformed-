@@ -1,10 +1,16 @@
-BIỆN HỘ PHÚC ÂM VÀ ÂN ĐIỂN
+BIỆN HỘ PHÚC ÂM ĐÁNG ĐƯỢC ĐÓN NHẬN VÀ ÂN ĐIỂN THIÊNG LIÊNG
 
-Andrew Fuller · Defence of 'The Gospel Worthy of All Acceptation' and The Reality and Efficacy of Divine Grace
+Andrew Fuller · Defence of 'The Gospel Worthy of All Acceptation' and The Reality and Efficacy of Divine Grace Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 13 giờ 15 phút · 138.732 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 LỜI GIỚI THIỆU NGẮN Đây là bản dịch tiếng Việt của Đơn vị U3 trong tập II của The Complete Works of the Rev. Andrew Fuller (American Baptist Publication Society, Philadelphia, 1845), gồm hai tác phẩm: Defence of "The Gospel Worthy of All Acceptation" (Lời biện hộ cho luận văn 'Phúc Âm đáng được mọi người đón nhận' — lời đáp lại ông Button và Philanthropos) và The Reality and Efficacy of Divine Grace (Sự thật và hiệu quả của ân điển thiêng liêng — mười ba thư gửi ông Dan Taylor). Đơn vị này tiếp nối sau Phụ lục của The Gospel Worthy (Đơn vị U2) và kết thúc trước Strictures on Sandemanianism (đã dịch ở Batch 46, không dịch lại). Các trích dẫn Kinh Thánh được dịch từ tiếng Anh của tác giả, KHÔNG được đối chiếu với bản dịch Kinh Thánh tiếng Việt năm 1934, và cần được mục sư kiểm duyệt trước khi xuất bản.
 
@@ -538,7 +544,7 @@ Người ta phàn nàn về việc sử dụng các thuật ngữ Arminian, Calv
 
 những quan điểm dẫn đầu được trình bày trong luận văn trước, và vì nó giúp tránh sự vòng vo không cần thiết, tôi đã dùng thuật ngữ Calvinist, và không phản đối việc bị người khác gọi như vậy. Việc P. có phải là một người Arminian hay không thì đối với tôi không quan trọng lắm; tuy nhiên, không khó để nhận ra những đặc điểm dẫn đầu của hệ thống của ông ta trong những tác phẩm của những người đã chọn được gọi bằng tên đó. Nhưng người ta còn phàn nàn rằng các nhà thần học Arminian bị trình bày sai,—tr. 52. Dù tôi không có ý kiến tốt hơn về giáo lý của Arminius về công việc của Đức Thánh Linh, như được P. đưa ra, (tr. 53,) so với trước đây, và dù tôi tin rằng sẽ không khó để chứng minh rằng phần lớn các nhà thần học Arminian đã đi xa hơn chính Arminius, (như P. dường như một phần thừa nhận,*) nhưng tôi thừa nhận rằng những gì tôi đã nói về chủ đề đó, trong đoạn văn được nhắc đến, là quá mạnh, dù, vào thời điểm tôi viết, tôi không nhận thức được điều đó.
 
-* Nếu tôi không bị thông tin sai, những người Remonstrant, trong Lời Biện hộ của họ, duy trì rằng "điều được tác động trong chúng ta thì không nên được truyền lệnh; và điều được truyền lệnh thì không thể được tác động trong chúng ta; rằng người nào truyền lệnh cho người khác làm điều mà người ấy sẽ tác động trong họ thì thật ngu ngốc."—Chương 9, tr. 105... Và với cùng mục đích, Episcopius: "Việc khẳng định rằng Đức Chúa Trời hoặc thực hiện bằng quyền năng của Ngài, hoặc đạt được bằng sự khôn ngoan của Ngài, rằng những người được chọn nên làm những điều Ngài yêu cầu nơi họ, là một điều hết sức phi lý."—Disp. pri. 8, Thes. 7. Những quan điểm này, nếu tôi hiểu chúng, tương đương với việc **phủ nhận sự cần thiết của Đức Thánh Linh để giúp chúng ta làm bổn phận của mình.** Những đoạn văn trên được lấy từ cuốn Display of Arminianism của Tiến sĩ Owen, ch. X.
+* Nếu tôi không bị thông tin sai, những người Remonstrant, trong Lời Biện hộ của họ, duy trì rằng "điều được tác động trong chúng ta thì không nên được truyền lệnh; và điều được truyền lệnh thì không thể được tác động trong chúng ta; rằng người nào truyền lệnh cho người khác làm điều mà người ấy sẽ tác động trong họ thì thật ngu ngốc."—Chương 9, tr. 105... Và với cùng mục đích, Episcopius: "Việc khẳng định rằng Đức Chúa Trời hoặc thực hiện bằng quyền năng của Ngài, hoặc đạt được bằng sự khôn ngoan của Ngài, rằng những người được chọn nên làm những điều Ngài yêu cầu nơi họ, là một điều hết sức phi lý."—Disp. pri. 8, Thes. 7. Những quan điểm này, nếu tôi hiểu chúng, tương đương với việc phủ nhận sự cần thiết của Đức Thánh Linh để giúp chúng ta làm bổn phận của mình. Những đoạn văn trên được lấy từ cuốn Display of Arminianism của Tiến sĩ Owen, ch. X.
 
 Đối với những gì được nói trong tr. 10, tôi không có phản đối quan trọng nào. Điều tôi muốn nói chỉ đơn thuần là phủ nhận rằng bất kỳ tội nhân nào được Phúc Âm khuyến khích hy vọng về sự sống đời đời, mà không trở về với Đức Chúa Trời qua Chúa Giê-xu Christ. Việc bỏ qua một phần của Ê-sai 55:7, cũng như sai lầm liên quan đến lời cầu nguyện của người thu thuế, hoàn toàn không có chủ ý.
 
@@ -910,7 +916,7 @@ Những đặc quyền. Những thành kiến của họ dạy họ mong đợi 
 
 * P. nói về sự tôn kính; và tôi không nghi ngờ rằng nói chung ông ta cảm thấy nó; nhưng chắc chắn, ở nơi này, ông ta phải đã quên chính mình. Chắc chắn một mức độ điềm tĩnh lớn hơn sẽ phù hợp với một tạo vật dốt nát và không đáng kể như ông ta tự mô tả, hơn là xác định Đức Chúa Trời sẽ dùng loại ngôn ngữ nào trong việc truyền đạt ý của Ngài cho con người. Không nghi ngờ gì rằng Lời của Đức Chúa Trời, trong mọi phần của nó, đủ rõ ràng, Mọi điều liên quan đến sự bảo đảm và quy tắc cho việc một tội nhân đến với Đấng Cứu Thế để được cứu rỗi, đặc biệt, đều rõ ràng và dễ dàng, Người lữ hành, dù là kẻ dại, cũng sẽ không lầm lạc. Và nếu một số lẽ thật, không ảnh hưởng đến quyền của người ấy để đến với Đấng Cứu Thế, hay hy vọng thành công của người ấy khi đến, nên được diễn đạt bằng ngôn ngữ hình ảnh, tôi hy vọng một cách diễn đạt như thế sẽ không bị thấy là phản ánh lên nhân cách đạo đức của Đức Chúa Trời.
 
-** Tôi mong, đặc biệt, rằng P. đã viết với sự điềm tĩnh hơn trong những gì ông ta nói về việc Đức Chúa Trời "lừa dối và gài bẫy chúng ta." Có sự lừa dối nào trong trường hợp này không? Chúng ta có cho rằng một tội nhân nghèo khổ, được khích lệ bởi những lời mời của Phúc Âm, đến với Đấng Christ, và ở đó gặp sự từ chối không? Không có điều gì như thế. Vậy thì việc hỏi, ""Làm sao bất kỳ người nào có thể tin những lời hứa của Đức Chúa Trời, nếu người ấy không được bảo đảm rằng Đức Chúa Trời nghiêm túc, và có ý thực hiện chúng?"—tr. 49, có mục đích gì?
+Tôi mong, đặc biệt, rằng P. đã viết với sự điềm tĩnh hơn trong những gì ông ta nói về việc Đức Chúa Trời "lừa dối và gài bẫy chúng ta." Có sự lừa dối nào trong trường hợp này không? Chúng ta có cho rằng một tội nhân nghèo khổ, được khích lệ bởi những lời mời của Phúc Âm, đến với Đấng Christ, và ở đó gặp sự từ chối không? Không có điều gì như thế. Vậy thì việc hỏi, ""Làm sao bất kỳ người nào có thể tin những lời hứa của Đức Chúa Trời, nếu người ấy không được bảo đảm rằng Đức Chúa Trời nghiêm túc, và có ý thực hiện chúng?"—tr. 49, có mục đích gì?
 
 3. Phạm vi và sự liên kết của một số đoạn được đưa ra ủng hộ một cách giải thích như thế.
 
@@ -1491,3 +1497,9 @@ Cuối cùng, tôi đã lập luận từ sự bền đỗ chắc chắn của n
 Những gì còn lại trong tác phẩm của ông T. hoặc đã được chú ý thỉnh thoảng rồi, hoặc có bản chất như không cần một câu trả lời. Ông ta đưa ra một số nhận xét về cuối tác phẩm của mình [bản in có một từ không đọc được ở đây] mà tôi hết lòng đồng ý với ông ta. Dù tôi có nghĩ gì về những quan điểm của ông ta, ý kiến tốt của tôi về sự liêm chính và lòng đạo đức của ông T. không bị ảnh hưởng bởi cuộc tranh luận này. Hết lòng mong muốn mọi phước lành đến với chúng ta, và chúng ta mỗi người được dẫn vào lẽ thật như nó ở trong Chúa Giê-xu, tôi xin ở lại, v.v., v.v., [chữ ký không đọc được trong bản OCR].
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

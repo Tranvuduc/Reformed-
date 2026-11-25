@@ -1,10 +1,18 @@
 BỐN BÀI LUẬN CHỐNG LẠI THÓI HƯ VÀ SỰ VÔ ĐẠO
 
-Matthew Henry · Four Discourses Against Vice and Immorality (The Select Works of the Late Rev. Matthew Henry, Edinburgh, 1776, item IX)
+Matthew Henry · Four Discourses Against Vice and Immorality (The Select Works of the Late Rev. Matthew Henry, Edinburgh, 1776, item IX) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 7 giờ 45 phút · 81.153 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 BỐN BÀI LUẬN CHỐNG LẠI THÓI HƯ VÀ SỰ VÔ ĐẠO Matthew Henry (1662–1714) Nguyên tác: Four Discourses Against Vice and Immorality (The Select Works of the Late Rev. Matthew Henry, Edinburgh, 1776, item IX) Nguồn: Archive.org (bản quét)
 
@@ -2569,3 +2577,9 @@ Trái lại, [NEEDS REVIEW: phần lớn đoạn bị OCR làm hỏng nặng do 
 GHI CHÚ CỦA DỊCH GIẢ VỀ PHẠM VI VÀ NGUỒN: Bản dịch này chỉ gồm mục IX của tuyển tập "The Select Works of the late Revd. Mr. Matthew Henry" (Edinburgh, 1776), tức "Four Discourses Against Vice and Immorality" (I. Chống Lại Sự Say Rượu; II. Chống Lại Sự Ô Uế; III. Chống Lại Sự Phạm Ngày Sa-bát; IV. Chống Lại Lời Nói Phạm Tục), cùng lời tựa "To the Reader" của tác giả. Các mục còn lại trong tập KHÔNG dịch lại ở đây, với bằng chứng như sau: Lời tiểu sử mở đầu về Matthew Henry và bài giảng trong dịp ông qua đời (mục XI) là của William Tong, không phải của Henry, nên không thuộc phạm vi; mục I (Luận về sự nhu mì và yên tĩnh trong tâm hồn) đã dịch đầy đủ trong thư viện (thu-vien/849) và batch AI-2 (AI-2/490); mục II (bài giảng tại nhà nhóm của Howe, Công vụ 28:22) cũng đã dịch đầy đủ trong thu-vien/849 và AI-2/490; mục III (Sự dễ chịu của đời sống tôn giáo) đã dịch đầy đủ trong thu-vien/838; mục IV (Communicant's Companion) đã dịch đầy đủ trong AI-2/157; mục V (Method for Prayer) sẽ dịch từ bản sạch Monergism theo quyết định gộp M9 vào S51, nên không dịch từ bản OCR 1776 này để tránh trùng lặp; mục VI (Family Hymns) đã dịch đầy đủ trong thu-vien/1000-357; mục VII (Sober-mindedness) đã dịch đầy đủ trong thu-vien/692; mục VIII (Directions for Daily Communion with God) đã dịch đầy đủ trong thu-vien/889 và AI-2/006; mục X (Plain Catechism for Children kèm phụ lục) đã dịch đầy đủ trong thu-vien/095; mục XII (tiểu sử Philip Henry, cha của tác giả) là bản rút gọn của cùng tiểu sử đã dịch đầy đủ dạng mở rộng trong batch này (M154, 305.840 chữ), nên không dịch lại. Mục lục lặp ở cuối bản quét và mọi boilerplate của archive.org, trang tựa thừa, số trang, tiêu đề chạy trang đều đã lược bỏ. Các đoạn OCR hỏng không khôi phục chắc chắn được đã đánh dấu [NEEDS REVIEW] tại chỗ, không đoán mò. Do bản quét hai cột bị chèn lẫn, một số câu lặp lại đã lược bỏ để mỗi câu chỉ xuất hiện một lần (các đoạn lặp ở chunk 01, các đoạn tiếp nối bị tách marker ở chunk 03, các bản sao ở chunk 04 và chunk 07); các tiêu đề chạy trang lặp lại cũng đã lược bỏ. Trang tựa bốn bài luận bị OCR chèn lẫn đã ráp lại một lần ở đầu thân bản. Hiệu đính tham chiếu: ở bài luận III, tham chiếu nguồn ghi "Ia. li. 6" đã sửa thành Ê-sai 56:6, vì câu trích "giữ ngày sa-bát khỏi phạm thánh nó" là Ê-sai 56:6 (Ê-sai 51:6 nói về trời tan biến). Đoạn kết của bài luận IV giữ đúng phần đọc được ("đời đời trong Giê-ru-sa-lem Mới") kèm cờ NEEDS REVIEW, không bịa thêm kết thúc.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

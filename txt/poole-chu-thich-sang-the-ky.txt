@@ -1,14 +1,20 @@
-CHÚ THÍCH SÁCH SÁNG THẾ KÝ
+CHÚ THÍCH VỀ KINH THÁNH — SÁCH SÁNG THẾ KÝ
 
-Matthew Poole · Annotations upon the Holy Bible, Vol. I: Genesis (1700)
+Matthew Poole · Annotations upon the Holy Bible, Vol. I: Genesis (1700) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 14 giờ 15 phút · 149.816 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CHÚ THÍCH VỀ KINH THÁNH — SÁCH SÁNG THẾ KÝ
 
-Matthew Poole, *Annotations upon the Holy Bible* (Chú thích về Kinh Thánh), Tập I, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700` (bản scan EEBO).
+Matthew Poole, Annotations upon the Holy Bible (Chú thích về Kinh Thánh), Tập I, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700` (bản scan EEBO).
 
 Phạm vi của tập này: chỉ Sách Sáng Thế Ký. Tập I của ấn bản này gồm từ Sáng Thế Ký đến Ê-sai; các sách còn lại không thuộc tập này. Lời Tựa in ở đầu sách là của các tác giả bổ sung — những người tiếp tục công trình sau khi ông Poole qua đời năm 1679; chính ông Poole đã chú thích đến Ê-sai 58.
 
@@ -17,8 +23,6 @@ Về bản văn Kinh Thánh: sách này in toàn bộ bản văn Kinh Thánh ti�
 Về tình trạng bản scan: đây là bản scan EEBO với chữ ſ (s dài) và nhiều chỗ OCR bị hỏng. Những chỗ không đọc được đã được đánh dấu [không đọc được trong bản scan] và không hề đoán mò. Đặc biệt, trang mở đầu của Sáng Thế Ký chương 1 (~dòng 731–760 của bản scan) bị hỏng nặng: bản văn của Sáng Thế Ký 1:1–2 không còn đọc được trong lớp OCR, chỉ còn phần Tóm tắt nội dung chương và phần chú thích; chỗ thiếu đã được đánh dấu. Trang tựa cũng có vài chỗ bị hỏng.
 
 Thuật ngữ theo bảng thuật ngữ cố định: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh. “Đền tội” không bao giờ dùng để dịch sự chuộc tội của Đấng Christ; trong tập này, “sự chuộc tội” được dùng cho sự đền tội của Đấng Christ.
-
----
 
 TRANG TỰA
 
@@ -36,13 +40,11 @@ NÊ-HÊ-MI VIII. Câu 8. Họ đọc trong sách, trong luật pháp của Đứ
 
 LUÂN ĐÔN: In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor, và Thomas Cockerill. 1700.
 
----
-
 LỜI TỰA:
 
 TRONG ĐÓ các Tác giả của những Chú thích tiếp theo (bổ sung cho ông Poole) trình bày với Độc giả một lược sử về việc dịch Kinh Thánh sang tiếng Anh, những việc làm lạ lùng của sự quan phòng của Đức Chúa Trời dẫn đến việc ấy, và những ghi chú hay chú thích khác nhau đã được xuất bản, cùng với một tường thuật riêng về ông Poole đáng kính, và về công trình hiện tại của họ, với những lý do của nó.
 
-Cùng một lý lẽ dạy chúng ta kết luận rằng có một Đấng Hữu Thể Đầu Tiên, và phải có một Nguyên Nhân Đầu Tiên và Đấng Vận Hành Đầu Tiên (Đấng mà chúng ta gọi là Đức Chúa Trời); rằng chính Ngài đã dựng nên chúng ta, chứ không phải chúng ta tự dựng nên mình, và chúng ta là dân sự của Ngài và là chiên của đồng cỏ Ngài, cũng sẽ buộc chúng ta phải vào các cửa Ngài với sự cảm tạ, và vào các hành lang Ngài với sự ngợi khen, và phải biết ơn Ngài bằng cách làm theo ý muốn Ngài; điều mà chúng ta không thể làm nếu không có một sự mặc khải nào về ý muốn ấy cho chúng ta. Vì vậy, Đức Chúa Trời đã ngừng phán với loài người mặt đối mặt, như với Áp-ra-ham, Môi-se, v.v. (điều mà Ngài không bao giờ làm một cách thông thường ngoại trừ với một vài người được ưu ái đặc biệt), chúng ta buộc phải kết luận rằng có một số sách trên thế gian mà trong đó sự mặc khải này được tìm thấy. Hội Thánh của Đức Chúa Trời (mẹ của tất cả chúng ta) luôn luôn trình bày các sách của Cựu Ước và Tân Ước (mà chúng ta có trong Kinh Thánh của mình) như là sự mặc khải thiêng liêng ấy, điều đã buộc mọi con cái của Hội Thánh một cách chính đáng phải xem chúng như được treo lên cho họ dùng, trên cột trụ cao quý là Hội Thánh. Khi nhìn vào chúng theo sự giới thiệu của Hội Thánh (như đứa trẻ nhìn theo lời mẹ nó bảo, “Đó là mặt trời”), mọi người có lý trí đều thấy chúng có một tính cổ xưa đáng kính, và nhận ra trong chúng những dấu ấn của thần tính, trong sự uy nghi của văn phong, sự trong sạch của nội dung, sự cao siêu và thuộc linh của các mệnh đề chứa trong chúng, sự từ bỏ mình của các tác giả, tính chất thiên thượng của mục đích và cứu cánh của những bài viết thánh ấy, sự hài hòa của các phần, dấu ấn của các phép lạ, và hơn nữa là quyền năng và hiệu quả lớn lao của chúng trên linh hồn và lương tâm của vô số người, cả để cáo trách, lẫn để nâng đỡ và an ủi; đến nỗi người ấy dễ dàng kết luận: Đây là tiếng của Đức Chúa Trời, chứ không phải của loài người; và nhìn lại mẹ mình là Hội Thánh (như đứa trẻ nhìn lại vú nuôi của mình), cảm ơn Hội Thánh đã chỉ cho mình một kho báu như vậy, và nói như những người Sa-ma-ri với người phụ nữ đồng hương của họ, Giăng 4:42: “Bây giờ chúng tôi tin rằng những sách này là Lời của Đức Chúa Trời, không phải vì bà nói vậy, nhưng vì chúng tôi đã tự mình xem xét chúng, và thấy chúng có một văn phong, bản chất, nội dung khác biệt, và có một mục đích, cứu cánh, quyền năng và hiệu quả khác trên linh hồn con người, so với bất kỳ bài viết nào khác trên thế gian.” Tuy nhiên, sự thật là, cho đến khi một người hoàn toàn bị thuyết phục về lẽ thật của chúng bởi cùng một Thánh Linh đã soi dẫn chúng, mọi linh hồn đều dễ dao động trong đức tin của mình về việc chúng là Lời của Đức Chúa Trời, giống như ông Tully, người chỉ tin vào sự bất tử của linh hồn nhờ đọc sách của Plato, điều mà (nếu tôi nhớ đúng) nhà hùng biện La Mã diễn đạt bằng những lời có ý nghĩa như sau: “Tôi đã đọc đi đọc lại sách của Plato; nhưng tôi không biết tại sao, hễ còn đang đọc thì tôi đồng ý với nó; nhưng ngay khi sách rời khỏi tay tôi, *de immortalitate animae dubitare coepi* — tôi bắt đầu nghi ngờ linh hồn có bất tử hay không.” Nhưng dù sao đi nữa, ở mức độ này hay mức độ khác, mọi Cơ Đốc nhân đều lấy điều này làm nguyên tắc của tôn giáo mình: rằng Kinh Thánh của Cựu Ước và Tân Ước là Lời của Đức Chúa Trời. Một số tin điều ấy một cách yếu ớt và không chắc chắn hơn; một số tin một cách vững vàng hơn; và theo đó đức tin của con người nơi chúng có tác dụng nhiều hay ít.
+Cùng một lý lẽ dạy chúng ta kết luận rằng có một Đấng Hữu Thể Đầu Tiên, và phải có một Nguyên Nhân Đầu Tiên và Đấng Vận Hành Đầu Tiên (Đấng mà chúng ta gọi là Đức Chúa Trời); rằng chính Ngài đã dựng nên chúng ta, chứ không phải chúng ta tự dựng nên mình, và chúng ta là dân sự của Ngài và là chiên của đồng cỏ Ngài, cũng sẽ buộc chúng ta phải vào các cửa Ngài với sự cảm tạ, và vào các hành lang Ngài với sự ngợi khen, và phải biết ơn Ngài bằng cách làm theo ý muốn Ngài; điều mà chúng ta không thể làm nếu không có một sự mặc khải nào về ý muốn ấy cho chúng ta. Vì vậy, Đức Chúa Trời đã ngừng phán với loài người mặt đối mặt, như với Áp-ra-ham, Môi-se, v.v. (điều mà Ngài không bao giờ làm một cách thông thường ngoại trừ với một vài người được ưu ái đặc biệt), chúng ta buộc phải kết luận rằng có một số sách trên thế gian mà trong đó sự mặc khải này được tìm thấy. Hội Thánh của Đức Chúa Trời (mẹ của tất cả chúng ta) luôn luôn trình bày các sách của Cựu Ước và Tân Ước (mà chúng ta có trong Kinh Thánh của mình) như là sự mặc khải thiêng liêng ấy, điều đã buộc mọi con cái của Hội Thánh một cách chính đáng phải xem chúng như được treo lên cho họ dùng, trên cột trụ cao quý là Hội Thánh. Khi nhìn vào chúng theo sự giới thiệu của Hội Thánh (như đứa trẻ nhìn theo lời mẹ nó bảo, “Đó là mặt trời”), mọi người có lý trí đều thấy chúng có một tính cổ xưa đáng kính, và nhận ra trong chúng những dấu ấn của thần tính, trong sự uy nghi của văn phong, sự trong sạch của nội dung, sự cao siêu và thuộc linh của các mệnh đề chứa trong chúng, sự từ bỏ mình của các tác giả, tính chất thiên thượng của mục đích và cứu cánh của những bài viết thánh ấy, sự hài hòa của các phần, dấu ấn của các phép lạ, và hơn nữa là quyền năng và hiệu quả lớn lao của chúng trên linh hồn và lương tâm của vô số người, cả để cáo trách, lẫn để nâng đỡ và an ủi; đến nỗi người ấy dễ dàng kết luận: Đây là tiếng của Đức Chúa Trời, chứ không phải của loài người; và nhìn lại mẹ mình là Hội Thánh (như đứa trẻ nhìn lại vú nuôi của mình), cảm ơn Hội Thánh đã chỉ cho mình một kho báu như vậy, và nói như những người Sa-ma-ri với người phụ nữ đồng hương của họ, Giăng 4:42: “Bây giờ chúng tôi tin rằng những sách này là Lời của Đức Chúa Trời, không phải vì bà nói vậy, nhưng vì chúng tôi đã tự mình xem xét chúng, và thấy chúng có một văn phong, bản chất, nội dung khác biệt, và có một mục đích, cứu cánh, quyền năng và hiệu quả khác trên linh hồn con người, so với bất kỳ bài viết nào khác trên thế gian.” Tuy nhiên, sự thật là, cho đến khi một người hoàn toàn bị thuyết phục về lẽ thật của chúng bởi cùng một Thánh Linh đã soi dẫn chúng, mọi linh hồn đều dễ dao động trong đức tin của mình về việc chúng là Lời của Đức Chúa Trời, giống như ông Tully, người chỉ tin vào sự bất tử của linh hồn nhờ đọc sách của Plato, điều mà (nếu tôi nhớ đúng) nhà hùng biện La Mã diễn đạt bằng những lời có ý nghĩa như sau: “Tôi đã đọc đi đọc lại sách của Plato; nhưng tôi không biết tại sao, hễ còn đang đọc thì tôi đồng ý với nó; nhưng ngay khi sách rời khỏi tay tôi, de immortalitate animae dubitare coepi — tôi bắt đầu nghi ngờ linh hồn có bất tử hay không.” Nhưng dù sao đi nữa, ở mức độ này hay mức độ khác, mọi Cơ Đốc nhân đều lấy điều này làm nguyên tắc của tôn giáo mình: rằng Kinh Thánh của Cựu Ước và Tân Ước là Lời của Đức Chúa Trời. Một số tin điều ấy một cách yếu ớt và không chắc chắn hơn; một số tin một cách vững vàng hơn; và theo đó đức tin của con người nơi chúng có tác dụng nhiều hay ít.
 
 Sự mặc khải về ý muốn thiêng liêng này đã được ban ra dần dần (như Đức Chúa Trời vui lòng tỏ ra trong các thời đại kế tiếp những điều trước đây Ngài đã giấu kín trong ý muốn bí mật của Ngài). Đến nỗi (nếu các nhà biên niên tính đúng) đã có hơn 1500 năm trôi qua giữa việc viết sách Sáng Thế Ký đầu tiên bởi Môi-se, và sách Khải Huyền (là sách cuối cùng) bởi Giăng; và các nhà thần học thường cho rằng ông đã niêm phong sách lại bằng những lời trong Khải Huyền 22:18, 19. Vì vậy, về những điều phải tin hay phải làm, chúng ta không được trông đợi thêm một sự mặc khải nào nữa.
 
@@ -56,7 +58,7 @@ Việc dịch Kinh Thánh sang một ngôn ngữ mà mọi người trong xứ m
 
 1527. Vào năm 1527, Đức Chúa Trời đã đặt vào lòng ông Tindall ý muốn dịch Tân Ước sang tiếng Anh, cũng như năm sách của Môi-se. (Lúc ấy ông đang lưu vong ở Đức vì tôn giáo của mình.) Nhưng ông đã mất hết giấy tờ vì đắm tàu trên đường đến Hamburg, và phải bắt đầu lại công việc: điều mà người tôi tớ trung tín và không biết mệt mỏi ấy của Đức Chúa Trời đã hoàn thành, thêm vào một số Lời Tựa cho các sách khác nhau, và một số ghi chú về các chương và câu cụ thể. Việc xuất bản những bản dịch ấy khiến các giám mục theo Giáo hoàng ở Anh rất bực tức, và mọi cách đã được dùng để đàn áp nó. Trong số những cách khác, vị giám mục Luân Đôn lúc ấy đã bàn với một thương gia tên Packington trong thành phố ấy về cách thích hợp nhất cho ý đồ đó. Người thương gia không nghĩ ra cách nào có vẻ chắc chắn hơn là dùng một số tiền để mua hết toàn bộ ấn bản. Vị giám mục chấp thuận, cung cấp cho ông một số tiền lớn cho mục đích ấy, mà người thương gia (là bạn của ông Tindall hơn là vị giám mục biết) đã gửi cho ông Tindall; và ông Tindall đã gửi ấn bản cho ông (một vài bản đã được bán đi, như chúng ta có thể tưởng tượng). Với số tiền ấy, ông Tindall đã tự nuôi mình trong thời gian lưu vong, và cũng có thể tiếp tục dịch phần còn lại của Kinh Thánh, và chuẩn bị một Kinh Thánh tiếng Anh hoàn chỉnh. Trong lúc đó, một chuyện xảy ra thú vị đến nỗi tôi cho là đáng kể lại ở đây: Sir Thomas Moore là Đại Chưởng Ấn, và có một số người bị buộc tội dị giáo và sắp bị hành hình; ông đã đề nghị với một người trong số họ được sống với điều kiện dễ dàng là người ấy tiết lộ cho ông biết ai ở Luân Đôn đã chu cấp cho Tindall ở hải ngoại. Sau khi người nghèo ấy đã có được sự bảo đảm tốt cho tính mạng mình, như danh dự và sự chân thật của vị Chưởng Ấn có thể ban cho ông, ông nói với ông rằng chính Giám mục Luân Đôn đã chu cấp cho ông, bằng cách gửi một số tiền để mua hết ấn bản Tân Ước của ông. Vị Chưởng Ấn mỉm cười, nói rằng ông tin người ấy nói thật. Nhờ đó, tính mạng của người xưng đạo nghèo ấy đã được cứu. Nhưng trở lại câu chuyện của chúng ta.
 
-Vào năm 1536, ông Tindall đã chịu tử đạo tại Villefort ở Flanders, vì đã dịch Tân Ước và một phần Cựu Ước sang tiếng Anh (theo lời Sir Richard Baker). Nhưng kẻ thù lớn của ông, Sir Thomas Moore, đã đi về nơi của mình một năm trước đó, bị hành hình vì tội phản quốc. Ông Tindall và ông Coverdale (như ông Fox kể với chúng ta) trước khi ông Tindall qua đời, đã dịch toàn bộ Kinh Thánh. Nhưng nó không được xuất bản cho đến sau khi ông qua đời, dưới tên Thomas Matthews, với phần bổ sung do John Rogers dịch. Chúa Cromwell, cùng với Tổng Giám mục Cranmer, đã trình nó lên Nhà Vua, và nhận được lệnh của Đức Vua cho phép bất kỳ thần dân nào của Ngài được đọc nó; nhưng điều này không phải không có sự hối tiếc lớn của các giám mục. 1540. Khoảng mười ba năm sau đó (hoặc không lâu đến thế), Chúa Cromwell đã xin được thư của Vua Henry VIII cho một thần dân của Ngài in lại Kinh Thánh bằng tiếng Anh tại Paris; Nhà Vua cũng viết thư cho Bonner (lúc ấy là đại sứ của Ngài tại Pháp) để thúc đẩy việc ấy. Grafton và Whitchurch đảm nhận công việc, với sự khích lệ dường như đến từ Bonner mà độc giả có thể đọc trong quyển thứ hai của sách *Martyrology* của ông Fox, Lời Tựa, 1641, trang 515, 516. Nhưng làm sao chuyện ấy xảy ra thì tôi không thể nói được (mặc dù người ta nghi ngờ sự phản bội của Bonner trong vụ này): khi công việc gần hoàn thành, các bản in đã bị tịch thu và ra lệnh đốt, và công việc hoàn toàn chấm dứt; ngoại trừ nhờ sự [không đọc được trong bản scan] của viên chức, người đã bán bốn thùng lớn đầy những bản ấy cho một người bán mũ để lót mũ. Nhờ đó, một số bản đã được thu hồi, đưa về Luân Đôn, và ở đó họ làm một ấn bản mới.
+Vào năm 1536, ông Tindall đã chịu tử đạo tại Villefort ở Flanders, vì đã dịch Tân Ước và một phần Cựu Ước sang tiếng Anh (theo lời Sir Richard Baker). Nhưng kẻ thù lớn của ông, Sir Thomas Moore, đã đi về nơi của mình một năm trước đó, bị hành hình vì tội phản quốc. Ông Tindall và ông Coverdale (như ông Fox kể với chúng ta) trước khi ông Tindall qua đời, đã dịch toàn bộ Kinh Thánh. Nhưng nó không được xuất bản cho đến sau khi ông qua đời, dưới tên Thomas Matthews, với phần bổ sung do John Rogers dịch. Chúa Cromwell, cùng với Tổng Giám mục Cranmer, đã trình nó lên Nhà Vua, và nhận được lệnh của Đức Vua cho phép bất kỳ thần dân nào của Ngài được đọc nó; nhưng điều này không phải không có sự hối tiếc lớn của các giám mục. 1540. Khoảng mười ba năm sau đó (hoặc không lâu đến thế), Chúa Cromwell đã xin được thư của Vua Henry VIII cho một thần dân của Ngài in lại Kinh Thánh bằng tiếng Anh tại Paris; Nhà Vua cũng viết thư cho Bonner (lúc ấy là đại sứ của Ngài tại Pháp) để thúc đẩy việc ấy. Grafton và Whitchurch đảm nhận công việc, với sự khích lệ dường như đến từ Bonner mà độc giả có thể đọc trong quyển thứ hai của sách Martyrology của ông Fox, Lời Tựa, 1641, trang 515, 516. Nhưng làm sao chuyện ấy xảy ra thì tôi không thể nói được (mặc dù người ta nghi ngờ sự phản bội của Bonner trong vụ này): khi công việc gần hoàn thành, các bản in đã bị tịch thu và ra lệnh đốt, và công việc hoàn toàn chấm dứt; ngoại trừ nhờ sự [không đọc được trong bản scan] của viên chức, người đã bán bốn thùng lớn đầy những bản ấy cho một người bán mũ để lót mũ. Nhờ đó, một số bản đã được thu hồi, đưa về Luân Đôn, và ở đó họ làm một ấn bản mới.
 
 Nhưng sau đó, Chúa Cromwell bị xử tử, các giám mục và phe theo Giáo hoàng đã khiếu nại lớn với Nhà Vua (mà lòng nhiệt thành với Cải Chánh đã nguội lạnh nhiều trong phần cuối đời ông) đến nỗi việc bán Kinh Thánh tiếng Anh bị cấm, và người in bị cầm tù; và mặc dù các giám mục đã hứa với Nhà Vua rằng họ sẽ làm một bản dịch chính xác hơn, nhưng điều ấy không bao giờ được thực hiện trong thời trị vì của vị vua ấy.
 
@@ -70,19 +72,15 @@ Chúng ta phải kể rằng có những lời trong đó mà chiên con có th�
 
 Vì vậy, ngày nay (ngoài các ghi chú Geneva ngắn hơn) chúng ta có ba loại chú thích bằng ngôn ngữ của mình: của Diodati nổi tiếng; bộ Chú Thích Hà Lan, và của các nhà thần học của chúng ta. (Nguyên thủy là như vậy.) Sau đó, những chú thích mới có vẻ là thừa. Vì vậy, có vẻ hợp lý khi chúng ta trình bày với độc giả một tường thuật ngắn về công trình của mình. Chúng tôi dám nói, không có điều gì xa vời hơn với suy nghĩ của người anh em đáng kính của chúng ta (nay đã an nghỉ với Đức Chúa Trời), người đã bắt đầu công trình này, hơn là làm mất danh dự những nhân vật xuất sắc đã lao nhọc trong các công trình cùng loại, và cũng không có điều gì xa vời hơn với suy nghĩ của chúng tôi. (Tất cả họ đều đã phục vụ trung tín trong thế hệ của mình.) Và nếu độc giả của chúng tôi thấy rằng bất kỳ ai trong chúng tôi đã nhìn xa hơn vào bất kỳ đoạn văn nào so với những người đi trước, thì chúng tôi xin độc giả hiểu rằng chúng tôi không đáng được vinh dự gì về điều ấy, bởi vì chúng tôi đã đứng trên vai của tất cả họ.
 
-Công lao mà người anh em đáng kính của chúng ta, ông Poole, đã bỏ ra trong bộ *Synopsis Criticorum* của ông, không chỉ sẽ khiến tên tuổi ông sống mãi trong các Hội Thánh, mà còn trang bị cho ông một cách đặc biệt để trình bày ý nghĩa của toàn bộ Kinh Thánh trong những chú thích thuộc loại này, công việc mà ông đã đảm nhận và tự tay thực hiện đến Ê-sai chương 58, dự định rằng hai tập sẽ bao gồm toàn bộ, và tập thứ nhất sẽ kết thúc với những ghi chú của ông về Nhã Ca. Điều gì đã khiến ông có ý nghĩ và bắt đầu công việc ấy, chính ông cho chúng ta biết trong Bản Đề Xuất của mình được xuất bản liên quan đến công việc ấy, bằng những lời này: “Nhưng mặc dù có nhiều bình luận xuất sắc về nhiều phần của Kinh Thánh, và một số bình luận trọn vẹn, hay những chú thích lớn về toàn bộ bằng tiếng Anh; nhưng vì sự [không đọc được trong bản scan] quá mức của một số, và sự soạn thảo không đồng đều của những bản khác, vì được làm bởi nhiều bàn tay, và sự dài dòng của những bản đã viết về những sách riêng biệt, nên người ta thường xuyên và tha thiết mong ước có một bình luận ngắn gọn và đầy đủ, trong đó mọi đoạn cần sự giúp đỡ của người giải thích đều được làm sáng tỏ đầy đủ, v.v. Vì ấn bản đầu tiên của bộ Chú Thích tiếng Anh của chúng ta, sau đó là bản dịch những chú thích của Diodati có học sang ngôn ngữ của chúng ta, rồi đến những chú thích của các nhà thần học Hà Lan (mặc dù tất cả đều đáng quý) dường như quá ngắn để thỏa mãn cơn khát của nhiều linh hồn tin kính muốn biết Kinh Thánh đầy đủ hơn, nên ấn bản lớn hơn của bộ Chú Thích tiếng Anh của chúng ta dường như có thể được sửa đổi để trở nên hữu ích hơn cho những người dùng chúng, đặc biệt trong những điểm sau:
+Công lao mà người anh em đáng kính của chúng ta, ông Poole, đã bỏ ra trong bộ Synopsis Criticorum của ông, không chỉ sẽ khiến tên tuổi ông sống mãi trong các Hội Thánh, mà còn trang bị cho ông một cách đặc biệt để trình bày ý nghĩa của toàn bộ Kinh Thánh trong những chú thích thuộc loại này, công việc mà ông đã đảm nhận và tự tay thực hiện đến Ê-sai chương 58, dự định rằng hai tập sẽ bao gồm toàn bộ, và tập thứ nhất sẽ kết thúc với những ghi chú của ông về Nhã Ca. Điều gì đã khiến ông có ý nghĩ và bắt đầu công việc ấy, chính ông cho chúng ta biết trong Bản Đề Xuất của mình được xuất bản liên quan đến công việc ấy, bằng những lời này: “Nhưng mặc dù có nhiều bình luận xuất sắc về nhiều phần của Kinh Thánh, và một số bình luận trọn vẹn, hay những chú thích lớn về toàn bộ bằng tiếng Anh; nhưng vì sự [không đọc được trong bản scan] quá mức của một số, và sự soạn thảo không đồng đều của những bản khác, vì được làm bởi nhiều bàn tay, và sự dài dòng của những bản đã viết về những sách riêng biệt, nên người ta thường xuyên và tha thiết mong ước có một bình luận ngắn gọn và đầy đủ, trong đó mọi đoạn cần sự giúp đỡ của người giải thích đều được làm sáng tỏ đầy đủ, v.v. Vì ấn bản đầu tiên của bộ Chú Thích tiếng Anh của chúng ta, sau đó là bản dịch những chú thích của Diodati có học sang ngôn ngữ của chúng ta, rồi đến những chú thích của các nhà thần học Hà Lan (mặc dù tất cả đều đáng quý) dường như quá ngắn để thỏa mãn cơn khát của nhiều linh hồn tin kính muốn biết Kinh Thánh đầy đủ hơn, nên ấn bản lớn hơn của bộ Chú Thích tiếng Anh của chúng ta dường như có thể được sửa đổi để trở nên hữu ích hơn cho những người dùng chúng, đặc biệt trong những điểm sau:
 
 1. Toàn bộ bản văn không được in ra, đến nỗi những ai muốn dùng chúng phải dùng thêm một cuốn Kinh Thánh nữa để hiểu chúng. Người anh em đáng kính của chúng ta (mà chúng tôi cũng đồng ý) đã phán đoán đúng rằng sẽ hữu ích hơn nếu độc giả có toàn bộ bản văn trước mắt, trong khi tìm kiếm ý nghĩa của bất kỳ chỗ nào, và trong khi đọc một chương, có một bình luận trước mắt mình, trong đó người ấy có thể tìm thấy ý nghĩa của bất kỳ phần nào trong đó, và thỏa mãn chính mình về bất kỳ khó khăn nào xảy ra trong đó. 2. [Phần này của bản scan bị hỏng nặng và không đọc được — khoảng dòng 590–650 của bản scan: các cột bị xen kẽ và nhiều dòng không thể phục hồi; nội dung dường như tiếp tục bàn về những thiếu sót của các ấn bản trước và về phương pháp của công trình này.] [không đọc được trong bản scan]
 
-[Phần cuối của Lời Tựa, khoảng dòng 650–668 của bản scan, cũng bị hỏng nặng; chỉ còn đọc được rời rạc rằng công trình của họ chỉ nhằm trình bày ý nghĩa rõ ràng của Kinh Thánh và hòa giải những chỗ dường như mâu thuẫn, và rằng họ không có ý định bàn về những vấn đề ngữ pháp hay những lẽ thật thần học đã được trình bày đầy đủ trong nhiều sách khác. Một quảng cáo cho “*Mr. Poole's English SYNOPSIS* — Chú thích về Kinh Thánh, thu thập từ bộ *Synopsis* La-tinh và nhiều nhà giải thích có học khác; thích ứng cho người đọc bình thường” cũng xuất hiện ở đây.] [không đọc được trong bản scan]
-
----
+[Phần cuối của Lời Tựa, khoảng dòng 650–668 của bản scan, cũng bị hỏng nặng; chỉ còn đọc được rời rạc rằng công trình của họ chỉ nhằm trình bày ý nghĩa rõ ràng của Kinh Thánh và hòa giải những chỗ dường như mâu thuẫn, và rằng họ không có ý định bàn về những vấn đề ngữ pháp hay những lẽ thật thần học đã được trình bày đầy đủ trong nhiều sách khác. Một quảng cáo cho “Mr. Poole's English SYNOPSIS — Chú thích về Kinh Thánh, thu thập từ bộ Synopsis La-tinh và nhiều nhà giải thích có học khác; thích ứng cho người đọc bình thường” cũng xuất hiện ở đây.] [không đọc được trong bản scan]
 
 LÝ LUẬN VỀ SÁCH SÁNG THẾ KÝ.
 
 Sách này được gọi là Sáng Thế Ký, tức là Sự Sinh Ra, hay Sự Ra Đời, kể lại những việc xảy ra trong hơn 2300 năm, tức là từ sự sáng tạo muôn vật cho đến cái chết của Giô-sép. Trong lịch sử này, Môi-se, bởi sự soi dẫn của Đức Chúa Trời, bàn về sự sáng tạo thế gian, với mọi phần và công dụng của nó, và nhất là về con người, là loài duy nhất được dựng nên theo hình ảnh của Đức Chúa Trời; tại đó ông trình bày [không đọc được trong bản scan] sự sa ngã của con người, cùng với những hậu quả đáng buồn của nó, và phương thuốc chữa lành [không đọc được trong bản scan] trong lời hứa về Đấng Cứu Thế; nguồn gốc và sự tiến triển của sự bội đạo bắt đầu nơi Ca-in, và được tiếp tục bởi dòng dõi của ông, cho đến khi, bởi những sự khiêu khích quái gở của họ, họ đã khiến [không đọc được trong bản scan] trái đất, ngoại trừ Nô-ê và gia đình ông, mà từ đó dòng dõi [không đọc được trong bản scan] tiếp tục sự thù nghịch trước kia lên một mức cao hơn; Hội Thánh thật xuất phát từ A-bên, được tiếp tục bởi Sết, Hê-nóc, v.v., và [không đọc được trong bản scan] Nhưng Đức Chúa Trời đã kêu gọi Áp-ra-ham vào Đất Hứa, ông vốn là người thờ hình tượng ở Canh-đê, ban cho ông những lời hứa về vật chất và thuộc linh, và đặc biệt là lời hứa về Đấng Mê-si-a sẽ ra từ dòng dõi ông, và xác nhận điều ấy bằng một giao ước đặc biệt được đóng ấn bằng phép cắt bì, Hội Thánh bắt đầu bén rễ, và được thể hiện trong gia đình Gia-cốp dưới tên Y-sơ-ra-ên; và tại đây Đức Chúa Trời đã đảm nhận việc bảo vệ đời sống và sự thờ phượng của họ, bởi sự hiện diện hữu hình của Đấng Christ, Đầu của họ, Thiên sứ của giao ước ấy, Đấng luôn đi cùng họ, an ủi và bảo vệ họ, cho đến khi họ đến Ai Cập, nơi Hội Thánh tiếp tục [không đọc được trong bản scan] cho đến khi Giô-sép qua đời, là nơi sách này kết thúc.
-
----
 
 CHƯƠNG I.
 
@@ -184,8 +182,6 @@ Chú thích: Người ta không khẳng định cũng không phủ nhận rằng
 
 31 Đức Chúa Trời thấy mọi vật Ngài đã làm nên, và nầy, mọi vật đều rất tốt lành. Vậy có buổi chiều và buổi sáng, ấy là ngày thứ sáu.
 
----
-
 CHƯƠNG II.
 
 Ngày Sa-bát được lập nên và được ban phước, c.2, 3. Sự thuật lại việc sáng tạo, và (1) về cây cối, c.4, 5. Đất được tưới nước, c.6. (2) về loài người, c.7. Nơi ở của loài người, c.8, 9. Các cây để làm vui thích và làm thức ăn; cũng như Cây Sự Sống và Cây Biết Điều Thiện và Điều Ác, c.9. Vị trí tốt đẹp và sự giàu có của vườn, c.10–14. Công việc của loài người, c.15. Mọi cây đều được ban cho loài người, trừ Cây Biết Điều Thiện và Điều Ác, c.16. Cây ấy bị cấm dưới hình phạt là sự chết, c.17. Ý định dựng nên người nữ, và lý do của việc ấy, c.18. Các loài thú và chim được A-đam đặt tên, c.19, 20. Người nữ được dựng nên từ xương sườn của A-đam và được đưa đến cho ông, c.21, 22. Và được ông nhận biết, c.23. Hôn nhân được lập nên, c.24. Tình trạng của họ khi còn vô tội, c.25.
@@ -238,7 +234,7 @@ Chú thích: Tức là, tốt hơn vàng thường. Nhũ hương có nghĩa ho�
 
 13 Tên sông thứ hai là Ghi-hôn; đó là sông bao quanh toàn xứ Ê-thi-ô-bi.
 
-Chú thích: Không phải sông ở đất Y-sơ-ra-ên cùng tên ấy, 1 Các Vua 1:33; 2 Sử Ký 32:30. Nhưng là một sông khác cùng tên, trong tiếng Hê-bơ-rơ có nghĩa là nhánh của một sông lớn hơn: ở đây, nó là một nhánh của sông Ơ-phơ-rát, như phần lớn mọi người nghĩ, hay của sông Ti-gơ-rít, như một số tác giả gần đây cho rằng. Không phải xứ ở Phi Châu trên Ai Cập, thường được gọi như vậy; nhưng hoặc là A-ra-bi, trong Kinh Thánh thường được gọi là Cút hay Ê-thi-ô-bi. Xem các ghi chú về 2 Các Vua 19:9; Gióp 28:19; Ê-xê-chi-ên 29:10 và 30:8, 9; Ha-ba-cúc 3:7. Hoặc đúng hơn là một xứ kề bên Ấn Độ và Ba Tư, mà Cút được nối với, Ê-xê-chi-ên 38:5; cũng xem [không đọc được trong bản scan]; và Ê-xê-chi-ên 27:10. Và quanh nơi ấy, người Ê-thi-ô-bi được đặt [không đọc được trong bản scan] bởi Homer, Hesiod, và những người khác. Xem bộ *Synopsis* La-tinh của tôi.
+Chú thích: Không phải sông ở đất Y-sơ-ra-ên cùng tên ấy, 1 Các Vua 1:33; 2 Sử Ký 32:30. Nhưng là một sông khác cùng tên, trong tiếng Hê-bơ-rơ có nghĩa là nhánh của một sông lớn hơn: ở đây, nó là một nhánh của sông Ơ-phơ-rát, như phần lớn mọi người nghĩ, hay của sông Ti-gơ-rít, như một số tác giả gần đây cho rằng. Không phải xứ ở Phi Châu trên Ai Cập, thường được gọi như vậy; nhưng hoặc là A-ra-bi, trong Kinh Thánh thường được gọi là Cút hay Ê-thi-ô-bi. Xem các ghi chú về 2 Các Vua 19:9; Gióp 28:19; Ê-xê-chi-ên 29:10 và 30:8, 9; Ha-ba-cúc 3:7. Hoặc đúng hơn là một xứ kề bên Ấn Độ và Ba Tư, mà Cút được nối với, Ê-xê-chi-ên 38:5; cũng xem [không đọc được trong bản scan]; và Ê-xê-chi-ên 27:10. Và quanh nơi ấy, người Ê-thi-ô-bi được đặt [không đọc được trong bản scan] bởi Homer, Hesiod, và những người khác. Xem bộ Synopsis La-tinh của tôi.
 
 14 Tên sông thứ ba là Hi-đê-ke, đó là sông chảy về phía đông của A-si-ri. Và sông thứ tư là Ơ-phơ-rát.
 
@@ -284,21 +280,19 @@ Chú thích: Đây là lời của Môi-se [không phải lời của A-đam]. [
 
 Chú thích: Tức là, về sự trần truồng của họ, vì họ không có tội lỗi, cũng không có lý do gì để hổ thẹn; không có những khuynh hướng dơ bẩn hay xấu xa nào trong thân thể họ, không có sự tham dục tội lỗi hay những động lòng [rối loạn] nào trong linh hồn họ, mà chỉ có sự vô tội và hoàn hảo không tì vết, điều tất yếu phải loại trừ sự hổ thẹn.
 
----
-
 CHƯƠNG III.
 
 Sự xảo quyệt của con rắn, và câu hỏi gài bẫy của nó, c.1. Câu trả lời của người nữ, c.2. Con rắn phủ nhận sự chắc chắn của lời đe dọa, c.4. Gợi ý một lợi ích nhờ ăn trái ấy, c.5. Người nữ nhìn trái, lấy, ăn, đưa cho người nam, người này cũng ăn, c.6. Hậu quả của tội lỗi họ, c.7, 8. A-đam bị gọi đến, c.9; xuất hiện, c.10; bị tra hỏi, c.11; bào chữa, c.12. Người nữ bị tra hỏi, bào chữa, nhưng vẫn thú nhận sự việc, c.13. Án phạt trên con rắn là công cụ, c.14; trên ma quỷ là kẻ chủ mưu, cùng với lời hứa Phúc Âm đầu tiên, c.15; trên người nữ, c.16; trên người nam, c.17–19. A-đam đặt tên cho vợ mình, c.20. Đức Chúa Trời mặc áo cho họ, c.21. Họ bị đuổi ra khỏi vườn Địa Đàng, c.22; để cày cấy đất, c.23. Không thể trở lại, c.24.
 
 1 Vả, con rắn là loài xảo quyệt hơn hết trong các loài thú đồng mà Giê-hô-va Đức Chúa Trời đã dựng nên; nó nói cùng người nữ rằng: Có phải Đức Chúa Trời đã phán rằng: Các ngươi không được ăn trái của mọi cây trong vườn sao?
 
-Chú thích: Hay đúng hơn, con rắn này hay con rắn ấy: vì ở đây có một mạo từ nhấn mạnh, về điều này sẽ nói thêm ở c.15. Sự xảo quyệt nổi bật của nó được ghi nhận cả trong Kinh Thánh, Sáng Thế Ký 49:17; Thi Thiên 58:5; Ma-thi-ơ 10:16; 2 Cô-rinh-tô 11:3; và bởi các tác giả ngoại giáo, trong đó có những ví dụ sau: khi bị tấn công, nó bảo vệ đầu mình; nó bịt tai trước tiếng của người mê hoặc; và những điều tương tự. Nếu có người nói rằng một số loài thú khác còn xảo quyệt hơn, và vì vậy điều này không đúng; có thể trả lời: 1. Không có gì lạ nếu con rắn, vì đã làm công cụ cho tội lỗi của loài người, đã mất phần lớn sự xảo quyệt nguyên thủy của mình, cũng như tội lỗi của loài người đã bị phạt bằng sự suy giảm lớn lao cả về những ân tứ tự nhiên của trí óc, sự khôn ngoan và hiểu biết, lẫn vẻ đẹp và vinh quang của thân thể, công cụ của tội lỗi mình. Nhưng đoạn văn này có thể, và dường như nên được hiểu không phải về toàn thể loài rắn, mà về con rắn cá biệt hay riêng lẻ này; vì trong tiếng Hê-bơ-rơ, đó là *Hannachash*, con rắn ấy, hay con rắn này, để chỉ rằng đây không chỉ là một con rắn thông thường, mà đã bị ma quỷ điều khiển và hỗ trợ, vì vậy ma quỷ được gọi là con rắn xưa, Khải Huyền 12:9. Và điều này dường như rất có thể, một phần vì cuộc đối thoại tiếp theo, được thêm vào như một [chứng cớ] cho điều được nói ở đây về sự xảo quyệt của con rắn; và chắc chắn đó không phải là lời của một loài thú, mà là của một ma quỷ; và một phần vì 2 Cô-rinh-tô 11:3, nơi sứ đồ khẳng định rằng con rắn đã lừa dối Ê-va nhờ sự xảo quyệt của nó; chắc chắn không phải nhờ sự xảo quyệt chung cho mọi loài rắn, mà nhờ sự xảo quyệt riêng của con rắn này, vì nó được ma quỷ tăng cường. Thật vậy, dường như có một sự ám chỉ ở đây đến sự xảo quyệt tự nhiên của mọi loài rắn; và ý nghĩa của tác giả thánh dường như là: con rắn thật sự là một loài thọ tạo xảo quyệt, và được cho là xảo quyệt hơn bất kỳ loài thú đồng nào; nhưng dù điều ấy có đúng với những con rắn khác hay không, thì chắc chắn con rắn này đã xảo quyệt hơn bất kỳ loài thú đồng nào. [Không đọc được trong bản scan] Nó đã hiện ra với nàng trong một hình dạng hữu hình nào đó, điều này dường như rất đáng tin; vì [không đọc được trong bản scan] các thiên thần, nhưng ngay cả những thiên thần được chúc phước cũng [hiện ra] trong hình dạng con người, thì tại sao ma quỷ lại không [hiện ra trong hình dạng con rắn]? [Không đọc được trong bản scan] Người nữ đã từng rời khỏi chồng mình một thời gian trong một số dịp; một lợi thế mà con rắn xảo quyệt nhanh chóng nhận ra và tham lam nắm lấy, tấn công nàng khi nàng thiếu sự giúp đỡ của chồng mình. “Có phải”: hay là, tại sao, hay, thật vậy sao, hay, quả thật. “Đức Chúa Trời đã phán”: Thật khó tin rằng Đức Chúa Trời, Đấng rất rộng rãi, là Đấng Thiện tối cao, và rất ghét mọi sự keo kiệt và ganh tị, lại cấm các ngươi hưởng bất kỳ sự cung cấp nào mà Ngài đã làm ra cho các ngươi dùng và vui hưởng. “Mọi cây”: hay là, bất kỳ cây nào; vì từ này mơ hồ, và vì vậy kẻ thù xảo quyệt dùng nó để che giấu cái bẫy mà hắn đang giăng ra cho nàng. [Những lời “Có phải Đức Chúa Trời đã phán” là một câu ngắn gọn và đột ngột, dường như chỉ là phần kết của một cuộc đối thoại trước đó; con rắn hẳn đã hỏi trái và cây ấy là gì, và khi nàng chỉ cho hắn, nàng trả lời: Đây, không nghi ngờ gì, là một cây tuyệt vời, và ăn trái nó sẽ làm cho người ta khôn ngoan. Điều này không có trong bản văn; nhưng các nhà giải thích Do Thái và các nhà giải thích khác đều thừa nhận rằng những lời “Có phải Đức Chúa Trời đã phán” là một câu ngắn và [không đọc được trong bản scan]. Và cách diễn đạt tiếp theo trong c.6, “Khi người nữ thấy”, tức là, đó là một cây đáng ước ao để làm cho người ta khôn ngoan, dường như hàm ý cả hai điều: con rắn đã nói với nàng, và nàng đã tin rằng lời nói và sự hiểu biết của con rắn là kết quả của việc ăn trái ấy; và vì vậy, nếu nó đã nâng hắn từ một loài thú lên địa vị của một loài thọ tạo có lý trí, thì nó sẽ nâng nàng từ bản tính loài người lên một bản tính hay tình trạng thần thánh nào đó.]
+Chú thích: Hay đúng hơn, con rắn này hay con rắn ấy: vì ở đây có một mạo từ nhấn mạnh, về điều này sẽ nói thêm ở c.15. Sự xảo quyệt nổi bật của nó được ghi nhận cả trong Kinh Thánh, Sáng Thế Ký 49:17; Thi Thiên 58:5; Ma-thi-ơ 10:16; 2 Cô-rinh-tô 11:3; và bởi các tác giả ngoại giáo, trong đó có những ví dụ sau: khi bị tấn công, nó bảo vệ đầu mình; nó bịt tai trước tiếng của người mê hoặc; và những điều tương tự. Nếu có người nói rằng một số loài thú khác còn xảo quyệt hơn, và vì vậy điều này không đúng; có thể trả lời: 1. Không có gì lạ nếu con rắn, vì đã làm công cụ cho tội lỗi của loài người, đã mất phần lớn sự xảo quyệt nguyên thủy của mình, cũng như tội lỗi của loài người đã bị phạt bằng sự suy giảm lớn lao cả về những ân tứ tự nhiên của trí óc, sự khôn ngoan và hiểu biết, lẫn vẻ đẹp và vinh quang của thân thể, công cụ của tội lỗi mình. Nhưng đoạn văn này có thể, và dường như nên được hiểu không phải về toàn thể loài rắn, mà về con rắn cá biệt hay riêng lẻ này; vì trong tiếng Hê-bơ-rơ, đó là Hannachash, con rắn ấy, hay con rắn này, để chỉ rằng đây không chỉ là một con rắn thông thường, mà đã bị ma quỷ điều khiển và hỗ trợ, vì vậy ma quỷ được gọi là con rắn xưa, Khải Huyền 12:9. Và điều này dường như rất có thể, một phần vì cuộc đối thoại tiếp theo, được thêm vào như một [chứng cớ] cho điều được nói ở đây về sự xảo quyệt của con rắn; và chắc chắn đó không phải là lời của một loài thú, mà là của một ma quỷ; và một phần vì 2 Cô-rinh-tô 11:3, nơi sứ đồ khẳng định rằng con rắn đã lừa dối Ê-va nhờ sự xảo quyệt của nó; chắc chắn không phải nhờ sự xảo quyệt chung cho mọi loài rắn, mà nhờ sự xảo quyệt riêng của con rắn này, vì nó được ma quỷ tăng cường. Thật vậy, dường như có một sự ám chỉ ở đây đến sự xảo quyệt tự nhiên của mọi loài rắn; và ý nghĩa của tác giả thánh dường như là: con rắn thật sự là một loài thọ tạo xảo quyệt, và được cho là xảo quyệt hơn bất kỳ loài thú đồng nào; nhưng dù điều ấy có đúng với những con rắn khác hay không, thì chắc chắn con rắn này đã xảo quyệt hơn bất kỳ loài thú đồng nào. [Không đọc được trong bản scan] Nó đã hiện ra với nàng trong một hình dạng hữu hình nào đó, điều này dường như rất đáng tin; vì [không đọc được trong bản scan] các thiên thần, nhưng ngay cả những thiên thần được chúc phước cũng [hiện ra] trong hình dạng con người, thì tại sao ma quỷ lại không [hiện ra trong hình dạng con rắn]? [Không đọc được trong bản scan] Người nữ đã từng rời khỏi chồng mình một thời gian trong một số dịp; một lợi thế mà con rắn xảo quyệt nhanh chóng nhận ra và tham lam nắm lấy, tấn công nàng khi nàng thiếu sự giúp đỡ của chồng mình. “Có phải”: hay là, tại sao, hay, thật vậy sao, hay, quả thật. “Đức Chúa Trời đã phán”: Thật khó tin rằng Đức Chúa Trời, Đấng rất rộng rãi, là Đấng Thiện tối cao, và rất ghét mọi sự keo kiệt và ganh tị, lại cấm các ngươi hưởng bất kỳ sự cung cấp nào mà Ngài đã làm ra cho các ngươi dùng và vui hưởng. “Mọi cây”: hay là, bất kỳ cây nào; vì từ này mơ hồ, và vì vậy kẻ thù xảo quyệt dùng nó để che giấu cái bẫy mà hắn đang giăng ra cho nàng. [Những lời “Có phải Đức Chúa Trời đã phán” là một câu ngắn gọn và đột ngột, dường như chỉ là phần kết của một cuộc đối thoại trước đó; con rắn hẳn đã hỏi trái và cây ấy là gì, và khi nàng chỉ cho hắn, nàng trả lời: Đây, không nghi ngờ gì, là một cây tuyệt vời, và ăn trái nó sẽ làm cho người ta khôn ngoan. Điều này không có trong bản văn; nhưng các nhà giải thích Do Thái và các nhà giải thích khác đều thừa nhận rằng những lời “Có phải Đức Chúa Trời đã phán” là một câu ngắn và [không đọc được trong bản scan]. Và cách diễn đạt tiếp theo trong c.6, “Khi người nữ thấy”, tức là, đó là một cây đáng ước ao để làm cho người ta khôn ngoan, dường như hàm ý cả hai điều: con rắn đã nói với nàng, và nàng đã tin rằng lời nói và sự hiểu biết của con rắn là kết quả của việc ăn trái ấy; và vì vậy, nếu nó đã nâng hắn từ một loài thú lên địa vị của một loài thọ tạo có lý trí, thì nó sẽ nâng nàng từ bản tính loài người lên một bản tính hay tình trạng thần thánh nào đó.]
 
 2 Người nữ thưa cùng con rắn rằng: Chúng ta được ăn trái của các cây trong vườn;
 
 3 Nhưng về trái của cây ở giữa vườn, Đức Chúa Trời đã phán rằng: Các ngươi chớ ăn trái đó, cũng đừng đụng đến, e các ngươi sẽ chết.
 
-Chú thích: Tức là, để ăn nó: hoặc việc đụng đến có thể đơn giản bị cấm, hoặc nàng có thể hiểu một cách hợp lý rằng việc đụng đến bị cấm [không đọc được trong bản scan] bởi lệnh cấm ăn, vì đó là một dịp gây tội, và vì vậy phải tránh. Vì không có vẻ gì là người nữ, khi chưa bị hư hỏng, lại cố ý thêm vào Lời của Đức Chúa Trời, hay ác ý ám chỉ sự khắc nghiệt của [luật pháp]. Những người khác dịch: “e rằng các ngươi sẽ chết”, như thể nàng nghi ngờ lẽ thật của lời đe dọa: điều này dường như không [đúng], vì người nữ vẫn còn trong tình trạng vô tội, và sự nghi ngờ như vậy rõ ràng là tội lỗi; và tiểu từ Hê-bơ-rơ *pen* không phải lúc nào cũng hàm ý nghi ngờ, như thấy trong Thi Thiên 2:12; Ê-sai 27:3 và 36:18, so sánh với 2 Các Vua 18 [không đọc được trong bản scan].
+Chú thích: Tức là, để ăn nó: hoặc việc đụng đến có thể đơn giản bị cấm, hoặc nàng có thể hiểu một cách hợp lý rằng việc đụng đến bị cấm [không đọc được trong bản scan] bởi lệnh cấm ăn, vì đó là một dịp gây tội, và vì vậy phải tránh. Vì không có vẻ gì là người nữ, khi chưa bị hư hỏng, lại cố ý thêm vào Lời của Đức Chúa Trời, hay ác ý ám chỉ sự khắc nghiệt của [luật pháp]. Những người khác dịch: “e rằng các ngươi sẽ chết”, như thể nàng nghi ngờ lẽ thật của lời đe dọa: điều này dường như không [đúng], vì người nữ vẫn còn trong tình trạng vô tội, và sự nghi ngờ như vậy rõ ràng là tội lỗi; và tiểu từ Hê-bơ-rơ pen không phải lúc nào cũng hàm ý nghi ngờ, như thấy trong Thi Thiên 2:12; Ê-sai 27:3 và 36:18, so sánh với 2 Các Vua 18 [không đọc được trong bản scan].
 
 4 Con rắn nói cùng người nữ rằng: Các ngươi chắc chắn sẽ chẳng chết đâu.
 
@@ -383,8 +377,6 @@ Chú thích: Để ngăn ngừa [không đọc được trong bản scan]. Hay l
 24 Vậy Ngài đuổi loài người ra; và đặt tại phía đông vườn Ê-đen các chê-ru-bim, và một lưỡi gươm sáng chói, xoay mọi phía, để giữ con đường đến cây sự sống.
 
 Chú thích: Nơi lối vào vườn, các phía khác của nó được Đức Chúa Trời bao quanh hay bảo vệ để giữ nó khỏi sự xâm nhập và quấy rối của các loài thú hoang: hay là, trước vườn, tức là, gần vườn; trước khi bất kỳ ai có thể đến vườn bằng bất kỳ cách nào. Tức là, các thiên thần, được gọi như vậy vì sự hiểu biết tinh tế của họ, và vì vậy thích hợp [không đọc được trong bản scan] được dùng để trừng phạt loài người, là người đã phạm tội vì khao khát sự hiểu biết thần thánh. Trong tay các chê-ru-bim, như trong các dịp khác, Dân Số Ký 22:23; Giô-suê 5:13; 1 Sử Ký 21:16, 17. Và đây hoặc là một lưỡi gươm bằng vật chất, sáng chói, và khi được vung lên, lấp lánh như một ngọn lửa; hoặc là một ngọn lửa có hình dạng của một lưỡi gươm. Hoặc, các lưỡi gươm, vì có nhiều chê-ru-bim, và mỗi vị đều có một lưỡi gươm. Số ít dùng cho số nhiều: hoặc, một lưỡi gươm hai lưỡi. Nó được các chê-ru-bim vung lên và xoay nhanh; tư thế ấy thích hợp nhất cho công việc ấy. Con đường dẫn đến vườn Địa Đàng, và như vậy đến Cây Sự Sống; để loài người bị ngăn cản và giữ khỏi việc đến đó.
-
----
 
 CHƯƠNG IV.
 
@@ -480,7 +472,7 @@ Chú thích: Người mà (như các nhà học giả cho rằng, và sự trùn
 
 23 La-méc nói cùng hai vợ mình, A-đa và Si-la rằng: Hãy nghe tiếng ta, hỡi các vợ của La-méc, hãy lắng nghe lời ta nói: vì ta đã giết một người, làm ta bị thương, và một người trẻ, làm ta bị tổn thương.
 
-Chú thích: Những người vợ, khi thấy sự hung dữ và tàn bạo của ông, sợ rằng sự báo thù của Đức Chúa Trời hay loài người sẽ giáng xuống ông, và xuống họ vì cớ ông. Tức là, cứ cho rằng ta đã giết một người, và là một người trẻ, thì các ngươi lo lắng về điều ấy làm gì? Đó là sự tổn thương và đau đớn của chính ta, chứ không phải của các ngươi; ta phải chịu đựng vì nó, chứ không phải các ngươi. Một số người cho rằng đây là một lời thú nhận đau buồn về tội giết người đẫm máu của ông, tức là, ta đã giết một người, làm ta [không đọc được trong bản scan]. Hoặc, làm ta hoàn toàn hư hỏng, hay làm tổn thương và đau buồn cho lòng và lương tâm ta. Nhưng điều này dường như không phù hợp với phẩm chất của gia đình Ca-in, hay tính khí của La-méc, hay mục đích của Đức Thánh Linh ở đây; mục đích ấy là mô tả không phải đức tính, mà tội lỗi của dòng dõi gian ác ấy. Theo bản dịch ở lề, ý nghĩa có thể là: Đừng sợ cho ta; vì nếu bất kỳ ai, dù đang tuổi trẻ và mạnh mẽ, tấn công ta và gây cho ta vết thương đầu tiên, thì hắn sẽ phải trả giá đắt cho điều ấy; và mặc dù ta bị thương và suy yếu, phần sức lực còn lại của ta cũng đủ để gây cho hắn vết thương chí mạng. Những lời này cũng có thể được dịch khác; tiểu từ *chi* được hiểu theo nghĩa nghi vấn, như trong Ê-sai 29:6 và 35:19, và những chỗ khác: Ta có giết một người để làm ta bị thương, và một người trẻ để làm ta bị tổn thương chăng? Tức là, nhờ đó mà ta đáng phải chịu một vết thương hay tổn thương chí mạng như vậy để trả thù sao? Vì vậy, các ngươi không có lý do gì để sợ cho ta hay cho chính mình.
+Chú thích: Những người vợ, khi thấy sự hung dữ và tàn bạo của ông, sợ rằng sự báo thù của Đức Chúa Trời hay loài người sẽ giáng xuống ông, và xuống họ vì cớ ông. Tức là, cứ cho rằng ta đã giết một người, và là một người trẻ, thì các ngươi lo lắng về điều ấy làm gì? Đó là sự tổn thương và đau đớn của chính ta, chứ không phải của các ngươi; ta phải chịu đựng vì nó, chứ không phải các ngươi. Một số người cho rằng đây là một lời thú nhận đau buồn về tội giết người đẫm máu của ông, tức là, ta đã giết một người, làm ta [không đọc được trong bản scan]. Hoặc, làm ta hoàn toàn hư hỏng, hay làm tổn thương và đau buồn cho lòng và lương tâm ta. Nhưng điều này dường như không phù hợp với phẩm chất của gia đình Ca-in, hay tính khí của La-méc, hay mục đích của Đức Thánh Linh ở đây; mục đích ấy là mô tả không phải đức tính, mà tội lỗi của dòng dõi gian ác ấy. Theo bản dịch ở lề, ý nghĩa có thể là: Đừng sợ cho ta; vì nếu bất kỳ ai, dù đang tuổi trẻ và mạnh mẽ, tấn công ta và gây cho ta vết thương đầu tiên, thì hắn sẽ phải trả giá đắt cho điều ấy; và mặc dù ta bị thương và suy yếu, phần sức lực còn lại của ta cũng đủ để gây cho hắn vết thương chí mạng. Những lời này cũng có thể được dịch khác; tiểu từ chi được hiểu theo nghĩa nghi vấn, như trong Ê-sai 29:6 và 35:19, và những chỗ khác: Ta có giết một người để làm ta bị thương, và một người trẻ để làm ta bị tổn thương chăng? Tức là, nhờ đó mà ta đáng phải chịu một vết thương hay tổn thương chí mạng như vậy để trả thù sao? Vì vậy, các ngươi không có lý do gì để sợ cho ta hay cho chính mình.
 
 24 Nếu Ca-in được báo thù gấp bảy lần, thì La-méc sẽ được báo thù bảy mươi bảy lần.
 
@@ -493,8 +485,6 @@ Chú thích: Nàng đặt tên, nhưng không phải không có sự đồng ý 
 26 Sết cũng sinh một con trai, và đặt tên là Ê-nót: bấy giờ người ta bắt đầu cầu khẩn danh Đức Giê-hô-va.
 
 Chú thích: Tên Ê-nót có nghĩa đen là một người khốn khổ, để chỉ sự gian ác và khốn khổ lớn lao của thế hệ ấy. [Phần còn lại của chú thích bị xen kẽ trong bản scan; còn đọc được các tham chiếu: 1 Sử Ký [không đọc được trong bản scan].] [không đọc được trong bản scan]
-
----
 
 CHƯƠNG V.
 
@@ -584,8 +574,6 @@ Chú thích: [Tên Nô-ê] có nghĩa là sự yên nghỉ. Nhờ Thánh Linh [k
 
 Chú thích: [Phần chú thích bị xen kẽ; còn đọc được ý rằng Nô-ê không sinh con sớm hơn, có thể để ông không phải gả con cho kẻ hủy diệt, hoặc để ông không có nhiều con hơn số sẽ được cứu trong tàu.] [không đọc được trong bản scan]
 
----
-
 CHƯƠNG VI.
 
 [Phần Tóm tắt nội dung chương và phần đầu của chương (c.1–8) bị hỏng nặng trong bản scan — các dòng bị xen kẽ và nhiều đoạn không thể phục hồi. Những gì còn đọc được được dịch dưới đây; những chỗ mất đã được đánh dấu.]
@@ -652,8 +640,6 @@ Chú thích: [Phần chú thích bị hỏng trong bản scan.] [không đọc �
 
 Chú thích: [Phần chú thích bị hỏng trong bản scan.] [không đọc được trong bản scan]
 
----
-
 CHƯƠNG VII.
 
 [Tóm tắt nội dung chương bị hỏng nặng trong bản scan; còn đọc được rời rạc: Sự vâng lời của Nô-ê trong mọi sự, c.5. Tuổi của ông, c.6. Ông vào tàu cùng [gia đình mình, c.7]. Nước lụt gia tăng [không đọc được trong bản scan].]
@@ -670,7 +656,7 @@ Chú thích: Tức là, chim sạch; ông để độc giả hiểu điều ấy
 
 4 Vì sau bảy ngày nữa, Ta sẽ khiến mưa xuống đất bốn mươi ngày và bốn mươi đêm; và mọi sinh vật sống mà Ta đã dựng nên, Ta sẽ hủy diệt khỏi mặt đất.
 
-Chú thích: Hay là, sau bảy ngày, tiểu từ Hê-bơ-rơ *lamed* được dùng với nghĩa “sau”, như trong Xuất Ê-díp-tô Ký 16:1; Thi Thiên 19:3; [không đọc được trong bản scan]. Hay là, bảy ngày, [không đọc được trong bản scan] có thể, [không đọc được trong bản scan]. [Không đọc được trong bản scan] Và không có gì lạ nếu nhiều người trong số họ, những người đã khinh thường lời đe dọa khi nó còn cách 120 năm, nay khi có một lời đe dọa thứ hai, và xét đến sự nguy hiểm gần kề của mình, có thể được lay động nhiều hơn và được đưa đến sự ăn năn thật. Những người ấy, mặc dù bị hủy diệt về thân thể bởi trận lụt vì sự không ăn năn lâu dài trước đây của họ, điều mà Đức Chúa Trời sẽ không tha thứ đến mức ấy, nhưng có thể được cứu về linh hồn. Xem 1 Phi-e-rơ 3:19–20. Và như một số người được giữ trong tàu đã bị hư mất, thì những người khác chết đuối trong trận lụt có thể được cứu đời đời. [Mọi sinh vật sống:] tất cả những gì có hơi thở sự sống trong mình, như đã nói trong chương 6:17.
+Chú thích: Hay là, sau bảy ngày, tiểu từ Hê-bơ-rơ lamed được dùng với nghĩa “sau”, như trong Xuất Ê-díp-tô Ký 16:1; Thi Thiên 19:3; [không đọc được trong bản scan]. Hay là, bảy ngày, [không đọc được trong bản scan] có thể, [không đọc được trong bản scan]. [Không đọc được trong bản scan] Và không có gì lạ nếu nhiều người trong số họ, những người đã khinh thường lời đe dọa khi nó còn cách 120 năm, nay khi có một lời đe dọa thứ hai, và xét đến sự nguy hiểm gần kề của mình, có thể được lay động nhiều hơn và được đưa đến sự ăn năn thật. Những người ấy, mặc dù bị hủy diệt về thân thể bởi trận lụt vì sự không ăn năn lâu dài trước đây của họ, điều mà Đức Chúa Trời sẽ không tha thứ đến mức ấy, nhưng có thể được cứu về linh hồn. Xem 1 Phi-e-rơ 3:19–20. Và như một số người được giữ trong tàu đã bị hư mất, thì những người khác chết đuối trong trận lụt có thể được cứu đời đời. [Mọi sinh vật sống:] tất cả những gì có hơi thở sự sống trong mình, như đã nói trong chương 6:17.
 
 5 Nô-ê làm theo mọi điều Đức Giê-hô-va đã truyền cho người.
 
@@ -733,8 +719,6 @@ Chú thích: [Phần chú thích bị xen kẽ; còn đọc được các tham c
 24 Nước thắng hơn trên đất một trăm năm mươi ngày.
 
 Chú thích: Tức là, tiếp tục [không đọc được trong bản scan] trên đất; trong đó, bốn mươi ngày đã được nhắc đến trong c.17, như thấy trong chương 8:4.
-
----
 
 CHƯƠNG VIII.
 
@@ -800,13 +784,11 @@ Chú thích: [Không phải bàn thờ đầu tiên được xây dựng; nhưng
 
 21 Đức Giê-hô-va ngửi mùi thơm tho, và Đức Giê-hô-va phán trong lòng rằng: Ta sẽ chẳng rủa sả đất nữa vì cớ loài người; vì sự tưởng tượng của lòng loài người là xấu xa từ thuở nhỏ; Ta cũng sẽ chẳng đánh hạ mọi sinh vật sống nữa như Ta đã làm.
 
-Chú thích: Tức là, Ngài nhân từ chấp nhận của lễ của Nô-ê, và hài lòng với nó như với một mùi thơm ngọt ngào. Tức là, [Ngài phán] trong lòng, hay, nói với lòng Nô-ê, người được nhắc đến trong c.30 [?]. Những người khác dịch: phán với lòng mình. “Nói với lòng” trong cách dùng của Kinh Thánh [có nghĩa là] [không đọc được trong bản scan]. [“Ta sẽ chẳng rủa sả đất nữa”:] tức là, toàn thể đất với trận lụt như thế này. [Ngài] có thể không hủy diệt một xứ riêng biệt [như đã từng xảy ra], hay hủy diệt thế gian [bằng lửa]. Vì lòng mọi người tự nhiên hư hỏng, nên những hành động gian ác sẽ liên tục tuôn ra thế gian; và nếu Ta nghiêm khắc trừng phạt loài người theo tội lỗi của họ, thì Ta sẽ chẳng làm gì khác ngoài việc gửi hết trận lụt này đến trận lụt khác. Hoặc những lời này có thể được nối với những lời trước, và ý nghĩa có thể là: Ta sẽ không rủa sả đất nữa vì cớ loài người, hay vì tội lỗi của loài người, hay vì sự tưởng tượng, v.v., tức là, vì lòng họ [nghiêng về điều ác], điều đã gây ra trận lụt vừa qua. Hoặc từ *chi* có thể được hiểu một cách nhẹ nhàng, như trong Xuất Ê-díp-tô Ký 5:11; 13:17 và 34:9; [không đọc được trong bản scan]; Thi Thiên 25:11 và 41:5; và như vậy ý nghĩa thật rõ ràng: Ta sẽ không hủy diệt đất nữa, mặc dù sự tưởng tượng [của lòng loài người là xấu xa], tức là, mặc dù Ta có lý do chính đáng để làm như vậy. “Từ thuở nhỏ”: hay, từ thời thơ ấu và còn nhỏ của nó, như các bản dịch Chaldee và Hy Lạp dịch. “Đánh hạ”: tức là, giết hay hủy diệt, như từ “đánh” được dùng trong Xuất Ê-díp-tô Ký 21:18; Dân Số Ký 14:12 và 35:16; Phục Truyền 28:22, 27.
+Chú thích: Tức là, Ngài nhân từ chấp nhận của lễ của Nô-ê, và hài lòng với nó như với một mùi thơm ngọt ngào. Tức là, [Ngài phán] trong lòng, hay, nói với lòng Nô-ê, người được nhắc đến trong c.30 [?]. Những người khác dịch: phán với lòng mình. “Nói với lòng” trong cách dùng của Kinh Thánh [có nghĩa là] [không đọc được trong bản scan]. [“Ta sẽ chẳng rủa sả đất nữa”:] tức là, toàn thể đất với trận lụt như thế này. [Ngài] có thể không hủy diệt một xứ riêng biệt [như đã từng xảy ra], hay hủy diệt thế gian [bằng lửa]. Vì lòng mọi người tự nhiên hư hỏng, nên những hành động gian ác sẽ liên tục tuôn ra thế gian; và nếu Ta nghiêm khắc trừng phạt loài người theo tội lỗi của họ, thì Ta sẽ chẳng làm gì khác ngoài việc gửi hết trận lụt này đến trận lụt khác. Hoặc những lời này có thể được nối với những lời trước, và ý nghĩa có thể là: Ta sẽ không rủa sả đất nữa vì cớ loài người, hay vì tội lỗi của loài người, hay vì sự tưởng tượng, v.v., tức là, vì lòng họ [nghiêng về điều ác], điều đã gây ra trận lụt vừa qua. Hoặc từ chi có thể được hiểu một cách nhẹ nhàng, như trong Xuất Ê-díp-tô Ký 5:11; 13:17 và 34:9; [không đọc được trong bản scan]; Thi Thiên 25:11 và 41:5; và như vậy ý nghĩa thật rõ ràng: Ta sẽ không hủy diệt đất nữa, mặc dù sự tưởng tượng [của lòng loài người là xấu xa], tức là, mặc dù Ta có lý do chính đáng để làm như vậy. “Từ thuở nhỏ”: hay, từ thời thơ ấu và còn nhỏ của nó, như các bản dịch Chaldee và Hy Lạp dịch. “Đánh hạ”: tức là, giết hay hủy diệt, như từ “đánh” được dùng trong Xuất Ê-díp-tô Ký 21:18; Dân Số Ký 14:12 và 35:16; Phục Truyền 28:22, 27.
 
 22 Trong khi đất còn tồn tại, mùa gieo và mùa gặt, lạnh và nóng, mùa hè và mùa đông, ngày và đêm sẽ chẳng dứt.
 
 Chú thích: Tức là, trong tình trạng hiện tại: vì mặc dù dường như bản chất của đất sẽ tồn tại mãi mãi, sau khi thế gian bị tiêu tan bởi lửa; nhưng điều ấy sẽ diễn ra theo một cách khác, và [không đọc được trong bản scan] mục đích khác, và ở đó sẽ không có mùa gieo hay mùa gặt. Sự phân biệt ấy gần như đã chấm dứt trong tàu, khi các tầng trời bị che phủ, và mọi ánh sáng của chúng bị lu mờ bởi những đám mây dày và đen như chưa từng có trước hay sau đó.
-
----
 
 CHƯƠNG IX.
 
@@ -915,8 +897,6 @@ Chú thích: Điều này kéo dài đến năm thứ năm mươi tám của tu�
 29 Vậy Nô-ê hưởng thọ được chín trăm năm mươi tuổi, rồi qua đời.
 
 Chú thích: Ở đây có sự bỏ qua mệnh đề trang trọng được dùng trong tất cả các thế hệ trước: “Và ông sinh con trai con gái”; điều này hàm ý rằng Nô-ê không có nhiều hơn ba con trai này, điều này cũng thấy rõ từ câu 19 của chương này.
-
----
 
 CHƯƠNG X.
 
@@ -1032,8 +1012,6 @@ Chú thích: Những nơi này hoặc là [không đọc được trong bản sc
 
 32 Đây là các gia đình của các con trai Nô-ê, theo các thế hệ của họ, trong các dân tộc họ; và bởi những người này, các dân tộc đã bị chia ra trên đất sau trận lụt.
 
----
-
 CHƯƠNG XI.
 
 Toàn thể đất có một ngôn ngữ, c.1. Họ hành trình từ phía đông, và định cư trong xứ Si-nê-a, c.2. Làm gạch mà họ nung và dùng với nhựa chai, c.3. Xây một thành và một tháp để họ khỏi bị phân tán, c.4. Đức Chúa Trời xem xét việc ấy, c.5; không chấp nhận ý định của họ, c.6; đánh bại nó, và phân tán họ bằng cách làm lộn xộn ngôn ngữ của họ, c.7, 8. Vì lý do ấy, nơi ấy được gọi là Ba-bên, c.9. Dòng dõi của Sem đến Áp-ram, c.10–26. Áp-ram lấy Sa-rai làm vợ, c.29. Nàng son sẻ, c.30. Ông dời từ U-rơ đến Ha-ran, c.31, nơi cha ông qua đời, c.32.
@@ -1136,8 +1114,6 @@ Chú thích: Được con trai mình cho biết về mệnh lệnh của Đức 
 
 32 Tha-rê hưởng thọ được hai trăm lẻ năm tuổi; Tha-rê qua đời tại Ha-ran.
 
----
-
 CHƯƠNG XII.
 
 Đức Chúa Trời gọi Áp-ram rời khỏi xứ mình và họ hàng mình đến Ca-na-an, c.1. Hứa sẽ làm cho ông thành một dân tộc lớn và thịnh vượng; và ban phước trong Đấng Christ cho dòng dõi ông, c.2, 3. Áp-ram vâng lời, c.4–6. Đức Chúa Trời hiện ra cùng ông, và hứa sẽ ban Ca-na-an cho dòng dõi ông; ông xây một bàn thờ, c.7. Ông dời đến Bê-tên và xây một bàn thờ tại đó, c.8, 9. Có nạn đói, ông xuống Ai Cập, c.10. Ông khuyên Sa-rai nói dối, c.11–13. Nàng bị đưa vào nhà Pha-ra-ôn, c.15. Pha-ra-ôn đối xử tốt với Áp-ram vì cớ nàng, c.16. Đức Chúa Trời giáng tai họa trên ông vì cớ Sa-rai, c.17. Ông gọi Áp-ram và quở trách ông, c.18, 19. Đuổi ông đi một cách an toàn, c.20.
@@ -1220,8 +1196,6 @@ Chú thích: Mặc dù ông đã có một người vợ khác trước đó; v�
 
 Chú thích: Tức là, ban cho họ một mệnh lệnh về ông để họ hộ tống ông an toàn đến bất cứ nơi nào ông muốn đi.
 
----
-
 CHƯƠNG XIII.
 
 Áp-ram trở về từ Ai Cập đến Ca-na-an cùng Lót, c.1. Ông đến Bê-tên; cầu khẩn danh Chúa, c.3, 4. Áp-ram và Lót đều rất giàu, buộc phải chia tay. Lót đi đến Sô-đôm, c.5–12. Dân Sô-đôm rất gian ác, c.13. Đức Chúa Trời đổi mới lời hứa của Ngài với Áp-ram về xứ Ca-na-an, và về một dòng dõi đông đảo, c.14–17. Áp-ram dời đến Mam-rê, và xây một bàn thờ tại đó, c.18.
@@ -1262,7 +1236,7 @@ Chú thích: Một đồng bằng lớn được gọi như vậy, vì sông Gi�
 
 11 Lót chọn cho mình toàn thể đồng bằng Giô-đanh; Lót hành trình về phía đông; họ tách nhau ra.
 
-Chú thích: Tiếng Hê-bơ-rơ: từ phía đông, hay, về phía đông, như tiểu từ *mim* đôi khi được dùng. Xem Sáng Thế Ký 2:8; 2 Sa-mu-ên 2:2, so sánh với 1 Sử Ký 13 [không đọc được trong bản scan].
+Chú thích: Tiếng Hê-bơ-rơ: từ phía đông, hay, về phía đông, như tiểu từ mim đôi khi được dùng. Xem Sáng Thế Ký 2:8; 2 Sa-mu-ên 2:2, so sánh với 1 Sử Ký 13 [không đọc được trong bản scan].
 
 12 Áp-ram ở trong xứ Ca-na-an, Lót ở trong các thành của đồng bằng, và dựng lều mình hướng về Sô-đôm.
 
@@ -1276,7 +1250,7 @@ Chú thích: Để an ủi ông nay khi ông ở một mình, và trong một x�
 
 15 Vì mọi xứ mà ngươi thấy, Ta sẽ ban cho ngươi và dòng dõi ngươi đời đời.
 
-Chú thích: [Phần chú thích bị xen kẽ; còn đọc được ý rằng từ “đời đời” (tiếng Hê-bơ-rơ *olam*) không phải lúc nào cũng có nghĩa là vĩnh cửu, mà là một sự tiếp tục lâu dài, như thấy rõ trong [Sáng Thế Ký] 12 [không đọc được trong bản scan], và 48:4; Xuất Ê-díp-tô Ký 21:6; Thi Thiên 132:14, và nhiều chỗ khác trong Kinh Thánh; và đặc biệt, khi nói về các nghi lễ của người Do Thái, nó thường không có nghĩa gì hơn là sự tiếp tục cho đến khi [Đấng Mê-si-a] đến, hay cho đến khi [nền cộng hòa Do Thái] chấm dứt.]
+Chú thích: [Phần chú thích bị xen kẽ; còn đọc được ý rằng từ “đời đời” (tiếng Hê-bơ-rơ olam) không phải lúc nào cũng có nghĩa là vĩnh cửu, mà là một sự tiếp tục lâu dài, như thấy rõ trong [Sáng Thế Ký] 12 [không đọc được trong bản scan], và 48:4; Xuất Ê-díp-tô Ký 21:6; Thi Thiên 132:14, và nhiều chỗ khác trong Kinh Thánh; và đặc biệt, khi nói về các nghi lễ của người Do Thái, nó thường không có nghĩa gì hơn là sự tiếp tục cho đến khi [Đấng Mê-si-a] đến, hay cho đến khi [nền cộng hòa Do Thái] chấm dứt.]
 
 16 Ta sẽ làm cho dòng dõi ngươi như bụi đất; đến nỗi nếu ai có thể đếm được bụi đất, thì dòng dõi ngươi cũng sẽ được đếm.
 
@@ -1284,9 +1258,7 @@ Chú thích: [Phần chú thích bị xen kẽ; còn đọc được ý rằng t
 
 18 Áp-ram dời lều mình, đến ở tại đồng bằng Mam-rê, ở Hếp-rôn, và xây tại đó một bàn thờ cho Đức Giê-hô-va.
 
-Chú thích: Mam-rê là một người A-mô-rít nổi tiếng, từ ông mà thành Hếp-rôn được gọi là Mam-rê, Sáng Thế Ký 23:19. Ông là bạn và đồng minh của Áp-ram, Sáng Thế Ký 14:1, người mà người ta cho rằng Áp-ram đã được đưa đến sự hiểu biết và [không đọc được trong bản scan] về Đức Chúa Trời thật. Hay là, gần Hếp-rôn; vì từ Hê-bơ-rơ *beth* đôi khi được hiểu như vậy.
-
----
+Chú thích: Mam-rê là một người A-mô-rít nổi tiếng, từ ông mà thành Hếp-rôn được gọi là Mam-rê, Sáng Thế Ký 23:19. Ông là bạn và đồng minh của Áp-ram, Sáng Thế Ký 14:1, người mà người ta cho rằng Áp-ram đã được đưa đến sự hiểu biết và [không đọc được trong bản scan] về Đức Chúa Trời thật. Hay là, gần Hếp-rôn; vì từ Hê-bơ-rơ beth đôi khi được hiểu như vậy.
 
 CHƯƠNG XIV.
 
@@ -1380,8 +1352,6 @@ Chú thích: Tiếng Hê-bơ-rơ: Nếu tôi lấy. Hiểu ngầm: Đức Chúa 
 
 Chú thích: Vì như Áp-ram có quyền đối với chiến lợi phẩm, thì họ cũng vậy, dù họ có tham gia cùng ông trong [cuộc chiến], như người ta cho rằng họ đã làm, hay chỉ ở lại giữ đồ đạc, 1 Sa-mu-ên 30:24; và vì vậy, mặc dù ông có thể, và đã từ bỏ quyền của mình, ông không thể từ bỏ quyền của người khác.
 
----
-
 CHƯƠNG XV.
 
 Một lời hứa an ủi cho Áp-ram, c.1. Lời cầu nguyện của ông xin một người thừa kế, c.2, 3. Lời hứa trả lời cho lời cầu nguyện của ông, c.4, 5. Đức tin của Áp-ram, c.6. Ông xin một dấu hiệu, c.7, 8. Đức Chúa Trời ban cho ông một dấu hiệu, c.9. Ông tuân theo nó, c.10, 11. Đức Chúa Trời hiện ra cùng ông khi ông đang ngủ say, c.12. Một lời tiên tri về điều ác sẽ đến với dòng dõi ông, c.13. Sự giải cứu của họ, c.14–16. Giao ước [không đọc được trong bản scan] xứ Ca-na-an, c.17–21.
@@ -1462,8 +1432,6 @@ Chú thích: Người Kê-nít là cùng một dân tộc với người Ma-đi-
 
 21 Người A-mô-rít, người Ca-na-an, người Ghiếc-ga-sít, và người Giê-bu-sít.
 
----
-
 CHƯƠNG XVI.
 
 Sa-rai son sẻ, c.1. Nàng đưa Ha-ga, tớ gái mình, cho Áp-ram làm vợ, c.2, 3. Ha-ga thụ thai và khinh thường bà chủ mình, c.4. Sa-rai phàn nàn về việc ấy, c.5. Áp-ram giao nàng cho Sa-rai xử lý, bà đối xử khắc nghiệt với nàng; Ha-ga chạy trốn khỏi bà, c.6. Thiên sứ của Chúa gặp nàng, truyền nàng trở về và vâng phục, c.7–9. Hứa cho nàng một dòng dõi đông đảo, c.10. Đặt tên cho đứa trẻ, c.11. Tiên tri về tính tình của nó, c.12. Đức Chúa Trời đoái xem nàng trong sự khốn khổ, an ủi nàng, c.13, 14. Con trai nàng được sinh ra và đặt tên, c.15. Tuổi của Áp-ram, c.16.
@@ -1521,8 +1489,6 @@ Chú thích: Tên này có thể liên quan, hoặc 1. Đến Đức Chúa Trờ
 Chú thích: Tức là, sau khi nàng trở về và vâng phục bà chủ mình, điều này rõ ràng từ lịch sử tiếp theo.
 
 16 Áp-ram được tám mươi sáu tuổi khi Ha-ga sinh Ích-ma-ên cho Áp-ram.
-
----
 
 CHƯƠNG XVII.
 
@@ -1623,8 +1589,6 @@ Chú thích: [Ông làm điều ấy] bằng chính tay mình, và với sự gi
 26 Trong chính ngày ấy, Áp-ra-ham chịu cắt bì, và Ích-ma-ên, con trai ông.
 
 27 Tất cả những người nam trong nhà ông, sinh ra trong nhà, và mua bằng tiền của người ngoại, đều chịu cắt bì cùng ông.
-
----
 
 CHƯƠNG XVIII.
 
@@ -1743,8 +1707,6 @@ Chú thích: [Thiếu năm người:] tức là, thiếu, hay còn thiếu, năm
 Chú thích: Áp-ra-ham, vì khiêm tốn, không thể tiến xa hơn, và vì là một người tốt, ông có ý kiến từ thiện về người khác, và nghĩ rằng chắc chắn có nhiều người tốt như vậy trong tất cả những thành ấy, đặc biệt [không đọc được trong bản scan]. Nhưng ông không cầu nguyện cho chính mình, mà nhắm đến việc cứu cả các thành, điều mà khi ông thấy là đáng ngờ và không chắc chắn, ông đã cầu nguyện cho sự giải cứu của Lót khỏi sự hủy diệt chung ấy, như có thể suy ra từ Sáng Thế Ký 19:29.
 
 33 Đức Giê-hô-va đi, ngay khi Ngài thôi nói chuyện với Áp-ra-ham; Áp-ra-ham trở về chỗ mình.
-
----
 
 CHƯƠNG XIX.
 
@@ -1880,8 +1842,6 @@ Chú thích: [Mô-áp:] tức là, từ cha tôi, được sinh ra cho tôi bở
 
 Chú thích: [Bên-am-mi:] tức là, con trai của dân tộc tôi, hay họ hàng tôi, chứ không phải của dòng dõi Sô-đôm bị nguyền rủa, nơi tôi đã được hứa gả. Điều này có phần khiêm tốn hơn người kia trong cái tên nàng đặt, nhưng cả hai đều ngang nhiên khoe khoang về tội lỗi và sự xấu hổ của mình, điều mà họ nên [ăn năn] một cách cay đắng.
 
----
-
 CHƯƠNG XX.
 
 Áp-ra-ham kiều ngụ tại Ghê-ra, c.1. Ông chối Sa-ra là vợ mình; A-bi-mê-léc sai người bắt nàng, c.2. Đức Chúa Trời cảnh báo A-bi-mê-léc trong một giấc mơ, c.3. Ông biện hộ cùng Đức Chúa Trời; Đức Chúa Trời đáp lời và truyền ông trả lại Sa-ra, c.4–7. A-bi-mê-léc cảnh báo các tôi tớ mình, c.8. Quở trách Áp-ra-ham, c.10. Áp-ra-ham bào chữa và bảo vệ điều ông đã nói, c.11–13. A-bi-mê-léc đối xử tử tế với Áp-ra-ham; trả lại vợ ông, c.14, 15. Quở trách Sa-ra, c.16. Áp-ra-ham cầu nguyện cho A-bi-mê-léc; Đức Chúa Trời cất bỏ sự đoán phạt của Ngài, c.17, 18.
@@ -1953,8 +1913,6 @@ Chú thích: [Một ngàn miếng bạc:] [không đọc được trong bản sc
 18 Vì Đức Giê-hô-va đã đóng chặt mọi tử cung trong nhà A-bi-mê-léc, vì cớ Sa-ra, vợ Áp-ra-ham.
 
 Chú thích: [Cụm từ này] ở những chỗ khác chỉ sự son sẻ, như trong 1 Sa-mu-ên 1:5, mà một số người có học thức [không đọc được trong bản scan]. [Một số người phản đối rằng] việc này hẳn đã xảy ra trong một khoảng thời gian xa hơn nhiều [giữa việc Sa-ra bị bắt và sự sinh ra của Y-sác]. Phản đối ấy không có giá trị, vì những dấu hiệu của việc phụ nữ mang thai xuất hiện từ lâu trước khi sinh con, và những dấu hiệu ấy không xuất hiện ở bất kỳ người nào trong họ, những người trước thời gian ấy thường sinh sản và sinh con, họ [không đọc được trong bản scan], đặc biệt khi Đức Chúa Trời cảnh báo [A-bi-mê-léc]. Nhưng vì lịch sử này dường như đã được thực hiện trong một khoảng thời gian ngắn hơn nhiều, không có vẻ gì là Đức Chúa Trời sẽ để Sa-ra ở lâu cùng A-bi-mê-léc trước khi Ngài cảnh báo ông, hay ông, khi đã được cảnh báo, và bị đe dọa nghiêm khắc như vậy, và thật sự bị trừng phạt, sẽ trì hoãn việc thi hành mệnh lệnh của [Đức Chúa Trời], hay khi ông vâng lời Đức Chúa Trời, sự thương xót và giải cứu đã hứa sẽ bị Đức Chúa Trời trì hoãn; điều ấy có vẻ đúng hơn, như những người khác nghĩ, rằng đây là một sự khó chịu, hay bệnh dịch, hay vết loét ở các bộ phận kín, nhờ đó họ bị ngăn cản khỏi [sự giao hợp] và hy vọng sinh con; khi nó được cất đi, thì được nói rằng họ sinh con, trong đó, như thường xảy ra trong Kinh Thánh, hành động cuối cùng và hoàn tất được đặt thay cho mọi hành động trước đó, tức là, họ được phục hồi để [dùng trong hôn nhân], thụ thai, và đến thời điểm thích hợp, sinh con.
-
----
 
 CHƯƠNG XXI.
 
@@ -2082,8 +2040,6 @@ Chú thích: [Ông trồng một cây me:] không phải để lấy bóng mát,
 
 34 Áp-ra-ham kiều ngụ trong xứ Phi-li-tin nhiều ngày.
 
----
-
 CHƯƠNG XXII.
 
 Đức Chúa Trời thử Áp-ra-ham, c.1. Bảo ông dâng Y-sác làm của lễ, c.2. Ông sẵn sàng làm theo, c.3–6. Câu hỏi của Y-sác, c.7. Câu trả lời của Áp-ra-ham, c.8. Họ đến nơi; ông trói Y-sác; đặt nó trên bàn thờ; cầm dao, c.9, 10. Chúa thấy sự chính trực của ông, và cấm ông, c.11, 12. Một con chiên đực bị mắc, được dâng thay cho Y-sác, c.13. Tên của nơi ấy, Giê-hô-va Di-rê, c.14. Chúa gọi lần thứ hai, c.15. Thề bởi chính Ngài, xác nhận lời hứa của Ngài cho Áp-ra-ham và dòng dõi ông, c.16–18. Áp-ra-ham trở về Bê-e Sê-ba, c.19. Dòng dõi của em ông là Na-cô, c.20–24.
@@ -2172,8 +2128,6 @@ Chú thích: [Rê-bê-ca:] sau này là vợ của Y-sác, Sáng Thế Ký 24.
 
 Chú thích: [Vợ lẽ:] là một loại vợ thấp kém, được lấy theo thói quen chung của thời ấy, chịu quyền của người vợ chính, và con cái của nàng không có quyền thừa kế, nhưng được ban tặng quà. Xem Sáng Thế Ký 21:14 và 25:6. [Ma-a-ca:] một cái tên chung cho cả đàn ông, như trong 2 Sa-mu-ên 10:6, lẫn đàn bà, như trong 1 Các Vua 15:13.
 
----
-
 CHƯƠNG XXIII.
 
 Tuổi và sự chết của Sa-ra; Áp-ra-ham than khóc, c.1, 2. Ông nói với các con trai của Hết về một nơi chôn cất, c.3, 4. Họ đề nghị ông chọn các mộ của họ, c.5, 6. Áp-ra-ham muốn mua một cánh đồng của Ép-rôn, c.8, 9. Ép-rôn muốn ban nó cho ông, c.10–15. Áp-ra-ham mua nó, và cân bạc, c.16. Cánh đồng được xác nhận cho Áp-ra-ham làm sản nghiệp trước các nhân chứng, c.17–20.
@@ -2239,8 +2193,6 @@ Chú thích: [Bạc lưu hành với người buôn bán:] [không đọc đư�
 19 Sau việc ấy, Áp-ra-ham chôn Sa-ra, vợ mình, trong hang của cánh đồng Mác-bê-la, trước Mam-rê; tức là Hếp-rôn, trong xứ Ca-na-an.
 
 20 Cánh đồng và hang ở trong đó được xác nhận cho Áp-ra-ham làm sản nghiệp về một nơi chôn cất, bởi các con trai của Hết.
-
----
 
 CHƯƠNG XXIV.
 
@@ -2452,8 +2404,6 @@ Chú thích: [Nàng lấy khăn che mặt, và che mình lại:] để tỏ dấ
 
 Chú thích: [Ông đem nàng vào lều của Sa-ra, mẹ ông:] một phần để ban cho nàng quyền sở hữu nó, và một phần để hoàn tất [hôn nhân]. Phụ nữ lúc ấy có lều riêng, tách khỏi đàn ông. Xem Sáng Thế Ký 18:10, và 24:67, và 31:33. [Y-sác được an ủi sau khi mẹ ông qua đời:] một nỗi buồn [không đọc được trong bản scan] mà ông vẫn giữ, mặc dù nàng đã chết ba năm trước việc này.
 
----
-
 CHƯƠNG XXV.
 
 Các con trai của Áp-ra-ham bởi Kê-tu-ra, c.1–4. Y-sác thừa hưởng tài sản của cha mình, c.5. Những sự cung cấp cho các con trai khác, c.6. Tuổi của Áp-ra-ham, c.7. Sự chết, c.8. Sự chôn cất, c.9, 10. Đức Chúa Trời ban phước cho Y-sác, c.11. Dòng dõi của Ích-ma-ên, c.12–16. Tuổi và sự chết của ông, c.17. Nơi ở của họ, c.18. Các đời của Y-sác, c.19. Tuổi ông khi cưới vợ, c.20. Ông cầu nguyện xin con cái; Đức Chúa Trời đáp lời, c.21. Hai đứa trẻ giằng co trong bụng mẹ; Rê-bê-ca cầu hỏi Chúa, c.22. Đức Chúa Trời ban lý do, c.23. Nàng sinh đôi, c.24. Đứa đầu lòng đỏ và có lông; tên nó, c.25. Em nó nắm gót chân nó; tên nó; tuổi của Y-sác khi chúng được sinh ra, c.26. Người anh là một thợ săn khéo léo; người em là một người ngay thẳng, c.27. Y-sác yêu người anh; Rê-bê-ca yêu người em, c.28. Người anh bán quyền trưởng nam của mình lấy một bát canh đỏ, và được gọi là Ê-đôm, c.29–32. Xác nhận việc bán bằng một lời thề, c.33. Khinh thường quyền trưởng nam của mình, c.34.
@@ -2576,8 +2526,6 @@ Chú thích: [Gia-cốp nói rằng: Hãy thề cùng tôi ngày nay:] Gia-cốp
 
 Chú thích: [Ông ăn uống, đứng dậy, đi đường mình:] [không đọc được trong bản scan] và không ăn năn, không có sự hối tiếc nào về sự vô ơn của mình đối với Đức Chúa Trời; hay sự tổn thương mà ông đã gây ra cho chính mình, và cho mọi [dòng dõi] của mình. [Ê-sau khinh thường quyền trưởng nam của mình:] tức là, ưa thích sự thỏa mãn hiện tại và nhất thời của dục vọng và sự thèm ăn của mình, hơn là phước lành của Đức Chúa Trời, và của cha mình, và mọi đặc quyền vinh quang của quyền trưởng nam.
 
----
-
 CHƯƠNG XXVI.
 
 Một nạn đói trong xứ; Y-sác đến Ghê-ra, c.1. Đức Chúa Trời hướng dẫn ông ở lại đó, và hứa ở cùng ông; giao ước với Áp-ra-ham cũng được lập với Y-sác, c.2–5. Vì sợ hãi, ông chối Rê-bê-ca, c.7. A-bi-mê-léc, thấy Y-sác và nàng ở cùng nhau, kết luận nàng là vợ ông, c.8. Quở trách ông về việc ấy, ông thú nhận, c.9, 10. A-bi-mê-léc quở trách ông, truyền dân mình chớ chạm đến họ, nếu không sẽ bị xử tử, c.11. Y-sác được ban phước với sự dồi dào lớn lao, c.12–14. Dân Phi-li-tin ghen tị với ông; lấp các giếng của ông, c.15. Muốn ông ra đi, c.16. Ông dời đến thung lũng Ghê-ra, c.17. Tại đó, ông đào các giếng, nhưng những người chăn tranh cãi với ông về chúng, c.18–21. Ông được yên nghỉ, c.22. Dời đến Bê-e Sê-ba, c.23. Chúa đổi mới giao ước của Ngài, c.24. Ông kêu cầu danh Chúa, c.25. A-bi-mê-léc, tin chắc rằng Chúa ở cùng Y-sác, muốn lập một giao ước với ông, c.26–29. Họ làm một bữa tiệc, và thề cùng nhau, c.30, 31. Ê-sau, được bốn mươi tuổi, lấy vợ từ dân Ca-na-an, c.34. Y-sác và Rê-bê-ca buồn rầu về việc ấy, c.35.
@@ -2693,8 +2641,6 @@ Chú thích: [Cả hai đều là người Hê-tít, tệ nhất trong dân Ca-n
 35 Những người ấy là nỗi buồn rầu trong lòng Y-sác, và Rê-bê-ca.
 
 Chú thích: [Nỗi buồn rầu trong lòng:] vì ngoài sự thờ hình tượng, và sự gian ác khác của họ, họ thêm vào sự ngoan cố và [sự khinh thường] đối với [cha mẹ] họ, và những lời khuyên tin kính của họ, nhờ đó họ mời họ ăn năn.
-
----
 
 CHƯƠNG XXVII.
 
@@ -2842,8 +2788,6 @@ Chú thích: [Sao ta lại bị tước mất cả hai ngươi trong một ngày
 
 Chú thích: [Tôi chán đời vì cớ các con gái của Hết:] [không đọc được trong bản scan].
 
----
-
 CHƯƠNG XXVIII.
 
 Y-sác gọi Gia-cốp, chúc phước cho nó, và [truyền lệnh cho nó], c.1–4. [Xác nhận phước lành trước đây của ông], c.4. Gia-cốp đi đến Pha-đan A-ram, c.5. Ê-sau thấy Y-sác đã chúc phước cho Gia-cốp, và sai nó đến Pha-đan A-ram để lấy vợ từ đó; và khi ông chúc phước cho nó, ông truyền lệnh cho nó rằng: Ngươi chớ lấy vợ trong số các con gái của Ca-na-an, c.6, 7. Ê-sau thấy các con gái của Ca-na-an không làm hài lòng Y-sác, cha nó, c.8. Bấy giờ, Ê-sau đến cùng Ích-ma-ên, và lấy Ma-ha-lát, con gái của Ích-ma-ên, con trai của Áp-ra-ham, em gái của Nê-ba-giốt, làm vợ, ngoài những vợ mà nó đã có, c.9. Gia-cốp ra khỏi Bê-e Sê-ba, đi về Ha-ran, c.10. Nó gặp một nơi nào đó, ở lại đó suốt đêm, vì mặt trời đã lặn; nó lấy những hòn đá của nơi ấy, đặt chúng làm gối cho mình, và nằm xuống tại nơi ấy để ngủ, c.11. Nó mơ thấy một cái thang được dựng lên trên đất, đầu nó chạm đến trời; các thiên sứ của Đức Chúa Trời lên xuống trên đó; Đức Giê-hô-va đứng trên nó, và phán cùng nó, c.12, 13. [Ngài hứa ban cho nó xứ ấy, và dòng dõi đông đảo, và sự hiện diện của Ngài], c.14, 15. Gia-cốp thức dậy khỏi giấc ngủ, và nói rằng: Chắc chắn Đức Giê-hô-va ở tại nơi này; tôi không biết, c.16. Nó sợ hãi, và nói rằng: Nơi này đáng sợ biết bao! Đây chẳng phải là gì khác, mà là nhà của Đức Chúa Trời, và cổng trời, c.17. Nó dậy sớm vào buổi sáng, lấy hòn đá mà nó đã đặt làm gối, dựng nó lên làm một trụ, và đổ dầu lên đỉnh nó, c.18. Nó gọi tên nơi ấy là Bê-tên; nhưng tên của thành ấy được gọi là Lu-xơ lúc đầu, c.19. Gia-cốp khấn một lời khấn, mà nói rằng: Nếu Đức Chúa Trời ở cùng tôi, và giữ tôi trong đường tôi đi, ban cho tôi bánh ăn, và áo mặc, c.20. Để tôi trở về nhà cha tôi trong bình an, thì Đức Giê-hô-va sẽ là Đức Chúa Trời của tôi, c.21. Hòn đá này, mà tôi đã dựng lên làm trụ, sẽ là nhà của Đức Chúa Trời; và trong mọi vật mà Ngài sẽ ban cho tôi, tôi chắc chắn sẽ dâng một phần mười cho Ngài, c.22.
@@ -2921,8 +2865,6 @@ Chú thích: [Đức Giê-hô-va sẽ là Đức Chúa Trời của tôi:] [khô
 22 Hòn đá này, mà tôi đã dựng lên làm trụ, sẽ là nhà của Đức Chúa Trời; và trong mọi vật mà Ngài sẽ ban cho tôi, tôi chắc chắn sẽ dâng một phần mười cho Ngài.
 
 Chú thích: [Hòn đá này, mà tôi đã dựng lên làm trụ, sẽ là nhà của Đức Chúa Trời:] tức là, nơi tôi sẽ dâng của lễ cho Đức Chúa Trời. [Không đọc được trong bản scan]
-
----
 
 CHƯƠNG XXIX.
 
@@ -3045,8 +2987,6 @@ Chú thích: [Chồng tôi sẽ gắn bó với tôi:] trong tình cảm chân t
 35 Nàng thụ thai nữa, sinh một con trai; nàng nói rằng: Nay, tôi sẽ ngợi khen Đức Giê-hô-va; vì vậy, nàng đặt tên nó là Giu-đa, và thôi sinh nở.
 
 Chú thích: [Nay, tôi sẽ ngợi khen Đức Giê-hô-va:] một cách trang trọng và liên tục hơn; vì nếu không, nàng đã ngợi khen và thừa nhận Đức Chúa Trời về những ân huệ trước đây. [Giu-đa:] tức là, ngợi khen. [Nàng thôi sinh nở:] tức là, [trong một thời gian].
-
----
 
 CHƯƠNG XXX.
 
@@ -3181,8 +3121,6 @@ Chú thích: [Khi nào gia súc khỏe mạnh thụ thai:] người ta biết r�
 42 Nhưng khi gia súc yếu, ông không đặt chúng vào; vì vậy, những con yếu hơn là của La-ban, và những con khỏe hơn là của Gia-cốp.
 
 43 Người ấy tăng lên rất nhiều, có nhiều gia súc, tớ gái, tôi tớ trai, lạc đà, và lừa.
-
----
 
 CHƯƠNG XXXI.
 
@@ -3376,8 +3314,6 @@ Chú thích: [Gia-cốp dâng của lễ trên núi:] từ Hê-bơ-rơ có nghĩ
 
 55 Sáng sớm, La-ban dậy, hôn các con trai mình, và các con gái mình, và chúc phước cho họ; La-ban ra đi, trở về xứ mình.
 
----
-
 CHƯƠNG XXXII.
 
 Các thiên sứ của Đức Chúa Trời gặp Gia-cốp, c.1. Ông gọi họ là đạo binh của Đức Chúa Trời, và nơi ấy là Ma-ha-na-im, c.2. Sai sứ giả đến cùng Ê-sau, anh mình, c.3–5. Họ trở về, báo rằng Ê-sau đến đón ông với bốn trăm người, c.6. Gia-cốp sợ hãi; chia dân mình và gia súc thành hai đoàn, c.7. Ban mệnh lệnh về chúng, c.8. Cầu nguyện cùng Đức Chúa Trời một cách rất sốt sắng và khiêm nhường, c.9–12. Sai quà đến cùng anh mình, với những hướng dẫn, c.13–21. Đem vợ và con cái mình qua chỗ cạn vào ban đêm, c.22, 23. Vật lộn với Đức Chúa Trời, và thắng; được gọi là Y-sơ-ra-ên; Đức Chúa Trời ban phước cho ông; ông hỏi danh Đức Chúa Trời; gọi nơi ấy là Phê-ni-ên; Gia-cốp đi khập khiễng, c.24–31. Dân Do Thái giữ [tục lệ] để tưởng nhớ việc ấy, c.32.
@@ -3494,8 +3430,6 @@ Chú thích: [Tôi đã thấy Đức Chúa Trời mặt đối mặt:] không p
 
 Chú thích: [Con cái Y-sơ-ra-ên không ăn gân đã co lại:] không phải vì bất kỳ quan niệm mê tín nào về nó, mà chỉ để tưởng nhớ cuộc xung đột kỳ diệu này, mà những hiệu quả được ban phước của nó, ngay cả các thế hệ tương lai cũng nhận được.
 
----
-
 CHƯƠNG XXXIII.
 
 Gia-cốp sắp xếp các vợ và con cái mình theo thứ tự họ sẽ đi, c.1, 2. Gặp anh mình; sự vâng phục của ông đối với ông, c.3. Ê-sau ôm lấy Gia-cốp một cách nhân từ, c.4. Các vợ và con cái ông trình diện cùng Ê-sau, c.5–7. Gia-cốp dâng một món quà cho anh mình, c.8. Ông từ chối nó, c.9. Gia-cốp nài ép ông, và ông nhận lấy, c.10, 11. Họ chia tay thân thiện, c.12–15. Ê-sau trở về Sê-i-rơ, c.16. Gia-cốp đến Su-cốt, c.17. Từ đó, ông đi đến Si-chem; nơi ông mua [một thửa đất] với giá một trăm miếng bạc; xây một bàn thờ; gọi nó là Ên Ê-lô-hê Y-sơ-ra-ên, c.18–20.
@@ -3565,8 +3499,6 @@ Chú thích: [Một trăm miếng bạc:] hay, chiên con. [Không đọc đư�
 20 Ông dựng tại đó một bàn thờ, và gọi nó là Ên Ê-lô-hê Y-sơ-ra-ên.
 
 Chú thích: [Ên Ê-lô-hê Y-sơ-ra-ên:] tức là, Đức Chúa Trời, Đức Chúa Trời của Y-sơ-ra-ên. Hoặc, [Ên Ê-lô-hê Y-sơ-ra-ên:] từ “Ên” là thừa, [như] các đại từ [không đọc được trong bản scan] thường [được dùng].
-
----
 
 CHƯƠNG XXXIV.
 
@@ -3670,8 +3602,6 @@ Chú thích: [Các ngươi đã làm khổ ta:] các ngươi không chỉ làm r
 
 Chú thích: [Ông ta há nên đối xử với em gái chúng tôi như với một gái điếm sao?] chúng ta há nên bày tỏ không có sự phẫn nộ nào hơn về sự lạm dụng ghê tởm này đối với em gái chúng ta, hơn là nếu nàng là một gái điếm thông thường, mà sự lạm dụng của nàng không ai quan tâm hay báo thù? Như vậy, họ bào chữa cho một lỗi lầm bằng cách phạm một lỗi lầm khác, và bảo vệ mình bằng cách buộc tội cha mình về sự ngu dốt, và vô cảm trước một sự sỉ nhục và tổn thương lớn lao như vậy.
 
----
-
 CHƯƠNG XXXV.
 
 Đức Chúa Trời truyền Gia-cốp ở tại Bê-tên, và xây một bàn thờ tại đó, c.1. Ông truyền gia đình mình tẩy sạch mình khỏi các thần tượng, và đi đến Bê-tên, c.2. Họ vâng lời, c.3, 4. Ông và họ đi đến đó; không ai đuổi theo họ; lý do của việc ấy, c.5, 6. Tại đó, ông xây một bàn thờ, c.7. Sự chết và chôn cất của vú nuôi Rê-bê-ca, c.8. Đức Chúa Trời hiện ra cùng Gia-cốp, xác nhận tên Y-sơ-ra-ên của ông, đổi mới [lời hứa], c.9–13. Vì vậy, ông dựng một trụ, đổ dầu lên đó, và gọi nơi ấy là Bê-tên, c.14, 15. Ra đi từ đó, Ra-chên chết khi sinh Bên-gia-min, và được chôn tại đó, c.16–20. Ru-bên phạm tội loạn luân trong nhà cha mình, c.22. Tên các con trai của Gia-cốp, c.23–26. Gia-cốp thăm cha mình là Y-sác, c.27. Tuổi, sự chết, và chôn cất của ông, c.28, 29.
@@ -3773,8 +3703,6 @@ Chú thích: [Gia-cốp đến cùng Y-sác, cha mình, tại Mam-rê:] [không 
 29 Y-sác trút linh hồn, chết, và được thâu về cùng dân sự mình, già và đầy dẫy ngày tháng; các con trai ông là Ê-sau và Gia-cốp chôn ông.
 
 Chú thích: [Được thâu về cùng dân sự mình:] hoặc đến với hội chúng của người chết, hoặc đến hội chúng của người công chính. Xem Sáng Thế Ký 15:15 và 25:8.
-
----
 
 CHƯƠNG XXXVI.
 
@@ -3906,8 +3834,6 @@ Chú thích: [Theo gia đình họ, theo nơi ở của họ, theo tên họ:] [
 
 43 Quan trưởng Mác-đi-ên, quan trưởng Y-ram. Đây là các quan trưởng của Ê-đôm, theo nơi ở của họ, trong xứ họ chiếm hữu: ông là Ê-sau, tổ phụ của dân Ê-đôm.
 
----
-
 CHƯƠNG XXXVII.
 
 Gia-cốp ở tại Ca-na-an; Giô-sép đem đến cho cha mình một báo cáo xấu về các anh mình, c.2. Ông yêu [Giô-sép], họ ghét ông, c.3, 4. Càng ghét hơn vì những giấc mơ mà ông kể cho họ, c.5. Giấc mơ đầu tiên của ông, c.7. Các anh mình giải thích nó, và lòng thù ghét của họ tăng lên, c.8. Giấc mơ thứ hai của ông, c.9. Kể nó cho cha mình, người quở trách ông, nhưng quan sát lời nói của ông, c.10, 11. Ông được cha mình sai đi tìm các anh mình, c.13–17. Họ thấy ông, âm mưu giết ông, c.18–20. Nhưng theo sự can thiệp của Ru-bên, họ lột [áo] ông và ném ông vào một hố, c.21–24. Một số người Ích-ma-ên đi qua, theo lời khuyên của Giu-đa, họ bán ông cho họ, những người đem ông vào Ê-díp-tô, c.25–28. Ru-bên lo lắng cho ông, c.29, 30. Mưu kế của họ để lừa dối Gia-cốp, c.31, 32. Nỗi buồn của ông vì mất Giô-sép, c.33–35. Giô-sép bị bán cho Phô-ti-pha, một quan chức tại Ê-díp-tô, c.36.
@@ -4030,8 +3956,6 @@ Chú thích: [Mọi con trai ông, và mọi con gái ông đứng dậy an ủi
 
 Chú thích: [Phô-ti-pha, một quan chức của Pha-ra-ôn, và quan trưởng của đội cận vệ:] tiếng Hê-bơ-rơ: hoạn quan. Nhưng từ này không chỉ có nghĩa là hoạn quan, mà còn là thị thần, cận thần, và quan chức, [không đọc được trong bản scan]. [Quan trưởng của đội cận vệ:] người có chức vụ bắt giữ và trừng phạt những người phạm tội. Xem Sáng Thế Ký 40:3; Giê-rê-mi 39:9; Mác 6:27.
 
----
-
 CHƯƠNG XXXVIII.
 
 Giu-đa cưới một người nữ Ca-na-an, nàng sinh cho ông ba con trai, c.1–5. Ông cưới vợ cho con trai cả mình là Ta-ma, c.6. Ông gian ác, bị Đức Chúa Trời giết chết, c.7. Con trai thứ hai được truyền cưới nàng, c.8. Sự gian ác của ông, c.9, sự chết của ông, c.10. Ông hứa nàng con trai thứ ba của mình, nhưng không thực hiện, c.11. Nàng bằng một mưu mẹo khôn khéo phạm tội loạn luân với ông, c.12–18. Nàng nhận một vật làm tin, c.18. Nàng bị phát hiện có thai; Giu-đa truyền đốt nàng, c.24. Nàng đem vật làm tin đến cho cha mình, c.25. Ông thừa nhận nó; tha thứ cho nàng, và kết án chính mình, c.26. Nàng sinh hai con trai, c.27–30.
@@ -4130,8 +4054,6 @@ Chú thích: [Ngươi đã phá vỡ như thế nào? Sự phá vỡ này sẽ �
 
 30 Sau đó, anh nó ra, người có sợi chỉ đỏ trên tay, tên nó được gọi là Xê-rách.
 
----
-
 CHƯƠNG XXXIX.
 
 Đức Chúa Trời làm cho Giô-sép thịnh vượng trong nhà Phô-ti-pha, c.1–6. Vợ của chủ ông dụ dỗ ông nằm cùng nàng, c.7. Ông ghê tởm sự vô ơn đối với chủ mình, và tội lỗi chống lại Đức Chúa Trời, kiên quyết từ chối, c.8–10. Khi ở trong nhà một mình, nàng nắm áo ông, áo mà ông bỏ lại cùng nàng, và chạy trốn, c.11, 12. Nàng buộc tội ông trước với các đầy tớ, c.13–15, rồi với chủ mình, c.16–18, người bỏ ông vào tù, c.19, 20. Chúa ở cùng ông tại đó; ông được ơn trước mặt người cai ngục; ông được đặt trên các tù nhân, và thịnh vượng, c.21–23.
@@ -4210,8 +4132,6 @@ Chú thích: [Đức Giê-hô-va ở cùng Giô-sép, tỏ lòng thương xót �
 
 23 Người cai ngục không xem xét bất cứ việc gì ở dưới tay ông; vì Đức Giê-hô-va ở cùng ông, và điều gì ông làm, Đức Giê-hô-va làm cho nó thịnh vượng.
 
----
-
 CHƯƠNG XL.
 
 Quan dâng rượu và quan làm bánh của Pha-ra-ôn xúc phạm vua mình, bị giam trong tù, c.1–4. Họ mơ những giấc mơ; Giô-sép giải thích chúng, c.5–15. Quan dâng rượu cũng kể giấc mơ của mình, c.16, 17. Giô-sép giải thích nó, c.18, 19. Cả hai đều được ứng nghiệm bởi sự kiện, c.20–22. Quan dâng rượu quên Giô-sép, c.23.
@@ -4287,8 +4207,6 @@ Chú thích: [Ngày thứ ba, là ngày sinh nhật của Pha-ra-ôn, ông làm 
 23 Quan dâng rượu trưởng không nhớ Giô-sép, mà quên ông.
 
 Chú thích: [Quan dâng rượu trưởng không nhớ Giô-sép, mà quên ông:] tức là, ông và mong muốn của ông; như con người trong Kinh Thánh thường được nói là quên Đức Chúa Trời, khi họ không nhớ Ngài để yêu mến và vâng lời Ngài, như trong Thi Thiên 106:13, 21; Ô-sê 2:13.
-
----
 
 CHƯƠNG XLI.
 
@@ -4468,8 +4386,6 @@ Chú thích: [Nạn đói ở trên khắp mặt đất; Giô-sép mở mọi kh
 
 57 Mọi xứ đến Ê-díp-tô cùng Giô-sép để mua lúa gạo, vì nạn đói quá nặng nề trong mọi xứ.
 
----
-
 CHƯƠNG XLII.
 
 Gia-cốp nghe có lúa gạo tại Ê-díp-tô, sai mọi con trai mình đến đó, trừ Bên-gia-min, c.1–5. Họ cúi mình trước mặt Giô-sép, người biết họ, nhưng họ không biết ông; ông đối xử với họ một cách thô lỗ, c.6–8. Ông nhớ lại những giấc mơ của mình; buộc tội họ là gián điệp, c.9–12. Để minh oan cho mình, họ tuyên bố rằng họ đều là con trai của một người cha, và có một em trai út ở nhà, c.13. Giô-sép giam họ, nhưng thả mọi người trừ Si-mê-ôn, và sai những người còn lại đi đem em họ đến, để chứng minh lời họ là thật, c.14–20. Lương tâm họ thức tỉnh, buộc tội họ về tội lỗi của họ chống lại Giô-sép; họ buộc tội lẫn nhau, c.21, 22. Giô-sép nghe họ; khóc; bắt Si-mê-ôn, c.23, 24. Giô-sép ra lệnh đổ đầy bao của họ bằng lúa gạo, và trả lại tiền của họ, c.25, 26. Trên đường, một người thấy tiền mình trong bao; họ càng sợ hãi hơn, c.27, 28. Ở nhà, họ thuật lại cho Gia-cốp những gì đã xảy ra với họ, để thuyết phục Gia-cốp cho Bên-gia-min đi, c.29–35. Ông than phiền; Ru-bên cam kết cho ông; ông không thể đồng ý cho ông đi, c.36–38.
@@ -4594,8 +4510,6 @@ Chú thích: [Ru-bên nói cùng cha mình rằng: Hãy giết hai con trai tôi
 
 Chú thích: [Con trai tôi sẽ không xuống cùng các ngươi; vì anh nó đã chết, nó còn lại một mình:] tức là, của mẹ nó, Ra-chên yêu dấu của tôi.
 
----
-
 CHƯƠNG XLIII.
 
 Nạn đói tiếp tục, lương thực của họ đã hết, Gia-cốp truyền họ đi Ê-díp-tô nữa, c.1, 2. Họ thuyết phục cha mình sai Bên-gia-min đi; Giu-đa [bảo lãnh] cho ông, c.3–10. Ông cho họ quà tặng, tiền gấp đôi, và phước lành của mình, c.11–14. Họ đi đến Ê-díp-tô; đứng trước mặt Giô-sép, c.15. Ông thấy Bên-gia-min cùng họ, khiến họ được đem đến nhà mình, và tiếp đãi, c.16, 17. Vì vậy, họ sợ hãi, và xin lỗi với người quản gia về tiền của họ, c.18–22. Ông bảo họ yên tâm, đối xử tử tế với họ, đem Si-mê-ôn đến cùng họ, c.23, 24. Họ chuẩn bị đem quà tặng của họ đến cho Giô-sép; người nói chuyện tử tế với họ (và hỏi về cha họ), đặc biệt với Bên-gia-min, người mà ông xúc động đến nỗi phải lui ra khóc, c.25–30. Ông đãi tiệc họ, nhưng Bên-gia-min một cách đặc biệt, c.31–34.
@@ -4706,8 +4620,6 @@ Chú thích: [Họ ngồi trước mặt ông, người đầu lòng theo quyề
 
 Chú thích: [Ông lấy, gửi các phần ăn cho họ từ trước mặt mình; nhưng phần ăn của Bên-gia-min gấp năm lần phần ăn của bất kỳ ai trong họ; họ uống, vui vẻ cùng ông:] đó là phong tục cổ xưa của Ê-díp-tô, và các xứ khác trong các bữa tiệc của họ, rằng hoặc mọi thịt, hoặc ít nhất một số phần và mảnh nổi bật của nó, không được đặt một cách lẫn lộn trước mọi khách, mà được phân phối một cách đặc biệt bởi chủ bữa tiệc, cho từng khách, và khác nhau, theo sự tôn kính và tình cảm [dành cho] họ, hay theo [địa vị] riêng của họ. Xem 1 Sa-mu-ên 1:5, và 9:22, 23, 24. [Phần ăn của Bên-gia-min gấp năm lần phần ăn của bất kỳ ai trong họ:] một phần vì mối quan hệ gần gũi hơn, và tình cảm yêu dấu hơn đối với ông, [và một phần] để quan sát xem điều này có gây ra sự ghen tị ấy nơi họ [như trước đây đối với Giô-sép] hay không. [Không đọc được trong bản scan] [để] ông có thể [biết] và [đề phòng] cho sự an toàn của ông. [Họ uống, vui vẻ cùng ông:] từ Hê-bơ-rơ thường có nghĩa là say, nhưng nhiều lần, nó chỉ là uống một cách hào phóng, mặc dù không đến mức say, như có thể thấy từ Nhã Ca 5:1; A-ghê 1:6; Giăng 2:10.
 
----
-
 CHƯƠNG XLIV.
 
 Giô-sép truyền quản gia mình đổ đầy bao của họ; trả lại tiền của mỗi người, và đặt chén bạc của mình vào bao của Bên-gia-min; sai họ đi, c.1–3. Nhờ đó, mưu tính đem họ trở lại nữa; họ bị đuổi theo, và bị buộc tội trộm cắp, c.4–6. Vì vậy, vô cùng bối rối, họ một cách ngu dốt khiến mình phải chịu hình phạt, c.7–10. Chén được tìm thấy trong bao của Bên-gia-min; họ trở lại cùng Giô-sép, phục tùng sự xét xử của ông, c.10–14. Giô-sép giả vờ có ân tứ tiên tri, c.15. Giu-đa nói nhiều và tha thiết thay cho Bên-gia-min, đề nghị ở lại thay cho ông, c.16–34.
@@ -4814,8 +4726,6 @@ Chú thích: [Bây giờ, vậy, tôi xin ngài, hãy để đầy tớ ngài �
 
 34 Vì làm sao tôi sẽ lên cùng cha tôi, cậu bé không ở cùng tôi, e rằng tôi thấy điều ác sẽ đến trên cha tôi?
 
----
-
 CHƯƠNG XLV.
 
 Giô-sép không còn có thể kiềm chế mình, tỏ mình cho các anh em mình, và khóc, c.1, 2. [Ông nói với họ về] cha mình; họ bối rối trước sự hiện diện của ông, c.3. Ông cấm họ buồn rầu vì tội lỗi của mình, và an ủi họ bằng ý định và sự quan phòng nhân từ của Đức Chúa Trời trong đó, c.4–8. Ông vội vàng sai họ đi và cho cha mình biết, và đem ông đến Ê-díp-tô; sứ điệp của ông cho cha mình, c.9–13. Lòng tử tế của ông đối với Bên-gia-min và các anh em mình, c.14, 15. Pha-ra-ôn vui mừng, mời họ xuống, c.16–20. Giô-sép tiễn họ đi với quà tặng và vật tặng cho cha mình; khuyên họ chớ cãi nhau trên đường, c.21–24. Về nhà, họ thuật lại mọi việc cho cha mình, người cuối cùng tin họ, vui mừng rằng ông sẽ thấy con trai mình trước khi chết, c.25–28.
@@ -4913,8 +4823,6 @@ Chú thích: [Họ lên khỏi Ê-díp-tô, đến xứ Ca-na-an cùng Gia-cốp
 28 Y-sơ-ra-ên nói rằng: Đủ rồi; Giô-sép, con trai tôi, còn sống; tôi sẽ đi và thấy nó trước khi tôi chết.
 
 Chú thích: [Y-sơ-ra-ên nói rằng: Đủ rồi; Giô-sép, con trai tôi, còn sống; tôi sẽ đi và thấy nó trước khi tôi chết:] tôi không mong muốn điều gì hơn, không có hạnh phúc lớn hơn trong thế gian này, hơn là thấy nó. Khi tôi đã làm điều ấy, tôi sẵn sàng chết.
-
----
 
 CHƯƠNG XLVI.
 
@@ -5023,8 +4931,6 @@ Chú thích: [Y-sơ-ra-ên nói cùng Giô-sép rằng: Bây giờ, hãy để t
 34 Các ngươi sẽ nói rằng: Nghề của các đầy tớ ngài là về gia súc từ thời trẻ chúng tôi, cho đến nay, cả chúng tôi, và cha chúng tôi nữa; để các ngươi có thể ở trong xứ Gô-sen; vì mọi người chăn chiên là một sự ghê tởm đối với người Ê-díp-tô.
 
 Chú thích: [Các ngươi sẽ nói rằng: Nghề của các đầy tớ ngài là về gia súc từ thời trẻ chúng tôi, cho đến nay, cả chúng tôi, và cha chúng tôi nữa; để các ngươi có thể ở trong xứ Gô-sen; vì mọi người chăn chiên là một sự ghê tởm đối với người Ê-díp-tô:] trong ý định và lựa chọn này, Giô-sép cho thấy cả sự khôn ngoan lẫn lòng tin kính của mình. Ông không đem họ đến triều đình, nơi ông dễ dàng đặt tất cả họ vào những nơi và chức vụ tốt nhất của triều đình; và như ông không xấu hổ khi thừa nhận mình là anh em với [những người chăn chiên], những người đáng khinh miệt giữa người Ê-díp-tô, vì vậy, ông [không] thúc đẩy họ cao hơn, mà tiếp tục họ trong công việc của họ, 1. Ông giữ họ [không đọc được trong bản scan] cùng nhau, điều [không đọc được trong bản scan] [bảo vệ] họ cả khỏi sự ghen tị, lẫn [không đọc được trong bản scan]. 2. Ông [không đọc được trong bản scan] [để] họ [không đọc được trong bản scan]. [Không đọc được trong bản scan].
-
----
 
 CHƯƠNG XLVII.
 
@@ -5138,8 +5044,6 @@ Chú thích: [Nhưng tôi sẽ nằm cùng cha tôi, ngươi sẽ đem tôi ra k
 
 Chú thích: [Ông nói rằng: Hãy thề cùng tôi; ông thề cùng ông; Y-sơ-ra-ên cúi mình trên đầu giường:] [không đọc được trong bản scan] [ông cúi mình] nhiều như ông có thể bằng cách cúi mình, [không đọc được trong bản scan] không thể làm điều ấy nhiều như ông muốn, vì không thể [đứng dậy] khỏi giường. Những người khác đọc "gậy" thay cho "giường", cuộc thảo luận về điều ấy tôi dành cho chỗ thích hợp của nó, Hê-bơ-rơ 11:21.
 
----
-
 CHƯƠNG XLVIII.
 
 Giô-sép đem hai con trai mình đến cùng cha mình đang đau yếu, để nhận phước lành của ông, c.1, 2. Gia-cốp nhắc lại lời hứa của Đức Chúa Trời, nhận Ép-ra-im và Ma-na-se làm con mình, c.3–6. Ông nhắc đến sự chết của Ra-chên, c.7. Ông chúc phước cho các con trai của Giô-sép, đặt tay phải mình trên Ép-ra-im, người trẻ hơn, c.8–16. Giô-sép can thiệp để dời tay của cha mình, c.17, 18. Ông tuyên bố sự ưu việt của người trẻ hơn, c.19. Ông chúc phước cho họ, c.20. Ông tiên báo về sự trở về Ca-na-an của họ, c.21. Ông ban cho Giô-sép một mảnh đất riêng, c.22.
@@ -5217,8 +5121,6 @@ Chú thích: [Y-sơ-ra-ên nói cùng Giô-sép rằng: Nầy, tôi chết; như
 22 Hơn nữa, tôi đã ban cho ngươi một phần hơn các anh em ngươi, mà tôi đã lấy khỏi tay người A-mô-rít bằng gươm và cung của tôi.
 
 Chú thích: [Hơn nữa, tôi đã ban cho ngươi một phần hơn các anh em ngươi, mà tôi đã lấy khỏi tay người A-mô-rít bằng gươm và cung của tôi:] [như một] chứng về tình cảm và nghĩa vụ của ông đối với ông; [rằng] ông đã trao cho ông quyền [trưởng nam] [không đọc được trong bản scan]. [Một phần:] từ này quả thật có nghĩa là một cái vai, như [một] phần đất được chọn và [nổi bật], [không đọc được trong bản scan] Si-chem, như có thể thấy rõ hơn bởi [không đọc được trong bản scan]. Đúng vậy, [những người] giống [không đọc được trong bản scan] có Si-chem [không đọc được trong bản scan] nơi, điều có thể xảy ra nếu [điều ấy] được hiểu, hoặc, [về] xứ của người A-mô-rít hay người Ca-na-an, mà ông ở đây quy cho chính mình, và nói về [nó] [như] thời [hiện tại], như một việc đã làm, như phong tục của [các tiên tri]. Nhưng Gia-cốp sẽ không quy cho gươm của mình [điều mà ông] [không đọc được trong bản scan] gươm của họ, Thi Thiên 44:4 [?]. [Không đọc được trong bản scan] rằng Gia-cốp ở đây [nói về] điều [thuộc về] ông [không đọc được trong bản scan] một cách đặc biệt, ông đã ban cho [Giô-sép]. Hoặc, 2. Về thành và lãnh thổ Si-chem, mà cư dân của nó đã bị Si-mê-ôn và Lê-vi tận diệt, và đất của nó bị bỏ trống [không đọc được trong bản scan]. Và điều này được nói là có được bởi gươm và cung của Gia-cốp [cùng với] gươm và cung của các con trai ông là Si-mê-ôn và Lê-vi, và một số lượng lớn gia đình ông, những người chắc chắn đã liên kết với họ trong cuộc viễn chinh này. Nhưng không có khả năng ông sẽ lấy cho mình điều mà ông tuyên bố sự ghê tởm hoàn toàn của mình, Sáng Thế Ký 34:30 và 49:5, 6, hay ông sẽ gọi đó là gươm và cung của mình ở đây, điều mà ông gọi là công cụ tàn nhẫn trong tay Si-mê-ôn và Lê-vi, Sáng Thế Ký 49:5. Hoặc, 3. Điều dường như đúng nhất, [về] phần đất ấy trong lãnh thổ Si-chem, mà Gia-cốp đã mua của Ha-mô, Sáng Thế Ký 33:19, được nói là có được bởi gươm và cung của ông, hoặc 1. Theo đúng nghĩa đen, vì ông đã bằng sức mạnh vũ khí đuổi những người A-mô-rít ấy, những người khi ông rút lui khỏi những nơi ấy, sau vụ thảm sát người Si-chem, đã xâm chiếm đất của ông, mặc dù câu chuyện này [không đọc được trong bản scan] được nhắc đến bởi [không đọc được trong bản scan] trong Kinh Thánh, [không đọc được trong bản scan] [vì] hoàn cảnh của chúng, hoặc chúng đã bị [Đức Chúa Trời] cai trị, Đấng mà Gia-cốp tin cậy, và về Đấng mà ông có kinh nghiệm dồi dào. Hoặc, 2. Theo nghĩa bóng, tức là, bằng tiền của ông, mà ông gọi là gươm và cung của mình, không chỉ vì tiền đáp ứng được gươm và cung, và mọi thứ khác, Truyền Đạo 10:19, và là một sự phòng thủ, Truyền Đạo 7:12, và vì vậy, có thể được gọi như vậy, ngay cả khi lời cầu nguyện và nước mắt được gọi là vũ khí của Hội Thánh, vì chúng phục vụ cho cùng mục đích mà vũ khí làm chống lại kẻ thù của họ; mà còn và chủ yếu [không đọc được trong bản scan] gươm và cung của [Si-mê-ôn và Lê-vi] tàn nhẫn của ông. Vì vậy, ý nghĩa có thể là như sau: tôi đã ban cho ngươi một phần, hay một Si-chem, không phải thành Si-chem, mà Si-mê-ôn và Lê-vi đã lấy khỏi tay người A-mô-rít bằng gươm và cung của họ, mà một phần của lãnh thổ Si-chem mà tôi đã lấy, hay nhận từ tay người A-mô-rít bằng gươm và cung của tôi, tức là, bằng tiền của tôi, nhờ đó, tôi đã mua nó.
-
----
 
 CHƯƠNG XLIX.
 
@@ -5350,8 +5252,6 @@ Chú thích: [Trong hang ở trong đồng Mác-bê-la, trước Mam-rê, trong 
 
 Chú thích: [Khi Gia-cốp đã dặn xong các con trai mình, ông co chân mình lên giường, trút linh hồn, được thâu về cùng dân sự mình:] tức là, về nơi chôn cất của ông. Trong khi ông đang [nói] về công việc của mình [không đọc được trong bản scan].
 
----
-
 CHƯƠNG L.
 
 Giô-sép than khóc sự chết của cha mình; ướp xác ông, c.1, 2. Người Ê-díp-tô than khóc ông bảy mươi ngày, c.3. Giô-sép xin phép, đem ông đến Ca-na-an, c.4–6. Ông đi cùng một đoàn lớn, than khóc tại A-tát, c.7–11. Các con trai ông chôn ông theo lệnh ông, c.12–14. Các anh em ông sợ hãi, xin tha thứ, c.15–18. Giô-sép an ủi họ, c.19–21. Ông sống đến khi thấy cháu chắt mình; ông chết, dặn họ về xương mình, c.22–26.
@@ -5447,3 +5347,9 @@ Chú thích: [Giô-sép thấy con cái của Ép-ra-im đến đời thứ ba; 
 26 Giô-sép chết, một trăm mười tuổi; họ ướp xác ông, đặt ông trong một quan tài tại Ê-díp-tô.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

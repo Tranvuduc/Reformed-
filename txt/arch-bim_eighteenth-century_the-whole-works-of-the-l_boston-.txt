@@ -1,10 +1,18 @@
 TOÀN TẬP TÁC PHẨM CỦA THOMAS BOSTON (1773) — GIAO ƯỚC ÂN ĐIỂN, BẢN GHI NHỚ VỀ ĂN CHAY, THÔNG CÔNG HỘI THÁNH VÀ CÁC BÀI GIẢNG THEO DỊP
 
-Thomas Boston · The Whole Works of Thomas Boston (1773): A View of the Covenant of Grace, Memorial Concerning Fasting, Church Communion, and Occasional Sermons
+Thomas Boston · The Whole Works of Thomas Boston (1773): A View of the Covenant of Grace, Memorial Concerning Fasting, Church Communion, and Occasional Sermons Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 57 giờ 15 phút · 601.539 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 TOÀN TẬP TÁC PHẨM CỦA THOMAS BOSTON (1773) — GIAO ƯỚC ÂN ĐIỂN, BẢN GHI NHỚ VỀ ĂN CHAY, THÔNG CÔNG HỘI THÁNH VÀ CÁC BÀI GIẢNG THEO DỊP Thomas Boston (1676–1732) Nguyên tác: The Whole Works of Thomas Boston (1773): A View of the Covenant of Grace, Memorial Concerning Fasting, Church Communion, and Occasional Sermons Nguồn: Archive.org (bản quét)
 
@@ -9307,3 +9315,9 @@ GHI CHÚ HIỆU ĐÍNH — CÁC KHÔI PHỤC KHÔNG CÓ CỜ TẠI CHỖ (xin hi
 GHI CHÚ CỦA DỊCH GIẢ — PHẠM VI VÀ CÁC PHẦN LƯỢC BỎ: - Bản dịch gồm phần mới của bộ Whole Works 1773 của Thomas Boston, dòng nguồn 41715–208652: Cách nhìn về Giao ước Ân điển (View of the Covenant of Grace) + Bản ghi nhớ về việc kiêng ăn (Memorial Concerning Fasting) + khối giữa (thông công Hội Thánh, báp-têm và các bài tiếp theo) + 16 nhóm bài giảng theo dịp (Galashiels, Ettrick 1725–1731, Maxton, Morbottle). - Đã lược bỏ và không dịch: Human Nature — Bốn Trạng Thái (dòng nguồn 1–41686), vì đã dịch đầy đủ tại M94; The Crook in the Lot (dòng nguồn 66134–76360), vì đã dịch đầy đủ tại AI-2/322 ("NÉT CONG TRONG PHẬN ĐỜI", 58.982 chữ, 84 cờ) — trong file này chỉ giữ câu bản văn Truyền Đạo 7:13 làm mốc ranh giới; phần Crook đã bỏ gồm chunks 015–018, phần sau trang tựa Crook trong chunk 014 và phần cuối Crook trong chunk 019. - Bản quét CỤT giữa chừng: bài giảng cuối cùng kết thúc đột ngột ở Khải Huyền 3:2 (dòng nguồn 208652), không có đoạn kết hay colophon — dịch đến chỗ cụt, không bổ sung từ nguồn khác. - Chunks 003 và 007 được dựng lại từ mảnh rời (chunk 003 chỉ 51/1.989 dòng sạch; chunk 007 chỉ 16/2.354 dòng sạch); cuối bài giảng Ê-sai 9:6 bị mất trong chỗ nát ở ranh giới chunk 044→045, không bịa cầu nối. - Các cờ dài dòng: chunk 023, 026, 031 (chunk 031: 218 cờ, 9.478 từ trong cờ, thân ngoài cờ 8.607 chữ); chunks 055 (485 cờ), 056 (331 cờ), 058 (306 cờ), 085 (201 cờ) OCR cực nát — xin hiệu đính viên đối chiếu lại với bản quét gốc, đặc biệt các đoạn về Giao Ước Quốc Gia và quyền quan trưởng trong chunk 085. - Mối nối khi ráp: 006→007 — câu về sự chết trên thập tự giá (Lu-ca 23:43, 23:46) xuất hiện ở cả hai phía, mỗi phía kèm câu trích khác nhau (Lu-ca 23:46 + 23:43 ở 006; Thi Thiên 31:5 ở 007), cả hai đã có cờ — giữ nguyên cả hai, không gộp; 011→012 — khoảng trống do OCR nát giữa điểm 7 và điểm 11, cả hai phía đã có cờ — giữ nguyên, không bịa nối; 014→015 và 019 — ranh giới Crook đã bỏ (xem trên); 049→050 — điểm 6 (bữa tiệc, Ê-sai 25:6) gộp dưới MỘT tiêu đề "6.", đã bỏ dòng tiêu đề "6." lặp lại ở đầu chunk 050; 043→044 và 048→049 liền mạch, giữ nguyên. - Các đoạn lặp trong nguồn được giữ nguyên như bản in: Ha-ba-cúc 3:17–18 trích 4 lần và Nhã Ca 4:8 trích 2 lần trong chunk 060 (nguồn có 4 lần nhắc Ha-ba-cúc và 3 lần nhắc Nhã Ca ở các đoạn khác nhau), không phải trùng lặp do OCR. - Số thứ tự lời khuyên trong chunk 057 bị đảo do hai cột xen kẽ — giữ đúng thứ tự file, không sắp lại. - Năm "1748" (G10) và "1798" (G14) là lỗi OCR (Boston mất năm 1732), không giữ nguyên; G11 có thể là Distinguishing Characters nhưng chưa đủ chứng cứ nên không khẳng định. - "Earnest" được thống nhất thành "của cầm" trong toàn bộ file (văn phong 1934). - Trong thân bản (không tính các ghi chú này), từ "Tin Lành" xuất hiện 9 lần: 6 lần chỉ ngữ cảnh Tin Lành (Protestantism — "các nhà thần học Tin Lành", "các Hội Thánh Tin Lành"; trong đó 1 lần nằm trong một cờ trích lại câu của chính nó ở chunk 026) và 3 lần trong trích dẫn nguyên văn 1934 (Ga-la-ti 3:8, Mác 16:15, Rô-ma 1:9); từ "tin lành" viết thường xuất hiện 6 lần, đều mang nghĩa "tin tốt lành" chung hoặc trong trích dẫn nguyên văn 1934 (Lu-ca 2:10 ×2, Châm Ngôn 25:25, 1 Ti-mô-thê 1:15, Ê-sai 61:1), không lần nào dùng để dịch "gospel"; từ "Thiên Chúa giáo" xuất hiện 2 lần, cả hai đều chỉ Công giáo La Mã.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

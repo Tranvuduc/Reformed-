@@ -1,10 +1,18 @@
 BÌNH GIẢI SÁCH THI THIÊN, KÈM NHẬN XÉT VÀ QUAN SÁT THỰC TIỄN (BELL & DALDY, 1866)
 
-Matthew Henry · An Exposition of the Book of Psalms, with Practical Remarks and Observations (Bell & Daldy, London, 1866)
+Matthew Henry · An Exposition of the Book of Psalms, with Practical Remarks and Observations (Bell & Daldy, London, 1866) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 77 giờ 10 phút · 810.425 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 BÌNH GIẢI SÁCH THI THIÊN, KÈM NHẬN XÉT VÀ QUAN SÁT THỰC TIỄN (BELL & DALDY, 1866) Matthew Henry (1662–1714) Nguyên tác: An Exposition of the Book of Psalms, with Practical Remarks and Observations (Bell & Daldy, London, 1866) Nguồn: Archive.org (bản quét)
 
@@ -16155,3 +16163,9 @@ Ba quyển đầu tiên trong năm quyển thi thiên (theo sự phân chia củ
 Ghi chú của người dịch (phạm vi và các điểm lưu ý): - Ấn bản nguồn: Matthew Henry, An exposition of the book of Psalms, with practical remarks and observations, Bell & Daldy, London, 1866 (bản in lại không rút gọn, có minh họa; in bởi William Clowes and Sons). Bản dịch gồm lời giới thiệu (INTRODUCTION) và toàn bộ bình giải Thi Thiên I–CL. Kết sách trọn vẹn: đoạn cuối suy ngẫm rằng ba quyển thi thiên đầu kết bằng "A-men, và A-men", quyển thứ tư bằng "A-men, Ha-lê-lu-gia", quyển cuối — và toàn bộ sách Thi Thiên — kết chỉ bằng "Ha-lê-lu-gia". - Phần lược bỏ (không phải tác phẩm của Henry, không dịch): đầu bản quét (dòng 1–74: chú thích tranh khắc, trang tựa đầu bị vỡ, mảnh in ấn — thông tin ấn bản đã ghi ở đây); cuối bản quét (từ dòng 56326: chú thích tranh, mục lục quảng cáo của nhà xuất bản George Bell and Sons, dấu khử axit tháng 6/2005). Khi tách sạch, 315 khối chỉ gồm ký tự/số rời rạc và khối dưới 4 chữ cái đã lược; tiêu đề chạy trang được giữ nguyên như in theo chính sách thận trọng (OCR của bản này không phân biệt chắc chắn tiêu đề chạy trang với tiêu đề mục). - Tiêu đề chạy trang: giữ nguyên như in; chỗ OCR làm hỏng số La Mã, người dịch chuẩn hóa theo thứ tự Thi Thiên đang bình giải (ghi trong TRACKING.txt của cuốn); một số ít giữ nguyên mặt chữ kèm cờ xem lại (ví dụ tiêu đề "CXLY1" ở đoạn gần cuối phần Thi Thiên 145, chưa xác định chắc là CXLV hay CXLVI; tiêu đề "832 PSALM LUX."; số trang "m" mờ ở tiêu đề Thi Thiên LXXXIV). - Tham chiếu và số câu: nguyên tắc là giữ nguyên như in; những chỗ giữ nguyên dù bản hiện đại đọc khác đều ghi trong TRACKING.txt (ví dụ "1 Sử Ký 29:4", "Ma-thi-ơ 26:46", "1 Sa-mu-ên 7:31", "Ma-thi-ơ 7:33", "Ê-sai 56:7,8", "Thi Thiên 143:14", "Hê-bơ-rơ 13:11", "Giê-rê-mi 24:11", "Lu-ca 2:4" và "Lu-ca 19:3"); những chỗ dịch theo trình tự hoặc nội dung câu trích cũng ghi rõ (ví dụ "Thi Thiên 2:1" thay cho "li. 1" bị OCR hỏng, "Ê-sai 55:10", "Ê-sai 42:1", "Thi Thiên 37:24", "Dân Số Ký 14:17–19", "Thi Thiên 106:39" ở chỗ in "câu 33"). "Thiên Đàng" dùng để dịch "Heaven" (thiên đàng), không phải từ bị cấm. - Số cờ xem lại trong thân bản: 120 (đều là chỗ OCR hỏng không khôi phục chắc chắn được, đã cờ tại chỗ, không đoán mò). Từ chỉ cộng đồng Protestant: 0 lần trong thân bản (đếm trên thân bản đã ráp, không tính ghi chú này).
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

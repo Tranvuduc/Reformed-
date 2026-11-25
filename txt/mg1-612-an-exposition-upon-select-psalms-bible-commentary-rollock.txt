@@ -1,8 +1,12 @@
 MỘT BÀI GIẢI NGHĨA CÁC THI THIÊN ĐƯỢC CHỌN
 
-Robert Rollock · An Exposition Upon Select Psalms
+Robert Rollock · An Exposition Upon Select Psalms Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 11 giờ 25 phút · 119.609 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (MG-3) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -1481,3 +1485,9 @@ Rồi tôi nghe một tiếng từ trời, phán với tôi rằng, Hãy viết,
 HẾT. LƯU Ý CỦA NGƯỜI DỊCH: Bản dịch từ bản EPUB trên trang Monergism trong danh sách; văn bản được dịch như được cung cấp, gồm mười lăm bài giảng về các Thi Thiên 3, 6, 16, 23, 32, 39, 42, 49, 51, 62, 65, 84, 116, 130, 137, theo thứ tự, kết thúc bằng khối "HẾT.". Số câu trong các bài giảng giữ nguyên như in: tác giả tính cả dòng tựa đề của thi thiên vào số câu, nên số câu của ông thường lệch một hoặc hai so với cách đánh số hiện đại; các trích dẫn sai số câu hoặc sai tên sách cũng được giữ nguyên như in, không sửa theo Kinh Thánh hiện đại. Sáu đoạn được giữ nguyên kèm dấu lưu ý vì bản nguồn bị hỏng hoặc khó hiểu tại chỗ: một từ bị hỏng trong bài giảng I, một cụm khó hiểu về lương tâm trong bài giảng V, một cụm vô nghĩa trong câu Thi Thiên 49, một từ không rõ trong cụm đá và vật gì đó trong bài giảng X, một mảnh bị hỏng trong phần mở đầu của Thi Thiên 116, và một hình ảnh tường khó hiểu trong bài giảng XIV.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

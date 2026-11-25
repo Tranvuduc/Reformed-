@@ -1,10 +1,18 @@
 TOÀN TẬP TÁC PHẨM CỦA THOMAS BOSTON (1767) — PHẦN MỚI: HAI BÀI GIẢNG THI THIÊN 77:19, CÁC BÀI GIẢNG LU-CA 13:3, 5, VÀ TỦY CỦA THẦN HỌC HIỆN ĐẠI KÈM GHI CHÚ CỦA BOSTON
 
-Thomas Boston · The Whole Works of Thomas Boston (1767): Two Sermons on Psalm 77:19, Sermons on Luke 13:3, 5, and The Marrow of Modern Divinity with Boston's Notes
+Thomas Boston · The Whole Works of Thomas Boston (1767): Two Sermons on Psalm 77:19, Sermons on Luke 13:3, 5, and The Marrow of Modern Divinity with Boston's Notes Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 16 giờ 30 phút · 173.528 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 TOÀN TẬP TÁC PHẨM CỦA THOMAS BOSTON (1767) — PHẦN MỚI: HAI BÀI GIẢNG THI THIÊN 77:19, CÁC BÀI GIẢNG LU-CA 13:3, 5, VÀ TỦY CỦA THẦN HỌC HIỆN ĐẠI KÈM GHI CHÚ CỦA BOSTON Thomas Boston (1676–1732) Nguyên tác: The Whole Works of Thomas Boston (1767): Two Sermons on Psalm 77:19, Sermons on Luke 13:3, 5, and The Marrow of Modern Divinity with Boston's Notes Nguồn: Archive.org (bản quét)
 
@@ -1787,3 +1795,9 @@ Evan. "Nguyện Đức Chúa Trời bình an, là Đấng đã đem lại từ t
 - Bản dịch từng phần: chỉ dịch phần MỚI của bản quét Whole Works 1767 so với bản dịch M261 (Whole Works 1773) và các bản dịch Boston khác: (a) Hai bài giảng Thi Thiên 77:19 (dòng nguồn 126599–128947); (b) Các bài giảng Lu-ca 13:3, 5 — nhóm này bắt đầu giữa chunk_005 (tựa ở dòng 9 của chunk_005, dòng nguồn khoảng 162900–167500); (c) Tủy của Thần Học Hiện Đại (Fisher) kèm ghi chú của Boston (dòng nguồn 211700–232712). Đã lược: Human Nature (M94), Giao Ước Ân Điển, Bản Ghi Nhớ Về Ăn Chay, Crook (AI-2/322), Thông Công, Giáo Lý, Miscellany, Ga-la-ti, các bài giảng theo dịp khác (M261), Espousals, Schism (thư viện); và các bài Khải Huyền 10:6–7 cùng ba bài 2 Cô-rinh-tô 5:7 tại Ettrick (dòng nguồn 160000–khoảng 162900, đã dịch đầy đủ ở M261 — chunk_003, chunk_004 và đầu chunk_005 dòng 1–8 không dịch lại). Nhãn manifest "Lu-ca 13:3,5" cho dòng 160000–162589 là sai. - Từ "Tin Lành" xuất hiện 11 lần trong thân bản (không tính lần tự nhắc trong ghi chú này), tất cả trong ngữ cảnh Tin Lành (Protestant) hoặc trích dẫn nguyên văn Kinh Thánh 1934 (013 ×1, 014 ×7, 015 ×3) — không lần nào dịch "gospel". "tin lành" viết thường xuất hiện 0 lần. "Thiên Chúa" xuất hiện 0 lần. - Cụm "sự xưng công bình" xuất hiện 0 lần trong thân bản; "xưng công bình" (không có "sự") xuất hiện 7 lần trong nội dung, tất cả trong trích dẫn nguyên văn Kinh Thánh 1934 (Thi 143:2; Ga-la-ti 2:16 ×3; Ga-la-ti 3:11; Ga-la-ti 5:4; Rô-ma 3:28) — ngoại lệ trích dẫn cho phép; cộng 1 lần tự nhắc trong một cờ hiệu đính ở out_018. "rửa tội" xuất hiện 1 lần, là "rửa tội lỗi" (Xa-cha-ri 13:1) — ngoại lệ cho phép. - Ghi chú hiệu đính viên (các thao tác khi ráp): + out_002: bỏ tựa bài giảng kế tiếp ở đuôi file (tiêu đề của nội dung ngoài phạm vi, không phải phần đã dịch). + out_003, out_004 và đầu out_005 (dòng 1–8): bỏ khỏi file ráp — đã dịch đầy đủ ở M261 (Khải Huyền 10:6–7 + ba bài 2 Cô-rinh-tô 5:7); các file chunk giữ nguyên trên đĩa làm bằng chứng. + out_016: nối đoạn Evan. (dòng 77) với out_016b dòng 1 thành một đoạn — bỏ cụm lặp "đó là sự gắn kết và khép kín, chẳng những của" và cờ mở đầu ở out_016b (chỉ là ghi chú nối đoạn); bỏ cờ "DỪNG DỊCH TẠI ĐÂY" cuối out_016; các ghi chú (a)–(e) giữ nguyên vị trí sau đoạn đã nối. File out_016_gap.txt KHÔNG dùng: nội dung của nó (dòng nguồn 1064–1067) đã có trong out_016 dòng 77 — dùng nữa sẽ nhân đôi câu. + Các mối nối 016→017, 021→022, 022→023 KHÔNG nối thành một câu: hai phía đều có cờ và không tạo thành một câu kiểm chứng được từ bản in nát — giữ nguyên đoạn ngắt và cờ hai đầu. + Khôi phục Ga-la-ti 2:20 không cờ ở out_005 dòng 1 nằm trong phần đã loại (đầu chunk_005, đã dịch ở M261) nên không vào file này. + Cuối file: bản quét nát nặng ở khoảng 100 dòng cuối (dòng nguồn 232400–232712), không có "FINIS", không có lời kết sách hay colophon đọc được — không thể xác nhận Tủy có trọn vẹn đến cuối hay bị cụt giữa chừng; giữ nguyên đoạn cờ cuối file, không bịa kết thúc. + Các mối nối giữa các chunk còn lại đều đã đối chiếu đầu/đuôi với nguồn khi xác minh từng chunk; không có đoạn nào bị nhân đôi hay bỏ sót tại mối nối (trừ các thao tác loại/bỏ nêu trên).
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

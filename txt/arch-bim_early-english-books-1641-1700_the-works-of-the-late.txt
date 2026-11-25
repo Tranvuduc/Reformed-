@@ -1,10 +1,18 @@
 BÀI GIẢNG VỀ SỰ QUAN PHÒNG THIÊNG LIÊNG
 
-Stephen Charnock · A Discourse of Divine Providence (London, 1683; appended to Works, Vol. 1, 1684)
+Stephen Charnock · A Discourse of Divine Providence (London, 1683; appended to Works, Vol. 1, 1684) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 10 giờ 30 phút · 109.856 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 BÀI GIẢNG VỀ SỰ QUAN PHÒNG THIÊNG LIÊNG Stephen Charnock (1628–1680) Nguyên tác: A Discourse of Divine Providence (London, 1683; appended to Works, Vol. 1, 1684) Nguồn: Archive.org (bản quét)
 
@@ -2353,3 +2361,9 @@ nó từ Đức Chúa Trời. Hãy nhận lấy bằng chứng về nó, và gi�
 GHI CHÚ PHẠM VI VÀ NGUỒN: Bản dịch này chỉ gồm bài giảng về sự quan phòng thiêng liêng của Stephen Charnock, văn bản 2 Sử Ký 16:9, theo ấn bản "A Treatise of Divine Providence" (Lô-đôn, Thomas Cockerill, 1683) được phụ thêm vào Works Vol. 1 (1684). Phạm vi dịch là dòng 71162–79738 của bản quét archive.org (từ tựa hiển thị "DISCOURSE OF Divine Providence" đến câu kết "...giữ gìn nó;"). Các phần sau của cùng tập sách KHÔNG dịch lại hoặc KHÔNG dịch, vì các lý do ghi rõ sau đây: (1) Toàn bộ phần đầu của tập sách — lời tựa "To the Reader" và 12 bài giảng về sự hiện hữu và các thuộc tính của Đức Chúa Trời (Hiện Hữu và Chủ Nghĩa Vô Thần Thực Hành, Thi Thiên 14:1; Đức Chúa Trời Là Thần Linh và Sự Thờ Phượng Thuộc Linh, Giăng 4:24; Sự Đời Đời, Thi Thiên 90:2; Sự Bất Biến, Thi Thiên 102:26–27; Sự Hiện Diện Khắp Nơi, Giê-rê-mi 23:24; Tri Thức Vô Hạn, Thi Thiên 147:5; Sự Khôn Ngoan Vô Hạn, Rô-ma 16:27; Quyền Năng Vô Hạn, Gióp 26:14; Sự Thánh Khiết Vô Hạn, Xuất Ê-díp-tô Ký 15:11; Sự Nhân Từ Vô Hạn, Mác 10:18; Quyền Tể Trị, Thi Thiên 103:19; Sự Nhẫn Nhục Vô Hạn, Na-hum 1:3) — đã được dịch đầy đủ trong cùng đợt này ở mục M258, file arch-bim_early-english-books-1641-1700_several-discourses-up.txt (958.645 chữ / 2.620 NEEDS REVIEW). Bằng chứng trùng lặp đã kiểm chứng từng câu: lời tựa "long since promised, and greatly expected Volume" (dòng 87 của bản quét này = đoạn P0002 của M258); câu về quyền tể trị "The Psalmist considers God here as a great Monarch and General" (dòng 61126 = đoạn P8241 của M258); câu kết bài giảng về sự nhẫn nhục "more noble than to be a Monarch over others" (dòng 70865 = đoạn P9474 của M258); mục lục 12 bài giảng giống hệt nhau. (2) Trang tựa của luận văn quan phòng cùng "To the Reader" và tiểu sử ngắn về Charnock do Richard Adams và Edward Veel ký tên (tác giả khác, không phải Charnock) — lược bỏ theo quy tắc chỉ dịch tác phẩm thật. (3) ERRATA, mục lục Kinh Thánh ("A Table of Places of Scripture Explained"), mục lục chủ đề, FINIS và quảng cáo của nhà in sau FINIS — lược bỏ theo quy tắc lược bỏ bộ máy tra cứu và quảng cáo. Các quy ước khác: tiêu đề chạy trang được giữ nguyên như in thành dòng độc lập (theo cùng quy ước của M258); các đoạn bị ngắt trang trong bản quét được giữ đúng dạng mảnh vỡ theo marker nguồn, không gộp lại (ví dụ đoạn kết P1169–P1170 là một câu bị ngắt trang); các địa chỉ Kinh Thánh nghi do OCR sai đã được giữ nguyên như in kèm cờ kiểm tra tại chỗ (ví dụ P0247, P0311, P0932, P0954, P1065, P1085); riêng P0239, địa chỉ "2 Sử Ký 14:11" do dịch giả suy từ ngữ cảnh vì bản quét in "2 Chron. 41" không có nghĩa, đã được gắn cờ kiểm tra tại chỗ ở khâu ráp nối. Thân bản không chứa từ cấm nào; số lần từ chỉ hệ phái Tin Lành trong thân bản: 0.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

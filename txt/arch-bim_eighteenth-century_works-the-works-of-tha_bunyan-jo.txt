@@ -1,10 +1,18 @@
 CÁC TÁC PHẨM CỦA JOHN BUNYAN, TẬP I (ẤN BẢN 1736) — CÁC LUẬN VĂN CHƯA DỊCH
 
-John Bunyan · The Works of John Bunyan, Vol. 1 (1736 edition): Untranslated Treatises
+John Bunyan · The Works of John Bunyan, Vol. 1 (1736 edition): Untranslated Treatises Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 81 giờ 50 phút · 859.111 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CÁC TÁC PHẨM CỦA JOHN BUNYAN, TẬP I (ẤN BẢN 1736) — CÁC LUẬN VĂN CHƯA DỊCH John Bunyan (1628–1688) Nguyên tác: The Works of John Bunyan, Vol. 1 (1736 edition): Untranslated Treatises Nguồn: Archive.org (bản quét)
 
@@ -11829,3 +11837,9 @@ Những dòng này [NEEDS REVIEW: "fo bets thee to improve" — không chắc, c
 - Bản dịch từng phần: chỉ dịch 20 luận văn + 1 bài thơ mới trong Works Vol. I (ấn bản 1736). Đã lược bỏ và không dịch: (15) Christian Behaviour (đã dịch đầy đủ: thu-vien/807); (21) Instruction for the Ignorant (thu-vien/1000-283); (22) The Holy City (AI-2/343); (14) "A Map..." (sơ đồ gấp, bản quét chỉ còn mảnh rời rạc); phần đầu tập gồm lời tựa, Life and Death, Dying Sayings (tài liệu biên tập/tiểu sử). - M276 không phải bản quét lại của cuốn này mà là bộ Works 1767 nhiều tập (chứa toàn bộ Vol. I này + Pilgrim's Progress, Grace Abounding, Holy War, Mr. Badman...); ở lượt M276 chỉ dịch các mục chưa có bản dịch. - Từ "Tin Lành" xuất hiện 2 lần trong thân bản với tư cách bản dịch: Ê-phê-sô 4:11 (trích dẫn nguyên văn 1934, out_042) và "các vua Tin Lành" (out_052) — cả hai đều chỉ ngữ cảnh Tin Lành (Protestantism), không dịch "gospel"; cộng 1 lần trích lại cách dịch ấy trong chính cờ hiệu đính của đoạn "các vua Tin Lành". - Nguồn cụt: khoảng 80 dòng cuối của bản quét chỉ còn ký tự OCR nát không thành chữ, không có colophon — dịch đến chỗ còn đọc được, không bổ sung đoạn kết. - Ghi chú hiệu đính viên (các thao tác khi ráp, đều kèm cờ hiệu đính trong thân bản trừ khi ghi rõ): + Mối nối 061→062: đã sắp lại thứ tự đoạn theo mạch văn nguồn — nửa sau câu "Explication upon the Words" kèm Ma-thi-ơ 25 (đầu out_062) được đưa lên ngay sau nửa đầu câu (cuối out_061), trước khối "nói rõ ràng + Nô-ê"; cụm "Explication upon the Words" bị chẻ đôi qua ranh giới nên cả hai nửa đều được dịch, giữ nguyên cả hai. + Mối nối 075→076: câu hoàn tất trích dẫn Giăng 14:10 + Hê-bơ-rơ 2:4 đã được bổ sung khi ráp kèm cờ hiệu đính (worker 076 bỏ sót). + Mối nối 047→048: đoạn "Dân khôn ngoan ư? ... kẻ bắt bớ và giết hại người công chính" đã được bổ sung khi ráp kèm cờ hiệu đính (bị mất trong chỗ xen cột giữa hai chunk). + Mối nối 064→065: đầu câu "Đó là, Đức Chúa Trời thấy rằng chúng ta sẽ phạm tội," đã được bổ sung khi ráp kèm cờ hiệu đính. + Mối nối 066→067: chữ nối "Và Đấng ấy" đầu câu đã được bổ sung khi ráp kèm cờ hiệu đính. + Mối nối 017→018: "cùng với phần còn lại của Thánh Linh đó" đã sửa thành "cùng với những người còn lại có cùng tâm thần đó" khi ráp kèm cờ hiệu đính ("that Spirit" chỉ tâm thần khao khát vinh hiển, như Môi-se, Phao-lô). + Mối nối 030→031: đã xóa mảnh trùng lặp "là dấu hiệu của" ở cuối out_030 (cụm này cũng mở đầu out_031). + Mối nối 067→068: các dấu hiệu 3–4 trong danh sách Ma-thi-ơ 24 đã mất trong bản quét, đầu 068 mở bằng mảnh "của thế gian" — giữ nguyên, đã cờ. + Mối nối 022→023, 038→039, 043→044, 080→081, 082→083, 084→085, 085→086: hai phía đều đã cờ, giữ nguyên. + Ưu tiên hiệu đính: out_009 (114 cờ), out_064 (117 cờ), out_041 (80 cờ), out_078 (95 cờ), out_077 (93 cờ), out_018 (72 cờ), out_028 (64 cờ), out_045 (65 cờ), out_062 (68 cờ), out_055 (46 cờ). - "Earnest" thống nhất thành "của cầm" trong toàn bộ file (văn phong 1934).
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

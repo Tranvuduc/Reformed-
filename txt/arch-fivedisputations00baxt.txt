@@ -1,8 +1,14 @@
 NĂM CUỘC TRANH LUẬN VỀ CHÍNH QUYỀN HỘI THÁNH VÀ SỰ THỜ PHƯỢNG: I. LIỆU VIỆC KHÔI PHỤC LẠI CHẾ ĐỘ GIÁM MỤC BỊ TRỤC XUẤT CÓ CẦN THIẾT HAY ÍCH LỢI CHO TRẬT TỰ VÀ HÒA BÌNH ĐÚNG ĐẮN CỦA CÁC HỘI THÁNH TẠI ANH HAY KHÔNG; II. NHỮNG NGƯỜI VÔ HIỆU HÓA CHỨC VỤ VÀ CÁC HỘI THÁNH HIỆN TẠI CỦA CHÚNG TA, LÀ NHỮNG HỘI THÁNH KHÔNG CÓ SỰ PHONG CHỨC THEO HÀNG GIÁM MỤC, VÀ DẠY DÂN CHÚNG LÀM NHƯ VẬY, THÌ MẮC TỘI NẶNG NỀ; III. MỘT CHẾ ĐỘ GIÁM MỤC CÓ ĐÁNG MONG MUỐN CHO SỰ CẢI CHÁNH, SỰ BẢO TỒN VÀ SỰ HÒA BÌNH CỦA CÁC HỘI THÁNH HAY KHÔNG; IV. LIỆU MỘT PHỤNG VỤ HAY HÌNH THỨC THỜ PHƯỢNG ĐÃ ĐỊNH SẴN CÓ PHẢI LÀ PHƯƠNG TIỆN ĐÁNG MONG MUỐN CHO SỰ HÒA BÌNH CỦA CÁC HỘI THÁNH ẤY HAY KHÔNG; V. LIỆU CÁC NGHI LỄ DO CON NGƯỜI ĐẶT RA CÓ CẦN THIẾT HAY ÍCH LỢI CHO HỘI THÁNH HAY KHÔNG
 
-Richard Baxter · Five disputations of church-government, and worship
+Richard Baxter · Five disputations of church-government, and worship Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 29 giờ 50 phút · 313.307 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Nguồn: Xem bản gốc tại Internet Archive.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -6483,3 +6489,9 @@ Richard Baxter.
 GHI CHÚ CỦA NGƯỜI DỊCH: Dịch toàn văn từ bản quét OCR archive.org (ấn bản Luân Đôn 1659, in bởi R. W. cho Nevil Simmons). Bản này là tập hợp năm luận văn in riêng năm 1658–1659: Luận văn 1 về việc khôi phục chế độ giám mục bị trục xuất; Luận văn 2 bênh vực các Hội Thánh và mục sư Tin Lành không có sự phong chức theo hàng giám mục; Luận văn 3 về chế độ giám mục đáng mong muốn; Luận văn 4 về hình thức phụng vụ; Luận văn 5 về các nghi lễ do con người đặt ra; cùng lời tựa, thư dâng tặng Chúa Bảo Hộ Richard, mục lục, bảng đính chính, bài 'Advertisement to prevent misunderstanding', và lời bạt cá nhân của Baxter ở cuối sách. Đã lược bỏ: boilerplate của archive.org, tiêu đề chạy trang, số trang đứng riêng, ký hiệu in ấn và nhiễu scan (445 đoạn rác thuần túy đã loại ở khâu làm sạch, xem drops.log); các đoạn rác còn lại trong từng chunk được giữ marker nhưng bỏ trống và không đưa vào bản dịch cuối. Các câu bị ngắt trang được giữ nguyên thứ tự theo từng marker, nên một số đoạn đọc như mảnh câu nối tiếp nhau. Chỗ OCR không đọc được được đánh dấu cần xem lại tại chỗ, không đoán. Một chỗ đã sửa theo chính nguồn: luận đề I trên trang tựa bị OCR hỏng ('the extruded...') được xác định là 'chế độ giám mục bị trục xuất' theo mục lục Luận văn 1 trong cùng bản in ('that we restore the extruded Episcopacy'). Trích dẫn Kinh Thánh giữ văn phong 1934; địa chỉ tham chiếu đã Việt hóa.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

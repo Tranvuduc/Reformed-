@@ -1,10 +1,18 @@
 CÁC TÁC PHẨM CỦA JOHN BUNYAN, TẬP II (ẤN BẢN OFFOR) — CÁC LUẬN VĂN CHƯA DỊCH
 
-John Bunyan · The Works of John Bunyan, Vol. 2 (Offor edition): Untranslated Treatises
+John Bunyan · The Works of John Bunyan, Vol. 2 (Offor edition): Untranslated Treatises Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 15 giờ 55 phút · 167.141 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CÁC TÁC PHẨM CỦA JOHN BUNYAN, TẬP II (ẤN BẢN OFFOR) — CÁC LUẬN VĂN CHƯA DỊCH John Bunyan (1628–1688) Nguyên tác: The Works of John Bunyan, Vol. 2 (Offor edition): Untranslated Treatises Nguồn: Archive.org (bản quét)
 
@@ -2685,3 +2693,9 @@ Cuối cùng, nếu anh em là con cái của Đức Chúa Trời, hãy học b�
 - Bản dịch từng phần: chỉ dịch 6 tác phẩm mới trong Works Vol. II (ấn bản Offor): (1) Người Pha-ri-si và người thu thuế (Lu-ca 18); (2) Các câu hỏi về bản chất và tính trường tồn của ngày Sa-bát thứ bảy (và bằng chứng ngày thứ nhất trong tuần là ngày Sa-bát thật của Cơ Đốc nhân); (3) Các nguyên tắc hòa thuận và chân thật (đáp lời D'Anvers và Paul); (4) bài thơ Về tình yêu của Đấng Christ; (5) Một vụ việc lương tâm được giải quyết; (6) Bài giảng cuối cùng của ông Bunyan (Giăng 1:13, giảng ngày 19/8/1688). Đã lược bỏ và không dịch lại (đều đã có bản dịch đầy đủ): Saints' Knowledge, Antichrist, Resurrection, Gospel Truths, Vindication, Trinity + Law, Genesis Exposition, Caution to Stir Up to Watch Against Sin, House of God → M262; Defence of Justification (đáp Fowler) → AI-2/378 + thu-vien/884; Holy Life the Beauty of Christianity → MG-2/mg1-148; Christian Behaviour → thu-vien/807; Confession of Faith → thu-vien/1000-472; Differences in Judgment about Water Baptism → thu-vien/824; Instruction for the Ignorant → thu-vien/1000-283; Seasonable Counsel / Advice to Sufferers → MG-2/mg1-161. Lược thêm: dòng 1–1300 của bản quét (trang tựa, lời tựa, mục lục, bìa thư viện) và dòng in Glasgow + rác OCR ở cuối nguồn (sau câu kết Bài giảng cuối cùng). - Từ "Tin Lành" xuất hiện 2 lần trong thân bản (không tính lần tự nhắc trong ghi chú này), cả hai trong ngữ cảnh Tin Lành (Protestant) — "các tác giả Tin Lành của chúng ta" (out_011) và "người Tin Lành" đối lập với người theo Giáo hoàng (out_014) — không lần nào dịch "gospel". - Cụm "sự xưng công bình" không xuất hiện trong thân bản (0 lần); "xưng công bình" xuất hiện 11 lần trong thân bản (không tính lần tự nhắc trong ghi chú này), tất cả nằm trong trích dẫn nguyên văn Kinh Thánh 1934 kèm cờ ghi rõ (Lu-ca 18:14; Ê-sai 45:24-25; Rô-ma 3:24, 3:25, 3:26, 5:1; Thi Thiên 143:1-2; Ga-la-ti 3:11; Phục Truyền 6:25) — ngoại lệ trích dẫn cho phép. - Ghi chú hiệu đính viên (các thao tác khi ráp): + Các mối nối giữa các chunk đều đã đối chiếu đầu/đuôi với nguồn: 001→002, 004→005, 005→006, 007→008, 015→016, 016→017 nối giữa câu, giữ nguyên cờ đứt câu ở cả hai phía; các mối nối còn lại liền mạch. Mối nối 009→010, 013→014, 017→030 là ranh giới giữa các tác phẩm. + out_017 chỉ giữ dòng 1–96 (kết luận "Tôi đã xong..." của A Case of Conscience Resolved); bỏ dòng 97–191 (đầu Instruction for the Ignorant — đã dịch đầy đủ ở thu-vien/1000-283; phần bỏ chứa 8 cờ hiệu đính của riêng nó, không tính vào tổng số cờ của file này). + out_011: một số chữ OCR vỡ vụn lẻ tẻ đã được worker khôi phục theo ngữ cảnh mà không gắn cờ riêng (vd "w^as", "wliole", "tlie eliurcli", "flikement"); các khôi phục quan trọng và mọi hiệu chỉnh địa chỉ tham chiếu đều đã có cờ đầy đủ. + out_012: các lỗi OCR hệ thống nhẹ (chữ W in thành "Av", gạch nối cuối dòng) đã được khôi phục thầm lặng không cờ từng chỗ; các khôi phục quan trọng và mọi hiệu chỉnh địa chỉ tham chiếu đều đã có cờ đầy đủ. + chunk_030: đã cắt dòng in Glasgow + rác OCR ở cuối nguồn (sau câu kết bài giảng); chỉ dịch toàn văn bài giảng.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

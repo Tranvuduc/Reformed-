@@ -1,8 +1,14 @@
 BÌNH GIẢI THỰC HÀNH, HAY GIẢI THÍCH KÈM GHI CHÚ VỀ THƯ GIA-CƠ
 
-Thomas Manton · A practical commentary, or, An exposition with notes upon the Epistle
+Thomas Manton · A practical commentary, or, An exposition with notes upon the Epistle Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 37 giờ 30 phút · 393.872 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Nguồn: Xem bản gốc tại Internet Archive.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -3207,3 +3213,9 @@ HẾT.
 Ghi chú của người dịch: Bản dịch này dịch toàn văn phần bình giải trong bản quét archive.org (từ Thư đề tặng gửi Đại tá Alexander Topham, Lời tựa gửi độc giả, và phần Mở đầu, cho đến hết phần bình giải Gia-cơ chương 5 và lời kết "Amen"). Các phần sau đây đã được lược bỏ và xin được ghi rõ: dấu thư viện Princeton ở đầu bản quét; các tiêu đề chạy trang, số trang, và dấu ký hiệu in; bảng chữ cái và bảng tra cứu Kinh Thánh đặt sau chữ "FINIS" của phần bình giải (không thuộc chính văn bình giải). Trang tựa của bản quét bị OCR làm hỏng không đọc được, nên nhan đề tiếng Việt theo nhan đề chuẩn của tác phẩm. Một số số câu Kinh Thánh bị OCR in sai đã được sửa theo đúng đoạn văn được trích dẫn. Hai chỗ nối giữa các đoạn dịch đã được gọt nhẹ để tránh lặp từ ở ranh giới đoạn (cuối đoạn 22/đầu đoạn 23 và cuối đoạn 32/đầu đoạn 33); nội dung không thay đổi. Những đoạn OCR không đọc được đã được gắn cờ [NEEDS REVIEW] tại chỗ, không đoán mò. Từ "Tin Lành" xuất hiện 6 lần, tất cả đều trong ngữ cảnh chỉ đạo Tin Lành (Protestantism), không bao giờ dùng để dịch "gospel" (luôn dịch là "Phúc Âm").
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

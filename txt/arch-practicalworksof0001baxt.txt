@@ -1,10 +1,18 @@
 CÁC TÁC PHẨM THỰC HÀNH CỦA MỤC SƯ RICHARD BAXTER, TẬP II (1707) — PHẦN MỚI: NHỮNG LÝ DO CỦA ĐẠO CƠ ĐỐC; SỰ VÔ LÝ CỦA SỰ VÔ TÍN; THÊM NHỮNG LÝ DO CHO ĐẠO CƠ ĐỐC; LỜI KÊU GỌI GỬI ĐẾN KẺ CHƯA ĐƯỢC CẢI HÓA (LỜI TỰA GIÁM MỤC USHER + NĂM LỜI CẦU NGUYỆN); BÂY GIỜ HAY KHÔNG BAO GIỜ; MỘT VỊ THÁNH HAY MỘT CON THÚ; NHỮNG TÁC HẠI CỦA SỰ KHÔNG BIẾT MÌNH; PHƯƠNG PHÁP ĐÚNG ĐẮN CHO MỘT SỰ BÌNH AN VỮNG CHẮC CỦA LƯƠNG TÂM; SỰ NHÂN TỪ CỦA ĐỨC CHÚA TRỜI ĐƯỢC MINH OAN (PHẦN GIÁO LÝ)
 
-Richard Baxter · The Practical Works of the Rev. Richard Baxter, Vol. 2 (1707)
+Richard Baxter · The Practical Works of the Rev. Richard Baxter, Vol. 2 (1707) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 136 giờ 25 phút · 1.432.549 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CÁC TÁC PHẨM THỰC HÀNH CỦA MỤC SƯ RICHARD BAXTER, TẬP II (1707) — PHẦN MỚI: NHỮNG LÝ DO CỦA ĐẠO CƠ ĐỐC; SỰ VÔ LÝ CỦA SỰ VÔ TÍN; THÊM NHỮNG LÝ DO CHO ĐẠO CƠ ĐỐC; LỜI KÊU GỌI GỬI ĐẾN KẺ CHƯA ĐƯỢC CẢI HÓA (LỜI TỰA GIÁM MỤC USHER + NĂM LỜI CẦU NGUYỆN); BÂY GIỜ HAY KHÔNG BAO GIỜ; MỘT VỊ THÁNH HAY MỘT CON THÚ; NHỮNG TÁC HẠI CỦA SỰ KHÔNG BIẾT MÌNH; PHƯƠNG PHÁP ĐÚNG ĐẮN CHO MỘT SỰ BÌNH AN VỮNG CHẮC CỦA LƯƠNG TÂM; SỰ NHÂN TỪ CỦA ĐỨC CHÚA TRỜI ĐƯỢC MINH OAN (PHẦN GIÁO LÝ) Richard Baxter (1615–1691) Nguyên tác: The Practical Works of the Rev. Richard Baxter, Vol. 2 (1707) Nguồn: Archive.org (bản quét)
 
@@ -14463,3 +14471,9 @@ C. Các chunk nát nặng nhất — hiệu đính viên nên đối chiếu l�
 D. Thuật ngữ và trích dẫn (đếm trong thân bản, không tính ghi chú này): - Không có từ cấm nào trong thân bản: "sự xưng công bình" ×0, "ân sủng" ×0, "tin mừng" ×0, "bí tích" ×0, "rửa tội" ×0, "sự xưng nghĩa" ×0, "hà linh" ×0 ("rửa tội lỗi" ×0 và "thà linh hồn" ×0 không phải từ cấm). - "Thiên Chúa" ×27 — đều là "Thiên Chúa giáo" ×27 (chỉ Công giáo La Mã, ngoại lệ cho phép). - "Tin Lành" ×42 — đều chỉ người Tin Lành (Protestantism), ngoại trừ ×1 trong trích nguyên văn 1934 Lu-ca 4:18 (chunk 130) và ×2 trong cờ giải thích thuật ngữ (chunk 138). - "tin lành" ×7 — trong đó ×3 nằm trong cụm "đức tin lành mạnh" (không phải từ cấm); còn lại là trích nguyên văn 1934 Công vụ 13:32 (chunk 047, trích + cờ) và Lu-ca 2:10 (chunk 138, trích + cờ). - "Tin lành" ×3 — đều trong trích nguyên văn 1934: Mác 16:15 (chunk 135, trích + cờ), Lu-ca 4:18 (chunk 061 sau khi sửa). (Trích Lu-ca 4:18 ở chunk 130 dùng dạng "Tin Lành" — xem dòng trên.) - "Đức Chúa Jêsus Christ" ×12 và "Đức Giê-hô-va" ×236 — đều nằm trong trích dẫn Kinh Thánh theo lời văn 1934, giữ nguyên theo ngoại lệ trích dẫn. - Tổng số dấu [...] trong thân bản: 242 (gồm các dấu [...] trong cờ mới gắn ở mục B; còn lại đều đã có cờ theo dòng hoặc từ worker). - Trích dẫn Kinh Thánh theo văn phong 1934; các địa chỉ tham chiếu đã hiệu chỉnh đều có cờ NEEDS REVIEW tại chỗ.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

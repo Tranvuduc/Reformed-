@@ -1,8 +1,14 @@
 QUYỀN THIÊNG LIÊNG CỦA CHÍNH QUYỀN HỘI THÁNH VÀ SỰ TUYỆT THÔNG, HAY MỘT CUỘC TRANH LUẬN ÔN HÒA VỀ CHÍNH QUYỀN CỦA HỘI THÁNH SCOTLAND
 
-Samuel Rutherford · Divine right of church-government and excommunication, or A peaceable
+Samuel Rutherford · Divine right of church-government and excommunication, or A peaceable Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 39 giờ 55 phút · 419.068 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Nguồn: Xem bản gốc tại Internet Archive.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -10085,3 +10091,9 @@ HẾT.
 Ghi chú của người dịch: Bản dịch này dịch toàn bộ nội dung chính của bản quét archive.org (divinerightofchu00ruth_djvu.txt), gồm thư đề tặng gửi Bá tước Loudoun, thư gửi độc giả, và toàn bộ thân sách từ "The Introduction." đến "HẾT." (FINIS). Đã lược bỏ: trang tựa (OCR không đọc được), các bảng mục lục và bảng chỉ dẫn Kinh Thánh, phần ERRATA, và phần rác quét sau FINIS. Các tiêu đề chạy trang, số trang, dấu chữ ký in và mảnh rác quét thuần túy đã lược bỏ khi ráp file (51 đoạn); các tiêu đề chương/câu hỏi được giữ lại. Những chỗ OCR không đọc được đều gắn cờ [NEEDS REVIEW] ngay trong câu, không đoán, không bịa thêm. Đoạn P0105 ghi lại phần chữ in hai cột bị xáo trộn của bản quét (P0106–P0131) theo nghĩa khôi phục được, chi tiết câu không khôi phục được đã gắn cờ. Ở một số đoạn, các mảnh vỡ OCR đã được gộp vào đoạn trước theo thứ tự đọc (đặc biệt chunk 13, 17, 20, 22); ở chunk 20, các số hiệu đoạn trong file trung gian đã được đánh lại liên tục, nhưng nội dung vẫn giữ đúng thứ tự nguồn; khi ráp file, mọi số hiệu đoạn đều đã lược bỏ nên thứ tự nội dung là chuẩn. Các câu bị cắt cụt ở ranh giới chunk hoặc cuối trang được giữ nguyên kèm cờ, không viết thêm.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

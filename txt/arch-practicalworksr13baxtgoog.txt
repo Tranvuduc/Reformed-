@@ -1,10 +1,18 @@
 CUỘC ĐỜI VÀ THỜI ĐẠI CỦA RICHARD BAXTER — KHẢO SÁT PHÊ BÌNH CÁC TÁC PHẨM CỦA ÔNG
 
-William Orme · The Life and Times of the Rev. Richard Baxter, with a Critical Examination of His Writings (William Orme, London, 1830)
+William Orme · The Life and Times of the Rev. Richard Baxter, with a Critical Examination of His Writings (William Orme, London, 1830) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 46 giờ 50 phút · 491.735 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CUỘC ĐỜI VÀ THỜI ĐẠI CỦA RICHARD BAXTER — KHẢO SÁT PHÊ BÌNH CÁC TÁC PHẨM CỦA ÔNG William Orme (1787–1830) Nguyên tác: The Life and Times of the Rev. Richard Baxter, with a Critical Examination of His Writings (William Orme, London, 1830) Nguồn: Archive.org (bản quét)
 
@@ -9867,3 +9875,9 @@ Tôi đã thực sự nói hết mọi điều tôi có thể nói về những 
 GHI CHÚ DỊCH THUẬT: Bản dịch toàn bộ thân sách Tập I của Tuyển tập Tác phẩm của Richard Baxter, bản do William Orme biên tập (London: James Duncan, 1830), gồm Phần I là hồi ký “Cuộc đời và Thời đại của Richard Baxter” (chương I–XIII) và Phần II là “Khảo sát phê bình các tác phẩm của ông” (chương I–XIII cùng Kết luận chung), kết thúc bằng câu “…as Richard Baxter.” Tác phẩm này là văn bản khác, không trùng với bản tóm tắt của Calamy năm 1713 từ Reliquiae của chính Baxter đã dịch ở M200, và trong thư viện chưa có bản dịch hồi ký của Orme. Các phần lược bỏ khỏi bản dịch: phần boilerplate của Google, trang tựa, quảng cáo, các mục lục (Phần I và Phần II), 427 đoạn tiêu đề chạy trang, số trang và ký hiệu in ấn (danh sách đầy đủ trong assembly_drops.txt, gồm các mảnh OCR méo mó như “THB LIFB AKD TIMES” và các ký hiệu như “C 2”, “I 2”, “S 2” cùng các mảnh in lẻ), Danh sách niên biểu các tác phẩm của Baxter, Chỉ mục và dấu thư viện. Bản quét tự lặp lại một số đoạn do ngắt trang (ví dụ các đoạn mở đầu giống hệt nhau ở P0477/P0488) — cả hai bản đều được giữ như in. Số năm “1049” ở P5318 được hiệu đính thành 1649 theo ngữ cảnh chắc chắn (44 năm tới 1691, tác phẩm đầu tay năm 1649). Các đoạn La-tinh dài, kể cả bản cáo trạng, được giữ nguyên văn như Orme nêu rõ ý đồ của ông là trình bày chúng ở trạng thái nguyên bản thay vì dịch. Những chỗ OCR hỏng không khôi phục chắc chắn được đã được đánh dấu [NEEDS REVIEW: …] tại chỗ trong thân bản, không đoán mò.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

@@ -1,8 +1,12 @@
 SỰ BẢO VỆ CÁC NGUYÊN TẮC CỦA TÌNH YÊU, LÀ NHỮNG NGUYÊN TẮC CẦN THIẾT CHO SỰ HIỆP MỘT VÀ HÒA THUẬN CỦA CÁC CƠ ĐỐC NHÂN, VÀ ĐƯỢC TRÌNH BÀY TRONG MỘT CUỐN SÁCH CÓ TÊN LÀ PHƯƠNG THUỐC CHỮA SỰ CHIA RẼ HỘI THÁNH
 
-Richard Baxter · A defence of the principles of love, which are necessary to the unity
+Richard Baxter · A defence of the principles of love, which are necessary to the unity Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 10 giờ 40 phút · 112.032 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
+
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
 
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
 
@@ -2857,3 +2861,9 @@ Edward Rawson, Thư ký,
 GHI CHÚ BẢN DỊCH: - Nguồn: bản OCR trên archive.org (defenceofprincip00baxt_djvu.txt) của bản in 1671; nhiều đoạn mờ, hỏng do OCR đã được đánh dấu xem lại ngay trong văn bản, không đoán mò. - Dịch toàn văn từ trang tiêu đề đến cuối sách, gồm Phần I (Bảo vệ Phương Thuốc Chữa Sự Chia Rẽ Hội Thánh) và Phần II (Lời đáp các phản đối của Antidote). Tài liệu của Thống đốc và Hội đồng Boston ngày 10 tháng 3 năm 1668 ở cuối sách là phần trích dẫn trong chính văn bản nên được dịch đầy đủ. - Loại trừ: số trang, tiêu đề chạy, chữ ký in, từ bắt trang và nhiễu quét trước trang tiêu đề; không cắt nội dung nào khác. - Quy ước trích dẫn: lời Kinh Thánh trích nguyên văn giữ đúng lối văn 1934, không ép thuật ngữ bảng vào trong trích dẫn. - Kỹ thuật ráp nối: các đoạn của chunk 05 đã được sắp lại theo đúng số thứ tự; các mảnh câu tách trang được giữ nguyên hoặc gộp vào đoạn kề theo đúng văn bản nguồn.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

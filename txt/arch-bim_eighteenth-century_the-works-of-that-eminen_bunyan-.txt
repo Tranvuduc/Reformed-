@@ -1,10 +1,18 @@
 CÁC TÁC PHẨM CỦA JOHN BUNYAN (ẤN BẢN 1767) — NĂM TÁC PHẨM CHƯA DỊCH
 
-John Bunyan · The Works of John Bunyan (London, 1767 edition): Five Untranslated Treatises
+John Bunyan · The Works of John Bunyan (London, 1767 edition): Five Untranslated Treatises Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 33 giờ 45 phút · 354.417 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CÁC TÁC PHẨM CỦA JOHN BUNYAN (ẤN BẢN 1767) — NĂM TÁC PHẨM CHƯA DỊCH John Bunyan (1628–1688) Nguyên tác: The Works of John Bunyan (London, 1767 edition): Five Untranslated Treatises Nguồn: Archive.org (bản quét)
 
@@ -5429,3 +5437,9 @@ Nhưng để ngươi chắc chắn thoát khỏi những tảng đá nguy hiểm
 - Bản dịch từng phần: chỉ dịch 5 tác phẩm mới trong bộ Works 1767 (ấn bản Luân Đôn, lời tựa 3/1/1767): (1) Giáo Lý về Luật Pháp và Ân Điển Được Mở Ra (dòng nguồn 34895–56467); (2) Hành Hương của Người Lữ Hành, Phần II — Christiana (dòng nguồn 77576–92765); (3) Người Tội Lỗi ở Giê-ru-sa-lem Được Cứu, hay Tin Tốt Lành cho Kẻ Hèn Mọn Nhất (dòng nguồn 92766–101863); (4) Của Lễ Được Chấp Nhận, hay Sự Cao Quý của một Tấm Lòng Tan Vỡ (dòng nguồn 117954–126249); (5) Tiếng Rên Từ Địa Ngục, hay Những Tiếng Thở Than của một Linh Hồn Bị Đoạn (Lu-ca 16; dòng nguồn 126250–138418). Đã lược bỏ và không dịch lại (đều đã có bản dịch đầy đủ): Ân Điển Dư Dật cho Kẻ Tội Lỗi Đầu Sỏ → thu-vien/894; Lời Tuyên Xưng Đức Tin → thu-vien/1000-472; Những Khác Biệt trong Sự Phán Đoán → thu-vien/824; Hành Hương Phần I → thu-vien/840; Người Lữ Hành Lên Thiên Đàng → thu-vien/536 + 693; Đền Thờ Sa-lô-môn Được Thuộc Linh Hóa → AI-2/444; Hãy Đến và Được Chào Đón Đến Với Chúa Giê-xu Christ → M174 + AI-2/731; Về Sự Xưng Công Chính Bởi Sự Công Chính Được Kể Cho → MG-2/mg1-157 + M262; Sự Ra Đi và Mão Triều Thiên của Phao-lô, Về Ba Ngôi, Về Luật Pháp, Sự Trông Cậy của Y-sơ-ra-ên Được Khích Lệ → M262; Đời Sống và Sự Chết của Ông Badman → M174; Cây Vả Không Trái → M174 + thu-vien/801; Một Điều Cần Thiết → MG-2/mg1-158 (bản quét cắt cụt ở khổ ~79, đã có bản dịch đầy đủ). Gộp vào M273 (đang dịch đợt 26 này): Các Nguyên Tắc Hòa Thuận và Chân Thật, Người Pha-ri-si và Người Thu Thuế. Gộp vào M174: Lời Khuyên Về Hòa Bình và Hiệp Nhất. Lược thêm: trang tựa, mục lục quảng cáo, lời tựa Whitefield và mục lục thật đầu tập (dòng nguồn 1–2036); 24 mục trong mục lục quảng cáo không có trong bản quét này (Chiến Tranh Thánh, Sáng Thế Ký, Biểu Tượng Thiêng Liêng...) — không thuộc phạm vi M276. - Từ "Tin Lành" xuất hiện 0 lần trong thân bản; "tin lành" viết thường xuất hiện 2 lần, cả hai trong một trích dẫn nguyên văn Kinh Thánh 1934 kèm cờ (Lu-ca 4:18, "truyền tin lành cho kẻ nghèo") — ngoại lệ trích dẫn cho phép. - Cụm "sự xưng công bình" xuất hiện 6 lần trong thân bản, tất cả trong trích dẫn nguyên văn Kinh Thánh 1934 kèm cờ (Rô-ma 3:24, 3:24–26, 3:28, 4:5); "xưng công bình" (không có "sự") xuất hiện 7 lần nữa, tất cả trong trích dẫn nguyên văn 1934 (Rô-ma 3:24, 3:24–26, 3:28, 4:5) — ngoại lệ trích dẫn cho phép. - Ghi chú hiệu đính viên (các thao tác khi ráp): + out_028 chứa HAI LẦN QUÉT cùng trang của "Người Tội Lỗi ở Giê-ru-sa-lem Được Cứu" (pass 1 = đoạn 0–29, pass 2 = đoạn 30–64, đầy đủ hơn). Khi ráp: BỎ đoạn 1–22 của pass 1 (trùng pass 2 đoạn 30–50); GIỮ đoạn 23–29 của pass 1 (nhẫn nại, giấc mơ ban đêm, hoạn nạn, ngăn trở, cẩn thận — chỉ có ở pass 1) và ĐẶT SAU đoạn 50 của pass 2, theo thứ tự của pass 1 — hiệu đính viên đối chiếu bản in khi cần; GIỮ đoạn 0 (đuôi người con hoang đàng, nối chunk 027) và toàn bộ pass 2. + out_028 đoạn 65–103 và toàn bộ out_029 là "Người Lữ Hành Lên Thiên Đàng" (trang tựa ở dòng nguồn 101864, Sáng Thế Ký 19:17, Thư Gửi Người Biếng Nhác) — đã dịch đầy đủ ở thu-vien/536 + 693 — nên BỎ KHỎI file ráp; hai file chunk giữ nguyên trên đĩa làm bằng chứng. Ranh giới đúng: "Người Tội Lỗi ở Giê-ru-sa-lem Được Cứu" kết thúc ~dòng nguồn 101863, không phải 102126 như SCOPE-MAP ghi ban đầu. + out_033: một khối OCR nát lớn (~600 chữ, cuối tr. 453–đầu tr. 454) toàn ký tự rời rạc không đọc được thành câu — worker đã bỏ qua KHÔNG chèn cờ vào file, chỉ ghi nhận trong báo cáo; điểm này được liệt kê tại đây theo quy tắc hiệu đính. + out_035 kết thúc tác phẩm "Của Lễ Được Chấp Nhận" đột ngột, không có FINIS hay lời kết trang trọng — đoạn cuối là lời kêu gọi rồi nguồn chỉ còn mảnh rác in; giữ nguyên như bản dịch, không bịa kết thúc. + out_014 mở bằng trang tựa Phần II của Hành Hương — giữ nguyên. out_016 chỉ 4.103 chữ vì nguồn chunk OCR nát nặng (nhiều đoạn dài chỉ toàn ký tự rác) — đầu/giữa/đuôi mạch truyện đều đủ theo thứ tự. + Các mối nối giữa các chunk đều đã đối chiếu đầu/đuôi với nguồn khi xác minh từng chunk; không có đoạn nào bị nhân đôi hay bỏ sót tại mối nối (trừ các thao tác dedupe/ Footman nêu trên).
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

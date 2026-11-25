@@ -1,14 +1,20 @@
-CHÚ THÍCH GIÔ-SUÊ & QUAN XÉT
+CHÚ THÍCH VỀ KINH THÁNH — SÁCH GIÔ-SUÊ, CÁC QUAN XÉT & RU-TƠ
 
-Matthew Poole · Annotations upon the Holy Bible, Vol. I: Joshua, Judges and Ruth (1700)
+Matthew Poole · Annotations upon the Holy Bible, Vol. I: Joshua, Judges and Ruth (1700) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 13 giờ 5 phút · 137.635 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (Muse) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CHÚ THÍCH VỀ KINH THÁNH — SÁCH GIÔ-SUÊ, CÁC QUAN XÉT, RU-TƠ
 
-Matthew Poole, *Annotations upon the Holy Bible* (Chú thích về Kinh Thánh), Tập I, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700` (bản scan EEBO).
+Matthew Poole, Annotations upon the Holy Bible (Chú thích về Kinh Thánh), Tập I, Ấn bản thứ tư, Luân Đôn, 1700. In cho Thomas Parkhurst, Jonathan Robinson, Brabazon Aylmer, John Lawrence, John Taylor và Thomas Cockerill. Nguồn: archive.org, `bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1700` (bản scan EEBO).
 
 Phạm vi của tập này: chỉ ba sách Giô-suê, Các Quan Xét và Ru-tơ — Đơn vị 4 của Tập I (Sáng Thế Ký đã dịch xong ở Đơn vị 1; Xuất Ê-díp-tô + Lê-vi Ký là Đơn vị 2; Dân Số Ký + Phục Truyền Luật Lệ Ký là Đơn vị 3; 1 Sa-mu-ên trở đi không thuộc tập này). Mỗi sách mở đầu bằng một bài “Luận đề” (The Argument) về tác giả và nội dung sách, rồi đến từng chương với Tóm tắt nội dung chương, bản văn Kinh Thánh theo từng câu, xen kẽ với phần chú thích của Poole.
 
@@ -18,15 +24,11 @@ Về tình trạng bản scan: đây là bản scan EEBO với chữ ſ (s dài)
 
 Thuật ngữ theo bảng thuật ngữ cố định: Đức Chúa Trời, Chúa Giê-xu Christ, Đức Thánh Linh, Phúc Âm, ân điển, đức tin, sự xưng công chính, sự nên thánh, sự cứu chuộc, sự chuộc tội, giao ước, sự tuyển chọn, sự tiền định, sự cứu rỗi, Hội Thánh, Kinh Thánh. “Đền tội” không bao giờ dùng để dịch sự chuộc tội của Đấng Christ; “sự chuộc tội” được dùng cho sự đền tội của Đấng Christ.
 
----
-
 GIÔ-SUÊ
 
 LUẬN ĐỀ.
 
 Việc biết ai là người đã viết sách này, dù là Giô-suê, [hay một tiên tri thánh nào khác], cũng không phải là điều quan trọng. Chỉ cần biết rằng [sách này đã được giao phó cho người Do Thái, và được họ gìn giữ cẩn thận, rồi truyền lại cho chúng ta một cách trung tín, như được chứng minh qua lời chứng của Đấng Christ và các sứ đồ của Ngài, là những người đã công nhận và chấp thuận cùng những sách Thánh ấy mà Hội Thánh của người Do Thái đã [công nhận]. Người viết sách này, dù là Giô-suê, dường như có nhiều khả năng nhất, theo như Chương 14...] Nhưng điều chắc chắn là, có nhiều đoạn trong sách này đã được thêm vào sau khi Giô-suê qua đời, như Giô-suê 10:13 so với 2 Sa-mu-ên 1:18, và Giô-suê 19:47 so với Các Quan Xét 18. [Và những chỗ thêm vào như thế cũng đã được nhận thấy trong năm sách của Môi-se.]
-
----
 
 CHƯƠNG I.
 
@@ -95,8 +97,6 @@ Chú thích: [Như chúng tôi đã vâng lời Môi-se:] sự vâng lời mà c
 18 Bất cứ ai chống lại mệnh lệnh của ông, và không nghe theo lời ông trong mọi điều ông truyền cho người ấy, người ấy sẽ bị xử tử; chỉ xin ông hãy mạnh mẽ và can đảm.
 
 Chú thích: [Bất cứ ai chống lại mệnh lệnh của ông:] đối với các mệnh lệnh của Đức Chúa Trời; vì không ai có thể dại dột đến mức nghĩ rằng, nếu ông đã truyền cho dân sự báng bổ Đức Chúa Trời, hay thờ lạy thần tượng, thì dân sự có bổn phận phải vâng lời ông trong việc ấy.
-
----
 
 CHƯƠNG II.
 
@@ -184,8 +184,6 @@ Chú thích: [Bà buộc sợi dây đỏ ở cửa sổ:] [để bà có thể]
 
 [Các câu 23–24 không còn đọc được trong lớp OCR tại đây; bản scan nhảy thẳng từ cuối câu 22 sang phần Tóm tắt nội dung của Chương III.]
 
----
-
 CHƯƠNG III.
 
 [Phần Tóm tắt nội dung chương phần lớn không đọc được trong bản scan vì các cột chữ bị xen kẽ: Giô-suê đem dân Y-sơ-ra-ên đến sông Giô-đanh, 1. Các quan trưởng hướng dẫn dân sự, 2–4. Hòm giao ước đi trước, nước sông Giô-đanh rẽ ra cho đến khi hòm và dân sự qua sông, 5–17.]
@@ -217,8 +215,6 @@ Chú thích: [Hãy đứng yên trong sông Giô-đanh:] trong nước sông Gi�
 [Các câu 9–17 phần lớn không còn đọc được trong lớp OCR tại đây vì các cột chữ bị xen kẽ nặng; chỉ còn các mảnh rời rạc sau đây: chân của các thầy tế lễ khiêng hòm vừa nhúng vào mé nước — vì sông Giô-đanh tràn bờ suốt mùa gặt — thì nước từ trên chảy xuống dừng lại, và dân sự qua sông ngay đối diện Giê-ri-cô; các thầy tế lễ khiêng hòm giao ước đứng vững trên đất khô giữa sông Giô-đanh cho đến khi toàn dân đã qua sông sạch sẽ.]
 
 [Phần cuối của Chương III, các câu 9–17, phần lớn không còn đọc được trong lớp OCR vì các cột chữ bị xen kẽ; chỉ còn các mảnh chú thích sau đây về các câu 16–18: nước sông Giô-đanh được nói là “đi lên” khỏi sông lên đất khô; trong khi nếu hiểu là lúc họ bước vào sông, thì phải nói là họ đi xuống sông Giô-đanh, rồi mới đi lên đất. Bản văn của các câu 9–14 không còn đọc được tại đây; bản văn của các câu 15–17 chỉ còn các mảnh rời rạc đã dịch ở cuối phần trước: chân của các thầy tế lễ khiêng hòm vừa nhúng vào mé nước — vì sông Giô-đanh tràn bờ suốt mùa gặt — thì nước từ trên chảy xuống dừng lại, và dân sự qua sông ngay đối diện Giê-ri-cô; các thầy tế lễ khiêng hòm giao ước đứng vững trên đất khô giữa sông Giô-đanh cho đến khi toàn dân đã qua sông sạch sẽ.]
-
----
 
 CHƯƠNG IV.
 
@@ -292,8 +288,6 @@ Chú thích: [Trước mặt chúng ta:] (nghĩa là) chính tôi và Ca-lép, v
 
 24 Để mọi dân trên đất biết rằng tay của Chúa là mạnh mẽ, và các ngươi kính sợ Giê-hô-va Đức Chúa Trời các ngươi đời đời.
 
----
-
 CHƯƠNG V.
 
 Người A-mô-rít và người Ca-na-an nghe việc này thì sợ hãi, 1. Những người nam sinh ra trong đồng vắng được cắt bì, 2–9. Lễ Vượt Qua được cử hành, 10. Họ ăn lúa mì của xứ, và ma-na dứt, 11, 12. Đấng Christ hiện ra cùng Giô-suê trong hình dạng một người lính; Giô-suê thờ lạy Ngài; nơi Ngài hiện diện là đất thánh, 13–15.
@@ -357,8 +351,6 @@ Chú thích: [Không phải vậy, nhưng ta là tướng chỉ huy đạo quân
 15 Tướng chỉ huy đạo quân của Chúa nói cùng Giô-suê rằng: Hãy cởi giày khỏi chân ngươi; vì nơi ngươi đang đứng là đất thánh. Giô-suê làm như vậy.
 
 Chú thích: [Hãy cởi giày khỏi chân ngươi:] để tỏ lòng tôn kính và phục tùng; xem Xuất Ê-díp-tô 3:5. [Là đất thánh:] được biệt riêng ra bởi sự hiện diện của ta; khi sự hiện diện ấy rút đi, nơi ấy không còn thánh hơn bất kỳ nơi nào khác, vì lý do [của sự thánh khiết ấy] đã không còn.
-
----
 
 CHƯƠNG VI.
 
@@ -446,8 +438,6 @@ Chú thích: [Giô-suê cứu Ra-háp được sống:] vì mệnh lệnh chung 
 
 27 Vậy Chúa ở cùng Giô-suê; danh tiếng ông lan ra khắp xứ.
 
----
-
 CHƯƠNG VII.
 
 A-can lấy vật bị tận diệt: Đức Chúa Trời nổi giận cùng Y-sơ-ra-ên, 1. Giô-suê sai người đi do thám A-hi: họ chạy trốn và ba mươi sáu người bị giết, 2–5. Giô-suê kêu ca cùng Đức Chúa Trời: Ngài bày tỏ nguyên nhân, và truyền cho bắt thăm, 6–15. A-can bị bắt quả tang: lời khuyên của Giô-suê và [lời] xưng tội của ông ta, 16–21. Ông ta và [gia đình] ông ta bị ném đá và thiêu đốt: nơi ấy được gọi là trũng A-cô, 22–26.
@@ -525,8 +515,6 @@ Chú thích: [Và thiêu đốt họ bằng lửa:] [không phải] là việc t
 26 Họ dựng lên trên ông ta một đống đá lớn cho đến ngày nay. Chúa bèn quay khỏi cơn giận dữ của Ngài. Vì vậy tên của nơi ấy được gọi là trũng A-cô cho đến ngày nay.
 
 Chú thích: [Họ dựng lên trên ông ta một đống đá lớn:] như một đài kỷ niệm về tội lỗi và sự phán xét đã nói đến, để [những người khác] được dạy dỗ và cảnh báo bởi gương ấy; và như một dấu hiệu của sự ô nhục, như Giô-suê 8:29, 2 Sa-mu-ên 18:17. [Trũng A-cô:] hoặc là, trũng của sự khốn khổ, vì sự khốn khổ kép được nói đến ở câu 25.
-
----
 
 CHƯƠNG VIII.
 
@@ -658,8 +646,6 @@ Chú thích: [Ông viết tại đó trên đá:] không phải trên những t�
 
 [Các câu 34–35 chỉ còn đọc được một phần trong bản scan; các mảnh rời rạc: “mọi điều đều được đọc và viết... Phục Truyền 31:13... khách lạ ở giữa họ.”]
 
----
-
 CHƯƠNG IX.
 
 [Phần Tóm tắt nội dung chương phần lớn không còn đọc được trong bản scan vì xen kẽ với phần cuối của Chương VIII: các vua Ca-na-an nghe việc Giô-suê đã làm thì họp nhau lại; dân Ghi-bê-ôn nghe vậy thì dùng mưu lừa Giô-suê lập giao ước với họ; giao ước được giữ, họ bị bắt làm đầy tớ đốn củi và xách nước.]
@@ -743,8 +729,6 @@ Chú thích: [Ông làm như vậy cho họ:] như đã nói ở câu 23, và nh
 27 Giô-suê lập họ ngày ấy làm kẻ đốn củi và xách nước cho hội chúng, và cho bàn thờ của Chúa, cho đến ngày nay, tại nơi mà Ngài sẽ chọn.
 
 Chú thích: [Giô-suê lập họ làm kẻ đốn củi và xách nước:] từ đó tỏ ra rằng họ không chỉ phải làm công việc này trong nhà của Đức Chúa Trời, mà còn trong mọi dịp khác, khi hội chúng cần hay yêu cầu sự giúp đỡ của họ.
-
----
 
 CHƯƠNG X.
 
@@ -882,8 +866,6 @@ Chú thích: [Ca-đe Ba-nê-a:] xứ nằm ở phía nam của Ca-na-an, Dân S�
 
 43 Giô-suê trở về, cùng với mọi người Y-sơ-ra-ên, đến trại quân tại Ghinh-ganh.
 
----
-
 CHƯƠNG XI.
 
 Các vua và [dân] Ca-na-an [họp nhau lại] chống Y-sơ-ra-ên, 1—5. [Đức Chúa Trời] khích lệ [Giô-suê], 6. Người Ca-na-an bị hủy diệt, các thành của họ [bị lấy] và bị đốt: Hát-xơ [bị đốt riêng]; người A-nác, 7—20, trừ những người ở Ga-xa, Gát, và Ách-đốt, 21—23.
@@ -966,8 +948,6 @@ Chú thích: [Ga-xa, Gát, và Ách-đốt:] ba thành của người Phi-li-tin
 
 Chú thích: [Giô-suê lấy cả xứ:] theo cách nói lấy một phần thay cho toàn thể, (nghĩa là) phần lớn nhất và tốt nhất của nó, vì một số phần và nơi được ngoại lệ rõ ràng trong lịch sử tiếp theo. [Xứ được nghỉ ngơi khỏi chiến tranh:] khỏi chiến tranh thực sự, đến nỗi họ giờ đây có thể yên lặng khảo sát, phân chia, và sở hữu xứ.
 
----
-
 CHƯƠNG XII.
 
 Một danh sách các vua, và tài sản của họ, mà dân Y-sơ-ra-ên đã đuổi họ ra khỏi: trước tiên trong thời của [Môi-se ở phía bên kia] sông Giô-đanh, 1—6, và sau đó bởi Giô-suê ở phía bên này sông Giô-đanh, 7—23. [Tổng cộng] ba mươi mốt vua, 24.
@@ -1035,8 +1015,6 @@ Chú thích: [Đồng hoang:] từ này ở đây và ở những nơi khác tro
 Chú thích: [Tất cả các vua là ba mươi mốt:] mỗi người bị giới hạn trong một phạm vi hẹp, và chỉ là vua của [một] tỉnh nhỏ [thuộc về] nó, [vì vậy] họ có thể dễ dàng bị chinh phục hơn...
 
 [Danh sách các vua ở các câu 9—24 trong bản scan bị xen kẽ cột nặng; các tên vua được đọc từ các mảnh rời rạc và được giữ nguyên theo thứ tự của Kinh Thánh; một số tên (Bê-tên câu 16, A-phéc và La-sa-rôn câu 18, Sim-rôn Mê-rôn và Ách-sáp câu 20, Đô-rơ và Ghinh-ganh câu 23, Tiệt-xa câu 24) chỉ còn đọc được một phần trong bản scan.]
-
----
 
 CHƯƠNG XIII.
 
@@ -1148,8 +1126,6 @@ Chú thích: [Con cái Ma-kia:] [từ đó] được gọi là các thành [củ
 
 33 Nhưng cho chi phái Lê-vi, Môi-se không ban sản nghiệp nào; Chúa, Đức Chúa Trời của Y-sơ-ra-ên, là sản nghiệp của họ, như Ngài đã phán cùng họ.
 
----
-
 CHƯƠNG XIV.
 
 Xứ và các sản nghiệp của nó sẽ được chia bằng thăm, [1]—5, Ca-lép, sau khi trở về từ [việc do thám] xứ đã khích lệ dân sự, Môi-se bấy giờ hứa cho ông xứ Hếp-rôn; ông nay xin Giô-suê ban cho ông xứ ấy, 6—12. Giô-suê chấp thuận lời xin của ông, 13—15.
@@ -1209,8 +1185,6 @@ Chú thích: [Giô-suê chúc phước cho ông:] hoặc 1. Cầu nguyện cùng
 15 Tên của Hếp-rôn trước đây là Ki-ri-át A-ra-ba; A-ra-ba là một người lớn trong số người A-nác. Xứ được nghỉ ngơi khỏi chiến tranh.
 
 Chú thích: [A-ra-ba là một người lớn trong số người A-nác:] [A-ra-ba là] một người có quyền [lớn], vì là tổ tiên của A-nác, cha của những người khổng lồ nổi tiếng được gọi là [người A-nác]. [Xứ được nghỉ ngơi khỏi chiến tranh:] [điều này] đã cho họ cơ hội để [chia xứ]...
-
----
 
 CHƯƠNG XV.
 
@@ -1372,8 +1346,6 @@ Chú thích: [Trong đồng hoang:] người Hê-bơ-rơ gọi [những nơi] ho
 
 Chú thích: [Con cái Giu-đa không thể đuổi họ ra:] vì mặc dù Giê-ru-sa-lem đã bị Giô-suê lấy một phần trước đây; nhưng phần trên và mạnh hơn của nó, được gọi là Si-ôn, vẫn còn bị người Giê-bu-sít giữ, cho đến thời Đa-vít; và dường như từ đó [người Giê-bu-sít đã xuống] thành dưới được gọi là Giê-ru-sa-lem, và lấy nó; đến nỗi dân Y-sơ-ra-ên bị buộc phải chiếm nó lần thứ hai, thậm chí lần thứ ba nữa: vì sau đó nó lại bị người Giê-bu-sít chiếm giữ, Các Quan Xét 19:11, 2 Sa-mu-ên 5:6, 7. [Không thể đuổi họ ra:] tức là vì sự không tin của họ, như Đấng Christ không thể làm phép lạ nào [ở đó] vì sự không tin của dân sự, Mác 6:6, Ma-thi-ơ 13:58, và vì sự lười biếng, hèn nhát, gian ác của họ, nhờ đó họ đã mất sự giúp đỡ của Đức Chúa Trời, và rồi họ nhất định phải bất lực; nhưng sự bất lực này là tự nguyện, và do chính họ gây ra. [Người Giê-bu-sít ở cùng con cái Giu-đa:] những điều được nói ở đây về con cái Giu-đa, cũng được nói về người Bên-gia-min, [Giô-suê 18:28]. Từ đây nảy sinh một câu hỏi, Giê-ru-sa-lem thuộc về chi phái nào? Thuộc về Bên-gia-min, như suy ra từ Sáng Thế Ký 49:27, Phục Truyền 33:12, Giê-rê-mi 6:1, hay thuộc về Giu-đa, như hàm ý ở đây, và Thi Thiên 78:58, 69. Một số người nghĩ rằng, vì nó ở biên giới của cả hai, nó thuộc chung cho cả hai, và được cả hai cùng cư trú một cách chung; [và] chắc chắn rằng sau thời kỳ lưu đày nó đã bị cả hai chiếm giữ, Nê-hê-mi 11:4. Nhưng hiện tại, mặc dù nó thuộc về Bên-gia-min, nhưng con cái Giu-đa có thể rất tích cực trong việc lấy nó lần đầu bởi Giô-suê, như chắc chắn họ đã làm sau khi ông chết, Các Quan Xét 1:8, họ có thể nhờ đó có được một quyền [được] chia sẻ với người Bên-gia-min trong việc sở hữu nó. Dường như có khả năng nhất rằng một phần của nó, và thật ra là phần lớn nhất, và phần chính của nó, đứng trong chi phái Bên-gia-min; và vì vậy điều này được nhắc đến trong danh sách các thành của họ, chứ không phải trong danh sách của Giu-đa; và một phần của nó đứng trong phần của Giu-đa, tức là núi Mô-ri-a, nơi đền thờ được xây dựng; và núi Si-ôn, khi nó bị lấy khỏi người Giê-bu-sít. [Cho đến ngày nay:] khi sách này được viết, hoặc trong đời và tuổi già của Giô-suê, kéo dài nhiều năm sau khi Giê-ru-sa-lem bị lấy, hoặc sau khi ông chết, khi câu này được thêm vào ở đây và ở những nơi khác trong sách này bởi một người khác của Đức Chúa Trời, điều này nhất định phải được làm trước thời Đa-vít, khi người Giê-bu-sít hoàn toàn bị đuổi ra, và thành trì của họ bị lấy.
 
----
-
 CHƯƠNG XVI.
 
 Biên giới chung của con cái Giô-sép, 1—4. Biên giới của Ép-ra-im, 5—9. Một số người Ca-na-an không bị đuổi ra, nhưng bị bắt nộp thuế, 10.
@@ -1415,8 +1387,6 @@ Chú thích: [Các thành riêng biệt:] (nghĩa là) ngoài những thành ở
 10 Họ không đuổi người Ca-na-an ở tại Ghê-xe; nhưng người Ca-na-an ở giữa người Ép-ra-im cho đến ngày nay, và phục vụ dưới thuế.
 
 Chú thích: [Người Ca-na-an ở tại Ghê-xe:] họ cũng không bị đuổi ra cho đến thời Sa-lô-môn, 1 Các Vua 9:16. [Phục vụ dưới thuế:] như trong Giô-suê 17:13, 1 Các Vua 9:15.
-
----
 
 CHƯƠNG XVII.
 
@@ -1481,8 +1451,6 @@ Chú thích: [Núi không đủ cho chúng tôi:] [chúng tôi] không thể [xu
 Chú thích: [Ngươi là một dân tộc lớn, và có quyền năng lớn:] ngươi cần và xứng đáng có nhiều hơn phần đất mà ngươi đang sở hữu, và ngươi có quyền năng để có thêm; nếu ngươi cố gắng làm vậy, Đức Chúa Trời sẽ ban phước cho ngươi, và ban cho ngươi nhiều hơn.
 
 18 Nhưng núi sẽ thuộc về ngươi; vì nó là rừng, ngươi sẽ đốn nó xuống; các đầu mút của nó sẽ thuộc về ngươi; vì ngươi sẽ đuổi người Ca-na-an ra, mặc dù họ có xe sắt, và mặc dù họ mạnh mẽ.
-
----
 
 CHƯƠNG XVIII.
 
@@ -1577,8 +1545,6 @@ Chú thích: [Xê-ma-ra-im:] [thành] hoặc đặt tên cho, hoặc lấy tên 
 28 Xê-la, Ê-lép, và Giê-bu-si (tức là Giê-ru-sa-lem), Ghi-bê-át, và Ki-ri-át: mười bốn thành cùng với các làng của chúng. Đây là sản nghiệp của chi phái con cái Bên-gia-min, theo từng gia đình của họ.
 
 Chú thích: [Giê-bu-si (tức là Giê-ru-sa-lem):] vì vậy dường như thành này đúng nghĩa và chủ yếu thuộc về Bên-gia-min, mặc dù chi phái Giu-đa cũng có quyền lợi trong nó, hoặc vì một phần của nó được phân cho họ, hoặc vì người Bên-gia-min đã cho họ một phần trong nó, vì sự giúp đỡ mà họ đã nhận được, hoặc mong đợi từ chi phái hùng mạnh ấy, để chiếm hay bảo vệ nơi rất quan trọng ấy. Xem thêm Giô-suê 15:63. [Mười bốn thành:] có lẽ không phải mọi thành thuộc về chi phái này đều được nêu tên ở đây, vì A-na-tốt và Anh-môn bị bỏ sót ở đây, nhưng được nói rõ [trong Giô-suê 21:18].
-
----
 
 CHƯƠNG XIX.
 
@@ -1690,8 +1656,6 @@ Chú thích: [Theo lời của Chúa:] như Đức Chúa Trời đã hứa, hay 
 
 51 Đây là các sản nghiệp mà Ê-lê-a-sa, thầy tế lễ, Giô-suê, con trai Nun, và các trưởng tộc của các chi phái con cái Y-sơ-ra-ên, đã chia làm sản nghiệp bằng thăm tại Si-lô trước mặt Chúa, tại cửa đền tạm của hội chúng; như vậy họ đã chia xong xứ.
 
----
-
 CHƯƠNG XX.
 
 Đức Chúa Trời truyền sáu thành trú ẩn cho những người vô ý giết người, 1—4. Cách dùng đúng của chúng, 5, 6. Dân Y-sơ-ra-ên [chỉ định] ba thành ở phía bên này, và ba thành ở phía bên kia [sông Giô-đanh], 7—9.
@@ -1727,8 +1691,6 @@ Chú thích: [Họ chỉ định:] hay, đã ban, hay đã chỉ định hay ban
 9 Đây là các thành được chỉ định cho mọi con cái Y-sơ-ra-ên, và cho khách lạ kiều ngụ giữa họ, để bất cứ ai giết người vô ý có thể chạy đến đó, và không chết bởi tay kẻ báo thù huyết, cho đến khi người ấy đứng trước hội chúng.
 
 Chú thích: [Cho khách lạ kiều ngụ giữa họ:] không chỉ những người trở lại đạo, mà còn những người khác nữa; vì đây là vấn đề của quyền chung, để có sự phân biệt giữa những kẻ giết người vô ý, và những kẻ giết người cố ý.
-
----
 
 CHƯƠNG XXI.
 
@@ -1856,8 +1818,6 @@ Chú thích: [Chẳng có người nào trong mọi kẻ thù của họ đứng
 
 45 Chẳng có điều tốt lành nào mà Chúa đã phán cùng nhà Y-sơ-ra-ên bị thiếu sót; mọi sự đều ứng nghiệm.
 
----
-
 CHƯƠNG XXII.
 
 Hai chi phái và nửa chi phái được sai về nhà với lời chúc phước; [lời] dặn dò phải kính sợ Chúa, và nhiều của cướp, 1—9. Họ xây một bàn thờ làm chứng tại bờ sông Giô-đanh, 10. Dân Y-sơ-ra-ên lấy làm khó chịu; họp nhau để gây chiến với họ, 11, 12. Họ [trước tiên] sai Phi-nê-a và mười quan trưởng làm sứ giả đến quở trách họ, 13—20. Họ tự minh oan; anh em của họ hài lòng, 21—34.
@@ -1976,8 +1936,6 @@ Chú thích: [Không có ý định lên đánh họ trong chiến trận:] như
 
 Chú thích: [Ét:] tức là, một chứng cớ.
 
----
-
 CHƯƠNG XXIII.
 
 Giô-suê đã già, họp dân sự lại: tuyên bố những việc kỳ diệu Đức Chúa Trời đã làm cho họ: và [những việc Ngài] sẽ làm trong việc đuổi người Ca-na-an, 1—5. Khuyên họ hãy can đảm tuân giữ luật pháp: và tránh thờ thần tượng, 6—8, điều mà ông nhấn mạnh bằng những ân huệ trước đây; và những lời hứa, 9—11, [và] bằng những lời đe dọa, 12—16.
@@ -2041,8 +1999,6 @@ Chú thích: [Ta đi theo đường của mọi người trên đất:] (nghĩa 
 Chú thích: [Chúa sẽ đem mọi điều xấu đến trên các ngươi:] sự ứng nghiệm lời hứa của Đức Chúa Trời là một bảo chứng hay [bằng chứng] rằng Ngài cũng sẽ thực hiện những lời đe dọa của Ngài; cả hai đều dựa trên cùng một nền tảng, sự trung tín của Đức Chúa Trời.
 
 16 Khi các ngươi đã vi phạm giao ước của Chúa, Đức Chúa Trời các ngươi, mà Ngài đã truyền cho các ngươi, đi phục vụ các thần khác, và cúi mình trước chúng; cơn thịnh nộ của Chúa sẽ nổi lên chống lại các ngươi, và các ngươi sẽ nhanh chóng bị diệt khỏi xứ tốt lành mà Ngài đã ban cho các ngươi.
-
----
 
 CHƯƠNG XXIV.
 
@@ -2159,8 +2115,6 @@ Chú thích: [Họ chôn tại Si-kem:] không phải trong thành Si-kem, nhưn
 33 Ê-lê-a-sa, con trai A-rôn, chết; họ chôn ông trong một đồi thuộc về Phi-nê-a, con trai ông, được ban cho ông trong núi Ép-ra-im.
 
 Chú thích: [Được ban cho ông trong núi Ép-ra-im:] bởi ân huệ đặc biệt, và để thuận tiện hơn cho ông trong việc phục vụ hòm giao ước, lúc ấy ở, và trong một thời gian dài sẽ ở tại Si-lô, gần nơi này; trong khi các thành được ban cho các thầy tế lễ, ở tại Giu-đa, Bên-gia-min và Si-mê-ôn, xa Si-lô, mặc dù gần nơi hòm giao ước sẽ có nơi ở cố định, tức là Giê-ru-sa-lem.
-
----
 
 CÁC QUAN XÉT
 
@@ -2376,8 +2330,6 @@ Chú thích: [Để qua họ ta có thể thử Y-sơ-ra-ên:] hoặc, thứ nh�
 
 Chú thích: [Không đuổi họ ra một cách vội vàng:] hay, nhanh chóng, khi dân Y-sơ-ra-ên mong muốn, và cần đến nó.
 
----
-
 CHƯƠNG III.
 
 Các dân tộc được để lại để thử Y-sơ-ra-ên được nhắc đến, 1—4. Dân Y-sơ-ra-ên cưới con gái của họ, và phục vụ các thần của họ, họ bị phó cho vua Mê-sô-bô-ta-mi: được Ốt-ni-ên giải cứu, 5—11. Tiếp tục làm điều ác, họ lại bị trừng phạt và [bị áp bức] bởi vua Mô-áp: được Ê-hút giải cứu: mười nghìn người Mô-áp bị giết, 12—30. Sau đó họ được Sam-ga giải cứu khỏi người Phi-li-tin, 31.
@@ -2491,8 +2443,6 @@ Chú thích: [Mọi người đều béo tốt:] tiếng Hê-bơ-rơ, béo.
 Chú thích: [Xứ được yên nghỉ tám mươi năm:] những điều này phải được hiểu như thế nào, xem câu 11. [Một số] bản sao đọc tám năm [thay vì tám mươi].
 
 31 Sau ông là Sam-ga, con trai A-nát, người đã giết người Phi-li-tin sáu trăm người bằng một cây gậy thúc bò; ông cũng giải cứu Y-sơ-ra-ên.
-
----
 
 CHƯƠNG IV.
 
@@ -2708,8 +2658,6 @@ Chú thích: [Họ há chẳng nhanh chóng sao? Họ há chẳng chia chiến l
 
 Chú thích: [Nguyện mọi kẻ thù của Ngài bị diệt như vậy:] (nghĩa là) nhanh chóng, chắc chắn, hiệu quả và không thể phục hồi như vậy. [Như mặt trời khi nó đi ra trong sức mạnh của nó:] khi nó mới mọc, và tiếp tục trong đường đi của nó, điều mà nó làm với sức mạnh lớn, ngay cả như một người mạnh mẽ chạy đua, Thi Thiên 19:5, và đến nỗi không một tạo vật nào có thể ngăn cản hay cản trở nó; nguyện dân sự [của Ngài] cũng không thể bị cản trở như vậy. [Xứ được yên nghỉ bốn mươi năm:] cách tính như thế nào, xem trước đây về Các Quan Xét 3:11.
 
----
-
 CHƯƠNG VI.
 
 Người Ma-đi-an áp bức Y-sơ-ra-ên, 1—6. Một tiên tri [được sai đến] quở trách họ, 7—10. Một thiên sứ gọi Ghê-đê-ôn đến giải cứu Y-sơ-ra-ên, 11—16. Xác nhận ông bằng một phép lạ, 17—21. Ông xây một bàn thờ: gọi nó là Giê-hô-va Sa-lôm; và dâng của lễ tại đó. Theo mệnh lệnh của Đức Chúa Trời, ông phá đổ bàn thờ của Ba-anh: tên ông là Giê-rúp Ba-anh, 22—32. Người Ma-đi-an tập hợp nhau để chiến đấu: Ghê-đê-ôn chuẩn bị chống lại họ: Đức Chúa Trời củng cố và xác nhận ông bằng một phép lạ, 33—40.
@@ -2856,8 +2804,6 @@ Chú thích: [Xin cho nó nay chỉ khô trên tấm lông chiên, và trên m�
 
 40 Đức Chúa Trời đã làm như vậy đêm ấy; vì nó khô chỉ trên tấm lông chiên, và có sương trên mọi đất.
 
----
-
 CHƯƠNG VII.
 
 Ghê-đê-ôn với ba mươi hai nghìn người đóng trại chống lại người Ma-đi-an: họ, theo mệnh lệnh và dấu hiệu của Đức Chúa Trời, được giảm xuống còn 300, 1—8. Ông được khích lệ bởi một giấc mơ, và sự giải thích của nó, 9—15. Chia quân đội của mình thành 3 đội, tất cả cùng nhau thổi kèn: và đập vỡ các bình, trong đó [các đèn] ở, thành từng mảnh, 16—20. Người Ma-đi-an kinh hãi, chạy trốn và hủy diệt lẫn nhau, 21, 22. Dân Y-sơ-ra-ên lân cận đuổi theo họ để ngăn chặn lối qua sông Giô-đanh của họ. Hai hoàng tử của người Ma-đi-an bị người Ép-ra-im bắt, 23—25.
@@ -2953,8 +2899,6 @@ Chú thích: [Chúa đặt gươm của mỗi người chống lại bạn mình
 25 Họ bắt hai hoàng tử của người Ma-đi-an, Ô-rép và Xê-ép; họ giết Ô-rép trên tảng đá Ô-rép, và Xê-ép họ giết tại bàn ép rượu của Xê-ép, và đuổi theo Ma-đi-an, và đem đầu của Ô-rép và Xê-ép đến Ghê-đê-ôn ở phía bên kia sông Giô-đanh.
 
 Chú thích: [Đem đầu của Ô-rép và Xê-ép đến Ghê-đê-ôn ở phía bên kia sông Giô-đanh:] vì Ghê-đê-ôn trong cuộc đuổi theo đã qua sông Giô-đanh, như chúng ta đọc, Các Quan Xét 8:4, điều này mặc dù được nhắc đến sau đây, có thể dường như đã [được] làm trước đó, những sự chuyển đổi như vậy thường xuyên trong lịch sử thánh. Hoặc, ở phía này của sông Giô-đanh, vì từ Hê-bơ-rơ không phân biệt cả hai phía, xem Sáng Thế Ký 50:10. Và vì vậy điều này đối lập với những gì tiếp theo về việc ông qua sông Giô-đanh, Các Quan Xét 8:4. Và khi ấy không có sự dự đoán nào ở đây.
-
----
 
 CHƯƠNG VIII.
 
@@ -3083,8 +3027,6 @@ Chú thích: [Con cái Y-sơ-ra-ên lại quay lại, và phạm tội tà dâm 
 34 Con cái Y-sơ-ra-ên không nhớ Chúa, Đức Chúa Trời của họ, Đấng đã giải cứu họ khỏi tay mọi kẻ thù của họ ở mọi phía;
 
 35 Họ cũng không tỏ lòng nhân từ với nhà của Giê-rúp Ba-anh, tức là Ghê-đê-ôn, theo mọi điều tốt lành mà ông đã làm cho Y-sơ-ra-ên.
-
----
 
 CHƯƠNG IX.
 
@@ -3292,8 +3234,6 @@ Chú thích: [Sự gian ác của A-bi-mê-léc, mà ông đã làm cho cha mìn
 
 57 Mọi điều ác của người Si-kem Đức Chúa Trời đã báo lại trên đầu họ; lời rủa sả của Giô-tham, con trai Giê-rúp Ba-anh, đã đến trên họ.
 
----
-
 CHƯƠNG X.
 
 Tô-la xét đoán Y-sơ-ra-ên: và Giai-rơ: ba mươi con trai của ông có ba mươi thành, 1—5. Sự thờ thần tượng của dân sự, 6. Người Phi-li-tin và người Am-môn áp bức họ, 7—9. Họ kêu cầu Đức Chúa Trời, Đấng sai họ đến các thần giả của họ: nhưng khi họ ăn năn, Ngài thương xót họ, 10—16. Người Am-môn và dân Y-sơ-ra-ên đóng trại chống lại nhau, 17, 18.
@@ -3361,8 +3301,6 @@ Chú thích: [Họ bỏ các thần lạ khỏi giữa họ, và phục vụ Ch�
 Chú thích: [Đóng trại tại Mích-ba:] Mích-ba ấy ở bên kia sông Giô-đanh tại Gát hay Ma-na-se; về nơi này xem Sáng Thế Ký 31:49[?], Giô-suê 18:26, Các Quan Xét 10:17 và 11:11, 29, 34. Có những thành khác cùng tên trong Kinh Thánh.
 
 18 Dân sự và các hoàng tử của Ga-la-át nói với nhau: Người nào sẽ bắt đầu chiến đấu chống lại con cái Am-môn? Người ấy sẽ làm đầu trên mọi dân cư của Ga-la-át.
-
----
 
 CHƯƠNG XI.
 
@@ -3514,8 +3452,6 @@ Chú thích: [Và nàng không biết người đàn ông nào. Và đó là m�
 
 Chú thích: [Để các con gái của Y-sơ-ra-ên đi hằng năm để than khóc con gái của Giép-thê:] tiếng Hê-bơ-rơ, [được gọi], đến một nơi được chỉ định cho cuộc họp của họ; [có thể] đến nơi nàng đã bị hiến tế. [Để than khóc:] vì sự mất mát của nàng, theo thói quen. Hoặc, để nói về (vì Lamed trong tiếng Hê-bơ-rơ đôi khi được dùng) con gái của Giép-thê, để ca ngợi nàng, người đã sẵn sàng dâng hiến chính mình làm [của lễ].
 
----
-
 CHƯƠNG XII.
 
 Người Ép-ra-im gây chiến chống lại [Giép-thê]: bị người Ga-la-át đánh bại, [và] bị giết [tại] các chỗ cạn của sông Giô-đanh, 1—6. [Sau ông] Íp-xan, 8—10. Ê-lôn, 11, 12. Áp-đôn, 13—15, làm quan xét trên Y-sơ-ra-ên.
@@ -3571,8 +3507,6 @@ Chú thích: [Được chôn tại A-gia-lôn, trong xứ Sa-bu-lôn:] điều n
 15 Áp-đôn, con trai của Hi-lê, người Phi-ra-thôn, chết, và được chôn tại Phi-ra-thôn trong xứ Ép-ra-im, trên núi của người A-ma-léc.
 
 Chú thích: [Trên núi của người A-ma-léc:] được gọi như vậy từ một chiến công đáng chú ý nào đó, được thực hiện hoặc bởi, hoặc trên người A-ma-léc tại nơi ấy.
-
----
 
 CHƯƠNG XIII.
 
@@ -3662,8 +3596,6 @@ Chú thích: [Và Chúa ban phước cho nó:] nghĩa là, ban cho nó mọi ân
 
 Chú thích: [Thần của Chúa bắt đầu cảm động nó đôi khi:] nghĩa là, khuấy động nó đến những thiết kế anh hùng; bày tỏ quyền năng của Ngài trong nó trong khung tâm trí, và trong [sức mạnh] của thân thể nó, được phát hiện cho những người lân cận của nó trong những hành động phi thường; khiến lòng nó hướng đến những nỗ lực lớn lao để giúp đỡ và giải cứu dân Đức Chúa Trời, và đưa ra một số thử nghiệm về điều đó cho anh em nó, và tìm kiếm mọi cơ hội cho nó, như nó đã làm trong chương tiếp theo. [Trong trại của Đan:] một nơi được gọi như vậy, hoặc từ cuộc viễn chinh của người Đan, Các Quan Xét 18:11, 12, mặc dù được đặt sau lịch sử này, đã được thực hiện trước nó: hoặc từ một trại khác mà người Đan đã hình thành ở đó vào thời gian này, để kiềm chế các [cuộc xâm lược] của người Phi-li-tin.
 
----
-
 CHƯƠNG XIV.
 
 Sam-sôn muốn lấy vợ là một con gái của người Phi-li-tin ở Thim-na: và điều này [là] từ Chúa cho một dịp chống lại họ, 1—4. Cha mẹ ông đi xuống với ông đến Thim-na: một con sư tử tơ gặp ông [và] ông giết nó, 5—7. Khi trở về ông tìm thấy mật trong xác chết, 8, 9. Giữ một bữa tiệc cưới: có ba mươi người bạn được thêm vào ông: ông đưa ra cho họ một câu đố: với lời hứa về một món quà, 10—15. Vợ ông ép ông giải thích: và tiết lộ nó, 16—18. Ông giết ba mươi [người] ở Ách-ca-lôn: và với đó trả món quà của mình, 19. Vợ ông được gả cho người khác, 20.
@@ -3737,8 +3669,6 @@ Chú thích: [Thần của Chúa đến trên ông:] mặc dù ông có một th
 20 Nhưng vợ của Sam-sôn được gả cho bạn ông, người mà ông đã dùng làm bạn thân.
 
 Chú thích: [Vợ của Sam-sôn được gả cho bạn ông:] bởi cha nàng. [Người mà ông đã dùng làm bạn thân:] cho người đứng đầu trong số các phù rể, người mà ông đã bày tỏ sự tôn trọng và lòng tốt nhất.
-
----
 
 CHƯƠNG XV.
 
@@ -3821,8 +3751,6 @@ Chú thích: [Đức Chúa Trời chẻ một chỗ trũng trong hàm:] tức l�
 20 Ông làm quan xét Y-sơ-ra-ên trong những ngày của người Phi-li-tin hai mươi năm.
 
 Chú thích: [Ông làm quan xét Y-sơ-ra-ên trong những ngày của người Phi-li-tin hai mươi năm:] nghĩa là, ông bênh vực [lý lẽ] của họ và báo thù họ chống lại người Phi-li-tin. [Trong những ngày của người Phi-li-tin:] nghĩa là, trong khi người Phi-li-tin có [quyền] và sự cai trị, mà ông không phải giải cứu hoàn toàn, mà chỉ bắt đầu giải cứu họ, như đã được báo trước, Các Quan Xét 13:5. Từ nơi này rõ ràng, rằng trong việc tính toán thời gian của các quan xét, những năm [nô lệ] không được tách khỏi những năm của các quan xét, [và] cộng thêm vào chúng, mà được bao gồm trong chúng; [mệnh đề] này có tầm quan trọng lớn để làm rõ phần khó khăn này của niên đại Kinh Thánh, và để biện minh cho bản tường thuật về thời gian được đưa ra trong 1 Các Vua 6:1.
-
----
 
 CHƯƠNG XVI.
 
@@ -3934,8 +3862,6 @@ Chú thích: [Hãy để tôi chết với người Phi-li-tin:] ... [ông] ... 
 
 Chú thích: [Anh em ông và mọi nhà của cha ông đi xuống, và lấy ông, và đem ông lên, và chôn ông:] ... [anh em] ông, được gọi như vậy, bà con của ông. Hoặc, thứ hai, [cha mẹ] ông đã có những đứa con khác sau ông; như thường lệ với Đức Chúa Trời khi Ngài ban một đứa con phi thường và [nổi bật], trong việc [ban cho] [họ] [một] hay nhiều [đứa con]... Áp-ra-ham, Sáng Thế Ký 25:1, 2, và An-ne, 1 Sa-mu-ên 2:21. [Ông làm quan xét Y-sơ-ra-ên hai mươi năm:] ... [để] xác nhận mối quan hệ của [lịch sử] [trước]... khi hai mươi năm này kết thúc, ngay cả khi [ông chết]. [không đọc được trong bản scan]
 
----
-
 CHƯƠNG XVII.
 
 [Tóm tắt nội dung chương XVII phần lớn không đọc được trong bản scan: Mi-ca làm một tượng: và thuê một người Lê-vi làm thầy tế lễ cho mình.]
@@ -3987,8 +3913,6 @@ Chú thích: [Mi-ca thánh hiến người Lê-vi:] ... [vì] ông nghĩ một s
 13 Mi-ca nói: Bây giờ tôi biết Chúa sẽ làm điều tốt cho tôi, vì tôi có một người Lê-vi làm thầy tế lễ.
 
 Chú thích: [Bây giờ tôi biết Chúa sẽ làm điều tốt cho tôi, vì tôi có một người Lê-vi làm thầy tế lễ:] [tôi] chắc chắn [Đức Chúa Trời] sẽ ban phước cho tôi. Ông đã mù quáng và thiên vị một cách thô thiển trong phán đoán của mình, khi nghĩ rằng một hoàn cảnh đúng sẽ đáp ứng [cho] những sai lầm thực chất, trong việc làm và thờ phượng [các tượng] trái với mệnh lệnh rõ ràng của Đức Chúa Trời, thờ phượng Đức Chúa Trời tại [một nơi bị cấm]; và trong việc ông là một người Ép-ra-im đã tự cho mình làm [một] thầy tế lễ, v.v.
-
----
 
 CHƯƠNG XVIII.
 
@@ -4097,8 +4021,6 @@ Chú thích: [Họ gọi tên thành là Đan, theo tên Đan, cha của họ:] 
 Chú thích: [Con cái Đan dựng tượng chạm:] ... [mà] họ [thờ phượng] ngay cả cho đến khi bị lưu đày bởi người A-si-ri, [đôi khi] công khai và được phép hơn, đôi khi khéo léo hơn, [và] bí mật hơn, đôi khi theo một cách mê tín hay thờ hình tượng này, và đôi khi theo cách khác; và, trong và sau thời Giê-rô-bô-am, trong [sự thờ phượng] [các bò con]... [để] giành danh tiếng cho sự thờ phượng vô đạo và phi lý của ông... [không đọc được trong bản scan]
 
 31 Họ dựng tượng chạm của Mi-ca, mà ông đã làm, suốt thời gian nhà của Đức Chúa Trời ở tại Si-lô.
-
----
 
 CHƯƠNG XIX.
 
@@ -4211,8 +4133,6 @@ Chú thích: [Khi ông đến nhà mình, ông lấy một con dao, và nắm l�
 30 Xảy ra mọi người thấy điều ấy nói: Không có việc như vậy được làm hay thấy từ ngày con cái Y-sơ-ra-ên lên khỏi xứ Ê-díp-tô cho đến ngày nay: hãy xem xét nó, lấy lời khuyên, và nói ý kiến của các ngươi.
 
 Chú thích: [Không có việc như vậy được làm hay thấy từ ngày con cái Y-sơ-ra-ên lên khỏi xứ Ê-díp-tô cho đến ngày nay:] độc ác và ghê tởm như vậy. [Hãy xem xét nó, lấy lời khuyên, và nói ý kiến của các ngươi:] chúng ta hãy gặp nhau, và [xem xét], và mỗi người tự do nói những gì cần làm trong [việc] ấy.
-
----
 
 CHƯƠNG XX.
 
@@ -4386,8 +4306,6 @@ Chú thích: [Nhưng sáu trăm người quay lại và chạy trốn đến đ�
 
 Chú thích: [Người Y-sơ-ra-ên quay lại với con cái Bên-gia-min, và đánh họ bằng lưỡi gươm:] sau khi [phá hủy] những người đến Ghi-bê-a, [và] đến [chiến trường], [họ] [quay] [lại] [với] [những người còn lại]... [trong] những trường hợp như vậy, như Dân Số Ký 31:17. [Và] [họ] [đã làm điều này] [theo] mệnh lệnh của Đức Chúa Trời một [cách] long trọng... [mà] [họ đã] nguyền rủa hay dâng hiến cho cái chết mọi thứ đến [tay]... [Các Quan Xét] 21:5, mà không một người Bên-gia-min nào [tuân giữ]; [và] [họ] đã phá hủy mọi người đàn ông, đàn bà, và trẻ em của Gia-bết Ga-la-át, Các Quan Xét 21:10... [không đọc được trong bản scan]
 
----
-
 CHƯƠNG XXI.
 
 Dân sự than khóc sự hoang tàn của Bên-gia-min, 1—7. Dân cư của Gia-bết Ga-la-át, vì không đến trận chiến này, đều bị phá hủy: trừ 400 trinh nữ: mà dân Y-sơ-ra-ên ban cho làm vợ cho những người Bên-gia-min còn lại, 8—15. Họ khuyên những người còn lại bắt lấy các trinh nữ đang múa tại lễ ở Si-lô: và mang đi bao nhiêu tùy ý họ cần, 16—21. Câu trả lời mà họ nên dùng để làm dịu các thân nhân của họ, 22—25.
@@ -4478,15 +4396,11 @@ Chú thích: [Con cái Bên-gia-min đã làm như vậy, và lấy vợ cho mì
 
 25 Trong những ngày ấy không có vua trong Y-sơ-ra-ên: mỗi người làm điều đúng trong mắt mình.
 
----
-
 RU-TƠ
 
 LUẬN ĐỀ.
 
 Cuốn sách nhỏ này, bởi bất cứ ai viết, điều này không quan trọng để biết, được gắn liền với sách Các Quan Xét, và bởi một số bác sĩ Do Thái, được làm thành một phần của nó. Nó hữu ích, như đối với nhiều điểm khác, đặc biệt để cho thấy gia phả của Đa-vít; và do đó của Đấng Christ; và sự xuất hiện của Đấng Christ từ một người đàn bà Mô-áp: điều này là một tài liệu hữu ích, và một sự khích lệ lớn cho dân ngoại tin vào Đấng Christ, [và đến trong Hội Thánh].
-
----
 
 CHƯƠNG I.
 
@@ -4565,8 +4479,6 @@ Chú thích: [Đừng gọi tôi là Na-ô-mi:] có nghĩa là dễ chịu, hay 
 Chú thích: [Tôi ra đi đầy đủ:] với chồng và các con trai của tôi, và một tài sản dồi dào để nuôi sống chúng tôi. [Vì Chúa đã làm chứng chống lại tôi:] nghĩa là, đã làm chứng, như trong sự phán xét, và đưa ra phán quyết chống lại tôi, và tuyên bố tội lỗi của tôi bằng hình phạt của tôi.
 
 22 Na-ô-mi trở về, và Ru-tơ người Mô-áp, con dâu nàng, với nàng, người đã trở về từ xứ Mô-áp: họ đến Bết-lê-hem vào đầu mùa gặt lúa mạch.
-
----
 
 CHƯƠNG II.
 
@@ -4652,8 +4564,6 @@ Chú thích: [Tốt lắm, con gái của ta, ngươi hãy ra với các nữ t�
 
 Chú thích: [Và ở với mẹ chồng nàng:] tiếng Hê-bơ-rơ, ngồi, hay tiếp tục ở nhà, khi nàng đã hoàn thành [công việc của mình], và không lang thang hay đi [ra ngoài] theo cách của những người lười biếng và gái điếm, Châm Ngôn 7:18, [19].
 
----
-
 CHƯƠNG III.
 
 Theo lời khuyên của Na-ô-mi, Ru-tơ nằm dưới chân Bô-ô: [ông khen ngợi những gì nàng đã làm, và] [nói] cho nàng biết có một người bà con gần hơn, mà ông sẽ đề nghị nàng, người từ chối, ông sẽ chuộc nàng, [1—13]. [Ông] sai nàng đi với sáu đấu lúa mạch, 14—18.
@@ -4721,8 +4631,6 @@ Chú thích: [Khi nàng đến với mẹ chồng nàng, bà nói: Ngươi là a
 17 Nàng nói: Sáu đấu lúa mạch này ông đã cho tôi; vì ông nói với tôi: Đừng đi tay không đến với mẹ chồng ngươi.
 
 18 Bà nói: Hãy ngồi yên, con gái của ta, cho đến khi ngươi biết việc sẽ ra sao: vì người đàn ông sẽ không nghỉ ngơi, cho đến khi ông đã hoàn thành việc này hôm nay.
-
----
 
 CHƯƠNG IV.
 
@@ -4803,3 +4711,9 @@ Chú thích: [Phụ nữ là hàng xóm của nàng đặt tên cho nó, nói: C
 Chú thích: [Bây giờ đây là các thế hệ của Pha-rê: Pha-rê sinh Hết-rôn, Hết-rôn sinh Ram, Ram sinh Am-mi-na-đáp, Am-mi-na-đáp sinh Nác-sôn, Nác-sôn sinh Sanh-môn, Sanh-môn sinh Bô-ô, Bô-ô sinh Ô-bết, Ô-bết sinh Gie-sê, Gie-sê sinh Đa-vít:] làm sao điều này có thể là gia phả thật, vì bốn người này chiếm ba trăm [sáu mươi] năm, giữa Sanh-môn và Đa-vít, và do đó mỗi người trong họ phải sinh một con trai khi [ông] [trên] [100 tuổi]? Đáp: 1. Không chắc chắn, rằng mỗi người trong họ là cha trực tiếp của người mà ông được nói là sinh ra: vì đôi khi ông nội được nói trong Kinh Thánh là sinh ra cháu của mình, tức là, qua sự can thiệp của các con trai trực tiếp của họ; trong đó đã có những trường hợp. Và đôi khi trong các gia phả toàn bộ các thế hệ bị bỏ qua, như có thể thấy bởi Ê-xơ-ra 7:2, [so sánh] với 1 Sử Ký 6:13, và bởi Ma-thi-ơ 1:8, điều này có thể được thực hiện [để] [ngắn gọn]. 2. Có [nhiều] ví dụ ngay cả trong [các tác giả] thế tục, cổ xưa [và] hiện đại, [về] những người không chỉ sống 120, và 130 năm trở lên, mà còn mạnh mẽ, và đã sinh con cái khi trên 100 tuổi; và về phụ nữ đã thụ thai và sinh con cái ở tuổi 50, 60, thậm chí 70 tuổi: và vì vậy nếu điều đó xảy ra trong những thời đại cổ xưa hơn, khi con người sống lâu hơn, và dưới luật pháp, khi sự sống lâu được hứa rõ ràng cho người vâng lời, và trong những người [có] [thể chất] như vậy, và cuộc trò chuyện tiết độ, như một số người trong họ được biết là như vậy, và những người khác có thể công bằng cho rằng là như vậy, thì không lạ, cũng không hề không thể tin được.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.

@@ -1,10 +1,18 @@
 CÁC TÁC PHẨM CỦA THOMAS GOODWIN, TẬP V (1703): SỰ VÂNG LỜI THEO PHÚC ÂM, BA THỜI KỲ CỦA CƠ ĐỐC NHÂN, TRẠNG THÁI VINH HIỂN PHƯỚC HẠNH, VINH HIỂN CỦA PHÚC ÂM VÀ CÁC BÀI GIẢNG CÒN LẠI (CHỈ PHẦN II–IV)
 
-Thomas Goodwin · The Works of Thomas Goodwin, Vol. 5 (1703): Gospel Obedience, The Three Ages of the Christian, The Blessed State of Glory, The Glory of the Gospel, and Remaining Sermons (Parts 2–4 only)
+Thomas Goodwin · The Works of Thomas Goodwin, Vol. 5 (1703): Gospel Obedience, The Three Ages of the Christian, The Blessed State of Glory, The Glory of the Gospel, and Remaining Sermons (Parts 2–4 only) Bản dịch AI, chưa duyệt
+
+⏱ Thời gian đọc ước tính: khoảng 41 giờ 45 phút · 438.266 từ (tốc độ 175 từ/phút)
 
 Bản dịch do AI (AI-2) hỗ trợ, chưa được mục sư duyệt giáo lý. Thuật ngữ có thể chưa chính xác; hãy đối chiếu với bản gốc và Kinh Thánh, đồng thời hỏi mục sư của bạn.
 
+Thấy lỗi trong bản dịch? Báo lỗi bản dịch.
+
+Trang sách: Giới thiệu và sách liên quan.
+
 Nguyên tác thuộc phạm vi công cộng. Bản dịch tiếng Việt miễn phí, không thương mại.
+
+AI, chưa duyệt
 
 CÁC TÁC PHẨM CỦA THOMAS GOODWIN, TẬP V (1703): SỰ VÂNG LỜI THEO PHÚC ÂM, BA THỜI KỲ CỦA CƠ ĐỐC NHÂN, TRẠNG THÁI VINH HIỂN PHƯỚC HẠNH, VINH HIỂN CỦA PHÚC ÂM VÀ CÁC BÀI GIẢNG CÒN LẠI (CHỈ PHẦN II–IV) Thomas Goodwin (1600–1680) Nguyên tác: The Works of Thomas Goodwin, Vol. 5 (1703): Gospel Obedience, The Three Ages of the Christian, The Blessed State of Glory, The Glory of the Gospel, and Remaining Sermons (Parts 2–4 only) Nguồn: Archive.org (bản quét)
 
@@ -3569,3 +3577,9 @@ Mọi phước lành mà Đức Chúa Trời trong lúc ấy ban cho họ, họ 
 GHI CHÚ CỦA DỊCH GIẢ — PHẠM VI VÀ CÁC PHẦN LƯỢC BỎ: - Bản dịch gồm Phần II–IV của Tập V (in tại Luân Đôn bởi Sam. Bridge cho Tho. Goodwin, năm 1703): Phần II — Sự vâng lời theo Phúc Âm và Ba thời kỳ của Cơ Đốc nhân; Phần III — Trạng thái vinh hiển phước hạnh của các thánh đồ sau khi chết; Phần IV — Vinh hiển của Phúc Âm và các bài giảng còn lại (A-ghê, sự hòa giải, lòng biết ơn). - Đã lược bỏ và không dịch: dòng nguồn 1–3340 (tiểu sử tự thuật của Goodwin); Phần I, dòng 3341–57741 (Công việc của Đức Thánh Linh — đã dịch đầy đủ ở MG-2 #289 và M212); dòng 108929–112838 (chỉ mục cuối tập); chữ kết thúc của tập ở dòng 108931 (ngoài phạm vi). Tiêu đề chạy trang, số trang, catchwords và rác quét OCR đã lược trong toàn bộ bản dịch. - Bản quét CỤT giữa chừng: bài giảng cuối cùng kết thúc đột ngột ở dòng nguồn 108928, giữa câu ("…không có điều gì sẽ làm hại anh em hơn là phạm tội nghịch cùng ánh sáng và các ơn thương xót.") — không bổ sung đoạn kết từ nguồn khác. - Chunk 042: nhiều trang OCR nát hoàn toàn (chỉ khoảng 4.341 chữ Anh còn đọc được trong 7.223 chữ nguồn); bản dịch chỉ gồm phần còn đọc được, các đoạn mất đã cờ tại chỗ. - "Earnest" (Ê-phê-sô 1:14) được thống nhất thành "của cầm" trong toàn bộ file, TRỪ một đoạn đối chiếu có chủ ý Earnest vs Pledge ("của cầm khác với vật thế chấp…", chunk 032) — ở đó giữ "vật thế chấp" ×2 cho Pledge để câu không vô nghĩa. - Trong thân bản (không tính các ghi chú này), từ "Tin Lành" xuất hiện 3 lần: 2 lần chỉ ngữ cảnh Tin Lành (Protestantism — "những Hội Thánh Tin Lành", "những người Tin Lành") và 1 lần trong trích dẫn nguyên văn 1934 (Ga-la-ti 1:12: "Tôi đã chẳng nhận Tin Lành ấy từ loài người…") — giữ nguyên lời văn 1934 theo ngoại lệ; không lần nào dùng để dịch "gospel". Trích dẫn Kinh Thánh theo văn phong 1934; các trích dẫn nguyên văn 1934 được giữ nguyên lời văn. - Mối nối giữa các chunk: 013→014 và 031→032 đã nối liền thành một câu khi ráp (từ "Ordinances" bị chẻ đôi qua ranh giới chunk; cụm "một chiếc lá của cây này" trùng lặp đã bỏ một lần). Các mối nối 030→031, 035→036, 040→041, 042→043, 043→044 bị OCR hỏng ở ranh giới — cả hai phía đều đã cờ tại chỗ, hiệu đính viên đối chiếu bản in.
 
 Mở trong trình đọc Về thư viện
+
+❓ Hỏi sách này — gõ câu hỏi của bạn, trang sẽ tìm những đoạn văn trong cuốn sách này có chứa các từ đó (kèm chương mục). Trang chỉ tìm đoạn trích, không tự soạn câu trả lời.
+
+BÌNH LUẬN
+
+Bình luận trên trang sách sẽ mở sau khi tính năng này được bật. Trong lúc chờ, bạn có thể góp ý qua liên kết “Báo lỗi bản dịch” ở cuối trang. Bình luận do độc giả viết sẽ hiển thị công khai; quản trị viên kiểm duyệt và có thể gỡ bình luận không phù hợp.
