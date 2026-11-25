@@ -3,7 +3,7 @@ import json as _j9, re as _r9, os as _o9
 _NC = ''  # .nc/.stt/.tb moved to s.css (2026-11-05)
 _DRAFT = '<p class="m">Nội dung do AI hỗ trợ soạn, chưa được mục sư duyệt. Hãy đối chiếu với Kinh Thánh và hỏi mục sư của bạn.</p>'
 _idx9 = _j9.load(open("translations/index.json", encoding="utf-8"))
-_pub9 = [b for b in _idx9 if not b.get("hold") and b.get("file") and _o9.path.exists("translations/" + b["file"])]  # Wave 2: 3 live index entries have no 'file' key (KeyError crash)
+_pub9 = [b for b in _idx9 if not b.get("hold") and b.get("file") and _o9.path.exists("txt/" + _o9.path.basename(b["file"]))]  # Wave 2: 3 live index entries have no 'file' key (KeyError crash); 698 entries have file="translations/X.txt" (source path) while txt/ holds the flat X.txt — same translations/ bug as nang_cap3
 
 # 1. Bat dau o day
 _b1 = _NC + '<h1>Bắt đầu ở đây</h1><p>Reformed Vietnam là thư viện miễn phí gồm sách, bài giảng và bản dịch Cải Chánh bằng tiếng Việt. Không bán gì, không cần tài khoản. Chọn một lối đi dưới đây tùy bạn đang ở đâu.</p>'
@@ -34,7 +34,7 @@ open("ve-chung-toi.html", "w", encoding="utf-8").write(page("Về chúng tôi v�
 
 # 3. Trang thai ban dich
 _rv9 = [b for b in _pub9 if b.get("reviewed")]
-_rows = "".join(f'<tr><td><a href="/ban-dich/{E(_o9.path.splitext(b["file"])[0])}.html">{E(b.get("title", ""))}</a></td><td>{E(b.get("author", ""))}</td><td>{"Đã duyệt" if b.get("reviewed") else "Chưa duyệt"}</td></tr>' for b in sorted(_pub9, key=lambda x: (x.get("author", ""), x.get("title", ""))))
+_rows = "".join(f'<tr><td><a href="/ban-dich/{E(_o9.path.splitext(_o9.path.basename(b["file"]))[0])}.html">{E(b.get("title", ""))}</a></td><td>{E(b.get("author", ""))}</td><td>{"Đã duyệt" if b.get("reviewed") else "Chưa duyệt"}</td></tr>' for b in sorted(_pub9, key=lambda x: (x.get("author", ""), x.get("title", ""))))
 _b3 = _NC + f'<h1>Trạng thái bản dịch</h1><p>Hiện có <b>{len(_pub9)}</b> bản dịch tiếng Việt. Đã được mục sư duyệt: <b>{len(_rv9)}</b>. Chưa duyệt: <b>{len(_pub9) - len(_rv9)}</b>.</p><p>“Chưa duyệt” nghĩa là bản dịch có AI hỗ trợ và chưa có mục sư đọc lại giáo lý. Hãy đối chiếu với Kinh Thánh. Mục sư muốn giúp duyệt: <a href="/cho-muc-su.html">xem hướng dẫn</a>.</p>' \
  f'<table class="tb"><tr><th>Sách</th><th>Tác giả</th><th>Trạng thái</th></tr>{_rows}</table>'
 open("trang-thai-ban-dich.html", "w", encoding="utf-8").write(page("Trạng thái duyệt các bản dịch | Reformed Vietnam", "Danh sách các bản dịch tiếng Việt và trạng thái duyệt giáo lý của từng bản.", "trang-thai-ban-dich.html", _b3)); urls.append("trang-thai-ban-dich.html")
@@ -62,10 +62,10 @@ def _bible_hits(vi, en):
         _pat = (r"(Gospel (of|according to) |Epistles? (of |to )?(St\.? |Saint )?|\bon (the )?(Book of )?(the )?(Epistle )?(of |to )?)" + en + r"\b") if en in _AMB else (r"\b" + en + r"\b")
         for b in _pub9:
             if _r9.search(_pat, b.get("orig", "") or ""):
-                _h.append(("Bản dịch", b.get("title", ""), "/ban-dich/" + _o9.path.splitext(b["file"])[0] + ".html", b.get("author", "")))
+                _h.append(("Bản dịch", b.get("title", ""), "/ban-dich/" + _o9.path.splitext(_o9.path.basename(b["file"]))[0] + ".html", b.get("author", "")))
     if len(vi) >= 6 and not vi[0].isdigit():
         for b in _pub9:
-            _u = "/ban-dich/" + _o9.path.splitext(b["file"])[0] + ".html"
+            _u = "/ban-dich/" + _o9.path.splitext(_o9.path.basename(b["file"]))[0] + ".html"
             if _r9.search(r"\b" + _r9.escape(vi) + r"\b", b.get("title", "")) and not any(h[2] == _u for h in _h):
                 _h.append(("Bản dịch", b.get("title", ""), _u, b.get("author", "")))
     return _h

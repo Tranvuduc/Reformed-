@@ -1,5 +1,5 @@
 # Executed after nang_cap3.py: tai-sach.html (+ tai-sach.json). Client script: /tai-sach.js (hand-written, not generated).
-_ix4 = {b["file"][:-4]: b for b in _idx3 if b.get("file")}  # Wave 2: 3 live index entries have no 'file' key
+_ix4 = {_o3.path.splitext(_o3.path.basename(b["file"]))[0]: b for b in _idx3 if b.get("file")}  # Wave 2: 3 live index entries have no 'file' key; 698 entries have file="translations/X.txt" — key must be the basename stem "X", not "translations/X" (same translations/ bug as nang_cap3)
 _L4 = []
 for _f in sorted(_o3.listdir("txt")):
     if not _f.endswith(".txt"): continue
