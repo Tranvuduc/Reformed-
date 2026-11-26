@@ -78,7 +78,7 @@ _open6("lich-su-hom-nay.html", page("Hôm nay trong lịch sử Cải Chánh | R
 # --- So hoc ---
 _b = _NC3 + '''<h1>Sổ học của tôi</h1>
 <p>Tất cả đoạn bạn đã tô màu hoặc ghi chú trong trình đọc, gom về một chỗ. Dữ liệu nằm trên thiết bị này; hãy xuất ra tệp để lưu hoặc chuyển sang thiết bị khác.</p>
-<p class="noprint"><button class="btn primary" id="ex" type="button">Tải về (.txt)</button> <button class="btn s" id="cp" type="button">Sao chép</button></p>
+<p class="noprint"><button class="btn primary" id="ex" type="button">Tải về (.txt)</button> <button class="btn s" id="exmd" type="button">Tải về (.md)</button> <button class="btn s" id="exjs" type="button">Tải về (.json)</button> <button class="btn s" id="cp" type="button">Sao chép</button></p>
 <p class="m" id="st" role="status"></p><div id="ls"></div>
 <p class="m">Khi đọc, chạm vào một đoạn trong trình đọc để tô màu hoặc ghi chú. Nếu bạn dùng đồng bộ, các đoạn đã đồng bộ cũng hiện ở đây sau khi tải lại trình đọc.</p>
 <script src="/so-hoc.js" defer></script>'''

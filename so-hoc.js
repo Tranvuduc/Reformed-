@@ -22,7 +22,20 @@
     Object.keys(by).forEach(function (id) { o += "## " + title(id) + "\n\n"; by[id].sort(function (a, b) { return a.g - b.g; }).forEach(function (h) { o += "> " + (h.q || "").replace(/\s+/g, " ") + "\n"; if (h.n) o += "Ghi chú: " + h.n + "\n"; o += "\n"; }); });
     return o;
   }
-  $("ex").onclick = function () { var b = new Blob([text()], { type: "text/plain;charset=utf-8" }), a = document.createElement("a"); a.href = URL.createObjectURL(b); a.download = "so-hoc-reformed-vietnam.txt"; document.body.appendChild(a); a.click(); setTimeout(function () { a.remove(); URL.revokeObjectURL(a.href); }, 3000); };
+  function md() {
+    var by = {}; ALL.forEach(function (x) { (by[x.id] = by[x.id] || []).push(x.h); });
+    var o = "# Sổ học của tôi\n\nXuất từ Reformed Vietnam · " + new Date().toLocaleDateString("vi-VN") + "\n\n";
+    Object.keys(by).forEach(function (id) { o += "## " + title(id) + "\n\n"; by[id].sort(function (a, b) { return a.g - b.g; }).forEach(function (h) { o += "> " + (h.q || "").replace(/\s+/g, " ") + "\n\n"; o += "[Đọc lại](https://reformedvietnam.com/reader.html?id=" + encodeURIComponent(id).replace(/%2F/g, "/") + "&at=" + encodeURIComponent(anchor(h.q || "")) + ")\n\n"; if (h.n) o += "**Ghi chú:** " + h.n + "\n\n"; }); });
+    return o;
+  }
+  function json() {
+    var arr = ALL.map(function (x) { return { book: title(x.id), ref: x.id, text: x.h.q || "", note: x.h.n || "", created: x.h.t ? new Date(x.h.t).toISOString() : null }; });
+    return JSON.stringify(arr, null, 2);
+  }
+  function dl(name, type, s) { var b = new Blob([s], { type: type }), a = document.createElement("a"); a.href = URL.createObjectURL(b); a.download = name; document.body.appendChild(a); a.click(); setTimeout(function () { a.remove(); URL.revokeObjectURL(a.href); }, 3000); }
+  $("ex").onclick = function () { dl("so-hoc-reformed-vietnam.txt", "text/plain;charset=utf-8", text()); };
+  $("exmd").onclick = function () { dl("so-hoc-reformed-vietnam.md", "text/markdown;charset=utf-8", md()); };
+  $("exjs").onclick = function () { dl("so-hoc-reformed-vietnam.json", "application/json;charset=utf-8", json()); };
   $("cp").onclick = function () { var t = text(); (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(function () { $("st").textContent = "Đã sao chép."; }).catch(function () { $("st").textContent = "Không sao chép được. Hãy dùng nút Tải về."; }); };
   fetch("/tai-sach.json").then(function (r) { return r.json(); }).then(function (l) { l.forEach(function (b) { T[b.s] = b; }); }).catch(function () { }).then(function () { collect(); render(); });
 })();
