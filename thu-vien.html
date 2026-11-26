@@ -137,6 +137,21 @@ h3.rv-bt{margin:0 0 2px}
 h3.rv-nt{margin:0}
 /* a11y: dark-mode contrast (WCAG AA) — dark text on the light accent */
 html[data-theme="dark"] .rv-tchip[aria-pressed="true"]{color:var(--accent-fg)}
+/* Unified footer (roadmap items 1+2, 2026-11-26): footer.site rules mirrored from tools/build-pages.py _CSS_REST (shell section). The library page keeps its own app nav (#nl) — app.js renderTiles() writes #nl on every render and wires #theme/#menu, so unifying the nav needs an app.js change first (follow-up, not this template branch). Palette vars are scoped to footer.site so they never leak into the page tokens. */
+footer.site{--bg:#f7f2e9;--surface:#fffdf8;--surface-2:#efe7d8;--ink:#2b2118;--ink-soft:#5d4f40;--line:#ddd0ba;--burgundy:#7c2128;--burgundy-deep:#5d161c}
+html[data-theme="dark"] footer.site{--bg:#17120e;--surface:#221a14;--surface-2:#2b211a;--ink:#f0e6d4;--ink-soft:#c4b198;--line:#453729;--burgundy:#d17575;--burgundy-deep:#a84343}
+@media (prefers-color-scheme:dark){footer.site{--bg:#17120e;--surface:#221a14;--surface-2:#2b211a;--ink:#f0e6d4;--ink-soft:#c4b198;--line:#453729;--burgundy:#d17575;--burgundy-deep:#a84343}}
+footer.site{margin-top:80px;border-top:1px solid var(--line);background:var(--surface);font-family:'Be Vietnam Pro',system-ui,sans-serif}
+footer.site .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+footer.site .foot-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:30px;padding:46px 0 30px}
+footer.site h4{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 14px;font-family:'Be Vietnam Pro',sans-serif}
+footer.site ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px;font-size:14.5px}
+footer.site a{color:var(--ink);text-decoration:none}
+footer.site a:hover{color:var(--burgundy)}
+footer.site .foot-about{font-size:14.5px;color:var(--ink-soft);max-width:340px}
+footer.site .foot-bottom{border-top:1px solid var(--line);padding:18px 0 26px;font-size:13px;color:var(--ink-soft);display:flex;flex-wrap:wrap;gap:8px 22px}
+@media (max-width:960px){footer.site .foot-grid{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){footer.site .foot-grid{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -194,7 +209,6 @@ html[data-theme="dark"] .rv-tchip[aria-pressed="true"]{color:var(--accent-fg)}
 <div class="footgrid"><div><b>Thư viện</b><a href="/">Trang chính</a><a href="tieng-viet.html">Sách tiếng Việt</a><a href="suu-tap/">Bộ sưu tập</a><a href="tac-gia.html">Tác giả</a></div><div><b>Nguồn</b><a href="https://www.ccel.org/" target="_blank" rel="noopener">CCEL ↗</a><a href="https://www.gutenberg.org/" target="_blank" rel="noopener">Project Gutenberg ↗</a><a href="https://librivox.org/" target="_blank" rel="noopener">LibriVox ↗</a><a href="https://archive.org/" target="_blank" rel="noopener">Internet Archive ↗</a></div><div><b>Theo dõi</b><a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube @reformedvietnam ↗</a><a href="nhan-bai.html">Nhận bài qua email</a><a href="feed.xml">RSS</a></div></div>
 <p class="foot" id="footcounts"></p>
 <p class="foot" id="foot"></p>
-<p class="foot mini">Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · <a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · <a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · <a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com</p>
 <p class="foot mini">Khám phá thêm: <a href="/moi-tin-chua.html">Mới tin Chúa</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · <a href="/tac-gia.html">Tác giả</a> · <a href="/doi-song-viet-nam.html">Đời sống</a> · <a href="/nhom-nho.html">Nhóm nhỏ</a></p>
 <p class="foot mini">Các liên kết Kindle là liên kết tiếp thị Amazon — chúng tôi có thể nhận hoa hồng nhỏ khi bạn mua. Điều này không làm tăng giá của bạn.</p>
 <p class="foot mini">Báo vi phạm bản quyền / yêu cầu gỡ sách: <a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></p>
@@ -399,5 +413,55 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
 (function(){var q=document.getElementById("q");if(q){q.addEventListener("keydown",function(e){if(e.key==="Enter"){var v=q.value.trim();if(v)location.href="/loc-sach.html?q="+encodeURIComponent(v)}})}
 try{var p=new URLSearchParams(location.search).get("q");if(p)location.replace("/loc-sach.html?q="+encodeURIComponent(p))}catch(e){}})();
 </script>
+<!-- Unified footer (roadmap items 1+2, 2026-11-26): footer.site from hub.html (share-bar stripped — the library page has no per-page share row). The library nav above (#nl) is intentionally NOT swapped: app.js renderTiles() writes #nl on every render and wires #theme/#menu, so unifying the nav needs an app.js change first (follow-up). The hero is page-specific and kept. -->
+<footer class="site">
+      <div class="wrap">
+        <div class="foot-grid">
+          <div>
+            <h4>Reformed Vietnam</h4>
+            <p class="foot-about">Thư viện thần học Cải Chánh tiếng Việt — dự án cá nhân độc lập. Bản dịch ghi nhãn rõ ràng, đang chờ duyệt thần học.</p>
+          </div>
+          <div>
+            <h4>Học tập</h4>
+            <ul>
+              <li><a href="/#thu-vien">Thư Viện Sách</a></li>
+              <li><a href="/#giao-ly">Giáo Lý Hỏi Đáp</a></li>
+              <li><a href="/#bach-khoa">Bách Khoa Thần Học</a></li>
+              <li><a href="/#hoc-vien">Học Viện Cải Chánh</a></li>
+              <li><a href="/ai-dung-sau-trang-nay.html">Tuyên Xưng Đức Tin</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Đời sống</h4>
+            <ul>
+              <li><a href="/#tinh-nguyen">Ân Điển Mỗi Ngày</a></li>
+              <li><a href="/#sach-noi">Sách Nói</a></li>
+              <li><a href="/#hoi-dap">Hỏi Đáp Cải Chánh</a></li>
+              <li><a href="/bai-giang/">Bài Giảng</a></li>
+              <li><a href="/thanh-ca/">Thánh Ca &amp; Thờ Phượng</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Liên hệ</h4>
+            <ul>
+              <li><a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></li>
+              <li><a href="mailto:reformedvn@gmail.com?subject=B%C3%A1o%20l%E1%BB%97i%20b%E1%BA%A3n%20d%E1%BB%8Bch">Báo lỗi bản dịch</a></li>
+              <li><a href="mailto:reformedvn@gmail.com?subject=B%E1%BA%A3n%20quy%E1%BB%81n">Liên hệ bản quyền / gỡ nội dung</a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=61587505389829" target="_blank" rel="noopener">Facebook — Reformed Vietnam</a></li>
+              <li><a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube — @reformedvietnam</a></li>
+              <li><a href="https://www.tiktok.com/@reformed.vietnam" target="_blank" rel="noopener">TikTok — @reformed.vietnam</a></li>
+              <li><a href="https://www.threads.net/@reformedvietnam" target="_blank" rel="noopener">Threads — @reformedvietnam</a></li>
+              <li><a href="https://www.instagram.com/reformedvietnam" target="_blank" rel="noopener">Instagram — @reformedvietnam</a></li>
+              <li><a href="https://open.spotify.com/show/0uNIEUJtUUic9FYsu2rj8k" target="_blank" rel="noopener">Spotify — Sách Nói Cải Chánh (153 tập)</a></li>
+              <li><a href="https://archive.org/search?query=creator%3A%22Reformed+Vietnam%22" target="_blank" rel="noopener">Archive.org — Nghe sách nói</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="foot-bottom">
+          <span>© 2026 Reformed Vietnam</span>
+          <span>Sách dịch từ nguyên tác thuộc phạm vi công cộng hoặc được phép sử dụng miễn phí.</span>
+        </div>
+      </div>
+    </footer>
 </body>
 </html>
