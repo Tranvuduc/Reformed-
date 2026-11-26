@@ -27,6 +27,11 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ inputs.base }}
+          # Full history (not shallow): the regen branch already exists on the
+          # remote (tip d8d0bed0), so the push must prove fast-forward against
+          # it. A shallow clone (fetch-depth 1) cannot, and the push is
+          # rejected as non-fast-forward (regen run #4, 2026-11-26).
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
