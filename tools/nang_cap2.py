@@ -32,10 +32,44 @@ _b2 = _NC + '<h1>Về chúng tôi</h1><p>Reformed Vietnam là một thư viện 
  '<p class="m">Trang này là bản nháp về cách chúng tôi làm việc và chưa được mục sư duyệt.</p>'
 open("ve-chung-toi.html", "w", encoding="utf-8").write(page("Về chúng tôi và cách chọn sách | Reformed Vietnam", "Reformed Vietnam là thư viện Cải Chánh miễn phí bằng tiếng Việt: cách chọn sách, bản quyền và cách đánh dấu bản dịch.", "ve-chung-toi.html", _b2)); urls.append("ve-chung-toi.html")
 
-# 3. Trang thai ban dich
+# 3. Trang thai ban dich — + hàng đợi duyệt công khai (roadmap audit #3, mục 5)
+#    Nguồn: tools/review-queue.json (Brio cập nhật khi giao vòng cho verifier,
+#    xóa mục khi verifier trả kết quả). Trang này được build-pages.py tái tạo,
+#    nên hàng đợi phải đọc từ JSON, không sửa tay trong HTML.
+try:
+    _rq9 = _j9.load(open("tools/review-queue.json", encoding="utf-8"))
+except (OSError, ValueError):
+    _rq9 = {"queue": []}
+_rq9_items, _rq9_seen = [], set()
+for _q in (_rq9.get("queue") or []):
+    if isinstance(_q, dict) and _q.get("slug") and _q.get("slug") not in _rq9_seen:
+        _rq9_seen.add(_q.get("slug")); _rq9_items.append(_q)
+_rq9_by_slug = {}
+for _b in _pub9:
+    _s = _o9.path.splitext(_o9.path.basename(_b.get("file") or ""))[0]
+    if _s: _rq9_by_slug[_s] = _b
+_rq9_status = {"dang-duyet": "Đang được duyệt"}
+def _rq9_row(_q):
+    _s = _q.get("slug", "")
+    _b = _rq9_by_slug.get(_s)
+    _t = _b.get("title", "") if _b else _s
+    _a = _b.get("author", "") if _b else ""
+    _link = f'<a href="/ban-dich/{E(_s)}.html">{E(_t)}</a>' if _b else E(_t)
+    _st = _rq9_status.get(_q.get("status", ""), "Đang được duyệt")
+    return f'<tr><td>{_link}</td><td>{E(_a)}</td><td>{E(_q.get("reviewer", ""))}</td><td>{E(_st)}</td><td>{E(_q.get("started", ""))}</td></tr>'
+if _rq9_items:
+    _rq9_rows = "".join(_rq9_row(_q) for _q in _rq9_items)
+    _rq9_html = f'<section class="nc"><h2>Đang được duyệt</h2><p>Những bản dịch đang có verifier đọc lại. Kết quả duyệt sẽ cập nhật vào bảng bên dưới khi xong.</p><table class="tb"><tr><th>Sách</th><th>Tác giả</th><th>Người duyệt</th><th>Trạng thái</th><th>Bắt đầu</th></tr>{_rq9_rows}</table></section>'
+else:
+    _rq9_html = '<section class="nc"><h2>Đang được duyệt</h2><p>Hiện không có bản dịch nào đang được duyệt.</p></section>'
 _rv9 = [b for b in _pub9 if b.get("reviewed")]
-_rows = "".join(f'<tr><td><a href="/ban-dich/{E(_o9.path.splitext(_o9.path.basename(b["file"]))[0])}.html">{E(b.get("title", ""))}</a></td><td>{E(b.get("author", ""))}</td><td>{"Đã duyệt" if b.get("reviewed") else "Chưa duyệt"}</td></tr>' for b in sorted(_pub9, key=lambda x: (x.get("author", ""), x.get("title", ""))))
+def _rv9_status(_b):
+    if _b.get("reviewed"): return "Đã duyệt"
+    _s = _o9.path.splitext(_o9.path.basename(_b.get("file") or ""))[0]
+    return "Đang được duyệt" if _s in _rq9_seen else "Chưa duyệt"
+_rows = "".join(f'<tr><td><a href="/ban-dich/{E(_o9.path.splitext(_o9.path.basename(b["file"]))[0])}.html">{E(b.get("title", ""))}</a></td><td>{E(b.get("author", ""))}</td><td>{_rv9_status(b)}</td></tr>' for b in sorted(_pub9, key=lambda x: (x.get("author", ""), x.get("title", ""))))
 _b3 = _NC + f'<h1>Trạng thái bản dịch</h1><p>Hiện có <b>{len(_pub9)}</b> bản dịch tiếng Việt. Đã được mục sư duyệt: <b>{len(_rv9)}</b>. Chưa duyệt: <b>{len(_pub9) - len(_rv9)}</b>.</p><p>“Chưa duyệt” nghĩa là bản dịch có AI hỗ trợ và chưa có mục sư đọc lại giáo lý. Hãy đối chiếu với Kinh Thánh. Mục sư muốn giúp duyệt: <a href="/cho-muc-su.html">xem hướng dẫn</a>.</p>' \
+ f'{_rq9_html}' \
  f'<table class="tb"><tr><th>Sách</th><th>Tác giả</th><th>Trạng thái</th></tr>{_rows}</table>'
 open("trang-thai-ban-dich.html", "w", encoding="utf-8").write(page("Trạng thái duyệt các bản dịch | Reformed Vietnam", "Danh sách các bản dịch tiếng Việt và trạng thái duyệt giáo lý của từng bản.", "trang-thai-ban-dich.html", _b3)); urls.append("trang-thai-ban-dich.html")
 
