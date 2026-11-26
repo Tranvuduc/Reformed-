@@ -138,7 +138,7 @@ gì -- Các đặc tính của tấm lòng bị tội lỗi chiếm hữu, khôn
 đầy dối trá -- Sự dối trá ấy từ đâu mà ra -- Áp dụng những điều suy xét
 này.
 
-Sau khi đã bày tỏ tội lỗi nội tại, mà phần còn lại của nó ở nơi tín đồ
+Sau khi đã bày tỏ tội lỗi ngự trị, mà phần còn lại của nó ở nơi tín đồ
 là điều chúng ta xét đến, là một luật, và chứng minh một cách tổng quát
 quyền năng của nó từ đó, giờ đây chúng ta sẽ tiến tới đưa ra những bằng
 chứng riêng về hiệu lực và ưu thế của nó, từ một vài điều nói chung liên
@@ -177,7 +177,7 @@ dồi dào của nó. Nó sẽ không bao giờ cạn kiệt; nó không hao mò
 ta tiêu xài nó; phải, người ta càng phung phí kho vốn này, càng lấy ra
 khỏi kho báu này bao nhiêu, thì nó càng tăng trưởng và dồi dào bấy nhiêu!
 Như người ta không tiêu hao ân điển của mình, mà làm cho nó tăng thêm,
-bằng cách thực hành nó, thì cũng không tiêu hao tội lỗi nội tại của mình
+bằng cách thực hành nó, thì cũng không tiêu hao tội lỗi ngự trị của mình
 như vậy. Người ta càng thực hành ân điển mình trong các bổn phận vâng
 lời, thì nó càng được thêm sức và tăng trưởng; và người ta càng thể hiện
 và tuôn ra những bông trái của dục vọng mình, thì nó càng cuồng nộ và
@@ -467,7 +467,7 @@ Trời -- Trong mọi phần của linh hồn -- Bền vững.
 Thứ hai. Chúng ta đã thấy chỗ ở và chủ thể của luật tội lỗi này. Tiếp
 theo chúng ta có thể xem xét bản chất của nó nói chung, điều này cũng sẽ
 bày tỏ quyền năng và hiệu lực của nó; nhưng điều này tôi sẽ không mở rộng,
-vì không phải công việc của tôi là tuyên bố bản chất của tội lỗi nội tại:
+vì không phải công việc của tôi là tuyên bố bản chất của tội lỗi ngự trị:
 điều ấy cũng đã được người khác làm. Vì vậy tôi sẽ chỉ, liên quan đến ý
 định đặc biệt chúng ta đang có trong tay, xét một đặc tính của nó thuộc
 về bản chất của nó, và điều này luôn luôn, ở bất cứ nơi nào nó có. Và đây
@@ -1909,4 +1909,4 @@ __________________________________________________________________
 References
 
 TRANSLATION STATUS: COMPLETE
-TERMINOLOGY ISSUES: (1) "aversation" (Owen coined term) rendered "sự xa lánh" throughout — no glossary entry, judgment call. (2) "law of grace" rendered "luật ân điển" — not in glossary. (3) "the Lord" in 2 Sam. 12:9 quotation rendered "Đức Giê-hô-va" (BDM2010 standard for YHWH) rather than Đức Chúa Trời. (4) Zechariah → "Xa-cha-ri" (standard form; not in brief ref list). (5) A few [NEEDS REVIEW] flags kept on Scripture quotes where exact BDM2010 wording could not be verified (e.g., Nhã Ca 6:12; ~46 quotes in Ch. VII–VIII). (6) Minor key-term variance across chunks: "tội lỗi ngự trị" dominant; one chunk uses "tội lỗi nội tại"/"tội lỗi cư ngụ trong lòng" in places.
+TERMINOLOGY ISSUES: (1) "aversation" (Owen coined term) rendered "sự xa lánh" throughout — no glossary entry, judgment call. (2) "law of grace" rendered "luật ân điển" — not in glossary. (3) "the Lord" in 2 Sam. 12:9 quotation rendered "Đức Giê-hô-va" (BDM2010 standard for YHWH) rather than Đức Chúa Trời. (4) Zechariah → "Xa-cha-ri" (standard form; not in brief ref list). (5) A few [NEEDS REVIEW] flags kept on Scripture quotes where exact BDM2010 wording could not be verified (e.g., Nhã Ca 6:12; ~46 quotes in Ch. VII–VIII). (6) Minor key-term variance across chunks: "tội lỗi ngự trị" dominant; one chunk uses "tội lỗi ngự trị"/"tội lỗi cư ngụ trong lòng" in places.
