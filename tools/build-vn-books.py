@@ -12,9 +12,11 @@ Then run tools/build-pages.py so tieng-viet.html and sitemap.xml pick the books 
 To add a book: drop the EPUB in sach/<slug>.epub and add one entry to BOOKS.
 
 2026-11-05 (Batch D, site design-consistency fix): doc/ pages now use the shared
-site chrome -- /s.css?v=20261110, the canonical 7-link nav.top + #th theme toggle,
-the shared footer, and the rv.ptheme theme bootstrap (previously a third design
-system: inline-only CSS, 3-link nav, no theme toggle). In-content <h1> from EPUB
+site chrome -- /s.css?v=20261126, the canonical 7-link nav.top + #th theme toggle,
+the unified header.site/footer.site shell from hub.html (roadmap items 1+2,
+2026-11-26; frozen SHELL_HEADER/SHELL_FOOTER constants, kept in sync via
+scripts/check_shell_sync.py) and the rv.ptheme theme bootstrap (previously a
+third design system: inline-only CSS, 3-link nav, no theme toggle). In-content <h1> from EPUB
 chapter bodies is demoted to <h2> (the hero <h1> is the page title; M8). Pages
 whose sermon also has a bai-giang/ teaser get a back-link (H4). BOOKS gained the
 two sermons that were live in doc/ but missing from this file (compel-them-to-
@@ -97,19 +99,106 @@ table.cal td{border-bottom:1px solid var(--line);padding:.3em;vertical-align:top
 .top-btn{position:fixed;right:14px;bottom:14px;background:var(--acc);color:#fff;border-radius:50%;width:42px;height:42px;display:grid;place-items:center;text-decoration:none;font:20px system-ui;opacity:.85}
 """
 
-# Canonical nav (Batch D decision: brand + 7 links) and shared footer, matching
-# tools/build-pages.py page() chrome (Batch A owns page(); keep this copy in sync).
-NAV_TOP = ('<nav class="top"><a href="/">Reformed Vietnam</a> · <a href="/tac-gia.html">Tác giả</a> · '
-           '<a href="/tieng-viet.html">Tiếng Việt</a> · <a href="/sach-noi.html">Sách nói</a> · '
-           '<a href="/bat-dau.html">Bắt đầu</a> · <a href="/lo-trinh.html">Lộ trình đọc</a> · '
-           '<a href="/khoa-hoc.html">Học trực tuyến</a> · <a href="/bai-viet/">Bài viết</a>'
-           '<button id="th" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button></nav>')
-FOOTER = ('<footer>Thư viện sách Cải Chánh miễn phí · <a href="/">Mở thư viện</a> · '
-          '<a href="/tieu-chi-chon-sach.html">Tiêu chí chọn sách</a> · '
-          '<a href="/ai-dung-sau-trang-nay.html">Ai đứng sau trang này?</a> · '
-          '<a href="/nhan-bai.html">Nhận bài qua email</a> · Liên hệ: reformedvn@gmail.com · Theo dõi: <a href="https://www.facebook.com/profile.php?id=61587505389829" target="_blank" rel="noopener">Facebook</a> · <a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube</a> · <a href="https://www.tiktok.com/@reformed.vietnam" target="_blank" rel="noopener">TikTok</a> · <a href="https://www.threads.net/@reformedvietnam" target="_blank" rel="noopener">Threads</a> · <a href="https://www.instagram.com/reformedvietnam" target="_blank" rel="noopener">Instagram</a> · <a href="https://open.spotify.com/show/0uNIEUJtUUic9FYsu2rj8k" target="_blank" rel="noopener">Spotify</a> · <a href="https://archive.org/search?query=creator%3A%22Reformed+Vietnam%22" target="_blank" rel="noopener">Archive.org</a></footer>')
+# Unified site shell (roadmap items 1+2, 2026-11-26): the header/footer
+# below mirror hub.html's <header class="site"> / <footer class="site">
+# verbatim (extracted the same way scripts/hub_page.py does). They are
+# FROZEN string constants — NOT a live hub_page import — so that doc/ pages
+# use the exact same markup as tools/build-pages.py page() (which cannot
+# import hub_page: gen4.py extracts page() by AST closure). If hub.html's
+# shell changes, update these constants and run scripts/check_shell_sync.py.
+SHELL_HEADER = """<header class="site">
+      <div class="wrap">
+        <div class="nav-row">
+          <a class="brand" href="/#top">
+            <span class="mark">Reformed Vietnam</span>
+            <span class="sub">Thư viện Cải Chánh</span>
+          </a>
+          <button class="menu-btn" id="menuBtn" aria-label="Mở menu" aria-expanded="false">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+          </button>
+          <nav class="main" id="mainNav">
+            <a href="/#thu-vien">Thư Viện<span class="gloss">Kho sách để đọc</span></a>
+            <a href="/#giao-ly">Giáo Lý<span class="gloss">Câu hỏi đáp ngắn về đức tin</span></a>
+            <a href="/#bach-khoa">Bách Khoa<span class="gloss">Giải nghĩa các từ thần học</span></a>
+            <a href="/#hoi-dap">Hỏi Đáp<span class="gloss">Giải đáp thắc mắc thường gặp</span></a>
+            <a href="/#hoc-vien">Học Viện<span class="gloss">Khóa học theo từng bước</span></a>
+            <a href="/bai-giang/">Bài Giảng<span class="gloss">Nghe giảng theo đoạn Kinh Thánh</span></a>
+            <a href="/thanh-ca/">Thánh Ca<span class="gloss">Bài hát thờ phượng</span></a>
+          </nav>
+          <button class="theme-btn" id="themeBtn" type="button" title="Sáng/Tối" aria-label="Chế độ sáng tối">◐</button>
+          <a class="nav-cta" href="/#tinh-nguyen">Tĩnh Nguyện Hôm Nay</a>
+        </div>
+      </div>
+    </header>"""
+SHELL_FOOTER = """<footer class="site">
+      <div class="wrap">
+        <div class="foot-grid">
+          <div>
+            <h4>Reformed Vietnam</h4>
+            <p class="foot-about">Thư viện thần học Cải Chánh tiếng Việt — dự án cá nhân độc lập. Bản dịch ghi nhãn rõ ràng, đang chờ duyệt thần học.</p>
+          </div>
+          <div>
+            <h4>Học tập</h4>
+            <ul>
+              <li><a href="/#thu-vien">Thư Viện Sách</a></li>
+              <li><a href="/#giao-ly">Giáo Lý Hỏi Đáp</a></li>
+              <li><a href="/#bach-khoa">Bách Khoa Thần Học</a></li>
+              <li><a href="/#hoc-vien">Học Viện Cải Chánh</a></li>
+              <li><a href="/ai-dung-sau-trang-nay.html">Tuyên Xưng Đức Tin</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Đời sống</h4>
+            <ul>
+              <li><a href="/#tinh-nguyen">Ân Điển Mỗi Ngày</a></li>
+              <li><a href="/#sach-noi">Sách Nói</a></li>
+              <li><a href="/#hoi-dap">Hỏi Đáp Cải Chánh</a></li>
+              <li><a href="/bai-giang/">Bài Giảng</a></li>
+              <li><a href="/thanh-ca/">Thánh Ca &amp; Thờ Phượng</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Liên hệ</h4>
+            <ul>
+              <li><a href="mailto:reformedvn@gmail.com">reformedvn@gmail.com</a></li>
+              <li><a href="mailto:reformedvn@gmail.com?subject=B%C3%A1o%20l%E1%BB%97i%20b%E1%BA%A3n%20d%E1%BB%8Bch">Báo lỗi bản dịch</a></li>
+              <li><a href="mailto:reformedvn@gmail.com?subject=B%E1%BA%A3n%20quy%E1%BB%81n">Liên hệ bản quyền / gỡ nội dung</a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=61587505389829" target="_blank" rel="noopener">Facebook — Reformed Vietnam</a></li>
+              <li><a href="https://youtube.com/@reformedvietnam" target="_blank" rel="noopener">YouTube — @reformedvietnam</a></li>
+              <li><a href="https://www.tiktok.com/@reformed.vietnam" target="_blank" rel="noopener">TikTok — @reformed.vietnam</a></li>
+              <li><a href="https://www.threads.net/@reformedvietnam" target="_blank" rel="noopener">Threads — @reformedvietnam</a></li>
+              <li><a href="https://www.instagram.com/reformedvietnam" target="_blank" rel="noopener">Instagram — @reformedvietnam</a></li>
+              <li><a href="https://open.spotify.com/show/0uNIEUJtUUic9FYsu2rj8k" target="_blank" rel="noopener">Spotify — Sách Nói Cải Chánh (153 tập)</a></li>
+              <li><a href="https://archive.org/search?query=creator%3A%22Reformed+Vietnam%22" target="_blank" rel="noopener">Archive.org — Nghe sách nói</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="share-bar" style="padding-top:22px">
+          <span class="share-lbl">Chia sẻ trang này</span>
+          <a class="share-btn fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freformedvietnam.com%2F" target="_blank" rel="noopener" aria-label="Chia sẻ lên Facebook">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.5 21v-7.2h2.4l.4-2.8h-2.8V9.2c0-.8.2-1.4 1.4-1.4h1.5V5.3c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2H8v2.8h2.5V21h3z"/></svg>
+            Facebook
+          </a>
+          <a class="share-btn zalo" href="https://sp.zalo.me/share_inline?url=https%3A%2F%2Freformedvietnam.com%2F" target="_blank" rel="noopener" aria-label="Chia sẻ qua Zalo">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.5 8.5 0 0 1-8.5 8.5c-1.5 0-2.9-.4-4.1-1L3 20l1.1-5.2A8.5 8.5 0 1 1 21 11.5z"/></svg>
+            Zalo
+          </a>
+        </div>
+        <div class="foot-bottom">
+          <span>© 2026 Reformed Vietnam</span>
+          <span>Sách dịch từ nguyên tác thuộc phạm vi công cộng hoặc được phép sử dụng miễn phí.</span>
+        </div>
+      </div>
+    </footer>"""
+# The hub footer's share-bar shares the HOMEPAGE url (hardcoded); doc/ pages
+# have no per-page share row, so strip it (same rule as build-pages.py).
+if '<div class="share-bar"' in SHELL_FOOTER:
+    _stripped = re.sub(r'\s*<div class="share-bar".*?</div>(?=\s*<div class="foot-bottom">)', "", SHELL_FOOTER, flags=re.S)
+    assert _stripped != SHELL_FOOTER, "shell footer share-bar present but strip pattern no longer matches hub.html"
+    SHELL_FOOTER = _stripped
+
 THEME_BOOT = '<script>try{var _t=localStorage.getItem("rv.theme")||localStorage.getItem("rv.ptheme");if(_t)document.documentElement.setAttribute("data-theme",_t)}catch(e){}</script>'
-THEME_TOGGLE = '<script>(function(){var b=document.getElementById("th");if(!b)return;b.onclick=function(){var h=document.documentElement,d=h.getAttribute("data-theme")==="dark"||(!h.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches),c=d?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c);localStorage.setItem("rv.ptheme",c)}catch(e){}}})()</script>'
+SHELL_JS = """<script>(function(){var b=document.getElementById("menuBtn"),n=document.getElementById("mainNav");if(b&&n){b.addEventListener("click",function(){var o=n.classList.toggle("open");b.setAttribute("aria-expanded",o?"true":"false")});n.addEventListener("click",function(e){if(e.target.tagName==="A")n.classList.remove("open")})}var t=document.getElementById("themeBtn");if(t)t.onclick=function(){var h=document.documentElement,d=h.getAttribute("data-theme")==="dark"||(!h.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches),c=d?"light":"dark";h.setAttribute("data-theme",c);try{localStorage.setItem("rv.theme",c);localStorage.setItem("rv.ptheme",c)}catch(e){}var mc=document.querySelector('meta[name="theme-color"]');if(mc)mc.setAttribute("content",c==="dark"?"#14171c":"#9a3412")}})()</script>"""
 # Slugs that also have a bai-giang/ teaser page (H4 cross-link; the other 2 doc/
 # sermons have no teaser, so no back-link is emitted for them).
 BAI_GIANG = {
@@ -165,16 +254,16 @@ def main():
         page = f"""<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(vi_d)}"><link rel="canonical" href="{url}">
 <meta property="og:type" content="book"><meta property="og:title" content="{E(vi_t)} – {E(author)}"><meta property="og:description" content="{E(vi_d)}"><meta property="og:url" content="{url}"><meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">{FONT}{THEME_BOOT}<style>{CSS}</style><link rel="stylesheet" href="/s.css?v=20261110"><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head><body><main id="top">
-{NAV_TOP}
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">{FONT}{THEME_BOOT}<style>{CSS}</style><link rel="stylesheet" href="/s.css?v=20261126"><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head><body>{SHELL_HEADER}<main id="top">
 <h1>{E(vi_t)}</h1><p class="m">{E(author)} · {year} · Nguyên tác: <i>{E(en_t)}</i></p>
 <div class="acts"><a class="btn" href="/sach/{slug}.epub" download>⬇ Tải EPUB</a><a class="btn s" href="/reader.html?id=vn/{slug}&amp;pid=rv-{slug}">Mở trong trình đọc</a></div>
 <p class="warn">Bản dịch tiếng Việt của Reformed Vietnam từ nguyên tác thuộc phạm vi công cộng. Đây là bản dịch sơ thảo, chưa được hiệu đính. Thấy lỗi? <a href="{mail}">Góp ý bản dịch</a>.</p>
 <nav class="toc" aria-label="Mục lục"><b>Mục lục</b><ol>{toc}</ol></nav>
 {body}
 {back}
-{FOOTER}</main>
-<a class="top-btn" href="#top" aria-label="Lên đầu trang">↑</a>{THEME_TOGGLE}</body></html>"""
+</main>
+{SHELL_FOOTER}
+<a class="top-btn" href="#top" aria-label="Lên đầu trang">↑</a>{SHELL_JS}</body></html>"""
         open(path, "w", encoding="utf-8").write(page)
         entries.append({"id": f"rv-{slug}", "ty": ty, "y": year, "col": col, "a": author,
                         "url": f"/{path}", "epub": f"/{epub}",
