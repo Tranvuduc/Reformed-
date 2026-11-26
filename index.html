@@ -288,6 +288,19 @@
       .btn.solid { background: var(--burgundy); color: #fff; }
       .btn.solid:hover { background: var(--burgundy-deep); }
       .btn:not(.solid):hover { background: color-mix(in srgb, var(--burgundy) 8%, transparent); }
+
+      /* ---------- resume ("Đọc tiếp") pilot ---------- */
+      .resume-card {
+        background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+        padding: 18px 22px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
+        box-shadow: var(--shadow); margin-top: 28px;
+      }
+      .resume-card .resume-body { flex: 1 1 320px; min-width: 0; }
+      .resume-card .resume-label { font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold-text); }
+      .resume-card .resume-title { font-family: "Noto Serif", serif; font-size: 19px; font-weight: 700; line-height: 1.35; margin: 4px 0 6px; }
+      .resume-card .resume-meta { color: var(--ink-soft); font-size: 14px; display: flex; align-items: center; gap: 10px; }
+      .resume-card .resume-bar { display: inline-block; width: 120px; height: 6px; border-radius: 3px; background: var(--surface-2); overflow: hidden; }
+      .resume-card .resume-bar i { display: block; height: 100%; background: var(--burgundy); border-radius: 3px; }
       .book.highlight .cover { outline: 3px solid var(--gold); outline-offset: 3px; }
 
       /* ---------- two-col feature band ---------- */
@@ -612,6 +625,29 @@
           </div>
         </div>
       </div>
+
+      <!-- RESUME ("Đọc tiếp" pilot) — hidden until a saved position exists -->
+      <div class="wrap" id="resumeWrap" hidden>
+        <div class="resume-card">
+          <div class="resume-body">
+            <div class="resume-label">Đọc tiếp</div>
+            <div class="resume-title" id="resumeTitle"></div>
+            <div class="resume-meta"><span id="resumePct"></span><span class="resume-bar"><i id="resumeBar"></i></span></div>
+          </div>
+          <a class="btn solid" id="resumeLink" href="#">Đọc tiếp →</a>
+        </div>
+      </div>
+      <script>(function(){try{
+        var r=JSON.parse(localStorage.getItem("rv.resume")||"null");
+        if(!r||!r.id||!r.title)return;
+        var w=document.getElementById("resumeWrap");if(!w)return;
+        document.getElementById("resumeTitle").textContent=r.title;
+        var p=Math.max(0,Math.min(100,Math.round(r.pct||0)));
+        document.getElementById("resumePct").textContent="Đã đọc "+p+"%";
+        document.getElementById("resumeBar").style.width=p+"%";
+        document.getElementById("resumeLink").href="/reader.html?id="+encodeURIComponent(r.id)+"&pid="+encodeURIComponent(r.pid||r.id);
+        w.hidden=false;
+      }catch(e){}})();</script>
 
       <!-- PATHS -->
       
