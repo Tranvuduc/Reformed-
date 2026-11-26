@@ -86,7 +86,7 @@ OG_BG = (243, 239, 228)
 ROMAN = re.compile(r"^[IVXLCDM]+$")
 TITLECASE_CORRUPT = re.compile(r"\bXx[a-z]+\b")  # tripwire: "Xxxiii", "Xxxvii", ...
 WORD_COUNT_RE = re.compile(r"(\d[\d.]*) từ")
-FLAG_RE = re.compile(r"\[NEEDS REVIEW: [^\]]*\]")  # FULL chunk incl. prefix + "]"
+FLAG_RE = re.compile(r"\[NEEDS REVIEW: (?:[^\[\]]|\[[^\]]*\])*\]")  # FULL chunk incl. prefix + "]"; allows one level of nested [...] in flag text (e.g. "[there are]")
 FLAG_BTN = '<button type="button" class="nr-flag"'
 BADGE = '<span class="rv-badge'
 NR_TEXT_RE = re.compile(r'<span class="nr-text"[^>]*>(.*?)</span>', re.S)
