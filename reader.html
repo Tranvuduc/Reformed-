@@ -271,6 +271,21 @@ function updateProgressSoon(){clearTimeout(progTimer);progTimer=setTimeout(updat
 function save(pct){
   try{var p=JSON.parse(ls("rv.prog")||"{}");if(pct<=0&&!p[pid])return;
     p[pid]={s:pct>=100?"done":"reading",p:Math.min(100,Math.round(pct/5)*5),t:Date.now()};ls("rv.prog",JSON.stringify(p))}catch(e){}
+  saveResume(pct);
+}
+/* "Đọc tiếp" pilot: remember the most recently read book so the homepage
+   can offer a resume button. One pointer only (rv.resume); the per-book
+   position itself stays in rv.pos.<id> / rv.sc.<id> and is restored by
+   reader.html on load. Guard mirrors save(): no entry at 0% with no
+   prior progress. */
+function saveResume(pct){
+  try{
+    pct=Math.max(0,Math.min(100,Math.round(pct||0)));
+    var p=JSON.parse(ls("rv.prog")||"{}");
+    if(pct<=0&&!p[pid])return;
+    var t=$("ttl")?$("ttl").textContent:"";
+    ls("rv.resume",JSON.stringify({id:id,pid:pid,title:(t||name||"").trim(),pct:pct,at:Date.now()}));
+  }catch(e){}
 }
 function go(i,opt){stopA(true);if(S.mode==="scroll"){scrollGo(i,opt);return}render(i,opt&&opt.noscroll?false:true);if(opt&&opt.flash!=null)flash(opt.flash,opt.q)}
 function scrollGo(i,opt){i=Math.max(0,Math.min(pages.length-1,i));cur=i;ensurePage(i);var el=$("txt").querySelector('[data-pg="'+i+'"][data-k="0"]');if(el)el.scrollIntoView({block:"start"});updateProgress();if(opt&&opt.flash!=null)flash(opt.flash,opt.q)}
@@ -289,7 +304,7 @@ document.addEventListener("pointerdown",function(e){pz0={x:e.clientX,y:e.clientY
 document.addEventListener("pointerup",function(e){if(!pz0)return;var dx=e.clientX-pz0.x,dy=e.clientY-pz0.y,hadSel=pzSel;pz0=null;if(hadSel)return;if(Date.now()-pzt0>=500||Math.abs(dx)>=10||Math.abs(dy)>=10)return;if(S.mode!=="page")return;if(!pages||!pages.length)return;if(e.target.closest&&e.target.closest("#sheet,#pl,#foot,#top,#hlb,#bp,#nd,.term,.br,a,button,input,select,textarea"))return;var s=window.getSelection();if(s&&!s.isCollapsed)return;var W=window.innerWidth,x=e.clientX;if(x<W*0.28)go(cur-1);else if(x>W*0.72)go(cur+1)},{passive:true});
 // auto-hide header + remember scroll
 var ly=0,st2;
-window.addEventListener("scroll",function(){var y=scrollY;if(!sheetOn())$("top").classList.toggle("h",y>ly&&y>90);ly=y;clearTimeout(st2);st2=setTimeout(function(){ls("rv.sc."+id,JSON.stringify({p:cur,y:Math.round(scrollY)}))},400);if(S.mode==="scroll")scrollTick();else updateProgressSoon()},{passive:true});
+window.addEventListener("scroll",function(){var y=scrollY;if(!sheetOn())$("top").classList.toggle("h",y>ly&&y>90);ly=y;clearTimeout(st2);st2=setTimeout(function(){ls("rv.sc."+id,JSON.stringify({p:cur,y:Math.round(scrollY)}));saveResume(updateProgress())},400);if(S.mode==="scroll")scrollTick();else updateProgressSoon()},{passive:true});
 function sizeFoot(){document.documentElement.style.setProperty("--fh",$("foot").offsetHeight+"px")}
 
 /* ---------- scroll mode (Kindle-like sample: continuous scroll) ---------- */
