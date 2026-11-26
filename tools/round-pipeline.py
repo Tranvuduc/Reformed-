@@ -54,6 +54,7 @@ Exit codes: 0 = all stages PASS; 1 = a stage FAILED (exception report printed,
 run stops at the first FAIL); 2 = usage error.
 """
 import argparse
+import datetime
 import hashlib
 import html
 import importlib.util
@@ -1155,6 +1156,66 @@ def stage_f_epub_sach(manifest, workdir, dry_run):
         "(first round with both parts goes live only after your check)")
 
 # ---------------------------------------------- stage (d) search + sitemap --
+# ------------------------------------------------- changelog (item 6) -------
+# Roadmap audit #3, item 6: keep "Mới cập nhật" in sync. One entry per staged
+# book is prepended to tools/cap_nhat.json (newest-first, same format as the
+# existing entries: {"d": YYYY-MM-DD, "t": ..., "u": "/ban-dich/<slug>.html"}).
+# The date is the STAGING date (+07, the file's convention; the VM clock is
+# UTC, so it is computed explicitly). Guarded by design: a changelog failure
+# must NEVER fail staging -- it is not on the critical path.
+CAP_NHAT_TZ = datetime.timezone(datetime.timedelta(hours=7))
+
+
+def append_changelog(items, path=None):
+    """Prepend one changelog entry per staged book to tools/cap_nhat.json.
+    Skips a book whose URL is already listed (double-append guard).
+    Returns (appended, skipped). Never raises: any error (missing/corrupt
+    file, unwritable, bad item) logs a warning and returns (0, len(items))."""
+    if path is None:
+        path = REPO / "tools/cap_nhat.json"
+    try:
+        try:
+            data = json.loads(Path(path).read_text(encoding="utf-8"))
+        except FileNotFoundError:
+            data = []
+        if not isinstance(data, list):
+            log("  WARNING: cap_nhat.json is not a list -- changelog skipped")
+            return (0, len(items))
+        have = {x.get("u") for x in data if isinstance(x, dict)}
+        today = datetime.datetime.now(CAP_NHAT_TZ).date().isoformat()
+        new = []
+        for it in items:
+            try:
+                u = f"/ban-dich/{it['slug']}.html"
+                if u in have:
+                    continue
+                new.append({"d": today,
+                            "t": f"Thêm sách: {it['short']} — {it['author']} "
+                                 "(bản nháp, chưa mục sư duyệt)",
+                            "u": u})
+                have.add(u)
+            except Exception as e:  # noqa: BLE001 -- one bad item skips itself
+                log(f"  WARNING: changelog entry skipped for "
+                    f"{it.get('slug', '?')}: {e}")
+        if not new:
+            log("  changelog: all slugs already listed, nothing to append")
+            return (0, len(items))
+        out = new + data
+        tmp = Path(str(path) + ".tmp")
+        tmp.write_text(json.dumps(out, ensure_ascii=False, indent=1),
+                       encoding="utf-8")
+        os.replace(tmp, path)
+        check = json.loads(Path(path).read_text(encoding="utf-8"))
+        assert len(check) == len(out), "changelog re-read count mismatch"
+        log(f"  changelog: +{len(new)} entr{'y' if len(new) == 1 else 'ies'} "
+            "in tools/cap_nhat.json")
+        return (len(new), len(items) - len(new))
+    except Exception as e:  # noqa: BLE001 -- changelog must never fail staging
+        log(f"  WARNING: changelog append failed ({e}) -- skipped, "
+            "staging continues")
+        return (0, len(items))
+
+
 def stage_d_search_sitemap(manifest, dry_run):
     stage_head("(d) SEARCH + SITEMAP")
     items = manifest["items"]
@@ -1186,6 +1247,9 @@ def stage_d_search_sitemap(manifest, dry_run):
             f"{json.loads((REPO / 'data/search-index.json').read_text(encoding='utf-8'))['count'] + len(items)} (simulated)")
         log("  would revert tim-kiem/index.html to HEAD if build_search.py "
             "rewrites it (known drift)")
+        log(f"  would append {len(items)} changelog entr"
+            f"{'y' if len(items) == 1 else 'ies'} to tools/cap_nhat.json "
+            "(not written in dry-run)")
         log("  (d) DRY-RUN PASS (simulation only)")
         return {"sitemap_before": locs_before,
                 "sitemap_after": locs_before + 2 * len(items),
@@ -1241,6 +1305,9 @@ def stage_d_search_sitemap(manifest, dry_run):
         diffed = git("diff", "--name-only").split()
         assert "tim-kiem/index.html" not in diffed, "tim-kiem revert failed"
         log("  tim-kiem/index.html reverted to HEAD (known build_search drift)")
+    # Changelog (roadmap #3 item 6): one entry per staged book. Guarded
+    # inside append_changelog -- a failure here only logs a warning.
+    append_changelog(items)
     log("  (d) PASS")
     return {"sitemap_before": locs_before, "sitemap_after": locs_before + 2 * len(items),
             "search_before": search_before, "search_after": sdata["count"]}
@@ -1258,7 +1325,8 @@ def print_commit_commands(manifest, counts):
                        f"og/ban-dich-{it['slug']}.jpg",
                        f"og/ban-dich-{it['slug']}.jpg.sig",
                        f"sach/{it['slug']}.html", f"sach/{it['slug']}.epub"]
-    page_files += ["sitemap.xml", "data/search-index.json"]
+    page_files += ["sitemap.xml", "data/search-index.json",
+                   "tools/cap_nhat.json"]  # changelog (roadmap #3 item 6)
     log("\n===== COMMIT COMMANDS (Molly runs these; the script never commits) =====")
     log("  # 1. index commit")
     log("  git -C " + str(REPO) + " add " + " ".join(idx_files + txt_files))
