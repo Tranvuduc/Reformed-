@@ -603,6 +603,7 @@ exec(open('tools/glossary.py', encoding='utf-8').read())
 exec(open('tools/vn_context.py', encoding='utf-8').read())
 exec(open('tools/subscribe_page.py', encoding='utf-8').read())
 exec(open('tools/vi_books.py', encoding='utf-8').read())
+exec(open('tools/static_txt.py', encoding='utf-8').read())
 exec(open('tools/suu_tap.py', encoding='utf-8').read())
 exec(open('tools/articles.py', encoding='utf-8').read())
 
@@ -640,7 +641,6 @@ exec(open('tools/nang_cap3.py', encoding='utf-8').read())
 exec(open('tools/nang_cap4.py', encoding='utf-8').read())
 exec(open('tools/nang_cap5.py', encoding='utf-8').read())
 exec(open('tools/nang_cap6.py', encoding='utf-8').read())
-exec(open('tools/static_txt.py', encoding='utf-8').read())
 sm = "".join(f"<url><loc>{SITE}/{u}</loc></url>" for u in urls)
 # Preserve sitemap entries owned by the hub generators (scripts/build_*.py):
 # build-pages owns only its own inventory and must never drop foreign entries
