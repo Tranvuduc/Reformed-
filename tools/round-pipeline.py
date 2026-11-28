@@ -777,9 +777,19 @@ def stage_c_pages(manifest, workdir, dry_run):
     # it instead of silently publishing a card-less page.
     m = re.search(r"related-books pool: (\d+)", r.stdout)
     if m and int(m.group(1)) < 100:
+        # Diagnostic (R152): the pool-fail branch used to swallow gen4's
+        # stderr, so the tree-fetch failure reason never reached the log.
+        # Surface both tails (token redacted) so the next failure is
+        # self-explaining instead of a bare "pool 1".
+        err_tail = (r.stderr or "")[-2000:]
+        if env.get("GITHUB_TOKEN"):
+            err_tail = err_tail.replace(env["GITHUB_TOKEN"], "[redacted]")
+        out_tail = "\n".join(r.stdout.splitlines()[-15:])
         raise Fail(f"gen4 related-books pool {m.group(1)} < 100 -- GitHub "
                    f"tree fetch probably failed and fell back to the "
-                   f"staging txtdir; re-run the pipeline")
+                   f"staging txtdir; re-run the pipeline\n"
+                   f"gen4 stderr tail:\n{err_tail}\n"
+                   f"gen4 stdout tail:\n{out_tail}")
     log("  gen4 output tail:\n" + "\n".join(r.stdout.splitlines()[-15:]))
     if r.returncode != 0:
         raise Fail(f"gen4 failed ({r.returncode}):\n{r.stderr[-2000:]}")
